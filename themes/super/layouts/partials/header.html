@@ -1,0 +1,67 @@
+<header class="bg-white shadow" x-data="{ open: false, langMenu: false }">
+    <div class="container mx-auto px-4">
+      <nav class="flex items-center justify-between py-4">
+        
+        <!-- Site title -->
+        <a href="{{ .Site.Home.RelPermalink }}" class="text-xl font-bold text-blue-600">{{ .Site.Title }}</a>
+
+        <!-- Hamburger -->
+        <button
+          class="md:hidden block text-gray-600 focus:outline-none"
+          @click="open = !open"
+          aria-label="Toggle Menu"
+        >
+          <svg x-show="!open" x-cloak class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2"
+            viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+          <svg x-show="open" x-cloak class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2"
+            viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M6 18L18 6M6 6l12 12"></path>
+          </svg>
+        </button>
+
+        <!-- Nav Items -->
+        <div
+          :class="open ? 'block' : 'hidden'"
+          class="w-full md:flex md:items-center md:space-x-6 md:w-auto"
+        >
+          <!-- Dynamic menu -->
+          {{ range .Site.Menus.main }}
+            <a href="{{ .URL | relLangURL }}" class="block uppercase py-2 text-xs tracking-tighter text-gray-700 hover:text-blue-600">
+              {{ .Name }}
+            </a>
+          {{ end }}
+
+        <div class="relative">
+          {{ partial "search.html" . }}
+        </div>
+        
+          <!-- Language Dropdown (no inner x-data) -->
+          <div class="relative" @click.away="langMenu = false">
+            <button
+              @click="langMenu = !langMenu"
+              class="flex items-center px-3 py-2 text-sm bg-gray-100 text-gray-700 rounded hover:bg-gray-200"
+            >
+              {{ .Site.Language.LanguageName }}
+              <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" stroke-width="2"
+                viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+            <div
+              x-show="langMenu"
+              x-cloak
+              class="absolute z-10 mt-2 w-40 bg-white rounded-md shadow-lg"
+            >
+              {{ range .Site.Home.AllTranslations }}
+                <a href="{{ .Permalink }}"
+                  class="block px-4 py-2 text-sm hover:bg-gray-100 {{ if eq $.Site.Language.Lang .Language.Lang }}text-blue-600 font-semibold{{ end }}">
+                  {{ .Language.LanguageName }}
+                </a>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>

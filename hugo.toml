@@ -1,0 +1,90 @@
+baseURL = 'https://superphysics.org/'
+languageCode = 'en-us'
+title = 'Superphysiccs'
+timeout = "300s"
+ignoreLogs = ['warning-goldmark-raw-html']
+
+theme = "super"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[languages]
+  [languages.en]
+    contentDir = "content/en/" #English
+    weight = 1
+    languageName = "English"
+    [[languages.en.menu.main]]
+        name = "Research"
+        # name = "/icons/book.png"
+        url = "research"
+        weight = 1
+    [[languages.en.menu.main]]
+        identifier = "sp"
+        name = "Superphysics"
+        # name = "/icons/sp.png"
+        url = "superphysics"
+        weight = 2
+    [[languages.en.menu.main]]
+        name = "Math"
+        url = "supermath"
+        weight = 3        
+    [[languages.en.menu.main]]
+        name = "Material"
+        # name = "/icons/spmat.png"
+        url = "material"
+        weight = 4
+    [[languages.en.menu.main]]
+        # name = "/icons/spmed.png"
+        name = "Bio"
+        url = "bio"
+        weight = 5
+    [[languages.en.menu.main]]
+        name = "Social"
+        # name = "/icons/spsoc.png"
+        url = "social"
+        weight = 6
+    [[languages.en.menu.main]]
+        name = "Spiritual"
+        url = "spiritual/"
+        weight = 7
+    [[languages.en.menu.main]]
+        name = "Cycles"
+        url = "social/cycles/"
+        weight = 9
+    [[languages.en.menu.main]]
+        name = "FAQs"
+        url = "faqs"
+        weight = 11
+    [[languages.en.menu.main]]
+        name = "News"
+        url = "news"
+        weight = 13
+    [[languages.en.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 14
+    [[languages.en.menu.main]]
+        name = "Help!"
+        # name = "/icons/heart.png"
+        url = "help/"
+        weight = 15
+
+  [languages.es]
+    contentDir = "content/es"
+    languageName = "Español"
+    weight = 2
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "A Hugo site with Tailwind CSS"
+  # author = "Your Name"
+
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"

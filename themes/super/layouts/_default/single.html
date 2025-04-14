@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+<article class="max-w-5xl mx-auto px-4 py-6">
+  <!-- Breadcrumbs -->
+  <nav class="text-sm text-gray-500 mb-4">
+    {{- range $i, $e := .Sections -}}
+      <a href="{{ .Permalink }}" class="hover:underline">{{ .Title }}</a>{{ if lt (add $i 1) (len $.Sections) }} / {{ end }}
+    {{- end }}
+    / <span class="text-gray-600">{{ .Title }}</span>
+  </nav>
+
+  <!-- Header -->
+  <div class="border p-4">
+    <div class="flex items-start justify-between">
+      <div class="flex-1">
+        <h1 class="text-4xl font-bold mb-2">{{ .Title }}</h1>
+        <div class="flex items-start space-x-4">
+          <!-- Avatar -->
+          <img src="/images/avatar.png" alt="Author avatar" class="w-12 h-12 rounded-full border">
+
+          <!-- Meta -->
+          <div class="text-sm text-gray-700">
+            <div>{{ .Params.author }} | {{ .Date.Format "Jan 2, 2006" }}</div>
+            <div>{{ .ReadingTime }} min read | {{ .WordCount }} words</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- TOC toggle button -->
+      <details class="toc relative w-8 h-8 ml-4" x-data="{ open: false }">
+        <summary class="cursor-pointer list-none">
+          <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" stroke-width="2"
+               viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M19 9l-7 7-7-7" />
+          </svg>
+        </summary>
+        <!-- Table of Contents -->
+        <ul class="mt-2 bg-gray-50 rounded-md p-3 shadow-md text-sm">
+          {{ .TableOfContents }}
+        </ul>
+      </details>
+    </div>
+
+    <!-- Content -->
+    <div class="mt-6 prose prose-lg max-w-none">
+      {{ .Content }}
+    </div>
+  </div>
+</article>
+
+
+{{ end }}
+

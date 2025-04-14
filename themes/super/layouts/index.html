@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+
+<section class="bg-gray-50 py-12">
+  <div class="container mx-auto px-4">
+    <!-- Section Title -->
+    <h2 class="text-3xl font-bold mb-10 text-center">Featured Video & Articles</h2>
+
+    <!-- Grid Layout -->
+    <div class="grid grid-cols-1 lg:grid-cols-5 gap-6">
+      <!-- YouTube Video (3 of 5 columns on large screens) -->
+      <div class="lg:col-span-3">
+        <div class="aspect-w-16 aspect-h-9 rounded-xl overflow-hidden shadow-lg">
+          <iframe
+            class="w-full h-full"
+            src="https://www.youtube.com/embed/Wver27ebRWU"
+            title="YouTube video player"
+            frameborder="0"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+
+      <!-- Article Cards (2 of 5 columns on large screens) -->
+      <div class="lg:col-span-2 flex flex-col gap-4">
+        {{ range first 3 (where site.RegularPages "Section" "bio") }}
+          <a href="{{ .RelPermalink }}"
+             class="group flex flex-col sm:flex-row lg:flex-col bg-white rounded-lg overflow-hidden shadow hover:shadow-md transition-shadow duration-200">
+            {{ with .Params.image }}
+              <img src="{{ . | relURL }}" alt="{{ $.Title }}"
+                   class="sm:w-32 lg:w-full h-48 object-cover">
+            {{ end }}
+            <div class="p-4 flex flex-col justify-center text-center sm:text-left lg:text-center">
+              <h3 class="text-md font-semibold text-gray-800 group-hover:text-blue-600">
+                {{ .Title }}
+              </h3>
+            </div>
+          </a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+{{ end }}
