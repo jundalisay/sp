@@ -1,6 +1,6 @@
 {{ define "main" }}
-asdf
 
+<section class="container max-w-5xl mx-auto px-4 py-6">
   <div class="mb-8">
     <h1 class="mb-4 text-3xl font-bold">{{ .Title }}</h1>
     {{ with .Content }}
@@ -9,8 +9,33 @@ asdf
   </div>
 
   {{ $paginator := .Paginate .Pages }}
-  
-  <div class="space-y-8">
+ 
+
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 p-5">
+  {{ range $paginator.Pages }}
+
+    <div class="ani hover:bg-sky-700 bg-white rounded-lg overflow-hidden shadow shadow hover:shadow-lg transition-shadow duration-200">
+      <a href="{{ .Permalink }}">
+        {{ with .Params.image }}
+          <div class="aspect-[16/9] w-full overflow-hidden">
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full h-full object-cover hover:scale-110">
+          </div>
+        {{ end }}
+        <div class="p-4">
+          <h3 class="leading-4 text-lg font-semibold text-gray-800 hover:text-blue-600">
+            {{ .Title }}
+          </h3>
+        </div>
+      </a>
+    </div>
+
+  {{ end }}
+</div>
+
+
+
+ 
+  <!-- <div class="space-y-8">
     {{ range $paginator.Pages }}
       <div class="card">
         <h2 class="mb-2 text-xl font-bold">
@@ -40,7 +65,12 @@ asdf
         </div>
       </div>
     {{ end }}
-  </div>
+  </div> -->
 
+<div class="flex flex-row min-h-screen justify-center items-center">
   {{ template "_internal/pagination.html" . }}
+</div>
+
+</section>
+
 {{ end }}

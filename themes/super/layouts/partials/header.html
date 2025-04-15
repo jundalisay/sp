@@ -38,30 +38,25 @@
         </div>
         
           <!-- Language Dropdown (no inner x-data) -->
-          <div class="relative" @click.away="langMenu = false">
-            <button
-              @click="langMenu = !langMenu"
-              class="flex items-center px-3 py-2 text-sm bg-gray-100 text-gray-700 rounded hover:bg-gray-200"
-            >
-              {{ .Site.Language.LanguageName }}
-              <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" stroke-width="2"
-                viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M19 9l-7 7-7-7" />
-              </svg>
-            </button>
-            <div
-              x-show="langMenu"
-              x-cloak
-              class="absolute z-10 mt-2 w-40 bg-white rounded-md shadow-lg"
-            >
-              {{ range .Site.Home.AllTranslations }}
-                <a href="{{ .Permalink }}"
-                  class="block px-4 py-2 text-sm hover:bg-gray-100 {{ if eq $.Site.Language.Lang .Language.Lang }}text-blue-600 font-semibold{{ end }}">
-                  {{ .Language.LanguageName }}
-                </a>
-              {{ end }}
-            </div>
-          </div>
+<details class="relative inline-block group">
+  <summary class="list-none cursor-pointer flex items-center px-3 py-2 text-sm bg-gray-100 text-gray-700 rounded hover:bg-gray-200">
+    {{ .Site.Language.LanguageName }}
+    <svg class="ml-1 w-4 h-4 transform transition-transform duration-200 group-open:rotate-180" fill="none" stroke="currentColor" stroke-width="2"
+         viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M19 9l-7 7-7-7" />
+    </svg>
+  </summary>
+
+  <div class="absolute z-10 mt-2 w-40 bg-white rounded-md shadow-lg border border-gray-200">
+    {{ range .Site.Home.AllTranslations }}
+      <a href="{{ .Permalink }}"
+         class="block px-4 py-2 text-sm hover:bg-gray-100 {{ if eq $.Site.Language.Lang .Language.Lang }}text-blue-600 font-semibold{{ end }}">
+        {{ .Language.LanguageName }}
+      </a>
+    {{ end }}
+  </div>
+</details>
+
         </div>
       </nav>
     </div>

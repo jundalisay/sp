@@ -1,13 +1,31 @@
 baseURL = 'https://superphysics.org/'
 languageCode = 'en-us'
-title = 'Superphysiccs'
+title = 'Superphysics'
 timeout = "300s"
 ignoreLogs = ['warning-goldmark-raw-html']
-
 theme = "super"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+
+
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = false
+
+enableEmoji = true
+# paginate = 12
+
+[pagination]
+pagerSize = 24
 
 [languages]
   [languages.en]
@@ -69,22 +87,1676 @@ theme = "super"
         # name = "/icons/heart.png"
         url = "help/"
         weight = 15
+    [languages.en.params]
+      heading = "A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems"
+      intro = "Superphysics: Science Merged with Metaphysics"
+      sub = "All Knowledge Can Be Grouped Into Three"
+      banner = "/photos/physics/galaxy.jpg"
+      youtube = "mNwyj7WHKKo"
+      # youtube = "8bnws4po7ew"
+    [languages.en.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "Metaphysics"
+      sub = "1-50% Replicable: Paradoxical"
+    [languages.en.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "Superphysics"
+      sub = "51-99% Replicable: Subjective"
+    [languages.en.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "Physics"
+      sub = "100% Replicable: Objective"
+    [languages.en.params.tricon1]
+      heading = "The Nature of the Soul as a Wave"
+      title = "Everything is a wave that manifests as a particle"
+      sub = "The analog universe streams in real-definition to create reality"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.en.params.tricon1.items.a]
+      url = "/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "We're in a Matrix!"
+      sub = "See how we can exist well in it"
+    [languages.en.params.tricon1.items.b]
+      url = "/superphysics/principles/chapter-04"
+      img = "/graphics/meta/ideas.jpg"
+      title = "Everything is an Idea"
+      sub = "Inside the Mind or Matrix"
+    [languages.en.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-07"
+      img = "/graphics/physics/math.jpg"
+      title = "A New Math for a New Science"
+      sub = "Has Poincare's Law of Relativity baked in"
+    [languages.en.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "Socratic Dialectics for Solving Problems"
+      sub = "Do you have a problem? The solution already exists!"
 
-  [languages.es]
-    contentDir = "content/es"
-    languageName = "Español"
+    [languages.en.params.tricon2]
+      heading = "The Soul of the Physical Universe"
+      title = "Material Superphysics"
+      sub = "Based on Descartes and the Five Elements of the Ancient Greeks, Hindus, and Chinese"
+      # youtube = "3l9J6tH4iD0"
+      youtube = "lmsTdzBql5o"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.en.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-01"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "The Five Layers of Superphysics"
+      sub = "The Material, Convertible, Radiant, Spatial, and Aethereal"
+    [languages.en.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "The Alternative to General Relativity"
+      sub = "Relativity only works for Electromagnetic particles, not for all moving things. We fix it with the 5 Elements or Layers"
+    [languages.en.params.tricon2.items.c]
+      url= "/material/principles/intro/chapter-03/"
+      img = "/graphics/physics/msq.jpg"
+      title = "The Medium-Substance-Quantum Naming Convention"
+      sub = "Are you confused with hadrons, baryons, fermions, leptons, etc? We propose a simpler naming convention"
+      # url= "/material/principles/part-2/chapter-04/"
+      # img = "/photos/physics/quasar.jpg"
+      # title = "The Elastic Theory of Gravity"
+      # sub = "We bring back the theory of gravity from Kepler and Descartes"
+    [languages.en.params.tricon2.items.d]
+      url = "/material/solutions/fusion/"
+      img= "/photos/physics/elec.jpg"
+      title = "The Fusion Solution"
+      sub= "We propose anti-gravity through Cartesian spacetime vortices, as done by levitating monks through chakras"
+
+
+    [languages.en.params.tricon3]
+      heading = "The Soul of Living Entities"
+      title = "Bio Superphysics"
+      sub = "Based on the dynamics of the living energy, chi, or prana"
+      # youtube= "Y6YKmtqJak4"
+      youtube= "yhD-Kb_bRBY"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.en.params.tricon3.items.a]
+      url = "/bio/principles/part-05/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "Cancers and Diseases Have Been Cured by Non-Western Medicine"
+      sub = "See the wave-based alternatives to particle-based Western Medicine"
+    [languages.en.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-04/"
+      img= "/photos/meta/selves.jpg"
+      title = "You Have 3 Billion Selves"
+      sub = "'You' are made up of a changing wave of 'yous'"
+    [languages.en.params.tricon3.items.c]
+      url = "/bio/principles/intro/chapter-02/"
+      img= "/photos/med/sperm.jpg"
+      title = "Life Already Exists in Matter"
+      sub = "All matter has aethereal life. Most are just non-expressive"
+    [languages.en.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "How to Stop Covid"
+      sub = "See how NATO could have stopped Covid back in 2020"
+
+    [languages.en.params.tricon4]
+      heading = "The Soul of Society"
+      title = "Social Superphysics"
+      sub = "The Hidden Dynamics of Society based on Socrates, Hume, Smith, Ibn Khaldun with sprinkles of Montesquieu"
+      youtube = "Xw6tWGAIe04"
+      icon = "/icons/spsoc.png"
+    [languages.en.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/graphics/meta/mirror.jpg"
+      title = "A Society is a Metaphysical Organism"
+      sub = "Read how ego causes problems"
+    [languages.en.params.tricon4.items.b]
+      url = "/social/supersociology/principles/part-1/chapter-05/"
+      img = "/photos/medieval/spartan.jpg"
+      title = "The Socratic Law of Social Cycles"
+      sub = "See how we use it to predict events like presidential elections and recessions"
+    [languages.en.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05c"
+      img = "/photos/social/protests.jpg"
+      title = "The Ideology Matrix"
+      sub = "We classify parties and groups in order to predict their evolution, success, or failure"
+    [languages.en.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/countries/ua/war.jpg"
+      title = "Social Cycles Predictions"
+      sub = "See our model's predictions for various countries"
+
+
+    [languages.en.params.tricon8]
+      heading = "The Waves in the Economy"
+      title = "Supereconomics"
+      sub = "Based on the 4 Laws of Value"
+      # A sub-science of Social Superphysics, since Economics comes after Politics"
+      youtube = "AfByl9Mywi4"
+      icon = "/icons/specon.png"
+    [languages.en.params.tricon8.items.a]
+      url = "/social/economics/invisible-hand/"
+      img= "/photos/objects/hand.jpg"
+      title = "The Invisible Hand of Human Dharma"
+      sub = "Fellow-Feeling Replaces Selfish-Interest as the foundation of the Economy just as The Theory of Moral Sentiments is the Basis of the Wealth of Nations"
+    [languages.en.params.tricon8.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/buy.jpg"
+      title = "The Metaphysics of Value and the Four Laws of Value"
+      sub = "We systematize all Economics concepts neatly under the Four Laws which mirror the Four Laws of Thermodynamics"
+    [languages.en.params.tricon8.items.c]
+      url = "/social/economics/principles/part-3/chapter-07d/"
+      img = "/photos/grains.jpg"
+      title = "NDP as an alternative to GDP"
+      sub = "See how finance-less Net Domestic Product creates a more accurate picture of an economy than GDP"
+    [languages.en.params.tricon8.items.d]
+      url = "/social/economics/end-of-capitalism/"
+      img = "/photos/econ/bake.jpg"
+      title = "Maximized Productivity, Not Maximized Profits"
+      sub = "See how barter credits maximize productivity and replaces balance sheet entries"
+
+
+    [languages.en.params.tricon5]
+      icon = "/icons/cycles.png"
+      heading = "Results of Tests of Superphysics Principles "
+      title = "Evidence"
+      sub = "We test the principles of Superphysics (Asian Sciences, Alternative Medicine, Adam Smith, Physiocrats, Rene Descartes, alien, etc.), both Qualitative and Quantitative, to solve our own problems"
+      # youtube = "AfByl9Mywi4"
+      # icon = "/icons/sp.png"
+    [languages.en.params.tricon5.items.e]
+      url = "/material/age-universe/"
+      img= "/photos/physics/quasar.jpg"
+      title = "Material Superphysics: James Webb Telescope Findings"
+      sub = "The fidings of the James Webb Space Telescope (2022) support the no-Big-Bang-Theory of Rene Descartes"
+    [languages.en.params.tricon5.items.b]
+      url = "/material/levitation"
+      img= "/photos/objects/rubik.jpg"
+      title = "Material Superphysics: Prelevitation"
+      sub = "We reduced the weight of a mass by 0.001-0.006% without contact using the Cartesian aether (2020 and 2023)"
+   [languages.en.params.tricon5.items.c]
+      url = "https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac"
+      img = "/photos/objects/fire.jpg"
+      title = "Material Superphysics: Top-Down Fire"
+      sub = "We enrich wood by hammering and use the top-down way to light fires for cooking food (2024). This is the simplest caveman-level technology that we can extract from Cartesian Physics."
+   [languages.en.params.tricon5.items.d]
+      url = "https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac"
+      img = "/photos/physics/sound.jpg"
+      title = "Material Superphysics: Fire Suppression by Sound"
+      sub = "Recent experiments prove that sound can suppress fire. This proves the reality of Cartesian combustion principles as opposed to Newtonian kinetic ones (2024)."
+
+
+    [languages.en.params.tricon5.items.i]
+      url = "/bio/solutions/sound-agriculture"
+      img = "/photos/bio/plant.jpg"
+      title = "Bio Superphysics: Athereal Plant Growth"
+      sub = "We harvested Brassica Rapa Chinesis in 30 days instead of 40 using the aether. Very useful against food inflation (2023)"
+    [languages.en.params.tricon5.items.j]
+      url = "https://en.wikipedia.org/wiki/Naturopathy"
+      img= "/photos/med/cancer2.jpg"
+      title = "Bio Superphysics: Naturopathy Against Cancer"
+      sub = "We successfully used Naturopathy against Stage 2 Breast Cancer (2014)"
+    [languages.en.params.tricon5.items.f]
+      url = "https://www.pchrd.dost.gov.ph/news_and_updates/vco-supports-faster-recovery-from-covid-19-according-to-pchrd-funded-study/"
+      # url = "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
+      img= "/photos/med/covid.jpg"
+      title = "Bio-Superphysics: Virgin Coconut Oil Against Covid"
+      sub = "We successfully used Virgin Coconut Oil (VCO) against Covid (2020). VCO was later proven by DOST-FNRI to scientifically diminish symptoms of Covid"
+    [languages.en.params.tricon5.items.h]
+      url = "https://en.wikipedia.org/wiki/Homeopathy"
+      img= "/photos/med/homeo.jpg"
+      title = "Bio-Superphysics: Homeopathy Against Tooth Decay"
+      sub = "We successfully used Homeopathy against Tooth Decay (2023). Disclaimer: Unlike other alternative medicine, Homeopathy only works if you believe in it. Whether it works or not totally depends on you."
+    [languages.en.params.tricon5.items.g]
+      url = "https://en.wikipedia.org/wiki/Traditional_Chinese_medicine"
+      img= "/photos/med/preg.jpg"
+      title = "Bio-Superphysics: Chinese Medicine to get Pregnant"
+      sub = "We successfully used Chinese Medicine to get Pregnant (2013)"
+
+    [languages.en.params.tricon5.items.l]
+      url = "/social/supersociology/precrisis-years/"
+      img= "/photos/countries/ua/war.jpg"
+      title = "Social Superphysics: The Crisis Years"
+      sub = "We correctly predicted 2020 as the start of the crisis years filled with economic crises and war, as an effect of the Negative Force and Social Cycles, just as the Seven Years War and WWI and WWII had them."
+    [languages.en.params.tricon5.items.k]
+      url = "https://pantrypoints.com"
+      img= "/photos/econ/barter.jpg"
+      title = "Social Superphysics: Moneyless System"
+      sub = "We have used a moneyless system for our Pantrypoints startup since 2017 and is how we currently sustain Superphysics. It is based on aethereal trust instead of material money and is meant for the Crisis Years."
+    [languages.en.params.tricon5.items.m]
+      url = "/social/cycles"
+      img = "/photos/psych/war.jpg"
+      title = "Social Superphysics: Predictions"
+      sub = "Over 70% of our predictions, based on Socrates' Social Cycles, have come true (2015-2022)"
+
+    [languages.en.params.tricon5.items.o]
+      url = "https://en.wikipedia.org/wiki/Samadhi"
+      img = "/photos/psych/meditate.jpg"
+      title = "Superphysics: Personal Samadhi"
+      sub = "Testing began in 2004 by dropping Christianity and adopting Asian Spirituality. Samadhi was achieved in 2008, leading to the precursor of Superphysics in 2012"
+   [languages.en.params.tricon5.items.n]
+      url = "https://www.youtube.com/watch?v=5alMsLDgc00"
+      img = "/photos/psych/heart.jpg"
+      title = "Superphysics: True Love"
+      sub = "One of our members used aethereal techniques to find true love (2017)"
+   # [languages.en.params.tricon5.items.p]
+   #    url = "https://www.youtube.com/watch?v=hlUWAdavn0k"
+   #    img = "/photos/objects/roulette.jpg"
+   #    title = "Superphysics: Winning Prizes"
+   #    sub = "We used aether techniques to win prizes in raffles and hackathons (2016-2022). One of our supporters used the technique to win in simple games like roulette and baccarat. None of us had the dharma (as focused aethereal energy) to win the lotto yet."
+
+
+    [languages.en.params.tricon6]
+      # heading = "Results of Tests of Superphysics Principles"
+      icon = "/icons/atom.png"
+      title = "Proposed Solutions and Technology"
+      sub = "We propose to implement the principles of Superphysics to solve modern problems"
+      # youtube = "AfByl9Mywi4"
+      # icon = "/icons/sp.png"
+    # [languages.en.params.tricon6.items.a]
+    #   url = "/material/solutions/millennium/"
+    #   img= "/graphics/physics/prize.jpg"
+    #   title = "Material Superphysics: Solutions to Millennium Prize Problems"
+    #   sub = "We will use Qualimath and the Physics of Rene Descartes on all Millennium Prize Problems (2030)"
+    # [languages.en.params.tricon6.items.e]
+    #   # url = "/social/cycles/"
+    #   img= "/photos/objects/gold.jpg"
+    #   title = "Material Superphysics: Aether-based Fabrication"
+    #   sub = "Fabrication that uses aether emissions to cut and flatten metals with high precision (year 2060s)"
+    [languages.en.params.tricon6.items.b]
+      url = "/material/solutions/foundry"
+      img = "/photos/objects/gauge.jpg"
+      title = "Material Superphysics: Aether-based Foundry and Fabrication"
+      sub = "Manufacturing that adds aether emissions to align Descartes' material 'pores' (year 2060s)"
+    [languages.en.params.tricon6.items.c]
+      url = "/material/solutions/crystal-computers/"
+      img= "/graphics/physics/solareye.jpg"
+      title = "Material Superphysics: Crystal Computers"
+      sub = "A computer made of glass to overcome the limitations of semiconductors (year 2100s)"
+    [languages.en.params.tricon6.items.d]
+      url = "/material/ufo"
+      img = "/graphics/physics/drone.jpg"
+      title = "Material Superphysics: Floating Vehicles via Anti-Gravity"
+      sub = "We propose to use Descartes' spacetime vortices to float vehicles following Bob Lazar's design (year 2100s)"
+    [languages.en.params.tricon6.items.f]
+      url = "/material/solutions/fusion/"
+      img = "/graphics/physics/reactor.jpg"
+      title = "Material Superphysics: Fusion via Anti-Gravity"
+      sub = "We propose to use Descartes' spacetime vortices to compress and confine plasma (year 2100s)"
+
+    [languages.en.params.tricon6.items.h]
+      url = "/bio/solutions/capsule-food"
+      img = "/photos/med/meds.jpg"
+      title = "Bio Superphysics: Capsule Food"
+      sub = "Food processing that preserves the aethereal pranah of food (year 2050s)"
+    [languages.en.params.tricon6.items.i]
+      url = "https://www.pantrypoints.com/pantrypreneur/farm/"
+      img = "https://www.pantrypoints.com/graphics/farm.jpg"
+      title = "Bio Superphysics: Maximized Farming"
+      sub = "We propose to use the aether to increase crop yield in barren areas (2023-current)"
+    [languages.en.params.tricon6.items.g]
+      url = "https://www.pantrypoints.com/services/match"
+      img = "https://www.pantrypoints.com/graphics/match.jpg"
+      title = "Bio Superphysics: AI Disease Prediction"
+      sub = "Machine learning disease prediction that uses Bio-Superphysics models (2023-current)"
+    [languages.en.params.tricon6.items.j]
+      url = "/bio/principles/part-01/chapter-01/"
+      img = "/photos/medieval/angkor.jpg"
+      title = "Bio Superphysics: Elemental Industry"
+      sub = "We tap Elementals for benefits just like agriculture taps plants for food and animals for work"
+
+    [languages.en.params.tricon6.items.l]
+      url = "https://pantrypoints.com"
+      img= "https://www.pantrypoints.com/graphics/circle.jpg"
+      title = "Social Superphysics: Points-based Economic System"
+      sub = "This allows money and moneyless transactions. We began this in 2016, as the first solution, in order to provide the resources for the rest of the proposals. (2016-current)"
+    [languages.en.params.tricon6.items.n]
+      url = "/social/supersociology/principles/part-5/chapter-05"
+      # url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/social/pantry.jpg"
+      title = "Social Superphysics: The Resources Branch"
+      sub = "The Resources Department is the fourth branch of goverment to complement the Executive, Legislative, and Judicicary (year 2100s)"
+    [languages.en.params.tricon6.items.p]
+      url = "/social/supersociology/solutions/constitutional-virtues/"
+      img = "/photos/objects/aquila.jpg"
+      title = "Social Superphysics: Constitutional Virtues"
+      sub = "A set of virtues voted by the people to define their society's identity (year 2100s)"
+    [languages.en.params.tricon6.items.k]
+      url = "/social/supersociology/solutions/confirmation-elections/"
+      img = "/photos/objects/gavel.jpg"
+      title = "Social Superphysics: Confirmation Elections"
+      sub = "A democratic election system that is done annually (year 2100s)"
+    [languages.en.params.tricon6.items.m]
+      url = "/research/hume/essays/part-2/16-the-ideal-system-of-government/"
+      img = "/covers/hume.jpg"
+      title = "Social Superphysics: Confederated World Government"
+      sub = "The States that federated according to the Points-based economic system are then unified through the 'Ideal Commonwealth' plan of David Hume (year ?)"
+
+
+    [languages.en.params.tricon6.items.o]
+      url = "/superphysics/principles/chapter-07/"
+      img = "/graphics/physics/qualimath.jpg"
+      title = "Superphysics: Qualimath"
+      sub = "Mathematics that applies the operations of mind onto qualities (2022-current)"
+    [languages.en.params.tricon6.items.r]
+      url = "/supermath/chapter-02/"
+      img = "/graphics/super/vortex.jpg"
+      title = "Superphysics: Vortex Numbers"
+      sub = "Base-5 Numbers to make geometry less irrational"
+    [languages.en.params.tricon6.items.y]
+      url = "/superphysics/solutions/bullet-style-writing/"
+      img = "/photos/econ/writer.jpg"
+      title = "Superphysics: Bullet-Style Writing"
+      sub = "A writing style that makes reading easy and intuitive (2013-current)"
+    [languages.en.params.tricon6.items.q]
+      url = "/superphysics/principles/chapter-02d"
+      img = "/graphics/meta/ngu.jpg"
+      title = "Superphysics: The NTCFD Model for Goal Setting"
+      sub = "We replace SMART with NTCFD based on the 5 Layers (2023)"
+    [languages.en.params.tricon6.items.z]
+      url = "/superphysics/principles/chapter-07f/"
+      img = "/graphics/super/ai.png"
+      title = "Superphysics: Autonomous Natural Intelligence"
+    sub = "We propose a model-based machine learning based on Superphysics (year 2080s)"
+
+    [languages.en.params.tricon7]
+      heading = "Unite the World with Common Morals and Systems"
+      icon = "/icons/stars.png"
+      title = "National Advocacies"
+      sub = "We advocate the following based on Social Superphysics and Social Cycles to fix problems created by the Negative Force, using the Positive Force to Unite, De-materialize, and De-calcify countries"
+      # youtube = "AfByl9Mywi4"
+      # icon = "/icons/sp.png"
+    [languages.en.params.tricon7.items.a]
+      url = "/social/cycles/united-states"
+      img = "/flags/us.png"
+      title = "Republican USA with 4 Parties"
+      sub = "A less democractic USA with Labor, Nationalist, Conservative, and Liberal Parties that have morals defined"
+    [languages.en.params.tricon7.items.b]
+      url = "/social/cycles/china/"
+      img = "/flags/cn.png"
+      title = "China-Taiwan: One State, Federalized Systems"
+      sub = "China transitions into a Federal Republic to allow many systems, similar to the USA"
+    [languages.en.params.tricon7.items.c]
+      url = "/social/cycles/vietnam"
+      img = "/flags/vn.png"
+      title = "Vietnam, China: Splitting the Communist Party into Four"
+      sub = "Remove Materialist philosophy and create a natural internal opposition of Labor, Nationalist, Conservative, and Liberal sub-parties. The Communist Party is then renamed as Republican Party"
+    [languages.en.params.tricon7.items.d]
+      url = "/social/cycles/greece"
+      img = "/flags/eu.png"
+      title = "Moneyless Eurozone"
+      sub = "Implement Moneyless version of EF Schumacher's Pool Clearing to make Greek-style Debt Crises obsolete"
+    [languages.en.params.tricon7.items.e]
+      url = "/social/cycles/russia"
+      img = "/flags/ru.png"
+      title = "Russia-Ukraine: Rus Unification"
+      sub = "Russia, Ukraine, and Belarus are united as a federal state with Kiev as the capital. This undoes Kiev's mistake during the Mongol conquest"
+    [languages.en.params.tricon7.items.l]
+      url = "/social/cycles/israel"
+      img = "/flags/il.png"
+      title = "Israel-Palestine: Unification"
+      sub = "A secular state that uses a common law book that unites the morals in the Torah and the Quran"
+    [languages.en.params.tricon7.items.f]
+      url = "/social/cycles/malaysia"
+      img = "/flags/my.png"
+      title = "Malaysia-Singapore: Reunification"
+      sub = "Reunification as a secular federal state without Bumi policies which will no longer be needed since morals will be defined"
+    [languages.en.params.tricon7.items.g]
+      url = "/social/cycles/india"
+      img = "/flags/in.png"
+      title = "India-Pakistan: Reunification"
+      sub = "A secular state that undoes the partition mistake by the British"
+    [languages.en.params.tricon7.items.h]
+      url = "/social/cycles/afghanistan"
+      img= "/flags/af.png"
+      title = "Afghanistan: A Female Guardian"
+      sub = "Establish a Female Protector of Afghanistan (as a Socratic Guardian) which has veto over the President and is tasked to secure civil laws"
+    [languages.en.params.tricon7.items.i]
+      url = "/social/cycles/japan"
+      img= "/flags/jp.png"
+      title = "Japan: Abandon Keynes and Kanji"
+      sub = "Abandon Keynesian Economics and implement structural reform like replacing kanji with kana to ease cultural entry barriers and unite with the world"
+    [languages.en.params.tricon7.items.j]
+      url = "https://maharlika.superphysics.org"
+      img= "/flags/ph.png"
+      title = "Philippines: Towards Maharlika"
+      sub = "Overhauling Philippines into Federalized Maharlika undoing Spanish systems"
+    [languages.en.params.tricon7.items.k]
+      url = "/social/cycles/venezuela"
+      img= "/flags/ve.png"
+      title = "Venezuela: Fix Chavismo"
+      sub = "Bring the 4 Laws of Value and Undo Most of Chavez' economic policies. His party becomes Republican and splits into 4, absorbing the opposition"
+
+
+  [languages.ar]
+    contentDir = "content/ar/"
     weight = 2
+    languageName = "عربي"
+    [[languages.ar.menu.main]]
+      name = "FAQs"
+      # name = "/icons/question.png"
+      url = "faqs"
+      weight = 8
+    [[languages.ar.menu.main]]
+      name = "About"
+      # name = "/icons/about.png"
+      url = "news"
+      weight = 9
+    [[languages.ar.menu.main]]
+      name = "Help!"
+      url = "help"
+      weight = 10
+    [languages.ar.params]
+      intro= "الفيزياء الفائقة= نموذج علمي يعتمد على الموجات"
+      heading = "علم جديد مبني على الميتافيزيقا والجدل السقراطي"
+      sub = "يمكن تجميع كل المعرفة في ثلاثة فئات"
+      youtube= "P4BSS1GeJwA"
+      banner = "/photos/physics/galaxy.jpg"
+    [languages.ar.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "الميتافيزيقا"
+      sub = "0-50% قابل للتكرار= متضاد"
+    [languages.ar.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "الفيزياء الفائقة"
+      sub = "51-99% قابل للتكرار= ذاتي"
+    [languages.ar.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "الفيزياء"
+      sub = "100% قابل للتكرار= موضوعي"
+    [languages.ar.params.tricon1]
+      heading = "طبيعة الروح"
+      title = "كل شيء هو موجة تتجلى على شكل جسيم"
+      sub = "تتدفق الكون التناظري في تعريف حقيقي لإنشاء الواقع"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.ar.params.tricon1.items.a]
+      url = "/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "نحن في مصفوفة!"
+      sub = "انظر كيف يمكننا أن نعيش بشكل جيد فيها"
+    [languages.ar.params.tricon1.items.b]
+      url = "/superphysics/principles/chapter-04"
+      img = "/photos/idea.jpg"
+      title = "كل شيء هو فكرة"
+      sub = "داخل العقل أو المصفوفة"
+    [languages.ar.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-07"
+      img = "/graphics/physics/math.jpg"
+      title = "رياضيات جديدة لعلم جديد"
+      sub = "ذلك الذي يحتوي على النسبية المدمجة فيه"
+    [languages.ar.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "ما هي الجدل السقراطي؟"
+      sub = "نموذج تفكير يسمح بكلا الفيزياء والميتافيزيقا"
+    [languages.ar.params.tricon2]
+      heading = "روح الكون المادي"
+      title = "الفيزياء الفائقة المادية"
+      sub = "مبني على أفكار ديكارت والطبقات الخمس القديمة للإغريق القدماء والهندوس والصينيين"
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.ar.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-02"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "الطبقات الخمس للفيزياء الفائقة"
+      sub = "المادة، الإشعاعي، المشع، الفضائي، والأثيري"
+    [languages.ar.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "البديل للنظرية النسبية العامة"
+      sub = "الميتافيزيقا للفضاء الزمني"
+    [languages.ar.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-04/"
+      img = "/photos/physics/quasar.jpg"
+      title = "نظرية الجاذبية المرنة"
+      sub = "نستعيد نظرية الجاذبية من كيبلر وديكارت"
+    [languages.ar.params.tricon2.items.d]
+      url = "/material/solutions/fusion"
+      img= "/photos/physics/elec.jpg"
+      title = " كيفية جعل الاندماج النووي يعمل. "
+      sub = "نقترح استخدام مضاد الجاذبية لجعل الاندماج النووي يعمل."
+    [languages.ar.params.tricon3]
+      heading = "روح الكائنات الحية"
+      title = "الفيزياء الفائقة البيولوجية"
+      sub = "مبني على ديناميكية الطاقة الحسية"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.ar.params.tricon3.items.a]
+      url = "/bio/principles/part-05/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "تم علاج السرطان والأمراض بواسطة الطب غير الغربي"
+      sub = "انظر إلى البدائل القائمة على الموجات للطب الغربي القائم على الجسيمات"
+    [languages.ar.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "لديك 3 مليارات من الذوات"
+      sub = "أنت تتكون من موجة متغيرة من الذوات"
+    [languages.ar.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = "آدم سميث النباتي"
+      sub = "مؤسس دراسة الاقتصاد يفضل الخضروات، وخاصة البطاطا، على اللحوم."
+    [languages.ar.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "كيفية وقف الكوفيد"
+      sub = "لا يزال موجودًا! العلم محصور في صندوق وغير قادر على حله"
+    [languages.ar.params.tricon4]
+      heading = "روح المجتمع"
+      title = "الفيزياء الفائقة الاجتماعية"
+      sub = "التعاطف بدلاً من النزعة الانانية"
+      youtube = "TvrMdB0Ceno"
+      icon = "/icons/spsoc.png"
+    [languages.ar.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/social/monkey.jpg"
+      title = "الأنا هي سبب المشاكل في المجتمع"
+      sub = "انظر كيف تهدف السوبرسوسيولوجيا لإصلاحها"
+    [languages.ar.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "التغيرات الاقتصادية تنبع من التغيرات في موجة الرغبة الجماعية"
+      sub = "انظر كيف يمكن تصحيح عقلية القطيع"
+    [languages.ar.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "التاريخ يتكرر كموجة"
+      sub = "انظر كيف نستخدمه للتنبؤ بالأحداث مثل الانتخابات الرئاسية والانكماش الاقتصادي"
+    [languages.ar.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/countries/ua/war.jpg"
+      title = "السياسة والقانون والعدالة من أجل عالم أفضل"
+      sub = "السوبراجتماعية تتعامل مع السياسة والقانون والحكم والقضايا الاجتماعية والسياسية الأخرى"
 
-[taxonomies]
-  category = "categories"
-  tag = "tags"
+  [languages.zh]
+    contentDir = "content/zh/" #English
+    weight = 3
+    languageName = "中文"
+    [[languages.zh.menu.main]]
+        # name = "/icons/question.png"
+        name = "FAQs"
+        url = "faqs"
+        weight = 8
+    # [[languages.zh.menu.main]]
+    #     name = "/icons/about.png"
+    #     url = "news"
+    #     weight = 9
+    [[languages.zh.menu.main]]
+        # name = "/icons/heart.png"
+        name = "Help!"
+        url = "help"
+        weight = 10
+    [languages.zh.params]
+      heading = "一种基于形而上学和苏格拉底辩证法的新科学"
+      intro = "超物理学：基于波动的科学范式"
+      sub = "所有知识可以分为三类"
+      banner = "/photos/physics/galaxy.jpg"
+      youtube = "n-bejVBOZ0k"
+    [languages.zh.params.cards.a]
+        icon = "/icons/tao.png"
+        itle = "形而上学"
+        sub = "0-50% 可复制：悖论的"
+    [languages.zh.params.cards.b]
+      icon = "/icons/sp.png"
+        title = "超物理学"
+        sub = "51-99% 可复制：主观的"
+    [languages.zh.params.cards.c]
+        icon = "/icons/atom.png"
+        title = "物理学 "
+        sub = "100% 可复制：客观的"
+    [languages.zh.params.tricon1]
+      heading = "灵魂的本质"
+      title = "一切都是表现为粒子的波动"
+      sub = "模拟宇宙以实际定义流动以创造现实"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.zh.params.tricon1.items.a]
+      url = "/zh/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "我们在一个矩阵中！"
+      sub = "看看我们如何在其中存在良好"
+    [languages.zh.params.tricon1.items.b]
+      url = "/zh/superphysics/principles/chapter-02"
+      img = "/photos/idea.jpg"
+      title = "一切都是一个思想"
+      sub = "存在于头脑或矩阵之内"
+    [languages.zh.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-07"
+      img = "/graphics/physics/math.jpg"
+      title = "一种新数学用于一种新科学"
+      sub = "其中包含相对性"
+    [languages.zh.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "什么是苏格拉底辩证法？"
+      sub = "一种允许物理学和形而上学同时存在的思维范式"
+    [languages.zh.params.tricon2]
+      heading = "物质超物理学"
+      title = "物质宇宙的灵魂"
+      sub = "基于笛卡尔和古希腊、印度教和中国的五个层次"
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.zh.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-02"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "# 超物理学的五个层次"
+      sub = "物质、放射性、辐射、空间和以太"
+    [languages.zh.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "广义相对论的替代方案"
+      sub = "时空的形而上学"
+    [languages.zh.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-04/"
+      img = "/photos/physics/quasar.jpg"
+      title = "引力的弹性理论"
+      sub = "我们从开普勒和笛卡尔重新引入引力理论"
+    [languages.zh.params.tricon2.items.d]
+      url = "/material/solutions/fusion/"
+      img= "/photos/physics/elec.jpg"
+      title = "如何使核聚变运行。"
+      sub = "我们建议使用反重力来实现核聚变。"
+    [languages.zh.params.tricon3]
+      heading = "生物超物理学"
+      title = "生命体的灵魂"
+      sub = "基于感知能量的动力学"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.zh.params.tricon3.items.a]
+      url = "/bio/principles/part-05/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "癌症和疾病已被非西方医学治愈。"
+      sub = "看看基于波动的替代方案取代基于粒子的西方医学。 "
+    [languages.zh.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "你有30亿个自我"
+      sub = "'你'是由不断变化的“你”波动组成的。"
+    [languages.zh.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = " 亚当·斯密是素食主义者"
+      sub = "经济学创始人更喜欢蔬菜，尤其是土豆，而不是肉类。"
+    [languages.zh.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "如何阻止Covid"
+      sub = "它还在！被局限在盒子里的科学无法解决它。"
+    [languages.zh.params.tricon4]
+      title = "社会的灵魂"
+      heading = "社会超物理学"
+      sub = "同情而不是自私利益"
+      youtube = "fC9dH2Du0sM"
+      icon = "/icons/spsoc.png"
+    [languages.zh.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/social/monkey.jpg"
+      title = "一个没有贫困"
+      sub = "不平等和危机的世界——超经济学涉及资源配置和社会经济问题"
+    [languages.zh.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "自我是社会问题的原因。看看超社会学是如何修复它的。 "
+      sub = "经济变革源于集体欲望的变化。看看如何修复群体心态"
+    [languages.zh.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "历史重复是一种波动"
+      sub = "看看我们如何用它来预测总统选举和经济衰退等事件"
+    [languages.zh.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/countries/ua/war.jpg"
+        title = "社会周期预测"
+       sub = "查看我们的模型对各个国家的预测"
+
+  [languages.de]
+    contentDir = "content/de/"
+    weight = 5
+    languageName = "Deutsch"
+    [[languages.de.menu.main]]
+        name = "FAQs"
+        url = "/faq"
+        weight = 8
+    [[languages.de.menu.main]]
+        name = "News"
+        # name = "/icons/about.png"
+        url = "/news"
+        weight = 9
+    [[languages.de.menu.main]]
+        name = "Help!"
+        # name = "/icons/heart.png"
+        url = "/help"
+        weight = 10
+    [languages.de.params]
+      heading = "Eine neue Wissenschaft basierend auf Metaphysik und sokratischer Dialektik"
+      sub = "Alle Kenntnisse können in drei Gruppen eingeteilt werden"
+      intro = "Superphysik - ein wellenbasiertes wissenschaftliches Paradigma"
+      banner = "/photos/physics/galaxy.jpg"
+      youtube = "yM1oF5Di70U"
+    [languages.de.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "Metaphysik"
+      sub = "0-50% Reproduzierbar= Paradox"
+    [languages.de.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "Superphysik"
+      sub = "51-99% Reproduzierbar= Subjektiv"
+    [languages.de.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "Physik"
+      sub = "100% Reproduzierbar= Objektiv"
+    [languages.de.params.tricon1]
+      heading = "Die Natur der Seele"
+      title = "Alles Ist Eine Welle, Die Sich Als Ein Teilchen Manifestiert"
+      sub = "Das analoge Universum strömt in Echtdefinition, um die Realität zu erschaffen"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.de.params.tricon1.items.a]
+      url = "/de/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "Wir sind in einer Matrix!"
+      sub = "Sehen Sie, wie wir darin gut existieren können"
+    [languages.de.params.tricon1.items.b]
+      url = "/de/superphysics/principles/chapter-02"
+      img = "/photos/idea.jpg"
+      title = "Alles ist eine Idee"
+      sub = "Im Verstand oder der Matrix"
+    [languages.de.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-07"
+      img = "/graphics/physics/math.jpg"
+      title = "Eine neue Mathematik für eine neue Wissenschaft"
+      sub = "In der die Relativität eingebettet ist."
+    [languages.de.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "Was ist die sokratische Dialektik?"
+      sub = "Ein Denkparadigma, das sowohl Physik als auch Metaphysik ermöglicht"
+    [languages.de.params.tricon2]
+      heading = "Die Seele des physikalischen Universums"
+      title = "Material-superphysik"
+      sub = "Basierend auf Descartes und den fünf Schichten des antiken Griechenlands, Hindus und Chinas"
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.de.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-02"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "Die fünf Schichten der Superphysik"
+      sub = "Das Materielle, Convertible, Strahlende, Räumliche und Ätherische"
+    [languages.de.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "Die Alternative zur allgemeinen Relativitätstheorie"
+      sub = "Die Metaphysik des Raum-Zeit-Kontinuums"
+    [languages.de.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-04/"
+      img = "/photos/physics/quasar.jpg"
+      title = "Die Elastische Gravitationstheorie"
+      sub = "Wir bringen die Gravitationstheorie von Kepler und Descartes zurück"
+    [languages.de.params.tricon2.items.d]
+      url = "/material/solutions/fusion"
+      img= "/photos/physics/elec.jpg"
+      title = "Wie man die Kernfusion zum Funktionieren bringt."
+      sub = "Wir schlagen vor, Antischwerkraft zu verwenden, um die Kernfusion zum Funktionieren zu bringen."
+    [languages.de.params.tricon3]
+      heading = "Die Seele lebender Wesen"
+      title = "Bio Superphysik"
+      sub = "Basierend auf der Dynamik der empfindungsfähigen Energie"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.de.params.tricon3.items.a]
+      url = "/bio/principles/part-05/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "Krebs und Krankheiten wurden durch nicht-westliche Medizin geheilt"
+      sub = "Sehen Sie die wellenbasierten Alternativen zur teilchenbasierten westlichen Medizin"
+    [languages.de.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "Du hast 3 Milliarden Selbst"
+      sub = "'Du' besteht aus einer sich ändernden Welle von 'Dir'"
+    [languages.de.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = "Adam Smith, der Vegetarier"
+      sub = "Der Gründer der wirtschaftlichen Studie bevorzugte Gemüse, insbesondere Kartoffeln, gegenüber Fleisch"
+    [languages.de.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "Wie man Covid stoppt"
+      sub = "Es ist immer noch da! Die eingegrenzte Wissenschaft ist nicht in der Lage, es zu lösen"
+    [languages.de.params.tricon4]
+      heading = "Die Seele der Gesellschaft"
+      title = "Social Superphysik"
+      sub = "Mitgefühl statt Eigennutz"
+      youtube = "k4OdiIY_v7M"
+      icon = "/icons/spsoc.png"
+    [languages.de.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/social/monkey.jpg"
+      title = "Das Ego ist die Ursache von Problemen in der Gesellschaft"
+      sub = "Sehen Sie, wie die Supersoziologie versucht, es zu beheben"
+    [languages.de.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "Eine Welt frei von Armut, Ungleichheit und Krise"
+      sub = "Supereconomics beschäftigt sich mit der Ressourcenallokation und sozioökonomischen Fragen"
+    [languages.de.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "Die Geschichte wiederholt sich als Welle"
+      sub = "Sehen Sie, wie wir sie verwenden, um Ereignisse wie Präsidentschaftswahlen und Rezessionen vorherzusagen."
+    [languages.de.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/countries/ua/war.jpg"
+      title = "Geschichte wiederholt sich"
+      sub = "Sehen Sie sich die sozialen Zyklen für jedes Land an"
+
+  [languages.fr]
+    contentDir = "content/fr/"
+    weight = 4
+    languageName = "Français"
+    [[languages.fr.menu.main]]
+        name = "FAQs"
+        # name = "/icons/question.png"
+        url = "faqs"
+        weight = 8
+    [[languages.fr.menu.main]]
+        # name = "/icons/about.png"
+        name = "News"
+        url = "/news"
+        weight = 9
+    [[languages.fr.menu.main]]
+        name = "Help!"
+        url = "help"
+        weight = 10
+    [languages.fr.params]
+      heading = "Une Nouvelle Science Basée sur la Métaphysique et la Dialectique Socratique"
+      sub = "Toute Connaissance Peut Être Regroupée en Trois Catégories"
+      intro = "Superphysique - Paradigme Scientifique basé sur les Ondes"
+      youtube = "HBj2DUChYqc"
+      banner = "/photos/physics/galaxy.jpg"
+    [languages.fr.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "Métaphysique"
+      sub = "0-50% Reproductible = Paradoxal"
+    [languages.fr.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "Superphysique"
+      sub = "51-99% Reproductible = Subjectif"
+    [languages.fr.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "Physique"
+      sub = "100% Reproductible = Objectif"
+    [languages.fr.params.tricon1]
+      heading = "La Nature de l'Âme"
+      title = "Tout Est Une Onde Qui Se Manifeste Sous Forme De Particule"
+      sub = "L'univers analogique se déroule en définition réelle pour créer la réalité"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.fr.params.tricon1.items.a]
+      url = "/fr/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "Nous sommes dans une Matrice!"
+      sub = "Découvrez comment nous pouvons y vivre en harmonie"
+    [languages.fr.params.tricon1.items.b]
+      url = "/fr/superphysics/principles/chapter-02"
+      img = "/photos/idea.jpg"
+      title = "Tout est une Idée"
+      sub = "Tout est une Idée dans l'Esprit ou la Matrice"
+    [languages.fr.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-07"
+      img = "/graphics/physics/math.jpg"
+      title = "Une Nouvelle Mathématique pour une Nouvelle Science"
+      sub = "Intégrant la relativité"
+    [languages.fr.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "Qu'est-ce que la Dialectique socratique?"
+      sub = "Un paradigme de pensée qui intègre à la fois la Physique et la Métaphysique" 
+    [languages.fr.params.tricon2]
+      heading = "L'Âme de l'Univers Physique"
+      title = "Superphysique Matérielle"
+      sub = "Basée sur Descartes et les cinq couches des anciens Grecs, Hindous et Chinois"    
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.fr.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-02"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "Les Cinq Couches de la Superphysique"
+      sub = "le Matériel, le Convertible, le Radiant, l'E spatial et l'Éthéré"
+    [languages.fr.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "La Théorie Élastique de la Gravitation"
+      sub = "Nous ramenons la théorie de la gravité de Kepler et de Descartes"
+    [languages.fr.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-04/"
+      img = "/photos/physics/quasar.jpg"
+      title = "Un Meilleur Moyen d'Atteindre les Étoiles"
+      sub = "Comment la propulsion éthérée peut-elle permettre aux humains de rejoindre d'autres étoiles et galaxies?"
+    [languages.fr.params.tricon2.items.d]
+      url = "/material/solutions/fusion/"
+      img= "/photos/physics/elec.jpg"
+      title = "Comment faire fonctionner la fusion nucléaire"
+      sub = "Nous proposons d'utiliser l'antigravité pour faire fonctionner la fusion nucléaire."
+    [languages.fr.params.tricon3]
+      heading = "L'Âme des Entités Vivantes"
+      title = "Bio Superphysique"
+      sub = "Basée sur la dynamique de l'énergie consciente"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.fr.params.tricon3.items.a]
+      url = "/bio/principles/part-05/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "Le Cancer et les Maladies ont été Guéris par la Médecine Non-Occidentale"
+      sub = "Découvrez des alternatives à la Médecine Occidentale"
+    [languages.fr.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "Vous Avez 3 Milliards de Soi"
+      sub = "'Vous' êtes composé d'une onde changeante de 'vous'"
+    [languages.fr.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = "Adam Smith le Végétarien"
+      sub = "Le fondateur de l'étude économique préférait les légumes, en particulier les pommes de terre, à la viande"
+    [languages.fr.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "Comment Arrêter la Covid"
+      sub = "Elle est toujours là ! La science ne peut toujours pas l'éradiquer"
+    [languages.fr.params.tricon4]
+      heading = "L'Âme de la Société"
+      title = "Superphysique Sociale"
+      sub = "La Compassion plutôt que l'Égoïsme"
+      youtube = "viIEUJzpn14"
+      icon = "/icons/spsoc.png"
+    [languages.fr.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/social/monkey.jpg"
+      title = "L'Égo est la Cause des Problèmes dans la Société"
+      sub = "Découvrez comment la supersociologie vise à résoudre ce problème"
+    [languages.fr.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "Les Changements Économiques Sont le Résultat des Changements dans l'Onde Collective du Désir"
+      sub = "Découvrez comment la mentalité grégaire peut être corrigée"
+    [languages.fr.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "La Politique, le Droit et la Justice pour un Monde Meilleur"
+      sub = "La supersociologie traite de la politique, du droit, de la gouvernance et d'autres problèmes socio-politiques"
+    [languages.fr.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/countries/ua/war.jpg"
+      title = "L'Histoire se Répète comme une Onde"
+      sub = "Découvrez comment nous l'utilisons pour prédire des événements tels"
+
+  [languages.hi]
+    contentDir = "content/hi/"
+    weight = 7
+    languageName = "हिन्दी भाषा"
+    [[languages.hi.menu.main]]
+        name = "FAQs"
+        url = "/faq"
+        weight = 8
+    [[languages.hi.menu.main]]
+        name = "News"
+        url = "/news"
+        weight = 9
+    [[languages.hi.menu.main]]
+        name = "आप हमारी मदद कर सकते"
+        url = "help"
+        weight = 10
+    [languages.hi.params]
+      intro = "सुपरफिजिक्स: तरंग-आधारित वैज्ञानिक मानदंड"
+      heading = "मेटाफिजिक्स और सोक्रेटिक वाद के आधार पर आधारित एक नया विज्ञान"
+      sub = "सभी ज्ञान को तीन भागों में विभाजित किया जा सकता है:"
+      youtube= "pJDEDX7DI5Y"
+      banner = "/photos/physics/galaxy.jpg"
+    [languages.hi.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "मेटाफिजिक्स"
+      sub = "0-50% पुनरावलोकनीय: विरोधात्मक"
+    [languages.hi.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "सुपरफिजिक्स"
+      sub = "51-99% पुनरावलोकनीय: व्यक्तिगत"
+    [languages.hi.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "भौतिकी "
+      sub = "100% पुनरावलोकनीय: वस्तुगत"
+    [languages.hi.params.tricon1]
+      title = "आत्मा का प्रकृति"
+      heading = "सब कुछ एक तरंग है जो एक कण के रूप में प्रकट होता है। "
+      sub = "अभिगम ब्रह्मांड वास्तव-परिभाषा में स्ट्रीम करता है ताकि वास्तविकता बना सके"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.hi.params.tricon1.items.a]
+      url = "/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "हम मैट्रिक्स में हैं!"
+      sub = "देखें कैसे हम उसमें अच्छी तरह से मौजूद हो सकते हैं"
+    [languages.hi.params.tricon1.items.b]
+      url = "/superphysics/principles/chapter-02"
+      img = "/photos/idea.jpg"
+      title = "सब कुछ एक विचार है"
+      sub = "मानसिकता या मैट्रिक्स के अंदर"
+    [languages.hi.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-07"
+      img = "/graphics/physics/math.jpg"
+      title = "नए विज्ञान के लिए नगणित"
+      sub = "सापेक्षता से भरपूर"
+    [languages.hi.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "समस्याओं का समाधान ढूँढने के लिए सोक्रेटिक वाद."
+      sub = "क्या आपकी कोई समस्या है? समाधान पहले से मौजूद है!"
+    [languages.hi.params.tricon2]
+      title = "भौतिक सुपरफिजिक्स।"
+      heading = "भौतिक ब्रह्मांड की आत्मा"
+      sub = "देस्कार्टेस और प्राचीन यूनानियों, हिंदुओं और चीनी लोगों के पांच परतों पर आधारित"
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.hi.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-02"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "सुपरफिजिक्स की पांच परतें। "
+      sub = "सामग्रिक, विकर्षणात्मक, प्रकाशमय, स्थानिक और आध्यात्मिक"
+    [languages.hi.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "सामान्य संख्यातावाद का विकल्प। "
+      sub = "समय-स्थान की मेटाफिजिक्स"
+    [languages.hi.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-04/"
+      img = "/photos/physics/quasar.jpg"
+      title = "आध्यात्मिक प्रेरणा। "
+      sub = "हम केपलर और देस्कार्टेस से भार से गुरुत्वाकर्षण की सिद्धांती वापस लाते हैं"
+    [languages.hi.params.tricon2.items.d]
+      url = "/material/solutions/fusion/"
+      img= "/photos/physics/elec.jpg"
+      title = "न्यूक्लियर फ्यूजन को कैसे काम में लाया जा सकता है। "
+      sub = "हम प्रस्तावित करते हैं कि न्यूक्लियर फ्यूजन को काम में लाने के लिए एंटी-ग्रॅविटी का उपयोग किया जा सकता है।"
+    [languages.hi.params.tricon3]
+      title = "जैविक सुपरफिजिक्स।"
+      heading = "जीवन प्राणियों की आत्मा"
+      sub = "ज्ञानी ऊर्जा की गतिविधियों पर आधारित"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.hi.params.tricon3.items.a]
+      url = "/bio/principles/part-04/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "कैंसर और रोगों का उपचार गैर-पश्चिमी चिकित्सा द्वारा किया गया है। "
+      sub = "कण-आधारित पश्चिमी चिकित्सा के विकल्पों को पढ़ें"
+    [languages.hi.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "आपके पास 3 अरब आत्मा हैं। "
+      sub = "'आप' एक परिवर्तनशील 'तुम' की तरंग से बने हैं"
+    [languages.hi.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = "एडम स्मिथ शाकाहारी थे। "
+      sub = "उन्होंने मांस की बजाय सब्जियों, विशेषकर आलू, की पसंद की थी"
+    [languages.hi.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "कोविद कैसे रोकें। "
+      sub = "पढ़ें कैसे नाटो ने 2020 में कोविड को रोक सकता था"
+    [languages.hi.params.tricon4]
+      title = "सामाजिक सुपरफिजिक्स। "
+      heading = "समाज की आत्मा"
+      sub = "स्वार्थ-उत्साह की बजाय सहकारी-भावना"
+      youtube = "J0bfGdW4U8E"
+      icon = "/icons/spsoc.png"
+    [languages.hi.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/social/monkey.jpg"
+      title = "आत्मा समाज में समस्याओं का कारण है। "
+      sub = "पढ़ें कैसे सुपरसोसायोलॉजी इसे ठीक कर सकती है"
+    [languages.hi.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "मूल्य की मेटाफिजिक्स और मूल्य के चार नियम। "
+      sub = "सुपरीकॉनोमिक्स संसाधन आवंटन और सामाजिक-आर्थिक मुद्दों से निपटती है"
+    [languages.hi.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "सामाजिक चक्रों का सोक्रेटिक कानून। "
+      sub = "हम इसे चुनाव और मंदी जैसी घटनाओं की पूर्वानुमानित करने के लिए कैसे उपय"
+    [languages.hi.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/countries/ua/war.jpg"
+      title = "Social Cycles"
+      # sub = "Supersosiologi mengatasi politik, hukum, tata pemerintahan, dan masalah sosial-politik lainnya"
+
+  [languages.id]
+    contentDir = "content/id/"
+    weight = 8
+    languageName = "Bahasa Indonesia"
+    [[languages.id.menu.main]]
+        name = "FAQs"
+        url = "faq"
+        weight = 8
+    [[languages.id.menu.main]]
+        name = "News"
+        url = "/news"
+        weight = 9
+    [[languages.id.menu.main]]
+        name = "Help!"
+        url = "help"
+        weight = 10
+    [languages.id.params]
+      intro = "Superfisika - Paradigma Ilmiah Berbasis Gelombang"
+      heading = "Ilmu Baru Berdasarkan Metafisika dan Dialektika Sokratik"
+      sub = "Semua Pengetahuan Dapat Dikelompokkan ke Dalam Tiga Kategori"
+      youtube= "pJDEDX7DI5Y"
+      banner = "/photos/physics/galaxy.jpg"
+    [languages.id.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "Metafisika"
+      sub = "0-50 % Dapat Diulang: Paradoks"
+    [languages.id.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "Superfisika"
+      sub = "51-99 % Dapat Diulang: Subjektif"
+    [languages.id.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "Fisika"
+      sub = "Fisika: 100 % Dapat Diulang= Objektif"
+    [languages.id.params.tricon1]
+      title = "Semua Adalah Gelombang Yang Manifestasi Sebagai Partikel"
+      heading = "Sifat Jiwa"
+      sub = "Semesta analog mengalir dalam definisi nyata untuk menciptakan kenyataan"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.id.params.tricon1.items.a]
+      url = "/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "Kita berada dalam Matriks!"
+      sub = "Lihat bagaimana kita dapat eksis dengan baik di dalamnya"
+    [languages.id.params.tricon1.items.b]
+      url = "/superphysics/principles/chapter-02"
+      img = "/photos/idea.jpg"
+      title = "Semua adalah"
+      sub = "Ide dalam Pikiran atau Matriks"
+    [languages.id.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-07"
+      img = "/graphics/physics/math.jpg"
+      title = "Matematika Baru untuk Ilmu Baru "
+      sub = "yang memiliki relatifitas tercakup"
+    [languages.id.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "Apa itu Dialektika Sokratik?"
+      sub = "Paradigma berpikir yang memungkinkan keduanya Fisika dan Metafisika"
+    [languages.id.params.tricon2]
+      title = "SUPERFISIKA MATERI"
+      heading = "Jiwa dari Alam Semesta Fisik"
+      sub = "Berdasarkan Descartes dan lima lapisan dari Yunani kuno, Hindu, dan Cina"    
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.id.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-02"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "Lima Lapisan Superfisika"
+      sub = "Materi, Convertible, Radiasi, Spasial, dan Aether"
+    [languages.id.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "Alternatif untuk Relativitas Umum"
+      sub = "Metafisika Ruang-Waktu"
+    [languages.id.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-04/"
+      img = "/photos/physics/quasar.jpg"
+      title = "Teori Elastis Gravitasi"
+      sub = "Kami mengembalikan teori gravitasi dari Kepler dan Descartes"
+    [languages.id.params.tricon2.items.d]
+      url = "/material/solutions/fusion"
+      img= "/photos/physics/elec.jpg"
+      title = "Bagaimana membuat fusi nuklir berhasil"
+      sub = "Kami mengusulkan penggunaan anti-gravitasi untuk membuat fusi nuklir berhasil."
+    [languages.id.params.tricon3]
+      title = "BIO SUPERFISIKA"
+      heading = "Jiwa dari Entitas Hidup"
+      sub = "Berdasarkan dinamika energi sadar"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.id.params.tricon3.items.a]
+      url = "/bio/principles/part-04/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "Kanker dan Penyakit Telah Disembuhkan oleh Obat Non-Barat"
+      sub = "Lihat alternatif untuk Obat Barat"
+    [languages.id.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "Anda Memiliki 3 Miliar Diri"
+      sub = "'Anda' terdiri dari gelombang yang berubah-ubah dari 'anda'"
+    [languages.id.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = "Adam Smith yang Vegetarian"
+      sub = "Pendiri studi ekonomi lebih suka sayuran, khususnya kentang, daripada daging"
+    [languages.id.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "Cara Menghentikan Covid"
+      sub = "Ini masih ada! Ilmu pengetahuan masih belum dapat membasminya"
+    [languages.id.params.tricon4]
+      title = "SUPERFISIKA SOSIAL"
+      heading = "Jiwa dari Masyarakat"
+      sub = "Perasaan Sejawat Daripada Kepentingan Egois"
+      youtube = "RCqxWx1zI_c"
+      icon = "/icons/spsoc.png"
+    [languages.id.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/vanity.jpg"
+      title = "Ego adalah Penyebab Masalah dalam Masyarakat"
+      sub = "Lihat bagaimana supersosiologi bertujuan untuk memperbaikinya"
+    [languages.id.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "Perubahan Ekonomi Berasal dari Perubahan dalam Gelombang Kolektif Keinginan"
+      sub = "Lihat bagaimana mentalitas kawanan dapat diperbaiki"
+    [languages.id.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "Sejarah Mengulang Diri sebagai Gelombang"
+      sub = "Lihat bagaimana kami menggunakannya untuk memprediksi peristiwa seperti pemilihan presiden dan resesi"
+    [languages.id.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/countries/ua/war.jpg"
+      title = "Politik, Hukum, dan Keadilan untuk Dunia yang Lebih Baik"
+      sub = "Supersosiologi mengatasi politik, hukum, tata pemerintahan, dan masalah sosial-politik lainnya"
+
+  [languages.jp]
+    contentDir = "content/jp/"
+    weight = 9
+    languageName = "日本語"
+    [[languages.jp.menu.main]]
+        # name = "/icons/question.png"
+        name = "FAQs"
+        url = "/faq"
+        weight = 8
+    [[languages.jp.menu.main]]
+        name = "News"
+        # name = "/icons/about.png"
+        url = "/news"
+        weight = 9
+    [[languages.jp.menu.main]]
+        # name = "/icons/heart.png"
+        name = "Help!"
+        url = "help"
+        weight = 10
+    [languages.jp.params]
+      intro = "スーパーフィジックス：波に基づく科学的パラダイム。"
+      heading = "形而上学とソクラテス的弁証法に基づく新しい科学"
+      sub = "すべての知識は3つに分類できます："
+      youtube= "cA1KH1LYxvg"
+      banner = "/photos/physics/galaxy.jpg"
+    [languages.jp.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "形而上学"
+      sub = "0-50％再現可能：パラドックス"
+    [languages.jp.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "スーパーフィジックス"
+      sub = "51-99％再現可能：主観的"
+    [languages.jp.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "物理学"
+      sub = "100％再現可能：客観的"
+    [languages.jp.params.tricon1]
+      title = "魂の本質"
+      heading = "すべては粒子として現れる波です。"
+      sub = "アナログ宇宙は現実を創造するためにリアル定義で流れます"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.jp.params.tricon1.items.a]
+      url = "/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "私たちはマトリックスの中にいます！"
+      sub = "それでうまく存在できる方法を見てみましょう"
+    [languages.jp.params.tricon1.items.b]
+      url = "/superphysics/principles/chapter-02"
+      img = "/photos/idea.jpg"
+      title = "すべてはアイデアです"
+      sub = "心の中またはマトリックスの中で"
+    [languages.jp.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-07"
+      img = "/graphics/physics/math.jpg"
+      title = "新しい数学による新しい科学"
+      sub = "相対性が焼きこまれています"
+    [languages.jp.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "問題の解決のためのソクラティック弁証法。"
+      sub = "問題がありますか？解決策はすでに存在しています！"
+    [languages.jp.params.tricon2]
+      title = "素材スーパーフィジックス"
+      heading = "物理的宇宙の魂"
+      sub = "デカルトと古代ギリシャ、ヒンドゥー教、中国の5つの層に基づいています"
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.jp.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-02"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "スーパーフィジックスの5つの層。"
+      sub = "素材、放射性、輝く、空間、そしてエーテリアル"
+    [languages.jp.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "一般相対性理論の代替。"
+      sub = "時空の形而上学"
+    [languages.jp.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-04/"
+      img = "/photos/physics/quasar.jpg"
+      title = "エーテリアル推進。"
+      sub = "私たちはケプラーとデカルトから重力理論を復活させます"
+    [languages.jp.params.tricon2.items.d]
+      url = "/material/solutions/fusion/"
+      img= "/photos/physics/elec.jpg"
+      title = "核融合を実現する方法。"
+      sub = "核融合を実現するために反重力を使用することを提案します。"
+    [languages.jp.params.tricon3]
+      title = "バイオスーパーフィジックス。"
+      heading = "生きた実体の魂"
+      sub = "感性エネルギーのダイナミクスに基づいています"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.jp.params.tricon3.items.a]
+      url = "/bio/principles/part-05/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "がんや病気は西洋医学では治癒されています。"
+      sub = "粒子ベースの西洋医学に代わる波ベースの代替策を読んでください"
+    [languages.jp.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "30億の自己があります。"
+      sub = "'あなた'は 'あなた' の変わる波で構成されています"
+    [languages.jp.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = "ベジタリアンのアダム・スミス。"
+      sub = "彼は肉よりも特にジャガイモを好んだ"
+    [languages.jp.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "Covidを止める方法。"
+      sub = "NATOが2020年にCovidを止める方法を読んでください"
+    [languages.jp.params.tricon4]
+      title = "社会スーパーフィジックス。"
+      heading = "社会の魂"
+      sub = "利己的な利益ではなく共感"
+      youtube = "c4uXwQqnAD4"
+      icon = "/icons/spsoc.png"
+    [languages.jp.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/social/monkey.jpg"
+      title = "エゴは社会問題の原因です。"
+      sub = "スーパーソシオロジーがそれを修正する方法を読んでください"
+    [languages.jp.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "価値の形而上学と価値の4つの法則。"
+      sub = "スーパーエコノミクスはリソース配分と社会経済問題に対処します"
+    [languages.jp.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "社会サイクルのソクラテスの法則。"
+      sub = "大統領選挙や景気後退などのイベントを予測するためにそれをどのように使用できますか？"
+    [languages.jp.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/countries/ua/war.jpg"
+      title = "社会サイクルの予測。"
+      sub = "さまざまな国々に関する当社のモデルの予測を読んでください"
+
+  [languages.vi]
+    contentDir = "content/vi/"
+    weight = 99
+    languageName = "Tieng Viet"
+    [[languages.vi.menu.main]]
+        name = "FAQ"
+        url = "/faq"
+        weight = 8
+    [languages.vi.params]
+      intro = "Siêu Vật Lý: Khoa học kết hợp với Siêu hình học"
+      heading = "Siêu Vật Lý là một khoa học mới dựa trên sóng và phép biện chứng của Socrates để giải quyết các vấn đề."
+      sub = "Tất cả kiến thức có thể được nhóm thành ba loại: Siêu hình học, Siêu Vật Lý, Vật Lý."
+      youtube= "cA1KH1LYxvg"
+      banner = "/photos/physics/galaxy.jpg"
+    [languages.vi.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "Siêu hình học có thể tái tạo 1-50%"
+      sub = "Nó chứa đựng những nghịch lý"
+    [languages.vi.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "Siêu Vật Lý có thể tái tạo 51-99%"
+      sub = "Nó mang tính chủ quan"
+    [languages.vi.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "Vật Lý có thể tái tạo 100%"
+      sub = "Nó mang tính khách quan"
+    [languages.vi.params.tricon1]
+      heading = "Bản chất của Linh hồn"
+      title = "Mọi thứ đều là sóng mà chúng ta nhìn nhận như là hạt"
+      sub = "Vũ trụ là tương đối, nhưng chúng ta nhìn nhận nó như là lượng tử rời rạc"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+
+
+
+  [languages.ru]
+    contentDir = "content/ru/"
+    weight = 10
+    languageName = "русский"
+    [[languages.ru.menu.main]]
+        # name = "/icons/question.png"
+        name = "FAQs"
+        url = "/faq"
+        weight = 8
+    [[languages.ru.menu.main]]
+        name = "News"
+        url = "/news"
+        weight = 9
+    [[languages.ru.menu.main]]
+        name = "Help!"
+        url = "help"
+        weight = 10
+    [languages.ru.params]
+      intro = "Суперфизика: Парадигма на основе волнового подхода."
+      heading = "Новая наука, основанная на метафизике и софистической диалектике"
+      sub = "Все знания могут быть разделены на три группы:"
+      youtube= "7e0v9V_5TIA"
+      banner = "/photos/physics/galaxy.jpg"
+    [languages.ru.params.cards.a]
+      icon = "/icons/tao.png"
+      title = "Метафизика"
+      sub = "0-50% воспроизводимость: парадоксальное"
+    [languages.ru.params.cards.b]
+      icon = "/icons/sp.png"
+      title = "Суперфизика"
+      sub = "51-99% воспроизводимость: субъективное"
+    [languages.ru.params.cards.c]
+      icon = "/icons/atom.png"
+      title = "Физика"
+      sub = "100% воспроизводимость: объективное"
+    [languages.ru.params.tricon1]
+      heading = "ПРИРОДА ДУШИ"
+      title = "Все - это волна, проявляющаяся как частица"
+      sub = "Аналоговая вселенная течет в реальном определении, чтобы создать реальность"
+      youtube = "dc4VNkfqs1s"
+      icon = "/icons/sp.png"
+      link= "/superphysics/principles"
+    [languages.ru.params.tricon1.items.a]
+      url = "/superphysics/principles/chapter-01/"
+      img= "/photos/physics/ai.jpg"
+      title = "Мы в матрице! "
+      sub = "Узнайте, как мы можем хорошо существовать в ней"
+    [languages.ru.params.tricon1.items.b]
+      url = "/superphysics/principles/chapter-02"
+      img = "/photos/idea.jpg"
+      title = "Все - это идея"
+      sub = "Внутри ума или матрицы"
+    [languages.ru.params.tricon1.items.c]
+      url = "/superphysics/principles/chapter-04b"
+      img = "/graphics/physics/math.jpg"
+      title = "Новая математика для новой науки"
+      sub = "С относительностью включенной в нее"
+    [languages.ru.params.tricon1.items.d]
+      url = "/superphysics/principles/chapter-11"
+      img = "/avatars/socrates.jpg"
+      title = "Сократическая диалектика для решения проблем"
+      sub = "У вас есть проблема? Решение уже существует!"
+    [languages.ru.params.tricon2]
+      heading = "ДУША ФИЗИЧЕСКОЙ ВСЕЛЕННОЙ"
+      title = "Материальная суперфизика"
+      sub = "Основано на Декарт и пяти слоях древних греков, индусов и китайцев"
+      youtube = "3l9J6tH4iD0"
+      icon = "/icons/spmat.png"
+      link= "/material/principles"
+    [languages.ru.params.tricon2.items.a]
+      url = "/material/principles/intro/chapter-02"
+      img= "/graphics/physics/aetherdrag.jpg"
+      title = "Пять слоев суперфизики"
+      sub = "Материальный, радиоактивный, светящийся, пространственный и эфирный"
+    [languages.ru.params.tricon2.items.b]
+      url = "/material/fallacies/general-relativity/"
+      img= "/graphics/physics/general.jpg"
+      title = "Альтернатива общей теории относительности"
+      sub = "Метафизика пространства-времени"
+    [languages.ru.params.tricon2.items.c]
+      url= "/material/principles/part-2/chapter-04/"
+      img = "/photos/physics/quasar.jpg"
+      title = "Эфирная тяга"
+      sub = "Мы возвращаем теорию гравитации от Кеплера и Декарта"
+    [languages.ru.params.tricon2.items.d]
+      url = "/material/solutions/fusion/"
+      img= "/photos/physics/elec.jpg"
+      title = "Как добиться работы ядерного синтеза"
+      sub = "Мы предлагаем использовать антигравитацию для обеспечения работы ядерного синтеза"
+    [languages.ru.params.tricon3]
+      heading = "ДУША ЖИВЫХ СУЩЕСТВ"
+      title = "Био Суперфизика"
+      sub = "Основано на динамике чувствующей энергии"
+      youtube= "Y6YKmtqJak4"
+      icon = "/icons/spmed.png"
+      link= "/bio/principles"
+    [languages.ru.params.tricon3.items.a]
+      url = "/bio/principles/part-05/chapter-03/"
+      img= "/photos/med/cancer2.jpg"
+      title = "Рак и болезни были излечены не-западной медициной"
+      sub = "Читайте волновые альтернативы частицной западной медицине"
+    [languages.ru.params.tricon3.items.b]
+      url = "/bio/principles/intro/chapter-01/"
+      img= "/photos/psych/schizo.jpg"
+      title = "У вас есть 3 миллиарда 'себя'"
+      sub = "'Ты' состоишь из изменяющейся волны 'тебя'"
+    [languages.ru.params.tricon3.items.c]
+      url = "/bio/smith-veg/"
+      img= "/avatars/smithstatue.jpg"
+      title = "Адам Смит вегетарианец"
+      sub = "Он предпочитал овощи, в частности картофель, мясу"
+    [languages.ru.params.tricon3.items.d]
+      url = "/bio/solutions/covid/"
+      img= "/photos/med/covid.jpg"
+      title = "Как остановить Ковид"
+      sub = "Читайте, как НАТО могла бы остановить Ковид еще в 2020 году"
+    [languages.ru.params.tricon4]
+      heading = "ДУША ОБЩЕСТВА"
+      title = "Социальная суперфизика"
+      sub = "Сопереживание вместо эгоистического интереса"
+      youtube = "AfByl9Mywi4"
+      icon = "/icons/spsoc.png"
+    [languages.ru.params.tricon4.items.a]
+      url = "/social/supersociology/principles/part-1/chapter-01"
+      img = "/photos/social/monkey.jpg"
+      title = "Эго - причина проблем в обществе"
+      sub = "Читайте, как суперсоциология может это исправить"
+    [languages.ru.params.tricon4.items.b]
+      url = "/social/economics/principles/intro/chapter-03"
+      img = "/photos/grains.jpg"
+      title = "Метафизика ценности и четыре закона ценности"
+      sub = "Суперэкономика занимается распределением ресурсов и социально-экономическими вопросами"
+    [languages.ru.params.tricon4.items.c]
+      url = "/social/supersociology/principles/part-1/chapter-05"
+      img = "/photos/medieval/hitler.jpg"
+      title = "Сократический закон социальных циклов"
+      sub = "Как мы можем использовать его для предсказания событий, таких как президентские выборы и рецессии?"
+    [languages.ru.params.tricon4.items.d]
+      url = "/social/cycles/"
+      img= "/photos/countries/ua/war.jpg"
+      title = "Прогнозы социальных циклов"
+      sub = "Читайте прогнозы нашей модели для различных стран"
+
 
 [params]
+  logo = "/icons/sp.png"
+  shorttitle = "Superphysics"
+
+  # Custom copyright - optional
+  copyright = "Copyright © 2024 | <a href='https://www.pantrypoints.com'>Pantrypoints Technologies</a>"
+  favicon = "/icons/sp30.png"
+
+  ascentColor = "bg-blue-100"
+  # The page bundle that is shown on the front page
+  frontBundle = "blog"
+
+  # Used to hide the post metadata such as posted date, reading time and word count
+  # Can be used at site level or page level
+  hideMeta = false
+
+  # To hide "Other languages" option if the post is available in multiple languages
+  # Can be used at site level or page level
+  hideOtherLanguages = false
+
+  # Add support for Table of contents
+  # Can be added to a page level also in markdown frontmatter
+  toc = true
+  hidePageThumbnail = false
+
   description = "A Hugo site with Tailwind CSS"
-  # author = "Your Name"
 
+[params.homepage.social]
+  title = "Follow or Support Us!"
+  description = "We're building a new science and new systems for a better reality"
 
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.116.0"
+  [[params.homepage.social.icons]]
+    website = "twitter"
+    url = "https://twitter.com/superphysicsorg"
+  [[params.homepage.social.icons]]
+    website = "youtube"
+    url = "https://www.youtube.com/@superphysicsorg"
+  [[params.homepage.social.icons]]
+    website = "facebook"
+    url = "https://www.facebook.com/superphysicsorg"
+
+[build]
+  writeStats = true
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    unsafe = true

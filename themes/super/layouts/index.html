@@ -1,47 +1,94 @@
 {{ define "main" }}
 
 
-<section class="bg-gray-50 py-12">
-  <div class="container mx-auto px-4">
-    <!-- Section Title -->
-    <h2 class="text-3xl font-bold mb-10 text-center">Featured Video & Articles</h2>
+<div class='w-full flex mb-5'>
+  <section class="mx-auto">
+    <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12" >
+      <h1 class="text-4xl mb-4 text-white font-extrabold tracking-tight leading-none">{{ .Site.Params.main }}</h1>
+      <h2 class="text-2xl mb-8 text-white tracking-tight leading-none ">{{ .Site.Params.sub }}</h1>        
+      
+      <iframe class="rounded-lg shadow-lg" width="854" height="480" src="https://www.youtube.com/embed/mNwyj7WHKKo" title="What is Superphysics? A new Science!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-    <!-- Grid Layout -->
-    <div class="grid grid-cols-1 lg:grid-cols-5 gap-6">
-      <!-- YouTube Video (3 of 5 columns on large screens) -->
-      <div class="lg:col-span-3">
-        <div class="aspect-w-16 aspect-h-9 rounded-xl overflow-hidden shadow-lg">
-          <iframe
-            class="w-full h-full"
-            src="https://www.youtube.com/embed/Wver27ebRWU"
-            title="YouTube video player"
-            frameborder="0"
-            allowfullscreen
-          ></iframe>
-        </div>
-      </div>
-
-      <!-- Article Cards (2 of 5 columns on large screens) -->
-      <div class="lg:col-span-2 flex flex-col gap-4">
-        {{ range first 3 (where site.RegularPages "Section" "bio") }}
-          <a href="{{ .RelPermalink }}"
-             class="group flex flex-col sm:flex-row lg:flex-col bg-white rounded-lg overflow-hidden shadow hover:shadow-md transition-shadow duration-200">
-            {{ with .Params.image }}
-              <img src="{{ . | relURL }}" alt="{{ $.Title }}"
-                   class="sm:w-32 lg:w-full h-48 object-cover">
-            {{ end }}
-            <div class="p-4 flex flex-col justify-center text-center sm:text-left lg:text-center">
-              <h3 class="text-md font-semibold text-gray-800 group-hover:text-blue-600">
-                {{ .Title }}
-              </h3>
-            </div>
-          </a>
-        {{ end }}
-      </div>
     </div>
-  </div>
-</section>
+  </section>
+</div>
 
 
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 p-5">
+  {{ range first 4 (where site.RegularPages "Section" "bio") }}
+    <div class="ani bg-white rounded-lg overflow-hidden shadow hover:shadow-md transition-shadow duration-200">
+      <a href="{{ .RelPermalink }}">
+        {{ with .Params.image }}
+          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="h-48 w-full object-cover">
+        {{ end }}
+        <div class="p-4">
+          <h3 class="text-lg font-semibold text-gray-800 hover:text-blue-600">
+            {{ .Title }}
+          </h3>
+        </div>
+      </a>
+    </div>
+  {{ end }}
+</div>
+
+
+<!-- <div class="relative" style="padding-top: 56.25%">
+  <iframe class="absolute inset-0 w-full h-full" src="https://www.youtube.com/embed/FMrtSHAAPhM" frameborder="0" …></iframe>
+</div> -->
+
+
+ <div class="container mx-auto px-4 py-16 space-y-16 overflow-x-hidden"> 
+
+  <div class="fly-in fly-in-left bg-white p-8 rounded-lg shadow-xl max-w-2xl mx-auto">
+            <h2 class="text-2xl font-bold mb-4 text-blue-600">Card Flying In From Left</h2>
+            <p class="text-gray-700">
+                This card demonstrates an animation where it smoothly flies in from the left side of the screen
+                when it becomes visible in the viewport during scrolling. It uses Tailwind CSS for styling and
+                JavaScript's Intersection Observer API for triggering the animation.
+            </p>
+        </div>
+
+        <div id="card2" class="fly-in fly-in-right bg-white p-8 rounded-lg shadow-xl max-w-2xl mx-auto">
+            <h2 class="text-2xl font-bold mb-4 text-green-600">Card Flying In From Right</h2>
+            <p class="text-gray-700">
+                Similarly, this card flies in, but from the right side. The effect is achieved using CSS transitions
+                and transforms, activated by JavaScript when the element enters the viewport. This provides a
+                dynamic feel to the content presentation.
+            </p>
+        </div>
+
+        <div class="text-center"> 
+          <img src="https://placehold.co/600x400/"
+          alt="Placeholder Image 1"
+          class="ani inline-block rounded-lg shadow-lg"
+          width="600" height="400">
+      </div>
+
+</div>
+
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("opacity-100", "translate-y-0");
+            entry.target.classList.remove("opacity-0", "translate-y-10");
+            observer.unobserve(entry.target); // optional: animate only once
+          }
+        });
+      },
+      {
+        threshold: 0.2,
+      }
+    );
+
+    document.querySelectorAll(".iframe-wrapper").forEach((el) => {
+      observer.observe(el);
+    });
+  });
+</script>
 
 {{ end }}
