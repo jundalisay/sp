@@ -39,7 +39,7 @@ pagerSize = 24
         weight = 1
     [[languages.en.menu.main]]
         identifier = "sp"
-        name = "Superphysics"
+        name = "Core"
         # name = "/icons/sp.png"
         url = "superphysics"
         weight = 2
@@ -1420,6 +1420,7 @@ pagerSize = 24
         url = "help"
         weight = 10
     [languages.jp.params]
+      flag = "/flags/jp.png"
       intro = "スーパーフィジックス：波に基づく科学的パラダイム。"
       heading = "形而上学とソクラテス的弁証法に基づく新しい科学"
       sub = "すべての知識は3つに分類できます："

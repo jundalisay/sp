@@ -3,11 +3,12 @@
 
   {{ partial "head.html" . }}
 
-<!-- dark:bg-gray-900 dark:text-white -->
-  <body class="relative flex flex-col min-h-screen font-nunito dark:bg-black bg-white">
-    {{ partial "header.html" . }}
+  <body class="relative flex flex-col min-h-screen">
     
-    <main class="flex-1">
+    
+    <main class="flex-1 dark:bg-black bg-white">
+    {{ partial "header.html" . }}
+
         {{ block "main" . }}{{ end }}
 
         <button id="scrollToTopBtn" class="fixed bottom-4 left-4 z-50 hidden items-center justify-center p-3 rounded-full bg-blue-600 text-white shadow-lg transition-opacity duration-300 opacity-0 hover:bg-blue-700" aria-label="Scroll to top" > ↑ </button>
@@ -58,6 +59,38 @@ const scrollToTopBtn = document.getElementById('scrollToTopBtn');
   scrollToTopBtn.addEventListener('click', () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
+</script>
+
+
+
+<script>
+  // Mobile menu toggle
+  const menuToggle = document.getElementById("menu-toggle");
+  const menu = document.getElementById("menu");
+  const iconOpen = document.getElementById("icon-open");
+  const iconClose = document.getElementById("icon-close");
+
+  menuToggle.addEventListener("click", () => {
+    menu.classList.toggle("hidden");
+    iconOpen.classList.toggle("hidden");
+    iconClose.classList.toggle("hidden");
+  });
+
+  // Dark mode toggle
+  const toggleDarkMode = () => {
+    document.documentElement.classList.toggle("dark");
+    localStorage.theme = document.documentElement.classList.contains("dark") ? "dark" : "light";
+  };
+
+  // Load saved dark mode preference
+  if (
+    localStorage.theme === "dark" ||
+    (!("theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)
+  ) {
+    document.documentElement.classList.add("dark");
+  } else {
+    document.documentElement.classList.remove("dark");
+  }
 </script>
 
   </body>

@@ -4,6 +4,7 @@ description: "Superphysics is a unification of Science and Philosophy, Physics w
 image: /covers/about.jpg
 toc: false
 weight: 1
+icon: /icons/sp.png
 type: "featured"
 ---
 

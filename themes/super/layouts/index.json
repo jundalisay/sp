@@ -1,5 +1,15 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range where .Site.RegularPages "Type" "not in" (slice "page" "json") -}}
-    {{- $.Scratch.Add "index" (dict "title" .Title "description" .Description "content" .Plain "permalink" .Permalink "date" (.Date.Format "2006-01-02")) -}}
+    {{- $.Scratch.Add "index" (dict 
+        "title" .Title 
+        "permalink" .Permalink 
+        "description" .Description 
+        "content" .Plain 
+        "keywords" (delimit .Keywords ", ")
+        "author" .Params.author
+        "icon" (.Params.icon | relURL)
+        "date" (.Date.Format "2006-01-02")
+        "section" .Section
+    ) -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}

@@ -35,7 +35,7 @@ body {
 }
 
 .animate-fade-slide {
-  animation: fadeSlide 0.3s ease-out;
+  animation: fadeSlide 0.1s ease-out;
 }
 
 .toc ul {
