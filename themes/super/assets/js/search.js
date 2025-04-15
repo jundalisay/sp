@@ -39,17 +39,17 @@ document.addEventListener('DOMContentLoaded', () => {
   
   function displayResults(results) {
     if (results.length === 0) {
-      resultsContainer.innerHTML = '<p class="p-4 text-gray-500">No results found</p>';
+      resultsContainer.innerHTML = '<small class="p-4 text-smtext-gray-500">No results found</small>';
       resultsContainer.classList.remove('hidden');
       return;
     }
     
     const resultsList = results.map(item => `
       <div class="p-4 border-b border-gray-200">
-        <h3 class="mb-2 text-lg font-medium">
-          <a href="${item.permalink}" class="text-blue-600 hover:text-blue-800">${item.title}</a>
-        </h3>
-        ${item.description ? `<p class="text-gray-700">${item.description}</p>` : ''}
+        <small class="mb-2">
+          <a href="${item.permalink}" class="hover:text-blue-800">${item.title}</a>
+        </small>
+
       </div>
     `).join('');
     
@@ -57,3 +57,5 @@ document.addEventListener('DOMContentLoaded', () => {
     resultsContainer.classList.remove('hidden');
   }
 });
+
+        // ${item.description ? `<p class="text-gray-700">${item.description}</p>` : ''}

@@ -2,7 +2,7 @@
 
 # --- Configuration ---
 # Directories to search for image references
-SEARCH_DIRS=("content" "layouts" "assets")
+SEARCH_DIRS=("content/" "content/en/research" "content/en/material" "themes/super/layouts" "themes/super/assets/css")
 # Directory containing the actual static images (relative to project root)
 # Assumes paths like /graphics/bio/tracks.jpg map to static/graphics/bio/tracks.jpg
 STATIC_DIR="static"
@@ -30,27 +30,7 @@ if [ ${#SEARCH_DIRS[@]} -eq 0 ] || [ $missing_search_dir -eq ${#SEARCH_DIRS[@]} 
     exit 1
 fi
 
-echo "Step 1: Finding all referenced image paths..."
-
-# Use grep to find patterns, extract paths, clean them up, sort uniquely
-# -r: recursive
-# -o: only matching
-# -h: suppress filename prefix
-# -E: extended regex
-# Regex breakdown:
-#   "(/(?:[^"]+\.)(jpe?g|png|gif|webp))" : Matches src="/path/image.ext" - extracts /path/image.ext
-#   "\((/(?:[^)]+\.)(jpe?g|png|gif|webp))\)": Matches [](/path/image.ext) - extracts /path/image.ext
-#   sed 's/^[("]//; s/[)"]$//' : Removes leading/trailing quotes or parentheses
-#   sort -u : Sorts and removes duplicates
-grep -rohE '"(/[^"]+\.(jpe?g|png|gif|webp))"|\((/[^)]+\.(jpe?g|png|gif|webp))\)' "${SEARCH_DIRS[@]}" | \
-  sed 's/^[("]//; s/[)"]$//' | \
-  sort -u > "$REFERENCED_LIST_TMP"
-
-echo "Found $(wc -l < "$REFERENCED_LIST_TMP") unique potential image references."
-echo "List 1 (Referenced Images) stored temporarily."
-
-
-echo "Step 2: Finding all actual image files..."
+echo "Step 1: Finding all actual image files..."
 
 # Use find to locate all image files in the static directory
 # -type f: only find files
@@ -69,6 +49,31 @@ echo "Step 2: Finding all actual image files..."
 
 echo "Found $(wc -l < "$ACTUAL_LIST_TMP") actual image files in '$STATIC_DIR'."
 echo "List 2 (Actual Images) stored temporarily."
+
+
+echo "Step 2: Finding all referenced image paths..."
+
+# Use grep to find patterns, extract paths, clean them up, sort uniquely
+# -r: recursive
+# -o: only matching
+# -h: suppress filename prefix
+# -E: extended regex
+# Regex breakdown:
+#   "(/(?:[^"]+\.)(jpe?g|png|gif|webp))" : Matches src="/path/image.ext" - extracts /path/image.ext
+#   "\((/(?:[^)]+\.)(jpe?g|png|gif|webp))\)": Matches [](/path/image.ext) - extracts /path/image.ext
+#   sed 's/^[("]//; s/[)"]$//' : Removes leading/trailing quotes or parentheses
+#   sort -u : Sorts and removes duplicates
+# grep -rohE '"(/[^"]+\.(jpe?g|png|gif|webp))"|\((/[^)]+\.(jpe?g|png|gif|webp))\)' "${SEARCH_DIRS[@]}" | \
+#  sed 's/^[("]//; s/[)"]$//' | \
+#  sort -u > "$REFERENCED_LIST_TMP"
+
+# Search recursively (-r) in /content, only in *.md files (--include),
+# output only matches (-o), suppress filenames (-h), use extended regex (-E).
+# Find absolute paths starting with / ending in image extensions, inside "" or ().
+grep -rohE --include='*.md' '"(/[^"]+\.(jpe?g|png|gif|webp))"|\((/[^)]+\.(jpe?g|png|gif|webp))\)' "${SEARCH_DIRS[@]}" | sed 's/^[("]//; s/[)"]$//' | sort -u > "$REFERENCED_LIST_TMP"
+
+echo "Found $(wc -l < "$REFERENCED_LIST_TMP") unique potential image references."
+echo "List 1 (Referenced Images) stored temporarily."
 
 
 echo "Step 3: Comparing lists to find unused images..."

@@ -9,8 +9,7 @@
         <button
           class="md:hidden block text-gray-600 focus:outline-none"
           @click="open = !open"
-          aria-label="Toggle Menu"
-        >
+          aria-label="Toggle Menu">
           <svg x-show="!open" x-cloak class="w-6 h-6" fill="none" stroke="currentColor" stroke-width="2"
             viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
             <path d="M4 6h16M4 12h16M4 18h16"></path>
@@ -22,41 +21,50 @@
         </button>
 
         <!-- Nav Items -->
-        <div
-          :class="open ? 'block' : 'hidden'"
-          class="w-full md:flex md:items-center md:space-x-6 md:w-auto"
-        >
+        <div :class="open ? 'block' : 'hidden'"
+          class="w-full md:flex md:items-center md:space-x-6 md:w-auto">
           <!-- Dynamic menu -->
           {{ range .Site.Menus.main }}
             <a href="{{ .URL | relLangURL }}" class="block uppercase py-2 text-xs tracking-tighter text-gray-700 hover:text-blue-600">
               {{ .Name }}
             </a>
           {{ end }}
+        </div>
+
 
         <div class="relative">
           {{ partial "search.html" . }}
         </div>
-        
-          <!-- Language Dropdown (no inner x-data) -->
-<details class="relative inline-block group">
-  <summary class="list-none cursor-pointer flex items-center px-3 py-2 text-sm bg-gray-100 text-gray-700 rounded hover:bg-gray-200">
-    {{ .Site.Language.LanguageName }}
-    <svg class="ml-1 w-4 h-4 transform transition-transform duration-200 group-open:rotate-180" fill="none" stroke="currentColor" stroke-width="2"
-         viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M19 9l-7 7-7-7" />
-    </svg>
-  </summary>
+              
+        <details class="relative group">
+          <summary class="flex items-center cursor-pointer list-none p-2 hover:bg-gray-100 rounded">
+            <img src="{{ .Site.Language.Params.flag | relURL }}" alt="{{ .Site.Language.Params.languageName }} flag" class="w-5 h-auto mr-2"> 
+            <svg class="ml-1 w-4 h-4 transform transition-transform duration-200 group-open:rotate-180" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M19 9l-7 7-7-7" />
+            </svg>
+          </summary>
 
-  <div class="absolute z-10 mt-2 w-40 bg-white rounded-md shadow-lg border border-gray-200">
-    {{ range .Site.Home.AllTranslations }}
-      <a href="{{ .Permalink }}"
-         class="block px-4 py-2 text-sm hover:bg-gray-100 {{ if eq $.Site.Language.Lang .Language.Lang }}text-blue-600 font-semibold{{ end }}">
-        {{ .Language.LanguageName }}
-      </a>
-    {{ end }}
-  </div>
-</details>
+          <div class="absolute z-10 mt-2 w-40 bg-white rounded-md shadow-lg border border-gray-200 hidden group-open:block">
+            {{ range .Site.Home.AllTranslations }}
+              <a href="{{ .Permalink }}"
+                 class="flex items-center px-4 py-2 text-sm hover:bg-gray-100 {{ if eq $.Site.Language.Lang .Language.Lang }}bg-gray-100 font-semibold{{ else }}text-gray-700{{ end }}">
+                 <img src="{{ .Language.Params.Flag | relURL }}" alt="{{ .Language.LanguageName }} flag" class="w-5 h-auto mr-2">
+                 <img src="{{ .Language.Params.flag | relURL }}" alt="{{ .Language.LanguageName }} flag" class="w-5 h-auto mr-2">
+                 <!-- <span>{{ .Language.LanguageName }}</span> -->
+              </a>
+            {{ end }}
+          </div>
+        </details>
 
-        </div>
       </nav>
     </div>
+
+
+
+
+
+<style>
+  .group:focus-within .group-open\\:block {
+      display: block;
+  }
+</style>

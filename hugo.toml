@@ -88,24 +88,40 @@ pagerSize = 24
         url = "help/"
         weight = 15
     [languages.en.params]
+      flag = "/flags/gb.png"
       heading = "A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems"
       intro = "Superphysics: Science Merged with Metaphysics"
       sub = "All Knowledge Can Be Grouped Into Three"
       banner = "/photos/physics/galaxy.jpg"
       youtube = "mNwyj7WHKKo"
-      # youtube = "8bnws4po7ew"
+    [languages.en.params.plates.a]
+      img = "/avatars/descartes.jpg"
+      title = "Material Superphysics"
+      sub = "1-50% Replicable: Paradoxical"
+    [languages.en.params.plates.b]
+      icon = "/avatars/hahnemann.jpg"
+      title = "Bio Superphysics"
+      sub = "51-99% Replicable: Subjective"
+    [languages.en.params.plates.c]
+      icon = "/avatars/smith.png"
+      title = "Social Superphysics"
+      sub = "100% Replicable: Objective"
     [languages.en.params.cards.a]
-      icon = "/icons/tao.png"
-      title = "Metaphysics"
+      img = "/avatars/descartes.jpg"
+      title = "Material Superphysics"
       sub = "1-50% Replicable: Paradoxical"
     [languages.en.params.cards.b]
-      icon = "/icons/sp.png"
-      title = "Superphysics"
+      icon = "/avatars/hahnemann.jpg"
+      title = "Bio Superphysics"
       sub = "51-99% Replicable: Subjective"
     [languages.en.params.cards.c]
-      icon = "/icons/atom.png"
-      title = "Physics"
+      icon = "/avatars/smith.png"
+      title = "Social Superphysics"
       sub = "100% Replicable: Objective"
+    [languages.en.params.cards.d]
+      img = "/avatars/buddha.jpg"
+      title = "Spiritual Superphysics"
+      sub = "1-50% Replicable: Paradoxical"
     [languages.en.params.tricon1]
       heading = "The Nature of the Soul as a Wave"
       title = "Everything is a wave that manifests as a particle"
@@ -544,6 +560,7 @@ pagerSize = 24
       url = "help"
       weight = 10
     [languages.ar.params]
+      flag = "/flags/sa.png"
       intro= "الفيزياء الفائقة= نموذج علمي يعتمد على الموجات"
       heading = "علم جديد مبني على الميتافيزيقا والجدل السقراطي"
       sub = "يمكن تجميع كل المعرفة في ثلاثة فئات"
@@ -674,20 +691,15 @@ pagerSize = 24
     weight = 3
     languageName = "中文"
     [[languages.zh.menu.main]]
-        # name = "/icons/question.png"
         name = "FAQs"
         url = "faqs"
         weight = 8
-    # [[languages.zh.menu.main]]
-    #     name = "/icons/about.png"
-    #     url = "news"
-    #     weight = 9
     [[languages.zh.menu.main]]
-        # name = "/icons/heart.png"
         name = "Help!"
         url = "help"
         weight = 10
     [languages.zh.params]
+      flag = "/flags/cn.png"
       heading = "一种基于形而上学和苏格拉底辩证法的新科学"
       intro = "超物理学：基于波动的科学范式"
       sub = "所有知识可以分为三类"
@@ -823,7 +835,6 @@ pagerSize = 24
         weight = 8
     [[languages.de.menu.main]]
         name = "News"
-        # name = "/icons/about.png"
         url = "/news"
         weight = 9
     [[languages.de.menu.main]]
@@ -832,6 +843,7 @@ pagerSize = 24
         url = "/help"
         weight = 10
     [languages.de.params]
+      flag = "/flags/de.png"
       heading = "Eine neue Wissenschaft basierend auf Metaphysik und sokratischer Dialektik"
       sub = "Alle Kenntnisse können in drei Gruppen eingeteilt werden"
       intro = "Superphysik - ein wellenbasiertes wissenschaftliches Paradigma"
@@ -976,6 +988,7 @@ pagerSize = 24
         url = "help"
         weight = 10
     [languages.fr.params]
+      flag = "/flags/fr.png"
       heading = "Une Nouvelle Science Basée sur la Métaphysique et la Dialectique Socratique"
       sub = "Toute Connaissance Peut Être Regroupée en Trois Catégories"
       intro = "Superphysique - Paradigme Scientifique basé sur les Ondes"
@@ -1118,6 +1131,7 @@ pagerSize = 24
         url = "help"
         weight = 10
     [languages.hi.params]
+      flag = "/flags/in.png"
       intro = "सुपरफिजिक्स: तरंग-आधारित वैज्ञानिक मानदंड"
       heading = "मेटाफिजिक्स और सोक्रेटिक वाद के आधार पर आधारित एक नया विज्ञान"
       sub = "सभी ज्ञान को तीन भागों में विभाजित किया जा सकता है:"
@@ -1260,6 +1274,7 @@ pagerSize = 24
         url = "help"
         weight = 10
     [languages.id.params]
+      flag = "/flags/id.png"
       intro = "Superfisika - Paradigma Ilmiah Berbasis Gelombang"
       heading = "Ilmu Baru Berdasarkan Metafisika dan Dialektika Sokratik"
       sub = "Semua Pengetahuan Dapat Dikelompokkan ke Dalam Tiga Kategori"
@@ -1423,6 +1438,7 @@ pagerSize = 24
       title = "物理学"
       sub = "100％再現可能：客観的"
     [languages.jp.params.tricon1]
+      flag = "/flags/jp.png"
       title = "魂の本質"
       heading = "すべては粒子として現れる波です。"
       sub = "アナログ宇宙は現実を創造するためにリアル定義で流れます"
@@ -1539,6 +1555,7 @@ pagerSize = 24
         url = "/faq"
         weight = 8
     [languages.vi.params]
+      flag = "/flags/vi.png"
       intro = "Siêu Vật Lý: Khoa học kết hợp với Siêu hình học"
       heading = "Siêu Vật Lý là một khoa học mới dựa trên sóng và phép biện chứng của Socrates để giải quyết các vấn đề."
       sub = "Tất cả kiến thức có thể được nhóm thành ba loại: Siêu hình học, Siêu Vật Lý, Vật Lý."
@@ -1584,6 +1601,7 @@ pagerSize = 24
         url = "help"
         weight = 10
     [languages.ru.params]
+      flag = "/flags/ru.png"
       intro = "Суперфизика: Парадигма на основе волнового подхода."
       heading = "Новая наука, основанная на метафизике и софистической диалектике"
       sub = "Все знания могут быть разделены на три группы:"
