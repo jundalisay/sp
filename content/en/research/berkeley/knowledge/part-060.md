@@ -1,19 +1,26 @@
 ---
-title: "Benham, William"
+title: "The Motives of Plants and Animals"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "If a Spirit immediately produces every Effect by a Fiat, or Act of his Will, then all that is fine and artificial in the Works, whether of Man or Nature, are made in vain"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
-60. In the eleventh place, It will be demanded to what purpose serves that curious
-Organization of Plants, and the admirable Mechanism in the Parts of Animals; might not
+60. 
+
+11. What is the purpose for:
+- the Organization of Plants
+- the admirable Mechanism in the Parts of Animals?
+
+might not
 Vegetables grow, and shoot forth Leaves and Blossoms, and Animals perform all their Motions, as well without as with all that variety of internal Parts so elegantly contrived and
 put together, which being Ideas have nothing powerful or operative in them, nor have any
-necessary Connexion with the Effects ascribed to them? If it be a Spirit that immediately
-produces every Effect by a Fiat, or Act of his Will, we must think all that is fine and artificial
-in the Works, whether of Man or Nature, to be made in vain. By this Doctrine, though an
+necessary Connexion with the Effects ascribed to them? 
+
+If a Spirit immediately produces every Effect by a Fiat, or Act of his Will, then all that is fine and artificial in the Works, whether of Man or Nature, are made in vain.
+
+By this Doctrine, though an
 Artist hath made the Spring and Wheels, and every Movement of a Watch, and adjusted
 them in such a manner as he knew would produce the Motions he designed; yet he must
 think all this done to no purpose, and that it is an Intelligence which directs the Index, and

@@ -1,36 +1,24 @@
 ---
-title: "Benham, William"
+title: "The Succession of Ideas"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "We perceive a continual Succession of Ideas, some are anew excited, others are changed or totally disappear"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
-26. We perceive a continual Succession of Ideas, some are anew excited, others are
-changed or totally disappear. There is therefore some Cause of these Ideas whereon they
-depend, and which produces and changes them. That this Cause cannot be any Quality or
-Idea or Combination of Ideas, is clear from the preceding Section. It must therefore be a
-Substance; but it has been shewn that there is no corporeal or material Substance: It remains
-therefore that the Cause of Ideas is an incorporeal active Substance or Spirit.
-
-27. A Spirit is one simple, undivided, active Being: as it perceives Ideas, it is called
-the Understanding, and as it produces or otherwise operates about them, it is called the Will.
-Hence there can be no Idea formed of a Soul or Spirit: For all Ideas whatever, being Passive
-and Inert, vide Sect. 25. they cannot represent unto us, by way of Image or Likeness, that
-which acts. A little Attention will make it plain to any one, that to have an Idea which
-shall be like that active Principle of Motion and Change of Ideas, is absolutely impossible.
 
 
-Such is the Nature of Spirit or that which acts, that it cannot be of it self perceived, but
-only by the Effects which it produceth. If any Man shall doubt of the Truth of what is
-here delivered, let him but reflect and try if he can frame the Idea of any Power or active
-Being; and whether he hath Ideas of two principal Powers, marked by the Names Will and
-Understanding, distinct from each other as well as from a third Idea of Substance or Being in
-general, with a relative Notion of its supporting or being the Subject of the aforesaid Powers,
-which is signified by the Name Soul or Spirit. This is what some hold; but so far as I can
-see, the Words Will, Soul, Spirit, do not stand for different Ideas, or in truth, for any Idea at
-all, but for something which is very different from Ideas, and which being an Agent cannot
-be like unto, or represented by, any Idea whatsoever. 
+26. We perceive a continual Succession of Ideas, some are anew excited, others are changed or totally disappear. There is therefore some Cause of these Ideas whereon they depend, and which produces and changes them. That this Cause cannot be any Quality or Idea or Combination of Ideas, is clear from the preceding Section. 
+
+It must therefore be a Substance; but it has been shewn that there is no corporeal or material Substance: It remains therefore that the Cause of Ideas is an incorporeal active Substance or Spirit.
+
+
+27. A Spirit is one simple, undivided, active Being: as it perceives Ideas, it is called the Understanding, and as it produces or otherwise operates about them, it is called the Will. Hence there can be no Idea formed of a Soul or Spirit: For all Ideas whatever, being Passive and Inert, vide Sect. 25. they cannot represent unto us, by way of Image or Likeness, that which acts. A little Attention will make it plain to any one, that to have an Idea which shall be like that active Principle of Motion and Change of Ideas, is absolutely impossible.
+
+
+Such is the Nature of Spirit or that which acts, that it cannot be of it self perceived, but only by the Effects which it produceth.
+
+If any Man shall doubt of the Truth of what is here delivered, let him but reflect and try if he can frame the Idea of any Power or active Being; and whether he hath Ideas of two principal Powers, marked by the Names Will and Understanding, distinct from each other as well as from a third Idea of Substance or Being in general, with a relative Notion of its supporting or being the Subject of the aforesaid Powers, which is signified by the Name Soul or Spirit. This is what some hold; but so far as I can see, the Words Will, Soul, Spirit, do not stand for different Ideas, or in truth, for any Idea at all, but for something which is very different from Ideas, and which being an Agent cannot be like unto, or represented by, any Idea whatsoever.
 
 Though it must be owned at the same
 time, that we have some Notion of Soul, Spirit, and the Operations of the Mind, such as

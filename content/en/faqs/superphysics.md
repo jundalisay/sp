@@ -18,7 +18,7 @@ What is Superphysics?
 Superphysics is the merging of Science and Metaphysics without going into the details of either. It acts as a bridge between ancient metaphysics and modern science, as explained by Francis Bacon.
 {{< /l >}}
 
-{{< q a="Francis-Bacon" c="The Proficience And Advancement Of Learning Simplified, Book 2 Part 7" >}}
+{{< q a="Francis Bacon" c="The Proficience And Advancement Of Learning Simplified, Book 2 Part 7" >}}
 Natural science or theory is divided into physic and metaphysic.
 - Physic should contemplate that which is inherent in matter, and therefore transitory.
 - Metaphysic should contemplate that which is abstracted and fixed.
@@ -32,20 +32,18 @@ So it's pseudo-science because it has metaphysics?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-No. Superphysics upgrades science by adding metaphysics, similar to how Android is an upgrade of cellphones by adding installable apps.
-
-Do we call a Samsung Android as a pseudo-Nokia 3310? 
+No. Superphysics upgrades science by adding metaphysics, similar to how Android is an upgrade of cellphones by adding installable apps. Do we call a Samsung Android as a pseudo-Nokia 3310? 
 {{< /l>}}
 
 {{< r a="Asker" >}}
-No. We call it a 'smart-phone'.
+No. We call it a 'smart-phone'
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
 Correct. We add the word 'smart.' Similarly, we add 'super' to 'physics' to signify an upgrade. This is supported by Francis Bacon who called 'natural magic' as part of metaphysics.
 {{< /l >}}
 
-{{< q a="Francis-Bacon" c="Book 2 Part 1, The Proficience And Advancement Of Learning Simplified" >}}
+{{< q a="Francis Bacon" c="Book 2 Part 1, The Proficience And Advancement Of Learning Simplified" >}}
 Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the like, where there is an assurance and clear evidence of the fact, **SHOULD NOT** be excluded altogether. This is because it is not yet known in what cases and how far effects attributed to superstition do participate of natural causes. Therefore, howsoever the practice of such things is to be condemned, yet from the speculation and consideration of them, light may be taken for the further understanding of Nature.   
 {{< /q >}}
 
@@ -53,17 +51,12 @@ Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the
 ## 6-sense Upgrade
 
 {{< l a="Superphysics" >}}
-**Socratic Dialectics** makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting that adds the 6th sense of intuition or higher mind which Socrates called the 'higher principle'. 
-
-You could say that the 5 senses detect visible particles and objects, while the 6th sense detects invisible waves and patterns. Most people only use the 5 senses. A very few use all 6 senses. Of those very few, only a handful have the intellect to connect everything and solve problems.
+**Socratic Dialectics** makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting that adds the 6th sense of intuition or higher mind which Socrates called the 'higher principle'. You could say that the 5 senses detect visible particles and objects, while the 6th sense detects invisible waves and patterns. Most people only use the 5 senses. A very few use all 6 senses. Of those very few, only a handful have the intellect to connect everything and solve problems.
 {{< /l >}}
-
 
 {{< q a="Socrates" c="The Republic Simplified" >}}
 He leaves this higher principle in pure abstraction when the lower and higher principle clash. He rouses up the third principle which is reason... The intellectual sphere has a lower part where the soul uses the shapes given by the higher part as images. Enquiries here does not go upwards to a higher principle.
 {{< /q >}}
-
-
 
 <!-- 
 r a="Asker" >}}
@@ -91,9 +84,7 @@ How sure are you that Superphysics can solve what Science cannot?
 {{< l a="Superphysics" >}}
 Because we absorb all data, information, and human knowledge, even from [Asia](/research/ancient/babylonian/enuma/tablet-01/), [Maya](/research/ancient/mayan/popol/part-1/chapter-01/), [Hinduism](/research/indian/gospel/intro/part-01/), [Buddhism](/research/buddha/), Taoism, even human information about [aliens](/research/other/alien/essassani/basics/) (to test whether our principles also hold true in other planets and are therefore universal). 
 
-Hinduism, Buddhism, and Taoism allow other dimensions by default. Even Islam has the concept of [Jinns](/research/mohammad/quran/sura-072). This gives us a bigger data set from which we can test their own principles on our reality.
-
-This is different from Roman philosophy which was ignorant on metaphysics. The Romans did not know about other dimensions or how to detect or access them. The Roman mentality evolved to be Western thinking and science which only deal with the obvious and shallow perceptions.
+Hinduism, Buddhism, and Taoism allow other dimensions by default. Even Islam has the concept of [Jinns](/research/mohammad/quran/sura-072). This gives us a bigger data set from which we can test their own principles on our reality. This is different from Roman philosophy which was ignorant on metaphysics. The Romans did not know about other dimensions or how to detect or access them. The Roman mentality evolved to be Western thinking and science which only deal with the obvious and shallow perceptions.
 {{< /l >}}
 
 <!-- Notice how Roman gods just mirror human characteristics.  and subsequently as the limited Western Science  -->
@@ -165,16 +156,13 @@ Ah, the real-time creation is the same idea in the movie "The Matrix".
 {{< youtube OKpHHMi3yZU >}}
 
 {{< l a="Superphysics" >}}
-Yes. It's more commonly known as theories that say that [we exist in a simulation](https://www.wired.com/story/living-in-a-simulation/). Knowing how this simulation is sustained allows the possibility to tap into that inexhaustible creative or sustaining mechanism. 
-
-**It means existence was not meant to be suffered**. If you are suffering then it's your fault, not of 'God' or Nature. In our case, we use this knowledge to solve all problems.
+Yes. It's more commonly known as theories that say that [we exist in a simulation](https://www.wired.com/story/living-in-a-simulation/). Knowing how this simulation is sustained allows the possibility to tap into that inexhaustible creative or sustaining mechanism. **It means existence was not meant to be suffered**. If you are suffering then it's your fault, not of 'God' or Nature. In our case, we use this knowledge to solve all problems.
 
 In the beginning, we used it to solve the personal problems of others. In time, we saw everyone having the same pattern of problems. So we organized everything into Superphysics principles to make problem-solving more efficient. We saw that David Hume, in his Treatise of Human Nature, was already ahead in this regard. So we organized our principles into three (Material, Bio, and Social) to match his three books. This also matches the categorization by Descartes.  
 {{< /l >}}
 
 {{< q a="Descartes" c="The Principles of Philosophy, Preface" >}}
 There are 3 principal sciences:
-
 1. Medicine
 2. Mechanics
 3. Ethics
@@ -262,9 +250,7 @@ What's samadhi?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-What's samadhi? Ask [Patanjali](/research/indian/yoga/part-1)!
-
-All we can say is "No Samadhi, No Honey" :thumbsdown: (i.e. Without samadhi, you won't get a solid understanding of how the universe is structured and generated in real-time). But here's a bonus: Patanjali actually gives hints how to upgrade yourself to 6-senses. 
+What's samadhi? Ask [Patanjali](/research/indian/yoga/part-1)! All we can say is "No Samadhi, No Honey" :thumbsdown: (i.e. Without samadhi, you won't get a solid understanding of how the universe is structured and generated in real-time). But here's a bonus: Patanjali actually gives hints how to upgrade yourself to 6-senses. 
 {{< /l >}}
 
 {{< r a="Boomer" >}}
@@ -321,13 +307,13 @@ New philosophies and systems arise in response to problems. To make things simpl
 I guess you encounter a lot of opposition from humans who think that the limited 5-sense science is perfect and superior to 6-sense science which to them is invalid pseudo-science. :sweat:
 {{< /r >}}
 
-{{< l a="Bio-Superphysics" >}}
+{{< l a="Bio Superphysics" >}}
 Yes. This is now known as 'scientism' [propagated by materialists](https://www.psychologytoday.com/us/blog/out-the-darkness/201911/scientism).
 
 For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure 10% of people but not all. Instead of canceling them as inconclusive, Bio Superphysics groups those 10% people into a **specific personality type** which is cured 100% by that alternative medicine. 
 {{< /l >}}
 
-{{< l a="Social-Superphysics" >}}
+{{< l a="Social Superphysics" >}}
 Imagine talking to cavemen about the possibility of creating agriculture, radio, antibiotics, and representative-goverments to improve their lives. Yet those very cavemen laugh and call you crazy and force you to cancel research and go back to hunting deer like all other cavemen.
 {{< /l >}}
 

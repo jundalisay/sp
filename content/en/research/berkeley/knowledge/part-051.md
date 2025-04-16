@@ -1,15 +1,17 @@
 ---
-title: "Benham, William"
+title: "What is the Cause?"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "Some of the Schoolmen think that there are no Corporeal Causes."
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
-51. Seventhly, It will upon this be demanded whether it does not seem absurd to take
-away natural Causes, and ascribe every thing to the immediate Operation of Spirits? We
-must no longer say upon these Principles that Fire heats, or Water cools, but that a Spirit
+51.
+
+7. Is it absurd to take away natural Causes, and ascribe every thing to the immediate Operation of Spirits? 
+
+We must no longer say upon these Principles that Fire heats, or Water cools, but that a Spirit
 heats, and so forth. Would not a Man be deservedly laught at, who should talk after this
 manner? 
 
@@ -30,9 +32,17 @@ and ingenuous Reader will collect the Sense, from the Scope and Tenor and Connex
 a Discourse, making allowances for those inaccurate Modes of Speech, which use has made
 inevitable.
 
-53. As to the Opinion that there are no Corporeal Causes, this has been heretofore
-maintained by some of the Schoolmen, as it is of late by others among the modern Philosophers, who though they allow Matter to exist, yet will have God alone to be the immediate
-efficient Cause of all things. These Men saw, that amongst all the Objects of Sense, there
+53. 
+
+Some of the Schoolmen think that there are no Corporeal Causes.
+
+<!--  this has been heretofore
+maintained by some of the Schoolmen, as it is of late by others among the modern Philosophers, who though  -->
+
+They allow Matter to exist, yet will have God alone to be the immediate
+efficient Cause of all things. 
+
+These Men saw, that amongst all the Objects of Sense, there
 was none which had any Power or Activity included in it, and that by Consequence this
 was likewise true of whatever Bodies they supposed to exist without the Mind, like unto the
 immediate Objects of Sense. But then, that they should suppose an innumerable Multitude

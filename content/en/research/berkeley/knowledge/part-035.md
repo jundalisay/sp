@@ -1,15 +1,16 @@
 ---
-title: "Benham, William"
+title: "The Nature of Existence"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "I do not argue against the Existence of any one thing that we can apprehend, either by Sense or Reflexion."
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
 
-35. I do not argue against the Existence of any one thing that we can apprehend,
-either by Sense or Reflexion. That the things I see with mine Eyes and touch with my Hands
+35. I do not argue against the Existence of any one thing that we can apprehend, either by Sense or Reflexion.
+
+That the things I see with mine Eyes and touch with my Hands
 do exist, really exist, I make not the least Question. The only thing whose Existence we deny,
 is that which Philosophers call Matter or corporeal Substance. And in doing of this, there
 is no Damage done to the rest of Mankind, who, I dare say, will never miss it. The Atheist

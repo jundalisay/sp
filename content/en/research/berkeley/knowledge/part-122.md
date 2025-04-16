@@ -1,20 +1,20 @@
 ---
-title: "Benham, William"
+title: "Numbers and Extension"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "In Arithmetic therefore we regard not the Things but the Signs"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
-122. In Arithmetic therefore we regard not the Things but the Signs, which nevertheless are not regarded for their own sake, but because they direct us how to act with
-relation to Things, and dispose rightly of them. 
+122. In Arithmetic therefore we regard not the Things but the Signs.
+
+These signs are not regarded for their own sake, but because they direct us how to act with relation to Things, and dispose rightly of them. 
 
 Now agreeably to what we have before observed, of Words in general (Sect. 19. Introd.) it happens here likewise, that abstract Ideas are thought to be signified by Numeral Names or Characters, while they do not suggest Ideas
 of particular Things to our Minds.
 
-I shall not at present enter into a more particular Dissertation on this Subject; but only observe that it is evident from what hath been said, those
-Things which pass for abstract Truths and Theoremes concerning Numbers, are, in reality,
+I shall not at present enter into a more particular Dissertation on this Subject; but only observe that it is evident from what hath been said, those Things which pass for abstract Truths and Theoremes concerning Numbers, are, in reality,
 conversant about no Object distinct from particular numerable Things, except only Names
 and Characters; which originally came to be considered, on no other account but their being
 Signs, or capable to represent aptly, whatever particular Things Men had need to compute.

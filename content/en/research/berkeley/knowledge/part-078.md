@@ -1,29 +1,22 @@
 ---
-title: "Benham, William"
+title: "The Motives for Materialism"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "What are the Motives which induced Men to suppose the Existence of material Substance?"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
-78. It is worth while to reflect a little on the Motives which induced Men to suppose the Existence of material Substance; that so having observed the gradual ceasing, and
-Expiration of those Motives or Reasons, we may proportionably withdraw the Assent that
-was grounded on them.
+78. What are the Motives which induced Men to suppose the Existence of material Substance?
+
+In this way we can see the gradual ceasing, and Expiration of those Motives or Reasons, we may proportionably withdraw the Assent that was grounded on them.
 
 First therefore, it was thought that Colour, Figure, Motion, and the
 rest of the sensible Qualities or Accidents, did really exist without the Mind; and for this
 reason, it seemed needful to suppose some unthinking Substratum or Substance wherein they
-did exist, since they could not be conceived to exist by themselves. Afterwards, in process
-of time, Men being convinced that Colours, Sounds, and the rest of the sensible secondary
-Qualities had no Existence without the Mind, they stripped this Substratum or material
-Substance of those Qualities, leaving only the primary ones, Figure, Motion, and such like,
-which they still conceived to exist without the Mind, and consequently to stand in need of
-a material Support. But it having been shewn, that none, even of these, can possibly exist
-otherwise than in a Spirit or Mind which perceives them, it follows that we have no longer
-any reason to suppose the being of Matter. Nay, that it is utterly impossible there should be
-any such thing, so long as that Word is taken to denote an unthinking Substratum of Qualities
-or Accidents, wherein they exist without the Mind.
+did exist, since they could not be conceived to exist by themselves. 
+
+Afterwards, in process of time, Men being convinced that Colours, Sounds, and the rest of the sensible secondary Qualities had no Existence without the Mind, they stripped this Substratum or material Substance of those Qualities, leaving only the primary ones, Figure, Motion, and such like, which they still conceived to exist without the Mind, and consequently to stand in need of a material Support. But it having been shewn, that none, even of these, can possibly exist otherwise than in a Spirit or Mind which perceives them, it follows that we have no longer any reason to suppose the being of Matter. Nay, that it is utterly impossible there should be any such thing, so long as that Word is taken to denote an unthinking Substratum of Qualities or Accidents, wherein they exist without the Mind.
 
 
 74. But though it be allowed by the Materialists themselves, that Matter was

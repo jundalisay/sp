@@ -1,16 +1,16 @@
 ---
-title: "Benham, William"
+title: "How We Know"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "As for our Senses, by them we have the Knowledge only of our Sensations, Ideas, or those things that are immediately perceived by Sense"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
 
-18. But though it were possible that solid, figured, moveable Substances may exist without the Mind, corresponding to the Ideas we have of Bodies, yet how is it possible for us
-to know this? Either we must know it by Sense, or by Reason. As for our Senses, by them
-we have the Knowledge only of our Sensations, Ideas, or those things that are immediately
+18. But though it were possible that solid, figured, moveable Substances may exist without the Mind, corresponding to the Ideas we have of Bodies, yet how is it possible for us to know this? Either we must know it by Sense, or by Reason. 
+
+As for our Senses, by them we have the Knowledge only of our Sensations, Ideas, or those things that are immediately
 perceived by Sense, call them what you will: But they do not inform us that things exist
 without the Mind, or unperceived, like to those which are perceived. This the Materialists
 themselves acknowledge. It remains therefore that if we have any Knowledge at all of external

@@ -1,60 +1,17 @@
 ---
-title: "Benham, William"
+title: "How the Mind Observes"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "The Qualities or Modes of things do never really exist each of them apart by it self"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
-7. It is agreed on all hands, that the Qualities or Modes of things do never really
-exist each of them apart by it self, and separated from all others, but are mix’d, as it were,
-and blended together, several in the same Object. But we are told, the Mind being able
-to consider each Quality singly, or abstracted from those other Qualities with which it is
-united, does by that means frame to it self abstract Ideas. For example, there is perceived
-by Sight an Object extended, coloured, and moved: This mix’d or compound Idea the mind
-resolving into its Simple, constituent Parts, and viewing each by it self, exclusive of the rest,
-does frame the abstract Ideas of Extension, Colour, and Motion. Not that it is possible for
-Colour or Motion to exist without Extension: but only that the Mind can frame to it self
-by Abstraction the Idea of Colour exclusive of Extension, and of Motion exclusive of both
-Colour and Extension.
+9. As the Mind frames to it self abstract Ideas of Qualities or Modes, so does it, by the same precision or mental Separation, attain abstract Ideas of the more compounded Beings, which include several coexistent Qualities. 
 
-8. Again, the Mind having observed that in the particular Extensions perceiv’d by
-Sense, there is something common and alike in all, and some other things peculiar, as this
-or that Figure or Magnitude, which distinguish them one from another; it considers apart or
-singles out by it self that which is common, making thereof a most abstract Idea of Extension, which is neither Line, Surface, nor Solid, nor has any Figure or Magnitude but is an Idea
-intirely prescinded from all these. So likewise the Mind by leaving out of the particular Colours
-perceived by Sense, that which distinguishes them one from another, and retaining that only
-which is common to all, makes an Idea of Colour in abstract which is neither Red, nor Blue,
-nor White, nor any other determinate Colour. 
+For example, the Mind having observed that Peter, James, and John, resemble each other, in certain common Agreements of Shape and other Qualities, leaves out of the complex or compounded Idea it has of Peter, James, and any other particular Man, that which is peculiar to each, retaining only what is common to all; and so makes an abstract Idea wherein all the particulars equally partake, abstracting intirely from and cutting off all those Circumstances and Differences, which might determine it to any particular Existence.
 
-And in like manner by considering Motion
-abstractedly not only from the Body moved, but likewise from the Figure it describes, and
-all particular Directions and Velocities, the abstract Idea of Motion is framed; which equally
-corresponds to all particular Motions whatsoever that may be perceived by Sense.
-
-
-IX. And as the Mind frames to it self abstract Ideas of Qualities or Modes, so does it,
-by the same precision or mental Separation, attain abstract Ideas of the more compounded
-Beings, which include several coexistent Qualities. 
-
-For example, the Mind having observed
-that Peter, James, and John, resemble each other, in certain common Agreements of Shape
-and other Qualities, leaves out of the complex or compounded Idea it has of Peter, James,
-and any other particular Man, that which is peculiar to each, retaining only what is common
-to all; and so makes an abstract Idea wherein all the particulars equally partake, abstracting
-intirely from and cutting off all those Circumstances and Differences, which might determine
-it to any particular Existence. And after this manner it is said we come by the abstract Idea
-of Man or, if you please, Humanity, or Humane Nature; wherein it is true there is included
-Colour, because there is no Man but has some Colour, but then it can be neither White, nor
-Black, nor any particular Colour; because there is no one particular Colour wherein all Men
-partake. So likewise there is included Stature, but then it is neither Tall Stature nor Low
-Stature, nor yet Middle Stature, but something abstracted from all these. And so of the rest.
-Moreover, there being a great variety of other Creatures that partake in some Parts, but not
-all, of the complex Idea of Man, the Mind leaving out those Parts which are peculiar to Men,
-and retaining those only which are common to all the living Creatures, frameth the Idea of
-Animal, which abstracts not only from all particular Men, but also all Birds, Beasts, Fishes,
-and Insects.
+After this manner it is said we come by the abstract Idea of Man or, if you please, Humanity, or Humane Nature; wherein it is true there is included Colour, because there is no Man but has some Colour, but then it can be neither White, nor Black, nor any particular Colour; because there is no one particular Colour wherein all Men partake. So likewise there is included Stature, but then it is neither Tall Stature nor Low Stature, nor yet Middle Stature, but something abstracted from all these. And so of the rest. Moreover, there being a great variety of other Creatures that partake in some Parts, but not all, of the complex Idea of Man, the Mind leaving out those Parts which are peculiar to Men, and retaining those only which are common to all the living Creatures, frameth the Idea of Animal, which abstracts not only from all particular Men, but also all Birds, Beasts, Fishes, and Insects.
 
 
 The constituent Parts of the abstract Idea of Animal are Body, Life, Sense,

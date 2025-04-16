@@ -1,8 +1,8 @@
 ---
-title: "Benham, William"
+title: "What is Attraction?"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "The great mechanical Principle now in Vogue is Attraction"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
@@ -10,6 +10,8 @@ contributors: ['Berkeley']
 101. The two great Provinces of speculative Science, conversant about Ideas received from
 Sense and their Relations, are natural Philosophy and Mathematics; with regard to each of
 these I shall make some Observations. And First, I shall say somewhat of natural Philosophy.
+
+
 On this Subject it is, that the Sceptics triumph: All that stock of Arguments they produce to
 depreciate our Faculties, and make Mankind appear ignorant and low, are drawn principally
 from this Head, to wit, that we are under an invincible Blindness as to the true and real
@@ -21,6 +23,7 @@ the Power of humane Understanding to fathom or comprehend. But it is evident fro
 has been shewn, that all this Complaint is groundless, and that we are influenced by false
 Principles to that degree as to mistrust our Senses, and think we know nothing of those
 Things which we perfectly comprehend.
+
 
 CII. One great Inducement to our pronouncing our selves ignorant of the Nature of
 Things, is the current Opinion that every thing includes within it self the Cause of its Properties: Or that there is in each Object an inward Essence, which is the Source whence its
@@ -35,7 +38,10 @@ Which may be said, in general, of those Instances, wherein one Idea or Quality i
 for the Cause of another. I need not say, how many Hypotheses and Speculations are left out,
 and how much the Study of Nature is abridged by this Doctrine.
 
-CIII. The great mechanical Principle now in Vogue is Attraction. That a Stone falls to
+
+CIII. The great mechanical Principle now in Vogue is Attraction. 
+
+That a Stone falls to
 the Earth, or the Sea swells towards the Moon, may to some appear sufficiently explained
 thereby. But how are we enlightened by being told this is done by Attraction? Is it that that
 Word signifies the manner of the Tendency, and that it is by the mutual drawing of Bodies,

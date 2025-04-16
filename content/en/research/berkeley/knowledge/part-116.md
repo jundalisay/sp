@@ -1,25 +1,15 @@
 ---
-title: "Benham, William"
+title: "Motion"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "Motion does not imply the being of an absolute Space, distinct from that which is perceived by Sense, and related to Bodies."
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
-116. From what hath been said, it follows that the Philosophic Consideration of Motion
-doth not imply the being of an absolute Space, distinct from that which is perceived by Sense,
-and related to Bodies: Which that it cannot exist without the Mind, is clear upon the same
-Principles, that demonstrate the like of all other Objects of Sense. And perhaps, if we inquire
-narrowly, we shall find we cannot even frame an Idea of pure Space, exclusive of all Body.
-This I must confess seems impossible, as being a most abstract Idea. When I excite a Motion
-in some part of my Body, if it be free or without Resistance, I say there is Space: But if I find
-a Resistance, then I say there is Body: and in proportion as the Resistance to Motion is lesser
-or greater, I say the Space is more or less pure. So that when I speak of pure or empty Space,
-it is not to be supposed, that the Word Space stands for an Idea distinct from, or conceivable
-without Body and Motion. Though indeed we are apt to think every Noun Substantive stands
-for a distinct Idea, that may be separated from all others: Which hath occasioned infinite
-Mistakes.
+116. It follows that the Philosophic Consideration of Motion does not imply the being of an absolute Space, distinct from that which is perceived by Sense, and related to Bodies: Which that it cannot exist without the Mind, is clear upon the same Principles, that demonstrate the like of all other Objects of Sense. 
+
+If we inquire narrowly, we shall find we cannot even frame an Idea of pure Space, exclusive of all Body. This I must confess seems impossible, as being a most abstract Idea. When I excite a Motion in some part of my Body, if it be free or without Resistance, I say there is Space: But if I find a Resistance, then I say there is Body: and in proportion as the Resistance to Motion is lesser or greater, I say the Space is more or less pure. So that when I speak of pure or empty Space, it is not to be supposed, that the Word Space stands for an Idea distinct from, or conceivable without Body and Motion. Though indeed we are apt to think every Noun Substantive stands for a distinct Idea, that may be separated from all others: Which hath occasioned infinite Mistakes.
 
 When therefore supposing all the World to be annihilated besides my own Body,
 I say there still remains pure Space: Thereby nothing else is meant, but only that I conceive
@@ -29,18 +19,14 @@ Some perhaps may think the Sense of Seeing doth furnish them with the Idea of pu
 but it is plain from what we have elsewhere shewn, that the Ideas of Space and Distance are
 not obtained by that Sense. See the Essay concerning Vision.
 
-CXVII. What is here laid down, seems to put an end to all those Disputes and Difficulties,
-which have sprung up amongst the Learned concerning the nature of pure Space. But the
-chief Advantage arising from it, is, that we are freed from that dangerous Dilemma, to which
-several who have employed their Thoughts on this Subject, imagine themselves reduced,
-to wit, of thinking either that Real Space is God, or else that there is something beside
-God which is Eternal, Uncreated, Infinite, Indivisible, Immutable. Both which may justly
-be thought pernicious and absurd Notions. It is certain that not a few Divines, as well as
-Philosophers of great note, have, from the Difficulty they found in conceiving either Limits
-or Annihilation of Space, concluded it must be Divine. And some of late have set themselves
-particularly to shew, that the incommunicable Attributes of God agree to it. Which Doctrine,
-how unworthy soever it may seem of the Divine Nature, yet I do not see how we can get clear
-of it, so long as we adhere to the received Opinions.
+
+117. This ends all those Disputes and Difficulties, which have sprung up amongst the Learned concerning the nature of pure Space. 
+
+But the chief Advantage arising from it, is, that we are freed from that dangerous Dilemma, to which several who have employed their Thoughts on this Subject, imagine themselves reduced, to wit, of thinking either that Real Space is God, or else that there is something beside God which is Eternal, Uncreated, Infinite, Indivisible, Immutable. Both which may justly be thought pernicious and absurd Notions.
+
+Many Divines and notable Philosophers have, from the Difficulty they found in conceiving either Limits or Annihilation of Space, concluded it must be Divine.
+
+And some of late have set themselves particularly to shew, that the incommunicable Attributes of God agree to it. Which Doctrine, how unworthy soever it may seem of the Divine Nature, yet I do not see how we can get clear of it, so long as we adhere to the received Opinions.
 
 
 CXVIII. Hitherto of Natural Philosophy: We come now to make some Inquiry concerning that other great Branch of speculative Knowledge, to wit, Mathematics. These, how

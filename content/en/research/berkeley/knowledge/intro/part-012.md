@@ -1,14 +1,15 @@
 ---
-title: "Benham, William"
+title: "How are Words Created?"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "By observing how Ideas become general, we may the better judge how Words are made so"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
-7. By observing how Ideas become general, we may the better judge how Words are
-made so. And here it is to be noted that I do not deny absolutely there are general Ideas, but
+7. By observing how Ideas become general, we may the better judge how Words are made so.
+
+ And here it is to be noted that I do not deny absolutely there are general Ideas, but
 only that there are any abstract general Ideas: For in the Passages above quoted, wherein
 there is mention of general Ideas, it is always supposed that they are formed by Abstraction,
 after the manner set forth in Sect. VIII and IX. Now if we will annex a meaning to our Words,

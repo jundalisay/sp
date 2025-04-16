@@ -1,18 +1,15 @@
 ---
-title: "Benham, William"
+title: "Time Space Motion"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "The best Key for the Analogy, or natural Science, will be easily acknowledged to be a certain celebrated Treatise of Mechanics"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
-108. Those Men who frame general Rules from the Phænomena, and afterwards derive
-the Phænomena from those Rules, seem to consider Signs rather than Causes. A Man may
-well understand natural Signs without knowing their Analogy, or being able to say by what
-Rule a Thing is so or so. And as it is very possible to write improperly, through too strict
-an Observance of general Grammar-Rules: So in arguing from general Rules of Nature, it is
-not impossible we may extend the Analogy too far, and by that means run into Mistakes.
+108. Those Men who frame general Rules from the Phænomena, and afterwards derive the Phænomena from those Rules, seem to consider Signs rather than Causes. A Man may well understand natural Signs without knowing their Analogy, or being able to say by what Rule a Thing is so or so. 
+
+And as it is very possible to write improperly, through too strict an Observance of general Grammar-Rules: So in arguing from general Rules of Nature, it is not impossible we may extend the Analogy too far, and by that means run into Mistakes.
 
 
 109. As in reading other Books, a wise Man will choose to fix his Thoughts on the Sense
@@ -26,9 +23,7 @@ Beneficence of the Creator: And lastly, to make the several Parts of the Creatio
 in us lies, subservient to the Ends they were designed for, God’s Glory, and the Sustentation
 and Comfort of our selves and Fellow-Creatures.
 
-110. The best Key for the aforesaid Analogy, or natural Science, will be easily acknowledged to be a certain celebrated Treatise of Mechanics: In the entrance of which justly
-admired Treatise, Time, Space, and Motion, are distinguished into Absolute and Relative,
-True and Apparent, Mathematical and Vulgar : Which Distinction, as it is at large explained
+110. The best Key for the Analogy, or natural Science, will be easily acknowledged to be a certain celebrated Treatise of Mechanics: In the entrance of which justly admired Treatise, Time, Space, and Motion, are distinguished into Absolute and Relative, True and Apparent, Mathematical and Vulgar : Which Distinction, as it is at large explained
 by the Author, doth suppose those Quantities to have an Existence without the Mind: And
 that they are ordinarily conceived with relation to sensible Things, to which nevertheless in
 their own Nature, they bear no relation at all.

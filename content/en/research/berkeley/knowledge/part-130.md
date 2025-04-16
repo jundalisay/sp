@@ -1,14 +1,15 @@
 ---
-title: "Benham, William"
+title: "The Speculations of Infinities"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "Recently, the Speculations about Infinities have run so high"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
-130. Of late the Speculations about Infinities have run so high, and grown to such
-strange Notions, as have occasioned no small Scruples and Disputes among the Geometers
+130. Recently, the Speculations about Infinities have run so high.
+
+They have grown to such strange Notions, as have occasioned no small Scruples and Disputes among the Geometers
 of the present Age. Some there are of great Note, who not content with holding that finite
 Lines may be divided into an infinite Number of Parts, do yet farther maintain, that each
 of those Infinitesimals is it self subdivisible into an Infinity of other Parts, or Infinitesimals

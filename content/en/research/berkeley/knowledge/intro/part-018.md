@@ -1,15 +1,16 @@
 ---
-title: "Benham, William"
+title: "The Importance of Language"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "Reason is the only Source of an Opinion so universally received"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
 18. I come now to consider the Source of this prevailing Notion, and that seems to
-me to be Language. And surely nothing of less extent than Reason it self could have been the
-Source of an Opinion so universally received. The truth of this appears as from other Reasons,
+me to be Language. 
+
+Reason is the only Source of an Opinion so universally received. The truth of this appears as from other Reasons,
 so also from the plain Confession of the ablest Patrons of abstract Ideas, who acknowledge
 that they are made in order to naming; from which it is a clear Consequence, that if there
 had been no such thing as Speech or Universal Signs, there never had been any thought of
@@ -50,7 +51,7 @@ quantity be marked by each Letter, yet to proceed right it is not requisite that
 each Letter suggest to your Thoughts, that particular quantity it was appointed to stand for.
 
 
-XX. Besides, the communicating of Ideas marked by Words is not the chief and only
+20. Besides, the communicating of Ideas marked by Words is not the chief and only
 end of Language, as is commonly supposed. There are other Ends, as the raising of some
 Passion, the exciting to, or deterring from an Action, the putting the Mind in some particular
 Disposition; to which the former is in many Cases barely subservient, and sometimes intirely

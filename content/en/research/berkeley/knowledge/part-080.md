@@ -1,35 +1,31 @@
 ---
-title: "Benham, William"
+title: "The Last of the Objections"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "What if we give up the Cause of material Substance and assert, that Matter is an unknown Somewhat"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
-80. In the last place, you will say, What if we give up the Cause of material Substance,
-and assert, that Matter is an unknown Somewhat, neither Substance nor Accident, Spirit nor
-Idea, inert, thoughtless, indivisible, immoveable, unextended, existing in no Place? For, say
-you, Whatever may be urged against Substance or Occasion, or any other positive or relative
+80. What if we give up the Cause of material Substance and assert, that Matter is an unknown Somewhat, neither Substance nor Accident, Spirit nor Idea, inert, thoughtless, indivisible, immoveable, unextended, existing in no Place? 
+
+You say that whatever may be urged against Substance or Occasion, or any other positive or relative
 Notion of Matter, hath no place at all, so long as this negative Definition of Matter is adhered
 to. I answer, you may, if so it shall seem good, use the word Matter in the same Sense, that
-other Men use nothing, and so make those Terms convertible in your Style. For after all, this
+other Men use nothing, and so make those Terms convertible in your Style. 
+
+For after all, this
 is what appears to me to be the Result of that Definition, the Parts whereof when I consider
 with Attention, either collectively, or separate from each other, I do not find that there is any
 kind of Effect or Impression made on my Mind, different from what is excited by the Term
 Nothing.
 
 
-81. You will reply perhaps, that in the foresaid Definition is included, what doth
-sufficiently distinguish it from nothing, the positive, abstract Idea of Quiddity, Entity, or
-Existence. I own indeed, that those who pretend to the Faculty of framing abstract general
-Ideas, do talk as if they had such an Idea, which is, say they, the most abstract and general
-Notion of all, that is to me the most incomprehensible of all others. That there are a great
-variety of Spirits of different Orders and Capacities, whose Faculties, both in Number and
-Extent, are far exceeding those the Author of my Being has bestowed on me, I see no reason
-to deny. And for me to pretend to determine by my own few, stinted, narrow Inlets of
-Perception, what Ideas the inexhaustible Power of the Supreme Spirit may imprint upon
-them, were certainly the utmost Folly and Presumption. Since there may be, for ought that
+81. You will reply perhaps, that in the foresaid Definition is included, what doth sufficiently distinguish it from nothing, the positive, abstract Idea of Quiddity, Entity, or Existence. 
+
+I own indeed, that those who pretend to the Faculty of framing abstract general Ideas, do talk as if they had such an Idea, which is, say they, the most abstract and general Notion of all, that is to me the most incomprehensible of all others. That there are a great variety of Spirits of different Orders and Capacities, whose Faculties, both in Number and Extent, are far exceeding those the Author of my Being has bestowed on me, I see no reason to deny. And for me to pretend to determine by my own few, stinted, narrow Inlets of Perception, what Ideas the inexhaustible Power of the Supreme Spirit may imprint upon them, were certainly the utmost Folly and Presumption.
+
+Since there may be, for ought that
 I know, innumerable sorts of Ideas or Sensations, as different from one another, and from
 all that I have perceived, as Colours are from Sounds. But how ready soever I may be,
 to acknowledge the Scantiness of my Comprehension, with regard to the endless variety of
@@ -40,8 +36,7 @@ which may possibly be made on the part of Religion.
 
 
 82. Some there are who think, that though the Arguments for the real Existence of
-Bodies, which are drawn from Reason, be allowed not to amount to Demonstration, yet the Holy Scriptures are so clear in the Point, as will sufficiently convince every good Christian, that Bodies do really exist, and are something more than mere Ideas; there being in Holy Writ innumerable Facts related, which evidently suppose the reality of Timber, and Stone,
-Mountains, and Rivers, and Cities, and humane Bodies. To which I answer, that no sort
+Bodies, which are drawn from Reason, be allowed not to amount to Demonstration, yet the Holy Scriptures are so clear in the Point, as will sufficiently convince every good Christian, that Bodies do really exist, and are something more than mere Ideas; there being in Holy Writ innumerable Facts related, which evidently suppose the reality of Timber, and Stone, Mountains, and Rivers, and Cities, and humane Bodies. To which I answer, that no sort
 of Writings whatever, sacred or profane, which use those and the like Words in the vulgar
 Acceptation, or so as to have a meaning in them, are in danger of having their Truth called
 in question by our Doctrine. That all those Things do really exist, that there are Bodies,
@@ -65,18 +60,23 @@ Import by our Principles. What must we think of Moses’s Rod, was it not really
 a Serpent, or was there only a Change of Ideas in the Minds of the Spectators? And can it
 be supposed, that our Saviour did no more at the Marriage-Feast in Cana, than impose on
 the Sight, and Smell, and Taste of the Guests, so as to create in them the Appearance or
-Idea only of Wine? The same may be said of all other Miracles: Which, in consequence of
+Idea only of Wine? 
+
+The same may be said of all other Miracles: Which, in consequence of
 the foregoing Principles, must be looked upon only as so many Cheats, or Illusions of Fancy.
 To this I reply, that the Rod was changed into a real Serpent, and the Water into real Wine.
 That this doth not, in the least, contradict what I have elsewhere said, will be evident from
 Sect. 34, and 35. But this Business of Real and Imaginary hath been already so plainly and
 fully explained, and so often referred to, and the Difficulties about it are so easily answered
 from what hath gone before, that it were an Affront to the Reader’s Understanding, to resume
-the Explication of it in this place. I shall only observe, that if at Table all who were present
+the Explication of it in this place. 
+
+I shall only observe, that if at Table all who were present
 should see, and smell, and taste, and drink Wine, and find the effects of it, with me there
 could be no doubt of its Reality. So that, at Bottom, the Scruple concerning real Miracles
 hath no place at all on ours, but only on the received Principles, and consequently maketh
 rather for, than against what hath been said.
+
 
 LXXXV. Having done with the Objections, which I endeavoured to propose in the clearest Light, and gave them all the Force and Weight I could, we proceed in the next place to take
 a view of our Tenets in their Consequences. Some of these appear at first Sight, as that several

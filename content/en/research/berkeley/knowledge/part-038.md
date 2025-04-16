@@ -1,8 +1,8 @@
 ---
-title: "Benham, William"
+title: "The Ideas of Sight and Touch"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "The Ideas of Sight and Touch make two Species, intirely distinct and heterogeneous"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 

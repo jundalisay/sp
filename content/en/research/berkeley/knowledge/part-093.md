@@ -1,21 +1,18 @@
 ---
-title: "Benham, William"
+title: "The Idea of Time"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "Impious and profane Persons readily fall in with those Systems which favour their Inclinations."
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
 
-93. That impious and profane Persons should readily fall in with those Systems which
-favour their Inclinations, by deriding immaterial Substance, and supposing the Soul to be
-divisible and subject to Corruption as the Body; which exclude all Freedom, Intelligence,
-and Design from the Formation of Things, and instead thereof make a self-existent, stupid,
-unthinking Substance the Root and Origin of all Beings. That they should hearken to those
-who deny a Providence, or Inspection of a superior Mind over the Affairs of the World,
-attributing the whole Series of Events either to blind Chance or fatal Necessity, arising from
-the Impulse of one Body on another. 
+93. Impious and profane Persons readily fall in with those Systems which favour their Inclinations.
+
+They do this by deriding immaterial Substance, and supposing the Soul to be divisible and subject to Corruption as the Body.
+
+This excludes all Freedom, Intelligence, and Design from the Formation of Things, and instead thereof make a self-existent, stupid, unthinking Substance the Root and Origin of all Beings. That they should hearken to those who deny a Providence, or Inspection of a superior Mind over the Affairs of the World, attributing the whole Series of Events either to blind Chance or fatal Necessity, arising from the Impulse of one Body on another.
 
 All this is very natural. And on the other hand, when
 Men of better Principles observe the Enemies of Religion lay so great a Stress on unthinking
@@ -23,15 +20,10 @@ Matter, and all of them use so much Industry and Artifice to reduce every thing 
 they should rejoice to see them deprived of their grand Support, and driven from that only
 Fortress, without which your Epicureans, Hobbists, and the like, have not even the Shadow
 of a Pretence, but become the most cheap and easy Triumph in the World.
-XCIV. The Existence of Matter, or Bodies unperceived, has not only been the main
-Support of Atheists and Fatalists, but on the same Principle doth Idolatry likewise in all
-its various Forms depend. Did Men but consider that the Sun, Moon, and Stars, and every
-other Object of the Senses, are only so many Sensations in their Minds, which have no other
-Existence but barely being perceived, doubtless they would never fall down, and worship
-their own Ideas; but rather address their Homage to that Eternal Invisible Mind which
-produces and sustains all Things.
 
-XCV. The same absurd Principle, by mingling it self with the Articles of our Faith, hath
+94. The Existence of Matter, or Bodies unperceived, has not only been the main Support of Atheists and Fatalists, but on the same Principle doth Idolatry likewise in all its various Forms depend. Did Men but consider that the Sun, Moon, and Stars, and every other Object of the Senses, are only so many Sensations in their Minds, which have no other Existence but barely being perceived, doubtless they would never fall down, and worship their own Ideas; but rather address their Homage to that Eternal Invisible Mind which produces and sustains all Things.
+
+95. The same absurd Principle, by mingling it self with the Articles of our Faith, hath
 occasioned no small Difficulties to Christians. For Example, about the Resurrection, how
 many Scruples and Objections have been raised by Socinians and others? But do not the
 most plausible of them depend on the supposition, that a Body is denominated the same, with
@@ -39,6 +31,7 @@ regard not to the Form or that which is perceived by Sense, but the material Sub
 remains the same under several Forms? Take away this material Substance, about the Identity whereof all the Dispute is, and mean by Body what every plain ordinary Person means by
 that Word, to wit, that which is immediately seen and felt, which is only a Combination of
 sensible Qualities, or Ideas: And then their most unanswerable Objections come to nothing.
+
 XCVI. Matter being once expelled out of Nature, drags with it so many sceptical and
 impious Notions, such an incredible number of Disputes and puzling Questions, which have
 been Thorns in the Sides of Divines, as well as Philosophers, and made so much fruitless
@@ -71,6 +64,7 @@ any finite Spirit must be estimated by the Number of Ideas or Actions succeeding
 in that same Spirit or Mind. Hence it is a plain consequence that the Soul always thinks:
 And in truth whoever shall go about to divide in his Thoughts, or abstract the Existence of
 a Spirit from its Cogitation, will, I believe, find it no easy Task.
+
 
 XCIX. So likewise, when we attempt to abstract Extension and Motion from all other
 Qualities, and consider them by themselves, we presently lose sight of them, and run into

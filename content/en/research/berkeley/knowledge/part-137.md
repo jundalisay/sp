@@ -1,17 +1,19 @@
 ---
-title: "Benham, William"
+title: "The Nature of the Soul"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "The opinion that Spirits are to be known in the same way as an Idea or Sensation has led to absurd beliefs"
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
 
-137. From the opinion that Spirits are to be known after the manner of an Idea
-or Sensation, have risen many absurd and heterodox Tenets, and much Scepticism about the
-Nature of the Soul. It is even probable, that this Opinion may have produced a Doubt in
-some, whether they had any Soul at all distinct from their Body, since upon inquiry they
-could not find they had an Idea of it. That an Idea which is inactive, and the Existence
+137. The opinion that Spirits are to be known in the same way as an Idea or Sensation has led to:
+- many absurd and heterodox Tenets
+- much Scepticism on the Nature of the Soul
+
+This Opinion may have produced a Doubt in some, whether they had any Soul at all distinct from their Body, since upon inquiry they could not find they had an Idea of it. 
+
+That an Idea which is inactive, and the Existence
 whereof consists in being perceived, should be the Image or Likeness of an Agent subsisting
 by it self, seems to need no other Refutation, than barely attending to what is meant by those
 Words. But perhaps you will say, that tho’ an Idea cannot resemble a Spirit in its Thinking,

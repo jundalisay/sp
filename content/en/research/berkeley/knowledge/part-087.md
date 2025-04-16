@@ -1,8 +1,8 @@
 ---
-title: "Benham, William"
+title: "Scepticism"
 weight: 7
-description: "William G. Benham was an American palmist published in 1900."
-image: "/covers/reading.png"
+description: "The Doctrine of Matter or corporeal Substance is the main Pillar and Support of Scepticism."
+image: "/covers/know.jpg"
 contributors: ['Berkeley']
 ---
 
@@ -10,20 +10,27 @@ contributors: ['Berkeley']
 87. Colour, Figure, Motion, Extension and the like, considered only as so many
 Sensations in the Mind, are perfectly known, there being nothing in them which is not perceived. But if they are looked on as Notes or Images, referred to Things or Archetypes existing
 without the Mind, then are we involved all in Scepticism. We see only the Appearances, and
-not the real Qualities of Things. What may be the Extension, Figure, or Motion of any thing
+not the real Qualities of Things.
+
+What may be the Extension, Figure, or Motion of any thing
 really and absolutely, or in it self, it is impossible for us to know, but only the proportion or
 the relation they bear to our Senses. Things remaining the same, our Ideas vary, and which
 of them, or even whether any of them at all represent the true Quality really existing in the
-Thing, it is out of our reach to determine. So that, for ought we know, all we see, hear, and
+Thing, it is out of our reach to determine.
+
+So that, for ought we know, all we see, hear, and
 feel, may be only Phantom and vain Chimera, and not at all agree with the real Things, existing in Rerum Natura. All this Scepticism follows, from our supposing a difference between
 Things and Ideas, and that the former have a Subsistence without the Mind, or unperceived.
 It were easy to dilate on this Subject, and shew how the Arguments urged by Sceptics in all
 Ages, depend on the Supposition of external Objects.
 
+
 88. So long as we attribute a real Existence to unthinking Things, distinct from their being perceived, it is not only impossible for us to know with evidence the Nature of any
 real unthinking Being, but even that it exists. Hence it is, that we see Philosophers distrust
 their Senses, and doubt of the Existence of Heaven and Earth, of every thing they see or feel,
-even of their own Bodies. And after all their labour and struggle of Thought, they are forced
+even of their own Bodies. 
+
+And after all their labour and struggle of Thought, they are forced
 to own, we cannot attain to any self-evident or demonstrative Knowledge of the Existence
 of sensible Things. But all this Doubtfulness, which so bewilders and confounds the Mind,
 and makes Philosophy ridiculous in the Eyes of the World, vanishes, if we annex a meaning
@@ -46,7 +53,9 @@ not by themselves, but are supported by, or exist in Minds or spiritual Substanc
 
 We
 comprehend our own Existence by inward Feeling or Reflexion, and that of other Spirits by
-Reason. We may be said to have some Knowledge or Notion of our own Minds, of Spirits and
+Reason.
+
+We may be said to have some Knowledge or Notion of our own Minds, of Spirits and
 active Beings, whereof in a strict Sense we have not Ideas. In like manner we know and have
 a Notion of relations between Things or Ideas, which relations are distinct from the Ideas or
 Things related, inasmuch as the latter may be perceived by us without our perceiving the
@@ -80,8 +89,9 @@ eternal Mind of the Creator, wherein they suppose only Ideas of the corporeal Su
 created by him: If indeed they allow them to be at all created.
 
 
-92. For as we have shewn the Doctrine of Matter or corporeal Substance, to have been
-the main Pillar and Support of Scepticism, so likewise upon the same Foundation have been
+92. The Doctrine of Matter or corporeal Substance is the main Pillar and Support of Scepticism.
+
+So likewise upon the same Foundation have been
 raised all the impious Schemes of Atheism and Irreligion. Nay so great a difficulty hath it
 been thought, to conceive Matter produced out of nothing, that the most celebrated among
 the ancient Philosophers, even of these who maintained the Being of a God, have thought

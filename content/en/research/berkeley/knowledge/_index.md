@@ -3,6 +3,6 @@ title: "The Principles of Human Knowledge"
 heading: "Englightened"
 weight: 7
 description: ""
-image: "/covers/berkeley.jpg"
+image: "/covers/know.jpg"
 ---
 
