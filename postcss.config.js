@@ -1,8 +1,7 @@
 const tailwindcss = require('tailwindcss');
 const autoprefixer = require('autoprefixer');
-const purgecss = require('@fullhuman/postcss-purgecss');
+const purgecss = require('@fullhuman/postcss-purgecss').default;
 const cssnano = require('cssnano');
-
 
 
 module.exports = {
@@ -37,5 +36,3 @@ module.exports = {
       : []),
   ],
 };
-
-
