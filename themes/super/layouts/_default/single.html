@@ -26,11 +26,13 @@
               {{ with .Params.author }}          
                   by {{ . }}
               {{- end }}          
-              {{ with .Params.writer }}          
+              {{ with .Params.writer }}   
                   by <a href="{{ .url }}">{{ .name }}</a>
               {{- end }}      
 
-            {{ .Date.Format "Jan 2, 2006" }}
+              {{ with .Params.Date }}
+                {{ . | time.Format "Jan 2, 2006" }}
+              {{ end }}
           </div>
 
 

@@ -308,9 +308,7 @@ I guess you encounter a lot of opposition from humans who think that the limited
 {{< /r >}}
 
 {{< l a="Bio Superphysics" >}}
-Yes. This is now known as 'scientism' [propagated by materialists](https://www.psychologytoday.com/us/blog/out-the-darkness/201911/scientism).
-
-For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure 10% of people but not all. Instead of canceling them as inconclusive, Bio Superphysics groups those 10% people into a **specific personality type** which is cured 100% by that alternative medicine. 
+Yes. This is now known as 'scientism' [propagated by materialists](https://www.psychologytoday.com/us/blog/out-the-darkness/201911/scientism). For example, alternative medicines that don't pass clinical trials are not classified as medicine even if they cure 10% of people but not all. Instead of canceling them as inconclusive, Bio Superphysics groups those 10% people into a **specific personality type** which is cured 100% by that alternative medicine. 
 {{< /l >}}
 
 {{< l a="Social Superphysics" >}}

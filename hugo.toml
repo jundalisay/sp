@@ -106,6 +106,25 @@ pagerSize = 24
       icon = "/icons/atom.png"
       title = "Physics"
       sub = "100% Replicable: Objective"
+
+    [languages.en.params.quick.a]
+      img = "/photos/city.jpg"
+      title = "Predictions from Social Cycles"
+      url = "/social/cycles"
+    [languages.en.params.quick.b]
+      img = "/photos/city.jpg"
+      title = "Predictions from Social Cycles"
+      url = "/social/cycles"
+    [languages.en.params.quick.c]
+      img = "/photos/city.jpg"
+      title = "Predictions from Social Cycles"
+      url = "/social/cycles"
+    [languages.en.params.quick.d]
+      img = "/photos/city.jpg"
+      title = "Predictions from Social Cycles"
+      url = "/social/cycles"
+
+
     [languages.en.params.cards.a]
       img = "/avatars/descartes.jpg"
       title = "Material Superphysics"
@@ -1775,13 +1794,33 @@ pagerSize = 24
   img = "/graphics/econ/superecon.jpg"
   url = "https://play.google.com/store/books/details?id=6bhGEQAAQBAJ"
 [[params.books]]
-  name = "Youtube"
-  img = "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-brand-youtube' width='24' height='24' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round' > <path stroke='none' d='M0 0h24v24H0z' fill='none' /> <circle cx='12' cy='12' r='9' /> <path d='M10 9l5 3l-5 3z' /> </svg>"
-  url = "https://www.youtube.com/@superphysicsorg"
+  name = "The Republic by Plato Simplified"
+  img = "/books/rep.jpg"
+  url = "https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Republic_by_Plato?id=WlkBEAAAQBAJ"
 [[params.books]]
-  name = "Facebook"
-  img = "<svg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-brand-facebook' width='24' height='24' viewBox='0 0 24 24' stroke-width='2' stroke='currentColor' fill='none' stroke-linecap='round' stroke-linejoin='round'> <path stroke='none' d='M0 0h24v24H0z' fill='none'></path> <path d='M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3'></path> </svg>"
-  url = "https://www.facebook.com/superphysicsorg"
+  name = "A Treatise of Human Nature Book 1"
+  img = "/books/t1.jpg"
+  url = "https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Treatise_of_Human_Natur?id=iF_XDwAAQBAJ"
+[[params.books]]
+  name = "A Treatise of Human Nature Book 1"
+  img = "/books/t2.jpg"
+  url = "Juan_Dalisay_Jr_The_Simple_Treatise_of_Human_Natur?id=nZjqDwAAQBAJ"
+[[params.books]]
+  name = "A Treatise of Human Nature Book 3"
+  img = "/books/t3.jpg"
+  url = "https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Treatise_of_Human_Natur?id=ikj9DwAAQBAJ"
+[[params.books]]
+  name = "The Wealth of Nations 1"
+  img = "/books/w1.jpg"
+  url = "https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ"
+[[params.books]]
+  name = "The Wealth of Nations Books 2 and 3"
+  img = "/books/w2.jpg"
+  url = "https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=0iHMDwAAQBAJ"
+[[params.books]]
+  name = "The Wealth of Nations Book 5"
+  img = "/books/w5.jpg"
+  url = "https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ"
 
 
 [build]

@@ -67,19 +67,19 @@
 <script type="text/javascript">
 const scrollToTopBtn = document.getElementById('scrollToTopBtn');
 
-  window.addEventListener('scroll', () => {
-    if (window.scrollY > 200) {
-      scrollToTopBtn.classList.remove('hidden');
-      scrollToTopBtn.classList.add('opacity-100');
-    } else {
-      scrollToTopBtn.classList.add('opacity-0');
-      setTimeout(() => {
-        if (scrollToTopBtn.classList.contains('opacity-0')) {
-          scrollToTopBtn.classList.add('hidden');
-        }
-      }, 300); // match the transition duration
-    }
-  });
+  // window.addEventListener('scroll', () => {
+  //   if (window.scrollY > 200) {
+  //     scrollToTopBtn.classList.remove('hidden');
+  //     scrollToTopBtn.classList.add('opacity-100');
+  //   } else {
+  //     scrollToTopBtn.classList.add('opacity-0');
+  //     setTimeout(() => {
+  //       if (scrollToTopBtn.classList.contains('opacity-0')) {
+  //         scrollToTopBtn.classList.add('hidden');
+  //       }
+  //     }, 300); // match the transition duration
+  //   }
+  // });
 
   scrollToTopBtn.addEventListener('click', () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });

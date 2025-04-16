@@ -26,44 +26,22 @@
 
 {{ partial "icons.html" . }}
 
-{{ partial "quote.html" . }}
+<figure class="fly-in fly-in-left max-w-screen-md mx-auto text-center py-24 lg:py-56">
+    <blockquote>
+        <p class="text-4xl italic font-bold text-gray-900 dark:text-white">"There are 3 principal sciences: Medicine  Mechanics, Ethics"</p>
+    </blockquote>
+    <figcaption class="flex items-center justify-center mt-2 space-x-3 rtl:space-x-reverse">
+        <img class="w-6 h-6 rounded-full" src="/icons/descartes.png" alt="Descartes">
+        <div class="flex items-center divide-x-2 rtl:divide-x-reverse divide-gray-500 dark:divide-gray-700">
+            <cite class="pe-3 font-medium text-gray-900 dark:text-white">Rene Descartes</cite>
+            <cite class="ps-3 text-sm text-gray-500 dark:text-gray-400">The Principles of Philosophy, Preface</cite>
+        </div>
+    </figcaption>  
+</figure>
 
 {{ partial "quad.html" . }}
 
-
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 p-5">
-  {{ range first 4 (where site.RegularPages "Section" "bio") }}
-    <div class="ani bg-white rounded-lg overflow-hidden shadow hover:shadow-md transition-shadow duration-200">
-      <a href="{{ .RelPermalink }}">
-        {{ with .Params.image }}
-          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="h-48 w-full object-cover">
-        {{ end }}
-        <div class="p-4">
-          <h3 class="text-lg font-semibold text-gray-800 hover:text-blue-600">
-            {{ .Title }}
-          </h3>
-        </div>
-      </a>
-    </div>
-  {{ end }}
-</div>
-
-
-
-<figure class="fly-in fly-in-left max-w-screen-md mx-auto text-center">
-    <blockquote>
-        <p class="text-2xl italic font-medium text-gray-900 dark:text-white">"Flowbite is just awesome. It contains tons of predesigned components and pages starting from login screen to complex dashboard. Perfect choice for your next SaaS application."</p>
-    </blockquote>
-    <figcaption class="flex items-center justify-center mt-6 space-x-3 rtl:space-x-reverse">
-        <img class="w-6 h-6 rounded-full" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png" alt="profile picture">
-        <div class="flex items-center divide-x-2 rtl:divide-x-reverse divide-gray-500 dark:divide-gray-700">
-            <cite class="pe-3 font-medium text-gray-900 dark:text-white">Michael Gough</cite>
-            <cite class="ps-3 text-sm text-gray-500 dark:text-gray-400">CEO at Google</cite>
-        </div>
-    </figcaption>
-</figure>
-
-
+{{ partial "quick.html" . }}
 
 
  <div class="container mx-auto px-4 py-16 space-y-16 overflow-x-hidden"> 
