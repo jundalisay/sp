@@ -50,17 +50,30 @@ To offer the reader a systematic and uninterrupted version of the Archaic Stanza
 
 The mere appearance of man on Earth occupies an equal number of Stanzas, which minutely describe his primal evolution from the human Dhyân Chohans, the state of the Globe at that time, etc., etc. 
 
-A great number of names referring to chemical substances and other compounds, which have now ceased to combine together, and are therefore unknown to the later offshoots of our Fifth Race, occupy a considerable space.
+Many chemical substances and compounds occupy a considerable space,
+- These have now ceased to combine together, and are therefore unknown to the later offshoots of our Fifth Race, .
 
-As they are simply untranslatable, and would remain in every case inexplicable, they are omitted, along with those which cannot be made public. Nevertheless, even the little that is given will irritate every follower and defender of dogmatic materialistic Science who happens to read it.
+They are simply untranslatable and are so inexplicable. They are omitted, along with those which cannot be made public.
+
+Nevertheless, even the little that is given will irritate every follower and defender of dogmatic materialistic Science who happens to read it.
 
 In view of the criticism offered, it is proposed, before proceeding to the remaining Stanzas, to defend those already given.
 
-That they are not in perfect accord or harmony with Modern Science, we all know. But had they been as much in agreement with the views of modern knowledge as is a lecture by Sir William Thomson, they would have been rejected all the same. For they teach belief in conscious Powers [pg 519]and Spiritual Entities; in terrestrial, semi-intelligent, and highly intellectual Forces on other planes;790 and in Beings that dwell around us in spheres imperceptible, whether through telescope or microscope. Hence the necessity of examining the beliefs of materialistic Science, of comparing its views about the “Elements” with the opinions of the Ancients, and of analysing the physical Forces as they exist in modern conceptions, before the Occultists admit themselves to be in the wrong. We shall touch upon the constitution of the Sun and planets, and the Occult characteristics of what are called Devas and Genii, and are now termed by Science, Forces, or “modes of motion,” and see whether Esoteric belief is defensible or not. Notwithstanding the efforts made to the contrary, an unprejudiced mind will discover that under Newton's “agent, material or immaterial,”791 the agent which causes gravity, and in his personal working God, there is just as much of the metaphysical Devas and Genii, as there is in Kepler's Angelus Rector conducting each planet, and in the species immateriata by which the celestial bodies were carried along in their courses, according to that Astronomer.
+That they are not in perfect accord or harmony with Modern Science, we all know. But had they been as much in agreement with the views of modern knowledge as is a lecture by Sir William Thomson, they would have been rejected all the same. 
+
+For they teach belief in conscious Powers and Spiritual Entities; in terrestrial, semi-intelligent, and highly intellectual Forces on other planes;790 and in Beings that dwell around us in spheres imperceptible, whether through telescope or microscope. 
+
+Hence the necessity of examining the beliefs of materialistic Science, of comparing its views about the “Elements” with the opinions of the Ancients, and of analysing the physical Forces as they exist in modern conceptions, before the Occultists admit themselves to be in the wrong. 
+
+We shall touch upon the constitution of the Sun and planets, and the Occult characteristics of what are called Devas and Genii, and are now termed by Science, Forces, or “modes of motion,” and see whether Esoteric belief is defensible or not.
+
+Notwithstanding the efforts made to the contrary, an unprejudiced mind will discover that under Newton's “agent, material or immaterial,”791 the agent which causes gravity, and in his personal working God, there is just as much of the metaphysical Devas and Genii, as there is in Kepler's Angelus Rector conducting each planet, and in the species immateriata by which the celestial bodies were carried along in their courses, according to that Astronomer.
 
 In Volume II, we shall have to openly approach dangerous subjects. We must bravely face Science and declare, in the teeth of materialistic learning, of Idealism, Hylo-Idealism, Positivism and all-denying modern Psychology, that the true Occultist believes in “Lords of Light”; that he believes in a Sun, which—far from being simply a “lamp of day” moving in accordance with physical law, and far from being merely one of those Suns, which, according to Richter, “are sun-flowers of a higher light”—is, like milliards of other Suns, the dwelling or the vehicle of a God, and of a host of Gods.
 
-In this dispute, of course, it is the Occultists who will be worsted. They will be considered, on the primâ facie aspect of the question, to be ignoramuses, and will be labelled with more than one of the usual epithets given to those whom the superficially judging public, itself ignorant of the great underlying truths in Nature, accuses of believing in mediæval superstitions. Let it be so. Submitting beforehand to every criticism in order to go on with their task, they only claim the privilege of showing that the Physicists are as much at loggerheads among themselves in their speculations, as these speculations are with the teachings of Occultism.
+In this dispute, of course, it is the Occultists who will be worsted. They will be considered, on the primâ facie aspect of the question, to be ignoramuses, and will be labelled with more than one of the usual epithets given to those whom the superficially judging public, itself ignorant of the great underlying truths in Nature, accuses of believing in mediæval superstitions. Let it be so. 
+
+Submitting beforehand to every criticism in order to go on with their task, they only claim the privilege of showing that the Physicists are as much at loggerheads among themselves in their speculations, as these speculations are with the teachings of Occultism.
 
 
 The Sun is Matter, and the Sun is Spirit. Our ancestors, the “Heathen,” like their modern successors, the Parsîs, were, and are, wise enough in their generation to see in it the symbol of Divinity, and at the same time to sense within, concealed by the physical symbol, the bright God of Spiritual and Terrestrial Light. 
@@ -71,7 +84,9 @@ We prefer the charge of folly in believing too much, to that of a madness which 
 
 Therefore the discoveries, hypotheses, and unavoidable objections which will be brought forward by the scientific critics must be anticipated and disposed of.
 
-It has also to be shown how far the Occult Teachings depart from Modern Science, and whether the ancient or the modern theories are the more logically and philosophically correct. The unity and mutual relations of all parts of Kosmos were known to the Ancients, before they became evident to modern Astronomers and Philosophers. And even if the external and visible portions of the Universe, and their mutual relations, cannot be explained in Physical Science, in any other terms than those used by the adherents of the mechanical theory of the Universe, it does not follow that the Materialist, who denies that the Soul of Kosmos (which appertains to Metaphysical Philosophy) exists, has the right to trespass upon that metaphysical domain. That Physical Science is trying to, and actually does, encroach upon it, is only one more proof that “might is right”; it does not justify the intrusion.
+It has also to be shown how far the Occult Teachings depart from Modern Science, and whether the ancient or the modern theories are the more logically and philosophically correct. 
+
+The unity and mutual relations of all parts of Kosmos were known to the Ancients, before they became evident to modern Astronomers and Philosophers. And even if the external and visible portions of the Universe, and their mutual relations, cannot be explained in Physical Science, in any other terms than those used by the adherents of the mechanical theory of the Universe, it does not follow that the Materialist, who denies that the Soul of Kosmos (which appertains to Metaphysical Philosophy) exists, has the right to trespass upon that metaphysical domain. That Physical Science is trying to, and actually does, encroach upon it, is only one more proof that “might is right”; it does not justify the intrusion.
 
 Another good reason for these Addenda is this. Since only a certain portion of the Secret Teachings can be given out in the present age, the doctrines would never be understood even by Theosophists, if they were published without any explanations or commentary. Therefore they must be contrasted with the speculations of Modern Science. Archaic Axioms must be placed side by side with Modern Hypotheses, and the comparison of their value must be left to the sagacious reader.
 

@@ -141,4 +141,5 @@ The inferior office of justice of peace is attended with a good deal of trouble.
 In most cases, it has no emoluments at all.
 
 It is an object of ambition for most of our country gentlemen.
+
 The salaries of all judges and the total cost of the administration and execution of justice makes a very small part of government expences in any civilized country.

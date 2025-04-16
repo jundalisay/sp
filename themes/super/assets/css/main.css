@@ -208,7 +208,7 @@ body {
 .mang, .Mang-i, .Mang-Wu, .Yen-Yung {background-image: url(/avatars/ava2.jpg);}
 .marshall, .Marshall {background-image: url(/avatars/marshall.jpg);}
 .marx, .Marx {background-image: url(/icons/marx.png);}
-.Material-Superphysics {background-image: url(/icons/spmat.png) !important;}
+.Material Superphysics {background-image: url(/icons/spmat.png) !important;}
 .menger, .Menger, .G {background-image: url(/icons/menger.jpg);}
 .mill, .Mill, .John-Stuart-Mill {background-image: url(/icons/mill.png);}
 .Monks, .monks {background-image: url(/avatars/monks.jpg) !important;}

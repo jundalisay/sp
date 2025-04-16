@@ -7,207 +7,7 @@ contributors: ['Berkeley']
 ---
 
 
-A TREATISE CONCERNING THE PRINCIPLES OF HUMAN KNOWLEDGE
-George Berkeley
-
-<!-- WHEREIN THE
-Chief Causes of Error and Difficulty in the Sciences,
-with the Grounds of Scepticism, Atheism, and
-Irreligion are inquired into. -->
-
-First Printed in the Year 1710.
-To which are added
-Three Dialogues
-BETWEEN
-Hylas and Philonous,
-In Opposition to
-SCEPTICKS and ATHEISTS.
-First Printed in the Year 1713.
-Both written by GEORGE BERKELEY, M. A.
-Fellow of Trinity-College, Dublin.
-LONDON : Printed for Jacob Tonson, 1734.
-
-INTRODUCTION.
-
-I. PHILOSOPHY being nothing else but the study of Wisdom and Truth, it may with
-reason be expected, that those who have spent most Time and Pains in it should enjoy a
-greater calm and serenity of Mind, a greater clearness and evidence of Knowledge, and be
-less disturbed with Doubts and Difficulties than other Men. Yet so it is we see the Illiterate
-Bulk of Mankind that walk the High-road of plain, common Sense, and are governed by
-the Dictates of Nature, for the most part easy and undisturbed. To them nothing that’s
-familiar appears unaccountable or difficult to comprehend. They complain not of any want
-of Evidence in their Senses, and are out of all danger of becoming Sceptics. But no sooner
-do we depart from Sense and Instinct to follow the Light of a Superior Principle, to reason,
-meditate, and reflect on the Nature of Things, but a thousand Scruples spring up in our
-Minds, concerning those Things which before we seemed fully to comprehend. Prejudices
-and Errors of Sense do from all Parts discover themselves to our view; and endeavouring to
-correct these by Reason we are insensibly drawn into uncouth Paradoxes, Difficulties, and
-Inconsistencies, which multiply and grow upon us as we advance in Speculation; till at length,
-having wander’d through many intricate Mazes, we find our selves just where we were, or,
-which is worse, sit down in a forlorn Scepticism.
-II. The cause of this is thought to be the Obscurity of things, or the natural Weakness
-and Imperfection of our Understandings. It is said the Faculties we have are few, and those
-designed by Nature for the Support and Comfort of Life, and not to penetrate into the inward
-Essence and Constitution of Things. Besides, the Mind of Man being Finite, when it treats
-of Things which partake of Infinity, it is not to be wondered at, if it run into Absurdities and
-Contradictions; out of which it is impossible it should ever extricate it self, it being of the
-nature of Infinite not to be comprehended by that which is Finite.
-III. But perhaps we may be too partial to our selves in placing the Fault originally in our
-Faculties, and not rather in the wrong use we make of them. It is a hard thing to suppose,
-that right Deductions from true Principles should ever end in Consequences which cannot
-be maintained or made consistent. We should believe that God has dealt more bountifully
-with the Sons of Men, than to give them a strong desire for that Knowledge, which he had
-placed quite out of their reach. This were not agreeable to the wonted, indulgent Methods of
-Providence, which, whatever Appetites it may have implanted in the Creatures, doth usually
-furnish them with such means as, if rightly made use of, will not fail to satisfy them. Upon
-the whole, I am inclined to think that the far greater Part, if not all, of those Difficulties
-which have hitherto amus’d Philosophers, and block’d up the way to Knowledge, are intirely
-owing to our selves. That we have first rais’d a Dust, and then complain, we cannot see.
-IV. My Purpose therefore is, to try if I can discover what those Principles are, which have
-introduced all that Doubtfulness and Uncertainty, those Absurdities and Contradictions into
-1
-the several Sects of Philosophy; insomuch that the Wisest Men have thought our Ignorance
-incurable, conceiving it to arise from the natural dulness and limitation of our Faculties.
-And surely it is a Work well deserving our Pains, to make a strict inquiry concerning the first
-Principles of Humane Knowledge, to sift and examine them on all sides: especially since there
-may be some Grounds to suspect that those Lets and Difficulties, which stay and embarass
-the Mind in its search after Truth, do not spring from any Darkness and Intricacy in the
-Objects, or natural Defect in the Understanding, so much as from false Principles which have
-been insisted on, and might have been avoided.
-V. How difficult and discouraging soever this Attempt may seem, when I consider how
-many great and extraordinary Men have gone before me in the same Designs: Yet I am
-not without some Hopes, upon the Consideration that the largest Views are not always the
-Clearest, and that he who is Short-sighted will be obliged to draw the Object nearer, and
-may, perhaps, by a close and narrow Survey discern that which had escaped far better Eyes.
-VI. In order to prepare the Mind of the Reader for the easier conceiving what follows, it
-is proper to premise somewhat, by way of Introduction, concerning the Nature and Abuse of
-Language. But the unraveling this Matter leads me in some measure to anticipate my Design,
-by taking notice of what seems to have had a chief part in rendering Speculation intricate
-and perplexed, and to have occasioned innumerable Errors and Difficulties in almost all parts
-of Knowledge. And that is the opinion that the Mind hath a power of framing Abstract Ideas
-or Notions of Things. He who is not a perfect Stranger to the Writings and Disputes of
-Philosophers, must needs acknowledge that no small part of them are spent about abstract
-Ideas. These are in a more especial manner, thought to be the Object of those Sciences which
-go by the name of Logic and Metaphysics, and of all that which passes under the Notion of
-the most abstracted and sublime Learning, in all which one shall scarce find any Question
-handled in such a manner, as does not suppose their Existence in the Mind, and that it is
-well acquainted with them.
-VII. It is agreed on all hands, that the Qualities or Modes of things do never really
-exist each of them apart by it self, and separated from all others, but are mix’d, as it were,
-and blended together, several in the same Object. But we are told, the Mind being able
-to consider each Quality singly, or abstracted from those other Qualities with which it is
-united, does by that means frame to it self abstract Ideas. For example, there is perceived
-by Sight an Object extended, coloured, and moved: This mix’d or compound Idea the mind
-resolving into its Simple, constituent Parts, and viewing each by it self, exclusive of the rest,
-does frame the abstract Ideas of Extension, Colour, and Motion. Not that it is possible for
-Colour or Motion to exist without Extension: but only that the Mind can frame to it self
-by Abstraction the Idea of Colour exclusive of Extension, and of Motion exclusive of both
-Colour and Extension.
-VIII. Again, the Mind having observed that in the particular Extensions perceiv’d by
-Sense, there is something common and alike in all, and some other things peculiar, as this
-or that Figure or Magnitude, which distinguish them one from another; it considers apart or
-singles out by it self that which is common, making thereof a most abstract Idea of Extension,
-2
-which is neither Line, Surface, nor Solid, nor has any Figure or Magnitude but is an Idea
-intirely prescinded from all these. So likewise the Mind by leaving out of the particular Colours
-perceived by Sense, that which distinguishes them one from another, and retaining that only
-which is common to all, makes an Idea of Colour in abstract which is neither Red, nor Blue,
-nor White, nor any other determinate Colour. And in like manner by considering Motion
-abstractedly not only from the Body moved, but likewise from the Figure it describes, and
-all particular Directions and Velocities, the abstract Idea of Motion is framed; which equally
-corresponds to all particular Motions whatsoever that may be perceived by Sense.
-IX. And as the Mind frames to it self abstract Ideas of Qualities or Modes, so does it,
-by the same precision or mental Separation, attain abstract Ideas of the more compounded
-Beings, which include several coexistent Qualities. For example, the Mind having observed
-that Peter, James, and John, resemble each other, in certain common Agreements of Shape
-and other Qualities, leaves out of the complex or compounded Idea it has of Peter, James,
-and any other particular Man, that which is peculiar to each, retaining only what is common
-to all; and so makes an abstract Idea wherein all the particulars equally partake, abstracting
-intirely from and cutting off all those Circumstances and Differences, which might determine
-it to any particular Existence. And after this manner it is said we come by the abstract Idea
-of Man or, if you please, Humanity, or Humane Nature; wherein it is true there is included
-Colour, because there is no Man but has some Colour, but then it can be neither White, nor
-Black, nor any particular Colour; because there is no one particular Colour wherein all Men
-partake. So likewise there is included Stature, but then it is neither Tall Stature nor Low
-Stature, nor yet Middle Stature, but something abstracted from all these. And so of the rest.
-Moreover, there being a great variety of other Creatures that partake in some Parts, but not
-all, of the complex Idea of Man, the Mind leaving out those Parts which are peculiar to Men,
-and retaining those only which are common to all the living Creatures, frameth the Idea of
-Animal, which abstracts not only from all particular Men, but also all Birds, Beasts, Fishes,
-and Insects. The constituent Parts of the abstract Idea of Animal are Body, Life, Sense,
-and Spontaneous Motion. By Body is meant, Body without any particular Shape or Figure,
-there being no one Shape or Figure common to all Animals, without Covering, either of Hair,
-or Feathers, or Scales, &c. nor yet Naked: Hair, Feathers, Scales, and Nakedness being the
-distinguishing Properties of particular Animals, and for that reason left out of the Abstract
-Idea. Upon the same account the spontaneous Motion must be neither Walking, nor Flying,
-nor Creeping, it is nevertheless a Motion, but what that Motion is, it is not easy to conceive.
-X. Whether others have this wonderful Faculty of Abstracting their Ideas, they best can
-tell: For my self I find indeed I have a Faculty of imagining, or representing to myself the
-Ideas of those particular things I have perceived and of variously compounding and dividing
-them. I can imagine a Man with Two Heads or the upper parts of a Man joined to the
-Body of a Horse. I can consider the Hand, the Eye, the Nose, each by it self abstracted or
-separated from the rest of the Body. But then whatever Hand or Eye I imagine, it must have
-some particular Shape and Colour. Likewise the Idea of Man that I frame to my self, must
-be either of a White, or a Black, or a Tawny, a Straight, or a Crooked, a Tall, or a Low,
-or a Middle-sized Man. I cannot by any effort of Thought conceive the abstract Idea above
-described. And it is equally impossible for me to form the abstract Idea of Motion distinct
-3
-from the Body moving, and which is neither Swift nor Slow, Curvilinear nor Rectilinear;
-and the like may be said of all other abstract general Ideas whatsoever. To be plain, I own
-my self able to abstract in one Sense, as when I consider some particular Parts or Qualities
-separated from others, with which though they are united in some Object, yet, it is possible
-they may really Exist without them. But I deny that I can abstract one from another, or
-conceive separately, those Qualities which it is impossible should Exist so separated; or that I
-can frame a General Notion by abstracting from Particulars in the manner aforesaid. Which
-two last are the proper Acceptations of Abstraction. And there are Grounds to think most
-Men will acknowledge themselves to be in my Case. The Generality of Men which are Simple
-and Illiterate never pretend to abstract Notions. It is said they are difficult and not to be
-attained without Pains and Study. We may therefore reasonably conclude that, if such there
-be, they are confined only to the Learned.
-XI. I proceed to examine what can be alledged in defence of the Doctrine of Abstraction,
-and try if I can discover what it is that inclines the Men of Speculation to embrace an Opinion,
-so remote from common Sense as that seems to be. There has been a late deservedly Esteemed
-Philosopher, who, no doubt, has given it very much Countenance by seeming to think the
-having abstract general Ideas is what puts the widest difference in point of Understanding
-betwixt Man and Beast. “The having of general Ideas” (saith he) “is that which puts a perfect
-distinction betwixt Man and Brutes, and is an Excellency which the Faculties of Brutes do
-by no means attain unto. For it is evident we observe no Footsteps in them of making use of
-general Signs for universal Ideas; from which we have reason to imagine that they have not
-the Faculty of abstracting or making general Ideas, since they have no use of Words or any
-other general Signs.” And a little after. “Therefore, I think, we may suppose that it is in
-this that the Species of Brutes are discriminated from Men, and ’tis that proper difference
-wherein they are wholly separated, and which at last widens to so wide a Distance. For if
-they have any Ideas at all, and are not bare Machines (as some would have them) we cannot
-deny them to have some Reason. It seems as evident to me that they do some of them in
-certain Instances reason as that they have Sense, but it is only in particular Ideas, just as
-they receive them from their Senses. They are the best of them tied up within those narrow
-Bounds, and have not (as I think) the Faculty to enlarge them by any kind of Abstraction.”
-Essay on Hum. Underst. B. 2. C. 11. Sect. 10 and 11. I readily agree with this Learned
-Author, that the Faculties of Brutes can by no means attain to Abstraction. But then if this
-be made the distinguishing property of that sort of Animals, I fear a great many of those
-that pass for Men must be reckoned into their number. The reason that is here assigned
-why we have no Grounds to think Brutes have Abstract general Ideas, is that we observe
-in them no use of Words or any other general Signs; which is built on this Supposition, to
-wit, that the making use of Words, implies the having general Ideas. From which it follows,
-that Men who use Language are able to Abstract or Generalize their Ideas. That this is the
-Sense and Arguing of the Author will further appear by his answering the Question he in
-another place puts. “Since all things that exist are only Particulars, how come we by general
-Terms?” His Answer is, “Words become general by being made the Signs of general Ideas.”
-Essay on Hum. Underst. B. 3. C. 3 Sect. 6. But it seems that a Word becomes general by
-being made the Sign, not of an abstract general Idea but, of several particular Ideas, any
-one of which it indifferently suggests to the Mind. For Example, When it is said the change
-4
-of Motion is proportional to the impressed force, or that whatever has Extension is divisible;
-these Propositions are to be understood of Motion and Extension in general, and nevertheless
-it will not follow that they suggest to my Thoughts an Idea of Motion without a Body moved,
-or any determinate Direction and Velocity, or that I must conceive an abstract general Idea
-of Extension, which is neither Line, Surface nor Solid, neither Great nor Small, Black, White,
-nor Red, nor of any other determinate Colour. It is only implied that whatever Motion I
-consider, whether it be Swift or Slow, Perpendicular, Horizontal or Oblique, or in whatever
-Object, the Axiom concerning it holds equally true. As does the other of every particular
-Extension, it matters not whether Line, Surface or Solid, whether of this or that Magnitude
-or Figure.
-XII. By observing how Ideas become general, we may the better judge how Words are
+7. By observing how Ideas become general, we may the better judge how Words are
 made so. And here it is to be noted that I do not deny absolutely there are general Ideas, but
 only that there are any abstract general Ideas: For in the Passages above quoted, wherein
 there is mention of general Ideas, it is always supposed that they are formed by Abstraction,
@@ -225,6 +25,7 @@ made General. And as the former owes its Generality, not to its being the Sign o
 or general Line, but of all particular right Lines that may possibly exist, so the latter must be
 thought to derive its Generality from the same Cause, namely, the various particular Lines
 which it indifferently denotes.
+
 XIII. To give the Reader a yet clearer View of the Nature of abstract Ideas, and the
 Uses they are thought necessary to, I shall add one more Passage out of the Essay on Human
 Understanding, which is as follows. “Abstract Ideas are not so obvious or easy to Children or
@@ -239,9 +40,7 @@ once? In effect, it is something imperfect that cannot exist, an Idea wherein so
 several different and inconsistent Ideas are put together. It is true the Mind in this imperfect
 State has need of such Ideas, and makes all the haste to them it can, for the conveniency
 of Communication and Enlargement of Knowledge, to both which it is naturally very much
-inclined. But yet one has reason to suspect such Ideas are Marks of our Imperfection. At
-5
-least this is enough to shew that the most abstract and general Ideas are not those that the
+inclined. But yet one has reason to suspect such Ideas are Marks of our Imperfection. At least this is enough to shew that the most abstract and general Ideas are not those that the
 Mind is first and most easily acquainted with, nor such as its earliest Knowledge is conversant
 about.” B. 4. C. 7. Sect. 9. If any Man has the Faculty of framing in his Mind such an
 Idea of a Triangle as is here described, it is in vain to pretend to dispute him out of it, nor
@@ -251,6 +50,7 @@ perform. What more easy than for anyone to look a little into his own Thoughts, 
 try whether he has, or can attain to have, an Idea that shall correspond with the description
 that is here given of the general Idea of a Triangle, which is, neither Oblique, nor Rectangle,
 Equilateral, Equicrural, nor Scalenon, but all and none of these at once?
+
 XIV. Much is here said of the Difficulty that abstract Ideas carry with them, and the
 Pains and Skill requisite to the forming them. And it is on all Hands agreed that there is
 need of great Toil and Labour of the Mind, to emancipate our Thoughts from particular
@@ -268,6 +68,7 @@ of Children cannot prate together, of their Sugar-plumbs and Rattles and the res
 little Trinkets, till they have first tacked together numberless Inconsistencies, and so framed
 in their Minds abstract general Ideas, and annexed them to every common Name they make
 use of?
+
 XV. Nor do I think them a whit more needful for the Enlargement of Knowledge than for
 Communication. It is I know a Point much insisted on, that all Knowledge and Demonstration
 are about universal Notions, to which I fully agree: But then it doth not appear to me that
@@ -282,9 +83,10 @@ only that the particular Triangle I consider, whether of this or that sort it ma
 equally stand for and represent all Rectilinear Triangles whatsoever, and is in that sense
 Universal. All which seems very Plain and not to include any Difficulty in it.
 XVI. But here it will be demanded, how we can know any Proposition to be true of
-all particular Triangles, except we have first seen it demonstrated of the abstract Idea of
-6
-a Triangle which equally agrees to all? For because a Property may be demonstrated to
+all particular Triangles, except we have first seen it demonstrated of the abstract Idea of a Triangle which equally agrees to all? 
+
+
+For because a Property may be demonstrated to
 agree to some one particular Triangle, it will not thence follow that it equally belongs to
 any other Triangle, which in all respects is not the same with it. For Example, Having
 demonstrated that the three Angles of an Isosceles Rectangular Triangle are equal to two
@@ -312,6 +114,7 @@ abstract: But this will never prove, that he can frame an abstract general incon
 of a Triangle. In like manner we may consider Peter so far forth as Man, or so far forth as
 Animal, without framing the forementioned abstract Idea, either of Man or of Animal, in as
 much as all that is perceived is not considered.
+
 XVII. It were an endless, as well as an useless Thing, to trace the Schoolmen, those
 great Masters of Abstraction, through all the manifold inextricable Labyrinths of Error and
 Dispute, which their Doctrine of abstract Natures and Notions seems to have led them into.
@@ -327,11 +130,10 @@ the most clear and cogent Demonstrations, contain in them Paradoxes which are pe
 irreconcilable to the Understandings of Men, and that taking all together, a small Portion of
 them doth supply any real Benefit to Mankind, otherwise than by being an innocent Diversion
 and Amusement: I say, the Consideration of all this is apt to throw them into a Despondency,
-and perfect Contempt of all Study. But this may perhaps cease, upon a view of the false
-7
-Principles that have obtained in the World, amongst all which there is none, methinks, hath
+and perfect Contempt of all Study. But this may perhaps cease, upon a view of the false Principles that have obtained in the World, amongst all which there is none, methinks, hath
 a more wide Influence over the Thoughts of Speculative Men, than this of abstract general
 Ideas.
+
 XVIII. I come now to consider the Source of this prevailing Notion, and that seems to
 me to be Language. And surely nothing of less extent than Reason it self could have been the
 Source of an Opinion so universally received. The truth of this appears as from other Reasons,
@@ -340,7 +142,9 @@ that they are made in order to naming; from which it is a clear Consequence, tha
 had been no such thing as Speech or Universal Signs, there never had been any thought of
 Abstraction. See B. 3. C. 6. Sect. 39. and elsewhere of the Essay on Human Understanding.
 Let us therefore examine the manner wherein Words have contributed to the Origin of that
-Mistake. First then, ’Tis thought that every Name hath, or ought to have, one only precise
+Mistake. 
+
+First then, ’Tis thought that every Name hath, or ought to have, one only precise
 and settled Signification, which inclines Men to think there are certain abstract, determinate
 Ideas, which constitute the true and only immediate Signification of each general Name. And
 that it is by the mediation of these abstract Ideas, that a general Name comes to signify
@@ -357,6 +161,7 @@ each other; in all which there may be great Variety, and consequently there is n
 Idea which limits the Signification of the word Triangle. ’Tis one thing for to keep a Name
 constantly to the same Definition, and another to make it stand every where for the same
 Idea: the one is necessary, the other useless and impracticable.
+
 XIX. But to give a farther Account how Words came to produce the Doctrine of abstract
 Ideas, it must be observed that it is a received Opinion, that Language has no other End but
 the communicating our Ideas, and that every significant Name stands for an Idea. This being
@@ -370,16 +175,19 @@ in the Understanding the Ideas they are made to stand for: In Reading and Discou
 Names being for the most part used as Letters are in Algebra, in which though a particular
 quantity be marked by each Letter, yet to proceed right it is not requisite that in every step
 each Letter suggest to your Thoughts, that particular quantity it was appointed to stand for.
+
+
 XX. Besides, the communicating of Ideas marked by Words is not the chief and only
 end of Language, as is commonly supposed. There are other Ends, as the raising of some
-8
 Passion, the exciting to, or deterring from an Action, the putting the Mind in some particular
 Disposition; to which the former is in many Cases barely subservient, and sometimes intirely
 omitted, when these can be obtained without it, as I think doth not unfrequently happen
 in the familiar use of Language. I intreat the Reader to reflect with himself, and see if it
 doth not often happen either in Hearing or Reading a Discourse, that the Passions of Fear,
 Love, Hatred, Admiration, Disdain, and the like, arise immediately in his Mind upon the
-Perception of certain Words, without any Ideas coming between. At first, indeed, the Words
+Perception of certain Words, without any Ideas coming between.
+
+At first, indeed, the Words
 might have occasioned Ideas that were fit to produce those Emotions; but, if I mistake not, it
 will be found that when Language is once grown familiar, the hearing of the Sounds or Sight
 of the Characters is oft immediately attended with those Passions, which at first were wont
@@ -400,6 +208,7 @@ the Authority of that Philosopher, as it is impossible any Idea either of his Pe
 or Reputation should go before. Innumerable Examples of this kind may be given, but why
 should I insist on those things, which every one’s Experience will, I doubt not, plentifully
 suggest unto him?
+
 XXI. We have, I think, shewn the Impossibility of abstract Ideas. We have considered
 what has been said for them by their ablest Patrons; and endeavored to shew they are of
 no Use for those Ends, to which they are thought necessary. And lastly, we have traced
@@ -413,11 +222,10 @@ Since therefore Words are so apt to impose on the Understanding, whatever Ideas 
 I shall endeavour to take them bare and naked into my View, keeping out of my Thoughts,
 so far as I am able, those Names which long and constant Use hath so strictly united with
 them; from which I may expect to derive the following Advantages.
+
 XXII. First, I shall be sure to get clear of all Controversies purely Verbal; the springing
 up of which Weeds in almost all the Sciences has been a main Hindrance to the Growth of
-true and sound Knowledge. Secondly, this seems to be a sure way to extricate my self out of
-9
-that fine and subtile Net of abstract Ideas, which has so miserably perplexed and entangled
+true and sound Knowledge. Secondly, this seems to be a sure way to extricate my self out of that fine and subtile Net of abstract Ideas, which has so miserably perplexed and entangled
 the Minds of Men, and that with this peculiar Circumstance, that by how much the finer and
 more curious was the Wit of any Man, by so much the deeper was he like to be ensnared,
 and faster held therein. Thirdly, so long as I confine my Thoughts to my own Ideas divested
@@ -2099,6 +1907,7 @@ been deeply engaged, and made large Advances in Studies of that Nature: Yet by o
 hope it will not be thought any just ground of Dislike to the Principles and Tenets herein
 laid down, that they abridge the labour of Study, and make Humane Sciences more clear,
 compendious, and attainable, than they were before.
+
 CXXXV. Having despatched what we intended to say concerning the knowledge of Ideas,
 the Method we proposed leads us, in the next place, to treat of Spirits: With regard to which,
 perhaps Humane Knowledge is not so deficient as is vulgarly imagined. The great Reason
@@ -2109,7 +1918,9 @@ such Idea. And this, if I mistake not, has been demonstrated in Sect. 27: To whi
 here add that a Spirit has been shewn to be the only Substance or Support, wherein the
 unthinking Beings or Ideas can exist: But that this Substance which supports or perceives
 Ideas should it self be an Idea or like an Idea, is evidently absurd.
-CXXXVI. It will perhaps be said, that we want a Sense (as some have imagined) proper
+
+CXXXVI. It will perhaps be said, that we want a Sense (as some have ima
+gined) proper
 to know Substances withal, which if we had, we might know our own Soul, as we do a Triangle.
 To this I answer, that in case we had a new Sense bestowed upon us, we could only receive
 thereby some new Sensations or Ideas of Sense. But I believe no Body will say, that what
@@ -2118,256 +1929,3 @@ We may therefore infer, that all things duly considered, it is not more reasonab
 Faculties defective, in that they do not furnish us with an Idea of Spirit or active thinking
 Substance, than it would be if we should blame them for not being able to comprehend a
 round Square.
-CXXXVII. From the opinion that Spirits are to be known after the manner of an Idea
-or Sensation, have risen many absurd and heterodox Tenets, and much Scepticism about the
-Nature of the Soul. It is even probable, that this Opinion may have produced a Doubt in
-some, whether they had any Soul at all distinct from their Body, since upon inquiry they
-could not find they had an Idea of it. That an Idea which is inactive, and the Existence
-whereof consists in being perceived, should be the Image or Likeness of an Agent subsisting
-by it self, seems to need no other Refutation, than barely attending to what is meant by those
-Words. But perhaps you will say, that tho’ an Idea cannot resemble a Spirit in its Thinking,
-Acting, or Subsisting by it self, yet it may in some other respects: And it is not necessary
-that an Idea or Image be in all respects like the Original.
-CXXXVIII. I answer, If it does not in those mentioned, it is impossible it should represent
-it in any other thing. Do but leave out the Power of Willing, Thinking, and Perceiving Ideas,
-51
-and there remains nothing else wherein the Idea can be like a Spirit. For by the Word Spirit
-we mean only that which thinks, wills, and perceives; this, and this alone, constitutes the
-Signification of that Term. If therefore it is impossible that any degree of those Powers should
-be represented in an Idea, it is evident there can be no Idea of a Spirit.
-CXXXIX. But it will be objected, that if there is no Idea signified by the Terms Soul,
-Spirit, and Substance, they are wholly insignificant, or have no meaning in them. I answer,
-those Words do mean or signify a real Thing, which is neither an Idea nor like an Idea, but
-that which perceives Ideas, and Wills, and Reasons about them. What I am my self, that
-which I denote by the Term I, is the same with what is meant by Soul or Spiritual Substance.
-If it be said that this is only quarrelling at a Word, and that since the immediate Significations
-of other Names are by common consent called Ideas, no reason can be assigned, why that
-which is signified by the Name Spirit or Soul may not partake in the same Appellation, I
-answer, All the unthinking Objects of the Mind agree, in that they are intirely passive, and
-their Existence consists only in being perceived: Whereas a Soul or Spirit is an active Being,
-whose Existence consists not in being perceived, but in perceiving Ideas and Thinking. It
-is therefore necessary, in order to prevent Equivocation and confounding Natures perfectly
-disagreeing and unlike, that we distinguish between Spirit and Idea. See Sect. 27.
-CXL. In a large Sense indeed, we may be said to have an Idea, or rather a Notion of
-Spirit, that is, we understand the meaning of the Word, otherwise we could not affirm or deny
-any thing of it. Moreover, as we conceive the Ideas that are in the Minds of other Spirits by
-means of our own, which we suppose to be Resemblances of them: So we know other Spirits
-by means of our own Soul, which in that Sense is the Image or Idea of them, it having a like
-respect to other Spirits, that Blueness or Heat by me perceived has to those Ideas perceived
-by another.
-CXLI. It must not be supposed, that they who assert the natural Immortality of the Soul
-are of opinion, that it is absolutely incapable of Annihilation even by the infinite Power of the
-Creator who first gave it Being: But only that it is not liable to be broken or dissolved by the
-ordinary Laws of Nature or Motion. They indeed, who hold the Soul of Man to be only a thin
-vital Flame, or System of animal Spirits, make it perishing and corruptible as the Body, since
-there is nothing more easily dissipated than such a Being, which it is naturally impossible
-should survive the Ruin of the Tabernacle, wherein it is inclosed. And this Notion hath been
-greedily embraced and cherished by the worst part of Mankind, as the most effectual Antidote
-against all Impressions of Virtue and Religion. But it hath been made evident, that Bodies
-of what Frame or Texture soever, are barely passive Ideas in the Mind, which is more distant
-and heterogeneous from them, than Light is from Darkness. We have shewn that the Soul
-is Indivisible, Incorporeal, Unextended, and it is consequently Incorruptible. Nothing can be
-plainer, than that the Motions, Changes, Decays, and Dissolutions which we hourly see befal
-natural Bodies (and which is what we mean by the Course of Nature) cannot possibly affect
-an active, simple, uncompounded Substance: Such a Being therefore is indissoluble by the
-force of Nature, that is to say, the Soul of Man is naturally immortal.
-CXLII. After what hath been said, it is I suppose plain, that our Souls are not to be
-known in the same manner as senseless inactive Objects, or by way of Idea. Spirits and Ideas
-52
-are Things so wholly different, that when we say, they exist, they are known, or the like, these
-Words must not be thought to signify any thing common to both Natures. There is nothing
-alike or common in them: And to expect that by any Multiplication or Enlargement of our
-Faculties, we may be enabled to know a Spirit as we do a Triangle, seems as absurd as if
-we should hope to see a Sound. This is inculcated because I imagine it may be of Moment
-towards clearing several important Questions, and preventing some very dangerous Errors
-concerning the Nature of the Soul. We may not I think strictly be said to have an Idea
-of an active Being, or of an Action, although we may be said to have a Notion of them. I
-have some Knowledge or Notion of my Mind, and its Acts about Ideas, inasmuch as I know
-or understand what is meant by those Words. What I know, that I have some Notion of.
-I will not say, that the Terms Idea and Notion may not be used convertibly, if the World
-will have it so. But yet it conduceth to Clearness and Propriety, that we distinguish Things
-very different by different Names. It is also to be remarked, that all Relations including an
-Act of the Mind, we cannot so properly be said to have an Idea, but rather a Notion of
-the Relations and Habitudes between Things. But if in the modern way the word Idea is
-extended to Spirits, and Relations and Acts; this is after all an affair of verbal Concern.
-CXLIII. It will not be amiss to add, that the Doctrine of Abstract Ideas hath had no small
-share in rendering those Sciences intricate and obscure, which are particularly conversant
-about spiritual Things. Men have imagined they could frame abstract Notions of the Powers
-and Acts of the Mind, and consider them prescinded, as well from the Mind or Spirit it self,
-as from their respective Objects and Effects. Hence a great number of dark and ambiguous
-Terms presumed to stand for abstract Notions, have been introduced into Metaphysics and
-Morality, and from these have grown infinite Distractions and Disputes amongst the Learned.
-CXLIV. But nothing seems more to have contributed towards engaging Men in Controversies and Mistakes, with regard to the Nature and Operations of the Mind, than the being
-used to speak of those Things, in Terms borrowed from sensible Ideas. For Example, the
-Will is termed the Motion of the Soul: This infuses a Belief, that the Mind of Man is as a
-Ball in Motion, impelled and determined by the Objects of Sense, as necessarily as that is
-by the Stroke of a Racket. Hence arise endless Scruples and Errors of dangerous consequence
-in Morality. All which I doubt not may be cleared, and Truth appear plain, uniform, and
-consistent, could but Philosophers be prevailed on to retire into themselves, and attentively
-consider their own meaning.
-CXLV. From what hath been said, it is plain that we cannot know the Existence of other
-Spirits, otherwise than by their Operations, or the Ideas by them excited in us. I perceive
-several Motions, Changes, and Combinations of Ideas, that inform me there are certain
-particular Agents like my self, which accompany them, and concur in their Production.
-Hence the Knowledge I have of other Spirits is not immediate, as is the Knowledge of my
-Ideas; but depending on the Intervention of Ideas, by me referred to Agents or Spirits distinct
-from my self, as Effects or concomitant Signs.
-CXLVI. But though there be some Things which convince us, humane Agents are concerned in producing them; yet it is evident to every one, that those Things which are called
-53
-the Works of Nature, that is, the far greater part of the Ideas or Sensations perceived by
-us, are not produced by, or dependent on the Wills of Men. There is therefore some other
-Spirit that causes them, since it is repugnant that they should subsist by themselves. See
-Sect. 29. But if we attentively consider the constant Regularity, Order, and Concatenation
-of natural Things, the surprising Magnificence, Beauty, and Perfection of the larger, and the
-exquisite Contrivance of the smaller Parts of Creation, together with the exact Harmony and
-Correspondence of the whole, but above all, the never enough admired Laws of Pain and
-Pleasure, and the Instincts or natural Inclinations, Appetites, and Passions of Animals; I say
-if we consider all these Things, and at the same time attend to the meaning and import of
-the Attributes One, Eternal, infinitely Wise, Good, and Perfect, we shall clearly perceive that
-they belong to the aforesaid Spirit, who works all in all, and by whom all things consist.
-CXLVII. Hence it is evident, that God is known as certainly and immediately as any
-other Mind or Spirit whatsoever, distinct from our selves. We may even assert, that the
-Existence of God is far more evidently perceived than the Existence of Men; because the
-Effects of Nature are infinitely more numerous and considerable, than those ascribed to
-humane Agents. There is not any one Mark that denotes a Man, or Effect produced by him,
-which doth not more strongly evince the Being of that Spirit who is the Author of Nature.
-For it is evident that in affecting other Persons, the Will of Man hath no other Object, than
-barely the Motion of the Limbs of his Body; but that such a Motion should be attended by,
-or excite any Idea in the Mind of another, depends wholly on the Will of the Creator. He
-alone it is who upholding all Things by the Word of his Power, maintains that Intercourse
-between Spirits, whereby they are able to perceive the Existence of each other. And yet this
-pure and clear Light which enlightens every one, is it self invisible.
-CXLVIII. It seems to be a general Pretence of the unthinking Herd, that they cannot
-see God. Could we but see him, say they, as we see a Man, we should believe that he is, and
-believing obey his Commands. But alas we need only open our Eyes to see the sovereign Lord
-of all Things with a more full and clear View, than we do any one of our Fellow-Creatures.
-Not that I imagine we see God (as some will have it) by a direct and immediate View,
-or see Corporeal Things, not by themselves, but by seeing that which represents them in
-the Essence of God, which Doctrine is I must confess to me incomprehensible. But I shall
-explain my Meaning. A humane Spirit or Person is not perceived by Sense, as not being an
-Idea; when therefore we see the Colour, Size, Figure, and Motions of a Man, we perceive
-only certain Sensations or Ideas excited in our own Minds: And these being exhibited to our
-View in sundry distinct Collections, serve to mark out unto us the Existence of finite and
-created Spirits like our selves. Hence it is plain, we do not see a Man, if by Man is meant
-that which lives, moves, perceives, and thinks as we do: But only such a certain Collection
-of Ideas, as directs us to think there is a distinct Principle of Thought and Motion like to
-our selves, accompanying and represented by it. And after the same manner we see God;
-all the difference is, that whereas some one finite and narrow Assemblage of Ideas denotes
-a particular humane Mind, whithersoever we direct our View, we do at all Times and in all
-Places perceive manifest Tokens of the Divinity: Every thing we see, hear, feel, or any wise
-perceive by Sense, being a Sign or Effect of the Power of God; as is our Perception of those
-very Motions, which are produced by Men.
-54
-CXLIX. It is therefore plain, that nothing can be more evident to any one that is capable
-of the least Reflexion, than the Existence of God, or a Spirit who is intimately present to
-our Minds, producing in them all that variety of Ideas or Sensations, which continually affect
-us, on whom we have an absolute and intire Dependence, in short, in whom we live, and
-move, and have our Being. That the Discovery of this great Truth which lies so near and
-obvious to the Mind, should be attained to by the Reason of so very few, is a sad instance
-of the Stupidity and Inattention of Men, who, though they are surrounded with such clear
-Manifestations of the Deity, are yet so little affected by them, that they seem as it were
-blinded with excess of Light.
-CL. But you will say, Hath Nature no share in the Production of natural Things, and
-must they be all ascribed to the immediate and sole Operation of God? I answer, If by Nature
-is meant only the visible Series of Effects, or Sensations imprinted on our Minds according
-to certain fixed and general Laws: Then it is plain, that Nature taken in this Sense cannot
-produce any thing at all. But if by Nature is meant some Being distinct from God, as well as
-from the Laws of Nature, and Things perceived by Sense, I must confess that Word is to me an
-empty Sound, without any intelligible Meaning annexed to it. Nature in this Acceptation is a
-vain Chimera introduced by those Heathens, who had not just Notions of the Omnipresence
-and infinite Perfection of God. But it is more unaccountable, that it should be received
-among Christians professing Belief in the Holy Scriptures, which constantly ascribe those
-Effects to the immediate Hand of God, that Heathen Philosophers are wont to impute to
-Nature. The LORD, he causeth the Vapours to ascend; he maketh Lightnings with Rain; he
-bringeth forth the Wind out of his Treasures, Jerem. Chap. 10. ver. 13. He turneth the shadow
-of Death into the Morning, and maketh the Day dark with Night, Amos Chap. 5. ver. 8. He
-visiteth the Earth, and maketh it soft with Showers: He blesseth the springing thereof, and
-crowneth the Year with his Goodness; so that the Pastures are clothed with Flocks, and the
-Valleys are covered over with Corn. See Psalm 65. But notwithstanding that this is the
-constant Language of Scripture; yet we have I know not what Aversion from believing, that
-God concerns himself so nearly in our Affairs. Fain would we suppose him at a great distance
-off, and substitute some blind unthinking Deputy in his stead, though (if we may believe Saint
-Paul) he be not far from every one of us.
-CLI. It will I doubt not be objected, that the slow and gradual Methods observed in
-the Production of natural Things, do not seem to have for their Cause the immediate Hand
-of an almighty Agent. Besides, Monsters, untimely Births, Fruits blasted in the Blossom,
-Rains falling in desert Places, Miseries incident to humane Life, are so many Arguments
-that the whole Frame of Nature is not immediately actuated and superintended by a Spirit
-of infinite Wisdom and Goodness. But the Answer to this Objection is in a good measure
-plain from Sect. 62, it being visible, that the aforesaid Methods of Nature are absolutely
-necessary, in order to working by the most simple and general Rules, and after a steady
-and consistent Manner; which argues both the Wisdom and Goodness of God. Such is the
-artificial Contrivance of this mighty Machine of Nature, that whilst its Motions and various
-Phænomena strike on our Senses, the Hand which actuates the whole is it self unperceivable
-to Men of Flesh and Blood. Verily (saith the Prophet) thou art a GOD that hidest thy self,
-Isaiah Chap. 45. ver. 15. But though God conceal himself from the Eyes of the Sensual and
-55
-Lazy, who will not be at the least Expense of Thought; yet to an unbiassed and attentive
-Mind, nothing can be more plainly legible, than the intimate Presence of an All-wise Spirit,
-who fashions, regulates, and sustains the whole Systeme of Being. It is clear from what
-we have elsewhere observed, that the operating according to general and stated Laws, is so
-necessary for our Guidance in the Affairs of Life, and letting us into the Secret of Nature,
-that without it, all Reach and Compass of Thought, all humane Sagacity and Design could
-serve to no manner of purpose: It were even impossible there should be any such Faculties
-or Powers in the Mind. See Sect. 31. Which one Consideration abundantly out-balances
-whatever particular Inconveniences may thence arise.
-CLII. We should further consider, that the very Blemishes and Defects of Nature are
-not without their Use, in that they make an agreeable sort of Variety, and augment the
-Beauty of the rest of the Creation, as Shades in a Picture serve to set off the brighter and
-more enlightened Parts. We would likewise do well to examine, whether our taxing the
-Waste of Seeds and Embryos, and accidental Destruction of Plants and Animals, before
-they come to full Maturity, as an Imprudence in the Author of Nature, be not the effect of
-Prejudice contracted by our Familiarity with impotent and saving Mortals. In Man indeed
-a thrifty Management of those Things, which he cannot procure without much Pains and
-Industry, may be esteemed Wisdom. But we must not imagine, that the inexplicably fine
-Machine of an Animal or Vegetable, costs the great Creator any more Pains or Trouble in
-its Production than a Pebble doth: nothing being more evident, than that an omnipotent
-Spirit can indifferently produce every thing by a mere Fiat or Act of his Will. Hence it is
-plain, that the splendid Profusion of natural Things should not be interpreted, Weakness or
-Prodigality in the Agent who produces them, but rather be looked on as an Argument of the
-Riches of his Power.
-CLIII. As for the mixture of Pain or Uneasiness which is in the World, pursuant to the
-general Laws of Nature, and the Actions of finite imperfect Spirits: This, in the State we are
-in at present, is indispensably necessary to our well-being. But our Prospects are too narrow:
-We take, for Instance, the Idea of some one particular Pain into our Thoughts, and account
-it Evil; whereas if we enlarge our View, so as to comprehend the various Ends, Connexions,
-and Dependencies of Things, on what Occasions and in what Proportions we are affected
-with Pain and Pleasure, the Nature of humane Freedom, and the Design with which we are
-put into the World; we shall be forced to acknowledge that those particular Things, which
-considered in themselves appear to be Evil, have the Nature of Good, when considered as
-linked with the whole Systeme of Beings.
-CLIV. From what hath been said it will be manifest to any considering Person, that it is
-merely for want of Attention and Comprehensiveness of Mind, that there are any Favourers
-of Atheism or the Manichean Heresy to be found. Little and unreflecting Souls may indeed
-burlesque the Works of Providence, the Beauty and Order whereof they have not Capacity,
-or will not be at the Pains to comprehend. But those who are Masters of any Justness and
-Extent of Thought, and are withal used to reflect, can never sufficiently admire the divine
-Traces of Wisdom and Goodness that shine throughout the Oeconomy of Nature. But what
-Truth is there which shineth so strongly on the Mind, that by an Aversion of Thought, a
-56
-wilful shutting of the Eyes, we may not escape seeing it? Is it therefore to be wondered at, if
-the generality of Men, who are ever intent on Business or Pleasure, and little used to fix or
-open the Eye of their Mind, should not have all that Conviction and Evidence of the Being
-of God, which might be expected in reasonable Creatures?
-CLV. We should rather wonder, that Men can be found so stupid as to neglect, than
-that neglecting they should be unconvinced of such an evident and momentous Truth. And
-yet it is to be feared that too many of Parts and Leisure, who live in Christian Countries,
-are merely through a supine and dreadful Negligence sunk into a sort of Atheism. Since it
-is downright impossible, that a Soul pierced and enlightened with a thorough Sense of the
-Omnipresence, Holiness, and Justice of that Almighty Spirit, should persist in a remorseless
-Violation of his Laws. We ought therefore earnestly to meditate and dwell on those important
-Points; that so we may attain Conviction without all Scruple, that the Eyes of the LORD
-are in every place beholding the Evil and the Good; that he is with us and keepeth us in all
-places whither we go, and giveth us Bread to eat, and Raiment to put on; that he is present
-and conscious to our innermost Thoughts; and that we have a most absolute and immediate
-dependence on him. A clear View of which great Truths cannot choose but fill our Hearts
-with an awful Circumspection and holy Fear, which is the strongest Incentive to Virtue, and
-the best Guard against Vice.
-CLVI. For after all, what deserves the first place in our Studies, is the Consideration of
-GOD, and our Duty; which to promote, as it was the main drift and design of my Labours, so
-shall I esteem them altogether useless and ineffectual, if by what I have said I cannot inspire
-my Readers with a pious Sense of the Presence of God: And having shewn the Falseness or
-Vanity of those barren Speculations, which make the chief Employment of learned Men, the
-better dispose them to reverence and embrace the salutary Truths of the Gospel, which to
-know and to practice is the highest Perfection of humane Nature.
-57

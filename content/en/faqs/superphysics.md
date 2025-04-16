@@ -331,7 +331,7 @@ For example, alternative medicines that don't pass clinical trials are not class
 Imagine talking to cavemen about the possibility of creating agriculture, radio, antibiotics, and representative-goverments to improve their lives. Yet those very cavemen laugh and call you crazy and force you to cancel research and go back to hunting deer like all other cavemen.
 {{< /l >}}
 
-{{< l a="Material-Superphysics" >}}
+{{< l a="Material Superphysics" >}}
 Yeah. Those materialists even refuse to declare that General Relativity is wrong even if the James Webb Space Telescope and DESI are screaming it to their faces. They always say General Relativity has passed tests, **without realizing that all those tests are electromagnetic in nature**, and not of spacetime (except for the Weak Equivalence Principle which is matter-based and Galilean anyway). Jeez. Talk about low standards. No wonder humans are still stuck on Earth. 
 {{< /l >}}
 

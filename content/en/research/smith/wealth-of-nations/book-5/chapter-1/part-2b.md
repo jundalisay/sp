@@ -66,49 +66,72 @@ The authority of riches is great in every age of society.
 It is perhaps greatest in the rudest age of society.
 
 Inequality of fortune is greatest in the rudest age of society.
+
 The increase of a Mongol chief's herds and stocks can only be used in maintaining a thousand men.
+
 The rude state of his society does not afford him any manufactured produce, any trinkets or baubles, for which he can exchange his surplus rude produce.
+
 The thousand men he maintains, depends entirely on him.
 
 They must obey him in peace and war.
+
 He is their general and judge.
+
 His chieftainship is the effect of his superior fortune.
 
 In a civilized society, a man may possess more fortune and yet not be able to command a dozen people.
+- His estate's produce might maintain more than a thousand people.
+- But they pay for everything that they get from him.
+- He gives to others what he gets in equivalent.
+- No one is entirely dependent on him.
 
-His estate's produce might maintain more than a thousand people.
-But they pay for everything that they get from him.
-He gives to others what he gets in equivalent.
-No one is entirely dependent on him.
 His authority extends only over a few menial servants.
+
 However, the authority of fortune is very great even in an opulent and civilized society.
 
 The authority of fortune is much greater than the authority of age or personal qualities.
 
 This has been the constant complaint of every society which had any considerable inequality of fortune.
+
 The first period of society is the period of hunters.
+
 It has no such inequality.
+
 Its universal poverty establishes universal equality.
+
 The superiority of age or personal qualities are the feeble and sole foundations of authority.
+
 There is little or no authority or subordination in this period.
+
 The second period of society is the period of shepherds.
+
 It has very great inequalities of fortune.
+
 It gives the greatest superiority of fortune.
+
 This gives great authority to those who possess it.
+
 Authority and subordination are most perfectly established in this period.
+
 The authority of an Arabian scherif is very great.
+
 The authority of a Mongol khan is totally despotical.
+
 
 > 4. {{< s v="51" >}} The superiority of birth
 
 It supposes an ancient superiority of fortune in the family of the person who claims it.
 All families are equally ancient.
+
 A prince's ancestors may be better known.
 But they cannot be more ancient than a beggar's ancestors.
+
 Everywhere, the antiquity of family means= 
 the antiquity of wealth, or
 that greatness which accompanies wealth.
+
 Everywhere, upstart greatness is less respected than ancient greatness.
+
 The hatred of usurpers and the love of an ancient monarch family are founded on= 
 people's natural contempt for usurpers, and
 people's natural veneration for monarchs,
@@ -154,7 +177,10 @@ He can command the united force of more people than other shepherds. His militar
 
 His birth and fortune naturally procures to him some executive power.
 By commanding the united force of more people, he is best able to compel anyone who has injured another to compensate the wrong.
+
 Those who are too weak to defend themselves naturally look up to him for protection.
 They naturally complain to him of the injuries done to them.
+
 His interposition is more easily submitted to even by the person complained of.
+
 His birth and fortune naturally procures him some judicial authority.

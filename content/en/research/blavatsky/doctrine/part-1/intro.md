@@ -87,7 +87,11 @@ Stanza III.
 
 6. The Root of Life was in every Drop of the Ocean of Immortality, and the Ocean was Radiant Light, which was Fire, and Heat, and Motion. Darkness vanished and was no more; it disappeared in its own Essence, the Body of Fire and Water, of Father and Mother.
 
-7. Behold, O Lanoo, the Radiant Child of the Two, the unparalleled refulgent Glory—Bright Space, Son of Dark Space, who emerges from the Depths of the great Dark Waters. It is Oeaohoo, the Younger, the ——. He shines forth as the Sun, he is the Blazing Divine Dragon of Wisdom; the Eka is Chatur, and Chatur takes to itself Tri, and the Union produces the Sapta, in whom are the Seven, which become the Tridasha, the Hosts and the Multitudes. Behold him lifting the Veil, and [pg 059]unfurling it from East to West. He shuts out the Above, and leaves the Below to be seen as the Great Illusion. He marks the places for the Shining Ones, and turns the Upper into a shoreless Sea of Fire, and the One Manifested into the Great Waters.
+7. Behold, O Lanoo, the Radiant Child of the Two, the unparalleled refulgent Glory—Bright Space, Son of Dark Space, who emerges from the Depths of the great Dark Waters.
+
+It is Oeaohoo, the Younger, the ——. He shines forth as the Sun, he is the Blazing Divine Dragon of Wisdom; the Eka is Chatur, and Chatur takes to itself Tri, and the Union produces the Sapta, in whom are the Seven, which become the Tridasha, the Hosts and the Multitudes.
+
+Behold him lifting the Veil, and [pg 059]unfurling it from East to West. He shuts out the Above, and leaves the Below to be seen as the Great Illusion. He marks the places for the Shining Ones, and turns the Upper into a shoreless Sea of Fire, and the One Manifested into the Great Waters.
 
 8. Where was the Germ, and where was now Darkness? Where is the Spirit of the Flame that burns in thy Lamp, O Lanoo? The Germ is That, and That is Light, the White Brilliant Son of the Dark Hidden Father.
 
@@ -100,12 +104,17 @@ Stanza III.
 12. Then Svabhâvat sends Fohat to harden the Atoms. Each is a part of the Web. Reflecting the “Self-Existent Lord,” like a Mirror, each becomes in turn a World.
 
 
-Stanza IV.
+## Stanza 4
+
 1. ... Listen, ye Sons of the Earth, to your Instructors—the Sons of the Fire. Learn, there is neither first nor last; for all is One Number, issued from No-Number.
 
 2. Learn what we, who descend from the Primordial Seven, we, who are born from the Primordial Flame, have learnt from our Fathers....
 
-3. From the Effulgency of Light—the Ray of the Ever-Darkness—sprang in Space the reäwakened Energies; the One from the Egg, the Six, and the Five. Then the Three, the One, the Four, the One, the Five—the Twice Seven, the Sum Total. And these are the Essences, the Flames, the Elements, the Builders, the Numbers, the Arûpa, the Rûpa, and the Force or Divine Man, the Sum Total. And from the Divine Man emanated the Forms, the Sparks, the Sacred Animals, and the Messengers of the Sacred Fathers within the Holy Four.
+3. From the Effulgency of Light—the Ray of the Ever-Darkness—sprang in Space the reäwakened Energies; the One from the Egg, the Six, and the Five.
+
+Then the Three, the One, the Four, the One, the Five—the Twice Seven, the Sum Total. And these are the Essences, the Flames, the Elements, the Builders, the Numbers, the Arûpa, the Rûpa, and the Force or Divine Man, the Sum Total.
+
+From the Divine Man emanated the Forms, the Sparks, the Sacred Animals, and the Messengers of the Sacred Fathers within the Holy Four.
 
 4. This was the Army of the Voice, the Divine Mother of the Seven. The Sparks of the Seven are subject to, and the servants of, the First, the Second, the Third, the Fourth, the [pg 061]Fifth, the Sixth, and the Seventh of the Seven. These are called Spheres, Triangles, Cubes, Lines and Modellers; for thus stands the Eternal Nidâna—the Oi-Ha-Hou.
 

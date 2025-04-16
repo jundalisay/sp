@@ -1,11 +1,15 @@
 {{ $ava := .Get "ava" | default "" }}
 {{ $a := .Get "a" | default "" }}
 
-<div class="right" data-sal="slide-left">
-  <div class="{{ $ava }} {{ $a }}" style="border-radius: 999px; height: 50px; width: 50px; background-size: cover; background-repeat: no-repeat;"></div>  
-  <small style="font-size: 11px; letter-spacing: 1px; text-transform: uppercase;">{{ $ava }} {{ $a }}</small>
-  <br>
-  {{ .Inner |  markdownify }}
+
+<div class="fly-in fly-in-right p-4" style="margin: 1% 0% 1% 3%;">
+   <span class="text-sm font-semibold right text-gray-900 dark:text-white">{{ $a }}</span>
+   <div class="flex flex-col gap-1 w-full">
+      <div class="flex flex-col leading-1.5 p-4 border-gray-200 dark:bg-gray-800 bg-gray-100 rounded-lg shadow-lg rounded-e-xl rounded-es-xl dark:bg-gray-700">
+         <p class="font-normal text-gray-900 dark:text-white">{{ .Inner |  markdownify }}</p>
+      </div>
+
+      <!-- <span class="text-sm font-normal text-gray-500 dark:text-gray-400">Delivered</span> -->
+   </div>
+   <img class="w-8 h-8 rounded-full" src="/icons/{{ $a }}.png" alt="{{ $a }}">
 </div>
-
-

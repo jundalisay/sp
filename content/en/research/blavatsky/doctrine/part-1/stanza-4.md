@@ -18,7 +18,12 @@ I will state the times [conditions] ... at which devotees departing [from this l
 
 Now these terms “fire,” “flame,” “day,” the “bright fortnight,” etc., “smoke,” “night,” and so on, leading only to the end of the Lunar Path, are incomprehensible without a knowledge of Esotericism. These are all names of various deities which preside over the cosmo-psychic Powers. We often speak of the Hierarchy of “Flames,” of the “Sons of Fire,” etc. Shankarâchârya, the greatest of the Esoteric Masters of India, says that Fire means a deity which presides over Time (Kâla). The able translator of the Bhagavadgîtâ, Kâshinâth Trimbak Telang, M.A., of Bombay, confesses he has “no clear notion of the meaning of these verses.” It seems quite clear, on the contrary, to him who knows the Occult doctrine. With these verses the mystic sense of the solar and lunar symbols are connected. 
 
-The Pitris are Lunar Deities and our Ancestors, because they created the physical man. The Agnishvatta, the Kumâras (the Seven Mystic Sages), are Solar Deities, though they are Pitris also; and these are the “Fashioners of the Inner Man.” They are “The Sons of Fire,” because they are the first Beings, called “Minds,” in the Secret Doctrine, evolved from Primordial Fire. “The Lord ... is a consuming fire.”149 “The Lord shall be revealed ... with his mighty angels in flaming fire.”150 The Holy Ghost descended on the Apostles as “cloven tongues like as of fire”;151 Vishnu will return on Kalkî, the White Horse, as the last Avatâra, amid fire and flames; and Sosiosh will also descend on a White Horse in a “tornado of fire.” “And I saw heaven opened, and behold a white horse; and he that sat upon him ... and his name is called the Word of God,”152 amid flaming Fire. Fire is Æther in its purest form, and hence is not regarded as matter, but is the unity of Æther—the second, manifested deity—in its universality. 
+The Pitris are Lunar Deities and our Ancestors, because they created the physical man. The Agnishvatta, the Kumâras (the Seven Mystic Sages), are Solar Deities, though they are Pitris also; and these are the “Fashioners of the Inner Man.” They are “The Sons of Fire,” because they are the first Beings, called “Minds,” in the Secret Doctrine, evolved from Primordial Fire.
+
+“The Lord ... is a consuming fire.”149 “The Lord shall be revealed ... with his mighty angels in flaming fire.”150 The Holy Ghost descended on the Apostles as “cloven tongues like as of fire”;151 Vishnu will return on Kalkî, the White Horse, as the last Avatâra, amid fire and flames; and Sosiosh will also descend on a White Horse in a “tornado of fire.” 
+
+“And I saw heaven opened, and behold a white horse; and he that sat upon him ... and his name is called the Word of God,”152 amid flaming Fire. Fire is Æther in its purest form, and hence is not regarded as matter, but is the unity of Æther—the second, manifested deity—in its universality. 
+
 
 But there are 2 “Fires”. A distinction is made between them in the Occult teachings. 
 
@@ -98,5 +103,3 @@ Ten numbers without what? One: the Spirit of the living God ... who liveth in et
 The words “founded his dwelling” show clearly that in the Kabalah, as in India, the Deity was considered as the Universe, and was not, in his origin, the extra-cosmic God he now is.
 
 Thus was the world made “through Three Seraphim—Sepher, Saphar, and Sipur,” or “through Number, Numbers, and Numbered.” With the astronomical key, these “Sacred Animals” become the signs of the Zodiac.
-
-

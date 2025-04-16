@@ -14,34 +14,19 @@
 <div class='banner w-full flex mb-5'>
   <section class="mx-auto">
     <div class="px-4 mx-auto text-center lg:pt-16 lg:px-12" >
-      <h1 class="text-4xl mb-4 text-white font-extrabold tracking-tight leading-none">{{ .Site.Params.main }}</h1>
-      <h2 class="text-2xl mb-8 text-white tracking-tight leading-none ">{{ .Site.Params.sub }}</h1>        
+      <h1 class="text-4xl mb-4 text-white font-extrabold tracking-tight leading-none">{{ .Site.Params.title }}</h1>
+      <h2 class="text-2xl mb-8 text-white tracking-tight leading-none ">{{ .Site.Params.subtitle }}</h1>        
       
-      <iframe class="rounded-lg shadow-lg" width="854" height="480" src="https://www.youtube.com/embed/mNwyj7WHKKo" title="What is Superphysics? A new Science!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe class="rounded-lg shadow-lg" width="854" height="480" src="https://www.youtube.com/embed/mNwyj7WHKKo" title="What is Superphysics? A new Science!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; " referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     </div>
   </section>
 </div>
 
-<section class="mx-auto text-center p-6">
-  <h3 class="text-2xl font-bold tracking-tight mb-6">{{ .Site.Params.sub }}</h1>
 
-    <div class="flex justify-center">
-      {{ range .Site.Params.cards }}
-        <div class="shadow-lg p-4 mx-auto text-center">
-          <img class="mx-auto px-4" src="{{ .icon }}" height="100px" width="100px" alt="Icon" />
-          <div class="p-5">
-            <h5 class="mb-2 text-2xl font-bold tracking-tight">{{ .title }}</h5>
-            <p class="mb-3 font-normal">{{ .sub }}</p>
-          </div>      
-        </div>
-      {{ end }}
-    </div>
-</section>
+{{ partial "icons.html" . }}
 
-
-
-  {{ partial "quad.html" . }}
+{{ partial "quad.html" . }}
 
 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 p-5">
@@ -63,7 +48,7 @@
 
 
 
-<figure class="fly-in fly-in-leftfly-in fly-in-left max-w-screen-md mx-auto text-center">
+<figure class="fly-in fly-in-left max-w-screen-md mx-auto text-center">
     <blockquote>
         <p class="text-2xl italic font-medium text-gray-900 dark:text-white">"Flowbite is just awesome. It contains tons of predesigned components and pages starting from login screen to complex dashboard. Perfect choice for your next SaaS application."</p>
     </blockquote>

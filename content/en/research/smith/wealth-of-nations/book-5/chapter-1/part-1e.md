@@ -46,13 +46,16 @@ Once they took the field they can be fit to face the hardiest and most experienc
 In 1756, when the Russian army marched into Poland, the valour of the Russian soldiers was not inferior to the valour of the Prussians.
 
 At that time, the Prussians were the hardiest and most experienced veterans in Europe.
+
 The Russian empire enjoyed a profound peace 20 years before.
-    They had very few soldiers at that time who had ever seen an enemy.
+- They had very few soldiers at that time who had ever seen an enemy.
 
 When the Spanish war broke out in 1739, England enjoyed a profound peace for 28 years.
 
 The valour of British soldiers was not corrupted by that long peace.
+
 The attempt on Carthagena was the first unfortunate exploit of that war.
+
 The valour of British soldiers were most distingushed in that exploit.
 
 In a long peace, perhaps the generals may sometimes forget their skills.
@@ -78,33 +81,43 @@ Only a well-regulated standing army can:
 A standing army establishes the sovereign's law through the remotest provinces with an irresistible force.
 
 It maintains some regular government in countries which otherwise could not have any.
+
 Peter the Great's improvements in the Russian empire were almost all for the establishment of a well-regulated standing army.
+
 It is the instrument which executes and maintains all his other regulations.
 Russia's peace and order since then is due to that army.
 
-40 Men of republican principles have been jealous of a standing army as dangerous to liberty.
+
+<sup>40</sup> Men of republican principles have been jealous of a standing army as dangerous to liberty.
 
 An army is certainly dangerous wherever the interest of the army general and principal officers are not connected with the constitution.
-    Cæsar's standing army destroyed the Roman republic.
-    Cromwell's standing army turned the long parliament out of doors.
-A standing army can never be dangerous to liberty when= 
-    the sovereign himself is the general, and
-    the principal nobility and gentry are the chief officers.
+- Cæsar's standing army destroyed the Roman republic.
+- Cromwell's standing army turned the long parliament out of doors.
+
+A standing army can never be dangerous to liberty when:
+- the sovereign himself is the general, and
+- the principal nobility and gentry are the chief officers.
+
 The military is commanded by those who have the greatest interest in supporting the civil authority because they themselves have the greatest share of that authority.
-    In some cases, a standing army may be favourable to liberty.
-    The security which it gives to the sovereign renders that troublesome jealousy unnecessary.
+- In some cases, a standing army may be favourable to liberty.
+- The security which it gives to the sovereign renders that troublesome jealousy unnecessary.
+
 
 The jealousy in some modern republics watches over the minutest actions.
 
 At all times, it is ready to disturb the peace of every citizen.
-The government's whole authority must suppress and punish every murmur and complaint against it when= 
-    the security of the magistrate is endangered by every popular discontent, and
-    a small tumult can bring about a great revolution in a few hours.
-The rudest, most groundless, and most licentious remonstrances cannot much disturb a sovereign who feels supported by= 
-    the natural aristocracy of the country, and
-    a well-regulated standing army.
+
+The government's whole authority must suppress and punish every murmur and complaint against it when:
+- the security of the magistrate is endangered by every popular discontent, and
+- a small tumult can bring about a great revolution in a few hours.
+
+The rudest, most groundless, and most licentious remonstrances cannot much disturb a sovereign who feels supported by:
+- the natural aristocracy of the country, and
+- a well-regulated standing army
+
 His consciousness of his own superiority naturally disposes him to safely pardon or neglect them.
-    Licentious liberty can only be tolerated only in countries where the sovereign is secured by a well-regulated standing army.
+- Licentious liberty can only be tolerated only in countries where the sovereign is secured by a well-regulated standing army.
+
 Only in such countries does public safety not require the sovereign to have any discretionary power for suppressing the impertinent wantonness of this licentious liberty.
 
 
@@ -120,27 +133,34 @@ Only in such countries does public safety not require the sovereign to have any 
 Their arms and ammunition become more expensive.
 
 A musket is a more expensive machine than a javelin or a bow and arrows.
-    A cannon or a mortar is more expensive than a balista or a catapult.
+- A cannon or a mortar is more expensive than a balista or a catapult.
+
 The powder spent in a modern battle is lost irrecoverably.
-    It creates a very considerable expence.
-The javelins and arrows thrown or shot in an ancient battle= 
-    had very little value, and
-    could be easily picked up again.
+- It creates a very considerable expence.
+
+The javelins and arrows thrown or shot in an ancient battle:
+- had very little value, and
+- could be easily picked up again.
+
 The cannon and the mortar are much dearer and heavier than the balista or catapult.
-    They are more costly to prepare and carry them to the field.
+- They are more costly to prepare and carry them to the field.
 
 The superiority of the modern artillery over ancient artillery is very great.
 
 It became much more difficult and expensive to fortify a town against modern artillery.
+
 In modern times, society's defence is more expensive because of many different causes.
+
 The accidental invention of gunpowder caused a great revolution in the art of war.
-    It greatly enhanced the effects of the natural progress of improvement of societies.
+- It greatly enhanced the effects of the natural progress of improvement of societies.
 
 
 {{< s v="43" >}} In modern war, the great cost of firearms gives an advantage to the opulent and civilized nation over a poor and barbarous nation.
 
 In ancient times, the opulent and civilized nations found it difficult to defend themselves against poor and barbarous nations.
+
 In modern times, the poor and barbarous find it difficult to defend themselves against the opulent and civilized nations.
+
 The invention of firearms is so harmful at first sight.
-    But it is certainly favourable to the permanency and extension of civilization.
+- But it is certainly favourable to the permanency and extension of civilization.
 

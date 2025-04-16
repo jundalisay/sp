@@ -89,39 +89,40 @@ pagerSize = 24
         weight = 15
     [languages.en.params]
       flag = "/flags/gb.png"
-      heading = "A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems"
-      intro = "Superphysics: Science Merged with Metaphysics"
+      title = "Superphysics: Science Merged with Metaphysics"
+      subtitle = "A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems"
+      # intro = "Superphysics: Science Merged with Metaphysics"
       sub = "All Knowledge Can Be Grouped Into Three"
       banner = "/photos/physics/galaxy.jpg"
       youtube = "mNwyj7WHKKo"
-    [languages.en.params.plates.a]
-      img = "/avatars/descartes.jpg"
-      title = "Material Superphysics"
+    [languages.en.params.icons.a]
+      img = "/icons/tao.png"
+      title = "Metaphysics"
       sub = "1-50% Replicable: Paradoxical"
-    [languages.en.params.plates.b]
-      icon = "/avatars/hahnemann.jpg"
-      title = "Bio Superphysics"
+    [languages.en.params.icons.b]
+      icon = "/icons/sp.png"
+      title = "Superphysics"
       sub = "51-99% Replicable: Subjective"
-    [languages.en.params.plates.c]
-      icon = "/avatars/smith.png"
-      title = "Social Superphysics"
+    [languages.en.params.icons.c]
+      icon = "/icons/atom.png"
+      title = "Physics"
       sub = "100% Replicable: Objective"
     [languages.en.params.cards.a]
       img = "/avatars/descartes.jpg"
       title = "Material Superphysics"
-      sub = "1-50% Replicable: Paradoxical"
+      sub = "Based on 5 Elements and Relationality"
     [languages.en.params.cards.b]
       icon = "/avatars/hahnemann.jpg"
       title = "Bio Superphysics"
-      sub = "51-99% Replicable: Subjective"
+      sub = "Medicine "
     [languages.en.params.cards.c]
       icon = "/avatars/smith.png"
       title = "Social Superphysics"
       sub = "100% Replicable: Objective"
     [languages.en.params.cards.d]
-      img = "/avatars/buddha.jpg"
+      img = "/avatars/buddha.jpeg"
       title = "Spiritual Superphysics"
-      sub = "1-50% Replicable: Paradoxical"
+      sub = ""
     [languages.en.params.tricon1]
       heading = "The Nature of the Soul as a Wave"
       title = "Everything is a wave that manifests as a particle"
@@ -1556,7 +1557,7 @@ pagerSize = 24
         url = "/faq"
         weight = 8
     [languages.vi.params]
-      flag = "/flags/vi.png"
+      flag = "/flags/vn.png"
       intro = "Siêu Vật Lý: Khoa học kết hợp với Siêu hình học"
       heading = "Siêu Vật Lý là một khoa học mới dựa trên sóng và phép biện chứng của Socrates để giải quyết các vấn đề."
       sub = "Tất cả kiến thức có thể được nhóm thành ba loại: Siêu hình học, Siêu Vật Lý, Vật Lý."

@@ -21,18 +21,22 @@ writer:
 
 It may oblige some citizens of military age to become soldiers, in addition to their current profession.
 It may do this through a very rigorous police, despite the people's contrary interest, genius, and inclinations.
-18 This method forms a militia
+
+<suo>18</suo> This method forms a militia
 
 {{< s v="17" >}} 2. It may separate the soldier's profession from all other professions by maintaining and employing some citizens in constant military exercises.
 
 <sup>18</sup> This method forms a standing army. The practice of military exercises is the sole or principal occupation of a standing army.
 
 The maintenance or pay the state affords them is their subsistence's principal and ordinary fund.
+
 The practice of military exercises is only the militia's occasional occupation.
-    They derive their principal and ordinary subsistence from some other occupation.
+- They derive their principal and ordinary subsistence from some other occupation.
+
 In a militia, the character of the labourer, artificer, or tradesman, predominates over that of the soldier.
-    In a standing army, the character of the soldier predominates over every other character.
-    This is the essential difference between militias and standing armies.
+- In a standing army, the character of the soldier predominates over every other character.
+- This is the essential difference between militias and standing armies.
+
 
 <sup>19</sup> There are many kinds of militias.
 
@@ -109,6 +113,7 @@ In peacetime, they were not accustomed to follow their chieftain from place to p
 When they had acquired any booty they were eager to return home, and his authority was seldom sufficient to detain them.
 
 In point of obedience they were always much inferior to what is reported of the Mongols and Arabs.
+
 As the highlanders too, from their stationary life, spend less of their time in the open air, they were always less used to military exercises, and were less expert in the use of their arms than the Mongols and Arabs are.
 
 
