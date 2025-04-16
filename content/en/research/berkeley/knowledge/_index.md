@@ -1,5 +1,5 @@
 ---
-title: "Berkeley, George"
+title: "The Principles of Human Knowledge"
 heading: "Englightened"
 weight: 7
 description: ""

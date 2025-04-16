@@ -8,14 +8,14 @@
 
   <div class="flex items-start justify-between">
     <div class="flex-1">
-      <h1 class="text-4xl font-bold mb-2">{{ .Title }}</h1>
+      <h1 class="text-4xl font-bold dark:text-white mb-2">{{ .Title }}</h1>
       <div class="flex items-start space-x-4">
         <!-- Avatar -->
         {{ with .Params.icon }}
           <img src={{ . }} alt="Author avatar" class="w-12 h-12 rounded-full border">
         {{ end }}
         <!-- Meta -->
-        <div class="text-sm text-gray-700">
+        <div class="text-sm dark:text-gray-200 text-gray-700">
           <div>
               {{ with .Params.contributors }}          
                 by 
@@ -35,16 +35,17 @@
 
 
           <div class="flex">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="gray" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+            <svg class="dark:text-white" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="gray" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
 
-            <span class="px-4"> {{ .ReadingTime }} min read </span>
+            <span class="px-4 dark:text-gray-200"> {{ .ReadingTime }} min read </span>
 
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="gray" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="pl-4"><path d="M15 12h-5"/><path d="M15 8h-5"/><path d="M19 17V5a2 2 0 0 0-2-2H4"/><path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="gray" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="dark:text-white pl-4"><path d="M15 12h-5"/><path d="M15 8h-5"/><path d="M19 17V5a2 2 0 0 0-2-2H4"/><path d="M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3"/></svg>
 
-            <span class=""> {{ .WordCount }} words</span>
+            <span class="dark:text-gray-200"> {{ .WordCount }} words</span>
           </div>
         </div>
       </div>
+
 
       <!-- TOC toggle button -->
       <details class="group w-fit mt-4 rounded-md border border-gray-300 shadow-sm transition">

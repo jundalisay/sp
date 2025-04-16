@@ -20,13 +20,13 @@
       {{ $currentPath = printf "%s%s/" $currentPath $element }}
       {{ if ne $element $lastUrlElement }}
         <li class="breadcrumb-item">
-          <a href="{{ $currentPath | relLangURL }}" class="hover:text-blue-600">
+          <a href="{{ $currentPath | relLangURL }}" class="dark:text-gray-200 hover:text-blue-600">
             {{ humanize $element }}
           </a>
           <span class="px-2">></span>
         </li>
       {{ else }}
-        <li class="breadcrumb-item text-gray-900 font-medium">
+        <li class="breadcrumb-item text-gray-900 font-medium dark:text-gray-200">
           {{ humanize $element }}
         </li>
       {{ end }}

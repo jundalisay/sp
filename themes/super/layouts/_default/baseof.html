@@ -11,7 +11,9 @@
 
         {{ block "main" . }}{{ end }}
 
-        <button id="scrollToTopBtn" class="fixed bottom-4 left-4 z-50 hidden items-center justify-center p-3 rounded-full bg-blue-600 text-white shadow-lg transition-opacity duration-300 opacity-0 hover:bg-blue-700" aria-label="Scroll to top" > ↑ </button>
+        <span class="fixed z-50 right-4 bottom-4"><svg class="z-50 right-4 bottom-4" id="scrollToTopBtn" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#0091ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 9-6-6-6 6"/><path d="M12 3v14"/><path d="M5 21h14"/></svg></span>
+        
+
     </main>
     
     {{ partial "footer.html" . }}
@@ -22,22 +24,24 @@
         <span x-text="count"></span> </div> -->
    <!-- <script src="/js/cdn.min.js" defer></script> -->
   
-{{ $jsFiles := slice (resources.Get "/js/main.js") (resources.Get "/js/search.js") }}
-{{ $js := $jsFiles | resources.Concat "js/bundle.js" | js.Build | minify }}
+    {{ $jsFiles := slice (resources.Get "/js/main.js") (resources.Get "/js/search.js") }}
+    {{ $js := $jsFiles | resources.Concat "js/bundle.js" | js.Build | minify }}
 <script src="{{ $js.RelPermalink }}" defer></script>
+
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript" defer>
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/6306798e37898912e964f594/default';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+  s1.async=true;
+  s1.src='https://embed.tawk.to/6306798e37898912e964f594/default';
+  s1.charset='UTF-8';
+  s1.setAttribute('crossorigin','*');
+  s0.parentNode.insertBefore(s1,s0);
+  })();
 </script>
+
 
 <script type="text/javascript">
 const scrollToTopBtn = document.getElementById('scrollToTopBtn');
