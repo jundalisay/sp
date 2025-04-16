@@ -67,7 +67,7 @@ I am old and I like conversation more as I get older, so please stay with us. A 
 I think you have a good old life because you are rich.
 {{< /l >}}
 
-{{< left ava="Cephalus" >}}
+{{< l a="Cephalus" >}}
 Yes, but people think that wealth is the cause, rather than the person. I tripled the value of my parents' wealth.
 {{< /l >}}
 

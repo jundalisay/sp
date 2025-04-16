@@ -32,7 +32,7 @@ Then an economist, even if he does not possess wealth of his own, should be paid
 {{< /l >}}
 
 
-{{< right ava="Critobulus" >}}
+{{< r a="Critobulus" >}}
 He should get a large salary if, after paying the necessary expenses of the estate entrusted to him, he can create a surplus and improve the property.
 {{< /r >}}
 

@@ -3,13 +3,8 @@
     {{- $.Scratch.Add "index" (dict 
         "title" .Title 
         "permalink" .Permalink 
-        "description" .Description 
-        "content" .Plain 
+        "description" .Description
         "keywords" (delimit .Keywords ", ")
-        "author" .Params.author
-        "icon" (.Params.icon | relURL)
-        "date" (.Date.Format "2006-01-02")
-        "section" .Section
     ) -}}
 {{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+{{- $.Scratch.Get "index" | jsonify (dict "indent" false) -}}

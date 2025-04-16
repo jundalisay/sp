@@ -39,7 +39,7 @@ If we find any nature which is not destroyed by this inherent corruption, then i
 {{< /l >}}
 
 
-{{< right ava="Glaucon" >}}
+{{< r ava="Glaucon" >}}
 Yes, there are all the evils unrighteousness, intemperance, cowardice, ignorance.
 {{< /r >}}
 
@@ -133,7 +133,7 @@ You assumed that the just man should appear unjust and the unjust should appear 
 The eyes of gods and men will see through this illusion. But you still kept it so that pure justice could be weighed against pure injustice. Do you remember?
 {{< /l >}}
 
-{{< right ava="Glaucon" >}}
+{{< r ava="Glaucon" >}}
 I should be much to blame if I had forgotten.
 {{< /r >}}
 
@@ -148,7 +148,7 @@ Then their friend must be the just man.
 Even when he is in poverty, sickness, or misfortune, all things will in the end work together for good to him in life and death because the gods have a care of anyone whose desire is to become just and to be like God by the pursuit of virtue.
 {{< /l >}}
 
-{{< right ava="Glaucon" >}}
+{{< r ava="Glaucon" >}}
 Yes, if he is like God he will surely not be neglected by him.
 {{< /r >}}
 
