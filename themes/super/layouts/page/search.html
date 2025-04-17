@@ -46,38 +46,37 @@ document.addEventListener('DOMContentLoaded', function() {
   }
   
   function performSearch() {
-    const query = searchInput.value.toLowerCase().trim();
-    if (query.length < 2) {
-      resultsContainer.innerHTML = '<p class="dark:text-gray-100">Please enter at least 2 characters to search.</p>';
-      return;
-    }
-    
-    resultsContainer.innerHTML = '<p class="dark:text-gray-100">Searching...</p>';
-    
-    // Update URL with search query without reloading page
-    const url = new URL(window.location);
-    url.searchParams.set('q', query);
-    window.history.pushState({}, '', url);
-    
-    fetch('/index.json')
-      .then(response => response.json())
-      .then(data => {
-        const results = data.filter(item => {
-          const titleMatch = item.title && item.title.toLowerCase().includes(query);
-          const descMatch = item.description && item.description.toLowerCase().includes(query);
-          // const keywordsMatch = item.keywords && item.keywords.toLowerCase().includes(query);
-          
-          return titleMatch || descMatch;
-          //  || keywordsMatch;
-        });
-        
-        displayResults(results, query);
-      })
-      .catch(error => {
-        resultsContainer.innerHTML = '<p class="dark:text-red-100">Error fetching search data. Please try again later.</p>';
-        console.error('Search error:', error);
-      });
+  const query = searchInput.value.toLowerCase().trim();
+  if (query.length < 2) {
+    resultsContainer.innerHTML = '<p class="dark:text-gray-100">Please enter at least 2 characters to search.</p>';
+    return;
   }
+
+  resultsContainer.innerHTML = '<p class="dark:text-gray-100">Searching...</p>';
+
+  // Update URL with search query without reloading page
+  const url = new URL(window.location);
+  url.searchParams.set('q', query);
+  window.history.pushState({}, '', url);
+
+  fetch('/index.json')
+    .then(response => response.json())
+    .then(data => {
+      const results = data.filter(item => {
+        const titleMatch = item.title && item.title.toLowerCase().includes(query);
+        const descMatch = item.description && item.description.toLowerCase().includes(query);
+        const keywordMatch = item.keywords && item.keywords.toLowerCase().includes(query);
+        return titleMatch || descMatch || keywordMatch;
+      });
+
+      displayResults(results, query);
+    })
+    .catch(error => {
+      resultsContainer.innerHTML = '<p class="dark:text-red-100">Error fetching search data. Please try again later.</p>';
+      console.error('Search error:', error);
+    });
+}
+
   
   function displayResults(results, query) {
     if (results.length === 0) {

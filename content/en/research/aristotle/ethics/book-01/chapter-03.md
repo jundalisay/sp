@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

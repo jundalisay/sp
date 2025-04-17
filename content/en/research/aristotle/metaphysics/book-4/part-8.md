@@ -7,7 +7,7 @@ description: "The one-sided theories which some people express about all things 
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

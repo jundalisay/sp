@@ -7,7 +7,7 @@ description: "Some substances are recognized by everyone. But some have been adv
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

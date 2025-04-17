@@ -7,7 +7,7 @@ description: "Should the sciences inquire into the truths which are in mathemati
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

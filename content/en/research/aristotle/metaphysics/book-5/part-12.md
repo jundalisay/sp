@@ -7,7 +7,7 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 description: "Aristotle defines potency and incapacity"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

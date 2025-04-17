@@ -7,7 +7,7 @@ description: "Actuality is also better and more valuable than potentiality"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

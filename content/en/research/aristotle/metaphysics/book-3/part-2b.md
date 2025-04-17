@@ -7,7 +7,7 @@ description: "Should the sciences investigate all the kinds of causes?"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

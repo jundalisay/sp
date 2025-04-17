@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "What is to be avoided in respect of moral character there are three forms"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

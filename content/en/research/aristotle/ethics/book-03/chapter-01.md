@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "We must distinguish between what is voluntary and what involuntary."
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

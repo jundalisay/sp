@@ -9,7 +9,7 @@ description: "Philosophy is the single science of things which are many and diff
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

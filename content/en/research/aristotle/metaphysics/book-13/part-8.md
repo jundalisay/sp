@@ -7,7 +7,7 @@ description: "What is the differentia of a number and of a unit if it has a diff
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

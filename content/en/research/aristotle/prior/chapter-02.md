@@ -7,7 +7,7 @@ description: "A premise is a sentence affirming or denying one thing of another.
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

@@ -4,12 +4,8 @@
   {{ partial "head.html" . }}
 
   <body class="relative flex flex-col min-h-screen">
-    
-    
-    <main class="flex-1 dark:bg-black bg-white">
-    {{ partial "header.html" . }}
 
-        {{ block "main" . }}{{ end }}
+
 
 <!-- Scroll to Top SVG -->
 <button 
@@ -34,7 +30,12 @@
     <path d="M5 21h14"/>
   </svg>
 </button>
+    
+    
+    <main class="flex-1 dark:bg-black bg-white">
+    {{ partial "header.html" . }}
 
+        {{ block "main" . }}{{ end }}
     </main>
     
     {{ partial "footer.html" . }}
@@ -47,76 +48,8 @@
   
     {{ $jsFiles := slice (resources.Get "/js/main.js") (resources.Get "/js/search.js") }}
     {{ $js := $jsFiles | resources.Concat "js/bundle.js" | js.Build | minify }}
+
 <script src="{{ $js.RelPermalink }}" defer></script>
-
-
-<!--Start of Tawk.to Script-->
-<script type="text/javascript" defer>
-  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-  (function(){
-  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-  s1.async=true;
-  s1.src='https://embed.tawk.to/6306798e37898912e964f594/default';
-  s1.charset='UTF-8';
-  s1.setAttribute('crossorigin','*');
-  s0.parentNode.insertBefore(s1,s0);
-  })();
-</script>
-
-
-<script type="text/javascript">
-const scrollToTopBtn = document.getElementById('scrollToTopBtn');
-
-  // window.addEventListener('scroll', () => {
-  //   if (window.scrollY > 200) {
-  //     scrollToTopBtn.classList.remove('hidden');
-  //     scrollToTopBtn.classList.add('opacity-100');
-  //   } else {
-  //     scrollToTopBtn.classList.add('opacity-0');
-  //     setTimeout(() => {
-  //       if (scrollToTopBtn.classList.contains('opacity-0')) {
-  //         scrollToTopBtn.classList.add('hidden');
-  //       }
-  //     }, 300); // match the transition duration
-  //   }
-  // });
-
-  scrollToTopBtn.addEventListener('click', () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  });
-</script>
-
-
-
-<script>
-  // Mobile menu toggle
-  const menuToggle = document.getElementById("menu-toggle");
-  const menu = document.getElementById("menu");
-  const iconOpen = document.getElementById("icon-open");
-  const iconClose = document.getElementById("icon-close");
-
-  menuToggle.addEventListener("click", () => {
-    menu.classList.toggle("hidden");
-    iconOpen.classList.toggle("hidden");
-    iconClose.classList.toggle("hidden");
-  });
-
-  // Dark mode toggle
-  const toggleDarkMode = () => {
-    document.documentElement.classList.toggle("dark");
-    localStorage.theme = document.documentElement.classList.contains("dark") ? "dark" : "light";
-  };
-
-  // Load saved dark mode preference
-  if (
-    localStorage.theme === "dark" ||
-    (!("theme" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)
-  ) {
-    document.documentElement.classList.add("dark");
-  } else {
-    document.documentElement.classList.remove("dark");
-  }
-</script>
 
   </body>
 </html>

@@ -7,7 +7,7 @@ description: "If substances are not separate, and in the way in which individual
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

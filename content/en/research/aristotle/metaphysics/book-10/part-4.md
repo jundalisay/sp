@@ -4,7 +4,7 @@ title: "Contrariety according to Aristotle"
 weight: 6
 image: "/covers/meta.jpg"
 description: "Contrariety is the greatest difference between things"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

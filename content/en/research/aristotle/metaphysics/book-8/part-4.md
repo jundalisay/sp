@@ -4,7 +4,7 @@ title: "The Origin of Substance"
 weight: 8
 image: "/covers/meta.jpg"
 description: "Aristotle explains the original substance behind matter"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

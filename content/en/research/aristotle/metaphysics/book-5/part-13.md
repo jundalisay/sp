@@ -7,7 +7,7 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 description: "Aristotle defines Quantum and Quality"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

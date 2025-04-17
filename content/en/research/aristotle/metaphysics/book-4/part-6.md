@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Those who seek merely compulsion in argument seek what is impossible"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

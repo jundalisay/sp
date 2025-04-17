@@ -3,18 +3,25 @@
 @tailwind utilities;
 
 
+/*@font-face {
+  font-family: 'Baloo Bhaijaan 2';
+  src: url('/fonts/baloomed.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}*/
+
 @font-face {
   font-family: 'Nunito';
   src: url('/fonts/Nunito-Medium.ttf') format('truetype');
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Nunito';
-  src: url('/fonts/Nunito-Black.ttf') format('truetype');
+  src: url('/fonts/Nunito-Bold.ttf') format('truetype');
   font-weight: 700;
-  font-style: normal;
+  font-style: bold;
 }
 
 
@@ -146,7 +153,7 @@ body {
 .Aishah, .Mary, .Wife, .Woman, .Oracle, .Saradamani, .Brahmani, .Rahab, .Leah, .Gandhari {background-image: url(/icons/veil.png);}
 .Allah, .Spirit, .Soul {background-image: url(/icons/yellow.png);}
 .Anytus, .Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung, .Sons { background-image: url(/icons/g09.png) !important;}
-.aris, .Aristotle {background-image: url(/icons/aris.png) !important;}
+.aris, .Aristotle {background-image: url(/icons/Aristotle.jpg) !important;}
 .Arjuna, .Troops, .King, .Angulimala {background-image: url(/icons/arjuna.png);}
 .asker, .Asker {background-image: url(/icons/teacher.png);}
 .Athenian, .Noah, .Believers, .Priest-of-Sais, .Prophet, .Elders, .Jacob, .Parmenides, .Ischomachus, .pole, .Polemarchus, .Boy, .Critias, .Devotee, .Judge, .Man, .Apollodorus {   background-image: url(/icons/g04.png);}

@@ -7,7 +7,7 @@ description: "Some philosophers assert that it is possible for the same thing to
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

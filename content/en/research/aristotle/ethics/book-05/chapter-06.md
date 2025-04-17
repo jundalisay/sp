@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "The violator of Law is Unjust. The keeper of the Law is Just"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

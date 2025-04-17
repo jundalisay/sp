@@ -4,7 +4,7 @@ title: "Motion is Existed Before Creation"
 weight: 6
 image: "/covers/meta.jpg"
 description: "Substance is the principle and cause and first part of the universe, if the universe is a whole"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

@@ -7,7 +7,7 @@ description: "The infinite is either that which is incapable of being traversed 
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

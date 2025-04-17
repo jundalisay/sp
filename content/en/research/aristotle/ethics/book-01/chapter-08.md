@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "Are we then to call no man happy while he lives, and, as Solon would have us, look to the end?"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

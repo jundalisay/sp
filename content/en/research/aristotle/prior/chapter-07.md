@@ -7,7 +7,7 @@ description: "The substitution of an indefinite for a particular affirmative wil
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

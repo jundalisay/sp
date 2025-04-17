@@ -7,7 +7,7 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 description: "If there is nothing apart from individual things, and the individuals are infinitely many, how can we know the infinite individuals?"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

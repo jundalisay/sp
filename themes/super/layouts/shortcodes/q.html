@@ -8,7 +8,8 @@
   "David Hume" "hume"
 }}
 
-{{ $file := cond (in $avatars $a) (index $avatars $a) $a }}
+{{ $file := cond (isset $avatars $a) (index $avatars $a) $a }}
+
 
 
 <figure class="ani max-w-screen-md mx-auto py-4 lg:py-8">

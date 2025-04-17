@@ -7,7 +7,7 @@ description: "One thing has one contrary. How is one opposed to the many? How is
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

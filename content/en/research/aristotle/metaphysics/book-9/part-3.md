@@ -7,7 +7,7 @@ description: "If that which is deprived of potentiality is incapable, that which
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

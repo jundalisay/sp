@@ -7,7 +7,7 @@ description: "What is the cause of the unity of definitions and numbers?"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

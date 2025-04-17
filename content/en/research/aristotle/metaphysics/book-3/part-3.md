@@ -7,7 +7,7 @@ description: "Is it the genera that should be taken as elements and principles, 
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

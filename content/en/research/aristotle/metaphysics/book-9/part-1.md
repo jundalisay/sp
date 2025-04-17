@@ -7,7 +7,7 @@ description: "'Being' is in one way divided into individual thing, quality, and 
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

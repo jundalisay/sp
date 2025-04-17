@@ -7,7 +7,7 @@ writer:
 weight: 6
 image: "/covers/meta.jpg"
 description: "There are principles and causes which are generable and destructible without ever being in course of being generated or destroyed"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

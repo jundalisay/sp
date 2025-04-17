@@ -1,10 +1,12 @@
-{{- $.Scratch.Add "index" slice -}}
-{{- range where .Site.RegularPages "Type" "not in" (slice "page" "json") -}}
-    {{- $.Scratch.Add "index" (dict 
-        "title" .Title 
-        "permalink" .Permalink 
-        "description" .Description
-        "keywords" (delimit .Keywords ", ")
-    ) -}}
+[
+{{- $pages := where .Site.RegularPages "Type" "not in" (slice "page" "json") -}}
+{{- range $index, $page := $pages -}}
+  {{- if gt $index 0 }},{{ end }}
+  {
+    "title": {{ $page.Title | jsonify }},
+    "permalink": {{ $page.Permalink | jsonify }},
+    "description": {{ $page.Description | jsonify }},
+    "keywords": {{ delimit $page.Keywords ", " | jsonify }}
+  }
 {{- end -}}
-{{- $.Scratch.Get "index" | jsonify (dict "indent" false) -}}
+]

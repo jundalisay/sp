@@ -7,7 +7,7 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 description: "Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

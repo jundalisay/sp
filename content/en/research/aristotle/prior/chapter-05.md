@@ -7,7 +7,7 @@ description: "A syllogism cannot be perfect anyhow in this figure, but it may be
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

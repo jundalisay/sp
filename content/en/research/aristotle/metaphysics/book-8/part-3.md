@@ -4,7 +4,7 @@ title: "Matter and Number"
 weight: 6
 image: "/covers/meta.jpg"
 description: "Aristotle explains the generation and destruction of substances"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

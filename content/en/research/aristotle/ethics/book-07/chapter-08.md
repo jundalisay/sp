@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "Knowledge enough in respect of Virtue. We must further strive to have and exert it, and take whatever other means there are of becoming good."
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

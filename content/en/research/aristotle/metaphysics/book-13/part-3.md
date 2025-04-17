@@ -7,7 +7,7 @@ description: "The universal propositions of mathematics do not deal with objects
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

@@ -28,11 +28,8 @@ Therefore time and timespan are dependent on the current perception.
 
 The error is that people think that the current perception is dependent on the past, just as the future is dependent on the present. 
 
-Cartesian 
 
-
-
-##  Monty Python Fallac
+##  Monty Python Fallacy
 
 
 The same fallacy of treating events as not independent (as if there were a true starting point) is a fallacy of false motion or locality. 

@@ -7,7 +7,7 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 description: "Are numbers, bodies, planes, and points substances?"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

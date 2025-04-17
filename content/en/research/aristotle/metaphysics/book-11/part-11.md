@@ -7,7 +7,7 @@ description: "Some things change in an accidental sense, like that in which 'the
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

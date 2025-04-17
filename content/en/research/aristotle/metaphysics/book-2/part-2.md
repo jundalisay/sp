@@ -7,7 +7,7 @@ description: "There is a first principle. The causes of things are neither an in
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

@@ -7,7 +7,7 @@ description: "Desire depends on opinion. Opinion does not depend on desire. This
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

@@ -7,7 +7,7 @@ description: "The Pythagoreans saw many attributes of numbers belonging to sensi
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

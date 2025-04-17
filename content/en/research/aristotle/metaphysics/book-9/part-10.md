@@ -7,7 +7,7 @@ description: "The terms 'being' and 'non-being' are used in 3 ways"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

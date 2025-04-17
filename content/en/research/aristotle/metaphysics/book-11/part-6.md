@@ -7,7 +7,7 @@ description: "Protagoras said that man is the measure of all things. It means th
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

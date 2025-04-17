@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "The Pythagoreans think that Reciprocation is simply just."
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

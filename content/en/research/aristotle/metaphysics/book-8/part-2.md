@@ -4,7 +4,7 @@ title: "The Matter of Democritus"
 weight: 4
 image: "/covers/meta.jpg"
 description: "Matter has many differences"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

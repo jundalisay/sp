@@ -7,7 +7,7 @@ description: "Neither does he who says it exists maintain that it is the cause o
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 ---
 
 

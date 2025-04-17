@@ -4,7 +4,7 @@ heading: "Part 5"
 weight: 10
 image: "/covers/meta.jpg"
 description: "Aristotle explains the principles of the Pythagoreans"
-icon: "/icons/aris.png"
+icon: "/icons/Aristotle.jpg"
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
