@@ -9,18 +9,38 @@ contributors: ['Berkeley']
 
 6. Some Truths there are so near and obvious to the Mind, that a Man need only open his Eyes to see them.
 
-Such I take this Important one to be, to wit, that all the Choir of Heaven and Furniture of the Earth, in a word all those Bodies which compose the mighty Frame of the World, have not any Subsistence without a Mind, that their Being is to be perceived or known; that consequently so long as they are not actually perceived by me, or do not exist in my Mind or that of any other created Spirit, they must either have no Existence at all, or else subsist in the Mind of some eternal Spirit: It being perfectly unintelligible and involving all the Absurdity of Abstraction, to attribute to any single part of them an Existence independent of a Spirit. 
+<!-- Such I take this Important one to be, to wit, that all the Choir of Heaven and Furniture of the Earth, in a word all those -->
 
-To be convinced of which, the Reader need only reflect and try to separate in his own Thoughts the being of a sensible thing from its being perceived.
+All Bodies which compose the World have not any Subsistence without a Mind.
+
+Their Being is to be perceived or known.
+
+As long as they are not actually perceived by me, or do not exist in my Mind or that of any other created Spirit, they must either have no Existence at all, or else subsist in the Mind of some eternal Spirit.
+
+<!-- It being perfectly unintelligible and involving all the Absurdity of Abstraction,  -->
+
+It is absurd to attribute an Existence to any single part of them independent of a Spirit. 
+
+To be convinced of which, the Reader need only reflect and 
+
+To prove this, in your own mind, try to separate any sensible thing from its being perceived by your mind.
 
 
 7. It follows that there is not any other Substance than Spirit, or that which perceives. 
 
-But for the fuller proof of this Point, let it be considered, the sensible Qualities are Colour, Figure, Motion, Smell, Taste, and such like, that is, the Ideas perceived by Sense.
+<!-- But for the fuller proof of this Point, let it be considered,  -->
 
-Now for an Idea to exist in an unperceiving Thing, is a manifest Contradiction; for to have an Idea is all one as to perceive: that therefore wherein Colour, Figure, and the like Qualities exist, must perceive them; hence it is clear there can be no unthinking Substance or Substratum of those Ideas.
+The sensible Qualities are Colour, Figure, Motion, Smell, Taste, and such like, are the Ideas perceived by Sense.
 
-8. But say you, though the Ideas themselves do not exist without the Mind, yet there may be Things like them whereof they are Copies or Resemblances, which Things exist without the Mind, in an unthinking Substance. 
+
+It is a Contradiction for an Idea to exist in an unperceiving Thing. 
+
+To have an Idea is to perceive. 
+
+We must perceive Colour, Figure, and the like Qualities for them to exist. Hence, there can be no unthinking Substance or Substratum of those Ideas.
+
+
+8. You say that Ideas do not exist without the Mind, yet in an unthinking Substance, without a Mind, there might be Copies or Resemblances of those Things like them.
 
 I answer, an Idea can be like nothing but an Idea; a Colour or Figure can be like nothing but another Colour or Figure. If we look but ever so little into our Thoughts, we shall find it impossible for us to conceive a Likeness except only between our Ideas. 
 

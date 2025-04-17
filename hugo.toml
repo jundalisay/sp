@@ -91,6 +91,7 @@ pagerSize = 24
       title = "Superphysics: Science Merged with Metaphysics"
       subtitle = "A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems"
       lets = "Let's Solve All Problems!"
+      head = "The Sciences That Open Up The Universe"
       sub = "All Knowledge Can Be Grouped Into Three"
       banner = "/photos/physics/galaxy.jpg"
       youtube = "mNwyj7WHKKo"
@@ -118,28 +119,34 @@ pagerSize = 24
       author = "George Berkeley"
       src = "The Principles of Human Knowledge, Article 3"
 
-    [languages.en.params.cards.a]
+    [[languages.en.params.cards]]
       img = "/avatars/descartes.jpg"
       title = "Material Superphysics"
       sub = "The Soul of the Physical Universe without a Void"
       url = "/material/intro"
-    [languages.en.params.cards.b]
+    [[languages.en.params.cards]]
       img = "/photos/meta/yinyang.jpg"
       # img = "/avatars/hahnemann.jpg"
       title = "Bio Superphysics"
       sub = "The Nature of the Living Soul Integrated with Physicality"
       url = "/material/intro"
-    [languages.en.params.cards.c]
+    [[languages.en.params.cards]]
       img = "/avatars/smith.jpg"
       title = "Social Superphysics"
       sub = "The Soul of Society Made up of Living Souls"
       url = "/material/intro"
-    [languages.en.params.cards.d]
+    [[languages.en.params.cards]]
       img = "/avatars/buddha.jpeg"
       title = "Spiritual Superphysics"
       sub = "Unifying the Living Soul with the Oversoul into Void"
       url = "/material/intro"
+    [[languages.en.params.cards]]
+      img = "/photos/meta/om.jpg"
+      title = "Supermath and Qualimath"
+      sub = "Mathematics based on Base-3, Base-6, Shapes, and Qualities"
+      url = "/supermath"
 
+      
     [[languages.en.params.panels]]
       img = "/photos/econ/writer.jpg"
       title = "Evidence"
