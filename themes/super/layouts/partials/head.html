@@ -47,9 +47,6 @@
   {{ end }}
 
 
-  {{ if hugo.IsProduction }}
-    {{ $css = $css | minify | fingerprint | resources.PostProcess }}
-  {{ end }}
 
   {{ $css := resources.Get "css/main.css" }}
     {{ if $css }}
@@ -63,6 +60,12 @@
       <!-- CSS file not found -->
       <style>body { color: red; }</style>
     {{ end }}
+
+  {{ if hugo.IsProduction }}
+    {{ $css = $css | minify | fingerprint | resources.PostProcess }}
+  {{ end }}
+
+    
 
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   <link rel="icon" type="image/x-icon" href="/icons/sp.png">
