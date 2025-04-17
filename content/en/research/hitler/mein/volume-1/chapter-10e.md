@@ -24,9 +24,7 @@ Our solution is to attack the disease in its causes rather than in its symptoms.
 
 **The primary cause is how love has been prostituted.** 
 
-Even though this did not directly bring about the fearful disease itself, the nation must still suffer serious damage thereby, for t
-
-The moral havoc resulting from this prostitution can destroy the nation, slowly but surely. 
+Even though this did not directly bring about the fearful disease itself, the nation must still suffer serious damage thereby as the moral havoc resulting from this prostitution can destroy the nation, slowly but surely.
 
 This Judaizing of our spiritual life and mammonizing of our natural instinct for procreation will sooner or later work havoc with our whole posterity. 
 

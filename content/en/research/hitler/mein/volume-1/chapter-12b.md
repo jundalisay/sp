@@ -27,7 +27,7 @@ They will crush any attempt at a German revival, just as they smashed the German
 
 Thus she becomes excluded from the ranks of desirable allies. 
 
-For it is not we ourselves alone who are aware of the handicap that results from the existence of fifteen million Marxists, democrats, pacifists and followers of the Centre, in our midst, but foreign nations also recognize this internal burden which we have to bear and take it into their calculations when estimating the value of a possible alliance with us. 
+For it is not we ourselves alone who are aware of the handicap that results from the existence of 15 million Marxists, democrats, pacifists and followers of the Centre, in our midst, but foreign nations also recognize this internal burden which we have to bear and take it into their calculations when estimating the value of a possible alliance with us. 
 
 Nobody would wish to form an alliance with a State where the active portion of the population is at least passively opposed to any resolute foreign policy.
 
@@ -83,4 +83,3 @@ Therefore, only by winning over the broad masses to support the national idea ca
 <!-- as we can find a satisfactory solution for the problem  -->
 
  <!-- to be accomplished by a movement which does not strive merely to satisfy the needs of the moment but considers itself bound to examine in the light of future results everything it decides to do or refrain from doing.  -->
-

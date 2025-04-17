@@ -26,4 +26,12 @@
       {{ end }}
     </div>
   </div>
+
+    <span class="text-sm font-light">
+    {{ if (isset .Site.Params "copyright") }}
+    {{ .Site.Params.copyright | safeHTML }}
+    {{ else }}
+    {{ dateFormat "2006" now }} © {{ .Site.Title }}
+    {{ end }}
+    </span>
 </footer>
