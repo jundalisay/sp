@@ -100,7 +100,7 @@ Likewise, gaining the skill to detect the invisible metaphysical domain requires
 {{< /l >}}
 
 
-{{< q a="Descartes" c="Treatise on Man" >}}
+{{< q a="Rene Descartes" c="Treatise on Man" >}}
 Thus, in this way chimeras and hippogriffs are created in the imagination of people who dream while awake. They let loose their imagination through laziness, not diverted by any external objects, nor governed by reason.
 {{< /q >}}
 
@@ -161,7 +161,7 @@ Yes. It's more commonly known as theories that say that [we exist in a simulatio
 In the beginning, we used it to solve the personal problems of others. In time, we saw everyone having the same pattern of problems. So we organized everything into Superphysics principles to make problem-solving more efficient. We saw that David Hume, in his Treatise of Human Nature, was already ahead in this regard. So we organized our principles into three (Material, Bio, and Social) to match his three books. This also matches the categorization by Descartes.  
 {{< /l >}}
 
-{{< q a="Descartes" c="The Principles of Philosophy, Preface" >}}
+{{< q a="Rene Descartes" c="The Principles of Philosophy, Preface" >}}
 There are 3 principal sciences:
 1. Medicine
 2. Mechanics

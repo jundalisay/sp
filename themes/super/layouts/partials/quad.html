@@ -1,6 +1,6 @@
-<div class="grid grid-cols-2 md:grid-cols-4 gap-4 p-5">
+<div class="fly-in fly-in-left grid grid-cols-2 md:grid-cols-4 gap-4 p-5">
 
-      {{ range .Site.Params.cards }}
+  {{ range .Site.Params.cards }}
     <div class="relative max-w-xl mx-auto rounded-lg overflow-hidden shadow-lg hover:black">
         <img src="{{ .img }}" alt="{{ .title }}" class="w-full h-auto md:h-96 object-cover block">
         <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent"></div>
