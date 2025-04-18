@@ -3,7 +3,7 @@ title: "Supersociology FAQ"
 date: 2024-07-17
 image: /covers/faq.png
 description: "FAQ on Supersociology"
-icon: /icons/spmat.png
+icon: /icons/spsoc.png
 ---
 
 
@@ -12,7 +12,7 @@ What is Supersociology?
 {{< /r >}}
 
 
-{{< l a="Social-Superphysics" >}}
+{{< l a="Social Superphysics" >}}
 It's the implementation of Superphysics for societies. It's based on:
 - Socrates' Law on Social Cycles
 - Ibn Khaldun's group feelings
@@ -31,7 +31,7 @@ You mean society eats, poops, and grows?
 
 
 
-{{< l a="Social-Superphysics" >}}
+{{< l a="Social Superphysics" >}}
 We mean that society has a lifespan and interacts in certain ways with other society-organisms. As a metaphysical being, it is more energy than matter. It has cycles of behavior with ups and downs, just like energy can get stronger or weaker.
 
 Sometimes it is friendly with other societies, as seen in unions. Sometimes it is beligerent, as seen in wars and revolutions. 
@@ -42,7 +42,7 @@ Sometimes it is friendly with other societies, as seen in unions. Sometimes it i
 How would Social Superphysics solve the Israel-Hamas conflict?
 {{< /r >}}
 
-{{< l a="Social-Superphysics" >}}
+{{< l a="Social Superphysics" >}}
 By writing a new law-book that unifies the Torah and the Quran. The root cause of the conflict is that:
 - The Jews program their minds according to the Torah
 - The Muslims program their minds according to the Quran, which denounces the Torah 
@@ -56,7 +56,7 @@ How could that new law-book be created?
 {{< /r >}}
 
 
-{{< l a="Social-Superphysics" >}}
+{{< l a="Social Superphysics" >}}
 Ideally, Palestinians, Jews, and Arabs should get together and write it.
 
 Until then, our workaround is to unify them with the Anunnaki Quran and Old Testament, wherein we replace "God" and "Allah" with Enki. Hopefully, this will unify them by implying that they really are worshipping the same Enki (or faction of Enki) which merely had rivalries with other Anunnaki. 
@@ -66,7 +66,7 @@ Until then, our workaround is to unify them with the Anunnaki Quran and Old Test
 You mean the Zecharaiah Stitchin pseudo-science Anunnaki?
 {{< /r >}}
 
-{{< l a="Social-Superphysics" >}}
+{{< l a="Social Superphysics" >}}
 No. We mean the Sumerian, Babylonian, Jewish, Greek, Egyptian, Mayan Anunnaki from the original texts. We then cross reference these with various channeled information from aliens. We reject outright any inconsistencies in order to give us a big picture. 
 {{< /l >}}
 

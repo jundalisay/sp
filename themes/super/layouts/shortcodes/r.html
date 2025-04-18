@@ -1,5 +1,7 @@
-{{ $ava := .Get "ava" | default "" }}
 {{ $a := .Get "a" | default "" }}
+{{ $imgName := printf "%s.jpg" $a }}
+{{ $img := resources.Get (printf "icons/%s" $imgName) }}
+
 
       <!-- fly-in fly-in-right <span class="text-sm font-normal text-gray-500 dark:text-gray-400">Delivered</span> -->
 
@@ -10,5 +12,10 @@
       <p class="">{{ .Inner |  markdownify }}</p>
     </div>
   </div>
-   <img class="w-12 h-12 rounded-full" src="/icons/{{ $a }}.png" alt="{{ $a }}">
+  {{ if $img }}
+    <img class="w-12 h-12 rounded-full shadow-lg" src="{{ $img.Permalink }}" alt="{{ $a }}">
+  {{ else }}
+    <img class="w-12 h-12 rounded-full shadow-lg" src="/icons/blank.jpg" alt="Blank">
+  {{ end }}
 </div>
+
