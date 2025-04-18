@@ -1,7 +1,6 @@
 ---
 title: Social Superphysics
-description: "Social Superphysics is the branch of Superphysics that deals with the soul of society. It is divided into Supersociology and Superphysics"
-heading: "Made up of Supersociology and Economic Superphysics (Superphysics)"
+description: "In Vedic Philsophy, the soul (atman) is part of the oversoul (paramatman). We use this to explain how a society is a soul-orgnism made up of individual souls as its citizens or people. <p class='pt-4 text-lg dark:text-gray-200'>Social Superphysics is divided into Supersociology (Non-Economic Social Superphysics) based on Socrates and Ibn Khaldun, and Supereconomics (Economic Superphysics) based on Socrates and Adam Smith.</p>"
 image: "/photos/psych/freedom.jpg"
-youtube: 6R4PY3kPQD8
+youtube: Xw6tWGAIe04
 ---

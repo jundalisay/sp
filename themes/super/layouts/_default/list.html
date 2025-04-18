@@ -17,77 +17,82 @@
 
 
 
-<section class="container max-w-5xl mx-auto px-4 py-6">
-  <div class="mb-8">
-    <h1 class="mb-4 text-3xl font-bold">{{ .Title }}</h1>
-    {{ with .Content }}
-      <div class="prose max-w-none">{{ . }}</div>
-    {{ end }}
-  </div>
+<section class="container mx-auto py-8">
 
-  {{ $paginator := .Paginate .Pages }}
- 
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div class="p-4">
+          <h1 class="text-4xl font-bold mb-4">{{ .Title }}</h1>
+          <p class="text-lg dark:text-gray-200">
+            {{ .Description | safeHTML }}
+          </p>
+        </div>
+        {{ if .Params.youtube }}
+        <div class="aspect-w-16 aspect-h-9 m-4">          
+              <div class="aspect-w-16 aspect-h-9 m-12 p-12">
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 p-5">
-  {{ range $paginator.Pages }}
+                <iframe class="w-full h-full m-4 rounded-lg" src="https://www.youtube.com/embed/{{ . }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-    <div class="ani hover:bg-sky-200 dark:bg-gray-800 bg-white rounded-lg overflow-hidden shadow-lg transition-shadow duration-200">
-      <a href="{{ .Permalink }}">
-        {{ with .Params.image }}
-          <div class="aspect-[16/9] w-full overflow-hidden">
-            <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full h-full object-cover hover:scale-110">
+              </div>
+        </div>
+        {{ else }}
+          <img src="{{ .Params.image }}" class="rounded-lg shadow-lg m-4"> 
+        {{ end }}
+      </div>
+
+      {{ $paginator := .Paginate .Pages }}
+
+    {{ if or (eq .Section "evidence") (eq .Section "tech") }}
+
+      <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 p-5">
+        {{ range .Params.proofs }}
+          <div class="ani hover:bg-sky-200 dark:bg-gray-800 bg-white rounded-lg overflow-hidden shadow-lg transition-shadow duration-200">
+            <a href="{{ .url }}">
+                <div class="aspect-[16/9] w-full overflow-hidden">
+                  <img src="{{ .img }}" alt="{{ .title }}" class="w-full h-full object-cover hover:scale-110">
+                </div>
+              <div class="p-4">
+                <h3 class="leading-4 text-lg font-semibold text-gray-800 dark:text-white hover:text-blue-600">
+                  {{ .title }}
+                </h3>
+                <p class="text-sm leading-3 text-gray-800 dark:text-gray-200 py-2">{{ .sub }}</p>
+                <div class="!bg-{{ .color }}-100 !dark:bg-{{ .color }} dark:text-white text-xs px-2.5 py-0.5 rounded-lg">{{ .cat }}</div>
+              </div>
+            </a>
           </div>
         {{ end }}
-        <div class="p-4">
-          <p class="text-sm leading-3 text-gray-800 dark:text-gray-200 pb-2">{{ .Params.heading }}</p>
-          <h3 class="leading-4 text-lg font-semibold text-gray-800 dark:text-white hover:text-blue-600">
-            {{ .Title }}
-          </h3>
-        </div>
-      </a>
-    </div>
-
-  {{ end }}
-</div>
-
-
-
- 
-  <!-- <div class="space-y-8">
-    {{ range $paginator.Pages }}
-      <div class="card">
-        <h2 class="mb-2 text-xl font-bold">
-          <a href="{{ .RelPermalink }}" class="text-blue-600 hover:text-blue-800">{{ .Title }}</a>
-        </h2>
-        <div class="mb-4 text-sm text-gray-500">
-          <span>{{ .Date.Format "January 2, 2006" }}</span>
-          {{ with .Params.categories }}
-            <span class="mx-1">•</span>
-            <span>
-              {{ range $index, $category := . }}
-                {{ if $index }}, {{ end }}
-                <a href="{{ "categories/" | relLangURL }}{{ $category | urlize }}" class="hover:underline">{{ $category }}</a>
-              {{ end }}
-            </span>
-          {{ end }}
-        </div>
-        {{ with .Description }}
-          <p class="mb-4 text-gray-700">{{ . }}</p>
-        {{ else }}
-          <p class="mb-4 text-gray-700">{{ .Summary }}</p>
-        {{ end }}
-        <div class="flex flex-wrap gap-2">
-          {{ range .Params.tags }}
-            <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}" class="px-2 py-1 text-sm text-blue-600 bg-blue-100 rounded hover:bg-blue-200">{{ . }}</a>
-          {{ end }}
-        </div>
       </div>
-    {{ end }}
-  </div> -->
 
-<div class="flex flex-row min-h-screen justify-center items-center">
-  {{ template "_internal/pagination.html" . }}
-</div>
+
+    {{ else }}
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 p-5">
+        {{ range $paginator.Pages }}
+
+          <div class="ani hover:bg-sky-200 dark:bg-gray-800 bg-white rounded-lg overflow-hidden shadow-lg transition-shadow duration-200">
+            <a href="{{ .Permalink }}">
+              {{ with .Params.image }}
+                <div class="aspect-[16/9] w-full overflow-hidden">
+                  <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full h-full object-cover hover:scale-110">
+                </div>
+              {{ end }}
+              <div class="p-4">
+                <p class="text-sm leading-3 text-gray-800 dark:text-gray-200 pb-2">{{ .Params.heading }}</p>
+                <h3 class="leading-4 text-lg font-semibold text-gray-800 dark:text-white hover:text-blue-600">
+                  {{ .Title }}
+                </h3>
+              </div>
+            </a>
+          </div>
+
+        {{ end }}
+      </div>
+
+      <div class="flex flex-row min-h-screen justify-center items-center">
+        {{ template "_internal/pagination.html" . }}
+      </div>
+
+    {{ end }}
+
 
 </section>
 

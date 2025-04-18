@@ -1,3 +1,20 @@
+  <!-- {{ range $paginator.Pages }}
+          {{ with .Params.categories }}
+            <span class="mx-1">•</span>
+            <span>
+              {{ range $index, $category := . }}
+                {{ if $index }}, {{ end }}
+                <a href="{{ "categories/" | relLangURL }}{{ $category | urlize }}" class="hover:underline">{{ $category }}</a>
+              {{ end }}
+            </span>
+          {{ end }}
+        </div>
+        <div class="flex flex-wrap gap-2">
+          {{ range .Params.tags }}
+            <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}" class="px-2 py-1 text-sm text-blue-600 bg-blue-100 rounded hover:bg-blue-200">{{ . }}</a>
+          {{ end }} -->
+
+
 
 @layer base {
   /* Style headings within your main content area */
