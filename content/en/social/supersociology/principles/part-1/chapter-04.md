@@ -91,9 +91,8 @@ The root idea behind morality is happiness which is a positive wave from which o
 Hume's first virtues are justice and benevolence. This matches the idea of Socrates, who put prime importance to justice (which we interpret as dharma).
 
 
-{{< q a="David-Hume" >}}
+{{< q a="David Hume" c="An Enquiry Concerning The Principles Of Morals" >}}
 We shall begin by looking into the social virtues of benevolence and justice. This will then lead us to other social virtues.
-<cite>An Enquiry Concerning The Principles Of Morals</cite>
 {{< /q >}}
 
 
@@ -111,9 +110,8 @@ This would force backward humans to get their minds out of the monkey-state wher
 
 The John Stuart Mill also advocated a principle of happiness similar to Epicurus and Benhtam:
 
-{{< q a="John-Stuart-Mill" >}}
-The Greatest Happiness Principle says that actions which promote happiness are moral, actions which produce the reverse of happiness are immoral 
-<cite>Utilitarianism Simplified</cite>
+{{< q a="John Stuart Mill" c="Utilitarianism Simplified" >}}
+The Greatest Happiness Principle says that actions which promote happiness are moral, actions which produce the reverse of happiness are immoral.
 {{< /q >}}
 
 The two main differences between Superphysics Morals and such Utilitarian Morals is that the latter is:

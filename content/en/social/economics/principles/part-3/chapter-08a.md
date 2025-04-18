@@ -41,7 +41,7 @@ Violations of dharma and of those laws are caused by the Negative Force, as Yin 
 
 An example of a Negative push is from the mind of John Stuart Mill who equated happiness to physical or material pleasure. 
 
-{{< q a="John-Stuart-Mill" c="Utilitarianism" >}}
+{{< q a="John Stuart Mill" c="Utilitarianism" >}}
 The doctrine that the basis of morals is utility, or the greatest happiness principle, holds that actions are right in proportion as they tend to promote happiness, wrong in proportion as they tend to produce the reverse of happiness. 
 
 By ‘happiness’ is meant pleasure and the absence of pain; by ‘unhappiness’ is meant pain and the lack of pleasure.
@@ -50,7 +50,7 @@ By ‘happiness’ is meant pleasure and the absence of pain; by ‘unhappiness�
 
 This materialism is mirrored by Marx who made the Positive (spirit) subservient to the Negative (matter):
 
-{{< q a="Marx" c="Communist Manifesto" >}}
+{{< q a="Karl Marx" c="Communist Manifesto" >}}
 Man’s consciousness changes with every change in the conditions of his material existence. The history of ideas prove that intellectual production changes its character in proportion as material production is changed.
 
 The first step in the revolution is to make the proletariat the ruling class. They will then wrest all capital from the capitalists and centralise all production

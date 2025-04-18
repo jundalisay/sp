@@ -57,7 +57,7 @@ From here, we can explain the affinities and oppositions of different beliefs an
 
 <!-- However, they can do so only belatedly and indirectly. This is proven in Pigou's concept of 'waiting' for savings to be transformed into capital.  
 
-<div class="squote other" data-sal="slide-right">
+<div class="q" data-sal="slide-right">
 ‘Waiting’ simply means postponing consumption which a person has power to enjoy immediately, thus allowing resources, which might have been destroyed, to assume the form of production instruments.
 <cite>Pigou</cite>
 </div> -->

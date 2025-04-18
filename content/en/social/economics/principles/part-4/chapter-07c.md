@@ -38,23 +38,18 @@ The different mentalities of different economists has led to different meanings 
 
 
 
-
-
-
-
 The failure of quantitative easing, both in the US under Obama and in Japan as [Abenomics](/social/cycles/japan), is proof that the operations of banking cannot directly and immediately lead to economic growth, as explained by Adam Smith:  
 
-{{< q a="Adam Smith" >}}
+
+{{< q a="Adam Smith" c="The Simple Wealth of Nations Book 2, Chapter 2" >}}
 The judicious operations of banking can increase a country’s industry, not by augmenting the country’s capital, but by rendering most of that capital productive.
-<cite>The Simple Wealth of Nations Book 2, Chapter 2</cite>
 {{< /q >}}
 
 This is opposite the notion of Keynes that interest rates, set by banks, are the key to growing an economy:
 
 
-{{< q a="John-Maynard-Keynes" >}}
+{{< q a="Keynes" c="General Theory Simplified, Chapter 14 Appendix" >}}
 The interest rate policy of the central bank can alter the money supply. This makes it a real determinant of the economic scheme.
-<cite>Simplified General Theory, Chapter 14 Appendix</cite>
 {{< /q >}}
 
 
@@ -99,23 +94,22 @@ From here, we can explain the affinities and oppositions of different beliefs an
 
 From the era of Classical Economics of Xenophon and the early Marginal Revolution of Marshall up to Arthur Pigou (the 'last' Classical economist) of the 1920s, money, banking, and interest rates were not so critical in Economics as today. <!-- Money, interest rates, and banking were not so important during the Classical Era. --> In fact, Xenophon says that money can be banished and the economy would still work. This is supported by Adam Smith:
 
-{{< q a="Adam Smith" >}}
+
+{{< q a="Adam Smith" c="The Simple Wealth of Nations Book 4, Chapter 1" >}}
 Among the Mongols and shepherd nations who are ignorant of the use of money, cattle are the instruments of commerce and the measures of value. Wealth to them consisted in cattle, as to the Spaniards it consisted in gold and silver. <i>Of the two, the Mongol notion was the nearest to the truth.</i>
-<cite>The Simple Wealth of Nations Book 4, Chapter 1</cite>
+
 {{< /q >}}
 
 This is even supported by Ricardo, which was actually praised by Keynes:
 
-{{< q a="Ricardo" >}}
+{{< q a="Ricardo" c="Principles of Political Economy (p.511)" >}}
 The interest of money is not regulated by the rate at which the Bank will lend, whether it be whatever percent, but by the rate of profit which can be made by the employment of capital. This is totally independent of the quantity or of the value of money.
-<cite>Principles of Political Economy (p.511)</cite>
 {{< /q >}}
 
 This is **directly opposite** the belief of Keynes who established the love of cash as being fundamental to Economics, as liquidity-preference:
 
-{{< q a="John-Maynard-Keynes" >}}
+{{< q a="Keynes" c="General Theory Simplified" >}}
 The psychological time-preferences of an individual need two sets of decisions.<br>1. The time-preference which I call the "propensity to consume" -- this determines for each individual how much of his income he will consume and save.<br>2. His liquidity preference -- How long does he intend to have his money savings and not spend it?<br>The mistake of previous theories on the rate of interest is that they neglect the liquidity preference. This neglect is what we are repairing.
-<cite>Simplified General Theory</cite>
 {{< /q >}}
 
 Keynes made people believe that money supply and banking were the solutions to the problems of poverty*, inequality, recessions, bubbles, etc. The stagflation of the 1970's and the failure of quantitative easing after 2008 are double proofs that Keynes' understanding was wrong.

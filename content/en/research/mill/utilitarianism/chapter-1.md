@@ -81,9 +81,10 @@ Utilitarian arguments are indispensable.
 
 He laid down an universal first principle as the origin and ground of moral obligation:
 
-<div class="squote kant" data-sal="slide-right">
+{{< q a="Kant" >}}
 The moral rule is that which is <!--  So act, that the rule on which thou actest would admit of being --> can be adopted as a law by all rational beings.
-</div>
+{{< /q >}}
+
 
 But he fails to show how actual moral duties can actually be adopted by all. 
 

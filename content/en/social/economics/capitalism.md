@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 11b"
+# heading: "Chapter 11b"
 title: "What Defines Capitalism?"
 linkTitle: Capitalism
 # date: 2015-07-24
@@ -12,8 +12,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 ---
-
-
 
 <!-- > Summary: We define Capitalism as an economic system that uses outside ownership to amass private profits. -->
 
@@ -115,9 +113,8 @@ The main difference is the prevalence of private regulated companies, as guilds,
 
 <!-- The most significant characteristic of private regulated companies is their exclusivity, similar to guilds of the past. -->
 
-{{< q a="Adam Smith" >}}
+{{< q a="Adam Smith" c="Wealth of Nations Book 5" >}}
 The object of the bylaws of all regulated companies and all other corporations is to discourage others from becoming members... The directors of a regulated company, have no common capital to manage. They have no other fund to use for forts and garrisons other than the casual revenue from the admission fees and the corporation duties.
-<cite>Wealth of Nations Book 5</cite>
 {{< /q >}}
 
 
@@ -138,10 +135,10 @@ Thus, **we say that 'equity' is the cause of a very obvious effect of big capita
 
 Capitalism's birth in England and/or France can be narrowed down to after Smith's death in 1790 to before 1830 when its idea was already written about, as explained by Marx:
 
-{{< q a="marx" >}}
+{{< q a="Karl Marx" c="Capital, Preface, emphasis added" >}}
 Gustav von Gülich in his "Historical description of Commerce, Industry,"..in 1830, has examined at length the historical circumstances that prevented, in Germany, the development of the capitalist mode of production.. Thus the soil whence Political Economy springs was wanting. This "science" had to be imported from England and Franceas a ready-made article.. Since 1848 capitalist production has developed rapidly in Germany, and at the present time it is in the full bloom of speculation and swindling.
-<cite>Marx, Capital, Preface, emphasis added</cite>
 {{< /q >}}
+
 
 
 There were capitalist corporations, such as the South Sea Company, before the 1800s. But they were not so prevalent in  industry which were still dominated by guilds in the 18th century. 
@@ -156,9 +153,8 @@ The Netherlands and the Hanseatic league had weaker government support. This pre
 
 In fact, Thomas Mun wrote that the Dutch owed their commercial wealth to the British who empowered them to counteract the strength of Spain:
 
-{{< q >}}
+{{< q a="Thomas Mun" c="England's Treasure on Foreign Trade" >}}
 The Dutch Author of Mare Liberum cannot entitle the Dutch to fish in His Majesty's Seas.. But I am not saying that the Dutch should not be allowed to catch and carry them away from there without His Majesties licence. The fishing rights might be a good policy to keep them in league with England and in war against Spain.
-<cite>England's Treasure on Foreign Trade</cite>
 {{< /q >}}
 
 
@@ -167,9 +163,8 @@ From Britain, the seed ideas of modern capitalism went to France, as seen in JB 
 
 However, the single idea that sparked the growth of those seed ideas was James Mill who, in *Elements of Political Economy (1821)*, defined a capitalist as someone who owns the produce of the work of others, without actually working himself :
 
-{{< q a="John-Stuart-Mill" >}}
+{{< q a="John Stuart Mill" c="Chapter 1, Section 2" >}}
 In this sense of the term "owners of labour," the parties, concerned about production, are divided into two classes, that ofcapitalists, the rich men who supply the materials and instruments of production; and that of the workmen, who supply the labour.
-<cite>Mill, Chapter 1, Section 2</cite>
 {{< /q >}}
 
 
@@ -178,9 +173,8 @@ In this sense of the term "owners of labour," the parties, concerned about produ
 
 Note that in this sense,capitalist can only apply if the workers are **ACTUALLY SLAVES**:
 
-{{< q a="John-Stuart-Mill" >}}
+{{< q a="John Stuart Mill" c="Elements of Political Economy Chapter 1, section 2, emphasis added" >}}
 The labourer, who receives wages, sells his labour for a day.. The manufacturer, who pays these wages, buys the labour for the day..He is equally therefore the owner of the labour, with the manufacturer who operates with slaves.. the capitalist is the owner of both instruments of production: and the whole of the produce is his.
-<cite>Elements of Political Economy Chapter 1, section 2, emphasis added</cite>
 {{< /q >}}
 
 
@@ -207,11 +201,12 @@ This absurdity became fuel for Marx to attack Mill:
 <!-- ![Office Work](https://res.cloudinary.com/nara/image/upload/q_auto/office-work-slave_wcylhq.png) -->
 
  <!-- and aspired to be something more than mere sophists and sycophants of the ruling classes  , the most superficial..representative of the apologetic of vulgar economy; , the most superficial..representative of the apologetic of vulgar economy;  -->
-{{< q a="marx" c="Capital, Preface" >}}
+{{< q a="Karl Marx" c="Capital, Preface" >}}
 Men who claimed some scientific standing tried to harmonise the Political Economy of capital with the claims..of the proletariat. Hence a shallow syncretism of which John Stuart Mill is the best representative. Under these circumstances its professors fell into two groups:
 - the prudent, practical business folk flocked to Bastiat
 - the other.. followed John Stuart Mill in his attempt to reconcile irreconcilables.*
 {{< /q >}}
+
 
 {{< f f="*Note that 'reconciling irreconcilables' was also more recently done by Paul Samuelson in his 'neo-classical synthesis'" >}}
 
@@ -220,11 +215,10 @@ Marx' main description of capitalism as a system where resources are amassed thr
 
 <!-- , or shares of stocks -->
 
-{{< q a="marx" >}}
+{{< q a="Karl Marx" c="Capital, Preface">}}
 Capital grows in one place to a huge mass in a single hand, because it has in another place been lost by many. This is centralisation proper, as distinct from accumulation [which is] very slow compared to centralisation..
 
 The world would still be without railroads, if it had to wait for accumulation..Centralisation, on the other hand, accomplished this by a turn of the hand through stock companies.
-<cite>Marx, Capital, Preface</cite>
 {{< /q >}} 
 
  <!-- enabled a few individual capitals to undertake the construction of a railroad.  -->
@@ -266,9 +260,8 @@ However, such a system requires its government administrators to have a high deg
 
 Adam Smith says that the government can be in business as long as its people are responsible. This is proven by the success of China's state-owned corporations:
 
-{{< q a="Adam Smith" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 2" >}}
 Government management of mercantile projects like this requires orderly, vigilant, and parsimonious administration, like those in Venice and Amsterdam. But the government of England was never famous for good economy. In peacetime, she has been slothful and negligently profuse. This is perhaps natural to monarchies.
-<cite>The Simple Wealth of Nations Book 5, Chapter 2</cite>
 {{< /q >}}
 
 A well-run state capitalism* leads to less opportunities for private capitalism. This is why liberals say that governments have no business to be in business. They cherry-pick quotes from the Wealth of Nations to advocate deregulation and laissez faire, contrary to the original spirit of the book.

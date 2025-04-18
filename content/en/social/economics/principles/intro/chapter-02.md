@@ -6,6 +6,7 @@ date: 2022-03-27
 image: /photos/social/family.jpg
 description: "Essential to Supereconomics is the concept of the society-organism of Supersociology"
 weight: 8
+icon: /icons/pantry.png
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -42,7 +42,7 @@ Mathematics applies to physical, unconscious objects which have no free will, an
 
 If a 100% perfect prediction of human behavior were possible, then there would be no such thing as recessions, wars, and terrorism, as humans naturally avoid pain. Philosophically, this would imply that everything in existence is predetermined, which in turn would destroy the concept of free will.
 
-According to [David of Libertas Bella](https://blog.libertasbella.com/john-stuart-mill-quotes/), Mill spent most of his life working for the British East India Company, during which time he championed British imperialism. That company was among the most profitable organizations in the world, so it's not a surprise why he would champion the pleasures from utility, as well as the freedom to pursue that utility. 
+According to [David of Libertas Bella](https://blog.libertasbella.com/John Stuart Mill-quotes/), Mill spent most of his life working for the British East India Company, during which time he championed British imperialism. That company was among the most profitable organizations in the world, so it's not a surprise why he would champion the pleasures from utility, as well as the freedom to pursue that utility. 
 
 Once a person has tasted pleasures, he wants them more and more, eventually leading to excess:
 

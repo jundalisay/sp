@@ -47,11 +47,10 @@ From the time of Say and Ricardo, the classical economists have taught that supp
 
 J. S. Mill’s Principles of Political Economy explains this doctrine:
 
-{{< q a="John-Stuart-Mill" >}}
+{{< q a="John Stuart Mill" c="Principles of Political Economy, Book 3, Chapter 14" >}}
 The means of payment for commodities is simply commodities. Each person pays for the productions of other people with his own. All sellers are inevitably buyers. 
 
 If we could suddenly double the country's productivity, we would double the supply of commodities in every market. We would also double the purchasing power. Everybody would bring a double demand as well as supply. Everybody would be able to buy twice as much, because every one would have twice as much to offer in exchange. 
-<cite>Principles of Political Economy, Book 3, Chapter 14</cite>
 {{< /q >}}
 
 
@@ -59,7 +58,7 @@ Any individual act of abstaining from consumption causes the labour and commodit
 
 Marshall’s Pure Theory of Domestic Values[9] illustrates the traditional approach:
 
-{{< q a="marshall" >}}
+{{< q a="Marshall" >}}
 The whole of a man’s income is expended in the purchase of services and of commodities. A man spends some portion of his income and saves another. 
 
 But it is a familiar economic axiom that a man purchases labour and commodities with that portion of his income which he saves just as much as he does with that he is said to spend. He spends when he seeks to obtain present enjoyment from the services and commodities which he purchases. He saves when he causes the labour and the commodities which he purchases to be devoted to the production of wealth from which he expects to derive the means of enjoyment in the future.
