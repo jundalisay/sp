@@ -17,14 +17,14 @@ The Mercantile period from the 16th to the 18th centuries led to the amassment o
 
 This led to the modern development of native lands, at the cost of creating huge inequalities in wealth. This is because those land owners acted like feudal lords.
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 This original great engrossing of uncultivated lands might have been but a transitory evil.. Great tracts of uncultivated land were engrossed by particular families in this way. Such lands were prevented from being divided again.
 {{< /q >}}
 
 
 These inequalities hurt the country in the long run as it reduced the productivity of the land. 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 A great proprietor is seldom a great improver. He often did not have the inclination nor the needed abilities. He frequently had no stock to improve his lands because his expences frequently exceeded his revenue. If he was an economist, he generally found it more profitable to use his savings on new purchases than in improving his old estate. 
 {{< /q >}}
 
@@ -33,7 +33,7 @@ The period of Nationalism in the 20th century led to the redistribution of such 
 
 This is because private attention is better at increasing the land's productivity.  
 
-{{< q a="Adam-Smith" c="The Simple Wealth of Nations" >}}
+{{< q a="Adam Smith" c="The Simple Wealth of Nations" >}}
 To improve land with profit, like all other commercial projects, requires an exact attention to small savings and small gains. 
 
 A man born to a great fortune is seldom capable of this attention.. He would rather focus on ornaments which please his fancy.

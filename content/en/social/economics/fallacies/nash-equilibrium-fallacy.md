@@ -37,14 +37,14 @@ The competitive nature of the mercantile system leads to trade being a game, whi
 
 Smith, on the contrary, did not view trade as a competition, but as a cooperation between buyers and sellers:
 
-{{< q a="Adam-Smith" c="Simple Lectures on Jurisprudence" >}}
+{{< q a="Adam Smith" c="Simple Lectures on Jurisprudence" >}}
 Two persons trade undoubtedly for the advantage of both. Person A has more commodities than he needs, so he exchanges some of it for the useful commodity of Person B who agrees to the bargain on the same account. In this way, the mutual commerce is advantageous to both.
 {{< /q >}}
 
 
 He would therefore bash Game theory and the Equilibrium theory where it came from:
 
-{{< q a="Adam-Smith" c="Wealth of Nations, Book 4" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 4" >}}
 Nothing, however, can be more absurd than this whole doctrine of the balance of trade, upon which, not only these restraints, but almost all the other regulations of commerce are founded. When two places trade with one another, this doctrine supposes that, if the balance be even, neither of them either loses or gains; but if it leans in any degree to one side, that one of them loses and the other gains in proportion to its declension from the exact equilibrium. Both suppositions are false. 
 {{< /q >}}
 

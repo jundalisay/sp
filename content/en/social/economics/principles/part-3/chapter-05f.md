@@ -18,7 +18,7 @@ This is because an additional tax or contribution, payable in kind, will fund th
 
 To increase the fund, minimum wages must be abolished. This will allow low wages, but forced contributions to the Needs Fund. 
 
-{{< q a="Adam-Smith" c="Theory Of Moral Sentiments, Part 4" >}}
+{{< q a="Adam Smith" c="Theory Of Moral Sentiments, Part 4" >}}
 Wages rise from the continual increase of the national wealth, not from its actual greatness
 {{< /q >}}
 

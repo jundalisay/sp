@@ -143,7 +143,7 @@ This matches the crash of tech startups which were really just ideas, not matchi
 {{< /dc >}}
 
 
-{{< q a="Adam-Smith" c="The Wealth Of Nations Book 5" >}}
+{{< q a="Adam Smith" c="The Wealth Of Nations Book 5" >}}
 In businesses which can only be transacted with money, that money can always be found. If they do not find it, their failure is caused by their unnecessary and excessive enterprise, not of their poverty. It is not because they are poor that their payments are irregular and uncertain, but because they are too eager to become excessively rich.
 {{< /q >}}
 

@@ -149,6 +149,19 @@ body {
 }
 
 
+blockquote {
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 1.1;
+  font-style: normal !important;
+  word-break: break-word;
+  color: mediumseagreen !important;
+  border-left-color: seagreen !important;
+}
+
+strong {color: mediumseagreen !important;}
+
+
 .Adam, .Hunter {background-image: url(/icons/adam.png);}
 .Aishah, .Mary, .Wife, .Woman, .Oracle, .Saradamani, .Brahmani, .Rahab, .Leah, .Gandhari {background-image: url(/icons/veil.png);}
 .Allah, .Spirit, .Soul {background-image: url(/icons/yellow.png);}

@@ -15,7 +15,7 @@ People often mistake Smith to be the founder of Capitalism simply because he men
 
 Anyone who reads that book will learn that Smith was pro-poor and anti-rich as proven by his stand on giving living wages for the poor through profit-sharing: 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 It is but equity that those who feed, clothe and lodge the the people, should have such a share* of the produce of their own labour
 {{< /q >}}
 
@@ -36,22 +36,22 @@ And so facts like these were forgotten. It doesn't help that Smith passed the bu
 <!-- The establishment of a government gave security to industry that it shall enjoy the fruits of its own labour; It is the only encouragement industry requires -->
 <!-- Smith did not bother to explain these in detail because they have been already explained by other authors and it would be better to simply point the reader to them: -->
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 This scheme is explained fully by Mr. du Verney in his *Examination of the Political Reflections upon Commerce and Finances* of Mr. du Tot that I shall not give any account of them.
 {{< /q >}}
 
-{{< q a="Adam-Smith" c="On the Maxims of Mercantile System" >}}
+{{< q a="Adam Smith" c="On the Maxims of Mercantile System" >}}
 Mun’s book, *England’s Treasure in Foreign Trade*, became a fundamental maxim in the political economy of England and all commercial countries.
 {{< /q >}}
 
-{{< q a="Adam-Smith" c="On Utility, from Simple TMS Book 4, Chapter 1" >}}
+{{< q a="Adam Smith" c="On Utility, from Simple TMS Book 4, Chapter 1" >}}
 David Hume has answered most deeply, clearly, and elegantly as to why utility pleases.
 {{< /q >}}
 
 
 In other words, Smith is like saying, "I won't explain their works, you must read them yourself! Don't be lazy." Smith gives one clear instance of academic laziness causing mistakes in prices, which in turn contributed to the wrong economic policies being implemented:
 
-{{< q a="Adam-Smith" c="Wealth of Nations Simplified, Book 1, Chapter 11" >}}
+{{< q a="Adam Smith" c="Wealth of Nations Simplified, Book 1, Chapter 11" >}}
 They were misled by the careless transcription of ancient statutes by lazy copiers and by the legislature.
 {{< /q >}}
 

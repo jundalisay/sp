@@ -13,7 +13,7 @@ icon: /icons/spmat.png
 
 
 
-{{< q a="Adam-Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
+{{< q a="Adam Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
 [According to Descartes]..the Sun was the fiery center of a circular stream of ether, which flowed continually round her.
 {{< /q >}}
 

@@ -22,7 +22,7 @@ Supereconomics (Economic Superphysics) aims to solve all economic problems by ad
 The points-based valuation represents [the effort theory of value](/social/economics/principles/part-2/chapter-01b) which we derived from Adam Smith:
 
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 1, Chapter 5" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 1, Chapter 5" >}}
 Labour..is the only universal, as well as the only accurate measure of value.. by which we can compare the values of different commodities at all times and at all places.. From century to century, corn is a better measure than silver, because, from century to century, equal quantities of corn will command the same quantity of labour more nearly than equal quantities of silver. From year to year, on the contrary, silver is a better measure than corn, because equal quantities of it will more nearly command the same quantity of labour.
 {{< /q >}}
 

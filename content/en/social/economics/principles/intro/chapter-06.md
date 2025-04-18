@@ -35,12 +35,12 @@ These create a supereconomic science that is very different from the current one
 
 Economics Material Goal | Supereconomics Material Goal
 --- | ---
-Private Wealth separate from government and morality {{< q a="Say" >}}To me, these two very distinct inquiries have been..separated, the term political economy being now confined to the science..of wealth,<br> and that of politics, ..the relations.. between a government and its people"{{< /q >}} | Wealth of Society integrated with government & morality {{< q a="Adam-Smith" c="The Wealth Of Nations" >}} Political œconomy..proposes to enrich both the peopleand the sovereign."{{< /q >}}
+Private Wealth separate from government and morality {{< q a="Say" >}}To me, these two very distinct inquiries have been..separated, the term political economy being now confined to the science..of wealth,<br> and that of politics, ..the relations.. between a government and its people"{{< /q >}} | Wealth of Society integrated with government & morality {{< q a="Adam Smith" c="The Wealth Of Nations" >}} Political œconomy..proposes to enrich both the peopleand the sovereign."{{< /q >}}
 
 
 Economics Moral Basis | Supereconomics Moral Basis
 --- | ---
-Uncertain morality {{< q a="say" >}} progress has..(questioned) whether it is.. impossible that all should start in the world with a fair chance.. The question cannot be fully answered by economic science. For the answer depends.. on the moral and political capabilities of human nature (which) the economist has no.. special.. information"<cite>Alfred Marshall</cite>{{< /q >}} | Fellow-feeling (Theory of Moral Sentiments) {{< q a="Adam-Smith" c="The Wealth Of Nations Book 5" >}} In every civilized society..there were always two..systems of morality.."{{< /q >}}
+Uncertain morality {{< q a="say" >}} progress has..(questioned) whether it is.. impossible that all should start in the world with a fair chance.. The question cannot be fully answered by economic science. For the answer depends.. on the moral and political capabilities of human nature (which) the economist has no.. special.. information"<cite>Alfred Marshall</cite>{{< /q >}} | Fellow-feeling (Theory of Moral Sentiments) {{< q a="Adam Smith" c="The Wealth Of Nations Book 5" >}} In every civilized society..there were always two..systems of morality.."{{< /q >}}
 
 
 Economics Psychological Basis | Supereconomics Psychological Goal
@@ -62,7 +62,7 @@ Pricing System | Nominal (money) Prices Only | Nominal (money Or Metals) And Rea
 Main Theory | Equilibrium Theory And Marginal Utility ![Marginal Utility Wrong](https://sorasystem.sirv.com/charts/wrong.png)  | Natural Price Theory And Effort Theory Of Value  <img src="https://sorasystem.sirv.com/charts/right.png" alt="right">
 
 
- <!-- q a="Adam-Smith" >}}the gross revenue of (society) comprehends (their) whole annual produce.. (their) net revenue (is) what..they can place in their stock reserved for immediate consumption.. their real wealth.. is in proportion,not to their gross, but to their net revenue."<cite>Book 2, The Wealth Of Nations</cite> /q >}} -->
+ <!-- q a="Adam Smith" >}}the gross revenue of (society) comprehends (their) whole annual produce.. (their) net revenue (is) what..they can place in their stock reserved for immediate consumption.. their real wealth.. is in proportion,not to their gross, but to their net revenue."<cite>Book 2, The Wealth Of Nations</cite> /q >}} -->
 
 Economics Historical Examples | Supereconomics Motive and Measure
 --- | ---

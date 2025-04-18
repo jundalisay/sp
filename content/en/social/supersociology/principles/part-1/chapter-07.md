@@ -17,12 +17,12 @@ icon: /icons/sp.png
 In course of creating the new economic science, I’ve always wondered how the false beliefs of the Marginal Revolution were able to formalize themselves into the corrupted, dismal science called Modern Economics.
 
 
-{{< q a="Adam-Smith" c="The Wealth of Nations" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations" >}}
 Without a doubt, it was the spirit of monopoly which originally invented and propagated this doctrine. Those who first taught it were by no means such fools as those who believed it. In every country, it is always the people’s interest to buy whatever they want the cheapest. This proposition is so very manifest that it is ridiculous to take any pains to prove it. It could never have been questioned had not the sophistry of merchants and manufacturers confounded the common sense of mankind. Their interest is directly opposite of the people’s interest.
 {{< /q >}}
 
 
-{{< q a="Descartes" c="The World" >}}
+{{< q a="Rene Descartes" c="The World" >}}
 But, so that the sophists will not be able to exercise their superfluous subtleties, note that I do not thereby say that rectilinear motion can take place in an instant. Instead, I only say that all that is required to produce it is found in bodies in each instant that might be determined while they are moving, and not all that is required to produce circular motion.
 {{< /q >}}
 

@@ -1,3 +1,32 @@
+        <img class="w-12 h-12 rounded-full" src="/icons/{{ $file }}.jpg" alt="{{ $a }}">
+
+
+
+        <blockquote class="p-4 my-4 border-s-4 border-gray-300 bg-gray-50 dark:border-gray-500 dark:bg-gray-800">
+    <p class="text-xl italic font-medium leading-relaxed text-gray-900 dark:text-white">{{ . }}</p>
+</blockquote>
+
+
+
+{{ $a := .Get "a" | default "" }}
+
+{{ $avatars := dict
+  "Adam Smith" "Smith"
+  "Adam-Smith" "Smith"
+  "Baruch Spinoza" "Spinoza"
+  "David Hume" "hume"
+  "Descartes" "Rene Descartes"
+  "Foreigner" "Glaucon"
+  "Isaac Newton" "Newton"
+  "socrates" "Socrates"
+}}
+
+
+{{ $file := cond (isset $avatars $a) (index $avatars $a) "Blank" }}
+<!-- replace Blak with $$a  -->
+
+
+
   <!-- {{ range $paginator.Pages }}
           {{ with .Params.categories }}
             <span class="mx-1">•</span>

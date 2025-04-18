@@ -68,7 +68,7 @@ The need for money to pay taxes | Money is not needed
 The tax burden being transferred to the buyer instead of to the seller | The burden is on the productive sellers
 
 
-{{< q a="Adam-Smith" c="Wealth Of Nations, Book 5, Chapter 2" >}}
+{{< q a="Adam Smith" c="Wealth Of Nations, Book 5, Chapter 2" >}}
 The impossibility of taxing people according to their revenue by any capitation led to the invention of taxes on consumable commodities. The state, not knowing how to directly and proportionally tax the revenue of its subjects, taxes it indirectly by taxing their expence. Their expence is supposed to be proportional to their revenue.
 {{< /q >}}
 

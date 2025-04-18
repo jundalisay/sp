@@ -18,7 +18,7 @@ writer:
 The consumption or demand motive is one of the most important maxims of Adam Smith's economic system, aside from the [Effort Theory of Value](/social/economics/principles/part-2/chapter-01b). This maxim states that all economic activity is rooted in the people or the demanders in society and not in the producers or suppliers. 
 
 
-{{< q a="Adam-Smith" c="The Wealth Of Nations Book 4, Chapter 8" >}}
+{{< q a="Adam Smith" c="The Wealth Of Nations Book 4, Chapter 8" >}}
 Consumption is the sole end and purpose of all production. The interest of the producer ought to be attended to only so far as it may be necessary for promoting that of the consumer. **The maxim is so perfectly self-evident that it would be absurd to attempt to prove it.**
 
 But in the mercantile system the interest of the consumer is almost constantly sacrificed to that of the producer. It considers production, and not consumption, as the ultimate end and object of all industry and commerce.
@@ -57,7 +57,7 @@ It's common to hear that investment bankers (the ones that fund production) bein
 
 Smith very clearly explains that such a Production Motive is a mercantile sophistry:
 
-{{< q a="Adam-Smith" c="The Wealth Of Nations Book 4, Chapter 3" >}}
+{{< q a="Adam Smith" c="The Wealth Of Nations Book 4, Chapter 3" >}}
 By such maxims as these, nations have been taught that their interest consisted in beggaring all their neighbours. Each nation has been made to look with an invidious eye on the prosperity of the nations with which it trades, and to consider their gain as its own loss. 
 
 Commerce, which ought naturally to be, among nations,as among individuals, a bond of union and friendship, has become the most fertile source of discord and animosity.. But the mean rapacity, monopolizing spirit of merchants and manufacturers, who neither are, nor ought to be, the rulers of mankind may very easily be prevented.
@@ -84,7 +84,7 @@ Social View | Human creatures are customers and sellers of each other, isolated 
           <td>Downward sloping supply curve as people want<br> "to buy whatever they want of those who sell it cheapest".<br> Businesses will less likely attempt to create useless products or<br> those that cannot be sustainably produced because of limited resources.<br> Small companies can easily enter because of the bond of friendship</td> -->
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 Without a doubt, it was the spirit of monopoly which originally invented and propagated this doctrine. Those who first taught it were by no means such fools as those who believed it. In every country, it is always the people’s interest to buy whatever they want the cheapest. This proposition is so very manifest that it is ridiculous to take any pains to prove it. It could never have been questioned had not the sophistry of merchants and manufacturers confounded the common sense of mankind. Their interest is directly opposite of the people’s interest.
 {{< /q >}}
 

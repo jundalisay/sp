@@ -57,7 +57,7 @@ However, such a system requires its government administrators to have a high deg
 
 Adam Smith says that the government can be in business as long as its people are responsible. This is proven by the success of China's state-owned corporations:
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 Government management of mercantile projects like this requires orderly, vigilant, and parsimonious administration, like those in Venice and Amsterdam. But the government of England was never famous for good economy. In peacetime, she has been slothful and negligently profuse. This is perhaps natural to monarchies.
 <cite>The Simple Wealth of Nations Book 5, Chapter 2</cite>
 {{< /q >}}
@@ -122,9 +122,8 @@ From Britain, the seed ideas of modern capitalism went to France, as seen in JB 
 
 However, the single idea that sparked the growth of those seed ideas was James Mill who, in *Elements of Political Economy (1821)*, defined a capitalist as someone who owns the produce of the work of others, without actually working himself :
 
-{{< q a="John-Stuart-Mill" >}}
+{{< q a="John Stuart Mill" c="Chapter 1, Section 2">}}
 In this sense of the term "owners of labour," the parties, concerned about production, are divided into two classes, that ofcapitalists, the rich men who supply the materials and instruments of production; and that of the workmen, who supply the labour.
-<cite>Mill, Chapter 1, Section 2</cite>
 {{< /q >}}
 
 
@@ -133,9 +132,8 @@ In this sense of the term "owners of labour," the parties, concerned about produ
 
 Note that in this sense,capitalist can only apply if the workers are **ACTUALLY SLAVES**:
 
-{{< q a="John-Stuart-Mill" >}}
+{{< q a="John Stuart Mill" c="Elements of Political Economy Chapter 1, section 2, emphasis added" >}}
 The labourer, who receives wages, sells his labour for a day.. The manufacturer, who pays these wages, buys the labour for the day..He is equally therefore the owner of the labour, with the manufacturer who operates with slaves.. the capitalist is the owner of both instruments of production: and the whole of the produce is his.
-<cite>Elements of Political Economy Chapter 1, section 2, emphasis added</cite>
 {{< /q >}}
 
 
@@ -148,4 +146,3 @@ The labourer, who receives wages, sells his labour for a day.. The manufacturer,
 Economic Characteristics**: Market-driven economy, minimal regulation, and wealth accumulation through individual and corporate entrepreneurship.
 
 Examples**: Modern capitalist economies, especially in countries like the USA, UK, and most Western nations. -->
-

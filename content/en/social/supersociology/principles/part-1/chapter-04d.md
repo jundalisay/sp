@@ -41,14 +41,14 @@ In Buddhism, this comparing-action is called *prajna-paramita*, which is a feeli
 
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 The foundation of our moral faculties were given to us to direct of our conduct in this life, whether those foundations are from a modification of reason, an original instinct called a moral sense, or some other principle of our nature. They carry along with them the most evident badges of this authority. These denote that they were set up within us to be the supreme arbiters of all our actions, superintend all our senses, passions, and appetites, and judge how far each of them was to be indulged or restrained.
 {{< /q >}}
 
 
 In Buddhism, this moral sense is then part of human dharma, which Smith calls the invisible hand. However, even if this moral sense is present in all humans, it is not readily or so easily activated because it is very often clouded by ego or self love (ahamkara in Sanskrit):
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 He soon identifies himself with the ideal man within the breast. He soon becomes himself the impartial spectator of his own situation... If he wants the impartial spectator to enter into the principles of his conduct he must humblethe arrogance of his self-love..
 {{< /q >}}
 
@@ -69,7 +69,7 @@ The Western soldier sees this and his moral sense guides him to strike back at t
 Those victims suffer injustice and sees the moral duty to strike back. In all cases and without exception, **the ego is the cause of the corruption of moral sentiments** as it increases the sense of our own greatness, subsequently preventing the mind from putting itself in the situation of others as fellow-feeling.
 
 
-{{< q a="Adam-Smith" c="Theory of Moral Sentiments, Part 4" >}}
+{{< q a="Adam Smith" c="Theory of Moral Sentiments, Part 4" >}}
 However, it is also the great and most universal cause of the corruption of our moral sentiments. Moralists in all ages have complained that wealth and greatness are often regarded with the respect and admiration due only to wisdom and virtue, and that poverty and weakness is unjustly given the contempt due only to vice and folly.We desire to be respectable and to be respected. We dread to be contemptible and to be condemned.
 {{< /q >}}
 

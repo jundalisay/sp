@@ -43,7 +43,7 @@ As such, this situation merely keeps the money stuck in money markets and even m
 
 An easy proof is the [Vision Fund of Softbank](/social/economics/last-capitalist) which invests in non-Japanese companies like WeWork and Uber, and the [huge overseas investments by Japanese banks](https://www.japantimes.co.jp/news/2020/06/18/business/economy-business/banks-overseas-investments/) before and after the pandemic
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 In a country fully peopled.. the competition for employment would necessarily be so great as to reduce the wages of labour.. In a country fully stocked in proportion to all the business it had to transact.. the competition.. would everywhere be as great, and consequently the ordinary profit as low as possible
 {{< /q >}}
 
@@ -64,7 +64,7 @@ These will manifest as inflated prices and deflated real wages which prevent the
 
 For example, the previous generation never had to deal with supertyphoons, pandemics, and the permanently hot weather that they unknowingly created for the current generation. Rather, they knew about it but just didn't care.
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5" >}}
 The ruinous practice of perpetual funding puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
 {{< /q >}}
 
@@ -88,7 +88,7 @@ The failure of structural reforms is a sign that the influence of corporate Japa
 - Japanese employees are modern samurais who must work overtime for their daimyos and pay sales taxes to the shogun. Karoshi (death by overwork) is a modern variant of seppuku (ritual suicide), with the sense of honor operating from the back of their minds in both cases. This is not the case in most other countries.
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 Sir Robert Walpole tried to establish an excise scheme on wine and tobacco similar to my proposal. The bill with those two commodities was then brought into Parliament. It was supposed to be an introduction of a more extensive scheme of the same kind. Faction and smuggling merchants raised a violent and unjust clamour against that bill. The minister dropped it. None of his successors dared to resume the project from fear of exciting another clamour.
 <cite>The Simple Wealth of Nations Book 5</cite>
 {{< /q >}}

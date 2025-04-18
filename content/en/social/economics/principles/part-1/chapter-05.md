@@ -103,7 +103,7 @@ It is administered by a Gross National Happiness Index Commission that is tasked
 {{< i s="/graphics/econ/needs.jpg" a="Needs" c="We can use the Gross National Happiness Index of Bhutan as an implementation of the Supereconomic Hierarchy of Needs"  >}}
 
 
-{{< q a="Adam-Smith" c="The Wealth of Nations, Book 1 Chapter 11" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations, Book 1 Chapter 11" >}}
 After food, clothing and lodging are the two great wants of mankind.
 {{< /q >}}
 

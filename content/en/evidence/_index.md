@@ -40,26 +40,27 @@ proofs:
     img: "/photos/med/cancer2.jpg"
     title: "Bio Superphysics: Top-Down Fire"
     sub: "We successfully used Naturopathy against Stage 2 Breast Cancer (2014)"
+  - url: "https://www.pchrd.dost.gov.ph/news_and_updates/vco-supports-faster-recovery-from-covid-19-according-to-pchrd-funded-study/"
+    cat: "Bio Superphysics"
+    color: "amber"
+    img: "/photos/med/covid.jpg"
+    title: "Virgin Coconut Oil Against Covid"
+    sub: "We successfully used Virgin Coconut Oil (VCO) against Covid (2020). VCO was later proven by DOST-FNRI to scientifically diminish symptoms of Covid"    
+  - url: "https://en.wikipedia.org/wiki/Homeopathy"
+    cat: "Bio Superphysics"
+    color: "amber"
+    img: "/photos/med/homeo.jpg"
+    title: "Homeopathy Against Tooth Decay"
+    sub: "We successfully used Homeopathy against Tooth Decay (2023). Disclaimer: Unlike other alternative medicine, Homeopathy only works if you believe in it. Whether it works or not totally depends on you."   
+  - url: "https://en.wikipedia.org/wiki/Traditional_Chinese_medicine"
+    cat: "Bio Superphysics"
+    color: "amber"
+    img: "/photos/med/preg.jpg"
+    title: "Chinese Medicine to get Pregnant"
+    sub: "We successfully used Chinese Medicine to get Pregnant (2013)"  
 ---
 
-<!-- 
-      url = "https://www.pchrd.dost.gov.ph/news_and_updates/vco-supports-faster-recovery-from-covid-19-according-to-pchrd-funded-study/"
-      # url = "https://play.google.com/store/apps/details?id=com.pantrypoints.diet&pli=1"
-      img= "/photos/med/covid.jpg"
-      title = "Bio-Superphysics: Virgin Coconut Oil Against Covid"
-      sub = "We successfully used Virgin Coconut Oil (VCO) against Covid (2020). VCO was later proven by DOST-FNRI to scientifically diminish symptoms of Covid"
-    [languages.en.params.tricon5.items.h]
-      url = "https://en.wikipedia.org/wiki/Homeopathy"
-      img= "/photos/med/homeo.jpg"
-      title = "Bio-Superphysics: Homeopathy Against Tooth Decay"
-      sub = "We successfully used Homeopathy against Tooth Decay (2023). Disclaimer: Unlike other alternative medicine, Homeopathy only works if you believe in it. Whether it works or not totally depends on you."
-    [languages.en.params.tricon5.items.g]
-      url = "https://en.wikipedia.org/wiki/Traditional_Chinese_medicine"
-      img= "/photos/med/preg.jpg"
-      title = "Bio-Superphysics: Chinese Medicine to get Pregnant"
-      sub = "We successfully used Chinese Medicine to get Pregnant (2013)"
-
-    [languages.en.params.tricon5.items.l]
+<!-- [languages.en.params.tricon5.items.l]
       url = "/social/supersociology/precrisis-years/"
       img= "/photos/countries/ua/war.jpg"
       title = "Social Superphysics: The Crisis Years"

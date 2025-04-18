@@ -63,7 +63,7 @@ Therefore:
 
 Adam Smith explains:
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 At all times and places:
 - an expensive thing is something that is difficult or costs much labour to acquire
 - a cheap thing is something which is easy or costs very little labour to acquire

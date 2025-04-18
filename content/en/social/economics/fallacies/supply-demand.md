@@ -126,7 +126,7 @@ This is why economic slavery* is a real phenomenon in Economics through a system
 
 We found that Smith did mention that a commodity can be 'perfectly inelastic' if it matches the following conditions:
 
-{{< q a="Adam-Smith" c="Book 1, Chap 11, Digression" >}}
+{{< q a="Adam Smith" c="Book 1, Chap 11, Digression" >}}
 The first kind is the rude produce which human industry cannot multiply at all. Examples are: most rare birds and fishes, etc. Nature produces them only in certain quantities. They are very perishable.. Their demand increases with the increase in wealth and luxury. Their supply cannot increase beyond this increase of the demand. Their quantity remains the same while the competition to purchase continually increases. Their price may rise to any unlimited height. 
 {{< /q >}}
 
@@ -157,7 +157,7 @@ Supereconomist Answer:
 
  <!-- or increased bribe payments, adding to the cost.  -->
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 The natural price is the central price, to which the prices of all commodities are continually gravitating. Different accidents may sometimes keep them suspended a good deal above it.. But.. they are constantly tending towards it
 {{< /q >}}
 

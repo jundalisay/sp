@@ -13,7 +13,7 @@ icon: /icons/spsoc.png
 ---
 
 
-{{< q a="Sarkar" >}}
+{{< q a="PR Sarkar" >}}
 The sense of crime, therefore, has a parallelism with the concept of virtue and vice. The idea of virtue and vice is different in different countries.
 {{< /q >}}
 
@@ -54,8 +54,6 @@ These are subdivided into:
 - etc
 
 
-
-
 ‘Respectable’ virtues which are not so common:
 - self-command
 - generosity
@@ -69,7 +67,7 @@ These are subdivided into:
 The impartial spectator represents the moral sense in all humans. It regulates and balances the ego-based and sympathy-based virtues to produce happiness for all, even plants and animals. 
 
 
-{{< q a="Adam-Smith" c="Theory of Moral Sentiments" >}}
+{{< q a="Adam Smith" c="Theory of Moral Sentiments" >}}
 These must be left to the decision of the man within the breast, the supposed impartial spectator, the great judge and arbiter of our conduct.. It is strange that this sentiment, which Providence undoubtedly intended to be the governing principle of human nature, should have been so unnoticed that it has not gotten a name in any language. The word ‘moral sense’ is very recently formed. It cannot yet be considered as part of the English tongue. The word ‘conscience’ does not immediately denote any moral faculty by which we approve or disapprove. Conscience supposes the existence of some such faculty.
 {{< /q >}}
 

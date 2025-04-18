@@ -91,7 +91,7 @@ This is why both private and public debt ballooned and collapsed nearly at the s
 
 The evils of debt were very well known in the 18th century, especially to Adam Smith who blamed the finance industry for it:
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5" >}}
 Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
 {{< /q >}}
 

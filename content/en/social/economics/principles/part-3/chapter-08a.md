@@ -101,17 +101,17 @@ In Hinduism, the concept of dharma naturally leads to the concept of karma. Anyt
 
 Since karma is universal and timeless, it works the same way regardless of time and location, whether in the distant past, distant future, or in a very distant place. Selfish actions always and everywhere bring about something hurtful, or opposite of what was intended, in the long-run or even short-run:
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 At first sight, the monopoly of the great commerce of America seemed to have the highest value. The dazzling splendour of the object, however, is the very quality which renders the monopoly of it hurtful..
 {{< /q >}}
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 The regulations of each nation to secure the exclusive trade of its own colonies are frequently more hurtful to those colonies than beneficial.
 {{< /q >}}
 
  <!-- the countries in favour of which they are established than to those against which they are established. -->
 
-{{< q a="Adam-Smith" c="The Wealth of Nations" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations" >}}
 The unjust oppression of the industry of other countries falls back on the heads of the oppressors. It crushes their industry more than it does that of those other countries.
 
 The country's industry is turned away from an advantageous employment [because of the monopoly of the home market]. The value of its produce is reduced by such regulations instead of being increased according to the intention of the lawmaker

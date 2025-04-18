@@ -23,7 +23,7 @@ The fundamental flaw of Economics and economic systems is their singular focus o
 
 According to Adam Smith, this is wrong because the pleasure that we get from objects is impermanent. It is part of the deception of Nature (which in Eastern Philosophy is called Maya).
 
-{{< q a="Adam-Smith" c="Theory Of Moral Sentiments, Part 4" >}}
+{{< q a="Adam Smith" c="Theory Of Moral Sentiments, Part 4" >}}
 It is this deception which rouses and keeps in continual motion the industry of mankind.
 {{< /q >}}
 
@@ -32,7 +32,7 @@ It is this deception which rouses and keeps in continual motion the industry of 
 Materialists and selfish people usually point to the statement above to justify that Smith approves of utility and the profit motive, conveniently avoiding his other statements that are against utility:
 
 
-{{< q a="Adam-Smith" c="Theory Of Moral Sentiments, Part 4" >}}
+{{< q a="Adam Smith" c="Theory Of Moral Sentiments, Part 4" >}}
 Power and riches.. are enormous machines that produce a few trifling conveniencies to the body..ready every moment to burst into pieces and crush their unfortunate possessor.. But it is not this utility which is the principal source of our approbation.. It seems impossible that we would approve of virtue in the same way we approve of a well-made building.. **The sentiment of approbation that arises from the beauty of utility has no reference to the sentiments of others**.
 {{< /q >}}
 

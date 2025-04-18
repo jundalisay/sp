@@ -144,7 +144,7 @@ Trade Ratios | Description
 `GXt` | the rise or fall in exports as the society gets wealthier. A rising slope may indicate a manufacturing or agri country
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 <p>In every civilized society which has the distinction of ranks, there were always two systems of morality: the strict or austere and the liberal or loose system. The austere is generally admired and revered by the common people. The loose is commonly more esteemed and adopted by people of fashion. The vices of levity is apt to arise from great prosperity.</p>
 <cite>The Wealth of Nations, Book 5, Chapter 1</cite>
 {{< /q >}}

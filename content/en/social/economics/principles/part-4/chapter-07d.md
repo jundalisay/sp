@@ -59,7 +59,7 @@ The common justification is that by protecting their interests, employment is pr
 
 This is so easily countered by the fact that people can employ themselves as entrepreneurs, and each other as partnerships. This is especially true after the invention of the internet.
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 The proposal of any new commercial law which comes from this order, should always be listened to with great precaution. It should never be adopted until after long and careful examination with the most scrupulous and the most suspicious attention.
 {{< /q >}}
 
@@ -103,7 +103,7 @@ Slave wages have been a thing since the 1970's. Objectively, the baby boomers ha
 - They make the younger generations their economic slaves 
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 The natural price is the lowest..he is likely to sell them for any considerable time.. [It is]..the central price, to which the prices of all commodities are continually gravitating... The market price.. is regulated by the proportion between the quantity.. actually brought to market, and the demand of those who are willing to pay the natural price.
 {{< /q >}}
 

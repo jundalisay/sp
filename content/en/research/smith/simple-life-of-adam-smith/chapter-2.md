@@ -49,7 +49,7 @@ He told Dugald Stewart of Smith's fondness for math in those early days. Smith a
 
 His Theory of Moral Sentiments, published immediately before his death in 1790, has a high tribute to Simson's gifts and character. It illustrates his favourite proposition that men of science are much less sensitive to public criticism and much more indifferent to unpopularity or neglect than poets or painters because the excellence of their work allows easy and satisfactory demonstration, whereas the excellence of the poet or painter's work depends on uncertain judgments of taste. He points to Robert Simson as an example of this: 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 Mathematicians may have the most perfect assurance of the truth and of the importance of their discoveries. 
 
 They are frequently very indifferent about the public's reception. The two greatest mathematicians that I have been known to and are the two greatest in my time are Dr. Robert Simson of Glasgow and Dr. Matthew Stewart of Edinburgh. 

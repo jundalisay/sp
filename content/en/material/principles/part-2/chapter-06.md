@@ -53,7 +53,7 @@ This rule is the basis for:
 - Virtual particles filling "empty" space
 - Gravity pushing object down objects 
 
-{{< q a="Adam-Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
+{{< q a="Adam Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
 According to Descartes, through an eternal revolution from rest to motion and motion to rest, the amount of motion in the universe was always the same. But there was no void. 
 
 No part of matter could be moved without thrusting some other out of its place. The matter which any body pushed before it, rolled immediately backwards, to supply the place of that matter which flowed in behind it. 

@@ -59,9 +59,8 @@ In the end, both responses are the same, because they abandon the terrain to oth
 
 ## The Interests of the Least Well-Off
 
-{{< q >}}
+{{< q a="Jean Bouvier, François Furet, and Marcel Gillet" c="Le mouvement du profit en France au 19e siècle, 1965" >}}
 As long as the incomes of the various classes in society remain beyond the reach of scientific inquiry, there is no hope of producing a useful economic and social history.
-<cite>Le mouvement du profit en France au 19e siècle, Jean Bouvier, François Furet, and Marcel Gillet 1965</cite>
 {{< /q >}}
 
 That French book <!-- admirable sentence begins . The book is still worth reading, in part because it --> is a good example of the “serial history” that flourished in France between 1930 and 1980, with its characteristic virtues and flaws. It shows the intellectual trajectory of François Furet and explains why his research program eventually died out.

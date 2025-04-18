@@ -50,6 +50,17 @@ module.exports = {
             // },
             // ... other prose customizations you might have ...
           },
+          dark: {
+            css: {
+              color: theme('colors.gray.300'),
+              a: { color: theme('colors.blue.400') },
+              strong: { color: theme('colors.white') },
+              b: { color: theme('colors.white') },
+              h1: { color: theme('colors.white') },
+              h2: { color: theme('colors.white') },
+              h3: { color: theme('colors.white') },
+            },
+          },
         },
       }),
     },

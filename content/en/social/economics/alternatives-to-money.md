@@ -61,7 +61,7 @@ Money allows economic control which can have both good and bad effects. One one 
 
 To solve these problems, Adam Smith suggested grains and precious metals as the store of value: 
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Book 1 Chapter 5" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Book 1 Chapter 5" >}}
 Labour.. is the only universal and the only standard by which we can compare the values of different commodities at all times and at all places. <!-- We cannot estimate.. the real value of different commodities from century to century by the quantities of silver which were given for them. We cannot estimate it from year to year by the quantities of corn. By the quantities of labour we can, with the greatest accuracy, estimate it both from century to century and from year to year. -->From century to century, corn is a better measure than silver, because, from century to century, equal quantities of corn will command the same quantity of labour more nearly than equal quantities of silver. From year to year, on the contrary, silver is a better measure than corn, because equal quantities of it will more nearly command the same quantity of labour.
 {{< /q >}}
 
@@ -154,7 +154,7 @@ Adam Smith advocated wheat as the universal measure of long-term value because o
 
 He also explained that the relative stability of grains over oil and metals is due to the fact that grains can be grown by anyone. The drilling of oil and the prospecting for gold, in contrast, can only be done by people who have the required capital and expertise.
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 <p>..it may sometimes be of use to compare the different real values of a particular commodity at different times and places... We must in this case compare, not so much the different quantities of silver for which it was commonly sold, as the different quantities of labour which those different quantities of silver could have purchased. But the current prices of labour at distant times and places can scarce ever be known with any degree of exactness. Those of corn, though they have in few places been regularly recorded, are in general better known.. We must generally, therefore, content ourselves with them.</p>
 {{< /q >}}
 

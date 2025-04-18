@@ -54,13 +54,13 @@ The profit maximization doctrine of the merchant class stops growth. And so the 
 
 Thus, the public subsidizes the lavish lifestyle of the overgrown merchant class.
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge.
 <cite>The Wealth of Nations Simplified, Book 5, Chapter 2</cite>
 {{< /q >}}
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will bring the most dangerous disorders on the whole political body.
 <cite>The Wealth of Nations Simplified, Book 4, Chapter 7</cite>
 {{< /q >}}
@@ -70,7 +70,7 @@ In her present condition, Great Britain resembles an unwholesome body with some 
 Debt transfers the present huge burden and spreads it to the future in smaller chunks. Instead of one huge oppression now, the oppression is imposed gradually and with increasing weight.
 
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 3" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 3" >}}
 This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.
 
 However, it raises more money than the old practice of anticipation.
@@ -157,7 +157,7 @@ An open religious policy can:
 - increase productivity by replacing formal prayer (with its overhead) with informal ideation 
 
 
-{{< q a="Adam-Smith">}}
+{{< q a="Adam Smith">}}
 The religious teachers' interested zeal can be dangerous when only one sect is tolerated or when the society is divided into two or three great sects.
 <cite>Wealth of Nations, Book 5, Chapter 1</cite>
 {{< /q >}}
@@ -336,7 +336,7 @@ At the moment, the Philippines only has Western ideas and systems as a consequen
 
 <!-- This goes hand in hand with the open religious policy.  -->
 
-{{< q a="Adam-Smith">}}
+{{< q a="Adam Smith">}}
 The state should make the study of science and philosophy universal
 <cite>Wealth of Nations, Book 5, Chapter 1</cite>
 {{< /q >}}
@@ -365,7 +365,7 @@ The Romans therefore had laws against abortion but did not follow them.
  
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 Laws can never regulate wages properly, though it has often pretended to do so.
 <cite>The Wealth of Nations Simplified, Book 1, Chapter 8</cite>
 {{< /q >}}

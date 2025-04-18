@@ -54,7 +54,7 @@ But Smith recognized a limit to economic growth. He predicted that in the long r
 
 Smith never said such a thing like a limit to economic growth*. They conveniently misinterpreted Smith's following statements in Book 1 and 3 of the Wealth of Nations and then used it to justify its own ideas. This is the same way that Samuelson conveniently misinterpreted Smith's invisible hand to justify selfishness:
 
-{{< q a="Adam-Smith" c="Book 1, Chapter 9" >}}
+{{< q a="Adam Smith" c="Book 1, Chapter 9" >}}
 In a country fully peopled.. the competition for employment would necessarily be so great as to reduce the wages of labour to what was barely sufficient to keep up the number of labourers.. In a country fully stocked.. the competition.. would everywhere be as great, and consequently the ordinary profit as low as possible. 
 
 China seems to have been long stationary, and had probably long ago acquired that full complement of riches.. But this complement may be much inferior to what the nature of its soil, climate, and situation might admit of.
@@ -72,7 +72,7 @@ Change the system, balance the classes naturally, then such a situation can be a
 
 Another misinterpretation is the 200-year limit:
 
-{{< q a="Adam-Smith" c="Book 3, Chapter 4, Paragraph 20" >}}
+{{< q a="Adam Smith" c="Book 3, Chapter 4, Paragraph 20" >}}
 What would it have been had the law given no direct encouragement to agriculture besides what arises indirectly from the progress of commerce, and had left the yeomanry in the same condition as in most other countries of Europe?It is now more than 200 years since the beginning of the reign of Elizabeth,a period as long as the course of human prosperity usually endures.
 {{< /q >}}
 

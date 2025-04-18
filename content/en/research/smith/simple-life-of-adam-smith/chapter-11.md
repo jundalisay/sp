@@ -18,7 +18,7 @@ Sir William Hamilton thought that it was “perhaps the most philosophical essay
 
 Smith wrote the following letter to Mr. Baird= 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 Glasgow, February 7, 1763
 
 Dear Sir,

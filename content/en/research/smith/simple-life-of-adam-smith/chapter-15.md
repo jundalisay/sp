@@ -70,7 +70,7 @@ He was also a partner in Millar's publishing business.
 
 Smith wrote him on a Friday in London, some time during the winter of 1766-67.
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 My Dear Strahan,
 
 <!-- I go to the country for a few days this afternoon, so that it will be unnecessary to send me any more sheets until I return. -->

@@ -65,9 +65,8 @@ The resources branch takes away some of the motherly duties such as caring for t
 
 The British Exchequer is similar to the resources branch: 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" c="The Lectures on Jurisprudence" >}}
 The present revenues consist chiefly of.. the funds mortgaged for paying off the public debts. Examples are taxes on salt, beer, malt, etc., levied by the officers of custom and excise. These cannot be touched by the king as they are paid to the court of exchequer. The exchequer is generally managed by people of interest and integrity. They have their offices for life and are quite independent of the king. They can pay only to those appointed by parliament.
-<cite>The simple-lectures-on-jurisprudence</cite>
 {{< /q >}}
 
 
@@ -101,7 +100,6 @@ The idea for this branch came up while planning out the implementation of our ne
 
 The resources needed to run the system have to be used as efficiently as possible without an expensive adminstrative system. Thus, the idea for an automate-able resource branch came about, which will have its genesis as the resource banking system (which we call points banking) used to safeguard all transactions. 
 
->
 
 {{< youtube oJXjxLYQQ08 >}}
 

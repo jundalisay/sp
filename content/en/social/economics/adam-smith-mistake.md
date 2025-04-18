@@ -1,8 +1,9 @@
 ---
 title: "Adam Smith's Mistakes in the Wealth of Nations"
 heading: "Trusting the Merchants too much"
+linkTitle: Smith's Mistakes
 date: 2015-01-01
-image: /avatars/smithstatue.jpg
+image: /covers/smith.jpg
 description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
 writer:
   name: Juan
@@ -46,7 +47,7 @@ Despite his attack against merchants, it's very strange to see a passage in Smit
 
 <!-- For me, there is only one striking and significant error or wrong idea that has led to a big mistake that still exists today. It is Smith's advocacy of--> 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 If the society has insufficient capital to cultivate all its lands and to completely process all its rude produce, there is even a big advantage that its rude produce should be exported by a foreign capital. 
 
 This will allow the whole stock of society to be employed for more useful purposes. 

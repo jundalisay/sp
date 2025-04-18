@@ -40,7 +40,7 @@ Of course, that is **ABSOLUTELY FALSE**, since Smith pointed to [sympathy and be
 Samuelson merely cherry-picked Smith’s views on self-interest, which to Smith was a 'praise-worthy' positive quality, and then corrupted it into selfishness which is a negative quality:
 
 
-{{< q a="Adam-Smith" c="Theory Of Moral Sentiments Simplified, Part 7, Section 2, Chapter 3" >}}
+{{< q a="Adam Smith" c="Theory Of Moral Sentiments Simplified, Part 7, Section 2, Chapter 3" >}}
 Regard to our own private happiness and interest often appear as very laudable principles of action. The habits of oeconomy, industry, discretion, attention, and application of thought, are cultivated from self-interested motives. These habits are seen as very praise-worthy qualities.. 
 
 Our instinct for self-preservation instructs us to take proper care of our health, life, or fortune. A person who fails in this would be pitied. Carelessness and want of economy are universally disapproved of because it shows a lack of attention to the objects of self-interest and not because of the lack of benevolence.
@@ -91,20 +91,20 @@ Now that we have flushed Samuelson's invisible hand down the toilet, we can move
 
 Its best description is in The Theory of Moral Sentiments, wherein he describes the **innate human desire for things to work as they were meant to**:
 
-{{< q a="Adam-Smith" c="Theory Of Moral Sentiments Simplified, Part 4" >}}
+{{< q a="Adam Smith" c="Theory Of Moral Sentiments Simplified, Part 4" >}}
 A watch that falls behind more than 2 minutes in a day, is despised by one curious in watches. He sells it for 2 guineas and purchases another at 50 guineas which will not lose more than 1 minute in a fortnight.. What interests him is not the knowing the time, but the perfection of the machine to attain it.
 {{< /q >}}
 
 
 Humans have an innate desire for things to work as they were designed. This natural desire applies even to human systems such as resource allocation:
 
-{{< q a="Adam-Smith" c="Theory Of Moral Sentiments Simplified, Part 4 [emphases Added]" >}}
+{{< q a="Adam Smith" c="Theory Of Moral Sentiments Simplified, Part 4 [emphases Added]" >}}
 The proud and unfeeling landlord views his fields, and without a thought for his brethren, imagines to eat its whole harvest.. The capacity of his stomach is far less than the immensity of his desires and receives no more than that of the peasant. 
 
 <b>The rest of the food he is obliged to distribute among his servants</b>.. The rich.. divide with the poor the produce of all their improvements despite their selfishness. 
 {{< /q >}}
 
-{{< q a="Adam-Smith" c="Simple Theory Of Moral Sentiments, Part 4 [emphases Added]" >}}
+{{< q a="Adam Smith" c="Simple Theory Of Moral Sentiments, Part 4 [emphases Added]" >}}
 They are **led by an invisible hand to make nearly the same distribution of life’s necessities** which would have been made, had the earth been divided equally. Thus, without intending it, they advance the interest of the society..
 
 When Providence divided the earth.. it [did not forget]  those who were left out. In the <b>real happiness of human life</b>, [the poor] are not inferior to those who seem above them. In ease of body and <b>peace of mind</b>, all are nearly on a level. The beggar, who suns himself by the side of the highway, possesses that security which kings are fighting for.
@@ -173,13 +173,13 @@ Since we replaced selfish-interest with personal passion, we can safely edit the
 
 It is very important to note that personal interests should always be in line with the common interest: 
 
-{{< q a="Adam-Smith" c="Theory of Moral Sentiments Simplified, Part 6, Chapter 2" >}}
+{{< q a="Adam Smith" c="Theory of Moral Sentiments Simplified, Part 6, Chapter 2" >}}
 Every individual is continually exerting himself to find out the most advantageous employment for whatever capital he can command. It is his own advantage which he has in view [svadharma or personal interest], and not that of the society. But the study of his own advantage **naturally leads him to prefer that employment which is most advantageous to society** [human dharma or common interest].
 
 That wisdom which contrived the system of human affections and that of every other part of nature, seems to have judged that the interest of the great society of mankind [human dharma or common interest] would be best promoted by directing the principal attention of each individual to what was most within the sphere of his abilities and understanding [svadharma or personal interest].
 {{< /q >}}
 
-{{< q a="Adam-Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
 Every individual can, in his local situation [svadharma or personal interest], judge much better than any statesman on what domestic industry his capital produce the greatest value. The statesman who directs private people how they should employ their capitals would load himself with a most unnecessary attention.
 {{< /q >}}
 
@@ -207,7 +207,7 @@ So under either poverty or wealth, workers can degenerate. Here, then, is a disc
 {{< /q >}}
 
 
-{{< q a="Adam-Smith" c="Theory Of Moral Sentiments, Part 4, Chapter 1" >}}
+{{< q a="Adam Smith" c="Theory Of Moral Sentiments, Part 4, Chapter 1" >}}
 When a person finds the chairs [disordered in his bedroom], he takes the trouble to set them all in their proper places. This arises from the superior convenience of having the floor clear. To attain this convenience, he voluntarily puts himself to more trouble than all he could have suffered from its inconvenience. 
 
 Therefore, he wanted more of the arrangement of things which promotes the convenience, than the convenience itself.. 
@@ -224,7 +224,7 @@ If the invisible hand is a natural phenomena, then other societies should have n
 
 Both the Indians and Greeks define dharma as being a part or aspect of the Supreme Entity, exactly as Adam Smith described the invisible hand.  
 
-{{< q a="Adam-Smith" c="Origin Of Philosophy Simplified" >}}
+{{< q a="Adam Smith" c="Origin Of Philosophy Simplified" >}}
 In all Polytheistic religions.. only the irregular events of nature are ascribed to.. their gods. By.. their own nature: fire burns, water refreshes, heavy bodies descend, lighter substances fly upwards. 
 
 The invisible hand of Jupiter was never perceived in those matters. But the more irregular events were ascribed to Jupiter’s favour or anger: storms and sunshine, thunder and lightning.  Savages only knew the designing power of man. 

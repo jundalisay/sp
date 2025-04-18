@@ -57,7 +57,7 @@ Some people think that vegetarian diets are a relatively new trend. In reality, 
 - India has had it for thousands of years
 - England has already known it since the 18th century, as proven by Adam Smith, the founder of economics:
 
-{{< q a="Adam-Smith" c="The Wealth Of Nations Simplified, Book 5, Chapter 2" >}}
+{{< q a="Adam Smith" c="The Wealth Of Nations Simplified, Book 5, Chapter 2" >}}
 Meat is not a necessary of life. It is known from experience that grain and vegetables with the help of milk, cheese, butter or oil (where there is no butter) can afford the most plentiful, wholesome, nourishing, and invigorating diet without any meat. Decency does not require any man to eat meat as requires wearing a linen shirt.
 {{< /q >}}
 

@@ -33,3 +33,23 @@
     {{ end }}
   </ol>
 </nav>
+
+
+    <div id="breadcrumbs" class="text-gray-700 mb-4" style="text-decoration: none;">
+      <small>
+          {{- range .Ancestors.Reverse }}
+            {{ if .Params.linkTitle }}
+              <a href="{{ .RelPermalink }}">{{ .Params.linkTitle }}</a> /
+            {{- else }}
+              <a href="{{ .RelPermalink }}">{{ .Params.title }}</a> /          
+            {{- end }}
+          {{- end }}
+
+          {{ if .Params.linkTitle }}
+            <a href="{{ .RelPermalink }}">{{ .Params.linkTitle }}</a> /
+          {{- else }}
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{- end }}          
+
+      </small>
+    </div>

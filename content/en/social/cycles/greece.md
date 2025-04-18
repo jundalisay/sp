@@ -94,7 +94,7 @@ This is very similar to the Latin American debt crisis wherein petrodollars need
 
 The evils of debt were very well known in the 18th century, especially to Adam Smith who blamed the finance industry for it:
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5" >}}
 Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
 {{< /q >}}
 
@@ -139,7 +139,7 @@ However, because of the doctrine of utility and profit maximization from the Mar
 
 This added burden divided the attention of government. On one hand, it needs to keep wages high to keep the people happy. But on the other hand, it needs to keep wages low to keep businesses happy. To keep both happy, the government merely passes the burden to future generations as a growing national debt.
 
-q a="Adam-Smith"
+q a="Adam Smith"
 Small republics sometimes derived a big revenue from the profit of mercantile projects. The republic of Hamburgh derived revenue from the profits of a public wine cellar and pharmacy. Government management of mercantile projects like this requires orderly, vigilant, and parsimonious administration, like those in Venice and Amsterdam.
 <cite>The Simple Wealth of Nations Book 5</cite>
 /q
@@ -149,7 +149,7 @@ Small republics sometimes derived a big revenue from the profit of mercantile pr
 
 Smith explained that debt is good for the merchant class, but bad for the ruling and working classes because it does not always increase the society’s productive capital and frequently drains it away through unproductive uses:
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 3" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 3" >}}
 In return for the capital they advanced, the creditors obtained an annuity in the public funds of more than equal value. This annuity replaced their capital and carry on their trade and business to a greater extent than before. 
 
 However, this new capital which they bought or borrowed from other people must have existed in the country before. It must have been employed in maintaining productive labour. 
@@ -171,7 +171,7 @@ The same thing happened during the Latin American debt crisis where huge amounts
 
 Smith would simply throw away such corrupt policies:
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 Restraining private people from receiving the promissory notes of a banker which they are willing to receive, and restraining a banker from issuing such notes everyone is willing to accept are violations of that natural liberty which the law should support and not infringe. 
 <br><br>
 Such regulations may be considered a violation of natural liberty. But those exertions of the natural liberty of a few individuals which might endanger the security of the whole society, should be restrained by the laws of all governments.
@@ -189,7 +189,7 @@ Based on the chart below, Greece’s government spending, as a percentage of GDP
 
 In short, Greece’s monetary problem, sparked by the 2008 Credit Crunch, exposed its fiscal problem: that **its government was spending non-productively and unsustainably while banks kept on feeding it**. This in turn is likely due to Greece seeing EU membership as its ticket to riches:
 
-q a="Adam-Smith"
+q a="Adam Smith"
 It is not because they are poor that their payments are irregular and uncertain, but because they are too eager to become excessively rich.
 <cite>The Simple Wealth of Nations Book 5</cite>
 
@@ -202,7 +202,7 @@ Instead, society or family members naturally share the burden for the sake of th
 
 ## The Solution: Pool Clearing
 
-{{< q a="Adam-Smith" c="Wealth of Nations Simplified, Book 4, Chapter 1" >}}
+{{< q a="Adam Smith" c="Wealth of Nations Simplified, Book 4, Chapter 1" >}}
 If gold and silver should fall short in a country which can buy them, there would be more expedients for supplying them than almost any other commodity. If the materials of manufacture are wanted, industry must stop. If provisions are wanted, the people must starve. But if metal money is wanted, barter will supply its place, though with much inconvenience.
 {{< /q >}}
 

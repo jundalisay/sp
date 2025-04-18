@@ -17,7 +17,7 @@ icon: /icons/pantry.png
 Stagnation is a common phenomenon in large and developed countries. It is called a 'stationary' state by Adam Smith and usually happens when everyone has achieved their natural state of wealth:
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 In a country fully peopled.. the competition for employment would necessarily be so great as to reduce wages to the minimum needed to keep up the number of labourers. The population would not increase since the country is already populous.
 
 In a country fully stocked with as much business and stock as possible, the competition would everywhere be so great. It would reduce the ordinary profit as low as possible.

@@ -11,11 +11,12 @@ A sophistry is a half-truth, or a fallacy that has some bits of relative truths 
 
 Fallacies naturally come from the limited abilities of humans. This is imposed by Nature itself:
 
-{{< q a="Descartes" c="Meditations, Part 1" >}} 
+{{< q a="Rene Descartes" c="Meditations, Part 1" >}} 
 I shall suppose that some malicious, powerful, cunning demon has done all to deceive me. I shall think that the sky, air, earth, shapes, and all external things are dreams that the demon has contrived as traps for my judgment.
 
 Like a prisoner who dreams that he is free, my laziness starts to suspect that my reality is merely a dream. It wants to go on dreaming rather than waking up. I fear being shaken out of my dream because I am afraid to realize the prison that I am in
 {{< /q >}}
+
 
 This is why all systems of knowledge created by humans have some fallacies in it:
 
@@ -43,14 +44,14 @@ The Sophist has a sort of conjectural or apparent knowledge, which is not the tr
 Sophistries exploit the limitation of humans to know the truth behind phenomena. 
 
 
-{{< q a="Adam-Smith" c="Theory of Moral Sentiments" >}}
+{{< q a="Adam Smith" c="Theory of Moral Sentiments" >}}
 It has been said that in paying the interest of the public debt, it is the right hand which pays the left and the money does not go out of the country. The nation is not a tiny bit poorer. **This is based in the sophistry of the mercantile system.** It supposes that the whole public debt is because of the people, which is not true.
 {{< /q >}}
 
 
 Their most common technique is to **exploit the ambiguity of words**. This is the same tactic used by lawmakers to insert loopholes into laws that they will then exploit and profit from. 
 
-{{< q a="Adam-Smith" c="Theory of Moral Sentiments" >}}
+{{< q a="Adam Smith" c="Theory of Moral Sentiments" >}}
 Money in common language frequently signifies wealth. This **ambiguity of expression** has rendered this popular notion so familiar to us. Even they who are convinced of its absurdity are very apt to forget their own principles.
 {{< /q >}}
 
@@ -162,7 +163,7 @@ It would have been better to sleep for 100 years achieving nothing than waste so
 
 Lorentz and Poincare were wise to keep time psychological and avoided the temptation to use physical light as the basis for psychological time:
 
-{{< q a="Poincare" c="The Measure of Time" >}}
+{{< q a="Henri Poincare" c="The Measure of Time" >}}
 We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion. What do I mean when I say, from 12 noon to 1 pm, the same time passes as from 2 pm to 3 pm?
 
 The least reflection shows that by itself it has no meaning at all. It will only have the meaning that I give to it, making it arbitrary.
@@ -176,7 +177,7 @@ Poincare created the first Relativity theory, but never won a Nobel Prize becaus
 
 Both Poincare and Sabine Hossenfelder blames the collapse of Physics to the dominance of mathematicians who are out of touch with reality.  
 
-{{< q a="Poincare" c="The Measure of Time" >}}
+{{< q a="Henri Poincare" c="The Measure of Time" >}}
 The mathematicians of the Berlin school have devoted themselves to constructing this continuous scale of irrational and fractional numbers using only the integer. The mathematical continuum from this point of view would be a pure creation of the mind in which experiment would have no part
 {{< /q >}}
 
@@ -263,7 +264,7 @@ For material bodies, such as vehicles, this can be done by applying Maxwell's 4t
 - Instead of manipulating charged particles to create magnetism, the aetherspace of the atom is maniuplated to cancel gravity.
 - This aetherspace is Bob Lazar's Gravity-A waves which are used by UFOs to levitate and teleport
 
-{{< youtube cJWzBCV0ksc >}}
+{{< youtube 0dXvYASaIx4 >}}
 
 Lorentz should have done this if he had only focused on the Huygens aether instead of the Fresnel aether. 
 

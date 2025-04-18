@@ -70,7 +70,7 @@ Under the influence either of poverty or of wealth, workers can degenerate. Here
 <cite>The Simple Republic, Book 2</cite>
 {{< /q >}}
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 Every unnecessary accumulation of money is a dead stock which could be employed in enriching the nation by foreign commerce.
 <cite>Lectures On Jurisprudence</cite>
 {{< /q >}}

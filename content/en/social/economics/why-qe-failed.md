@@ -30,11 +30,10 @@ From providing stability, **the Fed went for promoting growth**--this is the fir
 
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" c="Wealth of Nations Book 2 Chapter 2" >}}
 The circulation of every country is divided into 2 branches:
 1. The circulation of the dealers with one another
 2. The circulation between the dealers and the consumers
-<cite>Wealth of Nations Book 2 Chapter 2</cite>
 {{< /q >}}
 
 

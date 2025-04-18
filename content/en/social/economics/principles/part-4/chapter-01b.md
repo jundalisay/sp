@@ -40,7 +40,7 @@ Note that this only mutes God and does not cancel It. The unmuting can be done s
 In the Theory of Moral Sentiments, Adam Smith explains that the inherent design of an economy, as facilitated by an invisible hand, is to keep on producing utility for society.
 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 The proud and unfeeling landlord views his extensive fields, and without a thought for his brethren, he imagines to eat its whole harvest.. The capacity of his stomach is far less than the immensity of his desires.. <b>The rest of the food he is obliged to distribute</b> among his servants.. The rich.. divide with the poor the produce of all their improvements despite their natural selfishness and rapacity. They are led by an **invisible hand** to make nearly the same distribution of life’s necessities which would have been made, had the earth been divided equally among all its inhabitants.
 {{< /q >}}
 
@@ -53,7 +53,7 @@ Thus, the personal interests of the landlord and his employees work together nat
 It is by this focus (not selfishness) that they were able to improve their skills and increase their productivity (personal interest) for the benefit of everyone as the public interest.
 
 
-{{< q a="Adam-Smith" c="Wealth Of Nations Book 4 [revised with 'passion']" >}}
+{{< q a="Adam Smith" c="Wealth Of Nations Book 4 [revised with 'passion']" >}}
 Every individual necessarily works to render the society’s annual revenue as great as he can. He generally does not intend to promote the public interest, or know how much he is promoting it. 
 
 By supporting domestic industry over foreign industry, he intends only his own security. By directing that industry to produce the greatest value [for society], he intends only his own gain. 
@@ -64,7 +64,7 @@ In this case, as in many other cases, he is led by an **invisible hand** to prom
 
 Here, we replace selfish-interest with personal passion, to make everything coherent:
 
-{{< q a="Adam-Smith" c="Wealth Of Nations Book 4" >}}
+{{< q a="Adam Smith" c="Wealth Of Nations Book 4" >}}
 By pursuing his own ~~self-interest~~ passion, he frequently promotes the society’s interest more effectively than when he really intends to promote it. 
 
 I have never known much good done by those who affected to trade for the public good. It is an affectation not very common among merchants.
@@ -72,7 +72,7 @@ I have never known much good done by those who affected to trade for the public 
 
 We can even replace it with specialization, overseen by the state, for more practical applications:
 
-{{< q a="Adam-Smith" c="Wealth Of Nations Book 5, Chapter 1" >}}
+{{< q a="Adam Smith" c="Wealth Of Nations Book 5, Chapter 1" >}}
 The art of war is certainly the noblest of all arts.. To make it perfect, it should be the sole or principal occupation of a class of citizens. The division of labour is:
 - necessary for the improvement of this art as in every other art, and
 - naturally introduced by the prudence of individuals.
@@ -103,7 +103,7 @@ He sets his own inner life in order, and he masters himself with his own law, to
 
 Like Smith, Socrates* asserts that the common interest is promoted by personal passion through trade and employment. He also shows that such a passion leads to personal peace, exactly the kind that kings are fighting for, as described by Smith. 
 
-{{< q a="Adam-Smith" >}}
+{{< q a="Adam Smith" >}}
 In the <b>real happiness of human life</b>, they [the poor] are not inferior to those who seem so much above them. In ease of body and <b>peace of mind</b>, all the different ranks of life are nearly on a level. The beggar, who suns himself by the side of the highway, possesses that security which kings are fighting for.
 {{< /q >}}
 
@@ -167,7 +167,7 @@ To Socrates, this respect for everyone's personal interest is the foundation of 
 
 Smith wrote that governments must understand the invisible hand in order to create proper policies and avoid disorder:
 
-{{< q a="Adam-Smith" c="Theory of Moral Sentiments Simplified, Part 6, Chapter 2" >}}
+{{< q a="Adam Smith" c="Theory of Moral Sentiments Simplified, Part 6, Chapter 2" >}}
 The man of system is.. often so enamoured with.. his own ideal plan of government.. He imagines that he can arrange the members of a great society with as the hand arranges the pieces on a chess-board.
 
 He does not consider that, in the great chess-board of human society, every single piece has a principle of motion of its own, altogether different from that which the legislature might choose to impress on it.
@@ -194,13 +194,13 @@ The definition of the Tao or Dharma then depends on the kind of discrete entity 
 
 We can now see how different the invisible hand described by Smith is from the one described by Samuelson. The proper invisible hand hand has public and personal aspects working together according to the designer of Nature:
 
-{{< q a="Adam-Smith" c="Theory of Moral Sentiments Simplified, Part 6, Chapter 2" >}}
+{{< q a="Adam Smith" c="Theory of Moral Sentiments Simplified, Part 6, Chapter 2" >}}
 Every individual is continually exerting himself to find out the most advantageous employment for whatever capital he can command. It is his own advantage which he has in view [svadharma], and not that of the society. But the study of his own advantage naturally leads him to prefer that employment which is most advantageous to society [human dharma].
 
 That wisdom which contrived the system of human affections and that of every other part of nature, seems to have judged that the interest of the great society of mankind [human dharma] would be best promoted by directing the principal attention of each individual to what was most within the sphere of his abilities and understanding [svadharma].
 {{< /q >}}
 
-{{< q a="Adam-Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
 Every individual can, in his local situation [svadharma], judge much better than any statesman on what domestic industry his capital produce the greatest value. The statesman who directs private people how they should employ their capitals would load himself with a most unnecessary attention.
 {{< /q >}}
 

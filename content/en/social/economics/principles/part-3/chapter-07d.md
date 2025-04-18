@@ -30,7 +30,7 @@ Economics | Supereconomics
 Value of Economy = Quantity of Money | Value of Economy = Quantity of Effort to produce the same output, pegged to grain values 
 
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Book 1, Chapter 11, Part 3" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Book 1, Chapter 11, Part 3" >}}
 The increase of food from the increasing cultivation increases the demand for the non-food produce of land. This demand will then be applied to use or to ornament. There should be only one variation in the comparative values of the commodities for use and the commodities for ornament. <i>The value of non-food produce should constantly rise relative to food produce.</i>
 {{< /q >}}
 
@@ -77,7 +77,7 @@ The purchasing power of a city or country is then compared to itself in the past
 
 Who wouldn't want to live in a country that has more real value and is more resistant to economic crises?
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 1, Chapter 11, Digression" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 1, Chapter 11, Digression" >}}
 Finding an easy proof of a country's prosperity may be useful to the public.
 {{< /q >}}
 
@@ -105,7 +105,7 @@ We thus notate GDP as:
 
 Money and finance are just *tools* to circulate real value as services (haircuts, cleaning, construction, utilities) and products (iPhones, potatoes, clothes). They are not real value or wealth themselves. 
 
-{{< q a="Adam-Smith" c="The Wealth of Nations Book 2" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Book 2" >}}
 The money which circulates the society's whole revenue among its members makes no part of that revenue. The great wheel of circulation is different from the goods which are circulated through it. The society's revenue is in those goods, not in the wheel that circulates them.. In computing any society's gross or net revenue,we must always deduct the whole value of money from the whole annual circulation of money and goods. The value of money can never make a part of the society's gross or net revenue.
 {{< /q >}}
 
@@ -271,7 +271,7 @@ In contrast, our Grain index eliminates the need for complicated subjective fact
 More importantly, our system cuts the cost of transactions while retaining democracy. It avoids degenerating into an arbitrary [social credit system](https://www.wired.co.uk/article/china-social-credit-system-explained). <!--  while it reduces the cost of cirulating value throughout society.  -->
 
 
-{{< q a="Adam-Smith" c="Lectures on Jurisprudence Chapter 9" >}}
+{{< q a="Adam Smith" c="Lectures on Jurisprudence Chapter 9" >}}
 The riches of a country does not consist in the amount of money used to circulate commerce, but in the great abundance of life's necessaries. We would greatly increase our country's wealth if we could find a way to send the half of our money abroad to be converted into goods, and supply the channel of circulation at home, at the same time.</p>
 {{< /q >}}
 
