@@ -86,6 +86,24 @@ Similarly however many they may be, odd or even in number, since these, as I sai
 
 The question which had been begun to be solved by Euclid, and pursued by Apollonius, without having been completed by anyone, was as follows. 
 
+{{< q >}}
+But which (Apollonius) says in the third book that the place at three and four lines was not perfected by Euclid, neither he himself nor anyone else could have perfected:
+
+but not even the slightest addition to what Euclid wrote, by means of those conics which were shown in advance up to the time of Euclid, etc.
+{{< /q >}}
+
+He asks the question:
+
+But at the third and fourth lines, in which (Apollonius) magnificently boasts and shows off, no credit being given to him who had written earlier, it is of this kind: If from one and the same point, straight lines are drawn at given angles to three straight lines given in position; and if the ratio of the rectangle contained by two of the drawn lines to the square of the remaining one is given: the point touches a solid locus given in position, that is, one of the three conic sections. And if lines are drawn at given angles to four straight lines given in position; and if the ratio of the rectangle contained by two of the drawn lines to the rectangle contained by the other two is given: similarly the point will touch a given conic section in position. If indeed [lines are drawn] to only two, the locus is shown to be a plane. But if [lines are drawn] to more than four, the point will touch loci not yet known, but only called lines; but what kind they are, or what property they have, is not certain: they have put together and shown one of them, and not the first, and the one that seems most obvious, showing it to be useful. But their propositions are these:
+
+If from some point straight lines are drawn at given angles to five straight lines given in position, and if the ratio of the rectangular parallelepiped contained by three of the drawn lines to the rectangular parallelepiped contained by the other two and some given line is given, the point will touch a line given in position. But if [lines are drawn] to six, and if the ratio of the solid contained by three lines to the solid contained by the other three is given; again the point will touch a line given in position. But if [lines are drawn] to more than six, they do not yet have anything to say, whether a ratio of some content of four lines to that which is contained by the rest is given, since there is nothing contained by more than three dimensions
+
+
+
+
+
+
+
 
 Having 3 or 4 or more straight lines given by position; first a point is asked, from which one can draw as many other straight lines, one on each of the given ones, which make given angles with them, and that the rectangle contained by two of those which will thus be drawn from the same point, have the given ratio with the square of the third, if there are only three; or with the rectangle of the other two, if there are four; 
 
@@ -96,20 +114,20 @@ or, if there are five, that the parallelepiped composed of three have the given 
 
 Exemple tiré de Pappus. Et on le peut voir aussy fort clairement de ce que Pappus a mis au commencement de son septiesme liure, ou aprés s’estre aresté quelque tems à denombrer tout ce qui auoit esté escrit en Geometrie par ceux qui l’auoient precedé, il parle enfin d’vne question, qu’il dit que ny Euclide, ny Apollonius, ny aucun autre n’auoient sceu entierement resoudre. Et voycy ses mots.
 
+
 Ie cite plutost la version latine que le texte grec affin que chascun l’entende plus aysement.Quem autem dicit (Apollonius) in tertio libro locum ad tres, et quatuor lineas ab Euclide perfectum non esse, neque ipse perficere poterat, neque aliquis alius : sed neque paululum quid addere iis, quae Euclides scripsit, per ea tantum conica, quae usque ad Euclidis tempora praemonstrata sunt, etc.
 
 Et vn peu aprés il explique ainsi quelle est cete question.
 
 At locus adtres, et quatuor lineas, in quo (Apollonius) magnifice se iactat, et ostentat, nulla habita gratia ei, qui prius scripserat, est hujusmodi. Si positione datis tribus rectis lineis ab uno et eodem puncto, ad tres lineas in datis angulis rectae lineae ducantur, et data sit proportio rectanguli contenti duabus ductis ad quadratum reliquae : punctum contingit positione datum solidum locum, hoc est unam ex tribus conicis sectionibus. Et si ad quatuor rectas lineas positione datas in datis angulis lineae ducantur ; et rectanguli duabus ductis contenti ad contentum duabus reliquis proportio data sit : similiter punctum datam coni sectionem positione continget. Si quidem igitur ad duas tantum locus planus ostensus est. Quod si ad plures quam quatuor, punctum continget locos non adhuc cognitos, sed lineas tantum dictas ; quales autem sint, vel quam habeant proprietatem, non constat : earum unam, neque primam, et quae manifestissima videtur, composuerunt ostendentes utilem esse. propositiones autem ipsarum hae sunt.
 
-
-
-
 Si ab aliquo puncto ad positione datas rectas lineas quinque ducantur rectae lineae in datis angulis, et data sit proportio solidi parallelepipedi rectanguli, quod tribus ductis lineis continetur ad solidum parallelepipedum rectangulum, quod continetur reliquis duabus, et data quapiam linea, punctum positione datam lineam continget. Si autem ad sex, et data sit proportio solidi tribus lineis contenti ad solidum, quod tribus reliquis continetur ; rursus punctum continget positione datam lineam. Quod si ad plures quam sex, non adhuc habent dicere, an data sit proportio cuiuspiã contenti quatuor lineis ad id quod reliquis continetur, quoniam non est aliquid contentum pluribus quam tribus dimensionibus.
 
 Ou ie vous prie de remarquer en passant, que le scrupule, que faisoient les anciens d’vser des termes de l’Arithmetique en la Geometrie, qui ne pouuoit proceder, que de ce qu’ils ne voyoient pas assés clairement leur rapport, causoit beaucoup d’obscurité, et d’embaras, en la façon dont ils s’expliquoient. car Pappus poursuit en cete sorte.
 
 acquiescunt autem his, qui paulo ante talia interpretati sunt. neque unum aliquo pacto comprehensibile significantes quod his continetur. Licebit autẽ per coniunctas proportiones haec, et dicere, et demonstrare uniuerse in dictis proportionibus, atque his in hunc modum. Si ab aliquo puncto ad positione datas rectas lineas ducantur rectae lineae in datis angulis, et data sit proportio coniuncta ex ea, quam habet una ductarum ad unam, et altera ad alteram, et alia ad aliam, et reliqua ad datam lineam, si sint septem ; si vero octo, et reliqua ad reliquam : punctum continget positione datas lineas. Et similiter quotcumque sint impares vel pares multitudine, cum haec, ut dixi, loco ad quatuor lineas respondeant, nullum igitur posuerunt ita ut linea nota sit, etc.
+
+
 
 La question donc qui auoit esté commencée à resoudre par Euclide, et poursuiuie par Apollonius, sans auoir esté acheuée par personne, estoit telle. Ayant trois ou quatre ou plus grand nombre de lignes droites données par position ; premierement on demande vn point, duquel on puisse tirer autant d’autres lignes droites, vne sur chascune des données, qui façent auec elles des angles donnés, et que le rectangle contenu en deux de celles, qui seront ainsi tirées d’vn mesme point, ait la proportion donnée auec le quarré de la troisiesme, s’il n’y en a que trois ; ou bien auec le rectangle des deux autres, s’il y en a quatre ; ou bien, s’il y en a cinq, que le parallelepipede composé de trois ait la proportion donnée auec le parallelepipede composé des deux qui restent, et d’vne autre ligne donnée.  -->
 

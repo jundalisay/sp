@@ -11,7 +11,7 @@
 
 
 
-<section class="banner w-full my-5">
+<section class="banner w-full">
   <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-12 text-center py-8 lg:pt-16">
     <h1 class="text-3xl sm:text-4xl mb-4 text-white font-extrabold tracking-tight leading-tight">
       {{ .Site.Params.title }}
@@ -20,7 +20,7 @@
       {{ .Site.Params.subtitle }}
     </h2>
     
-    <div class="mx-auto w-full max-w-lg aspect-w-16 aspect-h-9 rounded-lg overflow-hidden shadow-lg">
+    <div class="mx-auto w-full max-w-lg aspect-w-16 aspect-h-9 rounded-lg overflow-hidden shadow-lg pb-24 mb-24">
       <iframe
         class="max-w-lg max-w-screen-lg"
         src="https://www.youtube.com/embed/mNwyj7WHKKo"
@@ -36,8 +36,8 @@
 
 
 
-<section class="mx-auto text-center mt-6">
-  <h3 class="text-2xl font-bold tracking-tight dark:text-white mb-6">{{ .Site.Params.sub }}</h3>
+<section class="mx-auto text-center mb-6 py-24 lg:py-32">
+  <h3 class="text-4xl font-bold tracking-tight dark:text-white">{{ .Site.Params.sub }}</h3>
 
   <div class="flex justify-center">
   {{ with .Site.Params.icons }}
@@ -58,7 +58,7 @@
 
 
 <section class="mx-auto text-center p-6">
-  <h3 class="text-2xl font-bold tracking-tight dark:text-white mb-6">{{ .Site.Params.head }}</h3>
+  <h3 class="text-4xl font-bold tracking-tight dark:text-white mb-6">{{ .Site.Params.head }}</h3>
 
   <div class="flex flex-wrap justify-center gap-4 p-4">
     {{ with .Site.Params.cards }}
@@ -80,9 +80,10 @@
 
 
 <section class="mx-auto text-center p-6">
-  <h3 class="text-2xl font-bold tracking-tight dark:text-white mb-6">{{ .Site.Params.lets }}</h3>
+  <h3 class="text-4xl font-bold tracking-tight dark:text-white mb-6">{{ .Site.Params.lets }}</h3>
 
-  <div class="flex justify-center flex-wrap gap-4">
+  <!-- <div class="flex justify-center flex-wrap gap-4"> -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
   {{ with .Site.Params.panels }}
     {{ range . }}
       {{ partial "panels.html" . }}
@@ -90,5 +91,7 @@
   {{ end }}
   </div>
 </section>
+
+
 
 {{ end }}

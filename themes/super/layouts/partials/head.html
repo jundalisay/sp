@@ -98,7 +98,28 @@
   </script>
 
 
-<script type="text/javascript">
+
+<!-- Inside <head> OR before </body> -->
+<script>
+  // Apply dark mode on page load
+  (function() {
+    if (localStorage.theme === 'dark' ||
+        (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      document.documentElement.classList.add('dark');
+    } else {
+      document.documentElement.classList.remove('dark');
+    }
+  })();
+
+  // Expose globally
+  function toggleDarkMode() {
+    document.documentElement.classList.toggle('dark');
+    localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+  }
+</script>
+
+
+<!-- <script type="text/javascript">
   // put darkmode here because AI says so
   (() => {
     if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
@@ -113,7 +134,7 @@
     localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
   };
 
-</script>
+</script> -->
 
 
   {{ end }}

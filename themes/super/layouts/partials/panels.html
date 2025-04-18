@@ -1,10 +1,10 @@
 <div class="ani mx-auto text-center">
-  <div class="aspect-[16/9] w-full overflow-hidden">
-    <img src="{{ .img | relURL }}" alt="{{ .title }}" class="w-full rounded-lg h-full object-cover hover:scale-110">
+  <!-- overflow-hidden -->
+  <div class="aspect-[16/9]">
+    <img src="{{ .img | relURL }}" alt="{{ .title }}" class="w-full rounded-lg object-cover shadow-lg hover:scale-110">
   </div>
   <div class="p-4">
     <h5 class="leading-5 text-2xl font-bold tracking-tight dark:text-white ">{{ .title }}</h5>
     <p class="leading-5 mb-3 dark:text-gray-100">{{ .sub }}</p>
   </div>      
 </div>
-
