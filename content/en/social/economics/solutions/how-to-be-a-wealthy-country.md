@@ -9,7 +9,7 @@ writer:
 icon: /icons/pantry.png
 ---
 
-{{< i s="/avatars/smithstatue.jpg" a="Smith" >}}
+{{< i s="/photos/econ/smithstatue.jpg" a="Smith" >}}
 
 ## 3 Requirements for a Wealthy Country
 

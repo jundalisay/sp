@@ -3,7 +3,7 @@ heading: "Chapter 2b"
 title: "Taxation Maxims"
 weight: 20
 date: 2017-12-20
-image: "/avatars/smithstatue.jpg"
+image: "/photos/econ/smithstatue.jpg"
 description : "Adam Smith gave 4 maxims on taxation that have been largely forgotten. We bring them back to help solve tax evasion and budget deficits"
 writer:
   name: Juan
@@ -21,7 +21,7 @@ Adam Smith gave 4 maxims on taxation in The Wealth of Nations that have been lar
 We implement his maxims in our proposed "Flow" Taxation system which is based on points.
 
 
-![Adam Smith](/avatars/smithstatue.jpg)
+![Adam Smith](/photos/econ/smithstatue.jpg)
 
 
 > #### Maxim 1: People should contribute towards supporting their government in proportion to their respective abilities

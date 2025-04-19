@@ -1,21 +1,29 @@
 ---
 title: Policies
-draft: true
+description: Our proposed policies to Unite the World with Common Morals and Systems
+proofs:
+  - url: "/social/cycles/united-states/"
+    img: "/flags/us.png"
+    title: "Republican USA with 4 Parties"
+    sub: "A less democractic USA with Labor, Nationalist, Conservative, and Liberal Parties that have morals defined"
+  - url: "/material/levitation"
+    cat: "Material Superphysics"
+    color: "amber"  
+    img: "/photos/objects/rubik.jpg"
+    title: "Material Superphysics: Prelevitation"
+    sub: "We reduced the weight of a mass by 0.001-0.006% without contact using the Cartesian aether (2020 and 2023)"
+  - url: "https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac"
+    cat: "Material Superphysics"
+    color: "amber"    
+    img: "/photos/objects/fire.jpg"
+    title: "Material Superphysics: Top-Down Fire"
+    sub: "We enrich wood by hammering and use the top-down way to light fires for cooking food (2024). This is the simplest caveman-level technology that we can extract from Cartesian Physics."
 ---
 
 
-    [languages.en.params.tricon7]
-      heading = "Unite the World with Common Morals and Systems"
-      icon = "/icons/stars.png"
-      title = "National Advocacies"
-      sub = "We advocate the following based on Social Superphysics and Social Cycles to fix problems created by the Negative Force, using the Positive Force to Unite, De-materialize, and De-calcify countries"
-      # youtube = "AfByl9Mywi4"
-      # icon = "/icons/sp.png"
-    [languages.en.params.tricon7.items.a]
-      url = "/social/cycles/united-states"
-      img = "/flags/us.png"
-      title = "Republican USA with 4 Parties"
-      sub = "A less democractic USA with Labor, Nationalist, Conservative, and Liberal Parties that have morals defined"
+<!-- ub = "We advocate the following based on Social Superphysics and Social Cycles to fix problems created by the Negative Force, using the Positive Force to Unite, De-materialize, and De-calcify countries" -->
+
+
     [languages.en.params.tricon7.items.b]
       url = "/social/cycles/china/"
       img = "/flags/cn.png"
@@ -148,7 +156,7 @@ draft: true
       sub = "'Ты' состоишь из изменяющейся волны 'тебя'"
     [languages.ru.params.tricon3.items.c]
       url = "/bio/smith-veg/"
-      img= "/avatars/smithstatue.jpg"
+      img= "/photos/econ/smithstatue.jpg"
       title = "Адам Смит вегетарианец"
       sub = "Он предпочитал овощи, в частности картофель, мясу"
     [languages.ru.params.tricon3.items.d]
@@ -258,7 +266,7 @@ draft: true
       sub = "'あなた'は 'あなた' の変わる波で構成されています"
     [languages.jp.params.tricon3.items.c]
       url = "/bio/smith-veg/"
-      img= "/avatars/smithstatue.jpg"
+      img= "/photos/econ/smithstatue.jpg"
       title = "ベジタリアンのアダム・スミス。"
       sub = "彼は肉よりも特にジャガイモを好んだ"
     [languages.jp.params.tricon3.items.d]
@@ -370,7 +378,7 @@ draft: true
       sub = "'Anda' terdiri dari gelombang yang berubah-ubah dari 'anda'"
     [languages.id.params.tricon3.items.c]
       url = "/bio/smith-veg/"
-      img= "/avatars/smithstatue.jpg"
+      img= "/photos/econ/smithstatue.jpg"
       title = "Adam Smith yang Vegetarian"
       sub = "Pendiri studi ekonomi lebih suka sayuran, khususnya kentang, daripada daging"
     [languages.id.params.tricon3.items.d]
@@ -479,7 +487,7 @@ draft: true
       sub = "'आप' एक परिवर्तनशील 'तुम' की तरंग से बने हैं"
     [languages.hi.params.tricon3.items.c]
       url = "/bio/smith-veg/"
-      img= "/avatars/smithstatue.jpg"
+      img= "/photos/econ/smithstatue.jpg"
       title = "एडम स्मिथ शाकाहारी थे। "
       sub = "उन्होंने मांस की बजाय सब्जियों, विशेषकर आलू, की पसंद की थी"
     [languages.hi.params.tricon3.items.d]
@@ -589,7 +597,7 @@ draft: true
       sub = "'Vous' êtes composé d'une onde changeante de 'vous'"
     [languages.fr.params.tricon3.items.c]
       url = "/bio/smith-veg/"
-      img= "/avatars/smithstatue.jpg"
+      img= "/photos/econ/smithstatue.jpg"
       title = "Adam Smith le Végétarien"
       sub = "Le fondateur de l'étude économique préférait les légumes, en particulier les pommes de terre, à la viande"
     [languages.fr.params.tricon3.items.d]
@@ -691,7 +699,7 @@ draft: true
       sub = "'Du' besteht aus einer sich ändernden Welle von 'Dir'"
     [languages.de.params.tricon3.items.c]
       url = "/bio/smith-veg/"
-      img= "/avatars/smithstatue.jpg"
+      img= "/photos/econ/smithstatue.jpg"
       title = "Adam Smith, der Vegetarier"
       sub = "Der Gründer der wirtschaftlichen Studie bevorzugte Gemüse, insbesondere Kartoffeln, gegenüber Fleisch"
     [languages.de.params.tricon3.items.d]
@@ -793,7 +801,7 @@ draft: true
       sub = "'你'是由不断变化的“你”波动组成的。"
     [languages.zh.params.tricon3.items.c]
       url = "/bio/smith-veg/"
-      img= "/avatars/smithstatue.jpg"
+      img= "/photos/econ/smithstatue.jpg"
       title = " 亚当·斯密是素食主义者"
       sub = "经济学创始人更喜欢蔬菜，尤其是土豆，而不是肉类。"
     [languages.zh.params.tricon3.items.d]

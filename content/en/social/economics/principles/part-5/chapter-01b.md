@@ -3,7 +3,7 @@ heading: "Chapter 1b"
 title: "The 4 Main Schools of Post-Smith Economics"
 date: 2015-01-01
 weight: 18
-image: /avatars/smithstatue.jpg
+image: /photos/econ/smithstatue.jpg
 description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
 writer:
   name: Juan
