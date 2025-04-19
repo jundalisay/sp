@@ -27,13 +27,20 @@
           </p>
         </div>
         {{ if .Params.youtube }}
-        <div class="aspect-w-16 aspect-h-9 m-4">          
-              <div class="aspect-w-16 aspect-h-9 m-12 p-12">
+<div class="m-4">
+  <div class="aspect-video m-4 p-4">
+    <iframe
+      class="w-full h-full rounded-lg"
+      src="https://www.youtube.com/embed/{{ .Params.youtube }}"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    ></iframe>
+  </div>
+</div>
 
-                <iframe class="w-full h-full m-4 rounded-lg" src="https://www.youtube.com/embed/{{ . }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-              </div>
-        </div>
         {{ else }}
           <img src="{{ .Params.image }}" class="rounded-lg shadow-lg m-4"> 
         {{ end }}
@@ -55,7 +62,7 @@
                   {{ .title }}
                 </h3>
                 <p class="text-sm leading-3 text-gray-800 dark:text-gray-200 py-2">{{ .sub }}</p>
-                <div class="!bg-{{ .color }}-100 !dark:bg-{{ .color }} dark:text-white text-xs px-2.5 py-0.5 rounded-lg">{{ .cat }}</div>
+                <span class="!bg-{{ .color }}-100 !dark:bg-{{ .color }} dark:text-white text-xs px-2.5 py-0.5 rounded-lg">{{ .cat }}</span>
               </div>
             </a>
           </div>

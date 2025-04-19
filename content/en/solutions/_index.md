@@ -1,8 +1,9 @@
 ---
-title: "Evidence"
-description: "We test the principles of Superphysics (Asian Sciences, Alternative Medicine, Adam Smith, Physiocrats, Rene Descartes, alien, etc.), both Qualitative and Quantitative, to solve our own problems"
+title: "Proposed Solutions and Technologies"
+description: "Proposed Solutions and Technologies from Superphysics"
 image: /covers/solutions.png
-youtube: "AfByl9Mywi4"
+# date
+youtube: "0dXvYASaIx4"
 proofs:
   - url: "/material/age-universe/"
     cat: "Material Superphysics"
@@ -60,35 +61,5 @@ proofs:
     sub: "We successfully used Chinese Medicine to get Pregnant (2013)"  
 ---
 
-<!-- [languages.en.params.tricon5.items.l]
-      url = "/social/supersociology/precrisis-years/"
-      img= "/photos/countries/ua/war.jpg"
-      title = "Social Superphysics: The Crisis Years"
-      sub = "We correctly predicted 2020 as the start of the crisis years filled with economic crises and war, as an effect of the Negative Force and Social Cycles, just as the Seven Years War and WWI and WWII had them."
-    [languages.en.params.tricon5.items.k]
-      url = "https://pantrypoints.com"
-      img= "/photos/econ/barter.jpg"
-      title = "Social Superphysics: Moneyless System"
-      sub = "We have used a moneyless system for our Pantrypoints startup since 2017 and is how we currently sustain Superphysics. It is based on aethereal trust instead of material money and is meant for the Crisis Years."
-    [languages.en.params.tricon5.items.m]
-      url = "/social/cycles"
-      img = "/photos/psych/war.jpg"
-      title = "Social Superphysics: Predictions"
-      sub = "Over 70% of our predictions, based on Socrates' Social Cycles, have come true (2015-2022)"
 
-    [languages.en.params.tricon5.items.o]
-      url = "https://en.wikipedia.org/wiki/Samadhi"
-      img = "/photos/psych/meditate.jpg"
-      title = "Superphysics: Personal Samadhi"
-      sub = "Testing began in 2004 by dropping Christianity and adopting Asian Spirituality. Samadhi was achieved in 2008, leading to the precursor of Superphysics in 2012"
-   [languages.en.params.tricon5.items.n]
-      url = "https://www.youtube.com/watch?v=5alMsLDgc00"
-      img = "/photos/psych/heart.jpg"
-      title = "Superphysics: True Love"
-      sub = "One of our members used aethereal techniques to find true love (2017)"
-   # [languages.en.params.tricon5.items.p]
-   #    url = "https://www.youtube.com/watch?v=hlUWAdavn0k"
-   #    img = "/photos/objects/roulette.jpg"
-   #    title = "Superphysics: Winning Prizes"
-   #    sub = "We used aether techniques to win prizes in raffles and hackathons (2016-2022). One of our supporters used the technique to win in simple games like roulette and baccarat. None of us had the dharma (as focused aethereal energy) to win the lotto yet."
- -->
+
