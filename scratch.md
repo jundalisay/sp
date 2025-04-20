@@ -15,6 +15,38 @@ module.exports = {
 }
 
 
+
+
+      integrity="{{ $styles.Data.Integrity }}"
+
+
+      
+  {{ $css := resources.Get "css/main.css" }}
+    {{ if $css }}
+      {{ $options := dict "inlineImports" true }}
+      {{ $css = $css | css.PostCSS $options }}
+      {{ if hugo.IsProduction }}
+        {{ $css = $css | minify | fingerprint }}
+      {{ end }}
+      <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    {{ else }}
+      <!-- CSS file not found -->
+      <style>body { color: red; }</style>
+    {{ end }}
+
+  {{ if hugo.IsProduction }}
+    {{ $css = $css | minify | fingerprint | resources.PostProcess }}
+  {{ end }}
+
+    
+
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+
+
+
+
+  
+
 <!-- layouts/partials/breadcrumbs.html -->
 <nav aria-label="breadcrumb" class="mb-4">
   <ol class="flex flex-wrap text-sm text-gray-600">

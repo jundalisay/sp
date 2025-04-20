@@ -48,26 +48,21 @@
 
 
 
-  {{ $css := resources.Get "css/main.css" }}
-    {{ if $css }}
-      {{ $options := dict "inlineImports" true }}
-      {{ $css = $css | css.PostCSS $options }}
-      {{ if hugo.IsProduction }}
-        {{ $css = $css | minify | fingerprint }}
-      {{ end }}
-      <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    {{- $styles := resources.Get "css/main.css" | postCSS (dict "config" "./assets/css/postcss.config.js") -}}
+    {{- $styles := $styles| minify | fingerprint | resources.PostProcess -}}
+
+    {{ if $styles }}
+    <link
+      rel="stylesheet"
+      href="{{ $styles.Permalink }}"
+    />
     {{ else }}
       <!-- CSS file not found -->
       <style>body { color: red; }</style>
     {{ end }}
 
-  {{ if hugo.IsProduction }}
-    {{ $css = $css | minify | fingerprint | resources.PostProcess }}
-  {{ end }}
 
-    
 
-  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   <link rel="icon" type="image/x-icon" href="/icons/sp.png">
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2557957536703477" crossorigin="anonymous"></script>
