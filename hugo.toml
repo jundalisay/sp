@@ -21,6 +21,11 @@ enableEmoji = true
     extended = false
     min = "0.116.0"
 
+[minify]
+  [minify.tdewolff]
+    html = true
+
+
 # paginate = 12
 
 [pagination]
@@ -390,7 +395,8 @@ pagerSize = 24
   toc = true
   hidePageThumbnail = false
 
-  description = "A New Science for Solving Problems!"
+  description = "Superphysics is a new paradigm that merges science and metaphysics in order to solve problems and make life better"
+
 
 # [[params.quote1]]
 #   content = "There are 3 principal sciences: Mechanics, Medicine, Ethics"

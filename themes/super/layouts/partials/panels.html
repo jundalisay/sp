@@ -2,7 +2,7 @@
   <!-- overflow-hidden -->
   <a href="{{ .url }}">
     <div class="aspect-[16/9]">
-      <img src="{{ .img | relURL }}" alt="{{ .title }}" class="w-full rounded-lg object-cover shadow-lg hover:scale-110">
+      <img loading="lazy" src="{{ .img | relURL }}" alt="{{ .title }}" class="w-full rounded-lg object-cover shadow-lg hover:scale-110">
     </div>
     <div class="p-4">
       <h5 class="leading-5 text-2xl font-bold tracking-tight dark:text-white ">{{ .title }}</h5>

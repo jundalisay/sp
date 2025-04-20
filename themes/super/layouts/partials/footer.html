@@ -21,7 +21,7 @@
     <div class="flex justify-center gap-x-4 flex-wrap gap-y-2 pb-4 border-b border-teal-500">
       {{ range .Site.Params.books }}
         <a href="{{ .url }}" target="_blank" rel="noopener" aria-label="{{ .name }}" class="rounded-full cursor-pointer zoom">
-          <img src="{{ .img }}" class="rounded-lg shadow" width="100" height="200" alt="{{ .name }}" > 
+          <img loading="lazy" src="{{ .img }}" class="rounded-lg shadow" width="100" height="200" alt="{{ .name }}" > 
         </a>
       {{ end }}
     </div>

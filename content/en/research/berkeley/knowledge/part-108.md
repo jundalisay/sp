@@ -7,17 +7,29 @@ contributors: ['Berkeley']
 ---
 
 
-108. Those Men who frame general Rules from the Phænomena, and afterwards derive the Phænomena from those Rules, seem to consider Signs rather than Causes. A Man may well understand natural Signs without knowing their Analogy, or being able to say by what Rule a Thing is so or so. 
+108. Those Men who frame general Rules from the Phænomena.
+
+Afterwards, they derive the Phænomena from those Rules, seem to consider Signs rather than Causes. 
+
+A Man may well understand natural Signs without knowing their Analogy, or being able to say by what Rule a Thing is so or so. 
 
 And as it is very possible to write improperly, through too strict an Observance of general Grammar-Rules: So in arguing from general Rules of Nature, it is not impossible we may extend the Analogy too far, and by that means run into Mistakes.
 
 
-109. As in reading other Books, a wise Man will choose to fix his Thoughts on the Sense and apply it to use, rather than lay them out in Grammatical Remarks on the Language; so in perusing the Volume of Nature, it seems beneath the Dignity of the Mind to affect an Exactness in reducing each particular Phænomenon to general Rules, or shewing how it follows from them. 
+109. A wise Man who reads books will focus on their usefulness, rather than on their Grammar.
 
-We should propose to ourselves nobler Views, such as to recreate and exalt the Mind, with a prospect of the Beauty, Order, Extent, and Variety of natural Things: Hence, by proper Inferences, to enlarge our Notions of the Grandeur, Wisdom, and Beneficence of the Creator: And lastly, to make the several Parts of the Creation, so far as in us lies, subservient to the Ends they were designed for, God’s Glory, and the Sustentation and Comfort of our selves and Fellow-Creatures.
+Likewise, when reading the Book of Nature, it seems beneath the Dignity of the Mind to affect an Exactness in reducing each particular Phænomenon to general Rules, or shewing how it follows from them. 
+
+We should instead aim for nobler Views that recreate and exalt the Mind, with a prospect of the Beauty, Order, Extent, and Variety of natural Things.
+
+We should, by proper Inferences:
+- enlarge our Notions of the Grandeur, Wisdom, and Beneficence of the Creator.
+- make the several Parts of the Creation, so far as in us lies, subservient to the Ends they were designed for, God’s Glory, and the Sustentation and Comfort of our selves and Fellow-Creatures.
 
 
-110. The best Key for the Analogy, or natural Science, will be easily acknowledged to be a certain celebrated Treatise of Mechanics: In the entrance of which justly admired Treatise, Time, Space, and Motion, are distinguished into Absolute and Relative, True and Apparent, Mathematical and Vulgar : Which Distinction, as it is at large explained by the Author, doth suppose those Quantities to have an Existence without the Mind: And that they are ordinarily conceived with relation to sensible Things, to which nevertheless in their own Nature, they bear no relation at all.
+110. The best Key for the Analogy, or natural Science, will be easily acknowledged to be a certain celebrated Treatise of Mechanics.
+
+In the entrance of which justly admired Treatise, Time, Space, and Motion, are distinguished into Absolute and Relative, True and Apparent, Mathematical and Vulgar : Which Distinction, as it is at large explained by the Author, doth suppose those Quantities to have an Existence without the Mind: And that they are ordinarily conceived with relation to sensible Things, to which nevertheless in their own Nature, they bear no relation at all.
 
 
 111. As for Time, as it is there taken in an absolute or abstracted Sense, for the Duration or Perseverance of the Existence of Things, I have nothing more to add concerning it, after what hath been already said on that Subject, Sect. 97 and 98. 
@@ -48,18 +60,47 @@ Fourthly, True Motion is always changed by Force impressed on the Body moved. Fi
 
 For however some may define Relative Motion, so as to term that Body moved, which changes its Distance from some other Body, whether the Force or Action causing that Change were applied to it, or no: Yet as Relative Motion is that which is perceived by Sense, and regarded in the ordinary Affairs of Life, it should seem that every Man of common Sense knows what it is, as well as the best Philosopher: Now I ask any one, whether in his Sense of Motion as he walks along the Streets, the Stones he passes over may be said to move, because they change Distance with his Feet? 
 
-To me it seems, that though Motion includes a Relation of one thing to another, yet it is not necessary that each Term of the Relation be denominated from it. As a Man may think of somewhat which doth not think, so a Body may be moved to or from another Body, which is not therefore it self in Motion.
+Motion includes a Relation of one thing to another.
+
+Yet it is not necessary that each Term of the Relation be denominated from it.
+
+A Man may think of something which does not think, just as a Body may be moved to or from another Body which is not itself in Motion.
 
 
-114. As the Place happens to be variously defined, the Motion which is related to it varies. A Man in a Ship may be said to be quiescent, with relation to the sides of the Vessel, and yet move with relation to the Land. Or he may move Eastward in respect of the one, and Westward in respect of the other. In the common Affairs of Life, Men never go beyond the Earth to define the Place of any Body: And what is quiescent in respect of that, is accounted absolutely to be so.
+114. As the Place happens to be variously defined, the Motion which is related to it varies. 
 
-But Philosophers who have a greater Extent of Thought, and juster Notions of the System of Things, discover even the Earth it self to be moved. In order therefore to fix their Notions, they seem to conceive the Corporeal World as finite, and the utmost unmoved Walls or Shell thereof to be the Place, whereby they estimate true Motions.
+A Man in a Ship is quiescent, with relation to the sides of the Vessel. Yet he moves with relation to the Land. 
+
+Or he may move Eastward in respect of the one, and Westward in respect of the other. 
+
+In the common Affairs of Life, Men never go beyond the Earth to define the Place of any Body: And what is quiescent in respect of that, is accounted absolutely to be so.
+
+But Philosophers who have a greater Extent of Thought, and juster Notions of the System of Things, discover even the Earth it self to be moved.
+
+In order therefore to fix their Notions, they seem to conceive the Corporeal World as finite, and the utmost unmoved Walls or Shell thereof to be the Place, whereby they estimate true Motions.
 
 If we sound our own Conceptions, I believe we may find all the absolute Motion we can frame an Idea of, to be at bottom no other than relative Motion thus defined. 
 
-For as hath been already observed, absolute Motion exclusive of all external Relation is incomprehensible: And to this kind of Relative Motion, all the above-mentioned Properties, Causes, and Effects ascribed to absolute Motion, will, if I mistake not, be found to agree. As to what is said of the centrifugal Force, that it doth not at all belong to circular Relative Motion: I do not see how this follows from the Experiment which is brought to prove it. See Philosophiae Naturalis Principia Mathematica, in Schol. Def. VIII. For the Water in the Vessel, at that time wherein it is said to have the greatest relative circular Motion, hath, I think, no Motion at all: As is plain from the foregoing Section.
+For as hath been already observed, absolute Motion exclusive of all external Relation is incomprehensible: And to this kind of Relative Motion, all the above-mentioned Properties, Causes, and Effects ascribed to absolute Motion, will, if I mistake not, be found to agree. 
+
+As to what is said of the centrifugal Force, that it doth not at all belong to circular Relative Motion: I do not see how this follows from the Experiment which is brought to prove it. See Philosophiae Naturalis Principia Mathematica, in Schol. Def. VIII. 
+
+For the Water in the Vessel, at that time wherein it is said to have the greatest relative circular Motion, hath, I think, no Motion at all: As is plain from the foregoing Section.
 
 
-115. For to denominate a Body moved, it is requisite, first, that it change its Distance or Situation with regard to some other Body: And secondly, that the Force or Action occasioning that Change be applied to it. If either of these be wanting, I do not think that agreeably to the Sense of Mankind, or the Propriety of Language, a Body can be said to be in Motion.
+115. For a body to be in motion:
 
-I grant indeed, that it is possible for us to think a Body, which we see change its Distance from some other, to be moved, though it have no force applied to it, (in which Sense there may be apparent Motion,) but then it is, because the Force causing the Change of Distance, is imagined by us to be applied or impressed on that Body thought to move. Which indeed shews we are capable of mistaking a thing to be in Motion which is not, and that is all.
+1. It must change its Distance or Situation with regard to some other Body
+2. The Force or Action occasioning that Change must be applied to it.
+
+If either of these are lacking then it is not in motion. 
+
+ <!-- be wanting, I do not think that agreeably to the Sense of Mankind, or the Propriety of Language, a Body can be said to be in Motion. -->
+
+We can think of  a Body, which we see change its Distance from some other, to be moved, though it have no force applied to it.
+
+In this case there may be apparent Motion.
+
+But then it is, because the Force causing the Change of Distance, is imagined by us to be applied or impressed on that Body thought to move.
+
+Which indeed shews we are capable of mistaking a thing to be in Motion which is not, and that is all.

@@ -29,7 +29,8 @@
         {{ if .Params.youtube }}
 <div class="m-4">
   <div class="aspect-video m-4 p-4">
-    <iframe
+    <iframe 
+      loading="lazy"
       class="w-full h-full rounded-lg"
       src="https://www.youtube.com/embed/{{ .Params.youtube }}"
       title="YouTube video player"
@@ -42,7 +43,7 @@
 </div>
 
         {{ else }}
-          <img src="{{ .Params.image }}" class="rounded-lg shadow-lg m-4"> 
+          <img loading="lazy" src="{{ .Params.image }}" class="rounded-lg shadow-lg m-4"> 
         {{ end }}
       </div>
 
@@ -55,7 +56,7 @@
           <div class="ani hover:bg-sky-200 dark:bg-gray-800 bg-white rounded-lg overflow-hidden shadow-lg transition-shadow duration-200">
             <a href="{{ .url }}">
                 <div class="aspect-[16/9] w-full overflow-hidden">
-                  <img src="{{ .img }}" alt="{{ .title }}" class="w-full h-full object-cover hover:scale-110">
+                  <img loading="lazy" src="{{ .img }}" alt="{{ .title }}" class="w-full h-full object-cover hover:scale-110">
                 </div>
               <div class="p-4">
                 <h3 class="leading-4 text-lg font-semibold text-gray-800 dark:text-white hover:text-blue-600">
@@ -79,7 +80,7 @@
             <a href="{{ .Permalink }}">
               {{ with .Params.image }}
                 <div class="aspect-[16/9] w-full overflow-hidden">
-                  <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full h-full object-cover hover:scale-110">
+                  <img loading="lazy" src="{{ . | relURL }}" alt="{{ $.Title }}" class="w-full h-full object-cover hover:scale-110">
                 </div>
               {{ end }}
               <div class="p-4">

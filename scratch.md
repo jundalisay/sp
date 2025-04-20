@@ -1,3 +1,20 @@
+nano config daw
+
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+    ...(process.env.HUGO_ENVIRONMENT === 'production'
+      ? {
+          cssnano: {
+            preset: 'default',
+          },
+        }
+      : {}),
+  },
+}
+
+
 <!-- layouts/partials/breadcrumbs.html -->
 <nav aria-label="breadcrumb" class="mb-4">
   <ol class="flex flex-wrap text-sm text-gray-600">
