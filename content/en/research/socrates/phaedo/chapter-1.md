@@ -4,7 +4,7 @@ heading: Chapter 1
 weight: 4
 image: "/covers/phaedo.png"
 description: "The ship was crowned on the day before the trial and this kept Socrates in prison and delayed his execution"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 
@@ -13,7 +13,7 @@ Persons Of The Dialogue:
 | Phaedo, the narrator of the dialogue to Echecrates of Phlius | ![Phaedo](/icons/g02.png) |
 | --- | --- |
 | Echecrates | ![Echecrates avatar](/icons/g01.png) |
-| Socrates | ![Socrates avatar](/icons/socrates.png) |
+| Socrates | ![Socrates avatar](/icons/Socrates.jpg) |
 | Apollodorus | ![Apollodorus avatar](/icons/g04.png) |
 | Simmias | ![Simmias avatar](/icons/g09.png) |
 | Cebes | ![Cebes avatar](/icons/g08.png) |

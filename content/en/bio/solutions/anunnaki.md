@@ -7,6 +7,9 @@ image: "/photos/medieval/lapu.jpg"
 # icon: "/icons/descartes.png
 ---
 
+<!-- In Mayan history, Enlil is Tepeu and Enki is Gucumatz. 
+Enlil is the leader (God), Enki is the jealous usurper (snake). Accordingly, Gucumatz is a snake. 
+https://mythlok.com/gucumatz/ -->
 
 
 {{< youtube sxq8vIm4Cwc >}}

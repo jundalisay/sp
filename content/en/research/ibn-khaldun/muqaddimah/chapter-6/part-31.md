@@ -2,7 +2,7 @@
 title: "Astrology is wrong, has weak achievements, harmful goal"
 description: "Astrologers think that astrology enables them to know the things that are going to be in the world of the elements, before they are created"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 31"
 weight: 98
 ---

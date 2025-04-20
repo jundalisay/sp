@@ -2,7 +2,7 @@
 title: "The Levels of Reality"
 description: "Even though human reality is a uniform element, it has four different levels which lead to different realities"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 15b"
 weight: 44
 writer:

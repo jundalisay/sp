@@ -4,7 +4,7 @@ heading: "Chapter 2"
 weight: 4
 image: "/covers/parm.png"
 description: "Parmenides says that logic should consider not only the consequences which flow from a given hypothesis, but also the consequences which flow from denying the hypothesis"
-icon: "/icons/socrates.png"
+icon: "/icons/Parmenides.jpg"
 ---
 
 

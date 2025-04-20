@@ -2,7 +2,7 @@
 title: "The worthlessness of astrology"
 description: "Thus, the worthlessness of astrology from the point of view of the religious law, as well as the weakness of its achievements from the rational point of view, are evident"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 31b"
 weight: 100
 writer:

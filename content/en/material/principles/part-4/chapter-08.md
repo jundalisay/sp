@@ -9,7 +9,7 @@ riter:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 34
-icon: /icons/spmat.png
+icon: "Juan"
 toc: false
 ---
 

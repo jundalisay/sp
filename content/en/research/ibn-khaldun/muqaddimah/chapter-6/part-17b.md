@@ -2,7 +2,7 @@
 title: "The Idea of dream interpretation"
 description: "The rational spirit has its perceptions and passes them on to the imagination"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 17b"
 weight: 56
 writer:

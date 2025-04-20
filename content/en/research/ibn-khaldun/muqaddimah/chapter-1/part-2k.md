@@ -2,7 +2,7 @@
 title: "Zone 7"
 description: "The Surrounding Sea covers most of Zone 7 in the north from the beginning to the middle of Section 5"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 2j"
 weight: 22
 writer:

@@ -6,7 +6,7 @@ title: "Contact Forces Applied"
 image: /graphics/physics/box2.jpg
 description: "The Principles for Movement in the Material Layer which is the lowest and crudest layer"
 weight: 7
-icon: /icons/spmat.png
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

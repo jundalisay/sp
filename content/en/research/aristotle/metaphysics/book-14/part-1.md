@@ -7,7 +7,7 @@ description: "One is not a number; for the measure is not measures, but both the
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

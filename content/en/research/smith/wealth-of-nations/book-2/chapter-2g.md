@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Prudent banks were able to reduce their expenses, judge their debtors' situation, and avoid financial crises"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

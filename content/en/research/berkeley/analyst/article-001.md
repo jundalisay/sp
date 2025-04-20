@@ -4,6 +4,8 @@ title: "The Analyst: a Discourse addressed to an Infidel Mathematician"
 weight: 7
 description: ""
 image: "/covers/berkeley.jpg"
+author: "George Berkeley"
+icon: "George Berkeley"
 ---
 
 <!-- It is examined whether the Object, Principles, and Inferences of the modern Analysis are more distinctly conceived, or more evidently deduced, than Religious Mysteries and Points of Faith.

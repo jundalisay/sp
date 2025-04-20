@@ -7,7 +7,7 @@ description: "There is no contact in numbers, but succession. Between the units,
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

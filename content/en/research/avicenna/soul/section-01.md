@@ -15,7 +15,8 @@ It is wise to describe something before proceeding to establish its reality of e
 
 <!-- , such a one is counted by the wise among those who deviate from the broad beaten track of perspicuous statement.  -->
 
-> *Reality of existence; or its whereabouts. Doctor S. Landauer thinks that the word ayniyyat in the text must be wrong, because nowhere throughout this section is the «Whereabout» of the mental powers so much as hinted at; whereas the burden of the whole chapter is to prove merely that such powers do exist, i.e., their inniyyat, which is a word used by Arab Logicians.
+{{< f f="*Reality of existence; or its whereabouts. Doctor S. Landauer thinks that the word ayniyyat in the text must be wrong, because nowhere throughout this section is the «Whereabout» of the mental powers so much as hinted at; whereas the burden of the whole chapter is to prove merely that such powers do exist, i.e., their inniyyat, which is a word used by Arab Logicians." >}}
+
 
 
 Therefore, we should first establish the existence of the spiritual powers, before we define each one of those powers, and then enlarge on it.
@@ -35,7 +36,8 @@ Examples of natural motions are:
 
 Bodies moving in motions over and above the natural motions have moving* causes, which we call souls or spiritual powers.
 
-> *Translator's Note: Ibn Sînâ has a clear premonition of Newton’s Theory of Gravitation 700 years earlier than Newton
+{{< f f="*Translator's Note: Ibn Sînâ has a clear premonition of Newton’s Theory of Gravitation 700 years earlier than Newton" >}}
+
 
 
 Any body, from the time that it is perceptible, is perceptible not because of the body.

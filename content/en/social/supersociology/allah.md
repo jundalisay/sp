@@ -7,7 +7,7 @@ description: "At the 100th day of the Gaza war, Muslims are asking: Where is the
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 

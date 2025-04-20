@@ -3,7 +3,7 @@ title: "The Poverty from Learning"
 weight: 8
 description: "Learned men themselves grow discredit into learning"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

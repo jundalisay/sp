@@ -4,7 +4,7 @@ heading: "Chapter 3"
 weight: 6
 image: "/covers/parm.png"
 description: "The One is the One when viewed by Itself as an Immovable and Timeless Singularity"
-icon: "/icons/socrates.png"
+icon: "/icons/Parmenides.jpg"
 ---
 
 

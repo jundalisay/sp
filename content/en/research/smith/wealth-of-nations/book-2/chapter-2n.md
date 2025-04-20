@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The Increase in Bank Notes does not increase inflation"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

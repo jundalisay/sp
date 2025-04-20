@@ -4,7 +4,7 @@ heading: "Part 3a"
 weight: 22
 image: "/covers/wn.jpg"
 description: "The sovereign's third and last duty is building and maintaining advantageous public works and institutions for society"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

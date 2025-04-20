@@ -4,7 +4,7 @@ title: The human knowledge which concerns the mind
 weight: 24
 description: "The human knowledge which concerns the mind has 2 parts"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

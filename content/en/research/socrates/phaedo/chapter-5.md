@@ -4,7 +4,7 @@ heading: "Chapter 5"
 weight: 12
 image: "/covers/phaedo.png"
 description: "Each pleasure and pain is a sort of nail which nails and rivets the soul to the body, until she becomes like the body, and believes that to be true which the body affirms to be true"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

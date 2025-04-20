@@ -4,7 +4,7 @@ title: "Riches"
 weight: 45
 description: "Riches are the baggage of virtue. The Romans call it better, as *impedimenta*."
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

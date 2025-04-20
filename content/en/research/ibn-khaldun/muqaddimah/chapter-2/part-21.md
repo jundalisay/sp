@@ -2,7 +2,7 @@
 title: "The passing of the royal authority"
 description: "the people obtain royal authority only after proving their forcefulness and finding other nations obedient to them"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 21"
 weight: 30
 writer:

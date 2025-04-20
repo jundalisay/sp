@@ -7,7 +7,7 @@ writer:
 weight: 10
 image: "/covers/wn.jpg"
 description: "The value of Coal Mines is relative to the value of other fuel sources"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

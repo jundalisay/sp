@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Money Supply has two great divisions as wholesale and retail"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

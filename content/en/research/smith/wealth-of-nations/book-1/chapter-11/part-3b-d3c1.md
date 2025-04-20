@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Produce that can or cannot be multiplied according to demand. Examples are wool or raw hides, fish, precious metals"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

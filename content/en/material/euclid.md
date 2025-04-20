@@ -6,7 +6,7 @@ description: "Euclid's Elements are about the 5 Elements, not about drawing shap
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "How a New Dynasty Begins"
 description: "When the ruling dynasty starts on the road to senility and destruction, the rise of the new dynasty happens in 2 ways"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 47"
 weight: 128
 writer:

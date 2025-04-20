@@ -4,7 +4,7 @@ heading: Chapter 11
 weight: 20
 image: "/covers/interpret.jpg"
 description: "In the divine nature, both religion and philosophy acknowledges goodness in perfection, science or providence comprehending all things, and absolute sovereignty or kingdom"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

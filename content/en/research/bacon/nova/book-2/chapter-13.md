@@ -4,7 +4,7 @@ heading: Chapter 13
 weight: 48
 description: "There are 5 classes of instances of the lamp, or of immediate information"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

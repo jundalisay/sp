@@ -7,7 +7,7 @@ description: "In Descartes' Physics, the Photoelectric Effect is the downgrading
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Juan"
 ---
 
 

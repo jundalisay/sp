@@ -1,3 +1,6 @@
+⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻⁼⁽⁾ⁿⁱ
+
+
 nano config daw
 
 module.exports = {

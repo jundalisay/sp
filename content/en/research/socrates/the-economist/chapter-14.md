@@ -7,7 +7,7 @@ description: "I take a leaf now out of the laws of Draco and again another out o
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-icons: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

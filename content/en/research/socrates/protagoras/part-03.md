@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "When we entered, we found Protagoras taking a walk in the cloister"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

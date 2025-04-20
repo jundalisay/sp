@@ -9,7 +9,7 @@ description: "A society is abtract, Nation refers to physical birth or race, Sta
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 

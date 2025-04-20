@@ -2,7 +2,7 @@
 title: "The great number of scholarly works is an obstacle to attaining scholarship"
 description: "A student's whole lifetime would not suffice to know all the literature that exists in a single discipline, (even) if he were to devote himself entirely to it"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 34"
 weight: 108
 ---

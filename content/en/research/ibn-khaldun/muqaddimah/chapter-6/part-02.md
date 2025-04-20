@@ -2,7 +2,7 @@
 title: "Human Intellect"
 description: "God distinguished man from all the other animals by an ability to think"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Parts 1-3"
 weight: 12
 writer:

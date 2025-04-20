@@ -2,7 +2,7 @@
 title: "The characteristic emblems of royal and government authority"
 description: "The ruler has emblems and arrangements that are the necessary result of pomp and ostentation"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 34"
 weight: 94
 writer:

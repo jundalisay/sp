@@ -2,7 +2,7 @@
 title: "Fools Versus The Insane"
 description: "Among the adepts of mysticism are fools and imbeciles who are more like insane persons than like rational beings"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 6j"
 weight: 43
 date: 2020-01-14

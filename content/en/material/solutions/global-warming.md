@@ -7,7 +7,7 @@ description: "We explain David Hume's solution to global warming based on his ob
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 weight: 12
 ---
 

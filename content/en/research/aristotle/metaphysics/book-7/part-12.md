@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "What is the unity of the formula of a definition?"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 <!-- "Now let us treat first of definition, in so far as we have not treated of it in the Analytics; for the problem stated in them is useful for our inquiries concerning substance. 

@@ -4,7 +4,7 @@ heading: "Part 1c"
 weight: 8
 image: "/covers/wn.jpg"
 description: "The state can use 2 methods for the public defence"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

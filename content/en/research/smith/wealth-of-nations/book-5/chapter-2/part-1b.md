@@ -4,7 +4,7 @@ heading: "Chapter 2-1b"
 weight: 8
 image: "/covers/wn.jpg"
 description: "The rent of a great landed estate might ordinarily defray all the necessary expences of government"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -4,7 +4,7 @@ heading: "Part 9"
 weight: 20
 description: "the knowledge of ourselves"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

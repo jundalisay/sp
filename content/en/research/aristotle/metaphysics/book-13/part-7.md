@@ -7,7 +7,7 @@ description: "Ideas are not numbers. The units are different, if there are to be
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

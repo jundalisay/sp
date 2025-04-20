@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The proportion between industry and idleness is regulated by the proportion between capital and revenue"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

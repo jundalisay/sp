@@ -7,7 +7,7 @@ description: "Our house is not decked with ornaments and fretted ceilings. The r
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-icons: "/icons/socrates.png"
+icon: "/icons/Xenophon.jpg"
 ---
 
 

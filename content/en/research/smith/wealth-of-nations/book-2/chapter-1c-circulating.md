@@ -8,7 +8,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Money has wholesale and retail"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

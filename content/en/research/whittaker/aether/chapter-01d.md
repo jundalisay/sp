@@ -7,6 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
 image:  "/covers/history.jpg"
 description: "Hooke's next effort was to produce a mechanical theory of refraction, to replace that given by Descartes"
+icon: "Edmund Taylor Whittaker"
 ---
 
 

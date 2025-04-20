@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/parm.png"
 description: "Socrates, Zeno, and Parmenides talk about the philosophy"
-icon: "/icons/socrates.png"
+icon: "/icons/Parmenides.jpg"
 ---
 
 

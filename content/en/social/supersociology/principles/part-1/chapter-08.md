@@ -8,7 +8,7 @@ description: "Morality is the state of doing what is correct and avoiding the wr
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 draft: true
 ---
 

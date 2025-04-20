@@ -4,7 +4,7 @@ heading: "Chapter 10"
 weight: 20
 image: "/covers/parm.png"
 description: "The One, as the Whole, multiplies Itself"
-icon: "/icons/socrates.png"
+icon: "/icons/Parmenides.jpg"
 ---
 
 

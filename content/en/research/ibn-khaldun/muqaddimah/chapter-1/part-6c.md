@@ -2,7 +2,7 @@
 title: "Three Kinds of Human Souls for Spiritual Perception"
 description: "As far as this (process) is concerned, human souls are of three kinds"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 6c"
 weight: 32
 writer:

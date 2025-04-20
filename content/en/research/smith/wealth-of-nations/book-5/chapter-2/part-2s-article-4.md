@@ -4,7 +4,7 @@ heading: "Chapter 2d-04, Article 4"
 weight: 46
 image: "/covers/wn.jpg"
 description: "In Great Britain, liquors for private use are not liable to any excise duties"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

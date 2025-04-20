@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/crito.png"
 description: "Socrates Says It is Wrong to Flee"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

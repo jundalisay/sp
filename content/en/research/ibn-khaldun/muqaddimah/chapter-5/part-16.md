@@ -2,7 +2,7 @@
 title: "The Crafts Are Perfected Only In A Large And Perfect Sedentary Civilization"
 description: "The crafts are perfected only if there exists a large and perfect sedentary civilization"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 16-19"
 weight: 24
 writer:

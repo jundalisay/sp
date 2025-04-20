@@ -5,7 +5,7 @@ title: "Comets and Climate Change"
 image: "/graphics/physics/comets.jpg"
 description: "Here we explain how comets can lead to climate change"
 weight: 41
-icon: /icons/spmat.png
+icon: "Juan"
 # linked to public
 ---
 

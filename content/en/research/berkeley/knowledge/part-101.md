@@ -1,6 +1,6 @@
 ---
 title: "Scepticism: The Limitation of Humans"
-weight: 7
+weight: 137
 description: "The great mechanical Principle now in Vogue is Attraction"
 image: "/covers/know.jpg"
 contributors: ['Berkeley']

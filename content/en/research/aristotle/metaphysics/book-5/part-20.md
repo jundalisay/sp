@@ -7,7 +7,7 @@ writer:
 weight: 22
 image: "/covers/meta.jpg"
 description: "Aristotle defines Having, Affection, Privation"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

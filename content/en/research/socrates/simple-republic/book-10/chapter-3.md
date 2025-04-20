@@ -4,7 +4,7 @@ heading: Chapter 3
 weight: 6
 description: "The soul is immortal. The number of souls in existence do not increase nor decrease. The reward of justice is natural and everlasting happiness"
 image: "/covers/republic.jpg"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

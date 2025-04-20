@@ -5,7 +5,7 @@ weight: 42
 image: "/covers/timaeus.jpg"
 description: "The life of mortal animal necessarily consisted of fire and breath. This allowed it to waste away by dissolution and depletion"
 author: "Plato"
-icon: /icons/socrates.png
+icon: /icons/Socrates.jpg
 ---
 
 
@@ -77,8 +77,7 @@ The due proportion of mind and body is the fairest and loveliest of all sights t
 
 A body which has a leg too long, or is unsymmetrical is unpleasant to look at. 
 
-
- sight, and also, when doing its share of work, is much distressed and makes convulsive efforts, and often stumbles through awkwardness, and is the cause of infinite evil to its own self—in like manner we should conceive of the double nature which we call the living being; 
+Sight, when doing its share of work, is much distressed and makes convulsive efforts, and often stumbles through awkwardness, and is the cause of infinite evil to its own self—in like manner we should conceive of the double nature which we call the living being; 
 
 When in this compound there is an impassioned soul more powerful than the body, that soul, convulses and fills with disorders the whole inner nature of man. When eager in the pursuit of some sort of learning or study, causes wasting; or again, when teaching or disputing in private or in public, and strifes and controversies arise, inflames and dissolves the composite frame of man and introduces rheums. 
 

@@ -2,7 +2,7 @@
 title: "Scientific Instruction and the kinds of intellect"
 description: "There are various kinds of intellect such as discerning, experimental, and speculative"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 6"
 weight: 16
 writer:

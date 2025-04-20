@@ -7,7 +7,7 @@ description: "The heart is the knot of the veins and the fountain of the blood w
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 
@@ -92,7 +92,9 @@ The ancient saying ‘only a man who has his wits can act or judge about himself
 
 Some persons call them prophets. They are quite unaware that they are only the expositors of dark sayings and visions, and are not to be called prophets at all, but only interpreters of prophecy.
 
-Such is the nature of the liver, which is placed as we have described in order that it may give prophetic intimations. During the life of each individual these intimations are plainer, but after his death the liver becomes blind, and delivers oracles too obscure to be intelligible. The neighbouring organ (the spleen) is situated on the left-hand side, and is constructed with a view of keeping the liver bright and pure,—like a napkin, always ready prepared and at hand to clean the mirror. 
+Such is the nature of the liver, which is placed as we have described in order that it may give prophetic intimations. During the life of each individual these intimations are plainer, but after his death the liver becomes blind, and delivers oracles too obscure to be intelligible. 
+
+The neighbouring organ (the spleen) is situated on the left-hand side, and is constructed with a view of keeping the liver bright and pure,—like a napkin, always ready prepared and at hand to clean the mirror. 
 
 When any impurities arise in the region of the liver by reason of disorders of the body, the loose nature of the spleen, which is composed of a hollow and bloodless tissue, receives them all and clears them away, and when filled with the unclean matter, swells and festers, but, again, when the body is purged, settles down into the same place as before, and is humbled.
 

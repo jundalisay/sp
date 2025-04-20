@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "The very name of Great-mindedness implies, that great things are its object-matter"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

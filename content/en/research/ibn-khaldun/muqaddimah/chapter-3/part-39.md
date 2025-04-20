@@ -2,7 +2,7 @@
 title: "The Ruler And His Entourage Are Wealthy Only In The Dynasty's Middle Period"
 description: "After royal authority has obtained control over his people, he prevents them from getting (any part of) the revenues, beyond their official shares"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 39"
 weight: 112
 writer:

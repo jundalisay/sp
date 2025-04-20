@@ -4,7 +4,7 @@ heading: Chapter 6
 weight: 16
 description: "Here is an example of the exclusion or rejection of natures found by the tables of review"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

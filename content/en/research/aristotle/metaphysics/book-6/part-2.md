@@ -7,7 +7,7 @@ writer:
 weight: 4
 image: "/covers/meta.jpg"
 description: "The unqualified term 'being' has many meanings"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The Sciences of sorcery and talismans"
 description: "These show how human souls may become prepared to exercise an influence upon the world of the elements, either without any aid or with the aid of celestial matters"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 27"
 weight: 74
 writer:

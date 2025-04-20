@@ -3,7 +3,7 @@ title: "Spiritual Superphysics FAQ"
 date: 2024-07-08
 image: /covers/faq.png
 description: "FAQ on Social Superphysics"
-icon: /icons/spmat.png
+icon: "Spiritual Superphysics"
 ---
 
 

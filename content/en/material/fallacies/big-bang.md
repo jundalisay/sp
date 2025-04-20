@@ -8,7 +8,7 @@ description: "Data from the James Webb Space Telescope debunks the Big Bang"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Juan"
 toc: false
 ---
 

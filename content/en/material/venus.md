@@ -7,7 +7,7 @@ description: A possible answer is that a mini-planet gave it a glancing blow fro
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

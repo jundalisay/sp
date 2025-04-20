@@ -7,7 +7,7 @@ description: "The numbers are not the essence nor the causes of the form, for th
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

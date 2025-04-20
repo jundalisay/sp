@@ -7,7 +7,7 @@ description: "First philosophy should also examine the principles of mathematics
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

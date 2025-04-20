@@ -1,9 +1,11 @@
 ---
-title: "Commonplace"
+title: "What is Force?"
 heading: "Part 1"
-weight: 7
-description: ""
+weight: 4
+description: "Solicitation and effort or striving apply only to animate beings"
 image: "/covers/berkeley.jpg"
+author: "George Berkeley"
+icon: "George Berkeley"
 ---
 
 
@@ -24,7 +26,7 @@ For no one’s authority should carry so much weight that their words or express
 
 <!-- These have now mostly fallen into disuse and scarcely deserve that we spend much effort in refuting them. Among more modern and reasonable philosophers of our time, however, when dealing with motion, not a few terms appear with meanings that are overly abstract and obscure—such as  -->
 
-The following modern words have obscure and abstract meanins:
+The following modern words have obscure and abstract meanings:
 
 - *solicitation of gravity*
 - *effort*
@@ -49,7 +51,3 @@ We also observe that heavy objects fall with accelerated motion toward the cente
 **6.** It is therefore clear that *gravity* or *force* is in vain posited as a principle of motion. For can that principle be more clearly known merely by calling it an occult quality? That which is itself hidden explains nothing. And leaving aside the unknown *efficient cause*, it would be more accurate to call it a *substance* than a *quality*. Moreover, terms such as *force*, *gravity*, and the like are often, and not inappropriately, used in the concrete—to refer, for instance, to a moving body, resistance, etc. But when philosophers use them to signify certain natures abstracted from all such concrete things—natures which are neither subject to the senses nor intelligible to the mind nor imaginable—they then become sources of error and confusion.
 
 **7.** Many are led into error by the fact that general and abstract terms appear useful for reasoning, without fully understanding their import. These terms were partly invented by common usage to shorten speech and partly devised by philosophers for teaching—not because they are suited to the nature of things, which are always singular and concrete, but because they are useful for transmitting knowledge, by enabling concepts—or at least propositions—to be expressed universally.
-
---- 
-
-Let me know if you'd like this in a more modern or simplified English style!

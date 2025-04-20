@@ -2,7 +2,7 @@
 title: "Architecture"
 description: "Architecture is the oldest craft of sedentary civilization. It is the knowledge of how to go about using houses and mansions for cover and shelter"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 24"
 weight: 28
 writer:

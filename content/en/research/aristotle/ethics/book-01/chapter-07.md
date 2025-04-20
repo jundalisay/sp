@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "Is Happiness a thing that can be learned?"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

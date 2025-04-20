@@ -2,7 +2,7 @@
 title: "Singing and Music"
 description: "This sets poems to music by scanning the sounds according to well-known fixed proportions, which causes any sound (complex) thus scanned to constitute a tune, a rhythmic mode"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 31"
 weight: 42
 writer:

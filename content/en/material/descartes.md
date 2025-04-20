@@ -6,7 +6,7 @@ description: "Material Superphysics is largely based on Descartes Principia Phil
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

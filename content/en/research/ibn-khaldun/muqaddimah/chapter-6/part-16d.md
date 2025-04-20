@@ -2,7 +2,7 @@
 title: "The Four Topics of Sufism"
 description: "Many jurists and muftis have undertaken to refute these and similar statements by recent Sufis"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 16d"
 weight: 52
 writer:

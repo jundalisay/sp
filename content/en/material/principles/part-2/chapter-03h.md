@@ -8,7 +8,7 @@ description: "We are pushed down to earth because the Earth displaces space part
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Chapter 2-2"
 weight: 10
 image: "/covers/wn.jpg"
 description: "Every tax must ultimately be paid from any or all of those three kinds of revenue"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

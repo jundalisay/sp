@@ -4,7 +4,7 @@ heading: Chapter 2
 weight: 4
 image: "/covers/nova.jpg"
 description: "Human understanding is preoccupied with idols and false notions which are deeply rooted in it"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

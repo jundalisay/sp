@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "One class of Justs is those which are enforced by law in accordance with Virtue in the most extensive sense of the term."
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

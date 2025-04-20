@@ -4,7 +4,7 @@ heading: Chapter 12b
 weight: 45
 description: "These are not only serviceable when subjoined to fixed propositions, but also of themselves and from their own nature"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

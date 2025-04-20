@@ -7,7 +7,7 @@ description: "The universe is very fast, and is just one in the multiverse of in
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /avatars/lam.jpg
+icon: "Lam"
 draft: true
 weight: 4
 ---

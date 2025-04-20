@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/meno.jpg"
 description: "I would define virtue as the power of governing mankind."
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/parm.png"
 description: "While Socrates was speaking, Pythodorus thought that Parmenides and Zeno were not pleased at the successive steps of the argument"
-icon: "/icons/socrates.png"
+icon: "/icons/Parmenides.jpg"
 ---
 
 

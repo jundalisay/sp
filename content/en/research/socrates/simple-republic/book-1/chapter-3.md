@@ -4,7 +4,7 @@ title: "Justice is the Interest of the Citizens"
 weight: 8
 image: "/covers/republic.jpg"
 description: "Justice is in serving the interest of the people and society. The unjust seem to be happier than the just only in the beginning. In reality, they are less happy and are incapable of united action"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

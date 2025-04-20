@@ -3,7 +3,7 @@ title: "Material Superphysics FAQ"
 date: 2024-07-08
 image: /covers/faq.png
 description: "FAQ on Material Superphysics"
-icon: /icons/spmat.png
+icon: "Material Superphysics"
 ---
 
 

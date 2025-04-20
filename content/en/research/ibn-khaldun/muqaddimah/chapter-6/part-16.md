@@ -2,7 +2,7 @@
 title: "The Science of Sufism"
 description: "Sufism is based on the assumption that the method of the Sufis was always the path of truth and right guidance by the important early Muslims"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 16"
 weight: 46
 writer:

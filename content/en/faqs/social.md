@@ -3,7 +3,7 @@ title: "Social Superphysics FAQ"
 date: 2024-07-08
 image: /covers/faq.png
 description: "FAQ on Social Superphysics"
-icon: /icons/spmat.png
+icon: "Social Superphysics"
 draft: true
 ---
 

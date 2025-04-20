@@ -8,7 +8,7 @@ writer:
 weight: 26
 title: "Galaxies and Quasars"
 # date: 2020-01-31
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

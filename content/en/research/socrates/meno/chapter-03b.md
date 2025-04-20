@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/meno.jpg"
 description: "Meno, I am not teaching the boy anything"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

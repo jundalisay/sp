@@ -2,7 +2,7 @@
 title: "The Dynasty's authority"
 description: "To be caliph in reality means acting as substitute for Muhammad with regard to the preservation of the religion and the political leadership of the world"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 46"
 weight: 126
 writer:

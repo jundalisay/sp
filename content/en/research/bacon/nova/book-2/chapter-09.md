@@ -4,7 +4,7 @@ heading: Chapter 9
 weight: 28
 description: "These are a species or lesser form of the required nature"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

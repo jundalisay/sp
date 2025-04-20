@@ -3,7 +3,7 @@ title: "The Character Of Merchants Are Inferior"
 # to those of leading personalities and remote from manliness
 description: "A merchant concerns himself with buying and selling, earning money and making a profit"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Parts 13-15"
 weight: 22
 writer:

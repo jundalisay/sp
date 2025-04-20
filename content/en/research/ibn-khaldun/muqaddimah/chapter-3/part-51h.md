@@ -2,7 +2,7 @@
 title: "The Fatimids, the Talibids, the Quraysh"
 description: "The group feeling of the Fatimids and the Talibids, that of all the Quraysh, has everywhere disappeared"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 51h"
 weight: 150
 writer:

@@ -4,7 +4,7 @@ title: "Fortune"
 weight: 52
 description: "Outward accidents conduce much to fortune; favor, opportunity, death of others, occasion fitting virtue."
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

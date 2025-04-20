@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/meno.jpg"
 description: "Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zeno, Parmenides, Aristoteles"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

@@ -7,6 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
 image:  "/covers/history.jpg"
 description: "According to Descartes' theory, the sun is the centre of an immense vortex formed of the first or subtlest kind of matter"
+icon: "Edmund Taylor Whittaker"
 ---
 
 

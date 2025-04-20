@@ -1,6 +1,6 @@
 ---
 title: "The Succession of Ideas"
-weight: 7
+weight: 27
 description: "We perceive a continual Succession of Ideas, some are anew excited, others are changed or totally disappear"
 image: "/covers/know.jpg"
 contributors: ['Berkeley']

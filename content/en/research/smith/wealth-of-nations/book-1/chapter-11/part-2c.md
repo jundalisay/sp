@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The demand for Precious Metals and Stones arises partly from their utility and partly from their beauty"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

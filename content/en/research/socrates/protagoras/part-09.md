@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "'As I was rising from my seat, Callias seized me by the right hand. In his left hand caught hold of this old cloak of mine'"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

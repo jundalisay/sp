@@ -8,7 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 60
-icon: /icons/spmat.png
+icon: "Juan"
 toc: false
 draft: true
 ---

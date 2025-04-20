@@ -2,7 +2,7 @@
 title: "The Science of Metaphysics"
 description: "This studies the substance through which the generation of gold and silver may be artificially accomplished, and comments on the operation leading to it"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 26"
 weight: 72
 writer:

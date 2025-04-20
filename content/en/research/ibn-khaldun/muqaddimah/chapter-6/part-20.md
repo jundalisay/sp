@@ -2,7 +2,7 @@
 title: "The geometrical sciences"
 description: "The geometrical sciences are Astronomy, Surveying, Optics"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 20"
 weight: 62
 writer:

@@ -7,7 +7,7 @@ image: "/covers/nova.jpg"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

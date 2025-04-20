@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The art of war is certainly the noblest of all arts"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

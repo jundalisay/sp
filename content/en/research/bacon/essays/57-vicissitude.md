@@ -4,7 +4,7 @@ title: "Vicissitude Of Things"
 weight: 80
 description: "SOLOMON said that there is no new thing on the earth. So that as Plato had an imagination, That all knowledge was but remembrance."
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

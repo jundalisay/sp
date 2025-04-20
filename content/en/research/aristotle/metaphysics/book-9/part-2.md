@@ -7,7 +7,7 @@ description: "Arts are potentialities. They are originative sources of change in
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

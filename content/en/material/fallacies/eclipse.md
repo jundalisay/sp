@@ -7,7 +7,7 @@ description: "In his book Relativity, Einstein says that the changing of a star'
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Juan"
 toc: false
 ---
 

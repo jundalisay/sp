@@ -5,7 +5,7 @@ title: "Electricity"
 weight: 15
 image: /photos/physics/light.jpg
 description: "Electricity is the main substance of radiance"
-icon: /icons/spmat.png
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

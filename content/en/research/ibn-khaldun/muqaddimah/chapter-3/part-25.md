@@ -2,7 +2,7 @@
 title: "The Shia"
 description: "Shi'ah means 'companions and followers'"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 25"
 weight: 46
 ---

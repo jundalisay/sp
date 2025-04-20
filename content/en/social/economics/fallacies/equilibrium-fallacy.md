@@ -11,7 +11,7 @@ heading: "How Economics Leads to Crises"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Juan"
 ---
 
 
@@ -29,7 +29,7 @@ Adam Smith exposed this as mercantile sophistry in the 18th century, then called
 Modern Economics began with Paul Samuelson's neo-classical synthesis which described a downward sloping picturization of the 'Demand Schedule'*. It means that the price of a thing goes down the more abundant it is:
 
 
-{{< q a="Samuelson" c="Economics, Chapter 4 Supply and Demand: The Bare Elements, page 61" >}}
+{{< q a="Paul Samuelson" c="Economics, Chapter 4 Supply and Demand: The Bare Elements, page 61" >}}
 When the price of a good is raised (at the same time that all other things are held constant), less of it is demanded.
 {{< /q >}}
 
@@ -54,7 +54,7 @@ Like Smith, Samuelson also gives the example of water.
 
 However, Samuelson's version **observes this phenomenon from the viewpoint of business or the supplier first** instead of the buyer or demander. This is important because in reality, the buyers are made up of people in society. This subtle fact might not catch the attention of a casual reader, but it can be seen by a Socratic dialectician (a  person who has realized the True Nature of Existence).
 
-{{< q a="Samuelson" c="Economics, page 61" >}}
+{{< q a="Paul Samuelson" c="Economics, page 61" >}}
 Thus a first reason for the validity of the law of downward-sloping demand comes from the fact that lowering prices brings in new buyers.
 {{< /q >}}
 
@@ -97,7 +97,7 @@ We see that the demand curves of Smith the moralist, Samuelson the businessman, 
 
 Next, we look at the Samuelson's Supply curve to see that it is also business-first:
 
-{{< q a="Samuelson" >}}
+{{< q a="Paul Samuelson" >}}
 The supply..curve is..the relation between market prices and the amounts of the good that producers are willing to supply. At a higher price of wheat, farmers will take acres out of corn cultivation and put them into wheat. In addition, each farmer can now afford the cost of more fertilizer, labor, machinery.. All this tends to increase output at the higher prices offered. If society wants more wine, then more labor will have to be added to the same limited hill sites for producing grapes.. according to the law of diminishing returns.. the necessary cost to coax out additional product will have to rise.
 {{< /q >}}
 

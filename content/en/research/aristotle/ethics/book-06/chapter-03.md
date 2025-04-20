@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "Art Fortune loves, and is of her beloved"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

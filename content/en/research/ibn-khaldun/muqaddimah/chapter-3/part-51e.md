@@ -2,7 +2,7 @@
 title: "Ikrimah b. Ammar"
 description: "Some scholars considered him weak, others reliable"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 51d"
 weight: 144
 writer:

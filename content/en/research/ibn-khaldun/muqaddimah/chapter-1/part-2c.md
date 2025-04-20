@@ -4,7 +4,7 @@ title: "Detailed Description of the Map of the Earth"
 description: "The map of the earth was done by the author of the Book of Roger. "
 # and divides it into two halves. This is the ecliptic (zodiac)
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 2b"
 weight: 7
 writer:

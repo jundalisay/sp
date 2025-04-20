@@ -8,7 +8,7 @@ description : "Unlike animal minds, human minds are endowed with a higher level 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 

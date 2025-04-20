@@ -4,7 +4,7 @@ heading: Chapter 12c
 weight: 47
 description: "These indicate the separation of natures of the most common occurrence."
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

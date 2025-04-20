@@ -2,7 +2,7 @@
 title: "The Tiraz"
 description: "It is part of royal pomp to have the names of rulers or their peculiar marks embroidered on the silk"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 34e"
 weight: 102
 writer:

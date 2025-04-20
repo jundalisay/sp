@@ -3,7 +3,7 @@ title: "The Science Of Rhetorical Figures"
 # title: "The science of syntax and style and literary criticism"
 description: "Habits result only from repeated action. An action is done first once"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 44c"
 weight: 130
 ---

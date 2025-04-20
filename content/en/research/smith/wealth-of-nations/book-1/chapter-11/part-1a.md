@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Food is always in demand because men, like animals, naturally multiply in proportion to their subsistence"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

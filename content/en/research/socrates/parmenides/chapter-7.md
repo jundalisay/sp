@@ -4,7 +4,7 @@ heading: "Chapter 7"
 weight: 14
 image: "/covers/parm.png"
 description: "The One is affected by time"
-icon: "/icons/socrates.png"
+icon: "/icons/Parmenides.jpg"
 ---
 
 

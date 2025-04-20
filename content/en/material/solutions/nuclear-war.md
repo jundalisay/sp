@@ -6,7 +6,7 @@ description: "In Pricipia Philosophia, Rene Descartes explains how fire is creat
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

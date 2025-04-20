@@ -2,7 +2,7 @@
 title: "Abu Dawud"
 description: "Abu Dawud published a tradition relating to 'All in the chapter (on the Mahdi), as transmitted by Fitr b. Khalifah"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 51c"
 weight: 140
 writer:

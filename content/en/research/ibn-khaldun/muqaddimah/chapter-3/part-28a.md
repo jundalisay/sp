@@ -2,7 +2,7 @@
 title: "The Succession"
 description: "The appointment of a successor to the Caliph is part of the religious law through the consensus of the (Muslim) nation, (which says) that it is permissible and binding when it occurs"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 27"
 weight: 56
 ---

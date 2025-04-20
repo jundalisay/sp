@@ -7,7 +7,7 @@ title: "The Media of Radiance: Light, Magnetism, Heat"
 weight: 6
 image: /photos/physics/whitehole.jpg
 description: "The Medium of Radiance facilitates the dynamics of the radiant layer"
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

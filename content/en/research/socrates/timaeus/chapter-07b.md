@@ -5,7 +5,7 @@ weight: 44
 image: "/covers/timaeus.jpg"
 description: "There are 3 kinds of soul within us, having each of them motions"
 author: "Plato"
-icon: /icons/socrates.png
+icon: /icons/Socrates.jpg
 ---
 
 

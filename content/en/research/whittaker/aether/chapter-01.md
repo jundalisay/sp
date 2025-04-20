@@ -7,6 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
 image:  "/covers/history.jpg"
 description: "Modern research has shown how intimate is the connection between the different celestial bodies, proving a universal order."
+icon: "Edmund Taylor Whittaker"
 ---
 
 

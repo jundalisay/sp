@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The multiplication fish is both limited and uncertain"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

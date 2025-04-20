@@ -2,7 +2,7 @@
 title: "Midwifery"
 description: "Midwifery is a craft that shows how to proceed in bringing the new-born child gently out of the womb of his mother and how to prepare the things that go with that"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 27"
 weight: 32
 writer:

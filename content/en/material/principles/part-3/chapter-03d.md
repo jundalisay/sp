@@ -9,7 +9,7 @@ weight: 9
 # image: /graphics/physics/magnetboat.jpg 
 description: "Magnetism is facilitated by virtual photons which have a columnar shape"
 image: /graphics/physics/vmagnet.jpg
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

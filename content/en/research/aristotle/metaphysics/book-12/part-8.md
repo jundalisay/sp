@@ -7,7 +7,7 @@ description: "Eudoxus supposed that the motion of the sun or the moon involves 3
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

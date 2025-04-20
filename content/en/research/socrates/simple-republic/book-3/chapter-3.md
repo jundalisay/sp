@@ -4,7 +4,7 @@ heading: Chapter 3
 weight: 10
 description: "The state should focus on disease prevention by unhealthy food and by promoting work and activity"
 image: "/covers/republic.jpg"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

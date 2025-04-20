@@ -8,7 +8,7 @@ description: "Local Motion is relativistic. True Motion is absolutist"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

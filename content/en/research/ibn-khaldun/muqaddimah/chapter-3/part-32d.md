@@ -2,7 +2,7 @@
 title: "The office of doorkeeper (hijibah)"
 description: "In the Umayyad and 'Abbasid dynasties, the title of doorkeeper (hajib) was restricted to the person who guarded the ruler from the common people"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 32d"
 weight: 82
 writer:

@@ -4,7 +4,7 @@ title: "Parents And Children"
 weight: 14
 description: "THE joys of parents are secret, and so are their griefs and fears"
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

@@ -4,8 +4,8 @@ title: The Constant Speed of Light
 description: Thus, the propagation of Light will always go on with an equal velocity
 image: /covers/light.jpg
 weight: 7
-contributors: ['Huygens']
-icon: /avatars/huygens.png
+author: "Christiaan Huygens"
+icon: "Christiaan Huygens"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Part 2c"
 weight: 18
 image: "/covers/wn.jpg"
 description: "The necessity of civil government gradually grows up with the acquisition of valuable property"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -7,7 +7,7 @@ description: "Here, we explain Effort as implemented to create action-at-a-dista
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 aliases:
   /material/levitation
 ---

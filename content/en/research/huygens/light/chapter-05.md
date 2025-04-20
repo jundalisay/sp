@@ -4,8 +4,8 @@ title: The Strange Refraction Of Iceland Crystal
 description: We have shown how the movement which constitutes light spreads by spherical waves in any homogeneous matter. And it is evident that when the matter is not homogeneous
 image: /covers/light.jpg
 weight: 22
-contributors: ['Huygens']
-icon: /avatars/huygens.png
+author: "Christiaan Huygens"
+icon: "Christiaan Huygens"
 ---
 
 

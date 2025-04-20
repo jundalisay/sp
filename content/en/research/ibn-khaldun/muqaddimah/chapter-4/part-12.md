@@ -2,7 +2,7 @@
 title: "The Prices in Towns"
 description: "When a city is large and highly developed, the prices of necessary foodstuffs and corresponding items are low. The prices for luxuries, such as seasonings, fruits, and the things that go with them, are high"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 12"
 weight: 22
 writer:

@@ -4,7 +4,7 @@ heading: "Chapter 2-1a"
 weight: 6
 image: "/covers/wn.jpg"
 description: "The revenue which pays for national defense and the government may be drawn from some fund for from the revenue of the people"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

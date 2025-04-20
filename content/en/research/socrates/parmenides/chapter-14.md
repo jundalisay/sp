@@ -4,7 +4,7 @@ heading: "Chapter 14"
 weight: 28
 image: "/covers/parm.png"
 description: "The Others become other than each Other, for the only remaining alternative is that they are other than nothing."
-icon: "/icons/socrates.png"
+icon: "/icons/Parmenides.jpg"
 ---
 
 

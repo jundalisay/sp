@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Why are some things are produced spontaneously as well as by art?"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

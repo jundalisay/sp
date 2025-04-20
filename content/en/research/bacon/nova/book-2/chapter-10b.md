@@ -4,7 +4,7 @@ heading: Chapter 10b
 weight: 36
 description: ""
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "What is the nature of the right conception in violation of which a man fails of Self-Control?"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

@@ -4,7 +4,7 @@ heading: Chapter 4
 weight: 24
 description: "Men’s despair and the idea of impossibility are by far the greatest obstacle to the advancement of the sciences"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Chapter 2b-07 Article 2"
 weight: 22
 image: "/covers/wn.jpg"
 description: "Profits on stock naturally divides itself into two"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

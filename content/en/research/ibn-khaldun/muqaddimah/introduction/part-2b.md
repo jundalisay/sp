@@ -2,7 +2,7 @@
 title: "The Destruction of the Barmecides"
 description: "Eventually, the Barmecides irritated the inner circle. They caused resentment among the elite"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 2b"
 weight: 7
 writer:

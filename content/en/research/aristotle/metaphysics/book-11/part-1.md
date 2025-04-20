@@ -7,7 +7,7 @@ description: "Aristotle asks whether science should focus on the elemental or th
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

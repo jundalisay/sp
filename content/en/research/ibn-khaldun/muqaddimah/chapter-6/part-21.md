@@ -2,7 +2,7 @@
 title: "The Science of Astronomy"
 description: "Astronomy studies the motions of the fixed stars and the planets"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 21"
 weight: 64
 writer:

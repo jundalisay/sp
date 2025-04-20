@@ -4,7 +4,7 @@ heading: Chapter 4b
 weight: 14
 description: "Plato's Four Classes: Gold (Brahmin), Silver (Ksattriya), Brass (Vaesha), Iron (Shudra)"
 image: "/covers/republic.jpg"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

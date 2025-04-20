@@ -7,7 +7,7 @@ description: "The Fallacy Zwicky's of Tired Light"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Juan"
 toc: false
 ---
 

@@ -2,7 +2,7 @@
 title: "Supernatural Perception Through Near-Death Experience"
 description: "Certain criminal tyrants used to kill their prisoners to learn their own future from the words the prisoners would utter when they were about to be killed"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 6i"
 weight: 42
 date: 2020-01-14

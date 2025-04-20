@@ -9,7 +9,7 @@ description: "Physical Space is in the Physical Domain. Metaphysical Space is in
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

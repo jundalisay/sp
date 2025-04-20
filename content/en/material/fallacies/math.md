@@ -7,7 +7,7 @@ description: "The major Physics theories of the past century such as String Theo
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Juan"
 ---
 
 

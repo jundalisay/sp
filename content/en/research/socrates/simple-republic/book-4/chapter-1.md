@@ -5,7 +5,7 @@ weight: 8
 image: "/covers/republic.jpg"
 description: "Socrates gives the policies for wealth, war, and federalism"
 author: "Socrates"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

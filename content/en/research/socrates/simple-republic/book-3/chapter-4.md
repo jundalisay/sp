@@ -4,7 +4,7 @@ heading: Chapter 4
 weight: 12
 description: "The best judges know all sorts of moral natures. The most skilful physicians have the greatest experience with diseases, from their youth upwards"
 image: "/covers/republic.jpg"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

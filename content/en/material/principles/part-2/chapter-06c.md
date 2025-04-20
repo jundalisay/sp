@@ -10,7 +10,7 @@ description: "The Media of the Spatial Layer creates the common forces of gravit
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

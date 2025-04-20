@@ -4,7 +4,7 @@ title: "Youth And Age"
 weight: 54
 description: "A MAN that is young in years, may be old in hours, if he have lost no time"
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

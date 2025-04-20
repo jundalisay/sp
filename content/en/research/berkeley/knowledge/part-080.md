@@ -1,6 +1,6 @@
 ---
 title: "The Last of the Objections"
-weight: 7
+weight: 97
 description: "What if we give up the Cause of material Substance and assert, that Matter is an unknown Somewhat"
 image: "/covers/know.jpg"
 contributors: ['Berkeley']

@@ -2,7 +2,7 @@
 title: "Zone 3"
 description: "Opposite its western limit in the Surrounding Sea are two of Canary Islands"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 2f"
 weight: 14
 writer:

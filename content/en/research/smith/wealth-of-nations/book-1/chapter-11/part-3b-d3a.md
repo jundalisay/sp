@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Rude produce may be divided into three"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

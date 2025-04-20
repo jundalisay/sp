@@ -7,7 +7,7 @@ description: "The violence of these regulations did not affect the quantity or q
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

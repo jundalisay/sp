@@ -4,7 +4,7 @@ title: "Surface Tension"
 # date: 2023-11-10
 image: "/graphics/physics/doremi.jpg"
 description: ""
-icon: /icons/spmat.png
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

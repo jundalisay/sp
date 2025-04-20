@@ -9,6 +9,7 @@ description: "Supereconomics is concerned with the material well-being of societ
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+icon: "Juan"  
 ---
 
 
@@ -57,7 +58,7 @@ Business Interests (Society Works for Businessmen) | Societal Interests (Busines
 
 Economics Motive And Measure | Supereconomics Motive And Measure
 --- | ---
-Supply or Production Motive measured by GDP {{< q a="Say" >}}it is the Aim of Good Government to Stimulate Production, of Bad Government to Encourage Consumption.{{< /q >}} {{< q a="Samuelson" >}}GDP and the..national income accounts are among the great inventions of the 20th century{{< /q >}} | Demand or Consumption Motive measured By Purchasing Power {{< q a="Smith" >}}Consumption is the sole end and purpose of all production; the interest of the producer ought to be attended to only.. for promoting that of the consumer.{{< /q >}}
+Supply or Production Motive measured by GDP {{< q a="Say" >}}it is the Aim of Good Government to Stimulate Production, of Bad Government to Encourage Consumption.{{< /q >}} {{< q a="Paul Samuelson" >}}GDP and the..national income accounts are among the great inventions of the 20th century{{< /q >}} | Demand or Consumption Motive measured By Purchasing Power {{< q a="Smith" >}}Consumption is the sole end and purpose of all production; the interest of the producer ought to be attended to only.. for promoting that of the consumer.{{< /q >}}
 Pricing System | Nominal (money) Prices Only | Nominal (money Or Metals) And Real (grain) Prices
 Main Theory | Equilibrium Theory And Marginal Utility ![Marginal Utility Wrong](https://sorasystem.sirv.com/charts/wrong.png)  | Natural Price Theory And Effort Theory Of Value  <img src="https://sorasystem.sirv.com/charts/right.png" alt="right">
 

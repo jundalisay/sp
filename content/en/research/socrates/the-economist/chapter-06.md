@@ -4,7 +4,7 @@ heading: "Chapter 6"
 weight: 20
 image: "/covers/economist.jpg"
 description: "'I will make agriculture the basis of life. It is the noblest, best, and pleasantest to do'"
-icon: "/icons/socrates.png"
+icon: "/icons/Xenophon.jpg"
 ---
 
 

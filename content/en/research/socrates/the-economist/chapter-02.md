@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Xenophon
 image: "/covers/economist.jpg"
 description: "Wealth is anything that provides utilitiy and benefit for living"
-icon: "/icons/socrates.png"
+icon: "/icons/Xenophon.jpg"
 ---
 
 

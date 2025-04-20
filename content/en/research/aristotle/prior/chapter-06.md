@@ -7,7 +7,7 @@ description: "But if one term belongs to all, and another to none, of a third, o
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

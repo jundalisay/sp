@@ -4,7 +4,7 @@ heading: "Chapter 3"
 # date: 2020-01-31
 image: "/covers/philo.jpg"
 description: "Adam Smith explains the errors of Aristotle"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -2,7 +2,7 @@
 title: "Ibn Majah"
 description: "In his Kitab as-Sunan, Ibn Majah published the following tradition of Abdallah b. Masud"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 51d"
 weight: 142
 writer:

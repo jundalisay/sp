@@ -2,7 +2,7 @@
 title: "The corruption of philosophy"
 description: "If another habit previously occupied the place of that habit, the subsequent habit has not enough room to develop"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 30b"
 weight: 96
 ---

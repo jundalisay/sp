@@ -9,7 +9,7 @@ description: "A society is three or more entities working towards a common inter
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 

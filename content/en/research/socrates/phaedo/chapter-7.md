@@ -4,7 +4,7 @@ heading: "Chapter 7"
 weight: 16
 image: "/covers/phaedo.png"
 description: "The brain may be the originating power of hearing, sight, and smell. Memory and opinion may come from them. Science may be based on memory and opinion when they have attained fixity"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

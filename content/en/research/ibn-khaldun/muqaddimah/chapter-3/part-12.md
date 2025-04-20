@@ -2,7 +2,7 @@
 title: "The 3 Generation Rule"
 description: "Simlarly, dynasties have a lifespan which differ according to the conjunctions. However, as a rule, no dynasty lasts beyond 3 generations"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 12"
 weight: 26
 ---

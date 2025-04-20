@@ -2,7 +2,7 @@
 title: "The Errors of Ibn Dihaq"
 description: "Sufis call that the station of 'combination' (jam')"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 16c"
 weight: 50
 writer:

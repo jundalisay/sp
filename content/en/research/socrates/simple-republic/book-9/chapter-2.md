@@ -5,7 +5,7 @@ weight: 6
 image: "/covers/republic.jpg"
 description: "The Three Pleasures are Wisdom, Honor, Gain"
 author: "Socrates"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

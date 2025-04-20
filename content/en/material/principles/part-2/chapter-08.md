@@ -5,7 +5,7 @@ date: 2024-12-19
 weight: 40
 image: /photos/physics/blow.jpg
 description: "High and Low Spatial Pressure are vortexless polarities in the Spatial layer"
-icon: /icons/spmat.png
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay

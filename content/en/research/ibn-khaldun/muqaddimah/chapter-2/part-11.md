@@ -2,7 +2,7 @@
 title: "Leadership cannot be handed to those not of the same descent"
 description: "This is because leadership exists only through superiority, and superiority only through group feeling. Leadership over people, therefore, must, of necessity, derive from a group feeling that is superior to each individual group feeling"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 11"
 weight: 16
 writer:

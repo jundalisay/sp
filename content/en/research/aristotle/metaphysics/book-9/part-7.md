@@ -7,7 +7,7 @@ description: "We must distinguish when a thing exists potentially and when it do
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

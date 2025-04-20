@@ -5,7 +5,7 @@ title: "The Conservation of Idea or Identity"
 weight: 40
 image: /graphics/physics/layers.png
 description: "Each of the 5 Layers implements a Conservation Law in order to maintain the balance in the universe"
-icon: /icons/spmat.png
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

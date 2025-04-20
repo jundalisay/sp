@@ -4,7 +4,7 @@ title: "Custom And Education"
 weight: 51
 description: "MEN'S thoughts, are much according to their inclination; their discourse and speeches, according to their learning and infused opinions"
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

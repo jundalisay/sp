@@ -4,7 +4,7 @@ heading: "Part 7b"
 weight: 17
 description: "I assigned metaphysic to handle the inquiries of formal and final causes."
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

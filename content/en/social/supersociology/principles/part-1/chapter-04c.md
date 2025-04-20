@@ -9,7 +9,7 @@ description: "Action and Reaction applies not only in the physical domain, but a
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 
@@ -88,7 +88,7 @@ The corruption of morality usual starts from these. As proof, the corruption of 
 
 Samuelson’s textbook Economics enshrined ego and destroyed even the most basic kind of sympathy, such as the sympathy for poor children:
 
-{{< q a="Samuelson" c="Economics" >}}
+{{< q a="Paul Samuelson" c="Economics" >}}
 John D. Rockefeller’s dog may receive the milk that a poor child needs to avoid rickets. Why? Because supply and demand are working badly? No. Because **they are doing what they are designed to do**, putting goods in the hands of those who can pay the most.
 {{< /q >}}
 

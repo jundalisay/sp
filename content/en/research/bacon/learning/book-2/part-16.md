@@ -4,7 +4,7 @@ title: "Transitive Rational Knowledge"
 weight: 34
 description: "The fourth kind of rational knowledge is the transitive"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

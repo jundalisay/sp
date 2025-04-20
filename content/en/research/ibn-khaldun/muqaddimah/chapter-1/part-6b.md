@@ -2,7 +2,7 @@
 title: "The 5 Elements"
 description: "Each one of the elements is prepared to be transformed into the next higher or lower one, and sometimes is transformed"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 6b"
 weight: 31
 writer:

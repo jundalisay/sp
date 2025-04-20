@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "In one sense the 'being' meant is 'what a thing is' or a 'this'. In another sense it means a quality or quantity or one of the other things that are predicated as these are"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

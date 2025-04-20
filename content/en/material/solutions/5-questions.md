@@ -7,7 +7,7 @@ description: "Cartesian Physics Explains 5 Phenomena of Veritasium"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 toc: false
 weight: 5
 ---

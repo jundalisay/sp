@@ -2,7 +2,7 @@
 title: "Zone 4"
 description: "Its first section, in the west, contains a portion of the Surrounding oblong Sea"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 2g"
 weight: 16
 writer:

@@ -4,7 +4,7 @@ title: "Three Causes for the Popularity of Prophetic Visions"
 weight: 46
 description: "Prophetic Visions became creditable due to 3 things"
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

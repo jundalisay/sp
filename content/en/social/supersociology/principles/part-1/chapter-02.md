@@ -9,7 +9,7 @@ description: "Culture is the expression of the society-organism just as personal
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 

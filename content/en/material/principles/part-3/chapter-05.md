@@ -6,7 +6,7 @@ title: "Quanta of Radiance"
 weight: 24
 image: /photos/physics/elec.jpg
 description: "Electrons are the main quantum of radiance"
-icon: /icons/spmat.png
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

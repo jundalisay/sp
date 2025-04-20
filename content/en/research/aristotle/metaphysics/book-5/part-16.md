@@ -7,7 +7,7 @@ writer:
 weight: 20
 image: "/covers/meta.jpg"
 description: "Aristotle defines Complete, Limit, Disposition"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

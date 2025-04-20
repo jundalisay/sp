@@ -1,6 +1,6 @@
 ---
 title: "The Ideas of Sight and Touch"
-weight: 7
+weight: 47
 description: "The Ideas of Sight and Touch make two Species, intirely distinct and heterogeneous"
 image: "/covers/know.jpg"
 contributors: ['Berkeley']

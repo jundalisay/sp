@@ -5,7 +5,7 @@ weight: 10
 image: "/covers/republic.jpg"
 description: "Socrates emphasized self-restraint in well-ordered States"
 author: "Socrates"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

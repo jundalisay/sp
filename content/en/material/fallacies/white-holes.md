@@ -6,7 +6,7 @@ description: "White Holes do not exist because General Relativity is a false the
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Juan"
 ---
 
 

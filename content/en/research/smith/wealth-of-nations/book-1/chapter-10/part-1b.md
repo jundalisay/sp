@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Wages vary with the constancy or inconstancy of employment"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

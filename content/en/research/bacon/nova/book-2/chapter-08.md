@@ -4,7 +4,7 @@ heading: Chapter 8
 weight: 24
 description: "These are opposed to the conspicuous instances"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

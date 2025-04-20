@@ -4,8 +4,8 @@ title: Illustrations
 description: To demonstrate the effect of the curve, let there be described about the centre L the circular arc AH, cutting LG at H
 image: /covers/light.jpg
 weight: 30
-contributors: ['Huygens']
-icon: /avatars/huygens.png
+author: "Christiaan Huygens"
+icon: "Christiaan Huygens"
 ---
 
 

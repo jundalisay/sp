@@ -7,7 +7,7 @@ description: "Must we suppose something apart from individual things, or is it t
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

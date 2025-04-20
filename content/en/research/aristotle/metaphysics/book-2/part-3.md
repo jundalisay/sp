@@ -7,7 +7,7 @@ description: "The effect which lectures produce on a hearer depends on his habit
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

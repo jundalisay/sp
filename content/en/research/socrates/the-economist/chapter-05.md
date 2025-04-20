@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Xenophon
 image: "/covers/economist.jpg"
 description: "High and mighty people find it hard to hold aloof from agriculture. Devotion to it seems to be thrice blest"
-icon: "/icons/socrates.png"
+icon: "/icons/Xenophon.jpg"
 ---
 
 

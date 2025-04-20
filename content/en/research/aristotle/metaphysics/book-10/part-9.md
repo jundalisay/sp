@@ -7,7 +7,7 @@ description: "Why do women and men have the same species, while female and male 
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

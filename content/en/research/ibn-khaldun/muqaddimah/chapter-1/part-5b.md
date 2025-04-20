@@ -3,7 +3,7 @@
 title: "The Bad Effects of Abundance on the Body"
 description: "The influence of abundance on the body is apparent even in matters of religion and divine worship"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 5"
 weight: 29
 writer:

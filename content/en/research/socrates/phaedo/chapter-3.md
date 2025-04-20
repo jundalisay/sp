@@ -4,7 +4,7 @@ heading: "Chapter 3"
 weight: 8
 image: "/covers/phaedo.png"
 description: "The opposite of dying is a return to life. And return to life, if there be such a thing, is the birth of the dead into the world of the living"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

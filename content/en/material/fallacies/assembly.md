@@ -8,7 +8,7 @@ description: "Assembly Theory is a philosophical Theory of Change pretending to 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Juan"
 toc: false
 ---
 

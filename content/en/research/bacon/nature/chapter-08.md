@@ -5,7 +5,7 @@ heading: Chapter 8
 weight: 10
 image: "/covers/interpret.jpg"
 description: "In the divine nature, both religion and philosophy acknowledges goodness in perfection"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

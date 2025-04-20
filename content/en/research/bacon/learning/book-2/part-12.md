@@ -4,7 +4,7 @@ heading: "Part 12"
 weight: 26
 description: "The knowledge which respects the faculties of the mind of man is of 2 kinds"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

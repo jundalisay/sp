@@ -4,7 +4,7 @@ heading: Chapter 11
 weight: 40
 description: "These are such works as are most noble and perfect, the masterpieces in every art"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

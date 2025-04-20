@@ -2,7 +2,7 @@
 title: "Places that succumb to the Arabs are quickly ruined"
 description: "The Arabs are a savage nation"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 25-26"
 writer:
   name: Ibn Khaldun

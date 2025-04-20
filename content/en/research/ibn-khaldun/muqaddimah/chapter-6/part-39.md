@@ -2,7 +2,7 @@
 title: "Severity to students does them harm"
 description: "Severe punishment during teaching harms the student, especially little children, because it belongs among the things that make for a bad habit"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 39"
 weight: 116
 ---

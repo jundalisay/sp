@@ -7,7 +7,7 @@ description: "The exportation of raw materials is sometimes discouraged by absol
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

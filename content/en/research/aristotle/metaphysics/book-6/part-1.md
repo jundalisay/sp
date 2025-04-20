@@ -7,7 +7,7 @@ writer:
 weight: 1
 image: "/covers/meta.jpg"
 description: "Aristotle defines The Causes of Being"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The History of the Ka'bah"
 description: "The mosques and venerated buildings of the world"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 6"
 weight: 16
 writer:

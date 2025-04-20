@@ -2,7 +2,7 @@
 title: "Only tribes held together by group feeling can live in the desert"
 description: "The reliance of sedentary people on laws destroys their fortitude and power of resistance"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 7"
 weight: 12
 writer:

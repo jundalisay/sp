@@ -4,7 +4,7 @@ heading: Chapter 5
 weight: 30
 description: ""
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 {{< s v="122" >}} People might object that we <!-- are being singular and harsh for trying to --> banishing all authorities and sciences with one stroke <!-- and assault by our own efforts --> without the help of the ancients.

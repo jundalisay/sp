@@ -7,7 +7,7 @@ description: "There are three kinds of movement-of quality, of quantity, of plac
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

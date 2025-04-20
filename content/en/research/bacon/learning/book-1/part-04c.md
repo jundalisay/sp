@@ -4,7 +4,7 @@ title: "Why we Accept Wrong Things"
 weight: 12
 description: "This facility of accepting things weakly authorised is of 2 kinds"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

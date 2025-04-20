@@ -9,7 +9,7 @@ weight: 8
 # description: "Magnetism is facilitated by virtual photons which have a columnar shape"
 image: /graphics/physics/vphoton.jpg
 description: "The Source of All Movement is Internal configuration, powered Externally"
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

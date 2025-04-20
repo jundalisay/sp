@@ -4,7 +4,7 @@ heading: Chapter 10c
 weight: 37
 description: "Examples are the errors of nature, or strange and monstrous objects"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

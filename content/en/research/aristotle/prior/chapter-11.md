@@ -7,7 +7,7 @@ description: "Aristotle gives maximum importance to the sight over the other sen
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

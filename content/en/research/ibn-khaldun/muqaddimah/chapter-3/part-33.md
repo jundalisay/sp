@@ -2,7 +2,7 @@
 title: "The different importance of the ranks of the sword and the pen"
 description: "Both the sword and the pen are instruments for the ruler to use in his affairs"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 33"
 weight: 92
 writer:

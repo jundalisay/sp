@@ -4,7 +4,7 @@ title: The Invention of Science and Speech
 weight: 29
 description: "The parts of human learning have reference to the 3 parts of man’s understanding, which is the seat of learning"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

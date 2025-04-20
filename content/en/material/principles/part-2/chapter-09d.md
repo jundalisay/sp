@@ -5,7 +5,7 @@ date: 2024-12-19
 weight: 46
 image: /graphics/physics/gr2.jpg
 description: "Spatial-Radiant Spatial Relationality deals with large scale spaces"
-icon: /icons/spmat.png
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

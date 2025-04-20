@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "In every farm, the offals of the barn and stables will maintain Poultry, Pork, and Dairy"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

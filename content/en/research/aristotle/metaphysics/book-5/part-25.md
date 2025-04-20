@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Aristotle defines Part and Whole"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

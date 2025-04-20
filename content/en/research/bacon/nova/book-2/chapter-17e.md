@@ -4,7 +4,8 @@ heading: Chapter 17e
 weight: 76
 description: "The effects produced by harmony and aversion"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
+author: "Francis Bacon"
 ---
 
 

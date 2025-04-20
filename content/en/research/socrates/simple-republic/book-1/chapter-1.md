@@ -4,7 +4,7 @@ title: "What is Justice?"
 weight: 4
 image: "/covers/republic.jpg"
 description: "Justice is not merely doing good to our friends and doing harm to our enemies. Nor is it just the repayment of debts."
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 
@@ -12,7 +12,7 @@ icon: "/icons/socrates.png"
 
 Persons in the dialogue:
 
-Socrates, the narrator | ![Socrates avatar](/icons/socrates.png)
+Socrates, the narrator | ![Socrates avatar](/icons/Socrates.jpg)
 --- | ---
 Glaucon | ![Glaucon avatar](/icons/g01.png)
 Adeimantus | ![Adeimmantus avatar](/icons/g02.png)

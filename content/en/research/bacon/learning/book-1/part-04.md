@@ -4,7 +4,7 @@ title: "The 3 Diseases in Learning"
 weight: 10
 description: "Errors and vanities have intervened in the studies of the learned"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

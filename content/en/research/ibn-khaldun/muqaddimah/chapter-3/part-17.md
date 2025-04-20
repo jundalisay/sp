@@ -2,7 +2,7 @@
 title: "The Ruler's Supporters"
 description: "The ruler seeks the help of clients and followers against the men of his own people and group feeling"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 17"
 weight: 34
 ---

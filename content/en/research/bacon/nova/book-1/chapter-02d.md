@@ -4,7 +4,7 @@ heading: Chapter 2d
 weight: 10
 image: "/covers/nova.jpg"
 description: "The idols of the market are the most troublesome of all"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

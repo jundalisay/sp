@@ -7,7 +7,7 @@ description: "Our theory of gravity is called the Elastic theory derived from th
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 draft: true
 ---
 

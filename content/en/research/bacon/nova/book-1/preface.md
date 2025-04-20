@@ -5,7 +5,7 @@ weight: 1
 description: ""
 author: "Lord Bacon"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

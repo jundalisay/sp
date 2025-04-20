@@ -7,7 +7,7 @@ description: "Every science seeks certain principles and causes for each of its 
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Chapter 3k"
 weight: 24
 image: "/covers/wn.jpg"
 description: "The difficulty of getting payment from our sugar colonies is due to the planters' temptation in overtrading"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -6,7 +6,7 @@ description: "We apply Gravitational Signatures to fix Einstein's Relativity"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 weight: 100
 ---
 

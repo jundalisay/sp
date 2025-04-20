@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/meno.jpg"
 description: "Meno, Socrates, A Slave of Meno (Boy), Anytus"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 
@@ -16,7 +16,7 @@ PERSONS OF THE DIALOGUE: Meno, Socrates, A Slave of Meno (Boy), Anytus.
 
 | Meno ![Meno](/icons/g02.png) |
 | --- | --- |
-| Socrates | ![Socrates avatar](/icons/socrates.png) |
+| Socrates | ![Socrates avatar](/icons/Socrates.jpg) |
 | Slave boy | ![Slave boy avatar](/icons/g04.png) |
 | Anytus | ![Anytus avatar](/icons/g09.png) |
 

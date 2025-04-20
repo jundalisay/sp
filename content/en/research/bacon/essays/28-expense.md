@@ -4,7 +4,7 @@ title: "Expense"
 weight: 40
 description: "RICHES are for spending, and spending for honor and good actions"
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

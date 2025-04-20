@@ -2,7 +2,7 @@
 title: "The truth about the Fatimid"
 description: "The caliph acts as substitute for Muhammad with regard to the preservation of Islam and the political leadership of the world"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 51"
 weight: 136
 writer:

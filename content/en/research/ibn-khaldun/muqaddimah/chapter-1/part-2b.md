@@ -4,7 +4,7 @@ title: "The Geocentric Universe"
 description: "Parallel to the courses of all these stars in their spheres, there runs a large circle which belongs to the highest sphere"
 # and divides it into two halves. This is the ecliptic (zodiac)
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 2b"
 weight: 6
 writer:

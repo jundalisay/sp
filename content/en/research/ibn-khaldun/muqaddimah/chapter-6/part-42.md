@@ -2,7 +2,7 @@
 title: "Most of the scholars in Islam have been Persians"
 description: "In the beginning, Islam had no sciences or crafts because of the simple conditions of the desert attitude"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 42"
 weight: 120
 ---

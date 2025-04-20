@@ -4,7 +4,7 @@ heading: Chapter 1
 weight: 2
 description: "The aim of human power is to generate a new nature on a body"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

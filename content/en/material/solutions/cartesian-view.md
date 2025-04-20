@@ -7,7 +7,7 @@ description: "The Cartesian View adds the causal aethereal visualization which c
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 toc: false
 weight: 4
 draft: true

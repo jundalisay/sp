@@ -6,7 +6,7 @@ description: "The common definition of socialism nowadays came from the 19th cen
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 

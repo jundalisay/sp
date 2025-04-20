@@ -8,7 +8,7 @@ description: "To unify both, physicists invented string theory wherein particles
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

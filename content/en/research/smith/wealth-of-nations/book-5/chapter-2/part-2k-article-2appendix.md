@@ -4,7 +4,7 @@ heading: "Chapter 2b-11 Article 2"
 weight: 30
 image: "/covers/wn.jpg"
 description: "Taxation by stamp-duties and registration duties are a very modern invention"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

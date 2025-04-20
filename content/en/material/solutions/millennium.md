@@ -6,7 +6,7 @@ description: "We use Superphysics and Qualimath to solve the Millennium Prize Pr
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 weight: 1
 ---
 

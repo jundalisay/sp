@@ -7,7 +7,7 @@ description: "Luck is an accidental cause at work in such events adapted to an e
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

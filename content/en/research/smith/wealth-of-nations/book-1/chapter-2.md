@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

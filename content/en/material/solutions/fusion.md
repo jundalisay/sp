@@ -7,7 +7,7 @@ description: "Fusion can be realized by artificial gravity just as stars use gra
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 weight: 6
 ---
 

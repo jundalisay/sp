@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Francis_Bacon
 image: "/covers/interpret.jpg"
 description: "The plainest method is to distribute sciences, arts, inventions, works, and their portions, according to their usefulness to life"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

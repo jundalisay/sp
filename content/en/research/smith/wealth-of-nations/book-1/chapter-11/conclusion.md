@@ -8,7 +8,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Every increase in the real wealth of the society, every increase in the quantity of useful labour employed within it, tends indirectly to raise the real rent of land"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

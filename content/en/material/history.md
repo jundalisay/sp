@@ -6,7 +6,7 @@ description: "The aether drag has always been in the measurements done by physic
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

@@ -6,7 +6,7 @@ title: "The Medium of Convertibility: W and Z Bosons"
 linkTitle: "W Z Bosons"
 image: /photos/physics/sparks.jpg 
 description: "W and Z Bosons are the media for the convertible layer"
-icon: /icons/spmat.png
+icon: "Juan"
 weight: 12
 writer:
   name: Juan

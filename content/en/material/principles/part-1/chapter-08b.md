@@ -7,7 +7,7 @@ description: "The aether drag has always been in the measurements done by physic
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 weight: 49
 aliases:
   /material/aether-dash

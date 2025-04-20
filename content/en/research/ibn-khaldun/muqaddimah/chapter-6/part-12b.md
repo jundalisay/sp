@@ -2,7 +2,7 @@
 title: "The Malikite School"
 description: "Malik b. Anas was followed by Muhammad b. Idris al-Muttalibi ash-Shafi'i"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 12b"
 weight: 26
 writer:

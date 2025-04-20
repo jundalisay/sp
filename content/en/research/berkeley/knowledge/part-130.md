@@ -1,6 +1,6 @@
 ---
 title: "The Speculations of Infinities"
-weight: 7
+weight: 177
 description: "Recently, the Speculations about Infinities have run so high"
 image: "/covers/know.jpg"
 contributors: ['Berkeley']

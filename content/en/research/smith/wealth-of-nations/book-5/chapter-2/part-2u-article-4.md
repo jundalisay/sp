@@ -4,7 +4,7 @@ heading: "Chapter 2d-06, Article 4"
 weight: 50
 image: "/covers/wn.jpg"
 description: "Taxes on luxuries generally are paid piecemeal. In the time and mode of payment they are the most convenient of all taxes"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

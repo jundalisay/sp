@@ -2,7 +2,7 @@
 title: "The temperate and the intemperate zones"
 description: "The influence of the air upon the color of human beings and upon many (other) aspects of their condition"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 3"
 weight: 24
 writer:

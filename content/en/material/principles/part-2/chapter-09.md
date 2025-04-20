@@ -5,7 +5,7 @@ date: 2024-12-19
 weight: 42
 image: /graphics/physics/traf.png
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
-icon: /icons/spmat.png
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

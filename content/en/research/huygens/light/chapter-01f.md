@@ -4,8 +4,8 @@ title: The Emanation of These Waves
 description: Each particle of matter in which a wave spreads does not communicate its motion only to the next particle ahead of it in a straight line from the luminous point
 image: /covers/light.jpg
 weight: 8
-contributors: ['Huygens']
-icon: /avatars/huygens.png
+author: "Christiaan Huygens"
+icon: "Christiaan Huygens"
 ---
 
 

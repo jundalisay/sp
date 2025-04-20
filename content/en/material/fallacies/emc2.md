@@ -7,7 +7,7 @@ description: "The idea of Mass-Energy Equivalence was created by Einstein throug
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Juan"
 toc: false
 ---
 

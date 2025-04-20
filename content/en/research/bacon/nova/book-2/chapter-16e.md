@@ -4,7 +4,8 @@ heading: Chapter 16c
 weight: 68
 description: "Wrestling instances or instances of predominance"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
+author: "Francis Bacon"
 ---
 
 

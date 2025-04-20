@@ -6,7 +6,7 @@ description: "Last December 27, I came up with a draft theory of gravitational r
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

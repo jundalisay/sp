@@ -2,7 +2,7 @@
 title: "How Dynasties Disintegrates"
 description: "The transition of dynasties from desert life to sedentary culture"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 45"
 weight: 124
 writer:

@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "Moral Virtue is a middle or mean state that lies between two faulty states"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

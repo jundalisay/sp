@@ -4,7 +4,7 @@ heading: "Chapter 2-2c Article 1"
 weight: 14
 image: "/covers/wn.jpg"
 description: "The cost of levying a variable land-tax would be greater than levying a fixed land-tax"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -8,7 +8,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

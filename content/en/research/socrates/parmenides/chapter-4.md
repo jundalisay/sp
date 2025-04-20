@@ -4,7 +4,7 @@ heading: "Chapter 4"
 weight: 8
 image: "/covers/parm.png"
 description: "The Whole is the One when taken as Existing or being perceived by those inside It, as the Others"
-icon: "/icons/socrates.png"
+icon: "/icons/Parmenides.jpg"
 ---
 
 

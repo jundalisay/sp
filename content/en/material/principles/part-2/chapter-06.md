@@ -5,7 +5,7 @@ title: "Conservation of Momentum: The 4 Rules of True Motion"
 weight: 28
 image: /graphics/physics/rule1.jpg
 description: "Rene Descartes gave 3 Rules of Movement in 'The World' which we combine with Spinoza"
-icon: /icons/spmat.png
+icon: "Juan"
 aliases:
   /material/motion
 writer:

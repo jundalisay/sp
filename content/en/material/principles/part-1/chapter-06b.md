@@ -5,7 +5,7 @@ title: "Vortex Spin"
 weight: 42
 image: /photos/physics/sparks.jpg
 description: "The Principle of Least Action or Effort"
-icon: /icons/spmat.png
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -6,7 +6,7 @@ description: "We discuss Bob Lazar's UFO Design"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

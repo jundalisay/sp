@@ -4,7 +4,7 @@ heading: "Chapter 2d-08, Article 4"
 weight: 54
 image: "/covers/wn.jpg"
 description: "In France, most of the crown's actual revenue is derived from 8 sources"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

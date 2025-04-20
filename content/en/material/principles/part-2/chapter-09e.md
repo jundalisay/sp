@@ -8,7 +8,7 @@ linkTitle: "Orbital Gravity"
 weight: 48
 image: /graphics/physics/bands.jpg
 description: "The Elastic Theory is from Descartes and kepler, with important maxim-contributions from Socrates, Taoism, Buddhism, and Hinduism."
-icon: /icons/spmat.png
+icon: "Juan"
 draft: true
 writer:
   name: Juan

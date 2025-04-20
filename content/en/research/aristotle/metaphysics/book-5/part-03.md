@@ -7,7 +7,7 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 description: "Aristotle explains element and nature"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

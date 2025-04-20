@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "In our North American and West Indian colonies, both wages and interest, and consequently profits, are higher than in England."
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

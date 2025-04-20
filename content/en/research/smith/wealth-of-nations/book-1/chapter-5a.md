@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Labor or effort is the foundation of value and subsequently wealth in a society. Money represents the command of labor"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

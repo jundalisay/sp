@@ -7,7 +7,7 @@ description: "We explain the 5 Niyamas of Patanjali"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /avatars/lam.jpg
+icon: "Lam"
 weight: 10
 ---
 

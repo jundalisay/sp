@@ -2,7 +2,7 @@
 title: "The Four Generation Rule"
 description: "All nobility and prestige ends after four successive generations"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Parts 13-15"
 writer:
   name: Ibn Khaldun

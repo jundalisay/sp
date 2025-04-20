@@ -4,7 +4,7 @@ heading: "Chapter 9f"
 weight: 114
 image: "/covers/wn.jpg"
 description: "The greatest and most important commerce of every nation is the commerce between the town and the countryside"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

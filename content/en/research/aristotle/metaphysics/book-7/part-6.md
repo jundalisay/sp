@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Is each thing and its essence are the same or different?"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

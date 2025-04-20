@@ -2,7 +2,7 @@
 title: "Group Feeling and Royal Authority"
 description: "The goal of group feeling is royal authority as it gives protection and mutual defense"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 16"
 weight: 22
 writer:

@@ -4,7 +4,7 @@ title: "Goodness and Goodness Of Nature"
 weight: 20
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

@@ -6,7 +6,7 @@ description: "The principles of Galileo and Newton cannot work with the James We
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 draft: true
 ---
 

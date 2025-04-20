@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Since the discovery of America, the market for its silver mines has been growing more extensive for three reasons"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

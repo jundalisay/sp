@@ -2,7 +2,7 @@
 title: "Tahir bin al-Husayn's Letter (Part 1)"
 description: "Tahir's Letter to his Son Abdallah"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 50b"
 weight: 133
 writer:

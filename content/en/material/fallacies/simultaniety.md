@@ -7,7 +7,7 @@ description: "Science is pure objectiveness. The problem is that the universe is
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Juan"
 toc: false
 ---
 

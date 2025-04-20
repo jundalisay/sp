@@ -4,7 +4,7 @@ heading: Chapter 10
 weight: 34
 description: "These exhibit resemblances and connection of things, not in minor forms (as the constitutive do), but at once in the concrete"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

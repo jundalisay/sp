@@ -8,7 +8,7 @@ description: "Proper Time passes faster on a mountain because it covers more spa
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

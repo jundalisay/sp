@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The Ayr Bank failed because it was too big to fail"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

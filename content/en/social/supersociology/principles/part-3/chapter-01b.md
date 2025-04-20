@@ -9,7 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 draft: true
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 

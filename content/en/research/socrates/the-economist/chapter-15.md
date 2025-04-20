@@ -7,7 +7,7 @@ description: "Agriculture makes the wise and skilled possessor of it wealthy, wh
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-icons: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

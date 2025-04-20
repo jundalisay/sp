@@ -4,7 +4,7 @@ heading: Chapter 1
 description: "Man is the minister and interpreter of nature. He tries to understand the order of nature."
 weight: 2
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 {{< s v="1" >}} Man is the minister and interpreter of nature. 

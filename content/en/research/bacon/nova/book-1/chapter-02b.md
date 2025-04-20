@@ -4,7 +4,7 @@ heading: Chapter 2b
 weight: 6
 image: "/covers/nova.jpg"
 description: "The nature of human understanding easily supposes a greater degree of order and equality in things than it really finds"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Ibn al-Bawwab"
 description: "Ibn al-Bawwab wrote a poem in the basit meter with the rhyme on r"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 29b"
 weight: 38
 writer:

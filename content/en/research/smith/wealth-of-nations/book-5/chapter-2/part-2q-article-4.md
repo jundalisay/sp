@@ -4,7 +4,7 @@ heading: "Chapter 2d-02, Article 4"
 weight: 42
 image: "/covers/wn.jpg"
 description: "In all cases, high duties reduced customs revenue below what moderate duties would have afforded"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

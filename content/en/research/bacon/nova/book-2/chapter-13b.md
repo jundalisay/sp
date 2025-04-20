@@ -4,7 +4,7 @@ heading: Chapter 13b
 weight: 49
 description: "These cite those things to appear, which have not yet appeared"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

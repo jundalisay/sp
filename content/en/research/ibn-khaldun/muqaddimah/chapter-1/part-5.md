@@ -3,7 +3,7 @@
 title: "The Benefits of a Low Calorie Diet"
 description: "In some parts, the inhabitants enjoy an abundance of grain, seasonings, wheat, and fruits, because the soil is well balanced"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 5"
 weight: 28
 writer:

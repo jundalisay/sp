@@ -7,7 +7,7 @@ description: "We predict that Sarah will have more votes than Bongbong"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 

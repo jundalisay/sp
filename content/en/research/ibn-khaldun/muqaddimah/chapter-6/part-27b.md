@@ -2,7 +2,7 @@
 title: "Sorcerers and the Evil Eye"
 description: "In the Maghrib, there is a type of magical practitioners who are known as rippers (baaj)"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 27b"
 weight: 76
 writer:

@@ -2,7 +2,7 @@
 title: "Medicine"
 description: "The craft of medicine is needed in settled areas and cities but not in the desert"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 28"
 weight: 34
 writer:

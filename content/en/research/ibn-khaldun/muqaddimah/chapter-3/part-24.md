@@ -2,7 +2,7 @@
 title: "The differences of opinion on the Caliphate"
 description: "The Caliphate substitutes for Muhammad in as much as it serves, like him, to preserve the religion and to exercise political leadership of the world"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 20"
 weight: 42
 ---

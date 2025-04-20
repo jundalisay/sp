@@ -7,7 +7,7 @@ description: "The living instrument, the artificer, was also not allowed to go f
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

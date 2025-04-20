@@ -6,7 +6,7 @@ date: 2014-08-01
 weight: 32
 image: /graphics/physics/monad.jpg
 description: "The Quantum of Aether is divided into 3 groups"
-icon: /icons/spmat.png
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

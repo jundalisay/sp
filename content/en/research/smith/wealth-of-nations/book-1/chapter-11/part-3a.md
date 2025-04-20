@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The value of non-food produce should constantly rise relative to food produce"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

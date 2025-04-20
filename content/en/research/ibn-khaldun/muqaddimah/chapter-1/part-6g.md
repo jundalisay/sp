@@ -2,7 +2,7 @@
 title: "Dream Words"
 description: "The dream words are said upon falling asleep and after obtaining freedom of the inner senses"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 6g"
 weight: 40
 writer:

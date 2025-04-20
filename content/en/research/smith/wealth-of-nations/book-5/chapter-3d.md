@@ -4,7 +4,7 @@ heading: "Chapter 3d"
 weight: 12
 image: "/covers/wn.jpg"
 description: "During the reigns of King William and Queen Anne, large sums were frequently borrowed on annuities for terms of years which varied"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

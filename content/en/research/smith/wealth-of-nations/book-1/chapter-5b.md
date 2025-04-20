@@ -7,7 +7,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 description: "At distant times, equal amounts of labour will be bought more nearly with equal amounts of wheat, the worker's subsistence, than with perhaps any other commodity"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

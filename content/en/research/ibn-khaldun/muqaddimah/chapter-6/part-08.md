@@ -2,7 +2,7 @@
 title: "The sciences are numerous only in large, sedentary civilizations with a culture highly developed"
 description: "The sciences are numerous only where civilization is large and sedentary culture highly developed"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 8"
 weight: 19
 writer:

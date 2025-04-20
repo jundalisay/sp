@@ -7,7 +7,7 @@ description: "To investigate the essence of these is the work of a science which
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

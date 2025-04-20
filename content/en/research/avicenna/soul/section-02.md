@@ -7,6 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Avicenna
 weight: 6
 image: "/covers/soul.jpg"
+icon: Avicenna
 ---
 
 

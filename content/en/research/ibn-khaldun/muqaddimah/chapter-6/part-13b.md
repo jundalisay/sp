@@ -2,7 +2,7 @@
 title: "Controversial Questions and Dialectics"
 description: "Differences of opinion result from the different sources they use and their different outlooks, and are unavoidable"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 13b"
 weight: 32
 writer:

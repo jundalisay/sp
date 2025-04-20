@@ -7,7 +7,7 @@ description: "Substance is the principle and cause and first part of the univers
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

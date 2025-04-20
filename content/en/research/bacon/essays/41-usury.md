@@ -4,7 +4,7 @@ title: "Usury and Interest Rates"
 weight: 53
 description: "MANY have made witty invectives against usury"
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

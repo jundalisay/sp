@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Xenophon
 image: "/covers/economist.jpg"
 description: "Socrates talks about excellent Persian policies and Cyrus the Great"
-icon: "/icons/socrates.png"
+icon: "/icons/Xenophon.jpg"
 ---
 
 

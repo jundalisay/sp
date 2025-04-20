@@ -4,7 +4,7 @@ heading: "Part 5b"
 weight: 14
 description: "The first of these is the extreme affecting of 2 extremities"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

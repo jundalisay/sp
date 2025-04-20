@@ -6,7 +6,7 @@ description: "The age of the Universe depends on which layer you are in, as the 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 draft: true
 ---
 

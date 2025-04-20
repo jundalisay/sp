@@ -5,7 +5,7 @@ linkTitle: "Wealth of Nations"
 weight: 14
 image: "/covers/wn.jpg"
 description: "We simplify The Wealth of Nations by removing redundant statements and by organizing Smith's ideas into bullet points."
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

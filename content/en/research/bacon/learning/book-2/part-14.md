@@ -4,7 +4,7 @@ heading: "Part 14"
 weight: 30
 description: "The arts of judgment handle the natures of proofs and demonstrations, which as to induction hath a coincidence with invention"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

@@ -4,7 +4,8 @@ heading: Chapter 16f
 weight: 69
 description: "This can scarcely be termed a motion, and yet is one."
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
+author: "Francis Bacon"
 ---
 
 

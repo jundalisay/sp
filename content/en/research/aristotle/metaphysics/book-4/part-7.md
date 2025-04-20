@@ -7,7 +7,7 @@ description: "One subject must either affirm or deny any one predicate."
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

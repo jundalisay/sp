@@ -2,12 +2,30 @@
 
 
 <style type="text/css">
+
+    body {
+      margin: 0;
+      background: black !important;
+    }
+
+    header {background-color: black !important;}
+
+    .star {
+      position: absolute;
+      width: 2px;
+      height: 2px;
+      background: white;
+      border-radius: 50%;
+    }
+
   .banner {
     background: #fff url("{{ .Site.Params.banner }}") center center;
     background-repeat: no-repeat;
     background-size: cover;
   }
 </style>
+
+<div class="bg-black dark:bg-black">
 
 <section class="banner w-full">
   <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-12 text-center py-8 lg:pt-16">
@@ -36,7 +54,7 @@
 
 
 <section class="mx-auto text-center mb-6 py-24 lg:py-32">
-  <h3 class="text-4xl font-bold tracking-tight dark:text-white">{{ .Site.Params.sub }}</h3>
+  <h3 class="text-4xl font-bold tracking-tight text-white dark:text-white">{{ .Site.Params.sub }}</h3>
 
   <div class="flex justify-center">
   {{ with .Site.Params.icons }}
@@ -90,7 +108,59 @@
   {{ end }}
   </div>
 </section>
+</div>
 
 
+  <script>
+    const numStars = 400;
+    const stars = [];
+
+    for (let i = 0; i < numStars; i++) {
+      const star = document.createElement('div');
+      star.className = 'star';
+      document.body.appendChild(star);
+
+      stars.push({
+        el: star,
+        x: (Math.random() - 0.5) * window.innerWidth,
+        y: (Math.random() - 0.5) * window.innerHeight,
+        z: Math.random() * 1000 + 200
+      });
+    }
+
+    function animate() {
+      const centerX = window.innerWidth / 2;
+      const centerY = window.innerHeight / 2;
+
+      for (let s of stars) {
+        s.z -= 5; // Speed towards the viewer
+
+        if (s.z < 1) {
+          s.z = 1000;
+          s.x = (Math.random() - 0.5) * window.innerWidth;
+          s.y = (Math.random() - 0.5) * window.innerHeight;
+        }
+
+        const scale = 500 / s.z;
+        const x = s.x * scale + centerX;
+        const y = s.y * scale + centerY;
+
+        s.el.style.transform = `translate(${x}px, ${y}px) scale(${scale})`;
+        s.el.style.opacity = `${1 - s.z / 1000}`;
+      }
+
+      requestAnimationFrame(animate);
+    }
+
+    animate();
+
+    // Handle resize
+    window.addEventListener('resize', () => {
+      for (let s of stars) {
+        s.x = (Math.random() - 0.5) * window.innerWidth;
+        s.y = (Math.random() - 0.5) * window.innerHeight;
+      }
+    });
+  </script>
 
 {{ end }}

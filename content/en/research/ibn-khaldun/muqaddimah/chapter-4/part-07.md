@@ -2,7 +2,7 @@
 title: "Islamic Infrastructure"
 description: "There are few cities and towns in Ifriqiyah and the Maghrib"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 7"
 weight: 18
 writer:

@@ -4,7 +4,7 @@ heading: "Chapter 2d-03, Article 4"
 weight: 44
 image: "/covers/wn.jpg"
 description: "High taxes frequently afford a smaller revenue to government than moderate taxes"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

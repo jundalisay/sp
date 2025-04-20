@@ -2,7 +2,7 @@
 title: "The science of lexicography"
 description: "This is concerned with explaining the (conventional) meanings of the words of the language"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 44b"
 weight: 128
 ---

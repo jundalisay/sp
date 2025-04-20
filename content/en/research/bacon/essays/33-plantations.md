@@ -4,7 +4,7 @@ title: "Plantations"
 weight: 44
 description: "PLANTATIONS are amongst ancient, primitive, and heroical works."
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

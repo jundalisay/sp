@@ -2,7 +2,7 @@
 title: "The Kinds Of Commerce"
 description: "The common people have no compelling need for religious services. They are needed only by the religious."
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Parts 9-13"
 weight: 21
 writer:

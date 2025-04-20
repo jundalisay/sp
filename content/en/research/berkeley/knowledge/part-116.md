@@ -1,6 +1,6 @@
 ---
 title: "Motion"
-weight: 7
+weight: 157
 description: "Motion does not imply the being of an absolute Space, distinct from that which is perceived by Sense, and related to Bodies."
 image: "/covers/know.jpg"
 contributors: ['Berkeley']

@@ -6,7 +6,7 @@ description: "In the 1640's Descartes explained Gravitational Lensing as the ref
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Chapter 2d-01, Article 4"
 weight: 40
 image: "/covers/wn.jpg"
 description: "They were called 'customs' to denote customary payments which used from time immemorial"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -8,7 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 54
-icon: /icons/spmat.png
+icon: "Juan"
 toc: false
 aliases:
   /material/principles/part-1/chapter-13c

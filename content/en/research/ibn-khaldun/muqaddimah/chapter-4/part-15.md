@@ -2,7 +2,7 @@
 title: "Capital Accumulation"
 description: "The accumulation of estates and farms in cities, their uses and yields"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 15"
 weight: 26
 writer:

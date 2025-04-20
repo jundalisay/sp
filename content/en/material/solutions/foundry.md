@@ -6,7 +6,7 @@ description: "This uses the aether to create alloys and metal parts"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

@@ -7,7 +7,7 @@ description: "The Others become other than each Other, for the only remaining al
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "/icons/socrates.png"
+icon: "/icons/Parmenides.jpg"
 ---
 
 

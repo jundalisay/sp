@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Even of the things that are thought to be substances, most are only potencies"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

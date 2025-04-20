@@ -192,7 +192,7 @@ pagerSize = 24
     [[languages.en.params.panels]]
       img = "/graphics/tech/solar.jpg"
       title = "Proposed Solutions and Technologies"
-      url = "/tech"
+      url = "/solutions"
       sub = "Enlightenment ideas can lead to totally new technologies"
     [[languages.en.params.panels]]
       img = "/photos/countries/ua/war.jpg"

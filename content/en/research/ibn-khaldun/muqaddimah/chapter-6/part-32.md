@@ -2,7 +2,7 @@
 title: "The impossibility of alchemy and the harm it causes"
 description: "They follow different procedures followed depending on 'the Noble Stone' which is their invented substance. This may be excrements, or blood, or hair, or eggs, or anything else."
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 32"
 weight: 102
 ---

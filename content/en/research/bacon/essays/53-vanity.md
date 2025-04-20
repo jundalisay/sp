@@ -4,7 +4,7 @@ title: "Vanity and Honor And Reputation"
 weight: 66
 description: "IT WAS prettily devised of AEsop, The fly sat upon the axle-tree of the chariot wheel, and said, What a dust do I raise! "
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

@@ -4,7 +4,7 @@ heading: "Part 3b of Digression 2b"
 weight: 28
 image: "/covers/wn.jpg"
 description: "The consumption of those metals in manufactures is quicker but of smaller volume than its gradual consumption in coin and plate"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 author: Adam Smith
 ---
 

@@ -8,7 +8,7 @@ description: "We make a distance convention that is universal"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

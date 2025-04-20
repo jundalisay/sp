@@ -3,7 +3,7 @@ title: Ali as Caliph
 # title: "Differences Between the Successive Caliphs"
 description: "When Uthman was killed, the important Muslims were dispersed over the various cities. They were not present when the oath of allegiance was rendered to Ali"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 28c"
 weight: 60
 ---

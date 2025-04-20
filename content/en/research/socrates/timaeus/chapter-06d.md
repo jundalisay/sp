@@ -5,7 +5,7 @@ weight: 40
 image: "/covers/timaeus.jpg"
 description: "Diseases arise from the unnatural excess or defect of the four natures out of which the body is compacted"
 author: "Plato"
-icon: /icons/socrates.png
+icon: /icons/Socrates.jpg
 ---
 
 

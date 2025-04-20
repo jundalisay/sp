@@ -1,6 +1,6 @@
 ---
 title: "The Objects of Human Knowledge"
-weight: 7
+weight: 4
 description: "Sight gives me the Ideas of Light and Colours with their several Degrees and Variations"
 image: "/covers/know.jpg"
 contributors: ['Berkeley']

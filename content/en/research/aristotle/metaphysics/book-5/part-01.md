@@ -7,7 +7,7 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 description: "Aristotle defines Beginning as that part of a thing from which one would start first"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

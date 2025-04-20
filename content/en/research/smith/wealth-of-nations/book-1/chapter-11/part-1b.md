@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "In the progress of improvement, the rent and profit of unimproved pasture come to be regulated by the rent and profit of improved pasture"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

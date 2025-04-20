@@ -4,7 +4,7 @@ heading: Chapter 9
 weight: 14
 image: "/covers/interpret.jpg"
 description: "The wits and labours of men have rarely been converted to the severe and original inquisition of knowledge"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

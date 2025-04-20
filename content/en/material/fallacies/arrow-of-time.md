@@ -7,7 +7,7 @@ description: "The Arrow of Time Problem has already been resolved way back by Pa
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Juan"
 toc: false
 ---
 

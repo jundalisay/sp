@@ -3,8 +3,8 @@ title: Preface
 description: Dr. Tillotson argues against the real presence of miracles. His argument is the most concise, elegant, and strong against miracles
 image: /covers/light.jpg
 weight: 2
-contributors: ['Huygens']
-icon: /avatars/huygens.png
+author: "Christiaan Huygens"
+icon: "Christiaan Huygens"
 ---
 
 <!-- Rendered into English

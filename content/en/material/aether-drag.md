@@ -6,7 +6,7 @@ description: "The physical aether drag has been disproven. The metaphysical aeth
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

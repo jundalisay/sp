@@ -4,7 +4,7 @@ heading: Chapter 14b
 weight: 53
 description: "The instances of the road or the itinerant and jointed instances"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

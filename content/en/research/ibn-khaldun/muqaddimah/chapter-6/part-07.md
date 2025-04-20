@@ -3,7 +3,7 @@ title: Critical Thinking Versus Memorization
 # title: "Judge Abu1-Qasim bin Zaytun"
 description: "After the destruction of the dynasty in Marrakech, in the mid-13th century, Judge Abu1-Qasim b. Zaytun traveled from Ifrigiyah to the East"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 7"
 weight: 17
 writer:

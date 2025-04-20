@@ -2,7 +2,7 @@
 title: "Royal Authority Comes Only from Group Feeling"
 description: "Royal authority is a noble and enjoyable position. It comprises all the good things of the world, the pleasures of the body, and the joys of the soul"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 1"
 weight: 8
 writer:

@@ -7,7 +7,7 @@ description: "How different is an army well organised in battle order: a splendi
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-icons: "/icons/socrates.png"
+icon: "/icons/Xenophon.jpg"
 ---
 
 

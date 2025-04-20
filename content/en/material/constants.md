@@ -6,7 +6,7 @@ description: "The different constants in Physics reflects the limit of each Laye
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 draft: true
 ---
 

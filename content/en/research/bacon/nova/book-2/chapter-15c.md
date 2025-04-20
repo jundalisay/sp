@@ -4,7 +4,7 @@ heading: Chapter 15c
 weight: 62
 description: "The instances of the rod or rule or the the instances of completion or non ultrà."
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

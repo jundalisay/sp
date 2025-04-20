@@ -7,7 +7,7 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 description: "Besides perceptible things and the intermediates, we have to look for another class of things -- the Forms which we posit. "
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

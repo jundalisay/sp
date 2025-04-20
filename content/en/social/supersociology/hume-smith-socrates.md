@@ -7,7 +7,7 @@ description: "In both The Wealth of Nations and The Theory of Moral Sentiments, 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 

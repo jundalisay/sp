@@ -3,7 +3,7 @@ heading: Part 3
 title: "The Experimental Intellect"
 description: "The experimental intellect comes into One who knows why man is political by nature"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Parts 1-3"
 weight: 12
 writer:

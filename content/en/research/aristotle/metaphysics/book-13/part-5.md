@@ -7,7 +7,7 @@ description: "How do the Forms contribute to sensible things, either eternal or 
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

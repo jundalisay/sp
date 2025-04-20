@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Bank notes and cash accounts are the two kinds of paper money"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The Dialects of the Urban Population"
 description: "This is because the activities of the citizens necessitate each other, since mutual co-operation is innate in civilization. "
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 22"
 weight: 36
 writer:

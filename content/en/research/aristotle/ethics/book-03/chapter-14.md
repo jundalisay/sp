@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "The vice of being destitute of all Self-Control is more truly voluntary than Cowardice"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

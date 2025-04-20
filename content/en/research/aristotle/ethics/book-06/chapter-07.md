@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "Science must mean the most accurate of all Knowledge."
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

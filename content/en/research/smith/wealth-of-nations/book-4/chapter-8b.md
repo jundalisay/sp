@@ -7,7 +7,7 @@ description: "The encouragement given by bounties to the importation of manufact
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

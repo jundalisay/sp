@@ -10,7 +10,7 @@ image: "/covers/soul.jpg"
 ---
 
 
-I. Not one of the outward senses unites within itself perception of color, odor, and softness. 
+1. Not one of the outward senses unites within itself perception of color, odor, and softness. 
 
 Yet, we often come upon a body that is yellow, and perceive at once so much about it, namely that it is honey, sweet, nice of smell, and fluid, although we have neither tasted, nor smelt, nor even touched it; whence it is manifest that we possess a power wherein are assembled the perceptions of the four senses, and have thus become summed up in it into one single form; and were it not for this power we should not know that sweetness, for instance, is other than blackness, since the discriminator between two things is he who has known them both. 
 
@@ -21,9 +21,7 @@ This is power is called:
 Were it one of the outward apparent senses, its sway (dominion) would limit itself to the state of wakefulness only; whereas ocular observation attests what is quite otherwise; for this power does at times perform its action in both the states of sleep and wakefulness.
 
 
-II. 
-
-Animals have a power which sets up such forms as have assembled in the common-sense, discriminates between them, and differentiates them, without the forms themselves disappearing from the common-sense. 
+2. Animals have a power which sets up such forms as have assembled in the common-sense, discriminates between them, and differentiates them, without the forms themselves disappearing from the common-sense. 
 
 This power is undoubtedly other than the aforesaid picturing power; since in the latter there are none but true (real) forms that have been acquired (obtained) from sense; whereas in this power the case may be otherwise, and it may imagine and picture wrongly and falsely, and what it had not received after such a [wrong and false] pattern (shape) from any one of the senses. This power is the one named imagination.
 
@@ -32,9 +30,7 @@ Further, there is in animals a power that passes judgment, upon such or such a t
 So too the lion finds his prey from far off of the size of a small bird, yet its form and size in no way perplex him, but he makes for it. It is also evident that this power is other than the ima[Pg 63]ginative, and this because the imaginative power performs its manifold deeds without belief and conviction on its part that matters are in accordance with its imagining. This power is what is named the conjecturing or the surmising faculty (or judgment).
 
 
-III.
-
-Living beings have a power that preserves the purports (or thoughts and conceptions) of what the senses had perceived. 
+3. Living beings have a power that preserves the purports (or thoughts and conceptions) of what the senses had perceived. 
 
 Examples are: 
 - 'the wolf is an enemy'

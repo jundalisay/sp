@@ -4,7 +4,7 @@ heading: "Part 24"
 weight: 48
 description: ""
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

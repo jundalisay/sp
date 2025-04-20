@@ -2,7 +2,7 @@
 title: "Religious Propaganda Adds To Group Feeling"
 description: "Religious propaganda gives a dynasty at its beginning more power in addition to the group feeling that it had from its supporters"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Parts 5-6"
 weight: 14
 writer:

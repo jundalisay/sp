@@ -4,7 +4,7 @@ heading: "Part 8"
 weight: 16
 image: "/covers/meta.jpg"
 description: "Aristotle gives his theory of substance"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

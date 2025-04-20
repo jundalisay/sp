@@ -2,7 +2,7 @@
 title: "The Vanquished Always Want To Imitate The Victor"
 description: "The soul then adopts the victor's manners and assimilates itself to him. It imitates him"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 22-24"
 weight: 32
 writer:

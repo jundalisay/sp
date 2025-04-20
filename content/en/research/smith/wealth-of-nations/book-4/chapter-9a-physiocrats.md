@@ -4,7 +4,7 @@ heading: "Chapter 7d"
 weight: 106
 image: "/covers/wn.jpg"
 description: "No nation has ever adopted the system which represents the produce of land as the sole source of the country's revenue and wealth"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

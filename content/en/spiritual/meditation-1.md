@@ -7,7 +7,7 @@ description: "In Hindu-Buddhist philosophy, selfishness arises from the limitati
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /avatars/lam.jpg
+icon: "Lam"
 weight: 6
 ---
 

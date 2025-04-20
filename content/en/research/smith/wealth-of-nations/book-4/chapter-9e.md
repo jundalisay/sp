@@ -4,7 +4,7 @@ heading: "Chapter 9e"
 weight: 114
 image: "/covers/wn.jpg"
 description: "Foreign trade gives a value to their nations' superfluities by exchanging them for something else to satisfy their wants"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

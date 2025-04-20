@@ -8,7 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 38
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 The constants in Nature are the fixed values that, to Superhysics, represent the ratios between the Layers.

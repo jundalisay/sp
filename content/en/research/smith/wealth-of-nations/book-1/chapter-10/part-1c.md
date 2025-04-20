@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

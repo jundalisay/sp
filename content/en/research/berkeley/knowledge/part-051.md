@@ -1,6 +1,6 @@
 ---
 title: "What is the Cause?"
-weight: 7
+weight: 57
 description: "Some of the Schoolmen think that there are no Corporeal Causes."
 image: "/covers/know.jpg"
 contributors: ['Berkeley']

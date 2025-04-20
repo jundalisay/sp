@@ -6,7 +6,7 @@ image: "/covers/polity.jpg"
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-icon: /icons/xeno.png
+icon: "Xenophon"
 weight: 8
 ---
 

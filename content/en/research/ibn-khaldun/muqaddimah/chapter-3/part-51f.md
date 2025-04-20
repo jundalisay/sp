@@ -2,7 +2,7 @@
 title: "Qurrah b. Iyas"
 description: "Qurrah said that the Prophet Muhammad said that: 'The earth will be filled with injustice and crime.'"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 10"
 weight: 146
 writer:

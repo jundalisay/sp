@@ -2,7 +2,7 @@
 title: "Language is a technical habit"
 description: "Habits result only from repeated action. An action is done first once"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 44d"
 weight: 134
 ---

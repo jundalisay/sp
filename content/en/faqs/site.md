@@ -3,7 +3,7 @@ title: "Website FAQs"
 date: 2024-07-28
 image: /covers/faq.png
 description: "FAQ on the website"
-icon: /icons/spmat.png
+icon: "Material Superphysics"
 weight: 30
 ---
 

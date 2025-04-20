@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "All corporations and most of corporation laws have been established to prevent this reduction of price by restraining that free competition which would most certainly occasion it"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

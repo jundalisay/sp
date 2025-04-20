@@ -2,7 +2,7 @@
 title: "The City of Iram"
 description: "Iram was a city having columns. Ad b. Us b. Iram had two sons Shadid and Shaddid, who ruled after him"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 2"
 weight: 6
 writer:

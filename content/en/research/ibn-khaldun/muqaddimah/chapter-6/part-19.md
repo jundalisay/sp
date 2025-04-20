@@ -2,7 +2,7 @@
 title: "Arithmetic: The sciences concerned with numbers"
 description: "Arithmetic, Calculation, Algebra"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 19"
 weight: 60
 writer:

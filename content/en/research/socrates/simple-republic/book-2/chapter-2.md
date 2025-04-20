@@ -7,7 +7,7 @@ description: "To understand justice, we must look at the big picture first, then
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

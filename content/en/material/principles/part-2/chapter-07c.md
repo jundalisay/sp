@@ -6,7 +6,7 @@ title: "Dark Energy: The Expansion of Space-Time"
 weight: 38
 image: /graphics/physics/expansion.jpg
 description: "Everything is expanding, even your own atoms."
-icon: /icons/spmat.png
+icon: "Juan"
 tags: [ "Dark Energy" ]
 writer:
   name: Juan

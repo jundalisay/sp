@@ -2,7 +2,7 @@
 title: "Zone 6"
 description: "Half of this section is mostly covered by the sea, which stretches eastward in a curving line along the northern part"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 2i"
 weight: 20
 writer:

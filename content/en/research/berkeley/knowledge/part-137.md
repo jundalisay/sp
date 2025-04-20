@@ -1,6 +1,6 @@
 ---
 title: "The Nature of the Soul"
-weight: 7
+weight: 187
 description: "The opinion that Spirits are to be known in the same way as an Idea or Sensation has led to absurd beliefs"
 image: "/covers/know.jpg"
 contributors: ['Berkeley']
@@ -52,7 +52,9 @@ We would likewise do well to examine, whether our taxing the Waste of Seeds and 
 
 In Man indeed a thrifty Management of those Things, which he cannot procure without much Pains and Industry, may be esteemed Wisdom.
 
-But we must not imagine, that the inexplicably fine Machine of an Animal or Vegetable, costs the great Creator any more Pains or Trouble in its Production than a Pebble doth: nothing being more evident, than that an omnipotent Spirit can indifferently produce every thing by a mere Fiat or Act of his Will. Hence it is plain, that the splendid Profusion of natural Things should not be interpreted, Weakness or Prodigality in the Agent who produces them, but rather be looked on as an Argument of the Riches of his Power.
+But we must not imagine, that the inexplicably fine Machine of an Animal or Vegetable, costs the great Creator any more Pains or Trouble in its Production than a Pebble doth: nothing being more evident, than that an omnipotent Spirit can indifferently produce every thing by a mere Fiat or Act of his Will. 
+
+Hence it is plain, that the splendid Profusion of natural Things should not be interpreted, Weakness or Prodigality in the Agent who produces them, but rather be looked on as an Argument of the Riches of his Power.
 
 
 153. As for the mixture of Pain or Uneasiness which is in the World, pursuant to the general Laws of Nature, and the Actions of finite imperfect Spirits: This, in the State we are in at present, is indispensably necessary to our well-being.
@@ -60,21 +62,20 @@ But we must not imagine, that the inexplicably fine Machine of an Animal or Vege
 But our Prospects are too narrow: We take, for Instance, the Idea of some one particular Pain into our Thoughts, and account it Evil; whereas if we enlarge our View, so as to comprehend the various Ends, Connexions, and Dependencies of Things, on what Occasions and in what Proportions we are affected with Pain and Pleasure, the Nature of humane Freedom, and the Design with which we are put into the World; we shall be forced to acknowledge that those particular Things, which considered in themselves appear to be Evil, have the Nature of Good, when considered as linked with the whole Systeme of Beings.
 
 
-154. From what hath been said it will be manifest to any considering Person, that it is merely for want of Attention and Comprehensiveness of Mind, that there are any Favourers of Atheism or the Manichean Heresy to be found. Little and unreflecting Souls may indeed burlesque the Works of Providence, the Beauty and Order whereof they have not Capacity, or will not be at the Pains to comprehend. But those who are Masters of any Justness and Extent of Thought, and are withal used to reflect, can never sufficiently admire the divine Traces of Wisdom and Goodness that shine throughout the Oeconomy of Nature. But what Truth is there which shineth so strongly on the Mind, that by an Aversion of Thought, a wilful shutting of the Eyes, we may not escape seeing it?
+154. From what hath been said it will be manifest to any considering Person, that it is merely for want of Attention and Comprehensiveness of Mind, that there are any Favourers of Atheism or the Manichean Heresy to be found. Little and unreflecting Souls may indeed burlesque the Works of Providence, the Beauty and Order whereof they have not Capacity, or will not be at the Pains to comprehend. But those who are Masters of any Justness and Extent of Thought, and are withal used to reflect, can never sufficiently admire the divine Traces of Wisdom and Goodness that shine throughout the Oeconomy of Nature. 
+
+But what Truth is there which shineth so strongly on the Mind, that by an Aversion of Thought, a wilful shutting of the Eyes, we may not escape seeing it?
 
 Is it therefore to be wondered at, if the generality of Men, who are ever intent on Business or Pleasure, and little used to fix or
 open the Eye of their Mind, should not have all that Conviction and Evidence of the Being
 of God, which might be expected in reasonable Creatures?
 
 
-155. We should rather wonder, that Men can be found so stupid as to neglect, than that neglecting they should be unconvinced of such an evident and momentous Truth. And yet it is to be feared that too many of Parts and Leisure, who live in Christian Countries, are merely through a supine and dreadful Negligence sunk into a sort of Atheism. Since it is downright impossible, that a Soul pierced and enlightened with a thorough Sense of the Omnipresence, Holiness, and Justice of that Almighty Spirit, should persist in a remorseless Violation of his Laws. We ought therefore earnestly to meditate and dwell on those important Points; that so we may attain Conviction without all Scruple, that the Eyes of the LORD are in every place beholding the Evil and the Good; that he is with us and keepeth us in all places whither we go, and giveth us Bread to eat, and Raiment to put on; that he is present and conscious to our innermost Thoughts; and that we have a most absolute and immediate dependence on him. A clear View of which great Truths cannot choose but fill our Hearts with an awful Circumspection and holy Fear, which is the strongest Incentive to Virtue, and the best Guard against Vice.
+155. We should rather wonder, that Men can be found so stupid as to neglect, than that neglecting they should be unconvinced of such an evident and momentous Truth. And yet it is to be feared that too many of Parts and Leisure, who live in Christian Countries, are merely through a supine and dreadful Negligence sunk into a sort of Atheism. 
+
+Since it is downright impossible, that a Soul pierced and enlightened with a thorough Sense of the Omnipresence, Holiness, and Justice of that Almighty Spirit, should persist in a remorseless Violation of his Laws. We ought therefore earnestly to meditate and dwell on those important Points; that so we may attain Conviction without all Scruple, that the Eyes of the LORD are in every place beholding the Evil and the Good; that he is with us and keepeth us in all places whither we go, and giveth us Bread to eat, and Raiment to put on; that he is present and conscious to our innermost Thoughts; and that we have a most absolute and immediate dependence on him. A clear View of which great Truths cannot choose but fill our Hearts with an awful Circumspection and holy Fear, which is the strongest Incentive to Virtue, and the best Guard against Vice.
 
 
-156. For after all, what deserves the first place in our Studies, is the Consideration of
-GOD, and our Duty; which to promote, as it was the main drift and design of my Labours, so
-shall I esteem them altogether useless and ineffectual, if by what I have said I cannot inspire
-my Readers with a pious Sense of the Presence of God: And having shewn the Falseness or
-Vanity of those barren Speculations, which make the chief Employment of learned Men, the
-better dispose them to reverence and embrace the salutary Truths of the Gospel, which to
-know and to practice is the highest Perfection of humane Nature.
-57
+156. For after all, what deserves the first place in our Studies, is the Consideration of GOD, and our Duty; which to promote, as it was the main drift and design of my Labours, so shall I esteem them altogether useless and ineffectual, if by what I have said I cannot inspire my Readers with a pious Sense of the Presence of God: 
+
+And having shewn the Falseness or Vanity of those barren Speculations, which make the chief Employment of learned Men, the better dispose them to reverence and embrace the salutary Truths of the Gospel, which to know and to practice is the highest Perfection of humane Nature. 

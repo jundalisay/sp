@@ -2,7 +2,7 @@
 title: "The Arabs are most remote from royal leadership"
 description: "This is because they are more rooted in desert life than any other nation"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 27"
 weight: 36
 writer:

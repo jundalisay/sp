@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "The substratum and the essence and the compound of these are called substance, so also is the universal"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

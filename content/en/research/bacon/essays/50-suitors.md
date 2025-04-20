@@ -4,7 +4,7 @@ title: "Lawsuits"
 weight: 62
 description: "MANY ill matters and projects are undertaken. Private lawsuits putrefy the public good"
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

@@ -4,7 +4,7 @@ title: "Judicature"
 weight: 70
 description: "JUDGES should remember that their office is jus dicere, and not jus dare."
 image: "/covers/essaysbacon.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

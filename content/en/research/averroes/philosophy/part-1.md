@@ -5,6 +5,7 @@ description: "Is the learning of philosophy permitted, dangerous, or commended b
 weight: 2
 image: "/covers/theo.jpg"
 icon: /avatars/averroes.jpg
+icon: "Averroes"
 writer:
   name: Averroes
   url: https://en.wikipedia.org/wiki/Averroes

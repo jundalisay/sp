@@ -8,7 +8,7 @@ description: "Bob Lazar gave his descriptions of the Gravity-A waves that power 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

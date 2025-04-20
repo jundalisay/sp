@@ -2,7 +2,7 @@
 title: "The Science of Physics and Avicenna"
 description: "This investigates bodies from the point of view of the motion and stationariness which attach to them"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 23"
 weight: 70
 writer:

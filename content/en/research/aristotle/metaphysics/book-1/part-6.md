@@ -4,7 +4,7 @@ heading: "Part 6"
 weight: 12
 image: "/covers/meta.jpg"
 description: "Aristotle explains the principles of the Plato"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

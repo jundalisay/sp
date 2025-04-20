@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/meta.jpg"
 description: "Substance is of two kinds the concrete thing, the formula"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The Sufi Removal of the Veil"
 description: "The Sufis do not consider removal (of the veil) sound, unless it originates in straightforwardness."
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 16b"
 weight: 48
 writer:

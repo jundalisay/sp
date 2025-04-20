@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "Human Excellence is of the soul because we call Happiness as a working of the Soul"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

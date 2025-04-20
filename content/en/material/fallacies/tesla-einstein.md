@@ -7,7 +7,7 @@ description: "Relativity is merely a test of equipment."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Juan"
 ---
 
 

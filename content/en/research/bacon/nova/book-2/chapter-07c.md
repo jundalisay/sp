@@ -4,7 +4,7 @@ heading: Chapter 7c
 weight: 22
 description: "These show the required nature in its bare substantial shape."
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

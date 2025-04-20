@@ -2,7 +2,7 @@
 title: "Injustice"
 description: "Injustice should not be understood to imply only the confiscation of money or other property from the owners, without compensation and without cause"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 41"
 writer:
   name: Ibn Khaldun

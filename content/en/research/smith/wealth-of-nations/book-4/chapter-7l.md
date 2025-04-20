@@ -7,7 +7,7 @@ description: "The monopoly of the colony trade forced some British capital from 
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

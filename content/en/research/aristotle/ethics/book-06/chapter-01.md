@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "Men should choose the mean instead of either the excess or defect"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

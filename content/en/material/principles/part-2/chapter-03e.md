@@ -8,7 +8,7 @@ description: "Galaxy Clustering from space particles"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 draft: true
 ---
 

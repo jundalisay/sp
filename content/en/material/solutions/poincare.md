@@ -6,7 +6,7 @@ description: "We use Poincare's Law of Relativity to replace Einstein's Relativi
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 weight: 24
 ---
 

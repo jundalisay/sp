@@ -2,7 +2,7 @@
 title: "Soothsaying and Supernatural Perception"
 description: "The Arabs used to repair to soothsayers in order to learn about forthcoming events"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 6h"
 weight: 41
 date: 2020-01-14

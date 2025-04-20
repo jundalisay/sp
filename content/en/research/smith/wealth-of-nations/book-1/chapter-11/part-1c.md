@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "An undoubted maxim in ancient agriculture and in all the modern wine countries was that the perfected vineyard was the most valuable part of the farm"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

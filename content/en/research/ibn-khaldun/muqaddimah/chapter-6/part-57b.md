@@ -2,7 +2,7 @@
 title: "Natural Speech"
 description: "Examples of natural speech which is free from contrived technique is the verse of Qays b. Dharih"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 57b"
 weight: 156
 ---

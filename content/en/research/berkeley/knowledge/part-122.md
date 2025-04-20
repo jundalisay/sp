@@ -1,6 +1,6 @@
 ---
 title: "Numbers and Extension"
-weight: 7
+weight: 167
 description: "In Arithmetic therefore we regard not the Things but the Signs"
 image: "/covers/know.jpg"
 contributors: ['Berkeley']
@@ -11,17 +11,12 @@ contributors: ['Berkeley']
 
 These signs are not regarded for their own sake, but because they direct us how to act with relation to Things, and dispose rightly of them. 
 
-Now agreeably to what we have before observed, of Words in general (Sect. 19. Introd.) it happens here likewise, that abstract Ideas are thought to be signified by Numeral Names or Characters, while they do not suggest Ideas
-of particular Things to our Minds.
+Abstract Ideas are thought to be signified by Numeral Names or Characters, while they do not suggest Ideas of particular Things to our Minds.
 
 I shall not at present enter into a more particular Dissertation on this Subject; but only observe that it is evident from what hath been said, those Things which pass for abstract Truths and Theoremes concerning Numbers, are, in reality, conversant about no Object distinct from particular numerable Things, except only Names and Characters; which originally came to be considered, on no other account but their being Signs, or capable to represent aptly, whatever particular Things Men had need to compute. Whence it follows, that to study them for their own sake would be just as wise, and to as good purpose, as if a Man, neglecting the true Use or original Intention and Subserviency of Language, should spend his time in impertinent Criticisms upon Words, or Reasonings and Controversies purely Verbal.
 
 
-123. From Numbers we proceed to speak of Extension, which considered as relative, is the Object of Geometry. The Infinite Divisibility of Finite Extension, though it is not
-expresly laid down, either as an Axiome or Theoreme in the Elements of that Science, yet is
-throughout the same every where supposed, and thought to have so inseparable and essential
-a Connexion with the Principles and Demonstrations in Geometry, that Mathematicians
-never admit it into Doubt, or make the least Question of it. 
+123. From Numbers we proceed to speak of Extension, which considered as relative, is the Object of Geometry. The Infinite Divisibility of Finite Extension, though it is not expresly laid down, either as an Axiome or Theoreme in the Elements of that Science, yet is throughout the same every where supposed, and thought to have so inseparable and essential a Connexion with the Principles and Demonstrations in Geometry, that Mathematicians never admit it into Doubt, or make the least Question of it.
 
 And as this Notion is the Source from whence do spring all those amusing Geometrical Paradoxes, which have such a direct Repugnancy to the plain common Sense of Mankind, and are admitted with so much Reluctance into a Mind not yet debauched by Learning: So it is the principal occasion of all that nice and extreme Subtilty, which renders the Study of Mathematics so difficult and tedious. Hence if we can make it appear, that no Finite Extension contains innumerable Parts, or is infinitely Divisible, it follows that we shall at once clear the Science of Geometry from a great Number of Difficulties and Contradictions, which have ever been esteemed a Reproach to Humane Reason, and withal make the Attainment thereof a Business of much less Time and Pains, than it hitherto hath been.
 

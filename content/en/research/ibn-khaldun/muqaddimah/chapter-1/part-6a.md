@@ -2,7 +2,7 @@
 title: "The types of humans who have supernatural perception"
 description: "God has chosen certain individuals so that they might know Him"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 6a"
 weight: 30
 writer:

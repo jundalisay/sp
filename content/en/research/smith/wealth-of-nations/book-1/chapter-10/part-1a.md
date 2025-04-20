@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "There are five factors affecting the differences in profits and wages"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

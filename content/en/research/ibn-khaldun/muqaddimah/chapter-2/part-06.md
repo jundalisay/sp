@@ -2,7 +2,7 @@
 title: "The Reliance Of Sedentary People On Laws Destroys Their Fortitude And Power Of Resistance"
 description: "The reliance of sedentary people on laws destroys their fortitude and power of resistance"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 6"
 weight: 10
 writer:

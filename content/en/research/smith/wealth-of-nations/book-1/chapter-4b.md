@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "The difficulty of weighing metals led to coinage"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Chapter 6b"
 weight: 15
 image: "/covers/phaedo.png"
 description: "But harmony is not like the soul"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

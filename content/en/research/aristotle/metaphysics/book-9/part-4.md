@@ -7,7 +7,7 @@ description: "If, when A is real, B must be real, then, when A is possible, B al
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

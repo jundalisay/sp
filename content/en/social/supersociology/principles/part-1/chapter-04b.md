@@ -9,7 +9,7 @@ description: "Action and Reaction applies not only in the physical domain, but a
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 

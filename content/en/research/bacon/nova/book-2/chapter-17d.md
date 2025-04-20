@@ -4,7 +4,8 @@ heading: Chapter 17d
 weight: 75
 description: "These point out, that which is advantageous to mankind."
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
+author: "Francis Bacon"
 ---
 
 

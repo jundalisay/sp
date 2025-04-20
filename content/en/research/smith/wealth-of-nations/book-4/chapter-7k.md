@@ -8,7 +8,7 @@ description: "The monopoly of the colony trade drew British capital from other t
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

@@ -4,7 +4,7 @@ heading: Chapter 11
 weight: 41
 description: "These exhibit any body or concrete, where the required nature is constantly found, as an inseparable companion"
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

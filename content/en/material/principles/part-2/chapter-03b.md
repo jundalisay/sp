@@ -8,7 +8,7 @@ description: "Timespace is the sublayer where time predominates and space is min
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

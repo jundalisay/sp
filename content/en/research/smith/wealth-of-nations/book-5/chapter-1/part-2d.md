@@ -4,7 +4,7 @@ heading: "Part 2c"
 weight: 20
 image: "/covers/wn.jpg"
 description: "Justice never was in reality administered gratis in any country"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

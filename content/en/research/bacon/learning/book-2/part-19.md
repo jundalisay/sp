@@ -4,7 +4,7 @@ heading: "Part 19"
 weight: 38
 description: "All knowledge is either delivered by teachers, or attained by men’s proper endeavours"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

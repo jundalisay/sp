@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Cash Accounts and Discounted Bills of Exchange adds to the circulation of value"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

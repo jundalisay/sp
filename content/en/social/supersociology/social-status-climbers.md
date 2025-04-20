@@ -7,7 +7,7 @@ description: "According to Adam Smith, vanity is the cause of the desire for soc
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 draft: true
 ---
 

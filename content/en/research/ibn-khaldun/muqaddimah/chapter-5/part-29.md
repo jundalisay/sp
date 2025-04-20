@@ -2,7 +2,7 @@
 title: "Calligraphy"
 description: "Writing is the outlining and shaping of letters to indicate audible words which, in turn, indicate what is in the soul"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 29"
 weight: 36
 writer:

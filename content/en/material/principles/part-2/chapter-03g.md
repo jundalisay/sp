@@ -8,7 +8,7 @@ description: "Newton's Universal Law is based on the idea that the force of grav
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

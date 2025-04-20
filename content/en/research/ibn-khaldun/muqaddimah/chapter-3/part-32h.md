@@ -2,7 +2,7 @@
 title: "The Police"
 description: "In Ifriqiyah, the chief of police is now called the 'magistrate' (hakim)"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 32h"
 weight: 90
 writer:

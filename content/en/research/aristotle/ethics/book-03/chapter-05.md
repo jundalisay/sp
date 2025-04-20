@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "Every action of which ignorance is the cause is not-voluntary"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

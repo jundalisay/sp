@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Market Size is the Most Important Factor that Leads to the Division of Labour in Society"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

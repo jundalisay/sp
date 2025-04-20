@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Division of Labor raises productivity by increasing skill, time savings, and by the invention of technology"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

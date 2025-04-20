@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "Historians made mistakes in Judging Wheat and Silver Prices because they were lazy and because rents were paid in kind"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

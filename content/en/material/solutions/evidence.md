@@ -6,7 +6,7 @@ description: "We show evidence of Cartesian Physics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 weight: 2
 ---
 

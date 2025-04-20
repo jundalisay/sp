@@ -2,7 +2,7 @@
 title: "The 5 Main Works"
 description: "People have considered it difficult to comment on the Sahih and have found it rather complicated"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 11b"
 weight: 24
 writer:

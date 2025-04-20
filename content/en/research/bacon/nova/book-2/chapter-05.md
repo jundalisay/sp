@@ -4,7 +4,7 @@ heading: Chapter 5
 weight: 10
 description: ""
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 ## 3. 

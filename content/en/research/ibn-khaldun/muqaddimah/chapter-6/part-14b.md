@@ -2,7 +2,7 @@
 title: "The religious obligations"
 description: "The object of all religious obligations is the acquisition of a habit firmly rooted in the soul, from which a necessary knowledge results for the soul"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 14b"
 weight: 36
 writer:

@@ -2,7 +2,7 @@
 title: "Only Those Who Share In The Group Feeling Can Have 'House' and Nobility"
 description: "This nobility is in the basic and real sense. Others will have it only in a metaphorical and figurative sense"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 12"
 weight: 18
 writer:

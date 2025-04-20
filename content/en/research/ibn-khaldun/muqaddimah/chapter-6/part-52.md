@@ -2,7 +2,7 @@
 title: "The division of speech into poetry and prose"
 description: "This originated in Islam when the sciences became crafts and scholars wrote books on them"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 52"
 weight: 146
 ---

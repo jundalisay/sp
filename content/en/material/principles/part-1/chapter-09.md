@@ -5,7 +5,7 @@ title: "Aethereal Relationality: Motion is Internal"
 weight: 50
 image: /graphics/physics/gr.jpg
 description: "Aethereal Relationality deals with the movement of qoa"
-icon: /icons/spmat.png
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

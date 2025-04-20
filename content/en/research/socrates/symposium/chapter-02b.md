@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/sym.png"
 description: "There is an absurdity saying that harmony is discord or is composed of elements which are still in a state of discord"
-icon: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

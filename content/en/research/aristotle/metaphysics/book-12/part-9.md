@@ -7,7 +7,7 @@ description: "Is the object of divine thought composite? If it were, then though
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

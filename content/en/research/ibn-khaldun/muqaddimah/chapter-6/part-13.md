@@ -2,7 +2,7 @@
 title: "The Science, Principles, Dialectics of Jurisprudence"
 description: "The science of the principles of jurisprudence and its subdivisions, dialectics and controversial questions"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 13"
 weight: 30
 writer:

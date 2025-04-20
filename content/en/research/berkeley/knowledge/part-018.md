@@ -1,6 +1,6 @@
 ---
 title: "How We Know"
-weight: 7
+weight: 17
 description: "As for our Senses, by them we have the Knowledge only of our Sensations, Ideas, or those things that are immediately perceived by Sense"
 image: "/covers/know.jpg"
 contributors: ['Berkeley']

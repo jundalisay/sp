@@ -7,7 +7,7 @@ description: "I try to educate them, as you say, myself; and with good reason. H
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-icons: "/icons/socrates.png"
+icon: "/icons/Socrates.jpg"
 ---
 
 

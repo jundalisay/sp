@@ -4,7 +4,7 @@ heading: Chapter 2g
 weight: 16
 image: "/covers/nova.jpg"
 description: "The understanding must be completely cleared of them, so that the access to the kingdom of man, which is founded on the sciences, may resemble that to the kingdom of heaven, where no admission is conceded except to children"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

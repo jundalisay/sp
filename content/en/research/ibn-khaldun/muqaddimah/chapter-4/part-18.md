@@ -2,7 +2,7 @@
 title: "Sedentary culture is the goal of civilization"
 description: "Royal authority and the foundation of dynasties are the goal of group feeling. Sedentary culture is the goal of Bedouin life"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 18"
 weight: 30
 writer:

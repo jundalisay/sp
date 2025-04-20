@@ -4,7 +4,7 @@ heading: "Part 22b"
 weight: 44
 description: "Aristotle thinks that of things which consist by Nature, nothing can be changed by custom"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

@@ -7,7 +7,7 @@ description: "Actuality, then, is the existence of a thing not in the way which 
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

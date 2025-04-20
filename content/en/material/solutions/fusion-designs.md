@@ -7,7 +7,7 @@ description: "We use the ideas of Rene Descartes from the 1630's to draft design
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 toc: false
 weight: 7
 ---

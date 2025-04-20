@@ -4,7 +4,7 @@ title: "The method of tradition"
 weight: 36
 description: "I think that this part of knowledge of method is so weakly inquired, and so I call it deficient."
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

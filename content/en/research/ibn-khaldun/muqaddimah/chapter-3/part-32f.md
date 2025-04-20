@@ -2,7 +2,7 @@
 title: "The ministry of official correspondence and writing"
 description: "This office is not required by the nature of royal authority. Many dynasties were able to dispense with it completely, such as the dynasties rooted in the desert"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 32f"
 weight: 86
 ---

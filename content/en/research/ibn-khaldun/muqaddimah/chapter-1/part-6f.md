@@ -2,7 +2,7 @@
 title: "Dream visions"
 description: "Real dream vision is an awareness on the part of the rational soul in its spiritual essence, of glimpse(s) of the forms of events"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 6e"
 weight: 38
 writer:

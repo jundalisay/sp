@@ -6,8 +6,7 @@ description: "The phenomenon of gravitational lensing is the change in the appar
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
-# draft: true
+icon: "Juan"
 ---
 
 

@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "This may be clearly seen in that men in private stations are thought to act justly"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

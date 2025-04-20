@@ -6,7 +6,7 @@ description: "Since November 2024, there have been numerous drone sightings in N
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spmat.png
+icon: "Juan"
 ---
 
 

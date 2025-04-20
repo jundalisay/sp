@@ -4,14 +4,14 @@ title: "Learning and Politics"
 weight: 6
 description: "Learning has received disgraces from politics"
 image: "/covers/learning.png"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon
 ---
 
 
-{{< s v="1" >}} Learning has received disgraces from politics. 
+¹ Learning has received disgraces from politics. 
 
 Learning:
 - softens men’s minds

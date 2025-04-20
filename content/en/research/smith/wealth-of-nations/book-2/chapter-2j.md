@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: "/covers/wn.jpg"
 description: "John Law thought that Scotland's industry languished for the lack of money to employ it. He proposed to remedy this lack by establishing a bank which would issue paper based on the whole value of all the lands in the country"
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

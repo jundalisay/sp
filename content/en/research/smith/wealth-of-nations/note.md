@@ -6,7 +6,7 @@ writer:
 weight: 100
 image: "/covers/wn.jpg"
 description: ""
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 draft: true
 ---
 

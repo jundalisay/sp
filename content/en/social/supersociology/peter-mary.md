@@ -7,7 +7,7 @@ description: "This schism between Peter and Mary is noted in the Gospel of Mary"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.png
+icon: "Juan"
 ---
 
 

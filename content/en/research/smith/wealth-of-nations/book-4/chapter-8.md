@@ -8,7 +8,7 @@ description: "The mercantile system proposes to enrich every country through two
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: "/avatars/smith.png"
+icon: "Adam Smith"
 ---
 
 

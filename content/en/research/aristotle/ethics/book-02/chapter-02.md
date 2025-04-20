@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 image: "/covers/ethics.jpg"
 description: "It is the nature of moral actions to be spoiled by defect and excess"
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

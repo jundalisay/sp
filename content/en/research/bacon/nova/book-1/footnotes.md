@@ -4,7 +4,7 @@ heading: Chapter 1 Book 2 of Nova Organum
 weight: 34
 description: ""
 image: "/covers/nova.jpg"
-icon: /icons/bacon.png
+icon: "Francis Bacon"
 ---
 
 

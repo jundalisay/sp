@@ -2,7 +2,7 @@
 title: "Monuments and Infrastructure"
 description: "Towns and cities are secondary products of royal authority because building and city planning are features of sedentary culture arising from luxury and tranquility"
 image: "/covers/muq.jpg"
-icon: "/icons/ibn.jpg"
+icon: "Ibn Khaldun"
 heading: "Part 1"
 weight: 10
 writer:

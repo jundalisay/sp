@@ -7,7 +7,7 @@ description: "Potentiality is that definite kind which is a principle of change 
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-icon: "/icons/Aristotle.jpg"
+icon: "Aristotle"
 ---
 
 

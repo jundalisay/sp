@@ -4,7 +4,7 @@ heading: "Chapter 9"
 weight: 18
 image: "/covers/parm.png"
 description: "The One changes Itself into multiplicity from Its Will to Change which occurs in timeless Moments"
-icon: "/icons/socrates.png"
+icon: "/icons/Parmenides.jpg"
 ---
 
 

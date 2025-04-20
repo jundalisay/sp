@@ -1,6 +1,6 @@
 ---
 title: "The Motives for Materialism"
-weight: 7
+weight: 87
 description: "What are the Motives which induced Men to suppose the Existence of material Substance?"
 image: "/covers/know.jpg"
 contributors: ['Berkeley']

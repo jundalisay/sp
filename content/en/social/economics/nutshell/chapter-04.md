@@ -8,6 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 date: 2025-01-27
+icon: "Juan"
 ---
 
 
@@ -50,7 +51,7 @@ By directing that industry to produce the greatest value, he intends only his ow
 Economics corrupts “own interest” to mean selfish-interest:
 
 
-{{< q a="Samuelson" c="Economics" >}}
+{{< q a="Paul Samuelson" c="Economics" >}}
 “Smith proclaimed that every individual, in selfishly pursuing only his or her personal good, is led, as if by an invisible hand, to achieve the best good for all. Any interference with free competition is injurious.”
 {{< /q >}}
 
