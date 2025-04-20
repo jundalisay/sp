@@ -5,7 +5,7 @@ weight: 17
 # date: 2022-04-14
 description: "Since the speed of light is a constant and light is the judge, then time becomes relative to the viewpoint"
 image: "/covers/rel.jpg"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

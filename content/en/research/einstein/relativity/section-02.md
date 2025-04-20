@@ -4,7 +4,7 @@ heading: "Section 2"
 weight: 6
 # date: 2022-04-28
 description: "To solve the relativity of our perceptions, we use a quantum as our measuring rod which we add to itself"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 image: "/covers/rel.jpg"
 writer:
   name: Albert Einstein

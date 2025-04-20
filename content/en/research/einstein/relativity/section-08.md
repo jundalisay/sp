@@ -5,7 +5,7 @@ weight: 16
 # date: 2022-04-16
 description: "Einstein uses light as the judge for spacetime itself, instead of spacetime judging light."
 image: "/covers/rel.jpg"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "I saw a few flamingos, which is a sort of large fowl"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 ## 1684.

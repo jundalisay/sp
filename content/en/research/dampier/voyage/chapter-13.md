@@ -7,7 +7,7 @@ writer:
 image: "/covers/voyage.jpg"
 weight: 66
 description: "It was in a bay on the north-east side of the island that we came to an anchor, as has been said. We lay in this bay but one night and part of the next day"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

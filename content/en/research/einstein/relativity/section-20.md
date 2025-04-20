@@ -5,7 +5,7 @@ weight: 34
 # date: 2022-03-24
 description: "The sophistry of General Relativity requires inertial and gravitational mass to be the same"
 image: "/covers/rel.jpg"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

@@ -5,6 +5,8 @@ weight: 7
 author: Charles Darwin
 description: "Many treatises in different languages have been published on pigeons."
 image: "/covers/origin.jpg"
+author: "Charles Darwin"
+icon: "Charles Darwin"
 ---
 
 

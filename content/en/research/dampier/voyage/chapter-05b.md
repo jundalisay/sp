@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "We were in all 108 men fit for service besides the sick"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

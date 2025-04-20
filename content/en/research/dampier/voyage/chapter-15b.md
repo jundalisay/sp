@@ -7,7 +7,7 @@ writer:
 image: "/covers/voyage.jpg"
 weight: 78
 description: "Monmouth and Grafton Isles are very hilly, with many of those steep inhabited precipices on them that I shall describe particularly"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

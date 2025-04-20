@@ -5,7 +5,7 @@ heading: "Section 28"
 weight: 50
 description: "Einstein explains General Relativity"
 image: "/covers/rel.jpg"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

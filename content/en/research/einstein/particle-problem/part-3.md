@@ -3,7 +3,7 @@ heading: "Part 3"
 title: "How to fit electricity into General Relativity"
 description: "As the divergence of the left side of (4) vanishes identically, this means that among all the ﬁeld equations those 4 identities exist which are needed for their compatibility"
 image: "/covers/particle.png"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 author: "Einstein and Rosen"
 weight: 8
 # date: 2020-01-30

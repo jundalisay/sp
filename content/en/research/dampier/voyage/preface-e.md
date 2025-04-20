@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "Dampier set out on the memorable adventures recorded in the present volume in an early month of 1679, embarking as a passenger in the Loyal Merchant of London, Captain Knapman"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

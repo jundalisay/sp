@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "The city of Leon is 20 mile up in the country. The way to it plain and even through a champion country of long grassy savannahs and spots of high woods"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

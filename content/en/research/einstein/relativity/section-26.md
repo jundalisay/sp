@@ -5,7 +5,7 @@ heading: "Section 26"
 weight: 46
 description: "According to Special Relativity, Galileian co-ordinate systems are preferred for describing a 4D space-time continuum"
 image: "/covers/rel.jpg"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

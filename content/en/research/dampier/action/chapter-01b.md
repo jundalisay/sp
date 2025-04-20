@@ -1,25 +1,33 @@
 ---
 heading: "Chapter 1b"
-title: "The Buccaneers"
+title: "Anson's Voyage"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-description: "The Buccaneers—Navigation in the Seventeenth Century—Features of the Vocational Life of the Early Mariner"
+description: "The early navigators had intrepid seamanship at a time when the art of navigation and the understanding of the shapes, bulk, and rigs of the vessels in which they cruised in search of plunder or started on long voyages of discovery were difficult"
 image: "/covers/action.png"
 weight: 5
+icon: "William Dampier"
 ---
 
 
 This work is about Captain William Dampier only. 
 
-Morgan and the cut-throats who preceded or followed him have found apologists and admirers in plenty. Happily Dampier's chief claims upon the attention of posterity are based upon adventures of a very different kind from those which rendered buccaneering one of the most infamous pursuits that the wickedness or misery of mankind ever invented.
+Morgan and the cut-throats who preceded or followed him have found apologists and admirers in plenty. 
 
-It is impossible to appreciate the intrepid seamanship of the early navigators without first taking a view of the art of navigation as it was in their time, and understanding the shapes, bulk, and rigs of the vessels in which they cruised in search of plunder or started on long voyages of discovery. 
+Happily, Dampier's chief claim to fame was not related to buccaneering.
 
+ <!-- upon the attention of posterity are based upon adventures of a very different kind from those which rendered  one of the most infamous pursuits that the wickedness or misery of mankind ever invented. -->
 
-In these days one is so used to the facilities of science for traversing the deep with swiftness and certainty, that it is necessary to bend the mind with some severity of thought to compass the difficulties of the old sailors and honour their triumphs justly. 
+The early navigators had intrepid seamanship at a time when the art of navigation and the understanding of the shapes, bulk, and rigs of the vessels in which they cruised in search of plunder or started on long voyages of discovery were difficult. 
 
-In the first place, their ships were so unwieldy that it was scarcely possible to get them to beat against the wind, or, to use the old-fashioned term, to “ply.” An example of this will be found in Anson's Voyage.
+<!-- In these days one is so used to the facilities of science for traversing the deep with swiftness and certainty, that it is necessary to bend the mind with some severity of thought to compass the difficulties of the old sailors and honour their triumphs justly.  -->
+
+Their ships were so unwieldy that it was scarcely possible to get them to beat against the wind.
+
+<!-- or, to use the old-fashioned term, to “ply.”  -->
+
+This was seen in Anson's Voyage.
 
 It is there recorded that the Centurion's consort, the Gloucester, was descried on June 21st from the island of Juan Fernandez some eight or ten miles to leeward, beating or reaching into the bay. The weather thickened and she disappeared. Five days afterwards she again hove in sight, and for a whole fortnight she was stretching away first on one, then on the other tack, in vain effort to reach the island; nor was it until July 23rd that she was able to enter the bay, and then only because the wind had shifted, and permitted her to head for her destination with a flowing sheet. 
 

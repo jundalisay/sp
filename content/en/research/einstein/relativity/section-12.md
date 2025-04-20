@@ -5,7 +5,7 @@ weight: 20
 # date: 2022-04-08
 description: "Einstein uses the Lorentz Transformation to show time dilation and length contraction"
 image: "/covers/rel.jpg"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

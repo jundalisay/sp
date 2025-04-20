@@ -7,7 +7,7 @@ writer:
 image: "/covers/voyage.jpg"
 weight: 68
 description: "Captain Swan considered that the season would oblige us to spend some time at this island, thought it convenient to make what interest he could with the sultan who might either obstruct or support his designs"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

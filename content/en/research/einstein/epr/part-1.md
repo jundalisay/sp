@@ -6,7 +6,7 @@ weight: 4
 linkTitle: "EPR Paradox"
 # date: 2022-08-08
 description: "In quantum mechanics, in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 image: "/covers/epr.png"
 ---
 

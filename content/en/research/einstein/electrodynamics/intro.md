@@ -1,5 +1,4 @@
 ---
-heading: Part 1
 title: "Introduction"
 weight: 4
 date: 2025-01-25

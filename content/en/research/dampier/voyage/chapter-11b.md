@@ -7,7 +7,7 @@ writer:
 image: "/covers/voyage.jpg"
 weight: 60
 description: "The 22nd day we came within a league of the east side of the island Mindanao and having the wind at south-east we steered toward the north end, keeping on the east side till we came into the latitude of 7 degrees 40 minutes"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

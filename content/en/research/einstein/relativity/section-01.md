@@ -4,7 +4,7 @@ title: "Physical Meaning Of Geometrical Propositions"
 weight: 4
 # date: 2022-04-12
 description: "Our perceptions of geometrical shapes are Relative and Dynamic and Not Absolute and Static"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 image: "/covers/rel.jpg"
 writer:
   name: Albert Einstein

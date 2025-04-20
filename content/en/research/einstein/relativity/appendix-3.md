@@ -4,7 +4,7 @@ heading: "Appendix 3"
 date: 2022-01-02
 # date: 2022-08-08
 description: "Einstein explains the Confirmations of General Relativity"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 image: "/covers/rel.jpg"
 writer:
   name: Albert Einstein

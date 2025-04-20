@@ -3,7 +3,7 @@ title: "Mach's Ether Principle"
 heading: "Part 3"
 description: "Mach tried to avoid assigning reality to a something not observable. Instead of an acceleration with reference to absolute space, he used all of the masses in the universe as reference"
 image: "/covers/ether.png"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 weight: 8
 # date: 2020-01-30
 ---

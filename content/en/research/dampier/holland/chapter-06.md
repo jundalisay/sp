@@ -1,5 +1,5 @@
 ---
-title: "HOME VOYAGE AND LOSS OF SHIP"
+title: "Home Voyage And Loss Of Ship"
 heading: "Chapter 6"
 weight: 30
 writer:
@@ -7,12 +7,12 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "On April 8, 1684 we sailed from the isle of Juan Fernandez with the wind at south-east"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 
 
-We CONTINUE IN BATAVIA ROAD TO REFIT, TO GET PROVISIONS.
+### We Continue In Batavia Road To Refit, To Get Provisions
 
 We found in Batavia Road a great many ships at anchor, most Dutch, and but one English ship named the Fleet frigate, commanded by one Merry.
 
@@ -26,32 +26,43 @@ I lay here till the 17th of October following, all which time we had very fair w
 
 
 
-## ENGLISH SHIPS THEN IN THE ROAD.
+### English Ships Then In The Road
 
-The English ships that arrived here from England were first the Liampo, commanded by Captain Monk, bound for China; next the Panther commanded by Captain Robinson; then the Mancel frigate, commanded by Captain Clerk. All these brought good tidings from England. Most of them had been unfortunate in their officers; especially Captain Robinson, who said that some of them had been conspiring to ruin him and his voyage. There came in also several English country vessels; first a sloop from Benjarr, commanded by one Russel, bound to Bengal, next the Monsoon, belonging to Bengal: she had been at Malacca at the same time that His Majesty's ship the Harwich was there: afterwards came in also another small ship from Bengal.
+The English ships that arrived here from England were:
+- first the Liampo, commanded by Captain Monk, bound for China
+- next the Panther commanded by Captain Robinson
+- then the Mancel frigate, commanded by Captain Clerk. 
 
-While we stayed here all the forenamed English ships sailed hence; the 2 Bengal ships excepted. Many Dutch ships also came in here, and departed again before us. We had several reports concerning our men-of-war in India, and much talk concerning rovers who had committed several spoils upon the coast and in the Straits of Malacca. I did not hear of any ships sent out to quash them. At my first coming in I was told that 2 ships had been sent from Amboina in quest of me; which was lately confirmed by one of the skippers, whom I by accident met with here. He told me they had 3 protests against me; that they came to Pulo Sabuda on the coast of New Guinea 28 days after my departure thence, and went as far as Schouten's Island and, hearing no further news of me, returned. Something likewise to this purpose Mr. Merry, commander of the Fleet frigate, told me at my first arrival here; and that the general at Batavia had a copy of my commission and instructions; but I looked upon it as a very improbable thing.
+All these brought good tidings from England. Most of them had been unfortunate in their officers; especially Captain Robinson, who said that some of them had been conspiring to ruin him and his voyage.
+
+There came in also several English country vessels; first a sloop from Benjarr, commanded by one Russel, bound to Bengal, next the Monsoon, belonging to Bengal: she had been at Malacca at the same time that His Majesty's ship the Harwich was there: afterwards came in also another small ship from Bengal.
+
+While we stayed here all the forenamed English ships sailed hence; the 2 Bengal ships excepted. Many Dutch ships also came in here, and departed again before us. We had several reports concerning our men-of-war in India, and much talk concerning rovers who had committed several spoils upon the coast and in the Straits of Malacca.
+
+I did not hear of any ships sent out to quash them. At my first coming in I was told that 2 ships had been sent from Amboina in quest of me; which was lately confirmed by one of the skippers, whom I by accident met with here. He told me they had 3 protests against me; that they came to Pulo Sabuda on the coast of New Guinea 28 days after my departure thence, and went as far as Schouten's Island and, hearing no further news of me, returned. Something likewise to this purpose Mr. Merry, commander of the Fleet frigate, told me at my first arrival here; and that the general at Batavia had a copy of my commission and instructions; but I looked upon it as a very improbable thing.
 
 While we lay here the Dutch held several consultations about sending some ships for Europe sooner than ordinary: at last the 16th of October was agreed upon for the day of sailing, which is 2 months sooner than usual. They lay ready 2 or 3 days before, and went out on the 10th. Their names were the Ostresteen, bound to Zealand; the Vanheusen, for Enchiehoust; and the 3 Crowns, for Amsterdam, commanded by skipper Jacob Uncright, who was commodore over all the rest. I had by this time finished my business here, namely fitted the ship, recruited myself with provision, filled all my water; and, the time of the year to be going for Europe being now at hand, I prepared to be gone also.
 
-DEPARTURE FROM BATAVIA.
 
-Accordingly on the 17th of October, at half an hour after 6 in the morning, I weighed anchor from Batavia, having a good land-wind at south, and fair weather: and by the 19th at noon came up with the 3 Dutch ships before mentioned.
+### Departure From Batavia
+
+Accordingly on October 17, at 7 am, I weighed anchor from Batavia, having a good land-wind at south, and fair weather.
+
+By the 19th at noon came up with the 3 Dutch ships before mentioned.
 
 November 29 in the morning we saw a small hawk flying about the ship till she was quite tired. Then she rested on the mizzen-topsail-yard, where we caught her. It is probable she was blown off from Madagascar by the violent northerly winds; that being the nighest land to us, though distance near 150 leagues.
 
-1701.
 
-TOUCH AT THE CAPE OF GOOD HOPE.
+## 1701: Touch At The Cape Of Good Hope.
 
-The 30th December we arrived at the Cape of Good Hope and departed again on the 11th of January, 1701. About the end of the month we saw abundance of weeds or blubber swim by us, for I cannot determine which. It was all of one shape and colour. As they floated on the water they seemed to be of the breadth of the palm of a man's hand, spread out round into many branches about the bigness of a man's finger. They had in the middle a little knob, no bigger than the top of a man's thumb. They were of a smoke-colour; and the branches, by their pliantness in the water, seemed to be more simple than jellies, I have not seen the like before.
+The 30th December we arrived at the Cape of Good Hope and departed again on the 11th of January, 1701. About the end of the month we saw abundance of weeds or blubber swim by us, for I cannot determine which. It was all of one shape and colour.
 
-AND AT ST. HELENA.
+As they floated on the water they seemed to be of the breadth of the palm of a man's hand, spread out round into many branches about the bigness of a man's finger. They had in the middle a little knob, no bigger than the top of a man's thumb. They were of a smoke-colour; and the branches, by their pliantness in the water, seemed to be more simple than jellies, I have not seen the like before.
 
-The 2nd of February we anchored in St. Helena Road and set sail again from thence on the 13th.
+February 2, we anchored in St. Helena Road and set sail again from thence on the 13th.
 
 
-### ARRIVAL AT THE ISLAND OF ASCENSION. A LEAK SPRUNG.
+### Arrival At The Island Of Ascension. A Leak Sprung.
 
 On the 21st we made the island of Ascension and stood in towards it.
 
@@ -114,7 +125,7 @@ I worked myself to encourage my men, who were very diligent; but the water still
 Wherefore I hoisted out the boat that, if the ship should sink, yet we might be saved: and in the morning we weighed our anchor and warped in nearer the shore; yet did but little good.
 
 
-WHICH BEING IMPOSSIBLE TO BE STOPPED, THE SHIP IS LOST, BUT THE MEN SAVED.
+The Ship Is Lost, But The Men Saved.
 
 In the afternoon with the help of a seabreeze I ran into 7 fathom and anchored; then carried a small anchor ashore and warped in till I came into 3 fathom and a half.
 

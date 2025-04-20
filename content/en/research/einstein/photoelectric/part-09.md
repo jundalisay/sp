@@ -4,7 +4,7 @@ title: "Photoelectric Effect"
 date: 2022-08-23
 # date: 2022-08-08
 description: "Einstein explains the Photoelectric Effect"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 image: "/covers/photo.jpg"
 draft: true
 ---

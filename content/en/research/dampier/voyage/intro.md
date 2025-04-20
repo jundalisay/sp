@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "From Captain Tristian, Dampier was transferred to another Frenchman, Captain Archemboe (probably Archambaut) but soon grew 'weary of living with the French.'"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

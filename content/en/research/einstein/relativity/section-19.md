@@ -5,7 +5,7 @@ heading: "Section 19"
 weight: 32
 description: "Newton's gravity is different Newton's inertia. Yet Einstein unites them"
 image: "/covers/rel.jpg"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

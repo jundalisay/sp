@@ -7,7 +7,7 @@ writer:
 image: "/covers/voyage.jpg"
 weight: 83
 description: "The 20th day we passed by the island Omba which is a pretty high island lying in latitude 8 degrees 20 minutes and not above 6 leagues from the north-east part of the island Timor"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

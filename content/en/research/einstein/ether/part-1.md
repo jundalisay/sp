@@ -3,7 +3,7 @@ title: "Ether and General Relativity"
 heading: "Part 1"
 description: "Einstein's Ether is an impotent something"
 image: "/covers/ether.png"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 weight: 4
 # date: 2020-01-31
 ---

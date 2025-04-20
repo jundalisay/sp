@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

@@ -7,7 +7,7 @@ writer:
 image: "/covers/voyage.jpg"
 weight: 64
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

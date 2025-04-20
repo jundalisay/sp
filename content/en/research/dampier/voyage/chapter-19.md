@@ -7,7 +7,7 @@ writer:
 image: "/covers/voyage.jpg"
 weight: 94
 description: "We set sail for the Cape of Good Hope January 25 1691, and made the best of our way as wind and weather would permit; expecting there to meet three English ships more bound home from the Indies"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

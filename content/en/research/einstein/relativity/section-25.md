@@ -5,7 +5,7 @@ heading: "Section 25"
 weight: 44
 description: "Einstein uses Gaussian co-ordinates to explain movement in 4D spacetime."
 image: "/covers/rel.jpg"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

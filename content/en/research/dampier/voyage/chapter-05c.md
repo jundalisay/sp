@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "On May 31, we first saw the islands Galapagos. Some of them appeared on our weather bow, some on our lee bow, others right ahead"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

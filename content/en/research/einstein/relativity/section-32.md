@@ -5,7 +5,7 @@ weight: 58
 # date: 2022-03-01
 description: "Einstein believes the universe is a finite quasi-sphere"
 image: "/covers/rel.jpg"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

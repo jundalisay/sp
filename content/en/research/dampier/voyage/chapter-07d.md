@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "While we lay here, Captain Davis's bark went to the Otoque island."
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

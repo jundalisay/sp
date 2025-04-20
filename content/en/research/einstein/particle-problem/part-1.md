@@ -3,7 +3,7 @@ title: "The Wormhole Singularity"
 heading: "Part 1"
 description: "We propose an atomistic theory of matter and electricity which uses only General Relativity and Maxwell's theory"
 contributors: ['Einstein', 'Rosen']
-icon: "/icons/einbla.png"
+icon: "Einstein"
 image: "/covers/particle.png"
 # date: 2020-01-30
 weight: 4

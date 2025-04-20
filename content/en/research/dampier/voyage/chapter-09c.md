@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "The keys or islands of Chametly are about 16 or 18 leagues to the eastward of Cape Corrientes"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

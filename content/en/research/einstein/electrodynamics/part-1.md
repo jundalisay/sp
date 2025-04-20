@@ -7,6 +7,8 @@ date: 2025-01-25
 # date: 2022-08-08
 description: "Einstein explains Relativity"
 image: "/covers/electro.jpg"
+author: "Albert Einstein"
+icon: "Einstein"
 ---
 
 

@@ -3,7 +3,7 @@ title: "Ether and Special Relativity"
 heading: "Part 2"
 description: "Why must I distinguish the non-moving `K` system above all moving `K'` systems, which are physically equivalent by assuming that the ether is at rest relatively to the non-moving `K`?"
 image: "/covers/ether.png"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 weight: 6
 # date: 2020-01-30
 ---

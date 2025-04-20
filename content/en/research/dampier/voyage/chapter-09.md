@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "On October 12, 1685 we set out of the harbour of Guatulco with our ships."
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

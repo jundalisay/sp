@@ -1,12 +1,13 @@
 ---
 heading: "Chapter 2: 1652-1681"
-title: "DAMPIER'S EARLY LIFE—CAMPECHÉ—HE JOINS THE BUCCANEERS"
+title: "Early Life of Dampier"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-description: "The Buccaneers—Navigation in the Seventeenth Century—Features of the Vocational Life of the Early Mariner"
+description: "His parents intended him for a commercial life, but the idea of shopkeeping was little likely to suit the genius of a lad who was a rover in heart whilst he was still in petticoats"
 image: "/covers/action.png"
 date: 2022-11-30
+icon: "William Dampier"
 ---
 
 

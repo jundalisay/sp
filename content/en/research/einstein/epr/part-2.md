@@ -6,7 +6,7 @@ weight: 6
 # linkTitle: "EPR Paradox"
 # date: 2022-08-08
 description: "Einstein Ether is a impotent something"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 image: "/covers/epr.png"
 ---
 

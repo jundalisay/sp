@@ -7,7 +7,7 @@ writer:
 image: "/covers/voyage.jpg"
 weight: 98
 description: "On May 23, we sailed from the Cape in the company of the James and Mary and the Josiah, directing our course towards the island St. Helena"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

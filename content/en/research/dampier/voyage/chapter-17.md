@@ -7,7 +7,7 @@ writer:
 image: "/covers/voyage.jpg"
 weight: 86
 description: "On March 12, 1688, we sailed from New Holland norhtward for the island Cocos. But the winds obliged us to keep a more easterly course"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

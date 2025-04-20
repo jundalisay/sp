@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Dampier
 image: "/covers/voyage.jpg"
 description: "Port Marquis is a very good harbour a league to the east of Acapulco Harbour"
-icon: "/icons/dampier.png"
+icon: "William Dampier"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 40
 # date: 2022-03-18
 description: "Einstein explains the behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
 image: "/covers/rel.jpg"
-icon: "/icons/einbla.png"
+icon: "Einstein"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein
