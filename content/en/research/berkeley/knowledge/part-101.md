@@ -1,5 +1,5 @@
 ---
-title: "What is Attraction?"
+title: "Scepticism: The Limitation of Humans"
 weight: 7
 description: "The great mechanical Principle now in Vogue is Attraction"
 image: "/covers/know.jpg"
@@ -7,20 +7,45 @@ contributors: ['Berkeley']
 ---
 
 
-101. The two great Provinces of speculative Science, conversant about Ideas received from Sense and their Relations, are natural Philosophy and Mathematics; with regard to each of these I shall make some Observations. And First, I shall say somewhat of natural Philosophy.
-
-On this Subject it is, that the Sceptics triumph: All that stock of Arguments they produce to depreciate our Faculties, and make Mankind appear ignorant and low, are drawn principally from this Head, to wit, that we are under an invincible Blindness as to the true and real Nature of Things.
-
-This they exaggerate, and love to enlarge on. We are miserably bantered, say they, by our Senses, and amused only with the outside and shew of Things. The real Essence, the internal Qualities, and Constitution of every the meanest Object, is hid from our view; something there is in every drop of Water, every grain of Sand, which it is beyond the Power of humane Understanding to fathom or comprehend. 
-
-But all this Complaint is groundless, and that we are influenced by false Principles to that degree as to mistrust our Senses, and think we know nothing of those Things which we perfectly comprehend.
+101. The two great Provinces of speculative Science, conversant about Ideas received from Sense and their Relations, are natural Philosophy and Mathematics.
 
 
-102. One great Inducement to our pronouncing our selves ignorant of the Nature of Things, is the current Opinion that every thing includes within it self the Cause of its Properties: Or that there is in each Object an inward Essence, which is the Source whence its discernible Qualities flow, and whereon they depend. 
+The Sceptics triumph in Natural Philosophy.
 
-Some have pretended to account for Appearances by occult Qualities, but of late they are mostly resolved into mechanical Causes, to wit, the Figure, Motion, Weight, and such like Qualities of insensible Particles: Whereas in truth, there is no other Agent or efficient Cause than Spirit, it being evident that Motion, as well as all other Ideas, is perfectly inert. See Sect. 25. 
+They produce Arguments to:
+- depreciate our Faculties, and
+- make Mankind appear ignorant and low
 
-Hence, to endeavour to explain the Production of Colours or Sounds, by Figure, Motion, Magnitude and the like, must needs be labour in vain. And accordingly, we see the Attempts of that kind are not at all satisfactory. Which may be said, in general, of those Instances, wherein one Idea or Quality is assigned for the Cause of another. I need not say, how many Hypotheses and Speculations are left out, and how much the Study of Nature is abridged by this Doctrine.
+Their main argument is that we are under an invincible Blindness as to the true and real Nature of Things.
+
+This they exaggerate, and love to enlarge on.
+
+We are miserably bantered, say they, by our Senses, and amused only with the outside and shew of Things. 
+
+The real Essence, the internal Qualities, and Constitution of every the meanest Object, is hid from our view.
+
+It is beyond the Power of humane Understanding to fathom or comprehend what is in every drop of Water, every grain of Sand. 
+
+But all this Complaint is groundless. These are false Principles that make us mistrust our Senses, and think we know nothing of those Things which we perfectly comprehend.
+
+
+102. The Sceptics emphasize our ignorance by the idea that everything includes within it self the Cause of its Properties.
+
+They think that there is in each Object an inward Essence, which is the Source whence its discernible Qualities flow, and whereon they depend. 
+
+Some have pretended to account for Appearances by occult Qualities. But of late they are mostly resolved into mechanical Causes: the Figure, Motion, Weight, and such like Qualities of insensible Particles.
+
+In truth, there is no other Agent or efficient Cause than Spirit.
+
+It follows that Motion, as well as all other Ideas, is perfectly inert. See Sect. 25. 
+
+Hence, to endeavour to explain the Production of Colours or Sounds, by Figure, Motion, Magnitude and the like, must needs be labour in vain.
+
+And accordingly, we see the Attempts of that kind are not at all satisfactory. 
+
+Which may be said, in general, of those Instances, wherein one Idea or Quality is assigned for the Cause of another.
+
+I need not say, how many Hypotheses and Speculations are left out, and how much the Study of Nature is abridged by this Doctrine.
 
 
 103. The great mechanical Principle now in Vogue is Attraction. 
@@ -29,7 +54,10 @@ That a Stone falls to the Earth, or the Sea swells towards the Moon, may to some
 
 Is it that that Word signifies the manner of the Tendency, and that it is by the mutual drawing of Bodies, instead of their being impelled or protruded towards each other? 
 
-But nothing is determined of the Manner or Action, and it may as truly (for ought we know) be termed Impulse or Protrusion as Attraction. Again, the Parts of Steel we see cohere firmly together, and this also is accounted for by Attraction; but in this, as in the other Instances, I do not perceive that any thing is signified besides the Effect it self; for as to the manner of the Action whereby it is produced, or the Cause which produces it, these are not so much as aimed at.
+But nothing is determined of the Manner or Action, and it may as truly (for ought we know) be termed Impulse or Protrusion as Attraction.
+
+Again, the Parts of Steel we see cohere firmly together, and this also is accounted for by Attraction; but in this, as in the other Instances, I do not perceive that any thing is signified besides the Effect it self; for as to the manner of the Action whereby it is produced, or the Cause which produces it, these are not so much as aimed at.
+
 
 104. If we take a view of the several Phænomena, and compare them together, we may observe some likeness and conformity between them. 
 
@@ -41,6 +69,7 @@ But a Philosopher, whose Thoughts take in a larger compass of Nature, having obs
 
 
 105. If therefore we consider the difference there is betwixt natural Philosophers and other Men, with regard to their Knowledge of the Phænomena, we shall find it consists, not in an exacter Knowledge of the efficient Cause that produces them, for that can be no other than the Will of a Spirit, but only in a greater Largeness of Comprehension, whereby Analogies, Harmonies, and Agreements are discovered in the Works of Nature, and the particular Effects explained, that is, reduced to general Rules, see Sect. 62. which Rules grounded on the Analogy, and Uniformness observed in the Production of natural Effects, are most agreeable, and sought after by the Mind; for that they extend our Prospect beyond what is present, and near to us, and enable us to make very probable Conjectures, touching Things that may have happened at very great distances of Time and Place, as well as to predict Things to come; which sort of endeavour towards Omniscience, is much affected by the Mind.
+
 
 106. But we should proceed warily in such Things: for we are apt to lay too great a Stress on Analogies, and to the prejudice of Truth, humour that Eagerness of the Mind, whereby it is carried to extend its Knowledge into general Theoremes.
 

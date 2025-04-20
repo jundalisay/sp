@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 # heading: "Englightened"
-weight: 7
+weight: 2
 description: ""
 image: "/covers/berkeley.jpg"
 ---

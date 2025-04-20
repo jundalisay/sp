@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-weight: 7
+weight: 5
 description: "William G. Benham was an American palmist published in 1900."
 image: "/covers/know.jpg"
 contributors: ['Berkeley']

@@ -1,6 +1,6 @@
 ---
 title: "How are Words Created?"
-weight: 7
+weight: 11
 description: "By observing how Ideas become general, we may the better judge how Words are made so"
 image: "/covers/know.jpg"
 contributors: ['Berkeley']
@@ -9,25 +9,16 @@ contributors: ['Berkeley']
 
 7. By observing how Ideas become general, we may the better judge how Words are made so.
 
- And here it is to be noted that I do not deny absolutely there are general Ideas, but
-only that there are any abstract general Ideas: For in the Passages above quoted, wherein
-there is mention of general Ideas, it is always supposed that they are formed by Abstraction,
-after the manner set forth in Sect. VIII and IX. Now if we will annex a meaning to our Words,
-and speak only of what we can conceive, I believe we shall acknowledge, that an Idea, which
-considered in it self is particular, becomes general, by being made to represent or stand for
-all other particular Ideas of the same sort. To make this plain by an Example, suppose a
-Geometrician is demonstrating the Method, of cutting a Line in two equal Parts. He draws,
-for Instance, a Black Line of an Inch in Length, this which in it self is a particular Line is
-nevertheless with regard to its signification General, since as it is there used, it represents all
-particular Lines whatsoever; so that what is demonstrated of it, is demonstrated of all Lines,
-or, in other Words, of a Line in General. And as that particular Line becomes General, by
-being made a Sign, so the name Line which taken absolutely is particular, by being a Sign is
-made General. And as the former owes its Generality, not to its being the Sign of an abstract
-or general Line, but of all particular right Lines that may possibly exist, so the latter must be
-thought to derive its Generality from the same Cause, namely, the various particular Lines
-which it indifferently denotes.
+I do not deny absolutely there are general Ideas.
 
-XIII. To give the Reader a yet clearer View of the Nature of abstract Ideas, and the
+I only deny that there are any abstract general Ideas.
+
+The concept of general Ideas supposes that they are formed by Abstraction, in the way set forth in Sect. 8 and 9. 
+
+Now if we will annex a meaning to our Words, and speak only of what we can conceive, I believe we shall acknowledge, that an Idea, which considered in it self is particular, becomes general, by being made to represent or stand for all other particular Ideas of the same sort. To make this plain by an Example, suppose a Geometrician is demonstrating the Method, of cutting a Line in two equal Parts. He draws, for Instance, a Black Line of an Inch in Length, this which in it self is a particular Line is nevertheless with regard to its signification General, since as it is there used, it represents all particular Lines whatsoever; so that what is demonstrated of it, is demonstrated of all Lines, or, in other Words, of a Line in General. And as that particular Line becomes General, by being made a Sign, so the name Line which taken absolutely is particular, by being a Sign is made General. And as the former owes its Generality, not to its being the Sign of an abstract or general Line, but of all particular right Lines that may possibly exist, so the latter must be thought to derive its Generality from the same Cause, namely, the various particular Lines which it indifferently denotes.
+
+
+8. To give the Reader a yet clearer View of the Nature of abstract Ideas, and the
 Uses they are thought necessary to, I shall add one more Passage out of the Essay on Human
 Understanding, which is as follows. “Abstract Ideas are not so obvious or easy to Children or
 the yet unexercised Mind as particular ones. If they seem so to grown Men, it is only because
