@@ -2,7 +2,9 @@
 heading: "Part 1"
 title: "One versus Number"
 weight: 1
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "One is not a number; for the measure is not measures, but both the measure and the one are starting-points"
 writer:
   name: Aristotle 

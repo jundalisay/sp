@@ -4,7 +4,9 @@ heading: "Part 15"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Substance is of two kinds the concrete thing, the formula"
 icon: "Aristotle"
 ---

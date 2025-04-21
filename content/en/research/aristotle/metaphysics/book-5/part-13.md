@@ -2,7 +2,9 @@
 heading: "Part 12"
 title: "Defining Quantum and Quality"
 weight: 16
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

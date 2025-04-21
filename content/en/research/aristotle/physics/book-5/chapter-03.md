@@ -4,7 +4,7 @@ title: "Definitions"
 date: 2024-09-08
 weight: 6
 description: "I will define ‘together’, ‘apart’, ‘in contact’, ‘between’, ‘in succession’, ‘contiguous’, and ‘continuous’"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

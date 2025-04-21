@@ -2,7 +2,9 @@
 heading: "Part 9"
 title: "Divine Thought"
 weight: 12
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Is the object of divine thought composite? If it were, then thought would change in passing from part to part of the whole"
 writer:
   name: Aristotle 

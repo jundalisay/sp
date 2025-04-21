@@ -1,7 +1,10 @@
 ---
 heading: "Book 4"
 title: "The Virtues"
-image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 weight: 100
 writer:
   name: Aristotle

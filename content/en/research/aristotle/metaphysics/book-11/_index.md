@@ -2,7 +2,9 @@
 heading: "Book 11"
 linkTitle: Book 11
 title: Change and Movement
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 weight: 11
 writer:
   name: Aristotle 

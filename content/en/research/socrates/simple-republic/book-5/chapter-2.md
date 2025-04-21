@@ -5,7 +5,7 @@ weight: 12
 image: "/covers/republic.jpg"
 description: "Unity is the greatest good to be pursued by the state"
 author: "Socrates"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

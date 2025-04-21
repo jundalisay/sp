@@ -5,7 +5,9 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 weight: 1
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Aristotle defines The Causes of Being"
 icon: "Aristotle"
 ---

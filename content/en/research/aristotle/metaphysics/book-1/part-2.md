@@ -2,9 +2,8 @@
 title: "Wisdom"
 heading: "Part 2"
 weight: 4
-image: "/covers/meta.jpg"
+c: "indigo"
 description: The wise man knows all things, as far as possible, although he does not know each of them in detail
-# description: "According to Aristotle, the science which it would be most meet for God to have is a divine science, and so is any science that deals with divine objects"
 icon: "Aristotle"
 writer:
   name: Aristotle

@@ -4,7 +4,7 @@ heading: "Chapter 4"
 weight: 10
 image: "/covers/phaedo.png"
 description: "There are two sorts of existences—one seen, the other unseen. The seen is the changing, and the unseen is the unchanging"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

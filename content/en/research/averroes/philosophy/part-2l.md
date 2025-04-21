@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Averroes
 weight: 34
 description: "The things found in the Law can be divided into 5 kinds"
-image: "/covers/theo.jpg"
+c: "maroon"
 ---
 
 

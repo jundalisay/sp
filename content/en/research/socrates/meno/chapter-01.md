@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/meno.jpg"
 description: "Meno, Socrates, A Slave of Meno (Boy), Anytus"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

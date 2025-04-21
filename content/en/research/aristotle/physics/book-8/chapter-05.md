@@ -4,7 +4,7 @@ title: "The Source of Movement"
 date: 2024-09-08
 weight: 14
 description: "Every movent moves something and moves it with something"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

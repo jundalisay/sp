@@ -2,14 +2,13 @@
 heading: "Part 1b"
 title: "The Study of The Law"
 description: "The science which needs most examples from other sciences is that of Law."
-image: "/covers/theo.jpg"
+c: "maroon"
 weight: 6
 writer:
   name: Averroes
   url: https://en.wikipedia.org/wiki/Averroes
-icon: /avatars/averroes.jpg
+icon: "Averroes"
 ---
-
 
 
 The science which needs most examples from other sciences is that of Law. 

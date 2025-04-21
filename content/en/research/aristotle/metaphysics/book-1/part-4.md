@@ -2,7 +2,9 @@
 title: "Hesiod Parmenides"
 heading: "Part 4"
 weight: 8
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Aristotle explains the basic ideas of Hesiod and Parmenides"
 icon: "Aristotle"
 writer:

@@ -4,7 +4,7 @@ title: "How does the Infinite exist?"
 date: 2024-09-08
 weight: 14
 description: "If the infinite does not exist, then there are many impossible consequences."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

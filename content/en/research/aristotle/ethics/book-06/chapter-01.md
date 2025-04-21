@@ -5,7 +5,10 @@ weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Men should choose the mean instead of either the excess or defect"
 icon: "Aristotle"
 ---

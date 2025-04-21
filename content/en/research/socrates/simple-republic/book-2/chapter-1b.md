@@ -7,7 +7,7 @@ description: "Dharma is a necessity that should be sought for its own sake and n
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

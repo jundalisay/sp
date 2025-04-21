@@ -5,7 +5,10 @@ weight: 18
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Are we then to call no man happy while he lives, and, as Solon would have us, look to the end?"
 icon: "Aristotle"
 ---

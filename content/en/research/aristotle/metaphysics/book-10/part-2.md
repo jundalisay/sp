@@ -2,7 +2,9 @@
 heading: "Part 2"
 title: "What is the One? How must we conceive of It?"
 weight: 4
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "'Unity' has many meanings just as 'being' has"
 writer:
   name: Aristotle 

@@ -2,7 +2,9 @@
 heading: "Book 14"
 linkTitle: Book 14
 title: "Numbers"
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 weight: 14
 writer:
   name: Aristotle 

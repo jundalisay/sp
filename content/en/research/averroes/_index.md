@@ -6,5 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Averroes
 heading: Dogmatic
 weight: 4
-image: "/covers/averroes.jpg"
+a: "Averroes"
+c: "maroon"
+y: "1126 - 1198"
 ---

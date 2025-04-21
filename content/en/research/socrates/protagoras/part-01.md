@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 <!-- Translated by Benjamin Jowett -->

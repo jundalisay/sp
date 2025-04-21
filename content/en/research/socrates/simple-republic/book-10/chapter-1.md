@@ -4,7 +4,7 @@ title: "Shallow Philosophy and Religion as Poetry"
 weight: 2
 image: "/covers/republic.jpg"
 description: "God is the real Creator of everything. All perceptions are reflections and all things are imitations of the original from God"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

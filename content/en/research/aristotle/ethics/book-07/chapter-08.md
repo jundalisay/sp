@@ -5,7 +5,10 @@ weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Knowledge enough in respect of Virtue. We must further strive to have and exert it, and take whatever other means there are of becoming good."
 icon: "Aristotle"
 ---
@@ -17,7 +20,13 @@ In matters of moral action, mere Speculation and Knowledge is not the real End b
 
 Knowledge enough in respect of Virtue. We must further strive to have and exert it, and take whatever other means there are of becoming good.
 
-Now if talking and writing were of themselves sufficient to make men good, they would justly, as Theognis observes have reaped numerous and great rewards, and the thing to do would be to provide them: but in point of fact, while they plainly have the power to guide and stimulate the generous among the young and to base upon true virtuous principle any noble and truly high-minded disposition, they as plainly are powerless to guide the mass of men to Virtue and goodness; because it is not their nature to be amenable to a sense of shame but only to fear; nor to abstain from what is low and mean because it is disgraceful to do it but because of the punishment attached to it: in fact, as they live at the beck and call of passion, they pursue their own proper pleasures and the means of securing them, and they avoid the contrary pains; but as for what is noble and truly pleasurable they have not an idea of it, inasmuch as they have never tasted of it.
+If talking and writing were of themselves sufficient to make men good, they would justly, as Theognis observes have reaped numerous and great rewards, and the thing to do would be to provide them.
+
+But in fact, they merely guide and stimulate the generous among the young and to base upon true virtuous principle any noble and truly high-minded disposition.
+
+They are powerless to guide the mass of men to Virtue and goodness.
+
+This is because it is not their nature to be amenable to a sense of shame but only to fear; nor to abstain from what is low and mean because it is disgraceful to do it but because of the punishment attached to it: in fact, as they live at the beck and call of passion, they pursue their own proper pleasures and the means of securing them, and they avoid the contrary pains; but as for what is noble and truly pleasurable they have not an idea of it, inasmuch as they have never tasted of it.
 
 Men such as these then what mere words can transform? No, indeed! it is either actually impossible, or a task of no mean difficulty, to alter by words what has been of old taken into men’s very dispositions: and, it may be, it is a ground for contentment if with all the means and appliances for goodness in our hands we can attain to Virtue.
 

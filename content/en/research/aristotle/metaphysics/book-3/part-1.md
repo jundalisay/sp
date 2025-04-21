@@ -5,7 +5,9 @@ weight: 2
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Does the investigation of the causes belongs to one or to more sciences?"
 icon: "Aristotle"
 ---

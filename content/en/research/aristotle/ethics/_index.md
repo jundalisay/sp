@@ -1,7 +1,7 @@
 ---
-# heading: "Book 4"
 title: "The Ethics by Aristotle Simplified"
-image: "/covers/ethics.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 weight: 2
 writer:
   name: Aristotle

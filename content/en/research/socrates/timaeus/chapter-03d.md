@@ -7,7 +7,7 @@ description: "The Creator conceived that a being which was self-sufficient would
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

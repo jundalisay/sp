@@ -11,7 +11,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 comments:
   - name: Lam Nguyen
-    avatar: /avatars/lam.jpg
+    avatar: "Lam"
     date: 2023-12-27
     comment: "Thank you for this!"
 ---

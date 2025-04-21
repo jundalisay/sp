@@ -4,7 +4,7 @@ title: "The Cause of Change"
 date: 2024-09-08
 weight: 28
 description: "If a given force move a given weight a certain distance in a certain time and half the distance in half the time, half the motive power will move half the weight the same distance in the same time."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

@@ -5,7 +5,7 @@ weight: 1
 image: "/covers/republic.jpg"
 description: "Unenlightened humans are like those stuck inside a dark cave who see only shadows of objects and not the hidden nature and essence of things"
 author: "Socrates"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 
@@ -30,11 +30,11 @@ The chains prevent them from moving their heads. Above and behind them a fire is
 The wall is like the one which marionette players have in front of them, over which they show the puppets. Men pass along the wall carrying vessels, statues, and figures of animals made of wood and stone, which appear over the wall. They see only their own shadows and those of the objects being carried.
 {{< /l >}}
 
-{{< r ava="Glaucon" >}}
+{{< r a="Glaucon" >}}
 Glaucon= They can only see the shadows since they were never allowed to move their heads.
 {{< /r >}} 
 
-{{< l ava="Socrates" >}}
+{{< l a="Socrates" >}}
 When they talked to one another, they would suppose that they were naming what was actually before them. 
 
 Suppose that the cave had an echo coming from the other side. They would imagine that when one of the passers-by spoke, the voice which they heard came from the passing shadow. 
@@ -44,7 +44,7 @@ To them, the truth would be literally be the shadows of the images.
 A released prisoner will initially suffer sharp pains from standing up and turning his neck and walking towards the light. The glare will distress him. He will see that his previous realities were shadows. Someone will say to him that what he saw before was an illusion.
 {{< /l >}}
 
-{{< l ava="Socrates" >}}
+{{< l a="Socrates" >}}
 His instructor will point to the objects as they pass and require him to name them. He will be perplexed. He will imagine that the shadows which he saw before are truer than the objects he now sees. He will have a pain in his eyes from looking at the light.
 
 He will:
@@ -65,7 +65,7 @@ Then he will gaze on the light of the moon and the stars. He will see the sky an
 {{< /l >}}
 
 
-{{< l ava="Socrates" >}}
+{{< l a="Socrates" >}}
 Finally, he will be able to see the sun, and not mere reflections of him in the water. But he will see himself in his own proper place, and not in another. He will then argue that his real self:
 - gives the season and the years,
 - is the guardian of all that is in the visible world,
@@ -82,11 +82,11 @@ He would endure anything to avoid living like before.
 {{< /l >}}
 
 
-{{< r ava="Glaucon" >}}
+{{< r a="Glaucon" >}}
 Yes, I think that he would rather suffer anything than entertain these false notions and live in this miserable manner.
 {{< /r >}}
 
-{{< l ava="Socrates" >}}
+{{< l a="Socrates" >}}
 Imagine him coming back down into the cave. His eyes will now be full of darkness. If there were a contest and he had to compete in measuring the shadows with the prisoners, then he would surely lose. 
 
 The others would say of him:
@@ -107,7 +107,7 @@ When seen, it is also inferred to be:
 - the immediate source of reason and truth in the intellectual world.
 {{< /l >}}
 
-{{< l ava="Socrates" >}}
+{{< l a="Socrates" >}}
 This power allows him to act rationally and fixes his eyes. This is why those who attain to this beatific vision are unwilling to descend into human affairs. Their souls are ever hastening into the upper world where they desire to dwell.
 
 It is not surprising to see one who passes from divine contemplations to the evil state of man, misbehaving if he is compelled to fight in courts of law.
@@ -119,7 +119,6 @@ The courts have the shadows of justice.
 The bewilderments of the eyes are from 2 causes:
 1. from going into darkness from the light, or
 2. from going into the light, which is true of the mind's eye, quite as much as of the bodily eye.
-</ol>
 {{< /l >}}
 
 
@@ -160,12 +159,12 @@ I mean that they remain in the upper world.
 But this must not be allowed. They must be made to descend again among the prisoners in the den, and partake of their labours and honours.
 {{< /l >}}
 
-{{< r ava="Glaucon" >}}
+{{< r a="Glaucon" >}}
 But this is unjust. Should we give them a worse life, when they might have a better?
 {{< /r >}}
 
 
-{{< l ava="Socrates" >}}
+{{< l a="Socrates" >}}
 You have again forgotten the intention of the legislator. 
 
 His aim was the happiness of the whole State. He held the citizens together by persuasion and necessity. He made them benefactors of the State, and therefore benefactors of one another. To this end, he created them not to please themselves, but to be his instruments in binding up the State. 
@@ -196,13 +195,13 @@ The truth is that:
 When our students hear this, will they refuse to take their turn at the toils of State, when they are allowed to spend most of their time with one another in the heavenly light?
 {{< /l >}}
 
-{{< r ava="Glaucon" >}}
+{{< r a="Glaucon" >}}
 Impossible, for they are just men, and the commands which we impose on them are just. 
 
 Every one of them will take office as a stern necessity, different from the way of our present rulers.
 {{< /r >}}
 
-{{< l ava="Socrates" >}}
+{{< l a="Socrates" >}}
 Yes, you will have a well-ordered State if you contrive for your future rulers another and a better life than that of a ruler. 
 
 Only in such a State will they rule who are truly rich, not in silver and gold, but in virtue and wisdom, which are the true blessings of life.

@@ -4,7 +4,7 @@ title: "The Mistake of the Ancients"
 date: 2024-09-08
 weight: 18
 description: "The first of those who studied science were misled in their search for truth and the nature of things by their inexperience"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

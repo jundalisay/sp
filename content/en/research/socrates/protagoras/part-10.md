@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "Protagoras was obliged to agree that he would ask questions even if it was very much against his will."
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

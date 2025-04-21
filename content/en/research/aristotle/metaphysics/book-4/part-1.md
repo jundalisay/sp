@@ -2,7 +2,9 @@
 heading: "Part 1 of Book 4"
 title: "The One Science"
 weight: 1
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "To investigate the essence of these is the work of a science which is generically one"
 writer:
   name: Aristotle 

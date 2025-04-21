@@ -4,7 +4,7 @@ title: "Is every motion commensurable with others?"
 date: 2024-09-08
 weight: 22
 description: "But is it not only when an equal motion is accomplished by two things in an equal time that the velocities of the two are equal?"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

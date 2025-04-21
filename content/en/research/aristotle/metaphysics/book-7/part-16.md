@@ -4,7 +4,9 @@ heading: "Part 16"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Even of the things that are thought to be substances, most are only potencies"
 icon: "Aristotle"
 ---

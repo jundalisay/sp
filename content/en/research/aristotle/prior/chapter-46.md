@@ -2,7 +2,7 @@
 heading: Chapter 46
 title: "Establishing or refuting"
 weight: 38
-image: "/covers/prior.jpg"
+c: "maroon"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

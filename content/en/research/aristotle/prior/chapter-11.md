@@ -2,7 +2,7 @@
 heading: Chapters 11-
 title: "Simple Conclusions"
 weight: 15
-image: "/covers/prior.jpg"
+c: "maroon"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

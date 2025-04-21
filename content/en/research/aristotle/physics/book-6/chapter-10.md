@@ -4,7 +4,7 @@ title: "The process of change"
 date: 2024-09-08
 weight: 24
 description: "No process of change is infinite"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

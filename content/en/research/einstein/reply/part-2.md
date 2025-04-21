@@ -4,6 +4,7 @@ heading: "Part 2"
 description: "How does my theory of relativity relate to philosophy?"
 image: "/covers/reply.jpg"
 weight: 8
+icon: "Einstein"
 ---
 
 
@@ -15,27 +16,27 @@ Reichenbach has precise deductions and sharp assertions.
 
 Robertson’s lucid discussion also is interesting mainly from the standpoint of general epistemology, although it limits itself to the narrower theme of “the theory of relativity and geometry.” 
 
-{{< r ava="Robertson" >}}
+{{< r a="Robertson" >}}
 Is Reichenbach's assertion true? 
 {{< /r >}}
 
-{{< l ava="einstein" >}}
+{{< l a="einstein" >}}
 I answer with Pilate’s famous question: “What is truth?” Is a geometry — looked at from the physical point of view — verifiable or not? 
 {{< /l >}}
 
-{{< r ava="Reichenbach and Helmholtz" >}}
+{{< r a="Reichenbach and Helmholtz" >}}
 Yes, provided that the empirically given solid body realises the concept of “distance.” Poincare says  and consequently is condemned by Reichenbach. 
 {{< /r >}}
 
-{{< l ava="Poincare" >}}
+{{< l a="Poincare" >}}
 No. The bodies are not rigid. Consequently, they cannot embody geometric intervals. Therefore, the theorems of geometry are not verifiable.
 {{< /l >}}
 
-{{< r ava="Reichenbach" >}}
+{{< r a="Reichenbach" >}}
 Bodies cannot be immediately adduced for the “real definition” of the space. Nevertheless, this real definition can be achieved by taking the thermal volume-dependence, elasticity, electro- and magnetostriction, etc., into consideration. This is demonstrated by classical physics.
 {{< /r >}}
 
-{{< l ava="Poincare" >}}
+{{< l a="Poincare" >}}
 In gaining the real definition improved by yourself you have made use of physical laws, the formulation of which presupposes (in this case) Euclidean geometry. 
 
 The verification, of which you have spoken, refers, therefore, not merely to geometry but to the entire system of physical laws which constitute its foundation. 
@@ -49,13 +50,13 @@ Why should it consequently not be entirely up to me to choose geometry according
 I replace Poincare with a non-positivist because Poincare does not want me putting words in his mouth<!--  ’s superiority as thinker and author does not permit it; in what follows therefore, an anonymous  is substituted for Poincare. — ) -->
 
 
-{{< r ava="Reichenbach" >}}
+{{< r a="Reichenbach" >}}
 <!-- There is something quite attractive in this conception. But, on the other hand, it is noteworthy that the --> But the objective meaning of length and physical distances <!-- the interpretation of the differences of co-ordinates as distances (in pre-relativistic physics) --> has not led to complications. We can thus use <!-- Should we not, on the basis of this astounding fact, be justified in operating further at least tentatively with --> the concept of the measurable length, as <!-- if there were such things as --> rigid measuring-rods. It is impossible for Einstein to create the theory of general relativity without the objective meaning of length.
 
 Against Poincare’s suggestion, the important thing is the greatest possible simplicity of <!-- the geometry alone, but rather the greatest possible simplicity --> all of physics, inclusive of geometry. This is why we must reject his suggestion to adhere to Euclidean geometry.
 {{< /r >}}
 
-{{< l ava="Non-Positivist" >}}
+{{< l a="Non-Positivist" >}}
 If distance is be a legitimate concept, how then is it with your basic principle (meaning = verifiability)? 
 
 Do you not have to reach the point where you must deny the meaning of geometrical concepts and theorems and to acknowledge meaning only within the completely developed theory of relativity (which, however, does not yet exist at all as a finished product)? 
@@ -73,12 +74,12 @@ From Hume, Kant had learned that there are concepts (as, for example, that of ca
 What justifies the use of such concepts? 
 
 
-{{< l ava="Non-Positivist" >}}
+{{< l a="Non-Positivist" >}}
 Thinking is necessary in order to understand the empirically given, and concepts and “categories” are necessary as indispensable elements of thinking. If he had remained satisfied with this type of an answer, he would have avoided scepticism and you would not have been able to find fault with him.
 {{< /l >}}
 
 
-{{< l ava="einstein" >}}
+{{< l a="einstein" >}}
 You are misled by the erroneous opinion, difficult to avoid in your time — that Euclidean geometry is necessary to thinking and offers assured (i.e., not dependent on sensory experience) knowledge on objects. 
 
 From this easily understandable error, you concluded the existence of synthetic judgments a priori*, which are produced by the reason alone, and which, consequently, can lay claim to absolute validity. 
@@ -89,7 +90,7 @@ From this easily understandable error, you concluded the existence of synthetic 
 
 
 
-{{< l ava="einstein" >}}
+{{< l a="einstein" >}}
 I think your censure is directed less against Kant himself than against those who today still adhere to the errors of “synthetic judgments a priori.”
 {{< /l >}}
 

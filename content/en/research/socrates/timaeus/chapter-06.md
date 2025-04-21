@@ -7,7 +7,7 @@ description: "The heart is the knot of the veins and the fountain of the blood w
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

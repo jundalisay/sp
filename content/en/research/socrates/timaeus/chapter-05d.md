@@ -5,7 +5,7 @@ weight: 30
 image: "/covers/timaeus.jpg"
 description: "Water, by condensation, becomes stone and earth. When melted and dispersed, passes into vapour and air"
 author: Timaeus
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 <!-- I have thus shown the various classes of bodies as they are diversified by their forms and combinations and changes into one another, and now I must endeavour to set forth their affections and the causes of them. In the first place, the bodies which I have been describing are necessarily objects of sense. But we have not yet considered the origin of flesh, or what belongs to flesh, or of that part of the soul which is mortal. And these things cannot be adequately explained without also explaining the affections which are concerned with sensation, nor the latter without the former= and yet to explain them together is hardly possible; for which reason we must assume first one or the other and afterwards examine the nature of our hypothesis. In order, then, that the affections may follow regularly after the elements, let us presuppose the existence of body and soul. -->

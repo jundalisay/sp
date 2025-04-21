@@ -5,7 +5,7 @@ weight: 9
 image: "/covers/republic.jpg"
 description: "The oligarchical principle in a young man will change into the democratical after he tastes the drones' honey"
 author: "Socrates"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

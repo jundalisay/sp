@@ -5,7 +5,7 @@ weight: 12
 image: "/covers/republic.jpg"
 description: "The four virtues as wisdom, courage, temperance, and justice. Justice is dharma, while injustice is adharma"
 author: "Socrates"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

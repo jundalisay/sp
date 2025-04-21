@@ -3,8 +3,7 @@ heading: "Part 1"
 title: "The Delineation Of The Relation Between Religion And Philosophy"
 description: "Is the learning of philosophy permitted, dangerous, or commended by the Law?"
 weight: 2
-image: "/covers/theo.jpg"
-icon: /avatars/averroes.jpg
+c: "maroon"
 icon: "Averroes"
 writer:
   name: Averroes

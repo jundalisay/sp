@@ -1,0 +1,13 @@
+<div class="ani hover:bg-sky-200 dark:bg-gray-800 bg-white rounded-lg overflow-hidden shadow-lg transition-shadow duration-200">
+  <a href="{{ .Permalink }}">
+    <div class="aspect-[16/9] w-full overflow-hidden">
+      <img loading="lazy" src="{{ .Params.image | relURL }}" alt="{{ $.Title }}" class="w-full h-full object-cover hover:scale-110">
+    </div>
+    <div class="p-4">
+      <p class="text-sm leading-3 text-gray-800 dark:text-gray-200 pb-2">{{ .Params.heading }}</p>
+      <h3 class="leading-4 text-lg font-semibold text-gray-800 dark:text-white hover:text-blue-600">
+        {{ .Title }}
+      </h3>
+    </div>
+  </a>
+</div>

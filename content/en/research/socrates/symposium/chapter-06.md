@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/sym.png"
 description: "I wanted to ask you about the speeches in praise of love, which were delivered by Socrates, Alcibiades, and others, at Agathon's supper"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

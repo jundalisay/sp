@@ -4,7 +4,7 @@ title: "From Motion to Rest"
 date: 2024-09-08
 weight: 8
 description: "Why are some things in motion and at another are at rest again?"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

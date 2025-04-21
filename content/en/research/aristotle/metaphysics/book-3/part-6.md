@@ -2,7 +2,9 @@
 heading: "Part 6"
 title: "Do forms exist?"
 weight: 16
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

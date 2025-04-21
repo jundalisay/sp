@@ -5,7 +5,7 @@ weight: 14
 image: "/covers/republic.jpg"
 description: "Knowledge is the total perception and understanding of a thing, but Opinion is a single perception or view of it"
 author: "Socrates"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

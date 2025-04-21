@@ -1,14 +1,8 @@
 ---
 title: "The Actions of the Aether"
-# heading: "My Meditation Journey Part 1"
 date: 2025-03-08
 image: "/graphics/meta/ideas.jpg"
 description: ""
-# writer:
-#   name: Lam
-#   url: https://www.linkedin.com/in/baolamnguyen/
-# icon: /avatars/lam.jpg
-# draft: true
 weight: 4
 ---
 

@@ -2,7 +2,9 @@
 heading: "Part 6"
 title: "Movement versus Actuality"
 weight: 10
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Actuality, then, is the existence of a thing not in the way which we express by 'potentially'"
 writer:
   name: Aristotle 

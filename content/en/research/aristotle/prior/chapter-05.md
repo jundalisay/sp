@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "The Middle Term"
 weight: 8
-image: "/covers/prior.jpg"
+c: "maroon"
 description: "A syllogism cannot be perfect anyhow in this figure, but it may be valid whether the terms are related universally or not"
 writer:
   name: Aristotle 

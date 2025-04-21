@@ -4,7 +4,7 @@ title: "What is Number?"
 date: 2024-09-08
 weight: 80
 description: "The smallest number, in the strict sense of the word ‘number’, is two."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

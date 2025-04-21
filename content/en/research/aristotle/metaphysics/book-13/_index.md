@@ -2,7 +2,9 @@
 heading: "Book 13"
 linkTitle: Book 13
 title: "The Theory of Forms"
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 weight: 13
 writer:
   name: Aristotle 

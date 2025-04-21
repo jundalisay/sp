@@ -2,7 +2,7 @@
 heading: Chapters 9-10
 title: "Necessary Premises"
 weight: 14
-image: "/covers/prior.jpg"
+c: "maroon"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

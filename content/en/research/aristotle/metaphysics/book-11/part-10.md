@@ -2,7 +2,9 @@
 heading: "Part 10"
 title: "The Infinite"
 weight: 18
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "The infinite is either that which is incapable of being traversed because it is not its nature to be traversed"
 writer:
   name: Aristotle 

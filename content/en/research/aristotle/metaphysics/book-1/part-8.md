@@ -2,7 +2,9 @@
 title: "Errors of the Platonists and Pythagoreans"
 heading: "Part 8"
 weight: 16
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Aristotle gives his theory of substance"
 icon: "Aristotle"
 writer:

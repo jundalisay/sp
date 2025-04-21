@@ -2,7 +2,9 @@
 heading: "Part 6"
 title: "The unity of definitions and numbers"
 weight: 10
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "What is the cause of the unity of definitions and numbers?"
 writer:
   name: Aristotle 

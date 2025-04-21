@@ -2,7 +2,9 @@
 heading: "Part 2"
 title: "Questions 1 to 3"
 weight: 4
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Should the sciences investigate all the kinds of causes?"
 writer:
   name: Aristotle 

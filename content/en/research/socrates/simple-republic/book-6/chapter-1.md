@@ -5,7 +5,7 @@ weight: 12
 image: "/covers/republic.jpg"
 description: "A true philosopher-leader must love knowledge, learning, and have a good memory. He must not be mean nor selfish. Sophists corrupt philosophers by tapping into shallow public opinion"
 author: "Socrates"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

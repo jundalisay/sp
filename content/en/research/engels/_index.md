@@ -8,5 +8,6 @@ description: Frederick Engels was a friend of Karl Marx
 writer:
   name: Friedrich Engels
   url: https://en.wikipedia.org/wiki/Friedrich_Engels
-image: /covers/engels.jpg
+c: "maroon"
+a: "Engels"
 ---

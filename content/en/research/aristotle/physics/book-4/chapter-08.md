@@ -4,7 +4,7 @@ title: "The Existence of Void"
 date: 2024-09-08
 weight: 28
 description: "There is no void existing separately, as some maintain"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

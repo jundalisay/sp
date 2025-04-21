@@ -4,7 +4,7 @@ title: "Motion is One"
 date: 2024-09-08
 weight: 8
 description: "There are many senses in which motion is said to be ‘one’"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

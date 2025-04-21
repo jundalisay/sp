@@ -4,7 +4,7 @@ title: "Rarity [Decompression] and Density [Compression]"
 date: 2024-09-08
 weight: 30
 description: "There are some who think that the existence of rarity and density shows that there is void"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

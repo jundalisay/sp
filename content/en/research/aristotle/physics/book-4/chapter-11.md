@@ -4,7 +4,7 @@ title: "Time does not exist without change"
 date: 2024-09-08
 weight: 34
 description: "Time is neither movement nor independent of movement."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

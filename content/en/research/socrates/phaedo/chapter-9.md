@@ -4,7 +4,7 @@ heading: "Chapter 9"
 weight: 20
 image: "/covers/phaedo.png"
 description: "The true earth is pure and situated in the pure heaven—there are the stars also"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

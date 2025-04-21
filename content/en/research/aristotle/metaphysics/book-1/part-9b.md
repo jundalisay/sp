@@ -3,7 +3,9 @@ heading: "Part 9b"
 title: "The One as a Number"
 linkTitle: Part 9b
 weight: 10
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Aristotle denounces Plato's Forms"
 writer:
   name: Aristotle 

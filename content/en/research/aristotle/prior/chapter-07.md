@@ -2,7 +2,7 @@
 heading: Chapters 7-8
 title: "Perfect and Imperfect Syllogisms"
 weight: 12
-image: "/covers/prior.jpg"
+c: "maroon"
 description: "The substitution of an indefinite for a particular affirmative will effect the same syllogism in all the figures"
 writer:
   name: Aristotle 

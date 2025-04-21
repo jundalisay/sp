@@ -4,8 +4,8 @@ image: "/covers/rama.jpg"
 heading: "Chapter 44"
 weight: 174
 description: ""
+icon: "Ramakrishna"
 ---
-
 
 
 
@@ -27,14 +27,22 @@ approve of it.
 Dwija's father had for a long time been speaking of visiting Sri Ramakrishna. Today he had come to Dakshineswar. He was the manager of a business firm in Calcutta and had
 passed his examination in law.
 
+
+{{< l a="Ramakrishna" >}}
 MASTER (to Dwija's father): "Please don't mind your children's coming here.
+{{< /l >}}
+
 
 I ask people to live in the world after the awakening of their spiritual consciousness.
 
 After extracting gold through hard labour, a man may keep it under earth or in a box or under water. The gold is not affected.
+
 "I ask people to live in the world in a spirit of detachment. If you break the jack-fruit after rubbing oil on your hands, its sticky juice will not smear them.
+
 "If the 'unripe' mind dwells in the world, the mind gets soiled. One should first attain knowledge and then live in the world.
+
 "If you put milk in water the milk is spoiled. But this will not happen if butter, churned from the milk, is put in water."
+
 
 DWIJA'S FATHER: "That is true, sir."Instructing Dwija's father
 
@@ -460,18 +468,18 @@ Mary, ran out to meet Him. She fell at His feet and said weeping, 'Lord, if You 
 
 "Then Jesus went to the tomb of Lazarus and called him by name. Immediately Lazarus came back to life and walked out of the tomb."
 
-{{< l ava="rama" >}}
+{{< l a="rama" >}}
 MASTER: "But I cannot do those things."
 {{< /l >}}
 
-{{< r ava="m" >}}
+{{< r a="m" >}}
 M: "That is because you don't want to. These are miracles; therefore you aren't interested in them. These things draw people's attention to their bodies. Then they do
 not think of genuine devotion. That is why you don't perform miracles. But there are many similarities between you and Jesus Christ.
 {{< /r >}}
 
 ## Similarities between Christ and Sri Ramakrishna
 
-{{< l ava="rama" >}}
+{{< l a="rama" >}}
 MASTER (smiling): "What else?"
 {{< /l >}}
 

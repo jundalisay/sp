@@ -5,7 +5,10 @@ weight: 9
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Moral Virtue is a middle or mean state that lies between two faulty states"
 icon: "Aristotle"
 ---

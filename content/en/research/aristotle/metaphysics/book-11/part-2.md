@@ -2,7 +2,9 @@
 heading: "Part 2"
 title: "What is the Nature of Number?"
 weight: 4
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Must we suppose something apart from individual things, or is it these that the science we are seeking treats of?"
 writer:
   name: Aristotle 

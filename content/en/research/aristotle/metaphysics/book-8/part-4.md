@@ -2,7 +2,9 @@
 heading: "Part 4"
 title: "The Origin of Substance"
 weight: 8
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Aristotle explains the original substance behind matter"
 icon: "Aristotle"
 writer:

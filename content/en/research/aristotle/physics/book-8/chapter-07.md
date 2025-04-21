@@ -4,7 +4,7 @@ title: "Locomotion is the primary motion"
 date: 2024-09-08
 weight: 18
 description: "The third motion is called locomotion. This is the primary."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

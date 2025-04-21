@@ -4,7 +4,7 @@ title: "What is ‘of necessity’?"
 date: 2024-09-08
 weight: 22
 description: "What is ‘of necessity’?"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

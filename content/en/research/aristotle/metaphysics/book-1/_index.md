@@ -2,7 +2,9 @@
 heading: "Book 1"
 linkTitle: Book 1
 title: "Wisdom"
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 weight: 1
 writer:
   name: Aristotle

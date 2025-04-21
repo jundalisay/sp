@@ -4,7 +4,9 @@ title: Philosophy is Science of Being
 # the single science of things which are many and different in genus
 # title: "What are the attributes of being?"
 weight: 6
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Philosophy is the single science of things which are many and different in genus"
 writer:
   name: Aristotle 

@@ -2,7 +2,9 @@
 heading: "Part 8"
 title: "The Contradictions of Heraclitus"
 weight: 14
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "The one-sided theories which some people express about all things cannot be valid."
 writer:
   name: Aristotle 

@@ -4,7 +4,7 @@ title: "Acquired states are not alterations."
 date: 2024-09-08
 weight: 8
 description: "Acquired states, whether of the body or of the soul, are not alterations."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

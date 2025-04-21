@@ -2,7 +2,7 @@
 heading: Chapters 17-18
 title: "Problematic Premises"
 weight: 16
-image: "/covers/prior.jpg"
+c: "maroon"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

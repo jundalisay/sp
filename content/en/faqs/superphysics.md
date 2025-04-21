@@ -3,6 +3,7 @@ title: "Superphysics Socratic FAQ"
 description: "FAQs about Superphysics, Socrates-style"
 image: /covers/faq.png
 weight: 2
+icon: "Superphysics"
 aliases:
   /faq
 ---

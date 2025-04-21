@@ -68,9 +68,13 @@ I want each one of you to tell me what his heart is set upon.
 Well then, give me in the latter part of spring dressed in full spring-tide attire�in company with five or six young fellows of 20*, or six or seven lads under that age, to do the ablutions in the I stream, enjoy a breeze in the rain-dance**,  and finish up with songs on the road home.
 {{< /r >}}
 
-> *Lit., capped ones. At 20 they underwent the ceremony of capping, and were considered men.
 
-> **I.e., before the altars, where offerings were placed with prayer for rain. A religious dance.] 
+{{< n n="*Lit., capped ones. At 20 they underwent the ceremony of capping, and were considered men." >}}
+
+
+{{< n n="**I.e., before the altars, where offerings were placed with prayer for rain. A religious dance." >}}
+
+ 
 
 
 The Master sighed and exclaimed, "Ah, I take with you!"
@@ -109,5 +113,6 @@ But had not Kung-si also a State in view?
 {{< l a="Confucius" >}}
 What are ancestral temples and Grand Receptions, but for the feudal lords to take part in? If Kung-si were to become an unimportant assistant at these functions, who could become an important one?" 
 {{< /l >}}
+
 
 [Footnote 26=  The men of virtuous life were Yen Yuen (Hw�i), Min Tsz-k'ien, Yen Pihniu, and Chung-kung (Yen Yung); the speakers and debaters were Tsai Wo and Tsz-Kung; the (capable) government servants were Yen Yu and Tsz-Lu; the literary students, Tsz-yu and Tsz-hi�.] 

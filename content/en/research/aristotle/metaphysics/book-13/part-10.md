@@ -2,7 +2,9 @@
 heading: "Part 10"
 title: "The Individual and the Universal"
 weight: 16
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "If substances are not separate, and in the way in which individual things are said to be separate, we shall destroy substance in the sense in which we understand 'substance'"
 writer:
   name: Aristotle 

@@ -5,7 +5,9 @@ weight: 8
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Is each thing and its essence are the same or different?"
 icon: "Aristotle"
 ---

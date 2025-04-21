@@ -2,7 +2,7 @@
 heading: Chapter 6
 title: "The Third"
 weight: 10
-image: "/covers/prior.jpg"
+c: "maroon"
 description: "But if one term belongs to all, and another to none, of a third, or if both belong to all, or to none, of it, I call such a figure the third."
 writer:
   name: Aristotle 

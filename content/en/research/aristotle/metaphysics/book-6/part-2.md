@@ -5,7 +5,9 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 weight: 4
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "The unqualified term 'being' has many meanings"
 icon: "Aristotle"
 ---

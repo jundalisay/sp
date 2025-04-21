@@ -4,7 +4,7 @@ title: "What is the character and number of causes?"
 date: 2024-09-08
 weight: 8
 description: "Knowledge is the object of our inquiry, and men do not think they know a thing till they have grasped the ‘why’"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

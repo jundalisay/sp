@@ -2,7 +2,9 @@
 heading: "Part 7"
 title: "Numbers are not Ideas"
 weight: 10
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Ideas are not numbers. The units are different, if there are to be Ideas. This is because the Form is unique"
 writer:
   name: Aristotle 

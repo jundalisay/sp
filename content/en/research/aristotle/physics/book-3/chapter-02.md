@@ -4,7 +4,7 @@ title: "Is Motion in the Movable?"
 date: 2024-09-08
 weight: 6
 description: "The soundness of this definition is evident both when we consider the accounts of motion that the others have given, and also from the difficulty of defining it otherwise"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

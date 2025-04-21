@@ -4,7 +4,7 @@ title: "The Start of Motion"
 date: 2024-09-08
 weight: 4
 description: "I say motion is the fulfilment of the movable in so far as it is movable."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

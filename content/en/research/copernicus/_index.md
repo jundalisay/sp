@@ -1,6 +1,7 @@
 ---
 title: "Copernicus, Nicolaus"
-weight: 21
+weight: 22
 date: 2025-03-08
-image: "/covers/copernicus.jpg"
+c: "orangered"
+a: "Copernicus"
 ---

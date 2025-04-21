@@ -2,7 +2,9 @@
 heading: "Part 5"
 title: "The Theory of Forms and Numbers"
 weight: 8
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "How do the Forms contribute to sensible things, either eternal or non-eternal?"
 writer:
   name: Aristotle 

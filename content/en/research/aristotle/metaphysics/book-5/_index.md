@@ -2,7 +2,9 @@
 heading: Book 5
 linkTitle: Book 5
 title: "Philosophical Definitions"
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 weight: 5
 writer:
   name: Aristotle 

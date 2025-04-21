@@ -7,7 +7,7 @@ description: "He must learn at any rate, I think, to rule his fellow-workmen"
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

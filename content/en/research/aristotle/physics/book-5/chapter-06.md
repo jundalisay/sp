@@ -4,7 +4,7 @@ title: "Contrary Motions"
 date: 2024-09-08
 weight: 12
 description: "A motion has for its contrary in the strict sense of the term another motion, but it also has for an opposite a state of rest"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

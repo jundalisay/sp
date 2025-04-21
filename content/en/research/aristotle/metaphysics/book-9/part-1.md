@@ -2,7 +2,9 @@
 heading: "Part 1 "
 title: "What is Potentiality?"
 weight: 1
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "'Being' is in one way divided into individual thing, quality, and quantity, and is in another way distinguished in respect of potency and complete reality, and of function"
 writer:
   name: Aristotle 

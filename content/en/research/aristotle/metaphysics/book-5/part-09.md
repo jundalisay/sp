@@ -2,7 +2,9 @@
 heading: "Parts 9-10"
 title: "Defining Same and Contrary"
 weight: 10
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

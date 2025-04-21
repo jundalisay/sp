@@ -4,7 +4,7 @@ title: "Motion in Substance and Relation"
 date: 2024-09-08
 weight: 4
 description: "In Substance, there is no motion because Substance has no contrary among things that are."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

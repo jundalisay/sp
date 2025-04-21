@@ -4,7 +4,7 @@ heading: Chapter 2
 weight: 4
 description: "Every confusion comes from within us. This is that weakness in the inferior part of the human mind that is imposed on by illusory tricks"
 image: "/covers/republic.jpg"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

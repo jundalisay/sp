@@ -7,6 +7,7 @@ writer:
   name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
+icon: "Confucius"
 ---
 
 
@@ -50,7 +51,8 @@ If Heaven be about to allow this 'wan' to perish, then they who survive its dece
 But so long as Heaven does not allow it to perish, what can the men of K'wang do to me?
 {{< /l >}}
 
-> *"Wan" was the honorary appellation of the great sage and ruler, whose praise is in the "Shi-King" as one of the founders of the Chow dynasty, and the term represented civic talent and virtues, as distinct from Wu, the martial talent�the latter being the honorary title of his son and successor. "Wan" also often stands for literature and polite accomplishments. Here Confucius simply means, "If you kill me, you kill a sage."
+
+{{< f f="Wan was the honorary appellation of the great sage and ruler, whose praise is in the Shi-King as one of the founders of the Chow dynasty, and the term represented civic talent and virtues, as distinct from Wu, the martial talent�the latter being the honorary title of his son and successor. Wan also often stands for literature and polite accomplishments. Here Confucius simply means, If you kill me, you kill a sage.">}}
 
 
 A high State official, after questioning Tsz-Kung said:
@@ -188,4 +190,3 @@ Tsz-Lu used always to be humming over the lines: "From envy and enmity free, Wha
 "The wise escape doubt; the good-hearted, trouble; the bold, apprehension. "Some may study side by side, and yet be asunder when they come to the logic of things. Some may go on together in this latter course, but be wide apart in the standards they reach in it. Some, again, may together reach the same standard, and yet be diverse in weight of character." "The blossom is out on the cherry tree, With a flutter on every spray. 
 
 Dost think that my thoughts go not out to thee? Ah, why art thou far away!" Commenting on these lines the Master said, "There can hardly have been much 'thought going out,' What does distance signify?" 
-

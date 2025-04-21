@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/sophist.jpg"
 description: "Using the same analytic method as before, I can discern 2 divisions of the imitative art"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

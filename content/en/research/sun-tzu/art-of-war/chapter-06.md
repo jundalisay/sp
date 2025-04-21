@@ -4,7 +4,7 @@ image: "/covers/war.png"
 description: "Controlling a large force is the same as the controlling a few men. It is merely a question of dividing up their numbers"
 heading: "Chapter 6"
 weight: 12
-icon: "/icons/suntzu.png"
+icon: "Sun Tzu"
 ---
 
 

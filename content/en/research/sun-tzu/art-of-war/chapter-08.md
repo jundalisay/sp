@@ -4,7 +4,7 @@ image: "/covers/war.png"
 description: "In war, the general receives his commands from the sovereign, collects his army and concentrates his forces"
 heading: "Chapter 8"
 weight: 16
-icon: "/icons/suntzu.png"
+icon: "Sun Tzu"
 ---
 
 

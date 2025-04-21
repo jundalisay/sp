@@ -4,8 +4,8 @@ title: "What is the highest end of action?"
 weight: 4
 writer:
   name: Aristotle
-  url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/ethics.jpg"
+  url: https://en.wikipedia.org/wiki/Aristotl
+c: "indigo"
 description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
 icon: "Aristotle"
 ---

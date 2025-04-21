@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Averroes
 description: "This is one of the most intricate problems of religion"
 weight: 28
-image: "/covers/theo.jpg"
+c: "maroon"
 ---
 
 

@@ -4,7 +4,7 @@ title: "What is the meaning of Void?"
 date: 2024-09-08
 weight: 25
 description: "The void is place with nothing in it."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

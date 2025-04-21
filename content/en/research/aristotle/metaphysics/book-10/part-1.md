@@ -2,7 +2,9 @@
 heading: "Part 1"
 title: "Aristotle explains One"
 weight: 1
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

@@ -2,7 +2,7 @@
 heading: "Part 9"
 title: "Potentiality Leads to Duality"
 weight: 14
-image: "/covers/meta.jpg"
+c: "indigo"
 description: "Actuality is also better and more valuable than potentiality"
 writer:
   name: Aristotle 

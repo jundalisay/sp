@@ -4,7 +4,7 @@ heading: Chapter 9b
 weight: 22
 image: "/covers/phaedo.png"
 description: "The ship was crowned on the day before the trial and this kept Socrates in prison and delayed his execution"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

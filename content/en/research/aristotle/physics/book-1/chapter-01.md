@@ -4,7 +4,7 @@ title: "The Principles of Physics"
 date: 2024-09-08
 weight: 2
 description: "WHEN the objects of an inquiry, in any department, have principles, conditions, or elements, it is through acquaintance with these that knowledge, that is to say scientific knowledge, is attained"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

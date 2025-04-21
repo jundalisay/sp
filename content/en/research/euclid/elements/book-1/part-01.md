@@ -7,6 +7,7 @@ writer:
   name: Euclid
   url: https://en.wikipedia.org/wiki/Euclid
 image: /covers/elements.jpg
+
 ---
 
 

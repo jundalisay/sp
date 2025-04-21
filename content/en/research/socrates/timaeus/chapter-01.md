@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/timaeus.jpg"
 description: "Socrates reviews Timaeus on the key ideas of the Republic"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

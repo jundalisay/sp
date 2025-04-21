@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "'What account do you give of that which, in our way of speaking, is termed being overcome by pleasure?'"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

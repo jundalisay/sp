@@ -7,7 +7,7 @@ description: "Timaeus explains the 5 elements"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

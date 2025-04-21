@@ -2,5 +2,6 @@
 title: "Chomsky"
 weight: 19
 description: ""
-image: "/covers/ling.png"
+# image: "/covers/ling.png"
+c: "maroon"
 ---

@@ -2,7 +2,7 @@
 heading: Chapters 34-36
 title: "Prior Analytics"
 weight: 34
-image: "/covers/prior.jpg"
+c: "maroon"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

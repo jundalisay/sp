@@ -5,7 +5,7 @@ weight: 16
 image: "/covers/republic.jpg"
 description: "The knowledge of the Truth is real pleasure"
 author: "Socrates"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

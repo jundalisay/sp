@@ -4,29 +4,27 @@ title: "The Satisfaction from Learning"
 description: "To learn, and then to practise opportunely what one has learned, brings satisfaction"
 weight: 1
 image: "/covers/analects.png"
+icon: "Confucius"
 ---
 
 
+
 {{< l a="Confucius" >}}
-To learn, and then to practise opportunely what one has learned, brings satisfaction.
-
-To have associates in study coming to one from distant gives means pleasure.
-
-The superior order of men are those who still remain pleased even if they do not comprehend this.
+To learn, and then to practise opportunely what one has learned, brings satisfaction. To have associates in study coming to one from distant gives means pleasure. The superior order of men are those who still remain pleased even if they do not comprehend this.
 <!-- And are not those who, while not comprehending all that is said, still remain not unpleased to hear, men of ?" -->
 {{< /l >}}
 
 
-<!-- r ava="Scholar Yu" -->
-{{< r ava="Yen-Yu" >}}
+<!-- r a="Scholar Yu" -->
+{{< r a="Yen-Yu" >}}
 True people who are dutiful to their parents and elder brothers rarely turn currishly on their superiors. Such a desire not to commit that offence prevents anarchy or disorder.
 {{< /r >}}
 
-{{< l ava="Confucius" >}}
+{{< l a="Confucius" >}}
 Men of superior mind busy themselves first in getting at the root of things. When they have succeeded in this the right course is open to them.
 {{< /l >}}
 
-{{< r ava="Yen-Yu" >}}
+{{< r a="Yen-Yu" >}}
 Well, are not filial piety and friendly subordination among brothers a root of that right feeling that men should have for each other?
 {{< /r >}}
 
@@ -72,17 +70,13 @@ Others may say that these are not signs of learning.
 {{< /r >}}
 
 {{< l a="Confucius" >}}
-If the great man be not grave, he will not be revered, neither can his learning be solid.
+If the great man be not grave, he will not be revered, neither can his learning be solid. Give prominent place to loyalty and sincerity.
 
-Give prominent place to loyalty and sincerity.
-
-Have no associates in study who are not advanced somewhat like yourself.
-
-When you have erred, be not afraid to correct yourself.
+Have no associates in study who are not advanced somewhat like yourself. When you have erred, be not afraid to correct yourself.
 {{< /l >}}
 
 
-{{< r ava="Tsang-Sin" >}}
+{{< r a="Tsang-Sin" >}}
 The virtue of the people is renewed and enriched when attention is seen to be paid to the departed, and the remembrance of distant ancestors kept and cherished.
 {{< /r >}}
 
@@ -107,7 +101,7 @@ He who, after 3 years' observation of the will of his father when alive, or of h
 
 ## Confucius is Anti-Natural, The Opposite of Taoism
 
-{{< r ava="Yen-Yu" >}}
+{{< r a="Yen-Yu" >}}
 For the practice of the Rules of Propriety*, one excellent way is to be natural. This naturalness became a great grace in the practice of kings of former times. Everyone, small or great, should be natural like them.
 {{< /r >}}
 
@@ -142,7 +136,7 @@ Such a man can be become a devoted student, especially if he=
 What do say of the poor who do not cringe and fawn? What of the rich who are without pride and haughtiness?
 {{< /r >}}
 
-{{< l ava="Confucius" >}}
+{{< l a="Confucius" >}}
 They are passable. Yet they are scarcely in the same category as the poor who are happy, and the rich who love propriety.
 {{< /l >}}
 
@@ -150,7 +144,7 @@ They are passable. Yet they are scarcely in the same category as the poor who ar
 In the 'Book of the Odes we read of one Polished, as by the knife and file, The graving-tool, the smoothing-stone.
 {{< /r >}}
 
-{{< l ava="Confucius" >}}
+{{< l a="Confucius" >}}
 You may well commence a discussion on the Odes. If one tell you how a thing goes, you know what ought to come.
 
 It do not mind that men do not know me

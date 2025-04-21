@@ -4,7 +4,7 @@ title: "What is Motion?"
 date: 2024-09-08
 weight: 4
 description: "NATURE has been defined as a ‘principle of motion and change’."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

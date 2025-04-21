@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "By the gods, I said, and are you not ashamed at having to appear before the Hellenes in the character of a Sophist?"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

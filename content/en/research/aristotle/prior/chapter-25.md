@@ -2,7 +2,7 @@
 heading: Chapters 25-
 title: "Propositions"
 weight: 24
-image: "/covers/prior.jpg"
+c: "maroon"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

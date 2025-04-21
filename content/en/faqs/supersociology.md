@@ -4,6 +4,7 @@ date: 2024-07-17
 image: /covers/faq.png
 description: "FAQ on Supersociology"
 icon: "Juan"
+icon: "Supersociology"
 ---
 
 

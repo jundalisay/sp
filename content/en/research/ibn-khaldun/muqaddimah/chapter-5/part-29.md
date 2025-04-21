@@ -5,6 +5,7 @@ image: "/covers/muq.jpg"
 icon: "Ibn Khaldun"
 heading: "Part 29"
 weight: 36
+icon: "Ibn Khaldun"
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun
@@ -53,7 +54,7 @@ To Abdallah b. Abbas: You  Qurashites, tell me about the Arabic script. Did you 
 {{< /l >}}
 
 
-{{< r ava="Abbas">}}
+{{< r a="Abbas">}}
 From Harb b. Umayyah
 {{< /r >}}
 
@@ -61,7 +62,7 @@ From Harb b. Umayyah
 From whom did he learn it?
 {{< /l >}}
 
-{{< r ava="Abbas">}}
+{{< r a="Abbas">}}
 He learned it from Abdallah b. Jud'in
 {{< /r >}}
 
@@ -69,7 +70,7 @@ He learned it from Abdallah b. Jud'in
 From whom did 'Abdallah b. Jud'in learn it?
 {{< /l >}}
 
-{{< r ava="Abbas">}}
+{{< r a="Abbas">}}
 He learned it from the inhabitants of al-Anbir
 {{< /r >}}
 
@@ -77,7 +78,7 @@ He learned it from the inhabitants of al-Anbir
 From whom did they learn it?
 {{< /l >}}
 
-{{< r ava="Abbas">}}
+{{< r a="Abbas">}}
 They learned it from a Yemenite newcomer who learned it from al-Khullajin 168 b. al-Qisim, who wrote down the revelation of the prophet Hid who said:
 {{< /r >}}
 

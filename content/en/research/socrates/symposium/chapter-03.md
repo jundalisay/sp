@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/sym.png"
 description: "Love is the love of beauty and not of deformity"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: Chapters 42-45
 title: "How to analyze arguments"
 weight: 36
-image: "/covers/prior.jpg"
+c: "maroon"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

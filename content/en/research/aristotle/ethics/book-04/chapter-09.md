@@ -5,7 +5,10 @@ weight: 16
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "The very name of Great-mindedness implies, that great things are its object-matter"
 icon: "Aristotle"
 ---

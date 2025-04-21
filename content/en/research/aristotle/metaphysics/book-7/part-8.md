@@ -5,7 +5,9 @@ weight: 12
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "In some cases, the maker is of the same kind or form as the product. For example, a human makes a human. We do not need to set up Form as a pattern"
 icon: "Aristotle"
 ---

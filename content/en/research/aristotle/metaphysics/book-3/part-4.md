@@ -2,7 +2,9 @@
 heading: "Part 4"
 title: "Question 8: How Can We Know The Infinite Individuals?"
 weight: 10
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

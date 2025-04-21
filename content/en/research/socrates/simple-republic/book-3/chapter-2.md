@@ -4,7 +4,7 @@ heading: Chapter 2
 weight: 8
 description: "The State should promote proper Music, not sad nor fearful"
 image: "/covers/republic.jpg"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

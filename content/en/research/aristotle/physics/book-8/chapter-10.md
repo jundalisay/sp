@@ -4,7 +4,7 @@ title: "The Nature of the First Movement"
 date: 2024-09-08
 weight: 29
 description: "The first movent must be without parts and without magnitude."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

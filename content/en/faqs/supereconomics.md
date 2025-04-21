@@ -3,7 +3,7 @@ title: "Supereconomics FAQ"
 date: 2024-07-17
 image: /covers/faq.png
 description: "FAQ on Supereconomics"
-icon: /icons/specon.png
+icon: "Supereconomics"
 weight: 200
 ---
 

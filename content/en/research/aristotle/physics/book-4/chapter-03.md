@@ -4,7 +4,7 @@ title: "Being inside one thing"
 date: 2024-09-08
 weight: 10
 description: "The next step we must take is to see in how many senses one thing is said to be ‘in’ another."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

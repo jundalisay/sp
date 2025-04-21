@@ -2,7 +2,9 @@
 heading: "Part 4 of Book 4"
 title: "To Be or Not to Be"
 weight: 6
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Some philosophers assert that it is possible for the same thing to be and not to be"
 writer:
   name: Aristotle 

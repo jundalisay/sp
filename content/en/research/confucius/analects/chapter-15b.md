@@ -7,7 +7,9 @@ writer:
   name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
+icon: "Confucius"
 ---
+
 
 
 {{< l a="Confucius" >}}

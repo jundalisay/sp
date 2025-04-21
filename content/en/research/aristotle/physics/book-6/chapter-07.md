@@ -4,7 +4,7 @@ title: "Infinite Motion"
 date: 2024-09-08
 weight: 16
 description: "The motion of everything that is in motion occupies a period of time"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

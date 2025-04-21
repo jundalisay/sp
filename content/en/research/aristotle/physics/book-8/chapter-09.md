@@ -4,7 +4,7 @@ title: "Rectilinear motion versus Rotary"
 date: 2024-09-08
 weight: 26
 description: "Every locomotion is either rotatory or rectilinear or a compound of the two"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

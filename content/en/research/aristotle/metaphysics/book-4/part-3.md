@@ -2,7 +2,9 @@
 heading: "Part 3"
 title: "What Should Science Do?"
 weight: 4
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Should the sciences inquire into the truths which are in mathematics called axioms, and into substance?"
 writer:
   name: Aristotle 

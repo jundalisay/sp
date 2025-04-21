@@ -4,7 +4,7 @@ title: "Is Being One?"
 date: 2024-09-08
 weight: 3
 description: "If Being is just one, and one in the way mentioned, there is a principle no longer, since a principle must be the principle of some thing or things"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

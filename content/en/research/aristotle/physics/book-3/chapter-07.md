@@ -4,7 +4,7 @@ title: "The Nature of Infinity"
 date: 2024-09-08
 weight: 18
 description: "Infinity can exist from division, but not from addition."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

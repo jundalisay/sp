@@ -2,7 +2,9 @@
 heading: "Part 1"
 title: "The Substance as Matter"
 weight: 1
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "The substance of sensible things is matter"
 writer:
   name: Aristotle 

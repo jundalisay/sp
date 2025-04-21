@@ -1,3 +1,4 @@
+
 ---
 heading: Chapter 7
 title: "The Corrective"
@@ -5,7 +6,10 @@ weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "The violator of Law is Unjust. The keeper of the Law is Just"
 icon: "Aristotle"
 ---

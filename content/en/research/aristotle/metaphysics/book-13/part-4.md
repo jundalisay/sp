@@ -2,7 +2,9 @@
 heading: "Part 4"
 title: "The Theory of Ideas and Forms"
 weight: 6
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "I am not convinced of the existence of Forms. From some, no inference necessarily follows. From some, arise Forms even of things of which they think there are no Forms"
 writer:
   name: Aristotle 

@@ -2,7 +2,9 @@
 heading: "Parts 7"
 title: "Defining Being and Substance"
 weight: 8
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

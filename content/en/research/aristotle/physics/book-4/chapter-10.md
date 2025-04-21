@@ -4,7 +4,7 @@ title: "What is time?"
 date: 2024-09-08
 weight: 32
 description: "Does it belong to the class of things that exist or to that of things that do not exist?"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

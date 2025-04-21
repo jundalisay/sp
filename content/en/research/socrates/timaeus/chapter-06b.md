@@ -7,7 +7,7 @@ description: "The bonds of life which unite the soul with the body are made fast
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

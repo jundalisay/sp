@@ -3,8 +3,8 @@ heading: Part 1 Appendix
 title: "The Problem Of Eternal Knowledge"
 description: ""
 weight: 4
-image: "/covers/theo.jpg"
-icon: /avatars/averroes.jpg
+c: "maroon"
+icon: "Averroes"
 writer:
   name: Averroes
   url: https://en.wikipedia.org/wiki/Averroes

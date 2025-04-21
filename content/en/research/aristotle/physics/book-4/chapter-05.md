@@ -4,7 +4,7 @@ title: "Explanations of Place"
 date: 2024-09-08
 weight: 14
 description: "If a body has another body outside it and containing it, it is in place, and if not, not."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

@@ -4,7 +4,7 @@ title: "What is Place Really?"
 date: 2024-09-08
 weight: 12
 description: "Place would not have been thought of, if there had not been a special kind of motion, namely that with respect to place"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

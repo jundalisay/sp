@@ -4,7 +4,7 @@ image: "/covers/war.png"
 description: "In the practical art of war, the best thing of all is to take the enemy's country whole and intact"
 heading: "Chapter 3"
 weight: 6
-icon: "/icons/suntzu.png"
+icon: "Sun Tzu"
 ---
 
 

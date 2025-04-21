@@ -4,7 +4,7 @@ title: "Motion is Eternal"
 date: 2024-09-08
 weight: 16
 description: "The first movent, if there is but one, will be eternal also"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

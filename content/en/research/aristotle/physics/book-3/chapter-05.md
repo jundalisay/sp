@@ -4,7 +4,7 @@ title: "The Properties of Infinity"
 date: 2024-09-08
 weight: 12
 description: "The infinite cannot be an actual thing and a substance and principle."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

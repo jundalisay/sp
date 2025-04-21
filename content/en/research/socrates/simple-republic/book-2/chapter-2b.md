@@ -7,7 +7,7 @@ description: "The noble youth is very like a well-bred dog in respect of guardin
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

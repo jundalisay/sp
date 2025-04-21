@@ -4,7 +4,7 @@ title: "Chance and Spontaneity"
 date: 2024-09-08
 weight: 12
 description: "But chance also and spontaneity are reckoned among causes"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

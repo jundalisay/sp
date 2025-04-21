@@ -3,7 +3,7 @@ title: "Bio Superphysics FAQ"
 date: 2024-07-08
 image: /covers/faq.png
 description: "FAQ on Bio Superphysics"
-icon: /icons/spmed.png
+icon: "Bio Superphysics"
 ---
 
 

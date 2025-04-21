@@ -5,7 +5,7 @@ weight: 10
 image: "/covers/republic.jpg"
 description: "Women should have the same rights as men"
 author: "Socrates"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

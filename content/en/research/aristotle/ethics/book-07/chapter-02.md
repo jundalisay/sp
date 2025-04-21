@@ -5,7 +5,10 @@ weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/ethics.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "What is the nature of the right conception in violation of which a man fails of Self-Control?"
 icon: "Aristotle"
 ---

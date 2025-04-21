@@ -4,7 +4,7 @@ title: "Everything that changes changes time"
 date: 2024-09-08
 weight: 14
 description: "Everything that changes changes time in 2 semses"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

@@ -4,7 +4,7 @@ title: "Space is a Material Thing"
 date: 2024-09-08
 weight: 8
 description: "We may distinguish generally between predicating B of A"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

@@ -8,7 +8,7 @@ description: "Such was the end of our friend Socrates. Of all the men of his tim
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

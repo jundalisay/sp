@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/crito.png"
 description: "Socrates Refuses to Flee Death"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

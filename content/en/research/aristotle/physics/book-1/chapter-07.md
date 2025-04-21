@@ -4,7 +4,7 @@ title: "The Nature of Principles"
 date: 2024-09-08
 weight: 15
 description: "One thing comes to be from another thing. One sort of thing from another sort of thing, both in the case of simple and of complex things."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

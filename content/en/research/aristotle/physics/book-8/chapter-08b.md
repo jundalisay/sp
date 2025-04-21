@@ -4,7 +4,7 @@ title: "Does Turning Back Involve a Stop?"
 date: 2024-09-08
 weight: 23
 description: "Rotatory motion is an infinite motion that is single and continuous"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

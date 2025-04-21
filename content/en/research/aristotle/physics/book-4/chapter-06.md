@@ -4,7 +4,7 @@ title: "Does void exist?"
 date: 2024-09-08
 weight: 16
 description: "The views taken of it involve arguments both for and against, in much the same sort of way"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

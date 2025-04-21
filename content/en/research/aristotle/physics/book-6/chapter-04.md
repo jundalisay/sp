@@ -4,7 +4,7 @@ title: "Everything That Changes Is Divisible"
 date: 2024-09-08
 weight: 8
 description: "Everything that changes must be divisible"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

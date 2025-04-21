@@ -2,7 +2,9 @@
 heading: "Part 4b"
 title: "Question 11: Are being and unity the substances of things?"
 weight: 12
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

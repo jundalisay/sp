@@ -4,7 +4,7 @@ title: "The 8 Whorls in the Spindle of Necessity"
 weight: 9
 description: "We equate t he 8 Whorls of Socrates and Er to the 8 Chakras and the Spindle to the anthakarana"
 image: "/covers/republic.jpg"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

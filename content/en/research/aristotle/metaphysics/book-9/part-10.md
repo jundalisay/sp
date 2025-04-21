@@ -2,7 +2,9 @@
 heading: "Part 1"
 title: "Being versus Non-being"
 weight: 24
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "The terms 'being' and 'non-being' are used in 3 ways"
 writer:
   name: Aristotle 

@@ -4,7 +4,7 @@ title: "The Number of Causes"
 date: 2024-09-08
 weight: 18
 description: "The number of causes is the same as that of the things comprehended under the question ‘why’"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

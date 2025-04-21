@@ -4,7 +4,7 @@ title: "Everything is in time"
 date: 2024-09-08
 weight: 90
 description: "Every change and everything that moves is in time"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

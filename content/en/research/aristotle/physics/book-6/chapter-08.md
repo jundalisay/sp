@@ -4,7 +4,7 @@ title: "Motion and Rest"
 date: 2024-09-08
 weight: 18
 description: "But that which is at rest cannot be coming to rest"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

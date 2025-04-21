@@ -2,7 +2,9 @@
 title: "Plato's Philosophy"
 heading: "Part 7"
 weight: 14
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 icon: "Aristotle"
 writer:

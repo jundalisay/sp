@@ -4,7 +4,7 @@ heading: "Chapter 8b"
 weight: 11
 image: "/covers/phaedo.png"
 description: "The opposite will never be opposed to itself. One thing is hot, another is cold. But these are not the same as fire and snow. Heat is different from fire. Cold is different from snow"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

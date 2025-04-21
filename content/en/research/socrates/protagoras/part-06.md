@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 image: "/covers/prot.jpg"
 description: "Is virtue one whole, of which justice and temperance and holiness are parts? Or are all these only the names of one and the same thing?"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

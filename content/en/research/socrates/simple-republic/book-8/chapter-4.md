@@ -5,7 +5,7 @@ weight: 10
 image: "/covers/republic.jpg"
 description: "Democracy naturally turns into Tyranny"
 author: "Socrates"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

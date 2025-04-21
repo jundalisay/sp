@@ -4,7 +4,7 @@ title: "Justice is Not the Interest of the Stronger"
 weight: 6
 image: "/covers/republic.jpg"
 description: "Justice is not in the dominance of the strong over the weak. Justice is not based on the strength of leadership since a leader is supposed to serve his subjects"
-icon: "/icons/Socrates.jpg"
+icon: "Socrates"
 ---
 
 

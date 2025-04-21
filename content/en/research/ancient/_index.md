@@ -1,8 +1,7 @@
 ---
 title: "Ancient Sources"
-weight: 2
-# image: "/covers/enuma.jpg"
-image: "/photos/medieval/anu.jpg"
+weight: 1
+# image: "/photos/medieval/anu.jpg"
 description: "Texts from ancient civilizations earlier than the Greeks"
 ---
 

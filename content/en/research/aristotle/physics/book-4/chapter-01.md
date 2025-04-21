@@ -4,7 +4,7 @@ title: "What is Place?"
 date: 2024-09-08
 weight: 4
 description: "This question presents many difficulties."
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

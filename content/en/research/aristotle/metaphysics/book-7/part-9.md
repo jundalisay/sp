@@ -5,7 +5,9 @@ weight: 14
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "Why are some things are produced spontaneously as well as by art?"
 icon: "Aristotle"
 ---

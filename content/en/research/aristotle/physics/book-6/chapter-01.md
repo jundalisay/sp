@@ -4,7 +4,7 @@ title: "Continuous and Successive"
 date: 2024-09-08
 weight: 2
 description: "The extremities of two points can neither be one"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

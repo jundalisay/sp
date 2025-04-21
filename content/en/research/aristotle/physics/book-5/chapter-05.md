@@ -4,7 +4,7 @@ title: "Relative Motion"
 date: 2024-09-08
 weight: 10
 description: "What motions are contrary to each other?"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

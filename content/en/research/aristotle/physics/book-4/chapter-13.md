@@ -4,7 +4,7 @@ title: "What is the now?"
 date: 2024-09-08
 weight: 80
 description: "It is a limit of time (for it is the beginning of the one and the end of the other)"
-image: "/covers/physics.png"
+c: "indigo"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle

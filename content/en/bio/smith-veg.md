@@ -9,11 +9,7 @@ description: "Adam Smith was a Vegetarian who favored potatoes"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /avatars/lam.jpg
-# writer:
-#   name: Juan
-#   url: https://www.linkedin.com/in/jundalisay/
-# icon: /icons/spmed.png
+icon: "Lam"
 ---
 
 

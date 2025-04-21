@@ -2,7 +2,9 @@
 heading: "Part 12"
 title: "Kinds of Movement"
 weight: 20
-image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+# image: "/covers/meta.jpg"
+c: "indigo"
 description: "There are three kinds of movement-of quality, of quantity, of place"
 writer:
   name: Aristotle 

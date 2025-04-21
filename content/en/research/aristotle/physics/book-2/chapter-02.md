@@ -4,7 +4,7 @@ title: "How does the mathematician differ from the physicist?"
 date: 2024-09-08
 weight: 6
 description: "How does the mathematician differs from the physicist?"
-image: "/covers/physics.png"
+c: "indigo"
 icon: /icons/Aristotle.jpg
 writer:
   name: Aristotle 

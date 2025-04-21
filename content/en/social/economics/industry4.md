@@ -1,14 +1,14 @@
 ---
 title: "Is Industry 4.0 Good or Bad for the Economy?"
-# date: 2017-05-01 orig
 date: 2023-02-02
 image: "/photos/econ/computer.jpg"
 description : ""
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /avatars/lam.jpg
+icon: "Lam"
 toc: false
+icon: "Lam"
 ---
 
 
