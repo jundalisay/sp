@@ -2,16 +2,16 @@
       <small>
           {{- range .Ancestors.Reverse }}
             {{ if .Params.linkTitle }}
-              <a href="{{ .RelPermalink }}">{{ .Params.linkTitle }}</a> /
+              <a href="{{ .RelPermalink }}" class="dark:text-green-200">{{ .Params.linkTitle }}</a> /
             {{- else }}
-              <a href="{{ .RelPermalink }}">{{ .Params.title }}</a> /          
+              <a href="{{ .RelPermalink }}" class="dark:text-green-200">{{ .Params.title }}</a> /          
             {{- end }}
           {{- end }}
 
           {{ if .Params.linkTitle }}
-            <a href="{{ .RelPermalink }}">{{ .Params.linkTitle }}</a> /
+            <a href="{{ .RelPermalink }}" class="dark:text-green-200">{{ .Params.linkTitle }}</a> /
           {{- else }}
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            <a href="{{ .RelPermalink }}" class="dark:text-green-200">{{ .Title }}</a>
           {{- end }}          
 
       </small>

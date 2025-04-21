@@ -3,7 +3,8 @@ heading: Part 5
 title: "The Theory of Everything"
 description: "THE UNIVERSE IS COMPREHENSIBLE because it is governed by scientific laws. Its behavior can be modeled."
 weight: 28
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 <!-- The most incomprehensible thing about the universe is that it is comprehensible.

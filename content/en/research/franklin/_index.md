@@ -3,6 +3,8 @@ title: "Franklin, Benjamin"
 linkTitle: Franklin
 date: 2024-12-29
 weight: 32
-image: /covers/franklin.jpg
+description: "He betrayed the British and named electrical charges wrongly"
+a: "maroon"
+c: "Benjamin Franklin"
 ---
 

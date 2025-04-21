@@ -2,6 +2,6 @@
 title: "Mach, Ernst"
 heading: Unenlightened
 description: German Relativity
-image: "/covers/ernst.jpg"
+c: "darkorange"
 weight: 130
 ---

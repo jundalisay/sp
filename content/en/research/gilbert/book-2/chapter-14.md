@@ -4,7 +4,7 @@ title: "Why at the Pole itself the Coition is stronger"
 # date: 2022-07-14
 description: "Now must we consider separately the globe itself of the earth"
 weight: 38
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)

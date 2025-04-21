@@ -6,7 +6,7 @@ description: "A loadstone is a stone commonly called a Magnet"
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 10
 ---
 

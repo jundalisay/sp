@@ -6,7 +6,7 @@ description: "The length of a versorium convenient for declination on a terrella
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 16
 ---
 

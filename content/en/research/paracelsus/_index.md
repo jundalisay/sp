@@ -1,7 +1,7 @@
 ---
 title: "Paracelsus"
 heading: "Hermes fan, Semi-enlightened Semi-Dogmatic"
-image: "/covers/nature.png"
+c: "rose"
 description: "A Hermes fan"
 weight: 160
 date: 2024-02-29

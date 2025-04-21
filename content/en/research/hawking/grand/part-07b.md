@@ -3,7 +3,8 @@ heading: Part 7b
 title: "The Primordial Universe"
 description: "The tale of how the primordial universe of hydrogen, helium, and a bit of lithium evolved to a universe harboring at least one world with intelligent life like us is a tale of many chapters"
 weight: 42
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

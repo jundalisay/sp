@@ -6,7 +6,7 @@ description: "Plenty of iron mines exist everywhere, both those of old time reco
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 18
 ---
 

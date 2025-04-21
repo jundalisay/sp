@@ -3,7 +3,8 @@ heading: Part 6b
 title: "The Origin of the Big Bang"
 description: ""
 weight: 36
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

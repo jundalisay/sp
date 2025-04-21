@@ -6,7 +6,7 @@ description: "From various substances iron (like all the rest of the *metals) is
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 20
 ---
 

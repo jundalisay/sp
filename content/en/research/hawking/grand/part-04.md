@@ -3,7 +3,8 @@ heading: Part 4
 title: "Austria Experiment"
 description: "In 1999, A TEAM OF PHYSICISTS in Austria fired a series of soccer-ball-shaped molecules toward a barrier"
 weight: 22
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

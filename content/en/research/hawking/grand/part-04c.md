@@ -3,7 +3,8 @@ heading: Part 4c
 title: "Feynman’s theory"
 description: "According to quantum physics, no matter how much information we obtain or how powerful our computing abilities, the outcomes of physical processes cannot be predicted with certainty because they are not determined with certainty"
 weight: 25
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

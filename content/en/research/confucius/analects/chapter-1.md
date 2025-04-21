@@ -3,8 +3,8 @@ heading: "Chapter 1"
 title: "The Satisfaction from Learning"
 description: "To learn, and then to practise opportunely what one has learned, brings satisfaction"
 weight: 1
-image: "/covers/analects.png"
 icon: "Confucius"
+c: "maroon"
 ---
 
 

@@ -6,7 +6,7 @@ description: "The magnetick diurnal revolution of the Earth's globe, as a probab
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 12
 ---
 

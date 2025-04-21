@@ -1,8 +1,9 @@
 ---
 title: "Elements of Geometry"
-# heading: Unenlightened
+heading: Enlightened
 # date: 2022-07-24
 weight: 2
-description: Euclid's Elements of Geometry
-image: /covers/elements.jpg
+description: "Euclid's Elements of Geometry"
+c: "darkblue"
+a: "Euclid"
 ---

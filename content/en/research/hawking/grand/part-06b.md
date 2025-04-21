@@ -3,7 +3,8 @@ heading: Part 6b
 title: "Feynman diagrams"
 description: "The known forces of nature can be divided into 4 classes"
 weight: 34
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

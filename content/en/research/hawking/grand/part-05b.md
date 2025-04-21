@@ -3,7 +3,8 @@ heading: Part 5b
 title: "James Clerk Maxwell"
 description: "Scottish physicist James Clerk Maxwell developed Faraday’s thinking into a mathematical framework that explained the intimate and mysterious relation among electricity, magnetism, and light"
 weight: 30
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

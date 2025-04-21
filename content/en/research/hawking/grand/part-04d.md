@@ -3,7 +3,8 @@ heading: Part 4d
 title: "The Delayed-choice Experiment"
 description: "A key quantum principle is the principle that observing a system must alter its course."
 weight: 26
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

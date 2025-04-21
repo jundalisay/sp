@@ -3,7 +3,8 @@ heading: Part 5c
 title: "Albert Einstein"
 description: ""
 weight: 32
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

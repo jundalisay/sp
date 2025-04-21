@@ -3,7 +3,8 @@ heading: Part 6g
 title: "M-Theory with 10 space dimensions"
 description: "According to M-theory, space-time has 10 space dimensions and 1 time dimension"
 weight: 38
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

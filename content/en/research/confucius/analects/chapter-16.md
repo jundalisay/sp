@@ -6,7 +6,7 @@ weight: 36
 writer:
   name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
-image: "/covers/analects.png"
+c: "maroon"
 icon: "Confucius"
 ---
 

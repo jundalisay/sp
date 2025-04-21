@@ -6,7 +6,7 @@ description: "The stone itself manifests many qualities which were not well inve
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 28
 ---
 

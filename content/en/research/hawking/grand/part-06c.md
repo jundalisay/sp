@@ -4,7 +4,8 @@ title: "Supersymmetry, String Theory, M-Theory"
 description: "Supersymmetry is a more subtle kind of symmetry that cannot be associated with a transformation of ordinary space"
 author: Hawking
 weight: 34
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

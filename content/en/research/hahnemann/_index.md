@@ -4,6 +4,7 @@ title: "Hahnemann, Samuel"
 heading: Enlightened
 description: "Samuel Hahnemann is the inventor of Homeopathy"
 weight: 39
-image: /covers/hahnemann.jpg
+a: "Hahnemann"
+c: "rose"
 ---
 

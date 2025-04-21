@@ -6,7 +6,7 @@ description: "Loadstone seems to attract Loadstone when in natura position: but 
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 12
 ---
 

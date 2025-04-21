@@ -6,7 +6,7 @@ description: "Diagram of the rotation of a magnetick needle, indicating magnetic
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 24
 ---
 

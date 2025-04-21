@@ -6,7 +6,7 @@ description: "Magnetick science, being all the more neglected and not understood
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 ---
 
 

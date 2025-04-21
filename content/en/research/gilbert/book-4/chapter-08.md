@@ -6,7 +6,7 @@ description: "The construction of the common mariners' compass, and the diversit
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 18
 ---
 

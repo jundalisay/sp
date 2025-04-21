@@ -4,7 +4,7 @@ title: "The Earth as a great magnet"
 # date: 2022-07-14
 description: "Now must we consider separately the globe itself of the earth"
 weight: 2
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)

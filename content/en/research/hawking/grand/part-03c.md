@@ -3,7 +3,8 @@ heading: Part 3c
 title: "A Good Model"
 description: "Model-dependent realism can provide a framework to discuss questions"
 weight: 18
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

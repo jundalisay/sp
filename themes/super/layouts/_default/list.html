@@ -19,28 +19,32 @@
 
 <section class="container mx-auto py-8">
 
+  {{ partial "bread.html" . }}
+
+
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <div class="p-4">
-          <h1 class="text-4xl dark:text-white font-bold mb-4">{{ .Title }}</h1>
-          <p class="text-lg dark:text-gray-200">
-            {{ .Description | safeHTML }}
-          </p>
+      <div class="p-4">
+        <h1 class="text-4xl dark:text-white font-bold mb-4">{{ .Title }}</h1>
+        <p class="text-lg dark:text-gray-200">
+          {{ .Description | safeHTML }}
+        </p>
+      </div>
+      {{ if .Params.youtube }}
+
+      <div class="m-4">
+        <div class="aspect-video m-4 p-4">
+          <iframe 
+            loading="lazy"
+            class="w-full h-full rounded-lg"
+            src="https://www.youtube.com/embed/{{ .Params.youtube }}"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
         </div>
-        {{ if .Params.youtube }}
-<div class="m-4">
-  <div class="aspect-video m-4 p-4">
-    <iframe 
-      loading="lazy"
-      class="w-full h-full rounded-lg"
-      src="https://www.youtube.com/embed/{{ .Params.youtube }}"
-      title="YouTube video player"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen
-    ></iframe>
-  </div>
-</div>
+      </div>
 
         {{ else }}
           <img loading="lazy" src="{{ .Params.image }}" class="rounded-lg shadow-lg m-4"> 

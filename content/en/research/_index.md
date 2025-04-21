@@ -1,5 +1,5 @@
 ---
 title: "Research"
-description: "We compare the ideas of writers to see who is enlightened and who is evil"
+description: "We compare the ideas of writers to see who is enlightened (with the Dharma) and who is evil (against the Dharma)"
 image: "/covers/sciences.png" 
 ---

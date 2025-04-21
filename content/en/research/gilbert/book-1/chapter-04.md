@@ -6,7 +6,7 @@ description: "One pole of the earth turns toward the constellation of the Cynosu
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 10
 ---
 

@@ -3,7 +3,8 @@ heading: Part 3b
 title: "Model-dependent realism"
 description: "Model-dependent realism corresponds to the way we perceive objects."
 weight: 16
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

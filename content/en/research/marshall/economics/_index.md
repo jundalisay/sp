@@ -2,6 +2,7 @@
 title: "Marshall, Alfred"
 heading: Unenlightened
 description: ""
-image: "/covers/marshall.jpg"
+a: "Marshall"
+c: "maroon"
 weight: 61
 ---

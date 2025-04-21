@@ -2,11 +2,10 @@
 title: "Lorentz, Hendrik"
 heading: Semi-enlightened
 description: Hendrik Lorentz was a Dutch Physicist who shared the 1902 Nobel Prize for the Zeeman effect
-image: "/covers/lor.jpg"
-icon: /icons/lor.png
+icon: "Lorentz"
 # date: 2022-06-20
 weight: 116
-# date: 2022-03-10
-aliases:
-  /research/machiavelli/the-prince
+a: "Lorentz"
+c: "orangered"
 ---
+

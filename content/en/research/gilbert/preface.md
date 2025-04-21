@@ -1,12 +1,11 @@
 ---
-# heading: Chapter 2
 title: "Preface To The Candid Reader, Studious Of The Magnetic Philosophy"
 date: 2024-02-20
 description: "Clearer proofs in the discovery of secrets and in the investigation of the hidden causes of things result from experiments than from the guesses of the ordinary professors of philosophy"
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 6
 ---
 

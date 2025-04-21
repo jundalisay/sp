@@ -6,7 +6,7 @@ description: "Loadstone attracts the ore of iron, as well as iron proper, smelte
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 14
 ---
 

@@ -4,7 +4,8 @@ heading: Part 1a
 title: "The Mystery of Being"
 description: "What is the nature of reality?"
 weight: 2
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 <!-- 

@@ -1,7 +1,8 @@
 ---
 title: "Xenophon"
-# heading: Enlightened
+heading: Enlightened
 description: ""
-image: "/covers/xenophon.jpg"
+a: "Xenophon"
+c: "darkgreen"
 weight: 950
 ---

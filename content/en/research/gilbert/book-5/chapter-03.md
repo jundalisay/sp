@@ -6,7 +6,7 @@ description: "An indicatory instrument, showing by the virtue of a stone the deg
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 12
 ---
 

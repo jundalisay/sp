@@ -6,7 +6,7 @@ description: "The Magnetick axis of the Earth persists invariable"
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 8
 ---
 

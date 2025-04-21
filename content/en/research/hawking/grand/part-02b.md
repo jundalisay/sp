@@ -3,7 +3,8 @@ heading: Part 2b
 title: "The Greeks"
 description: ""
 weight: 10
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

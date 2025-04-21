@@ -3,7 +3,8 @@ heading: Part 7
 title: "The Big Bang"
 description: ""
 weight: 40
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

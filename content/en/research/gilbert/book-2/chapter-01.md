@@ -6,7 +6,7 @@ description: "How in our hands, the magnet stone has all the primary forces of t
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 4
 ---
 

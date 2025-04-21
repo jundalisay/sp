@@ -6,7 +6,7 @@ description: "The best iron, Stomoma, or Chalybs, Acies, or Aciarium, is reduced
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
-image: /covers/magnet.jpg
+icon: "William Gilbert"
 weight: 30
 ---
 

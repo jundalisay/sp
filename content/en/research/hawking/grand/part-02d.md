@@ -3,7 +3,8 @@ heading: Part 2d
 title: "Nature's Laws"
 description: "If nature is governed by laws, 3 questions arise"
 weight: 14
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 

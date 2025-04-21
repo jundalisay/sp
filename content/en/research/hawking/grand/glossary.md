@@ -2,7 +2,8 @@
 title: "Glossary"
 description: "Glossary from Hawking"
 weight: 200
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 Word | Meaning

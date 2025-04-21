@@ -3,7 +3,8 @@ heading: Part 3
 title: "What is Reality?"
 description: "But how do we know we have the true, undistorted picture of reality?"
 weight: 15
-image: /covers/design.jpg
+icon: "Stephen Hawking"
+c: "maroon"
 ---
 
 
