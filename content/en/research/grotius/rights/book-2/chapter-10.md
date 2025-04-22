@@ -2,9 +2,10 @@
 title: The Obligation Arising From Property
 heading: Chapter 10
 weight: 18
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Fighting Samskara"
 heading: "Chapter 12"
 description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 270
 author: Dada Dharmavedananda
 ---

@@ -2,7 +2,7 @@
 title: "Ellis"
 heading: "Part 0"
 weight: 1
-# image: "/covers/discourses.jpg"
+c: "indigo"
 description: ""
 draft: true
 ---

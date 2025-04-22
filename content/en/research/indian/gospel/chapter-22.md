@@ -1,6 +1,6 @@
 ---
 title: "Passions should be directed to God"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 22"
 weight: 88
 description: "One cannot completely get rid of the 6 passions: lust, anger, greed, and the like"

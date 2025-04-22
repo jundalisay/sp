@@ -4,7 +4,7 @@ weight: 9
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/meno.jpg"
+c: "indigo"
 description: "Meno, I am not teaching the boy anything"
 icon: "Socrates"
 ---

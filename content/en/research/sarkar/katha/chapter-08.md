@@ -3,7 +3,7 @@ title: "THE MEETING WITH DATTAJI"
 heading: Chapter 8
 weight: 17
 description: "The pir would be coming from Muzaffarpur and he is known amongst people as Datta Rajendra Shah"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

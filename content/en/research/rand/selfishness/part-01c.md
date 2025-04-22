@@ -1,7 +1,7 @@
 ---
 title: "What is Life?"
 description: ""
-image: "/covers/selfishness.jpg"
+c: "maroon"
 weight: 8
 date: 2023-06-01
 ---

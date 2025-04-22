@@ -2,9 +2,10 @@
 title: The Nature of Reprisals
 heading: Chapter 2
 weight: 10
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

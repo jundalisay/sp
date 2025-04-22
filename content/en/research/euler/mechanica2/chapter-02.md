@@ -1,11 +1,11 @@
 ---
 heading: Chapter 2
-title: "THE MOTION OF A POINT ON A GIVEN LINE IN A VACUUM"
+title: "The Motion Of A Point On A Given Line In A Vacuum"
 date: 2025-03-20
 weight: 4
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
 author: "Euler"
-image: /covers/mecha.jpg
+c: "orangered"
 ---
 
 

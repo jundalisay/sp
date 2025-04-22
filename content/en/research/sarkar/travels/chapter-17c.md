@@ -2,7 +2,7 @@
 title: "Real life Drama"
 heading: "Chapter 17c"
 description: "During our global reporting sessions, Baba has a fixed order in which He calls the representatives from the different sectors of the world"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 274
 author: Dada
 ---

@@ -2,7 +2,7 @@
 title: "Configuration Space"
 heading: "Part 3"
 weight: 10
-image: "/covers/exclusion.jpg"
+c: "maroon"
 description: "What is the position of the exclusion principle on the new quantum mechanics?"
 date: 1946-12-13
 ---

@@ -3,7 +3,7 @@ title: "The Krsna Bhakta"
 heading: Chapter 32
 weight: 102
 description: "Inside the temple, the image of Shri Krishna is worshipped and the walls are inscribed with all the verses of the Giita"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

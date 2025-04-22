@@ -2,7 +2,7 @@
 title: "What is the Difference Between Matter and Microvita?"
 heading: "FAQ on Microvita Part 6 Section E-H"
 description: "If you powder down atoms then you get microvita. If microvita could be powdered down, you would get idea"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

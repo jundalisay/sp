@@ -3,7 +3,7 @@ heading: Section 9e
 linkTitle: Prop 53
 heading: Section 9e
 title: "Proposition 53, Theorem 41"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 10

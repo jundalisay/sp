@@ -2,7 +2,7 @@
 title: "The Human Body Is a Biological Machine"
 # date: 2021-11-20
 weight: 2
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Karma or action is a form of Brahma or the totaliity of existence"
 icon: "/icons/sarkar.png"
 ---

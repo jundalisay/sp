@@ -1,7 +1,7 @@
 ---
 title: "Vice and Virtue"
 weight: 12
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Samája (society) means a group of people who move together"
 icon: "/icons/sarkar.png"
 writer:

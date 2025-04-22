@@ -1,10 +1,10 @@
 ---
 title: "Are Castles Advantageous Or Hurtful?"
 heading: "Chapter 20 of The Prince Simplified"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "The prince who has more to fear from the people than from foreigners ought to build castles, but he who has more to fear from foreigners than from the people should leave them alone"
 weight: 36
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

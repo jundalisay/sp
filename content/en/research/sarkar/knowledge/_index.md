@@ -1,5 +1,5 @@
 ---
 title: "Knowledge"
-image: "/covers/discourses.jpg"
+c: "indigo"
 weight: 26
 ---

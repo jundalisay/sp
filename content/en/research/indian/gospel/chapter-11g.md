@@ -1,6 +1,6 @@
 ---
 title: "Advice to Householders"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 11g"
 weight: 52
 description: "Rākhāl's father's father-in-law was a devotee of God"

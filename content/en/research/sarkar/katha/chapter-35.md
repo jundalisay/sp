@@ -3,7 +3,7 @@ title: "Dharma Mahacakra at Gorakhpur"
 heading: Chapter 35
 weight: 114
 description: "It was decided to hold a Dharma Mahacakra at Gorakhpur"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

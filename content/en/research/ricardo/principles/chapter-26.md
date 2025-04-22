@@ -2,7 +2,7 @@
 heading: Chapter 26
 title: "The Comparative Value Of Gold, Corn, And Labour, In Rich And In Poor Countries"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 184
 date: 2025-01-11
 ---

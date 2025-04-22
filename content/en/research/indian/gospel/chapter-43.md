@@ -1,6 +1,6 @@
 ---
 title: "VISIT TO NANDA BOSE′S HOUSE"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 43"
 weight: 171
 description: ""

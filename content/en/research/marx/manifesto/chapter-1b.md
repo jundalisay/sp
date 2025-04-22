@@ -2,12 +2,12 @@
 heading: "Chapter 1b "
 title: "Modern Industry"
 weight: 7
-image: /covers/manifesto.png
+c: "maroon"
 description: "The capitalist focuses on centralization has led to political centralization"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-icon: /icons/marx.png
+icon: "Karl Marx"
 ---
 
 

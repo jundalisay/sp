@@ -2,7 +2,7 @@
 heading: Chapter 24
 title: "Gross And Net Revenue"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 184
 date: 2025-01-11
 ---

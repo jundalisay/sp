@@ -2,7 +2,7 @@
 title: "Buddhism"
 heading: "Part 11b"
 weight: 28
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Buddhism believes in rebirth and transmigration of souls, so the question arises: Who is reborn if there is no Átman?"
 icon: "/icons/sarkar.png"
 writer:

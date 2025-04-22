@@ -5,7 +5,7 @@ weight: 25
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/prot.jpg"
+c: "darkblue"
 description: "'I think, Socrates, that skill in poetry is the principal part of education'"
 icon: "Socrates"
 ---

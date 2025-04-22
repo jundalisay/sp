@@ -1,6 +1,6 @@
 ---
 title: "THE MASTER'S BIRTHDAY"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 36"
 weight: 146
 description: ""

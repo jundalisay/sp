@@ -1,7 +1,7 @@
 ---
 heading: Part 17
 title: "Narendra: Swāmi Vivekānanda"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 32
 author: "Swāmi Nikhilānanda"
 description: "To spread his message around the world Sri Ramakrishna needed a strong instrument like Narendranāth Dutta, Swāmi Vivekānanda"

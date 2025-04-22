@@ -1,7 +1,7 @@
 ---
 heading: Part 13
 title: "Keshab Chandra Sen"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 25
 author: "Swāmi Nikhilānanda"
 description: "Keshab Chandra Sen and Sri Ramakrishna met for the first time at Belgharia"

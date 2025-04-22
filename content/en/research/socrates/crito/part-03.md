@@ -5,7 +5,7 @@ weight: 8
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/crito.png"
+c: "indigo"
 description: "Socrates Says It is Wrong to Flee"
 icon: "Socrates"
 ---

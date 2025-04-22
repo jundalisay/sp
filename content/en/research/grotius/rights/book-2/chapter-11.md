@@ -2,9 +2,10 @@
 title: Promises
 heading: Chapter 11
 weight: 20
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

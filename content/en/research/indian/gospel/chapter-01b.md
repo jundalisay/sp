@@ -1,6 +1,6 @@
 ---
 title: "Second visit"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 1b"
 weight: 4
 description: "M.'s second visit to Sri Ramakrishna took place on the southeast verandah at 8PM"

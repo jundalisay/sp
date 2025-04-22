@@ -1,6 +1,6 @@
 ---
 title: "Prasanna's Austere Sādhanā"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 52d"
 weight: 220
 description: ""

@@ -2,7 +2,7 @@
 title: "Lemma 1-6"
 description: "We simplify Section 1 of  Principia Mathematica by Isaac Newton"
 author: Newton
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

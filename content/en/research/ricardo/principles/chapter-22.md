@@ -2,7 +2,7 @@
 heading: Chapter 22
 title: "Doctrine Of Adam Smith On The Rent Of Land"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 184
 date: 2025-01-11
 ---

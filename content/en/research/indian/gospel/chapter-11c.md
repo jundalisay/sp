@@ -1,6 +1,6 @@
 ---
 title: "Parable of the Farmer"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 11c"
 weight: 48
 description: "There was a farmer to whom an only son was born when he was rather advanced in age. As the child grew up, his parents became very fond of him"

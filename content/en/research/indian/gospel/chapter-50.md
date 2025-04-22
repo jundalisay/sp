@@ -1,6 +1,6 @@
 ---
 title: "THE MASTER AND BUDDHA"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 50"
 weight: 198
 description: ""

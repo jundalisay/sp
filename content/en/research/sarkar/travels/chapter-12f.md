@@ -2,7 +2,7 @@
 title: "The great good of deportation"
 heading: "Chapter 12f"
 description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 192
 author: Dada Dharmavedananda
 ---

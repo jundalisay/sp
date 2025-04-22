@@ -1,6 +1,8 @@
 ---
 title: "Discourses on the Mahabharata"
-image: "/covers/sarkar.jpg"
+c: "indigo"
+description: "PR Sarkar explains the Mahabharata"
+author: "PR Sarkar"
 weight: 33
 ---
 

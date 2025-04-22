@@ -1,6 +1,6 @@
 ---
 title: "The State of a Vijnāni"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 21b"
 weight: 87
 description: ""

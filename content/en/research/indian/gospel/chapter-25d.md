@@ -1,6 +1,6 @@
 ---
 title: "Does God listen to our prayers?"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 25d"
 weight: 106
 description: "God is the Kalpataru, the Wish-fulfilling Tree. You will certainly get whatever you ask of Him. But you must pray standing near the Kalpataru. Only then will your prayer be fulfilled"

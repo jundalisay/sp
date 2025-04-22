@@ -2,9 +2,10 @@
 title: Conclusion
 heading: Chapter 25
 weight: 46
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: In laying down the true motives and causes, that alone will justify war, every possible precaution at the same time was taken to state the reasons for which it should be avoided
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

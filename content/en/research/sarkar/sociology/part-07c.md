@@ -2,7 +2,7 @@
 title: "Social, Economic, Political Consciousness as 3 Requirements for Democracy"
 heading: "Part 7c"
 weight: 19
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Social advancement is the triadic blending of thesis, antithesis and synthesis."
 icon: "/icons/sarkar.png"
 writer:

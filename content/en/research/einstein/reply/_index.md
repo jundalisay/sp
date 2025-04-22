@@ -5,5 +5,6 @@ linkTitle: "Reply to Criticisms"
 weight: 10
 # "introduced the sophistry of General Relativity"
 description: "Einstein explains the problems with quantum theory"
-image: "/covers/reply.jpg"
+c: "maroon"
+youtube: "https://www.youtube.com/watch?v=klka8xfvMDY"
 ---

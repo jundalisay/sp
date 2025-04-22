@@ -1,10 +1,11 @@
 ---
 title: The Causes of Undertaking War for Others
 heading: Chapter 25
-image: /covers/warpeace.jpg
+c: "darkgreen"
 weight: 60
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

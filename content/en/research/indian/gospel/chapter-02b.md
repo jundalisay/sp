@@ -1,6 +1,6 @@
 ---
 title: "Master's visit to Keshab"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 2b"
 weight: 9
 description: "Sri Ramakrishna was sitting in the drawing-room of Keshab Chandra Sen's house in Calcutta at 5pm"

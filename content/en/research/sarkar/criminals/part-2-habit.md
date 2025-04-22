@@ -2,7 +2,7 @@
 title: "Criminals By Habit"
 heading: "Part 2"
 weight: 6
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Ordinary people manage to keep their base propensities under control through internal moral reasoning"
 icon: "/icons/sarkar.png"
 writer:

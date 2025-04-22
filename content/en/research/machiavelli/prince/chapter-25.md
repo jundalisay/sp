@@ -1,10 +1,10 @@
 ---
 title: "How Fortune Affects Human Affairs And How To Resist Her"
 heading: "Chapter 25"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince"
 weight: 44
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

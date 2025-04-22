@@ -3,7 +3,7 @@ title: "The Evolution of Life"
 heading: "Chapter 2b "
 weight: 14
 description: "In plant and animal life, mind is underdeveloped and the vital energy and mind are controlled by the Supreme Mind"
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

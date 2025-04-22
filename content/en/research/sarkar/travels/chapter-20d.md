@@ -2,7 +2,7 @@
 title: "Before Baba's Death"
 heading: "Chapter 20d"
 description: "Baba's personal assistant, Dada Keshavananda, told us about the days leading up to October 21st"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 342
 author: Dada
 ---

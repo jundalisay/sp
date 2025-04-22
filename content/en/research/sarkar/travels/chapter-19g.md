@@ -2,7 +2,7 @@
 title: "Pretending to be normal"
 heading: "Chapter 19g"
 description: "During our global reporting sessions, Baba has a fixed order in which He calls the representatives from the different sectors of the world"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 326
 author: Dada
 ---

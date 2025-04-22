@@ -2,7 +2,7 @@
 heading: Section 9b
 linkTitle: Prop 52
 title: "Proposition 52, Theorem 40"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 6

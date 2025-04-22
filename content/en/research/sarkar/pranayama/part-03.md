@@ -1,7 +1,7 @@
 ---
 title: "Hatha Yoga"
 weight: 8
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "If somebody is practising Pranayama to have control over 5 internal and 5 external va'yus, with no aim to have its impact on the mind and spirit, he/she achieves control over the respiratory organs and the limbs"
 icon: "/icons/sarkar.png"
 writer:

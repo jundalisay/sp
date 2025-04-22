@@ -1,6 +1,6 @@
 ---
 title: "WITH VARIOUS DEVOTEES"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 33"
 weight: 134
 description: ""

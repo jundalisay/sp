@@ -2,12 +2,12 @@
 heading: "Chapter 1c"
 title: "Class Struggle Between Proletariat and Bourgeoisie"
 weight: 8
-image: /covers/manifesto.png
+c: "maroon"
 description: "Of all the classes that stand face to face with the capitalists today, the proletariat alone is revolutionary"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-icon: /icons/marx.png
+icon: "Karl Marx"
 ---
 
 

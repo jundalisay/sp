@@ -3,7 +3,7 @@ title: "Sin, Crime and Law"
 weight: 20
 author: "PR Sarkar"
 description: ""
-image: "/covers/discourses.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 ---
 

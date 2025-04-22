@@ -2,7 +2,7 @@
 title: "Misanthropists and Misologists"
 heading: "Chapter 6"
 weight: 14
-image: "/covers/phaedo.png"
+c: "indigo"
 description: "Misanthropists are haters of people. Misologists are haters of ideas. Both spring from the same cause, which is ignorance of the world"
 icon: "Socrates"
 ---

@@ -2,7 +2,7 @@
 title: "The Human Biological Structure"
 # date: 2021-11-20
 weight: 5
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "This biological machine is of great help to humans. You can perform spiritual sádhaná with this biological structure because it is a biped structure."
 icon: "/icons/sarkar.png"
 ---

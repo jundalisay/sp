@@ -2,7 +2,7 @@
 title: "What is the Impact of Microvita on World History?"
 heading: "FAQ on Microvita Part 4"
 description: "In archaeological history, has positive or negative microvita collectively influenced this earth or the cosmos?"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

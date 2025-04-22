@@ -3,9 +3,10 @@ title: The Right to Lay Waste an Enemy's Country, and Carry Off His Effects
 heading: Chapter 5
 weight: 16
 
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 <!-- An enemy's property may be wasted and plundered—Things deemed sacred, how far exempted—Stratagem, how far permitted. -->

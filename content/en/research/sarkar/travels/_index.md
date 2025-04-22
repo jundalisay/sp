@@ -1,7 +1,7 @@
 ---
 title: "Travels with the Mystic Master"
 description: ""
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 82
 linkTitle: Travels
 # date: 2022-05-05

@@ -2,7 +2,7 @@
 title: "Socartes is Condemned to Death"
 weight: 28
 description: "There are many reasons why I am not grieved, O men of Athens, at the vote of condemnation"
-image: "/covers/apology.png"
+c: "darkblue"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

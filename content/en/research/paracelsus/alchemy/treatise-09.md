@@ -2,7 +2,7 @@
 heading: Treatise 9
 title: "The Commixtion of Metals, The drawing forth their seed"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 40
 writer:
   name: Paracelsus

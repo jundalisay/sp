@@ -1,6 +1,6 @@
 ---
 title: "A Letter"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Appendix B"
 weight: 400
 description: "Written to M. from by Ashwini Kumar Dutta"

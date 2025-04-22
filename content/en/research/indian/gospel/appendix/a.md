@@ -1,6 +1,6 @@
 ---
 title: "Keshab At Dakshineswar"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Appendix A"
 weight: 4
 description: "Keshab listened to the Master's words with wonder in his eyes"

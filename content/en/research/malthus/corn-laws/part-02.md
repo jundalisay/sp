@@ -2,7 +2,7 @@
 title: "Adam Smith's Doctrine on the Real Price of Corn"
 # heading: Unenlightened
 description: Mao was a Chinese Leader
-image: "/covers/corn.jpg"
+c: "maroon"
 author: "Malthus"
 weight: 7
 date: 2025-03-20

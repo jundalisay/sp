@@ -1,8 +1,8 @@
 ---
 title: "PROGRESS IN RELATION TO STANDARDS OF LIFE"
 heading: Chapter 13
-description: ""
-image: "/covers/marshall.jpg"
+description: "The true key-note of economic progress is the development of new activities rather than of new wants"
+c: "maroon"
 weight: 4
 ---
 

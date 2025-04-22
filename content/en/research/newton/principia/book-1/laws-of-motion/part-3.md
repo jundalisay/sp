@@ -2,7 +2,7 @@
 heading: Part 3
 linkTitle: Part 3
 title: "Corollary 3"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 10

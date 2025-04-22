@@ -2,7 +2,7 @@
 heading: Section 8
 linkTitle: Prop 49
 title: "Proposition 49 Theorem 11"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 400

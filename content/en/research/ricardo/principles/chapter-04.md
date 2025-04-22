@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "Natural And Market Price"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 6
 date: 2025-02-09
 ---

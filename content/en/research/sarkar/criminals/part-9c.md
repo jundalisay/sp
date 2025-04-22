@@ -2,7 +2,7 @@
 title: "Staticity and Sin"
 heading: "Part 9c"
 weight: 24
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "The human mind becomes inert and dormant in society due to"
 icon: "/icons/sarkar.png"
 ---

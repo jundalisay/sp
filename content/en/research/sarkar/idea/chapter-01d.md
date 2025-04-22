@@ -3,7 +3,7 @@ title: "How is Life Created?"
 heading: Chapter 1d
 weight: 8
 description: "An environment for the unit structure is essentially required where all these 5 fundamental layers are available in requisite quantity. Life can get expression only under such a condition"
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

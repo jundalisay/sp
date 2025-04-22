@@ -2,7 +2,7 @@
 title: "His Magic Stick "
 heading: "Chapter 8g"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 128
 author: Dada Dharmavedananda
 ---

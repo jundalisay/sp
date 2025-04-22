@@ -4,7 +4,7 @@ title: "Find the Trajectory of Points"
 description: "Around a given focus to describe any trajectory given in specie which shall pass through given points, and touch right lines given by position"
 author: Newton
 draft: true
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

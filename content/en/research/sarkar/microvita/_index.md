@@ -1,6 +1,6 @@
 ---
 title: "Microvita in a Nutshell"
-image: "/covers/mv.png"
+c: "indigo"
 weight: 33
 featured: true
 ---

@@ -2,7 +2,7 @@
 title: "Microvitum and Its Effect on Human Body and Human Mind"
 heading: "Chapter 8"
 description: "Microvitum moves through the media of inferences"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

@@ -2,7 +2,7 @@
 title: "Introduction to the Progressive Utilization Theory"
 heading: "Appendix 2"
 description: "Between 2 points of no magnitude there is a flow of cognition"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 430
 author: Dada
 ---

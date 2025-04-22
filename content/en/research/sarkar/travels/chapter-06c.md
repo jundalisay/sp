@@ -2,7 +2,7 @@
 title: "Baba starts fasting"
 heading: "Chapter 6c"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 76
 author: Dada Dharmavedananda
 ---

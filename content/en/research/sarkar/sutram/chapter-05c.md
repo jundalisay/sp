@@ -2,7 +2,7 @@
 title: "Maximum Utilization"
 heading: Chapter 5c
 description: "There should be maximum utilization of the physical, metaphysical and spiritual potentialities"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 24
 ---
 

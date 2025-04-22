@@ -2,7 +2,7 @@
 title: "Long range words"
 heading: "Chapter 15d"
 description: "The treatment that Baba gave to Keshava from Germany was peculiar."
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 242
 author: Dada
 ---

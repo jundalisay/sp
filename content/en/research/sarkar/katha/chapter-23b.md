@@ -3,7 +3,7 @@ title: "Mental Pranam"
 heading: Chapter 23b
 weight: 72
 description: "Ananda Marga is a philosophy and Shrii Shrii Anandamurtiji it its propounder"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

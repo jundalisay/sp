@@ -2,7 +2,7 @@
 title: "Thought becomes matter"
 heading: "Chapter 10b"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 156
 author: Dada Dharmavedananda
 ---

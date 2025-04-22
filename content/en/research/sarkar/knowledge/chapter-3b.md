@@ -2,7 +2,7 @@
 title: "Mental Disease or Mania Versus Brain Disease"
 heading: "Chapter 3b"
 weight: 7
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Psychic disease and brain disease are not the same thing. They are quite different"
 icon: "/icons/sarkar.png"
 ---

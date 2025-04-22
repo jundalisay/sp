@@ -1,6 +1,6 @@
 ---
 title: "The Master And Keshab"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 5"
 weight: 23
 description: "Keshab Chandra Sen had arranged a boat trip on the Ganges for Sri Ramakrishna"

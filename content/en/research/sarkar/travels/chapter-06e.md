@@ -2,7 +2,7 @@
 title: "No need to trouble Him"
 heading: "Chapter 6e"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 84
 author: Dada Dharmavedananda
 ---

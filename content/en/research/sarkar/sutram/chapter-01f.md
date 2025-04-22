@@ -2,7 +2,7 @@
 title: "Mahat, Aham, and Citta"
 heading: Chapter 1f
 description: "Brahma [Cosmic Entity] is the composite of Shiva [Consciousness] and Shakti [Operative Principle"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 12
 ---
 

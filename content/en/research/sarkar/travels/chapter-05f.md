@@ -2,7 +2,7 @@
 title: "Accelerating Zeal"
 heading: "Chapter 5f"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 60
 author: Dada Dharmavedananda
 ---

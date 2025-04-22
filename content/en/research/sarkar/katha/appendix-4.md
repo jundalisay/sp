@@ -4,7 +4,7 @@ title: Acarya Shri Hari Shamkarji says Baba is a Liar
 heading: Appendix 4
 weight: 206
 description: "An Editor’s note in Prajina Bharati July 1984"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

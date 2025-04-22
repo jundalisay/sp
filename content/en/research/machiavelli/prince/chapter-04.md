@@ -1,10 +1,10 @@
 ---
 title: "Why Alexander's Successors Remained "
 heading: "Chapter 4-7"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "His successors maintained themselves, and had no other difficulty than that which arose among themselves"
 weight: 6
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A Day At Dakshineswar"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 21"
 weight: 86
 description: "That morning he had hired a boat and invited M. to accompany him to Dakshineswar"

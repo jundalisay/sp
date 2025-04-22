@@ -6,7 +6,7 @@ linkTitle: "EPR Paradox"
 # date: 2022-08-08
 description: "Einstein explains the Lorentz Transformation"
 icon: "Einstein"
-image: "/covers/rel.jpg"
+c: "maroon"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

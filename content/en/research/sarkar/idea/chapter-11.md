@@ -4,7 +4,7 @@ title: "Spirituality as the Cosmic Ideal for Humans"
 heading: "Chapter 11"
 weight: 48
 description: "Spirituality should lead human beings to the one Cosmic truth from which they have derived their selves,(1) and which is the ultimate destiny"
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

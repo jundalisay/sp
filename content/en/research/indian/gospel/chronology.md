@@ -1,7 +1,7 @@
 ---
 title: "A CHRONOLOGY OF SRI RAMAKRISHNA'S LIFE"
 heading: Appendix C
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 500
 description: ""
 ---

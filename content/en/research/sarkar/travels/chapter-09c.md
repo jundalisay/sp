@@ -2,7 +2,7 @@
 title: "Seeing God"
 heading: "Chapter 9c"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 148
 author: Dada Dharmavedananda
 ---

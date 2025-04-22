@@ -1,7 +1,7 @@
 ---
 heading: Part 9
 title: "Kāli and Māyā"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 18
 author: "Swāmi Nikhilānanda"
 description: "Māyā, the mighty weaver of the garb, is none other than Kāli, the Divine Mother"

@@ -3,7 +3,7 @@ title: "Ananda Purnima Dmc In Ranchi In 1958"
 heading: Chapter 34
 weight: 110
 description: "The Margiis of Ranchi celebrated the first Ananda Purnima DMC on 12th May 1958"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

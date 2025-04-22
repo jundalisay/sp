@@ -2,7 +2,7 @@
 title: "LAND TENURE"
 heading: Chapter 10
 description: ""
-image: "/covers/marshall.jpg"
+c: "maroon"
 weight: 4
 ---
 

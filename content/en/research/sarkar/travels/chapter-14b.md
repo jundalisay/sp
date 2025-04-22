@@ -2,7 +2,7 @@
 title: "At a Military Base"
 heading: "Chapter 14b"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 220
 author: Dada Dharmavedananda
 ---

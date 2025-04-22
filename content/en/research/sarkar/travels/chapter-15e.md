@@ -2,7 +2,7 @@
 title: "You Win: More Dharma Samiksha"
 heading: "Chapter 15e"
 description: "Madhusudan was my guide in Mokamo during my field training in 1972. He stood in front of Baba for dharma samiksha"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 246
 author: Dada
 ---

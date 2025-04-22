@@ -3,7 +3,7 @@ title: "Baba Orders Me To File And Appeal"
 heading: Chapter 15
 weight: 34
 description: "Some Margii brothers were also pressing me to file an appeal"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

@@ -2,7 +2,7 @@
 title: "Microvita's Effect on Chemicals, Pharmaceuticals, Metallurgy, Pyro-technology"
 heading: "Chapter 7b"
 description: "How will the chemical formulae undergo changes due to research on microvita?"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

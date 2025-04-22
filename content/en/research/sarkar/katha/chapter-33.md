@@ -3,7 +3,7 @@ title: "MY MOTHER FALLS GRAVELY ILL"
 heading: Chapter 33
 weight: 108
 description: "My revered mother had a stroke and was unconscious for more than 24 hours"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

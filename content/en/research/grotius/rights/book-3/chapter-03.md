@@ -2,9 +2,10 @@
 title: Just War According to the Law of Nations
 heading: Chapter 3
 weight: 12
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Section 16"
 weight: 26
 # date: 2022-04-02
 description: "Special Relativity is proven by Starlight, Electrons, and the lack of Aether drift"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

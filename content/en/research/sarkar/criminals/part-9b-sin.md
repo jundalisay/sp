@@ -2,7 +2,7 @@
 title: "The Three Causes of Sin"
 heading: "Part 9b"
 weight: 22
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Sin is sometimes based entirely on dogmas and not on cardinal human values. Wise people will never entertain a conception of sin based on religious dogma"
 icon: "/icons/sarkar.png"
 ---

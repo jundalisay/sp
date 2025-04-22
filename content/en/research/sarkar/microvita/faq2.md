@@ -2,7 +2,7 @@
 title: "How Do Microvita Affect Males and Females/"
 heading: "FAQ on Microvita Part 2 Section B"
 description: "Is there any difference of sex in protoplasms, as there is in the case of developed plants and animals?"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

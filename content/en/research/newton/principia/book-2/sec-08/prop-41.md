@@ -1,7 +1,7 @@
 ---
 heading: Section 8a
 title: "Proposition 41, Theorem 32"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 2

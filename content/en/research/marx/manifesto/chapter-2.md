@@ -2,12 +2,12 @@
 heading: "Chapter 2 "
 title: "Proletarians and Communists"
 weight: 10
-image: /covers/manifesto.png
+c: "maroon"
 description: "What is the relationship between Communists and the proletarians?"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-icon: /icons/marx.png
+icon: "Karl Marx"
 ---
 
 

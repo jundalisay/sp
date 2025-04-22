@@ -1,7 +1,7 @@
 ---
 title: "Epilogue"
 description: "Ananda Marga is growing at such speed that our workers must be careful not to pass most of their time only fulfilling requests to teach  meditation or answering endless questions"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 400
 author: Dada
 ---

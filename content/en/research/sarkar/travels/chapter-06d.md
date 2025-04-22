@@ -2,7 +2,7 @@
 title: "Water Cure"
 heading: "Chapter 6d"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 80
 author: Dada Dharmavedananda
 ---

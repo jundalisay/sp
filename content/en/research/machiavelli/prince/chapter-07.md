@@ -1,10 +1,10 @@
 ---
 title: "New Principalities Acquired By Arms or Good Fortune"
 heading: "Chapter 7"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "Things in nature which are born and grow rapidly cannot establish their foundations well. This lets them get destroyed by the first storm"
 weight: 10
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

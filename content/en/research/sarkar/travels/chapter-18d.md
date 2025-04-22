@@ -2,7 +2,7 @@
 title: "A rain of grace"
 heading: "Chapter 18d"
 description: "During our global reporting sessions, Baba has a fixed order in which He calls the representatives from the different sectors of the world"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 294
 author: Dada
 ---

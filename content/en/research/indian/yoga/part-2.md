@@ -2,7 +2,7 @@
 heading: Part 2
 title: "The Path To Realization"
 description: "The Path To Realization is achieved through yama and niyama"
-image: "/covers/yoga.jpg"
+c: "indigo"
 weight: 6
 ---
 

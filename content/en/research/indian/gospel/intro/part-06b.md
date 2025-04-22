@@ -1,7 +1,7 @@
 ---
 heading: Part 6b
 title: "Vaishnava Disciplines"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 13
 author: "Swāmi Nikhilānanda"
 description: "According to the Tantra, the Ultimate Reality is Chit, or Consciousness"

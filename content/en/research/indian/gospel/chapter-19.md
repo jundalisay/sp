@@ -1,6 +1,6 @@
 ---
 title: "THE MASTER AND HIS INJURED ARM"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 19"
 weight: 78
 description: ""

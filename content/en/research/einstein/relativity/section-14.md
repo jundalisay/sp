@@ -4,7 +4,7 @@ heading: "Section 14"
 # date: 2022-04-04
 weight: 22
 description: "Einstein defines his theory of Relativity as frames of reference glued together by the constant speed of light"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

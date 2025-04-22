@@ -3,7 +3,7 @@ title: "THE DEMONSTRATIONS IN THE JAMALPUR ASHRAM"
 heading: Chapter 10
 weight: 22
 description: "In November 1954, Baba started giving demonstrations about the different stages and utilities of sadhana"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

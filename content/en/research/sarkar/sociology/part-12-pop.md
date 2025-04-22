@@ -1,7 +1,7 @@
 ---
 title: "Population Growth and Control"
 weight: 32
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "The population problem is based on the availability of food and space."
 icon: "/icons/sarkar.png"
 writer:

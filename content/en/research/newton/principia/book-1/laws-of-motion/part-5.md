@@ -2,7 +2,7 @@
 heading: Part 5
 linkTitle: Part 5
 title: "Scholium"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 60

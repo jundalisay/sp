@@ -2,7 +2,7 @@
 title: "Some Examples of Microvita in Daily Life"
 heading: "Chapter 1c"
 description: "Like all other organic and psychic beings, microvita exist, multiply and die"
-image: "/covers/mv.png"
+c: "indigo"
 date: 1989-09-13
 writer:
   name: PR Sarkar

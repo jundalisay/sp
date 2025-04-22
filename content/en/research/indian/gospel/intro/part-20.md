@@ -1,7 +1,7 @@
 ---
 heading: Part 20
 title: "Moved to Śyāmpukur"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 38
 author: "Swāmi Nikhilānanda"
 description: "In the beginning of September 1885 Sri Ramakrishna was moved to Śyāmpukur"

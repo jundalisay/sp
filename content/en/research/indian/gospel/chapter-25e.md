@@ -1,6 +1,6 @@
 ---
 title: "Different paths to suit different tastes"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 25e"
 weight: 107
 description: "There are different tastes. There are also different powers of digestion"

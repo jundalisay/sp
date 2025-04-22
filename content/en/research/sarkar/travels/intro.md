@@ -2,7 +2,7 @@
 title: "A Brief Biography of Shri Shri Anandamurtiji"
 heading: "Introduction"
 description: "Shri Shri Anandamurtiji was bom in Jamalpur, Bihar, India, at dawn on the full-moon day in May 1921, the same day that Buddha was born about 2500 years earlier. "
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 2
 author: Dada
 ---

@@ -1,6 +1,6 @@
 ---
 title: "How to conquer passion"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 31b"
 weight: 128
 description: ""

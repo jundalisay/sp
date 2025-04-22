@@ -2,9 +2,10 @@
 title: Treaties and on Engagements made by Delegates, Exceeding their Power
 heading: Chapter 15
 weight: 32
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

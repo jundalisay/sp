@@ -2,7 +2,7 @@
 heading: Treatise 1
 title: "What is Nature? What Should Her Searchers Be Like?"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 8
 writer:
   name: Paracelsus

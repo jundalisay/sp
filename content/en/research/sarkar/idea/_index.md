@@ -1,6 +1,6 @@
 ---
 title: "Idea and Ideology"
-image: "/covers/ideology.jpg"
+c: "indigo"
 weight: 2
 featured: true
 ---

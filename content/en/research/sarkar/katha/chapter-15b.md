@@ -3,7 +3,7 @@ title: "The Test Of Doubt"
 heading: Chapter 15b
 weight: 35
 description: "Some Margii brothers were also pressing me to file an appeal"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

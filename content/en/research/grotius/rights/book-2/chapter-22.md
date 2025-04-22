@@ -2,9 +2,10 @@
 title: The Unjust Causes of War
 heading: Chapter 22
 weight: 54
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

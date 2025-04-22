@@ -1,6 +1,6 @@
 ---
 title: "Preface"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "Pappus tells us that the ancients made a great account of the science of mechanics in investigating natural things"
 icon: "/icons/newton.png"
 weight: 2

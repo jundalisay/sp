@@ -2,9 +2,10 @@
 title: The Law of Nature
 heading: Chapter 1b
 weight: 6
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: "The existence of the Law of Nature is proved by 2 kinds of arguments"
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

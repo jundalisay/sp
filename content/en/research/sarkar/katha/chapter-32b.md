@@ -3,7 +3,7 @@ title: "I Am Tempted To Smoke"
 heading: Chapter 32b
 weight: 103
 description: "During training I used to see everyone smoking. This urged me to start smoking again"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

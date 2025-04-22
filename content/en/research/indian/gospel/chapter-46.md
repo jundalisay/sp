@@ -1,6 +1,6 @@
 ---
 title: "THE MASTER AND DR. SARKAR"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 46"
 weight: 183
 description: ""

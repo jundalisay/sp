@@ -2,7 +2,7 @@
 title: "The Motion of the One"
 heading: "Chapter 3"
 weight: 6
-image: "/covers/parm.png"
+c: "indigo"
 description: "The One is the One when viewed by Itself as an Immovable and Timeless Singularity"
 icon: "/icons/Parmenides.jpg"
 ---

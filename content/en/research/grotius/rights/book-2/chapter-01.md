@@ -2,9 +2,10 @@
 title: Defence of Person and Property
 heading: Chapter 1
 weight: 4
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: What are the justifiable causes of war?
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

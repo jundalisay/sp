@@ -1,7 +1,7 @@
 ---
 heading: Chapter 29b
 title: The Homa Bird
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 118
 description: "The Vedas speak of the homa bird. It lives very high in the sky. There the mother bird lays her egg. She lives so high that the egg falls for many days. While falling it is hatched"
 ---

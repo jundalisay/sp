@@ -2,9 +2,10 @@
 title: The Interpretation of Treaties.
 heading: Chapter 16
 weight: 34
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

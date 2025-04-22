@@ -2,7 +2,7 @@
 title: "Empowered"
 heading: "Chapter 10"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 152
 author: Dada Dharmavedananda
 ---

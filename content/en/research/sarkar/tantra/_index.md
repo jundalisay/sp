@@ -1,5 +1,5 @@
 ---
 title: "Tantra"
-image: "/covers/discourses.jpg"
+c: "indigo"
 weight: 78
 ---

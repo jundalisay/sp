@@ -2,9 +2,10 @@
 title: Import Taxes and Fees
 heading: Chapter 2c
 weight: 10
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "The World of Duality & Transcendental Nature of Brahman"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 3b"
 weight: 14
 description: "The world consists of the illusory duality of knowledge and ignorance"

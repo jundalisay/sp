@@ -4,7 +4,7 @@ heading: "Section 31"
 # date: 2022-03-02
 weight: 56
 description: "Elliptical space is another kind of curved space. It has the two “counter-points” are identical"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

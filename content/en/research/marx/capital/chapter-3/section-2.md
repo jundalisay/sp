@@ -4,10 +4,10 @@ heading: "Section 2"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-image: "/covers/daskapital.jpg"
+c: "maroon"
 description: "Circulation of values"
 weight: 6
-icon: /icons/marx.png
+icon: "Karl Marx"
 # date: "2020-01-31"
 ---
 

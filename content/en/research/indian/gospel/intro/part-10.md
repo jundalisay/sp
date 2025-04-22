@@ -1,7 +1,7 @@
 ---
 heading: Part 10
 title: "Practicing Different Religions"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 20
 author: "Swāmi Nikhilānanda"
 description: "Toward the end of 1866 he began to practise Islam"

@@ -5,7 +5,7 @@ weight: 4
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/crito.png"
+c: "indigo"
 description: "Socrates Refuses to Flee Death"
 icon: "Socrates"
 ---

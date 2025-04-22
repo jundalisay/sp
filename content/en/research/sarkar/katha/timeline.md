@@ -3,7 +3,7 @@ title: "Some Clarifications"
 # heading: Introduction 2
 weight: 303
 description: "Crudification or Saiṋcara is the centrifugal activity of the Nucleus (Puruśottama) of the Macrocosm"
-image: "/covers/ideology.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "M.'s first argument"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 1c"
 weight: 5
 description: "This was M.'s first argument with the Master, and happily his last"

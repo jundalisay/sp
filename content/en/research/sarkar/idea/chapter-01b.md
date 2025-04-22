@@ -4,7 +4,7 @@ title: "The Formation of Identity"
 heading: Chapter 1b
 weight: 4
 description: "the Identity-Layer is nothing but the Cosmic “I”. This is the first bondage of Consciousness by His innate sentient Activity"
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

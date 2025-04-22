@@ -2,7 +2,7 @@
 title: "Greatest hindrance to universalism"
 heading: "Chapter 14d"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 228
 author: Dada Dharmavedananda
 ---

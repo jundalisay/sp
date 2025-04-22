@@ -2,7 +2,7 @@
 heading: Chapter 5b
 title: "Profits"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 6
 date: 2025-02-09
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Asanas"
 weight: 7
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "There are many underdeveloped creatures which have no nerve cells or nerve fibres and behave according to their instincts only."
 ---
 

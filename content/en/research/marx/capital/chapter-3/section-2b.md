@@ -4,10 +4,10 @@ heading: "Section 2b"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-image: "/covers/daskapital.jpg"
+c: "maroon"
 description: "The change of form, C—M—C, by which the circulation of the material products of labour is brought about, requires that a given value in the shape of a commodity shall begin the process"
 weight: 8
-icon: /icons/marx.png
+icon: "Karl Marx"
 # date: "2020-01-31"
 ---
 

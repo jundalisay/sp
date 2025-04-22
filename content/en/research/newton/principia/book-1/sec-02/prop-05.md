@@ -2,7 +2,7 @@
 heading: Section 2e
 linkTitle: Prop 5
 title: "Proposition 5 Problem 1"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 12

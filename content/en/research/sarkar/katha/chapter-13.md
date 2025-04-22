@@ -4,7 +4,7 @@ title: The Start of Ananda Marga on January 5, 1955
 heading: Chapter 13
 weight: 30
 description: "I had Baba's Darshan on January 5, 1955 in the morning and I did my pranam without touching Him"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

@@ -2,7 +2,7 @@
 title: "Society's high expectations"
 heading: "Chapter 18b"
 description: "During our global reporting sessions, Baba has a fixed order in which He calls the representatives from the different sectors of the world"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 318
 author: Dada
 ---

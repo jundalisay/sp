@@ -2,7 +2,7 @@
 title: "Tantra, Vedas and Yoga"
 heading: "Appendix 3"
 description: "The first Veda, theRgveda, is dated 15,000 years ago."
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 442
 author: Dada
 ---

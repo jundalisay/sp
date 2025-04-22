@@ -2,7 +2,7 @@
 title: "Cerebral and Extra-Cerebral Memory"
 heading: "Chapter 4b"
 weight: 10
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "“The re-creation of things already perceived by the mind is called memory"
 icon: "/icons/sarkar.png"
 ---

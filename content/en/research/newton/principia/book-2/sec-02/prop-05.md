@@ -4,7 +4,7 @@ title: "Projecticle"
 description: "The motions of bodies that are  resisted in the duplicate ratio of the velocities"
 author: Newton
 draft: true
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

@@ -2,9 +2,10 @@
 title: Christian War
 heading: Chapter 2d
 weight: 14
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

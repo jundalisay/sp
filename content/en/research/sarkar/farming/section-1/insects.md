@@ -5,7 +5,7 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "In Bengal, production based on insects has 3 main branches"
-image: "/covers/farming.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 aliases:
   /research/indian/farming/section-1/pulses

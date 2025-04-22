@@ -3,7 +3,7 @@ heading: Proposition 21
 title: "Find the Trajectory of Points"
 description: "Around a focus, draw a trajectory that shall pass through given points and touch right Hues given by position"
 author: Newton
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

@@ -3,7 +3,7 @@ title: "The Motions That Appear Around the Sun"
 heading: Chapter 4
 weight: 14
 date: 2025-03-08
-image: "/covers/copernicus.jpg"
+c: "orangered"
 ---
 
 

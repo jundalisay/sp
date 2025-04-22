@@ -2,9 +2,10 @@
 title: The Rights of War
 heading: Chapter 1
 weight: 4
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: "The ancient Patriarchs formed no national community"
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 <!-- Of War—Definition of War—Right, of Governors and of the governed, and of equals—Right as a Quality divided into Faculty and Fitness—Faculty denoting Power, Property, and Credit—Divided into Private and Superior—Right as a Rule, natural and voluntary—Law of Nature divided—Proofs of the Law of Nature—Division of Rights into human and divine—Human explained—Divine stated—Mosaic Law not binding upon Christians. -->

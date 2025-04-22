@@ -2,7 +2,7 @@
 heading: Section 2d
 linkTitle: Prop 4
 title: "Proposition 4 Theorem 4"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 10

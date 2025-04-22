@@ -1,6 +1,6 @@
 ---
 title: "Different Classes Of Devotees And The Great Visions"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 49"
 weight: 192
 description: ""

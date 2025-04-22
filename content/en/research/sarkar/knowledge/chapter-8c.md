@@ -2,7 +2,7 @@
 title: "Devayoniis"
 heading: "Chapter 8c"
 weight: 16
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "The excessive pressure of the thought-waves – we say “auto-suggestion” – makes the ocular vision negative"
 icon: "/icons/sarkar.png"
 ---

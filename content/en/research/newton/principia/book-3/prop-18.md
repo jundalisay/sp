@@ -1,6 +1,6 @@
 ---
 title: "Propositions 18-19"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "The axes of the planets are less than the diameters drawn perpendicularly to the axes"
 icon: "/icons/newton.png"
 ---

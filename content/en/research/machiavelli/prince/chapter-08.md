@@ -1,10 +1,10 @@
 ---
 title: "Those Who Have Obtained A Principality By Wickedness"
 heading: "Chapter 8"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "How could Agathocles, and his like, after infinite wickedness and cruelties, should live securely for so long in his country?"
 weight: 12
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

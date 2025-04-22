@@ -3,7 +3,7 @@ title: "THE PRACTICE OF MANTRA"
 heading: Chapter 9d
 weight: 21
 description: "In my early days as a disciple, I often felt unsure of myself because of my inexperience and sometimes doubted my judgement about how to do the practices correctly"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

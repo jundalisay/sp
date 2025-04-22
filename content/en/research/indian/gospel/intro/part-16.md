@@ -1,7 +1,7 @@
 ---
 heading: Part 16
 title: "The Monastic Disciples of Shri Ramakrishna"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 30
 author: "Swāmi Nikhilānanda"
 description: "The disciples whom the Master trained for monastic life"

@@ -4,7 +4,7 @@ weight: 6
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/meno.jpg"
+c: "indigo"
 description: "I would define virtue as the power of governing mankind."
 icon: "Socrates"
 ---

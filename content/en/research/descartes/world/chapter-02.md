@@ -2,7 +2,7 @@
 title: "The Nature of Heat and Light"
 heading: "Chapter 2"
 weight: 6
-image: "/covers/world.jpg"
+c: "orangered"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 writer:
   name: Rene Descartes

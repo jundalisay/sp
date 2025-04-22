@@ -3,7 +3,7 @@ title: "My First Meeting With Baba And Initiation"
 heading: Chapter 1c
 weight: 4
 description: "An Editor’s note in Prajina Bharati October 1983"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

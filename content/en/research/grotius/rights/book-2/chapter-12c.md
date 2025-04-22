@@ -2,9 +2,10 @@
 title: Prices are Demand Driven
 heading: Chapter 12c
 weight: 26
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

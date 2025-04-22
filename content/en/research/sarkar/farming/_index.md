@@ -1,6 +1,6 @@
 ---
 title: "Ideal Farming"
-image: "/covers/farming.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

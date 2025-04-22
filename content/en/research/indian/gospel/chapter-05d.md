@@ -1,6 +1,6 @@
 ---
 title: "Difficulty of Preaching"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 5c"
 weight: 26
 description: "It is extremely difficult to teach others. A man can teach only if God reveals Himself to him"

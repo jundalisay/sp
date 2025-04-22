@@ -4,7 +4,7 @@ title: "The 5 Created Layers"
 heading: "Chapter 3 "
 weight: 16
 description: "The created layers are not any new stuff, but only the crudified forms of Cosmic mindstuff."
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

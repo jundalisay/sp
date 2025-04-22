@@ -2,7 +2,7 @@
 title: "His invisible hand "
 heading: "Chapter 7d"
 description: "The treatment that Baba gave to Keshava from Germany was peculiar."
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 100
 author: Dada
 ---

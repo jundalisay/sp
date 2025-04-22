@@ -3,7 +3,7 @@ title: "MY TRANSFER AND BABA’S PROTECTION"
 heading: Chapter 5
 weight: 12
 description: "Ajit Singh had been transferred to Palanpur I found that the one who was replacing him was somewhat known to me"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

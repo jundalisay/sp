@@ -6,7 +6,7 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Integrated farming is designed to utilize every inch of land through Mixed and Supplementary Cropping and Crop Rotation"
-image: "/covers/farming.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ram, Kedar Chatterji, and Tarak"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 11d"
 weight: 49
 description: "Ram, Kedar Chatterji, and Tarak arrived from Calcutta with flowers and sweets. Kedar was about 50 years old"

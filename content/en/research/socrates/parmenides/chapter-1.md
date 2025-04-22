@@ -5,7 +5,7 @@ weight: 2
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/parm.png"
+c: "indigo"
 description: "Socrates, Zeno, and Parmenides talk about the philosophy"
 icon: "/icons/Parmenides.jpg"
 ---

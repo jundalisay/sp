@@ -5,7 +5,7 @@ description: "Part 1 of the Yoga Sutras is about Meditation and Samadhi"
 writer:
   name: Patanjali translated by Juan
   url: https://www.linkedin.com/in/jundalisay/
-image: "/covers/yoga.jpg"
+c: "indigo"
 weight: 4
 ---
 

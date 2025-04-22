@@ -1,7 +1,7 @@
 ---
 title: "The Objectivist Ethics"
 description: ""
-image: "/covers/selfishness.jpg"
+c: "maroon"
 weight: 4
 date: 2023-06-01
 ---

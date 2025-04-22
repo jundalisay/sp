@@ -5,7 +5,7 @@ author: "Sun Tzu"
 description: "The Ground Book"
 heading: "Chapter 3"
 weight: 26
-icon: "Sun Tzu
+icon: "Sun Tzu"
 ---
 
 

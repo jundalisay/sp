@@ -2,7 +2,7 @@
 title: "What is Ideation?"
 heading: "Part 1b"
 weight: 2
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "One’s mental flow is concerned with both ideation and meditation"
 icon: "/icons/sarkar.png"
 ---

@@ -1,7 +1,7 @@
 ---
 heading: Part 5
 title: "Haladhāri; Marriage"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 10
 author: "Swāmi Nikhilānanda"
 description: "In 1858, Sri Ramakrishna's cousin Haladhāri came to Dakshineśwar and stayed there for 8 years"

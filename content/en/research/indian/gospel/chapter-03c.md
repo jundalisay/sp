@@ -1,6 +1,6 @@
 ---
 title: "Path of Love is Easy"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 3c"
 weight: 15
 description: "The path of love also leads to the Truth."

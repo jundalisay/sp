@@ -2,7 +2,7 @@
 title: "Basic Differences In Attitude Between The East And The West"
 heading: "Enlightened"
 description: ""
-image: "/covers/discourses.jpg"
+c: "indigo"
 weight: 4
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "WITH THE DEVOTEES AT DAKSHINESWAR (II)"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 16"
 weight: 66
 description: ""

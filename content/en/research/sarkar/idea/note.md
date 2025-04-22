@@ -2,7 +2,7 @@
 title: "Publisher's Note"
 weight: 200
 description: "Crudification or Saiṋcara is the centrifugal activity of the Nucleus (Puruśottama) of the Macrocosm"
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

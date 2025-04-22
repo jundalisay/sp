@@ -1,6 +1,6 @@
 ---
 title: "Neohumanism"
-image: "/covers/discourses.jpg"
+c: "indigo"
 weight: 43
 ---
 

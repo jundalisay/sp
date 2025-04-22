@@ -2,10 +2,11 @@
 title: On the Public Faith, by which War is Concluded
 heading: Chapter 20
 weight: 38
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: Good faith, either expressed or implied, must be the foundation of every treaty between hostile powers
 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
  

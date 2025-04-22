@@ -3,7 +3,7 @@ title: "Jamalpur"
 heading: Chapter 3
 weight: 7
 description: "Jamalpur and my Baba stories of Jamalpur are now memories"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

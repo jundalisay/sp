@@ -4,7 +4,7 @@ heading: "Section 15"
 weight: 24
 # date: 2022-04-02
 description: "Eistein's Relativity leads to mass-energy also being constrained by c, leading to E = mc2"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

@@ -3,7 +3,7 @@ title: "THE TIGER’S GRAVE"
 heading: Chapter 3b
 weight: 8
 description: "Jamalpur and my Baba stories of Jamalpur are now memories"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

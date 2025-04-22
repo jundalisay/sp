@@ -2,7 +2,7 @@
 heading: Section 8
 linkTitle: Prop 50
 title: "Proposition 50 Theorem 12"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 400

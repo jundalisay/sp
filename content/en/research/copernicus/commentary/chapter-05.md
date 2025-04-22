@@ -3,7 +3,7 @@ title: "The Moon"
 heading: Chapter 5
 weight: 24
 date: 2025-03-08
-image: "/covers/copernicus.jpg"
+c: "orangered"
 ---
 
 

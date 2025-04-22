@@ -3,7 +3,7 @@ title: "Summary"
 heading: Idea and Ideology Simplified
 weight: 54
 description: "The Summary of Idea and Ideology Simplified"
-image: "/covers/ideology.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 ---
 

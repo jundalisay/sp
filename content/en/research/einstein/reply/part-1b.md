@@ -2,7 +2,7 @@
 title: "General Relativity Versus Quantum Theory"
 heading: "Part 1b"
 description: "In quantum theory, there is no such thing as a complete description of the individual system"
-image: "/covers/reply.jpg"
+c: "maroon"
 weight: 6
 ---
 

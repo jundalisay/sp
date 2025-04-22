@@ -1,10 +1,10 @@
 ---
 title: "Why The Princes Of Italy Lost Their States"
 heading: "Chapter 24"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "The actions of a new prince are more critically observed than those of an hereditary one"
 weight: 42
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

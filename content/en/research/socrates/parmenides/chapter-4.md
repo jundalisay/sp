@@ -2,7 +2,7 @@
 title: "The Whole"
 heading: "Chapter 4"
 weight: 8
-image: "/covers/parm.png"
+c: "indigo"
 description: "The Whole is the One when taken as Existing or being perceived by those inside It, as the Others"
 icon: "/icons/Parmenides.jpg"
 ---

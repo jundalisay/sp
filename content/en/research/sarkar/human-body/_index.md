@@ -1,5 +1,5 @@
 ---
 title: "The Human Body"
-image: "/covers/discourses.jpg"
+c: "indigo"
 weight: 16
 ---

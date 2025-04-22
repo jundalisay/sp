@@ -2,7 +2,7 @@
 title: "Lord Shiva Never Did It"
 heading: "Chapter 15"
 description: "A water crisis is soon to strike the earth"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 232
 author: Dada
 ---

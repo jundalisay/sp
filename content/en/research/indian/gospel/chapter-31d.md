@@ -1,6 +1,6 @@
 ---
 title: "Brahman Itself is unattached"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 31"
 weight: 130
 description: ""

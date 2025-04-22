@@ -1,6 +1,6 @@
 ---
 title: "God and Worldly Duties"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 4b"
 weight: 19
 description: "Perform your duties in an unselfish spirit"

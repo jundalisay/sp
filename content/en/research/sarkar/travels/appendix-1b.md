@@ -4,8 +4,8 @@ title: "The History of the Arab and Moslem movement"
 description: "The soul contains in itself the event that shall presently befall it. The event is only the actualizing of its thought"
 weight: 414
 date: 1979
-contributors: ['Dada Dharmavedananda']
-image: "/covers/mystic.jpg"
+author: "Dada Dharmavedananda"
+c: "indigo"
 ---
 
 

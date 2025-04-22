@@ -1,6 +1,6 @@
 ---
 title: "THE MASTER'S TRAINING OF HIS DISCIPLES"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 47"
 weight: 187
 description: ""

@@ -2,7 +2,7 @@
 title: "The Multiplicity of the Whole"
 heading: "Chapter 10"
 weight: 20
-image: "/covers/parm.png"
+c: "indigo"
 description: "The One, as the Whole, multiplies Itself"
 icon: "/icons/Parmenides.jpg"
 ---

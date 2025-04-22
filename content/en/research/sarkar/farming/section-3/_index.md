@@ -1,6 +1,6 @@
 ---
 heading: "Section 3"
 title: "Water Conservation"
-image: "/covers/farming.jpg"
+c: "indigo"
 weight: 3
 ---

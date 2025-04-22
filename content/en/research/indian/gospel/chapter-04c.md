@@ -1,6 +1,6 @@
 ---
 title: "Advice To Householders"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 4c"
 weight: 20
 description: "Chaitanya had several householders among his devotees, but they were householders in name only"

@@ -3,7 +3,7 @@ title: In Germany
 # title: "Ever grateful"
 heading: "Chapter 13d"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 212
 author: Dada Dharmavedananda
 ---

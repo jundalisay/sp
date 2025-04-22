@@ -3,7 +3,7 @@ title: "BABA THE PHYSICIAN"
 heading: Chapter 4
 weight: 10
 description: "Baba said: You must use a muffler during winters"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

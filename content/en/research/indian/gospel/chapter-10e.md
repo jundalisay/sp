@@ -1,6 +1,6 @@
 ---
 title: "Religious Quarrels Condemned"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 10c"
 weight: 44
 description: "Rabindranath Tagore and a few other members of the Tagore family were present"

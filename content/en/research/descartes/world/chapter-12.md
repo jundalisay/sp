@@ -2,7 +2,7 @@
 heading: "Chapter 12"
 title: "The Ebb and Flow of the Sea"
 weight: 26
-image: "/covers/world.jpg"
+c: "orangered"
 description: "The whole mass of the Earth is caused by the presence of the moon, and also about some particular things"
 writer:
   name: Rene Descartes

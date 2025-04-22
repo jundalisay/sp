@@ -2,7 +2,7 @@
 title: "Wait and See"
 # heading: Unenlightened
 description: Sometimes, it is needed to tax a home commodity. But this disuturbs the local level of industry
-image: "/covers/corn.jpg"
+c: "maroon"
 author: "Malthus"
 weight: 18
 date: 2025-03-20

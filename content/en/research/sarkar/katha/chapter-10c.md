@@ -3,7 +3,7 @@ title: "Shri Lahiri Mahasaya Goes to Mars"
 heading: Chapter 10c
 weight: 24
 description: "Then Baba got up and we followed Him to the room where the dead body of the sadhaka lay, a testimony to the tranisory nature of all existence. "
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 6
 title: "EQUILIBRIUM OF NORMAL DEMAND AND SUPPLY"
 description: ""
-image: "/covers/marshall.jpg"
+c: "maroon"
 weight: 9
 ---
 

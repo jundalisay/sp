@@ -1,7 +1,7 @@
 ---
 heading: Part 12
 title: "Brāhmo Samāj Versus Ārya Samāj"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 24
 author: "Swāmi Nikhilānanda"
 description: "The Brāhmo Samāj was dedicated to the worship of the Eternal Immutable Being"

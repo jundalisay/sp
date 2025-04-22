@@ -3,7 +3,7 @@ title: "Ideology and Personality"
 heading: "Chapter 9"
 weight: 42
 description: "Complete development of the integrated personality is essential for perfect spiritual realization of the human being."
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

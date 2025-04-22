@@ -2,7 +2,7 @@
 title: "Danger of the third stage"
 heading: "Chapter 5h"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 65
 author: Dada Dharmavedananda
 ---

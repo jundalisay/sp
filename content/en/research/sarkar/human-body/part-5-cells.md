@@ -3,7 +3,7 @@ heading: "Part 5"
 title: "Food, Cells, Physical and Mental Development"
 # date: 2021-11-20
 weight: 12
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "The human body is composed of countless cells of 2 kinds"
 icon: "/icons/sarkar.png"
 ---

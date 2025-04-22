@@ -2,7 +2,7 @@
 title: "Saiṋcara and Pratisaiṋcara"
 heading: Chapter 1c
 description: "Saiṋcara is the gradual extroversial movement under the increasing influence of the guńas"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 7
 ---
 

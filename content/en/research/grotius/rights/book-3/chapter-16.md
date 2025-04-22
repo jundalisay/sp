@@ -2,9 +2,10 @@
 title: Moderation with Respect to Things Excluded from the Right of Postliminium by the Law of Nations
 heading: Chapter 16
 weight: 34
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Should we continue the corn laws?"
 # heading: Unenlightened
 description: Would Great Britain and Ireland grow an independent supply of corn if corn importation and exportation were made totally free?
-image: "/covers/corn.jpg"
+c: "maroon"
 author: "Malthus"
 weight: 13
 date: 2025-03-20

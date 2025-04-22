@@ -3,7 +3,7 @@ title: "April 1955"
 heading: Chapter 18
 weight: 46
 description: "While I was in Jamalpur, it was matters pertaining to Baba that occupied my mind"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

@@ -2,7 +2,7 @@
 title: "Working 24 Hours a Day"
 heading: "Chapter 19"
 description: "During our global reporting sessions, Baba has a fixed order in which He calls the representatives from the different sectors of the world"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 302
 author: Dada
 ---

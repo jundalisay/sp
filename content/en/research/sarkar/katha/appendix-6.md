@@ -3,7 +3,7 @@ title: "An Apology"
 heading: Appendix 6
 weight: 210
 description: "Letter to the Editor in Prajina Bharati October 1985"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

@@ -1,5 +1,5 @@
 ---
 title: "Literature and Art"
-image: "/covers/discourses.jpg"
+c: "indigo"
 weight: 28
 ---

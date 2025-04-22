@@ -2,7 +2,7 @@
 heading: Section 2
 linkTitle: Prop 6
 title: "Proposition 6 Theorem 5"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 14

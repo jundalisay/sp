@@ -1,6 +1,6 @@
 ---
 title: "Explanation of evil"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 2c"
 weight: 10
 description: "Why does a man have evil tendencies?"

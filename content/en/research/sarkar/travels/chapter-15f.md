@@ -2,7 +2,7 @@
 title: "Black Magic"
 heading: "Part 22"
 description: "The treatment that Baba gave to Keshava from Germany was peculiar."
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 250
 author: Dada
 ---

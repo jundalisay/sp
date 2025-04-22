@@ -2,7 +2,7 @@
 heading: Treatise 2
 title: "The Operation of Nature in our intention, and in Sperme."
 description: "The Operation of Nature in our intention, and in Sperme."
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 10
 writer:
   name: Paracelsus

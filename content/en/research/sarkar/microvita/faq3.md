@@ -2,7 +2,7 @@
 title: "What is the Structure of Microvita?"
 heading: "FAQ on Microvita Part 3 Section B"
 description: "Since a microvitum is a singular entity, it has no structure. By nature it is more energy than matter"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

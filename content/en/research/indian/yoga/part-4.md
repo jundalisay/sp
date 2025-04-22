@@ -2,7 +2,7 @@
 heading: Part 4
 title: "The Freedom of Pure Consciousness"
 description: "Pure consciousness, with the gunas eliminated, reverses the flow of bondage and gets the freedom and power to see its own true form"
-image: "/covers/yoga.jpg"
+c: "indigo"
 weight: 14
 ---
 

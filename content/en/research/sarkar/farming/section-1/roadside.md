@@ -5,7 +5,7 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Existing roadside plants should not be destroyed. As a fixed rule agave ahould be the fill-up plant in the case of all the road trees"
-image: "/covers/farming.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 ---
 

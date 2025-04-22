@@ -2,7 +2,7 @@
 heading: Treatise 3
 title: "The true first matter of Metals"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 14
 writer:
   name: Paracelsus

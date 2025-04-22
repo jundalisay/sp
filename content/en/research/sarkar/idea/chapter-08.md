@@ -3,7 +3,7 @@ title: "The 5 Stages of the Creation of the Universe"
 heading: "Chapter 8"
 weight: 38
 description: "Originally 'Mind, Heart Chakra and Propensities (Vrtti)'"
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

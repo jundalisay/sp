@@ -1,6 +1,6 @@
 ---
 title: "The Master With The Brahmo Devotees (ii)"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 10c"
 weight: 42
 description: "All 3 Gunas are robbers. They rob man of all his treasures and make him forget his true nature."

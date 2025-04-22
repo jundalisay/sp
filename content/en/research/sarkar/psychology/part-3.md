@@ -2,7 +2,7 @@
 title: "The Mind Grows in Magnitude"
 heading: "Part 3"
 weight: 6
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "The mind discovers and invents newer modes of thinking"
 icon: "/icons/sarkar.png"
 ---

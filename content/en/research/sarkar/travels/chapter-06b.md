@@ -2,7 +2,7 @@
 title: "A little dirty money "
 heading: "Chapter 6b"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 72
 author: Dada Dharmavedananda
 ---

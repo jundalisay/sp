@@ -2,7 +2,7 @@
 heading: Part 6
 linkTitle: Part 6
 title: "Scholium: Newton's Cradle"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 60

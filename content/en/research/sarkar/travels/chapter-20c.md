@@ -2,7 +2,7 @@
 title: "Total shock"
 heading: "Chapter 20c"
 description: "The treatment that Baba gave to Keshava from Germany was peculiar."
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 338
 author: Dada
 ---

@@ -2,9 +2,10 @@
 title: The Communication of Punishment
 heading: Chapter 21
 weight: 50
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

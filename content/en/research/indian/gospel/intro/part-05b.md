@@ -1,7 +1,7 @@
 ---
 heading: Part 5b
 title: "The Brāhmani, Vaishnavcharan, and Gauri"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 11
 author: "Swāmi Nikhilānanda"
 description: "Brāhmani, Vaishnavcharan, and Gauri declared Ramakrishna as an Avatara"

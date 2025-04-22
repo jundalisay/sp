@@ -4,7 +4,7 @@ weight: 8
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/meno.jpg"
+c: "indigo"
 description: "Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zeno, Parmenides, Aristoteles"
 icon: "Socrates"
 ---

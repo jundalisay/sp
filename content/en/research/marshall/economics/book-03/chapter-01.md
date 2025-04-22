@@ -2,6 +2,6 @@
 heading: Chapter 1
 title: "THE ORDER AND AIMS OF ECONOMIC STUDIES"
 description: ""
-image: "/covers/marshall.jpg"
+c: "maroon"
 weight: 4
 ---

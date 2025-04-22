@@ -1,10 +1,10 @@
 ---
 title: "First Premises of Materialist Method"
 heading: "Part A2"
-image: "/covers/daskapital.jpg"
+c: "maroon"
 description: "The first chief function of money is to express the comparative value of commodities as the universal measure of value"
 weight: 4
-icon: /icons/marx.png
+icon: "Karl Marx"
 # date: "2020-01-31"
 writer:
   name: Karl Marx

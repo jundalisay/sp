@@ -2,7 +2,7 @@
 heading: Section 9
 linkTitle: Prop 24
 title: "Proposition 24, Theorem 39"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 6

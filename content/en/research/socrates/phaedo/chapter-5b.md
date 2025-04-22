@@ -2,7 +2,7 @@
 title: "Proof of Reincarnation"
 heading: "Chapter 5b"
 weight: 12
-image: "/covers/phaedo.png"
+c: "indigo"
 description: "Each pleasure and pain is a sort of nail which nails and rivets the soul to the body, until she becomes like the body, and believes that to be true which the body affirms to be true"
 icon: "Socrates"
 ---

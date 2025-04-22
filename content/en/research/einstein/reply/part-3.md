@@ -2,7 +2,7 @@
 title: "The Cosmological Constant"
 heading: "Part 3"
 description: "Lemaître favours a “cosmological constant” in the equations of gravitation"
-image: "/covers/reply.jpg"
+c: "maroon"
 weight: 12
 ---
 

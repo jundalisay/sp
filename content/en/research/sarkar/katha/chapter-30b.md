@@ -3,7 +3,7 @@ title: "GAUNGA SHARANJI"
 heading: Chapter 30b
 weight: 97
 description: "An Editor’s note in Prajina Bharati October 1983"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

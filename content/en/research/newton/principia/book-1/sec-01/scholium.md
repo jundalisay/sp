@@ -2,7 +2,7 @@
 title: "Scholium"
 description: "We simplify Lemma 7-9 of Principia Mathematica by Isaac Newton"
 author: Newton
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: Part 4
 linkTitle: Part 4
 title: "Corollaries 4-6"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 12

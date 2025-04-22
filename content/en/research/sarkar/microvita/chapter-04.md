@@ -2,7 +2,7 @@
 title: "Four Dimensions of Micropsychic Longing"
 heading: "Chapter 4"
 description: "Human longings are expressed through different lateral directions of so many waves, and of so many aspirations, hopes and longings"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

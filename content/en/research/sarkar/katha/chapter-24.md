@@ -3,7 +3,7 @@ title: "THE FIRST OPPOSITION"
 heading: Chapter 24
 weight: 74
 description: "Along with the propagation and expansion of the ideology of the Marga, opposition also began"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

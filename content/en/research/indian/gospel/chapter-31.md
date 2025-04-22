@@ -1,6 +1,6 @@
 ---
 title: "ADVICE TO ISHAN"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 31"
 weight: 127
 description: ""

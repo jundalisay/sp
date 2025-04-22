@@ -1,6 +1,6 @@
 ---
 title: "Three Yogas "
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 24b"
 weight: 101
 description: ""

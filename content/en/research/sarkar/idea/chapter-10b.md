@@ -3,7 +3,7 @@ title: "Yama and Niyama"
 heading: "Chapter 10b"
 weight: 46
 description: "In the cycle of social evolution, during each age before it is succeeded by another age, one particular class enjoys domination and superiority"
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

@@ -1,7 +1,7 @@
 ---
 title: "Rules before teaching Sakumbhaka Pranayama"
 weight: 8
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Here are the rules before teaching Sakumbhaka Pranayama"
 icon: "/icons/sarkar.png"
 writer:

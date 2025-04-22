@@ -3,7 +3,7 @@ title: "Baba Takes His Final Samkalpa"
 heading: Chapter 18c
 weight: 48
 description: "While I was in Jamalpur, it was matters pertaining to Baba that occupied my mind"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

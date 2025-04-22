@@ -4,7 +4,7 @@ heading: "Section 11"
 weight: 19
 # date: 2022-04-10
 description: "Einstein implements his c constant, relativity of time and space and moving viewpoints together as the Lorentz Transformation"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 3
 writer:
   name: Paracelsus

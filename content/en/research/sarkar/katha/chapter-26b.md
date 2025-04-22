@@ -3,7 +3,7 @@ title: "BABA VISITS RAM BAHADUR AGAIN"
 heading: Chapter 26b
 weight: 89
 description: "An Editor’s note in Prajina Bharati October 1983"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

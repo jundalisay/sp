@@ -4,7 +4,7 @@ heading: "Section 28"
 # date: 2022-03-08
 weight: 50
 description: "Einstein explains General Relativity"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

@@ -7,7 +7,7 @@ description: "The spectre of communism is haunting Europe"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-icon: /icons/marx.png
+icon: "Karl Marx"
 ---
 
 

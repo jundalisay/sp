@@ -3,7 +3,7 @@ title: "The Propensities and the Pineal Gland"
 heading: "Chapter 4c "
 weight: 24
 description: "To find expression, the mind adopts certain propensities of love, hatred, fear, etc."
-image: "/covers/ideology.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 writer:
   name: PR Sarkar

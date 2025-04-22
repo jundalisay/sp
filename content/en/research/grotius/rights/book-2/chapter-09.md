@@ -2,9 +2,10 @@
 title: When Jurisdiction and Property Cease
 heading: Chapter 9
 weight: 16
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Section 8"
 weight: 16
 # date: 2022-04-16
 description: "Einstein uses light as the judge for spacetime itself, instead of spacetime judging light."
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

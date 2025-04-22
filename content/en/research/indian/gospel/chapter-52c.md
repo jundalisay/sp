@@ -1,6 +1,6 @@
 ---
 title: "About Nityagopal"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 52"
 weight: 216
 description: ""

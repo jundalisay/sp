@@ -2,7 +2,7 @@
 title: "Before The Big Bang: An Outrageous New Perspective And Its Implications For Particle Physics"
 heading: "Part 1"
 weight: 14
-image: /covers/penrose.jpg
+c: "maroon"
 description: ""
 ---
 

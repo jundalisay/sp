@@ -2,9 +2,10 @@
 title: Moderation in Acquiring Dominion
 heading: Chapter 15
 weight: 32
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: That equity and moderation towards individuals, which are so highly extolled, are still more deserving of admiration, when exercised towards nations and kingdoms
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

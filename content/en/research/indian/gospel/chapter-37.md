@@ -1,6 +1,6 @@
 ---
 title: "THE MASTER AND NARENDRA"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 37"
 weight: 151
 description: ""

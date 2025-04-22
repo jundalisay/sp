@@ -2,9 +2,10 @@
 title: On the Faith on Those Invested with Subordinate Powers in War
 heading: Chapter 22
 weight: 42
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description:  Ulpian reckons the agreements, entered into between the generals of opposite armies during the course of a war, among public conventions
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

@@ -4,31 +4,21 @@ title: Parliaments
 image: "/covers/green.jpg"
 heading: "Chapter 2"
 weight: 8
-description: ""
+description: "Parliaments are the backbone of that conventional democracy prevailing in the world today."
 ---
 
 
-Parliaments are the backbone of that conventional democracy prevailing in the world today. Parliament is a misrepresentation of the people, and parliamentary systems are a false solution to
-the problem of democracy. 
+Parliaments are the backbone of that conventional democracy prevailing in the world today. 
 
-A parliament is originally founded to represent the people, but this in itself is undemocratic as democracy means the authority of the people and not an authority acting on their behalf. The mere existence of a parliament means
-the absence of the people. True democracy exists only through the direct participation of the people, and not through the activity of their representatives. Parliaments have been a legal barrier between the people and the exercise of authority, excluding the masses from meaningful politics and monopolizing sovereignty in their place. People are left with only a facade of democracy, manifested in long queues to cast their election ballots. 
+Parliament is a misrepresentation of the people, and parliamentary systems are a false solution to the problem of democracy. 
 
-To lay bare the character of parliaments, one has to examine their origin. They are either elected from constituencies, a
-party, or a coalition of parties, or are appointed. But all of these
-procedures are undemocratic, for dividing the population into
-constituencies means that one member of parliament represents
-thousands, hundreds of thousands, or millions of people, depending on the size of the population. It also means that a
-member keeps few popular organizational links with the electors since he, like other members, is considered a representative of the whole people. This is what the prevailing traditional democracy requires. The masses are completely isolated from the representative and he, in turn, is totally removed from them.
-Immediately after winning the electors’ votes the representative
-takes over the people’s sovereignty and acts on their behalf. The
-prevailing traditional democracy endows the member of parliament with a sacredness and immunity which are denied to the
-rest of the people. Parliaments, therefore, have become a means
-of plundering and usurping the authority of the people. It has
-thus become the right of the people to struggle, through popular revolution, to destroy such instruments – the so-called parliamentary assemblies which usurp democracy and sovereignty,
-and which stifle the will of the people. The masses have the right
-to proclaim reverberantly the new principle: no representation
-in lieu of the people.
+A parliament is originally founded to represent the people, but this in itself is undemocratic as democracy means the authority of the people and not an authority acting on their behalf. The mere existence of a parliament means the absence of the people. True democracy exists only through the direct participation of the people, and not through the activity of their representatives.
+
+Parliaments have been a legal barrier between the people and the exercise of authority, excluding the masses from meaningful politics and monopolizing sovereignty in their place. People are left with only a facade of democracy, manifested in long queues to cast their election ballots.
+
+To lay bare the character of parliaments, one has to examine their origin. They are either elected from constituencies, a party, or a coalition of parties, or are appointed. But all of these procedures are undemocratic, for dividing the population into constituencies means that one member of parliament represents thousands, hundreds of thousands, or millions of people, depending on the size of the population. It also means that a member keeps few popular organizational links with the electors since he, like other members, is considered a representative of the whole people. This is what the prevailing traditional democracy requires. The masses are completely isolated from the representative and he, in turn, is totally removed from them.
+
+Immediately after winning the electors’ votes the representative takes over the people’s sovereignty and acts on their behalf. The prevailing traditional democracy endows the member of parliament with a sacredness and immunity which are denied to the rest of the people. Parliaments, therefore, have become a means of plundering and usurping the authority of the people. It has thus become the right of the people to struggle, through popular revolution, to destroy such instruments – the so-called parliamentary assemblies which usurp democracy and sovereignty, and which stifle the will of the people. The masses have the right to proclaim reverberantly the new principle: no representation in lieu of the people.
 
 If parliament is formed from one party as a result of its winning an election, it becomes a parliament of the winning party
 and not of the people. It represents the party and not the people, and the executive power of the parliament becomes that

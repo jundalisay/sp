@@ -2,7 +2,7 @@
 title: "Carbonic Food and Imperialism"
 heading: "Chapter 3b"
 description: "There are two ill-effects when people get detached from non-carbonic pabula and become increasingly engrossed in carbonic pabula"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

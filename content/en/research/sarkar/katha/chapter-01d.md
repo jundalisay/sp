@@ -3,7 +3,7 @@ title: "Baba Sends His Blessings And Accepts Me As A Disciple"
 heading: Chapter 1d
 weight: 5
 description: "An Editor’s note in Prajina Bharati October 1983"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

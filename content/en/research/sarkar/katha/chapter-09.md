@@ -3,7 +3,7 @@ title: "How Baba Guides From Afar"
 heading: Chapter 9
 weight: 18
 description: "He sits there in front of me and I guide him in sadhana. His sadhana has progessed very rapidly"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

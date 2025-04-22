@@ -1,7 +1,7 @@
 ---
 title: "The Status of Inanimation in Neohumanism"
 description: "From the inanimate to the animate goes the process of evolution. Consider a piece of stone for instance"
-image: "/covers/discourses.jpg"
+c: "indigo"
 date: 1983-05-31
 weight: 6
 ---

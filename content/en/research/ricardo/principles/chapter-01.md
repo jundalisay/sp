@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "Value"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 2
 date: 2025-01-11
 ---

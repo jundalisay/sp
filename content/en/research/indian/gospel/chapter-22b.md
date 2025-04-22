@@ -1,6 +1,6 @@
 ---
 title: "Divine Incarnation"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 22b"
 weight: 90
 description: "In the Incarnation there is a greater manifestation of God than in other men"

@@ -1,6 +1,6 @@
 ---
 title: "Four stages of life"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 19"
 weight: 79
 description: "There are 4 Stages of Life"

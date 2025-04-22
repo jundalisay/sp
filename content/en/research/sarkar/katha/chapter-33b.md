@@ -3,7 +3,7 @@ title: "I APPEAL TO BABA TO SAVE MY MOTHER"
 heading: Chapter 33b
 weight: 110
 description: "My revered mother had a stroke and was unconscious for more than 24 hours"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

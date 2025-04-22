@@ -1,7 +1,7 @@
 ---
 title: "Pranayama"
 description: ""
-image: "/covers/discourses.jpg"
+c: "indigo"
 weight: 51
 # date: 2024-07-15
 ---

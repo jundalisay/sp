@@ -2,7 +2,7 @@
 title: "Lost in His shoes"
 heading: "Chapter 13c"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 208
 author: Dada Dharmavedananda
 ---

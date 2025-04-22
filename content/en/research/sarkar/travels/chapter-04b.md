@@ -2,7 +2,7 @@
 title: "An Ancient Yogi Makes Trouble"
 heading: "Chapter 4b"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 32
 author: Dada Dharmavedananda
 ---

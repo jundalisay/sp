@@ -2,7 +2,7 @@
 heading: Chapter 19
 title: "Effects Of Accumulation On Profits And Interest"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 184
 date: 2025-01-11
 ---

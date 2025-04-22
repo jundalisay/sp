@@ -3,7 +3,7 @@ title: "Mainju Almost Dies"
 heading: Chapter 7b
 weight: 16
 description: "They saw me approaching from the lane. One of them rushed to me and informed me that Mainju was dead"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

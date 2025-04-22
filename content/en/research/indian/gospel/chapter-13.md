@@ -1,6 +1,6 @@
 ---
 title: "THE MASTER AND M."
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 13"
 weight: 54
 description: ""

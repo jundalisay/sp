@@ -2,7 +2,7 @@
 title: "The 5 Factors"
 heading: Chapter 1c
 description: "As the guńas increase their bondage, they express themselves fully in the emergence of the fundamental factors"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 8
 ---
 

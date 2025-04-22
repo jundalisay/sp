@@ -1,10 +1,10 @@
 ---
 title: "The Roman Emperors"
 heading: "Chapter 19b"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "Machiavelli says a prince must take bits of Marcus and Severus"
 weight: 34
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

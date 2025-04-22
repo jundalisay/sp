@@ -1,7 +1,7 @@
 ---
 title: "The Fundamentals of Language"
 weight: 6
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Each language has 5 fundamental characteristics"
 icon: "/icons/sarkar.png"
 writer:

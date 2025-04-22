@@ -2,7 +2,7 @@
 title: "Master of Testing, Caring, and Hocus Pocus"
 heading: "Chapter 6"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 68
 author: Dada Dharmavedananda
 ---

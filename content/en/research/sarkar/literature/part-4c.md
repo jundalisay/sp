@@ -2,7 +2,7 @@
 title: "The Unfoldment of Human Potential"
 heading: "Part 4c"
 weight: 10
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "The genius that evolves from age to age through the process of introversion and extroversion of the intellect is bearing the message of the fulfilment of human potentiality."
 icon: "/icons/sarkar.png"
 ---

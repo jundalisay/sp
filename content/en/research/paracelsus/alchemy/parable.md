@@ -2,7 +2,7 @@
 heading: Conclusion
 title: "The Parable, Or Philosophical Riddle"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 58
 writer:
   name: Paracelsus

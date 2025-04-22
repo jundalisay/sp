@@ -4,7 +4,7 @@ heading: "Section 24"
 # date: 2022-03-16
 weight: 42
 description: "Einstein explains invents the metric tensor as rigid rods in a Riemann curvature"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

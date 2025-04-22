@@ -3,7 +3,7 @@ title: "Venus"
 heading: Chapter 7
 weight: 34
 date: 2025-03-08
-image: "/covers/copernicus.jpg"
+c: "orangered"
 ---
 
 

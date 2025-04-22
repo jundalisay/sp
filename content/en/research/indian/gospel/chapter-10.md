@@ -1,6 +1,6 @@
 ---
 title: "The Master With The Brahmo Devotees (ii)"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 10"
 weight: 40
 description: "SRI RAMAKRISHNA paid a visit to Benimadhav Pal's garden house at Sinthi, near Calcutta, for the semi-annual festival of the Brahmo Samaj"

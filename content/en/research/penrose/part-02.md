@@ -2,7 +2,7 @@
 title: "The Enormity Of The Specialness"
 heading: "Part 2"
 weight: 16
-image: /covers/penrose.jpg
+c: "maroon"
 description: ""
 ---
 

@@ -2,7 +2,7 @@
 title: "Dream, Telepathic Vision and Clairvoyance"
 heading: "Chapter 7"
 weight: 14
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "The nervous system is the crude receptacle of the kámamaya kośa [crude layer] and the mind. It becomes unsteady and restless"
 icon: "/icons/sarkar.png"
 ---

@@ -3,7 +3,7 @@ title: "Chandranathji"
 heading: Chapter 1
 weight: 2
 description: "An Editor’s note in Prajina Bharati October 1983"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

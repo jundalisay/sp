@@ -1,6 +1,6 @@
 ---
 title: "Advice To Pundit Shashadhar"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 25"
 weight: 103
 description: ""

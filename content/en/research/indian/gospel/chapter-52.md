@@ -1,6 +1,6 @@
 ---
 title: "AFTER THE PASSING AWAY"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 52"
 weight: 210
 description: ""

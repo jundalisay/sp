@@ -3,7 +3,7 @@ title: "THE REJECTION OF MY SECOND APPEAL"
 heading: Chapter 28b
 weight: 93
 description: "An Editor’s note in Prajina Bharati October 1983"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

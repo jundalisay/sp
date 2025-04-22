@@ -5,7 +5,7 @@ date: 2022-08-23
 # date: 2022-08-08
 description: "Einstein explains the Photoelectric Effect"
 icon: "Einstein"
-image: "/covers/photo.jpg"
+c: "maroon"
 draft: true
 ---
 

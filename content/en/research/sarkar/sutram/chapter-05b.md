@@ -2,7 +2,7 @@
 title: "Diversity, not identity, is the law of nature"
 heading: Chapter 5b
 description: "Those who want to make everything equal are sure to fail because they are going against Nature"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 24
 ---
 

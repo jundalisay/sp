@@ -4,10 +4,10 @@ heading: "Section 2c"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-image: "/covers/daskapital.jpg"
+c: "maroon"
 description: "Money takes the shape of coin because it is the circulating medium"
 weight: 8
-icon: /icons/marx.png
+icon: "Karl Marx"
 # date: "2020-01-31"
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Mercenaries and the Different Kinds Of Soldiers"
 heading: "Chapter 12"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "Whoever protects his town well, and has managed the other concerns of his subjects in the way stated above, will never be attacked without great caution"
 weight: 20
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

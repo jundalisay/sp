@@ -2,7 +2,7 @@
 heading: "Chapter 8b"
 title: "The Birth of Electromagnetism from Spacetime"
 weight: 19
-image: "/covers/world.jpg"
+c: "orangered"
 description: "In Cartesian Physics, Electromagnetism is created from Spacetime when spacetime particles break off"
 writer:
   name: Rene Descartes

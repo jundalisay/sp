@@ -2,7 +2,7 @@
 title: "The Sixth Point"
 heading: "Chapter 11e"
 description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 174
 author: Dada Dharmavedananda
 ---

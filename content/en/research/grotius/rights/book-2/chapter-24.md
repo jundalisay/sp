@@ -2,9 +2,10 @@
 title: Precautions Against Rashly Engaging in War, Even Upon Just Grounds
 heading: Chapter 24
 weight: 58
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

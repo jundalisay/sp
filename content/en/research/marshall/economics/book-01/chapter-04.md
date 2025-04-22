@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "THE ORDER AND AIMS OF ECONOMIC STUDIES"
 description: ""
-image: "/covers/marshall.jpg"
+c: "maroon"
 weight: 9
 ---
 

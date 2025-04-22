@@ -2,7 +2,7 @@
 title: "The Tanmatras and Indriyas"
 heading: Chapter 2c
 description: "Tanmátras represent the bhútas, are carried by the bhútas, and are created by vibrations from the clash within the bhútas"
-image: "/covers/sutram.jpg"
+c: "indigo"
 # date: 1962
 weight: 18
 ---

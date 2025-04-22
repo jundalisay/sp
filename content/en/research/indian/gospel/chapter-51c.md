@@ -1,6 +1,6 @@
 ---
 title: "Encouraging Bhavanāth"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 51z"
 weight: 205
 description: ""

@@ -2,7 +2,7 @@
 title: "The Charges against Socarates"
 weight: 2
 description: "The Charges against Socarates by Meletus and others"
-image: "/covers/apology.png"
+c: "darkblue"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

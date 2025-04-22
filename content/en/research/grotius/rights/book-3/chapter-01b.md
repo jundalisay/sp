@@ -2,9 +2,10 @@
 title: Feints and Lies
 heading: Chapter 1b
 weight: 8
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "5 Types of Criminals"
 heading: "Part 1"
 weight: 4
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "There are 5 categories of criminals"
 icon: "/icons/sarkar.png"
 writer:

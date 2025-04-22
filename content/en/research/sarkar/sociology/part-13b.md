@@ -2,7 +2,7 @@
 title: "Examples of the Lack of Bhati"
 heading: "Part 13b"
 weight: 35
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "From ancient times many groups of people came into existence."
 icon: "/icons/sarkar.png"
 writer:

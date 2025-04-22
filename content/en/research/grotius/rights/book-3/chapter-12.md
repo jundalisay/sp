@@ -2,9 +2,10 @@
 title: Moderation in Despoiling An Enemy's Country
 heading: Chapter 12
 weight: 30
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: One of the three following cases is requisite to justify any one in destroying what BELONGS to another
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

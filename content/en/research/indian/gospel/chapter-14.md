@@ -1,6 +1,6 @@
 ---
 title: "INSTRUCTION TO VAISHNAVĀS AND BRĀHMOS"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 14"
 weight: 58
 description: ""

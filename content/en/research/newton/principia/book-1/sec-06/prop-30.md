@@ -2,7 +2,7 @@
 heading: Section 6
 linkTitle: Prop 2
 title: "Proposition 30 Problem 22"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 6

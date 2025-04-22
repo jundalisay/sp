@@ -2,7 +2,7 @@
 title: The Importance of Scientific Progress
 # title: "Unity and Division"
 weight: 16
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "In order to conquer static Prakriti, physical science or Bhaotika Vijiṋána evolved"
 icon: "/icons/sarkar.png"
 writer:

@@ -3,7 +3,7 @@ title: "The Uniformity of Motions Should Be Referenced to the Fixed Stars Not to
 heading: Chapter 3
 weight: 16
 date: 2025-03-08
-image: "/covers/copernicus.jpg"
+c: "orangered"
 ---
 
 

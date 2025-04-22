@@ -1,7 +1,7 @@
 ---
 title: "Glossary"
 weight: 404
-image: "/covers/mystic.jpg"
+c: "indigo"
 description: ""
 ---
 

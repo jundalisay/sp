@@ -1,7 +1,7 @@
 ---
 title: "The Preface"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 5
 writer:
   name: Paracelsus

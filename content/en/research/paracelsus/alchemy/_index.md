@@ -1,7 +1,7 @@
 ---
 title: "A New Light of Alchemy"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 2
 writer:
   name: Paracelsus

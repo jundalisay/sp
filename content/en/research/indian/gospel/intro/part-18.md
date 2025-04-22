@@ -1,7 +1,7 @@
 ---
 heading: Part 18
 title: "The Other Disciples"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 34
 author: "Swāmi Nikhilānanda"
 description: "The Master knew Hari's passion for Vedānta. But he did not want his disciples to become dry ascetics or bookworms"

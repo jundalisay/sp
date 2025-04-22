@@ -1,6 +1,6 @@
 ---
 title: "Visit To Pundit Vidyasagar"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 3"
 weight: 12
 description: "Pundit Iswar Chandra Vidyasagar was born in the village of Beersingh"

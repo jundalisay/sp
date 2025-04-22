@@ -1,7 +1,7 @@
 ---
 title: "Intoxicants"
 weight: 200
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: ""
 icon: "/icons/sarkar.png"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "THE MASTER IN VARIOUS MOODS"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 30"
 weight: 124
 description: ""

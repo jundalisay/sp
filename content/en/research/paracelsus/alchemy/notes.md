@@ -1,7 +1,7 @@
 ---
 title: "Transcriber’S Note"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 300
 draft: true
 writer:

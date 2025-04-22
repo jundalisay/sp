@@ -1,7 +1,7 @@
 ---
 title: "Rational Versus Irrational"
 description: ""
-image: "/covers/selfishness.jpg"
+c: "maroon"
 weight: 12
 date: 2023-06-01
 ---

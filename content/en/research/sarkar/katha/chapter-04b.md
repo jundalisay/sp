@@ -3,7 +3,7 @@ title: "The Defeat Of An Enemy And Baba’S Lesson On The Enemy Within"
 heading: Chapter 4b
 weight: 12
 description: "Baba said: You must use a muffler during winters"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

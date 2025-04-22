@@ -1,7 +1,7 @@
 ---
 heading: Chapter 29d
 title: Dangers of Tantrik discipline
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 121
 description: "The bhairavas and the bhairavis of the Tantrik sect also follow this kind of discipline. While in Benares I was taken to one of their mystic circles"
 ---

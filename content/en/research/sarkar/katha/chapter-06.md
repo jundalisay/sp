@@ -3,7 +3,7 @@ title: "ASTHANAJI"
 heading: Chapter 6
 weight: 13
 description: "My boss, Asthanaji asked us to stay for tea"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

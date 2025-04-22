@@ -1,10 +1,10 @@
 ---
 title: "How A Prince Should Conduct Himself To Gain A Reputation"
 heading: "Chapter 21"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "The prince who has more to fear from the people than from foreigners should build castles, but he who has more to fear from foreigners than from the people should leave them alone"
 weight: 38
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

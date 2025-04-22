@@ -4,7 +4,7 @@ title: "Projectile"
 description: "The motions of bodies which are resisted partly in the ratio of the velocities, and partly"
 author: Newton
 draft: true
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

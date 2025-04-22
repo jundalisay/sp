@@ -2,7 +2,7 @@
 heading: Section 2
 linkTitle: Prop 1
 title: "Proposition 1 Theorem 1"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 4

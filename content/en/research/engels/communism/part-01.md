@@ -4,7 +4,7 @@ description: "The Principles of Communism"
 writer:
   name: Friedrich Engels
   url: https://en.wikipedia.org/wiki/Friedrich_Engels
-image: "/covers/communism.jpg"
+c: "maroon"
 ---
 
 <!-- Frederick Engels 1847 -->

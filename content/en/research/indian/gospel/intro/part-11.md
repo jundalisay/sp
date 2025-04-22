@@ -1,7 +1,7 @@
 ---
 heading: Part 11
 title: "Relation with His Wife"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 22
 author: "Swāmi Nikhilānanda"
 description: "The Master took up the duty of instructing his young wife"

@@ -2,7 +2,7 @@
 title: "Human Society Is One and Indivisible"
 heading: "Part 1"
 weight: 4
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"
 icon: "/icons/sarkar.png"
 writer:

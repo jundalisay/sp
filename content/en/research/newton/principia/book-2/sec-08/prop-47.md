@@ -2,7 +2,7 @@
 heading: Section 8e
 linkTitle: Proposition 47, Theorem 37
 title: "Proposition 51, Theorem 39"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 10

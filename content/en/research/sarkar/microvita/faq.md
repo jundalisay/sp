@@ -2,7 +2,7 @@
 title: "What is the Difference Between Positive and Negative Microvita"
 heading: "FAQ on Microvita Part 1 Section A"
 description: "How can good thinking people fight against the depraving effects of enemy microvita?"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

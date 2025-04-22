@@ -1,7 +1,7 @@
 ---
 heading: Part 4
 title: "The First Vision of Kāli"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 8
 author: "Swāmi Nikhilānanda"
 description: "Sri Ramakrishna was born at Kāmārpukur, a village in the Hooghly District in rural Bengāl."

@@ -5,7 +5,7 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"
-image: "/covers/farming.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 aliases:
   /research/indian/farming/section-1/agriculture

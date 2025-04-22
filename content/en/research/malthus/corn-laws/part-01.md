@@ -2,7 +2,7 @@
 heading: Part 1
 title: "The Effects of the Corn Laws"
 description: Mao was a Chinese Leader
-image: "/covers/corn.jpg"
+c: "maroon"
 author: "Malthus"
 weight: 5
 date: 2025-03-20

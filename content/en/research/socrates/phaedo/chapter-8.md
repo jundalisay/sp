@@ -2,7 +2,7 @@
 title: "Forms and Opposites"
 heading: "Chapter 8"
 weight: 18
-image: "/covers/phaedo.png"
+c: "indigo"
 description: "The opposite will never be opposed to itself. One thing is hot, another is cold. But these are not the same as fire and snow. Heat is different from fire. Cold is different from snow"
 icon: "Socrates"
 ---

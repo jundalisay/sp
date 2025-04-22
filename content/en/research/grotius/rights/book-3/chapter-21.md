@@ -2,9 +2,10 @@
 title: On Faith During the Continuance of War
 heading: Chapter 21
 weight: 40
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

@@ -3,7 +3,7 @@ title: "LET HIM TAKE CARE OF HIS HEAD AND I WILL TAKE CARE OF HIS FEET"
 heading: Chapter 34b
 weight: 112
 description: "This was due to the fact that they did not consider themselves worthy of this respect"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

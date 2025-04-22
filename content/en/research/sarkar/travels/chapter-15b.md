@@ -2,7 +2,7 @@
 title: "Dharma Samiksha"
 heading: "Chapter 15b"
 description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 236
 author: Dada Dharmavedananda
 ---

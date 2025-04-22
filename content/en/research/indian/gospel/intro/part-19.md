@@ -1,7 +1,7 @@
 ---
 heading: Part 19
 title: "Female Devotees"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 36
 author: "Swāmi Nikhilānanda"
 description: "Sri Ramakrishna was born at Kāmārpukur, a village in the Hooghly District in rural Bengāl."

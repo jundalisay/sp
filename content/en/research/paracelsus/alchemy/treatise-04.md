@@ -2,7 +2,7 @@
 heading: Treatise 4
 title: "The Preface"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 18
 writer:
   name: Paracelsus

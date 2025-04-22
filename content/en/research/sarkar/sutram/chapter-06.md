@@ -2,7 +2,7 @@
 title: "Word-for-Word Sútra Translations"
 heading: Chapter 6
 description: "Brahma [Cosmic Entity] is the composite of Shiva [Consciousness] and Shakti [Operative Principle"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 26
 ---
 

@@ -2,7 +2,7 @@
 title: "Solutions to Sin"
 heading: "Part 9d"
 weight: 26
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "The solution for the lack physical food is the guarantee of minimum requirements to everyone"
 icon: "/icons/sarkar.png"
 ---

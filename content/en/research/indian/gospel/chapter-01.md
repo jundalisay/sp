@@ -1,6 +1,6 @@
 ---
 title: "Master And Disciple"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 1"
 weight: 3
 description: "M noticed that the Master seemed to become absent-minded. Later he learnt that he was in ecstasy"

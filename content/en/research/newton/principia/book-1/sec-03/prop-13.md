@@ -3,7 +3,7 @@ title: "Proposition 12"
 description: "If a body moves in the perimeter of a parabola ; it is required to find law of the centripetal force tending to the focus of that figure"
 author: Newton
 draft: true
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

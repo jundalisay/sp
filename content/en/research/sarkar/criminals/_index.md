@@ -1,6 +1,6 @@
 ---
 title: "Criminals, Justice, and Judges"
-image: "/covers/discourses.jpg"
+c: "indigo"
 weight: 4
 writer:
   name: PR Sarkar

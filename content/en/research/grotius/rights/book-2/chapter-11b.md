@@ -2,9 +2,10 @@
 title: Promises in Error
 heading: Chapter 11b
 weight: 22
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

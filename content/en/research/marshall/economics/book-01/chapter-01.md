@@ -2,7 +2,7 @@
 title: "Introduction"
 heading: Chapter 1
 description: ""
-image: "/covers/marshall.jpg"
+c: "maroon"
 weight: 4
 ---
 

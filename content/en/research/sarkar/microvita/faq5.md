@@ -2,7 +2,7 @@
 title: "Supernatural Powers"
 heading: "FAQ on Microvita Part 5"
 description: "Positive microvita may be used for intellectual development and for imparting occult powers, but not for spiritual development"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

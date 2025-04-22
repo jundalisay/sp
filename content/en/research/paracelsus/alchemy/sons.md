@@ -2,7 +2,7 @@
 heading: Conclusion Preface
 title: "TO THE SONS of TRVTH"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 54
 writer:
   name: Paracelsus

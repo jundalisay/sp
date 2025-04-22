@@ -1,6 +1,6 @@
 ---
 title: "Three types of gurus"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 6b"
 weight: 28
 description: "It is necessary to seek the company of holy men and listen to the instruction of the guru"

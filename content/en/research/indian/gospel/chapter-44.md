@@ -1,6 +1,6 @@
 ---
 title: "THE MASTER ON HIMSELF AND HIS EXPERIENCES"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 44"
 weight: 174
 description: ""

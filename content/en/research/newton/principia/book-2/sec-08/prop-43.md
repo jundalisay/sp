@@ -1,7 +1,7 @@
 ---
 heading: Section 8c
 title: "Proposition 43, Theorem 34"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 4

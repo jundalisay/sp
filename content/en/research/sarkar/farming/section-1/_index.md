@@ -1,7 +1,7 @@
 ---
 heading: "Section 1"
 title: "Important Vegetables"
-image: "/covers/farming.jpg"
+c: "indigo"
 weight: 8
 ---
 

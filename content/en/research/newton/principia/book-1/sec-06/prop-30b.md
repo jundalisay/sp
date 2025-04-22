@@ -2,7 +2,7 @@
 heading: Section 6b
 linkTitle: Prop 2
 title: "Lemma 28"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 6

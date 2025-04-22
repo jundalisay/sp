@@ -2,9 +2,10 @@
 title: The Division of War Into Public and Private and the Nature of Sovereign Power
 heading: Chapter 3b
 weight: 18
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: Some maintain that, everywhere and without exception, the sovereign power is vested in the people so that they have a right to restrain and punish kings for an abuse of their power
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

@@ -4,7 +4,7 @@ title: What is Abhiman?
 heading: Chapter 21
 weight: 59
 description: "Kalpataru can not grant such a boon. You ask for something else"
-image: "/covers/ideology.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 ---
 

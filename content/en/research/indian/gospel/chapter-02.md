@@ -1,6 +1,6 @@
 ---
 title: "With Devotees"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 2"
 weight: 8
 description: "The devotees and the Master sang and danced in a state of divine fervour"

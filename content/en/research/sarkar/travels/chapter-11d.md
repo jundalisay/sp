@@ -2,7 +2,7 @@
 title: "Conscious Sleep "
 heading: "Chapter 11d"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 170
 author: Dada Dharmavedananda
 ---

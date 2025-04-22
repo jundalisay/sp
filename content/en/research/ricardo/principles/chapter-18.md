@@ -2,7 +2,7 @@
 heading: Chapter 18
 title: "Value And Riches, Their Distinctive Properties"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 184
 date: 2025-01-11
 ---

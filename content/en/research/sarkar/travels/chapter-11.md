@@ -2,7 +2,7 @@
 title: "Eye of the Hurricane "
 heading: "Chapter 11"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 160
 author: Dada Dharmavedananda
 ---

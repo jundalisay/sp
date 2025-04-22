@@ -4,7 +4,7 @@ title: "Photoelectric Effect"
 weight: 6
 # "introduced the sophistry of General Relativity"
 description: "Einstein write about the Photoelectric Effect"
-image: "/covers/photo.jpg"
+c: "maroon"
 draft: true
 ---
 

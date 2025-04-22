@@ -1,7 +1,7 @@
 ---
 heading: "Part 1"
 title: "Birth of Shri Ramakrishna"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 2
 author: "Swāmi Nikhilānanda"
 description: "Sri Ramakrishna was born at Kāmārpukur, a village in the Hooghly District in rural Bengāl."

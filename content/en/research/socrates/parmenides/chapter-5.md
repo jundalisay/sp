@@ -3,7 +3,7 @@ title: The Real One versus The Illusory One
 # title: "Relativity of Motion"
 heading: "Chapter 5"
 weight: 10
-image: "/covers/parm.png"
+c: "indigo"
 description: "The One is necessarily both at rest and in motion"
 icon: "/icons/Parmenides.jpg"
 ---

@@ -2,7 +2,7 @@
 title: "Socrates in Prison"
 heading: Chapter 1
 weight: 4
-image: "/covers/phaedo.png"
+c: "indigo"
 description: "The ship was crowned on the day before the trial and this kept Socrates in prison and delayed his execution"
 icon: "Socrates"
 ---

@@ -2,7 +2,7 @@
 title: "Field Walks by Baba"
 heading: "Chapter 12b"
 description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 179
 author: Dada Dharmavedananda
 ---

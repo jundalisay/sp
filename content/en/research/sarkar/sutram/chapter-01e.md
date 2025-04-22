@@ -2,7 +2,7 @@
 title: "Energy and the Creation of Citta"
 heading: Chapter 1e
 description: "Due to the increasing influence of the guńas, clash occurs among the fundamental factors and bala (energy) is produced"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 10
 ---
 

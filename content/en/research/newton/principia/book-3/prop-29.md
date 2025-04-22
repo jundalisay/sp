@@ -4,7 +4,7 @@ title: "Projectivle"
 description: "Find the variation of the moon"
 author: Newton
 draft: true
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

@@ -4,7 +4,7 @@ title: "The Formation of Mind"
 heading: Chapter 1c
 weight: 6
 description: "Mind is the collective name of the Identity-Layer, Ego-Layer, and mind-stuff"
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

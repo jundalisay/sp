@@ -3,7 +3,7 @@ title: "Subtlification or Pratisaiṋcara"
 heading: "Chapter 6"
 weight: 28
 description: "In subtlification at the different stages of the unit mind, the Macrocosmic Nucleus"
-image: "/covers/ideology.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 writer:
   name: PR Sarkar

@@ -1,6 +1,6 @@
 ---
 title: "IN THE COMPANY OF DEVOTEES AT SYAMPUKUR"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 48"
 weight: 190
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: "Master's Prayer"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 5c"
 weight: 25
 description: "To my Divine Mother I prayed only for pure love."

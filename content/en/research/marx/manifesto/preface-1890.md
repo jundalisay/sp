@@ -2,7 +2,7 @@
 heading: "1890 German Edition"
 title: "Preface"
 weight: 4
-image: /covers/manifesto.png
+c: "maroon"
 description: "A second Russian translation — by Vera Zasulich — appeared in Geneva in 1882"
 writer:
   name: Engels

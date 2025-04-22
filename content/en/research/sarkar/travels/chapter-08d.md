@@ -2,7 +2,7 @@
 title: "Within or without?"
 heading: "Chapter 8d"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 116
 author: Dada Dharmavedananda
 ---

@@ -2,9 +2,10 @@
 title: Offences Against God
 heading: Chapter 40
 weight: 48
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: "The progress of the work has necessarily led to the consideration of offences against God"
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

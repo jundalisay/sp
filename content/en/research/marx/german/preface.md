@@ -4,8 +4,8 @@ description:  "Preface"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-icon: /icons/marx.png
-image: "/covers/german.jpg"
+icon: "Karl Marx"
+c: "maroon"
 ---
 
 

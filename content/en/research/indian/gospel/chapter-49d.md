@@ -1,6 +1,6 @@
 ---
 title: "Master's Great Suffering"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 49d"
 weight: 195
 description: ""

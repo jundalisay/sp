@@ -3,7 +3,7 @@ title: "Questions on Baba having Past Lives"
 heading: Appendix 2
 weight: 202
 description: "An Editor’s note in Prajina Bharati October 1983"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

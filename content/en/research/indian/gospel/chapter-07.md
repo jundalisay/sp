@@ -1,6 +1,6 @@
 ---
 title: "The Master And Vijay Goswami"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 7"
 weight: 33
 description: "Vijay Goswami was a paid preacher in the Sadharan Brahmo Samaj"

@@ -2,7 +2,7 @@
 title: "The Social Structure of the Mahábhárata period"
 heading: "Discourse 5"
 description: "A solid social structure, a social system, did not exist then"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

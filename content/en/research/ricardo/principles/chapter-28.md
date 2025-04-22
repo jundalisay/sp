@@ -2,7 +2,7 @@
 heading: Chapter 28
 title: "The Influence Of Demand And Supply On Prices"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 184
 date: 2025-01-11
 ---

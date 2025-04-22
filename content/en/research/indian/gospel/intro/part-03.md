@@ -1,7 +1,7 @@
 ---
 heading: Part 3
 title: "Kāli Temple at Dakshineśwar"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 6
 author: "Swāmi Nikhilānanda"
 description: "The Kali temple garden stands directly on the east bank of the Ganges"

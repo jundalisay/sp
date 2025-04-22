@@ -2,7 +2,7 @@
 title: "The Message of Human Fulfillment"
 heading: "Part 4b"
 weight: 9
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "The genius that evolves from age to age through the process of introversion and extroversion of the intellect is bearing the message of the fulfilment of human potentiality."
 icon: "/icons/sarkar.png"
 ---

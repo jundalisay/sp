@@ -1,6 +1,6 @@
 ---
 title: "Brahman and Śakti are Identical"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 3d"
 weight: 16
 description: "The path of love also leads to the Truth."

@@ -3,7 +3,7 @@ title: "BABA PREDICTS THE GROWTH OF ANANDA MARGA"
 heading: Chapter 19
 weight: 53
 description: "Ananda Marga was one amongst many social organizations also banned"
-image: "/covers/ideology.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 ---
 

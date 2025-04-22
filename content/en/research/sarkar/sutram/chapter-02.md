@@ -2,7 +2,7 @@
 title: "Happiness and Bliss"
 heading: Chapter 2
 description: "Brahma [Cosmic Entity] is the composite of Shiva [Consciousness] and Shakti [Operative Principle"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 14
 ---
 

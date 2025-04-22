@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "Wealth"
 description: ""
-image: "/covers/marshall.jpg"
+c: "maroon"
 weight: 6
 ---
 

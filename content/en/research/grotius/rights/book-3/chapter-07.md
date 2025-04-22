@@ -2,9 +2,10 @@
 title: The Right Over Prisoners of War
 heading: Chapter 7
 weight: 22
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

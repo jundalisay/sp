@@ -1,6 +1,6 @@
 ---
 title: "THE MASTER AT COSSIPORE"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 49"
 weight: 194
 description: ""

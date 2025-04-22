@@ -2,7 +2,7 @@
 heading: Section 7f
 linkTitle: Prop 39
 title: "Proposition 39 Theorem 13"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 6

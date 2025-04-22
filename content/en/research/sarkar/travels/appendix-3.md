@@ -2,7 +2,7 @@
 title: "Tantra, Veda and Yoga"
 heading: "Appendix 3"
 description: "The many features of Tantra which distinguish it from other spiritual traditions"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 438
 author: Dada
 ---

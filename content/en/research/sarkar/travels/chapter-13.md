@@ -2,7 +2,7 @@
 title: "Visaless Travel"
 heading: "Chapter 13"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 200
 author: Dada Dharmavedananda
 ---

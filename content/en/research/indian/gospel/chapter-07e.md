@@ -1,6 +1,6 @@
 ---
 title: "Two ways of God-realization"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 7e"
 weight: 37
 description: "One way of God-realization is the path of discrimination, the other is that of love"

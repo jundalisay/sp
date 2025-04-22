@@ -2,7 +2,7 @@
 heading: Treatise 11
 title: "The Praxis, and making of the Stone, or Tincture by Art"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 50
 writer:
   name: Paracelsus

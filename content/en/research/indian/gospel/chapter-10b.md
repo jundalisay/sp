@@ -1,6 +1,6 @@
 ---
 title: "The Need of a Guru"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 10b"
 weight: 41
 description: "Is spiritual knowledge impossible without a guru?"

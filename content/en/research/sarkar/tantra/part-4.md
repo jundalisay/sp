@@ -2,7 +2,7 @@
 title: "Buddhist and Hindu Tantra"
 heading: "Part 4"
 weight: 8
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "It is absolutely wrong to make a distinction between Hindu Tantra and Buddhist Tantra."
 icon: "/icons/sarkar.png"
 writer:

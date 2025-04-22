@@ -1,6 +1,6 @@
 ---
 title: "The worship in the temple"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 31f"
 weight: 131
 description: ""

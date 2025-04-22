@@ -2,7 +2,7 @@
 title: "The Vargas: Dharma, Artha, Káma and Mokśa"
 heading: "Discourse 1b"
 description: "Káma is the desire for mundane objects – name, fame, wealth, etc. This includes getting food and clothing."
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

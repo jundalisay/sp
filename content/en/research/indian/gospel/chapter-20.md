@@ -1,6 +1,6 @@
 ---
 title: "Rules For Householders And Monks"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 20"
 weight: 82
 description: ""

@@ -5,4 +5,5 @@ heading: Enlightened
 weight: 30
 description: Euclid
 image: /covers/euclid.jpg
+youtube: "xf_l2xBTZCc"
 ---

@@ -5,7 +5,7 @@ weight: 2
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/crito.png"
+c: "indigo"
 description: "Socrates tells Crito of his vision"
 icon: "Socrates"
 ---

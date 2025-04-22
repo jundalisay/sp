@@ -2,7 +2,7 @@
 title: "Intervention"
 heading: "Chapter 16c"
 description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 262
 author: Dada Dharmavedananda
 ---

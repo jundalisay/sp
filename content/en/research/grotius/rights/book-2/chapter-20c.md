@@ -2,9 +2,10 @@
 title: Punishments
 heading: Chapter 20c
 weight: 46
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

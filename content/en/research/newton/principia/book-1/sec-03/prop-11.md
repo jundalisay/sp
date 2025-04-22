@@ -3,7 +3,7 @@ title: "Proposition 11"
 description: "Find the law of centripetal force tending to the focus of a body moving in an ellipsis"
 author: Newton
 draft: true
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

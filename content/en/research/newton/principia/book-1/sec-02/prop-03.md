@@ -2,7 +2,7 @@
 heading: Section 2c
 linkTitle: Prop 3
 title: "Proposition 3 Theorem 3"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 8

@@ -2,7 +2,7 @@
 title: "People's movement "
 heading: "Chapter 16"
 description: "The treatment that Baba gave to Keshava from Germany was peculiar."
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 254
 author: Dada
 ---

@@ -1,7 +1,7 @@
 ---
 heading: "Part 2"
 title: "Coming to Calcutta"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 4
 author: "Swāmi Nikhilānanda"
 description: "At the age of 16 Gadādhar was summoned to Calcutta by his elder brother Rāmkumār"

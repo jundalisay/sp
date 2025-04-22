@@ -1,6 +1,6 @@
 ---
 title: "ADVICE TO THE BRAHMOS"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 9"
 weight: 38
 description: ""

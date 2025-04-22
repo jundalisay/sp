@@ -3,7 +3,7 @@ title: "The Motion of Mercury"
 heading: Chapter 9
 weight: 44
 date: 2025-03-08
-image: "/covers/copernicus.jpg"
+c: "orangered"
 ---
 
 

@@ -3,7 +3,7 @@ title: "‘Samskaras and Liberation"
 heading: Chapter 36b
 weight: 119
 description: "The subject of discourse in the D.M.C. was ‘Samskaras and Liberation’"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

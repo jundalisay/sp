@@ -1,7 +1,7 @@
 ---
 heading: Chapter 28b
 title: Balarām's devotion
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 115
 description: "The Master was sitting in his room at Dakshineswar."
 ---

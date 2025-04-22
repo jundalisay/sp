@@ -1,6 +1,6 @@
 ---
 title: "Different Classes of Men"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 11g"
 weight: 53
 description: "Rākhāl's father's father-in-law was a devotee of God"

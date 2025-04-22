@@ -2,9 +2,10 @@
 title: Did the Gospel confine that liberty within closer bounds?
 heading: Chapter 20b
 weight: 44
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: "The Gospel therefore, comprehending all men under the appellation of neighbour, not only forbids us to hurt our enemies, but commands us to do them good"
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

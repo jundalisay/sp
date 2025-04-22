@@ -2,7 +2,7 @@
 title: "The Absolute One"
 heading: "Chapter 13"
 weight: 26
-image: "/covers/parm.png"
+c: "indigo"
 description: "Parmenides goes back to talk about the Absolute One"
 icon: "/icons/Parmenides.jpg"
 ---

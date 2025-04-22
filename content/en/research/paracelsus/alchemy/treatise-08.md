@@ -2,7 +2,7 @@
 heading: Treatise 8
 title: "How by Art Nature works in Seed"
 description: "The Origin of Physiognomy"
-image: "/covers/alchemy.jpg"
+c: "maroon"
 weight: 36
 writer:
   name: Paracelsus

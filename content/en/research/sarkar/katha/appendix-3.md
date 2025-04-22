@@ -3,7 +3,7 @@ title: "Some Clarifications on Taraka Brahma"
 heading: Appendix 3
 weight: 204
 description: "An Editor’s note in Prajina Bharati October 1983"
-image: "/covers/katha.png"
+c: "indigo"
 author: Santosananda Avadhuta
 ---
 

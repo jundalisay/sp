@@ -3,7 +3,7 @@ heading: Section 9c
 linkTitle: Prop 52b
 heading: Proposition 52b
 title: "Corollaries"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 8

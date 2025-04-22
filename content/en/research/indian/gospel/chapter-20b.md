@@ -1,6 +1,6 @@
 ---
 title: "Rules for Concentration and The Ohm Sound"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 20b"
 weight: 83
 description: "Manilal asks: What is the rule for concentration? Where should one concentrate?"

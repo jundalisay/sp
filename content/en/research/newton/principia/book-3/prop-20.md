@@ -4,7 +4,7 @@ title: "Projectivle"
 description: "Find and compare the weights of bodies in the different regions of our earth"
 author: Newton
 draft: true
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

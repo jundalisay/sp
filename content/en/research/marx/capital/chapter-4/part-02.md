@@ -7,7 +7,7 @@ description: The General Formula for Capital from The Transformation of Money in
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-icon: /icons/marx.png
+icon: "Karl Marx"
 ---
 
 

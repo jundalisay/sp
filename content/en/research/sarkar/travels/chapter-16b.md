@@ -2,7 +2,7 @@
 title: "Penniless in the Arctic"
 heading: "Chapter 16b"
 description: "The treatment that Baba gave to Keshava from Germany was peculiar."
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 258
 author: Dada
 ---

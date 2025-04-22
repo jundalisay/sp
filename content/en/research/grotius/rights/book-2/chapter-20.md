@@ -2,9 +2,10 @@
 title: Punishments
 heading: Chapter 20
 weight: 42
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: "Punishment most generally signifies the pain of suffering inflicted for evil actions"
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

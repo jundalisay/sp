@@ -2,7 +2,7 @@
 title: "Capital Punishment"
 heading: "Part 7"
 weight: 16
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "In most countries crime is defined with reference to a sense of pápa [vice] and puńya [virtue]"
 icon: "/icons/sarkar.png"
 writer:

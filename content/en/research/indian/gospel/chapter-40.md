@@ -1,6 +1,6 @@
 ---
 title: "THE MASTER AT THE HOUSES OF BALARĀM AND GIRISH"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 40"
 weight: 161
 description: ""

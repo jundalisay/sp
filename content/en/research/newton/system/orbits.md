@@ -1,6 +1,6 @@
 ---
 title: "Plantary Orbits"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "Centripetal forces are actually directed to the bodies of the sun, of the earth, and other planets."
 icon: "/icons/newton.png"
 ---

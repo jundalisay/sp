@@ -2,7 +2,7 @@
 title: "GENERAL VIEW OF DISTRIBUTION"
 heading: Chapter 11
 description: ""
-image: "/covers/marshall.jpg"
+c: "maroon"
 weight: 4
 ---
 

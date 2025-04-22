@@ -3,7 +3,7 @@ title: "Taraka Brahma Versus Avatara"
 heading: "Chapter 6c"
 weight: 32
 description: "Táraka Brahma is not a figure of philosophy. It is a creation of devotional sentiment."
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

@@ -5,7 +5,7 @@ weight: 22
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/prot.jpg"
+c: "darkblue"
 description: "Protagoras was obliged to agree that he would ask questions even if it was very much against his will."
 icon: "Socrates"
 ---

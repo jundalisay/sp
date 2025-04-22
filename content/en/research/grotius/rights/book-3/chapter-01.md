@@ -2,9 +2,10 @@
 title: What is Lawful in War?
 heading: Chapter 1
 weight: 6
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

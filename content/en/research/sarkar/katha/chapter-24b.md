@@ -3,7 +3,7 @@ title: "THE BUILDING OF THE JAMALPUR JAGRTI"
 heading: Chapter 24b
 weight: 75
 description: "We were able to purchase of a plot of land in the neighbourhood of Baba’s quarter"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

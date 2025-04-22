@@ -2,7 +2,7 @@
 heading: Section 7d
 linkTitle: Prop 35
 title: "Proposition 35 Theorem 40"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 6

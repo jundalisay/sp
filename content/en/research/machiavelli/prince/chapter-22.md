@@ -1,10 +1,10 @@
 ---
 title: "The Personal Staff Of Princes"
 heading: "Chapter 22"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince"
 weight: 40
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

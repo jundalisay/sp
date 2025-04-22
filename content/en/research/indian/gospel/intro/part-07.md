@@ -1,7 +1,7 @@
 ---
 heading: Part 7
 title: "Ramlālā the Deity"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 14
 author: "Swāmi Nikhilānanda"
 description: "In 1858, Sri Ramakrishna's cousin Haladhāri came to Dakshineśwar and stayed there for 8 years"

@@ -2,7 +2,7 @@
 title: "Art and Literature"
 heading: "Part 1"
 weight: 2
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Sáhitya or “literature” means “to move together”, keeping abreast of the trends of life. "
 icon: "/icons/sarkar.png"
 ---

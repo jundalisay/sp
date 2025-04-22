@@ -1,7 +1,7 @@
 ---
 heading: Chapter 30b
 title: Third day of the Durga Puja
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 120
 description: "It was the third day of the Durga Puja. The Master had been awake in his room at Dakshineswar since early morning. The morning worship in the Kāli temple was over and the orchestra had played the morning melodies in the nahabat"
 ---

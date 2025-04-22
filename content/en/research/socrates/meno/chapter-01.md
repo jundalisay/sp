@@ -4,7 +4,7 @@ weight: 4
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/meno.jpg"
+c: "indigo"
 description: "Meno, Socrates, A Slave of Meno (Boy), Anytus"
 icon: "Socrates"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "M. AT DAKSHINESWAR (II)"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 18"
 weight: 74
 description: ""

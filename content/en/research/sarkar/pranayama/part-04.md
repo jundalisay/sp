@@ -1,7 +1,7 @@
 ---
 title: "Speed and Pause"
 weight: 3
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "In every sphere of this universe, you will find the phenomenon of speed and pause"
 icon: "/icons/sarkar.png"
 writer:

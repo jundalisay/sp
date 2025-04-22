@@ -3,7 +3,7 @@ title: "Unifying Society by Removing Poverty"
 # Human Society Is One and Indivisible 2
 heading: "Part 2b"
 weight: 7
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "In order to establish unity and welfare, the common points of affinity must be found in 3 spheres"
 icon: "/icons/sarkar.png"
 ---

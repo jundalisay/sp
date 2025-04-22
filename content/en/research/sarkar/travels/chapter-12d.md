@@ -2,7 +2,7 @@
 title: "Nothing beyond infinity"
 heading: "Chapter 12d"
 description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 184
 author: Dada Dharmavedananda
 ---

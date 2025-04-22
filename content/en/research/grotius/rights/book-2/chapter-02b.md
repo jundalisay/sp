@@ -2,9 +2,10 @@
 title: The General Rights of Things
 heading: Chapter 2b
 weight: 8
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "How the Mind Observes"
 weight: 7
 description: "The Qualities or Modes of things do never really exist each of them apart by it self"
-image: "/covers/know.jpg"
+c: "darkblue"
 contributors: ['Berkeley']
 ---
 

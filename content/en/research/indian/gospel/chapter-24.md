@@ -1,6 +1,6 @@
 ---
 title: "PUNDIT SHASHADHAR"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 24"
 weight: 100
 description: ""

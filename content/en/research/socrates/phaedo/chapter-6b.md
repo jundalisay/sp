@@ -2,7 +2,7 @@
 title: "Is the Soul a Harmony?"
 heading: "Chapter 6b"
 weight: 15
-image: "/covers/phaedo.png"
+c: "indigo"
 description: "But harmony is not like the soul"
 icon: "Socrates"
 ---

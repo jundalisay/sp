@@ -3,7 +3,7 @@ title: "The Heart Chakra and Práńáyáma"
 heading: "Chapter 4b"
 weight: 22
 description: "The Heart Chakra is the most vital part of the physical and psycho-physical body"
-image: "/covers/ideology.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 writer:
   name: PR Sarkar

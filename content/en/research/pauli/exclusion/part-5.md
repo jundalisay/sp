@@ -2,7 +2,7 @@
 title: "Nuclear spin for the hyperfine-structure"
 heading: "Part 5"
 weight: 12
-image: "/covers/exclusion.jpg"
+c: "maroon"
 description: "Which are the symmetry classes for other particles?"
 date: 1946-12-13
 ---

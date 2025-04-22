@@ -2,7 +2,7 @@
 title: "Graced by disgrace "
 heading: "Chapter 3b"
 description: "One of the new Margis asked me if I knew that some of the neighbors were disturbed by our yoga house, and had complained to our real estate agent"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 24
 author: Dada
 ---

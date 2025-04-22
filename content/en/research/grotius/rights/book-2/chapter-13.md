@@ -2,9 +2,10 @@
 title: The sanctity of an oath
 heading: Chapter 13
 weight: 30
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

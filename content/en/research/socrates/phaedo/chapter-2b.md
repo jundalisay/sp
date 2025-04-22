@@ -3,7 +3,7 @@ title: "Death"
 # date: 2015-09-29
 heading: Chapter 2
 weight: 6
-image: "/covers/phaedo.png"
+c: "indigo"
 description: "The true philosopher is known specially for his courage and temperance. The latter is the control and regulation of the passions"
 icon: "Socrates"
 ---

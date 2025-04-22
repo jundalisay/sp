@@ -1,7 +1,7 @@
 ---
 title: "The Chakras"
 weight: 6
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "How does one free the mind and make it light? How does one free the mind from worldly impurities?"
 icon: "/icons/sarkar.png"
 writer:

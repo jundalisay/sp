@@ -2,7 +2,7 @@
 heading: Section 2i
 linkTitle: Prop 9
 title: "Proposition 9 Problem 4"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 20

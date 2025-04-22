@@ -9,33 +9,11 @@ image: "/covers/ling.png"
 
 The structuralist emphasis on language as “a system where everything holds together” is conceptually, at least, a direct outgrowth of the concern for organic form in Humboldtian linguistics. 
 
-For Humboldt, a language is not to be
-regarded as a mass of isolated phenomena – words, sounds, individual speech
-productions, etc. – but rather as an “organism” in which all parts are intercon-
-nected and the role of each element is determined by its relation to the gen-
-erative processes that constitute the underlying form. In modern linguistics,
-with its almost exclusive restriction of attention to inventories of elements and
-fixed “patterns” the scope of “organic form” is far more narrow than in the
-Humboldtian conception. But within this more narrow frame, the notion of
-“organic interconnection” was developed and applied to linguistic materials in a
-way that goes far beyond anything suggested in Humboldt. For modern struc-
-turalism, the dominant assumption is that “a phonological system [in particular]
-is not the mechanical sum of isolated phonemes, but an organic whole of which
-the phonemes are the members and of which the structure is subject to laws.”52
-These further developments are familiar, and I will say nothing more about
-them here.
+For Humboldt, a language is not to be regarded as a mass of isolated phenomena – words, sounds, individual speech productions, etc. – but rather as an “organism” in which all parts are intercon- nected and the role of each element is determined by its relation to the gen- erative processes that constitute the underlying form. 
 
-As noted above, the form of language, for Humboldt, embraces the rules of
-syntax and word formation as well as the sound system and the rules that
-determine the system of concepts that constitute the lexicon. He introduces a
-further distinction between the form of a language and what he calls its
-“character.” It seems to me that, as he employs this term, the character of a
-language is determined by the manner in which it is used, in particular, in poetry
-and philosophy; and the “inner character” (p. 208) of a language must be
-distinguished from its syntactic and semantic structure, which are matters of
-form, not use. “Without changing the language in its sounds, and still less in its
+In modern linguistics, with its almost exclusive restriction of attention to inventories of elements and fixed “patterns” the scope of “organic form” is far more narrow than in the Humboldtian conception. But within this more narrow frame, the notion of “organic interconnection” was developed and applied to linguistic materials in a way that goes far beyond anything suggested in Humboldt. For modern struc- turalism, the dominant assumption is that “a phonological system [in particular] is not the mechanical sum of isolated phonemes, but an organic whole of which the phonemes are the members and of which the structure is subject to laws.”52 These further developments are familiar, and I will say nothing more about them here.
 
-forms and laws, time, through a growing evolution of ideas, a heightened power
+As noted above, the form of language, for Humboldt, embraces the rules of syntax and word formation as well as the sound system and the rules that determine the system of concepts that constitute the lexicon. He introduces a further distinction between the form of a language and what he calls its “character.” It seems to me that, as he employs this term, the character of a language is determined by the manner in which it is used, in particular, in poetry and philosophy; and the “inner character” (p. 208) of a language must be distinguished from its syntactic and semantic structure, which are matters of form, not use. “Without changing the language in its sounds, and still less in its forms and laws, time, through a growing evolution of ideas, a heightened power
 of thought, and a more deeply penetrating capacity for feeling, will often bring
 into a language what it did not formerly possess” (p. 116; Humboldt 1999:
 86–7). Thus a great writer or thinker can modify the character of the language
@@ -46,6 +24,7 @@ and romantic precursors, the normal use of language typically involves creative
 mental acts; but it is the character of a language rather than its form that reflects
 true “creativity” in a higher sense – in the sense that implies value as well as
 novelty.
+
 For all his concern with the creative aspect of language use and with form as
 generative process, Humboldt does not go on to face the substantive question:
 what is the precise character of “organic form” in language. He does not, so far
@@ -59,6 +38,7 @@ creativity which constitutes the normal use of language and which does not
 modify the form of the language at all and the kind of innovation that leads to a
 modification in the grammatical structure of the language. These defects have
 been recognized and, to some extent, overcome in more recent work.
+
 Furthermore, in his discussion of generative processes in language it is often
 unclear whether what he has in mind is underlying competence or performance –
 Aristotle’s first or second grade of actuality of form (De Anima, book II, chap. 1).
@@ -67,16 +47,8 @@ references given there. The concept of generative grammar, in the modern sense,
 is a development of the Humboldtian notion of “form of language” only if the
 latter is understood as form in the sense of “possession of knowledge” rather than
 “actual exercise of knowledge,” in Aristotelian terms. (See note 39.)
-It should, incidentally, be noted that the failure to formulate rules of sentence
-construction in a precise way was not simply an oversight of Cartesian linguis-
-tics. To some extent it was a consequence of the express assumption that the
-sequence of words in a sentence corresponds directly to the flow of thought, at
-least in a “well-designed” language,53 and is therefore not properly studied as
-part of grammar. In the Grammaire générale et raisonnée it is maintained that,
-except for the figurative use of language, there is little to be said in grammar
-regarding rules of sentence construction (p. 145). In Lamy’s rhetoric, shortly
-after, omission of any discussion of “the order of words and the rules that must
-be observed in the composition of speech” is justified on the grounds that “the 
+
+The failure to formulate rules of sentence construction in a precise way was not simply an oversight of Cartesian linguis- tics. To some extent it was a consequence of the express assumption that the sequence of words in a sentence corresponds directly to the flow of thought, at least in a “well-designed” language,53 and is therefore not properly studied as part of grammar. In the Grammaire générale et raisonnée it is maintained that, except for the figurative use of language, there is little to be said in grammar regarding rules of sentence construction (p. 145). In Lamy’s rhetoric, shortly after, omission of any discussion of “the order of words and the rules that must be observed in the composition of speech” is justified on the grounds that “the
 
 natural light shows so vividly what must be done” that no further specification is
 necessary (p. 25).54 At about the same time, Bishop Wilkins55 distinguishes
@@ -86,6 +58,7 @@ sense and order of the words” and therefore need no special discussion (p. 354
 for example, the arrangement of Subject, Verb, and Object, or Subject, Copula,
 and Adjective, or the ordering of “grammatical” and “transcendental” particles
 relative to the items they govern, etc. (p. 354).
+
 At the opposite pole from the belief in “natural order” is the view that each
 language contains an arbitrary collection of “patterns” learned through constant
 repetition (and “generalization”) and forming a set of “verbal habits” or “dis-
@@ -96,34 +69,12 @@ cross-linguistic generalizations in syntax (see pp. 57–58, above). Like the
 reliance on a presumed natural order, it has helped foster a neglect of the problem
 of specifying the “grammatical form” of particular languages or the general
 abstract schema to which each language must conform.56
-In summary, one fundamental contribution of what we have been calling
-“Cartesian linguistics” is the observation that human language, in its normal
-use, is free from the control of independently identifiable external stimuli or
-internal states and is not restricted to any practical communicative function, in
-contrast, for example, to the pseudo language of animals. It is thus free to serve
-as an instrument of free thought and self-expression. The limitless possibilities
-of thought and imagination are reflected in the creative aspect of language use.
-Language provides finite means but infinite possibilities of expression con-
-strained only by rules of concept formation and sentence formation, these being
-in part particular and idiosyncratic but in part universal, a common human
-endowment. The finitely specifiable form of each language – in modern terms,
-its generative grammar (cf. note 39) – provides an “organic unity” interrelating
-its basic elements and underlying each of its individual manifestations, which
-are potentially infinite in number.
-The dominant view throughout this period is that “languages are the best
-mirror of the human mind.”57 This virtual identification of linguistic and mental
-processes is what motivates the Cartesian test for the existence of other minds,
-discussed above. It finds expression throughout the romantic period. For
-Friedrich Schlegel, “Mind and language are so inseparable, thought and word
-are so essentially one, that, just as certainly as thoughts are considered to be the
-characteristic privilege of humankind, we can call the word, in accordance with
-its inner meaning and dignity, the original essence of man.”58 We have already
-made reference to Humboldt’s conclusion that the force that generates lan-
-guage is indistinguishable from that which generates thought. Echoes of this
 
-conclusion persist for some time,59 but they become less frequent as we enter
-the modern period.
+In summary, one fundamental contribution of what we have been calling “Cartesian linguistics” is the observation that human language, in its normal use, is free from the control of independently identifiable external stimuli or internal states and is not restricted to any practical communicative function, in contrast, for example, to the pseudo language of animals. It is thus free to serve as an instrument of free thought and self-expression. 
 
+The limitless possibilities of thought and imagination are reflected in the creative aspect of language use. Language provides finite means but infinite possibilities of expression con- strained only by rules of concept formation and sentence formation, these being in part particular and idiosyncratic but in part universal, a common human endowment. The finitely specifiable form of each language – in modern terms, its generative grammar (cf. note 39) – provides an “organic unity” interrelating its basic elements and underlying each of its individual manifestations, which are potentially infinite in number.
+
+The dominant view throughout this period is that “languages are the best mirror of the human mind.”57 This virtual identification of linguistic and mental processes is what motivates the Cartesian test for the existence of other minds, discussed above. It finds expression throughout the romantic period. For Friedrich Schlegel, “Mind and language are so inseparable, thought and word are so essentially one, that, just as certainly as thoughts are considered to be the characteristic privilege of humankind, we can call the word, in accordance with its inner meaning and dignity, the original essence of man.”58 We have already made reference to Humboldt’s conclusion that the force that generates language is indistinguishable from that which generates thought. Echoes of this conclusion persist for some time,59 but they become less frequent as we enter the modern period.
 
 The association of language and mind is regarded differently in the earlier and later phases of the period under review.
 

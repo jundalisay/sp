@@ -4,7 +4,7 @@ heading: "Section 6"
 weight: 12
 # date: 2022-04-20
 description: "Classical Mechanics allows the adding of Velocities to make a total Velocity. But special relativity does not, because its base is light which has a constant speed"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

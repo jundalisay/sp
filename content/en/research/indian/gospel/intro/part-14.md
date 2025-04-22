@@ -1,7 +1,7 @@
 ---
 heading: Part 14
 title: "The Master's Yearning for His Own Devotees"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 26
 author: "Swāmi Nikhilānanda"
 description: "Contact with the Brahmos increased Sri Ramakrishna's longing to encounter devotees"

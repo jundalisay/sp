@@ -2,7 +2,7 @@
 title: "Spiritual motivation only"
 heading: "Chapter 13b"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 204
 author: Dada Dharmavedananda
 ---

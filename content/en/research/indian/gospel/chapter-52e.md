@@ -1,6 +1,6 @@
 ---
 title: "Prasanna and M"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 52e"
 weight: 222
 description: ""

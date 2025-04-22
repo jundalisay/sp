@@ -4,7 +4,7 @@ title: "Finding the orbits from the focus given"
 description: "Around a focus, draw a trajectory that shall pass through given points and touch right Hues given by position"
 author: Newton
 draft: true
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

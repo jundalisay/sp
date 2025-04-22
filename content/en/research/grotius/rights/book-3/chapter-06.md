@@ -2,9 +2,10 @@
 title: The Acquisition of Territory and Property By Right of Conquest
 heading: Chapter 6
 weight: 20
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

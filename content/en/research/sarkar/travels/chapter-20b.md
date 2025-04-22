@@ -2,7 +2,7 @@
 title: "Global water crisis"
 heading: "Chapter 20b"
 description: "A water crisis is soon to strike the earth"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 334
 author: Dada
 ---

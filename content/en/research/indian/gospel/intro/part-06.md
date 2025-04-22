@@ -1,7 +1,7 @@
 ---
 heading: Part 6
 title: "Tantra"
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 12
 author: "Swāmi Nikhilānanda"
 description: "According to the Tantra, the Ultimate Reality is Chit, or Consciousness"

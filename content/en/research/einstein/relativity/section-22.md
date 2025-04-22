@@ -4,7 +4,7 @@ heading: "Section 22"
 # date: 2022-03-20
 weight: 38
 description: "Einstein separates Special Relativity from General Relativity"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

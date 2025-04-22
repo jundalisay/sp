@@ -2,7 +2,7 @@
 title: "How are Words Created?"
 weight: 11
 description: "By observing how Ideas become general, we may the better judge how Words are made so"
-image: "/covers/know.jpg"
+c: "darkblue"
 contributors: ['Berkeley']
 ---
 

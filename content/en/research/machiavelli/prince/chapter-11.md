@@ -1,10 +1,10 @@
 ---
 title: "Church Principalities"
 heading: "Chapter 11"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "All of the difficulties with church principalities occur prior to getting possession because they are acquired either by capacity or good fortune, and they can be held without either; for they are sustained by the ancient laws of religion"
 weight: 18
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

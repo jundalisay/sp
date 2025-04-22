@@ -2,7 +2,7 @@
 title: "Shaḿkara’s Philosophy"
 heading: "Part 11c"
 weight: 30
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Shaḿkarácárya was a Shaeva Tántrika or a practitioner of Tantra who followed Shiva."
 icon: "/icons/sarkar.png"
 writer:

@@ -3,7 +3,7 @@ title: "DEEP NARAYANJI"
 heading: Chapter 11
 weight: 26
 description: "Ajit Singh, was attempting to get me demoted and himself promoted"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

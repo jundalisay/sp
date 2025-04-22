@@ -1,6 +1,6 @@
 ---
 title: "Story of a Vaishnava devotee"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 16b"
 weight: 66
 description: ""

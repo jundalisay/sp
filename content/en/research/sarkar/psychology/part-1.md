@@ -2,7 +2,7 @@
 title: "The Cult of Spirituality"
 heading: "Part 1"
 weight: 2
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Spiritualism and spirituality are not the same thing."
 icon: "/icons/sarkar.png"
 ---

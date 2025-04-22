@@ -2,7 +2,7 @@
 title: "My will against His"
 heading: "Chapter 6g"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 86
 author: Dada Dharmavedananda
 ---

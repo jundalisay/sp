@@ -2,9 +2,10 @@
 title: Damages Occasioned by Injury and the Obligation to Repair Them
 heading: Chapter 17
 weight: 36
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 <!-- On Damages occasioned by injury, and the obligation to repair them—Every misdemeanor obliges the aggressor to repair the loss—By loss is meant any thing repugnant to right strictly so called—Distinction between fitness and strict right—Loss or diminution of possession includes every injury done to the produce as well as the property itself—Loss estimated from the time that gain ceases—Injuries done by principals—By accessories—Injuries done by the neglect of principal or of secondary agents—What persons are implicated in those charges, and in what degrees—The parties engaged answerable for all consequences—The case where homicide or any other act of violence ensues—Case of robbery—Or theft—Promises obtained through fraud or unjust fear—In what cases the consequences are imputable to the suffering party—How far the law of nations authorises states to take advantage of an enemy's fear—How far sovereigns are answerable for any acts of violence committed by their subjects—The case where subjects in violation of their sovereign's permission and orders commit acts of piracy upon allied or neutral states—No one answerable by the law of nature for the mischief done by his cattle, his slaves, or his ship—Damages allowed for injuries done to reputation or honour—What kind of reparation allowed. -->

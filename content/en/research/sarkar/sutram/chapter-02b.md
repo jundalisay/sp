@@ -2,7 +2,7 @@
 title: "The Soul or Atman"
 heading: Chapter 2b
 description: "The reflection of Puruśa in a unit object is called the jiivátmá"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 16
 ---
 

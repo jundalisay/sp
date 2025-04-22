@@ -2,7 +2,7 @@
 title: "What spoils ecstasy"
 heading: "Chapter 14c"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 224
 author: Dada Dharmavedananda
 ---

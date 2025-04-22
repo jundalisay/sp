@@ -1,6 +1,6 @@
 ---
 title: "VISIT TO THE SINTHI BRAMO SAMAJ"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 32"
 weight: 130
 description: ""

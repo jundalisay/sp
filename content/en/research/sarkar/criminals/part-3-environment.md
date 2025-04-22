@@ -2,7 +2,7 @@
 title: "Criminals Due to Environment"
 heading: "Part 3"
 weight: 8
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Many people in society do not become criminals because of physiological or hereditary factors"
 icon: "/icons/sarkar.png"
 writer:

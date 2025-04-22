@@ -2,7 +2,7 @@
 title: "Virtue and Vice"
 heading: "Part 8"
 weight: 18
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "In most countries crime is defined with reference to a sense of pápa [vice] and puńya [virtue]"
 icon: "/icons/sarkar.png"
 writer:

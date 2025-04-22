@@ -1,6 +1,6 @@
 ---
 title: "Encouraging Bhavanāth"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 51z"
 weight: 206
 description: "Narendra recited a few verses from the Ashtāvakra Samhitā. The room again became silent."

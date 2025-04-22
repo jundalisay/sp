@@ -2,7 +2,7 @@
 title: "Compelled to Help"
 heading: "Chapter 15c"
 description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 240
 author: Dada Dharmavedananda
 ---

@@ -2,7 +2,7 @@
 heading: Chapter 29
 title: "Malthus' Opinions on Rent"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 184
 date: 2025-01-11
 ---

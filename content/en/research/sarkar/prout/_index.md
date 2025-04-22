@@ -1,7 +1,7 @@
 ---
 title: "PROUT -- Progressive Utilitzation Theory"
 linkTitle: "PROUT"
-description: ""
+description: "PROUT is Progressive Socialism"
 weight: 60
-image: "/covers/prout.jpg"
+c: "teal"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Is it necessary to have a guru?"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 11e"
 weight: 50
 description: "Many need a guru. But a man must have faith in the guru's words"

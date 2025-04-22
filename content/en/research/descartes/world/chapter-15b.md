@@ -5,7 +5,7 @@ weight: 36
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/world.jpg"
+c: "orangered"
 description: "The comets that are not in the same heaven as the sun are unable to send out as many rays toward the earth"
 icon: "/icons/descartes.png"
 ---

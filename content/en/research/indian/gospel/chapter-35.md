@@ -1,6 +1,6 @@
 ---
 title: "AT THE STAR THEATRE (II)"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 35"
 weight: 142
 description: ""

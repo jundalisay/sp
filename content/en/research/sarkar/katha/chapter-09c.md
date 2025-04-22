@@ -3,7 +3,7 @@ title: "BABA’S PREVIOUS DISCIPLES"
 heading: Chapter 9c
 weight: 20
 description: "He sits there in front of me and I guide him in sadhana. His sadhana has progessed very rapidly"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

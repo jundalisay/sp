@@ -1,6 +1,6 @@
 ---
 title: "CAR FESTIVAL AT BALARĀM'S HOUSE"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 42"
 weight: 168
 description: ""

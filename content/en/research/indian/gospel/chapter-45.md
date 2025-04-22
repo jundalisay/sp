@@ -1,6 +1,6 @@
 ---
 title: "SRI RAMAKRISHNA AT SYAMPUKUR"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 45"
 weight: 179
 description: ""

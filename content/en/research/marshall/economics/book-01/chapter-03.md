@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "ECONOMIC GENERALIZATIONS OR LAWS"
 description: ""
-image: "/covers/marshall.jpg"
+c: "maroon"
 weight: 9
 ---
 

@@ -2,7 +2,7 @@
 heading: Part 3
 title: "The Divine Powers"
 description: "The 3 Internal Limbs are Dharana, Dhyana, and Samadhi"
-image: "/covers/yoga.jpg"
+c: "indigo"
 weight: 8
 ---
 

@@ -2,7 +2,7 @@
 title: "Democracy and Minimum Requirements"
 heading: "Part 7b"
 weight: 18
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Social advancement is the triadic blending of thesis, antithesis and synthesis."
 icon: "/icons/sarkar.png"
 writer:

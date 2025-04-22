@@ -3,7 +3,7 @@ title: "The Theory of Microvita and Its Possible Effects on Society"
 # Section A
 heading: "Chapter 7"
 description: "Microvitum is the inner secret of life, and of vital progress in three fields"
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

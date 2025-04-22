@@ -1,7 +1,7 @@
 ---
 title: "What is Happiness?"
 description: "Happiness is that state of consciousness which proceeds from the achievement of one’s values"
-image: "/covers/selfishness.jpg"
+c: "maroon"
 weight: 12
 date: 2023-06-01
 ---

@@ -1,6 +1,6 @@
 ---
 heading: "Section 2"
 title: "Crop Rotation"
-image: "/covers/farming.jpg"
+c: "indigo"
 weight: 2
 ---

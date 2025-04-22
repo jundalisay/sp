@@ -1,6 +1,6 @@
 ---
 title: "AT RAM'S HOUSE"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 41"
 weight: 165
 description: ""

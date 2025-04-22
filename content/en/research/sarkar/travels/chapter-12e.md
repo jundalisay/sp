@@ -2,7 +2,7 @@
 title: "Baba's Jackal Story"
 heading: "Chapter 12e"
 description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 188
 author: Dada Dharmavedananda
 ---

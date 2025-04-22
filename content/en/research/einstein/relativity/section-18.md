@@ -4,7 +4,7 @@ heading: "Section 18"
 weight: 30
 # date: 2022-03-28
 description: "For the physical description of natural processes, neither of the reference-bodies K, K' is unique (lit. 'specially marked out') as compared with the other"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

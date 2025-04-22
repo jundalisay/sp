@@ -4,7 +4,7 @@ title: "The Four Drives"
 weight: 10
 author: "PR Sarkar"
 description: ""
-image: "/covers/discourses.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 ---
 

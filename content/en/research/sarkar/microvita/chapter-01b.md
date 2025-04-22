@@ -2,7 +2,7 @@
 title: "Properties of Microvita"
 heading: "Chapter 1b"
 description: "These microvita move throughout the entire universe, from one celestial body to another"
-image: "/covers/mv.png"
+c: "indigo"
 date: 1989-09-13
 # date: 2024-07-08
 writer:

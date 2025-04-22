@@ -3,7 +3,7 @@ title: "I Surrender Everything To Baba And He Becomes Pleased With Me"
 heading: Chapter 12b
 weight: 29
 description: "An Editor’s note in Prajina Bharati October 1983"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "Introdcution: Markets"
 description: ""
-image: "/covers/marshall.jpg"
+c: "maroon"
 weight: 9
 ---
 

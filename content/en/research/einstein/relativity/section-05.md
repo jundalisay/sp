@@ -4,7 +4,7 @@ heading: "Section 5"
 # date: 2022-04-22
 weight: 10
 description: "The principle of relativity applies with great accuracy in mechanics"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

@@ -1,6 +1,6 @@
 ---
 title: "The True Devotee and the 7 Planes"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 11f"
 weight: 51
 description: "Many need a guru. But a man must have faith in the guru's words"

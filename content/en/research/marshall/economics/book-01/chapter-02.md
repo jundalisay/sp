@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "THE SUBSTANCE OF ECONOMICS"
 description: ""
-image: "/covers/marshall.jpg"
+c: "maroon"
 weight: 7
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "What is the most important thing in The Art Of War"
 heading: "Chapter 14"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "A prince should have no other aim or thought, nor select anything else for his study, than war and its rules and discipline"
 weight: 24
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

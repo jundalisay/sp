@@ -3,7 +3,7 @@ title: "Hari Hari"
 heading: Chapter 17b
 weight: 44
 description: "Then I heard Baba chanting, Hari, Hari"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

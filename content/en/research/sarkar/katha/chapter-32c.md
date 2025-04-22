@@ -3,7 +3,7 @@ title: "POSTING TO HAJIPUR"
 heading: Chapter 32c
 weight: 102
 description: "While under training in Delhi I received orders that I stood transferred to Hajipur, where I had to take charge immediately after training"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

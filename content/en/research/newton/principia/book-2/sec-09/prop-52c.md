@@ -2,7 +2,7 @@
 heading: Section 9d
 linkTitle: Prop 52c
 title: "Scholium"
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 9

@@ -2,7 +2,7 @@
 heading: Chapter 8
 title: "Taxes on Raw Produce"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 184
 date: 2025-01-11
 ---

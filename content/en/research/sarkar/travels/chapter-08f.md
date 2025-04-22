@@ -2,7 +2,7 @@
 title: "Personal Contact"
 heading: "Chapter 8f"
 description: "Two days later. This morning I was so late for my Aeroflot flight to Moscow"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 124
 author: Dada Dharmavedananda
 ---

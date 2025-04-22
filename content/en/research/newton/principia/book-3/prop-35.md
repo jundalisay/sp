@@ -2,7 +2,7 @@
 title: "Proposition 19"
 heading: "Section 5"
 weight: 4
-image: "/covers/principia.jpg"
+c: "maroon"
 description: "With a given time, find the inclination of the moom's  orbit to the plane of the eclipltic"
 draft: true
 ---

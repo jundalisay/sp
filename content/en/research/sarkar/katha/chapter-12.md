@@ -3,7 +3,7 @@ title: "THE BIRTH OF ANANDA MARGA"
 heading: Chapter 12
 weight: 28
 description: "An Editor’s note in Prajina Bharati October 1983"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

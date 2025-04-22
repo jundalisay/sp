@@ -2,8 +2,8 @@
 title: "The Illusion of the Epoch"
 heading: Part B
 description:  "The ideas of the ruling class are in every epoch the ruling ideas, i.e. the class which is the ruling material force of society, is at the same time its ruling intellectual force"
-icon: /icons/marx.png
-image: "/covers/german.jpg"
+icon: "Karl Marx"
+c: "maroon"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx

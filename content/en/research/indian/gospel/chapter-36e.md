@@ -1,6 +1,6 @@
 ---
 title: "Sannyāsi's discipline"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 36"
 weight: 149
 description: ""

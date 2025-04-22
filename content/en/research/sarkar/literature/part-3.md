@@ -2,7 +2,7 @@
 title: "Struggle Against Obstacles"
 heading: "Part 3"
 weight: 6
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Real artists or litterateurs should understand clearly where the society is moving"
 icon: "/icons/sarkar.png"
 ---

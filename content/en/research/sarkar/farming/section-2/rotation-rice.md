@@ -5,7 +5,7 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "The rice is planted in Shrávańa, and then in the last week of Áshvina the “pigeon crop” is tossed into the field without tilling the soil or applying fertilizers."
-image: "/covers/farming.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 aliases:
   /research/indian/farming/section-2/rotation-rice/

@@ -2,9 +2,10 @@
 title: Doubtful Causes
 heading: Chapter 23
 weight: 56
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

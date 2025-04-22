@@ -4,7 +4,7 @@ title: "Projecticle"
 description: "Make a body move in a trajectory that revolves around the center of force in the same way as another body in the same trajectory at rest"
 author: Newton
 draft: true
-image: "/covers/principia.jpg"
+c: "maroon"
 ---
 
 

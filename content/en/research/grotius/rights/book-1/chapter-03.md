@@ -2,9 +2,10 @@
 title: The Division of War Into Public and Private and the Nature of Sovereign Power
 heading: Chapter 3
 weight: 16
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

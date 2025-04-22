@@ -2,9 +2,10 @@
 title: The Original Acquisition of Things, and the Right of Property in Seas and Rivers
 heading: Chapter 3
 weight: 12
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

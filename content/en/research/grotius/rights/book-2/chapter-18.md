@@ -2,9 +2,10 @@
 title: The Right of Embassies
 heading: Chapter 18
 weight: 38
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

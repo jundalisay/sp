@@ -2,7 +2,7 @@
 title: "Four problems to extinguish"
 heading: "Chapter 18c"
 description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 290
 author: Dada Dharmavedananda
 ---

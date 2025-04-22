@@ -1,6 +1,6 @@
 ---
 title: "Story of Uddhava"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 10g"
 weight: 46
 description: "Rabindranath Tagore and a few other members of the Tagore family were present"

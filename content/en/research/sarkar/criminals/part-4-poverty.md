@@ -2,7 +2,7 @@
 title: "Criminals Due to Poverty"
 heading: "Part 4"
 weight: 10
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Most crimes throughout the world are committed due to poverty"
 icon: "/icons/sarkar.png"
 writer:

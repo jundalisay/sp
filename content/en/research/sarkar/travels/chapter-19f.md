@@ -2,7 +2,7 @@
 title: "The peculiar business of making saints"
 heading: "Chapter 19f"
 description: "During our global reporting sessions, Baba has a fixed order in which He calls the representatives from the different sectors of the world"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 322
 author: Dada
 ---

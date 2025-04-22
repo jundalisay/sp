@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "Wages"
 description: ""
-image: "/covers/tax.jpg"
+c: "maroon"
 weight: 6
 date: 2025-02-09
 ---
@@ -11,7 +11,9 @@ date: 2025-02-09
 
 Labour, like all other things which are purchased and sold, and which may be increased or diminished in quantity, has its natural and its market price. The natural price of labour is that price which is necessary to enable the labourers, one with another, to subsist and to perpetuate their race, without either increase or diminution.
 
-The power of the labourer to support himself, and the family which may be necessary to keep up the number of labourers, does not depend on the quantity of money, which he may receive for wages; but on the quantity of food, necessaries, and conveniences become essential to him from habit, which that money will purchase. The natural price of labour, therefore, depends on the price of the food, necessaries, and conveniences required91 for the support of the labourer and his family. With a rise in the price of food and necessaries, the natural price of labour will rise; with the fall in their price, the natural price of labour will fall.
+The power of the labourer to support himself, and the family which may be necessary to keep up the number of labourers, does not depend on the quantity of money, which he may receive for wages; but on the quantity of food, necessaries, and conveniences become essential to him from habit, which that money will purchase.
+
+The natural price of labour, therefore, depends on the price of the food, necessaries, and conveniences required91 for the support of the labourer and his family. With a rise in the price of food and necessaries, the natural price of labour will rise; with the fall in their price, the natural price of labour will fall.
 
 With the progress of society, the natural price of labour has always a tendency to rise, because one of the principal commodities by which its natural price is regulated, has a tendency to become dearer, from the greater difficulty of producing it. As, however, the improvements in agriculture, the discovery of new markets, whence provisions may be imported, may for a time counteract the tendency to a rise in the price of necessaries, and may even occasion their natural price to fall, so will the same causes produce the correspondent effects on the natural price of labour.
 

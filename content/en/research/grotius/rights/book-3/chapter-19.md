@@ -2,10 +2,11 @@
 title: Good Faith Between Enemies
 heading: Chapter 19
 weight: 36
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description:  It was before said that the number and extent of actions, lawful in war, may be considered either upon their own intrinsic merits, or as rising out of some antecedent engagement
 
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

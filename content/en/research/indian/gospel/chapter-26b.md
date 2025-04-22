@@ -1,7 +1,7 @@
 ---
 heading: Chapter 26b
 title: God's Love
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 109
 description: ""
 ---

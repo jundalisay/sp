@@ -2,7 +2,7 @@
 title: "Doctors"
 heading: "Part 9"
 weight: 22
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "The popular allegation that lawyers earn their living by deceiving others and by encouraging litigation is, according to my understanding, not totally correct"
 icon: "/icons/sarkar.png"
 writer:

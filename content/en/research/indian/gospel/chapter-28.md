@@ -1,7 +1,7 @@
 ---
 heading: Chapter 28
 title: AT THE STAR THEATRE
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 114
 description: "The Master was sitting in his room at Dakshineswar."
 ---

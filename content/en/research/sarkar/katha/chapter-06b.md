@@ -3,7 +3,7 @@ title: "ASTHANAJI RECEIVES BABA’S GRACE"
 heading: Chapter 6b
 weight: 14
 description: "Next morning again there was a call from that office and when I presented myself before Asthanaji, he seemed ready to go out"
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

@@ -2,7 +2,7 @@
 title: "Gandhari of Kandahar"
 heading: "Discourse 7b"
 description: "She lived in Kandahara, Gandhara in Sanskrit, in Afghanistan."
-image: "/covers/mv.png"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

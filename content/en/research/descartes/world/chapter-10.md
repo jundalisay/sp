@@ -2,7 +2,7 @@
 heading: "Chapter 10"
 title: "The Planets the Earth and Moon"
 weight: 22
-image: "/covers/world.jpg"
+c: "orangered"
 description: "Descartes explains the movement of the planets"
 writer:
   name: Rene Descartes

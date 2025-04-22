@@ -4,7 +4,7 @@ heading: "Section 27"
 # date: 2022-03-10
 weight: 48
 description: "Einstein splits General Relativity from Special Relativity by creating an arbitrary, malleable spacetime"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

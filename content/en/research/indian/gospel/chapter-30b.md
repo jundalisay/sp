@@ -1,7 +1,7 @@
 ---
 heading: Chapter 30b
 title: Nature of Brahman
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 125
 description: "That which is Pure Ātman is unattached. Māyā, or avidyā, is in It"
 ---

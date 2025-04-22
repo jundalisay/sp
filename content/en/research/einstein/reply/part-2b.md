@@ -2,7 +2,7 @@
 title: "The Einstein-Podolski-Rosen Paradox"
 heading: "Part 2b"
 description: "The spook of this paradox disappears only if one relinquishes the orthodox standpoint that the Psi-function is a complete description of the single system."
-image: "/covers/reply.jpg"
+c: "maroon"
 weight: 10
 ---
 

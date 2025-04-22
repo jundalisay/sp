@@ -2,9 +2,10 @@
 title: The Right of Postliminium
 heading: Chapter 9
 weight: 26
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: The professors of law in former ages have given no more satisfactory account of the rights of postliminium, than they have done of those, respecting things taken from the enemy
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

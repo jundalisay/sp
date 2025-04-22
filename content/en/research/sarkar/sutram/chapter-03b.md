@@ -2,7 +2,7 @@
 title: "Saḿskára as a distortion of the mind-stuff"
 heading: Chapter 3b
 description: "Saḿskára is a distortion of the mind-stuff waiting for expression"
-image: "/covers/sutram.jpg"
+c: "indigo"
 # date: 1962
 weight: 21
 ---

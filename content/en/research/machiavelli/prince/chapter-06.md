@@ -1,10 +1,10 @@
 ---
 title: "New Principalities Acquired By One's Own Arms And Ability"
 heading: "Chapter 6"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "Becoming a prince from a private station requires ability or good luck which can reduce many difficulties"
 weight: 8
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

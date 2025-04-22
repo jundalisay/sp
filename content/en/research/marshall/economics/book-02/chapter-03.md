@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "Production. Consumption. Labour. Necessaries"
 description: ""
-image: "/covers/marshall.jpg"
+c: "maroon"
 weight: 6
 ---
 

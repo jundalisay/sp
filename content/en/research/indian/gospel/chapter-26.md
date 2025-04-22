@@ -1,7 +1,7 @@
 ---
 heading: Chapter 26
 title: Festival At Adhar'S House
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 108
 description: ""
 ---

@@ -2,7 +2,7 @@
 title: "Shiva and Shakti"
 heading: Chapter 1
 description: "Brahma [Cosmic Entity] is the composite of Shiva [Consciousness] and Shakti [Operative Principle"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 4
 ---
 

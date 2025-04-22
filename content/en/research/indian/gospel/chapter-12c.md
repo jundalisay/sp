@@ -1,6 +1,6 @@
 ---
 title: "Maya is the cause of ignorance"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 12c"
 weight: 56
 description: "Sri Ramakrishna arrived at Adhar's house in Calcutta. Rākhāl, M., and other devotees were with the Master"

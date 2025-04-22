@@ -2,7 +2,7 @@
 title: "The 5 Kosas or Strata of the Mind"
 heading: Chapter 3
 description: "Brahma [Cosmic Entity] is the composite of Shiva [Consciousness] and Shakti [Operative Principle"
-image: "/covers/sutram.jpg"
+c: "indigo"
 # date: 1962
 weight: 20
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Rabindranath Tagore"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 10b"
 weight: 43
 description: "Rabindranath Tagore and a few other members of the Tagore family were present"

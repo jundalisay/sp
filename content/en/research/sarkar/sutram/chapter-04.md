@@ -2,7 +2,7 @@
 title: "The Phases of Creation"
 heading: Chapter 4
 description: "The tri-attributional primordial force (progenitrix of creation) flows on in endless triangular forms"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 22
 ---
 

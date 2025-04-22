@@ -2,7 +2,7 @@
 title: "Puruśa and Prakrti"
 heading: Chapter 1b
 description: "Puruśa and Prakrti find their fulfilment in saiṋcara (extroversial movement) and pratisaiṋcara (introversial movement)"
-image: "/covers/sutram.jpg"
+c: "indigo"
 weight: 6
 ---
 

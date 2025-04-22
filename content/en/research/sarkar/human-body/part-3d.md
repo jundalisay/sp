@@ -2,7 +2,7 @@
 title: "The Guru Chakra and Gurusakásha"
 heading: "Part 3c"
 weight: 9
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "There are 9 cakras [plexi] in humans"
 icon: "/icons/sarkar.png"
 ---

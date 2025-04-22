@@ -1,10 +1,10 @@
 ---
 title: "Balancing the Power"
 heading: "Chapter 3b"
-contributors: ['Machiavelli']
+author: "Machiavelli"
 description: "The prince who holds a country of different language, customs and law, should strengthen his weaker neighbours weaken his more powerful ones"
 weight: 4
-image: "/covers/prince.png"
+c: "maroon"
 icon: "/icons/mach.jpg"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A Devotee's Dream"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 4d"
 weight: 21
 description: "Chaitanya had several householders among his devotees, but they were householders in name only"

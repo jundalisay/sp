@@ -1,6 +1,6 @@
 ---
 title: "LAST VISIT TO KESHAB"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 15"
 weight: 62
 description: ""

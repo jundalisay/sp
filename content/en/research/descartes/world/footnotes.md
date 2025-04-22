@@ -1,7 +1,7 @@
 ---
 title: "Footnotes"
 weight: 50
-image: "/covers/world.jpg"
+c: "orangered"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 author: Translator
 icon: "/icons/descartes.png"

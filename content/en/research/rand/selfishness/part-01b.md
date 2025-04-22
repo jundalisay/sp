@@ -1,7 +1,7 @@
 ---
 title: "The Ethical Guide"
 description: ""
-image: "/covers/selfishness.jpg"
+c: "maroon"
 weight: 6
 date: 2023-06-01
 ---

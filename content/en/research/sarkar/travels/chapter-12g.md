@@ -2,7 +2,7 @@
 title: "Confirmation of Baba's 'guess'"
 heading: "Chapter 12g"
 description: "Baba's darshan topic tonight was Shiva's Seven Secrets of Success"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 196
 author: Dada Dharmavedananda
 ---

@@ -4,7 +4,7 @@ title: "The Portions of the Mind"
 heading: "Chapter 5"
 weight: 26
 description: "Consciousness is the supreme subjectivity and all other, mundane, subjectivities or objectivities are mere blendings of the absolute subjectivity"
-image: "/covers/ideology.jpg"
+c: "indigo"
 icon: "/icons/sarkar.png"
 writer:
   name: PR Sarkar

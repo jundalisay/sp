@@ -1,6 +1,6 @@
 ---
 title: "Master exhorts Ishan"
-image: "/covers/rama.jpg"
+c: "indigo"
 heading: "Chapter 31e"
 weight: 131
 description: ""

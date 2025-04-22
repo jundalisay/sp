@@ -4,7 +4,7 @@ heading: "Section 20"
 weight: 34
 # date: 2022-03-24
 description: "The sophistry of General Relativity requires inertial and gravitational mass to be the same"
-image: "/covers/rel.jpg"
+c: "maroon"
 icon: "Einstein"
 writer:
   name: Albert Einstein

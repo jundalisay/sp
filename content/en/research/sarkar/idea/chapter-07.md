@@ -3,7 +3,7 @@ title: "The Atman or Individual or Unit Consciousness"
 heading: "Chapter 7 "
 weight: 34
 description: "The unit consciousness or átman is the real knower, not the mind. It is the master of functions the witness of these functions being performed, the witness of Identity"
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

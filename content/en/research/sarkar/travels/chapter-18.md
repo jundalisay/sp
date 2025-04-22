@@ -2,7 +2,7 @@
 title: "Even for the Poorest of the Poor"
 heading: "Chapter 18"
 description: "During our global reporting sessions, Baba has a fixed order in which He calls the representatives from the different sectors of the world"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 282
 author: Dada
 ---

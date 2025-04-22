@@ -2,9 +2,10 @@
 title: The Right of Burial
 heading: Chapter 19
 weight: 40
-image: /covers/warpeace.jpg
+c: "darkgreen"
 description: ""
 author: "Hugo Grotius"
+icon: "Hugo Grotius"
 ---
 
 

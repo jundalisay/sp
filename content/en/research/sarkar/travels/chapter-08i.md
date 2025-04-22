@@ -2,7 +2,7 @@
 title: "Baba's Abuse on Workers"
 heading: "Chapter 8i"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 136
 author: Dada Dharmavedananda
 ---

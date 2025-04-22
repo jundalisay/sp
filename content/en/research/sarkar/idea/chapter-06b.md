@@ -5,7 +5,7 @@ title: "The Collective Consciousness"
 heading: "Chapter 6b "
 weight: 30
 description: "'Paramátman' [active collective consciousness] is the collective name for the Macrocosmic Nucleus"
-image: "/covers/ideology.jpg"
+c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

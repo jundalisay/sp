@@ -3,7 +3,7 @@ title: "Death Demonstration"
 heading: Chapter 10b
 weight: 23
 description: "The next Sunday, 21 November 1954 I again reached Jamalpur in the hope of seeing more demonstrations."
-image: "/covers/katha.png"
+c: "indigo"
 author: Nagina
 ---
 

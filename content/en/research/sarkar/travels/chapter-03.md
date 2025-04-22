@@ -2,7 +2,7 @@
 title: "Just Love Me: Midnight message"
 heading: "Chapter 3"
 description: "Last night, I went to sleep at 11pm in a second-story room of the yoga house. The other bed next to mine was empty."
-image: "/covers/mystic.jpg"
+c: "indigo"
 weight: 20
 author: Dada
 ---

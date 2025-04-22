@@ -1,7 +1,7 @@
 ---
 heading: Chapter 27
 title: At Dakshineswar
-image: "/covers/rama.jpg"
+c: "indigo"
 weight: 110
 description: "The Master was sitting in his room at Dakshineswar."
 ---

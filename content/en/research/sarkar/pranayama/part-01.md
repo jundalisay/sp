@@ -1,7 +1,7 @@
 ---
 title: "What is Pranayama?"
 weight: 3
-image: "/covers/discourses.jpg"
+c: "indigo"
 description: "Pranayama means the controlling theory of Pranah"
 icon: "/icons/sarkar.png"
 writer:
