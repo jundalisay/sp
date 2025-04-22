@@ -1,6 +1,6 @@
 ---
 title: "The Nine Situations"
-image: "/covers/war.png"
+c: "maroon"
 description: "The art of war recognizes nine kinds of ground"
 heading: "Chapter 11"
 weight: 22

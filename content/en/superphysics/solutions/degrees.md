@@ -6,7 +6,7 @@ description : "We propose Superphysics Degrees and Certifications to educate and
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 draft: true
 ---
 

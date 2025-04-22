@@ -1,7 +1,9 @@
 ---
 heading: Chapter 2g
 title:  "The Sumerian Firsts"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "The table of contents of From the Tablets of Sumer has 25 chapters described Sumerian 'firsts'"
 weight: 11
 ---

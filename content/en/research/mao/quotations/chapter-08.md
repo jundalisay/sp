@@ -5,7 +5,7 @@ weight: 18
 description: The revolutionary war is a war of the masses; it can be waged only by mobilizing the masses and relying on them
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

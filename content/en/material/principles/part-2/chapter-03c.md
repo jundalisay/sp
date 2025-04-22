@@ -26,7 +26,7 @@ Lower | Spacetime | Physical | Gravity (via Matter), Dark Matter (via Light, Mat
 
 This is where spacetime slices exist. In Cartesian Physics and the pre-Science era, this was known as extension. 
 
-{{< q a="Descartes" c="" >}}
+{{< q a="Rene Descartes" c="" >}}
 The essence of matter consists in extension
 {{< /q >}}
 

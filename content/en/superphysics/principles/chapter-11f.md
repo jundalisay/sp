@@ -9,7 +9,7 @@ description: "Socratic Dialectics relies on all six senses and requires the ego 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 
@@ -37,14 +37,14 @@ Data Science* is really good at classification and in finding patterns and so it
 The discovery of patterns in scientific data makes Superphysics the bridge or missing link between physics and metaphysics, or science and philosophy.
 
 
-{{< q a="Francis-Bacon" c="Nova Organum Simplified, Book 1, Chapter 5" >}}
+{{< q a="Francis Bacon" c="Nova Organum Simplified, Book 1, Chapter 5" >}}
 Are we perfecting natural philosophy alone according to our method? Or the other sciences also, such as logic, ethics, politics?
 
 **We certainly intend to comprehend them all.**
 {{< /q >}}
 
 
-{{< q a="David-Hume" c="Treatise of Human Nature Simplified, Advertisement" >}}
+{{< q a="David Hume" c="Treatise of Human Nature Simplified, Advertisement" >}}
 All the sciences have a relation to human nature. No matter how far any science runs away from human nature, it still returns by one way or another. In pretending to explain the principles of human nature, we in effect propose a complete system of the sciences. This system is built on an almost entirely new foundation. This foundation is the only one on which the sciences can be secured. The science of man is the only solid foundation for the other sciences.
 {{< /q >}}
 

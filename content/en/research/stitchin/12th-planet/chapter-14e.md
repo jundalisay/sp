@@ -1,7 +1,9 @@
 ---
 heading: Chapter 14e
 title:  "The Ages on Earth"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Having landed on Earth, the Nefilim associated the first reigns in the first cities with the zodiacal ages"
 weight: 94
 ---

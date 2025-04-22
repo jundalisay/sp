@@ -84,7 +84,7 @@ These cycles then reveal the soul of the society, the most important aspects of 
 - Is a society metaphysically young and rising or old and stagnating? 
 - Has a country's soul been recently replaced by a new one? 
 
-{{< q a="David-Hume" c="Essays by David Hume Simplified, The Populousness Of Ancient Nations">}}
+{{< q a="David Hume" c="Essays by David Hume Simplified, The Populousness Of Ancient Nations">}}
 Society must therefore have its infancy, youth, manhood, and old age, similar to that each individual form which it contains. Man has these variations equally with every animal and plant.
 {{< /q >}}
 

@@ -3,6 +3,7 @@ title: "The Output of Superphysics"
 image: "/graphics/super/egl.jpg"
 date: 2024-11-29
 showdate: true
+weight: 5
 author: Juan
 description: "We list the output of Superphysics as a whole"
 authors:

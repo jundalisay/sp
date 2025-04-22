@@ -46,7 +46,7 @@ We use this part as proof of the universality of Cartesian Relationality -- even
 
 This will help us change:
 
-{{< q a="Descartes" >}}
+{{< q a="Rene Descartes" >}}
 "I think therefore I am"
 {{< /q >}}
 

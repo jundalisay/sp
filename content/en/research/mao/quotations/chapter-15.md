@@ -5,7 +5,7 @@ weight: 32
 description: A proper measure of democracy should be put into effect in the army
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

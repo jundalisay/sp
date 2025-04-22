@@ -116,7 +116,7 @@ The common centre of gravity of the earth, the sun, and all the planets, is the 
 This is opposite of the cause discovered by Descartes, which is the **aether**. 
 +
 
-q a="descartes"
+q a="Rene Descartes"
 The power to move and the power that determines that motion's direction are 2 completely different things. These can exist one without the other (as I have set out in the Dioptrics). <b>Each part moves in the way least difficult for it by the bodies around it.</b>
 <cite>Chapter 2, The World Simplified</cite>
 

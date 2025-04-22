@@ -7,7 +7,7 @@ description : "We propose Bullet-style Writing style for writing content that is
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 
@@ -44,7 +44,7 @@ In this way, by reducing the superfluous data or noise*, he can still have a pie
 Since recorded information usually manifests as written text, then the style of writing can be optimized to reduce the noise and unnecessary data. This can be done by breaking down complex ideas into basic ones, and by grouping similar or contiguous ideas*, as described by David Hume:
 
 
-{{< q a="David-Hume" c="Enquiry on Human Understanding, Section 5, Part 2" >}}
+{{< q a="David Hume" c="Enquiry on Human Understanding, Section 5, Part 2" >}}
 It is certain that distance diminishes the force of every idea, and that, upon our approach to any object; though it does not discover itself to our senses; it operates upon the mind with an influence, which imitates an immediate impression. The thinking on any object readily transports the mind to what is contiguous; but it is only the actual presence of an object, that transports it with a superior vivacity.
 {{< /q >}}
 

@@ -26,7 +26,7 @@ This is called multiplication
 This is called division
 
 
-{{< q a="Descartes" c="Geometry" >}}
+{{< q a="Rene Descartes" c="Geometry" >}}
 All Arithmetic is composed of only four or five operations:
 
 1. Addition

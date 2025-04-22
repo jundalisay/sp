@@ -60,6 +60,15 @@
           &nbsp;&nbsp; {{ i18n "translationsLabel" }} {{ $linksOutput | safeHTML }}
         {{- end }}
 
+
+        {{ with .Params.tags -}}
+          {{ range . }}
+            <a href="/tags/{{ . | urlize }}" class="mx-2 hover:scale-110 inline-flex items-center gap-2 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 text-sm py-1 px-2">
+              {{ . }}
+            </a>
+          {{ end }}
+{{ end }}
+
           </div>
         </div>
       </div>
@@ -122,6 +131,8 @@
         {{ end }}
       </div>
     </div>
+
+    {{ partial "comment.html" . }}
 
 </article>
 

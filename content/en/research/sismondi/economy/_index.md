@@ -2,7 +2,9 @@
 title: "New Principles of Political Economy"
 heading: "7 Chapters"
 description: "by J.C.L. Simonde de Sismondi (1815)"
-image: "/covers/sismondi.jpg"
+c: "darkgreen"
+a: "Sismondi"
+icon: "Sismondi"
 # date: 2022-05-01
 weight: 1
 ---

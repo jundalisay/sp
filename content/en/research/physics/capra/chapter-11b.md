@@ -2,7 +2,7 @@
 title: "Tantric Buddhism"
 weight: 21
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
-image: "/covers/taophysics.jpg"
+c: "maroon"
 ---
 
 

@@ -8,6 +8,11 @@
       <h3 class="leading-4 text-lg font-semibold text-gray-800 dark:text-white hover:text-blue-600">
         {{ .Title }}
       </h3>
+      {{- if .Params.showdate }}
+          <div class="leading-none py-2 text-gray-500 text-sm">
+             {{ .Params.date.Format "January 2, 2006"  }}
+          </div>
+        {{- end }}
     </div>
   </a>
 </div>

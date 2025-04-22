@@ -3,7 +3,7 @@ heading: Joshua 13
 title: "Enki's Plan of Conquest"
 description: "Joshua was old and stricken in years. Yet there remains a lot of land to be conquered"
 weight: 28
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

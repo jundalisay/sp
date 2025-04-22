@@ -58,7 +58,7 @@ The 2 slits are the eyes that are hit by the light, causing the light to refract
 
 The data from the 2 eyes "interfere" with each other, and so the brain has to compensate and merge them in the visual cortex.
 
-{{< q a="Descartes" c="Dioptrique, Discourse 5" >}}
+{{< q a="Rene Descartes" c="Dioptrique, Discourse 5" >}}
 No matter what shape the parts of the eye may have, it is impossible for them to make the rays coming from different points assemble precisely at specific points.
 {{< /q >}}
 

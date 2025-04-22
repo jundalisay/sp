@@ -1,7 +1,9 @@
 ---
 heading: Chapter 10c
 title:  "Enki's Account"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Enki of his landing on Earth"
 weight: 66
 ---

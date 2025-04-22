@@ -6,7 +6,7 @@ date: 2020-01-02
 weight: 21
 image: /photos/idea.jpg
 description: "Everything is an idea of the Creator of that existence"
-icon: /icons/sp.png
+icon: "Superphysics"
 tags: ['Lao Tzu', 'Yin Yang']
 toc: false
 writer:

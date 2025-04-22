@@ -7,7 +7,7 @@ weight: 32
 image: "https://sorasystem.sirv.com/graphics/datascience.png"
 description: "The Enlightenment was a period where reason dominated. Afterwards, people became more egotistic and materialistic"
 draft: true
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

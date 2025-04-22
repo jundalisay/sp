@@ -10,7 +10,7 @@ description: "We use the 5 Layers for Goal-Setting as an alternative to SMART"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

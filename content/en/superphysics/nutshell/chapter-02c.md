@@ -10,7 +10,7 @@ description: "The Cartesian View plots the movement in the physical and metaphys
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

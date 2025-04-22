@@ -5,7 +5,7 @@ weight: 58
 description: We hope that the local Party organizations will help and work with the Youth League organizations
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

@@ -1,7 +1,9 @@
 ---
 heading: Chapter 9e
 title:  "Cities of the Gods"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"
 weight: 63
 ---

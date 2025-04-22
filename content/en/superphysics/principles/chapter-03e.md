@@ -5,7 +5,7 @@ date: 2020-01-02
 weight: 18
 image: "/graphics/super/direction.jpg"  
 description: "Ideas have a geometry"
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

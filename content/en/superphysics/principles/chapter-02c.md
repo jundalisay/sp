@@ -8,7 +8,7 @@ description: "We introduce the concept of true motion'"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

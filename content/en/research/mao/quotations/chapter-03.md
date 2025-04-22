@@ -5,7 +5,7 @@ weight: 8
 description: Our maximum programme is to carry China forward to socialism and communism
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

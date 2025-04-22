@@ -56,7 +56,7 @@ Like the aethereal layer, the spatial layer above the radiant layer which facili
 
 Unlike the matter of the Material Layer, qosts are easily divisible, giving them fluid and wave-properties. 
 
-{{< q a="Descartes" c="Principia Part 2 Article 25" >}}
+{{< q a="Rene Descartes" c="Principia Part 2 Article 25" >}}
 People attribute fluidity to the heavens.. All fluids do not resist the motions of other bodies only when the fluids are themselves are also in motion. 
 {{< /q >}}
 
@@ -68,7 +68,7 @@ Both qosts and mosts are made up of 4 aether particles that are flat, except for
 
 Qosts are speed changers while Mosts are shape changers:
 
-{{< q a="Descartes" c="Principia, Part 2, Article 35" >}}
+{{< q a="Rene Descartes" c="Principia, Part 2, Article 35" >}}
 There might be 2 kinds of particles:
 1. Shape-changers bend themselves in various ways and change their shapes.
 2. Speed-changers change their speed to occupy space accurately. These 2 jointly fit together and occupy all the space.

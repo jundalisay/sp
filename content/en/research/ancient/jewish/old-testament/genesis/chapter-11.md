@@ -3,7 +3,7 @@ heading: Genesis 11
 title: "Tower of Babel"
 description: "Adam knew Eve his wife. She conceived and gave birth to Cain"
 weight: 20
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

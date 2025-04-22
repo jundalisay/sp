@@ -40,7 +40,7 @@ These shells are dictated by the proton just as the sun's orbits are dictated by
 
 A denser object has more aetherspace and less space particles. 
 
-{{< q a="Descartes" c="Principia Philosophia, Part 2 Article 54" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 2 Article 54" >}}
 Fluids are bodies that are divided into many small particles, agitated by mutually different motions. Solids are bodies whose individual particles all remain at rest relative to each other.
 {{< /q >}}
 

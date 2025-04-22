@@ -1,7 +1,9 @@
 ---
 heading: Chapter 13d
 title:  "Noah and the Deluge"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "The notice given to Noah was a mere seven days."
 weight: 80
 ---

@@ -45,7 +45,7 @@ The 5 Layers aether is made up of monads which are its "quantum" particle.
 
 The ancient Greeks, Kepler, Descartes, and the Asian sciences (Buddhism, Hinduism, Taoism) all attributed all the motions in the universe to God through it. In Hinduism, the aether is the *akasha*.
 
-{{< q a="Descartes" c="The World by Descartes Simplified, Chapter 5" >}}
+{{< q a="Rene Descartes" c="The World by Descartes Simplified, Chapter 5" >}}
 The philosophers assure us that above the clouds there is an aethereal air much subtler than ours. That air is not composed of vapors of the earth, but is an element in itself
 {{< /q >}}
 

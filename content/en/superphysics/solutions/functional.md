@@ -7,7 +7,7 @@ description: "An economic system that 'streams' value in order to make blockages
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 draft: true
 ---
 

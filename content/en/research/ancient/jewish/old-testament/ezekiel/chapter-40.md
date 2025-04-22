@@ -3,7 +3,7 @@ heading: Ezekiel 40
 title: "The House of the Anunnaki"
 description: "He measured the width of the building as one reed, and the height, as  one reed."
 weight: 140
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

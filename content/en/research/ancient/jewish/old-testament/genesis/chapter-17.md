@@ -3,7 +3,7 @@ heading: Genesis 17
 title: "Abram Becomes Abraham"
 description: "Sarai, Abram’s wife, bare him no children. She had an Egyptian servant named Hagar"
 weight: 32
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

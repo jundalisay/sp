@@ -6,7 +6,7 @@ weight: 28
 image: /graphics/meta/morals.png
 description: The Sanskrit word karma implies a complete loop from cause and effect
 # description: "Moral Consequentialism is the effect of actions that are made obscure by fleeting human memory because of the passage of time"
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -44,7 +44,7 @@ This reaction manifests as:
 
 There is always some reaction in the universe because Existence is 'filled' with ideas from the Supreme. This is known to the ancients as the universe not having any void.
 
-{{< q a="Descartes" c="La Dioptrique Simplified" >}}
+{{< q a="Rene Descartes" c="La Dioptrique Simplified" >}}
 Almost all philosophers admit that there is no void in nature.
 {{< /q >}}
 

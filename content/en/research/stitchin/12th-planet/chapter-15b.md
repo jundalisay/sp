@@ -1,7 +1,9 @@
 ---
 heading: Chapter 15b
 title:  "The people spread again"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "The Nefilim then helped the people plan and build the first royal city, and they blessed it"
 weight: 98
 ---

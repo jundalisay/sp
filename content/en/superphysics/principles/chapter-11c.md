@@ -8,7 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 64
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

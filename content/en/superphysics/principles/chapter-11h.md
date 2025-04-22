@@ -9,7 +9,7 @@ description: "Academy of Sages is an institution for advancing true knowledge"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

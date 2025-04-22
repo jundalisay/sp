@@ -7,7 +7,7 @@ description : "We propose Decon Notation to make math easier to understand"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 draft: true
 ---
 

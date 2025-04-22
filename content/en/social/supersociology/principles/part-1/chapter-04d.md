@@ -55,7 +55,7 @@ He soon identifies himself with the ideal man within the breast. He soon becomes
 The concept of impartial spectator is derived from David Hume, though the Hindus defined it first, to be later developed by Buddhists, creating guidelines and practices to develop the moral sense.
 
 
-{{< q a="David-Hume" c="Part 3, Sec 1 Treatise of Human Nature" >}}
+{{< q a="David Hume" c="Part 3, Sec 1 Treatise of Human Nature" >}}
 An object which causes pleasure to its possessor is sure to please the spectator by a delicate sympathy with the possessor.
 {{< /q >}}
 

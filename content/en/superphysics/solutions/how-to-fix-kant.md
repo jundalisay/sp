@@ -7,7 +7,7 @@ description : "To prove that Kant's system is useless, let's translate his defin
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

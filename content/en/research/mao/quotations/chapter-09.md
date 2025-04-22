@@ -5,7 +5,7 @@ weight: 20
 description: Without a people's army the people have nothing.
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

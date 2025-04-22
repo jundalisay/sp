@@ -9,8 +9,54 @@ icon: "George Berkeley"
 ---
 
 
+21. Things that cannot be perceived by the senses or understood by reason are of no use in clarifying the nature of things. 
 
-25 Beyond corporeal things, there is another category: thinking beings. From our own experience, we know that these possess the power to move bodies.
+We must look to what sense, experience, and reason based on these can tell us. 
+
+There are 2 chief kinds of things:
+
+1. Body 
+2. Mind
+
+We know:
+- the extended, solid, mobile, shaped, and sensible body through the senses
+- the feeling, perceiving, understanding, and conscious mind by internal awareness.
+
+These things are plainly different and fundamentally heterogeneous. I speak, of course, of known things—for to discuss unknowns is useless.
+
+
+
+22. Everything we know and call "body" contains nothing within it that could be the principle or efficient cause of motion.
+
+Impenetrability, extension, and shape neither include nor imply any power to produce motion; indeed, quite the opposite. 
+
+These qualities of body are all truly passive. They contain nothing active that could be understood as a source or principle of motion.
+
+<!-- As for gravity, we’ve already shown that the term designates nothing known that differs from the visible effect whose cause we seek. -->
+
+"Gravity" really means the physical effect. 
+
+When we call a body “heavy”, we mean only that it moves downward, without thinking about the cause.
+
+
+23. **So I boldly declare that body, as a kind of matter, is not the principle of motion.** 
+
+<!-- —since it is a known matter— -->
+
+If anyone insists that by the word "body" he includes, beyond solid extension and its modifications, some occult quality, power, form, or essence, then he may dispute without ideas and misuse names that express nothing distinctly. 
+
+A sounder method of philosophizing seems to avoid, as much as possible, abstract and general notions—if they can even be called notions when they cannot be understood.
+
+
+24. We know everything contained in the idea of body. 
+
+What we do know of body is not the principle of motion. 
+
+Those who imagine something unknown in the body, of which they have no idea, and call it the principle of motion, are really only saying that the principle of motion is unknown. But it's tedious to linger too long on such subtleties.
+
+
+
+25. Beyond corporeal things, there is another category: thinking beings. From our own experience, we know that these possess the power to move bodies.
 
 For our soul can, at will, initiate and stop the movement of limbs—however it may do so. This much is certain: bodies move at the command of the soul, and therefore the soul can rightly be called a principle of motion—though a particular and subordinate one, itself dependent on a primary and universal Principle.
 

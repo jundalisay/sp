@@ -3,7 +3,7 @@ heading: Chapter 34
 title: "Enki's Instructions"
 description: "In the third month, the Israelites came into he wilderness of Sinai"
 weight: 12
-image: "/covers/old.jpg"
+c: "maroon"
 draft: true
 ---
 

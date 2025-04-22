@@ -24,7 +24,7 @@ They indulge in abstractions, using terms with no definite meaning—mere schola
 
 <!-- Many other examples could be drawn from modern authors, enough to show that metaphysical abstractions have not entirely given way to mechanics and experiment, and that they still burden philosophers with a vain task. -->
 
-9 From that source arise various absurdities—such as the idea that the force of impact, however slight, is infinitely great. 
+9. From that source arise various absurdities—such as the idea that the force of impact, however slight, is infinitely great. 
 
 This notion assumes that gravity is some real quality distinct from all others, and that gravitation is the operation of this quality, really distinct from motion.
 
@@ -33,7 +33,7 @@ Yet the slightest impact produces a greater effect than the greatest gravity wit
 Hence it follows that the force of impact exceeds the force of gravitation by an infinite ratio—that is, is infinitely great. See Galileo’s experiments and the writings of Torricelli, Borelli, and others on the defined force of impact.
 
 
-10 No force is immediately perceived by itself.
+10. **No force is immediately perceived by itself.**
 
 It is only known and measured by its effects.
 
@@ -84,8 +84,13 @@ Thus, it should be attributed to impact. In these matters, we suffer from many d
 But dead force is related to impact force not as a part to a whole, but as a point to a line, according to the very authors who assert the infinitude of impact force. Much more could be added here, but I fear becoming too long-winded.
 
 
-15 From the foregoing principles, notable disputes can be resolved which have greatly occupied learned minds. 
+15. My principles solve the controversy over the proportion of forces.
 
-A case in point is the controversy over the proportion of forces.
+One party thinks that momentum, motion, and impulse, for a given mass, are simply proportional to velocity. Yet they affirm that forces are proportional to the square of the velocity. 
 
-One party concedes that momentum, motion, and impulse, for a given mass, are simply proportional to velocity, yet affirms that forces are proportional to the square of the velocity. But this view assumes that a body’s force is distinct from its momentum, motion, and impulse—and once that assumption is removed, the opinion falls.
+But this view assumes that a body’s force is distinct from its momentum, motion, and impulse.
+
+Once that assumption is removed, the opinion falls.
+
+ <!-- From the foregoing principles, notable disputes can be resolved which have greatly occupied learned minds.  -->
+

@@ -7,7 +7,7 @@ description: "Historical facts will reveal that the crucifixion of Jesus had lit
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

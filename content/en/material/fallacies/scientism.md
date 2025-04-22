@@ -86,7 +86,7 @@ This is what Huygens did by improving the shapes done by Descartes.
 
 {{< i s="/graphics/physics/huygenschap1f.png" a="Huygens" c="Huygens improved on the shapes of Descartes below" >}}
 
-{{< i s="/graphics/physics/world-13hhh.jpg" a="Descartes" >}}
+{{< i s="/graphics/physics/world-13hhh.jpg" a="Rene Descartes" >}}
 
 
 But somehow the mathematicians like Newton won and imposed a system based on text and numbers for the same thing.

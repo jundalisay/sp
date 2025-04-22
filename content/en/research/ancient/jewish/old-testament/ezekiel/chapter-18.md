@@ -3,7 +3,7 @@ heading: Ezekiel 18
 title: "The Sinner Versus the Just"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 44
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

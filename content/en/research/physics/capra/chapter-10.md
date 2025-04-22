@@ -2,7 +2,7 @@
 title: "Unity in All Things"
 weight: 70
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
-image: "/covers/taophysics.jpg"
+c: "maroon"
 ---
 
 <!-- Although the  described in the last five

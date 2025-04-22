@@ -159,12 +159,12 @@ According to Socrates, the discovery of the `G` or true nature of everything is 
 David Hume, who was an economist aside from being a metaphysician, agrees to this targetting of the human first, instead of his external environment:
 <!-- , who is our other reference, will agree to this as he is also an :  -->
 
-{{< q a="David-Hume" c="Treatise of Human Nature, Advertisement" >}}
+{{< q a="David Hume" c="Treatise of Human Nature, Advertisement" >}}
 Here, the only expedient for success in our philosophical researches is to.. march up directly to the capital or center of these sciences, to human nature itself. Once we master human nature, we may hope for an easy victory everywhere else. From here, we may extend our conquests over all those sciences.. We may hope to establish… a science which will not be inferior in certainty, and will be much superior in utility. The science of man is the only solid foundation for the other sciences. 
 {{< /q >}}
 
 This true nature is called by Francis Bacon as the "true form":
 
-{{< q a="Francis-Bacon" c="Nova Organum" >}}
+{{< q a="Francis Bacon" c="Nova Organum" >}}
 Our genuine and perfect rule of practice is that **it should be certain, free and preparatory, or having relation to practice**. This is the same thing as the discovery of a true form. For the form of any nature is such, that when it is assigned, the particular nature infallibly follows. Form, therefore is always present when that nature is present, universally attests such presence, and, is inherent in the whole of it.
 {{< /q >}}

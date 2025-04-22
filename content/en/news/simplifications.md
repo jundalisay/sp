@@ -2,9 +2,11 @@
 title: "New Simplifications"
 date: 2021-08-01
 description: "We list the new simplifications"
-image: "/covers/2020.png"
+c: "black"
 showdate: true
+weight: 3
 ---
+
 
 {{< d t="2025" >}}
 April 5 | Simplified Malthus' works to compare it to Trump's trade war policies

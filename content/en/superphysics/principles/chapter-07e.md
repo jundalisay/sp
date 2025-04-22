@@ -29,7 +29,7 @@ This is a combination of the ideas from:
 
 
 
-{{< q a="Descartes" c="Principia Philosophia Part 4, Article 202" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia Part 4, Article 202" >}}
 I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
 {{< /q >}}
 
@@ -38,7 +38,7 @@ I deny the existence of gravity inside any body. Gravity is a quality that depen
 
 This relation depends on point of view:
 
-{{< q a="Descartes" c="Principia Philosophia Part 3, Article 13" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia Part 3, Article 13" >}}
 Imagine a ship being carried out to sea. A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these. On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another. If the earth moves from west to east exactly as the ship moves from east to west, we again say that the person at the stern does not change his place. This is because his place will be determined by certain immovable points in the heavens. 
 {{< /q >}}
 

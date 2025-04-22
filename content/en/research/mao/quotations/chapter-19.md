@@ -5,7 +5,7 @@ weight: 40
 description: Thousands upon thousands of martyrs have heroically laid down their lives for the people
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 
@@ -37,13 +37,22 @@ Be resolute, fear no sacrifice and surmount every difficulty to win victory.
 {{< /cite >}}
 
 
-At a critical moment in the progress of the Northern Expedition,… the treacherous and reactionary policies of "party purge" and massacre adopted by the Kuomintang authorities wrecked this national united front - the united front of the Kuomintang, the Communist Party and all sections of the people, which embodied the Chinese people's cause of liberation - and all its revolutionary policies… 
+At a critical moment in the progress of the Northern Expedition,… the Kuomintang adopted treacherous and reactionary policies of "party purge" and massacre. This wrecked this national united front.
+- Unity was replaced by civil war
+- Democracy was replaced by dictatorship
+- a China full of brightness was replaced by a China covered in darkness. 
 
-Thereupon unity was replaced by civil war, democracy by dictatorship, and a China full of brightness by a China covered in darkness. But the Chinese Communist Party and the Chinese people were neither cowed nor conquered nor exterminated. 
+But the Chinese Communist Party and the Chinese people were neither cowed nor conquered nor exterminated. 
+
+ <!-- - the united front of the Kuomintang, the Communist Party and all sections of the people, which embodied the Chinese people's cause of liberation - and all its revolutionary policies…  -->
 
 They picked themselves up, wiped off the blood, buried their fallen comrades and went into battle again. 
 
-Holding high the great standard of revolution, they rose in armed resistance and over a vast territory in China they set up people's governments, carried out land reform, built up a people's army - the Chinese Red Army - andpreserved and expanded the revolutionary forces of the Chinese people.
+Holding high the great standard of revolution, they rose in armed resistance and over a vast territory in China. They:
+- set up people's governments
+- carried out land reform
+- built up the Chinese Red Army
+- preserved and expanded the revolutionary forces of the Chinese people
 
 {{< cite >}}
 "On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 261.*

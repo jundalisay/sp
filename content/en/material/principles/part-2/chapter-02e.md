@@ -32,7 +32,7 @@ These 2 space-times lead to [2 types of motion](/research/descartes/philosophy/p
 
 Local motion is sequential motion. This is seen as a ball rolling down a hill in a sequence. This is also called relativistic motion as it is rolling relative to the ground.
 
-{{< q a="Descartes" c="Principia Philosophia Book 2, Article 24" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia Book 2, Article 24" >}}
 There is only local motion*. Local motion is the action by which a body migrates from one place to another. The same body changes place [from one perspective] and does not change place [from another perspective] at the same time.
 {{< /q >}}
 
@@ -43,7 +43,7 @@ This leads to Cartesian Relativity.
 
 This is sudden or arbitrary motion. 
 
-{{< q a="Descartes" c="Principia Philosophia Book 2, Article 24" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia Book 2, Article 24" >}}
 True motion is THE TRANSLATION OF A WHOLE BODY (with its particles) FROM THE VICINITY OF THOSE BODIES AT REST THAT ARE IN IMMEDIATE CONTACT WITH IT, to the vicinity of other bodies. The body might consist of many particles which have other motions within themselves. True motion is a translation, not a force or action that transfers. Therefore, true motion is always in the moving object, not in the mover.
 {{< /q >}}
 

@@ -3,7 +3,7 @@ heading: Joshua 15
 title: "The Rest of the Inheritances"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 38
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

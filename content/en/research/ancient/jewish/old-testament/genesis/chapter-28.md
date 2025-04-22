@@ -3,7 +3,7 @@ heading: Genesis 28
 title: "Isaac's Instructions to Jacob"
 description: "Abimelech king of Gerar sent, and took Sarah"
 weight: 56
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

@@ -1,7 +1,9 @@
 ---
 heading: Chapter 12c
 title:  "How was the creation of Man accomplished?"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"
 weight: 73
 ---

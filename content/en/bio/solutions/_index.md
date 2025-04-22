@@ -1,8 +1,7 @@
 ---
-title: "Solutions"
-image: "/covers/solutions.png"
+title: "Solutions from Bio Superphysics"
+c: "seagreen"
 description: "Here are solutions from Bio Superphysics"
-type: "featured"
 weight: 4
 # date: 2020-10-30
 aliases:

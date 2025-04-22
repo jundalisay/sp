@@ -92,7 +92,7 @@ These chakras then are the foundation of both:
 - the inward senses
 - the external feelings or passions
 
-{{< q a="Descartes" c="Passions of the Soul, Article 2" >}}
+{{< q a="Rene Descartes" c="Passions of the Soul, Article 2" >}}
 A passion in the soul is commonly an action in the body.
 {{< /q >}}
 

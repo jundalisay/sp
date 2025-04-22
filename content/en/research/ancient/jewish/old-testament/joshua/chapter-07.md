@@ -3,7 +3,7 @@ heading: Joshua 7
 title: "Enki Gets Angry Because of Babylonian Loot"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 16
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

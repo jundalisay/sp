@@ -5,7 +5,7 @@ weight: 26
 description: The People's Liberation Army has developed its vigorous revolutionary political work
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

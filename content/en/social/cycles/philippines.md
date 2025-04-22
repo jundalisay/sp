@@ -229,7 +229,7 @@ To solve this, we propose a [modified parliamentary system](/research/hume/essay
 
 In this way, the representatives and senators can choose from themselves who would have the actual skills to lead the country.
 
-{{< q a="David-Hume" >}}
+{{< q a="David Hume" >}}
 The  representatives will have all the legislative power. The votes on legislation will be decided by the majority. If these are equal, the senate will vote on it.
 <cite>David Hume, Idea of a Perfect Commonwealth</cite>
 {{< /q >}}
@@ -386,7 +386,7 @@ The government can barter food and other non-monetary items in exchange for the 
 - raise land values
 
 
-{{< q a="David-Hume" >}}
+{{< q a="David Hume" >}}
 Strabo says that the northern parts of Spain are ill inhabited because of the great cold. This means that Europe is become warmer than before. This warming is caused by the cultivation of land which causes woods to be cleared. The woods formerly shaded the earth and kept the rays of the sun from penetrating to it. Our northern colonies in America become more temperate as the woods are felled. 
 <cite>Essay 11: The Populousness Of Ancient Nations</cite>
 {{< /q >}}

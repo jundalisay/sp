@@ -3,7 +3,7 @@ heading: Chapter 19
 title: "Laws"
 description: "In the beginning, God created the heaven and the earth"
 weight: 4
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

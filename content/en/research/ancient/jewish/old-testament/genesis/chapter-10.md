@@ -3,7 +3,7 @@ heading: Genesis 10
 title: "Nimrod the Great"
 description: "Adam knew Eve his wife. She conceived and gave birth to Cain"
 weight: 18
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 {10:1} Now these are the records of Noah's sons Shem, Ham, and Japheth. They had sons after the flood.

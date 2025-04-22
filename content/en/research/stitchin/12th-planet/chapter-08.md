@@ -2,7 +2,9 @@
 heading: Chapter 8
 title: The Planet Marduk
 # title:  "Kingship of Heaven"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"
 weight: 54
 ---

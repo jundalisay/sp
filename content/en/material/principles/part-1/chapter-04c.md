@@ -35,7 +35,7 @@ A living heavenly body is one whose core is not yet filled with matter, but rath
 This happens when the Negative Force slowly creeps into a living celestial body through its spaces or qosts.
 
 
-{{< q a="Descartes" c="Principia Philosophia, Part 3, Article 116" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 3, Article 116" >}}
 There is no danger of any vortex being destroyed by neighboring vortices as long as the star at its center is not enveloped by spots. But when a star becomes covered and buried by sunspots, its fate depends solely on its position relative to other vortices as to whether it will be absorbed sooner or later.
 {{< /q >}}
 

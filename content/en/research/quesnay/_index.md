@@ -1,6 +1,7 @@
 ---
 title: "Quesnay, Francois"
-image: "/covers/quesnay.jpg"
+a: "Francois Quesnay"
+c: "darkgreen"
 heading: "Enlightened"
 weight: 170
 description: "Quesnay’s work paved the way for classical economics—in particular for Adam Smith"

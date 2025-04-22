@@ -5,7 +5,7 @@ weight: 62
 description: Revolutionary culture is a powerful revolutionary weapon for the masses
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

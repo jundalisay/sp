@@ -1,6 +1,7 @@
 ---
 title: "Energy"
-image: "/covers/war.png"
+c: "maroon"
+author: "Sun Tzu"
 description: "Controlling a large force is the same as the controlling a few men. It is merely a question of dividing up their numbers"
 heading: "Chapter 5"
 weight: 10

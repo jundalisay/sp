@@ -5,7 +5,7 @@ weight: 44
 description: We stand for self-reliance. We hope for foreign aid but cannot be dependent on it
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

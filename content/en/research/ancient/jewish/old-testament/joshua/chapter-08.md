@@ -3,7 +3,7 @@ heading: Joshua 8
 title: "War with Ai"
 description: "Do to Ai and her king as you did to Jericho and her king: only the spoil thereof"
 weight: 18
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

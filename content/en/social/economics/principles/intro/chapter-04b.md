@@ -86,7 +86,7 @@ Since our economic system priortizes the circulation of goods and services, then
 For this, we use Cartesian Relativity. This is done by expanding one's perspective from the local transaction into the whole of society.
 
 
-{{< q a="Descartes" c="Principia Philosophia, Part 2, Article 13" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 2, Article 13" >}}
 Imagine a ship being carried out to sea. 
 - A person sitting at the stern might always remain in one place if we look at the ship, since he preserves the same location with respect to these.
 - But if we look at the neighbouring shores, the same person will seem to be perpetually changing place.

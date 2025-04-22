@@ -6,7 +6,7 @@ date: 2019-01-01
 weight: 2
 image: /photos/tech/mac.jpg
 description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -52,7 +52,7 @@ This means that the mug exists in two domains of reality:
 
 
 
-{{< q a="Francis-Bacon" c="Nova Organum, Book 2" >}}
+{{< q a="Francis Bacon" c="Nova Organum, Book 2" >}}
 Let the investigation of forms, which are eternal and immutable, constitute metaphysics. 
 
 Let the investigation of the efficient cause of matter, constitute physics.
@@ -72,7 +72,7 @@ Our senses let us perceive the mug physically by receiving the sensations of lig
   - An example is the air which lets light and our hands pass through.  
 
 
-<!-- a="Francis-Bacon" c="Nova Organum" Humans should learn the difference between the idols of the human mind and the ideas of the divine mind. The former are mere arbitrary abstractions. The latter are the true marks of the Creator on his creatures, as they are imprinted on, and defined in matter, by true and exquisite touches. 
+<!-- a="Francis Bacon" c="Nova Organum" Humans should learn the difference between the idols of the human mind and the ideas of the divine mind. The former are mere arbitrary abstractions. The latter are the true marks of the Creator on his creatures, as they are imprinted on, and defined in matter, by true and exquisite touches. 
 
 Truth and utility, therefore, are here perfectly identical. The effects are more valueable as pledges of truth rather than as practical benefits -->
 
@@ -80,7 +80,7 @@ Truth and utility, therefore, are here perfectly identical. The effects are more
 
 ### The Metaphysical Domain with Metaphysical Objects, as Ideas
 
-{{< q a="Francis-Bacon" c="The Interpretation of Nature, Chap 13" >}}
+{{< q a="Francis Bacon" c="The Interpretation of Nature, Chap 13" >}}
 The schools by natural philosophy were meant for the knowledge of the efficients or things concrete; and by
 metaphysics the knowledge of the forms of natures simple.
 {{< /q >}}
@@ -130,15 +130,16 @@ If Person A goes back down, Person B would imagine that he was descending. This 
 
 We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This will be explained later when we explain our Five Layer Model. 
 
+{{< i s="/graphics/super/meta.svg" a="Venn" >}}
 
-{{< q c="Timaeus by Plato Simplifed">}}
+{{< q a="Timaeus" c="Timaeus by Plato Simplifed">}}
 These causes generate an inequality which is always maintained, and is continually creating a perpetual motion of the elements... The brightest part is called the aether. The most turbid sort is mist and darkness.
 {{< /q >}}
 
 
 These 3 regions of metaphysical domain, physical domain, and current perception (as a merger of both) are expressed in our Superphysics icon.
 
-{{< img src="/icons/sp.png" size="is-48x48" alt="Superphysics icon">}}
+{{< img src="/icons/sp.png"  alt="Superphysics icon">}}
 
 - The blue upward triangle reprsents the metaphysical domain going upwards
 - The green downward triangle represents the physical domain going 'down to earth'

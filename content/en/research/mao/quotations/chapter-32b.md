@@ -5,7 +5,7 @@ weight: 64
 description: Studying them is not merely a matter of learning terms and phrases but of learning Marxism-Leninism as the science of revolution
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

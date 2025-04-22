@@ -93,7 +93,7 @@ Each quantum particle is made up aether particles which can either be:
 - flat
 
 
-{{< q a="Descartes" c="Principia Philosophia, Part 3, Article 87" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 3, Article 87" >}}
 They are small columns, hollowed out with 3 spirals like screw-threads. This lets them pass through those narrow passages while twisting
 {{< /q >}}
 

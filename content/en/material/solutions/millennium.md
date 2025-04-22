@@ -8,6 +8,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 weight: 1
+draft: true
 ---
 
 

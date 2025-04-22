@@ -1,7 +1,8 @@
 ---
 title: "Russell, Walter"
 description: ""
-image: "/covers/walter.jpg"
+a: "Walter Russell"
+c: "maroon"
 weight: 188
 # date: 2023-06-01
 ---

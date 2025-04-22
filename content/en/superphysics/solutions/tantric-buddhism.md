@@ -7,7 +7,7 @@ description: "Asian Philosophies such as Hinduism, Buddhism, and Taoism promote 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

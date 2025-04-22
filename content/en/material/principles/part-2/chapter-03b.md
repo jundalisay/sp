@@ -33,7 +33,7 @@ This is why timespace is necessary to reveal and analyze the gravitational signa
 
 In Cartesian Physics, time is made up of independent moments or timespans. It follows that space is also independent as well. This leads to our concept of spacetime slices.
 
-{{< q a="Descartes" >}}
+{{< q a="Rene Descartes" >}}
 **A life-span can be divided into countless parts, each completely independent of the others.**  My existence at one time does not follow that I exist at later times, unless some cause keeps me in existence. **That cause creates me afresh at each moment.**
 
 The nature of time is different in:

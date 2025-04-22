@@ -5,7 +5,7 @@ weight: 57
 description: "Cadres and leaders must be free from selfishness, individualistic heroism, ostentation, sloth, passivity, and sectarianism"
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

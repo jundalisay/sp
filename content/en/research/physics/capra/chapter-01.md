@@ -2,7 +2,7 @@
 title: "Modern Physics: A Path with a Heart?"
 weight: 4
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
-image: "/covers/taophysics.jpg"
+c: "maroon"
 ---
 
 

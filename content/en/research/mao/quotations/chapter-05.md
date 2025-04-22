@@ -5,7 +5,7 @@ weight: 12
 description: War is the continuation of politics
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 War is the highest form of struggle for resolving contradictions when they have developed to a certain stage, between classes, nations, states, or political groups

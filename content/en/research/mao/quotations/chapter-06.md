@@ -5,7 +5,7 @@ weight: 14
 description: All reactionaries are paper tigers. They appear terrifying. But in reality, they are not so powerful
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

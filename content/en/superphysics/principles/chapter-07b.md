@@ -6,7 +6,7 @@ date: 2020-12-27
 weight: 36
 image: "/graphics/movement.png"
 description: "Decon Notation helps make ratios understandable"
-icon: /icons/sp.png
+icon: "Superphysics"
 math: true
 writer:
   name: Juan
@@ -27,7 +27,7 @@ Beyond the Radiant Layer are the Spacetime and Aether layers where the measureme
 
 We say that such measurements are subjective and heterogenous and thus are more qualitative instead of quantitative or homogenous. 
 
-{{< q a="Sarkar" c="Idea and Ideology, Chapter 3" >}}
+{{< q a="PR Sarkar" c="Idea and Ideology, Chapter 3" >}}
 Hence, tanmátras [quantum-perceptions] are the waves produced by the objects as a result of reflection of the subtler bhúta [element or factor] on the cruder ones. Quantum-perceptions in the mathematical sense are **heterogeneous**, not homogeneous
 {{< /q >}}
 
@@ -235,7 +235,7 @@ Qualimath will allow an AI-driven* ship that teleports into another universe, wh
 
 A qualitative definition in one’s mind retains itself even if its mind moves into another universe. *This is because that defintion is always anchored in the ego (feeling of the self) of that mind.* This was implied by Adam Smith:
 
-{{< q a="Smith" c="Theory of Moral Sentiments" >}}
+{{< q a="Adam Smith" c="Theory of Moral Sentiments" >}}
 I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can survey both at equal distances, and judge their real proportions.
 {{< /q >}}
 

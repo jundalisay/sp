@@ -1,7 +1,9 @@
 ---
 heading: Chapter 10d
 title:  "What Were the Ziggurats For?"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Enki of his landing on Earth"
 weight: 67
 ---

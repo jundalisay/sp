@@ -5,7 +5,7 @@ weight: 6
 description: Classes struggle, some classes triumph, others are eliminated
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

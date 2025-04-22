@@ -5,7 +5,7 @@ weight: 24
 description: For the past dozen years it has talked about the mass line every day
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

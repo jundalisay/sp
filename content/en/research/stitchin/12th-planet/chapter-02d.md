@@ -1,7 +1,9 @@
 ---
 heading: Chapter 2d
 title:  "Gudea Ruler of Lagash of Sumer"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "The first significant excavation of a Sumerian site was begun in 1877 by French archaeologists"
 weight: 8
 ---

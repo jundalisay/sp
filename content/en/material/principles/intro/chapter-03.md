@@ -31,12 +31,12 @@ To make Physics easier to understand, we classify everything in Existence into t
 
 **Substance** is the essence of things or identities that we perceive.  
 
-{{< q a="Descartes" c="Meditations Simplified, Part 3">}}
+{{< q a="Rene Descartes" c="Meditations Simplified, Part 3">}}
 I think of myself as a thing that thinks and is not extended. I also think of the stone as a thing that is extended and does not think. The two conceptions differ enormously. But they seem to have the classification ‘substance’ in common. 
 {{< /q >}}
 
 
-{{< q a="Descartes" c="Meditations Simplified, Part 6">}}
+{{< q a="Rene Descartes" c="Meditations Simplified, Part 6">}}
 Sensory ideas must be produced by some substance other than me. This substance actually has all the reality that is represented in the ideas that it produces. This substance is either a body, or it is God.
 {{< /q >}}
 

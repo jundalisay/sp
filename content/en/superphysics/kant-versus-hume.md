@@ -7,7 +7,7 @@ description: "David Hume's philosophy is the opposite of that of Kant. Hume alre
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

@@ -2,7 +2,9 @@
 heading: "Chapter 1c"
 title: "The Mercantile System"
 weight: 6
-image: /covers/sismondi.jpg
+c: "darkgreen"
+a: "Sismondi"
+icon: "Sismondi"
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
 contributors: ['Sismondi']
 ---

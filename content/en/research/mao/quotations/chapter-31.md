@@ -5,7 +5,7 @@ weight: 60
 description: Women are dominated by authority and by the men through the authority of the husband
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

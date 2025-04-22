@@ -23,7 +23,15 @@ The ancients, as Thales, Heraclitus, Anaxagoras, Archelaus, Pythagoras, Empedocl
 
 Aristotle affirms that not the whole universe is animate, but only the sky; but he maintains that its elements are inanimate; whilst the stars themselves are animate. We, however, find this life in globes only and in their homogenic parts; and though it is not the same in all globes (for it is much more eminent in the sun and in certain stars than in others of less nobility) yet in very many the lives of the globes agree in their powers. 
 
-For each several homogenic part draws to its own globe in a similar manner, and has an inclination to the common direction of the whole in the universe; and the effused forms extend outward in all, and are carried out into an orbe, and have bounds of their own; hence the order and regularity of the motions and rotations of all the planets, and their courses, not wandering away, but fixed and determined. Wherefore Aristotle concedes life to the sphæres themselves and to the orbes of the heavens (which he feigns), because they are suitable and fitted for a circular motion and actions, and are carried along in fixed and definite courses. It is surely wonderful, why the globe of the earth alone with its emanations is condemned by him and his followers and cast into exile (as senseless and lifeless), and driven out of all the perfection of the excellent universe.
+For each several homogenic part draws to its own globe in a similar manner, and has an inclination to the common direction of the whole in the universe; and the effused forms extend outward in all, and are carried out into an orbe, and have bounds of their own; hence the order and regularity of the motions and rotations of all the planets, and their courses, not wandering away, but fixed and determined.
+
+Aristotle concedes life to the sphæres themselves and to the orbes of the heavens (which he feigns). This is because they are:
+- suitable and fitted for a circular motion and actions
+- are carried along in fixed and definite courses.
+
+He condemns the globe of the earth alone with its emanations.
+
+He exiles it (as senseless and lifeless) out of all the perfection of the excellent universe.
 
 It is treated as a small corpuscle in comparison with the whole, and in the numerous concourse of many thousands it is obscure, disregarded, and unhonoured. {209}
 

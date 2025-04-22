@@ -3,7 +3,7 @@ heading: Ezekiel 14
 title: "The Anunnaki Speak"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 36
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

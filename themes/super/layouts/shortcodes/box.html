@@ -1,10 +1,4 @@
-{{ $shortcode := . }}
+<div class="box bg-gray-100 dark:bg-gray-800 p-4 shadow border rounded-lg text-sm">
+    {{ .Inner | markdownify }}
+</div>
 
-{{ if eq $shortcode.Inner "" }}
-    {{ $message := printf `shortcodes/box: missing inner at %s` $shortcode.Position }}
-    {{ partial "functions/error.html" (dict "context" $shortcode "message" $message) }}
-{{ else }}
-    <div class="box bg-gray-100 dark:bg-gray-800 px-4 shadow border rounded-lg text-sm">
-        {{ $shortcode.Inner | markdownify }}
-    </div>
-{{ end }}

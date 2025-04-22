@@ -5,7 +5,7 @@ weight: 52
 description: It is only through the unity of the Communist Party that the unity of the whole class and nation can be achieved
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

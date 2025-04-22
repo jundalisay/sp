@@ -1,7 +1,9 @@
 ---
 heading: Chapter 6
 title:  "The 12th Planet"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"
 weight: 42
 ---

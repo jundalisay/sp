@@ -3,7 +3,7 @@ heading: Genesis 25
 title: "Jacob and the Start of Israel"
 description: "Abimelech king of Gerar sent, and took Sarah"
 weight: 50
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

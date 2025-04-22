@@ -7,7 +7,7 @@ description: "Our proposed revival of Descartes' Physics has its own math called
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

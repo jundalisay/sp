@@ -8,7 +8,7 @@ description: "Desire is a fundamental kind of feeling which we sense through our
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 
@@ -117,7 +117,7 @@ The mere visualization or even 'audification' of feelings will not be enough to 
 
 These unify the feelings of each person so that each one will discover his role in the greater plan of the universe, and appreciate the hidden value in the existence of each. 
 
-{{< q a="Descartes" c="Meditations Simplified, Part 4" >}}
+{{< q a="Rene Descartes" c="Meditations Simplified, Part 4" >}}
 A skilled craftsman makes a perfect creation as a whole, even if its parts taken individually seem imperfect.
 {{< /q >}}
 

@@ -51,7 +51,7 @@ Unlike science which sees brain as the cause of consciousness, Superphysics sees
 
  as the cause works directly on the soul in order to resolve its physical issues with the brain.
 Ideas are Static, Feelings are Dynamic
-PR-Sarkar
+PR Sarkar
 Between 2 points there is a flow of cognition. In that flow, bubbles are created. These bubbles are ideas in the Cosmic emanation of the Supreme. When these bubbles touch the unit “I” feeling, ideas are created in the unit. These are the reflections or refractions of the Cosmic Idea. The unit tries to express them through its own psychophysical structure as speech and language.. As far as the reflected bubbles are concerned, the language of the universe is the same forever, always one and indivisible.
 The Evolution of Languages
 

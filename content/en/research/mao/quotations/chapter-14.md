@@ -5,7 +5,7 @@ weight: 30
 description: The army in the Liberated Areas must support the government and cherish the people
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

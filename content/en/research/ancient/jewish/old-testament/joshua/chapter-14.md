@@ -3,7 +3,7 @@ heading: Joshua 14
 title: "The Lands Inherited"
 description: "These are the countries which the Israelites inherited in the land of Canaan"
 weight: 30
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

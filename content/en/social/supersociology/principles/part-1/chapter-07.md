@@ -10,7 +10,7 @@ description: "The Enlightened philosophers wrote against sophistry by the mercha
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

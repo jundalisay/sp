@@ -1,7 +1,9 @@
 ---
 heading: Chapter 9c
 title:  "Landing on Planet Earth"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"
 weight: 62
 ---

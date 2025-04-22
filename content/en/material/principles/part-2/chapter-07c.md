@@ -65,7 +65,7 @@ This matches the expansion of the human mind.
 - In the age of telescopes, it started expanding 
 - In the age of space telescopes, it started expanding faster
 
-{{< q a="Descartes" c="Principia Philosophia, Part 2 Article 34" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 2 Article 34" >}}
 The matter which already fills space G cannot successively fill all the spaces between G and E which are infinitely smaller. Some part of that matter must adapt its shape to the countless measures of those spaces. To achieve this, all its innumerable particles must be separated from each other by division. This leads to the division of certain particles of matter into infinity, or indefinitely.
 {{< /q >}}
 

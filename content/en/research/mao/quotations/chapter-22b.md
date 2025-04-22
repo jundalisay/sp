@@ -5,7 +5,7 @@ weight: 46
 description: Materialist Dialectics holds that external causes are the condition of change
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

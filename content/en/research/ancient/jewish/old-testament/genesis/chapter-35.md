@@ -3,7 +3,7 @@ heading: Genesis 35
 title: "Jacob Gives Gifts"
 description: "Jacob went on his way, and the agents of Enki met him"
 weight: 50
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

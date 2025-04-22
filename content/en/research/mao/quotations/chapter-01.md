@@ -5,7 +5,7 @@ weight: 4
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 <!-- Quotations from Chairman Mao Tse-tung is a book of statements from

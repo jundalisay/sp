@@ -33,7 +33,7 @@ Crudifying | Below the gravitational signature
 These monads then make up the aether particles as the substance of the aethereal layer. The quality of these monads then build the strength, dynamism, and size of the particles in the layers below the aethereal. 
 
 
-{{< q a="Descartes" c="The World Simplified" >}}
+{{< q a="Rene Descartes" c="The World Simplified" >}}
 Every substance has one principal attribute.
 - Mind-substances have thinking as their one principal attribute.
 - Body-substances have extension as their one principal attribute.

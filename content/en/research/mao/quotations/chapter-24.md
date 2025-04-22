@@ -6,7 +6,7 @@ weight: 50
 description: Liberalism is extreme]y harmful in a revolutionary collective and manifests in various ways.
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

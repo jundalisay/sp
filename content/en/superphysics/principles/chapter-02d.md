@@ -10,7 +10,7 @@ description: "We use the 5 Layers to theorize the sequence of creation"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

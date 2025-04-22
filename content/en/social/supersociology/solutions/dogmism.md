@@ -49,7 +49,7 @@ If he could connect his idea of smashing airplanes onto tall buildings (`Idea 1`
 
 David Hume knew that most humans have a weak ability to connect effect with ultimate causes, and causes with their long-term effects.
 
-{{< q a="David-Hume" c="Simplified Essays by David Hume, Commerce" >}}
+{{< q a="David Hume" c="Simplified Essays by David Hume, Commerce" >}}
 Shallow thinkers tend to decry even those of solid understanding, abstruse thinkers, metaphysicians, and refiners. They call anything that is beyond their own weak conceptions as unjust.
 {{< /q >}}
 

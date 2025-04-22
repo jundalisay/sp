@@ -8,7 +8,7 @@ description: "Desire is a fundamental kind of feeling which we sense through our
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 draft: true
 ---
 

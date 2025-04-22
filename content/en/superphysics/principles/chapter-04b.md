@@ -5,7 +5,7 @@ date: 2024-01-24
 weight: 22
 image: /graphics/flip.jpg
 description: "Our reality is made up of independent 'pages' or planes of reality that flow, or are connected by our minds in order to create one consistent reality"
-icon: /icons/sp.png
+icon: "Superphysics"
 tags: ['Lao Tzu', 'Yin Yang']
 toc: false
 writer:
@@ -21,7 +21,7 @@ There are 2 Domains in Reality | Ideas are Static, Feelings are Dynamic
 {{< /dc >}}
 
 
-{{< q a="PR-Sarkar" c="The Evolution of Languages" >}}
+{{< q a="PR Sarkar" c="The Evolution of Languages" >}}
 Between 2 points there is a flow of cognition. In that flow, bubbles are created. These bubbles are ideas in the Cosmic emanation of the Supreme. When these bubbles touch the unit "I" feeling, ideas are created in the unit. These are the reflections or refractions of the Cosmic Idea. The unit tries to express them through its own psychophysical structure as speech and language.. As far as the reflected bubbles are concerned, the language of the universe is the same forever, always one and indivisible.
 {{< /q >}}
 
@@ -64,7 +64,7 @@ We can then make an analogy that the Creator of the universe began writing Its i
 
 Unlike Physics that only has physical time, Superphysics has both physical and metaphysical time:
 
-{{< q c="Timaeus by Plato Simplified, Chapter 4" >}}
+{{< q a="Timaeus" c="Timaeus by Plato Simplified, Chapter 4" >}}
 The Creator rejoiced when He saw his creation moving and living..The nature of the creation's Idea-being was everlasting. But it is impossible to make creation everlasting. So He resolved to have a moving image of eternity. When He set the order of the heaven, He made this image eternal but moving according to number, while eternity itself rests in unity. 
 
 This image is what we call time.
@@ -105,7 +105,7 @@ The Hindus call this Virtual Reality or Existence as **Brahma** and the Taoists 
 
 
 
-{{< q a="Sarkar" c="Idea and Ideology, Chapter 3" >}}
+{{< q a="PR Sarkar" c="Idea and Ideology, Chapter 3" >}}
 A wave can move freely only when it is in harmony with previous waves and their curvatures.
 It can pass through an object where there is no physical obstruction from a subtler wave, that is, subtler waves can pass through cruder waves. Under such circumstances, there is always an adjustment of wavelengths. This results in the creation of physical diversities
 {{< /q >}}

@@ -30,6 +30,18 @@ body {
     font-family: 'Nunito';
 }
 
+
+cite {
+  line-height: 1.25rem; /* leading-5 */
+  color: darkgray; /* text-gray */
+  text-align: right !important; /* align right */
+  text-align-last: justify !important;
+  font-style: italic; /* italic */
+  font-size: 14px;
+}
+
+
+
 th {
     background-color: 'gray';
 }
@@ -165,16 +177,10 @@ blockquote {
 
 strong {color: mediumseagreen !important;}
 
-.Adam, .Hunter {background-image: url(/icons/adam.png);}
-.Aishah, .Mary, .Wife, .Woman, .Oracle, .Saradamani, .Brahmani, .Rahab, .Leah, .Gandhari {background-image: url(/icons/veil.png);}
-.Allah, .Spirit, .Soul {background-image: url(/icons/yellow.png);}
+
 .Anytus, .Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung, .Sons { background-image: url(/icons/g09.png) !important;}
-.aris, .Aristotle {background-image: url(/icons/Aristotle.jpg) !important;}
 .Arjuna, .Troops, .King, .Angulimala {background-image: url(/icons/arjuna.png);}
-.asker, .Asker {background-image: url(/icons/teacher.png);}
 .Athenian, .Noah, .Believers, .Priest-of-Sais, .Prophet, .Elders, .Jacob, .Parmenides, .Ischomachus, .pole, .Polemarchus, .Boy, .Critias, .Devotee, .Judge, .Man, .Apollodorus {   background-image: url(/icons/g04.png);}
-.Avicenna {background-image: url(/avatars/avicenna.png);}
-.Bacon, .Francis-Bacon {background-image: url(/icons/bacon.png) !important;}
 .Banker {background-image: url(/icons/banker.png);}
 .Bashar {background-image: url(/avatars/bashar.jpg);}
 .Bhadrapala, .Musa, .Abu-Bakr {background-image: url(/avatars/musa.png);}
@@ -203,12 +209,11 @@ strong {color: mediumseagreen !important;}
 .Helmholtz {background-image: url(/avatars/helmholtz.jpg);}
 .Hitler {background-image: url(/avatars/hitler.jpg);}
 .Hooke {background-image: url(/avatars/hooke.jpg) !important;}
-.hume, .Hume, .David-Hume {background-image: url(/avatars/hume.png);}
+.hume, .Hume, .David Hume {background-image: url(/avatars/hume.png);}
 .Huygens {background-image: url(/avatars/huygens.png);}
 .ibn, .Ibn-Khaldun, .Aeschylus {background-image: url(/icons/ibn.jpg);}
 .Ignorance {background-image: url(/icons/question.png);}
 .Indian, .Margi {background-image: url(/icons/indian.png)}
-.Jesus {background-image: url(/avatars/jesus.png);}
 .jev, .Jevons {background-image: url(/avatars/jevons.png);}
 .Jews, .Israelites {background-image: url(/icons/il.png);}
 .Juan, .Chris {background-image: url(/avatars/jun.jpg);}
@@ -257,7 +262,7 @@ strong {color: mediumseagreen !important;}
 .Rizal {background-image: url(/icons/rizal.png);}
 .Sad {background-image: url(/icons/arab2.png) !important;}
 .sam, .Samuelson, .Paul-Samuelson, .Silesaloma {background-image: url(/icons/sam.png);}
-.Sarkar, .PR-Sarkar, .Baba {background-image: url(/icons/sarkar.png) !important;}
+.Sarkar, .PR Sarkar, .Baba {background-image: url(/icons/sarkar.png) !important;}
 .Saturn, .Mercury {background-image: url(/icons/atom.png);}
 .say, .Say {background-image: url(/avatars/say.png);}
 .schu, .EF-Schumacher {background-image: url(/avatars/ef.png) !important;}

@@ -112,7 +112,7 @@ Heat particles or mor3 are the crudest of the radiant forcesas it is able to aff
 
 This is why the mechanics of heat of the Radiance layer is basis for the Laws of Thermodynamics. 
 
-{{< q a="Descartes" >}}
+{{< q a="Rene Descartes" >}}
 Heat cannot be produced in a cold object that has no heat. 
 
 The form of “fire,” the quality of “heat,” and the action that “burns” are completely different things from this wood.

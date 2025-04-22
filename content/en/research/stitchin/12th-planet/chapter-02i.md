@@ -1,7 +1,9 @@
 ---
 heading: Chapter 2i
 title:  "Music and Arts"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "The material and spiritual achievements of the Sumerian civilization were also accompanied by an extensive development of the performing arts"
 weight: 13
 ---

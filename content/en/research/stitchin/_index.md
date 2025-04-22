@@ -1,7 +1,9 @@
 ---
 title: "Stitchin, Zecharaiah"
 description: "The 12th Planet by Stitchin"
-image: "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 weight: 199
 # date: 2022-04-12
 ---

@@ -5,7 +5,7 @@ weight: 28
 description: If we depart from this attitude, the relations between officers and men, the army and the people will be unsatisfactory
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

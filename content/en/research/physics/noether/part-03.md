@@ -2,7 +2,7 @@
 title: "Invariant variational problems"
 weight: 7
 description: "Modern works about Physics"
-image: "/covers/noether.jpg"
+c: "maroon"
 ---
 
 

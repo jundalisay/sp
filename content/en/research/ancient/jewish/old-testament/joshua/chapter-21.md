@@ -3,7 +3,7 @@ heading: Joshua 21
 title: "The Distribution of the Urban Areas"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 42
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

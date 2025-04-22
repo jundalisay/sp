@@ -8,7 +8,7 @@ description: "The Dialectics of Socrates unifies metaphysics and science into a 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

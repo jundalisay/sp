@@ -5,7 +5,7 @@ date: 2023-12-27
 weight: 30
 image: "/graphics/super/wave.jpg"
 description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -61,7 +61,7 @@ Here, the Crudifying Influence is stronger
 In Hinduism, these 3 influences are known as the 3 Gunas. 
 
 
-{{< q a="Ramakrishna" >}}
+{{< q a="Ramakrishna" c="The Gospel of Ramakrishna" >}}
 Under the spell of God's maya, man forgets his true nature.
 
 He forgets that he is heir to the infinite glories of his Father. This divine maya is made up of 3 gunas: 

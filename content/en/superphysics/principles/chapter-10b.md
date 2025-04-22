@@ -8,7 +8,7 @@ description: "Critical feeling is done by the heart as a sixth or intuitional se
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

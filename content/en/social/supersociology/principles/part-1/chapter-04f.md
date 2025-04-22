@@ -9,7 +9,7 @@ description: Omnitheism is the knowledge of how different types of people view t
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 # aliases:
 #   /superphysics/principles/god
 ---

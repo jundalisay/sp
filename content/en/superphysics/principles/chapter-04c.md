@@ -5,7 +5,7 @@ date: 2024-02-24
 weight: 23
 image: /graphics/meta/ideas.jpg
 description: "We explain the rules of Bullet-Style Writing"
-icon: /icons/sp.png
+icon: "Superphysics"
 toc: false
 writer:
   name: Juan

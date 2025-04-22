@@ -2,7 +2,9 @@
 heading: "Chapter 7b"
 title: "Food Production"
 weight: 22
-image: "/covers/sismondi.jpg"
+c: "darkgreen"
+a: "Sismondi"
+icon: "Sismondi"
 description: "Abstractly, the multiplication of food follows a geometrical progression like the multiplication of men"
 ---
 

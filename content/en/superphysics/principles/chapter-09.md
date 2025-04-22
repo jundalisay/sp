@@ -9,7 +9,7 @@ description: "Everything in existence is an idea of the Creator of that existenc
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

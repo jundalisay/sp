@@ -5,7 +5,7 @@ weight: 16
 description: "People of the world, be courageous, dare to fight, defy difficulties and advance wave upon wave"
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

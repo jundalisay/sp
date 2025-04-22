@@ -33,7 +33,7 @@ However, despite lobbying by various parties and governments, such solutions sti
 Unknown to many, global warming has been a problem since ancient times, as explained by David Hume:
 
 
-{{< q a="David-Hume" c="Essay 11: The Populousness Of Ancient Nations" >}}
+{{< q a="David Hume" c="Essay 11: The Populousness Of Ancient Nations" >}}
 Strabo says that the northern parts of Spain are ill inhabited because of the great cold. This means that Europe is become warmer than before. 
 
 This warming is caused by the cultivation of land which causes woods to be cleared. The woods formerly shaded the earth and kept the rays of the sun from penetrating to it. Our northern colonies in America become more temperate as the woods are felled. 

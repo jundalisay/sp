@@ -5,7 +5,7 @@ weight: 10
 description: "To understand the 2 different types of contradictions, we must understand what is meant by 'the people' and 'the enemy'"
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

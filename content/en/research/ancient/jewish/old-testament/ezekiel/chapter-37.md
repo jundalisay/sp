@@ -3,7 +3,7 @@ heading: Ezekiel 37
 title: "Writing on Sticks"
 description: "The hand of Enki carried me out in the spirit of Enki, and set me down in the midst of the valley which was full of bones"
 weight: 114
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

@@ -4,6 +4,7 @@ date: 2024-07-08
 image: /covers/faq.png
 description: "FAQ on Bio Superphysics"
 icon: "Bio Superphysics"
+youtube: "klka8xfvMDY"
 ---
 
 

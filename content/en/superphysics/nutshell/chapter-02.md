@@ -5,7 +5,7 @@ date: 2025-02-20
 weight: 2
 image: /photos/tech/mac.jpg
 description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -45,7 +45,7 @@ This flower-idea is made of aether.
 Unlike the physical flower which we can see and touch, this aethereal flower-idea can only be perceived by our abstract minds.
 
 
-{{< q a="Francis-Bacon" c="Nova Organum, Book 2" >}}
+{{< q a="Francis Bacon" c="Nova Organum, Book 2" >}}
 Let the investigation of forms, which are eternal and immutable, constitute metaphysics. 
 
 Let the investigation of the efficient cause of matter, constitute physics.
@@ -74,7 +74,7 @@ Light waves come from the flower and touch your eyes. A similar flower is create
 
 ### The Metaphysical Domain with Metaphysical Objects, as Ideas
 
-{{< q a="Francis-Bacon" c="The Interpretation of Nature, Chap 13" >}}
+{{< q a="Francis Bacon" c="The Interpretation of Nature, Chap 13" >}}
 The schools by natural philosophy were meant for the knowledge of the efficients or things concrete; and by metaphysics the knowledge of the forms of natures simple.
 {{< /q >}}
 
@@ -136,7 +136,7 @@ These causes generate an inequality which is always maintained, and is continual
 
 These 3 regions of metaphysical domain, physical domain, and current perception (as a merger of both) are expressed in our Superphysics icon.
 
-{{< img src="/icons/sp.png" size="is-48x48" alt="Superphysics icon">}}
+{{< img src="/icons/sp.png" alt="Superphysics icon">}}
 
 - The blue upward triangle reprsents the metaphysical domain going upwards
 - The green downward triangle represents the physical domain going 'down to earth'

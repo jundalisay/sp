@@ -3,7 +3,7 @@ heading: Ezekiel 36
 title: "Enki's Instructions"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 110
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

@@ -130,7 +130,7 @@ The French Physiocrats claim that Smith learned that doctrine in their school. H
  
 Smith was just 16 years old then. Hutcheson seems to have recognised Smith's quality and brought him under David Hume's personal notice. A letter by Hume to Hutcheson on March 4, 1740 indicates it had some difficulties. 
 
-{{< q a="David-Hume" >}}
+{{< q a="David Hume" >}}
 My bookseller has sent a copy of my book to Mr. Smith. I hope he has received it as well as your letter. I have not yet heard what he has done with the abstract. Perhaps you have. I have got it printed in London, but not in the Works of the Learned, there having been an article with regard to my book somewhat abusive before I sent up the abstract.
 {{< /q >}}
 

@@ -122,7 +122,7 @@ We can think of the physical universe (with spacetime) as a giant computer memor
 The stream of ideas from the aethereal layer enter this virtual reality through specific placeholder blocks or nodes in this universe-RAM or universal-memory.  <!-- combination of 1's and 0's that stream down into physical space do it through  in the mind or memory of the universe. --> This is to maintain the identity of each idea and not let it get mixed up with other ideas.  
 
 
-{{< q a="Descartes" c="The World Simplified" >}}
+{{< q a="Rene Descartes" c="The World Simplified" >}}
 Before God divided it, the pure aether was singular. When it began to be divided, its division began in one part and spread out to all its parts as equally as it could. However, this equality of division could not be perfect.. Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion. Nearer the centers, the particles were naturally less agitated and smaller. Farther from the centers, the particles were more agitated and larger.. The strongest particles were the largest ones. These created the largest circles.
 {{< /q >}}
 
@@ -209,7 +209,7 @@ The monad was the indivisible point and the first cause. The duad was the first 
 The collisions and friction in that traffic jam compresses the qosts to the point that create photons and electrons through the Radiant Layer.  
 
 
-{{< q a="Descartes" c="The World Simplified" >}}
+{{< q a="Rene Descartes" c="The World Simplified" >}}
 The aether particles that broke off from air-aether during collisions gained more speed because they had to travel farther at the same amount of time. They became the fire-aether.
 {{< /q >}}
 

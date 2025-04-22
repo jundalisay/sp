@@ -3,7 +3,7 @@ heading: Chapter 33
 title: "Moses Talks to Enki"
 description: "Go with your people to the land which I promised to Abraham, Isaac, and Jacob."
 weight: 12
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

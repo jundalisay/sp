@@ -21,7 +21,7 @@ Action is the opposite of perception, just as output is the opposite of input.
 - Action is expression
 - Perception is absorption
 
-{{< q a="Descartes" c="Philosophy, Part 1, Article 26" >}}
+{{< q a="Rene Descartes" c="Philosophy, Part 1, Article 26" >}}
 There are only 2 modes of thinking in us: the perception of the understanding and the action of the will
 {{< /q >}}
 

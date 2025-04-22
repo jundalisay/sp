@@ -202,7 +202,7 @@ pagerSize = 24
     [[languages.en.params.panels]]
       img = "/photos/buy.jpg"
       title = "Policies from Social Cycles"
-      url = "/social"
+      url = "/social/policies"
       sub = "A better world needs policies that match Nature"
 
 
@@ -502,4 +502,3 @@ pagerSize = 24
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-

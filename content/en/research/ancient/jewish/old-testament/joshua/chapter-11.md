@@ -3,7 +3,7 @@ heading: Joshua 11
 title: "The Hazorites Fight Back amd Get Destroyed"
 description: "Jabin king of Hazor heard of the success of Joshua"
 weight: 24
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

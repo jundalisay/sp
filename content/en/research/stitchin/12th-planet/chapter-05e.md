@@ -1,7 +1,9 @@
 ---
 heading: Chapter 5e
 title:  "Enoch"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "The Old Testament also reports that the prophet Elijah did not die on Earth"
 weight: 36
 ---

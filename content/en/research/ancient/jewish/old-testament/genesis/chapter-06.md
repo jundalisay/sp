@@ -3,7 +3,7 @@ heading: Genesis 6
 title: "Building Noah's Ark"
 description: "The sons of Enlil saw that the daughters of men were fair. So they took them as wives"
 weight: 10
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

@@ -6,7 +6,7 @@ date: 2020-12-27
 weight: 34
 image: "/graphics/physics/math.jpg" 
 description: "Qualimath is Math for operating on Qualities instead of Quantities"
-icon: /icons/sp.png
+icon: "Superphysics"
 math: true
 writer:
   name: Juan
@@ -61,7 +61,7 @@ This is a combination of the ideas from:
 
 
 
-{{< q a="Descartes" c="Principia Philosophia Part 4, Article 202" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia Part 4, Article 202" >}}
 I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
 {{< /q >}}
 
@@ -70,7 +70,7 @@ I deny the existence of gravity inside any body. Gravity is a quality that depen
 
 We call this Cartesian **relationality**, which depends on point of view:
 
-{{< q a="Descartes" c="Principia Philosophia Part 3, Article 13" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia Part 3, Article 13" >}}
 Imagine a ship being carried out to sea. A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these. On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another. If the earth moves from west to east exactly as the ship moves from east to west, we again say that the person at the stern does not change his place. This is because his place will be determined by certain immovable points in the heavens. 
 {{< /q >}}
 
@@ -143,7 +143,6 @@ We notate this as `(State 1 * action) :: State 2`, deconstructed as `(17 * 19) :
 
 We use Egyptian Math, as Al-Khwarizmis algorithms, to deconstruct `17` (State 1) into its doubles as a ratio of the doubles of `19` (action).
 
-{{< youtube wciL_yCmZe8 >}}
 
 
 State 1: 17 | Action: 19 
@@ -153,6 +152,8 @@ State 1: 17 | Action: 19
 4 | 76
 8 | 152
 **16** | **304**
+
+{{< youtube wciL_yCmZe8 >}}
 
 
 We use State 1 as the focus and add the corresponding values in the `action`* to get State 2 as `323`**. 
@@ -173,7 +174,7 @@ Here, the smaller number is put before the larger. In case of multiple multiplie
 This use of states, foci, and arrangements greatly simplifies math instead of making it boring and burdensome.  
 
 
-{{< q a="Descartes" c="Method of Reasoning and seeking Truth in the Sciences Simplified, Part 2" >}}
+{{< q a="Rene Descartes" c="Method of Reasoning and seeking Truth in the Sciences Simplified, Part 2" >}}
 Modern algebra has so many certain rules and formulas that it is full of confusion and obscurity that embarrasses instead of cultivating the mind.
 {{< /q >}}
 

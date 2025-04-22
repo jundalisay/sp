@@ -1,7 +1,9 @@
 ---
 heading: Chapter 11c
 title: "African Gold: Ophir and Zambezi"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "The Old Testament recognized the land of Ophir, which was probably in Africa, as a source of gold in antiquity"
 weight: 70
 ---

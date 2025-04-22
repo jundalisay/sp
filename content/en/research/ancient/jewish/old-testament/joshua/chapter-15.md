@@ -3,7 +3,7 @@ heading: Joshua 15
 title: "The New Borders"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 32
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

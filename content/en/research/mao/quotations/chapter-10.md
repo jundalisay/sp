@@ -5,7 +5,7 @@ weight: 22
 description: The Party committee system is an important Party institution for ensuring collective leadership
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

@@ -70,7 +70,7 @@ But somehow after the Enlightenment, the positive force that countered such shal
 
 <!-- Most people interpret Smith using the current selfish and profit-maximizing mentality, not in the enlightened mentality of Smith's own time. David Hume says that although humans are selfish, human self-interest, when applied with the view of human society (which Smith called ‘fellow-feeling’) instead of the ego (self-love), actually leads to the subsequent foundation of promises (which is a good thing as it leads to trade and helps society prosper): -->
 
-<!-- {{< q a="David-Hume" >}}
+<!-- {{< q a="David Hume" >}}
 “But though this self-interested commerce of man begins to take place, and to predominate in society, it does not entirely abolish the more generous and noble intercourse of friendship and good offices. I may still do services to such persons as I love, and am more particularly acquainted with, without any prospect of advantage” 
 <cite>Hume, Treatise of Human Nature</cite>
 {{< /q >}}

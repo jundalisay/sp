@@ -9,7 +9,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 draft: true
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 plotting a course

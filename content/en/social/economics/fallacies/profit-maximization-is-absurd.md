@@ -25,7 +25,7 @@ So how in the world did it enter and be so fundamental to Economics?
 
 We trace its entry into economic thought through the Marginal Revolution, specifically with William Stanley Jevons who combined John Stuart Mill's flawed utilitarianism philosophy (the pursuit of private pleasure) with Calculus.
 
-{{< q a="Jevons" >}}
+{{< q a="Willam Stanley Jevons" >}}
 PLEASURE and pain are undoubtedly the ultimate objects of the Calculus of Economics. To satisfy our wants to the utmost with the least effort—to procure the greatest amount of what is desirable at the expense of the least that is undesirable—in other words,to maximise pleasure is the problem of Economics. 
 {{< /q >}}
 

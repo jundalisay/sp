@@ -1,7 +1,9 @@
 ---
 heading: Chapter 11e
 title: "The Gods Rebel"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "The Nefilim relied on their scientific knowledge to achieve their mission"
 weight: 70
 ---

@@ -89,13 +89,13 @@ This chain describes the dynamics or motions of an object. It can be really long
 
 We can list this chain as a table, which we derive from Francis Bacon. 
 
-<!-- q a="Francis-Bacon"
+<!-- q a="Francis Bacon"
 Natural and experimental history is so varied and diffuse. It confounds the understanding unless it is fixed and exhibited in due order. We must, therefore, form tables and co-ordinations of instances..
 
 From a given nature, we first present all the known instances which agree in the same nature. This collection must be made as a mere history, without any premature reflection.
 /q -->
 
-{{< q a="Francis-Bacon" >}}
+{{< q a="Francis Bacon" >}}
 Here is an example of the exclusion or rejection of natures found by the tables of review. First we premise that each table, each single instance [row] in it, is enough to reject any nature.  Every a contradictory instance destroys a hypothesis as to the essence [described by that table]. We repeat the exclusive in order to show the use of the tables
 
 n | Rejection | Basis

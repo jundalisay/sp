@@ -48,7 +48,7 @@ Delinquent taxpayers can be prevented from availing of government services until
 
 In David Hume's proposed political system, the basic productive value of citizens is one of the key requisites:
 
-{{< q a="David-Hume" c="Idea Of The Perfect Commonwealth" >}}
+{{< q a="David Hume" c="Idea Of The Perfect Commonwealth" >}}
 Let all the freeholders of £20 a year in the county, and all the householders worth £500 in the town parishes meet annually in the parish church, and vote some freeholder of the county to be the county representative.
 {{< /q >}}
 

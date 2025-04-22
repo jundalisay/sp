@@ -1,6 +1,7 @@
 ---
 title:  "Laying Plans"
-image:  "/covers/war.png"
+c: "maroon"
+author: "Sun Tzu"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
 heading:  "Chapter 1"
 weight: 2

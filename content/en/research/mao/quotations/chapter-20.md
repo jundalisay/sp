@@ -5,7 +5,7 @@ weight: 42
 description: The principle of diligence and frugality should be observed in everything, especially in running factories and shops
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

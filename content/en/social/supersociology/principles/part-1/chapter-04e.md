@@ -6,7 +6,7 @@ description: "Being reasonable means to project one's own ego onto the future as
 date: 2019-02-20
 weight: 20
 image: /photos/psych/facepalm.jpg
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

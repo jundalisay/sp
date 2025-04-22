@@ -9,7 +9,7 @@ description: "Reality has 3 Operational Divisions"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 
@@ -32,7 +32,7 @@ These waves create Existence.
 These disturbances creates pockets of void in Existence. These have to be filled for Existence to have no holes or 'bugs' or errors. These are filled by thinner and subtler waves. 
 
 
-{{< q a="Descartes" c="Dioptrique" >}}
+{{< q a="Rene Descartes" c="Dioptrique" >}}
 Almost all philosophers admit that there is no void in nature. 
 
 All the bodies which we perceive around us have several pores which are necessarily filled with some very subtle and very fluid matter, which I call the 1st Element. This matter extends without interruption from the stars to us.
@@ -48,11 +48,11 @@ For those who are allergic to religion, we can say instead that the aether or 5t
 
 This aether is called substance by 17th century natural philosophy and ancient Greek philosophy. 
 
-{{< q a="Descartes" c="The Description of the Human Body" >}}
+{{< q a="Rene Descartes" c="The Description of the Human Body" >}}
 We see that our soul is a substance distinct from body. We know our soul solely from the fact that it thinks.
 {{< /q >}}
 
-{{< q a="Descartes" c="Meditations on First Philosophy" >}}
+{{< q a="Rene Descartes" c="Meditations on First Philosophy" >}}
 These external ideas and causes are made of substance. A substance is a thing capable of existing independently.
 
 For example, I think that a stone is a substance, and that I am a substance.
@@ -90,7 +90,7 @@ Perception occurs when these nodes of minds interact with each other and with ot
 
 In Cartesian Physics, these are called vortices instead of nodes. 
 
-{{< q a="Descartes" c="Principia Philosophia, Part 3" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 3" >}}
 The Earth and the other planets are carried along by a common vortex, with the Sun at its center and move in the motion of the vortex.
 {{< /q >}}
 

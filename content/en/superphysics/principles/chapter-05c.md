@@ -5,7 +5,7 @@ date: 2023-02-20
 weight: 26
 image: "/graphics/physics/bands.jpg"
 description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

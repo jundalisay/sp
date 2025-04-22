@@ -8,7 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 69
-icon: /icons/sp.png
+icon: "Superphysics"
 aliases:
   /superphysics/fallacies/red-herring
 ---
@@ -145,7 +145,7 @@ An example is:
 
 An easy way to prevent errors is to withhold judgement or conclusions until all the relevent information is obtained. This is explained best by Descartes.
 
-{{< q a="Descartes" >}}
+{{< q a="Rene Descartes" >}}
 Whenever I do not perceive the truth clearly, I simply suspend judgment in order to avoid error.
 {{< /q >}}
 

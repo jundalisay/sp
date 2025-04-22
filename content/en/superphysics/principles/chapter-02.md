@@ -10,7 +10,7 @@ description: "We are inside the Mind of the Supreme Entity, as its thoughts in E
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 <!-- The Microlayers are the quantum subdivisions within the aethereal layer -->

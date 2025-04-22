@@ -1,7 +1,9 @@
 ---
 heading: Chapter 2b
 title:  "The Assyrian Capital Nineveh"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Sir Austen Henry Layard selected as his site a place some 10 miles down the Tigris River from Khorsabad"
 weight: 6
 ---

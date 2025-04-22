@@ -1,11 +1,11 @@
 ---
 title: "The Use of Spies"
-image: "/covers/war.png"
+c: "maroon"
+author: "Sun Tzu"
 description: "The Ground Book"
 heading: "Chapter 3"
 weight: 26
-icon: "Sun Tzu"
-author: "Sun Tzu"
+icon: "Sun Tzu
 ---
 
 

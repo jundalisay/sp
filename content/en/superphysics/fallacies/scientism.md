@@ -7,7 +7,7 @@ description: "We define scientism as the belief that science, with its 5-sense l
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 We define scientism as the belief that science, with its 5-sense limitation, explains all of Nature. 

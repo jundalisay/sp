@@ -5,7 +5,7 @@ weight: 54
 description: We have the Marxist-Leninist weapon of criticism and self-criticism.
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 
@@ -43,7 +43,7 @@ To check up regularly on our work and in the process develop a democratic style 
 
 Opposition and struggle between ideas of different kinds constantly occur within the Party; this is a reflection within the Party of contradictions between classes and between the new and the old in society. If there were no contradictions in the Party and no ideological struggles to resolve them, the Party's life would come to an end.
 
-"On Contradiction" (August 1937), Selected Works, Vol. I, p. 317.
+<cite>"On Contradiction" (August 1937), Selected Works, Vol. I, p. 317.</cite>
 
 We stand for active ideological struggle because it is the weapon for ensuring unity within the Party and the revolutionary organizations in the interest of our fight. Every Communist and revolutionary should take up this weapon. 
 
@@ -94,14 +94,20 @@ We Chinese Communists base all our actions on the highest interests of the Chine
 
 Countless revolutionary martyrs have laid down their lives in the interests of the people, and our hearts are filled with pain as we the living think of them - can there be any personal interest, then, that we would not sacrifice or any error that we would not discard?
 
-"On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 317.*
+<cite>"On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 317.*</cite>
+
+
 We must not become complacent over any success. We should check our complacency and constantly criticize our shortcomings, just as we should wash our faces or sweep the floor every day to remove the dirt and keep them clean.
 
-"Get Organized!" (November 29, 1943), Selected Works, Vol. III. p. 160.*
-As for criticism, do it in good time; don't get into the habit of criticizing only
-after the event.
 
-On the Question of Agricultural Co-operation (July 31, 1955), 3rd ed., p. 25.
+<cite>"Get Organized!" (November 29, 1943), Selected Works, Vol. III. p. 160.*</cite>
+
+
+As for criticism, do it in good time; don't get into the habit of criticizing only after the event.
+
+<cite>On the Question of Agricultural Co-operation (July 31, 1955), 3rd ed., p. 25.</cite>
+
+
 Taught by mistakes and setbacks, we have become wiser and handle our affairs better. It is hard for any political party or person to avoid mistakes, but we should make as few as possible. Once a mistake is made, we should correct it, and the more quickly and thoroughly the better.
 
-"On the People's Democratic Dictatorship" (June 30, 1949), Selected Works, Vol. IV, p. 422.
+<cite>"On the People's Democratic Dictatorship" (June 30, 1949), Selected Works, Vol. IV, p. 422.</cite>

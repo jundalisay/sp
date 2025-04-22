@@ -6,7 +6,7 @@ description: "In 1644, Descartes established a complete theory of gravity, sayin
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 toc: false
 ---
 

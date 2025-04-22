@@ -1,11 +1,10 @@
 ---
 heading: "Semi-Enlightened"
-title: "Sismondi"
+title: "Jean Charles Léonard de Sismondi"
 description: "Sismondi was a socialist economist who treated Economics as beneficence"
-image: /covers/sismondi.jpg
+a: "Sismondi"
+c: "darkgreen"
 # date: 2022-04-25
 weight: 195
-menu:
-  research:
-    identifier: "sismondi"
 ---
+

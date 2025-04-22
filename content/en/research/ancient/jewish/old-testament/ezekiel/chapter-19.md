@@ -3,7 +3,7 @@ heading: Ezekiel 19
 title: "The Mother of Israel"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 46
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

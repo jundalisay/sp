@@ -2,9 +2,11 @@
 heading: "Chapter 4c"
 title: "Protectionist Policies"
 weight: 16
-image: /covers/sismondi.jpg
+c: "darkgreen"
+a: "Sismondi"
+icon: "Sismondi"
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-contributors: ['Sismondi']
+author: ['Sismondi']
 ---
 
  

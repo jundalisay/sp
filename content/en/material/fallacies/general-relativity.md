@@ -65,7 +65,7 @@ Before Einstein and Newton, Rene Descartes already explained how the universe wo
 
 Unlike Newton who viewed space as absolute, Descartes viewed space as relative:
 
-{{< q a="Descartes" c="Principia Philosophia, Part 2, Article 13" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 2, Article 13" >}}
 I assert that all points are movable in the universe. From this, I conclude that nothing has a permanent place unless it is fixed by our thought.
 {{< /q >}}
 
@@ -75,7 +75,7 @@ I assert that all points are movable in the universe. From this, I conclude that
 
 Like Einstein, he denied gravity coming from inside objects. But unlike Einstein's Relativity which needed light, Descartes' Relationality needed only 2 or more identities:
 
-{{< q a="Descartes" c="Principia Philosophia, Part 4, Article 202" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 4, Article 202" >}}
 I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
 {{< /q >}}
 

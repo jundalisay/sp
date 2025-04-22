@@ -105,7 +105,8 @@ He who, after 3 years' observation of the will of his father when alive, or of h
 For the practice of the Rules of Propriety*, one excellent way is to be natural. This naturalness became a great grace in the practice of kings of former times. Everyone, small or great, should be natural like them.
 {{< /r >}}
 
-> *An important part of a education. The text-book, "The Li Ki," contains rules for behavior and propriety for the whole life, from the cradle to the grave.
+
+{{< f f="An important part of a education. The text-book, The Li Ki contains rules for behavior and propriety for the whole life, from the cradle to the grave" >}}
 
 
 {{< l a="Confucius" >}}

@@ -5,7 +5,7 @@ date: 2024-06-02
 weight: 19
 image: "/graphics/super/waves.jpg" 
 description: "The cycle of creation follows Positive Direction"
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -50,7 +50,7 @@ Since desire is a feeling and a feeling is a wave, then the many desires that we
 A person’s mentality then leads to his actions in physical reality.
 
 
-{{< q a="David-Hume" >}}
+{{< q a="David Hume" >}}
 It is an established maxim in metaphysics, that whatever the mind clearly conceives, includes the idea of possible existence, or in other words, nothing we imagine is absolutely impossible.
 <cite>A Treatise of Human Nature, Book 1, Part 2, Section 2</cite>
 {{< /q >}}

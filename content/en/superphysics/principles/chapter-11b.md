@@ -8,7 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 63
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 
@@ -122,12 +122,12 @@ Notice how the Socratic dialectical approach is more laborious and lengthy than 
 
 This laborious method produces a huge dataset that is similar to the "table of existence and presence" described by Francis Bacon:
 
-{{< q a="Francis-Bacon" >}}
+{{< q a="Francis Bacon" >}}
 The investigation of forms proceeds thus from a given nature, we first present to the understanding all the known instances which agree in the same nature, even if the subject matter is considerably diversified. This collection must be made as a mere history, without any premature reflection.
 {{< /q >}}
 
 
-{{< q a="Francis-Bacon" >}}
+{{< q a="Francis Bacon" >}}
 For instance, take the investigation of the form of heat. Instances agreeing in the Form of Heat:
 1. The rays of the sun, particularly in summer, and at noon.
 2. The same reflected and condensed, as between mountains, or along walls, and particularly in burning mirrors.

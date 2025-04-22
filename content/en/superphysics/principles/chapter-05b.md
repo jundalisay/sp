@@ -5,7 +5,7 @@ date: 2024-05-20
 weight: 25
 image: "/photos/tech/phone.jpg"
 description: "Our principles are therefore derived from the perceived changes in state."
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -6,7 +6,7 @@ description: "The core of the Absurdist Philosophy is the belief that 'life has 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 draft: true
 ---
 

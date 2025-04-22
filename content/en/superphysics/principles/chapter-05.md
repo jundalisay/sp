@@ -5,7 +5,7 @@ date: 2020-12-29
 weight: 24
 image: "/photos/objects/apples.jpg"
 description: "Why you only have 1 idea at a time"
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -20,7 +20,7 @@ The Conservation Law for the Spatial Layer is the Conservation of Momentum.
 - This states that total momentum of a system remains constant when no external forces act on the system. 
 
 
-{{< q a="Descartes" c="The World, Chapter 13" >}}
+{{< q a="Rene Descartes" c="The World, Chapter 13" >}}
 A body that 'tends' towards some direction does not mean that there is a thought or desire inside the body that carries it there. Instead, it means that it is **disposed** to move there and that there is something **preventing** it.
 {{< /q >}}
 

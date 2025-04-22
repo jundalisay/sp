@@ -1,7 +1,9 @@
 ---
 heading: Chapter 7d
 title:  "After Marduk's Battle with Tiamat"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "The roles of, and references to, Tiamat and Earth appear to be interchangeable"
 weight: 50
 ---

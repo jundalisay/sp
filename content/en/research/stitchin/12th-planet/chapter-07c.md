@@ -1,7 +1,9 @@
 ---
 heading: Chapter 7c
 title:  "The Planets"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "LAHMU and LAHAMU are male and female names, respectively."
 weight: 50
 ---

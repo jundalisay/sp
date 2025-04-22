@@ -3,7 +3,7 @@ heading: Joshua 4
 title: "The 12 Stones"
 description: "The Israelites did so as Joshua commanded, and took up 12 stones out of the middle of the Jordan river"
 weight: 10
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

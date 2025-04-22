@@ -1,6 +1,7 @@
 ---
-title: "Book 2: Exodus"
+title: "Exodus"
 description: "The Annunaki Old Testament replaces God with Enlil"
 weight: 4
-image: "/covers/old.jpg"
+heading: Book 2
+c: "maroon"
 ---

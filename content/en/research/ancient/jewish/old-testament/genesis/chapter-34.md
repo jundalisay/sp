@@ -3,7 +3,7 @@ heading: Genesis 34
 title: "Simeon and Levi Betray Hamor"
 description: "Dinah was the daughter of Leah and Jacob"
 weight: 50
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

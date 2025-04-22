@@ -32,7 +32,7 @@ Using `c` therefore locks in space and time. We call this the **Einstein Trap** 
 
 We break this trap by using Descartes' Relationality in  to simplify reference frames into 'viewspaces' and observers as 'viewpoints'.
 
-{{< q a="Descartes" c="Principia Philosophia Part 2, Articles 13-15" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia Part 2, Articles 13-15" >}}
 A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these.
 
 On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another.
@@ -47,7 +47,7 @@ I assert that all points are movable in the universe. From this, I conclude that
 
 We then replace linear Minkowski spacetime with Cartesian spacetime slices, and the arrow of time with a timespace particle.
 
-{{< q a="Descartes" c="Meditations, Part 3" >}}
+{{< q a="Rene Descartes" c="Meditations, Part 3" >}}
 A lifespan can be divided into countless parts, each completely independent of the others.. The nature of time is different in the time for bringing something into existence, and the time needed to keep a thing existing.      
 {{< /q >}}
 

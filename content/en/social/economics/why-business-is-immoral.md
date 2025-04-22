@@ -40,9 +40,9 @@ The immorality in business is best explained by using David Hume's technique of 
 Business is defined as the activity of making, buying, or selling goods or providing services in exchange for money. The problem is that **money is merely a number and does not have any quality attached to it**. The only action that our minds can do on numbers is to connect them to each other: the idea of `1` connected to another `1` through another idea of addition which logically leads to the new idea of `2`. 
 
 The qualities or ideas of goodness and 'badness' have no chance to enter this stream of ideas. A computer can output big numbers better than any human, but they are incapable of moral judgements unless qualities are added onto those numbers.
-David-Hume
+David Hume
 
-{{< q a="David-Hume" c="Treatise of Human Nature Simplified" >}}
+{{< q a="David Hume" c="Treatise of Human Nature Simplified" >}}
 Morals excite passions and produce or prevent actions. Reason is utterly impotent in this.The rules of morality therefore, are not conclusions of our reason.
 {{< /q >}}
 
@@ -66,7 +66,7 @@ Morality might not enter money and numbers, but it surely enters agreements, as 
 
 <!-- By using the word ‘promise’, he subjects himself to the penalty of never being trusted again in case of failure..  -->
 
-{{< q a="David-Hume" c="A Treatise of Human Nature by David Hume Simplified" >}}
+{{< q a="David Hume" c="A Treatise of Human Nature by David Hume Simplified" >}}
 To distinguish the interested commerce* from the disinterested one, the interested commerce is called a promise. A promise is the sanction of the interested commerce of mankind. When a man promises anything, he expresses a resolution to perform it. 
 
 Interest is the first obligation to the performance of promises. Afterwards, a sentiment of morals concurs with interest, and becomes a new obligation on mankind..This sentiment of morality in the performance of promises, arises from the same principles as the sentiment in the abstinence from the property of others..

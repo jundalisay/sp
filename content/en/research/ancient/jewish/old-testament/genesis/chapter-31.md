@@ -3,7 +3,7 @@ heading: Genesis 31
 title: "Jacob and Laban"
 description: "Jacob heard the words of Laban’s sons"
 weight: 50
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

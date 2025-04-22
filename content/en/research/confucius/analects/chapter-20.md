@@ -11,15 +11,21 @@ c: "maroon"
 
 
 
-Emperor Yau to Shun: Ah, upon you lies the Heaven-appointed order of succession!
+Emperor Yau to Shun: 
 
-Faithfully hold to it, without any deflection.
 
-For if within the four seas necessity and want befall the people, your own revenue will forever come to an end.
+{{< l a="Emperor Yau" >}}
+On you lies the Heaven-appointed order of succession!
+
+Faithfully hold to it, without any deflection. For if within the 4 seas necessity and want befall the people, your own revenue will forever come to an end.
 
 Shun also used the same language in handing down the appointment to Yu.
+{{< /l >}}
 
-Emperor T'ang in his prayer=  I, the child Li, presume to avail me of an ox of dusky hue, and presume to manifestly announce to God that to the transgressor I dare not grant forgiveness, nor yet keep in abeyance Thy ministers.
+
+Emperor T'ang in his prayer:
+
+I, the child Li, presume to avail me of an ox of dusky hue, and presume to manifestly announce to God that to the transgressor I dare not grant forgiveness, nor yet keep in abeyance Thy ministers.
 
 Judgment rests in Thine heart, O God.
 

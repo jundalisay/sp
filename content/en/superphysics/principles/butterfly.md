@@ -9,7 +9,7 @@ description: The Butterfly Effect is a consequence of the unseen aethereal patte
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 draft: true
 ---
 

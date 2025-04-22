@@ -48,7 +48,7 @@ Cartesian Physics calls gravity as 'slings' that ties 2 identities together.
 
 These slings is really the relation between 2 objects. 
 
-{{< q a="Descartes" c="Principia Philosophia, Part 4, Article 202" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 4, Article 202" >}}
 Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
 {{< /q >}}
 

@@ -7,7 +7,7 @@ date: 2020-01-02
 weight: 13
 image: /graphics/super/existence.jpg
 description: "Everything in existence is created by the two forces"
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -45,7 +45,7 @@ Therefore, our concept of Pre-Existence serves as an instant “sink” that wil
 {{< i s="/graphics/super/existence.jpg" a="Existence" c="The Absolute can be viewed as the holder for Existence, or the central point of Existence, with Existence being the Supreme Entity" >}}
 
 
-{{< q a="Descartes" c="Principia Philosophia Part 1, Article 26" >}}
+{{< q a="Rene Descartes" c="Principia Philosophia Part 1, Article 26" >}}
 We will thus never enter disputes about the infinite. This is because we are finite. It would be absurd for us to try to determine the infinite.
 {{< /q >}}
 

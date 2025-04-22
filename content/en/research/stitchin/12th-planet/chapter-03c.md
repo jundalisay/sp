@@ -1,7 +1,9 @@
 ---
 heading: Chapter 3c
 title:  "The Vedas"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Hinduism considers the Vedas—compositions of hymns, sacrificial formulas, and other sayings pertaining to the gods"
 weight: 18
 ---

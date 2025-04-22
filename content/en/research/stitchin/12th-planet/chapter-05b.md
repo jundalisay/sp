@@ -1,7 +1,9 @@
 ---
 heading: Chapter 5b
 title:  "Sodom and Abrahan"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"
 weight: 32
 ---

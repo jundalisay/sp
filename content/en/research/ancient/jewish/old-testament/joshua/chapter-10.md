@@ -3,7 +3,7 @@ heading: Joshua 10
 title: "Joshua Takes Makkedah"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 22
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

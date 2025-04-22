@@ -3,7 +3,7 @@ heading: Ezekiel 3
 title: "Ezekiel Eats A Book and Becomes Unable to Speak"
 description: "Son of man, eat this roll of book, and go speak to the Israelites"
 weight: 8
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 {{< n n="Enki is having a tough time bringing the Israelites to his side as they have sided with Enlil, after falling to the Assyrians who are allied with Enlil">}}

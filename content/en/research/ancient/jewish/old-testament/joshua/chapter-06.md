@@ -3,7 +3,7 @@ heading: Joshua 6
 title: "The Fall of Jericho"
 description: "Jericho was straitly shut up because of the Israelites: none went out, and none came in"
 weight: 14
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

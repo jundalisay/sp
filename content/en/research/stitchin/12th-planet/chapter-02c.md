@@ -1,7 +1,9 @@
 ---
 heading: Chapter 2c
 title:  "The Discovery of the Sumerian Civilization"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "There must have been civilizations in Mesopotamia even before the 3rd millennium B.C."
 weight: 7
 ---

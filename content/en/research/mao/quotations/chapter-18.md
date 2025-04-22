@@ -5,7 +5,7 @@ weight: 38
 description: The specific content of patriotism is determined by historical conditions.
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 

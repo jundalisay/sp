@@ -10,7 +10,7 @@ description: "The Cartesian View plots the movement in the physical and metaphys
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 aliases:
   /material/solutions/cartesian-view/
 ---
@@ -48,7 +48,7 @@ To explain metaphysical phenomena, humans have invented philosophy, religion, an
 Science brands their explanations as pseudo-science, as if science and the physical domain (where matter resides) were superior to the metaphysical (where spirit and the aether reside).
 
 
-{{< q a="Descartes" c="Principles of Philosophy, Part 2, Article 9" >}}
+{{< q a="Rene Descartes" c="Principles of Philosophy, Part 2, Article 9" >}}
 People who distinguish substance from size or number actually do not know what incorporeal substance means. They think that substance is physical. 
 
 They thus think that a corporeal substance has a [metaphysical] size [when it really is a monad or point-particle]. And so they express something quite different from what they comprehend in their mind.

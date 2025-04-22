@@ -38,7 +38,7 @@ This physical universe is the subject of study of Material Superphysics just as 
 <!-- , and the Absolute Entity is the subject of Metaphysics.   -->
 
 
-{{< q a="Descartes" c="Principles of Philosophy, Preface" >}}
+{{< q a="Rene Descartes" c="Principles of Philosophy, Preface" >}}
 All Philosophy is like a tree.
 - Metaphysics is the root
 - Physics the trunk
@@ -57,7 +57,7 @@ The subdivision of Superphysics into 3 matches the division made by Descartes:
 3. Social Superphysics -->
 
 
-{{< q a="Descartes" c="Principles of Philosophy, Preface" >}}
+{{< q a="Rene Descartes" c="Principles of Philosophy, Preface" >}}
 There are 3 principal sciences:
 1. Medicine
 2. Mechanics

@@ -4,7 +4,7 @@ title: "The Fallacy of 'Microvita Jumps' by Time Travel"
 date: 2022-01-20
 image: "/photos/med/covid.jpg"
 description: "Rudolph and Vimalananda interpret Sarkar literally"
-icon: /icons/sp.png
+icon: "Superphysics"
 draft: true
 ---
 

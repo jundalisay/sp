@@ -6,7 +6,7 @@ description: "David Hume's philosophy is based on impressions and ideas"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

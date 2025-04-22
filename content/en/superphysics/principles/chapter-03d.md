@@ -5,7 +5,7 @@ date: 2020-01-02
 weight: 16
 image: /graphics/psych/horse.jpg
 description: "Everything in existence is created by the two forces"
-icon: /icons/sp.png
+icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

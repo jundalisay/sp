@@ -1,6 +1,6 @@
 ---
 title: "Yang Mills Theory"
 description: ""
-image: "/covers/yang.png"
+c: "maroon"
 weight: 990
 ---

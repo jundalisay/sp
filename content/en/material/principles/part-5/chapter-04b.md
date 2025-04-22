@@ -17,7 +17,7 @@ toc: false
 In Cartesian Physics, each of the elements is a mere version or modification of the aethereal substance. 
 
 
-{{< q a="Descartes" >}}
+{{< q a="Rene Descartes" >}}
 Every other thing that can be attributed to body, presupposes extension [metaphysical space], and is only some mode of an extended thing [metaphysical object] just as all the properties we discover in the mind are only diverse modes of thinking.
 {{< /q >}}
 

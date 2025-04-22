@@ -9,7 +9,7 @@ description: "Superphysics unifies Physics and Metaphysics to solve the problems
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/sp.png
+icon: "Superphysics"
 ---
 
 

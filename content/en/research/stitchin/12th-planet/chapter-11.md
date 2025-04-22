@@ -1,7 +1,9 @@
 ---
 heading: Chapter 11
 title:  "The Mutiny of the Anunnaki"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"
 weight: 68
 ---

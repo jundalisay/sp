@@ -5,7 +5,7 @@ weight: 46
 description: It is man's social being that determines his thinking.
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"
-icon: /icons/mao.png
+icon: "Mao Zedong"
 ---
 
 
@@ -17,7 +17,7 @@ In the fields of the struggle for production and scientific experiment, mankind 
 
 Ideas of stagnation, pessimism, inertia and complacency are all wrong. They are wrong because they agree neither with the historical facts of social development over the past million years, nor with the historical facts of nature so far known to us (i.e., nature as revealed in the history of celestial bodies, the earth, life, and other natural phenomena).
 
-Quoted in "Premier Chou Enlai's Report on the Work of the Government to the First Session of the Third National People's Congress of the People's Republic of China " (December 21-22, 1964).
+<cite>Quoted in "Premier Chou Enlai's Report on the Work of the Government to the First Session of the Third National People's Congress of the People's Republic of China " (December 21-22, 1964).</cite>
 
 Natural science is one of man's weapons in his fight for freedom. For the purpose of attaining freedom in society, man must use social science to understand and change society and carry out social revolution.
 
@@ -49,8 +49,7 @@ It is man's social being that determines his thinking. Once the correct ideas ch
 
 In their social practice, men engage in various kinds of struggle and gain rich experience, both from their successes and from their failures. 
 
-Countless phenomena of the objective external world are reflected in a man's brain through his five sense organs - the organs of sight, hearing, smell, taste and
-touch. At first, knowledge is perceptual. 
+Countless phenomena of the objective external world are reflected in a man's brain through his five sense organs - the organs of sight, hearing, smell, taste and touch. At first, knowledge is perceptual. 
 
 The leap to conceptual knowledge, i.e., to ideas, occurs when sufficient perceptual knowledge is accumulated.
 
@@ -69,7 +68,9 @@ Man's knowledge makes another leap through the test of practice. This leap is mo
 
 
 Often, correct knowledge can be arrived at only after many repetitions of the process leading from matter to consciousness and then back to matter, that is, leading from practice to knowledge and then back to practice. Such is the Marxist theory of knowledge, the dialectical materialist theory of knowledge.
-Ibid., P. 3.*
+
+<cite>Ibid., P. 3.*</cite>
+
 
 Whoever wants to know a thing has no way of doing so except by coming into contact with it, that is, by living (practising) in its environment… If you want knowledge, you must take part in the practice of changing reality. 
 

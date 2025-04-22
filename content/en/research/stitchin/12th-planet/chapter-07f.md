@@ -1,7 +1,9 @@
 ---
 heading: Chapter 7f
 title:  "The Collision with Tiamat"
-image:  "/covers/12th.jpg"
+c: "maroon"
+a: "Zechariah Sitchin"
+icon: "Zechariah Sitchin"
 description: "He was attracted to the solar system by the outermost planet"
 weight: 52
 ---

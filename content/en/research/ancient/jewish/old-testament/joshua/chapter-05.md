@@ -3,7 +3,7 @@ heading: Joshua 5
 title: "Joshua Circumcises the Israelites"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 12
-image: "/covers/old.jpg"
+c: "maroon"
 ---
 
 

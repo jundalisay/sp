@@ -4,7 +4,7 @@ title: "The Fallacy of Darwinian Evolution"
 date: 2022-01-20
 image: "/photos/bio/peacock.jpg"
 description: "Darwin Evolution"
-icon: /icons/sp.png
+icon: "Superphysics"
 draft: true
 ---
 
