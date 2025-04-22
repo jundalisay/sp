@@ -3,9 +3,9 @@ heading: "Section 2l"
 title: The Law of Universal Attraction
 #@ title: "Specific Law and General Law"
 description: In contrast, then, with determinate laws stands universal attraction, or the bare conception of law. In so far as this pure conception is looked on as the essentially real, or as the true inner being, the determinateness characterizing the specific law itself belongs still to the sphere of appearance, or rather to sensible existence.
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
-icon: /avatars/hegel.png
+icon: "Hegel"
 weight: 40
 ---
 

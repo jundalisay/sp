@@ -3,7 +3,7 @@ heading: "Chapter 7"
 title: "Shi"
 description: "Qian represents what is great and originating, penetrating, advantageous, correct and firm"
 weight: 16
-image: "/covers/iching.png"
+c: "darkblue"
 date: 2025-01-02
 ---
 

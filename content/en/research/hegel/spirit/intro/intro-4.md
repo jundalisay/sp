@@ -2,9 +2,9 @@
 heading: Introduction Part 4
 title: Hegelian Dialectics
 description: Consciousness executes this dialectic process on itself
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
-icon: /avatars/hegel.png
+icon: "Hegel"
 weight: 9
 ---
 

@@ -3,7 +3,7 @@ heading: Chapter 8
 title: "Utmost Sincerity"
 weight: 20
 description: "In the distant past, there was a Buddha called Sacanama, the Samyak-Saṁbuddha, Unsurpassed One, Teacher to Gods and Men"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

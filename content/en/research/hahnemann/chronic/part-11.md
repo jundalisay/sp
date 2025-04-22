@@ -4,7 +4,7 @@ title: "Cases of Itch"
 description: "A girl had a violent eruption of itch on the legs, with large ulcers in the bend of the knee. Being attacked with smallpox the itch was suppressed."
 author: Samuel Hahnemann
 weight: 28
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

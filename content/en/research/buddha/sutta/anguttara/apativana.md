@@ -2,7 +2,7 @@
 title: "Appativana Sutta"
 weight: 6
 description: "The Appativana Sutta is about relentless effort and unshakeable determination"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

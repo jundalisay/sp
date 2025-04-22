@@ -4,7 +4,7 @@ title: "The Nature of Chronic Diseases"
 description: ""
 author: Samuel Hahnemann
 weight: 36
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

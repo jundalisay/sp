@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "The Questions"
 weight: 4
 description: "Buddha was in the Karaṇḍa Bamboo Garden of the city of Rājagṛha, together with many great Bodhisattvas, bhikṣus, bhikṣuṇīs, upāsakas, and upāsikās"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 <!-- Pratyutpanna Buddha Sammukhāvasthita Samādhi -->

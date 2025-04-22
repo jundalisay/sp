@@ -2,7 +2,7 @@
 heading: "Section 5e"
 title: "Matter is not a thing that exists"
 description: To the consciousness observing, the truth of the law is given in experience
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
 weight: 9
 ---

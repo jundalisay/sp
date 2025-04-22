@@ -3,7 +3,7 @@ heading: Rule 15
 title: Describe these figures and present them to external senses
 weight: 20
 description: It is also very helpful to describe these figures and present them to external senses, so that by this means our thought may more easily retain attention
-image: "/covers/rules.jpg"
+c: "darkblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "Yamakavagga: Pairs"
 weight: 4
 description: "Siddhartha Gautama was a prince turned ascetic. Here are discourses from the Tipitaka and other sutras"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 author: "Buddha"
 icon: "Buddha"
 ---

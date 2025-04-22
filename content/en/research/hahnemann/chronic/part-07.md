@@ -4,7 +4,7 @@ title: "Ludwig Christian Juncker"
 description: "A brief survey of the misfortunes resulting is given by the experienced and honest Ludwig Christian Juncker"
 author: Samuel Hahnemann
 weight: 20
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

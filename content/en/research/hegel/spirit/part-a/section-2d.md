@@ -3,9 +3,9 @@ heading: "Section 2d"
 title: Being One and the Other
 # title: "The Contradictoriness of the Perception of 'Things'"
 description: I am aware of the 'thing' as a one and have to keep it fixed in this true character as 'one'
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
-icon: /avatars/hegel.png
+icon: "Hegel"
 weight: 20
 ---
 

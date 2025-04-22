@@ -3,7 +3,7 @@ heading: "Chapter 9"
 title: "Xiao Xu"
 description: "Qian represents what is great and originating, penetrating, advantageous, correct and firm"
 weight: 20
-image: "/covers/iching.png"
+c: "darkblue"
 date: 2025-01-02
 ---
 

@@ -2,7 +2,7 @@
 title: "The Divisions of Logic"
 weight: 6
 description: "People say that logic has 2 main parts -- The theory of elements and Methodology"
-image: /covers/science.png
+c: "darkblue"
 author: Hegel
 ---
 

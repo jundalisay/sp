@@ -2,7 +2,7 @@
 title: "Bala-pandita, Abhasita, Neyyatha, Vijja-bhagiya Sutras"
 weight: 6
 description: "Ekamsena Sutta: Categorically"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

@@ -3,8 +3,8 @@ title: "The Isolating of These Abstractions"
 weight: 7
 description: "It was the Eleatics who first enunciated the simple thought of pure being as the sole truth"
 author: Hegel
-icon: /avatars/hegel.png
-image: /covers/science.png
+icon: "Hegel"
+c: "darkblue"
 ---
 
 

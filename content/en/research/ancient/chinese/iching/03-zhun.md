@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "Zhun"
 description: "Qian represents what is great and originating, penetrating, advantageous, correct and firm"
 weight: 8
-image: "/covers/iching.png"
+c: "darkblue"
 date: 2024-06-29
 ---
 

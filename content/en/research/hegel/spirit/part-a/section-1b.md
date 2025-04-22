@@ -3,9 +3,9 @@ heading: "Section 1b"
 title: "The Duality of Existence: Universal and Instance"
 # title: "Certainty at the Level of Sense Experience – “This” and “Meaning"
 description: The fundamental difference is that in our perceptions (sense-experience), pure being immediately breaks up into the 2 “thises”
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
-icon: /avatars/hegel.png
+icon: "Hegel"
 weight: 6
 ---
 

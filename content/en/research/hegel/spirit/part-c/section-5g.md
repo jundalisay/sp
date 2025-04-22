@@ -3,7 +3,7 @@ heading: "Section 5g"
 title: Observation of Organic Nature
 # title: "Observation of Organic Nature"
 description: Reason has apprehended the concept of purpose in consciousness, which was given to it by rational observation.
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
 weight: 11
 ---

@@ -4,7 +4,7 @@ title: "Chronic Miasms as the Origin of Diseases"
 description: "They must therefore all have originate from constant chronic miasms. These enable their parasitical existence in the human"
 author: Samuel Hahnemann
 weight: 14
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

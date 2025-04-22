@@ -2,7 +2,7 @@
 title: "Kalama Sutra"
 weight: 16
 description: "The Instruction to the Kalamas"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

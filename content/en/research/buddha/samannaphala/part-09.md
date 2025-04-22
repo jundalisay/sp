@@ -3,7 +3,7 @@ heading: Part 9
 title: "Supranormal or Occult Powers"
 weight: 22
 description: "The monk directs and inclines his mind to the knowledge of the ending of the mental fermentations"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

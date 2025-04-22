@@ -3,7 +3,7 @@ heading: Part 7
 title: "Sense Restraint"
 weight: 18
 description: "How does a monk guard the doors of his senses?"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

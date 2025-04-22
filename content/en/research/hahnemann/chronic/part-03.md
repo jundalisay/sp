@@ -4,7 +4,7 @@ title: "What is a Psora?"
 description: "A Psora is an internal foe that causes itch-diseases"
 author: Samuel Hahnemann
 weight: 12
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

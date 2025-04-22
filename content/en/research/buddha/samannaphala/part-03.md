@@ -3,7 +3,7 @@ heading: Part 3
 title: "The Benefit of Spirital Life as Non-relatedness, Restraint, and Evasion"
 weight: 10
 description: "Abhidhamma Pitaka reorganizes the Sutta Pitaka into a systematic framework."
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

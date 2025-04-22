@@ -3,7 +3,7 @@ heading: Part 1
 title: "What are the Visible Bemefits of Spiritual Life?"
 weight: 4
 description: "The King asks the Buddha, What are the Visible Bemefits of Spiritual Life?"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

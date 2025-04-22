@@ -4,7 +4,7 @@ title: "Cases of Itch"
 description: "A 7 month old baby boy was seized with epilepsy. The parents were unwilling to acknowledge that he had had the itch"
 author: Samuel Hahnemann
 weight: 34
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

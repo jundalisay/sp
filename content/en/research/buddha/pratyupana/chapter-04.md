@@ -3,7 +3,7 @@ heading: Chapter 4
 title: "The Analogies"
 weight: 10
 description: "Bodhisattvas who have attained this samādhi but do not progress energetically are like those who are shipwrecked midway"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

@@ -4,7 +4,7 @@ title: "Cases of Itch"
 description: "A 3-year-old girl had the itch, for several weeks. When this was driven out by an ointment"
 author: Samuel Hahnemann
 weight: 24
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

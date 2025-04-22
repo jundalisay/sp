@@ -3,7 +3,7 @@ heading: Chapter 7
 title: "Arahantavagga: The Arahant or Perfected One"
 weight: 14
 description: "Siddhartha Gautama was a prince turned ascetic. Here are discourses from the Tipitaka and other sutras"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

@@ -4,8 +4,8 @@ title: "Renark:The Ought"
 weight: 10
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
 author: Hegel
-icon: /avatars/hegel.png
-image: /covers/science.png
+icon: "Hegel"
+c: "darkblue"
 ---
 
 

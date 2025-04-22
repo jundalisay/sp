@@ -3,7 +3,7 @@ heading: Chapter 7
 title: "Sympathetic Joy"
 weight: 16
 description: "Bodhisattvas can think four thoughts to kindle their sympathetic joy in order to attain this samādhi"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

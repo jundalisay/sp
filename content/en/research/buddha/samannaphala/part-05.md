@@ -3,7 +3,7 @@ heading: Part 5
 title: "The Higher Bemefits of Spiritual Life"
 weight: 14
 description: "The King asks the Buddha, What are the Higher Bemefits of Spiritual Life?"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

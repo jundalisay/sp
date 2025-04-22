@@ -4,8 +4,8 @@ title: "Remark on Reflection"
 weight: 6
 description: "Essence issues from being. Hence it is not immediately in and for itself but is a result of that movement. "
 author: Hegel
-icon: /avatars/hegel.png
-image: /covers/science.png
+icon: "Hegel"
+c: "darkblue"
 ---
 
 

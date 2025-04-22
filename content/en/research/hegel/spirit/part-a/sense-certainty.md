@@ -1,9 +1,9 @@
 ---
 title: "Sensuous-certainty; or the “this” and meaning something"
 description: Here we de-complicate Hege
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
-icon: /avatars/hegel.png
+icon: "Hegel"
 weight: 600
 ---
 

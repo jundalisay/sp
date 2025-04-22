@@ -4,7 +4,7 @@ title: Absolute and Relative
 # --- We should observe what is most simple
 weight: 10
 description: The entire method consists in the order and arrangement of those things to which the focus of the mind should be directed, so that we may discover some truth
-image: "/covers/rules.jpg"
+c: "darkblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

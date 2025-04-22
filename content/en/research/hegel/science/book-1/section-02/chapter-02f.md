@@ -4,8 +4,8 @@ title: "Remark 2: The Purpose of the Differential Calculus Deduced from its Appl
 weight: 18
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
 author: Hegel
-icon: /avatars/hegel.png
-image: /covers/science.png
+icon: "Hegel"
+c: "darkblue"
 ---
 
 

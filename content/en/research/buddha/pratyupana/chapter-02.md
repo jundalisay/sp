@@ -3,7 +3,7 @@ heading: Chapter 2
 title: "The Training"
 weight: 6
 description: "If Bodhisattvas aspire to attain this samādhi quickly, they should stand in great faith"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 The Buddha told Bhadrapāla, 

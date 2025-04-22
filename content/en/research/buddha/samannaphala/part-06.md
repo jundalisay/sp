@@ -3,7 +3,7 @@ heading: Part 6
 title: "The Great Section on Virtue"
 weight: 16
 description: "Abhidhamma Pitaka reorganizes the Sutta Pitaka into a systematic framework."
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

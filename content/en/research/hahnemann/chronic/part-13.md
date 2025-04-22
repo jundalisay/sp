@@ -4,7 +4,7 @@ title: "Cases of Itch"
 description: ""
 author: Samuel Hahnemann
 weight: 32
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

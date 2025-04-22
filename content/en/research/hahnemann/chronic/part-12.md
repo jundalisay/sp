@@ -4,7 +4,7 @@ title: "Cases of Itch"
 description: "A woman of 43 years, long afflicted with dry itch, rubbed her joints with an ointment of Sulphur and Mercury, and thus drove it off; this was followed by pains under the right ribs, lassitude in all the limbs, heat and feverish irritation"
 author: Samuel Hahnemann
 weight: 30
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

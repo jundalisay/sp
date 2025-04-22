@@ -2,9 +2,9 @@
 heading: "Section 2b"
 title: "The Moments of Perception"
 description: Immediate certainty does not make the truth its own, for its truth is something universal, whereas certainty wants to deal with the This.
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
-icon: /avatars/hegel.png
+icon: "Hegel"
 weight: 16
 ---
 

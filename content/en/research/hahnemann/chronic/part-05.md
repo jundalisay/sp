@@ -4,7 +4,7 @@ title: "The History of Psora"
 description: "The external manifestations of Psora on the skin were often so quickly suppressed that the history of itch infection remains undiscovered"
 author: Samuel Hahnemann
 weight: 16
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

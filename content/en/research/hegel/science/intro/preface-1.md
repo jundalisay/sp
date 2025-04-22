@@ -2,7 +2,7 @@
 title: "Preface to the First Edition"
 weight: 2
 description: "Science of Logic"
-image: /covers/science.png
+c: "darkblue"
 ---
 
 

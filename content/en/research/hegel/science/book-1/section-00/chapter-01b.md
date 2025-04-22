@@ -3,8 +3,8 @@ title: "Logic as a Metaphysical science"
 weight: 3
 description: "It is pure [metaphysical] knowledge in the entire range of its development"
 author: Hegel
-icon: /avatars/hegel.png
-image: /covers/science.png
+icon: "Hegel"
+c: "darkblue"
 ---
 
 

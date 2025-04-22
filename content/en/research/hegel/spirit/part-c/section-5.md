@@ -2,7 +2,7 @@
 heading: "Section 5"
 title: "Consciousness and Synthesis"
 description: Truth appears in the process of synthesis
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
 weight: 4
 ---

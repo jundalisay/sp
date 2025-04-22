@@ -3,7 +3,7 @@ heading: Rule 14
 title: Naked shapes to the imagination
 weight: 18
 description: The same principles that are used for transferring real extension of bodies should also be proposed entirely through naked figures to the imagination
-image: "/covers/rules.jpg"
+c: "darkblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

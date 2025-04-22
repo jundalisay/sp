@@ -4,7 +4,7 @@ title: "Vaccination"
 description: ""
 author: Samuel Hahnemann
 weight: 38
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

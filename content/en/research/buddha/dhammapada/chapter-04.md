@@ -3,7 +3,7 @@ heading: Chapter 4
 title: "Pupphavagga: Flowers"
 weight: 8
 description: "Siddhartha Gautama was a prince turned ascetic. Here are discourses from the Tipitaka and other sutras"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 author: "Buddha"
 icon: "Buddha"
 ---

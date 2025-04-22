@@ -2,7 +2,7 @@
 heading: "Section 4h"
 title: "Stoicism"
 description: The subject of philosophy is the actual knowledge of what truly is.
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
 weight: 20
 ---

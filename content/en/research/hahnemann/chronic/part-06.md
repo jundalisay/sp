@@ -4,7 +4,7 @@ title: "How Coffee Has Increased the Number of Mental Diseases"
 description: "My little work The Effects of Coffee, Die Wirkungen des Kaffee's 1803, explains the bodily and mental sufferings caused by coffee"
 author: Samuel Hahnemann
 weight: 18
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

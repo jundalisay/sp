@@ -4,7 +4,7 @@ title: "When Should Homeopathy Be Used?"
 description: "Why did thousands of endeavors to heal the other chronic diseases fail?"
 author: Samuel Hahnemann
 weight: 10
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

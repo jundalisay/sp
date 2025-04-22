@@ -3,7 +3,7 @@ heading: Part 8
 title: "The Four Jhanas"
 weight: 20
 description: "Quite withdrawn from sensuality, withdrawn from unskillful mental qualities, he enters and remains in the first jhana"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

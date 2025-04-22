@@ -1,8 +1,9 @@
 ---
-title: Country-Specific
+title: Country-Specific Research/
 weight: 23
 # date: 2023-06-17
-description: "Beyond the 'Crisis State'"
-image: "/flags/eu.png"
+description: "Research about specific countries"
+c: "black"
+youtube: "S0L13XsbUKs"
 ---
 

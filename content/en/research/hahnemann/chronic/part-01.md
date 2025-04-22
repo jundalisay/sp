@@ -4,7 +4,7 @@ title: "Homeopathy Verus Allopathic Medicine"
 description: "My Homoeopathic healing art is naturally superior over any allopathic treatment"
 author: Samuel Hahnemann
 weight: 8
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

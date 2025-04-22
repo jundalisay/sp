@@ -1,9 +1,9 @@
 ---
 title: Preliminary Notions
 description: The subject of philosophy is the actual knowledge of what truly is.
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
-icon: /avatars/hegel.png
+icon: "Hegel"
 weight: 8
 ---
 

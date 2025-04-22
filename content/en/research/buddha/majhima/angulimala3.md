@@ -3,7 +3,7 @@ heading: 55b
 title: "Angulimala Goes Out"
 weight: 10
 description: "Once upon a time when Brahmadatta was reigning in Benares, it was as his queen's child that the Bodhisatva came to life once more"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

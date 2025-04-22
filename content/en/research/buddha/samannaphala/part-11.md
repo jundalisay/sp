@@ -3,7 +3,7 @@ heading: Part 11
 title: "The Ending of Mental Fermentations"
 weight: 90
 description: "The monk directs and inclines his mind to the knowledge of the ending of the mental fermentations"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

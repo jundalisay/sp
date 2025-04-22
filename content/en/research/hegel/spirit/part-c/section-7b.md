@@ -2,7 +2,7 @@
 heading: "Section 7b"
 title: "Spirit in Religion"
 description: Religion is the completion of the life of spirit.
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
 weight: 16
 ---

@@ -3,7 +3,7 @@ title: "Free Concrete Mind"
 heading: Part C
 weight: 8
 description: "The Phenomenology of Spirit"
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
-icon: /avatars/hegel.png
+icon: "Hegel"
 ---

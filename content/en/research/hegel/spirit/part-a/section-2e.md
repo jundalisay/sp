@@ -2,9 +2,9 @@
 heading: "Section 2f"
 title: "Force and the Understanding: The World of Appearance and the Supersensible World"
 description: The subject of philosophy is the actual knowledge of what truly is.
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
-icon: /avatars/hegel.png
+icon: "Hegel"
 weight: 24
 ---
 

@@ -2,9 +2,9 @@
 heading: "Section 2p"
 title: "The Nature Of Law As Infinity"
 description: This second supersensible world is in this way the inverted world (verkehrte Welt), and, moreover, since one aspect is already present in the first supersensible world, the inverted form of this first.
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
-icon: /avatars/hegel.png
+icon: "Hegel"
 weight: 52
 ---
 

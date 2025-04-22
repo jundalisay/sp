@@ -4,7 +4,7 @@ title: "Autenrioth's Versuche fuer die prakt"
 description: "When writing the first edition of the Chronic Diseases, I was not yet acquainted with Autenrioth's Versuche fuer die prakt"
 author: Samuel Hahnemann
 weight: 22
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

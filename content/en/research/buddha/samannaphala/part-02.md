@@ -3,7 +3,7 @@ heading: Part 2
 title: "The Benefit of Spirital Life as Non-action, Purification, and Anmihilation"
 weight: 8
 description: "The King asks the Buddha, What are the Visible Bemefits of Spiritual Life?"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

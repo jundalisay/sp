@@ -3,7 +3,7 @@ heading: "Section 5h"
 title: The process of Perceiving and Understanding
 # title: "Observation of Organic Nature"
 description: The process of perceiving and understanding (intelligence) reflects itself into itself, and by so doing determines its object.
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
 weight: 11
 ---

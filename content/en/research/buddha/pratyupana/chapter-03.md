@@ -3,7 +3,7 @@ heading: Chapter 3
 title: "Four Things to Do"
 weight: 8
 description: "“There are four things through which Bodhisattvas can quickly attain this samādhi"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

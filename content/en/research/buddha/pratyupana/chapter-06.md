@@ -3,7 +3,7 @@ heading: Chapter 6
 title: "Support and Protection"
 weight: 14
 description: "The 8 Bodhisattvas—Bhadrapāla, Ralinnāga, Gaujata, Naradatta, Suṣama, Mahāsusaha, Indrada, and Harandha—having heard the Buddha’s words, greatly rejoiced"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

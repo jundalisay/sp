@@ -3,7 +3,7 @@ heading: Rule 18
 title: The 4 Basic Operations
 weight: 38
 description: 'To this end, only 4 operations are required-- addition, subtraction, multiplication, and division.'
-image: "/covers/rules.jpg"
+c: "darkblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

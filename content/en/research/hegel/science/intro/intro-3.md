@@ -2,7 +2,7 @@
 title: "General Division of Logic"
 weight: 7
 description: "The general division of science can only be provisional until all of it is known"
-image: /covers/science.png
+c: "darkblue"
 author: Hegel
 ---
 

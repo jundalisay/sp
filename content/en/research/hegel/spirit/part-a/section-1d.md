@@ -3,9 +3,9 @@ heading: "Section 1b"
 title: "The Subject of Perception"
 # Sense Certainty
 description: This certainty wholly refuses to come out if we direct its attention to a Now that is night, or an I to whom it is night. We will go to it and let ourselves point out the Now that is asserted.
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
-icon: /avatars/hegel.png
+icon: "Hegel"
 weight: 10
 ---
 

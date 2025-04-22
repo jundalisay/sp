@@ -4,7 +4,7 @@ title: "Cases of Itch"
 description: "An eruption of itch in a youth of 18 years driven out by a mercurial plaster"
 author: Samuel Hahnemann
 weight: 26
-image: /covers/chronic.jpg
+c: "deeppink"
 ---
 
 

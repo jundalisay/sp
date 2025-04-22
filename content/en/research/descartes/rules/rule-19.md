@@ -3,7 +3,7 @@ heading: Rules 19-21
 title: Equations
 weight: 38
 description: 'Once the equations have been found, the operations that were omitted must be completed, never using multiplication when division is possible.'
-image: "/covers/rules.jpg"
+c: "darkblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

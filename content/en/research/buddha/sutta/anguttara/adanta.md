@@ -2,7 +2,7 @@
 title: "Adanta Sutras: Untamed"
 weight: 900
 description: "Adanta Sutras: Untamed"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

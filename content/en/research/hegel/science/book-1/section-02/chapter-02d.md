@@ -4,8 +4,8 @@ title: "Remark 2: The Kantian Antinomy of the Limitation and Nonlimitation of th
 weight: 14
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
 author: Hegel
-icon: /avatars/hegel.png
-image: /covers/science.png
+icon: "Hegel"
+c: "darkblue"
 ---
 
 

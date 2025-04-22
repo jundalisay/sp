@@ -2,8 +2,9 @@
 title: "Descartes Timeline"
 weight: 22
 description: "Renatus Cartesius 31 March 1596 – 11 February 1650 was a French philosopher, mathematician, and scientist who invented analytic geometry"
-image: "/covers/descartes.jpg"
+c: "darkblue"
 ---
+
 
 Year | Age | Event
 --- | --- | ---

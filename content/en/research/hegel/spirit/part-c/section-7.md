@@ -2,7 +2,7 @@
 heading: "Section 7"
 title: "Natural Religion in General"
 description: The subject of philosophy is the actual knowledge of what truly is.
-image: /covers/phenom.png
+c: "darkblue"
 author: Hegel
 weight: 14
 ---

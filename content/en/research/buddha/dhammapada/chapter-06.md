@@ -3,7 +3,7 @@ heading: Chapter 6
 title: "Panditavagga: The Wise"
 weight: 12
 description: "Siddhartha Gautama was a prince turned ascetic. Here are discourses from the Tipitaka and other sutras"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 

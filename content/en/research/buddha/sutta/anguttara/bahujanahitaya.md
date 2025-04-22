@@ -2,7 +2,7 @@
 title: "Bahujanahitāya Sutta: For the Benefit of Many People"
 weight: 6
 description: "Bahujanahitāya Sutta: For the Benefit of Many People"
-image: "/photos/meta/buddhism.jpg"
+c: "indigo"
 ---
 
 
