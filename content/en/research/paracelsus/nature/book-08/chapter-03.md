@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Separation of metals from their Mines"
 description: "The Nature of Things"
-image: "/covers/nature.png"
+c: "orangered"
 weight: 6
 writer:
   name: Paracelsus

@@ -2,10 +2,10 @@
 title: "The Bounds prescribed to the Custom of judicial Combats"
 heading: "Chapter 25"
 description: "WHEN pledges of battle had been received upon a civil affair of small importance, the lord obliged the parties to withdraw them"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 66
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Propositions 28 to 71"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "The mind's highest good is the knowledge of God, and the mind's highest virtue is to know God"
 icon: /icons/spinoza.png
 writer:

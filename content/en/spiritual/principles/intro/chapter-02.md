@@ -177,7 +177,7 @@ Founder | Hitler
 Scripture | Mein Kampf
 Organization | Nazi Groups
 
-{{< i s="/photos/medieval/hitler.jpg" a="Hitler" >}}
+{{< i s="/photos/medieval/hitler.jpg" a="Adolf Hitler" >}}
 
 The defeat of Germany in World War 1 because of England and Russia, created despair for the German masses.
 

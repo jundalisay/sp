@@ -5,7 +5,7 @@ heading: Chapter 11
 image: /covers/spirit.jpg
 description: "The aether drag has always been in the measurements done by physicists on light"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

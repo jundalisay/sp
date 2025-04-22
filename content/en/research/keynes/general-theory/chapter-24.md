@@ -1,10 +1,10 @@
 ---
 title: "The Social Philosophy Arising From the General Theory"
 description: "The outstanding faults of the economy are its failure to provide for full employment and its inequality"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2019-12-05
 weight: 112
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

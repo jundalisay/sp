@@ -2,10 +2,10 @@
 title: "The Choice of Units"
 heading: "Chapter 4"
 description: "Keynes overturns Classical Economics and imposes 2 measures: hourly-common-labour and hourly-common-wage"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-12-17
 weight: 16
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

@@ -2,10 +2,10 @@
 title: "How the Roman Law kept its Ground in the Demesne of the Lombards"
 heading: "Chapter 6"
 description: "The law of the Lombards was impartial. The Romans were under no temptation to quit their own for it."
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 8
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

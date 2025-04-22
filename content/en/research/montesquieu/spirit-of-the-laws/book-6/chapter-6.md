@@ -3,9 +3,9 @@ heading: "Chapter 6"
 title: "In Monarchies, Ministers Should not sit as Judges"
 weight: 8
 description: "There are still many states where many judges to decide exchequer causes, and where the ministers judge cases."
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

@@ -6,7 +6,7 @@ linkTitle: Part A
 weight: 4
 description: The "idols of things" are like films stripped from the outermost body of things
 author: "Titus Lucretius Carus"
-image: /covers/things.jpg
+c: "maroon"
 ---
 
 

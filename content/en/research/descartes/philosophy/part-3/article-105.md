@@ -7,8 +7,8 @@ description: "There are many channels in the spots through which virtual photons
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.jpg"
-icon: "/icons/descartes.png"
+c: "orangered"
+icon: "Rene Descartes"
 ---
 
 

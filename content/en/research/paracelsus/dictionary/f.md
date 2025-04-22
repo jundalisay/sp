@@ -1,7 +1,7 @@
 ---
 title: "F"
 description: "The Chemical Dictionary"
-image: "/covers/dic.jpg"
+c: "black"
 weight: 14
 writer:
   name: Paracelsus

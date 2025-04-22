@@ -3,7 +3,7 @@ heading: Book 3
 title: "2: Phenomena"
 description: "All astronomers agree that their periodic times are in the sesquiplicate proportion of the semi-diameters of their orbits"
 c: "maroon"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 6
 draft: true
 ---

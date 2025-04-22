@@ -4,11 +4,11 @@ linkTitle: Articles 13-16
 title: The Diversity Among Animal Spirits
 weight: 7
 description: The liveliest and most subtle parts of the blood that the heat has rarefied in the heart enter continually in large quantity into the cavities of the brain
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

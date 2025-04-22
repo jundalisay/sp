@@ -3,9 +3,9 @@ heading: "Chapter 7"
 title: "The Commerce of the Greeks"
 weight: 12
 description: "THE first Greeks were all pirates. Minos was a pirate who enjoyed the empire of his own isle"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

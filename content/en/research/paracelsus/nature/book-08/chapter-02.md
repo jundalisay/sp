@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "What the Elementary Body is"
 description: "The Nature of Things"
-image: "/covers/nature.png"
+c: "orangered"
 weight: 4
 writer:
   name: Paracelsus

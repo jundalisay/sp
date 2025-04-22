@@ -6,8 +6,8 @@ description: "Heat and Light as facilitated by the air-aether"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.jpg"
-icon: "/icons/descartes.png"
+c: "orangered"
+icon: "Rene Descartes"
 ---
 
 

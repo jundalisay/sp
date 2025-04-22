@@ -2,7 +2,7 @@
 title: "David and Goliath"
 heading: "Sura 2k "
 weight: 24
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

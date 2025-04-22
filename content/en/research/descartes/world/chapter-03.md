@@ -7,7 +7,7 @@ description: "There is an infinity of diverse motions that endure perpetually in
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

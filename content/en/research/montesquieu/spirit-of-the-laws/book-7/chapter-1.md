@@ -3,9 +3,9 @@ heading: "Chapters 1-4"
 title: "New Consequences of the Principles of the three Governments"
 weight: 4
 description: "LUXURY indicates the inequality of fortunes"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

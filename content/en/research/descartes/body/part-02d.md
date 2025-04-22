@@ -4,7 +4,7 @@ title: "Harves Versus Descartes"
 date: 2025-01-24
 weight: 12
 description: "Harvey believes that the heart contracts from within."
-image: "/covers/body.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

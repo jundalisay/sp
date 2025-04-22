@@ -1,6 +1,6 @@
 ---
 title: "Propositions 15 to 24"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "If a man has begun to hate an object of his love, so that love is thoroughly destroyed, he will, causes being equal, regard it with more hatred than if he had never loved it"
 icon: /icons/spinoza.png
 writer:

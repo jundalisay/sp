@@ -5,7 +5,7 @@ author: "Montesquieu"
 description: "A wise lord cannot and should not keep faith when such promises may be turned against him, and when the reasons that caused him to promise no longer exist"
 weight: 8
 # date: 2021-09-30
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 icon: "/icons/mont.png"
 ---
 

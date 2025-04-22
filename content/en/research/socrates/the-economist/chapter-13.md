@@ -2,7 +2,7 @@
 title: "How to Train Humans"
 heading: "Chapter 13"
 weight: 32
-image: "/covers/economist.jpg"
+c: "darkgreen"
 description: "He must learn at any rate, I think, to rule his fellow-workmen"
 writer:
   name: Xenophon

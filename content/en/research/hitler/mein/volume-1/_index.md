@@ -5,7 +5,7 @@ title: "A Retrospect "
 weight: 3
 description: "Hitler remembers his struggles establishing the Nazi Party"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

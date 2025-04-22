@@ -4,7 +4,7 @@ linkTitle: Prop 52c
 title: "Scholium"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 9
 ---
 

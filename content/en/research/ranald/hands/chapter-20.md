@@ -3,7 +3,7 @@ heading: Chapter 20
 title: "Types Of Fingerprints"
 weight: 54
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: ""
 draft: true
 ---

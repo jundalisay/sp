@@ -2,10 +2,10 @@
 title: "The Code of Laws on judicial Combats"
 heading: "Chapter 23"
 description: "Before the combat, the magistrates ordered three rules to be published"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 64
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

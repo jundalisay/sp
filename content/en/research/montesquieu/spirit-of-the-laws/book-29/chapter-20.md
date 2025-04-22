@@ -3,9 +3,9 @@ heading: "Chapter 2"
 title: "Justinian's Conquests and Government"
 weight: 17
 description: "The barbarians broke all at once like a flood into the empire. They fought each other"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

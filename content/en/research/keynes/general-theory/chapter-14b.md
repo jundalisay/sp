@@ -1,14 +1,14 @@
 ---
 title: "Investment Rate versus Interest Rates"
 heading: "Chapter 14b"
-image: "/covers/general.jpg"
+c: "maroon"
 description: "This is illustrated by investment versus interest rates"
 # date: 2020-11-05
 weight: 58
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

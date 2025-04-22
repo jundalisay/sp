@@ -2,7 +2,7 @@
 title: "The Christians"
 heading: "Sura 5b "
 weight: 52
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden."
 ---
 

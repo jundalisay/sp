@@ -3,7 +3,7 @@ heading: Section 8a
 title: "Proposition 44, Theorem 35"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 6
 ---
 

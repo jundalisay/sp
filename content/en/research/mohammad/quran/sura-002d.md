@@ -2,7 +2,7 @@
 title: "The Characteristics of the Jews"
 heading: "Sura 2d "
 weight: 10
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

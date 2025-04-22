@@ -3,9 +3,9 @@ heading: "Chapter 15b"
 title: "The State of the Empire from Antoninus to Probus"
 weight: 17
 description: "IN this period, the Stoics propagated their doctrines in the empire with great popularity"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

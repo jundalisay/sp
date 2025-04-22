@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 6
 author: Galen
 description: "Every part of the animal has a faculty which is assimilative and nutritive"
-image: /covers/natural.jpg
+c: "maroon"
 ---
 
 

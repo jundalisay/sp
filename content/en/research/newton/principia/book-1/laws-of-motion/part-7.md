@@ -4,7 +4,7 @@ linkTitle: Part 6
 title: "Scholium Continued"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 68
 author: Isaac Newton
 ---

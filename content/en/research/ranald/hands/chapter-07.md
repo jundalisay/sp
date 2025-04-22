@@ -3,7 +3,7 @@ heading: Chapter 7
 title: "The Line of Life"
 weight: 26
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: "The line of life (see plate 27, number 1) bounds the mounts of Venus and Mars positive, fencing in the entire region about the base of the thumb"
 ---
 

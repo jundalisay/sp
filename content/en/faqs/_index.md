@@ -2,7 +2,7 @@
 title: FAQs on Superphysics
 description: "Here are FAQs on Superphysics, Material Superphysics, Bio Superphysics"
 # image: "/photos/psych/freedom.jpg"
-# image: /covers/faq.png
+# c: "black"
 youtube: "mNwyj7WHKKo"
 ---
 

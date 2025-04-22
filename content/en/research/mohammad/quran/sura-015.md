@@ -2,7 +2,7 @@
 title: "The Rock (al-Hijr)"
 heading: "Sura 15a "
 weight: 94
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

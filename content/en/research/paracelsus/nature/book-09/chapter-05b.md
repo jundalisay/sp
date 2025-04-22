@@ -2,7 +2,7 @@
 heading: Chapter 5b
 title: "What is Sciomancy?"
 description: "The Nature of Things"
-image: "/covers/nature.png"
+c: "orangered"
 weight: 22
 # date: 2022-05-18
 writer:

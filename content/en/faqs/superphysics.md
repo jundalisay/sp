@@ -1,7 +1,7 @@
 ---
 title: "Superphysics Socratic FAQ"
 description: "FAQs about Superphysics, Socrates-style"
-image: /covers/faq.png
+c: "black"
 weight: 2
 icon: "Superphysics"
 aliases:
@@ -222,7 +222,7 @@ The universe was created for us humans. After death, there is nothing. There is 
 So what if there's global warming? In the long-run, we're all dead! At least I've experienced a 5-star lifestyle. 'Me' 'myself' and 'I' are all that matters. It's the Iron law of Nature, as explained by Hitler:
 {{< /r >}}
 
-{{< q a="Hitler" c="Mein Kampf, Race And People" >}}
+{{< q a="Adolf Hitler" c="Mein Kampf, Race And People" >}}
 The stronger must dominate and not mate with the weaker, which would signify the sacrifice of its own higher nature. Only the born weakling can look upon this principle as cruel. He will feel so merely because he is of a feebler nature and narrower mind.
 {{< /q >}}
  <!-- Heaven can be on earth, bought by :musical_notes: money money money in a rich man's world :musical_notes:.  -->

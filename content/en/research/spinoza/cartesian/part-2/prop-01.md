@@ -1,7 +1,7 @@
 ---
 heading: "Propositions 1-5"
 title: There are no vacuums nor atoms
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "The nature of body or matter consists only in extension"
 writer:
   name: Spinoza

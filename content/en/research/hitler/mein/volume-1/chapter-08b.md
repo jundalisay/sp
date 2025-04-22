@@ -4,7 +4,7 @@ heading: Chapter 8b
 weight: 58
 description: "The work of politicians is without significance for the following generation"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

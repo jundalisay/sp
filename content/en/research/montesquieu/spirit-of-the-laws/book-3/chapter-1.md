@@ -3,9 +3,9 @@ heading: "Chapters 1-4"
 title: "The Laws from the Nature of Government"
 weight: 4
 description: "Commerce was transferred to Jews who were covered with infamy."
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Philosophical Education"
 heading: "Chapter 2 of Book 6"
 weight: 14
-image: "/covers/republic.jpg"
+c: "darkblue"
 description: "The perfect State would be eyed with jealousy and was difficult to attain. The rulers must be investigated from the very beginning"
 author: "Socrates"
 icon: "Socrates"

@@ -1,7 +1,7 @@
 ---
 heading: Introduction
 title: "The Cartesian Way of Finding Seed Principles"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "We must devise such principles that are the simplest and easiest to know"
 writer:
   name: Spinoza

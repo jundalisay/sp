@@ -4,7 +4,7 @@ title: "Distance Perception"
 # date: 2022-01-29
 weight: 34
 description: "All those different colors, which novelty endears and often provide greater delight to the sight than the color green, are like excellent and unusual musical modulations or the delicate food of a wise cook"
-image: "/covers/man.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

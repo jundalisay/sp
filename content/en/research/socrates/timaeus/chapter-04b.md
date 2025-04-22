@@ -2,7 +2,7 @@
 heading: Chapter 4b
 title: "Created Beings"
 weight: 22
-image: "/covers/timaeus.jpg"
+c: "orangered"
 description: "The Simplified Timaeus by Plato"
 ---
 

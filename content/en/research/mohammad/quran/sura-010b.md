@@ -2,7 +2,7 @@
 title: "The Story of Noah and Moses"
 heading: "Sura 10b "
 weight: 80
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "Do not let the disbelievers dishearten you."
 ---
 

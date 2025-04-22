@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Astral Signs of Physiognomy in Man"
 description: "The Origin of Physiognomy"
-image: "/covers/nature.png"
+c: "orangered"
 weight: 8
 writer:
   name: Paracelsus

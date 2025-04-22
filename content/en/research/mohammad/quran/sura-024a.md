@@ -2,7 +2,7 @@
 title: "The Light (an-Nur)"
 heading: "Sura 24 "
 weight: 126
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

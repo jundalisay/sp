@@ -2,7 +2,7 @@
 title: "Gravity"
 image: "/covers/system.jpg"
 description: "The Egyptians were early observers of the heavens. This heliocentric philosophy came from them and was spread abroad, especially among the Greeks who were addicted to the study of philology than of nature"
-icon: "/icons/newton.png"
+icon: "Newton"
 ---
 
 

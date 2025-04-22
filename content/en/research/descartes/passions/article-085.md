@@ -3,11 +3,11 @@ heading: Articles 85-86
 title: Pleasure, Horror, and Desire
 weight: 26
 description: The objects of both Love and Hatred can be represented to the soul by the external senses or by the internal senses and its own reason.
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

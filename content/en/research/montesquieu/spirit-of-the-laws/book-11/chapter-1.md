@@ -3,7 +3,7 @@ title: "Liberty"
 heading: "Chapter 1-5"
 # date: 2015-09-30
 weight: 2
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 description: "The laws that establish political liberty, as it relates to the constitution, and those by which it is established, as it relates to the citizen."
 icon: "/icons/mont.png"

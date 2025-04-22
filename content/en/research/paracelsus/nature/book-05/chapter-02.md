@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "What is the destruction of Metals?"
 description: "The Generation of Natural Things is Twofold"
-image: "/covers/nature.png"
+c: "orangered"
 weight: 9
 date: 2024-02-28
 writer:

@@ -7,7 +7,7 @@ description: "Descartes explains Supermassive Black Holes as Galactic Vortices u
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

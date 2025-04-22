@@ -1,13 +1,13 @@
 ---
 title: "The Liquidity Preference"
 heading: "Chapter 13b"
-image: "/covers/general.jpg"
+c: "maroon"
 description: "Liquidity preference is divided into the need for cash, the need to be secure with cash, and the speculation for more cash"
 weight: 56
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

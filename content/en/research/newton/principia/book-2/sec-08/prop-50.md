@@ -4,7 +4,7 @@ linkTitle: Prop 50
 title: "Proposition 50 Theorem 12"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 400
 ---
 

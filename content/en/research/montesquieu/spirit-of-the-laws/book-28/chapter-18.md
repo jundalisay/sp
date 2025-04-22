@@ -2,10 +2,10 @@
 title: "How the Custom of judicial Combats gained Ground"
 heading: "Chapter 8"
 description: "The clergy themselves were the cause of judicial combats in a great measure"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 18
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

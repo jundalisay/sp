@@ -2,7 +2,7 @@
 title: "The Pilgrimage (al-Hajj) 2"
 heading: "Sura 22b"
 weight: 123
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

@@ -4,7 +4,7 @@ heading: Chapter 4b
 weight: 28
 description: "The annual increase of population in Germany amounts to almost 900,000 souls"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

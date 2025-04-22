@@ -1,6 +1,6 @@
 ---
 title: "Propositions 21 to 28"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "The remaining portion of my Ethics is concerned with the way leading to freedom"
 icon: /icons/spinoza.png
 writer:

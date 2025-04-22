@@ -2,10 +2,10 @@
 title: "Lending on Interest"
 heading: "Chapter 19-22"
 description: "SPECIE is the sign of value. He who has occasion for this sign, should pay for the use of it, as well as for everything else that he has occasion for"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 22
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

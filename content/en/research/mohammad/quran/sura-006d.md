@@ -2,7 +2,7 @@
 heading: "Sura 6c "
 title: "Details of the Rules on Food, such as Pork"
 weight: 62
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "The wrongdoers set aside for Enki a share of the crops and the livestock He created"
 ---
 

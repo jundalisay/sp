@@ -1,7 +1,7 @@
 ---
 heading: "Propositions 16-18"
 title: "Angular Momentum"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "Every body that moves in a circle (e.g., a stone in a sling) will continue in motion at a tangent to that circle"
 writer:
   name: Spinoza

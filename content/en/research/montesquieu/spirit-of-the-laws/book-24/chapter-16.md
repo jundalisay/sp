@@ -5,7 +5,7 @@ linkTitle: "Chapter 16"
 weight: 24
 # "2021-09-30"
 description: "ON the other hand, religion may support a state, when the laws themselves are incapable of doing it"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 icon: "/icons/mont.png"
 ---
 

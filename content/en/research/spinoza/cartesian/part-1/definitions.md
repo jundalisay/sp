@@ -1,7 +1,7 @@
 ---
 heading: Part 1c
 title: "Definitions"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "Thought includes all that is in us and of which we are immediately conscious"
 writer:
   name: Spinoza

@@ -4,7 +4,7 @@ heading: Chapter 7d
 weight: 66
 description: "The organization of defence guards for keeping order at our meetings cleared up a very ifficult question"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Propositions 1-8"
 c: "maroon"
 description: "The forces that keeps the planets in their orbits comes from Jupiter's center."
-icon: "/icons/newton.png"
+icon: "Newton"
 draft: true
 ---
 

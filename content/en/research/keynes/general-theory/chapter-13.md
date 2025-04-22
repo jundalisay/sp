@@ -1,14 +1,14 @@
 ---
 title: "The General Theory of the Rate of Interest"
 heading: "Chapter 13"
-image: "/covers/general.jpg"
+c: "maroon"
 description: "According to Keynes, the interest rate is based on the love for cash"
 # date: 2020-11-09
 weight: 54
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

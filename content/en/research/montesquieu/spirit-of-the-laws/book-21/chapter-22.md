@@ -3,9 +3,9 @@ heading: "Chapter 22"
 title: "The Riches which Spain drew from America"
 weight: 28
 description: "Philip 2nd succeeded Charles 5th. He was obliged to make the celebrated bankruptcy known to all the world"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

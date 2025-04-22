@@ -4,7 +4,7 @@ heading: Chapter 11c
 weight: 90
 description: "The Aryan race has been, and still is, the standard-bearer of human progress."
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

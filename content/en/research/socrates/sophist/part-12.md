@@ -5,13 +5,17 @@ weight: 29
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/sophist.jpg"
+c: "darkblue"
 description: "We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher"
 icon: "Socrates"
 ---
 
 
-FOREIGNER: Let not any one say, then, that while affirming the opposition of not-being to being, we still assert the being of not-being; for as to whether there is an opposite of being, to that enquiry we have long said good-bye—it may or may not be, and may or may not be capable of definition. But as touching our present account of not-being, let a man either convince us of error, or, so long as he cannot, he too must say, as we are saying, that there is a communion of classes, and that being, and difference or other, traverse all things and mutually interpenetrate, so that the other partakes of being, and by reason of this participation is, and yet is not that of which it partakes, but other, and being other than being, it is clearly a necessity that not-being should be. And again, being, through partaking of the other, becomes a class other than the remaining classes, and being other than all of them, is not each one of them, and is not all the rest, so that undoubtedly there are thousands upon thousands of cases in which being is not, and all other things, whether regarded individually or collectively, in many respects are, and in many respects are not.
+FOREIGNER: Let not any one say, then, that while affirming the opposition of not-being to being, we still assert the being of not-being; for as to whether there is an opposite of being, to that enquiry we have long said good-bye—it may or may not be, and may or may not be capable of definition.
+
+But as touching our present account of not-being, let a man either convince us of error, or, so long as he cannot, he too must say, as we are saying, that there is a communion of classes, and that being, and difference or other, traverse all things and mutually interpenetrate, so that the other partakes of being, and by reason of this participation is, and yet is not that of which it partakes, but other, and being other than being, it is clearly a necessity that not-being should be. 
+
+And again, being, through partaking of the other, becomes a class other than the remaining classes, and being other than all of them, is not each one of them, and is not all the rest, so that undoubtedly there are thousands upon thousands of cases in which being is not, and all other things, whether regarded individually or collectively, in many respects are, and in many respects are not.
 
 THEAETETUS: True.
 

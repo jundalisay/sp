@@ -1,7 +1,7 @@
 ---
 heading: Chapter 6
 title: "Monarchy: Its Nature"
-image: "/covers/politics.jpg"
+c: "darkgreen"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

@@ -5,7 +5,7 @@ heading: Section 9e
 title: "Proposition 53, Theorem 41"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 10
 ---
 

@@ -3,9 +3,9 @@ heading: "Chapter 19"
 title: "The Grandeur of Attila and Why the Western Empire was overturned before the Eastern"
 weight: 17
 description: "Christianity was established when the empire was declining. The Christians reproached the Pagans for that decay. The Pagans retorted the charge on Christianity"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

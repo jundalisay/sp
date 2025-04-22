@@ -4,7 +4,7 @@ title: "Pupil Size and Successive Vision"
 # date: 2022-01-29
 weight: 33
 description: "The change in size that occurs in the pupil moderates the powers of vision"
-image: "/covers/man.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

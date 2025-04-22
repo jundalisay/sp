@@ -8,7 +8,7 @@ description: "How could Nature untangle the confusion of the chaos after creatio
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

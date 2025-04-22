@@ -4,7 +4,7 @@ title: "The Plague at Athens"
 weight: 8
 description: Which consists of infinite atoms moving in infinite space
 author: "Titus Lucretius Carus"
-image: /covers/things.jpg
+c: "maroon"
 ---
 
 

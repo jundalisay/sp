@@ -4,7 +4,7 @@ linkTitle: Prop 1
 title: "Proposition 1 Theorem 1"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 4
 ---
 

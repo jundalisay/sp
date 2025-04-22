@@ -1,14 +1,14 @@
 ---
 title: "The Types of Risk that Affect the Volume of Investment"
 heading: "Chapter 11b"
-image: "/covers/general.jpg"
+c: "maroon"
 description: "The prospective yield of the investment"
 # date: 2020-11-14
 weight: 50
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

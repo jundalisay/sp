@@ -1,6 +1,6 @@
 ---
 title: "Results and Discussion"
-image: /covers/sciences.png
+c: "darkslate"
 description: "Contingency, predictability in the evolution of a prokaryotic pangenome"
 
 # date: 2022-04-30

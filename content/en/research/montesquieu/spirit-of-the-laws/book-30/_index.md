@@ -5,5 +5,5 @@ linkTitle: "Book 30"
 weight: 6
 # "2021-09-30"
 description: "Book 30 of The Spirit of the Laws by Montesquieu Simplified in 8 chapters"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 ---

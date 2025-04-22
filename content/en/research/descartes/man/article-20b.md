@@ -4,7 +4,7 @@ title: "Distance Perception and Optical Illusions"
 # date: 2022-01-29
 weight: 34
 description: "The soul can visually perceive the size of objects, and other similar qualities"
-image: "/covers/man.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

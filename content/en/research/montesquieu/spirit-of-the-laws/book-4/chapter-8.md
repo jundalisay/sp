@@ -3,9 +3,9 @@ heading: "Chapters 8"
 title: "A Paradox of the Ancients, in Respect to Manners "
 weight: 8
 description: "Polybius informs us that music was necessary to soften the manners of the Arcadians who lived in a cold gloomy country"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

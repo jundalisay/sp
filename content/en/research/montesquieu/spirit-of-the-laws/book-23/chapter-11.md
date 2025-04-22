@@ -2,7 +2,7 @@
 title: "The Severity of Government"
 heading:  "Chapters 11-15"
 description:  "MEN who have absolutely nothing, such as beggars, have many children"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 ---
 

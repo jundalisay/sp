@@ -2,10 +2,10 @@
 heading: "Chapter 24b"
 title: "The Enlargement of Government and the End of War"
 description: "The enlargement of government is for adjusting the propensity to consume and the inducement to invest."
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-01-29
 weight: 114
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

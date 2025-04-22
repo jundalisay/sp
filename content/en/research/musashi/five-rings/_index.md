@@ -1,7 +1,7 @@
 ---
 title: "Five Rings"
 description: "Five Rings by Musashi"
-image: "/covers/musashi.jpg"
-icon: "/icons/musashi.jpg"
+c: "darkblue"
+icon: "Musashi"
 weight: 1
 ---

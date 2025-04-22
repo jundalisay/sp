@@ -50,7 +50,9 @@ In mechanics also, notions, that is definitions, and primary and general stateme
 And just as by the application of geometrical theorems, the magnitudes of particular bodies are measured; so also by the application of universal mechanical theorems, the motions of any parts of the world system, and the phenomena depending on them, become known and are determined: and it is to this goal that the physicist should uniquely aim.
 
 
-39. And just as geometers, for the sake of their discipline, devise many things which they themselves can neither describe nor find in the nature of things; in exactly the same way the mechanician uses certain abstract and general terms, and imagines in bodies force, action, attraction, solicitation, &c., which are most useful for theories and statements, as well as calculations about motion, even if they would be sought in vain in the very truth of things and actually existing bodies, no less than those things which are imagined by geometers through mathematical abstraction.
+39. Geometers, for the sake of their discipline, devise many things which they themselves can neither describe nor find in the nature of things.
+
+Similarly, the mechanician uses certain abstract and general terms. He and imagines in bodies force, action, attraction, solicitation, &c., which are most useful for theories and statements, as well as calculations about motion, even if they would be sought in vain in the very truth of things and actually existing bodies, no less than those things which are imagined by geometers through mathematical abstraction.
 
 
 40. In truth, by the aid of the senses we perceive nothing but effects or sensible qualities, and corporeal things entirely passive, whether they are in motion or at rest; and reason and experience suggest that nothing active exists besides mind or soul.

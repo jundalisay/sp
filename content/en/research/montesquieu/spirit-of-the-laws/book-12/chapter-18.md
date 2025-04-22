@@ -3,7 +3,7 @@ title: "How Dangerous Being Too Severe in punishing the Crime of High-Treason"
 heading: "Chapter 18"
 # date: 2015-09-30
 weight: 2
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 description: "AS soon as a republic has compassed the destruction of those who wanted to subvert it, there should be an end of terrors, punishments, and even of rewards"
 icon: "/icons/mont.png"

@@ -4,7 +4,7 @@ heading: Chapter 11d
 weight: 94
 description: "Every historical event in the world is nothing more nor less than a manifestation of the instinct of racial self-preservation, whether for weal or woe"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

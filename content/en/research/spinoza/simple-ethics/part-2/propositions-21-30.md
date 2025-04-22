@@ -1,7 +1,7 @@
 ---
 title:  "Propositions 21 to 30"
 description:  "This idea of the mind is united to the mind in the same way as the mind is united to the body"
-image: "/covers/ethics.jpg"
+c: "indigo"
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza

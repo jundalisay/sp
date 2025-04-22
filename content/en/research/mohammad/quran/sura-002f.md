@@ -2,7 +2,7 @@
 title: "Rules for the Direction of Prayer (Qiblah)"
 heading: "Sura 2e "
 weight: 14
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

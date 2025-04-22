@@ -2,7 +2,7 @@
 title: "Throngs (az-Zumar)"
 heading: "Sura 39 "
 weight: 154
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

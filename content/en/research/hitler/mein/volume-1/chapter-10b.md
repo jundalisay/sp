@@ -4,7 +4,7 @@ heading: Chapter 10b
 weight: 64
 description: "The amazing increase of German population before the war gave importance in politics and economics to the question of providing daily bread"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

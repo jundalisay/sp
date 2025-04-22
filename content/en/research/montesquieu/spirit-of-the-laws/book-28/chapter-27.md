@@ -2,10 +2,10 @@
 title: "Judicial Combats and Appeal of false Judgment"
 heading: "Chapter 27"
 description: "Judicial Combats Resolved Cases Quickly and made appeals unknown"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 68
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

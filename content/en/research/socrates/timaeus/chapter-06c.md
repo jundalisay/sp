@@ -2,7 +2,7 @@
 title: "Plants and Trees"
 heading: "Chapter 6c"
 weight: 38
-image: "/covers/timaeus.jpg"
+c: "orangered"
 description: "The life of mortal animal necessarily consisted of fire and breath. This allowed it to waste away by dissolution and depletion"
 author: "Plato"
 icon: /icons/Socrates.jpg

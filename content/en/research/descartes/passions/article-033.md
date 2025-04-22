@@ -4,11 +4,11 @@ linkTitle: Articles 33-36
 title: The Seat of Passions is Not in the Heart
 weight: 12
 description: People think that the soul receives its passions in the heart
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

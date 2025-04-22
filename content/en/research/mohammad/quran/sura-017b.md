@@ -2,7 +2,7 @@
 title: "The Night Journey (al-Isra’)"
 heading: "Sura 17b "
 weight: 102
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

@@ -1,7 +1,7 @@
 ---
 heading: "Propositions 19-24"
 title: "The Laws of Motion"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "Motion, regarded in itself, is different from its determination toward a certain direction"
 writer:
   name: Spinoza

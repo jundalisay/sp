@@ -2,7 +2,7 @@
 title: "The Tyrannical Man"
 heading: "Chapter 1"
 weight: 4
-image: "/covers/republic.jpg"
+c: "darkblue"
 description: "The Tyrannical Man emerges from the Democratic man"
 author: "Socrates"
 icon: "Socrates"

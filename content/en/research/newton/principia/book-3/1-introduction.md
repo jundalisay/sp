@@ -3,7 +3,7 @@ heading: Book 3
 title: "1: Rules of Reasoning"
 description: "Book 1 laid down the principles of mathematical philosophy. This will be the basis of our reasonings on philosophical inquiries"
 c: "maroon"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 4
 ---
 

@@ -4,7 +4,7 @@ heading: Chapter 12
 weight: 200
 description: "Undoubtedly the workers in the various trades benefited by the results of that campaign and, for honest men"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

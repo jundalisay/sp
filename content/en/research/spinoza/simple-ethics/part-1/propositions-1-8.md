@@ -4,7 +4,7 @@ weight: 5
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-image: "/covers/ethics.jpg"
+c: "indigo"
 icon: "/icons/spinoza.png"
 description: "Substance is by nature prior to its modifications"
 ---

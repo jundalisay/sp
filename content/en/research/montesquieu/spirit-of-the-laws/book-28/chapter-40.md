@@ -2,10 +2,10 @@
 title: "How the Judiciary Forms were borrowed from the Decretals"
 heading: "Chapter 40"
 description: "The judicial forms of the canon law were preferred to those of the Roman law because they constantly had before them the ecclesiastic courts which followed the forms of the canon law"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 84
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

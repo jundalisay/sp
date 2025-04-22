@@ -3,9 +3,9 @@ heading: "Chapter 3"
 title: "The wants of the People in the South are different from those of the North"
 weight: 6
 description: "The North is generally industrious while the South is lazy"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

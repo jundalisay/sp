@@ -4,7 +4,7 @@ title: "Taste and Smell"
 # date: 2022-01-29
 weight: 21
 description: "The filaments that make up the nerve center of the tongue be more easily moved than those that assist touch."
-image: "/covers/man.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

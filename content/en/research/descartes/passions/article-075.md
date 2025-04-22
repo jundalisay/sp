@@ -4,11 +4,11 @@ linkTitle: Articles 75-78
 title: What is the Purpose of Admiration?
 weight: 24
 description: Admiration is useful in making us learn and retain in our memory things that we had previously ignored
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

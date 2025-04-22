@@ -2,7 +2,7 @@
 heading: Part 5
 title: "A Dialogue Between Nature and the Alchemist"
 description: "Mercury hearing this begins to lament over the Alchymist, and goes unto his mother Nature"
-image: "/covers/dialogue.jpg"
+c: "maroon"
 weight: 14
 writer:
   name: Paracelsus

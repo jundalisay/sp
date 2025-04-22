@@ -2,7 +2,7 @@
 title: "The Rupture (al-Inshiqaq)"
 heading: "Sura 84a "
 weight: 236
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

@@ -5,7 +5,7 @@ weight: 14
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-image: "/covers/economist.jpg"
+c: "darkgreen"
 description: "Some men make their wives as true helpers to jointly increase of their estate, while others treat them in a way to bring upon themselves wholesale disaster"
 icon: "/icons/Xenophon.jpg"
 ---

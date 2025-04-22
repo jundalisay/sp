@@ -4,7 +4,7 @@ heading: Chapter 4b
 weight: 36
 description: "Marxism represents the most striking phase of the Jewish endeavour to eliminate the dominant significance of personality in every sphere of human life"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

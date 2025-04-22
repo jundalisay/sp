@@ -2,13 +2,13 @@
 title: "Open Market Operations"
 heading: "Chapter 15b"
 description: "Keynes explains Open Market Operations"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-10-28
 weight: 66
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

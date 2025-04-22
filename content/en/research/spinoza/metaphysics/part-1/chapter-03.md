@@ -1,7 +1,7 @@
 ---
 heading: Chapter 3
 title: "The Necessary, the Impossible, the Possible, and the Contingent"
-image: "/covers/metaphysical.jpg"
+c: "darkblue"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

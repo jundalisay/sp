@@ -4,8 +4,8 @@ heading: Chapter 15d
 weight: 810
 description: "One undertakes such a struggle when there is a possibility of success"
 author: Adolf Hitler
-image: /covers/mein.jpg
-icon: /avatars/hitler.jpg
+c: "maroon"
+icon: "Adolf Hitler"
 ---
 
 
@@ -64,7 +64,7 @@ This hatred against those who had ruined the people and the country was bound to
 In this connection I shall quote here the concluding sentence of a speech which I delivered at
 the great court trial that took place in the spring of 1924. -->
 
-{{< q a="Hitler" c="Speech in 1924" >}}
+{{< q a="Adolf Hitler" c="Speech in 1924" >}}
 The judges of this State may tranquilly condemn us for our conduct at that time, but History will smile as she tears up this verdict and will acquit us."
 {{< /q >}}
 <!-- , the goddess of a higher truth and a better legal code, all of the crime for which this verdict demands punishment -->

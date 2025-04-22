@@ -4,7 +4,7 @@ linkTitle: Prop 37
 title: "Proposition 37 Theorem 26"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 6
 ---
 

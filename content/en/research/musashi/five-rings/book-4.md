@@ -2,8 +2,8 @@
 heading: Book 4
 title: "The Wind Book"
 description: "Five Rings by Musashi"
-image: "/covers/musashi.jpg"
-icon: "/icons/musashi.jpg"
+c: "darkblue"
+icon: "Musashi"
 weight: 10
 ---
 

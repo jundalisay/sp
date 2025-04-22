@@ -1,6 +1,6 @@
 ---
 title: "Propositions 20 to 27"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "The more every man endeavours, and is able to seek what is useful to him—in other words, to preserve his own being—the more is he endowed with virtue"
 icon: /icons/spinoza.png
 writer:

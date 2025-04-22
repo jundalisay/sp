@@ -1,10 +1,10 @@
 ---
 title: "Silvio Gesell"
 description: "Silvio Gesell (1862-1930) is an unduly neglected prophet. His work has flashes of deep insight"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2019-12-10
 weight: 108
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

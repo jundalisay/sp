@@ -4,7 +4,7 @@ heading: Chapter 9
 weight: 100
 description: "The Independent Socialist Party and the Spartacist League were the storm battalions of revolutionary Marxism"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

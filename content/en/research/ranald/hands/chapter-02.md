@@ -4,7 +4,7 @@ title: "The Fingers"
 # date: 1767
 weight: 10
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: ""
 draft: true
 ---

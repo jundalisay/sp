@@ -118,7 +118,7 @@ The 1900s-1910s were the transition years in Europe from monarchy into oligarchy
 
 This led Hitler to blame the Jews, and start a new world war after getting rid of them in Germany. 
 
-{{< q a="Hitler" c="Mein Kampf, Volume 2, Chapter 9" >}}
+{{< q a="Adolf Hitler" c="Mein Kampf, Volume 2, Chapter 9" >}}
 The Jews blamed the loss of the world war on Ludendorff -- the only adversary likely to succeed in bringing the betrayers of the Fatherland to Justice.
 {{< /q >}}
 

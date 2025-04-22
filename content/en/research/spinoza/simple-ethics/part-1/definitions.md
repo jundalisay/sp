@@ -1,6 +1,6 @@
 ---
 title: "Definitions"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "Self—caused means something of which the essence involves existence"
 writer:
   name: Spinoza

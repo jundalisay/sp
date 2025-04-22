@@ -5,7 +5,7 @@ linkTitle: "Book 19"
 weight: 24
 # "2021-09-30"
 description: "When Rome extended her dominions no far ther than Italy, the people were governed as confederates. The laws of each republic were preserved"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 icon: "/icons/mont.png"
 ---
 

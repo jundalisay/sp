@@ -3,11 +3,11 @@ heading: Articles 94-105
 title: The Movements of the Spirits
 weight: 28
 description: The movements of the blood and spirits that cause the 5 preceding passions.
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

@@ -4,8 +4,8 @@ heading: Chapter 1b
 weight: 6
 description: "Democracy is exploited by the Marxists to paralyse their opponents and put their own methods into action"
 author: Adolf Hitler
-image: /covers/mein.jpg
-icon: /avatars/hitler.jpg
+c: "maroon"
+icon: "Adolf Hitler"
 ---
 
 

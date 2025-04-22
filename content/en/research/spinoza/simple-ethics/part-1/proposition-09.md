@@ -4,7 +4,7 @@ weight: 6
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-image: "/covers/ethics.jpg"
+c: "indigo"
 icon: "/icons/spinoza.png"
 description: "Intellect, in function (actu) finite, or in function infinite, must comprehend the attributes of God and the modifications of God, and nothing else"
 ---

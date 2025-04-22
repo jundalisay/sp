@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 4
 author: Galen
 description: ""
-image: /covers/natural.jpg
+c: "maroon"
 ---
 
 

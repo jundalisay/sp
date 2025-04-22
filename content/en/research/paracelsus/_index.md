@@ -1,7 +1,7 @@
 ---
 title: "Paracelsus"
 heading: "Hermes fan, Semi-enlightened Semi-Dogmatic"
-c: "rose"
+c: "deeppink"
 description: "A Hermes fan"
 weight: 160
 date: 2024-02-29

@@ -3,9 +3,9 @@ heading: "Chapter 17"
 title: "Commerce after the Destruction of the Western Empire"
 weight: 24
 description: "Commerce was destroyed after the fall of the Roman empire. The barbarous nations at first saw it only as an opportunity for robbery"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

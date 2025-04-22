@@ -3,9 +3,9 @@ heading: "Chapter 13"
 title: "Augustus"
 weight: 14
 description: "Some nations chose to preserve their ancient usages and not assist Rome"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

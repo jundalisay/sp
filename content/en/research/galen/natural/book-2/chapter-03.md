@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 6
 author: Galen
 description: "Every hypothesis of channels182 as an explanation of natural functioning is perfect nonsense."
-image: /covers/natural.jpg
+c: "maroon"
 ---
 
 

@@ -7,7 +7,7 @@ description: "There are a few comets in the aethereal world compared to the numb
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 {{< n n="We rename 'heavens' with their modern version as 'gravitational territories'" >}}

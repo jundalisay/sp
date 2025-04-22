@@ -7,7 +7,7 @@ description: "Light moves in all directions around luminous bodies is due to the
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

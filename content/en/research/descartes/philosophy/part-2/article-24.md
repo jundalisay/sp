@@ -6,8 +6,8 @@ description: "True motion is THE TRANSPORTING OF ONE PART OF MATTER OR OF ONE BO
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.jpg"
-icon: "/icons/descartes.png"
+c: "orangered"
+icon: "Rene Descartes"
 # aliases:
 #   /research/descartes/philosophy/part-2/section-03
 ---

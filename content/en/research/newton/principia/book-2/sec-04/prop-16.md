@@ -2,7 +2,7 @@
 title: "Proposition 16"
 c: "maroon"
 description: "If the density of the medium in each of the places is reciprocally as the distance of the places from the immoveable centre"
-icon: "/icons/newton.png"
+icon: "Newton"
 ---
 
 

@@ -2,7 +2,7 @@
 title:  "The Father’s Consent to Marriage"
 heading:  "Chapters 7-15"
 description:  "In common institutions, fathers have the disposal of their children in marriage. their prudence in this respect is always supposed to be superior to that of a stranger"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 ---
 

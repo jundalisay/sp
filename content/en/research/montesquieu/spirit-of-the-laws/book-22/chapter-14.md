@@ -2,10 +2,10 @@
 title: "How the Exchange is a Constraint on Despotic Power"
 heading: "Chapter 14"
 description: "Moscow would have descended from its despotic power, but could not"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 18
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

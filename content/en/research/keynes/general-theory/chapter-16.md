@@ -2,10 +2,10 @@
 heading: "Chapter 16"
 title: "Sundry Observations on the Nature of Capital"
 description: "individual saving is a decision not to have dinner today"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-10-24
 weight: 70
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

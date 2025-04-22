@@ -2,7 +2,7 @@
 title: "Mental Diseases"
 heading: "Chapter 7"
 weight: 42
-image: "/covers/timaeus.jpg"
+c: "orangered"
 description: "The life of mortal animal necessarily consisted of fire and breath. This allowed it to waste away by dissolution and depletion"
 author: "Plato"
 icon: /icons/Socrates.jpg

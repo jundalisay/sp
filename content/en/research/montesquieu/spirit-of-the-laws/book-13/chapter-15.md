@@ -4,7 +4,7 @@ title: "The Abuse of Liberty"
 linkTitle: "Chapter 15"
 weight: 10
 description: "In order to make the purchaser confound the price of the commodity with the tax, there must be some proportion between the tax and the value of the commodity"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 icon: "/icons/mont.png"
 ---
 

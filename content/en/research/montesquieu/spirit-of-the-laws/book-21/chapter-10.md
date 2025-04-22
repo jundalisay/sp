@@ -3,9 +3,9 @@ heading: "Chapter 10"
 title: "The Circuit of Africa"
 weight: 16
 description: "Before the discovery of the compass, four attempts were made to sail round the coast of Africa"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

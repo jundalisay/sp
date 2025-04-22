@@ -5,11 +5,11 @@ title: The Six Primary Passions
 # number and order of the Passions,
 weight: 18
 description: The agitation by the spirits on the pineal gland is the cause of the passions
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

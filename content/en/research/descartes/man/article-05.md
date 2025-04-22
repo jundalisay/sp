@@ -6,8 +6,8 @@ description: "The pulse, or beat of the arteries, depends on the 11 little skins
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/man.jpg"
-icon: "/icons/descartes.png"
+c: "deeppink"
+icon: "Rene Descartes"
 ---
 
 

@@ -3,7 +3,7 @@ title: "The Legislative"
 heading: "Chapter 6"
 # date: 2015-09-30
 weight: 6
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 description: "Were the executive power not to have a right of restraining the encroachments of the legislative body, the latter would become despotic"
 icon: "/icons/mont.png"

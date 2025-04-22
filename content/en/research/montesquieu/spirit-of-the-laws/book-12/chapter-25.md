@@ -3,7 +3,7 @@ title: "The Manner of governing in Monarchies"
 heading: "Chapter 25"
 # date: 2015-09-30
 weight: 6
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 description: "THE royal authority is a spring that should move with the greatest freedom and ease"
 icon: "/icons/mont.png"

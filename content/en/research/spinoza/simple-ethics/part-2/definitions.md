@@ -1,6 +1,6 @@
 ---
 title: "Definitions"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "Body is a mode which expresses in a certain determinate manner the essence of God, in so far as he is considered as an extended thing"
 writer:
   name: Spinoza

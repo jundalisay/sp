@@ -1,7 +1,7 @@
 ---
 heading: Introduction 1
 title: "Doubt Concerning All Things"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "Why did Descartes doubt everything?"
 writer:
   name: Spinoza

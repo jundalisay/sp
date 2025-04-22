@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 6
 author: Galen
 description: "The 2 faculties are clearly seen in the case of the uterus"
-image: /covers/natural.jpg
+c: "maroon"
 ---
 
 

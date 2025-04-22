@@ -2,7 +2,7 @@
 heading: Book 3
 title: "The preservations of Naturall things"
 description: "The Nature of Things"
-image: "/covers/nature.png"
+c: "orangered"
 weight: 6
 date: 2024-02-28
 writer:

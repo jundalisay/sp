@@ -4,6 +4,6 @@ linkTitle: Prop 31
 title: "Proposition 31, Theorem "
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 4
 ---

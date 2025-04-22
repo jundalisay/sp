@@ -2,13 +2,13 @@
 heading: "Chapter 14 Appendix"
 title: "Ricardo and Von Mises"
 description: "Ricardo's Theory in Principles of Political Economy"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-11-01
 weight: 62
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

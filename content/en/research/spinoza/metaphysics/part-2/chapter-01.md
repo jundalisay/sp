@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1
 title: "God's Eternity"
-image: "/covers/metaphysical.jpg"
+c: "darkblue"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

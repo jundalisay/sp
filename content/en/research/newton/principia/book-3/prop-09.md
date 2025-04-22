@@ -3,7 +3,7 @@
 title: "Propositions 9-12"
 c: "maroon"
 description: "Gravity, as a downward pull of a planet, decreases nearly in the proportion of the distances from their centres"
-icon: "/icons/newton.png"
+icon: "Newton"
 ---
 
 

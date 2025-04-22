@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
 description: "After choosing the glass or crystal that you intend to use, find the proportion, which serves as a measure for its refractions"
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

@@ -3,7 +3,7 @@ heading: Chapter 11
 title: "The Line of Apollo"
 weight: 34
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: ""
 draft: true
 ---

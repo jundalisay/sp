@@ -5,6 +5,6 @@ heading: Extremely Unenlightened
 weight: 43
 description: "Mein Kampf"
 c: "maroon"
-a: "Hitler"
+a: "Adolf Hitler"
 ---0
 

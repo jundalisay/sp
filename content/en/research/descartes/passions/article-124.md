@@ -3,11 +3,11 @@ heading: Articles 124
 title: The Main causes of Laughter
 weight: 36
 description: Laughter consists in the blood, coming from the right cavity of the heart through the pulmonary vein, suddenly inflating the lungs repeatedly.
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

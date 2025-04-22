@@ -1,7 +1,7 @@
 ---
 heading: "Proposition 6b"
 title: "Refuting Zeno's Argument"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "We shall not examine the validity of Zeno's argument. Instead, we shall disclose his prejudices"
 writer:
   name: Spinoza

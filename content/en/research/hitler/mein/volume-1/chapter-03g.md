@@ -4,7 +4,7 @@ heading: Chapter 3g
 weight: 18
 description: "The authority of the State can never be an end in itself. If that were so, any kind of tyranny would be inviolable and sacred"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

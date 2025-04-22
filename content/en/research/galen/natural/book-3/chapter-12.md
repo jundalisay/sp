@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 4
 author: Galen
 description: "Four natural faculties exist in each organ"
-image: /covers/natural.jpg
+c: "maroon"
 ---
 
 

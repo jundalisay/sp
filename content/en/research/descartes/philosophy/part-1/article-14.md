@@ -6,8 +6,8 @@ description: "We may validly infer God's existence from necessary existence bein
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.jpg"
-icon: "/icons/descartes.png"
+c: "orangered"
+icon: "Rene Descartes"
 # aliases:
 #   /research/descartes/philosophy/part-1/section-01c
 ---

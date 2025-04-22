@@ -3,7 +3,7 @@ title: "Proper Food and Medicine"
 heading: Chapter 3
 weight: 10
 description: "The state should focus on disease prevention by unhealthy food and by promoting work and activity"
-image: "/covers/republic.jpg"
+c: "darkblue"
 icon: "Socrates"
 ---
 

@@ -3,9 +3,9 @@ heading: "Chapter 9"
 title: "Two Causes which destroyed Rome"
 weight: 19
 description: "Some nations chose to preserve their ancient usages and not assist Rome"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

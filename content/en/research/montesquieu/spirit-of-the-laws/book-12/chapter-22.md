@@ -3,7 +3,7 @@ title: "Things that strike at Liberty in Monarchies"
 heading: "Chapter 22"
 # date: 2015-09-30
 weight: 2
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 description: "LIBERTY often has been weakened in monar chies by a thing of the least use in the world to the prince"
 icon: "/icons/mont.png"

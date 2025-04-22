@@ -3,9 +3,9 @@ heading: "Chapter 10"
 title: "The Corruption of the Romans"
 weight: 14
 description: "Some nations chose to preserve their ancient usages and not assist Rome"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

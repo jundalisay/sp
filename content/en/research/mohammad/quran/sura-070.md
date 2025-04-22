@@ -2,7 +2,7 @@
 title: "Ways Of Ascent (al-Ma’arij)"
 heading: "Sura 70a "
 weight: 212
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

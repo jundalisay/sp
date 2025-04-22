@@ -3,7 +3,7 @@ heading: Chapter 16
 title: "The Structure Of The Hand"
 weight: 46
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: ""
 draft: true
 ---

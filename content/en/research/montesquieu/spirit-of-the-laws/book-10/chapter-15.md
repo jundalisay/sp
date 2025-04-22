@@ -4,7 +4,7 @@ title: "New Methods of preserving a Conquest"
 linkTitle: "Chapters 15-17"
 weight: 20
 description: "WHEN a conquest happens to be vastly large, it supposes a despotic power. And then the army dispersed in the provinces is not sufficient"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 ---
 

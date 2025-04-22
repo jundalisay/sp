@@ -2,7 +2,7 @@
 title: "How Oligarchy Arises"
 heading: "Chapter 2"
 weight: 4
-image: "/covers/republic.jpg"
+c: "darkblue"
 description: "Oligarchy emerges from Timocracy which is after the aristocracy of philosophers"
 author: "Socrates"
 icon: "Socrates"

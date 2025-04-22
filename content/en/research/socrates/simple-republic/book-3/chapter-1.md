@@ -3,7 +3,7 @@ title: "Moral Literature"
 heading: Chapter 1
 weight: 6
 description: "The guardians should be given proper education in philosophy and gymnastic. The state should censor immoral and untruthful literature and art, and should base their education on God. They should never create true lies"
-image: "/covers/republic.jpg"
+c: "darkblue"
 icon: "Socrates"
 ---
 

@@ -4,7 +4,7 @@ title: "Sight"
 # date: 2022-01-29
 weight: 30
 description: "The sense of sight depends on two nerves composed of a vast number of extremely mobile capillaries"
-image: "/covers/man.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

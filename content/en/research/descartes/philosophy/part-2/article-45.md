@@ -6,8 +6,8 @@ description: "The rules for determining how much the motion of each body is chan
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.jpg"
-icon: "/icons/descartes.png"
+c: "orangered"
+icon: "Rene Descartes"
 ---
 
 

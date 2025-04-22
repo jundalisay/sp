@@ -6,8 +6,8 @@ description: "The portion of blood that rises up to the brain through the arteri
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/man.jpg"
-icon: "/icons/descartes.png"
+c: "deeppink"
+icon: "Rene Descartes"
 aliases:
   /research/descartes/man/section-10
 ---

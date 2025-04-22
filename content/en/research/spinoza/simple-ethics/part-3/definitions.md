@@ -1,6 +1,6 @@
 ---
 title: "Definitions"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "Desire is the actual essence of man, in so far as it is conceived, as determined to a particular activity by some given modification of itself"
 writer:
   name: Spinoza

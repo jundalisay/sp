@@ -2,8 +2,8 @@
 heading: Book 2
 title: "The Water Book"
 description: "This Water Book explains methods of victory as the long-sword form of the Ichi school"
-image: "/covers/musashi.jpg"
-icon: "/icons/musashi.jpg"
+c: "darkblue"
+icon: "Musashi"
 weight: 6
 ---
 

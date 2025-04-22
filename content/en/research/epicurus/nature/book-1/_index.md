@@ -7,7 +7,7 @@ linkTitle: Book 1
 weight: 2
 description: Which consists of infinite atoms moving in infinite space
 author: "Titus Lucretius Carus"
-image: /covers/things.jpg
+c: "maroon"
 ---
 
 

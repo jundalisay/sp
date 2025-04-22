@@ -5,7 +5,7 @@ weight: 12
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-image: "/covers/timaeus.jpg"
+c: "orangered"
 description: "Socrates reviews Timaeus on the key ideas of the Republic"
 icon: "Socrates"
 ---

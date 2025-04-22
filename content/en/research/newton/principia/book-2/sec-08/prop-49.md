@@ -4,7 +4,7 @@ linkTitle: Prop 49
 title: "Proposition 49 Theorem 11"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 400
 ---
 

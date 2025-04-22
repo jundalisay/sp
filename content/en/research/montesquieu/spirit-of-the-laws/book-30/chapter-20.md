@@ -3,9 +3,9 @@ heading: "Chapter 20"
 title: "What was afterwards called the Jurisdiction of the Lords"
 weight: 4
 description: "Commerce was transferred to Jews who were covered with infamy."
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

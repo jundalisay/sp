@@ -6,8 +6,8 @@ description: "The Earth and the planets do not have a motion of their own"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.jpg"
-icon: "/icons/descartes.png"
+c: "orangered"
+icon: "Rene Descartes"
 ---
 
 <!-- 28. Terrant, propriè loquendo, non moveri, nec ullos Planetas, quamvis à caelo tranfferantur.

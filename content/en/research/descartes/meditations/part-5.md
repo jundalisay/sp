@@ -6,8 +6,8 @@ description: "Before enquiring into whether there are any such things, I should 
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/med.png"
-icon: "/icons/descartes.png"
+c: "darkblue"
+icon: "Rene Descartes"
 ---
 
 

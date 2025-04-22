@@ -4,8 +4,8 @@ heading: Chapter 10j
 weight: 80
 description: "The lack of orientation in German policy, both domestic and foreign, was obvious."
 author: Adolf Hitler
-image: /covers/mein.jpg
-icon: /avatars/hitler.jpg
+c: "maroon"
+icon: "Adolf Hitler"
 ---
 
 

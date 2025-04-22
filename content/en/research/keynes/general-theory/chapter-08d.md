@@ -1,10 +1,10 @@
 ---
 title: "Kuznet's Data"
 heading: "Chapter 8d"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-11-25
 weight: 39
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

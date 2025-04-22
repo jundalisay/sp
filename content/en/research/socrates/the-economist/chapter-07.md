@@ -5,7 +5,7 @@ weight: 22
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-image: "/covers/economist.jpg"
+c: "darkgreen"
 description: "I do not spend my days indoors because my wife is capable of managing our domestic affairs without my aid."
 icon: "/icons/Xenophon.jpg"
 ---

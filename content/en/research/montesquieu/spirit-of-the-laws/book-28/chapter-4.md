@@ -2,10 +2,10 @@
 title: "How the Roman Law was lost among the Franks but preserved among the Goths and Burgundians"
 heading: "Chapter 4"
 description: "AFTER the Franks left their own country, they compiled the Salic laws with the help of their own sages"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 6
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

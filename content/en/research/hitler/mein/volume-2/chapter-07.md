@@ -4,7 +4,7 @@ heading: Chapter 7
 weight: 60
 description: "The suspicion was whispered in German Nationalist circles that we also were merely another variety of Marxism"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

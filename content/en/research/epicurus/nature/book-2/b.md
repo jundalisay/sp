@@ -6,7 +6,7 @@ linkTitle: Part B
 weight: 6
 description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
 author: "Titus Lucretius Carus"
-image: /covers/things.jpg
+c: "maroon"
 ---
 
 

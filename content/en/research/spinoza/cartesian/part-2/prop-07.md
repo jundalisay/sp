@@ -1,7 +1,7 @@
 ---
 heading: "Propositions 7-11"
 title: "There is No Void in Nature"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "No body moves into the place of another body unless that other body moves into the place of another body at the same time"
 writer:
   name: Spinoza

@@ -3,9 +3,9 @@ heading: "Chapters 1-9"
 title: "Governance Laws should be Relative to the Type of Government"
 weight: 4
 description: "The laws of governance should be relative to the principle of each government, just as the laws of education are"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

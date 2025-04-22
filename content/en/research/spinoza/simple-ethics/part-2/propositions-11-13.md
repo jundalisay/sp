@@ -4,7 +4,7 @@ weight: 6
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-image: "/covers/ethics.jpg"
+c: "indigo"
 icon: "/icons/spinoza.png"
 description: "The first element, which constitutes the actual being of the human mind, is the idea of some particular thing actually existing"
 ---

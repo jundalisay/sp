@@ -1,6 +1,6 @@
 ---
 title: "Appendix"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "All our endeavours or desires so follow from the necessity of our nature, that they can be understood either through it alone"
 writer:
   name: Spinoza

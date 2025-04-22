@@ -4,7 +4,7 @@ heading: Chapter 3d
 weight: 11
 description: "The fate of the German element in the Austrian State depended on its position in Parliament"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

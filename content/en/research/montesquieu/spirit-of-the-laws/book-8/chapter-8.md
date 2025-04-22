@@ -3,9 +3,9 @@ heading: "Chapters 3-5"
 title: "Danger of the Corruption of the Principle of Monarchical Government"
 weight: 6
 description: "THE danger is not when the state passes from one moderate to another moderate government, a republic to  a monarchy, or from a monarchy to a republic, but when it switches from a moderate to a despotic government"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

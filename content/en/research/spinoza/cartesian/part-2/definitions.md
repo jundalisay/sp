@@ -1,6 +1,6 @@
 ---
 title: "Definitions by Spinoza"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "Here the only requirement is that everyone should attend to his perceptions as accurately as possible"
 writer:
   name: Spinoza

@@ -2,13 +2,13 @@
 heading: "Chapter 2b"
 title: "Money Wages versus Real Wages"
 description: "Keynes continues his corruption of Classical theory by arguing for the dominance of money wages over real wages"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-12-28
 weight: 4
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

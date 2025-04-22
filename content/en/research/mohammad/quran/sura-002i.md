@@ -2,7 +2,7 @@
 title: "Rules on Intoxicants, Menstruation, and Sex"
 heading: "Sura 2e "
 weight: 20
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

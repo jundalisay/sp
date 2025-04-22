@@ -1,8 +1,6 @@
 ---
 title: "Ranald, Josef"
-# heading: "Enlightened"
 description: ""
-# image: "/covers/hands.png"
 c: "deeppink"
 weight: 180
 # date: 2022-05-05

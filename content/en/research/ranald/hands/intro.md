@@ -2,7 +2,7 @@
 title: "Introduction"
 weight: 2
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: "SOME time ago, there was an eclipse of the sun which was predicted so many years ago, even before the birth of the scientists who would observe it"
 ---
 

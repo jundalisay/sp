@@ -2,10 +2,10 @@
 heading: "Chapter 2c"
 title: "Involuntary Employment"
 description: "The struggle over money-wages is often believed to determine the general level of real wages"
-image: "/covers/general.jpg"
+c: "maroon"
 weight: 6
 # date: 2020-12-26
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

@@ -4,7 +4,7 @@ title: "Introduction"
 weight: 2
 description: "ON APRIL 1, 1924, I began to serve my sentence of detention in the Fortress of Landsberg am Lech"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 <!-- Mein Kampf

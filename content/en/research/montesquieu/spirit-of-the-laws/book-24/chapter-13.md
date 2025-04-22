@@ -5,7 +5,7 @@ linkTitle: "Chapter 13-15"
 weight: 24
 # "2021-09-30"
 description: "THE pious man and the atheist always talk of religion; the one speaks of what he loves, and the other of what he fears"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 icon: "/icons/mont.png"
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 5a
 title: "The Universe"
 weight: 24
-image: "/covers/timaeus.jpg"
+c: "orangered"
 description: "How is the body created?"
 writer:
   name: Plato

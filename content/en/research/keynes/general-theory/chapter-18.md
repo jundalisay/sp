@@ -2,10 +2,10 @@
 title: "The Summary of the General Theory"
 heading: "Chapter 18"
 description: "The division of the determinants of the economic system into the two groups of given factors and independent variables is, of course, quite arbitrary from any absolute standpoint"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-10-14
 weight: 80
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

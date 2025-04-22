@@ -2,7 +2,7 @@
 title:  "The Population Growth of Humans and Animals"
 heading:  "Chapters 1-6"
 description:  "Female animals have an almost constant fecundity"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 ---
 

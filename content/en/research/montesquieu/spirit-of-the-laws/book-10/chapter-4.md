@@ -3,9 +3,9 @@ heading: "Chapter 4-5"
 title: "Some Advantages of a conquered People"
 weight: 4
 description: "OFFENSIVE force is regulated by the law of nations which is the political law of each country relative to other countries"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 
@@ -19,7 +19,9 @@ Conquered countries generally degenerate from their original institution.
 
 Who can question but such a state would be a gainer, and derive  some advantages from the very conquest itself, if it did not prove destruct ive? 
 
-When a government is arrived to that degree of corruption as to be inc apable of reforming itself, it would not lose much by being new moulded. A  conqueror, who enters triumphant into a country, where the moneyed men have , by a variety of artifices, insensibly arrived at innumerable ways of encr oaching on the public; where the miserable people, who see abuses grown int o laws, are ready to sink under the weight of oppression, yet think they ha ve no right to apply for redress; a conqueror, I say, may make a total chan ge; and then the tyranny of those wretches will be the first thing exposed  to his resentment.
+When a government is arrived to that degree of corruption as to be incapable of reforming itself, it would not lose much by being new moulded. 
+
+A conqueror, who enters triumphant into a country, where the moneyed men have , by a variety of artifices, insensibly arrived at innumerable ways of encr oaching on the public; where the miserable people, who see abuses grown into laws, are ready to sink under the weight of oppression, yet think they have no right to apply for redress; a conqueror, I say, may make a total chan ge; and then the tyranny of those wretches will be the first thing exposed  to his resentment.
 
 We have beheld, for instance, countries  oppressed by the farmers of the revenues, and eased afterwards by the conqu eror, who had neither the engagements nor wants of the legitimate prince. E ven the abuses have been often redressed without any interposition of the c onqueror.
 

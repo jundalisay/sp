@@ -8,7 +8,7 @@ image: "/covers/meteors.png"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 <!-- After what I have said about the nature of colors, I do not think I have much to add about those that are seen in the clouds.  -->

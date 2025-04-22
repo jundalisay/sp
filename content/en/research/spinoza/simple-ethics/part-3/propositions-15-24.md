@@ -1,6 +1,6 @@
 ---
 title: "Propositions 15 to 24"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "Anything can, accidentally, be the cause of pleasure, pain, or desire"
 icon: /icons/spinoza.png
 writer:

@@ -1,7 +1,7 @@
 ---
 heading: "Propositions 25-"
 title: "The Second Law of Motion"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "If A and B are unequal in mass, B being greater than A, other conditions being as previously stated, then A alone will be reflected, and each will continue to move at the same speed"
 writer:
   name: Spinoza

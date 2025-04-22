@@ -1,14 +1,14 @@
 ---
 title: "The Animal Spirits"
 heading: "Chapter 12e"
-image: "/covers/general.jpg"
+c: "maroon"
 description: "Most of our decisions to do something positive are caused by animal spirits"
 # date: 2020-11-12
 weight: 52
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

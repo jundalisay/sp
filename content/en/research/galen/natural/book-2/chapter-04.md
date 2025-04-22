@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 8
 author: Galen
 description: "Erasistratus acclaims Nature as being an artist in construction. This is also in the Peripatetic teachings"
-image: /covers/natural.jpg
+c: "maroon"
 ---
 
 

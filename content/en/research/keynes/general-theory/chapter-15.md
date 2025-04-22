@@ -2,13 +2,13 @@
 title: "The Psychological and Business Incentives To Liquidity"
 heading: "Chapter 15"
 description: "Keynes explains the Incentives To Liquidity"
-image: "/covers/general.jpg"
+c: "maroon"
 date: 2020-10-30
 weight: 64
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

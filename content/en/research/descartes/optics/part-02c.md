@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
 description: "How does refraction work?"
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

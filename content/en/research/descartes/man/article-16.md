@@ -4,7 +4,7 @@ title: "Hearing and Harmony"
 # date: 2022-01-29
 weight: 28
 description: "The filaments that make up the ears are not necessarily as thin as those preceding them"
-image: "/covers/man.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

@@ -5,7 +5,7 @@ heading: "Part 3"
 # date: 2022-01-29
 weight: 12
 description: "This part talks about the principles of macro-phenomena such as heavenly bodies"
-image: "/covers/philos.jpg"
+c: "orangered"
 ---
 
 

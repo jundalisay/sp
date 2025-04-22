@@ -3,7 +3,7 @@ heading: Chapter 5
 title: "The Mounts amd their Attributes"
 weight: 20
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: ""
 draft: true
 ---

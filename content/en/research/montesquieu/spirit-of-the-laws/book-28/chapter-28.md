@@ -2,10 +2,10 @@
 title: "The Appeal of Default of Justice"
 heading: "Chapter 8"
 description: "THE appeal of default of justice was when the court of a particular lord deferred, evaded, or refused to do justice to the parties"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 70
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

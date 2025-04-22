@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
 description: "To explain the eye, we must explain the senses"
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

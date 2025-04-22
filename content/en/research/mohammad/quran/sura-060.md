@@ -2,7 +2,7 @@
 title: "The Woman Tested (al-Mumtahina)"
 heading: "Sura 60"
 weight: 196
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "Do not take My enemies and your enemies for supporters"
 ---
 

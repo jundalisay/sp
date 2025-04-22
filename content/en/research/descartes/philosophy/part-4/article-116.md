@@ -6,8 +6,8 @@ description: "There are lamps in underground catacombs that remained lit after m
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.jpg"
-icon: "/icons/descartes.png"
+c: "orangered"
+icon: "Rene Descartes"
 # aliases:
 #   /research/descartes/philosophy/part-4/section-04
 ---

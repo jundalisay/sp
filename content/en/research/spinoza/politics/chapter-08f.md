@@ -1,7 +1,7 @@
 ---
 heading: Chapter 8f
 title: "The Justice System"
-image: "/covers/politics.jpg"
+c: "darkgreen"
 description: "With regard to the number of judges, however, a consideration of this kind of constitution does not demand any special figure"
 writer:
   name: Spinoza

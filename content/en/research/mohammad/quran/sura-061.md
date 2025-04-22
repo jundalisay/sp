@@ -2,7 +2,7 @@
 title: "Column (as-Saff)"
 heading: "Sura 61a "
 weight: 198
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

@@ -4,7 +4,7 @@ heading: Chapter 14c
 weight: 262
 description: "The area comprised in the German REICH is insignificant compared with the real World Powers."
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

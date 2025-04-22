@@ -7,7 +7,7 @@ description: "This stone is similar to the aetheral air that compose the heavens
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

@@ -2,10 +2,10 @@
 heading: "Chapter 7d Appendix"
 title: "Appendix on User Cost Past and Present"
 description: "The Classical theory of value has an important concept called the USER cost, which has been overlooked"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-11-30
 weight: 32
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

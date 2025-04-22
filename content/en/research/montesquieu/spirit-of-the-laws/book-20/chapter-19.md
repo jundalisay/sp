@@ -3,9 +3,9 @@ heading: "Chapters 19-22"
 title: "A Prince should not engage himself in Commerce"
 weight: 12
 description: "Commerce Requires Men who are Competitive"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

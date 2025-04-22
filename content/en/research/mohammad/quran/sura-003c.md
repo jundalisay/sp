@@ -2,7 +2,7 @@
 title: "Jews and Christians Versus the Muslims"
 heading: "Sura 3c "
 weight: 32
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "The Prophet Mohammad describes the differences of his beliefs with those of Jews and Christians"
 ---
 

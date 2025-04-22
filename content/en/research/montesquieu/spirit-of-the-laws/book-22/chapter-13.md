@@ -2,10 +2,10 @@
 title: "How the Emperors Devalued their Coin"
 heading: "Chapter 13"
 description: "Proceedings with respect to Money in the Time of the Emperors"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 16
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

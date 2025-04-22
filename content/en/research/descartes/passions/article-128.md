@@ -3,11 +3,11 @@ heading: Articles 128-134
 title: The Origin of Tears
 weight: 38
 description: What is Passion in relation to one subject is always Action in another respect.
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

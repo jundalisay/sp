@@ -2,7 +2,7 @@
 title: "Evolution"
 heading: "Chapter 7b"
 weight: 44
-image: "/covers/timaeus.jpg"
+c: "orangered"
 description: "There are 3 kinds of soul within us, having each of them motions"
 author: "Plato"
 icon: /icons/Socrates.jpg

@@ -2,7 +2,7 @@
 title: "Knowledge Versus Opinion"
 heading: "Chapter 3"
 weight: 14
-image: "/covers/republic.jpg"
+c: "darkblue"
 description: "Knowledge is the total perception and understanding of a thing, but Opinion is a single perception or view of it"
 author: "Socrates"
 icon: "Socrates"

@@ -6,8 +6,8 @@ description: "Whenever I do not perceive the truth clearly, I simply suspend jud
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/med.png"
-icon: "/icons/descartes.png"
+c: "darkblue"
+icon: "Rene Descartes"
 ---
 
 

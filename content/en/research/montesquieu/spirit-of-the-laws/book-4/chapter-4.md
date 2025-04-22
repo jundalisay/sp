@@ -3,9 +3,9 @@ heading: "Chapters 3-4"
 title: "Ancient vs Modern Education. Education in a Republic"
 weight: 4
 description: "The education in modern and ancient Europe were very different"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

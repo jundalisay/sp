@@ -2,7 +2,7 @@
 title: "The Soothing and The Fig"
 heading: "Sura 95 "
 weight: 248
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

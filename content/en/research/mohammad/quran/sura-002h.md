@@ -2,7 +2,7 @@
 title: "Fight for Enki"
 heading: "Sura 2h "
 weight: 18
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "Fight in the cause of Enki those who fight you"
 ---
 

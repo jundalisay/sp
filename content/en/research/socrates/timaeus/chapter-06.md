@@ -2,7 +2,7 @@
 title: "The Heart, Lungs, and Liver"
 heading: "Chapter 6"
 weight: 34
-image: "/covers/timaeus.jpg"
+c: "orangered"
 description: "The heart is the knot of the veins and the fountain of the blood which races through all the limbs. This was the guard."
 writer:
   name: Plato

@@ -5,7 +5,7 @@ weight: 10
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-image: "/covers/economist.jpg"
+c: "darkgreen"
 description: "Wealth is anything that provides utilitiy and benefit for living"
 icon: "/icons/Xenophon.jpg"
 ---

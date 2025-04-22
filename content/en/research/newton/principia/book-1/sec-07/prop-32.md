@@ -4,7 +4,7 @@ linkTitle: Prop 32
 title: "Proposition 32 Problem 24"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 6
 ---
 

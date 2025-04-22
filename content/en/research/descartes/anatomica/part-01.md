@@ -7,8 +7,8 @@ description: "Rene Descartes starts to doubt all of his beliefs"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/anatomica.jpg"
-icon: "/icons/descartes.png"
+c: "deeppink"
+icon: "Rene Descartes"
 ---
 
 

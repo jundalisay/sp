@@ -4,7 +4,7 @@ linkTitle: Proposition 48
 title: "Proposition 48, Theorem 38"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 12
 ---
 

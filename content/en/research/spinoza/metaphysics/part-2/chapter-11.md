@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11
 title: "God's Concurrence"
-image: "/covers/metaphysical.jpg"
+c: "darkblue"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

@@ -2,7 +2,7 @@
 title: "Abraham (Ibrahim)"
 heading: "Sura 14a "
 weight: 92
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

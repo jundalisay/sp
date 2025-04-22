@@ -6,7 +6,7 @@ linkTitle: Part C
 weight: 6
 description: Which consists of infinite atoms moving in infinite space
 author: "Titus Lucretius Carus"
-image: /covers/things.jpg
+c: "maroon"
 ---
 
 

@@ -4,8 +4,8 @@ heading: Chapter 15b
 weight: 804
 description: "If the German working class, in 1914, consisted of real Marxists the War would have ended within 3 weeks"
 author: Adolf Hitler
-image: /covers/mein.jpg
-icon: /avatars/hitler.jpg
+c: "maroon"
+icon: "Adolf Hitler"
 ---
 
 

@@ -4,7 +4,7 @@ title: "The Spirit of Mankind"
 linkTitle: "Chapters 1-4"
 weight: 4
 description: "The three kinds of government are Republican, Monarchy, and Despotism"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 icon: "/icons/mont.png"
 ---
 

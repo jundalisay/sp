@@ -2,7 +2,7 @@
 title: "Rules on Food, Fasting, Gambling, and Revenge"
 heading: "Sura 2g"
 weight: 16
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

@@ -2,10 +2,10 @@
 heading: "Chapter 3"
 title: "The Principle of Effective Demand"
 description: "Output minus factor cost equals profit or entrepreneur's income"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-12-23
 weight: 10
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

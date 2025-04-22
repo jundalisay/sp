@@ -3,7 +3,7 @@ title: The Story of Moses (in al-Qasas)
 # title: "History (al-Qasas)"
 heading: "Sura 28 "
 weight: 132
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

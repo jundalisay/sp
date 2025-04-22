@@ -2,9 +2,9 @@
 title: "True Inflation"
 heading: "Chapter 21c"
 description: "True inflation happens when a further increase in effective demand produces no increase in output"
-image: "/covers/general.jpg"
+c: "maroon"
 weight: 98
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

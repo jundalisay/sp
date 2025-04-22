@@ -1,7 +1,7 @@
 ---
 title: "I"
 description: "The Chemical Dictionary"
-image: "/covers/dic.jpg"
+c: "black"
 weight: 16
 writer:
   name: Paracelsus

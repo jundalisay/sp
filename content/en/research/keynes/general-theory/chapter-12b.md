@@ -1,14 +1,14 @@
 ---
 title: "The State of Long-Term Expectation"
 heading: "Chapter 12"
-image: "/covers/general.jpg"
+c: "maroon"
 description: "Keynes talks about Expectations"
 # date: 2020-11-12
 weight: 52
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

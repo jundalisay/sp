@@ -1,7 +1,7 @@
 ---
 heading: "Propositions 12-33"
 title: "The Law of Conservation of Momentum and Mass"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "God is the principal cause of motion"
 writer:
   name: Spinoza

@@ -7,7 +7,7 @@ image: "/covers/meteors.png"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 <!-- We naturally have more admiration for things above us than for those at the same height or below. 

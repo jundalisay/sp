@@ -3,7 +3,7 @@
 title: Noah Pleads to the People
 heading: "Sura 7b"
 weight: 66
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "We sent Noah to his people"
 ---
 

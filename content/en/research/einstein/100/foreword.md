@@ -5,7 +5,7 @@ title: "100 Authors Against Einstein"
 weight: 27
 # "introduced the sophistry of General Relativity"
 description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
-image: "/covers/100.jpg"
+c: "orangered"
 ---
 
 

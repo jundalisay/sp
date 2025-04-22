@@ -2,10 +2,10 @@
 title: "Pigou’s Theory of Unemployment"
 heading: "Chapter 19c"
 description: "Pigou makes the volume of employment to depend on two factors--real wages and the demand for labor"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-10-06
 weight: 88
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

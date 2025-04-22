@@ -5,7 +5,7 @@ writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 weight: 16
-image: "/covers/timaeus.jpg"
+c: "orangered"
 description: "Timaeus is the most of an astronomer amongst us. He has made the nature of the universe his special study"
 ---
 

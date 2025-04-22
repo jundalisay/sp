@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 4
 author: Galen
 description: "The arteries draw these into themselves on every side."
-image: /covers/natural.jpg
+c: "maroon"
 ---
 
 

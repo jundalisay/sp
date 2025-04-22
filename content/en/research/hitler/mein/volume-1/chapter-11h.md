@@ -4,7 +4,7 @@ heading: Chapter 11h
 weight: 102
 description: "The Jewish idea is to demolish this structure to build an International Stock Exchange."
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

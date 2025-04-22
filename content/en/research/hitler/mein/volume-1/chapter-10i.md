@@ -4,7 +4,7 @@ heading: Chapter 10h
 weight: 78
 description: "Marriage must serve the greater end -- increasing and maintaining the human species and the race"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

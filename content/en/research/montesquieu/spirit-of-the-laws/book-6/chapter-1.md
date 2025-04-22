@@ -3,9 +3,9 @@ heading: "Chapters 9-12"
 title: "The Simplicity of civil Laws in different Governments"
 weight: 4
 description: "MONARCHIES have more complex laws than despotic governments because monarchies need courts of judicature which decide on cases"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

@@ -4,7 +4,7 @@ title: "Relation between the Weight of Taxes and Liberty"
 linkTitle: "Chapter 12"
 weight: 8
 description: "Taxes can be higher the more liberty a person has, and should be lower the more enslaved a person is"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 icon: "/icons/mont.png"
 ---
 

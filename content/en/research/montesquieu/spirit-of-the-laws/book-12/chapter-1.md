@@ -3,7 +3,7 @@ title: "The Liberty of the Citizen"
 heading: "Chapter 1"
 # date: 2015-09-30
 weight: 6
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 description: "In most states, liberty is more checked or depressed than their constitution requires"
 icon: "/icons/mont.png"

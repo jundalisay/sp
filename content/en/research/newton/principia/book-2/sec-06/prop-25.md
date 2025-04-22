@@ -4,6 +4,6 @@ linkTitle: Prop 25
 title: "Proposition 25, Theorem "
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 8
 ---

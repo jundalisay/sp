@@ -4,7 +4,7 @@ heading: Chapter 3c
 weight: 10
 description: "The failure to see the truth of all this constituted what may be called the tragic crime of the Habsburg rulers"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

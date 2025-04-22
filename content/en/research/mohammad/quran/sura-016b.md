@@ -2,7 +2,7 @@
 title: "Social Rules"
 heading: "Sura 16b "
 weight: 98
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

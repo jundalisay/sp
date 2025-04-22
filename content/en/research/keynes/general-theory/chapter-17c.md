@@ -2,10 +2,10 @@
 title: "The Natural Rate of Interest"
 heading: "Chapter 17c"
 description: ""
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-10-16
 weight: 78
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

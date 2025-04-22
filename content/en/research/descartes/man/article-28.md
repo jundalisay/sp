@@ -6,8 +6,8 @@ description: "The pores of the brain are like the intervals between the threads 
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/man.jpg"
-icon: "/icons/descartes.png"
+c: "deeppink"
+icon: "Rene Descartes"
 ---
 
 

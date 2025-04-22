@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
 description: "These rays must be imagined as always being straight when they pass through a single transparent body that is uniform throughout"
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

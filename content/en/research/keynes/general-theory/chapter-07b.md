@@ -2,10 +2,10 @@
 heading: "Chapter 7b"
 title: "Forced Saving"
 description: "My Treatise on Money suggested that they bore some affinity to the difference between investment and “saving” in the sense in which I there used the latter term"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-12-02
 weight: 30
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

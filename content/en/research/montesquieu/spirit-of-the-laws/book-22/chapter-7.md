@@ -2,10 +2,10 @@
 title: "How the Price of Things is fixed in the Variation of the Sign of Riches"
 heading: "Chapter 7"
 description: "MONEY is the price of merchandise or manufactures. But how shall we fix this price? By what piece of money is everything to be represented?"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 10
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

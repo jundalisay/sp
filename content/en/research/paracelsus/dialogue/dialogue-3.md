@@ -2,7 +2,7 @@
 heading: Part 3
 title: "The Alchemist Versus Mercury"
 description: "At last he begins to curse Mercury, and revile Nature because she made him"
-image: "/covers/dialogue.jpg"
+c: "maroon"
 weight: 8
 writer:
   name: Paracelsus

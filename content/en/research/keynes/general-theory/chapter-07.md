@@ -2,10 +2,10 @@
 heading: "Chapter 7"
 title: "The Meaning of Saving and Investment Further Considered"
 description: "The income of the current period is obtained by deducting from A + G - A1"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-12-05
 weight: 28
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

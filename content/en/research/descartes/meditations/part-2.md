@@ -8,8 +8,8 @@ description: "'Everything I see is fictitious. My memory tells me nothing but li
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/med.png"
-icon: "/icons/descartes.png"
+c: "darkblue"
+icon: "Rene Descartes"
 ---
 
 

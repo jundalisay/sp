@@ -1,8 +1,8 @@
 ---
 title: "Introduction"
-image: "/covers/musashi.jpg"
+c: "darkblue"
 description: "I have been many years training in the Way of Strategy, called Ni Ten Ichi Ryu, and now I think I will explain it in writing for the first time"
-icon: "/icons/newton.png"
+icon: "Musashi"
 weight: 2
 ---
 

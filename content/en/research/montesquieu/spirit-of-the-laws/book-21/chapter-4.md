@@ -3,9 +3,9 @@ heading: "Chapter 3"
 title: "The Principal Difference between the Commerce of the Ancients and the Moderns"
 weight: 8
 description: "European trade is currently carried on principally from the north to the south"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

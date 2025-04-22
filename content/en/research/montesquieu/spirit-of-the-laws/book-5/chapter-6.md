@@ -3,9 +3,9 @@ heading: "Chapters 6-7"
 title: "How the Laws Should Maintain Frugality in a Democracy"
 weight: 6
 description: "IT is not sufficient, in a well-regulated democracy, that the divisions of land be equal"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

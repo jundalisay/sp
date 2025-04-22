@@ -3,9 +3,9 @@ heading: "Chapters 1-3"
 title: "The Spirit of Commerce and Two Types of Poor"
 weight: 2
 description: "Each domain or layer of the universe has its laws designed by the Creator"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 2
 description: "The leaders of more solid doctrines have long complained that simple and clear Truth has been obscured by obscure subtleties."
 writer:
   name: Florentius Schuyl
-image: "/covers/man.jpg"
+c: "deeppink"
 ---
 
 

@@ -6,8 +6,8 @@ description: "The truth regarding the nature of body is obscured by the opinions
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/philos.jpg"
-icon: "/icons/descartes.png"
+c: "orangered"
+icon: "Rene Descartes"
 # aliases:
 #   /research/descartes/philosophy/part-2/section-01b
 ---

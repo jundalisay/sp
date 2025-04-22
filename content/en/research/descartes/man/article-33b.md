@@ -4,7 +4,7 @@ title: "The Disposition of the Filaments"
 # date: 2024-12-12
 weight: 53
 description: "As for the diversity of qualities of the actions that open those tubes, it is also clear that they would open them differently according to their diversity"
-image: "/covers/man.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

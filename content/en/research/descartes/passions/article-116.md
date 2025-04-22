@@ -3,11 +3,11 @@ heading: Articles 116-122
 title: Sadness and Trembling
 weight: 34
 description: Sadness constricts the openings of the heart. This causes the blood to flow more slowly in the veins.
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

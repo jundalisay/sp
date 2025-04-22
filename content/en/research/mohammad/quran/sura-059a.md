@@ -2,7 +2,7 @@
 title: "The Mobilization (al-Hashr)"
 heading: "Sura 59a "
 weight: 194
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

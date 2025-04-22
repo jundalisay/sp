@@ -6,8 +6,8 @@ description: "The natural light shows that the total cause of something must con
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/med.png"
-icon: "/icons/descartes.png"
+c: "darkblue"
+icon: "Rene Descartes"
 ---
 
 

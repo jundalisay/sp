@@ -2,10 +2,10 @@
 heading: "Chapter 3b"
 title: "The General Theory's Propositions"
 description: "Output minus factor cost equals profit or entrepreneur's income"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-12-21
 weight: 12
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

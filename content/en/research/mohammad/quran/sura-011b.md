@@ -2,7 +2,7 @@
 title: "Hud"
 heading: "Sura 11a"
 weight: 82
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "We sent Noah to his people"
 ---
 

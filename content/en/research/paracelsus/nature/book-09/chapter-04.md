@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "The Astral Signs of Chiromancy"
 description: "The Origin of Physiognomy"
-image: "/covers/nature.png"
+c: "orangered"
 weight: 12
 # date: 2022-05-18
 writer:

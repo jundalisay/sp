@@ -3,11 +3,11 @@ heading: Articles 211
 title: Premeditation as a general remedy against the Passions
 weight: 100
 description: People should practice to separate in themselves the movements of the blood and spirits from the thoughts to which they are usually joined to
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

@@ -2,10 +2,10 @@
 heading: "Chapter 16b"
 title: "Long and Short Processes"
 description: "Some lengthy or roundabout processes are physically efficient. But so are some short processes."
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-10-24
 weight: 70
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

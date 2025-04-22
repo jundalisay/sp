@@ -1,6 +1,6 @@
 ---
 title: "Propositions 1 to 8"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "The human body can be affected in many ways which increases or reduces its power of activity"
 icon: /icons/spinoza.png
 writer:

@@ -2,7 +2,7 @@
 title: "The Compassionate (ar-Rahman)"
 heading: "Sura 55a "
 weight: 186
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

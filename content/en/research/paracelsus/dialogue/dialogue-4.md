@@ -2,7 +2,7 @@
 heading: Part 4
 title: "The Nature of Mercury"
 description: "The Philosophers said that Nature is to be mixed with Natures. They command nothing to bee done without Nature"
-image: "/covers/dialogue.jpg"
+c: "maroon"
 weight: 12
 writer:
   name: Paracelsus

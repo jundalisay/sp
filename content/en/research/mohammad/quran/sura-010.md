@@ -2,7 +2,7 @@
 title: "Jonah (Yunus)"
 heading: "Sura 10 "
 weight: 78
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

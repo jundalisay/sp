@@ -3,7 +3,7 @@ heading: Chapter 15
 title: "Special Markings In The Palm"
 weight: 44
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: ""
 draft: true
 ---

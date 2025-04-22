@@ -4,7 +4,7 @@ linkTitle: Proposition 46, Theorem 10
 title: "Proposition 51, Theorem 39"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 8
 ---
 

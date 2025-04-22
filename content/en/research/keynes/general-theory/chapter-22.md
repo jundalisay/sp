@@ -2,10 +2,10 @@
 heading: "Chapter 22"
 title: "Notes on the Trade Cycle"
 description: "Notes on the Trade Cycle"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-09-24
 weight: 100
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

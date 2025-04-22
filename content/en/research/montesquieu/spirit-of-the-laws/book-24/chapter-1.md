@@ -2,7 +2,7 @@
 title: "Religion in General"
 heading: "Chapter 1-4"
 weight: 2
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 description: "Liberty is favoured by the Nature and Proportion of Punishments"
 icon: "/icons/mont.png"

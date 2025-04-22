@@ -1,7 +1,7 @@
 ---
 heading: Appendix 2
 title: "Overthrowing the Doctrine of a Final Cause"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

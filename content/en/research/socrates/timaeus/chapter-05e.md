@@ -2,7 +2,7 @@
 heading: "Chapter 5d"
 title: "Colors and Causes"
 weight: 32
-image: "/covers/timaeus.jpg"
+c: "orangered"
 description: "Color is the fourth class of sensible things, having many intricate varieties"
 writer:
   name: Plato

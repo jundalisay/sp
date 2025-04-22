@@ -1,14 +1,14 @@
 ---
 title: "Interest Rates According to Different Economists"
 heading: "Chapter 14 Appendix"
-image: "/covers/general.jpg"
+c: "maroon"
 description: "Keynes compares the different notions of interest by Marshall, Ricardo, Pigou, and Von Mises"
 # date: 2020-11-03
 weight: 60
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

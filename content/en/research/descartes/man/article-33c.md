@@ -4,7 +4,7 @@ title: "How the Spirits Change Course"
 # date: 2022-01-29
 weight: 55
 description: "This occurs especially when they are determined from elsewhere only temporarily or not at all"
-image: "/covers/man.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

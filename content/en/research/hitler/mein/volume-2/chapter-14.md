@@ -4,7 +4,7 @@ heading: Chapter 14
 weight: 260
 description: "Two considerations induce me to make a special analysis of Germany's position in regard to Russia"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

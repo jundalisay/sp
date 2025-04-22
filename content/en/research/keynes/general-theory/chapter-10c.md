@@ -1,14 +1,14 @@
 ---
 title: "The Marginal Propensity to Consume and the Multiplier"
 heading: "Chapter 10c"
-image: "/covers/general.jpg"
+c: "maroon"
 description: "The Multiplier in our theory of employment is a definite ratio between income and investment total employment and primary employment"
 # date: 2020-11-16
 weight: 46
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 <!-- 4 -->

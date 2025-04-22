@@ -3,9 +3,9 @@ heading: "Chapter 4"
 title: "How Despotic Governments provide for their Safety"
 weight: 6
 description: "A small republic is destroyed by a foreign force"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

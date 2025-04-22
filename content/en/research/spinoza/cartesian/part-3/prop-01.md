@@ -1,7 +1,7 @@
 ---
 heading: Propositions 1-2
 title: "The Parts of Matter"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "The parts into which matter was first divided were not round but angular"
 writer:
   name: Spinoza

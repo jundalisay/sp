@@ -3,9 +3,9 @@ heading: "Chapters 23"
 title: "To what Nations Commerce is prejudicial"
 weight: 12
 description: "Riches consist either in lands, or in moveable effects"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

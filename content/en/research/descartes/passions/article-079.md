@@ -4,11 +4,11 @@ linkTitle: Articles 79-84
 title: Love and Hatred
 weight: 25
 description: What is Passion in relation to one subject is always Action in another respect.
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

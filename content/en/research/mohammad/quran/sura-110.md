@@ -2,7 +2,7 @@
 title: "Victory, Thorns, Monotheism, Daybreak, Mankind"
 heading: "Sura 110-113 "
 weight: 258
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "Condemned is Abu Lahab and his hands."
 ---
 

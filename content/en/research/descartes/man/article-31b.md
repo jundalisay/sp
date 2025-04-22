@@ -4,7 +4,7 @@ title: "Things That Move The Pineal Gland"
 # date: 2022-01-29
 weight: 47
 description: "Gland H is composed of a very soft material --  a substance that is not united with the substance of the brain everywhere, but is only attached to it by small arteries"
-image: "/covers/man.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

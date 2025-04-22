@@ -4,7 +4,7 @@ heading: Chapter 3i
 weight: 20
 description: "The German International Socialist may be plundered by his comrades in all the other countries of the world in the name of 'solidarity'"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

@@ -2,10 +2,10 @@
 title: "Ideal [Nominal] Money"
 heading: "Chapter 3"
 description: "Civilized nations generally only use ideal money, because they have converted their real money into ideal"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 6
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

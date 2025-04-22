@@ -3,9 +3,9 @@ heading: "Chapter 15b"
 title: "Trajan"
 weight: 17
 description: "Nerva adopted Trajan, who proved the most accomplished prince in all history"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

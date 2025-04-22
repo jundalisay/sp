@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
 description: "If it were possible to cut the eye in half without the liquors with which it is filled flowing out, it would appear as it is represented in this figure"
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

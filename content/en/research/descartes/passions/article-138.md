@@ -3,11 +3,11 @@ heading: Articles 138-144
 title: The Defects of Bodily Movement and How to Correct Them
 weight: 44
 description: All animals without reason lead their lives only through bodily movements. This is similar to those in us which our souls consent to
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

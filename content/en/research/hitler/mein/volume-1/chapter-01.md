@@ -4,8 +4,8 @@ heading: Chapter 1
 weight: 4
 description: "I was fortunate to be born in the little town Braunau-on-the-Inn"
 author: Adolf Hitler
-image: /covers/mein.jpg
-icon: /avatars/hitler.jpg
+c: "maroon"
+icon: "Adolf Hitler"
 ---
 
 

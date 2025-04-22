@@ -3,7 +3,7 @@ title: "Thoughts and Indiscreet Speeches"
 heading: "Chapter 11"
 # date: 2015-09-30
 weight: 2
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 description: "Speech is so subject to interpretation. There is so great a difference be tween indiscretion and malice"
 icon: "/icons/mont.png"

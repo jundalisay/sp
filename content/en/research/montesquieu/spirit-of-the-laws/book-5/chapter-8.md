@@ -3,9 +3,9 @@ heading: "Chapters 8-9"
 title: "How the Laws Should be in an Aristocracy"
 weight: 8
 description: "IT is not sufficient, in a well-regulated democracy, that the divisions of land be equal"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

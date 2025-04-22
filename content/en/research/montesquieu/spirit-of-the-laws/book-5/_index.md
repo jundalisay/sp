@@ -5,6 +5,6 @@ linkTitle: "Book 5"
 weight: 10
 # "2021-09-30"
 description: "Book 5 of The Spirit of the Laws by Montesquieu Simplified in 19 chapters"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
 ---

@@ -4,7 +4,7 @@ linkTitle: Part 2
 title: "Corollaries 1-2"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 8
 author: Isaac Newton
 ---

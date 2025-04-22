@@ -3,9 +3,9 @@ heading: "Chapter 15"
 title: "The Commerce of the Romans with the Barbarians"
 weight: 22
 description: "The weakness of the people and the tyranny of their laws united this immense body. The Roman policy was then to avoid all communication with those nations whom they had not subdued"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

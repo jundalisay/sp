@@ -3,9 +3,9 @@ heading: "Chapters 6-13"
 title: "Public Continency"
 weight: 8
 description: "LUXURY indicates the inequality of fortunes"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

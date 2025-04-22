@@ -7,7 +7,7 @@ description: "The Aethereal Universe is made up the aether divided into infinite
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

@@ -7,7 +7,7 @@ description: "In Cartesian Physics, Electromagnetism is created from Spacetime w
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

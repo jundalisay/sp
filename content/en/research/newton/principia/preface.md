@@ -2,7 +2,7 @@
 title: "Preface"
 c: "maroon"
 description: "Pappus tells us that the ancients made a great account of the science of mechanics in investigating natural things"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 2
 ---
 

@@ -2,10 +2,10 @@
 title: "The Laws of Barbarians"
 heading: "Chapter 8"
 description: "The laws of Barbarians were all personal"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 4
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

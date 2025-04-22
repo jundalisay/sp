@@ -2,7 +2,7 @@
 title: "The True Philosopher"
 heading: "Chapter 1 of Book 6"
 weight: 12
-image: "/covers/republic.jpg"
+c: "darkblue"
 description: "A true philosopher-leader must love knowledge, learning, and have a good memory. He must not be mean nor selfish. Sophists corrupt philosophers by tapping into shallow public opinion"
 author: "Socrates"
 icon: "Socrates"

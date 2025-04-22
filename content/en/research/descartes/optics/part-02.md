@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 image: "/covers/optics.jpg"
 description: "How can we determine this refraction quantitatively?"
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The Reality (al-Haqqah)"
 heading: "Sura 69 "
 weight: 210
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

@@ -2,10 +2,10 @@
 heading: "Chapter 6b"
 title: "Income Defined by Consumption"
 description: "The income of the current period is obtained by deducting from A + G - A1 a certain sum, to represent that part of its value which has been contributed by the equipment inherited from the previous period"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-12-09
 weight: 24
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

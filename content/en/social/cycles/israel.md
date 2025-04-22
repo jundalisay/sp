@@ -87,7 +87,7 @@ Hitler knew the threat from the Trading class. This is why he tried to isolate t
 
  <!-- to prevent their rise, eventually losing during World War II.  -->
 
-{{< q a="Hitler" c="Mein Kampf, The Problem Of The Trade Unions" >}}
+{{< q a="Adolf Hitler" c="Mein Kampf, The Problem Of The Trade Unions" >}}
 The Marxists created the economic weapon which the international Jew uses for the purpose of destroying the economic foundations of free and independent national States, for ruining their national industry and trade and thereby enslaving free nations to serve Jewish world-finance, which transcends all State boundaries.
 {{< /q >}}
 

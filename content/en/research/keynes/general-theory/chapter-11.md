@@ -1,14 +1,14 @@
 ---
 title: "The Marginal Efficiency of Capital"
 heading: "Chapter 11"
-image: "/covers/general.jpg"
+c: "maroon"
 description: "The prospective yield of the investment"
 # date: 2020-11-14
 weight: 50
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 ---
 
 

@@ -2,10 +2,10 @@
 heading: "Chapter 6b"
 title: "Net Income"
 description: "My definition of net income is very close to Marshall’s definition"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-12-07
 weight: 26
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

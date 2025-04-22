@@ -2,7 +2,7 @@
 title: "The Inevitable (al-Waqi’ah)"
 heading: "Sura 56a "
 weight: 188
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 draft: true
 ---

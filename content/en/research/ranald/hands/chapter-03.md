@@ -4,7 +4,7 @@ title: "The Thumb"
 # date: 1767
 weight: 12
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: "Professor G. Elliot Smith determined that the Peking Man was human and not an ape by looking at its thumb"
 ---
 

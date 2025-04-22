@@ -3,9 +3,9 @@ heading: "Chapter 23"
 title: "General Idea of the Abbe Du Bos=E2=80=99s Book on the Establishment of= the French Monarchy in Gaul"
 weight: 4
 description: "Commerce was transferred to Jews who were covered with infamy."
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

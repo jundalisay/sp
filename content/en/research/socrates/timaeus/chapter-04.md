@@ -3,7 +3,7 @@ title: "Time and Space"
 heading: "Chapter 4"
 weight: 20
 # date= 2015-09-09
-image: "/covers/timaeus.jpg"
+c: "orangered"
 description: "The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything"
 icon: "Socrates"
 ---

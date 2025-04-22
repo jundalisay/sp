@@ -4,7 +4,7 @@ heading: Chapter 2
 weight: 7
 description: "During the last months of her illness I went to Vienna to take the entrance examination for the Academy of Fine Arts"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

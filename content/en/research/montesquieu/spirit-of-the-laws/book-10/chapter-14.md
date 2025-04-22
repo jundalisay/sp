@@ -2,7 +2,7 @@
 title: "Alexander the Great"
 heading: "Chapter 14"
 date: 2015-09-27
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 author: "Montesquieu"
 description: "Alexander started his expedition after he had secured Macedonia against the neighbouring barbarians and completed the reduction of Greece"
 ---

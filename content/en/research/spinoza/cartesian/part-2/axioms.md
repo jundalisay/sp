@@ -1,7 +1,7 @@
 ---
 # heading: Axioms
 title: "Axioms and Lemmas"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "To nothing there belong no properties"
 writer:
   name: Spinoza

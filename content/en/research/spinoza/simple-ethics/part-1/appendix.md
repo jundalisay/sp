@@ -1,7 +1,7 @@
 ---
 heading: Appendix 1
 title: "God Has No Goal"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

@@ -1,6 +1,6 @@
 ---
 title: "Propositions 53 to 59"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "When the mind regards itself and its own power of activity, it feels pleasure and that pleasure is greater in proportion to the distinctness wherewith it conceives itself and its own power of activity"
 icon: /icons/spinoza.png
 writer:

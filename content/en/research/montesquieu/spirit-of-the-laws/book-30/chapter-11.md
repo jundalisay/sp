@@ -3,9 +3,9 @@ heading: "Chapters 11-"
 title: "Servitudes"
 weight: 4
 description: "Commerce was transferred to Jews who were covered with infamy."
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

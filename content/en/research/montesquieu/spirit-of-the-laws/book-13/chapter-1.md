@@ -4,7 +4,7 @@ title: "The Public Revenues"
 linkTitle: "Chapter 1"
 weight: 2
 description: "The public revenues are a portion that each subject gives of his property, in order to secure or enjoy the remainder"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 icon: "/icons/mont.png"
 ---
 

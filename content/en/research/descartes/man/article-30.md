@@ -4,7 +4,7 @@ title: "How are Our Ideas Formed?"
 # date: 2022-01-29
 weight: 44
 description: "That obliquity serves the formation of the ideas of objects which strike the senses"
-image: "/covers/man.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

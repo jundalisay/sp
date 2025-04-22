@@ -4,8 +4,8 @@ heading: Chapter 15b
 weight: 800
 description: "At that time France's preoccupation was how to get the German armies out of France and Belgium"
 author: Adolf Hitler
-image: /covers/mein.jpg
-icon: /avatars/hitler.jpg
+c: "maroon"
+icon: "Adolf Hitler"
 ---
 
 

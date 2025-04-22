@@ -3,9 +3,9 @@ heading: "Chapter 1"
 title: "How Republics provide for their Safety"
 weight: 4
 description: "A small republic is destroyed by a foreign force"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

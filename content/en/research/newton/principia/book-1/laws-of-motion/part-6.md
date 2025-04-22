@@ -4,7 +4,7 @@ linkTitle: Part 6
 title: "Scholium: Newton's Cradle"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 60
 author: Isaac Newton
 ---

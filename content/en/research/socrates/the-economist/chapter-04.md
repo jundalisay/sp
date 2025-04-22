@@ -5,7 +5,7 @@ weight: 16
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-image: "/covers/economist.jpg"
+c: "darkgreen"
 description: "Socrates talks about excellent Persian policies and Cyrus the Great"
 icon: "/icons/Xenophon.jpg"
 ---

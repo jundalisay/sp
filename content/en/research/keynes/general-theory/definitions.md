@@ -1,10 +1,10 @@
 ---
 title: "Definitions"
 description: ""
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-01-31
 weight: 116
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

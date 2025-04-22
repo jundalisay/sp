@@ -5,7 +5,7 @@ weight: 6
 writer:
   name: Spinoza
   url: https://en.wikipedia.org/wiki/Baruch_Spinoza
-image: "/covers/ethics.jpg"
+c: "indigo"
 icon: "/icons/spinoza.png"
 description: "The object of the human mind is the human body."
 ---

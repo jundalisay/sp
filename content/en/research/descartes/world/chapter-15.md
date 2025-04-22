@@ -7,7 +7,7 @@ description: "Solar systems can be rather unequal in size. But they must always 
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 <!-- # title: The (Aetheral) Heaven Appears to Its Inhabitants Completely Like That of Ours

@@ -3,11 +3,11 @@ heading: Articles 141-144
 title: Desire, Joy, and Sadness
 weight: 48
 description: All animals without reason lead their lives only through bodily movements. This is similar to those in us which our souls consent to
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

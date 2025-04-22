@@ -3,12 +3,12 @@ title: "Preface"
 date: 2024-12-17
 weight: 3
 description: "The Natural Faculties"
-image: /covers/natural.jpg
+c: "maroon"
 draft: true
 ---
 
 
-INTRODUCTION
+## INTRODUCTION
 
 Hippocrates and Galen. If the work of Hippocrates be taken as representing the foundation upon which the edifice of historical Greek medicine was reared, then the work of Galen, who lived some six hundred years later, may be looked upon as the summit or apex of the same edifice. Galen’s merit is to have crystallised or brought to a focus all the best work of the Greek medical schools which had preceded his own time. It is essentially in the form of Galenism that Greek medicine was transmitted to after ages.
 

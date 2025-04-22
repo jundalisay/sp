@@ -4,7 +4,7 @@ linkTitle: Prop 35
 title: "Proposition 35 Theorem 40"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 6
 ---
 

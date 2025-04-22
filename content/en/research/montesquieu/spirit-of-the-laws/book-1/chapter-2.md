@@ -3,9 +3,9 @@ heading: "Chapter 2"
 title: "The Four Laws of Nature"
 weight: 4
 description: "Antecdent to the above-mentioned laws are those of nature"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

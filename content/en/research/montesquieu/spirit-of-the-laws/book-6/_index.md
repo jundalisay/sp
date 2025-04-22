@@ -5,6 +5,6 @@ linkTitle: "Book 6"
 weight: 12
 # "2021-09-30"
 description: "Book 6 of The Spirit of the Laws by Montesquieu Simplified in 21 chapters"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
 ---

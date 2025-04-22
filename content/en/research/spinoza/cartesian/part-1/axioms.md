@@ -1,7 +1,7 @@
 ---
 # heading: Propositions 1-4 
 title: "Axioms"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "We only be absolutely certain of anything as long as we know that we exist"
 writer:
   name: Spinoza

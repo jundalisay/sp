@@ -1,7 +1,7 @@
 ---
 title: "Chemical Dictionary"
 description: "The Origin of Physiognomy"
-image: "/covers/dic.jpg"
+c: "black"
 weight: 2
 writer:
   name: Paracelsus

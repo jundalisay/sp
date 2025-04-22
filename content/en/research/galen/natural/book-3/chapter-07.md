@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 6
 author: Galen
 description: "When the stomach is sufficiently full it, puts away from digested food as something troublesome."
-image: /covers/natural.jpg
+c: "maroon"
 ---
 
 

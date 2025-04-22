@@ -3,9 +3,9 @@ heading: "Chapter 19"
 title: "The Wars that Rome Sustained"
 weight: 17
 description: "Another consequence of the maxim of waging perpetual war was that the Romans only made peace when  they were victorious"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

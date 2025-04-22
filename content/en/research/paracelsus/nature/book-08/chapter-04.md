@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "The Separation of Minerals"
 description: "The Nature of Things"
-image: "/covers/nature.png"
+c: "orangered"
 weight: 12
 writer:
   name: Paracelsus

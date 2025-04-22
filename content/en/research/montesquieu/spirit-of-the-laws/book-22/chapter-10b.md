@@ -2,10 +2,10 @@
 title: "Exchange"
 heading: "Chapter 10b"
 description: "THE relative abundance and scarcity of coin in different countries leads to the course of exchange. Exchange is a fixing of the actual and momentary value of coin"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 13
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

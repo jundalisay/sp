@@ -2,10 +2,10 @@
 title: "Full Employment"
 heading: "Chapter 2"
 description: "Strict equilibrium requires wages, prices, and consequently profits to all rise in the same proportion as expenditure. "
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-10-02
 weight: 92
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

@@ -3,9 +3,9 @@ heading: "Chapter 22"
 title: "The Weakness of the Eastern Empire"
 weight: 17
 description: "Amidst the general confusion of affairs, Phocas became unsettled in his new dignity"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

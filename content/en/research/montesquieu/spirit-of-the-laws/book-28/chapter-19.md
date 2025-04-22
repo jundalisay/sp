@@ -2,10 +2,10 @@
 title: "Why the Salic and Roman Laws and the Capitularies were Disused"
 heading: "Chapter 19"
 description: "AFTER the Franks left their own country, they compiled the Salic laws with the help of their own sages"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 20
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

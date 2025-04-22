@@ -4,6 +4,6 @@ title: "Mein Kampf"
 weight: 38
 description: "Mein Kampf by Adolf Hitler"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 

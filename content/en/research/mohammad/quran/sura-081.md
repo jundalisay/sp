@@ -2,7 +2,7 @@
 title: "The Rolling (at-Takwir)"
 heading: "Sura 81a "
 weight: 232
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

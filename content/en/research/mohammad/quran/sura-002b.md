@@ -2,7 +2,7 @@
 title: "Adam and the Jews"
 heading: "Sura 2b "
 weight: 6
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

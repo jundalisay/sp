@@ -4,7 +4,7 @@ title: "The Monarchies we are acquainted with"
 linkTitle: "Chapter 7-11"
 weight: 8
 description: "THE monarchies that we know do not have liberty as their goal. Their only aim is the glory of the subject, the state, and the sovereign"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 icon: "/icons/mont.png"
 ---
 

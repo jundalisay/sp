@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "The raising again of Naturall things"
 description: "The Nature of Things"
-image: "/covers/nature.png"
+c: "orangered"
 weight: 2
 writer:
   name: Paracelsus

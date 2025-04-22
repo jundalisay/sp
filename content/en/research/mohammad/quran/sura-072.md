@@ -2,7 +2,7 @@
 title: "The Jinn (al-Jinn)"
 heading: "Sura 72 "
 weight: 216
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

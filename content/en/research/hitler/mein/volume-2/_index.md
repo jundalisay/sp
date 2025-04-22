@@ -5,7 +5,7 @@ title: "The National Socialist Movement"
 weight: 4
 description: "The National Socialist Movement became the Nazi Party and Nazism"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

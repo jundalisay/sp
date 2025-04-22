@@ -3,9 +3,9 @@ heading: "Chapter 6"
 title: "How the Romans Conquered all Nations"
 weight: 12
 description: "A tribunal arose which judged all nations."
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

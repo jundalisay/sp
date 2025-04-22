@@ -3,11 +3,11 @@ heading: Articles 174-
 title: Cowardice and Fear
 weight: 76
 description: We must reject the common notion that there exists outside of us a Fortune which causes things to happen according to its pleasure
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

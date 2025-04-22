@@ -2,10 +2,10 @@
 title: "The Origin of Chivalry"
 heading: "Chapter 22"
 description: "Montesquieu explains The Manners relative to judicial Combats"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 62
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

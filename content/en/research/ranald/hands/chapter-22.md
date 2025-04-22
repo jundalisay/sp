@@ -3,7 +3,7 @@ heading: Chapter 22
 title: "Adult Vocational Guidance"
 weight: 60
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: "SPECIALIZATION is the keynote of present-day vocations."
 ---
 

@@ -2,10 +2,10 @@
 title: "Epoch of the Reign of St. Lewis"
 heading: "Chapter 29"
 description: "Why did St. Lewis ordain for the courts of his barons a different form of proceeding from that which he had established in the courts of his demesne?"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 weight: 72
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 # date: 2020-03-31
 ---
 

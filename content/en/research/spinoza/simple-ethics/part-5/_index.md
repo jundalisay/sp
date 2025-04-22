@@ -1,7 +1,7 @@
 ---
 title: "The Power of the Understanding or of Human Freedom"
 heading: "Part 5"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "Spinoza explains human Understanding"
 writer:
   name: Spinoza

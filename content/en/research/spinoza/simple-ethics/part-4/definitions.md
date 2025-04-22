@@ -1,6 +1,6 @@
 ---
 title: "Definitions"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "Bondage is the human infirmity in moderating and checking the emotions"
 writer:
   name: Spinoza

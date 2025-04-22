@@ -3,9 +3,9 @@ heading: "Chapters 5-7"
 title: "Virtue is not the Principle of a monarchical Government"
 weight: 4
 description: "Monarchies, policy effects great things with as little virtue as possible."
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

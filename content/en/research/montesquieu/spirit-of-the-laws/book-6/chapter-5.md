@@ -3,9 +3,9 @@ heading: "Chapter 5"
 title: "In what Governments the Sovereign may be Judge"
 weight: 8
 description: "Public incontinence is the inseparable companion of luxury"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

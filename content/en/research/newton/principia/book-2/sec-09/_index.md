@@ -5,6 +5,6 @@ heading: Section 9
 title: The Circular Motion of Fluids
 c: "maroon"
 description: "Section 9 of Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 200
 ---

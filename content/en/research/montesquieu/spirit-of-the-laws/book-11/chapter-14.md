@@ -2,7 +2,7 @@
 title: "How the Distribution of the three Powers began to change, after the Expulsion of the Kings"
 heading: "Chapter 14"
 date: 2015-09-26
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 description: "Four things greatly prejudiced Rome's liberty"
 icon : "/icons/mont.png"
 ---

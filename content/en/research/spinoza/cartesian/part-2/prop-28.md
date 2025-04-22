@@ -1,7 +1,7 @@
 ---
 heading: "Propositions 25-31"
 title: "The Second Law of Motion"
-image: "/covers/cartesian.jpg"
+c: "orangered"
 description: "If a body A is completely at rest and is a little larger than B, with whatever speed B moves toward A it will never move A"
 writer:
   name: Spinoza

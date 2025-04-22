@@ -2,10 +2,10 @@
 title: "Changes in Money-Wages"
 heading: "Chapter 19"
 description: "The Economy is Not Self-Adjusting"
-image: "/covers/general.jpg"
+c: "maroon"
 # date: 2020-10-10
 weight: 84
-icon: "/avatars/keynes.png"
+icon: "John Maynard Keynes"
 writer:
   name: John Maynard Keynes
   url: https://en.wikipedia.org/wiki/John_Maynard_Keynes

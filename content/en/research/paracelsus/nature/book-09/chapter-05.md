@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "Mineral Signes"
 description: "The Nature of Things"
-image: "/covers/nature.png"
+c: "orangered"
 weight: 18
 # date: 2022-05-18
 writer:

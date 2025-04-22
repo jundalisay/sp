@@ -2,7 +2,7 @@
 title: "The Need for a Bailiff"
 heading: "Chapter 12"
 weight: 30
-image: "/covers/economist.jpg"
+c: "darkgreen"
 description: "I try to educate them, as you say, myself; and with good reason. He who is properly to fill my place and manage my affairs when I am absent, my alter ego"
 writer:
   name: Xenophon

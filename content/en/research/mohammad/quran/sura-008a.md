@@ -2,7 +2,7 @@
 title: "The Spoils (al-Anfal)"
 heading: "Sura 8a "
 weight: 72
-image: "/covers/quran.jpg"
+c: "darkgreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

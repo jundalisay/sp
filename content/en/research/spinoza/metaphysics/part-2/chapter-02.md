@@ -1,7 +1,7 @@
 ---
 heading: Chapters 2-3
 title: "The Unity and Immeasurableness of God"
-image: "/covers/metaphysical.jpg"
+c: "darkblue"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

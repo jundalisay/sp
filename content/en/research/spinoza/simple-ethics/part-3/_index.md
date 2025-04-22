@@ -1,7 +1,7 @@
 ---
 title: "The Emotions"
 heading: "Part 3"
-image: "/covers/ethics.jpg"
+c: "indigo"
 description: "Spinoza explains human emotions"
 writer:
   name: Spinoza

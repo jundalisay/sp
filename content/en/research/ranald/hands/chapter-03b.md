@@ -4,7 +4,7 @@ title: "The Thumb"
 # date: 1767
 weight: 14
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: ""
 draft: true
 ---

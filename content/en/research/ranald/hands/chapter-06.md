@@ -3,7 +3,7 @@ heading: Chapter 6
 title: "The Lines of the Palm"
 weight: 22
 contributors: ['Ranald']
-image: "/covers/hands.png"
+c: "deeppink"
 description: "IN the superstitious, fortune-telling uses of palmistry, the lines of the hand are regarded as a sort of key to the future"
 ---
 

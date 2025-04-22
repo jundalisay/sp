@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "Oil of Sulphur Transmutes Gems"
 description: "The Nature of Things"
-image: "/covers/nature.png"
+c: "orangered"
 weight: 6
 writer:
   name: Paracelsus

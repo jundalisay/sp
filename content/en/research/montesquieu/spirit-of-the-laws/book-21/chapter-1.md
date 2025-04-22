@@ -3,9 +3,9 @@ heading: "Chapter 1"
 title: "General laws on Commerce; Africa"
 weight: 4
 description: "Commerce is subject to great revolutions. Yet its nature may be forever fixed by physical causes"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

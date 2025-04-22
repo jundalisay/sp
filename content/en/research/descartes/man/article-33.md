@@ -4,7 +4,7 @@ title: "The Senses Depend on 6 Circumstances"
 # date: 2022-01-29
 weight: 52
 description: "As for the diversity of qualities of the actions that open those tubes, it is also clear that they would open them differently according to their diversity"
-image: "/covers/man.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

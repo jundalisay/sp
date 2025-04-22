@@ -3,9 +3,9 @@ heading: "Chapters 16"
 title: "The Law in Geneva and Rhodesia, Commercial Judges"
 weight: 10
 description: "Geneva has an admirable law which excludes the children of bankrupts from the magistracy and even from the admittance into the great council until they have discharged their father’s debts"
-image: "/covers/spirit.jpg"
+c: "darkgreen"
 contributors: ['Montesquieu']
-icon: /icons/mont.png
+icon: "Montesquieu"
 ---
 
 

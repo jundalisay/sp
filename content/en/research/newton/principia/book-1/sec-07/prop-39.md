@@ -4,7 +4,7 @@ linkTitle: Prop 39
 title: "Proposition 39 Theorem 13"
 c: "maroon"
 description: "We simplify Principlia Mathematica"
-icon: "/icons/newton.png"
+icon: "Newton"
 weight: 6
 ---
 

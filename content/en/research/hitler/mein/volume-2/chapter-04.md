@@ -4,7 +4,7 @@ heading: Chapter 4
 weight: 34
 description: "The principle, that one people is not the same as another, applies also to the individual members of a national community"
 author: Adolf Hitler
-image: /covers/mein.jpg
+c: "maroon"
 ---
 
 

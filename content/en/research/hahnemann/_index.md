@@ -5,6 +5,6 @@ heading: Enlightened
 description: "Samuel Hahnemann is the inventor of Homeopathy"
 weight: 39
 a: "Hahnemann"
-c: "rose"
+c: "deeppink"
 ---
 

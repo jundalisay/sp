@@ -7,7 +7,7 @@ description: "The whole mass of the Earth is caused by the presence of the moon,
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: "/icons/descartes.png"
+icon: "Rene Descartes"
 ---
 
 

@@ -4,11 +4,11 @@ linkTitle: Articles 27-32
 title: The Definition of the Passions of the Soul
 weight: 10
 description: Explanation of This Definition
-image: "/covers/passions.jpg"
+c: "deeppink"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-icon: /icons/descartes.png
+icon: "Rene Descartes"
 ---
 
 

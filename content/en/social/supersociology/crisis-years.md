@@ -116,7 +116,7 @@ Those wars were justified by the leaders of the weakening power wanting to be gr
 - The Hapsburgs wanted to be great again and so did a Seven Years War under France against the British
 - The Germans, via the Kaiser and Hitler, wanted to be great again like Bismarck and so did 2 world wars against the British
 
-{{< i s="/photos/medieval/hitler.jpg" a="Hitler" c="Hitler's whole propaganda was about making Germany great again" >}}
+{{< i s="/photos/medieval/hitler.jpg" a="Adolf Hitler" c="Hitler's whole propaganda was about making Germany great again" >}}
 
 
 
