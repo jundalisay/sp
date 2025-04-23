@@ -10,7 +10,7 @@ icon: "George Berkeley"
 
 
 
-34. The more recent thinkers consider motion and rest in bodies as two states of existence, in either of which every body would remain inert by its own nature, unless some external force urged it.
+34. The more recent thinkers consider motion and rest in bodies as 2 states of existence, in either of which every body would remain inert by its own nature, unless some external force urged it.
 
 From this, the cause of motion and rest is the same as the cause of the existence of bodies. 
 
@@ -18,13 +18,14 @@ Nor indeed does there seem to be another cause to be sought for the successive e
 
 But to treat of God, the Best and Greatest, the Creator and Preserver of all things, and to demonstrate in what manner all things depend on the supreme and true Being, although it is a most excellent part of human knowledge, nevertheless pertains rather to first philosophy, or metaphysics and theology, than to natural philosophy, which today is almost entirely contained in experiments and mechanics. 
 
-And so, natural philosophy either presupposes the knowledge of God, or borrows it from some higher science. Although it is most true that the investigation of nature everywhere supplies excellent arguments to the higher sciences for illustrating and proving the wisdom, goodness, and power of God.
+And so, natural philosophy either presupposes the knowledge of God, or borrows it from some higher science. 
+
+<!-- Although it is most true that the investigation of nature everywhere supplies excellent arguments to the higher sciences for illustrating and proving the wisdom, goodness, and power of God. -->
 
 
-35. These things are less understood because some unjustly reject the mathematical principles of physics, namely on the grounds that they do not assign the efficient causes of things.
+35. These things are less understood because some unjustly reject the mathematical principles of physics because they do not assign the efficient causes of things.
 
 When nevertheless it truly pertains to physics or mechanics to hand down only rules, not efficient causes, of impulses or attractions, and to say it in a word, the laws of motions; and from these laid down, to assign the solution, not the efficient cause, of particular phenomena.
-
 
 
 36. It will be very important to have considered what a principle properly is, and in what sense that word is to be understood among philosophers. 

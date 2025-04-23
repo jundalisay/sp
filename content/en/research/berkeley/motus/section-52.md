@@ -1,70 +1,25 @@
 ---
-title: "The Nature of Motion"
-heading: "Part 6"
-weight: 77
-description: ""
+title: "What is Force?"
+heading: "Section 52"
+weight: 4
+description: "Solicitation and effort or striving apply only to animate beings"
 image: "/covers/berkeley.jpg"
+author: "George Berkeley"
+icon: "George Berkeley"
 ---
 
 
 
-43. What is the nature of motion?
+52. The Peripatetics, for the variety of changes which anything can undergo, distinguished various kinds of motion. 
 
-Since motion is clearly perceived by the senses, it has been obscured not so much by its own nature as by the learned commentaries of philosophers.
+Today, those who discuss motion understand only local motion.
 
-Motion never impinges upon our senses without bodily mass, space, and time. There are some, however, who strive to contemplate motion as a certain simple and abstract idea, and separated from all other things. But that most tenuous and subtle idea eludes the keenness of the intellect: as anyone can experience by meditating within himself. 
+But local motion cannot be understood unless what place is is simultaneously understood: but this is defined by modern thinkers as the part of space which a body occupies: whence it is divided into relative and absolute according to the relation of space. 
 
-Hence arise great difficulties about the nature of motion, and definitions far more obscure than the very thing they ought to illustrate. 
+For they distinguish between absolute or true space, and relative or apparent space. They wish, namely, that there be a space everywhere immense, immobile, insensible, permeating and containing all bodies, which [pg 520] they call absolute space. 
 
-Such are those definitions of Aristotle and the Scholastics, who say that motion is [pg 517] the act of a movable thing insofar as it is movable, or the act of a being in potency insofar as it is in potency. Such also is that of a man famous among more recent thinkers, who asserts that nothing in motion is real except that momentary [aspect] which must be constituted in a force striving towards change. 
+But the space comprehended or defined by bodies, and thus subject to the senses, is called relative, apparent, or vulgar space.
 
-The authors of these and similar definitions intended to explain the abstract nature of motion, excluding all consideration of time and space: but in what way that abstract quintessence of motion (so to speak) can be understood, I do not see.
-
-
-44. They divide and separate the parts of motion itself from each other, striving to form distinct ideas of them as if they were truly distinct entities. 
-
-For indeed, there are those who distinguish motion from a movement, viewing the latter as an instantaneous element of motion. Moreover, they wish velocity, endeavor, force, impetus to be so many things diverse in essence, each of which is presented to the intellect through its own and abstract idea, separated from all others. 
-
-But in discussing these matters, given what we have discussed above, there is no reason for us to dwell longer.
-
-
-45. Many also define motion by *transition*, forgetting, of course, that transition itself cannot be understood without motion, and ought to be defined by motion. 
-
-So very true it is that definitions, just as they bring light to some things, so in turn bring darkness to others. And indeed, scarcely anyone could have made those things which we perceive by sense clearer or better known by defining them. Allured by the vain hope of this, philosophers have rendered easy things most difficult, and have entangled their minds with difficulties which they themselves for the most part had produced. 
-
-From this zeal for defining, as well as abstracting, many most subtle questions have arisen both about motion and about other things, and these same questions, being of no use, have tormented the minds of men in vain; so much so that Aristotle himself readily and frequently confesses that motion is a certain act difficult to understand, and some of the ancients became so practiced in trifles that they even denied motion altogether.
-
-
-46. But it is tedious to be detained by such minutiae. Let it suffice to have indicated the sources of the solutions: to which we may also add this: that those things which are taught in mathematics about the infinite division of time and space, on account of the innate nature of things, have introduced paradoxes and thorny theories (such as are all those in which infinity is treated) into speculations about motion. But whatever is of this kind, it all has motion in common with space and time, or rather, refers its explanation to them.
-
-
-47. And just as on the one hand, excessive abstraction or division of truly inseparable things, so on the other hand, the composition or rather confusion of very different things has rendered the nature of motion perplexing.
-
-For it is customary to confuse motion with the efficient cause of motion. Whence it happens that motion is as it were two-formed, having one face obvious to the senses, the other enveloped in murky night. From this obscurity and confusion, and various paradoxes about motion, take their origin, while that which truly belongs only to the cause is wrongly attributed to the effect.
-
-48. Hence arises that opinion, that the same quantity of motion is always conserved. Which, unless it is understood of the force and power of the cause, whether that cause is called nature, or νοῦς [nous, mind], or whatever agent it may finally be, it will easily be evident to anyone that it is false. Aristotle indeed, in Book VIII of the *Physics*, where he inquires whether motion has been made and corrupted, or whether it has existed from eternity as an immortal life inherent in all things, seems to have understood a vital principle rather than an external effect, or change of place.
-
-49. Hence it is also that many suspect that motion is not a mere passive state in bodies. But if we understand that which is presented to the senses in the motion of a body, no one can doubt that it is entirely passive. For what does the successive existence of a body in different places have in itself that suggests action, or is it anything other than a bare and inert effect?
-
-
-50. The Peripatetics say that motion is a single act of both, the mover and the moved.
-
-They do not sufficiently distinguish the cause from the effect. Similarly, those who imagine an endeavor or striving in motion, or think that the same body is simultaneously carried in opposite directions, seem to be deluded by the same confusion of ideas, the same ambiguity of words.
-
-
-51. It is very helpful, as in all other things, so also in the science of motion, to apply accurate diligence, both in understanding the concepts of others and in enunciating one's own: in which matter, unless there had been fault, I scarcely believe it could have been drawn into dispute whether a body is indifferent to motion and rest, or not. 
-
-For since it is established by experience that it is a primary law of nature that a body perseveres equally in the state of motion as of rest, as long as nothing happens from elsewhere to change that state.
-
-Therefore it is gathered that the force of inertia, under different respects, is either resistance or impetus: in this sense, indeed, a body can be said to be indifferent by its nature to motion or rest. Namely, it is as difficult to induce rest in a moving body as motion in a resting one: but since a body equally preserves either state, why should it not be said to be indifferent to either?
-
-
-
-
-
-Here is the English translation of the provided Latin text:
-
-52. The Peripatetics, for the variety of changes which anything can undergo, distinguished various kinds of motion. Today, those who discuss motion understand only local motion. But local motion cannot be understood unless what place is is simultaneously understood: but this is defined by modern thinkers as the part of space which a body occupies: whence it is divided into relative and absolute according to the relation of space. For they distinguish between absolute or true space, and relative or apparent space. They wish, namely, that there be a space everywhere immense, immobile, insensible, permeating and containing all bodies, which [pg 520] they call absolute space. But the space comprehended or defined by bodies, and thus subject to the senses, is called relative, apparent, or vulgar space.
 
 53. Let us imagine, therefore, all bodies to be destroyed and reduced to nothing. What remains they call absolute space, all relation which arose from the situation and distances of bodies being removed, along with the bodies themselves. Furthermore, that space is infinite, immobile, indivisible, insensible, without relation and without distinction. That is, all its attributes are privative or negative: it seems therefore to be a mere nothing. It only raises some difficulty in that it is extended. But extension is a positive quality. But what kind of extension is that which can neither be divided nor measured, of which we can perceive no part by sense, nor depict it in imagination? For nothing falls into imagination which, by the nature of the thing, it is not possible to perceive by sense; since imagination is nothing other than the representative faculty of sensible things, either actually existing, or at least possible. Moreover, it escapes pure intellect, since that faculty is concerned only with spiritual and unextended things, such as our minds, and their habits, passions, virtues, and the like. Therefore, let us remove the words from absolute space, and nothing will remain in sense, imagination, or intellect: therefore, nothing else is designated by them than pure privation or negation, that is, mere nothing.
 
@@ -106,4 +61,3 @@ Here is the English translation of the provided Latin text:
 71. In physics, sense and experience, which reach only to apparent effects, have a place; in mechanics, the abstract notions of mathematicians are admitted. In first philosophy, or metaphysics, incorporeal things, the causes, truth, and existence of things are treated. The physicist contemplates the series or successions of sensible things, by what laws they are connected, and in what order, observing what precedes as cause and what follows as effect. And in this way we say that a moving body is the cause of motion in another, or impresses motion on it, also draws or impels it. In which sense corporeal secondary causes ought to be understood, no account being taken of the true seat of forces, or active powers, or the real cause in which they reside. Furthermore, the primary axioms of mechanical science, beyond body, figure, motion, can be called mechanical causes or principles, regarded as causes of the consequences.
 
 72. Truly active causes can be drawn from the darkness in which they are enveloped only by meditation and reasoning, and known to some extent. But it pertains to first philosophy, or metaphysics, to treat of them. But if to each science its own province is assigned, its limits defined, and the principles and objects that pertain to each are accurately distinguished, it will be permissible to treat them with greater ease and clarity.
-
