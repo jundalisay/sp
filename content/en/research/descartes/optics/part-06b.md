@@ -5,7 +5,7 @@ weight: 23
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/optics.jpg"
+c: "orangered"
 description: "The sensation of light is stronger or weaker depending on these factors"
 icon: "Rene Descartes"
 ---

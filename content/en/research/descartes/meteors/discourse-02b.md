@@ -3,7 +3,7 @@ heading: Discourse 2b
 title: Vapor Transparency and Exhalations
 weight: 9
 description: In winter, the cold makes the breath or sweat of heated horses appear as a thick, dark smoke
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

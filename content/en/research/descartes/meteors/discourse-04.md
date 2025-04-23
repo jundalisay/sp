@@ -3,7 +3,7 @@ heading: Discourse 4
 title: Air and Winds
 weight: 18
 description: Air is any invisible and intangible substance
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

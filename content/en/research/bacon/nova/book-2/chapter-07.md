@@ -3,7 +3,7 @@ title: "Prerogative Instances"
 heading: Chapter 7
 weight: 20
 description: "After our tables of first review, our rejection or exclusive table, and the first vintage derived from them"
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

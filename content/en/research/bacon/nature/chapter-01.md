@@ -3,7 +3,7 @@
 title: "Knowledge"
 heading: Chapter 1
 weight: 6
-image: "/covers/interpret.jpg"
+c: "darkblue"
 description: "In the divine nature, both religion and philosophy acknowledges goodness in perfection, science or providence comprehending all things, and absolute sovereignty or kingdom"
 icon: "Francis Bacon"
 writer:

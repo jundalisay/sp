@@ -2,7 +2,7 @@
 heading: "Chapter 10"
 title: The Principle of Polarity [Yin-Yang]
 description: Everything is dual, has poles, has its pair of opposites. Like and unlike are the same. Opposites are identical in nature but different in degree
-image: /covers/kybalion.jpg
+c: "maroon"
 
 weight: 20
 ---

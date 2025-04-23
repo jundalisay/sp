@@ -3,7 +3,7 @@ title: "Value In Exchange Or Of Wealth In General"
 heading: Chapter 1
 weight: 2
 description: "The idea which the word wealth presents to us to-day, and which is relative to our state of civilization, could not have been grasped by men of Teutonic stock"
-image: "/covers/researches.jpg"
+c: "maroon"
 ---
 
 

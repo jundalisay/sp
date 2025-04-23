@@ -3,7 +3,7 @@ title: "14. The Instances of the Cross"
 heading: Chapter 12b
 weight: 45
 description: "These are not only serviceable when subjoined to fixed propositions, but also of themselves and from their own nature"
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

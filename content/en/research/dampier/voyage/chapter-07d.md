@@ -5,7 +5,7 @@ weight: 42
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 description: "While we lay here, Captain Davis's bark went to the Otoque island."
 icon: "William Dampier"
 ---

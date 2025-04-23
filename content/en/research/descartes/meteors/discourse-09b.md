@@ -3,7 +3,7 @@ heading: Discourse 9b
 title: The Circles Around the Stars
 weight: 48
 description: Sometimes there are certain circles around the stars
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

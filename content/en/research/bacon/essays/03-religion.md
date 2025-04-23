@@ -3,7 +3,7 @@ heading: "Essay 3"
 title: "Unity In Religion"
 weight: 8
 description: "RELIGION is the chief band of human society."
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

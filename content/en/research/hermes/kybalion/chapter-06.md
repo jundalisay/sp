@@ -2,7 +2,7 @@
 heading: "Chapter 6"
 title: Divine Paradox
 description: This is the Paradox of the Universe, resulting from the Principle of Polarity which manifests when THE ALL begins to Create.
-image: /covers/kybalion.jpg
+c: "maroon"
 weight: 12
 ---
 

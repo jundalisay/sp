@@ -3,7 +3,7 @@ title: "21: The Instances of the Rod"
 heading: Chapter 15b
 weight: 61
 description: "The instances of the rod or rule or the the instances of completion or non ultrà."
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

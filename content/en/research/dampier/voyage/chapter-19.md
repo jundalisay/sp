@@ -4,7 +4,7 @@ heading: "Chapter 19"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 weight: 94
 description: "We set sail for the Cape of Good Hope January 25 1691, and made the best of our way as wind and weather would permit; expecting there to meet three English ships more bound home from the Indies"
 icon: "William Dampier"

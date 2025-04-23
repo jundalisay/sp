@@ -3,7 +3,7 @@ title: Reverting to the Wild State
 heading: Chapter 1c
 weight: 6
 description: "Habit also has a deciding influence, especially in animals"
-image: "/covers/origin.jpg"
+c: "maroon"
 author: "Charles Darwin"
 icon: "Charles Darwin"
 ---

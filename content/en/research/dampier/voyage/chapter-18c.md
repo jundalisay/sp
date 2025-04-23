@@ -4,7 +4,7 @@ heading: "Chapter 18b"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 weight: 92
 description: "The first passage is that, at my return from Malacca a little before Christmas 1689, I found at Achin one Mr. Morgan who was one of our ship's crew that left me ashore at Nicobar"
 icon: "William Dampier"

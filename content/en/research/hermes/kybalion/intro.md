@@ -2,7 +2,7 @@
 title: Introduction
 # heading: "A Study of The Hermetic Philosophy of Ancient Egypt and Greece"
 description: Our intent is not to erect a new Temple of Knowledge, but to give a Master-Key to for him to open the many inner doors in the Temple of Mystery
-image: /covers/kybalion.jpg
+c: "maroon"
 weight: 2
 # date: 2022-01-31
 --- 

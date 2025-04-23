@@ -3,7 +3,7 @@ title: Slave-making instinct
 heading: Chapter 7b
 weight: 48
 description: "This remarkable instinct was first discovered in the Formica (Polyerges) rufescens by Pierre Huber"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

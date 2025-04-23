@@ -5,7 +5,7 @@ writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
 weight: 56
-image: "/covers/voyage.jpg"
+c: "black"
 description: "Guam or Guabon (as the native Indians pronounce it) is one of the Ladrone Islands, belongs to the Spaniards, who have a small fort with six guns in it"
 icon: "William Dampier"
 ---

@@ -2,7 +2,7 @@
 title: "The End And Scope of Knowledge Has Been Generally Mistaken"
 heading: Chapter 9
 weight: 14
-image: "/covers/interpret.jpg"
+c: "darkblue"
 description: "The wits and labours of men have rarely been converted to the severe and original inquisition of knowledge"
 icon: "Francis Bacon"
 writer:

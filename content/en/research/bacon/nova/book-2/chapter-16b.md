@@ -3,7 +3,7 @@ title: "The Motion of Continuity, Acquisition"
 heading: Chapter 16b
 weight: 65
 description: "Wrestling instances or instances of predominance"
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

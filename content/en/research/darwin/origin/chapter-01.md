@@ -3,7 +3,7 @@ title: Variation under Domestication
 heading: Chapter 1
 weight: 4
 description: "Our varieties of older domesticated plants and animals generally differ much more from each other than do the undomesticated"
-image: "/covers/origin.jpg"
+c: "maroon"
 author: "Charles Darwin"
 icon: "Charles Darwin"
 ---

@@ -3,7 +3,7 @@ title: "3: Compression, Extension, Agitation"
 heading: Chapter 17b
 weight: 73
 description: "These point out, that which is advantageous to mankind."
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

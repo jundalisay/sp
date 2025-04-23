@@ -4,7 +4,7 @@ heading: Chapter 3c
 weight: 19
 author: Charles Darwin
 description: "When a species increases inordinately in numbers in a small tract due to highly favourable circumstances, epidemics often ensue"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

@@ -3,7 +3,7 @@ heading: Discourse 4c
 title: The Impact of the Sun, Moon, and Stars on the Winds
 weight: 20
 description: When the sun shines, it causes more vapors to rise from the seas than from the lands because the lands do not provide as much material
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

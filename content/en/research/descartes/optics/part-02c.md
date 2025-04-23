@@ -5,7 +5,7 @@ weight: 8
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/optics.jpg"
+c: "orangered"
 description: "How does refraction work?"
 icon: "Rene Descartes"
 ---

@@ -3,7 +3,7 @@ heading: "Essays 47-49"
 title: "Negotiating"
 weight: 60
 description: "IT IS generally better to deal by speech than by letter"
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

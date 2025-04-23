@@ -3,7 +3,7 @@ heading: Discourse 4b
 title: The Properties and Generation of the Principal Winds
 weight: 19
 description: All the air has its course around the Earth from East to West.
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

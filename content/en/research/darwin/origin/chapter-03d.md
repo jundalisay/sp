@@ -4,7 +4,7 @@ heading: Chapter 3d
 weight: 20
 author: Charles Darwin
 description: "Plants and animals, most remote in the scale of nature, are bound together by a web of complex relations"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

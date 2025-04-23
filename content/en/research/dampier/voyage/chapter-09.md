@@ -5,7 +5,7 @@ weight: 48
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 description: "On October 12, 1685 we set out of the harbour of Guatulco with our ships."
 icon: "William Dampier"
 ---

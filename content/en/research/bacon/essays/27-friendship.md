@@ -3,7 +3,7 @@ heading: "Essay 27"
 title: "Friendship"
 weight: 38
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

@@ -3,7 +3,7 @@ heading: "Parts 36"
 title: "The Mood of the Earth"
 # heading: "Chapter 1"
 description: "I see that in accordance with aspects do exist other dispositions, stronger and of longer duration, which cause for instance a big humidity and cold during some period of lack of aspects, may it be the whole year"
-image: /covers/astrology.jpg
+c: "orangered"
 weight: 2
 contributors: ['Kepler']
 icon: /avatars/kepler.png

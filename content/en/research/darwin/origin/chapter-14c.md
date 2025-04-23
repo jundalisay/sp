@@ -4,7 +4,7 @@ heading: Chapter 14c
 weight: 111
 description: "Species have changed, and are still slowly changing by the preservation and accumulation variations"
 author: "Charles Darwin"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

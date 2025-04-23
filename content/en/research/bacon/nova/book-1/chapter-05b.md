@@ -3,7 +3,7 @@ title: "The Scope of Our New Philosophy"
 heading: Chapter 5b
 weight: 32
 description: "Are we perfecting natural philosophy alone? Or the other sciences also, such as logic, ethics, politics? We certainly intend to comprehend them all"
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

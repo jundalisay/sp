@@ -3,7 +3,7 @@ title: Means of Dispersal
 heading: Chapter 11c
 weight: 79
 description: "Several species of the same genus must originally have come from the same source"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

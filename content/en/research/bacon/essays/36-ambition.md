@@ -3,7 +3,7 @@ heading: "Essay 36"
 title: "Ambition"
 weight: 48
 description: "AMBITION is like cholera. It is a humor that makes men active, earnest, full of alacrity, and stirring, if it be not stopped"
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

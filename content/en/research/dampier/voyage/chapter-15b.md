@@ -4,7 +4,7 @@ heading: "Chapter 15b"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 weight: 78
 description: "Monmouth and Grafton Isles are very hilly, with many of those steep inhabited precipices on them that I shall describe particularly"
 icon: "William Dampier"

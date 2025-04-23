@@ -7,7 +7,7 @@ description: "The author of Researches into the Mathematical Principles of the T
 writer:
   name: Cournot
   url: https://en.wikipedia.org/wiki/Antoine_Augustin_Cournot
-image: "/covers/researches.jpg"
+c: "maroon"
 ---
 
 

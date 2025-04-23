@@ -2,7 +2,7 @@
 title: "The Hierarchy of Wisdom"
 weight: 16
 description: ""
-image: "/covers/learning.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

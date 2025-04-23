@@ -2,7 +2,7 @@
 heading: "Chapter 7"
 title: "The All In All [Brahma]"
 description: The entire virtue, life, spirit, of reality in the mental image is derived from the "immanent mind" of the thinker
-image: /covers/kybalion.jpg
+c: "maroon"
 weight: 14
 ---
 

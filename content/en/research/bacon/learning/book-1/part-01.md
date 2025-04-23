@@ -3,7 +3,7 @@ heading: "Part 1"
 title: "The Human Mind As A Mirror or Glass"
 weight: 4
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-image: "/covers/learning.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

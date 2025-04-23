@@ -5,7 +5,7 @@ weight: 40
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 description: "There are no woods nor marshes near Panama, but a brave dry champion land, not subject to fogs nor mists. The wet season begins in the latter end of May and continues till November. At that time the sea-breezes are at south-south-west and the land-winds at north"
 icon: "William Dampier"
 ---

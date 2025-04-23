@@ -3,7 +3,7 @@ title: "23: The Instances of Quantity"
 heading: Chapter 15d
 weight: 63
 description: "These measure the powers by the quantity of bodies, and point out the effect of the quantity in the degree of power"
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

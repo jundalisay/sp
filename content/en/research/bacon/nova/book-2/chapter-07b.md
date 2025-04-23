@@ -3,7 +3,7 @@ title: "2: The Migrating Instances"
 heading: Chapter 7b
 weight: 21
 description: "In these, the required nature passes toward generation, having no previous existence, or toward corruption, having first existed"
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

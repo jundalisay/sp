@@ -3,7 +3,7 @@ title: Low and High Characters
 heading: Chapter 5c
 weight: 33
 description: "Habit is hereditary with plants"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 <!-- , as soon as it is rendered superfluous. and saving-->

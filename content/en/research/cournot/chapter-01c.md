@@ -3,7 +3,7 @@ title: "Cournot's Theory of Wealth"
 heading: Chapter 1c
 weight: 6
 description: "How are we to compare the material welfare of different societies?"
-image: "/covers/researches.jpg"
+c: "maroon"
 ---
 
 <!-- (for what other basis can be taken to estimate utility?) -->

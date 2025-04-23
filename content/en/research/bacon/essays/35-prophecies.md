@@ -3,7 +3,7 @@ heading: "Essay 35"
 title: "Three Causes for the Popularity of Prophetic Visions"
 weight: 46
 description: "Prophetic Visions became creditable due to 3 things"
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

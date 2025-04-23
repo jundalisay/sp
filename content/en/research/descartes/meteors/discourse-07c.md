@@ -3,7 +3,7 @@ heading: Discourse 7c
 title: Ball Lightning
 weight: 36
 description: Lightning can sometimes be converted into a very hard stone which breaks and shatters everything it encounters
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

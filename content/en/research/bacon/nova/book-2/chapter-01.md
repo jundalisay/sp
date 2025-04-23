@@ -3,7 +3,7 @@ title: "The Reign of Man"
 heading: Chapter 1
 weight: 2
 description: "The aim of human power is to generate a new nature on a body"
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

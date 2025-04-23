@@ -2,7 +2,7 @@
 title: "Herder"
 weight: 8
 description: "Descartes argued that there must be a thinking substance"
-image: "/covers/ling.png"
+c: "darkblue"
 ---
 
 

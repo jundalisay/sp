@@ -3,7 +3,7 @@ title: Instincts Opposed to Natural Selection
 heading: Chapter 7d
 weight: 51
 description: "I will take the case of working or sterile ants"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

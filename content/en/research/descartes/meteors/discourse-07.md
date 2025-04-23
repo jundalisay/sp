@@ -3,7 +3,7 @@ heading: Discourse 7
 title: Storms, Lightning, and All the Other Fires that Ignite in the Air
 weight: 34
 description: Winds are created when the clouds dissolve into vapors
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

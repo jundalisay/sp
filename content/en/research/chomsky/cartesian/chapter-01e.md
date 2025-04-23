@@ -2,7 +2,7 @@
 title: "The structuralist emphasis on language"
 weight: 10
 description: "Descartes argued that there must be a thinking substance"
-image: "/covers/ling.png"
+c: "darkblue"
 ---
 
 

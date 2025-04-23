@@ -3,7 +3,7 @@ title: Summary of Chapter
 heading: Chapter 4i
 weight: 29
 description: "I have hitherto sometimes spoken as if the variations--so common and multiform in organic beings under domestication, and in a lesser degree in those in a state of nature--had been due to chance"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

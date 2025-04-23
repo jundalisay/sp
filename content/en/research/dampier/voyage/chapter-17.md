@@ -4,7 +4,7 @@ heading: "Chapter 17"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 weight: 86
 description: "On March 12, 1688, we sailed from New Holland norhtward for the island Cocos. But the winds obliged us to keep a more easterly course"
 icon: "William Dampier"

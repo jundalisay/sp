@@ -3,7 +3,7 @@ title: The Sterility of Hybrids
 heading: Chapter 8b
 weight: 53
 description: "The third most experienced hybridiser is the Hon. and Rev. W. Herbert"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

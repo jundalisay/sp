@@ -4,7 +4,7 @@ heading: "Chapter 15"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 weight: 76
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 icon: "William Dampier"

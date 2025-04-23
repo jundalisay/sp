@@ -3,7 +3,7 @@ title: Laws governing the Sterility of first Crosses and of Hybrids
 heading: Chapter 8c
 weight: 54
 description: "The third most experienced hybridiser is the Hon. and Rev. W. Herbert"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

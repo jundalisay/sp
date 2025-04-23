@@ -3,7 +3,7 @@ title: The Inhabitants of Oceanic Islands
 heading: Chapter 13c
 weight: 98
 description: "Several species of the same genus must originally have come from the same source"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

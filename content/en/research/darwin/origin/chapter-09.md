@@ -3,7 +3,7 @@ title: The Imperfection of the Geological Record
 heading: Chapter 9
 weight: 60
 description: ""
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

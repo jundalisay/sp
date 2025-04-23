@@ -3,7 +3,7 @@ title: "Introduction"
 heading: Chapter 1
 weight: 1
 description: ""
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

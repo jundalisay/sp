@@ -2,7 +2,7 @@
 title: "Creative aspect of language use"
 weight: 4
 description: "Descartes makes only scant reference to language in his writings"
-image: "/covers/ling.png"
+c: "darkblue"
 ---
 
 Within the framework of Cartesian linguistics, a descriptive grammar is con-

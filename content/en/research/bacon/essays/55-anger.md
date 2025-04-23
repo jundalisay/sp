@@ -3,7 +3,7 @@ heading: "Essay 55"
 title: "Anger"
 weight: 72
 description: "The Stoics were brave to seek to extinguish anger utterly."
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

@@ -5,7 +5,7 @@ weight: 50
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 description: "Port Marquis is a very good harbour a league to the east of Acapulco Harbour"
 icon: "William Dampier"
 ---

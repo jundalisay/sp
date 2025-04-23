@@ -3,7 +3,7 @@ title: Hybrids and Mongrels compared, independently of their fertility
 heading: Chapter 8f
 weight: 56
 description: "The third most experienced hybridiser is the Hon. and Rev. W. Herbert"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

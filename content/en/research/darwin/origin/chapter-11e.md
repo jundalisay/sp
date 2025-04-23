@@ -3,7 +3,7 @@ title: Means Dispersal during the Glacial period
 heading: Chapter 11e
 weight: 82
 description: "Several species of the same genus must originally have come from the same source"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

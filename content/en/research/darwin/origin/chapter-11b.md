@@ -3,7 +3,7 @@ title: Geographical Distribution
 heading: Chapter 11b
 weight: 77
 description: "Several species of the same genus must originally have come from the same source"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

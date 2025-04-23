@@ -4,7 +4,7 @@ heading: "Chapter 20"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 weight: 96
 description: ""
 icon: "William Dampier"

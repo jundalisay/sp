@@ -3,7 +3,7 @@ title: "Footnotes"
 heading: Chapter 1 Book 2 of Nova Organum
 weight: 34
 description: ""
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

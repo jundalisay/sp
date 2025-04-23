@@ -4,7 +4,7 @@ heading: Chapter 14
 weight: 106
 description: "Convulsion occurs when there is a gas trapped within the nerves, not pure animal spirits"
 author: "Charles Darwin"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

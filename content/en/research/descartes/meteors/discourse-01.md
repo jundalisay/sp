@@ -3,7 +3,7 @@ heading: Discourse 1
 title: The Nature Of Terrestrial Bodies
 weight: 4
 description: This Discourse 1 deals with the nature of terrestrial bodies [earth-ather] in general
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

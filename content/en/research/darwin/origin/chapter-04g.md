@@ -3,7 +3,7 @@ title: Naturalization
 heading: Chapter 4g
 weight: 28
 description: "The greatest amount of life can be supported by great diversification of structure"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

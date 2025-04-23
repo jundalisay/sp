@@ -3,7 +3,7 @@ title: "4: Detention in a suitable place"
 heading: Chapter 17d
 weight: 75
 description: "These point out, that which is advantageous to mankind."
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

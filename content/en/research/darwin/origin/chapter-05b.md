@@ -3,7 +3,7 @@ title: Acclimatisation
 heading: Chapter 5b
 weight: 32
 description: "Habit is hereditary with plants"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
  
 

@@ -2,7 +2,7 @@
 title: "Summary"
 weight: 200
 description: "Descartes makes only scant reference to language in his writings"
-image: "/covers/ling.png"
+c: "darkblue"
 ---
 
 

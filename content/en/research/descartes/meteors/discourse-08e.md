@@ -3,7 +3,7 @@ heading: Discourse 8e
 title: Colors in the Water
 weight: 45
 description: Red is outside in the inner rainbow and inside in the outer onec
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

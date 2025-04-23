@@ -3,7 +3,7 @@ heading: "Essay 42"
 title: "Youth And Age"
 weight: 54
 description: "A MAN that is young in years, may be old in hours, if he have lost no time"
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

@@ -2,7 +2,7 @@
 title: "Introduction"
 weight: 1
 description: "Queen Elizabeth was a sojourner in the world in respect of her unmarried life, and was a blessing to her own times"
-image: "/covers/learning.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

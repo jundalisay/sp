@@ -3,7 +3,7 @@ heading: Discourse 9c
 title: Rainbows in Flame
 weight: 48
 description: There are rainbows sometimes seen around lamps and torches.
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

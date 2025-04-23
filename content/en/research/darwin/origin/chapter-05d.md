@@ -3,7 +3,7 @@ title: Variation in the Wild
 heading: Chapter 5d
 weight: 34
 description: "On the ordinary view of each species being independently created"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 <!-- secondary sexual characters -->
 

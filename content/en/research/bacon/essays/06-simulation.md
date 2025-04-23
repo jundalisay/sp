@@ -3,7 +3,7 @@ heading: "Essay 6"
 title: "Simulation And Dissimulation"
 weight: 12
 description: "DISSIMULATION is but a faint kind of policy, or wisdom. It asks a strong wit and heart to know when to tell truth, and to do it."
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

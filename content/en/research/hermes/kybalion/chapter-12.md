@@ -3,7 +3,7 @@ heading: "Chapter 12"
 title: Cause and Effect 
 # Causation
 description: The Sixth Hermetic Principle is the Principle of Cause and Effect
-image: /covers/kybalion.jpg
+c: "maroon"
 
 weight: 24
 ---

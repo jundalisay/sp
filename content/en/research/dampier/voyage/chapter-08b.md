@@ -5,7 +5,7 @@ weight: 46
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 description: "The city of Leon is 20 mile up in the country. The way to it plain and even through a champion country of long grassy savannahs and spots of high woods"
 icon: "William Dampier"
 ---

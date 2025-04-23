@@ -3,7 +3,7 @@ heading: "Essay 11"
 title: "Great Place"
 weight: 18
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

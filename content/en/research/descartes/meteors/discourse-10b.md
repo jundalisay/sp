@@ -3,7 +3,7 @@ heading: Discourse 10b
 title: How 6 Suns Can Appear in the Sky
 weight: 58
 description: These suns seem embedded in the white circle like so many diamonds in a ring
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

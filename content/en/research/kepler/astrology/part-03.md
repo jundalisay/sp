@@ -3,7 +3,7 @@ heading: "Parts 22"
 title: "The Five Planets"
 # heading: "Chapter 1"
 description: "A mathematician's job is to write annual forecasts"
-image: /covers/astrology.jpg
+c: "orangered"
 weight: 2
 contributors: ['Kepler']
 icon: /avatars/kepler.png

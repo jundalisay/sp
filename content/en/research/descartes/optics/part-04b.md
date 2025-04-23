@@ -5,7 +5,7 @@ weight: 16
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/optics.jpg"
+c: "orangered"
 description: "To explain the eye, we must explain the senses"
 icon: "Rene Descartes"
 ---

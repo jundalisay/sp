@@ -3,7 +3,7 @@ heading: Discourse 8
 title: The Rainbow
 weight: 38
 description: These drops are round. They create rainbows whether these droplets are large or small.
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

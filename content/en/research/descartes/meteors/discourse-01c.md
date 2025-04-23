@@ -3,7 +3,7 @@ heading: Discourse 1c
 title: The Nature Of Water
 weight: 6
 description: Water is composed of long and smooth earth-aether particles
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

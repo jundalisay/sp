@@ -3,7 +3,7 @@ title: Weathering
 heading: Chapter 9b
 weight: 62
 description: ""
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

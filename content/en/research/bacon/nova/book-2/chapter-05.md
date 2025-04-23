@@ -3,7 +3,7 @@ title: "Table of the Degrees or Comparative Instances"
 heading: Chapter 5
 weight: 10
 description: ""
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

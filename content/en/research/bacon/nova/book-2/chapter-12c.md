@@ -3,7 +3,7 @@ title: "15: Instances of Divorce"
 heading: Chapter 12c
 weight: 47
 description: "These indicate the separation of natures of the most common occurrence."
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

@@ -4,7 +4,7 @@ heading: Preface
 weight: 1
 description: ""
 author: "Lord Bacon"
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

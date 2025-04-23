@@ -4,7 +4,7 @@ heading: Chapter 14b
 weight: 108
 description: "Under domestication we see much variability"
 author: "Charles Darwin"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

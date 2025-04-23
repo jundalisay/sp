@@ -3,7 +3,7 @@ title: "18: Jointed Instances"
 heading: Chapter 14
 weight: 52
 description: "The instances of the road or the itinerant and jointed instances"
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

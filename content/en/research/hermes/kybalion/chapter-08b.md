@@ -2,7 +2,7 @@
 heading: "Chapter 8"
 title: The Seven Minor Mental Planes
 description: The classification of the Seven Minor Mental Planes is more or less satisfactory and arbitrary
-image: /covers/kybalion.jpg
+c: "maroon"
 weight: 17
 ---
 

@@ -5,7 +5,7 @@ writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
 description: "The Buccaneers—Navigation in the Seventeenth Century—Features of the Vocational Life of the Early Mariner"
-image: "/covers/action.png"
+c: "black"
 weight: 5
 icon: "William Dampier"
 ---

@@ -4,7 +4,7 @@ title: Why is the Sky and Sea Blue?
 # The Color of Clouds
 weight: 46
 description: This same cause also makes the water of the sea seem to be blue where it is very pure and deep
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

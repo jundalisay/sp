@@ -3,7 +3,7 @@ heading: "Essay 52"
 title: "Ceremonies and Respects"
 weight: 64
 description: "HE THAT is only real, had need have exceeding great parts of virtue; as the stone had need to be rich, that is set without foil."
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

@@ -2,7 +2,7 @@
 title: "Part 7b"
 weight: 20
 description: ""
-image: "/covers/learning.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

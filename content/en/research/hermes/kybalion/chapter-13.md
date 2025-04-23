@@ -2,7 +2,7 @@
 heading: "Chapter 13"
 title: Gender [Yin and Yang]
 description: The Principle of Gender says that there is Gender in everything. Masculine and Feminine principles are ever present and active in all phases of phenomena, on each and every plane of life
-image: /covers/kybalion.jpg
+c: "maroon"
 
 weight: 26
 ---

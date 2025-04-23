@@ -3,7 +3,7 @@ title: Unconscious Verus Methodical Selection
 heading: Chapter 1f
 weight: 9
 description: "The laws of correlation of growth will ensure some differences."
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: The All
 description: "THE ALL is Infinite Living Mind—the Illumined call it SPIRIT!"
-image: /covers/kybalion.jpg
+c: "maroon"
 weight: 9
 ---
 

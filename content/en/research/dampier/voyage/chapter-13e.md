@@ -4,7 +4,7 @@ heading: "Chapter 13b"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 weight: 70
 description: "It was in a bay on the north-east side of the island that we came to an anchor, as has been said. We lay in this bay but one night and part of the next day"
 icon: "William Dampier"

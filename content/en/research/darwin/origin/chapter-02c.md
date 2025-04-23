@@ -3,7 +3,7 @@ title: Incipient Species
 heading: Chapter 2c
 weight: 15
 description: "Alph. De Candolle and others have shown that plants which have very wide ranges generally present varieties"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

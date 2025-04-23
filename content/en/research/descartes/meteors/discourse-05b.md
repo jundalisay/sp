@@ -3,7 +3,7 @@ heading: Discourse 5b
 title: How Clouds Form
 weight: 25
 description: Clouds can form at various distances from the ground, depending on how high the vapors rise before they condense enough to form clouds
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

@@ -5,7 +5,7 @@ weight: 21
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/optics.jpg"
+c: "orangered"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 icon: "Rene Descartes"
 ---

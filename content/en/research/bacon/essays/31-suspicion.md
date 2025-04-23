@@ -3,7 +3,7 @@ heading: "Essay 31"
 title: "Suspicion"
 weight: 43
 description: "SUSPICIONS amongst thoughts, are like bats amongst birds, they ever fly by twilight"
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

@@ -3,7 +3,7 @@ title: Human Knowledge and Philosophia Prima
 heading: "Part 5"
 weight: 12
 description: "The knowledge of man is as the waters, some descending from above, and some springing from beneath."
-image: "/covers/learning.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

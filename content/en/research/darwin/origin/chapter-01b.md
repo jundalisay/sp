@@ -4,7 +4,7 @@ heading: Chapter 1b
 author: Charles Darwin
 weight: 5
 description: "Habit also has a deciding influence, especially in animals"
-image: "/covers/origin.jpg"
+c: "maroon"
 icon: "Charles Darwin"
 ---
 

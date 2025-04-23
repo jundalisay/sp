@@ -6,7 +6,7 @@ writer:
   name: Avicenna
   url: https://en.wikipedia.org/wiki/Avicenna
 weight: 14
-image: "/covers/soul.jpg"
+c: "indigo"
 ---
 
 

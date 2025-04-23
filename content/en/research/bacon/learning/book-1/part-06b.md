@@ -2,7 +2,7 @@
 title: "The Wisdom in the Old Testament"
 weight: 17
 description: "Moses was commended as being a learned man"
-image: "/covers/learning.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

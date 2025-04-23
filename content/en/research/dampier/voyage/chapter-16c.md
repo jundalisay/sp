@@ -4,7 +4,7 @@ heading: "Chapter 16b"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-image: "/covers/voyage.jpg"
+c: "black"
 weight: 83
 description: "The 20th day we passed by the island Omba which is a pretty high island lying in latitude 8 degrees 20 minutes and not above 6 leagues from the north-east part of the island Timor"
 icon: "William Dampier"

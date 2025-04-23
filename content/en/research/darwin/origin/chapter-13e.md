@@ -3,7 +3,7 @@ title: "Mutual Affinities of Organic Beings: Morphology, Embryology, Rudimentary
 heading: Chapter 13e
 weight: 102
 description: "Several species of the same genus must originally have come from the same source"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

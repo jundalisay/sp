@@ -3,7 +3,7 @@ heading: "Essay 17"
 title: "Superstition"
 weight: 26
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-image: "/covers/essaysbacon.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

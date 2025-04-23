@@ -3,7 +3,7 @@ title: Cell-making instinct of the Hive-Bee
 heading: Chapter 7c
 weight: 49
 description: "This remarkable instinct was first discovered in the Formica (Polyerges) rufescens by Pierre Huber"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

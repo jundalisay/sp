@@ -3,7 +3,7 @@ title: "Table of Instances"
 heading: Chapter 5c
 weight: 12
 description: ""
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

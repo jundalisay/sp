@@ -3,7 +3,7 @@ heading: "Part 2b"
 title: "Learning and Business"
 weight: 7
 description: "Learning gives a conceit that disposes men to leisure and privateness"
-image: "/covers/learning.png"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

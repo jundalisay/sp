@@ -2,7 +2,7 @@
 heading: "Chapter 5"
 title: The Mental Universe
 description: The Universe is Mental—held in the Mind of THE ALL
-image: /covers/kybalion.jpg
+c: "maroon"
 weight: 10
 ---
 

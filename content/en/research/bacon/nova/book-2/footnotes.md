@@ -3,7 +3,7 @@ title: "Footnotes"
 heading: 
 weight: 1
 description: ""
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

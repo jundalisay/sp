@@ -3,7 +3,7 @@ title: "Heat in Animals"
 heading: Chapter 5b
 weight: 11
 description: ""
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

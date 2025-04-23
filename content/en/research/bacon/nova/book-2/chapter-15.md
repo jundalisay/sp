@@ -3,7 +3,7 @@ title: "The Practical instances"
 heading: Chapter 16
 weight: 60
 description: "There are 2 defects in practice, and as many divisions of important instances."
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

@@ -3,7 +3,7 @@ heading: Discourse 6
 title: Snow, Rain, And Hail
 weight: 28
 description: Clouds do not descend immediately after being formed, for several reasons
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

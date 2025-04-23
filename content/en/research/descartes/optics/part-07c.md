@@ -5,7 +5,7 @@ weight: 27
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-image: "/covers/optics.jpg"
+c: "orangered"
 description: "One can reduce all the things to which it is necessary to have regard here to three principal ones"
 icon: "Rene Descartes"
 ---

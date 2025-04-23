@@ -3,7 +3,7 @@ title: The Geological Succession of Organic Beings
 heading: Chapter 10
 weight: 64
 description: ""
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

@@ -3,7 +3,7 @@ title: "20: Twitching Instances"
 heading: Chapter 14c
 weight: 54
 description: "Twitching instances  or Lancing instances or the instances of Democritus"
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

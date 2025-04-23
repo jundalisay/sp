@@ -3,7 +3,7 @@ title: "25: Suggesting Instances"
 heading: Chapter 17
 weight: 72
 description: "These point out, that which is advantageous to mankind."
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

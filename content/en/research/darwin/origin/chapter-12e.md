@@ -3,7 +3,7 @@ title: Summary of last and present Chapters
 heading: Chapter 12d
 weight: 92
 description: "On this same theory, the fauna of any great period in the earth's history will be intermediate in general character between that which preceded and that which succeeded it."
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

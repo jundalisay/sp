@@ -3,7 +3,7 @@ title: Difficulties on Theory
 heading: Chapter 6
 weight: 42
 description: "People have given objections to my theory"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

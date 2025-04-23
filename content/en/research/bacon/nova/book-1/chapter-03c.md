@@ -3,7 +3,7 @@ title: "The Development of Science"
 heading: Chapter 3c
 weight: 22
 description: "Mankind's admiration of the arts and sciences of itself simple and almost puerile"
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 ---
 

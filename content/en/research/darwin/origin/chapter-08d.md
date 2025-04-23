@@ -3,7 +3,7 @@ title: Causes of the Sterility of first Crosses and of Hybrids
 heading: Chapter 8b
 weight: 55
 description: "The third most experienced hybridiser is the Hon. and Rev. W. Herbert"
-image: "/covers/origin.jpg"
+c: "maroon"
 ---
 
 

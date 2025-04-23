@@ -3,7 +3,7 @@ title: "The Precepts and The Table of Existence and Presence"
 heading: Chapter 3
 weight: 6
 description: ""
-image: "/covers/nova.jpg"
+c: "darkblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

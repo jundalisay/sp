@@ -3,7 +3,7 @@ heading: Discourse 6b
 title: The Grains of Hail
 weight: 30
 description: On February 4, 1635, after an extremely cold spell, it rained a bit in the evening in Amsterdam, where I was
-image: "/covers/meteors.png"
+c: "orangered"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
