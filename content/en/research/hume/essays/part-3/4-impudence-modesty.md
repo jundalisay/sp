@@ -2,12 +2,12 @@
 title: "Impudence and Modesty"
 heading: "Essay 4"
 description: "Love and respect begets love and respect"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 14
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

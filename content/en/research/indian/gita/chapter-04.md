@@ -4,8 +4,8 @@ heading: "Chapter 4 "
 weight: 8
 contributors: ['Vyasa']
 description: "This deathless Yoga, this deep union, I taught Vivaswata,[FN#6] the Lord of Light"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

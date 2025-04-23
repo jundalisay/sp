@@ -2,12 +2,12 @@
 title: "Pamphilus To Hermippus"
 heading: "Part 4"
 description: "DEMEA, you are so sincere in the cause of religion. But I find it strange that you still maintain the mysterious, incomprehensible nature of the Deity, and insist that he has no resemblance to human creatures."
-image: /covers/religion.jpg
+c: "indigo"
 weight: 18
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

@@ -5,8 +5,8 @@ weight: 4
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/tms.jpg"
+icon: "Adam Smith"
+c: "indigo"
 description: "Merit and Demerit are another set of qualities ascribed to mankind's actions and conduct, distinct from propriety or decency"
 ---
 

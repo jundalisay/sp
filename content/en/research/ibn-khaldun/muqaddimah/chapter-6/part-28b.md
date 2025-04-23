@@ -1,7 +1,7 @@
 ---
 title: "The story of Abu Yazid al-Bistami"
 description: "An innate ability for sorcery requires exercise, in order to be capable of transformation from potentiality into actuality"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 28b"
 weight: 80

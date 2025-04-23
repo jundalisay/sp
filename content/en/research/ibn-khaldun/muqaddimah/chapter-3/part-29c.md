@@ -1,7 +1,7 @@
 ---
 title: "Police: The religious functions of the caliphate"
 description: "To be caliph in reality means acting as substitute for Muhammad with regard to the preservation of the religion and the political leadership of the world"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 29b"
 weight: 68

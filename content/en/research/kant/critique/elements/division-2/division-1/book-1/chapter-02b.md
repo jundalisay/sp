@@ -4,7 +4,7 @@ title: Transition to the Transcendental Deduction of the Categories
 description: "This critique of reason has now taught us that all its efforts to extend the bounds of knowledge are utterly fruitless"
 weight: 26
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "The science of logic"
 description: "Scholars studied the basic premises the earlier theologians had established"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 14d"
 weight: 40

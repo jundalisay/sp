@@ -1,7 +1,7 @@
 ---
 title: "Meekness and Docility to Outsiders are Obstacles to Royal Authority"
 description: "Meekness and docility to outsiders that may be found in a tribe are obstacles to royal authority"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 18"
 writer:

@@ -5,7 +5,7 @@ weight: 118
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "The phenomenon discovered by Zeeman is closely related to the magnetic rotation of the plane of polarization of light"
 ---
 

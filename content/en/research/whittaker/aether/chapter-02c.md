@@ -5,7 +5,7 @@ weight: 11
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "s'Gravesande explained that in combustion, a heated body causes the light-corpuscles to interact with the material particles"
 ---
 

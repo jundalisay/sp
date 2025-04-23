@@ -6,7 +6,7 @@ weight: 4
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "Section 2 of The Simple Lectures on Jurisprudence by Adam Smith"
 ---

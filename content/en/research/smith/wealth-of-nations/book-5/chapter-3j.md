@@ -2,7 +2,7 @@
 title: "International Barter Taxation"
 heading: "Chapter 3j"
 weight: 24
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Without gold and silver it is impossible to pay taxes. We already get all their gold and silver"
 icon: "Adam Smith"
 writer:

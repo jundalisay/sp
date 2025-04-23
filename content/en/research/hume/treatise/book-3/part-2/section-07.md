@@ -2,13 +2,13 @@
 heading: Section 7
 title: "The Origin of Government"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-image: /covers/treatise.png
+c: "darkblue"
 # date: 2015-x-x
 weight: 68
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

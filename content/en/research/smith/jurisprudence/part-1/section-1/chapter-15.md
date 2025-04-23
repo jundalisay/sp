@@ -6,7 +6,7 @@ weight: 32
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "In most of the Swiss republics, the right of citizenship only belongs to those born of a citizen"
 ---

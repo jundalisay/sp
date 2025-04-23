@@ -1,7 +1,7 @@
 ---
 title: "Algebra of al-Khuwarizmi"
 description: "Another subdivision of arithmetic is algebra. This discovers the unknown from the known data, if there exists a relationship between them requiring it"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 19"
 weight: 60

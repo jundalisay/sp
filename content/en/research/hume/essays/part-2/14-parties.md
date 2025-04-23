@@ -2,12 +2,12 @@
 title: "The Coalition Of Parties"
 heading: "Essay 14 Part 2"
 description: "In a free government, the abolition of all distinctions of party may not be practicable, perhaps not desirable"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 44
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

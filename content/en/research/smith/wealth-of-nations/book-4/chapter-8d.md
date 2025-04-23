@@ -2,7 +2,7 @@
 heading: "Chapter 8d"
 title: "The Effects of the Woolen Prohibitions"
 weight: 100
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "To justify their demand of such extraordinary restrictions, our woollen manufactures confidently asserted that English wool was superior to foreign wool"
 writer:
   name: Adam Smith

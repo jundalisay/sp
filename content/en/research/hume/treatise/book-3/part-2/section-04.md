@@ -2,13 +2,13 @@
 heading: Section 4
 title: "The Transference Of Property By Consent"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-image: /covers/treatise.png
+c: "darkblue"
 # date: 2015-x-x
 weight: 36
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "The Closed Formation"
 description: "At the beginning of Islam, all battles were fought in closed formation, although the Arabs knew only the technique of attack and withdrawal"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 35b"
 weight: 106

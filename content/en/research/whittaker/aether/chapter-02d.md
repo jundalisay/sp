@@ -5,7 +5,7 @@ weight: 12
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Nollet came across a work purporting to be a French translation of Benjamin Franklin's book printed originally in England"
 ---
 

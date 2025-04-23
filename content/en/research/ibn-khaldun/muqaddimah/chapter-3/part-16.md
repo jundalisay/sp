@@ -1,7 +1,7 @@
 ---
 title: "Monuments to Dynasties"
 description: "Royal authority and large dynastic power are attained only through a group and group feeling"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 16"
 weight: 32

@@ -5,8 +5,8 @@ weight: 8
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/formation.jpg"
+icon: "Adam Smith"
+c: "deeppink"
 description: "The assignment of names to denote objects creates nouns substantive. It is one of the first steps towards the formation of language"
 ---
 

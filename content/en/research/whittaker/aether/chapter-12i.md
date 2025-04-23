@@ -5,7 +5,7 @@ weight: 120
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Lorentz combined the ideas of Thomson, Riecke, and Drude[113] into the most complete form"
 ---
 

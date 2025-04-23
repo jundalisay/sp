@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: Rays Propagated In Straight Lines
 description: Dr. Tillotson argues against the real presence of miracles. His argument is the most concise, elegant, and strong against miracles
-image: /covers/light.jpg
+c: "orangered"
 weight: 4
 author: "Christiaan Huygens"
 icon: "Christiaan Huygens"

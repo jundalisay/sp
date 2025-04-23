@@ -1,7 +1,7 @@
 ---
 title: "Zone 5"
 description: "Most of the first section of the fifth zone is covered by water, except a small portion of the south and of the east"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 2h"
 weight: 18

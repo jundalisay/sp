@@ -2,13 +2,13 @@
 heading: Section 1
 title: "The Origin of the Natural Virtues and Vices"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-image: /covers/treatise.png
+c: "darkblue"
 # date: 2015-x-x
 weight: 6
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

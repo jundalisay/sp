@@ -2,7 +2,7 @@
 title: "Article 4-General Taxes -- Taxes on luxuries"
 heading: "Chapter 2d-06, Article 4"
 weight: 50
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Taxes on luxuries generally are paid piecemeal. In the time and mode of payment they are the most convenient of all taxes"
 icon: "Adam Smith"
 writer:

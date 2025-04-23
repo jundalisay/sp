@@ -5,7 +5,7 @@ weight: 68
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "All corporations and most of corporation laws have been established to prevent this reduction of price by restraining that free competition which would most certainly occasion it"
 icon: "Adam Smith"
 ---

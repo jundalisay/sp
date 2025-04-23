@@ -2,12 +2,12 @@
 title: "What is Knowledge?"
 heading: Section 1
 description: "Knowledge is Based on the Resemblance, Contrariety, Quality, and Quantity of Ideas to Each Other"
-image: /covers/treatise.png
+c: "darkblue"
 weight: 6
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Wage Taxes"
 heading: "Chapter 2c-01, Article 3"
 weight: 32
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "While the demand for labour and the price of goods remain the same, a direct tax on wages raises wages higher than the tax"
 icon: "Adam Smith"
 writer:

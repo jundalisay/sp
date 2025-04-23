@@ -5,7 +5,7 @@ title: "Servitudes"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "The second kind of real rights is servitudes. These are burdens which one man has on another person's property"
 weight: 16

@@ -5,7 +5,7 @@ weight: 2
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Modern research has shown how intimate is the connection between the different celestial bodies, proving a universal order."
 icon: "Edmund Taylor Whittaker"
 ---

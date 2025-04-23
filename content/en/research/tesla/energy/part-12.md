@@ -5,7 +5,7 @@ weight: 28
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-image:  "/covers/energy.jpg"
+c: "orangered"
 description: "I resolved to work on this though it involved great sacrifice. Only years of labor could master its difficulties"
 ---
 

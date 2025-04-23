@@ -4,7 +4,7 @@ title: "The Harmony Of Politics With Morals According To The Transcendental Idea
 description: "Objectively, morals is a practical science"
 weight: 48
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

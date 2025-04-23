@@ -4,7 +4,7 @@ title: Critique of all Theology based upon Speculative Principles of Reason
 description: "The Application of the Categories Sensory Objects"
 weight: 58
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

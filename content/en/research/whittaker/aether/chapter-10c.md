@@ -5,7 +5,7 @@ weight: 94
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "John Henry Poynting discovered in 1884 a general theorem on the transfer of energy in the electromagnetic field"
 ---
 

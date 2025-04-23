@@ -1,7 +1,7 @@
 ---
 title: "The Real Meaning Of Sustenance And Profit"
 description: "Man, by nature, needs something to feed him and to provide for him in all the conditions and stages of his life from the time of his (early) growth to his old age"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 1"
 weight: 10

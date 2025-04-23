@@ -5,8 +5,8 @@ weight: 12
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/tms.jpg"
+icon: "Adam Smith"
+c: "indigo"
 description: "Every man is more deeply interested in whatever immediately concerns himself, than in what concerns others"
 ---
 

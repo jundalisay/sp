@@ -5,7 +5,7 @@ weight: 68
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Kirchhoff assumed that the electric charge is practically all resident on the surface of the wire, and that the current is uniformly distributed over its cross-section"
 ---
 

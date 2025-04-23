@@ -2,12 +2,12 @@
 title: "Argument for and Against Divorce"
 heading: "Essay 19b"
 description: "The Rise And Progress Of The Arts"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 42
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

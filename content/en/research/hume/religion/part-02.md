@@ -2,12 +2,12 @@
 title: "Philo"
 heading: "Part 2"
 description: "The ancient philosophers conveyed most of their instruction in the form of dialogue. But dialogues have been little practised in later ages and have seldom succeeded when attempted"
-image: /covers/religion.jpg
+c: "indigo"
 weight: 12
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

@@ -3,7 +3,7 @@ title: "Detailed Description of the Map of the Earth"
 # title: "The Earth's northern quarter has more civilization than the southern"
 description: "The map of the earth was done by the author of the Book of Roger. "
 # and divides it into two halves. This is the ecliptic (zodiac)
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 2b"
 weight: 7

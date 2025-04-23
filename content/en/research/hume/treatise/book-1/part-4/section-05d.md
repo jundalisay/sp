@@ -2,12 +2,12 @@
 heading: "Section 5d"
 title: "The Soul's Substance"
 weight: 32
-image: /covers/treatise.png
+c: "darkblue"
 description: "a thought, feeling, or perception is an inseparable and indivisible being."
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

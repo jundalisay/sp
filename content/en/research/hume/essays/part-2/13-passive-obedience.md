@@ -2,12 +2,12 @@
 title: "Passive Obedience"
 heading: "Essay 13 Part 2"
 description: "What are the practical consequences, deduced by each party, with regard to obedience to sovereigns?"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 42
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 <!-- In the former essay, we endeavoured to refute the speculative systems of politics advanced in this nation; as well the religious system of the one party, as the philosophical of the other. --> 

@@ -5,7 +5,7 @@ title: "The Obligation of Contracts"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "The obligation of contract is based on the reasonable expectation from a promise"
 weight: 22

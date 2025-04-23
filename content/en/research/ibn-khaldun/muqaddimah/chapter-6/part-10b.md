@@ -1,7 +1,7 @@
 ---
 title: "The Jews who converted to Islam"
 description: "The People of the Book were the Jews"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 10b"
 weight: 21

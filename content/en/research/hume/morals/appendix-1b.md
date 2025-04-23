@@ -2,12 +2,12 @@
 title: "Metaphysics"
 heading: "Appendix 1b"
 description: "The Difference in the feelings of the ancients and modersn lead to their differences in eloquence"
-image: /covers/morals.png
+c: "indigo"
 weight: 30
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

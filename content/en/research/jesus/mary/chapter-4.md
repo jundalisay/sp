@@ -3,7 +3,7 @@ heading: Chapter 4
 title: "He who has ears to hear, let him hear" 
 description: "He who has ears to hear, let him hear"
 weight: 4
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

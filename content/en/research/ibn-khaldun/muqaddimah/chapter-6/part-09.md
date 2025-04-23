@@ -2,7 +2,7 @@
 heading: Part 9
 title: "The various sciences that exist in contemporary civilization"
 description: "The sciences in cities are of 2 kinds"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 weight: 20
 writer:

@@ -2,7 +2,7 @@
 heading: "Chapter 7"
 title: "Among Glasgow Folk"
 # date: 2015-09-14
-image: /covers/life.jpg
+c: "black"
 description: "In Glasgow, Smith was a teacher and a learner. The conditions of time and place were most favourable for his instruction"
 author: Rae
 weight: 14

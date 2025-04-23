@@ -2,12 +2,12 @@
 title: "Global Warming"
 heading: "Essay 11h"
 description: "The Population of Ancient Rome and Italy"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 36
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

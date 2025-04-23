@@ -5,7 +5,7 @@ weight: 46
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Around 1867, Stokes did a series of experiments to determine which of the two theories was most nearly conformable to facts"
 ---
 

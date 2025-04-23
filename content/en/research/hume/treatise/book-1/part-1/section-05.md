@@ -2,12 +2,12 @@
 heading: "Section 5"
 title: "Relations"
 weight: 12
-image: /covers/treatise.png
+c: "darkblue"
 description: "Complex Ideas are Connected by Seven Kinds of Philosophical Relations"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

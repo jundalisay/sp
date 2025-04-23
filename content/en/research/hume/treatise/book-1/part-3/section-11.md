@@ -2,12 +2,12 @@
 title: "The Probability of Chances"
 heading: Section 11
 description: "Chance is the Negation of Cause"
-image: /covers/treatise.png
+c: "darkblue"
 weight: 22
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

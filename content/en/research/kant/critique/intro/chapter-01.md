@@ -4,7 +4,7 @@ title: "The difference between Pure and Empirical Knowledge"
 description: ""
 weight: 4
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

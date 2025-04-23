@@ -2,12 +2,12 @@
 title: "Church Politics"
 heading: "Part 3za "
 weight: 74
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "In the Christian church's ancient constitution, the bishop of each diocese was elected by the joint votes of the clergy"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

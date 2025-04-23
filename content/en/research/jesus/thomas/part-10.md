@@ -3,7 +3,7 @@ heading: Part 10
 title: "The Gospel of Thomas" 
 description: ""
 weight: 140
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

@@ -3,7 +3,7 @@ title: "Praise and Blame Simplified"
 heading: "Chapter 2d"
 description: "Praise and blame actually express praiseworthiness and blameworthiness"
 date: 2015-09-22
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

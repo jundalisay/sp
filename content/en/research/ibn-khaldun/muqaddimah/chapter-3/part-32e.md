@@ -1,7 +1,7 @@
 ---
 title: "The ministry of financial operations and taxation"
 description: "The ministry of taxation is is concerned with tax operations and guards the rights of the dynasty in the matters of income and expenditures"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 32e"
 weight: 84

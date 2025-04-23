@@ -1,7 +1,7 @@
 ---
 title: "The greatness, territorial size, and length of a dynasty depend on the numbers of its supporters"
 description: "This is because royal authority exists only through group feeling"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 8"
 weight: 18

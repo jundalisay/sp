@@ -2,7 +2,7 @@
 title: "The Raw Produce Which Not Always Affords Rent"
 heading: "Part 2a"
 weight: 8
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The Raw Produce Which Not Always Affords Rent are Animal Skin and Timber"
 icon: "Adam Smith"
 author: Adam Smith

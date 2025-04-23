@@ -2,7 +2,7 @@
 title: "Reflections 3-4"
 heading: "Appendix 4b"
 description: "Ancient moralists, the best models, made no material distinction among the different species of mental endowments and defects"
-image: /covers/morals.png
+c: "indigo"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

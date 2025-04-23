@@ -5,7 +5,7 @@ weight: 25
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "In 1807, Hans Christian Oersted announced his intention of examining the action of electricity on the magnetic needle"
 ---
 

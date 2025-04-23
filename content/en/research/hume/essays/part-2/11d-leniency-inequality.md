@@ -2,12 +2,12 @@
 title: "Leniency and Inequality Leading to Disorder and Decline of Commerce"
 heading: "Essay 11d"
 description: "The violence and decline of commerce and manufactures was caused by leniency and inequality"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 30
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

@@ -3,12 +3,12 @@ heading: "Chapter 3d"
 title: "England's Economic Development was Due to Guarantee of Liberty"
 linkTitle: "Chapter 3d"
 weight: 46
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "England's Economic Development was Due to Guarantee of Liberty"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

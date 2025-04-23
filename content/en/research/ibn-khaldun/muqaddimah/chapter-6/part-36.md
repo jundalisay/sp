@@ -1,7 +1,7 @@
 ---
 title: "The Right Attitude In Scientific Instruction And How To Give Such Instruction"
 description: "The teaching of scientific subjects to students is effective only when it proceeds gradually and little by little."
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 36"
 weight: 110

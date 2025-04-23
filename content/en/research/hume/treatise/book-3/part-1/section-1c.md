@@ -2,13 +2,13 @@
 heading: Section 1c
 title: "Moral judgments Are Not Based On Comparisons Or Relations"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-image: /covers/treatise.png
+c: "darkblue"
 # date: 2015-x-x
 weight: 18
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

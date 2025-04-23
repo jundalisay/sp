@@ -5,7 +5,7 @@ weight: 98
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "E. Aulinger brought to light a contradiction between the principles of the unity of electric and of magnetic force and the electrodynamics of Weber"
 ---
 

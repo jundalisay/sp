@@ -5,7 +5,7 @@ weight: 40
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Green found that if the vibration of the aethereal molecules is executed at right angles to the plane of incidence"
 ---
 

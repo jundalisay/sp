@@ -3,7 +3,7 @@ heading: Part 4
 title: "The Golden Rule" 
 description: "Love your brother like your soul, guard him like the pupil of your eye"
 weight: 12
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 19
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "The Market Price of Commodities is regulated by the demand, the supply, and the purchasing power of the demand"
 ---

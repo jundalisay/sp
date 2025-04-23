@@ -7,5 +7,5 @@ weight: 54
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 ---

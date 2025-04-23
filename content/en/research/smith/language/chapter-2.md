@@ -5,8 +5,8 @@ weight: 10
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/formation.jpg"
+icon: "Adam Smith"
+c: "deeppink"
 description: "Every preposition denotes some relation considered in concrete with the co-relative object"
 ---
 

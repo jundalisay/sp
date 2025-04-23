@@ -2,11 +2,11 @@
 title: "Why Utility Pleases"
 heading: "Section 5"
 description: "There would be no need for governments or political society if everyone could observe justice and equity"
-image: /covers/morals.png
+c: "indigo"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 weight: 14
 ---
 

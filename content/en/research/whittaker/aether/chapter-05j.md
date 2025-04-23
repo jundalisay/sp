@@ -5,7 +5,7 @@ weight: 49
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Dispersion is, then, according to the view of Fresnel and Cauchy, a consequence of the coarse-grainedness of the medium"
 ---
 

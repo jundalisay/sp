@@ -5,8 +5,8 @@ weight: 6
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/tms.jpg"
+icon: "Adam Smith"
+c: "indigo"
 description: "Beneficence cannot be extorted by force, but justice can"
 ---
 

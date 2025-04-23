@@ -2,7 +2,7 @@
 title: "Monetary Devaluation"
 heading: "Chapter 3g"
 weight: 18
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The raising of the coin's denomination has been the most usual way a real public bankruptcy is disguised under the appearance of a pretended payment"
 icon: "Adam Smith"
 writer:

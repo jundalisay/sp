@@ -4,8 +4,8 @@ heading: "Chapter 13 "
 weight: 26
 contributors: ['Vyasa']
 description: "Arjuna asks: What is life, the soul, and knowledge?"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

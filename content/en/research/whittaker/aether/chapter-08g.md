@@ -5,7 +5,7 @@ weight: 76
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "In 1865, Maxwell occupied himself in writing a connected account of electrical theory"
 ---
 

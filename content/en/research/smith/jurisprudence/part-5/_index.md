@@ -5,7 +5,7 @@ description: "Adam Smith explains National Laws"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: /covers/lectures.jpg
+c: "darkgreen"
 weight: 10
 ---
 

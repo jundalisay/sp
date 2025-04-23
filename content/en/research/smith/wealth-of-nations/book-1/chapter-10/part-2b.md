@@ -5,7 +5,7 @@ weight: 70
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "Adam Smith"
 ---

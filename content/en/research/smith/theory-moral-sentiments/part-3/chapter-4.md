@@ -3,7 +3,7 @@ title: "The Nature of Self-deceit and the Origin and Use of General Rule"
 heading: "Chapter 4"
 description: "The impartial spectator does not always need to be far to pervert our judgments on our own conduct"
 # date: 2015-09-08
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

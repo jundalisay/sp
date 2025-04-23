@@ -5,7 +5,7 @@ weight: 14
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Franklin's theory of the Leyden phial led to the doctrine that glass is impermeable to electricity"
 ---
 

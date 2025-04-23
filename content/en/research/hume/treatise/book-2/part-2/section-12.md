@@ -2,12 +2,12 @@
 heading: Section 12
 title: "THE LOVE AND HATRED OF ANIMALS"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
-image: /covers/treatise.png
+c: "darkblue"
 weight: 4
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

@@ -2,11 +2,11 @@
 title: "The Benevolent Affections"
 heading: "Section 2"
 description: "The epithets sociable, humane, merciful, gratefulbeneficent, or their equivalents, are known in all languages"
-image: /covers/morals.png
+c: "indigo"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 weight: 6
 ---
 

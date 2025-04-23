@@ -2,9 +2,9 @@
 title: "Some Farther Considerations With Regard To Justice"
 heading: "Section 1"
 description: "The Difference in the feelings of the ancients and modersn lead to their differences in eloquence"
-image: /covers/morals.png
+c: "indigo"
 weight: 34
-icons: /avatars/hume.png
+icon: "David Hume"
 date:   "2020-06-16"
 writer:
   name: David Hume

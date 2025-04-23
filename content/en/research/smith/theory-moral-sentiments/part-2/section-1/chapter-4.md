@@ -5,8 +5,8 @@ weight: 10
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/tms.jpg"
+icon: "Adam Smith"
+c: "indigo"
 description: "We only thoroughly sympathize with Person A's gratitude to Person B if we totally go along with the motives of Person B"
 ---
 

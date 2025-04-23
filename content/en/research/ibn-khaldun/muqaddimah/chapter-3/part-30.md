@@ -1,7 +1,7 @@
 ---
 title: "The Caliph's title of 'Commander of the Faithful'"
 description: "This is a religious position depending on the office of judge and connected with court practice"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 30"
 weight: 72

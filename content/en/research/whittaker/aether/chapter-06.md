@@ -5,7 +5,7 @@ weight: 51
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Towards the end of 1812, Davy received a letter to obtain employment in a scientific laboratory"
 ---
 

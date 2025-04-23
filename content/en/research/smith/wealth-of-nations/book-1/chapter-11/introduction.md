@@ -5,7 +5,7 @@ weight: 2
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Adam Smith introduces the concept of Rent"
 icon: "Adam Smith"
 ---

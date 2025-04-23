@@ -2,9 +2,9 @@
 title: "The Royal African Joint Stock Company (1660-1752)"
 heading: "Part 3j"
 weight: 40
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The Royal African Company is the predecessor of the present African Company"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

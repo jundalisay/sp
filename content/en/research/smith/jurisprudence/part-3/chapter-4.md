@@ -6,7 +6,7 @@ weight: 12
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "Stock-jobbing is the same as gaming"
 ---

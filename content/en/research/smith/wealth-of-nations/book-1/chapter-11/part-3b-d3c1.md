@@ -5,7 +5,7 @@ weight: 36
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Produce that can or cannot be multiplied according to demand. Examples are wool or raw hides, fish, precious metals"
 icon: "Adam Smith"
 ---

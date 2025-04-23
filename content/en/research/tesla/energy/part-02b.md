@@ -5,7 +5,7 @@ weight: 9
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-image:  "/covers/energy.jpg"
+c: "orangered"
 description: "The force which retards the onward movement of man is partly frictional and partly negative."
 ---
 

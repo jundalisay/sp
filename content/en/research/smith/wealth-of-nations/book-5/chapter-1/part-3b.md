@@ -2,9 +2,9 @@
 title: "Roads Should Not Be Privatized"
 heading: "Part 3b"
 weight: 24
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "There are many objections against levying a toll on turnpikes and privatizing roads"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

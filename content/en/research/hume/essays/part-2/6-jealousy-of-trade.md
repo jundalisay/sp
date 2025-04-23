@@ -2,12 +2,12 @@
 title: "The Jealousy of Trade"
 heading: "Essay 6"
 description: "A nation's domestic industry cannot be hurt by the greatest prosperity of their neighbours"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 14
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 <!-- HAVING endeavoured to remove one species of ill-founded jealousy, which is so prevalent among commercial nations, it may not be amiss to mention another, which seems equally groundless. -->

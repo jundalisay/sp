@@ -3,7 +3,7 @@ heading: "Chapter 7k"
 title: "The Effects of Monopoly on Britain"
 linkTitle: "Chapter 7k"
 weight: 82
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The monopoly of the colony trade drew British capital from other trades"
 writer:
   name: Adam Smith

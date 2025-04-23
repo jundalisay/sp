@@ -6,7 +6,7 @@ weight: 30
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "Assassination is thought just and equitable in a republic but not in a monarchy"
 ---

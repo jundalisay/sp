@@ -1,7 +1,7 @@
 ---
 title: "Differences in Prosperity and Poverty Are The Same In Rural As In Urban"
 description: "The condition of the inhabitants in regions that have an abundant civilization and contain numerous nations and many inhabitants is favorable"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 14"
 weight: 24

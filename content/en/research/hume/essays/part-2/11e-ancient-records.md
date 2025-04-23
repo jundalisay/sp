@@ -2,12 +2,12 @@
 title: "Faulty Ancient Records"
 heading: "Essay 11e"
 description: "The populousness of the Ancients is due to wrong record-keeping"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 32
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

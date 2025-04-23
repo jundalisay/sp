@@ -5,8 +5,8 @@ weight: 4
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/tms.jpg"
+icon: "Adam Smith"
+c: "indigo"
 description: "When Hobbes started this controversy, reason was thought the only source for the ideas of right and wrong."
 ---
 

@@ -2,7 +2,7 @@
 heading: "Chapter 2b"
 title: "Vibration & Polarity"
 description: This principle says that **the differences between different manifestations of Matter, Energy, Mind, and even Spirit, result largely from varying rates of Vibration.
-image: /covers/kybalion.jp
+c: "maroon"
 weight: 6
 ---
 

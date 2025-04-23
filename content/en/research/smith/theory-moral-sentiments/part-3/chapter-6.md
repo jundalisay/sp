@@ -4,7 +4,7 @@ title: "When the Sense of Duty Should be our Conduct's Sole Principle"
 heading: "Chapter 6"
 description: "Christianity has no rule saying that our sense of duty should be our sole principle"
 date: 2015-09-01
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -2,12 +2,12 @@
 title: "The Rise And Progress Of The Arts"
 heading: "Essay 14b"
 description: "The Rise And Progress Of The Arts"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 30
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

@@ -4,7 +4,7 @@ title: "The Human Intellect Has A Priori Cognitions"
 description: ""
 weight: 6
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 {{< n n="We replace a priori with within-the-mind">}}

@@ -4,8 +4,8 @@ heading: "Chapter 9 "
 weight: 16
 contributors: ['Vyasa']
 description: "Who is that Brahma?"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

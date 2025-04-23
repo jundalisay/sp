@@ -5,7 +5,7 @@ weight: 116
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Can humans know absolute position in space relative to the aether?"
 ---
 

@@ -5,7 +5,7 @@ weight: 78
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Among the problems to which Maxwell applied his theory of stress in the medium was one which had engaged the attention of many generations of his predecessors"
 ---
 

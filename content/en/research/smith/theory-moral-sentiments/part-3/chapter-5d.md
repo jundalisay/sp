@@ -3,7 +3,7 @@ title: "How Nature balances the distribution of prosperity"
 heading: "Chapter 5b"
 description: "The general rules which distribute prosperity and adversity are perfectly suited to mankind's situation"
 date: 2015-09-04
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

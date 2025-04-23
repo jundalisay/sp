@@ -5,7 +5,7 @@ weight: 108
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Maxwell and Hertz tried to extend the theory of the electromagnetic field to the case in which ponderable bodies are in motion"
 ---
 

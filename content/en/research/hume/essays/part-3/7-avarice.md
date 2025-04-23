@@ -2,12 +2,12 @@
 title: "Avarice"
 heading: "Essay 7"
 description: "Avarice"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 17
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

@@ -4,8 +4,8 @@ heading: "Chapter 12 "
 weight: 24
 contributors: ['Vyasa']
 description: "Whoever serve Me--as I show Myself-- Constantly true, in full devotion fixed"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

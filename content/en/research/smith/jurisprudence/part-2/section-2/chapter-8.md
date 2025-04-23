@@ -5,7 +5,7 @@ weight: 20
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "To facilitate exchange, people needed some expedient to ascertain the accuracy of weight and fineness. Coinage secures these"
 ---

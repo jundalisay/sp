@@ -5,7 +5,7 @@ weight: 6
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla	
-image:  "/covers/energy.jpg"
+c: "orangered"
 description: "The production of artificial food as a means for causing an increase of the human mass naturally suggests itself."
 ---
 

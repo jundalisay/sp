@@ -2,9 +2,9 @@
 title: "The Hudson's Bay (1660-1752) and South Sea Joint Stock Companies"
 heading: "Part 3k"
 weight: 42
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The Royal African Company is the predecessor of the present African Company"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

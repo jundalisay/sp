@@ -3,7 +3,7 @@ heading: Chapter 5
 title: "Mary Speaks" 
 description: "What is hidden from you I will proclaim to you"
 weight: 6
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

@@ -5,8 +5,8 @@ weight: 14
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/tms.jpg"
+icon: "Adam Smith"
+c: "indigo"
 description: "Society requires the virtue called Justice which is sustained by the utility afforded by society"
 ---
 

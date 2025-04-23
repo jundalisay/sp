@@ -3,7 +3,7 @@ heading: Chapter 17
 title: "The Transfiguration of Jesus" 
 description: "After 6 days, Jesus took Peter, James, and John his brother, and brought them up into an high mountain"
 weight: 4
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

@@ -3,8 +3,8 @@ title: "Commerce"
 heading: "Essay 1a"
 description: "Commerce unites the private and common interest"
 weight: 4
-icon: /avatars/hume.png
-image: /covers/essays.jpg
+icon: "David Hume"
+c: "darkblue"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

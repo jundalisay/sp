@@ -5,7 +5,7 @@ weight: 53
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Does a bar-magnet which is rotated on its own axis carries its lines of magnetic force in rotation with it?"
 ---
 

@@ -4,7 +4,7 @@ title: "Critique of Pure Reason as a Science"
 description: "Reason is the faculty which furnishes us with the principles of knowledge within-the-mind"
 weight: 20
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 {{< n n="We replace pure reason with abstract wisdom" >}}

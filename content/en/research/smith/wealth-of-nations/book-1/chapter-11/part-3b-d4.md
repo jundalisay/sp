@@ -5,7 +5,7 @@ weight: 40
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Most of the ancient writers considered the low money price of wheat and other goods as a proof of the scarcity of those metals"
 icon: "Adam Smith"
 ---

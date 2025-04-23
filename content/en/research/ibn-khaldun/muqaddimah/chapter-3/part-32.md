@@ -1,7 +1,7 @@
 ---
 title: "The ranks and titles of royal and governmental authority"
 description: "The Patriarch was called 'Pope' meaning 'Father of fathers'. It first appeared in Egypt, according to the theory of Jirjis b. al-'Amid in his History"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 32a"
 weight: 76

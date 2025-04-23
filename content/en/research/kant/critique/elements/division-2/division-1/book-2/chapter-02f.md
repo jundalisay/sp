@@ -5,7 +5,7 @@ title: Analogies Of Experience
 description: "The Application of the Categories Sensory Objects"
 weight: 22
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

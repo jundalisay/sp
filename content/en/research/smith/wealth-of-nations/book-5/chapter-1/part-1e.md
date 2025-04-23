@@ -2,12 +2,12 @@
 title: "The Fall of the Western Empire"
 heading: "Part 1e"
 weight: 12
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "History shows the superiority of a well-regulated standing army over a militia"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

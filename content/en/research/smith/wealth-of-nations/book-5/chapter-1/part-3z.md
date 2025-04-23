@@ -2,9 +2,9 @@
 title: "How to solve religious conflicts"
 heading: "Part 3z"
 weight: 72
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "There state can use two very easy and effective remedies to peacefully correct the disagreeably rigorous morals of little sects"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

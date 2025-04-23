@@ -3,7 +3,7 @@ title: "General Rules as Solution to Self-Deceit"
 heading: "Chapter 4b"
 description: "Mankind's views on the propriety of their own conduct are so partial"
 # date: 2015-09-08
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

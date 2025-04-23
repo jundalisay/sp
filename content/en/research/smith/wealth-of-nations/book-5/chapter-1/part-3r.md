@@ -2,9 +2,9 @@
 title: "Article 2-Educational Subjects"
 heading: "Part 3r"
 weight: 56
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "When Christianity was first established by law, a corrupted Latin had become the common language of Western Europe"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

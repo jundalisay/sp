@@ -2,7 +2,7 @@
 heading: "Chapter 2c"
 title: "Rhythm & Causation & Gender"
 description: In everything there is manifested a measured motion.
-image: /covers/kybalion.jp
+c: "maroon"
 weight: 7
 ---
 

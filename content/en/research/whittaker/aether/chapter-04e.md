@@ -5,7 +5,7 @@ weight: 31
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Fresnel considered the relation of the direction of vibration to the plane of polarization"
 ---
 

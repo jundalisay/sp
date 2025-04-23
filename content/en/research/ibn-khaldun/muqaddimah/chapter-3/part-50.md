@@ -2,7 +2,7 @@
 title: "Human Civilization Requires Political Leadership"
 # for its organization
 description: "People in any social organization must have someone who exercises a restraining influence and rules them and to whom recoursemay be had"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 50"
 weight: 132

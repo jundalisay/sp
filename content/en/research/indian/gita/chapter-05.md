@@ -4,8 +4,8 @@ heading: "Chapter 5 "
 weight: 10
 contributors: ['Vyasa']
 description: "The region of high rest which Sankhyans reach Yogins attain"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

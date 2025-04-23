@@ -3,11 +3,11 @@ title: "How to Make Society More Harmonious"
 heading: "Chapter 4b"
 description: "Friends restore the mind to some degree of tranquility and sedateness."
 weight: 11
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

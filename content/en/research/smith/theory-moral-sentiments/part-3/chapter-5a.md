@@ -3,7 +3,7 @@ title: "The Authority of the General Moral Rules properly seen as the Laws of th
 heading: "Chapter 5a"
 description: "The foundation of our moral faculties were given to us to direct of our conduct in this life"
 date: 2015-09-06
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

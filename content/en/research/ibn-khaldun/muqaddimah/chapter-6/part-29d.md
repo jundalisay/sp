@@ -1,7 +1,7 @@
 ---
 title: "Alchemy is Sorcery"
 description: "It may be sorcery, because the sorcerer, as has been established in the proper place, may change the identity of matter by means of his magic power"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 29d"
 weight: 93

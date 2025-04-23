@@ -2,7 +2,7 @@
 title: "Descartes' System of Astronomy"
 heading: Part 9
 description: "Descartes was the first to ascertain precisely this invisible chain that Kepler said to link the planets to the sun."
-image: /covers/astronomy.jpg
+c: "orangered"
 # date: 2022-09-24
 writer:
   name: Adam Smith

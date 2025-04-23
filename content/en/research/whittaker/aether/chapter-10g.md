@@ -5,7 +5,7 @@ weight: 100
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Hertz, after presenting the general content of Maxwell's theory for bodies at rest, proceeded to extend the equations"
 ---
 

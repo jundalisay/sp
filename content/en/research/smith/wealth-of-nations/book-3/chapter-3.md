@@ -2,12 +2,12 @@
 title: "The Origin of Free-Traders"
 heading: "Chapter 3"
 weight: 14
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Sometimes, the king or a great lord would grant a tax exemption to traders who lived in their territory. Such traders, though servile, were called Free-traders"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

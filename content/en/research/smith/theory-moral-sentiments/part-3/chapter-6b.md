@@ -3,7 +3,7 @@ title: "The General rules of justice"
 heading: "Chapter 6b"
 description: "The general rules of the virtue called justice require the greatest exactness"
 date: 2015-09-01
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

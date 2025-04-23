@@ -2,12 +2,12 @@
 title: "The Components of Our Reasonings on Cause and Effect"
 heading: Section 4
 description: "Causes Require an Immediate Perception or an Inference from an Impression"
-image: /covers/treatise.png
+c: "darkblue"
 weight: 8
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

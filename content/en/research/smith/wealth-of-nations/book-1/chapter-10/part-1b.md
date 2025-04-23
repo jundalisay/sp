@@ -5,7 +5,7 @@ weight: 58
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Wages vary with the constancy or inconstancy of employment"
 icon: "Adam Smith"
 ---

@@ -4,7 +4,7 @@ title: The Theory of the ideality of the senses
 description: "The Application of the Categories Sensory Objects"
 weight: 16
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 16
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Electrostatical theory was suddenly advanced by Siméon Denis Poisson"
 ---
 

@@ -5,7 +5,7 @@ weight: 16
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "The division of labour always becomes more perfect by the easy method of transportation"
 ---

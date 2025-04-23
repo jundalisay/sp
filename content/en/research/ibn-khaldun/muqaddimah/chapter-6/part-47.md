@@ -1,7 +1,7 @@
 ---
 title: "The current language of sedentary is different from the Mudar"
 description: "Taste attests to the fact that these things are needed by the student. It originates as the result of the (existence of the proper linguistic) 1366 habit and of a healthy disposition"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 47"
 weight: 138

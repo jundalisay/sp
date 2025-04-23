@@ -2,9 +2,9 @@
 title: "The Board of Directors"
 heading: "Part 3n"
 weight: 48
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Frequently a wealthy man is willing to buy £1,000 share in India stock merely to get a vote in its board of directors"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

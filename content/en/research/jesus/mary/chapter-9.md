@@ -3,7 +3,7 @@ heading: Chapter 9
 title: "Peter Versus Mary" 
 description: "Peter answered and spoke concerning these same things"
 weight: 14
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

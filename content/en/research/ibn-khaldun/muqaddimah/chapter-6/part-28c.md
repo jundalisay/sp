@@ -1,7 +1,7 @@
 ---
 title: "The Za'irajah"
 description: "The Zairajah is a branch of the science of letter magic, practiced among the authorities on letter magic"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 28c"
 writer:

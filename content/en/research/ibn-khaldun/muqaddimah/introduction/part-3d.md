@@ -1,7 +1,7 @@
 ---
 title: "Pitfalls in Historiography"
 description: "Arfajah had belonged to the Azd but had put on the skin of the Bajilah so successfully"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 3d"
 weight: 12

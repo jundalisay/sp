@@ -3,7 +3,7 @@ heading: Section 2d Supplement 1
 title: "The Guarantee Of Perpetual Peace" 
 description: "This guarantee from Providence"
 weight: 20
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

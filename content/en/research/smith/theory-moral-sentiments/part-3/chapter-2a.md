@@ -3,7 +3,7 @@ title: "The Love of Praise and Dread of Blame Simplified"
 heading: "Chapter 2a"
 description: "Praise is different from Praisworthiness, Blame is different from blameworthiness"
 date: 2015-09-28
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

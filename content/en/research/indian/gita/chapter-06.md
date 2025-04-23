@@ -4,8 +4,8 @@ heading: "Chapter 6 "
 weight: 12
 contributors: ['Vyasa']
 description: "A Yogi and Sanyasi does rightful work, not seeking gain from it"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

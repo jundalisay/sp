@@ -5,7 +5,7 @@ weight: 12
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Money has wholesale and retail"
 icon: "Adam Smith"
 ---

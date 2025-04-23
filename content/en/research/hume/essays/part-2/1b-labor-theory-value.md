@@ -2,7 +2,7 @@
 title: "Labor Theory of Value"
 heading: "Essay 1b"
 description: "Labor Theory of Value leads to Manufactures and Commerce. Manufactures Add to Wealth by Storing Labor. Commerce Adds to Wealth by Circulating Manufactures"
-image: /covers/essays.jpg
+c: "darkblue"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

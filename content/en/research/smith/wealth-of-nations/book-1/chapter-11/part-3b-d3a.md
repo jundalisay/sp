@@ -5,7 +5,7 @@ weight: 30
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Rude produce may be divided into three"
 icon: "Adam Smith"
 ---

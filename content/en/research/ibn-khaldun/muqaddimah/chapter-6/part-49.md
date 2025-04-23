@@ -1,7 +1,7 @@
 ---
 title: "The habit of the Mudar language"
 description: "This is because Arabic philology is merely a knowledge of the rules and forms of this habit"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 49"
 weight: 140

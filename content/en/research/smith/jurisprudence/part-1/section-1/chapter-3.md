@@ -6,7 +6,7 @@ weight: 8
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "A country's location and its improvement in agriculture and trade make it favourable to the introduction of a republican government"
 ---

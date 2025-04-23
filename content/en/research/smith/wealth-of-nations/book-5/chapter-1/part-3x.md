@@ -2,9 +2,9 @@
 title: "The Independents' Sect"
 heading: "Part 3x"
 weight: 68
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The 'Independents' sect was composed of very wild enthusiasts, established in Pennsylvania."
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

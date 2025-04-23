@@ -5,7 +5,7 @@ weight: 20
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Galvani ascertained that a frog's limbs are convulsed whenever a connexion is made between the nerves and muscles by a metallic arc"
 ---
 

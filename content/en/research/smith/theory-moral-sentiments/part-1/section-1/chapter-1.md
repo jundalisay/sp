@@ -3,8 +3,8 @@ title: "Sympathy"
 heading: "Chapter 1"
 description: "The Source of our Compassion is our conception of the pain of others"
 weight: 4
-image: "/covers/tms.jpg"
-icon: /avatars/smith.png
+c: "indigo"
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -5,7 +5,7 @@ weight: 32
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Fresnel's second supplement to his first memoir on Double Refraction was presented to the Academy on November 26, 1821"
 ---
 

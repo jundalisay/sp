@@ -2,12 +2,12 @@
 title: "The Impressions of the Senses and Memory"
 heading: Section 5
 description: "The Initial Impressions Come from the Memory, Imagination, and Senses"
-image: /covers/treatise.png
+c: "darkblue"
 weight: 10
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

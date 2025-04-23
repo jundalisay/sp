@@ -2,7 +2,7 @@
 heading: "Chapter 8e"
 title: "The New Edinburgh Review: Hume Versus the Church"
 # date: 2015-09-30
-image: /covers/life.jpg
+c: "black"
 description: "A new literary review is started in Edinburgh by Hume and a few of his younger friends."
 weight: 23
 author: Rae

@@ -1,7 +1,7 @@
 ---
 title: "Ranks are useful in securing property"
 description: "The person of rank who is highly esteemed is in every material aspect more fortunate and wealthier than a person who has no rank"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Parts 5-6"
 weight: 18

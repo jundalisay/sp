@@ -2,13 +2,13 @@
 heading: Section 2d
 title: "The State Of Nature; And Common Interest As The Origin Of Justice"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-image: /covers/treatise.png
+c: "darkblue"
 # date: 2015-x-x
 weight: 6
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

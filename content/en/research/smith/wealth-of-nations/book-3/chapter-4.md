@@ -2,12 +2,12 @@
 heading: "Chapter 4"
 title: "How the Commerce of the Towns Improved the Countryside"
 weight: 20
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "How the Commerce gave employment for the rural areas"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

@@ -3,11 +3,11 @@ title: "How we judge the feelings of others"
 heading: "Chapter 3"
 description: "Our own feelings is the measure or decider of our sympathy or non-sympathy with the feelings of others"
 weight: 8
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

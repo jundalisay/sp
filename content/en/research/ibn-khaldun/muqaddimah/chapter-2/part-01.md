@@ -1,7 +1,7 @@
 ---
 title: "The Bedouins"
 description: "Social organization enables the Bedouins to cooperate and start with the simple necessities of life, before they get to conveniences and luxuries"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 1"
 weight: 6

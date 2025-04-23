@@ -1,7 +1,7 @@
 ---
 title: "Once Senility Has Cometo a Dynasty, It Cannot Disappear"
 description: "Senility is a chronic disease that cannot be cured or made to disappear because it is something natural, and natural things do not change"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 44"
 weight: 122

@@ -2,12 +2,12 @@
 title: "The Balance Of Trade"
 heading: "Essay 5"
 description: "The Balance Of Trade Simplified"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 12
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

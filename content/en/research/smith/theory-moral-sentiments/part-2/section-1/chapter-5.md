@@ -5,8 +5,8 @@ weight: 12
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/tms.jpg"
+icon: "Adam Smith"
+c: "indigo"
 description: "The Sense of Merit arises from sympathy, the Sense of Demerit arises from lack of sympathy"
 ---
 

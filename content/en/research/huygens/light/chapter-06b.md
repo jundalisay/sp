@@ -2,7 +2,7 @@
 heading: "Chapter 6b"
 title: Illustrations
 description: To demonstrate the effect of the curve, let there be described about the centre L the circular arc AH, cutting LG at H
-image: /covers/light.jpg
+c: "orangered"
 weight: 30
 author: "Christiaan Huygens"
 icon: "Christiaan Huygens"

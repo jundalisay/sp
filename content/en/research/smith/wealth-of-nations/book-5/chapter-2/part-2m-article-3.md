@@ -2,7 +2,7 @@
 title: "General taxes -- Capitation Taxes"
 heading: "Chapter 2c-02, Article 3"
 weight: 34
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Taxes which should fall indifferently on every Species of Revenue"
 icon: "Adam Smith"
 writer:

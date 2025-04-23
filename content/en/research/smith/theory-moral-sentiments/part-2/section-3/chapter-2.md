@@ -5,8 +5,8 @@ weight: 10
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/tms.jpg"
+icon: "Adam Smith"
+c: "indigo"
 description: "If an accident hinders the successful outcome of an endeavor, the merit of the talents seems imperfect even to those who know of such talent"
 ---
 

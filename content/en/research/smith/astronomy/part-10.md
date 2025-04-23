@@ -2,7 +2,7 @@
 title: "Isaac Netwon's System of Astronomy"
 heading: Part 10
 description: "Isaac Newton had the superior genius and sagacity to discover that he could join the movements of the Planets by a familiar principle of connection"
-image: /covers/astronomy.jpg
+c: "orangered"
 # date: 2022-09-22
 writer:
   name: Adam Smith

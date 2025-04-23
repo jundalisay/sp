@@ -4,7 +4,7 @@ title: "The Difference Between Analytical and Synthetical Judgements"
 description: ""
 weight: 10
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

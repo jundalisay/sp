@@ -5,7 +5,7 @@ weight: 77
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Faraday, when studying the curvature of lines of force in electrostatic fields, had noticed an apparent tendency of adjacent lines to repel each other"
 ---
 

@@ -2,7 +2,7 @@
 title: Proofs
 heading: "Section 2b"
 description: All the materials of thinking are derived either from our outward or inward feeling
-icon: /avatars/hume.png
+icon: "David Hume"
 image: /covers/enquiry.jpg
 weight: 8
 writer:

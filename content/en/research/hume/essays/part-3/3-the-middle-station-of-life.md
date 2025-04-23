@@ -3,9 +3,9 @@ title: "The Middle Class"
 # The Middle Station Of Life
 heading: "Essay 3"
 description: "The middle class is the happiest of all the classes"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 8
-icon: /avatars/hume.png
+icon: "David Hume"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

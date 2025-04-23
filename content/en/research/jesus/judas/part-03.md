@@ -3,7 +3,7 @@ heading: Part 3
 title: "Jesus Reveals Everything to Judas" 
 description: "These are the secret sayings which the living Jesus spoke and which Didymos Judas Thomas wrote down."
 weight: 8
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

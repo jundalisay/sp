@@ -2,7 +2,7 @@
 heading: "Chapter 7l"
 title: "The Effects of Monopoly -- Spain and Portugal"
 weight: 84
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade."
 writer:
   name: Adam Smith

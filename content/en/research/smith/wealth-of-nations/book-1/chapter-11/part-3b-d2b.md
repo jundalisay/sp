@@ -2,7 +2,7 @@
 title: "Money Demand and the Ratio of Gold to Silver"
 heading: "Part 3b of Digression 2b"
 weight: 28
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The consumption of those metals in manufactures is quicker but of smaller volume than its gradual consumption in coin and plate"
 icon: "Adam Smith"
 author: Adam Smith

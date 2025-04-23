@@ -2,9 +2,9 @@
 title: "European Education"
 heading: "Part 3s"
 weight: 58
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The changes introduced by European universities into the ancient course of philosophy were all meant to educate ecclesiastics"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

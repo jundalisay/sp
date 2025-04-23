@@ -2,12 +2,12 @@
 title: "Civil Liberty"
 heading: "Essay 12"
 description: "Civil liberty has great advantages over absolute governments"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 24
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

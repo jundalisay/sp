@@ -1,7 +1,7 @@
 ---
 title: "The Mint"
 description: "This is concerned with the stamping of the dinars and dirhams used in commercial transactions"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 34b"
 weight: 96

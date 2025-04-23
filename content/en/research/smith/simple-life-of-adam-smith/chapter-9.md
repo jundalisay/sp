@@ -2,7 +2,7 @@
 heading: "Chapter 9"
 title: "Theory of Moral Sentiments"
 # date: 2015-09-10
-image: /covers/life.jpg
+c: "black"
 description: "Adam Smith as Glasgow Professor"
 author: Rae
 weight: 20

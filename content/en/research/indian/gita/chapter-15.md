@@ -4,8 +4,8 @@ heading: "Chapter 15 "
 weight: 30
 contributors: ['Vyasa']
 description: "The Aswattha (Banyan-tree) has its boughs beneath, its roots above"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "A Royal Family Can Found A Dynasty That Can Dispense With Group Feeling"
 description: "The group feeling in which a member of a royal family shares may have much power over nations and races"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 3"
 weight: 12

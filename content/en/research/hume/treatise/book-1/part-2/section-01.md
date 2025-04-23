@@ -2,12 +2,12 @@
 heading: "Section 1"
 title: "The Infinite Divisibility of Our Ideas of Space and Time"
 weight: 2
-image: /covers/treatise.png
+c: "darkblue"
 description: "The Limitation of the Mind Limits our Cognition of the Existence of Objects"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

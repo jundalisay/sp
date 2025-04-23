@@ -1,12 +1,12 @@
 ---
 title: "The Objects and Causes of Pride and Humility"
 description: "Pride and humility are simple and uniform impressions"
-image: /covers/treatise.png
+c: "darkblue"
 weight: 4
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

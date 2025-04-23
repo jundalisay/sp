@@ -5,7 +5,7 @@ weight: 14
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Bank notes and cash accounts are the two kinds of paper money"
 icon: "Adam Smith"
 ---

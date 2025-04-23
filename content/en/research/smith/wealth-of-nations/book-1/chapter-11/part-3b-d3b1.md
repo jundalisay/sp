@@ -5,7 +5,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 32
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The second kind is the rude produce which human industry can multiply in proportion to the demand--Beef, Deer Meat"
 icon: "Adam Smith"
 ---

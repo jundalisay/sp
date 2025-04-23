@@ -2,12 +2,12 @@
 title: "Love And Marriage"
 heading: "Essay 5"
 description: "The Allegory of the Hymen"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 15
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

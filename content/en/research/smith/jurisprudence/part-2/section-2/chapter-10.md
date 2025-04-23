@@ -3,7 +3,7 @@ heading: Chapter 10
 title: "The Ban on Coin Exportation"
 # date: 2015-09-10
 weight: 24
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "This ban has been extremely hurtful to the country's commerce"
 writer:

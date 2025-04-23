@@ -3,7 +3,7 @@ title: "The Reverence for the Rules of Conduct [Karma]"
 heading: "Chapter 5b"
 description: "This reverence for the rules of conduct is still further enhanced by an opinion which is first impressed by nature."
 date: 2015-09-06
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

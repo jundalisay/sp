@@ -1,7 +1,7 @@
 ---
 title: "Modern Arabic Language"
 description: "Languages and (linguistic) habits are not matters of chance"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 45b"
 weight: 136

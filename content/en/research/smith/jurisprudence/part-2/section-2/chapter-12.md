@@ -6,7 +6,7 @@ weight: 28
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "The absurd notion that national opulence consists in money makes people think that local spending cannot reduce public opulence"
 ---

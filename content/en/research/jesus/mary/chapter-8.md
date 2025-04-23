@@ -3,7 +3,7 @@ heading: Chapter 8
 title: "The Seven Powers of Wrath" 
 description: "The seven powers of wrath on the soul"
 weight: 12
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

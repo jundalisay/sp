@@ -5,6 +5,6 @@ description: "Adam Smith explains The Military in the Simplified Lectures on Jur
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: /covers/lectures.jpg
+c: "darkgreen"
 weight: 8
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The 7 Valid Purposes of Writing a literary composition"
 description: "There are seven purposes for creating a literary work."
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 33"
 weight: 106

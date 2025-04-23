@@ -5,7 +5,7 @@ weight: 105
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "The properties of highly rarefied gases were investigated by Sir William Crookes"
 ---
 

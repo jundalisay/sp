@@ -2,12 +2,12 @@
 title: "Skepticism Regarding Our Senses"
 heading: Section 2
 description: "The Skeptical and Other Systems of Philosophy Simplified"
-image: /covers/treatise.png
+c: "darkblue"
 weight: 6
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

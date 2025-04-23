@@ -5,7 +5,7 @@ weight: 18
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "When nations came to have a lot of business one with another, it became necessary to send messengers between them. They were the first ambassadors"
 ---

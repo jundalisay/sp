@@ -4,8 +4,8 @@ heading: "Chapter 17"
 weight: 34
 contributors: ['Vyasa']
 description: ""
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

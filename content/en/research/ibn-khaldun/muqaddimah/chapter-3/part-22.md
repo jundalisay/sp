@@ -1,7 +1,7 @@
 ---
 title: "Exaggerated harshness is harmful to royal authority"
 description: "Those who gain power over the ruler do not share with him in the special title that goes with royal authority"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 20"
 weight: 40

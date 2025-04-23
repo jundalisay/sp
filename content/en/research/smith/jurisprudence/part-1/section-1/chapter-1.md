@@ -6,7 +6,7 @@ weight: 4
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "Governments are based on Utility and Authority. The social contract theory is a fallacy invented in Britain"
 ---

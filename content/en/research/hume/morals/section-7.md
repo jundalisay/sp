@@ -2,11 +2,11 @@
 title: "Qualities Immediately Agreeable To Ourselves"
 heading: "Section 7"
 description: "A sad group of people sometimes has a lively member who suddenly animates their conversation"
-image: /covers/morals.png
+c: "indigo"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 weight: 22
 ---
 

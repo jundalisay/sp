@@ -1,7 +1,7 @@
 ---
 title: The office of judge
 description: "This settles suits and breaks off disputes and dissensions, following the religious laws laid down by the Qur'an and the Sunnah"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 29b"
 weight: 66

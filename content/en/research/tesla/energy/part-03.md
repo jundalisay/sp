@@ -5,7 +5,7 @@ weight: 10
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-image:  "/covers/energy.jpg"
+c: "orangered"
 description: "This problem is by far the most important because of its intimate bearing on all the many  conditions which determine humanity's movement"
 ---
 

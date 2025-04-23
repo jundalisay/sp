@@ -2,12 +2,12 @@
 title: "Causes of Belief"
 heading: Section 8
 description: "Our Beliefs are Strengthened by Impressions"
-image: /covers/treatise.png
+c: "darkblue"
 weight: 16
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Austere vs Liberal Morals"
 heading: "Part 3y"
 weight: 70
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "In every civilized society which has the distinction of ranks, there were always two systems of morality"
 icon: "Adam Smith"
 writer:

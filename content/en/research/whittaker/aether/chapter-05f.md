@@ -5,7 +5,7 @@ weight: 42
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "The work of Green proved a stimulus not only to MacCullagh but to Cauchy, who now (1839) published yet a third theory of reflexion"
 ---
 

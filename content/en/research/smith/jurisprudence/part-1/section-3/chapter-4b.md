@@ -2,7 +2,7 @@
 heading: Chapter 4b
 title: "Entails as Testamentary Succession"
 # date: 2015-09-22
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "Entails engrossed land the most and therefore, it took the longest to be established"
 weight: 12

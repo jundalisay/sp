@@ -2,7 +2,7 @@
 title: "Excise Taxes"
 heading: "Chapter 2d-03, Article 4"
 weight: 44
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "High taxes frequently afford a smaller revenue to government than moderate taxes"
 icon: "Adam Smith"
 writer:

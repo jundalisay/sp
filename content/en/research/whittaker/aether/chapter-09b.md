@@ -5,7 +5,7 @@ weight: 84
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Larmor supposed the electric charge to exist in the form of discrete electrons, for the creation of which he suggested the following ideal process"
 ---
 

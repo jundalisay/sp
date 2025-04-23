@@ -1,7 +1,7 @@
 ---
 title: "The Science of Speculative theology"
 description: "This is a science that involves arguing with logical proofs in defense of the articles of faith and refuting innovators who deviate in their dogmas from the early Muslims and Muslim orthodoxy"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 14"
 weight: 34

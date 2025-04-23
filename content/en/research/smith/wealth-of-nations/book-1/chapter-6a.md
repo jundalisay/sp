@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 image: /covers/wn.jpg
 description: "In the rude state, price has one component--wages"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

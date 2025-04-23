@@ -2,7 +2,7 @@
 heading: "Chapter 8d"
 title: "The Select Society Dies Because of English"
 # date: 2015-09-30
-image: /covers/life.jpg
+c: "black"
 description: "The Select Society died after 10 years it started because of Charles Townshend’s sarcasm"
 weight: 20
 author: Rae

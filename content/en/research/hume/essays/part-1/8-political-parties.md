@@ -2,12 +2,12 @@
 title: "Political Parties"
 heading: "Essay 8"
 description: "The most honourable men are the LEGISLATORS and founders of states, who transmit system of laws to secure the peace, happiness, and liberty of future generations"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 16
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

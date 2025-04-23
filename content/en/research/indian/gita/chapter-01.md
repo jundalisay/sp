@@ -4,8 +4,8 @@ heading: "Chapter 1"
 weight: 2
 contributors: ['Vyasa']
 description: "We are here for battle on the sacred plain on Kurukshetra. Sanjaya, what happened between my people and the Pandavas?"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

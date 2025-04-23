@@ -5,7 +5,7 @@ weight: 70
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "James Clerk Maxwell, another young Cambridge man, was inspired to take up the matter a few years later"
 ---
 

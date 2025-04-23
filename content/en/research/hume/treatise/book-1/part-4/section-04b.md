@@ -2,12 +2,12 @@
 heading: "Section 4b"
 title: "Hume's Physics: Identity and Space for that Identity to Exist"
 weight: 12
-image: /covers/treatise.png
+c: "darkblue"
 description: "The material universe only has two principles: space and identity"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

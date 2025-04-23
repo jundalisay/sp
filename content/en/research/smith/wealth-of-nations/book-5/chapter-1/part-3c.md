@@ -2,9 +2,9 @@
 title: "State-Owned Public Works"
 heading: "Part 3c"
 weight: 26
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The following public works are always better maintained by a local or public revenue"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -1,7 +1,7 @@
 ---
 title: "A Qualification For Royal Authority Is The Eager Desire To Acquire Praiseworthy Qualities"
 description: "A sign of the qualification of an individual for royal authority is his eager desire to acquire praiseworthy qualities, and vice versa"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 19"
 weight: 26

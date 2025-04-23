@@ -5,7 +5,7 @@ weight: 107
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Röntgen announced his discovery of the X-rays, and described their power of exciting phosphorescence"
 ---
 

@@ -5,7 +5,7 @@ weight: 86
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Riemann in his 1861 lectures remarked that the scalar-potential `φ` and vector-potential `a`, corresponding to his own law of force between electrons"
 ---
 

@@ -5,7 +5,7 @@ weight: 102
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Faraday made some experiments on this in 1835"
 ---
 

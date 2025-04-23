@@ -5,7 +5,7 @@ weight: 28
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Euler published 'Nova Theoria Laucis et Colorum' [9] while  living under the patronage of Frederic the Great at Berlin"
 ---
 

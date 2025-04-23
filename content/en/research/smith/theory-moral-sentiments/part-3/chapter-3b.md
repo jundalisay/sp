@@ -3,7 +3,7 @@ title: "Direct and Indirect Misfortunes Simplified"
 heading: "Chapter 3b"
 description: "Misfortunes make our feelings extreme"
 date: 2015-09-16
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

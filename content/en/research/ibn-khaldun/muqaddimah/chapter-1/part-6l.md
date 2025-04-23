@@ -3,7 +3,7 @@ title: "Numerology (hisab an-nim)"
 weight: 44
 heading: "Part 6l"
 description: "Hisab an-nim aims to predict the victor and the vanquished when kings go to war with each other"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: /icons/ibn.jpg
 writer:
   name: Ibn Khaldun

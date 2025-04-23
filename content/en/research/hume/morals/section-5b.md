@@ -3,11 +3,11 @@ title: "Self-love"
 heading: "Section 5b"
 # Part 2
 description: "Self-love is a principle in human nature of such extensive energy"
-image: /covers/morals.png
+c: "indigo"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 weight: 14
 ---
 

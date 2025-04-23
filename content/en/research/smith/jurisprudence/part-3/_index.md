@@ -5,7 +5,7 @@ description: "Adam Smith explains Commerce and Taxation in the Simplified Lectur
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: /covers/lectures.jpg
+c: "darkgreen"
 weight: 6
 ---
 

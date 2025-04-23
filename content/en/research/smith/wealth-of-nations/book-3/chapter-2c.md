@@ -2,12 +2,12 @@
 heading: "Chapter 2c"
 title: "Services Given by Farmers"
 weight: 13
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Aside from paying the rent, the farmers were anciently bound to perform many services to the landlord"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

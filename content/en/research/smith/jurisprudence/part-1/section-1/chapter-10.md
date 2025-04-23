@@ -6,7 +6,7 @@ weight: 22
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "The great wealth of English kings relative to their feudal lords allowed them to become absolute"
 ---

@@ -3,7 +3,7 @@ heading: Section 2e Supplement 1
 title: "The Guarantee Of Perpetual Peace" 
 description: "Even if a people were not compelled through internal discord to be restrained by public laws, war would bring this about, working from outside"
 weight: 22
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

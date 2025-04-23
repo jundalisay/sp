@@ -4,7 +4,7 @@ title: "Definitions"
 description: "The Discipline of Pure Reason in the Sphere of Dogmatism"
 weight: 12
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

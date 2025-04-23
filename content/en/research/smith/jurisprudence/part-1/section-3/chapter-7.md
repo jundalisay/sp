@@ -5,7 +5,7 @@ title: "Pledges and Mortgages"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "Pledges and mortgages are certain securities for the payment of debts"
 weight: 18

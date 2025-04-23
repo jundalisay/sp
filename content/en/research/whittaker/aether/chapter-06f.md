@@ -5,7 +5,7 @@ weight: 60
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Sir John Herschel who discovered the connexion between quartz crystals and their property of rotating the polarization of light"
 ---
 

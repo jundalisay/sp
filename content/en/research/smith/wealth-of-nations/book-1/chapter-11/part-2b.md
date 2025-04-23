@@ -5,7 +5,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 10
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The value of Coal Mines is relative to the value of other fuel sources"
 icon: "Adam Smith"
 ---

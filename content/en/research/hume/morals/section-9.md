@@ -2,11 +2,11 @@
 title: "Conclusion"
 heading: "Section 9"
 description: "Personal Merit is the possession of mental qualities USEFUL or AGREEABLE to the PERSON HIMSELF or to OTHERS"
-image: /covers/morals.png
+c: "indigo"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 weight: 26
 ---
 

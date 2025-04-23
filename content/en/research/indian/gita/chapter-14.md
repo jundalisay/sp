@@ -4,8 +4,8 @@ heading: "Chapter 15 "
 weight: 28
 contributors: ['Vyasa']
 description: "Yet farther will I open unto thee"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

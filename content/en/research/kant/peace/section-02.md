@@ -3,7 +3,7 @@ heading: Section 2
 title: "The Definitive Articles Of A Perpetual Peace" 
 description: "A state of peace among men who live side by side is not the natural state, which is rather to be described as a state of war"
 weight: 8
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

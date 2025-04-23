@@ -2,7 +2,7 @@
 title: "The Sinking Fund and Annuities"
 heading: "Chapter 3c"
 weight: 10
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "During the reigns of King William and Queen Anne, large sums were frequently borrowed on annuities for terms of years which varied"
 icon: "Adam Smith"
 writer:

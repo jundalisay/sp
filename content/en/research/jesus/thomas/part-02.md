@@ -3,7 +3,7 @@ heading: Part 2
 title: "Who is Jesus?" 
 description: ""
 weight: 8
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

@@ -6,7 +6,7 @@ weight: 16
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "Whenever commerce is introduced into any country, probity and punctuality always accompany it"
 ---

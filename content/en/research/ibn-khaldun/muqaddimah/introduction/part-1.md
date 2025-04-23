@@ -1,7 +1,7 @@
 ---
 title: "History"
 description: "History is a discipline that is very useful and has many different approaches"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 1"
 weight: 4

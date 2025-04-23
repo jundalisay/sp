@@ -5,7 +5,7 @@ weight: 48
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Elliptic polarization is obtained when plane-polarized light is totally reflected at the surface of a transparent body."
 ---
 

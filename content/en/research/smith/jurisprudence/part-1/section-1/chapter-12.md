@@ -6,7 +6,7 @@ weight: 26
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "English courts were created based on the speed of resolution and then the nature of the cases"
 ---

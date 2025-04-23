@@ -1,7 +1,7 @@
 ---
 title: "Why Alchemy is Wrong"
 description: "The (alchemists) take a substance possessing primary preparedness. They use it as the basis."
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 32b"
 weight: 104

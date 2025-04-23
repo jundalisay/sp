@@ -2,7 +2,7 @@
 title: "The Mind Control Course And The Organization Behind It"
 heading: "APPENDIX 1"
 weight: 200
-image: "/covers/silva.jpg"
+c: "darkblue"
 description : "The Mind Control movement is so widespread and fast-growing. "
 contributors: ['Silva']
 ---
@@ -14,26 +14,15 @@ ing with it. Because  -->
 
 The Mind Control movement is so widespread and fast-growing. 
 
-, it is obviously not possible to tell you every-
-thing that every graduate has gained from this training.
-
-If you know any Mind Control graduates, you have probably heard a variety of reports on the benefits they are enjoying. Some use it for health, some to help them study,
+<!-- If you know any Mind Control graduates, you have probably heard a variety of reports on the benefits they are enjoying. Some use it for health, some to help them study,
 others in their business lives and family relationships, and
 many, who say little about it, use it to help others.
 
-Given this variety of reports, you may wonder whether the course differs from one lecturer to another. No, it is the same throughout the world. As different as the lecturers may be—as different, for example, as you would expect a minister to be from a former stockbroker—and despite the vast freedom they are allowed in presenting the course, the mental training and exercises, and the results, remain identical.
+Given this variety of reports, you may wonder whether the course differs from one lecturer to another. No, it is the same throughout the world. As different as the lecturers may be—as different, for example, as you would expect a minister to be from a former stockbroker—and despite the vast freedom they are allowed in presenting the course, the mental training and exercises, and the results, remain identical. -->
 
-What does differ is the personal needs of those who take
-the course. Not everyone has the same problems, the same
-needs. Each person, as time passes after he graduates, tends
-to focus on those parts of the training that confront most
-directly the problems he wants most to solve.
+What does differ is the personal needs of those who take the course. Not everyone has the same problems, the same needs. Each person, as time passes after he graduates, tends to focus on those parts of the training that confront most directly the problems he wants most to solve.
 
-
-Later, as other problems arise, long-neglected parts of the course are put to work. The techniques, never forgotten, are easily recalled when they are needed. You will
-find this true when you have reread and put into practice
-the exercises in Chapters 3 through 14, and then later re-
-view them.
+Later, as other problems arise, long-neglected parts of the course are put to work. The techniques, never forgotten, are easily recalled when they are needed. You will find this true when you have reread and put into practice the exercises in Chapters 3 through 14, and then later re- view them.
 
 Nevertheless, you may be tempted to say, "WelL my problem is such and such, so I'll just concentrate on that." 
 

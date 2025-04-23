@@ -1,7 +1,7 @@
 ---
 title: "The ambiguity in the Qur'an and the Sunnah and the resulting dogmatic schools"
 description: "An exposition of ambiguity in the Qur'an and the Sunnah and of the resulting dogmatic schools among both the orthodox and the innovators"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 15"
 weight: 42

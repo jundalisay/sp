@@ -1,7 +1,7 @@
 ---
 title: "The Ancient Sufi Interpretation"
 description: "The ancient Sufis did not go into anything concerned with (the Mahdi)"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 51g"
 weight: 148

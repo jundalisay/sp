@@ -2,7 +2,7 @@
 title: "Gravity and Mass"
 heading: Part 11
 description: "Newton and the Shape of the Planets as Oblate Spheroids"
-image: /covers/astronomy.jpg
+c: "orangered"
 weight: 24
 writer:
   name: Adam Smith

@@ -1,7 +1,7 @@
 ---
 title: "From Barbarity to Civilization"
 description: "The transition of dynasties from desert life to sedentary culture"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 13"
 weight: 28

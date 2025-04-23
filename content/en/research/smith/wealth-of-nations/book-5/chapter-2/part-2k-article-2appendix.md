@@ -2,7 +2,7 @@
 title: "Taxes by Stamp-Duties"
 heading: "Chapter 2b-11 Article 2"
 weight: 30
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Taxation by stamp-duties and registration duties are a very modern invention"
 icon: "Adam Smith"
 writer:

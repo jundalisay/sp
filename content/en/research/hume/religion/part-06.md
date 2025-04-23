@@ -2,12 +2,12 @@
 title: "Demea"
 heading: "Part 6"
 description: "The ancient philosophers conveyed most of their instruction in the form of dialogue. But dialogues have been little practised in later ages and have seldom succeeded when attempted"
-image: /covers/religion.jpg
+c: "indigo"
 weight: 26
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

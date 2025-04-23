@@ -2,7 +2,7 @@
 heading: "Chapter 8e"
 title: "The Effects of the Woolen Policy of Britain"
 weight: 100
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The violence of these regulations did not affect the quantity or quality of the annual wool produce as expected"
 writer:
   name: Adam Smith

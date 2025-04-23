@@ -6,8 +6,8 @@ weight: 20
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/tms.jpg"
-icon: /avatars/smith.png
+c: "indigo"
+icon: "Adam Smith"
 ---
 
 

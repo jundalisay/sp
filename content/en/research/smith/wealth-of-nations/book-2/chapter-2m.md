@@ -5,7 +5,7 @@ weight: 34
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Money Supply has two great divisions as wholesale and retail"
 icon: "Adam Smith"
 ---

@@ -5,7 +5,7 @@ weight: 92
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "FitzGerald's system became the magnetic oscillator"
 ---
 

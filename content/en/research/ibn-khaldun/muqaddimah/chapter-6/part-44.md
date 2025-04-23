@@ -1,7 +1,7 @@
 ---
 title: "The Sciences Concerned with the Arabic language"
 description: "Arabic language has 4 pillars: lexicography, grammar, syntax and style (bayan), literature"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 44"
 weight: 126

@@ -2,12 +2,12 @@
 heading: "Chapter 3c"
 title: "The Development of European Manufacturing"
 weight: 18
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The manufactures fit for export were introduced in 2 ways"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

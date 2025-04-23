@@ -2,12 +2,12 @@
 title: "The Populousness Of Ancient Nations"
 heading: "Essay 11f Part 2"
 description: "The Ancients were populous"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 34
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

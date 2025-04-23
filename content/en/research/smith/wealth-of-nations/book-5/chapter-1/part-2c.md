@@ -2,7 +2,7 @@
 title: "Justice Fees from Gifts to Gratis"
 heading: "Part 2c"
 weight: 18
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The necessity of civil government gradually grows up with the acquisition of valuable property"
 icon: "Adam Smith"
 writer:

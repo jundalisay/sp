@@ -2,7 +2,7 @@
 title: "The Problems with Aristotle and the Stoics"
 heading: "Chapter 3"
 # date: 2020-01-31
-image: "/covers/philo.jpg"
+c: "deeppink"
 description: "Adam Smith explains the errors of Aristotle"
 icon: "Adam Smith"
 writer:

@@ -4,7 +4,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 100
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: ""
 icon: "Adam Smith"
 draft: true

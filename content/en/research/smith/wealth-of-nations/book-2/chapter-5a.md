@@ -3,12 +3,12 @@ heading: "Chapter 5a"
 title: "The Four Employment of capitals"
 linkTitle: "Chapter 5a"
 weight: 54
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The destiny of all capitals is to maintain productive labour"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

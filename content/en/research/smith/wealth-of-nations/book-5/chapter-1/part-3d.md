@@ -2,9 +2,9 @@
 title: "Mercantile Corporations as Commercial Institutions"
 heading: "Part 3d"
 weight: 28
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Particular institutions are necessary to facilitate particular branches of commerce"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -5,7 +5,7 @@ weight: 18
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The difficulty of weighing metals led to coinage"
 icon: "Adam Smith"
 ---

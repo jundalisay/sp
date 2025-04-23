@@ -2,9 +2,9 @@
 title: "The Expense of supporting the Sovereign's Dignity"
 heading: "Part 4"
 weight: 82
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The sovereign also needs a certain expence to support his dignity"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

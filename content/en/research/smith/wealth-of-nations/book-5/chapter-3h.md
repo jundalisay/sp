@@ -2,7 +2,7 @@
 title: "Adam Smith's World Government"
 heading: "Chapter 3h"
 weight: 20
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The revenue might be very much increased without increasing the burden on the people"
 icon: "Adam Smith"
 writer:

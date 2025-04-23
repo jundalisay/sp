@@ -2,7 +2,7 @@
 heading: "Chapter 8b"
 title: "The Select Society"
 # date: 2015-09-30
-image: /covers/life.jpg
+c: "black"
 description: "The Select Society imitated the academies which were then common in the larger French towns"
 weight: 18
 author: Rae

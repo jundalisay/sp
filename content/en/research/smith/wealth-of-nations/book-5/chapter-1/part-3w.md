@@ -2,9 +2,9 @@
 title: "Article 3-Moral Education for People of all Ages"
 heading: "Part 3w"
 weight: 66
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The educational institutions for people of all ages are chiefly those for religious instruction."
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -5,7 +5,7 @@ weight: 72
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Thomson had compared electric force to the displacement in an elastic solid"
 ---
 

@@ -6,7 +6,7 @@ weight: 14
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "The arts and commerce of Rome improved under their imperial government. The people become acquainted with arts, commerce and consequently, domestic luxury"
 ---

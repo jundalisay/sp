@@ -5,7 +5,7 @@ weight: 88
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "FitzGerald's spirality is essentially similar to the laminar motion investigated by Lord Kelvin, since it involves a flow in the direction of the axis of the spiral"
 ---
 

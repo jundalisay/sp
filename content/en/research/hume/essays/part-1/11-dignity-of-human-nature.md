@@ -2,12 +2,12 @@
 title: "Dignity and Meanness Of Human Nature"
 heading: "Essay 11"
 description: "Are Humans Inherently Good or Bad?"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 22
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

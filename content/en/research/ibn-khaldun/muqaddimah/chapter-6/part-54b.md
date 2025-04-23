@@ -1,7 +1,7 @@
 ---
 title: "What is Poetry?"
 description: "The poet should have the rhyme in mind, when the verse is first given shape and form"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 54b"
 weight: 150

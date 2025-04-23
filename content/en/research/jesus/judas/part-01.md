@@ -3,7 +3,7 @@ heading: Part 1
 title: "The Secret Sayings of Jesus" 
 description: "These are the secret sayings which the living Jesus spoke and which Didymos Judas Thomas wrote down."
 weight: 4
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

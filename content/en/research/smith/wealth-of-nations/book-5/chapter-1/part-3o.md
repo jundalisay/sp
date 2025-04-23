@@ -2,9 +2,9 @@
 title: "Intellectual Property and Corporation Rules"
 heading: "Part 3o"
 weight: 50
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Intellectual Property and Corporation Rules"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

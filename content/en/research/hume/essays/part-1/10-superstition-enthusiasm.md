@@ -2,12 +2,12 @@
 title: "Superstition and Enthusiasm"
 heading: "Essay 10"
 description: "Three reasons against superstition"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 20
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

@@ -3,7 +3,7 @@ heading: Chapter 18
 title: "Who is the greatest in the kingdom of heaven?" 
 description: "After 6 days, Jesus took Peter, James, and John his brother, and brought them up into an high mountain"
 weight: 99
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

@@ -5,8 +5,8 @@ weight: 14
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/formation.jpg"
+icon: "Adam Smith"
+c: "deeppink"
 description: "The French language is compounded of the Latin and the ancient Franks language. Italian is compounded of Latin and the ancient Lombards language"
 ---
 

@@ -4,8 +4,8 @@ heading: "Chapter 9 "
 weight: 18
 contributors: ['Vyasa']
 description: "Such light as purges the soul from every sin; a light of holiness With inmost splendour shining; plain to see"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

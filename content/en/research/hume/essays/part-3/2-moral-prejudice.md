@@ -2,9 +2,9 @@
 title: "Moral Prejudice"
 heading: "Essay 2"
 description: "The Story of the Woman who wanted to be a single mon"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 6
-icon: /avatars/hume.png
+icon: "David Hume"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

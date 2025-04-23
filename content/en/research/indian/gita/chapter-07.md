@@ -4,8 +4,8 @@ heading: "Chapter 7"
 weight: 14
 contributors: ['Vyasa']
 description: "I will teach you that utmost lore, Whole and particular so that you will know everything that you need to know in this world"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

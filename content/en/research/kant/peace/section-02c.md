@@ -3,7 +3,7 @@ heading: Section 2c
 title: "Third Definitive Article" 
 description: "Vortex Atoms"
 weight: 18
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

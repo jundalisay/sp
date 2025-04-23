@@ -4,7 +4,7 @@ title: Time
 description: "The Application of the Categories Sensory Objects"
 weight: 8
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

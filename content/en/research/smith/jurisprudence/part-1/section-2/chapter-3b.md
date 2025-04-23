@@ -6,7 +6,7 @@ weight: 16
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "By being captives, criminals, indebted, selling oneself, and being children of slaves"
 ---

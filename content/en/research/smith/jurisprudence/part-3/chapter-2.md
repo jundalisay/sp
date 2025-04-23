@@ -6,7 +6,7 @@ weight: 8
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "Taxes on possessions are naturally equal. But taxes on consumptions are naturally unequal"
 ---

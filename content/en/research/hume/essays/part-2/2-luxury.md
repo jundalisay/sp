@@ -7,8 +7,8 @@ weight: 6
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
-image: /covers/essays.jpg
+icon: "David Hume"
+c: "darkblue"
 ---
 
 

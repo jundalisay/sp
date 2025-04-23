@@ -5,8 +5,8 @@ weight: 16
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/formation.jpg"
+icon: "Adam Smith"
+c: "deeppink"
 description: "Language becomes simpler in its principles, just as it grows more complex in its composition"
 ---
 

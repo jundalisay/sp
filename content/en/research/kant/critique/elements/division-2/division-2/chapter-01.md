@@ -4,7 +4,7 @@ title: The Paralogisms of Pure Reason
 description: "The Application of the Categories Sensory Objects"
 weight: 58
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

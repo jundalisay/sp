@@ -2,7 +2,7 @@
 title: "A Ruler doing Commercial Activity is Ruinous to the Tax Revenue"
 # harmful to his subjects and
 description: "A dynasty may find itself in financial straits from its luxury and expenditures"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 38"
 weight: 111

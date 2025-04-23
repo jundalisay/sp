@@ -2,7 +2,7 @@
 title: "The Principles of Philosophical Enquiries"
 heading: "Chapter 1"
 # date: 2020-01-31
-image: "/covers/philo.jpg"
+c: "deeppink"
 description: "Smith explains the different philosophies"
 icon: "Adam Smith"
 writer:

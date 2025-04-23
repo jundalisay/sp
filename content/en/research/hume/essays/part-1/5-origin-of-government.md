@@ -2,12 +2,12 @@
 title: "Origin of Governments: Obedience, Justice, Liberty"
 heading: "Essay 5"
 description: "Perfect liberty is the separation of powers under an authority, with the laws known to all"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 10
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

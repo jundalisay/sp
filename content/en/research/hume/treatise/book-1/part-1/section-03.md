@@ -2,12 +2,12 @@
 heading: "Section 3"
 title: "The Ideas of the Memory and Imagination"
 weight: 8
-image: /covers/treatise.png
+c: "darkblue"
 description: "Generally, simple ideas and impressions are exactly correspondent, as the complex are formed from them"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

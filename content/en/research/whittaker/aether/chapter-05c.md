@@ -5,7 +5,7 @@ weight: 38
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "A further objection to Cauchy's theories is that the relations between the constants do not have a simple physical interpretation"
 ---
 

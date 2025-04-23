@@ -1,7 +1,7 @@
 ---
 title: "A Savage Nation has a wider royal authority"
 description: "A sign of the qualification of an individual for royal authority is his eager desire to acquire praiseworthy qualities, and vice versa"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 20"
 weight: 28

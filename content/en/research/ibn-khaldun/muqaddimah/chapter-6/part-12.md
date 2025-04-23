@@ -1,7 +1,7 @@
 ---
 title: "Islamic Jurisprudence and its subdivision, inheritance laws"
 description: "Jurisprudence is the knowledge of the classification of the laws of God, which concern the actions of all responsible Muslims, as obligatory, forbidden, recommendable, disliked, or permissible"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 12"
 weight: 24

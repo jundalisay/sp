@@ -5,8 +5,8 @@ weight: 6
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/tms.jpg"
+icon: "Adam Smith"
+c: "indigo"
 description: "Moral systems based on feelings can be divided into 2 classes"
 ---
 

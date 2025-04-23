@@ -1,6 +1,6 @@
 ---
 title: "The Life of Adam Smith Simplified"
-image: /covers/life.jpg
+c: "black"
 description: "In order to easily navigate the Life of Adam Smith by Rae, we've simplified it according to bullet-style writing"
 author: Rae
 weight: 10

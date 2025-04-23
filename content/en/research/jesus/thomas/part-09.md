@@ -3,7 +3,7 @@ heading: Part 9
 title: "Serving Two Masters" 
 description: "it is impossible for a servant to serve two masters"
 weight: 20
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

@@ -6,7 +6,7 @@ weight: 12
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "What is the history of parentage? It is the second relation in which we were to consider man as a member of a family"
 ---

@@ -4,7 +4,7 @@ title: The Application of the Categories Sensory Objects
 description: "The Application of the Categories Sensory Objects"
 weight: 56
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

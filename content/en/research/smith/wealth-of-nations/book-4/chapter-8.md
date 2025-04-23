@@ -3,7 +3,7 @@ heading: "Chapter 8"
 title: "Conclusion on Mercantilism"
 linkTitle: "Chapter 8"
 weight: 98
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The mercantile system proposes to enrich every country through two great engines"
 writer:
   name: Adam Smith

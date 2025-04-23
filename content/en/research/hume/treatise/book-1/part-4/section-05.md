@@ -2,12 +2,12 @@
 heading: "Section 5"
 title: "Spinoza's Philosophy -- The Soul's Immateriality"
 weight: 26
-image: /covers/treatise.png
+c: "darkblue"
 description: "Every philosophical system has contradictions regarding external physical objects and the ideas of those objects"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

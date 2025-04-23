@@ -6,7 +6,7 @@ weight: 6
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "Each person is a member of a family which is made up of 3 kinds of relations"
 ---

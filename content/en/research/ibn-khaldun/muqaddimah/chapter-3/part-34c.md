@@ -1,7 +1,7 @@
 ---
 title: "The meaning and value of the legal dirham and dinar"
 description: "This is concerned with the stamping of the dinars and dirhams used in commercial transactions"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 34c"
 weight: 98

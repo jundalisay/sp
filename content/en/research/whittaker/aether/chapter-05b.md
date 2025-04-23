@@ -6,7 +6,7 @@ weight: 36
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "The aether behaves as an elastic solid"
 ---
 

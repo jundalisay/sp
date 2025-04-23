@@ -5,8 +5,8 @@ weight: 2
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/tms.jpg"
+icon: "Adam Smith"
+c: "indigo"
 description: "According to Hobbes, man takes refuge in society not by any natural love for humans, but because he cannnot live easily without the aid of others"
 ---
 

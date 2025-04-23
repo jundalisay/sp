@@ -5,7 +5,7 @@ weight: 22
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "The constitution of the banks in Britain differs widely from that in Amsterdam."
 ---

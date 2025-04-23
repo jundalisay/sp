@@ -5,7 +5,7 @@ weight: 27
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "In 1728, James Bradley sent to the Astronomer Royal (Halley) an 'Account of a new discovered motion of the Fixd Stars'"
 ---
 

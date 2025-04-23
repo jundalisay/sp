@@ -1,7 +1,7 @@
 ---
 title: "The science of inheritance laws"
 description: "The science of inheritance laws is the knowledge of estate division and the correct determination of the proper shares in an estate with regard to the relation of the individual shares to the basic divisions"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 12b"
 weight: 28

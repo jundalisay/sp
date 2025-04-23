@@ -1,7 +1,7 @@
 ---
 title: "City-planning and the Neglecting of It"
 description: "Towns are dwelling places that nations use when they have reached the desired goal of luxury and of the things that go with it"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 5"
 weight: 14

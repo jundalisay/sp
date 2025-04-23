@@ -2,8 +2,8 @@
 title: "Qualities Immediately Agreeable To Others"
 heading: "Section 8"
 description: "The mutual shocks in SOCIETY and the oppositions of interest and ego have constrained mankind to establish the laws of JUSTICE"
-image: /covers/morals.png
-icon: /avatars/hume.png
+c: "indigo"
+icon: "David Hume"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

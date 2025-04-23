@@ -2,12 +2,12 @@
 title: "Essay Writing"
 heading: "Essay 1"
 description: "The elegant people who are not immersed in the animal Life, employ themselves in the Operations of the Mind"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 4
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

@@ -2,12 +2,12 @@
 title: "Scientific Discoveries"
 heading: "Part 5"
 description: "All the new discoveries in astronomy are so many additional arguments for a Deity"
-image: /covers/religion.jpg
+c: "indigo"
 weight: 22
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

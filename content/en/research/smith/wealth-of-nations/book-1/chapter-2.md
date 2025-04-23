@@ -5,7 +5,7 @@ weight: 12
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour"
 icon: "Adam Smith"
 ---

@@ -2,12 +2,12 @@
 title: "Skepticism Regarding Our Reason"
 heading: Section 1
 description: "The Skeptical and Other Systems of Philosophy Simplified"
-image: /covers/treatise.png
+c: "darkblue"
 weight: 2
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

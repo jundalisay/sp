@@ -2,12 +2,12 @@
 heading: "Chapter 4b"
 title: "The Origin of Feudalism: Property Rights"
 weight: 22
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Feudalism came from the strength of the king over the feudal lords"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

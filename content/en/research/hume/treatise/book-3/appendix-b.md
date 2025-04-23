@@ -2,13 +2,13 @@
 heading: Appendix B
 title: "Clarifications On The Self"
 description: ""
-image: /covers/treatise.png
+c: "darkblue"
 # date: 2015-x-x
 weight: 16
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

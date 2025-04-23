@@ -4,8 +4,8 @@ heading: "Chapter 10 "
 weight: 20
 contributors: ['Vyasa']
 description: "I say these words to bring you bliss and peace, who lovest Me always"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 Krishna.[FN#l6]

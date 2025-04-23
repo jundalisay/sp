@@ -1,7 +1,7 @@
 ---
 title: "The Craft of poetry and the way of learning it"
 description: "This discipline is one of the disciplines connected with Arab speech."
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 54"
 weight: 148

@@ -5,7 +5,7 @@ weight: 2
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-image:  "/covers/energy.jpg"
+c: "orangered"
 description: "The 3 ways to increase human energy are to increase the mass, reduce the retarding force, increase the impelling force"
 ---
 

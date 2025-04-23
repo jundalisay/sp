@@ -2,7 +2,7 @@
 title: "Urban and Rural Trade"
 heading: "Chapter 9f"
 weight: 114
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The greatest and most important commerce of every nation is the commerce between the town and the countryside"
 icon: "Adam Smith"
 writer:

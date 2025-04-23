@@ -5,7 +5,7 @@ weight: 26
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "The weakness of Ampère's work is its assumption that the force is directed along the line joining the 2 elements."
 ---
 

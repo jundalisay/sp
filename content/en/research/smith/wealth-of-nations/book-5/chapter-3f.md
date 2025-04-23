@@ -2,7 +2,7 @@
 title: "The Bad Effects of Funding"
 heading: "Chapter 3f"
 weight: 16
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The practice of perpetual funding has gradually enfeebled every state which has adopted it. The Italian republics started it"
 icon: "Adam Smith"
 writer:

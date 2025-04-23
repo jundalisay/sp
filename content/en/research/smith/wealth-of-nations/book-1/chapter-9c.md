@@ -5,7 +5,7 @@ weight: 52
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "A country at maximum population would have so much competition for employment. Wages would be reduced to bare sufficiency, preventing the population from increasing."
 icon: "Adam Smith"
 ---

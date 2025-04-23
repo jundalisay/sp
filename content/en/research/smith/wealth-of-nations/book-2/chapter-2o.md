@@ -2,7 +2,7 @@
 title: "Promissory Notes"
 heading: "Chapter 2o"
 weight: 38
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Paper money in promissory notes would fall below the value of gold and silver"
 icon: "Adam Smith"
 ---

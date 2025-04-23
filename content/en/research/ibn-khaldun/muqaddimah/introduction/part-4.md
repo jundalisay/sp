@@ -1,7 +1,7 @@
 ---
 title: "Historical Errors"
 description: "An example of historical error is the baseless conclusion readers make when they hear about the position of the leaders in war"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 4"
 weight: 20

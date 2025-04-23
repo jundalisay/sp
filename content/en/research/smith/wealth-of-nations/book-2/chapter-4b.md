@@ -3,12 +3,12 @@ heading: "Chapter 4b"
 title: "Interest Rates"
 linkTitle: "Chapter 4b"
 weight: 52
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Should interest rates be regulated?"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

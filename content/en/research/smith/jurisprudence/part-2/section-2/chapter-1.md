@@ -6,7 +6,7 @@ weight: 6
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "Cheapness or plenty is the most proper way of procuring wealth and abundance"
 ---

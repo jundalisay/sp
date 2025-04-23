@@ -2,12 +2,12 @@
 title: "British Political Parties"
 heading: "Essay 9"
 description: "British Political Parties"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 18
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

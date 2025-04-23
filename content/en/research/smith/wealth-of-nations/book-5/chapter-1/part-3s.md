@@ -2,9 +2,9 @@
 title: "The Sciences"
 heading: "Part 3s"
 weight: 57
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The ancient Greek philosophy was divided into 3 great branches"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

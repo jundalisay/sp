@@ -4,8 +4,8 @@ heading: "Chapter 11 "
 weight: 22
 contributors: ['Vyasa']
 description: "The unfolding of the Mystery Supreme called Adhyatman"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

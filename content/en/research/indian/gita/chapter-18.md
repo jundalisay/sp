@@ -4,8 +4,8 @@ heading: "Chapter 18 "
 weight: 36
 contributors: ['Vyasa']
 description: "The very truth is abstention or Sannyas, and renunciation or Tyaga. What is the difference between the two?"
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

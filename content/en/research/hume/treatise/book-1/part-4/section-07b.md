@@ -2,12 +2,12 @@
 heading: "Section 7b"
 title: "The flights of the imagination"
 weight: 42
-image: /covers/treatise.png
+c: "darkblue"
 description: "The flights of the imagination are most dangerous to reason"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

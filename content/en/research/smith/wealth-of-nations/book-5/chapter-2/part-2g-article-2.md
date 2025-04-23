@@ -2,7 +2,7 @@
 title: "Taxes on Profit"
 heading: "Chapter 2b-07 Article 2"
 weight: 22
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Profits on stock naturally divides itself into two"
 icon: "Adam Smith"
 writer:

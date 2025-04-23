@@ -6,7 +6,7 @@ weight: 18
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "The feudal system arose from the king's strength and collapsed when the lords leased out their lands longer and the kings gave freedom to the cities against the lords"
 ---

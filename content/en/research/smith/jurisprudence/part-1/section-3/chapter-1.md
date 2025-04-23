@@ -5,7 +5,7 @@ title: "First way of acquiring Property: Occupation"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "The first way of acquiring Property is Occupation"
 weight: 4

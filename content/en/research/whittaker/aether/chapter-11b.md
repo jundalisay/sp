@@ -5,7 +5,7 @@ weight: 104
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "In 1887 a young Swedish physicist, Svante Arrhenius, advanced the theory of solutions"
 ---
 

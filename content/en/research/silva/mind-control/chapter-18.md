@@ -2,7 +2,7 @@
 title: "Your Self-esteem Will Soar"
 heading: "Chapter 18"
 weight: 36
-image: "/covers/silva.jpg"
+c: "darkblue"
 description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
 contributors: ['Silva']
 ---

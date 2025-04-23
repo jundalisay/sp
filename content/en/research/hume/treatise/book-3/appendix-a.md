@@ -2,13 +2,13 @@
 heading: Appendix A
 title: "Belief Is A Feeling"
 description: ""
-image: /covers/treatise.png
+c: "darkblue"
 # date: 2015-x-x
 weight: 6
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

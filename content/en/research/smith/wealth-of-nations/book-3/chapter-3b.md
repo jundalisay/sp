@@ -2,12 +2,12 @@
 heading: "Chapter 3b"
 title: "From Free Cities to Independent Republics"
 weight: 16
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "This is how the republic of Berne and other Swiss cities came to be. Except for Venice, this is also how all the considerable Italian republics were formed"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

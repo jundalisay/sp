@@ -2,9 +2,9 @@
 title: "Private Copartneries vs Joint Stock Companies"
 heading: "Part 3i"
 weight: 38
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "Joint stock companies, established by royal charter or by act of parliament, differ from regulated companies and private copartneries"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

@@ -1,7 +1,7 @@
 ---
 title: "The Wazir"
 description: "The wazirate is the mother of governmental functions and royal ranks"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 32c"
 weight: 80

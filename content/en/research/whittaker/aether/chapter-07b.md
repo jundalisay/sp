@@ -5,7 +5,7 @@ weight: 63
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "The necessity for induced currents may be inferred by general reasoning from the first principles of Weber's theory"
 ---
 

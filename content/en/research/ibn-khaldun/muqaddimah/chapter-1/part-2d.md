@@ -1,7 +1,7 @@
 ---
 title: "The Seven Zones"
 description: "The ancient philosophers divided the cultivated part of the earth in the north into 7 zones by east-west lines"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 2c"
 weight: 8

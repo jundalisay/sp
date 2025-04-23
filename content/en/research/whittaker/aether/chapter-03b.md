@@ -5,7 +5,7 @@ weight: 22
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "This renewal of interest was due to the discovery by Volta, in the early spring of 1800, of a means of greatly increasing the intensity of the effects"
 ---
 

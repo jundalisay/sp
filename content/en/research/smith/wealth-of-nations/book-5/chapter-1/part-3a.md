@@ -2,7 +2,7 @@
 title: "Public Works and Institutions"
 heading: "Part 3a"
 weight: 22
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The sovereign's third and last duty is building and maintaining advantageous public works and institutions for society"
 icon: "Adam Smith"
 writer:

@@ -2,12 +2,12 @@
 heading: Section 7n
 title: "Space And Time"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
-image: /covers/treatise.png
+c: "darkblue"
 weight: 4
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 <!-- Without having recourse to metaphysics, anyone may easily observe that  -->

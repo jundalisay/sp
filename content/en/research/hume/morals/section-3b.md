@@ -2,11 +2,11 @@
 title: "The Golden Age Versus the State of Nature"
 heading: "Section 3 "
 description: "This POETICAL fiction of the GOLDEN AGE is similar to the PHILOSOPHICAL fiction of the STATE OF NATURE"
-image: /covers/morals.png
+c: "indigo"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 weight: 12
 ---
 

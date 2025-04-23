@@ -2,12 +2,12 @@
 title: "The General Principles Of Morals"
 heading: "Section 1"
 description: Dr. Tillotson argues against the real presence of miracles. His argument is the most concise, elegant, and strong against miracles
-image: /covers/morals.png
+c: "indigo"
 weight: 4
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

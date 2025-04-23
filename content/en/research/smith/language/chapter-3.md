@@ -5,8 +5,8 @@ weight: 12
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
-image: "/covers/formation.jpg"
+icon: "Adam Smith"
+c: "deeppink"
 description: "Verbs must necessarily have been coëval with the very first attempts towards the formation of language"
 ---
 

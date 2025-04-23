@@ -1,7 +1,7 @@
 ---
 title: "Sand Writing as Geomancy"
 description: "In order to discover the supernatural and know the future, some of the common people invented a craft called sand writing"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 6k"
 weight: 44

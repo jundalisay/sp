@@ -2,7 +2,7 @@
 title: "The Flat Earth; Increase of Spheres; Eccentric Spheres "
 heading: Part 2
 description: "Before this system was taught in the world, the earth was regarded as a vast and irregular plain, surrounded on allsides by the ocean"
-image: /covers/astronomy.jpg
+c: "orangered"
 weight: 6
 writer:
   name: Adam Smith

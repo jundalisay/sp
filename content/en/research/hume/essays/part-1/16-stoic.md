@@ -2,12 +2,12 @@
 title: "The Stoic"
 heading: "Essay 16"
 description: "The Stoic"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 34
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 <!-- There is this obvious and material difference in the conduct of nature, with regard to man and other animals -->

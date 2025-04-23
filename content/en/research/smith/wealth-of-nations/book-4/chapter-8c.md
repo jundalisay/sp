@@ -2,7 +2,7 @@
 heading: "Chapter 8c"
 title: "Export Bans"
 weight: 100
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The exportation of raw materials is sometimes discouraged by absolute prohibitions and sometimes by high duties"
 writer:
   name: Adam Smith

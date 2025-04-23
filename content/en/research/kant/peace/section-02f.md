@@ -4,7 +4,7 @@ title: "A Secret Article For Perpetual Peace"
 description: "Human reason, in one sphere of its cognition, is called upon to consider questions"
 weight: 28
 author: Kant
-image: "/covers/kant.jpg"
+image: "Kant"
 ---
 
 

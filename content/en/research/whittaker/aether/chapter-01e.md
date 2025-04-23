@@ -5,7 +5,7 @@ weight: 7
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "Hooke believed that light consists in vibrations of an aether."
 ---
 

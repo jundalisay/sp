@@ -2,12 +2,12 @@
 title: "The Original Contract"
 heading: "Essay 12 Part 2"
 description: "Hume disputes the social contract"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 40
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 ---
 
 

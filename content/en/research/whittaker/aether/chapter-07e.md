@@ -5,7 +5,7 @@ weight: 66
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "The correct theory of the energy of magnetic and electromagnetic fields is due mainly to Lord Kelvin"
 ---
 

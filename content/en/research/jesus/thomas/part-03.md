@@ -3,7 +3,7 @@ heading: Part 3
 title: "Children" 
 description: ""
 weight: 10
-image: "/covers/jesus.jpg"
+c: "indigo"
 ---
 
 

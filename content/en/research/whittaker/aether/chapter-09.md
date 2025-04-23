@@ -5,7 +5,7 @@ weight: 82
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-image:  "/covers/history.jpg"
+c: "orangered"
 description: "The early attempts of Thomson and Maxwell to represent the electric medium by mechanical models opened up a new field of research"
 ---
 

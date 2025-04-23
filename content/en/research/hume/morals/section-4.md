@@ -2,11 +2,11 @@
 title: "Political Society"
 heading: "Section 4"
 description: "There would be no need for governments if everyone could observe justice and had the strength of mind to resist present pleasure and advantage"
-image: /covers/morals.png
+c: "indigo"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icon: /avatars/hume.png
+icon: "David Hume"
 weight: 12
 ---
 

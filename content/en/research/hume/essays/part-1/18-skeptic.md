@@ -2,12 +2,12 @@
 title: "The Skeptic"
 heading: "Essay 18"
 description: "Skeptic"
-image: /covers/essays.jpg
+c: "darkblue"
 weight: 38
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
-icons: /avatars/hume.png
+icon: "David Hume"
 --- 
 
 

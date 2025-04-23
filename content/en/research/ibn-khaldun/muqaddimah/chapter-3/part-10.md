@@ -2,7 +2,7 @@
 title: "The Royal Authority Naturally Claims All Glory For Itself"
 # , goes for luxury and peace
 description: "The group feeling that leads to royal authority is a composite of the amalgamation of many groups, one of which is stronger than all the others"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 10"
 weight: 22

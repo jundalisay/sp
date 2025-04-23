@@ -3,7 +3,7 @@ title: "Humanity versus self-command Simplified"
 heading: "Chapter 3b"
 description: "Humanity is a gentle virtue, self-command is an austere virtue."
 date: 2015-09-10
-image: "/covers/tms.jpg"
+c: "indigo"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

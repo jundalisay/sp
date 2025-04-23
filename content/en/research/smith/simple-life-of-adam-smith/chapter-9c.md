@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 9c"
 title: "The Select Society"
-image: /covers/life.jpg
+c: "black"
 description: "The Select Society imitated the academies which were then common in the larger French towns"
 weight: 18
 author: Rae

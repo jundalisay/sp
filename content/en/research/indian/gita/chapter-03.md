@@ -4,8 +4,8 @@ heading: "Chapter 3 "
 weight: 6
 contributors: ['Vyasa']
 description: ""
-image: "/covers/gita.jpg"
-icon: "/avatars/krishna.png"
+c: "indigo"
+icon: "Krishna"
 ---
 
 

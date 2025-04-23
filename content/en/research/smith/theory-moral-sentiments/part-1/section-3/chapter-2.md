@@ -6,9 +6,9 @@ description: "Our sympathy with the false idea of the happiness of the rich and 
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/tms.jpg"
+c: "indigo"
 weight: 8
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

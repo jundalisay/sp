@@ -2,9 +2,9 @@
 title: "Education for the Poor"
 heading: "Part 3v"
 weight: 64
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "In England, charity schools have the same effect though not so universally, because charity schools are not so universal"
-icon: /avatars/smith.png
+icon: "Adam Smith"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

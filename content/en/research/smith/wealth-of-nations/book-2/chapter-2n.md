@@ -5,7 +5,7 @@ weight: 36
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/wn.jpg"
+c: "darkgreen"
 description: "The Increase in Bank Notes does not increase inflation"
 icon: "Adam Smith"
 ---

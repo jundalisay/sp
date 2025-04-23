@@ -2,7 +2,7 @@
 # title: "Differences in food supply in the inhabited regions"
 title: "The Bad Effects of Abundance on the Body"
 description: "The influence of abundance on the body is apparent even in matters of religion and divine worship"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 5"
 weight: 29

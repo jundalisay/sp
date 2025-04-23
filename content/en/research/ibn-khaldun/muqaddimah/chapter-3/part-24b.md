@@ -1,7 +1,7 @@
 ---
 title: "The conditions governing the Caliphate"
 description: "The conditions are knowledge, probity, competence, freedom of the senses and limbs from any defect"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 24b"
 weight: 44

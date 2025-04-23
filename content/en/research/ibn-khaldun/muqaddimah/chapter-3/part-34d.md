@@ -1,7 +1,7 @@
 ---
 title: "The Seal"
 description: "The use of the seal is one of the government functions and a royal office"
-image: "/covers/muq.jpg"
+c: "darkgreen"
 icon: "Ibn Khaldun"
 heading: "Part 34d"
 weight: 100

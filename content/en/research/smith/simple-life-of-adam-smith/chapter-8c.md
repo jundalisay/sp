@@ -2,7 +2,7 @@
 heading: "Chapter 8b"
 title: "The Select Society"
 # date: 2015-09-30
-image: /covers/life.jpg
+c: "black"
 description: "It established a well-devised and extensive scheme of prizes for meritorious work, supported by voluntary subscriptions"
 weight: 19
 author: Rae

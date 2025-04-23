@@ -6,7 +6,7 @@ weight: 10
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "When a country arrives at a certain degree of refinement, it becomes less fit for war"
 ---

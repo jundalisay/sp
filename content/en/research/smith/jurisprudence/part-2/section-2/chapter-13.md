@@ -9,7 +9,7 @@ description: "The Mississippi Company seemed to start in a very flourishing cond
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icon: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 
