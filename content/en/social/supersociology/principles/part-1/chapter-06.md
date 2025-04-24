@@ -9,7 +9,7 @@ description: "The general behavior of a people that arises from the topography o
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 ---
 
 

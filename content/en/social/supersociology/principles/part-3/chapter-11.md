@@ -8,7 +8,7 @@ description: "Jesus was Defeated by the Pharisees because of their connection to
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 ---
 
 

@@ -7,7 +7,7 @@ description: "We propose dogmism to break the Cycle of Extremism"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 ---
 
 

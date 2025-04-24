@@ -8,7 +8,7 @@ image: "/photos/social/audience.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 ---
 
 

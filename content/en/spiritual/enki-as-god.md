@@ -1,5 +1,5 @@
 ---
-title: "Enki as God"
+title: "Enki as the Theist God"
 # heading: "My Meditation Journey Part 1"
 date: 2024-10-18
 image: "/graphics/history/moses.jpg"

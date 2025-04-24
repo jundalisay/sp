@@ -9,7 +9,8 @@ description: "There are 4 major races"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 ---
 
 
+The 4 major races is in line with the 4 classes. 

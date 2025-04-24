@@ -8,7 +8,7 @@ description: "The Common Interest is the conscience of society and is part of bh
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 ---
 
 

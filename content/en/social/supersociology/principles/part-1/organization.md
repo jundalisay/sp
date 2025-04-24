@@ -1,13 +1,13 @@
 ---
 title: "The Organization of Chapters"
-image: "/photos/physics/ai.jpg"
+c: "black"
 date: 2024-09-07
 weight: 100
 description : "We Organized the Chapters according to supereconomics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spsoc.pn
+icon: "Supersociology"
 ---
 
 

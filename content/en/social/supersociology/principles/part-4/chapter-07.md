@@ -8,7 +8,7 @@ description: "The medium of instruction should be in the Native Language until 1
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 ---
 
 

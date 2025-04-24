@@ -7,7 +7,7 @@ description: "The Council of Opposition is David Hume's solution to prevent tyra
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 ---
 
 

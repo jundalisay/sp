@@ -6,7 +6,7 @@ description: "The direction of Humanity should be towards the higher Elements"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 ---
 
 

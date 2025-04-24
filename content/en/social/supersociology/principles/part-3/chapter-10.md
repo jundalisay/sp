@@ -8,7 +8,7 @@ description: "Feudalism is a delegated system of political and economic control"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 ---
 
 

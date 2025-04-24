@@ -8,7 +8,7 @@ description : "The fellow-feeling advocated by Social Superphysics can be used t
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 toc: false
 ---
 

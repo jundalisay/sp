@@ -9,7 +9,7 @@ description: "The four laws of value of Superphysics leads to the four classes o
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/spss.png
+icon: "Social Superphysics"
 ---
 
 
