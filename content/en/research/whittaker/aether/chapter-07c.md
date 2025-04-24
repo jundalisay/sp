@@ -5,7 +5,7 @@ weight: 64
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Weber developed Faraday's idea explaining diamagnetic phenomena by the effects of electric currents induced in the diamagnetic bodies"
 ---
 

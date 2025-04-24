@@ -6,6 +6,6 @@ linkTitle: Grotius
 weight: 38
 description: "Law Historian"
 c: "darkgreen"
-a: "Grotius"
+a: "Hugo Grotius"
 ---
 

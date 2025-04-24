@@ -2,7 +2,7 @@
 heading: Book 8
 title: "The Separation of Natural things"
 description: "The Nature of Things"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 20
 date: 2024-02-28
 writer:

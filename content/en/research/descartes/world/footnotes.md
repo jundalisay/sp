@@ -1,7 +1,7 @@
 ---
 title: "Footnotes"
 weight: 50
-c: "orangered"
+c: "darkgoldenrod"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 author: Translator
 icon: "Rene Descartes"

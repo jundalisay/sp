@@ -6,7 +6,7 @@ description: "Why the poles of the Equator and the Ecliptic are far apart"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 ---
 

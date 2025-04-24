@@ -6,7 +6,7 @@ description: "When a fluid body is carried all at once towards some part, it nec
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 ---
 

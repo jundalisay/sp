@@ -2,7 +2,7 @@
 title: "The System of Copernicus"
 heading: Part 4
 description: "The ruin of Roman Empire produced the entire neglect of the study of Nature"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 10
 writer:
   name: Adam Smith

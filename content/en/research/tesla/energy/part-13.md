@@ -5,7 +5,7 @@ weight: 30
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-c: "orangered"
+c: "darkgoldenrod"
 description: "The most valuable observation was the extraordinary behavior of the atmosphere toward electric impulses of excessive electromotive force"
 ---
 

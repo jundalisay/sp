@@ -5,7 +5,7 @@ weight: 102
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Faraday made some experiments on this in 1835"
 ---
 

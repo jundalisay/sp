@@ -4,7 +4,7 @@ title: "The Universal Problem of Pure Reason"
 description: "How are active-connective-thinking judgements within-the-mind possible?"
 weight: 16
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

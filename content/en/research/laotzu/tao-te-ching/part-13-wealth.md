@@ -5,8 +5,8 @@ description: "Excess Wealth is Contrary to the Tao or True Nature"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 26
-icon: "/avatars/lao.png"
-contributors: ['Lao Tzu']
+icon: "Lao Tzu"
+author: "Lao Tzu"
 ---
 
 

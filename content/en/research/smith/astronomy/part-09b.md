@@ -2,7 +2,7 @@
 title: "The Third Element: Matter"
 heading: Part 9b
 description: "Descartes was the first who tried to ascertain precisely this invisible chain that Kepler said to link the planets to the sun."
-c: "orangered"
+c: "darkgoldenrod"
 # date: 2022-09-24
 writer:
   name: Adam Smith

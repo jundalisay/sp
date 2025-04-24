@@ -3,7 +3,7 @@ heading: "Parts 35"
 title: "The Five Platonic Shapes"
 # heading: "Chapter 1"
 description: "A mathematician's job is to write annual forecasts"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 2
 contributors: ['Kepler']
 icon: /avatars/kepler.png

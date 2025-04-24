@@ -2,12 +2,12 @@
 title: Can we ascribe gravity to a certain state of the aether?
 heading: Part 1
 description: A theory of universal attraction, founded on the state of the aether, would take the simplest form.
-image: "/covers/grav.jpg"
+c: "darkgoldenrod"
 # date2021-09-28"
 writer:
   name: Hendrik Lorentz
   url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-icon: /icons/lor.png
+icon: "Hendrik Lorentz"
 weight: 4
 ---
 

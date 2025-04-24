@@ -2,7 +2,7 @@
 heading: "Chapter 1d"
 title: The Constant Speed of Light
 description: Thus, the propagation of Light will always go on with an equal velocity
-c: "orangered"
+c: "darkgoldenrod"
 weight: 7
 author: "Christiaan Huygens"
 icon: "Christiaan Huygens"

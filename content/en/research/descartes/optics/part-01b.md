@@ -5,7 +5,7 @@ weight: 5
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 description: "These rays must be imagined as always being straight when they pass through a single transparent body that is uniform throughout"
 icon: "Rene Descartes"
 ---

@@ -2,7 +2,7 @@
 heading: "Chapter 10b"
 title: "How are the Orbits of the Moons Formed?"
 weight: 23
-c: "orangered"
+c: "darkgoldenrod"
 description: "If two planets are at the same orbit, the smaller will be faster than the larger"
 writer:
   name: Rene Descartes

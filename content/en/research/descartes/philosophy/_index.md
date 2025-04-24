@@ -4,5 +4,5 @@ linkTitle: Principles
 # date: 1633
 weight: 24
 description: "The Principles of Philosophy by Descartes"
-c: "orangered"
+c: "darkgoldenrod"
 ---

@@ -1,7 +1,7 @@
 ---
 title: The Motion of Liquid Bodies
 heading: "Propositions 36-37"
-c: "orangered"
+c: "darkgoldenrod"
 description: "The space through which our hand can thus move is filled with bodies which will move in the way I have described"
 writer:
   name: Spinoza

@@ -1,8 +1,8 @@
 ---
 heading: Chapter 4d
 title: Reserve Accumulation
-weight: 22
-date: 2025-11-01
+weight: 26
+date: 2024-11-01
 author: Stephen Miran
 description: ""
 image: "/flags/us.png"

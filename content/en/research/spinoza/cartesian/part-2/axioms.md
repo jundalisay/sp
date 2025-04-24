@@ -1,7 +1,7 @@
 ---
 # heading: Axioms
 title: "Axioms and Lemmas"
-c: "orangered"
+c: "darkgoldenrod"
 description: "To nothing there belong no properties"
 writer:
   name: Spinoza

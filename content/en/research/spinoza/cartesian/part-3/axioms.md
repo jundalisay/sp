@@ -1,7 +1,7 @@
 ---
 heading: Axioms
 title: "Spinoza's Assumptions"
-c: "orangered"
+c: "darkgoldenrod"
 description: "We must devise such principles that are the simplest and easiest to know"
 writer:
   name: Spinoza

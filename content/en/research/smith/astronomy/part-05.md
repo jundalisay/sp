@@ -2,7 +2,7 @@
 title: "Reception to Copernicus' System"
 heading: Part 5
 description: "Copernicus completed his Treatise of Revolutions but was afraid of what people might think"
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith

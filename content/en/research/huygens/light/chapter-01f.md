@@ -2,7 +2,7 @@
 heading: "Chapter 1f"
 title: The Emanation of These Waves
 description: Each particle of matter in which a wave spreads does not communicate its motion only to the next particle ahead of it in a straight line from the luminous point
-c: "orangered"
+c: "darkgoldenrod"
 weight: 8
 author: "Christiaan Huygens"
 icon: "Christiaan Huygens"

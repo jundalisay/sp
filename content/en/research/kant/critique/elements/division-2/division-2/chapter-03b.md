@@ -4,7 +4,7 @@ title: The Transcendental Ideal (Prototypon Trancendentale)
 description: "The Application of the Categories Sensory Objects"
 weight: 58
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

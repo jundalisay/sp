@@ -4,7 +4,7 @@ linkTitle: "Book 1"
 title: "The Origin, Classes, Order, And Distinguishing Features Of The Regular Shapes" 
 description: "Proclus Diadochus in Book I of his Commentary on Euclid Book I wrote about Mathematics."
 weight: 2
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Johannes Kepler
   url: https://en.wikipedia.org/wiki/Johannes_Kepler

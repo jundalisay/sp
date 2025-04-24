@@ -5,8 +5,8 @@ description: "Brahma is an effect of the course or flow of the Tao"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 14
-icon: "/avatars/lao.png"
-contributors: ['Lao Tzu']
+icon: "Lao Tzu"
+author: "Lao Tzu"
 ---
 
 

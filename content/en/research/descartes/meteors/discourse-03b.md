@@ -3,7 +3,7 @@ heading: Discourse 3b
 title: Making Ice with Salt and Crushed Ice
 weight: 13
 description: Salt is mixed with an equal quantity of snow or crushed ice all around a vase full of fresh water
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

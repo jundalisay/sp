@@ -5,7 +5,7 @@ weight: 109
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Christian Doppler's principle is that the motion of a source of light relative to an observer modifies the period of its being received by him"
 ---
 

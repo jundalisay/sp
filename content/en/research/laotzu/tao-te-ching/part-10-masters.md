@@ -5,8 +5,8 @@ description: "The Metaphysics of the Tao or True Nature include Pranah, Aether, 
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 22
-icon: "/avatars/lao.png"
-contributors: ['Lao Tzu']
+icon: "Lao Tzu"
+author: "Lao Tzu"
 ---
 
 

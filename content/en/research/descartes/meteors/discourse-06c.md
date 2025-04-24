@@ -3,7 +3,7 @@ heading: Discourse 6c
 title: How Rain Forms
 weight: 31
 description: Clouds that are composed only of water droplets fall as rain
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

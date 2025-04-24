@@ -5,7 +5,7 @@ weight: 106
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "In Weber's theory, electric phenomena were attributed to the agency of stationary or moving charges, which could most readily be pictured as having a discrete and atom-like existence"
 ---
 

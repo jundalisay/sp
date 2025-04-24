@@ -6,7 +6,7 @@ description: "A vacuum or space in which there is absolutely no body is repugnan
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 ---
 

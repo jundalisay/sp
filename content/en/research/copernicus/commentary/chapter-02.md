@@ -3,7 +3,7 @@ title: "The Order of the Spheres"
 heading: Chapter 2
 weight: 8
 date: 2025-03-08
-c: "orangered"
+c: "darkgoldenrod"
 ---
 
 

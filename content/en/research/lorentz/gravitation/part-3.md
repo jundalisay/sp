@@ -5,9 +5,9 @@ writer:
   url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
 heading: Part 3
 description: In computing the value of this force, one finds many terms, which depend in different ways on the distance r
-image: "/covers/grav.jpg"
+c: "darkgoldenrod"
 # date2021-09-28"
-icon: /icons/lor.png
+icon: "Hendrik Lorentz"
 weight: 6
 ---
 

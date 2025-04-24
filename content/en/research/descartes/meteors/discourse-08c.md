@@ -3,7 +3,7 @@ heading: Discourse 8c
 title: The Movement of Light as Rolling Balls
 weight: 42
 description: The nature of the colors which appear towards F consists only in what the fire-aether tends to spin
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

@@ -5,6 +5,6 @@ title: "The Optics"
 weight: 18
 # date: 2022-08-08
 description: "La Dioptrique in English translated by Google"
-c: "orangered"
+c: "darkgoldenrod"
 ---
 

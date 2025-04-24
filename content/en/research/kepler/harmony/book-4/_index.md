@@ -4,7 +4,7 @@ linkTitle: "Book 4"
 title: "The Effect On Events In The Sky And Other Natural Phenomena" 
 description: "The use of mathematics in Natural Philosophy and Politics most of all concerns the Harmonic part of it on radiations"
 weight: 10
-c: "orangered"
+c: "darkgoldenrod"
 ---
 
 

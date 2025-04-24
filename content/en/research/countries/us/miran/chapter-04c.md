@@ -2,7 +2,7 @@
 heading: Chapter 4c
 title: Feasibility
 weight: 24
-date: 2025-11-01
+date: 2024-11-01
 author: Stephen Miran
 description: ""
 image: "/flags/us.png"

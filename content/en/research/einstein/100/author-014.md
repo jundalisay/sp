@@ -4,7 +4,7 @@ title: "Professor Dr. P. F. Linke"
 # date: 2024-12-12
 weight: 18
 description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
-c: "orangered"
+c: "darkgoldenrod"
 ---
 
 

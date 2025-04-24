@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "What is Transmutation?"
 description: "The Nature of Things"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 2
 writer:
   name: Paracelsus

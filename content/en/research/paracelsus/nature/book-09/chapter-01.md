@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "The Signature of Natural Things"
 description: "What is the Signature of things? Things are signed by whom? Who is the Signator? How many things are signed?"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 2
 # date: 2022-05-18
 writer:

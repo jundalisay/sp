@@ -2,9 +2,9 @@
 title: Can we ascribe gravity to a certain state of the aether?
 heading: Part 10
 description: Can we ascribe gravity to a certain state of the aether?
-image: "/covers/grav.jpg"
+c: "darkgoldenrod"
 # date2021-09-28"
-icon: /icons/lor.png
+icon: "Hendrik Lorentz"
 writer:
   name: Hendrik Lorentz
   url: https://en.wikipedia.org/wiki/Hendrik_Lorentz

@@ -5,7 +5,7 @@ weight: 44
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Lord Kelvin suggested that the aether may pervade the atoms of matter so as to occupy space jointly with them"
 ---
 

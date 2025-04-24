@@ -1,7 +1,7 @@
 ---
 heading: Part 1c
 title: "Definitions"
-c: "orangered"
+c: "darkgoldenrod"
 description: "Thought includes all that is in us and of which we are immediately conscious"
 writer:
   name: Spinoza

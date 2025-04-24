@@ -5,7 +5,7 @@ weight: 24
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-c: "orangered"
+c: "darkgoldenrod"
 description: "For a long time I thought that such a transmission on an industrial scale could never be realized. But a discovery which I made changed my view."
 ---
 

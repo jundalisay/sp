@@ -3,7 +3,7 @@ heading: Discourse 10
 title: The Appearance of Multiple Suns
 weight: 52
 description: Sometimes other circles appear in the clouds, different from those I have mentioned.
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

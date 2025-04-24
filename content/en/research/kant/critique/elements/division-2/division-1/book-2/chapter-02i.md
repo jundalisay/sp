@@ -4,7 +4,7 @@ title: Principle of Coexistence, According to the Law of Reciprocity
 description: "The Application of the Categories Sensory Objects"
 weight: 48
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

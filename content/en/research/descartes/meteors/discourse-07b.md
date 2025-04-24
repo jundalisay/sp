@@ -3,7 +3,7 @@ heading: Discourse 7b
 title: Thunder, Whirlwinds, and Lightning
 weight: 35
 description: There are usually exhalations [ionized air] mixed among these vapors, which cannot be driven as far as them by the cloud
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

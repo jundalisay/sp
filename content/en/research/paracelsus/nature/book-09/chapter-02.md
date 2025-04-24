@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "The Monstrous signs of Men"
 description: "Many men are brought forth deformed with monstrous marks, or signs: so one abounds with one finger, or Toe, another wants one"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 4
 # date: 2022-05-18
 writer:

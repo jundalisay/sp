@@ -1,7 +1,7 @@
 ---
 heading: Introduction
 title: "The Cartesian Way of Finding Seed Principles"
-c: "orangered"
+c: "darkgoldenrod"
 description: "We must devise such principles that are the simplest and easiest to know"
 writer:
   name: Spinoza

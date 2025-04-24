@@ -5,7 +5,7 @@ title: The Supreme Principle of all Synthetical Judgements
 description: "The Application of the Categories Sensory Objects"
 weight: 8
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

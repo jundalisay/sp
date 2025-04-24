@@ -5,8 +5,8 @@ description: "Karma will eventually catch the unjust"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 34
-icon: "/avatars/lao.png"
-contributors: ['Lao Tzu']
+icon: "Lao Tzu"
+author: "Lao Tzu"
 ---
 
 

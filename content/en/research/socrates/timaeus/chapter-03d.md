@@ -2,7 +2,7 @@
 title: "The Soul"
 heading: "Chapter 3b"
 weight: 18
-c: "orangered"
+c: "darkgoldenrod"
 description: "The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything"
 writer:
   name: Plato

@@ -5,8 +5,8 @@ description: "The State Should Have Concise but Efficient Laws"
 image: "/covers/tao.jpg"
 # date: 2020-12-31
 weight: 30
-contributors: ['Lao Tzu']
-icon: "/avatars/lao.png"
+author: "Lao Tzu"
+icon: "Lao Tzu"
 ---
 
 

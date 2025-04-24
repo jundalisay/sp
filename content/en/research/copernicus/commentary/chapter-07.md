@@ -3,7 +3,7 @@ title: "The 3 Superior Planets: Saturn, Jupiter, and Mars"
 heading: Chapter 7
 weight: 32
 date: 2025-03-08
-c: "orangered"
+c: "darkgoldenrod"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 73
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Maxwell taught that the dielectric between the coatings is the seat of a process"
 ---
 

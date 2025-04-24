@@ -2,7 +2,7 @@
 heading: "Chapter 14"
 title: "The Properties of Light"
 weight: 30
-c: "orangered"
+c: "darkgoldenrod"
 description: "Light moves in all directions around luminous bodies is due to the circular motion of their parts"
 writer:
   name: Rene Descartes

@@ -6,7 +6,7 @@ description: "The Earth and the planets do not have a motion of their own"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 ---
 

@@ -5,7 +5,7 @@ weight: 24
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Berzelius founded his theory which had been in one or two of its features anticipated by Davy, on inferences drawn from Volta's contact effects"
 ---
 

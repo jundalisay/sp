@@ -5,7 +5,7 @@ weight: 14
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "orangered"
+c: "darkgoldenrod"
 description: "Critias tells the story of ancient Egypt and Atlantis"
 ---
 

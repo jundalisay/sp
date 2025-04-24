@@ -5,7 +5,7 @@ weight: 56
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Some important results on batteries were published by Frederic Daniell"
 ---
 

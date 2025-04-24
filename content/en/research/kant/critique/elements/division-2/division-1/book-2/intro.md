@@ -3,7 +3,7 @@ title: Introduction
 description: "The Application of the Categories Sensory Objects"
 weight: 2
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

@@ -5,5 +5,5 @@ title: "Introduction"
 description: "Introduction"
 weight: 14
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---

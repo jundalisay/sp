@@ -5,7 +5,7 @@ weight: 54
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Peter Mark Roget (b. 1779, d. 1869) was one of the most active English supporters of the chemical theory immediately preceding Faraday"
 ---
 

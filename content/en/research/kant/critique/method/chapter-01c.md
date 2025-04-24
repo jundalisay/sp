@@ -3,7 +3,7 @@ title: "Space and Time"
 description: "The Discipline of Pure Reason in the Sphere of Dogmatism"
 weight: 8
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

@@ -3,7 +3,7 @@ title: "Kepler, Johannes"
 linkTitle: Kepler
 heading: "Enlightened"
 a: "Kepler"
-c: "orangered"
+c: "darkgoldenrod"
 description: "Kepler worked with Galileo to prove the heliocentric model of the universe."
 # date: "2022-01-26"
 weight: 114

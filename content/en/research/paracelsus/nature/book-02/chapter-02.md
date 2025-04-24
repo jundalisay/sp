@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "How Gold may be generated in a glass"
 description: "The Generation of Natural Things is Twofold"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 9
 date: 2024-02-28
 writer:

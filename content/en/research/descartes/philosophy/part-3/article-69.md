@@ -6,7 +6,7 @@ description: "The 1st element flows from the poles of each vortex towards the ce
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 ---
 

@@ -5,8 +5,8 @@ description: "Karma, Dharma, Gravity, and Ego"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 18
-icon: "/avatars/lao.png"
-contributors: ['Lao Tzu']
+icon: "Lao Tzu"
+author: "Lao Tzu"
 ---
 
 

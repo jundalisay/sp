@@ -5,7 +5,7 @@ weight: 65
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "The energy of motion and the energy of position of a dynamical system are convertible into each other"
 ---
 

@@ -3,7 +3,7 @@ heading: Discourse 3
 title: Salt
 weight: 12
 description: The salinity of the sea consists only of the coarser parts of its water
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

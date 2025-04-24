@@ -5,7 +5,7 @@ title: System of all Principles of the Pure Understanding
 description: "The Application of the Categories Sensory Objects"
 weight: 6
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

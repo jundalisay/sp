@@ -4,7 +4,7 @@ title: Opinion, Knowledge, and Belief
 description: "This critique of reason has now taught us that all its efforts to extend the bounds of knowledge are utterly fruitless"
 weight: 30
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

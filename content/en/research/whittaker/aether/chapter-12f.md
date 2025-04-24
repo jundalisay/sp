@@ -5,7 +5,7 @@ weight: 114
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "The FitzGerald contraction of matter as it moves through the aether might conceivably be supposed to affect in some way the optical properties of the moving natter"
 ---
 

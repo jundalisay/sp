@@ -5,7 +5,7 @@ weight: 52
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Does a bar-magnet which is rotated on its own axis carries its lines of magnetic force in rotation with it?"
 ---
 

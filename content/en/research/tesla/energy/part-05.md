@@ -5,7 +5,7 @@ weight: 14
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-c: "orangered"
+c: "darkgoldenrod"
 description: "Aluminium will not stop at downing copper. Before many years have passed it will be engaged in a fierce struggle with iron"
 ---
 

@@ -2,7 +2,7 @@
 heading: "Chapter 3"
 title: Refraction
 description: Dr. Tillotson argues against the real presence of miracles. His argument is the most concise, elegant, and strong against miracles
-c: "orangered"
+c: "darkgoldenrod"
 weight: 12
 author: "Christiaan Huygens"
 icon: "Christiaan Huygens"

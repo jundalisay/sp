@@ -5,7 +5,7 @@ weight: 14
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 description: "To explain the eye, we must explain the senses"
 icon: "Rene Descartes"
 ---

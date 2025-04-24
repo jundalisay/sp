@@ -5,7 +5,7 @@ weight: 15
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Tobias Mayer of Göttingen (b. 1723, d. 1762) was the author of Lunar Tables"
 ---
 

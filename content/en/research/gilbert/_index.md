@@ -5,7 +5,7 @@ heading: Enlightened
 description: "On the magnet, magnetick bodies also, and on the great magnet the earth: a new physiology, demonstrated by many arguments & experiments"
 weight: 36
 a: "William Gilbert"
-c: "orangered"
+c: "darkgoldenrod"
 ---
 
  <!-- 24 May 1544? – 30 November 1603 -->

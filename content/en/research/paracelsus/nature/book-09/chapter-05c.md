@@ -2,7 +2,7 @@
 heading: Chapter 5c
 title: "Some peculiar Signes of Naturall and Supernaturall things"
 description: "The Nature of Things"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 27
 # date: 2022-05-18
 writer:

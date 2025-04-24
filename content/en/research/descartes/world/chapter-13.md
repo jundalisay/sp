@@ -2,7 +2,7 @@
 heading: "Chapter 13"
 title: "Cartesian Inertia and Gravitation"
 weight: 28
-c: "orangered"
+c: "darkgoldenrod"
 description: "Bodies that revolve always tend to move away from the centers of the circles they describe"
 writer:
   name: Rene Descartes

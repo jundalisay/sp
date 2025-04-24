@@ -6,6 +6,6 @@ icon: "Lorentz"
 # date: 2022-06-20
 weight: 116
 a: "Lorentz"
-c: "orangered"
+c: "darkgoldenrod"
 ---
 

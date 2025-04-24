@@ -6,7 +6,7 @@ description: "Comets exhibit a long, radiant tail, which gives them their name"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 ---
 

@@ -5,7 +5,7 @@ weight: 67
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "The equations of flow of the currents were being generalized by Gustav Kirchhoff"
 ---
 

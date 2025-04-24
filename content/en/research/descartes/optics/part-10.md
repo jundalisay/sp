@@ -5,7 +5,7 @@ weight: 38
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 description: "After choosing the glass or crystal that you intend to use, find the proportion, which serves as a measure for its refractions"
 icon: "Rene Descartes"
 ---

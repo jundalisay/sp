@@ -5,8 +5,8 @@ description: "The Knowers of the Tao or True Nature have minds that are active a
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 8
-icon: "/avatars/lao.png"
-contributors: ['Lao Tzu']
+icon: "Lao Tzu"
+author: "Lao Tzu"
 ---
 
 

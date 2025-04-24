@@ -5,7 +5,7 @@ weight: 18
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-c: "orangered"
+c: "darkgoldenrod"
 description: "An immense amount of energy is locked up in limestone. Machines can be driven by liberating the carbonic acid through sulphuric acid"
 ---
 

@@ -5,7 +5,7 @@ weight: 12
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-c: "orangered"
+c: "darkgoldenrod"
 description: "Iron is by far the most important factor in modern progress"
 ---
 

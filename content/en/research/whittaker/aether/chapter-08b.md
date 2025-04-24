@@ -5,7 +5,7 @@ weight: 71
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Maxwell's investigation was published in 1856. In the same year, Thomson[13] put forward an alternative interpretation of magnetism"
 ---
 

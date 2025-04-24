@@ -2,7 +2,7 @@
 title: "The Void--Why are we not Aware of Certain Bodies?"
 heading: "Chapter 4"
 weight: 10
-c: "orangered"
+c: "darkgoldenrod"
 description: "All bodies, both hard and liquid, are made from the same matter"
 writer:
   name: Rene Descartes

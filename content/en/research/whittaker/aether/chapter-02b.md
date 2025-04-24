@@ -5,7 +5,7 @@ weight: 10
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "The most insightful one was the Physices elementa mathematica experimentis confirmata by Wilhelm Jacob s'Gravesande"
 ---
 

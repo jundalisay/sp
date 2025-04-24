@@ -5,7 +5,7 @@ weight: 96
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "The theory of moving tubes of force has been extensively developed by Sir Joseph Thomson."
 ---
 

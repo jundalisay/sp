@@ -5,8 +5,8 @@ description: "Self-Realization can be attained by meditation and fellow-feeling"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 24
-icon: "/avatars/lao.png"
-contributors: ['Lao Tzu']
+icon: "Lao Tzu"
+author: "Lao Tzu"
 ---
 
 

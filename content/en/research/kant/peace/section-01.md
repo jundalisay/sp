@@ -4,7 +4,7 @@ title: "The Preliminary Articles Of Perpetual Peace"
 description: "This translation of Kant’s essay on Perpetual Peace was undertaken by Miss Mary Campbell Smith"
 weight: 4
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

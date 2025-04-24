@@ -5,7 +5,7 @@ weight: 110
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Lorentz was impressed by the success of Fresnel's beautiful theory of the propagation of light in moving transparent substances"
 ---
 

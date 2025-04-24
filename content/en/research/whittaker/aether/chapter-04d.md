@@ -5,7 +5,7 @@ weight: 30
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Fresnel now set out to provide a theory capable of explaining Arago's result"
 ---
 

@@ -7,7 +7,7 @@ description: "The Production and Dissolution of Spots Depend on Highly Uncertain
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 ---
 

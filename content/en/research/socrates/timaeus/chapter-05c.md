@@ -2,7 +2,7 @@
 title: "The Nature of Motion"
 heading: "Chapter 5c"
 weight: 28
-c: "orangered"
+c: "darkgoldenrod"
 description: "The Simplified Timaeus by Plato"
 writer:
   name: Plato

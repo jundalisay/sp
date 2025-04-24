@@ -4,7 +4,7 @@ title: Principle of the Permanence of Substance
 description: "The Application of the Categories Sensory Objects"
 weight: 28
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 74
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Leroux's phenomenon was called anomalous dispersion"
 ---
 

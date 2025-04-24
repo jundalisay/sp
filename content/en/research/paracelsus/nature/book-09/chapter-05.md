@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "Mineral Signes"
 description: "The Nature of Things"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 18
 # date: 2022-05-18
 writer:

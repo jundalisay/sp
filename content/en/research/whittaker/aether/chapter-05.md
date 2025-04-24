@@ -6,7 +6,7 @@ weight: 34
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "The aether behaves as an elastic solid"
 ---
 

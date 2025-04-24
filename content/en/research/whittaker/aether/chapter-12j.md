@@ -5,7 +5,7 @@ weight: 122
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Richardson[126]adopted the hypothesis which had previously been proposed[127] for the explanation of metallic conductivity"
 ---
 

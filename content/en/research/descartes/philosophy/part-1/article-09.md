@@ -6,7 +6,7 @@ description: "Thought is all that takes place in us that we are immediately cons
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 # aliases:
 #   /research/descartes/philosophy/part-1/section-01b

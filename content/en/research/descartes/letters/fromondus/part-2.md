@@ -3,7 +3,7 @@ title: "Letter to Fromondus"
 date: 2024-08-28
 weight: 8
 descrtiption: RESPONSE OF MR. DESCARTES, to some Objections from Mr. Fromondus; Against his Method, his Dioptrics, and his Meteors.
-c: "orangered"
+c: "darkgoldenrod"
 ---
 
 

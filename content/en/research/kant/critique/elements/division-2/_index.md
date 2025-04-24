@@ -5,5 +5,5 @@ title: "Transcendental Logic"
 description: "Critique of Pure Reason"
 weight: 14
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---

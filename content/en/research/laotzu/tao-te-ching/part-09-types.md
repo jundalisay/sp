@@ -5,8 +5,8 @@ description: "The knowers of the Tao have three levels"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 20
-icon: "/avatars/lao.png"
-contributors: ['Lao Tzu']
+icon: "Lao Tzu"
+author: "Lao Tzu"
 ---
 
 

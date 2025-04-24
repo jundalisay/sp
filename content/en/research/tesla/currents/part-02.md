@@ -5,7 +5,7 @@ description: "Experiments with Alternate Currents of High Potential and High Fre
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-c: "orangered"
+c: "darkgoldenrod"
 weight: 8
 ---
 

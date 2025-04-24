@@ -3,7 +3,7 @@ heading: Discourse 8d
 title: Water Droplets
 weight: 44
 description: When water is hot, its refraction is slightly less than when it is cold, which can change something in this calculation
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

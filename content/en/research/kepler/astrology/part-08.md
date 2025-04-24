@@ -3,7 +3,7 @@ heading: "Parts 1-14"
 title: "Star-based Forecasts"
 # heading: "Chapter 1"
 description: "A mathematician's job is to write annual forecasts"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 2
 contributors: ['Kepler']
 icon: /avatars/kepler.png

@@ -3,7 +3,7 @@ heading: Discourse 1b
 title: Heat and Cold
 weight: 5
 description: Material temperature is based on how the pores accept or reject the fire-aether
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

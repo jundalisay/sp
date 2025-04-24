@@ -4,7 +4,7 @@ title: "The Disagreement Between Morals And Politics With Reference To Perpetual
 description: "Objectively, morals is a practical science"
 weight: 45
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

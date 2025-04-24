@@ -2,6 +2,6 @@
 title: "Tesla, Nikola"
 heading: Enlightened
 description: "Nikola Tesla was a Real Genius"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 900
 ---

@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Artificial Generation of Men"
 description: "The Generation of Natural Things is Twofold"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 9
 date: 2024-02-28
 writer:

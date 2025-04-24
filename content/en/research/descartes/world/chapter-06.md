@@ -2,7 +2,7 @@
 title: "The Aethereal Universe"
 heading: "Chapter 6"
 weight: 14
-c: "orangered"
+c: "darkgoldenrod"
 description: "The Aethereal Universe is made up the aether divided into infinite parts with all sorts of motion imaginable"
 writer:
   name: Rene Descartes

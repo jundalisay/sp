@@ -5,7 +5,7 @@ weight: 4
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "According to Descartes' theory, the sun is the centre of an immense vortex formed of the first or subtlest kind of matter"
 icon: "Edmund Taylor Whittaker"
 ---

@@ -5,5 +5,5 @@ title: "Transcendental Analytic"
 description: ""
 weight: 4
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---

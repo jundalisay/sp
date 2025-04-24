@@ -2,7 +2,7 @@
 heading: "Chapter 11b"
 title: "The Balance Between the Aethers"
 weight: 25
-c: "orangered"
+c: "darkgoldenrod"
 description: "The whole mass of the Earth is caused by the presence of the moon, and also about some particular things"
 writer:
   name: Rene Descartes

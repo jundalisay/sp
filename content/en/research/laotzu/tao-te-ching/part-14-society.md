@@ -5,8 +5,8 @@ description: "A society is a spirit-like thing"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 28
-icon: "/avatars/lao.png"
-contributors: ['Lao Tzu']
+icon: "Lao Tzu"
+author: "Lao Tzu"
 ---
 
 

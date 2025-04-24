@@ -5,5 +5,5 @@ title: "Transcendental Aesthetic"
 description: "Transcendental Aesthetic is not about beauty or taste"
 weight: 2
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---

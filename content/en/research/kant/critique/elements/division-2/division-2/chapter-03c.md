@@ -4,7 +4,7 @@ title: The Arguments Used by Speculative Reason to Prove the Existence of a Supr
 description: "The Application of the Categories Sensory Objects"
 weight: 58
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

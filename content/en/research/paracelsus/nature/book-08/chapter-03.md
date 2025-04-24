@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Separation of metals from their Mines"
 description: "The Nature of Things"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 6
 writer:
   name: Paracelsus

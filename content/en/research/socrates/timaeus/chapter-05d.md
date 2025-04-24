@@ -2,7 +2,7 @@
 title: "The Senses"
 heading: "Chapter 5d"
 weight: 30
-c: "orangered"
+c: "darkgoldenrod"
 description: "Water, by condensation, becomes stone and earth. When melted and dispersed, passes into vapour and air"
 author: Timaeus
 icon: "Socrates"

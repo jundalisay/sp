@@ -6,7 +6,7 @@ description: "The powder of filings around a magnet does not accumulate randomly
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 # aliases:
 #   /research/descartes/philosophy/part-4/section-09

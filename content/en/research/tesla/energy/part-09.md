@@ -5,7 +5,7 @@ weight: 22
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-c: "orangered"
+c: "darkgoldenrod"
 description: "The windmill, the solar engine, the engine driven by terrestrial heat, had their limitations in the amount of power obtainable"
 ---
 

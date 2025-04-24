@@ -4,7 +4,7 @@ title: The Dialectical Illusion in all Transcendental Arguments for the Existenc
 description: "The Application of the Categories Sensory Objects"
 weight: 58
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

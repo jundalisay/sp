@@ -4,7 +4,7 @@ title: The Discipline of Pure Reason in Hypothesis
 description: "This critique of reason has now taught us that all its efforts to extend the bounds of knowledge are utterly fruitless"
 weight: 24
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

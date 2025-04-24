@@ -2,7 +2,7 @@
 heading: Chapter 4b
 title: "Created Beings"
 weight: 22
-c: "orangered"
+c: "darkgoldenrod"
 description: "The Simplified Timaeus by Plato"
 ---
 

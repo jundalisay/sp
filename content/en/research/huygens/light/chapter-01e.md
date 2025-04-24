@@ -2,7 +2,7 @@
 heading: "Chapter 1e"
 title: Contact Forces
 description: This same movement occurs in luminous solids such as charcoal or metal made red hot in the fire when the metal or wood particles are violently agitated
-c: "orangered"
+c: "darkgoldenrod"
 weight: 8
 author: "Christiaan Huygens"
 icon: "Christiaan Huygens"

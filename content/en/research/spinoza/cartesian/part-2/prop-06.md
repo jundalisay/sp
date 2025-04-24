@@ -1,7 +1,7 @@
 ---
 heading: "Proposition 6"
 title: "Local Motion Versus Zeno"
-c: "orangered"
+c: "darkgoldenrod"
 description: "Matter is indefinitely extended. The matter of the heavens and the earth is one and the same"
 writer:
   name: Spinoza

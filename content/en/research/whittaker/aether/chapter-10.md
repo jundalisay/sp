@@ -5,7 +5,7 @@ weight: 90
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Before the publication of Maxwell's Treatise, however, a method of supplying the omission was indicated by Helmholtz"
 ---
 

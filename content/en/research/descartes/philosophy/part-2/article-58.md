@@ -6,7 +6,7 @@ description: "If the particles of a fluid move more slowly than a hard body exis
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 ---
 

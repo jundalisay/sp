@@ -5,7 +5,7 @@ weight: 8
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Shortly after Roemer's discovery, the wave-theory of light was greatly improved by Christiaan Huygens"
 ---
 

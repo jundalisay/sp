@@ -3,7 +3,7 @@ heading: Discourse 2
 title: Vapors and Exhalations
 weight: 8
 description: The air-aether in the pores of terrestrial bodies are more agitated at one time than another
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

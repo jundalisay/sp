@@ -4,7 +4,7 @@ title: The History of Pure Reason
 description: "This critique of reason has now taught us that all its efforts to extend the bounds of knowledge are utterly fruitless"
 weight: 4
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

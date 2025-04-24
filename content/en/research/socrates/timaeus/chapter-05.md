@@ -2,7 +2,7 @@
 heading: Chapter 5a
 title: "The Universe"
 weight: 24
-c: "orangered"
+c: "darkgoldenrod"
 description: "How is the body created?"
 writer:
   name: Plato

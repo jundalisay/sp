@@ -1,7 +1,7 @@
 ---
 title: "HOW TO SIGNAL TO MARS"
 description: "Wireless the Only Way Now, Says Nicola Tesla—Mirror Plan Not Practicable"
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla

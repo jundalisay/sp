@@ -6,7 +6,7 @@ description: "The particles of some spirit or liquid can sometimes ignite fire b
 writer:
   name: Rene Descartes (translated by ChatGPT, fixed by Juan)
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 # aliases:
 #   /research/descartes/philosophy/part-4/section-03c

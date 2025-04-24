@@ -2,7 +2,7 @@
 heading: "Chapter 6"
 title: The Figures Of The Transparent Bodies
 description: We have shown how the movement which constitutes light spreads by spherical waves in any homogeneous matter. And it is evident that when the matter is not homogeneous
-c: "orangered"
+c: "darkgoldenrod"
 weight: 28
 author: "Christiaan Huygens"
 icon: "Christiaan Huygens"

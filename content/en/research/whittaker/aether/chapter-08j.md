@@ -5,7 +5,7 @@ weight: 80
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "A different way of inferring the necessity for light-pressure was indicated in 1876 by A. Bartoli"
 ---
 

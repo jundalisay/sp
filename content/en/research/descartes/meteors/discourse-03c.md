@@ -3,7 +3,7 @@ heading: Discourse 3c
 title: Surface Tension
 weight: 14
 description: How does salt float on water when it forms, despite its parts being very fixed and very heavy?
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

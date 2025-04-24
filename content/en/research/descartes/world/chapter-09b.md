@@ -2,7 +2,7 @@
 heading: "Chapter 9b"
 title: "The Origin of the Planets and Comets"
 weight: 21
-c: "orangered"
+c: "darkgoldenrod"
 description: "There are a few comets in the aethereal world compared to the number of gravitational territories"
 writer:
   name: Rene Descartes

@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "The enemies of things are to be known"
 description: "The Generation of Natural Things is Twofold"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 9
 date: 2024-02-28
 writer:

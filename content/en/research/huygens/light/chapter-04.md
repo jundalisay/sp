@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: Refraction Of The Air
 description: We have shown how the movement which constitutes light spreads by spherical waves in any homogeneous matter. And it is evident that when the matter is not homogeneous
-c: "orangered"
+c: "darkgoldenrod"
 weight: 18
 author: "Christiaan Huygens"
 icon: "Christiaan Huygens"

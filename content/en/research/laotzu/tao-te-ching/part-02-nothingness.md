@@ -5,8 +5,8 @@ description: "The Tao or True Nature is nameless, non-extreme, non-dualistic"
 image: "/covers/tao.jpg"
 # date: 2020-01-29
 weight: 6
-icon: "/avatars/lao.png"
-contributors: ['Lao Tzu']
+icon: "Lao Tzu"
+author: "Lao Tzu"
 # date= 2021-09-28
 ---
 

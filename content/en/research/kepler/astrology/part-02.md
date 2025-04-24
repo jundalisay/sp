@@ -3,7 +3,7 @@ heading: "Parts 15-21"
 title: "The Moon and Warm and Wet Forces"
 # heading: "Chapter 1"
 description: "The Moon stands for another physical causes for prediction"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 6
 contributors: ['Kepler']
 icon: /avatars/kepler.png

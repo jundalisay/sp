@@ -3,7 +3,7 @@
 # title: "Axioms Added To Descartes"
 heading: Propositions 5-7
 title: "The Existence of God"
-c: "orangered"
+c: "darkgoldenrod"
 description: "The existence of God is known solely from the consideration of his nature"
 writer:
   name: Spinoza

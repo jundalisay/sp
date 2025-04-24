@@ -4,7 +4,7 @@ title: "Philosophy Needs a Science to Determine Principles of a priori Knowledge
 description: ""
 weight: 8
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

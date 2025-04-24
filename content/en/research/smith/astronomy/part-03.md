@@ -2,7 +2,7 @@
 title: "The Stoical System"
 heading: Part 3
 description: "Before this system was taught in the world, the earth was regarded as a vast and irregular plain, surrounded on allsides by the ocean"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 8
 writer:
   name: Adam Smith

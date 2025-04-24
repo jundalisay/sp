@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "The Generation of Natural Things is Twofold"
 description: "The Generation of Natural Things is Twofold"
-c: "orangered"
+c: "darkgoldenrod"
 weight: 4
 date: 2024-02-28
 writer:

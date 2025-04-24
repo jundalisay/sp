@@ -5,7 +5,7 @@ weight: 28
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-c: "orangered"
+c: "darkgoldenrod"
 description: "I resolved to work on this though it involved great sacrifice. Only years of labor could master its difficulties"
 ---
 

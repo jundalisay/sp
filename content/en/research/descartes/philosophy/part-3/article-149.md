@@ -6,7 +6,7 @@ description: "The Moon revolves around the Sun and the Earth at the same time."
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 ---
 

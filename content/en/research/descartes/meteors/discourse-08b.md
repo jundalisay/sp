@@ -3,7 +3,7 @@ heading: Discourse 8b
 title: The Effect of the Prism
 weight: 40
 description: There are many other rays that can reach the eye after 2 refractions and 1-2 reflections when this sphere is in another position
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

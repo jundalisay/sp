@@ -5,7 +5,7 @@ title: Anticipations Of Perception
 description: "The Application of the Categories Sensory Objects"
 weight: 20
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

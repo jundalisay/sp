@@ -5,7 +5,7 @@ weight: 7
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 description: "How does refraction work?"
 icon: "Rene Descartes"
 ---

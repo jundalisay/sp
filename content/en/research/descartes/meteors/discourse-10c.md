@@ -3,7 +3,7 @@ heading: Discourse 10c
 title: Instances When Many Suns Appeared in the Sky
 weight: 62
 description: It rarely happens that the cloud is so complete that more than 3 suns are seen at the same time
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

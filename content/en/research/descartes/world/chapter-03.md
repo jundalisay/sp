@@ -2,7 +2,7 @@
 title: "Hardness and Liquidity"
 heading: "Chapter 3"
 weight: 8
-c: "orangered"
+c: "darkgoldenrod"
 description: "There is an infinity of diverse motions that endure perpetually in the world"
 writer:
   name: Rene Descartes

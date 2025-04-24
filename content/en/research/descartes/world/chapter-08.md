@@ -4,7 +4,7 @@ title: The Formation of the Sun and the Stars
 #  in this new world
 # title: "The Creation of the Universe"
 weight: 18
-c: "orangered"
+c: "darkgoldenrod"
 description: "God put inequality and confusion among the parts of matter at the beginning"
 writer:
   name: Rene Descartes

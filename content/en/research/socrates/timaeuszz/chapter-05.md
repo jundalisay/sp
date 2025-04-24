@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "The Four Elements"
 weight: 24
-c: "orangered"
+c: "darkgoldenrod"
 description: "How is the body created?"
 draft: true
 writer:

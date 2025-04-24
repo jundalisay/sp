@@ -1,6 +1,6 @@
 ---
 title: "Definitions by Spinoza"
-c: "orangered"
+c: "darkgoldenrod"
 description: "Here the only requirement is that everyone should attend to his perceptions as accurately as possible"
 writer:
   name: Spinoza

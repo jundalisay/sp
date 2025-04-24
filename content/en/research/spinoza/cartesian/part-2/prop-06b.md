@@ -1,7 +1,7 @@
 ---
 heading: "Proposition 6b"
 title: "Refuting Zeno's Argument"
-c: "orangered"
+c: "darkgoldenrod"
 description: "We shall not examine the validity of Zeno's argument. Instead, we shall disclose his prejudices"
 writer:
   name: Spinoza

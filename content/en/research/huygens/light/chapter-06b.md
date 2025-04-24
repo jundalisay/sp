@@ -2,7 +2,7 @@
 heading: "Chapter 6b"
 title: Illustrations
 description: To demonstrate the effect of the curve, let there be described about the centre L the circular arc AH, cutting LG at H
-c: "orangered"
+c: "darkgoldenrod"
 weight: 30
 author: "Christiaan Huygens"
 icon: "Christiaan Huygens"

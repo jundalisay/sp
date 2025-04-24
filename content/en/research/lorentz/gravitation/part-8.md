@@ -5,8 +5,8 @@ writer:
   url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
 heading: Part 8
 description: Every theory of gravitation has to deal with the problem of the influence, exerted on this force by the motion of the heavenly bodies.
-image: "/covers/grav.jpg"
-icon: /icons/lor.png
+c: "darkgoldenrod"
+icon: "Hendrik Lorentz"
 # date2021-09-28"
 weight: 14
 ---

@@ -5,7 +5,7 @@ weight: 3
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-c: "orangered"
+c: "darkgoldenrod"
 description: "When we speak of man, we have a conception of humanity as a whole. We must accept this as a physical fact."
 ---
 

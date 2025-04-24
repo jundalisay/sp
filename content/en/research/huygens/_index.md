@@ -5,6 +5,6 @@ linkTitle: Huygens
 weight: 45
 description: "Huygens wrote about the aether and messed it up a bit"
 a: "Christiaan Huygens"
-c: "orangered"
+c: "darkgoldenrod"
 ---
 

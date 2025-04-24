@@ -5,7 +5,7 @@ weight: 10
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-c: "orangered"
+c: "darkgoldenrod"
 description: "This problem is by far the most important because of its intimate bearing on all the many  conditions which determine humanity's movement"
 ---
 

@@ -5,7 +5,7 @@ weight: 29
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "Fresnel fell into trouble for having enlisted in the small army which attempted to bar Napoleon's return"
 ---
 

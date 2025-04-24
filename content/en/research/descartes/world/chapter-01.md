@@ -3,7 +3,7 @@ title: "Our Sensations and the Things That Produce Them"
 linkTitle: "Our Sensations"
 heading: "Chapter 1"
 weight: 4
-c: "orangered"
+c: "darkgoldenrod"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 writer:
   name: Rene Descartes

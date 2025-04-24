@@ -6,5 +6,5 @@ date: 2025-03-16
 description: "Maupertuis invented Action (state-change) and the Principle of Least Action"
 # image: "/covers/mau.jpg"
 # a: "Maupertuis"
-c: "orangered"
+c: "darkgoldenrod"
 ---

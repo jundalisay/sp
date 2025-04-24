@@ -3,7 +3,7 @@ heading: Discourse 5
 title: Clouds
 weight: 24
 description: Vapors join and gather into various small clusters, which are water droplets or ice particles
-c: "orangered"
+c: "darkgoldenrod"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

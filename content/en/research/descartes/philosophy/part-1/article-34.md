@@ -6,7 +6,7 @@ description: "The will and the understanding are required for judging."
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "orangered"
+c: "darkgoldenrod"
 icon: "Rene Descartes"
 # aliases:
 #   /research/descartes/philosophy/part-1/section-02b

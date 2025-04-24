@@ -3,7 +3,7 @@ title: "The Twofold Exercise of Reason"
 description: "The Discipline of Pure Reason in the Sphere of Dogmatism"
 weight: 10
 author: Kant
-image: "Kant"
+icon: "Kant"
 ---
 
 

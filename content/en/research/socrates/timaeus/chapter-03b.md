@@ -5,7 +5,7 @@ writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
 weight: 18
-c: "orangered"
+c: "darkgoldenrod"
 description: "Why did the Creator make this world of generation?"
 ---
 

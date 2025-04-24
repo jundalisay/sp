@@ -2,9 +2,9 @@
 title: The Two Disturbances Of The Aether
 heading: Part 6
 description: I use Mossotti's idea which has been afterwards accepted by Wilhelm Weber and Zöllner.
-image: "/covers/grav.jpg"
+c: "darkgoldenrod"
 # date2021-09-28"
-icon: /icons/lor.png
+icon: "Hendrik Lorentz"
 writer:
   name: Hendrik Lorentz
   url: https://en.wikipedia.org/wiki/Hendrik_Lorentz

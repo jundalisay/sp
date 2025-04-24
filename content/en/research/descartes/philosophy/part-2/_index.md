@@ -5,7 +5,7 @@ heading: "Part 2"
 # date: 2022-01-29
 weight: 11
 description: "This part talks about the mechanics and principles of physical phenomena"
-c: "orangered"
+c: "darkgoldenrod"
 ---
 
 

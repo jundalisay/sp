@@ -5,7 +5,7 @@ weight: 69
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
-c: "orangered"
+c: "darkgoldenrod"
 description: "This Peltier effect, as it is called, is quite distinct from the ordinary Joulian liberation of heat"
 ---
 
