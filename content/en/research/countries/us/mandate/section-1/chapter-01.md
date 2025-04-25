@@ -11,9 +11,7 @@ author: "Rick Dearborn"
 
 The Constitution gives the “executive Power” to the President.1
 
-It designates him as “Commander in Chief”2 and gives him the responsibility to
-“take Care that the Laws be faithfully executed.”3 It further prescribes that the
-President might seek the assistance of “the principal Officer in each of the executive Departments.”4 Beginning with George Washington, every President has been supported by some form of White House office consisting of direct staff officers as well as a Cabinet comprised of department and agency heads.
+It designates him as “Commander in Chief”2 and gives him the responsibility to “take Care that the Laws be faithfully executed.”3 It further prescribes that the President might seek the assistance of “the principal Officer in each of the executive Departments.”4 Beginning with George Washington, every President has been supported by some form of White House office consisting of direct staff officers as well as a Cabinet comprised of department and agency heads.
 
 
 ### CHIEF OF STAFF

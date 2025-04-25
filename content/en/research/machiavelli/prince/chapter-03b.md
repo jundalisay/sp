@@ -5,7 +5,7 @@ author: "Machiavelli"
 description: "The prince who holds a country of different language, customs and law, should strengthen his weaker neighbours weaken his more powerful ones"
 weight: 4
 c: "maroon"
-icon: "/icons/mach.jpg"
+icon: "Machiavelli"
 ---
 
 

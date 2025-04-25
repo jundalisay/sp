@@ -5,7 +5,7 @@ author: "Machiavelli"
 description: "His successors maintained themselves, and had no other difficulty than that which arose among themselves"
 weight: 6
 c: "maroon"
-icon: "/icons/mach.jpg"
+icon: "Machiavelli"
 ---
 
 

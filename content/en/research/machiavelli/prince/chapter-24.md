@@ -5,7 +5,7 @@ author: "Machiavelli"
 description: "The actions of a new prince are more critically observed than those of an hereditary one"
 weight: 42
 c: "maroon"
-icon: "/icons/mach.jpg"
+icon: "Machiavelli"
 ---
 
 

@@ -5,7 +5,7 @@ author: "Machiavelli"
 description: "A wise lord cannot and should not keep faith when such promises may be turned against him, and when the reasons that caused him to promise no longer exist"
 weight: 30
 c: "maroon"
-icon: "/icons/mach.jpg"
+icon: "Machiavelli"
 ---
 
 

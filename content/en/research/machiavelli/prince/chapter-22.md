@@ -5,7 +5,7 @@ author: "Machiavelli"
 description: "The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince"
 weight: 40
 c: "maroon"
-icon: "/icons/mach.jpg"
+icon: "Machiavelli"
 ---
 
 

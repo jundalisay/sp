@@ -5,7 +5,7 @@ author: "Machiavelli"
 description: "It is easier to hold hereditary states, particularly those long accustomed to the family of their prince, than new ones"
 weight: 2
 c: "maroon"
-icon: "/icons/mach.jpg"
+icon: "Machiavelli"
 ---
 
 

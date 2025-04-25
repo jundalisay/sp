@@ -9,7 +9,11 @@ icon: "US"
 ---
 
 
-It should not be impossible even for a large national government to hire good people through merit selection. The government did so for years, but it has proven difficult in recent times to select personnel based on their knowledge, skills, and abilities (KSA) as the law dictates. Yet for the past 34 years, the U.S. civil service has been unable to distinguish consistently between strong and unqualified applicants for employment. As the Carter presidency was winding down, the U.S. Department of Justice and top lawyers at the OPM contrived with plaintiffs to end civil service IQ exam- inations because of concern about their possible impact on minorities.
+A large national government can hire good people through merit selection.
+
+The government did so for years, but it has proven difficult in recent times to select personnel based on their knowledge, skills, and abilities (KSA) as the law dictates. 
+
+Yet for the past 34 years, the U.S. civil service has been unable to distinguish consistently between strong and unqualified applicants for employment. As the Carter presidency was winding down, the U.S. Department of Justice and top lawyers at the OPM contrived with plaintiffs to end civil service IQ exam- inations because of concern about their possible impact on minorities.
 
 The OPM had used the Professional and Administrative Career Examination (PACE) gen- eral intelligence exam to select college graduates for top agency employment, but Carter Administration officials—probably without the President’s informed con- currence—abolished the PACE through a legal consent court decree capitulating to demands by civil rights petitioners who contended that it was discriminatory. The judicial decree was to last only five years but still controls federal hiring and is applied to all KSA tests even today.
 

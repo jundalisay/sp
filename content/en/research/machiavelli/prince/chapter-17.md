@@ -5,7 +5,7 @@ author: "Machiavelli"
 description: "Every prince should want to be considered kind and not cruel. Nevertheless, he should take care not to misuse this kindness"
 weight: 28
 c: "maroon"
-icon: "/icons/mach.jpg"
+icon: "Machiavelli"
 ---
 
 

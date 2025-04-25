@@ -5,7 +5,7 @@ author: "Machiavelli"
 description: "The prince who has more to fear from the people than from foreigners should build castles, but he who has more to fear from foreigners than from the people should leave them alone"
 weight: 38
 c: "maroon"
-icon: "/icons/mach.jpg"
+icon: "Machiavelli"
 ---
 
 

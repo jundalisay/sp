@@ -5,7 +5,7 @@ author: "Machiavelli"
 description: "All of the difficulties with church principalities occur prior to getting possession because they are acquired either by capacity or good fortune, and they can be held without either; for they are sustained by the ancient laws of religion"
 weight: 18
 c: "maroon"
-icon: "/icons/mach.jpg"
+icon: "Machiavelli"
 ---
 
 

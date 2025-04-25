@@ -7,49 +7,20 @@ icon: "US"
 ---
 
 
-Personnel and management adjustments are crucial preludes to refocus the
-State Department’s mission, which is implementing the President’s foreign policy
-agenda and, in so doing, ensuring that the interests of American citizens are given priority. That said, the next President must significantly reorient the U.S. government’s posture toward friends and adversaries alike—which will include much
-more honest assessments about who are friends and who are not. This reorien-
-tation could represent the most significant shift in core foreign policy principles
-and corresponding action since the end of the Cold War.
+The following are our proposals for reorienting the U.S. government’s posture toward friends and adversaries alike.
 
-Although not every country or issue area can be discussed in this chapter, below
-are examples of several areas in which a shift in U. S. foreign policy is not only import-
-ant, but arguably existential. The point is not to assert that everyone in the evolving
-conservative movement, or, in some cases, the growing bipartisan consensus, will
-agree with the details of this assessment. Rather, what is presented below demon-
-strates the urgency of these issues and provides a general roadmap for analysis.
-In a world on fire, a handful of nations require heightened attention. Some rep-
-resent existential threats to the safety and security of the American people; others
-threaten to hurt the U.S. economy; and others are wild cards, whose full threat
-scope is unknown but nevertheless unsettling. The five countries on which the next
-Administration should focus its attention and energy are China, Iran, Venezuela,
-Russia, and North Korea. The People’s Republic of China
 
-The designs of the People’s Republic of China (PRC) and the Chinese Communist Party, which runs the PRC, are serious and dangerous.9 This tyrannical
-country with a population of more than 1 billion people has the vision, resources,
-and patience to achieve its objectives. Protecting the United States from the PRC’s
-designs requires an unambiguous offensive-defensive mix, including protecting
-American citizens and their interests, as well as U.S. allies, from PRC attacks and
-abuse that undermine U.S. competitiveness, security, and prosperity.
-The United States must have a cost-imposing strategic response to make Beijing’s aggression unaffordable, even as the American economy and U.S. power grow.
+### China
 
-This stance will require real, sustained, near-unprecedented U.S. growth; stronger
-partnerships; synchronized economic and security policies; and American energy
-independence—but above all, it will require a very honest perspective about the
-nature and designs of the PRC as more of a threat than a competitor.10 The next
-President should use the State Department and its array of resources to reassess
-and lead this effort, just as it did during the Cold War. The U.S. government needs
-an Article X for China,11 and it should be a presidential mandate. Along with the
-National Security Council, the State Department should draft an Article X, which
-should be a deeply philosophical look at the China challenge.
+The designs the Chinese Communist Party are serious and dangerous.9 This tyrannical country with a population of more than 1 billion people has the vision, resources, and patience to achieve its objectives.
 
-Many foreign policy professionals and national leaders, both in government and
-the private sector, are reluctant to take decisive action regarding China. Many are
-vested in an unshakable faith in the international system and global norms. They
-are so enamored with them they cannot brook any criticisms or reforms, let alone acknowledge their potential for being abused by the PRC. Others refuse to acknowl-
-edge Beijing’s malign activities and often pass off criticism as conspiracy theories.
+Protecting the United States from the PRC’s designs requires an unambiguous offensive-defensive mix, including protecting American citizens and their interests, as well as U.S. allies, from PRC attacks and abuse that undermine U.S. competitiveness, security, and prosperity. The United States must have a cost-imposing strategic response to make Beijing’s aggression unaffordable, even as the American economy and U.S. power grow.
+
+This stance will require real, sustained, near-unprecedented U.S. growth; stronger partnerships; synchronized economic and security policies; and American energy independence—but above all, it will require a very honest perspective about the nature and designs of the PRC as more of a threat than a competitor.10
+
+The next President should use the State Department and its array of resources to reassess and lead this effort, just as it did during the Cold War. The U.S. government needs an Article X for China,11 and it should be a presidential mandate. Along with the National Security Council, the State Department should draft an Article X, which should be a deeply philosophical look at the China challenge.
+
+Many foreign policy professionals and national leaders, both in government and the private sector, are reluctant to take decisive action regarding China. Many are vested in an unshakable faith in the international system and global norms. They are so enamored with them they cannot brook any criticisms or reforms, let alone acknowledge their potential for being abused by the PRC. Others refuse to acknowledge Beijing’s malign activities and often pass off criticism as conspiracy theories.
 
 For instance, many were quick to dismiss even the possibility that COVID-19
 escaped from a Chinese research laboratory. The reality, however, is that the PRC’s

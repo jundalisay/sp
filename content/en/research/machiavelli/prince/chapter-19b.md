@@ -5,7 +5,7 @@ author: "Machiavelli"
 description: "Machiavelli says a prince must take bits of Marcus and Severus"
 weight: 34
 c: "maroon"
-icon: "/icons/mach.jpg"
+icon: "Machiavelli"
 ---
 
 

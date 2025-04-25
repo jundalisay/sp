@@ -10,26 +10,16 @@ icon: "US"
 
 ### PRIMARY RECOMMENDATION
 
-U.S. Customs and Border Protection (CBP) be combined with
-Immigration and Customs Enforcement (ICE); U.S. Citizenship
-and Immigration Services (USCIS); the Department of Health and
-Human Services (HHS) Office of Refugee Resettlement (ORR); and
-the Department of Justice (DOJ) Executive Office for Immigration
-Review (EOIR) and Office of Immigration Litigation (OIL) into a stand-
-alone border and immigration agency at the Cabinet level (more than
-100,000 employees, making it the third largest department measured
-by manpower).
+U.S. Customs and Border Protection (CBP) be combined with Immigration and Customs Enforcement (ICE).
 
-The Cybersecurity and Infrastructure Security Agency (CISA) be moved to
-the Department of Transportation.
+U.S. Citizenship and Immigration Services (USCIS); the Department of Health and Human Services (HHS) Office of Refugee Resettlement (ORR); and the Department of Justice (DOJ) Executive Office for Immigration Review (EOIR) and Office of Immigration Litigation (OIL) into a stand- alone border and immigration agency at the Cabinet level (more than 100,000 employees, making it the third largest department measured by manpower).
 
-Our primary recommendation is that the President pursue legislation to dis-
-mantle the Department of Homeland Security (DHS). After 20 years, it has not
-gelled into “One DHS.” Instead, its various components’ different missions have
-outweighed its decades-long attempt to function as one department, rendering
-the whole disjointed rather than cohesive. Breaking up the department along its
-mission lines would facilitate mission focus and provide opportunities to reduce
-overhead and achieve more limited government. In lieu of a status quo DHS, we
+The Cybersecurity and Infrastructure Security Agency (CISA) be moved to the Department of Transportation.
+
+Our primary recommendation is that the President pursue legislation to dismantle the Department of Homeland Security (DHS). After 20 years, it has not gelled into “One DHS.” 
+
+Instead, its various components’ different missions have outweighed its decades-long attempt to function as one department, rendering
+the whole disjointed rather than cohesive. Breaking up the department along its mission lines would facilitate mission focus and provide opportunities to reduce overhead and achieve more limited government. In lieu of a status quo DHS, we
 recommend that:
 
 The Federal Emergency Management Agency (FEMA) be moved to the
@@ -66,15 +56,7 @@ gration laws impartially.
 
 ### OVERVIEW
 
-The Department of Homeland Security (DHS) was created in the aftermath of
-the terrorist attacks of September 11, 2001, and subsequent mailings of anthrax
-spores. The Homeland Security Act of 2002,1 which created the department, states
-that DHS’s primary mission is to prevent terrorist attacks within the U.S.; reduce
-the nation’s vulnerability to terrorism; minimize the damage from and assist in the
-recovery from any terrorist attacks; prepare and respond to natural and manmade
-crises and emergencies; and monitor connections between illegal drug trafficking
-and terrorism, coordinate efforts to sever such connections, and interdict illegal
-drug trafficking.
+The Department of Homeland Security (DHS) was created in the aftermath of the terrorist attacks of September 11, 2001, and subsequent mailings of anthrax spores. The Homeland Security Act of 2002,1 which created the department, states that DHS’s primary mission is to prevent terrorist attacks within the U.S.; reduce the nation’s vulnerability to terrorism; minimize the damage from and assist in the recovery from any terrorist attacks; prepare and respond to natural and manmade crises and emergencies; and monitor connections between illegal drug trafficking and terrorism, coordinate efforts to sever such connections, and interdict illegal drug trafficking.
 
 lSecure and control the border;
 lThoroughly enforce immigration laws;
@@ -126,43 +108,13 @@ Oversee transportation security.
 
 ### OFFICE OF THE SECRETARY (SEC)
 
-In the next Administration, the Office of the Secretary should take on the fol-
-lowing key issues and challenges to ensure the effective operation of DHS.
-Expansion of Dedicated Political Personnel. The Secretary of Homeland
-Security is a presidentially appointed and Senate-confirmed political appointee,
-but for budgetary reasons, he or she has historically been unable to fund a dedi-
-cated team of political appointees. A key first step for the Secretary to improve
-front-office functions is to have his or her own dedicated team of political appoin-
-tees selected and vetted by the Office of Presidential Personnel, which is not reliant
-on detailees from other parts of the department, to help ensure the completion of
-the next President’s agenda.
+In the next Administration, the Office of the Secretary should take on the fol- lowing key issues and challenges to ensure the effective operation of DHS. Expansion of Dedicated Political Personnel. The Secretary of Homeland Security is a presidentially appointed and Senate-confirmed political appointee, but for budgetary reasons, he or she has historically been unable to fund a dedi- cated team of political appointees. A key first step for the Secretary to improve front-office functions is to have his or her own dedicated team of political appoin- tees selected and vetted by the Office of Presidential Personnel, which is not reliant on detailees from other parts of the department, to help ensure the completion of the next President’s agenda.
 
 An Aggressive Approach to Senate-Confirmed Leadership Positions.
-While Senate confirmation is a constitutionally necessary requirement for
-appointing agency leadership, the next Administration may need to take a novel
-approach to the confirmations process to ensure an adequate and rapid transition.
-For example, the next Administration arguably should place its nominees for key
-positions into similar positions as “actings” (for example, putting in a person to
-serve as the Senior Official Performing the Duties of the Commissioner of CBP
-while that person is going through the confirmation process to direct ICE or
-become the Secretary). This approach would both guarantee implementation of
-the Day One agenda and equip the department for potential emergency situations
-while still honoring the confirmation requirement. The department should also
-look to remove lower-level but nevertheless important positions that currently
-require Senate confirmation from the confirmation requirement, although this
-effort would require legislation (and might also be mooted in the event of legisla-
-tion that closes portions of the department that currently have Senate-confirmed
-leadership).
 
-Clearer, More Durable, and Political-Only Line of Succession. Based on
-previous experience, the department needs legislation to establish a more durable
-but politically oriented line of succession for agency decision-making purposes.
-The ideal sequence for line of succession is certainly debatable, except that in cir-
-cumstances where a career employee holds a leadership position in the department,
-that position should be deemed vacant for line-of-succession purposes and the next
-eligible political appointee in the sequence should assume acting authority. Further, individuals wielding acting Secretary authority should have explicit authority to
-finalize agency actions, including regulations, to ensure that the department’s
-homeland security mission is fulfilled.
+While Senate confirmation is a constitutionally necessary requirement for appointing agency leadership, the next Administration may need to take a novel approach to the confirmations process to ensure an adequate and rapid transition. For example, the next Administration arguably should place its nominees for key positions into similar positions as “actings” (for example, putting in a person to serve as the Senior Official Performing the Duties of the Commissioner of CBP while that person is going through the confirmation process to direct ICE or become the Secretary). This approach would both guarantee implementation of the Day One agenda and equip the department for potential emergency situations while still honoring the confirmation requirement. The department should also look to remove lower-level but nevertheless important positions that currently require Senate confirmation from the confirmation requirement, although this effort would require legislation (and might also be mooted in the event of legisla- tion that closes portions of the department that currently have Senate-confirmed leadership).
+
+Clearer, More Durable, and Political-Only Line of Succession. Based on previous experience, the department needs legislation to establish a more durable but politically oriented line of succession for agency decision-making purposes. The ideal sequence for line of succession is certainly debatable, except that in cir- cumstances where a career employee holds a leadership position in the department, that position should be deemed vacant for line-of-succession purposes and the next eligible political appointee in the sequence should assume acting authority. Further, individuals wielding acting Secretary authority should have explicit authority to finalize agency actions, including regulations, to ensure that the department’s homeland security mission is fulfilled.
 
 Certification by applicants that they comply with all aspects of federal
 immigration laws, including the honoring of all immigration detainers.

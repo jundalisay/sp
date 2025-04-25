@@ -5,7 +5,7 @@ author: "Machiavelli"
 description: "A prince should have no other aim or thought, nor select anything else for his study, than war and its rules and discipline"
 weight: 24
 c: "maroon"
-icon: "/icons/mach.jpg"
+icon: "Machiavelli"
 ---
 
 
