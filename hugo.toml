@@ -159,23 +159,27 @@ pagerSize = 24
     [[languages.en.params.cards]]
       img = "/avatars/descartes.jpg"
       title = "Material Superphysics"
-      sub = "The Soul of the Physical Universe without a Void"
+      sub = "Replacing the Physics of Newton and Einstein with that of Descartes and Spinoza"
+      # sub = "The Soul of the Physical Universe without a Void"
       url = "/material"
     [[languages.en.params.cards]]
       img = "/photos/meta/yinyang.jpg"
       # img = "/avatars/hahnemann.jpg"
       title = "Bio Superphysics"
-      sub = "The Nature of the Living Soul Integrated with Physicality"
+      sub = "Biology and Medicine the combines Western and Asian Principles"
+      # sub = "The Nature of the Living Soul Integrated with Physicality"
       url = "/bio"
     [[languages.en.params.cards]]
       img = "/avatars/smith.jpg"
       title = "Social Superphysics"
-      sub = "The Soul of Society Made up of Living Souls"
+      sub = "A Society as a Metaphysical Cyclical Organism"
+      # sub = "The Soul of Society Made up of Living Souls"
       url = "/social"
     [[languages.en.params.cards]]
       img = "/avatars/buddha.jpeg"
       title = "Spiritual Superphysics"
-      sub = "Unifying the Living Soul with the Oversoul into Void"
+      sub = "Upgrading Experience beyond Matter and into the Aether"
+      # sub = "Unifying the Living Soul with the Oversoul into Void"
       url = "/spiritual"
     [[languages.en.params.cards]]
       img = "/photos/meta/om.jpg"
