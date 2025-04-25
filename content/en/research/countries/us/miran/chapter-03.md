@@ -4,7 +4,7 @@ title: Tariffs
 weight: 18
 date: 2024-11-01
 description: "Heritage Foundation'"
-image: "/flags/us.png"
+c: "maroon"
 ---
 
 

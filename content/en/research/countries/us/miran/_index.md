@@ -5,6 +5,6 @@ weight: 4
 author: Stephen Miran
 description: "While Trumpism is the Mandate, Trumponomics is by Miran"
 c: "maroon"
-# image: "/flags/us.png"
+# c: "maroon"
 ---
 

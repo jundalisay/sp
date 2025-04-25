@@ -4,7 +4,7 @@ title: Introduction
 weight: 8
 date: 2024-11-01
 description: ""
-image: "/flags/us.png"
+c: "maroon"
 ---
 
 

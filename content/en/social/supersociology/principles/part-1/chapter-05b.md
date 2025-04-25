@@ -13,6 +13,10 @@ icon: "Social Superphysics"
 ---
 
 
+Social cyles divide the society into 4 belligerent factions. These then consolidate as 2 since there are only 2 Forces in Nature. 
+
+When the negative force dominates, civil war occurs.
+
 There are 3  mmain combinations: 
 
 1. Worker + Warrior Versus Thinker + Trader
@@ -26,21 +30,23 @@ This is the most common and natural combination. This is seen in:
 
 2. Worker + Trader Versus Warrior + Thinker
 
-![WWTT](/graphics/social/mix1.png)
+![WWTT](/graphics/social/mix2.png)
 
-Liberal versus Conservative
+This is seen as Liberal versus Conservative. 
+
+In ancient times, this happened as Marius (Warriors) versus Sulla (Traders).
+
 
 2. Worker + Thinker Versus  Warrior + Trader
 
-![WWTT](/graphics/social/mix1.png)
+![WWTT](/graphics/social/mix3.png)
 
 This is not so common. 
 
-Currently, this is seen in Pakistn. 
+Currently, this is seen in Pakistan where the worker class (as the masses) allies with the thinker class (as the Taliban). 
 
 
 ### Other Variations
 
 It may be possible to have 3 versus 1. For examnple, Venezuela has Worker, Warrior, and Thinker going against Traders.  But these would be easy to spot and would not need a comple model. 
-
 
