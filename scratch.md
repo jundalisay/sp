@@ -1,3 +1,20 @@
+
+<div style="background-color: {{ .Params.c }}" class="mx-auto text-white flex items-center justify-center min-h-[200px] rounded-lg shadow hover:scale-110 text-white w-full">
+  <a href="{{ .Permalink }}">
+      <div class="text-center p-6">
+        <h3 class="text-3xl text-white font-bold leading-6">{{ .Title }}</h3>
+        <hr class="my-2 border-white opacity-50 w-2/3 mx-auto">
+        <p class="text-sm text-gray-200">{{ .Params.heading }}</p>
+        {{ if .Params.showdate }}
+          <div class="leading-none text-gray-500 text-sm">
+             {{ .Params.date.Format "January 2, 2006"  }}
+          </div>
+        {{- end }}
+      </div>
+  </a>
+</div>
+
+
 ⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻⁼⁽⁾ⁿⁱ
 
 
