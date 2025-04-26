@@ -3,34 +3,45 @@
 
 <style type="text/css">
 
-    body {
-      margin: 0;
-      background: black !important;
-/*          overflow-x: hidden;
-    max-width: 100vw;*/
-    }
+ html, body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
 
-    .stars-container {
-      position: relative;
-      width: 100vw;
-/*      height: 100vh;*/
-      overflow: hidden;
-    }
+  #main-content {
+    position: relative;
+    background: black;
+    overflow: hidden;
+  }
 
+  canvas#starCanvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+  }
 
-    header {background-color: black !important;}
-
-    .star {
-      position: absolute;
-      width: 2px;
-      height: 2px;
-      background: white;
-      border-radius: 50%;
-    }
-
+  .stars-container {
+    position: relative;
+    z-index: 1;
+    color: white;
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+  }
 </style>
 
-<div class="bg-black dark:bg-black stars-container">
+
+<div id="main-content">
+  <canvas id="starCanvas"></canvas>
+
+  <div class="bg-black dark:bg-black stars-container">
 
   <section class="w-full max-w-screen-sm mx-auto">
     <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-12 text-center py-8 lg:pt-16">
@@ -115,60 +126,117 @@
     </div>
   </section>
 
+
+  </div>
 </div>
 
 
+
+
+
   <script>
-    const numStars = 400;
-    const stars = [];
-    const container = document.querySelector('.stars-container');
+ const canvas = document.getElementById('starCanvas');
+  const ctx = canvas.getContext('2d');
 
-    for (let i = 0; i < numStars; i++) {
-      const star = document.createElement('div');
-      star.className = 'star';
-      container.appendChild(star);  // Append stars to the container
+  let width = window.innerWidth;
+  let height = window.innerHeight;
+  canvas.width = width;
+  canvas.height = height;
 
-      stars.push({
-        el: star,
-        x: (Math.random() - 0.5) * window.innerWidth,
-        y: (Math.random() - 0.5) * window.innerHeight,
-        z: Math.random() * 1000 + 200
-      });
-    }
+  const numStars = 400;
+  const stars = [];
+  const centerX = width / 2;
+  const centerY = height / 2;
 
-    function animate() {
-      const centerX = window.innerWidth / 2;
-      const centerY = window.innerHeight / 2;
+  // Define some star colors
+  const starColors = [
+    'rgba(255, 255, 255, 1)',  // White
+    'rgba(255, 200, 200, 1)',  // Soft red
+    'rgba(255, 255, 200, 1)',  // Yellowish
+    'rgba(200, 200, 255, 1)',  // Light blue
+    'rgba(255, 220, 180, 1)',  // Warm orange
+    'rgba(180, 220, 255, 1)'   // Cool blue
+  ];
 
-      for (let s of stars) {
-        s.z -= 1; // Speed towards the viewer
+  for (let i = 0; i < numStars; i++) {
+    const startFromCenter = Math.random() < 0.5;
+    const speed = Math.random() * 2 + 0.5;
+    const isFast = Math.random() < 0.1;
 
-        if (s.z < 1) {
-          s.z = 1000;
-          s.x = (Math.random() - 0.5) * window.innerWidth;
-          s.y = (Math.random() - 0.5) * window.innerHeight;
-        }
-
-        const scale = 500 / s.z;
-        const x = s.x * scale + centerX;
-        const y = s.y * scale + centerY;
-
-        s.el.style.transform = `translate(${x}px, ${y}px) scale(${scale})`;
-        s.el.style.opacity = `${1 - s.z / 1000}`;
-      }
-
-      requestAnimationFrame(animate);
-    }
-
-    animate();
-
-    // Handle resize
-    window.addEventListener('resize', () => {
-      for (let s of stars) {
-        s.x = (Math.random() - 0.5) * window.innerWidth;
-        s.y = (Math.random() - 0.5) * window.innerHeight;
-      }
+    stars.push({
+      angle: Math.random() * 2 * Math.PI,
+      distance: startFromCenter ? 0 : Math.random() * Math.max(width, height),
+      speed: isFast ? speed * 3 : speed,
+      size: isFast ? Math.random() * 1 + 1.5 : Math.random() * 2 + 1,
+      twinkleSpeed: Math.random() * 0.05 + 0.01,
+      twinklePhase: Math.random() * Math.PI * 2,
+      color: starColors[Math.floor(Math.random() * starColors.length)], // Pick random color
+      isFast: isFast
     });
+  }
+
+  function animate(time) {
+    ctx.clearRect(0, 0, width, height);
+
+    for (let s of stars) {
+      s.distance += s.speed;
+
+      const x = centerX + Math.cos(s.angle) * s.distance;
+      const y = centerY + Math.sin(s.angle) * s.distance;
+
+      const twinkle = 0.5 + 0.5 * Math.sin(time * s.twinkleSpeed + s.twinklePhase);
+      const alpha = 0.5 + twinkle * 0.5;
+
+      ctx.beginPath();
+      // Color but adjust alpha for twinkle
+      ctx.fillStyle = s.color.replace('1)', `${alpha.toFixed(2)})`);
+
+      if (s.isFast) {
+        ctx.shadowBlur = 8;
+        ctx.shadowColor = s.color;
+      } else {
+        ctx.shadowBlur = 0;
+      }
+
+      ctx.arc(x, y, s.size, 0, Math.PI * 2);
+      ctx.fill();
+
+      // Reset if offscreen
+      if (
+        x < -100 || x > width + 100 ||
+        y < -100 || y > height + 100
+      ) {
+        s.angle = Math.random() * 2 * Math.PI;
+        s.distance = 0;
+        s.speed = (Math.random() * 2 + 0.5) * (Math.random() < 0.1 ? 3 : 1);
+        s.size = Math.random() < 0.1 ? Math.random() * 1 + 1.5 : Math.random() * 2 + 1;
+        s.twinkleSpeed = Math.random() * 0.05 + 0.01;
+        s.twinklePhase = Math.random() * Math.PI * 2;
+        s.color = starColors[Math.floor(Math.random() * starColors.length)];
+      }
+    }
+
+    requestAnimationFrame(animate);
+  }
+
+  requestAnimationFrame(animate);
+
+  // window.addEventListener('resize', () => {
+  //   width = window.innerWidth;
+  //   height = window.innerHeight;
+  //   canvas.width = width;
+  //   canvas.height = height;
+  // });
+
+function resizeCanvas() {
+  const mainContent = document.getElementById('main-content');
+  canvas.width = mainContent.offsetWidth;
+  canvas.height = mainContent.offsetHeight;
+}
+
+resizeCanvas();
+window.addEventListener('resize', resizeCanvas);
+  
   </script>
 
 {{ end }}
