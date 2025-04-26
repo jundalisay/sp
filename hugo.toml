@@ -166,19 +166,19 @@ pagerSize = 24
       img = "/photos/meta/yinyang.jpg"
       # img = "/avatars/hahnemann.jpg"
       title = "Bio Superphysics"
-      sub = "Biology and Medicine the combines Western and Asian Principles"
+      sub = "Biology and Medicine that combines Western and Asian Principles"
       # sub = "The Nature of the Living Soul Integrated with Physicality"
       url = "/bio"
     [[languages.en.params.cards]]
       img = "/avatars/smith.jpg"
       title = "Social Superphysics"
-      sub = "A Society as a Metaphysical Cyclical Organism"
+      sub = "A Society as a Cyclical Metaphysical Organism"
       # sub = "The Soul of Society Made up of Living Souls"
       url = "/social"
     [[languages.en.params.cards]]
       img = "/avatars/buddha.jpeg"
       title = "Spiritual Superphysics"
-      sub = "Upgrading Experience beyond Matter and into the Aether"
+      sub = "Upgrading Experience beyond Matter and into the Aether or Akasha"
       # sub = "Unifying the Living Soul with the Oversoul into Void"
       url = "/spiritual"
     [[languages.en.params.cards]]

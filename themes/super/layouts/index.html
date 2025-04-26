@@ -13,7 +13,7 @@
     .stars-container {
       position: relative;
       width: 100vw;
-      height: 100vh;
+/*      height: 100vh;*/
       overflow: hidden;
     }
 
@@ -141,7 +141,7 @@
       const centerY = window.innerHeight / 2;
 
       for (let s of stars) {
-        s.z -= 5; // Speed towards the viewer
+        s.z -= 1; // Speed towards the viewer
 
         if (s.z < 1) {
           s.z = 1000;
