@@ -13,7 +13,7 @@ icon: "Juan"
 ---
 
 
-{{< q a="Smith" c="History of Astronomy, Part 9" >}}
+{{< q a="Adam Smith" c="History of Astronomy, Part 9" >}}
 Descartes is among the first of the moderns who took away the boundaries of the Universe.
 {{< /q >}}
 

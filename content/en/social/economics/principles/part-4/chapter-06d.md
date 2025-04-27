@@ -14,7 +14,7 @@ writer:
 The mercantile system enshrines money as wealth. This is opposite of the traditional political economy which based wealth of actual goods and services in society. The value of these goods were properly pegged to grains. 
 
 
-{{< q a="Smith" c="Wealth of Nations Book 5, Chapter 2" >}}
+{{< q a="Adam Smith" c="Wealth of Nations Book 5, Chapter 2" >}}
 Some landlords, instead of a rent in money, require a rent in kind, in corn, cattle, poultry, wine, oil, etc. Others require a rent in service  
 {{< /q >}}
 
@@ -47,7 +47,7 @@ Since banks gain revenue by taking a cut of the circulating money, they constant
 - In France during the time of John Law, the French govern,ent created a bank that issued excessive paper notes
 - In England, the Ayr Bank also printed excessive bank notes, while the South Sea Bubble printed stocks
 
-{{< q a="Smith" c="Lectures in Jurisprudence">}}
+{{< q a="Adam Smith" c="Lectures in Jurisprudence">}}
 Mr. Law made his notes payable in the devalued money as 'the money of the day'. Instead of promising to pay for his notes in pounds sterling, he paid in crowns and half-crowns
 {{< /q >}}
 

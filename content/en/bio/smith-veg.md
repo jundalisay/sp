@@ -78,7 +78,7 @@ In The Wealth of Nations, Smith talks about the qualities of each major crop, fa
 {{< img src="/photos/objects/potatoes.jpg" alt="Potatoes" >}}
 
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 But potatoes are different. The chairmen, porters, prostitutes and coal-heavers in London are the strongest men and the most beautiful women in Britain. 
 
 They come from the poorest people in Ireland who eat potatoes. This proves the nourishing quality of potatoes. So we can say that, of all the basic plant-based foods, Smith advocated potatoes and wheat the most.

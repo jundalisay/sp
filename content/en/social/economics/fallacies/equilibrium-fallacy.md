@@ -45,7 +45,7 @@ Samuelson then goes through a few more paragraphs to prove this.
 
 Smith uses only 4 sentences to explain this from the viewpoint of an impartial spectator (not as a buyer nor seller):
 
-{{< q a="Smith" c="Adam Smith, Wealth of Nations, Book 1, Chapter 4" >}}
+{{< q a="Adam Smith" c="Adam Smith, Wealth of Nations, Book 1, Chapter 4" >}}
 The things which have the greatest value in use have frequently little or no value in exchange. On the contrary, those which have the greatest value in exchange have frequently little or no value in use. Nothing is more useful than water: but it will purchase scarce any thing; scarce any thing can be had in exchange for it. A diamond, on the contrary, has scarce any value in use; but a very great quantity of other goods may frequently be had in exchange for it.
 {{< /q >}}
 
@@ -137,7 +137,7 @@ This mercantile supply curve is also seen in modern economics textbooks as the "
 
 Smith's supply curve can be seen in Book 1 of The Wealth of Nations, and like Samuelson, is based on cost and not profits.
 
-{{< q a="Smith" c="Wealth Of Nations Book 1, Chapter 7" >}}
+{{< q a="Adam Smith" c="Wealth Of Nations Book 1, Chapter 7" >}}
 When the price of any commodity is neither more nor less than what is sufficient to pay the rent, wages, and profits employed in raising, preparing, and bringing it to market, according to their natural rates, the commodity is sold its natural price... The natural price is the lowest price that a dealer can sell his goods for any considerable time in the state of perfect liberty, or where he may change his trade as he pleases.
 {{< /q >}}
 
@@ -167,7 +167,7 @@ If a company is unable to supply the needs of its customers, then other companie
 
 Therefore, the upward sloping curve can only be true if the company had a monopoly and could charge high prices at higher quantities. This means that both the mercantilist and manufacturer's supply curves exist only in a non-free world, or one that follows a survival-of-the-fittest doctrine, which Smith explains simply:
 
-{{< q a="Smith" c="Wealth Of Nations Book 1, Chapter 7" >}}
+{{< q a="Adam Smith" c="Wealth Of Nations Book 1, Chapter 7" >}}
 The price of monopoly is.. the highest.. The natural price, or the price of free competition.. is the lowest..
 {{< /q >}}
 

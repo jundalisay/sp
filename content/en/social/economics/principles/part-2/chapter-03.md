@@ -32,7 +32,7 @@ We call this tendency to use our capital for society in the fastest time possibl
 - The more capital that you have, the more pressure to use it and to use it for more people.
 
 
-{{< q a="Smith" c="Wealth of Nations Book 2, Chapter 1" >}}
+{{< q a="Adam Smith" c="Wealth of Nations Book 2, Chapter 1" >}}
 In all countries where there is tolerable security, every man will try to use his stock in procuring present enjoyment or future profit..
 
 A man must be crazy to not employ all his stock, whether borrowed or not if there is tolerable security.

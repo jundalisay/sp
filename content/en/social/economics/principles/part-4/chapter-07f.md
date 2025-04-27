@@ -39,7 +39,7 @@ Everyone was then taught to keep on maximizing and increasing private profits. T
 
 <!-- However, the bad effect of teaching profit maximization in the later part of the 19th century is that everyone from the early part of the 20th century **became programmed to go after high profits**. They were no longer happy with low profits, at higher frequency, which was advocated by Classical Economics: -->
 
-{{< q a="Smith" c="Wealth of Nations Book 1, Chapter 5" >}}
+{{< q a="Adam Smith" c="Wealth of Nations Book 1, Chapter 5" >}}
 A country fully stocked in all the trades possible would have great competition everywhere. It would reduce ordinary profits to the minimum.
 {{< /q >}}
 

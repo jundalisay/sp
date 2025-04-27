@@ -20,7 +20,7 @@ Smith writes in The Wealth of Nations, that the Physiocrats' ideas were flawed b
 However, Smith was generally in favor of the Physiocrats because it prefers the labor theory, agricultural development, and most especially, human liberty for the benefit of society:
 
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 This system, however, with all its imperfections is, perhaps, the nearest approximation to the truth that has yet been published upon the subject of political œconomy, and is upon that account well worth the consideration of every man who wishes to examine with attention the principles of that very important science.
 {{< /q >}}
 
@@ -28,14 +28,14 @@ This system, however, with all its imperfections is, perhaps, the nearest approx
 Smith wrote his own version of the Physiocrats' laissez faire (which was itself derived from Chinese Taoist concepts) in his chapter on the Physiocrats:
 
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 All systems either of preference or of restraint, therefore, being thus completely taken away, the obvious and simple system of natural liberty establishes itself of its own accord. Every man, as long as he does not violate the laws of justice, is left perfectly free to pursue his own interest his own way, and to bring both his industry and capital into competition with those of any other man, or order of men. 
 
 The sovereign is completely discharged from a duty, in the attempting to perform which he must always be exposed to innumerable delusions, and for the proper performance of which no human wisdom or knowledge could ever be sufficient; the duty of superintending the industry of private people, and of directing it towards the employments most suitable to the interest of the society.
 {{< /q >}}
 
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 According to the system of natural liberty, the sovereign has only 3 great duties to attend to that are plain and intelligible to common understandings:
 
 1. To protect the society from violence and invasion of other independent societies

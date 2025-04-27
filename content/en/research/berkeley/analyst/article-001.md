@@ -1,9 +1,9 @@
 ---
-title: "The Analyst: a Discourse addressed to an Infidel Mathematician"
+title: "The Method of Fluxions"
 # heading: "Englightened"
 weight: 7
 description: ""
-image: "/covers/berkeley.jpg"
+:c: "darkblue"
 author: "George Berkeley"
 icon: "George Berkeley"
 ---
@@ -13,13 +13,13 @@ icon: "George Berkeley"
 By the Author of The Minute Philosopher. -->
 
 
-First cast out the beam out of thine own Eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.S. Matt. c. vii. v. 5.
+<!-- First cast out the beam out of thine own Eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.S. Matt. c. vii. v. 5.
 LONDON:
 
 Printed for J. Tonson in the Strand. 1734.
 
 
-Ornamentation for p7 of Berkeley's 'The analyst'
+Ornamentation for p7 of Berkeley's 'The analyst' -->
 
 
 <!-- SECT. 1. Mathematicians presumed to be the great Masters of Reason. Hence an undue deference to their decisions where they have no right to decide. This one Cause of Infidelity.
@@ -123,59 +123,79 @@ Ornamentation for p7 of Berkeley's 'The analyst'
 50. Occasion of this Address. Conclusion. Queries.
  -->
 
-1. I am a Stranger to your Person, yet I am not, Sir, a Stranger to the Reputation you have acquired, in that branch of Learning which hath been your peculiar Study; nor to the Authority that you therefore assume in things foreign to your Profession, nor to the Abuse that you, and too many more of the like Charader, are known to make of such undue Authority, to the misleading of unwary Persons in matters of the highest Concernment, and whereof your mathematical Knowledge can by no means qualify you to be a competent Judge. 
+<!-- 1. I am a Stranger to your Person, yet I am not, Sir, a Stranger to the Reputation you have acquired, in that branch of Learning which hath been your peculiar Study; nor to the Authority that you therefore assume in things foreign to your Profession, nor to the Abuse that you, and too many more of the like Charader, are known to make of such undue Authority, to the misleading of unwary Persons in matters of the highest Concernment, and whereof your mathematical Knowledge can by no means qualify you to be a competent Judge. 
 
 Equity indeed and good Sense would incline one to disregard the Judgment of Men, in Points which they have not considered or examined. But several who make the loudest Claim to those Qualities, do, nevertheless, the very thing they would seem to despise, clothing themselves in the Livery of other Mens opinions, and putting on a general deference for the Judgment of you, Gentlement, who are presumed to be of all Men the greatest Masters of Reson, to be most conversant about distinct Ideas, and never to take things upon trust, but always clearly to see your way, as Men whose constant Employment is the deducing Truth by the justest inference from the most evident Principles. With this bias on their Minds, they submit to your Decisions where you have no right to decide. And that this is one short way of making Infidels I am credibly informed.
 
 2. Whereas then it is supposed, that you apprehend more distinctly, consider more closely, infer more justly, conclude more accurately than other men, and that you are therefore less religious because more judicious, I shall claim the privilege of a Free-Thinker; and take the Liberty to inquire into the Object, Principles, and Method of Demonstration admitted by the Mathematicians of the present Age, with the same freedom that you presume to treat the Principles and Mysteries of Religion; to the end, that all Men may see what right you have to lead, or what Encouragement others have to follow you. It hath been an older remark that Geometry is an excellent Logic. 
 
-When the Definitions are clear; when the Postulata cannot be refused, nor the Axioms denied; when from the distinct Contemplation and Comparison of Figures, their Properties are derived, by a perpetual well-connected chain of Consequences, the Objects being still kept in view, and the attention ever fixed upon them; there is acquired an habit of reasoning, close and exact and methodical: which habit strengthens and sharpens the Mind, and being transferred to other Subjects, is of general use in the inquiry after Truth. But how far this is the case of our Geometrical Analysts, it may be worth while to consider.
+When the Definitions are clear; when the Postulata cannot be refused, nor the Axioms denied; when from the distinct Contemplation and Comparison of Figures, their Properties are derived, by a perpetual well-connected chain of Consequences, the Objects being still kept in view, and the attention ever fixed upon them; there is acquired an habit of reasoning, close and exact and methodical: which habit strengthens and sharpens the Mind, and being transferred to other Subjects, is of general use in the inquiry after Truth. But how far this is the case of our Geometrical Analysts, it may be worth while to consider. -->
 
 
-3. The Method of Fluxions is the general Key, by help whereof the modern Mathematicians unlock the secrets of Geometry, and consequently of Nature.
+3. The Method of Fluxions is the general Key that modern Mathematicians use to unlock the secrets of Geometry, and consequently of Nature.
 
-And as it is that which hath enabled them so remarkably to outgo the Ancients in discovering Theorems and solving Problems, the exercise and application thereof is become the main, if not sole, employment of all those who in this Age pass for profound Geometers. 
+<!-- And as it is that which hath enabled them so remarkably to outgo the Ancients in discovering Theorems and solving Problems, the exercise and application thereof is become the main, if not sole, employment of all those who in this Age pass for profound Geometers. 
 
-But whether this Method be clear or obscure, consistent or repugnant, demonstrative or precarious, as I shall inquire with the utmost impartiality, so I submit my inquiry to your own Judgment, and that of every candid Reader. Lines are supposed to be generated[1] by the motion of Points, Plains by the motion of Lines, and Solids by the motion of Plains.
+But whether this Method be clear or obscure, consistent or repugnant, demonstrative or precarious, as I shall inquire with the utmost impartiality, so I submit my inquiry to your own Judgment, and that of every candid Reader.  -->
 
-And whereas Quantities generated in equal times are greater or lesser, according to the greater or lesser Velocity, wherewith they increase and are generated, a Method hath been found to determine Quantities from the Velocities of their generating Motions. 
 
-And such Velocities are called Fluxions: and the Quantities generated are called flowing Quantities. These Fluxions are said to be nearly as the Increments of the flowing Quantities, generated in the least equal Particles of time; and to be accurately in the first Proportion of the nascent, or in the last of the evanescent, Increments.
+- Lines are supposed to be generated[1] by the motion of Points
+- Planes by the motion of Lines
+- Solids by the motion of Planes
+
+Quantities generated in equal times are greater or lesser, according to the greater or lesser Velocity, wherewith they increase and are generated, a Method hath been found to determine Quantities from the Velocities of their generating Motions. 
+
+- Such Velocities are called Fluxions.
+- The Quantities generated are called flowing Quantities.
+
+These Fluxions are said to be nearly as the Increments of the flowing Quantities, generated in the least equal Particles of time.
+- These are accurately in the first Proportion of the nascent, or in the last of the evanescent, Increments.
 
 Sometimes, instead of Velocities, the momentaneous Increments or Decrements of undetermined flowing Quantities are considered, under the Appellation of Moments.
 
 
-4. By Moments we are not to understand finite Particles. 
-
+4. Moments are not finite Particles. 
 
 Finite Particles are Quantities generated from Moments, which last are only the nascent Principles of finite Quantities. 
 
 It is said, that the minutest Errors are not to be neglected in Mathematics: that the Fluxions are Celerities, not proportional to the finite Increments though ever so small; but only to the Moments or nascent Increments, whereof the Proportion alone, and not the Magnitude, is considered. 
 
-And of the aforesaid Fluxions there be other Fluxions, which Fluxions of Fluxions are called second Fluxions. 
+The Fluxions of Fluxions are called second Fluxions. 
 
 The Fluxions of these second Fluxions are called third Fluxions: and soon, fourth, fifth, sixth, &c. ad infinitum. 
 
-Our Sense is strained and puzzled with the perception of Objects extremely minute, even so the Imagination, which Faculty derives from Sense, is very much strained and puzzled to frame clear Ideas of the least Particles of time, or the least Increments generated therein: and much more so to comprehend the Moments, or those Increments of the flowing Quantities in statu nascenti, in their very first origin or beginning to exist, before they become finite Particles.
+Our Sense is strained and puzzled with the perception of Objects extremely minute.
+
+Our Imagination, which Faculty derives from Sense, is very much strained and puzzled to frame clear Ideas of the least Particles of time, or the least Increments generated therein. 
+
+Our Imagination is much more so to comprehend the Moments, or those Increments of the flowing Quantities in statu nascenti, in their very first origin or beginning to exist, before they become finite Particles.
 
 It is still more difficult, to conceive the abstracted Velocities of such nascent imperfect Entities. 
 
-But the Velocities of the Velocities, the second, third, fourth and fifth Velocities, &c. exceed, if I mistake not, all Humane Underftanding. 
+But the Velocities of the Velocities, the second, third, fourth and fifth Velocities, &c. exceed all Human Underftanding. 
 
-The further the Mind analyseth and pursueth these fugitive Ideas, the more it is lost and bewildered; the Objects, at first fleeting and minute, soon vanishing out of sight. 
+The further the Mind analyses these fugitive Ideas, the more it is lost and bewildered.
+
+The Objects, at first fleeting and minute, soon vanishing out of sight. 
 
 Certainly in any Sense a second or third Fluxion seems an obscure Mystery. 
 
-The incipient Celerity of an incipient Celerity, the nascent Augment of a nascent Augment, i. e. of a thing which hath no Magnitude: Take it in which light you please, the clear Conception of it will, if I mistake not, be found impossible, whether it be so or no I appeal to the trial of every thinking Reader. And if a second Fluxion be inconceivable, what are we to think of third, fourth, fifth Fluxions, and so onward without end?
+The incipient Celerity of an incipient Celerity, the nascent Augment of a nascent Augment, i. e. of a thing which hath no Magnitude: 
+
+The clear Conception of it will be found impossible.
+
+If a second Fluxion be inconceivable, what are we to think of third, fourth, fifth Fluxions, and so onward without end?
 
 
 5. The foreign Mathematicians are said to proceed in a way less accurate and geometrical, yet more intelligible. 
 
 Instead of flowing Quantities and their Fluxions, they consider the variable finite Quantities, as increasing or diminishing by the continual Addition or Subduction of infinitely small Quantities.
 
-Instead of the Velocities wherewith Increments are generated, they consider the Increments or Decrements themselves, which they call Differences, and which are supposed to be infinitely small.
+Instead of the Velocities wherewith Increments are generated, they consider the Increments or Decrements themselves. They call these Differences, and which are supposed to be infinitely small.
 
-The Difference of a Line is an infinitely little Line; of a Plain an infinitely little Plain. 
+The Difference of a Line is an infinitely little Line.
+
+The Difference of a Plane is an infinitely little Plane. 
 
 They suppose finite Quantities to consist of Parts infinitely little, and Curves to be Polygones, whereof the Sides are infinitely little, which by the Angles they make one with another determine the Curvity of the Line.
 
@@ -184,12 +204,23 @@ To conceive a Quantity infinitely small, that is, infinitely less than any sensi
 But to conceive a Part of such infinitely small Quantity, that shall be still infinitely less than it, and consequently though multiply'd infinitely shall never equal the minutest finite Quantity, is, I suspect, an infinite Difficulty to any Man whatsoever; and will be allowed such by those who candidly say what they think; provided they really think and reflect, and do not take things upon trust.
 
 
-6. Yet in the calculus differentialis, which Method serves to all the same Intents and Ends with that of Fluxions, our modern Analysts are not content to consider only the Differences of finite Quantities: they also consider the Differences of those Differences, and the Differences of the Differences of the first Differences. And so on ad infinitum.
+6. Yet in the calculus differentialis, which Method serves to all the same Intents and Ends with that of Fluxions.
 
-They consider Quantities infinitely less than the least discernible Quantity; and others infinitely less than those infinitely small ones; and still others infinitely less than the preceding Infinitesimals, and so on without end pr limit. 
+Our modern Analysts consider:
+- the Differences of finite Quantities
+- the Differences of those Differences
+- the Differences of the Differences of the first Differences.
 
-Insomuch that we are to admit an infinite succession of Infinitesimals, each infinitely less than the foregoing, and infinitely greater than the following.
+And so on ad infinitum.
+
+They consider Quantities infinitely less than the least discernible Quantity and others infinitely less than those infinitely small ones, and still others infinitely less than the preceding Infinitesimals, and so on without end or limit. 
+
+This leads to an infinite succession of Infinitesimals, each:
+- infinitely less than the foregoing, and
+- infinitely greater than the following.
 
 As there are first, second, third, fourth, fifth, &c. Fluxions, so there are Differences, first, second, third, fourth, &c. in an infinite Progression towards nothing, which you still approach and never arrive at.
 
-And (which is most strange) although you should take a Million of Millions of these Infinitesimals, each whereof is supposed infinitely greater than some other real Magnitude, and add them to the least given Quantity, it shall be never the bigger. For this is one of the modest postulata of our modern Mathematicians, and is a Corner-stone or Ground-work of their Speculations.
+The most strange is that you can take a Million of Millions of these Infinitesimals.. Each of them is supposed infinitely greater than some other real Magnitude. You then add them to the least given Quantity, yet it shall be never the bigger. 
+
+For this is one of the modest postulata of our modern Mathematicians, and is a Corner-stone or Ground-work of their Speculations.

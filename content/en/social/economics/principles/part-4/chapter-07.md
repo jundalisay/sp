@@ -56,7 +56,7 @@ Those four are equivalent to the classification of Socrates:
 
 Rent is a regular revenue from the lack of land while taxes are also a regular revenue from the lack of power by the other person. Rent-seeking is someone who can gain revenue because he can do so, without necessarily creating value in return.
 
-{{< q a="Smith" c="Wealth Of Nations Book 1, Chapter 11" >}}
+{{< q a="Adam Smith" c="Wealth Of Nations Book 1, Chapter 11" >}}
 The rent of land is naturally a monopoly price.
 {{< /q >}}
 
@@ -70,7 +70,7 @@ This lack of choice is in turn caused by the fact that humans have no choice but
 
 Wages are therevenue needed to maintain oneself and whatever else is important to one's life (such as one's family). Having high wages therefore means having more ability to live life, as compared to a low wage person who is limited in life. Labor or work is the main activity required to live. You need to work to find something to eat which in turn is needed to stay alive.
 
-{{< q a="Smith" c="Wealth Of Nations Book 1, Chapter 8" >}} 
+{{< q a="Adam Smith" c="Wealth Of Nations Book 1, Chapter 8" >}} 
 According to Cantillon, the lowest labourer must earn at least double his own maintenance so that he can bring up two children with the help of his wife.
 {{< /q >}}
 
@@ -92,7 +92,7 @@ If a con-man sold you an ordinary rock for $1,000 saying it came from Mars, and 
 
 Profits can be confounded with wages in other ways. For example, a salesman might earn a fixed wage plus a 5% commission for anything he sells. In his case, his commission is a profit. But since he lives off of his wages more, then we can say that he lives by wages.
 
-{{< q a="Smith" c="Wealth Of Nations, Book 1, Chapter 4" >}}
+{{< q a="Adam Smith" c="Wealth Of Nations, Book 1, Chapter 4" >}}
 Workers generally overwork themselves when liberally paid by the piece and ruin their health in a few years.. The same thing happens in other trades where the workers are paid by the piece wherever wages are higher than ordinary.
 {{< /q >}}
 
@@ -141,7 +141,7 @@ Donations are revenue similar to profits but are caused by anabundance instead o
 Thus in Eastern metaphysics, we can say that donations are usually the revenue of the intellectual class or brahmin (the head of the body).
 
 
-{{< q a="Smith" c="Wealth Of Nations, Book 5, Chapter 1" >}}
+{{< q a="Adam Smith" c="Wealth Of Nations, Book 5, Chapter 1" >}}
 The fee or honorary which the scholar pays the teacher is naturally a revenue of this kind.
 {{< /q >}}
 

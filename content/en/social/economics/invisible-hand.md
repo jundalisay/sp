@@ -152,7 +152,7 @@ Therefore, a natural economy, following the invisible hand:
 - distributes those products and services through fair exchange
 
 
-{{< q a="Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
 Every individual necessarily works to render the society's annual revenue as great as he can. He generally does not:
 - intend to promote the public interest, or
 - know how much he is promoting it
@@ -167,7 +167,7 @@ By directing that industry to produce the greatest value, he intends only his ow
 
 Since we replaced selfish-interest with personal passion, we can safely edit the phrase below:
 
-{{< q a="Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 4, Chapter 2" >}}
 **By pursuing his** ~~own interest~~ **personal passion**, he frequently promotes the society's interest more effectively than when he really intends to promote it. I have never known much good done by those who affected to trade for the public good. It is an affectation not very common among merchants. Very few words can be used to dissuade them from it.
 {{< /q >}}
 

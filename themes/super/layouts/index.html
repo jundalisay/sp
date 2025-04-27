@@ -43,88 +43,87 @@
 
   <div class="bg-black dark:bg-black stars-container">
 
-  <section class="w-full max-w-screen-sm mx-auto">
-    <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-12 text-center py-8 lg:pt-16">
+    <!-- max-w-screen-sm -->
+    <section class="w-full mx-auto">
+      <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-12 text-center py-8 lg:pt-16">
 
-      <h1 class="text-3xl sm:text-4xl mb-4 text-white font-extrabold tracking-tight leading-tight">
-        {{ .Site.Params.title }}
-      </h1>
-      <h2 class="text-xl sm:text-2xl mb-8 text-white tracking-tight leading-tight">
-        {{ .Site.Params.subtitle }}
-      </h2>
-      <div class="mx-auto w-full max-w-sm aspect-video rounded-lg overflow-hidden shadow-lg mb-12">
-        <iframe
-          class="w-full h-full"
-          src="https://www.youtube.com/embed/mNwyj7WHKKo?autoplay=1&mute=1"
-          title="What is Superphysics? A new Science!"
-          loading="lazy"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
+        <h1 class="text-3xl sm:text-4xl mb-4 text-white font-extrabold tracking-tight leading-tight">
+          {{ .Site.Params.title }}
+        </h1>
+        <h2 class="text-xl sm:text-2xl mb-8 text-white tracking-tight leading-tight">
+          {{ .Site.Params.subtitle }}
+        </h2>
+        <div class="mx-auto w-full max-w-sm aspect-video rounded-lg overflow-hidden shadow-lg mb-12">
+          <iframe
+            class="w-full h-full"
+            src="https://www.youtube.com/embed/mNwyj7WHKKo?autoplay=1&mute=1"
+            title="What is Superphysics? A new Science!"
+            loading="lazy"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
 
+        </div>
       </div>
-    </div>
-  </section>
+    </section>
 
 
 
-  <section class="mx-auto text-center mb-6 py-24 lg:py-32">
-    <h3 class="text-4xl font-bold tracking-tight text-white dark:text-white">{{ .Site.Params.sub }}</h3>
+    <section class="mx-auto text-center mb-6 py-24 lg:py-32">
+      <h3 class="text-4xl font-bold tracking-tight text-white dark:text-white">{{ .Site.Params.sub }}</h3>
 
-    <div class="flex justify-center">
-    {{ with .Site.Params.icons }}
-      {{ range . }}
-        {{ partial "icons.html" . }}
-      {{ end }}
-    {{ end }}
-    </div>
-  </section>
-
-
-  {{ with .Site.Params.quote1 }}
-    {{ range . }}
-      {{ partial "quoter.html" . }}
-    {{ end }}
-  {{ end }}
-
-
-
-  <section class="mx-auto text-center p-6">
-    <h3 class="text-4xl font-bold tracking-tight dark:text-white mb-6">{{ .Site.Params.head }}</h3>
-
-    <div class="flex flex-wrap justify-center gap-4 p-4">
-      {{ with .Site.Params.cards }}
+      <div class="flex justify-center">
+      {{ with .Site.Params.icons }}
         {{ range . }}
-          {{ partial "cards.html" . }}
+          {{ partial "icons.html" . }}
         {{ end }}
       {{ end }}
-    </div>
-  </section>
+      </div>
+    </section>
 
 
-
-
-  {{ with .Site.Params.quote2 }}
-    {{ range . }}
-      {{ partial "quoter.html" . }}
-    {{ end }}
-  {{ end }}
-
-
-  <section class="mx-auto text-center p-6">
-    <h3 class="text-4xl font-bold tracking-tight dark:text-white mb-6">{{ .Site.Params.lets }}</h3>
-
-    <!-- <div class="flex justify-center flex-wrap gap-4"> -->
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-    {{ with .Site.Params.panels }}
+    {{ with .Site.Params.quote1 }}
       {{ range . }}
-        {{ partial "panels.html" . }}
+        {{ partial "quoter.html" . }}
       {{ end }}
     {{ end }}
-    </div>
-  </section>
+
+
+
+    <section class="mx-auto text-center p-6">
+      <h3 class="text-4xl font-bold tracking-tight dark:text-white mb-6">{{ .Site.Params.head }}</h3>
+
+      <div class="flex flex-wrap justify-center gap-4 p-4">
+        {{ with .Site.Params.cards }}
+          {{ range . }}
+            {{ partial "cards.html" . }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </section>
+
+
+    {{ with .Site.Params.quote2 }}
+      {{ range . }}
+        {{ partial "quoter.html" . }}
+      {{ end }}
+    {{ end }}
+
+
+    <section class="mx-auto text-center p-6">
+      <h3 class="text-4xl font-bold tracking-tight dark:text-white mb-6">{{ .Site.Params.lets }}</h3>
+
+      <!-- <div class="flex justify-center flex-wrap gap-4"> -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        {{ with .Site.Params.panels }}
+          {{ range . }}
+            {{ partial "panels.html" . }}
+          {{ end }}
+        {{ end }}
+      </div>
+    </section>
 
 
   </div>

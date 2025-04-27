@@ -25,7 +25,7 @@ Value is subjectivized desire, Prices are objectivized desire | The desires in t
 
 
 
-{{< q a="Smith" c="Book 1, Chapter 3 of The Wealth of Nations Simplified" >}}
+{{< q a="Adam Smith" c="Book 1, Chapter 3 of The Wealth of Nations Simplified" >}}
 I shall explain [exchangable value] as fully as I can. I earnestly hopefor the reader's patience to examine something tedious, and his attention to understand what may still be obscure after the fullest explication.
 {{< /q >}}
 

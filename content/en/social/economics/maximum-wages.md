@@ -38,7 +38,7 @@ This gives money a sort of premium over the goods and services that it circulate
 
 Adam Smith says that a consequence of food-based valuation was the tendency to cause people to overwork themselves. 
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 Almost all craftsmen suffer from some infirmity by overwork.
 
 Ramazzini, an eminent Italian physician, has written a book about such diseases.

@@ -3,13 +3,15 @@ title: "Mathematicians Deceived"
 # heading: "Englightened"
 weight: 17
 description: ""
-image: "/covers/berkeley.jpg"
+:c: "darkblue"
 ---
 
 
-15. Nothing is plainer than that no just Conclusion can be directly drawn from two inconsistent Suppositions. You may indeed suppose any thing possible: But afterwards you may not suppose any thing that destroys what you first supposed.
+15. No just Conclusion can be directly drawn from 2 inconsistent Suppositions.
 
-Or if you do, you must begin de novo. If therefore you suppose that the Augments vanish, i. e. that there are no Augments, you are to begin again, and see what follows from such Supposition. 
+You cannot suppose any thing that destroys what you first supposed. If you do, you must begin de novo.
+
+If therefore you suppose that the Augments vanish, i. e. that there are no Augments, you are to begin again, and see what follows from such Supposition. 
 
 But nothing will follow to your purpose. You cannot by that means ever arrive at your Conclusion, or succeed in, what is called by the celebrated Author, the Investigation of the first or last Proportions of nascent and evanescent Quantities, by instituting the Analysis in finite ones. I repeat it again: You are at liberty to make any possible Supposition: 
 

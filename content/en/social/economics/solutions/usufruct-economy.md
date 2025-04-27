@@ -116,7 +116,7 @@ Sale to Lease  -->
 
 The transition from the circular economy into the usufruct economy will create a change in mindset from permanent personal ownership, into temporary rent or borrowing. This is more in line with Nature where no one lives forever in the physical domain. 
 
-{{< q a="Smith" q="Wealth of Nations Book 5 Chapter 3" >}}
+{{< q a="Adam Smith" q="Wealth of Nations Book 5 Chapter 3" >}}
 There are much more people in France who are averse to marry than in England. Such people have little or no care for posterity. It is most convenient for them to exchange their capital for a revenue that will last as long as they wish.
 {{< /q >}}
 

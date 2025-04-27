@@ -213,7 +213,7 @@ If we restore the gold standard, are we to return also to the pre-war conception
 
 Keynes falls hook, line, and sinker for the mercantilist doctrine that money is wealth: 
 
-{{< q a="Smith" c="The Wealth of Nations Simplified Book 4, Chapter 1.34" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified Book 4, Chapter 1.34" >}}
 Money..frequently signifies wealth, and this ambiguity of expression has rendered this popular notion so familiar to us that even they who are convinced of its absurdity are very apt to.. take it for granted as an.. undeniable truth. Some of the best English writers upon commerce set out with observing that the wealth of a country consists, not in its gold and silver only, but in its lands, houses, and consumable goods.. 
 
 In the course of their reasonings, however, the lands, houses, and consumable goods seem to slip out of their memory, and.. their argument frequently supposes that all wealth consists in gold and silver, and that to multiply those metals is the great object of national industry and commerce.

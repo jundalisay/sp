@@ -61,7 +61,7 @@ This has 4 phases:
 {{< i s="/graphics/econ/povertycycles.png" a="Poverty Cycle" >}}
 
 
-{{< q a="Smith" c="The Wealth of Nations, Book 2, Chapter 3" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations, Book 2, Chapter 3" >}}
 “Capitals are increased by parsimony and decreased by prodigality and misconduct.. The prodigal encroaches on his capital by not confining his expence within his income.. If the prodigality of some was not compensated by the frugality of others, the country would soon be impoverished.”
 {{< /q >}}
 

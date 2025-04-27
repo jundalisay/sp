@@ -36,7 +36,7 @@ Human wants and needs arise inside the human mind as a reaction to external worl
 
 Since the perception of value is based on the experiences of the perceiver, a quantitative valuation of pleasure and pain or of goods and services will only be useful to the perceiver himself. Person A may rate an object with a value of 10. Such a rating may be totally irrelevant to Person B who rates it with a value of 2, but may be relevant to Person C who rates it with a value of 9. A just society is one which respects the individual value perceptions and feelings of all of its members:
 
-{{< q a="Smith" c="WN Book 4, Chap. 3, Par. 40" >}}
+{{< q a="Adam Smith" c="WN Book 4, Chap. 3, Par. 40" >}}
 And hence it is, that to feel much for others and little for ourselves, that to restrain our selfish, and to indulge our benevolent affections, constitutes the perfection of human nature. (TMS, Part 1, Par. 44)
 {{< /q >}}
 

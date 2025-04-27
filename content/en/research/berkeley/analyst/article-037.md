@@ -3,7 +3,7 @@ title: "The Analyst: a Discourse addressed to an Infidel Mathematician"
 # heading: "Englightened"
 weight: 47
 description: ""
-image: "/covers/berkeley.jpg"
+:c: "darkblue"
 ---
 
 

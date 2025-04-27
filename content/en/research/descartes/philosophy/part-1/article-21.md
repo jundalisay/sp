@@ -13,15 +13,33 @@ icon: "Rene Descartes"
 ---
 
 
+
+<!-- XXI. That the sole duration of our life suffices to demonstrate that God exists. I do not believe that one can doubt the truth of this demonstration, provided that one pays attention to the nature of time or the duration of our life (Le Gras, p. 16), for being such that its parts 
+
+do not depend on one another and never exist together; From the fact that we exist now, it does not necessarily follow that we will exist a moment later, if some cause, namely the same one that produced us, does not continue to produce us, that is to say, does not preserve us. And we easily recognize that there is no force within us by which we can subsist or 
+
+preserve ourselves for a single moment, and that the one who has so much power that he makes us subsist outside of himself and who preserves us must preserve himself, or rather has no need to be preserved by anyone, and finally that he is God. -->
+
+
+
 #### 21. Our lifetime alone is enough to demonstrate the existence of God.
 
-The truth of this demonstration will clearly appear, provided we consider the nature of time, or the duration of things. 
+The truth of this demonstration will clearly appear, provided we consider:
+- the nature of time, or
+- the duration of things. 
 
-The parts of timespan are not mutually dependent and never co-existent. Accordingly, our 'now' is different from the next moment. This is unless some cause, i.e. our Creator, shall continually reproduce us by conserving us.
+The parts of timespan are not mutually dependent and never co-existent. 
 
- <!-- fact that we now are, it does not necessarily follow that we shall be a moment afterwards,  -->
+We exist now.
 
-For we easily understand that there is no power in us by which we can conserve ourselves, and that the being who has so much power as to conserve us out of himself, must also by so much the greater reason conserve himself, or rather stand in need of being conserved by no one whatever, and, in fine, be God.
+But it does not follow that we will exist in the next moment. This is unless the cause of our existence preserves our continued existence. 
+
+We know that:
+- we have no inherent power to keep our existence persisting in every moment
+- another being has so much power to keep our existence out of himself
+
+This means that that being, as God, preserves himself.
+
 
 
 

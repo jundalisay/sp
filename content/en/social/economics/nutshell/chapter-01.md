@@ -44,7 +44,7 @@ Not content with cash crops, traders entered oil in the early 1970’s as a resu
 
 Later, traders globalized food, putting rice on the same footing as a cash crop subject to market forces. This led to the 2008 Food Crisis along with the Financial Crisis. As nothing was done to regulate commodity futures trading, the crisis returned in 2022. Since grains are the basis for other commodities, this has led to chronic inflation:
 
-{{< q a="Smith" c="The Wealth of Nations Book 1, Chapter 5" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Book 1, Chapter 5" >}}
 “The money price of labour fluctuates according to the price of ordinary subsistence. The ordinary price of this subsistence is regulated by the value of silver [money], which is then regulated by the price of wheat.. Although the nominal prices have increased, the ratio of the real prices of labour to the real price of wheat is the same” 
 {{< /q >}}
 

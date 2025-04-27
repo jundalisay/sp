@@ -16,7 +16,7 @@ icon: /icons/pantry.png
 
 Adam Smith's economic system encourages competition for a race to the bottom. 
 
-{{< q a="Smith" c="Book 1, Chapter 10" >}}
+{{< q a="Adam Smith" c="Book 1, Chapter 10" >}}
 A young man's education would be more effective, less tedious, and less expensive if he began working diligently as a journeyman. He would be paid in proportion to the little work he could do.
 
 The master would be a loser because he would lose 7 years of wages to his apprentice.

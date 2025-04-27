@@ -21,7 +21,7 @@ According to Adam Smith, a crisis begins when a country's industry does not matc
 - The 1929 Crash was caused by stock traders who overvalued stocks
 - The Mississippi Scheme was caused by John Law overvaluing the economic potential of Louisiana
 
-{{< q a="Smith" c="The Wealth of Nations Simplified, Book 4" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 4" >}}
 The general industry of society can never exceed what the capital of the society can employ.. the number that can be employed by a society must be proportional to the total capital of that society. No commercial regulation can increase industry beyond what its capital can maintain. It can only divert some of it into a direction which it might not otherwise have gone into. It is uncertain whether this artificial direction will be more advantageous than its natural direction.
 {{< /q >}}
 

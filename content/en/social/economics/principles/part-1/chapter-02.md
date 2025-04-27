@@ -37,7 +37,7 @@ In order to facilitate exchanges of goods and services, humans need a tool.
 
 Historically, the tools for exchange were commodities: 
 
-{{< q a="Smith" c="Wealth of Nations, Book 1, Chapter 4" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 1, Chapter 4" >}}
 Homer says that the armour of Diomede cost only 9 oxen, and that of Glaucus cost 100 oxen.
 
 The following were the common instrument of commerce:
@@ -70,7 +70,7 @@ Gradually, as humans became more civilized, they chose precious coins as their t
 
 Coins standardized the value and prevented fraud:
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 Mints are institutions exactly of the same nature as the aulnagers and stampmasters of woollen and linen cloth. Through a public stamp, they ascertain the amount and uniform goodness of those commodities when brought to market. 
 
 The first public stamps affixed to precious metals were intended to ascertain the goodness or fineness of the metal.

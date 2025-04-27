@@ -37,7 +37,7 @@ This has a natural hierarchy. For example, a rock's atoms are bound by the stron
 The problem was that the Greeks interpreted the 'earth' element to be literally the Earth planet and the 'fire' element to be the Sun!
 
 
-{{< q a="Smith" c="History of Astronomy" >}}
+{{< q a="Adam Smith" c="History of Astronomy" >}}
 Before the Concentric Spheres system was taught in the world, the earth was regarded as a vast and irregular plain, surrounded on all sides by the ocean.. This was believed by Xenophanes, the founder of the Eleatic philosophy.. [and] Thales of Miletus too, who, according to Aristotle, represented the Earth as floating on an immense ocean of water.
 {{< /q >}}
 

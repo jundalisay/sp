@@ -16,7 +16,7 @@ In the essay [The Idea of a Perfect Commonwealth](/research/hume/essays/part-2/1
 
 In [Lectures on Jurisprudence](/research/smith/jurisprudence/part-1/section-1/chapter-13), Adam Smith wrote about the advantages of the Swiss voting system:
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 When there are 100 votes and three candidates A, B, and C, the most odious candidate might get elected. There might be 34 votes for A,and 33 for B, and 33 for C. Thus, A wins even if there are 66 votes against him. 
 
 To solve this, they vote on two candidates first to arrive at one candidate and then vote on him and the last candidate. 

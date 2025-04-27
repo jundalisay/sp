@@ -27,9 +27,9 @@
     </div>
     <p class="text-sm font-light text-white text-center mt-4">
       {{ if (isset .Site.Params "copyright") }}
-      {{ .Site.Params.copyright | safeHTML }}
+        {{ .Site.Params.copyright | safeHTML }}
       {{ else }}
-      {{ dateFormat "2006" now }} © {{ .Site.Title }}
+        {{ dateFormat "2006" now }} © {{ .Site.Title }}
       {{ end }}
     </p>
   </div>

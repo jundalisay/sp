@@ -33,7 +33,7 @@ Unlike businesses which act on selfish-interest, governments are bound to serve 
 To Smith, both micro and macroeconomics should show consistent behavior, as both are made up of human actions:
 
 
-{{< q a="Smith" c="WN Book 4, Chap. 3, Par. 40" >}}
+{{< q a="Adam Smith" c="WN Book 4, Chap. 3, Par. 40" >}}
 The same maxims which would in this manner direct the common sense of one, or ten, or twenty individuals, should regulate the judgment of one, or ten, or twenty millions.
 {{< /q >}}
 

@@ -141,7 +141,7 @@ Thinking leads to philosophies. Of all the philosophies, Islam is the natural on
 
 This is supported by Adam Smith: 
 
-{{< q a="Smith" c="Lectures on Jurisprudence Simplified, Part 1, Chapter 3" >}} Generally,the situation of a country, and its improvement in agriculture and trade are favourable to the introduction of a republican government. There is little probability that republican governments will ever be introduced into Tartary or Arabia, because their country cannot be improved. 
+{{< q a="Adam Smith" c="Lectures on Jurisprudence Simplified, Part 1, Chapter 3" >}} Generally,the situation of a country, and its improvement in agriculture and trade are favourable to the introduction of a republican government. There is little probability that republican governments will ever be introduced into Tartary or Arabia, because their country cannot be improved. 
 {{< /q >}}
 
 

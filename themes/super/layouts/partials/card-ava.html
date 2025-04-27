@@ -2,10 +2,10 @@
   <a href="{{ .Permalink }}">
     <div class="flex items-center justify-between p-6">
       <div class="text-center">
-        <h2 class="text-3xl leading-6 font-bold dark:text-white !dark:text-white">{{ .Title }}</h2>
+        <h2 class="text-3xl leading-6 font-bold !text-white !dark:text-white">{{ .Title }}</h2>
         <hr class="my-2 border-white opacity-50 mx-auto w-2/3">
         {{ with .Params.y }}
-          <p class="text-sm font-semibold">{{ . }}</p>
+          <p class="text-sm font-semibold !text-white !dark:text-white">{{ . }}</p>
         {{ end }}
       </div>
       <div class="w-24 h-24 rounded-full overflow-hidden ml-4 shadow-md">

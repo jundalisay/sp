@@ -1,22 +1,31 @@
 ---
 title: "Mathematicians Deceived"
-# heading: "Englightened"
+heading: "Article 7"
 weight: 11
 description: ""
-image: "/covers/berkeley.jpg"
+:c: "darkblue"
 ---
 
 
 
-7. All these Points are supposed and believed by certain rigorous Exactors of Evidence in Religion, Men who pretend to believe no further than they can see. 
+7. All these Points are believed by Men who believe only what they see. 
 
-That Men, who have been conversant only about clear Points, should with difficulty admit obscure ones might not seem altogether unaccountable. 
+<!-- certain rigorous Exactors of Evidence in Religion,  who pretend to believe no further than they can see.  -->
 
-But he who can digest a second or third Fluxion, a second or third Difference, need not, methinks, be squeamish about any Point in Divinity.
+They hesitate to admit that there might be obscure Points.
 
-There is a natural Presumption that Mens Faculties are made alike. It is on this Supposition that they attempt to argue and convince one another.
+<!--  might not seem altogether unaccountable. 
+That Men, who have been conversant only about clear Points, should  -->
 
-What, therefore, shall appear evidently impossible and repugnant to one, may be presumed the same to another. But with what appearance of Reason shall any Man presume to say, that Mysteries may not be Objects of Faith, at the same time that he himself admits such obscure Mysteries to be the Object of Science?
+<!-- But he who can digest a second or third Fluxion, a second or third Difference, need not, methinks, be squeamish about any Point in Divinity. -->
+
+They believe that Mens Faculties are made alike. They use this as basis for their debates.
+
+ <!-- and convince one another. -->
+
+So what is impossible and repugnant to one person is presumed to be impossible and repugnant to another person. 
+
+But with what appearance of Reason shall any Man presume to say, that Mysteries may not be Objects of Faith, at the same time that he himself admits such obscure Mysteries to be the Object of Science?
 
 
 
@@ -26,77 +35,132 @@ They scruple not to say, that by the help of these new Analytics they can penetr
 
 <!-- But, notwithstanding all these Assertions and Pretensions, it may be justly questioned whether, as other  or Terms, so they likewise are not -->
 
-Mathematicians are wonderfully deceived and deluded by their own peculiar Signs, Symbols, or Species just as Men in other Inquiries are often deceived by Words and Terms. 
+**Mathematicians are wonderfully deceived and deluded by their own peculiar Signs, Symbols, or Species just as Men in other Inquiries are often deceived by Words and Terms.**
 
 It is easy to devise Expressions or Notations for Fluxions and Infinitesimals of the first, second, third, fourth and subsequent Orders, proceeding in the same regular form without end or limit &c. or dx. ddx. dddx. ddddx &c.
 
 These Expressions are clear and distinct. The Mind finds no difficulty in conceiving them to be continued beyond any assignable Bounds. 
 
-But if we remove the Veil and look underneath, if laying aside the Expressions we set our selves attentively to consider the things themselves, which are supposed to be expressed or marked thereby, we shall discover much Emptiness, Darkness, and Confusion;
+But if we remove the Veil and look underneath and see what they represent, we see much Emptiness, Darkness, and Confusion, direct Impossibilities and Contradictions.
 
-nay, if I mistake not, direct Impossibilities and Contradictions. Whether this be the case or no, every thinking Reader is intreated to examine and judge for himself.
+ <!-- if laying aside the Expressions we set our selves attentively to consider the things themselves, which are supposed to be expressed or marked thereby, we shall discover  -->
 
 
-9. Having considered the Object, I proceed to consider the Principles of this new Analysis by Momentums, Fluxions, or Infinitesimals; wherein if it shall appear that your capital Points, upon which the rest are supposed to depend, include Error and false Reasoning; it will then follow that you, who are at a loss to conduct your selves, cannot with any decency set up for guides to other Men.
+9. What are the Principles of this new Analysis by Momentums, Fluxions, or Infinitesimals?
 
-The main Point in the method of Fluxions is to obtain the Fluxion or Momentum of the Rectangle or Product of two indeterminate Quantities. Inasmuch as from thence are derived Rules for obtaining the Fluxions of all other Products and Powers; be the Coefficients or the Indexes what they will, integers or fractions, rational or surd. 
+Their capital Points, upon which the rest are supposed to depend, include Error and false Reasoning.
 
-Now this fundamental Point one would think should be very clearly made out, considering how much is built upon it, and that its Influence extends throughout the whole Analysis. But let the Reader judge. 
+This means that they cannot guide others. 
 
-This is given for Demonstration.[2] Suppose the Product or Rectangle AB increased by continual Motion: and that the momentaneous Increments of the Sides A and B are a and b. 
+The main Point in the method of Fluxions is to obtain the Fluxion or Momentum of the Rectangle or Product of 2 indeterminate Quantities. 
 
-When the Sides A and B were deficient, or lesser by one half of their Moments, the Rectangle was ... And as soon as the Sides A and B are increased by the other two halves of their Moments, the Rectangle becomes 
+Inasmuch as from thence are derived Rules for obtaining the Fluxions of all other Products and Powers; be the Coefficients or the Indexes what they will, integers or fractions, rational or surd. 
+
+Now this fundamental Point one would think should be very clearly made out, considering how much is built upon it, and that its Influence extends throughout the whole Analysis.
+
+This is given for Demonstration.[2] 
+
+Suppose the Product or Rectangle `AB` increased by continual Motion.
+- The momentaneous Increments of the Sides `A` and `B` are `a` and `b`.
+
+When the Sides `A` and `B` were deficient, or lesser by one half of their Moments, the Rectangle was 
+
+... 
+
+As soon as the Sides A and B are increased by the other two halves of their Moments, the Rectangle becomes 
+
+...
 
 or 
 
 ... 
 
-From the latter Rectangle subduct the former, and the remaining difference will be aB + bA. Therefore the Increment of the Rectangle generated by the intire Increments a and b is aB + bA. Q.E.D. 
+From the latter Rectangle subduct the former. 
 
-But it is plain that the direct and true Method to obtain the Moment or Increment of the Rectangle AB, is to take the Sides as increased by their whole Increments, and so multiply them together, A + a by B + b, the Product whereof AB + aB + bA + ab is the augmented Rectangle whence if we subduct AB, the Remainder aB + bA + ab will be the true Increment of the Rectangle, exceeding that which was obtained by the former illegitimate and indirect Method by the Quantity ab. 
+The remaining difference will be `aB + bA`. 
+
+Therefore the Increment of the Rectangle generated by the intire Increments a and b is aB + bA. Q.E.D. 
+
+
+But the direct and true Method to obtain the Moment or Increment of the Rectangle AB is to take the Sides as increased by their whole Increments
+- `A + a` should be multiplied by `B + b`
+- Its Product `AB + aB + bA + ab` is the augmented Rectangle whence if we subduct `AB`, the Remainder aB + bA + ab will be the true Increment of the Rectangle, exceeding that which was obtained by the former illegitimate and indirect Method by the Quantity `ab`. 
 
 This holds universally be the Quantities a and b what they will, big or little, Finite or Infinitesimal, Increments, Moments, or Velocities. 
 
-Nor will it avail to say that ab is a Quantity exceeding small: Since we are told that in rebus mathematicis errores quàm minimi non sunt contemnendi.[3]
+Nor will it avail to say that `ab` is a Quantity exceeding small: Since we are told that in rebus mathematicis errores quàm minimi non sunt contemnendi.[3]
 
 Such reasoning as this, for Demonstration, nothing but the obscurity of the Subject could have encouraged or induced the great Author of the Fluxionary Method to put upon his Followers, and nothing but an implicit deference to Authority could move them to admit. 
 
 The Case indeed is difficult. 
 
-There can be nothing done till you have got rid of the Quantity ab. In order to this the Notion of Fluxions is shifted: It is placed in various Lights: Points which should be clear as first Principles are puzzled' and Terms which should be steadily used are ambiguous. 
+There can be nothing done till you have got rid of the Quantity `ab`. 
 
-But notwithstanding all this address and skill the point of getting rid of ab cannot be obtained by legitimate reasoning.
+In order to this the Notion of Fluxions is shifted: It is placed in various Lights: Points which should be clear as first Principles are puzzled' and Terms which should be steadily used are ambiguous. 
 
-If a Man by Methods, not geometrical or demonstrative, shall have satisfied himself of the usefulness of certain Rules; which he afterwards shall propose to his Disciples for undoubted Truths; which he undertakes to demonstrate in a subtile manner, and by the help of nice and intricate Notions; it is not hard to conceive that such his Disciples may, to save themselves the trouble of thinking, be inclined to confound the usefulness of a Rule with the certainty of a Truth, and accept the one for the other; especially if they are Men accustomed rather to compute than to think; earnest rather to go on fast and far, than solicitous to set out warily and see their way distinctly.
+But despite this, getting rid of `ab` cannot be obtained by legitimate reasoning.
+
+<!-- If a Man by Methods, not geometrical or demonstrative, shall have satisfied himself of the usefulness of certain Rules; which he afterwards shall propose to his Disciples for undoubted Truths; which he undertakes to demonstrate in a subtile manner, and by the help of nice and intricate Notions; it is not hard to conceive that such his Disciples may, to save themselves the trouble of thinking, be inclined to confound the usefulness of a Rule with the certainty of a Truth, and accept the one for the other; especially if they are Men accustomed rather to compute than to think; earnest rather to go on fast and far, than solicitous to set out warily and see their way distinctly. -->
+
+A man might establish certain Rules as Truths which he demostrates subtley. 
+- His Disciples might confound a Rule as a Truth in order to save themselves the trouble of thinking, especially if they are used to computing instead of thinking. 
 
 
 11. The Points or meer Limits of nascent Lines are undoubtedly equal, as having no more magnitude one than another, a Limit as such being no Quantity. 
 
-If by a Momentum you mean more than the very initial Limit, it must be either a finite Quantity or an Infinitesimal. But all finite Quantities are expresly excluded from the Notion of a Momentum. 
+If by a Momentum you mean more than the very initial Limit, it must be either a finite Quantity or an Infinitesimal.
 
-Therefore the Momentum must be an Infinitesimal. And indeed, though much Artifice hath been employed to escape or avoid the admission of Quantities infinitely small, yet it seems ineffedtual. 
+But all finite Quantities are expresly excluded from the Notion of a Momentum. 
 
-For ought I see, you can admit no Quantity as a Medium between a finite Quantity and nothing, without admitting Infinitesimals. An Increment generated in a finite Particle of Time, is it self a finite Particle; and cannot therefore be a Momentum. 
+Therefore the Momentum must be an Infinite.
 
-You must therefore take an Infinitesimal Part of Time wherein to generate your Momentum. It is said, the Magnitude of Moments is not considered: And yet these same Moments are supposed to be divided into Parts.
+Much Artifice has been employed to avoid admitting infinitely small quantities, yet it seems ineffedtual. 
+
+For ought I see, you can admit no Quantity as a Medium between a finite Quantity and nothing, without admitting Infinitesimals. 
+
+An Increment generated in a finite Particle of Time, is it self a finite Particle; and cannot therefore be a Momentum. 
+
+You must therefore take an Infinitesimal Part of Time wherein to generate your Momentum. 
+
+It is said, the Magnitude of Moments is not considered: And yet these same Moments are supposed to be divided into Parts.
 
 This is not easy to conceive, no more than it is why we should take Quantities less than A and B in order to obtain the Increment of AB, of which proceeding it must be owned the final Cause or Motive is very obvious; but it is not so obvious or easy to explain a just and legitimate Reason for it, or shew it to be Geometrical.
 
 
-12. From the foregoing Principle so demonstrated, the general Rule for finding the Fluxion of any Power of a flowing Quantity is derived[4]. But, as there seems to have been some inward Scruple or Consciousness of defect in the foregoing Demonstration, and as this finding the Fluxion of a given Power is a Point of primary Importance, it hath therefore been judged proper to demonstrate the same in a different manner independent of the foregoing Demonstration. 
+12. From the foregoing Principle so demonstrated, the general Rule for finding the Fluxion of any Power of a flowing Quantity is derived[4]. 
 
-But whether this other Method be more legitimate and conclusive than the former, I proceed now to examine; and in order thereto shall premise the following Lemma.
+But I have shown its defect in the foregoing Demonstration.
 
-"If with a View to demonstrate any Proposition, a certain Point is supposed, by virtue of which certain other Points are attained; and such supposed Point be it self afterwards destroyed or rejected by a contrary Supposition; in that case, all the other Points, attained thereby and consequent thereupon, must also be destroyed and rejected, so as from thence forward to be no more supposed or applied in the Demonstration."
+The finding the Fluxion of a given Power is a Point of primary Importance.
+
+That is why I will dissect it too.
+
+ <!-- it hath therefore been judged proper to demonstrate the same in a different manner independent of the foregoing Demonstration.  -->
+
+<!-- But whether this other Method be more legitimate and conclusive than the former, I proceed now to examine; and in order thereto shall premise the following -->
+
+The Lemma states:
+
+"Use a Point to come up with other Points in order to demonstrate any Proposition.
+
+If this Point is itself later destroyed or rejected by a contrary Supposition, then all those other Points must also be destroyed and rejected.  <!-- so as from thence forward to be no more supposed or applied in the Demonstration." -->
 
 This is so plain as to need no Proof.
 
 
-13. Now the other Method of obtaining a Rule to find the Fluxion of any Power is as follows. Let the Quantity x flow uniformly, and be it proposed to find the Fluxion of xn. 
+13. Here is the other Method of obtaining a Rule to find the Fluxion of any Power:
 
-In the same time that x by flowing becomes x + o, the Power xn becomes .., i. e. by the Method of infinite Series  &c. and the Increments o and  &c. are one to another as 1 to .. &c. Let now the Increments vanish, and their last Proportion will be 1 to .. 
+Let the Quantity `x` flow uniformly. Find the Fluxion of `xn`. 
 
-But it should seem that this reasoning is not fair or conclusive. For when it is said, let the Increments vanish, i. e. let the Increments be nothing, or let there be no Increments, the former Supposition that the Increments were something, or that there were Increments, is destroyed, and yet a Consequence of that Supposition, i. e. an Expression got by virtue thereof, is retained.
+By flowing, `x` becomes `x + o`.  At the same timme, the Power `xn` becomes .., i. e. by the Method of infinite Series  &c. and the Increments o and  &c. are one to another as 1 to .. &c. 
+
+Let the Increments vanish, and their last Proportion will be 1 to .. 
+
+But this reasoning is not fair nor conclusive.
+
+Letting the Increments vanish also destroys the former Supposition that the Increments were something.
+
+<!-- , or that there were Increments, is destroyed, and yet a Consequence of that Supposition, i. e. an Expression got by virtue thereof, is retained. -->
 
 Which, by the foregoing Lemma, is a false way of reasoning. Certainly when we suppose the Increments to vanish, we must suppose their Proportions, their Expressions, and every thing else derived from the Supposition of their Existence to vanish with them.
 

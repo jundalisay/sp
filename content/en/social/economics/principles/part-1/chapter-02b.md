@@ -32,7 +32,7 @@ This is why Supereconomics uses the common food as the store of value.
 The important thing that they should be prevalent and known by all, as to be the common measure of economic valuation.
 
 
-{{< q a="Smith" c="Wealth of Nations, Book 1 Chapter 11" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 1 Chapter 11" >}}
 In every state of society and every stage of improvement, equal amounts of wheat will, more nearly represent equal amounts of labour than equal amounts of any rude produce.
 
 In all the different stages of wealth and improvement, wheat is a more accurate measure of value than any other commodity.

@@ -82,7 +82,7 @@ Neoclassical Economics only has the concept of effective demand, but no concept 
 {{< img src="/graphics/econ/absolute.png" alt="Absolute Demand" cap="Absolute and Effective Demand" >}}
 
 
-{{< q a="Smith" c="Wealth of Nations Book 1 Chapter 7" >}}
+{{< q a="Adam Smith" c="Wealth of Nations Book 1 Chapter 7" >}}
 Market prices are regulated by the proportion between the quantity to be sold and the demand of buyers willing to pay the natural price.
 
 Such buyers are called effectual demanders. Their demand is called the effectual demand because it effectuates the bringing of the commodity to market. 
@@ -94,7 +94,7 @@ Absolute demand, on the other hand, is demand that can never bring commodities t
 
 Absolute demand is the main source of dynamism in the economy as a function of the invisible hand. This can roughly translate as wishful thinking. 
 
-{{< q a="Smith" c="Theory of Moral Sentiments, Part 4 Chapter 1" >}}
+{{< q a="Adam Smith" c="Theory of Moral Sentiments, Part 4 Chapter 1" >}}
 In this complex view, the pleasures of wealth and greatness strike the imagination as something grand, beautiful, and noble. Their attainment seems worth all the toil and anxiety for them. It is good that nature imposes on us in this manner.
 
 It is this deception which rouses mankind's industry and keeps it in continual motion. By these labours, the earth has been obliged to double her natural fertility and maintain more people.

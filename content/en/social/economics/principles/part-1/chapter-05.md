@@ -18,7 +18,7 @@ One of the unique things about Supereconomics is the concept of Minimum Needs. T
 This means that each soul is important or has a purpose in the society. It is then society's duty to provide for each member soul. 
 
 
-{{< q a="Smith" c="Book 1, Chapter 8" >}}
+{{< q a="Adam Smith" c="Book 1, Chapter 8" >}}
 No society can surely be flourishing and happy if the majority were poor and miserable. It is but equity that those who feed, clothe and lodge the the people, should have such a share of the produce of their own labour as to be themselves tolerably well fed, clothed and lodged.
 {{< /q >}}
 

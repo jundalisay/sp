@@ -163,7 +163,7 @@ pagerSize = 24
       # sub = "The Soul of the Physical Universe without a Void"
       url = "/material"
     [[languages.en.params.cards]]
-      img = "/photos/meta/yinyang.jpg"
+      img = "/graphics/super/yin.jpg"
       # img = "/avatars/hahnemann.jpg"
       title = "Bio Superphysics"
       sub = "Biology and Medicine that combines Western and Asian Principles"
@@ -411,7 +411,7 @@ pagerSize = 24
   shorttitle = "Superphysics"
 
   # Custom copyright - optional
-  copyright = "Copyright © 2025 | <a href='https://www.pantrypoints.com'>Pantrypoints Technologies</a>"
+  copyright = "Copyright © 2025 | <a class='!text-white' href='https://www.pantrypoints.com'>Pantrypoints Technologies</a>"
   favicon = "/icons/sp30.png"
 
   ascentColor = "bg-blue-100"

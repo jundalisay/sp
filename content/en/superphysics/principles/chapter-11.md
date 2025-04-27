@@ -79,9 +79,6 @@ Superphysics aims to solve real-world problems by:
 ![Socrates' profile](/covers/socrates.jpg)
 
 
-
-
-
 Socrates calls this Dharma or Tao as the first principle or True Nature of anything that exists in the physical domain (observable by the five senses). This Dharma, Tao, or True Nature itself resides in the invisible metaphysical domain of ideas and feelings. 
 
 You cannot see your ideas and feelings. Instead, you can make them 'real' in the physical domain by expressing them physically:
@@ -112,7 +109,7 @@ They investigate the numbers of the harmonies which are heard. But they never ap
 Current science is totally based on the physical perceptions of things that already exist. This makes it the opposite of metaphysics which is totally based on invisible perceptions as ideas and feelings.  
 
 
-{{< q a="Smith" c="Origin of Philosophy Simplified" >}}
+{{< q a="Adam Smith" c="Origin of Philosophy Simplified" >}}
 Archyta invented the Categories. He may be regarded as the founder of ancient Dialectics.<br><br>The opinions of Empedocles coincide with those of Aristotle. Empedocles authored the doctrine of the Four Elements. He may be regarded as the founder of [its rival] ancient Physics*.
 {{< /q >}}
 

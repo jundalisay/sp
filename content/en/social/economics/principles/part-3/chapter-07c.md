@@ -25,7 +25,7 @@ Unfortunately, the prosperity emboldened the selfish hand to pursue more profits
 
 Stock speculation (Bar 2) resulted in the overtrading of stocks leading to the rapid growth and eventual crash of the stock market, a phenomenon known by Adam Smith:
 
-{{< q a="Smith" c="Book 4, Chapter 1, Par. 16" >}}
+{{< q a="Adam Smith" c="Book 4, Chapter 1, Par. 16" >}}
 When the profits..happen to be greater than ordinary, over-trading becomes a general error both among great and small dealers. They..buy upon credit..an unusual quantity of goods, which they send to some distant market in hopes that the returns will come in before the demand for payment. The demand comes before the returns, and they have nothing at hand..
 {{< /q >}}
 
@@ -100,7 +100,7 @@ Since capital is used to create value and not an end in itself, such phantom cap
 The “credit crunch” destroyed the phantom trade to its real levels, which in turn, also destroyed the nominal value it created. The “crunch” has been described many times by Smith:
 
 
-{{< q a="Smith" c="Book 4, Chap. 1, Par. 16" >}}
+{{< q a="Adam Smith" c="Book 4, Chap. 1, Par. 16" >}}
 Over-trading is the common cause of it (scarcity of money). Sober men, whose projects have been disproportioned to their capitals..have neither wherewithal to buy money nor credit to borrow it, as prodigals whose expence has been disproportioned to their revenue. Before their projects can be brought to bear, their stock is gone, and their credit with it.
 {{< /q >}}
 

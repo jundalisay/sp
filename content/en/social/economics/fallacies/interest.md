@@ -13,7 +13,7 @@ icon: /icons/pantry.png
 
 The failure of quantitative easing, both in the US under Obama and in Japan as [Abenomics](/social/cycles/japan), is proof that the operations of banking cannot directly and immediately lead to economic growth, as explained by Adam Smith:  
 
-{{< q a="Smith" c="The Simple Wealth of Nations Book 2, Chapter 2" >}}
+{{< q a="Adam Smith" c="The Simple Wealth of Nations Book 2, Chapter 2" >}}
 The judicious operations of banking can increase a industry, not by augmenting the country’s capital, but by rendering most of that capital productive.
 {{< /q >}}
 

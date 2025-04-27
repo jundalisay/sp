@@ -43,7 +43,7 @@ For example, the Ivory coast exports cocoa. It should implement policies so that
 {{< img src="https://socioecons.files.wordpress.com/2015/08/chocolate-child-slavery-ivory-coast.jpg" alt="Cacao workers" cap="Campaigns against African child labour might succeed in small cases, but can never produce any sweeping change, since those campaigns urge African governments to bite the hand of business that feeds them with the taxes that they need." >}}
 
 
-{{< q a="Smith" c="Wealth of Nations Book 4, Chapter 2" >}}
+{{< q a="Adam Smith" c="Wealth of Nations Book 4, Chapter 2" >}}
 every prudent master of a family never attempts to make at home what it will cost him more to make than to buy. The tailor does not make his own shoes, but buys them of the shoemaker.. By making those cheap foreign commodities at home, the nation’s industry is thus turned into a less advantageous employment. The exchangeable value of its annual produce is reduced by such regulations, opposite of the intention of the lawgiver. 
 <!-- By such regulations, a particular manufacture may sometimes be developed sooner. After some time, it may be made at home cheaper than in the foreign country. -->
 {{< /q >}}
@@ -56,14 +56,14 @@ Adam Smith classified the mentality of societies as either savage, barbaric, or 
 He called savage and barbaric ones as rude:
 
 
-{{< q a="Smith" c="Wealth of Nations Book 5, Chapter 1" >}}
+{{< q a="Adam Smith" c="Wealth of Nations Book 5, Chapter 1" >}}
 A rude society has more variety in individual occupations. but less variety when all occupations are taken together. Every man does almost everything which any other man does. Every man has a considerable degree of knowledge, ingenuity, and invention, but no one has a great degree of them. What they have is sufficient only for conducting the simple business of society.
 {{< /q >}}
 
 
 He calls an advanced society as civilized:
 
-{{< q a="Smith" c="Wealth of Nations Book 5, Chapter 1" >}}
+{{< q a="Adam Smith" c="Wealth of Nations Book 5, Chapter 1" >}}
 In a civilized state, on the contrary, there is little variety in individual occupations. But there is an almost infinite variety in all the occupations taken together. A few people are not attached to a particular occupation. They have leisure and inclination to examine the occupations of other people. These varied occupations lets them think of an almost infinite variety of objects. This thinking then exercises their minds in endless comparisons and combinations. It renders their understandings extraordinarily acute and comprehensive. Unless those few were placed in very particular situations, their great, honourable abilities may contribute very little for their society's happiness. All the nobler parts of the human character may be extinguished in the people.
 {{< /q >}}
 
@@ -79,7 +79,7 @@ Changing austere policies to liberal ones must be done gradually, just as a pers
 Desolate countries such as those in the Middle East and Western China are naturally not suited for republican governments and liberal policies. Had the Bush administration known this, then it would have thought twice about establishing a democratic system in Iraq and Afghanistan.
 
 
-{{< q a="Smith" c="Lectures on Jurisprudence, Part 1, Chapter 3" >}}
+{{< q a="Adam Smith" c="Lectures on Jurisprudence, Part 1, Chapter 3" >}}
 Generally,the situation of a country, andits improvement in agriculture and tradeare favourable to the introduction of a republican government. There is little probability that republican governments will ever be introduced into Tartary or Arabia,because their country cannot be improved..The opposite of this are those countries where republican governments have been established, particularly in Greece.
 {{< /q >}}
 
@@ -97,7 +97,7 @@ In today's world, the merchant class dominates and is free to remove its capital
 {{< u d="October 2023" u="After China's government tightened its grip during Covid, foreign companies also left China and moved elsewhere, such as to Vietnam." >}}
   
 
-{{< q a="Smith" c="The Wealth of Nations Simplified, Book 3" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 3" >}}
 A merchant is not the citizen of any particular country.He is indifferent on from where he carries on his trade. He will remove his capital and all the industry it supports, from one country to another with very little disgust. No part of it can belong to any particular country, till it has been spread in that country, in buildings or in the improvement of lands.
 {{< /q >}}
 
@@ -135,7 +135,7 @@ State | Description
 
 A people in State 1 will likely not have any technical skills nor even speak the national language. But they will likely have some skills in agriculture or in extracting natural resources. In this 'rude state', this will be their most important capital, source of revenue, and the center of their economy:
 
-{{< q a="Smith" c="The Wealth of Nations Simplified, Book 3, Chapter 1" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 3, Chapter 1" >}}
 Cultivation of land was the original destination of man.. Without the assistance of some artificers, land cultivation cannot be done without great inconvenience and continual interruption. The farmer frequently needs the service of smiths, carpenters, wheel-wrights, and plough-wrights, masons, and bricklayers, tanners, shoemakers, and tailors.
 {{< /q >}}
 

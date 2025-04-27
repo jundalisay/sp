@@ -62,7 +62,7 @@ Table 1. The artificial division of labor in Classical Indian, Chinese (SCCF, n.
 
 The closest English word for personal dharma is “personal-interest” and so, butchers must act on the interest of butchers (or the dharma of butchers), while brewers must act on theirs (the dharma of brewers). This will naturally and invisibly lead to societal dharma or the maintenance of society through the efficiency afforded by the division of labor, leading to better goods and services acquired through trade:
 
-{{< q a="Smith" c="WN, Book 1, Chap. 2, Pars. 1 & 2, emphasis added" >}}
+{{< q a="Adam Smith" c="WN, Book 1, Chap. 2, Pars. 1 & 2, emphasis added" >}}
 This division of labour..is not originally the effect of any human wisdom..It is the..consequence of a certain propensity in human nature..to..exchange one thing for another..It is common to all men..
 {{< /q >}}
 
@@ -116,21 +116,21 @@ China has been long one of the richest..countries in the world. Marco Polo..desc
 However, the invisible hand in those empires was artificial because it was imposed by religion or tradition, and not by democracy:
 
 
-{{< q a="Smith" c="Chap. 7, Par. 31" >}}
+{{< q a="Adam Smith" c="Chap. 7, Par. 31" >}}
 The police must be as violent as that of Indostan or antient Egypt (where every man was bound by..religion to follow the occupation of his father..), which can..sink either the wages of labour or the profits of stock below their natural rate. The poverty of the lower ranks of people in China far surpasses that of the most beggarly nations in Europe.
 {{< /q >}}
 
 Though not ideal, this artificial invisible hand prevented society from moving backwards:
 
 
-{{< q a="Smith" c="Chap. 8, Par. 25" >}}
+{{< q a="Adam Smith" c="Chap. 8, Par. 25" >}}
 China..though it may perhaps stand still, does not seem to go backwards. Its towns are no-where deserted by their inhabitants. The lands..are no-where neglected. The same..annual labour must therefore continue to be performed, and the funds.. maintaining it must not..be..diminished.
 {{< /q >}}
 
 This artificial invisible hand raised productivity in order to provide for the natural needs of Chinese society. Smith, back in the 1700’s, accurately predicted that the inherent productive capacity of China and Japan would be able to reproduce foreign manufactures successfully:
 
 
-{{< q a="Smith" c="WN, Book 4, Chap. 9, Par. 41" >}}
+{{< q a="Adam Smith" c="WN, Book 4, Chap. 9, Par. 41" >}}
 A more extensive foreign trade, however, which to this great home (Chinese) market added the foreign market of all the rest of the world; especially if any considerable part of this trade was carried on in Chinese ships; could scarce fail to increase very much the manufactures of China, and to improve very much the productive powers of its manufacturing industry. By a more extensive navigation, the Chinese would naturally learn the art of using and constructing themselves all the different machines made use of in other countries, as well as the other improvements of art and industry which are practised in all the different parts of the world. Upon their present plan they have little opportunity except that of the Japanese.
 {{< /q >}}
 
@@ -138,28 +138,28 @@ A more extensive foreign trade, however, which to this great home (Chinese) mark
 The wealth of ancient China and India dwarfed those of Europe, until they were uprooted by war and European colonization to be replaced by Mercantilism. Adam Smith’s first description of the invisible hand in his earlier essay The History of Astronomy, is consistent with the Eastern belief that human dharma only affects humans while physical dharma only affects physics:
 
 
-{{< q a="Smith" c="Section 3, emphasis added" >}}
+{{< q a="Adam Smith" c="Section 3, emphasis added" >}}
 For it may be observed, that in all Polytheistic religions, among savages, as well as in the early ages of Heathen antiquity, it is the irregular events of nature only that are ascribed to the agency and power of their gods. Fire burns, and water refreshes; heavy bodies descend, and lighter substances fly upwards, by the necessity of their own nature; nor was the invisible hand of Jupiter ever apprehended to be employed in those matters.
 {{< /q >}}
 
 
 While humans would naturally want to uplift society for our own sake, Mother Nature may want to destroy it through volcanic eruptions or sustain it through life-giving rain. As human dharma is different from the natural sciences or physical dharma, it observes its own sets of rules called morality, which was the focus of Smith’s book The Theory of Moral Sentiments, a book which he regarded as his greatest work:
 
-{{< q a="Smith" c="TMS, Part 3, Chap. 5, Par. 7" >}}
+{{< q a="Adam Smith" c="TMS, Part 3, Chap. 5, Par. 7" >}}
 ..upon this is founded that.. distinction between justice and all..social virtues..that we feel..to be under a stricter obligation to act according to justice, than..to friendship..or generosity…We feel..that force may, with the utmost propriety..be made..to constrain us to observe the rules of the one, but not..the precepts of the other (TMS, Part 2, Sec. 2, Par. 5). But by acting according to..our moral faculties, we..pursue the most effectual means for promoting the happiness of mankind, and..to co-operate with the Deity.
 {{< /q >}}
 
 
 It is the deception of wealth and power which causes the corruption of moral sentiments:
 
-{{< q a="Smith" c="TMS, Part 1, Sec. 2, Chap. 3" >}}
+{{< q a="Adam Smith" c="TMS, Part 1, Sec. 2, Chap. 3" >}}
 This disposition to admire, and almost to worship, the rich and the powerful, and to despise, or, at least, to neglect persons of poor and mean condition, though necessary both to establish and to maintain the distinction of ranks and the order of society, is, at the same time, the great and most universal cause of the corruption of our moral sentiments. That wealth and greatness are often regarded with the respect and admiration which are due only to wisdom and virtue; and that the contempt, of which vice and folly are the only proper objects, is often most unjustly bestowed upon poverty and weakness, has been the complaint of moralists in all ages.
 {{< /q>}}
 
 
 Smith declares that the invisible hand, which is a part of a larger system, is from a higher being:
 
-{{< q a="Smith" c="TMS, Part 6, Sec. 2, Par. 49" >}}
+{{< q a="Adam Smith" c="TMS, Part 6, Sec. 2, Par. 49" >}}
 The administration of the great system of the universe, however, the care of the universal happiness of all rational and sensible beings, is the business of God and not of man.
 {{< /q >}}
 

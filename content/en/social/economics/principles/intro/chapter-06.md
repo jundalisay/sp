@@ -46,7 +46,7 @@ Uncertain morality {{< q a="say" >}} progress has..(questioned) whether it is.. 
 
 Economics Psychological Basis | Supereconomics Psychological Goal
 --- | ---
-Pleasure {{< q a="Willam Stanley Jevons" >}}to maximise pleasure,is the problem of Economics{{< /q >}} | Peace of Mind {{< q a="Smith" >}} In what constitutes the real happiness of human life..<br>In ease of body and peace of mind, all the different ranks of life are nearly upon a level" <cite>Theory Of Moral Sentiments</cite>{{< /q >}}
+Pleasure {{< q a="Willam Stanley Jevons" >}}to maximise pleasure,is the problem of Economics{{< /q >}} | Peace of Mind {{< q a="Adam Smith" >}} In what constitutes the real happiness of human life..<br>In ease of body and peace of mind, all the different ranks of life are nearly upon a level" <cite>Theory Of Moral Sentiments</cite>{{< /q >}}
 
 Economics Means | Supereconomics Means
 --- | ---
@@ -58,7 +58,7 @@ Business Interests (Society Works for Businessmen) | Societal Interests (Busines
 
 Economics Motive And Measure | Supereconomics Motive And Measure
 --- | ---
-Supply or Production Motive measured by GDP {{< q a="Say" >}}it is the Aim of Good Government to Stimulate Production, of Bad Government to Encourage Consumption.{{< /q >}} {{< q a="Paul Samuelson" >}}GDP and the..national income accounts are among the great inventions of the 20th century{{< /q >}} | Demand or Consumption Motive measured By Purchasing Power {{< q a="Smith" >}}Consumption is the sole end and purpose of all production; the interest of the producer ought to be attended to only.. for promoting that of the consumer.{{< /q >}}
+Supply or Production Motive measured by GDP {{< q a="Say" >}}it is the Aim of Good Government to Stimulate Production, of Bad Government to Encourage Consumption.{{< /q >}} {{< q a="Paul Samuelson" >}}GDP and the..national income accounts are among the great inventions of the 20th century{{< /q >}} | Demand or Consumption Motive measured By Purchasing Power {{< q a="Adam Smith" >}}Consumption is the sole end and purpose of all production; the interest of the producer ought to be attended to only.. for promoting that of the consumer.{{< /q >}}
 Pricing System | Nominal (money) Prices Only | Nominal (money Or Metals) And Real (grain) Prices
 Main Theory | Equilibrium Theory And Marginal Utility ![Marginal Utility Wrong](https://sorasystem.sirv.com/charts/wrong.png)  | Natural Price Theory And Effort Theory Of Value  <img src="https://sorasystem.sirv.com/charts/right.png" alt="right">
 

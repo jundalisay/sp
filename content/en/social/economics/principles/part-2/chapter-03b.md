@@ -59,7 +59,7 @@ To make the naming systematic, we use [the First Law of Value](/social/economics
 <!-- #### Material Effort produces something that can be bound by a specific space and time, manifesting as a thing or object. -->
 
 
-{{< q a="Smith" c="The Wealth Of Nations Simplified, Book 2, Chapter 3" >}}
+{{< q a="Adam Smith" c="The Wealth Of Nations Simplified, Book 2, Chapter 3" >}}
 The gravest, most important, and some of the most frivolous professions are unproductive: Churchmen, Lawyers, Physicians, all Men of letters, Players, buffoons, musicians, opera-singers, opera-dancers, etc. Their labour has a certain value regulated by the same principles which regulate other kinds of labour.
 {{< /q >}}
 

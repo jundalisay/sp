@@ -48,13 +48,13 @@ Never did Smith, nor any ancient Eastern philosopher, have the audacity to draft
 
 Unlike other economists, Smith did not put a price on people:
 
-{{< q a="Smith" c="Book 1, Chap. 8, Par. 15" >}}
+{{< q a="Adam Smith" c="Book 1, Chap. 8, Par. 15" >}}
 A man must always live by his work, and his wages must at least be sufficient to maintain him... 
 
 Mr. Cantillon seems, upon this account, to suppose that the lowest species of common labourers must every where earn at least double their own maintenance, in order that one with another they may be enabled to bring up two children; the labour of the wife, on account of her necessary attendance on the children, being supposed no more than sufficient to provide for herself...
 {{< /q >}}
 
-{{< q a="Smith" c="Book 1, Chap. 8, Par. 15" >}}
+{{< q a="Adam Smith" c="Book 1, Chap. 8, Par. 15" >}}
 Cantillon adds that the labour of an able-bodied slave is computed to be worth double his maintenance; and that of the meanest labourer, he thinks, cannot be worth less than that of an able-bodied slave. 
 
 Thus far at least seems certain, that, in order to bring up a family, the labour of the husband and wife together must, even in the lowest species of common labour, be able to earn something more than what is precisely necessary for their own maintenance; but in what proportion, whether in that above mentioned, or in any other, I shall not take upon me to determine..
@@ -64,12 +64,12 @@ Thus far at least seems certain, that, in order to bring up a family, the labour
 The economist-authors of the marginal revolution of the 1800’s inherited the Monetary Dogma from the Mercantile system and clothed it in new Capitalist trappings, permanently infusing it with the corporation and mercantile spirit. Instead of gold and silver, the nominal values in the form of paper money and paper stocks became the new obsession and, like Mercantilism, created a new economic system that benefited only the rich:
 
 
-{{< q a="Smith" c="Book 4, Chapter 8, Par. 4" >}}
+{{< q a="Adam Smith" c="Book 4, Chapter 8, Par. 4" >}}
 It is the industry which is carried on for the benefit of the rich and the powerful that is principally encouraged by our mercantile system. That which is carried on for the benefit of the poor and the indigent is too often either neglected or oppressed.
 {{< /q >}}
 
 
-{{< q a="Smith" c="Book 1, Chapter 10, Par. 77" >}}
+{{< q a="Adam Smith" c="Book 1, Chapter 10, Par. 77" >}}
 The inhabitants of a town, being collected into one place, can easily combine together. The most insignificant trades carried on in towns have accordingly..been incorporated; and even where they have never been incorporated, yet the corporation spirit, the jealousy of strangers, the aversion to take apprentices, or to communicate the secret of their trade, generally prevail in them, and often teach them, by voluntary associations and agreements, to prevent that free competition which they cannot prohibit by bye-laws.
 {{< /q >}}
 

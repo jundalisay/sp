@@ -23,7 +23,7 @@ The **Effort Theory of Value** is based on the abstract valuation assigned by th
 This valuation is based on one's feelings of need or desire for that thing. The more you want something the more you will work, get stressed, and exert for it. 
 
 
-{{< q a="Smith" c="Wealth of Nations, Book 1, Chapter 5" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 1, Chapter 5" >}}
 The real price of everything.. is the toil and trouble of acquiring it ourselves. 
 
 To save us from toil and trouble, we exchange goods or money [that other people want to aqcuire] for those other people to acquire it for us. 
@@ -190,7 +190,7 @@ With this, we can safely translate Smith's 18th-century words into modern Englis
 
 ### Original
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 A measure of quantity, such as the natural foot, continually varies. It can never be an accurate measure of other things. Likewise a commodity which continually varyies in value can never measure the value of other commodities. 
 
 Equal quantities of labour, at all times and places, is of equal value to the labourer.. The labor which he pays is always the same, whatever the goods he receives for it. At all times and places, an expensive thing is difficult to come at and costs much labour. 
@@ -202,7 +202,7 @@ Labour alone, therefore, never varying in its own value, is the ultimate and rea
 
 ### Translated with 'toil and trouble'
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 A commodity that always varies in value can never be an accurate measure of the value of other commodities.
 
 But a person's toil and trouble will always be the same to himself always and anywhere he is. 

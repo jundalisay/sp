@@ -71,7 +71,7 @@ Not only is this third point of view not clearly and frankly adopted in the trea
 
 Adam Smith clearly states that:
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 political economy, considered as a branch of the science of a statesman or legislator, proposes two distinct objects: first, to provide a plentiful revenue or subsistence for the people, or, more properly, to enable them to provide such a revenue or subsistence for themselves; and, secondly, to supply the state or commonwealth with a revenue sufficient for the public services. It proposes to enrich both the people and the sovereign.
 {{< /q >}}
 

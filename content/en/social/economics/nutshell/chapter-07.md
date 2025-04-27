@@ -39,7 +39,7 @@ Here, we give a brief example how the US can solve a representative problem of e
 The main solution is for the Usufruct System to provide minimum needs facilitated through barter-credits. This fulfills the “living standard” domain of the Gross National Happiness (GNH) index. The upgrade of technical education and skills, as part of the “education” domain of the GNH, can be provided at low cost through apprenticeships where the practical learner could pay with his output, as proposed by Adam Smith:
 
 
-{{< q a="Smith" c="The Wealth of Nations, Book 1, Chapter 10" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations, Book 1, Chapter 10" >}}
 “A young man's education would be more effective, less tedious, and less expensive if he began working diligently as a journeyman. He would be paid in proportion to the little work he could do and pay for the materials that he might spoil.”
 {{< /q >}}
 

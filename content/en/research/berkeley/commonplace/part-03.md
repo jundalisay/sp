@@ -3,7 +3,7 @@ title: "Commonplace"
 heading: ""
 weight: 7
 description: ""
-image: "/covers/berkeley.jpg"
+:c: "darkblue"
 ---
 
 

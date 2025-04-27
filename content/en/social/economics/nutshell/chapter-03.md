@@ -89,7 +89,7 @@ The government would then need to arrange the supereconomy so that everyone coul
 {{< /q >}}
 
 
-{{< q a="Smith" c="The Wealth of Nations, Book 1, Chapter 8" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations, Book 1, Chapter 8" >}}
 “No society can be flourishing and happy if the majority were poor and miserable. It is but equity that those who feed, clothe and lodge the people should be tolerably well fed, clothed and lodged themselves.”
 {{< /q >}}
 

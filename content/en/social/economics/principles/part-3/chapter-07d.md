@@ -218,7 +218,7 @@ Toyota Vios in rice | {{< c v="tomato" >}}73,636 kg rice (3rd place or 4.46x Phi
 Toyota Alphard Luxury Van in rice | 206,000 kg rice (2nd place or 2.25x Philippines) | {{< c v="lightseagreen" >}}91,250 kg rice (1st place){{< /c >}} | {{< c v="tomato" >}}336,000 kg rice (3rd place or 3.7x Philippines){{< /c >}}
 
 
-{{< q a="Smith" c="The Wealth of Nations Simplified, Book 2" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 2" >}}
 The amount of the metal pieces which circulate in any country must always be of much less value than the worth of that money. But the power of purchasing or the goods which can be bought with that money, must always be the same value with that money. The revenue of those who receive that money must be of the same value with the money they receive. That revenue consists in thepower of purchasing or the goods which can be bought. It cannot consist in those metal pieces of which the amount is so much inferior to its value.
 {{< /q >}}
 

@@ -54,7 +54,7 @@ For example, Adam Smith believes that the land should be broken up in order to:
 - increase productivity and cost-efficiency by letting the owners micro-manage their land better 
 
 
-{{< q a="Smith" c="The Wealth of Nations" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations" >}}
 There are still some great estates in the United Kingdom which have continued without interruption in the hands of the same family since feudal times. 
 
 Compare the present condition of those estates with the possessions of the small proprietors near them, and you will see how unfavourable such extensive property is to improvement.

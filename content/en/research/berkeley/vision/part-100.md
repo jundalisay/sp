@@ -2,19 +2,49 @@
 title: "New Theory of Vision"
 weight: 7
 description: ""
-image: "/covers/berkeley.jpg"
+:c: "darkblue"
 ---
 
 
-100. I know we are very prone to think that, if just made to see, we should judge of the situation of visible things as we do now: but we are also as prone to think that, at first sight, we should in the same way apprehend the distance and magnitude of objects as we do now: which hath been shown to be a false and groundless persuasion. And for the like reasons the same censure may be passed on the positive assurance that most men, before they have thought sufficiently of the matter, might have of their being able to determine by the eye at first view, whether objects were erect or inverse.
+100. We think that we should judge of the situation of visible things as we do now.
 
-101. It will, perhaps, be objected co our opinion that a man, for instance, being thought erect when his feet are next the earth, and inverted when his head is next the earth, it doth hence follow that by the mere act of vision, without any experience or altering the situation of the eye, we should have determined whether he were erect or inverted: for both the earth itself, and the limbs of the man who stands thereon, being equally perceived by sight, one cannot choose seeing what part of the man is nearest the earth, and what part farthest from it, i.e. whether he be erect or inverted.
+Yet we also tend to think that, at first sight, we should in the same way apprehend the distance and magnitude of objects as we do now: which hath been shown to be a false and groundless persuasion.
 
-102. To which I answer, the ideas which constitute the tangible earth and man are entirely different from those which constitute the visible earth and man. Nor was it possible, by virtue of the visive faculty alone, without superadding any experience of touch, or altering the position of the eye, ever to have known, or so much as suspected, there had been any relation or connexion between them. Hence a man at first view would not denominate anything he saw earth, or head, or foot; and consequently he could not tell by the mere act of vision whether the head or feet were nearest the earth: nor, indeed, would we have thereby any thought of earth or man, erect or inverse, at all: which will be made yet more evident if we nicely observe, and make a particular comparison between, the ideas of both senses.
+And for the like reasons the same censure may be passed on the positive assurance that most men, before they have thought sufficiently of the matter, might have of their being able to determine by the eye at first view, whether objects were erect or inverse.
 
-103. That which I see is only variety of light and colours. That which I feel is hard or soft, hot or cold, rough or smooth. What similitude, what connexion have those ideas with these? Or how is it possible that anyone should see reason to give one and the same name to combinations of ideas so very different before he had experienced their coexistence? We do not find there is any necessary connexion betwixt this or that tangible quality and any colour whatsoever. And we may sometimes perceive colours where there is nothing to be felt. All which doth make it manifest that no man, at first receiving of his sight, would know there was any agreement between this or that particular object of his sight and any object of touch he had been already acquainted with: the colours, therefore, of the head would to him no more suggest the idea of head than they would the idea of foot.
 
-104. Farther, we have at large shown (VID. sect. 63 and 64) there is no discoverable necessary connexion between any given visible magnitude and any one particular tangible magnitude; but that it is entirely the result of custom and experience, and depends on foreign and accidental circumstances that we can by the perception of visible extension inform ourselves what may be the extension of any tangible object connected with it. Hence it is certain that neither the visible magnitude of head or foot would bring along with them into the mind, at first opening of the eyes, the respective tangible magnitudes of those parts.
+101. People object that a man might be thought of:
+- as standing when his feet are on the earth
+- as inverted when his head is on the earth
+
+it doth hence follow that by the mere act of vision, without any experience or altering the situation of the eye, we should have determined whether he were erect or inverted: 
+
+for both the earth itself, and the limbs of the man who stands thereon, being equally perceived by sight, one cannot choose seeing what part of the man is nearest the earth, and what part farthest from it, i.e. whether he be erect or inverted.
+
+
+102. I answer that the ideas which constitute the tangible earth and man are entirely different from those which constitute the visible earth and man. 
+
+Nor was it possible, by virtue of the visive faculty alone, without superadding any experience of touch, or altering the position of the eye, ever to have known, or so much as suspected, there had been any relation or connexion between them.
+
+Hence a man at first view would not denominate anything he saw earth, or head, or foot.
+
+Consequently, he could not tell by the mere act of vision whether the head or feet were nearest the earth: nor, indeed, would we have thereby any thought of earth or man, erect or inverse, at all: which will be made yet more evident if we nicely observe, and make a particular comparison between, the ideas of both senses.
+
+
+103. That which I see is only variety of light and colours. 
+
+That which I feel is hard or soft, hot or cold, rough or smooth.
+
+What similitude, what connexion have those ideas with these? Or how is it possible that anyone should see reason to give one and the same name to combinations of ideas so very different before he had experienced their coexistence?
+
+We do not find there is any necessary connexion betwixt this or that tangible quality and any colour whatsoever. And we may sometimes perceive colours where there is nothing to be felt. 
+
+All which doth make it manifest that no man, at first receiving of his sight, would know there was any agreement between this or that particular object of his sight and any object of touch he had been already acquainted with: the colours, therefore, of the head would to him no more suggest the idea of head than they would the idea of foot.
+
+
+104. Section 63 and 64 have shown there is no discoverable necessary connexion between any given visible magnitude and any one particular tangible magnitude; 
+
+but that it is entirely the result of custom and experience, and depends on foreign and accidental circumstances that we can by the perception of visible extension inform ourselves what may be the extension of any tangible object connected with it. Hence it is certain that neither the visible magnitude of head or foot would bring along with them into the mind, at first opening of the eyes, the respective tangible magnitudes of those parts.
 
 105. By the foregoing section it is plain the visible figure of any part of the body hath no necessary connexion with the tangible figure thereof, so as at first sight to suggest it to the mind. For figure is the termination of magnitude; whence it follows that no visible magnitude having in its own nature an aptness to suggest any one particular tangible magnitude, so neither can any visible figure be inseparably connected with its corresponding tangible figure: so as of itself and in a way prior to experience, it might suggest it to the understanding. This will be farther evident if we consider that what seems smooth and round to the touch may to sight, if viewed through a microscope, seem quite otherwise.
 

@@ -11,7 +11,7 @@ date: 2025-01-11
 
 Adam Smith says:
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 only the produce of land that can commonly be brought to market are those that has an ordinary price which is enough to replace the stock employed to bring them, together with ordinary profits.
 
 If the ordinary price produces more than the ordinary profits, the surplus will naturally go to the rent of land. If it is less than the ordinary profits, the commodity cannot afford rent to the landlord. This ordinary price depends on the demand."
@@ -25,14 +25,14 @@ But Smith had adopted the notion that "there were some parts of the produce of l
 He says:
 
 <!-- , in the most liberal way in which that labour is ever maintained.  -->
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 land produces more food than is used to maintain all the labour necessary for bringing it to market. The surplus too is always more than sufficient to replace the stock which employed that labour, together with its profits. Something, therefore, always remains for a rent to the landlord.
 {{< /q >}}
 
 
 But his only proof of this is:
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 the most desert moors in Norway and Scotland produce some pasture for cattle. These procduce milk and meat which are always more than enough to maintain the labour for tending them, and pay the ordinary profit to the owner of the herd and afford some small rent to the landlord."
 {{< /q >}}
 

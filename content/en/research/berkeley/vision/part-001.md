@@ -2,7 +2,7 @@
 title: "New Theory of Vision"
 weight: 7
 description: ""
-image: "/covers/berkeley.jpg"
+:c: "darkblue"
 ---
 
 <!-- George Berkeley (1685-1753) -->

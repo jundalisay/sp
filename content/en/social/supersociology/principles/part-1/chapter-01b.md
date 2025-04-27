@@ -26,7 +26,7 @@ This confinement builds ego, which is the feeling for the self.
 
 When left unchecked, this ego leads to disagreements, disunity, and eventual conflict. The more democratic the society, the more difficult it is to maintain unity:
 
-{{< q a="Smith" c="The Simple Wealth of Nations Book 5, Chapter 3" >}}
+{{< q a="Adam Smith" c="The Simple Wealth of Nations Book 5, Chapter 3" >}}
 Rancorous and virulent factions which are inseparable from small democracies. Those factions have so frequently divided their people and disturbed the peace of their democratic governments. 
 {{< /q >}}
 

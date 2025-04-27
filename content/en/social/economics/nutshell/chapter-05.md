@@ -33,7 +33,7 @@ The Third Law comes before the Fourth Law because the merchants, middlemen, and 
 - the globalization of food transfers power from the farmer to the trader, which accordingly has caused food inflation globally
 
 
-{{< q a="Smith" c="The Wealth of Nations, Book 1, Chapter 11" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations, Book 1, Chapter 11" >}}
 “Merchants and master manufacturers employ the largest capitals.. Their thoughts revolve around the interest of their own business, than around the interest of society. The proposal of any new commercial law which comes from them should always be listened to with great precaution. This order generally has an interest to deceive and even oppress the public. They have done so on many occasions.”
 {{< /q >}}
 
@@ -46,7 +46,7 @@ As a compromise to reduce the damage to the environment, many academics, institu
 
 We upgrade this into a usufruct economy from the Latin "usus et fructus" which means use and enjoyment of fruits. Usufruct is a legal right given to a person or party to temporarily use and derive benefit from someone else's property.
 
-{{< q a="Smith" c="Wealth of Nations, Book 3, Chapter 4" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 3, Chapter 4" >}}
 “The great landlords wanted to raise their rents above what their lands could afford. The tenants could agree to this on the condition that they should possess the land until they can recover their cost in improving it, with a profit. The landlord's expensive vanity made him willing to accept this condition. Hence the origin of long leases.”
 {{< /q >}}
 
@@ -98,7 +98,7 @@ The Resources branch can also veto the budget if it knows that there are no reso
 The Resources Branch will also include semi-state owned corporations that operate in essential industries like public utilities, oil refining, metals processing, healthcare, transportation (including outer space), and grain distribution. These corporations provide the base of a modern economy and operate as not-for-profit, with their running costs defrayed by taxation, their capital managed by a sovereign wealth fund.
 
 
-{{< q a="Smith" c="The Wealth of Nations, Book 5, Chapter 1" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations, Book 5, Chapter 1" >}}
 “The sovereign's third and last duty is building and maintaining advantageous public works and institutions for society.”
 {{< /q >}}        
 

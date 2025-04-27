@@ -2,9 +2,8 @@
 title: "New Theory of Vision"
 weight: 7
 description: ""
-image: "/covers/berkeley.jpg"
+:c: "darkblue"
 ---
-
 
 
 83. The visive faculty considered with reference to its immediate objects may be found to labour of two defects. FIRST, in respect of the extent or number of visible points that are at once perceivable by it, which is narrow and limited to a certain degree. It can take in at one view but a certain determinate number of MINIMA VISIBILIA, beyond which it cannot extend its prospect. Secondly, our sight is defective in that its view is not only narrow, but also for the most part confused: of those things that we take in at one prospect we can see but a few at once clearly and unconfusedly: and the more we fix our sight on any one object, by so much the darker and more indistinct shall the rest appear.

@@ -40,7 +40,7 @@ The increased investments spur the economy, usually creatomg am economic boom.
 
 A hot economy would then find itself having low profits naturally. If everyone who needs iPhones already has them then there is no more need to buy iPhones and no more need to sell them. 
 
-{{< q a="Smith" c="The Wealth of Nations Book 1, Chapter 5" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Book 1, Chapter 5" >}}
 A country fully stocked in all the trades possible would have great competition everywhere. It would reduce ordinary profits to the minimum.
 {{< /q >}}
 

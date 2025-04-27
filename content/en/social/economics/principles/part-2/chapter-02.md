@@ -50,7 +50,7 @@ This is why Adam Smith explicitly mentions wheat as the measure of value.
 
 You might not be able to print your own money or mine your own gold. But you can certainly grow your own food:
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 At distant times, equal amounts of labour will be bought more nearly with equal amounts of corn, the worker’s subsistence, than with perhaps any other commodity. 
 
 At distant times, equal amounts of corn will enable its possessor to buy or command nearly the same amount of the labour of other people. Although equal amounts of corn will not do it exactly.

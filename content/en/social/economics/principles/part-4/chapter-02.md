@@ -12,7 +12,7 @@ writer:
 ---
 
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 The third division is the circulating capital. It only affords a revenue by circulating or changing masters
 {{< /q >}}
 

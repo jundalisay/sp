@@ -20,7 +20,7 @@ Metaphysics, as a subset of philosophy, was corrupted into Epistemology because 
 This is similar to how Aristotle corrupted logic into Ontology through the invention of syllogism. 
 
 
-{{< q a="Smith" c="Wealth of Nations, Book 5" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 5" >}}
 When Metaphysics and Physics became subservient to theology [via Ontology], the duties of human life were treated as subservient to the afterlife. In this way, Metaphysics became the most corrupted science.
 {{< /q >}}
 
@@ -37,7 +37,7 @@ Both Ontology and Epistemology deal with the formation of knowledge. But this wa
 <!-- Anciently, Metaphysics was called . It is merely Physics for invisible things.  -->
 
 
-{{< q a="Smith" c="Wealth of Nations, Book 5" >}}
+{{< q a="Adam Smith" c="Wealth of Nations, Book 5" >}}
 Physics was gradually extended and divided into Physics and Metaphysics or Pneumatics.
 {{< /q >}}
 

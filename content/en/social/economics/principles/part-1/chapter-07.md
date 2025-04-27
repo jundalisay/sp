@@ -35,7 +35,7 @@ Everyone eats and is familiar with the value of food. Grains are the most common
 Grains are made up of single bits that are very small. This allows a precise valuation that can be increased or decreased in small increments. 
 
 
-{{< q a="Smith" >}}
+{{< q a="Adam Smith" >}}
 At distant times, equal amounts of labour will be bought with equal amounts of wheat than with any other commodity.
 
 At distant times, equal amounts of wheat will enable its possessor to buy the same amount of the labour of other people. Although equal amounts of wheat will not do it exactly.

@@ -41,7 +41,7 @@ This doctrine says that a person will produce the best value if he focuses on wh
 This is mirrored by the invisible hand.
 
 
-{{< q a="Smith" c="The Wealth of Nations, Book 4, Chapter 2" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations, Book 4, Chapter 2" >}}
 “The revenue of every society is always equal to the exchangeable value of the produce of its industry. Every one works to render the society's revenue as great as he can.. 
 
 By directing that industry to produce the greatest value, he intends only his own gain. He is led by an invisible hand to promote an end which he did not intend. By pursuing his own interest, he promotes the society's interest more effectively.”  
@@ -74,7 +74,7 @@ If minimum needs replaces profit maximization, then self-purpose replaces selfis
 He can then set a high market price and get a lot of revenue by an arbitrage or difference between his low real price and the high market price of his lettuce. At this point, he has filled his part in the jigsaw puzzle of the supereconomy.
 
 
-{{< q a="Smith" c="The Wealth of Nations, Book 4, Chapter 7" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations, Book 4, Chapter 7" >}}
 “If goods are sold dearer than their natural price, everyone will be oppressed by it. Their interest requires some stock to be diverted towards [producing]  those goods in order to reduce their price. In this case, the private interests and passions of individuals  naturally dispose them to turn their stocks towards employments most advantageous to society.
 {{< /q >}}
 
@@ -90,7 +90,7 @@ This represents the unity of supply and demand, as the private interests match t
 The rivalry and disunity between buyers and sellers was formalized as the Mercantilist doctrine of balance of trade, something that Smith wrote against. It has since evolved to become the “general equilibrium” of Economics (i.e. Dynamic Stochastic General Equilibrium).
 
 
-{{< q a="Smith" c="The Wealth of Nations, Book 4, Chapter 3" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations, Book 4, Chapter 3" >}}
 “The regulations of commerce are based on the absurd doctrine of the balance of trade. It supposes that when two places trade, neither of them loses or gains if the balance is even. But if it leans to one side, then one loses and the other gains. Both suppositions are false. A trade which is naturally done between any two places is always advantageous to both, but not equally so.”
 {{< /q >}}
 

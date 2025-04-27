@@ -31,7 +31,7 @@ Adam Smith, the founder of Economics, would be against UBI because:
 - It acts as an expense instead of as a capital -- there is no guarantee that the recipient will use it for education to build up his knowledge, or to buy healthy food to build up his body
 
 
-{{< q a="Smith" c="The Wealth of Nations Simplified, Book 3" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 3" >}}
 In towns principally supported by the residence of a court, the poor are chiefly maintained by the spending of revenue. The inferior ranks are generally idle, dissolute, and poor..
 <br>In mercantile and manufacturing towns, the poor are chiefly maintained by the employment of capital. They are generally industrious, sober, and thriving.. It is better, says the proverb, to play for nothing than to work for nothing.
 {{< /q >}}

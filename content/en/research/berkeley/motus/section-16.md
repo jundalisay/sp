@@ -3,7 +3,7 @@ title: "The Nature of Force"
 heading: "Part 3"
 weight: 9
 description: ""
-image: "/covers/berkeley.jpg"
+:c: "darkblue"
 author: "George Berkeley"
 icon: "George Berkeley"
 ---

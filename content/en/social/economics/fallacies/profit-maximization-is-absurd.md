@@ -75,11 +75,11 @@ It would be like a basketball team where all of the salary goes to the star play
 > *Update June 2021: We can thus make an analogy that utilitarianism is a kind of virus that infects the merchant class the most, allowing it to spread naturally around the planet. Neo-liberalism then is the resulting pandemic that has infested the earth, destroying societies and the environment along the way.
 
 
-{{< q a="Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 1" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 5, Chapter 1" >}}
 There is a lot of bullion alternately imported and exported for foreign trade in all great commercial countries. This bullion circulates among commercial countries in the same way as the national coin circulates in every country. This bullion is the money of the great mercantile republic. The national coin receives its movement and direction from the commodities circulated within the country. The mercantile republic’s bullion gets its movement from the circulation between countries.
 {{< /q >}}
 
-{{< q a="Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 4" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 4" >}}
 A merchant is not the citizen of any particular country.He is indifferent on from where he carries on his trade. He will remove his capital and all the industry it supports, from one country to another with very little disgust.
 {{< /q >}}
 
@@ -160,7 +160,7 @@ Without dharmic liberty, societies would remain exposed to big socioeconomic pro
 More generally, this centralization manifests as rising inequality. 
  <!-- which will be felt by more and more people very subtly (especially by millenials) as time goes by. -->
 
-{{< q a="Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
+{{< q a="Adam Smith" c="The Wealth of Nations Simplified, Book 4, Chapter 7" >}}
 Such are the unfortunate effects of all the regulations of the mercantile system! They introduce very dangerous disorders into the political body. Those disorders are often difficult to remedy without creating greater short term disorders.
 {{< /q >}}
 
