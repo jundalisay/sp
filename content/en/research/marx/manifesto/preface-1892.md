@@ -2,7 +2,7 @@
 heading: "1892 Polish and 1893 Italian Editions"
 title: "Preface"
 weight: 5
-c: "maroon"
+c: "firebrick"
 description: "The new Polish edition of the Communist Manifesto has shown that it has become an index of the development of large-scale industry in Europe
 "
 writer:

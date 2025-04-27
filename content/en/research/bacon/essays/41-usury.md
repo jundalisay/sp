@@ -3,7 +3,7 @@ heading: "Essay 41"
 title: "Usury and Interest Rates"
 weight: 53
 description: "MANY have made witty invectives against usury"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

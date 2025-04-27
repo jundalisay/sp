@@ -4,7 +4,7 @@ title: "Hawking, Stephen"
 heading: Unenlightened
 description: "Stephen Hawking developed Einstein's Relativity further to create large scale structures"
 weight: 40
-c: "maroon"
+c: "firebrick"
 a: "Stephen Hawking"
 y: "1942 - 2018"
 ---

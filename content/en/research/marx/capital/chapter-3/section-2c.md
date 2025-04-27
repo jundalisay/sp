@@ -4,7 +4,7 @@ heading: "Section 2c"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-c: "maroon"
+c: "firebrick"
 description: "Money takes the shape of coin because it is the circulating medium"
 weight: 8
 icon: "Karl Marx"

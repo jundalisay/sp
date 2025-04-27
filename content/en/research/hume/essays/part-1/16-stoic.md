@@ -2,7 +2,7 @@
 title: "The Stoic"
 heading: "Essay 16"
 description: "The Stoic"
-c: "darkblue"
+c: "blue"
 weight: 34
 writer:
   name: David Hume

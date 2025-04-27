@@ -2,7 +2,7 @@
 title: "The Nature of General Rules"
 heading: Section 13b
 description: "General Rules are formed on the nature of our understanding"
-c: "darkblue"
+c: "blue"
 weight: 26
 writer:
   name: David Hume

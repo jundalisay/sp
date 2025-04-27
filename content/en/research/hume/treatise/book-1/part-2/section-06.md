@@ -2,7 +2,7 @@
 heading: "Section 6"
 title: "The Idea of Existence and External Existence"
 weight: 12
-c: "darkblue"
+c: "blue"
 description: "The Idea of Space is Just Made Up of Points"
 writer:
   name: David Hume

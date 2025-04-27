@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: "The Communists and Various Opposition Parties"
 weight: 20
-c: "maroon"
+c: "firebrick"
 description: "The Communists fight for the attainment of the immediate aims and the enforcement of the momentary interests of the working class"
 writer:
   name: Karl Marx

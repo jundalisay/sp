@@ -1,6 +1,6 @@
 ---
 title: "Definitions"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 3

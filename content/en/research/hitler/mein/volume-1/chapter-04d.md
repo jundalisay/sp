@@ -4,7 +4,7 @@ heading: Chapter 4d
 weight: 32
 description: "If in 1904, our German foreign policy made us take the part which Japan played then there would have been no world war"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

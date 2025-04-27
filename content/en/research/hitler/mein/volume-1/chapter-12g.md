@@ -4,7 +4,7 @@ heading: Chapter 12g
 weight: 124
 description: "The Marxist leaders deceived and misled the public. They naturally hated movements that aimed to win over the masses"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

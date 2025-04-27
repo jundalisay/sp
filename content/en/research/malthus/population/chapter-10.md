@@ -11,9 +11,23 @@ date: 2025-04-04
 
 <!-- Mr Godwin's system of equality—Error of attributing all the vices of mankind to human institutions—Mr Godwin's first answer to the difficulty arising from population totally insufficient—Mr Godwin's beautiful system of equality supposed to be realized—Its utter destruction simply from the principle of population in so short a time as thirty years. -->
 
-In reading Mr Godwin's ingenious and able work on political justice, it is impossible not to be struck with the spirit and energy of his style, the force and precision of some of his reasonings, the ardent tone of his thoughts, and particularly with that impressive earnestness of manner which gives an air of truth to the whole. At the same time, it must be confessed that he has not proceeded in his inquiries with the caution that sound philosophy seems to require. His conclusions are often unwarranted by his premises. He fails sometimes in removing the objections which he himself brings forward. He relies too much on general and abstract propositions which will not admit of application. And his conjectures certainly far outstrip the modesty of nature.
+Mr Godwin has an ingenious and able work on political justice.
 
-The system of equality which Mr Godwin proposes is, without doubt, by far the most beautiful and engaging of any that has yet appeared. An amelioration of society to be produced merely by reason and conviction wears much more the promise of permanence than any change effected and maintained by force. The unlimited exercise of private judgement is a doctrine inexpressibly grand and captivating and has a vast superiority over those systems where every individual is in a manner the slave of the public. The substitution of benevolence as the master-spring and moving principle of society, instead of self-love, is a consummation devoutly to be wished. In short, it is impossible to contemplate the whole of this fair structure without emotions of delight and admiration, accompanied with ardent longing for the period of its accomplishment. But, alas! that moment can never arrive. The whole is little better than a dream, a beautiful phantom of the imagination. These 'gorgeous palaces' of happiness and immortality, these 'solemn temples' of truth and virtue will dissolve, 'like the baseless fabric of a vision', when we awaken to real life and contemplate the true and genuine situation of man on earth. Mr Godwin, at the conclusion of the third chapter of his eighth book, speaking of population, says:
+But his conclusions are often unwarranted by his premises. 
+
+He fails sometimes in removing the objections which he himself brings forward. He relies too much on general and abstract propositions which will not admit of application.
+
+He proposes a beautiful and engaging system of equality.
+
+An amelioration of society to be produced merely by reason and conviction wears much more the promise of permanence than any change effected and maintained by force. 
+
+The unlimited exercise of private judgement is a doctrine inexpressibly grand and captivating and has a vast superiority over those systems where every individual is in a manner the slave of the public.
+
+The substitution of benevolence as the master-spring and moving principle of society, instead of self-love, is a consummation devoutly to be wished.
+
+In short, it is impossible to contemplate the whole of this fair structure without emotions of delight and admiration, accompanied with ardent longing for the period of its accomplishment. But, alas! that moment can never arrive. 
+
+The whole is little better than a dream, a beautiful phantom of the imagination. These 'gorgeous palaces' of happiness and immortality, these 'solemn temples' of truth and virtue will dissolve, 'like the baseless fabric of a vision', when we awaken to real life and contemplate the true and genuine situation of man on earth. Mr Godwin, at the conclusion of the third chapter of his eighth book, speaking of population, says:
 
 There is a principle in human society, by which population is perpetually kept down to the level of the means of subsistence. Thus among the wandering tribes of America and Asia, we never find through the lapse of ages that population has so increased as to render necessary the cultivation of the earth.
 

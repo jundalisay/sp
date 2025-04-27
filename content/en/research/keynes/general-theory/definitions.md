@@ -1,7 +1,7 @@
 ---
 title: "Definitions"
 description: ""
-c: "maroon"
+c: "firebrick"
 # date: 2020-01-31
 weight: 116
 icon: "John Maynard Keynes"

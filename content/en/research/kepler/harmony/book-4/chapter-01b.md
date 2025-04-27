@@ -2,10 +2,10 @@
 heading: Chapter 1b
 title: "A harmony is a single thing"
 description: "A harmony is a single thing"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 8
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

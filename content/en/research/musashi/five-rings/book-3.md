@@ -2,7 +2,7 @@
 heading: Book 3
 title: "The Fire Book"
 description: "Five Rings by Musashi"
-c: "darkblue"
+c: "blue"
 icon: "Musashi"
 weight: 8
 ---

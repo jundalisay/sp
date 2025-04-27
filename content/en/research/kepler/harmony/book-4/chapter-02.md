@@ -2,10 +2,10 @@
 heading: Chapter 2
 title: "The Number and Kind of the Faculties of the Soul in Accordance with the Harmonies"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 14
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

@@ -2,10 +2,10 @@
 heading: Chapter 5d
 title: The Arcs of a Circle
 description: "The arcs of a circle, of which the figures are powerful in more, and more important, degrees of congruence and knowability, also take the more influential configurations"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 26
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

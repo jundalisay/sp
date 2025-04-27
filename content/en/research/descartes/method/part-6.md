@@ -3,7 +3,7 @@ heading: Part 6
 title: Cartesian Method
 weight: 20
 description: Rene Descartes 1635
-c: "darkblue"
+c: "blue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

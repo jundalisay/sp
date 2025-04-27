@@ -2,7 +2,7 @@
 heading: "Chapter 16"
 title: "Sundry Observations on the Nature of Capital"
 description: "individual saving is a decision not to have dinner today"
-c: "maroon"
+c: "firebrick"
 # date: 2020-10-24
 weight: 70
 icon: "John Maynard Keynes"

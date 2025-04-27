@@ -4,7 +4,7 @@ heading: Chapter 7
 weight: 48
 description: "IN 1915, the enemy started their propaganda among our soldiers"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

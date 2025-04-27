@@ -3,7 +3,7 @@ title: Organs of Extreme Perfection and Complication
 heading: Chapter 6c
 weight: 44
 description: "The Galeopithecus or flying lemur formerly was falsely ranked amongst bats"
-c: "maroon"
+c: "firebrick"
 ---
 
 

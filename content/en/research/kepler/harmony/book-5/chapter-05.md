@@ -3,10 +3,10 @@ heading: Chapter 5
 title: "The Positions in the System, or the Notes of the Musical Scale"
 # , and the Kinds of Melody, Hard and Soft, Have Been Expressed in the Apparent (to observers on the sun, so to speak) Planetary Motions.
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 12
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

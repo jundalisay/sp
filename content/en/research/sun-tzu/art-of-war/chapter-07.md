@@ -1,6 +1,6 @@
 ---
 title: "Maneuvering"
-c: "maroon"
+c: "firebrick"
 author: "Sun Tzu"
 description: "Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp"
 heading: "Chapter 7"

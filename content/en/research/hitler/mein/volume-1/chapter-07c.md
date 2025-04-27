@@ -4,7 +4,7 @@ heading: Chapter 7c
 weight: 54
 description: "In August and September, the symptoms of moral disintegration increased more rapidly"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

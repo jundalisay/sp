@@ -3,7 +3,7 @@ heading: Rule 1
 title: The Aim of Studies 
 weight: 4
 description: The aim of studies should be the guidance of the mind to form solid and true judgments on all things that come before it.
-c: "darkblue"
+c: "blue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

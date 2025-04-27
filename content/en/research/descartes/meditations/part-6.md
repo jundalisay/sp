@@ -6,7 +6,7 @@ description: "I perceive them clearly as the subject matter of pure mathematics.
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "darkblue"
+c: "blue"
 icon: "Rene Descartes"
 ---
 

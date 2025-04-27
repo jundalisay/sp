@@ -2,7 +2,7 @@
 heading: "Part 1c"
 title: "The Day of Judgment"
 description: "If the Law is divided into these 3 parts, to which of these does the description of the state of the Day of Judgment belong?"
-c: "maroon"
+c: "firebrick"
 weight: 8
 icon: "Averroes"
 writer:

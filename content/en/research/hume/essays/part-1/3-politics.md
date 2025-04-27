@@ -2,7 +2,7 @@
 title: "Politics May Be Reduced To a Science"
 heading: "Essay 3"
 description: "It is wrong to say that all governments are alike, and that their only difference is in the character and conduct of the governors."
-c: "darkblue"
+c: "blue"
 weight: 6
 writer:
   name: David Hume

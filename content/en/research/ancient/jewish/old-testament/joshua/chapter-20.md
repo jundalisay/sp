@@ -3,7 +3,7 @@ heading: Joshua 12
 title: "More Rules"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 40
-c: "maroon"
+c: "firebrick"
 ---
 
 

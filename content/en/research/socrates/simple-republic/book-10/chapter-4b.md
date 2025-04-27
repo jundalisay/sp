@@ -3,7 +3,7 @@ heading: Chapter 4b
 title: "The 8 Whorls in the Spindle of Necessity"
 weight: 9
 description: "We equate t he 8 Whorls of Socrates and Er to the 8 Chakras and the Spindle to the anthakarana"
-c: "darkblue"
+c: "blue"
 icon: "Socrates"
 ---
 

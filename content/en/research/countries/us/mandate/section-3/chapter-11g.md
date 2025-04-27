@@ -2,7 +2,7 @@
 title: "Additional K–12 Reforms"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

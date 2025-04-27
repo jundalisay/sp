@@ -1,6 +1,6 @@
 ---
 title:  "Laying Plans"
-c: "maroon"
+c: "firebrick"
 author: "Sun Tzu"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
 heading:  "Chapter 1"

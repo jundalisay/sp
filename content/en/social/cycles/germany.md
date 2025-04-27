@@ -177,3 +177,5 @@ The SPD and the AfD, via Alice Weidel, will neither be effective as Elon Musk cl
 In any way, the best policy for Germany is to switch to the Nordic model by choosing a party that has a plan for it. 
 
 
+
+{{< u d="Feb 2025" u="BSW didn't win, while AfD had some more seats. It follows that Germany is in a Warrior Cycle" >}}

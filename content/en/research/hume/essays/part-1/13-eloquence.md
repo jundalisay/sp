@@ -2,7 +2,7 @@
 title: "Eloquence"
 heading: "Essay 13"
 description: "The Difference in the feelings of the ancients and modersn lead to their differences in eloquence"
-c: "darkblue"
+c: "blue"
 weight: 26
 writer:
   name: David Hume

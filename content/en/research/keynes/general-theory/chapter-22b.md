@@ -2,7 +2,7 @@
 heading: "Chapter 22b"
 title: "Notes on the Trade Cycle"
 description: "Notes on the Trade Cycle"
-c: "maroon"
+c: "firebrick"
 # date: 2020-09-22
 weight: 102
 icon: "John Maynard Keynes"

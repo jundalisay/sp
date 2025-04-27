@@ -3,7 +3,7 @@ heading: Genesis 18
 title: "Sodom's Destruction"
 description: "Sarai, Abram’s wife, bare him no children. She had an Egyptian servant named Hagar"
 weight: 36
-c: "maroon"
+c: "firebrick"
 ---
 
 

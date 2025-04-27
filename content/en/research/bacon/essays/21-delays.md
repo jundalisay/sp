@@ -3,7 +3,7 @@ heading: "Essay 21"
 title: "Delays"
 weight: 32
 description: "I would rather believe in all the fables than to think that this universal frame is without a mind"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

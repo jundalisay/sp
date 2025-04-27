@@ -4,7 +4,7 @@ title: "Projectivle"
 description: "The planets move in ellipses which have their common focus in the sun's centre. By radii drawn, to tJtat centre, they describe areas pro the times of description"
 author: Newton
 draft: true
-c: "maroon"
+c: "firebrick"
 ---
 
 

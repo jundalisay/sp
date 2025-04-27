@@ -2,7 +2,7 @@
 title: "NEW AGENCY POLICIES THAT DON’T REQUIRE NEW LEGISLATION OR REGULATIONS TO ENACT"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

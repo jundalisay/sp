@@ -2,7 +2,7 @@
 title: "Money"
 heading: "Essay 3"
 description: "Labor is the ultimate measure of value, not money"
-c: "darkblue"
+c: "blue"
 weight: 8
 writer:
   name: David Hume

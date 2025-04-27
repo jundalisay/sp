@@ -1,7 +1,7 @@
 ---
 heading: Chapter 13b
 title:  "Genetic Engineering By Enki and Ninti"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Ninti, in a pose that indicates that she was a co-worker rather than a spouse, is seated next to Enki"

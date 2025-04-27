@@ -2,7 +2,7 @@
 title: "Ferc: Electric Reliability And Resilience"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

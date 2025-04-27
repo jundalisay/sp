@@ -3,7 +3,7 @@ heading: "Article 80"
 title: "The Last of the Objections"
 weight: 97
 description: "What if we give up the Cause of material Substance and assert, that Matter is an unknown Somewhat"
-c: "darkblue"
+c: "blue"
 author: "Berkeley"
 ---
 

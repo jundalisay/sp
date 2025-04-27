@@ -3,7 +3,7 @@ title: "Circle-Learning and the Impediments of Handling Knowledge by Parts"
 # title: "The impediments of knowledge in handling it by parts"
 heading: Chapter 8
 weight: 10
-c: "darkblue"
+c: "blue"
 description: "In the divine nature, both religion and philosophy acknowledges goodness in perfection"
 icon: "Francis Bacon"
 writer:

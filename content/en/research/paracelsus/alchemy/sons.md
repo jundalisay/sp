@@ -2,7 +2,7 @@
 heading: Conclusion Preface
 title: "TO THE SONS of TRVTH"
 description: "The Origin of Physiognomy"
-c: "maroon"
+c: "firebrick"
 weight: 54
 writer:
   name: Paracelsus

@@ -2,10 +2,10 @@
 heading: Part 26
 title: "Addition and Subtraction"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 11
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

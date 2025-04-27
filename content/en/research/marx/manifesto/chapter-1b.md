@@ -2,7 +2,7 @@
 heading: "Chapter 1b "
 title: "Modern Industry"
 weight: 7
-c: "maroon"
+c: "firebrick"
 description: "The capitalist focuses on centralization has led to political centralization"
 writer:
   name: Karl Marx

@@ -3,7 +3,7 @@ heading: Ezekiel 1
 title: "The Anunnaki Visit"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 4
-c: "maroon"
+c: "firebrick"
 ---
 
 {{< n n="Here, we replace 'God' with 'Anunnaki'" >}}

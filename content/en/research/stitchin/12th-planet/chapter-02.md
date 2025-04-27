@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2
 title:  "The Sudden Civilization"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "When Napoleon arrived in Egypt in 1799, he took with him scholars to study the ancient monuments there"

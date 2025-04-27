@@ -3,7 +3,7 @@ heading: Genesis 27
 title: "Isaac and Esau"
 description: "When Isaac was old, and his eyes were dim, so that he could not see"
 weight: 54
-c: "maroon"
+c: "firebrick"
 ---
 
 

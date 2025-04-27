@@ -2,7 +2,7 @@
 heading: Chapter 15
 title: "Taxes on Other Commodities Than Raw Produce"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 184
 date: 2025-01-11
 ---

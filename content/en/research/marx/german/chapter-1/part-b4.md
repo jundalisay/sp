@@ -5,7 +5,7 @@ writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: "Karl Marx"
-c: "maroon"
+c: "firebrick"
 aliases:
   /research/marx/german/chapter-1/part-b4
 ---

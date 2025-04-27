@@ -4,7 +4,7 @@ heading: Chapter 5c
 weight: 42
 description: "Marxism's final objective is the destruction of all non-Jewish national States"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

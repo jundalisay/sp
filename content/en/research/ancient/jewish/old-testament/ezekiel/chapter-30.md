@@ -3,7 +3,7 @@ heading: Ezekiel 30
 title: "The Fall of Egypt Under Nebuchadrezzar"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 86
-c: "maroon"
+c: "firebrick"
 ---
 
 

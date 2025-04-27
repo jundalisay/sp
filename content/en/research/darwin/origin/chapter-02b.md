@@ -3,7 +3,7 @@ title: Species Versus Variety
 heading: Chapter 2b
 weight: 14
 description: "Many years ago I compared the birds from the separate islands of the Galapagos Archipelago"
-c: "maroon"
+c: "firebrick"
 ---
 
 

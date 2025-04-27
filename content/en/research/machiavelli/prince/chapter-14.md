@@ -4,7 +4,7 @@ heading: "Chapter 14"
 author: "Machiavelli"
 description: "A prince should have no other aim or thought, nor select anything else for his study, than war and its rules and discipline"
 weight: 24
-c: "maroon"
+c: "firebrick"
 icon: "Machiavelli"
 ---
 

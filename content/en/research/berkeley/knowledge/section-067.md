@@ -3,7 +3,7 @@ heading: "Article 67"
 title: "What is Matter and Occasion?"
 weight: 77
 description: "People might object that there can be no such thing as an inert, senseless, extended, solid, figured, moveable Substance"
-c: "darkblue"
+c: "blue"
 author: "Berkeley"
 ---
 

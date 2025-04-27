@@ -3,7 +3,7 @@ heading: Section 4
 title: "The Economy"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 5d
 title:  "The Tower of Babel"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "The Old Testament also reports that the prophet Elijah did not die on Earth"

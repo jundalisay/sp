@@ -5,7 +5,7 @@ weight: 6
 # date: 2022-04-28
 description: "To solve the relativity of our perceptions, we use a quantum as our measuring rod which we add to itself"
 icon: "Einstein"
-c: "maroon"
+c: "firebrick"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

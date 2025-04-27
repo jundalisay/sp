@@ -2,7 +2,7 @@
 heading: "Chapter 3"
 title: "The Six Problems"
 weight: 8
-image: "/covers/algebra.jpg"
+c: "blue"
 description: "The Six Problems"
 draft: true
 ---

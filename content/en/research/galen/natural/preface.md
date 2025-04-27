@@ -3,32 +3,33 @@ title: "Preface"
 date: 2024-12-17
 weight: 3
 description: "The Natural Faculties"
-c: "maroon"
-draft: true
+c: "firebrick"
 ---
 
 
 ## INTRODUCTION
 
-Hippocrates and Galen. If the work of Hippocrates be taken as representing the foundation upon which the edifice of historical Greek medicine was reared, then the work of Galen, who lived some six hundred years later, may be looked upon as the summit or apex of the same edifice. Galen’s merit is to have crystallised or brought to a focus all the best work of the Greek medical schools which had preceded his own time. It is essentially in the form of Galenism that Greek medicine was transmitted to after ages.
+Galen lived some 600 years after Hippocrates.
 
-The Beginnings
-of
-Medicine
-in Greece. 
+If the work of Hippocrates is the foundation of historical Greek medicine, then the work of Galen is the summit of the same edifice.
 
-The ancient Greeks referred the origins of medicine to a god Asklepios (called in Latin Aesculapius), thereby testifying to their appreciation of the truly divine function of the healing art. The emblem of Aesculapius, familiar in medical symbolism at the present day, was a staff with a serpent coiled round it, the animal typifying wisdom in general, and more particularly the wisdom of the medicine-man, with his semi-miraculous powers over life and death.
+<!-- Galen’s merit is to have crystallised or brought to a focus all the best work of the Greek medical schools which had preceded his own time. It is essentially in the form of Galenism that Greek medicine was transmitted to after ages. -->
 
-Pg x “Be ye therefore wise as serpents and harmless as doves.”
+The ancient Greeks referred the origins of medicine to a god Asklepios (called in Latin Aesculapius).
 
-The Asclepiea
-or
-Health-Temples. The temples of Aesculapius were scattered over the ancient Hellenic world. To them the sick and ailing resorted in crowds. The treatment, which was in the hands of an hereditary priesthood, combined the best of the methods carried on at our present-day health-resorts, our hydropathics, sanatoriums, and nursing-homes. Fresh air, water-cures, massage, gymnastics, psychotherapy, and natural methods in general were chiefly relied on.
+The emblem of Aesculapius is currently a medical symbolism as a staff with a serpent coiled round it.
+- The snake meant the wisdom of the medicine-man
 
-Hippocrates
-and the
-Unity of the
-Organism. Hippocrates, the “Father of Medicine” (5th to 4th centuries, B.C.) was associated with the Asclepieum of Cos, an island off the south-west coast of Asia Minor, near Rhodes. He apparently revitalized the work of the health-temples, which had before his time been showing a certain decline in vigour, coupled with a corresponding excessive tendency towards sophistry and priestcraft.
+<!-- , with his semi-miraculous powers over life and death.
+
+Pg x “Be ye therefore wise as serpents and harmless as doves.” -->
+
+The temples of Aesculapius were scattered over the ancient Hellenic world. To them the sick and ailing resorted in crowds. The treatment, which was in the hands of an hereditary priesthood, combined the best of the methods carried on at our present-day health-resorts, our hydropathics, sanatoriums, and nursing-homes. Fresh air, water-cures, massage, gymnastics, psychotherapy, and natural methods in general were chiefly relied on.
+
+
+### Hippocrates and the Unity of the Organism. Hippocrates
+
+The “Father of Medicine” (5th to 4th centuries, B.C.) was associated with the Asclepieum of Cos, an island off the south-west coast of Asia Minor, near Rhodes. He apparently revitalized the work of the health-temples, which had before his time been showing a certain decline in vigour, coupled with a corresponding excessive tendency towards sophistry and priestcraft.
 
 Celsus says: “Hippocrates Cous primus quidem ex omnibus memoria dignis ab studio sapientiae disciplinam hanc separavit.” He means that Hippocrates first gave the physician an independent standing, separating him from the cosmological speculator. Hippocrates confined the medical man to medicine. He did with medical thought what Socrates did with thought in general—he “brought it down from heaven to earth.” His watchword was “Back to Nature!”
 

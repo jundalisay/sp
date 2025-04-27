@@ -1,7 +1,7 @@
 ---
 title: "Speculators Versus Enterprise"
 heading: "Chapter 12e"
-c: "maroon"
+c: "firebrick"
 description: "The position is serious when enterprise becomes the bubble on a whirlpool of speculation"
 # date: 2020-11-12
 weight: 52

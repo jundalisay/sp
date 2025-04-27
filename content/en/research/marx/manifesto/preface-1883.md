@@ -2,7 +2,7 @@
 heading: "1883 German Edition"
 title: "Preface"
 weight: 3
-c: "maroon"
+c: "firebrick"
 description: "Marx died on March 14, 1883"
 writer:
   name: Engels

@@ -4,7 +4,7 @@ heading: Chapter 7
 date: 2024-11-01
 description: ""
 author: "Dustin J. Carmack"
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

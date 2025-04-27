@@ -2,10 +2,10 @@
 heading: Parts 8-11
 title: "Proper and Improper Construction of Shapes"
 description: "The quantity of a line is knowable if it is either itself immediately measurable"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 6
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

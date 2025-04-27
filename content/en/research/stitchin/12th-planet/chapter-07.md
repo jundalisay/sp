@@ -1,7 +1,7 @@
 ---
 heading: Chapter 7
 title: Stitchin's Moon Theory
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "The 4,500-year-old depiction insists that there was another major planet between Mars and Jupiter"

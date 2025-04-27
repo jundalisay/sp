@@ -3,7 +3,7 @@ heading: "Chapter 4"
 title: "Meng"
 description: "Qian represents what is great and originating, penetrating, advantageous, correct and firm"
 weight: 10
-c: "darkblue"
+c: "blue"
 date: 2024-06-29
 ---
 

@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 4
 author: Galen
 description: ""
-c: "maroon"
+c: "firebrick"
 ---
 
 <!-- GALEN

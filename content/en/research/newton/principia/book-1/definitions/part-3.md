@@ -2,7 +2,7 @@
 heading: Scholium 2
 linkTitle: Scholium 2
 title: "Proposition 24, Theorem 39"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 6

@@ -1,7 +1,7 @@
 ---
 title: "Investment Rate versus Interest Rates"
 heading: "Chapter 14b"
-c: "maroon"
+c: "firebrick"
 description: "This is illustrated by investment versus interest rates"
 # date: 2020-11-05
 weight: 58

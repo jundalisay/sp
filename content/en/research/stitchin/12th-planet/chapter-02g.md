@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2g
 title:  "The Sumerian Firsts"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "The table of contents of From the Tablets of Sumer has 25 chapters described Sumerian 'firsts'"

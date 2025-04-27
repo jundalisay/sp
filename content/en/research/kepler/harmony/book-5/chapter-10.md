@@ -2,10 +2,10 @@
 heading: Chapter 10
 title: "Conjectural Epilogue on the Sun"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 32
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

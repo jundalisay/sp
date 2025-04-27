@@ -4,7 +4,7 @@ linkTitle: Errors
 title: "Factual Errors and Shortcomings by Descartes"
 weight: 30
 description: "We list down the errors of Descartes so we can bring back an error-free Cartesian Science"
-c: "maroon"
+c: "firebrick"
 ---
 
 We test Descartes' assertions, just as we tested Einstein's and Keynes', to expose his factual errors. 

@@ -2,10 +2,10 @@
 heading: Chapter 8
 title: "The Universal Harmonies of all the Six Planets, as if in Common Counterpoint, Occur in Four Parts"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 18
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

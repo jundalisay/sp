@@ -2,7 +2,7 @@
 heading: Chapter 20
 title: "Bounties On Exportation, And Prohibitions Of Importation"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 184
 date: 2025-01-11
 ---

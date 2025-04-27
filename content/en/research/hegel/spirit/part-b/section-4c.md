@@ -2,7 +2,7 @@
 heading: "Section 4c"
 title: "The Truth which Conscious Certainty of Self Realises"
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "darkblue"
+c: "blue"
 author: Hegel
 weight: 8
 ---

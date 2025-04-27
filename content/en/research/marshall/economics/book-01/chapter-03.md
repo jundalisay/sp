@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "ECONOMIC GENERALIZATIONS OR LAWS"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 9
 ---
 

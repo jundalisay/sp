@@ -4,7 +4,7 @@ heading: "Section 7"
 weight: 14
 # date: 2022-04-18
 description: "The constancy of the speed of light makes classical mechanics not universal"
-c: "maroon"
+c: "firebrick"
 icon: "Einstein"
 writer:
   name: Albert Einstein

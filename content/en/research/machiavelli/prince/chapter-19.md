@@ -4,7 +4,7 @@ heading: "Chapter 19"
 author: "Machiavelli"
 description: "A wise lord cannot and should not keep faith when such promises may be turned against him, and when the reasons that caused him to promise no longer exist"
 weight: 32
-c: "maroon"
+c: "firebrick"
 icon: "Machiavelli"
 ---
 

@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: "Bourgeois and Proletarians"
 weight: 6
-c: "maroon"
+c: "firebrick"
 description: "The spectre of communism is haunting Europe"
 writer:
   name: Karl Marx

@@ -5,6 +5,6 @@ weight: 2
 linkTitle: "EPR Paradox"
 # date: 2022-08-08
 description: "Einstein explains his dislike for Quantum Mechanics"
-c: "maroon"
+c: "firebrick"
 youtube: "lmsTdzBql5o"
 ---

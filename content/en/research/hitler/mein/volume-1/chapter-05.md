@@ -4,7 +4,7 @@ heading: Chapter 5
 weight: 38
 description: "In my youth, my energy was dampened by the world erecting temples of fame only in honour of businessmen and State officials"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

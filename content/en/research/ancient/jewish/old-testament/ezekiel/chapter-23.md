@@ -3,7 +3,7 @@ heading: Ezekiel 23
 title: "Aholah the elder and Aholibah"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 62
-c: "maroon"
+c: "firebrick"
 ---
 
 

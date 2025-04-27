@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "THE SUBSTANCE OF ECONOMICS"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 7
 ---
 

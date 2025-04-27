@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Averroes
 description: ""
 weight: 16
-c: "maroon"
+c: "firebrick"
 ---
 
 

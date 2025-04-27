@@ -3,7 +3,7 @@ title: Variation under Domestication
 heading: Chapter 1g
 weight: 10
 description: "Artificial selection has shown how our domestic races have adaptations in their structure or habits based on human design"
-c: "maroon"
+c: "firebrick"
 author: "Charles Darwin"
 icon: "Charles Darwin"
 ---

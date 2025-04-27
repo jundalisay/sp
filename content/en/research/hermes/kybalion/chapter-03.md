@@ -2,7 +2,7 @@
 heading: "Chapter 3"
 title: Mental Transmutation Simplified
 description: The Hermetists were the original alchemists, astrologers, and psychologists, with Hermes as the founder of these schools
-c: "maroon"
+c: "firebrick"
 weight: 8
 ---
 

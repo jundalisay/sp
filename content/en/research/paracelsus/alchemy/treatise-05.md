@@ -2,7 +2,7 @@
 heading: Treatise 5
 title: "The generation of all kinds of Stones"
 description: "The Origin of Physiognomy"
-c: "maroon"
+c: "firebrick"
 weight: 22
 writer:
   name: Paracelsus

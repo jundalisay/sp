@@ -2,7 +2,7 @@
 title: "Dedication to Lord James"
 # heading: "Chapter 1"
 description: "Here are the reasons why I transferred these books on Harmony away from the court of Germany into England"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 2
 contributors: ['Kepler']
 icon: /avatars/kepler.png

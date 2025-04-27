@@ -6,7 +6,7 @@ description: "A mathematician's job is to write annual forecasts"
 c: "darkgoldenrod"
 weight: 2
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

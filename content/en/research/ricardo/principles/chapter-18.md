@@ -2,7 +2,7 @@
 heading: Chapter 18
 title: "Value And Riches, Their Distinctive Properties"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 184
 date: 2025-01-11
 ---

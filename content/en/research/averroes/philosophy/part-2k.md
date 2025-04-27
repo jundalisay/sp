@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Averroes
 weight: 32
 description: "The Day of Judgment is a thing in which all the religions are agreed. All the learned men have proved it by arguments."
-c: "maroon"
+c: "firebrick"
 ---
 
 

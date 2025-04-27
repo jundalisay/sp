@@ -2,7 +2,7 @@
 heading: Section 1
 linkTitle: Prop 4
 title: "Proposition 4 Problem 2"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 6

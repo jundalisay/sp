@@ -2,7 +2,7 @@
 heading: Section 9
 title: "THE DIRECT PASSIONS"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
-c: "darkblue"
+c: "blue"
 weight: 4
 writer:
   name: David Hume

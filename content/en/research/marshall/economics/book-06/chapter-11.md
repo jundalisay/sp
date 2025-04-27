@@ -2,7 +2,7 @@
 title: "GENERAL VIEW OF DISTRIBUTION"
 heading: Chapter 11
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 4
 ---
 

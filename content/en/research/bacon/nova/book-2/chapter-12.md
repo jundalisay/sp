@@ -3,7 +3,7 @@ title: "12: Instances of Extremity / 13: Alliance or union"
 heading: Chapter 13
 weight: 44
 description: "These are not only serviceable when subjoined to fixed propositions, but also of themselves and from their own nature"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 ---
 

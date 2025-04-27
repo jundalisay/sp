@@ -2,7 +2,7 @@
 title: "Administrator’s Office And Reorganization Responsibility"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

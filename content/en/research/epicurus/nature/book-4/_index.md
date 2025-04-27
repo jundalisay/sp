@@ -7,7 +7,7 @@ heading: Book 4
 weight: 8
 description: 
 author: "Titus Lucretius Carus"
-c: "maroon"
+c: "firebrick"
 ---
 
 

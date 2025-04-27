@@ -2,10 +2,10 @@
 heading: Chapter 1c
 title: "The Pure and Secret Harmonies"
 description: "To establish them outside the soul is self-contradictory"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 10
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

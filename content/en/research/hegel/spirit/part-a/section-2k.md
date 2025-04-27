@@ -2,7 +2,7 @@
 heading: "Section 2k"
 title: "Law as Distinction and Sameness"
 description: Universal attraction says merely that everything has a constant distinction for anything else..
-c: "darkblue"
+c: "blue"
 author: Hegel
 icon: "Hegel"
 weight: 36

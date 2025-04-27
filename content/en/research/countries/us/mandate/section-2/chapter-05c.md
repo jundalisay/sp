@@ -2,7 +2,7 @@
 title: "Necessary Border And Immigration Statutory, Regulatory, And Administrative Changes"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

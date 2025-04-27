@@ -2,7 +2,7 @@
 heading: Chapter 11
 title: "Notes"
 weight: 2
-image: "/covers/algebra.jpg"
+c: "blue"
 description: "Three kinds of numbers in calculations"
 draft: true
 ---

@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "What is Justice?"
 weight: 4
-c: "darkblue"
+c: "blue"
 description: "Justice is not merely doing good to our friends and doing harm to our enemies. Nor is it just the repayment of debts."
 icon: "Socrates"
 ---

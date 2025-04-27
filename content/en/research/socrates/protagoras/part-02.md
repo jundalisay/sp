@@ -5,7 +5,7 @@ weight: 4
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "darkblue"
+c: "blue"
 description: "By the gods, I said, and are you not ashamed at having to appear before the Hellenes in the character of a Sophist?"
 icon: "Socrates"
 ---

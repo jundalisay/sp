@@ -2,10 +2,10 @@
 heading: Chapter 4
 title: "The Distinction is Between the Harmonies"
 description: "There is a fivefold distinction between the harmonies studied in Books 3 and 4"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 18
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 <!-- It is quite out of place to prefix a longer dissertation on the importance for sound philosophy of distinguishing the boundaries of things, of comparing things which are akin so that they are not taken for the same, and to contrast opposites to illuminate them. 

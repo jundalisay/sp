@@ -4,7 +4,7 @@ title: "The Conservative Promise"
 weight: 2
 # date: 2023-06-17
 description: "Heritage Foundation"
-c: "maroon"
+c: "firebrick"
 ---
 
 

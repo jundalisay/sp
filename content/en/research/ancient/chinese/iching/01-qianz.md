@@ -3,7 +3,7 @@ heading: "Chapter 1"
 title: "The Satisfaction from Learning"
 description: "To learn, and then to practise opportunely what one has learned, brings satisfaction"
 weight: 1
-c: "darkblue"
+c: "blue"
 date: 2024-06-29
 draft: true
 ---

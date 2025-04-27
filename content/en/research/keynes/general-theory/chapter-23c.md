@@ -1,7 +1,7 @@
 ---
 title: "Silvio Gesell"
 description: "Silvio Gesell (1862-1930) is an unduly neglected prophet. His work has flashes of deep insight"
-c: "maroon"
+c: "firebrick"
 # date: 2019-12-10
 weight: 108
 icon: "John Maynard Keynes"

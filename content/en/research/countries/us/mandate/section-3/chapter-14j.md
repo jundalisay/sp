@@ -2,7 +2,7 @@
 title: "ADMINISTRATION FOR STRATEGIC PREPAREDNESS AND RESPONSE (ASPR)"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

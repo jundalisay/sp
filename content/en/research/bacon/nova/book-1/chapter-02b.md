@@ -2,7 +2,7 @@
 title: "The Idols of the Tribe"
 heading: Chapter 2b
 weight: 6
-c: "darkblue"
+c: "blue"
 description: "The nature of human understanding easily supposes a greater degree of order and equality in things than it really finds"
 icon: "Francis Bacon"
 ---

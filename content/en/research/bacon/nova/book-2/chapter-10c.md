@@ -3,7 +3,7 @@ title: "8 Deviating / 9 Bordering Instances"
 heading: Chapter 10c
 weight: 37
 description: "Examples are the errors of nature, or strange and monstrous objects"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 ---
 

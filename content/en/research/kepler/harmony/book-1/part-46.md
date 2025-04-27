@@ -2,10 +2,10 @@
 heading: Part 46
 title: "Division of Arcs"
 description: "The division of any arc of a circle into 3, 5, 7, and so on, equal parts, and in any ratio which is not obtainable by repeated doubling from the ones which have been shown above, cannot be carried out in a Geometrical manner which produces knowledge"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 28
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

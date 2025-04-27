@@ -2,7 +2,7 @@
 heading: "Section 5d"
 title: "Observation of Nature"
 description: Unreflective Consciousness speaks of observation and experience as being the fountain of truth.
-c: "darkblue"
+c: "blue"
 author: Hegel
 weight: 8
 ---

@@ -2,7 +2,7 @@
 title: "Well-ordered States with Self-Restraint"
 heading: "Chapter 1b"
 weight: 10
-c: "darkblue"
+c: "blue"
 description: "Socrates emphasized self-restraint in well-ordered States"
 author: "Socrates"
 icon: "Socrates"

@@ -1,6 +1,6 @@
 ---
 title: "Plantary Orbits"
-c: "maroon"
+c: "firebrick"
 description: "Centripetal forces are actually directed to the bodies of the sun, of the earth, and other planets."
 icon: "Newton"
 ---

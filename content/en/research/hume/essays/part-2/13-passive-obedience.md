@@ -2,7 +2,7 @@
 title: "Passive Obedience"
 heading: "Essay 13 Part 2"
 description: "What are the practical consequences, deduced by each party, with regard to obedience to sovereigns?"
-c: "darkblue"
+c: "blue"
 weight: 42
 writer:
   name: David Hume

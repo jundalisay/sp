@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11e
 title: "The Gods Rebel"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "The Nefilim relied on their scientific knowledge to achieve their mission"

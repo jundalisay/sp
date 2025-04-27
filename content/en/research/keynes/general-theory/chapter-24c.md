@@ -2,7 +2,7 @@
 heading: "Chapter 24b"
 title: "The Enlargement of Government and the End of War"
 description: "The enlargement of government is for adjusting the propensity to consume and the inducement to invest."
-c: "maroon"
+c: "firebrick"
 # date: 2020-01-29
 weight: 114
 icon: "John Maynard Keynes"

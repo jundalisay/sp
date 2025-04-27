@@ -2,7 +2,7 @@
 title: "Skepticism Regarding Our Reason"
 heading: Section 1
 description: "The Skeptical and Other Systems of Philosophy Simplified"
-c: "darkblue"
+c: "blue"
 weight: 2
 writer:
   name: David Hume

@@ -1,6 +1,6 @@
 ---
 title: "Attack by Stratagem"
-c: "maroon"
+c: "firebrick"
 author: "Sun Tzu"
 description: "In the practical art of war, the best thing of all is to take the enemy's country whole and intact"
 heading: "Chapter 3"

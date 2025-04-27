@@ -2,10 +2,10 @@
 heading: Part 25b
 title: "The 5 Elements"
 description: "These are the 5 bodies which the Pythagoreans, Plato, and Proclus called the world shapes. But I think it is not certain how they related these shapes to the bodies of the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 12
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

@@ -3,7 +3,7 @@ title: "Malthus"
 heading: Unenlightened
 description: Malthus was a free trader
 a: "Malthus"
-c: "maroon"
+c: "firebrick"
 weight: 131
 date: 2025-03-20
 ---

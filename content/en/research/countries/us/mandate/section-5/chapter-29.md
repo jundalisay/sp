@@ -2,7 +2,7 @@
 title: "FEDERAL ELECTION COMMISSION"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 author: "Hans A. von Spakovsky"
 ---

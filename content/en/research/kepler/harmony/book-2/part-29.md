@@ -2,10 +2,10 @@
 heading: Parts 29-30
 title: "Conclusion"
 description: "There are 13 solid congruences which are perfect in an inferior degree"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 18
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

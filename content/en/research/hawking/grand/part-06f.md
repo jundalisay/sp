@@ -4,7 +4,7 @@ title: "The Big Bang"
 description: "In the early universe—when the universe was small enough to be governed by both general relativity and quantum theory—there were effectively four dimensions of space and none of time"
 weight: 37
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

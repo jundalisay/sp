@@ -4,7 +4,7 @@ heading: "Chapter 19b"
 author: "Machiavelli"
 description: "Machiavelli says a prince must take bits of Marcus and Severus"
 weight: 34
-c: "maroon"
+c: "firebrick"
 icon: "Machiavelli"
 ---
 

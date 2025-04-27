@@ -1,7 +1,7 @@
 ---
 title: "Preface"
 weight: 2
-image: "/covers/algebra.jpg"
+c: "blue"
 description: "Three kinds of numbers in calculations"
 draft: true
 ---

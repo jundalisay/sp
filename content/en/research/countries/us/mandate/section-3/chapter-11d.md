@@ -2,7 +2,7 @@
 title: "Title Vi—school Discipline And Disparate Impact"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

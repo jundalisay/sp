@@ -2,7 +2,7 @@
 heading: Chapter 10
 title: "Land Tax"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 184
 date: 2025-01-11
 ---

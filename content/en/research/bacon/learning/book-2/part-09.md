@@ -3,7 +3,7 @@ title: The knowledge of ourselves
 heading: "Part 9"
 weight: 20
 description: "the knowledge of ourselves"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

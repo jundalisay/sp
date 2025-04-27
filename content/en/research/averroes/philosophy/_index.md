@@ -6,5 +6,5 @@ linkTitle: "Philosophy Of Averroes"
 writer:
   name: Averroes
   url: https://en.wikipedia.org/wiki/Averroes
-c: "maroon"
+c: "firebrick"
 ---

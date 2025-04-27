@@ -4,7 +4,7 @@ title: "Austria Experiment"
 description: "In 1999, A TEAM OF PHYSICISTS in Austria fired a series of soccer-ball-shaped molecules toward a barrier"
 weight: 22
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

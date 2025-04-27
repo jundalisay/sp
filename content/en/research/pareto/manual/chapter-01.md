@@ -3,7 +3,7 @@ heading: Chapter 1
 title: "General Principles"
 weight: 2
 description: "Modern works about Physics"
-c: "maroon"
+c: "firebrick"
 ---
 
 

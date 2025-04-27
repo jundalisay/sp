@@ -3,7 +3,7 @@ title: Hybridism
 heading: Chapter 8
 weight: 52
 description: "Naturalists believe that species, when intercrossed, have been specially endowed with sterility"
-c: "maroon"
+c: "firebrick"
 ---
 
 

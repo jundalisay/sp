@@ -3,7 +3,7 @@ title: The 4 Precepts of Descartes
 heading: Part 2b
 weight: 10
 description: Descartes gives 4 Precepts on Math and Logic
-c: "darkblue"
+c: "blue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 7c
 title:  "The Planets"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "LAHMU and LAHAMU are male and female names, respectively."

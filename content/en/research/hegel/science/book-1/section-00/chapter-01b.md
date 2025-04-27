@@ -4,7 +4,7 @@ weight: 3
 description: "It is pure [metaphysical] knowledge in the entire range of its development"
 author: Hegel
 icon: "Hegel"
-c: "darkblue"
+c: "blue"
 ---
 
 

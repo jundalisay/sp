@@ -1,7 +1,7 @@
 ---
 heading: Chapter 9b
 title:  "Landing on Planet Earth"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"

@@ -2,7 +2,7 @@
 title: "The Ideas of Space and Time"
 heading: Part 2
 description: "The Ideas of Space and Time Simplified"
-c: "darkblue"
+c: "blue"
 weight: 4
 writer:
   name: David Hume

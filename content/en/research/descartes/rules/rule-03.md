@@ -3,7 +3,7 @@ heading: Rule 3
 title: We should seek what we can clearly intuit or deduce with certainty
 weight: 8
 description: We should seek what we can clearly intuit or deduce with certainty
-c: "darkblue"
+c: "blue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

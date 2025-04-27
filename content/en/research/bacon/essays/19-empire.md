@@ -3,7 +3,7 @@ heading: "Essay 19"
 title: "Empire"
 weight: 28
 description: "I would rather believe in all the fables than to think tthat this universal frame is without a mind"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

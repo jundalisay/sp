@@ -2,7 +2,7 @@
 title: "Meletus the Poet versus Socrates the Philosopher"
 weight: 6
 description: "Apology by Plato Simplified"
-c: "darkblue"
+c: "blue"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

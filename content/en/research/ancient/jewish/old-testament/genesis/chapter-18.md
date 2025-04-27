@@ -3,7 +3,7 @@ heading: Genesis 18
 title: "Enki eats with Abraham"
 description: "Sarai, Abram’s wife, bare him no children. She had an Egyptian servant named Hagar"
 weight: 34
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 10
 title:  "Cities of the Gods"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"

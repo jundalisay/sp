@@ -2,10 +2,10 @@
 heading: Chapter 3
 title: "The Types of “The Harmonized” Sensible or Immaterial Things"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 16
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

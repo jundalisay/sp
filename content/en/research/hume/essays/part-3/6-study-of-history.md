@@ -2,7 +2,7 @@
 title: "The Study of History"
 heading: "Essay 6"
 description: "The Study of History is good for women"
-c: "darkblue"
+c: "blue"
 weight: 16
 writer:
   name: David Hume

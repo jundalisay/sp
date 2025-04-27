@@ -5,7 +5,7 @@ weight: 10
 description: "Only recently have thinkers become aware of the difficulty of finding a beginning in philosophy"
 author: Hegel
 icon: "Hegel"
-c: "darkblue"
+c: "blue"
 ---
 
 

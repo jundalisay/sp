@@ -2,10 +2,10 @@
 heading: Parts 40-41
 title: "The Decagon and The Star Decagon"
 description: "The Regular shape with 24 sides, and all figures obtainable from it by repeated doubling of the number of sides, can be inscribed in the circle Geometrically"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 20
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: "Section 6c"
 title: "Discerning Identities"
 weight: 38
-c: "darkblue"
+c: "blue"
 description: "Complex Ideas are Connected by Seven Kinds of Philosophical Relations"
 writer:
   name: David Hume

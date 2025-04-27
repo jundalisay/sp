@@ -3,7 +3,7 @@ heading: Joshua 2
 title: "Joshua Sends 2 Spies to Jericho"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 6
-c: "maroon"
+c: "firebrick"
 ---
 
 

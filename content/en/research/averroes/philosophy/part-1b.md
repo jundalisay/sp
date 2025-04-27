@@ -2,7 +2,7 @@
 heading: "Part 1b"
 title: "The Study of The Law"
 description: "The science which needs most examples from other sciences is that of Law."
-c: "maroon"
+c: "firebrick"
 weight: 6
 writer:
   name: Averroes

@@ -2,7 +2,7 @@
 heading: Section 6
 title: "Conclusion Of Book 3"
 description: "The Simplified Treatise of Human Nature by Hume"
-c: "darkblue"
+c: "blue"
 # date: 2015-x-x
 weight: 46
 writer:

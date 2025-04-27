@@ -2,7 +2,7 @@
 title: "General Notion of Logic"
 weight: 4
 description: "The science of logic begins with the subject matter itself, without preliminary reflections"
-c: "darkblue"
+c: "blue"
 ---
 
 

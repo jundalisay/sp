@@ -2,7 +2,7 @@
 title: "The Choice of Units"
 heading: "Chapter 4"
 description: "Keynes overturns Classical Economics and imposes 2 measures: hourly-common-labour and hourly-common-wage"
-c: "maroon"
+c: "firebrick"
 # date: 2020-12-17
 weight: 16
 icon: "John Maynard Keynes"

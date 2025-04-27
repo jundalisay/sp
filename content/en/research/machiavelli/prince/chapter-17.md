@@ -4,7 +4,7 @@ heading: "Chapter 17"
 author: "Machiavelli"
 description: "Every prince should want to be considered kind and not cruel. Nevertheless, he should take care not to misuse this kindness"
 weight: 28
-c: "maroon"
+c: "firebrick"
 icon: "Machiavelli"
 ---
 

@@ -2,7 +2,7 @@
 title: "OFFICE OF FOSSIL ENERGY AND CARBON MANAGEMENT (FECM)"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

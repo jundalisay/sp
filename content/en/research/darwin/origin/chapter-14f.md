@@ -4,7 +4,7 @@ heading: Chapter 14f
 weight: 116
 description: "Forms now acknowledged to be merely varieties might hereafter get specific names."
 author: "Charles Darwin"
-c: "maroon"
+c: "firebrick"
 ---
 
 

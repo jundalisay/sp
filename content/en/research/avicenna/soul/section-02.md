@@ -6,7 +6,7 @@ writer:
   name: Avicenna
   url: https://en.wikipedia.org/wiki/Avicenna
 weight: 6
-c: "indigo"
+c: "firebrick"
 icon: Avicenna
 ---
 

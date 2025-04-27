@@ -2,7 +2,7 @@
 title: "Adam Smith's Proposition"
 # heading: Unenlightened
 description: Mao was a Chinese Leader
-c: "maroon"
+c: "firebrick"
 author: "Malthus"
 weight: 9
 date: 2025-03-20

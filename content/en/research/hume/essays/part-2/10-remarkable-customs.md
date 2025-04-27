@@ -2,7 +2,7 @@
 title: "Some Remarkable Customs"
 heading: "Essay 10"
 description: "Some Remarkable Customs"
-c: "darkblue"
+c: "blue"
 icon: "David Hume"
 writer:
   name: David Hume

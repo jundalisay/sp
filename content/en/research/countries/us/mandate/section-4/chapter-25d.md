@@ -2,7 +2,7 @@
 title: "SBA POLICY PRIORITIES FOR 2025 AND BEYOND"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 author: "Karen Kerrigan"
 ---

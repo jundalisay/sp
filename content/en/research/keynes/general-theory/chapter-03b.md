@@ -2,7 +2,7 @@
 heading: "Chapter 3b"
 title: "The General Theory's Propositions"
 description: "Output minus factor cost equals profit or entrepreneur's income"
-c: "maroon"
+c: "firebrick"
 # date: 2020-12-21
 weight: 12
 icon: "John Maynard Keynes"

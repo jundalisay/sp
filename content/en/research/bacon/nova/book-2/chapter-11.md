@@ -3,7 +3,7 @@ title: "10: Instances of power"
 heading: Chapter 11
 weight: 40
 description: "These are such works as are most noble and perfect, the masterpieces in every art"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 ---
 

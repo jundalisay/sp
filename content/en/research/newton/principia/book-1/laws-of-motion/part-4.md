@@ -2,7 +2,7 @@
 heading: Part 4
 linkTitle: Part 4
 title: "Corollaries 4-6"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 12

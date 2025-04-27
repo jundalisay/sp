@@ -1,6 +1,6 @@
 ---
 title: "The Nine Situations"
-c: "maroon"
+c: "firebrick"
 description: "The art of war recognizes nine kinds of ground"
 heading: "Chapter 11"
 weight: 22

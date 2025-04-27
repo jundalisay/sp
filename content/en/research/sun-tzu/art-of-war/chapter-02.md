@@ -1,6 +1,6 @@
 ---
 title: "Waging War"
-c: "maroon"
+c: "firebrick"
 author: "Sun Tzu"
 description: "The cost of raising an army of 100,000 men is 1,000 ounces of silver per day"
 heading: "Chapter 2"

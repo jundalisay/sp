@@ -2,7 +2,7 @@
 heading: "Chapter 6b"
 title: "Net Income"
 description: "My definition of net income is very close to Marshall’s definition"
-c: "maroon"
+c: "firebrick"
 # date: 2020-12-07
 weight: 26
 icon: "John Maynard Keynes"

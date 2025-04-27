@@ -4,7 +4,7 @@ title: "Find the Trajectory of Points"
 description: "Find a point P from which if four right lines PQ, PR, PS, PT an  drawn to as many other right lines AB, CD, AC, BD"
 author: Newton
 draft: true
-c: "maroon"
+c: "firebrick"
 ---
 
 

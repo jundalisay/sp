@@ -1,7 +1,7 @@
 ---
 heading: Chapter 14e
 title:  "The Ages on Earth"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Having landed on Earth, the Nefilim associated the first reigns in the first cities with the zodiacal ages"

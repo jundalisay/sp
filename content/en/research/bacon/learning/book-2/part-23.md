@@ -3,7 +3,7 @@ title: Civil knowledge
 heading: "Part 23"
 weight: 46
 description: "Civil knowledge is conversant about a subject which of all others is most immersed in matter, and hardliest reduced to axiom"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

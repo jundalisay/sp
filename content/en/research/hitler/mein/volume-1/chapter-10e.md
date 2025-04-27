@@ -4,7 +4,7 @@ heading: Chapter 10e
 weight: 70
 description: "The function of the so-called liberal Press was to dig the grave for the German people and REICH"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

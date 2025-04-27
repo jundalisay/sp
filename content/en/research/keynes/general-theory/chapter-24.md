@@ -1,7 +1,7 @@
 ---
 title: "The Social Philosophy Arising From the General Theory"
 description: "The outstanding faults of the economy are its failure to provide for full employment and its inequality"
-c: "maroon"
+c: "firebrick"
 # date: 2019-12-05
 weight: 112
 icon: "John Maynard Keynes"

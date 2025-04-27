@@ -2,7 +2,7 @@
 heading: "Section 2"
 title: "The Infinite Divisibility of Space and Time"
 weight: 4
-c: "darkblue"
+c: "blue"
 description: "The Limitation of the Mind Limits our Cognition of the Existence of Objects"
 writer:
   name: David Hume

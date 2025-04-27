@@ -2,7 +2,7 @@
 title: "The Balance Of Power"
 heading: "Essay 7"
 description: "The Balance Of Power in the ancient and modern"
-c: "darkblue"
+c: "blue"
 weight: 16
 writer:
   name: David Hume

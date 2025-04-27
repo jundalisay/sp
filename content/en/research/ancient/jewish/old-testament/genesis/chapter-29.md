@@ -3,7 +3,7 @@ heading: Genesis 29
 title: "Jacob's Travel"
 description: "Then Jacob went on his journey, and came into the land of the people of the east"
 weight: 58
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -3,7 +3,7 @@ heading: "Part 2"
 title: History
 weight: 6
 description: "Civil history is of 3 kinds, similar to 3 kinds of pictures or images"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

@@ -3,7 +3,7 @@ heading: Genesis 9
 title: "Noah Starts the Middle Eastern People"
 description: "Adam knew Eve his wife. She conceived and gave birth to Cain"
 weight: 16
-c: "maroon"
+c: "firebrick"
 ---
 
 

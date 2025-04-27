@@ -2,7 +2,7 @@
 heading: "Chapter 7b"
 title: "Forced Saving"
 description: "My Treatise on Money suggested that they bore some affinity to the difference between investment and “saving” in the sense in which I there used the latter term"
-c: "maroon"
+c: "firebrick"
 # date: 2020-12-02
 weight: 30
 icon: "John Maynard Keynes"

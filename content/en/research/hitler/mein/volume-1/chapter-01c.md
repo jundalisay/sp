@@ -4,7 +4,7 @@ heading: Chapter 1c
 weight: 6
 description: "When the Habsburg State crumbled in 1918, the Austrian Germans instinctively cried for union with their German fatherland."
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

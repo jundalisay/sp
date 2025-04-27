@@ -2,7 +2,7 @@
 title: "Public Credit"
 heading: "Essay 9"
 description: "In ancient times, the common practice was to hoard up treasures during peacetime for paying conquest or defence during wartime"
-c: "darkblue"
+c: "blue"
 icon: "David Hume"
 writer:
   name: David Hume

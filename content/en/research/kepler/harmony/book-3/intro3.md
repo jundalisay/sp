@@ -2,10 +2,10 @@
 heading: Introduction Part 3
 title: "The Philosophy of Hermes on Numbers"
 description: "Unity embraces the Tenfold on the basis of ratio, and again the tenfold embraces Unity"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 6
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

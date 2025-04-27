@@ -2,7 +2,7 @@
 title: "The Ideal System of Government"
 heading: "Essay 16 The Idea of a Perfect Commonwealth"
 description: "David Hume writes his plan for the perfect government"
-c: "darkblue"
+c: "blue"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

@@ -3,7 +3,7 @@ heading: "Section 5f"
 title: Purpose [Dharma] and Self-Purpose [Svadharma]
 # title: "Observation of Organic Nature"
 description: Reason has apprehended the concept of purpose in consciousness, which was given to it by rational observation.
-c: "darkblue"
+c: "blue"
 author: Hegel
 weight: 10
 ---

@@ -6,7 +6,7 @@ description: Book 1 Definitions
 writer:
   name: Euclid
   url: https://en.wikipedia.org/wiki/Euclid
-c: "darkblue"
+c: "blue"
 
 ---
 

@@ -2,7 +2,7 @@
 title: "The Philosophy of General Relativity"
 heading: "Part 2"
 description: "How does my theory of relativity relate to philosophy?"
-c: "maroon"
+c: "firebrick"
 weight: 8
 icon: "Einstein"
 ---

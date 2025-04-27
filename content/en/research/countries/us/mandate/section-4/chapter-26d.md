@@ -2,7 +2,7 @@
 title: "THE CASE FOR FREE TRADE"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 author: "Kent Lassman"
 ---

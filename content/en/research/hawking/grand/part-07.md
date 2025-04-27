@@ -4,7 +4,7 @@ title: "The Big Bang"
 description: ""
 weight: 40
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -3,7 +3,7 @@ heading: Genesis 8
 title: "After The Flood"
 description: "Adam knew Eve his wife. She conceived and gave birth to Cain"
 weight: 14
-c: "maroon"
+c: "firebrick"
 ---
 
 

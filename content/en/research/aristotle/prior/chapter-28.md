@@ -2,7 +2,7 @@
 heading: Chapters 28
 title: "Methods of Inquiry"
 weight: 28
-c: "maroon"
+c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

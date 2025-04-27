@@ -2,7 +2,7 @@
 title: "FEDERAL COMMUNICATIONS COMMISSION"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 author: "Brendan Carr"
 ---

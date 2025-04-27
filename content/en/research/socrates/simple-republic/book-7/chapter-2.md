@@ -2,7 +2,7 @@
 title: "Essential Subjects: Math and Geometry"
 heading: "Chapter 2 of Book 7"
 weight: 1
-c: "darkblue"
+c: "blue"
 description: "Inviting objects draw curiosity and intelligence. Uninviting objects do not (Chapter 2). The essential subjects are math, geometry, physics, astronomy, and dialectics"
 author: "Socrates"
 icon: "Socrates"

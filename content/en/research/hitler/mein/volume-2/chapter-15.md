@@ -4,7 +4,7 @@ heading: Chapter 15
 weight: 400
 description: "AFTER WE had laid down our arms, in November 1918, a policy was adopted which led gradually to our complete subjugation"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

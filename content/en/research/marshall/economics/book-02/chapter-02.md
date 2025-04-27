@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "Wealth"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 6
 ---
 

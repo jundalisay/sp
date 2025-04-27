@@ -4,7 +4,7 @@ heading: "Chapter 9"
 author: "Machiavelli"
 description: "A 'constitutional principality' emerges when a leading citizen becomes the prince by the favour of his fellow citizens and not by wickedness or violence"
 weight: 14
-c: "maroon"
+c: "firebrick"
 icon: "Machiavelli"
 ---
 

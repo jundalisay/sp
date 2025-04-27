@@ -1,6 +1,6 @@
 ---
 title: "Attack by Fire"
-c: "maroon"
+c: "firebrick"
 description: "Attack by Strategem"
 heading: "Chapter 12"
 icon: "Sun Tzu"

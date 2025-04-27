@@ -1,7 +1,7 @@
 ---
 title: "The Conclusion Of These 12 Treatises"
 description: "The Origin of Physiognomy"
-c: "maroon"
+c: "firebrick"
 weight: 220
 writer:
   name: Paracelsus

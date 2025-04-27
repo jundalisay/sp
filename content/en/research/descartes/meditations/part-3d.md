@@ -6,7 +6,7 @@ description: "These external ideas and causes are made of substance. For example
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "darkblue"
+c: "blue"
 icon: "Rene Descartes"
 ---
 

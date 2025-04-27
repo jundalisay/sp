@@ -1,7 +1,7 @@
 ---
 heading: Chapter 6
 title:  "The 12th Planet"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"

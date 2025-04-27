@@ -2,7 +2,7 @@
 heading: "Chapter 9"
 title: The Principle of Vibration
 description: "Nothing rests; everything moves; everything vibrates.—The Kybalion"
-c: "maroon"
+c: "firebrick"
 weight: 18
 ---
 

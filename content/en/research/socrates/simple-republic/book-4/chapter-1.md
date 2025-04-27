@@ -2,7 +2,7 @@
 title: "Wisdom and Courage"
 heading: "Chapter 1"
 weight: 8
-c: "darkblue"
+c: "blue"
 description: "Socrates gives the policies for wealth, war, and federalism"
 author: "Socrates"
 icon: "Socrates"

@@ -4,7 +4,7 @@ title: "The Satisfaction from Learning"
 description: "To learn, and then to practise opportunely what one has learned, brings satisfaction"
 weight: 1
 icon: "Confucius"
-c: "maroon"
+c: "firebrick"
 ---
 
 

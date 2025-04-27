@@ -2,7 +2,7 @@
 heading: "Section 5c"
 title: "The Relation of Perceptions"
 weight: 31
-c: "darkblue"
+c: "blue"
 description: "The sequence of the causation and contiguity, between a physical object in space and a quality that does not exist in space have an effect on the mind."
 writer:
   name: David Hume

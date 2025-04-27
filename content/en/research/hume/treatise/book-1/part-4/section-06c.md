@@ -2,7 +2,7 @@
 heading: "Section 6b"
 title: "We Assign a Change in Identity Based on Our Perception of the Change Relative to the Whole"
 weight: 37
-c: "darkblue"
+c: "blue"
 description: "Our idea of the personal identity which produces thought or imagination can be explained by our idea on the personal identity of plants and animals"
 writer:
   name: David Hume

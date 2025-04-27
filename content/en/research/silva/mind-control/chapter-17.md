@@ -2,7 +2,7 @@
 title: "A Psychiatrist Works With Mind Control"
 heading: "Chapter 17"
 weight: 34
-c: "darkblue"
+c: "blue"
 description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
 contributors: ['Silva']
 ---

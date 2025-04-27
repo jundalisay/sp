@@ -6,5 +6,5 @@ linkTitle: Nature
 weight: 2
 description: 
 author: "Titus Lucretius Carus"
-c: "maroon"
+c: "firebrick"
 ---

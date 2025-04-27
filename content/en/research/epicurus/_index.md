@@ -6,5 +6,5 @@ weight: 29
 description: "Epicurus was a materialist"
 author: "Titus Lucretius Carus"
 a: "Epicurus"
-c: "maroon"
+c: "firebrick"
 ---

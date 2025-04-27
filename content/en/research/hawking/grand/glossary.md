@@ -3,7 +3,7 @@ title: "Glossary"
 description: "Glossary from Hawking"
 weight: 200
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 Word | Meaning

@@ -5,7 +5,7 @@ author: Russ Vought
 description: ""
 heading: Chapter 2
 weight: 10
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

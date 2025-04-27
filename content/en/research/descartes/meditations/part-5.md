@@ -6,7 +6,7 @@ description: "Before enquiring into whether there are any such things, I should 
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "darkblue"
+c: "blue"
 icon: "Rene Descartes"
 ---
 

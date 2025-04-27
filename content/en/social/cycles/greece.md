@@ -10,8 +10,6 @@ icon: "/flags/gr.png"
 ---
 
 
-{{< u d="March 2024" u="Added credit derivatives, and EU weakness, as the main cause of the fault" >}}
-
 
 We can use our [DCTI tool](/social/economics/principles/part-4/chapter-07/) to analyze the Greek crisis to prove that austerity and high taxes are not the best solutions.
 
@@ -237,6 +235,8 @@ To further raise tourism revenue and make it regular, the EU could make Greece a
 
 This system can be scaled to other countries so that the monopoly of finance can be broken and economic crises can be avoided. This proposal from Adam Smith was refined by EF Schumacher, not only as an economic solution, but also as a deterrent to war.
 
+
+{{< u d="March 2024" u="Added credit derivatives, and EU weakness, as the main cause of the fault" >}}
 
 <!-- This will generate a regular revenue stream which can be used to help pay off the debt.
  -->

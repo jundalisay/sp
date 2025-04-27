@@ -2,7 +2,7 @@
 heading: Chapter 8
 title: The Planet Marduk
 # title:  "Kingship of Heaven"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"

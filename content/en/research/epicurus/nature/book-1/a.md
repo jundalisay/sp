@@ -5,7 +5,7 @@ linkTitle: Part A
 weight: 4
 description: The first law is that nothing is made of nothing
 author: "Titus Lucretius Carus"
-c: "maroon"
+c: "firebrick"
 ---
 
 

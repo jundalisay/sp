@@ -2,7 +2,7 @@
 title: "The Idea of Time"
 weight: 127
 description: "Impious and profane Persons readily fall in with those Systems which favour their Inclinations."
-c: "darkblue"
+c: "blue"
 contributors: ['Berkeley']
 ---
 

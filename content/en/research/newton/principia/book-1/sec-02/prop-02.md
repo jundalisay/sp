@@ -2,7 +2,7 @@
 heading: Section 2b
 linkTitle: Prop 2
 title: "Proposition 3 Theorem 3"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 6

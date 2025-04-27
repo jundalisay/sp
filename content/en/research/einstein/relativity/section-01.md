@@ -5,7 +5,7 @@ weight: 4
 # date: 2022-04-12
 description: "Our perceptions of geometrical shapes are Relative and Dynamic and Not Absolute and Static"
 icon: "Einstein"
-c: "maroon"
+c: "firebrick"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

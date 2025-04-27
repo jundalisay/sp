@@ -2,7 +2,7 @@
 title: "Centers For Disease Control And Prevention (cdc)"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

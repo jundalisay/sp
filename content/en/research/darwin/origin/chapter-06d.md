@@ -3,7 +3,7 @@ title: Organs of little apparent importance
 heading: Chapter 6d
 weight: 45
 description: "The Galeopithecus or flying lemur formerly was falsely ranked amongst bats"
-c: "maroon"
+c: "firebrick"
 ---
 
 

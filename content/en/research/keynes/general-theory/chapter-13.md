@@ -1,7 +1,7 @@
 ---
 title: "The General Theory of the Rate of Interest"
 heading: "Chapter 13"
-c: "maroon"
+c: "firebrick"
 description: "According to Keynes, the interest rate is based on the love for cash"
 # date: 2020-11-09
 weight: 54

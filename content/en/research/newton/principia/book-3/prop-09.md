@@ -1,7 +1,7 @@
 
 <!-- <!-- ---
 title: "Propositions 9-12"
-c: "maroon"
+c: "firebrick"
 description: "Gravity, as a downward pull of a planet, decreases nearly in the proportion of the distances from their centres"
 icon: "Newton"
 ---

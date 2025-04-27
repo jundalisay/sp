@@ -2,7 +2,7 @@
 title: "FINANCIAL REGULATORY AGENCIES SECURITIES AND EXCHANGE COMMISSION AND RELATED AGENCIES"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 author: "David R. Burton"
 ---

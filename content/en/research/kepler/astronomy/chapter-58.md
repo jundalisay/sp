@@ -1,7 +1,7 @@
 ---
 heading: Chapter 58
 title:  "Mars' Orbit is Ellipse"
-image:  "/covers/astro.jpg"
+c: "darkgoldenrod"
 description: "The libration has been established and proven as in Chapter 56. Nevertheless, an error can be admitted in the improper application of the libration, by which the path of the planet is made uneven."
 ---
 

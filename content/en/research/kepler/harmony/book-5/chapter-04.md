@@ -2,10 +2,10 @@
 heading: Chapter 4
 title: "Summary of Astronomical Theory Necessary for the Study of the Heavenly Harmonies"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 10
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

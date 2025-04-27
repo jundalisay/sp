@@ -2,7 +2,7 @@
 heading: "Section 5b"
 title: "A Feeling or Perception Cannot Be Bound By Dimensions"
 weight: 30
-c: "darkblue"
+c: "blue"
 description: "a thought, feeling, or perception is an inseparable and indivisible being."
 writer:
   name: David Hume

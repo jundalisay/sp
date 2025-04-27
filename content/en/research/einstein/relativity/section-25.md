@@ -4,7 +4,7 @@ heading: "Section 25"
 # date: 2022-03-14
 weight: 44
 description: "Einstein uses Gaussian co-ordinates to explain movement in 4D spacetime."
-c: "maroon"
+c: "firebrick"
 icon: "Einstein"
 writer:
   name: Albert Einstein

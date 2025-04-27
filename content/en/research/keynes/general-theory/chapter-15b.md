@@ -2,7 +2,7 @@
 title: "Open Market Operations"
 heading: "Chapter 15b"
 description: "Keynes explains Open Market Operations"
-c: "maroon"
+c: "firebrick"
 # date: 2020-10-28
 weight: 66
 writer:

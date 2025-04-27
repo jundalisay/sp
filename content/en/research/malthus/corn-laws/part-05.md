@@ -2,7 +2,7 @@
 title: "Adam Smith's Proposition"
 # heading: Unenlightened
 description: Will an artificial independent supply policy really desirable?
-c: "maroon"
+c: "firebrick"
 author: "Malthus"
 weight: 15
 date: 2025-03-20

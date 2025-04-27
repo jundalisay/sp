@@ -4,7 +4,7 @@ heading: Chapter 4
 weight: 26
 description: "I came to Munich in the spring of 1912"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

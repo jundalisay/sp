@@ -4,7 +4,7 @@ heading: Chapter 12d
 weight: 118
 description: "This one-sided but clear and definite attitude must be manifested in the movement's propaganda which should be made effective"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

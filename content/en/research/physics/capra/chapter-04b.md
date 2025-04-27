@@ -2,7 +2,7 @@
 title: "Quantum Physics"
 weight: 13
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
-c: "maroon"
+c: "firebrick"
 ---
 
 

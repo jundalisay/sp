@@ -2,7 +2,7 @@
 title: "ENVIRONMENTAL PROTECTION AGENCY"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 author: "Mandy M. Gunasekara"
 ---

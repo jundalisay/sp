@@ -3,7 +3,7 @@ heading: "Essay 34"
 title: "Riches"
 weight: 45
 description: "Riches are the baggage of virtue. The Romans call it better, as *impedimenta*."
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

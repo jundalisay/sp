@@ -3,7 +3,7 @@ title: Laws of Variation
 heading: Chapter 5
 weight: 30
 description: "I have hitherto sometimes spoken as if the variations--so common and multiform in organic beings under domestication, and in a lesser degree in those in a state of nature--had been due to chance"
-c: "maroon"
+c: "firebrick"
 ---
 
 <!--  -- Use and disuse, combined with natural selection; organs of flight

@@ -2,7 +2,7 @@
 heading: "Section 7c"
 title: "Definition of Shape"
 weight: 16
-c: "darkblue"
+c: "blue"
 description: "Are abstract or general ideas conceived by the mind in a general or particular way?"
 writer:
   name: David Hume

@@ -2,7 +2,7 @@
 heading: "Chapter 11"
 title: "The Principle of Rhythm [Karma]"
 description: Everything flows out and in, has its tides, rising and falling. The pendulum-swing manifests in everything.
-c: "maroon"
+c: "firebrick"
 
 weight: 22
 ---

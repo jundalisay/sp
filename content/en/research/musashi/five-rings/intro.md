@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-c: "darkblue"
+c: "blue"
 description: "I have been many years training in the Way of Strategy, called Ni Ten Ichi Ryu, and now I think I will explain it in writing for the first time"
 icon: "Musashi"
 weight: 2

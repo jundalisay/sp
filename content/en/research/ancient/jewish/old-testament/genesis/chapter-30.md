@@ -3,7 +3,7 @@ heading: Genesis 30
 title: "Jacob and Rachel"
 description: "Rachel saw that she bare Jacob no children"
 weight: 60
-c: "maroon"
+c: "firebrick"
 ---
 
 

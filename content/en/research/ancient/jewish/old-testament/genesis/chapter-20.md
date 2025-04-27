@@ -3,7 +3,7 @@ heading: Genesis 20
 title: "Abimelech"
 description: "Abimelech king of Gerar sent, and took Sarah"
 weight: 38
-c: "maroon"
+c: "firebrick"
 ---
 
 

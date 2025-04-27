@@ -2,7 +2,7 @@
 heading: "Chapter 16c"
 title: "Institutional Conditions"
 description: "Individual saving is a decision not to have dinner today"
-c: "maroon"
+c: "firebrick"
 # date: 2020-10-22
 weight: 72
 icon: "John Maynard Keynes"

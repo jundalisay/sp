@@ -2,7 +2,7 @@
 heading: Section 4
 title: "Natural Abilities"
 description: "The Simplified Treatise of Human Nature by Hume"
-c: "darkblue"
+c: "blue"
 # date: 2015-x-x
 weight: 20
 writer:

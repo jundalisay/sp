@@ -3,7 +3,7 @@ heading: "Section 1"
 title: "Certainty of Perceptions"
 # title: "Certainty at the Level of Sense Experience – “This” and “Meaning"
 description: The subject of philosophy is the actual knowledge of what truly is
-c: "darkblue"
+c: "blue"
 author: Hegel
 icon: "Hegel"
 weight: 4

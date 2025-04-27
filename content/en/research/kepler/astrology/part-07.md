@@ -6,7 +6,7 @@ description: "I see that in accordance with aspects do exist other dispositions,
 c: "darkgoldenrod"
 weight: 2
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

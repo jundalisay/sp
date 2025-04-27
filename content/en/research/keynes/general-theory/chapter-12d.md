@@ -1,7 +1,7 @@
 ---
 title: "The State of Credit"
 heading: "Chapter 12d"
-c: "maroon"
+c: "firebrick"
 description: "Keynes talks about Expectations"
 # date: 2020-11-12
 weight: 52

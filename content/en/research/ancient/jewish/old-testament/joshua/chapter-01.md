@@ -3,7 +3,7 @@ heading: Joshua 1
 title: "Joshua is Made Leader"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 4
-c: "maroon"
+c: "firebrick"
 ---
 
 

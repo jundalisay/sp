@@ -3,7 +3,7 @@ title: "7: Singular Instances or Irregular or Heteroclite"
 heading: Chapter 10b
 weight: 36
 description: ""
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 ---
 

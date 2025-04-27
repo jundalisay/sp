@@ -2,7 +2,7 @@
 heading: "Chapter 3b "
 title: "German or 'True' Socialism"
 weight: 16
-c: "maroon"
+c: "firebrick"
 description: "The Socialist and Communist literature of France began as a fight against the capitalists in power"
 writer:
   name: Karl Marx

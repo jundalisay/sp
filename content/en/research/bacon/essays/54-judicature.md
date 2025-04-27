@@ -3,7 +3,7 @@ heading: "Essay 54"
 title: "Judicature"
 weight: 70
 description: "JUDGES should remember that their office is jus dicere, and not jus dare."
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

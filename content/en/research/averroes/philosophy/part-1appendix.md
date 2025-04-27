@@ -3,7 +3,7 @@ heading: Part 1 Appendix
 title: "The Problem Of Eternal Knowledge"
 description: ""
 weight: 4
-c: "maroon"
+c: "firebrick"
 icon: "Averroes"
 writer:
   name: Averroes

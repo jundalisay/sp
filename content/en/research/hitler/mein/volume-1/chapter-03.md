@@ -4,7 +4,7 @@ heading: Chapter 3
 weight: 8
 description: "GENERALLY, a man should not publicly take part in politics before 30 years old"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

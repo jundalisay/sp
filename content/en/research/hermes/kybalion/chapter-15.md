@@ -2,7 +2,7 @@
 heading: "Chapter 15"
 title: Hermetic Axioms
 description: To destroy an undesirable rate of mental vibration, use the principle of Polarity and concentrate on the opposite pole to that which you desire to suppress.
-c: "maroon"
+c: "firebrick"
 
 weight: 30
 ---

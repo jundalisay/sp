@@ -4,7 +4,7 @@ heading: Chapter 6
 weight: 44
 description: "IN WATCHING the course of political events I was always struck by the active part which propaganda played in them"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

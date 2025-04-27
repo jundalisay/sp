@@ -3,7 +3,7 @@ title: "24: Wrestling Instances"
 heading: Chapter 16
 weight: 64
 description: "Wrestling instances or instances of predominance"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

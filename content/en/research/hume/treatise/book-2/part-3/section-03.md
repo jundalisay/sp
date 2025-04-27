@@ -2,7 +2,7 @@
 heading: Section 3
 title: "THE INFLUENCING MOTIVES OF THE WILL"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
-c: "darkblue"
+c: "blue"
 weight: 4
 writer:
   name: David Hume

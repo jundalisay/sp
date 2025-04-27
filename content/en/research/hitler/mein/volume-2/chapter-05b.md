@@ -4,7 +4,7 @@ heading: Chapter 5b
 weight: 40
 description: "The programme of the ordinary political party is just to cook up favourable results for the next general elections"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

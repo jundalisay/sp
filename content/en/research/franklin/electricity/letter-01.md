@@ -3,7 +3,7 @@ title: "Preface"
 date: 2024-12-29
 weight: 31
 description: EXPERIMENTS AND OBSERVATIONS ON ELECTRICITY, MADE AT Philadelphia in America
-c: "maroon"
+c: "firebrick"
 ---
 
 

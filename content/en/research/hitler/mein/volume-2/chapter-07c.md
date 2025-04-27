@@ -4,7 +4,7 @@ heading: Chapter 7c
 weight: 64
 description: "The suspicion was whispered in German Nationalist circles that we also were merely another variety of Marxism"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

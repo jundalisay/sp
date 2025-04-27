@@ -2,7 +2,7 @@
 heading: Chapter 11
 title: "Taxes on Gold"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 184
 date: 2025-01-11
 ---

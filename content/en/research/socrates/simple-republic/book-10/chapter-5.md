@@ -3,7 +3,7 @@ title: "The True Nature"
 heading: Chapter 5
 weight: 10
 description: "Let each of us leave every other kind of knowledge and seek and follow one thing only"
-c: "darkblue"
+c: "blue"
 icon: "Socrates"
 ---
 

@@ -2,7 +2,7 @@
 title: "The Idols of the Market"
 heading: Chapter 2d
 weight: 10
-c: "darkblue"
+c: "blue"
 description: "The idols of the market are the most troublesome of all"
 icon: "Francis Bacon"
 ---

@@ -3,7 +3,7 @@ heading: "Chapter 21"
 title: "INTERNATIONAL TRADE ADMINISTRATION"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

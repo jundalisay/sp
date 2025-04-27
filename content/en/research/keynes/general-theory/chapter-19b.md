@@ -2,7 +2,7 @@
 title: "Changes in Money-Wages"
 heading: "Chapter 19b"
 description: "The Economy is Not Self-Adjusting"
-c: "maroon"
+c: "firebrick"
 # date: 2020-10-08
 weight: 86
 icon: "John Maynard Keynes"

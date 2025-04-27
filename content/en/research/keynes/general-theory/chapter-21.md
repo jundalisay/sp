@@ -2,7 +2,7 @@
 title: "The Theory of Prices"
 heading: "Chapter 21"
 description: "The Theory of Value has traditionally been based on supply and demand, in changes in marginal cost and the elasticity of short-period supply"
-c: "maroon"
+c: "firebrick"
 # date: 2020-09-30
 weight: 94
 icon: "John Maynard Keynes"

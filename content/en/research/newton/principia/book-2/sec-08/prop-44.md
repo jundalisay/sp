@@ -1,7 +1,7 @@
 ---
 heading: Section 8a
 title: "Proposition 44, Theorem 35"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 6

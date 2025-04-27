@@ -3,7 +3,7 @@ heading: "The 1872 German and 1882 Russian Editions"
 title: "Preface"
 # date:2022-04-30
 weight: 2
-c: "maroon"
+c: "firebrick"
 description: "The Communist League is an international association of workers. It could only be secret one, under conditions at the time"
 writer:
   name: Engels

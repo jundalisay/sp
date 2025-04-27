@@ -2,7 +2,7 @@
 title: "Preface"
 weight: 6
 description: "The science of Political Economy has so much interested thinkers for a century"
-c: "maroon"
+c: "firebrick"
 ---
 
 

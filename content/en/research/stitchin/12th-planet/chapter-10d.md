@@ -1,7 +1,7 @@
 ---
 heading: Chapter 10d
 title:  "What Were the Ziggurats For?"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Enki of his landing on Earth"

@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: The Hermetic Philosophy Simplified
 description: In the early days, the Basic Hermetic Doctrines, passed on from teacher to student, was compiled into as The Kybalion
-c: "maroon"
+c: "firebrick"
 weight: 4
 ---
 

@@ -3,7 +3,7 @@ heading: "Essay 28"
 title: "Expense"
 weight: 40
 description: "RICHES are for spending, and spending for honor and good actions"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

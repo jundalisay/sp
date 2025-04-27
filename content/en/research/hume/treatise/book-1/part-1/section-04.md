@@ -2,7 +2,7 @@
 heading: "Section 4"
 title: "The Connection of Ideas"
 weight: 10
-c: "darkblue"
+c: "blue"
 description: "Generally, simple ideas and impressions are exactly correspondent, as the complex are formed from them"
 writer:
   name: David Hume

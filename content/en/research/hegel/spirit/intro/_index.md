@@ -2,5 +2,5 @@
 title: "Introduction"
 weight: 1
 description: "The Phenomenology of Spirit"
-c: "darkblue"
+c: "blue"
 ---

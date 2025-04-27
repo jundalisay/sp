@@ -4,7 +4,7 @@ heading: Chapter 2i
 weight: 26
 description: "Our intellectual class, particularly in Germany, is so shut up in itself and fossilized that it lacks living contact with the classes beneath it"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

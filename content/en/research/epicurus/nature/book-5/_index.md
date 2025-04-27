@@ -7,7 +7,7 @@ heading: Book 4
 weight: 10
 description: Deals with out World and its Formation, Astronomy, the beginnings of Life and Civilization
 author: "Titus Lucretius Carus"
-c: "maroon"
+c: "firebrick"
 ---
 
 

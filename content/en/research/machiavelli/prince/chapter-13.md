@@ -4,7 +4,7 @@ heading: "Chapter 13"
 author: "Machiavelli"
 description: "Auxiliaries are the other kind of most useless soldiers. They are employed when a prince needs other forces to aid and defend him"
 weight: 22
-c: "maroon"
+c: "firebrick"
 icon: "Machiavelli"
 ---
 

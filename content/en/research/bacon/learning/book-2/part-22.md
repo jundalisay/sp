@@ -3,7 +3,7 @@ title: Moral Philosophy
 heading: "Part 22"
 weight: 44
 description: "Daily life belongs to moral philosophy. Without it, our duties are just a fair image or statue -- beautiful to contemplate, but is without life and motion"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

@@ -4,7 +4,7 @@ heading: "Section 21"
 # date: 2022-03-22
 weight: 36
 description: "Einstein Claims that General Relativity can solve the insufficiencies of Classical Mechanics"
-c: "maroon"
+c: "firebrick"
 icon: "Einstein"
 writer:
   name: Albert Einstein

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 13d
 title:  "Utnapishtim as Noah"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "The will of Enlil and the Assembly of the Gods was done."

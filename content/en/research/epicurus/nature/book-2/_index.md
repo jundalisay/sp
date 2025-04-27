@@ -7,7 +7,7 @@ linkTitle: Book 2
 weight: 4
 description: Which consists of infinite atoms moving in infinite space
 author: "Titus Lucretius Carus"
-c: "maroon"
+c: "firebrick"
 ---
 
 

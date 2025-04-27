@@ -2,10 +2,10 @@
 heading: Chapter 5e
 title: The Fourth Degree of the Configurations
 description: "The fourth degree of the configurations in influentiality is that of the quintile, biquintile, and quincunx"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 28
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

@@ -4,7 +4,7 @@ title: "The Origin of the Big Bang"
 description: ""
 weight: 36
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

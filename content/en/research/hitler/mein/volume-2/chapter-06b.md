@@ -4,7 +4,7 @@ heading: Chapter 6b
 weight: 43
 description: "Our first great meeting, in the banquet hall of the Hofbräuhaus on February 24th, 1920"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

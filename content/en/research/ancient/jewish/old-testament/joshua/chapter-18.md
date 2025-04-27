@@ -3,7 +3,7 @@ heading: Joshua 18
 title: "The 7 Tribes"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 36
-c: "maroon"
+c: "firebrick"
 ---
 
 

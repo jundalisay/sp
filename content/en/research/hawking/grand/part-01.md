@@ -5,7 +5,7 @@ title: "The Mystery of Being"
 description: "What is the nature of reality?"
 weight: 2
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 <!-- 

@@ -4,7 +4,7 @@ heading: Chapter 5
 weight: 38
 description: "THE PEOPLE'S State will not become a reality in virtue of the simple fact that we know the indispensable conditions of its existence"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

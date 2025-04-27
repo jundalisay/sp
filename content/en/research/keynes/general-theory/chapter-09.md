@@ -1,7 +1,7 @@
 ---
 title: "The Subjective Factors of the Propensity to Consume"
 heading: "Chapter 9"
-c: "maroon"
+c: "firebrick"
 # date: 2020-11-23
 weight: 40
 icon: "John Maynard Keynes"

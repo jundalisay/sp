@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Rent Of Mines"
 description: "The metals, like other things, are obtained by labour"
-c: "maroon"
+c: "firebrick"
 weight: 40
 date: 2025-02-09
 ---

@@ -3,7 +3,7 @@ title: "Private or Particular Good"
 heading: Part 21
 weight: 42
 description: "Private or particular good is either active and passive"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

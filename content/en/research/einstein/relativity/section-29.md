@@ -4,7 +4,7 @@ heading: "Section 29"
 # date: 2022-03-06
 weight: 52
 description: "Einstein explains how gravity works in General Relativity"
-c: "maroon"
+c: "firebrick"
 icon: "Einstein"
 writer:
   name: Albert Einstein

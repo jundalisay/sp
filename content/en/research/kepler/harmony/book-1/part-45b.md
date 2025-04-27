@@ -2,10 +2,10 @@
 heading: Part 45b
 title: "Algebra"
 description: "So no Regular Heptagon (Septangulum) has ever been constructed by anyone knowingly and deliberately, and working as proposed"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 26
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

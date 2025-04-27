@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 description: "The Origin of Physiognomy"
-c: "maroon"
+c: "firebrick"
 weight: 3
 writer:
   name: Paracelsus

@@ -6,7 +6,7 @@ description: "The Moon stands for another physical causes for prediction"
 c: "darkgoldenrod"
 weight: 6
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

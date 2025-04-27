@@ -2,7 +2,7 @@
 title: "The Democratic Man"
 heading: "Chapter 3b"
 weight: 9
-c: "darkblue"
+c: "blue"
 description: "The oligarchical principle in a young man will change into the democratical after he tastes the drones' honey"
 author: "Socrates"
 icon: "Socrates"

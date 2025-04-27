@@ -4,7 +4,7 @@ title: "M-Theory"
 description: "M-theory is the only model that has all the properties we think the final theory should have"
 weight: 4
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Low Quality Knowledge"
 heading: Chapter 12
 weight: 22
-c: "darkblue"
+c: "blue"
 description: "In the divine nature, both religion and philosophy acknowledges goodness in perfection."
 icon: "Francis Bacon"
 writer:

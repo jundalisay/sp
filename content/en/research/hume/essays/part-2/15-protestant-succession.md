@@ -2,7 +2,7 @@
 title: "The Protestant Succession"
 heading: "Essay 15, Part 2"
 description: "The House of Stuart was rejected because they were Catholic and Caholicism is expensive and less tolerant"
-c: "darkblue"
+c: "blue"
 weight: 46
 writer:
   name: David Hume

@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 4
 author: Galen
 description: "Urine is carried through the kidneys into the bladder by 2 methods"
-c: "maroon"
+c: "firebrick"
 ---
 
 

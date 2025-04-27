@@ -2,7 +2,7 @@
 title: "Basic Qualities of Guardians"
 heading: Chapter 2b
 weight: 9
-c: "darkblue"
+c: "blue"
 description: "The noble youth is very like a well-bred dog in respect of guarding and watching"
 writer:
   name: Plato

@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "THE ORDER AND AIMS OF ECONOMIC STUDIES"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 9
 ---
 

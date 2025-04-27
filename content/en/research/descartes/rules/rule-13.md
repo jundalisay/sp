@@ -3,7 +3,7 @@ heading: Rule 13
 title: How to Understand Questions
 weight: 16
 description: If we perfectly understand a question, it must be abstracted from all superfluous concepts, reduced to its simplest form
-c: "darkblue"
+c: "blue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

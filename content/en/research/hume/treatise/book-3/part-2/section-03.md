@@ -2,7 +2,7 @@
 heading: Section 3
 title: "The Rules Which Determine Property"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "darkblue"
+c: "blue"
 # date: 2015-x-x
 weight: 26
 writer:

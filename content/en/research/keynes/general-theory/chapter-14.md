@@ -1,7 +1,7 @@
 ---
 title: "The Classical Rate of Interest"
 heading: "Chapter 14"
-c: "maroon"
+c: "firebrick"
 description: "Keynes counters the classical interest rate"
 # date: 2020-11-05
 weight: 58

@@ -1,10 +1,10 @@
 ---
 title: "The Origin Of The Harmonic Proportions And The Nature of Melody."
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 2
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

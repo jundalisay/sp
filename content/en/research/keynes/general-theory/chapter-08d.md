@@ -1,7 +1,7 @@
 ---
 title: "Kuznet's Data"
 heading: "Chapter 8d"
-c: "maroon"
+c: "firebrick"
 # date: 2020-11-25
 weight: 39
 icon: "John Maynard Keynes"

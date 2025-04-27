@@ -3,7 +3,7 @@ heading: "Part 11"
 title: The human knowledge which concerns the mind
 weight: 24
 description: "The human knowledge which concerns the mind has 2 parts"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

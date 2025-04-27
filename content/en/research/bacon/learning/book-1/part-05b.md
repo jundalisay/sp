@@ -3,7 +3,7 @@ title: Other Causes of the Errors in Learning
 heading: "Part 5b"
 weight: 14
 description: "The first of these is the extreme affecting of 2 extremities"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

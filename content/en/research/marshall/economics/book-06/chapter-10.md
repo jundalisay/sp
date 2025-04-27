@@ -2,7 +2,7 @@
 title: "LAND TENURE"
 heading: Chapter 10
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 4
 ---
 

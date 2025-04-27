@@ -2,10 +2,10 @@
 heading: Part 20
 title: "Filling Up the Plane"
 description: "There are 4 ways in which the plane can be filled by the congruence of plane angles"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 11
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

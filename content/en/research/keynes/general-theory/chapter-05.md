@@ -2,7 +2,7 @@
 title: "Expectation Determines Output and Employment"
 heading: "Chapter 5"
 description: "Keynes explains Expectation as Determining Output and Employment"
-c: "maroon"
+c: "firebrick"
 # date: 2020-12-13
 weight: 20
 icon: "John Maynard Keynes"

@@ -4,7 +4,7 @@ heading: Chapter 1b
 weight: 6
 description: "Democracy is exploited by the Marxists to paralyse their opponents and put their own methods into action"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 icon: "Adolf Hitler"
 ---
 

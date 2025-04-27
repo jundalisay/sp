@@ -3,7 +3,7 @@ title: "Proposition 12"
 description: "Suppose a body to move in an hyperbola. It is required to find the law of the centripetal force tending to the focus of that shape"
 author: Newton
 draft: true
-c: "maroon"
+c: "firebrick"
 ---
 
 

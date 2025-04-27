@@ -3,7 +3,7 @@ heading: Genesis 12
 title: "Nimrod the Great"
 description: "Adam knew Eve his wife. She conceived and gave birth to Cain"
 weight: 22
-c: "maroon"
+c: "firebrick"
 ---
 
 

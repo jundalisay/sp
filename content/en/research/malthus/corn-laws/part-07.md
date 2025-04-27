@@ -2,7 +2,7 @@
 title: "The Evils of the Corn Trade"
 # heading: Unenlightened
 description: To counterbalance these striking advantages of a free trade in corn, what are the evils which are apprehended from it?
-c: "maroon"
+c: "firebrick"
 author: "Malthus"
 weight: 21
 date: 2025-03-20

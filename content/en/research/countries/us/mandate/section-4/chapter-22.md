@@ -2,7 +2,7 @@
 title: "DEPARTMENT OF THE TREASURY"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 contributors: ['Stephen Moore', 'David R. Burton', 'William L. Walton']
 ---

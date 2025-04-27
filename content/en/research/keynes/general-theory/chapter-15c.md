@@ -2,7 +2,7 @@
 heading: "Chapter 15c"
 title: "The Control of Interest Rates"
 description: "In any given state of expectation, a fall in `r` will be associated with an increase in `M2`"
-c: "maroon"
+c: "firebrick"
 # date: 2020-10-26
 weight: 68
 writer:

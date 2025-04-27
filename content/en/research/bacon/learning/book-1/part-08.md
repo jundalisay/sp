@@ -2,7 +2,7 @@
 title: "Part 8"
 weight: 22
 description: "Moral and Private virtue"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

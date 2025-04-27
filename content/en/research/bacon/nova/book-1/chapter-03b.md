@@ -3,7 +3,7 @@ title: "The Goal of Science"
 heading: Chapter 3b
 weight: 20
 description: "The slow advancement of the sciences is also caused by the fact that the end and goal of science is ill defined"
-c: "darkblue"
+c: "blue"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon

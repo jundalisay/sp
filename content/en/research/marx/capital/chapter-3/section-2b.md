@@ -4,7 +4,7 @@ heading: "Section 2b"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-c: "maroon"
+c: "firebrick"
 description: "The change of form, C—M—C, by which the circulation of the material products of labour is brought about, requires that a given value in the shape of a commodity shall begin the process"
 weight: 8
 icon: "Karl Marx"

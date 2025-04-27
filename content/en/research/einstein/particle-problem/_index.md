@@ -4,7 +4,7 @@ linkTitle: "Particle Problem"
 # 2022-04-05"
 weight: 6
 description: "Einstein and Rosen Create the absurd concept of wormholes"
-c: "maroon"
+c: "firebrick"
 ---
 
 

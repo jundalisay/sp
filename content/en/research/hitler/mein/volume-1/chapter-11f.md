@@ -4,7 +4,7 @@ heading: Chapter 11f
 weight: 98
 description: "The Jews never had a civilization of their own"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 icon: "Adolf Hitler"
 ---
 

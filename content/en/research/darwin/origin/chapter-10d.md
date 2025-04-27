@@ -3,7 +3,7 @@ title: The mutual affinities of extinct and living species
 heading: Chapter 10d
 weight: 70
 description: "My principle of descent explains that these affinities fall into one grand natural system"
-c: "maroon"
+c: "firebrick"
 ---
 
 

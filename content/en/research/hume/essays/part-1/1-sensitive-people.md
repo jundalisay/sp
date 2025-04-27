@@ -2,7 +2,7 @@
 title: "The Delicacy of Taste and Passion [Sensitive People]"
 heading: "Essay 1"
 description: "Some people are extremely sensitive to all the accidents of life. It gives them joy on every prosperous event, as well as grief on misfortunes and adversity"
-c: "darkblue"
+c: "blue"
 # datez:2020-12-31
 weight: 2
 writer:

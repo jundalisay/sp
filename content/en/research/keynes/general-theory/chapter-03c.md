@@ -2,7 +2,7 @@
 heading: "Chapter 3c"
 title: "Ricardo's Doctrine"
 description: "Output minus factor cost equals profit or entrepreneur's income"
-c: "maroon"
+c: "firebrick"
 # date: 2020-12-19
 weight: 14
 icon: "John Maynard Keynes"

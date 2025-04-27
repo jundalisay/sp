@@ -2,12 +2,12 @@
 heading: Parts 1-7
 title: "The Construction Of Regular Shapes"
 description: "A plane figure is regular if it has all its sides and all its outward-facing angles equal to one another"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 5
 writer:
   name: Johannes Kepler
   url: https://en.wikipedia.org/wiki/Johannes_Kepler
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: Chapter 25
 title: "Currency And Banks"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 184
 date: 2025-01-11
 ---

@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "Abuse of Proprieties in Ceremonies and Music"
 description: "Confucius describes the ceremonial adopted and enforced by the Hi dynasty"
 weight: 6
-c: "maroon"
+c: "firebrick"
 ---
 
 

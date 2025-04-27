@@ -3,7 +3,7 @@ heading: "Part 7"
 title: Natural Philosophy
 weight: 16
 description: "Democritus said that the truth of nature lies hidden in certain deep mines and caves"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

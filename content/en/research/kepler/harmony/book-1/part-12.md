@@ -2,10 +2,10 @@
 heading: Parts 12-16
 title: "Degrees of Knowledge"
 description: "The quantity of a line is knowable if it is either itself immediately measurable"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 7
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

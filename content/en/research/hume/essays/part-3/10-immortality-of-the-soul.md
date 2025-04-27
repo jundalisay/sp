@@ -2,7 +2,7 @@
 title: "The Immortality Of The Soul"
 heading: "Essay 10"
 description: "The Three arguments for the immortality of the soul"
-c: "darkblue"
+c: "blue"
 weight: 10
 writer:
   name: David Hume

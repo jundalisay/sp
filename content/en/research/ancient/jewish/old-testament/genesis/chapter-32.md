@@ -3,7 +3,7 @@ heading: Genesis 32
 title: "Jacob Gives Gifts"
 description: "Jacob went on his way, and the agents of Enki met him"
 weight: 50
-c: "maroon"
+c: "firebrick"
 ---
 
 

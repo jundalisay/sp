@@ -2,7 +2,7 @@
 title: "Emptiness and Form"
 weight: 22
 description: "The classical mechanistic world view was based on the notion of solid, indestructible particles moving in the void"
-c: "maroon"
+c: "firebrick"
 ---
 
 

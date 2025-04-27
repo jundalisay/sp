@@ -2,12 +2,12 @@
 title: "Introduction Part 2"
 heading: Part 2
 description: "Following Ramus, Lazarus Schoner in his Geometry confessed that he could see absolutely no use for the 5 regular solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 4
 writer:
   name: Johannes Kepler
   url: https://en.wikipedia.org/wiki/Johannes_Kepler
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

@@ -3,7 +3,7 @@ heading: Ezekiel 22
 title: "The Crimes of the Israelites"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 58
-c: "maroon"
+c: "firebrick"
 ---
 
 

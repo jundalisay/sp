@@ -3,7 +3,7 @@ heading: "Chapter 10a"
 title: "Confucious' Disciples"
 description: "The first to make progress in the Proprieties and in Music are plain farmers"
 weight: 20
-c: "maroon"
+c: "firebrick"
 writer:
   name: Confucius
   url: https://en.wikipedia.org/wiki/Zhao_Ruku

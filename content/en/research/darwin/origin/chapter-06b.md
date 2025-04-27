@@ -3,7 +3,7 @@ title: Diversified and Changed Habits
 heading: Chapter 6b
 weight: 43
 description: "The Galeopithecus or flying lemur formerly was falsely ranked amongst bats"
-c: "maroon"
+c: "firebrick"
 ---
 
 

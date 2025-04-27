@@ -3,7 +3,7 @@ title: "Miyamoto Musashi"
 linkTitle: "Musashi"
 description: "Aka Shinmen Takezō, Miyamoto Bennosuke, or by his Buddhist name Niten Dōraku. He was a famous Japanese samurai (1584–June 13 1645)"
 a: "Musashi"
-c: "darkblue"
+c: "blue"
 heading: "Enlightened"
 weight: 145
 # date: 2022-05-25

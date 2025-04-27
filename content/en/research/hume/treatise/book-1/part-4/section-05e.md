@@ -2,7 +2,7 @@
 heading: "Section 5e"
 title: "Spinoza's system is really Theological"
 weight: 33
-c: "darkblue"
+c: "blue"
 description: "It has been said against Spinoza scholastically, that a mode is not any distinct or separate existence"
 writer:
   name: David Hume

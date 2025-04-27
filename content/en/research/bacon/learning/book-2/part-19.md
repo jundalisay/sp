@@ -3,7 +3,7 @@ title: Critical and Pedantical Knowledge
 heading: "Part 19"
 weight: 38
 description: "All knowledge is either delivered by teachers, or attained by men’s proper endeavours"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

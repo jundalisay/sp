@@ -2,7 +2,7 @@
 title: "SMALL BUSINESS ADMINISTRATION"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 author: "Karen Kerrigan"
 ---

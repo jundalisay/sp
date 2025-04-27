@@ -1,7 +1,7 @@
 ---
 title: "What is a Concept?"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 8
 date: 2023-06-01
 ---

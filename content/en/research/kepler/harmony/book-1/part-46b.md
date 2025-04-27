@@ -2,10 +2,10 @@
 heading: Part 46
 title: "Pappus' Process"
 description: "To make this clear I shall first explain Pappus’ mechanical procedures for trisection: then I shall draw attention to what differentiates them from constructions that give knowledge"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 28
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

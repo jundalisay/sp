@@ -3,7 +3,7 @@ title: "Quantum Theory is Wrong"
 # title: "Einstein's Reply to Criticisms (1949)"
 heading: "Part 1"
 description: "Born, Pauli, Heitler, Bohr, and Margenau are all firmly convinced that the riddle of the double nature of all corpuscles"
-c: "maroon"
+c: "firebrick"
 weight: 4
 # date: 2020-01-31
 ---

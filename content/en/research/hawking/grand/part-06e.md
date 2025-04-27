@@ -4,7 +4,7 @@ title: "The Expansion of the Universe"
 description: "The idea that such an episode of inflation might have occurred was first proposed in 1980."
 weight: 37
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

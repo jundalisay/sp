@@ -3,7 +3,7 @@ heading: Joshua 23
 title: "Joshua Grows Old"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 46
-c: "maroon"
+c: "firebrick"
 ---
 
 

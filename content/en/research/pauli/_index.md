@@ -1,8 +1,8 @@
 ---
 title: "Pauli, Wolfgang"
 weight: 162
-c: "maroon"
+c: "firebrick"
 description: "Modern works about Physics"
-# c: "maroon"
+# c: "firebrick"
 ---
 

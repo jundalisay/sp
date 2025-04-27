@@ -4,7 +4,7 @@ heading: "Section 32"
 weight: 58
 # date: 2022-03-01
 description: "Einstein believes the universe is a finite quasi-sphere"
-c: "maroon"
+c: "firebrick"
 icon: "Einstein"
 writer:
   name: Albert Einstein

@@ -2,7 +2,7 @@
 title: "The First Principles of Government"
 heading: "Essay 4"
 description: "The most surprizing about human affairs is the ease with which the many are governed by the few and the implicit submission of men to their rulers"
-c: "darkblue"
+c: "blue"
 weight: 8
 writer:
   name: David Hume

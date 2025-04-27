@@ -2,10 +2,10 @@
 heading: Parts 24-25
 title: "Expressible Lines"
 description: "These lines are those described in Part 17 as fifth degree knowable"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 10
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

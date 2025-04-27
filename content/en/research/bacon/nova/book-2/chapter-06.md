@@ -3,7 +3,7 @@ title: "The Tables of Review"
 heading: Chapter 6
 weight: 16
 description: "Here is an example of the exclusion or rejection of natures found by the tables of review"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 ---
 

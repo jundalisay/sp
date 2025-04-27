@@ -4,7 +4,7 @@ title: "Promise #3: Defend Our Nation’s Sovereignty, Borders, And Bounty Again
 weight: 2
 # date: 2023-06-17
 description: "Heritage Foundation'"
-c: "maroon"
+c: "firebrick"
 ---
 
 

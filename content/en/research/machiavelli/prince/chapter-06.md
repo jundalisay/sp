@@ -4,7 +4,7 @@ heading: "Chapter 6"
 author: "Machiavelli"
 description: "Becoming a prince from a private station requires ability or good luck which can reduce many difficulties"
 weight: 8
-c: "maroon"
+c: "firebrick"
 icon: "Machiavelli"
 ---
 

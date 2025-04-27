@@ -1,7 +1,7 @@
 ---
 title: "Sensuous-certainty; or the “this” and meaning something"
 description: Here we de-complicate Hege
-c: "darkblue"
+c: "blue"
 author: Hegel
 icon: "Hegel"
 weight: 600

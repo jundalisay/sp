@@ -4,7 +4,7 @@ title: "The Game of Life"
 description: "The Game of Life was invented in 1970 by a young mathematician at Cambridge named John Conway"
 weight: 44
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: "Chapter 16b"
 title: "Long and Short Processes"
 description: "Some lengthy or roundabout processes are physically efficient. But so are some short processes."
-c: "maroon"
+c: "firebrick"
 # date: 2020-10-24
 weight: 70
 icon: "John Maynard Keynes"

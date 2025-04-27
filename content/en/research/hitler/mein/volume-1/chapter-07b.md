@@ -4,7 +4,7 @@ heading: Chapter 7b
 weight: 50
 description: "Towards the end of 1917 it seemed as if we had got over the worst phases of moral depression at the front"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

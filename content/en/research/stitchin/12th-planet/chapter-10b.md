@@ -1,7 +1,7 @@
 ---
 heading: Chapter 10b
 title:  "Enki's Account"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Enki of his landing on Earth"

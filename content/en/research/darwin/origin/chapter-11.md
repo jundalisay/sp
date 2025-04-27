@@ -3,7 +3,7 @@ title: Geographical Distribution
 heading: Chapter 11
 weight: 76
 description: "Neither the similarity nor the dissimilarity of the inhabitants of various regions can be accounted for by their climatal and other physical conditions."
-c: "maroon"
+c: "firebrick"
 ---
 
 

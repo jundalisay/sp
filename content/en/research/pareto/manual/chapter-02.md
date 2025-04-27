@@ -3,7 +3,7 @@ heading: Chapter 2
 title: "Introduction to Social Science"
 weight: 2
 description: "Modern works about Physics"
-c: "maroon"
+c: "firebrick"
 ---
 
 

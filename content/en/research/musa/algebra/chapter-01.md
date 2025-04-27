@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: "Three kinds of numbers in calculations"
 weight: 2
-image: "/covers/algebra.jpg"
+c: "blue"
 description: "Three kinds of numbers in calculations"
 ---
 

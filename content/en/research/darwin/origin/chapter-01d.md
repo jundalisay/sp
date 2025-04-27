@@ -4,7 +4,7 @@ heading: Chapter 1d
 weight: 7
 author: Charles Darwin
 description: "Many treatises in different languages have been published on pigeons."
-c: "maroon"
+c: "firebrick"
 author: "Charles Darwin"
 icon: "Charles Darwin"
 ---

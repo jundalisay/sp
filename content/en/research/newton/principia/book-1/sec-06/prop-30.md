@@ -2,7 +2,7 @@
 heading: Section 6
 linkTitle: Prop 2
 title: "Proposition 30 Problem 22"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 6

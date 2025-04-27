@@ -3,7 +3,7 @@ heading: "Essay 38"
 title: "Nature In Men"
 weight: 50
 description: "NATURE is often hidden. It is sometimes overcome, seldom extinguished"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

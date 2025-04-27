@@ -2,7 +2,7 @@
 title: "TRADE THE CASE FOR FAIR TRADE"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 author: "Peter Navarro"
 ---

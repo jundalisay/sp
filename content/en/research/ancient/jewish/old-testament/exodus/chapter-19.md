@@ -3,7 +3,7 @@ heading: Chapter 19
 title: "Preparing for the 10 Commandments"
 description: "In the third month, the Israelites came into he wilderness of Sinai"
 weight: 4
-c: "maroon"
+c: "firebrick"
 ---
 
 

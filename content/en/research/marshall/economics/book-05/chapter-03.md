@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "EQUILIBRIUM OF NORMAL DEMAND AND SUPPLY"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 9
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "Value"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 2
 date: 2025-01-11
 ---

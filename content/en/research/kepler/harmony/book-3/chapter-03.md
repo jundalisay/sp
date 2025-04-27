@@ -2,10 +2,10 @@
 heading: Chapter 3
 title: "The Harmonic Means, and the Trinity of Consonant Sounds"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 16
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

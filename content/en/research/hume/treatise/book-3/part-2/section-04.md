@@ -2,7 +2,7 @@
 heading: Section 4
 title: "The Transference Of Property By Consent"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "darkblue"
+c: "blue"
 # date: 2015-x-x
 weight: 36
 writer:

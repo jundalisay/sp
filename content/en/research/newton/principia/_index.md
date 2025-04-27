@@ -1,7 +1,7 @@
 ---
 title: "Principia Mathematica Simplified"
 linkTitle: Principia
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 2

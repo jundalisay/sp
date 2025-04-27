@@ -6,7 +6,7 @@ writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
 icon: "Karl Marx"
-c: "maroon"
+c: "firebrick"
 ---
 
 

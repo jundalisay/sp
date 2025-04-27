@@ -2,7 +2,7 @@
 heading: "Section 5f"
 title: "The Mind's Substance"
 weight: 34
-c: "darkblue"
+c: "blue"
 description: "There appears no connection between motion or thought just as there appears no connection between all other causes and effects."
 writer:
   name: David Hume

@@ -1,7 +1,7 @@
 ---
 title: "The Types of Risk that Affect the Volume of Investment"
 heading: "Chapter 11b"
-c: "maroon"
+c: "firebrick"
 description: "The prospective yield of the investment"
 # date: 2020-11-14
 weight: 50

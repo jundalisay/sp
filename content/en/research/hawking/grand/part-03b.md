@@ -4,7 +4,7 @@ title: "Model-dependent realism"
 description: "Model-dependent realism corresponds to the way we perceive objects."
 weight: 16
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

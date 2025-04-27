@@ -4,7 +4,7 @@ weight: 4
 # date: 2023-06-17
 author: Stephen Miran
 description: "While Trumpism is the Mandate, Trumponomics is by Miran"
-c: "maroon"
-# c: "maroon"
+c: "firebrick"
+# c: "firebrick"
 ---
 

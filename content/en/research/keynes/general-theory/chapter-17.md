@@ -2,7 +2,7 @@
 heading: "Chapter 17"
 title: "The Essential Properties of Interest and Money"
 description: "The interest rate of money sets a standard to which the marginal efficiency of a capital-asset must attain if it is to be newly produced"
-c: "maroon"
+c: "firebrick"
 # date: 2020-10-20
 weight: 74
 icon: "John Maynard Keynes"

@@ -2,7 +2,7 @@
 title: "CONSUMER FINANCIAL PROTECTION BUREAU"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 author: "Robert Bowes"
 ---

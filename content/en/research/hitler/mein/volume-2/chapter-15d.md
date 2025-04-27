@@ -4,7 +4,7 @@ heading: Chapter 15d
 weight: 810
 description: "One undertakes such a struggle when there is a possibility of success"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 icon: "Adolf Hitler"
 ---
 

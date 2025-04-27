@@ -1,7 +1,7 @@
 ---
 heading: Chapter 12
 title: "The Human Mind"
-c: "darkblue"
+c: "blue"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza
@@ -9,13 +9,16 @@ writer:
 weight: 8
 ---
 
+I have divided created substance into extended and thinking substance.
 
-We must now pass on to created substance, which we have divided into extended and thinking substance. By extended substance we understood matter or corporeal substance; by thinking substance we understood only human minds.
+"Extended substance" is matter or corporeal substance.
 
-[Angels are a sub;ect for theology, not metaphysics. ] 
+"Thinking substance" is only human minds.
 
-Although Angels have also been created, yet, because they are not known by the natural light, they are not
-the concern of metaphysics. 
+
+<!-- [Angels are a subect for theology, not metaphysics.]  -->
+
+Angels have also been created. But they are not known by the natural light. And so they are not the concern of metaphysics. 
 
 For their essence and existence are known only through revelation, and so pertain solely to theology; and because theological
 knowledge is completely other than, or entirely different in kind from, natural

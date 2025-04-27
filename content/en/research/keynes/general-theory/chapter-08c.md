@@ -1,7 +1,7 @@
 ---
 title: "The Importance of the Propensity to Consume"
 heading: "Chapter 8c"
-c: "maroon"
+c: "firebrick"
 # date: 2020-11-25
 weight: 38
 icon: "John Maynard Keynes"

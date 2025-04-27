@@ -3,7 +3,7 @@ heading: Rule 2
 title: We should only engage with objects that lead to sure knowledge.
 weight: 6
 description: We should only engage with objects which our minds can use to achieve sure knowledge.
-c: "darkblue"
+c: "blue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

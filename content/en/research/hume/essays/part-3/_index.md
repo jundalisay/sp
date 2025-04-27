@@ -1,7 +1,7 @@
 ---
 title: "Part 3"
 description: "Research on David Hume"
-c: "darkblue"
+c: "blue"
 weight: 3
 writer:
   name: David Hume

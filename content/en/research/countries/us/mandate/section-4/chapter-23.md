@@ -3,7 +3,7 @@ title: "THE EXPORT–IMPORT BANK SHOULD BE ABOLISHED"
 date: 2024-11-01
 description: ""
 author: "VVeronique de Rugy"
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

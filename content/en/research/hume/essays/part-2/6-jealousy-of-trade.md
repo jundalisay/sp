@@ -2,7 +2,7 @@
 title: "The Jealousy of Trade"
 heading: "Essay 6"
 description: "A nation's domestic industry cannot be hurt by the greatest prosperity of their neighbours"
-c: "darkblue"
+c: "blue"
 weight: 14
 writer:
   name: David Hume

@@ -2,10 +2,10 @@
 heading: Chapter 1
 title: "The Essence of the Harmonic Proportions, Both Sensible and Intelligible"
 description: "Being on the point of examining the essence of the harmonies, I find myself in doubt whether it will be clearer"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 6
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

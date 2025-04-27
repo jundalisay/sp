@@ -2,7 +2,7 @@
 title: "The Natural Rate of Interest"
 heading: "Chapter 17c"
 description: ""
-c: "maroon"
+c: "firebrick"
 # date: 2020-10-16
 weight: 78
 icon: "John Maynard Keynes"

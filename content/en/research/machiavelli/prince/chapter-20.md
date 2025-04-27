@@ -4,7 +4,7 @@ heading: "Chapter 20 of The Prince Simplified"
 author: "Machiavelli"
 description: "The prince who has more to fear from the people than from foreigners ought to build castles, but he who has more to fear from foreigners than from the people should leave them alone"
 weight: 36
-c: "maroon"
+c: "firebrick"
 icon: "Machiavelli"
 ---
 

@@ -2,7 +2,7 @@
 heading: Section 8
 linkTitle: Prop 49
 title: "Proposition 49 Theorem 11"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 400

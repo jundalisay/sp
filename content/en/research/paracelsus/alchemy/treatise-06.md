@@ -2,7 +2,7 @@
 heading: Treatise 6
 title: "The second matter, and putrefaction of things"
 description: "The Origin of Physiognomy"
-c: "maroon"
+c: "firebrick"
 weight: 26
 writer:
   name: Paracelsus

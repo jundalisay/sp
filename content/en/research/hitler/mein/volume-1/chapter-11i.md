@@ -4,7 +4,7 @@ heading: Chapter 11i
 weight: 104
 description: "The Marxist Doctrine provoked the opposition of decent people. They refused to admit these demands which seemed fundamentally unjust"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

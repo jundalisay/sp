@@ -2,7 +2,7 @@
 heading: "Chapter 2c"
 title: "Involuntary Employment"
 description: "The struggle over money-wages is often believed to determine the general level of real wages"
-c: "maroon"
+c: "firebrick"
 weight: 6
 # date: 2020-12-26
 icon: "John Maynard Keynes"

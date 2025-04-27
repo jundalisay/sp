@@ -3,7 +3,7 @@ heading: "Essay 15"
 title: "Seditions And Troubles"
 weight: 22
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

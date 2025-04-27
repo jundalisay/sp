@@ -2,7 +2,7 @@
 heading: "Chapter 2"
 title: "The 7 Hermetic Principles: Mentalism & Correspondence"
 description: There are 7 Principles of Truth. The knower of these has the Magic Key before whose touch all the Doors of the Temple fly open
-c: "maroon"
+c: "firebrick"
 weight: 5
 ---
 

@@ -4,7 +4,7 @@ heading: "Chapter 8"
 author: "Machiavelli"
 description: "How could Agathocles, and his like, after infinite wickedness and cruelties, should live securely for so long in his country?"
 weight: 12
-c: "maroon"
+c: "firebrick"
 icon: "Machiavelli"
 ---
 

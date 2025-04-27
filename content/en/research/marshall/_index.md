@@ -2,8 +2,8 @@
 title: "Marshall, Alfred"
 heading: Unenlightened
 description: ""
-# c: "maroon"
+# c: "firebrick"
 a: "Alfred Marshall"
-c: "maroon"
+c: "firebrick"
 weight: 133
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Four Facts About Mercantilism"
 description: "Professor Heckscher has a great work on Mercantilism which had 4 conclusions"
-c: "maroon"
+c: "firebrick"
 # date: 2019-12-15
 weight: 106
 icon: "John Maynard Keynes"

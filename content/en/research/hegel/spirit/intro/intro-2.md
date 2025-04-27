@@ -2,7 +2,7 @@
 heading: Introduction 
 title: Science of Knowledge
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "darkblue"
+c: "blue"
 author: Hegel
 icon: "Hegel"
 weight: 6

@@ -3,7 +3,7 @@ heading: Joshua 22
 title: "The Children of Reuben and Gad"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 44
-c: "maroon"
+c: "firebrick"
 ---
 
 

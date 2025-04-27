@@ -2,10 +2,10 @@
 heading: Part 49
 title: "Classes of Bisections"
 description: "The proper form of bisection is used in the first class of figures"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 32
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

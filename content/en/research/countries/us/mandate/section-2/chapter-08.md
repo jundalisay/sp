@@ -3,7 +3,7 @@ title: "Media Agencies U.s. Agency For Global Media"
 date: 2024-11-01
 description: ""
 author: "Mora Namdar"
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

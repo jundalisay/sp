@@ -4,6 +4,6 @@ title: "The Grand Design"
 description: "Book by Stephen Hawking"
 weight: 2
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 

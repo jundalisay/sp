@@ -3,7 +3,7 @@ heading: Genesis 7
 title: "Before and During the Flood"
 description: "Come you and all your house into the ark. I have seen you righteous before me in this generation"
 weight: 12
-c: "maroon"
+c: "firebrick"
 ---
 
 

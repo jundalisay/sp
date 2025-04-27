@@ -2,7 +2,7 @@
 title: "Introduction"
 weight: 1
 description: "Queen Elizabeth was a sojourner in the world in respect of her unmarried life, and was a blessing to her own times"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon
@@ -14,9 +14,20 @@ To the King.
 
 1.  It might seem to have more convenience, though it come often otherwise to pass (excellent King), that those which are fruitful in their generations, and have in themselves the foresight of immortality in their descendants, should likewise be more careful of the good estate of future times, unto which they know they must transmit and commend over their dearest pledges.  
 
-Queen Elizabeth was a sojourner in the world in respect of her unmarried life, and was a blessing to her own times; and yet so as the impression of her good government, besides her happy memory, is not without some effect which doth survive her.  But to your Majesty, whom God hath already blessed with so much royal issue, worthy to continue and represent you for ever, and whose youthful and fruitful bed doth yet promise many the like renovations, it is proper and agreeable to be conversant not only in the transitory parts of good government, but in those acts also which are in their nature permanent and perpetual.  Amongst the which (if affection do not transport me) there is not any more worthy than the further endowment of the world with sound and fruitful knowledge.  For why should a few received authors stand up like Hercules’ columns, beyond which there should be no sailing or discovering, since we have so bright and benign a star as your Majesty to conduct and prosper us?  To return therefore where we left, it remaineth to consider of what kind those acts are which have been undertaken and performed by kings and others for the increase and advancement of learning, wherein I purpose to speak actively, without digressing or dilating.
+Queen Elizabeth was unmarried life yet was a blessing to her own times. She is remembered for her good government.
 
-2.  Let this ground therefore be laid, that all works are over common by amplitude of reward, by soundness of direction, and by the conjunction of labours.  The first multiplieth endeavour, the second preventeth error, and the third supplieth the frailty of man.  But the principal of these is direction, for claudus in via antevertit cursorem extra viam; and Solomon excellently setteth it down, “If the iron be not sharp, it requireth more strength, but wisdom is that which prevaileth,” signifying that the invention or election of the mean is more effectual than any enforcement or accumulation of endeavours.  This I am induced to speak, for that (not derogating from the noble intention of any that have been deservers towards the state of learning), I do observe nevertheless that their works and acts are rather matters of magnificence and memory than of progression and proficience, and tend rather to augment the mass of learning in the multitude of learned men than to rectify or raise the sciences themselves.
+But your Majesty should not only focus on good government, but also in teaching the world.
+
+For why should a few received authors stand up like Hercules’ columns, beyond which there should be no sailing or discovering, since we have so bright and benign a star as your Majesty to conduct and prosper us?  To return therefore where we left, it remaineth to consider of what kind those acts are which have been undertaken and performed by kings and others for the increase and advancement of learning, wherein I purpose to speak actively, without digressing or dilating.
+
+
+2.  Let this ground therefore be laid, that all works are over common by amplitude of reward, by soundness of direction, and by the conjunction of labours.  The first multiplieth endeavour, the second preventeth error, and the third supplieth the frailty of man.  
+
+But the principal of these is direction.
+
+Solomon wrote “If the iron be not sharp, it requireth more strength, but wisdom is that which prevaileth”.
+
+This signifying that the invention or election of the mean is more effectual than any enforcement or accumulation of endeavours.  This I am induced to speak, for that (not derogating from the noble intention of any that have been deservers towards the state of learning), I do observe nevertheless that their works and acts are rather matters of magnificence and memory than of progression and proficience, and tend rather to augment the mass of learning in the multitude of learned men than to rectify or raise the sciences themselves.
 
 3.  The works or acts of merit towards learning are conversant about three objects—the places of learning, the books of learning, and the persons of the learned.  For as water, whether it be the dew of heaven or the springs of the earth, doth scatter and leese itself in the ground, except it be collected into some receptacle where it may by union comfort and sustain itself; and for that cause the industry of man hath made and framed springheads, conduits, cisterns, and pools, which men have accustomed likewise to beautify and adorn with accomplishments of magnificence and state, as well as of use and necessity; so this excellent liquor of knowledge, whether it descend from divine inspiration, or spring from human sense, would soon perish and vanish to oblivion, if it were not preserved in books, traditions, conferences, and places appointed, as universities, colleges, and schools, for the receipt and comforting of the same.
 

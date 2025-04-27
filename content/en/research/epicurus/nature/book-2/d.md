@@ -6,7 +6,7 @@ linkTitle: Part D
 weight: 12
 description: There is no limit to their full sum, or to the void, or to the space in which all things are carried on
 author: "Titus Lucretius Carus"
-c: "maroon"
+c: "firebrick"
 ---
 
 

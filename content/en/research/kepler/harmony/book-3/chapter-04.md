@@ -2,10 +2,10 @@
 heading: Chapter 4
 title: "The Origin of the Melodic Intervals Smaller than Consonances"
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 18
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

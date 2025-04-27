@@ -3,7 +3,7 @@ heading: Joshua 16
 title: "The House of Joseph Complains"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 34
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 10
 author: Galen
 description: "There are generally 2 sects in medicine and philosophy"
-c: "maroon"
+c: "firebrick"
 ---
 
 

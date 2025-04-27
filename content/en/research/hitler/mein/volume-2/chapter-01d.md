@@ -4,7 +4,7 @@ heading: Chapter 1d
 weight: 10
 description: "All kinds of people, with all kinds of divergent opinions, are parading about at the present moment under the device VÖLKISCH on their banners"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

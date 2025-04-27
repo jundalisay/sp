@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2e
 title:  "The Importance of Clay and Medicine to the Sumerians"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Temples, courts, and trading houses had their scribes ready with tablets of wet clay on which to inscribe decisions, agreements"

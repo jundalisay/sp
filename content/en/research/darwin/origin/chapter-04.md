@@ -4,7 +4,7 @@ heading: Chapter 4
 weight: 22
 author: Charles Darwin
 description: "How will the struggle for existence, discussed too briefly in the last chapter, act in regard to variation?"
-c: "maroon"
+c: "firebrick"
 ---
 
 

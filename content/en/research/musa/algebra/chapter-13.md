@@ -2,7 +2,7 @@
 heading: Chapter 13
 title: "Return of the Dowry"
 weight: 100
-image: "/covers/algebra.jpg"
+c: "blue"
 description: "Three kinds of numbers in calculations"
 draft: true
 ---

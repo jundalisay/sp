@@ -3,7 +3,7 @@ heading: "Article 18"
 title: "How We Know"
 weight: 17
 description: "As for our Senses, by them we have the Knowledge only of our Sensations, Ideas, or those things that are immediately perceived by Sense"
-c: "darkblue"
+c: "blue"
 author: "Berkeley"
 ---
 

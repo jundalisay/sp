@@ -3,7 +3,7 @@ title: "Proper Music"
 heading: Chapter 2
 weight: 8
 description: "The State should promote proper Music, not sad nor fearful"
-c: "darkblue"
+c: "blue"
 icon: "Socrates"
 ---
 

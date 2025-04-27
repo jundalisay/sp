@@ -2,7 +2,7 @@
 heading: Chapter 27
 title: "Taxes Paid By The Producer"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 184
 date: 2025-01-11
 ---

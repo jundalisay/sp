@@ -1,7 +1,7 @@
 ---
 heading: Chapter 7g
 title:  "The Genesis Version"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Why is there a deep cavity as the Pacific Ocean on Earth?"

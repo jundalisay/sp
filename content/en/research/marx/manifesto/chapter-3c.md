@@ -2,7 +2,7 @@
 heading: "Chapter 3c "
 title: "Critical-Utopian Socialism and Communism"
 weight: 18
-c: "maroon"
+c: "firebrick"
 description: "The first direct attempts of the proletariat to attain its own ends was during the overthrow of feudal society"
 writer:
   name: Karl Marx

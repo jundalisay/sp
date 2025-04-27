@@ -2,7 +2,7 @@
 title: "The Psychological and Business Incentives To Liquidity"
 heading: "Chapter 15"
 description: "Keynes explains the Incentives To Liquidity"
-c: "maroon"
+c: "firebrick"
 date: 2020-10-30
 weight: 64
 writer:

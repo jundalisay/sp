@@ -2,7 +2,7 @@
 heading: "Section 7b"
 title: "Abstract Ideas and Generalizations Come From the Mind Connecting Ideas Readily"
 weight: 14
-c: "darkblue"
+c: "blue"
 description: "The creation of ideas beyond their nature comes from our collecting all their possible qualities and quantities in such an imperfect manner for the purposes of life"
 writer:
   name: David Hume

@@ -1,7 +1,7 @@
 ---
 title: "The Marginal Propensity to Consume and the Multiplier"
 heading: "Chapter 10b"
-c: "maroon"
+c: "firebrick"
 description: "The Multiplier in our theory of employment is a definite ratio between income and investment total employment and primary employment"
 # date: 2020-11-18
 weight: 44

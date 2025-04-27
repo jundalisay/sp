@@ -2,7 +2,7 @@
 heading: Appendix A
 title: "Belief Is A Feeling"
 description: ""
-c: "darkblue"
+c: "blue"
 # date: 2015-x-x
 weight: 6
 writer:

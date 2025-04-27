@@ -3,7 +3,7 @@ title: "How Goods are valued. Barter, Silver"
 heading: Chapter 1
 description: "John Law was a gambler turned economist"
 icon: "John Law"
-c: "maroon"
+c: "firebrick"
 date: 2025-04-19
 weight: 12
 ---

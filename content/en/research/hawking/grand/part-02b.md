@@ -4,7 +4,7 @@ title: "The Greeks"
 description: ""
 weight: 10
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -5,7 +5,7 @@ heading: Chapter 3
 weight: 24
 # date: 2023-06-17
 description: "Heritage Foundation"
-c: "maroon"
+c: "firebrick"
 contributors: ["Donald Devine", "Dennis Dean Kirk", "Paul Dans"]
 ---
 

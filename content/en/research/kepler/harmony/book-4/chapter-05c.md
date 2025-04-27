@@ -2,10 +2,10 @@
 heading: Chapter 5c
 title: The Congruence of figures can make influential configurations more than knowability
 description: "It is proved from the circumstances of the sublunary Soul and also of the faculties of the human soul which perceive the aspects"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 24
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

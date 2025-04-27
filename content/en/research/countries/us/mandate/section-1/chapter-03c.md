@@ -2,7 +2,7 @@
 title: "Market-based Pay And Benefits"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

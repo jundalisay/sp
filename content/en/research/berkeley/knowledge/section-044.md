@@ -3,7 +3,7 @@ heading: "Article 44"
 title: "The Ideas of Sight and Touch"
 weight: 47
 description: "The Ideas of Sight and Touch make two Species, intirely distinct and heterogeneous"
-c: "darkblue"
+c: "blue"
 author: "Berkeley"
 ---
 

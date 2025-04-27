@@ -2,10 +2,10 @@
 heading: Part 45
 title: "Biirgi’s Cossa"
 description: "All shapes the number of whose sides are Primes, and their stars, and the complete classes of figures derived from them, have no Geometrical description independent of the circle"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 26
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

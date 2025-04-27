@@ -3,7 +3,7 @@ title: Struggle for Existence
 heading: Chapter 3
 weight: 17
 description: "Organic beings in a state of nature has some individual variability"
-c: "maroon"
+c: "firebrick"
 ---
 
 

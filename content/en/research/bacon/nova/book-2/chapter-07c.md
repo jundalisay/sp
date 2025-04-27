@@ -3,7 +3,7 @@ title: "3: Conspicuous Instance or Coruscations"
 heading: Chapter 7c
 weight: 22
 description: "These show the required nature in its bare substantial shape."
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 ---
 

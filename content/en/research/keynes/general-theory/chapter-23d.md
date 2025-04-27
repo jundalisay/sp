@@ -1,7 +1,7 @@
 ---
 title: "Keynes' Journey"
 description: "The book The Physiology of Industry, published in 1889 by J. A. Hobson and A. F. Mummery, was the first open step in my heretical career"
-c: "maroon"
+c: "firebrick"
 # date: 2019-12-09
 weight: 110
 icon: "John Maynard Keynes"

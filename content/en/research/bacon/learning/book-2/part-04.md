@@ -3,7 +3,7 @@ heading: Part 4
 title: "Poesy"
 weight: 10
 description: "Poesy is a part of learning in measure of words, for the most part restrained, but in all other points extremely licensed, and doth truly refer to the imagination"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

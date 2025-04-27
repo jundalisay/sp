@@ -3,7 +3,7 @@ heading: Joshua 12
 title: "The kings that the Israelites defeated"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 26
-c: "maroon"
+c: "firebrick"
 ---
 
 

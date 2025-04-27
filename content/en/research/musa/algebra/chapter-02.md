@@ -2,7 +2,7 @@
 heading: "Chapter 2"
 title: "Multiplication"
 weight: 6
-image: "/covers/algebra.jpg"
+c: "blue"
 description: "Return of the Dowry"
 draft: true
 ---

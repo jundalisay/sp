@@ -2,7 +2,7 @@
 heading: Treatise 10
 title: "The Supernaturall Generation of the Son of the Sun"
 description: "The Origin of Physiognomy"
-c: "maroon"
+c: "firebrick"
 weight: 44
 writer:
   name: Paracelsus

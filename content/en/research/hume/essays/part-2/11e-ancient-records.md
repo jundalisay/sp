@@ -2,7 +2,7 @@
 title: "Faulty Ancient Records"
 heading: "Essay 11e"
 description: "The populousness of the Ancients is due to wrong record-keeping"
-c: "darkblue"
+c: "blue"
 weight: 32
 writer:
   name: David Hume

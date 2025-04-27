@@ -3,7 +3,7 @@ title: "Mathematicians Deceived"
 heading: "Article 7"
 weight: 11
 description: ""
-:c: "darkblue"
+:c: "blue"
 ---
 
 

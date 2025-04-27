@@ -5,7 +5,7 @@ weight: 18
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "darkblue"
+c: "blue"
 description: "I wanted to ask you about the speeches in praise of love, which were delivered by Socrates, Alcibiades, and others, at Agathon's supper"
 icon: "Socrates"
 ---

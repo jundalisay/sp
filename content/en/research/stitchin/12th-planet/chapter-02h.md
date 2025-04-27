@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2b
 title:  "Legal Reform"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"

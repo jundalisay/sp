@@ -3,7 +3,7 @@ heading: Part 4c
 title: "Why we Accept Wrong Things"
 weight: 12
 description: "This facility of accepting things weakly authorised is of 2 kinds"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

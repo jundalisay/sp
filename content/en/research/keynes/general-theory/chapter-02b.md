@@ -2,7 +2,7 @@
 heading: "Chapter 2b"
 title: "Money Wages versus Real Wages"
 description: "Keynes continues his corruption of Classical theory by arguing for the dominance of money wages over real wages"
-c: "maroon"
+c: "firebrick"
 # date: 2020-12-28
 weight: 4
 writer:

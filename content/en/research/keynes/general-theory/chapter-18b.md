@@ -2,7 +2,7 @@
 title: "The Meaning of Saving and Investment Further Considered"
 heading: "Chapter 18b"
 description: "An actual economic system has the propensity to consume, the marginal efficiency of capital curve and interest rate. These are not logically necessary"
-c: "maroon"
+c: "firebrick"
 # date: 2020-10-12
 weight: 82
 icon: "John Maynard Keynes"

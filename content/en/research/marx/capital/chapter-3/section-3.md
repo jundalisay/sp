@@ -4,7 +4,7 @@ heading: "Section 3"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-c: "maroon"
+c: "firebrick"
 description: "Money is the measure of value and the medium of circulation. Gold (or silver) is therefore money"
 weight: 8
 icon: "Karl Marx"

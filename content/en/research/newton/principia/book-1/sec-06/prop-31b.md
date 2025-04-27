@@ -2,7 +2,7 @@
 heading: Section 6d
 linkTitle: Prop 31b
 title: "Scholium"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 6

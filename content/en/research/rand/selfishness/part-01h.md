@@ -1,7 +1,7 @@
 ---
 title: "The Objectivist Ethics"
 description: "The only proper, moral purpose of a government is to protect man’s rights."
-c: "maroon"
+c: "firebrick"
 weight: 4
 date: 2023-06-01
 ---

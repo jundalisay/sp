@@ -2,7 +2,7 @@
 heading: Chapters 23-24
 title: "Universal syllogisms"
 weight: 22
-c: "maroon"
+c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

@@ -3,7 +3,7 @@ title: Instinct
 heading: Chapter 7
 weight: 46
 description: "An example of instinct is the hive-bee making its cells"
-c: "maroon"
+c: "firebrick"
 ---
 
 

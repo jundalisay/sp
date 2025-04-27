@@ -3,7 +3,7 @@ title: "What is Force?"
 heading: "Section 52"
 weight: 4
 description: "Solicitation and effort or striving apply only to animate beings"
-:c: "darkblue"
+:c: "blue"
 author: "George Berkeley"
 icon: "George Berkeley"
 ---

@@ -2,7 +2,7 @@
 title: "What is Being?"
 weight: 117
 description: "The Doctrine of Matter or corporeal Substance is the main Pillar and Support of Scepticism."
-c: "darkblue"
+c: "blue"
 contributors: ['Berkeley']
 ---
 

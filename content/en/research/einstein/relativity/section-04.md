@@ -4,7 +4,7 @@ heading: "Section 4"
 # date: 2022-04-24
 weight: 9
 description: "The Classical movements of Galilei-Newton are valid only for a Galileian system of coordinates (material layer)"
-c: "maroon"
+c: "firebrick"
 icon: "Einstein"
 writer:
   name: Albert Einstein

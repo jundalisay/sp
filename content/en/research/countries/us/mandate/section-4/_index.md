@@ -4,6 +4,6 @@ title: "The Economy"
 weight: 6
 # date: 2023-06-17
 description: "Heritage Foundation'"
-c: "maroon"
+c: "firebrick"
 ---
 

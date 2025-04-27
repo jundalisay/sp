@@ -1,7 +1,7 @@
 ---
 title: "The Factors that Affect Expectations"
 heading: "Chapter 12c"
-c: "maroon"
+c: "firebrick"
 description: "Keynes talks about Expectations"
 # date: 2020-11-12
 weight: 52

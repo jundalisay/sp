@@ -2,7 +2,7 @@
 title: "Full Employment"
 heading: "Chapter 2"
 description: "Strict equilibrium requires wages, prices, and consequently profits to all rise in the same proportion as expenditure. "
-c: "maroon"
+c: "firebrick"
 # date: 2020-10-02
 weight: 92
 icon: "John Maynard Keynes"

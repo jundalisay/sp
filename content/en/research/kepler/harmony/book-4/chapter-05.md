@@ -2,10 +2,10 @@
 heading: Chapter 5
 title: The Causes of the Influential Configurations, and of their Degrees in Number and Order
 description: "My Mysterium Cosmographicum explained the order of the 5 solids in the world"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 20
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

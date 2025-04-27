@@ -3,7 +3,7 @@ heading: Ezekiel 33
 title: "The Anunnaki Speak"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 98
-c: "maroon"
+c: "firebrick"
 ---
 
 

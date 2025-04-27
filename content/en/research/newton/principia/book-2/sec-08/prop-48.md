@@ -2,7 +2,7 @@
 heading: Section 8f
 linkTitle: Proposition 48
 title: "Proposition 48, Theorem 38"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 12

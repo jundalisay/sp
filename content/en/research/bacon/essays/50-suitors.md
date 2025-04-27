@@ -3,7 +3,7 @@ heading: "Essay 50"
 title: "Lawsuits"
 weight: 62
 description: "MANY ill matters and projects are undertaken. Private lawsuits putrefy the public good"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

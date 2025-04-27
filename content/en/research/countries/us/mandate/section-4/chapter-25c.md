@@ -2,7 +2,7 @@
 title: "COVID-19 Lending Program Accountability and Cleanup"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 author: "Karen Kerrigan"
 ---

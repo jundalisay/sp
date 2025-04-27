@@ -2,7 +2,7 @@
 heading: Section 1
 title: "Moral Distinctions Not Derived From Reason"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "darkblue"
+c: "blue"
 # date: 2015-x-x
 weight: 4
 writer:

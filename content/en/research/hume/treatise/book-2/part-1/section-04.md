@@ -2,7 +2,7 @@
 heading: Section 4
 title: "The Relations Of Impressions And Ideas"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
-c: "darkblue"
+c: "blue"
 weight: 4
 writer:
   name: David Hume

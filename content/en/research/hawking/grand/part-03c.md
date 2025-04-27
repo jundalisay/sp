@@ -4,7 +4,7 @@ title: "A Good Model"
 description: "Model-dependent realism can provide a framework to discuss questions"
 weight: 18
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

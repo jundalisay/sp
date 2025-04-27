@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11
 title:  "The Mutiny of the Anunnaki"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"

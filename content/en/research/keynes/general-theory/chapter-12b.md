@@ -1,7 +1,7 @@
 ---
 title: "The State of Long-Term Expectation"
 heading: "Chapter 12"
-c: "maroon"
+c: "firebrick"
 description: "Keynes talks about Expectations"
 # date: 2020-11-12
 weight: 52

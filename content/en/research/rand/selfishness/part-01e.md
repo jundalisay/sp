@@ -1,7 +1,7 @@
 ---
 title: "Rational Versus Irrational"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 12
 date: 2023-06-01
 ---

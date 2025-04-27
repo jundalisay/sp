@@ -2,7 +2,7 @@
 heading: Section 7e
 linkTitle: Prop 37
 title: "Proposition 37 Theorem 26"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 6

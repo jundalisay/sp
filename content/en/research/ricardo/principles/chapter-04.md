@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "Natural And Market Price"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 6
 date: 2025-02-09
 ---

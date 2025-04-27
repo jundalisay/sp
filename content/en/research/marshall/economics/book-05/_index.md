@@ -1,6 +1,6 @@
 ---
 title: "Book 1"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 5
 ---

@@ -5,5 +5,5 @@ author: Hegel
 icon: "Hegel"
 weight: 4
 description: "The Phenomenology of Spirit"
-c: "darkblue"
+c: "blue"
 ---

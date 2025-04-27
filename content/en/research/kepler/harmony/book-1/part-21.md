@@ -2,10 +2,10 @@
 heading: Parts 21-23
 title: "The Construction Of Regular Figures"
 description: "A line commensurable with a Medial line is a Medial by 24 of the same"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 9
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

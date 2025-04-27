@@ -1,7 +1,7 @@
 ---
 heading: Chapter 8
 title: "God's Will"
-c: "darkblue"
+c: "blue"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

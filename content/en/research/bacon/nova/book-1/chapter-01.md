@@ -3,7 +3,7 @@ title: "The Interpretation Of Nature Simplified"
 heading: Chapter 1
 description: "Man is the minister and interpreter of nature. He tries to understand the order of nature."
 weight: 2
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 ---
 

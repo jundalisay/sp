@@ -3,7 +3,7 @@ heading: "Part 1b"
 title: "The 3 True Limitations of Human Knowledge"
 weight: 5
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

@@ -4,7 +4,7 @@ heading: Chapter 10
 weight: 62
 description: "The collapse of the Second REICH was all the more bewildering because it fell from a great height to these days of misery and humiliation"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

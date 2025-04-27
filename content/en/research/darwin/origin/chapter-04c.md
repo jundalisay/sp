@@ -4,7 +4,7 @@ heading: Chapter 4c
 weight: 23
 author: Charles Darwin
 description: "A wolf preys on various animals by craft, strength, and fleetness"
-c: "maroon"
+c: "firebrick"
 ---
 
 

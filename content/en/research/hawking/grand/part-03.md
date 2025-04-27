@@ -4,7 +4,7 @@ title: "What is Reality?"
 description: "But how do we know we have the true, undistorted picture of reality?"
 weight: 15
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -3,7 +3,7 @@ heading: Ezekiel 39
 title: "Warning Against Gog"
 description: "Prophesy against Gog, and say, Thus saith Enki; Behold, I [am] against you, O Gog, the chief prince of Meshech and Tubal"
 weight: 134
-c: "maroon"
+c: "firebrick"
 ---
 
 

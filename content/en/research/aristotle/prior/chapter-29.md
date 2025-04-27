@@ -2,7 +2,7 @@
 heading: Chapters 29-30
 title: "Impossible conclusions"
 weight: 30
-c: "maroon"
+c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

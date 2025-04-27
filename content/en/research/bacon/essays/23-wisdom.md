@@ -4,7 +4,7 @@ title: "Wisdom For the Ego"
 # A Man's Self
 weight: 34
 description: "Wisdom for the ego is a depraved thing."
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

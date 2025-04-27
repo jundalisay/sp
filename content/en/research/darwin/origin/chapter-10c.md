@@ -3,7 +3,7 @@ title: The Forms of Life changing almost simultaneously throughout the World
 heading: Chapter 10c
 weight: 68
 description: ""
-c: "maroon"
+c: "firebrick"
 ---
 
   

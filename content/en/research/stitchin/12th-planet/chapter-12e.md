@@ -1,7 +1,7 @@
 ---
 heading: Chapter 12e
 title:  "The Creation of Man"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"

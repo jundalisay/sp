@@ -2,7 +2,7 @@
 title: "Introduction"
 heading: Chapter 1
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 4
 ---
 

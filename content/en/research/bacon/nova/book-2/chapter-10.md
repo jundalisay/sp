@@ -3,7 +3,7 @@ title: "6: Similar, Proportionate instances or physical parallels or resemblance
 heading: Chapter 10
 weight: 34
 description: "These exhibit resemblances and connection of things, not in minor forms (as the constitutive do), but at once in the concrete"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 ---
 

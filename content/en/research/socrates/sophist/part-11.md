@@ -5,7 +5,7 @@ weight: 26
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "darkblue"
+c: "blue"
 description: "But, surely, motion and rest are neither the other nor the same"
 icon: "Socrates"
 ---

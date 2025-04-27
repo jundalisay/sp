@@ -2,7 +2,7 @@
 heading: Chapter 16
 title: "Poor Rates"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 184
 date: 2025-01-11
 ---

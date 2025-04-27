@@ -2,7 +2,7 @@
 heading: Section 6b
 linkTitle: Prop 2
 title: "Lemma 28"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 6

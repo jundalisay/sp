@@ -2,7 +2,7 @@
 heading: Chapter 21
 title: "Bounties On Production"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 184
 date: 2025-01-11
 ---

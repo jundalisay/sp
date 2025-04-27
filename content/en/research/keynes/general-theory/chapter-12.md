@@ -1,7 +1,7 @@
 ---
 title: "The Importance of State of confidence in Long-Term Expectation"
 heading: "Chapter 12"
-c: "maroon"
+c: "firebrick"
 description: "Keynes talks about Expectations"
 # date: 2020-11-12
 weight: 52

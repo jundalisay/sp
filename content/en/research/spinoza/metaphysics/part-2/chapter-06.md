@@ -1,7 +1,7 @@
 ---
 heading: Chapter 6
 title: "The Life of God"
-c: "darkblue"
+c: "blue"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

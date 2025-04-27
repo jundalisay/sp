@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 16
 author: Galen
 description: "For what could a man possibly say about blood who had no use for innate heat?"
-c: "maroon"
+c: "firebrick"
 ---
 
 

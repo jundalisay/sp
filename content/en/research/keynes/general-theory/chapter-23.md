@@ -1,7 +1,7 @@
 ---
 title: "Mercantilism, Usury Laws, Stamped Money, Under-Consumption Theories"
 description: "For 200 years, people saw a national advantage in a favourable balance of trade, and grave danger in an unfavourable balance"
-c: "maroon"
+c: "firebrick"
 # date: 2019-09-20
 weight: 104
 icon: "John Maynard Keynes"

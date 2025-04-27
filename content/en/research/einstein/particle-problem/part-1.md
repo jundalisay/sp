@@ -4,7 +4,7 @@ heading: "Part 1"
 description: "We propose an atomistic theory of matter and electricity which uses only General Relativity and Maxwell's theory"
 contributors: ['Einstein', 'Rosen']
 icon: "Einstein"
-c: "maroon"
+c: "firebrick"
 # date: 2020-01-30
 weight: 4
 ---

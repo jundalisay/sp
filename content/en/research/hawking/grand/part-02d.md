@@ -4,7 +4,7 @@ title: "Nature's Laws"
 description: "If nature is governed by laws, 3 questions arise"
 weight: 14
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

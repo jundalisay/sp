@@ -2,7 +2,7 @@
 heading: "Chapter 14"
 title: Mental Gender
 description: The Hermetic Teachings do not agree with the modern theories on the two phases of mind, nor does it admit many of the facts claimed for the two respective aspects
-c: "maroon"
+c: "firebrick"
 
 weight: 28
 ---

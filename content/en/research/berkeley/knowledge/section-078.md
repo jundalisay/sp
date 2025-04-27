@@ -3,7 +3,7 @@ heading: "Article 78"
 title: "The Motives for Materialism"
 weight: 87
 description: "What are the Motives which induced Men to suppose the Existence of material Substance?"
-c: "darkblue"
+c: "blue"
 author: "Berkeley"
 ---
 

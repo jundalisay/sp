@@ -2,7 +2,7 @@
 title: "Unity in All Things"
 weight: 70
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
-c: "maroon"
+c: "firebrick"
 ---
 
 <!-- Although the  described in the last five

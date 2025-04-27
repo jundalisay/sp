@@ -2,7 +2,7 @@
 title: "TAX POLICY"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

@@ -2,7 +2,7 @@
 title: "The Enormity Of The Specialness"
 heading: "Part 2"
 weight: 16
-c: "maroon"
+c: "firebrick"
 description: ""
 ---
 

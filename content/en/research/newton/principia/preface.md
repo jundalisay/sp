@@ -1,6 +1,6 @@
 ---
 title: "Preface"
-c: "maroon"
+c: "firebrick"
 description: "Pappus tells us that the ancients made a great account of the science of mechanics in investigating natural things"
 icon: "Newton"
 weight: 2

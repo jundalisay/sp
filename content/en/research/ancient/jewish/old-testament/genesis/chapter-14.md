@@ -3,7 +3,7 @@ heading: Genesis 14
 title: "Abram Leaves Egypt"
 description: "Abram left Egypt with his wife, Lot, and all that he had, and Lot with him going south"
 weight: 26
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -3,7 +3,7 @@ heading: Rule 9
 title: Look into understandable matters
 weight: 12
 description: The mind's keenness should be turned entirely to the smallest and most easily understandable matters, and to dwell on them longer until we become accustomed to discern truth distinctly and clearly
-c: "darkblue"
+c: "blue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

@@ -3,7 +3,7 @@ heading: Part 14
 title: "Transitive Rational Knowledge"
 weight: 34
 description: "The fourth kind of rational knowledge is the transitive"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

@@ -2,7 +2,7 @@
 heading: Chapter 12
 title: "Emancipation in Illness"
 weight: 90
-image: "/covers/algebra.jpg"
+c: "blue"
 description: "Three kinds of numbers in calculations"
 draft: true
 ---

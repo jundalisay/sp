@@ -2,7 +2,7 @@
 title: "Immediate Actions"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

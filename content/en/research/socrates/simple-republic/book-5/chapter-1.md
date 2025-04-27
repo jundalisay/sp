@@ -2,7 +2,7 @@
 title: "Female Guardians and their Children"
 heading: "Chapter 4 of Book 5"
 weight: 10
-c: "darkblue"
+c: "blue"
 description: "Women should have the same rights as men"
 author: "Socrates"
 icon: "Socrates"

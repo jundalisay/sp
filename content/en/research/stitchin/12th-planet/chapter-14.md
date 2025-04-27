@@ -1,7 +1,7 @@
 ---
 heading: Chapter 14
 title:  "When the Gods Fled from Earth"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"

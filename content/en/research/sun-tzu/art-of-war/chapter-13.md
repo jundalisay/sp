@@ -1,6 +1,6 @@
 ---
 title: "The Use of Spies"
-c: "maroon"
+c: "firebrick"
 author: "Sun Tzu"
 description: "The Ground Book"
 heading: "Chapter 3"

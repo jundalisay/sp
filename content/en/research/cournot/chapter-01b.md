@@ -3,7 +3,7 @@ title: "Wealth as Value in Exchange"
 heading: Chapter 1b
 weight: 4
 description: "The idea which the word wealth presents to us to-day, and which is relative to our state of civilization, could not have been grasped by men of Teutonic stock"
-c: "maroon"
+c: "firebrick"
 ---
 
 

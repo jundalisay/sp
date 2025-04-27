@@ -2,7 +2,7 @@
 heading: "Chapter 7"
 title: "The Meaning of Saving and Investment Further Considered"
 description: "The income of the current period is obtained by deducting from A + G - A1"
-c: "maroon"
+c: "firebrick"
 # date: 2020-12-05
 weight: 28
 icon: "John Maynard Keynes"

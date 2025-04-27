@@ -1,7 +1,7 @@
 ---
 title: "Transcriber’S Note"
 description: "The Origin of Physiognomy"
-c: "maroon"
+c: "firebrick"
 weight: 300
 draft: true
 writer:

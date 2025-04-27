@@ -4,7 +4,7 @@ heading: Chapter 3b
 weight: 9
 description: "Corresponding to the heart of the Empire, Vienna signified the brain and the will."
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

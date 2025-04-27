@@ -1,6 +1,6 @@
 ---
 title: "Yang Mills Theory"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 990
 ---

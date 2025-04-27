@@ -1,6 +1,6 @@
 ---
 title: "Moving the Army"
-c: "maroon"
+c: "firebrick"
 description: "We come now to the question of encamping the army, and observing signs of the enemy. Pass quickly over mountains, and keep in the neighborhood of valleys"
 heading: "Chapter 9"
 weight: 18

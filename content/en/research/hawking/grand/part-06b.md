@@ -4,7 +4,7 @@ title: "Feynman diagrams"
 description: "The known forces of nature can be divided into 4 classes"
 weight: 34
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The Skeptic"
 heading: "Essay 18"
 description: "Skeptic"
-c: "darkblue"
+c: "blue"
 weight: 38
 writer:
   name: David Hume

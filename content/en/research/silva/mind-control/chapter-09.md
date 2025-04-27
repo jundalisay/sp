@@ -2,7 +2,7 @@
 title: "The Power Of Imagination"
 heading: "Chapter 9"
 weight: 18
-c: "darkblue"
+c: "blue"
 description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
 contributors: ['Silva']
 ---

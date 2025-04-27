@@ -2,7 +2,7 @@
 heading: Part 5
 linkTitle: Part 5
 title: "Scholium"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 60

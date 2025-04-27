@@ -2,10 +2,10 @@
 heading: Part 33-36
 title: "Circles"
 description: "If from twice the number of angles of the figure you subtract 4, you will obtain the Numerator of the parts of a right angle which give you the angle of the figure"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 16
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 13d
 title:  "Noah and the Deluge"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "The notice given to Noah was a mere seven days."

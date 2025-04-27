@@ -1,7 +1,7 @@
 ---
 title: "Stitchin, Zecharaiah"
 description: "The 12th Planet by Stitchin"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 weight: 199

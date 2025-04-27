@@ -3,7 +3,7 @@ title: "The proposal by Dr. H. C. examined"
 heading: Chapter 6
 description: "John Law was a gambler turned economist"
 icon: "John Law"
-c: "maroon"
+c: "firebrick"
 date: 2025-04-19
 weight: 12
 ---

@@ -3,7 +3,7 @@ title: "The Greeks"
 heading: Chapter 3
 weight: 18
 description: "The sciences we possess have been principally derived from the Greeks"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 ---
 

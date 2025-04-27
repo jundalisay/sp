@@ -1,6 +1,6 @@
 ---
 title: "Propositions 1-8"
-c: "maroon"
+c: "firebrick"
 description: "The forces that keeps the planets in their orbits comes from Jupiter's center."
 icon: "Newton"
 ---

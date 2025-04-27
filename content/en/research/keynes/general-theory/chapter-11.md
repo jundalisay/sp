@@ -1,7 +1,7 @@
 ---
 title: "The Marginal Efficiency of Capital"
 heading: "Chapter 11"
-c: "maroon"
+c: "firebrick"
 description: "The prospective yield of the investment"
 # date: 2020-11-14
 weight: 50

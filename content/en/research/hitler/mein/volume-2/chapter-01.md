@@ -4,7 +4,7 @@ heading: Chapter 1
 weight: 4
 description: "ON FEBRUARY 24, 1920, our new movement had its first great meeting in the Banquet Hall of the Hofbräuhaus in Munich"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 icon: "Adolf Hitler"
 ---
 

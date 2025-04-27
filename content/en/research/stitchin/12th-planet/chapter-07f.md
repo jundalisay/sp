@@ -1,7 +1,7 @@
 ---
 heading: Chapter 7f
 title:  "The Collision with Tiamat"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "He was attracted to the solar system by the outermost planet"

@@ -6,6 +6,6 @@ heading: "Extremely Weapons-of-Mass-Destruction-Level Unenlightened"
 weight: 27
 description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
 a: "Einstein"
-c: "maroon"
+c: "firebrick"
 youtube: "klka8xfvMDY"
 ---

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 7b
 title:  "The Babylonian Chaldean Genesis and the Bible"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"

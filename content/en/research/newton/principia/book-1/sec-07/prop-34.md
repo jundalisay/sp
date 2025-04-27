@@ -2,7 +2,7 @@
 heading: Section 7c
 linkTitle: Prop 34
 title: "Proposition 34 Theorem 10"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 6

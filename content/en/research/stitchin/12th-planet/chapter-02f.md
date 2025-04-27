@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2f
 title:  "Fashion and Agriculture"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "One of Sumer's earliest material achievements was the development of textile and clothing industries"

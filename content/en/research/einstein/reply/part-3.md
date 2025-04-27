@@ -2,10 +2,9 @@
 title: "The Cosmological Constant"
 heading: "Part 3"
 description: "Lemaître favours a “cosmological constant” in the equations of gravitation"
-c: "maroon"
+c: "firebrick"
 weight: 12
 ---
-
 
 
 Lemaître favours a “cosmological constant” in the equations of gravitation. 

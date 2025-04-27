@@ -2,7 +2,7 @@
 heading: Section 2
 linkTitle: Prop 6
 title: "Proposition 6 Theorem 5"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 14

@@ -2,7 +2,7 @@
 heading: Chapters 13-14
 title: "The proof of necessity"
 weight: 16
-c: "maroon"
+c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

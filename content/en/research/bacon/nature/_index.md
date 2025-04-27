@@ -1,7 +1,7 @@
 ---
 title: "The Interpretation Of Nature"
 weight: 4
-c: "darkblue"
+c: "blue"
 description: ""
 icon: "Francis Bacon"
 ---

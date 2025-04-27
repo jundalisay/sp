@@ -2,7 +2,7 @@
 heading: "Section 4s"
 title: "The Unhappy Consciousness"
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "darkblue"
+c: "blue"
 author: Hegel
 weight: 38
 ---

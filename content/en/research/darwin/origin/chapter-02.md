@@ -3,7 +3,7 @@ title: Variation Under Nature
 heading: Chapter 2
 weight: 12
 description: "'Variety' means the community of descent though it can rarely be proved."
-c: "maroon"
+c: "firebrick"
 ---
 
 

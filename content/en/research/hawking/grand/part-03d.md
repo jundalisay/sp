@@ -4,7 +4,7 @@ title: "Different Theories"
 description: "With each theory or model, our concepts of reality and of the fundamental constituents of the universe have changed. For example, consider the theory of light"
 weight: 20
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

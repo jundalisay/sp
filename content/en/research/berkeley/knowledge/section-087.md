@@ -3,7 +3,7 @@ heading: "Article 87"
 title: "Scepticism"
 weight: 107
 description: "The Doctrine of Matter or corporeal Substance is the main Pillar and Support of Scepticism."
-c: "darkblue"
+c: "blue"
 author: "Berkeley"
 ---
 

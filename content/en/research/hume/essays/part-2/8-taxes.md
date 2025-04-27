@@ -2,7 +2,7 @@
 title: "Taxes"
 heading: "Essay 8"
 description: "Taxes are made lighter by spreading them to more people"
-c: "darkblue"
+c: "blue"
 icon: "David Hume"
 writer:
   name: David Hume

@@ -2,7 +2,7 @@
 title: "Changes in the Quantity of Money"
 heading: "Chapter 21b"
 description: ""
-c: "maroon"
+c: "firebrick"
 # date: 2020-09-28
 weight: 96
 icon: "John Maynard Keynes"

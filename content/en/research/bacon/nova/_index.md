@@ -1,5 +1,5 @@
 ---
 title: "Novum Organum"
 description: ""
-c: "darkblue"
+c: "blue"
 ---

@@ -2,7 +2,7 @@
 heading: Section 8b
 title: "Government is an Artificial Invention"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "darkblue"
+c: "blue"
 # date: 2015-x-x
 weight: 72
 writer:

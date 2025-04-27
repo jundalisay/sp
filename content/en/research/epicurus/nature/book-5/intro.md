@@ -4,7 +4,7 @@ title: "Introduction"
 weight: 2
 description: Which consists of infinite atoms moving in infinite space
 author: "Titus Lucretius Carus"
-c: "maroon"
+c: "firebrick"
 ---
 
 

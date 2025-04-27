@@ -3,7 +3,7 @@ heading: "Essay 30"
 title: "Regiment Of Health"
 weight: 42
 description: "To be free-minded and cheerfully disposed, at hours of meals, sleep, and exercise, is one of the best precepts of a long life."
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

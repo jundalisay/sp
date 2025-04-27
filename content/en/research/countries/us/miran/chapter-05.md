@@ -5,7 +5,7 @@ weight: 34
 date: 2024-11-01
 author: Stephen Miran
 description: ""
-c: "maroon"
+c: "firebrick"
 ---
 
 

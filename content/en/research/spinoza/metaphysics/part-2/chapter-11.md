@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11
 title: "God's Concurrence"
-c: "darkblue"
+c: "blue"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza
@@ -11,12 +11,7 @@ weight: 8
 
 
 
-Little or nothing remains to be said about this attribute, now that we have shown
-that God continuously creates a thing as if anew at every moment. From this we
-have demonstrated that things never have any power from themselves to affect
-anything or to determine themselves to any action, and that this is the case not
-only with things outside man but also with the human will. Again, we have also
-replied to certain argumen ts concerning this matter; and although many other arguments are frequently produced, I here intend to ignore them, as they principally belong to theology.
+Little or nothing remains to be said about this attribute, now that we have shown that God continuously creates a thing as if anew at every moment. From this we have demonstrated that things never have any power from themselves to affect anything or to determine themselves to any action, and that this is the case not only with things outside man but also with the human will. Again, we have also replied to certain argumen ts concerning this matter; and although many other arguments are frequently produced, I here intend to ignore them, as they principally belong to theology.
 
 However, there are many who, accepting God's concurrence, interpret it in a sense quite at variance with what we have expounded. To expose their fallacy in the simplest way, it should here be noted, as has previously been demonstrated,
 that present time has no connection with future time (see Ax. 10 Part I), and that

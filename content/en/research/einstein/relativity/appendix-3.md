@@ -5,7 +5,7 @@ date: 2022-01-02
 # date: 2022-08-08
 description: "Einstein explains the Confirmations of General Relativity"
 icon: "Einstein"
-c: "maroon"
+c: "firebrick"
 writer:
   name: Albert Einstein
   url: https://en.wikipedia.org/wiki/Albert_Einstein

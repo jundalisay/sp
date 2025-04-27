@@ -4,7 +4,7 @@ heading: "Section 3"
 # date: 2022-04-26
 weight: 8
 description: "All trajectories or movements depend on a viewpoint"
-c: "maroon"
+c: "firebrick"
 icon: "Einstein"
 writer:
   name: Albert Einstein

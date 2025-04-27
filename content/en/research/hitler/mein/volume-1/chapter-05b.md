@@ -4,7 +4,7 @@ heading: Chapter 5b
 weight: 40
 description: "The War of 1914 was certainly not forced on the masses; it was even desired by the whole people"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

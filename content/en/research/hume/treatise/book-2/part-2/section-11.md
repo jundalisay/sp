@@ -2,7 +2,7 @@
 heading: Section 11
 title: "THE AMOROUS PASSION, OR LOVE BETWEEN THE SEXES"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
-c: "darkblue"
+c: "blue"
 weight: 4
 writer:
   name: David Hume

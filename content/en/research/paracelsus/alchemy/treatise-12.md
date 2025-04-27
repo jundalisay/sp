@@ -2,7 +2,7 @@
 heading: Treatise 12
 title: "The Stone, and its Virtue"
 description: "The Origin of Physiognomy"
-c: "maroon"
+c: "firebrick"
 weight: 50
 writer:
   name: Paracelsus

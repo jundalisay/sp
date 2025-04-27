@@ -2,7 +2,7 @@
 heading: Part 1
 title: "A Dialogue Between The Alchemist And an Old Man"
 description: "Once upon a time, Alchymists gathered together to hold a counsel on how they should make & prepare the Philosophers stone"
-c: "maroon"
+c: "firebrick"
 weight: 4
 writer:
   name: Paracelsus

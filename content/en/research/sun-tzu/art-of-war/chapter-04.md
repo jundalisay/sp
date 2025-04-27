@@ -1,6 +1,6 @@
 ---
 title: "Tactical Dispositions"
-c: "maroon"
+c: "firebrick"
 author: "Sun Tzu"
 description: "The good fighters of the past first put themselves beyond the possibility of defeat. Then, they waited for an opportunity of defeating the enemy"
 heading: "Chapter 3"

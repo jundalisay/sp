@@ -4,7 +4,7 @@ heading: Chapter 3b
 weight: 18
 author: Charles Darwin
 description: "The rule is that every organic being naturally increases at such a high rate"
-c: "maroon"
+c: "firebrick"
 ---
 
 

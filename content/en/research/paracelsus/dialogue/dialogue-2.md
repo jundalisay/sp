@@ -2,7 +2,7 @@
 heading: Part 2
 title: "A Dialogue Between Mercury and the Alchemist"
 description: "The poor Alchymist was raised from sleep by noise, yet not without great comfort"
-c: "maroon"
+c: "firebrick"
 weight: 6
 writer:
   name: Paracelsus

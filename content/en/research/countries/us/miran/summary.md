@@ -3,7 +3,7 @@ title: Executive Summary
 weight: 4
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 ---
 
 

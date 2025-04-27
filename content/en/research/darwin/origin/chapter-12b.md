@@ -3,7 +3,7 @@ title: The Inhabitants of Oceanic Islands
 heading: Chapter 12b
 weight: 88
 description: "Several species of the same genus must originally have come from the same source"
-c: "maroon"
+c: "firebrick"
 ---
 
 

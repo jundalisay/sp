@@ -4,7 +4,7 @@ heading: Chapter 11b
 weight: 88
 description: "The iron law of Nature compels the various species to keep within the definite limits of their own life-forms when propagating and multiplying their kind"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

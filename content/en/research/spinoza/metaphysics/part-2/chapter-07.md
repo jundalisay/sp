@@ -1,7 +1,7 @@
 ---
 heading: Chapter 7
 title: "God's Intellect"
-c: "darkblue"
+c: "blue"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

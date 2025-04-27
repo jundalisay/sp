@@ -3,7 +3,7 @@ heading: Joshua 9
 title: "The Enemies Unite"
 description: "Joshua was the son of Nun, Moses’ minister"
 weight: 20
-c: "maroon"
+c: "firebrick"
 ---
 
 

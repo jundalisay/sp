@@ -4,7 +4,7 @@ heading: "Section 2"
 writer:
   name: Karl Marx
   url: https://en.wikipedia.org/wiki/Karl_Marx
-c: "maroon"
+c: "firebrick"
 description: "Circulation of values"
 weight: 6
 icon: "Karl Marx"

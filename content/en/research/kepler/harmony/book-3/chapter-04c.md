@@ -2,10 +2,10 @@
 heading: Chapter 4c
 title: "Melodic intervals"
 description: "Melodic intervals are defined as being all the differences between consonances which are smaller than the double interval"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 22
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

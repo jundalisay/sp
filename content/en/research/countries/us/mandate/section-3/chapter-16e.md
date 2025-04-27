@@ -2,7 +2,7 @@
 title: "American Indians And U.s. Trust Responsibility"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

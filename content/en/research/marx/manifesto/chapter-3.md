@@ -2,7 +2,7 @@
 heading: "Chapter 3 "
 title: "Socialist and Communist Literature"
 weight: 14
-c: "maroon"
+c: "firebrick"
 description: "The French and English aristocracies wrote pamphlets against modern capitalist society"
 writer:
   name: Karl Marx

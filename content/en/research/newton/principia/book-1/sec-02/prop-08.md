@@ -2,7 +2,7 @@
 heading: Section 2h
 linkTitle: Prop 8
 title: "Proposition 8 Problem 3"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 18

@@ -4,7 +4,7 @@ heading: "Chapter 16"
 author: "Machiavelli"
 description: "A prince who wishes to survive must know how to do wrong, and how to do or not do wrong according to necessity"
 weight: 26
-c: "maroon"
+c: "firebrick"
 icon: "Machiavelli"
 ---
 

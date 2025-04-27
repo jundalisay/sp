@@ -4,7 +4,7 @@ heading: "Section 13"
 # date: 2022-04-06
 weight: 22
 description: "To Einstein, the Fizeau Experiment proves that the speed of light is constant"
-c: "maroon"
+c: "firebrick"
 icon: "Einstein"
 writer:
   name: Albert Einstein

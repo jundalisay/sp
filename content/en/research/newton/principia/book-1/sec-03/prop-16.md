@@ -3,7 +3,7 @@ title: "Proposition 16"
 description: "In a parabola, the velocity is  reciprocally in the subduplicate ratio.of the distance of the body from the focus of the figure"
 author: Newton
 draft: true
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -4,7 +4,7 @@ heading: "Section 30"
 # date: 2022-03-04
 weight: 54
 description: "Einstein disproves Newton's theory of the universe having a center"
-c: "maroon"
+c: "firebrick"
 icon: "Einstein"
 writer:
   name: Albert Einstein

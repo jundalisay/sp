@@ -3,7 +3,7 @@ heading: Genesis 1
 title: "The Creation"
 description: "In the beginning, God created the heaven and the earth"
 weight: 4
-c: "maroon"
+c: "firebrick"
 draft: true
 ---
 

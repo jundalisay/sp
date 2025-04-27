@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "Introdcution: Markets"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 9
 ---
 

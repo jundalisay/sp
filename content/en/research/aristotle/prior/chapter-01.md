@@ -2,7 +2,7 @@
 heading: Chapters 1-2
 title: "Definitions for a Demonstrative Science"
 weight: 4
-c: "maroon"
+c: "firebrick"
 description: "A premise is a sentence affirming or denying one thing of another."
 writer:
   name: Aristotle 

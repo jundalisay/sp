@@ -1,7 +1,7 @@
 ---
 heading: Chapter 6c
 title:  "Hipparchus lived in Asia Minor"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Hipparchus, who lived in Asia Minor in the 2nd century BC"

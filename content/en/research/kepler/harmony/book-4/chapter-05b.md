@@ -2,10 +2,10 @@
 heading: Chapter 5b
 title: The affinity between the rays and a circle and its arcs
 description: "The affinity between the rays and a circle and its arcs is greater than was that between the consonances"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 22
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

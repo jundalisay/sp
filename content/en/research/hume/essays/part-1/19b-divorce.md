@@ -2,7 +2,7 @@
 title: "Argument for and Against Divorce"
 heading: "Essay 19b"
 description: "The Rise And Progress Of The Arts"
-c: "darkblue"
+c: "blue"
 weight: 42
 writer:
   name: David Hume

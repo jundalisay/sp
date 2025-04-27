@@ -3,7 +3,7 @@ title: "5: Constitutive or Collective Instances"
 heading: Chapter 9
 weight: 28
 description: "These are a species or lesser form of the required nature"
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 ---
 

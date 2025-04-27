@@ -2,7 +2,7 @@
 heading: "Section 4e"
 title: "3. Lord and Bondsman"
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "darkblue"
+c: "blue"
 author: Hegel
 weight: 14
 ---

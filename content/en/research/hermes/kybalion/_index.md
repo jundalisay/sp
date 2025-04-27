@@ -1,5 +1,5 @@
 ---
 title: "Kybalion"
 description: ""
-c: "maroon"
+c: "firebrick"
 ---

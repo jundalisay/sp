@@ -2,7 +2,7 @@
 title: "GENERAL INFLUENCES OF ECONOMIC PROGRESS"
 heading: Chapter 11
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 4
 ---
 

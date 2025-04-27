@@ -2,7 +2,7 @@
 title: "National Security Council (nsc)"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 heading: Chapter 2c
 weight: 18
 icon: "US"

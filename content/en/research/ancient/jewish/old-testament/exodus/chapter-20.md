@@ -3,7 +3,7 @@ heading: Chapter 20
 title: "The 10 Commandments of Enki"
 description: "Enki, a jealous alien, gave 10 commandments to his Jewish supporters."
 weight: 6
-c: "maroon"
+c: "firebrick"
 ---
 
 

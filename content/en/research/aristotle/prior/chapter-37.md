@@ -2,7 +2,7 @@
 heading: Chapters 37-41
 title: "This belongs to that"
 weight: 34
-c: "maroon"
+c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

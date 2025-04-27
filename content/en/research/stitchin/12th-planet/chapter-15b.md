@@ -1,7 +1,7 @@
 ---
 heading: Chapter 15b
 title:  "The people spread again"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "The Nefilim then helped the people plan and build the first royal city, and they blessed it"

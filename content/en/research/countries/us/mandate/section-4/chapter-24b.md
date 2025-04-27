@@ -2,7 +2,7 @@
 title: "MONETARY RULE REFORM OPTIONS"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

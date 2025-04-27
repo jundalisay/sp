@@ -1,7 +1,7 @@
 ---
 title: "The Ethical Guide"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 6
 date: 2023-06-01
 ---

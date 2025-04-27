@@ -2,7 +2,7 @@
 heading: Chapter 19
 title: "Effects Of Accumulation On Profits And Interest"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 184
 date: 2025-01-11
 ---

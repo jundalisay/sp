@@ -2,10 +2,10 @@
 heading: Parts 12-18
 title: "Plane Congruence"
 description: "Congruent Plane Shapes is when they either enclose a solid figure or fill the plane without leaving a gap, the figures themselves being regular or semiregular"
-image: /covers/harmony.jpg
+c: "darkgoldenrod"
 weight: 8
 contributors: ['Kepler']
-icon: /avatars/kepler.png
+icon: "Kepler"
 ---
 
 

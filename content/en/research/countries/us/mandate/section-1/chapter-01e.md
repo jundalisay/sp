@@ -4,7 +4,7 @@ date: 2024-11-01
 description: ""
 heading: Chapter 1e
 weight: 9
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

@@ -2,7 +2,7 @@
 title: "Where Do We Go From Here?"
 heading: "Chapter 20"
 weight: 38
-c: "darkblue"
+c: "blue"
 description : "Imagine coming into direct, working contact with an all-pervading higher intelligence and learning in a moment of numinous joy that it is on your side"
 contributors: ['Silva']
 ---

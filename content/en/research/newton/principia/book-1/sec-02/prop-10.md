@@ -2,7 +2,7 @@
 heading: Section 2j
 linkTitle: Prop 10
 title: "Proposition 10 Problem 5"
-c: "maroon"
+c: "firebrick"
 description: "We simplify Principlia Mathematica"
 icon: "Newton"
 weight: 22

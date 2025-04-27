@@ -6,7 +6,7 @@ weight: 38
 writer:
   name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
-c: "maroon"
+c: "firebrick"
 icon: "Confucius"
 ---
 

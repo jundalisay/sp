@@ -2,7 +2,7 @@
 title: "The Epicurean"
 heading: "Essay 15"
 description: "This is the voice of Pride, not of Nature."
-c: "darkblue"
+c: "blue"
 weight: 32
 writer:
   name: David Hume

@@ -1,7 +1,7 @@
 ---
 title: "The Animal Spirits"
 heading: "Chapter 12e"
-c: "maroon"
+c: "firebrick"
 description: "Most of our decisions to do something positive are caused by animal spirits"
 # date: 2020-11-12
 weight: 52

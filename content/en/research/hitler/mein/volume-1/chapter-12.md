@@ -4,7 +4,7 @@ heading: Chapter 12
 weight: 110
 description: "All great reforms in the beginning only has one protagonist to come forward on behalf of several millions of people"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 icon: "Adolf Hitler"
 ---
 

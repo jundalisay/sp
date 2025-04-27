@@ -4,7 +4,7 @@ heading: "Section 19"
 # date: 2022-03-26
 weight: 32
 description: "Newton's gravity is different Newton's inertia. Yet Einstein unites them"
-c: "maroon"
+c: "firebrick"
 icon: "Einstein"
 writer:
   name: Albert Einstein

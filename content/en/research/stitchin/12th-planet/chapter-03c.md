@@ -1,7 +1,7 @@
 ---
 heading: Chapter 3c
 title:  "The Vedas"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Hinduism considers the Vedas—compositions of hymns, sacrificial formulas, and other sayings pertaining to the gods"

@@ -1,6 +1,6 @@
 ---
 title: "Variation in Tactics"
-c: "maroon"
+c: "firebrick"
 author: "Sun Tzu"
 description: "In war, the general receives his commands from the sovereign, collects his army and concentrates his forces"
 heading: "Chapter 8"

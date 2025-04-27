@@ -2,7 +2,7 @@
 title: "National Characters"
 heading: "Essay 21"
 description: "Each society has a character that may be different from its past or future character"
-c: "darkblue"
+c: "blue"
 weight: 46
 writer:
   name: David Hume

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11d
 title: "The Metals"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Gold, silver, and copper are all native elements of the gold group. They fall into the same family in the periodic classification by atomic weight and number"

@@ -4,7 +4,7 @@ title: Theoretical Underpinnings
 weight: 12
 # date: 2023-06-17
 description: "Heritage Foundation'"
-c: "maroon"
+c: "firebrick"
 ---
 
 

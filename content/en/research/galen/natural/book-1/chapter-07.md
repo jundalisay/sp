@@ -5,7 +5,7 @@ date: 2024-12-17
 weight: 8
 author: Galen
 description: "The faculty of Growth is present in the foetus in utero as is also the nutritive faculty"
-c: "maroon"
+c: "firebrick"
 ---
 
 

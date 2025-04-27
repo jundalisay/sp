@@ -2,7 +2,7 @@
 title: "The Mind Control Course And The Organization Behind It"
 heading: "APPENDIX 1"
 weight: 200
-c: "darkblue"
+c: "blue"
 description : "The Mind Control movement is so widespread and fast-growing. "
 contributors: ['Silva']
 ---

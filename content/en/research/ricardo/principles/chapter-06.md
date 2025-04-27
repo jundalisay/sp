@@ -2,7 +2,7 @@
 heading: Chapter 6
 title: "Foreign Trade"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 6
 date: 2025-02-09
 ---

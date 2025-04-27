@@ -4,7 +4,7 @@ heading: Chapter 10
 weight: 140
 description: "Tthe collapse wrecked Germany as a whole but even more particularly the federal states"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

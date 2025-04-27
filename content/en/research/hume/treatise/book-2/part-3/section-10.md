@@ -2,7 +2,7 @@
 heading: Section 10
 title: "CURIOSITY, OR THE LOVE OF TRUTH"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
-c: "darkblue"
+c: "blue"
 weight: 4
 writer:
   name: David Hume

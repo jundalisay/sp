@@ -2,7 +2,7 @@
 title: "Moral Prejudice"
 heading: "Essay 2"
 description: "The Story of the Woman who wanted to be a single mon"
-c: "darkblue"
+c: "blue"
 weight: 6
 icon: "David Hume"
 writer:

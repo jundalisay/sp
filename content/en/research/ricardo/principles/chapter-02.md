@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "Rent"
 description: "The appropriation of land leads to the creation of rent."
-c: "maroon"
+c: "firebrick"
 weight: 20
 date: 2025-02-09
 ---

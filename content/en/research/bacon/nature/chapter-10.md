@@ -5,7 +5,7 @@ weight: 18
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon
-c: "darkblue"
+c: "blue"
 description: "The plainest method is to distribute sciences, arts, inventions, works, and their portions, according to their usefulness to life"
 icon: "Francis Bacon"
 ---

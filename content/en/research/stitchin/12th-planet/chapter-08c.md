@@ -2,7 +2,7 @@
 heading: Chapter 8c
 title: Planet X
 # title:  "Kingship of Heaven"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Mesopotamian texts exalted Marduk's radiance and suggested that it could be seen even at daytime"

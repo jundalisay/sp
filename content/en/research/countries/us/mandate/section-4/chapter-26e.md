@@ -2,7 +2,7 @@
 title: "IMPLEMENTING THE CONSERVATIVE VISION"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

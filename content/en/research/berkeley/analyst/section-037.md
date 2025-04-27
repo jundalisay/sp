@@ -3,7 +3,7 @@ title: "The Analyst: a Discourse addressed to an Infidel Mathematician"
 # heading: "Englightened"
 weight: 47
 description: ""
-:c: "darkblue"
+:c: "blue"
 ---
 
 
@@ -17,7 +17,7 @@ Nor indeed is it an easy point, to form a clear and distinct Idea of any Velocit
 This, if I may be allowed to judge of others by my self, is impossible. To me it seems evident, that Measures and Signs are absolutely necessary, in order to conceive or reason about Velocities; and that, consequently, when we think to conceive the Velocities, simply and in themselves, we are deluded by vain Abstractions.
 
 
-38. It may perhaps be thought by some an easier Method of conceiving Fluxions, to suppose them the Velocities wherewith the infinitesimal Differences are generated.
+38. Some think that an easier Method of conceiving Fluxions is to suppose them the Velocities wherewith the infinitesimal Differences are generated.
 
 So that the first Fluxions shall be the Velocities of the first Differences, the second the Velocities of the second Differences, the third Fluxions the Velocities of the third Differences, and so on ad infinitum. 
 
@@ -33,7 +33,9 @@ As the first Fluxions are the Velocities of the first nascent Increments, so the
 
 But the considering them sometimes in one Sense, sometimes in another, one while in themselves, another in their Exponents, seems to have occasioned no small share of that Confusion and Obscurity, which is found in the Doctrine of Fluxions. 
 
-It may seem therefore, that the Notion might be still mended, and that instead of Fluxions of Fluxions, or Fluxions of Fluxions of Fluxions, and instead of second, third, or fourth, &c. Fluxions of a given Quantity, it might be more consistent and less liable to exception to say, the Fluxion of the first nascent Increment, i. e. the second Fluxion; the Fluxion of the second nascent Increment, i. e. the third Fluxion; the Fluxion of the third nascent Increment, i. e. the fourth Fluxion, which Fluxions are conceived respectively proportional, each to the nascent Principle of the Increment succeeding that whereof it is the Fluxion.
+It may seem therefore, that the Notion might be still mended, and that instead of Fluxions of Fluxions, or Fluxions of Fluxions of Fluxions, and instead of second, third, or fourth, &c. Fluxions of a given Quantity, it might be more consistent and less liable to exception to say, the Fluxion of the first nascent Increment, i. e. the second Fluxion; 
+
+the Fluxion of the second nascent Increment, i. e. the third Fluxion; the Fluxion of the third nascent Increment, i. e. the fourth Fluxion, which Fluxions are conceived respectively proportional, each to the nascent Principle of the Increment succeeding that whereof it is the Fluxion.
 
 
 41. For the more distinct Conception of all which it may be considered, that if the finite Increment LM[14] be divided into the Isochronal Parts Lm, mn, no, oM; and the Increment MN into the Parts Mp, pq, qr, rN Isochronal to the former; as the whole Increments LM, MN are proportional to the Sums of their describing Velocities, even so the homologous Particles Lm, Mp are also proportional to the respective accelerated Velocities with which they are described. And as the Velocity with which Mp is generated, exceeds that with which Lm was generated, even so the Particle Mp exceeds the Particle Lm. 

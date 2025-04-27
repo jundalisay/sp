@@ -3,7 +3,7 @@ title: "Heat in Animals"
 heading: Chapter 5b
 weight: 11
 description: ""
-c: "darkblue"
+c: "blue"
 icon: "Francis Bacon"
 ---
 

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 5
 title:  "The Nefilim: People of the Fiery Rockets"
-c: "maroon"
+c: "firebrick"
 a: "Zechariah Sitchin"
 icon: "Zechariah Sitchin"
 description: "Ninurta, too, could fly, as skillfully as Zu"

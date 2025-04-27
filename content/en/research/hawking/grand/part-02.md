@@ -4,7 +4,7 @@ title: "Viking Mythology"
 description: "IN VIKING MYTHOLOGY, Skoll and Hati chase the sun and the moon. When the wolves catch either one, there is an eclipse."
 weight: 6
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

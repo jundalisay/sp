@@ -4,7 +4,7 @@ title: "Albert Einstein"
 description: ""
 weight: 32
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

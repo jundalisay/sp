@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "Production. Consumption. Labour. Necessaries"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 6
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapters 4
 title: "How are syllogisms produced?"
 weight: 6
-c: "maroon"
+c: "firebrick"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 writer:
   name: Aristotle 

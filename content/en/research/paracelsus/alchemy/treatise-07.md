@@ -2,7 +2,7 @@
 heading: Treatise 7
 title: "The virtue of the second matter"
 description: "The Origin of Physiognomy"
-c: "maroon"
+c: "firebrick"
 weight: 32
 writer:
   name: Paracelsus

@@ -2,7 +2,7 @@
 heading: Chapter 13
 title: "Taxes on Profits"
 description: ""
-c: "maroon"
+c: "firebrick"
 weight: 184
 date: 2025-01-11
 ---

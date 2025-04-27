@@ -2,7 +2,7 @@
 heading: Chapters 2-3
 title: "What is a Premise?"
 weight: 5
-c: "maroon"
+c: "firebrick"
 description: "A premise is a sentence affirming or denying one thing of another."
 writer:
   name: Aristotle 

@@ -3,7 +3,7 @@ title: "Department Of Homeland Security"
 date: 2024-11-01
 description: ""
 author: "Ken Cuccinelli"
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

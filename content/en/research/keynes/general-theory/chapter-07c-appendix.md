@@ -2,7 +2,7 @@
 heading: "Chapter 7c Appendix"
 title: "Appendix on User Cost"
 description: "The Classical theory of value has an important concept called the USER cost, which has been overlooked"
-c: "maroon"
+c: "firebrick"
 # date: 2020-11-30
 weight: 32
 icon: "John Maynard Keynes"

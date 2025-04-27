@@ -5,7 +5,7 @@ weight: 2
 author: "Paul Winfree"
 # date: 2023-06-17
 description: "Heritage Foundation"
-c: "maroon"
+c: "firebrick"
 ---
 
 

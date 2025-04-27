@@ -4,7 +4,7 @@ title: "The Delayed-choice Experiment"
 description: "A key quantum principle is the principle that observing a system must alter its course."
 weight: 26
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

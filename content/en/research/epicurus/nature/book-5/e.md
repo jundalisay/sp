@@ -6,7 +6,7 @@ linkTitle: Part E
 weight: 14
 description: Thunder when clouds clash together face to face
 author: "Titus Lucretius Carus"
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -4,7 +4,7 @@ title: "The Model for the Universe"
 description: "By examining the model universes we generate when the theories of physics are altered in certain ways, one can study the effect of changes to physical law in a methodical manner."
 weight: 44
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -4,7 +4,7 @@ heading: Chapter 12c
 weight: 114
 description: "As early as 1919, we knew that our new movement should first aim for the nationalization of the masses"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 ---
 
 

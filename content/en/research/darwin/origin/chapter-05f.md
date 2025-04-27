@@ -3,7 +3,7 @@ title: Summary
 heading: Chapter 5f
 weight: 40
 description: "Our ignorance of the laws of variation is profound"
-c: "maroon"
+c: "firebrick"
 ---
  
 

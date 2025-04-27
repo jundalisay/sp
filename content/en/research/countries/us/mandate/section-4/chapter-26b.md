@@ -2,7 +2,7 @@
 title: "CHALLENGE #2: COMMUNIST CHINA’S ECONOMIC AGGRESSION AND QUEST FOR WORLD DOMINATION"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

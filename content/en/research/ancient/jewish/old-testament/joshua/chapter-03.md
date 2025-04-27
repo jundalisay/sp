@@ -3,7 +3,7 @@ heading: Joshua 3
 title: "The Crossing of the Jordan River"
 description: "All the Israelites passed over on dry ground, until all passed over the  Jordan river"
 weight: 8
-c: "maroon"
+c: "firebrick"
 ---
 
 

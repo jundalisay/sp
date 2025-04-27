@@ -2,7 +2,7 @@
 title: "Beyond the World of Opposites"
 weight: 20
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
-c: "maroon"
+c: "firebrick"
 ---
 
 

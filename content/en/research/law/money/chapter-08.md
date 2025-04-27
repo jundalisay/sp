@@ -3,7 +3,7 @@ title: "The low condition this country is reduced to, notwithstanding its natura
 heading: Chapter 8
 description: "John Law was a gambler turned economist"
 icon: "John Law"
-c: "maroon"
+c: "firebrick"
 date: 2025-04-19
 weight: 12
 ---

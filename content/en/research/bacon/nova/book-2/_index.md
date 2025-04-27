@@ -6,5 +6,5 @@ description: "Bacon presents his own philosophy and methods"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon
-c: "darkblue"
+c: "blue"
 ---

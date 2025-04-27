@@ -7,6 +7,6 @@ writer:
 heading: Dogmatic
 weight: 4
 a: "Averroes"
-c: "maroon"
+c: "firebrick"
 y: "1126 - 1198"
 ---

@@ -3,7 +3,7 @@ heading: Genesis 16
 title: "Ishmael and the Start of the Arab People"
 description: "Sarai, Abram’s wife, bare him no children. She had an Egyptian servant named Hagar"
 weight: 30
-c: "maroon"
+c: "firebrick"
 ---
 
 

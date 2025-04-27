@@ -1,7 +1,7 @@
 ---
 title: "The Six Objective Factors of the Propensity to Consume"
 heading: "Chapter 8b"
-c: "maroon"
+c: "firebrick"
 # date: 2020-11-28
 weight: 36
 icon: "John Maynard Keynes"

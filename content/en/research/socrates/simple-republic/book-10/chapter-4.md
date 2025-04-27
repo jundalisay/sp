@@ -3,7 +3,7 @@ heading: Chapter 4
 title: "Socrates' Story on Reincarnation"
 weight: 8
 description: "The soul is affected by cause and effect through the chakras. It can reincarnate as any entity, even as an animal"
-c: "darkblue"
+c: "blue"
 icon: "Socrates"
 ---
 

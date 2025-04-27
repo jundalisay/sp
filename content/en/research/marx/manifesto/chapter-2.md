@@ -2,7 +2,7 @@
 heading: "Chapter 2 "
 title: "Proletarians and Communists"
 weight: 10
-c: "maroon"
+c: "firebrick"
 description: "What is the relationship between Communists and the proletarians?"
 writer:
   name: Karl Marx

@@ -3,7 +3,7 @@ heading: Genesis 26
 title: "Jacob and King Abimelech"
 description: "Abimelech was the king of Gerar"
 weight: 52
-c: "maroon"
+c: "firebrick"
 ---
 
 

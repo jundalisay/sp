@@ -3,7 +3,7 @@ title: "Banking: The different Measurs Done to Preserve and Increase Money"
 heading: Chapter 3
 description: "John Law was a gambler turned economist"
 icon: "John Law"
-c: "maroon"
+c: "firebrick"
 date: 2025-04-19
 weight: 12
 ---

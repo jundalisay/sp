@@ -2,7 +2,7 @@
 title: "Indian Health Service (ihs) Rural Health"
 date: 2024-11-01
 description: ""
-c: "maroon"
+c: "firebrick"
 icon: "US"
 ---
 

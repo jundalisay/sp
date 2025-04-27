@@ -1,7 +1,7 @@
 ---
 title: "The Preface"
 description: "The Origin of Physiognomy"
-c: "maroon"
+c: "firebrick"
 weight: 5
 writer:
   name: Paracelsus

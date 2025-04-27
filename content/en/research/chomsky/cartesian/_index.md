@@ -2,5 +2,5 @@
 title: "Cartesian Linguistics"
 weight: 22
 description: ""
-c: "darkblue"
+c: "blue"
 ---

@@ -5,7 +5,7 @@ description: "Supersymmetry is a more subtle kind of symmetry that cannot be ass
 author: Hawking
 weight: 34
 icon: "Stephen Hawking"
-c: "maroon"
+c: "firebrick"
 ---
 
 

@@ -3,7 +3,7 @@ heading: Rule 5
 title: The order of those things to which the mind should be directed
 weight: 10
 description: The entire method consists in the order and arrangement of those things to which the focus of the mind should be directed, so that we may discover some truth
-c: "darkblue"
+c: "blue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

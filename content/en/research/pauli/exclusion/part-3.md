@@ -2,7 +2,7 @@
 title: "Configuration Space"
 heading: "Part 3"
 weight: 10
-c: "maroon"
+c: "firebrick"
 description: "What is the position of the exclusion principle on the new quantum mechanics?"
 date: 1946-12-13
 ---

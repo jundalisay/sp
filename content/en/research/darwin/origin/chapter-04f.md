@@ -3,7 +3,7 @@ title: Extinction
 heading: Chapter 4f
 weight: 26
 description: "Natural selection acts solely through the preservation of variations in some way advantageous"
-c: "maroon"
+c: "firebrick"
 ---
 
 

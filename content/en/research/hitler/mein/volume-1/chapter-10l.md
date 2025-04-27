@@ -4,7 +4,7 @@ heading: Chapter 10l
 weight: 84
 description: "The parliament threw away the weapons which were needed to defend the liberty of our people"
 author: Adolf Hitler
-c: "maroon"
+c: "firebrick"
 icon: "Adolf Hitler"
 ---
 

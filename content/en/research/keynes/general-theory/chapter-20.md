@@ -2,7 +2,7 @@
 title: "The Employment Function"
 heading: "Chapter 20"
 description: "The employment function only differs from the aggregate supply function in that it is, in effect, its inverse function and is defined in terms of hourly pay"
-c: "maroon"
+c: "firebrick"
 # date: 2020-10-04
 weight: 90
 icon: "John Maynard Keynes"

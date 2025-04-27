@@ -2,7 +2,7 @@
 title: "War Prevented Ancient Populousness"
 heading: "Essay 11c"
 description: "The Ancients were populous"
-c: "darkblue"
+c: "blue"
 weight: 28
 writer:
   name: David Hume

@@ -3,7 +3,7 @@ title: "White House Office"
 date: 2024-11-01
 description: ""
 weight: 3
-c: "maroon"
+c: "firebrick"
 icon: "US"
 author: "Rick Dearborn"
 ---

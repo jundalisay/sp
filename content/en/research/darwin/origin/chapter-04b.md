@@ -4,7 +4,7 @@ heading: Chapter 4b
 weight: 22
 author: Charles Darwin
 description: "Peculiarities often appear under domestication in one sex and become hereditarily attached to that sex"
-c: "maroon"
+c: "firebrick"
 ---
 
  

@@ -1,7 +1,7 @@
 ---
 title: "A New Light of Alchemy"
 description: "The Origin of Physiognomy"
-c: "maroon"
+c: "firebrick"
 weight: 2
 writer:
   name: Paracelsus
