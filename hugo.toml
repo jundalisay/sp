@@ -147,12 +147,12 @@ pagerSize = 24
 
     [[languages.en.params.quote1]]
       content = "There are 3 principal sciences: Mechanics, Medicine, Ethics"
-      icon = "/icons/descartes.png"
+      icon = "Rene Descartes"
       author = "Rene Descartes"
       src = "The Principles of Philosophy, Preface"
     [[languages.en.params.quote2]]
       content = "Things cannot have absolute Existence without any relation to their being perceived. They cannot have any Existence without the Minds which perceive them. I find it strange that people think that Houses, Mountains, and all sensible Objects have a Real Existence, distinct from their being perceived by the Understanding."
-      icon = "/icons/George Berkeley.png"
+      icon = "George Berkeley"
       author = "George Berkeley"
       src = "The Principles of Human Knowledge, Article 3"
 
