@@ -3,7 +3,7 @@ title: Democracy In The 3 Main Fields
 heading: Chapter 15
 weight: 32
 description: A proper measure of democracy should be put into effect in the army
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

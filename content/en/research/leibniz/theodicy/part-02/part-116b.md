@@ -4,7 +4,7 @@ linkTitle: Part 116b
 title: "Bayle's Maxims 5-8"
 description: A maleficent being can heap magnificent gifts upon his enemies, when he knows that they will make thereof a use that will destroy them
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 4
 ---
 

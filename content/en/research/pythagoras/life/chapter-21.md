@@ -3,7 +3,7 @@ title: "The Pythagorean Lifestyle"
 heading: "Chapter 21"
 weight: 26
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "How did Pythagoras teach his students?"
 icon: "/icons/py.png"
 ---

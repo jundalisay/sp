@@ -1,7 +1,7 @@
 ---
 title: "The Roman Catholic Church"
 heading: "Chapter 2b"
-image: "/covers/liberty.jpg"
+c: "firebrick"
 weight: 8
 contributors: ['John Stuart Mill']
 description: "The Roman Catholic Church is the most intolerant of churches"

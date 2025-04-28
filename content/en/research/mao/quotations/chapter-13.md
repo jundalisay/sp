@@ -3,7 +3,7 @@ title: Relations Between Officers And Men
 heading: Chapter 13
 weight: 28
 description: If we depart from this attitude, the relations between officers and men, the army and the people will be unsatisfactory
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

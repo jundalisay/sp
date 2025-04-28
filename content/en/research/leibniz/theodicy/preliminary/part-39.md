@@ -3,7 +3,7 @@ heading: Part 39-
 title: "Historical and Critical Dictionary"
 description: The Reformers, especially Luther, spoke sometimes as if they rejected philosophy, and deemed it inimical to faith
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 16
 ---
 

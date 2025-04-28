@@ -3,7 +3,7 @@ title: "Pythagoras' service to the world"
 heading: "Chapter 15"
 weight: 18
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Pythagoras was the first who called himself a philosopher"
 icon: "/icons/py.png"
 ---

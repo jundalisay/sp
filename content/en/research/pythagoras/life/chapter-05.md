@@ -3,7 +3,7 @@ title: "Pythagoras in Samos"
 heading: "Chapter 5"
 weight: 6
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Pythagoras wished to give his fellow-citizens a taste of the sweetness of the mathematical disciplines, even if they did not want to be instructed in them"
 icon: "/icons/py.png"
 ---

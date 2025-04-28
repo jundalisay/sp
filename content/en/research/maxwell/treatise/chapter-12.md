@@ -3,7 +3,7 @@ title: "THE MEASUREMENT OF ELECTRIC RESISTANCE"
 heading: "Chapter 12"
 weight: 142
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

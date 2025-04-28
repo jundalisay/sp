@@ -3,7 +3,7 @@ title: Women are Dominated by Authority
 heading: Chapter 31
 weight: 60
 description: Women are dominated by authority and by the men through the authority of the husband
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

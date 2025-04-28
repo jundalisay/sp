@@ -2,7 +2,7 @@
 heading: Chapter 12
 title: "HOW THE SOVEREIGN AUTHORITY MAINTAINS ITSELF"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 date: 2025-01-11
 ---

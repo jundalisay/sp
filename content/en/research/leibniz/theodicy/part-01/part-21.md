@@ -3,7 +3,7 @@ heading: Part 21
 title: "What is Evil?"
 description: Evil may be taken metaphysically, physically and morally. Metaphysical evil consists in mere imperfection, physical evil in suffering, and moral evil in sin
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 10
 ---
 

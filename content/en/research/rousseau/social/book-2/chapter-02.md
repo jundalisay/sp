@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "Sovereignty Is Inalienable"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 6
 date: 2025-01-11
 ---

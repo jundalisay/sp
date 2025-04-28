@@ -1,7 +1,7 @@
 ---
 title: "General Remarks"
 heading: "Chapter 1"
-image: "/covers/ut.jpg"
+c: "firebrick"
 weight: 9
 contributors: ['John Stuart Mill']
 description: "What is the foundation of morality?"

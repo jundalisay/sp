@@ -4,7 +4,7 @@ linkTitle: Part 182
 title: "God's Decrees"
 description: Christian Doctors teach that there are things which are just antecedently to God's decrees
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 4
 ---
 

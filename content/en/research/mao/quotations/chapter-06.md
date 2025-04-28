@@ -3,7 +3,7 @@ title: Imperialism And All Reactionaries Are Paper Tigers
 heading: Chapter 6
 weight: 14
 description: All reactionaries are paper tigers. They appear terrifying. But in reality, they are not so powerful
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

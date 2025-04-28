@@ -1,7 +1,7 @@
 ---
 title: "What is Utilitarianism?"
 heading: "Chapter 2"
-image: "/covers/ut.jpg"
+c: "firebrick"
 weight: 8
 contributors: ['John Stuart Mill']
 description: "People who use utility as the moral basis usually make the ignorant blunder of defining utility as being opposed to pleasure."

@@ -3,7 +3,7 @@ title: Socialism And Communism
 heading: Chapter 3
 weight: 8
 description: Our maximum programme is to carry China forward to socialism and communism
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

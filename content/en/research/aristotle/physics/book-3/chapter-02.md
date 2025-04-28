@@ -38,38 +38,14 @@ But this it does by contact, so that at the same time it is also acted on. Hence
 The solution of the difficulty that is raised about the motion-whether it is in the
 movable-is plain. 
 
-It is the fulfilment of this potentiality, and by the action of that which
-has the power of causing motion; and the actuality of that which has the power of
-causing motion is not other than the actuality of the movable, for it must be the
-fulfilment of both. A thing is capable of causing motion because it can do this, it is a
-mover because it actually does it. But it is on the movable that it is capable of acting.
-Hence there is a single actuality of both alike, just as one to two and two to one are the
-same interval, and the steep ascent and the steep descent are one-for these are one and
-the same, although they can be described in different ways. So it is with the mover and
-the moved.
+It is the fulfilment of this potentiality, and by the action of that which has the power of causing motion; and the actuality of that which has the power of causing motion is not other than the actuality of the movable, for it must be the fulfilment of both. A thing is capable of causing motion because it can do this, it is a mover because it actually does it. But it is on the movable that it is capable of acting. Hence there is a single actuality of both alike, just as one to two and two to one are the same interval, and the steep ascent and the steep descent are one-for these are one and the same, although they can be described in different ways. So it is with the mover and the moved.
 
-This view has a dialectical difficulty. Perhaps it is necessary that the actuality of the
-agent and that of the patient should not be the same. The one is ‘agency’ and the other
-‘patiency’; and the outcome and completion of the one is an ‘action’, that of the other a
-‘passion’. Since then they are both motions, we may ask: in what are they, if they are
-different? Either (a) both are in what is acted on and moved, or (b) the agency is in the
-agent and the patiency in the patient. (If we ought to call the latter also ‘agency’, the
-word would be used in two senses.) Now, in alternative (b), the motion will be in the
-mover, for the same statement will hold of ‘mover’ and ‘moved’. Hence either every
-mover will be moved, or, though having motion, it will not be moved.
+This view has a dialectical difficulty. Perhaps it is necessary that the actuality of the agent and that of the patient should not be the same. The one is ‘agency’ and the other ‘patiency’; and the outcome and completion of the one is an ‘action’, that of the other a ‘passion’. Since then they are both motions, we may ask: in what are they, if they are different? Either (a) both are in what is acted on and moved, or (b) the agency is in the agent and the patiency in the patient. (If we ought to call the latter also ‘agency’, the word would be used in two senses.) Now, in alternative (b), the motion will be in the mover, for the same statement will hold of ‘mover’ and ‘moved’. Hence either every mover will be moved, or, though having motion, it will not be moved.
 
-If on the other hand (a) both are in what is moved and acted on-both the agency and the
-patiency (e.g. both teaching and learning, though they are two, in the learner), then, first,
-the actuality of each will not be present in each, and, a second absurdity, a thing will
-have two motions at the same time. How will there be two alterations of quality in one
-subject towards one definite quality? The thing is impossible: the actualization will be
-one.
+If on the other hand (a) both are in what is moved and acted on-both the agency and the patiency (e.g. both teaching and learning, though they are two, in the learner), then, first, the actuality of each will not be present in each, and, a second absurdity, a thing will have two motions at the same time. How will there be two alterations of quality in one subject towards one definite quality? The thing is impossible: the actualization will be one.
 
-But (some one will say) it is contrary to reason to suppose that there should be one
-identical actualization of two things which are different in kind. Yet there will be, if
-teaching and learning are the same, and agency and patiency. To teach will be the same
-as to learn, and to act the same as to be acted on-the teacher will necessarily be learning
-everything that he teaches, and the agent will be acted on.
+But (some one will say) it is contrary to reason to suppose that there should be one identical actualization of two things which are different in kind. Yet there will be, if teaching and learning are the same, and agency and patiency. To teach will be the same as to learn, and to act the same as to be acted on-the teacher will necessarily be learning everything that he teaches, and the agent will be acted on. 
+
 One may reply:
 
 (1) It is not absurd that the actualization of one thing should be in another. Teaching is the activity of a person who can teach, yet the operation is performed on some patient-it is not cut adrift from a subject, but is of A on B. 

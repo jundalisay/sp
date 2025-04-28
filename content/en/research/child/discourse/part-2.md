@@ -3,7 +3,7 @@ heading: Part 2
 title: "The Dutch Interest Rates"
 weight: 6
 description: "The proﬁt that people have received, and any other may receive, by reducing the interest of money to a very low rate."
-image: "/covers/discourse.png"
+c: "firebrick"
 ---
 
 

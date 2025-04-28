@@ -3,7 +3,7 @@ title: Patriotism And Internationalism
 heading: Chapter 18
 weight: 38
 description: The specific content of patriotism is determined by historical conditions.
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

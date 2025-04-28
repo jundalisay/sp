@@ -3,7 +3,7 @@ title: "Pythagoras' Harmonic Science and Harmonic Ratios"
 heading: "Chapter 26"
 weight: 34
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Nutrition greatly contributes to the best discipline when properly used"
 icon: "/icons/py.png"
 ---

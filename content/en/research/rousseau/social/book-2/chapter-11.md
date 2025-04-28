@@ -2,7 +2,7 @@
 heading: Chapter 11
 title: "The Various Systems Of Legislation"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 18
 date: 2025-01-11
 ---

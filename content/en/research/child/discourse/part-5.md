@@ -3,7 +3,7 @@ heading: Part 5
 title: "Objection 5"
 weight: 12
 description: "He wrote the history of trading cities from 960 AD."
-image: "/covers/discourse.png"
+c: "firebrick"
 ---
 
 

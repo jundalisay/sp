@@ -3,7 +3,7 @@ title: "The Forms of Resistance Coils"
 heading: "Chapter 12b"
 weight: 150
 date: 2024-12-02
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

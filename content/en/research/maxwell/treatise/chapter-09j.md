@@ -3,7 +3,7 @@ title: "OERSTED’S DISCOVERY"
 heading: "Chapter 9j"
 weight: 116
 date: 2024-12-02
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

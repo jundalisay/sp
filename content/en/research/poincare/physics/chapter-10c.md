@@ -3,7 +3,7 @@ heading: Chapter 10c
 title: THE MASS OF ELECTRONS
 weight: 57
 description: Purely mechanical considerations have therefore failed to give an entirely satisfactory interpretation of the phenomena in which even the simplest relations between matter and the ether appear
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 author: "Lucien Poincare"
 ---
 

@@ -3,7 +3,7 @@ title: Kant's Contribution
 heading: Part 6c
 # date: 2022-02-01
 weight: 16
-image: "/covers/nature.jpg"
+c: "firebrick"
 description: Dialectics of Nature
 writer:
   name: Friedrich Engels

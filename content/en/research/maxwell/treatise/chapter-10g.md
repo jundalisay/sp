@@ -3,7 +3,7 @@ title: "Constant Voltaic Elements"
 heading: "Chapter 10g"
 weight: 128
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

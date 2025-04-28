@@ -3,7 +3,7 @@ title: Materialist Dialectics and Marxist Philosophy
 heading: Chapter 22b
 weight: 46
 description: Materialist Dialectics holds that external causes are the condition of change
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

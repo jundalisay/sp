@@ -3,7 +3,7 @@ title: Revolutionary Culture And Art
 heading: Chapter 32
 weight: 62
 description: Revolutionary culture is a powerful revolutionary weapon for the masses
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

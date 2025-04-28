@@ -3,7 +3,7 @@ title: "WHEATSTONE’S BRIDGE"
 heading: "Chapter 11h"
 weight: 2
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

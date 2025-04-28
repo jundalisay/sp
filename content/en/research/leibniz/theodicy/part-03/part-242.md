@@ -4,7 +4,7 @@
 title: "What is the cause of moral evil?"
 description: What is the cause of moral evil?
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 4
 ---
 

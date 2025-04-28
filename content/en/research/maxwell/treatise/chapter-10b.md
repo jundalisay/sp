@@ -3,7 +3,7 @@ title: "Thermo-electric Inversion"
 heading: "Chapter 10b"
 weight: 112
 date: 2024-12-02
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

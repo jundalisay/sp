@@ -4,7 +4,7 @@ linkTitle: Part 133
 title: "Bayle's philosophic maxims 18-19"
 description: When a whole great people has become guilty of rebellion, it is not showing clemency to pardon the hundred thousandth part
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 4
 ---
 

@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "GOVERNMENT IN GENERAL"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 date: 2025-01-11
 ---

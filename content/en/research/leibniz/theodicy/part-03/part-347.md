@@ -2,7 +2,7 @@
 title: "The law of continuity"
 description: It says that one must be able to regard rest as a movement vanishing after having continually diminished
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 28
 ---
 

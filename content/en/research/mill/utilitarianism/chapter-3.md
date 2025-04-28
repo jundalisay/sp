@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Sanction Of The Principle Of Utility"
 heading: "Chapter 3"
-image: "/covers/ut.jpg"
+c: "firebrick"
 weight: 10
 contributors: ['John Stuart Mill']
 description: "Utility is pleasure and the absence of pain"

@@ -3,7 +3,7 @@ title: The Communists
 heading: Chapter 28
 weight: 56
 description: The supreme test of a Communist is whether they conform with the highest interests and are supported by the people
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

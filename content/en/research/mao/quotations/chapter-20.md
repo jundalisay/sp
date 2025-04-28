@@ -3,7 +3,7 @@ title: Building Our Country Through Diligence And Frugality
 heading: Chapter 20
 weight: 42
 description: The principle of diligence and frugality should be observed in everything, especially in running factories and shops
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

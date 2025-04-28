@@ -1,7 +1,7 @@
 ---
 title: "Book 1"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 # date: 2023-06-01
 ---

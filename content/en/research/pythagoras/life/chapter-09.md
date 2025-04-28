@@ -3,7 +3,7 @@ title: "Policies for the Senators"
 heading: "Chapter 9"
 weight: 12
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: ""
 icon: "/icons/py.png"
 ---

@@ -3,7 +3,7 @@ title: "The Community of Pythagoraeans"
 heading: "Chapter 33"
 weight: 46
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "With respect to the amity, however, which subsists in all things towards all, Pythagoras delivered it in the clearest manner."
 icon: "/icons/py.png"
 ---

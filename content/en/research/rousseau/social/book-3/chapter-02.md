@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "THE CONSTITUENT PRINCIPLE IN THE VARIOUS FORMS OF GOVERNMENT"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 date: 2025-01-11
 ---

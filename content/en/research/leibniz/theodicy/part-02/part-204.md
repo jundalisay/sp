@@ -4,7 +4,7 @@ linkTitle: Part 204
 title: "The Search for Truth"
 description: The whole future is doubtless determined
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 4
 ---
 

@@ -2,7 +2,7 @@
 heading: Part 1
 title: "What is Economy?"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 6
 date: 2025-01-11
 ---

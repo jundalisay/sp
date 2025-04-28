@@ -1,7 +1,7 @@
 ---
 title: "Applications--Free Trade"
 heading: "Chapter 5"
-image: "/covers/liberty.jpg"
+c: "firebrick"
 weight: 24
 contributors: ['John Stuart Mill']
 description: "The individual is not accountable to society for his actions, in so far as these concern the interests of no person but himself"

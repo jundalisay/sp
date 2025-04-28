@@ -3,7 +3,7 @@ title: "The Pythagorean Symbols"
 heading: "Chapter 23"
 weight: 18
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Pythagoras saw the use of symbols in teaching as most necessary"
 icon: "/icons/py.png"
 ---

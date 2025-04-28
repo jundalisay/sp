@@ -3,7 +3,7 @@ title: "The End of the Pythagoreans"
 heading: "Chapter 35"
 weight: 50
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "There were persons hostile to the Pythagoreans and rose against them"
 icon: "/icons/py.png"
 ---

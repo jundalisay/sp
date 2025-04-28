@@ -4,7 +4,7 @@ heading: "Chapter 11c"
 weight: 138
 date: 2023-05-27
 description: ""
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 <!-- 1865. Holtz exhibited his machine to the Berlin Academy, April 1865. 8

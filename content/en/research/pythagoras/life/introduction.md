@@ -2,7 +2,7 @@
 title: "Introduction"
 weight: 1
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Pythagoras was the father of philosophy"
 icon: "/icons/py.png"
 ---

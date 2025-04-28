@@ -3,7 +3,7 @@ title: "The use of Physical Analogies"
 heading: "Chapter 5b"
 weight: 2
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

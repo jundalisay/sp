@@ -3,7 +3,7 @@ title: "The Use of Wheatstone’s Bridge"
 heading: "Chapter 12e"
 weight: 2
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

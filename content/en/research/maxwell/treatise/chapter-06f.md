@@ -3,7 +3,7 @@ title: "PARTICULAR CASES OF ELECTRIFICATION"
 heading: "Chapter 6f"
 weight: 2
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

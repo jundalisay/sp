@@ -4,7 +4,7 @@ linkTitle: Part 174
 title: "Ubi bene, nemo melius"
 description: One may say of M. Bayle, 'ubi bene, nemo melius', although one cannot say of him what was said of Origen, 'ubi male, nemo pejus
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 4
 ---
 

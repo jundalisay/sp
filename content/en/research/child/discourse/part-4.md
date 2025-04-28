@@ -3,7 +3,7 @@ heading: "Part 4"
 title: "Objections 1-4"
 date: 2020-01-31
 weight: 10
-image: "/covers/discourse.png"
+c: "firebrick"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
 ---
 

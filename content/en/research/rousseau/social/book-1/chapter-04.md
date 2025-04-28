@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "Conventions are the Basis of Authority"
 description: "No man has a natural authority over his fellow. Force creates no right."
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 10
 date: 2025-01-11
 ---

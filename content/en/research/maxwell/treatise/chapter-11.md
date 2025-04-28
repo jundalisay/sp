@@ -3,7 +3,7 @@ title: "METHODS OF MAINTAINING AN ELECTRIC CURRENT"
 heading: "Chapter 11"
 weight: 132
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

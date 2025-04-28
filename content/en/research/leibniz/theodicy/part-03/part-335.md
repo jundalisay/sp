@@ -2,7 +2,7 @@
 title: "Chrysippus"
 description: He was met with the objection that God formed them, and he could only reply by pointing to the imperfection of matter, which did not permit God to do better
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 28
 ---
 

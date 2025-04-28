@@ -3,7 +3,7 @@ title: "Pythagoras' Temperance"
 heading: "Chapter 30"
 weight: 42
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "How was temperance cultivated by Pythagoras? How did he delivere it to his associates?"
 icon: "/icons/py.png"
 ---

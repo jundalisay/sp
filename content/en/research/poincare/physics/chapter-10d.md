@@ -3,7 +3,7 @@ heading: Chapter 4
 title: New Views On The Constitution Of The Ether And Of Matter
 weight: 58
 description: For some time past, it has been the more or less avowed ambition of physicists to construct with the particles of ether all possible forms of corporeal existence
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 author: "Lucien Poincare"
 ---
 

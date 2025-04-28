@@ -2,6 +2,6 @@
 title: "Theodicy"
 heading: Aristotlean
 description: Leibniz was an Aristotlean
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 56
 ---

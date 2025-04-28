@@ -4,7 +4,7 @@ title: How to Investigate
 heading: Chapter 23
 weight: 48
 description: "My assertion, 'No investigation no right to speak', has been ridiculed as narrow empiricism"
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

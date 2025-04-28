@@ -1,7 +1,7 @@
 ---
 title: "Practical Truths"
 heading: "Chapter 2d"
-image: "/covers/liberty.jpg"
+c: "firebrick"
 weight: 12
 contributors: ['John Stuart Mill']
 description: "But in the sense of that living belief which regulates conduct, they believe these doctrines just up to the point to which it is usual to act on them"

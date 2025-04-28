@@ -3,7 +3,7 @@ title: "Resistance of a Multiple Conductor"
 heading: "Chapter 1"
 weight: 2
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

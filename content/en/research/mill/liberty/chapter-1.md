@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 heading: "Chapter 1"
-image: "/covers/liberty.jpg"
+c: "firebrick"
 weight: 4
 contributors: ['John Stuart Mill']
 description: "Liberty is non-harm and should not be applied to backward societies where despotism is best"

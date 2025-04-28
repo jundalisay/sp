@@ -3,7 +3,7 @@ heading: Part 236
 title: "Bayle's syllogisms"
 description: I answer Bayle's syllogisms found in Chapter 151 of his Reply to the Questions of a Provincial (vol. III, pp. 900, 901)
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 100
 ---
 

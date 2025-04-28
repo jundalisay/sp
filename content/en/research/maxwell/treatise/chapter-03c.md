@@ -3,7 +3,7 @@ title: "GREEN’S THEOREM"
 heading: "Chapter 3c"
 weight: 18
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

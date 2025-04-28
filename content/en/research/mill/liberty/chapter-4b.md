@@ -1,7 +1,7 @@
 ---
 title: "The moral vices"
 heading: "Chapter 4b"
-image: "/covers/liberty.jpg"
+c: "firebrick"
 weight: 20
 contributors: ['John Stuart Mill']
 description: "The moral vices pride and egotism"

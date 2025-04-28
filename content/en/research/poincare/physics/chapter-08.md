@@ -3,7 +3,7 @@ heading: Chapter 8
 title: The Conductivity Of Gases And The Ions
 weight: 45
 description: Two classes of phenomena are today being interpreted with increasing correctness in spite of the few difficulties which have been pointed out
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 author: "Lucien Poincare"
 ---
 

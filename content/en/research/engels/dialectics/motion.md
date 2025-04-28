@@ -4,7 +4,7 @@ heading: Part 5
 # date: 2022-01-27
 weight: 10
 description: " Helmholtz's law of the conservation of force is opposite that of the law of conservation of energy."
-image: "/covers/nature.jpg"
+c: "firebrick"
 writer:
   name: Friedrich Engels
   url: https://en.wikipedia.org/wiki/Friedrich_Engels

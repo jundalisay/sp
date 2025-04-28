@@ -3,7 +3,7 @@ heading: Chapter 10
 title: The Ether And Matter
 weight: 55
 description: For some time past, it has been the more or less avowed ambition of physicists to construct with the particles of ether all possible forms of corporeal existence
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 author: "Lucien Poincare"
 ---
 

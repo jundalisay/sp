@@ -3,7 +3,7 @@ heading: Part 120
 title: "Fixing the Harshness of Descartes"
 description: Descartes speaks somewhat crudely of the will of God in regard to evil
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 4
 ---
 

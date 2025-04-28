@@ -3,7 +3,7 @@ title: The People's Army
 heading: Chapter 9
 weight: 20
 description: Without a people's army the people have nothing.
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

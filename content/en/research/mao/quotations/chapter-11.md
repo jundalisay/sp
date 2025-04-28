@@ -3,7 +3,7 @@ title: The Mass Line
 heading: Chapter 11
 weight: 24
 description: For the past dozen years it has talked about the mass line every day
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

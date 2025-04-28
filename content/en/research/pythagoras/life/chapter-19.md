@@ -3,7 +3,7 @@ title: "Abaris the Hyperborean"
 heading: "Chapter 19"
 weight: 24
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Universally, Pythagoras discovered many paths of learning."
 icon: "/icons/py.png"
 ---

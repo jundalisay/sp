@@ -3,7 +3,7 @@ title: "Machines producing Electrification by Mechanical Work"
 heading: "Chapter 11d"
 weight: 140
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

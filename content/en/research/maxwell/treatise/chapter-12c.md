@@ -3,7 +3,7 @@ title: "MEASUREMENT OF RESISTANCE"
 heading: "Chapter 12f"
 weight: 160
 date: 2024-12-02
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

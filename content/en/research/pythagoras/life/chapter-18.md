@@ -3,7 +3,7 @@ title: "Pythagorean Monks, Pythagorist Civilians: Acusmatici and Mathematici"
 heading: "Chapter 18"
 weight: 22
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Pythagoras grouped his disciples according to their respective merits."
 icon: "/icons/py.png"
 ---

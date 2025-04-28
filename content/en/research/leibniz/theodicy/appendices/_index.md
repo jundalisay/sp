@@ -3,7 +3,7 @@ linkTitle: Appendices
 title: "Appendices"
 description: Appendices to Theodicy
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 4
 ---
 

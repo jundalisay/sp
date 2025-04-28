@@ -3,7 +3,7 @@ heading: Part 11
 title: "Predestination"
 description: The illustrious prelates of the Gallican church who wrote to Pope Innocent XII against Cardinal Sfondrati's book on predestination
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 8
 ---
 

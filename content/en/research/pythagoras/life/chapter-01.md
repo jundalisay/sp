@@ -3,7 +3,7 @@ title: "The Early Life of Pythagoras"
 heading: "Chapter 1-2"
 weight: 2
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Pythagoras' soul was sent to mankind from Apollo"
 icon: "/icons/py.png"
 ---

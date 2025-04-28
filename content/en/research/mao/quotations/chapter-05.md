@@ -3,7 +3,7 @@ title: War and Peace
 heading: Chapter 5
 weight: 12
 description: War is the continuation of politics
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

@@ -3,7 +3,7 @@ title: "WHEATSTONE’S BRIDGE"
 heading: "Chapter 13d"
 weight: 200
 date: 2024-12-02
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 draft: true
 ---
 

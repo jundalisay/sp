@@ -2,7 +2,7 @@
 heading: Chapter 9
 title: "THE MARKS OF A GOOD GOVERNMENT"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 date: 2025-01-11
 ---

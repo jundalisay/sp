@@ -3,7 +3,7 @@ title: Revolutionary Heroism
 heading: Chapter 19
 weight: 40
 description: Thousands upon thousands of martyrs have heroically laid down their lives for the people
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

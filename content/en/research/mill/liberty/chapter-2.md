@@ -1,7 +1,7 @@
 ---
 title: "The Liberty Of Thought And Discussion"
 heading: "Chapter 2"
-image: "/covers/liberty.jpg"
+c: "firebrick"
 weight: 6
 contributors: ['John Stuart Mill']
 description: "Utility is the foundation of morality"

@@ -3,7 +3,7 @@ title: "Pythagoras was a Philosopher"
 heading: "Chapter 12"
 weight: 16
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Pythagoras was the first who called himself a philosopher"
 icon: "/icons/py.png"
 ---

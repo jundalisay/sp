@@ -3,7 +3,7 @@ heading: Chapter 9
 title: Cathode Rays And Radioactive Bodies
 weight: 50
 description: A wire traversed by an electric current is, as has just been explained, the seat of a movement of electrons
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 author: "Lucien Poincare"
 ---
 

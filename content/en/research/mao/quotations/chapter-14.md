@@ -3,7 +3,7 @@ title: Relations Between The Army And The People
 heading: Chapter 14
 weight: 30
 description: The army in the Liberated Areas must support the government and cherish the people
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

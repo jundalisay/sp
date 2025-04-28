@@ -2,7 +2,7 @@
 heading: Chapter 10
 title: "THE ABUSE OF GOVERNMENT AND ITS TENDENCY TO DEGENERATE"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 date: 2025-01-11
 ---

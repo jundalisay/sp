@@ -2,7 +2,7 @@
 heading: Part 4b
 title: "Virtue is Needed for Public Finance"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 16
 date: 2025-01-11
 ---

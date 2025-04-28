@@ -3,7 +3,7 @@ title: "The Electric Resistance of Electrolytes"
 heading: "Chapter 13b"
 weight: 196
 date: 2024-12-02
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: Chapter 9
 title: "Real Property"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 16
 date: 2025-01-11
 ---

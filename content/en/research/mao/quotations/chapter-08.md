@@ -3,7 +3,7 @@ title: The People's War
 heading: Chapter 8
 weight: 18
 description: The revolutionary war is a war of the masses; it can be waged only by mobilizing the masses and relying on them
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

@@ -4,7 +4,7 @@ linkTitle: Part 120
 title: "Diroys, theologian to Cardinal d'Estrées"
 description: He wrote 'Proofs and Assumptions in Favour of the Christian Religion', published in Paris in 1683
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 4
 ---
 

@@ -3,7 +3,7 @@ heading: Part 2
 title: The Rules of legitimate or popular government and Rule 1
 # "We Must Always Go Back To A First Convention"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 10
 date: 2025-01-11
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Utility is an uncertain standard"
 heading: "Chapter 5d"
-image: "/covers/ut.jpg"
+c: "firebrick"
 weight: 20
 contributors: ['John Stuart Mill']
 description: "The desire to punish a person who has done harm to some individual, is a spontaneous outgrowth from two sentiments, both in the highest degree natural, and which either are or resemble instincts"

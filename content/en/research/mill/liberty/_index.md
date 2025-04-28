@@ -1,7 +1,7 @@
 ---
 title: "On Liberty"
 weight: 1
-image: "/covers/liberty.jpg"
+c: "firebrick"
 contributors: ['John Stuart Mill']
 description: ""
 ---

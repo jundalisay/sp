@@ -3,7 +3,7 @@ title: "THE ELECTRIC CURRENT"
 heading: "Chapter 9c"
 weight: 2
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 120. If the Daniell’s cell is taken out of the circuit, and the circuit again closed, the galvanometer indicates a current passing through the electrolytic cell in the opposite direction to the original current. This current rapidly diminishes in strength and soon vanishes, so that the whole quantity of elec- tricity which is transmitted by it is never greater than that of the primitive current. This reverse current indicates that the platinum plates have acquired a difference of properties by being used as electrodes. They are said to be polarized. The cathode is polarized positively and the anode negatively, so that an electromotive force is exerted in the circuit opposite to that of the Daniell’s cell. This electromotive force, which is called the electromotive force of polarization, is the cause of the rapid diminution in the strength of the original current, and of its final cessation.

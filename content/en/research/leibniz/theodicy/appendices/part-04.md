@@ -3,7 +3,7 @@ title: "Observations On The Book 'the Origin Of Evil'"
 description: It was ublished recently in London
 author: Leibniz
 icon: /icons/lei.png
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 28
 ---
 

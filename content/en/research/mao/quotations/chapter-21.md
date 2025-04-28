@@ -3,7 +3,7 @@ title: Self-reliance And Arduous Struggle
 heading: Chapter 21
 weight: 44
 description: We stand for self-reliance. We hope for foreign aid but cannot be dependent on it
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

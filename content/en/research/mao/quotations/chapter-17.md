@@ -3,7 +3,7 @@ title: Serving The People
 heading: Chapter 17
 weight: 36
 description: We should be modest and prudent, guard against arrogance and rashness, and serve the Chinese people heart and soul
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

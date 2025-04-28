@@ -3,7 +3,7 @@ heading: Chapter 1
 title: The Evolution Of Physics
 weight: 6
 description: The revolutionary change in modern Physics only apparent. Evolution is not revolution the rule in Physical Theory. The revival of metaphysical speculation and influence of Descartes
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 contributors: ['Lucien Poincaré']
 ---
 

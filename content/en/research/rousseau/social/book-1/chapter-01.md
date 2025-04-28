@@ -2,7 +2,7 @@
 heading: Chapters 1-2
 title: "Men are Slaves"
 description: "Man is born free yet everywhere he is in chains."
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 6
 date: 2025-01-11
 ---

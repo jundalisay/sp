@@ -3,7 +3,7 @@ title: "Pythagoras' Political Contributions"
 heading: "Chapter 32"
 weight: 44
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "The fortitude of the Pythagoreans was shown by the admirable deeds of Timycha"
 icon: "/icons/py.png"
 ---

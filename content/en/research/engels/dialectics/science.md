@@ -3,7 +3,7 @@ title: The History of European Science
 heading: Part 6
 # date: 2022-02-01
 weight: 12
-image: "/covers/nature.jpg"
+c: "firebrick"
 description: "Natural science declared its independence through revolutionary act as the publication of Copernicus' work"
 writer:
   name: Friedrich Engels

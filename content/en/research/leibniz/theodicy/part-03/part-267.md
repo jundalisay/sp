@@ -2,7 +2,7 @@
 title: "Theologians"
 description:  PUBLISHED RECENTLY IN LONDON
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 20
 ---
 

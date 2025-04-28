@@ -2,7 +2,7 @@
 heading: Chapter 7
 title: "The Legislator"
 description: "By the social compact we have given the body politic existence and life."
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 14
 date: 2025-01-11
 ---

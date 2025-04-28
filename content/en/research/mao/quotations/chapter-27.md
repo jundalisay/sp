@@ -3,7 +3,7 @@ title: Criticism And Self-criticism
 heading: Chapter 27
 weight: 54
 description: We have the Marxist-Leninist weapon of criticism and self-criticism.
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

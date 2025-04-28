@@ -3,7 +3,7 @@ title: "Pythagoras' Justice"
 heading: "Chapter 30"
 weight: 42
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Pythagoras cultivated justice and delivered it to mankind. How did he avoid injustice?"
 icon: "/icons/py.png"
 ---

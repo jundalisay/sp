@@ -3,7 +3,7 @@ title: Education And The Training Of Troops
 heading: Chapter 16
 weight: 34
 description: Our educational policy must enable everyone who receives an education to develop morally, intellectually and physically
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

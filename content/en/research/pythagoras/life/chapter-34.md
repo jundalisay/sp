@@ -5,7 +5,7 @@ title: Pythagoras on Dialects and Medicine
 heading: "Chapter 34"
 author: Iamblichus
 weight: 48
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Pythagoreans were ordered to use their native language because the Pythagoreans did not approve of foreign languages"
 icon: /icons/py.png
 aliases:

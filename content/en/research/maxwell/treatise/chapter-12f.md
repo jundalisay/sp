@@ -3,7 +3,7 @@ title: "Thomson’s∗ Method for the Determination of the Resistance of the Gal
 heading: "Chapter 12f"
 weight: 188
 date: 2024-12-02
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

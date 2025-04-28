@@ -3,7 +3,7 @@ heading: Part 6
 title: "The Schoolmen and the Averroists"
 description: The question of the conformity of faith with reason has always been a great problem
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 10
 ---
 

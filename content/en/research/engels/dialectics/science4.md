@@ -3,7 +3,7 @@ title: The Growth of the Sciences
 heading: Part 6d
 # date: 2022-02-01
 weight: 17
-image: "/covers/nature.jpg"
+c: "firebrick"
 description: Dialectics of Nature
 writer:
   name: Friedrich Engels

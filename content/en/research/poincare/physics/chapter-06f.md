@@ -3,7 +3,7 @@ heading: Chapter 6f
 title: The Ether And Gravitation
 weight: 36
 description: Vaporization and fusion are not the only means by which the physical state of a body may be changed without modifying its chemical constitution
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 contributors: ['Lucien Poincaré']
 ---
 

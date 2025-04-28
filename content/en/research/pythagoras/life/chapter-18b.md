@@ -3,7 +3,7 @@ title: "The Third Audition"
 heading: "Chapter 18b"
 weight: 23
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "The 3rd auditions were what should or what should not be done"
 icon: "/icons/py.png"
 ---

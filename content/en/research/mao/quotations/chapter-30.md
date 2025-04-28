@@ -3,7 +3,7 @@ title: The Youth
 heading: Chapter 30
 weight: 58
 description: We hope that the local Party organizations will help and work with the Youth League organizations
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

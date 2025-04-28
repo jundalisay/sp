@@ -4,7 +4,7 @@ heading: Part 5b
 # date: 2022-01-27
 weight: 10
 description: "How does motion present itself in the interaction of attraction and repulsion?"
-image: "/covers/nature.jpg"
+c: "firebrick"
 writer:
   name: Friedrich Engels
   url: https://en.wikipedia.org/wiki/Friedrich_Engels

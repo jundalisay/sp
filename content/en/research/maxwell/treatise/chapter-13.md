@@ -3,7 +3,7 @@ title: "THE ELECTRIC RESISTANCE OF SUBSTANCES"
 heading: "Chapter 13"
 weight: 192
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

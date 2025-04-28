@@ -4,7 +4,7 @@ heading: "Chapter 11e"
 weight: 138
 date: 2023-05-27
 description: ""
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

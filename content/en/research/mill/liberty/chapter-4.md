@@ -1,7 +1,7 @@
 ---
 title: "The rightful limit to self-interest"
 heading: "Chapter 4"
-image: "/covers/liberty.jpg"
+c: "firebrick"
 weight: 18
 contributors: ['John Stuart Mill']
 description: "What is the rightful limit to self-interest?"

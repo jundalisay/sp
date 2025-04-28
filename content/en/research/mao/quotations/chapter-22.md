@@ -3,7 +3,7 @@ title: Methods Of Thinking And Work
 heading: Chapter 22
 weight: 46
 description: It is man's social being that determines his thinking.
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

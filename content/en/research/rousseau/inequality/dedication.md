@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "Dedication To The Republic Of Geneva"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 2
 date: 2025-01-11
 ---

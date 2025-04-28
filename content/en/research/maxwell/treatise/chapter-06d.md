@@ -3,7 +3,7 @@ title: "Two Parallel Planes"
 heading: "Chapter 6d"
 weight: 2
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

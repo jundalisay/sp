@@ -1,7 +1,7 @@
 ---
 title: "What Proofs are Needed by The Principle Of Utility"
 heading: "Chapter 4"
-image: "/covers/ut.jpg"
+c: "firebrick"
 weight: 12
 contributors: ['John Stuart Mill']
 description: "Human nature is so constituted as to desire happiness. Thus happiness is the sole end of human action"

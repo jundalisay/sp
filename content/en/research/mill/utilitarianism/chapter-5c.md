@@ -1,7 +1,7 @@
 ---
 title: "The essential ingredients in the sentiment of justice"
 heading: "Chapter 5c"
-image: "/covers/ut.jpg"
+c: "firebrick"
 weight: 18
 contributors: ['John Stuart Mill']
 description: "The desire to punish a person who has done harm to some individual, is a spontaneous outgrowth from two sentiments, both in the highest degree natural, and which either are or resemble instincts"

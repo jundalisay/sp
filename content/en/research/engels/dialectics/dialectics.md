@@ -3,7 +3,7 @@ title: The General Nature of Dialectics
 heading: Part 4
 weight: 8
 # date: 2022-01-30
-image: "/covers/nature.jpg"
+c: "firebrick"
 description: Dialectics of Nature
 writer:
   name: Friedrich Engels

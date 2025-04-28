@@ -3,7 +3,7 @@ heading: Part 52
 title: "The Truths of Reason"
 description: I begin with the preliminary question of the conformity of faith with reason, and the use of philosophy in theology
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 6
 ---
 

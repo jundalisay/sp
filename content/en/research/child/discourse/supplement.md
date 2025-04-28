@@ -3,7 +3,7 @@ heading: Supplement
 title: "Further Objections"
 weight: 14
 description: "He wrote the history of trading cities from 960 AD."
-image: "/covers/discourse.png"
+c: "firebrick"
 ---
 
 

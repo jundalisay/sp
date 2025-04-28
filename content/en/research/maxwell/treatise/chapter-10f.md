@@ -3,7 +3,7 @@ title: "The Conservation of Energy in Electrolysis"
 heading: "Chapter 10f"
 weight: 124
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

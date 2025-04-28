@@ -4,7 +4,7 @@ title: "Mao's 11 Types of Liberalism"
 heading: Chapter 24
 weight: 50
 description: Liberalism is extreme]y harmful in a revolutionary collective and manifests in various ways.
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

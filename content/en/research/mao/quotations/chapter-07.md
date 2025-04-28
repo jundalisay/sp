@@ -3,7 +3,7 @@ title: Dare to Struggle, Dare to Win
 heading: Chapter 7
 weight: 16
 description: "People of the world, be courageous, dare to fight, defy difficulties and advance wave upon wave"
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

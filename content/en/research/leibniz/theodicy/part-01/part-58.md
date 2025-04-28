@@ -4,7 +4,7 @@ linkTitle: Part 58
 title: "Determinism"
 description: The whole future is doubtless determined
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 14
 ---
 

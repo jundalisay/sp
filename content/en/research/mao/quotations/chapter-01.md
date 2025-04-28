@@ -3,7 +3,7 @@ title: The Chinese Communist Party
 heading: Chapter 1
 weight: 4
 description: Quotations of Mao
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

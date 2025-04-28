@@ -3,7 +3,7 @@ title: "WORK DONE IN CHARGING A CONDUCTOR"
 heading: "Chapter 3b"
 weight: 16
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

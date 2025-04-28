@@ -3,7 +3,7 @@ title: "Experiments 4-5"
 heading: "Chapter 1b"
 weight: 4
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

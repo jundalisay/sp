@@ -3,7 +3,7 @@ title: "Thermo-electric Diagram"
 heading: "Chapter 10d"
 weight: 120
 date: 2024-12-02
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

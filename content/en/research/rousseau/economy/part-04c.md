@@ -2,7 +2,7 @@
 heading: Part 4c
 title: "Taxation"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 18
 date: 2025-01-11
 ---

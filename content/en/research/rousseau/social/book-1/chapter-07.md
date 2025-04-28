@@ -2,7 +2,7 @@
 heading: Chapter 7
 title: "The Sovereign"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 14
 date: 2025-01-11
 ---

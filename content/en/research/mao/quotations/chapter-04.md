@@ -3,7 +3,7 @@ title: The Correct Handling Of Contradictions Among The People
 heading: Chapter 4
 weight: 10
 description: "To understand the 2 different types of contradictions, we must understand what is meant by 'the people' and 'the enemy'"
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

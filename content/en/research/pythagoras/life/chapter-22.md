@@ -3,7 +3,7 @@ title: "Pythagoric Discipline and Symbols"
 heading: "Chapter 22"
 weight: 28
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Pythagoras also exhorted to remove contention and strife from true friendship, and especially from all friendship, if possible"
 icon: "/icons/py.png"
 ---

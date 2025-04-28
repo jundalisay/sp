@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "Whether The General Will Is Fallible"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 8
 date: 2025-01-11
 ---

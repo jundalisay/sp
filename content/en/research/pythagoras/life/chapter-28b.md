@@ -3,7 +3,7 @@ title: "Pythagorean Oaths"
 heading: "Chapter 28b"
 weight: 31
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "With respect to oaths, however, all the Pythagoreans religiously observe them"
 icon: "/icons/py.png"
 ---

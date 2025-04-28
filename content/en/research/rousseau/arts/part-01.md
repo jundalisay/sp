@@ -2,7 +2,7 @@
 heading: Part 1
 title: "Has The Restoration Of The Arts And Sciences Had A Purifying Effect on Morals?"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 date: 2025-01-11
 ---

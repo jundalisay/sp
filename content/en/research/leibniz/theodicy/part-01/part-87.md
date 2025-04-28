@@ -4,7 +4,7 @@ linkTitle: Part 87
 title: "Forms and Entelechy"
 description: "'Entelechy' apparently takes its origin from the Greek word signifying 'perfect'"
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 30
 ---
 

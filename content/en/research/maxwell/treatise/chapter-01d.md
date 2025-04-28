@@ -3,7 +3,7 @@ title: "Idiostatic and Heterostatic Instruments"
 heading: "Chapter 1d"
 weight: 8
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

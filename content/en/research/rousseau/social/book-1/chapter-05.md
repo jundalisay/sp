@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "We Must Always Go Back To A First Convention"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 12
 date: 2025-01-11
 ---

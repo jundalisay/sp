@@ -3,7 +3,7 @@ title: "Third Class.—Dielectrics"
 heading: "Chapter 10e"
 weight: 122
 date: 2023-05-27
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

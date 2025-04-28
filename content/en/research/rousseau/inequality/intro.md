@@ -2,7 +2,7 @@
 # heading: Chapter 1
 title: "Introduction"
 description: "There are 2 kinds of inequality among the human species"
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 date: 2025-01-11
 ---

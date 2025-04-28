@@ -3,7 +3,7 @@ title: Political Work
 heading: Chapter 12
 weight: 26
 description: The People's Liberation Army has developed its vigorous revolutionary political work
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

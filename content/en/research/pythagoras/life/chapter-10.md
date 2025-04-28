@@ -3,7 +3,7 @@ title: "The Policies for Boys and Women"
 heading: "Chapters 10-11"
 weight: 14
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Pythagoras advised the boys to neither revile any one, nor take vengeance on those that reviled"
 icon: "/icons/py.png"
 ---

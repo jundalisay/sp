@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Right of the Strongest"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 8
 date: 2025-01-11
 ---

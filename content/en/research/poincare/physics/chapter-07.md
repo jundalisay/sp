@@ -3,7 +3,7 @@ heading: Chapter 7
 title: A CHAPTER IN THE HISTORY OF SCIENCE-- WIRELESS TELEGRAPHY
 weight: 40
 description: The First idea of Ether due to Descartes—Ether must be imponderable—Fresnel shows light vibrations to be transverse—Transverse vibrations cannot exist in fluid—Ether must be discontinuous
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 author: "Lucien Poincare"
 ---
 

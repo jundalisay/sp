@@ -2,7 +2,7 @@
 heading: Chapter 6
 title: "THE DICTATORSHIP"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 date: 2025-01-11
 ---

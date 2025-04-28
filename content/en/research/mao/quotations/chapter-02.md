@@ -3,7 +3,7 @@ title: Classes And Class Struggle
 heading: Chapter 2
 weight: 6
 description: Classes struggle, some classes triumph, others are eliminated
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

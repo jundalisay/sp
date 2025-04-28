@@ -1,7 +1,7 @@
 ---
 title: "Applications--Education"
 heading: "Chapter 5b"
-image: "/covers/liberty.jpg"
+c: "firebrick"
 weight: 26
 contributors: ['John Stuart Mill']
 description: "Persons are not held to engagements which violate the rights of third parties. But it is sometimes considered a sufficient reason for releasing them from an engagement, that it is injurious to themselves"

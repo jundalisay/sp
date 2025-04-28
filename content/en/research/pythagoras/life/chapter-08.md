@@ -3,7 +3,7 @@ title: "Filial Piety"
 heading: "Chapter 8"
 weight: 10
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "He then observed that it was just to love those above all others, and never to give them pain, who first benefited us, and in the greatest degree"
 icon: "/icons/py.png"
 ---

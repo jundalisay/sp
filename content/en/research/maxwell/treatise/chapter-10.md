@@ -3,7 +3,7 @@ title: "Phenomena Of An Electric Current Which Flows Throug Heterogeneous Media"
 heading: "Chapter 10"
 weight: 112
 date: 2024-12-02
-image: "/covers/elec.png"
+c: "darkgoldenrod"
 ---
 
 

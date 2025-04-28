@@ -3,7 +3,7 @@ heading: Part 51
 title: "Rejecting Reason"
 description: The Reformers, especially Luther, spoke sometimes as if they rejected philosophy, and deemed it inimical to faith
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 16
 ---
 

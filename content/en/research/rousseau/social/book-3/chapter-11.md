@@ -2,7 +2,7 @@
 heading: Chapter 11
 title: "THE DEATH OF THE BODY POLITIC"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 date: 2025-01-11
 ---

@@ -3,7 +3,7 @@
 title: "The New Physics And Its Evolution"
 linkTitle: "New Physics"
 description: "Lucien Poincaré (22 July 1862 – 9 March 1920) was a distinguished French physicist and cousin of mathematician and theoretical physicist Henri Poincaré."
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 contributors: ['Lucien Poincaré']
 weight: 2
 # date: 2022-05-13

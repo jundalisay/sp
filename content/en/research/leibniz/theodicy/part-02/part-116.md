@@ -4,7 +4,7 @@ linkTitle: Part 116
 title: "Bayle's 19 philosophic maxims"
 description: The whole future is doubtless determined
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 4
 ---
 

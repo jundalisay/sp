@@ -4,7 +4,7 @@ linkTitle: Part 189
 title: "The Stratonists"
 description: Bayle had apprehensions on the Stratonists, in case one should admit truths that are not dependent upon the will of God
 author: Leibniz
-image: "/covers/theodicy.png"
+c: "firebrick"
 weight: 4
 ---
 

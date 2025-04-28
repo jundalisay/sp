@@ -3,7 +3,7 @@ heading: Chapter 5
 title: Solutions And Electrolytic Dissociation
 weight: 25
 description: Vaporization and fusion are not the only means by which the physical state of a body may be changed without modifying its chemical constitution
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 contributors: ['Lucien Poincaré']
 ---
 

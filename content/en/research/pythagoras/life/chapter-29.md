@@ -3,7 +3,7 @@ title: "Pythagoras' Political Contributions"
 heading: "Chapter 29"
 weight: 40
 author: "Iamblichus"
-image: "/covers/lifepyi.png"
+c: "indigo"
 description: "Nutrition greatly contributes to the best discipline when properly used"
 icon: "/icons/py.png"
 ---

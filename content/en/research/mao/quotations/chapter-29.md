@@ -3,7 +3,7 @@ title: Cadres and Leaders
 heading: Chapter 29
 weight: 57
 description: "Cadres and leaders must be free from selfishness, individualistic heroism, ostentation, sloth, passivity, and sectarianism"
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

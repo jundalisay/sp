@@ -3,7 +3,7 @@ title: Studying Marx, Engels, Lenin, Stalin
 heading: Chapter 32b
 weight: 64
 description: Studying them is not merely a matter of learning terms and phrases but of learning Marxism-Leninism as the science of revolution
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---

@@ -2,7 +2,7 @@
 # heading: Chapter 1
 title: "Introduction"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 draft: true
 date: 2025-01-11

@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "The Limits Of The Sovereign Power"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 10
 date: 2025-01-11
 ---

@@ -3,7 +3,7 @@ heading: "Chapter 11"
 title: "The Future Of Physics"
 weight: 60
 description: "It would be exceedingly rash and presumptuous to predict the future of physics."
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 author: "Lucien Poincare"
 ---
 

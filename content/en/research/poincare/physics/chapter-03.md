@@ -3,7 +3,7 @@ heading: Chapter 3
 title: "The Principles of Physics: Conservation"
 weight: 15
 description: Lord Kelvin's view of its necessity— Its definition § 2. The Measure of Length Necessity for unit— Absolute length—History of Standard
-image: "/covers/physics.jpg"
+c: "darkgoldenrod"
 contributors: ['Lucien Poincaré']
 ---
 

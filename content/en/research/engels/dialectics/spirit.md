@@ -4,7 +4,7 @@ heading: Part 7
 # date: 2022-01-20
 weight: 18
 description: Modern dialectics is split into 2 extremes
-image: "/covers/nature.jpg"
+c: "firebrick"
 writer:
   name: Friedrich Engels
   url: https://en.wikipedia.org/wiki/Friedrich_Engels

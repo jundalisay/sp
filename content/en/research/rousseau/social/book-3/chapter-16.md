@@ -2,7 +2,7 @@
 heading: Chapter 11
 title: "The Institution Of Government Is Not A Contract"
 description: ""
-image: "/covers/rousseau.jpg"
+c: "firebrick"
 weight: 4
 date: 2025-01-11
 ---

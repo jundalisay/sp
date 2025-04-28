@@ -3,7 +3,7 @@ title: Unity and Discipline
 heading: Chapter 25-26
 weight: 52
 description: It is only through the unity of the Communist Party that the unity of the whole class and nation can be achieved
-image: "/covers/quotations.jpg"
+c: "firebrick"
 author: "Mao Zedong"
 icon: "Mao Zedong"
 ---
