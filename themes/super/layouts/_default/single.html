@@ -1,7 +1,27 @@
 {{ define "main" }}
 
-<article class="max-w-5xl mx-auto px-4 py-6">
+
+  <article class="container mx-auto px-4 py-8 grid grid-cols-1 md:grid-cols-5 gap-8">
+
+    <div class="md:col-span-1">
+      <!-- horiz -->
+      <ins class="adsbygoogle"
+           data-ad-format="vertical"
+           data-full-width-responsive="false"
+           data-ad-client="ca-pub-2557957536703477"
+           data-ad-slot="7902990808"
+           ></ins>
+      <script>
+           (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+
+
+<!-- <article class="max-w-5xl mx-auto px-4 py-6"> -->
   <!-- Breadcrumbs -->
+
+<div class="md:col-span-3">
+
   {{ partial "bread.html" . }}
 
   <!-- Header -->
@@ -39,6 +59,19 @@
                 {{ . | time.Format "Jan 2, 2006" }}
               {{ end }}
           </div>
+
+
+
+      <div class="ad-container mb-4">
+        <div id="ad-top">
+          <ins class="adsbygoogle"
+               style="display:block"
+               data-ad-client="YOUR_AD_CLIENT_ID"
+               data-ad-slot="YOUR_AD_SLOT_ID_TOP"  data-ad-format="auto"
+               data-full-width-responsive="true"></ins>
+        </div>
+      </div>
+
 
           <div class="flex">
             <svg class="dark:text-white" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="gray" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
@@ -133,6 +166,21 @@
     </div>
 
     {{ partial "comment.html" . }}
+</div>
+
+    <div class="md:col-span-1">
+      <!-- horiz -->
+
+      <ins class="adsbygoogle"
+           data-ad-format="vertical"
+           data-full-width-responsive="false"
+           data-ad-client="ca-pub-2557957536703477"
+           data-ad-slot="7902990808"
+           ></ins>
+      <script>
+           (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
 
 </article>
 
