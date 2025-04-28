@@ -2,8 +2,7 @@
 heading: Book 7
 linkTitle: Book 7
 title: "Substances"
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 weight: 7
 writer:

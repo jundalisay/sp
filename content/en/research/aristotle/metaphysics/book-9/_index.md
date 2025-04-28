@@ -2,8 +2,7 @@
 heading: "Book 9"
 linkTitle: Book 9
 title: "Potentiality versus Actuality"
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 weight: 9
 writer:

@@ -5,9 +5,7 @@ weight: 4
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-# image: "/covers/ethics.jpg"
-# image: "/covers/ethics.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "It is the nature of moral actions to be spoiled by defect and excess"
 icon: "Aristotle"

@@ -5,9 +5,7 @@ weight: 8
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-# image: "/covers/ethics.jpg"
-# image: "/covers/ethics.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Art Fortune loves, and is of her beloved"
 icon: "Aristotle"

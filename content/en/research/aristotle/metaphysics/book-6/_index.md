@@ -3,8 +3,7 @@
 heading: Book 6
 title: "What is Being?"
 linkTitle: Book 6
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 weight: 6
 writer:

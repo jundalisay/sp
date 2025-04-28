@@ -4,7 +4,7 @@ title: "The Einstein Trap"
 description: "Did you know that using light as a Measuring Rod is circular reasoning?"
 date: "2021-06-14"
 weight: 30
-image: "/covers/einstein.jpg"
+c: "firebrick"
 icon: "/icons/spmat.png"
 weight: 
 writer:

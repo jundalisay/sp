@@ -2,7 +2,7 @@
 heading: "Part 3c"
 title: "More Assignments By Enki"
 weight: 20
-image: "/covers/enki.jpg"
+c: "darkslategray"
 description: "He filled the E-kur, the house of Enlil, with goods of all sorts."
 ---
 

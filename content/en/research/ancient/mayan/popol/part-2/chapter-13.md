@@ -4,7 +4,7 @@ title: "The Sacrifice"
 weight: 32
 # date: 2024-05-12
 description: "On the fifth day they appeared again and were seen in the water by the people"
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

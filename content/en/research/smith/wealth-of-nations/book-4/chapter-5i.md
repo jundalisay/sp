@@ -2,12 +2,12 @@
 title: "Loss of Competitve Advantage From the Division of Capital"
 heading: "Chapter 5i"
 description: "Europe's ancient policy tried to regulate agriculture by maxims different from those which regulated manufactures"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 48
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

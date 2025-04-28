@@ -2,12 +2,12 @@
 title: "Digression on Bank Deposits, particularly of Amsterdam"
 heading: "Chapter 3b"
 description: "Small states frequently required certain foreign bills of exchange to be paid by the credit of a bank protected by the state"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 28
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

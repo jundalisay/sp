@@ -2,8 +2,7 @@
 title: "The Early Philosophers"
 heading: "Part 3"
 weight: 6
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Aristotle enumerates the principles of the early philosophers"
 icon: "Aristotle"

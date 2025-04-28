@@ -1,7 +1,7 @@
 ---
 title: "Inana and Enki"
 weight: 2
-image: "/covers/enki.jpg"
+c: "darkslategray"
 description: "Here we simplify the texts from Sumerian Sources"
 ---
 

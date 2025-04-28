@@ -2,8 +2,7 @@
 heading: "Part 9"
 title: "Male and Female"
 weight: 11
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Why do women and men have the same species, while female and male are contrary?"
 writer:

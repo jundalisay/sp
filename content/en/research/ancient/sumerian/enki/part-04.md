@@ -2,7 +2,7 @@
 heading: "Part 4"
 title: "Enki's journey to Nibiru"
 weight: 22
-image: "/covers/enki.jpg"
+c: "darkslategray"
 description: "He filled the E-kur, the house of Enlil, with goods of all sorts."
 ---
 

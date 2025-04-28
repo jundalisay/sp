@@ -5,9 +5,7 @@ weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-# image: "/covers/ethics.jpg"
-# image: "/covers/ethics.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Science must mean the most accurate of all Knowledge."
 icon: "Aristotle"

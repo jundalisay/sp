@@ -2,7 +2,7 @@
 heading: "Tablet 5"
 title: "Marduk's Creations"
 weight: 12
-image: "/covers/enuma.jpg"
+c: "darkslategray"
 description: "Marduk the way-station engineer"
 ---
 

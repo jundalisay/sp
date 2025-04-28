@@ -2,12 +2,12 @@
 title: "The Liquor Industry"
 heading: "Chapter 3f"
 description: "It is a losing trade which a workman carries on with the alehouse"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 33
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

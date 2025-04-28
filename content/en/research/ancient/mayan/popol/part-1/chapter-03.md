@@ -4,7 +4,7 @@ title: "The Destruction of the First Men"
 weight: 8
 # date: 2024-05-12
 description: Immediately, the wooden figures were annihilated, destroyed, broken up, and killed
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

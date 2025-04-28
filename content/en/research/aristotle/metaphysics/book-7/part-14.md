@@ -4,8 +4,7 @@ heading: "Part 14"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "These very facts what consequence confronts those who say the Ideas are substances capable of separate existence, and at the same time make the Form consist of the genus and the differentiae"
 icon: "Aristotle"

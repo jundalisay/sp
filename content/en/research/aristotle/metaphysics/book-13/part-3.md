@@ -2,8 +2,7 @@
 heading: "Part 3"
 title: "The Propositions of Mathematics"
 weight: 4
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "The universal propositions of mathematics do not deal with objects which exist separately, apart from extended magnitudes and from numbers"
 writer:

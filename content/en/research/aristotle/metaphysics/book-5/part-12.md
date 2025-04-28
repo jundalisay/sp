@@ -2,8 +2,7 @@
 heading: "Part 12"
 title: "Defining Potency"
 weight: 14
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 writer:
   name: Aristotle 

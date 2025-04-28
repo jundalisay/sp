@@ -2,8 +2,7 @@
 heading: "Part 3"
 title: "Capability and Potentiality and Actuality"
 weight: 6
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "If that which is deprived of potentiality is incapable, that which is not happening will be incapable of happening"
 writer:

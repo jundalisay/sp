@@ -2,8 +2,7 @@
 heading: "Part 2"
 title: "All arts are potentialities"
 weight: 4
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Arts are potentialities. They are originative sources of change in another thing or in the artist himself considered as other"
 writer:

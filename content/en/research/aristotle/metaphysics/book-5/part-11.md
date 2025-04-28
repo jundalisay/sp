@@ -2,8 +2,7 @@
 heading: "Parts 11"
 title: "Defining Prior and Posterior"
 weight: 12
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Aristotle defines prior and posterior"
 writer:

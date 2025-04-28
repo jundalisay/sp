@@ -4,7 +4,7 @@ title: "Playing Ball"
 weight: 26
 # date: 2024-05-12
 description: The Lords of Xibalba thought that the boys' entrance there would be the beginning of their downfall.
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

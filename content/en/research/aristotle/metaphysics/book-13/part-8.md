@@ -2,8 +2,7 @@
 heading: "Part 8"
 title: "Number and Unit"
 weight: 12
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "What is the differentia of a number and of a unit if it has a differentia?"
 writer:

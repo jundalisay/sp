@@ -1,7 +1,7 @@
 ---
 title: "THE TYRANNY OF GILGAMISH, AND THE CREATION OF ENKIDU"
 weight: 4
-image: "/covers/enuma.jpg"
+c: "darkslategray"
 description: "Here we simplify Enuma Elish The Epic Of Creation"
 draft: true
 ---

@@ -2,7 +2,7 @@
 heading: "Tablet 4b"
 title: "Marduk Defeats Tiamat"
 weight: 11
-image: "/covers/enuma.jpg"
+c: "darkslategray"
 description: "As Marduk gazed, Kingu was troubled in his gait. His will was destroyed and his motions ceased"
 ---
 

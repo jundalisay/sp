@@ -2,8 +2,7 @@
 heading: "Part 1"
 title: "What is inside matter?"
 weight: 1
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Some substances are recognized by everyone. But some have been advocated by particular schools"
 writer:

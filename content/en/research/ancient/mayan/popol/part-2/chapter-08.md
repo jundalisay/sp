@@ -4,7 +4,7 @@ title: "Xan the Mosquito"
 weight: 24
 date: 2024-05-12
 description: Then they went, each one carrying his blowgun, and went down in the direction of Xibalba.
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

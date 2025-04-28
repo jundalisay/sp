@@ -2,8 +2,6 @@
 heading: "Part 8"
 title: "Actuality (Existence) is prior to potentiality (Change)"
 weight: 14
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
 c: "indigo"
 description: "Potentiality is that definite kind which is a principle of change in another thing or in the thing itself regarded as other"
 writer:

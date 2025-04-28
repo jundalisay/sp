@@ -2,12 +2,12 @@
 title: "How Stock Is Naturally Distributed To Seek Employment Advantageous To Society"
 heading: "Chapter 7q"
 description: "The country's mercantile stock naturally courts the near employment and shuns the distant employment"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 94
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+a: "Adam Smith"
 ---
 
 

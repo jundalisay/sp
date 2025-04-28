@@ -2,7 +2,7 @@
 heading: "Tablet 1b"
 title: "Tiamat Raises Kingu"
 weight: 4
-image: "/covers/enuma.jpg"
+c: "darkslategray"
 description: "Then Ea, who knew all that is, went up and he beheld their muttering"
 ---
 

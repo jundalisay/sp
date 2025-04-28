@@ -2,12 +2,12 @@
 title: "The Other Enumerated Commodities"
 heading: "Chapter 7g"
 description: "The pig and bar iron were listed as enumerated commodities. But they were exempted from high duties when imported from America."
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 74
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

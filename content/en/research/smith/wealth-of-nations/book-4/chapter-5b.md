@@ -2,12 +2,12 @@
 title: "The Money Price of Grains Regulates The Money Price of All Commodities"
 heading: "Chapter 5b"
 description: "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 40
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

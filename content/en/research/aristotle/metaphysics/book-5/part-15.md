@@ -2,8 +2,7 @@
 heading: "Part 15"
 title: "Defining Relative"
 weight: 18
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 writer:
   name: Aristotle 

@@ -4,7 +4,7 @@ title: "The House of Cold, Jaguars, Fire, Bats"
 weight: 28
 # date: 2024-05-12
 description: "The house was full of hail; it was the mansion of cold. Soon, however, the cold was ended because with a fire of old logs the boys made the cold disappear"
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

@@ -2,8 +2,7 @@
 title: "Plato's Philosophy"
 heading: "Part 6"
 weight: 12
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Aristotle explains the principles of the Plato"
 icon: "Aristotle"

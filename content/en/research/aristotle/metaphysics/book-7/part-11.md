@@ -4,8 +4,7 @@ heading: "Part 11"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "What sort of parts belong to the Form and what sort not to the form, but to the concrete thing?"
 icon: "Aristotle"

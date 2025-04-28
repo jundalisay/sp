@@ -2,12 +2,12 @@
 title: "Drawbacks"
 heading: "Chapter 4"
 description: "Drawbacks seem the most reasonable of these encouragements"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 36
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

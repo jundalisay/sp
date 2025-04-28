@@ -4,7 +4,7 @@ title: "Hunahpú and Xbalanqué Defeats Zipacna"
 weight: 4
 # date: 2024-05-12
 description: Now we shall also tell the name of the father of Hunahpú and Xbalanqué
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

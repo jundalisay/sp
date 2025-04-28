@@ -2,12 +2,12 @@
 title: "Economic Karma"
 heading: "Chapter 7p"
 description: "Even the regulations which secure to each nation the exclusive trade of its own colonies are frequently more hurtful to the beneficiary countries than to those countries which they are against"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 92
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 
@@ -24,6 +24,7 @@ They were generally beneficial by:
   - encourage one another's industry.
 
 To the natives of the East and West Indies, however, all the commercial benefits from those events were lost in the dreadful misfortunes.
+
     These misfortunes arose from accident than from the nature of those events themselves.
     At the time of those discoveries, Europe was so militarily superior that they were able to commit every injustice with impunity.
 

@@ -4,7 +4,7 @@ title: "Tohil Gives Fire to the People"
 weight: 7
 # date: 2024-05-12
 description: They did not have fire. Only the people of Tohil had it.
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

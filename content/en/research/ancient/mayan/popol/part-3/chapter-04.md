@@ -4,7 +4,7 @@ title: "Tohil, Avilix, and Hacavitz"
 weight: 9
 # date: 2024-05-12
 description: Our first mothers and fathers did not yet have wood nor stones to keep; but their hearts were tired of waiting for the sun.
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

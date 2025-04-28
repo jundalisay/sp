@@ -2,8 +2,7 @@
 heading: "Part 2"
 title: "The Matter of Democritus"
 weight: 4
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Matter has many differences"
 icon: "Aristotle"

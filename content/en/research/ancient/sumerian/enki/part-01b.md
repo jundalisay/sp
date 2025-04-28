@@ -2,7 +2,7 @@
 heading: "Part 2"
 title: "Ninnisig, Ninkura, Ninimma"
 weight: 4
-image: "/covers/enki.jpg"
+c: "darkslategray"
 description: "All alone the wise one, toward Nintur, the country's mother, Enki, the wise one, toward Nintur, the country's mother"
 ---
 

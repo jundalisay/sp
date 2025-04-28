@@ -2,12 +2,12 @@
 title: "Colony assemblies and Representation"
 heading: "Chapter 7n"
 description: "The colonies may be taxed by their own assemblies or by the British parliament"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 88
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

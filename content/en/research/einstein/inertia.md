@@ -1,7 +1,7 @@
 ---
 title: "Does the Inertia of a Body Depend on Its Energy-content?"
 description: "My principle of relativity states that any changes to two systems of coordinates that are in uniform motion parallel to each other are governed by laws which do not depend on either of them"
-image: "/covers/einstein.jpg"
+c: "firebrick"
 weight: 80
 # date: 1939-08-02
 ---

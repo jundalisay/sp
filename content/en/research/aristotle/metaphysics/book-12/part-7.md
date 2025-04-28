@@ -2,8 +2,7 @@
 heading: "Part 7"
 title: "Thought is Prior to Desire"
 weight: 8
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Desire depends on opinion. Opinion does not depend on desire. This is thinking is the starting-point"
 writer:

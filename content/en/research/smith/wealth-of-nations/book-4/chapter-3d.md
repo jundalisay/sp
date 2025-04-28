@@ -2,12 +2,12 @@
 title: "The Fidelity of the Bank of Amsterdam"
 heading: "Chapter 3d"
 description: "The bank of Amsterdam professes to lend out none of what is deposited with it"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 30
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

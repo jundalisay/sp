@@ -3,7 +3,7 @@ title: "The Damage Einstein Has Done"
 description: "The damage that Einstein has done to humanity may be ranked as follows"
 date: 2024-12-25
 weight: 2
-image: "/covers/einstein.jpg"
+c: "firebrick"
 ---
 
 

@@ -2,8 +2,7 @@
 heading: "Part 1 and 2"
 title: "Defintion of Beginning and Cause"
 weight: 1
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 writer:
   name: Aristotle 

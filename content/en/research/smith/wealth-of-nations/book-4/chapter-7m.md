@@ -2,12 +2,12 @@
 title: "The Effects of Monopoly on the Nation"
 heading: "Chapter 7m"
 description: "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 86
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

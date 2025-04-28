@@ -5,8 +5,7 @@ weight: 10
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Those who seek merely compulsion in argument seek what is impossible"
 icon: "Aristotle"

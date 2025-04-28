@@ -2,12 +2,12 @@
 title: "France & England; Balance of Produce & Consumption"
 heading: "Chapter 3g"
 description: "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 34
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

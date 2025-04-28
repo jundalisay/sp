@@ -2,12 +2,12 @@
 title: "Monopoly from the Act of Navigation"
 heading: "Chapter 7j"
 description: "The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 80
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

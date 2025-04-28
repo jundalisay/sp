@@ -2,7 +2,7 @@
 heading: "Part 2b"
 title: "Enki Creates Man"
 weight: 14
-image: "/covers/enki.jpg"
+c: "darkslategray"
 description: "He clasped her to the bosom, lying in her crotch, fondled her thighs, fondled her with the hand."
 ---
 

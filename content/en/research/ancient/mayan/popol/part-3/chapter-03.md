@@ -4,7 +4,7 @@ title: "The Tribes of Men"
 weight: 7
 # date: 2024-05-12
 description: Cahá-Paluna was the wife of Balam-Quitzé, Chomihá was the wife of Balam-Acab, Tzununihá was the wife of Mahucutah,  Caquixahá was the wife of Iqui-Balam
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

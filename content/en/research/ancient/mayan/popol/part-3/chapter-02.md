@@ -4,7 +4,7 @@ title: "The First Men"
 weight: 4
 # date: 2024-05-12
 description: "The first men were: Balam-Quitzé, Balam-Acab, Mahucutah, Iqui-Balam"
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

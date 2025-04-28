@@ -2,7 +2,7 @@
 heading: "Appendix"
 title: "The Fight With Tiamat"
 weight: 200
-image: "/covers/enuma.jpg"
+c: "darkslategray"
 description: "Tiamat"
 ---
 

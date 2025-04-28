@@ -2,12 +2,12 @@
 title: "The Advantages Europe Derived From The Discovery of America And The Cape Of Good Hope"
 heading: "Chapter 7f"
 description: "The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 78
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

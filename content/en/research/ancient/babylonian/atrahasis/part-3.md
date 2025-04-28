@@ -1,7 +1,7 @@
 ---
 title: "Atraḥasis and the Elders"
 weight: 10
-image: "/covers/enuma.jpg"
+c: "darkslategray"
 description: "Here we simplify the texts from Babylonian Sources"
 ---
 

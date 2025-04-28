@@ -2,7 +2,7 @@
 heading: "Tablet 6"
 title: "Marduk's Plan to Ea"
 weight: 14
-image: "/covers/enuma.jpg"
+c: "darkslategray"
 description: "Marduk the way-station engineer"
 ---
 

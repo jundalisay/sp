@@ -2,8 +2,7 @@
 heading: "Part 5"
 title: "Do forms exist?"
 weight: 14
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 writer:
   name: Aristotle 

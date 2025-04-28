@@ -2,8 +2,7 @@
 heading: "Part 3"
 title: "Question 6: Is the Genera the basis of principles?"
 weight: 8
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?"
 writer:

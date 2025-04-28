@@ -2,8 +2,7 @@
 heading: "Parts 3-5"
 title: "Defintion of Element, Nature, and Necessary"
 weight: 4
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 writer:
   name: Aristotle 

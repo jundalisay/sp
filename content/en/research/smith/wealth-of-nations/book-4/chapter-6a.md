@@ -2,12 +2,12 @@
 title: "Commercial Treaties"
 heading: "Chapter 6a"
 description: "The tonnage bounties given to the white-herring and whale-fisheries are examples of production bounties. They render those goods cheaper at home than normal"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 58
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

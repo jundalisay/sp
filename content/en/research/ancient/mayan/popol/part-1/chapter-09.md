@@ -4,7 +4,7 @@ title: "Hunahpú and Xbalanqué Defeat Cabracán"
 weight: 20
 # date: 2024-05-12
 description: "How was Cabracan defeated by the two boys, Hunahpú and Xbalanqué?"
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

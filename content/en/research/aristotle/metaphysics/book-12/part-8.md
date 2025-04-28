@@ -2,8 +2,7 @@
 heading: "Part 7"
 title: "The Spheres of Eudoxus and Callippus"
 weight: 10
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Eudoxus supposed that the motion of the sun or the moon involves 3 spheres"
 writer:

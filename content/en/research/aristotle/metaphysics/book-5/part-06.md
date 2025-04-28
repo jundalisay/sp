@@ -2,8 +2,7 @@
 heading: "Parts 6 of Book 5"
 title: "Defining One and Many"
 weight: 6
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Aristotle defines one and many"
 writer:

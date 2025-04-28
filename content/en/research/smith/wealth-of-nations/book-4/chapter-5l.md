@@ -2,12 +2,12 @@
 title: "The Carrying Trade of Wheat"
 heading: "Chapter 5i"
 description: "The merchant carrier imports foreign wheat and re-exports it"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 54
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

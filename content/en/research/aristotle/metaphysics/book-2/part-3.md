@@ -2,8 +2,7 @@
 heading: "Part 3"
 title: "The Effect Which Lectures Produce On A Hearer Depends On His Habits"
 weight: 9
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "The effect which lectures produce on a hearer depends on his habits"
 writer:

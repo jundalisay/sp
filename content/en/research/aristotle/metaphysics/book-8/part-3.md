@@ -2,8 +2,7 @@
 heading: "Part 3"
 title: "Matter and Number"
 weight: 6
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Aristotle explains the generation and destruction of substances"
 icon: "Aristotle"

@@ -2,8 +2,7 @@
 heading: "Part 1"
 title: "Philosophy and The Truth"
 weight: 1
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Aristotle denounces Plato's Forms"
 writer:

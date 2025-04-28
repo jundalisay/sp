@@ -4,7 +4,7 @@ title: "Vucub-Caquix"
 weight: 9
 # date: 2024-05-12
 description: Vucub-Caquix became as vain as though he were the sun and the moon
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

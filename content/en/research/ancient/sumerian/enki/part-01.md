@@ -2,7 +2,7 @@
 heading: "Part 1"
 title: "Dilmun land"
 weight: 2
-image: "/covers/enki.jpg"
+c: "darkslategray"
 description: "He laid her down all alone in Dilmun, and the place where Enki had lain down with his spouse Ninsikila"
 ---
 

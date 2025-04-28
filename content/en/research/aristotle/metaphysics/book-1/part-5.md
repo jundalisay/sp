@@ -2,8 +2,7 @@
 title: "The Pythagoreans"
 heading: "Part 5"
 weight: 10
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Aristotle explains the principles of the Pythagoreans"
 icon: "Aristotle"

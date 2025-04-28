@@ -5,9 +5,7 @@ weight: 2
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-# image: "/covers/ethics.jpg"
-# image: "/covers/ethics.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Human Excellence is of two kinds"
 icon: "Aristotle"

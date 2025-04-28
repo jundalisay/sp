@@ -4,7 +4,7 @@ title: "The Red Tree of Cochineal"
 weight: 8
 date: 2024-05-12
 description: "This is the story of a maiden, the daughter of a lord named Cuchumaquic."
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

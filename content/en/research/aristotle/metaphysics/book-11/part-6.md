@@ -2,8 +2,7 @@
 heading: "Part 6"
 title: "The Basis of the Truth"
 weight: 10
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Protagoras said that man is the measure of all things. It means that that which seems to each man also assuredly is."
 writer:

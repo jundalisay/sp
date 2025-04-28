@@ -3,7 +3,7 @@ title: "Letter to F. D. Roosevelt Simplified"
 # title: "Einstein's Reply to Criticisms (1949)"
 # heading: "Part 1"
 description: "The recent work by E. Fermi and L. Szilard leads me to expect that uranium may be turned into a new and important source of energy in the immediate future."
-image: "/covers/einstein.jpg"
+c: "firebrick"
 weight: 40
 date: 1939-08-02
 ---

@@ -4,7 +4,7 @@ title: "The Old Woman Xquic"
 weight: 18
 # date: 2024-05-12
 description: "Hunbatz and Hunchouén were with their mothers when the woman called Xquic arrived."
-image: "/covers/popol.jpg"
+c: "darkslategray"
 # date: 2020-10-31
 ---
 

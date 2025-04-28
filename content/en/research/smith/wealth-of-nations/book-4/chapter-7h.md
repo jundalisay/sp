@@ -2,12 +2,12 @@
 title: "Economic Democracy"
 heading: "Chapter 7e"
 description: "The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 76
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

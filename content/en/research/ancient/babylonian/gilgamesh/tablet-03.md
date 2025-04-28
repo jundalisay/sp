@@ -1,7 +1,7 @@
 ---
 title: "The Expedition Against Humbaba"
 weight: 4
-image: "/covers/enuma.jpg"
+c: "darkslategray"
 description: "Here we simplify Enuma Elish The Epic Of Creation"
 draft: true
 --- 

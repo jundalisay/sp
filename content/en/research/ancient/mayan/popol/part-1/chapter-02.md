@@ -4,7 +4,7 @@ title: "The Creation of Animals"
 weight: 5
 # date: 2024-05-12
 # description: "John Stuart Mill was part of the British East India Company who advocated free trade"
-image: "/covers/popol.jpg"
+c: "darkslategray"
 # date: 2020-10-31
 ---
 

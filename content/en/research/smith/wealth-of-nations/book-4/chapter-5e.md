@@ -2,12 +2,12 @@
 title: "Tonnage Bounties -- White Herrings"
 heading: "Chapter 5e"
 description: "The bounty to the white-herring fishery is a tonnage bounty"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 45
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

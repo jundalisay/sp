@@ -4,7 +4,7 @@ title: "Hunahpú and Xbalanqué"
 weight: 20
 # date: 2024-05-12
 description: Then they, Hunahpú and Xbalanqué, began to work in order to be well thought of by their grandmother and their mother.
-image: "/covers/popol.jpg"
+c: "darkslategray"
 # date: 2020-10-31
 ---
 

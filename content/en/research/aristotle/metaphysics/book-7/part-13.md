@@ -4,8 +4,7 @@ heading: "Part 13"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "The substratum and the essence and the compound of these are called substance, so also is the universal"
 icon: "Aristotle"

@@ -2,7 +2,7 @@
 heading: "Part 2"
 title: "Enki and Ninmaḫ"
 weight: 12
-image: "/covers/enki.jpg"
+c: "darkslategray"
 description: "He clasped her to the bosom, lying in her crotch, fondled her thighs, fondled her with the hand."
 ---
 

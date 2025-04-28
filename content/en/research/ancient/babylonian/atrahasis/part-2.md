@@ -1,7 +1,7 @@
 ---
 title: "Proposals by Ea, Belet-ili, and Enki"
 weight: 8
-image: "/covers/enuma.jpg"
+c: "darkslategray"
 description: "Here we simplify the texts from Babylonian Sources"
 ---
 

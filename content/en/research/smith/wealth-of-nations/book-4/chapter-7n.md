@@ -2,12 +2,12 @@
 title: "America a Nation of Customers, Britain a Nation of Shopkeepers"
 heading: "Chapter 7n"
 description: "Creating a great empire of customers may appear as a project good only for a nation of shopkeepers"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 87
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

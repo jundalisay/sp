@@ -2,12 +2,12 @@
 title: "The Enumerated Commodities"
 heading: "Chapter 7f"
 description: "The 2 kinds of enumerated commodities are: American produce that cannot be produced, and those that can be produced in Britain and overseas"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 72
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

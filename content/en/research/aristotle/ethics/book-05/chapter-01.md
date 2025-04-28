@@ -5,9 +5,7 @@ weight: 9
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-# image: "/covers/ethics.jpg"
-# image: "/covers/ethics.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "What kind of actions are the object-matter of Justice and Injustice?"
 icon: "Aristotle"

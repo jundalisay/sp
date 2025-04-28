@@ -2,8 +2,7 @@
 heading: "Parts 2-3"
 title: "Everything is Finite and Not Infinite"
 weight: 4
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "There is a first principle. The causes of things are neither an infinite series nor infinitely various in kind."
 writer:

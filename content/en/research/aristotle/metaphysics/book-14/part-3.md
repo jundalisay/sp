@@ -2,8 +2,7 @@
 heading: "Part 3"
 title: "The Pythagorean Numbers"
 weight: 6
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "The Pythagoreans saw many attributes of numbers belonging to sensible bodies. They supposed real things to be numbers themselves"
 writer:

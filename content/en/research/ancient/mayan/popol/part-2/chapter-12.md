@@ -4,7 +4,7 @@ title: "The Death of Hunahpú and Xbalanqué"
 weight: 30
 # date: 2024-05-12
 description: "Here is the account of the death of Hunahpú and Xbalanqué. Now we shall tell of the way they died."
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

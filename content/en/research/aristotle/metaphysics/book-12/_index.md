@@ -1,8 +1,7 @@
 ---
 heading: "Book 12"
 title: "Attributes of Substance"
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 weight: 12
 writer:

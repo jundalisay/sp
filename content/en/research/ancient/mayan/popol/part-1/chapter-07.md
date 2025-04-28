@@ -4,7 +4,7 @@ title: "The Death of the 400 Boys Through Zipacná"
 weight: 14
 # date: 2022-06-05
 description: "Zipacná was bathing at the edge of a river when 400 boys passed dragging a log to support their house."
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 <!-- Here are the deeds of Zipacná, the elder, son of Vucub-Caquix.

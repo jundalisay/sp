@@ -2,8 +2,7 @@
 heading: "Part 7"
 title: "When does a thing exist potentially?"
 weight: 12
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "We must distinguish when a thing exists potentially and when it does not. For it is not at any and every time"
 writer:

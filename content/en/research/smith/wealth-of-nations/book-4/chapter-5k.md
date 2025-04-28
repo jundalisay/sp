@@ -2,12 +2,12 @@
 title: "Digression on the wheat trade and wheat laws: The Carrying Trade of Wheat"
 heading: "Chapter 5h"
 description: "The merchant importer of foreign wheat for home consumption contributes to the home market's immediate supply"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 52
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

@@ -4,7 +4,7 @@ title: "The Toad"
 weight: 22
 # date: 2024-05-12
 description: The boys returned happily to the ball-court to play; they were playing alone a long time and cleared the court where their parents had played
-image: "/covers/popol.jpg"
+c: "darkslategray"
 ---
 
 

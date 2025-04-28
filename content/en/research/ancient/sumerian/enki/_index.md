@@ -1,7 +1,7 @@
 ---
 title: "Enki and Ninhursaja"
 weight: 2
-image: "/covers/enki.jpg"
+c: "darkslategray"
 description: "Here we simplify Enki and Ninhursaja"
 ---
 

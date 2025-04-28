@@ -5,9 +5,7 @@ weight: 20
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-# image: "/covers/ethics.jpg"
-# image: "/covers/ethics.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "The vice of being destitute of all Self-Control is more truly voluntary than Cowardice"
 icon: "Aristotle"

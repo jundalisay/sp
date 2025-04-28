@@ -2,12 +2,12 @@
 title: "Motives for Establishing Colonies"
 heading: "Chapter 7a"
 description: "Nobody imagines that the annual gold coinage of more than £800,000 a year for 10 years, was an addition to the money in the kingdom"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 62
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 ---
 
 

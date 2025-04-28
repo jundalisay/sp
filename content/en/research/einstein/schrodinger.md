@@ -1,7 +1,7 @@
 ---
 title: "Does Schrödinger’s Wave Mechanics Completely Determine a System's Motion, or Only Statistically?"
 description: "The recent work by E. Fermi and L. Szilard leads me to expect that uranium may be turned into a new and important source of energy"
-image: "/covers/einstein.jpg"
+c: "firebrick"
 weight: 41
 writer:
   name: Albert Einstein

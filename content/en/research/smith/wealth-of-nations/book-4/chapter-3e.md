@@ -2,12 +2,12 @@
 title: "The Fallacy of Equilibrium in the Balance of Trade"
 heading: "Chapter 3e"
 description: "Nothing, however, can be more absurd than this whole doctrine of the balance of trade"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 32
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

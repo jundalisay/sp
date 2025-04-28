@@ -5,9 +5,7 @@ weight: 9
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-# image: "/covers/ethics.jpg"
-# image: "/covers/ethics.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "One class of Justs is those which are enforced by law in accordance with Virtue in the most extensive sense of the term."
 icon: "Aristotle"

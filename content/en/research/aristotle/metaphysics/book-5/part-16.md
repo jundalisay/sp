@@ -5,8 +5,7 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 weight: 20
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Aristotle defines Complete, Limit, Disposition"
 icon: "Aristotle"

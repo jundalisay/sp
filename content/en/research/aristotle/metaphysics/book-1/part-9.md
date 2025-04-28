@@ -2,8 +2,7 @@
 heading: "Part 9"
 title: "The Forms are not Real"
 weight: 18
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Aristotle denounces Plato's Forms"
 writer:

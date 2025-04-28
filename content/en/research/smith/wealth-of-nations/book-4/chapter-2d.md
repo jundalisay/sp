@@ -2,12 +2,12 @@
 title: "Restoring Free Trade"
 heading: "Chapter 2d"
 description: "All those manufactured exports, without a bounty, to other European countries, could be very little affected by the freest importation of foreign goods"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 24
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

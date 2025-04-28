@@ -1,7 +1,7 @@
 ---
 title: "The Complaints of the Lower Gods"
 weight: 4
-image: "/covers/enuma.jpg"
+c: "darkslategray"
 description: "Here we simplify the texts from Babylonian Sources"
 ---
 

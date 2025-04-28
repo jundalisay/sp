@@ -2,12 +2,12 @@
 title: "Digression on the wheat trade and wheat laws: Domestic wheat market"
 heading: "Chapter 5h"
 description: "The wheat merchant's trade is composed of 4 separate branches which can be done by the same person"
-image: /covers/wn.jpg
+c: "seagreen"
 weight: 46
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-icons: /avatars/smith.png
+icon: "Adam Smith"
 --- 
 
 

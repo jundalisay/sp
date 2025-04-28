@@ -2,8 +2,7 @@
 heading: "Part 24"
 title: "Why do people believe that the numbers exist?"
 weight: 4
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Neither does he who says it exists maintain that it is the cause of anything"
 writer:

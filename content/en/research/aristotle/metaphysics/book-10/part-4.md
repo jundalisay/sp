@@ -2,8 +2,7 @@
 heading: "Part 4"
 title: "Contrariety according to Aristotle"
 weight: 6
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "Contrariety is the greatest difference between things"
 icon: "Aristotle"

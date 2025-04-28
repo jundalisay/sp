@@ -2,7 +2,7 @@
 heading: "Tablet 1"
 title: "The Rise of Tiamat"
 weight: 2
-image: "/covers/enuma.jpg"
+c: "darkslategray"
 description: "Tiamat"
 ---
 

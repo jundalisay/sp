@@ -1,7 +1,7 @@
 ---
 title: "Sumerian Sources"
 weight: 2
-# image: "/covers/enki.jpg"
+# c: "darkslategray"
 c: "firebrick"
 description: "Here we simplify the texts from Sumerian Sources"
 ---

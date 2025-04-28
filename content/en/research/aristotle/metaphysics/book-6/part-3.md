@@ -5,8 +5,7 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 weight: 6
-# image: "/covers/meta.jpg"
-# image: "/covers/meta.jpg"
+
 c: "indigo"
 description: "There are principles and causes which are generable and destructible without ever being in course of being generated or destroyed"
 icon: "Aristotle"

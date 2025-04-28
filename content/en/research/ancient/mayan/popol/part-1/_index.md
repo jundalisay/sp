@@ -4,7 +4,7 @@ title: "The Creation of the World"
 weight: 4
 # date: 2022-06-05
 description: "This narrates the creation of the world by Tepeu, Gucumatz, the Forefathers"
-image: "/covers/popol.jpg"
+c: "darkslategray"
 # date: 2020-10-31
 ---
 
