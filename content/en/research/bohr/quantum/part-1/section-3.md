@@ -3,8 +3,9 @@ heading: "Section 3"
 title: "Conditionally periodic systems"
 description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
 weight: 14
-image: "/covers/quantum.jpg"
-contributors: ['Bohr']
+c: "darkgoldenrod"
+author: "Niels Bohr"
+icon: "Niels Bohr"
 ---
 
  	

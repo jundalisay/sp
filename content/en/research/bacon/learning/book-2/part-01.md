@@ -3,7 +3,7 @@ heading: "Part 1"
 title: The History of Nature
 weight: 4
 description: "The parts of human learning have reference to the 3 parts of man’s understanding, which is the seat of learning"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

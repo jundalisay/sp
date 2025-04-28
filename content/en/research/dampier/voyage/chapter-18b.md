@@ -4,7 +4,7 @@ heading: "Chapter 18b"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 description: "Before night we saw all the coast of Sumatra, and found the errors of our Achinese"
 weight: 90
 icon: "William Dampier"

@@ -4,7 +4,7 @@ heading: "Chapter 16"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 weight: 80
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 icon: "William Dampier"

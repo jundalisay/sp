@@ -1,10 +1,11 @@
 ---
 heading: Chapter 14d
 title: "Via Lascivia"
-image: "/covers/reading.png"
+c: "deeppink"
 description: "This line is a sister line to the line of Mercury"
 weight: 79
-contributors: ['Benham']
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

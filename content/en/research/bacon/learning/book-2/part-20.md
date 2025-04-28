@@ -3,7 +3,7 @@ title: Eloquence
 heading: "Part 19"
 weight: 40
 description: "In the handling of this science, those which have written seem to me to have done as if a man, that professed to teach to write, did only exhibit fair copies of alphabets and letters joined"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

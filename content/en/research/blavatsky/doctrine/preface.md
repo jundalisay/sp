@@ -2,7 +2,7 @@
 title: "Preface"
 weight: 3
 description: "The Synthesis of Science, Religion, and Philosophy"
-image: "/covers/secret.png"
+c: "indigo"
 draft: true
 # Bohr was also a philosopher and a promoter of scientific research
 ---

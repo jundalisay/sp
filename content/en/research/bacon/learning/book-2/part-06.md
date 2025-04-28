@@ -3,7 +3,7 @@ heading: "Part 6"
 title: "The 3 Branches of Philosophy"
 weight: 14
 description: ""
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

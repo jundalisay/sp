@@ -2,7 +2,7 @@
 title: "The Impressions of the Senses and Memory"
 heading: Section 5
 description: "The Initial Impressions Come from the Memory, Imagination, and Senses"
-c: "blue"
+c: "steelblue"
 weight: 10
 writer:
   name: David Hume

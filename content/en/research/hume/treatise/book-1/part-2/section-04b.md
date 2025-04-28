@@ -2,7 +2,7 @@
 heading: "Section 4b"
 title: "Equality is Different from Infinity"
 weight: 10
-c: "blue"
+c: "steelblue"
 description: "Impressions always precede ideas. Every idea first appears as a correspondent impression"
 writer:
   name: David Hume

@@ -2,8 +2,9 @@
 heading: "Chapter 10c"
 title: "Defects in the Saturn Line "
 weight: 56
-contributors: ['Benham']
-image: "/covers/reading.png"
+author: "Benham"
+icon: "Willam Benham"
+c: "deeppink"
 description: "All defects found in the beginning of the Saturn line refer to the childhood of the subject"
 ---
 

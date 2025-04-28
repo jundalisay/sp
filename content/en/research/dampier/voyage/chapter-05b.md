@@ -5,7 +5,7 @@ weight: 24
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 description: "We were in all 108 men fit for service besides the sick"
 icon: "William Dampier"
 ---

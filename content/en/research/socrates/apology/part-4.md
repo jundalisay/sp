@@ -2,7 +2,7 @@
 title: "No Fear of Death"
 weight: 12
 description: "Apology by Plato Simplified"
-c: "blue"
+c: "steelblue"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

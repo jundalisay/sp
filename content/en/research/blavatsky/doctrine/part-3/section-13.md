@@ -3,7 +3,7 @@ title: "Forces—Modes of Motion or Intelligences?"
 heading: "Section 13"
 weight: 60
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

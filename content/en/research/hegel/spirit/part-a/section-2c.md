@@ -3,7 +3,7 @@ heading: "Section 2c"
 title: The Nature of Identity
 # title: "The Contradictoriness of the Perception of 'Things'"
 description: I am aware of the 'thing' as a one and have to keep it fixed in this true character as 'one'
-c: "blue"
+c: "steelblue"
 author: Hegel
 icon: "Hegel"
 weight: 18

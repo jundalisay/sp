@@ -3,7 +3,7 @@ title: "Our Aims"
 heading: Chapter 4c
 weight: 28
 description: "We are not trying to founding a philosophical sect, like the ancient Greeks, or some moderns, as Telesius, Patricius, and Severinus."
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 ---
 

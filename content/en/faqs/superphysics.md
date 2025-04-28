@@ -1,7 +1,7 @@
 ---
 title: "Superphysics Socratic FAQ"
 description: "FAQs about Superphysics, Socrates-style"
-c: "black"
+c: "darkslategray"
 weight: 2
 icon: "Superphysics"
 aliases:

@@ -2,7 +2,7 @@
 title: "British Political Parties"
 heading: "Essay 9"
 description: "British Political Parties"
-c: "blue"
+c: "steelblue"
 weight: 18
 writer:
   name: David Hume

@@ -2,7 +2,7 @@
 heading: "Chapter 2c"
 title: "The Properties of Time"
 # date: 2023-03-10
-weight: 8
+weight: 6
 image: /graphics/physics/spacetimeratio.png
 description: "Proper Time passes faster on a mountain because it covers more space for the same amount of Coordinate time, so Proper time adjusts accordingly"
 writer:

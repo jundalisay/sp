@@ -2,7 +2,7 @@
 heading: "Section 5"
 title: "More Objections"
 weight: 10
-c: "blue"
+c: "steelblue"
 description: "The Idea of Space is Just Made Up of Points"
 writer:
   name: David Hume

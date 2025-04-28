@@ -3,7 +3,7 @@ heading: "Essay 13"
 title: "Goodness and Goodness Of Nature"
 weight: 20
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

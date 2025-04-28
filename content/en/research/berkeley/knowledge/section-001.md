@@ -3,7 +3,7 @@ heading: "Article 1"
 title: "The Objects of Human Knowledge"
 weight: 4
 description: "Sight gives me the Ideas of Light and Colours with their several Degrees and Variations"
-c: "blue"
+c: "steelblue"
 author: "Berkeley"
 ---
 

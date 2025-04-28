@@ -2,7 +2,7 @@
 heading: Book 1
 title: "The Proficience And Advancement Of Learning, Divine And Human"
 description: "The Advancement of Learning"
-c: "blue"
+c: "steelblue"
 weight: 1
 writer:
   name: Francis Bacon

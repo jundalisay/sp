@@ -3,7 +3,7 @@ heading: Rule 10
 title: How to make the mind sharp
 weight: 14
 description: Rene Descartes 1635
-c: "blue"
+c: "steelblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

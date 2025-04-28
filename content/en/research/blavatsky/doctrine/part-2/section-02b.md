@@ -3,7 +3,7 @@ title: "The Jewish system of sacred measures"
 heading: "Section 2b"
 weight: 9
 description: "The Jewish system of sacred measures, applied to religious symbols, is the same, so far as geometrical and numerical combinations go, as those of Greece, Chaldæa and Egypt"
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The Freedom of the Press"
 heading: "Essay 2"
 description: "Great Britain enjoys the Freedom of the Press because its government is mixed"
-c: "blue"
+c: "steelblue"
 weight: 4
 writer:
   name: David Hume

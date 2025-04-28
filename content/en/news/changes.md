@@ -4,7 +4,7 @@ date: 2024-08-26
 # orig date: 2023-04-22
 weight: 2
 description: "Here are Breaking Changes in Superphysics for 2023"
-c: "black"
+c: "darkslategray"
 # showdate: true
 ---
 

@@ -4,7 +4,7 @@ weight: 2
 description: "Essence issues from being. Hence it is not immediately in and for itself but is a result of that movement. "
 author: Hegel
 icon: "Hegel"
-c: "blue"
+c: "steelblue"
 ---
 
 

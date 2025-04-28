@@ -5,7 +5,7 @@ weight: 18
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "blue"
+c: "steelblue"
 description: "'I have fought many battles of words. If I had followed the method of disputation which my adversaries desired, as you want me to do, I should have been no better than another, and the name of Protagoras would have been nowhere'"
 icon: "Socrates"
 ---

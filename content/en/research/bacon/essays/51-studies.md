@@ -3,7 +3,7 @@ heading: "Essay 51"
 title: "Studies"
 weight: 63
 description: "Expert men can execute, and perhaps judge of particulars, one by one; but the general counsels, and the plots and marshalling of affairs, come best, from those that are learned"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

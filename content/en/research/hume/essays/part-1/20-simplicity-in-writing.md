@@ -2,7 +2,7 @@
 title: "Simplicity And Refinement In Writing"
 heading: "Essay 20"
 description: "Simplicity And Refinement In Writing Simplified"
-c: "blue"
+c: "steelblue"
 weight: 44
 writer:
   name: David Hume

@@ -2,7 +2,7 @@
 title: "Justice is Svadharma"
 heading: "Chapter 3"
 weight: 14
-c: "blue"
+c: "steelblue"
 description: "The four virtues as wisdom, courage, temperance, and justice. Justice is dharma, while injustice is adharma"
 author: "Socrates"
 icon: "Socrates"

@@ -2,7 +2,7 @@
 title: "Time Space Motion"
 weight: 147
 description: "The best Key for the Analogy, or natural Science, will be easily acknowledged to be a certain celebrated Treatise of Mechanics"
-c: "blue"
+c: "steelblue"
 contributors: ['Berkeley']
 ---
 

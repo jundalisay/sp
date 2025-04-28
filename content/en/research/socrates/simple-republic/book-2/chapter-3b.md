@@ -3,7 +3,7 @@ title: "The True Lie Is Unacceptable"
 heading: Chapter 3
 weight: 10
 description: "The True Lie Is Unacceptable as It Is Pure Falsehood, But White Lies Are a Deception Which Might Be Useful Sometimes"
-c: "blue"
+c: "steelblue"
 icon: "Socrates"
 ---
 

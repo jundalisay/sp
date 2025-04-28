@@ -1,6 +1,6 @@
 ---
 title: "Science Papers"
-c: "darkslate"
+c: "darkslategray"
 description: Science Papers
 date: 2024-09-21
 draft: true

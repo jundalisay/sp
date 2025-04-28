@@ -3,7 +3,7 @@ heading: "Essay 4"
 title: "Revenge"
 weight: 10
 description: "REVENGE is a kind of wild justice -- the more man's nature runs to, the more the law should weed it out"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

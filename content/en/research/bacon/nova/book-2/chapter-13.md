@@ -3,7 +3,7 @@ title: "16: Instances of the Lamp"
 heading: Chapter 13
 weight: 48
 description: "There are 5 classes of instances of the lamp, or of immediate information"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 ---
 

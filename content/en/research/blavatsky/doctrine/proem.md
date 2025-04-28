@@ -2,7 +2,7 @@
 title: "Proem: Pages From A Pre-Historic Record"
 weight: 50
 description: "The Synthesis of Science, Religion, and Philosophy"
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

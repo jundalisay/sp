@@ -4,6 +4,6 @@ heading: Enlightened
 # date: 2022-07-24
 weight: 2
 description: "Euclid's Elements of Geometry"
-c: "blue"
+c: "steelblue"
 a: "Euclid"
 ---

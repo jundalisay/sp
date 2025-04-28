@@ -3,7 +3,7 @@ title: "Footnotes"
 heading: 
 weight: 1
 description: ""
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

@@ -3,8 +3,9 @@ heading: "Section 2"
 title: "The stationary states of a perturbed periodic system"
 description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
 weight: 4
-image: "/covers/quantum.jpg"
-contributors: ['Bohr']
+c: "darkgoldenrod"
+author: "Niels Bohr"
+icon: "Niels Bohr"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 8
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "blue"
+c: "steelblue"
 description: "When we entered, we found Protagoras taking a walk in the cloister"
 icon: "Socrates"
 ---

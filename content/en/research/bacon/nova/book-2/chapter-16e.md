@@ -3,7 +3,7 @@ title: "The Motion of Excitement"
 heading: Chapter 16c
 weight: 68
 description: "Wrestling instances or instances of predominance"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

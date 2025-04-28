@@ -2,7 +2,7 @@
 title: "The error in the search of causes of concrete things which are really infinite"
 heading: Chapter 13
 weight: 24
-c: "blue"
+c: "steelblue"
 description: "In the divine nature, both religion and philosophy acknowledges goodness in perfection, science or providence comprehending all things, and absolute sovereignty or kingdom"
 icon: "Francis Bacon"
 writer:

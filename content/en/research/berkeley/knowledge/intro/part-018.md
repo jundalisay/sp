@@ -2,7 +2,7 @@
 title: "The Importance of Language"
 weight: 7
 description: "Reason is the only Source of an Opinion so universally received"
-c: "blue"
+c: "steelblue"
 contributors: ['Berkeley']
 ---
 

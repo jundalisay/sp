@@ -2,7 +2,7 @@
 title: "Introduction"
 weight: 4
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

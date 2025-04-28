@@ -2,7 +2,7 @@
 title: "Fortune and advancement"
 weight: 24
 description: "The beneficence of learning is not so confined to give fortune only to states and commonwealths, as it doth not likewise give fortune to particular persons"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

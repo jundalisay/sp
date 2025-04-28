@@ -2,7 +2,7 @@
 title: "The Faults of Learned Men"
 weight: 9
 description: "Learned men themselves grow discredit into learning"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

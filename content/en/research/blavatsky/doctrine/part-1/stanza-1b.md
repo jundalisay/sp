@@ -3,7 +3,7 @@ heading: Section 2
 title: "Commentaries On The 7 Stanzas And Their Terms"
 weight: 7
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

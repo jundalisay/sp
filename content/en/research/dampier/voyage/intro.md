@@ -5,7 +5,7 @@ weight: 10
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 description: "From Captain Tristian, Dampier was transferred to another Frenchman, Captain Archemboe (probably Archambaut) but soon grew 'weary of living with the French.'"
 icon: "William Dampier"
 ---

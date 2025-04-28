@@ -2,7 +2,7 @@
 heading: "Chapter 3"
 title: "The Six Problems"
 weight: 8
-c: "blue"
+c: "steelblue"
 description: "The Six Problems"
 draft: true
 ---

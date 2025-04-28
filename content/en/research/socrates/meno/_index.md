@@ -1,6 +1,7 @@
 ---
 title: "Meno by Plato Simplified"
 weight: 2
+linkTitle: "Meno"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

@@ -4,7 +4,7 @@ heading: "Chapter 14"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 weight: 72
 description: "On January 14, 1687 at 3pm we sailed from the river of Mindanao, designing to cruise before Manila"
 icon: "William Dampier"

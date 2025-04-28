@@ -2,7 +2,7 @@
 heading: "Section 4b"
 title: "The Process of Life"
 description: For us or implicitly, the object, which is the negative element for self-consciousness, has on its side returned into itself
-c: "blue"
+c: "steelblue"
 author: Hegel
 weight: 6
 ---

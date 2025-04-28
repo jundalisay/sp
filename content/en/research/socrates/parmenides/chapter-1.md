@@ -12,7 +12,19 @@ icon: "/icons/Parmenides.jpg"
 
 
 
-PERSONS OF THE DIALOGUE: Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zeno, Parmenides, Aristoteles.
+PERSONS OF THE DIALOGUE | 
+--- | ---
+Cephalus | ![Avatar](/icons/Cephalus.jpg)
+Adeimantus | ![Avatar](/icons/Adeimantus.jpg)
+Glaucon | ![Avatar](/icons/Glaucon.jpg)
+Antiphon | ![Avatar](/icons/Antiphon.jpg)
+Pythodorus | ![Avatar](/icons/Pythodorus.jpg)
+Socrates | ![Avatar](/icons/Socrates.jpg)
+Zeno |  ![Avatar](/icons/Zeno.jpg)
+Parmenides | ![Avatar](/icons/Parmenides.jpg)
+Aristoteles |  ![Avatar](/icons/Aristoteles.jpg)
+
+
 
 Cephalus rehearses a dialogue which is supposed to have been narrated in his presence by Antiphon, the half-brother of Adeimantus and Glaucon, to certain Clazomenians.
 
@@ -54,6 +66,7 @@ Socrates, then was a very young man. He came to see them, and many others with h
 These Zeno himself read to them in the absence of Parmenides. He had very nearly finished when Pythodorus entered with Parmenides and Aristoteles.<!--  who was afterwards one of the Thirty, and heard the little that remained of the dialogue. Pythodorus had heard Zeno repeat them before. -->
 {{< /r >}}
 
+
 {{< l a="Socrates" >}}
 What do you mean, Zeno? 
 
@@ -89,8 +102,13 @@ The truth is, that these writings of mine were meant to protect the arguments of
 {{< /r >}}
 
 {{< r a="Zeno" >}}
-My answer is addressed to the partisans of the many, whose attack I return with interest by retorting upon them that their hypothesis of the being of many, if carried out, appears to be still more ridiculous than the hypothesis of the being of one. Zeal for my master led me to write the book in the days of my youth, but some one stole the copy; and therefore I had no choice whether it should be published or not; the motive, however, of writing, was not the ambition of an elder man, but the pugnacity of a young one. This you do not seem to see, Socrates; though in other respects, as I was saying, your notion is a very just one.
+My answer is addressed to the partisans of the many, whose attack I return with interest by retorting upon them that their hypothesis of the being of many, if carried out, appears to be still more ridiculous than the hypothesis of the being of one.
+
+Zeal for my master led me to write the book in the days of my youth, but some one stole the copy; and therefore I had no choice whether it should be published or not; the motive, however, of writing, was not the ambition of an elder man, but the pugnacity of a young one.
+
+This you do not seem to see, Socrates; though in other respects, as I was saying, your notion is a very just one.
 {{< /r >}}
+
 
 {{< l a="Socrates" >}}
 I understand.  But tell me, Zeno, don't you think that there is an idea of likeness in itself, and another idea of unlikeness?
@@ -114,7 +132,9 @@ If a person were to show that all is one by partaking of one, and at the same ti
 
 But if he were to show me that the absolute one was many, or the absolute many one, I should be truly amazed.
 
-And so of all the rest. I should be surprised to hear that the natures or ideas themselves had these opposite qualities; but not if a person wanted to prove of me that I was many and also one. When he wanted to show that I was many he would say that I have a right and a left side, and a front and a back, and an upper and a lower half, for I cannot deny that I partake of multitude; when, on the other hand, he wants to prove that I am one, he will say, that we who are here assembled are seven, and that I am one and partake of the one.
+And so of all the rest. I should be surprised to hear that the natures or ideas themselves had these opposite qualities; but not if a person wanted to prove of me that I was many and also one.
+
+When he wanted to show that I was many he would say that I have a right and a left side, and a front and a back, and an upper and a lower half, for I cannot deny that I partake of multitude; when, on the other hand, he wants to prove that I am one, he will say, that we who are here assembled are seven, and that I am one and partake of the one.
 {{< /l >}}
 
 

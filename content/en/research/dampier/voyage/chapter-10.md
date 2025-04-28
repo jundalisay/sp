@@ -5,7 +5,7 @@ weight: 54
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 description: "We had previously resolved to go to the East Indies. But after accounting our voyage to Guam, and being unable to find provisions in Guam, most of our men were almost daunted at the thoughts going to the East Indies of it"
 icon: "William Dampier"
 ---

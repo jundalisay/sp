@@ -19,16 +19,10 @@ He did not know at first, and he does not know now, what is the side of a shape 
 But then he thought that he knew, and answered confidently as if he knew, and had no difficulty. Now he has a difficulty, and neither knows nor fancies that he knows.
 
 He is better off in knowing his ignorance.
-{{< /l >}}
 
+If we have made him doubt, and given him the 'torpedo's shock,' then we would have assisted him in the discovery of the truth. 
 
-SOCRATES: If we have made him doubt, and given him the 'torpedo's shock,' have we done him any harm?
-
-MENO: I think not.
-
-
-{{< l a="Socrates" >}}
-We would have assisted him in the discovery of the truth. Now, he will wish to remedy his ignorance. 
+He will wish to remedy his ignorance. 
 
 But then he would have been ready to tell everyone again and again that the double space should have a double side.
 
@@ -36,7 +30,9 @@ But do you suppose that he would ever have enquired into or learned what he fanc
 {{< /l >}}
 
 
-MENO: I think not, Socrates.
+{{< r a="Meno" >}}
+I think not, Socrates.
+{{< /r >}}
 
 
 {{< l a="Socrates" >}}
@@ -81,17 +77,15 @@ Yes. I see.
 
 {{< l a="Socrates" >}}
 Look and see how much this space is. Each interior line has cut off half of the 4 spaces
+
+How many spaces are there in this section?
 {{< /l >}}
-
-
-BOY: Yes.
-
-SOCRATES: And how many spaces are there in this section?
 
 
 {{< r a="Boy" >}}
 Four.
 {{< /r >}}
+
 
 SOCRATES: And how many in this?
 

@@ -2,7 +2,7 @@
 heading: "Section 4d"
 title: "Independence and Dependence of Self-Consciousness: Lordship and Bondage"
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "blue"
+c: "steelblue"
 author: Hegel
 weight: 10
 ---

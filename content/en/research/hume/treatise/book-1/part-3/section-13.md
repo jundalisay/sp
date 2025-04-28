@@ -2,7 +2,7 @@
 title: "Unphilosophical Probability"
 heading: Section 13
 description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
-c: "blue"
+c: "steelblue"
 weight: 26
 writer:
   name: David Hume

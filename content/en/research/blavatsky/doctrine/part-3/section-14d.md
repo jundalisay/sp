@@ -3,7 +3,7 @@ title: "Leibnitz"
 heading: "Section 14d"
 weight: 67
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

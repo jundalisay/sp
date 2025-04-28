@@ -3,7 +3,7 @@ title: Challenging the Politicians, Poets, and Artisans
 # title: "Meletus and Anytus and Lycon
 weight: 4
 description: "I went to one man after another, being conscious of the enmity which I provoked. I lamented and feared this: but necessity was laid on me"
-c: "blue"
+c: "steelblue"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

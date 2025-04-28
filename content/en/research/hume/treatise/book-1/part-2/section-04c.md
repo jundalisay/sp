@@ -2,7 +2,7 @@
 heading: "Section 4c"
 title: "Definition Of A Straight Line"
 weight: 12
-c: "blue"
+c: "steelblue"
 description: "Impressions always precede ideas. Every idea first appears as a correspondent impression"
 writer:
   name: David Hume

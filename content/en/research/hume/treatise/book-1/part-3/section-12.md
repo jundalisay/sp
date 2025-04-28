@@ -2,7 +2,7 @@
 title: "The Probability of Causes"
 heading: Section 12
 description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
-c: "blue"
+c: "steelblue"
 weight: 24
 writer:
   name: David Hume

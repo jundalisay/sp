@@ -4,8 +4,9 @@ title: "General principles"
 description: "The quantum theory of line-spectra rests upon the following fundamental assumptions"
 weight: 4
 # date: 2023-02-01
-image: "/covers/quantum.jpg"
-contributors: ['Bohr']
+c: "darkgoldenrod"
+author: "Niels Bohr"
+icon: "Niels Bohr"
 ---
 
 

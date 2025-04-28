@@ -5,7 +5,7 @@ writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
 weight: 58
-c: "black"
+c: "darkslategray"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 icon: "William Dampier"
 ---

@@ -25,7 +25,9 @@ Homer says that every 9th year, Minos went to converse with his Olympian sire, a
 {{< /l  >}}
 
 
-CLEINIAS: Yes, that is our tradition. There was Rhadamanthus, a brother of his, with whose name you are familiar.
+{{< r a="Cleinias" >}}
+Yes, that is our tradition. There was Rhadamanthus, a brother of his, with whose name you are familiar.
+{{< /r >}}
 
 He was the justest of men. We Cretans believe that he earned this reputation from his righteous administration of justice when he was alive.
 
@@ -47,8 +49,8 @@ CLEINIAS: Very good, indeed; and still better when we see them; let us move on c
 Why did the law ordain that you shall have common meals and gymnastic exercises, and wear arms?
 {{< /l >}}
 
-
-CLEINIAS: The aim of our institutions is easily intelligible to any one.
+{{< r a="Cleinias" >}}
+The aim of our institutions is easily intelligible to any one.
 
 Look at the character of our country: Crete is not like Thessaly, a large plain.
 
@@ -69,7 +71,7 @@ If in war there ought to be common meals and certain persons regularly appointed
 For what men in general term peace would be said by him to be only a name; in reality every city is in a natural state of war with every other, not indeed proclaimed by heralds, but everlasting. 
 
 If you look closely, you will find that this was the intention of the Cretan legislator; all institutions, private as well as public, were arranged by him with a view to war; in giving them he was under the impression that no possessions or institutions are of any value to him who is defeated in battle; for all the good things of the conquered pass into the hands of the conquerors.
-
+{{< /r >}}
 
 {{< l a="Athenian" >}}
 You were thoroughly trained in the Cretan institutions

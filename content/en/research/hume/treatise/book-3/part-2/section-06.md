@@ -2,7 +2,7 @@
 heading: Section 6
 title: "More Reflections On Justice And Injustice"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 # date: 2015-x-x
 weight: 56
 writer:

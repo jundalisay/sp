@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 14"
 title: "The Line of Mars"
-image: "/covers/reading.png"
+c: "deeppink"
 description: "The line of Mars rises on the lower Mount of Mars and runs inside of the Life line and very close beside it"
 weight: 72
-contributors: ['Benham']
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

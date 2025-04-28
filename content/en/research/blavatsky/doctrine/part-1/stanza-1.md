@@ -3,7 +3,7 @@ heading: Stanza 1
 title: "Lines "
 weight: 6
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

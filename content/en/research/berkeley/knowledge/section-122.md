@@ -2,7 +2,7 @@
 title: "Numbers and Extension"
 weight: 167
 description: "In Arithmetic therefore we regard not the Things but the Signs"
-c: "blue"
+c: "steelblue"
 contributors: ['Berkeley']
 ---
 

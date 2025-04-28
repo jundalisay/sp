@@ -5,7 +5,7 @@ weight: 12
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "blue"
+c: "steelblue"
 description: "Once upon a time there were gods only, and no mortal creatures"
 icon: "Socrates"
 ---

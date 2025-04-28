@@ -2,7 +2,7 @@
 title: "Convents and Orphanages as Population Control"
 heading: "Essay 11b"
 description: "Convents and Orphanages were thought of as Population Control"
-c: "blue"
+c: "steelblue"
 weight: 26
 writer:
   name: David Hume

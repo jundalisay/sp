@@ -2,7 +2,7 @@
 heading: "Section 2i"
 title: "The Inner Realm"
 description: This true being of things does not exist immediately for consciousness.
-c: "blue"
+c: "steelblue"
 author: Hegel
 icon: "Hegel"
 weight: 30

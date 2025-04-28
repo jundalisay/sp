@@ -1,10 +1,11 @@
 ---
 heading: Chapter 14c
 title: "Line of Intuition"
-image: "/covers/reading.png"
+c: "deeppink"
 description: "The line of Intuition lies at the side of the hand near the percussion"
 weight: 76
-contributors: ['Benham']
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

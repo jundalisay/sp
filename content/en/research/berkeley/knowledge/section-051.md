@@ -3,7 +3,7 @@ heading: "Article 51"
 title: "What is the Cause?"
 weight: 57
 description: "Some of the Schoolmen think that there are no Corporeal Causes."
-c: "blue"
+c: "steelblue"
 author: "Berkeley"
 ---
 

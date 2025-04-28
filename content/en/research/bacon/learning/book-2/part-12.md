@@ -3,7 +3,7 @@ title: The knowledge of the faculties of the mind
 heading: "Part 12"
 weight: 26
 description: "The knowledge which respects the faculties of the mind of man is of 2 kinds"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

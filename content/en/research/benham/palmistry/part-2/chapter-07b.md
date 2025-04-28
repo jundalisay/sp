@@ -2,10 +2,11 @@
 title: "How to Read the Heart Line"
 heading: "Chapter 7b "
 weight: 40
-image: "/covers/reading.png"
+c: "deeppink"
 description: "Classifying the subject's type is the first step."
 icon: "/avatars/blank.png"
-contributors: ['Benham']
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

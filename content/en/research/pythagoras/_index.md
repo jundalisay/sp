@@ -3,7 +3,7 @@ title: "Pythagoras"
 heading: "Enlightened"
 description: "Pythagoras of Samos was an ancient Ionian Greek philosopher whose teachings influenced Plato, Aristotle, and subsequently Western philosophy"
 a: "Pythagoras"
-c: "blue"
+c: "steelblue"
 weight: 169
 # date: 2022-05-10
 ---

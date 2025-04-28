@@ -3,7 +3,7 @@ title: "The Rules for Guardians"
 heading: Chapter 5
 weight: 16
 description: "The guardians should have common children, and not have private property nor riches"
-c: "blue"
+c: "steelblue"
 icon: "Socrates"
 ---
 

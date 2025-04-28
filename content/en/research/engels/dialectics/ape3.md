@@ -8,8 +8,8 @@ description: "Our domestic animals are more highly developed thanks to their ass
 writer:
   name: Friedrich Engels
   url: https://en.wikipedia.org/wiki/Friedrich_Engels
-image: "/covers/nature.jpg"
-icon: /icons/engels.png
+c: "firebrick"
+icon: "Engels"
 ---
 
 

@@ -3,7 +3,7 @@ title: "The Idea of Cyclic Evolution"
 heading: "Section 11b"
 weight: 37
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

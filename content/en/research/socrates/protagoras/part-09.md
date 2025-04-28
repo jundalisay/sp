@@ -5,7 +5,7 @@ weight: 20
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "blue"
+c: "steelblue"
 description: "'As I was rising from my seat, Callias seized me by the right hand. In his left hand caught hold of this old cloak of mine'"
 icon: "Socrates"
 ---

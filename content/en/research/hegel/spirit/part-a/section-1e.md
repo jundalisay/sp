@@ -3,7 +3,7 @@ heading: "Section 1e"
 title: "The Concrete Experience of Perception"
 # Sense Certainty
 description: This certainty wholly refuses to come out if we direct its attention to a Now that is night, or an I to whom it is night. We will go to it and let ourselves point out the Now that is asserted.
-c: "blue"
+c: "steelblue"
 author: Hegel
 icon: "Hegel"
 weight: 12

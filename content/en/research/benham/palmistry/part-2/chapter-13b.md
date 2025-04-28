@@ -3,8 +3,9 @@ heading: "Chapter 13b"
 title: "The Girdle of Venus with Other Lines"
 description: "In every case, the Girdle will indicate some degree of nervousness and some degree of ardor"
 weight: 70
-contributors: ['Benham']
-image: "/covers/reading.png"
+author: "Benham"
+icon: "Willam Benham"
+c: "deeppink"
 ---
 
 

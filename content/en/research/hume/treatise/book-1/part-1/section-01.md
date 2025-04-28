@@ -2,7 +2,7 @@
 heading: "Section 1"
 title: "The Origin of Our Ideas"
 weight: 2
-c: "blue"
+c: "steelblue"
 description: "All Simple Ideas Initially Come from Simple Impressions as Sensory Perceptions and Feelings"
 writer:
   name: David Hume

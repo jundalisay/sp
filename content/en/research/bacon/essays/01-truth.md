@@ -4,7 +4,7 @@ title: The Truth
 # title: "The 3 True Limitations of Human Knowledge"
 weight: 4
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

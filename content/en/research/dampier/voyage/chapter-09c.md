@@ -5,7 +5,7 @@ weight: 52
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 description: "The keys or islands of Chametly are about 16 or 18 leagues to the eastward of Cape Corrientes"
 icon: "William Dampier"
 ---

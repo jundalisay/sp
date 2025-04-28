@@ -3,7 +3,7 @@ title: "Commonplace"
 heading: ""
 weight: 7
 description: ""
-:c: "blue"
+:c: "steelblue"
 ---
 
 

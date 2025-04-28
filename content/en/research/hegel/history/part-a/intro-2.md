@@ -1,7 +1,7 @@
 ---
 title: CONCEPT OF THE HISTORY OF PHILOSOPHY
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "blue"
+c: "steelblue"
 author: Hegel
 icon: "Hegel"
 weight: 6

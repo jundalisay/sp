@@ -2,7 +2,7 @@
 title: "The Populousness Of Ancient Nations"
 heading: "Essay 11"
 description: "The population was fewer during the ancient times"
-c: "blue"
+c: "steelblue"
 weight: 24
 writer:
   name: David Hume

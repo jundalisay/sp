@@ -2,7 +2,7 @@
 title: "The Nature of Science"
 heading: "Chapter 4"
 weight: 16
-c: "blue"
+c: "steelblue"
 description: "The word 'science' is no longer to be used absolutely. Instead, it has a qualified object"
 author: "Socrates"
 icon: "Socrates"

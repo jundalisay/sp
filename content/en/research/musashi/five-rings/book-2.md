@@ -2,7 +2,7 @@
 heading: Book 2
 title: "The Water Book"
 description: "This Water Book explains methods of victory as the long-sword form of the Ichi school"
-c: "blue"
+c: "steelblue"
 icon: "Musashi"
 weight: 6
 ---

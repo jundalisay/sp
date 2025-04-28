@@ -2,8 +2,9 @@
 title: "The Saturn Line Examples"
 heading: "Chapter 10b"
 weight: 55
-contributors: ['Benham']
-image: "/covers/reading.png"
+author: "Benham"
+icon: "Willam Benham"
+c: "deeppink"
 description: "The Saturn line is frequently called the line of Fate."
 ---
 

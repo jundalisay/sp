@@ -3,7 +3,7 @@ title: "The Middle Class"
 # The Middle Station Of Life
 heading: "Essay 3"
 description: "The middle class is the happiest of all the classes"
-c: "blue"
+c: "steelblue"
 weight: 8
 icon: "David Hume"
 writer:

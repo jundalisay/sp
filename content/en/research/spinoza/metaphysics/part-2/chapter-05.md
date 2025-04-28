@@ -1,7 +1,7 @@
 ---
 heading: Chapter 5
 title: "The Simplicity of God"
-c: "blue"
+c: "steelblue"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

@@ -2,7 +2,7 @@
 title: "The Nature of Probability"
 heading: Section 1b
 description: "The Skeptical and Other Systems of Philosophy Simplified"
-c: "blue"
+c: "steelblue"
 weight: 4
 writer:
   name: David Hume

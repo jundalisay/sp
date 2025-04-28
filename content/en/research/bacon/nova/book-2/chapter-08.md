@@ -3,7 +3,7 @@ title: "4: Twilight or Clandestine instances"
 heading: Chapter 8
 weight: 24
 description: "These are opposed to the conspicuous instances"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 ---
 

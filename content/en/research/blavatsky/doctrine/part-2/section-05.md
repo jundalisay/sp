@@ -3,7 +3,7 @@ title: "The Hidden Deity, Its Symbols and Glyphs"
 heading: "Section 5"
 weight: 20
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

@@ -3,8 +3,9 @@ heading: "Section 2"
 title: "Systems of one degree of freedom"
 description: "Systems of a single degree of freedom shows the simplest illustration of the principles in section 1"
 weight: 8
-image: "/covers/quantum.jpg"
-contributors: ['Bohr']
+c: "darkgoldenrod"
+author: "Niels Bohr"
+icon: "Niels Bohr"
 ---
 
 

@@ -5,7 +5,7 @@ writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
 description: "Nothing of moment happened during the passage to the Straits of Malacca. The ship arrived at Acheen [Aceh] about the beginning of March"
-c: "black"
+c: "darkslategray"
 date: 2022-11-30
 ---
 

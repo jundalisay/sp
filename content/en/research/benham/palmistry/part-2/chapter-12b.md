@@ -3,8 +3,9 @@ heading: "Chapter 12b"
 title: "The Length of the Mercuty Line"
 description: "The length of the Mercury line adds to the power of the line and its usefulness."
 weight: 66
-contributors: ['Benham']
-image: "/covers/reading.png"
+author: "Benham"
+icon: "Willam Benham"
+c: "deeppink"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: Section 2
 title: Application of these Notions (Bestimmungen) to the History of Philosophy
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "blue"
+c: "steelblue"
 author: Hegel
 icon: "Hegel"
 weight: 10

@@ -2,7 +2,7 @@
 heading: "Section 7"
 title: "Abstract Ideas"
 weight: 12
-c: "blue"
+c: "steelblue"
 description: "Are abstract or general ideas conceived by the mind in a general or particular way?"
 writer:
   name: David Hume

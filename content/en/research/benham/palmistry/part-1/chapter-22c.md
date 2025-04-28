@@ -3,8 +3,9 @@ heading: "Chapter 22c"
 title: "The Mercurian Characteristics"
 description: "The Mercurian is the strongest in the business world"
 weight: 119
-image: "/covers/reading.png"
-contributors: ['Benham']
+c: "deeppink"
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

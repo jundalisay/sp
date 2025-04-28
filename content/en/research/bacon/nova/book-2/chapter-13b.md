@@ -3,7 +3,7 @@ title: "17: Citing or Invoking Instances"
 heading: Chapter 13b
 weight: 49
 description: "These cite those things to appear, which have not yet appeared"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 ---
 

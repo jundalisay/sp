@@ -3,7 +3,7 @@ title: "Proximate Instances wanting the Nature of Heat"
 heading: Chapter 1
 weight: 8
 description: ""
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

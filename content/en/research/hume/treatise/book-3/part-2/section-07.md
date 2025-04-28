@@ -2,7 +2,7 @@
 heading: Section 7
 title: "The Origin of Government"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 # date: 2015-x-x
 weight: 68
 writer:

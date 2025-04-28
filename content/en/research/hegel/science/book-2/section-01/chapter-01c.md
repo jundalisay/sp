@@ -5,7 +5,7 @@ weight: 6
 description: "Essence issues from being. Hence it is not immediately in and for itself but is a result of that movement. "
 author: Hegel
 icon: "Hegel"
-c: "blue"
+c: "steelblue"
 ---
 
 {{< n n="We replace 'being' with existence and 'instance' with time." >}} 

@@ -2,7 +2,7 @@
 heading: "Section 2h"
 title: "Force and the play of Forces"
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "blue"
+c: "steelblue"
 author: Hegel
 icon: "Hegel"
 weight: 28

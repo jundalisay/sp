@@ -2,7 +2,7 @@
 title: "Essential Subjects: Astronomy"
 heading: "Chapter 3 of Book 7"
 weight: 1
-c: "blue"
+c: "steelblue"
 description: "The study of physics and astronomy can augment the study of geometry by finding patterns in the heavens [This was later proven by Isaac Newton who invented Calculus and Physics from the observation of heavenly bodies]. The movement of heavenly bodies are relative to each other and not exact [This was proven by Einstein's General Relativity]"
 author: "Socrates"
 icon: "Socrates"

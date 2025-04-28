@@ -2,7 +2,7 @@
 title: "The Balance Of Trade"
 heading: "Essay 5"
 description: "The Balance Of Trade Simplified"
-c: "blue"
+c: "steelblue"
 weight: 12
 writer:
   name: David Hume

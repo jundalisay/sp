@@ -3,7 +3,7 @@ title: "Kwan-Shi-Yin and Kwan-Yin"
 heading: "Section 15"
 weight: 55
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

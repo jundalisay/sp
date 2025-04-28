@@ -4,7 +4,7 @@ heading: "Chapter 18"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 description: "On May 15, 1688 about 4PM, we left Nicobar Island going towards Achin with 8 men of us in company"
 weight: 90
 icon: "William Dampier"

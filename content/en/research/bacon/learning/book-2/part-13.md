@@ -3,7 +3,7 @@ heading: "Part 13"
 title: The invention of speech or argument
 weight: 28
 description: "Money will fetch all other commodities. Likewise, this knowledge should purchase all the rest. Its lack is like the lack of ready money"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

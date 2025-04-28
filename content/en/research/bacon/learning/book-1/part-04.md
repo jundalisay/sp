@@ -3,7 +3,7 @@ heading: "Part 4"
 title: "The 3 Diseases in Learning"
 weight: 10
 description: "Errors and vanities have intervened in the studies of the learned"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

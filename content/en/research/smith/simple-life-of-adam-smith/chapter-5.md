@@ -2,7 +2,7 @@
 heading: "Chapter 5"
 title: "Glasgow Professor"
 # date: 2015-09-18
-c: "black"
+c: "darkslategray"
 description: "In 1750, Smith was appointed as Professor of Logic in Glasgow College. He began 13 years of active academic work"
 author: Rae
 weight: 10

@@ -1,7 +1,7 @@
 ---
 title: "Supersociology FAQ"
 date: 2024-07-17
-c: "black"
+c: "darkslategray"
 description: "FAQ on Supersociology"
 icon: "Juan"
 icon: "Supersociology"

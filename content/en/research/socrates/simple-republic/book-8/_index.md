@@ -4,6 +4,6 @@ linkTitle: "Book 8"
 heading: "Book 8"
 weight: 16
 author: "Socrates"
-c: "blue"
+c: "steelblue"
 description: "Socrates explains the four Cycles as aristocracy, oligarchy, democracy, and tyranny"
 ---

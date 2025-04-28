@@ -2,7 +2,7 @@
 title: "Book 1"
 heading: Part 1
 description: "Research on David Hume"
-c: "blue"
+c: "steelblue"
 weight: 4
 writer:
   name: David Hume

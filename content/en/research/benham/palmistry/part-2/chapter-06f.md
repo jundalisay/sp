@@ -3,9 +3,10 @@ heading: "Chapter 6f"
 title: "The Color and Defects of the Head line"
 # date: 2021-11-20
 weight: 36
-image: "/covers/reading.png"
+c: "deeppink"
 description: "The color of the Head line must always be noted"
-contributors: ['Benham']
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

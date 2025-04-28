@@ -3,7 +3,7 @@ title: "Bacon's System"
 heading: Chapter 5
 weight: 30
 description: ""
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 ---
 

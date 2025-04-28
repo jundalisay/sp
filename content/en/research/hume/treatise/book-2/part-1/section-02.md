@@ -1,7 +1,7 @@
 ---
 title: "The Objects and Causes of Pride and Humility"
 description: "Pride and humility are simple and uniform impressions"
-c: "blue"
+c: "steelblue"
 weight: 4
 writer:
   name: David Hume

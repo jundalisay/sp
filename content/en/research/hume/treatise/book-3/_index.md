@@ -2,7 +2,7 @@
 heading: "Book 3"
 title: "Morals"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 weight: 6
 writer:
   name: David Hume

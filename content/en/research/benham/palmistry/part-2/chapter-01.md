@@ -3,8 +3,9 @@ heading: "Chapter 1"
 title: "The Life Map"
 description: "The soul contains in itself the event that shall presently befall it. The event is only the actualizing of its thought"
 weight: 2
-contributors: ['Benham']
-image: "/covers/reading.png"
+author: "Benham"
+icon: "Willam Benham"
+c: "deeppink"
 ---
 
 

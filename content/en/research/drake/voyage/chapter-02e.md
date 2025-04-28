@@ -4,7 +4,7 @@ title: "Strange Rituals"
 # date: 2022-07-26
 weight: 20
 description: "Francis Drake"
-image: "/covers/voyage.jpg"
+c: "darkslategray"
 author: Francis Pretty, One Of Drake's Gentlemen At Arms
 ---
 

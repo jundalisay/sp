@@ -2,7 +2,7 @@
 heading: Section 3
 title: "FROM WHERE THESE OBJECTS AND CAUSES ARE DERIVED"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 weight: 4
 writer:
   name: David Hume

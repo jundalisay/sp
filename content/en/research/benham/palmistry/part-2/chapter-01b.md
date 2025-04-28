@@ -3,8 +3,9 @@ heading: "Chapter 1b"
 title: "The Dual Mind"
 description: "The second basis is that the dual mind exists and operates as has been stated previously."
 weight: 3
-contributors: ['Benham']
-image: "/covers/reading.png"
+author: "Benham"
+icon: "Willam Benham"
+c: "deeppink"
 ---
 
 

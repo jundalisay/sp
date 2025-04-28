@@ -3,7 +3,7 @@ title: "The Mundane Egg"
 heading: "Section 6"
 weight: 24
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

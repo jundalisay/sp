@@ -3,7 +3,7 @@ title: "Action and Reaction"
 heading: "Part 4"
 weight: 9
 description: ""
-:c: "blue"
+:c: "steelblue"
 author: "George Berkeley"
 icon: "George Berkeley"
 ---

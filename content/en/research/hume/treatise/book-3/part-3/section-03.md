@@ -2,7 +2,7 @@
 heading: Section 3
 title: "Goodness And Benevolence"
 description: "The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 # date: 2015-x-x
 weight: 16
 writer:

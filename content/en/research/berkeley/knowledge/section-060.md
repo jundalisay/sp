@@ -3,7 +3,7 @@ heading: "Article 60"
 title: "The Motives of Plants and Animals"
 weight: 67
 description: "If a Spirit immediately produces every Effect by a Fiat, or Act of his Will, then all that is fine and artificial in the Works, whether of Man or Nature, are made in vain"
-c: "blue"
+c: "steelblue"
 author: "Berkeley"
 ---
 

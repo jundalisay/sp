@@ -3,7 +3,7 @@ heading: "Article 26"
 title: "The Succession of Ideas"
 weight: 27
 description: "We perceive a continual Succession of Ideas, some are anew excited, others are changed or totally disappear"
-c: "blue"
+c: "steelblue"
 author: "Berkeley"
 ---
 

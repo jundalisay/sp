@@ -2,7 +2,7 @@
 title: "Rules in Judging Causes and Effects"
 heading: Section 15
 description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
-c: "blue"
+c: "steelblue"
 weight: 30
 writer:
   name: David Hume

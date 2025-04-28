@@ -2,7 +2,7 @@
 title: "The Platonist"
 heading: "Essay 17"
 description: "Some philosophers are surprised that a man differs so widely from himself at different times"
-c: "blue"
+c: "steelblue"
 weight: 36
 writer:
   name: David Hume

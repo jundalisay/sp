@@ -5,7 +5,7 @@ weight: 22
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 description: "I saw a few flamingos, which is a sort of large fowl"
 icon: "William Dampier"
 ---

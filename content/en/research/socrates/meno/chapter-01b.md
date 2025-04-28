@@ -21,18 +21,24 @@ I would define virtue as the power of governing mankind.
 
 
 {{< l a="Socrates" >}}
-Does this definition of virtue include all virtue? Is virtue the same in a child and in a slave, Meno? Can the child govern his father, or the slave his master; and would he who governed be any longer a slave?
+Does this definition of virtue include all virtue? Is virtue the same in a child and in a slave, Meno? 
+
+Can the child govern his father, or the slave his master; and would he who governed be any longer a slave?
 {{< /l >}}
 
+{{< r a="Meno" >}}
+I think not, Socrates.
+{{< /r >}}
 
-MENO: I think not, Socrates.
 
 {{< l a="Socrates" >}}
 There would be small reason in that. Yet once more, fair friend; according to you, virtue is 'the power of governing;' but do you not add 'justly and not unjustly'?
 {{< /l >}}
 
 
-MENO: Yes, Socrates; I agree there; for justice is virtue.
+{{< r a="Meno" >}}
+Yes, Socrates; I agree there; for justice is virtue.
+{{< /r >}}
 
 
 {{< l a="Socrates" >}}
@@ -42,15 +48,25 @@ I mean as I might say about anything; that a round, for example, is 'a figure' a
 {{< /l >}}
 
 
-MENO: Quite right; and that is just what I am saying about virtue—that there are other virtues as well as justice.
+{{< r a="Meno" >}}
+Quite right; and that is just what I am saying about virtue—that there are other virtues as well as justice.
+{{< /r >}}
 
 SOCRATES: What are they? tell me the names of them, as I would tell you the names of the other figures if you asked me.
 
-MENO: Courage and temperance and wisdom and magnanimity are virtues; and there are many others.
+
+{{< r a="Meno" >}}
+Courage and temperance and wisdom and magnanimity are virtues; and there are many others.
+{{< /r >}}
+
 
 SOCRATES: Yes, Meno; and again we are in the same case: in searching after one virtue we have found many, though not in the same way as before; but we have been unable to find the common virtue which runs through them all.
 
-MENO: Why, Socrates, even now I am not able to follow you in the attempt to get at one common notion of virtue as of other things.
+
+{{< r a="Meno" >}}
+Even now I am not able to follow you in the attempt to get at one common notion of virtue as of other things.
+{{< /r >}}
+
 
 {{< l a="Socrates" >}}
 No wonder; but I will try to get nearer if I can, for you know that all things have a common notion. Suppose now that some one asked you the question which I asked before: Meno, he would say, what is figure? 
@@ -121,14 +137,6 @@ Could you not answer that question, Meno?
 {{< /l >}}
 
 
-MENO: I would rather that you should answer, Socrates.
-
-SOCRATES: Shall I indulge you?
-
-MENO: By all means.
-
-SOCRATES: And then you will tell me about virtue?
-
-MENO: I will.
-
-SOCRATES: Then I must do my best, for there is a prize to be won.
+{{< r a="Meno" >}}
+I would rather that you should answer, Socrates.
+{{< /r >}}

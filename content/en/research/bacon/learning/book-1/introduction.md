@@ -2,7 +2,7 @@
 title: "Introduction"
 weight: 1
 description: "There were under the law, excellent King, both daily sacrifices and freewill offerings; the one proceeding upon ordinary observance"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

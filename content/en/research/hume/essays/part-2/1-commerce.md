@@ -4,7 +4,7 @@ heading: "Essay 1a"
 description: "Commerce unites the private and common interest"
 weight: 4
 icon: "David Hume"
-c: "blue"
+c: "steelblue"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

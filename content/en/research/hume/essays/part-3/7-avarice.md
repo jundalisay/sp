@@ -2,7 +2,7 @@
 title: "Avarice"
 heading: "Essay 7"
 description: "Avarice"
-c: "blue"
+c: "steelblue"
 weight: 17
 writer:
   name: David Hume

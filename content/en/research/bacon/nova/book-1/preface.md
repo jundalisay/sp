@@ -4,7 +4,7 @@ heading: Preface
 weight: 1
 description: ""
 author: "Lord Bacon"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 ---
 

@@ -2,10 +2,11 @@
 title: "Breaks in the Heart Line"
 heading: "Chapter 5f"
 weight: 24
-image: "/covers/reading.png"
+c: "deeppink"
 description: "Breaks are always serious even though small. When wide or when the ends of the broken line are far apart and unrepaired, they become serious enough to warrant the reading of probable fatality"
 icon: "/avatars/blank.png"
-contributors: ['Benham']
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

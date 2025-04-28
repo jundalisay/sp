@@ -7,6 +7,6 @@ description: Dialectics of Nature
 writer:
   name: Friedrich Engels
   url: https://en.wikipedia.org/wiki/Friedrich_Engels
-image: "/covers/nature.jpg"
-icon: /icons/engels.png
+c: "firebrick"
+icon: "Engels"
 ---

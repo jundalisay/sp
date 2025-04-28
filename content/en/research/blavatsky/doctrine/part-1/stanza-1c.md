@@ -3,7 +3,7 @@ heading: Section 2c
 title: "Lines 8-9"
 weight: 8
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

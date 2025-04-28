@@ -3,7 +3,7 @@ heading: "Essay 2"
 title: "Death"
 weight: 6
 description: "MEN fear death just as children fear to go in the dark."
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

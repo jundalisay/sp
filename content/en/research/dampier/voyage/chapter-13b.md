@@ -4,7 +4,7 @@ heading: "Chapter 13b"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 weight: 68
 description: "Captain Swan considered that the season would oblige us to spend some time at this island, thought it convenient to make what interest he could with the sultan who might either obstruct or support his designs"
 icon: "William Dampier"

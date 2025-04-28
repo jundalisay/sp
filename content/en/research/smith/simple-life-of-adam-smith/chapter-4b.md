@@ -2,7 +2,7 @@
 heading: "Chapter 4b"
 title: "Smith the Poet"
 # date: 2015-09-20
-c: "black"
+c: "darkslategray"
 description: "Smith seems to have dreamed of becoming a poet when he was young."
 author: Rae
 weight: 9

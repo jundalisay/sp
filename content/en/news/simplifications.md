@@ -2,7 +2,7 @@
 title: "New Simplifications"
 date: 2021-08-01
 description: "We list the new simplifications"
-c: "black"
+c: "darkslategray"
 # showdate: true
 weight: 3
 ---

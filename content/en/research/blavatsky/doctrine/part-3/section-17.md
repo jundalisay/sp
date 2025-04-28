@@ -3,7 +3,7 @@ title: "Summary of the Position"
 heading: "Section 17"
 weight: 74
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

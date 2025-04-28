@@ -2,7 +2,7 @@
 heading: Appendix B
 title: "Clarifications On The Self"
 description: ""
-c: "blue"
+c: "steelblue"
 # date: 2015-x-x
 weight: 16
 writer:

@@ -2,7 +2,7 @@
 heading: Section 1
 title: "The Origin of the Natural Virtues and Vices"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 # date: 2015-x-x
 weight: 6
 writer:

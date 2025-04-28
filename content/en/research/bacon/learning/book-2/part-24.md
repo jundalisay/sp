@@ -3,7 +3,7 @@ title: Sacred Theology or Divinity
 heading: "Part 24"
 weight: 48
 description: ""
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

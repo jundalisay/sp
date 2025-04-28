@@ -2,7 +2,7 @@
 heading: "Section 7b"
 title: "The flights of the imagination"
 weight: 42
-c: "blue"
+c: "steelblue"
 description: "The flights of the imagination are most dangerous to reason"
 writer:
   name: David Hume

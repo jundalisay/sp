@@ -2,7 +2,7 @@
 heading: Book 5
 title: "The Void Book"
 description: "Five Rings by Musashi"
-c: "blue"
+c: "steelblue"
 icon: "Musashi"
 weight: 12
 ---

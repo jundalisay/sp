@@ -2,7 +2,7 @@
 heading: "Chapter 1b"
 title: "Squares and Numbers Equal to Roots"
 weight: 4
-c: "blue"
+c: "steelblue"
 description: "Three kinds of numbers in calculations"
 ---
 

@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: "Early Days at Kirkcaldy"
 # date: 2015-09-30
-c: "black"
+c: "darkslategray"
 description: "Adam Smith was born at Kirkcaldy, in the county of Fife, Scotland, on June 5, 1723"
 weight: 2
 author: Rae

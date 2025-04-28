@@ -2,7 +2,7 @@
 title: "Mind Control in Schools"
 heading: "Chapter 18b"
 weight: 2
-c: "blue"
+c: "steelblue"
 description : "In most schools where Mind Control is taught, teachers are urged to take it too"
 contributors: ['Silva']
 ---

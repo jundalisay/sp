@@ -3,7 +3,7 @@ heading: "Essay 46"
 title: "Gardens"
 weight: 58
 description: "God first planted a garden. It is the purest of human pleasures"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

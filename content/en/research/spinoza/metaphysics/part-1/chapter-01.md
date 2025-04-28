@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1
 title: "Real Being, Fictitious Being, and Being of Reason"
-c: "blue"
+c: "steelblue"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

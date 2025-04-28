@@ -2,7 +2,7 @@
 title: "Global Warming"
 heading: "Essay 11h"
 description: "The Population of Ancient Rome and Italy"
-c: "blue"
+c: "steelblue"
 weight: 36
 writer:
   name: David Hume

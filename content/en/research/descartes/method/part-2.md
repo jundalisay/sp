@@ -3,7 +3,7 @@ heading: Part 2
 title: Changing of Beliefs
 weight: 8
 description: Rene Descartes 1635
-c: "blue"
+c: "steelblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

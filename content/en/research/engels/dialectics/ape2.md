@@ -7,8 +7,8 @@ description: "The reaction on labour and speech on brain development increased c
 writer:
   name: Friedrich Engels
   url: https://en.wikipedia.org/wiki/Friedrich_Engels
-image: "/covers/nature.jpg"
-icon: /icons/engels.png
+c: "firebrick"
+icon: "Engels"
 ---
 
 

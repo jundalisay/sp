@@ -2,7 +2,7 @@
 title: "The Rise And Progress Of The Sciences"
 heading: "Essay 14"
 description: "Those who cultivate the sciences in any state, are always few. The passion, which governs them, is limited"
-c: "blue"
+c: "steelblue"
 weight: 28
 writer:
   name: David Hume

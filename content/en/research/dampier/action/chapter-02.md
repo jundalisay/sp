@@ -5,7 +5,7 @@ writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
 description: "His parents intended him for a commercial life, but the idea of shopkeeping was little likely to suit the genius of a lad who was a rover in heart whilst he was still in petticoats"
-c: "black"
+c: "darkslategray"
 date: 2022-11-30
 icon: "William Dampier"
 ---

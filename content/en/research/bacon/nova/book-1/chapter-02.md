@@ -2,7 +2,7 @@
 title: "The Four Idols of the Mind"
 heading: Chapter 2
 weight: 4
-c: "blue"
+c: "steelblue"
 description: "Human understanding is preoccupied with idols and false notions which are deeply rooted in it"
 icon: "Francis Bacon"
 ---

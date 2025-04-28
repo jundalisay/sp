@@ -5,7 +5,7 @@ weight: 32
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 description: "Captain Cook got sick at Juan Fernandez. He continued so till we came within 2 or 3 leagues of Cape Blanco, and then died suddenly"
 icon: "William Dampier"
 ---

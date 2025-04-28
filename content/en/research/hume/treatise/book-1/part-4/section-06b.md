@@ -2,7 +2,7 @@
 heading: "Section 6b"
 title: "The Idea of Identity is Caused by the Resemblance of Perceptions"
 weight: 36
-c: "blue"
+c: "steelblue"
 description: "Our idea of the personal identity which produces thought or imagination can be explained by our idea on the personal identity of plants and animals"
 writer:
   name: David Hume

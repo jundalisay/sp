@@ -2,7 +2,7 @@
 title: "Suicide"
 heading: "Essay 9"
 description: "The Three arguments for the immortality of the soul"
-c: "blue"
+c: "steelblue"
 weight: 20
 writer:
   name: David Hume

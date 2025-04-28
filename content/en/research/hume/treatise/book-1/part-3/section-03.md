@@ -2,7 +2,7 @@
 title: "Causes Always Arise from Consequence"
 heading: Section 3
 description: "It is a general maxim in philosophy, that whatever begins to exist, must have a cause of existence"
-c: "blue"
+c: "steelblue"
 weight: 6
 writer:
   name: David Hume

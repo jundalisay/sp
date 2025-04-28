@@ -3,7 +3,7 @@ heading: "Article 35"
 title: "The Nature of Existence"
 weight: 37
 description: "I do not argue against the Existence of any one thing that we can apprehend, either by Sense or Reflexion."
-c: "blue"
+c: "steelblue"
 author: "Berkeley"
 ---
 

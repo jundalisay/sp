@@ -2,7 +2,7 @@
 heading: Section 6
 title: "The Influence Of The Imagination On The Passions"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 weight: 4
 writer:
   name: David Hume

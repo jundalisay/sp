@@ -2,7 +2,7 @@
 title: "Footnotes"
 weight: 700
 description: ""
-image: "/covers/secret.png"
+c: "indigo"
 draft: true
 # Bohr was also a philosopher and a promoter of scientific research
 ---

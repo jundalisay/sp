@@ -3,7 +3,7 @@ heading: "Essay 40"
 title: "Fortune"
 weight: 52
 description: "Outward accidents conduce much to fortune; favor, opportunity, death of others, occasion fitting virtue."
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

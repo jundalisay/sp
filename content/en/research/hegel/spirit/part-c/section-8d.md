@@ -2,7 +2,7 @@
 heading: "Section 8d"
 title: "The Ego"
 description: The return of the Spirit so comprehended to Immediate Existence.
-c: "blue"
+c: "steelblue"
 author: Hegel
 weight: 26
 ---

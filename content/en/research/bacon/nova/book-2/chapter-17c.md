@@ -3,7 +3,7 @@ title: "3: Heat and Cold"
 heading: Chapter 17c
 weight: 74
 description: "These point out, that which is advantageous to mankind."
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

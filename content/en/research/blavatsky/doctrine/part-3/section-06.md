@@ -4,7 +4,7 @@ title: Samuel Metcalfe and the Sun Force
 heading: "Section 6"
 weight: 32
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

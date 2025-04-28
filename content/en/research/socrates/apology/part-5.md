@@ -2,7 +2,7 @@
 title: "Socartes' Cross-Examination Skills"
 weight: 18
 description: "People delight talking with me because they like to hear the cross-examination of the pretenders to wisdom."
-c: "blue"
+c: "steelblue"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

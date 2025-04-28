@@ -2,7 +2,7 @@
 title: "Ancient Food Policy"
 heading: "Essay 11i"
 description: "The number of citizens who received grain by the public distribution in the time of Augustus was 200,000"
-c: "blue"
+c: "steelblue"
 weight: 36
 writer:
   name: David Hume

@@ -2,7 +2,7 @@
 heading: "Chapter 3b"
 title: "At Balliol"
 date: 2015-09-24
-c: "black"
+c: "darkslategray"
 description: "Smith left Scotland for Oxford in June 1740, riding the whole way on horseback"
 author: Rae
 ---

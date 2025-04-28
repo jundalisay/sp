@@ -2,7 +2,7 @@
 title: "The Nature of the Soul"
 weight: 187
 description: "The opinion that Spirits are to be known in the same way as an Idea or Sensation has led to absurd beliefs"
-c: "blue"
+c: "steelblue"
 contributors: ['Berkeley']
 ---
 

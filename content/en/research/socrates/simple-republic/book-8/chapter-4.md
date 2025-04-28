@@ -2,7 +2,7 @@
 title: "From Democracy into Tyranny"
 heading: "Chapter 5"
 weight: 10
-c: "blue"
+c: "steelblue"
 description: "Democracy naturally turns into Tyranny"
 author: "Socrates"
 icon: "Socrates"

@@ -2,7 +2,7 @@
 heading: Section 1b
 title: "Why Reason Is Not The Basis Of Morality"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 # date: 2015-x-x
 weight: 8
 writer:

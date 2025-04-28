@@ -2,7 +2,7 @@
 heading: "Chapter 2"
 title: "Multiplication"
 weight: 6
-c: "blue"
+c: "steelblue"
 description: "Return of the Dowry"
 draft: true
 ---

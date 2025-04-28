@@ -3,7 +3,7 @@ title: "Introduction"
 heading: Chapter 1
 weight: 1
 description: ""
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

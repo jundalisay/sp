@@ -4,8 +4,9 @@ title: The Bad Type of Apollonian
 # title: "The Characteristics of the Apollonian"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
 weight: 114
-contributors: ['Benham']
-image: "/covers/reading.png"
+author: "Benham"
+icon: "Willam Benham"
+c: "deeppink"
 ---
 
 

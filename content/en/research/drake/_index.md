@@ -4,5 +4,5 @@ title: "Drake, Francis"
 weight: 27
 description: "Francis Drake"
 # a: "Francis Drake"
-c: "black"
+c: "darkslategray"
 ---

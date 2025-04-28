@@ -2,7 +2,7 @@
 heading: "Section 2j"
 title: "The Law of Force"
 description: The inner world is so far for consciousness a bare and simple beyond, because consciousness does not as yet find itself in it. It is empty, for it is the nothingness of appearance, and positively the naked universal.
-c: "blue"
+c: "steelblue"
 author: Hegel
 icon: "Hegel"
 weight: 32

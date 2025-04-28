@@ -2,7 +2,7 @@
 title: "The limits and end of knowledge"
 heading: Chapter 11
 weight: 20
-c: "blue"
+c: "steelblue"
 description: "In the divine nature, both religion and philosophy acknowledges goodness in perfection, science or providence comprehending all things, and absolute sovereignty or kingdom"
 icon: "Francis Bacon"
 writer:

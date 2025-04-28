@@ -2,7 +2,7 @@
 title: "The Speculations of Infinities"
 weight: 177
 description: "Recently, the Speculations about Infinities have run so high"
-c: "blue"
+c: "steelblue"
 contributors: ['Berkeley']
 ---
 

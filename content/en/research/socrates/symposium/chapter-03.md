@@ -5,7 +5,7 @@ weight: 8
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "blue"
+c: "steelblue"
 description: "Love is the love of beauty and not of deformity"
 icon: "Socrates"
 ---

@@ -3,7 +3,7 @@ title: "The Four Elements"
 heading: "Section 14"
 weight: 52
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

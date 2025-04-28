@@ -3,7 +3,7 @@ title: "The Triangle became the Tetraktys"
 heading: "Section 14b"
 weight: 65
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

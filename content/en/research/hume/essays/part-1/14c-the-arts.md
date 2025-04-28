@@ -2,7 +2,7 @@
 title: "The Rise And Progress Of The Arts"
 heading: "Essay 14b"
 description: "The Rise And Progress Of The Arts"
-c: "blue"
+c: "steelblue"
 weight: 30
 writer:
   name: David Hume

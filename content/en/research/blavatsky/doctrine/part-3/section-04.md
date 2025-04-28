@@ -3,7 +3,7 @@ title: "The Theories of Rotation in Science"
 heading: "Section 4"
 weight: 22
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

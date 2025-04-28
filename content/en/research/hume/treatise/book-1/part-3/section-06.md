@@ -2,7 +2,7 @@
 title: "The Inference from the Impression to the Idea"
 heading: Section 6
 description: "The Impressions of the Senses and Memory Simplified"
-c: "blue"
+c: "steelblue"
 weight: 12
 writer:
   name: David Hume

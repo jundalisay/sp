@@ -3,8 +3,9 @@ heading: "Section 2c"
 title: "How Quantum Theory Connects to Radiation Theory"
 description: "The ordinary theory of radiation predicts that we should expect the system to emit a spectrum consisting of a series of lines of frequencies equal to τω"
 weight: 12
-image: "/covers/quantum.jpg"
-contributors: ['Bohr']
+c: "darkgoldenrod"
+author: "Niels Bohr"
+icon: "Niels Bohr"
 ---
 
 

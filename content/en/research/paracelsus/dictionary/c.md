@@ -1,7 +1,7 @@
 ---
 title: "C"
 description: "The Chemical Dictionary"
-c: "black"
+c: "darkslategray"
 weight: 8
 writer:
   name: Paracelsus

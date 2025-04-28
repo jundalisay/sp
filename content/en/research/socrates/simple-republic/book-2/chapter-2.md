@@ -2,7 +2,7 @@
 title: "Socrates' Economics"
 heading: Chapter 2
 weight: 8
-c: "blue"
+c: "steelblue"
 description: "To understand justice, we must look at the big picture first, then from there, proceed to the details"
 writer:
   name: Plato

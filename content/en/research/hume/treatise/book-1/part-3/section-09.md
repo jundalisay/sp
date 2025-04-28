@@ -2,7 +2,7 @@
 title: "The Effects of Other Relations and Other Habits"
 heading: Section 9
 description: "We must turn the subject of belief on every side to find some new points of view from which we may illustrate such fundamental principles"
-c: "blue"
+c: "steelblue"
 weight: 18
 writer:
   name: David Hume

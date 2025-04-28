@@ -2,7 +2,7 @@
 title: "Polygamy and Marriage"
 heading: "Essay 19a"
 description: "Polygamy increases barbarism"
-c: "blue"
+c: "steelblue"
 weight: 40
 writer:
   name: David Hume

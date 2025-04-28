@@ -3,7 +3,7 @@ title: "The symbols in Eastern Esotericism"
 heading: "Section 2c"
 weight: 10
 description: "It was anticipated in the fragments found on the Babylonian tiles, in the story of King Sargon, who lived far earlier than Moses."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

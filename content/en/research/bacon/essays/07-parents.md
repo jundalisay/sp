@@ -3,7 +3,7 @@ heading: "Essay 7"
 title: "Parents And Children"
 weight: 14
 description: "THE joys of parents are secret, and so are their griefs and fears"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

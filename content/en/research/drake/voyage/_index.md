@@ -5,5 +5,5 @@ title: "Voyage Around The World"
 weight: 2
 # "introduced the sophistry of General Relativity"
 description: "Francis Drake"
-image: "/covers/voyage.jpg"
+c: "darkslategray"
 ---

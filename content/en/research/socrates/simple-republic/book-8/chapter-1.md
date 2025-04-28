@@ -2,7 +2,7 @@
 title: "Aristocracy, Oligarchy, Democracy, Tyranny"
 heading: "Chapter 1"
 weight: 2
-c: "blue"
+c: "steelblue"
 description: "Dialectics is the last and most important study that is superior to all the sciences as it deals with the nature of things. The four divisions of knowledge are science, understanding, opinion, and perception of shadows"
 author: "Socrates"
 icon: "Socrates"

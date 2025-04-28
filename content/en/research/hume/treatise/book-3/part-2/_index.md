@@ -2,7 +2,7 @@
 heading: Part 2
 title: "Justice And Injustice"
 description: "Book 3 Part 3 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 weight: 4
 writer:
   name: David Hume

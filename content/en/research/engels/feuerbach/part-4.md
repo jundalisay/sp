@@ -1,15 +1,14 @@
 ---
 title: Karl Marx
 heading: Part 4
-# Dialectics of Nature
 weight: 12
 # date: 2022-01-31
 description: The decisive step in the transition from ape to man was the adoption of a more and more erect posture.
 writer:
   name: Friedrich Engels
   url: https://en.wikipedia.org/wiki/Friedrich_Engels
-image: "/covers/nature.jpg"
-icon: /icons/engels.png
+c: "firebrick"
+icon: "Engels"
 ---
 
 

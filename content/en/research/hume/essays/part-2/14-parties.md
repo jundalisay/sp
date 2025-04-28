@@ -2,7 +2,7 @@
 title: "The Coalition Of Parties"
 heading: "Essay 14 Part 2"
 description: "In a free government, the abolition of all distinctions of party may not be practicable, perhaps not desirable"
-c: "blue"
+c: "steelblue"
 weight: 44
 writer:
   name: David Hume

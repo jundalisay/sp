@@ -3,9 +3,10 @@ title: "Line of Intuition, Via Lascivia"
 heading: "Chapter 8"
 # date: 2021-11-20
 weight: 46
-image: "/covers/reading.png"
+c: "deeppink"
 description: "The Lines of Influence are on the Mount of Venus and inside the Life line. Some of these run parallel to the Life line. Others run across the Mount."
-contributors: ['Benham']
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

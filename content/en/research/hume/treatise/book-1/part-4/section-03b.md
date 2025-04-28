@@ -2,7 +2,7 @@
 title: "Aristotle's Philosophy is False"
 heading: Section 3b
 description: "The true philosophy approaches nearer to the feelings of the vulgar, than to those of a mistaken knowledge."
-c: "blue"
+c: "steelblue"
 weight: 9
 writer:
   name: David Hume

@@ -3,7 +3,7 @@ heading: Part 18
 title: "The Science of Rhetoric"
 weight: 37
 description: "Rhetoric is the science that concerns the illustration of tradition. It is the art of eloquence, an excellent science, well laboured.  "
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

@@ -3,7 +3,7 @@ title: "6: Harmony / 7: The interchange of the previous"
 heading: Chapter 17e
 weight: 76
 description: "The effects produced by harmony and aversion"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

@@ -3,7 +3,7 @@ title: "Scientific and Esoteric Evidence for, and Objections to, the Modern Nebu
 heading: "Section 12"
 weight: 58
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

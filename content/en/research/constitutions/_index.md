@@ -4,6 +4,6 @@ linkTitle: "Constitutions"
 weight: 21
 description: "We simplify the different Constitutions in the world"
 # image: "/flags/eu.png"
-c: "black"
+c: "darkslategray"
 # a: "EU"
 ---

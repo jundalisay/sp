@@ -3,7 +3,7 @@ title: "Rule for Transforming Bodies"
 heading: Chapter 1b
 weight: 4
 description: ""
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

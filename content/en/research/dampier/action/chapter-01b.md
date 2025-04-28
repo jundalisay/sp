@@ -5,7 +5,7 @@ writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
 description: "The early navigators had intrepid seamanship at a time when the art of navigation and the understanding of the shapes, bulk, and rigs of the vessels in which they cruised in search of plunder or started on long voyages of discovery were difficult"
-c: "black"
+c: "darkslategray"
 weight: 5
 icon: "William Dampier"
 ---

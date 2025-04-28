@@ -3,7 +3,7 @@ title: "Natural Philosophy"
 heading: Chapter 4b
 weight: 26
 description: "We cannot hope to gain advantage from its skirmishing, and quick movements and incursions, unless we put its forces in due order and array, by means of proper and well arranged living tables of discovery"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 ---
 

@@ -5,7 +5,7 @@ weight: 6
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "blue"
+c: "steelblue"
 description: "There is an absurdity saying that harmony is discord or is composed of elements which are still in a state of discord"
 icon: "Socrates"
 ---

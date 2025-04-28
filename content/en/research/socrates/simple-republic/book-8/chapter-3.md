@@ -2,7 +2,7 @@
 title: "From Oligarchy Into Democracy"
 heading: "Chapter 3"
 weight: 8
-c: "blue"
+c: "steelblue"
 description: "Oligarchy turns to democracy after the people taste the pleasures of wealth"
 author: "Socrates"
 icon: "Socrates"

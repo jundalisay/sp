@@ -3,7 +3,7 @@ title: Aristotle's Precepts
 heading: "Part 22b"
 weight: 44
 description: "Aristotle thinks that of things which consist by Nature, nothing can be changed by custom"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

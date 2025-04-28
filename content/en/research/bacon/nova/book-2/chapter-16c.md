@@ -3,7 +3,7 @@ title: "Magnetic motion"
 heading: Chapter 16c
 weight: 66
 description: "Wrestling instances or instances of predominance"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

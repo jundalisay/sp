@@ -3,7 +3,7 @@ title: "Ancient Thought in Modern Dress"
 heading: "Section 11"
 weight: 54
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

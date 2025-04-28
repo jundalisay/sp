@@ -2,7 +2,7 @@
 heading: "Chapter 8g"
 title: "The Poker Club and a Scottish Militia"
 # date: 2015-09-30
-c: "black"
+c: "darkslategray"
 description: "A new literary review is started in Edinburgh by Hume and a few of his younger friends."
 weight: 23
 author: Rae

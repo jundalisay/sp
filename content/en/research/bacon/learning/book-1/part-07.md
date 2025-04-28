@@ -3,7 +3,7 @@ heading: "Part 7"
 title: "Human Proofs" 
 weight: 18
 description: "Human proofs is so large a field."
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

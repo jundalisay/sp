@@ -154,13 +154,7 @@ lower region; of fire as a whole and of a spark, the upper region. If, therefore
 itself is the place of the infinite, that also will be appropriate to the part. Therefore it
 will remain in itself.
 
-In general, the view that there is an infinite body is plainly incompatible with the
-doctrine that there is necessarily a proper place for each kind of body, if every sensible
-body has either weight or lightness, and if a body has a natural locomotion towards the
-centre if it is heavy, and upwards if it is light. This would need to be true of the infinite
-also. But neither character can belong to it: it cannot be either as a whole, nor can it be
-half the one and half the other. For how should you divide it? or how can the infinite
-have the one part up and the other down, or an extremity and a centre? 
+In general, the view that there is an infinite body is plainly incompatible with the doctrine that there is necessarily a proper place for each kind of body, if every sensible body has either weight or lightness, and if a body has a natural locomotion towards the centre if it is heavy, and upwards if it is light. This would need to be true of the infinite also. But neither character can belong to it: it cannot be either as a whole, nor can it be half the one and half the other. For how should you divide it? or how can the infinite have the one part up and the other down, or an extremity and a centre?
 
 Further, every
 sensible body is in place, and the kinds or differences of place are up-down, beforebehind, right-left; and these distinctions hold not only in relation to us and by arbitrary agreement, but also in the whole itself. But in the infinite body they cannot exist. 
@@ -169,7 +163,4 @@ In general, if it is impossible that there should be an infinite place, and if e
 
 Surely what is in a special place is in place, and what is in place is in a special place.
 
-Just, then, as the infinite cannot be quantity-that would imply that it has a particular quantity, e,g, two or three cubits; quantity just means these-so a thing’s being in place
-means that it is somewhere, and that is either up or down or in some other of the six
-differences of position: but each of these is a limit.
-It is plain from these arguments that there is no body which is actually infinite.
+Just, then, as the infinite cannot be quantity-that would imply that it has a particular quantity, e,g, two or three cubits; quantity just means these-so a thing’s being in place means that it is somewhere, and that is either up or down or in some other of the six differences of position: but each of these is a limit. It is plain from these arguments that there is no body which is actually infinite.

@@ -2,7 +2,7 @@
 title: "Dharma Versus Adharma"
 heading: Chapter 1
 weight: 6
-c: "blue"
+c: "steelblue"
 description: "Dharma is a necessity that should be sought for its own sake and not as a means to an end. Adharmic people often give importance to external appearances."
 writer:
   name: Plato

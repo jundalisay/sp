@@ -5,7 +5,7 @@ weight: 26
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 description: "On May 31, we first saw the islands Galapagos. Some of them appeared on our weather bow, some on our lee bow, others right ahead"
 icon: "William Dampier"
 ---

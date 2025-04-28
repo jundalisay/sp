@@ -3,39 +3,34 @@ heading: "Section 6"
 title: "The continuous hydrogen spectrum"
 description: "Part 1 showed that the problem of the fixation of the stationary states of a periodic system of several degrees of freedom, which is subject to the perturbing influence of a small external field"
 weight: 28
-image: "/covers/quantum.jpg"
-contributors: ['Bohr']
+c: "darkgoldenrod"
+author: "Niels Bohr"
+icon: "Niels Bohr"
 ---
 
 
 The continuous spectrum of hydrogen in the ultra violet region is intimately connected with the series spectrum given by (35). 
 
-No experiments, which allow to test the preceding results in detail, seem to have been recorded, but it would appear that the above considerations afford an explanation of the general character of the remarkable deviations from a normal Zeeman effect, observed by F Paschen and E. Back (Ann. d. Phys. XXXIX, p. 897 (1912)) in experiments in which the hydrogen lines were excited by passing a powerful condensed discharge through a capillary tube placed at right angles with
-the direction of the magnetic field. Besides the characteristic want of sharpness of the polarisation of the middle component, exhibited by all the spectrograms published by Paschen and Back, especially one of
+No experiments, which allow to test the preceding results in detail, seem to have been recorded, but it would appear that the above considerations afford an explanation of the general character of the remarkable deviations from a normal Zeeman effect, observed by F Paschen and E. Back (Ann. d. Phys. XXXIX, p. 897 (1912)) in experiments in which the hydrogen lines were excited by passing a powerful condensed discharge through a capillary tube placed at right angles with the direction of the magnetic field. Besides the characteristic want of sharpness of the polarisation of the middle component, exhibited by all the spectrograms published by Paschen and Back, especially one of
 their photographs (Tafel VIII, Bild 4) seems to suggest the presence of a weak, perpendicularly polarised, diffuse line on each side of the original line and at a distance from it twice that of the outer components
 of the normal effect.
 
 This spectrum consists of a radiation, the frequencies of which are continuously distributed over a spectral interval extending from the head of the Balmer series in the direction of higher frequencies.
 
-1) The existence of a continuous spectrum of this type
-is just what should be expected from a natural generalisation of the principles underlying the quantum theory of series
-spectra.
+1. The existence of a continuous spectrum of this type is just what should be expected from a natural generalisation of the principles underlying the quantum theory of series spectra.
 
-2) Thus the spectrum under consideration may be
-directly explained by application of relation (1), if we assume that the complete spectrum, emitted by a system consisting of a nucleus and of an electron, originates not only from radiations, emitted during transitions between two states belonging to the multitude of stationary states in which the electron describes a closed orbit, characterised by the condition I = nh, but also from radiations emitted during transitions between two states, one (or both) of which belong to
-the multitude of states in which the electron possesses sufficient energy to remove to infinite distance from the nucleus.
+2. Thus the spectrum under consideration may be directly explained by application of relation (1), if we assume that the complete spectrum, emitted by a system consisting of a nucleus and of an electron, originates not only from radiations, emitted during transitions between two states belonging to the multitude of stationary states in which the electron describes a closed orbit, characterised by the condition I = nh, but also from radiations emitted during transitions between two states, one (or both) of which belong to the multitude of states in which the electron possesses sufficient energy to remove to infinite distance from the nucleus.
 
 While the electron in the states of the type first mentioned
 
-1) This spectrum has been observed as an emission spectrum in spectra of solar protuberances and planetary nebulae (See J. Evershed, Phil. Trans. Roy. Soc. 197 A, p. 399 (1901) and W. H. Wright, Lick Observatory Bulletin, No. 291 (1917)) as well as in direct laboratory
-experiments on spectra excited by positive rays (See J. Stark, Ann. d. Phys. LII, p. 255 (1917)). Further it has been observed as an absorption spectrum in the spectra of several stars (see W. Huggins, An Atlas of
-Representative Stellar Spectra, p. 85 (1899) and J. Hartmann, Phys. Zeitschr. XVIII p. 429 (1917)).
+1. This spectrum has been observed as an emission spectrum in spectra of solar protuberances and planetary nebulae (See J. Evershed, Phil. Trans. Roy. Soc. 197 A, p. 399 (1901) and W. H. Wright, Lick Observatory Bulletin, No. 291 (1917)) as well as in direct laboratory
+experiments on spectra excited by positive rays (See J. Stark, Ann. d. Phys. LII, p. 255 (1917)). Further it has been observed as an absorption spectrum in the spectra of several stars (see W. Huggins, An Atlas of Representative Stellar Spectra, p. 85 (1899) and J. Hartmann, Phys. Zeitschr. XVIII p. 429 (1917)).
 
 2) Compare N. Bohr, Phil. Mag. XXVI, p. 17 (1913); and also P. Debye, Phys. Zeitschr. XVIII, p. 428 (1917).
+
 196 may be said to be “bound” by the nucleus to form an atom, it may in the states of the last mentioned type be described as “free”. 
 
-In order to account for the appearance of the continuous spectrum, it is necessary to assume that the motions in the latter states are not restricted by extra-mechanical
-conditions of the type holding for the former states, but that all motions, which are consistent with the application of ordinary mechanics, will represent physically possible states.
+In order to account for the appearance of the continuous spectrum, it is necessary to assume that the motions in the latter states are not restricted by extra-mechanical conditions of the type holding for the former states, but that all motions, which are consistent with the application of ordinary mechanics, will represent physically possible states.
 
 This assumption would also seem to present itself naturally from the point of view on the principles of the quantum theory, taken in the present paper.
 

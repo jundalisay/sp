@@ -2,7 +2,7 @@
 heading: "Chapter 2"
 title: "Student at Glasgow College"
 # date: 2015-09-28
-c: "black"
+c: "darkslategray"
 description: "Adam Smith was a Student of Francis Hutcheson at Glasgow College"
 weight: 4
 author: Rae

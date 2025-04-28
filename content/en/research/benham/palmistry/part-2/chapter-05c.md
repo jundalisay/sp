@@ -2,10 +2,11 @@
 title: "Path of Line"
 heading: "Chapter 5c"
 weight: 19
-image: "/covers/reading.png"
+c: "deeppink"
 description: "By noting the course of the line, I do not refer to defects in it, which we will consider later, but to the direction it takes in crossing the hand"
 icon: "/avatars/blank.png"
-contributors: ['Benham']
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

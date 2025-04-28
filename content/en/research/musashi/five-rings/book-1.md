@@ -2,7 +2,7 @@
 heading: Book 1
 title: "The Ground Book"
 description: "Five Rings by Musashi"
-c: "blue"
+c: "steelblue"
 icon: "Musashi"
 weight: 4
 ---

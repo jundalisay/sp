@@ -2,7 +2,7 @@
 heading: Section 6b
 title: "Argument 2: Property, Right, And Obligation Do Not Admit of Variations"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 # date: 2015-x-x
 weight: 66
 writer:

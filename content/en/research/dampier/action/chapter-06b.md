@@ -5,7 +5,7 @@ writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
 description: "The traditions of those days still linger, and the sailor of our own times suffers to a certain extent from prejudices which were excited and perpetuated by the bold and reckless savages"
-c: "black"
+c: "darkslategray"
 date: 2022-11-30
 ---
 

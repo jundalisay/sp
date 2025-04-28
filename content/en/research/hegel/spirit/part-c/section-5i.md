@@ -3,7 +3,7 @@ heading: "Section 5j"
 title: The Connected System of Universal and Individual
 # title: "Observation of Organic Nature"
 description: One extreme is the universal life the other extreme being that same life as a single whole.
-c: "blue"
+c: "steelblue"
 author: Hegel
 weight: 12
 ---

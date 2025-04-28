@@ -2,7 +2,7 @@
 heading: Section 10
 title: "RESPECT AND CONTEMPT"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 weight: 4
 writer:
   name: David Hume

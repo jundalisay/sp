@@ -2,7 +2,7 @@
 heading: Section 8
 title: "The Source Of Allegiance"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 # date: 2015-x-x
 weight: 70
 writer:

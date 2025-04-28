@@ -5,7 +5,7 @@ writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
 description: "Next day, Dampier and his associates purchased a canoe. They then passed over to the south end of the island, where they victualled their little boat with fruit loaves, cocoa-nuts, and fresh water"
-c: "black"
+c: "darkslategray"
 date: 2022-11-30
 ---
 

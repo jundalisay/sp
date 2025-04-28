@@ -5,7 +5,7 @@ linkTitle: Part 10
 weight: 22
 description: Commensurable are magnitudes measured by the same measure
 author: "Euclid"
-c: "blue"
+c: "steelblue"
 ---
 
 

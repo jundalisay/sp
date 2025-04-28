@@ -3,8 +3,9 @@ heading: "Chapter 10"
 title: "The Hand as a Whole"
 description: "The 3 worlds are based on aether, material, base"
 weight: 8
-image: "/covers/reading.png"
-contributors: ['Benham']
+c: "deeppink"
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

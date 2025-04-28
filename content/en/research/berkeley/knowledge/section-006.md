@@ -3,7 +3,7 @@ heading: "Article 6"
 title: "Can Things Exist Without an Observer?"
 weight: 7
 description: "They who assert that Figure, Motion, and the rest of the Primary or Original Qualitie do exist without the Mind"
-image: "/covers/reading.png"
+c: "steelblue"
 author: "Berkeley"
 ---
 

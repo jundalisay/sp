@@ -3,7 +3,7 @@ title: "The Coming Force. Its Possibilities And Impossibilities"
 heading: "Section 9"
 weight: 48
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

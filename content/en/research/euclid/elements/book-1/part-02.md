@@ -6,7 +6,7 @@ description: Book 1 Propositions
 writer:
   name: Euclid
   url: https://en.wikipedia.org/wiki/Euclid
-c: "blue"
+c: "steelblue"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The Idols of the Theater"
 heading: Chapter 2e
 weight: 12
-c: "blue"
+c: "steelblue"
 description: "The idols of the theatre are not innate"
 icon: "Francis Bacon"
 ---

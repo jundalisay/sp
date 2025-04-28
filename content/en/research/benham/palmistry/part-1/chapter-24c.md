@@ -3,8 +3,9 @@ heading: "Chapter 24b"
 title: "Female Luna Troubles"
 description: "Female troubles create a disturbance of the mind"
 weight: 128
-image: "/covers/reading.png"
-contributors: ['Benham']
+c: "deeppink"
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

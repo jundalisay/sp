@@ -2,7 +2,7 @@
 heading: "Chapter 8e"
 title: "The Edinburgh Review"
 # date: 2015-09-30
-c: "black"
+c: "darkslategray"
 description: "The Select Society died after 10 years it started because of Charles Townshend’s sarcasm"
 weight: 21
 author: Rae

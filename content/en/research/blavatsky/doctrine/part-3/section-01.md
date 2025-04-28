@@ -3,7 +3,7 @@ title: "Reasons for These Addenda"
 heading: "Section 1"
 weight: 10
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

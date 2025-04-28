@@ -4,7 +4,7 @@ heading: Part 3
 # Third of the Meditations Simplified
 weight: 8
 description: "My sensory experiences and imagination certainly do occur inside me as mental events, even if they do not  exist outside me"
-c: "blue"
+c: "steelblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

@@ -2,7 +2,7 @@
 title: "The Probability of Chances"
 heading: Section 11
 description: "Chance is the Negation of Cause"
-c: "blue"
+c: "steelblue"
 weight: 22
 writer:
   name: David Hume

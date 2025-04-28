@@ -2,7 +2,7 @@
 heading: Section 2
 title: "The Origin Of Justice And Property"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 # date: 2015-x-x
 weight: 16
 writer:

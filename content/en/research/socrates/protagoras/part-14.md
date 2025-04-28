@@ -5,7 +5,7 @@ weight: 30
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "blue"
+c: "steelblue"
 description: "'What account do you give of that which, in our way of speaking, is termed being overcome by pleasure?'"
 icon: "Socrates"
 ---

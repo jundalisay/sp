@@ -3,9 +3,10 @@ title: "The Lines of Influence"
 heading: "Chapter 8b"
 # date: 2021-11-20
 weight: 48
-image: "/covers/reading.png"
+c: "deeppink"
 description: "These tell about factors outside of the subject himself, forming a part of his environment"
-contributors: ['Benham']
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

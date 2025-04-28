@@ -2,7 +2,7 @@
 title: "The Three Pleasures: Wisdom, Honor, Gain"
 heading: "Chapter 2"
 weight: 6
-c: "blue"
+c: "steelblue"
 description: "The Three Pleasures are Wisdom, Honor, Gain"
 author: "Socrates"
 icon: "Socrates"

@@ -8,8 +8,8 @@ description: We abandoned the manuscript to the gnawing criticism of the mice al
 writer:
   name: Friedrich Engels
   url: https://en.wikipedia.org/wiki/Friedrich_Engels
-image: "/covers/nature.jpg"
-icon: /icons/engels.png
+c: "firebrick"
+icon: "Engels"
 ---
  
 <!-- published in Berlin, 1859,  -->

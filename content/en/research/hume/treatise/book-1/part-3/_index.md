@@ -2,7 +2,7 @@
 title: "Knowledge and Probability"
 heading: Part 3
 description: "Knowledge and Probability"
-c: "blue"
+c: "steelblue"
 weight: 6
 writer:
   name: David Hume

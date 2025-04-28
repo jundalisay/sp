@@ -6,5 +6,5 @@ description: "Bacon bashes the terrible state of natural philosophy in his time"
 writer:
   name: Francis Bacon
   url: https://en.wikipedia.org/wiki/Francis_Bacon
-c: "blue"
+c: "steelblue"
 ---

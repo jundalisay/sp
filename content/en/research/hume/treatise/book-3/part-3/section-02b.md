@@ -2,7 +2,7 @@
 heading: Section 2b
 title: "Pride And Heroism"
 description: "The Simplified Treatise of Human Nature by Hume"
-c: "blue"
+c: "steelblue"
 # date: 2015-x-x
 weight: 12
 writer:

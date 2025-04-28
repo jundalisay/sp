@@ -3,7 +3,7 @@ title: "The knowledge that concerns man’s body"
 heading: "Part 10"
 weight: 22
 description: "The knowledge that concerns man’s body is classified into 4, depending on the good of man’s body"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

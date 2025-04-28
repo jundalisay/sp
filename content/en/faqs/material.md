@@ -1,7 +1,7 @@
 ---
 title: "Material Superphysics FAQ"
 date: 2024-07-08
-c: "black"
+c: "darkslategray"
 description: "FAQ on Material Superphysics"
 icon: "Material Superphysics"
 ---

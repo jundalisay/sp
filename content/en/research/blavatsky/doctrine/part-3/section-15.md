@@ -3,7 +3,7 @@ title: "Cyclic Evolution and Karma"
 heading: "Section 15"
 weight: 68
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

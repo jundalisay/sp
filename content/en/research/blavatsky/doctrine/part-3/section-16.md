@@ -3,7 +3,7 @@ title: "The Zodiac and its Antiquity"
 heading: "Section 16"
 weight: 70
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

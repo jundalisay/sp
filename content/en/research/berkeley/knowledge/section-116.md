@@ -2,7 +2,7 @@
 title: "Motion"
 weight: 157
 description: "Motion does not imply the being of an absolute Space, distinct from that which is perceived by Sense, and related to Bodies."
-c: "blue"
+c: "steelblue"
 contributors: ['Berkeley']
 ---
 

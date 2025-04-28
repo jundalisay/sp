@@ -2,7 +2,7 @@
 heading: Section 1
 title: The Historical Status of Philosophy
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "blue"
+c: "steelblue"
 author: Hegel
 icon: "Hegel"
 weight: 4

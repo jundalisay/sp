@@ -5,7 +5,7 @@ weight: 12
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-c: "blue"
+c: "steelblue"
 description: "Using the same analytic method as before, I can discern 2 divisions of the imitative art"
 icon: "Socrates"
 ---

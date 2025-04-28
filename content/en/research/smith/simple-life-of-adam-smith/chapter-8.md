@@ -2,7 +2,7 @@
 heading: "Chapter 8"
 title: "Edinburgh Activities"
 # date: 2015-09-12
-c: "black"
+c: "darkslategray"
 description: "Adam Smith's Activities in Edinburgh"
 author: Rae
 weight: 16

@@ -2,7 +2,7 @@
 heading: "Section 5b"
 title: "What is Reason?"
 description: Reason is the certainty of being all reality.
-c: "blue"
+c: "steelblue"
 author: Hegel
 weight: 4
 ---

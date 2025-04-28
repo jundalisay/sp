@@ -3,7 +3,7 @@ heading: "Part 3"
 title: Ecclesiastical History
 weight: 8
 description: "Ecclesiastical History receives the same divisions with Civil History"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "Justice is the Interest of the Citizens"
 weight: 8
-c: "blue"
+c: "steelblue"
 description: "Justice is in serving the interest of the people and society. The unjust seem to be happier than the just only in the beginning. In reality, they are less happy and are incapable of united action"
 icon: "Socrates"
 ---

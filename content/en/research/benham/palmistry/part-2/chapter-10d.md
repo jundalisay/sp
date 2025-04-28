@@ -2,8 +2,9 @@
 heading: "Chapter 10c"
 title: "The Saturn Line Defects Between 30-45"
 weight: 58
-contributors: ['Benham']
-image: "/covers/reading.png"
+author: "Benham"
+icon: "Willam Benham"
+c: "deeppink"
 description: "The Saturn line is frequently called the line of Fate."
 ---
 

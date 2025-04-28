@@ -3,7 +3,7 @@ heading: Part 17
 title: "The method of tradition"
 weight: 36
 description: "I think that this part of knowledge of method is so weakly inquired, and so I call it deficient."
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

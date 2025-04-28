@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 14b"
 title: "The Ring of Solomon, Ring of Saturn"
-image: "/covers/reading.png"
+c: "deeppink"
 description: "The line of Mars rises on the lower Mount of Mars and runs inside of the Life line and very close beside it"
 weight: 74
-contributors: ['Benham']
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

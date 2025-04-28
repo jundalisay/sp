@@ -2,7 +2,7 @@
 heading: "Section 5c"
 title: "Observation as a Process of Reason"
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "blue"
+c: "steelblue"
 author: Hegel
 weight: 6
 ---

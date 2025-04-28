@@ -5,7 +5,7 @@ heading: "Chapter 2"
 weight: 4
 # "introduced the sophistry of General Relativity"
 description: "Francis Drake"
-image: "/covers/voyage.jpg"
+c: "darkslategray"
 author: Francis Pretty, One Of Drake's Gentlemen At Arms
 ---
 

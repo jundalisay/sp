@@ -4,7 +4,7 @@ weight: 2
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 description: ""
 icon: "William Dampier"
 ---

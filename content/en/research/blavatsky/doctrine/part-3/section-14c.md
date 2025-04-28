@@ -3,7 +3,7 @@ title: "Gods, Monads and Atoms"
 heading: "Section 14c"
 weight: 66
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: "Section 4p"
 title: "Scepticism"
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "blue"
+c: "steelblue"
 author: Hegel
 weight: 24
 ---

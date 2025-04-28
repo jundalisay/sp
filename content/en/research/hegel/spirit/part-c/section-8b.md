@@ -2,7 +2,7 @@
 heading: "Section 8b"
 title: "Religion"
 description: The subject of philosophy is the actual knowledge of what truly is.
-c: "blue"
+c: "steelblue"
 author: Hegel
 weight: 20
 ---

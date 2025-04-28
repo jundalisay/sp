@@ -1,7 +1,7 @@
 ---
 title: "Preface"
 weight: 2
-c: "blue"
+c: "steelblue"
 description: "Three kinds of numbers in calculations"
 draft: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "The Organization of Chapters"
-c: "black"
+c: "darkslategray"
 date: 2024-09-07
 weight: 100
 description : "We Organized the Chapters according to supereconomics"

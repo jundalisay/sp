@@ -2,7 +2,7 @@
 title: "The Influence of Belief"
 heading: Section 10
 description: "Impressions and Ideas are Balanced by Nature"
-c: "blue"
+c: "steelblue"
 weight: 20
 writer:
   name: David Hume

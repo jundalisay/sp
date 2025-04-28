@@ -14,11 +14,11 @@ icon: "Socrates"
 PERSONS OF THE DIALOGUE: Meno, Socrates, A Slave of Meno (Boy), Anytus.
 
 
-| Meno ![Meno](/icons/g02.png) |
-| --- | --- |
-| Socrates | ![Socrates avatar](/icons/Socrates.jpg) |
-| Slave boy | ![Slave boy avatar](/icons/g04.png) |
-| Anytus | ![Anytus avatar](/icons/g09.png) |
+Meno | ![Meno](/icons/Meno.jpg)
+--- | ---
+Socrates | ![Socrates avatar](/icons/Socrates.jpg)
+Slave boy | ![Slave boy avatar](/icons/Slave.jpg)
+Anytus | ![Anytus avatar](/icons/Anytus.jpg) |
 
 
 

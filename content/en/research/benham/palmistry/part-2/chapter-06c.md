@@ -2,9 +2,10 @@
 title: "Vacillating People"
 heading: "Chapter 6c"
 weight: 30
-image: "/covers/reading.png"
+c: "deeppink"
 description: "Sometimes the line of Head rises inside the line of Life on the lower Mount of Mars, and, after crossing the Life line, winds its way across the hand"
-contributors: ['Benham']
+author: "Benham"
+icon: "Willam Benham"
 ---
 
 

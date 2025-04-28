@@ -3,7 +3,7 @@ title: "Tree, Serpent, and Crocodile Worship"
 heading: "Section 10"
 weight: 32
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
-image: "/covers/secret.png"
+c: "indigo"
 ---
 
 

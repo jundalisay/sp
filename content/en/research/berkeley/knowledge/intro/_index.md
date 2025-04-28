@@ -3,6 +3,6 @@ title: "Introduction"
 # heading: "Englightened"
 weight: 2
 description: ""
-:c: "blue"
+:c: "steelblue"
 ---
 

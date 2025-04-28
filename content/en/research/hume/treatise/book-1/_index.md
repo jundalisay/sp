@@ -2,7 +2,7 @@
 title: "The Understanding"
 heading: Book 1
 description: "Research on David Hume"
-c: "blue"
+c: "steelblue"
 weight: 2
 writer:
   name: David Hume

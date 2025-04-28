@@ -3,7 +3,7 @@ title: "Berkeley, George"
 heading: "Englightened"
 weight: 7
 description: ""
-# :c: "blue"
+# :c: "steelblue"
 a: "George Berkeley"
 c: "indigo"
 ---

@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: "Shallow Philosophy and Religion as Poetry"
 weight: 2
-c: "blue"
+c: "steelblue"
 description: "God is the real Creator of everything. All perceptions are reflections and all things are imitations of the original from God"
 icon: "Socrates"
 ---

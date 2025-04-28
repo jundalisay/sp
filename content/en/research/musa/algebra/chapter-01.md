@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: "Three kinds of numbers in calculations"
 weight: 2
-c: "blue"
+c: "steelblue"
 description: "Three kinds of numbers in calculations"
 ---
 

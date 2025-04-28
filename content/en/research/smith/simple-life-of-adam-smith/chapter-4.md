@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: "Lecturer at Edinburgh"
 # date: 2015-09-22
-c: "black"
+c: "darkslategray"
 description: "Smith as Lecturer at Edinburgh"
 author: Rae
 weight: 8

@@ -3,7 +3,7 @@ heading: "Essay 39"
 title: "Custom And Education"
 weight: 51
 description: "MEN'S thoughts, are much according to their inclination; their discourse and speeches, according to their learning and infused opinions"
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

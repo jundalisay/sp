@@ -2,7 +2,7 @@
 title: "The Skeptical and Other Systems of Philosophy"
 heading: Part 4
 description: "The Skeptical and Other Systems of Philosophy Simplified"
-c: "blue"
+c: "steelblue"
 weight: 8
 writer:
   name: David Hume

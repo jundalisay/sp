@@ -2,7 +2,7 @@
 title: "Causes of Belief"
 heading: Section 8
 description: "Our Beliefs are Strengthened by Impressions"
-c: "blue"
+c: "steelblue"
 weight: 16
 writer:
   name: David Hume

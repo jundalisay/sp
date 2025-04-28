@@ -5,7 +5,7 @@ writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
 description: "All the English of the party were immediately taken into the service of Captain Davis and Captain Swan, whilst one of the prizes was given to the Frenchmen"
-c: "black"
+c: "darkslategray"
 date: 2022-11-30
 ---
 

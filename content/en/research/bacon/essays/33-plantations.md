@@ -3,7 +3,7 @@ heading: "Essay 33"
 title: "Plantations"
 weight: 44
 description: "PLANTATIONS are amongst ancient, primitive, and heroical works."
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 writer:
   name: Francis Bacon

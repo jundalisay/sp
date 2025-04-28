@@ -2,7 +2,7 @@
 heading: "Section 3"
 title: "The Other Qualities of our Idea of Space and Time"
 weight: 6
-c: "blue"
+c: "steelblue"
 description: "Impressions always precede ideas. Every idea first appears as a correspondent impression"
 writer:
   name: David Hume

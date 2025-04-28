@@ -5,7 +5,7 @@ weight: 22
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
-c: "black"
+c: "darkslategray"
 description: "On April 8, 1684 we sailed from the isle of Juan Fernandez with the wind at south-east"
 icon: "William Dampier"
 ---

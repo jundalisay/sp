@@ -3,7 +3,7 @@ heading: "Chapter 6"
 title: "Song"
 description: "Qian represents what is great and originating, penetrating, advantageous, correct and firm"
 weight: 14
-c: "blue"
+c: "steelblue"
 date: 2025-01-02
 ---
 

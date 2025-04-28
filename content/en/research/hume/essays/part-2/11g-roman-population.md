@@ -2,7 +2,7 @@
 title: "The Population of Ancient Rome and Italy"
 heading: "Essay 11d"
 description: "The Population of Ancient Rome and Italy"
-c: "blue"
+c: "steelblue"
 weight: 36
 writer:
   name: David Hume

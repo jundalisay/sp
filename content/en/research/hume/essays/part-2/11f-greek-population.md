@@ -2,7 +2,7 @@
 title: "The Populousness Of Ancient Nations"
 heading: "Essay 11f Part 2"
 description: "The Ancients were populous"
-c: "blue"
+c: "steelblue"
 weight: 34
 writer:
   name: David Hume

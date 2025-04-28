@@ -2,7 +2,7 @@
 heading: "Section 7"
 title: "Conclusion of Book 1"
 weight: 40
-c: "blue"
+c: "steelblue"
 description: "The Imagination is the Foundation of the Memory, Senses, and Understanding"
 writer:
   name: David Hume

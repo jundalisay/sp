@@ -2,7 +2,7 @@
 heading: "Section 4"
 title: "Objections"
 weight: 8
-c: "blue"
+c: "steelblue"
 description: "Impressions always precede ideas. Every idea first appears as a correspondent impression"
 writer:
   name: David Hume

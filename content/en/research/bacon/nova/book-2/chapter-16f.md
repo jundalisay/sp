@@ -3,7 +3,7 @@ title: "The motion of repose or abhorrence of motion"
 heading: Chapter 16f
 weight: 69
 description: "This can scarcely be termed a motion, and yet is one."
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
 ---

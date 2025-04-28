@@ -3,7 +3,7 @@ title: "21: The Water Instances"
 heading: Chapter 15c
 weight: 62
 description: "The instances of the rod or rule or the the instances of completion or non ultrà."
-c: "blue"
+c: "steelblue"
 icon: "Francis Bacon"
 ---
 
