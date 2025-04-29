@@ -3,7 +3,7 @@ heading: "Chapter 13"
 title: "The Insufficiency of the Japanese Laws"
 weight: 8
 description: "EXCESSIVE punishments may even corrupt a despotic government as seen in Japan"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

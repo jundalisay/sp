@@ -2,7 +2,7 @@
 title: "The Funds Which Belong To The Sovereign Or Commonwealth"
 heading: "Chapter 2-1a"
 weight: 6
-c: "darkgreen"
+c: "seagreen"
 description: "The revenue which pays for national defense and the government may be drawn from some fund for from the revenue of the people"
 icon: "Adam Smith"
 writer:

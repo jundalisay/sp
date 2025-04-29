@@ -3,7 +3,7 @@ heading: "Chapter 8"
 title: "The Divisions which always in Rome"
 weight: 16
 description: "While Rome was conquering the world, a hidden war was carrying on within its walls. "
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

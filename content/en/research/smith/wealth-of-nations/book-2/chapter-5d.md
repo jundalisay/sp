@@ -3,7 +3,7 @@ heading: "Chapter 5b"
 title: "Home Trade, Foreign Trade, Carrying Trade"
 linkTitle: "Chapter 5b"
 weight: 56
-c: "darkgreen"
+c: "seagreen"
 description: "Three types of trade are the Home Trade, Foreign Trade, Carrying Trade"
 writer:
   name: Adam Smith

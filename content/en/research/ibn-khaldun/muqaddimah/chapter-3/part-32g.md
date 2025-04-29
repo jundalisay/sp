@@ -1,7 +1,7 @@
 ---
 title: "The Letter of Abd-al-Hamid to his Fellow Secretaries"
 description: "The ruler who picks a secretary from the rank and file has many conditions to consider"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 32g"
 weight: 88

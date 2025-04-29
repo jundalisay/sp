@@ -2,7 +2,7 @@
 title: "Excessive Speculation Leading to Payment Problems"
 heading: "Chapter 3k"
 weight: 24
-c: "darkgreen"
+c: "seagreen"
 description: "The difficulty of getting payment from our sugar colonies is due to the planters' temptation in overtrading"
 icon: "Adam Smith"
 writer:

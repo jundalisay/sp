@@ -2,7 +2,7 @@
 title: "Mercantile Corporations as Commercial Institutions"
 heading: "Part 3d"
 weight: 28
-c: "darkgreen"
+c: "seagreen"
 description: "Particular institutions are necessary to facilitate particular branches of commerce"
 icon: "Adam Smith"
 writer:

@@ -1,7 +1,7 @@
 ---
 title: "Prophecy"
 description: "This world with all the created things in it has a certain order and solid construction."
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 6d"
 weight: 33

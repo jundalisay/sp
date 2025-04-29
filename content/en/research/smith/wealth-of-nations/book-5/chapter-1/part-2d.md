@@ -2,7 +2,7 @@
 title: "Justice Fees from Gifts to Gratis"
 heading: "Part 2c"
 weight: 20
-c: "darkgreen"
+c: "seagreen"
 description: "Justice never was in reality administered gratis in any country"
 icon: "Adam Smith"
 writer:

@@ -2,7 +2,7 @@
 title: Import Taxes and Fees
 heading: Chapter 2c
 weight: 10
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

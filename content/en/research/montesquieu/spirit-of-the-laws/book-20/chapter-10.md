@@ -3,7 +3,7 @@ heading: "Chapter 10-12"
 title: "Institutions for Commerce= Banks, Freeports, Trade Rules"
 weight: 6
 description: "TRADE has some relation to forms of government"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

@@ -2,7 +2,7 @@
 title: "The Sciences"
 heading: "Part 3s"
 weight: 57
-c: "darkgreen"
+c: "seagreen"
 description: "The ancient Greek philosophy was divided into 3 great branches"
 icon: "Adam Smith"
 writer:

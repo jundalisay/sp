@@ -1,7 +1,7 @@
 ---
 title: "Political Treatise Simplified"
 description: ""
-c: "darkgreen"
+c: "seagreen"
 # date: 2022-04-15
 weight: 10
 ---

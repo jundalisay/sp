@@ -5,7 +5,7 @@ weight: 12
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "The demand for Precious Metals and Stones arises partly from their utility and partly from their beauty"
 icon: "Adam Smith"
 ---

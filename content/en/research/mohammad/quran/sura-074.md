@@ -2,7 +2,7 @@
 title: "The Enrobed (al-Muddathir)"
 heading: "Sura 74a "
 weight: 220
-c: "darkgreen"
+c: "seagreen"
 draft: true
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

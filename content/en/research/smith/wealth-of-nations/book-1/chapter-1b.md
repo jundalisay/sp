@@ -5,7 +5,7 @@ weight: 8
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "It is impossible for one man to be constantly employed in any agricultural work because they are seasonal"
 icon: "Adam Smith"
 ---

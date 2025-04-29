@@ -2,7 +2,7 @@
 title: The Communication of Punishment
 heading: Chapter 21
 weight: 50
-c: "darkgreen"
+c: "seagreen"
 description: ""
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

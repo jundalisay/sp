@@ -2,7 +2,7 @@
 title: "Qaf"
 heading: "Sura 50a "
 weight: 176
-c: "darkgreen"
+c: "seagreen"
 description: "They marveled that a warner has come to them from among them"
 ---
 

@@ -5,7 +5,7 @@ linkTitle: "Book 7"
 weight: 14
 # "2021-09-30"
 description: "Book 7 of The Spirit of the Laws by Montesquieu Simplified in 17 chapters"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 ---
 

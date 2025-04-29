@@ -2,7 +2,7 @@
 title: The Lawfulness of War
 heading: Chapter 2b
 weight: 10
-c: "darkgreen"
+c: "seagreen"
 description: A greater difficulty occurs respecting the divine voluntary law
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

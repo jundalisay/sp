@@ -2,7 +2,7 @@
 title: "Observations on Appeals"
 heading: "Chapter 30"
 description: "As the practice of judicial combats began to decline, and the usage of new appeals to be introduced, it was reckoned unfair that freemen should have a remedy against the injustice of the court of their lords"
-c: "darkgreen"
+c: "seagreen"
 weight: 74
 contributors: ['Montesquieu']
 icon: "Montesquieu"

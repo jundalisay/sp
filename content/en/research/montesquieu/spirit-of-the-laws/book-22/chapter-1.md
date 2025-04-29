@@ -3,7 +3,7 @@ heading: "Chapters 1-2"
 title: "Why we use Money"
 weight: 4
 description: "When a nation trades with a great variety of merchandise, money becomes necessary"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

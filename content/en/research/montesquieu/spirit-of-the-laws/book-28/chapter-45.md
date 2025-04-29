@@ -2,7 +2,7 @@
 title: "The Customs of France"
 heading: "Chapter 45"
 description: "FRANCE was governed by written customs. The particular usages of each lordship constituted the civil law"
-c: "darkgreen"
+c: "seagreen"
 weight: 99
 contributors: ['Montesquieu']
 icon: "Montesquieu"

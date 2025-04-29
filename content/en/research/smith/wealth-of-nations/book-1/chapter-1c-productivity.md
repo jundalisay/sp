@@ -5,7 +5,7 @@ weight: 10
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "The division of labour greatly increases productivity"
 icon: "Adam Smith"
 ---

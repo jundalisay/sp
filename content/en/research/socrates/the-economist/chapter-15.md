@@ -2,7 +2,7 @@
 title: "How to Teach Agriculture"
 heading: "Chapter 15"
 weight: 36
-c: "darkgreen"
+c: "seagreen"
 description: "Agriculture makes the wise and skilled possessor of it wealthy, whilst the unskilled, in spite of all the pains he takes, must live in indigence"
 writer:
   name: Xenophon

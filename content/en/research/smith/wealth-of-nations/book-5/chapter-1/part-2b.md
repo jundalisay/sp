@@ -2,7 +2,7 @@
 title: "Civil government and the Superiority of birth and fortune"
 heading: "Part 2b"
 weight: 16
-c: "darkgreen"
+c: "seagreen"
 description: "The necessity of civil government gradually grows up with the acquisition of valuable property"
 icon: "Adam Smith"
 writer:

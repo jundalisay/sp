@@ -1,7 +1,7 @@
 ---
 title: "The Hadith: sciences concerned with Prophetic traditions"
 description: "There are many and varied hadith. One of them concerns abrogating and abrogated traditions"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 11"
 weight: 22

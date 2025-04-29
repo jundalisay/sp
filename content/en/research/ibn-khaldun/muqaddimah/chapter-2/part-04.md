@@ -1,7 +1,7 @@
 ---
 title: "Bedouins are closer to being good than sedentary people"
 description: "The reliance of sedentary people on laws destroys their fortitude and power of resistance"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Parts 4-5"
 weight: 8

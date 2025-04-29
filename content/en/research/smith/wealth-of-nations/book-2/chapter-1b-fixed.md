@@ -2,7 +2,7 @@
 title: "The Stock for Consumption and Fixed Capital"
 heading: "Chapter 1b"
 weight: 6
-c: "darkgreen"
+c: "seagreen"
 description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
 icon: "Adam Smith"
 writer:

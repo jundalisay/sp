@@ -5,7 +5,7 @@ weight: 16
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Prices were unstable from 1262 to 1570"
 icon: "Adam Smith"
 ---

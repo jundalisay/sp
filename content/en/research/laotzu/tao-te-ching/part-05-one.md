@@ -2,7 +2,7 @@
 heading: "Part 5: Chapters 14, 39"
 title: "The Supreme Tao or the One"
 description: "The Metaphysics of the Tao or True Nature include Pranah, Aether, and the Five elements"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 12
 icon: "Lao Tzu"

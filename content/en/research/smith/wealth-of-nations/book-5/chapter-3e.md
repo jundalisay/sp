@@ -2,7 +2,7 @@
 title: "The Evils of Funding"
 heading: "Chapter 3d"
 weight: 14
-c: "darkgreen"
+c: "seagreen"
 description: "During Mr. Pelham's prudent and truly patriotic administration [1743-1754], the interest of the public debt was reduced from 4% to 3%"
 icon: "Adam Smith"
 writer:

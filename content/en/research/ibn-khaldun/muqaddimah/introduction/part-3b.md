@@ -1,7 +1,7 @@
 ---
 title: "Yahya bin Aktham the Beginning of the Shia Dynasty"
 description: "A parallel or similar story is that reported by all (the historians) about Yahya bin Aktham, the judge and friend of al-Ma'mun"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 3b"
 weight: 9

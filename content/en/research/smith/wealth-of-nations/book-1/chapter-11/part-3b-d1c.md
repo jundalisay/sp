@@ -5,7 +5,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 weight: 24
-c: "darkgreen"
+c: "seagreen"
 description: "The end of this chapter has the prices of wheat from 1741-1750 and 1731-1740"
 icon: "Adam Smith"
 ---

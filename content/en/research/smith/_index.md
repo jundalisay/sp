@@ -6,5 +6,5 @@ description: "Smith built on the principles established by David Hume and laid t
 # date: 2022-04-23
 weight: 196
 a: "Adam Smith"
-c: "darkgreen"
+c: "seagreen"
 ---

@@ -2,7 +2,7 @@
 title: "Intellectual Property and Corporation Rules"
 heading: "Part 3o"
 weight: 50
-c: "darkgreen"
+c: "seagreen"
 description: "Intellectual Property and Corporation Rules"
 icon: "Adam Smith"
 writer:

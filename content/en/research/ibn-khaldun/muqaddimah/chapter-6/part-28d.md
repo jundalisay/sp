@@ -1,7 +1,7 @@
 ---
 title: "The 7 principles of Za'irajah"
 description: "The Zairajah is a branch of the science of letter magic, practiced among the authorities on letter magic"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 28d"
 weight: 84

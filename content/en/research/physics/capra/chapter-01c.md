@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 1c"
 title: "The Philosophy of Heraclitus of Ephesus"
 weight: 8
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"
@@ -26,6 +27,8 @@ Since motion and change are essential properties of things, the forces causing t
 
 Correspondingly, the Eastern image of the Divine is not that of a ruler who directs the world from above, but of a principle that controls everything from within:
 
+
+{{< q >}}
 He who, dwelling in all things,
 Yet is other than all things,
 Whom all things do not know,
@@ -34,17 +37,14 @@ Whose body all things are,
 Who controls all things from within-
 He is your Soul, the Inner Controller,
 The Immortal.5
+{{< /q >}}
 
-The following chapters will show that the basic elements of the Eastern world view are also those of the world view emerging from modern physics. They are intended to suggest that Eastern thought and, more generally, mystical thought provide a consistent and relevant philosophical background to the
-theories of contemporary science; a conception of the world
-in which man’s scientific discoveries can be in perfect harmony
-with his spiritual aims and religious beliefs.
+
+The following chapters will show that the basic elements of the Eastern world view are also those of the world view emerging from modern physics. They are intended to suggest that Eastern thought and, more generally, mystical thought provide a consistent and relevant philosophical background to the theories of contemporary science; a conception of the world in which man’s scientific discoveries can be in perfect harmony with his spiritual aims and religious beliefs.
 
 The 2 basic themes of this conception are the unity and interrelation of all phenomena and the intrinsically dynamic nature of the universe.
 
-The further we penetrate into the submicroscopic world, the more we shall realize how the modern physicist, like the Eastern mystic, has come to see the world as a system of inseparable,
-interacting and ever-moving components with man being an
-integral part of this system.
+The further we penetrate into the submicroscopic world, the more we shall realize how the modern physicist, like the Eastern mystic, has come to see the world as a system of inseparable, interacting and ever-moving components with man being an integral part of this system.
 
 The organic, ‘ecological’ world view of the Eastern philosophies is no doubt one of the main reasons for the immense popularity they have recently gained in the West, especially among young people. 
 
@@ -56,6 +56,3 @@ It is interesting, and perhaps not too surprising, that those who are attracted 
 They tend to see science, and physics in particular, as an unimaginative, narrow-minded discipline which is responsible for all the evils of modern technology.
 
 This book aims at improving the image of science by showing that there is an essential harmony between the spirit of Eastern wisdom and Western science. It attempts to suggest that modern physics goes far beyond technology, that the way-or Tao-of physics can be a path with a heart, a way to spiritual knowledge and self-realization.
-
-
-

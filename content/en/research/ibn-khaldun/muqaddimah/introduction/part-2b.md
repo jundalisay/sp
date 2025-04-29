@@ -1,7 +1,7 @@
 ---
 title: "The Destruction of the Barmecides"
 description: "Eventually, the Barmecides irritated the inner circle. They caused resentment among the elite"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 2b"
 weight: 7

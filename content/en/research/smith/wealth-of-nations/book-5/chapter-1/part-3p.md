@@ -2,7 +2,7 @@
 title: "Educational Institutions for the youth"
 heading: "Part 3p: Article 2"
 weight: 52
-c: "darkgreen"
+c: "seagreen"
 description: "University Education"
 icon: "Adam Smith"
 writer:

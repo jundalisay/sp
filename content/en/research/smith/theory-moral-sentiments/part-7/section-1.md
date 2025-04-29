@@ -3,7 +3,7 @@ heading: "Section 1"
 title: "The Questions in a Theory of Moral Sentiments"
 linkTitle: Section 1
 description: "Almost all of the remarkable theories on the nature of our moral feelings are partly correct and partly wrong due to their imperfect view of nature"
-image: /covers/tms.jpg
+c: "indigo"
 weight: 1
 writer:
   name: Adam Smith

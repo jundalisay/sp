@@ -3,7 +3,7 @@ heading: "Chapters 9-12"
 title: "How the Laws are in Monarchies"
 weight: 10
 description: "IT is not sufficient, in a well-regulated democracy, that the divisions of land be equal"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

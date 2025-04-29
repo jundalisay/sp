@@ -1,7 +1,7 @@
 ---
 title: "The urban population is generally deficient in linguistics"
 description: "The more remote urban people are from the Arabic language, the more difficult it is for them to obtain it"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 51"
 weight: 144

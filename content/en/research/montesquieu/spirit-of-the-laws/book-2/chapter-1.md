@@ -4,7 +4,7 @@ title: "The Laws of a Republican Government"
 linkTitle: "Chapter 1"
 weight: 6
 description: "The three kinds of government are Republican, Monarchy, and Despotism"
-c: "darkgreen"
+c: "seagreen"
 icon: "/icons/mont.png"
 ---
 

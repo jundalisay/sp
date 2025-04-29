@@ -2,7 +2,7 @@
 heading: "Chapter 1d"
 title: "The Physiocrats"
 weight: 8
-c: "darkgreen"
+c: "seagreen"
 a: "Sismondi"
 icon: "Sismondi"
 description: "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists"

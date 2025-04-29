@@ -1,7 +1,7 @@
 ---
 title: "The Great Many Brief Handbooks On Scholarly Subjects Is Detrimental To Instruction"
 description: "These brief handbooks express all the problems of a given discipline and the evidence for them in a few brief words that are full of meaning"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 35"
 weight: 109

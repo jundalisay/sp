@@ -1,7 +1,7 @@
 ---
 title: "The True Character of Royal Authority"
 description: "Those who gain power over the ruler do not share with him in the special title that goes with royal authority"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 20"
 weight: 38

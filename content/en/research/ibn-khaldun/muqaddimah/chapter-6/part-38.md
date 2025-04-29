@@ -2,7 +2,7 @@
 title: "The Instruction of Children"
 # and the different methods employed in Muslim cities
 description: "Muslims have such instruction in all their cities, because it imbues hearts with a firm belief in Islam"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 38"
 weight: 114

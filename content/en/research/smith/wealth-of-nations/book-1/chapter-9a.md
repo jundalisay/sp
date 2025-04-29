@@ -5,7 +5,7 @@ weight: 48
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Interest is the Best Indicator of Profits"
 icon: "Adam Smith"
 ---

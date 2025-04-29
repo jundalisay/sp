@@ -3,7 +3,7 @@ heading: "Chapter 5b"
 title: "The State of Greece, Macedonia, Syria, and Egypt after the Depression of Carthage"
 weight: 11
 description: "The greatest part of Macedonia was surrounded with inaccessible mountains. Its inhabitants were formed by nature for war: courageous, obedient, industrious, and indefatigable."
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

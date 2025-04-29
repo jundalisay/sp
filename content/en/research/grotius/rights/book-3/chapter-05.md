@@ -3,7 +3,7 @@ title: The Right to Lay Waste an Enemy's Country, and Carry Off His Effects
 heading: Chapter 5
 weight: 16
 
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

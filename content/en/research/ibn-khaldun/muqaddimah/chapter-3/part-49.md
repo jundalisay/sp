@@ -1,7 +1,7 @@
 ---
 title: "Pestilences and Famines frequently occur when there is Abundant Civilization"
 description: "When the ruling dynasty starts on the road to senility and destruction, the rise of the new dynasty happens in 2 ways"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 49"
 weight: 130

@@ -3,7 +3,7 @@ heading: "Chapters 6"
 title: "Greek Institutions and Manners"
 weight: 6
 description: "The education in modern and ancient Europe were very different"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

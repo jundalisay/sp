@@ -2,7 +2,7 @@
 title: "Taxes on House and Ground Rent"
 heading: "Chapter 2b-05 Article 1"
 weight: 18
-c: "darkgreen"
+c: "seagreen"
 description: "House rents are made up of the Building-rent and The Ground-rent"
 icon: "Adam Smith"
 writer:

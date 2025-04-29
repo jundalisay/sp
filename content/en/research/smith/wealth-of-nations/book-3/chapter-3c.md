@@ -2,7 +2,7 @@
 heading: "Chapter 3c"
 title: "The Development of European Manufacturing"
 weight: 18
-c: "darkgreen"
+c: "seagreen"
 description: "The manufactures fit for export were introduced in 2 ways"
 writer:
   name: Adam Smith

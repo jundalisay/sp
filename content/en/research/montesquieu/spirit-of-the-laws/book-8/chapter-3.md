@@ -3,7 +3,7 @@ heading: "Chapters 3-5"
 title: "The Spirit of extreme Equality"
 weight: 6
 description: "In the state of nature, all men are born equal. But they cannot continue in this equality for society makes them lose it. They recover it only by the protection of the laws"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

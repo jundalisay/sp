@@ -3,7 +3,7 @@ title: "Changing a Religion"
 heading: "Chapter 11"
 # date: 2015-09-30
 weight: 2
-c: "darkgreen"
+c: "seagreen"
 author: "Montesquieu"
 description: "A PRINCE who tries to destroy or change the established religion of his kingdom greatly exposes himself"
 icon: "/icons/mont.png"

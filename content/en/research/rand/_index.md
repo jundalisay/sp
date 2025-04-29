@@ -1,7 +1,7 @@
 ---
 title: "Rand, Ayn"
 heading: "Very Unenlightened"
-description: ""
+description: "The founder of Objectivism"
 a: "Ayn Rand"
 c: "firebrick"
 weight: 182

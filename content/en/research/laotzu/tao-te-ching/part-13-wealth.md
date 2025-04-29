@@ -2,7 +2,7 @@
 heading: "Part 13: Chapters 53-55, 57, 81"
 title: "Wealth"
 description: "Excess Wealth is Contrary to the Tao or True Nature"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 26
 icon: "Lao Tzu"

@@ -2,7 +2,7 @@
 title: "Two Methods of Defense: Militias and Armies"
 heading: "Part 1c"
 weight: 8
-c: "darkgreen"
+c: "seagreen"
 description: "The state can use 2 methods for the public defence"
 icon: "Adam Smith"
 writer:

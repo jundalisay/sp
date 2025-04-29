@@ -3,7 +3,7 @@ heading: "Chapters 6-8"
 title: "Conquests made by a Republic"
 weight: 6
 description: "It is unnatural for a confederate government to have one state conquer another, as what happened in Switzerland in our days"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

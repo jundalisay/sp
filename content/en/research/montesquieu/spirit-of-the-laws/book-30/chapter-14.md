@@ -3,7 +3,7 @@ heading: "Chapter 14"
 title: "The Census"
 weight: 4
 description: "Commerce was transferred to Jews who were covered with infamy."
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

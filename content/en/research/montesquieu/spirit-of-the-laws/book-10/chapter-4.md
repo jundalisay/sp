@@ -3,7 +3,7 @@ heading: "Chapter 4-5"
 title: "Some Advantages of a conquered People"
 weight: 4
 description: "OFFENSIVE force is regulated by the law of nations which is the political law of each country relative to other countries"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

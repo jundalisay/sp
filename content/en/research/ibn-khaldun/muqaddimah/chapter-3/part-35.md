@@ -1,7 +1,7 @@
 ---
 title: "The methods of waging war"
 description: "The origin of war is the desire of certain human beings to take revenge on others. Each (party) is supported by the people sharing in its group feeling"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 35"
 weight: 104

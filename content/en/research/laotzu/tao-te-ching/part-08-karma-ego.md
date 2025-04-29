@@ -2,7 +2,7 @@
 heading: "Part 8: Chapters 36-37, 43"
 title: "Karma and Ego"
 description: "Karma, Dharma, Gravity, and Ego"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 18
 icon: "Lao Tzu"

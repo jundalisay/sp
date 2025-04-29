@@ -3,7 +3,7 @@ heading: "Chapter 18"
 title: "Some new maxims received by the Romans"
 weight: 17
 description: "SOMETIMES the pusillanimous spirit of the emperors†, and frequently the defenceless state of the empire made the people employ their money to appease the nations that threatened to invade them"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

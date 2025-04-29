@@ -2,7 +2,7 @@
 heading: "Chapter 4c"
 title: "Dynasties and the Development of Europe"
 weight: 24
-c: "darkgreen"
+c: "seagreen"
 description: "Very old families are very rare in commercial countries. Such are families which have possessed some large estate from father to son for many generations"
 writer:
   name: Adam Smith

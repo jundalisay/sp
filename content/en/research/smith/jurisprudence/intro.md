@@ -1,7 +1,7 @@
 ---
 title: "Introduction on Jurisprudence"
 description: "The goal of justice is security from injury"
-c: "darkgreen"
+c: "seagreen"
 weight: 1
 writer:
   name: Adam Smith

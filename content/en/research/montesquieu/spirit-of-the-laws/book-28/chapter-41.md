@@ -4,7 +4,7 @@ heading: "Chapter 41"
 description: "Research from Montesquieu"
 author: "Montesquieu"
 weight: 86
-c: "darkgreen"
+c: "seagreen"
 ---
 
 

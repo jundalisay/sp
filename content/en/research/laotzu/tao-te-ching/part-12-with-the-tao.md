@@ -2,7 +2,7 @@
 heading: "Part 12: Chapter 62-63"
 title: "Achieving the Tao"
 description: "The reward of the Tao is more valuable than any that can be purchased"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 24
 icon: "Lao Tzu"

@@ -2,7 +2,7 @@
 title: "Clot (al-’Alaq)"
 heading: "Sura 96 "
 weight: 250
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

@@ -5,7 +5,7 @@ weight: 22
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Prudent banks were able to reduce their expenses, judge their debtors' situation, and avoid financial crises"
 icon: "Adam Smith"
 ---

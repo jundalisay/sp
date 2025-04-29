@@ -2,7 +2,7 @@
 title: "Eight Sources of French Taxes"
 heading: "Chapter 2d-08, Article 4"
 weight: 54
-c: "darkgreen"
+c: "seagreen"
 description: "In France, most of the crown's actual revenue is derived from 8 sources"
 icon: "Adam Smith"
 writer:

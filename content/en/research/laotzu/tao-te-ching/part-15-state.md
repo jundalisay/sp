@@ -2,7 +2,7 @@
 title: "Federal States"
 heading: "Part 15: Chapters 57-61"
 description: "The State Should Have Concise but Efficient Laws"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-12-31
 weight: 30
 author: "Lao Tzu"

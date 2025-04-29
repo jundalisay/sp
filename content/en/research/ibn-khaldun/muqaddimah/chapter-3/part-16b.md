@@ -1,7 +1,7 @@
 ---
 title: "The Wealth of Dynasties"
 description: "When the Sinhajah (Zirids) in Ifrigiyah presented gifts to an embassy sent them by the amirs of the Zanatah, they gave them large sums of money"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 16b"
 weight: 33

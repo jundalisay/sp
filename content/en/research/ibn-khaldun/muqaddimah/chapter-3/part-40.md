@@ -1,7 +1,7 @@
 ---
 title: "The reduction of the allowances given by the ruler reduces the tax revenue"
 description: "If the ruler holds on to property and revenue, or if they are lost or not properly used by him, then the property in the possession of the ruler's entourage will be small"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 40"
 weight: 114

@@ -2,7 +2,7 @@
 title: "Persons dealing with religious matters are not very wealthy"
 heading: Part 7
 description: "The common people have no compelling need for religious services. They are needed only by the religious."
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 weight: 20
 writer:

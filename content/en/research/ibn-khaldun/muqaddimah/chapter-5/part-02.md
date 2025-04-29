@@ -1,7 +1,7 @@
 ---
 title: "The Ways Of Making A Living"
 description: "Livelihood (making a living) means the desire for sustenance and the effort to obtain it. 'Livelihood' (ma'ash) is a maf'al formation from 'aysh' (life)."
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 2"
 weight: 12

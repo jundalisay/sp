@@ -2,7 +2,7 @@
 title: Doubtful Causes
 heading: Chapter 23
 weight: 56
-c: "darkgreen"
+c: "seagreen"
 description: ""
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

@@ -2,7 +2,7 @@
 title: When Jurisdiction and Property Cease
 heading: Chapter 9
 weight: 16
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

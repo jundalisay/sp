@@ -1,7 +1,7 @@
 ---
 title: "Cities that are the seats of royal authority fall into ruins when the ruling dynasty collapses"
 description: "Royal authority and the foundation of dynasties are the goal of group feeling. Sedentary culture is the goal of Bedouin life"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 18"
 weight: 32

@@ -2,7 +2,7 @@
 title: Christian War
 heading: Chapter 2d
 weight: 14
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

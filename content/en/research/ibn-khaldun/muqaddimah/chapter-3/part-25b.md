@@ -1,7 +1,7 @@
 ---
 title: "The Wigifiyah"
 description: "Some of the Wigifiyah say that the imam who died will return to actual life in this world"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 25b"
 weight: 48

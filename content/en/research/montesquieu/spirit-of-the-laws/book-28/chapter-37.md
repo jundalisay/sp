@@ -2,7 +2,7 @@
 title: "How the Institutions of St. Lewis Fell Into Oblivion"
 heading: "Chapter 37"
 description: "The code called St. Lewis’s institutions, was never designed as a law for the whole kingdom, though such a design is mentioned in the preface"
-c: "darkgreen"
+c: "seagreen"
 weight: 80
 contributors: ['Montesquieu']
 icon: "Montesquieu"

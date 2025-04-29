@@ -3,7 +3,7 @@ heading: "Section 4"
 title: "Breaches of Moral Rules"
 linkTitle: Section 4
 description: "There were three kinds of breaches of moral duty which came before the confessor's tribunal"
-image: /covers/tms.jpg
+c: "indigo"
 weight: 8
 writer:
   name: Adam Smith

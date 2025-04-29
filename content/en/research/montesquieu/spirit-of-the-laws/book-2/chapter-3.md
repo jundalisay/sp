@@ -4,7 +4,7 @@ title: "The Laws of an Aristocracy, Monarchy, Despotism"
 linkTitle: "Chapter 3"
 weight: 6
 description: "In an aristocracy the supreme power is lodged in the hands of a certain number of persons"
-c: "darkgreen"
+c: "seagreen"
 icon: "/icons/mont.png"
 ---
 

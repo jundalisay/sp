@@ -2,7 +2,7 @@
 title: "Scholarships"
 heading: "Part 3q"
 weight: 54
-c: "darkgreen"
+c: "seagreen"
 description: "The charitable foundations of scholarships attach students to colleges, independent of the merit of those colleges"
 icon: "Adam Smith"
 writer:

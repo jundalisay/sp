@@ -3,7 +3,7 @@ title: "The Constitution of England"
 heading: "Chapter 6"
 # date: 2015-09-30
 weight: 4
-c: "darkgreen"
+c: "seagreen"
 author: "Montesquieu"
 description: "IN every government there are three sorts of power= legislative, executive, and judicial"
 icon: "/icons/mont.png"

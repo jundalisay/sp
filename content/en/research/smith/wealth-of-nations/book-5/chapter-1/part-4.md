@@ -2,7 +2,7 @@
 title: "The Expense of supporting the Sovereign's Dignity"
 heading: "Part 4"
 weight: 82
-c: "darkgreen"
+c: "seagreen"
 description: "The sovereign also needs a certain expence to support his dignity"
 icon: "Adam Smith"
 writer:

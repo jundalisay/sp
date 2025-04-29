@@ -3,7 +3,7 @@ heading: "Chapters 21"
 title: "The Empire of China"
 weight: 16
 description: "Our missionaries inform us that the Imperial Chinese government is admirable"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

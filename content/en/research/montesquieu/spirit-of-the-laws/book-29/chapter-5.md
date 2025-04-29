@@ -3,7 +3,7 @@ heading: "Chapter 5"
 title: "The State of Greece, Macedonia, Syria, and Egypt after the Depression of Carthage"
 weight: 10
 description: "Modern Europeans have very near the same arts, the same arms, the same discipline, and the same manner of making war."
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

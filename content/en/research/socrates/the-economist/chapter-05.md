@@ -5,7 +5,7 @@ weight: 18
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
-c: "darkgreen"
+c: "seagreen"
 description: "High and mighty people find it hard to hold aloof from agriculture. Devotion to it seems to be thrice blest"
 icon: "/icons/Xenophon.jpg"
 ---

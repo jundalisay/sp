@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 1"
 title: "Modern Physics: A Path with a Heart?"
 weight: 4
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"

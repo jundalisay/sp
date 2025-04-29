@@ -2,7 +2,7 @@
 title: "How to solve religious conflicts"
 heading: "Part 3z"
 weight: 72
-c: "darkgreen"
+c: "seagreen"
 description: "There state can use two very easy and effective remedies to peacefully correct the disagreeably rigorous morals of little sects"
 icon: "Adam Smith"
 writer:

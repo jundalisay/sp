@@ -2,7 +2,7 @@
 title: "Private Regulated Companies Versus Joint Stock Companies"
 heading: "Part 3e"
 weight: 30
-c: "darkgreen"
+c: "seagreen"
 description: "Private regulated companies are enlarged monopolies that resemble guilds or the corporations of trades"
 icon: "Adam Smith"
 writer:

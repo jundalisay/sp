@@ -1,7 +1,7 @@
 ---
 title: "Book production"
 description: "Formerly, people were concerned with scholarly writings and (official) records. These were copied, bound, and corrected with the help of a transmission technique and with accuracy"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 30"
 weight: 40

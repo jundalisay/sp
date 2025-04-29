@@ -2,7 +2,7 @@
 title: "The Four Taxation Maxims"
 heading: "Chapter 2-2"
 weight: 10
-c: "darkgreen"
+c: "seagreen"
 description: "Every tax must ultimately be paid from any or all of those three kinds of revenue"
 icon: "Adam Smith"
 writer:

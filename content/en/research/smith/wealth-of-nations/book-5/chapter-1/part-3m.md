@@ -2,7 +2,7 @@
 title: "The British East India Joint Stock Company (1600-1874)"
 heading: "Part 3m"
 weight: 46
-c: "darkgreen"
+c: "seagreen"
 description: "The old English East India Company was established in 1600 by a charter from Queen Elizabeth"
 icon: "Adam Smith"
 writer:

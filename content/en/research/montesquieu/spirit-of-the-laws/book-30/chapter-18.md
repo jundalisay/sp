@@ -3,7 +3,7 @@ heading: "Chapter 18"
 title: "The double Service"
 weight: 4
 description: "Commerce was transferred to Jews who were covered with infamy."
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

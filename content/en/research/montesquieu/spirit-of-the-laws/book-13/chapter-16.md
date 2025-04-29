@@ -4,7 +4,7 @@ title: "The Muslim Conquest and Tax Exemption"
 linkTitle: "Chapter 16-18"
 weight: 12
 description: "The Muslim conquest induced our princes to keep up an exorbitant number of troops"
-c: "darkgreen"
+c: "seagreen"
 icon: "/icons/mont.png"
 ---
 

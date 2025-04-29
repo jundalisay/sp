@@ -3,7 +3,7 @@ title: "The legislative Power in the Roman Republic"
 description: "Chapter 16"
 date: 2022-01-25
 author: "Montesquieu"
-c: "darkgreen"
+c: "seagreen"
 ---
 
 

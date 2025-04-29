@@ -2,7 +2,7 @@
 title: "Solutions: Tax Reform"
 heading: "Chapter 3i"
 weight: 22
-c: "darkgreen"
+c: "seagreen"
 description: "The revenue might be very much increased without increasing the burden on the people"
 icon: "Adam Smith"
 writer:

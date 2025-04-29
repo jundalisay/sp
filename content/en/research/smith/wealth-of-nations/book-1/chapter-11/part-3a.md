@@ -5,7 +5,7 @@ weight: 14
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "The value of non-food produce should constantly rise relative to food produce"
 icon: "Adam Smith"
 ---

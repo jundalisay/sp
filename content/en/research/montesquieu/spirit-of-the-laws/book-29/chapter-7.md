@@ -3,7 +3,7 @@ heading: "Chapter 7"
 title: "How Mithridates Could Resist the Romans"
 weight: 14
 description: "AMONG the several kings whom the Romans invaded, Mithridates was the only one who made a courageous defence, and exposed them to danger."
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

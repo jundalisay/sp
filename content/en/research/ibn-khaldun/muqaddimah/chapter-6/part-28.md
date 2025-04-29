@@ -1,7 +1,7 @@
 ---
 title: "The Science of the secrets of letters"
 description: "The word was transferred from talismans to this science and used in this conventional meaning in the technical terminology of Sufi practitioners of magic"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 28"
 weight: 78

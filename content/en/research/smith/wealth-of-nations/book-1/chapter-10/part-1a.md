@@ -5,7 +5,7 @@ weight: 56
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "There are five factors affecting the differences in profits and wages"
 icon: "Adam Smith"
 ---

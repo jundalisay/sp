@@ -5,7 +5,7 @@ description: Hendrik Lorentz was a Dutch Physicist who shared the 1902 Nobel Pri
 icon: "Lorentz"
 # date: 2022-06-20
 weight: 116
-a: "Lorentz"
+a: "Hendrik Lorentz"
 c: "darkgoldenrod"
 ---
 

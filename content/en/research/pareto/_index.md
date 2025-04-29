@@ -3,6 +3,6 @@
 title: "Pareto, Vilfredo"
 weight: 161
 description: "By Pareto"
-c: "darkgreen"
+c: "seagreen"
 # a: "Pareto"
 ---

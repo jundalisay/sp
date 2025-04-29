@@ -3,7 +3,7 @@ heading: "Chapters 13-14"
 title: "Improper Customs Destroys Commerce"
 weight: 8
 description: "TRADE has some relation to forms of government"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

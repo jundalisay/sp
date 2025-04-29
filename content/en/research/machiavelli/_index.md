@@ -6,6 +6,4 @@ description: Right wing at its extreme
 weight: 131
 a: "Machiavelli"
 c: "firebrick"
-aliases:
-  /research/machiavelli/the-prince
 ---

@@ -5,7 +5,7 @@ weight: 16
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Money was invented to facilitate trade"
 icon: "Adam Smith"
 ---

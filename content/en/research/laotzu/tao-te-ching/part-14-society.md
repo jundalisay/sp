@@ -2,7 +2,7 @@
 heading: "Part 14: Chapters 29, 17-20"
 title: "Society"
 description: "A society is a spirit-like thing"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 28
 icon: "Lao Tzu"

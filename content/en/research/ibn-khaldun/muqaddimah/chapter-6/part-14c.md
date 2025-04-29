@@ -1,7 +1,7 @@
 ---
 title: "The Mutazilah"
 description: "The Mutazilah extended the subject to the negative verses and decided to deny God's possession of the ideal attributes of knowledge, power, volition, and life, in addition to (denying) their consequences"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 14c"
 weight: 38

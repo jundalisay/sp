@@ -1,7 +1,7 @@
 ---
 title: "Prophect versus Soothsaying"
 description: "The highest rank of soothsaying is the state in which rhymed prose is used"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 6e"
 weight: 34

@@ -2,7 +2,7 @@
 title: "Infanticide and Healthcare Policy"
 heading: "Chapter 22"
 description: "Dionysius Halicarnasseus, laid the citizens under an obligation to educate all their male children, and the eldest of their daughters"
-c: "darkgreen"
+c: "seagreen"
 author: "Montesquieu"
 ---
 

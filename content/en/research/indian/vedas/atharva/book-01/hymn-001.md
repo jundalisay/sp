@@ -2,7 +2,7 @@
 heading: Hymn 1
 title: "Vāchaspati"
 description: "The Vedas simplified"
-image: "/covers/vedas.jpg"
+c: "indigo"
 ---
 
 

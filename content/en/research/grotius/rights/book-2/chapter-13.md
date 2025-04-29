@@ -2,7 +2,7 @@
 title: The sanctity of an oath
 heading: Chapter 13
 weight: 30
-c: "darkgreen"
+c: "seagreen"
 description: ""
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

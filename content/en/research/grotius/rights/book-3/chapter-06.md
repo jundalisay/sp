@@ -2,7 +2,7 @@
 title: The Acquisition of Territory and Property By Right of Conquest
 heading: Chapter 6
 weight: 20
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

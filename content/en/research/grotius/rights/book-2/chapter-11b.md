@@ -2,7 +2,7 @@
 title: Promises in Error
 heading: Chapter 11b
 weight: 22
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

@@ -2,7 +2,7 @@
 title: "The Independents' Sect"
 heading: "Part 3x"
 weight: 68
-c: "darkgreen"
+c: "seagreen"
 description: "The 'Independents' sect was composed of very wild enthusiasts, established in Pennsylvania."
 icon: "Adam Smith"
 writer:

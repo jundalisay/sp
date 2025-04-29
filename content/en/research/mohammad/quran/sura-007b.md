@@ -3,7 +3,7 @@
 title: Noah Pleads to the People
 heading: "Sura 7b"
 weight: 66
-c: "darkgreen"
+c: "seagreen"
 description: "We sent Noah to his people"
 ---
 

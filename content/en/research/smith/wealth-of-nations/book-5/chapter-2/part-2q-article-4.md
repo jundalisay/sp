@@ -2,7 +2,7 @@
 title: "General Taxes: Customs Duties"
 heading: "Chapter 2d-02, Article 4"
 weight: 42
-c: "darkgreen"
+c: "seagreen"
 description: "In all cases, high duties reduced customs revenue below what moderate duties would have afforded"
 icon: "Adam Smith"
 writer:

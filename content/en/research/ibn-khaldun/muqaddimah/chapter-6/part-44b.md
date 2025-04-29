@@ -1,7 +1,7 @@
 ---
 title: "The science of lexicography"
 description: "This is concerned with explaining the (conventional) meanings of the words of the language"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 44b"
 weight: 128

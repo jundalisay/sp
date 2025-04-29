@@ -3,7 +3,7 @@ heading: "Chapter 5e"
 title: "The Carrying Trade"
 linkTitle: "Chapter 5e"
 weight: 58
-c: "darkgreen"
+c: "seagreen"
 description: "The Carrying Trade can be as important as the foreign trade of consumption"
 writer:
   name: Adam Smith

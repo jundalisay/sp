@@ -2,7 +2,7 @@
 title: "Judicial Combats and Appeal of false Judgment"
 heading: "Chapter 27"
 description: "Judicial Combats Resolved Cases Quickly and made appeals unknown"
-c: "darkgreen"
+c: "seagreen"
 weight: 68
 contributors: ['Montesquieu']
 icon: "Montesquieu"

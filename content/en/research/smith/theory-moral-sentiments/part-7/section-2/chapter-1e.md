@@ -3,7 +3,7 @@ heading: "Chapter 1e"
 title: "Suicide to Stoics and Epicureans"
 linkTitle: Chapter 1e
 description: "Suicide was a common doctrine to the ancient philosophers even to the peaceable and indolent Epicureans"
-image: /covers/tms.jpg
+c: "indigo"
 weight: 10
 writer:
   name: Adam Smith

@@ -1,7 +1,7 @@
 ---
 title: "Only tribes held together by group feeling can live in the desert"
 description: "The reliance of sedentary people on laws destroys their fortitude and power of resistance"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 7"
 weight: 12

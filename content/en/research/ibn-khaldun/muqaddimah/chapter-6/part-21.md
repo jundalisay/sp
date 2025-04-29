@@ -1,7 +1,7 @@
 ---
 title: "The Science of Astronomy"
 description: "Astronomy studies the motions of the fixed stars and the planets"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 21"
 weight: 64

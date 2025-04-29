@@ -3,7 +3,7 @@ heading: "Chapter 1"
 title: "The Relation of Laws to different Beings"
 weight: 2
 description: "Each domain or layer of the universe has its laws designed by the Creator"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

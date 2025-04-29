@@ -2,7 +2,7 @@
 title: "Putting Everything in the Right Place "
 heading: "Chapter 8"
 weight: 24
-c: "darkgreen"
+c: "seagreen"
 description: "How different is an army well organised in battle order: a splendid sight for friendly eyes to gaze at, albeit an eyesore to the enemy"
 writer:
   name: Xenophon

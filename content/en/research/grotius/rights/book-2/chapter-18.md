@@ -2,7 +2,7 @@
 title: The Right of Embassies
 heading: Chapter 18
 weight: 38
-c: "darkgreen"
+c: "seagreen"
 description: ""
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

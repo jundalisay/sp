@@ -1,7 +1,7 @@
 ---
 title: "The transformation of the caliphate into royal authority"
 description: "Group feeling is necessary to the Muslim community. Its existence enables (the community) to fulfill what God expects of it"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 26"
 weight: 50

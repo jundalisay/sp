@@ -1,8 +1,8 @@
 ---
 title: "Essay on the Principle of Population"
 # heading: Unenlightened
-# description: Mao was a Chinese Leader
-image: "/covers/pop.jpg"
+description: Malthus' Essay arose from a conversation with a friend about Mr Godwin's essay on avarice and profusion
+c: "firebrick"
 weight: 3
 date: 2025-03-20
 ---

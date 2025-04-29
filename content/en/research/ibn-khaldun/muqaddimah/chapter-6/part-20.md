@@ -1,7 +1,7 @@
 ---
 title: "The geometrical sciences"
 description: "The geometrical sciences are Astronomy, Surveying, Optics"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 20"
 weight: 62

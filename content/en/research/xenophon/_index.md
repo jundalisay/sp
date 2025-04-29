@@ -3,6 +3,6 @@ title: "Xenophon"
 heading: Enlightened
 description: ""
 a: "Xenophon"
-c: "darkgreen"
+c: "seagreen"
 weight: 950
 ---

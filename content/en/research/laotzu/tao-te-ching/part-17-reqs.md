@@ -2,7 +2,7 @@
 heading: "Part 17: Chapter 49, 64-66"
 title: "Requirements for Philosophers and Philosopher-Kings"
 description: "Philosopher-Kings should have Equipoise, Good Intentions"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 32
 icon: "Lao Tzu"

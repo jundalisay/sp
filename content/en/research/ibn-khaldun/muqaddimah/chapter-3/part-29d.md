@@ -1,7 +1,7 @@
 ---
 title: "The position of official witness (adalah)"
 description: "This is a religious position depending on the office of judge and connected with court practice"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 29b"
 weight: 70

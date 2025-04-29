@@ -3,7 +3,7 @@ heading: "Chapters 6-7"
 title: "The Luxury of China"
 weight: 6
 description: "LUXURY indicates the inequality of fortunes"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

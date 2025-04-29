@@ -1,7 +1,7 @@
 ---
 title: "The Vanquished Always Want To Imitate The Victor"
 description: "The soul then adopts the victor's manners and assimilates itself to him. It imitates him"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 22-24"
 weight: 32

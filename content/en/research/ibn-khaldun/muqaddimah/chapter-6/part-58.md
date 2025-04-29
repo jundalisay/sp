@@ -1,7 +1,7 @@
 ---
 title: "People of rank are above cultivating poetry"
 description: "Poetry was the archive of the Arabs, containing their sciences, their history, and their wisdom"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 58"
 weight: 158

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1
 title: "The Need for Laws"
-c: "darkgreen"
+c: "seagreen"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

@@ -5,7 +5,7 @@ weight: 40
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "High prices are caused by monopolies"
 icon: "Adam Smith"
 ---

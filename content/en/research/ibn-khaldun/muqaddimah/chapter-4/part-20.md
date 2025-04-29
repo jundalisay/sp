@@ -1,7 +1,7 @@
 ---
 title: "Certain cities have crafts that others lack"
 description: "This is because the activities of the citizens necessitate each other, since mutual co-operation is innate in civilization"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 20"
 weight: 34

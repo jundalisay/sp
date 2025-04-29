@@ -1,7 +1,7 @@
 ---
 title: "Poetry and prose work with words, and not with ideas"
 description: "The craftsman who tries to acquire the habit of poetry and prose uses words for that purpose. He memorizes appropriate words from Arab speech, so as to be able to employ it frequently and have it on his tongue"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 55"
 weight: 152

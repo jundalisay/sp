@@ -3,7 +3,7 @@ heading: "Chapter 12"
 title: "The Isle of Delos and Mithridates"
 weight: 20
 description: "From the earliest times, the Greeks sent colonies to Propontis and to the Euxine sea"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

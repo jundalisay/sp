@@ -5,7 +5,7 @@ linkTitle: "Book 10"
 weight: 20
 # "2021-09-30"
 description: "Book 10 of The Spirit of the Laws by Montesquieu Simplified as 17 chapters"
-c: "darkgreen"
+c: "seagreen"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "The Quranic sciences"
 description: "The Quran is the word of God that was revealed to His Prophet. It was written down between the two covers of copies of the Qur'an"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 10"
 weight: 21

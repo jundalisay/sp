@@ -3,7 +3,7 @@ title: "Government Expenses and Revenue"
 linkTitle: Book 5
 heading: "Book 5"
 weight: 10
-c: "darkgreen"
+c: "seagreen"
 description: "We simplify The Wealth of Nations Book 5 about Government Expenses and Revenue"
 # icon: "Adam Smith"
 writer:

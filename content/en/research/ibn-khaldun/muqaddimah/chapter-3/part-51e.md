@@ -1,7 +1,7 @@
 ---
 title: "Ikrimah b. Ammar"
 description: "Some scholars considered him weak, others reliable"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 51d"
 weight: 144

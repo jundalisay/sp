@@ -2,7 +2,7 @@
 title: The Lawfulness of War
 heading: Chapter 2
 weight: 8
-c: "darkgreen"
+c: "seagreen"
 description: Is any war is just? Is it ever lawful to make war?
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

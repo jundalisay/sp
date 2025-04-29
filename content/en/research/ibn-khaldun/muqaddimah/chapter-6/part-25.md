@@ -1,7 +1,7 @@
 ---
 title: "The Science of Agriculture"
 description: "This investigates bodies from the point of view of the motion and stationariness which attach to them"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 25"
 weight: 71

@@ -1,7 +1,7 @@
 ---
 title: "Exaggerations by Historians"
 description: "History is a discipline that is very useful and has many different approaches"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 1b"
 weight: 5

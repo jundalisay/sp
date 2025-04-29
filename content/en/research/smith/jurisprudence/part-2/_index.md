@@ -5,7 +5,7 @@ description: "Adam Smith explains Police in the Simplified Lectures on Jurisprud
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 weight: 4
 ---
 

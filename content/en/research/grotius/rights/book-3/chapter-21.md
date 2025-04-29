@@ -2,7 +2,7 @@
 title: On Faith During the Continuance of War
 heading: Chapter 21
 weight: 40
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

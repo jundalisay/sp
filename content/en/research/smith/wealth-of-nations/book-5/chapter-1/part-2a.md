@@ -2,7 +2,7 @@
 title: "Part 2a-Expenses on Justice"
 heading: "Part 2a"
 weight: 14
-c: "darkgreen"
+c: "seagreen"
 description: "The second duty of the sovereign is to protect every member of society from the injustice or oppression of every other membe"
 writer:
   name: Adam Smith

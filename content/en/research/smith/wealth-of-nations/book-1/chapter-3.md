@@ -5,7 +5,7 @@ weight: 14
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Market Size is the Most Important Factor that Leads to the Division of Labour in Society"
 icon: "Adam Smith"
 ---

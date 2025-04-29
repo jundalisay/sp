@@ -1,7 +1,7 @@
 ---
 title: "The Alchemy of Ibn Bishrun"
 description: "Some philosophers have thought such a stone is found in animals, plants, minerals, or in everything"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 29c"
 weight: 92

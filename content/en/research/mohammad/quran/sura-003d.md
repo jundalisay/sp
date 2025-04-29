@@ -2,7 +2,7 @@
 title: "Victory at Badr"
 heading: "Sura 3d "
 weight: 34
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

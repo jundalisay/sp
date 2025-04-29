@@ -2,7 +2,7 @@
 title: "The Decline of the Church"
 heading: "Part 3zb"
 weight: 76
-c: "darkgreen"
+c: "seagreen"
 description: "The gradual improvements of arts, manufactures, and commerce which destroyed the great barons also destroyed the power of the European clergy"
 writer:
   name: Adam Smith

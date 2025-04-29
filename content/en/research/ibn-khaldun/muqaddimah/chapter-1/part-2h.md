@@ -1,7 +1,7 @@
 ---
 title: "Zone 4"
 description: "Its first section, in the west, contains a portion of the Surrounding oblong Sea"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 2g"
 weight: 16

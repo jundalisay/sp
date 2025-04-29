@@ -2,7 +2,7 @@
 heading: PRAPATHAKA I
 title: "The New and Full Moon Sacrifices"
 description: "The Vedas simplified"
-image: "/covers/vedas.jpg"
+c: "indigo"
 ---
 
 

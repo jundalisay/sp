@@ -1,7 +1,7 @@
 ---
 title: "The wealth and economic activity between cities depend on their population size"
 description: "There are few cities and towns in Ifriqiyah and the Maghrib"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 11"
 weight: 20

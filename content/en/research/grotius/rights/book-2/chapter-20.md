@@ -2,7 +2,7 @@
 title: Punishments
 heading: Chapter 20
 weight: 42
-c: "darkgreen"
+c: "seagreen"
 description: "Punishment most generally signifies the pain of suffering inflicted for evil actions"
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

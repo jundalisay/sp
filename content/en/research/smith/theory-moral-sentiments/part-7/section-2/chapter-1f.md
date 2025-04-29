@@ -3,7 +3,7 @@ heading: "Chapter 1c"
 title: "The Concept of Suicide in Moral Philosophy"
 linkTitle: Chapter 1c
 description: "Of all the Greek heroes written by Plutarch, Cleomenes is the only one who died by suicide. The brave Theramines, Socrates, and Phocion suffered in prison"
-image: /covers/tms.jpg
+c: "indigo"
 weight: 12
 writer:
   name: Adam Smith

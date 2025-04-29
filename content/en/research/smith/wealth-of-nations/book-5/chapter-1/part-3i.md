@@ -2,7 +2,7 @@
 title: "Private Copartneries vs Joint Stock Companies"
 heading: "Part 3i"
 weight: 38
-c: "darkgreen"
+c: "seagreen"
 description: "Joint stock companies, established by royal charter or by act of parliament, differ from regulated companies and private copartneries"
 icon: "Adam Smith"
 writer:

@@ -5,7 +5,7 @@ weight: 32
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "The judicious operations of banking can increase a country’s industry, not by augmenting the country’s capital, but by rendering most of that capital productive"
 icon: "Adam Smith"
 ---

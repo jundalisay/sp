@@ -2,7 +2,7 @@
 heading: "Chapter 7c"
 title: "Invention"
 weight: 24
-c: "darkgreen"
+c: "seagreen"
 a: "Sismondi"
 icon: "Sismondi"
 description: "The invention of the stocking frame allowed 1 man to do as much work as 100 men before"

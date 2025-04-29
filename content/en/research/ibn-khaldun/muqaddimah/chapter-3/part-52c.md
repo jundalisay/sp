@@ -1,7 +1,7 @@
 ---
 title: "The Zajal Playpoem (mal'abah)"
 description: "The author mentioned that he would die a violent death in Fez, and people think that that actually happened"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 52"
 weight: 154

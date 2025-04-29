@@ -2,7 +2,7 @@
 title: The General Rights of Things
 heading: Chapter 2b
 weight: 8
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

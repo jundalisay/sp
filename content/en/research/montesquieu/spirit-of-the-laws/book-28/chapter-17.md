@@ -2,7 +2,7 @@
 title: "Particular Notions of our Ancestors"
 heading: "Chapter 17"
 description: "The Germans were never subdued and so enjoyed excessive independence. Different families waged war with each other, to obtain satisfaction for murders, robberies, or affronts"
-c: "darkgreen"
+c: "seagreen"
 weight: 16
 contributors: ['Montesquieu']
 icon: "Montesquieu"

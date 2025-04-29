@@ -2,7 +2,7 @@
 title: "Why Interest was lowered one half after the Conquest of the Indies"
 heading: "Chapter 6"
 description: "Civilized nations generally only use ideal money, because they have converted their real money into ideal"
-c: "darkgreen"
+c: "seagreen"
 weight: 8
 contributors: ['Montesquieu']
 icon: "Montesquieu"

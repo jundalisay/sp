@@ -3,7 +3,7 @@ title: "The Geocentric Universe"
 # title: "The Earth's northern quarter has more civilization than the southern"
 description: "Parallel to the courses of all these stars in their spheres, there runs a large circle which belongs to the highest sphere"
 # and divides it into two halves. This is the ecliptic (zodiac)
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 2b"
 weight: 6

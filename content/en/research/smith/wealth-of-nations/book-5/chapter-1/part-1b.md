@@ -5,7 +5,7 @@ weight: 6
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "The art of war is certainly the noblest of all arts"
 icon: "Adam Smith"
 ---

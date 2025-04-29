@@ -1,7 +1,7 @@
 ---
 title: "Only a strong royal authority is able to construct large cities and high monuments"
 description: "The size of monuments is proportional to the importance of the various dynasties"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 3"
 weight: 12

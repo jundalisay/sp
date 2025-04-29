@@ -2,7 +2,7 @@
 title: "Rules on Divorce and Widows"
 heading: "Sura 2j "
 weight: 22
-c: "darkgreen"
+c: "seagreen"
 description: "Divorced women shall wait by themselves for 3 periods. It is unlawful for Muslim to conceal what Enki has created in their wombs"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Injustice"
 description: "Injustice should not be understood to imply only the confiscation of money or other property from the owners, without compensation and without cause"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 41"
 writer:

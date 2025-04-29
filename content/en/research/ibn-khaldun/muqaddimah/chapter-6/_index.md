@@ -6,5 +6,5 @@ weight: 10
 writer:
   name: Ibn Khaldun
   url: https://en.wikipedia.org/wiki/Ibn_Khaldun
-c: "darkgreen"
+c: "seagreen"
 ---

@@ -4,7 +4,7 @@ title: "Is Tax Farming Or Commission Better?"
 linkTitle: "Chapter 8"
 weight: 14
 description: "The managing of the revenues by commission is like the conduct of a good father of a family"
-c: "darkgreen"
+c: "seagreen"
 icon: "/icons/mont.png"
 ---
 

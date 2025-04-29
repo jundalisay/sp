@@ -1,7 +1,7 @@
 ---
 title: "A dynasty rarely establishes itself firmly in lands with many different tribes and groups"
 description: "This is because the differences in opinions and desires. Behind each opinion and desire, there is a group feeling defending it"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 9"
 weight: 20

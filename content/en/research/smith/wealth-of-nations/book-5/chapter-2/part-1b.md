@@ -2,7 +2,7 @@
 title: "The Rent and sale of government lands"
 heading: "Chapter 2-1b"
 weight: 8
-c: "darkgreen"
+c: "seagreen"
 description: "The rent of a great landed estate might ordinarily defray all the necessary expences of government"
 icon: "Adam Smith"
 writer:

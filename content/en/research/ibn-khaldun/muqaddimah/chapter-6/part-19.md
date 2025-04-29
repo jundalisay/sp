@@ -1,7 +1,7 @@
 ---
 title: "Arithmetic: The sciences concerned with numbers"
 description: "Arithmetic, Calculation, Algebra"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 19"
 weight: 60

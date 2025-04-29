@@ -2,7 +2,7 @@
 title: "The Proof by Witnesses"
 heading: "Chapter 44"
 description: "It is much easier to see the baptismal register whether Peter is the son of Paul than to prove it by a tedious inquest"
-c: "darkgreen"
+c: "seagreen"
 weight: 90
 contributors: ['Montesquieu']
 icon: "Montesquieu"

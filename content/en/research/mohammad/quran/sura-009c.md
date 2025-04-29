@@ -2,7 +2,7 @@
 title: "The Pioneers—The first of the Migrants and the Supporters"
 heading: "Sura 9c"
 weight: 77
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

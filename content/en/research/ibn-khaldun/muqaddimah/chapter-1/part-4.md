@@ -1,7 +1,7 @@
 ---
 title: "The Influence of Climate on Human Character"
 description: "Negroes live in the earth's hot zone. Heat dominates their temperament and formation"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 4"
 weight: 26

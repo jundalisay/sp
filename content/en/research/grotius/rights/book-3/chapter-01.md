@@ -2,7 +2,7 @@
 title: What is Lawful in War?
 heading: Chapter 1
 weight: 6
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

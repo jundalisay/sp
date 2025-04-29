@@ -2,7 +2,7 @@
 title: "Superiority of Armies vs Militia"
 heading: "Part 1d"
 weight: 10
-c: "darkgreen"
+c: "seagreen"
 description: "History shows the superiority of a well-regulated standing army over a militia"
 writer:
   name: Adam Smith

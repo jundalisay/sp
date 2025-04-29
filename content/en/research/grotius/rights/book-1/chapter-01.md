@@ -2,7 +2,7 @@
 title: The Rights of War
 heading: Chapter 1
 weight: 4
-c: "darkgreen"
+c: "seagreen"
 description: "The ancient Patriarchs formed no national community"
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

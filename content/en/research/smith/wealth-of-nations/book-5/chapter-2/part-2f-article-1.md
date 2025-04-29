@@ -2,7 +2,7 @@
 title: "Ground Rents"
 heading: "Chapter 2b-06 Article 1"
 weight: 20
-c: "darkgreen"
+c: "seagreen"
 description: "House rents are made up of the Building-rent and The Ground-rent"
 icon: "Adam Smith"
 writer:

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5b"
 title: "Grains versus Silver in terms of the temporal aspect of value"
-c: "darkgreen"
+c: "seagreen"
 weight: 24
 writer:
   name: Adam Smith

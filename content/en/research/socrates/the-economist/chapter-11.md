@@ -2,7 +2,7 @@
 title: "The Routine of an Economist"
 heading: "Chapter 11"
 weight: 28
-c: "darkgreen"
+c: "seagreen"
 description: "My habit is to rise from bed betimes, when I may still expect to find at home this, that, or the other friend, whom I may wish to see"
 writer:
   name: Xenophon

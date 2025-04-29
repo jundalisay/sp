@@ -2,7 +2,7 @@
 heading: "Part 18: Chapters 67-69, 30-31"
 title: "Virtues in Adversity: Patience, Frugality, Humility"
 description: "Restraint of the ego is important to win in adversity"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 34
 icon: "Lao Tzu"

@@ -3,7 +3,7 @@ heading: "Chapter 1"
 title: "The Corruption of Democracy, Aristocracy, Monarchy"
 weight: 4
 description: "A small republic is destroyed by a foreign force"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

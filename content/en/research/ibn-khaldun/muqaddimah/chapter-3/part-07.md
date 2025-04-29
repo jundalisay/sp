@@ -1,7 +1,7 @@
 ---
 title: "Each dynasty has a certain amount of provinces and lands, and no more"
 description: "The group to which a given dynasty belongs and the people who support and establish it, must of necessity be distributed over the provinces and border regions which they reach and take into possession"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 7"
 weight: 16

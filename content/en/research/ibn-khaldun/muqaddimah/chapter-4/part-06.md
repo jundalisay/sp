@@ -1,7 +1,7 @@
 ---
 title: "The History of the Ka'bah"
 description: "The mosques and venerated buildings of the world"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 6"
 weight: 16

@@ -2,7 +2,7 @@
 title: "The Morality of the Bailiff"
 heading: "Chapter 14"
 weight: 34
-c: "darkgreen"
+c: "seagreen"
 description: "I take a leaf now out of the laws of Draco and again another out of the laws of Solon and so essay to start my household on the path of uprightness"
 writer:
   name: Xenophon

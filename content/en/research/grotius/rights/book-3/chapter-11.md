@@ -2,7 +2,7 @@
 title: The Right of Killing Enemies, in Just War, to be Tempered with Moderation and Humanity
 heading: Chapter 11
 weight: 28
-c: "darkgreen"
+c: "seagreen"
 description:  Cicero, in the first book of his offices, has finely observed, that 'some duties are to be observed even towards those, from whom you have received an injury'
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

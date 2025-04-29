@@ -3,7 +3,7 @@ heading: "Chapter 2"
 title: "The Science of War of the Romans"
 weight: 6
 description: "The Romans devoted themselves entirely to war, and considered it as the only science. Vegetius says that this inspired them with the idea of the legion"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

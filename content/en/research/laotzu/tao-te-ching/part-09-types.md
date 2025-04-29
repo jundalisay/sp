@@ -2,7 +2,7 @@
 heading: "Part 9: Chapters 38, 41"
 title: "Types of People"
 description: "The knowers of the Tao have three levels"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 20
 icon: "Lao Tzu"

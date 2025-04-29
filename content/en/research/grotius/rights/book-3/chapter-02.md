@@ -2,7 +2,7 @@
 title: The Nature of Reprisals
 heading: Chapter 2
 weight: 10
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

@@ -2,7 +2,7 @@
 title: Treaties and on Engagements made by Delegates, Exceeding their Power
 heading: Chapter 15
 weight: 32
-c: "darkgreen"
+c: "seagreen"
 description: ""
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

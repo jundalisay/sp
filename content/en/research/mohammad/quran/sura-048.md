@@ -2,7 +2,7 @@
 title: "Victory (al-Fath)"
 heading: "Sura 48 "
 weight: 172
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

@@ -2,7 +2,7 @@
 title: The Obligation Arising From Property
 heading: Chapter 10
 weight: 18
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

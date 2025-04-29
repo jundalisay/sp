@@ -3,7 +3,7 @@ heading: "Chapter 9"
 title: "The Severity of Punishments in different Governments"
 weight: 8
 description: "There are still many states where many judges to decide exchequer causes, and where the ministers judge cases."
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

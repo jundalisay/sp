@@ -2,7 +2,7 @@
 title: "Public Debts"
 heading: "Chapter 17"
 description: "SOME have imagined that it was advantageous for a state to be indebted to itself"
-c: "darkgreen"
+c: "seagreen"
 weight: 20
 contributors: ['Montesquieu']
 icon: "Montesquieu"

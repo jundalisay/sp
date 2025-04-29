@@ -2,7 +2,7 @@
 heading: PRAPATHAKA 2
 title: "The Soma Sacrifice"
 description: "The Vedas simplified"
-image: "/covers/vedas.jpg"
+c: "indigo"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The Night and Morning Light"
 heading: "Sura 92 "
 weight: 246
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

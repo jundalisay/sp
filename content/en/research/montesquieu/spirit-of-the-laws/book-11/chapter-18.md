@@ -3,7 +3,7 @@ title: "The judiciary Power in the Roman Government"
 description: "Chapter 18"
 date: 2015-09-24
 author: "Montesquieu"
-c: "darkgreen"
+c: "seagreen"
 ---
 
 THE judiciary power was given to:

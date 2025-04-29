@@ -1,7 +1,7 @@
 ---
 title: "Access to the ruler becomes restricted in a dynasty growing senile"
 description: "If a dynasty at the beginning of its rule is a Bedouin one, the ruler possesses austerity and the desert attitude. He is close to the people and easily accessible"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 42"
 weight: 118

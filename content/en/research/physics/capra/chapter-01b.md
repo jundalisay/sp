@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 1b"
 title: "The Philosophy of Heraclitus of Ephesus"
 weight: 6
 description: "The Eastern mystics experience all things and events as manifestations of a basic oneness"

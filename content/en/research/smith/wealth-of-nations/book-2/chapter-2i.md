@@ -5,7 +5,7 @@ weight: 26
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "The Ayr Bank failed because it was too big to fail"
 icon: "Adam Smith"
 ---

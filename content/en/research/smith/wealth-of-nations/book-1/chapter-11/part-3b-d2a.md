@@ -5,7 +5,7 @@ weight: 26
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Since the discovery of America, the market for its silver mines has been growing more extensive for three reasons"
 icon: "Adam Smith"
 ---

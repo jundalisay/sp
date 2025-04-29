@@ -5,7 +5,7 @@ weight: 4
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Food is always in demand because men, like animals, naturally multiply in proportion to their subsistence"
 icon: "Adam Smith"
 ---

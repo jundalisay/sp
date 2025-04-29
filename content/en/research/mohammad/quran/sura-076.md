@@ -2,7 +2,7 @@
 title: "Man (al-Insan)"
 heading: "Sura 76a "
 weight: 224
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

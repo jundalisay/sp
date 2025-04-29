@@ -2,7 +2,7 @@
 title: "The Cow (Al-Baqarah)"
 heading: "Sura 2a "
 weight: 4
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

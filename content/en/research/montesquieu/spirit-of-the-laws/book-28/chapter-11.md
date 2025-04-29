@@ -2,7 +2,7 @@
 title: "Other Causes of the Disuse of the Barbarian Laws, Roman Law, and Capitularies"
 heading: "Chapter 11"
 description: "WHEN the German nations subdued the Roman empire, they learned to write so they imitated the Romans and wrote down their own usages and digested them into codes."
-c: "darkgreen"
+c: "seagreen"
 weight: 12
 contributors: ['Montesquieu']
 icon: "Montesquieu"

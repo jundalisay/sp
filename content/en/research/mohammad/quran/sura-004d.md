@@ -2,7 +2,7 @@
 title: "Fight for Enki"
 heading: "Sura 4d "
 weight: 44
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

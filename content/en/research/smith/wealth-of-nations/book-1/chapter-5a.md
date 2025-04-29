@@ -5,7 +5,7 @@ weight: 20
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Labor or effort is the foundation of value and subsequently wealth in a society. Money represents the command of labor"
 icon: "Adam Smith"
 ---

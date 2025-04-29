@@ -2,7 +2,7 @@
 title: "Ireland and America"
 heading: "Chapter 3k"
 weight: 26
-c: "darkgreen"
+c: "seagreen"
 description: "Ireland and America should help reduce Great Britain's public debt"
 icon: "Adam Smith"
 writer:

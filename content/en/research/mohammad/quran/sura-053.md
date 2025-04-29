@@ -2,7 +2,7 @@
 title: "The Star (an-Najm)"
 heading: "Sura 53 "
 weight: 182
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

@@ -2,7 +2,7 @@
 title: "The Hamburgh, Russian, and Eastland Regulated Companies"
 heading: "Part 3f"
 weight: 32
-c: "darkgreen"
+c: "seagreen"
 description: "Sir Josiah Child complained these companies were extremely oppressive"
 icon: "Adam Smith"
 writer:

@@ -2,7 +2,7 @@
 title: "The Pen (al-Qalam)"
 heading: "Sura 68a "
 weight: 208
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 draft: true
 ---

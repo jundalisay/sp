@@ -2,13 +2,10 @@
 title= "Rule 1"
 image= "/covers/principia.jpg"
 description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
 icon= "/icons/newton.png"
 draft= true
 +++
+
 
 ### RULE 1
 

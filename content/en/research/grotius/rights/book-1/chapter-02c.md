@@ -2,7 +2,7 @@
 title: The Lawfulness of War
 heading: Chapter 2c
 weight: 12
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

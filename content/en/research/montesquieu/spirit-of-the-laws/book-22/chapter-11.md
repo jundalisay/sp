@@ -2,7 +2,7 @@
 title: "How Rome Devalued their Money"
 heading: "Chapter 11"
 description: "Our two successive ministers exerted much authority over our French coin. But this was vastly exceeded by the Romans after they conquered Italy and had war with the Carthaginians when they raised their coin"
-c: "darkgreen"
+c: "seagreen"
 weight: 14
 contributors: ['Montesquieu']
 icon: "Montesquieu"

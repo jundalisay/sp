@@ -2,7 +2,7 @@
 title: "The Reformation"
 heading: "Part 3zc"
 weight: 78
-c: "darkgreen"
+c: "seagreen"
 description: "The reformation was strong enough to overturn the church and its state where it was weak"
 writer:
   name: Adam Smith

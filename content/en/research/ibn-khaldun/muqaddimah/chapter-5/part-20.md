@@ -1,7 +1,7 @@
 ---
 title: "The Arabs, of all people, are least familiar with crafts"
 description: "The crafts are perfected only if there exists a large and perfect sedentary civilization"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Parts 20-23"
 weight: 26

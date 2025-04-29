@@ -3,7 +3,7 @@ heading: "Chapter 2"
 title: "The Four Laws of Nature"
 weight: 4
 description: "Antecdent to the above-mentioned laws are those of nature"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

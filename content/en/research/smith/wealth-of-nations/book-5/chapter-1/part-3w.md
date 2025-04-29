@@ -2,7 +2,7 @@
 title: "Article 3-Moral Education for People of all Ages"
 heading: "Part 3w"
 weight: 66
-c: "darkgreen"
+c: "seagreen"
 description: "The educational institutions for people of all ages are chiefly those for religious instruction."
 icon: "Adam Smith"
 writer:

@@ -3,7 +3,7 @@ heading: "Chapter 4"
 title: "Commerce in different Governments"
 weight: 4
 description: "TRADE has some relation to forms of government"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

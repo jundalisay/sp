@@ -1,7 +1,7 @@
 ---
 title: "The sciences of human beings and the sciences of angels"
 description: "Through sound intuition, we observe in ourselves the existence of three worlds"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Parts 4-5"
 weight: 14

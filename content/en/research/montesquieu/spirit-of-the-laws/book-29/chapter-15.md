@@ -3,7 +3,7 @@ heading: "Chapter 15"
 title: "The Emperors From Caius, Calicula, to Antoninus"
 weight: 17
 description: "Some nations chose to preserve their ancient usages and not assist Rome"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

@@ -2,7 +2,7 @@
 heading: "Chapter 8c"
 title: "Ban On The Export Of Raw Materials"
 weight: 102
-c: "darkgreen"
+c: "seagreen"
 description: "The exportation of raw materials is subjected to high duties, wherever they are not banned"
 writer:
   name: Adam Smith

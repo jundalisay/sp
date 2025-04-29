@@ -2,7 +2,7 @@
 heading: Chapter 19
 title: "Essay on the Principle of Population"
 description: The question on the future of mankind
-image: "/covers/pop.jpg"
+c: "firebrick"
 author: Malthus
 weight: 140
 date: 2025-04-04
@@ -12,7 +12,23 @@ date: 2025-04-04
 <!-- The sorrows of life necessary to soften and humanize the heart—The excitement of social sympathy often produce characters of a higher order than the mere possessors of talents—Moral evil probably necessary to the production of moral excellence—Excitements from intellectual wants continually kept up by the infinite variety of nature, and the obscurity that involves metaphysical subjects—The difficulties in revelation to be accounted for upon this principle—The degree of evidence which the scriptures contain, probably, best suited to the improvements of the human faculties, and the moral amelioration of mankind—The idea that mind is created by excitements seems to account for the existence of natural and moral evil. -->
 
 
-The sorrows and distresses of life form another class of excitements, which seem to be necessary, by a peculiar train of impressions, to soften and humanize the heart, to awaken social sympathy, to generate all the Christian virtues, and to afford scope for the ample exertion of benevolence. The general tendency of an uniform course of prosperity is rather to degrade than exalt the character. The heart that has never known sorrow itself will seldom be feelingly alive to the pains and pleasures, the wants and wishes, of its fellow beings. It will seldom be overflowing with that warmth of brotherly love, those kind and amiable affections, which dignify the human character even more than the possession of the highest talents. Talents, indeed, though undoubtedly a very prominent and fine feature of mind, can by no means be considered as constituting the whole of it. There are many minds which have not been exposed to those excitements that usually form talents, that have yet been vivified to a high degree by the excitements of social sympathy. In every rank of life, in the lowest as frequently as in the highest, characters are to be found overflowing with the milk of human kindness, breathing love towards God and man, and, though without those peculiar powers of mind called talents, evidently holding a higher rank in the scale of beings than many who possess them. Evangelical charity, meekness, piety, and all that class of virtues distinguished particularly by the name of Christian virtues do not seem necessarily to include abilities; yet a soul possessed of these amiable qualities, a soul awakened and vivified by these delightful sympathies, seems to hold a nearer commerce with the skies than mere acuteness of intellect.
+The sorrows and distresses of life form another class of excitements that are necessary to:
+- soften and humanize the heart
+- awaken social sympathy
+- generate all the Christian virtues
+- afford scope for the ample exertion of benevolence. 
+
+A uniform course of prosperity is to degrade the character.
+
+The heart that has never known sorrow will seldom be feelingly alive to the pains and pleasures, the wants and wishes, of its fellow beings.
+
+It will seldom be overflowing with that warmth of brotherly love, those kind and amiable affections, which dignify the human character even more than the possession of the highest talents.
+
+Talents are a very prominent and fine feature of mind. But they do not constitute the whole of it. 
+
+There are many minds which have not been exposed to those excitements that usually form talents, that have yet been vivified to a high degree by the excitements of social sympathy. 
+
+In every rank of life, in the lowest as frequently as in the highest, characters are to be found overflowing with the milk of human kindness, breathing love towards God and man, and, though without those peculiar powers of mind called talents, evidently holding a higher rank in the scale of beings than many who possess them. Evangelical charity, meekness, piety, and all that class of virtues distinguished particularly by the name of Christian virtues do not seem necessarily to include abilities; yet a soul possessed of these amiable qualities, a soul awakened and vivified by these delightful sympathies, seems to hold a nearer commerce with the skies than mere acuteness of intellect.
 
 The greatest talents have been frequently misapplied and have produced evil proportionate to the extent of their powers. Both reason and revelation seem to assure us that such minds will be condemned to eternal death, but while on earth, these vicious instruments performed their part in the great mass of impressions, by the disgust and abhorrence which they excited. It seems highly probable that moral evil is absolutely necessary to the production of moral excellence. A being with only good placed in view may be justly said to be impelled by a blind necessity. The pursuit of good in this case can be no indication of virtuous propensities. It might be said, perhaps, that infinite Wisdom cannot want such an indication as outward action, but would foreknow with certainly whether the being would choose good or evil. This might be a plausible argument against a state of trial, but will not hold against the supposition that mind in this world is in a state of formation. Upon this idea, the being that has seen moral evil and has felt disapprobation and disgust at it is essentially different from the being that has seen only good. They are pieces of clay that have received distinct impressions: they must, therefore, necessarily be in different shapes; or, even if we allow them both to have the same lovely form of virtue, it must be acknowledged that one has undergone the further process, necessary to give firmness and durability to its substance, while the other is still exposed to injury, and liable to be broken by every accidental impulse. An ardent love and admiration of virtue seems to imply the existence of something opposite to it, and it seems highly probable that the same beauty of form and substance, the same perfection of character, could not be generated without the impressions of disapprobation which arise from the spectacle of moral evil.
 

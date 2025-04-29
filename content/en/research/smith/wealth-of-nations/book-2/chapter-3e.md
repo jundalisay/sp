@@ -3,7 +3,7 @@ heading: "Chapter 3e"
 title: "Austerity Versus Public Spending"
 linkTitle: "Chapter 3e"
 weight: 48
-c: "darkgreen"
+c: "seagreen"
 description: "Austerity Versus Public Spending"
 writer:
   name: Adam Smith

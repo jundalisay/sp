@@ -6,7 +6,7 @@ weight: 4
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
 icon: "Adam Smith"
 ---

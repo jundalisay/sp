@@ -3,7 +3,7 @@ heading: "Chapter 22b"
 title: "The Iconoclast"
 weight: 17
 description: "The dispute was whether the light which encircled Jesus Christ on Mount Tabor was created"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

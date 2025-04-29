@@ -1,7 +1,7 @@
 ---
 title: "The Science of Sociology"
 description: "Human society is necessary. The philosophers expressed this by saying that Man is 'political' by nature."
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 1"
 weight: 2

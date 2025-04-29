@@ -2,7 +2,7 @@
 title: "More Rules on Food, Etc"
 heading: "Sura 5c"
 weight: 52
-c: "darkgreen"
+c: "seagreen"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden."
 ---
 

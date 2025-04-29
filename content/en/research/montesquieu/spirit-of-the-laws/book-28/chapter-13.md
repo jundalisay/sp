@@ -2,7 +2,7 @@
 title: "Differences between the Salian Franks, the Ripuarian Franks, and other barbarous Nations"
 heading: "Chapter 13-16"
 description: "The Salic law did not allow negative proofs. The laws of almost all nations allow the accused to deny the accuser. But the Salic law did not"
-c: "darkgreen"
+c: "seagreen"
 weight: 14
 contributors: ['Montesquieu']
 icon: "Montesquieu"

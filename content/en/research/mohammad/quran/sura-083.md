@@ -2,7 +2,7 @@
 title: "The Defrauders (al-Mutaffifin)"
 heading: "Sura 83a "
 weight: 234
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

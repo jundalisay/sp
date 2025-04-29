@@ -1,7 +1,7 @@
 ---
 title: "Places that succumb to the Arabs are quickly ruined"
 description: "The Arabs are a savage nation"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 25-26"
 writer:

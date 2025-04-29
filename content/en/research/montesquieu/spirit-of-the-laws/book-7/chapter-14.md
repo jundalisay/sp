@@ -3,7 +3,7 @@ heading: "Chapters 14"
 title: "Sumptuary Laws among the Romans"
 weight: 8
 description: "Public incontinence is the inseparable companion of luxury"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

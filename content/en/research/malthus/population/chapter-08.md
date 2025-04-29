@@ -2,7 +2,7 @@
 heading: Chapter 8
 title: "Essay on the Principle of Population"
 description: The question on the future of mankind
-image: "/covers/pop.jpg"
+c: "firebrick"
 author: Malthus
 weight: 40
 date: 2025-04-04

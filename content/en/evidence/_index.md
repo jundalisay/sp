@@ -61,7 +61,7 @@ proofs:
 
   - url : "/social/supersociology/precrisis-years/"
     cat: "Social Superphysics"
-    color: "darkgreen"
+    color: "seagreen"
     img: "/photos/countries/ua/war.jpg"
     title : "The Crisis Years"
     sub : "We correctly predicted 2020 as the start of the crisis years filled with economic crises and war, as an effect of the Negative Force and Social Cycles, just as the Seven Years War and WWI and WWII had them."
@@ -71,7 +71,7 @@ proofs:
     title : "Social Superphysics: Predictions"
     sub : "Over 70% of our predictions, based on Socrates' Social Cycles, have come true (2015-2022)"
     cat: "Social Superphysics"
-    color: "darkgreen"
+    color: "seagreen"
     
   - title : "Superphysics: True Love"
     url : "https://www.youtube.com/watch?v:5alMsLDgc00"

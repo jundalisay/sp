@@ -1,7 +1,7 @@
 ---
 title: "Ibn al-Bawwab"
 description: "Ibn al-Bawwab wrote a poem in the basit meter with the rhyme on r"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 29b"
 weight: 38

@@ -2,7 +2,7 @@
 title: "The Theory of Moral Sentiments Simplified"
 linkTitle: Moral Sentiments
 description: "In order to easily navigate the Theory of Moral Sentiments, we've simplified it according to bullet-style writing"
-image: /covers/tms.jpg
+c: "indigo"
 weight: 12
 # date: 2022-04-23
 menu:

@@ -5,7 +5,7 @@ weight: 18
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Historians made mistakes in Judging Wheat and Silver Prices because they were lazy and because rents were paid in kind"
 icon: "Adam Smith"
 ---

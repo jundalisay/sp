@@ -2,7 +2,7 @@
 heading: "Chapter 9b"
 title: "The Unproductive Class"
 weight: 108
-c: "darkgreen"
+c: "seagreen"
 description: "To the Physiocrats, the unproductive class is composed of merchants, artificers, and manufacturers"
 writer:
   name: Adam Smith

@@ -2,7 +2,7 @@
 title: "General Taxes: The History of Customs Duties"
 heading: "Chapter 2d-01, Article 4"
 weight: 40
-c: "darkgreen"
+c: "seagreen"
 description: "They were called 'customs' to denote customary payments which used from time immemorial"
 icon: "Adam Smith"
 writer:

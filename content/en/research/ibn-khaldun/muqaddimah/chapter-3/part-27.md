@@ -1,7 +1,7 @@
 ---
 title: "The meaning of the oath of allegiance"
 description: "The bay'ah (oath of allegiance) is a contract to render obedience. It is as though the person who renders the oath of allegiance made a contract with his amir, to the effect that he surrenders supervision of his own affairs"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 27"
 weight: 54

@@ -1,7 +1,7 @@
 ---
 title: "Sedentary Culture in Cities Comes From the Dynasties"
 description: "The accumulation of estates and farms in cities, their uses and yields"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 17"
 weight: 28

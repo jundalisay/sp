@@ -1,7 +1,7 @@
 ---
 title: "Calligraphy"
 description: "Writing is the outlining and shaping of letters to indicate audible words which, in turn, indicate what is in the soul"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 29"
 weight: 36

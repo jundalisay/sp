@@ -3,7 +3,7 @@ heading: "Chapter 9"
 title: "The Commerce of the Greek Kings after the Death of Alexander"
 weight: 14
 description: "When Alexander conquered Egypt, they only had an imperfect idea of the Red sea and none of the Indian ocean. They thought it impossible to sail around the Arabian peninsula."
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

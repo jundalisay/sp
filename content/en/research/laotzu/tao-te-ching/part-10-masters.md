@@ -2,7 +2,7 @@
 heading: "Part 10: Chapters 15, 23, 27, 50"
 title: "The Masters of the Tao"
 description: "The Metaphysics of the Tao or True Nature include Pranah, Aether, and the Five elements"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 22
 icon: "Lao Tzu"

@@ -3,7 +3,7 @@ heading: "Chapter 2"
 title: "Disorders in the Eastern Empire"
 weight: 17
 description: "The Persians had cultivated the military art to as great a degree as it was neglected by the Romans"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

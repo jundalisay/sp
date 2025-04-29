@@ -1,7 +1,7 @@
 ---
 heading: Chapter 7
 title: "Monarchy: Its Organisation"
-c: "darkgreen"
+c: "seagreen"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

@@ -2,7 +2,7 @@
 title: "The City, The Sun"
 heading: "Sura 91 "
 weight: 244
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

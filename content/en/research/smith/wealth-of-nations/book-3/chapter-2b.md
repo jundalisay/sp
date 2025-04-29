@@ -2,7 +2,7 @@
 heading: "Chapter 2b"
 title: "Metayers and Sharecropping"
 weight: 12
-c: "darkgreen"
+c: "seagreen"
 description: "Metayers could never be interested to use any of their little stock to improve the land because the lord, who spent nothing, would get half of whatever it produced."
 writer:
   name: Adam Smith

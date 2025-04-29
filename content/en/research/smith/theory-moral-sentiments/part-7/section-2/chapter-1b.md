@@ -2,7 +2,7 @@
 heading: "Chapter 1b"
 title: "Justice"
 description: "Virtue is the temper of mind in the excellent and praise-worthy character. The nature of virtue may be reduced to three classes"
-image: /covers/tms.jpg
+c: "indigo"
 weight: 4
 writer:
   name: Adam Smith

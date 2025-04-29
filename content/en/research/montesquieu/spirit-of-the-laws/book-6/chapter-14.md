@@ -3,7 +3,7 @@ heading: "Chapter 16"
 title: "The Spirit of the Roman Senate"
 weight: 8
 description: "UNDER the consulate of Acilius Glabrio and Piso, the Acilian law was made to prevent the intriguing for places"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

@@ -2,7 +2,7 @@
 title: "The Spider (al-’Ankabut)"
 heading: "Sura 29 "
 weight: 134
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

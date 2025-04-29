@@ -1,7 +1,7 @@
 ---
 title: The Causes of Undertaking War for Others
 heading: Chapter 25
-c: "darkgreen"
+c: "seagreen"
 weight: 60
 description: ""
 author: "Hugo Grotius"

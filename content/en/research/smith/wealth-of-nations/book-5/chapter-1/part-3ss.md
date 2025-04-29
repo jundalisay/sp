@@ -2,7 +2,7 @@
 title: "European Education"
 heading: "Part 3s"
 weight: 58
-c: "darkgreen"
+c: "seagreen"
 description: "The changes introduced by European universities into the ancient course of philosophy were all meant to educate ecclesiastics"
 icon: "Adam Smith"
 writer:

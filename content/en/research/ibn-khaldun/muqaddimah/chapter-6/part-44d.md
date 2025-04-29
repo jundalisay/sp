@@ -2,7 +2,7 @@
 title: "The Inimitability of the Qur'an"
 # title: "The science of syntax and style and literary criticism"
 description: "The inimitability of (the Qur'an) consists in the fact that the (language of the Qur'an) indicates all the requirements of the situations (referred to), whether they are stated or understood"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 44d"
 weight: 132

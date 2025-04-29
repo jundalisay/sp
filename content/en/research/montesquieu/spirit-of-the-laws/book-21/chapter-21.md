@@ -3,7 +3,7 @@ heading: "Chapter 21"
 title: "How Europe was Affected by the Discovery of Two New Worlds"
 weight: 24
 description: "Commerce was transferred to Jews who were covered with infamy. It soon ranked with the most shameful usury with monopolies, the levying of subsidies, and all the dishonest means of acquiring wealth"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

@@ -2,7 +2,7 @@
 title: Feints and Lies
 heading: Chapter 1b
 weight: 8
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

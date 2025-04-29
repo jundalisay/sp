@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "How the Romans Raised Themselves to Empire"
 weight: 6
 description: "Modern Europeans have very near the same arts, the same arms, the same discipline, and the same manner of making war."
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

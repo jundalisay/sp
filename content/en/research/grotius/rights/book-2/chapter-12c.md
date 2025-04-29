@@ -2,7 +2,7 @@
 title: Prices are Demand Driven
 heading: Chapter 12c
 weight: 26
-c: "darkgreen"
+c: "seagreen"
 description: ""
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

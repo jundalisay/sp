@@ -2,7 +2,7 @@
 title: "Consultation (ash-Shura)"
 heading: "Sura 42a "
 weight: 160
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

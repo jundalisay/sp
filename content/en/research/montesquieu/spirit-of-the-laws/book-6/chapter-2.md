@@ -3,7 +3,7 @@ heading: "Chapters 2-3"
 title: "The Simplicity of criminal Laws in Different Governments"
 weight: 6
 description: "MONARCHIES have more complex laws than despotic governments because monarchies need courts of judicature which decide on cases"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

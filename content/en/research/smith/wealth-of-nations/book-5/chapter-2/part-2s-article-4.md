@@ -2,7 +2,7 @@
 title: "Liquor Taxes"
 heading: "Chapter 2d-04, Article 4"
 weight: 46
-c: "darkgreen"
+c: "seagreen"
 description: "In Great Britain, liquors for private use are not liable to any excise duties"
 icon: "Adam Smith"
 writer:

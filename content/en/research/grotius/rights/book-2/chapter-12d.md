@@ -2,7 +2,7 @@
 title: Letting and hiring
 heading: Chapter 12d
 weight: 28
-c: "darkgreen"
+c: "seagreen"
 description: "Letting and hiring, as Caius has justly said, come nearest to selling and buying, and are regulated by the same principles."
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

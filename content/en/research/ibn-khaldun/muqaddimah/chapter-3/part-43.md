@@ -1,7 +1,7 @@
 ---
 title: "The division of a Dynasty into two"
 description: "The first perceptible consequence of a dynasty's senility is that it splits"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 43"
 weight: 120

@@ -5,6 +5,6 @@ linkTitle: "Book 9"
 weight: 18
 # "2021-09-30"
 description: "Book 9 of The Spirit of the Laws by Montesquieu Simplified in 10 chapters"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 ---

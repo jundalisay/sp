@@ -1,7 +1,7 @@
 ---
 title: "The Progress of Royal Authority"
 description: "The dynasty becomes senile after it claims all glory for itself and establishes luxury and tranquility"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 11"
 weight: 24

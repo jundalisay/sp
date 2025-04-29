@@ -2,7 +2,7 @@
 heading: "Part 11: Chapters 16, 44-47, 56"
 title: "Self-Realization"
 description: "Self-Realization can be attained by meditation and fellow-feeling"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 24
 icon: "Lao Tzu"

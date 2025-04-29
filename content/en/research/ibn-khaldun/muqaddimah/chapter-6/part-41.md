@@ -1,7 +1,7 @@
 ---
 title: "Scholars are least familiar with the ways of politics"
 description: "Scholars are used to mental speculation and to a searching study of ideas which they abstract from the sensibilia and conceive in their minds as general universals"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 41"
 weight: 118

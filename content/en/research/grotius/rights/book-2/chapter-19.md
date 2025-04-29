@@ -2,7 +2,7 @@
 title: The Right of Burial
 heading: Chapter 19
 weight: 40
-c: "darkgreen"
+c: "seagreen"
 description: ""
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

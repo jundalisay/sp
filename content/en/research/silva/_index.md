@@ -1,8 +1,9 @@
 ---
 # heading: "Semi-Enlightened"
 title: "Jose Silva"
-# description: "Sismondi was a socialist economist who treated Economics as beneficence"
-image: /covers/silva.jpg
+description: "The Silva Method"
+c: "deeppink"
 # date: 2022-04-25
 weight: 194
+draft: true
 ---

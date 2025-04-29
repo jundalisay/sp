@@ -3,7 +3,7 @@ heading: "Chapters 1-2"
 title: "The Source of feudal Laws"
 weight: 4
 description: "Commerce was transferred to Jews who were covered with infamy."
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

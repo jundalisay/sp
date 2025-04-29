@@ -1,7 +1,7 @@
 ---
 title: "Tahir bin al-Husayn's Letter (Part 2)"
 description: "Tahir's Letter to his Son Abdallah"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 50c"
 weight: 134

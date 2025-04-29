@@ -5,6 +5,6 @@ description: "Part 1 deals with civil law"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 weight: 2
 ---

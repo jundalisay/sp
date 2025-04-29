@@ -3,7 +3,7 @@ heading: "Chapters 8"
 title: "Honour in a Despotism, Principles of Despotism"
 weight: 4
 description: "Honour is not the Principle of a despotic Government"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

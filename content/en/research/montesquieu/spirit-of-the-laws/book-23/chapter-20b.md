@@ -2,7 +2,7 @@
 title: "Constantine's Law"
 heading: "Chapter 20b"
 description: "THE Romans, by destroying others, were themselves destroyed. Through incessant action they wore out like a weapon kept constantly in use"
-c: "darkgreen"
+c: "seagreen"
 author: "Montesquieu"
 ---
 

@@ -2,7 +2,7 @@
 heading: "Part 16: Chapters 75-77"
 title: "Taonomics"
 description: "Economics with the Tao is Taonomics"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 32
 icon: "Lao Tzu"

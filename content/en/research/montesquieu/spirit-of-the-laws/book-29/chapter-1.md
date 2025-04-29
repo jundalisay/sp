@@ -3,7 +3,7 @@ heading: "Chapter 1"
 title: "The Infancy of Rome and the Wars it sustained"
 weight: 4
 description: "Some nations chose to preserve their ancient usages and not assist Rome"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

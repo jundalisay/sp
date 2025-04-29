@@ -2,7 +2,7 @@
 title: "The Turkey Company (1581-1825)"
 heading: "Part 3g"
 weight: 34
-c: "darkgreen"
+c: "seagreen"
 description: "By a bylaw, no British manufactures could be exported to Turkey except in the company's ships."
 icon: "Adam Smith"
 writer:

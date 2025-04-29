@@ -2,7 +2,7 @@
 heading: "Part 6: Chapters 24, 34-35, 42"
 title: "Brahma"
 description: "Brahma is an effect of the course or flow of the Tao"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 14
 icon: "Lao Tzu"

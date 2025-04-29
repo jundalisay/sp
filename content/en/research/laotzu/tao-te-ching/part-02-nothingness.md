@@ -2,7 +2,7 @@
 heading: "Part 2: Chapters 3-5"
 title: "The Tao or True Nature is Nothingness"
 description: "The Tao or True Nature is nameless, non-extreme, non-dualistic"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 6
 icon: "Lao Tzu"

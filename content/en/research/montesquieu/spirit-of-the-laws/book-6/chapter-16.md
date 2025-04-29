@@ -3,7 +3,7 @@ heading: "Chapter 16"
 title: "The Just Proportion Between Punishments and Crimes"
 weight: 8
 description: "Public incontinence is the inseparable companion of luxury"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

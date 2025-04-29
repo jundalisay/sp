@@ -2,7 +2,7 @@
 title: "The Chambers (al-Hujurat)"
 heading: "Sura 49 "
 weight: 174
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

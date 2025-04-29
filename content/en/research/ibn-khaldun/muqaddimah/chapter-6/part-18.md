@@ -1,7 +1,7 @@
 ---
 title: "The history of the intellectual sciences"
 description: "The four kinds of intellectual sciences are logic, physics, metaphysics, and measurements"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 18"
 weight: 58

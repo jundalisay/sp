@@ -3,7 +3,7 @@ heading: "Chapter 4a"
 title: "Stock Lent At Interest"
 linkTitle: "Chapter 4a"
 weight: 50
-c: "darkgreen"
+c: "seagreen"
 description: "The stock lent at interest is always considered as a capital by its lender"
 writer:
   name: Adam Smith

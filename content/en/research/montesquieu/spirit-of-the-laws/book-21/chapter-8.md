@@ -3,7 +3,7 @@ heading: "Chapter 8"
 title: "Alexander's Conquest"
 weight: 14
 description: "FOUR great events happened in the reign of Alexander--The taking of Tyre, The conquest of Egypt, The conquest of India, The discovery of the Indian Ocean"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

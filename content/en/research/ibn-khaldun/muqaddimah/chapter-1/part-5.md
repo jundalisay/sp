@@ -2,7 +2,7 @@
 # title: "Differences in food supply in the inhabited regions"
 title: "The Benefits of a Low Calorie Diet"
 description: "In some parts, the inhabitants enjoy an abundance of grain, seasonings, wheat, and fruits, because the soil is well balanced"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 5"
 weight: 28

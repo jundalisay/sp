@@ -1,7 +1,7 @@
 ---
 title: "Natural and contrived speech"
 description: "How contrived speech may be either good or deficient"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 55"
 weight: 154

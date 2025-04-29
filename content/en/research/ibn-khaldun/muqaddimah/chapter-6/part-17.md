@@ -1,7 +1,7 @@
 ---
 title: "The science of dream interpretation"
 description: "This originated in Islam when the sciences became crafts and scholars wrote books on them"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 17"
 weight: 54

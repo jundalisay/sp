@@ -2,7 +2,7 @@
 title: "Column (as-Saff)"
 heading: "Sura 61a "
 weight: 198
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

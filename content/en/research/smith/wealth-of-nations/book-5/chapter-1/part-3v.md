@@ -2,7 +2,7 @@
 title: "Education for the Poor"
 heading: "Part 3v"
 weight: 64
-c: "darkgreen"
+c: "seagreen"
 description: "In England, charity schools have the same effect though not so universally, because charity schools are not so universal"
 icon: "Adam Smith"
 writer:

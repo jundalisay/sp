@@ -2,7 +2,7 @@
 title: "How the Proceedings at Law Became Secret and Incur Costs"
 heading: "Chapter 34-35"
 description: "The Spread of Literacy Allowed Proceedings to be Secret, while the appeals allowed lawsuits to multiply, leading to court fees"
-c: "darkgreen"
+c: "seagreen"
 weight: 76
 contributors: ['Montesquieu']
 icon: "Montesquieu"

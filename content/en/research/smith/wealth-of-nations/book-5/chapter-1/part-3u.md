@@ -2,7 +2,7 @@
 title: "Women's Education and Basic Educational Institutions"
 heading: "Part 3u"
 weight: 62
-c: "darkgreen"
+c: "seagreen"
 description: "There are no public educational institutions for women. There is accordingly nothing useless, absurd, or fantastic in their common education"
 icon: "Adam Smith"
 writer:

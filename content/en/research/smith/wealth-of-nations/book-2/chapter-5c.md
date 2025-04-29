@@ -3,7 +3,7 @@ heading: "Chapter 5c"
 title: "Residence of Capitals Used in Different Employments"
 linkTitle: "Chapter 5c"
 weight: 55
-c: "darkgreen"
+c: "seagreen"
 description: "The destiny of all capitals is to maintain productive labour"
 writer:
   name: Adam Smith

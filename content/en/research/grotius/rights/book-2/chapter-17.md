@@ -2,7 +2,7 @@
 title: Damages Occasioned by Injury and the Obligation to Repair Them
 heading: Chapter 17
 weight: 36
-c: "darkgreen"
+c: "seagreen"
 description: ""
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

@@ -2,7 +2,7 @@
 heading: "Chapter 7"
 title: "Population"
 weight: 20
-c: "darkgreen"
+c: "seagreen"
 a: "Sismondi"
 icon: "Sismondi"
 description: "Political economists must always take 2 elements together"

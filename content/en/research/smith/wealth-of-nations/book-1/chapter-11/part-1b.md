@@ -5,7 +5,7 @@ weight: 5
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "In the progress of improvement, the rent and profit of unimproved pasture come to be regulated by the rent and profit of improved pasture"
 icon: "Adam Smith"
 ---

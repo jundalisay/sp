@@ -2,7 +2,7 @@
 title: "The Fall of the Western Empire"
 heading: "Part 1e"
 weight: 12
-c: "darkgreen"
+c: "seagreen"
 description: "History shows the superiority of a well-regulated standing army over a militia"
 writer:
   name: Adam Smith

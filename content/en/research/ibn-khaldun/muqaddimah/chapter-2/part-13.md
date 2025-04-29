@@ -1,7 +1,7 @@
 ---
 title: "The Four Generation Rule"
 description: "All nobility and prestige ends after four successive generations"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Parts 13-15"
 writer:

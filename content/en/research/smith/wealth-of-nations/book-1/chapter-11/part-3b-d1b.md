@@ -5,7 +5,7 @@ weight: 22
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "From 1570 to 1640, the proportion of silver and wheat values were opposite. Silver sunk in its real value. Wheat rose in its nominal price"
 icon: "Adam Smith"
 ---

@@ -2,7 +2,7 @@
 title: "Noah (Nuh)"
 heading: "Sura 71a "
 weight: 214
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

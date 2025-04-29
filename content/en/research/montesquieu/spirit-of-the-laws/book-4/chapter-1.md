@@ -3,7 +3,7 @@ heading: "Chapters 1-4"
 title: "The Laws of Education"
 weight: 4
 description: "Commerce was transferred to Jews who were covered with infamy. It soon ranked with the most shameful usury with monopolies, the levying of subsidies, and all the dishonest means of acquiring wealth"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

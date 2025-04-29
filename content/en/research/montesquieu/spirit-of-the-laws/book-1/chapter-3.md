@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "The Laws Depend on the Nature of the People"
 weight: 6
 description: "As soon as mankind enter into a state of society, they lose the sense of their weakness. Equality ceases, and then commences the state of war"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

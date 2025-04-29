@@ -5,7 +5,7 @@ weight: 6
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Division of Labor raises productivity by increasing skill, time savings, and by the invention of technology"
 icon: "Adam Smith"
 ---

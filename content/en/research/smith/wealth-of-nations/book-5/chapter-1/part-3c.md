@@ -2,7 +2,7 @@
 title: "State-Owned Public Works"
 heading: "Part 3c"
 weight: 26
-c: "darkgreen"
+c: "seagreen"
 description: "The following public works are always better maintained by a local or public revenue"
 icon: "Adam Smith"
 writer:

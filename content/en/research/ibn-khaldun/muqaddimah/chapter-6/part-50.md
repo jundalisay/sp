@@ -1,7 +1,7 @@
 ---
 title: "What is the real meaning of the word 'taste'?"
 description: "If another habit previously occupied the place of that habit, the subsequent habit has not enough room to develop"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 50"
 weight: 142

@@ -3,7 +3,7 @@ heading: "Chapter 1"
 title: "Offensive Force and War"
 weight: 2
 description: "OFFENSIVE force is regulated by the law of nations which is the political law of each country relative to other countries"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

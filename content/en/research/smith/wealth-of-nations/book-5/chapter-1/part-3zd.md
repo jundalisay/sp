@@ -2,7 +2,7 @@
 title: "Educational Fees"
 heading: "Part 3zd"
 weight: 80
-c: "darkgreen"
+c: "seagreen"
 description: "The proper performance of every service requires that its pay be proportional to the nature of the service"
 writer:
   name: Adam Smith

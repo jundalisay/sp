@@ -5,7 +5,7 @@ weight: 34
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "In every farm, the offals of the barn and stables will maintain Poultry, Pork, and Dairy"
 icon: "Adam Smith"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Science of Alchemy"
 description: "This studies the substance through which the generation of gold and silver may be artificially accomplished"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 29"
 weight: 90

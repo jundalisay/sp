@@ -2,7 +2,7 @@
 title: Moderation in Acquiring Dominion
 heading: Chapter 15
 weight: 32
-c: "darkgreen"
+c: "seagreen"
 description: That equity and moderation towards individuals, which are so highly extolled, are still more deserving of admiration, when exercised towards nations and kingdoms
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

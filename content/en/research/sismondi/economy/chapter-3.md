@@ -2,7 +2,7 @@
 heading: "Chapter 2"
 title: "Territorial Wealth"
 weight: 12
-c: "darkgreen"
+c: "seagreen"
 a: "Sismondi"
 icon: "Sismondi"
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"

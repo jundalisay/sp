@@ -2,7 +2,7 @@
 title: "The South Sea Joint Stock Company"
 heading: "Part 3l"
 weight: 44
-c: "darkgreen"
+c: "seagreen"
 description: "The South Sea Joint Stock Company never had any forts or garrisons to maintain. But they had an immense capital divided among so many proprietors"
 icon: "Adam Smith"
 writer:

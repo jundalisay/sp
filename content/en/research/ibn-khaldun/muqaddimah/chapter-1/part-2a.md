@@ -1,7 +1,7 @@
 ---
 title: "The Earth"
 description: "Philosophers speculated that the earth is a sphere enveloped by water, like a grape floating on water"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 2a"
 weight: 4

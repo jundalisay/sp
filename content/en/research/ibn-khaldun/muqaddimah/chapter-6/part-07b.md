@@ -2,7 +2,7 @@
 title: No to Intellectual or Racial Superiority
 # title: "Judge Abu1-Qasim bin Zaytun"
 description: "The inhabitants of the East are more firmly rooted in the craft of scientific instruction and in all the other crafts than Maghribis"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 7b"
 weight: 18

@@ -1,7 +1,7 @@
 ---
 title: "The Wazirate"
 description: "The wazirate is the mother of governmental functions and royal ranks"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 32b"
 weight: 78

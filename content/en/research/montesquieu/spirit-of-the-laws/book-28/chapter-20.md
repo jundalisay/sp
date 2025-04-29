@@ -4,7 +4,7 @@ heading:  "Chapter 20-21"
 description:  "The capitulary of Lewis the Debonnaire, allows the liberty of chusing to fight either with the sword or baston"
 weight: 60
 author:  "Montesquieu"
-c: "darkgreen"
+c: "seagreen"
 ---
 
 

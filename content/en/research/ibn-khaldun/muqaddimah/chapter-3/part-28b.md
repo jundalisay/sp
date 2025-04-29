@@ -1,7 +1,7 @@
 ---
 title: "Issues With the Early Succession"
 description: "Yazid was wicked as a caliph"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 28b"
 weight: 58

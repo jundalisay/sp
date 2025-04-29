@@ -2,7 +2,7 @@
 title: Tacit Faith
 heading: Chapter 24
 weight: 44
-c: "darkgreen"
+c: "seagreen"
 description:  Both public, private, and mixed, conventions admit of tacit consent, which is allowed by custom. For in whatever manner consent is indicated and accepted it has the power of conveying a right
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

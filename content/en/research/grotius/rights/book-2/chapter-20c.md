@@ -2,7 +2,7 @@
 title: Punishments
 heading: Chapter 20c
 weight: 46
-c: "darkgreen"
+c: "seagreen"
 description: ""
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

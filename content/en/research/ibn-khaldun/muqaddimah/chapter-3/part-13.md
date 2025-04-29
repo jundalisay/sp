@@ -1,7 +1,7 @@
 ---
 title: "From Barbarity to Civilization"
 description: "The transition of dynasties from desert life to sedentary culture"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 13"
 weight: 28

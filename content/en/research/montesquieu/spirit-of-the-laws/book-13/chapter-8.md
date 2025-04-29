@@ -4,7 +4,7 @@ title: "How the Deception is preserved"
 linkTitle: "Chapter 3"
 weight: 6
 description: "In order to make the purchaser confound the price of the commodity with the tax, there must be some proportion between the tax and the value of the commodity"
-c: "darkgreen"
+c: "seagreen"
 icon: "/icons/mont.png"
 ---
 

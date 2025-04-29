@@ -3,7 +3,7 @@ heading: "Chapter 21"
 title: "The Prince's Clemency"
 weight: 20
 description: "CLEMENCY is the characteristic of monarchs. In republics, whose principle is virtue, it is not so necessary"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 ---
 

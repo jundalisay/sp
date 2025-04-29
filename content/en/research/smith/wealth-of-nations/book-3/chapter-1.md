@@ -2,7 +2,7 @@
 heading: "Chapter 1"
 title: "The Natural Progress of Opulence"
 weight: 8
-c: "darkgreen"
+c: "seagreen"
 description: "The Rise of Cities After the Fall of Rome The Freedom in European Towns"
 writer:
   name: Adam Smith

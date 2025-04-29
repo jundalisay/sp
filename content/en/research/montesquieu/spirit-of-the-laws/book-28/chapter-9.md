@@ -2,7 +2,7 @@
 title: "How the Codes of Barbarian Laws, and the Capitularies were lost"
 heading: "Chapter 9"
 description: "Those laws were lost because of the power of the Church which maintained order during the barbaric times"
-c: "darkgreen"
+c: "seagreen"
 weight: 10
 contributors: ['Montesquieu']
 icon: "Montesquieu"

@@ -3,7 +3,7 @@ heading: "Chapters 16-17"
 title: "The Communication of Power"
 weight: 12
 description: "WHEN the savages of Louisiana want fruit, they cut the tree to the root, and gather the fruit. This is an emblem of despotic government"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

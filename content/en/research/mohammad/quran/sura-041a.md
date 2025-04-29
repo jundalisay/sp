@@ -2,7 +2,7 @@
 title: "Detailed (Fussilat)"
 heading: "Sura 41a "
 weight: 158
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

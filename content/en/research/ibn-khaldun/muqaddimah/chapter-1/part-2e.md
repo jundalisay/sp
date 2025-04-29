@@ -1,7 +1,7 @@
 ---
 title: "Zone 1: Egypt, Yemen, Sri Lanka, Korea"
 description: "The first zone contains only a part of China to the east and the whole of the Yemen"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 2d"
 weight: 10

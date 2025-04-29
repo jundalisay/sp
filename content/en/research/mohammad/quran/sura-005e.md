@@ -2,7 +2,7 @@
 title: "Jesus Son of Mary"
 heading: "Sura 5d "
 weight: 56
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

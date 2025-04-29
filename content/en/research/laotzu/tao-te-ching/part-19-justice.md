@@ -2,7 +2,7 @@
 heading: "Part 19: Chapters 70-74"
 title: "Knowledge, Laws, and Justice"
 description: "Karma will eventually catch the unjust"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 34
 icon: "Lao Tzu"

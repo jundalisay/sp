@@ -1,7 +1,7 @@
 ---
 title: "Treasure Hunting is not a natural way of making a living"
 description: "Trying to make money from buried and other treasures is not a natural way of making a living"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 4"
 weight: 16

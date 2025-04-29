@@ -3,7 +3,7 @@ heading: "Chapters 6"
 title: "The Goths, Burgundians, and Franks"
 weight: 4
 description: "Commerce was transferred to Jews who were covered with infamy."
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

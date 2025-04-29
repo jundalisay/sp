@@ -2,7 +2,7 @@
 title: The Original Acquisition of Things, and the Right of Property in Seas and Rivers
 heading: Chapter 3
 weight: 12
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

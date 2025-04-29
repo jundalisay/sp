@@ -2,7 +2,7 @@
 heading: "Part 1: Chapters 1-9"
 title: "What is the Tao?"
 description: "The Tao or True Nature is nameless, non-extreme, non-dualistic"
-image: "/covers/tao.jpg"
+c: "indigo"
 # date: 2020-01-29
 weight: 2
 icon: "Lao Tzu"

@@ -3,7 +3,7 @@ heading: "Chapters 6-8"
 title: "Conquests made by a Monarchy"
 weight: 8
 description: "A monarchy should not conquer beyond the natural limits of its government"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

@@ -2,7 +2,7 @@
 title: Title to Desert Land by Occupancy, Possession, Prescription.
 heading: Chapter 4
 weight: 14
-c: "darkgreen"
+c: "seagreen"
 description: The civil law, among other fictions, introduced that of the law's personating those, who are not yet in being, and so preventing any occupancy from taking place to their prejudice
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

@@ -2,7 +2,7 @@
 title: "The African Regulated Company of Merchants (1752-1821)"
 heading: "Part 3h"
 weight: 36
-c: "darkgreen"
+c: "seagreen"
 description: "The 23rd of George 2nd chapter 31 established the African Company"
 icon: "Adam Smith"
 writer:

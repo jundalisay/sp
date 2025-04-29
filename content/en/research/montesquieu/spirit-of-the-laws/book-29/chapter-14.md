@@ -3,7 +3,7 @@ heading: "Chapter 14"
 title: "Tiberius"
 weight: 17
 description: "Some nations chose to preserve their ancient usages and not assist Rome"
-c: "darkgreen"
+c: "seagreen"
 contributors: ['Montesquieu']
 icon: "Montesquieu"
 ---

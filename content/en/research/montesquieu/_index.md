@@ -3,7 +3,7 @@ title: "Montesquieu"
 heading: "Trying-hard-to-seem-enlightened-but-not-quite"
 # image: "/covers/mont.jpg"
 a: "Montesquieu"
-c: "darkgreen"
+c: "seagreen"
 description: "Montesquieu was a French philosopher who wrote about history, economics, and politics. Unlike other historians who merely analyzed events individually, he analyzed them relative to each other. For example, he compared how the population policy of the ancient China was similary yet different from that of Greece."
 weight: 140
 # date: 2020-10-31

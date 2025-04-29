@@ -2,7 +2,7 @@
 title: Promises
 heading: Chapter 11
 weight: 20
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

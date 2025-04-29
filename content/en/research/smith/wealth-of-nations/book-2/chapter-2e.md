@@ -5,7 +5,7 @@ weight: 18
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Cash Accounts and Discounted Bills of Exchange adds to the circulation of value"
 icon: "Adam Smith"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Science of Metaphysics"
 description: "This studies the substance through which the generation of gold and silver may be artificially accomplished, and comments on the operation leading to it"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 26"
 weight: 72

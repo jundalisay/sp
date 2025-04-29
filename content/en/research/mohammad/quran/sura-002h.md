@@ -2,7 +2,7 @@
 title: "Fight for Enki"
 heading: "Sura 2h "
 weight: 18
-c: "darkgreen"
+c: "seagreen"
 description: "Fight in the cause of Enki those who fight you"
 ---
 

@@ -2,7 +2,7 @@
 title: "Mary and Zachariah"
 heading: "Sura 3b "
 weight: 30
-c: "darkgreen"
+c: "seagreen"
 description: "The Prophet Mohammad tries to connect the historical Imran family to his Islam."
 ---
 

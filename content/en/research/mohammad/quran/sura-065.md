@@ -2,7 +2,7 @@
 title: "Divorce (at-Talaq)"
 heading: "Sura 65a "
 weight: 202
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

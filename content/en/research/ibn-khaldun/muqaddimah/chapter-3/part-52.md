@@ -1,7 +1,7 @@
 ---
 title: "Forecasting the future of dynasties and nations"
 description: "The caliph acts as substitute for Muhammad with regard to the preservation of Islam and the political leadership of the world"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 52"
 weight: 152

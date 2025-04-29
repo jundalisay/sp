@@ -5,7 +5,7 @@ weight: 38
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "The multiplication fish is both limited and uncertain"
 icon: "Adam Smith"
 ---

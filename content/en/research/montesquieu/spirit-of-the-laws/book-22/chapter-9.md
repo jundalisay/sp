@@ -2,7 +2,7 @@
 title: "The relative Scarcity of Gold and Silver"
 heading: "Chapter 9"
 description: "BESIDES the positive plenty and scarcity of gold and silver, there is still a relative abundance and a relative scarcity of one of these metals compared to the other"
-c: "darkgreen"
+c: "seagreen"
 weight: 12
 contributors: ['Montesquieu']
 icon: "Montesquieu"

@@ -5,7 +5,7 @@ weight: 42
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "Wages in Great Britain"
 icon: "Adam Smith"
 ---

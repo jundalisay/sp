@@ -2,7 +2,7 @@
 title: Contracts and Exchange
 heading: Chapter 12
 weight: 24
-c: "darkgreen"
+c: "seagreen"
 description: Human actions divided into simple or mixed—Gratuitous, or accompanied with mutual obligation—Acts by way of exchange, adjustment of what is to be given or done.
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

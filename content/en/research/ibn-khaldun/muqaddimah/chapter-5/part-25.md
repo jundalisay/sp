@@ -1,7 +1,7 @@
 ---
 title: "Carpentry"
 description: "The crafts are perfected only if there exists a large and perfect sedentary civilization"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Parts 25-26"
 weight: 30

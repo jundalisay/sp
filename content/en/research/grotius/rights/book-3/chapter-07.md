@@ -2,7 +2,7 @@
 title: The Right Over Prisoners of War
 heading: Chapter 7
 weight: 22
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

@@ -1,7 +1,7 @@
 ---
 title: "A person whose first language was not Arabic has a harder time acquiring the sciences"
 description: "A person whose first language was not Arabic has a harder time to acquire the sciences than a native Arabic speaker"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 43"
 weight: 124

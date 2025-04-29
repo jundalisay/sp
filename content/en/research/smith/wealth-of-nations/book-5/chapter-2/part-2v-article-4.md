@@ -2,7 +2,7 @@
 title: "French Taxation"
 heading: "Chapter 2d-07, Article 4"
 weight: 52
-c: "darkgreen"
+c: "seagreen"
 description: "In France, the laws require many revenue officers to prevent the importation of certain goods, or subject imported goods to certain duties"
 icon: "Adam Smith"
 writer:

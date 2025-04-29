@@ -2,7 +2,7 @@
 title: "Prohibition (at-Tahrim)"
 heading: "Sura 66a "
 weight: 204
-c: "darkgreen"
+c: "seagreen"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

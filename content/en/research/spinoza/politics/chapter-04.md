@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4
 title: "Rights of Sovereign Powers"
-c: "darkgreen"
+c: "seagreen"
 description: "All things are predetermined by God, from his infinite power and not from his free will"
 writer:
   name: Spinoza

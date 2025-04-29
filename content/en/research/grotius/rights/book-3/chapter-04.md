@@ -2,7 +2,7 @@
 title: The Right of Committing Acts of Hostility in Lawful War 
 heading: Chapter 4
 weight: 14
-c: "darkgreen"
+c: "seagreen"
 description: 
 author: "Hugo Grotius"
 icon: "Hugo Grotius"

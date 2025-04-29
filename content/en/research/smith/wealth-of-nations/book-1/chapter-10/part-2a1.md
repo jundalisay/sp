@@ -5,7 +5,7 @@ weight: 66
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-c: "darkgreen"
+c: "seagreen"
 description: "University Apprenticeships reduce competition and create Inequality"
 icon: "Adam Smith"
 ---

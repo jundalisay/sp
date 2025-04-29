@@ -4,7 +4,7 @@ title: "Taxes in Countries where some people are Villains or Bondmen"
 linkTitle: "Chapter 3"
 weight: 4
 description: "The bondman or villain that tills the land should have a kind of partnership with his master"
-c: "darkgreen"
+c: "seagreen"
 icon: "/icons/mont.png"
 ---
 

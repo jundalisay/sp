@@ -1,7 +1,7 @@
 ---
 title: "The Five Universals"
 description: "When the theologians invented the science of speculative theology their approach was to use  particular evidence"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 22b"
 weight: 68

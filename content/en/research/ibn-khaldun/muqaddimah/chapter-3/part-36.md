@@ -1,7 +1,7 @@
 ---
 title: "The Reason For Low And High Tax Revenues"
 description: "At the beginning of the dynasty, taxation yields a large revenue from small assessments. At the end of the dynasty, taxation yields a small revenue from large assessments"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 36"
 weight: 108

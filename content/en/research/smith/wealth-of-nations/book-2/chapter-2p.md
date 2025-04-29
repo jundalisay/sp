@@ -2,7 +2,7 @@
 title: "Agio"
 heading: "Chapter 2p"
 weight: 40
-c: "darkgreen"
+c: "seagreen"
 description: "The Agio is the superiority of bank money over current money even if this bank money cannot be taken out at the owner's will."
 icon: "Adam Smith"
 ---

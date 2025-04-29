@@ -2,7 +2,7 @@
 title: "The Revival of the Roman Law and the Change in the Tribunals"
 heading: "Chapter 42"
 description: "AFTER the Franks left their own country, they compiled the Salic laws with the help of their own sages"
-c: "darkgreen"
+c: "seagreen"
 weight: 88
 contributors: ['Montesquieu']
 icon: "Montesquieu"

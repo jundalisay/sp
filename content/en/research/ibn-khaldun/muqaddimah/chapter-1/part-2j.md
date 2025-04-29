@@ -1,7 +1,7 @@
 ---
 title: "Zone 6"
 description: "Half of this section is mostly covered by the sea, which stretches eastward in a curving line along the northern part"
-c: "darkgreen"
+c: "seagreen"
 icon: "Ibn Khaldun"
 heading: "Part 2i"
 weight: 20

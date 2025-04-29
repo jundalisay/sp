@@ -2,7 +2,7 @@
 heading: "Chapter 8b"
 title: "Bounties On The Importation Of Raw Materials"
 weight: 99
-c: "darkgreen"
+c: "seagreen"
 description: "The encouragement given by bounties to the importation of manufacturing materials was confined to those imported from our American plantations"
 writer:
   name: Adam Smith
