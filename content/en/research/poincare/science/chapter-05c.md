@@ -3,9 +3,9 @@ title: Experiments only teach us the relations of bodies
 heading: Chapter 5c
 weight: 32
 description:  They do not and cannot give us the relations of bodies and space, nor the mutual relations of the different parts of space.
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

@@ -3,7 +3,7 @@ heading: Chapter 5
 title: "Fifth way of acquiring Property: Voluntary Transference"
 # date: 2015-09-20
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "Two things are required in voluntary transference: intention of the transferer and transferee, and the actual delivery"
 weight: 14
 writer:

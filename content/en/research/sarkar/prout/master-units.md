@@ -4,8 +4,8 @@ title: "Master Units"
 weight: 30
 author: "PR Sarkar"
 description: "Through Master Units and PROUT, we will elevate the standard of the people in a few months or a few years. We should also serve the people immediately by all-round service"
-image: "/covers/prout.jpg"
-icon: "/icons/sarkar.png"
+c: "seagreen"
+icon: "PR Sarkar"
 ---
 
 

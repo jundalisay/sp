@@ -2,7 +2,7 @@
 title: Preface
 weight: 4
 description: As long as we do not go outside the domain of consciousness, the notion of time is relatively clear
-image: "/covers/time.jpg"
+c: "steelblue"
 author: "Lucien Poincare"
 ---
 

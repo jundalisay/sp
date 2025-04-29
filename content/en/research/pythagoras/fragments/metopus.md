@@ -2,7 +2,7 @@
 title: "Metopus' Treatise on Virtue"
 weight: 12
 description: "Iamblichus’ Life of Pythagoras, or Pythagoric Life"
-image: "/covers/fragments.png"
+c: "indigo"
 ---
 
 

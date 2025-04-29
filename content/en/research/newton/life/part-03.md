@@ -2,7 +2,7 @@
 heading: Part 3
 title: "The Nature of Gravity"
 description: "His attention was soon drawn to that of Judicial Astrology"
-image: "/covers/newton.jpg"
+c: "firebrick"
 weight: 6
 date: 2024-12-02
 ---

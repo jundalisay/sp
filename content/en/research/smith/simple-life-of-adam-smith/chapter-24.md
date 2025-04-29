@@ -4,7 +4,7 @@ heading: "Chapter 24"
 description: "The reception of the Wealth of Nations Abroad and Home"
 weight: 60
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

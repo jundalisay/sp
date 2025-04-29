@@ -2,7 +2,7 @@
 heading: Section 37
 title: "Confinement and the Mass Gap"
 description: "Asymptotic freedom gave a dynamical reason to believe that Yang-Mills was likely responsible for the strong force"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 70
 ---

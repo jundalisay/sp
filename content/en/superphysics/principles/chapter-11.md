@@ -3,7 +3,8 @@ heading: "Chapter 11"
 title: "What is Socratic Dialectics?"
 date: 2019-01-02
 weight: 62
-image: "/covers/socrates.jpg"
+a: "Socrates.jpg"
+c: "steelblue"
 description: "The Dialectics of Socrates unifies metaphysics and science into a single body of understanding"
 writer:
   name: Juan

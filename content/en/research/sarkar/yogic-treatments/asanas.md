@@ -4,7 +4,7 @@ weight: 2
 author: "PR Sarkar"
 description: ""
 image: "/photos/med/heartburn.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

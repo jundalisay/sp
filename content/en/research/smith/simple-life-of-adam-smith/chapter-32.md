@@ -4,7 +4,7 @@ heading: "Chapter 32"
 description: "Smith died from a long and painful illness"
 date: 2015-07-24
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

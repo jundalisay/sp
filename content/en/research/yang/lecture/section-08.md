@@ -2,7 +2,7 @@
 heading: Section 8
 title: "Building the Hilbert Space"
 description: "To construct the physical Hilbert space of Maxwell theory, we set ✓ = 0"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 16
 ---

@@ -7,7 +7,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "By being captives, criminals, indebted, selling oneself, and being children of slaves"
 ---
 

@@ -2,7 +2,7 @@
 title: "Polus' Treatise On Justice (Dharma)"
 weight: 14
 description: "Dharma may be called the mother and the nurse of the other virtues"
-image: "/covers/fragments.png"
+c: "indigo"
 ---
 
 

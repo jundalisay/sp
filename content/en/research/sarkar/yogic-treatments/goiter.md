@@ -4,7 +4,7 @@ weight: 25
 author: "PR Sarkar"
 description: "The lack of iodine can cause gland swelling and pain especially the thyroid gland"
 image: "/photos/med/cancer2.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

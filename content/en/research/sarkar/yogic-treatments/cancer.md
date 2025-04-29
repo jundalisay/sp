@@ -4,7 +4,7 @@ weight: 8
 author: "PR Sarkar"
 description: "Cancer is a disease of the whole body. It is also a Tridośaja disease  involving disturbances of váyu, pitta and kapha. It is a combined effect of many different factors"
 image: "/photos/med/cancer.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

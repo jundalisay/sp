@@ -4,7 +4,7 @@ heading: "Chapter 6"
 weight: 28
 description: "In subtlification at the different stages of the unit mind, the Macrocosmic Nucleus"
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

@@ -2,7 +2,7 @@
 heading: Section 10
 title: "The Chern-Simons Functional is not Gauge Invariant!"
 description: "The Chern-Simons functional is not  gauge invariant. But it only changes under topologically non-trivial gauge transformations"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 20
 ---

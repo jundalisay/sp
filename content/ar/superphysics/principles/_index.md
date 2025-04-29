@@ -2,7 +2,7 @@
 title: "Superphysics Principles"
 linkTitle: "Principles"
 description: "We explain key principles of Superphysics"
-image: "/covers/principles.png"
+c: "steelblue"
 type: "featured"
 weight: 1
 ---

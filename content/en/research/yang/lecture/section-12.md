@@ -2,7 +2,7 @@
 heading: Section 12
 title: "What are Instantons?"
 description: "The algebra g has many different representations R"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 24
 ---

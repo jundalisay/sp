@@ -3,9 +3,9 @@ title: The Present State of Physics
 heading: Chapter 10c
 weight: 56
 description:  Two opposite tendencies may be distinguished in the history of the development of physics.
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

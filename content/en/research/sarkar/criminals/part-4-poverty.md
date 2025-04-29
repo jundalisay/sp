@@ -4,7 +4,7 @@ heading: "Part 4"
 weight: 10
 c: "indigo"
 description: "Most crimes throughout the world are committed due to poverty"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

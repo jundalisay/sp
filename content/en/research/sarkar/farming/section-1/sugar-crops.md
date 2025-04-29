@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Sugar is an important part of the human diet. For many farmers, sugar crops are an essential source of income"
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 aliases:
   /research/indian/farming/section-1/sugar-crops
 ---

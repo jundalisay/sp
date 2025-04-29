@@ -3,12 +3,10 @@ title: "Confederated World Government"
 weight: 24
 author: "PR Sarkar"
 description: "From 'Talks on Prout' (1961), Prout in a Nutshell 15"
-image: "/covers/prout.jpg"
-icon: "/icons/sarkar.png"
+c: "seagreen"
+icon: "PR Sarkar"
 ---
 
-
- 
 
 A world government is necessary to materialize the concept of universalism. It should be a confederation of all the federated states of the world. 
 

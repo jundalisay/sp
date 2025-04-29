@@ -7,7 +7,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "Assassination is thought just and equitable in a republic but not in a monarchy"
 ---
 

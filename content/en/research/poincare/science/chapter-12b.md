@@ -3,9 +3,9 @@ title: The Mechanical Explanation of Physical Phenomena
 heading: Chapter 12b
 weight: 70
 description:  
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

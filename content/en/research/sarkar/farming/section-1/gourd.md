@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Fruits are a vital part of the human diet and the easiest food for humans to digest. "
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 aliases:
   /research/indian/farming/section-1/fruits
 ---

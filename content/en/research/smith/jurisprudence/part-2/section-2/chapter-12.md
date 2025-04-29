@@ -7,7 +7,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "The absurd notion that national opulence consists in money makes people think that local spending cannot reduce public opulence"
 ---
 

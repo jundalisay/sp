@@ -2,7 +2,7 @@
 heading: Section 15
 title: "Instanton Contributions to the Path Integral"
 description: "The Chern-Simons functional W [A] is not obviously gauge invariant."
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 30
 ---

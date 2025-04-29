@@ -3,9 +3,9 @@ title: The Creation of the Mathematical Continuum
 weight: 13
 heading: Chapter 2b
 description:  I may give the name of a mathematical continuum of the first order to every aggregate of terms formed after the same law as the scale of commensurable numbers
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

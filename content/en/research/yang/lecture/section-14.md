@@ -2,7 +2,7 @@
 heading: Section 14
 title: "General Instanton Solutions"
 description: "To get an instanton solution in SU (N ), we could take the SU (2) solution"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 28
 ---

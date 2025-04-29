@@ -1,9 +1,8 @@
 ---
 heading: Chapter 1
 title: "Rent"
-# heading: Unenlightened
-# description: Mao was a Chinese Leader
-image: "/covers/rent.jpg"
+description: "The rent of land is a portion of the national revenue, which has always been considered as of very high importance"
+c: "seagreen"
 weight: 3
 date: 2025-03-20
 ---
@@ -15,7 +14,7 @@ In the East India College, Hertfordshire
 
 1815. -->
 
-Advertisement
+## Advertisement
 
 The following tract contains the substance of some notes on rent, which, with others on different subjects relating to political economy, I have collected in the course of my professional duties at the East India College. It has been my intention, at some time or other, to put them in a form for publication; and the very near connection of the subject of the present inquiry, with the topics immediately under discussion, has induced me to hasten its appearance at the present moment. It is the duty of those who have any means of contributing to the public stock of knowledge, not only to do so, but to do it at the time when it is most likely to be useful. If the nature of the disquisition should appear to the reader hardly to suit the form of a pamphlet, my apology must be, that it was not originally intended for so ephemeral a shape.
 

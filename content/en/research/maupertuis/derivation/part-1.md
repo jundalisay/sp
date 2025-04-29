@@ -4,7 +4,7 @@ title: "The Proofs of God's Existence"
 weight: 6
 date: 2025-03-16
 description: "Assessment of the Proofs of God's Existence that are Based on the Marvels of Nature"
-image: "/covers/mau.jpg"
+c: "darkgoldenrod"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: Chapter 7
 title: "Sulphur"
 description: "A Treatise on Sulphur"
-image: "/covers/sulphur.jpg"
+c: "darkgoldenrod"
 weight: 18
 # date: 2022-05-18
 writer:

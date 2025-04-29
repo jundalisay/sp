@@ -4,8 +4,8 @@ title: "The Rule of Rationality"
 weight: 12
 author: "PR Sarkar"
 description: "Our PROUT must be propagated throughout this universe, especially on Earth"
-image: "/covers/prout.jpg"
-icon: "/icons/sarkar.png"
+c: "seagreen"
+icon: "PR Sarkar"
 ---
 
 

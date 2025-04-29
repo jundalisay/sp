@@ -1,6 +1,6 @@
 ---
 title: The Social Basis Of The Third Universal Theory
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 18"
 weight: 34
 description: ""

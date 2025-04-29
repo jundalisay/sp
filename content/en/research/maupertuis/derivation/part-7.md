@@ -4,7 +4,7 @@ title: "Certain Laws of Motion and Equilibrium"
 weight: 33
 date: 2025-03-16
 description: ""
-image: "/covers/mau.jpg"
+c: "darkgoldenrod"
 ---
 
 

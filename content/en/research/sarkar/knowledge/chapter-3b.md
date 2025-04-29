@@ -4,7 +4,7 @@ heading: "Chapter 3b"
 weight: 7
 c: "indigo"
 description: "Psychic disease and brain disease are not the same thing. They are quite different"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

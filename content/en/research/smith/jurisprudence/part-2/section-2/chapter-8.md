@@ -6,7 +6,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "To facilitate exchange, people needed some expedient to ascertain the accuracy of weight and fineness. Coinage secures these"
 ---
 

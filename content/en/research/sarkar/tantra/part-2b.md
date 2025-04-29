@@ -4,7 +4,7 @@ heading: "Part 2b"
 weight: 5
 c: "indigo"
 description: "The Aryan leader Agastya was the first to go to southern India to popularize the ideas and ideals of the Aryans"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

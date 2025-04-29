@@ -5,7 +5,7 @@ description: "The Wealth of Nations was published on March 9, 1776"
 # date: 2015-08-22
 weight: 48
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

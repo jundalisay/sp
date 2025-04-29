@@ -1,7 +1,7 @@
 ---
 title: "Spinoza"
 description: "We explain key principles of Superphysics"
-image: "/covers/principles.png"
+c: "steelblue"
 type: "featured"
 weight: 1
 draft: true

@@ -2,7 +2,7 @@
 heading: Section 5
 title: "Quantising the Colour Degree of Freedom"
 description: "What classical system gives rise to a finite dimensional quantum Hilbert space?"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 10
 ---

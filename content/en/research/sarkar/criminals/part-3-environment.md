@@ -4,7 +4,7 @@ heading: "Part 3"
 weight: 8
 c: "indigo"
 description: "Many people in society do not become criminals because of physiological or hereditary factors"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

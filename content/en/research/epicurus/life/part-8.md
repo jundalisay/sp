@@ -3,14 +3,13 @@ heading: Part 6
 title: Epicurus To Menœceus
 weight: 12
 description: Life Of Epicurus
-author: " Diogenes Laertius"
-image: "/covers/epi.jpg"
+author: "Diogenes Laertius"
+c: "darkslategray"
 ---
 
 
-XXVII. We must now proceed to his letter:—
+## 27. Letter of EPICURUS TO MENŒCEUS:
 
-EPICURUS TO MENŒCEUS, GREETING
 
 “Let no one delay to study philosophy while he is young, and when he is old let him not become weary of the study; 
 
@@ -142,3 +141,4 @@ XXXI. Let us, however, now add the finishing stroke, as one may say, to this who
 42. “He who desires to live tranquilly without having any thing to fear from other men, ought to make himself friends; those whom he cannot make friends of, he should, at least, avoid rendering enemies; and if that is not in his power, he should, as far as possible, avoid all intercourse with them, and keep them aloof, as far as it is for his interest to do so.
 
 43. “The happiest men are they who have arrived at the point of having nothing to fear from those who surround them. Such men live with one another most agreeably, having the firmest grounds of confidence in one another, enjoying the advantages of friendship in all their fulness, and not lamenting, as a pitiable circumstance, the premature death of their friends.” -->
+

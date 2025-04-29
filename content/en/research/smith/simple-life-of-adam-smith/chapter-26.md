@@ -4,7 +4,7 @@ heading: "Chapter 26"
 description: "The American Question"
 weight: 64
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

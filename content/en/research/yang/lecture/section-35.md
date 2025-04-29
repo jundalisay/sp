@@ -2,7 +2,7 @@
 heading: Section 35
 title: "BPS Monopoles"
 description: "This is the most subtle and interesting class of quantum field theories"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 66
 ---

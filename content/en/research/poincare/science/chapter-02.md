@@ -3,9 +3,9 @@ title: Continuum
 heading: Chapter 2
 weight: 12
 description: Continuum cannot be explained by geometry.
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

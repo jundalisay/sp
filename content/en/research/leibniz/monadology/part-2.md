@@ -2,10 +2,10 @@
 heading: Part 2
 title: "The principle of Contradiction and Reason"
 description: "With this, we consider that no fact could be found to be genuine or existent, and no assertion true, without there being a sufficient reason why it is thus and not otherwise"
-image: "/covers/monad.png"
+c: "indigo"
 # date: 2023-02-15
 weight: 10
-icon: /icons/lei.png
+icon: "Leibniz"
 contributors: ['Leibniz']
 ---
 

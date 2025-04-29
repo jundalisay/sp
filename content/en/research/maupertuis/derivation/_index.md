@@ -4,5 +4,5 @@ weight: 4
 date: 2025-03-16
 description: ""
 author: Maupertuis
-image: "/covers/mau.jpg"
+c: "darkgoldenrod"
 ---

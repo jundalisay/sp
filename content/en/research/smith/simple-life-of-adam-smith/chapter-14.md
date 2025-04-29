@@ -5,7 +5,7 @@ description: "Smith left Geneva in December for Paris and arrived around Christm
 # date: 2015-08-30
 weight: 30
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

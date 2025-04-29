@@ -2,7 +2,7 @@
 heading: Section 30
 title: "What is the Gauge Group of the Standard Model?"
 description: "The Chern-Simons functional W [A] is not obviously gauge invariant."
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 58
 ---

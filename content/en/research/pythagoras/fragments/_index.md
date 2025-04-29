@@ -1,6 +1,6 @@
 ---
 title: "Fragments on Pythagoras"
-image: "/covers/fragments.png"
+c: "indigo"
 description: "The treatises of various Pythagorean philosophers"
 ---
 

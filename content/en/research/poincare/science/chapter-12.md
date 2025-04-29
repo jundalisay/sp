@@ -3,9 +3,9 @@ title: Optics And Electricity
 heading: Chapter 12
 weight: 68
 description:  The best example that can be chosen is the theory of light and its relations to the theory of electricity
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: Section 6
 title: "The Spartan Economy"
 description: "The Economy Of The Spartans"
-image: "/covers/polity.jpg"
+c: "seagreen"
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon

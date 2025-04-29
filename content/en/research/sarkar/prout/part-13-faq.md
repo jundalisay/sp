@@ -3,8 +3,8 @@ title: "PROUT Questions and Answers"
 weight: 22
 author: "PR Sarkar"
 description: "Human longings are countless, and heterogeneous. But human abilities are limited in many respects"
-image: "/covers/prout.jpg"
-icon: "/icons/sarkar.png"
+c: "seagreen"
+icon: "PR Sarkar"
 ---
 
 

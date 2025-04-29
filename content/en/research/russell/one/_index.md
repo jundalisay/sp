@@ -1,7 +1,7 @@
 ---
 title: "The Universal One"
 description: ""
-image: "/covers/walter.jpg"
+c: "firebrick"
 weight: 8
 # date: 2023-06-01
 ---

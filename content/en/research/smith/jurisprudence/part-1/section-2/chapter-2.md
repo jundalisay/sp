@@ -7,7 +7,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "What is the history of parentage? It is the second relation in which we were to consider man as a member of a family"
 ---
 

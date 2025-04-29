@@ -5,7 +5,7 @@ heading: "Part 3b"
 weight: 8
 c: "indigo"
 description: "There are 9 cakras [plexi] in humans"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

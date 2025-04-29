@@ -1,6 +1,6 @@
 ---
 title: Domestic Servants
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 17"
 weight: 32
 description: ""

@@ -4,7 +4,7 @@ weight: 50
 author: "PR Sarkar"
 description: "If a woman suffers from anaemia for whatever reason, the organs of the body become incapable of supplying an adequate amount of blood to the uterus"
 image: "/photos/med/leucorrhea.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

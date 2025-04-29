@@ -1,7 +1,7 @@
 ---
 title: "Principles of Supersociology"
 description: "We list the principles of Supersociology"
-image: "/covers/principles.png"
+c: "steelblue"
 linkTitle: "Principles"
 type: "featured"
 weight: 1

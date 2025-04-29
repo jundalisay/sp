@@ -4,7 +4,7 @@ heading: "Part 2"
 weight: 4
 c: "indigo"
 description: "The original Rgvedic civilization belonged, in spirit and language, to the non-Indian Aryans. "
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

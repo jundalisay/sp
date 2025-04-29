@@ -2,7 +2,7 @@
 heading: Section 22
 title: "Non-Abelian Coulomb Force"
 description: "The group theory machinations above tell us that the operator T a (R1 )T a (R2 ) decomposes into a block diagonal matrix"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 44
 ---

@@ -5,7 +5,7 @@ description: "In the spring of 1773, Smith virtually completed the Wealth of Nat
 # date: 2015-08-24
 weight: 46
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

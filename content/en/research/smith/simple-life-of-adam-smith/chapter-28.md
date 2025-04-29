@@ -4,7 +4,7 @@ heading: "Chapter 28"
 description: "Adam Smith answers the Population Question"
 weight: 68
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

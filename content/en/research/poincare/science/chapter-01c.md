@@ -3,9 +3,9 @@ title: Proof By Recurrence
 heading: Chapter 1c
 weight: 6
 description: If mathematics had no algebraical calculus, no other instrument, then its development would immediately stop
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

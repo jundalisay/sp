@@ -4,7 +4,7 @@ weight: 1
 author: "PR Sarkar"
 description: "Proper health needs proper water drinking, sexual restraint, use of mud packs, sunbathing, fresh air, fasting, and mental purity"
 image: "/photos/med/run.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

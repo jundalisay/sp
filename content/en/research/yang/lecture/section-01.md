@@ -2,7 +2,7 @@
 heading: Section 1
 title: "Lie Groups and Lie Algebra"
 description: "Lie Groups and Lie Algebra are basics of Yang Mills Theory"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 2
 ---

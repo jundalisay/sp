@@ -3,9 +3,9 @@ title: Rowland’s Experiment
 heading: Chapter 13c
 weight: 76
 description: There are 2 kinds of open conduction currents. There are first the currents of discharge of a condenser, or of any conductor whatever
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

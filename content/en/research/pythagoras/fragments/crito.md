@@ -3,7 +3,7 @@ title: "Crito's Treatises"
 heading: Prudence And Prosperity
 weight: 4
 description: Crito gave treatises On Prudence And Prosperity
-image: "/covers/fragments.png"
+c: "indigo"
 ---
 
 

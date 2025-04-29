@@ -1,6 +1,6 @@
 ---
 title: Wages
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapters 16b"
 weight: 28
 description: ""

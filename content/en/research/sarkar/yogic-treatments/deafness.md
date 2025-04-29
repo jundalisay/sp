@@ -4,7 +4,7 @@ weight: 10
 author: "PR Sarkar"
 description: "Deafness is not a disease by itself, unless it is congenital. It is an after-effect or reaction to some other ailment. Therefore one may find innumerable reasons behind deafness"
 image: "/photos/med/leprosy2.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

@@ -3,7 +3,7 @@ title: "Slow Progress from Lack of Circulation"
 heading: "Chapter 16b"
 description: "The violent civil government is the biggest obstacle to the progress of opulence"
 # date: 2015-09-17
-image: "/covers/lectures.jpg"
+c: "seagreen"
 weight: 36
 writer:
   name: Adam Smith

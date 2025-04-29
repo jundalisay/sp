@@ -3,7 +3,8 @@ title: "David Hume Did Not Create the Is-Ought Problem"
 linkTitle: Is-Ought
 # heading: "Hume Never Saw It as Such"
 date: 2016-02-03
-image: "/covers/hume.jpg"
+a: "David Hume"
+c: "steelblue"
 description: "David Hume did not create the Is-Ought Problem. It was created by later academics for whatever reason"
 writer:
   name: Juan

@@ -4,7 +4,7 @@ heading: "Chapter 6"
 weight: 12
 c: "indigo"
 description: "The third chamber or factor of knowledge is the subjective mind (the second being the objective mind)"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

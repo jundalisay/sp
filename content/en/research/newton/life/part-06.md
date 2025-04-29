@@ -2,7 +2,7 @@
 heading: Part 6
 title: "Observations upon the Prophecies of Holy Writ"
 description: "The introduction of the pure and lofty doctrines of the Principia was perseveringly resisted"
-image: "/covers/newton.jpg"
+c: "firebrick"
 weight: 80
 date: 2024-12-02
 ---

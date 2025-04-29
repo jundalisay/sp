@@ -4,7 +4,7 @@ heading: "Part 11c"
 weight: 30
 c: "indigo"
 description: "Shaḿkarácárya was a Shaeva Tántrika or a practitioner of Tantra who followed Shiva."
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

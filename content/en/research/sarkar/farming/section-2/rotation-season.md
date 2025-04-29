@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Dry and big winter chilli should also be grown in the canal. Big seedlings should be grown so that the plants flower within fifteen days after planting"
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

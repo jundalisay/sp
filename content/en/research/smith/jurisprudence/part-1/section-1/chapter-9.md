@@ -7,7 +7,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "Henry 3rd enacted that the smaller barons, who could not afford to attend in parliament, should send a representative"
 ---
 

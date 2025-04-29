@@ -2,7 +2,7 @@
 title: "Theages' Treatise On The Virtues"
 weight: 16
 description: "Virtue should have these 3 things reason, power, deliberate choice"
-image: "/covers/fragments.png"
+c: "indigo"
 ---
 
 

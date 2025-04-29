@@ -4,7 +4,7 @@ weight: 300
 author: "PR Sarkar"
 description: ""
 image: "/photos/med/hepa.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 ### Cough due to liver trouble

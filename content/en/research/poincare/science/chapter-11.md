@@ -3,9 +3,9 @@ title: The Calculus Of Probabilities
 heading: Chapter 11
 weight: 58
 description:  
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

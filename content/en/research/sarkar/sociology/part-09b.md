@@ -4,7 +4,7 @@ heading: "Part 9b"
 weight: 23
 c: "indigo"
 description: "The popular allegation that lawyers earn their living by deceiving others and by encouraging litigation is, according to my understanding, not totally correct"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

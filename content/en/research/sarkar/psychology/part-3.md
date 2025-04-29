@@ -4,7 +4,7 @@ heading: "Part 3"
 weight: 6
 c: "indigo"
 description: "The mind discovers and invents newer modes of thinking"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

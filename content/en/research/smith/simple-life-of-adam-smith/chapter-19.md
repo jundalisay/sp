@@ -5,7 +5,7 @@ description: "After the publication of his book in the beginning of March, Smith
 # date: 2015-08-20
 weight: 50
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

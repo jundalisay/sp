@@ -3,9 +3,9 @@ title: Brownian Motion
 heading: Chapter 10d
 weight: 57
 description: According to M. Gouy, the singular Brownian movement does not obey Carnot’s principle
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
  

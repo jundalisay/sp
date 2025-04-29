@@ -3,9 +3,9 @@ title: Anthropomorphic Mechanics
 heading: Chapter 6c
 weight: 38
 description:  
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

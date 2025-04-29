@@ -3,7 +3,7 @@ title: "Natural Remedies for Leucoderma (White Leprosy)"
 weight: 48
 description: "Leucoderma, though identified as a disease of the leprosy group, is not as fatal as leprosy, nor are secretions of fluid present; and that is why leucoderma is not a contagious disease"
 image: "/photos/med/leucoderma.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

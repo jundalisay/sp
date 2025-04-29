@@ -3,7 +3,7 @@ title: "Culture and Civilization"
 weight: 17
 c: "indigo"
 description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

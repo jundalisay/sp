@@ -3,9 +3,9 @@ title: Experiment And Geometry
 heading: Chapter 5
 weight: 30
 description: The principles of geometry are not experimental facts. Euclid’s postulate cannot be proved by experiment.
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

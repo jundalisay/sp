@@ -6,6 +6,6 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: Ideal farming goes hand in hand with PROUT
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 weight: 3
 ---

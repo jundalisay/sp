@@ -2,7 +2,7 @@
 title: "Rankine's Molecular Vortices"
 description: "Rankine’s paper entitled 'Molecular Vortices' communicated to the Royal Society of Edinburgh in 1849 and 1850 was a most suggestive step in physical theory"
 weight: 4
-image: "/covers/vortex.png"
+c: "darkgoldenrod"
 ---
 
 

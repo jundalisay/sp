@@ -3,9 +3,9 @@ title: The Law of Acceleration
 heading: Chapter 6b
 weight: 36
 description: The acceleration of a body is equal to the force which acts on it divided by its mass
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

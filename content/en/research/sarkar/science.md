@@ -3,7 +3,7 @@ title: "Civilization, Science and Spiritual Progress"
 weight: 76
 c: "indigo"
 description: "How does the development of civilization take place? Civilization has an intimate relation with science. They progress together"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

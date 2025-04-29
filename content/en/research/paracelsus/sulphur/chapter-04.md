@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "The Air Element"
 description: "A Treatise on Sulphur"
-image: "/covers/sulphur.jpg"
+c: "darkgoldenrod"
 weight: 12
 # date: 2022-05-18
 writer:

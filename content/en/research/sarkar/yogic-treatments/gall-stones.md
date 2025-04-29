@@ -4,7 +4,7 @@ weight: 23
 author: "PR Sarkar"
 description: "If the impurities are too great in proportion to the chyle and the blood, especially if the acids are too great, these things are carried with the bile into the gallbladder in very large quantity"
 image: "/photos/med/kidney.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

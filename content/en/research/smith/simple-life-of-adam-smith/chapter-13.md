@@ -5,7 +5,7 @@ description: "In the end of August, Smith and his pupils left Toulouse and made 
 # date: 2015-09-02
 weight: 28
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

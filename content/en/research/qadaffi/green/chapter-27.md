@@ -1,6 +1,6 @@
 ---
 title: Music And Art
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapters 17"
 weight: 34
 description: ""

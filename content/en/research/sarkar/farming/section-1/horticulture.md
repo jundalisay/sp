@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Fruit and vegetable gardens should be established on all farming projects. There are many varieties of fruit. Fruits can be utilized to make jams, marmalade, jellies, dried fruits, etc"
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

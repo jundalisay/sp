@@ -5,7 +5,7 @@ description: "Smith wrote the following letter to Mr. Baird"
 # date: 2015-09-06
 weight: 24
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

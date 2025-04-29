@@ -4,7 +4,7 @@ title: "The Human Body Is a Biological Machine"
 weight: 2
 c: "indigo"
 description: "Karma or action is a form of Brahma or the totaliity of existence"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

@@ -4,7 +4,7 @@ title: The Enemies of Epicurus
 weight: 4
 description: Life Of Epicurus
 author: " Diogenes Laertius"
-image: "/covers/epi.jpg"
+c: "darkslategray"
 ---
 
 

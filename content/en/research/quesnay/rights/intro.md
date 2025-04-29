@@ -5,8 +5,8 @@ weight: 2
 writer:
   name: François Quesnay
   url: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay
-image: "/covers/rights.png"
-icon: /icons/quesnay.png
+c: "seagreen"
+icon: "Francois Quesnay"
 description: "Men may be considered either in a state of solitude, or as congregated into societies"
 ---
 

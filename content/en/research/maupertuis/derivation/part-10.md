@@ -3,7 +3,7 @@ title: "Law of Mechanical Equilibrium for Bodies"
 weight: 46
 date: 2025-03-16
 description: "Two bodies are attached to a lever. At what point will they remain in equilibrium?"
-image: "/covers/mau.jpg"
+c: "darkgoldenrod"
 ---
 
 

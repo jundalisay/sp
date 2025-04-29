@@ -1,6 +1,6 @@
 ---
 title: Plebiscites
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 3"
 weight: 16
 description: ""

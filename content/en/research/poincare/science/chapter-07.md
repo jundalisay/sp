@@ -3,9 +3,9 @@ title: Relative And Absolute Motion
 heading: Chapter 7
 weight: 40
 description:  
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

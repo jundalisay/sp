@@ -3,7 +3,7 @@ title: "Other Causes of Slow Progress"
 heading: "Chapter 16b"
 description: "Another thing which greatly retarded commerce was the imperfection of the law with regard to contracts."
 # date: 2015-09-17
-image: "/covers/lectures.jpg"
+c: "seagreen"
 weight: 36
 writer:
   name: Adam Smith

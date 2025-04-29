@@ -1,6 +1,6 @@
 ---
 title: Class
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 4"
 weight: 12
 description: ""

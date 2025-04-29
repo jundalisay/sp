@@ -1,6 +1,6 @@
 ---
 title: Sport, Horsemanship And The Stage
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapters 28"
 weight: 34
 description: ""
@@ -8,7 +8,15 @@ description: ""
 
 
 
-Sport is either private, like the prayer which one performs alone inside a closed room, or public, performed collectively in open places, like the prayer which is practised corporately in places of worship. The first type of sport concerns the individuals themselves, while the second type is of concern to all people. It must be practised by all and should not be left to anyone else to practise on their behalf. It is unreasonable for crowds to enter places of worship just to view a person or a group of people praying without taking part. It is equally unreasonable for crowds to enter playgrounds and arenas to watch a player of a team without participating themselves.
+Sport is either private or public.
+
+<!-- , like the prayer which one performs alone inside a closed room, or public, performed collectively in open places, like the prayer which is practised corporately in places of worship.  -->
+
+The first type of sport concerns the individuals themselves.
+
+The second type is of concern to all people. It must be practised by all and should not be left to anyone else to practise on their behalf.
+
+It is unreasonable for crowds to enter places of worship just to view a person or a group of people praying without taking part. It is equally unreasonable for crowds to enter playgrounds and arenas to watch a player of a team without participating themselves.
 
 Sport is like praying, eating, and the feelings of coolness and
 warmth. It is unlikely that crowds will enter a restaurant just

@@ -3,9 +3,9 @@ title: Non-euclidean Geometries
 heading: Chapter 3
 weight: 18
 description: All treatises of geometry begin therefore with the enunciation of these axioms
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

@@ -4,7 +4,7 @@ title: "The Ban on Coin Exportation"
 # date: 2015-09-10
 weight: 24
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "This ban has been extremely hurtful to the country's commerce"
 writer:
   name: Adam Smith

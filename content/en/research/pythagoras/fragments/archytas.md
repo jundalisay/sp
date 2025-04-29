@@ -3,7 +3,7 @@ title: Archytas' Treatises
 heading: Ethical Erudition, Happiness, and Discipline
 weight: 2
 description: Archyta gave treatises On Ethical Erudition, The Good And Happy Man, and Discipline
-image: "/covers/fragments.png"
+c: "indigo"
 ---
 
 

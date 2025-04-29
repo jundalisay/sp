@@ -1,6 +1,6 @@
 ---
 title: Minorities
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 24"
 weight: 42
 description: ""

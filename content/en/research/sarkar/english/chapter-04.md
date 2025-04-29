@@ -6,8 +6,8 @@ writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "When a word denotes only one object, it is singular in number. When it denotes more than one object, it is plural in number."
-image: "/covers/grammar.png"
-icon: "/icons/sarkar.png"
+c: "steelblue"
+icon: "PR Sarkar"
 ---
 
 

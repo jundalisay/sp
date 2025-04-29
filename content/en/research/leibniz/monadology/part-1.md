@@ -2,10 +2,10 @@
 heading: Part 1
 title: "What are Monads?"
 description: "Monads are simple substances which make up compounds. By ‘simple’ I mean ‘without parts’"
-image: "/covers/monad.png"
+c: "indigo"
 # date: 2023-02-15
 weight: 8
-icon: /icons/lei.png
+icon: "Leibniz"
 contributors: ['Leibniz']
 ---
 

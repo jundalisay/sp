@@ -2,7 +2,7 @@
 heading: Chapter 5b
 title: "Matrices"
 description: "A Treatise on Sulphur"
-image: "/covers/sulphur.jpg"
+c: "darkgoldenrod"
 weight: 14
 # date: 2022-05-18
 writer:

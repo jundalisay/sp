@@ -3,7 +3,7 @@ heading: Chapter 4
 title: "Fourth way of acquiring Property: Succession"
 # date: 2015-09-24
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "Testamentary and Legal Succession is the 4th way to gain property"
 weight: 10
 writer:

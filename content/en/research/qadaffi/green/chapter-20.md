@@ -1,6 +1,6 @@
 ---
 title: The Tribe
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 20"
 weight: 42
 description: ""

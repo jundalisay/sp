@@ -1,6 +1,6 @@
 ---
 title: "Economic Table"
-image: "/covers/table.png"
+c: "seagreen"
 writer:
   name: François Quesnay
   url: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay

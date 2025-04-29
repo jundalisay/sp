@@ -4,7 +4,7 @@ heading: "Chapter 23"
 description: "Adam Smith's stance for Free Trade for Ireland"
 weight: 58
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

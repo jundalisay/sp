@@ -3,7 +3,7 @@ title: "Population Growth and Control"
 weight: 32
 c: "indigo"
 description: "The population problem is based on the availability of food and space."
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

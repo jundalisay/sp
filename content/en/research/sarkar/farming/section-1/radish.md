@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Radish is a 45-60 day crop and came from Japan. It first came to India 3,000 years ago."
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

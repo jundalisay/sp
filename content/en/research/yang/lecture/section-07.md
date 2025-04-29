@@ -2,7 +2,7 @@
 heading: Section 7
 title: "Canonical Quantisation of Yang-Mills"
 description: "Ultimately, we want to see how the ✓ term affects the quantisation of Yang-Mills"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 14
 ---

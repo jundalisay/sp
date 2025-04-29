@@ -3,9 +3,9 @@ title: Rouge et Noir
 heading: Chapter 11d (4)
 weight: 64
 description:  
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

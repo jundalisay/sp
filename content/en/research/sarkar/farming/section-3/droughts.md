@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "3 main causes of droughts are deforestation and the destruction of plants"
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

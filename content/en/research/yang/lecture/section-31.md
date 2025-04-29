@@ -2,7 +2,7 @@
 heading: Section 31
 title: "Dynamical Matter"
 description: "Each matter field must transform in a representation R of the gauge group G"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 60
 ---

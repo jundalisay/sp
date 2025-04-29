@@ -4,7 +4,7 @@ heading: "Chapter 30"
 description: "Visit of Samuel Rodgers to Adam Smith"
 date: 2015-07-28
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

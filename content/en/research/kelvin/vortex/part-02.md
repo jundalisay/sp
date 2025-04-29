@@ -2,7 +2,7 @@
 title: "The Vibrations in the Lucretius atom" 
 description: "Two ring atoms linked together or one knotted in any manner with its ends meeting, constitute a system"
 weight: 8
-image: "/covers/vortex.png"
+c: "darkgoldenrod"
 ---
 
 

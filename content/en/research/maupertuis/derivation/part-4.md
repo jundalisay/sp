@@ -4,7 +4,7 @@ title: "Motion is a state in which matter may or many not find itself"
 weight: 20
 date: 2025-03-16
 description: "It would be absurd to say that a particle moves another particle, given that it can't even move itself"
-image: "/covers/mau.jpg"
+c: "darkgoldenrod"
 ---
 
 

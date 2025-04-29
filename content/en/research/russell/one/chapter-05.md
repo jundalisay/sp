@@ -2,7 +2,7 @@
 title: "THE ELEMENTS OF MATTER"
 heading: "CHAPTER 5"
 description: ""
-image: "/covers/walter.jpg"
+c: "firebrick"
 weight: 89
 # date: 2023-06-01
 ---

@@ -3,9 +3,9 @@ title: The Theories Of Modern Physics
 heading: Chapter 10
 weight: 52
 description: The ephemeral nature of scientific theories takes by surprise the man of the world
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

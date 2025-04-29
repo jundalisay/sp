@@ -4,7 +4,7 @@ heading: "Chapter 29b"
 description: "In 1786, the British Society for extending the Fisheries was incorporated for that purpose by Royal Charter with a capital of £150,000."
 weight: 72
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

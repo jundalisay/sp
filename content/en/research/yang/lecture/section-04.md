@@ -2,7 +2,7 @@
 heading: Section 4
 title: "Wilson Lines and Wilson Loops"
 description: "In the language of mathematics, gauge theory is an example of a fibre bundle"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 8
 ---

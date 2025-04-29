@@ -4,7 +4,7 @@ heading: "Part 13b"
 weight: 35
 c: "indigo"
 description: "From ancient times many groups of people came into existence."
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarka

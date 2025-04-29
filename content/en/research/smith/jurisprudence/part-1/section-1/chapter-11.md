@@ -5,7 +5,7 @@ weight: 24
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "Elizabeth flipped the policies and sold the royal lands to the people"
 ---
 

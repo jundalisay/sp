@@ -1,6 +1,6 @@
 ---
 title: Need, Housing, Income, Transportation, Land
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapters 12-16"
 weight: 24
 description: ""

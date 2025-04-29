@@ -4,7 +4,7 @@ heading: "Chapter 31"
 description: "Smith published The Theory of Moral Sentiments"
 date: 2015-07-26
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

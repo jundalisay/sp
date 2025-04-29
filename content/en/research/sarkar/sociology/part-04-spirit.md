@@ -3,7 +3,7 @@ title: "The Spirit of Society"
 weight: 15
 c: "indigo"
 description: "Samája (society) means a group of people who move together"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

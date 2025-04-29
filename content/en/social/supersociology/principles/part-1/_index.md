@@ -5,7 +5,7 @@ linkTitle: "Basics"
 # date2022-01-31
 weight: 2
 description: "We list the principles of Supersociology"
-image: "/covers/principles.png"
+c: "steelblue"
 ---
 
 

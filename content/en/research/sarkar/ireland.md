@@ -3,7 +3,7 @@ title: "A Short History of Ireland"
 weight: 21
 c: "indigo"
 description: "The British Parliament – the Upper House or the House of Lords and the Lower House or the House of Commons – has its seat in London"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

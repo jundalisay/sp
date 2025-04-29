@@ -3,9 +3,9 @@ title: Energy And Thermo-dynamics
 heading: Chapter 8
 weight: 42
 description: The difficulties raised by the classical mechanics have led certain minds to prefer a new system called Energetics
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

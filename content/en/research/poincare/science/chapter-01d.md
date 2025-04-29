@@ -3,9 +3,9 @@ title: Proof By Recurrence
 heading: Chapter 1d
 weight: 8
 description:  In any finite collection of different integers, one is always smaller. 
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 <!-- VI. -->

@@ -4,7 +4,7 @@ title: "Newton's Theory"
 weight: 14
 date: 2025-03-16
 description: "Newton could also have added that all of these planets move in the same plane"
-image: "/covers/mau.jpg"
+c: "darkgoldenrod"
 ---
 
 

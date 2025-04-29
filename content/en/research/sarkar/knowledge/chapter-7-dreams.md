@@ -4,7 +4,7 @@ heading: "Chapter 7"
 weight: 14
 c: "indigo"
 description: "The nervous system is the crude receptacle of the kámamaya kośa [crude layer] and the mind. It becomes unsteady and restless"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

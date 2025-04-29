@@ -4,7 +4,7 @@ heading: "Chapter 27"
 description: "Burke in Scotland"
 weight: 66
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

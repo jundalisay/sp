@@ -3,7 +3,7 @@ title: "What is Pranayama?"
 weight: 3
 c: "indigo"
 description: "Pranayama means the controlling theory of Pranah"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

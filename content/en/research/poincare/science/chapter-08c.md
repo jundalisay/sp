@@ -3,9 +3,9 @@ title: General Conclusions on Part 3
 heading: Chapter 8c
 weight: 45
 description: The principles of mechanics are therefore presented to us under 2 different aspects
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

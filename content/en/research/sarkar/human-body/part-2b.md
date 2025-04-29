@@ -4,7 +4,7 @@ title: "The Human Biological Structure"
 weight: 5
 c: "indigo"
 description: "This biological machine is of great help to humans. You can perform spiritual sádhaná with this biological structure because it is a biped structure."
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

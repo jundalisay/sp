@@ -4,7 +4,7 @@ title: The Doctrines of Epicurus
 weight: 6
 description: Life Of Epicurus
 author: " Diogenes Laertius"
-image: "/covers/epi.jpg"
+c: "darkslategray"
 ---
 
 

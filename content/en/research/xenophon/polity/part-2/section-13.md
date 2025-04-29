@@ -2,7 +2,7 @@
 heading: Section 13
 title: "How the King Goes to War"
 description: "The Polity Of The Athenians And The Spartans"
-image: "/covers/polity.jpg"
+c: "seagreen"
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon

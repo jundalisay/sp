@@ -4,8 +4,8 @@ title: "Block-Level Planning"
 weight: 9
 author: "PR Sarkar"
 description: "Planning should function on various levels such as the block, district, state, national and global levels"
-image: "/covers/prout.jpg"
-icon: "/icons/sarkar.png"
+c: "seagreen"
+icon: "PR Sarkar"
 ---
 
 

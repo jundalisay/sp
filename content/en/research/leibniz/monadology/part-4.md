@@ -2,10 +2,10 @@
 heading: Part 4
 title: "The Origin Of Forms, Entelechies Or Souls"
 description: Scientists have had great difficulties over the origin of forms, entelechies or souls
-image: "/covers/monad.png"
+c: "indigo"
 # date: 2023-02-15
 weight: 28
-icon: /icons/lei.png
+icon: "Leibniz"
 contributors: ['Leibniz']
 ---
 

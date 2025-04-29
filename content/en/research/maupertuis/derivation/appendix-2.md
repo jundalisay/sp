@@ -4,7 +4,7 @@ weight: 202
 date: 2025-03-16
 description: "To broaden our knowledge of the world, we use different methods that rarely lead us to the same truths."
 author: Maupertuis
-image: "/covers/mau.jpg"
+c: "darkgoldenrod"
 ---
 
 

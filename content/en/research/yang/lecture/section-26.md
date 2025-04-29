@@ -2,7 +2,7 @@
 heading: Section 26
 title: "Wilson Loops Revisited"
 description: "The Chern-Simons functional W [A] is not obviously gauge invariant."
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 52
 ---

@@ -3,9 +3,9 @@ title: Physics and Mechanism
 heading: Chapter 10b
 weight: 54
 description: Most theorists have a constant predilection for explanations borrowed from physics, mechanics, or dynamics.
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

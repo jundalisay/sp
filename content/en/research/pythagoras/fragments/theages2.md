@@ -2,7 +2,7 @@
 title: "Treatise On The Virtues"
 weight: 18
 description: "Virtue is generated in the soul when the better part of the soul governs the less excellent part"
-image: "/covers/fragments.png"
+c: "indigo"
 ---
 
 

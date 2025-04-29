@@ -1,6 +1,6 @@
 ---
 title: Education
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapters 26"
 weight: 30
 description: "Education, or learning, is not necessarily that routinized curriculum and those classified subjects in textbooks"

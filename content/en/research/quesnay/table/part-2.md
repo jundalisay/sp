@@ -6,8 +6,8 @@ weight: 4
 writer:
   name: François Quesnay
   url: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay
-image: "/covers/table.png"
-icon: /icons/quesnay.png
+c: "seagreen"
+icon: "Francois Quesnay"
 description: "Such is the distributive order of the consumption of the native products among the different classes of citizens"
 ---
 

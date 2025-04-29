@@ -1,15 +1,18 @@
 ---
 heading: Chapter 1
 title: "Rent"
-# heading: Unenlightened
-# description: Mao was a Chinese Leader
-image: "/covers/rent.jpg"
+description: "In the early periods of society, the knowledge and capital of society were employed on fresh and fertile land"
+c: "seagreen"
 weight: 131
 date: 2025-03-20
 ---
 
 
-In the early periods of society, or more remarkably perhaps, when the knowledge and capital of an old society are employed upon fresh and fertile land, this surplus produce, this bountiful gift of providence, shows itself chiefly in extraordinary high profits, and extraordinary high wages, and appears but little in the shape of rent. While fertile land is in abundance, and may be had by whoever asks for it, nobody of course will pay a rent to a landlord. But it is not consistent with the laws of nature, and the limits and quality of the earth, that this state of things should continue. Diversities of soil and situation must necessarily exist in all countries. All land cannot be the most fertile: all situations cannot be the nearest to navigable rivers and markets. But the accumulation of capital beyond the means of employing it on land of the greatest natural fertility, and the greatest advantage of situation, must necessarily lower profits; while the tendency of population to increase beyond the means of subsistence must, after a certain time, lower the wages of labour.
+In the early periods of society, the knowledge and capital of society were employed on fresh and fertile land.
+
+Their surplus produce gives extraordinary high profits, and extraordinary high wages, and appears but little in the shape of rent. 
+
+While fertile land is in abundance, and may be had by whoever asks for it, nobody of course will pay a rent to a landlord. But it is not consistent with the laws of nature, and the limits and quality of the earth, that this state of things should continue. Diversities of soil and situation must necessarily exist in all countries. All land cannot be the most fertile: all situations cannot be the nearest to navigable rivers and markets. But the accumulation of capital beyond the means of employing it on land of the greatest natural fertility, and the greatest advantage of situation, must necessarily lower profits; while the tendency of population to increase beyond the means of subsistence must, after a certain time, lower the wages of labour.
 
 The expense of production will thus be diminished, but the value of the produce, that is, the quantity of labour, and of the other products of labour besides corn, which it can command, instead of diminishing, will be increased. There will be an increasing number of people demanding subsistence, and ready to offer their services in any way in which they can be useful. The exchangeable value of food will, therefore, be in excess above the cost of production, including in this cost the full profits of the stock employed upon the land, according to the actual rate of profits, at the time being. And this excess is rent.
 

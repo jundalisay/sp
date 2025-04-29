@@ -4,7 +4,7 @@ heading: Idea and Ideology Simplified
 weight: 54
 description: "The Summary of Idea and Ideology Simplified"
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

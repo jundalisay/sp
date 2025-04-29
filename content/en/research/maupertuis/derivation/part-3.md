@@ -4,7 +4,7 @@ title: "Need to Identify Proofs of God's Existence in the General Laws of Nature
 weight: 18
 date: 2025-03-16
 description: "The Laws Governing Motion's Conservation, Distribution, and Destruction are Based on the Attributes of a Supreme Intelligence"
-image: "/covers/mau.jpg"
+c: "darkgoldenrod"
 ---
 
 

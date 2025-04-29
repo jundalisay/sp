@@ -1,7 +1,7 @@
 ---
 title: "Preface"
 description: "A Treatise on Sulphur"
-image: "/covers/sulphur.jpg"
+c: "darkgoldenrod"
 weight: 2
 # date: 2022-05-18
 writer:

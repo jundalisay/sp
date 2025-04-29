@@ -5,7 +5,7 @@ author: "PR Sarkar"
 type: featured
 description: "Hindu Morals are rooted in Yama and Niyama"
 image: "/photos/meta/buddhism.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

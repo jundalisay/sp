@@ -4,7 +4,7 @@ heading: "Chapter 21"
 description: "On settling in Edinburgh, Smith took a house in the Canongate—Panmure House"
 weight: 54
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

@@ -3,7 +3,7 @@ title: "Natural Remedies for Tuberculosis"
 weight: 64
 description: "Tuberculosis germs are present in almost all human bodies. As long as the strength of the blood and vitality of the human body remain normal, tuberculosis germs cannot do any harm"
 image: "/photos/med/tb.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

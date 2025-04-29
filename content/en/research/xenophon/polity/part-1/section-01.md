@@ -2,7 +2,7 @@
 heading: Section 1
 title: "The Athenian Constitution"
 description: "The Polity Of The Athenians And The Spartans"
-image: "/covers/polity.jpg"
+c: "seagreen"
 icon: "Xenophon"
 writer:
   name: Xenophon

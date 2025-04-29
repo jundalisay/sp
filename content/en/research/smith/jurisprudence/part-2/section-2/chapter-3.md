@@ -6,7 +6,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "The beginnings of the Wealth of Nations is from this Chapter to Part 4. We can conclude that the rest is to form his work on Jurisprudence"
 ---
 

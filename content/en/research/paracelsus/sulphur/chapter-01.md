@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "The second Principle: Sulphur"
 description: "A Treatise on Sulphur"
-image: "/covers/sulphur.jpg"
+c: "darkgoldenrod"
 weight: 4
 # date: 2022-05-18
 writer:

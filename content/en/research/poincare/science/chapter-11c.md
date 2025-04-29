@@ -3,9 +3,9 @@ title: Probability in the Physical Sciences
 heading: Chapter 11c Part 3
 weight: 62
 description: Science and Hypothesis
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

@@ -4,7 +4,7 @@ title: The Birth of Epicurus
 weight: 2
 description: Life Of Epicurus
 author: " Diogenes Laertius"
-image: "/covers/epi.jpg"
+c: "darkslategray"
 ---
 
 

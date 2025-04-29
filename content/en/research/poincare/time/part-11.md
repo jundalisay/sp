@@ -4,9 +4,9 @@ heading: Part 11
 weight: 11
 description: If all the parts of the universe are interchained in a certain measure, any one phenomenon will not be the effect of a single cause
 # but the resultant of causes infinitely numerous
-image: "/covers/time.jpg"
+c: "steelblue"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 # aliases:
 #   /research/poincare/part-1
 ---

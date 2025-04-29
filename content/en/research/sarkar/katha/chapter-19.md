@@ -4,7 +4,7 @@ heading: Chapter 19
 weight: 53
 description: "Ananda Marga was one amongst many social organizations also banned"
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

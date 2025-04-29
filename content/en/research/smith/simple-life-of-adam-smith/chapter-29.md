@@ -4,7 +4,7 @@ heading: "Chapter 29"
 description: "Adam Smith Visits London"
 weight: 70
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

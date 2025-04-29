@@ -4,7 +4,7 @@ heading: "Part 3"
 weight: 6
 c: "indigo"
 description: "Real artists or litterateurs should understand clearly where the society is moving"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

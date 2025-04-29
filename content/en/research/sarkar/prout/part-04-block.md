@@ -4,8 +4,8 @@ title: "Economic Planning"
 weight: 8
 author: "PR Sarkar"
 description: "In a decentralized economy, economic planning is to be undertaken for the welfare of the local people"
-image: "/covers/prout.jpg"
-icon: "/icons/sarkar.png"
+c: "seagreen"
+icon: "PR Sarkar"
 ---
 
 

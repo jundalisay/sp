@@ -1,7 +1,7 @@
 ---
 title: "Superphysics Definitions"
 date: 2021-12-13
-image: "/covers/hume.jpg"
+c: "steelblue"
 description : "Superphysics relies on precise defintions which can be eventually followed by future artificially-intelligent systems"
 writer:
   name: Lam

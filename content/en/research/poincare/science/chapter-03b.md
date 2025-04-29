@@ -3,9 +3,9 @@ title: Interpretation of Non-Euclidean Geometries
 heading: Chapter 3b
 weight: 20
 description:  
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

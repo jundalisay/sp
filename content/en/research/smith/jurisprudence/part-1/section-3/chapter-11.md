@@ -2,7 +2,7 @@
 heading: Chapter 11
 title: "Delinquency: Ex Dolo, Ex Culpa"
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "Delicts are of two kinds ex dolo and ex culpa"
 weight: 26
 writer:

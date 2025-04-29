@@ -4,7 +4,7 @@ heading: "Part 7"
 weight: 16
 c: "indigo"
 description: "In most countries crime is defined with reference to a sense of pápa [vice] and puńya [virtue]"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

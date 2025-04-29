@@ -4,7 +4,7 @@ weight: 32
 author: "PR Sarkar"
 description: "Dhyána attracts many positive microvita. Negative microvita can only be controlled by positive microvita"
 image: "/photos/med/hepa.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

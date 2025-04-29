@@ -3,9 +3,9 @@ title: Changes of State and Changes of Position
 heading: Chapter 4b
 weight: 26
 description:  If the concept of geometrical space is not imposed upon our minds, and if, on the other hand, none of our sensations can furnish us with that concept, how then did it ever come into existence?
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

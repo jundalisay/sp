@@ -5,7 +5,7 @@ heading: Chapter 21
 weight: 59
 description: "Kalpataru can not grant such a boon. You ask for something else"
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: Section 17
 title: "Anti-Screening and Paramagnetism"
 description: "The computations of the 1-loop beta functions are rather involved"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 34
 ---

@@ -4,9 +4,9 @@ heading: Chapter 1
 weight: 2
 # date: 2022-02-28
 description: If mathematics could be reduced to a series of such verifications it would not be a science
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: Section 28
 title: "Hooft Lines in Yang-Mills"
 description: "What’s the analogous object in Yang-Mills theory with gauge group G?"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 56
 ---

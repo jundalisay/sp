@@ -6,8 +6,8 @@ weight: 4
 writer:
   name: François Quesnay
   url: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay
-image: "/covers/rights.png"
-icon: /icons/quesnay.png
+c: "seagreen"
+icon: "Francois Quesnay"
 description: "The natural right of man may vaguely be defined to be, the right which man has to whatever is proper for his enjoyment"
 ---
 

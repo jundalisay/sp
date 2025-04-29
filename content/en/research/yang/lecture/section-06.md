@@ -2,7 +2,7 @@
 heading: Section 6
 title: "The Path Integral over the Colour Degrees of Freedom"
 description: "We can also study the quantum mechanical action (2.17) using the path integral"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 12
 ---

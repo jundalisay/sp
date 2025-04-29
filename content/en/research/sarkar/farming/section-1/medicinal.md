@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Numerous plants have known medicinal value"
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 aliases:
   /research/indian/farming/section-1/medicinal
 ---

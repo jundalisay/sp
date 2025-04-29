@@ -2,7 +2,7 @@
 title: "The Treatise On Felicity from Hippodamus the Thurian"
 weight: 10
 description: With respect to felicity, however, and virtue, the former is as a work, but the latter as a certain art, to that which possesses reason
-image: "/covers/fragments.png"
+c: "indigo"
 ---
 
 

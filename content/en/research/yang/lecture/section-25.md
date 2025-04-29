@@ -2,7 +2,7 @@
 heading: Section 25
 title: "The Confinement of Monopoles"
 description: "The Chern-Simons functional W [A] is not obviously gauge invariant."
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 50
 ---

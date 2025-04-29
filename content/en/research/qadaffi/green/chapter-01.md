@@ -1,7 +1,7 @@
 ---
 # title: "The Solution of the Problem of Democracy: The Authority of the People"
 title: The Instrument Of Government
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 1"
 weight: 4
 description: ""

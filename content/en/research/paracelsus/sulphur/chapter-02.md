@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "The Earth Element"
 description: "A Treatise on Sulphur"
-image: "/covers/sulphur.jpg"
+c: "darkgoldenrod"
 weight: 6
 # date: 2022-05-18
 writer:

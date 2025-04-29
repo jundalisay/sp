@@ -4,7 +4,7 @@ heading: "Chapter 22"
 description: "Soon after Smith settled in Edinburgh"
 weight: 56
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

@@ -5,7 +5,7 @@ weight: 28
 author: "PR Sarkar"
 description: "This disease is spread by a bacteria called 'gonococcus'."
 image: "/photos/med/syph.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

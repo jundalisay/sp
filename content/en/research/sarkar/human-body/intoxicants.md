@@ -3,7 +3,7 @@ title: "Intoxicants"
 weight: 200
 c: "indigo"
 description: ""
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

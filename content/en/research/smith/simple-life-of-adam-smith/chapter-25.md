@@ -4,7 +4,7 @@ heading: "Chapter 25"
 description: "In his letter to Cadell, Smith reproaches himself with his idleness during his first few years in Edinburgh"
 weight: 62
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

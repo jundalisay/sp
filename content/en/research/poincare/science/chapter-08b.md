@@ -3,9 +3,9 @@ title: Thermodynamics
 heading: Chapter 8b
 weight: 44
 description: The role of the 2 fundamental principles of thermo-dynamics becomes daily more important in all branches of natural philosophy
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

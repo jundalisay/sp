@@ -1,15 +1,16 @@
 ---
 heading: Chapter 1
 title: "Rent"
-# heading: Unenlightened
-# description: Mao was a Chinese Leader
-image: "/covers/rent.jpg"
+description: "The actual state of the natural rent of land is necessary to the actual produce"
+c: "seagreen"
 weight: 3
 date: 2025-03-20
 ---
 
 
-From the preceding account of the progress of rent, it follows, that the actual state of the natural rent of land is necessary to the actual produce; and that the price of produce, in every progressive country, must be just about equal to the cost of production on land of the poorest quality actually in use; or to the cost of raising additional produce on old land, which yields only the usual returns of agricultural stock with little or no rent.
+The actual state of the natural rent of land is necessary to the actual produce.
+
+The price of produce, in every progressive country, must be just about equal to the cost of production on land of the poorest quality actually in use; or to the cost of raising additional produce on old land, which yields only the usual returns of agricultural stock with little or no rent.
 
 It is quite obvious that the price cannot be less; or such land would not be cultivated, nor such capital employed. Nor can it ever much exceed this price, because the poor land progressively taken into cultivation, yields at first little or no rent; and because it will always answer to any farmer who can command capital, to lay it out on his land, if the additional produce resulting from it will fully repay the profits of his stock, although it yields nothing to his landlord.
 

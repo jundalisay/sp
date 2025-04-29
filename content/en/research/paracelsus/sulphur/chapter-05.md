@@ -2,7 +2,7 @@
 heading: Chapter 5
 title: "The Fire Element"
 description: "A Treatise on Sulphur"
-image: "/covers/sulphur.jpg"
+c: "darkgoldenrod"
 weight: 14
 # date: 2022-05-18
 writer:

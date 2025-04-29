@@ -3,9 +3,9 @@ title: What does space having 3 dimensions mean?
 heading: Chapter 5d
 weight: 33
 description:  
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

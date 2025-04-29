@@ -3,9 +3,9 @@ title: What is the present distribution of the minor planets?
 heading: Chapter 11b
 weight: 60
 description:  
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

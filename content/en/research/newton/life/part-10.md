@@ -2,7 +2,7 @@
 heading: Part 8
 title: "Newton Writes Against the Trinity"
 description: "The introduction of the pure and lofty doctrines of the Principia was perseveringly resisted"
-image: "/covers/newton.jpg"
+c: "firebrick"
 weight: 90
 date: 2024-12-02
 ---

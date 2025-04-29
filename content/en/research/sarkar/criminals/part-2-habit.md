@@ -4,7 +4,7 @@ heading: "Part 2"
 weight: 6
 c: "indigo"
 description: "Ordinary people manage to keep their base propensities under control through internal moral reasoning"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

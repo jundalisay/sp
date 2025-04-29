@@ -2,7 +2,7 @@
 heading: Section 20
 title: "The Gauge Contribution"
 description: "The Chern-Simons functional W [A] is not obviously gauge invariant."
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 40
 ---

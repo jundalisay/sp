@@ -5,7 +5,7 @@ description: "Smith arrived in London early in November and remained there for t
 # date: 2015-08-28
 weight: 42
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

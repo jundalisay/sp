@@ -8,7 +8,7 @@ c: "indigo"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

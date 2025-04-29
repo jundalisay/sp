@@ -4,7 +4,7 @@ weight: 22
 author: "PR Sarkar"
 description: "When due to poverty parents are unable to provide enough milk for their children and consequently they are fed rice and pulse or plain barley from their early childhood, their digestive organs and livers in particular become very weak, and such children normally turn out emaciated"
 image: "/photos/social/poverty.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

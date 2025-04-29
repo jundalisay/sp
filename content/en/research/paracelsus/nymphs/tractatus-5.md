@@ -2,7 +2,7 @@
 heading: Tractatus 5
 title: "Giants"
 description: "Some Elmenetals married men and bore them children. When they have been provoked in any way by their husbands while they are on water, they simply drop into the water, and nobody can find them any more"
-image: "/covers/nymphs.jpg"
+c: "deeppink"
 weight: 21
 date: 2024-03-20
 writer:

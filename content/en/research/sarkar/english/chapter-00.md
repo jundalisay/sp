@@ -3,7 +3,7 @@ title: "The Fundamentals of Language"
 weight: 6
 c: "indigo"
 description: "Each language has 5 fundamental characteristics"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

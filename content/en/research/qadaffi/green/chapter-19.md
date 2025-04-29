@@ -1,6 +1,6 @@
 ---
 title: The Family
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 19"
 weight: 42
 description: ""

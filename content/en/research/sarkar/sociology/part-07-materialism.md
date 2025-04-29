@@ -4,7 +4,7 @@ heading: "Part 4"
 weight: 18
 c: "indigo"
 description: "Social advancement is the triadic blending of thesis, antithesis and synthesis."
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

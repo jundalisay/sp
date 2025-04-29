@@ -2,7 +2,7 @@
 heading: Section 3
 title: "Gauge Symmetry"
 description: "The algebra g has many different representations R"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 6
 ---

@@ -7,7 +7,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "Voluntary divorce has inconveniences. Yet it is still within justice that a man should divorce his wife and take another for less reasons than adultery"
 ---
 

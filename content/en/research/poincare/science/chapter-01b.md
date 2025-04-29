@@ -3,9 +3,9 @@ title: Geometry
 heading: Chapter 1b
 weight: 4
 description:  Geometry must be excluded, or the question becomes complicated by difficult problems
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

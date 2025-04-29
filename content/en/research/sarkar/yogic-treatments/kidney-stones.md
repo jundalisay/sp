@@ -3,7 +3,7 @@ title: "Natural Remedies for Kidney Stones"
 weight: 44
 description: "If the acid content of the blood becomes excessive or if the blood suffers from other poisonous contaminations, this upsets the heart, liver and kidneys. The harm may be so great that the heart becomes incapable even of exerting sufficient pressure to keep the blood circulating unobstructed through the blood vessels"
 image: "/photos/med/kidney.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

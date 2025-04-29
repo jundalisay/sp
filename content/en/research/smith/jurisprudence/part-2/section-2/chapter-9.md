@@ -6,7 +6,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "If we could find any way to save the ground taken up by highways, we would considerably increase the quantity of commodities, and have more to carry to the market"
 ---
 

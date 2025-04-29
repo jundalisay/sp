@@ -2,7 +2,7 @@
 heading: Section 32
 title: "Confinement and Chiral Symmetry Breaking"
 description: "This is the most subtle and interesting class of quantum field theories"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 62
 ---

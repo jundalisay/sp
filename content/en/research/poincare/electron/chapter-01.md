@@ -6,7 +6,7 @@ weight: 4
 description: The aberration of light and the related optical and electrical phenomena seems to provide us a means of determining the absolute motion of the Earth
 image: "/covers/electron.jpg"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

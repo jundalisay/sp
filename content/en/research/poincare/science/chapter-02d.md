@@ -3,9 +3,9 @@ title: The Physical Continuum of Several Dimensions
 heading: Chapter 2d
 weight: 16
 description: How from formula may be derived the concept of continuums of several dimensions?
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

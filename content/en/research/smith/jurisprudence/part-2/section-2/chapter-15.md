@@ -3,7 +3,7 @@ title: "Exchange (Forex and Trade Financing)"
 heading: "Chapter 15"
 description: "Exchange is a method invented by merchants to facilitate the payment of money at a distance"
 # date: 2015-09-17
-image: "/covers/lectures.jpg"
+c: "seagreen"
 weight: 34
 writer:
   name: Adam Smith

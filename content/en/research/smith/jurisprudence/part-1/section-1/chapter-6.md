@@ -7,7 +7,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "The arts and commerce of Rome improved under their imperial government. The people become acquainted with arts, commerce and consequently, domestic luxury"
 ---
 

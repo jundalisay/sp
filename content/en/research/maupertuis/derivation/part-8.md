@@ -5,7 +5,7 @@ title: General Principle
 weight: 38
 date: 2025-03-16
 description: ""
-image: "/covers/mau.jpg"
+c: "darkgoldenrod"
 ---
 
 

@@ -3,9 +3,9 @@ title: The Origin of Mathematical Physics
 heading: Chapter 9d
 weight: 51
 description: The efforts of men of science have always tended to resolve the complex phenomenon given directly by experiment into a very large number of elementary phenomena, and that in three different ways
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

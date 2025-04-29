@@ -5,5 +5,5 @@ description: "Lord Kelvin's ideas on the aether inspired Nikola Tesla"
 weight: 112
 a: "Lord Kelvin"
 c: "darkgoldenrod"
-# image: "/covers/vortex.png"
+# c: "darkgoldenrod"
 ---

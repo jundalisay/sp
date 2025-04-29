@@ -3,9 +3,9 @@ title: The Unity of Nature
 heading: Chapter 9b
 weight: 48
 description:  
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

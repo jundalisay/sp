@@ -4,7 +4,7 @@ weight: 20
 author: "PR Sarkar"
 description: ""
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

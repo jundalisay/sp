@@ -1,6 +1,6 @@
 ---
 title: The Party
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 3"
 weight: 10
 description: ""

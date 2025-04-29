@@ -4,7 +4,7 @@ heading: "Part 3"
 weight: 6
 c: "indigo"
 description: "Tantra flourished in Bengal due to the pervasive intermixture of Dravidian and Mongolian blood."
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

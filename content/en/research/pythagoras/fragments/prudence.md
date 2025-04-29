@@ -3,7 +3,7 @@ title: "Crito on Prudence"
 heading: Treatise On The Good And Happy Man
 weight: 5
 description: Crito gave treatises On Prudence And Prosperity
-image: "/covers/fragments.png"
+c: "indigo"
 ---
 
 

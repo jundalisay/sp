@@ -3,9 +3,9 @@ title: The Theory of Errors
 heading: Chapter 11e Part 6
 weight: 66
 description:  This is directly connected with the problem of the probability of causes.
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

@@ -4,7 +4,7 @@ title: "The Principle of Least Action"
 weight: 28
 date: 2025-03-16
 description: "The Laws Governing Motion's Conservation, Distribution, and Destruction are Based on the Attributes of a Supreme Intelligence"
-image: "/covers/mau.jpg"
+c: "darkgoldenrod"
 ---
 
 

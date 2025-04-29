@@ -1,7 +1,7 @@
 ---
 title: "Conclusion"
 description: "A Treatise on Sulphur"
-image: "/covers/sulphur.jpg"
+c: "darkgoldenrod"
 weight: 20
 # date: 2022-05-18
 writer:

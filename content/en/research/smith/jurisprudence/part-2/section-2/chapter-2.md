@@ -7,7 +7,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "Those qualities, which are the ground of preference, and which give occasion to pleasure and pain, are the cause of many insignificant demands"
 ---
 

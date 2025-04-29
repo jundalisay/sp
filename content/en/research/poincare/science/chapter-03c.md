@@ -3,9 +3,9 @@ title: The Fourth Geometry
 heading: Chapter 3c
 weight: 22
 description: Among these explicit axioms there is one which seems to me to deserve some attention, because when we abandon it we can construct a fourth geometry as coherent as those of Euclid, Lobatschewsky, and Riemann
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: Section 11
 title: "The Theta Angle as a “Hidden” Parameter"
 description: "Why should we insist that the wavefunction is single-valued?"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 22
 ---

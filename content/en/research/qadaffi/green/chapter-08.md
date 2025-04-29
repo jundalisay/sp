@@ -1,6 +1,6 @@
 ---
 title: Who Supervises The Conduct Of Society?
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 8"
 weight: 20
 description: ""

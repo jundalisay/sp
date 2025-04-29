@@ -1,7 +1,6 @@
 ---
 title: Superphysics Solutions
-# image: "/covers/solutions.png"
-c: "teal"
+c: "forestgreen"
 linkTitle: "Solutions"
 youtube: "r8g949AxUU0"
 date: 2020-01-31

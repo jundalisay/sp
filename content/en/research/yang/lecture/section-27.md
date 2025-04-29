@@ -2,7 +2,7 @@
 heading: Section 26
 title: "Wilson Loops as Operators"
 description: "In quantum field theory, states are defined as living on a spacelike slice of the system"
-image: "/covers/yang.png"
+c: "firebrick"
 # icon: /icons/xeno.png
 weight: 54
 ---

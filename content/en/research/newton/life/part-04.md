@@ -2,7 +2,7 @@
 heading: Part 4
 title: "Newton's Interests"
 description: "His attention was soon drawn to that of Judicial Astrology"
-image: "/covers/newton.jpg"
+c: "firebrick"
 weight: 8
 date: 2024-12-02
 ---

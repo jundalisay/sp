@@ -3,9 +3,9 @@ title: Law of Homogeneity
 heading: Chapter 4c
 weight: 28
 description:  The first of these laws is the law of homogeneity
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

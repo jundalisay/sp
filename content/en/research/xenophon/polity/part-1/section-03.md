@@ -2,7 +2,7 @@
 heading: Section 3
 title: "The Athenian Bureaucracy"
 description: "The Polity Of The Athenians And The Spartans"
-image: "/covers/polity.jpg"
+c: "seagreen"
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon

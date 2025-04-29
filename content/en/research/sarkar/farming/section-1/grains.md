@@ -6,7 +6,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 description: "Cereals are the staple food of human beings. Cereals vary in their type, nutritional value and use. "
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 aliases:
   /research/indian/farming/section-1/grains
 ---

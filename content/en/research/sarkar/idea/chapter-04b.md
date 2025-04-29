@@ -4,7 +4,7 @@ heading: "Chapter 4b"
 weight: 22
 description: "The Heart Chakra is the most vital part of the physical and psycho-physical body"
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

@@ -4,7 +4,7 @@ title: "The Scope of Bio-Psychology"
 weight: 4
 c: "indigo"
 description: "Karma or action is a form of Brahma or the totaliity of existence"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

@@ -3,7 +3,7 @@ title: "The Rate of Interest"
 heading: "Chapter 14"
 description: "It is commonly supposed that the premium of interest depends on the value of gold and silver. The value of these are regulated by their quantity. As the quantity increases, the value diminishes. As the quantity decreases, the value rises"
 # date: 2015-09-17
-image: "/covers/lectures.jpg"
+c: "seagreen"
 weight: 32
 writer:
   name: Adam Smith

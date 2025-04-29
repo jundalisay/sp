@@ -2,7 +2,7 @@
 heading: Chapter 6
 title: "The Three Principles Of All Things"
 description: "A Treatise on Sulphur"
-image: "/covers/sulphur.jpg"
+c: "darkgoldenrod"
 weight: 16
 # date: 2022-05-18
 writer:

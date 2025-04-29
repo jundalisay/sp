@@ -5,7 +5,7 @@ heading: "Part 2c"
 weight: 8
 c: "indigo"
 description: "There is a group of people who are very vocal about the national language. But is it the proper time to fight over the language issue?"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

@@ -3,9 +3,9 @@ heading: Chapter 2c
 title: Mathematical Magnitude And Experiment
 weight: 14
 description:  If we try to imagine a line, it must have the characters of the physical continuum—that is to say, our representation must have a certain width
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

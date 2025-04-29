@@ -4,7 +4,7 @@ title: "Socio-Economic Theories and Communism"
 weight: 36
 c: "indigo"
 description: "Communism must go immediately or be removed without any delay"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

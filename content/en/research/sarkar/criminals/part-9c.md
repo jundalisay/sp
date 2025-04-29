@@ -4,7 +4,7 @@ heading: "Part 9c"
 weight: 24
 c: "indigo"
 description: "The human mind becomes inert and dormant in society due to"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

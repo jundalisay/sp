@@ -3,7 +3,7 @@ title: "Speed and Pause"
 weight: 3
 c: "indigo"
 description: "In every sphere of this universe, you will find the phenomenon of speed and pause"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

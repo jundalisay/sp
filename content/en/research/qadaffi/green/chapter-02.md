@@ -1,7 +1,7 @@
 ---
 # title: "The Solution of the Problem of Democracy: The Authority of the People"
 title: Parliaments
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 2"
 weight: 8
 description: "Parliaments are the backbone of that conventional democracy prevailing in the world today."

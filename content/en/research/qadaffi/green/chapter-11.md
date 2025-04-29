@@ -1,6 +1,6 @@
 ---
 title: The Economic Basis Of The Third Universal Theory
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 11"
 weight: 22
 description: ""

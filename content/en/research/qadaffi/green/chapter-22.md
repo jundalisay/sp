@@ -1,6 +1,6 @@
 ---
 title: The Nation
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 22"
 weight: 42
 description: ""

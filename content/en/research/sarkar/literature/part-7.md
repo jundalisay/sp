@@ -4,7 +4,7 @@ heading: "Part 7"
 weight: 14
 c: "indigo"
 description: "Popular Language"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

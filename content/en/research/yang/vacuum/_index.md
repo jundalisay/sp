@@ -1,6 +1,6 @@
 ---
 title: "False Vacuum"
 description: ""
-image: "/covers/yang.png"
+c: "firebrick"
 weight: 600
 ---

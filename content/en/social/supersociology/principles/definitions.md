@@ -3,7 +3,7 @@ title: "Concepts and Definitions"
 linkTitle: "Appendix"
 weight: 100
 description: "Material Superphysics is based on the 5 Elements of Ancient Greece, India, and China"
-image: "/covers/principles.png"
+c: "steelblue"
 type: "featured"
 # # date: 2020-10-31
 ---

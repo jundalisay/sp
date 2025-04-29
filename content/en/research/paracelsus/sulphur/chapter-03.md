@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "The Water Element"
 description: "A Treatise on Sulphur"
-image: "/covers/sulphur.jpg"
+c: "darkgoldenrod"
 weight: 8
 # date: 2022-05-18
 writer:

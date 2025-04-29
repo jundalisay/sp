@@ -4,7 +4,7 @@ heading: "Part 6"
 weight: 12
 c: "indigo"
 description: "The artists and the litterateurs are the guides of the society"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

@@ -4,8 +4,8 @@ title: "Reforms to the Indian Constitution"
 weight: 21
 author: "PR Sarkar"
 description: "There are several fiscal and psychological loopholes in the Indian constitution."
-image: "/covers/prout.jpg"
-icon: "/icons/sarkar.png"
+c: "seagreen"
+icon: "PR Sarkar"
 ---
  
 

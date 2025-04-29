@@ -2,7 +2,7 @@
 heading: Section 10
 title: "The Continual Cultivation Of Virtue"
 description: "The Economy Of The Spartans"
-image: "/covers/polity.jpg"
+c: "seagreen"
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon

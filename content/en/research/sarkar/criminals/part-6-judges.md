@@ -4,7 +4,7 @@ heading: "Part 6"
 weight: 14
 c: "indigo"
 description: "People judge the mistakes of others to the best of their own intellectual capacities"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

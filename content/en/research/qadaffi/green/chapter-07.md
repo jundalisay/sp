@@ -1,6 +1,6 @@
 ---
 title: The Law Of Society
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 7"
 weight: 18
 description: ""

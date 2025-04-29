@@ -4,7 +4,7 @@ heading: "Part 2"
 weight: 4
 c: "indigo"
 description: "Most of Sáhitya today is mere composition, not literature"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

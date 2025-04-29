@@ -4,7 +4,7 @@ title: "The Mississippi Scheme"
 heading: "Chapter 13"
 # date: 2021-08-01
 weight: 30
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "The Mississippi Company seemed to start in a very flourishing condition. Shares were bought at a very considerable rate"
 writer:
   name: Adam Smith

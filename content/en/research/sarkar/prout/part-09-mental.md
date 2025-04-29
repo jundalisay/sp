@@ -4,8 +4,8 @@ title: "The Transformation of Mental Food into Mental-spiritual Food"
 weight: 14
 author: "PR Sarkar"
 description: "The innate instincts of crude psychic propensities of human beings instigate them to accumulate and enjoy material objects in an unlimited manner"
-image: "/covers/prout.jpg"
-icon: "/icons/sarkar.png"
+c: "seagreen"
+icon: "PR Sarkar"
 ---
 
 

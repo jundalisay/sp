@@ -4,7 +4,7 @@ weight: 14
 author: "PR Sarkar"
 description: "The uterus lies in a suspended position supported by a few ligaments behind the navel region."
 image: "/photos/med/dysm.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

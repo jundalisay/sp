@@ -3,7 +3,7 @@ heading: Chapter 6c
 title: Electrical Oscillations
 weight: 33
 description: The First idea of Ether due to Descartes—Ether must be imponderable—Fresnel shows light vibrations to be transverse—Transverse vibrations cannot exist in fluid—Ether must be discontinuous
-image: "/covers/time.jpg"
+c: "steelblue"
 author: "Lucien Poincare"
 ---
 

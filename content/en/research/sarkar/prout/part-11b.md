@@ -4,8 +4,8 @@ title: "Loopholes in the Indian Constitution"
 weight: 19
 author: "PR Sarkar"
 description: "There are several fiscal and psychological loopholes in the Indian constitution."
-image: "/covers/prout.jpg"
-icon: "/icons/sarkar.png"
+c: "seagreen"
+icon: "PR Sarkar"
 ---
 
 

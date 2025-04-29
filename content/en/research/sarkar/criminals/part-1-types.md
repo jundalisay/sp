@@ -4,7 +4,7 @@ heading: "Part 1"
 weight: 4
 c: "indigo"
 description: "There are 5 categories of criminals"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

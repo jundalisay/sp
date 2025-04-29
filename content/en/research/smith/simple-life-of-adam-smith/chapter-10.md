@@ -4,7 +4,7 @@ heading: "Chapter 10"
 description: "The Life of Adam Smith Simplified"
 # date: 2015-09-08
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 weight: 22
 ---
 

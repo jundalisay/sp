@@ -4,7 +4,7 @@ heading: "Chapter 4c "
 weight: 24
 description: "To find expression, the mind adopts certain propensities of love, hatred, fear, etc."
 c: "indigo"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

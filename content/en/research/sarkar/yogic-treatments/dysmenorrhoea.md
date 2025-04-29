@@ -4,7 +4,7 @@ weight: 18
 author: "PR Sarkar"
 description: "Women who are adverse to physical labour, and who generally are from rich or upper middle-class families, are found suffering from this disease"
 image: "/photos/med/dysm.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

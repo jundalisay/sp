@@ -3,9 +3,9 @@ title: Helmholtz’s Theory
 heading: Chapter 13b
 weight: 74
 description:  Helmholtz rejects the Ampere's hypothesis.
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

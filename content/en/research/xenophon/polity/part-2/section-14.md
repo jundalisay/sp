@@ -2,7 +2,7 @@
 heading: Section 14
 title: "The Power Assigned By Lycurgus To The King"
 description: "The Polity Of The Athenians And The Spartans"
-image: "/covers/polity.jpg"
+c: "seagreen"
 writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon

@@ -4,7 +4,7 @@ heading: "Part 5"
 weight: 10
 c: "indigo"
 description: "People said that after the great poet Girishchandra was gone, there were no longer any accomplished dramatists"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

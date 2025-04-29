@@ -1,6 +1,6 @@
 ---
 title: Woman
-image: "/covers/green.jpg"
+c: "firebrick"
 heading: "Chapter 23"
 weight: 42
 description: ""

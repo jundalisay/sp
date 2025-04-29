@@ -4,8 +4,8 @@ title: "Problem 2: Laws of Motion for Elastic Bodies"
 #"Certain Laws of Motion and Equilibrium"
 weight: 43
 date: 2025-03-16
-description: ""
-image: "/covers/mau.jpg"
+description: "Let there be two elastic bodies of masses `m1` and `m2` moving in the same direction with speeds `v1` and `v2`"
+c: "darkgoldenrod"
 ---
 
 

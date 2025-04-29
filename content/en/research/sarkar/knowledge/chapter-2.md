@@ -4,7 +4,7 @@ heading: "Chapter 2"
 weight: 4
 c: "indigo"
 description: "Is ordinary knowledge confined to the material level or to the abstract level?"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

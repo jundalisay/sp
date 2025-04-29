@@ -4,7 +4,7 @@ heading: "Part 9d"
 weight: 26
 c: "indigo"
 description: "The solution for the lack physical food is the guarantee of minimum requirements to everyone"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

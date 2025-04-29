@@ -3,9 +3,9 @@ title: Space And Geometry
 heading: Chapter 4
 weight: 24
 description:  
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

@@ -2,7 +2,7 @@
 heading: Chapter 11b
 title: "Justifiable homicide"
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "Delicts are of two kinds ex dolo and ex culpa"
 weight: 28
 writer:

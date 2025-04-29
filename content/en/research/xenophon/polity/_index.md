@@ -1,6 +1,6 @@
 ---
 title: "Polity"
 description: ""
-image: "/covers/polity.jpg"
+c: "seagreen"
 weight: 2
 ---

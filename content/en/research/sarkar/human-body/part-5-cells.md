@@ -5,7 +5,7 @@ title: "Food, Cells, Physical and Mental Development"
 weight: 12
 c: "indigo"
 description: "The human body is composed of countless cells of 2 kinds"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

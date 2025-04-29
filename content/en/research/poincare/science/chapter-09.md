@@ -3,9 +3,9 @@ title: Hypotheses In Physics
 heading: Chapter 9
 weight: 46
 description:  
-image: "/covers/hyp.jpg"
+c: "darkgoldenrod"
 author: "H. Poincare"
-icon: /avatars/poincare.png
+icon: "Henri Poincare"
 ---
 
 

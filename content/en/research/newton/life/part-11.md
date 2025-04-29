@@ -2,7 +2,7 @@
 heading: Part 8
 title: "Newton's Death"
 description: "On Tuesday, February 28, 1727, he went to London to preside at a meeting of the Royal Society."
-image: "/covers/newton.jpg"
+c: "firebrick"
 weight: 100
 date: 2024-12-02
 ---

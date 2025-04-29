@@ -2,7 +2,7 @@
 heading: Part 1
 title: "Early Life"
 description: "Sir Isaac Newton was born on December 25, 1642 Christmas day at Woolsthorpe, in the parish of Colsterworth, in Lincolnshire"
-image: "/covers/newton.jpg"
+c: "firebrick"
 weight: 4
 date: 2024-12-02
 ---

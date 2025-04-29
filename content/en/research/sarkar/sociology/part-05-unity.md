@@ -4,7 +4,7 @@ title: The Importance of Scientific Progress
 weight: 16
 c: "indigo"
 description: "In order to conquer static Prakriti, physical science or Bhaotika Vijiṋána evolved"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

@@ -2,7 +2,7 @@
 heading: Tractatus 1 Chapter 2
 title: "Spiritus Quid Et Anima"
 description: "The flesh from Adam is the man from Adam. He is coarse like the earth which is compact. Therefore, man cannot go through a wall. He must make a hole to slip through, because nothing recedes before him."
-image: "/covers/nymphs.jpg"
+c: "deeppink"
 weight: 10
 date: 2024-03-20
 writer:

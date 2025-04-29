@@ -4,7 +4,7 @@ weight: 54
 author: "PR Sarkar"
 description: "When fat abnormally accumulates beyond the ordinary requirement of the body, it causes all the organs of the body to become incapacitated"
 image: "/photos/med/obesity.jpg"
-icon: "/icons/sarkar.png"
+icon: "PR Sarkar"
 ---
 
 

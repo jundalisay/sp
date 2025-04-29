@@ -4,7 +4,7 @@ heading: "Chapter 20"
 description: "Smith remained at Kirkcaldy from May to December 1776, except for occasional visits to Edinburgh or Dalkeith"
 weight: 52
 author: "Rae"
-image: "/covers/life.jpg"
+c: "darkslategray"
 ---
 
 

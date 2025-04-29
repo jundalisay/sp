@@ -5,7 +5,7 @@ writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
 icon: "Adam Smith"
-image: "/covers/lectures.jpg"
+c: "seagreen"
 description: "The rules which nations should observe, or do observe with one another, cannot be treated so accurately as private or public law"
 ---
 
