@@ -6,7 +6,7 @@ weight: 24
 # "2021-09-30"
 description: "ON the other hand, religion may support a state, when the laws themselves are incapable of doing it"
 c: "seagreen"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

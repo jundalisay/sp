@@ -6,7 +6,7 @@ weight: 6
 c: "seagreen"
 author: "Montesquieu"
 description: "In most states, liberty is more checked or depressed than their constitution requires"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

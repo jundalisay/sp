@@ -5,7 +5,7 @@ date: 2015-09-27
 c: "seagreen"
 author: "Montesquieu"
 description: "How the three Powers were there distributed in Rome"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

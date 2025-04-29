@@ -5,7 +5,7 @@ linkTitle: "Chapter 7-11"
 weight: 8
 description: "THE monarchies that we know do not have liberty as their goal. Their only aim is the glory of the subject, the state, and the sovereign"
 c: "seagreen"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

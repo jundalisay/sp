@@ -1,16 +1,19 @@
+---
+heading: "Chapter 1"
+title: "The Qualities of a Perfect Foreign Trade Merchant"
+weight: 2
+description: "The Statute of Employments aimed to pay for imports with exports via state-owned mercantile companies and bypass money and finance. This was protested by Mun and the mercantilists"
+image: "/covers/treasure.jpg"
+contributors: ['Mun']
+---
 
 
 +++
 title=  "The Statute of Employments by Foreigners cannot Increase our Wealth"
 heading=  "Chapter 10 and 11"
-date=  2020-01-23
-image=  "/covers/treasure.jpg"
+
 description=  "The Statute of Employments aimed to pay for imports with exports via state-owned mercantile companies and bypass money and finance. This was protested by Mun and the mercantilists."
-linkbtext=  "Chapter 9"
-linkb=  "/research/mun/englands-treasure/chapter-9"
-linkftext=  "Chapter 12"
-linkf=  "/research/mun/englands-treasure/chapter-12"
-+++
+
 
 
 Keeping our money in the nation is just as useless as debasing our money because the causes of their preservation and production are the same in nature. The statute to allow free importation aims to employ foreign goods into our commodities. They say that the statute's intent is for encourage imports to be employed in our commodities which will then be exported at a higher value than imports. It might seem as a good policy to increase our wealth.

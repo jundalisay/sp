@@ -5,7 +5,7 @@ weight: 2
 c: "seagreen"
 author: "Montesquieu"
 description: "Liberty is favoured by the Nature and Proportion of Punishments"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

@@ -6,7 +6,7 @@ weight: 2
 c: "seagreen"
 author: "Montesquieu"
 description: "LIBERTY often has been weakened in monar chies by a thing of the least use in the world to the prince"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

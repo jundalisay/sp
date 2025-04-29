@@ -6,7 +6,7 @@ weight: 2
 c: "seagreen"
 author: "Montesquieu"
 description: "A PRINCE who tries to destroy or change the established religion of his kingdom greatly exposes himself"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

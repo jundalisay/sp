@@ -6,7 +6,7 @@ weight: 4
 c: "seagreen"
 author: "Montesquieu"
 description: "IN every government there are three sorts of power= legislative, executive, and judicial"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

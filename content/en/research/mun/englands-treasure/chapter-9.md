@@ -1,14 +1,19 @@
-+++
+---
+heading: "Chapter 1"
+title: "The Qualities of a Perfect Foreign Trade Merchant"
+weight: 2
+description: "The Statute of Employments aimed to pay for imports with exports via state-owned mercantile companies and bypass money and finance. This was protested by Mun and the mercantilists"
+image: "/covers/treasure.jpg"
+contributors: ['Mun']
+---
+
+
+
 title=  "Allowing Foreign Coins to enter at higher rates relative to our Standard will not Increase our Treasure"
 heading=  "Chapter 9 "
-date=  2020-01-24
-image=  "/covers/treasure.jpg"
+
 description=  "According to Mun, buying and selling of foreign coins will not increase national wealth"
-linkbtext=  "Chapter 8"
-linkb=  "/research/mun/englands-treasure/chapter-8"
-linkftext=  "Chapter 10"
-linkf=  "/research/mun/englands-treasure/chapter-10"
-+++
+
 
 The discreet Merchant [trade financer] carefully learns the value of the foreign money that he receives according to their weight and fineness compared to ours. This will help him know his profits or losses.
 

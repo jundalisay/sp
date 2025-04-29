@@ -6,7 +6,7 @@ weight: 2
 c: "seagreen"
 author: "Montesquieu"
 description: "The laws that establish political liberty, as it relates to the constitution, and those by which it is established, as it relates to the citizen."
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

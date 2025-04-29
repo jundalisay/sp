@@ -6,7 +6,7 @@ weight: 2
 c: "seagreen"
 author: "Montesquieu"
 description: "Speech is so subject to interpretation. There is so great a difference be tween indiscretion and malice"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

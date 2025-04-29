@@ -1,16 +1,14 @@
+---
+heading: "Chapters 28-29"
+title: "How to Remedy a Depopulation; Healthcare Policy"
+linkTitle: "Chapter 16"
+weight: 24
+# "2021-09-30"
+description: "ON the other hand, religion may support a state, when the laws themselves are incapable of doing it"
+c: "seagreen"
+icon: "Montesquieu"
+---
 
-+++
-title=  "How to Remedy a Depopulation; Healthcare Policy"
-heading=  "Chapter 28-29"
-image=  "/covers/spirit.jpg"
-description=  "WHEN a state is depopulated by particular accidents, by wars, pestilence, or famine, there are still resources left"
-date=  2020-03-26
-author=  "Montesquieu"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-23/chapter-22"
-linkbtext=  "Chapter 22"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-24/chapter-1"
-linkftext=  "Chapter 1"
-+++
 
 WHEN a state is depopulated by particular accidents, by wars, pestilence, or famine, there are still resources left. 
 
@@ -32,7 +30,7 @@ In this situation they should take the same measures throughout the whole extent
 
 
 
-## Chapter 29=  Hospitals
+## Chapter 29: Hospitals
 
 A MAN is not poor because he has nothing, but because he does not work. The poor man has an employment, is as much at his ease as he who without labour has an income of a hundred crowns a year. 
 
@@ -59,3 +57,4 @@ At Rome, the hospitals place every one at his ease, except those who labour, exc
 Wealthy nations need hospitals because fortune subjects them to many accidents. Transient assistances are much better than perpetual foundations. 
 
 The evil is momentary; it is necessary, therefore, that the succour should be of the same nature, and that it be applied to particular accidents.
+

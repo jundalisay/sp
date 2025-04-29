@@ -6,7 +6,7 @@ weight: 2
 c: "seagreen"
 author: "Montesquieu"
 description: "THE first men, says Porphyry, sacrificed only vegetables. In a worship so simple, every one might be priest in his own family"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

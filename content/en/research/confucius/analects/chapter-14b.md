@@ -93,12 +93,22 @@ Confucius gave him a seat, and among other inquiries he asked:
 How is your master managing?
 {{< /l >}}
 
-"My master has a great wish to be seldom at fault, and as yet he cannot manage it." 
 
+{{< r a="Messenger" >}}
+My master has a great wish to be seldom at fault, and as yet he cannot manage it.
+{{< /r >}}
 
-"What a messenger!" exclaimed he admiringly, when the man went out. 
+When the man went out, Confucius said:
 
-When not occupying the office," was a remark of his, "devise not the policy." The Learned Tsang used to say, "The thoughts of the 'superior man' do not wander from his own office." 
+{{< l a="Confucius" >}}
+(Admiringly) What a messenger! 
+
+When not occupying the office, devise not the policy.
+{{< /l >}}
+
+The Learned Tsang used to say:
+
+"The thoughts of the 'superior man' do not wander from his own office." 
 
 "Superior men are modest in their words, profuse in their deeds." 
 

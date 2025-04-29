@@ -5,7 +5,7 @@ linkTitle: "Chapter 12"
 weight: 8
 description: "Taxes can be higher the more liberty a person has, and should be lower the more enslaved a person is"
 c: "seagreen"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

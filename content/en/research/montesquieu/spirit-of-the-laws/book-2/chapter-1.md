@@ -5,7 +5,7 @@ linkTitle: "Chapter 1"
 weight: 6
 description: "The three kinds of government are Republican, Monarchy, and Despotism"
 c: "seagreen"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

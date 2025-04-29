@@ -1,17 +1,18 @@
+---
+heading: "Chapter 1"
+title: "The Qualities of a Perfect Foreign Trade Merchant"
+weight: 2
+description: "The Statute of Employments aimed to pay for imports with exports via state-owned mercantile companies and bypass money and finance. This was protested by Mun and the mercantilists"
+image: "/covers/treasure.jpg"
+contributors: ['Mun']
+---
 
 
-+++
 title=  "The Bankers and Merchants Exchange"
 heading=  "Chapter 14"
 date=  2020-01-20
-image=  "/covers/treasure.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/medieval/armada1.jpg"
 description=  "Mercantilist Mun gives counterarguments against those of anti-mercantilist Gerard Malynes"
-linkbtext=  "Chapter 13"
-linkb=  "/research/mun/englands-treasure/chapter-13"
-linkftext=  "Chapter 15"
-linkf=  "/research/mun/englands-treasure/chapter-15"
-+++
+
 
 <!-- Although I have already written something concerning the Merchants Exchange, and therein of the undervaluation of our money, and of the mere Exchanger, with their true causes and effects;
 

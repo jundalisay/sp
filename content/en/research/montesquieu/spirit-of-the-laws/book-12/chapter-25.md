@@ -6,7 +6,7 @@ weight: 6
 c: "seagreen"
 author: "Montesquieu"
 description: "THE royal authority is a spring that should move with the greatest freedom and ease"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

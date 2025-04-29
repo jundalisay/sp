@@ -5,7 +5,7 @@ linkTitle: "Chapter 3"
 weight: 4
 description: "The bondman or villain that tills the land should have a kind of partnership with his master"
 c: "seagreen"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

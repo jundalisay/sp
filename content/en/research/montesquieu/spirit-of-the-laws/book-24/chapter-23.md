@@ -1,14 +1,15 @@
-+++
-title= "Religious Festivals"
-heading= "Chapters 23-25"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+heading: "Chapters 23-25"
+title: "Religious Festivals"
+linkTitle: "Chapter 16"
+weight: 24
+# "2021-09-30"
+description: "ON the other hand, religion may support a state, when the laws themselves are incapable of doing it"
+c: "seagreen"
+icon: "Montesquieu"
+---
+
+
 
 WHEN religion appoints a cessation from labour, it ought to have a greater regard to the necessities of mankind, than to the grandeur of the being it designs to honour.
 
@@ -22,11 +23,23 @@ Dampier∥ observes, that the diversions of different nations vary greatly, acco
 
 
 
-## Chapter 24= The local Laws of Religion.
+## Chapter 24: The local Laws of Religion
 
-THERE are many local laws in various religions= and when Montezuma with so much obstinacy insisted, that the religion of the Spaniards was good for their country, and his for Mexico, he did not assert an absurdity; because, in fact, legislators could never help having a regard to what nature had established before them.
+THERE are many local laws in various religions.
 
-The opinion of the metempsychosis is adapted to the climate of the Indies. An excessive heat burns *up all the country; they can breed but very few cattle; they are always in danger of wanting them for tillage; their black cattle multiply but indifferently†; and they are subject to many distempers= a law of religion which preserves them, is therefore more suitable to the policy of the country.
+Montezuma with so much obstinacy insisted that:
+- the religion of the Spaniards was good for Spain
+- the religion of the Aztecs was good for Mexico
+
+He did not assert an absurdity.
+
+Legislators could never help having a regard to what nature had established before them.
+
+The opinion of the metempsychosis is adapted to the climate of the Indies. 
+
+An excessive heat burns up all the country. They can breed but very few cattle. They are always in danger of wanting them for tillage.
+
+Their black cattle multiply but indifferently†; and they are subject to many distempers= a law of religion which preserves them, is therefore more suitable to the policy of the country.
 
 While the meadows are scorched up, rice and pulse, by the assistance of water, are brought to perfection; a law of religion which permits only this kind of nourishment, must therefore be extremely useful to men in those climates.
 
@@ -46,9 +59,7 @@ IT follows from hence, that there are frequently many inconveniencies attending 
 I shall here make a reflection. Sanctorius has observed that pork transpires but little∥, and that this kind of meat greatly hinders the transpiration of other food; he has found that this diminution amounts to a third§. Besides, it is known that the want of transpiration forms or increases the disorders of the skin. The feeding on pork ought rather to be prohibited in climates where the people are subject to these disorders, as in Palestine, Arabia, Ægypt, and Lybia.
 
 
-
-
-## Chapter 26= continued
+## Chapter 26: Continued
 
 SIR John Chardin says Persia had no navigable rivers except the Kur, which is at its edge. The ancient law of the Gaurs prohibited sailing on rivers. It was not therefore attended with any inconvenience in this country, though it would have ruined the trade of another.
 

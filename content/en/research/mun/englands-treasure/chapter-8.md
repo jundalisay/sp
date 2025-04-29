@@ -1,18 +1,19 @@
+---
+heading: "Chapter 1"
+title: "The Qualities of a Perfect Foreign Trade Merchant"
+weight: 2
+description: "The Statute of Employments aimed to pay for imports with exports via state-owned mercantile companies and bypass money and finance. This was protested by Mun and the mercantilists"
+image: "/covers/treasure.jpg"
+contributors: ['Mun']
+---
 
 
-
-
-+++
 title=  "Debasing our Money cannot enrich the Nations"
 heading=  "Chapter 8 "
 date=  2020-01-25
-image=  "/covers/treasure.jpg"
+
 description=  "Debasing the national coin cannot increase national wealth"
-linkbtext=  "Chapter 7"
-linkb=  "/research/mun/englands-treasure/chapter-7"
-linkftext=  "Chapter 8"
-linkf=  "/research/mun/englands-treasure/chapter-9"
-+++
+
 
 The nation's money can be commonly altered in three ways= 
 

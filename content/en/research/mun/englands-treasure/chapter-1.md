@@ -5,7 +5,6 @@ weight: 2
 description: "The Statute of Employments aimed to pay for imports with exports via state-owned mercantile companies and bypass money and finance. This was protested by Mun and the mercantilists"
 image: "/covers/treasure.jpg"
 contributors: ['Mun']
-icon: /avatars/mun.png
 ---
 
 

@@ -1,14 +1,14 @@
-+++
-title= "Catholicism is Best for a Monarchy, and the Protestant is Best for a Republic"
-heading= "Chapters 5-6"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+heading: "Chapters 5-6"
+title: "Catholicism is Best for a Monarchy, and the Protestant is Best for a Republic"
+linkTitle: "Chapter 5"
+weight: 24
+# "2021-09-30"
+description: "ON the other hand, religion may support a state, when the laws themselves are incapable of doing it"
+c: "seagreen"
+icon: "Montesquieu"
+---
+
 
 <!-- WHEN a religion is introduced in a state, it is commonly such as is most suitable to the plan of government there established. -->
 

@@ -6,7 +6,7 @@ description: "A wise lord cannot and should not keep faith when such promises ma
 weight: 8
 # date: 2021-09-30
 c: "seagreen"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

@@ -6,7 +6,7 @@ weight: 6
 c: "seagreen"
 author: "Montesquieu"
 description: "Were the executive power not to have a right of restraining the encroachments of the legislative body, the latter would become despotic"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

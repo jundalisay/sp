@@ -6,7 +6,7 @@ weight: 24
 # "2021-09-30"
 description: "THE pious man and the atheist always talk of religion; the one speaks of what he loves, and the other of what he fears"
 c: "seagreen"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 

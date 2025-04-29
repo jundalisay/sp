@@ -31,15 +31,16 @@ body {
 }
 
 
-cite {
-  line-height: 1.25rem; /* leading-5 */
-  color: darkgray; /* text-gray */
-  text-align: right !important; /* align right */
-  text-align-last: justify !important;
-  font-style: italic; /* italic */
-  font-size: 14px;
-}
 
+cite {
+    line-height: 1.25rem;
+    color: darkgray;
+    text-align: right !important;
+    text-align-last: justify !important;
+    font-style: italic;
+    font-size: 14px;
+    display: block; /* Or display: inline-block; */
+}
 
 
 th {

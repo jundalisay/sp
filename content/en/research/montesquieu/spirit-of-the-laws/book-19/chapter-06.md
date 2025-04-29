@@ -5,7 +5,7 @@ linkTitle: "Chapter 6"
 weight: 6
 description: "In an aristocracy the supreme power is lodged in the hands of a certain number of persons"
 c: "seagreen"
-icon: "/icons/mont.png"
+icon: "Montesquieu"
 ---
 
 
