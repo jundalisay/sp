@@ -3,7 +3,7 @@ title: "What is Force?"
 heading: "Part 1"
 weight: 4
 description: "Solicitation and effort or striving apply only to animate beings"
-:c: "steelblue"
+c: "steelblue"
 author: "George Berkeley"
 icon: "George Berkeley"
 ---
@@ -44,10 +44,35 @@ But a philosopher should avoid metaphors. Moreover, if all emotional states of t
 
 4. While we are supporting heavy bodies, we feel within ourselves effort, fatigue, and discomfort. 
 
-We also observe that heavy objects fall with accelerated motion toward the center of the Earth; but apart from this, our senses reveal nothing more. By reason, however, it is inferred that there must be some cause or principle of these phenomena; and this is commonly called *gravity*. But since the cause of the descent of heavy bodies is hidden and unknown, gravity, in this sense, cannot properly be called a sensible quality; it is thus an *occult quality*. Yet it is hardly, or not at all, conceivable what an occult quality is, or how any quality could act or do anything. It would therefore be better, setting aside the notion of occult qualities, for people to attend only to sensible effects; and, in contemplation, to lay aside abstract terms (however useful they may be for argument) and fix the mind on particulars and concrete things—that is, on the things themselves.
+We also observe that heavy objects fall with accelerated motion toward the center of the Earth.
 
-**5.** *Force* is similarly attributed to bodies: the term is used as if it signified a known quality, distinct both from motion, shape, and all other sensible things, as well as from any emotion of a living being. But on closer inspection, this turns out to be nothing more than another occult quality. *Animal effort* and *bodily motion* are commonly viewed as symptoms or measures of this occult quality.
+But apart from this, our senses reveal nothing more.
 
-**6.** It is therefore clear that *gravity* or *force* is in vain posited as a principle of motion. For can that principle be more clearly known merely by calling it an occult quality? That which is itself hidden explains nothing. And leaving aside the unknown *efficient cause*, it would be more accurate to call it a *substance* than a *quality*. Moreover, terms such as *force*, *gravity*, and the like are often, and not inappropriately, used in the concrete—to refer, for instance, to a moving body, resistance, etc. But when philosophers use them to signify certain natures abstracted from all such concrete things—natures which are neither subject to the senses nor intelligible to the mind nor imaginable—they then become sources of error and confusion.
+By reason, however, it is inferred that there must be some cause or principle of these phenomena; and this is commonly called *gravity*. 
 
-**7.** Many are led into error by the fact that general and abstract terms appear useful for reasoning, without fully understanding their import. These terms were partly invented by common usage to shorten speech and partly devised by philosophers for teaching—not because they are suited to the nature of things, which are always singular and concrete, but because they are useful for transmitting knowledge, by enabling concepts—or at least propositions—to be expressed universally.
+But since the cause of the descent of heavy bodies is hidden and unknown, gravity, in this sense, cannot properly be called a sensible quality.
+
+It is thus an *occult quality*.
+
+Yet it is hardly, or not at all, conceivable what an occult quality is, or how any quality could act or do anything. 
+
+It would therefore be better, setting aside the notion of occult qualities, for people:
+- to attend only to sensible effects
+- in contemplation, to lay aside abstract terms and fix the mind on particulars and concrete things—that is, on the things themselves.
+
+
+5. *Force* is similarly attributed to bodies: the term is used as if it signified a known quality, distinct both from motion, shape, and all other sensible things, as well as from any emotion of a living being.
+
+But on closer inspection, this turns out to be nothing more than another occult quality. *Animal effort* and *bodily motion* are commonly viewed as symptoms or measures of this occult quality.
+
+
+6. It is therefore clear that *gravity* or *force* is in vain posited as a principle of motion. 
+
+For can that principle be more clearly known merely by calling it an occult quality?
+
+That which is itself hidden explains nothing. And leaving aside the unknown *efficient cause*, it would be more accurate to call it a *substance* than a *quality*. Moreover, terms such as *force*, *gravity*, and the like are often, and not inappropriately, used in the concrete—to refer, for instance, to a moving body, resistance, etc. But when philosophers use them to signify certain natures abstracted from all such concrete things—natures which are neither subject to the senses nor intelligible to the mind nor imaginable—they then become sources of error and confusion.
+
+
+7. Many are led into error by the fact that general and abstract terms appear useful for reasoning, without fully understanding their import. 
+
+These terms were partly invented by common usage to shorten speech and partly devised by philosophers for teaching—not because they are suited to the nature of things, which are always singular and concrete, but because they are useful for transmitting knowledge, by enabling concepts—or at least propositions—to be expressed universally.

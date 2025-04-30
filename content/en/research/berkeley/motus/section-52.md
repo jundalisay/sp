@@ -1,9 +1,9 @@
 ---
 title: "What is Force?"
 heading: "Section 52"
-weight: 4
+weight: 43
 description: "Solicitation and effort or striving apply only to animate beings"
-:c: "steelblue"
+c: "steelblue"
 author: "George Berkeley"
 icon: "George Berkeley"
 ---
@@ -21,43 +21,91 @@ For they distinguish between absolute or true space, and relative or apparent sp
 But the space comprehended or defined by bodies, and thus subject to the senses, is called relative, apparent, or vulgar space.
 
 
-53. Let us imagine, therefore, all bodies to be destroyed and reduced to nothing. What remains they call absolute space, all relation which arose from the situation and distances of bodies being removed, along with the bodies themselves. Furthermore, that space is infinite, immobile, indivisible, insensible, without relation and without distinction. That is, all its attributes are privative or negative: it seems therefore to be a mere nothing. It only raises some difficulty in that it is extended. But extension is a positive quality. But what kind of extension is that which can neither be divided nor measured, of which we can perceive no part by sense, nor depict it in imagination? For nothing falls into imagination which, by the nature of the thing, it is not possible to perceive by sense; since imagination is nothing other than the representative faculty of sensible things, either actually existing, or at least possible. Moreover, it escapes pure intellect, since that faculty is concerned only with spiritual and unextended things, such as our minds, and their habits, passions, virtues, and the like. Therefore, let us remove the words from absolute space, and nothing will remain in sense, imagination, or intellect: therefore, nothing else is designated by them than pure privation or negation, that is, mere nothing.
+53. Let us imagine, therefore, all bodies to be destroyed and reduced to nothing. 
 
-54. It must absolutely be confessed that we are held by very serious prejudices concerning this matter, from which, in order to be freed, all the power of the mind must be exerted. For indeed, many are so far from considering absolute space as nothing that they think it to be the one thing (except God) of all that cannot be annihilated: and they establish that it necessarily exists by its own nature, and is eternal and uncreated, and thus participates in divine attributes. But indeed, since it is most certain that all things, which we designate by names, are known by qualities [pg 521] or relations, or at least in some part (for it would be absurd to use words to which nothing known, no notion, idea, or concept would be subjected), let us diligently inquire whether it is permissible to form any idea of that pure, real, absolute space, which would continue to exist after the annihilation of all bodies. Moreover, looking at such an idea a little more keenly, I find it to be the purest idea of nothing, if indeed it is to be called an idea. This I have experienced myself with the greatest diligence applied: this I think others will experience with equal diligence applied.
+What remains they call absolute space, all relation which arose from the situation and distances of bodies being removed, along with the bodies themselves. Furthermore, that space is infinite, immobile, indivisible, insensible, without relation and without distinction. 
 
-55. We are sometimes deceived by the fact that, with all other bodies removed in imagination, we nevertheless suppose our own to remain. With this supposition made, we imagine the motion of our limbs most freely from every side. But motion cannot be conceived without space. Nevertheless, if we recall the matter with an attentive mind, it will be evident: 1st, that relative space is conceived, defined by the parts of our body; 2nd, the most free power of moving our limbs, unimpeded by any obstacle; and nothing besides these two. But we falsely believe that some third thing, namely immense space, really exists, which gives us the free power of moving our body: for this only the absence of other bodies is required. Which absence, or privation of bodies, we must confess to be nothing positive.
+That is, all its attributes are privative or negative: it seems therefore to be a mere nothing. 
 
-56. But unless someone has examined these things with a free and keen inquiry, words and utterances are of little value. But to one meditating and considering the reasons with himself, unless I am mistaken, it will be manifest that whatever is predicated of pure and absolute space, all of it can be predicated of nothing. By which reasoning the human mind is most easily freed from great difficulties and at the same time from that absurdity of attributing necessary existence to anything other than the one best and greatest God.
+It only raises some difficulty in that it is extended. But extension is a positive quality. But what kind of extension is that which can neither be divided nor measured, of which we can perceive no part by sense, nor depict it in imagination? 
 
-57. It would be easy to confirm our opinion with arguments drawn *a posteriori* (as they say), by proposing questions about absolute space; for example, whether it is a substance or an accident? whether created or uncreated? [pg 522] and by demonstrating the absurdities consequent on either side. But brevity must be consulted. However, this ought not to be omitted, that Democritus of old confirmed this opinion by his calculation, as Aristotle is the author in *Physics* I. i, where he has this: "Democritus posits the solid and the void as principles, of which he says the one indeed exists as what is, the other as what is not." If perhaps a scruple is raised that this distinction between absolute and relative space is used by philosophers of great name, and many excellent theorems are built upon it as a foundation, it will appear from what follows that this scruple is vain.
+For nothing falls into imagination which, by the nature of the thing, it is not possible to perceive by sense; since imagination is nothing other than the representative faculty of sensible things, either actually existing, or at least possible. 
 
-58. From the premises it is clear that it is not fitting for us to define the true place of a body to be the part of absolute space which the body occupies, and true or absolute motion to be the change of true and absolute place. For indeed every place is relative, as is every motion. But that this may appear more clearly, it must be noted that no motion can be understood without some determination or direction, which indeed cannot be understood unless, besides the moved body, our own body, or some other, is understood to exist at the same time. For up, down, left, right, and all directions and regions are founded on some relation, and necessarily connote and presuppose a body distinct from the moved one. So much so that, if the remaining bodies being reduced to nothing, a single globe, for example, is supposed to exist; in it no motion can be conceived: so necessary is it that another body be given, by whose situation the motion is understood to be determined. The truth of this opinion will shine forth most clearly, provided we have rightly supposed the annihilation of all bodies, both our own and others, except for that single globe.
+Moreover, it escapes pure intellect, since that faculty is concerned only with spiritual and unextended things, such as our minds, and their habits, passions, virtues, and the like. 
 
-59. Let two globes, and nothing else corporeal, be conceived to exist. Let forces then be conceived to be applied in any way whatsoever: whatever we finally understand by the application of forces, the circular motion of the two globes around a common center cannot be conceived by the imagination. Let the heaven of fixed stars then be created: suddenly, from the conceived approach of the globes to different parts of that heaven, motion will be conceived. Namely, since motion by its nature is relative, it could not be conceived before correlated bodies were given. Just as no other relation can be conceived without correlates.
+Therefore, let us remove the words from absolute space, and nothing will remain in sense, imagination, or intellect: therefore, nothing else is designated by them than pure privation or negation, that is, mere nothing.
 
-[pg 523]
-60. As for circular motion, many think that, with increasing true circular motion, a body necessarily tends more and more away from the axis. But this arises from the fact that, since circular motion can be regarded as originating at every moment from two directions, one along the radius, the other along the tangent; if impetus is increased in this last direction only, then the moved body will recede from the center, and the orbit will cease to be circular. But if the forces are equally increased in both directions, the circular motion will remain, but accelerated by an endeavor which will no more argue that the forces of receding from the axis have been increased than those of approaching it. It must therefore be said that water rotated in a bucket ascends to the sides of the vessel because, when new forces are applied in the direction of the tangent to any particle of water, equal new centripetal forces are not applied at the same instant. From which experiment it by no means follows that absolute circular motion is necessarily recognized by the forces of receding from the axis of motion. Moreover, in what way these words, "forces of bodies and endeavors," are to be understood, is sufficiently and more than sufficiently evident from the premises.
 
-61. Just as a curve can be considered as consisting of infinite straight lines, even if it does not really consist of them, but that this hypothesis is useful for geometry, in the same way circular motion can be regarded as originating from infinite rectilinear directions, which supposition is useful in mechanical philosophy. However, it is not therefore to be affirmed that it is impossible for the center of gravity of any body to exist successively in the individual points of a circular periphery, no account being taken of any rectilinear direction, either in the tangent or in the radius.
+54. 
 
-62. It must not be omitted that the motion of a stone in a sling, or of water rotated in a bucket, cannot be called truly circular motion, according to the mind of those who define the true places of bodies by parts of absolute space; since it is wonderfully compounded of motions not only of the bucket or sling, but also of the earth's daily rotation around its own axis, its monthly revolution around the common center of gravity of the earth and moon, and its annual revolution around the sun: and therefore any particle of the stone or water describes a line far removed from a circle. Nor is there really that centrifugal endeavor which is believed to exist, since it does not regard any single axis in relation to absolute space, supposing that such a space exists: therefore I do not see how it can be called [pg 524] a single endeavor to which truly circular motion corresponds as its proper and adequate effect.
+<!-- It must absolutely be confessed that we are held by very serious prejudices concerning this matter, from which, in order to be freed, all the power of the mind must be exerted. For indeed, many are so far from considering absolute space as nothing that they think it to be the one thing (except God) of all that cannot be annihilated: and they establish that it necessarily exists by its own nature, and is eternal and uncreated, and thus participates in divine attributes. But indeed, since it is most certain that all things, which we designate by names, are known by qualities [pg 521] or relations, or at least in some part (for it would be absurd to use words to which nothing known, no notion, idea, or concept would be subjected), let us diligently inquire whether it is permissible to form any idea of that pure, real, absolute space, which would continue to exist after the annihilation of all bodies. Moreover, looking at such an idea a little more keenly, I find it to be the purest idea of nothing, if indeed it is to be called an idea. This I have experienced myself with the greatest diligence applied: this I think others will experience with equal diligence applied. -->
 
-63. No motion can be recognized or measured except by sensible things. Since therefore absolute space in no way impinges upon the senses, it must be utterly useless for the distinction of motions. Besides, determination or direction is essential to motion, but this consists in relation. Therefore it is impossible for absolute motion to be conceived.
 
-64. Furthermore, since for the diversity of relative place the motion of the same body is various, nay, something can be said to move in one respect and to be at rest in another; for determining true motion and true rest, by which ambiguity may be removed and the mechanics of philosophers, who contemplate the system of things more broadly, may be consulted, it will have been sufficient to use the relative space enclosed by the heaven of fixed stars, regarded as at rest, in place of absolute space. But motion and rest defined by such relative space can be conveniently used in place of absolute motion and rest, which cannot be distinguished from them by any symptom. For however forces are impressed, whatever endeavors there may be, let us grant that motion is distinguished by actions exerted on bodies; nevertheless, it will never follow from this that that absolute space and place exist, and that its change is true place.
+55. We are sometimes deceived by the fact that, with all other bodies removed in imagination, we nevertheless suppose our own to remain. 
 
-65. The laws of motions, and their effects, and the theorems containing their proportions and calculations, for different figures of paths, likewise for different accelerations and directions, and for media more or less resisting, all these stand firm without the calculation of absolute motion. As is evident even from the fact that, since according to the principles of those who introduce absolute motion, it is not permissible to know by any symptom whether the entire fabric of things is at rest or moves uniformly in a straight line, it is clear that the absolute motion of no body can be known.
+We then imagine the motion of our limbs most freely from every side.
 
-66. From what has been said, it is clear that for perceiving the true nature of motion it will be exceedingly helpful: 1st, to distinguish between mathematical hypotheses and the natures of things; 2nd, to beware of abstractions; 3rd, to consider motion as something sensible, or at least imaginable; and to be content with relative measures. If we do these things, at the same time all the clearest [pg 525] theorems of mechanical philosophy, by which the recesses of nature are unlocked and the system of the world is subjected to human calculations, will remain unimpaired, and the contemplation of motion will be freed from a thousand minutiae, subtleties, and abstract ideas. And let these remarks about the nature of motion suffice.
+But motion cannot be conceived without space. 
 
-67. It remains for us to discuss the cause of the communication of motions. But most people think that an impressed force in a moving body is the cause of motion in it. However, it is clear from the premises that they do not assign a known cause of motion, distinct from the body and the motion. It is further evident that force is not a certain and determined thing, from the fact that the greatest men put forth very different, indeed contrary, opinions about it, the truth in the consequences nevertheless being preserved. For Newton says that impressed force consists in action alone, and is an action exerted on a body to change its state, and does not remain after the action. Torricelli contends that a certain accumulation or aggregate of impressed forces is received by percussion into a moving body, and remains there and constitutes impetus. Borelli and others say almost the same thing. But truly, although Newton and Torricelli seem to conflict with each other, nevertheless, while each puts forth things consistent with himself, the matter is explained quite conveniently by both. For all forces attributed to bodies are as much mathematical hypotheses as attractive forces in the planets and the sun. But mathematical entities do not have a stable essence in the nature of things: they depend on the notion of the definer; whence the same thing can be explained in different ways.
+But if we are attentive, the following will be evident:
 
-68. Let us establish that new motion is conserved in a struck body, either by an inherent force, by which any body perseveres in its state either of uniform motion or of rest in a straight line; or by an impressed force, received into the struck body during the percussion and remaining there; it will be the same as regards the thing, the difference existing only in names. Similarly, when the striking moving body loses, and [pg 526] the struck body acquires motion, it matters little to dispute whether the acquired motion is numerically the same as the lost motion, for it leads into metaphysical and utterly nominal minutiae about identity. Therefore, whether we say that motion passes from the striker to the struck, or that motion is generated anew in the struck and destroyed in the striker, it comes down to the same thing. In either case, it is understood that one moving body loses motion, the other acquires it, and nothing besides.
+1. Relative space is conceived, defined by the parts of our body
+2. The most free power of moving our limbs, unimpeded by any obstacle; and nothing besides these two.
+3. We falsely believe that some third thing, namely immense space, really exists. We think that this gives us the free power of moving our body: for this only the absence of other bodies is required. Which absence, or privation of bodies, we must confess to be nothing positive.
 
-69. That the mind, which agitates and contains this entire corporeal mass, and is the true efficient cause of motion, is the same, properly and strictly speaking, as the cause of its communication, I would not deny. In physical philosophy, however, it is necessary to seek the causes and solutions of phenomena from mechanical principles. Therefore, a thing is explained physically not by assigning its truly active and incorporeal cause, but by demonstrating its connection with mechanical principles: of which kind is that, "action and reaction are always contrary and equal," from which, as from a source and primary principle, the rules concerning the communication of motions are drawn, which have already been discovered and demonstrated by modern thinkers, to the great benefit of the sciences.
 
-70. It will have sufficed for us if we indicate that that principle could have been declared in another way. For if the true nature of things rather than abstract mathematics is considered, it will seem more correct to say that in attraction or percussion the passion of bodies, rather than the action, is equal on both sides. For example, a stone tied to a horse by a rope is drawn towards the horse as much as the horse towards the stone: also, a moving body impacting another at rest undergoes the same change as the body at rest. And as for the real effect, the striker is likewise struck, and the struck is likewise striking. But that change is on both sides, both in the body of the horse and in the stone, both in the moving and in the resting body, a mere passion. But it is not established that a force, power, or corporeal action is truly and properly the cause of such effects. A moving body impinges on one at rest; yet we speak actively, saying that it impels this one: nor absurdly in mechanics, where mathematical ideas rather than the true natures of things are considered.
+56. 
 
-71. In physics, sense and experience, which reach only to apparent effects, have a place; in mechanics, the abstract notions of mathematicians are admitted. In first philosophy, or metaphysics, incorporeal things, the causes, truth, and existence of things are treated. The physicist contemplates the series or successions of sensible things, by what laws they are connected, and in what order, observing what precedes as cause and what follows as effect. And in this way we say that a moving body is the cause of motion in another, or impresses motion on it, also draws or impels it. In which sense corporeal secondary causes ought to be understood, no account being taken of the true seat of forces, or active powers, or the real cause in which they reside. Furthermore, the primary axioms of mechanical science, beyond body, figure, motion, can be called mechanical causes or principles, regarded as causes of the consequences.
+<!-- But unless someone has examined these things with a free and keen inquiry, words and utterances are of little value. But to one meditating and considering the reasons with himself, unless I am mistaken, it will be manifest that  -->
 
-72. Truly active causes can be drawn from the darkness in which they are enveloped only by meditation and reasoning, and known to some extent. But it pertains to first philosophy, or metaphysics, to treat of them. But if to each science its own province is assigned, its limits defined, and the principles and objects that pertain to each are accurately distinguished, it will be permissible to treat them with greater ease and clarity.
+Whatever is predicated of pure and absolute space, all of it can be predicated of nothing. 
+
+By which reasoning the human mind is most easily freed from great difficulties and at the same time from that absurdity of attributing necessary existence to anything other than the one best and greatest God.
+
+
+57. 
+
+<!-- It would be easy to confirm our opinion with arguments drawn *a posteriori* (as they say), by proposing  -->
+
+This is proven by questions about absolute space.
+
+For example, is it a substance or an accident? It is created or uncreated?
+
+We then demonstrate the absurdities consequent on either side.
+
+<!-- But brevity must be consulted. However, this ought not to be omitted, that  -->
+
+Democritus of old confirmed this opinion by his calculation, as Aristotle is the author in *Physics* I. i, where he has this: "Democritus posits the solid and the void as principles, of which he says the one indeed exists as what is, the other as what is not." 
+
+If perhaps a scruple is raised that this distinction between absolute and relative space is used by philosophers of great name, and many excellent theorems are built upon it as a foundation, it will appear from what follows that this scruple is vain.
+
+
+58. Therefore, it is not fitting for us to define::
+- the true place of a body to be the part of absolute space which the body occupies
+- the true or absolute motion to be the change of true and absolute place. 
+
+Every place is relative, as is every motion.
+
+No motion can be understood without some determination or direction. This direction cannot be understood unless, besides the moved body, our own body, or some other, is understood to exist at the same time.
+
+Up, down, left, right, and all directions and regions are founded on some relation.
+
+These necessarily connote and presuppose a body distinct from the moved one.
+
+If the remaining bodies were reduced to nothing, a single globe, for example, is supposed to exist. 
+- In it no motion can be conceived: so necessary is it that another body be given, by whose situation the motion is understood to be determined. 
+
+The truth of this opinion will shine forth most clearly, provided we have rightly supposed the annihilation of all bodies, both our own and others, except for that single globe.
+
+
+59. Let two globes, and nothing else corporeal, be conceived to exist.
+
+Let forces then be conceived to be applied in any way whatsoever: whatever we finally understand by the application of forces, the circular motion of the two globes around a common center cannot be conceived by the imagination.
+
+Let the heaven of fixed stars then be created.
+
+Suddenly, from the conceived approach of the globes to different parts of that heaven, motion will be conceived.
+
+Namely, since motion by its nature is relative, it could not be conceived before correlated bodies were given. Just as no other relation can be conceived without correlates.
+
+

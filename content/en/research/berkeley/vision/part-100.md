@@ -2,7 +2,7 @@
 title: "New Theory of Vision"
 weight: 7
 description: ""
-:c: "steelblue"
+c: "steelblue"
 ---
 
 
@@ -42,19 +42,47 @@ We do not find there is any necessary connexion betwixt this or that tangible qu
 All which doth make it manifest that no man, at first receiving of his sight, would know there was any agreement between this or that particular object of his sight and any object of touch he had been already acquainted with: the colours, therefore, of the head would to him no more suggest the idea of head than they would the idea of foot.
 
 
-104. Section 63 and 64 have shown there is no discoverable necessary connexion between any given visible magnitude and any one particular tangible magnitude; 
+104. Section 63 and 64 have shown there is no discoverable necessary connexion between any given visible magnitude and any one particular tangible magnitude.
 
-but that it is entirely the result of custom and experience, and depends on foreign and accidental circumstances that we can by the perception of visible extension inform ourselves what may be the extension of any tangible object connected with it. Hence it is certain that neither the visible magnitude of head or foot would bring along with them into the mind, at first opening of the eyes, the respective tangible magnitudes of those parts.
+It is entirely the result of custom and experience. It depends on foreign and accidental circumstances that we can by the perception of visible extension inform ourselves what may be the extension of any tangible object connected with it. 
 
-105. By the foregoing section it is plain the visible figure of any part of the body hath no necessary connexion with the tangible figure thereof, so as at first sight to suggest it to the mind. For figure is the termination of magnitude; whence it follows that no visible magnitude having in its own nature an aptness to suggest any one particular tangible magnitude, so neither can any visible figure be inseparably connected with its corresponding tangible figure: so as of itself and in a way prior to experience, it might suggest it to the understanding. This will be farther evident if we consider that what seems smooth and round to the touch may to sight, if viewed through a microscope, seem quite otherwise.
+Hence neither the visible magnitude of head or foot would bring along with them into the mind, at first opening of the eyes, the respective tangible magnitudes of those parts.
 
-106. From all which laid together and duly considered, we may clearly deduce this inference. In the first act of vision no idea entering by the eye would have a perceivable connexion with the ideas to which the names EARTH, MAN, HEAD, FOOT, etc., were annexed in the understanding of a person blind from his birth; so as in any sort to introduce them into his mind, or make themselves be called by the same names, and reputed the same things with them, as afterwards they come to be.
 
-107. There doth, nevertheless, remain one difficulty, which perhaps may seem to press hard on our opinion, and deserve not to be passed over: for though it be granted that neither the colour, size, nor figure of the visible feet have any necessary connexion with the ideas that compose the tangible feet, so as to bring them at first sight into my mind, or make me in danger of confounding them before I had been used to, and for some time experienced their connexion: yet thus much seems undeniable, namely, that the number of the visible feet being the same with that of the tangible feet, I may from hence without any experience of sight reasonably conclude that they represent or are connected with the feet rather than the head. I say, it seems the idea of two visible feet will sooner suggest to the mind the idea of two tangible feet than of one head; so that the blind man upon first reception of the visive faculty might know which were the feet or two, and which the head or one.
+105. Thus, the visible figure of any part of the body hath no necessary connexion with the tangible figure thereof, so as at first sight to suggest it to the mind.
 
-108. In order to get clear of this seeming difficulty we need only observe that diversity of visible objects doth not necessarily infer diversity of tangible objects corresponding to them. A picture painted with great variety of colours affects the touch in one uniform manner; it is therefore evident that I do not by any necessary consecution, independent of experience, judge of the number of things tangible from the number of things visible. I should not, therefore, at first opening my eyes conclude that because I see two I shall feel two. How, therefore, can I, before experience teaches me, know that the visible legs, because two, are connected with the tangible legs, or the visible head, because one, is connected with the tangible head? The truth is, the things I see are so very different and heterogeneous from the things I feel that the perception of the one would never have suggested the other to my thoughts, or enabled me to pass the least judgment thereon, until I had experienced their connexion.
+For figure is the termination of magnitude; whence it follows that no visible magnitude having in its own nature an aptness to suggest any one particular tangible magnitude, so neither can any visible figure be inseparably connected with its corresponding tangible figure: so as of itself and in a way prior to experience, it might suggest it to the understanding.
 
-109. But for a fuller illustration of this matter it ought to be considered that number (however some may reckon it amongst the primary qualities) is nothing fixed and settled, really existing in things themselves. It is entirely the creature of the mind, considering either an idea by itself, or any combination of ideas to which it gives one name, and so makes it pass for an unit. According as the mind variously combines its ideas the unit varies: and as the unit, so the number, which is only a collection of units, doth also vary. We call a window one, a chimney one, and yet a house in which there are many windows and many chimneys hath an equal right to be called one, and many houses go to the making of the city. In these and the like, instances it is evident the unit constantly relates to the particular draughts the mind makes of its ideas, to which it affixes names, and wherein it includes more or less as best suits its own ends and purposes. Whatever, therefore, the mind considers as one, that is an unit. Every combination of ideas is considered as one thing by the mind, and in token thereof is marked by one name. Now, this naming and combining together of ideas is perfectly arbitrary, and done by the mind in such sort as experience shows it to be most convenient: without which our ideas had never been collected into such sundry distinct combinations as they now are.
+This will be farther evident if we consider that what seems smooth and round to the touch may to sight, if viewed through a microscope, seem quite otherwise.
+
+
+106. From all which laid together and duly considered, we may clearly deduce this inference. 
+
+In the first act of vision no idea entering by the eye would have a perceivable connexion with the ideas to which the names EARTH, MAN, HEAD, FOOT, etc., were annexed in the understanding of a person blind from his birth; so as in any sort to introduce them into his mind, or make themselves be called by the same names, and reputed the same things with them, as afterwards they come to be.
+
+
+107. Neither the colour, size, nor figure of the visible feet have any necessary connexion with the ideas that compose the tangible feet, so as to bring them at first sight into my mind, or make me in danger of confounding them before I had been used to, and for some time experienced their connexion.
+
+Yet thus much seems undeniable, namely, that the number of the visible feet being the same with that of the tangible feet, I may from hence without any experience of sight reasonably conclude that they represent or are connected with the feet rather than the head. 
+
+I say, it seems the idea of two visible feet will sooner suggest to the mind the idea of two tangible feet than of one head; so that the blind man upon first reception of the visive faculty might know which were the feet or two, and which the head or one.
+
+
+108. In order to get clear of this seeming difficulty we need only observe that diversity of visible objects doth not necessarily infer diversity of tangible objects corresponding to them.
+
+A picture painted with great variety of colours affects the touch in one uniform manner; it is therefore evident that I do not by any necessary consecution, independent of experience, judge of the number of things tangible from the number of things visible. I should not, therefore, at first opening my eyes conclude that because I see two I shall feel two. How, therefore, can I, before experience teaches me, know that the visible legs, because two, are connected with the tangible legs, or the visible head, because one, is connected with the tangible head? 
+
+The truth is, the things I see are so very different and heterogeneous from the things I feel that the perception of the one would never have suggested the other to my thoughts, or enabled me to pass the least judgment thereon, until I had experienced their connexion.
+
+
+109. But for a fuller illustration of this matter it ought to be considered that number (however some may reckon it amongst the primary qualities) is nothing fixed and settled, really existing in things themselves. 
+
+It is entirely the creature of the mind, considering either an idea by itself, or any combination of ideas to which it gives one name, and so makes it pass for an unit. According as the mind variously combines its ideas the unit varies: and as the unit, so the number, which is only a collection of units, doth also vary. 
+
+We call a window one, a chimney one, and yet a house in which there are many windows and many chimneys hath an equal right to be called one, and many houses go to the making of the city. In these and the like, instances it is evident the unit constantly relates to the particular draughts the mind makes of its ideas, to which it affixes names, and wherein it includes more or less as best suits its own ends and purposes. 
+
+Whatever, therefore, the mind considers as one, that is an unit. Every combination of ideas is considered as one thing by the mind, and in token thereof is marked by one name. Now, this naming and combining together of ideas is perfectly arbitrary, and done by the mind in such sort as experience shows it to be most convenient: without which our ideas had never been collected into such sundry distinct combinations as they now are.
+
 
 110. Hence it follows that a man born blind and afterwards, when grown up, made to see, would not in the first act of vision parcel out the ideas of sight into the same distinct collections that others do, who have experienced which do regularly coexist and are proper to be bundled up together under one name. He would not, for example, make into one complex idea, and thereby esteem an unit, all those particular ideas which constitute the visible head or foot. For there can be no reason assigned why he should do so, barely upon his seeing a man stand upright before him. There crowd into his mind the ideas which compose the visible man, in company with all the other ideas of sight perceived at the same time: but all these ideas offered at once to his view, he would not distribute into sundry distinct combinations till such time as by observing the motion of the parts of the man and other experiences he comes to know which are to be separated and which to be collected together.
 

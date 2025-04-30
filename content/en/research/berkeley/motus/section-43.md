@@ -1,9 +1,9 @@
 ---
 title: "The Nature of Motion"
 heading: "Part 6"
-weight: 77
+weight: 37
 description: ""
-:c: "steelblue"
+c: "steelblue"
 ---
 
 

@@ -3,7 +3,7 @@ title: "The Nature of Force"
 heading: "Part 2"
 weight: 7
 description: ""
-:c: "steelblue"
+c: "steelblue"
 author: "George Berkeley"
 icon: "George Berkeley"
 ---
@@ -46,7 +46,7 @@ Therefore, since forces are proportional to their effects, then dead force is nu
 Yet it does not follow that the force of impact is infinite—just because it exceeds a null quantity by an infinite ratio does not mean it is infinite in itself.
 
 
-11 The force of gravity cannot be separated from *momentum*.
+11. The force of gravity cannot be separated from *momentum*.
 
 But momentum without velocity is nothing, since it is mass multiplied by velocity.
 
@@ -67,19 +67,19 @@ In short, the terms “dead force” and “gravitation” are assumed by metaph
 But the moved, the motion, and the rest, are in reality nothing at all.
 
 
-12 If someone were to say that a hanging or resting weight acts upon the cord because it prevents the cord from springing back with its elastic force, I would reply that, by the same reasoning, any lower body acts upon an upper one resting on it because it prevents it from descending. 
+12. If someone were to say that a hanging or resting weight acts upon the cord because it prevents the cord from springing back with its elastic force, I would reply that, by the same reasoning, any lower body acts upon an upper one resting on it because it prevents it from descending. 
 
 But we cannot say that the action of a body is to prevent another from occupying the space it already occupies.
 
 
-13 Sometimes we feel the pressure of a heavy body.
+13. Sometimes we feel the pressure of a heavy body.
 
 But this unpleasant sensation arises from the motion of the heavy object transmitted to our body’s nerves and fibers, changing their position; 
 
 Thus, it should be attributed to impact. In these matters, we suffer from many deep-rooted prejudices—but they must be overcome, or rather entirely driven out, by sharp and repeated reflection.
 
 
-14 In order to prove that any quantity is infinite, it must be shown that a finite, homogeneous part is contained in it infinitely many times. 
+14. In order to prove that any quantity is infinite, it must be shown that a finite, homogeneous part is contained in it infinitely many times. 
 
 But dead force is related to impact force not as a part to a whole, but as a point to a line, according to the very authors who assert the infinitude of impact force. Much more could be added here, but I fear becoming too long-winded.
 
