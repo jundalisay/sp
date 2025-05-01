@@ -34,7 +34,12 @@ This is why the speed and angle of the wire relative to the magnet are important
 
 Faraday's ignorance of virtual photons and channels led to Faraday's Paradox, which is resolved by Cartesian channels
 
-Instead of adding channels, Maxwell merely adds divergence and curl to the flux. His ignorance allows the scammer Einstein to offer a false explanation as Special Relativity.  
+You would think that Maxwell would fix it by adding the concept of either [vortices](https://en.wikipedia.org/wiki/Quantum_vortex) or channels, something that is now standard in superconductors. 
+
+Instead, Maxwell merely adds divergence and curl to the flux. His ignorance allows the scammer Einstein to offer a false explanation as Special Relativity.  
+
+
+### The Relativity Scam
 
 Instead of simply combining moving electrons + virtual photons, this Relativity scam unites matter + electromagnetism. It mandates that everything is moving and mass-energy has equivalence
 
@@ -44,5 +49,10 @@ The knowledge of channels not only solves Faraday's Paradox and makes Relativity
 
 Virtual photons are like money floating everywhere. But they can only be grabbed by a special claw.
 
+We know this not only because it is allowed by Cartesian Physics, but because advanced alien races, such as the Essassani already use free energy. 
 
-The EMF increases when the flux decreases and vice versa.
+By pushing for Cartesian Physics, we prove our eligibility to enter the human race into the advanced species club and leave the backward loser species club where the members either destroy themselves or wait to be destroyed (such as the dinosaurs).
+
+This is why we have higher regard for dinosaurs because they lasted for millions of years unlike humans which seem to doom themselves either through a quick nuclear war or a slow global warming. 
+
+<!-- The EMF increases when the flux decreases and vice versa. -->

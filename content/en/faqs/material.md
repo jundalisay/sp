@@ -49,78 +49,99 @@ We allow the metaphysical domain which leads to the aether and a spacetime calle
 
 
 {{< r a="Asker" >}}
-What is the aether? How is it different from the ether of 19th century Physics?
+What's the aether? How is it different from the ether of 19th century Physics?
 {{< /r >}}
 
 
 {{< l a="Material Superphysics" >}}
-The 19th century aether is the luminiferous aether of Huygens which he derived from Descartes. 
+The 19th century aether was the luminiferous aether of Fresnel, which is different from the original aether of Descartes and the ancient Greeks.
 
-If you actually read his book, he is actually talking about the 2nd Element (spacetime) and not the pure aether. So the luminiferous aether naturally leads to Einstein's spacetime through the Michelson-Morley eperiment. 
-
-But the flaw in Einstein is that he made spacetime (2nd Element) subservient to light (1st Element) which is supposed to be the other way around. This is why Physics got stuck after Einstein created his Relativity theory in 1905 -- because physicists didn't know Cartesian Physics and the 5 Elements model. 
+The original pure aether is the substance of ideas and the abstract mind or soul that has those ideas. These then generates reality, as matter and light, in real-time. This was explained by George Berkeley:
 {{< /l >}}
+
+
+{{< q a="George Berkeley" c="The Principles of Human Knowledge, Section 3" >}}
+Things cannot have absolute Existence without any relation to their being perceived. They cannot have any Existence without the Minds which perceive them. I find it strange that people think that Houses, Mountains, and all sensible Objects have a Real Existence, distinct from their being perceived by the Understanding.
+{{< /q >}}
+
+
+{{< r a="Asker" >}}
+So the universe is just inside our minds?
+{{< /r >}}
+
+
+{{< l a="Material Superphysics" >}}
+Yes! More correctly, the universe is a projection of our own minds, based on how it's programmed. 
+
+The physical universe is based on our metaphysical minds, as Descartes' mind-body problem 
+{{< /l >}}
+
 
 {{< youtube U4JFPWoiSAI >}}
 
 
 {{< r a="Asker" >}}
-So Superphysics puts back the 5 Elements in their natural order?
+Oh yeah, that was the Matrix idea in the [Superphysics FAQ](/faq). That strengthens the mind-over-matter way of thinking.
 {{< /r >}}
 
 
 {{< l a="Material Superphysics" >}}
-Yes, crucially, we bring back the aether as the 5th Element to explain all the mysteries that Physics is stuck with. All great Western physicists Newton, Maxwell, Kelvin, Bohr believed in an aether substance as fundamental to their theories. Only Einstein discarded the aether and made it useless by turning it into a philosophical boundary for absolute space.   
+Yes! That's why we say Superphysics can solve all problems since the entire (observable) universe and all its problems are all rooted in the mind that is observing that universe and those problems.
 {{< /l >}}
 
 
 {{< r a="Asker" >}}
-So what is the aether of Descartes?
+How can it solve quantum gravity and dark matter and the cosmology crisis, etc?
 {{< /r >}}
 
+{{< l a="Material Superphysics" >}}
+First of all, anti-gravity, as telekinesis was already documented in ancient and medieval times outside of Europe. For example, levitating monks, weather control, and floating water (as splitting of the Red Sea) have been documented. 
+{{< /l >}}
 
-<!-- We use the **Physics of Rene Descartes** which was replaced by the Physics of Newton. It splits reality into the physical and metaphysical domains, as body-mind dualism. 
 
-Matter is the physical part. The aether is metaphysical part -- it's the substance of ideas, feelings, and the abstract mind that houses those ideas and feelings. This is opposite of Physics which does not study the nature of feelings and ideas.
+{{< q a="Marco Polo" c="The Travels of Marco Polo, Volume 1, Book 1, Chapter 61" >}}
+When the Great Khan is at his great Palace, seated at his table, his cups are set before him in the middle of the hall 10 paces from his table.
 
-The big idea is that the physical universe is a thought-projection of the Supreme Entity. And so everything is Its thoughts, whether physical objects or metaphysical ideas and feelings.  -->
+When he wants to drink, enchanters by the power of their enchantments cause the cups to move from their place without being touched by anybody, and to present themselves to him!
+
+This everyone present may witness. There are often times more than 10,000 persons thus present.
+
+’Tis a truth and no lie! and so will tell you the sages of our own country who understand necromancy, for they also can perform it.
+{{< /q >}}
+
+
 
 
 
 {{< l a="Material Superphysics" >}}
-It's the substance of reality. We define it as the substance of ideas, feelings, and the abstract minds that has those ideas and feelings. 
+So we take their data, mostly from Asia to explain how anti-gravity works. Thankfully, we found that Rene Descartes already explained it through his concepts of the 2nd Element (vayu in Vedic Physics) and animal spirits (chi in Taoist Physics). 
 
-Descartes got it from Aristotle who got it from Timaeus which is the mechanics of the Plato's theory of forms. It says that reality is an idea of the One (Parmenides) which has different modifications or modes. This was later explained in full by Spinoza. This is why we call it Cartesian-Spinozan Physics just as we call the Asian version as Vedic-Buddhist-Taoist Physics. 
+These align and we use them to explain everything from Newtoninan gravity, to black holes, dark mattter and baryonic acoustic oscillations.
 
-Minds and ideas are deployed in the aetherspace because they are all of the same substance.
+These then lead to new technologies such as for levitation, teleportation, nuclear fusion (by levitating the plasma) and free energy among others.
 {{< /l >}}
 
-{{< youtube 6D9LNAgWbRE >}}
+
+{{< youtube 7o5cXV7tDVA >}}
+
 
 
 
 {{< r a="Asker" >}}
-Oh yeah, that was the Matrix idea in the [Superphysics FAQ](/faq). How is the aetherspace different from Minkowski spacetime?
-{{< /r >}}
-
-
-
-{{< l a="Material Superphysics" >}}
-The aetherspace uses **spacetime** for the physical domain, and **timespace** for the metaphysical domain. It splits spacetime into discrete slices which depend on the timespace of the object and the other objects that it is relative to. The gaps between the slices represent the time factor that only moves forward. 
-
-Minkowski spacetime, on the other hand, has a time factor that absurdly can move forwards and backwards. This is a necessary consequence of Einstein using light to measure space. Physicists have no choice because they don't allow metaphysical perceptions. 
-{{< /l >}}
-
-
-{{< r a="Asker" >}}
-So by decreeing that science should only allow evidence that is observable by all, then physicists painted themselves into a corner?
+So Physics is unable to come up with such solutions because it doesn't account for mind?
 {{< /r >}}
 
 
 {{< l a="Material Superphysics" >}}
-Yes. It's sad really. It's why a lot of physicists are making so much effort making theories that are useless. 
+Yes. It's sad really. 
 
-Even the Large Hadron Collider cost a lot of money just to discover the useless Higgs field. 
+To account for the metaphysics of minds, your own mind has to be open minded enough to expand itself to absorb new ideas. 
+
+But the Westerners were dogmatized on one hand by Christianity which viewed the supernatural as evil, and by science which confined humans to  shallow sensory perceptions, denouncing the extrasensory ones as hallucinations or craziness.
+
+But in Asia, such special powers are revered since people know how rare they are or how hard they are to acquire. 
+
+Instead, Physics uses expensive hadron colliders and space telescopes to test gravity and dark matter, without success. 
 {{< /l >}}
 
 
