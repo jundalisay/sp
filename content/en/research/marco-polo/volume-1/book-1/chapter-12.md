@@ -1,15 +1,24 @@
+---
+heading: "Chapter 12"
+title: "The City of Cobinan"
+description: Mao was a Communist Chinese Leader
+a: "Marco Polo"
+c: "darkslategray"
+weight: 4
+# date: 2022-03-10
+---
 
 
 
-CHAPTER 12. The City of Cobinan and the things that are made there.
+Cobinan is a large town. Its people worship Mahommet.
 
-Cobinan is a large town.{1} The people worship Mahommet. There is much Iron and Steel and Ondanique, and they make steel mirrors of great size and beauty. They also prepare both Tutia (a thing very good for the eyes) and Spodium; and I will tell you the process.
+There is much Iron and Steel and Ondanique, and they make steel mirrors of great size and beauty. They also prepare both Tutia (a thing very good for the eyes) and Spodium; and I will tell you the process.
 
 They have a vein of a certain earth which has the required quality, and this they put into a great flaming furnace, whilst over the furnace there is an iron grating. The smoke and moisture, expelled from the earth of which I speak, adhere to the iron grating, and thus form Tutia, whilst the slag that is left after burning is the Spodium.{2}
 
 
 
-CHAPTER 22. A certain Desert that continues for eight days’ Journey.
+## CHAPTER 22. A certain Desert that continues for eight days’ Journey.
 
 When you depart from this City of Cobinan, you find yourself again in a Desert of surpassing aridity, which lasts for some eight days; here are neither fruits nor trees to be seen, and what water there is is bitter and bad, so that you have to carry both food and water. The cattle must needs drink the bad water, will they nill they, because of their great thirst. At the end of those eight days you arrive at a Province which is called Tonocain. 
 
@@ -19,7 +28,7 @@ The towns and villages have great abundance of everything good, for the climate 
 
 
 
-CHAPTER 23. The Old Man of the Mountain.
+## CHAPTER 23. The Old Man of the Mountain
 
 Mulehet is a country in which the Old Man of the Mountain dwelt in former days; and the name means “Place of the Aram.” I will tell you his whole history as related by Messer Marco Polo, who heard it from several natives of that region.
 
@@ -31,7 +40,7 @@ Now no man was allowed to enter the Garden save those whom he intended to be his
 
 
 
-CHAPTER 24. How the Old Man Used to Train His Assassins.
+## CHAPTER 24. How the Old Man Used to Train His Assassins.
 
 When therefore they awoke, and found themselves in a place so charming, they deemed that it was Paradise in very truth. And the ladies and damsels dallied with them to their hearts’ content, so that they had what young men would have; and with their own good will they never would have quitted the place.
 
@@ -43,13 +52,13 @@ I should also tell you that the Old Man had certain others under him, who copied
 
 
 
-CHAPTER 25. How the Old Man came by His End.
+## CHAPTER 25. How the Old Man came by His End.
 
 Now it came to pass, in the year of Christ’s Incarnation, 1252, that Alaü, Lord of the Tartars of the Levant, heard tell of these great crimes of the Old Man, and resolved to make an end of him. So he took and sent one of his Barons with a great Army to that Castle, and they besieged it for three years, but they could not take it, so strong was it. And indeed if they had had food within it never would have been taken. But after being besieged those three years they ran short of victual, and were taken. The Old Man was put to death with all his men [and the Castle with its Garden of Paradise was 146levelled with the ground]. And since that time he has had no successor; and there was an end to all his villainies.{1}
 
 
 
-CHAPTER XXVI. The City of Sapurgan.
+## CHAPTER 26. The City of Sapurgan.
 
 On leaving the Castle, you ride over fine plains and beautiful valleys, and pretty hill-sides producing excellent grass pasture, and abundance of fruits, and all other products. Armies are glad to take up their quarters here on account of the plenty that exists. This kind of country extends for six days’ journey, with a goodly number of towns and villages, in which the people are worshippers of Mahommet. Sometimes also you meet with a tract of desert extending for 50 or 60 miles, or somewhat less, and in these deserts you find no water, but have to carry it along with you. The beasts do without drink until you have got across the desert tract and come to watering places.
 
@@ -57,7 +66,7 @@ So after travelling for six days as I have told you, you come to a city called S
 
 
 
-CHAPTER 27. The City of Balc.
+## CHAPTER 27. The City of Balc.
 
 Balc is a noble city and a great, though it was much greater in former days. But the Tartars and other nations have greatly ravaged and destroyed it. There were formerly many fine palaces and buildings of marble, and the ruins of them still remain. The people of the city tell that it was here that Alexander took to wife the daughter of Darius.
 
@@ -68,8 +77,7 @@ Now, let us quit this city, and I will tell you of another country called Dogana
 When you have quitted the city of which I have been speaking, you ride some 12 days between north-east and east, without finding any human habitation, for the people have all taken refuge in fastnesses among the mountains, on account of the Banditti and armies that harassed them. There is plenty of water on the road, and abundance of game; there are lions too. You can get no provisions on the road, and must carry with you all that you require for these 12 days.{3}
 
 
-
-CHAPTER 28. Taican, and the Mountains of Salt. Also of the Province of Casem.
+## CHAPTER 28. Taican, and the Mountains of Salt. Also of the Province of Casem.
 
 After those twelve days’ journey you come to a fortified place called Taican, where there is a great corn market.{1} It is a fine place, and the mountains that you see towards the south are all composed of salt. People from all the countries round, to some thirty days’ journey, come to fetch this salt, which is the best in the world, and is so hard that it can only be broken with iron picks. ’Tis in such abundance that it would supply the whole world to the end of time. [Other mountains there grow almonds and pistachioes, which are exceedingly cheap.]{2}
 
@@ -80,6 +88,3 @@ When you have ridden those three days, you find a town called Casem,{4} which is
 This town of Casem is at the head of a very great province, which is also called Casem. The people have a peculiar language. The peasants who keep cattle abide in the mountains, and have their dwellings in caves, which form fine and spacious houses for them, and are made with ease, as the hills are composed of earth.{6}
 
 After leaving the town of Casem, you ride for three days without finding a single habitation, or anything to eat or drink, so that you have to carry with you everything that you require. At the end of those three days you reach a province called Badashan, about which we shall now tell you.{7}
-
-
-

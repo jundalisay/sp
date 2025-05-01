@@ -1,6 +1,14 @@
+---
+heading: "Chapter 32"
+title: "The Charity of the Emperor to the Poor"
+description: ""
+a: "Marco Polo"
+c: "darkslategray"
+weight: 4
+# date: 2022-05-01
+---
 
 
-CHAPTER 32. The Charity of the Emperor to the Poor.
 
 I have told you how the Great Kaan provides for the distribution of necessaries to his people in time of dearth, by making store in time of cheapness. 
 

@@ -1,11 +1,11 @@
 ---
 heading: "Chapter 1"
 title: "Lesser Hermenia"
-description: Mao was a Communist Chinese Leader
+description: There are two Hermenias, the Greater and the Less.
 a: "Marco Polo"
 c: "darkslategray"
 weight: 4
-# date: 2022-03-10
+# date: 2025-05-01
 ---
 
 

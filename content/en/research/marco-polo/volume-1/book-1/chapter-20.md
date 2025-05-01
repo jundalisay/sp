@@ -1,15 +1,26 @@
+---
+heading: "Chapter 29"
+title: "The Province of Badashan"
+description: There are two Hermenias, the Greater and the Less.
+a: "Marco Polo"
+c: "darkslategray"
+weight: 4
+# date: 2025-05-01
+---
 
 
 
-CHAPTER 29. The Province of Badashan.
+Badashan is a Province inhabited by people who worship Mahommet, and have a peculiar language. It forms a very great kingdom, and the royalty is hereditary. 
 
-Badashan is a Province inhabited by people who worship Mahommet, and have a peculiar language. It forms a very great kingdom, and the royalty is hereditary. All those of the royal blood are descended from King Alexander and the daughter of King Darius, who was Lord of the vast Empire of Persia. And all these kings call themselves in the Saracen tongue Zulcarniain, which is as much as to say Alexander; and this out of regard for Alexander the Great.{1}
+All those of the royal blood are descended from King Alexander and the daughter of King Darius, who was Lord of the vast Empire of Persia. And all these kings call themselves in the Saracen tongue Zulcarniain, which is as much as to say Alexander; and this out of regard for Alexander the Great.
 
 It is in this province that those fine and valuable gems the Balas Rubies are found. They are got in certain rocks among the mountains, and in the search for them the people dig great caves underground, just as is done by miners for silver. There is but one special mountain that produces them, and it is called Syghinan. The stones are dug on the king’s account, and no one else dares dig in that mountain on pain of forfeiture of life as well as goods; nor may any one carry the stones out of the kingdom. But the king amasses them all, and sends them to other kings when he has tribute to render, or when he desires to offer a friendly present; and such only as he pleases he causes to be sold. Thus he acts in order to keep the Balas at a high value; for if he were to allow everybody to dig, they would extract so many that the world would be glutted with them, and they would cease to bear any value. Hence it is that he allows so few to be taken out, and is so strict in the matter.{2}
 
-There is also in the same country another mountain, in which azure is found; ’tis the finest in the world, and is got in a vein like silver. There are also other 158mountains which contain a great amount of silver ore, so that the country is a very rich one; but it is also (it must be said) a very cold one.{3} It produces numbers of excellent horses, remarkable for their speed. They are not shod at all, although constantly used in mountainous country, and on very bad roads. [They go at a great pace even down steep descents, where other horses neither would nor could do the like. And Messer Marco was told that not long ago they possessed in that province a breed of horses from the strain of Alexander’s horse Bucephalus, all of which had from their birth a particular mark on the forehead. This breed was entirely in the hands of an uncle of the king’s; and in consequence of his refusing to let the king have any of them, the latter put him to death. The widow then, in despite, destroyed the whole breed, and it is now extinct.{4}]
+There is also in the same country another mountain, in which azure is found; ’tis the finest in the world, and is got in a vein like silver. There are also other 158mountains which contain a great amount of silver ore, so that the country is a very rich one; but it is also (it must be said) a very cold one.
 
-The mountains of this country also supply Saker falcons of excellent flight, and plenty of Lanners likewise. Beasts and birds for the chase there are in great abundance. Good wheat is grown, and also barley without husk. They have no olive oil, but make oil from sesamé, and also from walnuts.{5}
+It produces numbers of excellent horses, remarkable for their speed. They are not shod at all, although constantly used in mountainous country, and on very bad roads. [They go at a great pace even down steep descents, where other horses neither would nor could do the like. And Messer Marco was told that not long ago they possessed in that province a breed of horses from the strain of Alexander’s horse Bucephalus, all of which had from their birth a particular mark on the forehead. This breed was entirely in the hands of an uncle of the king’s; and in consequence of his refusing to let the king have any of them, the latter put him to death. The widow then, in despite, destroyed the whole breed, and it is now extinct.{
+
+The mountains of this country also supply Saker falcons of excellent flight, and plenty of Lanners likewise. Beasts and birds for the chase there are in great abundance. Good wheat is grown, and also barley without husk. They have no olive oil, but make oil from sesamé, and also from walnuts.
 
 [In the mountains there are vast numbers of sheep—400, 500, or 600 in a single flock, and all of them wild; and though many of them are taken, they never seem to get aught the scarcer.{6}
 
@@ -20,7 +31,7 @@ In this kingdom there are many strait and perilous passes, so difficult to force
 
 
 
-CHAPTER 30. The Province of Pashai
+## CHAPTER 30. The Province of Pashai
 
 You must know that ten days’ journey to the south of Badashan there is a Province called Pashai, the people of which have a peculiar language, and are Idolaters, of a brown complexion. They are great adepts in sorceries and the diabolic arts. The men wear earrings and brooches of gold and silver set with stones and pearls. They are a pestilent people and a crafty; and they live upon flesh and rice. Their country is very hot.{1}
 
@@ -28,8 +39,7 @@ Now let us proceed and speak of another country which is seven days’ journey f
 
 
 
-
-CHAPTER 31. The Province of Keshimur.
+## CHAPTER 31. The Province of Keshimur.
 
 Keshimur also is a Province inhabited by a people who are Idolaters and have a language of their own.{1} They have an astonishing acquaintance with the devilries of enchantment; insomuch that they make their idols to speak. They can also by their sorceries bring on changes of weather and produce darkness, and do a number of things so extraordinary that no one without seeing them would believe them.{2} Indeed, this country is the very original source from which Idolatry has spread abroad.{3}
 
@@ -46,24 +56,29 @@ Now we will quit this country, and not go any further in the same direction; for
 
 
 
-CHAPTER 32. The Great River of Badashan.
+## CHAPTER 32. The Great River of Badashan.
 
 In leaving Badashan you ride twelve days between east and north-east, ascending a river that runs through land belonging to a brother of the Prince of Badashan, and containing a good many towns and villages and scattered habitations. The people are Mahommetans, and valiant in war. At the end of those twelve days you come to a province of no great size, extending indeed no more 171than three days’ journey in any direction, and this is called Vokhan. The people worship Mahommet, and they have a peculiar language. They are gallant soldiers, and they have a chief whom they call None, which is as much as to say Count, and they are liegemen to the Prince of Badashan.{1}
 
-There are numbers of wild beasts of all sorts in this region. And when you leave this little country, and ride three days north-east, always among mountains, you get to such a height that ’tis said to be the highest place in the world! And when you have got to this height you find [a great lake between two mountains, and out of it] a fine river running through a plain clothed with the finest pasture in the world; insomuch that a lean beast there will fatten to your heart’s content in ten days. There are great numbers of all kinds of wild beasts; among others, wild sheep of great size, whose horns are good six palms in length. From these horns the shepherds make great bowls to eat from, and they use the horns also to enclose folds for their cattle at night. [Messer Marco was told also that the wolves were numerous, and killed many of those wild sheep. Hence quantities of their horns and bones were found, and these were made into great heaps by the way-side, in order to guide travellers when snow was on the ground.]
+There are numbers of wild beasts of all sorts in this region. And when you leave this little country, and ride three days north-east, always among mountains, you get to such a height that ’tis said to be the highest place in the world! And when you have got to this height you find [a great lake between two mountains, and out of it] a fine river running through a plain clothed with the finest pasture in the world; insomuch that a lean beast there will fatten to your heart’s content in ten days. There are great numbers of all kinds of wild beasts; among others, wild sheep of great size, whose horns are good six palms in length.
+
+From these horns the shepherds make great bowls to eat from, and they use the horns also to enclose folds for their cattle at night. [Messer Marco was told also that the wolves were numerous, and killed many of those wild sheep. Hence quantities of their horns and bones were found, and these were made into great heaps by the way-side, in order to guide travellers when snow was on the ground.]
 
 The plain is called Pamier, and you ride across it for twelve days together, finding nothing but a desert without habitations or any green thing, so that travellers are obliged to carry with them whatever they have need of. The region is so lofty and cold that you do not even see any birds flying. And I must notice also that because of this great cold, fire does not burn so brightly, nor give out so much heat as usual, nor does it cook food so effectually.{2}
 
 Now, if we go on with our journey towards the east-north-east, 172we travel a good forty days, continually passing over mountains and hills, or through valleys, and crossing many rivers and tracts of wilderness. And in all this way you find neither habitation of man, nor any green thing, but must carry with you whatever you require. The country is called Bolor. The people dwell high up in the mountains, and are savage Idolaters, living only by the chase, and clothing themselves in the skins of beasts. They are in truth an evil race.{3}
 
 
-CHAPTER XXXIII. The Kingdom of Cascar. 
 
-Cascar is a region lying between north-east and east, and constituted a kingdom in former days, but now it is subject to the Great Kaan. The people worship Mahommet. There are a good number of towns and 181villages, but the greatest and finest is Cascar itself. The inhabitants live by trade and handicrafts; they have beautiful gardens and vineyards, and fine estates, and grow a great deal of cotton. From this country many 182merchants go forth about the world on trading journeys. The natives are a wretched, niggardly set of people; they eat and drink in miserable fashion. There are in the country many Nestorian Christians, who have churches of their own. The people of the country have a peculiar language, and the territory extends for five days’ journey.{1}
+## CHAPTER 33. The Kingdom of Cascar. 
+
+Cascar is a region lying between north-east and east, and constituted a kingdom in former days, but now it is subject to the Great Kaan. The people worship Mahommet.
+
+There are a good number of towns and 181villages, but the greatest and finest is Cascar itself. The inhabitants live by trade and handicrafts; they have beautiful gardens and vineyards, and fine estates, and grow a great deal of cotton. From this country many 182merchants go forth about the world on trading journeys. The natives are a wretched, niggardly set of people; they eat and drink in miserable fashion. There are in the country many Nestorian Christians, who have churches of their own. The people of the country have a peculiar language, and the territory extends for five days’ journey.{1}
 
 
 
-CHAPTER XXXIV. The Great City of Samarcan.
+## CHAPTER 34. The Great City of Samarcan.
 
 Samarcan is a great and noble city towards the north-west, inhabited by both Christians and Saracens, who are subject to the Great Kaan’s nephew, Caidou by name; he is, however, at bitter enmity with the Kaan.{1} I will tell you of a great marvel that happened at this city.
 View of Samarcand. (From a sketch by Mr. Ivanoff.)

@@ -1,17 +1,17 @@
+---
+heading: "Chapter 35"
+title: "The Interior of Cathay, and the River Pulisanghin."
+description: ""
+a: "Marco Polo"
+c: "darkslategray"
+weight: 4
+# date: 2022-05-01
+---
 
-The Book of Marco Polo 	
- 
 
-THE
-BOOK OF MARCO POLO
+The Emperor sent Marco Polo on business of his into the Western Provinces.
 
-BOOK II.—CONTINUED.
-
-Part II.—JOURNEY TO THE WEST AND SOUTH-WEST OF CATHAY.
-
-CHAPTER 35. Here begins the Description of the Interior of Cathay, and first of the River Pulisanghin.
-
-Now you must know that the Emperor sent the aforesaid Messer Marco Polo, who is the author of this whole story, on business of his into the Western Provinces. On that occasion he travelled from Cambaluc a good four months’ journey towards the west.{1} And so now I will tell you all that he saw on his travels as he went and returned.
+On that occasion he travelled from Cambaluc a good four months’ journey towards the west.{1} And so now I will tell you all that he saw on his travels as he went and returned.
 
 When you leave the City of Cambaluc and have ridden ten miles, you come to a very large river which is called Pulisanghin, and flows into the ocean, so that merchants with their merchandise ascend it from the sea. Over this River there is a very fine stone bridge, so fine indeed, that it has very few equals. The fashion of it is this: it is 300 paces in length, and it must have a good eight paces of width, for ten mounted men can ride across it abreast. It has 24 arches and 4as many water-mills, and ’tis all of very fine marble, well built and firmly founded. Along the top of the bridge there is on either side a parapet of marble slabs and columns, made in this way. At the beginning of the bridge there is a marble column, and under it a marble lion, so that the column stands upon the lion’s loins, whilst on the top of the column there is a second marble lion, both being of great size and beautifully executed sculpture. At the distance of a pace from this column there is another precisely the same, also with its two lions, and the space between them is closed with slabs of grey marble to prevent people from falling over into the water. And thus the columns run from space to space along either side of the bridge, so that altogether it is a beautiful object.{2}
 The Bridge of Pulisanghin. (Reduced from a Chinese original.)

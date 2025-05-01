@@ -1,3 +1,15 @@
+---
+heading: "Book 1"
+title: "The Khan, His Court and Capital"
+description: ""
+a: "Marco Polo"
+c: "darkslategray"
+weight: 4
+# date: 2022-05-01
+---
+
+
+
 CHAPTER XXV. The 12 Barons who are set over all the Affairs of the Great Kaan.
 
 You must know that the Great Kaan hath chosen twelve great Barons to whom he hath committed all the necessary affairs of thirty-four great provinces; and 431now I will tell you particulars about them and their establishments.

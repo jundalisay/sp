@@ -1,4 +1,28 @@
-CHAPTER 52. The Customs of the Tartars.
+---
+heading: "Chapter 51"
+title: "Those who did Reign after Chinghis Kaan, and of the Customs of the Tartars"
+description: Mao was a Communist Chinese Leader
+a: "Marco Polo"
+c: "darkslategray"
+weight: 4
+# date: 2025-05-05
+---
+
+
+Cuy Khan reigned after Chinghis Kaan. The third Prince was Batu Kaan. The fourth was Alacou Kaan. The fifth Mongou Kaan, the sixth Cublay Kaan, who is the sovereign now reigning, and is more potent than any of the 5 who went before him.
+
+In fact, if you were to take all those five together, they would not be so powerful as he is.{2} 
+
+If you were to put together all the Christians in the world, with their Emperors and their Kings, the whole of these Christians,—aye, and throw in the Saracens to boot,—would not have such power, or be able to do so much as this Cublay, who is the Lord of all the Tartars in the world, those of the Levant and of the Ponent included; for these are all his liegemen and subjects. I mean to show you all about this great power of his in this book of ours.
+
+All the Grand Kaans, and all the descendants of Chinghis their first Lord, are carried to a mountain that is called Altay to be interred. 
+
+Wheresoever the Sovereign may die, he is carried to his burial in that mountain with his predecessors; no matter an the place of his death were 100 days’ journey distant, thither must he be carried to his burial.{3}
+
+Let me tell you a strange thing too. When they are carrying the body of any Emperor to be buried with the others, the convoy that goes with the body doth put to the sword all whom they fall in with on the road, saying: “Go and wait upon your Lord in the other world!” For they do in sooth believe that all such as they slay in this manner do go to serve their Lord in the other world. They do the same too with horses; for when the Emperor dies, they kill all his best horses, in order that he may have the use of them in the other world, as they believe. And I tell you as a certain truth, that when Mongou Kaan died, more than 20,000 persons, who chanced to meet the body on its way, were slain in the manner I have told.{4}
+
+
+## CHAPTER 52. The Customs of the Tartars.
 
 Now that we have begun to speak of the Tartars, I have plenty to tell you on that subject. The Tartar custom is to spend the winter in warm plains, where they find good pasture for their cattle, whilst in summer they betake themselves to a cool climate among the 252mountains and valleys, where water is to be found as well as woods and pastures.
 
@@ -11,65 +35,61 @@ They are very careful not to meddle with each other’s wives, and will not do s
 The marriage customs of Tartars are as follows. Any man may take a hundred wives an he so please, and if he be able to keep them. But the first wife is ever held most in honour, and as the most legitimate [and the same applies to the sons whom she may bear]. 253The husband gives a marriage payment to his wife’s mother, and the wife brings nothing to her husband. They have more children than other people, because they have so many wives. They may marry their cousins, and if a father dies, his son may take any of the wives, his own mother always excepted; that is to say the eldest son may do this, but no other. A man may also take the wife of his own brother after the latter’s death. Their weddings are celebrated with great ado.{5}
 
 
-CHAPTER 53. The God of the Tartars.
+## CHAPTER 53. The God of the Tartars
 
-This is the fashion of their religion. [They say there is a Most High God of Heaven, whom they worship daily with thurible and incense, but they pray to Him 257only for health of mind and body. But] they have [also] a certain [other] god of theirs called Natigay, and they say he is the god of the Earth, who watches over their children, cattle, and crops. They show him great worship and honour, and every man hath a figure of him in his house, made of felt and cloth; and they also make in the same manner images of his wife and children. The wife they put on the left hand, and the children in front. And when they eat, they take the fat of the meat and grease the god’s mouth withal, as well as the mouths of his wife and children. Then they take of the broth and sprinkle it before the door of the house; and that done, they deem that their god and his family have had their share of the dinner.{1}
+They say there is a Most High God of Heaven, whom they worship daily with thurible and incense
+
+But they pray to Him only for health of mind and body. But they have also a certain other god called Natigay who is the god of the Earth, who watches over their children, cattle, and crops. 
+
+They show him great worship and honour, and every man hath a figure of him in his house, made of felt and cloth.
+
+They also make in the same manner images of his wife and children. The wife they put on the left hand, and the children in front. 
+
+When they eat, they take the fat of the meat and grease the god’s mouth withal, as well as the mouths of his wife and children. Then they take of the broth and sprinkle it before the door of the house; and that done, they deem that their god and his family have had their share of the dinner.
 
 Their drink is mare’s milk, prepared in such a way that you would take it for white wine; and a right good drink it is, called by them Kemiz.{2}
 
 The clothes of the wealthy Tartars are for the most part of gold and silk stuffs, lined with costly furs, such as sable and ermine, vair and fox-skin, in the richest fashion.
 
 
+## CHAPTER 54. The Tartar Customs of War
 
-CHAPTER LIV. The Tartar Customs of War.
+All their harness of war is excellent and costly. Their arms are bows and arrows, sword and mace; but above all the bow, for they are capital archers, indeed the best that are known. On their backs they wear armour of cuirbouly, prepared from buffalo and other hides, which is very strong.{1} They are excellent soldiers, and passing valiant in battle. 
 
-All their harness of war is excellent and costly. Their arms are bows and arrows, sword and mace; but above all the bow, for they are capital archers, indeed the best that are known. On their backs they wear armour of cuirbouly, prepared from buffalo and other hides, which is very strong.{1} They are excellent soldiers, and passing valiant in battle. They are also more capable of hardships than other nations; for many a time, if need be, they will go for a month without any supply of food, living only on the milk of their mares and on such game as their bows may win them. Their horses also will subsist entirely on the grass of the plains, so that there is no need to carry store of barley or straw or oats; and they are very docile to their riders. These, in case of need, will abide on horseback the livelong night, armed at all points, while the horse will be continually grazing.
+They are also more capable of hardships than other nations; for many a time, if need be, they will go for a month without any supply of food, living only on the milk of their mares and on such game as their bows may win them. 
 
-Of all troops in the world these are they which endure the greatest hardship and fatigue, and which cost 261the least; and they are the best of all for making wide conquests of country. And this you will perceive from what you have heard and shall hear in this book; and (as a fact) there can be no manner of doubt that now they are the masters of the biggest half of the world. Their troops are admirably ordered in the manner that I shall now relate.
+Their horses also will subsist entirely on the grass of the plains, so that there is no need to carry store of barley or straw or oats; and they are very docile to their riders. These, in case of need, will abide on horseback the livelong night, armed at all points, while the horse will be continually grazing.
 
-You see, when a Tartar prince goes forth to war, he takes with him, say, 100,000 horse. Well, he appoints an officer to every ten men, one to every hundred, one to every thousand, and one to every ten thousand, so that his own orders have to be given to ten persons only, and each of these ten persons has to pass the orders only to other ten, and so on; no one having to give orders to more than ten. And every one in turn is responsible only to the officer immediately over him; and the discipline and order that comes of this method is marvellous, for they are a people very obedient to their chiefs. Further, they call the corps of 100,000 men a Tuc; that of 10,000 they call a Toman; the thousand they call ...; the hundred Guz; the ten ....{2} And when the army is on the march they have always 200 horsemen, very well mounted, who are sent a distance of two marches in advance to reconnoitre, and these always keep ahead. They have a similar party detached in the rear, and on either flank, so that there is a good look-out kept on all sides against a surprise. When they are going on a distant expedition they take no gear with them except two leather bottles for milk; a little earthenware pot to cook their meat in, and a little tent to shelter them from rain.{3} And in case of great urgency they will ride ten days on end without lighting a fire or taking a meal. On such an occasion they will sustain themselves on the blood of their horses, opening a vein and letting the blood jet into their mouths, 262drinking till they have had enough, and then staunching it.{4}
+Of all troops in the world these are they which endure the greatest hardship and fatigue, and which cost 261the least; and they are the best of all for making wide conquests of country.
 
-They also have milk dried into a kind of paste to carry with them; and when they need food they put this in water, and beat it up till it dissolves, and then drink it. [It is prepared in this way; they boil the milk, and when the rich part floats on the top they skim it into another vessel, and of that they make butter; for the milk will not become solid till this is removed. Then they put the milk in the sun to dry. And when they go on an expedition, every man takes some ten pounds of this dried milk with him. And of a morning he will take a half pound of it and put it in his leather bottle, with as much water as he pleases. So, as he rides along, the milk-paste and the water in the bottle get well churned together into a kind of pap, and that makes his dinner.{5}]
+This you will perceive from what you have heard and shall hear in this book; and (as a fact) there can be no manner of doubt that now they are the masters of the biggest half of the world. Their troops are admirably ordered in the manner that I shall now relate.
+
+When a Tartar prince goes forth to war, he takes with him 100,000 horse.
+
+He appoints an officer to every 10 men, one to every 100, one to 1,000, and 1 to every 10,000.
+
+So his own orders have to be given to 10 persons only. Each of these 10 persons has to pass the orders only to other ten, and so on; 
+
+No one having to give orders to more than ten.
+
+Every one in turn is responsible only to the officer immediately over him; and the discipline and order that comes of this method is marvellous, for they are a people very obedient to their chiefs.
+
+They call the corps of 100,000 men a Tuc; that of 10,000 they call a Toman; the thousand they call ...; the hundred Guz; the ten ....{2} 
+
+When the army is on the march they have always 200 horsemen, very well mounted, who are sent a distance of two marches in advance to reconnoitre, and these always keep ahead. 
+
+They have a similar party detached in the rear, and on either flank, so that there is a good look-out kept on all sides against a surprise. When they are going on a distant expedition they take no gear with them except two leather bottles for milk; a little earthenware pot to cook their meat in, and a little tent to shelter them from rain.{3} And in case of great urgency they will ride ten days on end without lighting a fire or taking a meal.
+
+On such an occasion they will sustain themselves on the blood of their horses, opening a vein and letting the blood jet into their mouths, drinking till they have had enough, and then staunching it.{4}
+
+They also have milk dried into a kind of paste to carry with them; and when they need food they put this in water, and beat it up till it dissolves, and then drink it.
+
+[It is prepared in this way; they boil the milk, and when the rich part floats on the top they skim it into another vessel, and of that they make butter; for the milk will not become solid till this is removed. Then they put the milk in the sun to dry. And when they go on an expedition, every man takes some ten pounds of this dried milk with him.
+
+And of a morning he will take a half pound of it and put it in his leather bottle, with as much water as he pleases. So, as he rides along, the milk-paste and the water in the bottle get well churned together into a kind of pap, and that makes his dinner.{5}]
 
 When they come to an engagement with the enemy, they will gain the victory in this fashion. [They never let themselves get into a regular medley, but keep perpetually riding round and shooting into the enemy. And] as they do not count it any shame to run away in battle, they will [sometimes pretend to] do so, and in running away they turn in the saddle and shoot hard and strong at the foe, and in this way make great havoc. Their horses are trained so perfectly that they will double hither and thither, just like a dog, in a way that is quite astonishing. Thus they fight to as good purpose in running away as if they stood and faced the enemy, because of the vast volleys of arrows that they shoot in this way, turning round upon their pursuers, who are fancying that they have won the battle. But when the Tartars see that they have killed and wounded a good many horses and men, they wheel round bodily, and return to the charge in perfect order and with loud cries; 263and in a very short time the enemy are routed. In truth they are stout and valiant soldiers, and inured to war. And you perceive that it is just when the enemy sees them run, and imagines that he has gained the battle, that he has in reality lost it; for the Tartars wheel round in a moment when they judge the right time has come. And after this fashion they have won many a fight.{6}
 
 All this that I have been telling you is true of the manners and customs of the genuine Tartars. But I must add also that in these days they are greatly degenerated; for those who are settled in Cathay have taken up the practices of the Idolaters of the country, and have abandoned their own institutions; whilst those who have settled in the Levant have adopted the customs of the Saracens.{7}
-
-
-CHAPTER LV.
-Concerning the administering of Justice among the Tartars.
-
-The way they administer justice is this. When any one has committed a petty theft, they give him, under the orders of authority, seven blows of a stick, or seventeen, or twenty-seven, or thirty-seven, or forty-seven, and so forth, always increasing by tens in proportion to the injury done, and running up to one hundred and seven. Of these beatings sometimes they die.{1} But if the offence be horse-stealing, or some other great matter, they cut the thief in two with a sword. Howbeit, if he be able to ransom himself by paying nine times the value of the thing stolen, he is let off. Every Lord or other person who possesses beasts has them marked with his peculiar brand, be they horses, mares, camels, oxen, cows, or other great cattle, and then they are sent abroad to graze over the plains 267without any keeper. They get all mixt together, but eventually every beast is recovered by means of its owner’s brand, which is known. For their sheep and goats they have shepherds. All their cattle are remarkably fine, big, and in good condition.{2}
-
-They have another notable custom, which is this. If any man have a daughter who dies before marriage, and another man have had a son also die before marriage, the parents of the two arrange a grand wedding between the dead lad and lass. And marry them they do, making a regular contract! And when the contract papers are made out they put them in the fire, in order (as they will have it) that the parties in the other world may know the fact, and so look on each other as man and wife. And the parents thenceforward consider themselves sib to each other, just as if their children had lived and married. Whatever may be agreed on between the parties as dowry, those who have to pay it cause to be painted on pieces of paper and then put these in the fire, saying that in that way the dead person will get all the real articles in the other world.{3}
-
-
-
-CHAPTER LVI. Sundry Particulars of the Plain beyond Caracoron.
-
-And when you leave Caracoron and the Altay, in which they bury the bodies of the Tartar Sovereigns, as I told you, you go north for forty days till you reach a country called the Plain of Bargu.{1} The people there are called Mescript; they are a very wild race, and live by their cattle, the most of which are stags, and these stags, I assure you, they used to ride upon. Their customs are like those of the Tartars, and they are subject to the Great Kaan. They have neither corn nor wine. [They get birds for food, for the country is full of lakes and pools and marshes, which are much frequented by the birds when they are moulting, and when they have quite cast their feathers and can’t fly, those people catch them. They also live partly on fish.{2}]
-
-And when you have travelled forty days over this great plain you come to the ocean, at the place where the mountains are in which the Peregrine falcons have their nests. And in those mountains it is so cold that you find neither man or woman, nor beast nor bird, except one kind of bird called Barguerlac, on which the falcons feed. They are as big as partridges, and have feet like those of parrots and a tail like a swallow’s, 270and are very strong in flight. And when the Grand Kaan wants Peregrines from the nest, he sends thither to procure them.{3} It is also on islands in that sea that the Gerfalcons are bred. You must know that the place is so far to the north that you leave the North Star somewhat behind you towards the south! The gerfalcons are so abundant there that the Emperor can have as many as he likes to send for. And you must not suppose that those gerfalcons which the Christians carry into the Tartar dominions go to the Great Kaan; they are carried only to the Prince of the Levant.{4}
-
-Now I have told you all about the provinces northward as far as the Ocean Sea, beyond which there is no more land at all; so I shall proceed to tell you of the other provinces on the way to the Great Kaan. Let us, then, return to that province of which I spoke before, called Campichu.
-
-
-CHAPTER LVII. The Kingdom of Erguiul, and Province of Sinju.
-
-On leaving Campichu, then, you travel five days across a tract in which many spirits are heard speaking in the night season; and at the end of those five marches, towards the east, you come to a kingdom called Erguiul, belonging to the Great Kaan. It is one of the several kingdoms which make up the great Province of Tangut. The people consist of Nestorian Christians, Idolaters, and worshippers of Mahommet.{1}
-
-There are plenty of cities in this kingdom, but the capital is Erguiul. You can travel in a south-easterly direction from this place into the province of Cathay. Should you follow that road to the south-east, you come to a city called Sinju, belonging also to Tangut, and subject to the Great Kaan, which has under it many towns and villages.{2} The population is composed of Idolaters, and worshippers of Mahommet, but there are some Christians also. There are wild cattle in that country [almost] as big as elephants, splendid creatures, covered everywhere but on the back with shaggy hair a good four palms long. They are partly black, partly white, and really wonderfully fine creatures [and the hair or wool is extremely fine and white, finer and whiter than silk. Messer Marco brought some to Venice as a great curiosity, and so it was reckoned by those who saw it]. There are also plenty of them tame, which have been caught young. [They also cross these with the common cow, 275and the cattle from this cross are wonderful beasts, and better for work than other animals.] These the people use commonly for burden and general work, and in the plough as well; and at the latter they will do full twice as much work as any other cattle, being such very strong beasts.{3}
-
-In this country too is found the best musk in the world; and I will tell you how ’tis produced. There exists in that region a kind of wild animal like a gazelle. It has feet and tail like the gazelle’s, and stag’s hair of a very coarse kind, but no horns. It has four tusks, two below and two above, about three inches long, and slender in form, one pair growing upwards, and the other downwards. It is a very pretty creature. The musk is found in this way. When the creature has been taken, they find at the navel between the flesh and the skin something like an impostume full of blood, which they cut out and remove with all the skin attached to it. And the blood inside this impostume is the musk that produces that powerful perfume. There is an immense number of these beasts in the country we are speaking of. [The flesh is very good to eat. Messer Marco brought the dried head and feet of one of these animals to Venice with him.{4}]
-
-The people are traders and artizans, and also grow abundance of corn. The province has an extent of 26 days’ journey. Pheasants are found there twice as big as ours, indeed nearly as big as a peacock, and having tails of 7 to 10 palms in length; and besides them other pheasants in aspect like our own, and birds of many other kinds, and of beautiful variegated plumage.{5} The people, who are Idolaters, are fat folks with little noses and black hair, and no beard, except a few hairs on the upper lip. The women too have very smooth 276and white skins, and in every respect are pretty creatures. The men are very sensual, and marry many wives, which is not forbidden by their religion. No matter how base a woman’s descent may be, if she have beauty she may find a husband among the greatest men in the land, the man paying the girl’s father and mother a great sum of money, according to the bargain that may be made.
-
-   
-CHAPTER LVIII.
-Of the Kingdom of Egrigaia.
-
-Starting again from Erguiul you ride eastward for eight days, and then come to a province called Egrigaia, containing numerous cities and villages, and belonging to Tangut.{1} The capital city is called Calachan.{2} The people are chiefly Idolaters, but there are fine churches belonging to the Nestorian Christians. They are all subjects of the Great Kaan. They make in this city great quantities of camlets of camel’s wool, the finest in the world; and some of the camlets that they make are white, for they have white camels, and these are the best of all. Merchants purchase these stuffs here, and carry them over the world for sale.{3}
-
-We shall now proceed eastward from this place and enter the territory that was formerly Prester John’s.
 
 

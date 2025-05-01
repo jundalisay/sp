@@ -1,8 +1,16 @@
+---
+heading: "Chapter 21"
+title: "Rehearsal of the way the Year of the Great Kaan is distributed."
+description: ""
+a: "Marco Polo"
+c: "darkslategray"
+weight: 4
+# date: 2022-05-01
+---
 
 
-CHAPTER XXI. Rehearsal of the way the Year of the Great Kaan is distributed.
 
-On arriving at his capital of Cambaluc,{1} he stays in his palace there three days and no more; during which time he has great court entertainments and rejoicings, and makes merry with his wives. He then quits his palace at Cambaluc, and proceeds to that city which he has built, as I told you before, and which is called Chandu, where he has that grand park and palace of cane, and where he keeps his gerfalcons in mew. There he spends the summer, to escape the heat, for the situation is a very cool one. After stopping there from the 411beginning of May to the 28th of August, he takes his departure (that is the time when they sprinkle the white mares’ milk as I told you), and returns to his capital Cambaluc. There he stops, as I have told you also, the month of September, to keep his Birthday Feast, and also throughout October, November, December, January, and February, in which last month he keeps the grand feast of the New Year, which they call the White Feast, as you have heard already with all particulars. He then sets out on his march towards the Ocean Sea, hunting and hawking, and continues out from the beginning of March to the middle of May; and then comes back for three days only to the capital, during which he makes merry with his wives, and holds a great court and grand entertainments. In truth, ’tis something astonishing, the magnificence displayed by the Emperor in those three days; and then he starts off again as you know.
+On arriving at his capital of Cambaluc,{1} he stays in his palace there three days and no more; during which time he has great court entertainments and rejoicings, and makes merry with his wives. He then quits his palace at Cambaluc, and proceeds to that city which he has built, as I told you before, and which is called Chandu, where he has that grand park and palace of cane, and where he keeps his gerfalcons in mew. There he spends the summer, to escape the heat, for the situation is a very cool one. After stopping there from the beginning of May to the 28th of August, he takes his departure (that is the time when they sprinkle the white mares’ milk as I told you), and returns to his capital Cambaluc. There he stops, as I have told you also, the month of September, to keep his Birthday Feast, and also throughout October, November, December, January, and February, in which last month he keeps the grand feast of the New Year, which they call the White Feast, as you have heard already with all particulars. He then sets out on his march towards the Ocean Sea, hunting and hawking, and continues out from the beginning of March to the middle of May; and then comes back for three days only to the capital, during which he makes merry with his wives, and holds a great court and grand entertainments. In truth, ’tis something astonishing, the magnificence displayed by the Emperor in those three days; and then he starts off again as you know.
 
 Thus his whole year is distributed in the following manner: six months at his chief palace in the royal city of Cambaluc, to wit, September, October, November, December, January, February;
 

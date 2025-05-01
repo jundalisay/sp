@@ -1,19 +1,29 @@
 ---
 heading: "Chapter 5"
-title: "Lesser Hermenia"
+title: "The Kingdom of Mosul"
 description: Mao was a Communist Chinese Leader
 a: "Marco Polo"
 c: "darkslategray"
 weight: 4
-# date: 2022-03-10
+# date: 2025-05-10
 ---
 
 
-## CHAPTER 5. The Kingdom of Mausul
+## CHAPTER 5. The Kingdom of Mosul
 
-On the frontier of Armenia towards the south-east is the kingdom of Mausul. It is a very great kingdom, and inhabited{1} by several different kinds of people whom we shall now describe.
+On the frontier of Armenia towards the south-east is the kingdom of Mausul. It is a very great kingdom, and inhabited different kinds of people.
 
-First there is a kind of people called Arabi, and these worship Mahommet. Then there is another description of people who are Nestorian and Jacobite Christians. These have a Patriarch, whom they call the Jatolic, and this Patriarch creates Archbishops, and Abbots, and Prelates of all other degrees, and sends them into every quarter, as to India, to Baudas, or to Cathay, just as the Pope of Rome does in the Latin countries. For you must know that though there is a very great number of Christians in those countries, they are all Jacobites and Nestorians; Christians indeed, but not in the fashion enjoined by the Pope of Rome, for they come short in several points of the Faith.{2}
+1. The Arabs
+
+These worship Mahommet.
+
+2. Nestorian and Jacobite Christians
+
+These have a Patriarch, whom they call the Jatolic who creates Archbishops, Abbots, and Prelates of all other degrees. He sends them into every quarter, as to India, to Baudas, or to Cathay, just as the Pope of Rome does in the Latin countries. 
+
+There are many Jacobites and Nestorian Christians in those countries. 
+
+<!-- ; Christians indeed, but not in the fashion enjoined by the Pope of Rome, for they come short in several points of the Faith.{2} -->
 
 All the cloths of gold and silk that are called Mosolins are made in this country; and those great Merchants called Mosolins, who carry for sale such quantities of spicery and pearls and cloths of silk and gold, are also from this kingdom.{3}
 
@@ -25,15 +35,46 @@ There is yet another race of people who inhabit the mountains in that quarter, a
 
 ## CHAPTER 6. The great City of Baudas, and how it was taken.
 
-Baudas is a great city, which used to be the seat of the Calif of all the Saracens in the world, just as Rome is the seat of the Pope of all the Christians.{1} A very great river flows through the city, and by this you can descend to the Sea of India. There is a great traffic of merchants with their goods this way; they descend some eighteen days from Baudas, and then come to a certain city called Kisi, where they enter the Sea of India.{2} There is also on the river, as you go from Baudas to Kisi, a great city called Bastra, surrounded by woods, in which grow the best dates in the world.{3}
+Baudas is a great city, which used to be the seat of the Caliph of all the Saracens in the world, just as Rome is the seat of the Pope of all the Christians.
 
-In Baudas they weave many different kinds of silk stuffs and gold brocades, such as nasich, and nac, and cramoisy, and many another beautiful tissue richly wrought with figures of beasts and birds. It is the noblest and greatest city in all those regions.{4}
+A very great river flows through the city, and by this you can descend to the Sea of India. 
 
-Now it came to pass on a day in the year of Christ 1255, that the Lord of the Tartars of the Levant, whose name was Alaü, brother to the Great Kaan now reigning, gathered a mighty host and came up against Baudas and took it by storm.{5} It was a great enterprise! for in Baudas there were more than 100,000 horse, besides foot soldiers. And when Alaü had taken the place he found therein a tower of the Califs, which was full of gold and silver and other treasure; in fact the greatest accumulation of treasure in one spot that ever was known.{6} When he beheld that great heap of treasure he was astonished, and, summoning the Calif to his presence, he said to him: “Calif, tell me now why thou 64hast gathered such a huge treasure? What didst thou mean to do therewith? Knewest thou not that I was thine enemy, and that I was coming against thee with so great an host to cast thee forth of thine heritage? Wherefore didst thou not take of thy gear and employ it in paying knights and soldiers to defend thee and thy city?”
+Many merchants with their goods go this way. They descend some 18 days from Baudas, and then come to a city called Kisi, where they enter the Sea of India.
 
-The Calif wist not what to answer, and said never a word. So the Prince continued, “Now then, Calif, since I see what a love thou hast borne thy treasure, I will e’en give it thee to eat!” So he shut the Calif up in the Treasure Tower, and bade that neither meat nor drink should be given him, saying, “Now, Calif, eat of thy treasure as much as thou wilt, since thou art so fond of it; for never shalt thou have aught else to eat!”
+There is also on the river, as you go from Baudas to Kisi, a great city called Basra, surrounded by woods, in which grow the best dates in the world.
 
-So the Calif lingered in the tower four days, and then died like a dog. Truly his treasure would have been of more service to him had he bestowed it upon men who would have defended his kingdom and his people, rather than let himself be taken and deposed and put to death as he was.{7} Howbeit, since that time, there has been never another Calif, either at Baudas or anywhere else.{8}
+In Baudas they weave many different kinds of silk stuffs and gold brocades, such as nasich, and nac, and cramoisy, and many another beautiful tissue richly wrought with figures of beasts and birds. It is the noblest and greatest city in all those regions.
+
+In 1255, Alaü, the Lord of the Tartars of the Levant, brother to the Great Khan now reigning, gathered a mighty host and came up against Baudas and took it by storm.
+
+It was a great enterprise! Baudas had more than 100,000 horse, besides foot soldiers. 
+
+When Alaü had taken the place he found therein a tower of the Califs, which was full of gold and silver and other treasure.
+
+It was the greatest accumulation of treasure in one spot that ever was known.
+
+When he beheld that great heap of treasure he was astonished, and, summoning the Calif to his presence, he said to him: 
+
+“Calif, why have you gathered such a huge treasure? What did you mean to do with it? 
+
+Knewest thou not that I was thine enemy, and that I was coming against thee with so great an host to cast thee forth of thine heritage? Wherefore didst thou not take of thy gear and employ it in paying knights and soldiers to defend thee and thy city?”
+
+
+The Calif did not know what to answer, and said never a word.
+
+So the Prince continued, 
+
+“I see what a love you have for your treasure, I will e’en give it thee to eat!” 
+
+So he shut the Calif up in the Treasure Tower, and bade that neither meat nor drink should be given him, saying, 
+
+“Now, Calif, eat of thy treasure as much as thou wilt, since thou art so fond of it; for never shalt thou have aught else to eat!”
+
+So the Calif lingered in the tower 4 days, and then died like a dog.
+
+Truly his treasure would have been of more service to him had he bestowed it upon men who would have defended his kingdom and his people, rather than let himself be taken and deposed and put to death as he was.{7} 
+
+Howbeit, since that time, there has been never another Calif, either at Baudas or anywhere else.{8}
 
 Now I will tell you of a great miracle that befell at Baudas, wrought by God on behalf of the Christians.
 
@@ -43,9 +84,19 @@ Now I will tell you of a great miracle that befell at Baudas, wrought by God on 
 
 I will tell you then this great marvel that occurred between Baudas and Mausul.
 
-It was in the year of Christ{1} ... that there was a Calif at Baudas who bore a great hatred to Christians, and was taken up day and night with the thought how he might either bring those that were in his kingdom over to his own faith, or might procure them all to be slain. And he used daily to take counsel about this with the devotees and priests of his faith,{2} for they all 69bore the Christians like malice. And, indeed, it is a fact, that the whole body of Saracens throughout the world are always most malignantly disposed towards the whole body of Christians.
+A Calif at Baudas, along with most of the Saracens, hated Christians so much. 
 
-Now it happened that the Calif, with those shrewd priests of his, got hold of that passage in our Gospel which says, that if a Christian had faith as a grain of mustard seed, and should bid a mountain be removed, it would be removed. And such indeed is the truth. But when they had got hold of this text they were delighted, for it seemed to them the very thing whereby either to force all the Christians to change their faith, or to bring destruction upon them all. The Calif therefore called together all the Christians in his territories, who were extremely numerous. And when they had come before him, he showed them the Gospel, and made them read the text which I have mentioned. And when they had read it he asked them if that was the truth? The Christians answered that it assuredly was so. “Well,” said the Calif, “since you say that it is the truth, I will give you a choice. Among such a number of you there must needs surely be this small amount of faith; so you must either move that mountain there,”—and he pointed to a mountain in the neighbourhood—“or you shall die an ill death; unless you choose to eschew death by all becoming Saracens and adopting our Holy Law. To this end I give you a respite of ten days; if the thing be not done by that time, ye shall die or become Saracens.” And when he had said this he dismissed them, to consider what was to be done in this strait wherein they were.
+ <!-- , and was taken up day and night with the thought how he might either bring those that were in his kingdom over to his own faith, or might procure them all to be slain. And he used daily to take counsel about this with the devotees and priests of his faith,{2} for they all 69bore the Christians like malice. And, indeed, it is a fact, that the whole body of Saracens throughout the world are always most malignantly disposed towards the whole body of Christians. -->
+
+Now it happened that the Calif, with those shrewd priests of his, got hold of that passage in our Gospel which says, that if a Christian had faith as a grain of mustard seed, and should bid a mountain be removed, it would be removed. And such indeed is the truth.
+
+But when they had got hold of this text they were delighted, for it seemed to them the very thing whereby either to force all the Christians to change their faith, or to bring destruction upon them all.
+
+The Calif therefore called together all the Christians in his territories, who were extremely numerous. And when they had come before him, he showed them the Gospel, and made them read the text which I have mentioned. And when they had read it he asked them if that was the truth? The Christians answered that it assuredly was so.
+
+“Well,” said the Calif, “since you say that it is the truth, I will give you a choice. Among such a number of you there must needs surely be this small amount of faith; so you must either move that mountain there,”—and he pointed to a mountain in the neighbourhood—“or you shall die an ill death; unless you choose to eschew death by all becoming Saracens and adopting our Holy Law. To this end I give you a respite of ten days; if the thing be not done by that time, ye shall die or become Saracens.”
+
+When he had said this he dismissed them, to consider what was to be done in this strait wherein they were.
 
 
 
