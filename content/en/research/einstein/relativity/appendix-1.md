@@ -3,6 +3,7 @@ title: "Simple Derivation Of The Lorentz Transformation"
 heading: "Appendix 1 "
 date: 2022-01-12
 # date: 2022-08-08
+weight: 62
 description: "Einstein explains the Lorentz Transformation"
 icon: "Einstein"
 c: "firebrick"
