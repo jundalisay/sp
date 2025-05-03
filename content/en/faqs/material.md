@@ -21,8 +21,16 @@ What's wrong with Physics? It already works
 {{< /r >}}
 
 {{< l a="Material Superphysics" >}}
-It's incomplete. This is because it began with Newton who started from the lowest Element as matter (mass). Then, latter physicists groped their way upwards to Electromagnetism (light). The big problem for Physics is that 2 of the 5 Elements are non-physical -- spacetime and the aether.
+It's incomplete. This is because it began with Newton who started from the lowest Element as matter (mass). Then, latter physicists groped their way upwards to Electromagnetism (light). 
 
+The big problem for Physics is that 2 of the 5 Elements are non-physical -- spacetime and the aether.
+{{< /l >}}
+
+
+{{< youtube klka8xfvMDY >}}
+
+
+{{< l a="Material Superphysics" >}}
 Those 2 Elements lead to **a lot** of new technologies just as the Electromagnetic (Fire) Element led to television, internet, lighting, etc. Don't you want new technologies that can allow humans to go to other stars and galaxies?   
 {{< /l >}}
 
@@ -38,14 +46,22 @@ Of course I want. But Physics in the 20th and 21st centuries has weirdly mutated
 That's because Physics doesn't allow metaphysical perceptions. And so physicists have no choice but to make abstract geometrical theories such as String Theory which is useless.
 {{< /l >}}
 
+
 {{< r a="Asker" >}}
 How is Superphysics different?
 {{< /r >}}
 
 
 {{< l a="Material Superphysics" >}}
-We allow the metaphysical domain which leads to the aether and a spacetime called "aetherspace" which is our alternative to Minkowski spacetime. 
+We allow the metaphysical domain which leads to the aether and a space called "aetherspace"
+- The micro aetherspace manifests as gluon fields
+- The macro aetherspace manifests as dark energy
+
+These are both different from spacetime where local or normal motion happens. 
 {{< /l >}}
+
+
+{{< youtube 0gcJCYQJAYcqIYzv >}}
 
 
 {{< r a="Asker" >}}
@@ -71,9 +87,9 @@ So the universe is just inside our minds?
 
 
 {{< l a="Material Superphysics" >}}
-Yes! More correctly, the universe is a projection of our own minds, based on how it's programmed. 
+Yes! More correctly, the universe is a projection of our own minds, based on how it's programmed -- change your programming or belief and reality changes too.
 
-The physical universe is based on our metaphysical minds, as Descartes' mind-body problem 
+The physical universe is based on the **configuration** of our metaphysical minds, as Descartes' mind-body problem.
 {{< /l >}}
 
 
@@ -100,16 +116,10 @@ First of all, anti-gravity, as telekinesis was already documented in ancient and
 
 
 {{< q a="Marco Polo" c="The Travels of Marco Polo, Volume 1, Book 1, Chapter 61" >}}
-When the Great Khan is at his great Palace, seated at his table, his cups are set before him in the middle of the hall 10 paces from his table.
+When the Great Khan is at his great Palace, seated at his table, his cups are set before him in the middle of the hall 10 paces from his table. When he wants to drink, enchanters by the power of their enchantments cause the cups to move from their place without being touched by anybody, and to present themselves to him!
 
-When he wants to drink, enchanters by the power of their enchantments cause the cups to move from their place without being touched by anybody, and to present themselves to him!
-
-This everyone present may witness. There are often times more than 10,000 persons thus present.
-
-’Tis a truth and no lie! and so will tell you the sages of our own country who understand necromancy, for they also can perform it.
+This everyone present may witness. There are often times more than 10,000 persons thus present. ’Tis a truth and no lie! and so will tell you the sages of our own country who understand necromancy, for they also can perform it.
 {{< /q >}}
-
-
 
 
 
@@ -156,7 +166,7 @@ It's because they are materialists and materialists, like Democritus and Newton,
 
 In our MSQ model (alternative to the Standard Model), the Higgs field is called "rib" as Radiant Internal Boundary. You can derive its properties from the model and don't need to build an expensive collider for it.
 
-A common trait of materialists is they like money and gambling. This is why Newton invested in the stock market, but Descartes and Adam Smith did not.
+A common trait of materialists (configuration of their minds) is they like money and gambling. This is why Newton invested in the stock market, but Descartes and Adam Smith did not.
 {{< /l >}}
 
  
@@ -187,12 +197,19 @@ If humans want to go to other planets and stars (which is impossible with any ro
 Bob Lazar already explained how UFOs use gravity waves and antimatter reactors. These are impossible with Newtonian Physics, but very possible with Cartesian Physics through the concept of aetherspace and material vortices.
 {{< /l >}}
 
+
+{{< youtube 0dXvYASaIx4 >}}
+
+
 {{< r a="Asker" >}}
 What's the status of Material Superphysics now?
 {{< /r >}}
 
+
 {{< l a="Material Superphysics" >}}
-We already finished our prelevitation experiments using home equipment during the pandemic. Prelevitation is making things lighter without actually levitating. However, we don't have the expensive equipment needed to make it levitate. To get those resources, we are slowly building up the moneyless system of Superpeconomics. This is because Material Superphysics proposes so many inventions. Relying on money won't be sustainable because money is static and always needs returns. By going moneyless, we can sustain the dynamism of resource gathering.
+We already finished our prelevitation experiments using home equipment during the pandemic. Prelevitation is making things lighter without actually levitating.
+
+However, we don't have the expensive equipment needed to make it levitate. To get those resources, we are slowly building up the moneyless system of Superpeconomics. This is because Material Superphysics proposes so many inventions. Relying on money won't be sustainable because money is static and always needs returns. By going moneyless, we can sustain the dynamism of resource gathering.
 
 Our experiments have helped us understand the nature of the aether better. This is essential for Bio Superphysics which taps the aethereal animal spirits of Rene Descartes.
 {{< /l >}}
@@ -204,7 +221,9 @@ Cool. You are using the moneyless system of Adam Smith to support the aether-bas
 {{< /r >}}
 
 {{< l a="Material Superphysics" >}}
-Yes. This is the really cool thing about Descartes. He explained how everything works, whether physical, biological, medical, or psychological. Ideally, Newton should have built his Physics on top of Descartes' instead of totally replacing it. We are only against Einstein, not Newton who correctly believed that gravity is a force.  
+Yes. This is the really cool thing about Descartes. He explained how everything works, whether physical, biological, medical, or psychological.
+
+Ideally, Newton should have built his Physics on top of Descartes' instead of totally replacing it. We are only against Einstein, not Newton who correctly believed that gravity is a force.  
 {{< /l >}}
 
 <!-- Spinoza then builds on it to explain politics. -->

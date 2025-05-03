@@ -1,7 +1,8 @@
 ---
 title: "Essential Hume"
 date: 2024-05-09
-image: /covers/hume.jpg
+a: "David Hume"
+c: "steelblue"
 description: "David Hume's philosophy is based on impressions and ideas"
 writer:
   name: Juan

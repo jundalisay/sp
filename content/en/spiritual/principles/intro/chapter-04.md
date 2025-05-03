@@ -7,7 +7,7 @@ description: "Morality is different from Dharma"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /icons/spi.png
+icon: "Lam"
 weight: 10
 ---
 
@@ -27,6 +27,9 @@ His tactic was to take advantage of Drona's affections for Ashwatthama, Drona's 
 - There was an elephant named Ashwatthama. 
 - Krishna had that elephant killed. 
 - This then spread the news that Ashwatthama, the elephant had been killed.
+
+![Elephant](/graphics/history/elephant.jpg)
+
 
 Drona heard this during a battle and thought it meant that his son has been killed. 
 - This made him grieve and lower his guard.
@@ -69,7 +72,7 @@ The concepts of "morality", "dharma", and "yoga" are all related to the Positive
 
 ### Dharma Overcomes the Fear of Death
 
-Yoga is the *union* of the 2 Forces, as the peace between 2 warring factions.  
+**Yoga** is the *union* of the 2 Forces, as the peace between 2 warring factions.  
 
 Dharma is the *concept* of the **natural journey** towards this union. The *actual* journey is called Tao in Taoism.  
 - This union or yoga is therefore dharma seen from the end of the journey.  
@@ -79,9 +82,9 @@ Dharma is the *concept* of the **natural journey** towards this union. The *actu
 
 Without spirituality, Existence just goes in circles, without any goal of union and therefore no dharma. This takes the form of the unending cycle of cause and effect, which also leads to the cycle of birth and rebirth.  
 
-Morality is the set of rules while on the journey, to keep it spiritual and fixed to the goal instead of going in circles. This breaks the cycle of cause and effect and consequently the cycle of birth and rebirth. 
-
-This then is used to eliminate the fear of death which is commonly the strongest fear among living creatures.   
+**Morality** is the set of rules while on the journey, to keep it spiritual and fixed to the goal instead of going in circles. 
+- This breaks the cycle of cause and effect and consequently the cycle of birth and rebirth. 
+- This then is used to eliminate the fear of death which is commonly the strongest fear among living creatures.   
 
 So morality is the toolkit to achieve yoga or union.
 - In Patanjali's Yoga Sutras, Yama and Niyama are essential requirements for yoga (and special powers). 
@@ -125,6 +128,7 @@ So from this logic, the killing of the UHG CEO was **immoral** but **karmic**, n
 Such a murder could be considered dharmic if it were done with an intention towards a unifying solution such as an efficient and fair state-run health insurance system.
 - It is immoral to kill.
 - But it is also natural for someone, who has caused the *actual* deaths of people, to himself die from the people that could have died because of him.
+- This is seen in a rampaging elephant, which has trampled and killed a few people, itself being killed by an angry mob of people in reaction. It would be difficult to stop the angry mob from killing the elephant .
 
 Karmic comes from the word karma or action. 
 

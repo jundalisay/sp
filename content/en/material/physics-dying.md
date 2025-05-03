@@ -12,6 +12,7 @@ Sabine recenlty posted a video where she rants about the death of Physics.
 {{< youtube cBlvSGLkwJY >}}
 
 
+
 Theoretical Physics began to fail with M-Theory which was overtaken by String Theory, both of which are currently useless. 
 
 Then Supersymmetry also failed when its predicted particles didn't show up in the colliders.
@@ -51,7 +52,23 @@ It also makes Electromagnetic Force superior to Spacetime, causing the failures 
 This is why Sabine mentions LQG's incompatibility with Lorentz Invariance. This is also why LQG is incompatible with the rest of Quantum Mechanics because the nature of spacetime is different from electromagnetism.  
 
 
-## The Cartesian Solution: 5 Elements
+## The Root Root Cause: Matter-ialism
+
+Einstein only created Relativity because he needed to explain why electromagnetism moves the way that it does. But his basis for movement was perceptible matter and energy. 
+
+He based Physics on these 2 things at discarded the aether, minds, and the subjectivity of Nature.
+
+The big problem is that matter is the crudest and most static or dead of the 5 Elements, opposite of the aether which is the most subtle and most alive and active.
+
+By basing Physics on dead matter and dumb energy, Physics itself dies by slowly taking on the properties of matter. 
+
+This is exactly how Communism died quickly, being based on Dialectical Materialism. 
+
+Capitalism is also dying a slower death, being based on static money instead of natural exchanges, such as that within a family.
+
+
+
+## The Cartesian Solution: Restoring the 5 Elements and Putting up the Aether
 
 Cartesian-Spinozan Physics solves all of these by replacing Einstein's Electromagnetic-centered Relativity with a Relativity that respects the division of the 5 Elements. 
 
