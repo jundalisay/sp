@@ -20,7 +20,7 @@ In fact, both China and Japan closed off their doors to foreign trade.
 
 In Europe after the fall of Rome, traders were seen as mean and lowly peddlers. One just needs to read the Merchant of Venice, as well as King Edward I's oppression of bankers and traders, to find proof of this.
 
-{{< q a="Ibn-Khaldun" c="Muqaddimah, Chapter 5, Part 14">}}
+{{< q a="Ibn Khaldun" c="Muqaddimah, Chapter 5, Part 14">}}
 The character of merchants are inferior to those of noblemen and rulers. This is because merchants are mostly occupied with buying and selling which necessarily requires cunning. If the merchant's character adopts the bad qualities that follow from cunning such as quarrelsomeness, cheating, defrauding, falsification of prices, his character will be one of the lowest sort.
 Political leaders avoid engaging in commerce because of the character that one acquires from its practice. There are some merchants who are not affected by those character qualities and are able to avoid them, because they have noble souls and are magnanimous. But they are very rare in this world.
 {{< /q >}}
@@ -40,7 +40,7 @@ The immorality in business is best explained by using David Hume's technique of 
 Business is defined as the activity of making, buying, or selling goods or providing services in exchange for money. The problem is that **money is merely a number and does not have any quality attached to it**. The only action that our minds can do on numbers is to connect them to each other: the idea of `1` connected to another `1` through another idea of addition which logically leads to the new idea of `2`. 
 
 The qualities or ideas of goodness and 'badness' have no chance to enter this stream of ideas. A computer can output big numbers better than any human, but they are incapable of moral judgements unless qualities are added onto those numbers.
-David Hume
+
 
 {{< q a="David Hume" c="Treatise of Human Nature Simplified" >}}
 Morals excite passions and produce or prevent actions. Reason is utterly impotent in this.The rules of morality therefore, are not conclusions of our reason.

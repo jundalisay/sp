@@ -6,6 +6,8 @@ image: /covers/solutions.png
 
 We're building a new science and new systems for a better reality.
 
+The core Superphysics team won't live forever so we're focusing on the most pressing problems.
+
 You can help by:
 - sharing our posts
 - adding links to our posts or books on your website
