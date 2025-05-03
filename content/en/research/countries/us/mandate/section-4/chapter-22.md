@@ -1,10 +1,12 @@
 ---
-title: "DEPARTMENT OF THE TREASURY"
+title: "Department Of The Treasury"
 date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "US"
 contributors: ['Stephen Moore', 'David R. Burton', 'William L. Walton']
+heading: Chapter 22
+weight: 28
 ---
 
 
@@ -19,25 +21,24 @@ organizations; and treaties.
 The primary subject matter focus of the incoming Administration’s Treasury
 Department should be:
 
-lTax policy and tax administration;
-lFiscal responsibility;
-lImproved financial regulation;
-l
-Addressing the economic and financial aspects of the geopolitical threat
-posed by China and other hostile countries;
-
-Reform of the anti-money laundering and beneficial ownership
+- Tax policy and tax administration
+- Fiscal responsibility
+- Improved financial regulation
+- Addressing the economic and financial aspects of the geopolitical threat posed by China and other hostile countries;
+- Reform of the anti-money laundering and beneficial ownership
 reporting systems;
-Reversal of the racist “equity” agenda of the Biden Administration; and
-Reversal of the economically destructive and ineffective climate-related
-financial-risk agenda of the Biden Administration.
+- Reversal of the racist “equity” agenda of the Biden Administration; and
+- Reversal of the economically destructive and ineffective climate-related financial-risk agenda of the Biden Administration.
 
-BIDEN ADMINISTRATION TREASURY DEPARTMENT
+
+### BIDEN ADMINISTRATION TREASURY DEPARTMENT
 
 The Biden Administration Treasury Department has failed badly in achieving
 every one of the agency’s core objectives. The financial affairs of the nation have
 seldom been in worse condition, with the national debt expanding by more than $4
-trillion in Biden’s first two years in office. No President in modern times—perhaps
+trillion in Biden’s first two years in office. 
+
+No President in modern times—perhaps
 ever—has been more fiscally reckless than has the Biden Administration.
 The soundness and stability of U.S. currency, the dollar, has been put at risk
 because of the worst inflation in four decades. American families have been
@@ -78,9 +79,13 @@ resilience of financial institutions and markets and financial wellbeing of
 consumers, and to increase access to credit for small businesses and low-to-
 moderate income communities.5
 
-TREASURY DEPARTMENT ORGANIZATION
+
+
+### TREASURY DEPARTMENT ORGANIZATION
+
 The Treasury Department is one of the few executive agencies recognized in
 the U.S. Constitution. It states:
+
 No Money shall be drawn from the Treasury, but in Consequence of Appropri-
 ations made by Law; and a regular Statement and Account of the Receipts and
 Expenditures of all public Money shall be published from time to time.6
@@ -91,27 +96,33 @@ ensuring the financial security of the United States. In fiscal year 2022, Treas
 received discretionary appropriations of approximately $16.4 billion.7 It also has
 highly variable “mandatory” expenses (COVID-related CARES Act spending,
 for example).
+
 In fiscal year (FY) 2022, Treasury employed approximately 96,000 full-time
 employees, including approximately 81,000 at the Internal Revenue Service
 (IRS).8 Approximately four-fifths of Treasury’s discretionary funds are used for
 IRS operations. The remaining amounts are for its offices, bureaus, and interna-
 tional assistance programs.
+
 Treasury is organized into various departmental offices,9 seven bureaus,10 and
 four inspectors general.11
 
 Departmental Offices. Departmental offices are composed of divisions headed
 by under-secretaries and assistant secretaries who are primarily responsible for
 policy formulation and overall management of the Treasury Department.
+
 Domestic Finance is run by the Under Secretary for Domestic Finance, to whom
 the assistant secretaries for financial markets, financial stability, financial institu-
 tions and the fiscal assistant secretary report. Additionally, the Financial Stability
 Oversight Council (FSOC) Secretariat and the Office of Financial Research report
 to the Under Secretary for Domestic Finance.﻿
 
-Terrorism and Financial Intelligence. Terrorism and Financial Intelligence (TFI)
+
+
+### Terrorism and Financial Intelligence. Terrorism and Financial Intelligence (TFI)
 was created in 2004 as part of the larger reorganization of the U.S. government to
-promote homeland security following the 9/11 terrorist attacks. TFI is charged with
-the mission of disrupting international financial support for terrorists, weapons of
+promote homeland security following the 9/11 terrorist attacks. 
+
+TFI is charged with the mission of disrupting international financial support for terrorists, weapons of
 mass destruction proliferation, narcotics trafficking, money laundering, and other
 national security threats. It is also responsible for implementing and enforcing
 economic sanctions programs and supporting the wider law enforcement commu-
@@ -135,6 +146,7 @@ of foreign governments, participates in international tax organizations, and pro
 vides economic and legal policy analysis for domestic and international tax policy
 decisions. This office also provides revenue estimates for the President’s budget.
 It is led by the Assistant Secretary for Tax Policy.
+
 Economic Policy reports on current and prospective economic developments
 and assists in the determination of appropriate economic policies. This office is
 responsible for the review and analysis of domestic economic issues and develop-
@@ -144,13 +156,40 @@ The Treasurer of the United States is a statutory office that has been assigned
 varying duties in recent Administrations. In addition to performing public out-
 reach, treasurers have at times headed Treasury’s financial education program
 and overseen the U.S. Mint and Bureau of Engraving and Printing.
+
 Four Inspectors General provide independent audits, investigations, and over-
 sight of Treasury and its programs: The Office of the Inspector General of the
 Department of Treasury; Treasury Inspector General for Tax Administration;
 Special Inspector General for the Troubled Asset Relief Program; and the Special
 Inspector General for Pandemic Recovery.
 
-Treasury Bureaus. Seven Treasury Department bureaus comprise 98 percent
+
+### Treasury Bureaus
+
+Seven Treasury Department bureaus comprise 98 percent
 of the Treasury work force and are responsible for carrying out specific operations
 assigned to the department.
 
+The Alcohol and Tobacco Tax and Trade Bureau collects federal excise taxes on alcohol, tobacco, firearms, and ammunition, and is responsible for enforcing and administering laws covering the production, use, and distribution of alcohol products.
+
+The Internal Revenue Service is the largest of the department’s bureaus, accounting for about 85 percent of Treasury’s personnel and about four-fifths of its appropriated budget. It administers and enforces U.S. tax laws.
+
+The Bureau of Engraving and Printing develops and produces U.S. currency notes.
+The Financial Crimes Enforcement Network (FinCEN) is designed to protect
+the financial system from illicit use. It also administers the beneficial ownership
+reporting regime mandated by the Corporate Transparency Act.12
+
+The Bureau of the Fiscal Service provides central payment services to federal
+program agencies, operates the U.S. government’s collections and deposit systems,
+provides government-wide accounting and reporting services, manages the collec-
+tion of delinquent debt owed to the U.S. government, borrows the money needed to
+operate the government through the sale of U.S. Treasury securities (including the
+state and local government series), and accounts for and services the public debt.
+
+The United States Mint designs and mints U.S. circulating and bullion coins.
+The Office of the Comptroller of the Currency (OCC) charters, regulates, and
+supervises national banks and federal savings associations (thrifts) to ensure that
+they operate in a safe and sound manner, provide fair access to financial services,
+and comply with applicable laws and regulations. The OCC also supervises fed-
+eral branches and agencies of foreign banks and has rulemaking authority for all
+savings associations.

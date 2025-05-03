@@ -1,212 +1,87 @@
 ---
-title: "Default Title"
+title: "Bureau Of Industry And Security"
 date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "US"
+heading: Chapter 21e
+weight: 12
 ---
 
 
+During the past two decades, technology transfer from America and its allies has helped accelerate adversaries’ technological and weapons capabilities. This technology transfer on a massive scale has occurred because of adversaries’ exploitation of the U.S.’s open economy and education system through both commercial transactions and university and government research programs.
 
-BUREAU OF ECONOMIC ANALYSIS AND THE OFFICE OF THE UNDERSECRETARY FOR ECONOMIC AFFAIRS
+Examples include the People’s Republic of China’s dramatic leaps forward in semiconductor design and fabrication, battery energy storage, nuclear weapons capabilities, artificial intel- ligence, space and aerospace engineering, and hypersonic weapons deployment. At the same time, the U.S. has systematically failed to protect critical assets. Rather than promulgate policies to better prevent technology transfer, the U.S. government has either ignored the problem or, worse, from 2008 through 2016 instituted a government-wide “Export Control Reform” process to loosen the Export Administration Regulations (EAR) governing exports of dual-use items to facilitate technology transfer to adversaries, either directly or indirectly through third-country transfers.
 
-The Office of the Under Secretary for Economic Affairs is charged with conducting
-economic analysis, promoting business and commerce, guiding data-driven deci-
-sion-making and evidence-building activities, and increasing access to government
-data while ensuring privacy and confidentiality. The office coordinates economic
-analysis needs across the Department of Commerce, leads the department’s initia-
-tives and programs related to data, data policy, and data management, and provides
-policy direction and oversight for the Bureau of Economic Analysis (BEA) and the
-Census Bureau. In addition to the Under Secretary for Economic Affairs, key staff
-roles in the office include the Chief Economist and the Chief Data Officer.
-The office could be an effective tool for a new Administration if it focuses its
-efforts on supporting the Department’s mission to ensure the conditions for eco-
-nomic growth and opportunity—conducting economic analysis and producing
-data for key departmental policy initiatives, as well as working across agencies to
-support broader Administration goals. As the office charged with providing policy
-direction and oversight for BEA and the Census Bureau, new leadership should
-take an early and active role within both bureaus.
+Those reforms still present in the Department of Commerce’s EAR must be reversed. The United States needs stronger rules to protect technology transfer to adversaries while promoting technology integration and interoperability with allies. Further, U.S. export control regulations should be utilized to prevent theft of personally identifiable information and to encourage U.S. companies to shift production out of China and further diversify their supply chains to better advance U.S. national security interests.
 
-BEA is a federal statistical agency under the Office of the Undersecretary for
-Economic Affairs. BEA’s mission is to promote a better understanding of the U.S.
-economy by providing timely, relevant, and accurate economic accounts data in
-an objective manner. BEA is responsible for producing economic indicators such
-as the U.S. gross domestic product (GDP), state and local GDP estimates, foreign
-trade and investment statistics, industry data, and consumer spending numbers.
-The data produced by BEA are used by government and business decision-mak-
-ers to understand the state of the nation’s economy. A new Administration should
-ensure that BEA conducts its statistical analysis in a consistent and objective
-manner, with the Undersecretary for Economic Affairs taking a strong interest in
-BEA’s operations and data products.
+For all the below recommendations, BIS needs to move unilaterally while it
+works with allies to implement complementary export control policies. Waiting
+to act until allies are ready to move in lockstep is not an option while America’s
+national security is at risk.
 
-A new Administration should also study the feasibility of merging all statistical
-agencies (Census Bureau, Bureau of Economic Analysis, and the Department of
-Labor’s Bureau of Labor Statistics, etc.) under one bureau to increase efficiency
-and better coordinate cross-departmental issues.
+Emerging and Foundational Technologies. The Export Control Reform Act
+of 2018 (ECRA) gave BIS permanent statutory authority to regulate exports of
+dual-use items (goods, software, and technology). ECRA also mandated that BIS regulate exports of emerging and foundational technologies. 
 
-CENSUS BUREAU
+Although the scope of such technologies is vast, to date BIS has only controlled just over 40 of these
+technologies. This does not meet the clear statutory intent of Congress that ECRA
+be leveraged to ensure that the United States maintains a technological advantage
+in technologies bearing upon national security interests.
 
-The Census Bureau’s core mission is to execute the executive branch’s constitu-
-tional mandate to conduct a census every 10 years, but its activities have steadily
-grown and shifted to include the economic census, American Communities Survey,
-and further functions outside of its core mission.
-An incoming conservative Administration should focus on three areas: day-to-
-day management, the decennial census, and other programs. Each of these will
-
-need to be addressed at every stage of the transition and policy implementation
-process and will require that both committed political appointees and like-minded
-career employees are in immediately put in place to execute a conservative agenda.
-These will need to be placed both in the Census Bureau and in key department-level
-managerial positions, such as those in the CFO/ASA’s office.
-Day-to-Day Management
+Currently, BIS self-identifies technologies that merit control under the EAR with minimal input from other federal agencies. This mechanism should be improved. BIS should create an open, transparent rulemaking process by which any industry participant, private entity, or branch of the government may, at any time, submit nominations for emerging/foundational technologies for control. Then, on a quarterly basis, BIS should make public such recommendations (while holding the identity of the submitter confidential) for public input, followed by an explanation about its ultimate decision to control or not control the items, its reasons, the level of controls applied (stringent or permissive), and the relevant Export Control Classification Number (ECCN) under the Commerce Control List. Commerce should also institute a mechanism whereby its decisions can be challenged, including on a confidential basis.
 
 
-Financial management, information technology, and human
-resources. The new Administration must immediately conduct a review
-to identify ways to better control costs and reverse recent failures of
-investments intended to upgrade the financial management, information
-technology, and human resources systems of the Census Bureau.
-Leveraging technology. The Census Bureau should focus on continuing
-to incorporate technology into its day-to-day operations, as well as the
-execution of its surveys, to reduce costs and provide more accurate and
-timely data to the American public.
+Licensing Procedures: Adjudication and Transparency. Currently, if the Departments of Defense, State, Commerce, and Energy disagree on an export license decision, the disagreement may be escalated to the Operating Commit- tee—and subsequently to the Advisory Committee on Export Policy led by BIS’s Assistant Secretary for Export Administration. The Assistant Secretary does not need to lead the dispute resolution, and this process should be revised by giving lead authority to BIS’s Under Secretary, who is better able to account for diverging views. Moreover, BIS’s authority to overrule other agency votes should be changed.
 
-Prioritizing cybersecurity and protection of confidential information.
-Because much of the data collected by the Census Bureau include personal
-and confidential information, a focus on protecting data and implementing
-proper data protocols is necessary to ensure compliance with the legal
-requirements of Title 13.
-Decennial Census
-l
-Fully vet existing planning and budgeting from Day One. Planning
-and budgets for the 2030 decennial census will be finalized in fall 2025,
-including many decisions on how to use, develop, and administer the count.
-An incoming Administration should immediately audit the lifecycle cost
-estimate (LCCE) for the 2030 census and conduct a new LCCE if necessary.
-This will ensure that budget requests are accurate and up-to-date and
+Each agency should have one equal vote and, if a licensing dispute remains unresolved, the final decision should be elevated to the National Security Advisor and
+the Secretaries of Defense, State, Commerce, and Energy.
 
+Additionally, to improve congressional oversight of BIS’s license adjudication process, BIS should provide specific congressional committees with data from the Automated Export System on a quarterly basis. Electronic files should contain U.S. exporter by name; product description (e.g., harmonized system code and ECCN/U. S. Munitions List designation); end user and destination country; and when a license was required, whether the license was granted or denied. BIS cur- rently denies just 1.2 percent of export licenses. These data reporting requirements can help Congress better determine whether BIS is adequately protecting national security through appropriate use of export controls or whether additional direction from Congress is required.
 
-Command and control. Strong political leadership is needed to increase
-efficiency and align the Census Bureau’s mission with conservative
-principles. Personnel is key to ensuring that a new Administration can guide
-preparations for the 2030 census and oversee the continued operation
-of the Bureau’s many surveys. To move bureaucracy on key priorities,
-appointed staff should be in place at the Bureau as early as feasible after
-a new President takes office. This will require the Office of Personnel
-Management to allocate additional political appointee positions to the
-Census Bureau.
+Improve End-Use Checks. The integrity of the export control system may be
+validated only through adequate end-use checks. BIS must deny export licenses
+to countries that do not permit adequate end-use checks (e.g., China/Russia) by
+U.S. authorities. BIS should also strengthen the forensic audit capabilities of its
 
-allow the new Administration to understand the decennial process in
-greater detail.
+Export Enforcement officers through improved and frequent training so they are
+able to detect export-control violations.
+EAR Revisions. The U.S. Government needs a new export control moderniza-
+tion effort to tighten the EAR policies governing licenses to countries of concern,
+including China and Russia (specifically, revise and/or reverse the 2008 through
+2016 policies).
 
-Review the partnership program. This program, designed to promote
-responsiveness to the census by employing trusted voices in various
-communities, deserves careful scrutiny. A new Administration should work
-to actively engage with conservative groups and voices to promote response
-to the decennial census. Promoting response to the decennial census will
-ensure that the most accurate counts are conducted, leading to a more
-accurate apportionment of congressional representation and allocation
-of federal funds. In 2020, lack of conservative participation was one factor
-in an undercount in some areas of the country, affecting representation of
-certain states.
+When authoritarian governments explain what they plan to do, believe them unless hard evidence demonstrates otherwise. Case in point: China’s and Russia’s stated civil–military fusion policies demand central government command-and-control style systems in which every private entity serves the interests of the state and is forced to provide technology, services, capacity, and data to the central govern- ment and the military. Through this structure, commercial activities are routinely weaponized by authoritarian regimes that repeatedly identify the U.S. as an enemy. Accordingly, U.S. export control policies must be updated to reflect these realities and the associated threats to national security. Key priorities for EAR modernization for countries of concern should be:
+
+- Eliminating the “specially designed” licensing loophole;
+- Eliminating license exceptions;
+- Broadening foreign direct product rules;
+- Reducing the de minimis threshold from 25 percent to 10 percent—or 0 percent for critical technologies;
+- Tightening the deemed export rules to prevent technology transfer to foreign nationals from countries of concern;
+- Tightening the definition of “fundamental research” to address exploitation of the open U.S. university system by authoritarian governments through funding, students and researchers, and recruitment;
+- Eliminating license exceptions for sharing technology with controlled entities/countries through standards-setting “activities” and bodies
+- Improving regulations regarding published information for technology transfers.
 
 
-Remove duplicative functions to increase efficiency. As part of the
-above review, ensure the decennial operational plan eliminates current
-duplication among ongoing census operations (annual surveys, etc.) and
-decennial operations in information technology, human resources, etc. This
-overlap has been estimated to waste billions of dollars in the years leading
-up to each decennial census.
-l
+Redesignating China and Russia to more highly prohibitive export licensing groups (country groups D or E);﻿
 
+The next few years will prove or disprove the assertion that the U.S. stands on
+the precipice of a Cold War with China. Many believe that a Cold War has already
+begun; if so, then strategic decoupling from China is necessary and, fundamentally,
+any exports of goods, software, and technology to countries of concern, whether
+directly or indirectly, should be prohibited or controlled in the absence of good
+cause (e.g., humanitarian and medical aid, food aid).
 
-Add a citizenship question. Despite finding that the Trump
-Administration’s addition of the citizenship question to the 2020 decennial
-census violated the Administrative Procedures Act, the Supreme Court
-held that the Secretary of Commerce does have broad authority to add a
-citizenship question to the decennial census. Any successful conservative
-Administration must include a citizenship question in the census. Asking a
-citizenship question is considered best practice even by the United Nations.
-By law, the Census Bureau must deliver the decennial census subjects/
-topics to Congress three years before Census Day (in this case, by April 1,
-2027). Questions must be presented to Congress two years before Census
-Day (April 1, 2028).
+Entity List and Sanctions. There are currently just over 500 Chinese and over
+500 Russian companies on the Department of Commerce’s Entity List, which reg-
+ulates exports of controlled and uncontrolled items to designated entities. Given
+China’s Civil–Military Fusion Strategy and Russia’s massive war efforts facili-
+tated by a broad range of the Russian economy, BIS must add more entities to the
+Entity List and apply a license review “policy of denial” that prohibits exports to
+these entities.
 
-Review forthcoming changes to race and ethnicity questions. The
-current Administration has announced its intent to change data collection
-methods regarding race and ethnicity by combining the two questions
-on the decennial questionnaire and increasing the number of available
-options. A new conservative Administration should take control of this
-process and thoroughly review any changes. There are concerns among
-conservatives that the data under Biden Administration proposals could be
-skewed to bolster progressive political agendas. Government data should be
+Entity List parties that violate export controls should be placed on the BIS Denied Persons List (and thereby lose export privileges) and, if the violations are significant enough, they should also be sanctioned by the Department of Treasury. Data Transfer and Apps Used for Surveillance. Department of Commerce leadership should work across government agencies to address privacy and data concerns arising out of “big tech” from national security and export control per- spectives. In particular, they should draft and implement an executive order (EO) based on the International Emergency Economic Powers Act, which expands export control authority beyond ECRA’s scope (goods, software, technology) to regulate and restrict exports of U.S. persons’ data to countries of concern.
 
+The EO should establish a framework for the types of personal data subject to export controls and licensing policy by country, and the BIS should implement the EO through regulations. 
 
-unbiased and trusted—and an incoming conservative Administration should
-ensure that is the case. This work must be coordinated with the Office of
-Management and Budget, which governs federal data collection standards
-via its statistical directives.
-l
-Reevaluate all decennial census questions. Determine how best to
-optimize use of the decennial census to determine whether current or
-additional questions provide added value in coordination with other
-departments that utilize the information. Overly intrusive questions or less
-crucial data should either be moved to another survey or removed from
-Census programs entirely.
-
-Other Census Programs
-
-
-The Economic Census. This is the official five-year measurement of
-American business and the economy. The first Economic Census in a new
-Administration will take place in 2027 and have a major effect on federal
-spending and policy determinations. This survey collects business data that
-are a key input for ongoing government statistics such as BEA’s GDP reports.
-As with the decennial census and ACS, it should be carefully examined
-to ensure the Economic Census is not overly intrusive. Additionally, the
-Census Bureau should work with other federal agencies to determine
-when data collection can be supplemented by industry and other federal
-business indicators.
-
-Pulse surveys. During the government’s early response to the COVID-19
-pandemic, the Census Bureau began experimental pulse surveys. These
-were designed to obtain data closer to real-time than typical census surveys.
-These data could be a useful tool to the Department of Commerce and
-other partners across government and provide a model for improving data
-collection techniques or reducing the overall footprint of the Census Bureau.
-
-
-The American Communities Survey. After the decennial census, the next
-biggest statistical survey conducted by the Census Bureau is the American
-Communities Survey (ACS). As with the decennial census, each question
-should be carefully reviewed to ensure the data are useful and that the
-questions are not overly intrusive. There should be collaboration with other
-departments that use the information collected on these surveys (e.g., the
-Departments of Labor, Health and Human Services, Homeland Security,
-etc.) to determine how to optimize the use and collection of particular
-information.
-
-
-Supplemental Poverty Measure. The Census Bureau should review the
-Supplemental Poverty Measure (SPM) to consider whether it provides an
-accurate measure for use by the Council of Economic Advisers and others.
-The findings from this review should also be taken into consideration when
-constructing the Current Survey and other supplemental surveys, so that
-the SPM can be better tracked on a trend basis and support better policy
-decisions over time. This information would be particularly helpful in
-determining how to combat homelessness in conjunction with Department
-of Health and Human Services programs.
-
-Abolish the National Advisory Committee and reevaluate all other
-committees. The Census Bureau National Advisory Committee on Racial,
-Ethnic, and Other Populations (NAC) was established by the Obama
-Administration in 2012 and rechartered by the Biden Administration in
-2022. The committee is a hotbed for left-wing activists intent upon injecting
-racial and social-justice theory into the governing philosophy of the Census
-Bureau. The NAC should immediately be abolished by the incoming
-Administration. The NAC charter gives the Secretary of Commerce the
-authority to terminate the committee. Since the Secretary of Commerce
-established the NAC in 2012 under the FACA, the Secretary is authorized
-to terminate the NAC. The new Administration should also reevaluate
-and potentially abolish all non-statutory standing committees within the
-Census Bureau, including the Census Scientific Advisory Committee.
+BIS should additionally designate app providers (such as WeChat and Byte­Dance/TikTok) known for undermining U.S. national security through data collection, surveillance, and influence operations, to the Entity List. This listing would prevent app users from program updates, which would quickly make these apps non-operational in the United States.

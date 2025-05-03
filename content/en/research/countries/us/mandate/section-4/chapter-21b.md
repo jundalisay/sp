@@ -1,110 +1,199 @@
 ---
-title: "Departent of Commerce"
+heading: "Chapter 21"
+title: "International Trade Administration"
 date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "US"
+heading: Chapter 21b
+weight: 8
 ---
 
 
+The International Trade Administration is centrally placed to craft and implement U.S. trade policy. Core to ITA’s mission is the expansion of trade and investment and the fostering of job creation, innovation, and economic growth, while also providing research and analysis that support USTR’s trade negotiations. 
 
-This is charged with promoting economic growth, innovation, and competitiveness while providing the data that American businesses need to succeed. 
+ITA carries out this mission on behalf of American workers, ranchers, and families. As discussed elsewhere, historically, conservatives have argued that many fed- eral government trade and investment-oriented functions amount to corporate welfare or protectionism. There is a growing counterargument within the conservative movement contending that, in a world in which managed trade is the norm rather than the exception, and in which authoritarian governments, especially China, continually seek to undermine U.S. interests, the U.S. cannot unilaterally disarm. To do so would harm the cause of free trade in the long term, and, in any event, Congress is not likely to drastically change the composition or authoriza- tion of the ITA. Thus, a policy and management agenda that serves conservative priorities is crucial.
 
-Intended to serve with clarity of purpose as the voice of business in any President’s Cabinet, the Department of Commerce has suffered from decades of regulatory capture, ideological drift, and lack of focus. One long-standing joke maintains that the department, with its lack of coherence, is a holding company for the parts of the federal government that could not be housed elsewhere. Thus, in the 1990s, calls emerged to abolish the department and either spin off, zero-out, or consolidate its functions among other entities.1 At the same time, the department has a higher profile now than perhaps ever in its history. 
+In a conservative Administration, the ITA should operate with the follow-
+ing priorities:
 
-It possesses key tools to address decades of poor decision-making in Washington and is central to any plan to reverse the precipitous economic decline sparked by the Biden Administration and to counter Communist China. Both assertions can be equally true, that the department possesses the expertise, programs, and authorities that will be crucial to the success of a conservative presidency and that its role in the federal bureaucracy would benefit from streamlining and reform.
-
-Many programs at the Department of Commerce overlap in whole or part with other governmental programs, and consolidating and streamlining these could increase both accountability and return on taxpayer investment. Any exercise in government-wide budgeting and reform should review the department with an eye toward consolidation, elimination, or privatization that examines the efficiency, effectiveness, and underlying philosophy of each individual component. Though not an exhaustive set of proposals, the next conservative President should con- sider whether:
-
-The International Trade Administration (ITA) and parts of the Bureau of
-Industry and Security (BIS) should be streamlined and moved to the Office
-of the U.S. Trade Representative (USTR), along with the Development
-Finance Corporation; the U.S. Trade and Development Agency; the Export–
-Import Bank; and other trade-related programs spread across the federal
-government—as well as considering whether many of these programs
-should exist within the federal government;
-The Economic Development Administration’s grant programs, which
-are among a broad set of duplicative and overlapping federal economic
-development grant programs, should be consolidated with other programs
-and/or eliminated;
-
-The Bureau of Economic Analysis and Census Bureau, as well as the
-Department of Labor’s Bureau of Labor Statistics, should be consolidated
-into a more manageable, focused, and efficient statistical agency;
-The U.S. Patent and Trademark Office (USPTO) should be made into a
-performance-based organization under the Office of Management and
-Budget (OMB);
-
-Alternatively, the USPTO should be consolidated with the National
-Institute of Standards and Technology (NIST) in a new U.S. Office of
-Patents, Trademarks, and Standards, with all non-mission-critical research
-functions eliminated or moved to other, more focused, federal agencies; and
-The National Oceanographic and Atmospheric Administration (NOAA)
-should be dismantled and many of its functions eliminated, sent to other
-agencies, privatized, or placed under the control of states and territories.
-Almost every element of the department can be viewed through this lens, but
-with today’s political reality and multiple competing congressional committee
-jurisdictions, drastic structural change to the department is neither imminent
-nor likely. Thus, this chapter largely accepts the baseline of today’s department
-and proposes a bold, but achievable, set of proposals for an incoming conservative
-Administration.
-
-Whatever the imperfections of the Department of Commerce, it is blessed with
-many quality civil servants and strong statutory authorities that, directed properly,
-— 664 —Department of Commerce
-can help ensure U.S. success in 2025 and beyond. With that in mind, this chapter
-focuses primarily on policy, strategy, and occasionally tactics that are either imme-
-diately implementable under strong leadership or are critical to mission success.
+- Counter the malign influence of China and other U.S. adversaries
+- Enforce agreements vigorously and defend against trade violations
+- Secure access to critical supply chains and technology
+- Enable the private sector to drive innovation and remain globally competitive.
 
 
-The Office of the Secretary (OS) is somewhat of a misnomer, as very few of the
-thousands of employees working in the office are dedicated to staffing the secretary
-and implementing Administration priorities. Rather, OS’s budget and full-time
-equivalents have increasingly been allocated to fulfill financial, human resources,
-administrative, information technology, contracting, and facilities functions, using
-outdated and inefficient systems. The Trump Administration began implement-
-ing key changes, such as updating financial management tools, but more must be
-done to digitize and modernize the department’s processes to free resources for
-secretarial and presidential priorities.
-
-The above drain on resources leaves the Secretary of Commerce to rely upon
-a few dozen direct support staff, supplemented with detailees and indirect fund-
-ing from each of the bureaus to execute the President’s agenda and manage the
-diverse functions of the department. This structure empowers career staff in each
-bureau and makes it harder to mandate change. As such, it is vitally important
-that an incoming Administration fully staff OS with political appointees, send
-all existing detailees back to their home bureaus on Day One, and replace those
-detailees with trusted and knowledgeable career staff on an as-needed basis.
-Department of Commerce leadership should also fight to restore direct fund-
-ing and additional political appointee positions to OS and its constituent parts
-involved in implementing and communicating the Commerce Secretary’s and
-President’s policy priorities.
-
-Administration, Budget, and Appropriations. Recent practice has been for
-career staff to serve as gatekeepers between department leadership and external
-budget and appropriations partners at the OMB and on Capitol Hill. By serving
-not just as a central point of contact but as the sole staff-level communicators of
-departmental priorities, these career officials can, have, and will slow down—and
-even stop—changes in policy, even at the line-office level.
-Although the following is true at all agencies, it is particularly important at the
-Department of Commerce that political leadership be immediately installed at the
-Office of the Chief Financial Officer (CFO) and Assistant Secretary for Administra-
-tion (ASA), and that political appointees receive a mandate to communicate with
-external partners alongside career staff at every stage of the budget and appropri-
-ations process. Political appointees must also monitor internal CFO operations
-down to the operating division level to ensure that funds are not being diverted
-to programs that do not align with Administration priorities, as has regularly hap-
-pened in years past.
-
-Advisory Committees. Due to the nature of the Department of Commerce’s
-portfolio, many of its advisory committees are populated by activists from organi-
-zations openly hostile to conservative principles who use the committees to impede
-conservative policy. Upon entering office, all such committees should be reviewed
-regarding whether they are required by statute and abolished if they are not. Mem-
-bership of the remaining committees should be reconstituted to ensure they are
-sources of genuine expert advice and productive contributions to the policy-making
-process. Federal Advisory Committee Act (FACA) compliance and awareness of
-any ways the committees have been written into regulations should be considered.
+A deeply entrenched set of career Senior Executive Service officials have managed the ITA for over a decade. While most are truly
+non-partisan civil servants, some are not. Political leadership must manage accordingly. Strong political leadership is needed in ITA’s policymaking positions from
 
 
+Re-establish and expand suspended in-person pandemic-related
+verifications, particularly regarding the People’s Republic of China. Ensure
+that verifications are rigorous.
+Implement advanced analytics and artificial intelligence to identify
+opportunities for self-initiation, detect circumvention, and prevent bad
+actors from gaming the system.
+
+
+Day One to ensure the bureau is fully implementing Administration policy. An
+incoming Administration should ensure that Assistant Secretary and Deputy Assis-
+tant Secretary positions are staffed by appointees as quickly as possible.
+Enforcement and Compliance. Strong enforcement of trade agreements is
+an indispensable function of the ITA carried out by Enforcement & Compliance
+(E&C). Free and fair trade is impossible without energetic enforcement of existing agreements and without strong defense against dumping and illegal subsidies.
+
+Many free trade advocates consider antidumping and countervailing duty laws
+(AD/CVD) to be protectionist and thus antithetical to the conservative free market
+position. In their view, AD/CVD laws are overused, abused by certain industries,
+and harmful to American economic competitiveness by increasing costs to down-
+stream industries.
+
+Other conservatives maintain that AD/CVD tariffs are not conventional tariffs,
+but rather corrective actions meant to address anti-free market activities by other
+governments—a scalpel, not a hammer. In the short term, this may mean higher
+costs for U.S. businesses and consumers on a limited number of products from cer-
+tain offending countries, but those higher prices correct existing price distortions
+in the marketplace and ultimately ensure the healthy operation of market forces
+in the long term and a level playing field for U.S. manufacturers.
+
+Whatever the case, improvements to the current system must be made to both
+protect U.S. consumers and companies from improperly applied duties and defend
+against trade-distorting actions by other governments. Procedures governing the
+day-to-day administration of proceedings, as well as policies driving critical deci-
+sions in proceedings, require a fresh look. Ultimately, E&C’s mandate is to conduct
+a rigorous but also fair, objective, and balanced review of the record in each pro-
+ceeding and to make decisions without bias.
+
+It is exceedingly unlikely that Congress would abolish or limit the activity of
+E&C. Therefore, the proposals below are made under the assumption that an
+incoming Administration will operate E&C within its current legal, institutional,
+and political confines and set a path forward to wield E&C’s considerable power to
+achieve the goals of a conservative Administration. These proposals can be broken
+into three categories: process, policy, and addressing China.
+Process
+
+
+Accelerate front-end work on reviews as opposed to constantly pushing
+against statutory deadlines.
+Work with Customs and Border Protection (CBP) and other relevant
+agencies to address circumvention and duty evasion, and promote policies
+that encourage full duty collection to ensure the integrity of AD/CVD and
+circumvention orders.
+Work with CBP, the Department of Justice, the Department of Treasury,
+and other relevant agencies to aggressively pursue importers of record and
+other beneficiaries for unpaid duties, and consider policy changes to reduce
+uncollected duties in the future.
+Work, pursuant to the above, with interagency partners in AD/CVD cases to
+either require foreign importers of record (IORs) to make cash deposits far in
+excess of established duty rates at the time of entry of AD/CVD merchandise,
+require IORs to register sufficient U.S. assets to ensure timely payment of
+duties, or otherwise prohibit IORs from importing AD/CVD merchandise.
+Conduct a regulatory capture audit and put guardrails in place to address
+improper exercise of bureaucratic prerogative.
+Policy
+
+
+Ensure senior policy and decision-making positions are always held by
+political appointees.
+Reverse the practice of giving the benefit of the doubt to foreign companies
+versus U.S. companies in AD/CVD proceedings.
+Establish a policy for addressing companies that invest heavily in the U.S.
+and thus have large import volumes, exposing them to AD/CVD petitions.
+Establish an effective, fair, and objective process for self-initiation of AD/
+CVD proceedings when industry lacks the resources or ability to act.
+Addressing China
+lRevive the China-specific non-market economy unit.
+lProvide transparency in the surrogate country list development process.
+
+
+Develop a new methodology to determine normal values in Chinese anti-
+dumping cases because—given China’s size, economic might, and state
+intervention in the economy—there is no comparable surrogate country to
+use as a proxy for production costs.
+
+
+In addition to these changes, continued support for steel and aluminum market
+analysis and import monitoring remains crucial to the U.S. defense industrial base
+and the health of global manufacturing. Without these functions, it is difficult to
+address massive subsidization, overcapacity, and dumping by China.
+Industry and Analysis. Industry and Analysis (I&A) consists of a team of econ-
+omists and industry experts that provides important analysis to partners across
+the government, including the White House and USTR, as well as the public.
+As the Department of Commerce’s Committee on Foreign Investments in the
+United States (CFIUS) lead, I&A performs crucial work to ensure that the proper
+economic impact/supply chain analysis is brought to national security risk assess-
+ments. This analysis is needed for CFIUS to be an effective tool in preventing China
+and other adversaries from exploiting the U.S.’s open investment climate.
+
+I&A also provides impact assessments and economic modeling for policy
+options under Administration consideration; plays a critical role in identifying
+trade barriers and providing industry-specific expertise for USTR during free trade
+agreement (FTA) negotiations; and does indispensable work ensuring cross-bor-
+der data flows, particularly with Europe, remain open and relatively unrestricted.
+However, outside of these functions, implementation of I&A’s mission as an
+intellectual engine for U.S. trade and investment policy can often lack energy and
+focus. For instance, the Top Market Reports that represent a large volume of I&A
+work do not serve a specific strategic function and could be better replaced by
+industry competitiveness assessments in critical sectors of the economy.
+
+Strong and capable leadership is needed in I&A to ensure Administration pri-
+orities permeate the organization and that staff support Administration priorities.
+I&A produces a mandatory report to Congress regarding the Miscellaneous Tariff
+Bill, which focuses solely on U.S. capacity in the goods being considered for tariff
+exclusions and does not include highly relevant information on capacity among
+FTA partners and close allies. The resulting final report has thus been used to lobby
+for tariff reductions on thousands of imports from China without concern for any
+other factors. This lack of priority given to FTA partners is troubling.
+Going forward, I&A should be permanently restructured to perform supply-chain
+analysis on an ongoing basis for the U.S. government, identifying potential vulner-
+abilities like those exposed by the pandemic and resulting shortages in everything
+from semiconductors to baby formula. Furthermore, permanent standing teams
+should be established and staffed by properly aligned political appointees and trusted
+career staff to analyze and spur action on the following priority policy issues:
+
+lStrategic decoupling from China;
+lDefense industrial base strength;
+lCritical supply chains (e.g., pharmaceuticals, medical devices, food); and
+
+
+Emerging technologies (e.g., rare earth minerals, semiconductors, batteries,
+artificial intelligence, quantum computing).
+
+Global Markets and the U.S. and Foreign Commercial Service. For more
+than a decade, strategic planning at Global Markets (GM) and the U.S. and For-
+eign Commercial Service (CS) has been consistently undermined by increased
+costs associated with overseas staff and flat or reduced budgets. The Trump
+Administration introduced crucial, long-overdue business practices such as the
+implementation of software to manage and track workflow, but a further strategic
+overhaul of resource allocation is needed to set GM and the CS on a firm footing.
+Currently, CS manages staff spread over 106 domestic offices in 77 countries
+around the world. Abroad, several “partner posts” utilize interagency staff and
+regionally located CS officials to offer services without a permanent physical
+in-country CS presence. Given the rapidly rising costs imposed by the State Depart-
+ment on CS posts overseas, a drastic expansion of this model is likely needed.
+CS resources should be distributed according to the following set of priorities:
+lValue in countering the malign influence of adversaries, particularly China;
+lValue in fostering U.S. innovation;
+lValue in maintaining access to critical supply chains and technology;
+
+
+Difficulty for U.S. companies in gaining market access without CS
+involvement; and
+Potential untapped export market size and likelihood of expansion.
+Ultimately, difficult decisions must be made about the value of CS posts and
+whether individual posts can be justified given current resources and the above
+criteria. If the State Department deems the diplomatic value of a permanent
+in-country CS post to be vital to the national interest, then State should bear more
+of the cost of maintaining that post.
+Global Markets should also consolidate and elevate the Advocacy Center and
+SelectUSA as relatively low-cost tools to drive large-scale export transactions and foreign direct investment (FDI). SelectUSA is a low-cost and effective tool in
+attracting FDI to the U.S. and to re-shore manufacturing and research and devel-
+opment. In a world in which corruption is rampant, these are among the most
+effective tools in leveling the playing field for U.S. communities and companies
+seeking to engage with governments and potential overseas investors.
+Given the value placed on senior-level engagement by many governments and
+companies, this consolidated Office of Trade and Investment Advocacy should be
+headed by a Deputy Assistant Secretary. The new office should also seek congres-
+sional authorization to utilize its FDI-promotion tools to encourage reshoring by
+U.S. businesses.
 

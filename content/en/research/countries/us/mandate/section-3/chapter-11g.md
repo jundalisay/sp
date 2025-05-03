@@ -1,57 +1,40 @@
 ---
 title: "Additional K–12 Reforms"
 date: 2024-11-01
-description: ""
+description: "States should be able to opt out of federal education programs such as the Academic Partnerships Lead Us to Success (APLUS) Act."
 c: "firebrick"
 icon: "US"
+weight: 30
 ---
 
 
 
-Allowing States to Opt Out of Federal Education Programs. States should
-be able to opt out of federal education programs such as the Academic Partnerships
-Lead Us to Success (APLUS) Act. Much of the red tape and regulations that hinder
-local school districts are handed down from Washington. This regulatory burden
-far exceeds the federal government’s less than 10 percent financing share of K–12
-education. In the most recent fiscal year (FY 2022), states and localities financed
-93 percent of K–12 education costs, and the federal government just 7 percent.
-That 7 percent share should not allow the federal government to dictate state and
-local education policy.
+## Allowing States to Opt Out of Federal Education Programs
 
-HIGHER EDUCATION REFORM
+States should be able to opt out of federal education programs such as the Academic Partnerships Lead Us to Success (APLUS) Act. 
 
-HEA: Accreditation Reform
+Much of the red tape and regulations that hinder local school districts are handed down from Washington. 
 
-Congress established two primary responsibilities for the U.S. Department
-of Education in the HEA: 1) to ensure the “administrative capacity and financial
-responsibility” of colleges and universities that accept Title IV funds; and 2) to
-ensure the quality of those institutions. Congress did not endow the Department
-of Education with the authority to involve itself in academic quality issues relating
-to colleges and universities that participate in the Title IV student aid program;
-the HEA allows the agency only to recognize accreditors, which are then supposed
-to provide quality assurance measures.
+This regulatory burden far exceeds the federal government’s less than 10 percent financing share of K–12 education. In the most recent fiscal year (FY 2022), states and localities financed 93 percent of K–12 education costs, and the federal government just 7 percent. That 7 percent share should not allow the federal government to dictate state and local education policy.
 
 
-Unfortunately, the Biden Administration has followed closely in the footsteps
-of the Obama Administration by engaging in a politically motivated and incon-
-sistent administration of the accrediting agency recognition process. As a result,
-accreditors have transformed into de facto government agents. Despite claims by
 
-To restore state and local control of education and reduce the
-bureaucratic and compliance burden, Congress should allow states to
-opt out of the dozens of federal K–12 education programs authorized
-under the Elementary and Secondary Education Act, and instead
-allow states to put their share of federal funding toward any lawful
-education purpose under state law. This policy has been advanced over
-the years via a proposal known as the Academic Partnerships Lead Us to
-Success (APLUS) Act.
+## Higher Education Reform
 
-the department and accreditation agencies that accreditation is voluntary, the
+### HEA: Accreditation Reform
+
+Congress established two primary responsibilities for the U.S. Department of Education in the HEA: 1) to ensure the “administrative capacity and financial responsibility” of colleges and universities that accept Title IV funds; and 2) to ensure the quality of those institutions. 
+
+Congress did not endow the Department of Education with the authority to involve itself in academic quality issues relating to colleges and universities that participate in the Title IV student aid program; the HEA allows the agency only to recognize accreditors, which are then supposed to provide quality assurance measures.
+
+Unfortunately, the Biden Administration has followed closely in the footsteps of the Obama Administration by engaging in a politically motivated and incon- sistent administration of the accrediting agency recognition process. As a result, accreditors have transformed into de facto government agents. Despite claims by the department and accreditation agencies that accreditation is voluntary, the
 fact that Americans are denied access to an otherwise widely available entitle-
 ment benefit if the institution “elects” to not be accredited makes accreditation
 anything but voluntary. Today, accreditation determines whether Americans can
 access federal student aid benefits, transfer academic credits, enroll in higher-level
 degree programs, and even qualify for federal employment.
+
+To restore state and local control of education and reduce the bureaucratic and compliance burden, Congress should allow states to opt out of the dozens of federal K–12 education programs authorized under the Elementary and Secondary Education Act, and instead allow states to put their share of federal funding toward any lawful education purpose under state law. This policy has been advanced over the years via a proposal known as the Academic Partnerships Lead Us to Success (APLUS) Act.
 
 Unnecessarily focused on schools in a specific geographic region, institutional
 accreditation reviews have also become wildly expensive audits by academic “peers”
@@ -85,23 +68,15 @@ governance of state-supported educational institutions.
 Protect faith-based institutions by prohibiting accreditation
 agencies from:
 
-1.
-Requiring standards and criteria that undermine the religious
-beliefs of, or require policies or conduct that conflict with, the
-religious mission or religious beliefs of the institution; and
-— 352 —Department of Education
-2. Intruding on the governance of colleges and universities
-controlled by a religious organization.
+1. Requiring standards and criteria that undermine the religious beliefs of, or require policies or conduct that conflict with, the religious mission or religious beliefs of the institution; and
 
-Revamp the system for recognizing accreditation agencies for Title
-IV purposes by removing the department’s monopoly on recognition
-by (1) authorizing states to recognize accreditation agencies for
-Title IV gatekeeping purposes and/or (2) authorizing state agencies
-to act as accreditation agencies for institutions throughout the
-United States.
+2. Intruding on the governance of colleges and universities controlled by a religious organization.
 
-HEA: Student Loans
-l
+Revamp the system for recognizing accreditation agencies for Title IV purposes by removing the department’s monopoly on recognition by (1) authorizing states to recognize accreditation agencies for Title IV gatekeeping purposes and/or (2) authorizing state agencies to act as accreditation agencies for institutions throughout the United States.
+
+
+## HEA: Student Loans 
+
 Beyond immediate policy moves and rulemaking to end the current
 Administration’s abuse of the department’s payment pause and
 HEA loan forgiveness programs, the department should work with

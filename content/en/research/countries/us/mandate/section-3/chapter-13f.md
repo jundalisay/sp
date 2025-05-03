@@ -1,5 +1,5 @@
 ---
-title: "American Indian Office (aio)"
+title: "American Indian Office (AIO)"
 date: 2024-11-01
 description: ""
 c: "firebrick"
@@ -8,28 +8,14 @@ icon: "US"
 
 
 
-AIO is a vital EPA function. It is mandated to carry out a 1992 act of Congress
-that administers the Indian Environmental General Assistance Program.51 Because
-of the sovereign-to-sovereign relationship between the U.S. government and fed-
-erally recognized sovereign Indian nations, this act’s purpose is to assist tribes
-in developing the capacity to manage their own tribal environmental protection
-programs and set them up to implement programs for the management of solid
-and hazardous waste. This office also is the chief office under which the EPA’s 1984
-Indian Policy functions.
+AIO is a vital EPA function. It is mandated to carry out a 1992 act of Congress that administers the Indian Environmental General Assistance Program.51 Because of the sovereign-to-sovereign relationship between the U.S. government and fed- erally recognized sovereign Indian nations, this act’s purpose is to assist tribes in developing the capacity to manage their own tribal environmental protection programs and set them up to implement programs for the management of solid and hazardous waste. This office also is the chief office under which the EPA’s 1984 Indian Policy functions.
 
 
 #### Needed Reforms
 
-AIO should be significantly elevated as a stand-alone EPA Assistant Admin-
-istrator office. This would send a clear message to American Indians and Alaska
-Native Villages that the agency takes seriously the environmental issues plaguing
-Indian Country. While designated a “headquarters” office with direct reporting
-to the Administrator, its location should be in the American West, closer to most
-tribal nations. This could include Oklahoma City, Oklahoma; Dallas, Texas; or
-Denver, Colorado. The state of Oklahoma is considered the tribal center of Amer-
-ica and is home to 39 federally recognized tribes, including the “Five Civilized
-Tribes.” The other two options are also close to numerous tribes and home to EPA
-regional offices.
+AIO should be significantly elevated as a stand-alone EPA Assistant Administrator office.
+
+This would send a clear message to American Indians and Alaska Native Villages that the agency takes seriously the environmental issues plaguing Indian Country. While designated a “headquarters” office with direct reporting to the Administrator, its location should be in the American West, closer to most tribal nations. This could include Oklahoma City, Oklahoma; Dallas, Texas; or Denver, Colorado. The state of Oklahoma is considered the tribal center of Amer- ica and is home to 39 federally recognized tribes, including the “Five Civilized Tribes.” The other two options are also close to numerous tribes and home to EPA regional offices.
 
 
 #### New Policies
@@ -156,11 +142,12 @@ Do not allow public events at which the agency puts forth its legal position
 unless they are specifically approved (for example, agency webinars on
 sensitive issues).
 
-Budget
+
+### Budget
 
 OGC’s budget will increase with consolidation of FTE funding that follows attor-
 neys who come from other EPA offices.
-l
+
 Reassess duplicative skill sets with the consolidation and allow for
 attrition if needed.
 

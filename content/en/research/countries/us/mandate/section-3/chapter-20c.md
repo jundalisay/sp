@@ -1,15 +1,13 @@
 ---
-heading: Foreword 2
-title: "Promise #3: Defend Our Nation’s Sovereignty, Borders, And Bounty Against Global Threats"
-weight: 2
+title: "VETERANS BENEFITS ADMINISTRATION (VBA)"
+heading: Chapter 20c
+weight: 200
 # date: 2023-06-17
 description: "Heritage Foundation"
 c: "firebrick"
 ---
 
 
-
-VETERANS BENEFITS ADMINISTRATION (VBA)
 
 Needed Reforms
 

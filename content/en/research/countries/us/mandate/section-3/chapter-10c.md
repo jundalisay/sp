@@ -1,180 +1,192 @@
 ---
-title: "Return To The Original Purpose Of School Meals"
+title: "Recommendations for the Department of Agriculture"
 date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "US"
+weight: 10
+author: "Daren Bakst"
 ---
 
 
-Federal meal programs for K–12 students were created to provide food to children from low-income families while at school.81 Today, however, federal school meals increasingly resemble enti- tlement programs that have strayed far from their original objective and represent an example of the ever-expanding federal footprint in local school operations. 
 
-The NSLP and SBP are the two largest K–12 meal programs provided by federal taxpayer money. The NSLP launched in 1946 and the SBP in 1966, both as options specifically for children in poverty.82 During the COVID-19 pandemic, federal policymakers temporarily expanded access to school meal programs, but some lawmakers and federal officials have now proposed making this expansion per- manent.83 Yet even before the pandemic, research found that federal officials had already expanded these programs to serve children from upper-income homes, and these programs are rife with improper payments and inefficiencies.
+### Remove the U.S. from any association with U.N. and sustainable-development food production schemes.
 
-Heritage Foundation research from 2019 found that after the enactment of the Community Eligibility Provision (CEP) in 2010, the share of students from middle- and upper-income homes receiving free meals in states that participated in CEP doubled, and in some cases tripled—all in a program meant for children from families with incomes at or below 185 percent of the federal poverty line (Children from homes at or below 130 percent of the federal poverty line are eligible for free lunches, while students from families at or below 185 percent of poverty are eligible for reduced-priced lunches).84
+Defend American agriculture and advance the critical importance of efficient and innovative food production, especially to advance safe and affordable food.
 
-Under CEP, if 40 percent of students in a school or school district are eligible for federal meals, all students in that school or district can receive free meals. However, the USDA has taken it even further, improperly interpreting the law85 to allow a subset of schools within a district to be grouped together to reach the 40 percent threshold, As a result, a school with zero low-income students could be grouped together with schools with high levels of low-income students, and as a result all the students in the schools within that group (even schools without a single low-in- come student) can receive free federal meals.86 Schools can direct resources meant for students in poverty to children from wealthier families.
+Stress that ideal policy should remove obstacles imposed on American
+farmers and individuals across the food supply chain so that they can meet
+the food needs of Americans.
 
-Furthermore, the NSLP and SBP are among the most inaccurate federal
-programs according to PaymentAccuracy.gov, a project of the U.S. Office of Man-
-agement and Budget and the Office of the Inspector General.87 Before federal
-auditors reduced the rigor of annual reporting requirements in 2018, the NSLP
-had wasted nearly $2 billion in taxpayer resources through payments provided to
-ineligible recipients.88 Even after the auditing changes, which the U.S. Government
+Clarify the critical importance of efficiency to food affordability, and why a
+failure to recognize this fact especially hurts low-income households who
+spend a disproportionate share of after-tax income on food compared to
+higher-income households.23
 
-Accountability Office said results in the USDA not “regularly assess[ing] the pro-
-grams’ fraud risks,” the NSLP wasted nearly $500 million in FY 2021.89 The SBP
-now wastes nearly $200 million annually.90
+To accomplish these objectives, a new Administration should announce its
+principles through an executive order, the USDA should remove all references to transforming the food system on its web site and other department-disseminated material, and it should expressly and regularly communicate the
+principles informing the objectives listed above, as well as promote these prin-
+ciples through legislative efforts. The USDA should also carefully review existing
+efforts that involve inappropriately imposing its preferred agricultural practices
+onto farmers.
 
-Despite the ongoing effort to expand school meals under CEP and the evidence of waste and inefficiency, left-of-center Members of Congress and President Biden’s Administration have nonetheless proposed further expansions to extend federal school meals to include every K–12 student—regardless of need.91 The Administra- tion recently proposed expanding federal school meal programs offered during the school year to be offered during the summer as part of the “American Families Plan,” and also proposed expanding CEP. Other federal officials, including Senator Bernie Sanders (I–VT), have, in recent years, proposed expanding the NSLP to all students.92 To serve students in need and prevent the misuse of taxpayer money, the next Administration should focus on students in need and reject efforts to transform federal school meals into an entitlement program.
 
-Specifically, the next Administration should:
+### Proactively Defend Agriculture
 
-Work with lawmakers to eliminate CEP. The NSLP and SBP should be directed to serve children in need, not become an entitlement for students from middle- and upper-income homes. Congress should eliminate CEP. Further, the USDA should not provide meals to students during the summer unless students are taking summer-school classes. Currently, students can get meals from schools even if they are not in summer school, which has, in effect, turned school meals into a federal catering program.93 Restore programs to their original intent and reject efforts to create universal free school meals.
+From the outset, the next Administration should: Denounce efforts to place ancillary issues like climate change ahead of food productivity and affordability when it comes to agriculture. 
 
-The USDA should work with lawmakers to restore NSLP and SBP to their original goal of providing food to K–12 students who otherwise would not have food to eat while at school. Federal school meals should be focused on children in need, and any efforts to expand student eligibility for federal school meals to include all K–12 students should be soundly rejected. Such expansion would allow an inefficient, wasteful program to grow, magnifying the amount of wasted taxpayer resources. Reform Conservation Programs. Farmers, in general, are excellent stewards of the land, if not for moral or ethical considerations, then out of self-interest to
+Address the Abuse of CCC Discretionary Authority. With the exception of
+federal crop insurance, the Commodity Credit Corporation (CCC) is generally the
+means by which agricultural-related farm bill programs are funded. The CCC is a
+funding mechanism, which, in simple terms, has $30 billion a year at its disposal.24
+Section 5 of the Commodity Credit Corporation Charter Act (Charter Act)25
+gives the Secretary of Agriculture broad discretionary authority to spend “unused”
+CCC money. However, in general, past Agriculture Secretaries have not used this
+power to any meaningful extent. This changed dramatically during the Trump
+Administration, when this discretionary authority was used to fund $28 billion
+in “trade aid” to farmers, consisting primarily of the Market Facilitation Program.
+In 2020, this authority was used for $20.5 billion in food purchases and income
+subsidies in response to the COVID-19 pandemic.26
 
-Promulgate a rule properly interpreting CEP. The USDA should issue
-a rule that clarifies that only an individual school or a school district as a
-whole, not a subset of schools within a district, must meet the 40-percent
-criteria to be eligible for CEP. Education officials should be prohibited from
-grouping schools together.﻿
+At the time, critics warned that this use of the CCC, which in effect created a
+USDA slush fund, would lead future Administrations to abuse the CCC, such as
+by pushing climate-change policies.27 Predictably, this is precisely what the Biden
+Administration has done, using the discretionary authority to create programs
+out of whole cloth, arguably without statutory authority,28 for what it refers to as
+climate-smart agricultural practices.29
 
-make sure their land and—by extension, their livelihoods—remain intact. Farmers
-are often called the original conservationists.94
-When evaluating federal conservation programs, it is important to remember
-the importance of the land to farmers. In terms of USDA federal conservation
-programs, both the USDA’s Farm Service Agency (FSA) and Natural Resources
-Conservation Service (NRCS) oversee numerous programs.95
+The merits of the various programs funded through the CCC discretionary
+authority is not the focus of this discussion. The major problem is that the Secre-
+tary of Agriculture is empowered to use a slush fund. Billions of dollars are being
+used for programs that Congress never envisioned or intended.
 
-As a general matter, the next Administration should ensure that these programs address genuine and specific environmental concerns with a focus on currently existing environmental problems, not those that are speculative in nature. These conservation programs should have clearly identifiable goals, with the success or failure of these programs being directly measurable. Any assistance to farmers to take specific actions should not be provided unless the assistance will directly and clearly help to address a specific environmental problem. Further, any assistance to encourage farmers to engage in certain practices should only be provided if farmers would not have adopted the practices in the first place.
+Concern about this type of abuse is not new. In fact, from 2012 to 2017, Congress
+expressly limited the Agriculture Secretary’s discretionary spending authority
+under the Charter Act.30 And this was before the recent massive discretionary CCC
+spending occurred.
 
-There are specific issues that the next Administration should address. The Conservation Reserve Program,96 which is run by FSA, pays farmers to not farm some of their land. This program has recently received attention, as agricultural groups rightfully seek to farm without penalty voluntarily idled land, in light of the consequences to food prices of Russia invading Ukraine.97 There is also a need to reform USDA’s conservation easements. These easements are a powerful tool to incentivize long-term preservation of ecosystems while still allowing farmers to benefit economically. However, when farmers and ranchers sign conservation easements with the USDA, they can be enforced in perpetuity. Future generations, be they the descendants of the landowner or new residents, are bound by those conditions.
-
-Ecosystems and topography naturally change over time, but without legislative
-change, easement requirements will not.
-
-The next Administration should:
-
-Champion the elimination of the Conservation Reserve Program.
-Farmers should not be paid in such a sweeping way not to farm their land. If
-there is a desire to ensure that extremely sensitive land is not farmed, this
-should be addressed through targeted efforts that are clearly connected to
-addressing a specific and concrete environmental harm. The USDA should
-work with Congress to eliminate this overbroad program.
-
-Reform NRCS wetlands and erodible land compliance and appeals.
-Problematic NRCS overreach could be avoided entirely by removing its
-authority to prescribe specific practices on a particular farm operation in
-order to ensure continued eligibility to participate in USDA farm programs, and to require instead that each farm (as a function of eligibility) must have
-created a general best practices plan. Such a plan could be approved by the
-local county Soil and Water Conservation District (SWCD). The local SWCD
-commissioners are elected by their peers in each respective county and are
-better suited than the NRCS to provide guidance for farm operations in
-their respective jurisdictions.
-
-At a minimum, a new Administration should support legislation to divest
-more power to the states (and possibly local SWCDs) regarding erodible
-land and wetlands conservation.98
-
-Reform easements. The new Administration should, to the extent
-authorized by law, limit the use of permanent easements and
-collaborate with lawmakers to prohibit the USDA from creating new
-permanent easements.99
-
-Promote legislation that would allow state-inspected meat to be sold
-in interstate commerce. These barriers to the sale of meat and poultry
-from USDA-approved state-inspected facilities should be removed.
-Eliminate or Reform Marketing Orders and Checkoff Programs. Mar-
-keting orders and checkoff programs for agricultural commodities are similar in
-many ways. They both allow private actors within an industry to collaborate with
-the federal government to compel other competitors within an industry to fund the
-respective marketing order or checkoff program. There are currently 22 checkoff
-
-Other Major Issues and Specific Recommendations.
-
-Although the following
-issues have not been listed as “priority,” these issues are still extremely important,
-and the next Administration should address them.
-Only meat and poultry from federally inspected facilities can be sold in inter-
-state commerce.100 Even meat and poultry from USDA-approved state-inspected
-facilities may only be sold in intrastate commerce, with limited exceptions. 101
-This is despite the fact that states with USDA-approved inspection programs
-must meet and enforce requirements that are “at least equal to” those imposed
-under the Federal Meat and Poultry Products Inspection Acts and the Humane
-Methods of Slaughter Act of 1978.102 This is an unnecessary regulatory barrier
-that makes it difficult to get meat and poultry into interstate commerce to create
-more options for consumers and farmers. Legislation entitled the New Mar-
-kets for State-Inspected Meat and Poultry Act of 2021 would help to remove
-this obstacle.103
+The use of the discretionary power is a separation of powers problem, with
+Congress abrogating its spending power. This power is ripe for abuse—as could be
+expected with any slush fund—and it is a possible way to get around the farm bill
+process to achieve policy goals not secured during the legislative process.
 
 The next Administration should:
 
-programs,104 and they focus on research and promotion of commodities such as beef
-and eggs. Marketing orders cover research and promotion, but also cover issues
-such as quality regulations and volume controls. The latter issue, volume controls,
-is a means to restrict supply, which drives up prices for consumers. Fortunately,
-there are few active volume controls.105
+Refrain from using section 5 discretionary authority. The USDA can
+address this abuse on its own by following the lead of most Administrations
+and not using this discretionary authority.
 
-Marketing orders and checkoff programs are some of the most egregious pro-
-grams run by the USDA. They are, in effect, a tax—a means to compel speech—and
-government-blessed cartels. Instead of getting private cooperation, they are tools
-for industry actors to work with government to force cooperation.
+Promote legislative fixes to address abuse. Ideally, Congress would
+repeal the Secretary’s discretionary authority under section 5 of the Charter
+Act. There is no reason to maintain such authority. If Congress needs to
+spend money to assist farmers, it has legislative tools, including the farm bill
+and the annual appropriations process, to do so in a timely fashion. While
+not an ideal solution, Congress could also amend the Charter Act to require
+prior congressional approval through duly enacted legislation before any
+money is spent.
 
-The next Administration should:
+At a minimum, Congress should amend the Charter Act to:
 
-Reduce the number and scope of marketing orders and checkoff
-programs. The USDA should reject any new requests for marketing orders
-and checkoff programs to the extent authorized by law and eliminate
-existing programs when possible. While the programs work differently,
-there are often petition processes and other ways that make it difficult for
-affected parties to get rid of the marketing orders and checkoff programs,106
-and the USDA itself may not even be required to honor requests to
-terminate a program.107 The USDA should make the process easier. Further,
-the USDA should reject any effort to bring back volume controls to limit
-supplies of commodities.
+Prohibit the CCC from being used to assist parties beyond farmers and ranchers.
 
-Work with Congress to eliminate marketing orders and checkoff
-programs. These programs should be eliminated, and if industry actors
-want to collaborate, they should do so through private means, not using the
-government to compel cooperation.
+Clarify that spending is only to address problems that are temporary in
+nature and ensure that funding is targeted to address such problems.
+Tighten the discretion within section 5 and identify ways for improper
+application of the Charter Act to be challenged in court.
 
-Promote legislation that would require regular votes. There should
-be regular voting for parties subject to checkoff programs and marketing
-orders. For example, the voting should occur at least every five years, to
-determine whether a marketing order or checkoff program should continue.
-The USDA should be required to honor the results of such a vote. Through
-regular voting, parties can demonstrate their support for a marketing order
-or checkoff program and ensure that those administering them will be held
-accountable.
 
-Focus on Trade Policy, Not Trade Promotion. The USDA’s Foreign Agri-
-cultural Service (FAS) covers numerous issues, including “trade policy,” which
-is a reference to removing trade barriers, among other things, to ensure an envi-
-ronment conducive to trade.108 It also covers trade promotion.109 This includes
-programs like the Market Access Program110 that subsidizes trade associations, businesses, and other private entities to market and promote their products overseas. 
+### Reform Farm Subsidies
 
-FAS should play a proactive and leading role to help open upmarkets
-for American farmers and ranchers. There are numerous barriers, such as sani-
-tary and phytosanitary measures, blocking American agricultural products from
-gaining access to foreign markets.111 However, FAS should not help businesses and
-industries promote their exports, something these businesses and industries can
-and should do on their own.
-The next Administration should:
+Too often, agricultural policy becomes synonymous with farm subsidy policy. This is unfortunate, because making them synony- mous fails to recognize that agricultural policy covers a wide range of issues, including issues that are outside the proper scope of the USDA, such as environ- mental regulation.
 
-Push legislation to repeal export promotion programs. The USDA
-should work with Congress to repeal market development programs like the
-Market Access Program and similar programs.
+However, there is no question that farm subsidies are an important issue
+within agricultural policy that should be addressed by any incoming Adminis-
+tration. There are several principles that even subsidy supporters would likely
+agree upon, including the need to reduce market distortions. Subsidies should not
+influence planting decisions, discourage proper risk management and innovation,
+incentivize planting on environmentally sensitive land, or create barriers to entry
+for new farmers. Farm subsidies can lead to these market distortions and there-
+fore, it would hardly be controversial to ensure that any subsidy scheme should
+be designed to avoid such problems.
 
-Counter scare tactics and remove obstacles. The USDA should strongly
-counter scare tactics regarding agricultural biotechnology and adopt
-policies to remove unnecessary barriers to approvals and the adoption of
-biotechnology.
+The overall goal should be to eliminate subsidy dependence. Despite what
+might be conventional wisdom, many farmers receive few to no subsidies,31 with
+most subsidies going to only a handful of commodities. According to the Congres-
+sional Research Service (CRS), from 2014 to 2016, 94 percent of farm program Limit spending to directly help farmers and ranchers address issues due to unforeseen events not already covered by existing programs and that
+constitute genuine emergencies that must be addressed immediately.﻿
 
-Repeal the federal labeling mandate. The USDA should work with
-Congress to repeal the federal labeling law, while maintaining federal
-preemption, and stress that voluntary labeling is allowed.
-Use all tools available to remove improper trade barriers against
-agricultural biotechnology. The USDA should work closely with the Office
-of the United States Trade Representative to remove improper barriers
-imposed by other countries to block U.S. agricultural goods.
+support went to just six commodities—corn, cotton, peanuts, rice, soybeans, and
+wheat—that together account for only 28 percent of farm receipts.32 Although many
+farmers do not receive much in the way of subsidies, especially those in the areas
+of livestock and specialty crops (fruit, vegetable, and nuts),33 there are still a sig-
+nificant number of farmers growing row crops like corn and cotton that do receive
+significant farm subsidies.
+
+The primary subsidy programs include the Agriculture Risk Coverage (ARC)
+program,34 the Price Loss Coverage (PLC) program,35 and the federal crop insur-
+ance program.36 Farmers can participate on a crop-by-crop basis in the ARC
+program or the PLC program. These programs cover about 20 different crops.37 The
+ARC program protects farmers from what are referred to as “shallow” losses, pro-
+viding payments when their actual revenues fall below 86 percent of the expected
+revenues for their crops.38 The PLC program provides payments to farmers when
+commodity prices fall below a fixed, statutorily established reference price.39
+The federal crop insurance program is broader in scope than ARC and PLC,
+and in crop year 2019 covered 124 commodities.40 Farmers pay a portion of a
+premium to participate in the program. Taxpayers on average pay about 60 per-
+cent41 of the premium. As explained by CRS, “Revenue Protection was the most
+frequently purchased policy type in 2019, accounting for almost 70 [percent] of
+policies purchased.”42
+
+While there are certainly other subsidy programs besides ARC, PLC, and federal
+crop insurance, one program that deserves special mention is the federal sugar
+program. This program, unlike most other subsidy programs, intentionally tries
+to restrict supply43 and thereby drives up prices. The program costs consumers as
+much as $3.7 billion a year.44
+When it comes to reforming subsidy programs, the next Administration will
+primarily have to look to legislative solutions. The next Administration should
+champion legislation that would:
+
+Repeal the federal sugar program. The federal government should
+not be in the central planning business, and the sugar program is a prime
+example of harmful central planning. Its very purpose is to limit the sugar
+supply in order to increase prices. The program has a regressive effect, since
+lower-income households spend more of their money to meet food needs
+compared to higher income households.45
+
+Ideally, repeal the ARC and PLC programs. Farmers eligible to
+participate in ARC or PLC are generally already able to purchase federal
+crop insurance, policies that protect against shortfalls in expected revenue
+whether caused by lower prices or smaller harvests. The ARC program is
+especially egregious because farmers are being protected from shallow losses, which is another way of saying minor dips in expected revenue.
+This is hardly consistent with the concept of providing a safety net to help
+farmers when they fall on hard times. The Congressional Budget Office
+(CBO), in one of its options to reduce the federal deficit, has once again
+identified repealing all Title I farm programs, including ARC, PLC, and the
+federal sugar program.46
+
+Stop paying farmers twice for price and revenue losses during the
+same year. Farmers can receive support from the ARC or PLC programs
+and the federal crop insurance program to cover price declines and revenue
+shortfalls during the same year. Congress should prohibit this duplication by
+prohibiting farmers from receiving an ARC or PLC payment the same year
+they receive a crop insurance indemnity.
+
+CBO has found that reducing the premium subsidy to 47 percent would
+save $8.1 billion over 10 years and have little impact on crop insurance
+participation or on the number of covered acres.49 In that analysis, there
+would be a reduction in insured acres of just one-half of 1 percent, and
+only 1.5 percent of acres would have lower coverage levels. 50 This reform
+is basically all benefit with little to no cost. In its recently released report
+identifying options to reduce the federal deficit, CBO found that reducing
+the premium subsidy to 40 percent would save $20.9 billion over 10 years.51
+Beyond these legislative reforms, the next Administration should:
+
+Communicate to Congress the necessity of transparency and a genuine
+reform process. The White House and the USDA should make it very clear
+that the farm bill process, including reform of farm subsidies, must be con-
+ducted through an open process with time for mark-up and the opportunity
+for changes to be made outside the Agriculture Committee process.
+The farm bill too often is developed behind closed doors and without any
+chance for real reform. The White House, given the power of the bully pulpit,
+
+

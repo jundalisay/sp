@@ -4,115 +4,54 @@ date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "US"
+heading: Chapter 22b
+weight: 30
 ---
 
 
-Tax policy has a powerful impact on the economy. The Treasury Department
-should develop and promote tax reform legislation that will promote prosperity.
-To accomplish this, tax reform should improve incentives to work, save, and invest.
-This, in turn, is accomplished primarily by reducing marginal tax rates,13 reducing
-the cost of capital14 and broadening the tax base to eliminate tax-induced economic
-distortions by eliminating special-interest tax credits, deductions, and exclusions.
-Tax compliance costs will decline precipitously if the tax system is substantially
-simplified.15 The Treasury Department should also promote tax competition rather
-than supporting an international tax cartel.
+Tax reform should improve incentives to work, save, and invest by:
 
-Principles of Good Tax Policy. These are the principles governing
-good tax policy.
+- reducing marginal tax rates
+- reducing the cost of capital
+- broadening the tax base to eliminate tax-induced economic distortions by eliminating special-interest tax credits, deductions, and exclusions.
 
-First, the tax system should raise the revenue necessary to fund a limited
-government for constitutionally appropriate activities. It should raise this
-revenue such that it: (a) applies the least economically destructive forms of
+Tax compliance costs will decline precipitously if the tax system is substantially simplified.15 The Treasury Department should also promote tax competition rather than supporting an international tax cartel.
 
 
-The Alcohol and Tobacco Tax and Trade Bureau collects federal excise taxes
-on alcohol, tobacco, firearms, and ammunition, and is responsible for enforcing
-and administering laws covering the production, use, and distribution of alco-
-hol products.
+### Principles of Good Tax Policy. 
 
-The Internal Revenue Service is the largest of the department’s bureaus, account-
-ing for about 85 percent of Treasury’s personnel and about four-fifths of its
-appropriated budget. It administers and enforces U.S. tax laws.
-The Bureau of Engraving and Printing develops and produces U.S. currency notes.
-The Financial Crimes Enforcement Network (FinCEN) is designed to protect
-the financial system from illicit use. It also administers the beneficial ownership
-reporting regime mandated by the Corporate Transparency Act.12
-The Bureau of the Fiscal Service provides central payment services to federal
-program agencies, operates the U.S. government’s collections and deposit systems,
-provides government-wide accounting and reporting services, manages the collec-
-tion of delinquent debt owed to the U.S. government, borrows the money needed to
-operate the government through the sale of U.S. Treasury securities (including the
-state and local government series), and accounts for and services the public debt.
-The United States Mint designs and mints U.S. circulating and bullion coins.
-The Office of the Comptroller of the Currency (OCC) charters, regulates, and
-supervises national banks and federal savings associations (thrifts) to ensure that
-they operate in a safe and sound manner, provide fair access to financial services,
-and comply with applicable laws and regulations. The OCC also supervises fed-
-eral branches and agencies of foreign banks and has rulemaking authority for all
-savings associations.
+1. The tax system should raise the revenue necessary to fund a limited government.
 
-taxation;16 (b) has low tax rates on a broad, neutral tax base; (c) minimizes
-interference with the operation of the free market and free enterprise; and
-(d) minimizes the cost to taxpayers of compliance with and administration
-of the tax system.
+It should raise this revenue such that it:
+- (a) applies the least economically destructive forms of taxation
+- b) has low tax rates on a broad, neutral tax base
+- c) minimizes interference with the operation of the free market and free enterprise
+- d) minimizes the cost to taxpayers of compliance with and administration of the tax system.
 
 
-Second, the tax system should minimize its adverse impact on the family
-and the core institutions of civil society.
-Third, the tax system should be applied consistently—with special privileges
-for none—and respect taxpayer due process and privacy rights.
-The current tax system is inconsistent with these principles and needs to be
-reformed to promote prosperity, reduce compliance costs, and improve fairness.
-The incoming Administration should promote immediate intermediate reforms
-to the existing system. It should then pursue fundamental tax reform.
+2. The tax system should minimize its adverse impact on the family and the core institutions of civil society.
 
-Intermediate Tax Reform. The Treasury should work with Congress to sim-
-plify the tax code by enacting a simple two-rate individual tax system of 15 percent
-and 30 percent that eliminates most deductions, credits and exclusions. The 30
-percent bracket should begin at or near the Social Security wage base to ensure
-the combined income and payroll tax structure acts as a nearly flat tax on wage
-income beyond the standard deduction. The corporate income tax rate should
-be reduced to 18 percent. The corporate income tax is the most damaging tax in
-the U.S. tax system, and its primary economic burden falls on workers because
-capital is more mobile than labor.17 Capital gains and qualified dividends should
-be taxed at 15 percent. Thus, the combined corporate income tax combined with
-the capital gains or qualified dividends tax rate would be roughly equal to the top
-individual income tax rate.18 The system should allow immediate expensing for
-capital expenditures and index capital gains taxes for inflation.
+3.. The tax system should be applied consistently—with special privileges for none—and respect taxpayer due process and privacy rights.
 
-In addition, intermediate tax reform should repeal all tax increases that were
-passed as part of the Inflation Reduction Act,19 including the book minimum tax,
-the stock buyback excise tax, the coal excise tax, the reinstated Superfund tax, and
-excise taxes on drug manufacturers to compel them to comply with Medicare price
-controls. The next Administration should also push for legislation to fully repeal
-recently passed subsidies in the tax code, including the dozens of credits and tax
-breaks for green energy companies in Subtitle D of the Inflation Reduction Act.20
-Universal Savings Accounts. All taxpayers should be allowed to contribute
-up to $15,000 (adjusted for inflation) of post-tax earnings into Universal Savings
-Accounts (USAs). The tax treatment of these accounts would be comparable to
-Roth IRAs. USAs should be highly flexible to allow Americans to save and invest as
-they see fit, including, for example, investments in a closely held business. Gains
-from investments in USAs would be non-taxable and could be withdrawn at any time for any purpose. This would allow the vast majority of American families to
-save and invest without facing a punitive double layer of taxation.
-Entrepreneurship. To encourage entrepreneurship, the business loss limita-
-tion should be increased to at least $500,000. Businesses should also be allowed to
-fully carry forward net operating losses. Extra layers of taxes on investment and
-capital should also be eliminated or reduced. The net investment income surtax
-and the base erosion anti-abuse tax should be eliminated. The estate and gift tax
-should be reduced to no higher than 20 percent, and the 2017 tax bill’s temporary
-increase in the exemption amount from $5.5 million to $12.9 million (adjusted
-for inflation) should be made permanent.21 The tax on global intangible low-taxed
-income should be reduced to no higher than 12.5 percent, with the 20 percent
-haircut on related foreign tax credits reduced or eliminated.22
+The current tax system is inconsistent with these principles and needs to be reformed to promote prosperity, reduce compliance costs, and improve fairness.  The incoming Administration should promote immediate intermediate reforms to the existing system. It should then pursue fundamental tax reform.
 
-All non-business tax deductions and exemptions that were temporarily sus-
-pended by the 2017 tax bill should be permanently repealed, including the bicycle
-commuting expense exclusion, non-military moving expense deductions, and the
-miscellaneous itemized deductions.23 The individual state and local tax deduction,
-which was temporarily capped at $10,000, should be fully repealed. Deductions
-related to educational expenses should be repealed. Special business tax pref-
-erences, such as a special deduction for energy-efficient commercial building
-properties, should be eliminated.24
+
+### Intermediate Tax Reform.
+
+The Treasury should work with Congress to simplify the tax code by enacting a simple two-rate individual tax system of 15 percent and 30 percent that eliminates most deductions, credits and exclusions. The 30 percent bracket should begin at or near the Social Security wage base to ensure the combined income and payroll tax structure acts as a nearly flat tax on wage income beyond the standard deduction. 
+
+The corporate income tax rate should be reduced to 18 percent. The corporate income tax is the most damaging tax in the U.S. tax system, and its primary economic burden falls on workers because capital is more mobile than labor.17 Capital gains and qualified dividends should be taxed at 15 percent.
+
+Thus, the combined corporate income tax combined with the capital gains or qualified dividends tax rate would be roughly equal to the top individual income tax rate.18 The system should allow immediate expensing for capital expenditures and index capital gains taxes for inflation.
+
+In addition, intermediate tax reform should repeal all tax increases that were passed as part of the Inflation Reduction Act,19 including the book minimum tax, the stock buyback excise tax, the coal excise tax, the reinstated Superfund tax, and excise taxes on drug manufacturers to compel them to comply with Medicare price controls. The next Administration should also push for legislation to fully repeal recently passed subsidies in the tax code, including the dozens of credits and tax breaks for green energy companies in Subtitle D of the Inflation Reduction Act.20
+
+
+Universal Savings Accounts. All taxpayers should be allowed to contribute up to $15,000 (adjusted for inflation) of post-tax earnings into Universal Savings Accounts (USAs). The tax treatment of these accounts would be comparable to Roth IRAs. USAs should be highly flexible to allow Americans to save and invest as they see fit, including, for example, investments in a closely held business. Gains from investments in USAs would be non-taxable and could be withdrawn at any time for any purpose. This would allow the vast majority of American families to save and invest without facing a punitive double layer of taxation.
+
+Entrepreneurship. To encourage entrepreneurship, the business loss limitation should be increased to at least $500,000. Businesses should also be allowed to fully carry forward net operating losses. Extra layers of taxes on investment and capital should also be eliminated or reduced. The net investment income surtax and the base erosion anti-abuse tax should be eliminated. The estate and gift tax should be reduced to no higher than 20 percent, and the 2017 tax bill’s temporary increase in the exemption amount from $5.5 million to $12.9 million (adjusted for inflation) should be made permanent.21 The tax on global intangible low-taxed income should be reduced to no higher than 12.5 percent, with the 20 percent haircut on related foreign tax credits reduced or eliminated.22
+
+All non-business tax deductions and exemptions that were temporarily sus- pended by the 2017 tax bill should be permanently repealed, including the bicycle commuting expense exclusion, non-military moving expense deductions, and the miscellaneous itemized deductions.23 The individual state and local tax deduction, which was temporarily capped at $10,000, should be fully repealed. Deductions related to educational expenses should be repealed. Special business tax pref- erences, such as a special deduction for energy-efficient commercial building properties, should be eliminated.24
 
 Wages vs. Benefits. The current tax code has a strong bias that incentivizes
 businesses to offer employees more generous benefits and lower wages. This limits
@@ -122,20 +61,7 @@ ages. Wage income is taxed under the individual income tax and under the payroll
 tax. However, most forms of non-wage benefits are wholly exempt from both of
 these taxes.
 
-To reduce this tax bias against wages (as opposed to employee benefits), the
-next Administration should set a meaningful cap (no higher than $12,000 per year
-per full-time equivalent employee—and preferably lower) on untaxed benefits
-that employers can claim as deductions. Employee benefit expenses other than
-tax-deferred retirement account contributions should count toward the limita-
-tion, whether offered to specific employees or whether the costs relate to a shared
-benefit like building gym facilities for employees.25 Tax-deferred retirement con-
-tributions by employers should not count toward this limitation insofar as they
-are fully taxable upon distribution. Only a percentage of Health Savings Accounts
-(HSA) contributions (which are not taxed upon withdrawal) should count toward
-the limitation.26 The limitation on benefit deductions should not be indexed to
-increase with inflation.27 Employers should also be denied deductions for health
-insurance and other benefits provided to employee dependents if the dependents
-are aged 23 or older.
+To reduce this tax bias against wages (as opposed to employee benefits), the next Administration should set a meaningful cap (no higher than $12,000 per year per full-time equivalent employee—and preferably lower) on untaxed benefits that employers can claim as deductions. Employee benefit expenses other than tax-deferred retirement account contributions should count toward the limita- tion, whether offered to specific employees or whether the costs relate to a shared benefit like building gym facilities for employees.25 Tax-deferred retirement con- tributions by employers should not count toward this limitation insofar as they are fully taxable upon distribution. Only a percentage of Health Savings Accounts (HSA) contributions (which are not taxed upon withdrawal) should count toward the limitation.26 The limitation on benefit deductions should not be indexed to increase with inflation.27 Employers should also be denied deductions for health insurance and other benefits provided to employee dependents if the dependents are aged 23 or older.
 
 Fundamental Tax Reform. Achieving fundamental tax reform offers the
 prospect of a dramatic improvement in American living standards and an equally
@@ -172,7 +98,8 @@ a taxpayer-funded left-wing think tank and lobbying organization.32 The United
 States provides about one-fifth of OECD’s funding.33 The U.S. should end its finan-
 cial support and withdraw from the OECD.
 
-TAX ADMINISTRATION
+
+### TAX ADMINISTRATION
 
 The Internal Revenue Service is a poorly managed, utterly unresponsive and
 increasingly politicized agency, and has been for at least two decades. It is time for

@@ -1,5 +1,5 @@
 ---
-title: "TRADE THE CASE FOR FAIR TRADE"
+title: "Trade: The Case For Fair Trade"
 date: 2024-11-01
 description: ""
 c: "firebrick"

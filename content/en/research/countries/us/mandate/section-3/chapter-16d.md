@@ -1,202 +1,117 @@
 ---
-title: "Other Actions"
+title: "Immediate Actions: Alaska"
 date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "US"
+heading: Chapter 16c
+# weight:
 ---
 
 
-The 30 by 30 Plan.66 President Biden’s Executive Order 14008 (30 by 30
-plan)67 requires that the federal government, which already owns one-third of
-the country: (1) remove vast amounts of private property from productive use;
-and (2) end congressionally mandated uses of all federal land. The end result
-will be “total federal control of an additional 440 million acres of land or oceans
-in the U.S. by 2030.”68
+When Alaska was admitted to the Union in 1959, nearly its entire landmass was federally owned
 
-Revoke National Park Service and U.S. Fish and Wildlife Service rules
-regarding predator control and bear baiting, which are matters for state
-regulation. Such revocation is permitted under the 2017 Congressional
-Review Act.62
+So Alaska was granted the right to select 104 million acres (out of 375 million acres) to manage for the benefit of its residents.48 
 
-Although the new President should vacate that order, DOI under a conservative
-President must take immediate action on the 30 by 30 plan by vacating a secre-
-tarial order issued by the Biden DOI69 that eliminated the Trump Administration’s
-requirement for the approval of state and local governments before federal acquisi-
-tion of private property with monies from the Land and Water Conservation Fund.70
-National Monument Designations. 
+In less than eight years, Alaska selected 26 million acres. Then-Interior Secretary Stewart Udall—who served during the Kennedy and Johnson Administrations—put a freeze on further land selections to protect any claims that might be asserted by Native Alaskans.49 Alaska Native Claims Settlement Act. 
 
-As has every Democratic President before
-him beginning with Jimmy Carter, Joe Biden has abused his authority under the
-Antiquities Act of 1906. Like the outrageous, unilateral withdrawals from public use
-of multiple use federal land under the Carter, Clinton, and Obama Administrations,
-Biden’s first national monument was one in Colorado—adopted over the objections
-of scores of local groups and at least one American Indian tribe.71 In the days before
-the 2024 election, Biden will likely designate more western monuments.
-Although President Trump courageously ordered a review of national mon-
-ument designations, the result of that review was insufficient in that only two
-national monuments in one state (Utah) were adjusted.72 Monuments in Maine
-and Oregon, for example, should have been adjusted downward given the finding
-of Secretary Ryan Zinke’s review that they were improperly designated. The new
-Administration’s review will permit a fresh look at past monument decrees and
-new ones by President Biden.
+The discovery of oil at Prudhoe Bay in 1968 made resolution of the issue by Congress a matter of urgency. As a result, in 1971, Congress passed the Alaska Native Claims Settlement Act (ANCSA), which allowed the Native community to select 44 million acres.50
 
-Furthermore, the new Administration must vigorously defend the downward
-adjustments it makes to permit a ruling on a President’s authority to reduce the
-size of national monuments by the U.S. Supreme Court.
-Finally, the new Administration must seek repeal of the Antiquities Act of 1906,
-which permitted emergency action by a President long before the statutory author-
-ity existed for the protection of special federal lands, such as those with wild and
-scenic rivers, endangered specials, or other unique places. Moreover, in recent
-years, Congress has designated as national monuments those areas deserving of
-such congressional action.
+Environmentalists, upset that too much of the land they coveted would be selected
+by the state and Native Alaskans for development, demanded the inclusion in the act
+of a provision—Section 17(d)(2)—that ordered the Interior Secretary to withdraw 80
+million acres for future designation by Congress as parks, refuges, wild and scenic
+rivers, and national forests.51 The deadline for this congressional action was 1978,
+and as it neared, the Carter Administration, impatient and worried, decided to force
+Congress’s hand. The Administration unilaterally withdrew 100 million acres from
+any use by the state or Native Alaskans.52 Alaska promptly sued, charging that the
+Administration had failed to comply with the National Environmental Policy Act.53
+In a lame duck session at the end of 1980, Congress passed (over the objections of the Alaskan delegation) the Alaska National Interest Lands Conservation Act, which revoked all of the withdrawals of the Carter Administration and sub-
+stituted congressional designations that put 100 million acres permanently in
+federal enclaves, doubled the acreage of national parks and refuges, and tripled the
+amount of land declared to be wilderness.54 Through all of this, Alaska pressed for
+the DOI to convey the lands to which Alaska was entitled by federal law, but the
+department grudgingly transferred only portions of that land.
 
-Oregon and California Lands Act. One national monument worthy of downward adjustment is in Oregon, where its designation and subsequent expansion
-interfere with the federal obligation to residents to harvest timber on its BLM
-lands. A federal district court ruled in 2019 that land subject to the Oregon and
-California (O&C) Grant Lands Act of 193773 was set aside by Congress to be har-
-vested for the benefit of the people of Oregon. Specifically, those federal lands are
-to be “managed...for permanent forest production” and its timber “sold, cut, and
-removed in conformity with the princip[le] of sustained yield.”74
+By the time Ronald Reagan took office, Alaska had received less than half the
+lands to which it was entitled after its admission into the Union, and Native Alas-
+kans had received only one-third of the land due to them.55 From January of 1981
+through 1983, however, under Reagan, Alaska received 30 million acres and a com-
+mitment of land transfers at the rate of 13 million acres annually. In the same
+period, Native Alaskans received 11 million acres, which constituted nearly 60
+percent of their entitlement, and an additional 15 million acres were transferred
+by the end of 1988.56
 
-As the district court concluded,75 beginning in 1990, the federal government
-erected a trifecta of illegal barriers to the accomplishment of the congressional
-mandate, beginning with a response to the listing of the northern spotted owl,76
-continuing a decade later with the designation of the Cascade–Siskiyou National
-Monument,77 and concluding in 2017 with an expansion of that monument.78 In order to fulfill the yet-unaltered congressional mandate contained in federal law, to provide for jobs and well-paying employment opportunities in rural Oregon,
-and to ameliorate the effects of wildfires, the new Administration must immedi-
-ately fulfill its responsibilities and manage the O&C lands for “permanent forest
-production” to ensure that the timber is “sold, cut, and removed.”79
-NEPA Reforms. Congress never intended for the National Environmental
-Policy Act to grow into the tree-killing, project-dooming, decade-spanning mon-
-strosity that it has become. Instead, in 1970, Congress intended a short, succinct,
-timely presentation of information regarding major federal action that signifi-
-cantly affects the quality of the human environment so that decisionmakers can
-make informed decisions to benefit the American people.
+Despite the passage of nearly 40 years since the end of the Reagan Adminis-
+tration, the federal government has yet to fulfill its statutory obligation to Alaska
+and Alaska Natives—specifically, each group has 5 million acres of entitlement
+remaining. Standing in the way are Public Land Orders (PLOs) issued by the BLM
+seizing that land for the agency. Those PLOs must be lifted to permit Alaska and
+Alaska Natives to select what was promised by Congress.
 
-The Trump Administration adopted common-sense NEPA reform that must
-be restored immediately. Meanwhile, DOI should reinstate the secretarial orders
-adopted by the Trump Administration, such as placing time and page limits on
-NEPA documents and setting forth—on page one—the costs of the document itself.
-Meanwhile, the new Administration should call upon Congress to reform NEPA
-to meet its original goal. Consideration should be given, for example, to eliminat-
-ing judicial review of the adequacy of NEPA documents or the rectitude of NEPA
-decisions. This would allow Congress to engage in effective oversight of federal
-agencies when prudent.
+For example, revocation of PLO 515057 will provide the state of Alaska 1.3 million
+acres of its remaining state entitlement. This revocation should be a top priority.
+BLM recommended this revocation in the 2006 report to Congress based on the
+Alaska Land Transfer Acceleration Act, and the Interior Secretary has authority
+to revoke based on the Alaska Native Claims Settlement Act under section d(1).58
+All other remaining BLM PLOs—all of which are more than 50 years old—should
+be revoked immediately.
 
-Settlement Transparency. Interior Secretary David Bernhardt required DOI
-to prominently display and provide open access to any and all litigation settlements
-into which DOI or its agencies entered, and any attorneys’ fees paid for ending
-the litigation.80 Biden’s DOI, aware that the settlements into which it planned to
-enter and the attorneys’ fees it was likely to pay would cause controversy, ended
-this policy.81 A new Administration should reinstate it.
+Alaska has untapped potential for increased oil production, which is important
+not just to the revitalization of the nation’s energy sector but is vital to the Alaskan
+economy. One-quarter of Alaska’s jobs are in the oil industry, and half of its overall
+economy depends on that industry. Without oil production, the Alaskan economy
+would be half its size.
 
-The Endangered Species Act. The Endangered Species Act was intended
-to bring endangered and threatened species back from the brink of extinction
-and, when appropriate, to restore real habitat critical to the survival of the spe-
-cies. The act’s success rate, however, is dismal. Its greatest deficiency, according
-to one renowned expert, is “conflict of interest.”82 Specifically, the work of the
-Fish and Wildlife Service is the product of “species cartels” afflicted with group-
-think, confirmation bias, and a common desire to preserve the prestige, power,
-and appropriations of the agency that pays or employs them. For example, in one
-highly influential sage-grouse monograph, 41 percent of the authors were federal
-workers. The editor, a federal bureaucrat, had authored one-third of the paper.83
-Meaningful reform of the Endangered Species Act requires that Congress
-take action to restore its original purpose and end its use to seize private prop-
-erty, prevent economic development, and interfere with the rights of states over
-their wildlife populations. In the meantime, a new Administration should take the
-following immediate action:
+A new Administration must take the following actions immediately:
 
-Delist the grizzly bear in the Greater Yellowstone and Northern
-Continental Divide Ecosystems and defend to the Supreme Court of the
-United States the agency’s fact-based decision to do so.84
-Delist the gray wolf in the lower 48 states in light of its full recovery
-under the ESA.85
-Cede to western states jurisdiction over the greater sage-grouse,
-recognizing the on-the-ground expertise of states and preventing use
-of the sage-grouse to interfere with public access to public land and
-economic activity.
+Approve the 2020 National Petroleum Reserve Alaska Integrated Activity
+Plan (NPRA-IAP) by resigning the Record of Decision. (Secretary Haaland’s
+order reverted to the 2013 IAP, the science for which is out of date, unlike
+the 2020 IAP.)
 
-Direct the Fish and Wildlife Service to end its abuse of Section 10( j) of the
-ESA by re-introducing so-called “experiment species” populations into
-areas that no longer qualify as habitat and lie outside the historic ranges
-of those species, which brings with it the full weight of the ESA in areas
-previously without federal government oversight.86
-Direct the Fish and Wildlife Service to design and implement an impartial
-conservation triage program by prioritizing the allocation of limited
-resources to maximize conservation returns, relative to the conservation
-goals, under a constrained budget.87
+Reinstate the 2020 Arctic National Wildlife Refuge Environmental Impact
+Statement (EIS) by secretarial order and lift the suspension of the leases.
+Approve the 2020 Willow EIS, the largest pending oil and gas projection in
+the United States in the National Petroleum Reserve-Alaska, and expand
+approval from three to five drilling pads.59
 
-Direct the Fish and Wildlife Service to make all data used in ESA decisions
-available to the public, with limited or no exceptions, to fulfill the public’s
-right to know and to prevent the agency’s previous opaque decision-making.
-Abolish the Biological Resources Division of the U.S. Geological Survey
-and obtain necessary scientific research about species of concern from
-universities via competitive requests for proposals.
-Direct the Fish and Wildlife Service to: (1) design and implement an
-Endangered Species Act program that ensures independent decision-
-making by ending reliance on so-called species specialists who have
-obvious self-interest, ideological bias, and land-use agendas; and (2) ensure
-conformity with the Information Quality Act.88
+Minerals. Alaska is not just blessed with an abundance of oil, it has vast
+untapped mineral potential. Therefore, the new Administration must immedi-
+ately approve the Ambler Road Project60 across BLM-managed lands, pursuant
+to the Secretary’s authority under the ANILCA and based on the Final Envi-
+ronmental Impact Statement on the project.61 This will permit construction of
+a new 211-mile roadway on the south side of the Brooks Range, west from the
+Dalton Highway to the south bank of the Ambler River, and open the area only
+to mining-related industrial uses, providing high-paying jobs in an area known
+for unemployment.
 
-Office of Surface Mining. The Office of Surface Mining Reclamation and
-Enforcement (OSM) was created by the Surface Mining Control and Reclamation
-Act of 1977 (SMCRA)89 to administer programs for controlling the impacts of surface
-coal mining operations. Although the coal industry is contracting, coal constitutes 20 percent of the nation’s electricity and is a mainstay of many regional economies.
-The following actions should ensure OSM’s ability to perform its mission while com-
-plying with SMCRA and without interfering with the production of high-quality
-American coal:
 
-Reduce the number of field coal-reclamation inspectors to recognize the
-industry is smaller.
-Reissue Trump’s Schedule F executive order to permit discharge of
-nonperforming employees.91
+Wildlife and Waters. Throughout Alaska’s history, the federal government
+has treated Alaska as less than a sovereign state. This is especially the case when
+it comes to two of Alaska’s most valued resources, its wildlife and its waters.
+Immediate action is required to end, at least in part, this injustice. A new Admin-
+istration should:
 
-Permit coal company employees to benefit from the OSM Training
-Program, which is currently restricted to state and federal employees.
-Revise the Applicant Violator System, the nationwide database for the
-federal and state programs, to permit federal and state regulators to
-consider extenuating circumstances.
+Recognize Alaska’s authority to manage fish and game on all federal lands
+in accordance with ANILCA as during the Reagan Administration, when
+each DOI agency in Alaska signed a Memorandum of Understanding with
+the Alaska Department of Fish and Game ceding to the state the lead on fish
+and wildlife management matters.63
 
-Maintain the current “Ten-Day Notice” rule, which requires OSM to work
-with state regulators in determining if a SMCRA violation has taken place in
-recognition of the fact that a coal mining state with primacy has the lead in
-implementing state and federal law.
-
-Preserve Directive INE-26, which relates to approximate original contour,
-a critical factor in permitting efficient and environmentally sound surface
-mining, especially in Appalachia.92
-
-Western Water Issues. The American West, from the Great Plains to the Cas-
-cades Range, is arid, as recognized by John Wesley Powell during his famous trip
-across a large part of its length. Pursuant to an Executive Order signed by President
-Trump, and consistent with its authority along with other federal agencies, DOI’s
-Bureau of Reclamation must take the following actions:
-l
-Develop additional storage capacity across the arid west, including by:
-1.
-Updating dam water control manuals for existing facilities during
-routine operations; and
-
-Relocate the OSM Reclamation and Enforcement headquarters to
-Pittsburgh, Pennsylvania, to recognize that the agency is field-driven and
-should be headquartered in the coal field.90
-
-2. Engaging in real-time monitoring of operations.
-
-Reduce bureaucratic inefficiencies by consolidating federal water
-working groups.
-Implement actions identified in the Federal Action Plan for Improving Fore-
-casts of Water Availability,93 especially by adopting improvements related to:
-1.
-Forecast Informed Reservoir Operations; and
-
-2. Arial Snow Observation Systems.
-
-Clarify the Water Infrastructure Finance and Innovation Act94 to ensure
-consistent application with other federal infrastructure loan programs
-under the Federal Credit Reform Act. This should be done to foster
-opportunities for locally led investment in water infrastructure.
-Reinstate Presidential Memorandum on Promoting the Reliable Supply
-and Delivery of Water in the West.95
+Issue a secretarial order declaring navigable waters in Alaska to be owned
+by the state so that the lands beneath these waters belong to Alaska. This
+will force the BLM to prove that water is not navigable, since in the case of
+non-navigability, any submerged lands belong to the BLM. Currently, BLM
+requires Alaska to prove navigability at its own expense—including the
+BLM’s preposterous assertion that the mighty Yukon River is non-navigable.
+Reinstate President Trump’s 2020 Alaska Roadless Rule64 for the Tongass
+National Forest in Alaska, which was replaced by a Biden Roadless Rule
+that continues a 2001 Clinton rule affecting 9.37 million of the forest’s 16.7
+million acres.65 The Clinton rule affects an area where communities are in
+small islands with no road access. It has prevented multiple infrastructure
+projects, including roads, electric transmission lines, and water and sewer
+projects, and it forces residents to use a heavily subsidized ferry system.
+Logging has been shut down to the extent that New York harvests more
+timber than does all of Alaska.
 
