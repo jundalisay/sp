@@ -5,6 +5,8 @@ description: ""
 c: "firebrick"
 icon: "US"
 author: "Peter Navarro"
+heading: Chapter 26
+weight: 68
 ---
 
 

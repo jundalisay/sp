@@ -4,13 +4,15 @@ date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "US"
+heading: Chapter 22d
+weight: 40
 ---
 
 
 
-U.S. Coast Guard and the Bureau of Alcohol, Tobacco, Firearms, and
-Explosives. Congress should examine whether to return the Treasury’s former in-house law enforcement capabilities via the return of the United States Coast Guard and the Bureau of Alcohol, Tobacco, Firearms, and Explosives. Bringing
-these agencies back from the Department of Homeland Security and the Depart-
+U.S. Coast Guard and the Bureau of Alcohol, Tobacco, Firearms, and Explosives. Congress should examine whether to return the Treasury’s former in-house law enforcement capabilities via the return of the United States Coast Guard and the Bureau of Alcohol, Tobacco, Firearms, and Explosives. 
+
+Bringing these agencies back from the Department of Homeland Security and the Depart-
 ment of Justice, respectively, would allow Treasury, in the case of U.S. Coast Guard,
 to increase border security via a vigilance with respect to economic crimes (for
 example, drug smuggling and tax evasion).

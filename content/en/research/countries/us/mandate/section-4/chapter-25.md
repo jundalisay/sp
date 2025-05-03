@@ -5,12 +5,14 @@ description: ""
 c: "firebrick"
 icon: "US"
 author: "Karen Kerrigan"
+heading: Chapter 25
+weight: 60
 ---
 
 
 ## MISSION STATEMENT
 
-OVERVIEW
+### OVERVIEW
 
 Created almost 70 years ago, the SBA was launched under the Small Business
 Act with a mission to “aid, counsel, assist and protect, insofar as is possible, the
@@ -145,5 +147,3 @@ ing to small businesses, providing more than 62,000 traditional loans through it
 SBA licensed Small Business Investment Companies (SBICs) for Fiscal Year (FY)
 2022.”20 The agency’s total budgetary resources for FY 2022 amount to $44.25
 billion, which represents 0.4 percent of the FY 2022 U.S. federal budget.21
-
-

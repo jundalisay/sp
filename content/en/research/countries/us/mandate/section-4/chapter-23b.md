@@ -1,8 +1,7 @@
 ---
 heading: Chapter 23b
 title: "THE CASE FOR THE EXPORT–IMPORT BANK"
-weight: 2
-# date: 2023-06-17
+weight: 48
 author: "Jennifer Hazelton"
 description: "Heritage Foundation"
 c: "firebrick"
@@ -10,13 +9,30 @@ c: "firebrick"
 
 
 
-In 1986, President Ronald Reagan signed a bill extending the charter of the Export–Import Bank (EXIM) by an additional six years. In a signing statement attached to the bill, the President declared that “[t]his sends an important signal to both our exporting community and foreign suppliers that American exporters will continue to be able to compete vigorously for business throughout the world.”34 As a candidate for President, Ronald Reagan was opposed to EXIM, but as Pres- ident, he learned the challenges America’s businesses face when competing for opportunities overseas, and his position on EXIM evolved. As President Reagan once famously remarked, “Why would I want our businesses competing with two hands tied behind their backs?” On January 30, 1984, the President said, “Exports create and sustain jobs for millions of American workers and contribute to the growth and strength of the United States economy. The Export–Import Bank con- tributes in a significant way to our nation’s export sales.”
+In 1986, President Ronald Reagan extended the charter of the Export–Import Bank (EXIM) by 6 years.
 
-President Reagan was exactly right. EXIM provides a mechanism that American
-companies can use to vie for projects that would otherwise be out of reach, notably
-deals that the banking industry won’t finance because of the risk associated with
-the host country or because the host nation itself requires a sovereign guarantee
-in order to submit a bid. EXIM is the only American vehicle that can provide that
+He declared that:
+
+
+{{< q a="Ronald Reagan" >}}
+This sends an important signal to both our exporting community and foreign suppliers that American exporters will continue to be able to compete vigorously for business throughout the world.
+{{< /q >}}
+
+
+As a candidate for President, Ronald Reagan was opposed to EXIM.
+
+But as President, he learned the challenges America’s businesses face when competing for opportunities overseas, and his position on EXIM evolved.
+
+
+{{< q a="Ronald Reagan" >}}
+Why would I want our businesses competing with two hands tied behind their backs?
+
+Exports create and sustain jobs for millions of American workers and contribute to the growth and strength of the United States economy. The Export–Import Bank contributes in a significant way to our nation’s export sales.
+{{< /q >}}
+
+
+
+President Reagan was right. EXIM provides a mechanism that American companies can use to vie for projects that would otherwise be out of reach, notably deals that the banking industry won’t finance because of the risk associated with the host country or because the host nation itself requires a sovereign guarantee in order to submit a bid. EXIM is the only American vehicle that can provide that
 sovereign guarantee.
 
 Since Reagan’s presidency, the global economic order has shifted dramatically,
