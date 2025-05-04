@@ -7,6 +7,7 @@ writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
 icon: "William Gilbert"
+c: "darkgoldenrod"
 weight: 16
 ---
 

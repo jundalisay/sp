@@ -2,7 +2,7 @@
 title: "The Federal District and the Territories"
 heading: "Title 3 Chapter 5"
 weight: 12
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

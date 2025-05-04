@@ -2,7 +2,7 @@
 title: "The Sessions"
 heading: "Chapter 1 Section 6"
 weight: 14
-image: "/flags/br.png"
+c: "darkslategray"
 description: "The National Congress shall meet each year in the Federal Capital, from February 2 to July 17 and from August 1 to December 22"
 icon: "/flags/br.png"
 ---

@@ -5,5 +5,6 @@ title: "The Earth as a Magnet"
 description: "On the magnet, magnetick bodies also, and on the great magnet the earth: a new physiology, demonstrated by many arguments & experiments"
 weight: 14
 icon: "William Gilbert"
+c: "darkgoldenrod"
 ---
 

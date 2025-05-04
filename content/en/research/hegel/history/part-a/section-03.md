@@ -5,7 +5,7 @@ description: The subject of philosophy is the actual knowledge of what truly is.
 c: "steelblue"
 author: Hegel
 icon: "Hegel"
-weight: 12
+weight: 16
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The National Tax System"
 heading: "Chapter 1"
 weight: 14
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

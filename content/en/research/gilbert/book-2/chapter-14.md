@@ -5,6 +5,7 @@ title: "Why at the Pole itself the Coition is stronger"
 description: "Now must we consider separately the globe itself of the earth"
 weight: 38
 icon: "William Gilbert"
+c: "darkgoldenrod"
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)

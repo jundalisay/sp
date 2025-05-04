@@ -2,7 +2,7 @@
 title: "The Municipalities"
 heading: "Title 3 Chapter 4"
 weight: 10
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

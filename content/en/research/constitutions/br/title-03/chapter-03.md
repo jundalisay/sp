@@ -2,7 +2,7 @@
 title: "The Federated States"
 heading: "Title 3 Chapter 3"
 weight: 8
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

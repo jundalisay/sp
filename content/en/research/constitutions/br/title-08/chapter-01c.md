@@ -2,7 +2,7 @@
 title: "General Provision"
 heading: "Chapter 1"
 weight: 22
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

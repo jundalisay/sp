@@ -1,7 +1,7 @@
 ---
 title: "Summary of 12th century Countries"
 weight: 1
-image: "/covers/chun.jpg"
+c: "darkslategray"
 description: "Summary of 12th century Countries"
 ---
 

@@ -2,7 +2,7 @@
 title: "Health"
 heading: "Chapter 1 Section 2"
 weight: 20
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

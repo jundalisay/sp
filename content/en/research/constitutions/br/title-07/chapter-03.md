@@ -2,7 +2,7 @@
 title: "Agricultural Policy and National Financial System"
 heading: "Chapter 3"
 weight: 22
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

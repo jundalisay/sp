@@ -2,7 +2,7 @@
 title: "The General Principles of the Economic Activity"
 heading: "Chapter 1"
 weight: 18
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

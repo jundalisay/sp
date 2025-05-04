@@ -5,7 +5,7 @@ weight: 30
 description: ""
 contributors: ['Fresnel']
 draft: true
-image: /covers/fresnel.jpg
+c: "firebrick"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Miscellaneous"
 heading: "Chapter 7 "
 weight: 14
-image: "/flags/au.png"
+c: "darkslategray"
 description: "The Constitution of each State of the Commonwealth shall, subject to this Constitution, continue as at the establishment of the Commonwealth"
 icon: "/flags/au.png"
 ---

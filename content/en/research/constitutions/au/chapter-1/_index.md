@@ -1,5 +1,5 @@
 ---
 title: "Chapter 1"
-image: "/flags/au.png"
+c: "darkslategray"
 weight: 1
 ---

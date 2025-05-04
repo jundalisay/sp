@@ -2,7 +2,7 @@
 title: "New States"
 heading: "Chapter 6 "
 weight: 12
-image: "/flags/au.png"
+c: "darkslategray"
 description: "The Constitution of each State of the Commonwealth shall, subject to this Constitution, continue as at the establishment of the Commonwealth"
 icon: "/flags/au.png"
 ---

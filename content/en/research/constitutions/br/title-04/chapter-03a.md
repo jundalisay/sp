@@ -2,7 +2,7 @@
 title: "The Judicial Power"
 heading: "Title 4 Chapter 3"
 weight: 26
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---
