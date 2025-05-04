@@ -1,9 +1,11 @@
 ---
 title: Nuclearisation and Impact of 9/11
-weight: 40
+weight: 116
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 17
+c: darkgreen
+author: Dr Syed Rifaat Hussain
 ---
 
 

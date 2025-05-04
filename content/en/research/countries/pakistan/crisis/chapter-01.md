@@ -5,7 +5,7 @@ weight: 4
 # date: 2023-06-17
 description: "Paranoia is a mental condition based on delusions of persecution, excessive jealousy and an exaggerated sense of self"
 author: Ayesha Jalal
-c: forestgreen
+c: darkgreen
 ---
 
 

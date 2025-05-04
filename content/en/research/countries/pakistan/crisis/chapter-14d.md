@@ -1,11 +1,12 @@
 ---
 title: Emerging Force Postures
-weight: 37
+weight: 102
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 14d
+c: darkgreen
+author: Feroz Hassan Khan
 ---
-
 
 
 Pakistani anxiety did not dissolve even after demonstrating its nuclear weapon capability in 1998. 
@@ -112,14 +113,9 @@ maintains centralised control of the assets. An elaborate system of security
 and safety has been employed though the Security Division, which
 ensures physical security of storage and transport. 
 
-Security is tight with
-strict access control within each organisation and a personnel reliability
-program has been instituted much on the lines of Western countries.
-It is extremely important for Pakistan to keep the safety coefficient
-high in normal peacetime. But the system must respond to the rapid
-changing strategic environment, which takes little time to change. As has
-been witnessed, a Mumbai type attack can lead to a speedy deterioration
-of the situation. The NCA is charged with assuring readiness in the event of a sudden strike or conventional war breakout.
+Security is tight with strict access control within each organisation and a personnel reliability program has been instituted much on the lines of Western countries. 
+
+It is extremely important for Pakistan to keep the safety coefficient high in normal peacetime. But the system must respond to the rapid changing strategic environment, which takes little time to change. As has been witnessed, a Mumbai type attack can lead to a speedy deterioration of the situation. The NCA is charged with assuring readiness in the event of a sudden strike or conventional war breakout.
 
 
 ### Future Trajectories

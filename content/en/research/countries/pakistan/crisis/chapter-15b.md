@@ -1,10 +1,12 @@
 ---
 title: Reviving the Economy
-weight: 40
-# date: 2023-06-17
+weight: 106
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 15b
+c: darkgreen
+author: Munir Akram
 ---
+
 
 
 For 4 consecutive years until 2007, Pakistan recorded encouraging but uneven economic growth.

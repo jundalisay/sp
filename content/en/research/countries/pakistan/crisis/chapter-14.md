@@ -1,25 +1,22 @@
 ---
-title: Pakistan As A Nuclear State
-weight: 36
-# date: 2023-06-17
+title: "Pakistan As A Nuclear State"
+weight: 94
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 14
+c: darkgreen
+author: Feroz Hassan Khan
 ---
 
 
-Feroz Hassan Khan
 
-Has the advent of nuclear weapons calmed down anxieties and brought
-about a level of national confidence in Pakistan to enable the state to meet other
-challenges? 
+Has the advent of nuclear weapons calmed down anxieties and brought about a level of national confidence in Pakistan to enable the state to meet other challenges? 
 
 What role do nuclear weapons play in a nation's destiny? The 1998 nuclear test ought to have reinforced a simple lesson for security thinkers in South Asia. It should focus national leadership into calming crises and preventing wars. 
 
 Yet even after twelve years of demonstrating its nuclear capability, there are continuing strategic anxieties in Pakistan even if there is also increased faith in nuclear weapons as the final arbitrator of the nation's survivability.
 
-Based on what has so far been known about Pakistan's nuclear program
-and policy-making, scholars have understood Pakistan's development of a
-nuclear deterrent entirely as a function of its level of insecurity. 
+Based on what has so far been known about Pakistan's nuclear program and policy-making, scholars have understood Pakistan's development of a
+nuclear deterrent entirely as a function of its level of insecurity.  
 
 Though useful, this explanation is a partial one. Pakistan's creation of an operational nuclear deterrent is more adequately explained as a response to competing threat analyses and conceptions about national security, which were constructed, articulated, and defended, by various Pakistani politicians, scientists, and military leaders over a four-decade period.
 
@@ -99,4 +96,3 @@ Its nuclear policy remains of tight command and control, minimum credible deterr
 In the second decade of the twenty-first century, Pakistan's attachment to nuclear weapons is further reinforced as it faces numerous sources of security threats against which nuclear weapons can only play a limited role. 
 
 Pakistan's nuclear policy is affected by the discriminatory treatment, especially after the US forged a special civilian nuclear deal for India. To add insult to injury, some quarters in Washington engaged in hostile propaganda against its nuclear security.
-

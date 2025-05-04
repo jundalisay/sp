@@ -1,58 +1,31 @@
 ---
-title: THE INDIA FACTOR
-weight: 45
-# date: 2023-06-17
+title: The India Factor
+weight: 114
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 17
+c: darkgreen
+author: Dr Syed Rifaat Hussain
 ---
 
 
-Dr Syed Rifaat Hussain
 
-Can Pakistan and India move away from their enduring rivalry and
-make peace? Can the shadow of the November 2008 Mumbai terrorist
-attacks be removed by sustained diplomatic engagement between the two
-countries?
+Can Pakistan and India move away from their enduring rivalry and make peace? 
 
-This chapter seeks to answer these questions by reviewing the record
-of diplomatic efforts and identifying the obstacles in the path of progress
-while underscoring the importance of a peace process whose absence can
-provide determined spoilers on both sides ample opportunity to push the
-nuclear-armed adversaries toward deadly confrontation.
+Can the shadow of the November 2008 Mumbai terrorist attacks be removed by sustained diplomatic engagement between the two countries?
+
+This chapter seeks to answer these questions by reviewing the record of diplomatic efforts and identifying the obstacles in the path of progress while underscoring the importance of a peace process whose absence can provide determined spoilers on both sides ample opportunity to push the nuclear-armed adversaries toward deadly confrontation.
 
 Is a Peace Process in Place?
 
-A peace process can be defined as concerted efforts by parties in
-dispute to seek a resolution of their conflict through dialogue and
-negotiations. The initiation of a peace process normally follows incidents of
-armed conflict between the parties in dispute. Usually it takes place with
-the support of interested third parties. The onset of the peace process, while
-reducing escalatory pressures for violence, does not guarantee that peace will
-necessarily follow. In fact, the failure of the peace process to yield positive
-results may enhance possibilities for the outbreak of violent conflict.
-The existence of an India-Pakistan peace process is evidenced by
-several factors. First, both countries have regularly engaged in bilateral talks
-to resolve differences on a wide range of issues: border demarcation, boundary
-adjustment, water distribution, trade and commerce issues, protection of
-minorities, Kashmir, conventional and nuclear confidence building measures
-(CBMs). Since 1997 all these issues have been discussed as part of the composite
-dialogue involving eight issues: Peace and Security including CBMs; Jammu
-and Kashmir; Siachin; Sir Creek; Tulbul, Wullar, Baghlihar and Kishenganga
-water projects; terrorism and drug trafficking; economic and commercial
-cooperation; promotion of friendly exchanges in various fields. Second, India-
-333Pakistan bilateral talks have yielded a large number of agreements that have
-a fairly good compliance record by each country (see Table 1).
+A peace process can be defined as concerted efforts by parties in dispute to seek a resolution of their conflict through dialogue and negotiations. The initiation of a peace process normally follows incidents of armed conflict between the parties in dispute. Usually it takes place with the support of interested third parties. The onset of the peace process, while reducing escalatory pressures for violence, does not guarantee that peace will necessarily follow. In fact, the failure of the peace process to yield positive results may enhance possibilities for the outbreak of violent conflict.
 
-Three, despite lack of agreement on Kashmir, both countries have since
-the mid-1990s made conscious efforts to push the peace process forward.
-Four, since their overt nuclearisation in May 1998, the world community has
-repeatedly called upon the two nations not only to exercise restraint but also
-to forego use and the threat of the use of force in settling differences. All the
-four nuclear crises between India and Pakistan—1986-87 Brasstacks, the
-1990 Kashmir crisis, the 1999 Kargil conflict, and the 'compound crisis' of
-summer 2002—were defused with the help of Washington as a third party.
+The existence of an India-Pakistan peace process is evidenced by several factors. First, both countries have regularly engaged in bilateral talks to resolve differences on a wide range of issues: border demarcation, boundary adjustment, water distribution, trade and commerce issues, protection of minorities, Kashmir, conventional and nuclear confidence building measures (CBMs). Since 1997 all these issues have been discussed as part of the composite dialogue involving eight issues: Peace and Security including CBMs; Jammu and Kashmir; Siachin; Sir Creek; Tulbul, Wullar, Baghlihar and Kishenganga water projects; terrorism and drug trafficking; economic and commercial cooperation; promotion of friendly exchanges in various fields. Second, India- 333Pakistan bilateral talks have yielded a large number of agreements that have a fairly good compliance record by each country (see Table 1).
 
-334Table 1: Important Indo-Pak agreements (1948-2009)
+Three, despite lack of agreement on Kashmir, both countries have since the mid-1990s made conscious efforts to push the peace process forward. Four, since their overt nuclearisation in May 1998, the world community has repeatedly called upon the two nations not only to exercise restraint but also to forego use and the threat of the use of force in settling differences. All the four nuclear crises between India and Pakistan—1986-87 Brasstacks, the 1990 Kashmir crisis, the 1999 Kargil conflict, and the 'compound crisis' of summer 2002—were defused with the help of Washington as a third party.
+
+
+Table 1: Important Indo-Pak agreements (1948-2009)
+
 Number Date and Place
 IssuesStatusComments
 1.27 July 1949 KarachiCeasefire Line in Jammu and KashmirOperationalGive rise to Siachin dispute

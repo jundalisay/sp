@@ -5,7 +5,7 @@ weight: 6
 # date: 2023-06-17
 description: "Pakistan remained a relatively liberal and moderate Muslim state until the 1970s"
 author: Ayesha Jalal
-c: forestgreen
+c: darkgreen
 ---
 
 

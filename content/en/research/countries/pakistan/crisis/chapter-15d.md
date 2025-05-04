@@ -1,10 +1,12 @@
 ---
 title: The Conventional Military Balance
-weight: 44
-# date: 2023-06-17
+weight: 110
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 15d
+c: darkgreen
+author: Munir Akram
 ---
+
 
 
 Pakistan has an effective conventional defence capability against India, due to:

@@ -3,8 +3,8 @@ title: Why Jinnah Matters
 heading: Chapter 1b
 weight: 7
 # date: 2023-06-17
-description: "Beyond the 'Crisis State'"
-c: forestgreen  
+description: "The debate about the nature and character of the Pakistani state is most intense today."
+c: darkgreen  
 author: Dr Akbar Ahmed
 ---
 

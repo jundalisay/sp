@@ -1,9 +1,9 @@
 ---
 title: The Protection of Non-Muslims
 weight: 10
-description: "Babar-poet, autobiographer, loyal friend and devoted father—was perhaps too triumphalist for Mountbatten"
+description: "Acceptance of minorities is another theme in speeches of Jinnah"
 heading: Chapter 2c
-c: forestgreen
+c: darkgreen
 ---
 
 

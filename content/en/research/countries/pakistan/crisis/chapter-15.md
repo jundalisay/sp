@@ -1,13 +1,12 @@
 ---
 title: Reversing Strategic 'Shrinkage'
-weight: 38
-# date: 2023-06-17
+weight: 104
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 15
+c: darkgreen
+author: Munir Akram
 ---
 
-
-Munir Akram
 
 Pakistan has been a strategically challenged since it was created.
 - It faces hostility from India; gross

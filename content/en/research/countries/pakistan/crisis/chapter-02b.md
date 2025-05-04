@@ -5,7 +5,7 @@ weight: 8
 description: "Babar-poet, autobiographer, loyal friend and devoted father—was perhaps too triumphalist for Mountbatten"
 author: Dr Akbar Ahmed
 heading: Chapter 2b
-c: forestgreen
+c: darkgreen
 ---
 
 

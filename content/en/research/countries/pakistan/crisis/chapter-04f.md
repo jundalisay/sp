@@ -4,7 +4,7 @@ weight: 24
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
 heading: Chapter 4f
-c: forestgreen
+c: darkgreen
 author: Dr Maleeha Lodhi
 ---
 

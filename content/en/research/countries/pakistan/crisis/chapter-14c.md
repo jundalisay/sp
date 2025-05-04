@@ -1,9 +1,11 @@
 ---
 title: Operational Deterrent
-weight: 38
+weight: 98
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 14c
+c: darkgreen
+author: Feroz Hassan Khan
 ---
 
 
