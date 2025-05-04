@@ -1,9 +1,9 @@
 ---
 title: The Protection of Non-Muslims
 weight: 10
-# date: 2023-06-17
 description: "Babar-poet, autobiographer, loyal friend and devoted father—was perhaps too triumphalist for Mountbatten"
-image: "/flags/pk.png"
+heading: Chapter 2c
+c: forestgreen
 ---
 
 
@@ -114,76 +114,23 @@ In one of his first radio broadcasts as head of state Jinnah abandoned his norma
 I am speaking to you under deep distress and with a heavy heart. We have undoubtedly achieved Pakistan and that too without bloody war and practically, peacefully, by moral and intellectual force and with the power of pen which is no less mighty than the sword and so our righteous cause has triumphed. 
 
 Are we now going to besmear and tarnish this greatest achievement for which there is no parallel in the whole history of the world by resorting to frenzy, savagery and butchery?
+
 In early October 1947 Muslims in West Punjab began to react to the horror stories coming from India. Jinnah reminded the authorities in both countries:
 
-The division of India was agreed upon with a solemn and sacred
-undertaking that minorities would be protected by the two Dominion
-Governments and that the minorities had nothing to fear so long as they
-remained loyal to the State.
+The division of India was agreed upon with a solemn and sacred undertaking that minorities would be protected by the two Dominion Governments and that the minorities had nothing to fear so long as they remained loyal to the State.
 
-He urged the government of India to 'put a stop to the process of
-victimization of Muslims.' To calm the situation Jinnah flew to Lahore,
-which had borne the full brunt of the refugees arriving from India with
-their heart-rending tales, and in a public meeting urged restraint:
-Despite the treatment which is being meted out to the Muslim
-minorities in India, we must make it a matter of our prestige and honour
-to safeguard the lives of the minority communities and to create a sense
-of security among them.
+He urged the government of India to 'put a stop to the process of victimization of Muslims.' To calm the situation Jinnah flew to Lahore, which had borne the full brunt of the refugees arriving from India with their heart-rending tales, and in a public meeting urged restraint: Despite the treatment which is being meted out to the Muslim minorities in India, we must make it a matter of our prestige and honour to safeguard the lives of the minority communities and to create a sense of security among them.
 
-On the death of Gandhi on 30 January 1948, Jinnah issued a
-statement that angered and disappointed many Indians because it spoke of
-Gandhi only as a great Hindu leader. This was unfair to Jinnah, who used
-the word 'great' three times in his brief message. Once again, we need to
-read Jinnah's full statement, especially in conjunction with the one made
-later in which he states that the Muslims of India had lost their main
-support. The official version is as follows:
+On the death of Gandhi on 30 January 1948, Jinnah issued a statement that angered and disappointed many Indians because it spoke of Gandhi only as a great Hindu leader. This was unfair to Jinnah, who used the word 'great' three times in his brief message. Once again, we need to read Jinnah's full statement, especially in conjunction with the one made later in which he states that the Muslims of India had lost their main support. The official version is as follows:
 
-I am shocked to learn of the most dastardly attack on the life of Mr.
-Gandhi, resulting in his death. There can be no controversy in the face of
-death. Whatever our political differences, he was one of the greatest men
-produced by the Hindu community, and a leader who commanded their
-universal confidence and respect. I wish to express my deep sorrow, and
-sincerely sympathize with the great Hindu community and his family in
-their bereavement at this momentous, historical and critical juncture so
-soon after the birth of freedom and freedom for Hindustan and Pakistan.
-The loss to the Dominion of India is irreparable, and it will be very
-42difficult to fill the vacuum created by the passing away of such a great
-man at this moment.
+I am shocked to learn of the most dastardly attack on the life of Mr. Gandhi, resulting in his death. There can be no controversy in the face of death. Whatever our political differences, he was one of the greatest men produced by the Hindu community, and a leader who commanded their universal confidence and respect. I wish to express my deep sorrow, and sincerely sympathize with the great Hindu community and his family in their bereavement at this momentous, historical and critical juncture so soon after the birth of freedom and freedom for Hindustan and Pakistan. The loss to the Dominion of India is irreparable, and it will be very 42difficult to fill the vacuum created by the passing away of such a great man at this moment.
 
-Just before his own death, Jinnah proposed a joint defence pact with
-India as the Cold War started to shape the world and the two power blocs
-began to form. Jinnah was still thinking as a South Asian nationalist. Since
-he had won the rights and security of his community through the creation
-of Pakistan, he thought the problem of national defence was over. Alas, it
-was not to be.
+Just before his own death, Jinnah proposed a joint defence pact with India as the Cold War started to shape the world and the two power blocs began to form. Jinnah was still thinking as a South Asian nationalist. Since he had won the rights and security of his community through the creation of Pakistan, he thought the problem of national defence was over. Alas, it was not to be.
 
-With relations souring so quickly at the creation of Pakistan, the
-relationship between the two countries—and therefore the two
-communities in the subcontinent as a whole—was set on a collision course
-and has unfortunately remained so ever since. As this conflict is rooted in
-history political parties who see an easy gain to be made readily exploit it.
-Had Jinnah's vision prevailed—and found an echo in India—we
-would have seen a very different South Asia. There would have been two
-stable nations—India and Pakistan, both supplementing and supporting
-each other. Indeed Jinnah's idea of a joint defence system against the
-outside world would have ensured that there would have been no crippling
-defence expenditures. There would have been no reason to join one or
-other camp of the Cold War. There would have been open borders, free
-trade and regular visiting between the two countries.
+With relations souring so quickly at the creation of Pakistan, the relationship between the two countries—and therefore the two communities in the subcontinent as a whole—was set on a collision course and has unfortunately remained so ever since. As this conflict is rooted in history political parties who see an easy gain to be made readily exploit it. Had Jinnah's vision prevailed—and found an echo in India—we would have seen a very different South Asia. There would have been two stable nations—India and Pakistan, both supplementing and supporting each other.
 
-The lack of tension would have ensured that the minorities were not
-under pressure and, as both Jinnah and Congress leaders like Gandhi and
-Nehru wanted, lived as secure and integrated citizens. The fabric of
-society would have been different, and a more humane subcontinent might
-have emerged: a land truer to the vision of its leaders and spirit of its ages.
-In 1971, when Pakistan was broken in two, its critics jubilantly
-cried, 'Jinnah's Pakistan is dead.' They were wrong. Jinnah's Pakistan will
-be alive as long as there are Muslims who feel for the dignity, the identity
-and the destiny of other Muslims, and who care for the oppressed and the
-minorities in their midst. In that sense Jinnah's Pakistan will remain alive
-forever. Muslims must learn to say with pride: 'I am Muslim.' They must
-live up to the nobility and compassion of Islamic ideals; they must carry
-themselves with dignity in their identity as Muslims. Most important, they
-must stand up for their rights; this is their destiny and they cannot ignore
-43it. This is the lesson that Jinnah taught them; that is why Jinnah remains
-relevant today.
+Jinnah's idea of a joint defence system against the outside world would have ensured that there would have been no crippling defence expenditures. There would have been no reason to join one or other camp of the Cold War. There would have been open borders, free trade and regular visiting between the two countries.
+
+The lack of tension would have ensured that the minorities were not under pressure and, as both Jinnah and Congress leaders like Gandhi and Nehru wanted, lived as secure and integrated citizens. 
+
+The fabric of society would have been different, and a more humane subcontinent might have emerged: a land truer to the vision of its leaders and spirit of its ages. In 1971, when Pakistan was broken in two, its critics jubilantly cried, 'Jinnah's Pakistan is dead.' They were wrong. Jinnah's Pakistan will be alive as long as there are Muslims who feel for the dignity, the identity and the destiny of other Muslims, and who care for the oppressed and the minorities in their midst. In that sense Jinnah's Pakistan will remain alive forever. Muslims must learn to say with pride: 'I am Muslim.' They must live up to the nobility and compassion of Islamic ideals; they must carry themselves with dignity in their identity as Muslims. Most important, they must stand up for their rights; this is their destiny and they cannot ignore 43it. This is the lesson that Jinnah taught them; that is why Jinnah remains relevant today.

@@ -3,7 +3,9 @@ title: Clientelist Politics
 weight: 18
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 4
+c: forestgreen
+author: Dr Maleeha Lodhi
 ---
 
 

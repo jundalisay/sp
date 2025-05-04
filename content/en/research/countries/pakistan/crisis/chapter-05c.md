@@ -3,17 +3,17 @@ title: Army vs. Civil Hierarchy
 weight: 36
 # date: 2023-06-17
 description: "Pakistan is a prisoner of its geography and history."
-image: "/flags/pk.png"
+heading: Chapter 5c
+c: darkgreen
+author: Shuja Nawaz
 ---
 
 
 
-Even two-time former Prime Minister Nawaz Sharif shook his head
-when asked by me if he knew about the application of the Warrant of
+Even two-time former Prime Minister Nawaz Sharif shook his head when asked by me if he knew about the application of the Warrant of
 Precedence during his terms in office. 
 
-Yet this list that Pakistan inherited from the British and that established the relative ranking of civil and military officials for protocol purposes has been a major path to the rise of the
-97military in Pakistani society and polity. 
+Yet this list that Pakistan inherited from the British and that established the relative ranking of civil and military officials for protocol purposes has been a major path to the rise of the 97military in Pakistani society and polity. 
 
 Beyond simple protocol, this list symbolises the relative roles of officials from the civil and the military in the nation's polity and provided a map of their relationships.
 

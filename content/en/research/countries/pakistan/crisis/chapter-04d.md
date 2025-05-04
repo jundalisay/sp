@@ -1,9 +1,10 @@
 ---
 title: The Politics of 'Borrowed Growth'
 weight: 20
-# date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 4d
+c: darkgreen
+author: Dr Maleeha Lodhi
 ---
 
 

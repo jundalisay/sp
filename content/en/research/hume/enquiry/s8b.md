@@ -2,7 +2,7 @@
 title: Past Present and Future
 description: From past experience, we draw all inferences about the future, and as we conclude that objects will always be conjoined
 # description: We would expect that in most disputed questions since the first origin of philosophy, that the meaning of all the terms, at least, should have been agreed upon among the disputants
-image: /covers/enquiry.jpg
+c: "steelblue"
 weight: 24
 heading: "Section 8"
 writer:

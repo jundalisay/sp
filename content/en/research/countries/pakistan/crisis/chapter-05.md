@@ -3,11 +3,11 @@ title: ARMY AND POLITICS'
 weight: 32
 # date: 2023-06-17
 description: "Pakistan is a prisoner of its geography and history."
-image: "/flags/pk.png"
+heading: Chapter 5
+c: darkgreen
+author: Shuja Nawaz
 ---
 
-
-Shuja Nawaz
 
 Pakistan is a prisoner of its geography and history. 
 

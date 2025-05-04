@@ -1,13 +1,13 @@
 ---
 title: Why Jinnah Matters
-weight: 6
+heading: Chapter 1b
+weight: 7
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+c: forestgreen  
+author: Dr Akbar Ahmed
 ---
 
-
-Dr Akbar Ahmed
 
 The debate about the nature and character of the Pakistani state is most intense today.
 

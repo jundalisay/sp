@@ -3,11 +3,12 @@ title: Why Pakistan Will Survive
 weight: 12
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 3
+c: forestgreen
+author: Mohsin Hamid
 ---
 
 
-Mohsin Hamid
 
 I don't dispute that these are hard times. 
 - Thousands of us died last year in terrorist attacks.

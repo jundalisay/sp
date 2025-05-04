@@ -3,7 +3,9 @@ title: Questions of Identity
 weight: 13
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 3b
+c: forestgreen
+author: Mohsin Hamid
 ---
 
 
