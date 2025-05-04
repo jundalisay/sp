@@ -2,7 +2,7 @@
 title: "Music According to Pythagoras"
 weight: 6
 # date: 2022-04-13
-image: /covers/sentences.jpg
+c: "steelblue"
 description: "Western Music was discovered by Pythagoras"
 writer:
   name: Juan

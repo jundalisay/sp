@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 8
 contributors: ['John Stuart Mill']
 description: "The Roman Catholic Church is the most intolerant of churches"
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 youtube: "UpwdTIAcLVY"
 ---
 

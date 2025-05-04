@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 10
 contributors: ['John Stuart Mill']
 description: "Utility is pleasure and the absence of pain"
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 ---
 
 

@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 22
 contributors: ['John Stuart Mill']
 description: "It is easy for any one to imagine an ideal public, which leaves the freedom and choice of individuals in all uncertain matters undisturbed"
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 ---
 
 

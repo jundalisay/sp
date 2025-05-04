@@ -1,16 +1,13 @@
+---
+heading: "Chapter 15"
+title: "Some Excesses and evils in the Nation which decay not our Trade nor Treasure"
+weight: 28
+description: "To Mun, interest rates increase along with economic growth"
+c: "firebrick"
+contributors: ['Mun']
+---
 
-+++
-title=  "Some Excesses and evils in the Nation which decay not our Trade nor Treasure"
-heading=  "Chapter 15 "
-date=  2020-01-19
-image=  "/covers/treasure.jpg"
-# image=  "https= //sorasystem.sirv.com/cards/gold.jpg"
-description=  "To Mun, interest rates increase along with economic growth"
-linkbtext=  "Chapter 14"
-linkb=  "/research/mun/englands-treasure/chapter-14"
-linkftext=  "Chapter 16"
-linkf=  "/research/mun/englands-treasure/chapter-16"
-+++
+<!-- date=  2020-01-19 -->
 
 <!-- It is not my intent to excuse or extenuate any the least excess or evil in the Commonwealth, but rather highly to approve and commend that which by others hath been spoken and written against such abuses.
 Yet in this discourse of Treasure, as I have already set down affirmatively, which are the true causes that may either augment or decrease the same= 

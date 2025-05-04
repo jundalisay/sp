@@ -1,17 +1,13 @@
+---
+title: "Foreign Trade is the only way to improve the price of our Lands"
+heading: "Chapter 5"
+weight: 8
+c: "firebrick"
+description:  "According to Mun, exporting local currency to facilitate foreign trade increases national wealth"
+contributors: ['Mun']
+---
 
 
-+++
-title=  "Foreign Trade is the only way to improve the price of our Lands"
-heading=  "Chapter 5 "
-date=  2020-01-28
-image=  "/covers/treasure.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/medieval/armada1.jpg"
-description=  "According to Mun, exports increase the landlord's rent and subsequently the value of land"
-linkbtext=  "Chapter 4"
-linkb=  "/research/mun/englands-treasure/chapter-4"
-linkftext=  "Chapter 6"
-linkf=  "/research/mun/englands-treasure/chapter-6"
-+++
 
 Money supply makes all things dear or cheap. This money is either gotten or lost in foreign trade by the over or under-balancing of foreign trade.
 

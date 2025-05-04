@@ -1,15 +1,12 @@
+---
+title:  "How much Treasure a Prince can save yearly"
+heading:  "Chapter 17"
+date:  2020-01-18
+weight: 39
+c: "firebrick"
+description:  "According to Mun, national savings must come out of their gain from their Foreign Trade surplus"
+---
 
-+++
-title=  "How much Treasure a Prince can save yearly"
-heading=  "Chapter 18"
-date=  2020-01-16
-image=  "/covers/treasure.jpg"
-description=  "According to Mun, national savings must come out of their gain from their Foreign Trade surplus"
-linkbtext=  "Chapter 17"
-linkb=  "/research/mun/englands-treasure/chapter-17"
-linkftext=  "Chapter 19"
-linkf=  "/research/mun/englands-treasure/chapter-19"
-+++
 
 <!-- Thus far we have shewed the ordinary and extraordinary incomes of Princes, the conveniency thereof, and to whom only it doth necessarily and justly belong, to take the extraordinary contributions of their Subjects. -->
 

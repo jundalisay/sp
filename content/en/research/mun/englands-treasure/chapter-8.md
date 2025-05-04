@@ -1,21 +1,17 @@
 ---
-heading: "Chapter 1"
-title: "The Qualities of a Perfect Foreign Trade Merchant"
-weight: 2
-description: "The Statute of Employments aimed to pay for imports with exports via state-owned mercantile companies and bypass money and finance. This was protested by Mun and the mercantilists"
-image: "/covers/treasure.jpg"
+heading: "Chapter 8"
+title: "Debasing our Money cannot enrich the Nations"
+weight: 14
+description: "Debasing the national coin cannot increase national wealth"
+c: "firebrick"
 contributors: ['Mun']
 ---
 
 
-title=  "Debasing our Money cannot enrich the Nations"
-heading=  "Chapter 8 "
-date=  2020-01-25
-
-description=  "Debasing the national coin cannot increase national wealth"
+<!-- date=  2020-01-25 -->
 
 
-The nation's money can be commonly altered in three ways= 
+The nation's money can be commonly altered in three ways:
 
 1. When the value of the coins are altered
 2. When the weight of the coins are altered, yet retain their former rates
@@ -55,3 +51,4 @@ But some will yet say, that if our coin is raised while other Countries do not, 
 I answer that in such a case, it must be performed either by our Merchant exporters, or by foreign Merchants who imports our Commodities. But neither of these can be more advantageous than not changing the coin. <!--  by this Art now, than they might have had before the alteration of the coin.  --> For if Bullion and foreign Coins are more worth than our coins, what shall they get when these moneys are baser or lighter and have risen in proportion? 
 
 Thus, these Innovations are no good in bringing treasure into the Kingdom, nor keeping it. 
+

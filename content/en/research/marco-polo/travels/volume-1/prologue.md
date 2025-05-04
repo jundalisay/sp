@@ -1,16 +1,20 @@
 ---
 title: "Prologue"
-description: Mao was a Communist Chinese Leader
-a: "Marco Polo"
+description: ""
+# a: "Marco Polo"
 c: "darkslategray"
-weight: 132
+weight: 2
 # date: 2022-03-10
 ---
 
 
-Great Princes, Emperors, and Kings, Dukes and Marquises, Counts, Knights, and Burgesses! and People of all degrees who desire to get knowledge of the various races of mankind and of the diversities of the sundry regions of the World, take this Book and cause it to be read to you. For ye shall find therein all kinds of wonderful things, and the divers histories of the Great Hermenia, and of Persia, and of the Land of the Tartars, and of India, and of many another country of which our Book doth speak, particularly and in regular succession, according to the description of Messer Marco Polo, a wise and noble citizen of Venice, as he saw them with his own eyes. Some things indeed there be therein which he beheld not; but these he heard from men of credit and veracity. And we shall set down things seen as seen, and things heard as heard only, so that no jot of falsehood may mar the truth of our Book, and that all who shall read it or hear it read may put full faith in the truth of all its contents.
+<!-- Great Princes, Emperors, and Kings, Dukes and Marquises, Counts, Knights, and Burgesses! and People of all degrees who desire to get knowledge of the various races of mankind and of the diversities of the sundry regions of the World, take this Book and cause it to be read to you. For ye shall find therein all kinds of wonderful things, and the divers histories of the Great Hermenia, and of Persia, and of the Land of the Tartars, and of India, and of many another country of which our Book doth speak, particularly and in regular succession, according to the description of Messer Marco Polo, a wise and noble citizen of Venice, as he saw them with his own eyes. Some things indeed there be therein which he beheld not; but these he heard from men of credit and veracity. And we shall set down things seen as seen, and things heard as heard only, so that no jot of falsehood may mar the truth of our Book, and that all who shall read it or hear it read may put full faith in the truth of all its contents. -->
 
-For let me tell you that since our Lord God did mould with his hands our first Father Adam, even until this day, never hath there been Christian, or Pagan, or 2Tartar, or Indian, or any man of any nation, who in his own person hath had so much knowledge and experience of the divers parts of the World and its Wonders as hath had this Messer Marco! And for that reason he bethought himself that it would be a very great pity did he not cause to be put in writing all the great marvels that he had seen, or on sure information heard of, so that other people who had not these advantages might, by his Book, get such knowledge. And I may tell you that in acquiring this knowledge he spent in those various parts of the World good six-and-twenty years. Now, being thereafter an inmate of the Prison at Genoa, he caused Messer Rusticiano of Pisa, who was in the said Prison likewise, to reduce the whole to writing; and this befell in the year 1298 from the birth of Jesus.
+From the start of Man until this day, never has there been Christian, or Pagan, or Tartar, or Indian, or any man of any nation, who in his own person hath had so much knowledge and experience of the divers parts of the World and its Wonders as hath had this Messer Marco! 
+
+And for that reason he bethought himself that it would be a very great pity did he not cause to be put in writing all the great marvels that he had seen, or on sure information heard of, so that other people who had not these advantages might, by his Book, get such knowledge. And I may tell you that in acquiring this knowledge he spent in those various parts of the World good six-and-twenty years. Now, being thereafter an inmate of the Prison at Genoa, he caused Messer Rusticiano of Pisa, who was in the said Prison likewise, to reduce the whole to writing; and this befell in the year 1298 from the birth of Jesus.
+
+
 
 CHAPTER I.
 

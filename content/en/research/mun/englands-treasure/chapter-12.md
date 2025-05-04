@@ -1,25 +1,12 @@
 ---
-heading: "Chapter 1"
-title: "The Qualities of a Perfect Foreign Trade Merchant"
-weight: 2
-description: "The Statute of Employments aimed to pay for imports with exports via state-owned mercantile companies and bypass money and finance. This was protested by Mun and the mercantilists"
-image: "/covers/treasure.jpg"
+heading: "Chapter 12"
+title: "The undervaluing of our Money by Bills of Exchange cannot decrease our treasure"
+weight: 20
+description: "The bills of exchange is a finance layer that manages the discrepancies between money weights and real values. It adds an element of risk and therefore gambling and profit."
+c: "firebrick"
 contributors: ['Mun']
 ---
 
-
-+++
-title=  "The undervaluing of our Money by Bills of Exchange cannot decrease our treasure"
-heading=  "Chapter 12"
-date=  2020-01-22
-author=  "Thomas Mun"
-image=  "/covers/treasure.jpg"
-description=  "The bills of exchange is a finance layer that manages the discrepancies between money weights and real values. It adds an element of risk and therefore gambling and profit."
-linkbtext=  "Chapter 10"
-linkb=  "/research/mun/englands-treasure/chapter-10"
-linkftext=  "Chapter 13"
-linkf=  "/research/mun/englands-treasure/chapter-13"
-+++
 
 The Merchant's Exchange by Bills lets them send money from one country to another country and receive it again at certain times at agreed rates. The lender and borrower do not need to transport metal money from state to state. These Exchanges are made between man and man.
 

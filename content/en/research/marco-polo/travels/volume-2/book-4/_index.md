@@ -1,6 +1,6 @@
 ---
 heading: "Book 4"
-title: "CATHAY"
+title: "Wars Among The Tartar Princes And Some Account Of The Northern Countries"
 description: ""
 a: "Marco Polo"
 c: "darkslategray"

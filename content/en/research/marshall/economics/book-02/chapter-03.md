@@ -3,7 +3,7 @@ heading: Chapter 3
 title: "Production. Consumption. Labour. Necessaries"
 description: ""
 c: "firebrick"
-weight: 6
+weight: 9
 ---
 
 
@@ -11,29 +11,13 @@ weight: 6
 
 All that he can do in the physical world is either to readjust matter so as to make it more useful, as when he makes a log of wood into a table; or to put it in the way of being made more useful by nature, as when he puts seed where the forces of nature will make it burst out into life29 .
 
-It is sometimes said that traders do not produce: that while the cabinet-maker
-produces furniture, the furniture-dealer merely sells what is already produced. But
-there is no scientific foundation for this distinction. They both produce utilities, and
-neither of them can do more: the furniture-dealer moves and rearranges matter so as to
-make it more serviceable than it was before, and the carpenter does nothing more. The
-sailor or the railway-man who carries coal above ground produces it, just as much as
-the miner who carries it underground; the dealer in fish helps to move on fish from
-where it is of comparatively little use to where it is of greater use, and the fisherman does no more. It is true that there are often more traders than are necessary; and that, whenever that is the case, there is a waste. But there is also waste if there are two men to a plough which can be well worked by one man; in both cases all those who are at work produce, though they may produce but little. Some writers have revived the
-mediæval attacks on trade on the ground that it does not produce. But they have not
+It is sometimes said that traders do not produce: that while the cabinet-maker produces furniture, the furniture-dealer merely sells what is already produced. But there is no scientific foundation for this distinction. They both produce utilities, and neither of them can do more: the furniture-dealer moves and rearranges matter so as to make it more serviceable than it was before, and the carpenter does nothing more. 
+
+The sailor or the railway-man who carries coal above ground produces it, just as much as the miner who carries it underground; the dealer in fish helps to move on fish from where it is of comparatively little use to where it is of greater use, and the fisherman does no more. It is true that there are often more traders than are necessary; and that, whenever that is the case, there is a waste. But there is also waste if there are two men to a plough which can be well worked by one man; in both cases all those who are at work produce, though they may produce but little. Some writers have revived the mediæval attacks on trade on the ground that it does not produce. But they have not
 aimed at the right mark. They should have attacked the imperfect organization of
 trade, particularly of retail trade30 .
 
-Consumption may be regarded as negative production. Just as man can produce only
-utilities, so he can consume nothing more. He can produce services and other
-immaterial products, and he can consume them. But as his production of material
-products is really nothing more than a rearrangement of matter which gives it new
-utilities; so his consumption of them is nothing more than a disarrangement of matter,
-which diminishes or destroys its utilities. Often indeed when he is said to consume
-things, he does nothing more than to hold them for his use, while, as Senior says, they
-"are destroyed by those numerous gradual agents which we call collectively time31 ."
-As the "producer" of wheat is he who puts seed where nature will make it grow, so the
-"consumer" of pictures, of curtains, and even of a house or a yacht does little to wear
-them out himself; but he uses them while time wastes them.
+Consumption may be regarded as negative production. Just as man can produce only utilities, so he can consume nothing more. He can produce services and other immaterial products, and he can consume them. But as his production of material products is really nothing more than a rearrangement of matter which gives it new utilities; so his consumption of them is nothing more than a disarrangement of matter, which diminishes or destroys its utilities. Often indeed when he is said to consume things, he does nothing more than to hold them for his use, while, as Senior says, they "are destroyed by those numerous gradual agents which we call collectively time31 ." As the "producer" of wheat is he who puts seed where nature will make it grow, so the "consumer" of pictures, of curtains, and even of a house or a yacht does little to wear them out himself; but he uses them while time wastes them.
 
 Another distinction to which some prominence has been given, but which is vague
 and perhaps not of much practical use, is that between consumers' goods (called also

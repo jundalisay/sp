@@ -2,10 +2,9 @@
 heading: Part 4
 title: "The End of the Pythagoreans"
 weight: 10
-image: /covers/lifepyp.png
+c: "steelblue"
 description: "Pythagoras and his associates were long held in such admiration in Italy, that many cities invited them to undertake their administration"
 author: Propery
-# icon: /icons/spmat.png
 ---
 
 

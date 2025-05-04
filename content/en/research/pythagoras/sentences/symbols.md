@@ -2,7 +2,7 @@
 title: "Pythagoric Sentences: The Symbols"
 weight: 12
 # date: 2022-04-13
-image: /covers/sentences.jpg
+c: "steelblue"
 description: "The Protreptics Of Iamblichus"
 author: Iamblichus
 # icon: /icons/spmat.png

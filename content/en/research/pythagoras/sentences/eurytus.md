@@ -2,7 +2,7 @@
 title: "Eurytus"
 weight: 1
 # date: 2022-04-13
-image: /covers/sentences.jpg
+c: "steelblue"
 description: "The Pythagorean Eurytus and his followers beheld the images of things themselves in numbers"
 icon: /icons/spmat.png
 ---

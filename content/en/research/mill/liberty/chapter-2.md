@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 6
 contributors: ['John Stuart Mill']
 description: "Utility is the foundation of morality"
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 youtube: "UpwdTIAcLVY"
 ---
 

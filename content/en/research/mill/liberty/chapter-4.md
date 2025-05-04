@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 18
 contributors: ['John Stuart Mill']
 description: "What is the rightful limit to self-interest?"
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 ---
 
 

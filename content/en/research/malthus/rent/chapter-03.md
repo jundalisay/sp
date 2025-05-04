@@ -1,9 +1,9 @@
 ---
-heading: Chapter 1
-title: "Rent"
+heading: Chapter 3
+title: "Adam Smith"
 description: "The actual state of the natural rent of land is necessary to the actual produce"
-c: "seagreen"
-weight: 3
+c: "firebrick"
+weight: 32
 date: 2025-03-20
 ---
 

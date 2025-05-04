@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 16
 contributors: ['John Stuart Mill']
 description: "Those are the reasons why humans should be free to form opinions and express them without reserve"
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 # youtube: "UpwdTIAcLVY"
 ---
 

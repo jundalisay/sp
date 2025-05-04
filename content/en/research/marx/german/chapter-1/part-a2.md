@@ -3,7 +3,7 @@ title: "First Premises of Materialist Method"
 heading: "Part A2"
 c: "firebrick"
 description: "The first chief function of money is to express the comparative value of commodities as the universal measure of value"
-weight: 4
+weight: 6
 icon: "Karl Marx"
 # date: "2020-01-31"
 writer:

@@ -2,7 +2,7 @@
 heading: Part 2
 title: "Pythagoras' Activities"
 weight: 4
-image: /covers/lifepyp.png
+c: "steelblue"
 description: "Returning to Ionia, he opened a school, now called Pythagoras's Semicircles. Samians meet there to deliberate about matters of common interest"
 author: Propery
 # icon: /icons/spmat.png

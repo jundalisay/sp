@@ -1,7 +1,8 @@
 ---
 title:  "Selling Our Money in the Merchandise Trade increases our Wealth"
-heading:  "Chapter 4 "
-image: "/covers/treasure.jpg"
+heading:  "Chapter 4"
+weight: 6
+c: "firebrick"
 description:  "According to Mun, exporting local currency to facilitate foreign trade increases national wealth"
 contributors: ['Mun']
 ---

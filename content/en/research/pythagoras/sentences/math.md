@@ -2,7 +2,7 @@
 title: "The Eternal Essence of Number"
 weight: 4
 # date: 2022-04-13
-image: /covers/sentences.jpg
+c: "steelblue"
 description: "Forms and numbers are things which are the first separated from impartible union"
 icon: /icons/spmat.png
 ---

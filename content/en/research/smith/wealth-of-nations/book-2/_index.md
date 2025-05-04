@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Adam_Smith
 description: "Stock is divided into fixed, circulating, and for consumption"
 weight: 4
-image:  "/covers/wn.jpg"
+c: "seagreen"
 ---
 
 

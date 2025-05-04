@@ -1,15 +1,12 @@
-+++
-title=  "The Diversity of Gain by Foreign Trade"
-heading=  "Chapter 7 "
-date=  2020-01-26
-image=  "/covers/treasure.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/medieval/spanishconquest.jpg"
-description=  "There are three kinds of gain from foreign commerce=  those of the nation, merchant, and the government"
-linkbtext=  "Chapter 6"
-linkb=  "/research/mun/englands-treasure/chapter-6"
-linkftext=  "Chapter 8"
-linkf=  "/research/mun/englands-treasure/chapter-8"
-+++
+---
+title: "The Diversity of Gain by Foreign Trade"
+heading: "Chapter 7"
+weight: 12
+c: "firebrick"
+description:  "There are three kinds of gain from foreign commerce:: those of the nation, merchant, and the government"
+contributors: ['Mun']
+---
+
 
 In the course of foreign trade, there are three sorts of gain.
 

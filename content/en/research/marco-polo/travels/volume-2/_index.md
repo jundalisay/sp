@@ -1,6 +1,6 @@
 ---
-heading: "Book 2"
-title: "JOURNEY TO THE WEST AND SOUTH-WEST OF CATHAY"
+title: "Volume 2"
+# title: "JOURNEY TO THE WEST AND SOUTH-WEST OF CATHAY"
 description: ""
 a: "Marco Polo"
 c: "darkslategray"

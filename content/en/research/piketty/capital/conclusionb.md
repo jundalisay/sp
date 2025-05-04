@@ -3,7 +3,7 @@ heading: Conclusion Part 2
 title: "Economic Science"
 date: 2015-09-09
 contributors: ['Piketty']
-image: "/covers/cap21.jpg"
+c: "firebrick"
 description: "The expression 'economic science' is terribly arrogant because it suggests that economics has attained a higher scientific status than the other social sciences"
 ---
 

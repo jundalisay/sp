@@ -2,7 +2,7 @@
 heading: "Introduction"
 title: "A Theory of Human Motivation"
 weight: 2
-image: "/covers/motivation.jpg"
+c: "firebrick"
 date: 2024-05-14
 author: Maslow
 ---

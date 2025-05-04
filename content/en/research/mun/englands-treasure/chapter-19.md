@@ -1,17 +1,13 @@
+---
+title:  "The different effects of Natural and Artificial Wealth"
+heading:  "Chapter 17"
+date:  2020-01-18
+weight: 43
+c: "firebrick"
+description:  "Britain has natural wealth, while the Dutch have artificial wealth derived from their skill and hard work"
+---
 
 
-
-+++
-title=  "The different effects of Natural and Artificial Wealth"
-heading=  "Chapter 19 "
-date=  2020-01-15
-image=  "/covers/treasure.jpg"
-description=  "Britain has natural wealth, while the Dutch have artificial wealth derived from their skill and hard work"
-linkbtext=  "Chapter 18"
-linkb=  "/research/mun/englands-treasure/chapter-18"
-linkftext=  "Chapter 19"
-linkf=  "/research/mun/englands-treasure"
-+++
 
 In the latter end of Chapter 3, I wrote about Natural and Artificial Wealth. I showed how much Art adds to Nature. 
 
@@ -50,7 +46,7 @@ These excesses greatly waste our wealth, which is the main subject of this Book.
 
 Our Clothing is the greatest Wealth and best Employment of our Poor. Yet our policy supports agriculture and fishing more than the making of Cloth. In wartime, if some foreign Princes prohibits our cloth into their dominions, it might suddenly cause much poverty and dangerous uproars, especially by our poor people. <!-- They will be deprived of their ordinary maintenance, which cannot so easily fail them when their labours should be divided into the said diversity of employments, whereby also many thousands would be the better enabled to do the Kingdom good service in occasion of war, especially by Sea=   -->
 
-<br>
+
 
 ### The Dutch 
 
