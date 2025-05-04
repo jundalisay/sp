@@ -2,7 +2,7 @@
 title: "Table of the Degrees or Comparative Instances"
 heading: Chapter 5
 weight: 10
-description: ""
+description: "We learn about the nature of an object by comparing the increase and decrease of that nature in the same object, or its degree in different objects"
 c: "steelblue"
 icon: "Francis Bacon"
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Proximate Instances wanting the Nature of Heat"
-heading: Chapter 1
+heading: Chapter 4
 weight: 8
-description: ""
+description: "The rays of the moon, stars, and comets, are not warm to the touch"
 c: "steelblue"
 icon: "Francis Bacon"
 writer:

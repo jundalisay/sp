@@ -1,7 +1,7 @@
 ---
-title: "Commonplace"
-heading: ""
-weight: 7
+title: "The Visible and Invisible"
+heading: "Part 2"
+weight: 6
 description: ""
 c: "steelblue"
 ---
@@ -23,7 +23,7 @@ How was light created before man? Even so were Bodies created before man57.
 
 E. Impossible anything besides that wch thinks and is thought on should exist58.
 
-That wch is visible cannot be made up of invisible things.
+That which is visible cannot be made up of invisible things.
 
 M.S. is that wherein there are not contain'd distinguishable sensible parts. Now how can that wch hath not sensible parts be divided into sensible parts? If you say it may be divided into insensible parts, I say these are nothings.
 
@@ -36,8 +36,7 @@ Qu. whether a M. V. be of any colour? a M. T. of any tangible quality?
 
 If visible extension be the object of geometry, 'tis that which is survey'd by the optique axis.
 
-P.
-I may say the pain is in my finger, &c., according to my doctrine61.
+P. I may say the pain is in my finger, &c., according to my doctrine61.
 
 Mem. Nicely to discuss wt is meant when we say a line consists of a certain number of inches or points, &c.; a circle of a certain number of square inches, points, &c. Certainly we may think of a circle, or have its idea in our mind, without thinking of points or square inches, &c.; whereas it should seem the idea of a circle is not made up of the ideas of points, square inches, &c.
 
@@ -74,7 +73,6 @@ D and P are not proportional in all circles. d d is to 1/4d p as d to p/4; but d
 
 N. B. If the circle be squar'd arithmetically, 'tis squar'd geometrically, arithmetic or numbers being nothing but lines & proportions of lines when apply'd to geometry.
 
-[pg 013]
 Mem. To remark Cheyne64 & his doctrine of infinites.
 
 Extension, motion, time, do each of them include the idea of succession, & so far forth they seem to be of mathematical consideration. Number consisting in succession & distinct perception, wch also consists in succession; for things at once perceiv'd are jumbled and mixt together in the mind. Time and motion cannot be conceiv'd without succession; and extension, qua mathemat., cannot be conceiv'd but as consisting of parts wch may be distinctly & successively perceiv'd. Extension perceived at once & in confuso does not belong to math.
@@ -104,13 +102,23 @@ A mean proportional cannot be found betwixt any two given lines. It can onely be
 
 If the wit and industry of the Nihilarians were employ'd [pg 015]about the usefull & practical mathematiques, what advantage had it brought to mankind!
 
-M. E.
-You ask me whether the books are in the study now, when no one is there to see them? I answer, Yes. You ask me, Are we not in the wrong for imagining things to exist when they are not actually perceiv'd by the senses? I answer, No. The existence of our ideas consists in being perceiv'd, imagin'd, thought on. Whenever they are imagin'd or thought on they do exist. Whenever they are mentioned or discours'd of they are imagin'd & thought on. Therefore you can at no time ask me whether they exist or no, but by reason of yt very question they must necessarily exist.
+M. E. Are there books are in the room now, when no one is there to see them?
 
-E.
-But, say you, then a chimæra does exist? I answer, it doth in one sense, i.e. it is imagin'd. But it must be well noted that existence is vulgarly restrain'd to actuall perception, and that I use the word existence in a larger sense than ordinary.68
+I answer, Yes. 
+
+You ask: Are we not in the wrong for imagining things to exist when they are not actually perceiv'd by the senses? 
+
+I answer, No. 
+
+The existence of our ideas consists in being perceived, imagined, thought on.
+
+Whenever they are imagin'd or thought on they do exist. Whenever they are mentioned or discours'd of they are imagin'd & thought on. Therefore you can at no time ask me whether they exist or no, but by reason of yt very question they must necessarily exist.
+
+
+E. You ask does a chimæra exist? 
+
+I answer, it does exist in the imagination. But existence that I mean is vulgarly restrain'd to actual perception. I use the word existence in a larger sense than ordinary.68
 
 N. B.—According to my doctrine all things are entia rationis, i.e. solum habent esse in intellectum.
 
 [69According to my doctrine all are not entia rationis. The distinction between ens rationis and ens reale is kept up by it as well as any other doctrine.]
-

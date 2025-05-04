@@ -1,89 +1,70 @@
 ---
-title: "Commonplace"
-heading: ""
-weight: 7
+title: "The Freedom of Man"
+heading: "Part 6"
+weight: 14
 description: ""
 c: "steelblue"
 ---
 
 
-M.
-The supposition that things are distinct from ideas takes away all real truth, & consequently brings in a universal scepticism; since all our knowledge and contemplation is confin'd barely to our own ideas103.
+M. The supposition that things are distinct from ideas takes away all real truth, & consequently brings in a universal scepticism; since all our knowledge and contemplation is confin'd barely to our own ideas103.
 
-I.
-Qu. whether the solitary man would not find it necessary to make use of words to record his ideas, if not in memory or meditation, yet at least in writing—without which he could scarce retain his knowledge.
+I. Would the solitary man not find it necessary to make use of words to record his ideas, if not in memory or meditation, yet at least in writing—without which he could scarce retain his knowledge?
 
 We read in history there was a time when fears and jealousies, privileges of parliament, malignant party, and such like expressions of too unlimited and doubtful a meaning, were words of much sway. Also the words Church, Whig, Tory, &c., contribute very much to faction and dispute.
 
-S.
-The distinguishing betwixt an idea and perception of the idea has been one great cause of imagining material substances104.
+S. The distinguishing betwixt an idea and perception of the idea has been one great cause of imagining material substances104.
 
-S.
-That God and blessed spirits have Will is a manifest [pg 031]argument against Locke's proofs that the Will cannot be conceiv'd, put into action, without a previous uneasiness.
+S. That God and blessed spirits have Will is a manifest [pg 031]argument against Locke's proofs that the Will cannot be conceiv'd, put into action, without a previous uneasiness.
 
-S.
-The act of the Will, or volition, is not uneasiness, for that uneasiness may be without volition.
+S. The act of the Will, or volition, is not uneasiness, for that uneasiness may be without volition.
 
-S.
-Volition is distinct from the object or idea for the same reason.
+S. Volition is distinct from the object or idea for the same reason.
 
-S.
-Also from uneasiness and idea together.
+S. Also from uneasiness and idea together.
 
 The understanding not distinct from particular perceptions or ideas.
 
 The Will not distinct from particular volitions.
 
-S.
-It is not so very evident that an idea, or at least uneasiness, may be without all volition or act.
+S. It is not so very evident that an idea, or at least uneasiness, may be without all volition or act.
 
 The understanding taken for a faculty is not really distinct from ye will.
 
 This allow'd hereafter.
 
-S.
-To ask whether a man can will either side is an absurd question, for the word can presupposes volition.
+S. To ask whether a man can will either side is an absurd question, for the word can presupposes volition.
 
-N.
-Anima mundi, substantial form, omniscient radical heat, plastic vertue, Hylaschic principle—all these vanish105.
+N. Anima mundi, substantial form, omniscient radical heat, plastic vertue, Hylaschic principle—all these vanish105.
 
-M.
-Newton proves that gravity is proportional to gravity. I think that's all106.
+M. Newton proves that gravity is proportional to gravity. I think that's all106.
 
 Qu. whether it be the vis inertiæ that makes it difficult to move a stone, or the vis attractivæ, or both, or neither?
 
 Mem. To express the doctrines as fully and copiously and clearly as may be. Also to be full and particular in answering objections107.
 
-S.
-To say ye Will is a power; [therefore] volition is an act. This is idem per idem.
+S. To say ye Will is a power; [therefore] volition is an act. This is idem per idem.
 
 Wt makes men despise extension, motion, &c., & separate them from the essence of the soul, is that they imagine them to be distinct from thought, and to exist in unthinking substance.
 
-[pg 032]
+
 An extended may have passive modes of thinking good actions.
 
 There might be idea, there might be uneasiness, there might be the greatest uneasiness wthout any volition, therefore the....
 
-M.
-Matter once allow'd, I defy any man to prove that God is not Matter108.
+M. Matter once allow'd, I defy any man to prove that God is not Matter108.
 
-S.
-Man is free. There is no difficulty in this proposition, if we but settle the signification of the word free—if we had an idea annext to the word free, and would but contemplate that idea.
+S. Man is free. There is no difficulty in this proposition, if we but settle the signification of the word free—if we had an idea annext to the word free, and would but contemplate that idea.
 
-S.
-We are imposed on by the words will, determine, agent, free, can, &c.
+S. We are imposed on by the words will, determine, agent, free, can, &c.
 
-S.
-Uneasiness precedes not every volition. This evident by experience.
+S. Uneasiness precedes not every volition. This evident by experience.
 
-S.
-Trace an infant in the womb. Mark the train & succession of its ideas. Observe how volition comes into the mind. This may perhaps acquaint you with its nature.
+S. Trace an infant in the womb. Mark the train & succession of its ideas. Observe how volition comes into the mind. This may perhaps acquaint you with its nature.
 
-S.
-Complacency seems rather to determine, or precede, or coincide wth & constitute the essence of volition, than uneasiness.
+S. Complacency seems rather to determine, or precede, or coincide wth & constitute the essence of volition, than uneasiness.
 
-S.
-You tell me, according to my doctrine a man is not free. I answer, tell me wt you mean by the word free, and I shall resolve you109.
+S. You tell me, according to my doctrine a man is not free. I answer, tell me wt you mean by the word free, and I shall resolve you109.
 
 N.
 Qu. Wt do men mean when they talk of one body's touching another? I say you never saw one body touch, or (rather) I say, I never saw one body that I could say touch'd this or that other; for that if my optiques were improv'd, I should see intervalls and other bodies behind those whch now seem to touch.

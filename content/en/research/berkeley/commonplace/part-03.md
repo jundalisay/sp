@@ -1,6 +1,6 @@
 ---
-title: "Commonplace"
-heading: ""
+title: "Can there be an infinite idea?"
+heading: "Part 3"
 weight: 7
 description: ""
 c: "steelblue"
@@ -129,5 +129,3 @@ Curves perfectly incomprehensible, inexplicable, absurd, except we allow points.
 
 I.
 If men look for a thing where it's not to be found, be they never so sagacious, it is lost labour. If a simple clumsy man knows where the game lies, he though a fool shall catch it sooner than the most fleet & dexterous that seek it elsewhere. Men choose to hunt for truth and knowledge anywhere rather than in their own understanding, where 'tis to be found.
-
-
