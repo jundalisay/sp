@@ -4,6 +4,7 @@ title: "The Human Intellect Has A Priori Cognitions"
 description: ""
 weight: 6
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

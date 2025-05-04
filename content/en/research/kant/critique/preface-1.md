@@ -3,6 +3,7 @@ title: "Preface 1"
 description: "Human reason, in one sphere of its cognition, is called upon to consider questions"
 weight: 4
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

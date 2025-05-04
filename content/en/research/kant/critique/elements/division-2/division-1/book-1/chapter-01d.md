@@ -4,6 +4,7 @@ title: The Table of Categories
 description: "This critique of reason has now taught us that all its efforts to extend the bounds of knowledge are utterly fruitless"
 weight: 12
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

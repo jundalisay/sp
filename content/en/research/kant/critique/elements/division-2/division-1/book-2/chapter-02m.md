@@ -4,6 +4,7 @@ title: The Imaginary
 description: "The Application of the Categories Sensory Objects"
 weight: 58
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

@@ -4,6 +4,7 @@ title: "In all Theoretical Sciences of Reason, Synthetical Judgements 'a priori'
 description: "Mathematical judgements are always active-connective-thinking"
 weight: 14
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

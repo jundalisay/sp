@@ -4,6 +4,7 @@ title: Principle of the Succession of Time
 description: "The Application of the Categories Sensory Objects"
 weight: 38
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

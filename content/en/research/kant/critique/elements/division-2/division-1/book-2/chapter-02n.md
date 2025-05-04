@@ -4,6 +4,7 @@ title: General Remark On The System Of Principles
 description: "The Application of the Categories Sensory Objects"
 weight: 68
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

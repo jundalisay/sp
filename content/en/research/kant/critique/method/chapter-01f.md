@@ -4,6 +4,7 @@ title: "Axioms"
 description: "The Discipline of Pure Reason in the Sphere of Dogmatism"
 weight: 14
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

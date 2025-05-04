@@ -4,6 +4,7 @@ title: The Postulates Of Empirical Thought
 description: "The Application of the Categories Sensory Objects"
 weight: 52
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

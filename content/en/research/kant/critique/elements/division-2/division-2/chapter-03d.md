@@ -4,6 +4,7 @@ title: The Impossibility of an Ontological Proof of God's Existence
 description: "The Application of the Categories Sensory Objects"
 weight: 58
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

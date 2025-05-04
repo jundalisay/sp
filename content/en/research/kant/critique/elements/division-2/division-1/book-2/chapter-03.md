@@ -4,6 +4,7 @@ title: The Ground of the Division of all Objects into Phenomena and Noumena
 description: "The Application of the Categories Sensory Objects"
 weight: 70
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

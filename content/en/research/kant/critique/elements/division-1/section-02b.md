@@ -4,6 +4,7 @@ title: Conclusions About Space and Time
 description: "The Application of the Categories Sensory Objects"
 weight: 10
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

@@ -4,6 +4,7 @@ title: General Remarks on Transcendental Aesthetic
 description: "The Application of the Categories Sensory Objects"
 weight: 12
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

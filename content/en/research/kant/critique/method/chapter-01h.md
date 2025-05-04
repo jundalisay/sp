@@ -4,6 +4,7 @@ title: "The Discipline of Pure Reason in Polemics"
 description: "The Discipline of Pure Reason in the Sphere of Dogmatism"
 weight: 18
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

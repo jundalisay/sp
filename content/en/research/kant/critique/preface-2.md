@@ -3,6 +3,7 @@ title: "Preface 2"
 description: "PREFACE TO THE SECOND EDITION, 1787"
 weight: 6
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

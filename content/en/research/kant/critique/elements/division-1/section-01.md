@@ -4,6 +4,7 @@ title: Space
 description: "The Application of the Categories Sensory Objects"
 weight: 6
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 
