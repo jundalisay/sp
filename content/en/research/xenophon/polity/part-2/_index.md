@@ -6,4 +6,5 @@ writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
 weight: 2
+linkTitle: "The Spartans"
 ---

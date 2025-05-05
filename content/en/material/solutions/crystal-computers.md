@@ -70,7 +70,8 @@ An alignment of such pores in material objects can facilitate:
 - transparency by allowing mors (light) to pass through
 - 'levity' or anti-gravity by letting the qosts (spacetime particles) pass through
 
-> *The alignment of the pores is known to Physics as alignment of the magnetic moment when you magnetize something.
+
+{{< n n="The alignment of the pores is known to Physics as alignment of the magnetic moment when you magnetize something.">}}
 
 
 To freeze photons, light is stripped of its energy by running it through consecutive pores in the crystal. It is then then reenergized by emission which is either by light, electromagnetism, or sound.
@@ -129,9 +130,9 @@ This is similar to convenience stores where quick, small  purchases are made, in
 
 As a phenomena predictor, it can greatly reduce crop risk* and disaster risk, and even political and economic uncertainty**. 
 
-> *This is explained by Bio Superphysics
+{{< n n="*This is explained by Bio Superphysics" >}}
 
-> **This is explained by Social Superphysics
+{{< n n="**This is explained by Social Superphysics" >}}
 
 
 

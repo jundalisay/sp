@@ -14,7 +14,7 @@ S. There can be perception wthout volition. Qu. whether there can be volition wi
 E. Existence not conceivable without perception or volition—not distinguish'd therefrom.
 
 
-{{< n n="N. B. Several distinct ideas can be perceived by sight and touch at once. Not so by the other senses. 'Tis this diversity of sensations in other senses chiefly, but sometimes in touch and sight (as also diversity of volitions, whereof there cannot be more than one at once, or rather, it seems there cannot, for of that I doubt), gives us the idea of time—or is time itself." }}
+{{< n n="N. B. Several distinct ideas can be perceived by sight and touch at once. Not so by the other senses. 'Tis this diversity of sensations in other senses chiefly, but sometimes in touch and sight (as also diversity of volitions, whereof there cannot be more than one at once, or rather, it seems there cannot, for of that I doubt), gives us the idea of time—or is time itself." >}}
 
 
 What would the solitary man think of number?
