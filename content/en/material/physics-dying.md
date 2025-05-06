@@ -26,11 +26,17 @@ Then Loop Quantum Gravity (LQG) failed by being untestable like String Theory. I
 
 Gravity then emerges from relativistic quantized spaces which form a "spin network", as empty space. Time is created as sequences of spin networks, called a "spin foam".
 
-The spin network is roughly similar to our spacetime slices just as spin foam is similar to our aetherspace.  
+- The spin network is roughly similar to the spacetime slices of our Superphysics
+- The spin foam is similar to our aetherspace
 
-However, the concept of LQG are not testable because it is impossible to physically create artificial space and time. It can only be created in the imagination: you can quantize your thoughts to make them gravitate to each other, and then put them in a sequence to create the phenomenon of time. 
+However, the concept of LQG are not testable because it is impossible to physically create artificial space and time. 
 
-Our spacetime slices, on the other hand, are testable through predictions of social and personal events that actually happen in physical reality. Our aetherspace is testable through alternative medicine via chi and chakra, or through the prelevitation* of masses without magnetism.  
+It can only be created in the imagination: you can quantize your thoughts to make them gravitate to each other, and then put them in a sequence to create the phenomenon of time. 
+
+
+On the other hand:
+- the spacetime slices of Material Superphysics are testable through predictions of social and personal events that actually happen in physical reality
+- the aetherspace is testable through alternative medicine via chi and chakra, or through the prelevitation* of masses without magnetism.  
 
 {{< n n="*Making a mass lighter without actually levitating" >}}
 

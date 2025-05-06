@@ -11,6 +11,8 @@ authors:
   link: https://www.linkedin.com/in/jundalisay/
 ---
 
+{{< n n="Some blind believers in Einstein ask us what is our output, in their effort to contrast our contributions to those of Einstein whom we assert has killed Physics through his scam Relativity." >}}
+
 
 The most important output of Superphysics is the eagle, which is our equation for everything. This is packed with:
 - the ratio sign which connects everything in existence
@@ -29,14 +31,13 @@ Since 2012, various people, aka 'The Team', have been working on Superphysics bo
 Theories | Description | Year Start
 --- | --- | --- 
 Superphysics Book | Based on the 2 Forces, 4 Cycles, 5 Elements, and Cartesian Relationality. Built during the pandemic | 2020
-
+Supermath and Qualimath | Supermath is base-6 with new notations to account for Relationality of the lower 3 Elements. Qualimath is base-3 Supermath for the aether | 2020
 
 Implementations or Experiments | Description | Year Start
 --- | --- | --- 
 True Love | A team member uses Superphysics principles to find true love | 2017
 The 5 Layers for Goal Setting | An alternative to SMART goal setting (Specific, measureable, attainable, realistic, time bound) | 2022
-Lish | A global language based on Cartesian Relationality as an alternative to English | 2024
-
+Lish | A global language based on Cartesian Relationality as an alternative to English. This destroys Chomsky's Western-centric assumptions on language, disproven by tribes who never needed numbers nor future tense. | 2024
 
 
 ## Bio Superphysics 
