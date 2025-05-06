@@ -18,9 +18,21 @@ The theory of relativity is a mass of error and deceptive ideas violently oppose
 {{< /q >}}
 
 
-Why was Tesla so against Relativity?
+Relativitiy merely measures things, but does not explain any causal principles. 
 
-This is because Relativity imposes limitations based on Electromagnetism, as the sequential or linear speed of light.
+This is similar to how cavemen measure time by looking at the sun's position in the sky. 
+
+Einstein would be like a caveman who invents the sundial to make the observations more accurate. This sundial can then be tested on moonlight to show how genius and accurate sundials are (compared to looking at the sky), which is really based on measuring shadows, something that previous cavemen didn't think of.
+
+Sundials do not explain why sun goes around the sky just as Relativity does not explain why light is limited to 300,000 kilometers per second. 
+
+
+{{< i s="/photos/objects/clock.jpg" a="Sundial" c="The invention of the metric tensor is like the invention of notches in a sundial" >}}
+
+
+## Why was Tesla so against Relativity?
+
+Relativity imposes limitations based on Electromagnetism, as the sequential or linear speed of light.
 
 However, Tesla's proposed invention -- a global energy transmission system -- required near-instant electricity transmission. 
 
@@ -42,7 +54,11 @@ This linear thinking (sequential spacetime), as opposed to instant-thinking (arb
 
 ## The Aether is Superior to Electromagnetism
 
-In Cartesian Physics, and in Nature, the aether as the 5th Element is superior to Electromagnetism as the 1st Element (which we call the Radiant Layer)
+In Cartesian Physics, and in Nature, the aether as the 5th Element is superior to Electromagnetism as the 1st Element (which we call the Radiant Layer).
+
+The aether is the substance of ideas and feelings which are non linear and totally arbitrary. This is why you can have totally different ideas and feelings one second after another. 
+
+You can discard this liberated property and force yourself into rigid ideas and constant feelings like a machine or computer with hard-wired memory. This is what dogma does -- North Korea, Islam, and Dark Ages Europe are good at this.
 
 The aether was called substance, which Tesla agrees with: 
 
@@ -50,6 +66,7 @@ The aether was called substance, which Tesla agrees with:
 Man can increase or decrease his velocity of movement by the mysterious power he possesses by appropriating more or less energy from other substance, and turning it into motive energy. 
 {{< /q >}}
 
+This arbitariness allows instant anything since the aether is above spacetime. This is now used by UFOs to teleport and by clairvoyants to see the future and past. 
 
 
 
@@ -57,7 +74,7 @@ Man can increase or decrease his velocity of movement by the mysterious power he
 
 Tesla is very correct in bashing Einstein who used the garb of mathematics to perpetuate his scam.
 
-This strengthens our assertion that Physics has become a religion that uses the elitist language of mathematics. This is similar to how:
+This strengthens our assertion that Physics has become a religion that uses the elitist language of mathematics to worship the limitation and safety created by matter. This is similar to how:
 
 - The Catholic Church hid its dogmas under the elitist language of Latin
 - The Hindus hid behind the elitist language of Sanskrit
@@ -75,9 +92,9 @@ This is why we are creating Supermath and Qualimath, not only to account for the
 
 ## The Solution
 
-It is true that Tesla's promises are possible. He seemed to know about the properties of the liquid aether. 
-
-He knew Buddhism enough to quote the Buddha.
+It is true that Tesla's promises are possible. 
+- He seemed to know about the properties of the liquid aether. 
+- He knew Buddhism enough to quote the Buddha.
 
 **But the problem is that he didn't seem to know the properties of the pure aether nor aethereal vortices.**
 
@@ -86,8 +103,10 @@ This is why his experiments failed.
 The proper way of making his global transmission system work is to detect the 2nd Element around the Earth that will actually facilitate the energy transmission, then unify with it by matching its frequency. 
 
 
-{{< i s="/graphics/physics/unify.jpg" a="2nd Element" >}}
+{{< i s="/graphics/physics/unify.jpg" a="2nd Element" c="The energy has to match the space" >}}
 
+
+To do this, humans need to know the properties of invisible space around the Earth in order to harness it as a transmission mechanism. This requires humans to observe the invisible, something that Superphysics and Cartesian Physics excels in.
 
 Our generation has a huge advantage over Einstein and Tesla because we not only have the internet, but also have AI. So there's no *intellectual* excuse to not know the properties of the aether.
 
@@ -97,7 +116,7 @@ This is because experiments with the aether take a long time (since the aether i
 
 If there are no results after a day or two, then it's a waste of time. 
 
-But this obsession with time, as opportunity cost, is really a result of the economic system enshrining money which is static in Nature.
+But this social pressure from time, as opportunity cost, is really a result of the economic system enshrining money which is static in Nature.
 
 This is why our first focus is developing and pushing for a moneyless system.
 
@@ -142,12 +161,3 @@ It is used by physicists to pat themselves on the back to justify the spending o
 
 As such, the beggar Theory of Relativity cannot describe how gravity is created. This is why it cannot explain dark matter nor dark energy, much less harness them for practical use. 
  -->
-
-## The Solution
-
-Tesla was unable to realize his global energy transmission invention because he didn't know vortices andnn was even deficient in the .
-
-
-To actually understand and use dark energy and dark matter, we go back to the real kings, as the theory of aethereal vortices from Descartes (for dynamics) and the theory of archetypes by Kepler (for classification). 
-
-These can be used to create algorithms on the fly (instead of static Newtonian or Einsteinian equations) to manipulate gravity within the ever-changing spacetime.
