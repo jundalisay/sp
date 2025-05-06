@@ -42,15 +42,17 @@ This is very different from the Judeo-Christian God, Yahweh, Allah, and even the
 - The Christian God is very forgiving and generous. This mirrors the feelings of Jews under the wealthy Romans 
 - The Islamic Allah is very commanding. This mirrors the feelings of Arabs rallying the tribes against the Byzantines and Persians.
 
-<!-- This is because it is the feelings that propels the mind from idea to idea.  -->
+The only way to explain the weirdness of the Judeo-Christian God is to connect it to the Anunnaki which is the alien species that created humans. This connects the Bible, Torah, and Quran to the texts of the Babylonians and Sumerians, since reality is a continuous wave. 
 
-To get a true view of the Supreme, we follow the 'critical feeling' techniques of Buddhism and Hinduism of catching and isolating our feelings so that we can see Existence in Its true form, without the bias of feeling.
+The Anunnaki are physical beings and so are Negative. 
+
+To get a true view of the Supreme, separate from superior aliens, we follow the 'critical feeling' techniques of Buddhism and Hinduism of catching and isolating our feelings so that we can see Existence in Its true form, without the bias of feeling.
 
 This allows us to classify these descriptions of the Supreme according to whether they are more Positive or Negative.
 
 Entity | Positive Force | Negative Force | Absolute (Neither Positive nor Negative)
 --- | --- | --- | ---
-Christian God | :heavy_check_mark: | | 
+Christian God |  | :heavy_check_mark: | 
 Islamic Allah |  | :heavy_check_mark: |
 Jewish Yahweh |  | :heavy_check_mark: |
 Buddhist Sunya |  | | :heavy_check_mark:
@@ -75,7 +77,7 @@ We can regard it as the Supreme Entity in passive or pre-existing form.
 - Buddhists call it Sunya or Void
 
 {{< q a="Aristotle" c="The Metaphysics by Aristotle Simplifed, Book 1, Part 8" >}}
-The believers of The One [The Pythagoreans] say that The One is the cause of substance. 
+The believers of The One say that The One is the cause of substance [aether]. 
 {{< /q >}}
 
 

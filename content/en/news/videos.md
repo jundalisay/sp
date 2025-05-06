@@ -15,25 +15,28 @@ Thanks to AI voices we can now make videos explaining Superhysics.
 
 Superphysics | Title
 --- | ---
-{{< youtube ANmq24cJFc0 >}} | The 8 Dimensions of Reality
-{{< youtube Va3VvSrR8YA >}} | Space, Distance, Time, Timespan
-{{< youtube OW5-dcrqM1I >}} | Tiume Moves Forward Only
-{{< youtube 6D9LNAgWbRE >}} | Aetherspace, Timespace
-{{< youtube adPQAffGXG8 >}} | The 5 Strata of the Metaphysical Domain
-{{< youtube lISLgasNjHk >}} | Consciousness and Samadhi
+[![The 8 Dimensions of Reality](https://img.youtube.com/vi/ANmq24cJFc0/default.jpg)](https://youtu.be/ANmq24cJFc0) | The 8 Dimensions of Reality
+[![Watch the video](https://img.youtube.com/vi/Va3VvSrR8YA/default.jpg)](https://youtu.be/Va3VvSrR8YA) | Space, Distance, Time, Timespan
+[![Watch the video](https://img.youtube.com/vi/OW5-dcrqM1I/default.jpg)](https://youtu.be/OW5-dcrqM1I) | Time Moves Forward Only
+[![Watch the video](https://img.youtube.com/vi/6D9LNAgWbRE/default.jpg)](https://youtu.be/6D9LNAgWbRE) | Aetherspace, Timespace
+[![Watch the video](https://img.youtube.com/vi/adPQAffGXG8/default.jpg)](https://youtu.be/adPQAffGXG8) | The 5 Strata of the Metaphysical Domain
+[![Watch the video](https://img.youtube.com/vi/lISLgasNjHk/default.jpg)](https://youtu.be/lISLgasNjHk) | Consciousness and Samadhi
+
 
 
 Material Superphysics | Title
 --- | ---
-{{< youtube hVMhomGHLfM >}} | The 5 Layers of Reality
-{{< youtube 1exx_yijcJo >}} | Timespace, Aetherspace, Spacetime
-{{< youtube VUuWPrhNz5o >}} | Wave Particle Duality
-{{< youtube X_P0GEu4HQY >}} | Superposition, Decoherence, Collapse
-{{< youtube 0dXvYASaIx4 >}} | Bob Lazar's Gravity A-Wave as Aetherspace
-{{< youtube klka8xfvMDY >}} | Why is Einstein's Relativity Wrong?
-{{< youtube 7o5cXV7tDVA >}} | Material Gravity
-{{< youtube C7ipQX4YptA >}} | Newton's Universal Law of Gravitation
-{{< youtube Higl9xtBSOM >}} | Newton's 2nd and 3rd Laws
+
+[![Watch the video](https://img.youtube.com/vi/_fVZSDiFCxY/default.jpg)](https://youtu.be/_fVZSDiFCxY) | Dark Energy
+[![Watch the video](https://img.youtube.com/vi/hVMhomGHLfM/default.jpg)](https://youtu.be/hVMhomGHLfM) | The 5 Layers of Reality
+[![Watch the video](https://img.youtube.com/vi/1exx_yijcJo/default.jpg)](https://youtu.be/1exx_yijcJo) | Timespace, Aetherspace, Spacetime
+[![Watch the video](https://img.youtube.com/vi/VUuWPrhNz5o/default.jpg)](https://youtu.be/VUuWPrhNz5o) | Wave Particle Duality
+[![Watch the video](https://img.youtube.com/vi/X_P0GEu4HQY/default.jpg)](https://youtu.be/X_P0GEu4HQY) | Superposition, Decoherence, Collapse
+[![Watch the video](https://img.youtube.com/vi/0dXvYASaIx4/default.jpg)](https://youtu.be/0dXvYASaIx4) | Bob Lazar's Gravity A-Wave as Aetherspace
+[![Watch the video](https://img.youtube.com/vi/klka8xfvMDY/default.jpg)](https://youtu.be/klka8xfvMDY) | Why is Einstein's Relativity Wrong?
+[![Watch the video](https://img.youtube.com/vi/7o5cXV7tDVA/default.jpg)](https://youtu.be/7o5cXV7tDVA) | Material Gravity
+[![Watch the video](https://img.youtube.com/vi/C7ipQX4YptA/default.jpg)](https://youtu.be/C7ipQX4YptA) | Newton's Universal Law of Gravitation
+[![Watch the video](https://img.youtube.com/vi/Higl9xtBSOM/default.jpg)](https://youtu.be/Higl9xtBSOM) | Newton's 2nd and 3rd Laws
 {{< youtube cQtvHmgQtng >}} | Vortex Formation, Galaxy Rotation Curves,  and Inverse Square Law
 .. | Prisms and Refraction
 {{< youtube tWo3lzAu_X0 >}} | Charge, Spin, and Magnetic Moment

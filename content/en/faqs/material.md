@@ -254,6 +254,7 @@ My work can lay the foundation to discover how this Spirit operates.
 Modern researchers think that Newton's spirit was electricity. But this is false because the electrical nature of nerves wouldn't be theorized until Volta and Galvani much later. Instead, Newton's spirits refer to Descartes' animal spirits which go through the nerves and create electrical impulses as effects i.e. plants also use it through fluid channels without needing nerves
 {{< /l >}}
 
+
 {{< r a="Asker" >}}
 How would you unify Newton's Physics with that of Descartes? 
 {{< /r >}}
