@@ -11,7 +11,7 @@ icon: "Juan"
 
 
 
-In July 1935 on this 79th birthday, Tesla asserted, just as we are asserting, that Einstein's Relativity was false:
+In [July 1935 on his 79th birthday](/research/tesla/newyork-times), Tesla asserted, just as we are asserting, that Einstein's Relativity was false:
 
 {{< q a="Nikola Tesla" c="New York Times, 1935" >}}
 The theory of relativity is a mass of error and deceptive ideas violently opposed to the teachings of great men of science of the past and even to common sense. It wraps all these errors and fallacies and clothes them in magnificent mathematical garb which fascinates, dazzles and makes people blind to the underlying errors. The theory is like a beggar clothed in purple whom ignorant people take for a king. Its exponents are very brilliant men, but they are metaphysicists rather than scientists. Not a single one of the relativity propositions has been proved.
@@ -24,8 +24,9 @@ This is similar to how cavemen measure time by looking at the sun's position in 
 
 Einstein would be like a caveman who invents the sundial to make the observations more accurate. This sundial can then be tested on moonlight to show how genius and accurate sundials are (compared to looking at the sky), which is really based on measuring shadows, something that previous cavemen didn't think of.
 
-Sundials do not explain why sun goes around the sky just as Relativity does not explain why light is limited to 300,000 kilometers per second. 
+Sundials do not explain why sun goes around the sky just as Relativity does not explain why light is limited to 300,000 kilometers per second*. 
 
+{{< n n="This was the original gist of the previous version of this article before we overhauled it into something more useful" >}}
 
 {{< i s="/photos/objects/clock.jpg" a="Sundial" c="The invention of the metric tensor is like the invention of notches in a sundial" >}}
 
@@ -70,7 +71,7 @@ You can discard this liberated property and force yourself into rigid ideas and 
 
 The aether was called substance, which Tesla agrees with: 
 
-{{< q a="Nikola Tesla" >}}
+{{< q a="Nikola Tesla" c="The Problem of Increasing Human Energy" >}}
 Man can increase or decrease his velocity of movement by the mysterious power he possesses by appropriating more or less energy from other substance, and turning it into motive energy. 
 {{< /q >}}
 
@@ -126,7 +127,7 @@ If there are no results after a day or two, then it's a waste of time.
 
 But this social pressure from time, as opportunity cost, is really a result of the economic system enshrining money which is static in Nature.
 
-This is why our first focus is developing and pushing for a moneyless system.
+This is why our first focus is developing and pushing for a moneyless system to say to the pressure of opportunity cost: "back off!"
 
 
 <!-- is merely a test of equipment. 
