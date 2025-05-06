@@ -109,13 +109,15 @@ It is true that Tesla's promises are possible.
 
 This is why his experiments failed. 
 
-The proper way of making his global transmission system work is to detect the 2nd Element around the Earth that will actually facilitate the energy transmission, then unify with it by matching its frequency. 
+The proper way of making his global transmission system work is to detect the 2nd Element around the Earth that will actually facilitate the energy transmission, then unify with it by matching its frequency i.e. it needs the unity of the 2nd, 1st, and 5th Elements. 
 
 
 {{< i s="/graphics/physics/unify.jpg" a="2nd Element" c="The energy has to match the space" >}}
 
 
 To do this, humans need to know the properties of invisible space around the Earth in order to harness it as a transmission mechanism. This requires humans to observe the invisible, something that Superphysics and Cartesian Physics excels in.
+
+Tesla only knew the 1st Element and had some vague idea of the 2nd Element.
 
 Our generation has a huge advantage over Einstein and Tesla because we not only have the internet, but also have AI. So there's no *intellectual* excuse to not know the properties of the aether.
 
