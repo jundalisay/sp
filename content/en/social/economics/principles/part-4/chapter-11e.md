@@ -10,7 +10,7 @@ description: "In Socrates' Law of Social Cycles, the Oligarchy follows after the
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

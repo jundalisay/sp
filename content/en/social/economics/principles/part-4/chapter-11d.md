@@ -10,7 +10,7 @@ description: "These are the effects of Capitalism"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

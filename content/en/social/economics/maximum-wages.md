@@ -7,7 +7,7 @@ description: "The Effort Theory of Value creates maximum wages and revene, a con
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

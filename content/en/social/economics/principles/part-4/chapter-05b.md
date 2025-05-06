@@ -9,7 +9,7 @@ description : "People think that an inverted yield curve is the sole indicator o
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

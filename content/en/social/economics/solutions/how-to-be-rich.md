@@ -6,7 +6,7 @@ description: "Adam Smith gave 5 tips on how to be wealthy that can be applicable
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

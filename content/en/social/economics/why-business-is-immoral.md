@@ -7,7 +7,7 @@ description: "The immorality in business is best explained by David Hume as the 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

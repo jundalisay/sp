@@ -8,7 +8,6 @@ description: "We suggest the reversal of controls to restore Venezuela's fixed c
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "/flags/ve.png"
 weight: 209
 ---
 
@@ -125,9 +124,8 @@ The number of producers will increase each month as prices rise and the competit
 
 The gradual elimination of price controls will cause previously hoarded goods to be gradually released back to the market. This is because those hoarded goods will provide no profit after goods start to become more abundant, as explained by Smith:
 
-{{< q a="Adam Smith" >}}
+{{< q a="Adam Smith" c="The Simple Wealth of Nations, Book 4, Chapter 5" >}}
 The corn merchant, from excessive avarice, might raise corn prices higher than needed. He is likely to suffer the most by this excess of avarice because he must sell his leftover corn at a loss if the next season proves abundant.
-<cite>The Simple Wealth of Nations, Book 4, Chapter 5</cite>
 {{< /q >}}
 
 <!-- The ultimate goal of removing price controls is to encourage production across the board. If a producer knows that he can set proper prices after six months, then he will use the six months to prepare to rebuild his capital, hire workers, and re-start production whether it be agricultural, industrial, or service in nature, because demand is very high (recall that Chavez’ social programs increased the demand of the poor). If a consumer knows that prices will be higher in six months, then he will reduce his expenses and focus only on essentials. If the consumer is rich, then he must convert his cash into investments to avoid it from being eaten up by the perceived inflation.
@@ -166,4 +164,3 @@ To solve these causes, the following solutions are proposed:
   - Meet the requirements of foreign nations to remove the sanctions
   - Allow capital and credit to flow back 
 - Announce an end to price controls, in a phased manner
-

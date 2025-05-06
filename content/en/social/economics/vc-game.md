@@ -8,7 +8,7 @@ youtube: "rVP73TV2X0s"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 draft: true
 ---
 

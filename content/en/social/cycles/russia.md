@@ -10,7 +10,6 @@ description: "The social cycles of Russia last 15 years"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "/flags/ru.png"
 ---
 
 

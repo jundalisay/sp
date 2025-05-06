@@ -8,7 +8,7 @@ description : "Adam Smith suggested some policies in the Wealth of Nations which
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

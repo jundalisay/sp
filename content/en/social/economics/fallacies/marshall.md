@@ -6,7 +6,7 @@ description : "The Circular Flow of Economics emphasizes Businesses. That of Sup
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

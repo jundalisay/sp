@@ -8,7 +8,7 @@ description : "Here are Historical Economic Problems viewed according to the DCT
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

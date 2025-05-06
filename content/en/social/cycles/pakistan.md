@@ -7,7 +7,6 @@ date: 2024-02-18
 weight: 154
 image: "/flags/pk.png"
 description : "The most sustainable way to create peace and progress in Afghanistan is by installing Islamic feudalism offset by an civilized Protector"
-icon: "/flags/pk.png"
 draft: true
 ---
 

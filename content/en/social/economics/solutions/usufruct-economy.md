@@ -6,7 +6,7 @@ description: "We explain how the Usufruct Economy will work and how it integrate
 # writer:
 #   name: Juan
 #   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

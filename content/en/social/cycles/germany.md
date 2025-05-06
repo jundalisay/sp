@@ -7,8 +7,7 @@ image: "/flags/de.png"
 description: "The best solution for Germany is the left-wing BSW party led by Sahra Wagenknecht."
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: "/flags/de.png"
+  url: https://www.linkedin.com/in/jundalisay
 weight: 93
 ---
 

@@ -7,7 +7,7 @@ description : "The fellow-feeling advocated by Superphysics can help artists sur
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

@@ -33,16 +33,14 @@
     <figcaption class="flex items-center justify-center space-x-2 rtl:space-x-reverse">
         {{ if $img }}
           <img class="w-12 h-12 rounded-full shadow-lg" src="{{ $img.Permalink }}" alt="{{ $a }}">
-        {{ else }}
-          <img class="w-12 h-12 rounded-full shadow-lg" src="/icons/blank.jpg" alt="Blank">
         {{ end }}
-        <div class="flex items-center divide-x-2 rtl:divide-x-reverse divide-gray-500 dark:divide-gray-700">
+        <div class="flex items-center dark:divide-gray-700">
             <cite class="pe-3 font-medium text-gray-900 dark:text-white">{{ $a }}</cite>
-            <cite class="ps-3 text-sm text-gray-500 dark:text-gray-400">{{ $c }}</cite>
+            <cite class="ps-3 text-sm border-l border-gray-500 dark:border-gray-400 text-gray-500 dark:text-gray-400">{{ $c }}</cite>
         </div>
     </figcaption>  
 </figure>
 
-
+<!-- <img class="w-12 h-12 rounded-full shadow-lg" src="/icons/blank.jpg" alt="Blank"> -->
 
 

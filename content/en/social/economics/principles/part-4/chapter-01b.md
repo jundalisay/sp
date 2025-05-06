@@ -8,7 +8,7 @@ description: A crisis-proof economic system isn't based on static equilibrium or
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 weight: 14
 ---
 

@@ -8,13 +8,12 @@ date: 2024-07-29
 weight: 42
 image: /photos/physics/ai.jpg
 description: "In reality, AI is not really artificial, but is a very limited version of natural intelligence"
-icon: /icons/pantry.png
+icon: "Supereconomics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 aliases:
   /superphysics/solutions/isaiah
-# /superphysics/principles/chapter-04d
 ---
 
 

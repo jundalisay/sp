@@ -9,7 +9,7 @@ description : "During economic crises, the points can be used as interest-free d
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 draft: true
 ---
 

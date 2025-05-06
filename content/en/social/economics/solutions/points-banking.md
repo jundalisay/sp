@@ -7,7 +7,7 @@ description : "Points Banking integrates Basic Universal Revenue and Resource Cr
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

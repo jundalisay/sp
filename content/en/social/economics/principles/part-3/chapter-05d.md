@@ -9,7 +9,7 @@ description : "The proper energy policy is to let the government handle energy."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

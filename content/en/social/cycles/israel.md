@@ -10,7 +10,6 @@ description: "The social cycles of Israel last 12 years"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "/flags/il.png"
 weight: 93
 ---
 

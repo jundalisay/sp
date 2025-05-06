@@ -8,7 +8,7 @@ description : "Pointtax is a taxation system that is based on points which repre
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

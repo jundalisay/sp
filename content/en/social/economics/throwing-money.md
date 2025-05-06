@@ -7,7 +7,7 @@ description: "Money is the command of effecitve work that already exists, not fo
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

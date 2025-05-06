@@ -6,9 +6,7 @@ date: 2015-04-15
 weight: 75
 image: "/flags/gr.png"
 description: "We suggest fixing Greece through Fiscal and Trade Systems Reform"
-icon: "/flags/gr.png"
 ---
-
 
 
 We can use our [DCTI tool](/social/economics/principles/part-4/chapter-07/) to analyze the Greek crisis to prove that austerity and high taxes are not the best solutions.

@@ -8,7 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 56
-icon: /icons/pantry.png
+icon: "Supereconomics"
 aliases:
   /social/economics/solutions/modern-economic-table/
 ---

@@ -1,12 +1,12 @@
 ---
 title: "Saudi Arabia"
 # date: 2021-08-16
-weight: 2
+weight: 166
 image: "/flags/af.png"
 description : "The most sustainable way to create peace and progress in Afghanistan is by installing Islamic feudalism offset by an civilized Protector"
 draft: true
-icon: "/flags/af.png"
 ---
+
 
 The Islamic Golden Age happened because the Abbasid caliphate moved their capital to Baghdad to be closer to Persia to attract foreign talent. It’s similar to how Dubai is trying to attract talent because it knows it will have nothing when the oil runs out. Most of the scientists in the ‘House of Wisdom’ were Persian. Yes, they did make a lot of scientific writings, but did it lead to any invention which were mass produced to be sold and earn revenue? No. 
 

@@ -9,7 +9,7 @@ description : "Here are two Scenarios viewed according to the DCIT model"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

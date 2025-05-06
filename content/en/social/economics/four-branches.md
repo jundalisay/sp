@@ -7,7 +7,7 @@ description : "The 4 branches of Superphysics are Personal, Social, Micro, Macro
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

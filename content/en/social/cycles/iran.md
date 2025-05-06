@@ -10,9 +10,8 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 155
-icon: "/flags/ir.png"
 ---
 
 
 
-The rivalry between the US and Iran is actually very ancient. The US follows the Roman mentality while Iran follows the Persian mentality. Historically, the Arabs were insignificant. They only gained power because of the plague that came from Parthia which weakened the Roman Empire.    Saudi Arabia just exists because the British and Americans created it after the Ottoman Empire fell . 
+The rivalry between the US and Iran is actually very ancient. The US follows the Roman mentality while Iran follows the Persian mentality. Historically, the Arabs were insignificant. They only gained power because of the plague that came from Parthia which weakened the Roman Empire. Saudi Arabia just exists because the British and Americans created it after the Ottoman Empire fell . 

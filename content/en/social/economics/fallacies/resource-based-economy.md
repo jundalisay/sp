@@ -7,7 +7,7 @@ description: "The Resource Based Economy is similar to Marxism and will fail jus
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

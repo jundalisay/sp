@@ -7,7 +7,7 @@ description: "QE failed because profit maximization prevents money from going to
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false  
 ---
 

@@ -8,7 +8,7 @@ description : "The Nash Equilibrium makes society compete with itself."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 draft: true
 ---
 

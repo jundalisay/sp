@@ -9,7 +9,7 @@ description: "Supereconomics can be used to create economic systems for Mars and
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

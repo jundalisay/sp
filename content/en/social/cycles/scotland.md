@@ -3,10 +3,9 @@ title: "Scotland"
 heading: "Install.."
 draft: true
 date: 2017-01-18
-weight: 2
+weight: 170
 #image: "/flags/af.png"
 description : ".."
-# icon: "/flags/af.png"
 ---
 
 Last year (2016), two big events happened that changed the Western world: Brexit and the election of Donald Trump. Both were bad events.

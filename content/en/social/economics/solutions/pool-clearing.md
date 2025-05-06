@@ -6,7 +6,7 @@ description : "The congestion in ports began with the pandemic which disrupted t
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

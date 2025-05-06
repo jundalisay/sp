@@ -10,7 +10,7 @@ description : "The Producer’s & Consumer’s Surplus and Deadweight Loss in Ec
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 # aliases:
 #   /social/economics/fallacies/surplus/

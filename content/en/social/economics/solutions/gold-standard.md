@@ -6,7 +6,7 @@ description : "The Gold Standard can be restored through EF Schumacher's Clearin
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

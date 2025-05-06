@@ -10,7 +10,7 @@ description : "Economics enshrines Utility as the foundation of value, while Sup
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

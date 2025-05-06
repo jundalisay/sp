@@ -8,7 +8,7 @@ description: How Profit Maximization creates the Cycle of Poverty
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

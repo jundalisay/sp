@@ -7,7 +7,7 @@ description : "We expose the differences between Ricardo's Labor Theory of Value
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false 
 ---
 

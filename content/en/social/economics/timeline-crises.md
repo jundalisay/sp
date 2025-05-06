@@ -7,7 +7,7 @@ heading: From 1204-2020
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

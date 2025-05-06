@@ -25,3 +25,7 @@ Mid | Chemical reactivity and Radioactivity | Z- Boson
 Lower | Chemical changes | W Boson
 
 
+### The Convertible Internal Boundary
+
+The internal boundary of the convertible layer manifests as the X17 particle.
+

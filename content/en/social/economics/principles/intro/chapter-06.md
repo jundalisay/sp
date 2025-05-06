@@ -36,17 +36,17 @@ These create a supereconomic science that is very different from the current one
 
 Economics Material Goal | Supereconomics Material Goal
 --- | ---
-Private Wealth separate from government and morality {{< q a="Say" >}}To me, these two very distinct inquiries have been..separated, the term political economy being now confined to the science..of wealth,<br> and that of politics, ..the relations.. between a government and its people"{{< /q >}} | Wealth of Society integrated with government & morality {{< q a="Adam Smith" c="The Wealth Of Nations" >}} Political œconomy..proposes to enrich both the peopleand the sovereign."{{< /q >}}
+Private Wealth separate from government and morality {{< q a="Jean Baptiste Say" >}}To me, these two very distinct inquiries have been..separated, the term political economy being now confined to the science..of wealth,<br> and that of politics, ..the relations.. between a government and its people"{{< /q >}} | Wealth of Society integrated with government & morality {{< q a="Adam Smith" c="The Wealth Of Nations" >}} Political œconomy..proposes to enrich both the peopleand the sovereign."{{< /q >}}
 
 
 Economics Moral Basis | Supereconomics Moral Basis
 --- | ---
-Uncertain morality {{< q a="say" >}} progress has..(questioned) whether it is.. impossible that all should start in the world with a fair chance.. The question cannot be fully answered by economic science. For the answer depends.. on the moral and political capabilities of human nature (which) the economist has no.. special.. information"<cite>Alfred Marshall</cite>{{< /q >}} | Fellow-feeling (Theory of Moral Sentiments) {{< q a="Adam Smith" c="The Wealth Of Nations Book 5" >}} In every civilized society..there were always two..systems of morality.."{{< /q >}}
+Uncertain morality {{< q a="Alfred Marshall" >}} progress has..(questioned) whether it is.. impossible that all should start in the world with a fair chance.. The question cannot be fully answered by economic science. For the answer depends.. on the moral and political capabilities of human nature (which) the economist has no.. special.. information"<cite>Alfred Marshall</cite>{{< /q >}} | Fellow-feeling (Theory of Moral Sentiments) {{< q a="Adam Smith" c="The Wealth Of Nations Book 5" >}} In every civilized society..there were always two..systems of morality.."{{< /q >}}
 
 
 Economics Psychological Basis | Supereconomics Psychological Goal
 --- | ---
-Pleasure {{< q a="Willam Stanley Jevons" >}}to maximise pleasure,is the problem of Economics{{< /q >}} | Peace of Mind {{< q a="Adam Smith" >}} In what constitutes the real happiness of human life..<br>In ease of body and peace of mind, all the different ranks of life are nearly upon a level" <cite>Theory Of Moral Sentiments</cite>{{< /q >}}
+Pleasure {{< q a="Willam Stanley Jevons" >}} to maximise pleasure,is the problem of Economics{{< /q >}} | Peace of Mind {{< q a="Adam Smith" >}} In what constitutes the real happiness of human life..<br>In ease of body and peace of mind, all the different ranks of life are nearly upon a level" <cite>Theory Of Moral Sentiments</cite>{{< /q >}}
 
 Economics Means | Supereconomics Means
 --- | ---
@@ -58,7 +58,7 @@ Business Interests (Society Works for Businessmen) | Societal Interests (Busines
 
 Economics Motive And Measure | Supereconomics Motive And Measure
 --- | ---
-Supply or Production Motive measured by GDP {{< q a="Say" >}}it is the Aim of Good Government to Stimulate Production, of Bad Government to Encourage Consumption.{{< /q >}} {{< q a="Paul Samuelson" >}}GDP and the..national income accounts are among the great inventions of the 20th century{{< /q >}} | Demand or Consumption Motive measured By Purchasing Power {{< q a="Adam Smith" >}}Consumption is the sole end and purpose of all production; the interest of the producer ought to be attended to only.. for promoting that of the consumer.{{< /q >}}
+Supply or Production Motive measured by GDP {{< q a="Jean Baptiste Say" >}}it is the Aim of Good Government to Stimulate Production, of Bad Government to Encourage Consumption.{{< /q >}} {{< q a="Paul Samuelson" >}}GDP and the..national income accounts are among the great inventions of the 20th century{{< /q >}} | Demand or Consumption Motive measured By Purchasing Power {{< q a="Adam Smith" >}}Consumption is the sole end and purpose of all production; the interest of the producer ought to be attended to only.. for promoting that of the consumer.{{< /q >}}
 Pricing System | Nominal (money) Prices Only | Nominal (money Or Metals) And Real (grain) Prices
 Main Theory | Equilibrium Theory And Marginal Utility ![Marginal Utility Wrong](https://sorasystem.sirv.com/charts/wrong.png)  | Natural Price Theory And Effort Theory Of Value  <img src="https://sorasystem.sirv.com/charts/right.png" alt="right">
 

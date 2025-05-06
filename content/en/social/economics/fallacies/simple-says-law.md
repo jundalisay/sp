@@ -7,7 +7,7 @@ description : "Say's Law depends on barter which still happened in the 19th cent
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

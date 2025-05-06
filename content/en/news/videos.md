@@ -26,7 +26,6 @@ Superphysics | Title
 
 Material Superphysics | Title
 --- | ---
-
 [![Watch the video](https://img.youtube.com/vi/_fVZSDiFCxY/default.jpg)](https://youtu.be/_fVZSDiFCxY) | Dark Energy
 [![Watch the video](https://img.youtube.com/vi/hVMhomGHLfM/default.jpg)](https://youtu.be/hVMhomGHLfM) | The 5 Layers of Reality
 [![Watch the video](https://img.youtube.com/vi/1exx_yijcJo/default.jpg)](https://youtu.be/1exx_yijcJo) | Timespace, Aetherspace, Spacetime
@@ -37,7 +36,7 @@ Material Superphysics | Title
 [![Watch the video](https://img.youtube.com/vi/7o5cXV7tDVA/default.jpg)](https://youtu.be/7o5cXV7tDVA) | Material Gravity
 [![Watch the video](https://img.youtube.com/vi/C7ipQX4YptA/default.jpg)](https://youtu.be/C7ipQX4YptA) | Newton's Universal Law of Gravitation
 [![Watch the video](https://img.youtube.com/vi/Higl9xtBSOM/default.jpg)](https://youtu.be/Higl9xtBSOM) | Newton's 2nd and 3rd Laws
-{{< youtube cQtvHmgQtng >}} | Vortex Formation, Galaxy Rotation Curves,  and Inverse Square Law
+[![Watch the video](https://img.youtube.com/vi/cQtvHmgQtng/default.jpg)](https://youtu.be/cQtvHmgQtng) | Vortex Formation, Galaxy Rotation Curves,  and Inverse Square Law
 .. | Prisms and Refraction
 {{< youtube tWo3lzAu_X0 >}} | Charge, Spin, and Magnetic Moment
 {{< youtube Yus5W8boPf4 >}} | Magnetism

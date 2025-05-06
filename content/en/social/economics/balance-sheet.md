@@ -8,7 +8,7 @@ description: "Here we explain how Points-banking puts an end to commercial (trad
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 aliases:
   /social/economics/end-of-capitalism
 ---

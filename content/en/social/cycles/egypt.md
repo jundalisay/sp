@@ -9,8 +9,7 @@ image: "/flags/eg.png"
 description: "The social cycles of Egypt last 19 years. These explain the Arab spring"
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: /flags/eg.png
+  url: https://www.linkedin.com/in/jundalisay
 ---
 
 

@@ -7,7 +7,7 @@ weight: 8
 image: "/photos/objects/car.jpg"
 # graphics/jfk
 description: "The Effort Theory of Value is our alternative to both marginal pricing of Capitalism and the labor theory of value of Marxism"
-icon: /icons/pantry.png
+icon: "Supereconomics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -9,7 +9,7 @@ description : "Rent, Wages, Profit, and Donations are the four revenue types of 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

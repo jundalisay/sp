@@ -6,7 +6,7 @@ image: "/photos/objects/king.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 {{< i s="/photos/econ/smithstatue.jpg" a="Adam Smith" >}}
