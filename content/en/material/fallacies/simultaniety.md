@@ -2,7 +2,7 @@
 title: "The Fallacy of Einstein's Simultaneity"
 date: 2024-12-06
 # weight: 32
-image: /covers/einstein.jpg
+image: /photos/objects/clock.jpg
 description: "Science is pure objectiveness. The problem is that the universe is subjective and its core is actually paradoxical"
 writer:
   name: Juan
@@ -13,7 +13,7 @@ toc: false
 
 
 
-Physics has become backward because of the failure of gravity research. 
+Physics has become backward because of the failure of gravity research.
 
 
 ### The Einstein Trap

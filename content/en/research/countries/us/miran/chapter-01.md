@@ -47,19 +47,25 @@ Chinese consumers’ purchasing power declined with their weakening currency.
 
 President Trump has also discussed adopting substantial changes to dollar policy. 
 
-Sweeping tariffs and a shift away from strong dollar policy can have some of the broadest ramifications of any policies in decades, fundamentally reshaping the global trade and financial systems.
+Sweeping tariffs and a shift away from strong dollar policy can fundamentally reshape the global trade and financial systems.
 
-There is a path by which these policies can be implemented without material adverse consequences, but it is narrow, and will require currency offset for tariffs and either gradualism or coordination with allies or the Federal Reserve on the dollar.
+These can be implemented without material adverse consequences through currency offset for tariffs and either gradualism or coordination with allies or the Federal Reserve on the dollar.
 
-Potential for unwelcome economic and market volatility is substantial, but there are steps the Administration can take to minimize it.
+Potential for unwelcome economic and market volatility is substantial. But the Administration can minimize it.
 
-From a trade perspective, the dollar is persistently overvalued, in large part because dollar assets function as the world’s reserve currency.
+From a trade perspective, the dollar is persistently overvalued because dollar assets act as the world’s reserve currency.
 
-This overvaluation has weighed heavily on the American manufacturing sector while benefiting financialized sectors of the economy in manners that benefit wealthy Americans.
+This overvaluation has:
+- weighed heavily on the American manufacturing sector, but
+- benefitted financialized sectors of the economy benefitting wealthy Americans.
 
-And yet, President Trump has praised the reserve status of the dollar and threatened to punish countries that stop using the dollar for reserve purposes.
+And yet, President Trump has:
+- praised the reserve status of the dollar
+- threatened to punish countries that stop using the dollar for reserve purposes.
 
-I expect these tensions will be resolved by a suite of policies designed to increase burden sharing among trading and security partners: rather than attempting to end the use of the dollar as the global reserve currency, the Trump Administration can attempt to find ways to capture back some of the benefits other nations receive from our reserve provision. 
+These tensions will be resolved by a suite of policies that increase burden-sharing among trading and security partners
+
+Rather than attempting to end the use of the dollar as the global reserve currency, the Trump Administration can attempt to find ways to capture back some of the benefits other nations receive from our reserve provision. 
 
 Reallocation of aggregate demand from other countries to America, an increase in revenue to the U.S. Treasury, or a combination thereof, can help America bear the increasing cost of providing reserve assets for a growing global economy. 
 
