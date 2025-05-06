@@ -7,6 +7,7 @@ author: Hegel
 weight: 15
 ---
 
+
 ## (b). Fear
 
 {{< s v="194" >}} We have seen what bondage is only in relation to lordship.

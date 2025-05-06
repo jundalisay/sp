@@ -61,7 +61,7 @@ These are both different from spacetime where local or normal motion happens.
 {{< /l >}}
 
 
-{{< youtube 0gcJCYQJAYcqIYzv >}}
+{{< youtube _fVZSDiFCxY >}}
 
 
 {{< r a="Asker" >}}
@@ -124,9 +124,11 @@ This everyone present may witness. There are often times more than 10,000 person
 
 
 {{< l a="Material Superphysics" >}}
-So we take their data, mostly from Asia to explain how anti-gravity works. Thankfully, we found that Rene Descartes already explained it through his concepts of the 2nd Element (vayu in Vedic Physics) and animal spirits (chi in Taoist Physics). 
+Marco Polo points to Tibetan lamas as the experts in natural anti gravity. Incidentally, we learned about levitation through Hindu monks which use the same system as the lamas did.
 
-These align and we use them to explain everything from Newtoninan gravity, to black holes, dark mattter and baryonic acoustic oscillations.
+Since it's a principle of Nature, then we looked for other cultures that knew it. Thankfully, we found that Rene Descartes already explained it through his concepts of the 2nd Element (vayu in Vedic Physics) and animal spirits (chi in Taoist Physics). 
+
+These align with Asian Physics so we use them to explain everything from Newtoninan gravity, to black holes, dark mattter and baryonic acoustic oscillations.
 
 These then lead to new technologies such as for levitation, teleportation, nuclear fusion (by levitating the plasma) and free energy among others.
 {{< /l >}}
@@ -138,7 +140,7 @@ These then lead to new technologies such as for levitation, teleportation, nucle
 
 
 {{< r a="Asker" >}}
-So Physics is unable to come up with such solutions because it doesn't account for mind?
+So Physics is unable to come up with such solutions because it doesn't account for mind, spirit, and non-Western principles?
 {{< /r >}}
 
 
@@ -164,11 +166,16 @@ Why do physicists keep on smashing atoms uselessly? They even have plans to make
 {{< l a="Material Superphysics" >}}
 It's because they are materialists and materialists, like Democritus and Newton, enshrine matter -- they believe that gravity comes from matter. So they smash atoms to find that gravity or dark matter. But of course they find nothing. This is because gravity comes from the aether and not matter -- Nature is idealistic and not materialistic. 
 
-In our MSQ model (alternative to the Standard Model), the Higgs field is called "rib" as Radiant Internal Boundary. You can derive its properties from the model and don't need to build an expensive collider for it.
+The West came from the Romans who mastered matter in order to build a huge empire.
 
-A common trait of materialists (configuration of their minds) is they like money and gambling. This is why Newton invested in the stock market, but Descartes and Adam Smith did not.
+A common trait of matter-ialists (configuration of their minds) is they like money, gambling, and physical pleasures. This is why Newton invested in the stock market, but Descartes and Adam Smith did not.
+
+This is opposite of the Hindus who renounced the world and made themselves terribly poor with fasting and voluntary poverty. Heck even the Buddha abandoned his wealth to go begging to reduce his ego. It would be like Elon Musk giving away his wealth so he can switch to teaching poor people for free on how to become industrialists.
+
+In our MSQ model (alternative to the Standard Model), matter is the lowest and crudest Element or Layer, while the aether is the highest and subtlest.
 {{< /l >}}
 
+ <!-- the Higgs field is called "rib" as Radiant Internal Boundary. You can derive its properties from the model and don't need to build an expensive collider for it. -->
  
 {{< img src="/graphics/physics/msq.jpg" alt="MSQ" >}}
 
@@ -223,10 +230,29 @@ Cool. You are using the moneyless system of Adam Smith to support the aether-bas
 {{< l a="Material Superphysics" >}}
 Yes. This is the really cool thing about Descartes. He explained how everything works, whether physical, biological, medical, or psychological.
 
-Ideally, Newton should have built his Physics on top of Descartes' instead of totally replacing it. We are only against Einstein, not Newton who correctly believed that gravity is a force.  
+Ideally, Newton should have built his Physics on top of Descartes' instead of totally replacing it. We are only against Einstein, not Newton who correctly believed that gravity comes from Spirit.  
 {{< /l >}}
 
+
+{{< q a="Newton" c="Principia Mathematica, General Scholium" >}}
+A Spirit pervades and lies hidden in all gross bodies. Its action and force causes the particles of bodies to:
+- mutually attract one another at near distances (electric bodies operate farther)
+- cohere if contiguous
+- emit light and heat bodies
+
+All animal bodies move at the command of the will through the vibrations of this Spirit. 
+- these vibrations travel from our sense organs to the brain
+- from the brain to the muscles
+
+My work can lay the foundation to discover how this Spirit operates.
+{{< /q >}}
+
 <!-- Spinoza then builds on it to explain politics. -->
+
+
+{{< l a="Material Superphysics" >}}
+Modern researchers think that Newton's spirit was electricity. But this is false because the electrical nature of nerves wouldn't be theorized until Volta and Galvani much later. Instead, Newton's spirits refer to Descartes' animal spirits which go through the nerves and create electrical impulses as effects i.e. plants also use it through fluid channels without needing nerves
+{{< /l >}}
 
 {{< r a="Asker" >}}
 How would you unify Newton's Physics with that of Descartes? 

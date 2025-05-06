@@ -1,16 +1,18 @@
 ---
-title: "New Simplifications"
-date: 2021-08-01
+title: "New Simplifications as of"
+# date: 2021-08-01
+date: 2025-05-02
 description: "We list the new simplifications"
 c: "darkslategray"
-# showdate: true
+showdate: true
 weight: 3
 ---
 
 
 {{< d t="2025" >}}
-April 5 | Simplified Malthus' works to compare it to Trump's trade war policies
+May 1 | Simplified Guru Granth Sahib of the Sikhs
 --- | ---
+April 5 | Simplified Malthus' works to compare it to Trump's trade war policies
 Mar 24 | Simplified Euler's Mechanica in preparation to build Material Superphysics
 {{< /d >}}
 

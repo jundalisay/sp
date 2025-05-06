@@ -1,6 +1,6 @@
 ---
-title: "Videos for Superphysics"
-date: 2024-08-28
+title: "Videos for Superphysics as of"
+date: 2025-05-02
 # date: 2023-02-20
 description: "We list the events in the evolution of Superphysics from 2020-present"
 c: "darkslategray"

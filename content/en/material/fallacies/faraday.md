@@ -26,13 +26,13 @@ The flaw with Faraday was that he did not know that magnetism is caused by virtu
 
 The concept of channels is from Descartes in the 1630s; virtual photons are from Feynman in the 1940s via QED
 
-Cartesian Physics explains that when a wire is at rest in a magnetic field, its electrons are not compressed and so there is no channel to create electromagnetism
+Cartesian Physics explains that:
+- when a wire is at rest in a magnetic field, its electrons are not compressed and so there is no channel to create electromagnetism
+- when the wire is moved, the electrons experience a shift in the virtual photons. This nudges them together to create a channel
 
-But when the wire is moved, the electrons experience a shift in the virtual photons. This nudges them together to create a channel
+This is why the speed and angle of the wire relative to the magnet are important.
 
-This is why the speed and angle of the wire relative to the magnet are important
-
-Faraday's ignorance of virtual photons and channels led to Faraday's Paradox, which is resolved by Cartesian channels
+Faraday's ignorance of virtual photons and channels led to Faraday's Paradox, which is easily resolved by Cartesian channels
 
 You would think that Maxwell would fix it by adding the concept of either [vortices](https://en.wikipedia.org/wiki/Quantum_vortex) or channels, something that is now standard in superconductors. 
 

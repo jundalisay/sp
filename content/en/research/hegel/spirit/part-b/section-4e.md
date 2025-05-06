@@ -9,30 +9,31 @@ weight: 14
 
 <!-- ## 3.  -->
 
-<sup>189</sup> In this experience, self-consciousness becomes aware that life is as essential to it as pure self-consciousness.
+<sup>189</sup> In this experience, self-consciousness becomes aware that life is as essential to it as pure self-consciousness is.
 
-In immediate self-consciousness, the simple ego is absolute object, which, however, is for us or in itself absolute mediation, and has as its essential moment substantial and solid independence.
+In immediate self-consciousness, the simple ego is absolute object.
 
-The dissolution of that simple unity is the result of the first experience.
+For us, however, the simple ego:
+- is absolute mediation
+- has as its essential moment as substance and solid independence.
 
-Through this, there is posited:
+***The dissolution of that simple unity is the result of the first experience.***
+
+The first experience creates:
 
 1. A pure self-consciousness
 
-This is independent. Its essential nature is to be for itself.
-
-This is dependent. Its essence is life or existence for another. 
-
-This is the Master.
+- This is independent. Its essential nature is to be for itself.
+- This is dependent. Its essence is life or existence for another. 
+- This is the Master.
 
 2. An existent consciousness
  
-This is not purely for itself, but for another consciousness in the shape of thinghood.
+- This is not purely for itself, but for another consciousness in the shape of thinghood.
+- This is the Bondsman.
 
-This is the Bondsman.
 
-
-Both moments are essential, since they are opposed.
+Both moments are essence, since they are opposed.
 - Their reflexion into unity has not yet come to light.
 - They stand as two opposed forms or modes of consciousness. 
 
@@ -54,16 +55,21 @@ The master relates to both:
 
 The master is:
 
-- (a) qua notion of self-consciousness, an immediate relation of self-existence, but 
-- (b) is now moreover at the same time mediation, or a being-for-self which is for itself only through an other — he [the master] stands in relation (a) immediately to both, (b) mediately to each through the other. 
+- (a) qua notion of self-consciousness, an immediate relation of self-existence
+- (b) mediation, or a being-for-self 
+  - This exists because of an other — he [the master] stands in relation (a) immediately to both, (b) mediately to each through the other. 
 
 The master relates himself to the bondsman mediately through independent existence, for that is precisely what keeps the bondsman in thrall.
 
-it is his chain, from which he could not in the struggle get away, and for that reason he proved himself to be dependent, to have his independence in the shape of thinghood. 
+Independent existence is the chain that makes the bondsman dependent. This makes his independence take the shape of thinghood.
 
-The master, however, is the power controlling this state of existence, for he has shown in the struggle that he holds it to be merely something negative. 
+The master, however, is the power controlling this state of existence. This is because he has shown in the struggle that independent existence is merely something negative. 
 
-Since he is the power dominating existence, while this existence again is the power controlling the other [the bondsman], the master holds, par consequence, this other in subordination. 
+He is the power dominating existence.
+
+This existence is the power controlling the other [the bondsman].
+
+And so the master holds this other in subordination. 
 
 In the same way, the master relates himself to the thing mediately through the bondsman. 
 
@@ -74,32 +80,45 @@ But the thing is independent for him.
 As a consequence, he cannot, with all his negating, get so far as to annihilate it.
 
  <!-- outright and be done with it; that is to say, -->
-Instead, he merely works on it. 
+Instead, he merely works on it.
 
-To the master, on the other hand, by means of this mediating process, belongs the immediate relation, in the sense of the pure negation of it, in other words he gets the enjoyment.
+To the master, on the other hand, gets the enjoyment through this mediating process of the pure negation of it.
 
-What mere desire did not attain, he now succeeds in attaining, viz. to have done with the thing, and find satisfaction in enjoyment. 
+<!-- , belongs the immediate relation, in the sense of the pure negation of it, in other words he . -->
 
-Desire alone did not get the length of this, because of the independence of the thing. 
+The master now attains what mere desire could ot attain, viz. to have done with the thing, and find satisfaction in enjoyment. 
 
-The master who has interposed the bondsman between it and himself, thereby relates himself merely to the dependence of the thing, and enjoys it without qualification and without reserve. 
+Desire could not achieve this because of the independence of the thing. 
 
-The aspect of its independence he leaves to the bondsman, who labours upon it.
+But the master has interposed the bondsman between it and himself. 
+
+The master relates himself merely to the dependence of the thing. He and enjoys it without qualification nor reserve.
+
+The aspect of its independence he leaves to the bondsman, who labours on it.
 
 
 ## (a). Lordship
 
-<sup>191</sup> In these two moments, the master gets his recognition through an other consciousness, for in them the latter affirms itself as unessential, both by working upon the thing, and, on the other hand, by the fact of being dependent on a determinate existence; in neither case can this other get the mastery over existence, and succeed in absolutely negating it.
+<sup>191</sup> In these 2 moments, the master gets his recognition through an other consciousness which then affirms itself as non-essence by:
+- working on the thing, and
+- being dependent on a determinate existence
 
-We have thus here this moment of recognition, viz. that the other consciousness cancels itself as self-existent, and, ipso facto, itself does what the first does to it. 
+In neither case can this other [bondsman] get the mastery over existence, and succeed in absolutely negating it.
 
-In the same way we have the other moment, that this action on the part of the second is the action proper of the first; for what is done by the bondsman is properly an action on the part of the master.
+<!-- We have thus here this moment of recognition, viz. that -->
 
-The latter exists only for himself, that is his essential nature; he is the negative power without qualification, a power to which the thing is naught. 
+And so the other consciousness cancels itself as self-existent. It does what the master does to it. 
 
-He is thus the absolutely essential act in this situation, while the bondsman is not so, he is an unessential activity. 
+In the same way we have the other moment when this action by the bondsman is the action of the master. This is because the bondsman merely does the action of the master.
 
-But for recognition proper there is needed the moment that what the master does to the other he should also do to himself, and what the bondsman does to himself, he should do to the other also. On that account a form of recognition has arisen that is one-sided and unequal.
+The master exists only for himself.
+- He is the negative power without qualification, a power to which the thing is naught.
+
+He is thus the absolute essence in this situation. The bondsman is not essence. 
+
+But what the master does to the bondsman, he also does to himself. What the bondsman does to himself, he should do to the other also.
+
+On that account a form of recognition has arisen that is one-sided and unequal.
 
 
 <sup>192</sup> In all this, the unessential consciousness is, for the master, the object which embodies the truth of his certainty of himself.

@@ -56,10 +56,10 @@ pagerSize = 24
         name = "Cycles"
         url = "social/cycles/"
         weight = 9
-    [[languages.en.menu.main]]
-        name = "FAQs"
-        url = "faqs"
-        weight = 11
+    # [[languages.en.menu.main]]
+    #     name = "FAQs"
+    #     url = "faqs"
+    #     weight = 11
     [[languages.en.menu.main]]
         name = "News"
         url = "news"
