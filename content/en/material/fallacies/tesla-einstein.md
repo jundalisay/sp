@@ -30,6 +30,14 @@ Sundials do not explain why sun goes around the sky just as Relativity does not 
 {{< i s="/photos/objects/clock.jpg" a="Sundial" c="The invention of the metric tensor is like the invention of notches in a sundial" >}}
 
 
+If Relativity really explained gravity then there would be anti-gravity by now.
+
+<!-- In Berekely's Physics, the mechanism of gravity is the aether or spirit (feelings). Materialists like Einstein negate feelin
+
+In reality, Einstein made Physics backwrd  the human species give up on gravity by  -->
+
+
+
 ## Why was Tesla so against Relativity?
 
 Relativity imposes limitations based on Electromagnetism, as the sequential or linear speed of light.

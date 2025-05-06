@@ -1,6 +1,6 @@
 ---
 title: "Descartes, Rene"
-heading: "Enlightened"
+heading: "Enlightened Except with Animals"
 linkTitle: Descartes
 # date: 2022-07-29
 weight: 26
