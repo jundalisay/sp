@@ -1,7 +1,7 @@
 ---
 title: "The Vedics of Rarh"
 heading: "Chapter 30"
-weight: 2
+weight: 28
 c: "seagreen"
 description: ""
 icon: "PR Sarkar"
