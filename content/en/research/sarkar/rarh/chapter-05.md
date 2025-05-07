@@ -42,20 +42,44 @@ When I do His worship, I worship You as well.]
 {{< /q >}}
 
 
-Even innumerable rural folk-rhymes prevalent in Ráŕh are paeans to Shiva. A liberal Shaeva [Shaivite] ideology permeated every existential vibration, every cell of the bone and marrow of Ráŕh. For this reason the women of Ráŕh always enjoyed more liberty than those of other countries. They had absolute freedom to move anywhere – in the markets and fairs, in the villages and towns. They still enjoy the same amount of liberty today.
+Even innumerable rural folk-rhymes prevalent in Ráŕh are paeans to Shiva. A liberal Shaeva [Shaivite] ideology permeated every existential vibration, every cell of the bone and marrow of Ráŕh. 
 
-In the past, men and women shared equally in the hard work of the fields and farms. They continue to do so today. Even on the battlefield women stood beside their men and actively fought in wars. There were no artificial social restrictions. Even Bagri [Samatat] and Barendrabhumi(1) did not allow women as much freedom as Ráŕh, what to speak of Vauṋga-D́abák. Moreover, there were numerous restrictions based on caste.
+This is why the women of Ráŕh always enjoyed more liberty than those of other countries.
 
-Shankaracharya came to Ráŕh only [not the rest of Bengal]. Hence many Buddhists and Jains of Ráŕh embraced Paoráńika Dharma. D́abák being marshy land, neither Shankaracharya nor any of his disciples with leadership qualities visited there much. So the inhabitants of that land remained Buddhists and later embraced Islam on a large scale. It can be said that Muslims are scarce in modern-day Ráŕh, except for some in eastern Ráŕh. Hindus and Muslims are almost equally numerous in Bagri. But in D́abák Muslims are in great number. The reason is this.
+They had absolute freedom to move anywhere – in the markets and fairs, in the villages and towns. They still enjoy the same amount of liberty today.
 
-The history of Ráŕh is not the history of Ráŕh alone, it is the history of Bagri, D́abák, Barendra and Orissa also. Wherever the people of Ráŕh have settled down, they have mingled and become one with the local people. So it can be observed that there exists a close link between the people of Ráŕh and the people of Orissa.
+In the past, men and women shared equally in the hard work of the fields and farms. They continue to do so today. 
+
+Even on the battlefield women stood beside their men and actively fought in wars. There were no artificial social restrictions. 
+
+Even Bagri [Samatat] and Barendrabhumi(1) did not allow women as much freedom as Ráŕh, what to speak of Vauṋga-D́abák. 
+
+Moreover, there were numerous restrictions based on caste.
+
+Shankaracharya came to Ráŕh only [not the rest of Bengal]. 
+
+Hence many Buddhists and Jains of Ráŕh embraced Puranic Dharma.
+
+D́abák being marshy land, neither Shankaracharya nor any of his disciples with leadership qualities visited there much. So the inhabitants of that land remained Buddhists and later embraced Islam on a large scale. 
+
+Muslims are scarce in modern-day Ráŕh, except for some in eastern Ráŕh.
+
+Hindus and Muslims are almost equally numerous in Bagri. But in D́abák Muslims are in great number. The reason is this.
+
+The history of Ráŕh is not the history of Ráŕh alone, it is the history of Bagri, D́abák, Barendra and Orissa also. 
+
+Wherever the people of Ráŕh have settled down, they have mingled and become one with the local people. 
+
+So there is a close link between the people of Ráŕh and the people of Orissa.
 
 Severe caste discrimination arose in Ráŕh due to the influence of the Paoráńika Dharma propounded by Shankaracharya.
 - This evil created fatal rents in the otherwise well-knit social fabric of Ráŕh. 
 
 A man who showed outstanding wisdom while rescuing Ráŕh from the sway of that horribly destructive system was Chaitanya Mahaprabhu (Vishwambhar Mishra).
 
-He formed a new group, the Vaishnavite group, with those people who were not socially recognized by the high-caste Hindus. The people of this Vaishnavite group are still spread in many places throughout Ráŕh. Mahaprabhu’s historic contribution still permeates every atom of the soil of Ráŕh. 
+He formed a new group, the Vaishnavite group, with those people who were not socially recognized by the high-caste Hindus.
+
+The people of this Vaishnavite group are still spread in many places throughout Ráŕh. Mahaprabhu’s historic contribution still permeates every atom of the soil of Ráŕh. 
 
 So no one can lose caste so easily today.(2)
 
@@ -67,5 +91,3 @@ So no one can lose caste so easily today.(2)
 (1) Barendra. See footnote on “Gaoŕiiya” in “Outstanding Personalities of Ráŕh”. –Trans.
 
 (2) If someone becomes de-recognized by the higher castes, that person now has another group to go to, and this in turn discourages the higher castes from de-recognizing in the first place. –Trans.
-
-
