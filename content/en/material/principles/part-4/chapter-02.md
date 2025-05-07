@@ -25,7 +25,13 @@ Mid | Chemical reactivity and Radioactivity | Z- Boson
 Lower | Chemical changes | W Boson
 
 
-### The Convertible Internal Boundary
+### The Convertible Internal Boundary: X17
 
-The internal boundary of the convertible layer manifests as the X17 particle.
+The internal boundary of the convertible layer manifests as the X17 particle which was discovered in 2016 by the Atomki Institute from collisions with Beryllium.
+
+It has a mass of 17 MeV and was validated in 2019 by collisios with Helium.
+
+X17 is around 242,000 times heavier than the electron neutrino just as the Higgs boson is 245,000 times heavier than the electron. 
+
+This consistent ratio means that X17 is the Higgs for the Weak Force or Convertible Layer. 
 

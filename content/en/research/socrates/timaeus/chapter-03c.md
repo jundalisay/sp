@@ -1,6 +1,6 @@
 ---
 heading: Chapter 3c
-title: "Timaeus' Lecture"
+title: "The Form of the Universe"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
@@ -10,10 +10,6 @@ description: "Timaeus is the most of an astronomer amongst us. He has made the n
 ---
 
 
-
-This is how the body of the world was created out of 4 such elements.
-
-It was harmonized by proportion, and therefore has the spirit of friendship. Having been reconciled to itself, it was indissoluble<!--  by the hand of any other than the framer -->.
 
 The creation took up all of each of the 4 elements. The Creator compounded the world out of all 
 - the fire

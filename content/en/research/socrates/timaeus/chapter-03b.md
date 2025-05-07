@@ -1,6 +1,6 @@
 ---
 heading: Chapter 3b
-title: "The 4 Eleemnts"
+title: "The 4 Elements"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
@@ -96,19 +96,23 @@ The fairest bond is that which makes the most complete fusion* of:
 
 Proportion is best adapted to effect such a union. 
 
-If a set of any 3 numbers has a mean, the 1st number is 
+
+And for these reasons, and out of such elements which are in number four, the body of the world was created, and it was harmonized by proportion, and therefore has the spirit of friendship; and having been reconciled to itself, it was indissoluble by the hand of any other than the framer. 
+
+
+If a set of any 3 numbers has a mean, the mean is to the 1st number just as it is to the last number.
 
 {{< n n="For example, 1 and 5 has 3 as its 'mean' being away by 2 units from both." >}}
 
 
-<!-- Whenever there are 3 numbers, the mean is the 
+Thus:
+- the mean becomes first and last
+- the first and last both become means
 
-Whenever in any 3 numbers, whether cube or square, there is a mean, which is to the last term what the first term is to it.
-
-When the mean is to the first term as the last term is to the mean—then the mean becoming first and last, and the first and last both becoming means, they will all of them of necessity come to be the same, and having become the same with one another will be all one.  -->
+They will all of necessity come to be the same. Having become the same with one another will be all one.
 
 
-If the universal frame had been created a surface only and having no depth, a single mean would have sufficed to bind together itself and the other terms. 
+If the universal frame was just a surface with no depth, a single mean would have sufficed to bind together itself and the other terms. 
 
 But now, the world must be solid. Solid bodies are always compacted two means, not one.*
 
@@ -118,6 +122,10 @@ But now, the world must be solid. Solid bodies are always compacted two means, n
 And so, God placed water [convertible] and air [spacetime] in the mean between fire [electromagnetism] and earth [strong force].
 
 These have the same proportion as far as possible. Thus he bound and put together a visible and tangible heaven.
+
+This is why the body of the world was created out of 4 such elements.
+
+It was harmonized by proportion, and therefore has the spirit of friendship. Having been reconciled to itself, it was indissoluble<!--  by the hand of any other than the framer -->.
 
 <!-- (Fire is to air, as air is to water, and as air is to water so is water to earth) -->
 

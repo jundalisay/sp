@@ -61,7 +61,7 @@ When all of them<!-- , both those who visibly appear in their revolutions as wel
 
 ## Dharma
 
-{{< q >}}
+{{< q a="Creator" >}}
 My creations are indissoluble, if so I will. All that is bound may be undone. But only an evil being would wish to undo that which is harmonious and happy. 
 
 <!-- Wherefore, since ye are but creatures,  -->
