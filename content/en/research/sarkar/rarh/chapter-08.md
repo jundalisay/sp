@@ -48,16 +48,52 @@ As a receptacle one will become prosperous, and prosperity leads to happiness.]
 
 This shloka [couplet] shows that people have accepted religion only in hopes of getting wealth and pleasure.
 
-It is only in sama-samája tattva that actual dharma [the characteristic of human beings] lies. True dharma is that which establishes human beings in both spheres of life, that is, the objective world and the noumenal world. People will take with them everything that exists in the objective world, and proceed towards the noumenal world in such a way that all the expressions of objective life will merge into one with that sweet eternally-flowing entity within the noumenal. Keeping in mind this principle of sama-samája tattva, Ananda Marga started out on its universalistic journey. This principle must be adhered to by all dhármik people.
+It is only in sama-samája tattva that actual dharma lies.
 
-Chaitanya Mahaprabhu was born long after [the birth of] Jainism. Of all the factors that made Mahaprabhu “Maháprabhu” [a great master], two are important: 1) His birthplace was the confluence of Ráŕh and Bagri. He was born during a transitional period in the social life not only of Ráŕh, but also of Bengal. The philosophy of life [based partly on Jainism] which then prevailed in Ráŕh diminished human beings; it totally devalued humanity. Under the influence of an ideology of life that was opposed to the práńa dharma [the práńa dharma of a society means the distinctive characteristics of that society] of Ráŕh, the life of Bengal was drying up and turning into a desert. Endowed with a lofty mind and a deep sensitive heart, Chaitanya Mahaprabhu was unable to bear this state of affairs. 2) Supra-sensory “madness” among the Bauls of Ráŕh. In a bid to redress this unnatural situation [the devaluation of humanity] in social life, Chaitanya Mahaprabhu propounded Gaoŕiiya Vaeśńava Dharma, which served to quite some extent as a balm for the stinking wounds of the then society.
+True dharma is that which establishes human beings in both spheres of life, that is, the objective world and the noumenal world.
 
-Though there was some impact of sama-samája tattva in the Vaeśńava society founded by Ramananda, Ramanuja and Ballabhacharya, the system of caste discrimination was very strong. But Gaoŕiiya Vaeśńava philosophy was free from this evil influence. Thanks to the pervasive influence of Shaeva Dharma in Ráŕh, there was also some influence of sama-samája tattva. And since the Vaeśńava Dharma of Ráŕh was based on Shaeva Dharma, sama-samája tattva found a place in Ráŕh also. But the Vaeśńava Dharma of other parts of India was based on prapattiváda.(1)
+People will take with them everything that exists in the objective world, and proceed towards the noumenal world in a way that all the expressions of objective life will merge into one with that eternally-flowing noumenal entity.
 
-The soil of Ráŕh being very hard, Shaeva Dharma here formed a base that was also as hard as a diamond. A revolutionary attitude is the fundamental spirit of Tantra. The Baul doctrine and the influence of Jain Tantra and Shaeva Tantra all combinedly gave birth to an introversive, synthetic philosophy of life in Ráŕh; and in that environment emerged Chandidas, Dina Chandidas, Barhu Chandidas, Jaydev, Govindadas Thakur, Gyanadas Thakur, Lochandas Thakur, Naraharidas Thakur, etc., whose influence on the minds of the people of Ráŕh has been pervasive and profound.(2)
+
+Chaitanya Mahaprabhu was born long after the birth of Jainism.
+
+Two things made him a “Maháprabhu” [a great master]:
+
+1. His birthplace was the confluence of Ráŕh and Bagri.
+
+He was born during a transitional period in the social life of Ráŕh and Bengal.
+
+The philosophy of life [based partly on Jainism] which then prevailed in Ráŕh diminished human beings; it totally devalued humanity. 
+
+It was opposed to the práńa dharma of Ráŕh, causing the life of Bengal to dry up and turn into a desert.
+
+Endowed with a lofty mind and a deep sensitive heart, Chaitanya Mahaprabhu was unable to bear this state of affairs.
+
+2. Supra-sensory “madness” among the Bauls of Ráŕh.
+
+In a bid to redress this unnatural situation in social life, Chaitanya Mahaprabhu propounded Gaoŕiiya Vaeśńava Dharma.
+
+This was a balm for the stinking wounds of the then society.
+
+Though there was some impact of sama-samája tattva in the Vaeśńava society founded by Ramananda, Ramanuja and Ballabhacharya, the system of caste discrimination was very strong. 
+
+But Gaoŕiiya Vaeśńava philosophy was free from this evil influence. Thanks to the pervasive influence of Shaeva Dharma in Ráŕh, there was also some influence of sama-samája tattva. 
+
+And since the Vaeśńava Dharma of Ráŕh was based on Shaeva Dharma, sama-samája tattva found a place in Ráŕh also. 
+
+But the Vaeśńava Dharma of other parts of India was based on prapattiváda.(1)
+
+The soil of Ráŕh being very hard, Shaeva Dharma here formed a base that was also as hard as a diamond. 
+
+A revolutionary attitude is the fundamental spirit of Tantra. The Baul doctrine and the influence of Jain Tantra and Shaeva Tantra all combinedly gave birth to an introversive, synthetic philosophy of life in Ráŕh.
+
+In that environment emerged Chandidas, Dina Chandidas, Barhu Chandidas, Jaydev, Govindadas Thakur, Gyanadas Thakur, Lochandas Thakur, Naraharidas Thakur, etc., whose influence on the minds of the people of Ráŕh has been pervasive and profound.(2)
+
 
 1981, Kolkata
-Footnotes
+
+
+### Footnotes
 
 (1) The idea that everything is being done by Paramátman, by the Divine Entity. This idea was sometimes taken to an extreme or misinterpreted. –Trans.
 
