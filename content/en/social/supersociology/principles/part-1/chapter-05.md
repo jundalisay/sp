@@ -51,14 +51,17 @@ Traders | Socratic Neoliberals | Vaesyas | Oligarchs
 
 
 
-## W-W-T-T
+## w-W-t-T
 
-An easy mnemomic is "W-W-T-T" which stands for Worker-Warrior-Thinker-Trader. In this way:
+An easy mnemomic is "w-W-t-T" which stands for Worker-Warrior-Thinker-Trader. In this way:
 
 - Socialists, Liberals, and American libertarians fall under **Workers** or Socratic Liberals
 - Dictators, Generals, Communists (deployed Marxism), and Fascists fall under **Warriors** or Socratic NeoCons
 - Priests, Technocrats, Researchers, Marxists, and Nazis fall under **Thinkers** or Socratic Conservatives
 - Big Businesses, Free marketeers, Bankers fall under **Traders** or Socratic NeoLiberals
+
+The 'w' of the worker is small to represent the natural dominance of the warriors and leaders over them, just as the 't' of thinkers is small just as researchers always ask for grant money and priests ask for donations.
+
 
 {{< img src="/graphics/social/cycles.png" alt="Social Cycles" >}} 
 

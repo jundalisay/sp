@@ -16,11 +16,11 @@ It designates him as “Commander in Chief”2 and gives him the responsibility 
 
 ### CHIEF OF STAFF
 
-This id an Assistant to the President. However, the chief is truly first among equals. 
+This is an Assistant to the President. However, the chief is truly first among equals. 
 
 Of all presidential staff members, the chief is the most critical to implementation of the President’s vision for the country.
 
-The chief also has a dual role as manager of the staffs of both the WHO and the Executive Office of the President (EOP).5 
+The chief also has a dual role as manager of the staffs of both the White House Office (WHO) and the Executive Office of the President (EOP).5 
 
 The Chief of Staff’s first managerial task is to establish an organizational chart for the WHO. It should be simple and contain clear lines of authority and responsibility to avoid conflicts. 
 
@@ -28,11 +28,13 @@ It should also identify specific points of contact for each element of the gover
 
 Receiving guidance from the President, the chief endeavors to implement the President’s agenda by setting priorities for the WHO. This process begins by taking stock of the President’s campaign promises, identifying current and prospective opportunities, and then delegating policy priorities among the departments and agencies of the Cabinet and throughout the three White House policy councils:
 
-lThe National Economic Council (NEC);
-lThe Domestic Policy Council (DPC); and
-lThe National Security Council (NSC).
+- The National Economic Council (NEC)
+- The Domestic Policy Council (DPC)
+- The National Security Council (NSC)
 
-The President is briefed on all of his policy priorities by his Cabinet and senior staff as directed by the chief. The chief—along with senior WHO staff—maps out the issues and themes that will be covered daily and weekly. The chief then works with the policy councils, the Cabinet, and the Office of Communications and Office of Legislative Affairs (OLA) to sequence and execute the rollout of policies and announcements. White House Counsel and senior advisers and senior counselors are also intimately involved.
+The President is briefed on all of his policy priorities by his Cabinet and senior staff as directed by the chief. 
+
+The chief—along with senior WHO staff—maps out the issues and themes that will be covered daily and weekly. The chief then works with the policy councils, the Cabinet, and the Office of Communications and Office of Legislative Affairs (OLA) to sequence and execute the rollout of policies and announcements. White House Counsel and senior advisers and senior counselors are also intimately involved.
 
 All senior staff report to the Chief of Staff, either directly or through his two or three deputies, unless the President determines that a particular Assistant to the President reports directly to him. Most chiefs have interacted directly with Cabinet officers and a select number of direct reports. 
 
