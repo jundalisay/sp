@@ -10,6 +10,8 @@ writer:
 icon: "Superphysics"
 ---
 
+
+
 We define scientism as the belief that science, with its 5-sense limitation, explains all of Nature. 
 
 This is because in reality there are more than 5 senses. Some humans have more than 5, while most are limited to 5. 

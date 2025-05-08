@@ -7,11 +7,9 @@ description: "Heritage Foundation'"
 c: "firebrick"
 ---
 
-
-
-1 https://thehill.com/homenews/administration/376408-trump-if-you-dont-have-steel-you-dont-have-a-country/
+<!-- 1 https://thehill.com/homenews/administration/376408-trump-if-you-dont-have-steel-you-dont-have-a-country/
 2 https://www.wsj.com/politics/national-security/scale-of-chinese-spying-overwhelms-western-governments-6ae644d2
-The Roots of Economic Discontent Lie in the Dollar
+The Roots of Economic Discontent Lie in the Dollar -->
 
 ## The Triffin World
 
@@ -49,16 +47,25 @@ With no major geopolitical rivals, U.S. leaders believed they could minimize the
 But with China and Russia as not only trade but security threats, having a robust and well diversified manufacturing sector is of renewed necessity. 
 
 If you have no supply chains with which to produce weapons and defense systems, you have no national security. 
+- As President Trump argued, “if you don’t have steel, you don’t have a country.” 
 
-As President Trump argued, “if you don’t have steel, you don’t have a country.” 
+Many economists fail to include such externalities in their analysis
+- They are happy to rely on trade partners and allies for such supply chains
 
-While many economists fail to include such externalities in their analysis and are therefore happy to rely on trade partners and allies for such supply chains, the Trump camp does not share that trust. 
+But the Trump camp does not share that trust. 
 
-Many of America’s allies and partners have significantly larger trade and investment flows with China than they do with America; are we so sure we can trust them, if worse comes to worst?
+Many of America’s allies and partners have significantly larger trade and investment flows with China than they do with America.
+
+Are we so sure we can trust them, if worse comes to worst?
 
 Such problems are compounded by aggressive Chinese espionage. 
 
-According to reports in the Wall Street Journal, in September alone, “the FBI said a Chinese state-linked firm hacked 260,000 internet-connected devices, including cameras and routers, in the U.S., Britain, France, Romania and elsewhere. A Congressional probe said Chinese cargo cranes used at U.S. seaports had embedded technology that could allow Beijing to secretly control them.” 
+According to the Wall Street Journal, in September alone:
+
+{{< q a="Wall Street Jounral" >}}
+ “the FBI said a Chinese state-linked firm hacked 260,000 internet-connected devices, including cameras and routers, in the U.S., Britain, France, Romania and elsewhere. A Congressional probe said Chinese cargo cranes used at U.S. seaports had embedded technology that could allow Beijing to secretly control them.” 
+{{< /q >}}
+
 
 The security, espionage and sabotage vulnerability of sensitive imports from China continues to grow.
 

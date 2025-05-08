@@ -1,6 +1,5 @@
 ---
 title: "The Fallacy of Darwinian Evolution"
-# heading: "Caused by Dogma on Sarkar quotes"
 date: 2022-01-20
 image: "/photos/bio/peacock.jpg"
 description: "Darwin Evolution"
@@ -9,7 +8,10 @@ draft: true
 ---
 
 
-Darwin is actually evil too. 
+
+In the Book, the Origin of Species, Darwin sees natural behavior and interprets it as the survival of the fittest.
+
+
 
 A Westerner who looks at wild animals will see competition and struggle for existence.
 

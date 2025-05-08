@@ -2,7 +2,7 @@
 title: "La Mettrie and Bougeant"
 weight: 6
 description: "Descartes argued that there must be a thinking substance"
-c: "steelblue"
+c: "firebrick"
 ---
 
 

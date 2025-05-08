@@ -12,7 +12,7 @@
         </svg>
 
         {{/* Quote content - adjust padding/margins if needed */}}
-        <p class="indent-8 lg:text-4xl text-2xl tracking-tight lg:leading-tight leading-none font-bold text-gray-500 dark:text-white px-4">
+        <p class="indent-8 lg:text-4xl text-2xl tracking-tight lg:leading-tight leading-none font-bold text-white dark:text-white px-4">
             {{ .content }}
         </p>
 
@@ -27,8 +27,8 @@
     <figcaption class="flex items-center justify-center mt-6 space-x-3 rtl:space-x-reverse">
         <img class="w-12 h-12 rounded-full shadow-lg" src="/icons/{{ .icon }}.jpg" alt="{{ .author }}">
         <div class="flex items-center">
-            <cite class="pr-3 font-medium text-gray-700 dark:text-white">{{ .author }}</cite>
-            <cite class="text-sm text-gray-500 dark:text-gray-400">{{ .src }}</cite>
+            <cite class="pr-3 font-medium text-white dark:text-white">{{ .author }}</cite>
+            <cite class="text-sm text-gray-200 dark:text-gray-200">{{ .src }}</cite>
         </div>
     </figcaption>
 </figure>

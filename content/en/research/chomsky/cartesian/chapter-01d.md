@@ -1,8 +1,8 @@
 ---
 title: "Humboldt"
-weight: 8
+weight: 10
 description: "Descartes argued that there must be a thinking substance"
-c: "steelblue"
+c: "firebrick"
 ---
 
 

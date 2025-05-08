@@ -1,11 +1,9 @@
 ---
-title: "The Fallacy of 'Microvita Jumps' by Time Travel"
-# heading: "Caused by Dogma on Sarkar quotes"
+title: "The Lettuce Fad"
 date: 2022-01-20
-image: "/photos/med/covid.jpg"
-description: "Rudolph and Vimalananda interpret Sarkar literally"
-icon: "Superphysics"
-draft: true
+c: "deepping"
+description: ""
+icon: "Juan"
 ---
 
 
@@ -20,7 +18,7 @@ I discovered the uselessness of lettuce when I turned vegetarian in 2004, and re
 
 Lettuce was popular in the 80s when salads became a fad as a part of weight loss diets. But it was thankfully made obsolete by the Keto diet which properly emphasized dark greens such as broccoli and spinach.
 
-The national green leafy vegetable is mustasa as proven by the song Bahay Kubo. Beans make up 5 of the 18 vegetables of that song, and litsugas is nowhere. 
+<!-- The national green leafy vegetable is mustasa as proven by the song Bahay Kubo. Beans make up 5 of the 18 vegetables of that song, and litsugas is nowhere. -->
 
 I have asked growers, farmers, and seed companies why they even do lettuce in lowlands. 
 

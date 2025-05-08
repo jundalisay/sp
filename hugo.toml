@@ -18,383 +18,250 @@ pagerSize = 24
     contentDir = "content/en/" #English
     weight = 1
     languageName = "English"
-    [[languages.en.menu.main]]
-        name = "Research"
-        # name = "/icons/book.png"
-        url = "research"
-        weight = 1
-    [[languages.en.menu.main]]
-        identifier = "sp"
-        name = "Core"
-        # name = "/icons/sp.png"
-        url = "superphysics"
-        weight = 2
-    [[languages.en.menu.main]]
-        name = "Math"
-        url = "supermath"
-        weight = 3
-    [[languages.en.menu.main]]
-        name = "Material"
-        # name = "/icons/spmat.png"
-        url = "material"
-        weight = 4
-    [[languages.en.menu.main]]
-        # name = "/icons/spmed.png"
-        name = "Bio"
-        url = "bio"
-        weight = 5
-    [[languages.en.menu.main]]
-        name = "Social"
-        # name = "/icons/spsoc.png"
-        url = "social"
-        weight = 6
-    [[languages.en.menu.main]]
-        name = "Spiritual"
-        url = "spiritual/"
-        weight = 7
-    [[languages.en.menu.main]]
-        name = "Cycles"
-        url = "social/cycles/"
-        weight = 9
-    # [[languages.en.menu.main]]
-    #     name = "FAQs"
-    #     url = "faqs"
-    #     weight = 11
-    [[languages.en.menu.main]]
-        name = "News"
-        url = "news"
-        weight = 13
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 14
-    [[languages.en.menu.main]]
-        name = "Help!"
-        # name = "/icons/heart.png"
-        url = "help/"
-        weight = 15
+    [languages.en.menu]
+      main = [
+        {name = "Research", url = "research", weight = 1},
+        {name = "Core", url = "superphysics", weight = 2},
+        {name = "Math", url = "supermath", weight = 3},
+        {name = "Material", url = "material", weight = 5},
+        {name = "Bio", url = "bio", weight = 7},
+        {name = "Spiritual", url = "spiritual", weight = 9},
+        {name = "Cycles", url = "social/cycles", weight = 11},
+        {name = "Economics", url = "social/economics", weight = 13},
+        {name = "Sociology", url = "social/supersociology", weight = 15},
+        {name = "Research", url = "research", weight = 17},
+        {name = "Economics", url = "social/economics", weight = 19},
+        {name = "Sociology", url = "social/supersociology", weight = 21},
+        {name = "FAQs", url = "faqs", weight = 25},
+        {name = "Tags", url = "tags", weight = 27},
+        {name = "Help!", url = "research", weight = 29}
+      ]
     [languages.en.params]
       flag = "/flags/gb.png"
       title = "Superphysics: Science Merged with Metaphysics"
       subtitle = "A New Science Based on Waves, Socratic Dialectics, and Cartesian Physics for Solving Problems"
-      lets = "Let's Solve All Problems!"
-      head = "The Sciences That Open Up The Universe"
-      sub = "All Knowledge Can Be Grouped Into Three"
-      banner = "/photos/physics/galaxy.jpg"
       youtube = "mNwyj7WHKKo"
-    [[languages.en.params.icons]]
-      icon = "/icons/tao.png"
-      title = "Metaphysics"
-      sub = "1-50% Replicable: Paradoxical"
-    [[languages.en.params.icons]]
-      icon = "/icons/sp.png"
-      title = "Superphysics"
-      sub = "51-99% Replicable: Subjective"
-    [[languages.en.params.icons]]
-      icon = "/icons/atom.png"
-      title = "Physics"
-      sub = "100% Replicable: Objective"
 
-    [[languages.en.params.quote1]]
+    [languages.en.params.trio]
+      intro = "All Knowledge Can Be Grouped Into Three"
+      icons = [
+        { img = "/icons/tao.png", title = "Metaphysics", sub = "1-50% Replicable: Paradoxical" },
+        { img = "/icons/sp.png", title = "Superphysics", sub = "51-99% Replicable: Subjective" },
+        { img = "/icons/atom.png", title = "Physics", sub = "100% Replicable: Objective" },        
+      ]
+
+    [languages.en.params.quote1]
       content = "There are 3 principal sciences: Mechanics, Medicine, Ethics"
       icon = "Rene Descartes"
       author = "Rene Descartes"
       src = "The Principles of Philosophy, Preface"
-    [[languages.en.params.quote2]]
+    [languages.en.params.quote2]
       content = "Things cannot have absolute Existence without any relation to their being perceived. They cannot have any Existence without the Minds which perceive them. I find it strange that people think that Houses, Mountains, and all sensible Objects have a Real Existence, distinct from their being perceived by the Understanding."
       icon = "George Berkeley"
       author = "George Berkeley"
       src = "The Principles of Human Knowledge, Article 3"
 
-    [[languages.en.params.cards]]
-      img = "/avatars/descartes.jpg"
-      title = "Material Superphysics"
-      sub = "Replacing the Physics of Newton and Einstein with that of Descartes and Spinoza"
-      # sub = "The Soul of the Physical Universe without a Void"
-      url = "/material"
-    [[languages.en.params.cards]]
-      img = "/graphics/super/yin.jpg"
-      # img = "/avatars/hahnemann.jpg"
-      title = "Bio Superphysics"
-      sub = "Biology and Medicine that combines Western and Asian Principles"
-      # sub = "The Nature of the Living Soul Integrated with Physicality"
-      url = "/bio"
-    [[languages.en.params.cards]]
-      img = "/avatars/smith.jpg"
-      title = "Social Superphysics"
-      sub = "A Society as a Cyclical Metaphysical Organism"
-      # sub = "The Soul of Society Made up of Living Souls"
-      url = "/social"
-    [[languages.en.params.cards]]
-      img = "/avatars/buddha.jpeg"
-      title = "Spiritual Superphysics"
-      sub = "Upgrading Experience beyond Matter and into the Aether or Akasha"
-      # sub = "Unifying the Living Soul with the Oversoul into Void"
-      url = "/spiritual"
-    [[languages.en.params.cards]]
-      img = "/photos/meta/om.jpg"
-      title = "Supermath and Qualimath"
-      sub = "Mathematics based on Base-3, Base-6, Shapes, and Qualities"
-      url = "/supermath"
-
+    [languages.en.params.sciences]
+      title = "The Sciences That Open Up The Universe"
+      cards = [
+        { img = "/avatars/descartes.jpg", title = "Material Superphysics", sub = "Replacing the Physics of Newton and Einstein with that of Descartes and Spinoza", url = "/material"},
+        { img = "/graphics/super/yin.jpg", title = "Bio Superphysics", sub = "Biology and Medicine that combines Western and Asian Principles", url = "/bio"},
+        { img = "/avatars/smith.jpg", title = "Social Superphysics", sub = "A Society as a Metaphysical Organism with a Life Cycle", url = "/social"},        
+        { img = "/avatars/buddha.jpg", title = "Spiritual Superphysics", sub = "Upgrading Experience beyond Matter and into the Aether or Akasha", url = "/spiritual"},
+        { img = "/photos/meta/om.jpg", title = "Supermath and Qualimath", sub = "Mathematics based on Base-3, Base-6, Shapes, and Qualities", url = "/supermath"},
+      ]
       
-    [[languages.en.params.panels]]
-      img = "/photos/econ/writer.jpg"
-      title = "Evidence"
-      url = "/evidence"
-      sub = "We test Superphysics in the real world"
-    [[languages.en.params.panels]]
-      img = "/graphics/tech/solar.jpg"
-      title = "Proposed Solutions and Technologies"
-      url = "/solutions"
-      sub = "Enlightenment ideas can lead to totally new technologies"
-    [[languages.en.params.panels]]
-      img = "/photos/countries/ua/war.jpg"
-      title = "Predictions from Social Cycles"
-      url = "/social/cycles"
-     sub = "We test our predictions with actual events"
-    [[languages.en.params.panels]]
-      img = "/photos/buy.jpg"
-      title = "Policies from Social Cycles"
-      url = "/social/policies"
-      sub = "A better world needs policies that match Nature"
-
+    [languages.en.params.panels]
+      title = "Let's Solve All Problems!"
+      cards = [
+        { img = "/photos/econ/writer.jpg", title = "Evidence", sub = "We test Superphysics in the real world", url = "/evidence" },
+        { img = "/graphics/tech/solar.jpg", title = "Proposed Solutions and Technologies", sub = "Enlightenment ideas can lead to totally new technologies", url = "/solutions" },
+        { img = "/photos/countries/ua/war.jpg", title = "Predictions from Social Cycles", sub = "We test our predictions with actual events", url = "/social/cycles" },
+        { img = "/photos/buy.jpg", title = "Policies from Social Cycles", sub = "A better world needs policies that match Nature", url = "/social/policies" },
+      ]
 
   [languages.ar]
     contentDir = "content/ar/"
     weight = 2
     languageName = "عربي"
-    [[languages.ar.menu.main]]
-      name = "FAQs"
-      # name = "/icons/question.png"
-      url = "faqs"
-      weight = 8
-    [[languages.ar.menu.main]]
-      name = "About"
-      # name = "/icons/about.png"
-      url = "news"
-      weight = 9
-    [[languages.ar.menu.main]]
-      name = "Help!"
-      url = "help"
-      weight = 10
+    [languages.ar.menu]
+        main = [
+          {name = "Help!", url = "help", weight = 2}
+        ]
     [languages.ar.params]
       flag = "/flags/sa.png"
-      intro= "الفيزياء الفائقة= نموذج علمي يعتمد على الموجات"
-      heading = "علم جديد مبني على الميتافيزيقا والجدل السقراطي"
-      sub = "يمكن تجميع كل المعرفة في ثلاثة فئات"
-      youtube= "P4BSS1GeJwA"
-      banner = "/photos/physics/galaxy.jpg"
-    [languages.ar.params.cards.a]
-      icon = "/icons/tao.png"
-      title = "الميتافيزيقا"
-      sub = "0-50% قابل للتكرار= متضاد"
-    [languages.ar.params.cards.b]
-      icon = "/icons/sp.png"
-      title = "الفيزياء الفائقة"
-      sub = "51-99% قابل للتكرار= ذاتي"
-    [languages.ar.params.cards.c]
-      icon = "/icons/atom.png"
-      title = "الفيزياء"
-      sub = "100% قابل للتكرار= موضوعي"
-    [languages.ar.params.tricon1]
-      heading = "طبيعة الروح"
-      title = "كل شيء هو موجة تتجلى على شكل جسيم"
-      sub = "تتدفق الكون التناظري في تعريف حقيقي لإنشاء الواقع"
-      youtube = "dc4VNkfqs1s"
-      icon = "/icons/sp.png"
-      link= "/superphysics/principles"
+      title= "الفيزياء الفائقة= نموذج علمي يعتمد على الموجات"
+      head = "علم جديد مبني على الميتافيزيقا والجدل السقراطي"
+      subtitle = "يمكن تجميع كل المعرفة في ثلاثة فئات"
+      youtube = "P4BSS1GeJwA"
+    [languages.ar.params.trio]
+      intro = "يمكن تقسيم كل المعرفة إلى ثلاثة"
+      icons = [
+        { img = "/icons/tao.png", title = "الميتافيزيقيا", sub = "1-50% قابلة للتكرار: المفارقة" },
+        { img = "/icons/sp.png", title = "Superphysics", sub = "51-99% قابلة للتكرار: شخصي" },
+        { img = "/icons/atom.png", title = "الفيزياء", sub  = "100% قابلة للتكرار: موضوعي" },        
+      ]
+
+    [languages.ar.params.quote1]
+      content = "هناك ثلاثة علوم رئيسية: الميكانيكا، والطب، والأخلاق"
+      icon = "Rene Descartes"
+      author = "Rene Descartes"
+      src = "The Principles of Philosophy, Preface"
+    [languages.ar.params.quote2]
+      content = "لا وجود للأشياء دون إدراكها. ولا وجود لها دون عقول تُدركها. يظن الناس خطأً أن البيوت والجبال والأشياء المرئية موجودة دون عقل يُدركها.."
+      icon = "George Berkeley"
+      author = "George Berkeley"
+      src = "The Principles of Human Knowledge, Article 3"
 
   [languages.zh]
     contentDir = "content/zh/" #English
     weight = 3
     languageName = "中文"
-    [[languages.zh.menu.main]]
-        name = "FAQs"
-        url = "faqs"
-        weight = 8
-    [[languages.zh.menu.main]]
-        name = "Help!"
-        url = "help"
-        weight = 10
+    [languages.zh.menu]
+      main = [
+        {name = "Help", url = "help", weight = 1}
+      ]
     [languages.zh.params]
       flag = "/flags/cn.png"
-      heading = "一种基于形而上学和苏格拉底辩证法的新科学"
-      intro = "超物理学：基于波动的科学范式"
-      sub = "所有知识可以分为三类"
-      banner = "/photos/physics/galaxy.jpg"
+      subtitle = "一种基于形而上学和苏格拉底辩证法的新科学"
+      title = "超物理学：基于波动的科学范式"
       youtube = "n-bejVBOZ0k"
-    [languages.zh.params.cards.a]
-        icon = "/icons/tao.png"
-        itle = "形而上学"
-        sub = "0-50% 可复制：悖论的"
-    [languages.zh.params.cards.b]
-      icon = "/icons/sp.png"
-        title = "超物理学"
-        sub = "51-99% 可复制：主观的"
-    [languages.zh.params.cards.c]
-        icon = "/icons/atom.png"
-        title = "物理学 "
-        sub = "100% 可复制：客观的"
-    [languages.zh.params.tricon1]
-      heading = "灵魂的本质"
-      title = "一切都是表现为粒子的波动"
-      sub = "模拟宇宙以实际定义流动以创造现实"
-      youtube = "dc4VNkfqs1s"
-      icon = "/icons/sp.png"
-      link= "/superphysics/principles"
+    [languages.zh.params.trio]
+      intro = "所有知识可以分为三类"
+      icons = [
+        { img = "/icons/tao.png", title = "形而上学", sub = "0-50% 可复制：悖论的" },
+        { img = "/icons/sp.png", title = "超物理学", sub = "51-99% 可复制：主观的" },
+        { img = "/icons/atom.png", title = "物理学", sub  = "100% 可复制：客观的" }
+      ]
+    [languages.zh.params.quote1]
+      content = "有三大主要科学：力学、医学、伦理学"
+      icon = "Rene Descartes"
+      author = "Rene Descartes"
+      src = "The Principles of Philosophy, Preface"
+    [languages.zh.params.quote2]
+      content = "事物若不被心识所感知，就不可能拥有绝对的存在。人们奇怪地认为，房屋、山脉以及所有物体都真实存在，与心识所感知无关"
+      icon = "George Berkeley"
+      author = "George Berkeley"
+      src = "The Principles of Human Knowledge, Article 3"
+
+    # [languages.zh.params.tricon1]
+    #   heading = "灵魂的本质"
+    #   title = "一切都是表现为粒子的波动"
+    #   sub = "模拟宇宙以实际定义流动以创造现实"
+    #   youtube = "dc4VNkfqs1s"
+    #   icon = "/icons/sp.png"
+    #   link= "/superphysics/principles"
 
   [languages.fr]
     contentDir = "content/fr/"
     weight = 4
     languageName = "Français"
-    [[languages.fr.menu.main]]
-        name = "FAQs"
-        # name = "/icons/question.png"
-        url = "faqs"
-        weight = 8
-    [[languages.fr.menu.main]]
-        # name = "/icons/about.png"
-        name = "News"
-        url = "/news"
-        weight = 9
-    [[languages.fr.menu.main]]
-        name = "Help!"
-        url = "help"
-        weight = 10
+    [languages.fr.menu]
+      main = [
+        {name = "Help!", url = "help", weight = 2}
+      ]
     [languages.fr.params]
       flag = "/flags/fr.png"
-      heading = "Une Nouvelle Science Basée sur la Métaphysique et la Dialectique Socratique"
-      sub = "Toute Connaissance Peut Être Regroupée en Trois Catégories"
-      intro = "Superphysique - Paradigme Scientifique basé sur les Ondes"
+      subtitle = "Une Nouvelle Science Basée sur la Métaphysique et la Dialectique Socratique"
+      title = "Superphysique - Paradigme Scientifique basé sur les Ondes"
       youtube = "HBj2DUChYqc"
-      banner = "/photos/physics/galaxy.jpg"
-    [languages.fr.params.cards.a]
-      icon = "/icons/tao.png"
-      title = "Métaphysique"
-      sub = "0-50% Reproductible = Paradoxal"
-    [languages.fr.params.cards.b]
-      icon = "/icons/sp.png"
-      title = "Superphysique"
-      sub = "51-99% Reproductible = Subjectif"
-    [languages.fr.params.cards.c]
-      icon = "/icons/atom.png"
-      title = "Physique"
-      sub = "100% Reproductible = Objectif"
+    [languages.fr.params.trio]
+      intro = "Toute Connaissance Peut Être Regroupée en Trois Catégories"
+      icons = [
+        { img = "/icons/tao.png", title = "Métaphysique", sub = "0-50% Reproductible = Paradoxal" },
+        { img = "/icons/sp.png", title = "Superphysique", sub = "51-99% Reproductible = Subjectif" },
+        { img = "/icons/atom.png", title = "Physique", sub = "100% Reproductible = Objectif" },        
+      ]
+    [languages.fr.params.quote1]
+      content = "Il existe 3 sciences principales : la mécanique, la médecine, l'éthique"
+      icon = "Rene Descartes"
+      author = "Rene Descartes"
+      src = "The Principles of Philosophy, Preface"
+    [languages.fr.params.quote2]
+      content = "Les choses ne peuvent avoir d'existence absolue sans être perçues par l'esprit. On croit étrangement que les maisons, les montagnes et tous les objets ont une existence réelle, indépendante de leur perception par l'esprit."
+      icon = "George Berkeley"
+      author = "George Berkeley"
+      src = "The Principles of Human Knowledge, Article 3"
+
 
   [languages.hi]
     contentDir = "content/hi/"
     weight = 7
     languageName = "हिन्दी भाषा"
-    [[languages.hi.menu.main]]
-        name = "FAQs"
-        url = "/faq"
-        weight = 8
-    [[languages.hi.menu.main]]
-        name = "News"
-        url = "/news"
-        weight = 9
-    [[languages.hi.menu.main]]
-        name = "आप हमारी मदद कर सकते"
-        url = "help"
-        weight = 10
+    [languages.hi.menu]
+      main = [
+        {name = "आप हमारी मदद कर सकते", url = "help", weight = 2}
+      ]
     [languages.hi.params]
       flag = "/flags/in.png"
-      intro = "सुपरफिजिक्स: तरंग-आधारित वैज्ञानिक मानदंड"
-      heading = "मेटाफिजिक्स और सोक्रेटिक वाद के आधार पर आधारित एक नया विज्ञान"
-      sub = "सभी ज्ञान को तीन भागों में विभाजित किया जा सकता है:"
+      title = "सुपरफिजिक्स: तरंग-आधारित वैज्ञानिक मानदंड"
+      subtitle = "मेटाफिजिक्स और सोक्रेटिक वाद के आधार पर आधारित एक नया विज्ञान"
       youtube= "pJDEDX7DI5Y"
-      banner = "/photos/physics/galaxy.jpg"
-    [languages.hi.params.cards.a]
-      icon = "/icons/tao.png"
-      title = "मेटाफिजिक्स"
-      sub = "0-50% पुनरावलोकनीय: विरोधात्मक"
-    [languages.hi.params.cards.b]
-      icon = "/icons/sp.png"
-      title = "सुपरफिजिक्स"
-      sub = "51-99% पुनरावलोकनीय: व्यक्तिगत"
-    [languages.hi.params.cards.c]
-      icon = "/icons/atom.png"
-      title = "भौतिकी "
-      sub = "100% पुनरावलोकनीय: वस्तुगत"
+    [languages.hi.params.trio]
+      intro = "सभी ज्ञान को तीन भागों में विभाजित किया जा सकता है:"
+      icons = [
+        { img = "/icons/tao.png", title = "मेटाफिजिक्स", sub = "0-50% पुनरावलोकनीय: विरोधात्मक" },
+        { img = "/icons/sp.png", title = "सुपरफिजिक्स", sub = "51-99% पुनरावलोकनीय: व्यक्तिगत" },
+        { img = "/icons/atom.png", title = "भौतिकी", sub = "100% पुनरावलोकनीय: वस्तुगत" },        
+      ]
+    [languages.hi.params.quote1]
+      content = "तीन प्रमुख विज्ञान हैं: यांत्रिकी, चिकित्सा, नैतिकता"
+      icon = "Rene Descartes"
+      author = "Rene Descartes"
+      src = "The Principles of Philosophy, Preface"
+    [languages.hi.params.quote2]
+      content = "मन द्वारा देखे जाने के बिना चीजों का पूर्ण अस्तित्व नहीं हो सकता। लोग अजीब तरह से सोचते हैं कि घरों, पहाड़ों और सभी वस्तुओं का एक वास्तविक अस्तित्व है, जो मन द्वारा देखे जाने से अलग है"
+      icon = "George Berkeley"
+      author = "George Berkeley"
+      src = "The Principles of Human Knowledge, Article 3"
+
 
   [languages.ru]
     contentDir = "content/ru/"
     weight = 10
     languageName = "русский"
-    [[languages.ru.menu.main]]
-        # name = "/icons/question.png"
-        name = "FAQs"
-        url = "/faq"
-        weight = 8
-    [[languages.ru.menu.main]]
-        name = "News"
-        url = "/news"
-        weight = 9
-    [[languages.ru.menu.main]]
-        name = "Help!"
-        url = "help"
-        weight = 10
+    [languages.ru.menu]
+      main = [
+        {name = "Help", url = "help", weight = 2}
+      ]
     [languages.ru.params]
       flag = "/flags/ru.png"
-      intro = "Суперфизика: Парадигма на основе волнового подхода."
-      heading = "Новая наука, основанная на метафизике и софистической диалектике"
-      sub = "Все знания могут быть разделены на три группы:"
+      title = "Суперфизика: Парадигма на основе волнового подхода."
+      subtitle = "Новая наука, основанная на метафизике и софистической диалектике"
       youtube= "7e0v9V_5TIA"
-      banner = "/photos/physics/galaxy.jpg"
-    [languages.ru.params.cards.a]
-      icon = "/icons/tao.png"
-      title = "Метафизика"
-      sub = "0-50% воспроизводимость: парадоксальное"
-    [languages.ru.params.cards.b]
-      icon = "/icons/sp.png"
-      title = "Суперфизика"
-      sub = "51-99% воспроизводимость: субъективное"
-    [languages.ru.params.cards.c]
-      icon = "/icons/atom.png"
-      title = "Физика"
-      sub = "100% воспроизводимость: объективное"
-
+    [languages.ru.params.trio]
+      intro = "Все знания могут быть разделены на три группы:"
+      icons = [
+        { img = "/icons/tao.png", title = "Метафизика", sub = "0-50% воспроизводимость: парадоксальное" },
+        { img = "/icons/sp.png", title = "Суперфизика", sub = "51-99% воспроизводимость: субъективное" },
+        { img = "/icons/atom.png", title = "Физика", sub = "100% воспроизводимость: объективное" },        
+      ]
+    [languages.ru.params.quote1]
+      content = "Существует 3 основные науки: Механика, Медицина, Этика."
+      icon = "Rene Descartes"
+      author = "Rene Descartes"
+      src = "The Principles of Philosophy, Preface"
+    [languages.ru.params.quote2]
+      content = "Вещи не могут иметь абсолютного Существования, не будучи воспринятыми умом. Люди странно думают, что Дома, Горы и все Объекты имеют Реальное Существование, отдельное от их восприятия умом"
+      icon = "George Berkeley"
+      author = "George Berkeley"
+      src = "The Principles of Human Knowledge, Article 3"
 
 [params]
   logo = "/icons/sp.png"
   shorttitle = "Superphysics"
-
-  # Custom copyright - optional
   copyright = "Copyright © 2025 | <a class='!text-white' href='https://www.pantrypoints.com'>Pantrypoints Technologies</a>"
   favicon = "/icons/sp30.png"
-
   ascentColor = "bg-blue-100"
   # The page bundle that is shown on the front page
   frontBundle = "blog"
-
   # Used to hide the post metadata such as posted date, reading time and word count
-  # Can be used at site level or page level
   hideMeta = false
-
   # To hide "Other languages" option if the post is available in multiple languages
-  # Can be used at site level or page level
   hideOtherLanguages = false
-
-  # Add support for Table of contents
-  # Can be added to a page level also in markdown frontmatter
   toc = true
   hidePageThumbnail = false
-
   description = "Superphysics is a new paradigm that merges science and metaphysics in order to solve problems and make life better"
-
-
-# [[params.quote1]]
-#   content = "There are 3 principal sciences: Mechanics, Medicine, Ethics"
-#   icon = "/icons/descartes.png"
-#   author = "Rene Descartes"
-#   src = "The Principles of Philosophy, Preface"
-
-# [[params.quote1]]
-#   content = "Things cannot have absolute Existence without any relation to their being perceived. They cannot have any Existence without the Minds which perceive them. I find it strange that people think that Houses, Mountains, and all sensible Objects have a Real Existence, distinct from their being perceived by the Understanding."
-#   icon = "/icons/descartes.png"
-#   author = "Rene Descartes"
-#   src = "The Principles of Philosophy, Preface"
 
 
 [[params.social]]

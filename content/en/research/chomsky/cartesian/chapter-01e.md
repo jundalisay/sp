@@ -1,8 +1,8 @@
 ---
 title: "The structuralist emphasis on language"
-weight: 10
+weight: 12
 description: "Descartes argued that there must be a thinking substance"
-c: "steelblue"
+c: "firebrick"
 ---
 
 
@@ -13,44 +13,17 @@ For Humboldt, a language is not to be regarded as a mass of isolated phenomena �
 
 In modern linguistics, with its almost exclusive restriction of attention to inventories of elements and fixed “patterns” the scope of “organic form” is far more narrow than in the Humboldtian conception. But within this more narrow frame, the notion of “organic interconnection” was developed and applied to linguistic materials in a way that goes far beyond anything suggested in Humboldt. For modern struc- turalism, the dominant assumption is that “a phonological system [in particular] is not the mechanical sum of isolated phonemes, but an organic whole of which the phonemes are the members and of which the structure is subject to laws.”52 These further developments are familiar, and I will say nothing more about them here.
 
-As noted above, the form of language, for Humboldt, embraces the rules of syntax and word formation as well as the sound system and the rules that determine the system of concepts that constitute the lexicon. He introduces a further distinction between the form of a language and what he calls its “character.” It seems to me that, as he employs this term, the character of a language is determined by the manner in which it is used, in particular, in poetry and philosophy; and the “inner character” (p. 208) of a language must be distinguished from its syntactic and semantic structure, which are matters of form, not use. “Without changing the language in its sounds, and still less in its forms and laws, time, through a growing evolution of ideas, a heightened power
-of thought, and a more deeply penetrating capacity for feeling, will often bring
-into a language what it did not formerly possess” (p. 116; Humboldt 1999:
-86–7). Thus a great writer or thinker can modify the character of the language
-and enrich its means of expression without affecting its grammatical structure.
-The character of a language is closely related to other elements of the national
-character and is a highly individual creation. For Humboldt, as for his Cartesian
-and romantic precursors, the normal use of language typically involves creative
-mental acts; but it is the character of a language rather than its form that reflects
-true “creativity” in a higher sense – in the sense that implies value as well as
-novelty.
+As noted above, the form of language, for Humboldt, embraces the rules of syntax and word formation as well as the sound system and the rules that determine the system of concepts that constitute the lexicon. He introduces a further distinction between the form of a language and what he calls its “character.” It seems to me that, as he employs this term, the character of a language is determined by the manner in which it is used, in particular, in poetry and philosophy; and the “inner character” (p. 208) of a language must be distinguished from its syntactic and semantic structure, which are matters of form, not use. “Without changing the language in its sounds, and still less in its forms and laws, time, through a growing evolution of ideas, a heightened power of thought, and a more deeply penetrating capacity for feeling, will often bring into a language what it did not formerly possess” (p. 116; Humboldt 1999: 86–7). Thus a great writer or thinker can modify the character of the language and enrich its means of expression without affecting its grammatical structure.
 
-For all his concern with the creative aspect of language use and with form as
-generative process, Humboldt does not go on to face the substantive question:
-what is the precise character of “organic form” in language. He does not, so far
-as I can see, attempt to construct particular generative grammars or to determine
-the general character of any such system, the universal schema to which any
-particular grammar conforms. In this respect, his work in general linguistics
-does not reach the levels achieved by some of his predecessors, as we shall see
-directly. His work is also marred by unclarity regarding several fundamental
-questions, in particular, regarding the distinction between the rule-governed
-creativity which constitutes the normal use of language and which does not
-modify the form of the language at all and the kind of innovation that leads to a
-modification in the grammatical structure of the language. These defects have
-been recognized and, to some extent, overcome in more recent work.
+The character of a language is closely related to other elements of the national character and is a highly individual creation. For Humboldt, as for his Cartesian and romantic precursors, the normal use of language typically involves creative mental acts; but it is the character of a language rather than its form that reflects true “creativity” in a higher sense – in the sense that implies value as well as novelty.
 
-Furthermore, in his discussion of generative processes in language it is often
-unclear whether what he has in mind is underlying competence or performance –
-Aristotle’s first or second grade of actuality of form (De Anima, book II, chap. 1).
-This classical distinction has been reemphasized in modern work. See note 2, and
-references given there. The concept of generative grammar, in the modern sense,
-is a development of the Humboldtian notion of “form of language” only if the
-latter is understood as form in the sense of “possession of knowledge” rather than
-“actual exercise of knowledge,” in Aristotelian terms. (See note 39.)
+For all his concern with the creative aspect of language use and with form as generative process, Humboldt does not go on to face the substantive question: what is the precise character of “organic form” in language. He does not, so far as I can see, attempt to construct particular generative grammars or to determine the general character of any such system, the universal schema to which any particular grammar conforms. 
 
-The failure to formulate rules of sentence construction in a precise way was not simply an oversight of Cartesian linguis- tics. To some extent it was a consequence of the express assumption that the sequence of words in a sentence corresponds directly to the flow of thought, at least in a “well-designed” language,53 and is therefore not properly studied as part of grammar. In the Grammaire générale et raisonnée it is maintained that, except for the figurative use of language, there is little to be said in grammar regarding rules of sentence construction (p. 145). In Lamy’s rhetoric, shortly after, omission of any discussion of “the order of words and the rules that must be observed in the composition of speech” is justified on the grounds that “the
+In this respect, his work in general linguistics does not reach the levels achieved by some of his predecessors, as we shall see directly. His work is also marred by unclarity regarding several fundamental questions, in particular, regarding the distinction between the rule-governed creativity which constitutes the normal use of language and which does not modify the form of the language at all and the kind of innovation that leads to a modification in the grammatical structure of the language. These defects have been recognized and, to some extent, overcome in more recent work.
 
-natural light shows so vividly what must be done” that no further specification is
+Furthermore, in his discussion of generative processes in language it is often unclear whether what he has in mind is underlying competence or performance – Aristotle’s first or second grade of actuality of form (De Anima, book II, chap. 1). This classical distinction has been reemphasized in modern work. See note 2, and references given there. The concept of generative grammar, in the modern sense, is a development of the Humboldtian notion of “form of language” only if the latter is understood as form in the sense of “possession of knowledge” rather than “actual exercise of knowledge,” in Aristotelian terms. (See note 39.)
+
+The failure to formulate rules of sentence construction in a precise way was not simply an oversight of Cartesian linguis- tics. To some extent it was a consequence of the express assumption that the sequence of words in a sentence corresponds directly to the flow of thought, at least in a “well-designed” language,53 and is therefore not properly studied as part of grammar. In the Grammaire générale et raisonnée it is maintained that, except for the figurative use of language, there is little to be said in grammar regarding rules of sentence construction (p. 145). In Lamy’s rhetoric, shortly after, omission of any discussion of “the order of words and the rules that must be observed in the composition of speech” is justified on the grounds that “the natural light shows so vividly what must be done” that no further specification is
 necessary (p. 25).54 At about the same time, Bishop Wilkins55 distinguishes
 those constructions that are merely “customary” (take one’s heels and fly away,
 hedge a debt, be brought to heel, etc.) from those which follow the “natural
@@ -83,19 +56,8 @@ basis of this assumption.61 On the other hand, the observation that language
 serves as a medium of thought begins to be rephrased as the view that language
 has a constitutive function with respect to thought. 
 
-La Mettrie, for example, in discussing how the brain compares and relates the images that it discerns,
-concludes that its structure is such that, once the signs of objects and their
-differences “have been traced or imprinted on the brain, the soul necessarily
-examines their relations62 – an examination that would have been impossible
-without the discovery of signs or the invention of language” (op. cit., p. 105);
-prior to the discovery of language, things could only be perceived in a vague or
-superficial way. We have already referred to Humboldt’s view that “Man lives
-primarily with objects, indeed, since feeling and acting in him depend on his
-presentations [Vorstellungen], he actually does so exclusively, as language
-presents them to him” (op. cit., p. 74; Humboldt 1999: 60). Under the impact
-of the new relativism of the romantics, the conception of language as a con-
-stitutive medium for thought undergoes a significant modification, and the
-notion that language difference can lead to differences, even incomparability
-in mental processes, is explored.63 This development, however, is not part of
-our main theme; its modern elaboration is familiar, and I will discuss it no
-further here.
+La Mettrie, for example, discussed how the brain compares and relates the images that it discerns.
+
+He concludes that its structure is such that, once the signs of objects and their differences “have been traced or imprinted on the brain, the soul necessarily examines their relations. Such an examination that would have been impossible without the discovery of signs or the invention of language”
+
+Prior to the discovery of language, things could only be perceived in a vague or superficial way. We have already referred to Humboldt’s view that “Man lives primarily with objects, indeed, since feeling and acting in him depend on his presentations [Vorstellungen], he actually does so exclusively, as language presents them to him” (op. cit., p. 74; Humboldt 1999: 60). Under the impact of the new relativism of the romantics, the conception of language as a con- stitutive medium for thought undergoes a significant modification, and the notion that language difference can lead to differences, even incomparability in mental processes, is explored.63 This development, however, is not part of our main theme; its modern elaboration is familiar, and I will discuss it no further here.

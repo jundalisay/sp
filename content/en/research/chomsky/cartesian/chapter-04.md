@@ -1,12 +1,23 @@
+---
+title: "Creative aspect of language use"
+weight: 20
+description: "Descartes makes only scant reference to language in his writings"
+c: "steelblue"
+---
+
+
 We have so far extracted from “Cartesian linguistics” certain characteristic and
 quite important doctrines regarding the nature of language and have, quite
 sketchily, traced their development during the period from Descartes to
-Humboldt. As a by-product of this study of langue, and against the background
+Humboldt. 
+
+As a by-product of this study of langue, and against the background
 of rationalist theory of mind, certain views emerged as to how language is
 acquired and used. After a long interlude, these views are once again beginning
 to receive the attention that they deserve, although their appearance (like the
 reappearance of the central ideas of transformational grammar) was, in fact, a
 largely independent development.
+
 The central doctrine of Cartesian linguistics is that the general features of
 grammatical structure are common to all languages and reflect certain funda-
 mental properties of the mind. It is this assumption which led the philosophical
