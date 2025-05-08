@@ -1,7 +1,7 @@
 ---
-title: "Mentality in Rarh"
-heading: "Chapters 9"
-weight: 15
+title: "The Idols of Rarh"
+heading: "Chapter 9"
+weight: 16
 c: "seagreen"
 description: ""
 icon: "PR Sarkar"

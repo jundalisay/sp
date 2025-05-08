@@ -1,6 +1,6 @@
 ---
-title: "Events in Rarh"
-heading: "Chapter 1"
+title: "Rarh Versus the Aryans"
+heading: "Chapter 10"
 weight: 20
 c: "seagreen"
 description: ""

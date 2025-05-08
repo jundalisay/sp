@@ -1,6 +1,6 @@
 ---
 title: "Discourses on Psychology"
 description: "Psychology"
-c: "indigo"
+c: "steelblue"
 weight: 72
 ---

@@ -1,6 +1,6 @@
 ---
-title: "The Birth of Rarh"
-heading: "Chapter 1"
+title: "The First Humans on Rarh"
+heading: "Chapter 1b"
 weight: 3
 c: "seagreen"
 description: ""

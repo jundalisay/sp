@@ -1,5 +1,5 @@
 ---
 title: "The Human Body"
-c: "indigo"
+c: "deeppink"
 weight: 16
 ---

@@ -1,7 +1,7 @@
 ---
-title: "The King of Rarh"
+title: "The Bad Effects of the Puranic Era of Rarh"
 heading: "Chapter 5"
-weight: 2
+weight: 12
 c: "seagreen"
 description: ""
 icon: "PR Sarkar"

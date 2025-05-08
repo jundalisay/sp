@@ -1,7 +1,7 @@
 ---
 title: "Jainism in Rarh"
 heading: "Chapter 6"
-weight: 12
+weight: 14
 c: "seagreen"
 description: ""
 icon: "PR Sarkar"

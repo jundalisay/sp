@@ -1,5 +1,5 @@
 ---
-title: "The Birth of Rarh"
+title: "The Puranic Era of Rarh"
 heading: "Chapter 4"
 weight: 10
 c: "seagreen"
@@ -128,5 +128,3 @@ Numerous Shiva lingas of this kind are scattered in many places in Ráŕh. Man
 (1) Dharmarája means the same as Dharmat́hákur, and is not to be confused with the Dharmarája of Hinduism, meaning Yudhisthira of the Mahábhárata. –Trans.
 
 (2) Dom is a community, or caste, who tend cremation pyres. –Trans.
-
-

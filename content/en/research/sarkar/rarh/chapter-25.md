@@ -1,9 +1,9 @@
 ---
-title: "The Birth of Rarh"
+title: "The Rivers of Rarh"
 heading: "Chapter 25"
 weight: 44
 c: "seagreen"
-description: ""
+description: "Civilization and culture move ahead not across hills and through jungles, but along the basins of rivers. "
 icon: "PR Sarkar"
 writer:
   name: PR Sarkar
@@ -12,15 +12,33 @@ writer:
 
 
 
-Civilization and culture move ahead not across hills and through jungles, but along the basins of rivers. Ráŕh abounds in rivers. Rárh was rich in forest resources, and most of its rivers – big, medium-sized and small – in those days were full of water all throughout the year. And each of those countless rivers, or joŕas, was the life-blood of its respective basin. (In the Austric language, joŕa means a small river and joŕá means a big river.) On both banks of each river, in ancient times, people would build their villages, their habitations, their places of pilgimage and towns of pilgrimage.
+Civilization and culture move ahead not across hills and through jungles, but along the basins of rivers. 
 
-The rivers of Ráŕh – not all of them necessarily big or even medium-sized – like a network of nerves, provided various populations of people with opportunities to progress along their basins with their respective civilization and culture. Thus the Siḿ Muńd́á, the Kushmet́e Muńd́á, the Ho-Muńd́á, the Kheŕiyá-Kháḿgár Muńd́á [different tribes] each progressed on its own path of life along the basin of its particular river. The very ancient fossils of humans and animals that we have found in western Ráŕh are all from river basins. Languages also abide by this same basin rule. We find the same language along a fifty-mile stretch of the same basin, but the language becomes different within only ten miles if the basin is changed.
+Ráŕh abounds in rivers. 
+
+Rárh was rich in forest resources, and most of its rivers – big, medium-sized and small – in those days were full of water all throughout the year. 
+
+Each of those countless rivers, or joŕas, was the life-blood of its respective basin.
+
+In the Austric language, joŕa means a small river and joŕá means a big river.
+
+On both banks of each river, in ancient times, people would build their villages, their habitations, their places of pilgimage and towns of pilgrimage.
+
+The rivers of Ráŕh – not all of them necessarily big or even medium-sized – like a network of nerves, provided various populations of people with opportunities to progress along their basins with their respective civilization and culture.
+
+Thus the Siḿ Muńd́á, the Kushmet́e Muńd́á, the Ho-Muńd́á, the Kheŕiyá-Kháḿgár Muńd́á [different tribes] each progressed on its own path of life along the basin of its particular river.
+
+The very ancient fossils of humans and animals that we have found in western Ráŕh are all from river basins. Languages also abide by this same basin rule.
+
+We find the same language along a 50-mile stretch of the same basin, but the language becomes different within only ten miles if the basin is changed.
 
 The people of those bygone days had not learned how to dig wells and ditches. So what sustained them was river water and the water lying under the sand by a river. So civilization is the civilization not only of races, but also of rivers.
 
 Thus there came into being in different parts of Ráŕh the different ways of life, songs, dances, and all other ingredients of enlivened existence, of different river-carried civilizations and cultures.
 
-Starting from the Bansh River in the north and gradually moving south, khańd́a sabhyatá [part-civilizations], or sthániiya sabhyatá [local civilizations], arose along the banks of the Brahmani, the Dáṋŕká, the Mayurakshi, the Bakreshwar, the Kopai, the Ajay, the Barakar, the Damodar, the Gandheshwari, the Dwarakeshwar, the Rupnarayan, the Kumari, the Kangsavati, the Keleghai, the Haldi and the Suvarnarekha. Later, these khańd́a janagośt́hiis [part-groups], these part-civilizations and khańd́a saḿskrti [part-cultures] came to eastern Ráŕh, [which had been formed after western Ráŕh due to changes brought about by the silt of the rivers], and they mingled with one another to build a single and indivisible civilization of Ráŕh.
+Starting from the Bansh River in the north and gradually moving south, khańd́a sabhyatá [part-civilizations], or sthániiya sabhyatá [local civilizations], arose along the banks of the Brahmani, the Dáṋŕká, the Mayurakshi, the Bakreshwar, the Kopai, the Ajay, the Barakar, the Damodar, the Gandheshwari, the Dwarakeshwar, the Rupnarayan, the Kumari, the Kangsavati, the Keleghai, the Haldi and the Suvarnarekha. 
+
+Later, these khańd́a janagośt́hiis [part-groups], these part-civilizations and khańd́a saḿskrti [part-cultures] came to eastern Ráŕh, [which had been formed after western Ráŕh due to changes brought about by the silt of the rivers], and they mingled with one another to build a single and indivisible civilization of Ráŕh.
 
 If we undertake thorough searches along the basins of the big and small rivers, and if we strive to unravel the archaeological mysteries, we shall find many a thing. The rivers which are relatively long, such as the Damodar, the Rupnarayan, the Kansai [Kangsavati] and the Suvarnarekha, can supply ample ingredients of the true history of Ráŕh.
 
