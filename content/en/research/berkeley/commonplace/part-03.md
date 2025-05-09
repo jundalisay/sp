@@ -36,29 +36,29 @@ Circles on several radius's are not similar figures, they having neither all nor
 
 Mem. To remark Wallis's harangue, that the aforesaid proportion can neither be expressed by rational numbers nor surds.
 
-[pg 017]
 We can no more have an idea of length without breadth or visibility, than of a general figure.
 
 One idea may be like another idea, tho' they contain no common simple idea72. Thus the simple idea red is in some sense like the simple idea blue; 'tis liker it than sweet or shrill. But then those ideas wch are so said to be alike, agree both in their connexion with another simple idea, viz. extension, & in their being receiv'd by one & the same sense. But, after all, nothing can be like an idea but an idea.
 
 No sharing betwixt God & Nature or second causes in my doctrine.
 
-M.
-Materialists must allow the earth to be actually mov'd by the attractive power of every stone that falls from the air, with many other the like absurditys.
+M. Materialists must allow the earth to be actually moved by the attractive power of every stone that falls from the air, with many other the like absurditys.
 
 Enquire concerning the pendulum clock, &c.; whether those inventions of Huygens, &c. be attained to by my doctrine.
 
-The ... & ... & ... &c. of time are to be cast away and neglected, as so many noughts or nothings.
+The ... of time are to be cast away and neglected, as so many noughts or nothings.
 
 Mem. To make experiments concerning minimums and their colours, whether they have any or no, & whether they can be of that green wch seems to be compounded of yellow and blue.
 
-S.
-Qu. Whether it were not better not to call the operations of the mind ideas—confining this term to things sensible73?
+S. Whether it were not better not to call the operations of the mind ideas—confining this term to things sensible?
 
-E.
-Mem. diligently to set forth how that many of the ancient philosophers run into so great absurditys as even to deny the existence of motion, and of those other things they perceiv'd actually by their senses. This sprung from their not knowing wt Existence was, and wherein it consisted. This the source of all their folly. 'Tis on the discovering of the nature and meaning and import of Existence that I chiefly insist. This puts a wide difference betwixt the [pg 018]sceptics &c. & me. This I think wholly new. I am sure this is new to me74.
+E. Mem. diligently to set forth how that many of the ancient philosophers run into so great absurditys as even to deny the existence of motion, and of those other things they perceiv'd actually by their senses. 
 
-We have learn'd from Mr. Locke that there may be, and that there are, several glib, coherent, methodical discourses, which nevertheless amount to just nothing. This by him intended with relation to the Scholemen. We may apply it to the Mathematicians.
+his sprung from their not knowing wt Existence was, and wherein it consisted. This the source of all their folly. 'Tis on the discovering of the nature and meaning and import of Existence that I chiefly insist. This puts a wide difference betwixt the [pg 018]sceptics &c. & me. This I think wholly new. I am sure this is new to me74.
+
+Locke says that there are several glib, coherent, methodical discourses, which amount to just nothing. 
+
+This by him intended with relation to the Scholemen. We may apply it to the Mathematicians.
 
 Qu. How can all words be said to stand for ideas? The word blue stands for a colour without any extension, or abstract from extension. But we have not an idea of colour without extension. We cannot imagine colour without extension.
 
@@ -115,11 +115,9 @@ Qu. what the geometers mean by equality of lines, & whether, according to their 
 
 If wth me you call those lines equal wch contain an equal number of points, then there will be no difficulty. That curve is equal to a right line wch contains the same points as the right one doth.
 
-M.
-I take not away substances. I ought not to be accused of discarding substance out of the reasonable world84. I onely reject the philosophic sense (wch in effect is no sense) of the word substance. Ask a man not tainted with their jargon wt he means by corporeal substance, or the substance of body. He shall answer, bulk, solidity, and such like sensible qualitys. These I retain. The philosophic nec quid, nec quantum, nec quale, whereof I have no idea, I discard; if a man may be said to discard that which never had any being, was never so much as imagin'd or conceiv'd.
+M. I take not away substances. I ought not to be accused of discarding substance out of the reasonable world84. I onely reject the philosophic sense (wch in effect is no sense) of the word substance. Ask a man not tainted with their jargon wt he means by corporeal substance, or the substance of body. He shall answer, bulk, solidity, and such like sensible qualitys. These I retain. The philosophic nec quid, nec quantum, nec quale, whereof I have no idea, I discard; if a man may be said to discard that which never had any being, was never so much as imagin'd or conceiv'd.
 
-M.
-In short, be not angry. You lose nothing, whether real or chimerical. Wtever you can in any wise conceive or imagine, be it never so wild, so extravagant, & absurd, much good may it do you. You may enjoy it for me. I'll never deprive you of it.
+M. In short, be not angry. You lose nothing, whether real or chimerical. Wtever you can in any wise conceive or imagine, be it never so wild, so extravagant, & absurd, much good may it do you. You may enjoy it for me. I'll never deprive you of it.
 
 N. B. I am more for reality than any other philosophers85. They make a thousand doubts, & know not certainly but we may be deceiv'd. I assert the direct contrary.
 
@@ -127,5 +125,4 @@ A line in the sense of mathematicians is not meer distance. This evident in that
 
 Curves perfectly incomprehensible, inexplicable, absurd, except we allow points.
 
-I.
-If men look for a thing where it's not to be found, be they never so sagacious, it is lost labour. If a simple clumsy man knows where the game lies, he though a fool shall catch it sooner than the most fleet & dexterous that seek it elsewhere. Men choose to hunt for truth and knowledge anywhere rather than in their own understanding, where 'tis to be found.
+I. If men look for a thing where it's not to be found, be they never so sagacious, it is lost labour. If a simple clumsy man knows where the game lies, he though a fool shall catch it sooner than the most fleet & dexterous that seek it elsewhere. Men choose to hunt for truth and knowledge anywhere rather than in their own understanding, where 'tis to be found.

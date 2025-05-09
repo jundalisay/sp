@@ -90,6 +90,11 @@ This is similar to:
 {{< i s="/graphics/super/waves.jpg" alt="Waves Particles" >}}
 
 
+{{< q a="George Berkeley" c="Commonplace Book" >}}
+All ideas are passive.
+{{< /q >}}
+
+
 These ideas and feelings are all made up of the positive and negative aspects. This is similar to:
 
 - data being made up of 1's and 0's
