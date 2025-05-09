@@ -41,14 +41,12 @@ The proper solution is Rene Descartes' 5 Elements model. This model divides the 
 4. Weak
 5. Strong Force
 
-
 These work together to create reality. 
 
+An analogy for the JWST findings is a bullet train on train tracks on ground. 
 
 {{< img src="/graphics/physics/jwst.jpg" alt="Train on tracks" cap="Spacetime 'redshifts' light just as the ground can bend tracks" >}}
 
-
-An analogy for the JWST findings is a bullet train on train tracks on ground. 
 - The ground represents spacetime
 - The tracks are lightwaves that travel through spacetime 
 - The train is the information conveyed by those waves
@@ -63,12 +61,27 @@ This means that the distant galaxies that JWST observes are close to their curre
 
 This is why Descartes insisted that the speed of light was instant. He really meant that it was the speed of the aether within light that was instant. 
 
-The data from the JWST supports Cartesian Physics and goes against Einstein's Relativity. In fact, we can safely delete all of Einstein's Theories and replace them with modified Lorentz-Poincare ones, except for Brownian motion.
+
+### Matches the CMB as well
+
+The findings of the JWST matches findings of the CMB in the sense that the CMB is really the fuzzy image of galaxies that are more distant than infrared.
+
+{{< i s="/graphics/physics/sponge.jpg" a="CMB" >}}
+
+This is why the CMB is uniform and matches the black body spectrum -- because it shows the galaxies "behind" the edge of the universe arranged uniformly.
+
+The CMB does not match the cosmic web because the cosmic web is for the visible observable galaxies, whereas the CMB is for unobservable galaxies.
+
+It follows that the CMB is NOT the afterglow of the Big Bang which never exisited. Rather it is the fuzzy image of galaxies beyond the observable. 
+
+
+
+
+<!-- The data from the JWST supports Cartesian Physics and goes against Einstein's Relativity. In fact, we can safely delete all of Einstein's Theories and replace them with modified Lorentz-Poincare ones, except for Brownian motion.
 
 Cartesian Physics not only solves all other Physics problems through the 5 Elements model, but also extends to solve problems in Biology, Medicine, Psychology and the Social Sciences. This makes it a unifier not only for Physics, but for all sciences. 
 
-This will make it easier to solve problems by having a single framework to refer to, instead of having the current messy system with unconnected principles.
-
+This will make it easier to solve problems by having a single framework to refer to, instead of having the current messy system with unconnected principles. -->
 
 
 

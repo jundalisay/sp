@@ -15,9 +15,7 @@ toc: false
 
 [Assembly Theory](https://www.nature.com/articles/s41586-023-06600-9) is a sophistry that tries to bridge Biology and Physics. 
 
-In a previous version of this post, we pointed out its error in confusing physical time with mental time. 
-
-In this revised post, we point out that it is actually a philosophical Theory of Change pretending to be scientific theory of evolution that combines Physics and Biology.
+It is merely a philosophical Theory of Change pretending to be scientific theory of evolution that combines Physics and Biology.
 
 This we could do after actually [simplifying its paper](/research/cronin/assembly) and converting science-jargon into plain English. 
 
