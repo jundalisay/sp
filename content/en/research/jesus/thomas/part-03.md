@@ -12,8 +12,7 @@ c: "indigo"
 {{< /r >}}
 
 {{< l a="Jesus" >}} 
-It is like a mustard seed. It is the smallest of all seeds. But when it falls
-on tilled soil, it produces a great plant and becomes a shelter for birds of the sky.
+It is like a mustard seed. It is the smallest of all seeds. But when it falls on tilled soil, it produces a great plant and becomes a shelter for birds of the sky.
 {{< /l >}}
 
 

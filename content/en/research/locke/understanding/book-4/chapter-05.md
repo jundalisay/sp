@@ -1,6 +1,6 @@
 ---
 heading: Chapter 5
-title: "TRUTH IN GENERAL"
+title: "Truth In General"
 description: 
 c: "steelblue"
 weight: 16
@@ -11,14 +11,24 @@ weight: 16
 
 Truth is THE JOINING OR SEPERATING OF SIGNS, AS THE THINGS SIGNIFIED BY THEM DO AGREE OR DISAGREE ONE WITH ANOTHER. 
 
-The joining or separating of signs here meant, is what by another name we call PROPOSITION. So that truth properly belongs only to propositions: whereof there are two sorts, viz. mental and verbal; as there are two sorts of signs commonly made use of, viz. ideas and words.
+The joining or separating of signs is PROPOSITION. Truth belongs only to propositions, which have 2 kinds: 
+- mental
+- verbal
+
+This is the same as there being 2 sorts of signs commonly used: ideas and words.
 
 
 3. Which make mental or verbal Propositions.
 
-To form a clear notion of truth, it is very necessary to consider truth of thought, and truth of words, distinctly one from another: but yet it is very difficult to treat of them asunder. 
+The truth of thought is different from truth of words.
 
-Because it is unavoidable, in treating of mental propositions, to make use of words: and then the instances given of mental propositions cease immediately to be barely mental, and become verbal. For a MENTAL PROPOSITION being nothing but a bare consideration of the ideas, as they are in our minds, stripped of names, they lose the nature of purely mental propositions as soon as they are put into words.
+But it is difficult to differentiate them because we use words to explain our mental propositions.
+
+As we explain them, they become verbal and not mental.
+
+A MENTAL PROPOSITION is a bare consideration of the ideas, as they are in our minds stripped of names.
+- They lose that nature as soon as they are put into words.
+
 
 4. Mental Propositions are very hard to be treated of.
 

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 4b"
-title: "The Creation of the Universe"
+title: "The Creation of the Universe: Baryonic Acoustic Oscillations"
 # date: 2020-01-31
 image: "/graphics/flipbook.gif"
 description: "According to Physics, the universe was created through a Big Bang of a material Singularity. This is false."
@@ -12,12 +12,26 @@ icon: "Juan"
 ---
 
 
+The universe is created from the aethereal ideas of the Supreme in the aethereal layer.
 
-<!-- We all know that physical reality exists inside space and time, and that space and time are the properties of the universe. 
+These then manifest in the spatial layer as cosmic bubbles, called baryonic acoustic oscillations by Modern Physics.
 
-But how were space and time and the universe created? -->
+These spread out throughout the universe spreading its ideas which slowly convert into physical light through the Radiant Layer, and matter through the Material Layer.
 
-According to Physics, it was created through a "Big Bang" of a material Singularity. This led to matter and energy, just as we see shrapnel and light, and feel the energy from exploding fireworks. 
+These then become the galaxies, stars, and planets that we see.
+
+{{< i s="/photos/physics/bao.jpg" a="Bao" >}}
+
+
+### The Cosmic Microwave Background
+
+The meeting of these oscillations create a pattern called the cosmic web. These extend beyond the observable universe to the external universe which we see as the cosmic microwave background (CMB). 
+
+Physics wrongly thinks that the CMB is heat that came from the Big Bang. 
+
+In reality, it comes from the galaxies that are beyond the range of observable light and infrared. 
+
+  this, it was created through a "Big Bang" of a material Singularity. This led to matter and energy, just as we see shrapnel and light, and feel the energy from exploding fireworks. 
 
 What is the nature of this Material Singularity? How did it begin? 
 

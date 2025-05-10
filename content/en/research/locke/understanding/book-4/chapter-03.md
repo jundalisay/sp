@@ -1,6 +1,6 @@
 ---
 heading: Chapter 3
-title: "THE EXTENT OF HUMAN KNOWLEDGE"
+title: "The Extent Of Human Knowledge"
 description: 
 c: "steelblue"
 weight: 12

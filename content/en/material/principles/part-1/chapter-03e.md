@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 3e"
-title: "Action at a Distance Via Effort"
+title: "Action at a Distance Via Aethereal Effort"
 # date: 2020-01-31
 image: "/graphics/physics/effort.jpg"
 description: "Action at a Distance is possible because there is no void in nature."
@@ -12,7 +12,7 @@ icon: "Juan"
 ---
 
 
-Aethereal Effort or Action is based on Spin. 
+Action comes from Aethereal Effort which then produces a new spin or state-change. 
 - Spin is based on internal configuration or gravitational signature
 - Spin happens when there is a match between the external media and the internal configuration, leading to energy to flow into the identity. 
 
@@ -20,7 +20,6 @@ Aethereal Effort or Action is based on Spin.
 The movement between identities happens through their relational differences, as Cartesian Relationality.
 - Some relations are attractive
 - Others are repulsive
-
 
 
 ### Converting Newtonian Force into Aethereal Effort

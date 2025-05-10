@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 8"
-title: "The Polarities of the 5 Layers"
+title: "Vortex and Non-vortex Polarities"
 # date: 2024-01-02
 image: "/photos/meta/yinyang.jpg"
 description: "The 2 Forces of Positive and Negative create a duality in the physical domain"
@@ -19,7 +19,33 @@ The 2 Forces in Physical Reality | This manifests as polarities in the 5 Layers
 {{< /dc >}}
 
 
-The 4th Rule of Cartesian Motion is about the presence of absence of vortices. 
+The main property of gravitational signatures is vibration, which in particles mmanifests as spin. In Cartesian Physics, this is vortex rotation.
+
+These vibrations lead to 3 states as positive, netural, and negative.
+
+An identity can spin independently of others, or have its spin match those of others. 
+
+- If it spins dependently, then it sticks with the collective
+- If it spins independently, then it stands out and is perceptible out of the mass or collective that it is in
+
+If it spins independently, then it can either:
+- dominate the collective, or
+- be booted out
+
+If it dominates then it makes the collective subservient to it. This will make them revolve around its spin. In the large scale this manifests as quasars.
+
+It can also dominate others while keeping the same spin direction. This manifests as galaxies in the large scale .
+
+
+{{< youtube cQtvHmgQtng >}}
+
+If booted out, then it will naturally settle in a place where it can harmonize with its surrounding particles. In the spatial layer, this facilitates the expansion of the universe.
+
+It follows that a vortex is formed from energy imbalance, when one particle is stronger than the rest.
+
+This means not all phenoena has vortices. The Positive and Negative thus express themselves differently when there is a vortex or no vortex.
+
+<!-- This is described by the 4th Rule of Cartesian Motion which is about the presence of absence of vortices. 
 
 This allows us an easier way to classify the polarities in phenomena so that all phenomena happen:
 
@@ -29,10 +55,7 @@ This is when the identity is alone. This leads to vortex-less phenoemena. This i
 
 2. Dependently
 
-This is when the identity is not alone. This leads to vortex phenoemena. This is Positive.
-
-
-The Positive and Negative then express themselves differently when there is a vortex or no vortex.
+This is when the identity is not alone. This leads to vortex phenoemena. This is Positive. -->
 
 
 Layer | Positive | Negative

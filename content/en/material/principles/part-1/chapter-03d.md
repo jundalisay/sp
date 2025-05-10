@@ -31,7 +31,7 @@ For example, electricity is able to get energy from space around the wire throug
 
 So the sequence is:
 
-1. Identity settles on a configuration 
+1. Identity settles on a configuration, as state-change
 2. This configuration allows energy to go through the identity
 3. The energy causes the identity to spin or act based on its nature or layer and sublayer
 
@@ -42,7 +42,7 @@ This is the meaning of our equation for everything, which we call the Eagle:
 {{< i s="/graphics/super/egl.jpg" a="The Eagle" >}}
 
 
-### Action is Effort
+### Effort Leads to Action
 
 In Physics, the concept of Action is most similar to Effort, which is different from Energy and Force.
 - Energy is the medium before it enters the identity
@@ -50,9 +50,12 @@ In Physics, the concept of Action is most similar to Effort, which is different 
 
 So the sequence is:
 
-1. Energy
-2. Effort
-3. Force (if there is another object to move or be moved, or act on or be acted on)
+1. The Identity Changes its state or configuration
+2. Energy Flows through the Identity
+3. Action Happens through the Identity
+4. Force Results (if there is another object to move or be moved, or act on or be acted on)
+
+Effort is steps 1 and 2.
 
 
 ### How Physics Came Up With Action
@@ -101,43 +104,4 @@ Feynman wrongly used relativistic time (which is an action of light instead of t
 Descartes already solved this by adding the aether and its actions. 
 
 But this was unsolved by Einstein who only knew light actions and so he made time an action of light instead of the aether through his scam simultaneity of time. This has set back Physics by over 100 years.
-
-
-
-
-<!-- Each of the 5 Layers implements a Conservation Law in order to maintain the balance in the universe.
-
-The Conservation Law for the Aethereal Layer is called:
-- the Conservation of Identity in Material Superphysics
-- the Conservation of Idea in Superphysics
-
-The Pauli Exclusion Principle for material particles is one of the manifestations of this law.
-- It says that matter particles cannot occupy the same energy levels, but media particles can
-
-Material Superphysics explains that this is because matter particles are meant to be receivers for the media particles. 
-
-Matter particles accept the energy from force or media particles based on the their receiving-configuration. 
-
-This configuration is their svadharma or gravitational signature which must be unique, as opposed to media particles which are one unit and have dharma instead of svadharma. 
- -->
-
-
-<!-- These move everything in the physical and metaphysical domains. These 3 are made up of waves and are not particles. These do not even have size, shape, age, or timespan because they are above the spatial layer. 
-
-Instead, they create movement or non-movement by engaging or disengaging from the perceived waves. This leads to action-at-a-distance, which is the opposite of material contact forces.
-
-Action-at-a-distance is possible because, in the paradign of Descartes, Aristotle, and the Asian sciences of Hinduism, Buddhism, and Taoism, there is no Void in Nature. 
-- This means that empty space is filled with substances that facilitate action-at-a-distance.
-
-
-Newtonian Mechanics embraces Democritus' matter-based philosophy which is the opposite that of Descartes. 
-
-q a="Epicurus" >}}
-Therefore the first-beginnings are of solid singleness
-/q >}}
-
-Instead of space being filled:
-- Newton ascribed gravity to an invisible gravitational force coming from matter
-- Einstein ascribed gravity to an invisible spacetime that warps
- -->
 
