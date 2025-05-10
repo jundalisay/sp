@@ -71,17 +71,13 @@ This is also seen in galaxy rotation curves which have different dynamics from t
 ## Works on BAOs too
 
 
-The spherical shape matches that of the baryonic acoustic oscilations (BAOs) which are seen from the cosmic microwave background (CMB). 
+The spherical shape matches that of the baryonic acoustic oscilations (BAOs) which are seen from the cosmic microwave background (CMB). These act like bubbles or ripples, consistent with the liquid nature of vortices and is why the Chinese called the aether as water.
 
 {{< img src="/graphics/physics/bao.jpg" alt="baryonic acoustic oscilation" >}}
 
-Physics explains that after the Big Bang, the formation of protons and neutrons created sound waves that rippled through the radiation-soup that is later seen as the CMB. Galaxies then formed along those ripples, forming the observed clusters. 
+- The ripples are spacetime while the gaps between themm are the aetherspace.
+- The origin of the ripple is the main idea while the resulting galaxy clusters in the ripple are the ideas arising from it.
 
-We explain that those ripples represent the aether deploying itself in spacetime as to create a ripple shape that has no visible vortex or center. This is because vortices imply an identity. 
-
-The galaxies that are along the ripples are then the identities deployed by the aether oscillations. This is why the BAOs do not have a vortex. Instead they have a ripple. 
-
-Likewise, a galaxy or star does not have a ripple, but instead has arms and orbits that go around its vortex.
 
 This rippling of gravitational territories then leads to our Multiverse Theory that is based on Cartesian Physics which views the aether as an invisible liquid substance that fills everything.
 
@@ -89,11 +85,17 @@ This rippling of gravitational territories then leads to our Multiverse Theory t
 The conclusion is that the force that causes them to go towards E is vibratory in nature. As the particles change position, it increases or relaxes those diverse small vibrations.  
 {{< /q >}}
 
+
 Changes or movement in the aether are done through vibrations, different from particles that are moved by contact. 
+
 
 ## What Happens at the Edge?
 
-Going to the edge of the universe linearly is not possible, since the spacetime travels faster any the speed of any material or electromagnetic object. The only solution is to teleport beyond the edge of that universe. But this will merely bring the object to another universe within the same layer and spacetime coordinates. 
+The edge of the universe is the CMB which has the fuzzy microwave images of more distant galaxies.
+
+Going to the edge of the universe linearly is not possible, since the aetherspace blocks matter just as it facilitates contact forces.
+
+The only solution is to be in a ship that teleports to the edge of that universe. This will then expand the visible universe, allowing the ship to discover new galaxies to go to.
 
 
 {{< img src="/graphics/physics/multiverse.jpg" alt="Multiverse" cap="The proper movement to escape the confines of the current universe is to use the Positive Force to go up the multiverse ladder">}}

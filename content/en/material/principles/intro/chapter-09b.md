@@ -13,6 +13,14 @@ icon: "Juan"
 
 The constants in Nature are the fixed values that, to Superhysics, represent the ratios between the Layers.
 
+The easiest ratios are for the internal boundaries and the highest quantum for eaccch layer:
+
+Bondary (value) | Quantum (value)
+--- | ---
+Edge of Universe (93b light years) | 
+Higgs Boson () | 
+X17 (17 MeV) | Electron Neutrino (0,07 MeV)
+
 
 ### Spatial-Radiant
 

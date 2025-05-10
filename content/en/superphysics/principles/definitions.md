@@ -123,6 +123,10 @@ Theorem | A resultant statement proven true through other statements
 Truth | the equality of perceptions from different perceiving identitites
 Wisdom | An intellect that is in line with the dharma of the causes and effects in question
 
+
+
+
+
 <!-- , including axioms, definitions, and previously proven theorems. It represents a significant result derived from the system's foundations. -->
 
 

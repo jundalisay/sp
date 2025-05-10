@@ -12,7 +12,7 @@ icon: "Juan"
 ---
 
 
-### Overhauling the Particles
+## Overhauling the Particles
 
 <!-- Hadrons, Baryons, Mesons, Leptons, Fermions, and Bosons -->
 

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2b"
+heading: "Chapter 2"
 linkTitle: Sublayers
 title: "The Sublayers and the Internal Boundary"
 # date: 2023-11-02
@@ -66,13 +66,14 @@ For example, a well known boundary is the Higgs Field which we regard as the int
 
 This gives us 5 Boundaries:
 
-Layer | Boundary | Description
+Boundary | Physics Name | Description
 --- | --- | ---
-Aethereal | aib (Aethereal Internal Boundary) | Separates aethereal identities that can be split up
-Spatial | sib (Spatial Internal Boundary) | Separates space from time 
-Radiant | rib (Radiant Internal Boundary) | Separates identities with potential energy
-Convertible | cib (Convertible Internal Boundary) | Separates identities that can be changed 
-Material | mib (Material Internal Boundary) | Separates material and not-so-material identities
+Aethereal Internal Boundary (aib) | Edge of Identity | Separates aethereal identities that can be split up
+Spatial Internal Boundary (sib) | Edge of Universe | Separates space from aetherspace
+Radiant Internal Boundary (rib) | Higgs Field | Separates identities with potential energy
+Convertible Internal Boundary (cib) | X17 | Separates left-hand-interacting identities 
+Material Internal Boundary (mib) | ? | Separates protons fromm mesons
+
 
 <!-- identities with can be further split up (manifesting as splitting up)  that can be split up by antimatter -->
 <!-- 
@@ -117,8 +118,8 @@ From the Medium-Substance-Quantum (MSQ) Table in Chapter 3, we can deduce that e
 Layer | Quality
 --- | --- 
 Aethereal | Audibility or Harmony 
-Spatial | Size
-Radiant | Visibility
+Spatial | Contact
+Radiant | Visible Form
 Convertible | Stability
 Material | Identifiability
 
@@ -168,6 +169,8 @@ The principles of Material Superphysics is organized under the following heading
 
 
 {{< i s="/graphics/physics/table.jpg" alt="Layers and sublayers table" >}}
+
+
 <!-- Topic | Aether | Spatial 
 --- |  --- | --- 
 1 Intro | |
