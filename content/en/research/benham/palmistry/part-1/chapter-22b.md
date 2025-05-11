@@ -5,7 +5,7 @@ description: "The Mercurian is the strongest in the business world"
 weight: 118
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

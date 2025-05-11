@@ -6,7 +6,7 @@ weight: 46
 c: "deeppink"
 description: "The Lines of Influence are on the Mount of Venus and inside the Life line. Some of these run parallel to the Life line. Others run across the Mount."
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

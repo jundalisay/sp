@@ -4,11 +4,8 @@ title: "The Girdle of Venus"
 description: "The Girdle of Venus is found on many hands, the palm being crossed by innumerable lines running in every direction"
 weight: 68
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 c: "deeppink"
-aliases:
-  /research/benham/palmistry/part-2/chapter-28
-  /research/benham/palmistry/chapter-28
 ---
 
 
@@ -38,7 +35,6 @@ To solve this, we <!--  arrive at a correct solution of this much vexed question
 
 This is the 20th century, not 400 B.C. when the original meaning was given. <!-- , and that conditions to-day are different from those prevailing at that time.  -->
 
-<!-- The Girdle Of Venus 674 No. 523. --> 
 
 From an exhaustive study of the Girdle of Venus, I have found that it does not as a rule indicate debauchery and license. Instead, it nearly always does indicate an intense state of nervousness*. In most cases, great liability to hysteria. 
 

@@ -5,7 +5,7 @@ weight: 44
 c: "deeppink"
 description: "The thin Life line indicates a lack of robust, muscular vitality and great endurance."
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

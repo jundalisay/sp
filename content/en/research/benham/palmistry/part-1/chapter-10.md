@@ -5,7 +5,7 @@ description: "The 3 worlds are based on aether, material, base"
 weight: 8
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

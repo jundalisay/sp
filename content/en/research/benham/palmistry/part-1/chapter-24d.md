@@ -5,7 +5,7 @@ description: "With yellow color we find gouty and rheumatic troubles pre-liable,
 weight: 130
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

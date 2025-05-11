@@ -5,7 +5,7 @@ description: "THE line of Mercury has been called the line of Health, the line o
 c: "deeppink"
 weight: 64
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

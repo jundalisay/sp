@@ -6,7 +6,7 @@ description: "No two hands are exactly alike because no two people are exactly a
 weight: 4
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

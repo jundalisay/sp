@@ -6,7 +6,7 @@ c: "deeppink"
 description: "Breaks are always serious even though small. When wide or when the ends of the broken line are far apart and unrepaired, they become serious enough to warrant the reading of probable fatality"
 icon: "/avatars/blank.png"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

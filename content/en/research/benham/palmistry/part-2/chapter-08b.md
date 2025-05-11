@@ -6,7 +6,7 @@ weight: 48
 c: "deeppink"
 description: "These tell about factors outside of the subject himself, forming a part of his environment"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

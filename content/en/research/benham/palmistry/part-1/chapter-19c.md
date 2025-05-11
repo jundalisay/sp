@@ -4,7 +4,7 @@ title: "The Jupiterian Thumb"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
 weight: 104
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 c: "deeppink"
 ---
 
@@ -15,9 +15,11 @@ The supreme test is made by the thumb as it will show what kind of will is prese
  
 <!-- , as shown by the shape of the will phalanx, - whether --> 
 
-clubbed, spatulate, square, conic, paddle-shaped, broad, or refined. 
+<!-- clubbed, spatulate, square, conic, paddle-shaped, broad, or refined.  -->
 
-Then see how much will there is by the length of the will phalanx. See if reason and logic are strong by length of the second phalanx, see what kind of reason by the shape of this phalanx, then see if will is stronger than reason, evenly balanced with it, or deficient. 
+Then see how much will there is by the length of the will phalanx. 
+
+See if reason and logic are strong by length of the second phalanx, see what kind of reason by the shape of this phalanx, then see if will is stronger than reason, evenly balanced with it, or deficient. 
 
 From these examinations you can tell whether good sense and determination will make the Jupiterian ambitions succeed or whether lack of these qualities will ruin them. 
 
@@ -55,7 +57,9 @@ Unfortunately, we find the bad type of Jupiterian so often that these must be fu
 
 In this bad type the appearance is changed, the life, beauty, and strength diminished, and in place there is an undersized man, not commanding in appearance, eyes in which kindliness is lacking, a bad skin without the healthy glow of the good type, straight, stiff hair, a poorly shaped nose, mouth very large, full and sensual, with long, dark teeth.
 
-This Jupiterian is forbidding and unattractive, and no crowd follows in his steps. The bad type has all the Jupiterian love of command, but no power of enforcing it except upon those weak and unable to resist him. He is the tyrant and despot at heart, but frequently finds only his family upon whom to exercise these qualities. Thus in his home he is a person of overbearing pettiness. 
+This Jupiterian is forbidding and unattractive, and no crowd follows in his steps.
+
+The bad type has all the Jupiterian love of command, but no power of enforcing it except upon those weak and unable to resist him. He is the tyrant and despot at heart, but frequently finds only his family upon whom to exercise these qualities. Thus in his home he is a person of overbearing pettiness. 
 
 He is grossly extravagant, but in spending his money he furthers only his own pleasure and gratifies only his own appetite. He is a sensualist, selfish in the extreme, and a debauchee. His family are subjected to indignities and forced to submit to a tyrannical will. 
 
@@ -74,24 +78,36 @@ The best hand for a good Jupiterian is large with smooth fingers and square tips
 
 
 
-Nearly all Jupiterian hands will be thick in the third phalanges, and have deep Head and Life lines, with color very pink or red. There is no trouble in recognizing the good and bad types here described, if found in the pure state, but as other types blend with the Jupiterian, the hands will not show these unmixed Jupiterian qualities, and you may not' feel sure to what type the subject belongs. 
+Nearly all Jupiterian hands will be thick in the third phalanges, and have deep Head and Life lines, with color very pink or red. 
 
-Follow the directions of Chapter 18 Mounts And Fingers in locating the Mounts and you will have no trouble in finding the predominating Mount, as well as the second in strength. 
+Follow the directions of Chapter 18 Mounts And Fingers in locating the Mounts to find the predominating Mount and the second Mount. 
 
-From these the combination of types to which the subject belongs can be determined. If the Mount of Jupiter is strongest and Venus next, he will be a Jupiterian-Venusian and all the Jupiterian ambition, desires, and qualities will be present, as well as love, sympathy, and the long train of Venusian attributes. Always consider the qualities of the leading type as predominant, to which add those of the secondary Mounts. 
+If the Mount of Jupiter is strongest and Venus next, he will be a Jupiterian-Venusian.
+- All the Jupiterian ambition, desires, and qualities will be present, as well as love, sympathy, and the long train of Venusian attributes. 
 
-Note in the secondary Mounts, by the phalanges of the finger, which world rules, as either the mental strength, business qualities, or the baser elements of the secondary type will be the ones which will support the leading type. Thus with a Jupiterian-Mercurian, the finger of Mercury having the second phalanx longest, the Jupiterian, which is the leading type, will be supported and helped by the scientific qualities of the Mercurian, this being the indication of the second phalanx of Mercury.
+Always consider the qualities of the leading type as predominant, to which add those of the secondary Mounts. 
+
+Note in the secondary Mounts, by the phalanges of the finger, which world rules, as either the mental strength, business qualities, or the baser elements of the secondary type will be the ones which will support the leading type. 
+
+Thus with a Jupiterian-Mercurian, the finger of Mercury having the second phalanx longest, the Jupiterian, which is the leading type, will be supported and helped by the scientific qualities of the Mercurian, this being the indication of the second phalanx of Mercury.
 
 If the first phalanx of Mercury, in the above combination, is the longest instead of the second, it will be the Mercurian powers of oratory and eloquence that will help the Jupiterian. 
 
-This is a great assistance to one who wishes to influence others. By locating the leading and the attendant Mounts, and by noting which phalanx of the fingers lead, as I have done in the above instances, there is no hand to be found in which you cannot distinguish the leading type, the attendant types, and determine also what quality of the leading one is predominant, as well as what side of the attendant Mounts will help forward the combination. 
+This is a great assistance to one who wishes to influence others.
+
+By locating the leading and the attendant Mounts, and by noting which phalanx of the fingers lead, there is no hand to be found in which you cannot distinguish the leading type, the attendant types, and determine also what quality of the leading one is predominant, as well as what side of the attendant Mounts will help forward the combination. 
 
 This is the way to decide upon occupations. It is absolutely accurate in determining what is the best vocation in life for a client. 
 
-The Jupiterian seldom commits suicide. When he does it is the result of disappointed ambition or wounded vanity. As a general rule, when he reaches the stage of discouragement that is supposed to cause men to take life, the Jupiterian takes to drink and drowns his sorrows in the" flowing bowl." Jupiterians who commit suicide have short fingers and act upon impulse. 
+The Jupiterian seldom commits suicide. When he does it is the result of disappointed ambition or wounded vanity.
 
-Thus in a sudden disappointment they may on the spur of the moment jump from a high place or use a revolver. Long-fingered or knotty-fingered Jupiterians do not take their own lives.
+When he gets discouraged to the point of committing suicide, the Jupiterian instead takes to drink and drowns his sorrows in the "flowing bowl."
+- Jupiterians who commit suicide have short fingers and act upon impulse. 
+- Thus in a sudden disappointment they may on the spur of the moment jump from a high place or use a revolver.
+- Long-fingered or knotty-fingered Jupiterians do not take their own lives.
 
-Give a Jupiterian time to think it out and he will never do so. The drink habit is a danger which all Jupiterians have to encounter, and this is especially a danger if the color of the hands, lines, and nails be red. 
+Give a Jupiterian time to think it out and he will never do so.
+
+The drink habit is a danger which all Jupiterians have to encounter, and this is especially a danger if the color of the hands, lines, and nails be red. 
 
 These high-spirited subjects find a great temptation to indulge their appetite for stimulants. If the Life line shows great vigor of constitution by its depth and color this is a positive menace to a Jupiterian.

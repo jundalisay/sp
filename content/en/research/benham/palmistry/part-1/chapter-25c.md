@@ -5,7 +5,7 @@ description: "Bulbous nails, in whatever degree found, will tell that throat, br
 weight: 136
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

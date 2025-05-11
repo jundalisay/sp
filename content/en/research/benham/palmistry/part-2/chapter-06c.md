@@ -5,12 +5,15 @@ weight: 30
 c: "deeppink"
 description: "Sometimes the line of Head rises inside the line of Life on the lower Mount of Mars, and, after crossing the Life line, winds its way across the hand"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
 
 Sometimes the line of Head rises inside the line of Life on the lower Mount of Mars, and, after crossing the Life line, winds its way across the hand (94). 
+
+![Head Line](/graphics/palm/93.png)
+
 
 This subject is extremely vacillating. 
 
@@ -23,6 +26,8 @@ These subjects are rarely successful, for they do not stick to anything long eno
 They are always aggressive, for the Head line rises from lower Mars, consequently they are frequently in trouble, always picking quarrels, and are avoided by those who do not want contention. The shifting mind and quarrelsome disposition are a poor combination, for one can never tell what tack these people may take next.
 
 If the color of the hand and lines be red, this will add to the unpleasantness of the indication, if yellow, the subject will be intolerably mean, in addition. The less mentality the hand indicates, the less will the subject be able to overcome the trouble, but good first phalanges to the fingers, a long second phalanx of thumb, with a long, narrow, or paddle-shaped first phalanx of that member, will give the subject forces with which he can largely counteract the shifting disposition indicated by such a Head line. Sometimes the Head line rises from the Mount of Jupiter (95).
+
+![Head Line](/graphics/palm/95.png)
 
 This line shows fine capability for leadership, a person who can handle men with ease and get the most out of them, one who is self-confident; and this source of the Head line is always an indication of strong mentality. There is diplomacy present which enables the subject to dictate without being harsh, to rule when he seems to be ruled, to appear dependent when he knows all depends on him; he is brainy, brilliant, and successful. 
 
@@ -40,7 +45,9 @@ The course of the line through the hand is next to be considered. In cutting its
 
 The tendency or danger indicated by this line is that of becoming too unimpressionable, too inelastic, too sordid, to allow of adaptability. These subjects often do not make many friends, as they want everyone to come to their way of thinking. 
 
-Everything is subjected to plain common-sense, often narrow views, and anything speculative or ideal is an abomination. This straight line must be the gauge by which you judge all deflections. When the line of Head rises on or under Jupiter, we have the qualities of that Mount exerting strong influence on the subject, and it is seldom that a line will be so placed that it can be deflected upward toward the Mount of Jupiter, but we do find the line deflected under the other Mounts. The line of Head normally curves upward slightly in the beginning of its course, and in most hands this curve is about midway between Jupiter and Saturn.
+Everything is subjected to plain common-sense, often narrow views, and anything speculative or ideal is an abomination. This straight line must be the gauge by which you judge all deflections.
+
+When the line of Head rises on or under Jupiter, we have the qualities of that Mount exerting strong influence on the subject, and it is seldom that a line will be so placed that it can be deflected upward toward the Mount of Jupiter, but we do find the line deflected under the other Mounts. The line of Head normally curves upward slightly in the beginning of its course, and in most hands this curve is about midway between Jupiter and Saturn.
 
 When the line so perceptibly curves under Saturn (99) that its course is greatly changed, it shows that the subject is strongly tinged with Saturnian ideas. Often when every other method of classifying your subject into his proper type has failed, the Head line deflected toward a Mount will do it for you. The greater the deflection of the line toward Saturn the more surely will Saturnian ideas be strong in the subject. 
 
@@ -51,14 +58,16 @@ If the upper world rules, it will be art, pure and simple; if the middle world i
 
 If the upper world rules, fine powers of expression, persuasive force, even oratorical power, are indicated. The kind will be shown by the shape of the finger-tips. 
 
-If the middle world is strongest, the mind will lean toward scientific investigations and the subject will be a good physician, teacher, or lawyer. If the lower world rules, money-making talent is strongly indicated. With a deflection toward this Mount, watch the crooking and twisting of the finger, to determine how much added shrewdness is present, and how near the subject is to roguery. If the line is wavy from source to termination (102) it will show that the subject has had no permanent fixedness of ideas. 
+If the middle world is strongest, the mind will lean toward scientific investigations and the subject will be a good physician, teacher, or lawyer.
+
+If the lower world rules, money-making talent is strongly indicated. With a deflection toward this Mount, watch the crooking and twisting of the finger, to determine how much added shrewdness is present, and how near the subject is to roguery. If the line is wavy from source to termination (102) it will show that the subject has had no permanent fixedness of ideas. 
 
 The variations which may occur in this wavy line are infinite, but by following the line from its beginning you can tell the age when each mental variation occurs and in what direction it tends. This reading of the line by sections will give the mental changes in detail. 
 
 
 The general interpretation which must be applied to a wavy line is a lack of continuous mental effort in any one direction, changeability of purpose, and consequent vacillation. Such a Head line is never self-reliant. As counsellors and advisers these people are not safe, for their opinions are not long the same. It is an unstable line, and shows unstable ideas.
 
- The line is often seen deflecting upward in a curve which may take it close to the line of Heart (103). This will show that the heart is a stronger factor than the head, and that sentiment will largely influence the subject. If the deflection of the Head toward the Heart line begins early in the line, and continues to the end, it will show that the heart was always the strongest, even from the beginning of life. If the deflection occurs later, this condition began later. 
+The line is often seen deflecting upward in a curve which may take it close to the line of Heart (103). This will show that the heart is a stronger factor than the head, and that sentiment will largely influence the subject. If the deflection of the Head toward the Heart line begins early in the line, and continues to the end, it will show that the heart was always the strongest, even from the beginning of life. If the deflection occurs later, this condition began later. 
 
 If the deflection is slight, the heart will influence but not entirely rule the subject; if it is very great the heart will largely dictate. It is necessary with this indication to note which line is the deeper and stronger. If the Heart line, then sentiment will guide and reason will give way. If the Head, then reason will assert itself, often producing mental distress because the dictates of the heart cannot be followed. 
 

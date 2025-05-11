@@ -6,7 +6,7 @@ c: "deeppink"
 description: "Classifying the subject's type is the first step."
 icon: "/avatars/blank.png"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

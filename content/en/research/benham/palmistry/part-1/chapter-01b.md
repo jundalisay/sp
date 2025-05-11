@@ -5,7 +5,7 @@ description: "All that there is to destiny or fate is this matter of the seven t
 weight: 4
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

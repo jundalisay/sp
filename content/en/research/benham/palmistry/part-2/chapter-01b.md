@@ -4,7 +4,7 @@ title: "The Dual Mind"
 description: "The second basis is that the dual mind exists and operates as has been stated previously."
 weight: 3
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 c: "deeppink"
 ---
 

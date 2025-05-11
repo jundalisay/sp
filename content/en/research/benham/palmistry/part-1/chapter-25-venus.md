@@ -5,7 +5,7 @@ description: "Dealing as it does with love and the sexual passions, there is nee
 weight: 132
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
@@ -42,8 +42,7 @@ The Venusian type was created to:
 
 Standing as it does for love, sympathy, and generosity, the Venusian type is a good one, and, as one of its greatest qualifications is attraction for its fellows, it necessarily needs warmth and heat, for heat attracts and cold repels. 
 
-
-This Venusiaii heat means a plentiful supply of good-quality blood, and a strong heart to pump it, consequently the Venusian is a healthy type and a handsome one, for good health begets good looks, producing not always rounded, doll-like beauty, but freshness and attractiveness. 
+This Venusian heat means a plentiful supply of good-quality blood, and a strong heart to pump it, consequently the Venusian is a healthy type and a handsome one, for good health begets good looks, producing not always rounded, doll-like beauty, but freshness and attractiveness. 
 
 We find each type endowed with whatever accompaniments of health and characteristics are necessary to best fit it to bring forward the elementary forces which it represents, so the Venusian, being created to emphasize love, is given health, warmth, and physical attractiveness, that, wherever he appears, love may be inspired. 
 

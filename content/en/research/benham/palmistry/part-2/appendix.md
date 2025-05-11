@@ -5,7 +5,7 @@ description: "Here is Aristotle's chapter on Palmistry written around 350 B.C."
 weight: 100
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

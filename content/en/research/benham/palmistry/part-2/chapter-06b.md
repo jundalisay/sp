@@ -6,7 +6,7 @@ weight: 28
 c: "deeppink"
 description: "One of the first things to do in reading the Head line is to distinguish disease from character of the mentality."
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
@@ -43,6 +43,8 @@ The starting-point or source of the Head line must be noted.
 
 In most hands, the line rises from the line of Life, to which it is slightly attached at the start (89), and branches away from the Life line, sometimes near the beginning of that line, sometimes farther along (90).
 
+![Head Line](/graphics/palm/89.png)
+
 At this point, the Head line registers the early years of life. 
 - The sooner the line separates from the Life line, the younger was the subject when he began to think for himself. 
 - The longer the Head line is tied to the Life line the less self-confidence has the subject and the more he relies upon the advice of others. 
@@ -52,13 +54,17 @@ The Head line is not often bound to the Life line longer than the 12th year.
 
 Many Head lines are seen which only touch the Life line at its beginning, showing that as a mere child the subject was self-reliant. 
 
-In examining the beginning of the Head line note how sharp the angle formed by the lines of Head and Life. The more pointed this angle (90), the more sensitive the subject, the easier are his feelings hurt, and if in addition the sensitive pads are found on the ends of the fingers, this sensitive disposition will be extreme. 
+In examining the beginning of the Head line note how sharp the angle formed by the lines of Head and Life.
+
+The more pointed this angle (90), the more sensitive the subject, the easier are his feelings hurt, and if in addition the sensitive pads are found on the ends of the fingers, this sensitive disposition will be extreme. 
 
 The subject will do almost anything rather than hurt the feelings of others, and the lives of such will be often made unhappy by unintentional slights. 
 
 The type of the subject and his finger-tips must be taken into consideration here. With pointed tips and this acute angle the subject will be entirely lacking in self-reliance, timid, cautious, leaning constantly upon someone else, and suffering a fall every time the support is taken away. 
 
-With thick fingers and square or spatulate tips the indications will not be extreme sensitiveness, but must be read as denoting prudence and caution. Often the Head line is merged in the Life line at the start, and in this case the head did not begin to assert itself, but the subject depended upon others until the year when the line breaks away from the line of Life. Sometimes the Head line does not leave the Life line until well along in its course (91). 
+With thick fingers and square or spatulate tips the indications will not be extreme sensitiveness, but must be read as denoting prudence and caution. Often the Head line is merged in the Life line at the start, and in this case the head did not begin to assert itself, but the subject depended upon others until the year when the line breaks away from the line of Life.
+
+Sometimes the Head line does not leave the Life line until well along in its course (91). 
 
 In this case the mental activities began later in life. This even goes so far as to produce in some hands the formation of an obtuse angle (92), which shows the subject to be somewhat callous to slights. If, with this latter marking, the finger-tips be square or spatulate and the fingers and palm thick and red, the subject will be very dense, and if only the lines of Head, Heart, and Life are present, it will indicate elementary heaviness of intellect and unimpressionability. 
 
@@ -100,8 +106,6 @@ This marking, in whatever degree of separation it is seen, always indicates a su
 The wider the separation, the more marked is the self-reliance and the consequent individuality. 
 
 Always regard this marking as requiring care, for the owner is an unusual subject, and everything must be weighed in order to determine whether the self-reliance and self-esteem shown by the indications run to a danger point. 
-
-<!-- The Line Of Head Part 3 248 No. 91. The Line Of Head Part 3 249 No. 92. The Line Of Head Part 3 250 No. 93. The Line Of Head Part 3 251 No. 94.  -->
 
 <!-- It might be supposed that these separated lines would indicate lack of sensitiveness, as does an obtuse angle formed by the line starting low on the Life line, but such is not the case.  -->
 

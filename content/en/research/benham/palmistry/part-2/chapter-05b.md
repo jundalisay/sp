@@ -6,7 +6,7 @@ c: "deeppink"
 description: "Classifying the subject's type is the first step."
 icon: "/avatars/blank.png"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
@@ -42,6 +42,8 @@ If the line rises normally but runs only a short distance and stops (32), it ind
 <!-- You can judge which by the directions given later in this chapter. It is, in either case, a poor sign.  -->
 
 If the Heart line crosses the entire hand (33) it shows that the subject has too much heart and will allow sentiment to guide him in everything. 
+
+![Entire](/graphics/palm/33.jpg)
 
 <!-- The Line Of Heart Part 2 189 No. 32. The Line Of Heart Part 2 190 No. 33. The Line Of Heart.  -->
 

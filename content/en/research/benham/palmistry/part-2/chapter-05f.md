@@ -6,7 +6,7 @@ c: "deeppink"
 description: "Every variation in the path of the Heart line means a change in the qualities for which it stands."
 icon: "/avatars/blank.png"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

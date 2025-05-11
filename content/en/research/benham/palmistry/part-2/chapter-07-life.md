@@ -5,7 +5,7 @@ weight: 38
 c: "deeppink"
 description: "The Saturn line is frequently called the line of Fate."
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

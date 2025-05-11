@@ -4,7 +4,7 @@ title: "Characteristics of the Saturnian"
 description: "By reason of his love for digging and exploring in the earth, he has often found wells of oil, or mines of coal and minerals"
 weight: 108
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 c: "deeppink"
 ---
 

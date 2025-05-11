@@ -5,7 +5,7 @@ c: "deeppink"
 description: "The line of Intuition lies at the side of the hand near the percussion"
 weight: 76
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
@@ -13,6 +13,9 @@ icon: "Willam Benham"
 The line of Intuition lies at the side of the hand near the percussion.
 
 It rises on the Mount of Moon, and after describing a curve toward the Plain of Mars, ends on or near the Mount of Mercury.
+
+
+![Saturn](/graphics/palm/551.png)
 
 It occupies the same position as the line of Mercury, but is distinguished from it by its curved formation, though I consider it practically a Mercury line. 
 
@@ -45,6 +48,8 @@ I have noted this mark in the hands of celebrated spirit mediums (552). They tel
 - they often have mental pictures
 - as they come to rely on these intuitions, **they find them increasing in number and accuracy**. 
 
+![Saturn](/graphics/palm/552.jpg)
+
 {{< n n="This is the same case with us who are working on Superphysics. First we started with an economic solution, then a new economic science, then new sciences.">}}
 
 
@@ -52,7 +57,6 @@ Whatever intuition is, it operates to give a mental impression from one person t
 
 Those who have the line of Intuition in their hands have the highest degree of faculty of receiving these impressions.
 
-<!-- The Line Of Intuition 702 No. 561. The Line Of Intuition 703 No. 552.  -->
 
 If with a line of Intuition the hand be square, hard, and few lines be seen, the subject will dismiss his intuitions as foolishness. 
 
@@ -68,15 +72,26 @@ A deep line of Intuition will indicate the greatest amount of intuition, and bro
 
 <!-- The Line Of Intuition 704 No. 663. The Line Of Intuition 705 No. 554. The Line Of Intuition 706 No. 555.  -->
 
-Islands in the line will show that the faculty will bring poor success, and islands in the beginning of a line of Intuition indicate a tendency toward somnambulism (553). 
+Islands in the line will show that the faculty will bring poor success, and islands in the beginning of a line of Intuition indicate a tendency toward somnambulism (553).
 
-If the line of Head sinks low on the Mount of Moon and the line of Intuition cuts it, the mental forces will be injured by allowing too much imagination and intuition to have play. If a branch rises from a line of Intuition and runs to the Mount of Jupiter, the subject will be ambitious to accomplish something with his intuitive faculties; these are successful occultists (554).
+![Saturn](/graphics/palm/553.png)
 
-If a line rises from the Hue of Intuition to the Mount of Apollo (555), the subject will achieve renown through the exercise of his intuitive faculties. If a hue from the line of Intuition cuts the Saturn line (556), the exercise of the intuitive faculties will impair the career of the subject. 
+If the line of Head sinks low on the Mount of Moon and the line of Intuition cuts it, the mental forces will be injured by allowing too much imagination and intuition to have play. 
 
-<!-- The Line Of Intuition 707 No. 556. The Line Of Intuition 708 No. 557. The Line Of Intuition 709 No. 558.  -->
+If a branch rises from a line of Intuition and runs to the Mount of Jupiter, the subject will be ambitious to accomplish something with his intuitive faculties; these are successful occultists (554).
 
-In all of these cases the subject will probably use these faculties as a medium or clairvoyant. If the line of Intuition ends in a star (557), the subject will have great success from the exercise of these faculties. If the Mercury development be strong, the subject will make money from the exercise of his intuitive faculties, or can do so if he wishes. 
+
+If a line rises from the Hue of Intuition to the Mount of Apollo (555), the subject will achieve renown through the exercise of his intuitive faculties. 
+
+If a hue from the line of Intuition cuts the Saturn line (556), the exercise of the intuitive faculties will impair the career of the subject. 
+
+![Saturn](/graphics/palm/556.png)
+
+In all of these cases, the subject will probably use these faculties as a medium or clairvoyant. 
+
+If the line of Intuition ends in a star (557), the subject will have great success from the exercise of these faculties. 
+
+If the Mercury development be strong, the subject will make money from the exercise of his intuitive faculties, or can do so if he wishes. 
 
 If the Mercury development be bad the subject will resort to tricks and imposition to make money from the intuitive faculties. If crosses be seen on the line it adds to this indication. These are humbug clairvoyants, mediums, and fortunetellers. 
 

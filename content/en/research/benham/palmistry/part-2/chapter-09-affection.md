@@ -3,7 +3,7 @@ heading: "Chapter 9a"
 title: "Affection Lines"
 weight: 50
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 c: "deeppink"
 description: "The lines of Affection or Marriage, as they are commonly called, lie on the Mount of Mercury, and run from the percussion toward the inside of the palm"
 ---

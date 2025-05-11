@@ -3,7 +3,7 @@ title: "The Saturn Line"
 heading: "Chapter 10 "
 weight: 54
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 c: "deeppink"
 description: "The Saturn line is frequently called the line of Fate."
 ---
