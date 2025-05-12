@@ -22,20 +22,22 @@ A perception is new or different from a pervious perception if it has something 
 
 ### 3 Kinds of Time
 
-A universe that has zero changes does not have time. Changes in the universe happen in the 3 Layers:
+A universe that has zero changes does not have time since a mind or detector observing it will have a single perception without any gaps.
 
-1. Aethereal
-2. Radiant
-3. Material
+Changes in the universe happen in the 3 Layers:
+
+1. Aethereal 
+2. Radiant (Electromagnetism in Modern Physics, 1st Element in Descartes' Physics)
+3. Material (Strong Force in Modern Physics, 3rd Element in Descartes' Physics)
 
 
 The changes are facilitated by 2 Layers next to them:
 
-1. Spatial
+1. Spatial (Spacetime in Modern Physics, 2nd Element in Descartes' Physics)
 
 This results in the general concept of time 
 
-2. Convertible
+2. Convertible (Weak Force in Modern Physics, 4th Element in Descartes' Physics)
 
 This results in particle decay times. 
 
@@ -91,7 +93,7 @@ Our sliced object on the right, on the contrary, exposes **both the space and th
 
 This is because we look at the object one part at a time. This is in turn because the mind can only have 1 object inside it at a time.
 
-{{< q a="Sarkar" c="Idea and Ideology" >}}
+{{< q a="PR Sarkar" c="Idea and Ideology" >}}
 Unless the mindstuff takes the form of incoming the quantum-perceptions, no perception is possible. This is because the ego can work only when the mindstuff adopts a form.
 {{< /q >}}
 
@@ -104,11 +106,11 @@ Therefore, our spacetime model makes the unity of space and time easier to under
 
 ## ~~Time~~ Cognition Always Moves Forward
 
-Both space and time are products of perception which always moved outward or forward from the **self** as the lower mind. This is why time always moves forward whether externally or internally.
+Both space and time are products of perception which always moves outward or forward from the **self** as the lower mind. This is why time always moves forward whether externally or internally.
 
 This is because main purpose of the aethereal layer is to facilitate perception. 
 
-**A cognition that flows backwards will be deleting its own mind its its own ideas and feelings.**
+**A cognition that flows backwards will be deleting its own mind its own ideas and feelings.** Existence exists and this is why cognition only moves forward. 
 
 {{< img src="/graphics/physics/soul.jpg" alt="The Direction of Perception" cap="Time always moves forward from the perspective of the lower mind." >}}
 
@@ -125,18 +127,16 @@ Soul and Oversoul | Everything is Simultaneous (Aether dominates, Spacetime is n
 - In Parmenides by Plato, this oversoul is the One
 
 {{< q a="Parmenides" c="Chapter 7" >}}
-Does the One as a Whole experience time?  Does it become older and younger than Itself and Others?
-- To exist is to be in the present time
-- To have been is to be at a past time
-- To be about to be is to be at a future time
-Then the One, since it has being also has time. Time is always moving forward. 
+Does the One as a Whole experience time? Does it become older and younger than Itself and Others? To exist is to be in the present time. To have been is to be at a past time. To be about to be is to be at a future time. Then the One, since it has being also has time. Time is always moving forward. 
 {{< /q >}}
 
 
-Planck time is the smallest unit of time between spacetimes. This is represented by quantum of timespace or qots.  
+Planck time is the smallest unit of time between spacetimes. In Material Superphysics, this is represented by `quantum of timespace` or `qots`.  
 
 
-### Static Space Versus Dynamic Time
+### Timespace 
+
+<!-- Static Space Versus Dynamic Time -->
 
 The Physical Domain has less change and dynamism compared to the Metaphysical. 
 
@@ -151,16 +151,17 @@ This is because the Metaphysical Domain is closer to the Aethereal layer which i
 
 This is why we say time gets more malleable and simultaneous the higher the layer, while space becomes less important. 
 
-This leads to our concept of timespace. 
+This leads to our concept of **timespace**. 
 
 
 
 ## Physical Time Versus Metaphysical Time
 
-We classify the material and radiant times are physical time, and the aethereal or mental time as metaphysical. 
-- Physical Time occupies the lower layers of timespace
+We classify the material and radiant times as physical time, and the aethereal or mental time as metaphysical. 
+- Physical Time occupies the lower layers of timespace.
 - Metaphysical Time occupies the upper layers. 
 
+{{< i s="/graphics/physics/msq.jpg" a="MSQ" c="In our MSQ model, timespace is the upper medium of the spatial layer. Spacetime is the lower medium" >}}
 <!-- Here we likewise create the concept of Physical Time and Metaphysical Time.  -->
 
 In Physics, this is roughly similar to the concept of Proper and Coordinate Time from Einstein's Relativity.
@@ -176,7 +177,7 @@ In Physics, this is roughly similar to the concept of Proper and Coordinate Time
 - Material time is the most common time, as the one seen in clocks.  
  -->
 
- {{< youtube OW5-dcrqM1I >}}
+{{< youtube OW5-dcrqM1I >}}
 
  
 

@@ -35,6 +35,9 @@ Physics assumes that such ugly constants stay constant everywhere in the univers
 
 But to Descartes and Socrates, there are no constants in the universe. And so those measures will break down in other stars and galaxies. 
 
+
+## The Cutie Pi
+
 To fix this, we use the perspective of the universe as the 5 Elements, and not of humans or the Earth. 
 
 We use base-6 in counting, as proven by the patterns in the Periodic Table and circles and time being in multiples of 6, as used by the Babylonians.

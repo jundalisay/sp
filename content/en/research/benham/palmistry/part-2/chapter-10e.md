@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 10d"
-title: "Breaks in the Saturn Line "
+heading: "Chapter 10e"
+title: "Other Defects in the Saturn Line "
 weight: 58
 author: "Benham"
 icon: "William Benham"

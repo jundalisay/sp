@@ -10,9 +10,13 @@ icon: "William Benham"
 ---
 
 
-All things which increase the size of the Mount increase its powers and effectiveness. This subject will be ardent, full of desire and warmth, passionate, generous, sympathetic, and will attract others. 
+All things which increase the size of the Mount increase its powers and effectiveness.
+- This subject will be ardent, full of desire and warmth, passionate, generous, sympathetic, and will attract others. 
 
-He will also be strongly attracted, will marry early, and in 99% of cases the union will be fruitful. This comes from the converse of the reasoning applied to the restricted line. This converging line also indicates long life and a strong vitality and constitution. It is the presence of warmth as opposed to cold. 
+He will also be strongly attracted, will marry early, and in 99% of cases the union will be fruitful. 
+- This comes from the converse of the reasoning applied to the restricted line. 
+
+This converging line also indicates long life and a strong vitality and constitution. It is the presence of warmth as opposed to cold. 
 
 Generally:
 - the longer the line of Life, the longer will be the life of the subject
@@ -81,15 +85,31 @@ He is endowed with vigor of constitution, is filled with self-confidence, and in
 
 If a Life line be deep and long it will show that the vitality and robustness continues during the entire life, but most Life lines become thin at the lower end, when the vitality naturally wanes. Vigor, strength, health, ardor, self-confidence, intensity, and energy sum up the attributes of the deep-cut Life line, and this line will affect all of the types. 
 
-The strength and vigor will increase the Jupiterian propensities to "eat, drink, and be merry," and from this Life line and the Jupiterian type we get many drunkards. This is one of the distinguishing combinations which tells of danger in this direction. If the third phalanx of Jupiter be very full and the color of hand and line red, your subject is likely one who has already indulged heavily. 
+The strength and vigor will increase the Jupiterian propensities to "eat, drink, and be merry" leading to drunkards. 
 
-He has, however, only the illnesses which are produced by excess, as his strong Life line shows, and he can indulge in a good deal of dissipation before it begins to impair his vitality. This subject lives a life free from disease and generally drops with apoplexy. The same danger is present with a strong Martian type, especially with red color and red hair. The deep Life line makes the Apollonian a strong, healthy fellow, one to make his way through the world with ease. The Venusian is intensely passionate, and so strong in health and vitality that the exercise of natural Venusian passions is much increased. 
+If the third phalanx of Jupiter be very full and the color of hand and line red, your subject is likely one who has already indulged heavily. 
 
-In all cases it is the addition of good health and great vitality to the type, and with this idea in mind you can reason out the various combinations. A narrow and thin line indicates less vitality, less robustness, less resistance to illness, and greater liability of the subject to be overcome by various troubles of health. 
+He has, however, only the illnesses which are produced by excess, as his strong Life line shows, and he can indulge in a good deal of dissipation before it begins to impair his vitality. This subject lives a life free from disease and generally drops with apoplexy. 
 
-The thin line does not mean that the subject is necessarily delicate or sickly, but it shows that he cannot endure as much hardship, exposure, or resist disease as well as a subject with a deep Life line. In all character of Life lines observe the proportion to the other lines. If the Life line be deep and all other lines thin or nervous, the subject will go through life with less worry and fewer nervous spells. 
+The same danger is present with a strong Martian type, especially with red color and red hair. 
+
+The deep Life line makes the Apollonian a strong, healthy fellow, one to make his way through the world with ease. 
+
+The Venusian is intensely passionate, and so strong in health and vitality that the exercise of natural Venusian passions is much increased. 
+
+In all cases it is the addition of good health and great vitality to the type, and with this idea in mind you can reason out the various combinations. 
+
+A narrow and thin line indicates less vitality, less robustness, less resistance to illness, and greater liability of the subject to be overcome by various troubles of health. 
+
+The thin line does not mean that the subject is necessarily delicate or sickly, but it shows that he cannot endure as much hardship, exposure, or resist disease as well as a subject with a deep Life line. In all character of Life lines observe the proportion to the other lines. 
+
+If the Life line be deep and all other lines thin or nervous, the subject will go through life with less worry and fewer nervous spells. 
 
 If the Life line be thin and all other lines deep and well cut, the subject will be continually overstrained and health will surely suffer, for the thin Life line is not of sufficient size to carry the amount of Current which is flowing through the hand. 
 
-The result of such a combination will be that the health will give way at some point in the line. The thin Life line is not distinctly a nervous line, yet the subject with such a line will be more nervous than one with a deep line. He will be apprehensive of coming evils, he seems instinctively to feel that the tension on health is great, and he fears the day when it will be overstrained. In choosing persons to go through great privations, such as explorers and prospectors, select those with deep and well-cut Life lines, not subjects with thin lines. 
+The result of such a combination will be that the health will give way at some point in the line. The thin Life line is not distinctly a nervous line, yet the subject with such a line will be more nervous than one with a deep line. 
+
+He will be apprehensive of coming evils, he seems instinctively to feel that the tension on health is great, and he fears the day when it will be overstrained. 
+
+In choosing persons to go through great privations, such as explorers and prospectors, select those with deep and well-cut Life lines, not subjects with thin lines. 
 

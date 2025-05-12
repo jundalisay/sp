@@ -22,7 +22,7 @@ Upper | Timespace | Time is dominant
 Middle | Aetherspace | Alternates between time and space (i.e. probabilistic)
 Lower | Spacetime | Space is dominant
 
-{{< img src="/graphics/physics/spacetimeratio.png" alt="The 3 Media of the Spaital Layer" cap="The Aethereal, Spatial, and Radiant Layers" >}}
+{{< img src="/graphics/physics/spacetimeratio.png" alt="The 3 Media of the Spatial Layer" cap="The Aethereal, Spatial, and Radiant Layers" >}}
 
 - Timespace is the sublayer where time predominates and space is minimal. 
 - Spacetime is the sublayer where space predominates and time is minimal. 
@@ -52,19 +52,19 @@ Spacetime or Empty Space | {{< i s="/graphics/physics/general.jpg" a="Spacetime"
 Aetherspace | | This the space inside an atom and other places that are too small for qosts -->
 
 
-
-
 ### The Spatial Layer has Different Dynamics in Other Universes
 
+In one of the Essassani transmissions, Bashar mentions a solar system (or galaxy?) that has reverse gravity. 
+- Creatures walk on the sky of their planet.
 
-In our galaxy, mosts are arranged with particles facing outwards. This causes material spheres.
+To explain this, we say that in our galaxy, mosts are arranged with particles facing outwards. This causes material spheres.
 
-However, in other galaxies they might be facing inwards. This would create a reverse gravity wherein creatures would walk on the sky of planets. 
+However, in other galaxies they might be facing inwards. This would create a reverse gravity wherein creatures would walk on the sky of planets.
 
 
 {{< img src="/graphics/physics/reverse.jpg" alt="Reverse Gravity" cap="Reverse gravity could be possible in other galaxies" >}}
 
-
+Material Superphysics is robust enough to account for the different Physics in other galaxies because it is based on the aether, which is totally flexible.
 
 
 <!-- decided that most3 act like fluids by being less rigid, allowing them to convert from most3 to qosts. 
