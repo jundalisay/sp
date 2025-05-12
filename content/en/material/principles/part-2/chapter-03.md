@@ -14,7 +14,7 @@ icon: "Juan"
 
 
 
-The Spatial Layer is made up of 3 media based on the 3 Influences Model:
+All changes, motion, and 'forces' in the spatial layer happens through the spatial media which have 3 kinds based on the 3 Influences Model:
 
 Sublayer | Media | Notes
 --- | --- | ---
@@ -27,6 +27,9 @@ Lower | Spacetime | Space is dominant
 - Timespace is the sublayer where time predominates and space is minimal. 
 - Spacetime is the sublayer where space predominates and time is minimal. 
 - Aetherspace is the layer that combines both timespace and spacetime in order to have an arena for both physical and metaphysical perceptions. 
+
+{{< img src="/graphics/physics/msq.jpg" alt="MSQ Model " cap="The subdivision of the saptial layer within the 5 layer model. Note how the edge of the visible universe separates spacetime and the aetherspace" >}}
+
 
 
 ### The Various Forces from the Spatial Media
@@ -54,12 +57,11 @@ Aetherspace | | This the space inside an atom and other places that are too smal
 
 ### The Spatial Layer has Different Dynamics in Other Universes
 
-In one of the Essassani transmissions, Bashar mentions a solar system (or galaxy?) that has reverse gravity. 
-- Creatures walk on the sky of their planet.
+In one of the Essassani transmissions, Bashar mentions a solar system (or galaxy?) that has reverse gravity, allowing creatures to walk on the sky of their planet.
 
 To explain this, we say that in our galaxy, mosts are arranged with particles facing outwards. This causes material spheres.
 
-However, in other galaxies they might be facing inwards. This would create a reverse gravity wherein creatures would walk on the sky of planets.
+However, in other galaxies the mosts might be facing inwards. This would create a reverse gravity wherein creatures would walk on the sky of planets.
 
 
 {{< img src="/graphics/physics/reverse.jpg" alt="Reverse Gravity" cap="Reverse gravity could be possible in other galaxies" >}}

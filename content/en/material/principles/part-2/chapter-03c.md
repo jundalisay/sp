@@ -24,7 +24,7 @@ Lower | Spacetime | Physical | Gravity (via Matter), Dark Matter (via Light, Mat
 
 {{< youtube 6D9LNAgWbRE >}}
 
-This is where spacetime slices exist. In Cartesian Physics and the pre-Science era, this was known as extension. 
+This is where spacetime slices exist. In Cartesian Physics and the pre-Science era, this was known as extension.  We can call it as metaphysical space, as opposed to spacetime which is physical space.
 
 {{< q a="Rene Descartes" c="" >}}
 The essence of matter consists in extension
@@ -35,7 +35,11 @@ Extension is an attribute of God, or God is an extended thing
 {{< /q >}}
 
 
-{{< i s="/graphics/meta/space.jpg" a="Extension" c="The philosophical extension is the metaphysical space occupied by a physical object in the mind" >}}
+An example of metaphysical space is the space we experience in our dreams and ideas. For example, when you think of a pink elephant, you always think of it existing in a space. You never think of the pink elephant fully squeezed in inside your mind as if it had zero free space.
+
+
+
+{{< i s="/graphics/meta/space.jpg" a="Extension" c="The philosophical extension is the metaphysical space occupied by a physical object in the mind. This is why the aetherspace facilitates the expanmsion of the universe, called rarefaction by Descartes" >}}
 
 
 This allows the concept of 7 dimensions each of which has its own property:
@@ -80,23 +84,23 @@ This liquidity gives its wave and probabilistic nature, just as the water in poo
 - However, the water will never suddenly go to one side of the pool. The nature of doing so belongs to the aethereal layer and not the spatial. 
 
 This has practical uses:
-- In Material Superphysics, this leads to teleportation (via timespace).
+- In Material Superphysics, this leads to baryonic acoustic oscillations, the cosmic web, and teleportation (via timespace).
 - In Bio Superphysics, this leads to anti-aging.
 - In Social Superphysics, this leads to the faster evolution of societies.
 
 
-### Separator for Universes
+{{< i s="/photos/physics/bao.jpg" a="BAOs" c="The aetherspace faciltiates baryonic acoustic oscillations since sound travels in the aether. The aetherspace is the blank space within the bubble, while spacetime is the ring where the galaxies reside. Therefore, the aetherspace also facilitates the cosmic web" >}}
 
-The aetherspace separates spacetime slices from each other. 
 
-The spacetime slices that are most similar to each other are naturally stitched together by timespace.  
-
-Therefore, those slices that are most different from the current one are the 'farthest' away in the aetherspace. This really means that they are of a different waveform that the timespace is unable to match in frequency. 
 
 
 ## Difference Between the Aetherspace and Spacetime
 
- <!-- In the Material to Radiant Layers -->
+In the micro or quantum level, the aetherspace separates spacetime slices from each other. This means it cann also split universes fromm each other.
+
+The spacetime slices that are most similar to each other are naturally stitched together by timespace.  
+
+Therefore, those slices that are most different from the current one are the 'farthest' away in the aetherspace. This really means that they are of a different waveform that the timespace is unable to match in frequency. 
 
 You can think of the aetherspace as the book's body, and the spacetime slices as the pages of the book. The timespace is the browsing or flipping of the pages of the book.  
 
