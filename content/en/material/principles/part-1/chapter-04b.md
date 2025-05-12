@@ -27,13 +27,9 @@ These then become the galaxies, stars, and planets that we see.
 
 The meeting of these oscillations create a pattern called the cosmic web. These extend beyond the observable universe to the external universe which we see as the cosmic microwave background (CMB). 
 
-Physics wrongly thinks that the CMB is heat that came from the Big Bang. 
+Physics wrongly thinks that the CMB is heat that came from the Big Bang of a material Singularity. 
 
-In reality, it comes from the galaxies that are beyond the range of observable light and infrared. 
-
-  this, it was created through a "Big Bang" of a material Singularity. This led to matter and energy, just as we see shrapnel and light, and feel the energy from exploding fireworks. 
-
-What is the nature of this Material Singularity? How did it begin? 
+But what is the nature of this Material Singularity? How did it begin? 
 
 {{< c v="red" >}}
 No one is able to answer this.
@@ -49,7 +45,7 @@ Therefore the first-beginnings are of solid singleness
 That would imply that our Big Bang **happened within another universe**. This would then lead to more unanswered questions about that universe that can go on to infinity, since that universe could be within another universe, and so on. 
 
 
-## A Big Bootup or Wakeup, Instead of a Material Big Bang
+## A Big Bootup or Wakeup Through Baryonic Acoustic Oscillations
 
 Instead of a material cause, Superphysics asserts a **metaphysical cause**. 
 
@@ -63,35 +59,35 @@ For example:
 {{< img src="/graphics/flipbook.gif" alt="Flipbook" cap="The universe is a compilation of static ideas stitched together by sequential perception" >}}
 
 
-Likewise, all universes came from the ideas of the Creator. The material universe cannot be made by itself nor by another material universe. 
+Likewise, everything in the universe came from the ideas of the Supreme as bubbles in spacetime.
+
+
+This means that the cosmic microwave background comes from the galaxies that are beyond the range of observable light and infrared. 
 
 The question then becomes:
 - How are these ideas created? 
-- How do they become as complex as a universe?
+- How do they become as complex as a universe and the CMB?
 
-The conversion of idea to reality and physical matter follows a five-step process which we call our five-layer model, derived from the Greeks and Asians:
+
+The conversion of idea to reality and physical matter follows a five-step process that follows our five-layer model, derived from the Greeks and Asians:
 
 Phase | Layer | Physics Name | Sequence  
 --- | --- | --- | ---
-0 | Metaphysical | Pseudo-science | The pre-existing ideas as potentialities are deployed onto reality
-1 | Aethereal | Higgs | The aether compiles the <!-- potential ideas as actual --> compound ideas as potential universes in the multiverse
-2 | Spatial | Gravitation | The compiled ideas are sent through qosts as galaxies and then as stars. These create space and time, as well as gravity
-3 | Radiant | Electromagnetism | The friction in the stellar qosts create electrons and photons
+0 | Metaphysical | Pseudo-science | The pre-existing ideas as potentialities are compiled for deployment onto reality, as potential galaxies
+1 | Aethereal | BAOs | The compiled ideas are deployed through baryonic acoustic oscillations (BAOs) as the aetherspace which then creates spacetime
+2 | Spatial | Gravitation | The BAOs create spacetime where galaxies are deployed as vortices, creating 'dark matter'
+3 | Radiant | Electromagnetism | The friction within spacetime creates radiant vortices as stellar qosts which create radiant particles which make up stars
 4 | Convertible | Weak force | The weak force in stars further creates W Z bosons (moc1 and moc2) from qosts. These allow fusion, allowing particles to combine
 5 | Material | Strong force | Finally, the strong force binds the particles as protons to form the elements
 
-
-{{< img src="/graphics/physics/multiverse.png" alt="The Multiverse with Universe" cap="Each universe begins when aethereal ideas get crudified into matter in a systemic process matching the order of the universe" >}}
-
-
 We use the creation process explained by Descartes and the Vedic Philosophy as an alternative to the materialist creation process by Physics.
+
+{{< i s="/graphics/physics/prob.jpg" a="Multiverse with Universes" c="Alternate realities are created by the aetherspace" >}}
 
 
 ## Phase 1: From Potentiality to Actuality
   
-The infinite ideas of the Creator move down as real ideas or qoa in the aethereal layer. From pre-existence, each quantum of idea goes down onto the aether creating a single identity or `1`. 
-
-The combination of ideas then lead to an infinite combination of compound ideas such as `100101` or `110010`. This stream of compound, binary ideas then form a very complex wave, which stream with other waves of infinite number and variety. 
+The infinite ideas of the Creator move down as real ideas or qoa in the aethereal layer and there gain identity as a gravitational signature which results in a relative spin which is theoretically a wavelength in a chorus of ideas.
 
 In this way, we can think of the multiverse of ideas as:
 
@@ -104,12 +100,6 @@ Sequence | Analogy |
 5 | Genre | Universe 
 
 All these universes exist simultaneously in the aethereal layer, as a multiverse. Because of human limitations, we can see only one universe, our current one. The universes in the aethereal layer occupy no space since they are above the spatial layer. 
-
-
-<!-- Another idea comes in, leading to two point-identities "1" and "1". However since identity must be unique, then the first "1" has to push the second "1" away. This creates a unit of space "0" between them as "101". 
-
-More ideas come in, each with its own preference for identity and thererfore space so the universe can become "101001000101". Thus, the binary existence becomes more complex.     
- -->
 
 
 ## Phase 2: The Ideas are Deployed
@@ -126,10 +116,6 @@ The universe thus shifts from aetherel probability into spatial reality (i.e exp
 
   
 ### The Universe as a Matrix (or an App or TV screen)
-
-<!-- These 1's and 0's then flood into existence. Unlike the original aethereal layer that had no zeros (and therefore no space), this current layer has space. So we call this the "spatial" layer.  
-
-Unlike the Big Bang which created space from a material cause, our spatial layer was created by the flood of 1's and 0's entering existence. Thus, we can call it a Big Bootup, similar to a bootup of a computer that enables 1's and 0's to be created in its memory or computer-mind.  -->
 
 We can think of the physical universe (with spacetime) as a giant computer memory that generates virtual objects.
 

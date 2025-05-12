@@ -19,9 +19,9 @@ The upper sublayer is quasi-physical, while the lower is physical.
 
 Sublayer | Physicality | Medium | Substance | Quantum 
 --- | --- | --- | --- | ---
-Upper | Quasi-physical | Timespace | Time | Galactic Black Holes / Chakras (Dark Matter and Dark Energy)
-Mid | Physical | Aetherspace Multiverses | Black Holes |  Stellar and Planetary Black Holes (Orbital Gravity and Surface Tension)
-Lower | Physical | Spacetime | Space | Material Things (Atomic Gravity)
+Upper | Quasi-physical | Timespace | Time | Universal Black Hole
+Mid | Physical | Aetherspace | Black Holes |  Galactic Black Holes (Dark Matter)
+Lower | Physical | Spacetime | Space | Stellar Black Hole (Orbital Gravity and Surface Tension)
 
 
 The Upper Spatial is not purely physical as it is the realm of:
@@ -29,11 +29,11 @@ The Upper Spatial is not purely physical as it is the realm of:
 - the multiverse
   - This allows acces to different universes, each one with different Physics.
 
-The Middle Spatial is within the Upper Spatial. 
-- This is mostly physical where information is deployed onto the current universe.
-- This sets the speed of light of the current universe. 
+The Middle Spatial is the non-observed physical, as the aetherspace. Examples are:
+- the dark areas of the cosmic web
+- the probabilistic space inside an electron and proton 
 
-The Lower Spatial is the realm that we can see.
+The Lower Spatial is the realm that we can see as spacetime
 - This leads to matter having length, width, and height that does not change so easily.
 - It is also the one that "glues" subatomic particles of the Material Layer together. 
 
@@ -48,6 +48,8 @@ The edge of the universe is the internal boundary in the Spatial layer that sepa
 
 - The invisible is made up of the parts beyond the edge of the universe, as well as the quantum spaces that are virtual or theoretical. 
 - The visible is made up of galaxies and matter that we can see
+
+{{< i s="/graphics/physics/msq.jpg" alt="MSQ" >}}
 
 The ratio 5,130,000 (base 6) or 244,944 (base 10) between the internal boundary at the current edge diameter of 93 billion light years leads to galaxy-particles (vortices in Descartes Physics) sized at around 300,000 light years across. 
 
