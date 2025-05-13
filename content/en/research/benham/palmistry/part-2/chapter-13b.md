@@ -94,7 +94,6 @@ Such subjects will not often deny that they masturbate.
 
 If these are seen in children's hands, ask the parents to give them good wholesome advice and plain talks to prevent the formation of this vicious habit. 
 
-<!-- The Girdle Of Venus Continued 675 No. 524. The Girdle Of Venus Continued 676 No. 525. The Girdle Of Venus Continued 677 No. 526. The Girdle Of Venus Continued 678 No. 527.  -->
 
 The Girdle of Venus is usually a single deep line. 
 

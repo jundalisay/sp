@@ -1,6 +1,6 @@
 ---
 title: "The Output of Superphysics as of"
-# image: "/graphics/super/egl.jpg"
+c: "darkslategray"
 date: 2024-11-29
 showdate: true
 weight: 5

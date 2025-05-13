@@ -1,6 +1,6 @@
 ---
-title: "The Splits of the Line of Life"
-heading: "Chapter 7d "
+title: "Defects on the Line of Life"
+heading: "Chapter 7e"
 weight: 44
 c: "deeppink"
 description: "The thin Life line indicates a lack of robust, muscular vitality and great endurance."
@@ -9,82 +9,105 @@ icon: "William Benham"
 ---
 
 
-Splits on the Life line (243) divert a portion of the Current from the main channel. 
+A cross-bar running to an islanded line of Mercury (202) shows that throat and lung trouble is the difficulty, indicated of such a Mercury line.
 
-Sometimes they only divide it, and the line continues a double line with the splits running close together (244). 
-
-This reduces the strength of the constitution during the period of the split, and while it may not result in positive delicacy, it will diminish the vitality. 
-
-Sometimes such a split will extend for only a short space. Often it will go the entire length of the line. 
-
-In any case, the divided strength operates during the continuance of the split. 
-
-Sometimes, the splits are fine and hair-like (245), and do not diminish the size of the Main line. 
-
-These are generally seen accompanying a deep line, and show the excess of strength of the line. 
-
-There is, as it were, a running over of vitality, and these fine, hair-like splits must be read as confirming the strength of a deep, strong line. 
-
-When fine, hair-like lines are seen rising from the line (246), it generally occurs in the early part of the line. This shows the upward course of the subject's life. He is filled with ambition, pride, and a desire to achieve success. The fine rising lines show that the Current which overflows from the line is drawn upward by the force of attraction of the Mounts under the fingers. 
-
-The exit of the Current, you remember, is through the fingers of Saturn, Apollo, Mercury, and these rising hair-like lines from the Life line show that the Current is being impelled in its proper direction, with a force strong enough to pull these fine lines upward. The period covered by these rising lines on the Life line is that of the years of greatest power in the life of the subject. 
-
-He will have his greatest earning capacity and command of his best brain power and strength. During this time he should accomplish the most important part of his life's work.
-
-A time will come when the little lines do not rise from the Life line, but fall downward (247). At this time there is no such strength as during the period covered by the rising lines. 
-
-The Current is not forced upward by the great power of enthusiasm and vital energy, and the life forces, ambition, and the capacity to do, begin to wane from the time of life when these hair lines begin to fall downward. 
+![Life Line](/graphics/palm/202.png)
 
 
-[Tuning point in life](/graphics/palm/248.png)
+Islands on the Life line (203) show that the Current is split in 2, operating with a diminished force.
 
-The turning-point in the life of the subject is where the rising lines cease to rise and the drooping lines begin (248). This point marks the pinnacle of his capabilities.
-- He will never be able to do afterwards what is possible before this point is reached. 
+They are always indications of periods of delicacy. 
 
-This turning-point in the life was placed before us for our guidance. 
+The point where the island begins will mark the commencement of this period of delicacy, and the end of the island will tell when it is over, provided the line is good afterward. 
 
-I have studied this a lot. I have verified it in the lives of hundreds of people. 
+If the island be a very small one (204), it will indicate a single illness, and you must proceed by examining Mounts, Head, Heart, Mercury, chance lines, and all other health indications to find out the nature of the illness. 
 
-From it, you can tell your client when he must have his house in order and be ready to begin the descent of the hill of life. 
+If the line has a series of islands (205), it operates like a chained line showing a continuous succession of illnesses and delicacy.
+- Locate the cause of trouble from other parts of the hand. 
 
-In some hands, it is seen early in life. In others later.
+![Life Line](/graphics/palm/205.png)
 
-<!-- But whenever it occurs, that year marks the point of greatest power in the subject's life.  -->
+If in this case the first island be small and they grow larger as they continue, the trouble is increasing. If the reverse marking appears, the trouble is diminishing. 
 
-When seen early in life, it is sometimes formed around an island (249). It shows that a delicacy occurring at that time will dissipate the powers so that they will never fully recover.
+As most islands appear larger than mere dots, they generally indicate a chronic state of ill-health during their presence rather than acute attacks. 
 
-When the turning-point shows at near 50, it is the natural decline of physical power coming on with age. 
+Primarily the island indicates delicacy, and gives warning to look out for trouble. Your first duty is to discover what is causing the delicacy. 
 
-When rising lines or a single line from the Life line rises to Jupiter (250), it shows the great ambition which leads its possessor constantly to struggle to win. You can tell in which world by the phalanx of the finger which rules. 
+In very many hands islands in the Life line will be seen, and the rest of the hand filled with cross-lines. This will indicate great nervousness, and that will likely be the cause of the islands. 
 
-If a rising line runs to Saturn (251), it will indicate a great desire of the subject to succeed along Saturnian lines. In which world will be indicated by the phalanx of the finger which rules. If a line rises to Apollo (252), the subject will have great desires in Apollonian directions, the particular world being read from the phalanx of the finger. If a line rises to Mercury (253), the subject will have great desire to succeed in some Mercurian direction, indicated in more detail by the ruling phalanx of finger. This line must not be confused with the line of Mercury.
+It will certainly be one cause. 
 
-If a line runs from the Life line to Upper Mars (254), the subject will be strongly ambitious in Martian directions ; and Lunar qualities will strongly influence the life if a split line is seen running to the Moon (255). All of these lines must be fine lines rising off of the Life line, and not chance lines crossing or cutting the line. 
+On seeing an island, search the entire hand for health defects for the cause of the island.
 
-In an estimate of the Life line the termination is most important, for it shows how the life ends. In all of the changes on the line we find that they have shown the strength of the constitution during life, various states of health, strength, delicacy, and numerous diseases. When we come to the termination of the line, we learn the outcome of these various conditions. 
+Sometimes you will find an island in the Life line and the Head line cut by numerous bars (206); 
 
-The Life line will be found ending in different hands at all periods of life. It will be found ending in different manners, and that is what we consider under the general heading of "Termination of the line." If a line is deep and strong it may end as strong as is its course through the hand. This line simply stops short, ending in no sign or special marking (256). 
+If no other health defects be seen and the cutting bars are fine, this will show that severe headaches cause the delicacy ; or if the bars be deep, brain disturbance of a more serious character is indicated.
 
-This indicates that the subject will remain strong till the end of life, will die of no lingering or wasting disease. With such a termination examine the Head line, the Heart line, and study the type of the subject carefully. If a Jupiterian or Martian, it will make his quick ending more certain. While no sign is seen on the Life line, a deep cut or cross, a dot or a star, may be discerned on the Head line corresponding to the age at which the Life line ends, and this will be the sign of the demise (257). 
+If islands appear on the Head line (207) with an island on the Life line, the head is the cause of the delicacy. 
 
-In this case the abrupt termination of the Life line will give the clue to a quick end, and the sign on the Head line will tell that some affection of the head will be the cause. In the same manner an impairment of the Heart line by some individual sign, such as a cut, a cross, dot, or star, will show that heart failure will be the end (258). With sudden terminations of the Life line you should not look for chronic diseases but for acute attacks, and these are indicated by individual signs like the dot, cross, cross-bar, and star. 
+If dots appear on the Head line with an island on the Life line (208), brain fevers will be the cause of the delicacy, especially if the dots be red or purple in color. 
 
-Sometimes breaks indicate the same thing. With the sudden ending to the Life line, and a dot, cross, cross-bar on a wavy line of Mercury, a sudden attack of bilious fever will be the trouble, the wavy line of Mercury showing a chronic tendency, the individual sign indicating the acute attack (259). If a line should run from the end of the Life line to these signs it will make the reading more certain. 
+![Life Line](/graphics/palm/208.png)
 
-In the same manner a dot on any Mount and the sudden termination of the Life line will show the end to be from an acute attack (shown by dot) of the health defect of the Mount. If a line runs from the end of Life line to the dot, it will make the indication unmistakable.
+If dots be seen on the Heart line with an island on the Life line (209), heart disease will be the cause of the delicacy. 
 
-Thus while the termination of the life may not always be read from the Life line, it is read from the other lines and Mounts. If the Life line end suddenly and a dot is seen on Jupiter (260), apoplexy will be the trouble ; if a dot is seen on Saturn, paralysis, and if in this case a star, cross, or dot is seen on the Head line under Saturn, the reading is absolute (261). 
+Dots on the Heart line will indicate acute attacks, and if many are present these attacks come frequently, producing the continued delicate health shown by the island in the Life line. 
 
-All of the other Mounts must be handled in the same way when searching for a sudden termination to life. With each Mount disease the one which would kill quickly is the probable one, and a chronic trouble will not be the cause. When a deep Life line ends abruptly there is always a chance that it may continue. Even though the line be short, it is not as serious as if it ended in a cross, star, tassel. 
+Nails and color will confirm these indications. If islands appear in the Heart line (210), general heart weakness will cause the delicacy shown by the island in the Life line. 
 
-Life lines which are deep and strong but short, and sometimes even short thin ones, often cut their way through the hand, forming new channels; for a strong will and determination to live, often prolong the life of many persons with such markings. When the line ends clear, without a defect or tassel, it shows that there is no great impediment at the time, and that care and determination can keep the life going. 
+Nails and color will confirm this. This will not indicate the acute attacks shown by the dots in the Heart line, but general structural deficiency. 
 
-If a line which begins deep and strong begins to taper as it cuts through the hand, gradually growing thinner as the line advances until it fades away and disappears in the capillary lines (262), it shows that the vitality grows less powerful as age comes on until it almost disappears, leaving the subject weak, nerveless, and feeble. 
+If a wavy line of Mercury be seen with an island in the Life line, biliousness will be intense, and will cause the delicacy (211). 
 
-These subjects will not die from sudden diseases, but death will come from exhaustion. They are liable to develop some chronic ailment as the line decreases, and any defect of their type will be almost certain to develop. 
+![Life Line](/graphics/palm/211.png)
 
-By making a thorough examination, you can discover the difficulty. This fading Life line does not stand so good a chance to continue the life past the age indicated by its length. 
+If the line of Mercury be ladder-like (212), and an island is seen on the Life line, dyspepsia, indigestion, and all forms of stomach trouble will cause the delicacy.
 
-If it be a short line, the subject will begin to decline early and will not live past the end of the line, as he has not enough vitality to create great determination to live. 
+Grilles, crosses, cross-bars, and all defective markings on the Mounts will locate the cause of the delicacy as a type defect peculiar to the Mount on which the defect appears. 
 
-A good Head line is a fine possession with such a disappearing line. 
+If a dot be seen before the island on the Life line (213), an acute attack will be followed by a period of delicacy ; the nature of the acute trouble to be located from the rest of the hand. Sometimes you will encounter a double set of indications.
+
+An island will be seen in the Life line early in life, and some trouble may be shown in the Head line. Later in the Life line another island may appear, and on the Heart line islands may be seen, or a wavy Mercury line, or defect on a Mount (214). 
+
+![Life Line](/graphics/palm/214.png)
+
+
+This should be read as two periods of delicacy in the life, one early, and as the defect in the Head line also shows no. 211 early in that line, this will be the cause of the first island in the Life line. 
+
+The second island shows a second period of delicacy, and the trouble in the Heart line will explain it. The number of islands seen in the Life line will indicate the number of periods of delicacy in the life of the subject, but each one may be caused by a different disease, and these can be found by following the method employed in 214. 
+
+An island in the Life line, with an islanded line running to it from Saturn, and a second line from middle third of Moon, will locate gout or rheumatism as the cause of the delicacy (215). 
+
+An island in the Life line with a grille on Saturn and line connecting it with the island, with dots or islands in the Head line under Saturn, fluted and brittle nails, will locate paralysis as the trouble (216). An island in the Life line, with a line connecting it with a red or purple dot on Jupiter, color of hand and lines red, and thin Head line, will show an apoplectic tendency to be the cause of the trouble. 
+
+This is more certain if a grille or cross be seen on Upper Mars (217). An island in Life line, grille on Saturn with line connecting, and wavy Mercury line will show extreme biliousness and indigestion as the trouble. 
+
+![Life Line](/graphics/palm/217.png)
+
+Yellow color will confirm this, and bars frequently cutting the Head line or small islands appearing in it will show bilious headaches (218). In all of these cases the island in the Life line enables one to distinguish that the trouble is a defect of health, and not one affecting the finances or affairs of life. 
+
+Disease we read from the Life line, financial affairs from the Saturn and Apollo lines. Poor health may affect these matters, but they are not read from the Life line. It is very common to see an island in the Life line of women at ages 42-46. 
+
+This will indicate the age at which their change of life occurs, and the duration of the island will tell you how long it lasts. Whenever an island is seen in this location (219), it should always be read in the hands of women as change of life.
+
+The line after this island will tell you how seriously this change affects the subject. If the island be followed by a deep line, the effect is only a delicacy during the period of the change; if the line become thin, broad and shallow, or chained, the subject never recovers her full strength and vigor afterwards.
+
+If with this island there appears a grille on Lower Moon (220), female weakness will be an added impediment to a successful change. 
+
+![Life Line](/graphics/palm/220.png)
+
+If you read this hand before the change has occurred, it is your duty to advise that the subject take medical treatment in order, as far as possible, to remove this difficulty before the change of life comes on. 
+
+If, in this indication, a line connects the island and the grille, the indication is more certain, and if a star be seen on the Mercury line at or near the juncture with the line of Head, it is absolutely correct (221). 
+
+This change of life is shown not only by the island, but by other defective conditions of the Life line at this age. If the line has been deep and strong, and at this age becomes thin (222), it indicates the time and the trouble, but shows that it is less serious. 
+
+If the line at this age become broad and shallow (223), it shows that the change greatly weakens the constitution, how seriously the remainder of the line will tell.
+
+![Life Line](/graphics/palm/223.png)
+
+If it remain broad and shallow or chained to the end of the line the original strength is never regained. 
+
+Complications often ensue during this period of life. Islands or breaks are often seen in the Head line, indicating that during this time mental strength is weak. Sometimes female disturbances occur, and frequently bowel inflammations. 
+
+These will be marked in their proper places on the Mounts. Sometimes the heart's action will be obstructed, and this will be shown by islands, breaks, or dots in the Heart line at the proper age.

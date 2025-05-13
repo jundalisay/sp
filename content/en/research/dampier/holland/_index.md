@@ -4,7 +4,6 @@ linkTitle: Continuation
 weight: 2
 author: William Dampier
 # date: 2022-12-31
-description: "A CONTINUATION OF A VOYAGE TO NEW HOLLAND, ETC IN THE YEAR 1699."
+description: "A Continuation Of A Voyage To New Holland, Etc In The Year 1699."
 c: "darkslategray"
 ---
-

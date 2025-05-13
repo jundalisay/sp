@@ -9,11 +9,9 @@ icon: "Social Superphysics"
 ---
 
 
-{{< q a="Confucius" >}}
+{{< q a="Confucius" c="Analects" >}}
 Tsz-chang asked: Is it possible to forecast the state of the country 10 generations from now?<br><br>Confucius: The Yin dynasty adopted the rules and manners of the Hu line of kings. It is possible to tell whether it retrograded or advanced. The Chow line has followed the Yin and adopted its ways. Whether there has been deterioration or improvement may also be determined.  Some other line may take up in turn those of Chow. If this process goes on for 100 generations, then the result may be known.
-<cite>Analects</cite>
 {{< /q >}}
-
 
 
 Since the 2008 from the US Presidential elections and 2013 from the Greek Debt Crisis, we've been making predictions on society and economics as an implentation of Supersociology.
@@ -31,6 +29,7 @@ Country | Year Prediction was Made | Prediction | Outcome
 --- | --- | --- | ---  
 World | 2015 | A global crisis will spark in 2019 marking the start of a long crisis which we call 'The Crisis Years' | {{< color color="green" val="Correct" >}}
 World | 2019 | A global financial crisis will emerge in a certain year between 2020-2030 as a result of that 2019 crisis | {{< c v="green" >}}Semi-correct, split as the US banking Crisis and the fall of cyrpto{{< /c >}}
+![PH flag](/flags/ph.png) | 5/2025 | Duterte and his allies will win nin the midter elections | {{< c v="green" >}}Correct{{< /c >}}
 ![German flag](/flags/de.png) | 12/2024 | [BSW](/social/cycles/germany) (Left) will win more seats than AfD as a result of the Worker Cycle | {{< c v="red" >}}Wrong. This means Germany is in warrior, not worker cycle. The worker Left did get more votes than previously, but not more than the warrior parties{{< /c >}}
 ![US flag](/flags/us.png) | 2024 | The US will participate in a war or large battle towards the end of Trump's term | {{< c v="orange" >}}Pending{{< /c >}}
 ![US flag](/flags/us.png) | 2024 | Harris will win, as we estimate that the US is leaving its Warrior Cycle. In reality, Trump won, which means the US is still in the Warrior Cycle that it was in back in 2016. This necessarily leads to a World War 3 prediction above. We explain our wrong prediction [here](/social/supersociology/crisis-years/) | {{< c v="red" >}}Wrong{{< /c >}}

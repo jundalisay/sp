@@ -19,6 +19,8 @@ These Minor lines are not of great importance. They often have only one interpre
 
 This rises between the fingers of Jupiter and Saturn and runs across the Mounts of Saturu and Apollo, ending between the fingers of Apollo and Mercury (523).
 
+![Girdle of Venus](/graphics/palm/523.png)
+
 This does not always run exactly over this path, but sometimes rises on the Mount of Jupiter and runs over onto the Mount of Mercury, sometimes ending on the percussion. It is, in part, a sister line to the Heart line, and in some hands, when the Heart line is absent, takes the place of that line. 
 
 Older palmists said that this indicated a double supply of heart qualities if its palm also had a strong Heart line, since it was a sister to the Heart line. 

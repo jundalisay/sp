@@ -1,6 +1,6 @@
 ---
 title: "The Strength of the Line of Head"
-heading: "Chapter 6e"
+heading: "Chapter 6f"
 # date: 2021-11-20
 weight: 34
 c: "deeppink"

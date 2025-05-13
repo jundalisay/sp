@@ -70,7 +70,14 @@ But on closer inspection, this turns out to be nothing more than another occult 
 
 For can that principle be more clearly known merely by calling it an occult quality?
 
-That which is itself hidden explains nothing. And leaving aside the unknown *efficient cause*, it would be more accurate to call it a *substance* than a *quality*. Moreover, terms such as *force*, *gravity*, and the like are often, and not inappropriately, used in the concrete—to refer, for instance, to a moving body, resistance, etc. But when philosophers use them to signify certain natures abstracted from all such concrete things—natures which are neither subject to the senses nor intelligible to the mind nor imaginable—they then become sources of error and confusion.
+That which is itself hidden explains nothing. 
+
+And leaving aside the unknown *efficient cause*, it would be more accurate to call it a *substance* than a *quality*. 
+
+Moreover, terms such as *force*, *gravity*, and the like are often used in the concrete to refer to a moving body, resistance, etc. 
+
+But such terms create confusion when philosophers use them to signify natures abstracted from concrete things.
+- These abstractions are neither subject to the senses nor intelligible to the mind nor imaginable.
 
 
 7. Many are led into error by the fact that general and abstract terms appear useful for reasoning, without fully understanding their import. 

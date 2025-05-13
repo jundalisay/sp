@@ -9,6 +9,21 @@ description: "There are 2 ways to read the age on lines of Affection"
 ---
 
 
+
+
+If many lines of Affection are present (314) the subject is susceptible in affairs of the heart, more or less seriously so as the lines are strong or weak. 
+
+![Life Line](/graphics/palm/314.png)
+
+These lines of Affection are always cross-lines, and start from the outside of the hand, sometimes at the back cutting around into the Mount of Mercury. 
+
+If only a single line is seen, there will be but one deep affection. 
+
+<!-- They are never an indication of the love a subject may have for his family. The Lines Of Affection 465 No. 314. -->
+
+A line beginning with a fork (315) shows that the affection is of unusual strength, the two lines of the fork having united to form a single line, producing the effect of two Currents turned into one, which thus takes on double strength. 
+
+
 There are 2 ways to read the age on lines of Affection:
 
 1. What age the affection occurs
@@ -86,96 +101,20 @@ If such a deep line ends without fault or break, the subject will pursue a life 
 
 If the line start deep and gradually grow thin, the subject will gradually lose the strength of his attachment (322). 
 
-![322](/graphics/palm/affection3.png)
-
 If the line start thin and gradually become stronger, the subject will grow stronger in his attachment (323). 
+
+![323](/graphics/palm/323.png)
 
 If an island appear on the line of Affection, there will be some unhappiness during the course of the affection (324).
 
 If the line of Affection is composed of islands, the subject will never have affection enough for anyone to marry him (325). 
 
-![322](/graphics/palm/affection4.png)
 
 If a cross be seen on the line of Affection there will be a serious impediment to the affection (326). 
+
+![323](/graphics/palm/326.png)
 
 If this line end in a star the affection will terminate in an explosion (327). 
 
 If a line of Affection send a branch into the Mount of Apollo which ends in a star, the subject will have an affection for someone brilliant and famous (328). 
 
-![322](/graphics/palm/affection5.png)
-
-If the line of Affection fork at its termination (329), the affection will separate and become less strong. 
-- Older palmists use this as a sign of divorce. 
-- It is a likelihood of interference in the married life, but not always divorce. 
-- It shows the beginning of the dissipation of the affections. 
-
-If the fork is not wide (330), the estrangement is not so serious as if it diverge greatly, as in No. 329. 
-
-If the line end in a trident or a tassel, it shows the utter dissipation and scattering of the affection (331).
-
-![322](/graphics/palm/affection6.png)
-
-If branches droop from the line of Affection the married life will be full of sorrows and disappointments (332).
-
-If branches rise from the line of Affection, the subject will be uplifted and the affection will be a benefit to him (333). 
-
-If the line be broken it will indicate that the affection is interfered with or broken in some way (334). 
-
-![322](/graphics/palm/affection7.png)
-
-<!-- The Lines Of Affection Continued 471 No. 320. The Lines Of Affection Continued 472 No. 321. The Lines Of Affection Continued 473 No. 322. The Lines Of Affection Continued 474 No. 323. The Lines Of Affection Continued 475 No. 324. The Lines Of Affection Continued 476 No. 325. The Lines Of Affection Continued 477 No. 326. The Lines Of Affection Continued 478 No. 327. The Lines Of Affection Continued 479 No. 328. The Lines Of Affection Continued 480 No. 329. The Lines Of Affection Continued 481 No. 330. The Lines Of Affection Continued 482 No. 331. The Lines Of Affection Continued 483 No. 332. The Lines Of Affection Continued 484 No. 333. The Lines Of Affection Continued 485 No. 334.  -->
-
-Look for repair signs. 
-
-If the break is enclosed in a square, the subject will recover the disturbed affection (335). 
-
-If the line makes a hook on the Mount, the subject will lose his affection, which will not be regained (336). 
-
-A dot on a line of Affection shows an impediment to the course of the affections (337). 
-- The termination of the line shows the outcome. 
-
-![322](/graphics/palm/affection8.png)
-
-If the line ends in a fork, trident, or tassel the affection will be dissipated (338).
-
-If after the dot, the line grows thin, the affection disappears gradually (339).
-
-If Worry lines run from the Mount of Venus to the lines of Affection, and cut these lines, it shows that relatives are interfering with the married life of the subject (340). 
-
-![322](/graphics/palm/affection9.png)
-
-
-## Cutting Lines
-
-If the cutting line runs from Influence lines on the Mount of Venus, it can show how close is the kinship of the relative who is causing the difficulty. 
-
-If a line from a close line of Influence cuts a forked line of Affection, the married life of the subject will be interfered with by a near relative (341). 
-
-The forked line shows that the subject loses some enjoyment of the marriage relation through this interference. 
-
-If the line of Affection end in a tassel, the reading is intensified (342). 
-
-
-If a line of Affection cut by a bar has a chance line running to an island, a cross, a bar, or a dot in the Head line, an interference with the married life of the subject will result in some form of brain disturbance (343). 
-
-
-![322](/graphics/palm/affection10.png)
-
-In this manner, chance lines will be seen running from obstructions in the line of Affection to various parts of the hand, sometimes to defective Life lines, or health defects of the Mounts. 
-
-In all these cases, the trouble pointed to will be brought on by an interference or blemish seen in the line of Affection. Each one of these defects in the line of Affection will indicate an event in the life of the subject. 
-
-In all cases the lines of Affection should be read in combination with Influence lines on the Mount of Venus. As both relate to the coming into the life of a new factor, viz., someone outside of the subject himself, they are interdependent.
-
-<!-- The Lines Of Affection Continued 486 No. 336. The Lines Of Affection Continued 487 No. 336. The Lines Of Affection Continued 488 No. 337. The Lines Of Affection Continued 489The Lines Of Affection Continued 490 No. 339. The Lines Of Affection Continued 491 No. 340. The Lines Of Affection Continued 492 No. 341. The Lines Of Affection Continued 493 No. 342. The Lines Of Affection Continued 494 No. 343.  -->
-
-Be careful interpreting the marriage and home life. The goal of palmistry is to <!--  an examination of the hand is to --> give a client a better knowledge of himself. 
-
-Unless the matter of marriage is so interwoven with his existence that the two seem inseparable, it is only gratifying curiosity to deal with it, and does no real good. 
-
-When his career is being ruined or interfered with by adverse influences, these matters should be pointed out. Merely to tell about them in order to show whether you can do it or not, is lowering the standard of the profession. 
-
-
-<!-- A surgeon would not amputate a limb to show that he knew how to amputate. , but he would do so if the limb needed amputating and the operation would help the patient.
-
- All palmists should proceed upon that idea. Do what is necessary for the help or guidance of the client, but nothing merely to exhibit skill. A strict adherence to this principle will win in the long run, and nowhere more surely than in the matter of the lines of Affection. -->

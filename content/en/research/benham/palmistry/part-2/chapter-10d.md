@@ -11,7 +11,7 @@ description: "All defects found in the beginning of the Saturn line refer to the
 
 Cross-bars cutting the Saturn line (367) are obstructions to the career of the subject. Each one of the bars is a separate obstruction, and by noting the depth of each you can tell how serious it is. 
 
-![Saturn](/graphics/palm/367.png)
+![Saturn](/graphics/palm/367.jpg)
 
 If only faint lines which do not cut through the Saturn line but pass over it, they indicate continual annoying interferences and impediments. 
 

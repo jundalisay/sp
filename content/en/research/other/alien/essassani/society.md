@@ -20,3 +20,6 @@ The universe is infinitely diverse.
 When a society encourages the unique expression of each individual, that is when the society is strongest and most unified.
 
 When you grant equality and validity to everyone, you are granting equality and validity to all aspects of Creation. In return, as a reflection, Creation supports you in everything you do as well. 
+
+
+There are only 300,000-500,000 oversouls on Earth even if there are billions of people

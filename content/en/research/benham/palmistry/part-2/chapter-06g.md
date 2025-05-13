@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6f"
+heading: "Chapter 6g"
 title: "The Color and Defects of the Head line"
 # date: 2021-11-20
 weight: 36

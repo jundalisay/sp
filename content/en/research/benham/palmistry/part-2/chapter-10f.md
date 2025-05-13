@@ -9,6 +9,13 @@ description: "The Saturn line is frequently called the line of Fate."
 ---
 
 
+In all cases where defects in the line are seen, look first for their cause and then to the repair indications. 
+
+If a defective Saturn line have a chance line from a smooth and good Upper Mars running by its side, the resistance of the Mount will not permit discouragements to overthrow the subject, and this determination will save him from trouble (392). 
+
+![Saturn](/graphics/palm/392.png)
+
+
 In most hands, there are 2 places where the Saturn line shows the greatest number of defects or difficulties.
 
 1. At the start of the line, which period covers events brought into the child's life by his parents, and which show the manner in which he is started in life. 
@@ -75,7 +82,6 @@ If this Worry line cuts a rising line from the Life line, the death of a relativ
 
 **Defects in any part of the line must be read at the age they occur.** 
 
-<!-- The Line Of Saturn Part 6 543 No. 392. The Line Of Saturn Part 6 544 No. 393. The Line Of Saturn Part 6 545 No. 394. The Line Of Saturn Part 6 546 No. 395. The Line Of Saturn Part 6 547 No. 396. The Line Of Saturn Part 6 548 No. 397. The Line Of Saturn Part 6 549 No. 398. The Line Of Saturn Part 6 550 No. 399. The Line Of Saturn Part 6 551 No. 400. The Line Of Saturn Part 6 552 No. 401. The Line Of Saturn Part 6 553 No. 402. The Line Of Saturn Part 6 554 No. 403.  -->
 
 All lines do not show all of their defects in childhood or the formative period. 
 
@@ -140,5 +146,3 @@ If a Saturn line have one branch rising to Jupiter, and one to Apollo, the subje
 If the Saturn line have a branch rising to Mercury, the subject will have the assistance of shrewdness, business ability, good power of expression, and a scientific turn of mind to assist in his success (414).
 
 If a Saturn line have a branch rising and joining but not cutting the Head line, the subject will have the assistance of a good head in the shaping of his career (415). 
-
-<!-- The Line Of Saturn Part 7 555 No. 404. The Line Of Saturn Part 7 556 No. 406. The Line Of Saturn Part 7 557 No. 406. The Line Of Saturn Part 7 558 No. 407. The Line Of Saturn Part 7 559 No. 408. The Line Of Saturn Part 7 560 No. 409. The Line Of Saturn Part 7 561 No. 410. The Line Of Saturn Part 7 562 No. 411. The Line Of Saturn Part 7 563 No. 412.  -->

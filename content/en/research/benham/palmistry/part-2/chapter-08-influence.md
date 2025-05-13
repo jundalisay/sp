@@ -15,6 +15,8 @@ The Lines of Influence are those that are on the Mount of Venus and inside the L
 - Some of these run parallel to the Life line
 - Others run across the Mount (277). 
 
+![Life Line](/graphics/palm/277.png)
+
 
 These tell about factors outside of the subject himself, forming a part of his "environment." 
 
@@ -53,6 +55,9 @@ The absence of lines on the Mount of Venus shows an absence of electrifying Curr
 
 The line of Mars is a sister to the line of Life, running inside of that line and parallel to it (278). 
 
+![Life Line](/graphics/palm/278.png)
+
+
 This is really an Influence line, but it is an influence upon the health of the subject, sustaining and strengthening it, and does not relate to the influence of other persons. 
 
 The line of Mars is comparatively a rare marking, and the greater number of lines seen alongside the Life line are simply Influence lines. 
@@ -72,6 +77,8 @@ Next follow other relatives, grandparents being generally the fourth line.
 The length of these lines tell the duration of the influences as factors in the life of a subject. 
 
 In most hands a new Influence line is seen to appear at some age between 20-30 (280). 
+
+![Life Line](/graphics/palm/280.png)
 
 This is generally the husband or wife, as it is at about this age that most marriages occur. 
 

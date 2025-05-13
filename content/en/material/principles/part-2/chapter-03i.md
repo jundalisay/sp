@@ -58,7 +58,7 @@ This is done by gecko feet which have tiny flexible hairs called spatulae that i
 This reduces the pressure there creating a high pressure elsewhere. This then 'glues' the gecko to the surface.
 
 
-{{< i s="/photos/bio/gecko.jpg" a="Gecko feet" >}}
+{{< i s="/photos/bio/gecko.jpg" a="Gecko feet" c="In Material Superphysics, gecko feet stay glued using the same mechanism used by gauge blocks" >}}
 
 {{< box >}}
 According to Physics, geckos stay on the ceiling because of a "Van Der Waals force", an intermolecular binding force, that binds their feet to the ceiling and counteracts gravity

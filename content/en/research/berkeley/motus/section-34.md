@@ -10,11 +10,12 @@ icon: "George Berkeley"
 
 
 
-34. The more recent thinkers consider motion and rest in bodies as 2 states of existence, in either of which every body would remain inert by its own nature, unless some external force urged it.
+34. The more recent thinkers consider motion and rest in bodies as 2 states of existence.
+- In either state, every body remains inert by its own nature, unless some external force urged it.
 
-From this, the cause of motion and rest is the same as the cause of the existence of bodies. 
-
-Nor indeed does there seem to be another cause to be sought for the successive existence of a body in different parts of space than that from which the successive existence of the same body in different parts of time is derived. 
+From this:
+- the cause of motion and rest is the same as the cause of the existence of bodies. 
+- the successive existence of a body in different parts of space is caused by the successive existence of the same body in different parts of time. 
 
 But to treat of God, the Best and Greatest, the Creator and Preserver of all things, and to demonstrate in what manner all things depend on the supreme and true Being, although it is a most excellent part of human knowledge, nevertheless pertains rather to first philosophy, or metaphysics and theology, than to natural philosophy, which today is almost entirely contained in experiments and mechanics. 
 

@@ -1,7 +1,7 @@
 ---
-title: "The Splits of the Line of Life"
-heading: "Chapter 7d "
-weight: 44
+title: "Defects on the Line of Life"
+heading: "Chapter 7f"
+weight: 45
 c: "deeppink"
 description: "The thin Life line indicates a lack of robust, muscular vitality and great endurance."
 author: "Benham"
@@ -9,76 +9,74 @@ icon: "William Benham"
 ---
 
 
+With the idea in mind that an island in the Life line is a period of delicate health, you will always be warned, and begin the search for its cause. 
 
-If the Life line forks at the termination (263), it shows that the Current separates, and, going in two directions, there is only one half as much chance that the life may be continued past the end of the line as with a single line. If both branches are deep, strong lines, it is more of an indication that life may be prolonged than if the forks are thin lines. This is a case where the vitality wanes, and as division is weaker than union, this forked termination of the Life line shows the rapidly dissipating vitality. 
+Do not be in a hurry; look the entire hand over, consider everything. This cannot be done hastily. Bring to bear every point relating to health and apply it to the island. Proceed with care, and you will be able to locate the cause and effect of every one. 
 
-If the line is short, small encouragement of long life can be given a subject with such a termination. 
+Dots on the Life line (224) are rare. 
 
-If these forks are close together (264), it is a better indication than if they diverge widely (265). 
+They are indications of acute illness or of accident. They vary in size from mere pin points, hardly noticeable, to large holes which destroy the line. They are found of all colors, and their importance must be graded by size and color. White dots are the most harmless, and their meaning must be searched for in the hand according to the method of locating disease heretofore explained. 
 
-If the line ends in three prongs (266), the dissipation of the vitality is more complete, and this is more certain if all three of the forks be thin. 
+Red dots indicate a febrile tendency, and the deeper the color the more accurate is this reading. When of a deep crimson and purplish hue, they portend grave fevers, such as typhoid, typhus, and the like. In all cases they are useful in locating a point of special incident in the life of a subject, and will precede islands, chains, and other defects, thus showing that the illness recorded was of such severity that the constitution did not again become strong. 
 
-In this case the vitality will be dissipated when this point is reached. If the middle fork is strong and deep (267), it may be a new lease of life beginning to manifest itself, and hope may be given that the subject will live past the end of the line. 
+A dot on Life line followed by an island and a chained line, with a line running to a bar, a dot, a small island, a cross, or a star on the Head line (225), will show that an attack of brain fever undermined the constitution, and complete recovery did not follow.
 
-If the line ends in a tassel (268), it shows entire dissipation of the vitality and end of the life. Such tassels are frequently seen from sixty to sixty-five years of age. 
+A dot on Life line connected by a line to Upper Mars and an islanded line of Mercury (226) will show that the illness was bronchitis or other throat trouble. 
 
-In those cases it is the natural end of the life. 
+![Life Line](/graphics/palm/226.png)
 
-If the tassel appears early in the line, it shows premature dissipation of vitality, and death of the subject at the age at which the tassel is seen. 
+A dot on Life line connected by a line to Upper Moon, which has a grille, and a line running to Mount of Jupiter (227), shows the illness to be inflammation of the bowels. 
 
-In many works on Palmistry, this tassel means "Poverty in old age." This is incorrect. 
+A dot on Life line connected by a line with an island, dot, or a cross under Apollo (228) shows the illness to be heart disease. A dot on Life line connected by a line with a dot, a bar, or a cross on a wavy line of Mercury (229) shows the illness to be bilious fever. 
 
-I have seen it in the hands of old men who were rich. The vitality was fast diminishing, however, as the age neared the point of the tassel. 
+![Life Line](/graphics/palm/229.png)
 
-Sometimes, the Life line runs to a certain age and then crosses the hand to a Mount. 
+The dot on the Mercury line indicates the acute attack; chronic biliousness is shown by the wavy line. A dot on Life line, with cross-bars, a grille, a cross, or a poorly formed star on the Middle of Moon, shows the illness to be gout (230). 
 
-If there is no health defect on the Mount it will show that the quality of the Mount largely influences the life course of the subject. If a grille, cross, dot, cross-bars, or any defect on the Mount is present, the indications are that the disease peculiar to that Mount took hold of the subject at the age the line deflected from its regular course. 
+This is emphasized by a line running from a dot on Saturn. A dot on Life line connected by a line with a grille, cross-bars, a cross, or poorly formed star on Lower Moon (231) shows the attack to be kidney or bladder trouble of an acute nature. If on the Life line a dot be seen which is pronouncedly yellow in color, it will indicate without further confirmations an attack of bilious fever. 
 
-For instance, if at 30 the line is so deflected and runs to the middle of Mount of Moon to a grille, gout or rheumatism will be the disease which afflicted the subject.
+When a dot is seen on the Life line connected by a line with a cross on Saturn (232), it will indicate an accident, as Saturnians are predisposed to accident. 
 
-Whenever the line runs to a defect, the disease peculiar to the point where it stops is the one to look for. This marking running to Lower Moon is most frequent in the hands of women, and indicates female weakness.
+![Life Line](/graphics/palm/232.png)
 
-If the line ends in a cross (270), the life will terminate at that age, and the disease can be determined by the usual search through the hand. This is a sudden ending of life, and there will be no lingering illness.
+Breaks in the Life line are often seen (233), and vary in their seriousness according to the kind of a line which is present, how wide the breaks are, and how repaired. When the Current, travelling along the Life line, encounters a break, it must get past it into the line again, and it is the ease with which this can be accomplished which makes a break more or less serious. 
 
-The more perfectly the cross be marked, and the deeper its lines, the more certain is the indication. If a cross-bar cuts the end of the Life line (271), it is the sudden ending of the life.
+A break occurring in a deep, strong line is less serious than one which appears in a broad and shallow or chained line. In the deep line the Current is flowing with volume and force at the time it reaches the break, and consequently it has the benefit of its own momentum to carry it past the break and into the line again. 
 
-In all these cases the usual methods of examination will disclose the cause. It is absolutely necessary with every termination of the Life line to examine both hands.
+I have seen breaks in deep and strong Life lines where the line has subsequently cut its way through the intervening space, forming a good line. 
 
-If the line and termination in the left hand be good and strong, and one of the defective terminations is seen in the right, it is certain that something has changed the natural life course. The subject may have acquired a vicious habit which will shorten his days, or may have developed some serious malady.
+With shallow or chained lines, the Current is moving sluggishly when the break occurs, and there is not the momentum to assist in lessening the damage. All breaks indicate a check or impediment to the health, consequently to the life of the subject, and these impediments come either from illness or accident. 
 
-In such a case locate the trouble, and by telling him what the outcome will be, he may be induced to abandon the habit, if such it is, and avert the catastrophe. In every instance by remembering what the two hands stand for, you can accurately estimate the case. If the line ends in a dot (272), your subject will die of an acute attack, the nature of which can be determined in the usual manner.
+The matter of accidents is hard to diagnose, but I follow the rule that in a hand which is healthy in every other way, a break in the Life line should be read as an accident. Sickness in such a hand would be shown in some other way than by a break. In a number of hands in which fine Life lines were noted and perfect health otherwise shown, breaks were verified as accidents. There is no question as to their indicating jars to the health whenever seen. 
 
-If the line ends in a star (273), the subject will die suddenly ; the cause can be located from the rest of the hand. You will encounter many combinations of all these signs in the termination of Life lines. By this time you have doubtless learned how to use them in combination, and can properly estimate them. 
+Numerous instances are encountered where the cause of the break is easily located by health defects seen on the Mounts, by chance lines, or individual signs. Small breaks which are at once repaired (234) need not be considered as more serious than islands or dots, but wide breaks unrepaired (235) must be considered as a menace to the life.
 
-Crosses will be found appearing in the Life line (274). These will be impediments to the life Current, and generally you will find on the Saturn line or the Apollo line some marking occurring at the same age. 
+![Life Line](/graphics/palm/235.png)
 
-This change is generally the result of illness or accident. Crosses quite frequently indicate accidents. Stars on the Life line are a menace to the life (275). They have been verified many times as indicating sudden death. The type of the subject will have much to do with these signs. 
+All tendency of the ends of the line to turn back after a break (236) is gravely serious. The wider the separation of the ends and the more the ends hook, the more hopeless is the possibility of recovery. 
 
-A fine line leaving the Life line and ending in a star near it (276) is also a dangerous sign, indicating sudden death. The star representing the explosion in the Life line, or at least an intense illumination, is not a safe indication to be found. 
+With every break, note how wide it is, how the ends oppose each other, what repair possibilities are present, and from this point of view estimate the danger. 
 
-The color of the line will be useful as a further confirmation of the strength or weakness of the constitution. White color diminishes the power of a deep and well-cut line, and the subject will not have as much robustness and vitality as if the line were pink. A deep and well-cut line, pink in color, will be the best for a Life line. 
+If the line is filled with a series of small breaks (237), the effect will be like a chained line, the health will be intermittent, the vitality impaired, and the constitution unrobust. If after each break the line becomes thinner (23S), the vitality is diminishing, and the subject less able to resist disease after each attack. He will gradually grow weaker until his vitality is dissipated. This line is both an indicator of constitutional weakness and of special attacks of disease. 
 
-Then neither deficiency nor excess of vitality is indicated, but a normal balance. Red color, with a deep line, is too intense, and the subject will be liable to febrile diseases, and also very ardent in everything, and will have strong appetites. If stars, crosses, dots, or cross-bars are seen on a line which is very red in color, the subject will have some violent attack at the age indicated by the sign. Such a combination is most dangerous to the life. All markings which indicate febrile troubles or inflammations will be made more serious by a very red Life line.
+Each break will mark the time of some illness. With such a line as 238, you will not find different acute disorders occurring with each break, but the subject has a chronic trouble which recurs at frequent intervals. 
 
-Yellow color in the Life line will indicate chronic biliousness, and all the defects of health and character which are induced by bile will be aggravated. 
+![Life Line](/graphics/palm/238.png)
 
-With such a subject the Mounts of Saturn and Mercury should be carefully studied, as well as all matters pertaining to those Mounts, for being of the bilious type, yellow color in the Life line will increase any health defect which these Mounts show. 
+The nature of this disorder can be located from the Mounts and by other health indications. The line may start thin, and after each break grow deeper (239). In this case after the first few years of life the breaks will not come so close together, and it will show that the subject is gradually overcoming his difficulties.
 
-A wavy line or a ladder-like line of Mercury will be sure to indicate severe bilious complications and indigestion. Dots, crosses, cross-bars, breaks, or islands in the Mercury line must be looked for, as these will point directly to severe liver trouble in the shape of acute attacks of bilious fever or jaundice. If yellow shows in the Life line the whole character will be influenced by the irritating bile.
+To diagnose what has occasioned each break in the Life line, the method of procedure is the same as applies to other defects in the line. The Mounts will show defects, chance lines will point to special marks of disease, and in every way the manner of locating the cause of breaks is the same as in the case of islands, dots, and other defects. 
 
-The subject will be cross, nervous, liable to fits of blues, and if any of the bad side of his type be indicated he will be vicious, and even criminal. A bad development of Saturnian or Mercurian type with a yellow line shows a trickster and cheat, and if the type be very bad indicates a vicious wretch who will delight even in murder. 
+The character of the line after the break must be noted to determine the extent of damage which has been done. If after a break an island is formed (240), the disease which caused the break creates a period of delicacy, the duration of which is shown by the extent of the island.
 
-Blue color shows poor circulation and consequent heart weakness. This color present with a defective and badly colored Heart line and blue nails will indicate an advanced state of heart trouble. The bluer the Life line and the more indications of defective heart action, the more serious the estimate. With a blue Life line, stars on the line will be accurate as indication of sudden death by heart disease. 
+The same reading will apply if a chained line forms after a break (241). 
 
-Crosses, dots, and cross-bars are bad indications with blue color, but the star is the worst. Stars which are not directly on the line but near it, will have almost as much force as if on the line. All of the above observations in regard to color apply to thin Life lines as well as to deep and well-cut lines. 
+![Life Line](/graphics/palm/241.png)
 
-A thin line which is exceedingly red is most dangerous, for the line is not strong enough to support the vitality shown by very red color. Yellow thin lines will make the subject small, petty, and mean. With chained lines or broad and shallow lines, white color makes them weaker. They have none of the strength which follows the presence of pink color. Subjects with thin lines are cold, sickly, complaining, and vacillating. They lack energy, and are not persons to be relied upon.
+With such a marking as this there will be poor chance of complete recovery. When breaks occur at about fifty years of age (242), with the line growing very thin just before the break, and seeming continually to grow thinner until the break occurs, it shows the gradual waning of vital force until it runs out; that a period of great weakness comes on when there is not enough strength left to resist disease, and an illness recorded by the break occurs. 
 
-Pink color makes a broad and shallow or a chained line stronger. The subject will have more vitality, and will not be despondent as frequently as with white color. Red will add more strength, but this combination is rare. When found, however, it should be regarded as no menace to these lines, for they need all the strength which can be given them.
+If the line continues after this break it will begin very thin and gradually grow stronger, showing that the health returns by degrees. The breaks in a Life line may be repaired by overlapping ends of the line, sister lines, squares, and in other ways.
 
-Yellow color with broad or chained lines is a distressing combination. It will show inertia, intense nervousness, and an ugly streak of meanness in the subject. 
+These repair signs, in whatever form, will be recognized by their tendency to turn the Current back into the line again, and their repair of the line is complete in proportion as they succeed in doing this. 
 
-This combination produces a weak, sickly, nervous, petty person who will have a hard time to get along in the world. The line of Life is an intensely interesting study, and one which will amply repay any effort expended upon it. A mastery of the general principles which govern the various changes in the line, and its infinite combinations with other lines and Mounts, will enable you with practice to read it accurately. 
-
-At first, the combinations may come slowly, but this should be no cause for discouragement. Patience and labor will enable any student to master it.
-
+Splits on the Life line (243) divert a portion of the Current from the main channel. 

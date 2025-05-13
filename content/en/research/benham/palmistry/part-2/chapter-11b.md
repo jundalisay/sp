@@ -10,6 +10,11 @@ description: "THE line of Apollo is a vertical line rising from the upper part o
 
 
 
+A line coming from the Life line and ending on the Mount of Apollo, while it will largely have the effect of the Apollo line, is still not, properly speaking, that line, but is a chance line, showing success of the subject arising from the same set of qualities which makes the Apollo line indicate fortunate conditions (431).
+
+![Saturn](/graphics/palm/431.png)
+
+
 To avoid possible confusion, it is best to limit the Apollo line to a line wholly under the Mount.
 
 If it is as indicated in No. 431, read it as a chance line from the Life line to the Mount of Apollo, and not as the Apollo line. 
@@ -18,17 +23,23 @@ Use everything for what it really is, and do not get into the habit of calling a
 
 In like manner read a line rising from the Saturn line and ending on the Mount of Apollo as a branch of the Saturn line, adding greatly to the success of the career, rather than call it the Apollo line (432).
 
-When the line of Apollo rises from the top of the Mount of Moon near the percussion (433), it indicates imagination and the power of language; to a line so rising we should, if the mental world be strongest, say that the subject will achieve success as an author. If the tips be conic and fingers smooth, he will love poetry. 
+A line of Apollo rising from the top of the Mount of Moon near the percussion (433) shows imagination and the power of language.
+- If his mental world is strongest, he will achieve success as an author.
+- If the tips are conic and fingers smooth, he will love poetry. 
+- If his fingers are knotty or square, he will write history, epic poems, historical novels, or works of that nature. 
+- If the Mount of Mars is large, he will write of battles and heroes.
+- If Venus is large, he will make works that move the heart and bring tears to the eye
+- If Saturn is high, he will write on chemistry, physics, or scientific subjects, and often on history.
 
-If his fingers are knotty or square, he will write history, epic poems, historical novels, or works of that nature. 
+He will also be a great writer of uncanny stories.
 
-If the Mount of Mars be large, he will write of battles and heroes. If Venus be large, he will move the heart and bring tears to the eye, so near to nature and human sympathy will be his productions. 
+ <!-- Basing your estimate upon Chirognomy you can thus locate the special direction in which the line will bring success.  -->
 
-If Saturn be high, he will write on chemistry, physics, or scientific subjects, and often on history.
+If a line of Apollo rises from a good Upper Mount of Mars, he will achieve success by:
+- the display of calmness, resignation, resistance
+- not allow himself to become discouraged (434). 
 
-This subject will also be a great writer of uncanny stories. Basing your estimate upon Chirognomy you can thus locate the special direction in which the line will bring success. 
-
-If a line of Apollo rises from a good Upper Mount of Mars, the subject will, by the display of calmness, resignation, resistance, and the fact that he does not allow himself to become discouraged, achieve success and reputation; the world in which he will operate to be located Chirog-nomically (434). 
+![Saturn](/graphics/palm/434.png)
 
 In its course through the hand the line of Apollo must run toward the Mount of Apollo, for it is the effect of the qualities of this type which give to the line its meaning and its name.
 
@@ -66,7 +77,10 @@ This subject is successful in the business world, and even his money-making is d
 
 It may mean a poet, an actor, a singer, or refer to any other of the artistic callings. 
 
-On all sides of his character, the Apollonian loves beauty, and whatever is pleasing to the eye or sense. If the third phalanx be longest, especially if it be thick, and a deep line of Apollo is seen, the subject is not an artist, for he will like chromos better than the old masterpieces, will love high colors, flashy dressing, and will seek to display his taste on all occasions, much to the amusement of people of true artistic feelings, whose society he affects. Such subjects are always money-makers. 
+The Apollonian loves beauty, and whatever is pleasing to the eye or sense.
+
+If the third phalanx is longest and thick and a deep line of Apollo is seen, the subject is always a money-maker, not an artist
+- He will like chromos better than the old masterpieces, will love high colors, flashy dressing, and will seek to display his taste on all occasions, much to the amusement of people of true artistic feelings, whose society he affects. 
 
 These 3 illustrations show the method of applying a deep line to the three worlds of the finger, by giving an intense interpretation to the line, based upon the quality of the subject. 
 
@@ -79,9 +93,3 @@ The subject will like pretty things, will be fond of artists, will affect a litt
 If the band be refined, the subject will dress in taste, will have an eye for harmony in colorings, his home will be tastefully furnished, and he may do a little dabbling in writing or painting.
 
 From this class come the army of literary and art copyists. 
-
-A chained line of Apollo (438) will indicate an utter lack of artistic talent, although the subject may be impressed with his own knowledge on matters of art, most of which is incorrect. These subjects do not realize their shallowness and most of their effort is expended in talk. 
-
-In dealing with these lines, apply each one to the subject according to the world in which he moves, and give its defective operation to the affairs of that world. Color in the line of Apollo is not an important consideration, for this line does not bear upon the health of the subject. To a pink colored line give a better estimate of strength than one which is white or yellow. 
-
-This is as far as color will be considered as affecting the line of Apollo. 
