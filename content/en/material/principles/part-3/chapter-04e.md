@@ -20,8 +20,8 @@ Fire is the 3rd substance of radiance. It is ignited from matter whenever qosts 
 
 This forces the mixture to have 2 factors only:
 
-1. mom
-2. sor3
+1. Matter or mom
+2. Fire or sor3
 
 Fire begins when the ratio of the latter becomes superior to the other. 
 - The mom then submits to the sor3 by burning (i.e. taking on the movement of the sor3).

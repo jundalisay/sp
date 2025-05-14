@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 7"
 title: "Spatial Territories"
-# Spatial Territory:  date: 2024-07-22
+# date: 2024-07-22
 weight: 35
 image: /photos/physics/whitehole.jpg
 description: "Chapter 5 gave 3 qost types. Here, we match them to their gravitational territories"
@@ -113,3 +113,4 @@ Galaxies that form within clusters:
 ### Baryonic Acoustic Oscillations (BAOs)
 
 {{< img src="/graphics/physics/bao.jpg" alt="baryonic acoustic oscilation" >}}
+

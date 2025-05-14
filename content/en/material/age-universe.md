@@ -1,6 +1,7 @@
 ---
-title: "The Age of the Universe"
-date: 2023-01-08
+title: "The Ageless Universe"
+date: 2025-05-11
+# date: 2023-01-08
 image: /graphics/physics/age.jpg
 description: "The age of the Universe depends on which layer you are in, as the effect of the confinement of the Negative Force"
 writer:
@@ -10,7 +11,7 @@ icon: "Juan"
 ---
 
 
-Physicists and astronomers were surprised that the James Webb Telescope revealed [new facts about the universe](https://webbtelescope.org/files/live/sites/webb/files/home/webb-science/early-highlights/_documents/2022-061-jades/JADES_CurtisLake.pdf)
+Physicists and astronomers were surprised that the James Webb Telescope revealed [new facts about the universe:](https://webbtelescope.org/files/live/sites/webb/files/home/webb-science/early-highlights/_documents/2022-061-jades/JADES_CurtisLake.pdf)
 
 1. The universe was spread out more evenly than expected
 2. The oldest galaxies were smaller compared to our younger Milky Way and were [more than expected](https://www.pnas.org/doi/10.1073/pnas.2311963120)
@@ -30,16 +31,43 @@ The cause of these surprises was the false materialist belief called **The Big B
 Such a theory would lead to the following assumptions:
 - There should be more galaxies at a certain region of the universe compared to others
 - Old galaxies should be bigger than new ones
-- Gravitational waves should be present because there is expansion and therefore a fabric of spacetime
+- Gravitational waves should be present because there was a huge singularity that created ripples in the fabric of space
 - There should be more temperature differences because of the expansion
 
 
 Such assumptions were destroyed by the findings of:
-- the James Webb Telescope which could detect red-shift, and thus, get more information about distant galaxies
-- the Planck satellite which detected the CMB 
+- the James Webb Telescope which detected galaxies at the early universe being large instead of small
+- the Planck satellite which detected no gravitational waves in the CMB
+- DESI detecting the expansion of space to vary
 
 
-## The Cause of the Error: Confusing Time with Light
+## The Cause of the Error: The Religion of Phyics
+
+The corrupted assumptions of Physics, just like the corrupted ones of Economics, create theoretical absurdities that lead to real problems.
+
+- The corrruption of Economics is the obsession with money
+- The corrruption of Physics is the obsession with visible things
+
+Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them to simplilstic theories that are based on effect instead of cause:
+
+- The universe needing to have a starting day is an idea from the Bible, proposed by the priest Lemaitre as the
+
+
+The expansion of space coming from matter is an Einstein hack of Newton's matter-based gravity.
+So the Big Bang combines religious nonesense with an Einstein scam.
+Newton's gravity comes from Spirit that courses through matter as mass.
+This is consistent with Berkeley and Descartes whose causal mechanisms are Spirit as an aether substance.
+In Asian Physics, the aether is proven by sound.
+So we can logically put these facts together (ie. not nonsense) and peg the origin of the universe to baryonic acoustic oscillations which are really aethereal acoustic oscillations.
+This is consistent with Huygens's aether which is really Descartes liquid 2nd Element and is now called spacetime with waves and ripples.
+We are absolutely sure of this because Buddhist monks use the aether as chi to levitate. We are practicing Buddhists and know how it actually works.
+So theory matches practice and everything is solved and case closed.
+This is why we say European religion is junk and Einstein is a scammer.
+But you want to stick to junk and scams.
+So the issue is really with you, not with Nature. i.e. Nature has nothing to do with mysteries, it is just the humans loving junk from having feeble brains and zero spirit.
+
+
+
 
 The whole cause of the error is the ignorance of physicists on the division of labor in Nature. In this case, they confuse and mix age and light together. 
 
@@ -158,8 +186,6 @@ We bring back the superiority of Spacetime over Electromagnetism and Matter thro
 Instead of a material big bang, the universe began as an [aethereal idea of the Supreme Mind](/material/principles/part-1/chapter-02/) which Hindu science calls *Saguna Brahma*.
 
 So the Supreme had an idea for a physical univere and so deployed it in the aetherspace. This resulted in a universe with spacetime. 
-
-{{< img src="/graphics/physics/age.jpg" alt="Age of the Universe" cap="" >}}
 
 In the illustration above, each slice is a spacetime within the aetherspace. 
 

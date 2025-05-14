@@ -1,15 +1,16 @@
 ---
 heading: "Chapter 5b"
+title: "Galaxies and Quasars"
 image: "/photos/physics/messier87.jpg"
 description: "A galaxy is the best representative body of the lower spatial layer in nature, as a galactic qost"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 26
-title: "Galaxies and Quasars"
+weight: 23
 # date: 2020-01-31
 icon: "Juan"
 ---
+
 
 
 Galactic qosts manifest as either galaxies or quasars.

@@ -2,7 +2,7 @@
 heading: "Chapter 6"
 title: "Conservation of Momentum: The 4 Rules of True Motion"
 # date: 2024-07-22
-weight: 28
+weight: 25
 image: /graphics/physics/rule1.jpg
 description: "Rene Descartes gave 3 Rules of Movement in 'The World' which we combine with Spinoza"
 icon: "Juan"
@@ -37,7 +37,7 @@ The Law of Conservation of Momentum is implemented by the Rules of Motion.
 {{< youtube Higl9xtBSOM >}}
 
 
-### Rule 1: No Void
+## Rule 1: No Void
 
 **No body moves into the place of another body unless at the same time that other body moves into the place of another body.**
 
@@ -51,7 +51,7 @@ This rule is the basis for:
 - Virtual particles filling "empty" space
 - Gravity pushing object down objects 
 
-{{< q a="Adam Smith" c="The History of Astronomy by Adam Smith Simplified" >}}
+{{< q a="Adam Smith" c="The History of Astronomy" >}}
 According to Descartes, through an eternal revolution from rest to motion and motion to rest, the amount of motion in the universe was always the same. But there was no void. 
 
 No part of matter could be moved without thrusting some other out of its place. The matter which any body pushed before it, rolled immediately backwards, to supply the place of that matter which flowed in behind it. 
@@ -66,7 +66,7 @@ This is in Part 2, Proposition 7 of Spinoza's Principles of Cartesian Philosophy
 {{< /dc >}}
 
 
-### Rule 2: State Continuity
+## Rule 2: State Continuity
 
 **Each identity remains as much as it can always in the same state. It is never changed except by external causes.**
 
@@ -85,7 +85,7 @@ This is in Part 2, Article 37 of Descartes' Principia Philosophia and Part 2, Pr
 {{< /dc >}}
 
 
-### Rule 3: Straight or Circular
+## Rule 3: Straight or Circular
 
 **Every moving identity moves in a straight line when alone, and in a curve or a circle when moving with others. When in a circle, it moves away from the center.**
 
@@ -102,7 +102,8 @@ This is in Part 2, Article 39 of Descartes' Principia Philosophia and Part 2, Pr
 {{< /dc >}}
 
 
-#### Rule 4: Collisions
+
+## Rule 4: Collisions
 
 When a weaker identity hits a stronger, it will be deflected. When a stronger hits a weaker, it will transfer some of its force to the weaker.
 
