@@ -17,8 +17,9 @@ Current Cycle | Years per Day | Current Week | Current Month | Current Year
 --- | --- | --- | --- | --- 
 Positive Thinker | ? | ? | ? | ?
 
-
+![India]("/flags/in.png")
 
 Coming Soon!
 
-This will explain the Modhi Thinker era.
+This will explain the idea of an Indian Union that will stretch from Afghanistan to Bangladesh, similar to the original Mahabharata idea of Krishna.
+

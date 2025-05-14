@@ -19,6 +19,9 @@ Current Cycle | Years per Cycle | Social Age
 ? | ? | ? 
 
 
+![China]("/flags/cn.png")
+
+
 The coming China-Taiwan war is a natural consequence of the wrong policies of Nixon.
 
 Ideally, the US should have stayed away from China so that it would evolve into a North Korea. The foreign investments that went to China in the 1980s would instead flood into Taiwan making it strong enough to declare independence by the 1990s. 
