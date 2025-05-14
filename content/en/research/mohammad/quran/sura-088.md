@@ -49,26 +49,7 @@ So your Lord poured down upon them a scourge of punishment.
 
 When the Lord tries humans and is generous to him and favors him, he says  “My Lord has honored me”.
 
-
-
-the night as it recedes.{{< s v="10" >}}  And
-
-{{< s v="16" >}} 
-18.  
-the even and the odd.{{< s v="4" >}}  And
-a rational person?
-
-
-{{< s v="9" >}}  Satisfied
-{{< s v="5" >}}  Is there in this an oath for
-6. They
-
-upon Us rests their reckoning.
-Lord is on the lookout.
-As for man, whenever his Lord tests him,
-and honors him, and prospers him, he says,
-
-{{< s v="16" >}} But whenever He tests him, and restricts his livelihood for him, he says, “My Lord has insulted me.”
+{{< s v="16" >}} But whenever He tests him, and restricts his livelihood for him, he says, “My Lord has insulted me.
 
 17. No! But you:
 - do not honor Muhammad  <!-- the orphan. -->
@@ -78,16 +59,21 @@ and honors him, and prospers him, he says,
 
 21. No! When the earth is leveled, pounded, and crushed, and your Lord comes, with the angels, row after row.
 
-23. And on that Day, Hell is brought forward.
-On that Day, man will remember, but how
-will remembrance avail him?
+23. On that Day:
+- Hell is brought forward.
+- man will remember, but how?
 
-24. He will say, “If only I had forwarded for my life.”
+24. He will say:
 
-25. On that Day, none will punish as He punishes. 
+{{< r a="Man" >}}
+If only I had forwarded for my life.
+{{< /r >}}
+
+<!-- 25. On that Day, none will punish as He punishes. 
     
 15. An orphan near of kin.
 
 to your Lord, pleased and accepted. 
 among My servants.
 30. Enter My Paradise.
+ -->

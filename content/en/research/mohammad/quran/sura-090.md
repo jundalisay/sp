@@ -1,9 +1,9 @@
 ---
 title: "The City, The Sun"
-heading: "Sura 91 "
+heading: "Sura 90"
 weight: 244
 c: "firebrick"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "I swear by this city of Makkah"
 ---
 
 

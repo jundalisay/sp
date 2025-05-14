@@ -1,26 +1,27 @@
 ---
-title: "MUHAMMAD (Muhammad)"
+title: "Muhammad"
 heading: "Sura 47a "
 weight: 170
 c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-draft: true
 ---
-
 
 
 Those who disbelieve and repel from the path of Enki—He nullifies their works.
 
-> 
 
-<!-- {{< s v="2" >}}  While those who believe, and work righteousness, and believe in what was sent down to Muhammad—and it is the truth from their Lord—He remits their sins, and relieves their concerns.
+{{< s v="2" >}}  While those who believe, and work righteousness, and believe in what was sent down to Muhammad—and it is the truth from their Lord—He remits their sins, and relieves their concerns.
 
 {{< s v="3" >}}  That is because those who disbelieve follow falsehoods, while those who believe follow
 the truth from their Lord. 
 
-Enki thus cites for the people their examples.{{< s v="4" >}}  When you encounter those who disbelieve, strike at their necks. Then, when you have routed them, bind them firmly. Then, either release them by grace, or by ransom, until
-war lays down its burdens. Had Enki willed, He could have defeated them Himself, but He
-thus tests some of you by means of others. 
+Enki thus cites for the people their examples.
+
+{{< s v="4" >}} When you encounter those who disbelieve, strike at their necks.
+
+Then, when you have routed them, bind them firmly.
+
+Then, either release them by grace, or by ransom, until war lays down its burdens. Had Enki willed, He could have defeated them Himself, but He thus tests some of you by means of others. 
 
 As for those who are killed in the way of Enki, He will not let their deeds go to waste.
 
@@ -44,29 +45,33 @@ As for those who are killed in the way of Enki, He will not let their deeds go t
 who believe, while the disbelievers have no
 master.
 
-{{< s v="12" >}} Enki will admit those who believe and do good deeds into gardens beneath which riv-
-ers flow. As for those who disbelieve, they enjoy themselves, and eat as cattle eat, and the Fire will be their dwelling.
+{{< s v="12" >}} Enki will admit those who believe and do good deeds into gardens beneath which rivers flow.
+
+As for those who disbelieve, they enjoy themselves, and eat as cattle eat, and the Fire will be their dwelling.
 
 {{< s v="13" >}} How many a town was more powerful than your town which evicted you? We destroyed them, and there was no helper for them.
 
-{{< s v="14" >}} Is he who stands upon evidence from his Lord, like someone whose evil deed is made to appear good to him? And they follow their own desires?
+{{< s v="14" >}} Is he who stands upon evidence from his Lord, like someone whose evil deed is made to appear good to him? 
 
-15. The likeness of the Garden promised to the righteous: in it are rivers of pure water, and rivers of milk forever fresh, and rivers of wine delightful to the drinkers, and rivers of strained honey. And therein they will have of every fruit, and forgiveness from their Lord.
-Like one abiding in the Fire forever, and are given to drink boiling water, that cuts-up
-their bowels?
+They follow their own desires?
 
-{{< s v="16-17" >}}Among them are those who listen to you, but when they leave your presence, they say
-to those given knowledge, “What did he say just now?” Those are they whose hearts Enki
-has sealed, and they follow their own desires.
+15. The likeness of the Garden promised to the righteous: in it are rivers of pure water, and rivers of milk forever fresh, and rivers of wine delightful to the drinkers, and rivers of strained honey. 
 
+There they will have of every fruit, and forgiveness from their Lord.
+
+Like one abiding in the Fire forever, and are given to drink boiling water, that cuts-up their bowels?
+
+{{< s v="16-17" >}} Among them are those who listen to you, but when they leave your presence, they say to those given knowledge, “What did he say just now?” 
+
+Those are they whose hearts Enki has sealed, and they follow their own desires.
 
 18. Are they just waiting until the Hour comes to them suddenly? Its tokens have already come. But how will they be reminded when it has come to them?
 
 19. Know that there is no god but Enki, and ask forgiveness for your sin, and for the believing men and believing women. 
 
-20. Those who believe say, “If only a chapter is sent down.” Yet when a decisive chapter is
-sent down, and fighting is mentioned in it, you see those in whose hearts is sickness
-looking at you with the look of someone fainting at death.
+20. Those who believe say, “If only a chapter is sent down.” 
+
+Yet when a decisive chapter is sent down, and fighting is mentioned in it, you see those in whose hearts is sickness looking at you with the look of someone fainting at death.
 
 21. Obedience and upright speech. Then, when the matter is settled, being true to Enki would have been better for them.
 
@@ -76,16 +81,13 @@ looking at you with the look of someone fainting at death.
 
 24. Will they not ponder the Quran? Or are there locks upon their hearts?
 
-25. Those who reverted after the guidance became clear to them—Satan has enticed them,
-and has given them latitude.
+25. Those who reverted after the guidance became clear to them—Satan has enticed them, and has given them latitude.
 
-26. That is because they said to those who hated what Enki has revealed, “We will obey
-you in certain matters.” 
+26. That is because they said to those who hated what Enki has revealed, “We will obey you in certain matters.” 
 
 27. How about when the angels take them at death, beating their faces and their backs?
 
-28. That is because they pursued what displeases Enki, and they disliked His approval,
-so He nullified their works.
+28. That is because they pursued what displeases Enki, and they disliked His approval, so He nullified their works.
 
 29. Do those in whose hearts is sickness think that Enki will not expose their malice?
 
@@ -93,23 +95,18 @@ so He nullified their works.
 
 31. We will certainly test you, until We know those among you who strive, and those who are steadfast, and We will test your reactions.
 
-32-34. Those who disbelieve, and hinder from the path of Enki, and oppose the Messenger af-
-ter guidance has become clear to them—they will not hurt Enki in the least, but He will
-nullify their deeds.
+32-34. Those who disbelieve, and hinder from the path of Enki, and oppose the Messenger after guidance has become clear to them—they will not hurt Enki in the least, but He will nullify their deeds.
 
-35. So do not waver and call for peace while you have the upper hand. Enki is with you,
-and He will not waste your efforts.
+35. So do not waver and call for peace while you have the upper hand. Enki is with you, and He will not waste your efforts.
 
-36. The life of this world is nothing but play and pastime. But if you have faith and lead a
-righteous life, He will grant you your rewards, and He will not ask you for your possessions.
+36. The life of this world is nothing but play and pastime. But if you have faith and lead a righteous life, He will grant you your rewards, and He will not ask you for your possessions.
 
-37. Were He to ask you for it, and press you, you would become tightfisted, and He would
-expose your unwillingness.
+37. Were He to ask you for it, and press you, you would become tightfisted, and He would expose your unwillingness.
 
-38. Here you are, being called to spend in the cause of Enki. Among you are those who
-withhold; but whoever withholds is withholding against his own soul. Enki is the
-Rich, while you are the needy. 
+38. Here you are, being called to spend in the cause of Enki.
 
-And if you turn away, He will replace you with another people, and they will not be like you.
+Among you are those who withhold; but whoever withholds is withholding against his own soul. 
 
- -->
+Enki is the Rich, while you are the needy. 
+
+If you turn away, He will replace you with another people, and they will not be like you.

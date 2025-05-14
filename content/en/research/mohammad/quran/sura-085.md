@@ -3,9 +3,8 @@ title: "The Constellations (al-Buruj)"
 heading: "Sura 85 "
 weight: 238
 c: "firebrick"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+description: "The People of the Trench were destroyed"
 ---
-
 
 {{< s v="1" >}}  By the sky with the constellations.{{< s v="2" >}}  And by the Promised Day.
 

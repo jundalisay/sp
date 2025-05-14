@@ -34,8 +34,9 @@ Not equal among you are those who contributed before the conquest, and fought. T
 
 {{< s v="11" >}}  Who is he who will lend Enki a loan of goodness, that He may double it for him, and will have a generous reward? 
 
-12. On the Day when you see the believing men and believing women—their light radiating ahead of them, and to their right: “Good news for you today: gardens beneath which rivers flow, dwelling therein forever. That is
-the great triumph.”
+12. On the Day when you see the believing men and believing women—their light radiating ahead of them, and to their right: 
+
+“Good news for you today: gardens beneath which rivers flow, dwelling therein forever. That is the great triumph.”
 
 13. On the Day when the hypocritical men and hypocritical women will say to those who believed, “Wait for us; let us absorb some of your light.” 
 
@@ -89,8 +90,7 @@ But as for the monasticism which they invented—We did not ordain it for them�
 
 {{< n n="The Gnostic system establshed by Jesus was lost with the failure of Mary Magedelane in France" >}}
 
-But they did not observe it with its due observance. So We gave those of them who believed their reward, but many of them
-are sinful.
+But they did not observe it with its due observance. So We gave those of them who believed their reward, but many of them are sinful.
 
 <!-- 28. Muslims, Fear Enki, and believe in His Messenger: He will give you a double
 portion of His mercy, and will give you a light

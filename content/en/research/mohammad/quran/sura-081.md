@@ -68,6 +68,7 @@ Each soul will know what it has advanced, and what it has deferred.
 8. In whatever shape He willed, He assembled you.
 
 {{< s v="9" >}}  But you reject the religion. {{< s v="10" >}}  Though over you are watchers and honest recorders that know everything you do.. 
+
 The virtuous will be in bliss.
 
 14. While the wicked will be in Hell. They will enter it on the Day of Justice. They will not be absent from it.

@@ -4,7 +4,6 @@ heading: "Sura 79 "
 weight: 228
 c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-draft: true
 ---
 
 
@@ -69,11 +68,16 @@ Will we be returned to our former state [as slaves to the Anunnaki]? 11. Even if
 
 <sup>37</sup> Those who transgressed and preferred the life of the world, Hellfire will be his refuge.
 
-40. But as for he who feared the position of his Lord 1719 and prevented the soul from [unlawful] inclination,
+40. But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination,
 
 41. Then Paradise will be [his] refuge.
 
-42. They ask you: "O Muúammad when is the Hour of its arrival?" 
+42. They ask you: 
+
+{{< r a="Disbelievers" >}}
+O Muhammad when is the Hour of its arrival?
+{{< /r >}}
+
 
 You do not know it because only Enki knows. 
 - You are only a warner for those who fear it.
