@@ -1,5 +1,5 @@
 ---
-title: "FIRST RENCOUNTERS WITH THE NATIVES"
+title: "First Rencounters With The Natives"
 heading: "Chapter 17b"
 writer:
   name: William Dampier
@@ -46,13 +46,10 @@ But however I was very well satisfied, and the rather because we were now men en
 
 It was a fine clear moonlight night in which we were left ashore. Therefore we walked on the sandy bay to watch when the ship would weigh and be gone, not thinking ourselves secure in our new-gotten liberty till then. About eleven or twelve o'clock we saw her under sail and then we returned to our chamber and so to sleep. This was the 6th of May.
 
-
-## ENTERTAINMENT ASHORE
-
 The next morning be times our landlord with four or five of his friends came to see his new guests, and was somewhat surprised to see so many of us for he knew of no more but myself. Yet he seemed to be very well pleased and entertained us with a large calabash of toddy, which he brought with him.
 
 
-## BUYIING A CANOE TO GO TO ACHIN; BUT OVERSET HER AT FIRST GOING OUT.
+## Buying A Canoe To Go To Achin
 
 Before he went away again (for wheresoever we came they left their houses to us, but whether out of fear or superstition I know not) we bought a canoe of him for an axe, and we did presently put our chests and clothes in it, designing to go to the south end of the island and lie there till the monsoon shifted, which we expected every day.
 
@@ -61,12 +58,10 @@ When our things were stowed away we with the Achinese entered with joy into our 
 We lay here afterwards three days, making great fires to dry our books. The Achinese in the meantime fixed our canoe with outlayers on each side; and they also cut a good mast for her and made a substantial sail with mats.
 
 
-## HAVING RECRUITED AND IMPROVED HER, THEY SET OUT AGAIN FOR THE EAST SIDE OF THE ISLAND.
-
 The canoe being now very well fixed, and our books and clothes dry, we launched out a second time and rowed towards the east side of the island, leaving many islands to the north of us. The Indians of the island accompanied us with eight or ten canoes against our desire; for we thought that these men would make provision dearer at that side of the island we were going to by giving an account what rates we gave for it at the place from whence we came, which was owing to the ship's being there; for the ship's crew were not so thrifty in bargaining (as they seldom are) as single persons or a few men might be apt to be, who would keep to one bargain. Therefore to hinder them from going with us Mr. Hall scared one canoe's crew by firing a shot over them. They all leapt overboard and cried out but, seeing us row away, they got into their canoe again and came after us.
 
 
-## THEY HAVE A WAR WITH THE ISLANDERS; BUT PEACE BEING REESTABLISHED, THEY LAY IN STORES, AND MAKE PREPARATIONS FOR THEIR VOYAGE.
+## THEY HAVE A WAR WITH THE ISLANDERS
 
 The firing of that gun made all the inhabitants of the island to be our enemies. For presently after this we put ashore at a bay where were four houses and a great many canoes: 
 
