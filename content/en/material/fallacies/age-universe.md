@@ -1,13 +1,16 @@
 ---
-title: "The Ageless Universe"
+title: "The Ageless Universe: Big Bang Debunked"
 date: 2025-05-11
 # date: 2023-01-08
-image: /graphics/physics/age.jpg
-description: "The age of the Universe depends on which layer you are in, as the effect of the confinement of the Negative Force"
+weight: 2
+image: /photos/physics/galaxy.jpg
+description: "The universe is ageless since the Big Bang is false"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+aliases:
+  /material/age-universe
 ---
 
 
@@ -36,9 +39,9 @@ Such a theory would lead to the following assumptions:
 
 
 Such assumptions were destroyed by the findings of:
-- the James Webb Telescope which detected galaxies at the early universe being large instead of small
-- the Planck satellite which detected no gravitational waves in the CMB
-- DESI detecting the expansion of space to vary
+- the **James Webb Space Telescope** which detected galaxies at the early universe being large instead of small
+- the **Planck satellite** which detected no gravitational waves in the CMB
+- **DESI** detecting the expansion of space to vary
 
 
 ## The Cause of the Error: The Religion of Physics
@@ -48,7 +51,7 @@ The corrupted assumptions of Physics, just like the corrupted ones of Economics,
 - The corrruption of Economics is the obsession with money
 - The corrruption of Physics is the obsession with visible things
 
-Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them to simplilstic theories that are based on effect instead of cause:
+Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them to simplilstic theories that are based on visible effects instead of invisible cause:
 
 - The universe needing to have a starting day is an idea from the Bible, proposed by the priest Lemaitre as the hypothesis of the primeval atom
 
@@ -61,6 +64,10 @@ In this first phase of the expansion of space, starting asymptotically with a ze
 {{< q a="Newton" c="Principia Mathematica, Book 1, Definitions" >}}
 The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.
 {{< /q >}}
+
+These dogmas combined leads to the Big Bang theory which has been disproven by data:
+
+- 
 
 
 The expansion of space coming from matter is an Einstein hack of Newton's matter-based gravity.
@@ -76,7 +83,7 @@ This is why we say European religion is junk and Einstein is a scammer.
 But you want to stick to junk and scams.
 So the issue is really with you, not with Nature. i.e. Nature has nothing to do with mysteries, it is just the humans loving junk from having feeble brains and zero spirit.
 
-
+## 
 
 
 The whole cause of the error is the ignorance of physicists on the division of labor in Nature. In this case, they confuse and mix age and light together. 

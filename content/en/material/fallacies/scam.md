@@ -196,10 +196,11 @@ For example, in this video, Henry claims that he can turn 0.99999 to 1.
 
 The fraud happens when he removes the 0.9999 from 9.9999 to convert the repeating decimal into a whole nuber just to prove his absurd claim.
 
-In effect, he is able to equate 0.99999 is equal to 1 by arbitrarily removing the repeating decimals. 
+In effect, he is able to equate 0.99999 to 1 by arbitrarily removing the repeating decimals by subtracting them.
 
 These are Math 'Hacks' that disconnect the math from reality and is why hacked theories do not match reality -- because they arise from the whim of the mathematician or theorist.
 {{< /box >}}
+
 
 Ideally, math should be used by engineering which always keeps the fidelity of the variables to their physical representations, as proven in experiments. Both Newton and Maxwell were strong at experimentation just as they were good at math.
 

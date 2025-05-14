@@ -16,7 +16,7 @@ Current Cycle | Years per Day | Current Week | Current Month | Current Year
 
 
 
-![Pakistan]("/flags/pk.png")
+![Pakistan](/flags/pk.png)
 
 The main problem of Pakistan is obviously its separation from India after the British left.
 
@@ -41,7 +41,9 @@ This is why Judaism and Islam fit well with Israeli and Arab genetics, but have 
 
 This is why the non Arab muslims modified their Islam into Shia. 
 
-Spreading Islam to non-Arabs will cause more loss than benefit, as not all cultures prefer submission and slavery.
+Spreading Islam to non-Arabs will cause more loss than benefit, as not all cultures prefer submission and slavery. 
+
+It is most at odds with the democratic cultures of the Greeks and French. This is why Charlie Hebdo happened.
 
 The solution for peace in South Asia is to undo the British mistake and unite the South Asian countries into an Indian or  South Asian Union:
 - India
@@ -63,6 +65,8 @@ This is exposed by:
 - the cyclones in Bangladesh
 
 India could use those events as opportunities to initiate cooperation over an [80-year period](/social/cycles/afghanistan), after which it could formalize a South Asian Union by the 60th year.
+
+<!-- Aid relief should be done by secular groups instead of religion-based ones such as Red Cross and Red Crescent -->
 
 
 <!-- In Socrtes' Social Cycles model, the tyrant beats the populist, the philosopher beats the tyrant, the merchant beats the philosopher. 
