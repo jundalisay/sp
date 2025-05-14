@@ -8,6 +8,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+draft: true
 ---
 
 
@@ -51,6 +52,10 @@ The corrupted assumptions of Physics, just like the corrupted ones of Economics,
 Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them to simplilstic theories that are based on effect instead of cause:
 
 - The universe needing to have a starting day is an idea from the Bible, proposed by the priest Lemaitre as the
+
+
+In this first phase of the expansion of space, starting asymptotically with a radius practically zero, we have particles of enormous velocities (as a result of recoil at the time of the emission of rays) which are immersed in radiation
+
 
 
 The expansion of space coming from matter is an Einstein hack of Newton's matter-based gravity.
