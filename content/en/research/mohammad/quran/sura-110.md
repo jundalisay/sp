@@ -2,13 +2,13 @@
 title: "Victory, Thorns, Monotheism, Daybreak, Mankind"
 heading: "Sura 110-113 "
 weight: 258
-c: "seagreen"
+c: "firebrick"
 description: "Condemned is Abu Lahab and his hands."
 ---
 
 
 
-## 110. VICTORY (an-Nasr)
+## 110. Victory (an-Nasr)
 
 {{< s v="1-3" >}} When the victory of Enki has come <!-- and the conquest -->, and you see the people entering into the religion of AllŒh in multitudes, then exalt Him with praise and ask forgiveness of Him. 
 
@@ -17,7 +17,7 @@ them worship the Lord of this House.{{< s v="4" >}}  Who has fed them against hu
 secured them against fear. -->
 
 
-## 111. THORNS (al-Masad )
+## 111. Thorns (al-Masad )
 
 {{< s v="1" >}}  Condemned is Abu Lahab and his hands. 
 
@@ -30,7 +30,7 @@ secured them against fear. -->
 {{< s v="5" >}}  Around her neck is a rope of thorns.
 
 
-## 112. MONOTHEISM (al-Ikhlas )
+## 112. Monotheism (al-Ikhlas )
 
 {{< s v="1-4" >}}  Say:
 
@@ -40,7 +40,7 @@ He is Enki, the One, the Absolute. He begets not, nor was He begotten. There is 
 
 
 
-## 113. DAYBREAK (al-Falaq)
+## 113. Daybreak (al-Falaq)
 
 {{< s v="1-5" >}}  Say:
 
@@ -52,7 +52,7 @@ I take refuge with the Lord of Daybreak:
 {{< /l >}}
 
 
-## 114. MANKIND (an-Nas)
+## 114. Mankind (an-Nas)
 
 {{< s v="1-6" >}}  Say: 
 

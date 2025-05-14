@@ -2,7 +2,7 @@
 title: "Rules on Intoxicants, Menstruation, and Sex"
 heading: "Sura 2e "
 weight: 20
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -36,7 +36,12 @@ Then Enki guided those who believed to the truth they had disputed, in accordanc
 
 {{< s v="214" >}} Or do you expect to enter Paradise before the example of those who came before you had reached you?
 
-Adversity and hardship had afflicted them. They were so shaken up, that the Messenger and those who believed with him said, “When is Enki’s victory?” 
+Adversity and hardship had afflicted them. They were so shaken up, that the Messenger said:
+
+{{< l a="Mohammad" >}}
+When is Enki’s victory?
+{{< /l >}}
+
 
 Enki’s victory is near.
 
@@ -123,7 +128,6 @@ give good news to the believers. -->
 
 <sup>226.</sup> Those who vow abstinence from their wives must wait for four months.
 
-<!--  But if they
-reconcile—Enki is Forgiving and Merciful. -->
+But if they reconcile—Enki is Forgiving and Merciful.
 
-<!-- 227. And if they resolve to divorce—Enki is Hearing and Knowing. -->
+227. If they resolve to divorce—Enki is Hearing and Knowing.

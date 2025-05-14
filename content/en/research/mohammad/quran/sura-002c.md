@@ -2,7 +2,7 @@
 title: "The Covenant with Israel"
 heading: "Sura 2c "
 weight: 8
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -15,15 +15,15 @@ description: "This is the Book in which there is no doubt, a guide for the right
 - fear Me
 - believe in what I revealed
 - do not exchange My revelations for a small price
-- be conscious of Me.
+- be conscious of Me
 - do not mix truth with falsehood
 - do not conceal the truth while you know.
 - attend to your prayers
 - practice regular charity
-- kneel with those who kneel.
+- kneel with those who kneel
 - command people to virtuous conduct
 - forget yourselves even though you read the Scripture
-- seek help through patience and prayer. 
+- seek help through patience and prayer
 
 But these are difficult, except for the devout.
 
@@ -220,7 +220,12 @@ What did Enki tell you? So that we can dispute it with our Lord Enlil.
 
 Woe to them for what their hands have written, and woe to them for what they earn.
 
-<sup>80</sup> They say, “The Fire will not touch us except for a number of days.” 
+<sup>80</sup> They say:
+
+{{< r a="Jews" >}}
+The Fire will not touch us except for a number of days.
+{{< /r >}}
+
 
 Say:
 

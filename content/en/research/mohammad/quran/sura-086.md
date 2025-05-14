@@ -2,7 +2,7 @@
 title: "The Nightly Visitor and The Most High"
 heading: "Sura 86a "
 weight: 240
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -30,9 +30,7 @@ them.
 
 ## 87. The Most High (al-a’la)
 
-{{< s v="2" >}}  Enki creates and regulates.
-
-{{< s v="3" >}}  He who measures and guides.{{< s v="4" >}}  He who produces the pasture.{{< s v="5" >}}  And then turns it into light debris.
+{{< s v="2" >}}  Enki creates and regulates, {{< s v="3" >}} measures and guides {{< s v="4" >}} produces the pasture.{{< s v="5" >}} then turns it into light debris.
 
 6. We will make you read, so do not forget.
 

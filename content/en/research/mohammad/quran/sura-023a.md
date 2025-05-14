@@ -2,7 +2,7 @@
 title: "The Believers (al-Mu’minun)"
 heading: "Sura 23 "
 weight: 124
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

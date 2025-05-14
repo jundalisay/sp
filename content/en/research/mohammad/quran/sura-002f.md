@@ -2,7 +2,7 @@
 title: "Rules for the Direction of Prayer (Qiblah)"
 heading: "Sura 2e "
 weight: 14
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -81,8 +81,6 @@ To Enki we belong, and to Him we will return
 
 Whoever makes the Pilgrimage to the House, or performs the Umrah, commits no error by circulating between them. 
 
-<!-- Whoever volunteers good—Enki is Appreciative and
-Cognizant. -->
 
 {{< s v="159-163" >}} Enki curses those who suppress the proofs and the guidance that We have revealed. 
 
@@ -94,8 +92,6 @@ Enki, and of the angels, and of all humanity.
 162. They will remain under it forever, and the torment will not be lightened for them, and
 they will not be reprieved. -->
 
-<!-- 163. Your God is one God. There is no god but
-He, the Benevolent, the Compassionate. -->
 
 {{< s v="164" >}} For people who understand, there are signs in: 
 - the creation of the heavens and the earth

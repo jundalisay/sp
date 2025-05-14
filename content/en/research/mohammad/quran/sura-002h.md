@@ -2,7 +2,7 @@
 title: "Fight for Enki"
 heading: "Sura 2h "
 weight: 18
-c: "seagreen"
+c: "firebrick"
 description: "Fight in the cause of Enki those who fight you"
 ---
 
@@ -98,7 +98,3 @@ know that to Him you will be gathered. -->
 <sup>206.</sup> When he is told, “Beware of Enki,” his pride leads him to more sin. Hell is enough for him—a dreadful abode. 
 
 <sup>207.</sup> Among the people is he who sells himself seeking Enki’s approval.
-
- <!-- Enki is kind towards the servants. -->
-
-

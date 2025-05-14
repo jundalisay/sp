@@ -2,7 +2,7 @@
 title: "The Family of Imran (Ali ‘Imran)"
 heading: "Sura 3a "
 weight: 28
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -44,7 +44,13 @@ Enki will never break His promise.
 <!-- , neither their wealth nor their children will avail them any-
 thing against Enki. These will be fuel for the Fire. -->
 
-{{< s v="12" >}} The disbelievers say: “You will be defeated and rounded up into Hell.”
+{{< s v="12" >}} The disbelievers say: 
+
+
+{{< r a="Disbelievers" >}}
+You will be defeated and rounded up into Hell.
+{{< /r >}}
+
 
 {{< s v="13" >}} The believers <!-- 13. There was a sign for you in the two parties that met. One party --> fight in the way of Enki.
 - The disbelievers are twice their number.
@@ -66,9 +72,12 @@ Shall I inform you of something better than that? For those who are righteous, w
 <!-- - Enki is Observant of the servants. -->
 
 
-{{< s v="16" >}} Those who say, “Our Lord, we have believed, so forgive us our sins, and save us from the suffering of the Fire.”
+{{< s v="16-17" >}} The patient, and the truthful, and the reverent, and the charitable, and the seekers of forgiveness at dawn say:
 
-{{< s v="17" >}} The patient, and the truthful, and the reverent, and the charitable, and the seekers of forgiveness at dawn.
+{{< l a="Muslims" >}}
+Lord, we have believed, so forgive us our sins, and save us from the suffering of the Fire.
+{{< /l >}}
+
 
 {{< s v="18" >}} Enki bears witness that there is no god but He, as do the angels, and those endowed with knowledge—upholding justice. <!-- There is no god but He, the Mighty, the Wise. -->
 
@@ -104,7 +113,12 @@ Promise them a painful retribution.
 
 {{< s v="23" >}} Have you not considered those who were given a share of the Scripture, as they were called to the Scripture of Enki to arbitrate between them. Then some of them turned back, and declined?
 
-{{< s v="24" >}} That is because they said, “The Fire will not touch us except for a limited number of days.” 
+{{< s v="24" >}} They said:
+
+{{< r a="Jews" >}}
+The Fire will not touch us except for a limited number of days.
+{{< /r >}}
+
 
 They have been misled in their religion by the lies they fabricated.
 

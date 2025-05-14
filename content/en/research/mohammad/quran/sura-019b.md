@@ -2,7 +2,7 @@
 title: "The Prophets of Enki"
 heading: "Sura 19b "
 weight: 110
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

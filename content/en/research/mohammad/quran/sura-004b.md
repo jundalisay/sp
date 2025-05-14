@@ -2,7 +2,7 @@
 title: "Rules on Marriage"
 heading: "Sura 4b "
 weight: 40
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

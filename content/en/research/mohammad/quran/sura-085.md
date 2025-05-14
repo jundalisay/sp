@@ -2,7 +2,7 @@
 title: "The Constellations (al-Buruj)"
 heading: "Sura 85 "
 weight: 238
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -17,32 +17,22 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 7. And were witnessing what they did to the believers.
 
-8. They begrudged them only because they believed in Enki the Almighty, the Praiseworthy.{{< s v="9" >}}  To Whom belongs the sovereignty of the heavens and the earth. 
+8. They begrudged them only because they believed in Enki the Almighty {{< s v="9" >}} to Whom belongs the sovereignty of the heavens and the earth. 
 
-<!-- Enki is witness over everything. -->
+{{< s v="10" >}} Those who tempt the believers the punishments of Hell and of Burning are for them. 
 
-{{< s v="10" >}}  Those who tempt the believers, men and women, then do not repent; for them is the
-punishment of Hell; for them is the punishment of Burning.{{< s v="11" >}}  Those who believe and do righteous deeds will have Gardens beneath which rivers flow.
-
-That is the great triumph.
+{{< s v="11" >}}  Those who believe and do righteous deeds will have Gardens beneath which rivers flow. That is the great triumph.
 
 12. The onslaught of your Lord is severe.
 
-13. He begins and repeats.
+13-16. He begins and repeats.
 
-<!-- 14. And
-He is the Forgiving, the Loving.
-15. Possessor
-of the Glorious Throne.
-{{< s v="16" >}}Doer
-of whatever He wills. -->
-17. Have you heard of you the story of the legions Of Pharaoh and Thamood?
+17-18. Have you heard of you the story of the legions Of Pharaoh and Thamood?
 
-<!-- 19. In fact, those who disbelieve are in denial. 
-20. And
-Enki encloses them from beyond.
-21. In fact, it is a Glorious Quran.
-22. In a Preserved Tablet. -->
+19. Those who disbelieve are in denial and Enki encloses them from beyond.
+
+21. In fact, it is a Glorious Quran 22. in a Preserved Tablet.
+
 
 
 <!-- 23. But
@@ -54,6 +44,9 @@ punishment.
 Us is their return.
 26. Then
 Scriptures of Abraham and Moses. -->
+
+
+
 
 <!--  swear by this land.{{< s v="4" >}}  And the night as it conceals it.{{< s v="5" >}}  And the sky and He who built it.
  6. And the earth and He who spread it.
@@ -88,10 +81,6 @@ he did not brave the ascent.
 cent is?
 13. The
 
-
-
-
-
 7. Does
 them is a padlocked Fire.{{< s v="2" >}}  And 2. And
 8. Did
@@ -112,9 +101,6 @@ one another to kindness.
 freeing of a slave.
 He does not fear its sequel.
  -->
-
-
-
 
 <!-- Do not oppress the orphan.
 
@@ -143,8 +129,6 @@ And your Lord will give you, and you will
 be satisfied.
 6. Did He not find you orphaned, and shel-
 tered you?{{< s v="5" >}} {{< s v="11" >}}  But -->
-
-
 
 <!-- 
 {{< s v="10" >}}  We

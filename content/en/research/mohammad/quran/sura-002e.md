@@ -3,7 +3,7 @@ title: "The Lord Tests Abraham"
 heading: "Sura 2e"
 weight: 12
 description: "Enki makes Abraham the leader of humanity after testing him."
-c: "seagreen"
+c: "firebrick"
 ---
 
 
@@ -28,11 +28,11 @@ We made the Kabah a focal point and sanctuary for the people. Use the shrine of 
 We commissioned Abraham and Ishmael to sanctify My House for those who:
 - circle around it
 - seclude themselves in it, and
-- kneel and prostrate.”
+- kneel and prostrate.
 {{< /l >}}
 
 {{< r a="Abraham" >}}
-O My Lord, make this a peaceful land, and provide its people with fruits—whoever of them believes in Enki and the Last Day.” 
+O My Lord, make this a peaceful land, and provide its people with fruits—whoever of them believes in Enki and the Last Day.
 {{< /r >}}
 
 {{< l a="Enki" >}}

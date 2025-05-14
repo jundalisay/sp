@@ -2,36 +2,31 @@
 title: "The Overwhelming, The Dawn"
 heading: "Sura 88-89 "
 weight: 242
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
 
 {{< s v="1" >}} Have you heard of the news of the overwhelming?
 
-{{< s v="2" >}} On that Day,
-- faces will be shamed.
+{{< s v="2-5" >}} On that Day,
+- faces will be shamed, laboring and exhausted, roasting in a scorching Fire, given  to drink from a flaming spring.
 
-{{< s v="3" >}} Laboring and exhausted.{{< s v="4" >}}  Roasting in a scorching Fire.{{< s v="5" >}}  Given  to drink from a flaming spring.
+<sup>6-7</sup> They will have no food except thorns that neither nourishes, nor satisfies hunger.
 
-6. They will have no food except thorns that neither nourishes, nor satisfies hunger.
+<sup>8</sup> Faces on that Day will be joyful, satisfied with their endeavor.
 
-8. Faces on that Day will be joyful, satisfied with their endeavor.{{< s v="9" >}}  In a lofty Garden, you will hear no nonsense.
+{{< s v="9" >}}  In a lofty Garden, you will hear no nonsense.
 
-12. In it is a flowing spring.
+<sup>12</sup> In it is a flowing spring, <sup>13</sup> there are raised beds, <sup>14</sup> cups set in place, <sup>15</sup> cushions are set in rows, <sup>16</sup> carpets spread around.
 
-13. In it are raised beds.
+<sup>17</sup> Do they not look at:
+- the camels—how they are created?
+- <sup>18</sup> how the sky is raised? 
+- <sup>19</sup> how the mountains are installed?
+- <sup>20</sup> how the earth is spread out?
 
-14. And cups set in place.
-15. And cushions set in rows.
-12. And carpets spread around.
-Do they not look at the camels—how they
-are created?
-20. And at the sky—how it is raised? And at the mountains—how they are in-
-stalled?
-21. So at the earth—how it is spread out?
-22. You have no control over them.
-
+<sup>22</sup> You have no control over them.
 
 
 ## 89. THE DAWN (al-Fajr)
@@ -56,11 +51,10 @@ When the Lord tries humans and is generous to him and favors him, he says  “My
 
 
 
-
-
 the night as it recedes.{{< s v="10" >}}  And
-{{< s v="16" >}}And
-18. And
+
+{{< s v="16" >}} 
+18.  
 the even and the odd.{{< s v="4" >}}  And
 a rational person?
 

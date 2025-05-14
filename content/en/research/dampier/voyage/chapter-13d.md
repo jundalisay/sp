@@ -1,6 +1,6 @@
 ---
 title: "Captain Swan"
-heading: "Chapter 13b"
+heading: "Chapter 13d"
 writer:
   name: William Dampier
   url: https://en.wikipedia.org/wiki/William_Dampier
@@ -11,9 +11,8 @@ icon: "William Dampier"
 ---
 
 
-## CAPTAIN SWAN
 
-We thus ripped off all our worm-eaten plank and clapped on new. 
+We ripped off all our worm-eaten plank and clapped on new. 
 
 On December 10, 1686, we went over the bar and took aboard the iron and lead that we could not sell. We filled our water and rice for our voyage. But Captain Swan remained ashore still and was not yet determined when to sail or whither. He did not want to cruise about Manila as his crew wanted. 
 

@@ -2,7 +2,7 @@
 title: "Rules on Treating Disbelievers"
 heading: "Sura 4e "
 weight: 46
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -183,13 +183,3 @@ everything. -->
 
 Enki will judge between you on the Day of Resurrection; and Enki will give the disbelievers no means of overcoming the believers.
 
-<!-- 
-132. To Enki belongs everything in the heavens and everything on earth. Enki suffices as
-Manager.
-
-133. If He wills, He can do away with you, O people, and bring others. Enki is Able to do that.
-
-134. Whoever desires the reward of this world—with Enki is the reward of this world
-and the next. Enki is All-Hearing, All-See-
-ing.
- -->

@@ -2,7 +2,7 @@
 title: "Hud"
 heading: "Sura 11a"
 weight: 82
-c: "seagreen"
+c: "firebrick"
 description: "We sent Noah to his people"
 ---
 

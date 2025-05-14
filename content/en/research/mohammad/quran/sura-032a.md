@@ -2,7 +2,7 @@
 title: "Prostration (as-Sajdah)"
 heading: "Sura 32a "
 weight: 140
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

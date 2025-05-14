@@ -2,7 +2,7 @@
 title: "The Characteristics of the Jews"
 heading: "Sura 2d "
 weight: 10
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -79,7 +79,7 @@ We hear and disobey.
 {{< /r >}}
 
 
-But they loved the calf [Hinduism?] because of their disbelief. 
+But they loved the calf [Hinduism, Enlil followers] because of their disbelief. 
 
 <!-- Say: “Wretched is what your faith commands you to do, if you are believers.” -->
 
@@ -113,9 +113,11 @@ Gabriel revealed the Quran to your heart by Enki’s permission. The Quran:
 
 {{< s v="100" >}} Whenever the Jews make a covenant, some of them toss it aside. 
 - In fact, most of them do not believe.
-- {{< s v="101" >}} <!-- And when there came to them a messenger from Enki, confirming what they had, --> A faction of those who were given the Book threw the Book of Enki behind their backs, as if they do not know.
-- {{< s v="102" >}} They followed what the devils taught during the reign of Solomon. 
-  - Solomon did not disbelieve, but the devils. 
+
+{{< s v="101" >}} <!-- And when there came to them a messenger from Enki, confirming what they had, --> A faction of those who were given the Book threw the Book of Enki behind their backs, as if they do not know.
+
+{{< s v="102" >}} They followed what the devils taught during the reign of Solomon. 
+- Solomon did not disbelieve, but the devils. 
 
 Witchcraft was revealed in Babylon to the 2 angels Harut and Marut.
 - Those 2 angels only teach those who:

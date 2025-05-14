@@ -2,7 +2,7 @@
 title: "Muslims"
 heading: "Sura 3e"
 weight: 36
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -57,17 +57,24 @@ It is from your own selves.
 {{< n n="*The 2 armies were the Atlanteans versus the Greeks" >}}
 
 
-It was said to them, “Come, fight in the cause of Enki, or contribute.” 
+It was said to them:
 
-They said, “If we knew how to fight, we would have followed you.” 
+{{< r a="Enki Agents" >}}
+Come, fight in the cause of Enki, or contribute.
+{{< /r >}}
 
-On that day, they were closer to infidelity than they were to faith. 
+{{< r a="Disbelievers" >}}
+If we knew how to fight, we would have followed you.
+{{< /r >}}
 
-They say with their mouths what is not in their hearts. But Enki knows what they hide.
+On that day, they were closer to infidelity than they were to faith. They say with their mouths what is not in their hearts. But Enki knows what they hide.
+
 
 <sup>168</sup> Those who said of their brethren, as they stayed behind:
 
-“Had they obeyed us, they would not have been killed.” 
+{{< r a="Disbelievers" >}}
+Had they obeyed us, they would not have been killed.
+{{< /r >}}
 
 Say:
 
@@ -122,14 +129,28 @@ They will be encircled by their hoardings on the Day of Resurrection. To Enki be
 
 <sup>181</sup> Enki has heard the statement of those who said:
 
-“Enki is poor, and we are rich.” 
+{{< r a="People" >}}
+Enki is poor, and we are rich.
+{{< /r >}}
 
-We will write down what they said, and their wrongful killing of the prophets. We will
-say, “Taste the torment of the burning. <sup>182</sup> This is on account of what your hands have forwarded, and because Enki is not unjust towards the creatures.”
+We will write down what they said. Their wrongful killing of the prophets. We will say:
 
-<sup>183</sup> Those who said, “Enki has made a covenant with us, that we shall not believe in any messenger unless he brings us an offering to be consumed by fire.” 
+{{< l a="Enki Agents" >}}
+Taste the torment of the burning. <sup>182</sup> This is on account of what your hands have forwarded, and because Enki is not unjust towards the creatures.
+{{< /l >}}
 
-Say: “Messengers have come to you before me with proofs, and with what you asked for; so why did you assassinate them, if you are truthful?” 
+<sup>183</sup> Some said:
+
+{{< r a="Disbelievers" >}}
+Enki has made a covenant with us, that we shall not believe in any messenger unless he brings us an offering to be consumed by fire.
+{{< /r >}}
+
+Say:
+
+{{< l a="Muslims" >}}
+Messengers have come to you before me with proofs, and with what you asked for; so why did you assassinate them, if you are truthful?
+{{< /l >}}
+
 
 <sup>184</sup> If they accuse you of lying, messengers before you were accused of lying. 
 
@@ -147,27 +168,29 @@ But if you persevere and lead a righteous life—that indeed is a mark of great 
 
 <sup>187</sup> Enki received a pledge from those who were given the Scripture: 
 
-“You shall proclaim it to the people, and not conceal it.” 
+{{< r a="Jews" >}}
+You shall proclaim it to the people, and not conceal it.
+{{< /r >}}
 
-But they disregarded it behind their backs, and exchanged it for a small price. What a miserable
-exchange they made.
+But they disregarded it behind their backs, and exchanged it for a small price. What a miserable exchange they made!
 
-<sup>188</sup> Do not think that those who rejoice in what they have done, and love to be praised
-for what they have not done—do not think they can evade the punishment. 
+<sup>188</sup> Do not think that those who rejoice in what they have done, and love to be praised for what they have not done—do not think they can evade the punishment. 
 
-<!-- They will
-have a painful punishment. -->
+<!-- <sup>189</sup> To Enki belongs the sovereignty of the heavens and the earth. Enki has power over all things.
 
-<sup>189</sup> To Enki belongs the sovereignty of the heavens and the earth. Enki has power over
-all things.
-
-<sup>190</sup> In the creation of the heavens and the earth, and in the alternation of night and day, are signs for people of understanding.
+<sup>190</sup> In the creation of the heavens and the earth, and in the alternation of night and day, are signs for people of understanding. -->
 
 <sup>191</sup> Those who remember Enki while standing, and sitting, and on their sides. 
 
 They reflect on the creation of the heavens and the earth: 
 
-“Our Lord, You did not create this in vain, glory to You, so protect us from the punishment of the Fire. <sup>193</sup> Our Lord, we have heard a caller calling to the faith: `Believe in your Lord,' and we have believed. Our Lord! Forgive us our sins, and remit our misdeeds, and make us die in the company of the virtuous. <sup>194</sup> Our Lord, and give us what You have promised us through Your messengers, and do not disgrace us on the Day of Resurrection. Surely You never break a promise.”
+{{< r a="Muslims" >}}
+Our Lord, You did not create this in vain, glory to You, so protect us from the punishment of the Fire. 
+
+<sup>193</sup> Our Lord, we have heard a caller calling to the faith: `Believe in your Lord,' and we have believed. Our Lord! Forgive us our sins, and remit our misdeeds, and make us die in the company of the virtuous. 
+
+<sup>194</sup> Our Lord, and give us what You have promised us through Your messengers, and do not disgrace us on the Day of Resurrection. Surely You never break a promise.
+{{< /r >}}
 
 
 <!-- 192. “Our Lord, whomever You commit to the Fire, You have disgraced. The wrongdoers will have no helpers.” -->
@@ -176,7 +199,9 @@ They reflect on the creation of the heavens and the earth:
 <sup>195</sup> Their Lord answered them: 
 
 {{< l a="Enki" >}}
-I will not waste the work of any worker among you, whether male or female. You are one of another. For those who emigrated, and were expelled from their homes, and were persecuted because of Me, and fought and were killed—I will remit for them their sins, and will admit them into gardens beneath which rivers flow—a reward from Enki. With Enki is the ultimate reward.
+I will not waste the work of any worker among you, whether male or female. You are one of another. 
+
+For those who emigrated, and were expelled from their homes, and were persecuted because of Me, and fought and were killed—I will remit for them their sins, and will admit them into gardens beneath which rivers flow—a reward from Enki.
 {{< /l >}}
 
 

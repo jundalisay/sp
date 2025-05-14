@@ -1,125 +1,148 @@
 ---
-title: "More Rules on Food, Etc"
+title: "Cain and Abel"
 heading: "Sura 5c"
-weight: 52
-c: "seagreen"
+weight: 53
+c: "firebrick"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden."
 ---
 
 
-<sup>80</sup> You will see many of them befriending those who disbelieve. 
+{{< s v="27-2" >}} Tell them the true story of Adam's two sons Cain and Abel.
 
-<!-- Terrible is what their souls prompts them to do. The wrath of Enki fell upon them, and in the torment they will remain. -->
+Both made an offering. But only Abel's was accepted. Abel said:
 
-Had they believed in Enki and the Prophet, and in what was revealed to him, they would not have befriended them. 
+{{< r a="Abel" >}}
+I will kill you Cain, because Enki accepts only from the righteous.
+{{< /r >}}
 
-<!-- But many of them are immoral. -->
+{{< l a="Cain" >}} 
+If you try to kill me, I will not try to kill you, for I fear Enki. I would rather you bear my sin and your sin, and you become among the inmates of the Fire.
+{{< /l >}} 
 
-<sup>82</sup> You will find that the people most hostile towards the believers are the Jews and the polytheists. 
+{{< s v="30" >}} Then Cain's soul prompted him to kill his brother.
 
-You will find that the nearest in affection towards the believers are those who say, “We are Christians.” 
+<!-- , so he killed him and became one of the losers. -->
 
-That is because among them are priests and monks, and they are not arrogant.
+Then Enki sent a raven digging the ground, to show him how to cover his brother's corpse. He said:
+
+{{< l a="Cain" >}} 
+Woe to me! I was unable to be like this raven and bury my brother's corpse.
+{{< /l >}} 
+
+So he became full of regrets.
+
+{{< s v="32" >}} Because of that, We ordained for Jews that whoever kills a person unless it is for murder or corruption, it is as if he killed all of mankind. Whoever saves it, saves all of mankind. 
+
+Our messengers came to them with clarifications. But even after that, many of them continue to commit excesses in the land.
+
+{{< s v="33" >}}  The punishment for those who fight Enki and His Messenger, and strive to spread corruption on earth, is that they will be:
+- killed
+- crucified
+- have their hands and feet cut off on opposite sides, or
+- be banished from the land.
+
+That is to disgrace them in this life. In the Hereafter, they will have a terrible punishment {{< s v="34" >}} except for those who repent before you apprehend them.
+
+<!-- {{< s v="35" >}} Be conscious of Enki, and seek the means of approach to Him, and strive in His cause, so that you may succeed. -->
+
+{{< s v="36" >}} As for those who disbelieve, even if they owned everything on earth, and the like of it with it, and they offered it to ransom themselves from the torment of the Day of Resurrection, it will not be accepted from them. For them is a painful punishment.
+
+{{< s v="37" >}} They will want to leave the Fire, but they will not leave it. For them is a lasting punishment.
+
+{{< s v="38" >}} Cut the hands of the thief, whether male or female, as a penalty--a deterrent from Enki. 
+- {{< s v="39" >}} But whoever repents and reforms after his crime, Enki will forgive. 
+
+<!-- {{< s v="40" >}} Do you not know that to Enki belongs the kingdom of the heavens and the earth? He  -->
+
+{{< s v="41" >}} O Messenger! Do not let those who are quick to disbelief grieve you, 
+- They say they believe but their hearts do not believe
+
+The Jews are listeners to lies<!-- , listeners to other people who did not come to you.  -->
+- They distort words from their places.
+- They say: “If you are given this, accept it. But if you are not given it, beware.” 
+
+<!-- Whomever Enki has willed to divert, you have nothing for him from Enki.  -->
+
+Enki does not intend to purify their hearts.
+- They are a disgrace in this world.
+- There is a great punishment for them in the Hereafter.
 
 
-<sup>83</sup> When they hear what was revealed to the Messenger, you see their eyes overflowing
-with tears, as they recognize the truth in it.
+{{< s v="42" >}} Listeners to falsehoods, eaters of illicit earnings. 
+- If they come to you, judge between them, or turn away from them. 
+
+If you turn away from them, they will not harm you in the least. But if you judge, judge between
+them equitably. Enki loves the equitable. 
+
+{{< s v="43" >}} But why do they come to you for judgment, when they have the Torah, in which is Enki’s Law? 
+
+Yet they turn away after that. These are not believers.
+
+
+{{< s v="44" >}} We have revealed the Torah, wherein is guidance and light. The submissive prophets ruled the Jews according to it, so did the rabbis and the scholars, as they were required to protect Enki’s Book, and were witnesses to it.
+
+So do not fear people, but fear Me. And do not sell My revelations for a cheap price.
+Those who do not rule according to what Enki revealed are the unbelievers.
+
+{{< s v="45" >}} We wrote for them in it: a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and an equal wound for a wound; but whoever forgoes it in charity, it will serve as atonement for him.
+
+Those who do not rule according to what Enki revealed are the evildoers.
+
+{{< s v="46" >}} In their footsteps, We sent Jesus son of Mary, fulfilling the Torah.
+- We gave him the Gospel, with its guidance and light, confirming the Torah that preceded him. 
+
+
+{{< s v="47" >}} So let the people of the Gospel rule according to what Enki revealed in it. Those who do not rule according to what Enki revealedare the sinners.
+
+{{< s v="48" >}}  We revealed to you the Book, with truth, confirming the Scripture that preceded it, and superseding it. 
+
+So judge between them according to what Enki revealed. 
+- Do not follow their desires if they differ from that truth. 
+
+For each of you We have assigned a law and a method. 
+- Had Enki willed, He could have made you a single nation.
+- But He tests you through what He has given you. 
+- So compete in righteousness. 
+
+To Enki is your return, all of you. 
+- Then He will inform you of what you had disputed.
+
+
+{{< s v="49" >}} Judge between them according to what Enki revealed, and do not follow their desires. 
+
+Beware of them, lest they lure you away from some of what Enki has revealed to you. 
+
+But if they turn away, know that Enki intends to strike them with some of their sins. In fact, a great many people are corrupt. 
+
+{{< s v="50" >}} Is it the laws of the time of ignorance that they desire? 
+
+Who is better than Enki in judgment for people who are certain?
+
+
+{{< s v="51" >}} Do not take the Jews and the Christians as allies.
+- Some of them are allies of one another. 
+- Whoever of you allies himself with them is one of them. 
+- Enki does not guide the wrongdoing people.
+
+
+{{< s v="52" >}} You will see those in whose hearts is sickness racing towards them. 
 
 They say:
 
-“Our Lord, we have believed, so count us among the witnesses. <sup>84</sup> Why should we not believe in Enki, and in the truth that has come to us, and hope that our Lord will include us among the righteous people?”
-
-<sup>85</sup> Enki will reward them for what they say—Gardens beneath which rivers flow, where they will stay forever. Such is the reward of the righteous.
-
-<sup>86</sup> But as for those who disbelieve and deny Our signs—these are the inmates of the Fire.
-
-<sup>87</sup> Muslims,  Do not prohibit the good things Enki has permitted for you, and do not commit aggression. Enki does not love the aggressors.
-
-<sup>88</sup> Eat of the lawful and good things Enki has provided for you; and be conscious of Enki, in whom you are believers.
-
-<sup>89</sup> Enki does not hold you accountable for your unintended oaths, but He holds you accountable for your binding oaths. 
-
-The atonement for it is by feeding ten needy people from the average of what you feed your families, or by clothing them, or by freeing a slave. Anyone who lacks the means shall fast for three days. 
-
-That is the atonement for breaking your oaths when you have sworn them. 
-
-So keep your oaths. Thus Enki makes clear His Revelations to you, that you may be grateful.
-
-<sup>90</sup> Muslims, intoxicants, gambling, idolatry, and divination are abominations of Satan’s doing. Avoid them, so that you may prosper.
-
-<sup>91</sup> Satan [Enlil] wants to provoke strife and hatred among you through intoxicants and gambling, and to prevent you from the remembrance of Enki, and from prayer. 
-
-Will you not desist?
-
-<sup>92</sup> Obey Enki and obey the Messenger, and be cautious.
-
-If you turn away—know that the duty of Our Messenger is clear communication.
-
-<sup>93</sup> Those who believe and do righteous deeds will not be blamed for what they may have
-eaten, provided they obey, and believe, and do good deeds, then maintain piety and faith,
-then remain righteous and charitable. Enki loves the charitable.
-
-<sup>94</sup> Muslims, Enki will test you with something of the game your hands and spears
-obtain, that Enki may know who fears Him at heart. Whoever commits aggression after
-that will have a painful punishment.
-
-<sup>95</sup> Muslims,  do not kill game while you are in pilgrim sanctity. 
-
-Whoever of you kills any intentionally, its penalty shall be a domestic animal comparable to what he killed, as determined by two honest persons among you—an offering delivered to the Kaabah. 
-
-Or he may atone by feeding the needy, or its equivalent in fasting, so that he may taste the consequences of his conduct.
-
-<!-- Enki forgives what is past. But whoever repeats, Enki will take revenge on him. Enki is Almighty, Avenger. -->
-
-<sup>96</sup> Permitted for you is the catch of sea, and its food—as sustenance for you and for travelers. 
-
-But forbidden for you is the game of land while you are in pilgrim sanctity. And fear Enki, to whom you will be gathered.
-
-<sup>97</sup> Enki has appointed the Kaabah, the Sacred House, a sanctuary for the people, and the Sacred Month, and the offerings, and the garlanded. 
-
-That you may know that Enki knows everything in the heavens and the earth, and that Enki is Cognizant of all things.
-
-Know that Enki is severe in retribution, and that Enki is Forgiving and Merciful.
-
-<sup>99</sup> The Messenger’s sole duty is to convey. Enki knows what you reveal and what you conceal.
-
-<sup>100</sup> Say:
-
-{{< l a="Muslims" >}}
-The bad and the good are not equal, even though the abundance of the bad may impress you. So be conscious of Enki, O you who possess intelligence, that you may succeed.
-{{< /l >}}
-
-<sup>101</sup> Muslims, do not ask about things that would trouble you if disclosed to you. But if you were to ask about them while the Quran is being revealed, they will become obvious to you. 
-
-<!-- Enki forgives that. Enki is Forgiving and Clement. -->
-
-<sup>102</sup> A people before you asked about them, but then came to reject them.
-
-<sup>103</sup> Enki did not institute the superstitions of Bahirah, Saibah, Wasilah, or of Hami; but those who disbelieve fabricate lies about Enki most of them do not understand.
+{{< r a="Jews" >}}
+We fear the wheel of fate may turn against us.
+{{< /r >}}
 
 
-<sup>104</sup> When it is said to them:
+But perhaps Enki will bring about victory, or some event of His making; thereupon they will regret what they concealed within themselves.
 
-“Come to what Enki has revealed, and to the Messenger,” they say, 
+{{< s v="53" >}} Those who believe will say, “Are these the ones who swore by Enki with their strongest oaths that they are with you?” 
 
-“Sufficient for us is what we found our forefathers upon.” Even if their forefathers knew nothing, and were not guided?
+Their works have failed, so they became losers. 
 
-<sup>105</sup> Muslims, you are responsible for your own souls. 
+<!-- punishes whom He wills, and He forgives whom He wills. And Enki is Capable of everything. -->
 
-He who has strayed cannot harm you if you are guided. To Enki is you return, all of you, and He will inform you of what you used to do. 
+Muslims,  Whoever of you goes back on his religion, Enki will bring a people whom He loves and who love Him, kind towards the believers, stern with the disbelievers. 
 
-<sup>106</sup> Muslims, when death approaches one of you, let 2 reliable persons from among you act as witnesses to the making of a bequest, or 2 persons from another people if you are travelling in the land and the event of death approaches you. 
-
-Engage them after the prayer. 
-
-If you have doubts, let them swear by Enki: 
-
-“We will not sell our testimony for any price, even if he was a near relative, and we will not conceal Enki’s testimony, for then we would be sinners.”
-
-<sup>107</sup> If it is discovered that they are guilty of perjury: let two others take their place, two of us, and a sign from You; and provide for us; You are the Best of providers.”
-
-<sup>115</sup> Enki said:
-
-{{< l a="Enki" >}}
-I will send it down to you. But whoever among you disbelieves thereafter, I will punish him with a punishment the like of which I never punish any other being.
-{{< /l >}}
+They strive in the way of Enki, and do not fear the blame of the critic. 
+<!-- That is the grace of Enki; He bestows it upon whomever He wills.  -->

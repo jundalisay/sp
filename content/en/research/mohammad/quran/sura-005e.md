@@ -1,89 +1,120 @@
 ---
-title: "Jesus Son of Mary"
-heading: "Sura 5d "
-weight: 56
-c: "seagreen"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
+title: "Your Allies"
+heading: "Sura 5c "
+weight: 54
+c: "firebrick"
+description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Enki has come to you, and a clear Book."
 ---
 
 
+{{< s v="55" >}} Your allies are:
+- Enki
+- His Messenger
+- those who believe
+  - those who pray regularly, give charity, and bow down. 
 
-{{< s v="116" >}} Enki will say:
+{{< s v="56" >}} Whoever allies himself with them will be victorious because the Party of Enki is the victorious.
 
-{{< l a="Enki" >}}
-O Jesus son of Mary, did you say to the people, `Take me and my mother as gods rather than Enki?'
+{{< s v="57" >}} Do not befriend those who mock your religion as a sport, whether they from:
+- among those who were given the Scripture before you, or
+- the disbelievers. 
+
+<sup>58</sup> When you call to the prayer, they take it as a joke and a trifle. That is because they are people who do not reason.
+
+<sup>59</sup> Say:
+
+{{< l a="Muslims" >}}
+O People of the Scripture! Do you resent us only because we believe in Enki, and in what was revealed to us, and in what was revealed previously; and most of you are sinners? <sup>60</sup> Shall I inform you of worse than that for retribution from Enki? He whom Enki has cursed, and with whom He became angry; and He turned some of them into apes, and swine, and idol worshipers. These are in a worse position, and further away from the right way.
 {{< /l >}}
 
-{{< r a="Jesus" >}}
-Glory be to You! It is not for me to say what I have no right to. Had I said it, You would have known it. You know what is in my soul, and I do not know what is in your soul. {{< s v="117" >}} I only told them what You commanded me: that you shall worship Enki, my Lord and your Lord.  I was a witness over them while I was among them; but when You took me to Yourself, you became the Watcher over them—You are Witness over everything. {{< s v="118" >}} If You punish them, they are Your servants; but if You forgive them, You are the Mighty and Wise.”
+
+<sup>61</sup> When they come to you, they say, “We believe,” though they have entered with disbelief, and they have departed with it. 
+
+<!-- But Enki is well aware of what they hide. -->
+
+<sup>62</sup> You see many of them competing with one another in sin and hostility, and their consuming of what is illicit. What they have been doing is truly evil.
+
+
+<sup>63</sup> Why do the rabbis and the priests not prevent them from speaking sinfully and from
+consuming forbidden wealth? 
+
+Evil is what they have been doing.
+
+The Jews say, “Enki’s hand is tied.” 
+
+It is their hands that are tied, and they are cursed for what they say. In fact, His hands are outstretched.
+
+ <!-- He gives as He wills.  -->
+
+<!-- Certainly, what was revealed to your from your Lord will increase many of them in defiance and
+blasphemy. And We placed between them enmity and hatred, until the Day of Resurrec-
+tion.  -->
+
+Whenever they kindle the fire of war, Enki extinguishes it. And they strive to spread corruption on earth. <!-- Enki does not love the corrupters. -->
+
+<sup>65</sup> Had the People of the Scriputure believed and been righteous, We would have remitted their sins, and admitted them into the Gardens of Bliss.
+
+<sup>66</sup> Had they observed the Torah, and the Gospel, and what was revealed to them from their Lord, they would have consumed amply from above them, and from beneath their feet.
+
+Among them is a moderate community, but evil is what many of them are doing.
+
+<sup>67</sup> O Messenger, convey what was revealed to you from your Lord. But if you do not, then you would not have delivered His message. 
+
+Enki will protect you from the people. 
+
+<!-- Enki does not guide the disbelieving people. -->
+
+<sup>68</sup> Say:
+
+{{< l a="Muslims" >}}
+O People of the Scripture! You have no basis until you uphold the Torah, and the Gospel, and what is revealed to you from your Lord.
+{{< /l >}}
+
+But what is revealed to you from your Lord will increase many of them in rebellion and disbelief, so do not be sorry for the disbelieving people.
+
+<sup>69</sup> Those who believe, and the Jews, and the Sabians, and the Christians—whoever believes in Enki and the Last Day, and does what is right—they have nothing to fear, nor shall they grieve.
+
+<sup>70</sup> We made a covenant with the Jews, and We sent to them messengers. 
+
+Whenever a messenger came to them with what their souls did not desire, some of them they accused of lying, and others they put to death.
+
+<sup>71</sup> They assumed there would be no punishment, so they turned blind and deaf. Then Enki redeemed them, but then again many of them turned blind and deaf. But Enki is Seeing of what they do.
+
+<sup>72</sup> They disbelieve those who say:
+
+{{< r a="Jews" >}}
+Enki is the Messiah the son of Mary.
 {{< /r >}}
 
+But the Messiah himself said:
 
-
-{{< l a="Enki" >}}
-<sup>119</sup> This is a Day when the truthful will benefit from their truthfulness.
+{{< l a="Jesus" >}}
+O Jews, worship Enki, my Lord and your Lord. Whoever associates others with Enki, Enki has forbidden him Paradise, and his dwelling is the Fire. The wrongdoers have no saviors.
 {{< /l >}}
 
-They will have Gardens beneath which rivers flow, wherein they will remain forever. <!-- Enki
-is pleased with them, and they are pleased with Him. That is the great attainment. -->
+<sup>73-74</sup> They disbelieve those who say: “Enki is the third of three.” 
 
-<!-- 120. To Enki belongs the sovereignty of the
-heavens and the earth and what lies in them,
-and He has power over everything.
-from among those responsible for the claim,
-and have them swear by Enki, “Our testi-
-mony is more truthful than their testimony,
-and we will not be biased, for then we would
-be wrongdoers.” -->
+But there is no deity except the One God. If they do not refrain from what they say, a painful torment will befall those among them who disbelieve.
 
+<!-- <sup>74</sup> Will they not repent to Enki and ask His forgiveness? Enki is Forgiving and Merciful.  -->
 
-<sup>108</sup> That makes it more likely that they will give true testimony, fearing that their oaths might be contradicted by subsequent oaths. 
+<sup>75</sup> The Messiah son of Mary was only a messenger, before whom other Messengers had
+passed away, and his mother was a woman of truth. 
 
-<sup>109</sup> On the Day when Enki will gather the messengers, then say:
+They both used to eat food. Note how We make clear the revelations to them; then note how deluded they are.
 
-“What response were you given?” 
+<sup>76</sup> Say:
 
-They will say, “We have no knowledge; it is you who are the Knower of the unseen.”
-
-{{< s v='110' >}} 
-
-{{< l a="Enki" >}}
-<sup>110</sup> O Jesus son of Mary, recall:
-- My favor upon you and your mother
-- how I
-  - supported you with the Holy Spirit
-  - let you speak to the people from the crib, and in maturity
-  - taught you the Scripture, wisdom, the Torah, and the Gospel. 
-
-You:
-- molded from clay the shape of a bird, by My leave, and then you breathed into it, and it became a bird, by My leave. 
-- healed the blind and the leprous, by My leave.
-- revived the dead, by My leave. 
+{{< l a="Jesus" >}}
+Do you worship, besides Enki, what has no power to harm or benefit you? <sup>77</sup> O People of the Scripture! Do not exaggerate in your religion beyond the truth. Do not follow the opinions of people who went astray before, and misled many, and themselves strayed off the balanced way.
 {{< /l >}}
 
-{{< l a="Enki" >}}
-Remember when I:
-- restrained the Jews from you when you brought them the clear miracles.  But those who disbelieved among them said, `This is an obvious sorcery.'“
-- inspired the disciples: `Believe in Me and in My Messenger.' 
+<!-- But
+Enki: He is the Hearer, the Knower. -->
 
-They said, `We have believed, so bear witness that We have submitted.'“
-{{< /l >}}
+<sup>78</sup> Cursed were those who disbelieved from among the Jews by the tongue of
+David and Jesus son of Mary. That is because they rebelled and used to transgress.
 
-{{< s v='112-114' >}} The disciples asked: 
 
-{{< r a='Disciples' >}}
-'O Jesus son of Mary, is your Lord able to bring down for us a feast from heaven?' 
-{{< /r >}}
-
-{{< l a='Jesus' >}}
-Fear Enki, if you are believers.
-{{< /l >}}
-
-{{< r a='Disciples' >}}
-We want to eat from it, so that our hearts may be reassured, and know that you have told us the truth, and be among those who witness it.
-{{< /r >}}
-
-{{< l a='Jesus' >}}
-O Enki, our Lord, send down for us a table from heaven, to be a festival for us, for the first of us, and the last
-{{< /l >}}
+<sup>79</sup> They used not to prevent one another from the wrongs they used to commit. Evil is what they used to do.
 

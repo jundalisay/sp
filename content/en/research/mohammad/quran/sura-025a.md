@@ -2,7 +2,7 @@
 title: "The Criterion (al-Furqan)"
 heading: "Sura 25 "
 weight: 128
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
