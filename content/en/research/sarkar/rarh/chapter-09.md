@@ -11,7 +11,7 @@ writer:
 ---
 
 
-The psychology of Ráŕh which was based on the original Shaeva Dharma only superficially accepted Jainism.
+The psychology of Ráŕh which was based on the original Shaeva Dharma and only superficially accepted Jainism.
 
 Ráŕh rejected and did not internalize the aspects of Jainism which were not consistent with the fundamental rules of Shaeva Dharma. 
 

@@ -29,7 +29,9 @@ Therefore, I think that the moment has come to present the theory in deductive f
 
 Then I shall strive to deduce its results far enough to account, not only for cosmic rays, but also for the present stmcture of the universe, formed of stars and gaseous clouds, organized into spiral or elliptical nebulae, sometimes grouped in large clusters of several thousand nebulae which, more often, are composed of isolated nebulae, receding from one another according to the mechanism known by the name of the expanding universe.
 
-For the exposition of my subject, it is indispensable thati recall several elementary geometric conceptions, such as that of the closed space of Riemann, which led to that of space with a variable radius, as well as in certain aspects of the theory of relativity, particularly the introduction of the cosmological constant and of the cosmic repulsion which is the result of it.
+My hypothesis uses several elementary geometric conceptions:
+- the closed space of Riemann which led to that of space with a variable radius
+- the theory of relativity as the cosmological constant and of the cosmic repulsion which is the result of it.
 
 
 ### Closed Space
@@ -81,24 +83,46 @@ If the radius increases with time, each observer sees all points which surround 
 If one makes a graph, plotting as abscissa the values of time and as ordinate the value of radius, one obtains a curve, the sub-tangent of which at the point representing the present instant is precisely equal to T H'.
 
 
-## The primeval atom
+## The Primeval Atom
 
-These are the geometric concepts that are indispensable to us. We are now going to imagine that the entire universe existed in the form of an atomic nucleus which filled elliptical space of convenient radius in a uniform manner.
+<!-- These are the geometric concepts that are indispensable to us. We are now going to imagine that  -->
 
-Anticipating that which is to follow, we shall accept that, when the universe had a density of 10 (27)gram per cubic centimeter, the radius of space was about a billion light-years, that is, 10 (27) centimeters. Thus the mass of the universe is 10(54) grams. 
+The entire universe existed in the form of an atomic nucleus which filled elliptical space of convenient radius in a uniform manner.
 
-If the universe formerly had a density equal to that of water, its radius was then reduced to 10 (18) centimeters, say, one light-year. In it, each proton occupied a sphere of one angstrom, say, 10 (8) centimeter. In an atomic nucleus, the protons are contiguous and their radius is 10 (13), thus about 100,000 times smaller. Therefore, the radius of the corresponding universe is 10 (13) centimeters, that is to say, an astronomical unit.
+<!-- Anticipating that which is to follow, we shall accept that,  -->
 
-Naturally, too much importance must not be attached to this description of the primeval atom, a description which will have to be modified, perhaps, when our knowledge of atomic nuclei is more perfect.
+When the universe had a density of 10 (27) gram per cubic centimeter, the radius of space was about a billion light-years, that is, 10 (27) centimeters. Thus the mass of the universe is 10(54) grams. 
 
-Cosmogonic theories propose to seek out initial conditions which are ideally simple, from which the present world, in all its complexity, might have resulted, through the natural interplay of known forces. it seems difficult to conceive of conditions which are simpler than those which obtained when all matter was unified in an atomic nucleus. The future of atomic theories will perhaps tell us, some day, how far the atomic nucleus must be considered as a system in which associated particles still retain some individuality of their own. 
+If the universe formerly had a density equal to that of water, its radius was then reduced to 10 (18) centimeters, say, one light-year. 
 
-The fact that particles can issue from a nucleus during radioactive transformations certainly does not prove that these particles pre-existed as such. Photons issue from an atom of which they were not constituent parts; electrons appear where they were not previously, and the theoreticians deny them an individual existence in the nucleus. Still more protons or alpha particles exist there, without doubt. When they issue forth, their existence becomes more independent, nevertheless, and their degrees of freedom more numerous. Also, their emergence in the course of radioactive transformations, is a typical example of the degradation of energy, with an increase in the number of independent quanta or increase in entropy.
+In it, each proton occupied a sphere of one angstrom, say, 10 (8) centimeter. 
+
+In an atomic nucleus, the protons are contiguous and their radius is 10 (13), thus about 100,000 times smaller. Therefore, the radius of the corresponding universe is 10 (13) centimeters, that is to say, an astronomical unit.
+
+This description of the primeval atom will have to be modified when our knowledge of atomic nuclei is more perfect.
+
+Cosmogonic theories propose to seek out initial conditions which are ideally simple, from which the present world, in all its complexity, might have resulted, through the natural interplay of known forces. 
+
+It seems difficult to conceive of conditions which are simpler than those which obtained when all matter was unified in an atomic nucleus. 
+
+The future of atomic theories will perhaps tell us, some day, how far the atomic nucleus must be considered as a system in which associated particles still retain some individuality of their own. 
+
+The fact that particles can issue from a nucleus during radioactive transformations certainly does not prove that these particles pre-existed as such. 
+
+Photons issue from an atom of which they were not constituent parts; electrons appear where they were not previously, and the theoreticians deny them an individual existence in the nucleus. Still more protons or alpha particles exist there, without doubt. 
+
+When they issue forth, their existence becomes more independent, nevertheless, and their degrees of freedom more numerous. 
+
+Also, their emergence in the course of radioactive transformations, is a typical example of the degradation of energy, with an increase in the number of independent quanta or increase in entropy.
 
 That entropy increases with the number of quanta is evident in the case of electromagnetic radiation in thermodynamic equilibrium. in fact, in black body radiation, the entropy and the total number of photons are both proportional to the third power of the temperature. 
 
-Therefore, when one mixes radiations of different temperatures. and one allows a new statistical equilibrium to be established, the total number of photons has increased. The degradation of energy is manifested as a pulverization of energy. The total quantity of energy is maintained, but it is distributed in an ever larger number of quanta, it becomes broken into fragments which are ever more numerous.
+Therefore, when one mixes radiations of different temperatures. and one allows a new statistical equilibrium to be established, the total number of photons has increased. The degradation of energy is manifested as a pulverization of energy. 
+
+The total quantity of energy is maintained, but it is distributed in an ever larger number of quanta, it becomes broken into fragments which are ever more numerous.
 
 If, therefore, by means of thought, one wishes to attempt to retrace the course of time, one must search in the past for energy concentrated in a lesser number of quanta. 
 
-The initial condition must be a state of maximum concentration. it was in trying to formulate this condition that the idea of the primeval atom was germinated. Who knows if the evolution of theories of the nucleus will not, some day, permit the consideration of the primeval atom as a single quantum?
+The initial condition must be a state of maximum concentration. it was in trying to formulate this condition that the idea of the primeval atom was germinated. 
+
+Who knows if the evolution of theories of the nucleus will not, some day, permit the consideration of the primeval atom as a single quantum?

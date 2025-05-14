@@ -146,11 +146,14 @@ All successful tests of Relativity are just measurements using light or electrom
 
 Through Einstein, Physics gets that German precision in timekeeping, **but loses how Nature actually works**. 
 
-This is similar to the blockchain scam where you can mine worthless coins so that your 1 coin today will be 1,000 coins next week a whopping 99,900% increase. But the real value is the same zero.
+This is similar to the blockchain scam where you can mine worthless coins so that your 1 coin today will be 1,000 coins next week a whopping 99,900% increase. But the real value is the same zero. In fact, the real value to Nature is negative because of the waste of electricity, and of your wasted time and effort to mine a lot of nothing.
 
-In fact, the real value to Nature is negative because of the waste of electricity, and of your wasted time and effort to mine a lot of nothing.
+In reality, the invention of Relativity is like the invention of a sundial. It makes timekeeping more accurate, but does not explain why the sun goes around the sky. Similarly, Relativity cannot explain why light is limited to 300,000 kilometers per second.
 
-Likewise, all the effort of unifying quantum mechanics with Relativity have failed, because Nature never bends Herself to human scams. This includes failed theories like:
+{{< i s="/photos/objects/clock.jpg" a="Sundial" c="A sundial does not explain why the sun goes around the sky. The notches provide more timekeeping accuracy just as the metric tensor of Relativity does" >}}
+
+
+All the effort of unifying quantum mechanics with Relativity have failed, because Nature never bends Herself to human scams. This includes failed theories like:
 - Supersymmetry
 - String Theory
 - Loop Quantum Gravity
@@ -158,10 +161,10 @@ Likewise, all the effort of unifying quantum mechanics with Relativity have fail
 {{< i s="/graphics/physics/einstein.jpg" a="Einstein" c="David Hume's system of critical thinking involves chasing the train of ideas to find the origin idea" >}}
 
 
-It would have been better to sleep for 100 years achieving nothing than waste so much time and effort achieving the same nothing. This is because like the blockchain exaxmple, the wasted effort is actually a negative. 
+It would have been better for physicists to sleep for 100 years achieving nothing than waste so much time and effort achieving the same nothing. This is because like the blockchain example, the wasted effort is actually a negative. It follows that the funding for the Large Hadron Collider, for example, is really a loss to society since the Higgs boson is totally useless.
 
 
-Lorentz and Poincare were wise to keep time psychological and avoided the temptation to use physical light as the basis for psychological time:
+Lorentz and Poincare were wise to keep time psychological, avoiding the temptation to use physical light as the basis for psychological time:
 
 {{< q a="Henri Poincare" c="The Measure of Time" >}}
 We have not a direct intuition of the equality of 2 intervals of time. The persons who believe they possess this intuition are dupes of an illusion. What do I mean when I say, from 12 noon to 1 pm, the same time passes as from 2 pm to 3 pm?
@@ -181,9 +184,26 @@ Both Poincare and Sabine Hossenfelder blames the collapse of Physics to the domi
 The mathematicians of the Berlin school have devoted themselves to constructing this continuous scale of irrational and fractional numbers using only the integer. The mathematical continuum from this point of view would be a pure creation of the mind in which experiment would have no part
 {{< /q >}}
 
-Ideally, math should be used by engineering which would then implement the theory. Both Newton and Maxwell were strong at experimentation just as they were good at math.
 
-But the people after Maxwell seemed to lack experimentation ability. 
+{{< box >}}
+## The Problem with Math
+
+Math allows people to convert physical perceptions into variables which can then be transposed and manipulated by the whim. 
+
+For example, in this video, Henry claims that he can turn 0.99999 to 1.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tRaq4aYPzCc?si=QFlHF0tTDoqlptSW&amp;start=264" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The fraud happens when he removes the 0.9999 from 9.9999 to convert the repeating decimal into a whole nuber just to prove his absurd claim.
+
+In effect, he is able to equate 0.99999 is equal to 1 by arbitrarily removing the repeating decimals. 
+
+These are Math 'Hacks' that disconnect the math from reality and is why hacked theories do not match reality -- because they arise from the whim of the mathematician or theorist.
+{{< /box >}}
+
+Ideally, math should be used by engineering which always keeps the fidelity of the variables to their physical representations, as proven in experiments. Both Newton and Maxwell were strong at experimentation just as they were good at math.
+
+But the people after Maxwell seemed to lack experimentation ability and instead pushed for wild theories. For example, Georges Lemaitre created the Big Bang theory just to match Physics with the Bible creation story. The Big Bang has been disproven by data from James Webb, DESI, and the Planck satellite.
 
 Our experiments with Cartesian aether could be done with household equipment and gauge blocks. So there is no excuse for richer countries to have weak experimentation ability.
 
@@ -242,7 +262,7 @@ Take a fast plane and go around the world with 3 clocks:
 2. An atomic clock
 3. A sand clock
 
-Compare the results with 3 clocks on the ground where you left and will arrive. They will show difference time discrepancy values. You then choose which one is feasible for your use-case. 
+Compare the results with 3 clocks on the ground where you left and will arrive. They will show difference time discrepancy values. You then choose which one is feasible for your use-case. This is similar to the people in the International Space Station arbitrarily agreeing to use GMT 0 as their timezone.
 
 {{< /box >}}
 
@@ -261,7 +281,7 @@ This will then allow it to levitate or at least become lighter, as done by levit
 
 
 For material bodies, such as vehicles, this can be done by applying Maxwell's 4th Equation, which is about waves and energy, onto gravity. 
-- Instead of manipulating charged particles to create magnetism, the aetherspace of the atom is maniuplated to cancel gravity.
+- Instead of manipulating charged particles to create magnetism, the aetherspace of the atom is manipulated to cancel gravity.
 - This aetherspace is Bob Lazar's Gravity-A waves which are used by UFOs to levitate and teleport
 
 {{< youtube 0dXvYASaIx4 >}}

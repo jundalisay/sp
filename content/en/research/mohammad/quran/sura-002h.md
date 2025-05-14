@@ -79,17 +79,25 @@ When you disperse from Arafat, remember Enki at the Sacred Landmark. And remembe
 
 <sup>200.</sup> When you have completed your rites, remember Enki as you remember your parents, or even more. 
 
-Among the people is he who says, “Our Lord, give us in this world,” yet he has no share in the Hereafter.
+Among the people is he who says:
 
-<sup>201.</sup> Among them is he who says, “Our Lord, give us goodness in this world, and
-goodness in the Hereafter, and protect us from the torment of the Fire.”
+{{< r a="Disbelievers" >}}
+Lord, give us in this world
+{{< /r >}}
+
+Yet he has no share in the Hereafter.
+
+
+<sup>201.</sup> Among them is he who says:
+
+{{< r a="Muslims" >}}
+Lord, give us goodness in this world, and goodness in the Hereafter, and protect us from the torment of the Fire.
+{{< /r >}}
 
 <sup>202.</sup> These will have a share of what they have earned. Enki is swift in reckoning.
 
 <sup>203.</sup> Remember Enki during the designated days. But whoever hurries on in 2 days commits no wrong, and whoever stays on commits no wrong—provided he maintains righteousness. 
 
-<!-- And obey Enki, and
-know that to Him you will be gathered. -->
 
 <sup>204.</sup> Among the people is he whose speech about the worldly life impresses you, and he calls Enki to witness what is in his heart, while he is the most hostile of adversaries.
 

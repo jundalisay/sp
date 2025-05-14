@@ -8,7 +8,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
-draft: true
 ---
 
 
@@ -42,7 +41,7 @@ Such assumptions were destroyed by the findings of:
 - DESI detecting the expansion of space to vary
 
 
-## The Cause of the Error: The Religion of Phyics
+## The Cause of the Error: The Religion of Physics
 
 The corrupted assumptions of Physics, just like the corrupted ones of Economics, create theoretical absurdities that lead to real problems.
 
@@ -51,11 +50,17 @@ The corrupted assumptions of Physics, just like the corrupted ones of Economics,
 
 Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them to simplilstic theories that are based on effect instead of cause:
 
-- The universe needing to have a starting day is an idea from the Bible, proposed by the priest Lemaitre as the
+- The universe needing to have a starting day is an idea from the Bible, proposed by the priest Lemaitre as the hypothesis of the primeval atom
 
+{{< q a="Georges Lemaitre" c="The Primeval Atom">}}
+In this first phase of the expansion of space, starting asymptotically with a zero radius, we have particles of enormous velocities immersed in radiation.
+{{< /q >}}
 
-In this first phase of the expansion of space, starting asymptotically with a radius practically zero, we have particles of enormous velocities (as a result of recoil at the time of the emission of rays) which are immersed in radiation
+- The force of gravity being based on matter is from Newton's ignorance on the cause of gravity
 
+{{< q a="Newton" c="Principia Mathematica, Book 1, Definitions" >}}
+The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.
+{{< /q >}}
 
 
 The expansion of space coming from matter is an Einstein hack of Newton's matter-based gravity.

@@ -19,7 +19,7 @@ Do not follow the footsteps of Satan [Enlil], an open enemy. {{< s v="169" >}} H
 Satan's followers will say:  {{< s v="168" >}} <!-- And when it is said to them, “Follow what Enki has revealed,” they say, --> 
 
 
-{{< r a="Enlil Faction" >}}
+{{< r a="Enlil Followers" >}}
 We follow what we found our ancestors following.
 {{< /r >}}
 

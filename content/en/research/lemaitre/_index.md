@@ -1,8 +1,8 @@
 ---
 title: "Lemaitre, Georges"
 heading: Unenlightened
-description: 
-a: "Lemaitre"
+description: "A religious version of Physics"
+a: "Georges Lemaitre"
 c: "firebrick"
 weight: 123
 ---

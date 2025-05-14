@@ -38,13 +38,13 @@ Our might came upon them by night, or while they were napping.
 Bow down before Adam
 {{< /l >}}
 
-So they bowed down, except for Satan [Enlil Faction]. 
+So they bowed down, except for Satan [Enlil Followers]. 
 
 {{< l a="Enki" >}}
 What prevented you from bowing down to Adam when I commanded it?
 {{< /l >}}
 
-{{< r a="Enlil Faction" >}}
+{{< r a="Enlil Followers" >}}
 I am better than Adam. 
 - You created me from fire.
 - You created him from mud.
@@ -54,8 +54,10 @@ I am better than Adam.
 It is not for you to act arrogantly in it. Get out! You are one of the lowly!
 {{< /l >}}
 
-{{< r a="Enlil Faction" >}}
-Give me a break until the Day they are resurrected. Because you have lured me, I will waylay them on Your straight path. Then I will come at them from before them, and from behind them, and from their right, and from their left. You will not find most of them appreciative.
+{{< r a="Enlil Followers" >}}
+Give me a break until the Day they are resurrected. Because you have lured me, I will waylay them on Your straight path. 
+
+Then I will come at them from before them, and from behind them, and from their right, and from their left. You will not find most of them appreciative.
 {{< /r >}}
 
 {{< l a="Enki" >}}
@@ -64,7 +66,7 @@ Yes I will give you a break. Leave Paradise. Whoever among them follows you—I 
 
 <sup>20</sup> But Enlil whispered to them to reveal their nakedness, which was invisible to them. He said:
 
-{{< r a="Enlil Faction" >}}
+{{< r a="Enlil Followers" >}}
 Your Lord has only forbidden you this tree lest you become angels, or become immortals. I am a sincere advisor to you.
 {{< /r >}}
 

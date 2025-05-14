@@ -33,6 +33,8 @@
     <div class="flex items-center justify-center" style="margin-top: -3rem;">
         {{ if $img }}
           <img class="w-12 h-12 rounded-full shadow-lg pr-2" src="{{ $img.Permalink }}" alt="{{ $a }}">
+        {{ else }}
+          <img class="w-12 h-12 rounded-full shadow-lg pr-2" src="/icons/blank.jpg" alt="Blank">
         {{ end }}
         <div class="flex items-center">
             <cite class="pr-3 font-medium text-gray-900 dark:text-white">{{ $a }}</cite>

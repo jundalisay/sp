@@ -28,21 +28,47 @@ No one could stop it, but in Ráŕh some efforts were made. There an attempt, 
 
 Smárta(1) Raghunandan invented a two-caste system which was also defective, but less than the four-caste system.
 
-An experiment at least was certainly made. Bankimchandra and Haraprasad Shastri appeared at a time when the people of Ráŕh and Bengal had, in confusion, forgotten their real selves; when they failed to find a link in their lives between the past and the present; and when self-recrimination was the order of the day. 
+An experiment at least was certainly made. 
 
-They came with a lamp of enlightenment in that dark age. In their literary work they both sallied forth not only with strokes of the pen and marks of ink, but also in a vital literary achievement that resonated with the loud clang of swords. Bankim and Haraprasad were Ráŕhii by lineage.
+Bankimchandra and Haraprasad Shastri appeared at a time when the people of Ráŕh and Bengal had, in confusion, forgotten their real selves.
+
+They had failed to find a link in their lives between the past and the present. Self-recrimination was the order of the day. 
+
+They came with a lamp of enlightenment in that dark age.
+
+In their literary work they both sallied forth not only with strokes of the pen and marks of ink, but also in a vital literary achievement that resonated with the loud clang of swords. 
+
+Bankim and Haraprasad were Ráŕhii by lineage.
 
 Like the shruti shástra [the Vedas] the smrti shástra [social scripture] is neither unchangeable nor divine. The social scripture undergoes changes in every age according to the needs of society.
 
-At a time when India clung to the interpretation of Mitákśará(2) given in the smrti shástra of Manu, without considering its merits and demerits, and wanted to fling the people of India into a dark well of oblivion and isolate India from the rest of the world, Jimutbahan Bhattacharya, an inhabitant of Ráŕh, introduced the Dáyabhága(3) system, based on a much more scientific and humanistic outlook and on sensitivity for the rights of daughters, and thus set Ráŕh and Bengal free from family squabbles.
+So India clung to the interpretation of Mitákśará(2) given in the smrti shástra of Manu.
+- It did not consider its merits and demerits
+- This flung the people into a dark well of oblivion and isolated India from the rest of the world
 
-At that time myriad evils and aberrations, and various unholy and corrupt practices, paralysed social life. Some influential persons, enjoying the privilege of higher social standing, began to make people outcastes with or without reason. Those who were thus excommunicated found it hard to live in society with self-respect and with their heads held high.
+Jimutbahan Bhattacharya, an inhabitant of Ráŕh, introduced the Dáyabhága (3) system, based on a much more scientific and humanistic outlook and on sensitivity for the rights of daughters. This set Ráŕh and Bengal free from family squabbles.
 
-Due to the mental pressure on them, and due to the irresistible lure of acquiring social status, many among them began to think it proper to convert to other religions. And in fact, many such conversions did take place. It was at that time that Devibar Ghatak (of Birbhum) introduced the melbandhan (pat́ibandhan as it was called in the Barendra caste) system(4) among those outcastes. 
+At that time myriad evils and aberrations, and various unholy and corrupt practices, paralysed social life. 
 
-As a result, the tendency to convert to other religions came to a halt. The scholars of Ráŕh had on earlier occasions also been fighting against the existing customs. The invention of the melbandhan system was a great revolutionary step on the part of the social reformers of Ráŕh. This clearly showed their originality of thought and their spirit of independence.
+Some influential persons, enjoying the privilege of higher social standing, began to make people outcastes with or without reason. 
 
-Krishnananda Agambagish, another revered son of Ráŕh, brought about innovations in religious life by thoroughly reforming the ritualistic system of worship and festivals of Ráŕh. He introduced some sort of logic into the illogical system of offering worship.
+Those who were thus excommunicated found it hard to live in society with self-respect and with their heads held high. So many converted to other religions because of:
+- the mental pressure on them
+- the irresistible lure of acquiring social status
+
+To stop the conversions, Devibar Ghatak of Birbhum introduced the melbandhan (pat́ibandhan as it was called in the Barendra caste) system among those outcastes.
+
+ <!-- As a result, the tendency to convert to other religions came to a halt.  -->
+
+The scholars of Ráŕh had on earlier occasions also been fighting against the existing customs. 
+
+The invention of the melbandhan system was a great revolutionary step on the part of the social reformers of Ráŕh. 
+
+This clearly showed their originality of thought and their spirit of independence.
+
+Krishnananda Agambagish was another revered son of Ráŕh. He:
+- brought about innovations in religious life by thoroughly reforming the ritualistic system of worship and festivals of Ráŕh.
+- introduced some sort of logic into the illogical system of offering worship.
 
 Krishnachandra, the king of Krishnanagar (a Ráŕhii Brahman), did much for the society of that time. 
 
@@ -54,10 +80,9 @@ He brought many shellac artists from Ilambazar, Birbhum, and helping them to set
 
 If Nadia has a worldwide reputation in clay-modelling, it was due to King Krishnachandra. 
 
-At that time, most townships grew in an awkward way. But this very King Krishnachandra got the town of Krishnanagar built in a planned way by Allal Dastur Pir, a city architect of the then Bengal.
+At that time, most townships grew in an awkward way. But King Krishnachandra got the town of Krishnanagar built in a planned way by Allal Dastur Pir, a city architect of the then Bengal.
 
 1981, Kolkata
-
 
 
 ### Footnotes
@@ -65,5 +90,3 @@ At that time, most townships grew in an awkward way. But this very King Krishnac
 (2) Mitákśará entails the heirs’ equal rights of inheritance, not subject to the father’s discretion. –Trans.
 
 (3) Dáyabhága is a system of inheritance in which the heirs’ right of inheritance is subject to the discretion of the father, who has the right to disinherit any of the children. Another feature of this system is the rights of inheritance for women. –Trans.
-
-

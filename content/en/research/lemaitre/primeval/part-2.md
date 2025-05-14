@@ -1,12 +1,36 @@
 ---
 heading: Part 2
-title: "Einstein's Equilibrium"
+title: "The Universe Of Friedmann"
 description: ""
 author: Lemaitre
 c: "firebrick"
 weight: 6
 ---
 
+
+
+The theory of relativity allows us to complete our description of space with a variable radius by introducing here some dynamic considerations. 
+
+As before, we shall represent it as being in the interior of a sphere, the center of which is a point which we can choose arbitrarily. This sphere is not the boundary of the system, it is the edge of the map or of the diagram which we have made of it. it is the place at which the two opposite, half straight lines are soldered into a closed straight line. 
+
+Cosmic repulsion is manifested as a force proportional to the distance to the center of the diagram. As for the gravitational attraction, it is known that, in the case of distribution involving spherical symmetry around a point, and that is certainly the case here, the regions farther away from the center than the point being considered have no influence upon its motion; as for the interior points, they act as though they were concentrated at the center. 
+
+By virtue of the homogeneity of the distribution of matter, the density is constant, the force of attraction which results is thus proportional to a distance, just as is cosmic repulsion.
+
+Therefore, a certain density exists, which we shall call the density of equilibrium or the cosmic density, for which the two forces will be in equilibrium.
+
+These elementary considerations permit recognition, in a result which calculation gives and which is contained in Friedmann's equation:
+
+( dR)2 2M R2
+dt =-i+ if+;P'
+
+The last term represents cosmic repulsion (it is double the function of the forces of this repulsion). T is a constant depending on the value ofthe cosmological constant and able to replace this. The next-to-iast term is double the potential of attraction due to the interior mass. The radius of space R is the distance from the origin of a point of angular distance (] =i. if one multiplied the equation by ~, one would have the<. corresponding equation for a point at any distance.
+
+That which is remarkable in Friedmann's equation is the first term -i. The elementary considerations which we have just advanced would allow us to assign it a value which is more or less constant; it is the constant of . energy in the motion which takes place under the action of two forces. The complete theory determines this constant and thus links the geometric properties to the dynamic properties.
+
+
+
+## Einstein's Equilibrium
 
 
 SINCE BY VIRTUE OF EQUATIONS, the radius R is set constant, the state of the universe in equilibrium, or Einstein's universe, is obtained. The conditions of the universe in equilibrium are easily deduced from Friedmann's equation:
@@ -80,20 +104,28 @@ The proper velocity of the cloud so formed will hence be determined by the veloc
 The proper velocity must have been the proper velocity of all the nebulae at the moment of passage through equilibrium. For isolated nebulae, this velocity has been reduced to about one-twelfth, as a result of expansion, by the same mechanism which we have explained with reference to the formation of gaseous clouds.
 
 
-
-THE FORMATiON OF STARS
+## The Formation Of Stars
 
 The density of the clouds is, on the average, the density of equilibrium 10(27). For this density of distribution, a mass such as the Sun would occupy a sphere of one hundred light-years in radius. These clouds have no tendency to contract. in order that a contraction due to gravitation can be initiated, their density must be notably increased. This is what can occur if two clouds happen to collide with great velocities. Then the collision will be an inelastic collision, giving rise to ionization and emission of radiation. The two clouds will flatten one another out, while remaining in contact, the density will be easily doubled and condensation will be definitely initiated. It is clear that a solar system or a simple or multiple star may arise from such a condensation, through known mechanisms. That which characterizes the mechanism to which we are led is the greatness of the dimensions of the gaseous clouds, the condensation of which will form a star. This circumstance takes account of the magnitude of the angular momentum, which is conserved during the condensation and whose value could only be nil or negligible if the initial circumstances were adjusted in a wholly improbable manner. The least initial rotation must give rise to an energetic rotation in a concentrated system, a rotation incompatible with the presence of a single body but assuming either multiple stars turning around one another or, simply, one star with one or several large planets turning in the same direction.
 
  
+## The Distribution Of Densities Of Nebulae
 
-THE DiSTRiBUTiON OF DENSiTiES OF NEBULAE
+Here is the manner in which we can picture for ourselves the evolution of the regions of condensation. The clouds begin by falling toward the center, and by describing a motion of oscillation following a diameter from one part and another of the center. in the course of these oscillations, they will encounter one another with velocities of several hundreds of kilometers per second and will give rise to stars. 
 
-Here is the manner in which we can picture for ourselves the evolution of the regions of condensation. The clouds begin by falling toward the center, and by describing a motion of oscillation following a diameter from one part and another of the center. in the course of these oscillations, they will encounter one another with velocities of several hundreds of kilometers per second and will give rise to stars. At the same time, the loss of energy due to these inelastic collisions will modify the distribution of the clouds and stars already formed in such a manner that the system will be further condensed. it seems likely that this phenomenon could be submitted to mathematical analysis. Certain hypotheses will naturally have to be introduced, in such a way as to simplify the model, so as to render the calculation possible and also so as artificially to eliminate secondary phenomena. There is scarcely any doubt that there is a way of thus obtaining the law of final distribution of the stars formed by the mechanism described above. Since the distribution of brilliance is known for the elliptical nebulae and from that one can deduce the densities in these nebulae, one sees that such a calculation is susceptible of leading to a decisive verification of the theory.
+At the same time, the loss of energy due to these inelastic collisions will modify the distribution of the clouds and stars already formed in such a manner that the system will be further condensed. it seems likely that this phenomenon could be submitted to mathematical analysis. 
+
+Certain hypotheses will naturally have to be introduced, in such a way as to simplify the model, so as to render the calculation possible and also so as artificially to eliminate secondary phenomena. There is scarcely any doubt that there is a way of thus obtaining the law of final distribution of the stars formed by the mechanism described above. Since the distribution of brilliance is known for the elliptical nebulae and from that one can deduce the densities in these nebulae, one sees that such a calculation is susceptible of leading to a decisive verification of the theory.
 
 One of the complications to which i alluded, a moment ago, is the eventual presence of a considerable angular momentum. in excluding it, we have restricted the theory to condensations respecting spherical symmetry, that is, nebulae which are spherical or slightly elliptical. it is easy to see what modification will bring about the presence of considerable angular momentum. it is evident that one will obtain, in addition to a central region analogous to the elliptical nebulae, a flat system analogous to the ring of Saturn or the planetary systems, in other words, something resembling the spiral nebulae. in this theory, the spiral or elliptical character of the nebula is a matter of chance; it depends on the fortuitous value of the angul~ momentum in the region of condensation. it can no longer be a question of the evolution of one type into another. Moreover, the same thing obtains for stars where the type of the star is determined by the accidental value of its mass, that is, of the sum of the masses of the clouds whose encounter produced the star.
 
 
-DiSTRiBUTiON OF SUPERGiANT STARS
+## Distribution Of Supergiant Stars
 
-if the spirals have this origin, it must follow that the stars are formed by an encounter of clouds in two very distinct processes. in the first place, and especially in the central region, the clouds encounter one another in their radial movement, and this is the phenomenon which we have invoked for the elliptical nebulae. Kapteyn's preferential motion may be an indication of it. But besides this relatively rapid process, there must be a slower process of star formation, beginning with the clouds which escaped from the central region as a result of their angular momentum. These will encounter one another in a to-and-fro motion, from one side to another of the plane of the spiral. The existence of th.ese two processes, with different ages, is perhaps the explanation of the fact that supergiant stars are not found in the elliptical nebulae or in the nucleus of spirals, but that one observes them only in the exterior region of the spirals. in fact, it is known that the stars radiate energy which comes from the transformation of their hydrogen into helium. The supergiant stars radiate so much energy that they could only maintain this output during a hundred million years. it should be understood, thus, that, for the oldest stars, the supergiants may be extinct for lack of fuel, whereas they still shine where they have been recently formed.
+if the spirals have this origin, it must follow that the stars are formed by an encounter of clouds in two very distinct processes. in the first place, and especially in the central region, the clouds encounter one another in their radial movement, and this is the phenomenon which we have invoked for the elliptical nebulae. Kapteyn's preferential motion may be an indication of it. 
+
+But besides this relatively rapid process, there must be a slower process of star formation, beginning with the clouds which escaped from the central region as a result of their angular momentum. These will encounter one another in a to-and-fro motion, from one side to another of the plane of the spiral.
+
+The existence of th.ese two processes, with different ages, is perhaps the explanation of the fact that supergiant stars are not found in the elliptical nebulae or in the nucleus of spirals, but that one observes them only in the exterior region of the spirals. in fact, it is known that the stars radiate energy which comes from the transformation of their hydrogen into helium. 
+
+The supergiant stars radiate so much energy that they could only maintain this output during a hundred million years. it should be understood, thus, that, for the oldest stars, the supergiants may be extinct for lack of fuel, whereas they still shine where they have been recently formed.
