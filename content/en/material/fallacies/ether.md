@@ -62,7 +62,7 @@ So Einstein's abstract mind chose observable Electromagnetism, which is 1st Elem
 
 It is the aether that is the big boss of reality. This is why aethereal mentality creates material reality. 
 
-{{< q a="Hume" c="Treatise of Human Nature, Book 1, Part 2, Section 2" >}}
+{{< q a="David Hume" c="Treatise of Human Nature, Book 1, Part 2, Section 2" >}}
 It is an established maxim in metaphysics, that whatever the mind clearly conceives, includes the idea of possible existence.
 {{< /q  >}}
 

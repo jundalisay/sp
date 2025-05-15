@@ -18,7 +18,7 @@ In the 19th century, the speed of light was discovered to be constant and the sa
 When applied to space, this meant that space was flexible and not fixed. 
 - This led to the idea of length contraction wherein bodies changed their length depending on their speed. 
 
-{{< q a="Lorentz" c="The Relative Motion of the Earth and the Aether" >}}
+{{< q a="Hendrik Lorentz" c="The Relative Motion of the Earth and the Aether" >}}
 It assumes that the line joining 2 points of a solid body does not conserve its length
 {{< /q >}}
 

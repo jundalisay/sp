@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 1. The grounds on which the existence of material things may be known with certainty.
+## 1. The grounds on which the existence of material things may be known with certainty.
 
 What is the certainty of the existence of material things?
 
@@ -44,7 +44,7 @@ It follows that there exists a certain object extended in length, width, and thi
 {{< n n="Descartes defines matter as occupying space, having length, width, thickness or height" >}}
  
 
-#### 2. How we know that the human body is closely connected with the mind
+## 2. How we know that the human body is closely connected with the mind
 
 A certain body is more closely united to our mind than any other. 
 - This is because we clearly observe that sensations affect us without our foreseeing them.
@@ -57,7 +57,7 @@ But this is not the place to treat in detail of this matter.
 
 
 
-#### 3. The perceptions of the senses do not teach us what is in things in reality.
+## 3. The perceptions of the senses do not teach us what is in things in reality.
 
 They teach us what is beneficial or hurtful to the composite whole of mind and body.
 

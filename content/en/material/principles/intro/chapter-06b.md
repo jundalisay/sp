@@ -10,7 +10,10 @@ writer:
 weight: 23
 icon: "Juan"
 toc: false
+aliases:
+  /material/signature
 ---
+
 
 
 <!-- {{< dc t="Principles" >}}

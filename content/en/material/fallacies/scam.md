@@ -190,7 +190,7 @@ The mathematicians of the Berlin school have devoted themselves to constructing 
 
 Math allows people to convert physical perceptions into variables which can then be transposed and manipulated by the whim. 
 
-For example, in this video, Henry claims that he can turn 0.99999 to 1.
+For example, in this video, Derek claims that he can turn 0.99999 to 1.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tRaq4aYPzCc?si=QFlHF0tTDoqlptSW&amp;start=264" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

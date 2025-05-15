@@ -14,7 +14,7 @@ icon: "Rene Descartes"
 
 
 
-#### 1. To seek truth, it is necessary once in life to doubt all things as far as possible.
+## 1. To seek truth, it is necessary once in life to doubt all things as far as possible.
 
 We were children once. 
 - We formed various judgments regarding the objects presented to our senses when our reason was not yet developed.
@@ -23,13 +23,13 @@ Numerous prejudices stand in the way of our knowledge of truth.
 - We can only get rid of these if we, once in our lifetime, doubt all those things in which we suspect any uncertainty.
 
 
-#### 2. All that is doubtful should be considered false.
+## 2. All that is doubtful should be considered false.
 
 All the things that we are able to doubt should be also considered false. 
 - In this way, we can discover with greater clearness what has most certainty and is the easiest to know.
 
 
-#### 3. But we should not use doubt in the conduct of life.
+## 3. But we should not use doubt in the conduct of life.
 
 We will use this general doubt only while engaged in the contemplation of truth. During the conduct of life, we frequently must follow opinions merely probable.
 
@@ -37,7 +37,7 @@ Two courses of action may both have doubtful probability.
  <!-- in the one than in the other, to choose one or other, seeing the opportunity of acting would not unfrequently pass away before we could free ourselves from our doubts. -->
 
 
-#### 4. Why we may doubt of sensible things
+## 4. Why we may doubt of sensible things
 
 <!-- Accordingly, since we now only design to apply ourselves to the investigation of truth, ,  -->
 
@@ -52,7 +52,7 @@ We can doubt whether the following really exist:
 <!-- Those whoAnd to one who has thus resolved upon a general doubt, there appear no marks by which he can with certainty  -->
 
  
-#### 5. Why we may also doubt mathematical demonstrations
+## 5. Why we may also doubt mathematical demonstrations
 
 We will also doubt of the other things we have before held as most certain, even of:
 - the demonstrations of mathematics, and
@@ -74,7 +74,7 @@ If we an all-powerful God is not the author of our being, then we exist of ourse
 If our author is less powerful, then we have more reason to believe that we are not so perfect and that we are continuously deceived.
 
 
-#### 6. Our free will helps us avoid error
+## 6. Our free will helps us avoid error
 
 <!-- We possess a free-will, by which we can withhold our assent from what is doubtful, and thus avoid error. -->
 
@@ -85,7 +85,7 @@ We are conscious of a freedom. This:
 - guards against us being deceived.
 
 
-#### 7. We cannot doubt of our existence while we doubt. 
+## 7. We cannot doubt of our existence while we doubt. 
 
 This is the first knowledge we acquire when we philosophize in order.
 
@@ -101,7 +101,7 @@ What thinks exists at the very time when it thinks.
 Accordingly, the knowledge, I THINK, THEREFORE I AM, is the first and most certain that occurs to one who philosophizes orderly.
 
 
-#### 8. We hence discover the distinction between:
+## 8. We hence discover the distinction between:
 - the mind and the body, or
 - a thinking and corporeal thing.
 

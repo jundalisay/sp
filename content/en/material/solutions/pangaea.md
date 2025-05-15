@@ -1,8 +1,8 @@
 ---
 title: "Cartesian Plate Tectonics: Pangaea and the Moon"
 date: 2024-03-28
-image: /graphics/physics/fresnel.jpg
-description: "We use Poincare's Law of Relativity to replace Einstein's Relativity"
+image: /graphics/physics/mountain.jpg
+description: "Descartes discussed plate tectonics mixed in Part 4 of Principia Philosophia between Articles 57-74"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,6 +13,9 @@ weight: 24
 
 
 Rene Descartes discussed plate tectonics mixed in Part 4 of Principia Philosophia between Articles 57-74. He explains that the current outward form of the Earth arose from the crust falling into place after its mantle hardened. 
+
+![The World](/graphics/physics/mountain.jpg)
+
 
 We use his concepts to explain how the moon formed, as well as the current continental plates of the Earth, from a single impact event. 
 
