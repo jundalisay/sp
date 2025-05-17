@@ -9,12 +9,7 @@ c: "darkgoldenrod"
 
 
 {{< l a="Salviati" >}}
-We have the straight line, then, as determining the distance between the two points.
-We now add another straight line parallel to AB -- let it be CD -- so that between them there
-lies a surface of which I want you to show the breadth. (Fig. 2) Therefore starting from point
-A, tell me how and which way you will go, stopping on the line CD, so as to show me the
-breadth included between those lines. Would you determine it according to the measure of the
-curve AF, or the straight line AF, or. . . ?
+We have the straight line, then, as determining the distance between the two points. We now add another straight line parallel to AB -- let it be CD -- so that between them there lies a surface of which I want you to show the breadth. (Fig. 2) Therefore starting from point A, tell me how and which way you will go, stopping on the line CD, so as to show me the breadth included between those lines. Would you determine it according to the measure of the curve AF, or the straight line AF, or. . . ?
 {{< /l >}}
 
 
@@ -28,14 +23,7 @@ But I should take neither of them, seeing that the straight line AF runs oblique
 
 
 {{< l a="Salviati" >}}
-Your choice and the reason you adduce for it seem to me most excellent. So now we
-have it that the first dimension is determined by a straight line; the second (namely, breadth)
-by another straight line, and not only straight, but at right angles to that which determines the
-length. Thus we have defined the two dimensions of a surface; that is, length and breadth.
-But suppose you had to determine a height -- for example, how high this platform is from the
-pavement down below there. Seeing that from any point in the platform we may draw infinite
-lines, curved or straight, and all of different lengths, to the infinite points of the pavement
-below, which of all these lines would you make use of?
+Your choice and the reason you adduce for it seem to me most excellent. So now we have it that the first dimension is determined by a straight line; the second (namely, breadth) by another straight line, and not only straight, but at right angles to that which determines the length. Thus we have defined the two dimensions of a surface; that is, length and breadth. But suppose you had to determine a height -- for example, how high this platform is from the pavement down below there. Seeing that from any point in the platform we may draw infinite lines, curved or straight, and all of different lengths, to the infinite points of the pavement below, which of all these lines would you make use of? 
 {{< /l >}}
 
 
@@ -45,34 +33,29 @@ straightest and shortest of all the lines that could possibly be drawn from the 
 pavement, I should say that it was the true height in this case.
 
 
-SALV. Very good. And if, from the point on the pavement indicated by this hanging string
-(taking the pavement to be level and not inclined), you should produce two other straight lines,
-one for the length and the other for the breadth of the surface of the pavement, what angles
-would they make with the thread?
+{{< l a="Salviati" >}}
+If, from the point on the pavement indicated by this hanging string (taking the pavement to be level and not inclined), you should produce two other straight lines, one for the length and the other for the breadth of the surface of the pavement, what angles would they make with the thread?
+{{< /l >}}
+
 
 SAGR. They would surely meet at right angles, since the string falls perpendicularly and the
 pavement is quite flat and level.
 
 {{< l a="Salviati" >}}
-Therefore if you assign any point for the point of origin of your measurements, and
-from that produce a straight line as the determinant of the first measurement (that is, of the
-length) it will necessarily follow that the one which is to define the breadth leaves the first at a
-right angle. That which is to denote the altitude, which is the third dimension, going out from
-the same point, also forms right angles and not oblique angles with the other two. And thus by
-three perpendiculars you will have determined the three dimensions AB length, AC breadth,
-and AD height, by three unique, definite, and shortest lines. (Fig. 3) And since clearly no more
-lines can meet in the said point to make right angles with them, and the dimensions must be
-determined by the only straight lines which make right angles with each other, then the
-dimensions are no more than three; and whatever has the three has all of them, and that which
-has all of them is divisible in every way, and that which is so, is perfect, etc.
+Therefore if you assign any point for the point of origin of your measurements, and from that produce a straight line as the determinant of the first measurement (that is, of the length) it will necessarily follow that the one which is to define the breadth leaves the first at a right angle. That which is to denote the altitude, which is the third dimension, going out from the same point, also forms right angles and not oblique angles with the other two.
+
+Thus by three perpendiculars you will have determined the three dimensions AB length, AC breadth, and AD height, by three unique, definite, and shortest lines. (Fig. 3) And since clearly no more lines can meet in the said point to make right angles with them, and the dimensions must be determined by the only straight lines which make right angles with each other, then the dimensions are no more than three; and whatever has the three has all of them, and that which has all of them is divisible in every way, and that which is so, is perfect, etc.
 {{< /l >}}
 
 
 SIMP. Who says that I cannot draw other lines? Why may I not bring another line from
 beneath to the point A, which will be perpendicular to the rest?
 
-SALV. Surely you cannot make more than three straight lines meet in the same point and form
-right angles with each other!
+
+{{< l a="Salviati" >}}
+Surely you cannot make more than three straight lines meet in the same point and form right angles with each other!
+{{< /l >}}
+
 
 SAGR. Yes, because it seems to me that what Simphcio means would be the same DA
 prolonged downward. In that way there might also be drawn two others; but they would be the
@@ -86,49 +69,26 @@ to use it? But it would be good to spend no more words on this point, for I thin
 will have conceded both to Aristotle and to you, without further demonstration, that the world
 is a body, and perfect; yea, most perfect, being the chief work of God.
 
-SALV. Exactly so. Therefore leaving the general contemplation of the whole, let us get to the
-consideration of the pans. Aristotle in his first division separates the whole into two differing
-and, in a way, contrary parts: namely, the celestial and the elemental, the former being
-ingenerable, incorruptible, inalterable, impenetrable, etc.; the latter being exposed to continual
-alteration, mutation, etc. He takes this difference from the diversity of local motions as his
-original principle. With this step he proceeds.
 
-Leaving, so to speak, the sensible world and retiring into the ideal world, he begins
-architectonically to consider that, nature being the principle of motion, it is appropriate that
-natural bodies should be endowed with local motion. He then declares local motions to be of
-three kinds: namely, circular, straight, and mixed straight-and-circular. The first two he calls
-simple, because of all lines only the circular and the straight are simple. Hereupon, restricting
-himself somewhat, he newly defines among the simple motions one, the circular, to be that
-which is made around the center; and the other, the straight, to be upward and downward --
-upward, that which goes from the center; and downward, whatever goes toward the center.
-And from this he infers it to be necessary and proper that all simple motions are confined to
-these three kinds; namely, toward the center, away from the center, and around the center. This
-answers, he says, with a certain beautiful harmony to what has been said previously about the
-body; it is perfect in three things, and its motion is likewise.
+{{< l a="Salviati" >}}
+Exactly. Therefore leaving the general contemplation of the whole, let us get to the consideration of the pans. Aristotle in his first division separates the whole into two differing and, in a way, contrary parts: namely, the celestial and the elemental, the former being ingenerable, incorruptible, inalterable, impenetrable, etc.; the latter being exposed to continual alteration, mutation, etc.
 
-These motions being established, he goes on to say that some natural bodies being simple, and
-others composites of those (and he calls those bodies simple which have a natural principle of
-motion, such as fire and earth), it is proper that simple motions should be those of simple
-bodies, and that mixed motions should belong to compound bodies; in such a way, moreover,
-that compounds take the motion of that part which predominates in their composition.
-SAGR. Wait awhile, Salviati, for in this argument I find so many doubts assailing me on all
-sides that I shall either have to tell them to you if I want to pay attention to what you are going
-to say, or withhold my attention in order to remember my doubts.
-SALV. I shall willingly pause, for I run the same risk too, and am on the verge of getting
+He takes this difference from the diversity of local motions as his original principle. With this step he proceeds.
+
+Leaving, so to speak, the sensible world and retiring into the ideal world, he begins architectonically to consider that, nature being the principle of motion, it is appropriate that natural bodies should be endowed with local motion. He then declares local motions to be of three kinds: namely, circular, straight, and mixed straight-and-circular. The first two he calls simple, because of all lines only the circular and the straight are simple. Hereupon, restricting himself somewhat, he newly defines among the simple motions one, the circular, to be that which is made around the center; and the other, the straight, to be upward and downward -- upward, that which goes from the center; and downward, whatever goes toward the center. And from this he infers it to be necessary and proper that all simple motions are confined to these three kinds; namely, toward the center, away from the center, and around the center. This answers, he says, with a certain beautiful harmony to what has been said previously about the body; it is perfect in three things, and its motion is likewise.
+
+These motions being established, he goes on to say that some natural bodies being simple, and others composites of those (and he calls those bodies simple which have a natural principle of motion, such as fire and earth), it is proper that simple motions should be those of simple bodies, and that mixed motions should belong to compound bodies; in such a way, moreover, that compounds take the motion of that part which predominates in their composition. SAGR. Wait awhile, Salviati, for in this argument I find so many doubts assailing me on all sides that I shall either have to tell them to you if I want to pay attention to what you are going to say, or withhold my attention in order to remember my doubts.
+
+
+I shall willingly pause, for I run the same risk too, and am on the verge of getting
 shipwrecked. At present I sail between rocks and boisterous waves that are making me lose my
 bearings, as they say. Therefore, before I multiply your difficulties, propound them.
+
 [Discussion of earth's place in the solar system:]
 
-SALV. I see we are once more going to engulf ourselves in a boundless sea from which there
-is no getting out, ever. This is navigating without compass, stars, oars, or rudder, in which we
-must needs either pass from bank to bank or run aground, or sail forever lost. If, as you
-suggested, we are to get on with our main subject, it is necessary for the present to put aside
-the general question whether straight motion is necessary in nature and is proper to some
-bodies, and proceed to demonstrations, observations, and particular experiments. First we must
-propound all those that have been put forward to prove the earth's stability by Aristotle,
-Ptolemy, and others, trying next to resolve them. Finally we must produce those by which a
-person may become persuaded that the earth, no less than the moon or any other planet, is to
-be numbered among the natural bodies that move circularly.
+I see we are once more going to engulf ourselves in a boundless sea from which there is no getting out, ever. This is navigating without compass, stars, oars, or rudder, in which we must needs either pass from bank to bank or run aground, or sail forever lost. If, as you suggested, we are to get on with our main subject, it is necessary for the present to put aside the general question whether straight motion is necessary in nature and is proper to some bodies, and proceed to demonstrations, observations, and particular experiments. First we must propound all those that have been put forward to prove the earth's stability by Aristotle, Ptolemy, and others, trying next to resolve them. Finally we must produce those by which a person may become persuaded that the earth, no less than the moon or any other planet, is to be numbered among the natural bodies that move circularly.
+{{< /l >}}
+
 
 SAGR. I submit to the latter more willingly, as I am better satisfied with your architectonic
 and general discourse than with that of Aristotle. For yours satisfies me without the least
@@ -137,7 +97,9 @@ should not be quickly satisfied with the argument you put forward to prove that 
 straight line can have no place in nature, so long as we suppose the parts of the universe to be
 disposed in the best arrangement and perfectly ordered.
 
-SALV. Stop there, Sagredo. for now a way occurs to me in which Simplicio may be given
+
+{{< l a="Salviati" >}}
+Stop there, Sagredo. for now a way occurs to me in which Simplicio may be given
 satisfaction, provided only that he does not wish to stay so closely tied to every phrase of
 Aristotle's as to hold it sacrilege to depart from a single one of them.
 There is no doubt that to maintain the optimum placement and perfect order of the parts of the
@@ -145,7 +107,6 @@ universe as to local situation, nothing will do but circular motion or rest. As 
 straight line, I do not see how it can be of use for anything except to restore to their natural
 location such integral bodies as have been accidentally removed and separated from their
 whole, as we have just said.
-
 
 Let us now consider the whole terrestrial globe, and let us see what can happen to make it and
 the other world bodies keep themselves in the natural and best disposition. One must either say
@@ -183,10 +144,15 @@ only to some of their particles -- and even then only to restore them to perfect
 when they are out of their natural places. On the other hand, they call circular motion (with
 which they are incessantly moved) preternatural to them, forgetting what Aristotle has said
 many times, that nothing violent can last very long.
+{{< /l >}}
+
+
+
 SIMP. To all these things we have the most suitable answers, which I omit for the present in
 order that we may come to the particular reasons and sensible experiments which ought to be
 finally preferred, as Aristotle well says, above anything that can be supplied by human
 argument.
+
 
 SAGR. Then what has been said up to now will serve to place under consideration which of
 two general arguments has the more probability. First there is that of Aristotle, who would
@@ -234,10 +200,14 @@ None of these changes are to be discerned in celestial bodies, whose positions a
 configurations correspond exactly with everything men remember, without the generation of
 anything new there or the corruption of anything old.
 
-SALV. But if you have to content yourself with these visible, or rather these seen experiences,
+
+{{< l a="Salviati" >}}
+But if you have to content yourself with these visible, or rather these seen experiences,
 you must consider China and America celestial bodies, since you surely have never seen in
 them these alterations which you see in Italy. Therefore, in your sense, they must be
 inalterable.
+{{< /l >}}
+
 
 SIMP. Even if I have never seen such alterations in those places with my own senses, there are
 reliable accounts of them; besides which, cum eadem sit ratio totius et partium, those counties
@@ -247,15 +217,17 @@ the tales of others? Why not see it with your own eyes?
 SIMP. Because those countries are far from being exposed to view; they are so distant that our
 sight could not discover such alterations in them.
 
-SALV. Now see for yourself how you have inadvertently revealed the fallacy of your
-argument. You say that alterations which may be seen near at hand on earth cannot be seen in
-America because of the great distance. Well, so much the less could they be seen in the moon,
+
+{{< l a="Salviati" >}}
+You have inadvertently revealed the fallacy of your argument. You say that alterations which may be seen near at hand on earth cannot be seen in America because of the great distance. Well, so much the less could they be seen in the moon,
 which is many hundreds of times more distant. And if you believe in alterations in Mexico on
 the basis of news from there, what reports do you have from the moon to convince you that
 there are no alterations there? From your not seeing alterations in heaven (where if any
 occurred you would not be able to see them by reason of the distance, and from whence no
 news is to be had), you cannot deduce that there are none, in the same way as from seeing and
 recognizing them on earth you correctly deduce that they do exist here.
+{{< /l >}}
+
 
 SIMP. Among the changes that have taken place on earth I can find some so great that if they
 had occurred on the moon they could yen well have been observed here below. From the oldest
@@ -269,17 +241,11 @@ of earth have discovered any such alteration in the moon; yet there is no histor
 being seen. Hence there remains no basis for saying that anything in the heavenly bodies is
 alterable, etc.
 
-SALV. I do not make bold to say that such great changes have taken place in the moon, but
-neither am I sure that they could not have happened. Such a mutation could be represented to
-us only by some variation between the lighter and the darker parts of the moon, and I doubt
-whether we have had observant selenographers on earth who have for any considerable
-number of years provided us with such exact selenography as would make us reasonably
-conclude that no such change has come about in the face of the moon. Of the moon's
-appearance, I find no more exact description than that some say it represents a human face;
-others, that it is like the muzzle of a lion; still others, that it is Cain with a bundle of thorns on
-his back. So to say "Heaven is inalterable, because neither in the moon nor in other celestial
-bodies are such alterations seen as are discovered upon the earth" has no power to prove
-anything.
+
+{{< l a="Salviati" >}}
+I do not make bold to say that such great changes have taken place in the moon, but neither am I sure that they could not have happened. Such a mutation could be represented to us only by some variation between the lighter and the darker parts of the moon, and I doubt whether we have had observant selenographers on earth who have for any considerable number of years provided us with such exact selenography as would make us reasonably conclude that no such change has come about in the face of the moon. Of the moon's appearance, I find no more exact description than that some say it represents a human face; others, that it is like the muzzle of a lion; still others, that it is Cain with a bundle of thorns on his back. So to say "Heaven is inalterable, because neither in the moon nor in other celestial bodies are such alterations seen as are discovered upon the earth" has no power to prove anything.
+{{< /l >}}
+
 
 SAGR. This first argument of Simplicio's leaves me with another haunting doubt which I
 should like to have removed. Accordingly I ask him whether the earth was generable and
@@ -306,13 +272,16 @@ text so that he might not burden the Master and his disciples with a notion even
 than the other. What folly it is to say, "The heavens are inalterable because stars are not
 generated or corrupted in them." Is there perhaps someone who has seen one terrestrial globe
 decay and another regenerated in its place? Is it not accepted by all philosophers that very few
-stars in the heavens are smaller than the earth, while a great many are much bigger? So the
+stars in the heavens are smaller than the earth, while a great many are much bigger? 
+
+So the
 decay of a star in heaven would be no less momentous than for the whole terrestrial globe to
 be destroyed! Now if, in order to be able to introduce generation and corruption into the
 universe with certainty, it is necessary that as vast a body as a star must be corrupted and
 regenerated, then you had better give up the whole matter; for I assure you that you will never
 see the terrestrial globe or any other integral body in the universe so corrupted that, after
 having been seen for many ages past, it dissolves without leaving a trace behind.
+
 SALV. But to give Simplicio more than satisfaction, and to reclaim him if possible from his
 error, I declare that we do have in our age new events and observations such that if Aristotle
 were now alive, I have no doubt he would change his opinion. This is easily inferred from his
@@ -323,18 +292,24 @@ opinion, and properly preferred the sensible experience to natural reason. Unles
 the senses into account, he would not have argued immutability from sensible mutations not
 being seen.
 
+
+
 SIMP. Aristotle first laid the basis of his argument a priori, showing the necessity of the
 inalterability of heaven by means of natural, evident, and clear principles. He afterward
 supported the same a posteriori, by the senses and by the traditions of the ancients.
 SALV. What you refer to is the method he uses in writing his doctrine, but I do not believe it to
 be that with which he investigated it. Rather, I think it certain that he first obtained it by means
 of the senses, experiments, and observations, to assure himself as much as possible of his
-conclusions. Afterward he sought means to make them demonstrable. That is what is done for
+conclusions.
+
+Afterward he sought means to make them demonstrable. That is what is done for
 the most part in the demonstrative sciences; this comes about because when the conclusion is
 true, one may by making use of analytical methods hit upon some proposition which is already
 demonstrated, or arrive at some axiomatic principle; but if the conclusion is false, one can go
 on forever without ever finding any known truth -- if indeed one does not encounter some
-impossibility or manifest absurdity. And you may be sure that Pythagoras, long before he
+impossibility or manifest absurdity. 
+
+And you may be sure that Pythagoras, long before he
 discovered the proof for which he sacrificed a hecatomb, was sure that the square on the side
 opposite the right angle in a right triangle was equal to the squares on the other two sides. The
 certainty of a conclusion assists not a little in the discovery of its proof -- meaning always in
@@ -415,7 +390,9 @@ account for such phenomena, and at the same time to maintain the incorruptibilit
 ingenerability of the heavens. And if this is not enough, there are more brilliant intellects who
 will find better answers.
 
-SALV. If what we are discussing were a point of law or of the humanities, in which neither
+
+{{< l a="Salviati" >}}
+If what we are discussing were a point of law or of the humanities, in which neither
 true nor false exists, one might trust in subtlety of mind and readiness of tongue and in the
 greater experience of the writers, and expect him who excelled in those things to make his
 reasoning most plausible, and one might judge it to be the best. But in the natural sciences,
@@ -430,7 +407,6 @@ explained appears to you to be the correct one, it follows that all the rest are
 you also from that one -- which is an utterly delusive chimera -- I shall, disregarding the many
 improbabilities in it, convey to you but two observed facts against it.
 
-
 One is that many of these spots are seen to originate in the middle of the solar disc, and
 likewise many dissolve and vanish far from the edge of the sun, a necessary argument that they
 must be generated and dissolved. For without generation and corruption, they could appear
@@ -443,8 +419,7 @@ proves this by appearing to be very slow around the edge of the solar disc, and 
 toward its center; the shapes of the spots prove the same by appearing very narrow around the
 sun's edge in comparison with how they look in the vicinity of the center. 
 
-For around the
-center they are seen in their majesty and as they really are; but around the edge, because of the
+For around the center they are seen in their majesty and as they really are; but around the edge, because of the
 curvature of the spherical surface, they show themselves foreshortened. These diminutions of
 both motion and shape, for anyone who knows how to observe them and calculate diligently,
 correspond exactly to what ought to appear if the spots are contiguous to the sun, and
@@ -467,6 +442,9 @@ foreshorten, this being a necessary proof of their contiguity to the sun. The tr
 same spots returning is merely what is written in the said Letters; namely, that some of them
 are occasionally of such long duration that they do not disappear in a single revolution around
 the sun, which takes place in less than a month.
+{{< /l >}}
+
+
 
 SIMP. To tell the truth, I have not made such long and careful observations that I can qualify
 as an authority on the facts of this matter; but certainly I wish to do so, and then to see whether
@@ -485,7 +463,9 @@ Does he not also declare that what sensible experience shows ought to be preferr
 
 SIMP. He does.
 
-SALV. Then of the two propositions, both of them Aristotelian doctrines, the second -- which
+
+{{< l a="Salviati" >}}
+Then of the two propositions, both of them Aristotelian doctrines, the second -- which
 says it is necessary to prefer the senses over arguments -- is a more solid and definite doctrine
 than the other, which holds the heavens to be inalterable. Therefore it is better Aristotelian
 philosophy to say "Heaven is alterable because my senses tell me so," than to say, "Heaven is
@@ -498,6 +478,8 @@ thirty or forty times closer to us than they were to Aristotle, so that we can d
 things in them that he could not see; among other things these sunspots, which were absolutely
 invisible to him. Therefore we can treat of the heavens and the sun more confidently than
 Aristotle could.
+{{< /l >}}
+
 
 SAGR. I can put myself in Simplicios place and see that he is deeply moved by the
 overwhelming force of these conclusive arguments. But seeing on the other hand the great
@@ -508,7 +490,9 @@ Simplicio is confused and perplexed, and I seem to hear him say, "Who would ther
 settle our controversies if Aristotle were to be deposed? What other author should we follow in
 the schools, the academies, the universities? What philosopher has written the whole of natural
 philosophy, so well arranged, without omitting a single conclusion? Ought we to desert that
-structure under which so many travelers have recuperated? Should we destroy that haven, that
+structure under which so many travelers have recuperated?
+
+Should we destroy that haven, that
 Prytaneum (note: Greek public hall where statesmen, heroes, and dignitaries were honored and entertained.)
 where so many scholars have taken refuge so comfortably; where, without exposing
 themselves to the inclemencies of the air, they can acquire a complete knowledge of the
@@ -523,7 +507,9 @@ fall, which sustain the superb galleries, or the gilded beams; or the doors spoi
 pediments and the marble cornices, brought in at so much cost -- should attempt, I say, to
 prevent the collapse with chains, props, iron bars, buttresses, and shores.
 
-SALV. Well, Simplicio need not yet fear any such collapse; I undertake to insure him against
+
+{{< l a="Salviati" >}}
+Simplicio need not yet fear any such collapse; I undertake to insure him against
 damage at a much smaller cost. There is no danger that such a multitude of great, subtle, and
 wise philosophers will allow themselves to be overcome by one or two who bluster a bit.
 Rather, without even directing their pens against them, by means of silence alone, they place
@@ -532,14 +518,16 @@ philosophy by refining this or that author, It is necessary first to teach the r
 mind and to render it capable of distinguishing truth from falsehood, which only God can do.
 But where have we strayed, going from one argument to another? I shall not be able to get
 back to the path without guidance from your memory.
+{{< /l >}}
+
 
 SIMP. I remember quite well. We were dealing with the reply of the Anti-Tycho to the
 objections against the immutability of the heavens. Among these you brought in this matter of
 the sunspots, not mentioned by its author, and I believe you wished to give consideration to his
 reply in the case of the new stars.
 
-SALV. Now I remember the rest. Continuing this subject, it seems to me that in the counter
-argument of the Anti-Tycho there are some things that ought to be criticized. First of all, if the
+{{< l a="Salviati" >}}
+In the counter argument of the Anti-Tycho there are some things that ought to be criticized. First of all, if the
 two new stars, which that author can do no less than place in the highest regions of heaven,
 and which existed a long time and finally vanished, caused him no anxiety about insisting
 upon the inalterability of heaven simply because they were not unquestionably parts of heaven
@@ -568,6 +556,8 @@ so great that nothing of comparable size has ever occurred on earth. And if the 
 corruptions occurring on the very globe of the sun are so many, so great, and so frequent,
 while this can reasonably be called the noblest part of the heavens, then what argument
 remains that can dissuade us from believing that others take place on the other globes?
+{{< /l >}}
+
 
 SAGR. I cannot without great astonishment -- I might say without great insult to my
 intelligence -- hear it attributed as a prime perfection and nobility of the natural and integral
@@ -800,25 +790,12 @@ SIMP. Either the oracle or Socrates himself was a liar, the former declaring him
 
 
 {{< l a="Salviati" >}}
-SALV. Neither of your alternatives follows, since both pronouncements can be true. The oracle
-judges Socrates wisest above all other men, whose wisdom is limited; Socrates recognizes his
-knowing nothing relative to absolute wisdom which is infinite. And since much is the same
-part of infinite as little, or as nothing (for to arrive at an infinite number it makes no difference
-whether we accumulate thousands, tens, or zeros), Socrates did well to recognize his limited
-knowledge to be as nothing to the infinity which he lacked. But since there is nevertheless
-some knowledge to be found among men, and this is not equally distributed to all, Socrates
-could have had a larger share than others and thus have verified the response of the oracle.
-SAGR. I think I understand this point quite well. Among men there exists the power to act,
-Simplicio, but it is not equally shared by all; and no doubt the power of an emperor is greater
-than that of a private person, but both are nil in comparison to Divine omnipotence. Among
-men there are some who understand agriculture better than others; but what has knowing how
-to plant a grapevine in a ditch got to do with knowing how to make it take root, draw
-nourishment, take from this some part good for building leaves, some other for forming
-tendrils, this for the bunches, that for the grapes, the other for the skins, all this being the work
-of most wise Nature? This is one single particular example of the innumerable works of
-Nature, and in this alone may be recognized an infinite wisdom; hence one may conclude that
-Divine wisdom is infinitely infinite.
+Neither of your alternatives follows, since both pronouncements can be true. The oracle judges Socrates wisest above all other men, whose wisdom is limited; Socrates recognizes his knowing nothing relative to absolute wisdom which is infinite. And since much is the same part of infinite as little, or as nothing (for to arrive at an infinite number it makes no difference whether we accumulate thousands, tens, or zeros), Socrates did well to recognize his limited knowledge to be as nothing to the infinity which he lacked. But since there is nevertheless some knowledge to be found among men, and this is not equally distributed to all, Socrates could have had a larger share than others and thus have verified the response of the oracle. 
 {{< /l >}}
+
+
+SAGR. I think I understand this point quite well. Among men there exists the power to act, Simplicio, but it is not equally shared by all; and no doubt the power of an emperor is greater than that of a private person, but both are nil in comparison to Divine omnipotence. Among men there are some who understand agriculture better than others; but what has knowing how to plant a grapevine in a ditch got to do with knowing how to make it take root, draw nourishment, take from this some part good for building leaves, some other for forming tendrils, this for the bunches, that for the grapes, the other for the skins, all this being the work of most wise Nature? This is one single particular example of the innumerable works of Nature, and in this alone may be recognized an infinite wisdom; hence one may conclude that Divine wisdom is infinitely infinite.
+
 
 
 {{< l a="Salviati" >}}
@@ -870,7 +847,9 @@ Simplicio, whether your suspicion does not arise from your having taken my words
 equivocally. So in order to explain myself better, I say that as to the truth of the knowledge
 which is given by mathematical proofs, this is the same that Divine wisdom recognizes; but I
 shall concede to you indeed that the way in which God knows the infinite propositions of
-which we know some few is exceedingly more excellent than ours. Our method proceeds with
+which we know some few is exceedingly more excellent than ours. 
+
+Our method proceeds with
 reasoning by steps from one conclusion to another, while His is one of simple intuition. We,
 for example, in order to win a knowledge of some properties of the circle (which has an
 infinity of them), begin with one of the simplest, and, taking this for the definition of circle,
@@ -878,14 +857,18 @@ proceed by reasoning to another property, and from this to a third, and then a f
 but the Divine intellect, by a simple apprehension of the circle's essence, knows without
 time‹consuming reasoning all the infinity of its properties. Next, all these properties are in
 effect virtually included in the definitions of all things; and ultimately, through being infinite,
-are perhaps but one in their essence and in the Divine mind. Nor is all the above entirely
+are perhaps but one in their essence and in the Divine mind. 
+
+Nor is all the above entirely
 unknown to the human mind either, but it is clouded with deep and thick mists, which become
 partly dispersed and clarified when we master some conclusions and get them so firmly
 established and so readily in our possession that we can run over them very rapidly. For, after
 all, what more is there to the square on the hypotenuse being equal to the squares on the other
 two sides, than the equality of two parallelograms on equal bases and between parallel lines?
 And is this not ultimately the same as the equality of two surfaces which when superimposed
-are not increased, but are enclosed within the same boundaries? Now these advances, which
+are not increased, but are enclosed within the same boundaries? 
+
+These advances, which
 our intellect makes laboriously and step by step, run through the Divine mind like light in an
 instant; which is the same as saying that everything is always present to it.
 I conclude from this that our understanding, as well in the manner as in the number of things
@@ -893,6 +876,9 @@ understood, is infinitely surpassed by the Divine; but I do not thereby abase it
 consider it absolutely null. No, when I consider what marvelous things and how many of them
 men have understood, inquired into, and contrived, I recognize and understand only too clearly
 that the human mind is a work of God's, and one of the most excellent.
+{{< /l >}}
+
+
 SAGR. I myself have many times considered in the same vein what you are now saying, and
 how great may be the acuteness of the human mind. And when I run over the many and
 marvelous inventions men have discovered in the arts as in letters, and then reflect upon my
@@ -908,13 +894,16 @@ them for the wonderful delight of the ear, when shall T be able to cease my amaz
 shall I say of so many and such diverse instruments? With what admiration the reading of
 excellent poets fills anyone who attentively studies the invention and interpretation of concepts
 And what shall I say of architecture? What of the art of navigation?
+
+
 But surpassing all stupendous inventions, what sublimity of mind was his who dreamed of
 finding means to communicate his deepest thoughts to any other person, though distant by
 mighty intervals of place and time! Of talking with those who are in India; of speaking to
 those who are not yet born and will not he born for a thousand or ten thousand years; and with
 what facility, by the different arrangements of twenty characters upon a page!
+
 Let this be the seal of all the admirable inventions of mankind and the close of our discussions
 for this day. The honest hours now being past, I think that Salviati might like to enjoy our cool
 ones in a gondola; and tomorrow I shall expect you both so that we may continue the
 discussions now begun.
-{{< /l >}}
+
