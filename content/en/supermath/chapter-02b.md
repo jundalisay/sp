@@ -1,6 +1,16 @@
+---
+title: "Base 6 Constants and Chemistry"
+date: 2025-03-18
+image: "/graphics/super/vortex.jpg"
+description: "Vortex numbers are base-5 instances that can make geometry easier and less irrational"
+weight: 6
+---
+
+
 ## Constants
 
-Constants are fixed ratios in our current universe.
+Constants are fixed ratios in our current universe. A base-6 system will make them better fit with each other just as a jigsaw puzzle made of squares will make a more fitting puzzle than one of pentagons or octagons.
+
 
 Constant | Value Base 6 | Value Base 10
 --- | --- | --- 
