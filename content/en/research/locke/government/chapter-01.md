@@ -1,16 +1,12 @@
+---
+heading: Chapter 1
+title: "Search"
+# date: 2025-05-16
+weight: 26
+description: ""
+c: "mediumblue"
+---
 
-
-TWO TREATISES OF GOVERNMENT
-
-LONDON PRINTED MDCLXXXVIII
-
-REPRINTED, THE SIXTH TIME, BY A. MILLAR, H. WOODFALL, 1. WHISTON AND B. WHITE, 1. RIVINGTON, L. DAVIS AND C. REYMERS, R. BALDWIN, HAWES CLARKE AND COLLINS; W. IOHNSTON, W. OWEN, 1. RICHARDSON, S. CROWDER, T. LONGMAN, B. LAW, C. RIVINGTON, E. DILLY, R. WITHY, C. AND R. WARE, S. BAKER, T. PAYNE, A. SHUCKBURGH, 1. HINXMAN
-
-MDCCLXIII
-
-TWO TREATISES OF GOVERNMENT. IN THE FORMER THE FALSE PRINCIPLES AND FOUNDATION OF SIR ROBERT FILMER AND HIS FOLLOWERS ARE DETECTED AND OVERTHROWN. THE LATTER IS AN ESSAY CONCERNING THE TRUE ORIGINAL EXTENT AND END OF CIVIL GOVERNMENT.
-
-1764 EDITOR’S NOTE The present Edition of this Book has not only been collated with the first three Editions, which were published during the Author’s Life, but also has the Advantage of his last Corrections and Improvements, from a Copy delivered by him to Mr. Peter Coste, communicated to the Editor, and now lodged in Christ College, Cambridge.
 
 CHAPTER I.
 CHAPTER II.

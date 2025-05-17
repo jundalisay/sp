@@ -39,8 +39,8 @@ Index Item | Our Comment
 5 points for using a thought experiment that contradicts the results of a widely accepted real experiment | This is fair
 5 points for each word in all capital letters (except for those with defective keyboards) | This is fair
 5 points for each mention of "Einstien", "Hawkins" or "Feynmann" | {{< x v="This is dogmatic, aiming to keep the holiness of those personalities, similar to the 3rd Commandment in the Bible" >}}
-10 points for each claim that quantum mechanics is fundamentally misguided (without good evidence) | {{< x v="This is dogmatic as it decrees that Quantum Mechanics principles are already fully understood yet there is even no quantum computers commercially deployed" >}}
-10 points for pointing out that you have gone to school, as if this were evidence of sanity | {{< x v="This is dogmatic" >}}
+10 points for each claim that quantum mechanics is fundamentally misguided (without good evidence) | {{< x v="This is dogmatic as it decrees that Quantum Mechanics principles are already fully understood yet there is even no quantum computers commercially deployed or any other quantum effect harnessed such as the teleportation of ships" >}}
+10 points for pointing out that you have gone to school, as if this were evidence of sanity | {{< x v="This is absurd as if people who think differently are insane" >}}
 10 points for beginning the description of your theory by saying how long you have been working on it. (10 more for emphasizing that you worked on your own.) | {{< x v="This is absurd as time often correlates to quality" >}}
 10 points for mailing your theory to someone you don't know personally and asking them not to tell anyone else about it, for fear that your ideas will be stolen. | This is fair
 10 points for offering prize money to anyone who proves and/or finds any flaws in your theory. | {{< x v="This is commonly done in software as bug bounty so it is absurd to denigrate it" >}}
@@ -70,7 +70,7 @@ Index Item | Our Comment
 50 points for claiming you have a revolutionary theory but giving no concrete testable predictions | This is fair.
 
 
-## Our Score: 336
+## Our Score: 342
 
 We computed our score based on the items that do not align with our principles.
 
@@ -86,7 +86,7 @@ So we pinned it down to resistance to change, something that is common in the hu
 
 In our case, talking to old physicists made us realize how slow or limited their thinking process and scope was. As if they had no more mental energy nor excitement to go through new ideas. 
 
-Global warming, food insecurity, nuclear radation (from Fukushima and a possible nuclear war), and lack of nuclear fuusion are all glaring signs that Physics has failed to deliver, unlike computing which has brought the internet, mobile devices, and AI. 
+Global warming, food insecurity, nuclear radation (from Fukushima and a possible nuclear war), and lack of nuclear fusion are all glaring signs that Physics has failed to deliver, unlike computing which has brought the internet, mobile devices, and awesome AI. 
 
 Change is inevitable and humans don't want to stay stuck on the Earth forever.
 
@@ -98,4 +98,6 @@ It took over 40 years for Newton's Physics to replace Descartes.
 
 So we assume that it will also take that around that time for people to actually read up on Cartesian Science (which unites Classical Physics with Quantum Mechanics and Medicine, at least).
 
-Only a severe event such as a nuclear war or an asteroid impact would rush the adoption of a new Physics and the discading of the current scam-based one that has Einstein as its Jesus.
+Only a severe event such as a nuclear war or an asteroid impact would rush the adoption of a new Physics and the discarding of the current scam-based one that has Einstein as its Jesus.
+
+Only then will humans free their minds from being told that nothing travels faster than light. When they get rid of this limiting imposition then the reality of the teleportation of masses will be more realizable.
