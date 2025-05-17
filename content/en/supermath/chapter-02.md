@@ -7,23 +7,45 @@ weight: 6
 ---
 
 
+
 A number is an instance of an identity. 
 
 "Instance" is Latin *instantia*, meaning presence. This is consistent with our perception-based Superphysics. 
 
+We use 'vortex' number since in Cartesian Physics, absolutely everything is a spinning vortex. And so each instance automatically has a spin. 
+
+This makes it 'alive' but not expressive. This concept is totally absent in Mathematics which just thinks of instances as dead quantities. 
+
+Dead and Alive are key characteristics of the Physics of Descartes, Spinoza, Berkeley for an infinite living universe with dormant sections:
+
+{{< q a="George Berkeley" >}}
+**No force is immediately perceived by itself.** It is only known and measured by its effects. But the *dead force*, or simple gravitation in a body at rest, produces no observable change and hence no effect. 
+
+But impact does. Therefore, since forces are proportional to their effects, then dead force is null.
+{{< /q >}}
+
+
+
+## Instance of Identity
+
 We can say that:
-- 1 tomato is one instance of a tomato-identity. 
-- 3 tomatoes are 3 instances of the tomato. 
+- 1 potato is one instance of a potato-identity. 
+- 4 potatoes are 4 instances of the potato. 
+
+{{< i s="/photos/objects/potatoes.jpg" a="Potatoes" >}}
 
 Sometimes, numbers are used by themselves without any physical object. 
 
 For example `1 + 1 = 2` uses pure instances. It adds 1 instance to another instance to come up with 2 instances. 
 
-The mind assigs a new identity or name to this "2-instance instance" as the number 2. 
+The mind assigns a new identity or name to this "2-instance instance" as the number 2. 
 
 There are an infinite number of instances, and so the mind would have to assign new identities to each instance, which is then has to remember.
 
-Since the mind's memory capacity is infinite, it groups the identities into repeatable patterns using the same base identities. 
+Since the mind's memory capacity is finite, it groups the identities into repeatable patterns using the same base identities. 
+
+- This is also why Supermath is for numbers that represent physical reality, from the Material to the Spatial Layer. This uses all base-x groupings.
+- Qualimath is for instances that represent the metaphysical domain such as ideas and feelings, including the idea of infinity. This uses base-3 grouping.
 
 Humans have settled for base-10 as its grouping. For example, instead of writing arbitrary symbols up to infinity such as:
 
@@ -61,97 +83,76 @@ Vortex numbers are base-6 instances that can make geometry easier and less irrat
 It helps explain the relationship between the constants. 
 
 
-## Constants
+### Base-6 Instance Names (Numbers)
 
-Constants are fixed ratios in our current universe.
-
-Constant | Value Base 6 | Value Base 10
---- | --- | --- 
-circle | 100 | 360
-pi | 3.05022041051413110312 or 3.0555..  |  3.141592653589793238462643383279502884197
-aetherspace to spacetime | 30.6633189551.. | 50.355135..
-speed of light | 299,792,458 | 45,425,332,014
-second | 4,120,102,000,230 (4,120,102,000,000) | 9,192,631,770 (9,192,631,760 modified to clean base 6)
-second in a day | 86,400 | 1,504,400
-Newton's G (spacetime to matter) | 0.0000000000510505 | 0.0000000000667430
-Fine Structure | 0.00132431545.. | 0.0072973525643
-
-<!-- convert 4,120,102,000,000 (base 6) to base 10 is 9,192,631,760-->
-
-## Pegging Time to Material Oscillations
-
-Humans (as well as animals) can have widely differing opinions becacuse these are made up of aethereal souls which inherit some of the arbitrariness of the aether. 
-
-The more advanced the soul is, the more differences it has from others. To keep those differences harmonious, all souls in physical reality need a common basis in matter, which is the crudest layer or Element.
-
-We can expect that a hydrogen atom in our solar system will have the same properties in all solar system and all galaxies. 
-
-The differences in matter in other galaxies is that their aetherspaces might allow more elements and isotopes leading to different chemistries and materials. 
-
-This makes material oscillations, as the vibrations of their aetherspace, the best basis for measures. 
-- The aetherspace is the uppermost observable layer
-- Matter is the lowermost layer
-
-This creates a comprehensive measure that involves all physical phenomena.
-
-These oscillations denote timespan as a specific number of oscillations to make 1 second. 
-
-The distance covered by light in a vacuum in 1 second is then the standard ruler as 1 light second, called a distance. 
-
-This linear distance is in base-6 just the same as the convention for curves and circles. 
-
-This reduces a base-10 meter to 0.826 meters. This replaces an inch with a 0.1 femtodisance which is tentatively 2.3 cm. 
-
-
-<!-- As physical 
-4t oscillations : 1 distance 
-4,120,102 : 1 light distance : 1m distance
-0.00000012305
-
-1000000 (base 6) is equal to 46,656
+Number | Name | Base 10 name
+--- | --- | ---
+! | Won | 1
+@ | Too | 2
+`#` | Three | 3
+$ | Foor | 4
+% | Five | 5
+!0 | Wonty | 6 
+!! | Wonty-won | 7
+!@ | Wonty-two | 8
+!# | Wonty-three | 9
+!$ | Wonty-foor | 10
+!% | Wonty-five | 11
+@0 | Tooty | 12
+@! | Tooty-won | 13
+@@ | Tooty-too | 14
+@# | Tooty-three | 15
+@$ | Tooty-foor | 16
+@% | Tooty-five |17
+`#0` | Threety | 18
+`#!` | Threety-won | 19
+`#@` | Threety-too | 20
+`##` | Threety-three | 21
+`#$` | Threety-foor | 22
+`#%` | Threety-five | 23
+$0 | Foorty | 24
+$! | Foorty-won | 25
+$@ | Foorty-too | 26
+$# | Foorty-three | 27
+$$ | Foorty-foor | 28
+$% | Foorty-five | 29
+%0 | Fivety | 30
+%! | Fivety-won | 31
+%@ | Fivety-too | 32
+%# | Fivety-three | 33
+%$ | Fivety-four | 34
+%% | Fivety-five | 35
+!00 | Won-oh | 36
+!00 | Won-oh-won | 37 
+!00 | Won-oh-too | 38
 
 
-Go to another star or galaxy, then get the time for Cesium to get 9 billion oscillations as your second. 
+### Prefixes or Groupings
 
-Then count the distance light travels in that second. 
+Number | Name | Base 10 name | Base 10 | Example
+--- | --- | --- | --- | ---
+!0 | Ty | Tens | 6 | 2 Tyspan
+!00 | oh | Hundreds | 36 | 2 Ohspan
+!000 | tri | Thousands | | 2 trispan
+!0000 | far | Ten Thousands | | 2 farspan
+!00000 | fai | Hundred Thousands | | 2 faispan
+!000000 | ty-oh | Millions | | 2 ty-ohspan
+!0000000 | tytoo | Ten Millions | | 2 tytoospan
+!00000000 | tytri | Hundred Millions | | 2 tytrispan
+!000000000 | tyfar | Billions | | 2 tyfarspan
+!0000000000 | tyfai | 10 Billions | | 2 tyfaispan
+!00000000000 | too-oh | 100 Billions | | 2 too-ohspan
+!000000000000 | tootoo | Trillion | | 2 tootoospan
+0.! | Un | Deci | 6 | 2 unspan
+0.0! | Unwon | Centi | 36 | 2 unwonspan
+0.00! | untoo | Milli | | 2 untoospan
+0.000! | untri |  | | 2 untrispan
+0.0000! | unfar |  | | 2 unfarspan
+0.00000! | unfai | Micro | | 2 unfaispan
+0.000000! | unty |  | | 2 untyspan
+0.0000000! | unty-oh |  | | 2 unty-ohspan
+0.00000000! | unty-too | Nano | | 2 untytoospan
+0.000000000! | unty-tri |  | | 2 untytrispan
+0.0000000000! | unty-far | | | 2 untyfarspan
+0.00000000000! | unty-fai | Pico | | 2 untyfaispan
 
-Then cut up the distances to get 
-
-
-86400
-
-7.5 or 11.3 
-
-299,792,458 (radiant) : 9,192,631,760 (aetherspace)
-
-299,792,458 meters in 1 second 
-
-meter and second is arbitrary 
-
-13750.99
-
-13750.99 
-
-86400 in base 6 = 1,504,400
-
-Earth time = 86,400 seconds
-
-Earth space = 13751 -->
-
-
-<!-- 30.663318 base 10
-50.35513543305331455221 base 6
-
-give the base 6 result in 20 places to the right of the dot
-
-0.0000000000667430 newtons g-->
-
-## Elements
-
-Base-6 also explains the differences of the Elements
-
-- Element 6 is carbon which is very important
-- Element 12 Magnesium is different from Element 13 Aluminum
-- The unstable elements begin at Element 84 Polonium which is 220 in base-6
-
-convert the result of 9,192,631,760 / 667430 (both base 10) into base 6
