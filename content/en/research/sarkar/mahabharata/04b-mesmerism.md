@@ -20,7 +20,7 @@ Bhaskaracarya first discovered:
 
 <!-- We give incorrect training to children. -->
 
-Homoeopathy sprang up in India itself. Nor did surgery originate with Aryans, but in India.
+Homeopathy sprang up in India itself. Nor did surgery originate with Aryans, but in India.
 
 If a mind of a person is stronger than the other person, it will control the other mind.
 - The controlled mind will follow the stronger mind. 

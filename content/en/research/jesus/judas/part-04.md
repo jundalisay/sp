@@ -95,6 +95,9 @@ Their high priests grumbled because he'd gone into the guest room to pray. But s
 
 They approached Judas and said to him:
 
-"What are you doing here? Aren't you Jesus' disciple?"
+{{< r a="Priests" >}}
+What are you doing here? Aren't you Jesus' disciple?
+{{< /r >}}
+
 
 Then he answered them as they wished. Then Judas received some money and handed him over to them.

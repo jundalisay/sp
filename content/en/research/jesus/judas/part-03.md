@@ -7,15 +7,19 @@ c: "indigo"
 ---
 
 
-
-
 {{< l a="Jesus" >}}
 Come and I'll teach you about the mysteries that no human will see, because there exists a great and boundless realm whose horizons no angelic generation has seen, in which is a great invisible Spirit, which no angelic eye has ever seen, no heart has ever comprehended, and it's never been called by any name.
 
-A luminous cloud appeared there. He (The Spirit) said, 'Let an angel come into being to attend me.' 
+A luminous cloud (Spirit) appeared there. He said:
+{{< /l >}}
+
+{{< r a="Spirit" >}}
+Let an angel come into being to attend me.
+{{< /r >}}
+
 
 A great angel, the Self-Begotten, the God of the Light, emerged from the cloud. Because of him, another 4 angels came into being from another cloud. They attended the angelic Self-Begotten.
-{{< /l >}}
+
 
 {{< l a="Self-Begotten" >}}
 Let a realm come into being. 
@@ -38,7 +42,6 @@ And it came into being.
 He created the second luminary to rule over it, along with myriads of angels without number to offer service. 
 
 That's how he created the rest of the realms of light. And he made them to be ruled, and created for them myriads of angels without number to assist them.
-
 
 
 Adamas was in the first cloud of light that no angel could ever see among all those called 'God.' 
@@ -64,11 +67,18 @@ In the realm that appeared with his generation is the cloud of knowledge and the
 
 After these things, Eleleth said:
 
-'Let 12 angels come into being to rule over Chaos and Hades. Look, from the cloud there appeared an angel whose face flashed with fire and whose likeness was defiled by blood.'
+
+{{< r a="Eleleth" >}}
+Let 12 angels come into being to rule over Chaos and Hades. Look, from the cloud there appeared an angel whose face flashed with fire and whose likeness was defiled by blood.
+{{< /r >}}
+
 
 His name was Nebro, which means Rebel. 
+- Others call him Yaldabaoth. 
 
-Others call him Yaldabaoth. Another angel, Saklas, came from the cloud too. So Nebro created 6 angels. Saklas did too – to be assistants. They brought out 12 angels in the heavens, with each of them receiving a portion in the heavens.
+Another angel, Saklas, came from the cloud too. So Nebro created 6 angels. 
+
+Saklas did too – to be assistants. They brought out 12 angels in the heavens, with each of them receiving a portion in the heavens.
 
 The 12 rulers spoke with the 12 angels: 
 
@@ -82,8 +92,17 @@ The 12 rulers spoke with the 12 angels:
 
 These are the 5 who ruled over Hades and are the first over Chaos.
 
-Then Saklas said to his angels, 'Let's create a human being after the likeness and the image.' 
+Then Saklas said to his angels:
+
+{{< r a="Saklas" >}}
+Let's create a human being after the likeness and the image.
+{{< /r >}}
+
 
 They fashioned Adam and his wife Eve, who in the cloud is called 'Life' because by this name all the generations seek him, and each of them calls her by their names. 
 
-Saklas didn't [command …] give birth, except […] among the generations […] which this […] and the [angel] said to him, 'Your life will last for a limited time, with your children.'"
+Saklas did not [command …] give birth, except […] among the generations […] which this […] and the [angel] said to him, 
+
+{{< r a="Angel" >}}
+Your life will last for a limited time, with your children.
+{{< /r >}}

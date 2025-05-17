@@ -9,7 +9,7 @@ c: "darkgoldenrod"
 ---
 
 
-## Definition 10: Forcec
+## Definition 10: Force
 
 99. **A force is an action on a free body that either:**
 **- leads to the motion of the body at rest, or

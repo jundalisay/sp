@@ -18,16 +18,9 @@ the body by descending progresses along the horizontal AH at a steady rate.
 
 Solution.
 
-Let A be the highest point of the curve, through
-which the vertical axis AP is drawn, and the speed by
-which the body progresses horizontally corresponds to
-the height b. The abscissa AP = x is taken, the applied
-line PM = y and the arc AM = s and let the speed of the
-body at M correspond to the height v, with which speed
-of the body the element Mm = ds is traversed. Hence
-then as ds is to dy thus the speed of the body along
-Mm, which is v , os to the horizontal speed b , hence
-there arises :
+Let A be the highest point of the curve, through which the vertical axis AP is drawn, and the speed by which the body progresses horizontally corresponds to the height b. The abscissa AP = x is taken, the applied line PM = y and the arc AM = s and let the speed of the body at M correspond to the height v, with which speed of the body the element Mm = ds is traversed. Hence then as ds is to dy thus the speed of the body along Mm, which is v , os to the horizontal speed b , hence there arises :
+
+
 2
 v = bds2 .
 dy

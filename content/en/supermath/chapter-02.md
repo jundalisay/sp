@@ -66,7 +66,7 @@ It helps explain the relationship between the constants.
 Constants are fixed ratios in our current universe.
 
 Constant | Value Base 6 | Value Base 10
---- | ---
+--- | --- | --- 
 circle | 100 | 360
 pi | 3.05022041051413110312 or 3.0555..  |  3.141592653589793238462643383279502884197
 aetherspace to spacetime | 30.6633189551.. | 50.355135..
@@ -78,7 +78,32 @@ Fine Structure | 0.00132431545.. | 0.0072973525643
 
 <!-- convert 4,120,102,000,000 (base 6) to base 10 is 9,192,631,760-->
 
+## Pegging Time to Material Oscillations
 
+Humans (as well as animals) can have widely differing opinions becacuse these are made up of aethereal souls which inherit some of the arbitrariness of the aether. 
+
+The more advanced the soul is, the more differences it has from others. To keep those differences harmonious, all souls in physical reality need a common basis in matter, which is the crudest layer or Element.
+
+We can expect that a hydrogen atom in our solar system will have the same properties in all solar system and all galaxies. 
+
+The differences in matter in other galaxies is that their aetherspaces might allow more elements and isotopes leading to different chemistries and materials. 
+
+This makes material oscillations, as the vibrations of their aetherspace, the best basis for measures. 
+- The aetherspace is the uppermost observable layer
+- Matter is the lowermost layer
+
+This creates a comprehensive measure that involves all physical phenomena.
+
+These oscillations denote timespan as a specific number of oscillations to make 1 second. 
+
+The distance covered by light in a vacuum in 1 second is then the standard ruler as 1 light second, called a distance. 
+
+This linear distance is in base-6 just the same as the convention for curves and circles. 
+
+This reduces a base-10 meter to 0.826 meters. This replaces an inch with a 0.1 femtodisance which is tentatively 2.3 cm. 
+
+
+<!-- As physical 
 4t oscillations : 1 distance 
 4,120,102 : 1 light distance : 1m distance
 0.00000012305
@@ -111,9 +136,7 @@ meter and second is arbitrary
 
 Earth time = 86,400 seconds
 
-Earth space = 13751
-
-
+Earth space = 13751 -->
 
 
 <!-- 30.663318 base 10

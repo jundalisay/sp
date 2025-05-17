@@ -16,14 +16,12 @@ icon: "Rene Descartes"
 
 ## 4. The nature of body consists not in weight hardness, colour and the like, but in extension alone*
 
-{{< n n="Descartes reiterates that the nature of matter is it occupying metaphysical space. From now, we will replace 'extension' with 'metaphysical space' to distinguish it from 'space' as physical space" >}}
+{{< n n="Descartes reiterates that the nature of matter is it occupying metaphysical space. From now, we will replace 'extension' with 'metaphysical space' to distinguish it from 'space' as physical space. Update April 2025: We change metaphysical space into aetherspace since the latter matches the DESI BAO findings" >}}
 
-<!-- In this way, we will discern that  -->
 
 The nature of matter or body in general does not consist in anything sensory. 
 
 The nature of matter or body is in it being an [aethereal] substance extended in length, width, and height.
-
 
 <!-- its being hard, or ponderous, or coloured, or that which affects our senses in any other way, but simply in its being a substance   -->
 
