@@ -30,7 +30,7 @@ But impact does. Therefore, since forces are proportional to their effects, then
 
 We can say that:
 - 1 potato is one instance of a potato-identity. 
-- 4 potatoes are 4 instances of the potato. 
+- 4 potatoes are 4 instances of a potato. 
 
 {{< i s="/photos/objects/potatoes.jpg" a="Potatoes" >}}
 
@@ -44,8 +44,8 @@ There are an infinite number of instances, and so the mind would have to assign 
 
 Since the mind's memory capacity is finite, it groups the identities into repeatable patterns using the same base identities. 
 
-- This is also why Supermath is for numbers that represent physical reality, from the Material to the Spatial Layer. This uses all base-x groupings.
-- Qualimath is for instances that represent the metaphysical domain such as ideas and feelings, including the idea of infinity. This uses base-3 grouping.
+- This is also why **Supermath** is for numbers that represent physical reality, from the Material to the Spatial Layer. This uses all base-x groupings.
+- **Qualimath** is for instances that represent the metaphysical domain such as ideas and feelings, including the idea of infinity. This uses base-3 grouping.
 
 Humans have settled for base-10 as its grouping. For example, instead of writing arbitrary symbols up to infinity such as:
 
@@ -76,11 +76,11 @@ But this is confusing to people who have been used to base-10. So we use totally
 !, @, #, $, %, !0, !@, !#, !$, !%, @0, @1..
 ```
 
-In this way, `! + ! = @`. More properly, it is `! + ! :: @`.
+In this way, `! + ! = @`.
 
-Vortex numbers are base-6 instances that can make geometry easier and less irrational.
-
-It helps explain the relationship between the constants. 
+Vortex numbers are base-6 instances that can:
+- make geometry easier and less irrational
+- explain the relationship between the constants
 
 
 ### Base-6 Instance Names (Numbers)
@@ -125,6 +125,11 @@ $% | Foorty-five | 29
 !00 | Won-oh | 36
 !00 | Won-oh-won | 37 
 !00 | Won-oh-too | 38
+
+
+An easy way to scale the numbers was one of the innovations of the metric system. However, you will notice that there are missing names for some groupings such as between picometer and femtometer. 
+
+We fill these gaps with a prefixes that use the numbers. In this way, people don't have to memorize arbitrary names such as milli, micro, kilo, mega, etc.
 
 
 ### Prefixes or Groupings
