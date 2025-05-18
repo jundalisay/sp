@@ -95,35 +95,6 @@ th {
 }
 
 
-.fly-in {
-            opacity: 0; /* Start invisible */
-            transition: opacity 0.8s ease-out, transform 0.8s ease-out; /* Smooth transition for opacity and transform */
-        }
-        .fly-in-left {
-            transform: translateX(-100%); /* Start off-screen to the left */
-        }
-        .fly-in-right {
-            transform: translateX(100%); /* Start off-screen to the right */
-        }
-        .is-visible {
-            opacity: 1; /* Become visible */
-            transform: translateX(0); /* Move to original position */
-        }
-
-
-        .ani {
-            opacity: 0; /* Start invisible */
-            transition: opacity 1s ease-in-out; /* Smooth transition for opacity */
-        }
-
-        /* --- Visible State (Applied by JS) --- */
-        .is-visible {
-            opacity: 1; /* Become visible */
-            transform: translateX(0); /* Move fly-in elements to original position */
-            /* Opacity is handled for .ani elements by this rule too */
-        }
-
-
 
 .pagination {
   display: flex;

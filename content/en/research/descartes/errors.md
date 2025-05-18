@@ -2,7 +2,7 @@
 heading: We corrrect them with the Asian sciences and modern findings
 linkTitle: Errors
 title: "Factual Errors and Shortcomings by Descartes"
-weight: 30
+weight: 130
 description: "We list down the errors of Descartes so we can bring back an error-free Cartesian Science"
 c: "firebrick"
 ---

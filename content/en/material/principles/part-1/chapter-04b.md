@@ -12,11 +12,11 @@ icon: "Juan"
 ---
 
 
-The universe is created from the aethereal ideas of the Supreme in the aethereal layer.
+The universe is created from the aethereal ideas of the Supreme in the aethereal layer (5th Element in Cartesian Physics).
 
-These then manifest in the spatial layer as cosmic bubbles, called baryonic acoustic oscillations by Modern Physics.
+These then manifest in the spatial layer (2nd Element) as cosmic bubbles, called baryonic acoustic oscillations by Modern Physics.
 
-These spread out throughout the universe spreading its ideas which slowly convert into physical light through the Radiant Layer, and matter through the Material Layer.
+These spread out throughout the universe spreading its ideas which slowly convert into physical light through the Radiant Layer (1st Element), and matter through the Material Layer (3rd Element).
 
 These then become the galaxies, stars, and planets that we see.
 
@@ -27,7 +27,7 @@ These then become the galaxies, stars, and planets that we see.
 
 The meeting of these oscillations create a pattern called the cosmic web. These extend beyond the observable universe to the external universe which we see as the cosmic microwave background (CMB). 
 
-Physics wrongly thinks that the CMB is heat that came from the Big Bang of a material Singularity. 
+Physics wrongly thinks that the CMB is heat that came from the Big Bang of a material Singularity or 'primeval atom'. 
 
 But what is the nature of this Material Singularity? How did it begin? 
 
@@ -74,11 +74,14 @@ The conversion of idea to reality and physical matter follows a five-step proces
 Phase | Layer | Physics Name | Sequence  
 --- | --- | --- | ---
 0 | Metaphysical | Pseudo-science | The pre-existing ideas as potentialities are compiled for deployment onto reality, as potential galaxies
-1 | Aethereal | BAOs | The compiled ideas are deployed through baryonic acoustic oscillations (BAOs) as the aetherspace which then creates spacetime
+1 | Aethereal | BAOs? | The compiled ideas are deployed through baryonic acoustic oscillations (BAOs) as the aetherspace which then creates spacetime
 2 | Spatial | Gravitation | The BAOs create spacetime where galaxies are deployed as vortices, creating 'dark matter'
 3 | Radiant | Electromagnetism | The friction within spacetime creates radiant vortices as stellar qosts which create radiant particles which make up stars
 4 | Convertible | Weak force | The weak force in stars further creates W Z bosons (moc1 and moc2) from qosts. These allow fusion, allowing particles to combine
 5 | Material | Strong force | Finally, the strong force binds the particles as protons to form the elements
+
+
+{{< i s="/graphics/physics/layers.png" a="Layers" >}}
 
 We use the creation process explained by Descartes and the Vedic Philosophy as an alternative to the materialist creation process by Physics.
 
@@ -110,9 +113,11 @@ Phase 2 of the existence of a Universe is when its Matrix boots up, or the Mind 
 
 This activates the aethereal layer to get the many ideas of the Supreme for that Universe. The ideas come from pre-existence and are transferred onto aethereal existence by the desire from the Positive Force of the Supreme.
 
-The aethereal ideas we call as 'media of aether' (moa3s) as metaphysics objects which are meant for physical existence. These moa3s then get funneled into nodes which we call quanta of spacetime (qosts) which exist in the spatial layer beneath the aethereal layer.
+The aethereal ideas we call as 'media of aether' (moa3s) as metaphysical idea-objects which are meant for physical existence. 
 
-The universe thus shifts from aetherel probability into spatial reality (i.e experiences space and time). 
+These moa3s then get funneled into nodes which we call quanta of spacetime (qosts) which exist in the spatial layer beneath the aethereal layer.
+
+The universe thus shifts from aethereal probability into spatial reality (i.e experiences space and time). 
 
   
 ### The Universe as a Matrix (or an App or TV screen)
@@ -156,34 +161,7 @@ These fill empty space and perform the following critical tasks:
 
 <!-- However, unlike a computer's memory that is limited and predefined, the qosts of the universe is infinite. It is arbitrarily set by the aethereal layer above it (or operating behind it). This is similar to Firefox browser having the computer's operating system (OS) working behind the scenes at all times. If the OS shuts down, then the Firefox browser shuts down too. Thus, if the idea "stops" in the aethereal layer, then its physical version will likewise disappear according to the rules of physicality.   -->
 
-<!-- These qosts start out as 1-dimensional points that repel each other to create 2-dimensions, then 3-dimensions, and finally 4 physically-observable dimensions. --> 
-
-<!-- The major bodies are:
-- galaxies
-- quasars
-
-These galaxies and quasars exert the force of attraction and repulsion.
-- Dark Matter is the Physics name for the attractive force within a galaxy or quasar
-- Dark Energy is the repulsive force between them
-
-The minor types of qosts manifest as everything else, such as:
-- stars
-- planets
-- asteroids
-- moons
-- material things
-
-The attractive force with these manifests as gravity. The repulsive force manifests as the vacuum of space.  -->
-
 <!-- Such nodes or points exert a natural force called gravity to facilitate the coversion of aethereal ideas and feelings into physical matter and energies.  -->
-
-<!-- In our app analogy, this is the "run-time" of the app, as opposed to the "compile-time" of the aethereal layer.   -->
-
-<!-- Physics believes that gravity comes from material mass. However, this is impossible in our model since matter is the final 5th layer and doesn't exist yet at this point.
-
-Physicists make this mistake because mass is so tied and dependent on gravity that they are always perceived together.  -->
-
-<!-- it cannot be separated by physical means, thought it can be manipulated by mind or metaphysical means.  -->
 
 <!-- and so dark matter has mass, but black holes and supermassive black holes have singularity wherein the laws of physics do not hold. To get rid of this absurdity, Superphysics views mass as coming from gravity in accordance with our five-layer model wherein material mass is the lowest and most subordinate layer. We can say that mass is the effect of, and is dependent on, gravity and its subordination to the aether, now known as the Higgs field.  -->
 
@@ -199,7 +177,8 @@ q a="Iamblichus" c="The Life of Pythagoras" >}}
 The monad was the indivisible point and the first cause. The duad was the first line or interval. The triad had more intervals and lines. The tetrad was solid.
 /q >}} -->
 
-{{< youtube e7rRQEq9C60 >}}
+{{< youtube cQtvHmgQtng >}}
+
 
 <!-- The spacetime layer thus converts the 1-dimensional galactic qosts into 2-dimensional, and then into 3-dimensional nodes the more qosts emerge. This continues until finally the nodes lead to 4 physically-observable dimensions* through the concept of time. This leads to the 4-dimensional 'Minkowski' spacetime of physics.
 

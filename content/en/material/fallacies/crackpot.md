@@ -11,9 +11,9 @@ icon: "Juan"
 ---
 
 
-We usually post our Superphysics findings on Reddit as a public timestamp or timecapsule for the train of ideas that we get.
+We usually post our Superphysics findings on Reddit as a public timestamp or timecapsule for the train of ideas that we get. This is because Reddit has great SEO.
 
-Most comment that we are crackpots and our posts are pseudoscience even if we link posts to proofs:
+Most people comment that we are crackpots and our posts are pseudoscience even if we link posts to proofs:
 - from Buddhism as levitating monks (Buddhism is all about proving things and discarding dogma)
 - from Chinese medicine as the healing through chi (Descartes' animal spirits)
 - from UFO footage and Bob Lazar's explanation of the Physics of the sport model UFO of the Grays
@@ -86,7 +86,9 @@ So we pinned it down to resistance to change, something that is common in the hu
 
 In our case, talking to old physicists made us realize how slow or limited their thinking process and scope was. As if they had no more mental energy nor excitement to go through new ideas. 
 
-Global warming, food insecurity, nuclear radation (from Fukushima and a possible nuclear war), and lack of nuclear fusion are all glaring signs that Physics has failed to deliver, unlike computing which has brought the internet, mobile devices, and awesome AI. 
+This is consistent with the resistance to adopting new systems like Buddhism or Taoism, Chinese Medicine or Ayurveda, and alien politics involving Grays, Anunnaki, Essassani, etc.
+
+The big problem is that global warming, food insecurity, nuclear radation (from Fukushima and a possible nuclear war), and the lack of nuclear fusion are all glaring signs that Physics has failed to deliver. This is different from Computer and Data Science which has brought the internet, mobile devices, and awesome AI. 
 
 Change is inevitable and humans don't want to stay stuck on the Earth forever.
 

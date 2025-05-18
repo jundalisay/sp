@@ -1,6 +1,6 @@
 ---
 title: Rules For The Direction Of The Mind
-weight: 26
+weight: 46
 description: Rene Descartes 1635
 c: "steelblue"
 writer:

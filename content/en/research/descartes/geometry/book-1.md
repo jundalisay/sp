@@ -2,13 +2,12 @@
 title: Problems that can be constructed using only circles and straight lines
 heading: Chapter 1
 weight: 2
-description: "The body is a machine of earth which God forms on purpose to make it as similar to us as possible. He gives its outside the color and shape of all our members, but he also puts on its inside the color and shape of our bodies."
+description: "This treatise can only be understood by those who are familiar with Geometry"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "steelblue"
 icon: "Rene Descartes"
-draft: true
 ---
 
 <!-- **Notice.**

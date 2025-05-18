@@ -9,10 +9,6 @@ draft: true
 ---
 
 
-<!-- Car si par exemple, on pense connoistre la racine de cete Equation, .. à cause qu’on sçait qu’elle est composée de deux lignes. dont l’vne est le costé d’vn cube, duquel le contenu est 1/2 q, adiousté au costé d’vn quarré, duquel derechef le contenu est ..; Et l’autre est le costé d’vn autre cube, dont le contenu est la difference, qui est entre .., et le costé de ce quarré dont le contenu est .., qui est tout ce qu’on en apprent par la reigle de Cardan. 
-
-Il n’y a point de doute qu’on ne connoisse autant ou plus distinctement la racine de celle cy, .., en la considerant inscrite dans vn cercle, dont le demidiametre est .., et sçachant qu’elle y est la subtenduë d’vn arc dont le triple a pour sa subtendue  3q/ p. Mesme ces termes Maire, p. 401 sont beaucoup moins embarassés que les autres, et ils se trouueront beaucoup plus cours si on veut vser de quelque chiffre particulier AT VI, 475 pour exprimer ces subtenduës, ainsi qu’on fait du chiffre VC pour exprimer le costé des cubes. -->
-
 
 ## The method of expressing the value of all the roots of cubic equations: and subsequently of all those that rise only to the biquadratic.
 
@@ -20,7 +16,11 @@ For the rest, it is to be noted that this way of expressing (AT VI, 474) the val
 
 For if, for example, one thinks one knows the root of this equation, $x^3 = -px + q$, because one knows that it is composed of two lines, one of which is the side of a cube whose volume is $\frac{1}{2}q$ added to the side of a square whose volume is $\sqrt{\frac{q^2}{4} - \frac{p^3}{27}}$; and the other is the side of another cube whose volume is the difference between $\frac{1}{2}q$ and the side of that square whose volume is $\sqrt{\frac{q^2}{4} - \frac{p^3}{27}}$, which is all that one learns from Cardano's rule.
 
-There is no doubt that one knows the root of this one, $x^3 = -px + q$, as much or more distinctly by considering it inscribed in a circle whose radius is $\sqrt{\frac{p}{3}}$, and knowing that it is the chord of an arc whose triple has for its chord $\frac{3q}{p} \sqrt{\frac{3}{p}}$. Even these terms (Maire, p. 401) are much less cumbersome than the others, and they will be found much shorter if one wishes to use some particular symbol (AT VI, 475) to express these chords, just as one uses the symbol $\sqrt[3]{ }$ to express the side of cubes."
+There is no doubt that one knows the root of this one
+
+$x^3 = -px + q$
+
+as much or more distinctly by considering it inscribed in a circle whose radius is $\sqrt{\frac{p}{3}}$, and knowing that it is the chord of an arc whose triple has for its chord $\frac{3q}{p} \sqrt{\frac{3}{p}}$. Even these terms (Maire, p. 401) are much less cumbersome than the others, and they will be found much shorter if one wishes to use some particular symbol (AT VI, 475) to express these chords, just as one uses the symbol $\sqrt[3]{ }$ to express the side of cubes."
 
 
 And we can also, following from this, express the roots of all equations up to the biquadratic (i.e., degree four) by the rules explained above. So much so that I do not know anything more to be desired in this matter. For indeed, the nature of these roots does not allow them to be expressed in simpler terms, nor to be determined by any construction that is at once more general and easier.
