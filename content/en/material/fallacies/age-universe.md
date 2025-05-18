@@ -51,7 +51,7 @@ The corrupted assumptions of Physics, just like the corrupted ones of Economics,
 - The corrruption of Economics is the obsession with money
 - The corrruption of Physics is the obsession with visible things
 
-Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them to simplilstic theories that are based on visible effects instead of invisible cause:
+Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them to simplistic theories that are based on visible effects instead of invisible cause:
 
 - The universe needing to have a starting day is an idea from the Bible, proposed by the priest Lemaitre as the hypothesis of the primeval atom
 
@@ -76,27 +76,44 @@ In 1644, Descartes published his expansion theory with an analogy of a sponge:
 A sponge full of water is different from a dry sponge because the wet sponge has wider pores. This makes its body more diffused over a larger physical space. But this does not mean that each sponge-particle has greater metaphysical space when wet than when dry. 
 {{< /q >}}
 
-{{< i s="/graphics/meta/space.jpg" a="Sponge" >}}
 
 This matches the current expansion of the universe which Physics compares to a balloon expanding.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZvcdkNKxxoQ?start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 However, we stick to a sponge analogy because the balloon analogy causes matter to expand as well. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZvcdkNKxxoQ?start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-In constrast, an expanding sponge keeps the matter of the sponge at the same density. Moreover, an expanded sponge looks like a cosmic web.
+{{< i s="/graphics/meta/space.jpg" a="Sponge" >}}
 
 
+An expanding sponge keeps the matter of the sponge at the same density. It also matches the cosmic web.
 
-to emphasize the liquid property of space which manifests as:
+{{< i s="/graphics/physics/balloon.jpg" a="Sponge" >}}
+
+This also emphasizes the liquid property of space which manifests as:
 - gravitational waves as proven by LIGO
 - acoustic bubbles as proven by DESI as baryonic acoustic oscillations
 
 The sponge universe has always existed and does not have a material start. 
 
+
+## Dark Energy
+
 Instead of a material singularity, the matter in the universe comes from the energy of space. This is proven by quarks that emerge out of space as a result of excessive imposition of energy.
 
+The expansion is caused by 'dark energy' which comes from all over space, as proven by baryonic acoustic oscillations (BAOs), as bubble which pop up everywhere. 
 
-The 
+{{< i s="/photos/physics/bao.jpg" a="BAOs" >}}
+
+
+## The CMB as External Galaxies in an Expanding Infinite Universe
+
+The Cosmic Microwave Background (CMB) is the radiation from galaxies that are beyond our observable universe. These come from their material heat, and not from the heat of a 'Big Bang'. 
+
+This means that those very distant galaxies are not ancient, but rather just very distant.
+
+All of these point to the substance called the **aetherspace** which binds the cosmic web and facilitates the expansion of space. This aetherspace is called Gravity A by Bob Lazar, as opposed to Gravity B. 
+
+
+This aetherspace facilitates both large scale phenomena as well as quantum effects, unifyging Classical and Quantum Mechanics.

@@ -1,5 +1,5 @@
 ---
-title: Problems that can be constructed using only circles and straight lines
+title: Pappus
 heading: Book 1b
 weight: 2
 description: "This treatise can only be understood by those who are familiar with Geometry"
@@ -45,9 +45,15 @@ Moreover, I do not see anything so difficult in it that those who are somewhat v
 
 That is why I will be content here to simply warn you that, provided one does not fail to make use of all possible divisions when working through these equations, one will infallibly arrive at the simplest terms to which the question can be reduced.
 
-And that, if the problem can be solved by ordinary geometry—that is, by using only straight lines and circles drawn on a flat surface—then, when the final equation has been fully simplified, at most there will remain only an unknown square equal to the result of adding or subtracting its root, multiplied by some known quantity, and some other known quantity as well.
+If the problem can be solved by ordinary geometry—that is, by using only straight lines and circles drawn on a flat surface—then, when the final equation has been fully simplified
 
-This root, or unknown line, is easily found. For example, if I make the right triangle NLM, where the side LM is equal to the square root of a known quantity, and the other side LN is half of another known quantity (which was multiplied by the unknown line that I suppose to be the one we are seeking), and then I extend MN, the base of this triangle, to point O so that NO is equal to NL, then OM is the line we are seeking. And it is expressed in this way: [...]
+ at most there will remain only an unknown square equal to the result of adding or subtracting its root, multiplied by some known quantity, and some other known quantity as well.
+
+This root, or unknown line, is easily found. For example,
+
+z2 = az + b2
+
+If I make the right triangle NLM, where the side LM is equal to the square root of a known quantity, and the other side LN is half of another known quantity (which was multiplied by the unknown line that I suppose to be the one we are seeking), and then I extend MN, the base of this triangle, to point O so that NO is equal to NL, then OM is the line we are seeking. And it is expressed in this way: [...]
 
 If I have [...], and [...] is the quantity to be found, I construct the same right triangle NLM, and from its base MN, I subtract NP, equal to NL, and the remaining PM is the sought root. So I have [...]. Likewise, if I had [...], then PM would be [...], and I would have [...], and so on.
 
