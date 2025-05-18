@@ -1,6 +1,6 @@
 ---
 title: Problems that can be constructed using only circles and straight lines
-heading: Chapter 1
+heading: Book 1
 weight: 2
 description: "This treatise can only be understood by those who are familiar with Geometry"
 writer:
@@ -59,16 +59,23 @@ I have only to join points `A` and `C`, then draw `DE` parallel to `CA`.
 `BE` is the product of this Multiplication.
 
 
+{{< i s="/graphics/d/g001.png" a="1" >}}
+
+
 ### Division
 
 To divide `BE` by `BD`, having joined points `E` and `D`, I draw `AC` parallel to `DE``, and `BC` is the result of this division.
+
+{{< i s="/graphics/d/g002.png" a="2" >}}
 
 
 ### Extraction of the square root
 
 Or if it is necessary to extract the square root of `GH`, I add to it in a straight line `FG`, which is unity, and divide `FH` into two equal parts at point `K`.
 
-From center `K`, I draw the circle `FIH`, then raise from point `G` a straight line to `I`, at right angles to `FH`, and GI is the root sought. I say nothing here of the cube root or others, because I will discuss them more conveniently later.
+From center `K`, I draw the circle `FIH`, then raise from point `G` a straight line to `I`, at right angles to `FH`, and GI is the root sought. 
+
+I will discuss the cube root or others later.
 
 
 ## How one can use numbers in Geometry
@@ -77,24 +84,22 @@ But often we do not need to actually draw these lines on paper.
 
 We can designate them by a few letters, each by a single one.
 
-As to add the line `BD` to `GH`, I name the one and the other, and write ; 
+As to add the line `BD` to `GH`, I name the one `a` and the other `b`, and write `a + b` and `a - b` to subtract b from a; and ab to multiply them together;
 
-And , to subtract from ; 
+and a/b to divide a by b; and aa or a² to multiply a by itself; and a³ to multiply it once more by a, and so on to infinity; 
 
-And , to multiply one by the other; And , to divide by ; And or to multiply by itself; 
+and √(a² + b²) to extract the square root of a² + b²; and ∛(a³ − b³ + ab²) to extract the cube root of a³ − b³ + ab², and likewise for others.
 
-And , to take the square root of ; And , to take the cube root of , and so on.
+By a², or b³, or similar expressions, I generally understand only simple lines, even though I use the conventional names of algebra and call them squares or cubes, etc.
 
-Where it is to be noted that by or or the like, I ordinarily conceive only of simple lines, though to use the names in common use in Algebra, I call them squares or cubes, etc.
+It should also be noted that all parts of the same line must generally be expressed with the same number of dimensions when the unit is not determined in the question—for example, a³ contains as many dimensions as ab² or b³, from which is composed the line I have named...
 
-All the parts of the same line should ordinarily be expressed by as many dimensions one as the other, when the unit is not determined in the question, as here contains as many as or of which the line I have named is composed: 
+...but this is not the case when the unit is determined, because it can be implied wherever there are too many or too few dimensions: for instance, if one must take the cube root of a²b² − b, one must consider that the quantity a²b² is divided once by the unit, and that the other quantity b is multiplied twice by the same.
 
+Finally, in order not to forget the names of these lines, one must always keep a separate record as they are introduced or changed, writing for example:
 
-But this is not the same when the unit is determined, because it can be understood by implication wherever there are too many or too few dimensions: as if we have to extract the cube root of , we must think that the quantity is divided once by the unit, and that the other quantity is multiplied twice by the same.
-
-Moreover, in order not to fail to remember the names of these lines, a separate register must always be made of them, as they are introduced or changed, writing for example:
-
-AB , that is, AB equal to .
-
-GH BD , etc.
+A B = 1, c’est-à-dire A B égal à 1
+GH = a
+BD = b
+etc
 

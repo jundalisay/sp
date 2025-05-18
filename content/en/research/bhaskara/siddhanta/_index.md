@@ -1,8 +1,8 @@
 ---
-title: "The Analyst: a Discourse addressed to an Infidel Mathematician"
+title: "Siddhanta"
 # heading: "Englightened"
 weight: 3
 description: ""
-c: "steelblue"
+c: "darkgoldenrod"
 ---
 

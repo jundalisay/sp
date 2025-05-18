@@ -73,4 +73,3 @@ The ancients later examined curves like the conchoid, the cissoid, and a few oth
 
 <!-- But because I hope that from now on those who are skilled in using the geometrical calculus proposed here will no longer find sufficient challenge in plane or solid problems alone, I believe it is fitting to invite them to pursue other areas of research, where they will never lack for intellectual exercise. -->
 
-

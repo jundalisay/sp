@@ -11,13 +11,41 @@ icon: "Rene Descartes"
 ---
 
 
-<!-- That is why I will be content here to simply warn you that, provided one does not fail to use all possible divisions when simplifying these equations, one will inevitably obtain the simplest terms to which the question can be reduced.
 
-### What are planar problems?
+Thus, when one wants to solve a problem, one must first consider it as already completed, and assign names to all the lines that seem necessary for its construction—both those that are unknown and the others.
 
-If the problem can be solved by ordinary Geometry—that is, using only straight and circular lines drawn on a flat surface—then once the final equation has been fully simplified, there will remain at most a square of the unknown, equal to the result of adding or subtracting its square root multiplied by some known quantity, along with some other known quantity.
+Then, without making any distinction between these known and unknown lines, one must work through the difficulty in the order that most naturally shows how they all depend on each other, until a way is found to express the same quantity in 2 different ways.
 
-### How they are solved.
+This is called an equation, since the terms of one expression are equal to those of the other.
+
+We must find as many such equations as there are unknown lines assumed. 
+
+Or, if fewer are found, and yet nothing essential is omitted from the question, this indicates that the problem is not fully determined. In that case, one may arbitrarily assign known lines to any of the unknowns that do not correspond to an equation.
+
+After that, if several unknowns still remain, one must use each of the remaining equations in turn—either considering each one individually or comparing them with others—in order to express each unknown line, and thereby reduce everything until only a single unknown remains, equal to some known quantity, or to something whose square, or cube, or square of a square, or higher power, or square of a cube, etc., is equal to the result of adding or subtracting two or more other quantities, one of which is known and the others are composed of certain mean proportionals between the unit and that square or cube or higher power, multiplied by other known quantities.
+
+z = b
+
+z is unknown but is equal to b
+
+z..
+
+the square of z is equal to the square of b minus a multiplied by z
+
+z..
+
+the cube of z is equal to a multiplied by the square of z plus the square of b multiplied by z minus the cube of c and so on.
+
+One can always reduce all the unknown quantities to just one, when the problem can be constructed using circles and straight lines, or also using conic sections, or even some other curve that is only one or two degrees more complex. 
+
+But I will not go into more detail about this, because I would deprive you of the pleasure of discovering it for yourself, and of the benefit of exercising your mind by practicing it—which, in my opinion, is the main value one can derive from this science.
+
+Moreover, I do not see anything so difficult in it that those who are somewhat versed in ordinary geometry and in algebra, and who pay attention to everything in this treatise, could not discover for themselves.
+
+
+That is why I will be content here to simply warn you that, provided one does not fail to make use of all possible divisions when working through these equations, one will infallibly arrive at the simplest terms to which the question can be reduced.
+
+And that, if the problem can be solved by ordinary geometry—that is, by using only straight lines and circles drawn on a flat surface—then, when the final equation has been fully simplified, at most there will remain only an unknown square equal to the result of adding or subtracting its root, multiplied by some known quantity, and some other known quantity as well.
 
 This root, or unknown line, is easily found. For example, if I make the right triangle NLM, where the side LM is equal to the square root of a known quantity, and the other side LN is half of another known quantity (which was multiplied by the unknown line that I suppose to be the one we are seeking), and then I extend MN, the base of this triangle, to point O so that NO is equal to NL, then OM is the line we are seeking. And it is expressed in this way: [...]
 
@@ -26,9 +54,6 @@ If I have [...], and [...] is the quantity to be found, I construct the same rig
 Finally, if I have [...], I make NL equal to [...], and LM equal to [...] as before. Then, instead of joining points MN, I draw MQR parallel to LN. And from center N, I draw a circle through point L which intersects MQR at points Q and R. The sought line is then MQ or MR, because in this case it is expressed in two ways—namely, [...] and [...].
 
 And if the circle, having its center at point N and passing through L, neither intersects nor touches the straight line MQR, then there is no root in the equation. In such a case, one can say that the construction of the proposed problem is impossible.
-
-
-
 
 
 
@@ -95,10 +120,6 @@ He asks the question:
 But at the third and fourth lines, in which (Apollonius) magnificently boasts and shows off, no credit being given to him who had written earlier, it is of this kind: If from one and the same point, straight lines are drawn at given angles to three straight lines given in position; and if the ratio of the rectangle contained by two of the drawn lines to the square of the remaining one is given: the point touches a solid locus given in position, that is, one of the three conic sections. And if lines are drawn at given angles to four straight lines given in position; and if the ratio of the rectangle contained by two of the drawn lines to the rectangle contained by the other two is given: similarly the point will touch a given conic section in position. If indeed [lines are drawn] to only two, the locus is shown to be a plane. But if [lines are drawn] to more than four, the point will touch loci not yet known, but only called lines; but what kind they are, or what property they have, is not certain: they have put together and shown one of them, and not the first, and the one that seems most obvious, showing it to be useful. But their propositions are these:
 
 If from some point straight lines are drawn at given angles to five straight lines given in position, and if the ratio of the rectangular parallelepiped contained by three of the drawn lines to the rectangular parallelepiped contained by the other two and some given line is given, the point will touch a line given in position. But if [lines are drawn] to six, and if the ratio of the solid contained by three lines to the solid contained by the other three is given; again the point will touch a line given in position. But if [lines are drawn] to more than six, they do not yet have anything to say, whether a ratio of some content of four lines to that which is contained by the rest is given, since there is nothing contained by more than three dimensions
-
-
-
-
 
 
 

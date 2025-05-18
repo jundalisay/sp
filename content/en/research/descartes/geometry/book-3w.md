@@ -12,7 +12,9 @@ draft: true
 
 ## The method of expressing the value of all the roots of cubic equations: and subsequently of all those that rise only to the biquadratic.
 
-For the rest, it is to be noted that this way of expressing (AT VI, 474) the value of the roots by the ratio they have to the sides of certain cubes of which only the volume is known, is in no way more intelligible or simpler than expressing them by the ratio they have to the chords of certain arcs, or portions of circles, whose triple is given. So that all those cubic equations that cannot be expressed by Cardano's rules can be expressed as much or more clearly by the method proposed here.
+For the rest, it is to be noted that this way of expressing the value of the roots by the ratio they have to the sides of certain cubes of which only the volume is known, is in no way more intelligible or simpler than expressing them by the ratio they have to the chords of certain arcs, or portions of circles, whose triple is given.
+
+So that all those cubic equations that cannot be expressed by Cardano's rules can be expressed as much or more clearly by the method proposed here.
 
 For if, for example, one thinks one knows the root of this equation, $x^3 = -px + q$, because one knows that it is composed of two lines, one of which is the side of a cube whose volume is $\frac{1}{2}q$ added to the side of a square whose volume is $\sqrt{\frac{q^2}{4} - \frac{p^3}{27}}$; and the other is the side of another cube whose volume is the difference between $\frac{1}{2}q$ and the side of that square whose volume is $\sqrt{\frac{q^2}{4} - \frac{p^3}{27}}$, which is all that one learns from Cardano's rule.
 
