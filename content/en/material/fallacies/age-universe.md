@@ -31,17 +31,16 @@ To this we add earlier surprises from cosmic microwave background (CMB) data:
 
 The cause of these surprises was the false materialist belief called **The Big Bang Theory** which says that the universe began as a mass of singularity that exploded to create spacetime and the current galaxies. 
 
-Such a theory would lead to the following assumptions:
+Such a theory would lead to the following predictions:
 - There should be more galaxies at a certain region of the universe compared to others
 - Old galaxies should be bigger than new ones
 - Gravitational waves should be present because there was a huge singularity that created ripples in the fabric of space
 - There should be more temperature differences because of the expansion
 
-
 Such assumptions were destroyed by the findings of:
 - the **James Webb Space Telescope** which detected galaxies at the early universe being large instead of small
 - the **Planck satellite** which detected no gravitational waves in the CMB
-- **DESI** detecting the expansion of space to vary
+- **DESI** detecting variations in the acceleration of the expansion of space
 
 
 ## The Cause of the Error: The Religion of Physics
@@ -51,7 +50,7 @@ The corrupted assumptions of Physics, just like the corrupted ones of Economics,
 - The corrruption of Economics is the obsession with money
 - The corrruption of Physics is the obsession with visible things
 
-Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them to simplistic theories that are based on visible effects instead of invisible cause:
+Physics is unable to process invisible things like spirit and mind, calling them pseudo-science. This forces them into simplistic theories that are based on visible effects instead of invisible causes:
 
 - The universe needing to have a starting day is an idea from the Bible, proposed by the priest Lemaitre as the hypothesis of the primeval atom
 
@@ -65,7 +64,7 @@ In this first phase of the expansion of space, starting asymptotically with a ze
 The quantities of these centripetal forces can be called accelerative, motive, absolute.. I do not bother to know where such an absolute force come from. I just want to give them a mathematical form.
 {{< /q >}}
 
-These dogmas combined leads to the Big Bang theory which has been disproven by data mentioned earlier.
+These dogmas combined leads to the Big Bang theory which has been disproven by the recent data.
 
 
 ## The Solution: A Sponge Universe
@@ -89,7 +88,7 @@ However, we stick to a sponge analogy because the balloon analogy causes matter 
 {{< i s="/graphics/meta/space.jpg" a="Sponge" >}}
 
 
-An expanding sponge keeps the matter of the sponge at the same density. It also matches the cosmic web.
+An expanding sponge keeps the matter of the sponge at the same density while matching the look of the cosmic web.
 
 {{< i s="/graphics/physics/balloon.jpg" a="Sponge" >}}
 
@@ -113,9 +112,8 @@ The expansion is caused by 'dark energy' which comes from all over space, as pro
 
 The Cosmic Microwave Background (CMB) is the radiation from galaxies that are beyond our observable universe. These come from their material heat, and not from the heat of a 'Big Bang'. 
 
-This means that those very distant galaxies are not ancient, but rather just very distant.
+This means that those very distant galaxies are not ancient, but rather just very distant. This is why Jamwes Webb saw large galaxies at the farthest distances that it could detect.
 
 All of these point to the substance called the **aetherspace** which binds the cosmic web and creating the expansion of space. This aetherspace is called Gravity A by Bob Lazar, as opposed to Gravity B. 
-
 
 This aetherspace facilitates both large-scale phenomena as well as quantum effects, unifying Classical and Quantum Mechanics.
