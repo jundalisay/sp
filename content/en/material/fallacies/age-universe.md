@@ -79,8 +79,10 @@ A sponge full of water is different from a dry sponge because the wet sponge has
 
 This matches the current expansion of the universe which Physics compares to a balloon expanding.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZvcdkNKxxoQ?start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ZvcdkNKxxoQ?start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
+
+{{< youtube ZvcdkNKxxoQ >}}
 
 However, we stick to a sponge analogy because the balloon analogy causes matter to expand as well. 
 
@@ -113,7 +115,7 @@ The Cosmic Microwave Background (CMB) is the radiation from galaxies that are be
 
 This means that those very distant galaxies are not ancient, but rather just very distant.
 
-All of these point to the substance called the **aetherspace** which binds the cosmic web and facilitates the expansion of space. This aetherspace is called Gravity A by Bob Lazar, as opposed to Gravity B. 
+All of these point to the substance called the **aetherspace** which binds the cosmic web and creating the expansion of space. This aetherspace is called Gravity A by Bob Lazar, as opposed to Gravity B. 
 
 
-This aetherspace facilitates both large scale phenomena as well as quantum effects, unifyging Classical and Quantum Mechanics.
+This aetherspace facilitates both large-scale phenomena as well as quantum effects, unifying Classical and Quantum Mechanics.
