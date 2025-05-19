@@ -9,7 +9,7 @@ description: "There was a farmer to whom an only son was born when he was rather
 
 Tuesday, June 5, 1883
 
-Rākhāl and Hazra were staying with the Master in the temple garden at Dakshineswar.
+Rakhal and Hazra were staying with the Master in the temple garden at Dakshineswar.
 
 M., too, had been there since the previous Sunday. As it was a week-day there were only a few devotees in the room. Generally people gathered there in large numbers on Sundays or holidays.
 
@@ -56,7 +56,7 @@ I began to eat before they had started and several remarked: 'Oh! What sort of m
 
 
 
-It was around 5PM. Sri Ramakrishna was sitting on the steps of his verandah. Hazra, Rākhāl, and M. were near him. Hazra had the attitude of a Vedantist: "I am He."
+It was around 5PM. Sri Ramakrishna was sitting on the steps of his verandah. Hazra, Rakhal, and M. were near him. Hazra had the attitude of a Vedantist: "I am He."
 
 {{< l a="Ramakrishna" >}}
 (to Hazra): "Yes, all one's confusion ends if one realizes that:

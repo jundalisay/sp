@@ -25,9 +25,9 @@ I formulated this hypothesis 15 years ago from thermodynamic considerations whil
 
 Since then, the discovery of the universality of radioactivity shown by artificially provoked disintegrations, as well as the establishment of the corpuscular nature of cosmic rays, manifested by the force which the Earth's magnetic field exercises on these rays, made more plausible an hypothesis which assigned a radioactive origin to these rays, as well as to all existing matter.
 
-Therefore, I think that the moment has come to present the theory in deductive form.i shall first show how easily it avoids several major objections which would tend to disqualify it from the start.
+Therefore, I think that the moment has come to present the theory in deductive form. I shall first show how easily it avoids several major objections which would tend to disqualify it from the start.
 
-Then I shall strive to deduce its results far enough to account, not only for cosmic rays, but also for the present stmcture of the universe, formed of stars and gaseous clouds, organized into spiral or elliptical nebulae, sometimes grouped in large clusters of several thousand nebulae which, more often, are composed of isolated nebulae, receding from one another according to the mechanism known by the name of the expanding universe.
+Then I shall strive to deduce its results far enough to account, not only for cosmic rays, but also for the present structure of the universe, formed of stars and gaseous clouds, organized into spiral or elliptical nebulae, sometimes grouped in large clusters of several thousand nebulae which, more often, are composed of isolated nebulae, receding from one another according to the mechanism known by the name of the expanding universe.
 
 My hypothesis uses several elementary geometric conceptions:
 - the closed space of Riemann which led to that of space with a variable radius
@@ -42,30 +42,46 @@ Our habit of thought about such open regions impels us to think that this is nec
 
 To explain this concept of closed space, the most simple method is to make a small-scale model of it in an open space. Let us imagine, in such a space, a ball in which we are going to represent the whole of closed space. 
 
-On the spherical surface of the ball, each point of closed space will be supposed to be represented twice, by two points, A and A', which, for example, will be two antipodal points, that is, two extremities of the same diameter. if we join these two points A and A' by a line located in the interior of the ball, this line must be considered as a closed line, since the two extremities A and A' are two distinct representations of the same, single point. 
+On the spherical surface of the ball, each point of closed space will be supposed to be represented twice, by two points, A and A', which, for example, will be two antipodal points, that is, two extremities of the same diameter.
 
-The situation is altogether analogous to that which occurs with the Mercator projection, where the points on the 180th meridian are represented twice, at the eastern and western edges of the map. One can thus circulate indefinitely in this space without ever having to leave it.
+If we join these two points A and A' by a line located in the interior of the ball, this line must be considered as a closed line, since the two extremities A and A' are two distinct representations of the same, single point. 
 
-It is important to notice that the points represented by the outer surface of the ball, in which we have represented all space, are not distinguished by any properties from the other points of space, any more than is the 180th meridian for the geographic map. in order to account for that, let us imagine that we displace the sphere in such a manner that point A is superposed on B, and the antipodal point A' on B'. 
+This is similar to the Mercator projection, where the points on the 180th meridian are represented twice, at the eastern and western edges of the map. 
+- One can thus circulate indefinitely in this space without ever having to leave it.
 
-We shall then suppose that the entire segment AB and the entire segment A'B' are two representations of a similar segment in closed space. 
+The points at the outer surface of the ball represents all space.
+- These are the same as the other points of space just as the 180th meridian for a map.
 
-Thus we shall have a portion of space which has already been represented in the interior of the initial sphere which is now represented a second time at the extirior of this sphere. Let us disregard the interior representation as useless; a complete representation of the space in the interior of the new sphere will remain.
+We displace the sphere so that point A is superposed on B, and the antipodal point A' on B'. 
 
-In this representation, the closed contours will be soldered into a point which is twice represented, namely, by the points B and B', mentioned above, instead of being welded, as they were formerly, to points A and A'. Threefore, these latter are not distinguished by an essential property.
+The entire segment `AB` and the entire segment `A'B'`` are two representations of a similar segment in closed space. 
+
+Thus we shall have a portion of space which has already been represented in the interior of the initial sphere which is now represented a second time at the extirior of this sphere.
+
+We disregard the interior representation as useless; a complete representation of the space in the interior of the new sphere will remain.
+
+The closed contours will be soldered into a point which is twice represented, namely, by the points B and B', mentioned above, instead of being welded, as they were formerly, to points A and A'. 
+
+Therefore, these latter are not distinguished by an essential property.
 
 
 ### Elliptical Space
 
 That is the essential of the topology of closed space. 
 
-It is possible to complete these topological ideas by introducing, as is done in a geographical map, scales which vary from one point to another and from one direction to another. That can be done in such a manner that all the points of space and all the directions in it may be perfectly equivalent. Thus, Riemann's homogeneous space, or elliptical space, is obtained. 
+It is possible to complete these topological ideas by introducing, as is done in a geographical map, scales which vary from one point to another and from one direction to another.
+
+That can be done in such a manner that all the points of space and all the directions in it may be perfectly equivalent. 
+
+Thus, Riemann's homogeneous space, or elliptical space, is obtained. 
 
 The straight line is an odd contour of minimum length. Any two points divide it into two segments, the sum of which has a length which is the same for all straight lines and which is called the tour of space.
 
 All elliptical spaces are similar to one another. They can be described by comparison with one among them. 
 
-The one in which the tour of the straight line is equal to 'iT = 3.i4i6 is chosen as the standard elliptical space. in every elliptical space, the distances between two points are equal to the corresponding distances in standard space, multiplied by the number R which is called the radius of elliptical space under consideration. 
+The one in which the tour of the straight line is equal to 'iT = 3.i4i6 is chosen as the standard elliptical space. 
+
+In every elliptical space, the distances between two points are equal to the corresponding distances in standard space, multiplied by the number R which is called the radius of elliptical space under consideration. 
 
 The distances in standard space, called space of unit radius, are termed angular distances. Therefore, the true distances, or linear distances, are the product of the radius of space times the angular distances.
 
@@ -74,7 +90,9 @@ The distances in standard space, called space of unit radius, are termed angular
 
 When the radius of space varies with time, space of variable radius is obtained. 
 
-One can imagine that material points are distributed evenly in it, and that spatio-temporal observations are made on these points. The angular distance of the various observers remains invariant, therefore the linear distances vary proportionally to the radius of space. All the points in space are perfectly equivalent. 
+Material points are distributed evenly in it, and that spatio-temporal observations are made on these points.
+
+The angular distance of the various observers remains invariant, therefore the linear distances vary proportionally to the radius of space. All the points in space are perfectly equivalent. 
 
 A displacement can bring any point into the center of the representation. The measurements made by the observers are thus also equivalent, each one of them makes the same map of the universe.
 

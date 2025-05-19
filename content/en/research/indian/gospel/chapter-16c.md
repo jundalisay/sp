@@ -9,7 +9,7 @@ description: "At 9AM Sri Ramakrishna was standing on the southeast veranda near 
 Friday, December 14, 1883
 
 At 9AM Sri Ramakrishna was standing on the southeast verandah
-near the door of his room, with Ramlal by his side. Rākhāl and Lātu were moving
+near the door of his room, with Ramlal by his side. Rakhal and Lātu were moving
 about. M. arrived and prostrated himself before the Master. 
 
 Sri Ramakrishna said to him affectionately: "You have come. That's very good. Today is an auspicious day."
@@ -183,7 +183,7 @@ MASTER: "Oh, they'll let you have it. But I suggested the Panchavati because so 
 contemplation and meditation have been practised there and the name of God has been
 chanted there so often."
 It was evening. Incense was burning in the Master's room. He was sitting on the small
-couch, absorbed in meditation. M. was sitting on the floor with Rākhāl, Lātu, and
+couch, absorbed in meditation. M. was sitting on the floor with Rakhal, Lātu, and
 Ramlal.
 Singing of devotional songs
 The Master said to M., "The sum and substance of the whole thing is to cultivate
@@ -259,7 +259,7 @@ Saturday, December 15, 1883
 Story of Prahlada
 M. had been staying at Dakshineswar with Sri Ramakrishna. The Master was sitting in
 his room, listening to the life of Prahlada, which Ramlal was reading from the
-Bhaktamala. M. was sitting on the floor. Rākhāl, Lātu, and Harish were also in the
+Bhaktamala. M. was sitting on the floor. Rakhal, Lātu, and Harish were also in the
 room, and Hazra was on the verandah. While listening to the story of Prahlada's love for
 God, Sri Ramakrishna went into an ecstatic mood.
 Hiranyakasipu, the king of the demons and father of Prahlada, had put his son to endless
@@ -303,7 +303,7 @@ Mother!
 Sri Ramakrishna returned from the Kāli temple and sat on the southeast verandah of his
 room. He ate some refreshments which had been offered at the temple, and the
 devotees also received a share.
-Rākhāl sat by the Master and read about Lord Erskine from Self-Help by Smiles.
+Rakhal sat by the Master and read about Lord Erskine from Self-Help by Smiles.
 MASTER (to M.): "What does the book say?"
 M: "It says that Lord Erskine performed his duty without desiring any result for himself.
 Disinterested duty."
@@ -425,7 +425,7 @@ glories. The third stage is that of the perfect soul. He has seen God, realized 
 directly and immediately in his inner Consciousness. Last is the stage of the supremely
 perfect, like Chaitanya. Such a devotee establishes a definite relationship with God,
 looking on Him as his Son or Beloved."
-380M., Rākhāl, Jogin, Lātu, and the other devotees were entranced by these words of divine
+380M., Rakhal, Jogin, Lātu, and the other devotees were entranced by these words of divine
 realization.
 Mr. Mukherji and his friend were taking leave of the Master. After saluting him, they
 stood up. The Master also stood up to show them courtesy.

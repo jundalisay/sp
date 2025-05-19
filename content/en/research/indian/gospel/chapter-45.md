@@ -49,7 +49,7 @@ SURENDRA "At that time I was crying to the Mother in the worship hall. My elder
 brothers had gone upstairs. I thought the Mother said, 'I will come again.' "It was about
 eleven o'clock in the morning. Sri Ramakrishna finished his meal. M. poured water into
 his hand for him to rinse his mouth.
-MASTER (to M.): "Rākhāl has indigestion.
+MASTER (to M.): "Rakhal has indigestion.
 Praising the Gitā
 It is best to take only sattvic food. Haven't you read about it in the Gitā? Don't you read
 the Gitā?"

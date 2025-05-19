@@ -20,23 +20,23 @@ What self-consciousness distinguishes as having a being distinct from itself, ha
 
 It is a being reflected into itself, and the object of immediate desire is something living. 
 
-The inherent reality is the general result of the relation of the understanding to the inner nature of things.
+**The inherent reality is the general result of the relation of the understanding to the inner nature of things.**
 
 It is:
 - the distinguishing of what cannot be distinguished
-- the unity of what is distinguished. 
+- the unity of what is distinguished
 
 This unity recoils from itself.
 
 This conception breaks asunder into the opposition of:
 - self-consciousness and
-- life.
+- life
 
 Self-consciousness is the unity for which the absolute unity of differences exists.
 
 Life is only this unity itself, so that the unity is not at the same time for itself. 
 
-consciousness has independence which its object also has.
+Consciousness has independence which its object also has.
 
 Self-consciousness is absolutely for self-consciousness.
 
@@ -44,10 +44,10 @@ It characterizes its object directly as:
 - negative
 - primarily desire
 
-Self-consciousness will find through experience this object's independence.
+Self-consciousness will find, through experience, this object's independence.
 
 
-{{< s v="169" >}} The determination of the principle of life as obtained from the conception or general result with which we enter this new sphere, is sufficient to characterize it, without its nature being evolved further out of that notion. 
+{{< s v="169" >}} The determination of the principle of life as obtained from the conception of this new sphere. It is sufficient to characterize life without its nature being evolved further out of that notion. 
 
 Its circuit is completed in the following moments.
 
@@ -57,13 +57,15 @@ The essential element is infinity as:
 
 Life is itself at rest while being absolutely restless infinity.
 
-, the very self-dependence in which the differences brought out in the process are all dissolved, the simple reality of time, which in this self-identity has the solid form and shape of space. 
+The very self-dependence in which the differences brought out in the process are all dissolved.
 
-The differences, however, all the same hold as differences in this simple universal medium,
+The simple reality of time in this self-identity has the solid form and shape of space. 
 
-This universal flux exercises its negative activity by sublating them.
+The differences, however, all the same hold as differences in this simple universal medium.
 
-But it could not transcend them unless they had a subsistence of their own. 
+This universal flux exercises its negative activity by sublating the differences.
+
+But it could not transcend those differences unless they had a subsistence of their own. 
 
 Precisely this flux is itself self-identical independence.
 
@@ -73,9 +75,9 @@ This is their substance, in which they are distinct parts.
 
 <!-- Being no longer has the significance of mere abstract being, nor has their naked essence the meaning of abstract universality:  -->
 
-Their existence is now just that simple fluent substance of the pure movement within itself.
+Their existence is now merely that simple fluent substance of the pure movement within itself.
 
-The difference, however, of these parts is their moments of infinity, as the mere movement itself.
+However, the difference of these parts is their moments of infinity, as the mere movement itself.
 
  <!-- inter se consists, in no other characteristic than that of the , or . -->
 

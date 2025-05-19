@@ -102,13 +102,23 @@ For, just as one sees that the  hands of artisans become hard due to th
 
 But I have already explained how the blood enters the pulmonary artery with a force that is in proportion to how much it has been heated and rarefied in the right ventricle of the heart. 
 
-It remains here only to say that, when this blood is dispersed through all the tiny branches of this pulmonary artery, it is cooled and condensed by the respiratory air; and because of this tiny branches of the vessel that contain this air are mixed among them in all parts of the lung; and the new blood that comes from the right ventricle of the heart in this same pulmonary artery enters it with such force that it drives that which has begun to condense and makes it pass at the extremities of its branches into the branches of the pulmonary vein, where it flows very easily towards the left ventricle of the heart.
+When this blood is dispersed through all the tiny branches of this pulmonary artery, it is cooled and condensed by the respiratory air.
+- Because of this, tiny branches of the vessel that contain this air are mixed among them in all parts of the lung.
+- The new blood that comes from the right ventricle of the heart in this same pulmonary artery enters it with such force that it drives that which has begun to condense and makes it pass at the extremities of its branches into the branches of the pulmonary vein, where it flows very easily towards the left ventricle of the heart.
 
-And the main use of the lung consists in one thing alone: by means of the respiratory air, it thickens and tempers the blood that comes from the right ventricle of the heart before it enters the left ventricle; without this it would be too rare and too fine to serve to fuel the fire that it encounters there.
+The main use of the lung is to use the air to thicken and temper the blood that comes from the right ventricle of the heart before it enters the left ventricle.
 
-Its other use is to contain the air that serves to produce the voice.  Also, we see that fish and other animals that have only a single ventricle in the heart, all lack a lung, as a result of which, they are mute, so that none of them can make a sound.
+Without this, it would be too decompressed and fine to fuel the fire that it encounters there.
 
-But they are also all of a very much colder constitution than animals that have two ventricles in their hearts, because the blood of these latter, having already been heated and rarefied once in the right ventricle, falls back into the left ventricle a little later where it stirs up a fire that is more lively and warmer than it would be were it to come immediately from the vena cava. And although this blood re-cools and condenses in the lung, nevertheless, because it remains there for a short time, and because it does not mix with any grosser matter there, it retains an ability to dilate and reheat better than that which it had before it entered the heart. 
+Its other use is to contain the air that serves to produce the voice.
+
+Fish and other animals that have only a single ventricle in the heart all lack a lung. This makes them mute unable to make a sound.
+
+They are also of a very much colder constitution than animals that have 2 ventricles in their hearts.
+
+This is because the blood of those with 2 ventricles have already been heated and decompressed once in the right ventricle. This makes it fall back into the left ventricle a little later where it stirs up a fire that is more lively and warmer than it would be were it to come immediately from the vena cava.
+
+Although this blood re-cools and condenses in the lung, nevertheless, because it remains there for a short time, and because it does not mix with any grosser matter there, it retains an ability to dilate and reheat better than that which it had before it entered the heart. 
 
 Similarly, experience shows that oils that have been made to pass several times through a distillation flask are much easier to distil the second time than the first.
 

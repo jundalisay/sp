@@ -47,13 +47,13 @@ As the other members joined the monastery one by one, he doubled his contributio
 The younger Gopal brought the Master's bed and other articles of daily use from the garden house at Cossipore. The brahmin who had been cook at Cossipore was engaged
 for the new monastery. The first permanent member was the elder Gopal. 
 
-Sarat spent the nights there. In the beginning Sarat, Śaśi, Baburam, Niranjan, and Kāli used to visit the monastery every now and then, according to their convenience. Tārak, who hadgone to Vrindāvan following the Master's death, returned to Calcutta after a few months and soon became a permanent member of the monastery. Rākhāl, Jogin, Lātu, and Kāli
+Sarat spent the nights there. In the beginning Sarat, Śaśi, Baburam, Niranjan, and Kāli used to visit the monastery every now and then, according to their convenience. Tārak, who hadgone to Vrindāvan following the Master's death, returned to Calcutta after a few months and soon became a permanent member of the monastery. Rakhal, Jogin, Lātu, and Kāli
 were living at Vrindāvan with the Holy Mother when the monastery was started. 
 
-Kāli returned to Calcutta within a month, Rākhāl after a few months, and Jogin and Lātu after a year. The householder devotees frequently visited the monastic brothers and
+Kāli returned to Calcutta within a month, Rakhal after a few months, and Jogin and Lātu after a year. The householder devotees frequently visited the monastic brothers and
 spent hours with them in meditation and study. 
 
-After a short time Narendra, Rākhāl, Niranjan, Sarat, Śaśi, Baburam, Jogin, Tārak, Kāli, and Lātu renounced the world for good. Sarada Prasanna and Subodh joined them some
+After a short time Narendra, Rakhal, Niranjan, Sarat, Śaśi, Baburam, Jogin, Tārak, Kāli, and Lātu renounced the world for good. Sarada Prasanna and Subodh joined them some
 time later. Gangadhar, who was very much attached to Narendra, visited the Math regularly. 
 
 It was he who taught the brothers the hymn sung at the evening service in the Śiva temple at Benares. He had gone to Tibet to practise austerity; now, having
@@ -75,8 +75,8 @@ Later on, when they thought of his genuine love, the members of this first Math 
 
 ## Ascetic zeal of the young sannyāsis
 
-The new monastery became known among the Master's devotees as the Baranagore Math. Narendra, Rākhāl, and the other young disciples were filled with intense
-renunciation. One day Rākhāl's father came to the Math and asked Rākhāl to return home. "Why do you take the trouble to come here?" Rākhāl said to him. "I am very
+The new monastery became known among the Master's devotees as the Baranagore Math. Narendra, Rakhal, and the other young disciples were filled with intense
+renunciation. One day Rakhal's father came to the Math and asked Rakhal to return home. "Why do you take the trouble to come here?" Rakhal said to him. "I am very
 happy here. Pleased pray to God that you may forget me and that I may forget you too."
 
 The young disciples said to each other: "We shall never return to the worldly life. The Master enjoined upon us the renunciation of 'woman and gold'. How can we go back to

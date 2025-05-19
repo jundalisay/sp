@@ -60,23 +60,33 @@ Without being formally initiated into their doctrines, Sri Ramakrishna thus real
 
 All barriers were removed by his overwhelming love of God. So he became a Master who could speak with authority regarding the ideas and ideals of the various religions of the world. 
 
-"I have practised", said he, "all religions - Hinduism, Islam, Christianity - and I have also followed the paths of the different Hindu sects. I have found that it is the same God toward whom all are directing their steps, though along different paths. 
+
+{{< l a="Ramakrishna" >}}
+I have practised all religions - Hinduism, Islam, Christianity - and I have also followed the paths of the different Hindu sects. I have found that it is the same God toward whom all are directing their steps, though along different paths. 
 
 You must try all beliefs and traverse all the different ways once. Wherever I look, I see men quarrelling in the name of religion - Hindus, Mohammedans, Brahmos, Vaishnavās, and the rest. 
 
 But they never reflect that He who is called Krishna is also called Śiva, and bears the name of the Primal Energy, Jesus, and Allah as well - the same Rāmā with a thousand names. A lake has several G hāts . 
 
 At one, the Hindus take water in pitchers and call it 'Jal' ; at another the Muslims take water in leather bags and call it 'pāni' . At a third the Christians call it 'water' . Can we imagine that it is not 'jal', but only 'pāni' or
-'water'? How ridiculous! The substance is One under different names, and everyone is
-seeking the same substance; only climate, temperament, and name create differences.
-Let each man follow his own path. If he sincerely and ardently wishes to know God,
-peace be unto him! He will surely realize Him."
+'water'? 
 
-In 1867, Sri Ramakrishna returned to Kāmārpukur to recuperate from the effect of his austerities. The peaceful countryside, the simple and artless companions of his boyhood, and the pure air did him much good. The villagers were happy to get back their playful, frank, witty, kind-hearted, and truthful Gadādhar, though they did not fail to notice the great change that had come over him during his years in Calcutta.
+How ridiculous! The substance is One under different names, and everyone is seeking the same substance; only climate, temperament, and name create differences. Let each man follow his own path. If he sincerely and ardently wishes to know God,
+peace be unto him! He will surely realize Him.
+{{< /l >}}
+
+
+In 1867, Sri Ramakrishna returned to Kāmārpukur to recuperate from the effect of his austerities. The peaceful countryside, the simple and artless companions of his boyhood, and the pure air did him much good. 
+
+The villagers were happy to get back their playful, frank, witty, kind-hearted, and truthful Gadādhar, though they did not fail to notice the great change that had come over him during his years in Calcutta.
 
 His wife, Sāradā Devi, now 14 years old, soon arrived at Kāmārpukur. Her spiritual development was much beyond her age and she was able to understand immediately her husband's state of mind. She became eager to learn from him about God and to live with him as his attendant.
 
-The Master accepted her cheerfully both as his disciple and as his spiritual companion. Referring to the experiences of these few days, she once said: "I used to feel always as if a pitcher full of bliss were placed in my heart. The joy was indescribable."
+The Master accepted her cheerfully both as his disciple and as his spiritual companion. Referring to the experiences of these few days, she once said: 
+
+{{< r a="Sarada Devi" >}}
+I used to feel always as if a pitcher full of bliss were placed in my heart. The joy was indescribable.
+{{< /r >}}
 
 
 ## Pilgrimage
@@ -93,7 +103,9 @@ Whereupon Mathur had to yield. On another occasion, two years later, Sri Ramakri
 
 The Master asked Mathur to remit their rents, distribute help to them, and in addition give the hungry people a sumptuous feast. When Mathur grumbled, the Master said: 
 
-"You are only the steward of the Divine Mother. They are the Mother's tenants. You must spend the Mother's money. When they are suffering, how can you refuse to help them? You must help them." 
+{{< l a="Ramakrishna" >}}
+You are only the steward of the Divine Mother. They are the Mother's tenants. You must spend the Mother's money. When they are suffering, how can you refuse to help them? You must help them.
+{{< /l >}}
 
 Again Mathur had to give in. Sri Ramakrishna's sympathy for the poor sprang from his perception of God in all created beings. His sentiment was not that of the humanist or philanthropist. To him the service of man was the same as the worship of God.
 
@@ -121,8 +133,6 @@ From Vrindāvan the Master had brought a handful of dust. Part of this he scatte
 "Now this place", he said, "is as sacred as Vrindāvan."
 
 In 1870 the Master went on a pilgrimage to Nadia, the birth-place of Sri Chaitanya. As the boat by which he travelled approached the sand-bank close to Nadia, Sri Ramakrishna had a vision of the "two brothers", Sri Chaitanya and his companion
-Nityānanda, "bright as molten gold" and with haloes, rushing to greet him with uplifted
-hands. "There they come! There they come!" he cried. They entered his body and he
-went into a deep trance.
+Nityānanda, "bright as molten gold" and with haloes, rushing to greet him with uplifted hands. "There they come! There they come!" he cried. They entered his body and he went into a deep trance.
 
 

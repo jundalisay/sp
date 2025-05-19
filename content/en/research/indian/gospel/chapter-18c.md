@@ -27,7 +27,7 @@ M: "Yes, sir."
 
 Monday, December 31, 1883
 
-At 4PM. the Master was sitting in his room with M., Rākhāl, Lātu, Harish, and other devotees.
+At 4PM. the Master was sitting in his room with M., Rakhal, Lātu, Harish, and other devotees.
 
 Addressing M. and Balarām, the Master said: "Haladhāri followed the path of knowledge.
 
@@ -46,7 +46,7 @@ Mother, I don't want Brahmajnana. I want to be merry. I want to play." Again he 
 
 Wednesday, January 2, 1884
 
-Rākhāl , Lātu, Harish, Ramlal, and M. had been staying with Sri Ramakrishna at the temple garden. About three o'clock in the afternoon M. found the Master on the west
+Rakhal , Lātu, Harish, Ramlal, and M. had been staying with Sri Ramakrishna at the temple garden. About three o'clock in the afternoon M. found the Master on the west
 porch of his room engaged in conversation with a Tantrik devotee. The Tantrik was wearing an ochre cloth. Sri Ramakrishna asked M. to sit by his side. Perhaps the Master
 intended to instruct him through his talk with the Tantrik devotee. Mahima Chakravarty
 had sent the latter to the Master.
@@ -112,10 +112,10 @@ I love you: this is love for its own sake.
 The thing is that one must love God. Through intense love one attains the vision of Him. The attraction of the husband for the chaste wife, the attraction of the child for its
 mother, the attraction of worldly possessions for the worldly man-when a man can blend these 3 into 1, and direct it all to God, then he gets the vision of God."Jaygopal was a man of the world. Was this why the Master gave instruction suited to him?
 
-At 8PM, the Master was sitting in his room with Rākhāl and M. It was the 21st day of M.'s stay with Sri Ramakrishna. The Master had forbidden
+At 8PM, the Master was sitting in his room with Rakhal and M. It was the 21st day of M.'s stay with Sri Ramakrishna. The Master had forbidden
 him to indulge in reasoning.
 
-MASTER (to Rākhāl): "It is not good to reason too much. First comes God, and then the world. Realize God first; then you will know all about His world. (To M. and Rākhāl ) If
+MASTER (to Rakhal): "It is not good to reason too much. First comes God, and then the world. Realize God first; then you will know all about His world. (To M. and Rakhal ) If
 first one is introduced to Jadu Mallick, then one can know everything about him-the number of his houses, gardens, government securities, and so on. For this reason the
 rishi Nārada advised Valmiki1 to repeat the word 'mara'. 'Ma' means God, and 'ra' the world. 
 

@@ -162,7 +162,7 @@ appears trivial to me, not to speak of the beauty of another man's wife.'
 "Alas! I find that all the customers here seek worthless Kalai Pulse. Unless, the soul is
 pure, it cannot have genuine love of God and single-minded devotion to the ideal. The
 mind wanders away to various objects.
-778(To Manomohan) "You may take offence at my words; but I said to Rākhāl, 'I would
+778(To Manomohan) "You may take offence at my words; but I said to Rakhal, 'I would
 rather hear that you had drowned yourself in the Ganges than learn that you had
 accepted a job under another person and become his servant.'
 "One day a Nepalese girl came here. She sang devotional songs to the accompaniment
@@ -359,12 +359,12 @@ opportunity to visit the Master when the men devotees would leave the room.
 Master talks about his young disciples
 Sri Ramakrishna was sitting on the small couch. As he looked at the young devotees his
 face beamed with joy.
-Rākhāl was not then liying at Dakshineswar with the Master. Since his return from
+Rakhal was not then liying at Dakshineswar with the Master. Since his return from
 Vrindāvan he had been living at home.
-MASTER (smjling): "Rākhāl is now enjoying his 'pension'. Since his return from
+MASTER (smjling): "Rakhal is now enjoying his 'pension'. Since his return from
 Vrindāvan he has been staying at home. His wife is there. But he said to me that he
 would not accept any work even if he were offered a salary of a thousand rupees.
-"Rākhāl would lie down here and say to me that he didn't care even for my campany. He
+"Rakhal would lie down here and say to me that he didn't care even for my campany. He
 was then passing through such an exalted state.
 "Bhavanāth is married; but he spends the whole night in spiritual conversation with his
 wife. The couple passes their time talking of God alone: I said to him, 'Have a little fun
@@ -402,7 +402,7 @@ BABURAM (smiling): "That's what I want."
 MASTER (smiling): "But, my child, can you attain it by holding to both? If you want that,
 then come away."
 BABURAM (smiling): "Take me away from the world."
-MASTER (to M.): "Rākhāl lived with me, but that was different; his father agreed to it. If
+MASTER (to M.): "Rakhal lived with me, but that was different; his father agreed to it. If
 these boys stay here there will be trouble.
 (To Baburam) "You have no strength of mind; you haven't much courage. Just see how
 the younger Naren says, 'I will come away for good."
@@ -417,7 +417,7 @@ becomes a ghost. Therefore, whenever the ghost saw anybody fall from a roof or
 stumble and faint on the road on either of those days, he would run to him, hoping that
 the man, through an accidental death, would become a ghost and be his companion. But
 such was his ill luck that everyone revived. The poor thing could not get a companion.
-"Just see, Rākhāl always gives his wife as an excuse. He says, 'What will become of her?'
+"Just see, Rakhal always gives his wife as an excuse. He says, 'What will become of her?'
 When I touched Narendra on the chest, he became unconscious; then he cried out: 'Oh,
 what have you done to me? Don't you know that I have a father and mother?'
 "Why has God made me lead this kind of life? Chaitanyadeva became a sannyāsi so that

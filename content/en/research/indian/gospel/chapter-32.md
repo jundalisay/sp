@@ -771,7 +771,7 @@ show himself. He wanted people to know that he was a member of the Brahmo Samaj.
 ānnā ?"
 The conversation turned to the Annakuta festival of the Mārwāris.
 MASTER (to the devotees): "What you have seen here one sees at Vrindāvan too.
-Rākhāl has been seeing the same thing there. But the mound of food at Vrindāvan is
+Rakhal has been seeing the same thing there. But the mound of food at Vrindāvan is
 higher, and more people gather there. There you also see the Govardhan hill. That's the
 only difference.
 "Did you notice the Mārwāris' devotion? That is the real Hindu ideal. That is the

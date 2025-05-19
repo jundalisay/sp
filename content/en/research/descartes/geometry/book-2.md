@@ -1,7 +1,7 @@
 ---
 title: The Nature of Curved Lines
 heading: Book 2
-weight: 4
+weight: 14
 description: "The body is a machine of earth which God forms on purpose to make it as similar to us as possible. He gives its outside the color and shape of all our members, but he also puts on its inside the color and shape of our bodies."
 writer:
   name: Rene Descartes

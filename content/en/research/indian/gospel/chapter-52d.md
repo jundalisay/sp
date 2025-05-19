@@ -9,42 +9,46 @@ description: ""
 
 Narendra was in charge of the members of the monastery. Prasanna had been practising austere sādhanā for the past few days. Once Narendra had told him of his desire to fast to death for the realization of God.
 
-During Narendra's absence in Calcutta, Prasanna had left the monastery for an unknown destination. When Narendra heard about it, he said to
-the brothers, "Why did Raja allow him to go?" 
+During Narendra's absence in Calcutta, Prasanna had left the monastery for an unknown destination. When Narendra heard about it, he said to the brothers, "Why did Raja allow him to go?" 
 
-But Rākhāl had not been in the monastery at the time, having gone to the Dakshineswar temple for a stroll.
+But Rakhal had not been in the monastery at the time, having gone to the Dakshineswar temple for a stroll.
 
-NARENDRA: "Just let Raja come back to the monastery! I shall scold him. Why did he allow Prasanna to go away? (To Harish) I am sure you were lecturing him then, standing with your feet apart. Couldn't you prevent his going away?"
+{{< l a="Narendra" >}}
+Just let Raja come back to the monastery! I shall scold him. Why did he allow Prasanna to go away? (To Harish) I am sure you were lecturing him then, standing with your feet apart. Couldn't you prevent his going away?
+{{< /l >}}
 
 Harish replied in a very low voice, "Brother Tārak asked him not to go, but still he went away.
 
-NARENDRA (to M.): "You see what a lot of trouble I am in! Here, too, I am involved in a world of māyā. Who knows where this boy has gone?"
 
-Rākhāl returned from Dakshineswar. Bhavanāth had accompanied him.
+{{< l a="Narendra" >}}
+(to M.): "You see what a lot of trouble I am in! Here, too, I am involved in a world of māyā. Who knows where this boy has gone?"
+{{< /l >}}
 
-Narendra told Rākhāl about Prasanna's going away from the monastery. Prasanna had left a letter for Narendra. This was the substance of the letter: "I am going to Vrindāvan on foot.
+Rakhal returned from Dakshineswar. Bhavanāth had accompanied him.
+
+Narendra told Rakhal about Prasanna's going away from the monastery. Prasanna had left a letter for Narendra. This was the substance of the letter: "I am going to Vrindāvan on foot.
 
 It is very risky for me to live here. Here my mind is undergoing a change.
 
 Formerly I used to dream about my parents and other relatives. Then I dreamt of woman, the embodiment of māyā. I have suffered twice; I had to go back to my
-relatives at home. Therefore I am going far away from them. The Master once told me, 'Your people at home are apt to do anything; never trust them.' "Rākhāl said: "These are the reasons for his going away. Once he remarked: 'Narendra often goes home to look after his mother, brothers, and sisters. And he supervises the
+relatives at home. Therefore I am going far away from them. The Master once told me, 'Your people at home are apt to do anything; never trust them.' "Rakhal said: "These are the reasons for his going away. Once he remarked: 'Narendra often goes home to look after his mother, brothers, and sisters. And he supervises the
 family's lawsuit. I am afraid that I too may feel like going home, following his example.'"
 
 Narendra remained silent.
 
-Rākhāl was talking to them about making pilgrimages. He said: "We have achieved nothing by staying here. The Master always exhorted us to realize God. Have we
+Rakhal was talking to them about making pilgrimages. He said: "We have achieved nothing by staying here. The Master always exhorted us to realize God. Have we
 succeeded?"
 
-Rākhāl lay down. The other devotees were either lying down or sitting.
+Rakhal lay down. The other devotees were either lying down or sitting.
 
-RĀKHĀL: "Let us go to the Narmada."
+Rakhal: "Let us go to the Narmada."
 
 NARENDRA: "What will you achieve by wandering about? Can one ever attain jnāna, that you are talking about it so much?"
 
 A DEVOTEE: "Then why have you renounced the world?"
 
 NARENDRA: "Must we live with Shyam because we have not seen Ram? Must we go on begetting children because we have not realized God? What are you talking about?"
-Narendra went out, returning after a few minutes. Rākhāl was still lying down.
+Narendra went out, returning after a few minutes. Rakhal was still lying down.
 
 A member of the monastery who was also lying down said teasingly, feigning great suffering on account of his separation from God: "Ah! Please get me a knife. I have no
 more use for this life. I can't stand this pain any more!"
@@ -53,21 +57,28 @@ NARENDRA (feigning seriousness): "It is there. Stretch out your hand and take it
 
 Everybody laughed.
 
-The conversation again turned to Prasanna.
 
-NARENDRA: "Even here we are involved in māyā. Why have we become sannyāsis, I wonder?"
+{{< l a="Narendra" >}}
+Even here we are involved in māyā. Why have we become sannyāsis, I wonder?
+{{< /l >}}
 
-RĀKHĀL: "I have read in a book that sannyāsis should not live together. The author has described a city of sannyāsis."
+
+Rakhal: "I have read in a book that sannyāsis should not live together. The author has described a city of sannyāsis."
 
 ŚAŚI: "I don't care about sannyās or any such thing. There is no place where I cannot live."
 
 They were talking of Bhavanāth, whose wife had been seriously ill.
 
-Narendra said to Rākhāl: "I understand that his wife has been snatched from the jaws of death. Is that why he went to Dakshineswar to enjoy the fresh air?"Ram Babu intended to build a temple in the garden at Kankurgachi, where some of Sri Ramakrishna's ashes were buried.
 
-NARENDRA (to Rākhāl): "Ram Babu has made M. one of the trustees of the garden."
+{{< l a="Narendra" >}}
+Rakhal, I understand that his wife has been snatched from the jaws of death. Is that why he went to Dakshineswar to enjoy the fresh air?"
+{{< /l >}}
 
-M. (to Rākhāl): "But I don't know anything about it."
+Ram Babu intended to build a temple in the garden at Kankurgachi, where some of Sri Ramakrishna's ashes were buried.
+
+NARENDRA (to Rakhal): "Ram Babu has made M. one of the trustees of the garden."
+
+M. (to Rakhal): "But I don't know anything about it."
 
 It was dusk. Śaśi burnt incense before the picture of Sri Ramakrishna in the worship room and then before the pictures of gods and goddesses in the other rooms.
 The evening worship began. The members of the Math and the other devotees stood with folded hands near the door of the shrine and witnessed the Ārati . Then they all
@@ -100,13 +111,13 @@ The conversation turned to the Yoga-vāsishta.
 
 M: "Well, how is Brahmajnana described in the Yoga-vāsishta?"
 
-RĀKHĀL: "Hunger, thirst, pain, pleasure, and so on, are all māyā. The annihilation of the mind is the only means to the realization of Brahman."M: "What remains after the annihilation of the mind is Brahman. Is that not true?"
+Rakhal: "Hunger, thirst, pain, pleasure, and so on, are all māyā. The annihilation of the mind is the only means to the realization of Brahman."M: "What remains after the annihilation of the mind is Brahman. Is that not true?"
 
-RĀKHĀL: "Yes."
+Rakhal: "Yes."
 
 M: "Sri Ramakrishna used to say that Nangta taught him that way. Have you found in the book that Vasishtha asked Rāma to lead a householder's life?"
 
-RĀKHĀL: "I haven't yet found anything like that in the book. Rāma is not even admitted by the author to be an Incarnation of God."
+Rakhal: "I haven't yet found anything like that in the book. Rāma is not even admitted by the author to be an Incarnation of God."
 
 Presently Narendra, Tārak, and another devotee returned from the bank of the Ganges.
 

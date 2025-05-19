@@ -9,7 +9,7 @@ description: "Brahman alone is real and the world illusory"
 
 Monday, June 25, 1883
 
-Sri Ramakrishna was at Balarām Bose's house in Calcutta. Rākhāl and M. were seated near him. The Master was in ecstasy. He conversed with the devotees in an abstracted mood.
+Sri Ramakrishna was at Balarām Bose's house in Calcutta. Rakhal and M. were seated near him. The Master was in ecstasy. He conversed with the devotees in an abstracted mood.
 
 
 {{< l a="Ramakrishna" >}}

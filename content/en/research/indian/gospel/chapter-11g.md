@@ -3,18 +3,18 @@ title: "Advice to Householders"
 c: "indigo"
 heading: "Chapter 11g"
 weight: 52
-description: "Rākhāl's father's father-in-law was a devotee of God"
+description: "Rakhal's father's father-in-law was a devotee of God"
 ---
 
 
 Friday, June 15, 1883
 
-It was a holiday on account of the Hindu religious festival Dasahara. Among the devotees who visited Sri Ramakrishna at Dakshineswar that day were Adhar, M., and Rākhāl 's father. Rākhāl 's father's father-in-law was also present. All were seated on
+It was a holiday on account of the Hindu religious festival Dasahara. Among the devotees who visited Sri Ramakrishna at Dakshineswar that day were Adhar, M., and Rakhal 's father. Rakhal 's father's father-in-law was also present. All were seated on
 the floor of the Master's room. 
 
 ## Advice to householders
 
-Rākhāl 's father's father-in-law was a devotee of God. He asked the Master, "Sir, can
+Rakhal 's father's father-in-law was a devotee of God. He asked the Master, "Sir, can
 one realize God while leading the life of a householder?"
 
 MASTER (with a smile): "Why not? Live in the world like a mudfish. The mudfish lives in the mud but itself remains unstained. Or live in the world like a loose woman. She attends to her household duties, but her mind is always on her sweetheart. Do your
@@ -38,7 +38,7 @@ You have to spend a few days in solitude.
 
 If you but touch the 'granny' you are safe.
 
-Turn yourself into gold and then live wherever you please. After realizing God and divine love in solitude one may live in the world as well. (To Rākhāl 's father) That is why I ask the youngsters to stay with me; for they will develop love of God by staying here a few days. After that they can very well lead the life of a householder."
+Turn yourself into gold and then live wherever you please. After realizing God and divine love in solitude one may live in the world as well. (To Rakhal 's father) That is why I ask the youngsters to stay with me; for they will develop love of God by staying here a few days. After that they can very well lead the life of a householder."
 
 
 ## Problem of good and evil

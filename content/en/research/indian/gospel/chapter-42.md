@@ -760,7 +760,7 @@ It was nine o'clock. Sri Ramakrishna was about to leave for Dakshineswar. Arrang
 were being made for his departure. A boat had been hired at Baghbazar. The devotees
 saluted the Master. Sri Ramakrishna went to the boat with one or two devotees. Gopal
 Ma accompanied them. She intended to spend the morning at Dakshineswar and go to
-Kamarhati in the afternoon. The camp cot generally used by Rākhāl at Dakshineswar had
+Kamarhati in the afternoon. The camp cot generally used by Rakhal at Dakshineswar had
 been sent to Calcutta for repair. It was put in the boat, and the boat left for
 Dakshineswar. According to the Hindu almanac the day was not auspicious. So Sri
 Ramakrishna decided to return to Balarām's house the next Saturday and start again for

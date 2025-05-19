@@ -14,9 +14,9 @@ Around 9 AM, the devotees began to arrive at the temple garden.
 
 Sri Ramakrishna was sitting on the porch of his room facing the Ganges. M., who had spent the previous night with the Master, sat near him. Balarām and several other devotees were present.
 
-Rākhāl lay on the floor, resting his head on the Master's lap. 
+Rakhal lay on the floor, resting his head on the Master's lap. 
 
-For the past few days, the Master had been regarding Rākhāl as the Baby Krishna. Seeing Trailokya passing on his way to the Kali temple, Sri Ramakrishna asked Rākhāl to get up. Trailokya bowed to the Master. 
+For the past few days, the Master had been regarding Rakhal as the Baby Krishna. Seeing Trailokya passing on his way to the Kali temple, Sri Ramakrishna asked Rakhal to get up. Trailokya bowed to the Master. 
 
 {{< l a="Ramakrishna" >}}
 (to Trailokya) Was there no yatra performance last night?
@@ -36,7 +36,7 @@ Ram, I told Trailokya that the yatra performance should not be omitted again. Wa
 
 RAM: Of course you were right. The traditions should be observed.
 
-The Master asked Balarām to stay for his midday meal. Before the meal Sri Ramakrishna described to the devotees the days of his God-intoxication. Rākhāl, M., Ramlal, and a few others were present.
+The Master asked Balarām to stay for his midday meal. Before the meal Sri Ramakrishna described to the devotees the days of his God-intoxication. Rakhal, M., Ramlal, and a few others were present.
 
 
 ## Master's attitude toward young disciples
@@ -100,7 +100,7 @@ the Divine Mother. The ladies of the house didn't feel at all bashful with me. T
 as free before me as women feel before a small boy or girl. I used to escort Mathur's
 daughter to her husband's chamber with the maidservant.
 
-Even now the slightest thing awakens God-Consciousness in me. Rākhāl used to repeat
+Even now the slightest thing awakens God-Consciousness in me. Rakhal used to repeat
 the name of God half aloud. At such times I couldn't control myself. It would rouse my
 spiritual consciousness and overwhelm me."
 

@@ -29,6 +29,7 @@ Destroyer, He is called the Primordial Energy, Kāli.
 
 {{< l a="Ramakrishna" >}}
 One is able to realize God just through love. Ecstasy of feeling, devotion, love, and faith - these are the means. Listen to a song:
+
 As is a man's meditation, so is his feeling of love;
 As is a man's feeling of love, so is his gain;
 And faith is the root of all.

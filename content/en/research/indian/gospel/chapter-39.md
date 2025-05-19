@@ -363,11 +363,11 @@ the hall. There he picked out a nice seat for himself, twirled his moustaches, a
 through the performance. (All laugh.)
 "You have no children to divert your mind. I know a deputy magistrate who draws a
 salary of eight hundred rupees a month. He went to Keshab's house to see a
-performance. I was there too. Rākhāl and a few other devotees were with me and sat
-beside me. After a while Rākhāl went out for a few minutes. The deputy magistrate came
-over and made his young son take Rākhāl's seat. I said, 'He can't sit there.' 'At that time
+performance. I was there too. Rakhal and a few other devotees were with me and sat
+beside me. After a while Rakhal went out for a few minutes. The deputy magistrate came
+over and made his young son take Rakhal's seat. I said, 'He can't sit there.' 'At that time
 I was in such a state of mind that I had to do whatever the person next to me would ask
-me to do; so I had seated Rākhāl beside me. As long as the performance lasted the
+me to do; so I had seated Rakhal beside me. As long as the performance lasted the
 deputy did nothing but gibber with his son. The rascal didn't look at the performance
 even once. I heard, too, that he is a slave to his wife; he gets up and sits down as she
 tells him to. And he didn't see the performance for that snub-nosed monkey of a boy.

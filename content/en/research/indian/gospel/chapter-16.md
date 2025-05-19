@@ -1,5 +1,5 @@
 ---
-title: "WITH THE DEVOTEES AT DAKSHINESWAR (II)"
+title: "With The Devotees At Dakshineswar (II)"
 c: "indigo"
 heading: "Chapter 16"
 weight: 66
@@ -11,7 +11,7 @@ Sunday, December 9, 1883
 
 ## Chaitanya's exalted state
 
-SRI RAMAKRISHNA was seated on the small couch in his room with Adhar, Manomohan, Rākhāl , M., Harish, and other devotees. It was about two o' clock in the afternoon. The Master was describing to them the exalted state of Sri Chaitanya.
+SRI RAMAKRISHNA was seated on the small couch in his room with Adhar, Manomohan, Rakhal , M., Harish, and other devotees. It was about two o' clock in the afternoon. The Master was describing to them the exalted state of Sri Chaitanya.
 
 MASTER: "Chaitanya experienced three states of mind. First, the conscious state, when his mind dwelt on the gross and the subtle. Second, the semi-conscious state, when his mind entered the causal body and was absorbed in the bliss of divine intoxication. Third,
 the inmost state, when his mind was merged in the Great Cause.
@@ -75,7 +75,7 @@ Master's intimate relationship with disciples
 
 "You are my very own, my relative; otherwise, why should you come here so frequently?
 
-While listening to the kirtan, I had a vision of Rākhāl in the midst of Sri Krishna's companions in Vrindāvan. Narendra belongs to a very high level. Hirananda too; how childlike his nature is! What sweet disposition he has! I want to see him too.
+While listening to the kirtan, I had a vision of Rakhal in the midst of Sri Krishna's companions in Vrindāvan. Narendra belongs to a very high level. Hirananda too; how childlike his nature is! What sweet disposition he has! I want to see him too.
 "Once I saw the companions of Chaitanya, not in a trance but with these very eyes.
 
 Formerly I was in such an exalted state of mind that I could see all these things with my naked eyes; but now I see them in samādhi. I saw the companions of Chaitanya with these naked eyes. I think I saw you there, and Balarām too, You must have noticed that
@@ -96,7 +96,7 @@ me a rich man to stand by me.'
 
 That is why Mathur Babu did so much to serve me.
 
-"I said further, 'Certainly I shall not have any children, Mother. But it is my desire that a boy with sincere love for God should always remain with me. Give me such a boy.' That is the reason Rākhāl came here. Those whom I think of as my own are part and parcel of me."
+"I said further, 'Certainly I shall not have any children, Mother. But it is my desire that a boy with sincere love for God should always remain with me. Give me such a boy.' That is the reason Rakhal came here. Those whom I think of as my own are part and parcel of me."
 
 The Master started again for the Panchavati accompanied by M. No one else was with them. Sri Ramakrishna with a smile narrated to him various incidents of the past years of his life.
 

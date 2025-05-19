@@ -494,7 +494,7 @@ Thou art my heart's most precious Jewel,
 The Home of Everlasting Joy.
 It was half past five in the afternoon when Dr. Sarkar came to the Master's room at
 Syampukur, felt his pulse, and prescribed the necessary medicine. Many devotees were
-present, including Narendra, Girish, Dr. Dukari, the younger Naren, Rākhāl, M., Sarat,
+present, including Narendra, Girish, Dr. Dukari, the younger Naren, Rakhal, M., Sarat,
 and Shyam Basu.
 Dr. Sarkar talked a little about the Master's illness and watched him take the first dose
 of medicine. Then Sri Ramakrishna began to talk to Shyam Basu. Dr. Sarkar started to

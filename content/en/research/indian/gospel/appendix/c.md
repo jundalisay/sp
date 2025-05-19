@@ -43,7 +43,7 @@ Year | Event(s)
 1878 | Intimacy with Keshab. The Holy Mother's third visit to Dakshineśwar.
 1879 | Coming of disciples begins.
 1880 | Last visit to Kāmārpukur.
-1881 | Dismissal of Hriday. Meeting with Rākhāl and Narendranāth.
+1881 | Dismissal of Hriday. Meeting with Rakhal and Narendranāth.
 1882 | Visit to Pundit Vidyāsāgar. The Holy Mother again at Dakshineswar.
 1884 | Death of Keshab. Meeting with Pundit Shashadhar, Gopal Mā. Holy Mother comes to live at Dakshineśwar for the last time.
 1885 | Last visit to Panihati. Illness and shifted to Śyāmpukur. Association with Dr. Sarkār. Shifted to Cossipore.

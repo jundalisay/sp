@@ -11,7 +11,7 @@ Sunday, September 28, 1884
 
 It was the day of the Mahāshtami, the most auspicious day of the worship of Durga, the Divine Mother. At Adhar's invitation Sri Ramakrishna had come to Calcutta to see the holy image at his house. Before going there he went to Ram's. Many devotees, including Narendra, Baburam, M., Niranjan, Vijay, Kedār, Ram, and Surendra, were present. 
 
-Balarām and Rākhāl were still at Vrindāvan.
+Balarām and Rakhal were still at Vrindāvan.
 
 MASTER (looking at Vijay and Kedār, with a smile): "This is a nice reunion today. You 2 have the same spiritual mood. (To Vijay) Well, what about Shivanath? Did you-?"
 VIJAY: "Yes, sir, he heard that you had been to his house. I haven't seen him, but I sent him word. He knows about it."
@@ -99,7 +99,7 @@ by the wind from the other side of the Ganges. It tasted very sweet to me. But
 nowadays I cannot eat food touched by anybody and everybody. No, I cannot. But once
 in a while I do. One day I was taken to see a performance of a play at Keshab's house.
 They gave me luchi and curries to eat. I didn't know whether the food was handed to me
-by a washerman or a barber; but I ate quite a little (all laugh). Rākhāl had asked me to
+by a washerman or a barber; but I ate quite a little (all laugh). Rakhal had asked me to
 eat.
 (To Narendra) "With you it is all right. You are in 'this' as well as in 'that'. You can eat
 everything now. (To the devotees) Blessed is he who feels longing for God, though he
@@ -162,7 +162,7 @@ MASTER (tenderly): "One gets that. I have had it myself.
 615Use a little almond oil. I have heard that it cures dizziness."
 KEDĀR: "I shall, sir."
 MASTER (to Chunilal): "Hello! How is everything?"
-CHUNILAL: "Everything is all right with us now. Balarām Babu and Rākhāl are well at
+CHUNILAL: "Everything is all right with us now. Balarām Babu and Rakhal are well at
 Vrindāvan."
 MASTER: "Why have you sent so many sweetmeats? (To Harish) Wait a day or two
 before coming to Dakshineswar. You are not well. You may fall ill again there. (To

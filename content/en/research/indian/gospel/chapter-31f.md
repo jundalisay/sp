@@ -122,7 +122,7 @@ side; his arm rested on Baburam's neck near the ear. After a while he came down 
 the ecstatic state. As he stood there he put one hand to his cheek and appeared to be
 brooding over something. Then, smiling, he addressed the devotees.
 
-MASTER: "I saw everything-how far the devotees had advanced. I saw Rākhāl, him
+MASTER: "I saw everything-how far the devotees had advanced. I saw Rakhal, him
 (pointing to M.), Surendra, Baburam, and many others."
 
 HAZRA: "Me?"

@@ -134,7 +134,7 @@ mind was a jumble of undigested religious moods. He professed the path of knowle
 and disapproved of Sri Ramakrishna's attitude of bhakti and his longing for the young
 devotees. Now and then he thought of the Master as a great soul, but again he slighted
 him as an ordinary human being. He spent much of his time in telling his beads, and he
-criticized Rākhāl and the other young men for their indifference to the practice. He was a
+criticized Rakhal and the other young men for their indifference to the practice. He was a
 strong advocate of religious conventions and rules of conduct, and made a fad of them.
 He was about thirty-eight years old.
 As Hazra came in, the Master became a little abstracted and in that mood began to talk.
@@ -269,9 +269,9 @@ back at the Master's face beaming with compassion and love.
 594Sunday, September 21, 1884
 A large number of devotees were in Sri Ramakrishna's room, among them Ram,
 Mahendra Mukherji, M., and Chunilal. Chunilal had just returned from Vrindāvan, where
-he had gone with Rākhāl and Balarām. The two latter were still there. Nityagopal also
+he had gone with Rakhal and Balarām. The two latter were still there. Nityagopal also
 was staying there. The Master began to talk with Chunilal about Vrindāvan.
-MASTER: "How is Rākhāl?"
+MASTER: "How is Rakhal?"
 CHUNI: "He is quite well now, sir."
 MASTER: "Isn't Nityagopal coming back?"
 CHUNI: "He was still there when I left."

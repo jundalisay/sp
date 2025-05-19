@@ -22,7 +22,7 @@ Sri Ramakrishna said to him: "God favours those who can weep for Him. Tears shed
 
 ## Bāburām
 
-Bāburām Ghosh came to Dakshineśwar accompanied by Rākhāl, his classmate. The Master, as was often his custom, examined the boy's physiognomy and was satisfied about his latent spirituality. 
+Bāburām Ghosh came to Dakshineśwar accompanied by Rakhal, his classmate. The Master, as was often his custom, examined the boy's physiognomy and was satisfied about his latent spirituality. 
 
 At the age of 8, Bāburām had thought of leading a life of renunciation, in the company of a monk, in a hut shut out from the public view by a thick wall of trees. The very sight of the Panchavati awakened in his heart that dream of boyhood. Bāburām was tender in body and soul. The Master used to say that he was pure to his very bones. One day Hazra in his usual mischievous fashion advised Bāburām and some of the other young boys to ask Sri Ramakrishna for some spiritual powers and not waste their life in mere gaiety and merriment. 
 
@@ -35,7 +35,11 @@ Rather realize your kinship with me and gain the key to all the treasures."
 
 ## Niranjan
 
-Nitya Niranjan Sen was a disciple of heroic type. He came to the Master when he was 18. He was a medium for a group of spiritualists. During his first visit the Master said to him: "My boy, if you think always of ghosts you will become a ghost, and if you think of God you will become God. Now, which do you prefer?" Niranjan severed all connections with the spiritualists. During his second visit the Master embraced him and said warmly: "Niranjan, my boy, the days are flitting away. When will you realize God? This life will be in vain if you do not realize Him. When will You devote your mind wholly to God?" Niranjan was surprised to see the Master's great anxiety for his spiritual welfare. He was a young man endowed with unusual spiritual parts. He felt disdain for worldly pleasures and was totally guileless, like a child. But he had a violent temper. 
+Nitya Niranjan Sen was a disciple of heroic type. He came to the Master when he was 18. He was a medium for a group of spiritualists. During his first visit the Master said to him: "My boy, if you think always of ghosts you will become a ghost, and if you think of God you will become God.
+
+Now, which do you prefer?" Niranjan severed all connections with the spiritualists. During his second visit the Master embraced him and said warmly: "Niranjan, my boy, the days are flitting away. When will you realize God? This life will be in vain if you do not realize Him. 
+
+When will You devote your mind wholly to God?" Niranjan was surprised to see the Master's great anxiety for his spiritual welfare. He was a young man endowed with unusual spiritual parts. He felt disdain for worldly pleasures and was totally guileless, like a child. But he had a violent temper. 
 
 One day, as he was coming in a country boat to Dakshineśwar, some of his fellow passengers began to speak ill of the Master. Finding his protest futile, Niranjan began to rock the boat, threatening to sink it in midstream. That silenced the offenders. When he reported the incident to the Master, he was rebuked for his inability to curb his anger.
 
@@ -57,12 +61,18 @@ Similarly, man should be stamped with God before entering the world. Then he wil
 
 Śashi replied that he was not even sure about the existence of God; so he could not speak one way or the other. This frank answer very much pleased the Master.
 
-Śarat's soul longed for the all-embracing realization of the Godhead. When the Master
-inquired whether there was any particular form of God he wished to see, the boy replied
-that he would like to see God in all the living beings of the world. "But", the Master
-demurred, "that is the last word in realization. One cannot have it at the very outset."
-Śarat stated calmly: "I won't be satisfied with anything short of that. I shall trudge on
-along the path till I attain that blessed state." Sri Ramakrishna was very much pleased.
+Śarat's soul longed for the all-embracing realization of the Godhead. When the Master inquired whether there was any particular form of God he wished to see, the boy replied that he would like to see God in all the living beings of the world. 
+
+{{< l a="Ramakrishna" >}}
+But that is the last word in realization. One cannot have it at the very outset.
+{{< /l >}}
+
+{{< r a="Sarat" >}}
+I won't be satisfied with anything short of that. I shall trudge on along the path till I attain that blessed state.
+{{< /r >}}
+
+Sri Ramakrishna was very much pleased.
+
 
 ## Harināth
 

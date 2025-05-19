@@ -1,7 +1,7 @@
 ---
 title: Problems that can be constructed using only circles and straight lines
 heading: Book 2b
-weight: 6
+weight: 16
 description: "This treatise can only be understood by those who are familiar with Geometry"
 writer:
   name: Rene Descartes

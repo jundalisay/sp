@@ -75,7 +75,7 @@ The density is, in itself, considered as the principal component of a tensor wit
 Thus one obtains as a possible expression of the material tensor Tii as a function of the metric tensor gli and of the two tensors of Riemann, contracted to Rii and totally contracted to R,
 
 
-where a, b, and c are three constants.
+where a, b, and c are 3 constants.
 
 
 Certain identities must exist between the components of the material tensor and its derivatives.
@@ -90,11 +90,30 @@ The constant a is linked to the constant of gravitation. in fact, when theory is
 
 This is simply the principal effect foreseen by the theory; this theory predicts small departures which, in favorable cases, have been confirmed by observation.
 
-A good agreement with planetary observations is obtained by leaving out the term in c. That does not prove that this term may not have experimental consequence. in fact, in the conditions which were employed to obtain Newton's law as an approximation of the theory, the term in c would furnish a force varying, not in the inverse square ratio of the distance, but proportionally to this distance. This force could therefore have a marked action at very great distances although, for the distances of the planets, its action would be negligible. Also, the relation c/ a, designated customarily by the letter A, lambda, is called the cosmological constant. When A is positive, the additional force proportional to the distance is called cosmic repulsion.
+A good agreement with planetary observations is obtained by leaving out the term in c. That does not prove that this term may not have experimental consequence. 
 
-The theory of relativity has thus unified the theory of Newton. in Newton's theory, there were two principles posed independently of one another: universal attraction and the conservation of mass. In the theory of relativity, these principles take a slightly modified form, while being practically identical to those of Newton in the case where these have been confronted with the facts. But universal attraction is now a result of the conservation of mass. The size of the force, the constant of gravitation, is determined experimentally.
+In fact, in the conditions which were employed to obtain Newton's law as an approximation of the theory, the term in c would furnish a force varying, not in the inverse square ratio of the distance, but proportionally to this distance. 
+
+This force could therefore have a marked action at very great distances although, for the distances of the planets, its action would be negligible. Also, the relation c/ a, designated customarily by the letter A, lambda, is called the cosmological constant. When A is positive, the additional force proportional to the distance is called cosmic repulsion.
+
+The theory of relativity has thus unified the theory of Newton. 
+
+In Newton's theory, there were 2 independent principles:
+
+1. Universal attraction 
+2. The conservation of mass
+
+Relativity modifies these while keeping them identical to those of Newton.
+
+ <!-- in the case where these have been confronted with the facts.  -->
+
+But universal attraction is now a result of the conservation of mass. The size of the force, the constant of gravitation, is determined experimentally.
 
 The theory again indicates that the constancy of mass has, as a result, besides the Newtonian force of gravitation, a repulsion proportional to the distance of which the size and even the sign can only be determined by observation and by observation requiring great distances.
 
-Cosmic repulsion is not a special hypothesis, introduced to avoid the difficulties which are presented in the study of the universe. if Einstein has re-introduced it in his work on cosmology, it is because he remembered having arbitrarily dropped it when he had established the equations of gravitation. To suppress it amounts to determining it arbitrarily by giving it a particular value: zero.
+Cosmic repulsion is not a special hypothesis, introduced to avoid the difficulties which are presented in the study of the universe.
+
+if Einstein has re-introduced it in his work on cosmology, it is because he remembered having arbitrarily dropped it when he had established the equations of gravitation. 
+
+To suppress is to arbitrarily make it zero.
 

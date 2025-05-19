@@ -10,12 +10,14 @@ description: ""
 
 Saturday, April 7, 1883
 
-SRI RAMAKRISHNA was visiting Balarām in Calcutta, with Narendra, Bhavanath, Rākhāl , M., and others. Balarām, at the Master's bidding, had invited some of the young
-devotees to lunch. Sri Ramakrishna often said to him, "Feed them now and then; that will confer on you the merit of feeding holy men." The Master looked on his young
-disciples, yet untouched by "woman and gold", as veritable embodiments of God. 
+SRI RAMAKRISHNA was visiting Balarām in Calcutta, with Narendra, Bhavanath, Rakhal , M., and others. Balarām, at the Master's bidding, had invited some of the young devotees to lunch. Sri Ramakrishna often said to him:
 
-A few days earlier Sri Ramakrishna had been to Keshab's house with Narendra and Rākhāl to see a performance of the play entitled Nava-Vrindāvan. Narendra had taken
-part in the performance, in which Keshab had played the role of Pavhari Baba.
+"Feed them now and then; that will confer on you the merit of feeding holy men." 
+
+The Master looked on his young disciples, yet untouched by "woman and gold", as veritable embodiments of God. 
+
+A few days earlier Sri Ramakrishna had been to Keshab's house with Narendra and Rakhal to see a performance of the play entitled Nava-Vrindāvan. Narendra had taken part in the performance, in which Keshab had played the role of Pavhari Baba.
+
 
 MASTER: "Keshab came on the stage in the role of a holy man and sprinkled the 'Water of Peace'. But I didn't like it. The idea of sprinkling such water on a theatrical stage after a performance!
 
@@ -87,7 +89,7 @@ Narendra said to the Master with a smile, referring to Bhavanath, "He has given 
 and betel-leaf."
 219MASTER: "Why so? What is the matter with fish and betel-leaf? They aren't harmful.
 The renunciation of 'woman and gold' is the true renunciation.
-"Where is Rākhāl?"
+"Where is Rakhal?"
 A DEVOTEE: "He is asleep, sir."
 MASTER (with a smile): "Once a man went to a certain place to see a theatrical
 performance, carrying a mat under his arm. Hearing that it would be some time before
@@ -125,7 +127,7 @@ people. Had I seen that meeting, I should have been overwhelmed with spiritual
 fervour."
 Sunday, April 8, 1883
 It was Sunday morning. The Master, looking like a boy, was seated in his room, and
-near him was another boy, his beloved disciple Rākhāl. M. entered and saluted the
+near him was another boy, his beloved disciple Rakhal. M. entered and saluted the
 Master. Ramlal also was in the room, and Kishori, Manilal Mallick, and several other
 devotees gathered by and by.
 Manilal Mallick, a business man, had recently been to Benares, where he owned a
@@ -189,9 +191,9 @@ The worship was over in the temples and the bells rang for the food offerings in
 shrines. As it was a summer noon the sun was very hot. The flood-tide began in the
 222Ganges and a breeze came up from the south. Sri Ramakrishna was resting in his room
 after his meal.
-The people of Basirhat, Rākhāl 's birth-place, had been suffering from a severe drought
+The people of Basirhat, Rakhal 's birth-place, had been suffering from a severe drought
 during the summer months.
-MASTER (to Manilal): "Rākhāl says that the people in his native village have been
+MASTER (to Manilal): "Rakhal says that the people in his native village have been
 suffering seriously from a scarcity of water. Why don't you build a reservoir there? That
 will do the people good. (Smiling) You have so much money; what will you do with all
 your wealth? But they say that telis are very calculating." (All laugh.)
@@ -689,7 +691,7 @@ claws.
 Thus, when the breath of life forsakes me in Thy grip,
 Do not deny me the shelter of Thy Lotus Feet!
 The Master saluted the divine image. As he came down the steps, he called softly to
-Rākhāl: "Where are my shoes? Are they missing?"
+Rakhal: "Where are my shoes? Are they missing?"
 As the Master got into the carriage, Surendra and the other devotees bowed down
 before him. Then the carriage started for Dakshineswar. The moon still lighted the
 streets.

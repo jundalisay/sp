@@ -9,11 +9,11 @@ description: "Narendra went to Calcutta to look after a lawsuit that involved hi
 
 Monday, February 21, 1887
 
-Narendra, Rākhāl, Niranjan, Sarat, Śaśi, Kāli, Baburam, Tārak, and Sarada Prasanna were living in the monastery. All day the members had been fasting in observance of the Sivaratri. Sarat, Kāli, Niranjan, and Sarada were planning to go to Puri, the following Saturday, on a pilgrimage to the sacred Jagannath. Jogin and Lātu were at Vrindāvan and had not yet seen the new place.
+Narendra, Rakhal, Niranjan, Sarat, Śaśi, Kāli, Baburam, Tārak, and Sarada Prasanna were living in the monastery. All day the members had been fasting in observance of the Sivaratri. Sarat, Kāli, Niranjan, and Sarada were planning to go to Puri, the following Saturday, on a pilgrimage to the sacred Jagannath. Jogin and Lātu were at Vrindāvan and had not yet seen the new place.
 
 Narendra had gone to Calcutta that morning to look after a lawsuit in which his family had been involved since the death of his father. At 9am, M. arrived at the Math.
 
-Tārak saw him and began to sing in praise of Śiva, Rākhāl joining him: There Śiva dances, striking both His cheeks; and they resound, Ba-ba-bom!
+Tārak saw him and began to sing in praise of Śiva, Rakhal joining him: There Śiva dances, striking both His cheeks; and they resound, Ba-ba-bom!
 
 Dimi-dimi-dimi! sounds His drum; a garland of skulls from His neck is hanging!
 
@@ -21,7 +21,7 @@ In His matted locks the Ganges hisses; fire shoots from His mighty trident!
 
 Round His waist a serpent glitters, and on His brow the moon Is shining!
 
-Rākhāl and Tārak danced as they sang. Narendra had recently composed the song.
+Rakhal and Tārak danced as they sang. Narendra had recently composed the song.
 
 Śaśi finished the morning worship in the shrine. Sarat then sang about Śiva to the accompaniment of the Tānpura.
 
@@ -31,7 +31,7 @@ Narendra was smoking and talking to M. and the others. He said: "Nothing can be 
 
 Sri Krishna led a house-holder's life. But how unattached He was! How quickly He renounced Vrindāvan and the gopis!"
 
-RĀKHĀL: "And how He renounced Dwaraka, too, where He was king!" 
+Rakhal: "And how He renounced Dwaraka, too, where He was king!" 
 
 Narendra took his bath in the Ganges and returned to the monastery. He carried his wet cloth and towel in his hand. Sarada prostrated himself before Narendra. He too had been fasting on account of the Sivaratri. He was going to the Ganges for his bath. Narendra entered the worship room and prostrated himself before the picture of Sri Ramakrishna, who was daily worshipped there as the Deity. For a few minutes he was absorbed in meditation.
 
@@ -75,7 +75,7 @@ body to help in the propagation of his Master's message. All eyes were fixed on 
 
 Narendra was then just 24 years old, the very age at which the great Chaitanya had renounced the world.
 
-Balarām had sent fruit and sweets to the monastery for the devotees' breakfast. Rākhāl, Narendra, and a few others partook of the refreshments. After eating one or two morsels some of them cried out, "Blessed indeed is Balarām!" All laughed.
+Balarām had sent fruit and sweets to the monastery for the devotees' breakfast. Rakhal, Narendra, and a few others partook of the refreshments. After eating one or two morsels some of them cried out, "Blessed indeed is Balarām!" All laughed.
 
 Narendra now began to joke like a child. 
 
@@ -154,7 +154,7 @@ M: "Yes, I know that."
 
 NARENDRA: "The Master knew that women attended the meetings of the Brahmo Samaj. 
 
-A man cannot meditate with women sitting in front of him; therefore he criticized the meditation of the Brahmo Samaj. But he didn't object to my going there. But one day he said to me, 'Don't tell Rākhāl about your being a member of the Brahmo Samaj, or he too will feel like becoming one.'"M: "You have greater strength of mind. That is why the Master didn't prevent your going to the Samaj."
+A man cannot meditate with women sitting in front of him; therefore he criticized the meditation of the Brahmo Samaj. But he didn't object to my going there. But one day he said to me, 'Don't tell Rakhal about your being a member of the Brahmo Samaj, or he too will feel like becoming one.'"M: "You have greater strength of mind. That is why the Master didn't prevent your going to the Samaj."
 
 NARENDRA: "I have attained my present state of mind as a result of much suffering and pain. You have not passed through any such suffering. I now realize that without trials and tribulations one cannot resign oneself to God and depend on Him absolutely.
 

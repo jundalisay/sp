@@ -1,18 +1,15 @@
 ---
 title: "Geometry Simplified"
-# linkTitle: Man
-# date: 2022-01-29
 weight: 5
 description: "Renatus Cartesius 31 March 1596 – 11 February 1650 was a French philosopher, mathematician, and scientist who invented analytic geometry"
 c: "steelblue"
-draft: true
 ---
 
 
 
 ## The method of expressing the value of all the roots of cubic equations: and subsequently of all those that rise only to the biquadratic.
 
-For the rest, it is to be noted that this way of expressing the value of the roots by the ratio they have to the sides of certain cubes of which only the volume is known, is in no way more intelligible or simpler than expressing them by the ratio they have to the chords of certain arcs, or portions of circles, whose triple is given.
+For the rest, this way of expressing the value of the roots by the ratio they have to the sides of certain cubes of which only the volume is known, is as simple as expressing them by the ratio they have to the chords of certain arcs, or portions of circles, whose triple is given.
 
 So that all those cubic equations that cannot be expressed by Cardano's rules can be expressed as much or more clearly by the method proposed here.
 
@@ -27,6 +24,7 @@ as much or more distinctly by considering it inscribed in a circle whose radius 
 
 And we can also, following from this, express the roots of all equations up to the biquadratic (i.e., degree four) by the rules explained above. So much so that I do not know anything more to be desired in this matter. For indeed, the nature of these roots does not allow them to be expressed in simpler terms, nor to be determined by any construction that is at once more general and easier.
 
+
 ## Why solid problems cannot be constructed without conic sections, nor those which are more complex without some other more complex curves.
 
 It is true that I have not yet explained the reasons upon which I base myself in daring to assert whether a thing is possible or not. But if one considers how, by the method I use, everything that falls under the consideration of geometers is reduced to a single kind of problem—which is to find the value of the roots of some equation—one will understand that it is not difficult to make an enumeration of all the ways by which they can be found, sufficient to demonstrate that one has chosen the most general and the simplest.
@@ -36,4 +34,3 @@ And particularly regarding solid problems, which I have said cannot be construct
 Whereas the curvature of conic sections, which always depends on two different factors, can be used to determine two distinct points.
 
 But for the same reason, it is impossible that any of the problems that are of a degree more complex than the solid ones—such as those that presuppose the invention of four mean proportionals, or the division of an angle into five equal parts—can be constructed by any of the conic sections. That is why I believe I will do the best possible in this regard if I provide a general rule for constructing them, using the curve traced by the intersection of a parabola and a straight line, in the manner explained above. For I dare to assert that there is no simpler one in nature that can serve the same purpose. And you have seen how it follows immediately after the conic sections in that much-sought question of the ancients, whose solution teaches in order all the curved lines that ought to be accepted in geometry.
-

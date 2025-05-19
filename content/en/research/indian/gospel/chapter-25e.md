@@ -49,7 +49,7 @@ Baburam, "Come with us." M. also joined them.
 
 It was dusk. The Master was sitting on the semicircular porch west of his room. Baburam
 and M. sat near him. He was in a mood of partial ecstasy.
-Rākhāl was not then living with Sri Ramakrishna, and therefore the Master was having
+Rakhal was not then living with Sri Ramakrishna, and therefore the Master was having
 difficulties about his personal service. Several devotees lived with him, but he could not
 bear the touch of everyone during his spiritual moods. He hinted to Baburam: "Do stay
 with me. It will be very nice. In this mood I cannot allow others to touch me."

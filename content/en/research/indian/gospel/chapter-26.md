@@ -10,7 +10,7 @@ description: ""
 Sunday, August 3, 1884
 
 SRI RAMAKRISHNA was sitting in his room in the temple garden at Dakshineswar after his midday meal. A party of Bauls from Shibpur, several devotees from Bhawanipur,
-Balarām, and M. were in the room. Rākhāl, Lātu, and Harish were then living with the
+Balarām, and M. were in the room. Rakhal, Lātu, and Harish were then living with the
 Master. They too were present.
 
 The Master began the conversation by addressing the Baul musicians from Shibpur.
@@ -93,7 +93,7 @@ MASTER (to the devotees): "It is the attitude of a beginner to worship God out o
 
 Please sing about God-realization-songs expressing divine joy.
 
-(To Rākhāl ) "How well they sang that song the other day at Nabin Niyogi's house: 'Be drunk, O mind, be drunk with the Wine of Heavenly Bliss'! While singing religious songs
+(To Rakhal ) "How well they sang that song the other day at Nabin Niyogi's house: 'Be drunk, O mind, be drunk with the Wine of Heavenly Bliss'! While singing religious songs
 one should not constantly refer to one's worries. One should rather feel joyous and ecstatic as one chants God's name.
 
 A DEVOTEE: "Sir, won't you sing?"

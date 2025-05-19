@@ -10,7 +10,7 @@ description: ""
 
 Saturday, February 2, 1884
 
-IT WAS 3PM. Sri Ramakrishna had been conversing with Rākhāl , Mahimacharan, Hazra, and other devotees, when M. entered the room and saluted him. He brought with him splint, pad, and lint to bandage the Master's injured arm.
+IT WAS 3PM. Sri Ramakrishna had been conversing with Rakhal , Mahimacharan, Hazra, and other devotees, when M. entered the room and saluted him. He brought with him splint, pad, and lint to bandage the Master's injured arm.
 
 
 ## Master's injured arm
@@ -32,13 +32,13 @@ office. On my answering in the negative, he said, 'Then are you a wandering holy
 I saw a sādhu on the bank of the Narmada. He repeated the Gayatri mentally. It so thrilled him that the hair on his body stood on end. And when he repeated the Gayatri
 and Om aloud, it thrilled those who sat near him and caused their hair to stand on end."
 
-The Master was in the mood of a child. Being hungry he said to M., "What have you brought for me?" Looking at Rākhāl he went into samādhi.
+The Master was in the mood of a child. Being hungry he said to M., "What have you brought for me?" Looking at Rakhal he went into samādhi.
 
 He was gradually coming down to the normal plane. To bring his mind back to the consciousness of the body, he said: "I shall eat some jilipi. I shall drink some water."
 Weeping like a child, he said to the Divine Mother: "O Brahmamayi! O Mother! Why hast Thou done this to me? My arm is badly hurt. (To the devotees) Will I be all right again?"
 They consoled him, as one would a child, and said: "Surely. You will be quite well again."
 
-MASTER (to Rākhāl): "You aren't to blame for it, though you are living here to look after me; for even if you had accompanied me, you certainly wouldn't have gone up to the
+MASTER (to Rakhal): "You aren't to blame for it, though you are living here to look after me; for even if you had accompanied me, you certainly wouldn't have gone up to the
 railing."
 
 The Master again went into a spiritual mood and said: "Om! Om! Om! Mother, what is this that I am saying? Don't make me unconscious, Mother, with the Knowledge of
@@ -56,7 +56,7 @@ There should be robbery in my house.
 Again he said to the Divine Mother: "What wrong have I done, Mother? Do I ever do anything? It is Thou, Mother, who doest everything. I am the machine and Thou art its
 Operator.
 
-(To Rākhāl, smiling) "See that you don't fall! Don't be piqued and cheat yourself."
+(To Rakhal, smiling) "See that you don't fall! Don't be piqued and cheat yourself."
 
 Again addressing the Mother, Sri Ramakrishna said: "Do I weep because I am hurt? Not at all:
 
@@ -151,7 +151,7 @@ After his arm was bandaged he said: "I haven't very much faith in your Calcutta 
 
 It is just grogginess from the medicine. And a little while after, Sambhu breathed his last."
 
-It was evening and the worship in the temples was over. A few minutes later Adhar arrived from Calcutta to see the Master. Mahimacharan, Rākhāl , and M. were in the room.
+It was evening and the worship in the temples was over. A few minutes later Adhar arrived from Calcutta to see the Master. Mahimacharan, Rakhal , and M. were in the room.
 
 ADHAR: "How are you?"
 

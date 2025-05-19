@@ -57,7 +57,7 @@ Sri Ramakrishna was going to the pine-grove. A beautiful, dark rain-cloud was to
 
 LĀTU: "I can hardly eat anything."
 
-MASTER: "Is that the only reason? It is also a bad time of the year. Are you meditating too much? (To M.) I have a request to make of you. Please tell Baburam to stay with me a day or two during Rākhāl 's absence. Otherwise I shall feel very unhappy."
+MASTER: "Is that the only reason? It is also a bad time of the year. Are you meditating too much? (To M.) I have a request to make of you. Please tell Baburam to stay with me a day or two during Rakhal 's absence. Otherwise I shall feel very unhappy."
 
 M: "Yes, sir. I shall tell him."
 
@@ -161,7 +161,7 @@ MASTER: "Is that so? That day I looked into his eyes. They had an inward look. I
 answer. Then I said to him, 'Look here, don't strain yourself too much.' "
 
 It was now dusk. Sri Ramakrishna, as was usual with him during this part of the day,
-chanted the names of God and turned his mind to contemplation. Soon the moon rose in the sky. The temples, courtyards, and trees were bathed in its silvery light, and millions of broken moons played on the rippling surface of the Ganges. Rākhāl and M.
+chanted the names of God and turned his mind to contemplation. Soon the moon rose in the sky. The temples, courtyards, and trees were bathed in its silvery light, and millions of broken moons played on the rippling surface of the Ganges. Rakhal and M.
 were with the Master in his room.
 MASTER (to M.): "Baburam says, 'Oh, the worldly life! God forbid!' "
 M: "His opinion is based on mere hearsay. What does he know of the world? He is a
@@ -172,9 +172,9 @@ MASTER: "Not only his eyes, but his entire person. His relatives proposed that h
 marry. At this he said, 'Why are you going to drown me?' (With a smile) Tell me this.
 People say that a man finds great pleasure in the company of his wife after the hard
 work of the day."
-M: "That is no doubt true of those who think that way. (To Rākhāl, with a smile) We are
+M: "That is no doubt true of those who think that way. (To Rakhal, with a smile) We are
 now being examined. This is a leading question."
-Both Rākhāl and M. were married.
+Both Rakhal and M. were married.
 MASTER (with a smile): "A mother says, 'I shall heave a sigh of relief if I can procure a
 "shade-tree" for my son. He will rest in its shade when scorched by the heat of the
 world.' "

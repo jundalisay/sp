@@ -76,7 +76,7 @@ to the drawing-room. There the Master met the pundit.
 Pundit Shashadhar, a man of fair complexion and no longer young, had a string of rudraksha beads around his neck. He was one of the renowned Sanskrit scholars of his
 time-a pillar of orthodox Hinduism, which had reasserted itself after the first wave of Christianity and Western culture had passed over Hindu society. His clear exposition of the Hindu scriptures, his ringing sincerity, and, his stirring eloquence had brought back a
 large number of the educated young Hindus of Bengal to the religion of their forefathers.
-The pundit saluted the Master with reverence. Narendra, Rākhāl , Ram, Hazra, and M.,
+The pundit saluted the Master with reverence. Narendra, Rakhal , Ram, Hazra, and M.,
 who had come with the Master, seated themselves in the room as near the Master as
 they could, anxious not to miss one of his words.
 

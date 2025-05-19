@@ -10,7 +10,7 @@ description: "Surendra's younger brother and his nephews were present. The broth
 
 Surendra's younger brother and his nephews were present. The brother worked in an office and one of the nephews was studying law.
 
-MASTER (to Surendra's relatives): "My advice to you is not to become attached to the world. You see, Rākhāl now understands what is knowledge and what is ignorance. He can discriminate between the Real and the unreal. So I say to him: 'Go home. You may come here once in a while and spend a day or two with me.'
+MASTER (to Surendra's relatives): "My advice to you is not to become attached to the world. You see, Rakhal now understands what is knowledge and what is ignorance. He can discriminate between the Real and the unreal. So I say to him: 'Go home. You may come here once in a while and spend a day or two with me.'
 
 "Have a friendly relationship with one another. That will be for your good and make you all happy. In a theatre the performance goes well only if the musicians sing with one voice. And that also gladdens the hearts of the audience.
 
@@ -26,7 +26,7 @@ GOPAL: "No, sir. I forgot all about it while listening to the music."
 
 The umbrella had been left in the Panchavati and Gopal hurried to fetch it.
 
-MASTER: "I am generally careless, but not to that extent. Rākhāl also is very careless.
+MASTER: "I am generally careless, but not to that extent. Rakhal also is very careless.
 Referring to the date of an invitation, he says 'the eleventh' instead of 'the 13th'.
 
 Gopal-he belongs in a herd of cows!"
@@ -35,7 +35,7 @@ The musician sang a song about the monastic life of Chaitanya. Now and then she 
 
 "Eager to take away men's sorrows, he will not look upon a woman." "For the Lord's birth as Sri Chaitanya otherwise would be in vain."
 
-The Master stood up, as he heard about Chaitanya's renunciation, and went into samādhi. The devotees put garlands of flowers around his neck. Bhavanath and Rākhāl supported his body lest he should fall on the ground. Vijay, Kedār, Ram, M., Lātu,
+The Master stood up, as he heard about Chaitanya's renunciation, and went into samādhi. The devotees put garlands of flowers around his neck. Bhavanath and Rakhal supported his body lest he should fall on the ground. Vijay, Kedār, Ram, M., Lātu,
 and the other devotees stood around him in a circle, recalling one of the scenes of Chaitanya's kirtan. 
 
 The Master gradually came down to the sense plane. He was talking to Krishna, now and then uttering the word "Krishna". He could not say it very distinctly because of the intensity of his spiritual emotion. 

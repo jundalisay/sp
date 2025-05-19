@@ -90,7 +90,7 @@ dangerous.
 "You see, you should keep far away from woman; then you may realize God. It is
 extremely harmful to have much to do with women who have bad motives, or to eat
 food from their hands. They rob a man of his spirituality. Only by being extremely
-careful about woman can one preserve one's love of God. One day Bhavanāth, Rākhāl,
+careful about woman can one preserve one's love of God. One day Bhavanāth, Rakhal,
 and some other youngsters had cooked their own meal in the temple garden. They were
 sitting at their meal when a Baul arrived, sat down with them, and said he wanted to eat
 with them. 

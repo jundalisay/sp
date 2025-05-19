@@ -9,7 +9,7 @@ c: "steelblue"
 
 If the method of tracing the line ACN by the movement of a parabola seems inconvenient to you, it is easy to find several other ways to describe it. 
 
-For example, if having the same quantities as before for AB and BL; and the same for BK, which was taken as the principal latus rectum of the parabola; we describe the semicircle KST (AT VI, 480) whose center is taken arbitrarily on the line BK, such that it intersects the line AB somewhere, as at point S, and that from point T, where it ends, we take towards K the line TV, equal to BL; then having drawn the line SV, we draw another parallel to it through point A, such as AC; 
+For example, if having the same quantities as before for AB and BL and the same for BK, which was taken as the principal latus rectum of the parabola; we describe the semicircle KST whose center is taken arbitrarily on the line BK, such that it intersects the line AB somewhere, as at point S, and that from point T, where it ends, we take towards K the line TV, equal to BL; then having drawn the line SV, we draw another parallel to it through point A, such as AC; 
 
 We also draw another through S, parallel to BK, such as SC; the point C, where these two parallels meet, will be one of those of the sought curve. And we can find, in the same way, as many others as we desire.
 

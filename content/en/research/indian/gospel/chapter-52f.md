@@ -1,368 +1,326 @@
 ---
-title: Narendra's longing for God-vision
+title: "Rakhal's yearning for God"
 c: "indigo"
 heading: "Chapter 52f"
-weight: 223
-description: "Narendra sang the following hymn to Śiva, in which the devotee prays for forgiveness for his sins"
+weight: 222
+description: ""
 ---
 
-Monday, May 9, 1887
-
-The next morning M. was sitting alone under a tree in the garden. He said to himself:
-
-Sri Ramakrishna has made the brothers of the monastery renounce 'woman and gold'.
-
-Ah, how eager they are to realize God! This place has become a veritable Vaikuntha, and the brothers living here are embodiments of Narayana. It is not many days since the Master passed away; that is why all the ideas and ideals he stood for are there, almost
-intact. 'The same Ayodhya-only Rāma is not there.' The Master has made these brothers
-renounce their homes. Why has he kept a few in the world? Is there no way of liberation
-for them?"
 
 
-From a room upstairs Narendra saw M. sitting alone under the tree. He came down and
-said with a smile, "Hello, M.! What are you doing?"
+Rakhal and M. were walking on the verandah to the east of Kāli Tapasvi's room.Rakhal (earnestly): "M., let us practise sādhanā !
 
-After a little conversation M. said to him: "Ah, you have such a sweet voice. Please sing
-a hymn."
+We have renounced home for good. When someone says, 'You have not realized God by renouncing home; then why all this
+fuss?', Narendra gives a good retort. He says, 'Because we could not attain Ram, must
+we live with Shyam and beget children?' Ah! Every now and then Narendra says nice
+things. You had better ask him."
 
-Narendra sang the following hymn to Śiva, in which the devotee prays for forgiveness for
-his sins:
-Even before I saw the light of this world, my sins from previous births,
-Through which I passed because of desire for the fruit of my deeds,
-Punished me as I lay in my mother's womb.
-There I was boiled in the midst of filthy things:
-Who can describe the pain that afflicts the child in its mother's womb?
-Therefore, O Śiva! O Mahadeva! O Sambhu! forgive me, I pray, for my
-transgressions.
-In childhood my suffering never came to an end;
-My body was covered with filth and I craved for my mother's breasts.
-Over my body and limbs I had no control;I was pursued by troublesome flies and mosquitoes;
-Day and night I cried with the pain of many an ailment, forgetting Thee, O
-Sankara!
-Therefore, O Śiva! O Mahadeva! O Sambhu! forgive me, I pray, for my
-transgressions.
-In youth the venomous snakes of sound, sight, taste, touch, and smell,
-Bit into my vitals and slew my discrimination;
-I was engrossed in the pleasures of wealth, sons, and a youthful wife.
-Alas! my heart, bereft of the thought of Śiva,
-Was filled with arrogance and pride.
-Therefore, O Śiva! O Mahadeva! O Sambhu! forgive me, I pray, for my
-transgressions.
-Now in old age my senses have lost the power of proper judging and acting;
-My body, though still not wholly bereft of life,
-Is weak and senile from many afflictions, from sins and illnesses and
-bereavements;
-But even now my mind, instead of meditating on Śiva,
-Runs after vain desires and hollow delusions.
-Therefore, O Śiva! O Mahadeva! O Sambhu! forgive me, I pray, for my
-transgressions.
-The duties laid down in the smriti-perilous and abstruse-are now beyond me;
-How can I speak of the Vedic injunctions for brahmins, as means for attaining
-Brahman?
-Never yet have I rightly grasped, through discrimination,
-The meaning of hearing the scriptures from the guru and reasoning on his
-instruction;
-How then can I speak of reflecting on Truth without interruption?
-Therefore, O Śiva! O Mahadeva! O Sambhu! forgive me, I pray, for my
-transgressions.
-Not even once have I finished my bath before sunrise and brought from the
-Ganges
-Water to bathe Thy holy image;
-Never, from the deep woods, have I brought the sacred vilwa leaves for Thy
-worship;
-Nor have I gathered full-blown lotuses from the lakes,
-Nor ever arranged the lights and the incense for worshipping Thee.
-Therefore, O Śiva! O Mahadeva! O Sambhu! forgive me, I pray, for my
-transgressions.
-I have not bathed Thine image with milk and honey, with butter and other
-oblations;I have not decked it with fragrant sandal-paste;
-I have not worshipped Thee with golden flowers, with incense, with camphor-
-flame and savoury offerings.
-Therefore, O Śiva! O Mahadeva! O Sambhu! forgive me, I pray, for my
-transgressions.
-I have not made rich gifts to the brahmins, cherishing in my heart,
-O Mahadeva, Thy sacred form;
-I have not made in the sacred fire the million oblations of butter,
-Repeating the holy mantra given to me by my guru;
-Never have I done penance along the Ganges with japa and study of the Vedas.
-Therefore, O Śiva! O Mahadeva! O Sambhu! forgive me, I pray, for my
-transgressions.
-I have not sat in the lotus posture, nor have I ever controlled
-The Prāna along the Sushumna, repeating the syllable Om;
-Never have I suppressed the turbulent waves of my mind, nor merged the self-
-effulgent Om
-In the ever shining Witness-Consciousness, whose nature is that of the highest
-Brahman;
-Nor have I, in samādhi, meditated on Sankara, who dwells in every form as the
-Inner Guide.
-Therefore, O Śiva! O Mahadeva! O Sambhu! forgive me, I pray, for my
-transgressions.
-Never, O Śiva! have I seen Thee, the Pure, the Unattached, the Naked One,
-Beyond the three Gunās, free from delusion and darkness, absorbed in meditation,
-And ever aware of the true nature of the world;
-Nor, with a longing heart, have I meditated on Thine auspicious and sin-destroying
-form.
-Therefore, O Śiva! O Mahadeva! O Sambhu! forgive me, I pray, for my
-transgressions.
-O mind, to gain liberation, concentrate wholly on Śiva,
-The sole Reality underlying the worlds, the Giver of good;
-Whose head is illumined by the crescent moon and in whose hair the Ganges is
-hidden;
-Whose fire-darting eyes consumed the god of earthly love; whose throat and ears
-are decked with snakes;
-Whose upper garment is a comely elephant-skin.
-Of what avail are all the other rituals?
-O mind, of what avail are wealth or horses, elephants or a kingdom?
-Of what avail the body or a house?Know all these to be but momentary and quickly shun them;
-Worship Śiva, as your guru instructs you, for the attaining of Self Knowledge.
-Day by day does man come nearer to death;
-His youth wears away; the day that is gone never returns.
-Almighty Time devours everything;
-Fickle as lightning is the goddess of fortune.
-O Śiva! O Giver of shelter to those that come to Thee for refuge!
-Protect me, who have taken refuge at Thy feet.
-I salute the ever auspicious Śiva, the Home of Peace,
-Who sits in the lotus posture; who has five mouths and three eyes;
-Who holds in both His hands weapons and gong and drum;
-Who is bedecked with many an ornament;
-Whose skin is clear as crystal; who is Parvati's Lord.
-I salute the self-effulgent Guru of the gods, the Lord of Uma;
-I salute the Cause of the Universe;
-I salute the Lord of beasts, adorned with snakes;
-I salute Śiva, whose three eyes shine like the sun, the moon, and fire;
-I salute the Beloved of Krishna; I salute Sankara, who bestows boons on His
-devotees and gives them shelter;
-I salute the auspicious Śiva.
-O Śiva! White is Thy body, covered with ashes; white shine Thy teeth when Thou
-smilest!
-White is the skull Thou holdest in Thy hand; white is Thy club, which threatens the
-wicked!
-White is the bull on which Thou ridest; white are the rings that hang from Thine
-ears!
-White appear Thy matted locks, covered with the form of the Ganges;
-White shines the moon on Thy forehead!
-May He who is all white, all pure, bestow on me the treasure of forgiveness for my
-transgressions!
-O Śiva, forgive all the sins that I have committed
-With hands or feet, with words or body, with ears or eyes, with mind or heart;
-Forgive my sins, those past and those that are yet to come! Victory unto Śiva, the
-Ocean of Compassion, the Great God, the Abode of Blessedness!
-After the hymn Narendra and M. talked again.
-NARENDRA: "You may speak of leading a detached life in the world, and all that, but you
-will not attain anything unless you renounce 'woman and gold'. Don't you feel disgusted
-with your wife's body?Fools enjoy the contact of the body, filled with filth, peopled with worms, foul of smell by
-nature, made of flesh, blood, bone, and marrow; but the wise shun it.
-"Vain is the life of a person who does not take delight in the teachings of Vedānta and
-drink the Nectar of Divine Bliss. Listen to a song."
+
+M: "What you say is right. I see that you too have become restless for God."
+
+{{< r a="Rakhal" >}}
+M., how can I describe the state of my mind? Today at noontime I felt great yearning for the Narmada. M., please practise sādhanā ; otherwise you will not succeed. Even Sukadeva was afraid of this world. That is why immediately after his birth he fled the world. His father asked him to wait, but he ran straight away.
+{{< /r >}}
+
+M: "Yes, the Yogopanishad describes how Sukadeva fled this world of māyā. It also
+describes Vyāsa's conversation with Suka. Vyāsa asked his son to practise religion in the
+world. But Suka said that the one essential thing is the Lotus Feet of God. He also
+expressed his disgust with worldly men for getting married and living with women."
+
+{{< r a="Rakhal" >}}
+Many people think that it is enough not to look at the face of a woman. But what will you gain merely by turning your eyes to the ground at the sight of a woman?
+
+Narendra put it very well last night, when he said:
+{{< /r >}}
+
+{{< l a="Narendra" >}}
+Woman exists for a man as long as he has lust. Free from lust, one sees no difference between man and woman.
+{{< /l >}}
+
+
+
+M: "How true it is! Children do not see the difference between man and woman."
+
+Rakhal: "Therefore I say that we must practise spiritual discipline. How can one attain
+Knowledge without going beyond māyā?
+
+"Let's go to the big hall. Some gentlemen have come from Baranagore. Narendra is
+talking with them. Let's go and listen to him."
+M. did not enter the room. As he was pacing outside he overheard some of the
+conversation.
+
+{{< l a="Narendra" >}}
+There is no fixed time or place for the Sandhya and other devotions.
+{{< /l >}}
+
+{{< r a="Someone" >}}
+Sir, can one realize God through spiritual practice alone?
+{{< /r >}}
+
+{{< l a="Narendra" >}}
+Realization depends on God's grace. Sri Krishna says in the Gitā: The Lord, O Arjuna, dwells in the hearts of all beings, causing them, by His māyā, to revolve as if mounted on a machine. Take refuge in Him with all thy heart, O Bharata. By His grace wilt thou attain Supreme Peace and the Eternal Abode.
+
+Without the grace of God mere worship and prayer do not help at all. Therefore one should take refuge in Him.
+{{< /l >}}
+
+<!-- May we come now and then and disturb you?"NARENDRA: "Please come whenever you like. We take our baths in the Ganges at your
+ghat.
+
+GENTLEMAN: "I don't mind that. But please see that others don't use it."
+NARENDRA: "We shall not use your ghat, if that is what you mean"
+GENTLEMAN: "No, I don't mean exactly that. But if you see other people using it, then
+you had better not go." -->
+
+It was dusk. The evening worship was over. The devotees, as usual, sang in chorus, "Jaya Śiva Omkara". Afterwards they assembled in the room of the "Dānās". M., too, was seated there. Prasanna was reading from the Guru Gitā. Narendra sang:
+
+
+{{< l a="Narendra" >}}
+I salute the Eternal Teacher, who is the Embodiment of the Bliss of Brahman,
+The Essence of knowledge and liberation, the Giver of Supreme Joy;
+
+Who is all-pervading, like the Ākāśa, and is the goal of the Vedānta's teachings; Who is One, eternal, stainless, pure, and is the constant Witness of all things; Who dwells beyond all moods, transcending the three Gunās.
+
+There is none, higher than the Guru, none better than the Guru; This is what Śiva has declared. I shall sing of the blessed Guru, the Supreme Brahman; I shall worship the blessed Guru, the Supreme Brahman; I shall meditate on the blessed Guru, the Supreme Brahman; I shall bow down to the blessed Guru, the Supreme Brahman.
+{{< /l >}}
+
+
+As Narendra sang these verses from the Guru Gitā in his melodious voice, the minds of
+the devotees became steady, like a candle-flame in a windless place.
+Rakhal was seated in Kāli Tapasvi's room. 
+
+Prasanna sat near him. M., too, was there.Rakhal had renounced the world, leaving behind his wife and child. A fire of intense
+renunciation burnt day and night in his heart. He was thinking seriously of going away,
+by himself, to the bank of the Narmada or some other holy place. Still, he was trying to
+persuade Prasanna not to run away from the monastery.
+
+
+{{< r a="Rakhal" >}}
+(to Prasanna): "Where do you want to go, running away from here? Here you are in the company of holy men. Wouldn't it be foolish to run away from this? Where will you find another like Narendra?"
+{{< /r >}}
+
+
+Prasanna: "My parents live in Calcutta. I am afraid of being drawn by their love: That
+is why I want to flee to a distant place."
+
+{{< r a="Rakhal" >}}
+Can our parents love us as intensely as Gurumaharaj [meaning Sri Ramakrishna] did? What have we done for him, to deserve all this love? Why was he so eager for our welfare in body, mind, and soul? What have we done for him, to deserve 
+all this?
+{{< /r >}}
+
+
+{{< q a="M" >}}Ah! Rakhal is right. Therefore a person like Sri Ramakrishna is described as the 'Ocean of Mercy without any reason'.{{< /q >}}
+
+{{< q a="Prasanna" >}}Don't you yourself feel like running away from here?{{</q>}}
+
+{{< q a="Rakhal" >}}Yes, now and then I have a fancy to spend a few days on the bank of the Narmada. I say to myself, 'Let me go to a place like that and practise sādhanā in a garden.' Again, I feel a strong desire to practise the Panchatapa for three days. But I hesitate to live in a garden that belongs to worldly people.{{</q>}}
+
+_Tārak and Prasanna were talking in the room of the "Dānās". Tārak had lost his mother. His father, like Rakhal's father, had married a second time. Tārak himself had married but had lost his wife. Now the monastery was his home. He too was trying to persuade Prasanna to live there._
+
+{{< q a="Prasanna" >}}I have neither jnāna nor prema. What have I in the world for a support?{{</q>}}
+
+{{< q a="TĀRAK" >}}It is no doubt difficult to attain jnāna; but how can you say you have no prema?{{</q>}}
+
+{{< q a="Prasanna" >}}I have not yet wept for God. How can I say I have prema? What have I realized in all these days?{{</q>}}
+
+{{< q a="TĀRAK" >}}But you have seen the Master. And why do you say that you have no jnāna?{{</q>}}
+
+{{< q a="Prasanna" >}}What sort of jnāna are you talking about? Jnāna means Knowledge. Knowledge of what? Certainly of God. But I am not even sure of the existence of God.{{</q>}}
+
+{{< q a="TĀRAK" >}}Yes, that's true. According to the Jnāni, there is no God.{{</q>}}
+
+{{< q a="M" >}}Ah! The Master used to say that those who seek God pass through the state that Prasanna is now experiencing. In that state sometimes one doubts the very existence of God. I understand that Tārak is now reading Buddhistic philosophy. That is why he says that according to the Jnāni God does not exist. But Sri Ramakrishna used to say that the Jnāni and the bhakta will ultimately arrive at the same destination.{{</q>}}
+
+_Narendra and Prasanna were talking in the meditation room. Rakhal, Harish, and the younger Gopal were seated in another part of the room. After a while the elder Gopal came in. Narendra was reading from the Gitā and explaining the verses to Prasanna:_
+
+> The Lord, O Arjuna, dwells in the hearts of all beings, causing them, by His māyā, to revolve as if mounted on a machine. Take refuge in Him with all thy heart, O Bharata. By His grace wilt thou attain Supreme Peace and the Eternal Abode.  
+> Relinquishing all dharmas, take refuge in Me alone. I shall liberate thee from all sins. Grieve not.
+
+{{< q a="NARENDRA" >}}Did you notice what Krishna said?  
+'Mounted on a machine.' The Lord, by His māyā, causes all beings to revolve as if mounted on a machine. To seek to know God? You are but a worm among worms—and you to know God? Just reflect a moment: what is a man? It is said that each one of the myriads of stars that shine overhead represents a solar system. This earth of ours is a part of only one solar system, and even that is too big for us. Like an insect man walks about on this earth, which, compared to the sun, is only a tiny ball.{{</q>}}
+
+
+M. (to himself): "Ah! Rakhal is right. Therefore a person like Sri Ramakrishna is
+described as the 'Ocean of Mercy without any reason'."
+Prasanna (to Rakhal ): "Don't you yourself feel like running away from here?"
+Rakhal: "Yes, now and then I have a fancy to spend a few days on the bank of the
+Narmada. I say to myself, 'Let me go to a place like that and practise sādhanā in a
+garden.' Again, I feel a strong desire to practise the
+Panchatapa for
+three days. But I
+hesitate to live in a garden that belongs to worldly people."
+Tārak and Prasanna
+Tārak and Prasanna were talking in the room of the "Dānās". Tārak had lost his mother.
+His father, like Rakhal 's father, had married a second time. Tārak himself had married
+but had lost his wife. Now the monastery was his home. He too was trying to persuade
+Prasanna to live there.
+Prasanna: "I have neither jnāna nor prema. What have I in the world for a support?"
+TĀRAK: "It is no doubt difficult to attain jnāna; but how can you say you have no
+prema?"
+Prasanna: "I have not yet wept for God. How can I say I have prema? What have I
+realized in all these days?"
+TĀRAK: "But you have seen the Master. And why do you say that you have no jnāna?"
+Prasanna: "What sort of jnāna are you talking about? Jnāna means Knowledge.
+Knowledge of what? Certainly of God. But I am not even sure of the existence of God."TĀRAK: "Yes, that's true. According to the Jnāni, there is no God."
+M. (to himself): "Ah! The Master used to say that those who seek God pass through the
+state that Prasanna is now experiencing. In that state sometimes one doubts the very
+existence of God. I understand that Tārak is now reading Buddhistic philosophy. That is
+why he says that according to the Jnāni God does not exist. But Sri Ramakrishna used to
+say that the Jnāni and the bhakta will ultimately arrive at the same destination."
+Narendra asks Prasanna to practise self-surrender
+N arendra and Prasanna were talking in the meditation room. Rakhal , Harish, and the
+younger Gopal were seated in another part of the room. After a while the elder Gopal
+came in. Narendra was reading from the Gitā and explaining the verses to Prasanna:
+The Lord, O Arjuna, dwells in the hearts of all beings, causing them, by His māyā,
+to revolve as if mounted on a machine. Take refuge in Him with all thy heart, O
+Bharata. By His grace wilt thou attain Supreme Peace and the Eternal Abode.
+Relinquishing all dharmas, take refuge in Me alone. I shall liberate thee from all
+sins. Grieve not.
+NARENDRA: "Did you notice what Krishna said?
+'Mounted on a machine.' The
+Lord, by
+His māyā, causes all beings to revolve as if mounted on a machine. To seek to know
+God? You are but a worm among worms-and you to know God? Just reflect a moment:
+what is a man? It is said that each one of the myriads of stars that shine overhead
+represents a solar system. This earth of ours is a part of only one solar system, and
+even that is too big for us. Like an insect man walks about on this earth, which,
+compared to the sun, is only a tiny ball."
+
+
+
+
+
 Narendra sang:
-O man, abandon your delusion! Cast aside your wicked
-counsels!
-Know the Lord and free yourself from earthly suffering!
-For a few days' pleasure only, you have quite forgotten
-Him
-Who is the Comrade of your soul. Alas, what mockery!
-"No liberation is possible for a man unless he puts on the loin-cloth of a sannyāsi. The
-world must be renounced."
-Narendra sang from the Five Stanzas on the glory of the monk's loin cloth:
-Roaming ever in the grove of Vedānta,
-Ever pleased with his beggar's morsel
-Ever walking with heart free from sorrow,
-Blest indeed is the wearer of the loin-cloth. . . .
-Continuing, Narendra said: "Why should a man be entangled in worldliness? Why should
-he be ensnared by māyā? What is man's real nature? He is the blessed Śiva, the
-Embodiment of Bliss and Spirit."
-He sang Sankaracharya's Six Stanzas on Nirvāna:
-Om. I am neither mind, intelligence, ego, nor chitta,
-Neither ears nor tongue nor the senses of smell and
-sight;
-Nor am I ether, earth, fire, water, or air:
-I am Pure Knowledge and Bliss: I am Śiva! I am Śiva! . .
-Narendra recited another hymn, the Eight Stanzas on the glory of Krishna:
-I am consumed with false desires and wrapped in the
-sleep of lust: Save me, O Madhusudana!
-Thou art my only Refuge, Lord! I have no other
-salvation.
-I am entrapped in the mire of sin:
-O Madhusudana, redeem me!I am ensnared in the net of love for children, wife, and
-home:
-Save me, O Madhusudana!
-I am without devotion, helpless, smitten by wrong
-desire,
-Afflicted with grief and misery:
-O Madhusudana, redeem me!
-Lord, I have neither master nor place of shelter to call
-my own: Save me, O Madhusudana!
-Utterly wearied out am I by all this going and coming
-Along the endless road of life:
-O Madhusudana, redeem me!
-From this hard and unavailing journey through life and
-death,
-Save me, O Madhusudana!
-Many the births that I have seen in many a bodily form,
-And painful it is in the mother's womb:
-O Madhusudana, redeem me!
-To Thee I come for salvation out of the cycle of
-existence:
-Save me, O Madhusudana!
-For I am terrified alike of old age and of death:
-I come to Thee for shelter, Lord!
-O Madhusudana, redeem me!
-Never a good deed have I done, but many have been my
-sins:
-Save me, O Madhusudana!
-Headlong have I fallen into the mire of worldliness;
-Countless the births I have endured:
-O Madhusudana, redeem me!
-I have lorded it over men but happiness is not there:
-Save me, O Madhusudana!
-What my words have promised, my deeds have never
-carried out;
-Lord, I am full of wretchedness:
-O Madhusudana, redeem me!
-If as a man or a woman I must be born again and again-
-Save me, O Madhusudana!-
-May my devotion be unswerving to Thy feet, O Lord!
-From the delusion of this world,
-O Madhusudana, redeem me!
-M. remained spellbound as he listened to these hymns sung by Narendra. He said to
-himself: "How intense Narendra's dispassion is! This is how he has infused the spirit ofdispassion into the hearts of the other brothers of the monastery. The very contact with
-them awakens in the hearts of the Master's householder devotees the desire for
-renunciation of 'woman and gold'. Ah, how blessed are these all-renouncing brothers!
-Why has the Master kept us few in the world? Will he show us a way? Will he give us the
-spirit of renunciation, or will he delude us with worldliness?"
-After the meal all were resting. The elder Gopal was copying some songs. Niranjan was
-on a visit to his mother. Sarat, Baburam, and Kāli were in Puri.
-Narendra, with one or two brothers, left for Calcutta. He had to see to his lawsuit. He
-was going to return in the evening; the brothers could not bear his absence.
-About Rabindra
-In the afternoon Rabindra arrived, looking like a mad person. He was barefoot and had
-only half of his black-bordered cloth round his waist. His eyeballs were rolling like a
-madman's. All asked him anxiously what the matter was.
-"Let me recover my breath!" he said. "I shall tell you everything presently. I am
-certainly not going back home; I shall stay at this very place with you all. She is
-certainly a traitor! Let me tell you something, friends. For her sake I gave up my habit of
-drinking, which I had indulged for five years. I have not taken a drop for the last eight
-months. And she is a traitor!" The brothers of the Math said: "Be calm, please! How did
-you come?"
-RABINDRA: "I have come barefoot all the way from Calcutta."
-The brothers asked him where he had lost the other half of his cloth.
-RABINDRA: "When I was leaving her place she began to pull at my cloth. That is how
-half of it was torn off."
-
-The brothers told him to bathe in the Ganges and cool off; then they would hear his story.
-
-Rabindra belonged to a respectable kayastha family of Calcutta. He was 20 years old. He had first met Sri Ramakrishna at the Dakshineswar temple and
-had received his special blessing. On one occasion he had spent three nights with the
-Master. His disposition was very sweet and tender, and the Master had loved him dearly.
-Once he had said to Rabindra: "You will have to wait some time; you have to go through
-a few more experiences. Nothing can be done now. You see, the police can't do much
-just when the robbers attack a house. When the plundering is almost over, the police
-make their arrests."
-
-Rabindra had many virtues. He was devoted to God and to service of the poor. He had
-many spiritual qualities. But he had walked into the snare of a prostitute. Now, suddenly,
-he had discovered that the woman was being unfaithful to him. Therefore he had come
-to the Math in this dishevelled state, resolved not to go back to the world.A devotee accompanied Rabindra to the Ganges. It was his inmost desire that Rabindra's
-spiritual consciousness should be awakened in the company of these holy men. When
-Rabindra finished his bath, the devotee took him to the adjacent cremation ground,
-showed him the corpses lying about, and said: "The brothers of the Math come here
-every now and then to meditate on God. It is a good place for meditation. Here one sees
-clearly that the world is impermanent."
-Rabindra sat down in the cremation ground to meditate. But he could not meditate long;
-his mind was restless.
-Rabindra and the devotee returned to the Math. They went to the worship room to salute
-the Deity. The devotee said to him, "The brothers of the Math meditate in this room."
-Rabindra sat there to meditate, but could not meditate long there either.
-DEVOTEE: "How do you feel? Is your mind very restless? Is that why you have got up
-from your seat? Perhaps you could not concentrate well."
-
-RABINDRA: "I am sure I shall not go back to the world. But the mind is restless."
-
-M. and Rabindra were talking. No one else was present. M. was telling him stories from the life of Buddha. At that time, the members of the Math regularly read the lives of Buddha and Chaitanya. M. said to Rabindra that Buddha's spiritual consciousness was first awakened by hearing a song of some heavenly maidens.
-
-M. sang the song:
-
-We moan for rest, alas! but rest can never find;
-We know not whence we come, nor where we float away.
-
-Time and again we tread this round of smiles and tears;
-In vain we pine to know whither our pathway leads,
-
-
-Why we play this empty play. . . .
-
-
-That night Narendra, Tārak, and Harish returned from Calcutta. They said, "Oh, what a big meal we had!" They had been entertained by a devotee in Calcutta.
-
-The members of the monastery assembled in the room of the "Dānās". Narendra heard
-
-Rabindra's story. He sang by way of giving instruction to him:
-
-O man, abandon your delusion! Cast aside your wicked counsels!
-
-Know the Lord and free yourself from earthly suffering!
-
-For a few days' pleasure only, you have quite forgotten Him Who is the Comrade of your soul. Alas, what mockery!
-
-Narendra sang again:Drinking the Bliss of Hari from the cup of prema, Sādhu, be intoxicated! . . .
-
-A few minutes later the brothers went to Kāli Tapasvi's room. Girish Ghosh had just sent two of his new books to the monastery: the Life of Buddha and the Life of Chaitanya. 
-
-Since the founding of the new Math Śaśi had devoted himself heart and soul to the worship and service of the Master. All were amazed at his devotion. Just as he had
-tended Sri Ramakrishna's physical body during his illness, so now, with the same unswerving zeal, he worshipped the Master in the shrine room.
-A member of the monastery was reading aloud from the lives of Buddha and Chaitanya.
-
-He was a little sarcastic while reading Chaitanya's life. Narendra snatched the book from his hand and said, "That is how you spoil a good thing!"
-
-Narendra read the chapter describing how Chaitanya gave his love to all, from the brahmin to the pariah.
-
-A BROTHER: "I say that one person cannot give love to another person."
-
-NARENDRA: "But the Master gave it to me."
-
-BROTHER: "Well, are you sure you have it?"
-
-NARENDRA: "What can you understand about love? You belong to the servant class. All of you must serve me and massage my feet. Don't flatter yourselves by thinking you
-have understood everything. Now go and prepare a smoke for me."
-
+We are born, O Lord, in the dust of earth,
+And our eyes are blinded by the dust;
+With dust we toy like children at play:
+O give us assurance, Thou Help of the weak!
+Wilt Thou cast us out of Thy lap, O Lord,
+For a single mistake? Wilt Thou turn away
+And abandon us to our helplessness?
+Oh, then we shall never be able to rise,
+But shall lie for ever dazed and undone.
+Mere babes are we, Father, with baby minds;
+At every step we stumble and fall.
+Why, then, must Thou show us Thy terrible face?
+Why, Lord, must we ever behold Thy frown?
+Small are we-oh, do not be angry with us,
+But tenderly speak to us when we do wrong;
+For though Thou dost raise us a hundred times,A hundred times we shall fall again!
+What else can one do with a helpless mind?
+Then he said to Prasanna: "Surrender yourself at His feet. Resign your self completely to
+His will."
+Narendra sang again in an ecstatic mood:
+O Lord, I am Thy servant, I am Thy servant! Thy servant
+am I!
+O Lord, Thou art my Master, Thou art my Master! My
+Master art Thou!
+From Thee I have received two pieces of bread and a
+kaupin;
+When I sing Thy name, devotion wells up in my heart
+and shields me from harm.
+Thou art the Master, the All-compassionate; this I
+repeat, O Lord!
+Thy servant Kabir has taken refuge at Thy feet.
+Narendra said to Prasanna: "Don't you remember Sri Ramakrishna's words? God is the
+hill of sugar and you are but an ant. One grain is enough to fill your stomach, and you
+think of bringing home the entire hill! Don't you remember what the Master said about
+Sukadeva? Even Sukadeva was a big ant at the most. That is why I scolded Kāli, saying:
+'You fool! Do you want to measure God with your tape and foot-rule?'
+"God is the Ocean of Mercy. Be His slave and take refuge in Him. He will show
+compassion. Pray to Him: 'Protect me always with Thy compassionate face. Lead me
+from the unreal to the Real, from darkness to Light, from death to Immortality. Reveal
+Thyself to me and protect me always with Thy compassionate face.' "
+Prasanna: "What kind of spiritual discipline should one practise?"
+NARENDRA: "Repeat His name. That's enough. Don't you remember Sri Ramakrishna's
+song?"
+Narendra sang:
+O Syama, my only hope is in Thy hallowed name!
+What need have I of kosha and kushi? What need of
+smiles and conventions?
+Thy name dissolves death's bonds, as Śiva has
+proclaimed,
+And I myself am Śiva's servant; whom else should I
+obey?
+O Mother come what may, I shall repeat Thy name;Why should I fret myself to death? To Śiva's words I
+cling.
+He sang again:
+Mere babes are we, Father, with baby minds;
+At every step we stumble and fall.
+Why, then, must Thou show us Thy terrible face?
+Why, Lord, must we ever behold Thy frown?
+Prasanna: "Now you are saying that there is a God. Again, it is you who say that
+according to Chārvāka and many other thinkers the world was self-created."
+NARENDRA: "Haven't you studied chemistry? Who combines the different elements? It is
+a human hand that combines hydrogen, oxygen, and electricity to prepare water.
+Everybody admits the existence of an Intelligent Force-a Force that is the essence of
+Knowledge and that guides all these phenomena."
+Prasanna: "How are we to know that God is kind?"
+NARENDRA: "The Vedas say, 'That which is Thy compassionate face.' John Stuart Mill
+said the same thing. He said, 'How much kindness must He have, who has implanted
+kindness in the hearts of men.' The Master used to say: 'Faith is the one essential thing.
+God exists. He is very near us. Through faith alone one sees Him.' "
+Narendra sang:
+Where are you seeking Me, My servant? I am very close
+to you.
+Far away you still are seeking, though I am so very
+near.
+I am not in skin or hair, I am not in bones or flesh,
+Not in mosque and not in temple, not in Kasi or Kailas.
+Never will you come on Me in Ayodhya or Dwaraka;
+But you will be sure to find Me if you search where faith
+abides.
+Not in pleasant tasks or yoga, not in vairāgya or
+sannyās,
+Yet I come without delaying if you only search for Me.
+Prasanna: "Sometimes you say that God does not exist, and now you are saying all
+these things! You are not consistent. You keep changing your opinions."
 All laughed.
-
-THE BROTHER: "I surely will not."
-
-M. (to himself): "Sri Ramakrishna has transmitted mettle to all the brothers of the Math.
-
-It is no monopoly of Narendra's. Is it possible to renounce 'woman and gold' without this inner fire?"
-
-May 10, 1887
-
-It was Tuesday, a very auspicious day for the worship of the Divine the Mother.
-
-Arrangements were being made for Her special worship at the monastery.
-
-M. was going to the Ganges to take his bath. Rabindra was walking alone on the roof. He heard Narendra singing the Six Stanzas on Nirvāna:
-Death or fear I have none, nor any distinction of caste; 
-
-Neither father nor mother nor even a birth have I; Neither friend nor comrade, neither disciple nor guru:
-I am Pure Knowledge and Bliss: I am Śiva! I am Śiva!
-
-I have no form or fancy; the All-pervading am I;Everywhere I exist, yet I am beyond the senses;
-
-Neither salvation am I, nor anything that may be known:
-
-I am Pure Knowledge and Bliss: I am Śiva! I am Śiva!
-
-Rabindra went to the Ganges to take his bath. Presently he returned to the monastery clad in his wet cloth.
-
-Narendra said to M. in a whisper: "He has bathed in the Ganges. It would be good to initiate him now into sannyās."
-
-Both Narendra and M. smiled.
-
-Prasanna asked Rabindra to change his wet cloth and gave him a dry Gerruā cloth.
-
-Narendra said to M., "Now he is going to put on the cloth of renunciation."
-
-M. (with a smile): "What kind of renunciation?"
-
-NARENDRA: "Why, the renunciation of 'woman and gold'."
-
-Rabindra put on the ochre cloth and entered Kāli Tapasvi's room to meditate.
-
+NARENDRA: "All right! I shall never change what I have just said. As long as one has
+desires and cravings, so long one doubts the existence of God. A man cherishes somedesire or other. Perhaps he has the desire to study or pass the university examination or
+become a scholar, and so forth and so on."
+Narendra sang again, in a voice choked with emotion:
+Hail to Thee, our God and Lord! Hail, Giver of every
+blessing!
+Hail, Thou Giver of good!
+O Redeemer from fear, from danger and suffering!
+Upholder of the worlds!
+Hail, Lord! Victory to Thee!
+Unfathomable and infinite, immeasurable, beyond
+compare,
+O God, none equals Thee!
+Lord of the Universe! O All-pervading Truth!
+Thou the Ātman Supreme!
+Hail, Lord! Victory to Thee!
+O Thou, the All-compassionate One, adored by the
+whole universe,
+I bow before Thy feet!
+Thou art the only Refuge in life and death, O Lord;
+Before Thy feet I bow!
+Hail, Lord! Victory to Thee!
+This is our only prayer, O Lord! What other boon can
+we implore?
+Thus do we pray to Thee:
+Grant us true wisdom here, and in the life hereafter
+Reveal Thyself to us.
+Hail, Lord! Victory to Thee!
+Again Narendra sang, describing how very near God is to us-as near as the musk to the
+deer-and exhorting his brother disciples to drink deep from the cup of Divine Bliss:
+Drinking the Bliss of Hari from the cup of prema,
+Sādhu, be intoxicated!
+Childhood you spent in crying, and youth in women's
+control;
+Now, in your old age, full of phlegm and wind,
+You wait for the funeral couch to bear you to the
+cremation ground.
+Within the musk-deer's navel the fragrant musk is found;
+But how can you make it understand?
+Without the proper teacher to guide him on his way,
+Man, too, is blindly roaming through the world,Deluded as the foolish deer that wanders round and
+round the woods.
+M. heard all this from the verandah.
+Narendra got up. As he left the room he remarked, "My brain is heated by talking to
+these youngsters."
+He met M. on the verandah and said, "Please, let us have a drink of water."
+One of the members of the Math said to Narendra, "Why, then, do you say that God
+does not exist?"
+Narendra laughed.

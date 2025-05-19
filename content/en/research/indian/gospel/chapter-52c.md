@@ -49,7 +49,7 @@ Friday, April 8, 1887
 About 8AM two devotees, one a householder and the other a monk, were conversing in a room in the Barangore monastery, when M. came in. 
 
 The devotees were of the same age 24-25 years old. M. intended to spend 3 days at the monastery. He went to the shrine and saluted the Deity. After
-visiting Narendra, Rākhāl, and the other brothers, he at last came into the room where the two devotees were engaged in conversation. The householder devotee wanted to renounce the world, The monk was trying to persuade him not to do so.
+visiting Narendra, Rakhal, and the other brothers, he at last came into the room where the two devotees were engaged in conversation. The householder devotee wanted to renounce the world, The monk was trying to persuade him not to do so.
 
 MONK: "Why don't you finish the few duties you have in the world? Very soon they will be left behind,"A man was told that he would go to hell. He asked a friend, 'What is hell like?' 
 
@@ -64,14 +64,14 @@ MONK: "Why don't you renounce the world, if you want to? Why do you talk about i
 After the food was offered to the Deity they had their meal. M. ate with them.
 It was evening. 
 
-Incense was burnt before the pictures of gods and goddesses and the evening service was performed. Rākhāl, Śaśi, the elder Gopal, and Harish were seated in
+Incense was burnt before the pictures of gods and goddesses and the evening service was performed. Rakhal, Śaśi, the elder Gopal, and Harish were seated in
 the big hall. M. also was there. 
 
-## Rākhāl's reminiscences of the Master
+## Rakhal's reminiscences of the Master
 
-Rākhāl warned one of the brothers to be careful about the food to he offered to the
+Rakhal warned one of the brothers to be careful about the food to he offered to the
 Master in the shrine.
-RĀKHĀL (to Śaśi and the others): "One day I ate part of his [meaning the Master's]
+Rakhal (to Śaśi and the others): "One day I ate part of his [meaning the Master's]
 refreshments before he took them. At this he said: 'I cannot look at you. How could you
 do such a thing?' I burst into tears."
 THE ELDER GOPAL: "One day at Cossipore I breathed hard on his food. At this he said,

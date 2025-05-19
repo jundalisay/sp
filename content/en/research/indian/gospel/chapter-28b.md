@@ -7,7 +7,7 @@ description: "The Master was sitting in his room at Dakshineswar."
 ---
 
 
-Rākhāl has been staying with Balarām at Vrindāvan. Ah, what a nice nature Balarām has! It is only for my sake that he doesn't go to Orissa, where his family owns an estate. 
+Rakhal has been staying with Balarām at Vrindāvan. Ah, what a nice nature Balarām has! It is only for my sake that he doesn't go to Orissa, where his family owns an estate. 
 
 His brother stopped his monthly allowance and wrote to him: 'Come and stay with us here. Why should you waste so much money in Calcutta?' But he didn't listen. He has
 been living in Calcutta because he wants to see me. 

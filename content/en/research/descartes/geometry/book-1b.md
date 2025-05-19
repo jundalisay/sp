@@ -1,7 +1,7 @@
 ---
 title: Pappus
 heading: Book 1b
-weight: 2
+weight: 6
 description: "This treatise can only be understood by those who are familiar with Geometry"
 writer:
   name: Rene Descartes
