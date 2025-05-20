@@ -1,7 +1,7 @@
 ---
 title: "Microvita and Spiritual Attainment"
 heading: "Chapter 5"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: "These yakśińiis(4) work under the instructions of the siddhas. As long as some rules are not violated, the yaksiniis abide by their instructions"
 c: "indigo"
 writer:
   name: PR Sarkar

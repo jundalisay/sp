@@ -1,7 +1,7 @@
 ---
 title: "Sadguru and Microvita"
 heading: "Chapter 6"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: "Negative microvita function on their own through nature, while positive microvita function through specially-created waves."
 c: "indigo"
 writer:
   name: PR Sarkar

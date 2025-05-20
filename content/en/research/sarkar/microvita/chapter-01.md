@@ -1,7 +1,7 @@
 ---
 title: "Microvitum, the Mysterious Emanation of Cosmic Factor"
 heading: "Chapter 1"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: "Hence, our world functions within the limitations of our senses and perceptions."
 c: "indigo"
 writer:
   name: PR Sarkar

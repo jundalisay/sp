@@ -284,3 +284,18 @@ A lot. For now, we have listed:
 
 
 <!-- - Artificial rain through the aether (as opposed to cloud-seeding) -->
+
+
+<!-- A caveman would also ask: Why is there even a need for this 'electricity' when bonfires already provide heat and artificial lighting?
+He would continue: Are you telling me we should mine ore, make kilns, chop firewood for the kiln just to melt ore into wires and metal sheets just to make metal dynamos to transmit energy over distances to create heat and light, when a bonfire already does the work?
+I would say yes, because aside from heat and light, electricity can also transmit information that will lead to radio, TV, and the internet which you have no idea of.
+Likewise, the aether is essential in manipulating spacetime in order to allow anti-gravity and teleportation of masses, something that current humans have no idea of.
+Proof is that all current proposals for spaceships use Newtonian propulsion using his Third Law.
+Cartesian physics has different laws that are based on the aether and not on matter.
+The documented uses of the aether were in construction, warfare, and prediction (prophecy).
+The Egyptians used it to make pyramid construction easier by reducing the gravity of blocks. The Jews used it against Jericho to increase the gravity of its walls and make it collapse.
+The Maya and Jews used it to predict their own demise.
+We have used the aether to make masses lighter. This is why its first practical use is in construction.
+After further refinement, it can float things leading to anti gravity. This will spur logistics.
+After further refinement, it can put those floating things in stasis. This will spur fusion by trapping plasma with far less energy use.
+After further refinement, it can teleport masses. This will spur space travel, since by then spaceships would be fusion-powered which can be refueled anywhere in the galaxy. -->

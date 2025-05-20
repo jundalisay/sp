@@ -1,7 +1,7 @@
 ---
 title: "The Origins of the Caste System"
 heading: "Discourse 6c"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: "One belonged to a particular caste according to one’s livelihood."
 c: "indigo"
 writer:
   name: PR Sarkar
