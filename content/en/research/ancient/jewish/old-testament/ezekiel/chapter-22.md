@@ -11,13 +11,17 @@ c: "firebrick"
 <sup>1-2</sup> [To Ezekiel] Son of man, wilt you judge, wilt you judge the bloody city? yea, you shalt shew her all her abominations. 
 
 3} Then say thou, Thus saith the Lord GOD, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself.
-{{< /l >}}
 
-<sup>4</sup> You have become guilty in your blood that you hast shed; and hast defiled yourself in thine idols which you hast made; and you hast caused your days to draw near, and art come [even] unto your years: therefore have I made you a reproach unto the heathen, and a mocking to all countries. 
 
-5 [Those that be] near, and [those that be] far from you, shall mock you, [which art] infamous [and] much vexed. 6} Behold, the princes of Israel, every one were in you to their power to shed blood.
+<sup>4</sup> You have become guilty in your blood that you have shed You have defiled yourself in your idols which you have made.
 
-7} In you have they set light by father and mother: in the midst of you have they dealt by oppression with the stranger: in you have they vexed the fatherless and the widow. 
+You have caused your days to draw near, and art come [even] unto your years. So I have made you a reproach unto the heathen, and a mocking to all countries. 
+
+5 Those that are near and far from you shall mock you, [which art] infamous [and] much vexed. 
+
+6 The princes of Israel, every one were in you to their power to shed blood.
+
+7 In you have they set light by father and mother: in the midst of you have they dealt by oppression with the stranger: in you have they vexed the fatherless and the widow. 
 
 8} You have despised my holy things, and hast profaned my sabbaths. 
 
@@ -36,10 +40,14 @@ c: "firebrick"
 15} I will scatter you among the heathen, and disperse you in the countries, and will consume your filthiness out of you. 
 
 16 You shalt take thine inheritance in yourself in the sight of the heathen, and thou shalt know that I am the Lord. 
+{{< /l >}}
+
 
 17 The word of Enki came unto me, saying:
 
-18} Son of man, the Israelites is to me become dross: all they [are] brass, and tin, and iron, and lead, in the midst of the furnace; they are [even] the dross of silver. 19} Therefore thus saith Enki; Because you are all become dross, behold, therefore I will gather you into the midst of Jerusalem.
+
+{{< l a="Enki" >}}
+18 Son of man, the Israelites is to me become dross: all they [are] brass, and tin, and iron, and lead, in the midst of the furnace; they are [even] the dross of silver. 19} Therefore thus saith Enki; Because you are all become dross, behold, therefore I will gather you into the midst of Jerusalem.
 
 20} [As] they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt [it;] so will I gather [you] in mine anger and in my fury, and I will leave [you there,] and melt you. 21} Yea, I will gather you, and blow upon you in the fire of my wrath, and you shall be melted in the midst thereof. 
 
@@ -47,9 +55,7 @@ c: "firebrick"
 
 Ye shall know that I Enki have poured out my fury upon you.
 
-23} The word of Enki came to me, saying:
-
-24 Son of man, say unto her, you are the land that is not cleansed, nor rained upon in the day of indignation. 
+23-24 Son of man, say unto her, you are the land that is not cleansed, nor rained upon in the day of indignation. 
 
 25 There is a conspiracy of her prophets in the midst thereof, like a roaring lion ravening the prey; they have devoured souls.
 
@@ -61,12 +67,13 @@ They have taken the treasure and precious things; they have made her many widows
 
 28 Her prophets have daubed them with untempered [morter,] seeing vanity, and divining lies unto them, saying, Thus saith Enki, when Enki hath not spoken.
 
-29} The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy.
+29 The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy.
 
 They have oppressed the stranger wrongfully. 
 
-30} I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none. 
+30 I sought for a man among them, that should make up the hedge, and stand in the gap before me for the land, that I should not destroy it: but I found none. 
 
-31} Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads, saith Enki.
+31 Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads.
+{{< /l >}}
 
 

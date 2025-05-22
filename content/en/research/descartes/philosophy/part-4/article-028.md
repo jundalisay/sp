@@ -19,7 +19,7 @@ XXIX. On the fourth, which is heat: what it is, and how it persists after light 
 XXX. Why it penetrates deeper than light. Furthermore, it should be noted that the terrestrial particles, impelled by the Sun's rays in this way, affect others nearby to which these rays do not reach; and these, in turn, affect others, and so on. Since always half of the Earth is illuminated by the Sun, all such particles are simultaneously moved, so that although light remains on the outer opaque surface, heat generated from it must penetrate to the innermost parts of the middle region of the Earth. -->
 
 
-### 28. The Third Action: Light -- How Does Light Move Air Particles?
+## 28. The Third Action: Light -- How Does Light Move Air Particles?
 
 The force of the light from the Sun and stars spread to all parts of the sky.
 

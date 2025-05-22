@@ -24,16 +24,13 @@ devoured men.
 the fulness thereof, by the noise of his roaring. 
 
 8} Then the nations set against him on every side from the provinces, and spread their net over him: he was taken in
-their pit. 9} And they put him in ward in chains, and brought him to the king of Babylon: they brought him into
-holds, that his voice should no more be heard upon the mountains of Israel.
+their pit. 
 
-10} your mother [is] like a vine in your blood, planted by the waters: she was fruitful and full of branches by
-reason of many waters. 11} And she had strong rods for the sceptres of them that bare rule, and her stature was
-exalted among the thick branches, and she appeared in her height with the multitude of her branches. 12} But she
-was plucked up in fury, she was cast down to the ground, and the east wind dried up her fruit: her strong rods were
-broken and withered; the fire consumed them. 
+9 They put him in ward in chains, and brought him to the king of Babylon: they brought him into holds, that his voice should no more be heard upon the mountains of Israel.
 
-13 Now she [is] planted in the wilderness, in a dry and thirsty ground. 14} And fire is gone out of a rod of her
-branches, [which] hath devoured her fruit, so that she hath no strong rod [to be] a sceptre to rule. This [is] a
-lamentation, and shall be for a lamentation.
+10 Your mother is like a vine in your blood, planted by the waters: she was fruitful and full of branches by reason of many waters. 11} And she had strong rods for the sceptres of them that bare rule, and her stature was exalted among the thick branches, and she appeared in her height with the multitude of her branches. 
+
+12 But she was plucked up in fury, she was cast down to the ground, and the east wind dried up her fruit: her strong rods were broken and withered; the fire consumed them.
+
+13 Now she is planted in the wilderness, in a dry and thirsty ground. 14} And fire is gone out of a rod of her branches, [which] hath devoured her fruit, so that she hath no strong rod [to be] a sceptre to rule. This is a lamentation, and shall be for a lamentation.
 

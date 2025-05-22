@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-#### 10. Various gaps between the fire-aether and air-aether were left around them.
+## 10. Various gaps between the fire-aether and air-aether were left around them.
 
 The earth-aether particles were mutually pressing against each other. 
 
@@ -27,7 +27,7 @@ This was to be expected because they:
 - were joined together without any order.
 
 
-#### 11. The air-aether globules were initially smaller, the closer to the Earth's center 
+## 11. The air-aether globules were initially smaller, the closer to the Earth's center 
 
 The globules closer to the Earth's center, mixed with the Earth-aether particles, were slightly smaller than those farther away. 
 
@@ -46,7 +46,7 @@ Therefore, they might have been smaller than those currently present around us.
 These surpass those within Mercury's orbit because they are farther from the Sun.
 
 
-#### 12. The passages between them were narrower
+## 12. The passages between them were narrower
 
 These globules retained passages among the earth-aether particles adapted to their size.
 
@@ -54,7 +54,7 @@ In this way, the slightly larger globules could not easily pass through them.
 
 
 
-#### 13. The thicker earth-aether particles were not always below the thinner ones
+## 13. The thicker earth-aether particles were not always below the thinner ones
 
 The larger and more solid earth-aether particles revolved uniformly around the Earth's axis. 
 - They easily fused to each other due to the irregularities of their shapes. 
@@ -76,7 +76,7 @@ The more solid and thicker the particle was, the more it was pushed towards the 
 Those earth-aether particles could not always extricate thenselves so that the more solid ones descended below the less solid ones; but often they retained the same order they had when they were first formed. -->
 
 
-#### 14. How were the various bodies in Region 3 formed?
+## 14. How were the various bodies in Region 3 formed?
 
 <!-- When later the Earth rolled towards the Sun (the vortex in which it was before being consumed), not much change could arise in its inner and middle regions.
 
