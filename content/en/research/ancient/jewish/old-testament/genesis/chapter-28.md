@@ -34,7 +34,7 @@ seeing that the daughters of Canaan pleased not Isaac his father; {28:9} Then we
 <sup>13</sup> Enki stood above it and said:
 
 {{< l a="Enki" >}}
-I am Enki of Abraham your father and the Enki of Isaac: I will give to you and your seed the land where you are now on. {28:14} Your seed shall be as the dust of the earth, and you shalt spread abroad to the west, and to the east, and to the north, and to the south: and in you and in your seed shall all the families of the earth be blessed. 
+I am the Lord of Abraham your father and the Enki of Isaac: I will give to you and your seed the land where you are now on. {28:14} Your seed shall be as the dust of the earth, and you shalt spread abroad to the west, and to the east, and to the north, and to the south: and in you and in your seed shall all the families of the earth be blessed. 
 
 {28:15} I am with you and will keep you in all [places] whither you goest, and will bring you again into this land; for I will not leave you, until I have done [that] which I have spoken to you of.
 {{< /l >}}

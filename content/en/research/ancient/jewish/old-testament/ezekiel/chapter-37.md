@@ -22,7 +22,7 @@ O Lord Enki, you know.
 {37:4} [To Ezekiel:] Prophesy on these bones, and say unto them, O you dry bones, hear the
 word of Enki. 
 
-5 [To the bones] Behold, I will cause breath to enter into you, and you shall live: {37:6} And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and you shall live; and you shall know that I [am] Enki. 
+5 [To the bones] Behold, I will cause breath to enter into you, and you shall live: {37:6} And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and you shall live; and you shall know that I am the Lord. 
 {{< /l >}}
 
 {37:7} So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone. {37:8} And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but [there was ]no breath in them. 
@@ -35,7 +35,7 @@ word of Enki.
 {37:10} So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
 {{< l a="Enki" >}}
-11 [To Ezekiel]  Son of man, these bones are the whole Israelites: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts. 12} Therefore prophesy and say unto them: Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel. {37:13} And you shall know that I [am] Enki, when I have opened your graves, O my people, and brought you up out of your graves, {37:14} And shall put my spirit in you, and you shall live, and I shall place you in your own land: then shall you know that I the LORD have spoken [it,] and performed [it,]
+11 [To Ezekiel]  Son of man, these bones are the whole Israelites: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts. 12} Therefore prophesy and say unto them: Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel. {37:13} And you shall know that I am the Lord, when I have opened your graves, O my people, and brought you up out of your graves, {37:14} And shall put my spirit in you, and you shall live, and I shall place you in your own land: then shall you know that I the LORD have spoken [it,] and performed [it,]
 {{< /l >}}
 
 

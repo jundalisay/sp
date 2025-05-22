@@ -165,7 +165,7 @@ covenant.
 sisters, thine elder and your younger: and I will give them
 unto you for daughters, but not by your covenant. 62}
 And I will establish my covenant with you; and you shalt
-know that I [am] Enki: 
+know that I am the Lord: 
 
 63} That you mayest remember, and be confounded, and never open your mouth
 any more because of your shame, when I am pacified toward

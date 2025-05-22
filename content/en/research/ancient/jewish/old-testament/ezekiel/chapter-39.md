@@ -13,9 +13,9 @@ c: "firebrick"
 
 2} I will turn you back, and leave but the sixth part of you, and will cause you to come up from the north parts, and will bring you upon the mountains of Israel:
 
-3} I will smite your bow out of your left hand, and will cause thine arrows to fall out of your right hand. {4} Thou shalt fall upon the mountains of Israel, thou, and all your bands, and the people that [is] with you: I will give you unto the ravenous birds of every sort, and [to] the beasts of the field to be devoured. {5} Thou shalt fall upon the open field: for I have spoken [it,] saith Enki. {6} And I will send a fire on Magog, and among them that dwell carelessly in the isles: and they shall know that I am Enki.
+3} I will smite your bow out of your left hand, and will cause thine arrows to fall out of your right hand. {4} Thou shalt fall upon the mountains of Israel, thou, and all your bands, and the people that [is] with you: I will give you unto the ravenous birds of every sort, and [to] the beasts of the field to be devoured. {5} Thou shalt fall upon the open field: for I have spoken [it,] saith Enki. {6} And I will send a fire on Magog, and among them that dwell carelessly in the isles: and they shall know that I am the LORD.
 
-7} So will I make my holy name known in the midst of my people Israel; and I will not [let them] pollute my holy name any more: and the heathen shall know that I [am] Enki, the Holy One in Israel.
+7} So will I make my holy name known in the midst of my people Israel; and I will not [let them] pollute my holy name any more: and the heathen shall know that I am the Lord, the Holy One in Israel.
 {{< /l >}}
 
 
@@ -24,16 +24,13 @@ c: "firebrick"
 8} Behold, it is come, and it is done. This [is] the day whereof I have spoken. {9} They that dwell in the cities of Israel shall go forth, and shall set on fire and burn the weapons, both the shields and the bucklers, the bows and the arrows, and the handstaves, and the spears, and they shall burn them with fire seven years: {10} So that they shall take no wood out of the field, neither cut down [any] out of the forests; for they shall burn the weapons with fire: and they shall spoil those that spoiled them, and rob those that robbed them, saith Enki.
 
 {11} In that day, [that] I will give unto Gog a place there of graves in Israel, the valley of the passengers on the east of the sea: and it shall stop the [noses] of the passengers: and there shall they bury Gog and all his multitude: and they shall call [it] The valley of Hamon-gog. {12} And seven months shall the house of Israel be burying of them, that they may cleanse the land. {13} Yea, all the people of the land shall bury [them;] and it shall be to them a renown the day that I shall be glorified, saith Enki. {14} And they shall sever out men of continual employment, passing through the land to bury with the passengers those that remain upon the face of the earth, to cleanse it: after the end of seven months shall they search. {15} And the passengers [that] pass through the land, when [any] seeth a man’s bone, then shall he set up a sign by it, till the buriers have buried it in the valley of Hamon-gog. {16} And also the name of the city [shall be] Hamonah. Thus shall they cleanse the land.
-{{< /l >}}
 
-
-{{< l a="Enki" >}}
 17 Son of man speak to every feathered fowl, and to every beast of the field, Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I do sacrifice for you, [even] a great sacrifice upon the mountains of Israel, that you may eat flesh, and drink blood. 
 
 18} Ye shall eat the flesh of the mighty, and drink the blood of the princes of the earth,
 of rams, of lambs, and of goats, of bullocks, all of them fatlings of Bashan. 
 
-19} And you shall eat fat till you be full, and drink blood till you be drunken, of my sacrifice which I have sacrificed for you. {20} Thus you shall be filled at my table with horses and chariots, with mighty men, and with all men of war, saith Enki. {21} I will set my glory among the heathen, and all the heathen shall see my judgment that I have executed, and my hand that I have laid upon them. {22} So the house of Israel shall know that I [am] Enki their God from that
+19} And you shall eat fat till you be full, and drink blood till you be drunken, of my sacrifice which I have sacrificed for you. {20} Thus you shall be filled at my table with horses and chariots, with mighty men, and with all men of war, saith Enki. {21} I will set my glory among the heathen, and all the heathen shall see my judgment that I have executed, and my hand that I have laid upon them. {22} So the house of Israel shall know that I am the Lord their God from that
 day and forward.
 {{< /l >}}
 
@@ -46,7 +43,7 @@ day and forward.
 
 26} After that they have borne their shame, and all their trespasses whereby they have trespassed against me, when they dwelt safely in their land, and none made [them] afraid. 
 
-{27} When I have brought them again from the people, and gathered them out of their enemies’ lands, and am sanctified in them in the sight of many nations; {28} Then shall they know that I [am] Enki their God, which caused them to be led into captivity among the heathen: but I have gathered them unto their own land, and have left none of them any more there.
+{27} When I have brought them again from the people, and gathered them out of their enemies’ lands, and am sanctified in them in the sight of many nations; {28} Then shall they know that I am the Lord their God, which caused them to be led into captivity among the heathen: but I have gathered them unto their own land, and have left none of them any more there.
 
 {29} Neither will I hide my face any more from them: for I have poured out my spirit upon the Israelites.
 {{< /l >}}

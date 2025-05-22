@@ -1,7 +1,7 @@
 ---
 heading: Ezekiel 12
-title: "The Anunnaki Speak"
-description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
+title: "Eat Your Bread!"
+description: "the rebellious Israelites have said to you: What doest thou?"
 weight: 26
 c: "firebrick"
 ---
@@ -31,41 +31,31 @@ twilight: you shalt cover your face, that you see not the ground: for I have set
 land of the Chaldeans; yet shall he not see it, though he shall die there. 14} And I will scatter toward every
 wind all that [are] about him to help him, and all his bands;
 and I will draw out the sword after them. 
-{{< /l >}}
 
+15 They shall know that I am the Lord, when I shall scatter them among the nations, and disperse them in the countries.
+16} But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I am the Lord.
 
-15 They shall know that I [am] Enki, when I shall scatter them among the nations, and disperse them in the countries.
-16} But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I [am] Enki.
+17-18 eat your bread with quaking, and drink your water with trembling and with carefulness;
 
-17 Moreover the word of Enki came to me, saying, 18} Son of man, eat your bread with quaking, and drink your water with trembling and with carefulness;
+19} Say to the people: the Lord of the inhabitants of Jerusalem, [and] of the land of Israel shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein. 20} And the cities that are inhabited shall be laid waste, and the land shall be desolate; and you shall know that I am the Lord.
 
-19} And say unto the people of the land, Thus saith the Lord GOD of the inhabitants of Jerusalem, [and] of the land
-of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be
-desolate from all that is therein, because of the violence of all them that dwell therein. 20} And the cities that are
-inhabited shall be laid waste, and the land shall be desolate; and you shall know that I [am] Enki.
-
-21} And the word of Enki came unto me, saying, 22} Son of man, what [is] that proverb [that] ye
-have in the land of Israel, saying, The days are prolonged,
+21 Son of man, what [is] that proverb [that] ye have in the land of Israel, saying, The days are prolonged,
 and every vision faileth? 
 
-23} Tell them therefore, Thus saith Enki; I will make this proverb to cease, and
+23} Tell them I will make this proverb to cease, and
 they shall no more use it as a proverb in Israel; but say unto
 them, The days are at hand, and the effect of every vision.
 
 24} For there shall be no more any vain vision nor flattering divination within the Israelites. 
 
-25 I am Enki: I will speak, and the word that I shall
+25 I am the Lord: I will speak, and the word that I shall
 speak shall come to pass; it shall be no more prolonged: for
-in your days, O rebellious house, will I say the word, and
+in your days, O rebellious house, will I say the word, and will perform it.
 
-
-will perform it, saith Enki.
-26} Again the word of Enki came to me, saying,
-27} Son of man, behold, [they of] the Israelites
-say, The vision that he seeth [is] for many days [to come,]
+26-27 on of man, behold, [they of] the Israelites say, The vision that he seeth [is] for many days [to come,]
 and he prophesieth of the times [that are] far off. 28}
 Therefore say unto them, Thus saith Enki; There
 shall none of my words be prolonged any more, but the
 word which I have spoken shall be done, saith the Lord
 GOD.
-
+{{< /l >}}

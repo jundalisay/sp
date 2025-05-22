@@ -12,7 +12,7 @@ c: "firebrick"
 {{< /r >}}
 
 {{< l a="Enki" >}}
-<sup>2</sup>  I am Enki your alien-god, who have brought you out of Egypt, out of the house of bondage. 
+<sup>2</sup>  I am the Lord your alien-god, who have brought you out of Egypt, out of the house of bondage. 
 
 <sup>3</sup> Do not have other alien-gods besides me.
 

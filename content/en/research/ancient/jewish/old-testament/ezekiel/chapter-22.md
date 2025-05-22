@@ -35,7 +35,7 @@ c: "firebrick"
 
 15} I will scatter you among the heathen, and disperse you in the countries, and will consume your filthiness out of you. 
 
-16 You shalt take thine inheritance in yourself in the sight of the heathen, and thou shalt know that I [am] Enki. 
+16 You shalt take thine inheritance in yourself in the sight of the heathen, and thou shalt know that I am the Lord. 
 
 17 The word of Enki came unto me, saying:
 

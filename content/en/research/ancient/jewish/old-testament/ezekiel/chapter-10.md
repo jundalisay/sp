@@ -1,7 +1,7 @@
 ---
 heading: Ezekiel 9
-title: "The Anunnaki Speak"
-description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
+title: "The Cherubims"
+description: "Go in between the wheels, even under the cherub, and fill thine hand with coals of fire from between the cherubims, and scatter [them] over the city"
 weight: 22
 c: "firebrick"
 ---

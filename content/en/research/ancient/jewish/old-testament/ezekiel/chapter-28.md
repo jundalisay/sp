@@ -49,8 +49,8 @@ wounded shall be judged in the midst of her by the sword
 upon her on every side; and they shall know that I [am] the
 LORD. 
 
-24} There shall be no more a pricking brier unto the Israelites, nor [any] grieving thorn of all [that are] round about them, that despised them; and they shall know that I [am] Enki. 
+24} There shall be no more a pricking brier unto the Israelites, nor [any] grieving thorn of all [that are] round about them, that despised them; and they shall know that I am the Lord. 
 
 25} Thus saith the Lord GOD; When I shall have gathered the Israelites from the people among whom they are scattered, and shall be sanctified in them in the sight of the heathen, then shall they dwell in their land that I have given to my servant Jacob. 
 
-26} They shall dwell safely therein, and shall build houses, and plant vineyards; yea, they shall dwell with confidence, when I have executed judgments upon all those that despise them round about them; and they shall know that I [am] Enki their God.
+26} They shall dwell safely therein, and shall build houses, and plant vineyards; yea, they shall dwell with confidence, when I have executed judgments upon all those that despise them round about them; and they shall know that I am the Lord their God.

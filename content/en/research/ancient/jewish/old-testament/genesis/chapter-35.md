@@ -38,7 +38,7 @@ when he fled from the face of his brother.
 {{< l a="Enki" >}}
 10 Your name is no longer Jacob, but Israel. 
 
-11 I am Enki Almighty: be fruitful and multiply; a nation and a company of nations shall be of you, and kings shall come out of your loins; 12 The land which I gave Abraham and Isaac, to you I will give it, and to your seed after you will I give the land.
+11 I am the Lord Almighty: be fruitful and multiply; a nation and a company of nations shall be of you, and kings shall come out of your loins; 12 The land which I gave Abraham and Isaac, to you I will give it, and to your seed after you will I give the land.
 {{< /l >}}
 
 13 Enki went up from him in the place where he talked with him. 14 Jacob set up a pillar in the place where he talked with

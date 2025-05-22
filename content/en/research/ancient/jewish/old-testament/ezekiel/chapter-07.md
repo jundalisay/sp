@@ -1,7 +1,7 @@
 ---
 heading: Ezekiel 7
-title: "The Anunnaki Speak"
-description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
+title: "The Coming of the End"
+description: "You son of man, the end is come upon the four corners of the land."
 weight: 16
 c: "firebrick"
 ---
@@ -9,18 +9,18 @@ c: "firebrick"
 
 <sup>1</sup> The word of Enki came unto me, saying:
 
-2 Also, you son of man, thus saith Enki unto the land of Israel; An end, the end is come upon the four corners of the land. 
+2 You son of man, the end is come upon the four corners of the land. 
 
 3 Now [is] the end [come] upon you, and I will send mine anger upon you, and will judge you according to your ways, and will recompense upon you all thine abominations. 
 
-4 And mine eyou shall not spare you, neither will I have pity: but I will recompense your ways upon you, and thine abominations shall be in the midst of you: and you shall know that I [am] Enki.
+4 And mine eyou shall not spare you, neither will I have pity: but I will recompense your ways upon you, and thine abominations shall be in the midst of you: and you shall know that I am the Lord.
 
-5 Thus saith Enki; An evil, an only evil, behold, is come. 7:6} An end is come, the end is come: it watcheth for you; behold, it is come. 7:7} The morning is come unto you, O you that dwellest in the land: the time is come, the day of trouble [is] near, and not the sounding again of the mountains.
+5 An evil, an only evil, behold, is come. 6 An end is come, the end is come: it watcheth for you; behold, it is come. 7:7} The morning is come unto you, O you that dwellest in the land: the time is come, the day of trouble [is] near, and not the sounding again of the mountains.
 
 8 Now will I shortly pour out my fury upon you, and accomplish mine anger upon you: and I will judge you according to your ways, and will recompense you for all thine abominations. 
 
 9 And mine eyou shall not spare, neither will I have pity: I will recompense you according to your ways and thine
-abominations [that] are in the midst of you; and you shall know that I [am] Enki that smiteth. 
+abominations [that] are in the midst of you; and you shall know that I am the Lord that smiteth. 
 
 10 Behold the day, behold, it is come: the morning is gone forth; the rod hath blossomed, pride hath budded. 7:11} Violence is risen up into a rod of wickedness: none of them [shall remain,] nor of their multitude, nor of any of theirs: neither [shall
 there be] wailing for them. 
@@ -56,4 +56,4 @@ mourn: for wrath [is] upon all the multitude thereof.
 
 26 Mischief shall come upon mischief, and rumour shall be upon rumour; then shall they seek a vision of the prophet; but the law shall perish from the priest, and counsel from the ancients.
 
-27 The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled: I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I [am] Enki.
+27 The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled: I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I am the Lord.

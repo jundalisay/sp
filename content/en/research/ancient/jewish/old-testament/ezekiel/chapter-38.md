@@ -33,7 +33,7 @@ assembled unto you, and be you a guard unto them.
 Enki: every man’s sword shall be against his
 brother. 
 
-22 I will plead against him with pestilence and with blood; and I will rain upon him, and upon his bands, and upon the many people that [are] with him, an overflowing rain, and great hailstones, fire, and brimstone. 23} Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I [am] Enki.
+22 I will plead against him with pestilence and with blood; and I will rain upon him, and upon his bands, and upon the many people that [are] with him, an overflowing rain, and great hailstones, fire, and brimstone. 23} Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I am the Lord.
 {{< /l >}}
 
 

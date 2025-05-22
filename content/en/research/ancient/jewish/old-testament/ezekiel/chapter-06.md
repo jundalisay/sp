@@ -1,6 +1,6 @@
 ---
 heading: Ezekiel 6
-title: "The Anunnaki Speak"
+title: "Enki Orders"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 14
 c: "firebrick"
@@ -25,13 +25,13 @@ I will bring a sword upon you, and destroy your high places.
 
 6 In all your dwellingplaces the cities shall be laid waste. The high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your images may be cut down, and your works may be abolished.
 
-7 The slain shall fall in the midst of you, and ye shall know that I am Enki.
+7 The slain shall fall in the midst of you, and ye shall know that I am the LORD.
 
 8 Yet will I leave a remnant. Some shall escape the sword among the nations, when ye shall be scattered through the countries. 
 
 9 They that escape of you shall remember me among the nations whither they shall be carried captives, because I am broken with their whorish heart, which hath departed from me, and with their eyes, which go a whoring after their idols: and they shall lothe themselves for the evils which they have committed in all their abominations.
 
-10 They shall know that I am Enki, and that I have not said in vain that I would do this evil unto them.
+10 They shall know that I am the LORD, and that I have not said in vain that I would do this evil unto them.
 {{< /l >}}
 
 
@@ -41,7 +41,7 @@ I will bring a sword upon you, and destroy your high places.
 12 He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remaineth and is
 besieged shall die by the famine: thus will I accomplish my fury on them.
 
-13 Then shall you know that I [am] Enki, when their slain [men] shall be among their idols round about their altars, upon every high hill, in all the tops of the mountains, and under every green tree, and under every thick oak, the place where they did offer sweet savour to all their idols.
+13 Then shall you know that I am the Lord, when their slain [men] shall be among their idols round about their altars, upon every high hill, in all the tops of the mountains, and under every green tree, and under every thick oak, the place where they did offer sweet savour to all their idols.
 
-14 So will I stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness toward Diblath, in all their habitations: and they shall know that I [am] Enki.
+14 So will I stretch out my hand upon them, and make the land desolate, yea, more desolate than the wilderness toward Diblath, in all their habitations: and they shall know that I am the Lord.
 {{< /l >}}

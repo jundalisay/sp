@@ -1,6 +1,6 @@
 ---
 heading: Ezekiel 24
-title: "The Anunnaki Speak"
+title: "The Bloody City"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
 weight: 66
 c: "firebrick"
@@ -14,16 +14,11 @@ c: "firebrick"
 {{< l a="Enki" >}}
 <sup>2</sup> Son of man, write you the name of the day, [even] of this same day: the king of Babylon set himself against Jerusalem this same day.
 
-3 Utter a parable unto the rebellious house, and say unto them, Thus saith Enki; Set on a pot, set [it] on, and also pour water into it: 4 Gather the pieces thereof into it, even every good piece, the thigh, and the shoulder; fill [it] with
-the choice bones. 5} Take the choice of the flock, and burn also the bones under it, [and] make it boil well, and let
-them seethe the bones of it therein.
+3 Utter a parable unto the rebellious house, and say unto them, Thus saith Enki; Set on a pot, set [it] on, and also pour water into it: 4 Gather the pieces thereof into it, even every good piece, the thigh, and the shoulder; fill [it] with the choice bones. 5} Take the choice of the flock, and burn also the bones under it, [and] make it boil well, and let them seethe the bones of it therein.
 
-6} Wherefore thus saith Enki; Woe to the bloody city, to the pot whose scum is therein, and whose scum [is] not gone out of it! bring it out piece by piece; let no lot fall up on it. 7} For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon
-the ground, to cover it with dust; 
+6} Woe to the bloody city, to the pot whose scum is therein, and whose scum [is] not gone out of it! bring it out piece by piece; let no lot fall up on it. 7} For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust; 
 
-8} That it might cause fury to come up to take vengeance; I have set her blood
-upon the top of a rock, that it should not be covered. 9 Therefore thus saith Enki; Woe to the bloody city!
-I will even make the pile for fire great. 
+8} That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered. 9 Therefore thus saith Enki; Woe to the bloody city! I will even make the pile for fire great. 
 {{< /l >}}
 
 {{< l a="Enki" >}}
@@ -54,11 +49,12 @@ that which your soul pitieth; and your sons and your daughters whom you have lef
 22} And you shall do as I have done: you shall not cover [your] lips, nor eat the bread of men. 23} And your tires
 [shall be] upon your heads, and your shoes upon your feet: you shall not mourn nor weep; but you shall pine away for
 your iniquities, and mourn one toward another. 
-{{< /l >}}
 
-
-24 Thus Ezekiel is unto you a sign: according to all that he hath done shall you do: and when this cometh, you shall know that I [am] Enki. 
+24 Thus Ezekiel is unto you a sign: according to all that he hath done shall you do: and when this cometh, you shall know that I am the Lord. 
 
 25} Also, you son of man, [shall it] not [be] in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their minds, their sons and their daughters, 26} [That] he that escapeth in that day shall come unto you, to cause [you] to hear [it] with [thine] ears?
 
-27} In that day shall your mouth be opened to him which is escaped, and you shalt speak, and be no more dumb: and you shalt be a sign unto them; and they shall know that I [am] Enki.
+27} In that day shall your mouth be opened to him which is escaped, and you shalt speak, and be no more dumb: and you shalt be a sign unto them; and they shall know that I am the Lord.
+{{< /l >}}
+
+
