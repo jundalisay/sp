@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 64. The External Earth and the Origin of Springs
+## 64. The External Earth and the Origin of Springs
 
 Some fragments of the external body `E` are concealed under the sea.
 - Others are spread across fields.
@@ -44,7 +44,7 @@ The streams formed by many springs together make rivers, flowing through the slo
 
 
 
-#### 65. Why the sea does not increase from the rivers flowing into it.
+## 65. Why the sea does not increase from the rivers flowing into it.
 
 Many waters continually flow from the mountains to the sea.
 - Yet the cavities from which they ascend can never be exhausted, nor can the sea increase. 
@@ -59,7 +59,7 @@ Through these channels, water always returns from the sea towards the roots of t
 Thus, as the blood of animals circulates in their veins and arteries, water circulates in the veins and rivers of the Earth in a circular manner.
 
 
-#### 66. Why springs are not salty, and the sea does not become fresh.
+## 66. Why springs are not salty, and the sea does not become fresh.
 
 
 Only particles of fresh water can ascend into springs because they are thin and flexible. 
@@ -69,7 +69,7 @@ This fresh water continually returns to the sea through rivers. But the sea does
 Salt particles are rigid and hard. Thus salty seawater cannot easily be transformed into vapors nor pass through the oblique channels of the Earth.
 
  
-#### 67. Why do some wells contain salty water?
+## 67. Why do some wells contain salty water?
 
 Salty water is found in some wells far from the sea.
 
@@ -86,14 +86,14 @@ This phenomenon can be observed in a vessel with slightly inclined lips, as in `
 When salty water evaporates from it, the edges of the vessel are usually covered with a crust of salt.
 
 
-#### 68. Why salt is extracted from some mountains.
+## 68. Why salt is extracted from some mountains.
 
 In some mountains, large masses of salt have congealed like stones. 
 
 When the sea water ascends there, and fresh water particles continue further, only salt remains in the cavities that happened to be there, filling them.
 
 
-#### 69. Nitre and other salts distinct from sea salt.
+## 69. Nitre and other salts distinct from sea salt.
 
 Sometimes, salt particles pass through some narrow channels of the Earth, losing something of their shape and quantity. They transform into nitre, sal ammoniac, or something similar. 
 
@@ -102,7 +102,7 @@ Many particles of the Earth, elongated, non-branching, and quite rigid, original
 For these forms are not located elsewhere than in the elongated, non-flexible, and non-branching nature of these particles. As different as they are, they compose various species of salt.
 
 
-#### 70. Vapors, Spirits, and Exhalations ascending from the interior to the exterior of the Earth
+## 70. Vapors, Spirits, and Exhalations ascending from the interior to the exterior of the Earth
 
  
 The following ascend from the Earth's interior to the exterior:
@@ -123,7 +123,7 @@ In waters and other juices and oils, particles only swim.
 But in vapors, spirits, and exhalations, they fly.
 
 
-### 71. How various mixtures give rise to different types of stones and other fossils.
+## 71. How various mixtures give rise to different types of stones and other fossils.
 
 Spirits fly with greater force and more easily permeate narrow channels in the Earth, where they are intercepted and adhere more firmly.
 - These turn them into substances harder than exhalations or vapors. 

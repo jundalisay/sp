@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 50. Why does water rise at the 6 1/5 hour and descend at the 6 1/5 hour?
+## 50. Why does water rise at the 6 1/5 hour and descend at the 6 1/5 hour?
 
 The part of the Earth at `F` will be at point `G` after 6 hours. 
 - After 6 hours more, it will be at `H` 
@@ -32,7 +32,7 @@ The part of the Earth that is now in `F` is opposite the Moon's body.
 This is why the sea water should ebb and flow every 12 hours and 2 minutes in the same location.
 
 
-#### 51. Why tides are greater when the Moon is full or new.
+## 51. Why tides are greater when the Moon is full or new.
 
 This vortex `ABCD` is not precisely circular. 
 
@@ -42,7 +42,7 @@ Consequently, the tides should be greater when the Moon is new or full than in t
 
 
 
-#### 52. Why are the Tides Greatest at the Equinoxes?
+## 52. Why are the Tides Greatest at the Equinoxes?
 
 The Moon is always near the plane of the Ecliptic, while the Earth, with its diurnal motion, rotates in the plane of the equator. 
 
@@ -57,7 +57,7 @@ Consequently, the greatest tides should occur around the beginning of spring and
 
 
 
-#### 53. Why air and water always flow from East to West
+## 53. Why air and water always flow from East to West
 
 As the Earth moves from `E` through `F` towards `G`, or from the west to the east, the bulge of water `4 1 2` and the bulge of air `8 5 6`, which now press on the Earth's part `E`, gradually migrate to other, more westerly parts of it. 
 
@@ -68,7 +68,7 @@ After 12 hours, on the Earth's part `G`.
 The same applies to the bulges of water and air `2 3 4` and `6 7 8`. Therefore, water and air continuously flow from the eastern parts of the Earth to its western parts.
 
 
-#### 54. Why, at the same latitude, regions with a sea to the east are milder than others
+## 54. Why, at the same latitude, regions with a sea to the east are milder than others
 
 This flow is not very swift. This is clearly detected from long voyages being much slower and more difficult towards the east than towards the west.
 
@@ -79,7 +79,7 @@ Moreover, in regions with a sea to the east, such as Brazil, they do not feel as
 This is because the air coming from the sea is cooler than that from the land.
 
 
-#### 55. Why there is no ebb or flow in lakes and ponds, why it occurs at various times on various shores
+## 55. Why there is no ebb or flow in lakes and ponds, why it occurs at various times on various shores
 
 <!-- The entire Earth is not covered by the sea. 
 
@@ -97,7 +97,7 @@ The ocean is surrounded by the inequality of sinuosities and windings.
  <!-- Hence, numerous variations arise from them. -->
 
 
-#### 56. How the specific causes of these variations should be investigated on individual shores.
+## 56. How the specific causes of these variations should be investigated on individual shores.
 
 The particular causes of all these variations can be deduced from the foregoing if we consider that 
 

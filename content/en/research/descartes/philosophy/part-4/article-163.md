@@ -17,7 +17,7 @@ icon: "Rene Descartes"
 {{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 163. Why steel is more apt to receive the magnet's force than common iron
+## 163. Why steel is more apt to receive the magnet's force than common iron
 
 This is because it has more and more perfect passages, fit for receiving the virtual photons. 
 
@@ -26,7 +26,7 @@ It preserves those virtual photons more constantly, because the extremities of t
 
 
 
-#### 164. Why a greater magnet communicates more magnetism to it than a less perfect one. 
+## 164. Why a greater magnet communicates more magnetism to it than a less perfect one. 
 
 This is because the virtual photons rush with greater impetus into its pores. These bend the ends of the projecting fibrils more.
 
@@ -44,7 +44,7 @@ Therefore, when only a few virtual photons from the weak magnet enter the iron, 
 ## The Compass
 
 
-#### 165. Why does the earth itself give a magnetic force to iron?
+## 165. Why does the earth itself give a magnetic force to iron?
 
 The Earth itself is a very large but weak magnet.
 
@@ -60,7 +60,7 @@ If the same end is raised up, and the opposite one is depressed,, then the iron 
 
 
 
-#### 166. Why is the magnetic field [virtue] weaker in the Earth than in small magnets?
+## 166. Why is the magnetic field [virtue] weaker in the Earth than in small magnets?
 
 
 I do not think it is weaker, but rather much stronger in that middle region of the Earth which is pervaded by all the virtual photons.
@@ -120,7 +120,7 @@ If the magnet is cut out of the earth, and placed freely in a boat on the water,
 
 
 
-#### 167. Why do needles, touched by a magnet, always have the poles of their magnetic field [virtue] at their ends?
+## 167. Why do needles, touched by a magnet, always have the poles of their magnetic field [virtue] at their ends?
 
 This magnetic virtue is not communicated to an oblong iron, except according to its length.
 
@@ -129,7 +129,7 @@ This is why a needle imbued with it must always turn its ends towards the same p
 Such a needle must always have the poles of its magnetic virtue precisely at those extremities.
 
 
-#### 168. Why the poles of the magnetic force are not always accurately directed towards the poles of the Earth
+## 168. Why the poles of the magnetic force are not always accurately directed towards the poles of the Earth
 
 <!-- , but are sometimes deflected from them. -->
 
@@ -158,7 +158,7 @@ The inequalities in the outermost surface of the earth, compared to its whole ma
 - This makes those inequalities quite large.
 
 
-#### 169. Why even sometimes this declination changes with time.
+## 169. Why even sometimes this declination changes with time.
 
 <!-- There are those who say that this decline does not always remain the same in the same parts of the earth, but changes with time.
 
@@ -171,7 +171,7 @@ This is because:
 
 
 
-#### 170. Why can the declination be smaller in a magnet standing above one of its poles than when its poles are equally distant from the Earth?
+## 170. Why can the declination be smaller in a magnet standing above one of its poles than when its poles are equally distant from the Earth?
 
 Some say that:
 - this declination does not exist in a spherical magnet above its South pole in these Northern regions, or above its North pole in the Southern regions, when it is standing perpendicularly
