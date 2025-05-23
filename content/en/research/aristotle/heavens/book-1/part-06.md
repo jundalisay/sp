@@ -1,6 +1,6 @@
 ---
 heading: "Part 6"
-title: "Book 1"
+title: "An infinite body is impossibile"
 c: "darkgoldenrod"
 weight: 14
 writer:

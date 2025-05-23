@@ -54,6 +54,8 @@ Now by sufficient for Self, we mean not for a single individual living a solitar
 
 But of these, of course, some limit must be fixed: for if one extends it to parents and descendants and friends’ friends, there is no end to it. 
 
-This point, however, must be left for future investigation: for the present we define that to be self-sufficient “which taken alone makes life choice-worthy, and to be in want of nothing;” now of such kind we think Happiness to be: and further, to be most choice-worthy of all things; not being reckoned with any other thing,[16] for if it were so reckoned, it is plain we must then allow it, with the addition of ever so small a good, to be more choice-worthy than it was before:[17] because what is put to it becomes an addition of so much more good, and of goods the greater is ever the more choice-worthy.
+This point, however, must be left for future investigation: for the present we define that to be self-sufficient “which taken alone makes life choice-worthy, and to be in want of nothing;” 
+
+Now of such kind we think Happiness to be: and further, to be most choice-worthy of all things; not being reckoned with any other thing,[16] for if it were so reckoned, it is plain we must then allow it, with the addition of ever so small a good, to be more choice-worthy than it was before:[17] because what is put to it becomes an addition of so much more good, and of goods the greater is ever the more choice-worthy.
 
 So then Happiness is manifestly something final and self-sufficient, being the end of all things which are and may be done.

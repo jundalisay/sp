@@ -1,9 +1,9 @@
 ---
 heading: "Book 1"
 linkTitle: Book 1
-title: "Book 1"
-c: "indigo"
-weight: 1
+title: "Finity and Infinity"
+c: "darkgoldenrod"
+weight: 2
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

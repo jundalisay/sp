@@ -1,6 +1,6 @@
 ---
 heading: "Part 5"
-title: "Book 1"
+title: "Moving along a circle"
 c: "firebrick"
 weight: 6
 writer:

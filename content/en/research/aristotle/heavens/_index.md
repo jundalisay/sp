@@ -1,8 +1,6 @@
 ---
-heading: "Book 2"
-linkTitle: Book 2
-title: "The Heavens"
-c: "darkgoldenrod"
+title: The Heavens
+c: "firebrick"
 weight: 4
 writer:
   name: Aristotle

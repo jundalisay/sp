@@ -1,8 +1,8 @@
 ---
 heading: "Part 4"
-title: "Substances and Attributes"
+title: "Absolute Heaviness"
 c: "darkgoldenrod"
-weight: 2
+weight: 8
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -12,11 +12,14 @@ description: "Book 3 of The Heavens by Aristotle Simplified"
 
 What are the distinctive properties of these bodies and of the various phenomena connected with them?
 
-In accordance with general conviction we may distinguish the absolutely heavy, as that which sinks to the bottom of all things, from the absolutely light, which is that which rises to the surface of all things. 
+- the absolutely heavy sinks to the bottom of all things
+- the absolutely light rises to the surface of all things
 
 I use the term 'absolutely', in view of the generic character of 'light' and 'heavy', in order to confine the application to bodies which do not combine lightness and heaviness. 
 
-It is apparent, I mean, that fire, in whatever quantity, so long as there is no external obstacle moves upward, and earth downward; and, if the quantity is increased, the movement is the same, though swifter. 
+Fire, so long as there is no external obstacle moves upward, and earth downward.
+
+If the quantity is increased, the movement is the same, though swifter. 
 
 But the heaviness and lightness of bodies which combine these qualities is different from this, since while they rise to the surface of some bodies they sink to the bottom of others. Such are air and water. 
 

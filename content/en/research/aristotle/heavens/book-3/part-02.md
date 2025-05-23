@@ -1,8 +1,8 @@
 ---
 heading: "Part 2"
-title: "Substances and Attributes"
+title: "The natural movement of simple bodies"
 c: "darkgoldenrod"
-weight: 2
+weight: 4
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -26,9 +26,13 @@ Hence Leucippus and Democritus, who say that the primary bodies are in perpetual
 
 For if the various elements are constrained by one another to move as they do, each must still have a natural movement which the constrained contravenes, and the prime mover must cause motion not by constraint but naturally. 
 
-If there is no ultimate natural cause of movement and each preceding term in the series is always moved by constraint, we shall have an infinite process. The same difficulty is involved even if it is supposed, as we read in the Timaeus, that before the ordered world was made the elements moved without order. Their movement must have been due either to constraint or to their nature. And if their movement was natural, a moment's consideration shows that there was already an ordered world. 
+If there is no ultimate natural cause of movement and each preceding term in the series is always moved by constraint, we shall have an infinite process. The same difficulty is involved even if it is supposed, as we read in the Timaeus, that before the ordered world was made the elements moved without order.
 
-For the prime mover must cause motion in virtue of its own natural movement, and the other bodies, moving without constraint, as they came to rest in their proper places, would fall into the order in which they now stand, the heavy bodies moving towards the centre and the light bodies away from it. But that is the order of their distribution in our world. There is a further question, too, which might be asked. Is it possible or impossible that bodies in unordered movement should combine in some cases into combinations like those of which bodies of nature's composing are composed, such, I mean, as bones and flesh?
+Their movement must have been due either to constraint or to their nature. And if their movement was natural, a moment's consideration shows that there was already an ordered world. 
+
+For the prime mover must cause motion in virtue of its own natural movement, and the other bodies, moving without constraint, as they came to rest in their proper places, would fall into the order in which they now stand, the heavy bodies moving towards the centre and the light bodies away from it. 
+
+But that is the order of their distribution in our world. There is a further question, too, which might be asked. Is it possible or impossible that bodies in unordered movement should combine in some cases into combinations like those of which bodies of nature's composing are composed, such, I mean, as bones and flesh?
 
 Yet this is what Empedocles asserts to have occurred under Love. 'Many a head', says he, 'came to birth without a neck.' The answer to the view that there are infinite bodies moving in an infinite is that, if the cause of movement is single, they must move with a single motion, and therefore not without order; and if, on the other hand, the causes are of infinite variety, their motions too must be infinitely varied. 
 

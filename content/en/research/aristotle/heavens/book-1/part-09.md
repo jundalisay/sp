@@ -1,6 +1,6 @@
 ---
 heading: "Part 9"
-title: "Book 1"
+title: "The Heavens"
 c: "darkgoldenrod"
 weight: 20
 writer:
@@ -10,7 +10,10 @@ description: "Book 1 of The Heavens by Aristotle Simplified"
 ---
 
 
-We must show not only that the heaven is one, but also that more than one heaven is and, further, that, as exempt from decay and generation, the heaven is eternal.
+I must show that:
+- the heaven is one
+- there is more than one heaven
+- the heaven is eternal and from decay and generation
 
 It might seem impossible that the heaven should be one and unique, since in all formations and products whether of nature or of art we can distinguish the shape in itself and the shape in combination with matter. 
 
@@ -59,7 +62,9 @@ From our arguments then it is evident not only that there is not, but also that 
 
 The world as a whole, therefore, includes all its appropriate matter, which is, as we saw, natural perceptible body. So that neither are there now, nor have there ever been, nor can there ever be formed more heavens than one, but this heaven of ours is one and unique and complete.
 
-There is also no place or void or time outside the heaven. For in every place body can be present; and void is said to be that in which the presence of body, though not actual, is possible; and time is the number of movement. But in the absence of natural body there is no movement, and outside the heaven, as we have shown, body neither exists nor can come to exist. It is clear then that there is neither place, nor void, nor time, outside the heaven. Hence whatever is there, is of such a nature as not to occupy any place, nor does time age it; nor is there any change in any of the things which lie beyond the outermost motion; they continue through their entire duration unalterable and unmodified, living the best and most selfsufficient of lives. 
+There is also no place or void or time outside the heaven. For in every place body can be present; and void is said to be that in which the presence of body, though not actual, is possible; and time is the number of movement. But in the absence of natural body there is no movement, and outside the heaven, as we have shown, body neither exists nor can come to exist. 
+
+It is clear then that there is neither place, nor void, nor time, outside the heaven. Hence whatever is there, is of such a nature as not to occupy any place, nor does time age it; nor is there any change in any of the things which lie beyond the outermost motion; they continue through their entire duration unalterable and unmodified, living the best and most selfsufficient of lives. 
 
 This word 'duration' possessed a divine significance for the ancients, for the fulfilment which includes the period of life of any creature, outside of which no natural development can fall, has been called its duration.
 

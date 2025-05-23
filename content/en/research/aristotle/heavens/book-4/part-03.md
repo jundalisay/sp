@@ -1,8 +1,8 @@
 ---
 heading: "Part 3"
-title: "Substances and Attributes"
+title: "Why do some bodies move upward and others downward?"
 c: "darkgoldenrod"
-weight: 2
+weight: 6
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -10,12 +10,21 @@ description: "Book 3 of The Heavens by Aristotle Simplified"
 ---
 
 
+Why do some bodies move always and naturally upward and others downward, while others again move both upward and downward?
 
-These, then, are the views which have been advanced by others and the terms in which they state them. We may begin our own statement by settling a question which to some has been the main difficulty-the question why some bodies move always and naturally upward and others downward, while others again move both upward and downward.
+<!-- After that we will inquire into light and heavy and of the various phenomena connected with them.  -->
 
-After that we will inquire into light and heavy and of the various phenomena connected with them. The local movement of each body into its own place must be regarded as similar to what happens in connexion with other forms of generation and change. 
+The local movement of each body into its own place must be regarded as similar to what happens in connexion with other forms of generation and change. 
 
-There are, in fact, three kinds of movement, affecting respectively the size, the form, and the place of a thing, and in each it is observable that change proceeds from a contrary to a contrary or to something intermediate: it is never the change of any chance subject in any chance direction, nor, similarly, is the relation of the mover to its object fortuitous: the thing altered is different from the thing increased, and precisely the same difference holds between that which produces alteration and that which produces increase.
+There are 3 kinds of movement, affecting a thing's 
+
+1. Size
+2. Form
+3. Place
+
+Change in each proceeds from a contrary to a contrary or to something intermediate.
+
+It is never the change of any chance subject in any chance direction, nor, similarly, is the relation of the mover to its object fortuitous: the thing altered is different from the thing increased, and precisely the same difference holds between that which produces alteration and that which produces increase.
 
 In the same manner it must be thought that produces local motion and that which is so moved are not fortuitously related. 
 

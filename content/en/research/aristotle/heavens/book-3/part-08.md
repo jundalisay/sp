@@ -1,8 +1,8 @@
 ---
 heading: "Part 8"
-title: "Substances and Attributes"
+title: "The Shape of Simple Bodies"
 c: "darkgoldenrod"
-weight: 2
+weight: 22
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
