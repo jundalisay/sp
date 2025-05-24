@@ -11,7 +11,6 @@ icon: "Rene Descartes"
 ---
 
 
-
 <!-- XXVIII. On the third action, which is light; how it moves air particles. The force of light, as it spreads from the Sun and stars to all parts of the sky, has already been sufficiently explained above: it only remains for us to note here that its rays, having descended from the Sun, affect the particles of Earth in various ways. Although, in itself, it is nothing more than a certain pressure, which occurs along straight lines extending from the Sun to the Earth: because this pressure, however, is not equally applied to all the particles of the third element, which make up the uppermost region of the Earth, but now to one, now to another, and even now to one end of the same particle, now to another: it can easily be understood how various motions are excited in these particles themselves. For example, if AB is one of the particles of the third element, composing the uppermost region of the Earth, which presses on another particle C, with many others interposed between it and the Sun, such as DEF; these interposed ones will now prevent the rays of the Sun GG from pressing on the end B, but not on A; thus end A will be depressed, and end B will be raised. And because these particles constantly change position, shortly after they will be opposed to the rays of the Sun tending towards A, but not those tending towards B; thus end A will be raised again, and B will be depressed. The same applies to all the particles of the Earth reached by the Sun's rays, and therefore they are all affected by the Sun's light.
 
 XXIX. On the fourth, which is heat: what it is, and how it persists after light is removed. This agitation of terrestrial particles, whether arising from light or from any other cause, is called heat; especially when it is greater than usual and is perceptible; for the designation of heat is related to the sense of touch. It should be noted that each of the terrestrial particles agitated in this way continues afterwards in its motion according to the laws of nature, until it is stopped by some other cause; and therefore heat originating from light always remains for some time after the light is removed.
@@ -50,7 +49,7 @@ The same happens with all Earth particles reached by the Sun's light, and hence,
 
 
 
-### 29. The Fourth Action: Heat - how it persists after light is removed
+## 29. The Fourth Action: Heat - how it persists after light is removed
 
 This agitation of earth-aether particles*, whether originating from light or any other cause, is called heat, especially when it is greater than usual and affects the senses.
 
@@ -66,7 +65,7 @@ This is why the heat originating from light continues to exist for some time aft
 {{< n n="We hypothesize that the heat particles bounce between the 3rd Element particles to keep them warm. Eventually, they dissipate into the external 2nd Element and so the body cools down. Physics calls this dissipation as entropy" >}}
 
 
-### 30. Why heat penetrates deeper than light
+## 30. Why heat penetrates deeper than light
 
 The earth-aether particles, impelled by the Sun's rays, agitate others nearby to which these rays do not reach.  These, in turn, agitate others, and so on.
 
@@ -92,4 +91,3 @@ Thus, heat decompresses almost all terrestrial bodies to varying degrees dependi
 
 
 {{< n n="We hypothesize that the heat particles decompress bodies because they are flexible like the spactime particles. And so they switch from columnar to flat and take the shape of spacetime which then makes the real spacetime easy to replace them when they get dissipated." >}}
-

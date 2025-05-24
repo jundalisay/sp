@@ -14,12 +14,10 @@ icon: "Rene Descartes"
 
 
 
-#### 37. How the lower body `C` was divided into several others.
+## 37. How the lower body `C` was divided into several others.
 
 <!-- celestial matter -->
  <!-- the 2 others, B and C, before these two were perfectly formed—before  -->
-
-
 
 Gradually:
 - body `C` became so hard that its particles could no longer connect tightly and nor be expelled from the motion of the air-aether.
@@ -38,7 +36,7 @@ Thus, this single body `C` was divided into several others. Some fluid escaped f
 However, not all details can be explained here.
 
 
-#### 38. The formation of Body `E` above Body `D` 
+## 38. The formation of Body `E` above Body `D` 
 <!-- another fourth body above the third. -->
 
 Particles less solid than those of body `D` fell down from `B`.
@@ -63,7 +61,7 @@ The different actions of light and heat on those parts caused them to be differe
 <!-- that reached this body in one day, or in one summer, it was somehow distinguished from what reached it in the following day or summer; and thus, it was formed by  -->
 
 
-#### 39. The growth of body `E` and the purification of body `D`.
+## 39. The growth of body `E` and the purification of body `D`.
 
 <!-- XXXIX. On the growth of this fourth body, and the purification of the third. -->
 
@@ -89,5 +87,3 @@ They passed through the same paths. The others succeeded in the places of others
 But many of them could not be brought back to the common standard of others. These were gradually expelled from body `D` by the motion of the air-aether globes. 
 - Some of them joined body `C`.
 - But most ascended towards `E` and `B`, supplying material to body `E` by increasing it.
-
-

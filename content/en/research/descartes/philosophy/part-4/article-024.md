@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 24. How much gravity does a Body Have?
+## 24. How much gravity does a Body Have?
 
 There is also some air-aether in the channels of rock `B`. 
 
@@ -44,7 +44,7 @@ In contrast, a less massive object has so much spacetime that it is easy to move
 
 
 
-#### 25. The quantity of gravity does not correspond to the quantity of matter in each body*
+## 25. The quantity of gravity does not correspond to the quantity of matter in each body*
 
 {{< n n="This specifically refutes Newton who based gravity on the amount of matter in each body" >}}
 <!-- Its quantity does not correspond to the quantity of matter in each body. And so that nothing is omitted, it must also be noted that by celestial matter we do not mean here only the globules of the second element, but also the matter of the first element mixed with them, and that those terrestrial particles which follow its course and move more quickly than the others are also to be referred to it; such as are all those that compose the air. Furthermore, it must be noted that the matter of the first element, other things being equal, has a greater force to drive terrestrial bodies downward than the globules of the second element, because it has more agitation; and 
@@ -101,7 +101,7 @@ Additionally, in the water itself, as in all other liquid bodies, there is buoya
 
 
 
-#### 26. Why bodies do not gravitate in their natural places
+## 26. Why bodies do not gravitate in their natural places
 
 <!-- In every motion there is a cycle of bodies moving together. 
 
@@ -156,7 +156,7 @@ But the same part `B` of the vessel is not pressed by more drops than these `1, 
 
 
 
-#### 27. Gravity causes bodies to descend toward the center of the Earth
+## 27. Gravity causes bodies to descend toward the center of the Earth
 
 The air-aether particles are simultaneously agitated by many different motions. Yet all their actions conspire together and are balanced, opposing some more than others.
 

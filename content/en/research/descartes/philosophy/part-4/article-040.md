@@ -14,14 +14,12 @@ icon: "Rene Descartes"
 ---
 
 
-
 <!-- XL. How this third body was diminished in size and left some space between itself and the fourth.  -->
-
 
 <!-- It followed after many days and years that a large part of this body D was consumed, and no more particles were found in it, except for the two species described earlier; and also that body E was quite dense and thick, because almost all the particles that had left D, either densified it by impacting its pores, or by encountering the particles of body B, were transformed and returned to it, increasing its thickness; and finally, leaving a sufficiently wide space F between D and E; which could only be filled with the material from which body B was formed; namely, the very fine particles of which easily passed through the passages of body E, leaving in places where slightly thicker ones exited from D. -->
 
 
-#### 40. How Body `D` was reduced in size, and left some space between itself and Body `E`
+## 40. How Body `D` was reduced in size, and left some space between itself and Body `E`
 
  <!-- rarefies -->
 During the daytime and summer, the Sun decompresses half of `Body D` with its light and heat. 
@@ -68,7 +66,7 @@ The extremely fine particles of body `B` easily passed through the passages of b
 
 
 
-#### 41. How many cracks were formed in body `E`.
+## 41. How many cracks were formed in body `E`.
 
 Body `E` is heavier and denser than `F` and possibly even `D`. But it remained suspended over `D` and `F` for a while due to its hardness.
 
@@ -94,7 +92,7 @@ Consequently, with some parts of body `E` separated from each other, cracks form
 This is the same as the cracks opening in the earth during the summer when it dries in the Sun and yawns wider the longer the dryness persists.
 
 
-#### 42. How the cracks broke into various parts
+## 42. How the cracks broke into various parts
 
 The many such cracks in body `E` continuously expand.
 - Its parts eventually adhered so little to each other that it could no longer sustain the arch-like form between `F` and `B`.
@@ -117,7 +115,7 @@ In other words, fragments `2, 3` and `6, 7` are closely connected to body `C`, w
 
 
 
-#### 43. How Body `D` partly ascended above the Body `E` and partly remained below.
+## 43. How Body `D` partly ascended above the Body `E` and partly remained below.
 <!-- third body fourth -->
 
 `Body D` is fluid and less dense than the fragments of `Body E`. So it occupies all the lower cavities left by these fragments and their cracks and passages, and also rises above them as much as it can.
