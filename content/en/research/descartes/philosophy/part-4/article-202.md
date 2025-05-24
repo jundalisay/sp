@@ -133,7 +133,7 @@ And it will be sufficient for the use of life to know such causes for:
 
  <!-- to which the knowledge of physics is of service, have for their end only those effects that are sensible, and that are accordingly to be reckoned among the phenomena of nature.  -->
 
-{{< f f=""have for their end only to apply certain sensible bodies to each other in such a way that, in the course of natural causes, certain sensible effects may be produced; and we will be able to accomplish this quite as well by considering the series of certain causes thus imagined, although false, as if they were the true, since this series is supposed similar as far as regards sensible effects."-French.">}}
+{{< f f="have for their end only to apply certain sensible bodies to each other in such a way that, in the course of natural causes, certain sensible effects may be produced; and we will be able to accomplish this quite as well by considering the series of certain causes thus imagined, although false, as if they were the true, since this series is supposed similar as far as regards sensible effects.-French." >}}
 
 <!-- And lest it should be supposed that Aristotle did, or professed to do, anything more than this, it ought to be remembered that he himself expressly says, at the commencement of the seventh chapter of the first book of the  -->
 

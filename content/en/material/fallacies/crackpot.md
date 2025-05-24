@@ -43,7 +43,7 @@ Index Item | Our Comment
 **10 points** for pointing out that you have gone to school, as if this were evidence of sanity | {{< x v="This is absurd as if people who think differently are insane" >}}
 **10 points** for beginning the description of your theory by saying how long you have been working on it. (10 more for emphasizing that you worked on your own.) | {{< x v="This is absurd as time often correlates to quality" >}}
 **10 points** for mailing your theory to someone you don't know personally and asking them not to tell anyone else about it, for fear that your ideas will be stolen. | This is fair
-**10 points** for offering prize money to anyone who proves and/or finds any flaws in your theory. | {{< x v="This is commonly done in software as bug bounty so it is absurd to denigrate it >}}
+**10 points** for offering prize money to anyone who proves and/or finds any flaws in your theory. | {{< x v="This is commonly done in software as bug bounty so it is absurd to denigrate it" >}}
 **10 points** for each new term you invent and use without properly defining it. | This is fair
 **10 points** for each statement along the lines of "I'm not good at math, but my theory is conceptually right, so all I need is for someone to express it in terms of equations" | {{< x v="This is absurd as there are other sciences where equations are not critical" >}}
 **10 points** for arguing that a current well-established theory is "only a theory", as if this were somehow a point against it | {{< x v="Dogmatic as it sets the status quo as correct, preventing a change for the better" >}} 
