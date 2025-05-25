@@ -7,8 +7,6 @@ description: "Pythagoras was the father of philosophy"
 icon: "/icons/py.png"
 ---
 
-
-
 <!-- BY THOMAS TAYLOR. -->
 
 {{< q >}}
@@ -22,23 +20,33 @@ Good Rulers, Customs, Laws, alone can mend.
 
 
 
-## Introduction
+Pythagoras was the father of [Western] philosophy.*
 
-Pythagoras was the father of philosophy. 
+{{< n n="Human philosophy was created earlier by Kapila in India" >}}
 
 <!-- The authentic memoirs of his life are interesting to those who revere the doctrines of --> 
 
 Plato is the most genuine and the best of all his disciples.
 
-Pythagoras' biographer, Iamblichus, is well known to every Platonist that he was seen by them as divine. 
 
-After the encomium passed on him by the acute Emperor Julian, “that he was posterior indeed in time, but not in genius, to Plato,”[1] all further praise of him would be as vii unnecessary, as the defamation of him by certain modern critics is contemptible and idle. 
+## Iamblichus
 
-For these homonculi looking solely to his deficiency in point of style, and not to the magnitude of his intellect, perceive only his little blemishes, but have not even a glimpse of his surpassing excellence. They minutely notice the motes that are scattered in the sunbeams of his genius, but they feel not its invigorating warmth, they see not its dazzling radiance.
+
+Pythagoras' biographer was Iamblichus. He is well known to every Platonist.
+
+ <!-- that he was seen by them as divine.  -->
+
+After the encomium passed on him by the acute Emperor Julian, “that he was posterior indeed in time, but not in genius, to Plato,”[1] all further praise of him would be as unnecessary, as the defamation of him by certain modern critics is contemptible and idle. 
+
+For these homonculi looking solely to his deficiency in point of style, and not to the magnitude of his intellect, perceive only his little blemishes, but have not even a glimpse of his surpassing excellence. 
+
+They minutely notice the motes that are scattered in the sunbeams of his genius, but they feel not its invigorating warmth, they see not its dazzling radiance.
 
 Of this very extraordinary man there is a life extant by Eunapius, the substance of which I have given in my History of the Restoration of the Platonic Theology, and to which I refer the English reader. 
 
-At present I shall only select from that work the following biographical particulars respecting our Iamblichus= He was descended of a viii family equally illustrious, fortunate, and rich. His country was Chalcis, a city of Syria, which was called Cœle. He associated with Anatolius who was the second to Porphyry, but he far excelled him in his attainments, and ascended to the very summit of philosophy. 
+At present I shall only select from that work the following biographical particulars respecting our Iamblichus= He was descended of a family equally illustrious, fortunate, and rich. 
+
+His country was Chalcis, a city of Syria, which was called Cœle. He associated with Anatolius who was the second to Porphyry, but he far excelled him in his attainments, and ascended to the very summit of philosophy. 
 
 But after he had been for some time connected with Anatolius, and most probably found him insufficient to satisfy the vast desires of his soul, he applied himself to Porphyry, to whom (says Eunapius) he was in nothing inferior, except in the structure and power of composition. For his writings were not so elegant and graceful as those of Porphyry= 
 
@@ -52,7 +60,20 @@ Iamblichus shared in an eminent degree the favor of divinity, on account of his 
 
 He performed some few particulars relative to the veneration of divinity by himself, without his associates and disciples; but was inseparable from his familiars in most of his operations. He imitated in his diet the frugal simplicity of the most ancient times; and during his repast, exhilarated those who were present by his behaviour, and filled them as with nectar by the sweetness of his discourse.
 
-A celebrated philosopher named Alypius, who was deeply skilled in dialectic, was contemporary with Iamblichus, but was of such a diminutive stature, xii that he exhibited the appearance of a pigmy. However, his great abilities amply compensated for this trifling defect. For his body might be said to be consumed into soul; just as the great Plato says, that divine bodies, unlike those that are mortal, are situated in souls. Thus also it might be asserted of Alypius, that he had migrated into soul, and that he was contained and governed by a nature superior to man. This Alypius had many followers, but his mode of philosophizing was confined to private conference and disputation, without committing any of his dogmas to writing. Hence his disciples gladly applied themselves to Iamblichus, desirous to draw abundantly from the exuberant streams of his inexhaustible mind. 
+
+### Alypius
+
+A celebrated philosopher named Alypius was deeply skilled in dialectic.
+
+He was contemporary with Iamblichus but was so small that he looked like a pigmy.
+
+However, his great abilities amply compensated for this defect. 
+
+His body might be said to be consumed into soul; just as the great Plato says, that divine bodies, unlike those that are mortal, are situated in souls. Thus also it might be asserted of Alypius, that he had migrated into soul, and that he was contained and governed by a nature superior to man. 
+
+This Alypius had many followers, but his mode of philosophizing was confined to private conference and disputation, without committing any of his dogmas to writing. 
+
+Hence his disciples gladly applied themselves to Iamblichus, desirous to draw abundantly from the exuberant streams of his inexhaustible mind. 
 
 The fame therefore of each continually increasing, they once accidentally met like two refulgent stars, and were surrounded by so great a crowd of auditors, that it xiii resembled some mighty musæum. While Iamblichus on this occasion waited rather to be interrogated, than to propose a question himself, Alypius, contrary to the expectation of every one, relinquishing philosophical discussions, and seeing himself surrounded with a theatre of men, turned to Iamblichus, and said to him= “Tell me, O philosopher, is either the rich man unjust, or the heir of the unjust man? For in this case there is no medium.” 
 
@@ -72,5 +93,5 @@ If the English reader has my translation of the Sentences of Demophilus, and Mr.
 
 I deem it also requisite to observe, that the Pythagoric life which is here delineated, is a specimen of the greatest perfection in virtue and wisdom, xix which can be obtained by man in the present state. Hence, it exhibits piety unadulterated with folly, moral virtue uncontaminated with vice, science unmingled with sophistry, dignity of mind and manners unaccompanied with pride, a sublime magnificence in theory, without any degradation in practice, and a vigor of intellect, which elevates its possessor to the vision of divinity, and thus deifies while it exalts.
 
-The original of the engraving of the head of Iamblichus in the title-page, is to be found at the end of a little volume consisting of Latin translations of Iamblichus De Mysteriis, Proclus On the First Alcibiades of Plato, &c. &c. &c. 18mo. Genev. 1607. This engraving was added because it appeared to me to be probable that the original xx was copied from an ancient gem. And as it is not impossible that it was, if it is not genuine, it is at least ornamental.
+<!-- The original of the engraving of the head of Iamblichus in the title-page, is to be found at the end of a little volume consisting of Latin translations of Iamblichus De Mysteriis, Proclus On the First Alcibiades of Plato, &c. &c. &c. 18mo. Genev. 1607. This engraving was added because it appeared to me to be probable that the original xx was copied from an ancient gem. And as it is not impossible that it was, if it is not genuine, it is at least ornamental. -->
 
