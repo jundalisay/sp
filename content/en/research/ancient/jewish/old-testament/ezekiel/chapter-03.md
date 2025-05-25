@@ -19,15 +19,25 @@ c: "firebrick"
 <sup>3</sup> Son of man, cause your belly to eat, and fill your bowels with this roll that I give you. 
 {{< /l >}}
 
+
 I ate it and it was in my mouth as honey for sweetness.
 
 {{< l a="Enki" >}}
-<sup>4</sup> Son of man, go to the Israelites and speak my words to them. <sup>5</sup>  I am sending you not to a people of a strange speech and of an hard language, but to the Israelites, 6 Had I sent you to people who cannot understand you then they would listen to you. 7 But the Israelites will not listen to you for they will not listen to me for all the Israelites are impudent and hardhearted.
+<sup>4</sup> Son of man, go to the Israelites and speak my words to them.
 
-<sup>8</sup> Behold, I have made your face strong against their faces, and your forehead strong against their foreheads. 9 As an adamant harder than flint have I made your forehead: fear them not, neither be dismayed at their looks, though they [be] a rebellious house. 10 Receive in your heart and  hear with thine ears All my words.
+<sup>5</sup>  I am sending you not to a people of a strange speech and of an hard language, but to the Israelites.
+
+6 Had I sent you to people who cannot understand you then they would listen to you. 7 But the Israelites will not listen to you for they will not listen to me for all the Israelites are impudent and hardhearted.
+
+<sup>8</sup> Behold, I have made your face strong against their faces, and your forehead strong against their foreheads. 
+
+9 As an adamant harder than flint have I made your forehead: fear them not, neither be dismayed at their looks, though they [be] a rebellious house. 
+
+10 Receive in your heart and  hear with thine ears All my words.
 
 11 Go to them in captivity, to your people, and tell them: Enki said whether they will hear, or whether they will forbear. 
 {{< /l >}}
+
 
 12 Then the spirit took me up, and I heard behind me a voice of a great rushing, saying Blessed be  the glory of Enki from his place. 
 
@@ -58,6 +68,8 @@ there talk with you.
 23 Then I arose, and went forth into the plain: and, behold, the glory of Enki stood there, as the glory which I saw by the river of Chebar: and I fell on my face. 
 
 24 Then the spirit entered into me, and set me upon my feet:
+
+
 
 {{< l a="Enki" >}}
 Go, shut yourself in your house.  25 They shall put bands on you, and bind you with them. You shalt not go out among them:

@@ -11,7 +11,6 @@ draft: true
 ---
 
 
-
 G is the Material Layer
 g is an instance in the Material Layer
 c is the Radiant Layer

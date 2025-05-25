@@ -1,7 +1,7 @@
 ---
 heading: Ezekiel 33
-title: "The Anunnaki Speak"
-description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
+title: "Warnings From Enki"
+description: "Set up a watchman for their coasts to blow the trumpet to warn the people when he sees the sword that I will bring on the land"
 weight: 98
 c: "firebrick"
 ---
@@ -9,21 +9,28 @@ c: "firebrick"
 
 
 {{< l a="Enki" >}}
-<sup>1-2</sup> [To Ezekiel] Son of man, speak to the children of your people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman: 3} If when he seeth the sword come upon the land, he blow the trumpet, and warn the people.
+<sup>1-3</sup> [To Ezekiel] Son of man, speak to the children of your people and tell them: Set up a watchman for their coasts to blow the trumpet to warn the people when he sees the sword that I will bring on the land.
 
-4} Then whosoever heareth the sound of the trumpet, and taketh not warning; if the sword come, and take him away, his blood shall be upon his own head. 5} He heard the sound of the trumpet, and took not warning; his blood shall be upon him. 
+4 In this way, those who do not heed the warning will be responsible for his own blood by that sword.
 
-But he that taketh warning shall deliver his soul. 6} But if the watchman see the sword come, and blow not the trumpet, and the people be not warned; if the sword come, and take [any] person from among them, he is taken away in his iniquity; but his blood will I require at the watchman’s hand.
+<!-- 5} He heard the sound of the trumpet, and took not warning; his blood shall be upon him.  -->
+
+5 But those who heed the warning shall deliver his soul.
+
+6 But if the watchman see the sword come but does not blow the trumpet, the people are not warned.
+
+If the sword comes and take any person from among them, he is taken away in his iniquity. But his blood will I require at the watchman’s hand.
 {{< /l >}}
 
 
 {{< l a="Enki" >}}
-7} I have set you as a watchman for the Israelites; therefore you shalt hear the word
-at my mouth, and warn them from me. 8} When I say unto the wicked, O wicked [man,] you shalt surely die; if you dost not speak to warn the wicked from his way, that wicked [man] shall die in his iniquity; but his blood will I require at thine hand. 
+7 You are the watchman for the Israelites. Hear my words, and warn them from me.
 
-9} Nevertheless, if you warn the wicked of his way to turn from it; if he do not turn from his way, he shall die in his iniquity; but you hast delivered your soul. 
+8 When I say unto the wicked, O wicked [man,] you shalt surely die; if you dost not speak to warn the wicked from his way, that wicked [man] shall die in his iniquity; but his blood will I require at thine hand. 
 
-10} Tell the Israelites: If our transgressions and our sins [be] upon us, and we pine away in them, how should we then live? 
+9 Nevertheless, if you warn the wicked of his way to turn from it; if he do not turn from his way, he shall die in his iniquity; but you hast delivered your soul. 
+
+10 Tell the Israelites: If our transgressions and our sins [be] upon us, and we pine away in them, how should we then live? 
 
 11} Tell tham that Enki says [As] I live, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn you from your evil ways; for why will you die, O Israelites?
 
