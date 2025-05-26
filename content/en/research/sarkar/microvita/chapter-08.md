@@ -13,7 +13,7 @@ weight: 28
 
 Microvitum moves through the media of inferences*.
 
-> *Superhysics Note: The inferences here are the 5 Layers applied onto the metaphysical domain
+{{< n n="*Superhysics Note: The inferences here are the 5 Elements or Layers applied onto the metaphysical domain" >}}
 
 
 <!-- The fundamental difference between positive and negative microvitum is that  -->
@@ -109,16 +109,15 @@ But it cannot go beyond the occult plexus – it cannot touch the macro-propensi
 - Micro-propensive activities concern the propensities of microcosms.
 - Macro-propensive activities concern the propensities for the all-round development of all created beings.
 
-> Yadá yadá hi dharmasya glánirbhavati Bhárata Cábhyutthánamadharmasya tadátmánaḿ srjámyáham
 
+> Yadá yadá hi dharmasya glánirbhavati Bhárata Cábhyutthánamadharmasya tadátmánaḿ srjámyáham
 [Whenever righteousness declines and unrighteousness raises its ugly head, I incarnate myself.]
 
 In this sloka, the gláni of dharma means the rule of negative microvita. They cannot touch the pinnacled portion, the pinnacled entity of the multi-propensive plexus.
 
 In order to reach that pinnacled goal of the multi-propensive plexus, one will have to do sadhaná, spiritual practice. One is also required to get the grace of somebody great.
 
-Mahatkrpayaeva bhagvatkrpáleshádvá.
-
+> Mahatkrpayaeva bhagvatkrpáleshádvá.
 [One can attain the supreme stance by the blessings of the exalted ones, as well as a wee bit of Macrocosmic grace.]
 
 Either the grace of a great person or of Parama Puruśa is needed. Microvitum – neither positive nor negative – can function there.

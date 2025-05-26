@@ -12,7 +12,7 @@ icon: "PR Sarkar"
 Can there be parity between human longings and human abilities?
 {{< /r >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Human longings are countless, and heterogeneous. But human abilities are limited in many respects. 
 
 So limited human abilities and countless human longings are apparently not at par in this relative world. 
@@ -29,7 +29,7 @@ So if cent per cent of one’s psycho-spiritual potentialities are utilized, so 
 How will you adjust between collective spirit and individual right?
 {{< /r >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 There can be harmonious adjustment between individual right and collective spirit if we follow:
 
 1. The spirit of Sama-Samaja Tattva (the Principle of Social Equality) in our individual and collective lives rationally
@@ -43,7 +43,7 @@ There can be harmonious adjustment between individual right and collective spiri
 Is there dogma in nationalism and communalism?
 {{< /r >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Yes. 
 - The dogma in nationalism is based on geo-sentiment.
 - The dogma in communalism is based on faith and religions of an illogical and unscientific nature.
@@ -55,7 +55,7 @@ Which is more psychological, capitalism or communism?
 {{< /r >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Capitalism is more psychological, although both are defective and cannot be supported. 
 - In capitalism, no such checks exist in theory, but in practice there are checks.
 
@@ -68,7 +68,7 @@ In communism, there is hardly any scope for the free and unbarred expression of 
 Why is everything in the communist countries done under the dark veil of the iron curtain?
 {{< /r >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Because they are conscious of the inherent defects and loopholes in their system and they do not want the world to know what they are doing.
 {{< /l >}}
 
@@ -80,7 +80,7 @@ Is the commune system in accordance with:
 - the integrated development of the cosmos?
 {{< /r >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 No. The commune is a socio-economic system is set up:
 - primarily for economic purposes
 - secondarily for educational and cultural development.
@@ -106,7 +106,7 @@ Integrated development and accelerated movement towards the Supreme Desideratum 
 What are the psychological defects of the commune system?
 {{< /r >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 In the commune system, society is reduced to a production-distribution centre under a regimented system of control based upon production teams. 
 
 Such a suffocative and mechanized living system fosters a materialistic outlook and produces atheistic leadership. 
@@ -123,7 +123,7 @@ If people are allowed unbarred psychic and spiritual freedom, human society will
 What will be the benefits and advantages to be enjoyed by people if a global government is formed?
 {{< /r >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 There are several benefits and advantages.
 {{< /l >}}
 
@@ -131,7 +131,7 @@ There are several benefits and advantages.
 What will be the benefits and advantages to be enjoyed by people if a global government is formed?
 {{< /r >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 The huge expense of maintaining a militia in each country will be saved and this saving can be used by people for their benefit.
 
 Human beings will be saved from psychic tension.
@@ -146,7 +146,7 @@ There will be free movement of people from one corner of the globe to the other.
 What do we want, increasing per capita income or increasing purchasing capacity?
 {{< /r >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Increases in per capita income are not a reliable and scientific index to determine the standard and progress of a socio-economic unit. 
 - It is misleading and deceitful, because it refers to a simple mathematical calculation of total national income divided by total population. 
 
@@ -175,7 +175,7 @@ Everyone’s requirements should be within their <!-- pecuniary periphery or -->
 What is the difference between agrico-industry and agro-industry?
 {{< /r >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Agrico-industries:
 - represent a set of pre-harvesting industries. 
 - directly or indirectly promote the rapid qualitative and quantitative growth of agricultural products. 

@@ -36,7 +36,7 @@ I was in the meanwhile called in by Baba. I left Bindeshwariji to the care of ot
 
 When I was left alone with Baba, He said to me: 
 
-{{< q a="Sarkar" >}}
+{{< q a="PR Sarkar" >}}
 At that time Bindeshwariji was dying, but as the place and time were not proper I had given him another lease of life. Also his body is old, but I have just given him pranah and mind, therefore he will behave like an infant. From today you will have to look after him just as one looks after a small child”. Don't tell Bindeshwariji that he was dying and I have deferred the moment.
 {{< /q >}}
 
