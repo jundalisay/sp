@@ -20,9 +20,23 @@ of man.
 <sup>5</sup> The Spirit of Enki fell on me saying:
 
 {{< l a="Enki" >}}
-Thus have you said, O Israelites: for I know the things that come into your mind, [every one of] them. 6 Ye have multiplied your slain in this city, and you have filled the streets thereof with the slain. {11:7} Therefore thus saith Enki; Your slain whom you have laid in the midst of it, they [are] the flesh, and this [city is] the caldron: but I will bring you forth out of the midst of it. {11:8} Ye have feared the sword; and I will bring a sword upon you, saith Enki. {11:9} And I will bring you out of the midst thereof, and deliver you into the hands of strangers, and will execute judgments among you.
+Israelites, I know the things that come into your mind, every one of them. 
 
-10 Ye shall fall by the sword; I will judge you in the border of Israel; and you shall know that I am the Lord. {11:11} This [city] shall not be your caldron, neither shall you be the flesh in the midst thereof; [but] I will judge you in the border of Israel: {11:12} And you shall know that I am the Lord: for ye have not walked in my statutes, neither executed my judgments, but have done after the manners of the heathen that [are] round about you.
+6 Ye have:
+- multiplied your slain in this city
+- filled its streets with the slain
+
+7 Your slain are the flesh, and this city is the caldron. But I will bring you forth out of the midst of it. 
+
+8 You have feared the sword; and I will bring a sword upon you.
+
+9 I will bring you out of the midst thereof, and deliver you into the hands of strangers, and will execute judgments among you.
+
+10 Ye shall fall by the sword. I will judge you in the border of Israel. You shall know that I am the Lord.
+
+11 This city shall not be your caldron, neither shall you be the flesh in the midst thereof; [but] I will judge you in the border of Israel
+
+12 You shall know that I am the Lord: for ye have not walked in my statutes, neither executed my judgments, but have done after the manners of the heathen that [are] round about you.
 {{< /l >}}
 
 
@@ -44,8 +58,23 @@ Although I have cast them far off among the heathen, and although I have scatter
 
 18 They shall come thither, and they shall take away all the detestable things thereof and all the abominations thereof from thence. 
 
-19 I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them an heart of flesh: {11:20} That they may walk in my statutes, and keep mine ordinances, and do them: and they shall be my people, and I will be their God. {11:21} But [as for them] whose heart walketh after the heart of their detestable things and their abominations, I will recompense their way upon their own heads
+19 I will:
+- give them one heart
+- put a new spirit within you
+- take the stony heart out of their flesh, and give them a heart of flesh
+
+20 They may walk in my statutes, and keep mine ordinances, and do them. They shall be my people, and I will be their God.
+
+21 But as for those whose heart walks after the heart of their detestable things and their abominations, I will recompense their way upon their own heads
 {{< /l >}}
 
 
-22 Then did the cherubims lift up their wings, and the wheels beside them; and the glory of the God of Israel [was] over them above. {11:23} And the glory of Enki went up from the midst of the city, and stood upon the mountain which [is] on the east side of the city. {11:24} Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me. {11:25} Then I spake unto them of the captivity all the things that Enki had shewed me.
+22 Then the cherubims lifted up their wings, and the wheels beside them.
+
+The glory of the God of Israel was over them above.
+
+23 The glory of Enki went up from the midst of the city, and stood upon the mountain which [is] on the east side of the city. 
+
+24 Afterwards the spirit took me up, and brought me in a vision by the Spirit of God into Chaldea, to them of the captivity. So the vision that I had seen went up from me.
+
+25 Then I spake unto them of the captivity all the things that Enki had shewed me.

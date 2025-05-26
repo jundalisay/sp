@@ -1,7 +1,7 @@
 ---
 title: "What is Ideation?"
 heading: "Part 1b"
-weight: 2
+weight: 3
 c: "indigo"
 description: "One’s mental flow is concerned with both ideation and meditation"
 icon: "PR Sarkar"

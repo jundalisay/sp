@@ -1,6 +1,6 @@
 ---
-heading: "Astitva and Shivatva"
-title: "Existence and the Idea of Existence"
+heading: "Part 2"
+title: "Existence and the Idea of Existence (Astitva and Shivatva)"
 # date: 2021-11-20
 weight: 4
 c: "indigo"

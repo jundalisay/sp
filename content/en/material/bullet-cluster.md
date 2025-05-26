@@ -11,6 +11,8 @@ icon: "Juan"
 
 
 
+## The Failure of General Relativity
+
 In his book Relativity, Einstein explains [the proofs for General Relativity](/research/einstein/relativity/appendix-3), one of which is gravitational lensing -- light bending around a star.
 
 He asserts that lensing is caused by mass: half of lensing is produced by the Newtonian gravitational field and the other half by the curvature of space caused by the sun.
@@ -20,6 +22,9 @@ This whole theory is debunked by the Bullet Cluster where lensing is produced wi
 {{< youtube eC5LwjsgI4I >}}
 
 The lensing happens mostly through the "dark" spacetime body.
+
+
+## The Invention of Dark Matter
 
 To save the theory (and their investment in the Relativity-belief), physicists theorize **dark matter**. This is merely because Newton said that gravity correlates with matter. 
 
@@ -41,7 +46,7 @@ We show this as a galaxy-to-matter band which says that matter can never escape 
 {{< youtube aDyohDWYPF8 >}}
 
 
-### The Religion of Physics
+## The Religion of Physics
 
 This is why Physics is like a religion where physicists refuse to change their beliefs even when faced with data from Nature. 
 

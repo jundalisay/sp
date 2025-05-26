@@ -28,22 +28,22 @@ The Yoga Sutras give 5 Niyamas:
 {{< img src="/graphics/meta/niyamas.jpg" alt="Niyamas" >}}
 
 
-#### 1. Shaoca (Purity)
+## 1. Shaoca (Purity)
 
 This imposes on us to clean ourselves, both body and mind. 
 
 This prevents bodily diseases and also mental diseases such as materialism, lust for power, tendency to belittle others (or conversely, to have inferiority complex), etc. 
 
-#### 2. Santosa (Contentment)
+## 2. Santosa (Contentment)
 
 This imposes on the mind to love what one already has. 
 
 While asteya and aparigraha rein in the mind to prevent it from developing desires, santosa imposes one to find happiness in the ordinary things in life. 
 
 
-#### 3. Tapah (Austerity)
+## 3. Tapah (Austerity)
 
-This imposes on the mind not to absorb the pain and suffering of others. 
+This imposes on the mind to absorb the pain and suffering of others. 
 
 This is the exact opposite of egoism wherein you are separate from the suffering that other people feel. 
 
@@ -54,7 +54,7 @@ This is because it is closer to the True Nature of Reality where everything and 
 In this way, the universe is one big app which all use the same computational and memory resources. Removing the garbage from one process will make all processes and therefore the whole app run better. If no process did garbage collection, then the app would be forever slow. 
 
 
-#### 4. Svadhyaya (Self-Study)
+## 4. Svadhyaya (Self-Study)
 
 This imposes on the mind to study spiritual works such as the Yoga Sutras of Patanjali, the Buddhist writings, the Bhagavad Gita, etc. 
 
@@ -63,7 +63,7 @@ Since those works were written by higher-frequency minds, then those who read th
 This is more common in Judeo-Christianity wherein different groups have competing interpretations of the Bible and the Quran. This is because, unlike Hinduism, Buddhism, and Taoism, they do not have a systematic approach to developing mind and ego in the first place.   
 
 
-#### 5. Isvara Pranidhana (Surrender to Supreme)
+## 5. Isvara Pranidhana (Surrender to Supreme)
 
 This imposes on the mind to surrender one's ego to the Supreme Entity (Isvara). This is this is the final part and climax of Yama and Niyama. 
 
