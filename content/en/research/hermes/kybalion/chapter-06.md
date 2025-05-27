@@ -7,12 +7,13 @@ weight: 12
 ---
 
 
-{{< q >}}
+
+{{< q a="Kybalion" >}}
 "The half-wise see the comparative unreality of the Universe and imagine that they can defy its Laws. They are vain and presumptuous fools. They are broken against the rocks and torn asunder by the elements by reason of their folly. 
 
 The truly wise know the nature of the Universe. They use Law against laws. The higher against the lower. By the Art of Alchemy they transmute that which is undesirable into that which is worthy and thus triumph. 
 
-Mastery is not in abnormal dreams or visions<!--  and fantastic imaginings or living -->. It is in using the higher forces against the lower, escaping the pains of the lower planes by vibrating on the higher. Transmutation, not presumptuous denial, is the weapon of the Master."—The Kybalion.
+Mastery is not in abnormal dreams or visions<!--  and fantastic imaginings or living -->. It is in using the higher forces against the lower, escaping the pains of the lower planes by vibrating on the higher. Transmutation, not presumptuous denial, is the weapon of the Master."
 {{< /q >}}
 
 

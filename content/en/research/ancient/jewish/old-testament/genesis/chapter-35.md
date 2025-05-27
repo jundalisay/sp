@@ -14,25 +14,23 @@ Go to Bethel. Live there and make there an altar for Enki. I appeared to you whe
 {{< /l >}}
 
 
-2} Then Jacob said unto his household, and to all that [were] with him:
+2 Then Jacob said unto his household, and to all that [were] with him:
 
 Put away the strange Enkis that [are] among you, and be clean, and change your garments: 
 
-3} Let us arise, and go up to Bethel; and I will make there an altar unto Enki, who answered me in the day of my distress, and was with me in the way which I went. 
+3 Let us arise, and go up to Bethel; and I will make there an altar unto Enki, who answered me in the day of my distress, and was with me in the way which I went. 
 
-4} They gave unto Jacob all the strange Enkis which [were] in their hand, and [all their] earrings which [were] in their ears; and Jacob hid them under the oak which [was] by Shechem.
+4 They gave unto Jacob all the strange Enkis which [were] in their hand, and [all their] earrings which [were] in their ears; and Jacob hid them under the oak which [was] by Shechem.
 
-5} And they journeyed: and the terror of Enki was upon the cities that [were] round
-about them, and they did not pursue after the sons of Jacob.
+5 They journeyed. The terror of Enki was upon the cities that [were] round about them, and they did not pursue after the sons of Jacob.
 
-6} So Jacob came to Luz, which [is] in the land of Canaan, that [is,] Bethel, he and all the people that [were]
+6 So Jacob came to Luz, which [is] in the land of Canaan, that [is,] Bethel, he and all the people that [were] with him.
 
-with him. 7} And he built there an altar, and called the place El-beth-el: because there Enki appeared unto him,
-when he fled from the face of his brother. 
+7 He built there an altar, and called the place El-beth-el: because there Enki appeared unto him, when he fled from the face of his brother. 
 
-8} But Deborah Rebekah’s nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allon-bachuth.
+8 But Deborah Rebekah’s nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allon-bachuth.
 
-9} Enki appeared unto Jacob again, when he came out of Padan-aram, and blessed him.
+9 Enki appeared unto Jacob again, when he came out of Padan-aram, and blessed him.
 
 
 {{< l a="Enki" >}}
@@ -68,9 +66,8 @@ Issachar, and Zebulun:
 
 These are the sons of Jacob born to him in Padan-aram.
 
-27} Jacob came unto Isaac his father unto Mamre, unto the city of Arbah, which [is] Hebron, where
-Abraham and Isaac sojourned. 
+27 Jacob came unto Isaac his father unto Mamre, unto the city of Arbah, which [is] Hebron, where Abraham and Isaac sojourned. 
 
-28} Isaac lived for 180 years.
+28 Isaac lived for 180 years.
 
-29} Isaac died and was gathered unto his people, [being] old and full of days: and his sons Esau and Jacob buried him.
+29 Isaac died and was gathered unto his people, [being] old and full of days: and his sons Esau and Jacob buried him.

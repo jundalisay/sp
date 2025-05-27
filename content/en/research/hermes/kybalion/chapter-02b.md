@@ -9,8 +9,9 @@ weight: 6
 
 ## 3. The Principle of Vibration
 
-{{< q >}}
-"Nothing rests; everything moves; everything vibrates."—The Kybalion.
+
+{{< q a="Kybalion" >}}
+Nothing rests; everything moves; everything vibrates.
 {{< /q >}}
 
 

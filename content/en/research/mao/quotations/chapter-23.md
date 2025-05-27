@@ -10,23 +10,41 @@ icon: "Mao Zedong"
 ---
 
 
-Everyone engaged in practical work must investigate conditions at the lower levels. Such investigation is especially necessary for those who know theory but do not know the actual conditions, for otherwise they will not be able to link theory with practice. 
+Everyone engaged in practical work must investigate conditions at the lower levels. 
 
-Although my assertion, "No investigation no right to speak", has been ridiculed as "narrow empiricism", to this day I do not regret having made it; far from regretting it, I still insist that without investigation there cannot possibly be any right to speak. 
+Such investigation is especially necessary for those who know theory but do not know the actual conditions, for otherwise they will not be able to link theory with practice. 
 
-There are many people who "the moment they alight from the official carriage" make a hullabaloo, spout opinions, criticize this and condemn that; but, in fact, 10 out of 10 of them will meet with failure. 
+My assertion, "No investigation no right to speak", has been ridiculed as "narrow empiricism".
 
-For such views or criticisms, which are not based on thorough investigation, are nothing but ignorant twaddle. Countless times our Party suffered at the hands of these "imperial envoys", who rushed here, there and everywhere. Stalin rightly says that "theory becomes purposeless if it is not connected with revolutionary practice". 
+I do not regret having made it. I still insist that without investigation there cannot possibly be any right to speak. 
 
-And he rightly adds that "practice gropes in the dark if its path is not illumined by revolutionary theory". Nobody should be labelled a "narrow empiricist" except the "practical man" who gropes in the dark and lacks perspective and
+There are many people who "the moment they alight from the official carriage" make a hullabaloo, spout opinions, criticize this and condemn that.
+
+But, in fact, 10 out of 10 of them will meet with failure. 
+
+Such views or criticisms, which are not based on thorough investigation, are nothing but ignorant twaddle.
+
+Countless times our Party suffered at the hands of these "imperial envoys", who rushed here, there and everywhere. 
+
+Stalin rightly says that "theory becomes purposeless if it is not connected with revolutionary practice". 
+
+He rightly adds that "practice gropes in the dark if its path is not illumined by revolutionary theory". 
+
+Nobody should be labelled a "narrow empiricist" except the "practical man" who gropes in the dark and lacks perspective and
 foresight.
 
 <cite>"Preface and Postscript to Rural Surveys" (March and April 1941), Selected Works, Vol. III, p. 13.*</cite>
 
 
-To take such an attitude is to seek truth from facts. "Facts" are all the things that exist objectively, "truth" means their internal relations, that is, the laws governing them, and "to seek" means to study. We should proceed from the actual conditions inside and outside the country, the province, county or district, and derive from them, as our guide to action, laws which are inherent in them and not imaginary, that is, we should find the internal relations of the events occurring around us.
+To take such an attitude is to seek truth from facts.
 
-In order to do that we must rely not on subjective imagination, not on momentary enthusiasm, not on lifeless books, but on facts that exist objectively; we must appropriate the material in detail and, guided by the general principles of Marxism-Leninism, draw correct conclusions from it.
+"Facts" are all the things that exist objectively, "truth" means their internal relations, that is, the laws governing them, and "to seek" means to study.
+
+We should proceed from the actual conditions inside and outside the country, the province, county or district, and derive from them, as our guide to action, laws which are inherent in them and not imaginary, that is, we should find the internal relations of the events occurring around us.
+
+In order to do that we must rely not on subjective imagination, not on momentary enthusiasm, not on lifeless books, but on facts that exist objectively.
+
+We must appropriate the material in detail and, guided by the general principles of Marxism-Leninism, draw correct conclusions from it.
 
 <cite>"Reform Our Study" (May 1941), Selected Works, Vol. III, pp. 22-23.</cite>
 
@@ -38,7 +56,11 @@ Marx, Engels, Lenin and Stalin have taught us that it is necessary to study cond
 <cite>Ibid. p. 18.</cite>
 
 
-You can't solve a problem? Well, get down and investigate the present facts and its past history! When you have investigated the problem thoroughly, you will know how to solve it. Conclusions invariably come after investigation, and not before. Only a blockhead cudgels his brains on his own, or together with a group, to "find a solution" or "evolve an idea" without making any investigation. It must be stressed that this cannot possibly lead to any effective solution or any good idea.
+You can't solve a problem? Well, get down and investigate the present facts and its past history! When you have investigated the problem thoroughly, you will know how to solve it. 
+
+Conclusions invariably come after investigation, and not before. Only a blockhead cudgels his brains on his own, or together with a group, to "find a solution" or "evolve an idea" without making any investigation. 
+
+This cannot possibly lead to any effective solution or any good idea.
 
 <cite>Oppose Book Worship (May 1930), 1st pocket ed., p. 2.</cite>
 

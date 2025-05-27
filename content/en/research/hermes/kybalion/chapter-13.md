@@ -3,13 +3,12 @@ heading: "Chapter 13"
 title: Gender [Yin and Yang]
 description: The Principle of Gender says that there is Gender in everything. Masculine and Feminine principles are ever present and active in all phases of phenomena, on each and every plane of life
 c: "firebrick"
-
 weight: 26
 ---
 
 
-{{< q >}}
-"Gender is in everything; everything has its Masculine and Feminine Principles; Gender manifests on all planes."—The Kybalion.
+{{< q a="Kybalion" >}}
+Gender is in everything. Everything has its Masculine and Feminine Principles; Gender manifests on all planes
 {{< /q >}}
 
 

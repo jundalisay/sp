@@ -7,8 +7,9 @@ weight: 9
 ---
 
 
-{{< q >}}
-"Under, and back of, the Universe of Time, Space and Change, is ever to be found The Substantial Reality—the Fundamental Truth."—The Kybalion.
+
+{{< q a="Kybalion" >}}
+"Under, and back of, the Universe of Time, Space and Change, is ever to be found The Substantial Reality—the Fundamental Truth."
 {{< /q >}}
 
 

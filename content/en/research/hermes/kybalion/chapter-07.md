@@ -7,8 +7,9 @@ weight: 14
 ---
 
 
-{{< q >}}
-"While All is in THE ALL, it is equally true that THE ALL is in ALL. One who truly understands this has great knowledge."—The Kybalion.
+
+{{< q a="Kybalion" >}}
+"While All is in THE ALL, it is equally true that THE ALL is in ALL. One who truly understands this has great knowledge."
 {{< /q >}}
 
 

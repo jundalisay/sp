@@ -8,8 +8,10 @@ weight: 22
 ---
 
 
-{{< q >}}
-Everything flows out and in, has its tides, rising and falling. The pendulum-swing manifests in everything. The measure of the swing to the right, is the measure of the swing to the left; rhythm compensates"—The Kybalion.
+{{< q a="Kybalion" >}}
+Everything flows out and in, has its tides, rising and falling. 
+
+The pendulum-swing manifests in everything. The measure of the swing to the right, is the measure of the swing to the left; rhythm compensates
 {{< /q >}}
 
 
