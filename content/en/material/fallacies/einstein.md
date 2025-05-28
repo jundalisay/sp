@@ -15,9 +15,9 @@ Rank | Damage | Reason
 --- | --- | ---
 1 | Misdirection of Physics and Science | The Simultaneity of Time fools people into wasting time creating instant-fail theories like String Theory, Supersymmetry, Loop Quantum Gravity, etc.
 2 | Lack of Discovery of the Aether and Spacetime | This is a consequence of Simultaneity
-3 | Lack of Anti Gravity Technology | This is a consequence of lack of spacetime
-4 | Lack of Nuclear Fusion | This is a consequence of lack of spacetime
-5 | Lack of Teleportation Technology | This is a consequence of the lack of spacetime
+3 | Lack of Anti Gravity Technology | This is a consequence of lack of aetherspace (Gravity A waves to Bob Lazar)
+4 | Lack of Nuclear Fusion | This is a consequence of lack of aetherspace
+5 | Lack of Teleportation Technology | This is a consequence of the lack of aetherspace
 6 | Lack of Cheap Antimatter | This is a consequence of lack of the aether
 7 | Lack of Optical Computing  | This is a consequence of the lack of the aether
 8 | Nukes | Use Physics to destroy your enemies before they destroy you (because you are peddling a scam)
