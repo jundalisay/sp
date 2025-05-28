@@ -9,47 +9,61 @@ description: ""
 ---
 
 
-If a rising split from the Head line runs to a bar on the Mount, an error in calculation will cause a check to the subject's career from which he does not recover (455). Often this refers to investments made early in life, and which turn out badly.
+If a rising split from the Head line runs to a bar on the Mount, an error in calculation will cause a check to the subject's career from which he does not recover (455). 
+- Often this refers to investments made early in life, and which turn out badly.
 
-![Saturn](/graphics/palm/455.png)
+![Apollo Bar](/graphics/palm/455.png)
 
-A cross on the end of the line of Apollo (456) is a worse obstruction than a bar. It means an absolute blemish to the reputation of the subject. It also indicates poor judgment, and the subject will make many mistakes in the course of his life, which consequently terminates unfavorably. 
+A cross on the end of the line of Apollo (456) is a worse obstruction than a bar as it means:
+- an absolute blemish to his reputation.
+- poor judgment
+  - He will make many mistakes in life, which consequently terminates unfavorably. 
 
-All of these terminations we are presuming to happen on good lines of Apollo. If they should occur on poorly marked, defective lines, their reading must be intensified, and made to agree proportionately with the poorness in quality of the line. The Line Of Apollo Part 5 607 No. 456. The Line Of Apollo Part 5 608 No. 467.
+All of these terminations we are presuming to happen on good lines of Apollo.
 
-A square on the end of a line of Apollo (457) will indicate protection from evils of all sorts. It will exert its influence not only on the end of the life, but during the whole of it.
+If they should occur on poorly marked, defective lines, their reading must be intensified, and made to agree proportionately with the poorness in quality of the line.
 
-This is largely true of all signs that terminate a line of Apollo, but it is particularly true of the square. If a square should surround any of the unfavorable terminations of the line, it will to a large degree mitigate them.
+A square on the end of a line of Apollo (457) shows protection from evils of all sorts. It will exert its influence not only on the end of the life, but during the whole of it.
 
-An island on the end of the line of Apollo (458) is a most unfavorable indication. 
+This is largely true of all signs that terminate a line of Apollo. But it is particularly true of the square.
 
-![Saturn](/graphics/palm/458.png)
+If a square should surround any of the unfavorable terminations of the line, it will to a large degree mitigate them.
 
-No matter bow good the line may be, this marking will cloud the latter days of the subject, for it will indicate the loss of money and reputation. 
+**An island on the end of the line of Apollo (458) is a most unfavorable indication.** 
 
-A fork on the end of the line of Apollo (459) will indicate that the subject has talent in more than one direction, and that this diversity of talent will cause him to do less with what he has than if his efforts were concentrated.
+![Apollo Island](/graphics/palm/458.png)
+
+No matter how good the line may be, this marking will cloud his latter days as it shows the loss of money and reputation. 
+
+A fork on the end of the line of Apollo (459) shows that:
+- he has talent in more than one direction
+- this diversity of talent will cause him to do less with what he has than if his efforts were concentrated.
 
 A well marked trident on the end of the line of Apollo (460) is nearly as good a marking as a star. It indicates celebrity and wealth from mental efforts.
 
 If two parallel sister lines are seen on the Mount one on each side of the Apollo line (461) they give their added strength to an already fine indication. 
 
-![Saturn](/graphics/palm/461.png)
+![Apollo Star](/graphics/palm/461.png)
 
 The line of Apollo is intensely favorable by itself, but when supported on both sides by strong sister lines, the subject will have the greatest success.
 
-These were named by older palmists lines of reputation. If the Apollo line runs to the Mount, and on the Mount there are several or many vertical lines (462), the subject will have some talent in many directions, and because of this diversity will accomplish little. 
+These were named by older palmists lines of reputation. 
+
+If the Apollo line runs to the Mount, and on the Mount there are several or many vertical lines (462), the subject will have some talent in many directions, and because of this diversity he will accomplish little. 
 
 If the Apollo line ends in a tassel (463) the subject will scatter his efforts in so many directions that he will accomplish little. Talent he has, but too diversified. 
 
-If on the end of the Apollo line, one branch goes to the Mount of Saturn, and one to the Mount of Mercury (464), the subject will have combined wisdom (Saturn), brilliancy (Apollo), and shrewdness (Mercury), and with this combination he will reap wealth and renown. 
+If on the end of the Apollo line, one branch goes to the Mount of Saturn, and one to the Mount of Mercury (464), he will have combined wisdom (Saturn), brilliancy (Apollo), and shrewdness (Mercury). With this combination he will reap wealth and renown.
 
-![Saturn](/graphics/palm/464.png)
+![Apollo](/graphics/palm/464.png)
 
 Branches or fine lines rising from the line of Apollo (465) will increase the good effect of the line, and when seen on a good line will make the success of the subject more certain. 
 
-His life seems buoyant enough to rise over obstacles that may get in its way, and thus he floats over the top of difficulty instead of being dragged under by it. 
+His life seems buoyant enough to rise over obstacles that may get in its way. Thus he floats over the top of difficulty instead of being dragged under by it. 
 
-Fine lines falling from the line indicate that the subject will need greater and more constant effort to achieve success. He will have an up-hill pull, and there will be times when the load gets very heavy. He does not overcome obstacles easily, and such a line bears no such promise of a brilliant life as when the branches rise. 
+Fine lines falling from the line indicate that the subject will need greater and more constant effort to achieve success.
+
+He will have an up-hill pull, and there will be times when the load gets very heavy. He does not overcome obstacles easily, and such a line bears no such promise of a brilliant life as when the branches rise. 
 
 Branches which leave the Apollo line and run to other lines, signs, or Mounts, will each have a special meaning, which is to be read from the place where they terminate.
 
@@ -67,13 +81,19 @@ If a branch from the Apollo line rises to the Mount of Saturn, wisdom, soberness
 
 With this combination, if his mental world predominates, he will excel in occult sciences, chemistry, physics, or mathematics. If his fingers be smooth he will be guided by inspiration in these matters ; if with knotty joints he will be the reasoner and calculator ; square fingers will give him great exactness, and spatulate tips originality. This Apollonian-Saturnian will not be led by traditions, but will think for himself. 
 
-All of these faculties will increase the certainty of his success and fame. If a star be seen on the branch to Saturn, the qualities of that Mount will bring great success. If in addition one be seen on the Mount of Apollo (467), the success of the subject is more certain. 
+All of these faculties will increase the certainty of his success and fame. If a star be seen on the branch to Saturn, the qualities of that Mount will bring great success. 
 
-![Saturn](/graphics/palm/467.png)
+If in addition one be seen on the Mount of Apollo (467), the success of the subject is more certain. 
 
-If the practical world rules, the subject will gain wealth as well as fame from his efforts, and if the lower world be strong, he will be economical, frugal, and even stingy. If the thumb be stiff this will be more certain. If with this marking the band be bad, the subject will be most successful in his meanness. 
+![Apollo](/graphics/palm/467.png)
 
-If crosses, bars, dots, or other defects terminate the lines, the subject will be unsuccessful and will lose instead of gaining reputation. If the lines have sister lines on the Mounts, he will have the greatest success (468). If the lines should not reach the Mounts, and on the Mounts are seen many vertical lines, the subject will fail of ultimate success by reason of too great a diversity of effort (469). 
+If the practical world rules, the subject will gain wealth as well as fame from his efforts, and if the lower world be strong, he will be economical, frugal, and even stingy. 
+
+If the thumb be stiff this will be more certain. If with this marking the band be bad, the subject will be most successful in his meanness. 
+
+If crosses, bars, dots, or other defects terminate the lines, the subject will be unsuccessful and will lose instead of gaining reputation. If the lines have sister lines on the Mounts, he will have the greatest success (468). 
+
+If the lines should not reach the Mounts, and on the Mounts are seen many vertical lines, the subject will fail of ultimate success by reason of too great a diversity of effort (469). 
 
 If a branch from the line of Apollo rises to the Mount of Mercury the qualities of that Mount will come to the assistance of the subject. He will have shrewdness, business ability, a scientific turn of mind, and great powers of expression, in addition to all the train of Apollonian brilliancies, and will achieve distinguished success in some direction.
 
@@ -114,9 +134,10 @@ If the hand be a musical one he will love only the classic form. If the lingers 
 If the fingers be knotty, he will write prose, and if at all poetic will incline to the epic form. If a star be seen on the end of the Apollo line the subject will achieve great renown from these spheres of action. If crosses, bars, dots, or other defects end the line, he will make errors which will interfere with his reputation. 
 
 If a line runs from the Apollo line to a strong Mount of Venus (473) the subject will be passionately fond of music of a melodious character. 
+
 This will be accented if the fingers be smooth and tips conic or pointed. If this subject be an instrumentalist, be will excel in expression and feeling. 
 
-![Saturn](/graphics/palm/473.png)
+![Apollo](/graphics/palm/473.png)
 
 If the fingers be square, he will excel in rhythm and metre, and if spatulate in technique. If he has square fingers and spatulate tips he will have both rhythm and technique. 
 
@@ -133,7 +154,7 @@ If a line from the line of Heart merges into the Apollo line (475) the subject w
 
 Influence lines from the Mount of Venus which run along the side of the line of Apollo show the assistance of relatives to the success of the subject (476). 
 
-![Saturn](/graphics/palm/476.png)
+![Apollo](/graphics/palm/476.png)
 
 These have often been read as legacies from relatives, but they do not necessarily indicate this particular form of help. 
 

@@ -36,24 +36,54 @@ inheritance.
 
 
 {{< l a="Enki" >}}
-10 Behold, I make a covenant: before all your people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which you [art] shall see the work of Enki: for it [is] a terrible thing that I will do with you. {34:11} Observe you that which I command you this day: behold, I drive out before you the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite. {34:12} Take heed to yourself, lest you make a covenant with the inhabitants of the land whither you goest, lest it be for a snare in the midst of you: {34:13} But you shall destroy their altars, break their images, and cut down their groves: {34:14} For you shalt worship no other god: for Enki, whose name [is] Jealous, [is] a jealous God: {34:15} Lest you make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and [one] call you, and you eat of his sacrifice; {34:16} And you take of their daughters unto your sons, and their daughters go a whoring after their gods, and make your sons go a whoring after their gods. {34:17} Thou shalt make you no molten gods.
+10 Behold, I make a covenant: before all your people I will do marvels, such as have not been done in all the earth, nor in any nation: 
+
+All your people shall see the work of Enki. I will do a terrible thing with you.
+
+11 I drive out before you the Amorite, the Canaanite, the Hittite, the Perizzite, the Hivite, and the Jebusite.
+
+12 Take heed to yourself, lest you make a covenant with the inhabitants of the land whither you goest, lest it be for a snare in the midst of you.
+
+13 But you shall destroy their altars, break their images, and cut down their groves.
+
+14 For you shalt worship no other god: for Enki, whose name [is] Jealous, is a jealous God
+
+15 Lest you make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call you, and you eat of his sacrifice.
+
+16 You take of their daughters unto your sons, and their daughters go a whoring after their gods, and make your sons go a whoring after their gods.
+
+17 Do not make molten gods.
 {{< /l >}}
 
 {{< l a="Enki" >}}
-18 The feast of unleavened bread shalt you keep. Seven days you shalt eat unleavened bread, as I commanded you, in the time of the month Abib: for in the month Abib you camest out from Egypt. 19 All that openeth the matrix [is] mine; and every firstling among your cattle, [whether] ox or sheep, [that is male. ]{34:20} But the firstling of an ass you shalt redeem with a lamb: and if thou
-redeem [him] not, then shalt you break his neck. All the firstborn of your sons you shalt redeem. And none shall appear before me empty.
+18 Keep the feast of unleavened bread. Seven days you shalt eat unleavened bread, as I commanded you, in the time of the month Abib when you came out from Egypt. 
 
-21 Six days you shalt work, but on the seventh day you shalt rest: in earing time and in harvest you shalt rest. 22 You shalt observe the feast of weeks, of the first fruits of wheat harvest, and the feast of in gathering at the year’s end. 23 Thrice in the year shall all your men children
-appear before Enki GOD, the God of Israel. 24 For I will cast out the nations before you, and enlarge your borders: neither shall any man desire your land, when you shalt go up to appear before Enki your God thrice in the year. {34:25} Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning. {34:26} The first of the firstfruits of your land you shalt bring unto the house of Enki. Thou shalt not seethe a kid in his mother’s milk. 
+19 All that opens the matrix is mine.
 
-{34:27} Write you these words: for after the tenor of these words I have made a
-covenant with you and with Israel. 
+Every firstling among your cattle, whether ox or sheep, that is male.
+
+20 But the firstling of an ass you shalt redeem with a lamb: and if thou redeem [him] not, then shalt you break his neck. All the firstborn of your sons you shalt redeem. 
+
+None shall appear before me empty.
+
+21 Six days you shalt work. But on the seventh day you shalt rest.
+
+In earing time and in harvest you shalt rest. 
+
+22 You shall observe the feast of weeks, of the first fruits of wheat harvest, and the feast of in gathering at the year’s end.
+
+23 Thrice in the year shall all your men children appear before Enki GOD, the God of Israel. 24 For I will cast out the nations before you, and enlarge your borders: neither shall any man desire your land, when you shalt go up to appear before Enki your God thrice in the year.
+
+25 You shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning. {34:26} The first of the firstfruits of your land you shalt bring unto the house of Enki. 
+
+You shalt not seethe a kid in his mother’s milk. 
+
+27 Write you these words: for after the tenor of these words I have made a covenant with you and with Israel. 
 {{< /l >}}
 
 
-{34:28} And he was there with Enki forty days and forty nights; he did
-neither eat bread, nor drink water. And he wrote upon the
-tables the words of the covenant, the ten commandments.
+28 He was there with Enki 40 days and 40 nights. He did not eat bread, nor drink water.
 
-29 when Moses came down from mount Sinai with the two tables of testimony in
-Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he
+He wrote on the tables the words of the covenant, the ten commandments.
+
+<!-- 29 When Moses came down from mount Sinai with the 2 tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he  -->

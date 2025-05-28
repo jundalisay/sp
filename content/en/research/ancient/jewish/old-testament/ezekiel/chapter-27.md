@@ -68,16 +68,32 @@ The Gammadims were in your towers. They hung their shields on your walls round a
 
 26} Your rowers have brought you into great waters: the east wind hath broken you in the midst of the seas.
 
- 27} your riches, and your fairs, your merchandise, your mariners, and your pilots, your calkers, and the occupiers of your merchandise, and all your men of war, that are in you, and in all your company which [is] in the midst of you, shall fall into the midst of the seas in the day of your ruin. 
+27 The following shall fall into the seas in the day of your ruin:
+- Your riches
+- your fairs
+- your merchandise
+- your mariners
+- your pilots
+- your calkers
+- the occupiers of your merchandise
+- all your men of war
 
- 28} The suburbs shall shake at the sound of the cry of your pilots. 
+<!-- , that are in you, and in all your company which [is] in the midst of you,  -->
 
- 29} All that handle the oar, the mariners, [and] all the pilots of the sea, shall come down from their ships, they shall stand upon the land.
+28 The suburbs shall shake at the sound of the cry of your pilots. 
 
-30} And shall cause their voice to be heard against you, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes: 
+29 All that handle the oar, the mariners, [and] all the pilots of the sea, shall come down from their ships, they shall stand upon the land.
 
-31} And they shall make themselves utterly bald for you, and gird them with sackcloth, and they shall weep for you with bitterness of heart [and] bitter wailing. 
+30 Shall cause their voice to be heard against you, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes: 
 
-32} In their wailing they shall take up a lamentation for you, and lament over you, [saying,] What [city is] like Tyrus, like the destroyed in the midst of the sea? 33} When your wares went forth out of the seas, you filledst many people; you didst enrich the kings of the earth with the multitude of your riches and of your merchandise. 34} In the time [when] you shalt be broken by the seas in the depths of the waters your merchandise and all your company in the midst of you shall fall. 
+31 They shall make themselves utterly bald for you, and gird them with sackcloth, and they shall weep for you with bitterness of heart [and] bitter wailing. 
 
-35} All the inhabitants of the isles shall be astonished at you, and their kings shall be sore afraid, they shall be troubled in [their] countenance. 36} The merchants among the people shall hiss at you; you [shalt be] a terror, and never shalt be any more.
+32 In their wailing they shall take up a lamentation for you, and lament over you, [saying,] What [city is] like Tyrus, like the destroyed in the midst of the sea? 
+
+33 When your wares went forth out of the seas, you filledst many people; you didst enrich the kings of the earth with the multitude of your riches and of your merchandise. 
+
+34 In the time [when] you shalt be broken by the seas in the depths of the waters your merchandise and all your company in the midst of you shall fall. 
+
+35 All the inhabitants of the isles shall be astonished at you, and their kings shall be sore afraid, they shall be troubled in [their] countenance. 
+
+36 The merchants among the people shall hiss at you; you [shalt be] a terror, and never shalt be any more.

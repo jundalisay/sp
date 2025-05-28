@@ -43,9 +43,9 @@ In this case, it is not a sign of nervousness and hysteria.
 
 A Girdle of Venus on such a hand must be given the full strength of its old traditional interpretation. 
 
-All of the nervousness in such a subject will become nervous energy which will be expended in gratifying animal appetites.
+**All of his nervousness will become nervous energy which will be expended in gratifying animal appetites.**
 
-So impress it upon your mind at once that the form of interpretation which you give to the Girdle of Venus must depend entirely upon the kind of subject on which it is seen. 
+The interpretation of the Girdle of Venus must depend entirely on the kind of subject. 
 
 <!-- There is another danger from the Girdle of Venus, which comes to all types of hands which have it.  -->
 

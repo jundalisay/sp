@@ -10,7 +10,7 @@ c: "firebrick"
 {{< l a="Enki" >}}
 <sup>1-2</sup> [To Ezekiel] Son of man, set your face against mount Seir, and prophesy against it.
 
-3 Say to it:: Enki said: Behold, O mount Seir, I am against you. I will stretch out my hand against you, and I will
+3 Say to it: Enki said: Behold, O mount Seir, I am against you. I will stretch out my hand against you, and I will
 make you most desolate.
 
 4 I will lay your cities waste, and you shalt be desolate, and you shalt know that I am the Lord.  

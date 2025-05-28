@@ -1,5 +1,5 @@
 ---
-title: "Search"
+title: "You Exist"
 # date: 2025-05-16
 weight: 6
 description: ""
@@ -8,11 +8,11 @@ c: "mediumblue"
 
 
 
-{{< r a="Eudoxe" >}}
+{{< l a="Eudoxus" >}}
 Since it is not enough for me to tell you that the senses deceive us in certain cases where you clearly notice it, in order to make you fear being deceived by them in other cases where you do not notice it, I will go further and ask you whether you have ever seen a melancholic man of the kind who believes he is a vessel filled with water, or thinks that some part of his body is of an enormous size. 
 
 They would swear that they see this and feel it just as they imagine it. And yet, one of them would be outraged if someone told him he has no more reason than they do to believe his perception is certain, since both rely equally on the data of the senses and the imagination. But without going that far, you cannot be offended if I ask whether you, like other men, are subject to sleep, and whether you might not, in dreaming, think you see me, that you are walking in this garden, that the sun is shining—in a word, a thousand other things you believe you see clearly today. Have you never heard in old comedies that formula of surprise, *Am I dreaming?* How can you be certain that your life is not a perpetual dream, and that everything you perceive through the senses is not as false as what you perceive when asleep—especially knowing that you were created by a superior being, for whom, in his omnipotence, it would have been no harder to create us as I described than as you believe yourselves to be?
-{{< /r >}}
+{{< /l >}}
 
 
 {{< r a="Polyamander" >}}
@@ -25,9 +25,9 @@ I believe it is very dangerous to go too far down this path of reasoning: univer
 {{< /r >}}
 
 
-{{< r a="Eudoxe" >}}
+{{< l a="Eudoxus" >}}
 I admit that it is not without great danger that one ventures there without a guide, without knowing the ford, and that many have indeed gotten lost; but you need fear nothing if you follow in my footsteps. It is fears like these, in fact, that have prevented many learned men from acquiring knowledge solid and certain enough to deserve the name of science. They imagined that there was nothing firmer or more solid on which they could rest their belief than sensible things; thus they built upon sand, rather than seeking, by digging deeper, a firm foundation. This is not where we should stop. There is more: even if you did not examine further the reasons I have just given, they would still have fulfilled their main purpose—if they have struck your mind enough to put you on guard. Indeed, they show that your science is not so infallible that you should not fear to see its foundations overthrown, since they make you doubt everything, and you are already doubting your science itself. They therefore prove that I have achieved my goal, which was to overthrow your science by revealing its uncertainty. But, for fear that you might refuse to follow me further, I declare to you that these doubts, which frightened you at first, are like those phantoms and empty images that appear at night in the uncertain glow of a dim light. Fear pursues you if you flee from them, but approach, touch them—you will find only air, a shadow—and you will be reassured forever.
-{{< /r >}}
+{{< /l >}}
 
 
 {{< r a="Polyamander" >}}
@@ -35,18 +35,20 @@ So be it. Convinced by your reasoning, I now wish to consider all these difficul
 {{< /r >}}
 
 
-{{< r a="Eudoxe" >}}
+{{< l a="Eudoxus" >}}
 You are now very well prepared, and this is exactly where I wanted to lead you; but now is the time to give your attention to the consequences I wish to draw from this. You clearly see that you can reasonably doubt all the things whose knowledge comes to you only through the senses; but can you doubt your doubt, and remain uncertain whether you are doubting or not?
-{{< /r >}}
+{{< /l >}}
 
 
 {{< r a="Polyamander" >}}
 I admit that this astonishes me, and the little clarity I have from a rather modest common sense makes me look upon myself with amazement, forced to admit that I know nothing with certainty, but that I doubt everything, and that I am certain of nothing. But what do you intend to conclude from this? I do not see the use of this universal astonishment, nor for what reason a doubt of this sort could be a principle that we must deduce from so far. On the contrary, you stated that the purpose of this conversation was to rid us of our doubts and to teach us to find truths that even Epistemon, learned as he is, might well ignore.
 {{< /r >}}
 
-{{< r a="Eudoxe" >}}
+
+
+{{< l a="Eudoxus" >}}
 Just give me your attention; I am going to take you farther than you imagine. Indeed, it is from this universal doubt that, like from a fixed and immutable point, I have resolved to derive the knowledge of God, of yourself, and of everything contained in the world.
-{{< /r >}}
+{{< /l >}}
 
 
 
@@ -67,9 +69,9 @@ I agree with you; for if I did not exist, I could not doubt.
 
 
 
-{{< r a="Eudoxe" >}}
+{{< l a="Eudoxus" >}}
 You exist then, and you know that you exist, and you know it because you doubt.
-{{< /r >}}
+{{< /l >}}
 
 
 {{< r a="Polyamander" >}}
@@ -77,21 +79,37 @@ All of that is very true.
 {{< /r >}}
 
 
-{{< r a="Eudoxe" >}}
-But, so that you are not turned away from your purpose, let us proceed step by step, and, as I told you, you will find yourself led farther than you think. You exist, and you know that you exist, and you know this because you know that you doubt. But you, who doubt everything and cannot doubt yourself—who are you?
-{{< /r >}}
+{{< l a="Eudoxus" >}}
+<!-- But, so that you are not turned away from your purpose, let us proceed step by step, and, as I told you, you will find yourself led farther than you think.  -->
+
+You exist, and you know that you exist. 
+
+You know this because you know that you doubt. But you, who doubt everything and cannot doubt yourself—who are you?
+{{< /l >}}
 
 
 {{< r a="Polyamander" >}}
-That question is not difficult, and I see clearly that you chose me instead of Epistemon so I could better answer your questions. You have no intention of asking anything that would be hard to answer. I will therefore tell you that I am a man.
+<!-- That question is not difficult, and I see clearly that you chose me instead of Epistemon so I could better answer your questions. You have no intention of asking anything that would be hard to answer. I will therefore tell you that  -->
+I am a man.
 {{< /r >}}
 
 
-{{< r a="Eudoxe" >}}
-You are not paying attention to my question, and the answer you give me, however simple it may seem to you, would lead us into a maze of difficulties if I pressed it even slightly. 
 
-For example, if I asked Epistemon himself what a man is, and he answered, as is done in the schools, that a man is a rational animal; and if, beyond that, to explain these two terms—which are no less obscure than the first—he led us through all the degrees called metaphysical, we would be drawn into a labyrinth from which we could not escape. 
+{{< l a="Eudoxus" >}}
+<!-- You are not paying attention to my question, and the answer you give me, however simple it may seem to you, would lead us into a maze of difficulties if I pressed it even slightly.  -->
 
-Indeed, from that question two others arise: first, what is an animal? and second, what is rational? And further, if to explain what an animal is, he told us that it is a living being, that a living being is an animated body, that a body is a corporeal substance—you see that the questions, like the branches of a genealogical tree, would grow and multiply; and in the end, all these fine questions would end in pure battology, which would clarify nothing and leave us in our original ignorance.
-{{< /r >}}
+<!-- For example, if I asked Epistemon himself what a man is, and he answered, as is done in  -->
+
+The schools say that a man is a rational animal.
+
+<!-- if, beyond that, to explain these two terms—which are no less obscure than the first—he led us through all the degrees called metaphysical, we would be drawn into a labyrinth from which we could not escape.  -->
+
+But what is an animal? What is rational?
+
+If an animal is a living being as an animated body which is a corporeal substance.
+
+This does not answer the question.
+
+<!-- —you see that the questions, like the branches of a genealogical tree, would grow and multiply; and in the end, all these fine questions would end in pure battology, which would clarify nothing and leave us in our original ignorance. -->
+{{< /l >}}
 

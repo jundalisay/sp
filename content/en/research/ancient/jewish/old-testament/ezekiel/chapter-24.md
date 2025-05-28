@@ -22,15 +22,23 @@ c: "firebrick"
 {{< /l >}}
 
 {{< l a="Enki" >}}
-10} Heap on wood, kindle the fire, consume the flesh, and spice it well, and let the bones be burned. 11} Then set it empty upon the coals thereof, that the brass of it may be hot, and may burn, and [that] the filthiness of it may be molten in it, [that] the scum of it may be consumed. 
+10 Heap on wood, kindle the fire, consume the flesh, and spice it well, and let the bones be burned. 
 
-12} She hath wearied [herself] with lies, and her great scum went not forth out of her: her scum [shall be] in the fire. 13} In your filthiness [is] lewdness: because I have purged you, and you wast not purged, you shalt not be purged from your filthiness any more, till I have caused my fury to rest upon you. 14} I Enki have spoken [it:] it shall come to pass, and I will do [it;] I will not go back, neither will I spare, neither will I repent; according to your ways, and according to your doings, shall they judge you, saith Enki.
+11 Then set it empty upon the coals thereof, that the brass of it may be hot, and may burn, and [that] the filthiness of it may be molten in it, [that] the scum of it may be consumed. 
+
+12 She hath wearied [herself] with lies, and her great scum went not forth out of her: her scum [shall be] in the fire. 
+
+13 In your filthiness is lewdness: because I have purged you, and you wast not purged, you shalt not be purged from your filthiness any more, till I have caused my fury to rest upon you. 
+
+14 I Enki have spoken it: 
+
+I will do it. I will not go back, neither will I spare, neither will I repent; according to your ways, and according to your doings, shall they judge you, saith Enki.
 {{< /l >}}
 
 
 
 {{< l a="Enki" >}}
-15-16} Son of man, behold, I take away from you the desire of thine eyes with a stroke: yet neither shalt thou
+15-16 Son of man, behold, I take away from you the desire of thine eyes with a stroke: yet neither shalt thou
 mourn nor weep, neither shall your tears run down. 
 
 17 Forbear to cry, make no mourning for the dead, bind the tire of thine head upon you, and put on your shoes upon your feet, and cover not [your] lips, and eat not the bread of men. 18} So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded.
@@ -52,9 +60,9 @@ your iniquities, and mourn one toward another.
 
 24 Thus Ezekiel is unto you a sign: according to all that he hath done shall you do: and when this cometh, you shall know that I am the Lord. 
 
-25} Also, you son of man, [shall it] not [be] in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their minds, their sons and their daughters, 26} [That] he that escapeth in that day shall come unto you, to cause [you] to hear [it] with [thine] ears?
+25 Also, you son of man, [shall it] not [be] in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their minds, their sons and their daughters, 26} [That] he that escapeth in that day shall come unto you, to cause [you] to hear [it] with [thine] ears?
 
-27} In that day shall your mouth be opened to him which is escaped, and you shalt speak, and be no more dumb: and you shalt be a sign unto them; and they shall know that I am the Lord.
+27 In that day shall your mouth be opened to him which is escaped, and you shalt speak, and be no more dumb: and you shalt be a sign unto them; and they shall know that I am the Lord.
 {{< /l >}}
 
 

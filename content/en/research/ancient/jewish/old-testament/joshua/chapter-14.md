@@ -21,9 +21,9 @@ gave no part unto the Levites in the land, save cities to
 dwell [in,] with their suburbs for their cattle and for their
 substance. 
 
-{14:5} As Enki commanded Moses, so the Israelites did, and they divided the land.
+5 As Enki commanded Moses, so the Israelites did, and they divided the land.
 
-{14:6} Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, you know the thing that Enki said to Moses the man of God concerning me and you in Kadesh-barnea.
+6 Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, you know the thing that Enki said to Moses the man of God concerning me and you in Kadesh-barnea.
 
 7 I was 40 years old when Moses the sent me from Kadesh-barnea to spy out the land; and I brought him word again as [it was] in mine heart.
 
