@@ -49,13 +49,14 @@ This is how the republic of Berne and other Swiss cities came to be.
 - Except for Venice, this is also how all the considerable Italian republics were formed*.
 - So many Italian republics arose and perished between the end of the 12th and the beginning of the 16th century.
 
-> *Translator's note=  This is similar to how the Roman Empire collapsed under the competition of the Germanic tribes
+{{< n n="This is similar to how the Roman Empire collapsed under the competition of the Germanic tribes" >}}
+
 
 
 
 ## The Origin of Representation in Parliaments
 
-11 In countries where the sovereign’s authority was never destroyed, such as in France or England, the cities had no opportunity to become independent.
+<sup>11</sup> In countries where the sovereign’s authority was never destroyed, such as in France or England, the cities had no opportunity to become independent.
 
 However, they became so big that the sovereign could not impose taxes besides the stated tax-farm, without their own consent. They were instead called on to send deputies to the general assembly<!--  of the states of the kingdom -->. Those deputies= 
 - joined the clergy and the barons to grant extraordinary aid to the king on urgent occasions
@@ -66,7 +67,7 @@ This is the origin of the burgh representation in all the great European monarch
 
 ### Urban Development Outpaced Rural Development
 
-12 In this way, order, good government, liberty, and security were established in cities when the countryside was still exposed to violence.
+<sup>12</sup> In this way, order, good government, liberty, and security were established in cities when the countryside was still exposed to violence.
 
 The rural areas fell to poverty in order not to tempt their feudal oppressors. 
 
@@ -86,7 +87,7 @@ Thus, the stock accumulated by the industrious of the countryside naturally took
 
 ## The Development of Foreign Commerce
 
-13 City-people ultimately derive their subsistence and raw materials from the countryside.
+<sup>13</sup> City-people ultimately derive their subsistence and raw materials from the countryside.
 
 The subsistence and materials of a coastal city or one near a navigable river can be sourced from anywhere in the world in exchange for its manufactured produce.
 - City-people can be the carriers between distant countries and exchange their produce.
@@ -104,11 +105,10 @@ Within the narrow circle of commerce of the past, some countries became opulent 
 - some parts of the North African coast, and
 - Spain under the Moors.
 
-<br>
 
 ### The Public Spending for the Crusades Boosted the Private Profits of the Italian Cities
 
-14 The Italian cities were the first in Europe raised by commerce to opulence. Back then, Italy was in the centre of the civilized world.
+<sup>14</sup> The Italian cities were the first in Europe raised by commerce to opulence. Back then, Italy was in the centre of the civilized world.
 
 The Crusades too, were extremely favourable to some Italian cities, even if they retarded the progress of the rest of Europe by their death and great waste of stock.
 - Their armies gave extraordinary encouragement to the shipping of Venice, Genoa, and Pisa.
@@ -118,11 +118,10 @@ The Crusades too, were extremely favourable to some Italian cities, even if they
 Thus, the most destructive frenzy in Europe was a source of opulence to those republics.
 
 
-15 The people of trading cities afforded some food to the vanity of the great proprietors by importing the improved manufactures and luxuries of richer countries.
+<sup>15</sup> The people of trading cities afforded some food to the vanity of the great proprietors by importing the improved manufactures and luxuries of richer countries.
 
 The proprietors eagerly bought them with much of their rude produce.
 
 European commerce back then consisted chiefly in the exchange of their own rude produce for the manufactures of more civilized nations.
 - English wool was exchanged for French wines and the fine cloths of Belgium.
 - Polish wheat is currently exchanged for French wines and brandies and the silks and velvets of France and Italy. 
-

@@ -179,8 +179,10 @@ Hence the origin of long leases.
 {{< s v="14" >}} Even a tenant-at-will, who pays the full rent, is not dependent on the landlord.
 
 The monetary advantages they receive from one another are mutual and equal.
+
 Such a tenant will not expose his life or fortune in the proprietor's service.
 But he is independent if he has a long term lease.
+
 His landlord must not expect any service from him beyond what is expressly stipulated in the lease or imposed by the law.
 
 

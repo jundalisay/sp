@@ -10,12 +10,12 @@ weight: 14
 ---
 
 
-#### Proposition 12: God is the principal cause of motion.
+## Proposition 12: God is the principal cause of motion.
 
 Proof: See the immediately preceding Scholium.
 
 
-#### Proposition 13: God still preserves his concurrence the same quantity of motion and rest that he originally gave to matter.
+## Proposition 13: God still preserves his concurrence the same quantity of motion and rest that he originally gave to matter.
 
 Proof: God is the cause of motion and rest (Prop. 12 Part 2). 
 
@@ -38,7 +38,7 @@ But it nevertheless has a fixed and determinate quantity.
 Read Art. 36 Part 2 of the Principia.
 
 
-#### Proposition 14: Each single thing, insofar as it is simple and undivided and is considered only in itself, always perseveres in the same state, as far as in it lies.*
+## Proposition 14: Each single thing, insofar as it is simple and undivided and is considered only in itself, always perseveres in the same state, as far as in it lies.*
 
 {{< n n="*This is Rule 1 of Descartes' Rules of Motion. Here, Spinoza downgrades it into a rule, with the Law of Conservation as its origin law" >}}
 
@@ -56,7 +56,7 @@ Corollary: A body that is once in motion always continues to move unless it is c
 Proof: This is obvious from the preceding proposition. But to correct prejudice concerning motion, read Arts. 37 and 38 Part 2 of the Principia.
 
 
-#### Proposition 15: Every body in motion tends of itself to continue to move in a straight line, not in a curved line.*
+## Proposition 15: Every body in motion tends of itself to continue to move in a straight line, not in a curved line.*
 
 {{< n n="*This is Rule 2 of Descartes' Rules of Motion in Principia and Rule 3 in The World. Here, Spinoza also downgrades it into a rule" >}}
 

@@ -11,7 +11,7 @@ weight: 10
 
 
 
-#### Proposition 7: No body moves into the place of another body unless at the same time that other body moves into the place of another body.
+## Proposition 7: No body moves into the place of another body unless at the same time that other body moves into the place of another body.
 
 Proof: If body `A` moves into the place of a body `B`, then the space of body `B` will now contain `A` and `B`.
 
@@ -34,7 +34,7 @@ Therefore no body moves into the place of another*. Q.E.D.
  
 
 
-#### Proposition 8: When a body moves into the place of another body, the place it left is immediately occupied by another body immediately contiguous to it.
+## Proposition 8: When a body moves into the place of another body, the place it left is immediately occupied by another body immediately contiguous to it.
 
 <!-- Z [Splnoza probably refers to the Dutch translation of Descartes's letters Brieven, tr J H. Glazemaker,
 Amsterdam, 1661. The letter mentioned IS probably to Clerseiier, JunelJuly 1646, AT4, 445-447 ] 
@@ -94,7 +94,7 @@ Because this occurs only through the impulse of another body***. which is here s
 
 
 
-#### Proposition 9: If a circular tube `ABC` is full of water and is 4 times as wide at `A` as at `B`, then when the water at `A` begins to move towards `B`, the water at `B` will move at 4 times that speed.
+## Proposition 9: If a circular tube `ABC` is full of water and is 4 times as wide at `A` as at `B`, then when the water at `A` begins to move towards `B`, the water at `B` will move at 4 times that speed.
 
 Proof: When all the water at `A` moves toward `B`, the same amount of water must at the same time move into its place from `C`, which is immediately contiguous to `A`*.
 
@@ -119,7 +119,7 @@ The proof is evident merely from the definition of a circle.
 
 
 
-#### Proposition 10: The fluid body that moves through the tube ABC (of Prop. 9) receives an indefinite number of degrees of speed.
+## Proposition 10: The fluid body that moves through the tube ABC (of Prop. 9) receives an indefinite number of degrees of speed.
 
 Proof: The space between A and B is everywhere unequal (previous Lemma).
 
@@ -138,7 +138,7 @@ Therefore***, the degrees of speed will be indefinite in number. Q.E.D.
 
 
 
-#### Proposition 11: The matter that flows through the tube `ABC` (of Prop. 9) is divided into an indefinite number of particles.
+## Proposition 11: The matter that flows through the tube `ABC` (of Prop. 9) is divided into an indefinite number of particles.
 
 Proof: The matter that flows through the tube ABC acquires at the same time an indefinite number of degrees of speed*. Therefore (Ax. 16) it has an indefinite number of parts into which it is in reality divided. Q.E.D.
 

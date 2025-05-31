@@ -10,59 +10,19 @@ image: "/covers/electro.jpg"
 ---
 
 
-### Theory of the Transformation of Co-ordinates and Times from a Stationary System to another System in
-Uniform Motion of Translation Relatively to the Former
+### Theory of the Transformation of Co-ordinates and Times from a Stationary System to another System in Uniform Motion of Translation Relatively to the Former
 
-Let us in “stationary” space take two systems of co-ordinates, i.e. two sys-
-tems, each of three rigid material lines, perpendicular to one another, and issuing
-from a point. Let the axes of X of the two systems coincide, and their axes of
-Y and Z respectively be parallel. Let each system be provided with a rigid
-measuring-rod and a number of clocks, and let the two measuring-rods, and
-likewise all the clocks of the two systems, be in all respects alike.
-Now to the origin of one of the two systems (k) let a constant velocity v
-be imparted in the direction of the increasing x of the other stationary system
-(K), and let this velocity be communicated to the axes of the co-ordinates, the
-relevant measuring-rod, and the clocks. To any time of the stationary system K
-there then will correspond a definite position of the axes of the moving system,
-and from reasons of symmetry we are entitled to assume that the motion of k
-may be such that the axes of the moving system are at the time t (this “t” always
-denotes a time of the stationary system) parallel to the axes of the stationary
-system.
+Let us in “stationary” space take two systems of co-ordinates, i.e. two systems, each of three rigid material lines, perpendicular to one another, and issuing from a point. Let the axes of X of the two systems coincide, and their axes of Y and Z respectively be parallel. Let each system be provided with a rigid measuring-rod and a number of clocks, and let the two measuring-rods, and likewise all the clocks of the two systems, be in all respects alike.
 
-We now imagine space to be measured from the stationary system K by
-means of the stationary measuring-rod, and also from the moving system k
-by means of the measuring-rod moving with it; and that we thus obtain the
-co-ordinates x, y, z, and ξ, η, ζ respectively. Further, let the time t of the
-stationary system be determined for all points thereof at which there are clocks
-by means of light signals in the manner indicated in § 1; similarly let the time
-τ of the moving system be determined for all points of the moving system at
-which there are clocks at rest relatively to that system by applying the method,
-given in § 1, of light signals between the points at which the latter clocks are
-located.
+To the origin of one of the two systems (k) let a constant velocity v be imparted in the direction of the increasing x of the other stationary system (K), and let this velocity be communicated to the axes of the co-ordinates, the relevant measuring-rod, and the clocks. To any time of the stationary system K there then will correspond a definite position of the axes of the moving system, and from reasons of symmetry we are entitled to assume that the motion of k may be such that the axes of the moving system are at the time t (this “t” always denotes a time of the stationary system) parallel to the axes of the stationary system.
 
-To any system of values x, y, z, t, which completely defines the place and
-time of an event in the stationary system, there belongs a system of values ξ,
-5η, ζ τ , determining that event relatively to the system k, and our task is now
-to find the system of equations connecting these quantities.
-In the first place it is clear that the equations must be linear on account of
-the properties of homogeneity which we attribute to space and time.
-If we place x0 = x − vt, it is clear that a point at rest in the system k must
-have a system of values x0 , y, z, independent of time. We first define τ as a
-function of x0 , y, z, and t. To do this we have to express in equations that τ is
-nothing else than the summary of the data of clocks at rest in system k, which
-have been synchronized according to the rule given in § 1.
+We now imagine space to be measured from the stationary system K by means of the stationary measuring-rod, and also from the moving system k by means of the measuring-rod moving with it; and that we thus obtain the co-ordinates x, y, z, and ξ, η, ζ respectively. Further, let the time t of the stationary system be determined for all points thereof at which there are clocks by means of light signals in the manner indicated in § 1; similarly let the time τ of the moving system be determined for all points of the moving system at which there are clocks at rest relatively to that system by applying the method, given in § 1, of light signals between the points at which the latter clocks are located.
 
-From the origin of system k let a ray be emitted at the time τ0 along the
-X-axis to x0 , and at the time τ1 be reflected thence to the origin of the co-
-ordinates, arriving there at the time τ2 ; we then must have 12 (τ0 + τ2 ) = τ1 , or,
-by inserting the arguments of the function τ and applying the principle of the
-constancy of the velocity of light in the stationary system:—
-
-
-
-
-
-x0
+To any system of values x, y, z, t, which completely defines the place and time of an event in the stationary system, there belongs a system of values ξ, 5η, ζ τ , determining that event relatively to the system k, and our task is now to find the system of equations connecting these quantities. In the first place it is clear that the equations must be linear on account of the properties of homogeneity which we attribute to space and time. If we place x0 = x − vt, it is clear that a point at rest in the system k must have a system of values x0 , y, z, independent of time. We first define τ as a function of x0 , y, z, and t. To do this we have to express in equations that τ is nothing else than the summary of the data of clocks at rest in system k, which have been synchronized according to the rule given in § 1.
+
+From the origin of system k let a ray be emitted at the time τ0 along the X-axis to x0 , and at the time τ1 be reflected thence to the origin of the co- ordinates, arriving there at the time τ2 ; we then must have 12 (τ0 + τ2 ) = τ1 , or, by inserting the arguments of the function τ and applying the principle of the constancy of the velocity of light in the stationary system:—
+
+<!-- x0
 x0
 1
 x0
@@ -100,57 +60,56 @@ v
 0
 2
 ∂x
-c − v ∂t
-It is to be noted that instead of the origin of the co-ordinates we might have
-chosen any other point for the point of origin of the ray, and the equation just
-obtained is therefore valid for all values of x0 , y, z.
-An analogous consideration—applied to the axes of Y and Z—it being borne
-in mind that light is always propagated
-√ along these axes, when viewed from the
-stationary system, with the velocity c2 − v 2 gives us
-∂τ
+c − v ∂t -->
+
+
+It is to be noted that instead of the origin of the co-ordinates we might have chosen any other point for the point of origin of the ray, and the equation just obtained is therefore valid for all values of x0 , y, z. An analogous consideration—applied to the axes of Y and Z—it being borne in mind that light is always propagated √ along these axes, when viewed from the stationary system, with the velocity c2 − v 2 gives us
+
+<!-- ∂τ
 ∂τ
 = 0,
 = 0.
 ∂y
-∂z
+∂z -->
+
 Since τ is a linear function, it follows from these equations that
-
-
-v
+
+
+<!-- v
 0
 τ =a t− 2
 x
-c − v2
-where a is a function φ(v) at present unknown, and where for brevity it is
-assumed that at the origin of k, τ = 0, when t = 0.
-With the help of this result we easily determine the quantities ξ, η, ζ by
-expressing in equations that light (as required by the principle of the constancy
-of the velocity of light, in combination with the principle of relativity) is also
-6propagated with velocity c when measured in the moving system. For a ray of
-light emitted at the time τ = 0 in the direction of the increasing ξ
-
-
+c − v2 -->
+
+
+where a is a function φ(v) at present unknown, and where for brevity it is assumed that at the origin of k, τ = 0, when t = 0. With the help of this result we easily determine the quantities ξ, η, ζ by expressing in equations that light (as required by the principle of the constancy of the velocity of light, in combination with the principle of relativity) is also 6propagated with velocity c when measured in the moving system. For a ray of light emitted at the time τ = 0 in the direction of the increasing ξ
+
+
+
 v
 0
 ξ = cτ or ξ = ac t − 2
 x .
 c − v2
+
 But the ray moves relatively to the initial point of k, when measured in the
 stationary system, with the velocity c − v, so that
 x0
 = t.
 c−v
+
 If we insert this value of t in the equation for ξ, we obtain
-c2
+
+<!-- c2
 ξ=a 2
 x0 .
-c − v2
+c − v2 -->
+
 In an analogous manner we find, by considering rays moving along the two other
 axes, that
-
-
-v
+
+
+<!-- v
 0
 η = cτ = ac t − 2
 x
@@ -160,9 +119,12 @@ y
 √
 = t, x0 = 0.
 2
-c − v2
+c − v2 -->
+
+
 Thus
-c
+
+<!-- c
 c
 η = a√
 y and ζ = a √
@@ -171,9 +133,11 @@ z.
 2
 2
 c −v
-c − v2
+c − v2 -->
+
 Substituting for x0 its value, we obtain
-τ
+
+<!-- τ
 ξ=
 =φ(v)β(t − vx/c2 ),
 φ(v)β(t − vt),
@@ -185,7 +149,8 @@ where
 1
 ,
 β= p
-1 − v 2 /c2
+1 − v 2 /c2 -->
+
 and φ is an as yet unknown function of v. If no assumption whatever be made
 as to the initial position of the moving system and as to the zero point of τ , an
 additive constant is to be placed on the right side of each of these equations.

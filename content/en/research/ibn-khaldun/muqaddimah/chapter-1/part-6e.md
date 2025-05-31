@@ -1,5 +1,5 @@
 ---
-title: "Prophect versus Soothsaying"
+title: "Prophecy versus Soothsaying"
 description: "The highest rank of soothsaying is the state in which rhymed prose is used"
 c: "seagreen"
 icon: "Ibn Khaldun"

@@ -99,25 +99,31 @@ The purchase and improvement of uncultivated land there is the most profitable e
 In North America, such land can be had for almost nothing or at a price much below the value of the natural produce.
     This price is impossible in Europe or in any country where all lands have long been private property.
 If estates were divided equally among all the children after the death of any proprietor who had a large family, the estate would generally be sold.
-    So much land would come to market that it could no longer sell at a monopoly price.
-    The free rent of the land would go nearer to pay the interest of the purchase-money.
-    A small capital might be used in land as profitably as in any other way.
 
-20 England is as fit as any large European country to be the seat of foreign commerce, refined manufactures, and all its improvements, because of= 
+So much land would come to market that it could no longer sell at a monopoly price.
 
-the natural fertility of the soil,
-the great extent of its coastline, and
-its many navigable rivers which allow water transportation to its most inland parts.
+The free rent of the land would go nearer to pay the interest of the purchase-money.
+
+A small capital might be used in land as profitably as in any other way.
+
+
+<sup>20</sup> England is as fit as any large European country to be the seat of foreign commerce, refined manufactures, and all its improvements, because of:
+- the natural fertility of the soil,
+- the great extent of its coastline, and
+- its many navigable rivers which allow water transportation to its most inland parts.
 
 From the beginning of Elizabeth's reign in 1558, the legislature has been peculiarly attentive to the interests of commerce and manufactures.
 
 No other European country has laws more favourable to commerce and manufactures.
+    
     Commerce and manufactures have been continually and rapidly advancing during this period.
     The countryside's cultivation and improvement has been gradually advancing too.
         But it seems to have followed more slowly and at a distance.
-        English law favours agriculture= 
-            indirectly through the protection of commerce, and
-            directly through encouragements.
+
+English law favours agriculture:
+- indirectly through the protection of commerce, and
+- directly through encouragements.
+
 Wheat exportation is free and encouraged by a bounty, except in times of scarcity.
     In times of moderate plenty, foreign wheat importation is loaded with duties that equals a prohibition.
 
@@ -180,6 +186,7 @@ The misfortunes of Italy in the 15th and 16th centuries greatly reduced the comm
     Those countries, however, still continue to be among the most populous and best cultivated in Europe.
 The civil wars of Belgium and the Spanish government which succeeded them, chased away Belgium's great commerce.
     Belgium still continues to be one of the richest, best cultivated, and most populous provinces of Europe.
+
 The ordinary revolutions of war and government easily dry up the sources of commercial wealth.
     The wealth from agricultural improvements is much more durable.
         It can only be destroyed by more violent convulsions of hostile nations for one or two centuries, such as those before and after the fall of the Western Roman empire.

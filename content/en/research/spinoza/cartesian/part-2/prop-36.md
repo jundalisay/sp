@@ -11,7 +11,7 @@ weight: 320
 
 
 
-#### Proposition 36: If a body (e.g., our hand) can move in any direction with equal motion without resistance then the bodies in the space where it moves would move with equal speed and direction with that body (hand) 
+## Proposition 36: If a body (e.g., our hand) can move in any direction with equal motion without resistance then the bodies in the space where it moves would move with equal speed and direction with that body (hand) 
 
 <!--  offering any resistance to any bodies or meeting with any resistance from any other bodies, 
  through which it would thus move there must necessarily be as many bodies moving in one direction as there are bodies moving in any other direction, their force of speed being equal to one another's and to that of the hand. -->
@@ -70,7 +70,7 @@ If you then ask whether the hand, while moving (e.g. , from A toward B), does no
 It explains that their force is balanced by the force of the bodies moving together with the hand at the same time from A toward B (for, by the third part of this Prop., these two forces are equal).
 
 
-#### Proposition 37: If a body A can be moved in any direction by any force, it must necessarily be surrounded by bodies that are moving at the same speed as one another.
+## Proposition 37: If a body A can be moved in any direction by any force, it must necessarily be surrounded by bodies that are moving at the same speed as one another.
 <!-- , however small, -->
 
 Proof: Body `A` must be surrounded on all sides by bodies (Prop. 6 Part 2) that are moving equally in all directions.

@@ -1,4 +1,15 @@
-GRAHĀNAYANĀDHYĀYA ब्रह्मनयनध्यायः
+---
+title: "Siddhanta"
+# heading: "Englightened"
+weight: 3
+description: ""
+c: "darkgoldenrod"
+---
+
+
+
+GRAHĀNAYANĀDHYĀYA
+
 
 Verse 1. To Compute the Ahargana the collection of days from the beginning of Kalpa ie from the beginning of creation. Multiply the number of sidereal solar years from the beginning of Kalpa by 12; add the number of elapsed lunar months; multiply by thirty; add the number of elapsed tithis. Let this number be x. 
 
@@ -20,7 +31,12 @@ The Avama Sesa divided by 13149000000 in degrees is to be added to twelve times 
 
 Verses 6, 7. Computation of the positions of the Sun and the Moon from the Adhimāsa-Sesha and Avama-Sesha.
 
-The Avama-Sesha divided by 2711000000 is termed an additive constant in minutes of arc to the Sun’s position; the same Avama-Sesha multiplied by 13 and divided by 35 is termed such an additive constant to the position of the Moon; Construe that the Sun’s position is given by as many degrees as there are elapsed tithis after the beginning of Chaitra and that the Moon’s position is given by Thirteen times the same. Let these positions of the Sun and the Moon be diminished by a number of degrees equal to what is obtained by dividing the Adhimāsa-Sesha by the number of lunations in a Kalpa. Then add the respective additive constants to the positions of the Sun and the Moon so obtained. The results will be the positions of the Mean Sun and the Mean Moon.
+The Avama-Sesha divided by 2711000000 is termed an additive constant in minutes of arc to the Sun’s position; the same Avama-Sesha multiplied by 13 and divided by 35 is termed such an additive constant to the position of the Moon; 
+
+Construe that the Sun’s position is given by as many degrees as there are elapsed tithis after the beginning of Chaitra and that the Moon’s position is given by Thirteen times the same. Let these positions of the Sun and the Moon be diminished by a number of degrees equal to what is obtained by dividing the Adhimāsa-Sesha by the number of lunations in a Kalpa. 
+
+Then add the respective additive constants to the positions of the Sun and the Moon so obtained. The results will be the positions of the Mean Sun and the Mean Moon.
+
 
 Verses 8, 9. Another way of computing the planetary positions.
 
@@ -32,12 +48,3 @@ Rasis where A stands for the Aharghaṇa, G stands for the Sāvana days of the p
 
 
 Verses 10, 11. Proof of other methods of computing planetary position. Even as the sums or differences of two or more of the numbers of Adhimāsas, Kṣhayāhas, lunations etc give the number of sidereal revolutions of the planets the sums or differences of two or more of the positions of the imaginary planets which go by the names Adhimāsa-graha, Kṣhayāhagraha etc computed out of the numbers of those Adhimāsa Kṣhayāhas etc. give the respective planetary positions.
-
-
-
-So if someone who actually knows how the universe works tells you that the current "models, tools and simplifications" are junk to the point that some are scams, then why would you call that person as moronic?
-
-So I assume you are less moronic? If so then please explain how you propose to achieve anti-gravity, nuclear fusion, free energy, and teleportation in clear terms to get off humans off this planet of morons. 
-
-If you cannot, then you are just another moron in a planet of morons.
-

@@ -74,10 +74,10 @@ On the other hand, what is learned is insufficient for anybody who wishes to spe
 Take, for example, the average civil servant who has passed through the GYMNASIUM or High School, and ask him at the age of 39 or 40 how much he has retained of the knowledge that was crammed into him with so much pains. 
 
 How much is retained from all that was stuffed into his brain? He will certainly answer:
-"Well, if a mass of stuff was then taught, it was not for the sole purpose of supplying the
-student with a great stock of knowledge from which he could draw in later years, but it
-served to develop the understanding, the memory, and above all it helped to strengthen
-the thinking powers of the brain." That is partly true. 
+
+"Well, if a mass of stuff was then taught, it was not for the sole purpose of supplying the student with a great stock of knowledge from which he could draw in later years, but it served to develop the understanding, the memory, and above all it helped to strengthen the thinking powers of the brain."
+
+That is partly true. 
 
 And yet it is somewhat dangerous to submerge a young brain in a flood of impressions which it can hardly master and the
 single elements of which it cannot discern or appreciate at their just value. 

@@ -10,7 +10,7 @@ weight: 52
 
 Al-Mas'udi <!-- 305 --> says:
 
-{{< q >}}
+{{< l a="Al-Masudi" >}}
 In the days of Uthman, the men around Muhammad acquired estates and money. On the day Uthman was killed, his treasurer had 150,000 dinars and 1,000,000 dirhams. 
 
 The value of his estates in Wadi I-Qura and Hunayn and other places was 200,000 dinars. 
@@ -20,9 +20,7 @@ He also left many camels and horses. 1/8 of the estate of az-Zubayr after his de
 He also left 1,000 horses and 1,000 female servants. 
 
 Talhah's income from the Iraq was 1,000 dinars a day. His income from the region of ash-Sharah <!-- 306 --> was more than that. 
-{{< /q >}}
 
-{{< q >}}
 The stable of 'Abd-ar-Rahman b. 'Awf had 1,000 horses. He also had 1,000 camels and 10,000 sheep. 1/4 of his estate after his death amounted to 84,000. 
 
 Zayd b. Thabit left silver and gold that was broken into pieces with pickaxes, in addition to the (other) property and estates
@@ -35,8 +33,7 @@ Talhah built one in al-Kufah and had his residence in Medina improved. He used p
 Sa'd b. Abi Waqqas built himself a residence in al-'Aqiq, (a suburb of Medina). He made it high and spacious, and had balustrades put on top of it. Al-Miqdad <!-- 306a --> built his residence in Medina and had it plastered inside and out. 
 
 Ya'la b. Munyah 307 left 50,000 dinars and estates and other things the value of which amounted to 300,000 dirhams." 
-{{< /q >}}
-<!-- End of the quotation from al-Mas'udi. -->
+{{< /l >}}
 
 
 Such were the gains people made. Their religion did not blame them for amassing so much because, as booty, it was lawful property. 
@@ -115,7 +112,11 @@ backs on Islam.
 Therefore, God permitted them to be ruined, and (He permitted) the Arabs to be completely deprived of their power, which He gave to others. "God does not do an atom of injustice." 316 Whoever considers the biographies of these
 caliphs and their different approaches to truth and worthlessness knows that what we have stated is correct.
 
-Al-Mas'udi 317 reports a similar judgment concerning the Umayyads on the authority of Abu Ja'far al-Mansur. "When al-Mansur's paternal uncles mentioned the Umayyads in his presence, he said, "Abd-al-Malik was a tyrant who did not care
+Al-Mas'udi reports a similar judgment concerning the Umayyads on the authority of Abu Ja'far al-Mansur. 
+
+
+
+"When al-Mansur's paternal uncles mentioned the Umayyads in his presence, he said, "Abd-al-Malik was a tyrant who did not care
 what he did. Sulayman was concerned only with his stomach and with sexual
 pleasure. 
 

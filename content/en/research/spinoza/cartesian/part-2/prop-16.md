@@ -11,7 +11,7 @@ weight: 18
 
 
 
-#### Proposition 16: Every body that moves in a circle (e.g., a stone in a sling) is continuously determined to continue in motion at a tangent to that circle.
+## Proposition 16: Every body that moves in a circle (e.g., a stone in a sling) is continuously determined to continue in motion at a tangent to that circle.
 
 Proof: A body that moves in a circle is continuously prevented by an external force from continuing to move in a straight line (Cor. previous Prop.).
 
@@ -62,7 +62,7 @@ We conceive a sling moving in a circle, this will continuously determine the sto
 Both of these proofS can be adapted to any curvilinear figure.
 
 
-#### Proposition 17: Every body that moves in a circle endeavors to move away from the center of the circle that it describes.
+## Proposition 17: Every body that moves in a circle endeavors to move away from the center of the circle that it describes.
 
 Proof: As long as a body moves in a circle, it is being compelled by some external cause.
 
@@ -75,7 +75,7 @@ Therefore when a stone moving in a circle in a sling `EA` is at point `A`, it en
 This is nothing other than to endeavor to move away from the center of the circle that it describes. Q.E.D.
 
 
-#### Proposition 18: If a body `A` moves toward a body `B`, which is at rest, and `B` loses nothing of its state of rest in spite of the impetus of body `A`, then neither will `A` lose anything of its motion, but will retain entirely the same quantity of motion that it had before.
+## Proposition 18: If a body `A` moves toward a body `B`, which is at rest, and `B` loses nothing of its state of rest in spite of the impetus of body `A`, then neither will `A` lose anything of its motion, but will retain entirely the same quantity of motion that it had before.
 
 
 Proof: Assume that body A loses some of its motion without transferring the lost motion to B. This will reduce the amount of motion in Nature than before, which is absurd (Prop. 13 Part 2). 
