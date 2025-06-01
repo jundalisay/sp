@@ -8,28 +8,35 @@ author: Dada Dharmavedananda
 ---
 
 
-April. Word came today that Baba has begun a protest fast over the lack of inquiry into the attempt on His life in the jail by Indira 1 Gandhi's government. At present He is taking only two small glasses of orange juice per day. 31
+April. Baba has begun a protest fast over the lack of inquiry into the attempt on His life in the jail by Indira Gandhi's government.
 
-Samadhi means a state of complete absorption. There are many kinds of samadhi depending on the psycho-spiritual level of the person. In the higher for ms of samadhi, one feels oneness with the Cosmic M ind, or an all-consuming devotion for God or Guru.
+<!-- At present He is taking only two small glasses of orange juice per day. 31
 
-In February of 1973 the prison doctor administered Baba a strong dose of poison which he had passed off as a special "medicine". Baba temporarily lost consciousness and when He awoke, He was blind, His brain seared with pain. 
+Samadhi means a state of complete absorption. There are many kinds of samadhi depending on the psycho-spiritual level of the person. In the higher for ms of samadhi, one feels oneness with the Cosmic M ind, or an all-consuming devotion for God or Guru. -->
+
+
+In February of 1973, the prison doctor gave Baba a strong dose of poison which he had passed off as a special "medicine". 
+
+Baba temporarily lost consciousness and when He awoke, He was blind, His brain seared with pain. 
 
 This condition lasted for several days, after which He partially regained His sight. 
 
-Baba's vision remained somewhat impaired until the end of His life. The doctor, who was certainly hired for this nasty work by higher officials of the Indira Gandhi government, soon afterwards gave up his profession, but this did not save him from becoming permanently paralyzed in the same hand by which he gave the poison to Baba.
+Baba's vision remained impaired until the end of His life.
+
+The doctor was hired for this nasty work by the Indira Gandhi government. He afterwards gave up his profession, but this did not save him from becoming permanently paralyzed in the same hand by which he gave the poison to Baba.
 
 
 ### An orchestrated accident 
 
 Sydney, Australia. Fresh, young, curious, clean—all are qualities of this relatively new country and its people.
 
-I arrived two days ago in this world which seems open-minded to the ideas of yoga and Tantra. 
+It seems open-minded to the ideas of yoga and Tantra. 
 
 Ananda Marga is a new and small group here. There are a handful of Margis in each of several cities. 
 
-I know I'm going to enjoy this country. 
 
 Today a letter arrived from Ramdas. He writes: 
+
 
 Something terrible has happened. A small accident happened in the car in which Dada Adveshananda was riding. The driver requested Dada to wait alone in the car for an hour while he assisted the passengers to go home by other means.
 
@@ -71,110 +78,81 @@ How I tolerate it, Lord only knows.  -->
 
 ### Psychic power attack 
 
-Brisbane. I've been invited to make a house-call tonight under peculiar circumstances. The residents are nine young men and women, a normal sort of communal living arrangement. 
+Brisbane. I've been invited to make a house-call tonight under peculiar circumstances. 
 
-It seems they are troubled by an "outside force." They've already called upon a Christian priest and a Buddhist monk to help them but neither visit satisfied the group. The priest did an ineffective exorcism, and the Buddhist monk counseled them to "ignore the illusion." Whatever the problem may be, it will at least be enjoyable to watch Baba solve it.
+The residents are 9 young men and women, a normal sort of communal living arrangement. 
 
-They were a normal group of kids in their late teens and early twenties, 
-except that they all looked haggard and emotionally strained. Without 
-exception, each had facial skin sag. 
+They are troubled by an "outside force." 
 
-"Let's come to the point," I said. "Tell me the problem." 
+They've already called upon a Christian priest and a Buddhist monk to help them but neither visit satisfied the group. 
 
-They all started nervously speaking at once. 
+- The priest did an ineffective exorcism
+- The Buddhist monk counseled them to "ignore the illusion"
 
-"Please, there's nothing to get excited about. Every problem exists for a 
-good reason." I pointed to the boy who looked the least out of control, and 
-asked him to explain. 
+The residents all looked haggard and emotionally strained. Without exception, each had facial skin sag. 
 
+{{< r a="People" >}}
+Dadaji, all of us in this house are so tired. Every night for the last 2 months a Psychic Power attacks us between 2:00 and 3:00 in the morning. It's terrible! I can't take it another night. You've got to help us! 
 
-"Dadaji, all of us in this house are so tired. Every night for the last two 
-months a Psychic Power attacks us between 2:00 and 3:00 in the morning." 
+We wake up with our minds racing, full of fear, imagining the worst things emerging from the shadows. Until now nothing much has happened externally, but our minds go nuts for about half an hour or an hour. 
 
-"It's terrible!" 
+Sometimes things fall off shelves, or the walls shake, or a door slams. Whether we sit down, lie down, talk or try to be silent, it doesn't matter. We feel like we are going crazy. Then it stops. But who can sleep after that?
+{{< /r >}}
 
-"I can't take it another night." 
-
-"You've got to help us!" 
-
-"What does the Psychic Power do?" 
-
-"I don't know how to describe it exactly, but it seems to be more or less the 
-same for all of us. We wake up with our minds racing, full of fear, imagining 
-the worst things emerging from the shadows. Until now nothing much has 
-happened externally, but our minds go nuts for about half an hour or an hour. 
-Sometimes things fall off shelves, or the walls shake, or a door slams. Whether 
-we sit down, lie down, talk or try to be silent, it doesn't matter. We feel like we 
-are going crazy. Then it stops. But who can sleep after that?" 
-
-After that they all chipped in little tidbits of experience, but the common 
-nightly phenomena appeared to be approximately as the boy had described. 
 
 I closed my eyes, thought about Baba, and quickly understood what to do. 
 
-"I'm going to sleep in your house tonight," I said. "When the Psychic Power 
-hits, wake me up." 
 
-"No need. It will wake you up before we get to you, Dadaji." 
+{{< l a="Dharmavedanda" >}}
+I'm going to sleep in your house tonight. When the Psychic Power hits, wake me up.
 
-"Perhaps. Anyway, we will do a meditation exercise together, and become 
-one hundred percent positive. In that state of mind, no black force can have any 
-effect. If your minds are weak, if you have fear, then bad people with a little bit 
-of power can easily control you. But we will concentrate on the most beautiful 
-and positive entity, the infinite entity: God." 
+We will do a meditation exercise together, and become 100% positive. In that state of mind, no black force can have any effect. 
 
-Then I explained the Baba Nam Kevalam mantra. We sang it together for a 
-couple of minutes, and did one minute meditation. 
+If your minds are weak, if you have fear, then bad people with a little bit of power can easily control you. But we will concentrate on the most beautiful and positive entity, the infinite entity: God."
+{{< /l >}}
 
-"Tonight we will do it together as long as necessary." 
 
-Soon after, we went to sleep—at least those of us who could sleep. 
+Then I explained the Baba Nam Kevalam mantra. We sang it together for a couple of minutes, and did one minute meditation. 
 
-In the morning the rising sun woke me up. I went downstairs to the dining 
-room, and found everyone there. 
+{{< l a="Dharmavedanda" >}}
+Tonight we will do it together as long as necessary.
+{{< /l >}}
 
-"What happened? Why didn't you wake me up? Or didn't the Psychic Power 
-hit last night?" 
 
-"Oh, it hit all right," one of them said. "But you were sleeping so 
-nicely that we decided not to wake you up and to first try singing the 
-mantra without you. And it worked, Dadaji!" 
+Soon after, we went to sleep. 
 
-"Immediately!" 
+In the morning the rising sun woke me up. I went downstairs to the dining room, and found everyone there. 
 
-"Like a charm." 
+{{< l a="Dharmavedanda" >}}
+What happened? Why didn't you wake me up? Or didn't the Psychic Power hit last night?
+{{< /l >}}
 
-"Yeah, the very moment we started singing, the Power disappeared. 
-We were so happy that we continued singing for a long time, and then 
-did meditation." 
+{{< r a="People" >}}
+Oh, it hit all right. But you were sleeping so nicely that we decided not to wake you up and to first try singing the 
+mantra without you. And it worked immediately, Dadaji!
 
-"Very peaceful, beautiful." 
+Yeah, the very moment we started singing, the Power disappeared. We were so happy that we continued singing for a long time, and then did meditation.
+{{< /r >}}
 
 They were all smiling, the sun streaming in through an open window. 
 
-Suddenly there was a loud knocking on the door. We all jumped up and ran to 
-see who it could be at such an early hour. 
+Suddenly there was a loud knocking on the door. We all jumped up and ran to see who it could be at such an early hour. 
 
-A lady was standing on the doorstep. She had long, uncombed black hair, 
-deep shadows under her eyes, and a wrinkled black dress. 
+A lady was standing on the doorstep. She had long, uncombed black hair, deep shadows under her eyes, and a wrinkled black dress. 
 
-She pointed her finger at me, and said with spit coming out of her mouth, "I 
-hate you!" Then she slammed the door shut as loud as she could. 
+She pointed her finger at me, and said with spit coming out of her mouth, "I hate you!" Then she slammed the door shut as loud as she could. 
 
-Two of the boys opened the door and went after her. A minute later they came 
-back. "She drove off in a car with no license plates." 
+Two of the boys opened the door and went after her. A minute later they came back. 
+
+
+"She drove off in a car with no license plates." 
 
 "Anyway, she won't bother you anymore," I said. 
 
-After the psychic power incident one month ago, I visited the house a couple 
-times more. I explained our spiritual philosophy in a little detail so that they could 
-understand the undefeatable power of God's love. They all learned and regularly 
-practiced meditation after that. 
+After the psychic power incident one month ago, I visited the house a couple times more. I explained our spiritual philosophy in a little detail so that they could understand the undefeatable power of God's love. They all learned and regularly practiced meditation after that. 
 
-Today the boy who seemed least out of control entered our local full-timer 
-training course. 
+Today the boy who seemed least out of control entered our local full-timer training course. 
 
 I am convinced that the lady we saw was experimenting on this group of kids with some kind of psychic power, trying to take over their minds or something. 
 
 At the moment that they all started singing Baba Nam Kevalam, her evil intentions probably reflected back on her with multiplied strength. She must have suffered badly that morning.
-

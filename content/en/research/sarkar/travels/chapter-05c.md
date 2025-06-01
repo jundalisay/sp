@@ -10,13 +10,13 @@ author: Dada Dharmavedananda
 
 Last night I spoke to one of the trainers. 
 
-"Dadaji, my nose has been heavily blocked with mucus for several days. It's almost impossible for me to practice pranayama (alternate-nostril breathing meditation). What should I do?"
+{{< l a="Dharmavedanda" >}}
+Dadaji, my nose has been heavily blocked with mucus for several days. It's *almost* impossible for me to practice pranayama (alternate-nostril breathing meditation). What should I do?
+{{< /l >}}
 
-"You say almost impossible?" 
-
-"Yes." 
 
 "That means it's possible. So you should continue the pranayama regularly 4 times instead of twice daily."
+
 
 Today I followed his directive. Not only does the pranayama take me much longer than anyone else, and cause my head to spin, but the sound of my nose is extremely loud, and disturbs the other trainees during meditation. 1 am thus compelled to practice meditation in the adjacent room.
 
@@ -32,12 +32,13 @@ resources. It is radically different from either capitalism or communism. See th
 an introduction to Prout.  -->
 
 
-My nose may remain blocked until I get out of here. The psychosocial gap separating me from the trainees has now been increased by a physical gap. 
+My nose may remain blocked until I get out of here. The psychosocial gap separating me from the trainees has now been increased by a physical gap.
 
 
 During lunch we were served the usual drumsticks, indigestible beans and thick, partially cooked flat breads. I sighed and murmured, "Yuck. Again."
 
 "You think it's only tough for you." said the brother sitting next to me.
+
 
 "Do you imagine that this sort of food and life style is normal for the rest of us? In my family home we had thin delicate breads fried in purified butter every day, vegetable dishes of many tasty kinds, fruits, yoghurt, hot milk, and various milk sweets. You think you're so special."
 

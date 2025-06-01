@@ -48,3 +48,5 @@ Rasis where A stands for the Aharghaṇa, G stands for the Sāvana days of the p
 
 
 Verses 10, 11. Proof of other methods of computing planetary position. Even as the sums or differences of two or more of the numbers of Adhimāsas, Kṣhayāhas, lunations etc give the number of sidereal revolutions of the planets the sums or differences of two or more of the positions of the imaginary planets which go by the names Adhimāsa-graha, Kṣhayāhagraha etc computed out of the numbers of those Adhimāsa Kṣhayāhas etc. give the respective planetary positions.
+
+

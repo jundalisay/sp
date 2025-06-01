@@ -21,25 +21,20 @@ I now use only two large pieces of white cotton for clothing. One I tie on like 
 
 The other piece, draped around my upper body, doubles as a bag for collecting vegetables whenever I go out begging. Deprived of soap, comb, toothbrush and paste, I use ash, dirt and water to clean my body, and twigs from the neem tree to clean my teeth. Perhaps the greatest difficulty is the lack of shoes or sandals, because the road is blistering hot. 
 
-Each morning I go from door to door, begging for vegetables and flour. I 
-utter only four words: H ari aum tat sat, meaning "The original cosmic Word of 
-God is That unchanging Truth". I may speak these 
+Each morning I go from door to door, begging for vegetables and flour. 
 
-21 Since that day, I have never known depression for more than a few minutes at a time. 
+I utter only 4 words: Hari aum tat sat, meaning "The original cosmic Word of God is That unchanging Truth". 
 
-I attribute this to the simple determination not to accept sorrow, combined with vari¬ 
-ous Tantric practices which strengthen the mind. Of these practices, the most impor¬ 
-tant is kiirtan. On the other hand, the devotional sorrow that one may feel in relation 
-to God or guru can be a good thing. 
+I may speak these words 3 times to any person. 
 
-22 Sadhana piitha training. Sadhana means spiritual effort, and piitha means a point 
-which is spiritually charged (like the special meditation spots in Ananda Nagar). SPT 
-is an exercise in poverty, silence and begging which each trainee undergoes for at least 
-one week. The temporary identification with the poorest of the poor is in itself said to 
-bean illuminating power point for spiritual realization. 
+If someone should repeatedly insist that I provide a justification, I may explain. 
 
+But after that I may not accept any donation from him. Generally, 2 hours of begging is sufficient. 
 
-words three times to any person. If someone should repeatedly insist that I provide a justification, I may explain. But after that I may not accept any donation from him. Generally, two hours of begging is sufficient. 
+21 Since that day, I have never known depression for more than a few minutes at a time. I attribute this to the simple determination not to accept sorrow, combined with various Tantric practices which strengthen the mind. Of these practices, the most important is kiirtan. On the other hand, the devotional sorrow that one may feel in relation to God or guru can be a good thing. 
+
+22 Sadhana piitha training. Sadhana means spiritual effort, and piitha means a point which is spiritually charged (like the special meditation spots in Ananda Nagar). SPT is an exercise in poverty, silence and begging which each trainee undergoes for at least one week. The temporary identification with the poorest of the poor is in itself said to bean illuminating power point for spiritual realization. 
+
 
 From the money I receive, I buy a small clay cooking pot and a bit of cow dung for fuel. 
 
@@ -47,8 +42,7 @@ Whatever remains is turned over to the trainers. I cook only those foodstuffs wh
 
 Though the experience is difficult, I don't care; I am pleased that I am finally allowed to do it. 
 
-A week later. Today was my final day of SPT. While taking off and burning my beggar's dress, one thought pounded over and over in my brain: I must not forget the difficulties of our brothers and sisters who live like this. The work for 
-society's upliftment is meaningless unless those who are lowest rise up. 
+A week later. Today was my final day of SPT. While taking off and burning my beggar's dress, one thought pounded over and over in my brain: I must not forget the difficulties of our brothers and sisters who live like this. The work for society's upliftment is meaningless unless those who are lowest rise up. 
 
 Besides this. I'm more confident now of being able to accept any difficulties I may undergo in the future due to human-made or natural catastrophes. 
 
@@ -115,15 +109,12 @@ blank.
 In the future, I must try to avoid concentrating on any crude desires. It 
 seems that meditation causes their manifestation. 
 
-Logic beyond logic 
 
-The field training keeps me hectically busy, and I love it. The internal 
-energy built up in Benares is finding its expression. Usually I give three or four 
-lectures daily for different schools, clubs, and civic organizations. It seems like 
-everyone in the city knows that I'm here, and they all want to see the westerner 
-who teaches yoga. I'm not yet authorized to teach personalized meditation 
-techniques, but I've been teaching the Baba Nam Kevalam mantra to crowds of 
-up to 2000 people at a time. 
+## Logic beyond logic 
+
+The field training keeps me hectically busy, and I love it. The internal energy built up in Benares is finding its expression. Usually I give three or four lectures daily for different schools, clubs, and civic organizations. It seems like everyone in the city knows that I'm here, and they all want to see the westerner who teaches yoga. 
+
+I'm not yet authorized to teach personalized meditation techniques, but I've been teaching the Baba Nam Kevalam mantra to crowds of up to 2000 people at a time.
 
 I usually have very little advance notice of whom I'll be speaking to, nor do 
 I prepare my lectures. My talks are all spontaneous. Because some people 
@@ -141,18 +132,13 @@ departments: logic, ethics and metaphysics."
 "I see." At that time I was in such a flow that my intellect was barely 
 functioning. I was slightly baffled trying to understand the meaning of each of these three words. 'Logic' was okay, 'ethics' was half clear, but 'metaphysics' left me in a cloud. 
 
-I turned to converse with the professor sitting next to me. After a few 
-minutes, I nonchalantly came to my real point. 
+I turned to converse with the professor sitting next to me. After a few minutes, I nonchalantly came to my real point. 
 
-"You know in the west," I said, "many words carry different meaning than 
-in India. Here at this university, what do you mean by the word ’metaphysics'?" 
+"You know in the west," I said, "many words carry different meaning than in India. Here at this university, what do you mean by the word ’metaphysics'?" 
 
-I grasped little of his complicated reply. But at least I memorized his words 
-"those dimensions that transcend purely physical analysis." 
+I grasped little of his complicated reply. But at least I memorized his words "those dimensions that transcend purely physical analysis." 
 
-"Dadaji," another professor inteijected, "all of us would like to know the 
-title of your discourse today." His voice was loud enough that everyone 
-suddenly stopped their personal conversations to listen to my reply. 
+"Dadaji," another professor inteijected, "all of us would like to know the title of your discourse today." His voice was loud enough that everyone suddenly stopped their personal conversations to listen to my reply. 
 
 Without thinking, I said, "I will talk on 'The Absolute and Eternal 
 Relationship between Logic, Ethics and Metaphysics'." 
@@ -166,30 +152,21 @@ Now I was occupied trying to deduce the meaning of my title. But before I
 could figure out even the slightest connection, the door opened, and one man 
 announced, "Gentlemen, let us proceed to the lecture hall." 
 
-The organizers brought me onto a stage. I faced about 500 students and 
-teachers. One man spent five minutes lauding praises on me. During that time I 
-tried to divine something of my subject, but could only draw a blank. 
+The organizers brought me onto a stage. I faced about 500 students and teachers. One man spent five minutes lauding praises on me. During that time I tried to divine something of my subject, but could only draw a blank. 
 
-Then it was my turn to speak. From the moment I started, I had no idea 
-what I was saying. The words I used were complex, and the sentence structures 
-and relations between those sentences were even more complex. I was totally 
-lost, but went on speaking enthusiastically. Several times the audience 
-interrupted me with applause, though I didn't know what they were 
-appreciating. At the end, they gave me a long and loud standing ovation. 
+Then it was my turn to speak. From the moment I started, I had no idea what I was saying. The words I used were complex, and the sentence structures and relations between those sentences were even more complex. I was totally lost, but went on speaking enthusiastically. Several times the audience interrupted me with applause, though I didn't know what they were appreciating. At the end, they gave me a long and loud standing ovation. 
 
-The main organizer told the audience, "When Dadaji first told the title of 
-his lecture, many of us wondered what he would speak. I dare say that we are 
-now fully satisfied with his explanation. Nevertheless, you are now welcome to 
-ask questions." 
+The main organizer told the audience, "When Dadaji first told the title of his lecture, many of us wondered what he would speak. I dare say that we are now fully satisfied with his explanation. Nevertheless, you are now welcome to ask questions." 
 
 One student stood up and asked something. God knows what he asked; it 
 was far beyond my understanding. 
 
-"Instead of replying," I said, "what would you think if here and now I were 
-to teach you all something which will answer all the questions you have related 
-to this topic?" 
+{{< l a="Dharmavedanda" >}}
+Instead of replying, what would you think if here and now I were to teach you all something which will answer all the questions you have related to this topic?
+{{< /l >}}
 
-Everyone applauded. I taught them B aba Nam K evalam meditation. 
+
+Everyone applauded. I taught them Baba Nam Kevalam meditation. 
 
 Then I escaped. 
 

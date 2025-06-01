@@ -76,7 +76,7 @@ Then all psychic problems cease, and only external difficulties confront the asp
 But there is no possibility of downfall because the thought of Guru is constantly present. Baba writes about 
 this stage: 
 
-{{< q a="Baba">}}
+{{< q a="Baba" >}}
 When a person attains an exalted state of spirituality, he or she can bring welfare to millions of people, and they can do so due to the grace of the Supreme Consciousness.
 {{< /q >}}
 
@@ -91,11 +91,11 @@ My trainer hardly ever sang kiirtan. He used to say, "Only those who are weak-mi
 
 But Baba says otherwise: 
 
-{{< q a="Baba" >}}
+{{< l a="Baba" >}}
 The nucleus of devotion is not to be found in the heart of the dry yogi. Rather it is located in the hearts of those who are practicing kiirtan.
 
 If you want to develop devotion, when you have 30 minutes time for spiritual practices, spend 20 minutes in kiirtan, and 10 minutes in meditation.
-{{< /q >}}
+{{< /l >}}
 
 
 Some say, "It's alright to do kiirtan. But it should be natural and unforced. I do it whenever I feel like it." I think that is a mistake. 

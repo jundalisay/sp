@@ -11,14 +11,11 @@ author: Dada Dharmavedananda
 
 On the Greyhound bus north. I'm traveling to Chicago. From Chicago I'll go to India to meet Baba and try to find out whether or not I should become an acharya 13 . The Jackson center is now in the hands of another volunteer. 
 
-Chicago. One week later. My sister's getting married this week. The 
-ceremony will be at our house, and scores of near and distant family members 
-are either here or on their way. 
+Chicago. One week later. My sister's getting married this week. The ceremony will be at our house, and scores of near and distant family members are either here or on their way. 
 
 
-13 Acharya is the formal title of the teachers of Ananda M arga—the Dadas and Didis. Acharan 
-means conduct. Acharya means one who teaches others through his or her personal conduct. 
-
+<!-- 13 Acharya is the formal title of the teachers of Ananda M arga—the Dadas and Didis. Acharan 
+means conduct. Acharya means one who teaches others through his or her personal conduct.  -->
 
 Yesterday, two of my cousins and I went to a public meeting of an Indian spiritual movement just starting in America. The main attraction was the mother of the guru, together with the two leading teachers of the movement— all of whom are supposed to be living saints. The guru is still in India. 
 
@@ -53,18 +50,19 @@ Then they said, "Whether you believe in Ananda Marga doesn't matter. The
 important fact is we give you Cosmic Knowledge instantly. You will see Light 
 and hear Music." 
 
-"Okay. Please give me the initiation here now," I said. 
+{{< l a="Dharmavedananda" >}}
+Okay. Please give me the initiation here now
+{{< /l >}}
 
-"No, no. You meet us in Denver. We will hold big seminar there. You must 
-join and then you receive initiation." 
 
-"I'm going to India. Why should I change? How can I know if your 
-Knowledge is correct or not?" 
+"No. You meet us in Denver. We will hold big seminar there. You must join and then you receive initiation." 
+
+
+"I'm going to India. Why should I change? How can I know if your Knowledge is correct or not?" 
 
 For 20 minutes they tried to persuade me. 
 
-At the end of that time, two sentences finally struck me: "We are opening 
-doorway to God. You should at least try." I couldn't deny that. 
+At the end of that time, two sentences finally struck me: "We are opening doorway to God. You should at least try." I couldn't deny that. 
 
 
 I immediately canceled my flight to India, and re-booked for Denver 
@@ -92,10 +90,10 @@ Lai. 14
 
 I quickly told him about yesterday's experience. Then I told him my dream: 
 
-"Dadaji, I was in India in a room with about forty or fifty people. Baba sat 
-in the front, facing us and speaking. We all knew that Bindeshwari was in the 
-next room. You know, the Bindeshwari who died and was brought back to life 
-by Baba's touch, and who now has miraculous psychic powers." 
+{{< l a="Dharmavedananda" >}}
+Dadaji, I was in India in a room with about forty or fifty people. Baba sat in the front, facing us and speaking. We all knew that Bindeshwari was in the next room. You know, the Bindeshwari who died and was brought back to life by Baba's touch, and who now has miraculous psychic powers.
+{{< /l >}}
+
 
 "Yes, yes. I know him very well." 
 
@@ -131,18 +129,13 @@ everyone-and-everything. You have to work for that.'"
 
 I canceled the ticket for Denver and re-booked for India. 15 
 
-Don't thank me 
 
-On the way to India I spent one day in New York City. I arranged to meet 
-Paul at a bus stop near his house. When I stepped off the bus. he was standing 
-about 150 meters away. When he saw me, his face lit up with a big smile. In 
-Mississippi I had never seen him smile even once. He ran toward me and we 
-embraced. 
 
-The first thing he blurted out was, "You'll never believe it! In the last days 
-I've been strongly desiring to do meditation, but couldn't remember my mantra, 
-lust now as I saw you, I suddenly remembered it! Thank you. thank you. thank 
-you!" 
+### Don't thank me 
+
+On the way to India I spent one day in New York City. I arranged to meet  Paul at a bus stop near his house. When I stepped off the bus. he was standing  about 150 meters away. When he saw me, his face lit up with a big smile. In  Mississippi I had never seen him smile even once. He ran toward me and we  embraced. 
+
+The first thing he blurted out was, "You'll never believe it! In the last days I've been strongly desiring to do meditation, but couldn't remember my mantra, lust now as I saw you, I suddenly remembered it! Thank you!" 
 
 
 15 Though Bindeshwari did clinically die, according to yoga it is possible that he never actually 

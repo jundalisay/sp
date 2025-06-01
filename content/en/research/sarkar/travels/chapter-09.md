@@ -30,15 +30,16 @@ The uniform is a compromise with the pressing need of modern society for such wo
 
 In India, the word Kapalika is much misunderstood. 
 
-Many people believe it refers to black-magic left-hand Tantrics who appear totally wild: drinking wine, eating human flesh, engaging in sexual rituals, and so on. It is nothing other than an injustice to the Tantric tradition when people act in thisway and claim to be kapalikas. 
+Many people believe it refers to black-magic left-hand Tantrics who appear totally wild: drinking wine, eating human flesh, engaging in sexual rituals, and so on. 
 
-* They have given up thoughts concerned with solid, liquid, luminous, aerial or ethereal factors. They do not fear death, nor are they controlled by the darkness of ego. 
+It is an injustice to the Tantric tradition when people act in thisway and claim to be kapalikas. 
+- They have given up thoughts concerned with solid, liquid, luminous, aerial or ethereal factors. They do not fear death, nor are they controlled by the darkness of ego. 
+- They are free from all worldly fetters. Their lives are pure from beginning, middle, to end. They always remain in the state of bliss. 
+- They have no attachment, even for such qualities as patience and courage. They worship neither Shiva (Consciousness) nor Shakta (Primal Energy), but remain absorbed in the ideation of Brahma (infinite God), like a second Maheshvara (a name of Shiva, father of Tantra). 
 
-* They are free from all worldly fetters. Their lives are pure from beginning, middle, to end. They always remain in the state of bliss. 
+During the 7 years of Baba's imprisonment no worker became avadhuta because the initiation required privacy. 
 
-* They have no attachment, even for such qualities as patience and courage. They worship neither Shiva (Consciousness) nor Shakta (Primal Energy), but remain absorbed in the ideation of Brahma (infinite God), like a second Maheshvara (a name of Shiva, father of Tantra). 
-
-During the 7 years of Baba's imprisonment no worker became avadhuta because the initiation required privacy. Furthermore, in the 7,000 years since Shiva founded the Tantric cult no non-Asian has learned the kapalika practice. Thus something special, something new, is in the works. 
+Furthermore, in the 7,000 years since Shiva founded the Tantric cult no non-Asian has learned the kapalika practice. Thus something special, something new, is in the works. 
 
 
 ### The test 
@@ -51,29 +52,38 @@ As with Personal Contact, I was alone with Him. But whereas before He sat in a c
 
 As He spoke, the images He described became as real as the room itself. 
 
+
 "You are in the cremation ground in the dead of the night...everything hides behind a blanket of darkness ... vultures flap their wings... a muggy breeze shivers your spine... from some unknown corner echoes 'hooot... hooot... hooot'—will you be afraid?" 
 
-"No, Baba." 
+{{< l a="Dharmavedanda" >}}
+No, Baba
+{{< /l >}}
 
-"Very good"
 
 He brought His solemn face close to mine. 
 
 "And if you plunge deep, deep down into silence ... only leaves minutely rustling in the breath of  shadows ... your heart beats slowly ... slowly ... slowly ... when suddenly! what hey? scores of faces, nay, skulls are all upon you! raining like arrows on your head! scowling, grating their teeth, hissing, wailing!—will you be afraid?" 
 
-"No, Baba." 
+{{< l a="Dharmavedanda" >}}
+No, Baba.
+{{< /l >}}
+
 
 "Very good. But, then, how will my boy react if I tell him to take off his clothes and move in the streets without inhibition? Will he do it?" 
 
-"Yes, Baba." 
+
+{{< l a="Dharmavedanda" >}}
+Yes, Baba.
+{{< /l >}}
+
 
 "Then, go and do it. Now." 
 
 Immediately without a flick of hesitation, I stood up and started for the door. As my hand reached the door handle. He said
 
- "Stop!" 
+"Stop!" 
 
- I turned and faced Him. 
+I turned and faced Him. 
 
 "Very good. Very good. Now tell me ... how many blades are in that fan?" 
 
@@ -81,11 +91,17 @@ Immediately without a flick of hesitation, I stood up and started for the door. 
 question! I looked up at the ceiling-fan—the blades turned lazily, barely 
 merging into each other. I tried to count them.  -->
 
-"I think...there maybe three. Baba." 
+{{< l a="Dharmavedanda" >}}
+I think...there maybe 3. Baba.
+{{< /l >}}
+
 
 "You think, or you know?" 
 
-"I...I...think, Baba." 
+{{< l a="Dharmavedanda" >}}
+I...I...think, Baba.
+{{< /l >}}
+
 
 "The answer is wrong. You should have said. Baba, may I turn the fan off so that I can properly count the blades?'" 
 
@@ -129,7 +145,12 @@ In the evening. Dada Tadbhavananda (a senior worker) who was scheduled to fly wi
 
 "Don't try to pressure me," said the examiner nonchalantly. "Now finally let's turn to Caryacarya."
 
-"What!" I exclaimed. "I didn't know we'd be examined on Caryacarya. How about just forgetting it, Dadaji?" I hadn't studied the book at all. 
+{{< l a="Dharmavedanda" >}}
+What! I didn't know we'd be examined on Caryacarya. How about just forgetting it, Dadaji?
+{{< /l >}}
+
+
+I hadn't studied the book at all. 
 
 "I won't make exceptions for anyone." 
 
@@ -153,11 +174,10 @@ Caryacarya is a book on social and spiritual functions
 
 I gave him the book and heard him scratch his signature in the dark. 
 
-A few seconds later the electricity came on again, just as suddenly as it had 
-gone out. Our eyes blinked in the bright light. 
+A few seconds later the electricity came on again, just as suddenly as it had gone out. Our eyes blinked in the bright light. 
 
 " Victory to Baba!" roared Tadbhavanandaji. "Baba's grace. The taxi's 
 waiting!" 
 
-Yes, it was a novel sort of grace that made the lights fail instead of me. 
+<!-- Yes, it was a novel sort of grace that made the lights fail instead of me.  -->
 

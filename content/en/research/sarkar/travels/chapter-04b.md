@@ -19,7 +19,11 @@ I saw the sign on your house: Ananda Marga Yoga Society. What does it mean?
 
 He had never heard of yoga. I took a few minutes to explain a little to him, and he immediately wanted to learn. 
 
-"I think it'll be better," I said, "if you first attend a lecture and read some of  our books. You don't know what you're getting into." 
+
+{{< l a="Dharmavedanda" >}}
+I think it'll be better if you first attend a lecture and read some of  our books. You don't know what you're getting into.
+{{< /l >}}
+
 
 {{< r a="Man" >}}
 But this is my only chance. Tomorrow I go out of Jackson for one month. Please leave the risk to me.
@@ -101,10 +105,8 @@ Two weeks later.
 The salesman called me again.
 
 {{< r a="Man" >}}
-I feel guided. Almost every farm I go to I find either the husband or the wife is particularly interested in meditation. And so I teach him or her the universal mantra 12 . Is it okay?
+I feel guided. Almost every farm I go to I find either the husband or the wife is particularly interested in meditation. And so I teach him or her the universal mantra 12
 {{< /r >}}
 
-
-"It's more than okay," I said. "It's perfect." 
 
 Now I understand why this man had such difficulties in his meditation—to strengthen his mind for the work of reaching these farmers who would otherwise never come in contact with Ananda Marga.

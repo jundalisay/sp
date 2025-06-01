@@ -17,58 +17,50 @@ god."
 
 Then he prostrated himself at Baba's feet. 
 
-Dada Keshavananda told me that a few days ago the doctors pro¬ 
-tested that Baba was continuing to compose Prabhat Sangiit songs in 
-the emergency ward even though they had requested Him not to do any 
-work. In one day alone He wrote thirteen songs. He responded by 
-saying, "Composing Prabhat Sangi it does not require any special effort 
-from my part. Similarly, whenever I write Shabda Cayanika (His 
-encyclopedia), it is a spontaneous expression. Rather than considering 
-these processes to be my work, you should title them my pleasures." 
+Dada Keshavananda told me that a few days ago the doctors protested that Baba was continuing to compose Prabhat Sangiit songs in the emergency ward even though they had requested Him not to do any work. In one day alone He wrote thirteen songs. He responded by saying:
 
-Keshavanandaji asked Baba what He considered to be work. He said, 
-"When I conceptualized the idea of Ananda Marga, or Prout, or 
-microvita, or Neo-H uman ism —these original revolutionary creations 
-required a little exertion. You may be interested to know that the work 
-which occupied my effort for the longest time was the invention of our 
-Pratik (the symbol of Ananda Marga). It took me thirty minutes." 
+{{< l a="Baba" >}}
+Composing Prabhat Sangi it does not require any special effort from my part. Similarly, whenever I write Shabda Cayanika (His encyclopedia), it is a spontaneous expression. Rather than considering these processes to be my work, you should title them my pleasures.
+{{< /l >}}
 
-A few days ago two nurses approached Keshavanandaji with a ques¬ 
-tion. They said, "Each of us separately observed Baba talking in His sleep. Both times He said the same words: Master units. Master units. 
 
-Do the words master units have any special meaning that you know?" 
+Keshavanandaji asked Baba what He considered to be work.
 
-Keshavanandaji laughed. "Yes, I know. The establishment of Master Units all over the globe is now our most important program. It is so important that Baba goes on creating the conducive psychic wave for 
-them even when His body is sleeping." 99 
+{{< l a="Baba" >}}
+When I conceptualized the idea of Ananda Marga, or Prout, or microvita, or Neo-Humanism—these original revolutionary creations 
+required a little exertion. You may be interested to know that the work which occupied my effort for the longest time was the invention of our Pratik (the symbol of Ananda Marga). It took me thirty minutes.
+{{< /l >}}
 
-The last story concerns Dr Ramesh, a specialist at the clinic. One day 
-the doctor told Baba, "Your health is not good. But I understand you 
-frequently scold your workers. Anger is not helpful to your cure. So I 
-request you to refrain from such rebuking." 
+A few days ago two nurses approached Keshavanandaji with a question. 
 
-Baba became furious, shouting loud enough to cause everyone to 
-jump, "Who is he to tell me such a thing!" 
+They said, "Each of us separately observed Baba talking in His sleep. Both times He said the same words:
+
+{{< l a="Baba" >}}
+Master units. Master units. Do the words master units have any special meaning that you know?
+{{< /l >}}
+
+
+Keshavanandaji laughed. "Yes, I know. The establishment of Master Units all over the globe is now our most important program. It is so important that Baba goes on creating the conducive psychic wave for them even when His body is sleeping." 99 
+
+The last story concerns Dr Ramesh, a specialist at the clinic. One day the doctor told Baba, "Your health is not good. But I understand you  frequently scold your workers. Anger is not helpful to your cure. So I request you to refrain from such rebuking."
+
+Baba became furious, shouting loud enough to cause everyone to jump, "Who is he to tell me such a thing!" 
 
 The Dadas became upset, and the doctors became afraid. 
 
-In a twinkle of an eye, Baba again changed His mood, and said 
-sweetly, "Now, do you mean like that?" 
+In a twinkle of an eye, Baba again changed His mood, and said sweetly, "Now, do you mean like that?" 
 
 "Yes, Baba," said Dr Ramesh, shaking. 
 
-"No need to worry," said Baba. "You see, I say all such caustic words 
-from my throat, not from my heart. It does not affect me." 
+{{< l a="Baba" >}}
+No need to worry. You see, I say all such caustic words from my throat, not from my heart. It does not affect me.
+{{< /l >}}
 
+The Master Unit program is the culmination of all other social service activities of Ananda Marga. For simplicity's sake, until this point my diary entries referred to such projects as' 1 land communities" or 11 model communities." 
 
-"TheM aster Unit program is the culmination of all other social service activities of Ananda 
-M arga. For simplicity's sake, until this point my diary entries referred to such projects as' 1 land 
-communities" or 11 model communities." Ananda Nagar was our first M aster Unit. To be 
-considered a M aster Unit, a piece of land must beat least five acres. On this land we must 
-establish a yoga/meditation center, agricultural farm, cottage industry, family dwellings, a self- 
-contained system of ponds and streams, an alternative energy center, and a permanent service 
-center. According to location and various other factors, we should also, if possible, develop a 
-children'shomeand school, a wild animal sanctuary, botanical gardens, medical hospital or 
-clinic, a dairy farm, and a good number of welfare homes and appropriate industries. Thus, the 
+Ananda Nagar was our first Master Unit. To be considered a M aster Unit, a piece of land must beat least five acres. 
+
+On this land we must establish a yoga/meditation center, agricultural farm, cottage industry, family dwellings, a self-contained system of ponds and streams, an alternative energy center, and a permanent service center. According to location and various other factors, we should also, if possible, develop a children'shomeand school, a wild animal sanctuary, botanical gardens, medical hospital or clinic, a dairy farm, and a good number of welfare homes and appropriate industries. Thus, the 
 M aster Unit serves as a model community by which the public may practically experience Prout 
 in action. Without this demonstration, Prout would be only an interesting theory, and most 
 people would not believe that the implementation of Prout is truly possible. The M aster Unit is 

@@ -128,8 +128,6 @@ Of course. Do you suggest any other place?
 {{< /r >}}
 <!-- " he said. "Did your wife visit you yet?" "Yeah." 
 
-" 
-
 "You mean you'll go home then?" 
 
 "No, no, that'll be perfect."  -->
@@ -192,4 +190,3 @@ When I was thinking what to do with this money, I suddenly thought of you. I've 
 Inside was a check for $210, exactly enough money for the next 3 months rent. 
 
 As I walked to the real estate office I laughed. Good joke. Baba.
-

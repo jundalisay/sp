@@ -25,9 +25,9 @@ Yes, she has a small problem. But there's no need to worry. Go out and softly ut
 
 After Bodhishvar left the room, Baba said to us:
 
-{{< q a="Baba" >}}
+{{< l a="Baba" >}}
 In her past life, she committed an action which terribly disturbed her mind. Now she is desperate for any kind of contact she can have with me. Though Bodhishvar will succeed in assuaging her this time, her intense yearning will express itself again when given the opportunity."
-{{< /q >}}
+{{< /l >}}
 
 
 In that moment the screaming ceased. 
@@ -69,24 +69,18 @@ snoring. Accha, I thought.
 ### Devotees get their way 
 
 Everyone was talking about it: "We've got to convince Baba to hold DMC." 
-"If our devotion is strong enough. He'll have to give DMC." "Timmern is the 
-best place for DMC, so why not?" 
 
-Perhaps Baba had started it all when He commented this morning, "Our 
-Timmern program is like a mini-Fiesch." 
+"If our devotion is strong enough. He'll have to give DMC." "Timmern is the best place for DMC, so why not?" 
 
-Whatever the cause, the excitement was so contagious that no one could 
-avoid it. 
+Perhaps Baba had started it all when He commented this morning, "Our Timmern program is like a mini-Fiesch." 
 
-As we came out for His evening field walk, the Margis crowded both sides 
-of the sidewalk, leaning as close to Him as the security volunteers permitted. 
+Whatever the cause, the excitement was so contagious that no one could avoid it. 
+
+As we came out for His evening field walk, the Margis crowded both sides of the sidewalk, leaning as close to Him as the security volunteers permitted. 
+
 Like a faithful shield. I was close on His heels. 
 
-Baba was shining, immaculate in His white dress. In a clear voice that 
-everyone could hear. He said, "It seems a fine night for DMC..." As the Margis 
-yelled " Victory to Baba!" and other exclamations of pleasure in reaction to 
-Baba's words. He continued speaking in an undertone that only I could hear: 
-"...they say." 
+Baba was shining, immaculate in His white dress. In a clear voice that everyone could hear. He said, "It seems a fine night for DMC..." As the Margis yelled " Victory to Baba!" and other exclamations of pleasure in reaction to Baba's words. He continued speaking in an undertone that only I could hear: "...they say."
 
 I turned toward the Margis, thinking to clear up the misunderstanding, but 
 they were so excited they would not have heard me. In the same moment, I saw 
