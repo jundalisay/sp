@@ -9,11 +9,9 @@ icon: "Social Superphysics"
 ---
 
 
-{{< q a="Confucius" >}}
+{{< q a="Confucius" c="Analects" >}}
 Tsz-chang asked: Is it possible to forecast the state of the country 10 generations from now?<br><br>Confucius: The Yin dynasty adopted the rules and manners of the Hu line of kings. It is possible to tell whether it retrograded or advanced. The Chow line has followed the Yin and adopted its ways. Whether there has been deterioration or improvement may also be determined.  Some other line may take up in turn those of Chow. If this process goes on for 100 generations, then the result may be known.
-<cite>Analects</cite>
 {{< /q >}}
-
 
 
 Since the 2008 from the US Presidential elections and 2013 from the Greek Debt Crisis, we've been making predictions on society and economics as an implentation of Supersociology.
