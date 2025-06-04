@@ -18,15 +18,23 @@ As to this, astronomers and philosophers have discovered another very high spher
 {{< /r >}}
 
 
-SAGR. But when all things can proceed in most perfect harmony without Introducing other huge and unknown spheres; without other movements or imparted speedings; with every sphere having only its simple motion, unmixed with contrary movements, and with everything taking place in the same direction, as must be the case if all depend upon a single principle, why reject the means of doing this, and give assent to such outlandish things and such labored conditions? 
+
+{{< r a="Sagredo" >}}
+But when all things can proceed in most perfect harmony without Introducing other huge and unknown spheres; without other movements or imparted speedings; with every sphere having only its simple motion, unmixed with contrary movements, and with everything taking place in the same direction, as must be the case if all depend upon a single principle, why reject the means of doing this, and give assent to such outlandish things and such labored conditions? 
+{{< /r >}}
+
 
 SIMP. The point is to find a simple and ready means.
 
-SAGR. This seems to me to be found, and quite elegantly. Make the earth the primum mobile; that is, make it revolve upon itself in twenty-four hours in the same way as all the other spheres. Then, without its imparting such a motion to any other planet or star, all of them will have their risings, settings, and in a word all their other appearances.
+
+{{< r a="Sagredo" >}}
+This seems to me to be found, and quite elegantly. Make the earth the primum mobile; that is, make it revolve upon itself in twenty-four hours in the same way as all the other spheres. Then, without its imparting such a motion to any other planet or star, all of them will have their risings, settings, and in a word all their other appearances.
+{{< /r >}}
+
 
 
 {{< r a="Simplecio" >}}
-SIMP. The crucial thing is being able to move the earth without causing a thousand inconveniences.
+The crucial thing is being able to move the earth without causing a thousand inconveniences.
 {{< /r >}}
 
 
@@ -72,27 +80,47 @@ Because the same thing cannot be said to be equally well done With itself, the a
 
 
 
-SAGR. If we do not want to repeat what happened yesterday, please get back to the point; and you, Simplicio, begin producing those difficulties that seem to you to contradict this new arrangement of the universe.
+{{< r a="Sagredo" >}}
+If we do not want to repeat what happened yesterday, please get back to the point; and you, Simplicio, begin producing those difficulties that seem to you to contradict this new arrangement of the universe.
+{{< /r >}}
 
 
 {{< r a="Simplecio" >}}
-The arrangement is not new; rather, it is most ancient, as is shown by Aristotle refuting it, the following being his refutations :
+The arrangement is most ancient, as is shown by Aristotle refuting it:
 
-"First, whether the earth is moved either in itself, being placed in the center, or in a circle, being removed from the center, it must be moved with such motion by force, for this is not its natural motion. Because if it were, it would belong also to all its particles. But every one of them is moved along a straight line toward the center. Being thus forced and preternatural, it cannot be everlasting. But the world order is eternal; therefore, etc.
+1. Whether the earth is moved in itself in the center, or in a circle moved from the center, the earth must be moved with such motion by force, for this is not its natural motion. 
 
-"Second, it appears that all other bodies which move circularly lag behind, and are moved with more than one motion, except the primum mohile. Hence it would be necessary that the earth be moved also with two motions; and if that were so, there would have to be variations in the fixed stars. But such are not to be seen; rather, the same stars always rise and set in the same place without any vaniations.
+Because if it were, it would belong also to all its particles. But every one of them is moved along a straight line toward the center. Being thus forced and preternatural, it cannot be everlasting. But the world order is eternal; therefore, etc.
 
-"Third, the natural motion of the parts and of the whole is toward the center of the universe, and for that reason also it rests therein." He then discusses the question whether the motion of the parts is toward the center of the universe or merely toward that of the earth, concluding that their own tendency is to go toward the former, and that only accidentally do they go toward the latter, which question was argued at length yesterday.
+2. All other bodies which move circularly lag behind, and are moved with more than one motion, except the primum mohile. 
 
-Finally he strengthens this with a fourth argument taken from experiments with heavy bodies which, failing from a height, go perpendicularly to the surface of the earth. Similarly, projectiles thrown vertically upward come down again perpendicularly by the same line, even though they have been thrown to immense height. These arguments are necessary proofs that their motion is toward the center of the earth, which, without moving in the least, awaits and receives them.
+Hence it would be necessary that the earth be moved also with two motions; and if that were so, there would have to be variations in the fixed stars. 
 
-He then hints at the end that astronomers adduce other reasons in confirmation of the same conclusions--that the earth is in the center of the universe and immovable. A single one of these is that all the appearances seen In the movements of the stars correspond with this central position of the earth, which correspondence they would not otherwise possess. The others, adduced by Ptolemy and other astronomers, I can give you now if you like; or after you have said as much as you want to In reply to these of Aristotle.
+But such are not to be seen; rather, the same stars always rise and set in the same place without any vaniations.
+
+3. The natural motion of the parts and of the whole is toward the center of the universe, and for that reason also it rests therein." 
+
+He then discusses the question whether the motion of the parts is toward the center of the universe or merely toward that of the earth, concluding that their own tendency is to go toward the former, and that only accidentally do they go toward the latter, which question was argued at length yesterday.
+
+Finally he strengthens this with a fourth argument taken from experiments with heavy bodies which, failing from a height, go perpendicularly to the surface of the earth. 
+
+Similarly, projectiles thrown vertically upward come down again perpendicularly by the same line, even though they have been thrown to immense height. These arguments are necessary proofs that their motion is toward the center of the earth, which, without moving in the least, awaits and receives them.
+
+He then hints at the end that astronomers adduce other reasons in confirmation of the same conclusions--that the earth is in the center of the universe and immovable. 
+
+A single one of these is that all the appearances seen In the movements of the stars correspond with this central position of the earth, which correspondence they would not otherwise possess. The others, adduced by Ptolemy and other astronomers, I can give you now if you like; or after you have said as much as you want to In reply to these of Aristotle.
 {{< /r >}}
 
 
 
 {{< l a="Salviati" >}}
-The arguments produced on this matter are of two kinds. Some pertain to terrestrial events without relation to the stars, and others are drawn from the appearances and observations of celestial things. Aristotle's arguments are drawn mostly from the things around us, and he leaves the others to the astronomers. Hence it will be good, if it seems so to you, to examine those taken from earthly experiments, and thereafter we shall see to the other sort. And since some such arguments are adduced by Ptolemy, Tycho, and other astronomers and philosophers, in addition to their accepting, confirming, and supporting those of Aristotle, these may all be taken together in order not to have to give the same or similar answers twice. Therefore. Simplicio, present them, if you will; or, if you want me to relieve you of that burden, I am at your service.
+The arguments produced on this matter are of two kinds. Some pertain to terrestrial events without relation to the stars, and others are drawn from the appearances and observations of celestial things. 
+
+Aristotle's arguments are drawn mostly from the things around us, and he leaves the others to the astronomers. 
+
+Hence it will be good, if it seems so to you, to examine those taken from earthly experiments, and thereafter we shall see to the other sort. And since some such arguments are adduced by Ptolemy, Tycho, and other astronomers and philosophers, in addition to their accepting, confirming, and supporting those of Aristotle, these may all be taken together in order not to have to give the same or similar answers twice. 
+
+Therefore, Simplicio, present them, if you will; or, if you want me to relieve you of that burden, I am at your service.
 {{< /l >}}
 
 
@@ -102,27 +130,36 @@ It will be better for you to bring them up, for having given them greater study 
 {{< /r >}}
 
 
-SALV. But is it not your opinion, and that of the author and of Aristotle and Ptolemy and all their followers, that earth, water, and air are equally of such a nature as to be constituted immovable about the center?
+{{< l a="Salviati" >}}
+But you, the author, and Aristotle, Ptolemy and all their followers think that earth, water, and air are equally of such a nature as to be constituted immovable about the center.
 
-SIMP. That is taken as an irrefutable truth.
+Then the argument for the different natures of these elements and elemental things is not taken from this common natural condition of rest with respect to the center, but must be learned by taking notice of other qualities which they do not have in common. Therefore whoever should take from the elements only this common state of rest, and leave them all their other actions, would not in the least obstruct the road which leads us to an awareness of their essences.
 
-SALV. Then the argument for the different natures of these elements and elemental things is not taken from this common natural condition of rest with respect to the center, but must be learned by taking notice of other qualities which they do not have in common. Therefore whoever should take from the elements only this common state of rest, and leave them all their other actions, would not in the least obstruct the road which leads us to an awareness of their essences.
+Now Copernicus takes from them nothing except this common rest, leaving to them weight or lightness; motion up or down, slow or fast; rarity and density; the qualities of beat, cold, dryness, moistness; and, in a word, everything else. 
 
-Now Copernicus takes from them nothing except this common rest, leaving to them weight or lightness; motion up or down, slow or fast; rarity and density; the qualities of beat, cold, dryness, moistness; and, in a word, everything else. Hence no such absurdity as this author imagines exists anywhere in the Copernican position. Agreement in an identical motion means neither more nor less than agreement in an identical state of rest, so far as any diversification or nondiversification of natures is concerned. Now tell me if he has other opposing arguments.
+Hence no such absurdity as this author imagines exists anywhere in the Copernican position. Agreement in an identical motion means neither more nor less than agreement in an identical state of rest, so far as any diversification or nondiversification of natures is concerned. Now tell me if he has other opposing arguments.
+{{< /l >}}
 
 
 {{< r a="Simplecio" >}}
-There follows a fourth objection, taken once again from an observation of nature. It is that bodies of the same kind have motions which agree in kind, or else they agree in rest. But in Copernicus's theory, bodies agreeing in kind and quite similar to each other would have great discrepancies as to motion, or even be diametrically opposed. For stars, so very similar to one another, would nevertheless have such dissimilar motions that six planets would perpetually go around, while the sun and the fixed stars would remain forever unmoved.
+There follows a fourth objection, taken once again from an observation of nature. 
+
+It is that bodies of the same kind have motions which agree in kind, or else they agree in rest. But in Copernicus's theory, bodies agreeing in kind and quite similar to each other would have great discrepancies as to motion, or even be diametrically opposed. 
+
+For stars, so very similar to one another, would nevertheless have such dissimilar motions that six planets would perpetually go around, while the sun and the fixed stars would remain forever unmoved.
 {{< /r >}}
 
 
-SALV. The form of this argumentation appears to me valid, but I believe that its content or its application is at fault, and if the author were to persist in this assumption the consequences would run directly counter to his. The method of argument is this:
+{{< l a="Salviati" >}}
+The form of this argumentation appears to me valid, but I believe that its content or its application is at fault, and if the author were to persist in this assumption the consequences would run directly counter to his. The method of argument is this:
 
 Among world bodies, there are six which perpetually move; these are the six planets. Of the others (that is, the earth, the sun, and the fixed stars) the question is which move and which stand still. If the earth stands still, the sun and the fixed stars necessarily move, and it may also be that the sun and the fixed stars are motionless if the earth is moving. This matter being in question, we inquire which ones may more suitably have motion attributed to them, and which ones rest.
 
 Common sense says that motion ought to be deemed to belong to those which agree better in kind and in essence with the bodies which unquestionably do move, and rest to those which differ most from them. Eternal rest and perpetual motion being very different events, it is evident that the nature of an ever-moving body must be quite different from that of one which is always fixed. Let us therefore find out, when in doubt about motion and rest, whether by way of some other relevant condition we can investigate which--the earth, or the sun and the fixed stars--more resembles those bodies which are known to be movable,
 
 Now behold how nature, favoring our needs and wishes, presents us with two striking conditions no less different than motion and rest; they are lightness and darkness--that is, being brilliant by nature or being obscure and totally lacking in light. Therefore bodies shining with internal and external splendor are very different in nature from bodies deprived of all light. Now the earth is deprived of light; most splendid in itself is the sun, and the fixed stars are no less so. The six moving planets entirely lack light, like the earth; therefore their essence resembles the earth and differs from the sun and the fixed stars. Hence the earth moves, and the sun and the stellar sphere are motionless.
+{{< /l >}}
+
 
 
 {{< r a="Simplecio" >}}

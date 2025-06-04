@@ -3,7 +3,7 @@ heading: Letter 3
 title: "Hypothesis for explaining Thunder-Gusts"
 date: 2024-12-29
 weight: 31
-description: EXPERIMENTS AND OBSERVATIONS ON ELECTRICITY, MADE AT Philadelphia in America
+description: Experiments And Observations On Electricity, Made At Philadelphia In America
 c: "firebrick"
 ---
 

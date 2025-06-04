@@ -11,68 +11,42 @@ c: "darkgoldenrod"
 
 
 {{< l a="Salviati" >}}
-To tell the truth, I have not made such long and careful observations that I can qualify
-as an authority on the facts of this matter; but certainly I wish to do so, and then to see whether
-I can once more succeed in reconciling what experience presents to us with what Aristotle
-teaches. 
+To tell the truth, I have not made such long and careful observations that I can qualify as an authority on the facts of this matter; but certainly I wish to do so, and then to see whether I can once more succeed in reconciling what experience presents to us with what Aristotle teaches.
 
 For obviously two truths cannot contradict one another.
 
 Whenever you wish to reconcile what your senses show you with the soundest
-teachings of Aristotle, you will have no trouble at all. Does not Aristotle say that because of
-the great distance, celestial matters cannot be treated very definitely?
+teachings of Aristotle, you will have no trouble at all. Does not Aristotle say that because of the great distance, celestial matters cannot be treated very definitely?
 
 Does he not also declare that what sensible experience shows ought to be preferred over any argument, even one that seems to be extremely well founded? And does he not say this positively and without a bit of hesitation?
 
-Then of the two propositions, both of them Aristotelian doctrines, the second -- which
-says it is necessary to prefer the senses over arguments -- is a more solid and definite doctrine
-than the other, which holds the heavens to be inalterable. 
+Then of the two propositions, both of them Aristotelian doctrines, the second -- which says it is necessary to prefer the senses over arguments -- is a more solid and definite doctrine than the other, which holds the heavens to be inalterable. 
 
-Therefore it is better Aristotelian
-philosophy to say "Heaven is alterable because my senses tell me so," than to say, "Heaven is
-inalterable because Aristotle was so persuaded by reasoning. Add to this that we possess a
-better basis for reasoning about celestial things than Aristotle did. 
+Therefore it is better Aristotelian philosophy to say "Heaven is alterable because my senses tell me so," than to say, "Heaven is inalterable because Aristotle was so persuaded by reasoning. Add to this that we possess a better basis for reasoning about celestial things than Aristotle did.
 
-He admitted such
-perceptions to be very difficult for him by reason of the distance from his senses, and
-conceded that one whose senses could better represent them would be able to philosophize
-about them with more certainty. 
+He admitted such perceptions to be very difficult for him by reason of the distance from his senses, and conceded that one whose senses could better represent them would be able to philosophize about them with more certainty. 
 
-Now we, thanks to the telescope, have brought the heavens
-thirty or forty times closer to us than they were to Aristotle, so that we can discern many
-things in them that he could not see; among other things these sunspots, which were absolutely
-invisible to him. Therefore we can treat of the heavens and the sun more confidently than
-Aristotle could.
+Now we, thanks to the telescope, have brought the heavens 30 or 40 times closer to us than they were to Aristotle, so that we can discern many things in them that he could not see; among other things these sunspots, which were absolutely invisible to him. Therefore we can treat of the heavens and the sun more confidently than Aristotle could.
 {{< /l >}}
 
 
-SAGR. I can put myself in Simplicios place and see that he is deeply moved by the
-overwhelming force of these conclusive arguments. 
 
-But seeing on the other hand the great
-authority that Aristotle has gained universally; considering the number of famous interpreters
-who have toiled to explain his meanings; and observing that the other sciences, so useful and
-necessary to mankind, base a large pan of their value and reputation upon Aristotle's credit;
-Simplicio is confused and perplexed, and I seem to hear him say, "Who would there be to
-settle our controversies if Aristotle were to be deposed? What other author should we follow in
-the schools, the academies, the universities? What philosopher has written the whole of natural
-philosophy, so well arranged, without omitting a single conclusion? Ought we to desert that
-structure under which so many travelers have recuperated?
+{{< r a="Sagredo" >}}
+Aristotle has great authority universally. The other sciences base most of their value and reputation on Aristotle's credit.
 
-Should we destroy that haven, that
-Prytaneum (note: Greek public hall where statesmen, heroes, and dignitaries were honored and entertained.)
-where so many scholars have taken refuge so comfortably; where, without exposing
-themselves to the inclemencies of the air, they can acquire a complete knowledge of the
-universe by merely turning over a few pages? Should that fort be leveled where one may abide
-in safety against all enemy assaults?"
+Simplicio is confused and perplexed, and I seem to hear him say, "Who would there be to settle our controversies if Aristotle were to be deposed? 
 
-I pity him no less than I should some fine gentleman who, having built a magnificent palace at
-great trouble and expense, employing hundreds and hundreds of artisans, and then beholding it
-threatened with ruin because of poor foundations, should attempt, in order to avoid the grief of
-seeing the walls destroyed, adorned as they are with so many lovely murals; or the columns
-fall, which sustain the superb galleries, or the gilded beams; or the doors spoiled, or the
-pediments and the marble cornices, brought in at so much cost -- should attempt, I say, to
-prevent the collapse with chains, props, iron bars, buttresses, and shores.
+What other author should we follow in the schools, the academies, the universities? 
+
+What philosopher has written the whole of natural philosophy, so well arranged, without omitting a single conclusion? Ought we to desert that structure under which so many travelers have recuperated?
+
+Should we destroy that haven, that Prytaneum (note: Greek public hall where statesmen, heroes, and dignitaries were honored and entertained.) where so many scholars have taken refuge so comfortably; where, without exposing themselves to the inclemencies of the air, they can acquire a complete knowledge of the universe by merely turning over a few pages? 
+
+Should that fort be leveled where one may abide in safety against all enemy assaults?"
+
+I pity him no less than I should some fine gentleman who, having built a magnificent palace at great trouble and expense, employing hundreds and hundreds of artisans, and then beholding it threatened with ruin because of poor foundations, should attempt, in order to avoid the grief of seeing the walls destroyed, adorned as they are with so many lovely murals; or the columns fall, which sustain the superb galleries, or the gilded beams; or the doors spoiled, or the pediments and the marble cornices, brought in at so much cost -- should attempt, I say, to prevent the collapse with chains, props, iron bars, buttresses, and shores.
+{{< /r >}}
+
 
 
 {{< l a="Salviati" >}}

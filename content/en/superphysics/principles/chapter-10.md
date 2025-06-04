@@ -28,6 +28,8 @@ Ancient Greek | The One | The Whole or The Other
 Hindus | Nirguna Brahma | Saguna Brahma
 Buddhists | Sunya | Brahma 
 Taoism | Tao | tao 
+Essassani | The One | All There Is
+
 
 
 Notice how our classification is existence-based, being divided into:
@@ -42,13 +44,24 @@ This is very different from the Judeo-Christian God, Yahweh, Allah, and even the
 - The Christian God is very forgiving and generous. This mirrors the feelings of Jews under the wealthy Romans 
 - The Islamic Allah is very commanding. This mirrors the feelings of Arabs rallying the tribes against the Byzantines and Persians.
 
+
+## God as the Anunnaki
+
 The only way to explain the weirdness of the Judeo-Christian God is to connect it to the Anunnaki which is the alien species that created humans. This connects the Bible, Torah, and Quran to the texts of the Babylonians and Sumerians, since reality is a continuous wave. 
 
 The Anunnaki are physical beings and so are Negative. 
 
-To get a true view of the Supreme, separate from superior aliens, we follow the 'critical feeling' techniques of Buddhism and Hinduism of catching and isolating our feelings so that we can see Existence in Its true form, without the bias of feeling.
 
-This allows us to classify these descriptions of the Supreme according to whether they are more Positive or Negative.
+![Anunnaki](/photos/medieval/anu.jpg)
+
+
+
+To get a true view of the Supreme, separate from aliens, we follow the 'critical feeling' techniques of Buddhism and Hinduism of catching and isolating our feelings.
+
+This allows us to:
+- see Existence in Its true form, without the bias of feeling
+- classify these descriptions of the Supreme as either Positive or Negative.
+
 
 Entity | Positive Force | Negative Force | Absolute (Neither Positive nor Negative)
 --- | --- | --- | ---
@@ -81,7 +94,7 @@ The believers of The One say that The One is the cause of substance [aether].
 {{< /q >}}
 
 
-The Supreme Entity which is biased towards creation. This bias comes in the form of the Positive Force slightly dominating the Negative Force in the long run. 
+The Supreme Entity which is biased towards creation. This bias comes in the form of the Positive Force slightly dominating the Negative Force in the long run.
 
 The Positive keeps our universe in Existence whereas the Negative keeps that Existence dynamic. 
 
