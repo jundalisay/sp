@@ -14,7 +14,9 @@ No one knows where he's gone, or at least no one says.
 
 Ten days later.
 
-3 days ago my trainer left India. While departing, he announced his intention to get married. It seems that he's been planning this move for a long time, having already arranged his passport and visa. 
+3 days ago my trainer left India. 
+
+While departing, he announced his intention to get married. It seems that he's been planning this move for a long time, having already arranged his passport and visa. 
 
 The Dada who had tried the most to help him commented to me:
 

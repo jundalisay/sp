@@ -30,7 +30,17 @@ But it is not possible for the society to fix the minimum limit in all spheres. 
 
 That is why it will be easier for an individual to be established in aparigraha, if the individual and the society work together cooperatively. Those items of personal requirement which are left to the discretion of the individual largely depend on the conception of that individual’s happiness and comforts.
 
-This also changes according to time, person and place. For example, one person may easily bear certain physical hardships, while another person under the same circumstances may possibly die. Under these circumstances the latter requires greater comforts of life than the former to remove his or her difficulty and this will not be against aparigraha. The place is to be considered also. In the summer season in India woollen clothing is unnecessary, but it is a necessity in Siberia during that time. Time should be considered also. The minimum necessity of an ordinary person today is not limited to the minimum necessity of an ordinary person in prehistoric age. The reason is that the objects of pleasure are more easily available today and will be available even more easily in the future. Therefore, while practising aparigraha, if the time factor is neglected, one will become unfit for social life and will have to withdraw from the physical world. Advocating the use of [raw sugar], i.e., guŕ, in the age of sugar, and bullock-cart in the age of railways, has no meaning in the practice of aparigraha. Today for an ordinary person whose time is not more valuable than that of another, travelling by aeroplane is definitely contrary to aparigraha, whereas travelling by rail is certainly not against aparigraha.
+This also changes according to time, person and place. For example, one person may easily bear certain physical hardships, while another person under the same circumstances may possibly die. Under these circumstances the latter requires greater comforts of life than the former to remove his or her difficulty and this will not be against aparigraha. 
+
+The place is to be considered also. In the summer season in India woollen clothing is unnecessary, but it is a necessity in Siberia during that time. 
+
+Time should be considered also. The minimum necessity of an ordinary person today is not limited to the minimum necessity of an ordinary person in prehistoric age. The reason is that the objects of pleasure are more easily available today and will be available even more easily in the future. 
+
+Therefore, while practising aparigraha, if the time factor is neglected, one will become unfit for social life and will have to withdraw from the physical world. 
+
+Advocating the use of [raw sugar], i.e., guŕ, in the age of sugar, and bullock-cart in the age of railways, has no meaning in the practice of aparigraha. 
+
+Today for an ordinary person whose time is not more valuable than that of another, travelling by aeroplane is definitely contrary to aparigraha, whereas travelling by rail is certainly not against aparigraha.
 
 That is why I said that the society may help individuals to be established in aparigraha by setting a standard in certain spheres of life. But the complete establishment in aparigraha ultimately depends on the individual.
 

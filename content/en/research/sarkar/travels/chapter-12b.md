@@ -25,7 +25,7 @@ Baba laughed. I felt that Baba knew exactly who that shrew had been in a past li
 
 {{< l a="Baba" >}}
 Dharmavedananda, what is the name of this sea? Why was it called that?
-{{< l a="Baba" >}}
+{{< /l >}}
 
 
 "Mediterranean, Baba. It means middle-earth.
@@ -111,16 +111,23 @@ Sweet lemons can grow on the rocky soil here, not oranges. What is the differenc
 
 The skin and grain of the orange are loose. But you cannot easily remove the skin of the lemon. Amongst lemons are sweet lemons as big as oranges, which can be conveniently grown on rocky soil. The lower portion (He pointed downhill) is suitable for oranges. Up here is good for sweet lemon.
 
-Is the ground black or a bit red? It is latterite, a bit red—looking like brick. There is much calcium in it. It is suitable for sweet lemons and grapes. Vineyards are good in the hill area because of the latterite soil. Is this area more engaged in agriculture or horticulture? Horticulture. You may get proper saplings from Israel of sweet lemons. Are there any pineapples grown here?
-{{< /l >}}
+Is the ground black or a bit red? It is latterite, a bit red—looking like brick. 
 
+There is much calcium in it. It is suitable for sweet lemons and grapes.
 
-"No, Baba," someone said. 
+Vineyards are good in the hill area because of the latterite soil. Is this area more engaged in agriculture or horticulture? Horticulture. 
 
-{{< l a="Baba" >}}
-Pineapples may also be successfully grown here in the summer season. The winter variety may not grow well here because pineapples can not stand chilly climate.
+You may get proper saplings from Israel of sweet lemons. 
 
-There is a ready market for these fruits in north Europe. Now they are imported from far away. In the winter also you can grow them in glass houses. 
+There are no pineapples grown here.
+
+But pineapples may also be successfully grown here in the summer season. 
+
+The winter variety may not grow well here because pineapples can not stand chilly climate.
+
+There is a ready market for these fruits in north Europe. 
+
+Now they are imported from far away. In the winter also you can grow them in glass houses. 
 
 This is particularly applicable in southern and eastern Spain, and southern Portugal—taking advantage of the fine weather during the summer.
 {{< /l >}}

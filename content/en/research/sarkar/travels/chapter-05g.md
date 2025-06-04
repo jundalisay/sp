@@ -35,7 +35,7 @@ A couple hours later, Ravindra and Sadhana came home. I told them:
 
 {{< l a="Dharmavedanda" >}}
 In the meditation room, I heard people singing kiirtan again and again, but nobody was there.
-{{< l a="Dharmavedanda" >}}
+{{< /l >}}
 
 They immediately started laughing. 
 
@@ -70,9 +70,23 @@ by harmonizing the glands, hormonal secretions, blood circulation and nerves.
 
 ### Apparent injustice 
 
-Over the last several days my trainer has been complaining to Praveda and me that his greatness is misunderstood by others, and that many Dadas are jealous of his spiritual accomplishments. It's true that his behavior is apparently eccentric: suddenly inducing high states of meditation in some of the foreigners who sit near him, frequently secluding himself alone for many hours in a locked room, eating vast amounts of food, and being so moody that he changes his plans every day. He often denies us classes due to "mistakes" which we never committed. Nevertheless I believe he is highly elevated, and that each of his strange actions have some underlying benevolent hidden purpose.
+Over the last several days my trainer has been complaining to Praveda and me that his greatness is misunderstood by others, and that many Dadas are jealous of his spiritual accomplishments. 
 
-The attack by the other Dadas has now gone to an extreme. They have long been requesting him to move away from the foreigners' quarters, and stay in the main central office, but he has always refused. Today two workers picked up all his belongings, and transferred them to a room in the central office. He was adamant that he would not shift, and remained in his room which was empty of everything except the blanket on which he sat.
+It's true that his behavior is apparently eccentric: suddenly inducing high states of meditation in some of the foreigners who sit near him, frequently secluding himself alone for many hours in a locked room, eating vast amounts of food, and being so moody that he changes his plans every day. 
+
+He often denies us classes due to "mistakes" which we never committed. 
+
+Nevertheless I believe:
+- he is highly elevated
+- each of his strange actions have some underlying benevolent hidden purpose.
+
+The attack by the other Dadas has now gone to an extreme. 
+
+They have long been requesting him to move away from the foreigners' quarters, and stay in the main central office, but he has always refused.
+
+Today 2 workers picked up all his belongings, and transferred them to a room in the central office. 
+
+He was adamant that he would not shift, and remained in his room which was empty of everything except the blanket on which he sat.
 
 A few hours later they also physically carried him away. 
 
@@ -81,25 +95,38 @@ I'm astonished at this injustice!
 
 ## A decisive meeting 
 
-We have been regularly visiting our trainer in his new room. He 
-continuously talks about the wrongs being done to him, how immature the 
-other workers are, and how much they have yet to grow in their spiritual 
-insight. Of course, I agree with him. 
+We have been regularly visiting our trainer in his new room.
+
+He continuously talks about:
+- the wrongs being done to him
+- how immature the other workers are
+- how much they have yet to grow in their spiritual insight. 
+
+I agree with him. 
 
 Tonight I heard that a small committee was discussing what punishment he 
-should be given. I could not believe it and became angry when others told me it 
-was suspected he has indulged in conduct which was wrong for an acharya. I 
-felt it my duty to vouch for his innocence. The committee meeting was on the 
-top floor of the four-story building. I ran up, anxious to arrive before it was too 
-late. Panting, and after barely knocking, I opened the door. Another shock. 
-Instead of three or four persons sitting there, about 50 or 60 orange-clothed 
-Dadas turned their faces toward me. They were also surprised at my intrusion. 
+should be given. 
+
+<!-- I could not believe it and became angry when others told me it was suspected he has indulged in conduct which was wrong for an acharya.  -->
+
+I felt it my duty to vouch for his innocence. The committee meeting was on the top floor of the four-story building. 
+
+<!-- I ran up to the meeting.
+
+ anxious to arrive before it was too late. 
+
+Panting, and after barely knocking, I opened the door. Another shock.  -->
+
+
+Instead of 3-4 persons sitting there, about 50 or 60 orange-clothed Dadas turned their faces toward me. They were also surprised at my intrusion. 
+
 
 "Excuse me...ah, you're having a meeting..." 
 
 
-"Yes, of course it's a meeting," the gray-haired Dada standing in front said, 
-gently smiling. "What do you like to say?" 
+"Yes, of course it's a meeting," the gray-haired Dada standing in front said, gently smiling. "What do you like to say?" 
+
+
 
 "Ah...well...pardon me but I heard you were discussing the matter of my 
 trainer." 
@@ -109,18 +136,17 @@ more angry. How dare they take my trainer's case as a joke?
 
 "Go ahead," the elderly Dada said, also chuckling, "and speak your mind." 
 
-Determined to make my point. I blurted out, "I have been with him hours 
-every day, and I am sure that these charges are all wrong. His character is pure 
-and blemishless, and he couldn't make such a mistake." 
+Determined to make my point. I blurted out, 
 
-The Dadas exploded with laughter. Some even rolled on the ground, 
-laughing so hard. I was utterly confused by their response. 
+"I have been with him hours every day, and I am sure that these charges are all wrong. His character is pure  and blemishless, and he couldn't make such a mistake." 
+
+The Dadas exploded with laughter. Some even rolled on the ground, laughing so hard. I was utterly confused by their response. 
 
 "Thank you very much," said the grinning elderly Dada. "We will keep your 
-opinion in mind." The laughter increased, and I walked out of the room, more 
-frustrated than ever. 
+opinion in mind." The laughter increased, and I walked out of the room, more frustrated than ever. 
 
 An hour later all the workers came downstairs. One of them with whom I 
-am close, came to me and said. "Brother, we were not talking about your 
-trainer. That was a general finance meeting." 
+am close, came to me and said. 
+
+"Brother, we were not talking about your trainer. That was a general finance meeting." 
 
