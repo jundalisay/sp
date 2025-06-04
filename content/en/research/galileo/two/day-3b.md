@@ -1,10 +1,22 @@
+---
+heading: Day 4
+title: "Two Systems"
+weight: 4
+description: ""
+a: "Galileo"
+c: "darkgoldenrod"
+---
 
 
 
 {{< l a="Salviati" >}}
 This author had too little ammunition as he rose up against the assailers of the sky's inalterability, and it is with chains too fragile that he has attempted to pull the new star down from Cassiopeia in the highest heavens to these base and elemental regions.
 
-Since the great difference between the arguments of the astronomers and of this opponent of theirs seems to me to have been very clearly demonstrated, we may as well leave this point and return to our main subject. We shall next consider the annual movement generally attributed to the sun, but then, first by Aristarchus of Samos and later by Copernicus, removed from the sun and transferred to the earth. Against this position I know that Simplicio comes strongly armed, in particular with the sword and buckler of his booklet of theses or mathematical disquisitions. It will be good to commence by producing the objections from this booklet.
+Since the great difference between the arguments of the astronomers and of this opponent of theirs seems to me to have been very clearly demonstrated, we may as well leave this point and return to our main subject. 
+
+We shall next consider the annual movement generally attributed to the sun, but then, first by Aristarchus of Samos and later by Copernicus, removed from the sun and transferred to the earth.
+
+Against this position I know that Simplicio comes strongly armed, in particular with the sword and buckler of his booklet of theses or mathematical disquisitions. It will be good to commence by producing the objections from this booklet.
 {{< /l >}}
 
 
@@ -12,7 +24,9 @@ SIMP. If you don't mind, I am going to leave those for the last, since they were
 
 
 {{< l a="Salviati" >}}
-Then you had better take up in order, in accordance with our previous procedure, the contrary arguments by Aristotle and the other ancients. I also shall do so, in order that nothing shall be left out or escape careful consideration and examination. Likewise Sagredo, with his quick wit, shall interpose his thoughts as the spirit moves him.
+Then you had better take up in order, in accordance with our previous procedure, the contrary arguments by Aristotle and the other ancients.
+
+I also shall do so, in order that nothing shall be left out or escape careful consideration and examination. Likewise Sagredo, with his quick wit, shall interpose his thoughts as the spirit moves him.
 {{< /l >}}
 
 
@@ -27,30 +41,49 @@ SIMP. The first and greatest difficulty is the repugnance and incompatibility be
 
 
 {{< l a="Salviati" >}}
-Very well argued. There can be no doubt that anyone who wants to have the earth move along the circumference of a circle must first prove that it is not at the center of that circle. The next thing is for us to see whether the earth is or is not at that center around which I say it turns, and in which you say it is situated. And prior to this, it is necessary that we declare ourselves as to whether or not you and I have the same concept of this center. Therefore tell me what and where this center is that you mean.
+If the earth moves along the circumference of a circle then it is not at the center of that circle. 
+
+The next thing is for us to see whether the earth is or is not at that center around which I say it turns, and in which you say it is situated.
+
+What is this center?
 {{< /l >}}
 
 
-SIMP. I mean by "center," that of the universe; that of the world; that of the stellar sphere; that of the heavens.
+SIMP. "Center" means the center of the universe, the world, the stellar sphere, the heavens.
 
 
 {{< l a="Salviati" >}}
-I might very reasonably dispute whether there is in nature such a center, seeing that neither you nor anyone else has so far proved whether the universe is finite and has a shape, or whether it is infinite and unbounded. Still, conceding to you for the moment that it is finite and of bounded spherical shape, and therefore has its center, it remains to be seen how credible it is that the earth rather than some other body is to be found at that center.
+I might very reasonably dispute whether there is in nature such a center, seeing that neither you nor anyone else has so far proved whether the universe is finite and has a shape, or whether it is infinite and unbounded. 
+
+Still, conceding to you for the moment that it is finite and of bounded spherical shape, and therefore has its center, it remains to be seen how credible it is that the earth rather than some other body is to be found at that center.
 {{< /l >}}
 
 
 SIMP. Arislotle gives a hundred proofs that the universe is finite, bounded, and spherical.
 
 {{< l a="Salviati" >}}
-Which are later all reduced to one, and that one to none at all. For if I deny him his assumption that the universe is movable all his' proofs fall to the ground, since he proves it to be finite and bounded only if the universe is movable. But in order not to multiply our disputes, I shall concede to you for the time being that the universe is finite, spherical, and has a center. And since such a shape and center are deduced from mobility, it will be the more reasonable for us to proceed from this same circular motion of world bodies to a detailed investigation of the proper position of the center. Even Aristotle himself reasoned about and decided this in the same way, making that point the center of the universe about which all the celestial spheres revolve, and at which he believed the terrestrial globe to be situated. Now tell me, Simplicio: if Aristotle had found himself forced by the most palpable experiences to rearrange in part this order and disposition of the universe, and to confess himself to have been mistaken about one of these two propositions--that is, mistaken either about putting the earth in the center, or about saying that the celestial spheres move around such a center--which of these admissions do you think that he would choose?
+Which are later all reduced to one, and that one to none at all. 
+
+For if I deny him his assumption that the universe is movable all his' proofs fall to the ground, since he proves it to be finite and bounded only if the universe is movable. 
+
+But in order not to multiply our disputes, I shall concede to you for the time being that the universe is finite, spherical, and has a center.
+
+Since such a shape and center are deduced from mobility, it will be the more reasonable for us to proceed from this same circular motion of world bodies to a detailed investigation of the proper position of the center. 
+
+Even Aristotle himself reasoned about and decided this in the same way, making that point the center of the universe about which all the celestial spheres revolve, and at which he believed the terrestrial globe to be situated. 
+
+If Aristotle had found himself forced by the most palpable experiences to rearrange in part this order and disposition of the universe, and to confess himself to have been mistaken about one of these two propositions--that is, mistaken either about putting the earth in the center, or about saying that the celestial spheres move around such a center--which of these admissions do you think that he would choose?
 {{< /l >}}
+
 
 
 SIMP. I think that if that should happen, the Peripatetics ...
 
 
 {{< l a="Salviati" >}}
-I am not asking the Peripatetics, I am asking Aristotle himself As for the former, I know very well what they would reply. They, as most reverent and most humble slaves of Aristotle, would deny all the experiences and observations in the world, and would even refuse to look at them in order not to have to admit them, and they would say that the universe remains just as Aristotle has written; not as nature would have it. For take away the prop of his authority, and with what would you have them appear in the field? So now tell me what you think Aristotle himself would do.
+I am not asking the Peripatetics, I am asking Aristotle himself As for the former, I know very well what they would reply. 
+
+They, as most reverent and most humble slaves of Aristotle, would deny all the experiences and observations in the world, and would even refuse to look at them in order not to have to admit them, and they would say that the universe remains just as Aristotle has written; not as nature would have it. For take away the prop of his authority, and with what would you have them appear in the field? So now tell me what you think Aristotle himself would do.
 {{< /l >}}
 
 
