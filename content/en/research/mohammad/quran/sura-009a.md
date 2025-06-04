@@ -2,7 +2,7 @@
 title: "Repentance (at-Tawbah)"
 heading: "Sura 9a "
 weight: 74
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

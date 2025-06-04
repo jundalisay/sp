@@ -1,5 +1,5 @@
 ---
 title: "Knowledge"
-c: "indigo"
+c: "steelblue"
 weight: 26
 ---

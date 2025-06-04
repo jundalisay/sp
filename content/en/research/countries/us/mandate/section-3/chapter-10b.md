@@ -4,12 +4,12 @@ date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "US"
+weight: 8
 author: "Daren Bakst"
 ---
 
 
-
-MISSION STATEMENT
+## MISSION STATEMENT
 
 The current mission statement as stated by the Biden Administration highlights
 the broad scope of the USDA:

@@ -20,13 +20,17 @@ In magnetism, he made the capital discovery of why magnets set in definite orien
 
 Thus, the compass was included in the general principle that the north-seeking pole of every magnet attracts the south-seeking pole of every other magnet, and repels its north-seeking pole.
 
-Descartes tried[17] to account for magnetic phenomena by his theory of vortices.
+Descartes tried to account for magnetic phenomena by his theory of vortices.
 
 A vortex of fluid matter was postulated around each magnet. The matter of the vortex enters one pole and leaves by the other. This matter was supposed to act on iron and steel by a special resistance to its motion afforded by the molecules of those substances.
 
-The Cartesian system was crude in this and many other features. But it presented definite conceptions of molecular activity and applied them to so wide a range of phenomena that it:
+The Cartesian system was crude* in this and many other features. But it presented definite conceptions of molecular activity and applied them to so wide a range of phenomena that it:
 - stimulated inquiry and
 - prepared the way for the more accurate theories. 
+
+
+{{< n n="No, the Cartesian system was not crude. In fact it was very subtle. The liquidity of space particles comes from their perpetual energetic motion which is different from the static nature of material liquids which are not energetic nor vibrating" >}}
+
 
 In its own day, it had great acceptance. 
 
@@ -47,8 +51,8 @@ The validity of his explanation of refraction was questioned by his fellow-count
 
 Fermat eventually introduced a new fundamental law, the celebrated Principle of Least Time[21]: 
 
-{{< q a="Fermat" >}}
-"Nature always acts by the shortest course".
+{{< q a="Pierre de Fermat" >}}
+Nature always acts by the shortest course
 {{< /q >}}
 
 
@@ -63,7 +67,7 @@ In 1661, he arrived at the solution.[23]
 He writes: 
 
 
-{{< q a="Fermat" >}}
+{{< q a="Pierre de Fermat" >}}
 The result of my work has been the most extraordinary, the most unforeseefter having performed all the equations, multiplications, antitheses, and other operations of my method. I have found that my principle gives exactly the same proportion for the refractions which Descartes has established.
 {{< /q >}}
 

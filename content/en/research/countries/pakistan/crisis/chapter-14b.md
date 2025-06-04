@@ -1,9 +1,11 @@
 ---
 title: The 1998 Nuclear Tests
-weight: 37
+weight: 96
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 14
+c: darkgreen
+author: Feroz Hassan Khan
 ---
 
 
@@ -92,5 +94,3 @@ The Pakistani ambition was to secure its interests along its borders, relaying o
 
 <!-- Pakistan paid and
 continues to pay a heavy price for following this policy. -->
-
-

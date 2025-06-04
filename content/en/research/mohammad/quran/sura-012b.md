@@ -2,7 +2,7 @@
 title: "Joseph in Prison"
 heading: "Sura 12b "
 weight: 88
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

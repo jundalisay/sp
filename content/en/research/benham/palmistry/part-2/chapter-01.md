@@ -4,14 +4,13 @@ title: "The Life Map"
 description: "The soul contains in itself the event that shall presently befall it. The event is only the actualizing of its thought"
 weight: 2
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 c: "deeppink"
 ---
 
 
-{{< q >}}
-"The soul contains in itself the event that shall presently befall it. The event is only the actualizing of its thought."
-<cite>Emerson</cite>
+{{< q a="Emerson" >}}
+The soul contains in itself the event that shall presently befall it. The event is only the actualizing of its thought.
 {{< /q >}}
 
 
@@ -60,15 +59,39 @@ During this period the real information about the several parts of the body poss
 Strange as it may seem, the hand has been neglected in this separating of specialties, and this, most important and wonderful part of the whole body, the organ which bears the stamp of the type to which each subject belongs, and which contains the map of his natural course through life, is only beginning to receive the attention it deserves. As palmists, we are specialists with the hand, and in reaching the point where we are to study the purpose for which lines are in the hand, we claim to have found and proved this purpose.  -->
 
 
-There is a natural course through life that every subject would follow if nothing took place to change it, and no effort was made to improve. In other words, we believe that there is a general outline of the course and limitations of the life of each subject, which exists at the beginning of that life. 
+There is a natural course through life that every subject would follow if:
+- nothing changed it, and
+- no effort was made to improve.
 
-This general course is what the subject would naturally do through life, be-cause of the combination of type qualities which he possesses. This natural life plan comprises those things which the possession of these type qualities would naturally lead him to do, the kind of health his type qualities would cause him to have, and the result is stamped upon him by the lines in his hand, which thus form a map of his natural life's course. 
+There is a general outline of the course and limitations of the life of each subject from the beginning of that life. 
 
-If no change takes place in his mental or physical attitude, and no accidents occur, this course will be followed. Thus the lines in the hand are the writing placed there by Him who created the subject, and when the key to their meaning is used, it enables us to interpret the life map and to judge what the natural course of that life will be. 
+This general course is what the subject would naturally do through life because of the combination of qualities which he possesses.
 
-Many earnest thinkers, having followed the study of the hand through Chirognomy, have halted when the lines were reached, and, while admitting that lines do enable us to read the events in a life, and being forced to acknowledge from what has been seen of actual cases that the future is often outlined, they pause for the explanation as to how this is accomplished. There are now two well established facts, which when brought into combination explain these functions of lines in the hand. 
+This natural life plan is the effect of:
+- these type qualities would naturally lead him to do
+- the kind of health his type qualities would cause him to have
 
-First, it has been positively proven that lines change in unison with changes in the mental attitude of a subject, when these changes are great enough to alter his temperament and characteristics. It is also proven that the lines respond to changes in health and constitution, that they indicate mental strength, and reveal details in the life, when certain events have produced a powerful impression on the mind of a subject. 
+The result is stamped upon him by the lines in his hand, which thus form a map of his natural life's course. 
+
+If no change takes place in his mental or physical attitude, and no accidents occur, this course will be followed.
+
+Thus the lines in the hand are the writing placed there by Him who created the subject.
+
+This enables us to interpret the life map and to judge what the natural course of that life will be. 
+
+Many thinkers who have studied Chirognomy have halted when the lines were reached.
+
+They admit that lines enable us to read the events in a life.
+
+But they are unable to explain how this is accomplished.
+
+There are now 2 well established facts that explain these functions of lines in the hand:
+
+1. Lines change in unison with changes in the mental attitude of a subject, when these changes are great enough to alter his temperament and characteristics. 
+
+2. The lines respond to changes in health and constitution.
+
+They indicate mental strength, and reveal details in the life, when certain events have produced a powerful impression on the mind of a subject. 
 
 
 Therefore we may say <!-- with positiveness --> that:

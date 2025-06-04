@@ -7,7 +7,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 16
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

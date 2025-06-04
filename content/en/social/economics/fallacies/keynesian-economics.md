@@ -6,7 +6,7 @@ description : "Chapter 2 of Keynes' General Theory exposes his corruption of Cla
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

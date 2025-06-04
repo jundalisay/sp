@@ -4,6 +4,7 @@ title: The Deduction of the Pure Conceptions of the Understanding
 description: "This critique of reason has now taught us that all its efforts to extend the bounds of knowledge are utterly fruitless"
 weight: 16
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

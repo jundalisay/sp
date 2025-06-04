@@ -11,7 +11,8 @@ icon: "Rene Descartes"
 ---
 
 
-#### 131. Do Fixed Stars Appear in Their True Places? What is the Firmament?
+
+## 131. Do Fixed Stars Appear in Their True Places? What is the Firmament?
 
 The rays coming from `Y` to the Earth incidentally hit the lines `AE` and `VX`, which represent the surfaces where these vortices terminate, and are thus refracted.
 
@@ -27,7 +28,7 @@ Moreover, the same star may appear in two or more such locations.
 These locations have not been observed to change since astronomers first noted them. This is why these surfaces are what is meant by the term "Firmament".
 
 
-#### 132. Why Comets Are Not Visible to Us When Outside Our Sky? Incidentally, Why is Charcoal Black and Its Ashes White?
+## 132. Why Comets Are Not Visible to Us When Outside Our Sky? Incidentally, Why is Charcoal Black and Its Ashes White?
 
 The light from comets are much weaker than that from fixed stars.
 

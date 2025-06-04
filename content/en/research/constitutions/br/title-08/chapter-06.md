@@ -2,7 +2,7 @@
 title: "Environment"
 heading: "Chapter 6"
 weight: 30
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

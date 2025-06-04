@@ -27,7 +27,10 @@ We observe that some particles of matter are in motion, while others are at rest
 
 We see only that material bodies can extract motion from each other.
 
-The material particles moving in Nature received their motion from an external cause that is unknown hitherto.
+
+## Impact
+
+The material particles moving in Nature received their motion from an unknown external cause.
 
 The particles are themselves indifferent to motion or rest.
 
@@ -39,12 +42,11 @@ When a moving particle of matter encounters another particle at rest, it passes 
 
 Every collision of 2 bodies (whether one is at rest and the other moves, or both are moving) is accompanied by a change in motion. 
 
-The impact causes this change.
+***The impact causes this change***.
 
 **It would be absurd to say that a particle moves another particle, given that it can't even move itself.**
 
-To identify the original cause of motion, the greatest philosopher of antiquity resorted to a Prime Mover, itself
-unmovable and indivisible.*
+To identify the original cause of motion, the greatest philosopher of antiquity resorted to a Prime Mover, itself unmovable and indivisible.*
 
 {{< n n="In Superphysics, the Prime Mover is the aether or Substance or the mind-stuff of the Supreme, which is technically different from the Supreme just as your dreams are not you." >}} 
 
@@ -61,8 +63,7 @@ A modern philosopher is unable to understand how bodies can move other bodies.
 
 So he denied that they did.
 
-He concluded that when bodies hit or press on other bodies, it is God who makes them move. Their impact
-is nothing but a prompting for God to move them.
+He concluded that when bodies hit or press on other bodies, it is God who makes them move. Their impact is nothing but a prompting for God to move them.
 
 These philosophers assign the cause of motion to God because they do not know where else to put it.
 

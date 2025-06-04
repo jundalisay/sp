@@ -2,7 +2,7 @@
 title: "The Union"
 heading: "Title 3 Chapter 2"
 weight: 6
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

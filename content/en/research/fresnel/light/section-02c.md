@@ -5,7 +5,7 @@ date: 2023-05-30
 weight: 30
 description: ""
 contributors: ['Fresnel']
-image: /covers/fresnel.jpg
+c: "firebrick"
 ---
 
 

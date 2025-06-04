@@ -8,7 +8,11 @@ description: "In the beginning of September 1885 Sri Ramakrishna was moved to Ś
 ---
 
 
-In the beginning of September 1885 Sri Ramakrishna was moved to Śyāmpukur. Here Narendra organized the young disciples to attend the Master day and night. At first they concealed the Master's illness from their guardians; but when it became more serious they remained with him almost constantly, sweeping aside the objections of their relatives and devoting themselves whole-heartedly to the nursing of their beloved guru.
+In the beginning of September 1885 Sri Ramakrishna was moved to Śyāmpukur. 
+
+Here Narendra organized the young disciples to attend the Master day and night.
+
+At first, they concealed the Master's illness from their guardians; but when it became more serious they remained with him almost constantly, sweeping aside the objections of their relatives and devoting themselves whole-heartedly to the nursing of their beloved guru.
 
 These young men, under the watchful eyes of the Master and the leadership of Narendra, became the Antaranga Bhaktās, the devotees of Sri Ramakrishna's inner circle. They were privileged to witness many manifestations of the Master's divine
 powers. Narendra received instructions regarding the propagation of his message after his death.
@@ -53,7 +57,7 @@ It was at Cossipore that the curtain fell on the varied activities of the Master
 
 It took the group only a few days to become adjusted to the new environment. The Holy Mother, assisted by Sri Ramakrishna's niece, Lakshmi Devi, and a few woman devotees, took charge of the cooking for the Master and his attendants. Surendra willingly bore the major portion of the expenses, other householders contributing according to their means. 
 
-Twelve disciples were constant attendants of the Master: Narendra, Rākhāl, Bāburām, Niranjan, Jogin, Lātu, Tārak, the elder Gopāl, Kāli, Śashi, Śarat, and the younger Gopāl. Sāradā, Harish, Hari, Gangādhar, and Tulasi visited the Master from time
+Twelve disciples were constant attendants of the Master: Narendra, Rakhal, Bāburām, Niranjan, Jogin, Lātu, Tārak, the elder Gopāl, Kāli, Śashi, Śarat, and the younger Gopāl. Sāradā, Harish, Hari, Gangādhar, and Tulasi visited the Master from time
 to time and practised sādhana at home.
 
 Narendra, preparing for his law examination, brought his books to the garden house in order to continue his studies during the
@@ -111,7 +115,7 @@ Sri Ramakrishna was sinking day by day. His diet was reduced to a minimum and he
 The next morning he said to
 his depressed disciples seated near the bed: "Do you know what I see? I see that God alone has become everything. Men and animals are only frameworks covered with skin, and it is He who is moving through their heads and limbs. I see that it is God Himself who has become the block, the executioner, and the victim for the sacrifice." He fainted with emotion. Regaining partial consciousness, he said: "Now I have no pain. I am very well." Looking at Lātu he said: "There sits Lātu resting his head on the palm of his hand. To me it is the Lord who is seated in that posture."
 
-80The words were tender and touching. Like a mother he caressed Narendra and Rākhāl, gently stroking their faces. He said in a half whisper to M., "Had this body been allowed to last a little longer, many more souls would have been illumined." He paused a moment and then said: "But Mother has ordained otherwise. She will take me away lest, finding me guileless and foolish, people should take advantage of me and persuade me to bestow on them the rare gifts of spirituality." A few minutes later he touched his chest and said: "Here are two beings.
+80The words were tender and touching. Like a mother he caressed Narendra and Rakhal, gently stroking their faces. He said in a half whisper to M., "Had this body been allowed to last a little longer, many more souls would have been illumined." He paused a moment and then said: "But Mother has ordained otherwise. She will take me away lest, finding me guileless and foolish, people should take advantage of me and persuade me to bestow on them the rare gifts of spirituality." A few minutes later he touched his chest and said: "Here are two beings.
 
 One is She and the other is Her devotee. It is the latter who broke his arm, and it is he again who is now ill. Do you understand me?" 
 

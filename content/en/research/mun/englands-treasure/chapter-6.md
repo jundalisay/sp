@@ -1,15 +1,13 @@
-+++
-title=  "The Spanish Treasure cannot be kept from other Kingdoms by any Spanish prohibition"
-heading=  "Chapter 6 "
-date=  2020-01-27
-image=  "/covers/treasure.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/medieval/spanishconquest2.jpg"
-description=  "The Spanish wars impoverish Spain through massive spending"
-linkbtext=  "Chapter 5"
-linkb=  "/research/mun/englands-treasure/chapter-5"
-linkftext=  "Chapter 7"
-linkf=  "/research/mun/englands-treasure/chapter-7"
-+++ 
+---
+title: "The Spanish Treasure cannot be kept from other Kingdoms by any Spanish prohibition"
+heading: "Chapter 5"
+weight: 8
+c: "firebrick"
+description:  "The Spanish wars impoverish Spain through massive spending"
+contributors: ['Mun']
+---
+
+
 
 The gold and silver mines in the West-Indies owned by the King of Spain have the greatest value of all mines.
 
@@ -21,8 +19,6 @@ They used the rich goods of the West to barter with all the parts of Christendom
 
 This Spanish policy against others is the more remarkable. Every 1 Rial of Eight they sent to the East-Indies brought home so much wares as saved them the spending of 5 Rials of Eight here in Europe. But now this great profit is failed, and the English, Dutch, and others partake in those East-India trades just as the Spanish did.
 
-<br>
-<br>
 
 The Spanish also have a cancer of war, which infinitely exhausts their treasure and disperses it into Christendom. This kind of war is far different from a local war where the Soldier receives money-wages which he spends locally, keeping the money in the Kingdom, although it be exhausted from the King.
 

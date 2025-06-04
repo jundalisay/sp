@@ -1,10 +1,12 @@
 ---
 title: Army vs. Civil Hierarchy
 weight: 36
-# date: 2023-06-17
 description: "Pakistan is a prisoner of its geography and history."
-image: "/flags/pk.png"
+heading: Chapter 5
+c: darkgreen
+author: Shuja Nawaz
 ---
+
 
 
 ### Penetration of Civil Society

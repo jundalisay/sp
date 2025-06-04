@@ -11,7 +11,7 @@ icon: "Adam Smith"
 ---
 
 
-## The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour
+### The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour
 
 {{< s v="1" >}} This division of labour is not originally the effect of any human wisdom. It is the necessary, very slow, gradual, consequence of the propensity in human nature to exchange one thing for another.
 
@@ -22,7 +22,7 @@ hare
 
 Two greyhounds chasing a hare, seem to act in concert in taking turns to intercept it. But their cooperation is not the effect of any contract, but of the accidental concurrence of their passions in the same object at that particular time.
 
-Nobody ever saw a dog make a fair and deliberate exchange of bones with another dog. Nobody ever saw one animal signify to another= 
+Nobody ever saw a dog make a fair and deliberate exchange of bones with another dog. Nobody ever saw one animal signify to another:
 - this is mine, that yours, and
 - I am willing to give this for that.
 

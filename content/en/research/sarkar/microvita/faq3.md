@@ -12,12 +12,12 @@ date: 1987-09-25
 
 
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 What is the structural formula of microvita?
 {{< /r >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Previously, people thought that molecules were the minutest particles of elements. Later it was found that atoms, not molecules, were the minutest entities. Still later it was discovered that even an atom is not the minutest particle, for atoms are made of electrons, protons and many other imaginary and non-imaginary particles.
 
 So, neither atoms nor molecules are the minutest particles of elements because they are composed of many other particles of the expressed world.
@@ -26,7 +26,7 @@ People think that a “virus” is the minutest living being. But virus is a vag
 {{< /l >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Microvitum is the minutest entity. The collection of microvita forms a carbon atom. 
 
 Since a microvitum is the minutest entity, it cannot have a structure like that of an atom or a solar system. **Since a microvitum is a singular entity, it has no structure. By nature it is more energy than matter.**
@@ -36,12 +36,12 @@ And so, it travels and moves through inferences [Spatial and Aethreal Layer], wh
 
 
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 What is the difference between positive and negative microvitum?
 {{< /r >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Positive microvitum is pro-ectoplasmic [pro-lower-mind] – it is more ectoplasmic than matter. 
 
 Negative microvitum is pro-materialistic – it is more matter than mind, than ectoplasm [lower-mind]. 
@@ -52,12 +52,12 @@ Negative microvitum starts functioning in matter and moves towards the mind, tow
 {{< /l >}}
 
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 What are the possible physiological effects of the application of positive or negative microvita? How and why do they take place?
 {{< /r >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 If a lot of positive or negative microvita enter a person, there may be instantaneous or gradual death. 
 
 If the body is not properly developed, as in the case of boys below 16 years of age, or in the case of women whose minds are very sentimental, the application of positive or negative microvita may bring about instantaneous death.
@@ -67,7 +67,7 @@ If the body is not properly developed, as in the case of boys below 16 years of 
 Non-vegetarians are not fit to receive the application of positive microvita. 
 {{< /l >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Positive or negative microvita can affect the protoplasmic cells of a structure directly, and even bring about a change in the genetic structure. 
 
 **Even the sex of a person can change due to the application of positive or negative microvita.**
@@ -78,12 +78,12 @@ The glands and sub-glands also are directly affected by negative or positive mic
 {{< /l >}}
 
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 What are the possible psychological effects of the application of positive or negative microvita, and how and why do they take place?
 {{< /r >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Microvita creates psychological impact due to their influence on the plexii where all the 3 types of vrttis (propensities of the mind) are affected:
 - pro-physical propensities
 - psychic propensities
@@ -97,7 +97,7 @@ Negative microvita can function directly at the physico-psychic plexus (at the V
 {{< /l >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Only with the application of force by a powerful personality, can postive microvita be raised to the lunar plexus (at the Ájiṋa Cakra). 
 
 <!-- physico-psychic plexus -->
@@ -115,7 +115,7 @@ Positive microvita may also be used for intellectual development and for imparti
 {{< /l >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 **The lunar plexus is the highest point of positive microvita.** But if they are raised upwards to the occult plexus, this is called “krpá” (grace).
 
 Raising positive microvita from the lunar plexus to the pinnacled point of human glory is called “karuńá”. 
@@ -124,12 +124,12 @@ Without grace, there cannot be karuńá. There cannot be any galloping jump. Y
 {{< /l >}}
 
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 What will happen to microvita at the boiling and freezing temperatures? Will they die?
 {{< /r >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 No, they will undergo:
 - contraction and hibernation at freezing temperature
 - expansion and hibernation at boiling temperature. 
@@ -142,7 +142,7 @@ In order to kill negative microvita before the end of their life span, the numbe
 {{< /l >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 If under extreme temperatures microvita died, then some of the diseases now prevalent would have ceased to exist, but this has not happened.
 
 Rather, diseases have become more complicated. Malaria has become malignant malaria. 
@@ -153,7 +153,7 @@ Even now, influenza is fatal to human beings in cold countries. **Influenza has 
 {{< /l >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 When negative microvita devour the positive microvita of a diseased person, then that person dies. 
 
 Medicines only reduce the pain caused by disease in different parts of the body. It is not proper to say that medicine cures a disease. 

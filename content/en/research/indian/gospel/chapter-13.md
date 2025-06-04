@@ -240,7 +240,7 @@ Thou. I am the machine and Thou art the Operator", and so on.
 Master extols Narendra
 While the Master was meditating in this fashion on the Divine Mother, a few devotees,
 coming in from the garden, gathered in his room. Sri Ramakrishna sat down on the
-308small couch. He said to the devotees: "Narendra, Bhavanath, Rākhāl , and devotees like
+308small couch. He said to the devotees: "Narendra, Bhavanath, Rakhal , and devotees like
 them belong to the group of the nityasiddhas; they are eternally free. Religious practice
 on their part is superfluous. Look at Narendra. He doesn't care about anyone. One day
 he was going with me in Captain's carriage. Captain wanted him to take a good seat,
@@ -257,7 +257,7 @@ Sri Ramakrishna was sitting on his bed, inside the mosquito net, meditating. It 
 about eight o'clock in the evening. M. was sitting on the floor with his friend Hari Babu.
 Hari, a young man of twenty-eight, had lost his wife about eleven years before and had
 not married a second time. He was much, devoted to his parents, brothers, and sisters.
-Hazra was living at Dakshineswar. Rākhāl lived with the Master, though now and then
+Hazra was living at Dakshineswar. Rakhal lived with the Master, though now and then
 he stayed at Adhar's house. Narendra, Bhavanath, Adhar, M., Ram, Manomohan, and
 other devotees visited the Master almost every week.
 Hriday, Sri Ramakrishna's nephew, was ill in his home in the country. The Master was
@@ -404,7 +404,7 @@ unrecognizable by man'. Did he mean an Incarnation of God? Is this the play of G
 through man? Is the Master himself an Incarnation? Was this why he cried to the
 devotees from the roof of the kuthi: 'Where are you? Come to me!'?"
 Sri Ramakrishna was sitting on the steps of the southeast verandah of the Kāli temple.
-Rākhāl, M., and Hazra were with him. He talked light-heartedly about his boyhood days.
+Rakhal, M., and Hazra were with him. He talked light-heartedly about his boyhood days.
 When it was dusk he returned to his room and sat down on the small couch. Soon he
 went into samādhi and in that state began to talk to the Divine Mother. He said:
 "Mother, what is all this row about? Shall I go there? I shall go if You take me." The
@@ -427,7 +427,7 @@ Some of the devotees wondered, "Is Sri Ramakrishna an Incarnation of God, like
 Krishna, Chaitanya, and Christ?"
 Sunday, September 9, 1883
 Sri Ramakrishna had finished his midday meal and was sitting on the small couch.
-Rākhāl , M., and Ratan were sitting on the floor. Ratan was the steward of Jadu Mallick's
+Rakhal , M., and Ratan were sitting on the floor. Ratan was the steward of Jadu Mallick's
 garden house and was devoted to the Master. Now and then Ram Chatterji and Hazra
 passed in or out of the room. It was about two o'clock.
 Ratan told the Master that a yatra performance by Nilkantha had been arranged in Jadu
@@ -629,7 +629,7 @@ attainment of Knowledge."
 MASTER: "God alone is the Reality and all else is unreal."
 Saturday, September 22, 1883
 Sri Ramakrishna was seated in the drawing-room of Adhar's house in Calcutta, with
-Rākhāl , Adhar, M., Ishan, and other devotees. Many gentlemen of the neighbourhood
+Rakhal , Adhar, M., Ishan, and other devotees. Many gentlemen of the neighbourhood
 were also present. It was afternoon.
 319The Master was very fond of Ishan. He had been a superintendent in the Accountant
 General's office, and later on his children also occupied high government positions. One

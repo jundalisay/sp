@@ -10,7 +10,7 @@ description: "The Master was sitting in his room at Dakshineswar."
 Friday, September 19, 1884
 
 IT WAS MAHALAYA, a sacred day of the Hindus, and the day of the new moon. At 2PM, Sri Ramakrishna was sitting in his room with Mahendra Mukherji,
-Priya Mukherji, M., Baburam, Harish, Kishori, and Lātu. Some were sitting on the floor, some standing, and others moving about. Hazra was sitting on the porch. Rākhāl was still at Vrindāvan with Balarām.
+Priya Mukherji, M., Baburam, Harish, Kishori, and Lātu. Some were sitting on the floor, some standing, and others moving about. Hazra was sitting on the porch. Rakhal was still at Vrindāvan with Balarām.
 
 MASTER (to the devotees): "I was at Captain's house in Calcutta. It was very late when I returned. What a sweet nature Captain has! What devotion! He performs the Ārati before the image.
 
@@ -98,23 +98,23 @@ Sometimes I smoked it reclining this way, and sometimes that way, sometimes with
 they call smoking a silver hubble-bubble.' Immediately I renounced it. I kept the robe on
 my body a few minutes longer and then took it off. I began to trample it underfoot and
 spit on it, saying: 'So this is an expensive robe! But it only increases man's rajas.'"
-About Rākhāl
-Rākhāl had been staying at Vrindāvan with Balarām. At first he had written excited
+About Rakhal
+Rakhal had been staying at Vrindāvan with Balarām. At first he had written excited
 letters praising the holy place. He had written to M.: "It is the best of all places. Please
 come here. The peacocks dance around, and one always hears and sees religious music
-and dancing. There is an unending flow of divine bliss." But then Rākhāl had been laid up
+and dancing. There is an unending flow of divine bliss." But then Rakhal had been laid up
 582with an attack of fever. Sri Ramakrishna was very much worried about him and vowed to
-worship the Divine Mother for his recovery. So he began to talk about Rākhāl.
-MASTER: "Rākhāl had his first religious ecstasy while sitting here massaging my feet. A
-Bhagavata scholar had been expounding the sacred book in the room. As Rākhāl listened
+worship the Divine Mother for his recovery. So he began to talk about Rakhal.
+MASTER: "Rakhal had his first religious ecstasy while sitting here massaging my feet. A
+Bhagavata scholar had been expounding the sacred book in the room. As Rakhal listened
 to his words, he shuddered every now and then. Then he became altogether still.
 "His second ecstasy was at Balarām Bose's house. In that state he could not keep
-himself sitting upright; he lay flat on the floor. Rākhāl belongs to the realm of the
+himself sitting upright; he lay flat on the floor. Rakhal belongs to the realm of the
 Personal God. He leaves the place if one talks about the Impersonal.
 "I have taken a vow to worship the Divine Mother when he recovers. You see, he has
 renounced his home and relatives and completely surrendered himself to me. It was I
 who sent him to his wife now and then. He still had a little desire for enjoyment.
-(Pointing to M,) "Rākhāl has written him from Vrindāvan that it is a grand place-the
+(Pointing to M,) "Rakhal has written him from Vrindāvan that it is a grand place-the
 peacocks dance around. Now let the peacock's take care of him. He has really put me in
 a fix.
 

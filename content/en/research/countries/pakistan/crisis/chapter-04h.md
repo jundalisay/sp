@@ -3,7 +3,9 @@ title: National Unity Tested by Regional and Religious Pressures '
 weight: 28
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 4h
+c: darkgreen
+author: Dr Maleeha Lodhi
 ---
 
 

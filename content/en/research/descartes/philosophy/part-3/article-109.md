@@ -14,7 +14,7 @@ icon: "Rene Descartes"
 {{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 109. The presence of intersecting channels in the spots
+## 109. The presence of intersecting channels in the spots
 
 The remaining air-aether contained in space `I`, while rotating around the axis `fd`, always tries to move away from it. 
 
@@ -30,7 +30,7 @@ Consequently, the quantity of the fire-aether's matter contained in star `I` mus
 
 
 
-#### 110. Why light from a star can hardly pass through a spot
+## 110. Why light from a star can hardly pass through a spot
 
 Therefore, the force that constitutes light can be either entirely absent in it or very weak.
 
@@ -43,7 +43,7 @@ Similarly, the force exerted by its virtual photons moving straight from one pol
 
 
 
-#### 111. Description of a star appearing suddenly
+## 111. Description of a star appearing suddenly
 
 <!-- celestial matter -->
 The air-aether in the entire vortex surrounding `Star I` can retain its forces for some time, even though these forces may not be enough to produce the sensation of light in our eyes. 

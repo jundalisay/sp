@@ -371,14 +371,14 @@ ADHAR: "Scholarship! Honour!"
 MASTER: "It was honour in the sight of others, but nothing to him. Whether you―a
 deputy magistrate―or this youngster Niranjan honours me, it is all the same to me. And
 I tell you this truthfully: the idea of controlling a wealthy man never enters my mind.
-Surendra once said, rather condescendingly, that Rākhāl's father could sue me for letting
-Rākhāl stay with me. When I heard this from Manomohan, I said: 'Who is this Surendra?
+Surendra once said, rather condescendingly, that Rakhal's father could sue me for letting
+Rakhal stay with me. When I heard this from Manomohan, I said: 'Who is this Surendra?
 How does he dare make a remark like that? He keeps a carpet and pillow here and gives
 me some money. Is that his excuse for daring to make such an impudent remark?' "
 ADHAR: "I understand that he gives ten rupees a month. Isn't that so?"
 565MASTER: "That covers two months expenses. The devotees stay here and he gives the
 money for their service. It is he who earns the merit. What is that to me? Is it for my
-personal gain that I love Narendra, Rākhāl, and the others?"
+personal gain that I love Narendra, Rakhal, and the others?"
 M: "Your love for them is like a mother's for her children."
 Master's genuine love for his disciples
 MASTER: "But even behind the mother's love lies her hope that the children will support
@@ -462,7 +462,7 @@ The moon rose in the clear autumn sky and was reflected in the river. It was ebb
 the Ganges and the river flowed south toward the sea.
 Sunday, September 14, 1884
 Sri Ramakrishna was sitting in his room with Narendra, Bhavanath, the Mukherji
-brothers, and other devotees. Rākhāl was staying with Balarām at Vrindāvan and was
+brothers, and other devotees. Rakhal was staying with Balarām at Vrindāvan and was
 laid up with an attack of fever. Narendra was preparing himself for his coming law
 examination.
 About eleven o'clock Jnan Babu arrived. He was a government official and had received
@@ -801,12 +801,12 @@ MASTER: "It is the nature of the hemp-smoker to make merry in the company of ano
 hemp-smoker. He will not talk even to an amir, but he will embrace a wretched hemp-
 smoker if he happens to meet one." (All laugh.)
 It was about nine o'clock. The Mukherji brothers saluted the Master and went away.
-Adhar and M. sat on the floor in the Master's room while he talked to Adhar about Rākhāl
+Adhar and M. sat on the floor in the Master's room while he talked to Adhar about Rakhal
 .
-His worry over Rākhāl 's illness
-Rākhāl was staying in Vrindāvan with Balarām. The Master had learnt from a letter
-about Rākhāl 's illness. He was so worried about him that two or three days earlier he
-had wept before Hazra like a child. Adhar had sent a registered letter to Rākhāl but had
+His worry over Rakhal 's illness
+Rakhal was staying in Vrindāvan with Balarām. The Master had learnt from a letter
+about Rakhal 's illness. He was so worried about him that two or three days earlier he
+had wept before Hazra like a child. Adhar had sent a registered letter to Rakhal but had
 received no reply.
 MASTER (to Adhar): "Naran has received a letter from Vrindāvan. Why haven't you
 received a reply to yours?"

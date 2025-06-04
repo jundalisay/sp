@@ -2,7 +2,7 @@
 title: "FORGIVER (Ghafir)"
 heading: "Sura 40 "
 weight: 156
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

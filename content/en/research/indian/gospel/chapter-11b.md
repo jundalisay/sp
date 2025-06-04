@@ -87,7 +87,7 @@ one cannot have such faith. Bony people, the hollow-eyed, the cross-eyed-people 
 physical traits like those cannot easily acquire faith. What can a man do if there are evil
 omens on all sides?"
 
-It was dusk. The maidservant entered the room and burnt incense. Manilal and some other devotees left for Calcutta. M. and Rākhāl were in the room. The Master was seated on his small couch absorbed in meditation on the Divine Mother. There was complete silence.
+It was dusk. The maidservant entered the room and burnt incense. Manilal and some other devotees left for Calcutta. M. and Rakhal were in the room. The Master was seated on his small couch absorbed in meditation on the Divine Mother. There was complete silence.
 
 
 After a time Bhagavati, an old maidservant of the temple proprietor, entered the room and saluted the Master from a distance. Sri Ramakrishna bade her sit down. 

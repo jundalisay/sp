@@ -1,9 +1,9 @@
 ---
-title: "Commonplace"
+title: "Commonplace Book. Mathematical, Ethical, Physical, And Metaphysical"
 heading: "Englightened"
 weight: 7
 description: ""
-:c: "steelblue"
+c: "steelblue"
 ---
 
 

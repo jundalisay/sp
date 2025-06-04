@@ -9,8 +9,7 @@ image: "/flags/cn.png"
 description : "The coming China-Taiwan war is a natural consequence of the wrong policies of Nixon"
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: "/flags/cn.png"
+  url: https://www.linkedin.com/in/jundalisay
 ---
 
 
@@ -18,6 +17,9 @@ icon: "/flags/cn.png"
 Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
 ? | ? | ? 
+
+
+![China]("/flags/cn.png")
 
 
 The coming China-Taiwan war is a natural consequence of the wrong policies of Nixon.

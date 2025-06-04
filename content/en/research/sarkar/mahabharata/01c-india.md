@@ -1,7 +1,7 @@
 ---
 title: "The Aryans"
 heading: "Discourse 1b"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: ""
 c: "indigo"
 writer:
   name: PR Sarkar

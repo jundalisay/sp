@@ -2,7 +2,7 @@
 title: "Electoral and Military Courts"
 heading: "Title 4 Chapter 3 Section 6-7"
 weight: 34
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

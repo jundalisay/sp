@@ -2,8 +2,10 @@
 title: Questions of Identity
 weight: 13
 # date: 2023-06-17
-description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+description: "Recently, I've heard it said that the insurmountable problem with Pakistan is that we don't have a national identity"
+heading: Chapter 3b
+c: darkgreen
+author: Mohsin Hamid
 ---
 
 

@@ -10,7 +10,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 201
-icon: "/flags/ua.png"
 ---
 
 

@@ -14,9 +14,9 @@ People who have not realized God would become engaged in more and more sinful ac
 
 "Those who have realized God are aware that free will is a mere appearance. In reality man is the machine and God its Operator, man is the carriage and God its Driver."
 
-It was about 4PM. Rākhāl and several other devotees were listening to a kirtan by M. in the hut at the Panchavati. Rākhāl went into a spiritual mood while listening to the devotional song. After a while the Master came to the Panchavati accompanied by
+It was about 4PM. Rakhal and several other devotees were listening to a kirtan by M. in the hut at the Panchavati. Rakhal went into a spiritual mood while listening to the devotional song. After a while the Master came to the Panchavati accompanied by
 
-Baburam and Harish. Other devotees followed.'RĀKHĀL: "How well he [referring to M.] sang kirtan for us! He made us all very happy."
+Baburam and Harish. Other devotees followed.'Rakhal: "How well he [referring to M.] sang kirtan for us! He made us all very happy."
 
 The Master sang in an ecstatic mood:
 
@@ -112,7 +112,7 @@ MASTER: "You have understood, haven't you?"
 
 M: "Yes, sir, I now understand a little." 
 
-MASTER: "No, you understand a great deal. Rākhāl 's father is pleased about his staying here."
+MASTER: "No, you understand a great deal. Rakhal 's father is pleased about his staying here."
 
 M. remained with folded hands.
 
@@ -120,7 +120,7 @@ M. remained with folded hands.
 MASTER: "Yes, what you are thinking will also come to pass."
 
 Sri Ramakrishna now came down to the normal state of mind. entered the room. At the Master's bidding Ramlal sang:
-Rākhāl and Ramlal Who is the Woman yonder who lights the field of battle?
+Rakhal and Ramlal Who is the Woman yonder who lights the field of battle?
 
 Darker Her body gleams even than the darkest storm-cloud
 

@@ -1,7 +1,7 @@
 ---
 title: "Crude and Subtle Microvita"
 heading: "Chapter 2"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: "Microvitum is a very subtle being. Of the three types of microvita, the crude type are instrumental in emanating life throughout the cosmos"
 c: "indigo"
 writer:
   name: PR Sarkar
@@ -13,7 +13,8 @@ weight: 6
 
 Microvitum is a very subtle being. Of the three types of microvita, the crude type are instrumental in emanating life throughout the cosmos. They create a stir within a physical structure. 
 
-In the subsequent stages, through clash and cohesion, enormous changes take place in the physical structure. This process led to the emergence of the dinosaurs, mammals and finally intelligent human beings.
+In the subsequent stages, through clash and cohesion, enormous changes take place in the physical structure. 
+- This process led to the emergence of the dinosaurs, mammals and finally intelligent human beings.
 
 Subtle microvita are those that are too subtle to be detected by a highly developed microscope. These are divided into 2 categories:
 

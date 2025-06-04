@@ -9,7 +9,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 136
-icon: "/flags/mm.png"
 ---
 
 Current Cycle | Years per Cycle | Social Age

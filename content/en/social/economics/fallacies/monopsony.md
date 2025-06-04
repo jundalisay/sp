@@ -6,7 +6,7 @@ description : "The ideas of Karl Marx are opposite that of Adam Smith despite bo
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 draft: true
 ---

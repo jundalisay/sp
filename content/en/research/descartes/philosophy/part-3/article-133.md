@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-#### 133. The Comet's Tail and Its Various Phenomena
+## 133. The Comet's Tail and Its Various Phenomena
 
 Comets exhibit a long, radiant tail, which gives them their name. 
 
@@ -37,7 +37,7 @@ Lastly, the tail can sometimes be wider or narrower, straight or curved, and som
 
 
 
-#### 134. This Tail Depends a Certain Refraction
+## 134. This Tail Depends a Certain Refraction
 
 The comet's tail is caused by a new type of refraction. I did not discuss this in Dioptrics because it is not observed in terrestrial bodies.
 
@@ -50,7 +50,7 @@ This refraction arises because air-aether globules are not all equal in size. In
 This results in light rays which pass through the larger globules. These rays go in straight lines but are also refracted and scattered to the sides by the smaller globules.
 
 
-#### 135. Explanation of This Refraction
+## 135. Explanation of This Refraction
 
 Let there be many very small globules surrounded by much larger ones. All are in continuous motion, as described for air-aether globules. 
 
@@ -85,7 +85,7 @@ If the obliquity is 90 degrees, the rays are not sent to the other side except a
 Conversely, rays obliquely scattered towards the center of the circle are stronger the greater the obliquity.
 
 
-#### 136. Explanation of the Comet’s Tail Appearance
+## 136. Explanation of the Comet’s Tail Appearance
 
 <!-- celestial -->
 We apply this demonstration to air-aether globules. 

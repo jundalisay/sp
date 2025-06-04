@@ -8,23 +8,17 @@ author: Dada Dharmavedananda
 ---
  
 
-No word short of emaciated can describe my physical condition. I have nothing to hang onto except my bone-dry determination to follow my spiritual path and become an acharya. Meditation is extremely difficult; my mind 
-wanders incessantly. 
+No word short of emaciated can describe my physical condition. I have nothing to hang onto except my bone-dry determination to follow my spiritual path and become an acharya. Meditation is extremely difficult; my mind wanders incessantly. 
 
-What occupies my mind more during meditation—my spiritual ideal or the thought of ice cream-choco-late-crunchy granola cereal-peanut butter-fresh fruits-milk shake-a swim in the sea-a clean quiet room-and a 
-soft bed? 
+What occupies my mind more during meditation—my spiritual ideal or the thought of ice cream-choco-late-crunchy granola cereal-peanut butter-fresh fruits-milk shake-a swim in the sea-a clean quiet room-and a soft bed? 
 
 Though I try not to think of such things, they bombard me whenever I  close my eyes. 
 
-I've never been so thoroughly depressed in my entire life. The diarrhea has 
-become amoebic dysentery, my eyes have turned yellow due to hepatitis, and 
-my nose is continuously blocked. The severe pain in my belly does not allow 
-me to stand up straight or walk properly. 
+I've never been so thoroughly depressed in my entire life. The diarrhea has become amoebic dysentery, my eyes have turned yellow due to hepatitis, and my nose is continuously blocked. The severe pain in my belly does not allow me to stand up straight or walk properly. 
 
-Everyone else gets up at 4:30 each morning, but I get up at 3:30 to use the outhouse. This sometimes takes the full 
-hour, and the effort leaves me soaked in perspiration. I've totally lost my sense 
-of humor and as a result all the Indian trainees dislike me. There are only three 
-other Westerners here—two Americans and one German. 
+Everyone else gets up at 4:30 each morning, but I get up at 3:30 to use the outhouse. This sometimes takes the full hour, and the effort leaves me soaked in perspiration. 
+
+I've totally lost my sense of humor and as a result all the Indian trainees dislike me. There are only three other Westerners here—two Americans and one German. 
 
 They are also sick, but not as bad as I. They are able to relate to the Indians to some extent, but I 
 talk only to them. 
@@ -38,42 +32,36 @@ syllabus.
 
 Among all the trainees, my knowledge of Sanskrit was the worst. 
 
-Oddly enough, I was the only one to pass the Sanskrit exam this time. On the other hand, I thought that my understanding of Prout was better than anyone else's, yet I was the only one to fail the Prout exam. The examiner, who visits 
-once monthly, is a very senior Dada named Acharya Dasaratha. Obviously, he 
-considers more than mere intellectual knowledge. 
+Oddly enough, I was the only one to pass the Sanskrit exam this time. On the other hand, I thought that my understanding of Prout was better than anyone else's, yet I was the only one to fail the Prout exam. The examiner, who visits once monthly, is a very senior Dada named Acharya Dasaratha. Obviously, he considers more than mere intellectual knowledge.
 
-The second part of my training has begun. I have to learn the spiri-tual 
-philosophy in depth, including the principles of many other major spiritual and religious orders of the world, memorize and be able to explain the meaning of about 100 Sanskrit shlokas (aphorisms) related to Ananda 
-Marga spiritual philosophy, memorize by sound only about 400 other Sanskrit 
-shlokas, and be able to demonstrate and explain all the important yoga postures. 
-The most difficult part is the 400 Sanskrit shlokas because I have no idea of 
-their meaning, and will surely find it perfectly boring. 20 
+The second part of my training has begun.
 
-An Indian brother, Amitabha, is in charge of shopping and running errands 
-in the city. Twice he's accompanied me to see doctors. This morning, I was 
-leaning against the well, waiting for someone to draw water for me, when 
-Amitabha approached me with a worried look. 
+I have to:
+- learn the spiritual philosophy in depth, including the principles of many other major spiritual and religious orders of the world
+- memorize and be able to explain the meaning of about 100 Sanskrit shlokas (aphorisms) related to Ananda Marga spiritual philosophy
+- memorize by sound only about 400 other Sanskrit shlokas
+- be able to demonstrate and explain all the important yoga postures. 
+
+The most difficult part is the 400 Sanskrit shlokas because I have no idea of their meaning, and will surely find it perfectly boring.
+
+An Indian brother, Amitabha, is in charge of shopping and running errands in the city. Twice he's accompanied me to see doctors. 
+
+This morning, I was leaning against the well, waiting for someone to draw water for me, when  Amitabha approached me with a worried look. 
 
 "You're very sick, brother," he said. 
 
 "What's new in that?" I said. 
 
-"I thought you were faking it. But last night it was raining so I had to sleep 
-near the latrine. Baba, I think you stepped on me or over me fifteen or twenty 
-times rushing to pass stool. Come on, you better lie down and I'll bring another 
-doctor." 
+"I thought you were faking it. But last night it was raining so I had to sleep near the latrine. Baba, I think you stepped on me or over me fifteen or twenty times rushing to pass stool. Come on, you better lie down and I'll bring another doctor." 
 
-"Doctors are useless. Besides, my nightly visits to the latrine have been 
-going on for a long time. You simply didn't know about it. I told you and 
-everyone else that my system's broken, but no one believed me." 
+"Doctors are useless. Besides, my nightly visits to the latrine have been going on for a long time. You simply didn't know about it. I told you and everyone else that my system's broken, but no one believed me." 
 
-A crucial lesson 
+
+## A crucial lesson 
 
 Today will surely prove a red-letter day in my personal history. 
 
-Just before the morning class started, I was still in bed, completely 
-depressed. On his way to class, the trainer, Dada Japananda, stopped to talk to 
-me. 
+Just before the morning class started, I was still in bed, completely depressed. On his way to class, the trainer, Dada Japananda, stopped to talk to me. 
 
 "I think you are very ill this morning, no?" 
 
@@ -129,11 +117,6 @@ the door.
 
 I stood up immediately. 
 
-I have no right to be depressed, now or ever, I thought. How can I serve 
-anyone, how can I expand myself, how can I do anything of any value if I am 
-sad? From this moment I shall never again indulge in sorrow. 
+I have no right to be depressed, now or ever, I thought. How can I serve anyone, how can I expand myself, how can I do anything of any value if I am sad? From this moment I shall never again indulge in sorrow. 
 
-I picked up my towel and walked in an almost normal gait to the well. For 
-the first time since my troubles began I did not care about the pain in my 
-stomach. Ignoring my weakness, I pulled up a bucket of water—something 
-which over the last few weeks I had believed I couldn't do. 21 
+I picked up my towel and walked in an almost normal gait to the well. For the first time since my troubles began I did not care about the pain in my stomach. Ignoring my weakness, I pulled up a bucket of water—something which over the last few weeks I had believed I couldn't do. 21 

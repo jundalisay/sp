@@ -11,7 +11,7 @@ const observerCallback = (entries, observer) => {
         // Check if the element is intersecting (visible)
         if (entry.isIntersecting) {
             // Add the 'is-visible' class to trigger the animation
-            entry.target.classList.add('is-visible');
+            // entry.target.classList.add('is-visible');
 
             // Optional: Stop observing the element once it's visible
             // This prevents the animation from re-triggering if you scroll up and down

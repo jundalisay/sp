@@ -87,7 +87,7 @@ without his approval? What can be done?
 him; must he worry about it day and night?
 given to God, on useless things? I say: 'O
 
-Rākhāl, or anybody. I seek Thee alone. What
+Rakhal, or anybody. I seek Thee alone. What
 
 When the Blissful Mother comes to my house, how much of the Chandi I shall hear!
 

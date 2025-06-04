@@ -3,7 +3,9 @@ title: The Politics of 'Borrowed Growth'
 weight: 22
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 4e
+c: darkgreen
+author: Dr Maleeha Lodhi
 ---
 
 
@@ -146,5 +148,3 @@ The most telling example of this was the agenda drawn up for the three rounds of
 Islamabad sought American financial or policy help for these.
 
 <!-- This showed the extent to which the ruling elite had come to see outsiders as catalytic agents to solve their problems. -->
-
-

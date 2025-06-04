@@ -46,11 +46,7 @@ Both physical things such as rocks, and metaphysical things such as a soul, have
 **Quantum** is the smallest part of substance.
 
 {{< q a="Hegel" c="Science of Logic, Book 2, Article 814" >}}
-In logic, essence occupies the same place as quantity in the sphere of being. Essence has absolute indifference to limitation [*essence is unlimited*].
-
-But quantity is this indifference in an **immediate** determination.
-
-It gains a limit due to its immediate external determinateness and becomes a quantum [*quantum is limited essence or substance. Quantum is created when the mind forcibly quantizes the inherently-illogical or arbitrary substance so that the mind can use logic on the naturally-illogical*].
+In logic, essence occupies the same place as quantity in the sphere of being. Essence has absolute indifference to limitation [*essence is unlimited*]. But quantity is this indifference in an **immediate** determination. It gains a limit due to its immediate external determinateness and becomes a quantum [*quantum is limited essence or substance. Quantum is created when the mind forcibly quantizes the inherently-illogical or arbitrary substance so that the mind can use logic on the naturally-illogical*].
 {{< /q >}}
 
 

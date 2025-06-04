@@ -34,3 +34,5 @@ Radiant | ionformation-carrier, spread (invariance), entanglement, motion (strai
 Convertible | change, instability
 Material | stability, contraction
 
+The actions will be explained in the Chapter for each Layer.
+

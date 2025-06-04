@@ -6,7 +6,7 @@ weight: 14
 c: "deeppink"
 description: "As age comes on the skin grows less fresh looking, takes on a satiny, glossy appearance, and gets darker, often becoming brown in spots"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
@@ -57,7 +57,11 @@ Those age measurements of the Life line which continue the life up to one hundre
 Thus we start a line at zero and end it at 70. The intervening space we divide into sections mathematically exact, which point out the intervening years of the life.
 
 
-The division of the Life line (19) begins at the starting of the line under the finger of Jupiter and ends at the rascette; the intervening sections recording all the various years of the life. For convenience and to facilitate quickness in reading the line, I divide it in the centre, fixing that point as the age 36, which is approximately one half of 70. The space above this central point I divide into the ages 4, 6, 12, 18, 24, 30, and the portion of the line after the central point to read as ages 43, 51, 60, and 70. To reach a date as close as a year, it is necessary to subdivide the line between ages 4 and 70 into periods, each representing one year, and mark the space on the line, as few can so accurately gauge it with the eye. 
+The division of the Life line (19) begins at the starting of the line under the finger of Jupiter and ends at the rascette; the intervening sections recording all the various years of the life. 
+
+<!-- ![Via](/graphics/palm/561.png) -->
+
+For convenience and to facilitate quickness in reading the line, I divide it in the centre, fixing that point as the age 36, which is approximately one half of 70. The space above this central point I divide into the ages 4, 6, 12, 18, 24, 30, and the portion of the line after the central point to read as ages 43, 51, 60, and 70. To reach a date as close as a year, it is necessary to subdivide the line between ages 4 and 70 into periods, each representing one year, and mark the space on the line, as few can so accurately gauge it with the eye. 
 
 With a little practice you can recognize where the ages 4, 6, 12, 18. 24, 30, 36, 43, 51, 60, and 70 are marked on the line, and learn to read these ages quickly and accurately. In a case where the indication you are reading does not come at one of these ages, you may, if you wish to be very accurate, mark off the line into years and arrive at the exact date as indicated above. In reading offhand, without marking the line with a pencil, always consider whether the hand is long or short, and, after first noting the central point on the line, which indicates the 36-year division, mentally mark off the several spaces in proportion to the length of the hand. A long hand will have wider spacing between each 6-year period, and in a short one they will come closer together.
 

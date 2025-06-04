@@ -5,7 +5,7 @@ description: "The Venusian is often the victim of rogues, who, knowing his sympa
 weight: 134
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

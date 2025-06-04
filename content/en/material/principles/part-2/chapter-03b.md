@@ -12,7 +12,11 @@ icon: "Juan"
 ---
 
 
-Timespace is the sublayer where time predominates and space is minimal. 
+Timespace is the highest and most subtle sublayer of the Spatial layer. 
+
+{{< img src="/graphics/physics/msq.jpg" alt="MSQ Model " cap="The subdivision of the saptial layer within the 5 layer model. Note how the edge of the visible universe separates spacetime and the aetherspace" >}}
+
+Here, time predominates and space is minimal. This is the opposite of spacetime where space predominates.
 
 This is visualized by our aethereal Cartesian Plane which is made up of polar coordinates. 
 
@@ -33,16 +37,12 @@ This is why timespace is necessary to reveal and analyze the gravitational signa
 
 In Cartesian Physics, time is made up of independent moments or timespans. It follows that space is also independent as well. This leads to our concept of spacetime slices.
 
-{{< q a="Rene Descartes" >}}
-**A life-span can be divided into countless parts, each completely independent of the others.**  My existence at one time does not follow that I exist at later times, unless some cause keeps me in existence. **That cause creates me afresh at each moment.**
-
-The nature of time is different in:
-- the time for bringing something into existence, and
-- the time needed to keep a thing existing.
+{{< q a="Rene Descartes" c="Meditations, Part 3" >}}
+**A life-span can be divided into countless parts, each completely independent of the others.**  My existence at one time does not follow that I exist at later times, unless some cause keeps me in existence. **That cause creates me afresh at each moment.** The nature of time is different in the time for bringing something into existence, and the time needed to keep a thing existing.
 {{< /q >}}
 
 
-{{< img src="/graphics/physics/galaxy.jpg" alt="Spacetime Slices" cap="Spacetime slices exist in the aetherspace" >}}
+{{< img src="/graphics/physics/galaxy.jpg" alt="Spacetime Slices" cap="Spacetime slices exist in the aetherspace. Instead of Einstein's metric tensors, Descartes' Physics uses spacetime slices separated by Planck length with each slice being totally independent until it is stitched together by timespace as 'the arrow of time'." >}}
 
 
 These independent slices:
@@ -51,7 +51,8 @@ These independent slices:
 
 The qualities of timespace are derived directly from the aethereal layer above it. This means that it is affected by, or is the result of, monads.
 
-This is why the timespace particles are the holder for the aethereal gravitational signature in the spatial layer. 
+This is why the timespace particles (mots') are the holder for the aethereal gravitational signature in the spatial layer. 
+- The timespace particle in turn is held by the aethereal identity (moa3)
 
 
 ## How it Works

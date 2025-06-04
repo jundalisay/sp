@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 
 
 
-#### 100. How the earth-aether is generated around the Sun and the stars
+## 100. How the earth-aether is generated around the Sun and the stars
 
 <!-- rarefied -->
 
@@ -45,7 +45,7 @@ For indeed, we refer all the spots of the Sun and other stars, as well as the en
 
 
 
-#### 101. The production and dissolution of spots depend on highly uncertain causes
+## 101. The production and dissolution of spots depend on highly uncertain causes
 
 <!-- The production and dissolution of spots depend on such minute and uncertain causes.  -->
 
@@ -56,7 +56,7 @@ The rudiment of one spot is formed from a few fragments of the fire-aether stick
 Many others easily join later. These would not be able to adhere to each other unless they lost part of their agitation by hitting the previous ones.
 
 
-#### 102. How the same spot can cover an entire star
+## 102. How the same spot can cover an entire star
 
 When these spots are first generated, they are very soft and decompressed bodies.
 <!-- rarefied -->
@@ -77,14 +77,14 @@ Thus, it can happen that the same spot can extend over the entire surface of a s
 {{< n n="Here, the sunspot evolves to produce coronal holes which can last for a long time over a large area during the solar minimum" >}}
 
 
-#### 103. Why the sun sometimes appears darker and why the apparent sizes of some stars change
+## 103. Why the sun sometimes appears darker and why the apparent sizes of some stars change
 
 Some historians report that the Sun sometimes appeared paler than usual for several consecutive days, sometimes even for an entire year, providing a sad light like the Moon without rays. 
 
 Many stars now appear smaller or larger than they were described by astronomers in the past, which seems to be due to their light being obscured by more or fewer spots.
 
 
-#### 104. Why some fixed stars disappear or suddenly appear
+## 104. Why some fixed stars disappear or suddenly appear
 
 A star can be covered by so many and so dense spots* that it entirely escapes our vision.
 

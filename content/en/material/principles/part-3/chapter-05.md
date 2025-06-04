@@ -3,7 +3,7 @@ heading: "Chapter 5"
 title: "Quanta of Radiance"
 # title: "Electric Potential"
 # date: 2023-11-10
-weight: 24
+weight: 22
 image: /photos/physics/elec.jpg
 description: "Electrons are the main quantum of radiance"
 icon: "Juan"

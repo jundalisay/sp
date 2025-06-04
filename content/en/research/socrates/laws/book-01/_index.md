@@ -1,5 +1,5 @@
 ---
-title: "The Laws by Plato Simplified"
+title: "The Athenian"
 weight: 2
 writer:
   name: Plato

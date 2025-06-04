@@ -1,15 +1,12 @@
-+++
-title=  "The Merchant who merely Exchanges money by Bills cannot Affect our Wealth"
-heading=  "Chapter 13 "
-date=  2020-01-21
-image=  "/covers/treasure.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/medieval/pieces8.jpg"
-description=  "Bills of exchange create the phenomenon of trade financing where financiers deal only with money"
-linkbtext=  "Chapter 12"
-linkb=  "/research/mun/englands-treasure/chapter-12"
-linkftext=  "Chapter 14"
-linkf=  "/research/mun/englands-treasure/chapter-14"
-+++
+---
+title: "The Merchant who merely Exchanges money by Bills cannot Affect our Wealth"
+heading: "Chapter 13"
+weight: 24
+c: "firebrick"
+description:  "Bills of exchange create the phenomenon of trade financing where financiers deal only with money"
+contributors: ['Mun']
+---
+
 
 <!-- take = export, deliver = import -->
 

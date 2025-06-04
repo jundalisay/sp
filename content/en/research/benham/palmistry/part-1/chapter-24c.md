@@ -5,7 +5,7 @@ description: "Female troubles create a disturbance of the mind"
 weight: 128
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

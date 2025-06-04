@@ -3,9 +3,10 @@ title: Today's Insurgency
 weight: 34
 # date: 2023-06-17
 description: "Pakistan is a prisoner of its geography and history."
-image: "/flags/pk.png"
+heading: Chapter 5b
+c: darkgreen
+author: Shuja Nawaz
 ---
-
 
 
 

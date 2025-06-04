@@ -16,7 +16,7 @@ icon: "Rene Descartes"
 
 
 
-#### 44. The origin of mountains, plains, seas, etc., on the Earth's surface.
+## 44. The origin of mountains, plains, seas, etc., on the Earth's surface.
 
 - Body `B` and `F` are air.
 - Body `C` is the very thick inner crust of the Earth from which metals originate
@@ -36,7 +36,7 @@ These fragments formed:
 - sea cliffs, such as `3` and `6`
 
 
-#### 45. The nature of the air can be derived from all this.
+## 45. The nature of the air can be derived from all this.
 
 It means that physical air is just a collection of earth-aether particles. 
 
@@ -45,7 +45,7 @@ They are so fine and separated from each other that they comply with any motion 
 Therefore, it is a very decompressed, fluid, and transparent substance that can be composed of the minutiae of any shape.
  <!-- rare -->
 
-#### 46. Why does physical air easily compress and decompress?
+## 46. Why does physical air easily compress and decompress?
 
 <!-- rarefy and densify? -->
 
@@ -62,7 +62,7 @@ In this context:
 - **cold is its decrease**.
 
 
-#### 47. The violent compression of air in certain machines.
+## 47. The violent compression of air in certain machines.
 
 Air, violently compressed in a vessel, possesses the force to rebound and immediately extend itself over a larger space. 
 
@@ -88,6 +88,4 @@ Meanwhile, the same heat or the same motion of these particles .
 The reason for this is that when the air is compressed in such a way, each of its particles does not have that spherical space necessary for its movement to itself alone, but neighboring particles enter into it; 
 
 and while the same heat or agitation of these particles is maintained by the motion of celestial globes constantly flowing around them, they 
-
-
 , thus collectively making an effort to occupy a larger space. -->

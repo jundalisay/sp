@@ -1,5 +1,5 @@
 ---
-title: "My ARRIVAL AT THE ISLAND TIMOR"
+title: "My Arrival At The Island Timor"
 heading: "Chapter 1b"
 weight: 6
 writer:
@@ -11,12 +11,16 @@ icon: "William Dampier"
 ---
 
 
-We had now for some days small gales from the south-south-west to the north-north-west, and the sky still more cloudy especially in the mornings and evenings. The 14th it looked very black in the north-west all the day; and a little before sunset we saw, to our great joy, the tops of the high mountains of Timor, peeping out of the clouds which had before covered them as they did still the lower parts.
+We had now for some days small gales from the south-south-west to the north-north-west, and the sky still more cloudy especially in the mornings and evenings. 
 
-We were now running directly towards the middle of the island on the south side: but I was in some doubt whether I should run down alongshore on this south side towards the east end; or pass about the west end, and so range along on the north side, and go that way towards the east end: but as the winds were now westerly I thought it best to keep on the south side, till I should see how the weather would prove; for, as the island lies, if the westerly winds continued and grew tempestuous I should be under the lee of it and have smooth water, and so could go alongshore more safely and easily on this south side: I could sooner also run to the east end where there is the best shelter, as being still more under the lee of the island when those winds blow. Or if, on the other side, the winds should come about again to the eastward, I could but turn back again (as I did afterwards) and passing about the west end, could there prosecute my search on the north side of the island for water, or inhabitants, or a good harbour, or whatever might be useful to me. For both sides of the island were hitherto alike to me, being wholly unacquainted here; only as I had seen it at a distance in my former voyage.
+The 14th it looked very black in the north-west all the day; and a little before sunset we saw, to our great joy, the tops of the high mountains of Timor, peeping out of the clouds which had before covered them as they did still the lower parts.
+
+We were now running directly towards the middle of the island on the south side: but I was in some doubt whether I should run down alongshore on this south side towards the east end; or pass about the west end, and so range along on the north side, and go that way towards the east end: but as the winds were now westerly I thought it best to keep on the south side, till I should see how the weather would prove; for, as the island lies, if the westerly winds continued and grew tempestuous I should be under the lee of it and have smooth water, and so could go alongshore more safely and easily on this south side: I could sooner also run to the east end where there is the best shelter, as being still more under the lee of the island when those winds blow. 
+
+Or if, on the other side, the winds should come about again to the eastward, I could but turn back again (as I did afterwards) and passing about the west end, could there prosecute my search on the north side of the island for water, or inhabitants, or a good harbour, or whatever might be useful to me. For both sides of the island were hitherto alike to me, being wholly unacquainted here; only as I had seen it at a distance in my former voyage.
 
 
-### SEARCH FOR FRESH WATER ON THE SOUTH SIDE OF THE ISLAND, IN VAIN.
+### Search For Fresh Water On The South Side Of The Island, In Vain
 
 I had heard also that there were both Dutch and Portuguese settlements on this island; but whereabouts I knew not: however I was resolved to search about till I found either one of these settlements, or water in some other place.
 

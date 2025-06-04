@@ -41,9 +41,9 @@ Experience is pretty much like science and art. But really, science and art come
 
 Polus says:
 
-{{< q >}}
+{{< l a="Polus" >}}
 Experience made art, but inexperience made luck.
-{{< /q >}}
+{{< /l >}}
 
 
 Art arises when one universal judgement about a class of objects is produced from many notions gained by experience. 

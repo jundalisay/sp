@@ -15,7 +15,7 @@ He is just like Nanda.'
 
 (To Niranjan) "I feel as if a dark veil has covered your face. It is because you have accepted a job in an office. One must keep accounts there. Besides, one must attend to many other things, and that always keeps the mind in a state of worry. You are serving in an office like other worldly people; but there is a slight difference, in that you are earning money for the sake of your mother. One must show the highest respect to one's mother, for she is the very embodiment of the Blissful Mother of the Universe. If you had accepted the job for the sake of wife and children, I should have said: 'Fie upon you! Shame! A thousand shames!'
 
-(To Mani Mallick, pointing to Niranjan) "Look at this boy. He is absolutely guileless. But he has one fault: he is slightly untruthful nowadays. The other day he said that he would visit me again very soon, but he didn't come. (To Niranjan) That is why Rākhāl asked you why you didn't come to see me while you were at Ariadaha, so near Dakshineswar."
+(To Mani Mallick, pointing to Niranjan) "Look at this boy. He is absolutely guileless. But he has one fault: he is slightly untruthful nowadays. The other day he said that he would visit me again very soon, but he didn't come. (To Niranjan) That is why Rakhal asked you why you didn't come to see me while you were at Ariadaha, so near Dakshineswar."
 
 NIRANJAN: "I was there only a couple of days."
 

@@ -2,7 +2,7 @@
 title: "The Council of the Republic and the National Defense Council"
 heading: "Title 4 Chapter 4 Section 5"
 weight: 24
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

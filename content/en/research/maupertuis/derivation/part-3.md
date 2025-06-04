@@ -43,19 +43,18 @@ Mathematical arguments for God's existence would have the obvious certainty char
 
 The organization of animals, the precise and many parts of insects, the enormous sizes and distances and revolutions of astronomical bodies, such arguments are better suited to amaze our mind than to clarify it.  -->
 
-The supreme Being is everywhere.
-
-But He is not equally visible everywhere. 
+The supreme Being is everywhere. **But He is not equally visible everywhere. **
 
 <!-- Let us seek Him in the simplest things, in the most fundamental laws of
 Nature, in the universal rules by which movement is conserved, distributed or destroyed; and let us not seek
 Him in phenomena that are merely complex consequences of these laws. -->
 
-I could have started from mathematical laws that are confirmed by experience, and tried to show how they reflect the wisdom and power of the supreme Being. 
 
-But those laws can be uncertain since they are often not based on rigorous proofs or purely geometrical hypotheses.
+<!-- I could have started from mathematical laws that are confirmed by experience, and tried to show how they reflect the wisdom and power of the supreme Being. 
 
-So I deduce mathematical laws from the attributes of an all-powerful and all-wise Being. 
+But those laws can be uncertain since they are often not based on rigorous proofs or purely geometrical hypotheses. -->
+
+I deduce mathematical laws from the attributes of an all-powerful and all-wise Being. 
 
 If those derived laws are actually found in the universe, then the proof that this Being exists (and created those laws) is more certain. 
 
@@ -63,9 +62,13 @@ But, one might object, what if the laws of motion and equilibrium are a necessar
 
 Wouldn't it be wrong to ascribe to Providence something that is absolutely necessary?
 
-The laws of motion and equilibrium are absolutely necessary consequences of the nature of matter, that proves all the more the perfection of the supreme Being.
+ <!-- absolutely necessary -->
+The laws of motion and equilibrium are consequences of the nature of matter.
+- This then proves the perfection of the supreme Being.
 
 Everything is so arranged that the blind logic of mathematics executes the will of the most enlightened and free Mind.
+
+
 
 Certain philosophers of antiquity held that movement does not exist.
 
@@ -81,14 +84,16 @@ We know motion only through our senses.
 
 But how many things do we know otherwise? 
 
-The motive force is the ability of a moving body to move other bodies. This is just terminology filling in for
-understanding and has no meaning beyond the results of phenomena.
+**The motive force is the ability of a moving body to move other bodies.** 
+
+This is just terminology filling in for understanding and has no meaning beyond the results of phenomena.
 
 It is only mental habit that prevents us from realizing how miraculous it is that motion can be passed from one body to another. 
 
-Once our eyes have opened, nothing is so striking. For those who have never thought about it, it doesn't seem mysterious.
+<!-- Once our eyes have opened, nothing is so striking. For those who have never thought about it, it doesn't seem mysterious.
 
-By contrast, those who have meditated on it may despair of ever understanding it.
+By contrast, those who have meditated on it may despair of ever understanding it. -->
+
 
 Imagine someone who had never touched a body and had never seen them collide. His only experience is with mixing colors.
 

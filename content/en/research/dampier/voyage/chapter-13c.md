@@ -32,18 +32,25 @@ But beside them all the women in general are much addicted to dancing. They danc
 Captain Swan, to retaliate the general's favours, sent for his violins and some that could dance English dances; wherewith the general was very well pleased. They commonly spent the biggest part of the night in these sort of pastimes.
 
 
-## A STORY OF ONE JOHN THACKER
+## JOHN THACKER
 
-Among the rest of our men that did use to dance thus before the general there was one John Thacker who was a seaman bred, and could neither write nor read but had formerly learnt to dance in the music houses about Wapping: this man came into the South Seas with Captain Harris and, getting with him a good quantity of gold, and being a pretty good husband of his share, had still some left besides what he laid out in a very good suit of clothes. 
+<!-- Among the rest of our men that did use to dance thus before the general there was one  -->
+
+John Thacker was one of our seaman who could neither write nor read but had formerly learnt to dance in the music houses around Wapping.
+
+
+He came into the South Seas with Captain Harris and, getting with him a good quantity of gold, and being a pretty good husband of his share, had still some left besides what he laid out in a very good suit of clothes. 
 
 The general supposed by his garb and his dancing that he had been of noble extraction; and to be satisfied of his quality asked of one of our men if he did not guess aright of him? 
 
-The man of whom the general asked this question told him he was much in the right; and that most of our ship's company were of the like extraction; especially all those that had fine clothes; and that they came aboard only to see the world, having money enough to bear their expenses wherever they came; but that for the rest, those that had but mean clothes, they were only common seamen. 
+The man of whom the general asked this question told him he was much in the right; and that most of our ship's company were of the like extraction; especially all those that had fine clothes; 
+
+They came aboard only to see the world, having money enough to bear their expenses wherever they came; but that for the rest, those that had but mean clothes, they were only common seamen. 
 
 After this the general showed a great deal of respect to all that had good clothes, but especially to John Thacker, till Captain Swan came to know the business, and marred all; undeceiving the general and drubbing the nobleman: for he was so much incensed against John Thacker that he could never endure him afterwards; though the poor fellow knew nothing of the matter.
 
 
-## THEIR BARK EATEN UP, AND THEIR SHIP ENDANGERED BY THE WORM
+## Their Bark Eaten Up, And Their Ship Endangered By The Worm
 
 About the middle of November we began to work on our ship's bottom, which we found very much eaten with the worm: for this is a horrid place for worms.
 
@@ -57,7 +64,7 @@ We did not mistrust the general's knavery until now. He went to our ship and saw
 He told us that a Dutch ship was eaten up in 2 months' time here and the general took all her guns. He was hoping to get ours too. This is why he was so eager to assist us to get our ship into the river, for when we came out again we had no assistance from him.
 
 
-## THE WORMS HERE AND ELSEWHERE
+## The Worms Here
 
 We had no worms till we came to this place: for when we careened at the Marias the worm had not touched us; nor at Guam, for there we scrubbed; nor after we came to the island Mindanao; for at the south-east end of the island we heeled and scrubbed also. 
 

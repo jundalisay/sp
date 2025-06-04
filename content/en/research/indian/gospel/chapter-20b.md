@@ -135,7 +135,7 @@ Give up the wicked ego. One doesn't have to renounce the ego that makes one feel
 {{< l a="Ramakrishna" >}}
 (To the devotees) "You see, my nature is changing because of my arm injury. It is being revealed to me that there is a greater manifestation of God in man than in other created beings. 
 
-God is telling me: 'I dwell in men. Be merry with men.' Among men, God manifests Himself more in pure-souled devotees. That is why I feel great longing for Narendra, Rākhāl, and other such youngsters.
+God is telling me: 'I dwell in men. Be merry with men.' Among men, God manifests Himself more in pure-souled devotees. That is why I feel great longing for Narendra, Rakhal, and other such youngsters.
 
 One often sees small holes along the edge of a lake. Fish and crabs accumulate there. Just so, there is a greater accumulation of divinity in man. It is said that man is greater than the salagram. Man is Narayana Himself. If God can manifest Himself through an image, then why not through man also?
 

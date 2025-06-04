@@ -10,7 +10,6 @@ icon: "PR Sarkar"
 ---
 
 
-
 Various types of cottage industries should be established on master units, subject to the availability of raw materials. 
 
 Cottage industries are:

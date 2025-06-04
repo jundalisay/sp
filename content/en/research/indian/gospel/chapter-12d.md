@@ -12,7 +12,7 @@ Sunday, July 22, 1883
 Taking advantage of the holiday, many householder devotees visited Sri Ramakrishna in his room at the Dakshineswar temple garden. The Young devotees, mostly students, generally came on week-days. 
 
 Sometimes the Master asked his intimate disciples to come on a Tuesday or a Saturday, days that he considered very auspicious for special
-religious instruction. Adhar, Rākhāl , and M. had come from Calcutta in a hired carriage.
+religious instruction. Adhar, Rakhal , and M. had come from Calcutta in a hired carriage.
 Sri Ramakrishna had enjoyed a little rest after his midday meal. 
 
 The room had an atmosphere of purity and holiness. On the walls hung pictures of gods and goddesses, among them one of Christ rescuing the drowning Peter. Outside the room were plants laden with fragrant flowers, and the Ganges could be seen flowing toward the south.

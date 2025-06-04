@@ -22,7 +22,7 @@ preserve ourselves for a single moment, and that the one who has so much power t
 
 
 
-#### 21. Our lifetime alone is enough to demonstrate the existence of God.
+## 21. Our lifetime alone is enough to demonstrate the existence of God.
 
 The truth of this demonstration will clearly appear, provided we consider:
 - the nature of time, or
@@ -43,7 +43,7 @@ This means that that being, as God, preserves himself.
 
 
 
-#### 22. In knowing the existence of God, we likewise know all his attributes, as far as they can be known by the natural light alone.
+## 22. In knowing the existence of God, we likewise know all his attributes, as far as they can be known by the natural light alone.
 
 There is the great advantage in proving God's existence in this way i.e. by his idea. This lets us know what he is.
 
@@ -58,7 +58,7 @@ We have born with us the idea that God:
 <!-- that in which we can clearly discover any  that is not limited by any imperfection. -->
 
 
-#### 23. God is not corporeal
+## 23. God is not corporeal
 
 He does not perceive by means of senses, or will the evil of sin.
 
@@ -88,7 +88,7 @@ He understands, wills, and operates all things that exist in reality.
 He does not will the evil of sin. This is because sin is just the negation of being.
 
 
-#### 24. Our understanding is finite. The power of God infinite.
+## 24. Our understanding is finite. The power of God infinite.
 
 <!-- In passing from the knowledge of God to the knowledge of the creatures, it is necessary to remember that  -->
 
@@ -101,7 +101,7 @@ In this way, we will thus obtain the most perfect science -- the knowledge of ef
 To make this secure from error, we must remember that God, the author of things, is infinite, while we are finite.
 
 
-#### 25. We must believe all that God has revealed, although it may surpass the reach of our faculties.
+## 25. We must believe all that God has revealed, although it may surpass the reach of our faculties.
 
 God might reveal his properties to us or others. Those properties surpass the natural powers of our mind, such as the mysteries of the incarnation and of the trinity.
 

@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 126. The Initial Motion of a Comet
+## 126. The Initial Motion of a Comet
 
 Let us assume that:
 - `Star N` has more solidity than the air-aether globules which are distant from the center of `Vortex S`. [Therefore, it will not totally sink towards `S`]
@@ -58,7 +58,7 @@ This makes it go to `Curve C2`. `Star N` will come closer to the tangent line:
 
 
 
-#### 127. The Continuation of a Comet's Motion Through Various Vortices
+## 127. The Continuation of a Comet's Motion Through Various Vortices
 
 As it progresses through this vortex `AEIO`, it gains such a force of agitation that it can easily migrate into other vortices and from these into others.
 

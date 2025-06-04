@@ -5,7 +5,7 @@ description: "As single signs, or in combination with each other, the star, tria
 weight: 102
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
@@ -20,27 +20,51 @@ The texture of the Jupiterian skin will show whether the Jupiterian qualities ar
 
 In estimating the outcome of life for a subject, it makes all the difference in the world what strong characteristics, such as the Jupiterian possesses, have behind them, and whether there is coarseness or refinement, a clear or a dense mind. 
 
-Naturally more would be expected from a fine combination than from a coarse; you will have refined, high-minded leadership in one case, common, selfish ambition in the other. Look carefully at the color of the palm, nails, and lines, for weakness, strength, or disease indicated at these points. With white color and its accompanying coldness, the Jupiterian will be selfish, less attractive to others, less magnetic. 
+Naturally more would be expected from a fine combination than from a coarse; you will have refined, high-minded leadership in one case, common, selfish ambition in the other. 
+
+Look carefully at the color of the palm, nails, and lines, for weakness, strength, or disease indicated at these points. With white color and its accompanying coldness, the Jupiterian will be selfish, less attractive to others, less magnetic. 
 
 He will lose much of his Jupiterian power to attract men and lead them. He will have ambition and desire for power, but will be repellent to his fellows, who will not so readily follow, applaud, and elevate him to positions of command. With white color you cannot predict any such degree of success as with the next grade, pink. 
 
 Here is the normal flow of the life-renewing current, producing normal conditions of health and temperament. 
 
-The subject is bright, active, vivacious, attractive - and all of his powers are brought out, making him the magnetic and successful Jupiterian. He is admired by his enemies, loved by his friends, and is the idol of the masses. Red color indicates excessive strength and ardor.
+The subject is bright, active, vivacious, attractive - and all of his powers are brought out, making him the magnetic and successful Jupiterian.
 
-To add intensity to an already strong character can easily make it too strong. All the dangers to health are increased. He is an over-eater, has dyspepsia, and tends strongly, on account of the amount of blood rushed to the brain by a strong heart, to have apoplexy. This type of the Jupiterian is the apoplectic subject. In character he is too pronounced, and inclines to the excess of a commanding disposition, which is tyranny or despotism. 
+He is admired by his enemies, loved by his friends, and is the idol of the masses. Red color indicates excessive strength and ardor.
 
-He becomes the ruler to whom men are attracted not by common sympathy but because he is stronger than they. When a pink-colored type of Jupiterian appears, the crowd flock to him and desert the red-colored type, whose influence becomes more uncertain in that he rules by fear, not love. Red color is too strong; it leads to excess of the type. 
+To add intensity to an already strong character can easily make it too strong. 
 
-Yellow color is not often found, for the Jupiterian is seldom troubled by liver disturbance. You may find a combination of Jupiterian and Saturnian or Mercurian, and in that case, yellow color will be found. This will apply to the Saturnian or Mercurian side of the combination, not to the Jupiterian. Blue color is sometimes found, for the excessive action of the heart may weaken that organ and cause some congestion. 
+All the dangers to health are increased.
 
-This is not so often found, and is not a health danger of the Jupiterian that is permanent or typical. In examining the nails of the Jupiterian, remember what traits they may emphasize or weaken. He is naturally a healthy type, so it is not to be expected that bad-health nails will often be found. But disease sometimes creeps into this type, so be on the lookout for anything that may show it. Nervous or fluted nails will be recognized by texture, shape, or brittleness, and nervousness in the degree the nails indicate must be applied to him. Bilious nails are seldom found; the broad nails of robust constitution are oftenest seen. 
+He is an over-eater, has dyspepsia, and tends strongly, on account of the amount of blood rushed to the brain by a strong heart, to have apoplexy.
 
-Temperament and character will be indicated by either the short, critical nail, or the nails of honesty and openness. If the nail be very short, the Jupiterian desire to lead will be more intense and aggressive, and these qualities will be likely to show excess in strength. The open, honest nail will be the best, and adds to this type all of their good qualities. Expect hair on the hands, for the Jupiterian has a strong constitution, and hair shows strength. 
+This type of the Jupiterian is the apoplectic subject. In character he is too pronounced, and inclines to the excess of a commanding disposition, which is tyranny or despotism. 
+
+He becomes the ruler to whom men are attracted not by common sympathy but because he is stronger than they.
+
+When a pink-colored type of Jupiterian appears, the crowd flock to him and desert the red-colored type, whose influence becomes more uncertain in that he rules by fear, not love. Red color is too strong; it leads to excess of the type. 
+
+Yellow color is not often found. The Jupiterian is seldom troubled by liver disturbance. 
+
+You may find a combination of Jupiterian and Saturnian or Mercurian, and in that case, yellow color will be found. 
+
+This will apply to the Saturnian or Mercurian side of the combination, not to the Jupiterian. Blue color is sometimes found, for the excessive action of the heart may weaken that organ and cause some congestion. 
+
+This is not so often found, and is not a health danger of the Jupiterian that is permanent or typical. 
+
+In examining the nails of the Jupiterian, remember what traits they may emphasize or weaken. He is naturally a healthy type, so it is not to be expected that bad-health nails will often be found. 
+
+But disease sometimes creeps into this type, so be on the lookout for anything that may show it. Nervous or fluted nails will be recognized by texture, shape, or brittleness, and nervousness in the degree the nails indicate must be applied to him. Bilious nails are seldom found; the broad nails of robust constitution are oftenest seen. 
+
+Temperament and character will be indicated by either the short, critical nail, or the nails of honesty and openness. If the nail be very short, the Jupiterian desire to lead will be more intense and aggressive, and these qualities will be likely to show excess in strength.
+
+The open, honest nail will be the best, and adds to this type all of their good qualities. Expect hair on the hands, for the Jupiterian has a strong constitution, and hair shows strength. 
 
 It should be carefully noted what color it is, and also whether coarse or fine, for these will tell us how the Jupiterian characteristics will be manifested. 
 
-With light hair this subject is less ardent, less liable to suffer from diseases peculiar to the type, because less sensual; he is more phlegmatic, colder, and not so likely to attract, but he is not lazy, and is very practical, strong, and determined in the pursuit of his ambitions. Black hair adds sparkle, fire, vigor, and ardor, but shows a liability to Oriental sensualism and love of ease. 
+With light hair this subject is less ardent, less liable to suffer from diseases peculiar to the type, because less sensual; he is more phlegmatic, colder, and not so likely to attract, but he is not lazy, and is very practical, strong, and determined in the pursuit of his ambitions. 
+
+Black hair adds sparkle, fire, vigor, and ardor, but shows a liability to Oriental sensualism and love of ease. 
 
 This will incline the subject to be a greater eater, and thus more likely to injure his health. The hand, as a whole, will tell you of the plane on which he will operate. If the mental world is most pronounced, his ambition will be for distinction in a literary career. 
 
@@ -50,22 +74,36 @@ If the middle world of the hand is most prominent, he will lead in business and 
 
 The best combination is of the two upper worlds. 
 
-Next come the two lower, for in this case he will have the common-sense middle world to hold the lower in check. Take out the middle and leave the two others and a sensual dreamer will be left. The same rules apply to individual fingers, especially the finger of Jupiter. Note whether the mental, the abstract, or material world predominates, by noting which phalanx of the finger is longest, if a long finger of Jupiter is seen, and also notice which is shortest with a short finger. 
+Next come the two lower, for in this case he will have the common-sense middle world to hold the lower in check. Take out the middle and leave the two others and a sensual dreamer will be left. The same rules apply to individual fingers, especially the finger of Jupiter.
 
-
+Note whether the mental, the abstract, or material world predominates, by noting which phalanx of the finger is longest, if a long finger of Jupiter is seen, and also notice which is shortest with a short finger. 
 
 <!-- The Mount Of Jupiter. Part 4 -->
 
-In this way you can tell which world is in excess or deficient, or whether, with a long finger, the worlds are all long, but equally developed. If the finger reaches to the middle of the first phalanx of Saturn, the Jupilerian desire for leadership will not be excessive. If the finger is as long as Saturn, the desire for power will be great, and if longer than Saturn, the subject will be an absolute tyrant. If shorter than the first joint of Saturn (95), it will show that the subject is not a pure Jupi-terian, even though he may have a strong Mount, for there will be lack of ability to lead, and that does not belong to this type. In this case, ambition, religion, and honor may remain, but the full strength of Jupiterian ability is not present.
+In this way you can tell which world is in excess or deficient, or whether, with a long finger, the worlds are all long, but equally developed. 
 
-A crooked finger of Jupiter adds shrewdness to the Jupiterian qualities, and is not necessarily a bad sign, though it strengthens the Mount very much. It shows that the subject will systematically plan all his moves, and will lead other men, always knowing how he manages to do it. This curved finger may be combined with a bad Mercurian type, be bilious, and evil, in which case it will make a bad and dishonest subject, but by itself this bent finger which you will often meet only adds shrewdness to Jupiterian qualities. In studying the finger by separate phalanges, the tips must be taken into full consideration. 
+If the finger reaches to the middle of the first phalanx of Saturn, the Jupilerian desire for leadership will not be excessive. If the finger is as long as Saturn, the desire for power will be great, and if longer than Saturn, the subject will be an absolute tyrant. 
+
+If shorter than the first joint of Saturn (95), it will show that the subject is not a pure Jupiterian, even though he may have a strong Mount, for there will be lack of ability to lead, and that does not belong to this type. In this case, ambition, religion, and honor may remain, but the full strength of Jupiterian ability is not present.
+
+A crooked finger of Jupiter adds shrewdness to the Jupiterian qualities, and is not necessarily a bad sign, though it strengthens the Mount very much. 
+
+It shows that the subject will systematically plan all his moves, and will lead other men, always knowing how he manages to do it. This curved finger may be combined with a bad Mercurian type, be bilious, and evil, in which case it will make a bad and dishonest subject, but by itself this bent finger which you will often meet only adds shrewdness to Jupiterian qualities. 
+
+In studying the finger by separate phalanges, the tips must be taken into full consideration. 
 
 If the first phalanx, indicating mental strength, be long, it will show that the mental world rules, and intuition and religion will be strong. If the tips be conic it will show that idealistic, intuitive qualities are added to the mental. 
 
 
 The Jupiterian is naturally religious. 
 
-This long first phalanx with conic tip will prove that the subject is so. He will have great reverence and idealism in his beliefs, his religion will be an inspiration, and he will be a strong, high-minded person. If the tip be square, he will show more common-sense, will reason and take less for granted. His religion is plainer in form of worship and more practical. If the tip be spatulate, he will more readily be an agnostic, have original views, and follow no creed or church. By carefully noting this first phalanx and tip you can tell, with a good deal of accuracy, to what church, if to any, your subject belongs. The spatulate or excessively square tip on a finger of Jupiter shows a domineering spirit which in family, business, and every walk of life will make the tyrant and the despot. 
+This long first phalanx with conic tip will prove that the subject is so. He will have great reverence and idealism in his beliefs, his religion will be an inspiration, and he will be a strong, high-minded person. 
+
+If the tip be square, he will show more common-sense, will reason and take less for granted. 
+
+His religion is plainer in form of worship and more practical. If the tip be spatulate, he will more readily be an agnostic, have original views, and follow no creed or church. 
+
+By carefully noting this first phalanx and tip you can tell, with a good deal of accuracy, to what church, if to any, your subject belongs. The spatulate or excessively square tip on a finger of Jupiter shows a domineering spirit which in family, business, and every walk of life will make the tyrant and the despot. 
 
 The broader the first phalanx, the more domineering the subject, and the less religious. The second phalanx shows the business side of the Jupiterian. This phalanx will tell of ambition, the great driving force that makes Jupiter-ians lead, and even makes weak natures advance. 
 
@@ -88,11 +126,15 @@ If this phalanx should have excessive length over the other two, it would show t
 
 This means a coarsening of the whole nature.
 
-But as the phalanx is not thick, the Jupiterian sensualism will not be present, and it will indicate only a common way of exercising the Jupiterian qualities. If the phalanx be long and also thick (96), it shows that Jupiterian gluttony is to be added. Thus we will find the subject, if this long and thick phalanx is the most prominent, ruled by the common, sensual side, and the Jupiterian ambitions and desires will be coarsened and made very pronounced. 
+But as the phalanx is not thick, the Jupiterian sensualism will not be present, and it will indicate only a common way of exercising the Jupiterian qualities.
+
+If the phalanx be long and also thick (96), it shows that Jupiterian gluttony is to be added. Thus we will find the subject, if this long and thick phalanx is the most prominent, ruled by the common, sensual side, and the Jupiterian ambitions and desires will be coarsened and made very pronounced. 
 
 The subject will certainly be a voracious eater, and this will bring on the health troubles peculiar to the Jupiterian in a marked degree. Apoplexy and the sudden end of life will be almost certain. 
 
-No place so fully shows gluttony as the long, thick third phalanx of Jupiter. It is a menace to health, ambition, and success, for the mind will be more attracted to eating than to anything else. This subject has a desire to rule, not from high ambitions and motives, but rather that he may never fail in his food supply. All his efforts are directed by such motives. 
+No place so fully shows gluttony as the long, thick third phalanx of Jupiter. It is a menace to health, ambition, and success, for the mind will be more attracted to eating than to anything else. 
+
+This subject has a desire to rule, not from high ambitions and motives, but rather that he may never fail in his food supply. All his efforts are directed by such motives. 
 
 In the 3 phalanges of the finger of Jupiter we have gone from intuition and religion (first phalanx conic and long), to gluttony (long, thick third phalanx), and between these are healthy business desires and ambitions (second phalanx). 
 

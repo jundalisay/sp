@@ -13,29 +13,31 @@ Prasadji, had also taken initiation. He is one of the pillars of Marga and very 
 
 The time for Vaeshakhii Purnima was drawing near. We were anxiously waiting for Baba’s vanii for the occasion. Finally that day came and the following vanii was read out to us:
 
-“The meaning of Dharma Sadhana is that every person – every object of this universe is to be seen as Infinite. The aim of Dharma is not to destroy unity by groupism. 
+
+{{< l a="PR Sarkar" c="Vaeshakhii Purnima 1957" >}}
+The meaning of Dharma Sadhana is that every person – every object of this universe is to be seen as Infinite. The aim of Dharma is not to destroy unity by groupism. 
 
 But those who have vested interest are living on the basis of the basic weaknesses of human mind and therefore support distinctions and divisions. 
 
 These people become alarmed when they observe the speed of Dharma and they take recourse to criticism, wrong propaganda, false stories etc. and prove their intemperance by using all the weapons of immortality. Good men
 will not stop by this. 
 
-They will have to move forward. They should remember that the path of truth is strewn with obstacles and the struggle against these obstacles is sadhana.”
+They will have to move forward. They should remember that the path of truth is strewn with obstacles and the struggle against these obstacles is sadhana.
 
 Anandamurti
+{{< /l >}}
 
-Vaeshakhii Purnima 1957
+
 
 This message of the world-teacher Baba came at a time when society and its rules were breaking fast. Political leaders were divided different parties and all were victims of party politics. Human values were dying and the leaders had forgotten the service of society and were indulging in selfish pursuits. They not only suspected the motives of spiritual-minded Margiis, but were spreading different kinds of propaganda against them. At such a difficult time, Baba gave the clarion call to his devotees to move towards spirituality with faith and firmness.
 
 Sadhana is nothing else but struggle or fight, and righteousness demands that all the obstructions should be overcome boldly to march towards our desideratum. Dharma sadhana does not mean that people should attain salvation and disappear but it really means that every person and every object of this universe is to be seen as a part of infinity. In the words of saint Tulsidas, one will have to see Ram and Siita in every particle of this universe.
 
-I was hardly in Danapur for about six months when I was sent for further training to Delhi. Perhaps Baba did not want me to be stable at any one place as yet,
-so once more I had to send my wife and children to our village home before I went to
-Delhi.
+I was hardly in Danapur for about six months when I was sent for further training to Delhi. Perhaps Baba did not want me to be stable at any one place as yet, so once more I had to send my wife and children to our village home before I went to Delhi.
 
 In Delhi by Baba’s grace I got the company of two Margiis; one was Shrii R.
-Prasad and the other one was Shrii Jitendra Tyagi.TYAGIJI
+Prasad and the other one was Shrii Jitendra Tyagi. 
+
 Shri R. Prasad was my ultimate superior in the department and his life was
 very, very busy. It was, therefore possible to meet him only now and then. 
 

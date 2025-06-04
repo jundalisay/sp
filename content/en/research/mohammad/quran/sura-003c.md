@@ -2,7 +2,7 @@
 title: "Jews and Christians Versus the Muslims"
 heading: "Sura 3c "
 weight: 32
-c: "seagreen"
+c: "firebrick"
 description: "The Prophet Mohammad describes the differences of his beliefs with those of Jews and Christians"
 ---
 
@@ -75,9 +75,9 @@ Among them is he, who, if you entrust him with a single coin, he will not give i
 
 That is because they say:
 
-{{< l a="Jews" >}}
+{{< r a="Jews" >}}
 We are under no obligation towards the gentiles.
-{{< /l >}}
+{{< /r >}}
 
 
 They tell lies about Enki, and they know it.
@@ -92,9 +92,18 @@ Enki will not speak to them, nor will He look at them on the Day of Resurrection
 
 They say “It is from Enki,” when it is not from Enki. They tell lies and attribute them to Enki, knowingly.
 
-<sup>79</sup> No person to whom Enki has given the Scripture, and wisdom, and prophethood would ever say to the people: “Be my worshipers rather than Enki’s.” 
+<sup>79</sup> No person to whom Enki has given the Scripture, and wisdom, and prophethood would ever say to the people:
 
-Rather, “Be people of the Lord, according to the Scripture you teach, and the teachings you learn.”
+{{< r a="Prophet" >}}
+Be my worshipers rather than Enki’s.
+{{< /r >}}
+
+Rather, they say:
+
+{{< r a="Prophet" >}}
+Be people of the Lord, according to the Scripture you teach, and the teachings you learn.
+{{< /r >}}
+
 
 <sup>80</sup> Nor would he command you to take the angels and the prophets as lords. Would he command you to infidelity after you have submitted?
 
@@ -160,7 +169,7 @@ Bring the Torah, and read it, if you are truthful.
 
 <sup>94</sup> Whoever forges lies about Enki after that—these are the unjust.
 
-<sup>95</sup> Say
+<sup>95</sup> Say:
 
 {{< l a="Muslims" >}}
 Enki has spoken the truth, so follow the religion of Abraham the Monotheist; he was not a Pagan.

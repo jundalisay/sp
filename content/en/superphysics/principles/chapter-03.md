@@ -53,11 +53,11 @@ We will thus never enter disputes about the infinite. This is because we are fin
 {{< box >}}
 ### What came before pre-existence?
 
-The concept of pre-existence absorbs all ideas. So if the mind asks 'what came before pre-existence'? Then there is no need to reate another concept called 'Pre-pre-Existence' just to stabilize that desire of consciousness to know. 
+The concept of pre-existence absorbs all ideas. So if the mind asks 'what came before pre-existence'? Then there is no need to create another concept called 'Pre-pre-Existence' just to stabilize that desire of consciousness to know. 
 
 This is because it is really the **desire** to know that is causing such a curiosity. So it would be better to deal with the asker's desire -- why does he want to know what existed before Existence? It could be a sign that:
 - he has too much time on his hands
-- he has no control of his thoughts, or 
-- his Luna mount is too strong, etc. 
+- he has no control of his thoughts or desires, or 
+- his Luna mount on his palm is too strong, etc. 
 {{< /box >}}
 

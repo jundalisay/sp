@@ -1,9 +1,9 @@
 ---
 title: "The Nature of Motion"
 heading: "Part 6"
-weight: 77
+weight: 37
 description: ""
-:c: "steelblue"
+c: "steelblue"
 ---
 
 
@@ -79,20 +79,28 @@ Mathematics teaches the infinite division of time and space.
 But whatever is of this kind, it all has motion in common with space and time, or rather, refers its explanation to them.
 
 
-47. And just as on the one hand, excessive abstraction or division of truly inseparable things, so on the other hand, the composition or rather confusion of very different things has rendered the nature of motion perplexing.
+47. The nature of motion has been rendered perplexing by:
+- excessive abstraction or division of truly inseparable things
+- the confusion of very different things
 
-For it is customary to confuse motion with the efficient cause of motion. 
+It is customary to confuse motion with the efficient cause of motion. 
 
-Whence it happens that motion is as it were two-formed, having one face obvious to the senses, the other enveloped in murky night. 
+This makes motion two-faced. It has:
+- one face obvious to the senses
+- the other enveloped in murky night
 
-From this obscurity and confusion, and various paradoxes about motion, take their origin, while that which truly belongs only to the cause is wrongly attributed to the effect.
+This obscurity and confusion creates various paradoxes about motion, when the error is simply taking the effect as the cause.
 
 
-48. Hence arises that opinion, that the same quantity of motion is always conserved.
+48. This leads to the opinion that the same quantity of motion is always conserved.
 
-Which, unless it is understood of the force and power of the cause, whether that cause is called nature, or νοῦς [nous, mind], or whatever agent it may finally be, it will easily be evident to anyone that it is false. 
+This is false.
 
-Aristotle, in Book 8 of the *Physics*, inquires whether motion has been made and corrupted, or whether it has existed from eternity as an immortal life inherent in all things.
+<!-- Which, unless it is understood of the force and power of the cause, whether that cause is called nature, or νοῦς [nous, mind], or whatever agent it may finally be, it will easily be evident to anyone that it is false.  -->
+
+Aristotle, in Book 8 of the *Physics*, inquires whether:
+- motion has been made and corrupted, or
+- it has existed from eternity as an immortal life inherent in all things.
 
 He seems to have understood a vital principle rather than an external effect, or change of place.
 

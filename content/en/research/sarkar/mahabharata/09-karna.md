@@ -1,7 +1,7 @@
 ---
 title: "Some Characters of the Mahábhárata"
 heading: "Discourse 9"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: "Whatever Parama Puruśa does in the mental sphere, that becomes a reality for human beings."
 c: "indigo"
 writer:
   name: PR Sarkar

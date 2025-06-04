@@ -2,7 +2,7 @@
 heading: "Sections 16-20"
 title: "The Laws of Le Sage"
 description: "The laws of Kepler were necessary consequences of the doctrine that gravitation results from the impulsion of atoms moving in every direction"
-image: "/covers/gravitation.png"
+c: "firebrick"
 # date: 2023-02-15
 weight: 6
 icon: /avatars/lesage.png

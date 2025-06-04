@@ -39,11 +39,11 @@ The Master was again in an ecstatic mood. He said to the Divine Mother, "Mother,
 
 In a frightened tone he said to Ram, "What is the Master saying?"
 
-At the sight of Rākhāl, Sri Ramakrishna was again overpowered with a spiritual mood.
+At the sight of Rakhal, Sri Ramakrishna was again overpowered with a spiritual mood.
 
 He said to his beloved disciple: "I have been here many days; When did you come?"
 
-Was the Master hinting that he was an Incarnation of God, and Rākhāl his divine
+Was the Master hinting that he was an Incarnation of God, and Rakhal his divine
 
 companion, a member of the inner circle of devotees?
 
@@ -51,7 +51,7 @@ companion, a member of the inner circle of devotees?
 
 Sunday, June 10, 1883
 
-The Master was sitting in his room with Rākhāl, M., Latu, Kishori, Ramlal, Hazra, and
+The Master was sitting in his room with Rakhal, M., Latu, Kishori, Ramlal, Hazra, and
 other devotees. It was about ten o'clock in the morning.
 
 

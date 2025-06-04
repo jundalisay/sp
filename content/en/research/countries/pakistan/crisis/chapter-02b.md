@@ -3,7 +3,9 @@ title: Babar vs Jinnah
 weight: 8
 # date: 2023-06-17
 description: "Babar-poet, autobiographer, loyal friend and devoted father—was perhaps too triumphalist for Mountbatten"
-image: "/flags/pk.png"
+author: Dr Akbar Ahmed
+heading: Chapter 2b
+c: darkgreen
 ---
 
 
@@ -94,9 +96,7 @@ Most importantly, it had a philosophy of how to run an independent India.*
 
 The Pakistan movement, just a few years old in the 1940s, suffered in comparison. Jinnah's ideas about Pakistan remained vague. Vagueness was both the strength and weakness of the Pakistan movement. 
 
-It became all things to all men, drawing in a variety of people for different reasons; but it also meant that once Pakistan was achieved there would be no clear defining parameters.
-During the last year or two of his life, Jinnah had begun to sharpen his concept
-of Pakistan. 
+It became all things to all men, drawing in a variety of people for different reasons; but it also meant that once Pakistan was achieved there would be no clear defining parameters. During the last year or two of his life, Jinnah had begun to sharpen his concept of Pakistan. 
 
 He travelled extensively and spoke tirelessly on radio and in public.
 
@@ -112,13 +112,11 @@ This is the vision of an Islamic society which would be equitable, compassionate
 
 Pakistan itself would be based on the high principles laid down by the Prophet in Arabia in the seventh century. Although Jinnah had pointed out the flaws in Western-style democracy, it was still the best system of government available to Muslims.
 
-Jinnah specifically did not want a theocratic state run by mullahs. In
-a broadcast to the people of the United States of America recorded in
-February 1948, Jinnah made his position clear:
+Jinnah specifically did not want a theocratic state run by mullahs. In February 1948, Jinnah made his position clear:
 
+{{< q a="Jinnah" >}}
 Pakistan is not going to be a theocratic State to be ruled by priests with a divine mission. We have many non-Muslims-Hindus, Christians and Parsees-but they are all Pakistanis. They will enjoy the same rights and privileges as any other citizens and will play their rightful part in the affairs of Pakistan.
+{{< /q >}}
 
-When his enthusiastic admirers addressed him as 'Maulana Jinnah'
-(Our Master Jinnah) he put them down, saying: 'I am not a maulana, just
-plain Mr Jinnah.'
+When his enthusiastic admirers addressed him as 'Maulana Jinnah' (Our Master Jinnah) he put them down, saying: 'I am not a maulana, just plain Mr Jinnah.'
 

@@ -29,7 +29,7 @@ The other Elements -- **spacetime and aether -- are not objective nor precise**.
 Worse, the focus on objectivitiy, which is really a focus on crude matter, goes against the subtle nature of the abstract human mind (soul). Scientists end up using their knowledge to create nuclear bombs or hypersonic missles to destroy other humans more efficiently, just as Wall Street uses scientific models to amass more money, creating worse financial crises.
 
 
-{{< q a="Sarkar" c="Civilization, Science and Spiritual Progress" >}}
+{{< q a="PR Sarkar" c="Civilization, Science and Spiritual Progress" >}}
 Science teaches the proper use of material things. When the development of civilization is utterly negligible and science gradually attains the apogee of development, science leads the way for destruction instead of doing any good to humanity. And so, the study and practice of science, though unavoidable, **should not be given a higher place than civilization.**
 {{< /q >}}
 
@@ -112,9 +112,8 @@ To fully unlock the features of the universe, the limitations of crude, objectiv
 
 The subjectivity and arbitrariness of Nature can be understood only through Metaphysics, since it is the cause of everything in Physics. This is proven by the maxim "mentality creates reality". 
 
-{{< q a="Hume" >}}
+{{< q a="David Hume" c="A Treatise of Human Nature, Book 1, Part 2, Section 2" >}}
 It is an established maxim in metaphysics, that whatever the mind clearly conceives, includes the idea of possible existence, or in other words, nothing we imagine is absolutely impossible.
-<cite>A Treatise of Human Nature, Book 1, Part 2, Section 2</cite>
 {{< /q >}}
 
 

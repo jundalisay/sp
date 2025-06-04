@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 
 
 
-#### 6. The particles of the earth-aether in Region 3 are quite large.
+## 6. The particles of the earth-aether in Region 3 are quite large.
 
 They arose from the dissolution of spots, which consisted of the smallest remnants of the fire-aether. 
 
@@ -22,7 +22,7 @@ When fused together, each is composed of many such remnants and is quite large. 
 Because whatever could not withstand this, would be resolved again into the fire-aether or air-aether.
 
 
-#### 7. The earth-aether at Region 3 can be changed by the fire-aether and air-aether
+## 7. The earth-aether at Region 3 can be changed by the fire-aether and air-aether
 
 They completely resist the globules of the air-aether.
 
@@ -33,7 +33,7 @@ This is why the earth-aether can be changed somewhat by its encounter with the f
 
 
 
-#### 8. The earth-aether are larger than the globules of the air-aether but less solid and less agitated.
+## 8. The earth-aether are larger than the globules of the air-aether but less solid and less agitated.
 
 These remnants of the fire-aether have various shapes. 
 
@@ -54,7 +54,7 @@ The fire-aether remnants from which they are composed are connected in numerous 
 
 
 
-### 9. These earth-aether particles enveloped the Earth.
+## 9. These earth-aether particles enveloped the Earth.
 
 Although separated from each other, they incubated around the Earth when it was still rotating like fixed stars in its own vortex and had not yet fallen toward the Sun.
 
@@ -65,8 +65,9 @@ Instead, they all gathered around sphere `M`, pushed towards the center `I` by t
 This was because those air-aether globules had greater force of agitation*. 
 - This made them go away from that center.
 
+
 {{< b >}}
-#### Superphysics Note
+### Superphysics Note
 
 *This was from being displaced by the earth-aether which occupied the empty space at the center. 
 - The more dense the center was with the earth-aether, the more air-aether will be kicked out. 

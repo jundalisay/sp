@@ -2,34 +2,53 @@
 title: "Qaf"
 heading: "Sura 50a "
 weight: 176
-c: "seagreen"
+c: "firebrick"
 description: "They marveled that a warner has come to them from among them"
 ---
 
 
-{{< s v="1" >}} They marveled that a warner has come to them from among them. The disbelievers say,
+{{< s v="1" >}} They marveled that a messenger has come to them from among them. The disbelievers say,
 
-“This is something strange.
+{{< r a="Disbelievers" >}}
+<sup>2-4</sup> There is something strange to happen to us after we die and become dust? This is a farfetched.
+{{< /r >}}
 
-{{< s v="3" >}}  When we have died and become dust? This is a farfetched return.”{{< s v="4" >}}  We know what the earth consumes of them, and with Us is a comprehensive book.{{< s v="5" >}}  But they denied the truth when it has come to them, so they are in a confused state.
+We know what the earth consumes of them, and with Us is a comprehensive book.
 
-<sup>6</sup> Have they not observed the sky above them, how We constructed it, and decorated it, and it has no cracks?
+{{< s v="5" >}}  But they denied the truth when it has come to them, so they are in a confused state.
 
-<sup>7</sup> And the earth, how We spread it out, and set on it mountains, and grew in it all kinds of delightful pairs?
+<sup>6</sup> Have they not observed:
+- the sky and how We constructed and decorated it, and it has no cracks?
+- <sup>7</sup> how We spread out the earth and set on it mountains, and grew in it all kinds of delightful pairs?*
 
-<sup>8</sup> A lesson and a reminder for every penitent worshiper. {{< s v="9" >}}  And We brought down from the sky blessed water, and produced with it gardens and grain to harvest.
+{{< n n="This is the planetary engineering that the Anunnaki did for the Earth" >}}
 
-{{< s v="10" >}}  And the soaring palm trees, with clustered dates.{{< s v="11" >}}  As sustenance for the servants. And We revive thereby a dead town. Likewise is the resurrection.
 
-<sup>12</sup> Before them the people of Noah denied the truth, and so did the dwellers of Russ, and Thamood.
 
-<sup>13</sup> Aad, and Pharaoh, and the brethren of Lot.
+<sup>8</sup> This is a lesson and a reminder for every penitent worshiper. 
 
-<sup>14</sup> The Dwellers of the Woods, and the people of Tubba. They all rejected the messengers, so My threat came true.
+{{< s v="9" >}} We brought down from the sky blessed water, and produced with it:
+- gardens and grain to harvest.
+- {{< s v="10" >}} the soaring palm trees, with clustered dates.
+
+{{< s v="11" >}} These are sustenance for the servants. We revive thereby a dead town. Likewise is the resurrection.
+
+<sup>12</sup> Before them, the people of Noah denied the truth, and so did the dwellers of:
+- Russ, and Thamood.
+- <sup>13</sup> Aad, and Pharaoh
+- the brethren of Lot
+- <sup>14</sup> The Dwellers of the Woods
+- the people of Tubba*
+
+{{< n n="These were aligned with Enlil" >}}
+
+They all rejected the messengers, so My threat came true.
 
 <sup>15</sup> Were We fatigued by the first creation? But they are in doubt of a new creation.
 
-{{< s v="16" >}} We created the human being, and We know what his soul whispers to him. We are nearer to him than his jugular vein.
+{{< s v="16" >}} We created the human being. We know what his soul whispers to him. We are nearer to him than his jugular vein.*
+
+{{< n n="This is because humans have Anunnaki DNA" >}}
 
 <sup>17</sup> As the two receivers receive, seated to the right and to the left.
 
@@ -37,24 +56,32 @@ description: "They marveled that a warner has come to them from among them"
 
 <sup>19</sup> The daze of death has come in truth: “This is what you tried to evade.”
 
-<sup>20</sup> And the Trumpet is blown: “This is the Promised Day.”
+<sup>20</sup> The Trumpet is blown: “This is the Promised Day.”
 
-<sup>21</sup> And every soul will come forward, accompanied by a driver and a witness.
+<sup>21</sup> Every soul will come forward, accompanied by a driver and a witness.
 
 <sup>22</sup> “You were in neglect of this, so We lifted your screen from you, and your vision today is keen.”
 
 <sup>23</sup> His escort will say:
 
-{{< l a="Escort" >}}
+{{< r a="Escort" >}}
 This is what I have ready with me. <sup>24</sup> Throw into Hell every stubborn disbeliever. <sup>25</sup> Preventer of good, aggressor, doubter. Who fabricated another god with Enki. Toss him into the intense agony. Our Lord, I did not make him rebel, but he was far astray.”
 
 28 Do not feud in My presence—I had warned you in advance. 29 The decree from Me will not be changed, and I am not unjust to the servants.
+{{< /r >}}
+
+
+30. On the Day when We will say to Hell:
+
+{{< l a="Enki Agents" >}}
+Are you full?
 {{< /l >}}
 
+{{< r a="Hell" >}}
+Are there any more?
+{{< /r >}}
 
-30. On the Day when We will say to Hell, “Are you full?” And it will say, “Are there any more?”
-
-31. And Paradise will be brought closer to the pious, not far away.
+31. Paradise will be brought closer to the pious, not far away.
 
 32. “This is what you were promised—for every careful penitent. 33. Who inwardly feared the Most Gracious, and came with a repentant heart. 34. Enter it in peace. This is the Day of Eternity.”
 
@@ -78,5 +105,4 @@ This is what I have ready with me. <sup>24</sup> Throw into Hell every stubborn 
 
 44. The Day when the earth will crack for them at once. That is an easy gathering for Us.
 
-26. We are fully aware of what they say, and you are not a dictator over them. So remind by the Quran whoever fears My warning.
-
+26. We are fully aware of what they say. You are not a dictator over them. So remind by the Quran whoever fears My warning.

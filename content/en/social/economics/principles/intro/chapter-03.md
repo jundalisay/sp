@@ -11,7 +11,7 @@ description: "To prevent economic disorder, we correct the mistakes of Economics
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

@@ -2,12 +2,12 @@
 title: The Different Notions of Interest Rates
 heading: How Keynes Messed-up Things
 date: 2021-01-15
-image: /covers/keynes.jpg
+c: "firebrick"
 description: We explain the different notions of interest of Ricardo, Marshall, Pigou, Von Mises, and Keynes
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

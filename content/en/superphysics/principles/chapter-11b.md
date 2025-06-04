@@ -67,15 +67,18 @@ If the scientific revolution upgraded the natural philosopher into a scientist, 
 
 This upgrade manifests as the huge amounts of data and information absorbed and processed by the dialectician from all sources anywhere in the world in all of human history which the scientist neglects or refuses. For example, scientists refuse to regard myths and metaphysical works as information. They immediately refuse ideas from Ayurveda, Feng Shui, Reiki, souls, aliens, other dimensions, etc.
 
-  
-Dialectics is unbiased and so it can take this mass of ideas to be churned in order to extract common patterns that can lead to more solid principles. For example, it takes the observations on the levitation of Buddhist monks and the zipping of UFOs to add new possibilities of movement and propulsion to benefit space travel. These observations are then put into the black box of dialectical principles in order to create new ones. 
+True dialectics is unbiased and so it can take this mass of ideas to be churned in order to extract common patterns that can lead to more solid principles.
 
-For example, we run [Einstein's General Relativity](/material/fallacies/general-relativity/) through Socrates' principles or black box to reveal its fatal flaws. We run it again through Descartes principles in order to come up with [The Elastic Theory of Gravity](/material/principles/part-2/chapter-04) that matches Quantum Mechanics.
+For example, it takes the observations on the levitation of Buddhist monks and the zipping of UFOs to add new possibilities of movement and propulsion to benefit space travel. These observations are then put into the black box of dialectical principles in order to create new ones. 
 
-This system of collecting all possible data and then churning them with principles in order to come up with solutions is then called **Superphysics**. 
+For example, we run [Einstein's General Relativity](/material/fallacies/general-relativity/) through Socrates' principles or black box to reveal its fatal flaws.
 
-The trigger for the original dialectics of Socrates was the prevalence of writing and literature among the Greeks. The trigger for Superphysics is the internet and all the content loaded in it. 
+We run it again through Descartes' principles to fix it and come up with The Elastic Theory of Gravity that matches Quantum Mechanics.
 
+This Socratic dialectical system of collecting all possible data and then churning them with principles in order to come up with solutions is the main process for **Superphysics**, with the core mechanism being the dharma or true nature of things, removed from the illusion.
+
+- The trigger for the original dialectics of Socrates was the prevalence of writing and literature among the Greeks. 
+- The trigger for Superphysics is the internet and all the content loaded in it. 
 
 Science cannot solve things conclusively because it is based on effect, relying solely on material perceptions. 
 
@@ -113,7 +116,7 @@ We use the Socratic dialectical approach and the scientific approach to solve Co
 
 
 {{< q a="Socrates" c="The Republic Simplified, Book 7, Chapter 4" >}}
-<p>the science of harmony, is a laborious study and this is why we should learn it. It will tell us whether there are any other applications of these sciences. At the same time, we must not lose sight of our own higher object.</p>
+The science of harmony, is a laborious study and this is why we should learn it. It will tell us whether there are any other applications of these sciences. At the same time, we must not lose sight of our own higher object.
 {{< /q >}}
 
 

@@ -1,13 +1,13 @@
 ---
-title: ARMY AND POLITICS'
+title: Army And Politics
 weight: 32
 # date: 2023-06-17
 description: "Pakistan is a prisoner of its geography and history."
-image: "/flags/pk.png"
+heading: Chapter 5
+c: darkgreen
+author: Shuja Nawaz
 ---
 
-
-Shuja Nawaz
 
 Pakistan is a prisoner of its geography and history. 
 
@@ -34,11 +34,7 @@ of modernism and militant and radical Islam.
 
 These continuing wars have created political uncertainty and tumult, leading to the assassination of former Prime Minister Benazir Bhutto in December 2007. 
 
-The 2008 elections gave some hope, allowing the leading political parties, Bhutto's
-Pakistan Peoples Party and former Prime Minister Nawaz Sharif's
-Pakistan Muslim League (N group) to return to power. And the Islamist
-alliance in the North West Frontier Province was trounced by the Pashtun
-secular, though quite feudal, Awami National Party.
+The 2008 elections gave some hope, allowing the leading political parties, Bhutto's Pakistan Peoples Party and former Prime Minister Nawaz Sharif's Pakistan Muslim League (N group) to return to power. And the Islamist alliance in the North West Frontier Province was trounced by the Pashtun secular, though quite feudal, Awami National Party.
 
 At the heart of the political maelstrom is the Pakistan Army, probably the best organised group and a veritable political force unto itself, whose every action and hint creates reverberations in Pakistan's polity. 
 
@@ -61,10 +57,9 @@ Although the Muslim way of life was a motive behind the call for Pakistan, its e
 
 ### Early Nod to Islam
 
-The Pakistan Army, the largely Muslim rump of the British Indian Army, was also saddled at birth with this paradoxical identity: the symbols of Islam but the substance of a colonial force, quite distant from the body politic of the fledgling state. It adopted, for instance, the numbers 786 for 91the identification of its General Headquarters in Rawalpindi. In Islamic
-numerology, 786 represents the Arabic Bismillah ir-Rahman ir-Rahim:
-the invocation that Muslims intone at the start of any action or venture of
-note. 
+The Pakistan Army, the largely Muslim rump of the British Indian Army, was also saddled at birth with this paradoxical identity: the symbols of Islam but the substance of a colonial force, quite distant from the body politic of the fledgling state. 
+
+It adopted, for instance, the numbers 786 for 91the identification of its General Headquarters in Rawalpindi. In Islamic numerology, 786 represents the Arabic Bismillah ir-Rahman ir-Rahim: the invocation that Muslims intone at the start of any action or venture of note.
 
 This numerical code was emblazoned on all gateposts and vehicles,
 as a reminder that this was the Army of a Muslim country. For its badge,

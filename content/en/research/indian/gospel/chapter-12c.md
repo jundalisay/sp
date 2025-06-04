@@ -3,13 +3,13 @@ title: "Maya is the cause of ignorance"
 c: "indigo"
 heading: "Chapter 12c"
 weight: 56
-description: "Sri Ramakrishna arrived at Adhar's house in Calcutta. Rākhāl, M., and other devotees were with the Master"
+description: "Sri Ramakrishna arrived at Adhar's house in Calcutta. Rakhal, M., and other devotees were with the Master"
 ---
 
 
 Saturday, July 14, 1883
 
-Sri Ramakrishna arrived at Adhar's house in Calcutta. Rākhāl, M., and other devotees were with the Master. Adhar had arranged to have Rajnaraya, the famous singer, and his party, recite the Chandi.
+Sri Ramakrishna arrived at Adhar's house in Calcutta. Rakhal, M., and other devotees were with the Master. Adhar had arranged to have Rajnaraya, the famous singer, and his party, recite the Chandi.
 
 Rajnarayan began the recital in the worship hall. He sang:
 
@@ -141,10 +141,10 @@ M: "You said the other day to Navadvip Goswami:'O God, I want Thee. Please do no
 delude me with Thy world-bewitching maya. I want to realize Thee.' "
 MASTER: "Yes, one should be able to say that from one's innermost soul."
 Sri Ramakrishna arrived at Adhar's house and took a seat in the parlour. Ramlal, Adhar,
-M., and the other devotees sat near him. Rākhāl was staying with his father in Calcutta.
-MASTER (to Adhar): "Didn't you let Rākhāl know that I was coming?"
+M., and the other devotees sat near him. Rakhal was staying with his father in Calcutta.
+MASTER (to Adhar): "Didn't you let Rakhal know that I was coming?"
 ADHAR: "Yes, sir. I have sent him word."
-Finding that the Master was eager to see Rākhāl , Adhar at once sent his carriage to
+Finding that the Master was eager to see Rakhal , Adhar at once sent his carriage to
 fetch him. Adhar had been yearning to see the Master that day, but he had not
 definitely known that Sri Ramakrishna was coming.
 ADHAR: "You haven't been here for a long time. I prayed to God today that you might

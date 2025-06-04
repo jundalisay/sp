@@ -1,7 +1,7 @@
 ---
 title: "The Medical Science of the Mahábhárata period"
 heading: "Discourse 4"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: ""
 c: "indigo"
 writer:
   name: PR Sarkar
@@ -11,45 +11,51 @@ date: 1967-09-17
 ---
 
 
+## Western Medicine
+
+Allopathic treatment is a direct treatment of the disease.
+
+A particular disease is cured with the appropriate kind of medicine.
+
+
+## Ayurveda
+
 According to ayurveda, disease starts when the balance of the body is lost due to the increase or decrease of váyu or pitta or kapha.
 
 Medicine is applied to restore balance.
 
-If the amount of váyu or pitta decreases, medicine is applied to increase it.
-
-If the amount of vayu or pitta increases medicine is applied to decrease it. 
+- If the amount of váyu or pitta decreases, medicine is applied to increase it.
+- If the amount of vayu or pitta increases medicine is applied to decrease it. 
 
 This is the ayurvedik system of medicine.
 
 The unani system is similar. It has 4 factors (dhátu) – váyu, pitta, kapha and rakta.
 
-It adds rakta.
+It adds rakta. The other 3 factors are the same. 
 
-The other three factors are the same. 
+In both systems:
+- crude medicine is applied
+- surgery (shalya cikitsa) is simply nominal
 
-In both systems crude medicine is applied and surgery ( shalya cikitsa) is simply nominal.
-
-In the pure ayurvedik system there is no surgery. 
+**In the pure ayurvedik system there is no surgery.** 
 
 But the vaedyaka shástra of India which has been incorporated into the ayurvedik system included surgery.
 
-One more system is the homoeopathic system popularized by Hahnemann, a great man.
+In the ayurvedic and unani systems, the medicine is applied to bring a balance among the aforesaid factors, not to treat the disease.
 
-In the ayurvedic system and in the unani system the medicine is applied not to treat the disease but to bring about a balance among the aforesaid factors.
 
-In homoeopathy, too, whose principle is “Samah samam shamayati” (like cures like), the disease is not treated, but the symptom of the disease is treated. 
+## Homeopathy
 
-No matter whether the disease is diarrhoea or malaria, the symptom is treated and not the disease. 
+One more system is the homoeopathic system popularized by Hahnemann, a great man. Its principle is “Samah samam shamayati” (like cures like)
 
-Moreover, the medicine is applied in a subtle form.
+In homoeopathy, too, the symptom of the disease is treated, not the disease. 
+- No matter whether the disease is diarrhoea or malaria, the symptom is treated and not the disease. 
+- Moreover, the medicine is applied in a subtle form.
 
-It is theorized that the subtle affects the crude, hence subtle medicine is applied to cure the crude disease.
+It is theorized that the subtle affects the crude. Hence, subtle medicine is applied to cure the crude disease.
 
-The more subtle the medicine, the more effective the result on the crude disease.
+**The more subtle the medicine, the more effective the result on the crude disease.**
 
-Allopathic treatment is a direct treatment of the disease.
-
-A particular disease is cured with the appropriate kind of medicine.
 
 In India at that time, there was a mixture of ayurveda and vaedyaka shástra.
 
@@ -65,19 +71,21 @@ Homoeopathy was not started by Mahatma Hahnemann, instead it was developed by hi
 
 Viśa cikitsá is native to India. Its first reference is found in the Mahábhárata period.
 
-Later on this viśa cikitsá was encouraged not by Aryans, but rather by non-Aryans, and South India, especially Malabar, saw it expand a lot.
+Later on this viśa cikitsá was encouraged not by Aryans, but rather by non-Aryans.
+
+South India, especially Malabar, saw it expand a lot.
 
 These people attribute the origin of viśa cikitsá to Lord Krśńa, i.e., viśa cikitsá was originated by Krśńa.
 
 Vaedyaka shástra was originated by Lord Sadáshiva.
 
-Actually, ayurveda was known to the Aryans earlier than Lord Shiva. 
+Actually, **ayurveda was known to the Aryans earlier than Lord Shiva**. 
 
 But Lord Sadáshiva brought about a blending between vaedyaka shástra and ayurveda.
 
-But the originator of viśa cikitsá was Lord Krśńa.
+**But the originator of viśa cikitsá was Lord Krśńa.**
 
-In the Mahábhárata period, it was appreciated a lot, and people discussed it and practised it by applying different venoms to cure bites:
+In the Mahábhárata period, it was appreciated a lot. People discussed it and practised it by applying different venoms to cure bites:
 - snake venom to cure snake bite
 - spider venom to cure spider bite
 - scorpion venom to cure scorpion bite, etc. 
@@ -86,6 +94,7 @@ In time, it was neglected.
 
 At last it had some place in the royal family of Cochin. This system is neglected nowadays, but if it is encouraged, a new system will be added to medical science.
 
+
 Arkavana (arkapatra) is generally found in a cremation ground.
 
 If this is used either externally or internally, the eye becomes defective.
@@ -93,6 +102,7 @@ If this is used either externally or internally, the eye becomes defective.
 But it was discovered in the Mahábhárata period that if that same arkavana is used in a subtle form, it is a very good medicine for various eye diseases.
 
 The same system of “Samah samam shamayati,” i.e., poison roots out poison, is there.
+
 
 Surgery is considered to be a part of allopathy. This is not really so. Rather it is a part of ayurveda shástra.
 

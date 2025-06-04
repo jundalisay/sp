@@ -7,7 +7,7 @@ weight: 40
 # date: 2021-06-23
 image: "/graphics/super/egl.jpg"
 description: "The Eagle is our Equation for the movement of Everything in the physical dimension"
-icon: /icons/pantry.png
+icon: "Supereconomics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

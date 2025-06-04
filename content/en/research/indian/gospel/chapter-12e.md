@@ -91,8 +91,8 @@ people."
 Did the Master thus transmit spiritual powers to his disciples? Did he thus come to know
 that his disciples, after him, would go out into the world as teachers of men?
 
-Rākhāl was in the room. Sri Ramakrishna was still in a state of partial consciousness
-when he said to Rākhāl : "You were angry with me, weren't you? Do you know why I
+Rakhal was in the room. Sri Ramakrishna was still in a state of partial consciousness
+when he said to Rakhal : "You were angry with me, weren't you? Do you know why I
 made you angry? There was a reason. Only then would the medicine work. The surgeon
 first brings an abscess to a head. Only then does he apply a herb so that it may burst
 and dry up."
@@ -104,7 +104,7 @@ Jagaddhatri? She is the Bearer of the Universe. Without her support and protecti
 universe would fall from its place and be destroyed. The Divine Mother, Jagaddhatri,
 reveals Herself in the heart of one who can control the mind, which may be compared to
 an elephant."
-RĀKHĀL: "The mind is a mad elephant."
+Rakhal: "The mind is a mad elephant."
 
 MASTER: "Therefore the lion, the carrier of the Divine Mother, keeps it under control."
 It was dusk. The evening service began in the temples. Sri Ramakrishna was chanting
@@ -217,8 +217,8 @@ worship."
 MASTER: "You are right. Our only duty is to seek the Master of the garden and speak to
 Him. The only purpose of life is to realize God."
 Sri Ramakrishna then went to Adhar's house. After dusk he sang and danced in Adhar's
-drawing-room. M., Rākhāl , and other devotees were present. After the music he sat
-down, still in an ecstatic mood. He said to Rākhāl: "This religious fervour is not like rain
+drawing-room. M., Rakhal , and other devotees were present. After the music he sat
+down, still in an ecstatic mood. He said to Rakhal: "This religious fervour is not like rain
 in the rainy season, which comes in torrents and goes in torrents. It is like an image of
 Śiva that has not been set up by human hands but is a natural one that has sprung up,
 301as it were, from the bowels of the earth. The other day you left Dakshineswar in a

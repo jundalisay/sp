@@ -27,7 +27,7 @@ the temple of Radha-Krishna, built on the bank of the Ganges.
 The Master had been invited to the festival by Mani Sen, who was the custodian of the
 temple. 
 
-Ram, M., Rākhāl , Bhavanath, and a few other disciples went with the Master in
+Ram, M., Rakhal , Bhavanath, and a few other disciples went with the Master in
 a carriage. On his way to Pānihāti Sri Ramakrishna was in a light mood and joked with
 the youngsters. But as soon as the carriage reached the place of the festival, the
 Master, to the utter amazement of' the devotees, shot into the crowd. He joined the
@@ -158,9 +158,9 @@ possibly accept any money. But Mani insisted. The Master then asked him in the n
 of his guru not to press him. Mani requested him again to accept the offering. Sri
 Ramakrishna asked M., in a distressed voice, whether he should take the money. The
 disciple made a vehement protest and said, "No, sir. By no means."
-Friends of Mani Sen gave the money to Rākhāl , requesting him to buy some mangoes
+Friends of Mani Sen gave the money to Rakhal , requesting him to buy some mangoes
 and sweets for the Master. Sri Ramakrishna said to M.: "I have definitely said to Mani
-that I would not accept the money. I feel free now. But Rākhāl has accepted it. His is
+that I would not accept the money. I feel free now. But Rakhal has accepted it. His is
 now the responsibility."
 Sri Ramakrishna, accompanied by the devotees, took a carriage to return to
 Dakshineswar. They were going to pass the temple garden of Mati Seal on the way. For

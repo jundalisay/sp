@@ -27,21 +27,25 @@ Thus, after Nirvikalpa Samādhi, Sri Ramakrishna realized Māyā in an altogethe
 
 Māyā became Brahman. The Transcendental Itself broke through the Immanent. Sri Ramakrishna discovered that Māyā operates in the relative world in two ways, and he termed these "Avidyā–Māyā" and "Vidyā–Māyā".
 
-Avidyā–Māyā represents the dark forces of creation: sensuous desires, evil passions, greed, lust, cruelty, and so on. It sustains the world system on the lower planes. It is responsible for the round of man's birth and
-death. It must be fought and vanquished. But Vidyā–Māyā is the higher force of
-creation: the spiritual virtues, the enlightening qualities, kindness, purity, love, devotion.
-Vidyā–Māyā elevates man to the higher planes of consciousness. With the help of Vidyā–
-Māyā the devotee rids himself of Avidyā–Māyā; he then becomes Māyātita , free of Māyā.
-The two aspects of Māyā are the two forces of creation, the two powers of Kāli; and She
-stands beyond them both. She is like the effulgent sun, bringing into existence and
-shining through and standing behind the clouds of different colours and shapes,
-conjuring up wonderful forms in the blue autumn heaven.
+Avidyā–Māyā represents the dark forces of creation: sensuous desires, evil passions, greed, lust, cruelty, and so on. 
+- It sustains the world system on the lower planes. It is responsible for the round of man's birth and death. 
+- It must be fought and vanquished.
 
-The Divine Mother asked Sri Ramakrishna not to be lost in the featureless Absolute but to remain in Bhāva–mukha, on the threshold of relative consciousness, the border line between the Absolute and the Relative. He was to keep himself at the "sixth centre" of Tantra, from which he could see not only the glory of the seventh, but also the divine
-manifestations of the Kundalini in the lower centres. He gently oscillated back and forth
-across the dividing line.
+But Vidyā–Māyā is the higher force of creation: the spiritual virtues, the enlightening qualities, kindness, purity, love, devotion. 
+
+Vidyā–Māyā elevates man to the higher planes of consciousness. With the help of Vidyā– Māyā the devotee rids himself of Avidyā–Māyā.
+- He then becomes Māyātita , free of Māyā.
+
+The two aspects of Māyā are the 2 forces of creation, the 2 powers of Kāli
+
+She stands beyond them both. She is like the effulgent sun, bringing into existence and shining through and standing behind the clouds of different colours and shapes, conjuring up wonderful forms in the blue autumn heaven.
+
+The Divine Mother asked Sri Ramakrishna not to be lost in the featureless Absolute but to remain in Bhāva–mukha, on the threshold of relative consciousness, the border line between the Absolute and the Relative. 
+
+He was to keep himself at the "sixth centre" of Tantra, from which he could see not only the glory of the seventh, but also the divine manifestations of the Kundalini in the lower centres. He gently oscillated back and forth across the dividing line.
 
 Ecstatic devotion to the Divine Mother alternated with serene absorption in the Ocean of Absolute Unity. He thus bridged the gulf between the Personal and the Impersonal, the immanent and the transcendent aspects of Reality.
+
 This is a unique experience in the recorded spiritual history of the world.
 
 ## Totāpuri's Lesson
@@ -62,24 +66,26 @@ One night the pain became excruciating. He could no longer concentrate on Brahma
 
 A free soul, he did not at all care for the body. So he determined to drown it in the Ganges. Thereupon he walked into the river.
 
-But, lo! He walks to the other bank. Is there not enough water in the Ganges? Standing
-dumbfounded on the other bank he looks back across the water. The trees, the temples,
-the houses, are silhouetted against the sky. Suddenly, in one dazzling moment, he sees
-on all sides the presence of the Divine Mother. She is in everything; She is everything.
+But, lo! He walks to the other bank. Is there not enough water in the Ganges? Standing dumbfounded on the other bank he looks back across the water. The trees, the temples, the houses, are silhouetted against the sky. Suddenly, in one dazzling moment, he sees on all sides the presence of the Divine Mother. She is in everything; She is everything.
 
 She is in the water; She is on land. She is the body; She is the mind. She is pain; She is comfort. She is knowledge; She is ignorance. She is life; She is death. She is everything that one sees, hears, or imagines. She turns "yea" into "nay", and "nay" into "yea".
 
 Without Her grace no embodied being can go beyond Her realm. Man has no free will. He is not even free to die. Yet, again, beyond the body and mind She resides in Her Transcendental Absolute aspect. She is the Brahman that Totāpuri had been worshipping all his life.
 
 Totāpuri returned to Dakshineśwar and spent the remaining hours of the night meditating on the Divine Mother. In the morning he went to the Kāli temple with Sri Ramakrishna and prostrated himself before the image of the Mother. He now realized
-why he had spent 11 months at Dakshineśwar. Bidding farewell to the disciple, he
-continued on his way, enlightened.
+why he had spent 11 months at Dakshineśwar. 
 
-Sri Ramakrishna later described the significance of Totāpuri's lessons: "When I think of the Supreme Being as inactive - neither creating nor preserving nor destroying -, I call Him Brahman or Purusha, the Impersonal God. When I think of Him as active - creating, preserving, and destroying -, I call Him Śakti or Māyā or Prakriti, the Personal God. But
-the distinction between them does not mean a difference. The Personal and the
-Impersonal are the same thing, like milk and its whiteness, the diamond and its lustre,
-the snake and its wriggling motion. It is impossible to conceive of the one without the
-other. The Divine Mother and Brahman are one."
+Bidding farewell to the disciple, he continued on his way, enlightened.
+
+Sri Ramakrishna later described the significance of Totāpuri's lessons: 
+
+{{< q a="Ramakrishna" >}}
+When I think of the Supreme Being as inactive - neither creating nor preserving nor destroying - I call Him Brahman or Purusha, the Impersonal God.
+
+When I think of Him as active - creating, preserving, and destroying -, I call Him Śakti or Māyā or Prakriti, the Personal God. 
+
+But the distinction between them does not mean a difference. The Personal and the Impersonal are the same thing, like milk and its whiteness, the diamond and its lustre, the snake and its wriggling motion. It is impossible to conceive of the one without the other. The Divine Mother and Brahman are one.
+{{< /q >}}
 
 After Totāpuri left, Sri Ramakrishna remained for 6 months in a state of absolute identity with Brahman. 
 
@@ -119,22 +125,18 @@ Sri Ramakrishna had not read books, yet he possessed an encyclopaedic knowledge 
 
 Sri Ramakrishna used to say that when the flower blooms the bees come to it for honey of their own accord. Now many souls began to visit Dakshineśwar to satisfy their spiritual hunger. He, the devotee and aspirant, became the Master. Gauri, the great scholar who had been one of the first to proclaim Sri Ramakrishna an Incarnation of God, paid the Master a visit in 1870 and with the Master's blessings renounced the world. 
 
-Nārāyan Śāstri, another great pundit, who had mastered the six systems of Hindu philosophy and had been offered a lucrative post by the Maharaja of Jaipur, met the Master and recognized in him one who had realized in life those ideals which he himself had encountered merely in books. Sri Ramakrishna initiated Nārāyan Śastri, at his
-earnest request, into the life of sannyās. Pundit Padmalochan, the court pundit of the
-Maharaja of Burdwan, well known for his scholarship in both the Vedānta and the Nyāya
-systems of philosophy, accepted the Master as an Incarnation of God. 
+Nārāyan Śāstri, another great pundit, who had mastered the six systems of Hindu philosophy and had been offered a lucrative post by the Maharaja of Jaipur, met the Master and recognized in him one who had realized in life those ideals which he himself had encountered merely in books.
 
-Krishnakishore, a Vedantist scholar, became devoted to the Master. And there arrived Viśwanāth
-Upādhyāya, who was to become a favourite devotee; Sri Ramakrishna always addressed him as "Captain". He was a high officer of the King of Nepal and had received the title of Colonel in recognition of his merit. A scholar of the Gita, the Bhāgavata, and the Vedānta philosophy, he daily performed the worship of his Chosen Deity with great devotion. "I
-have read the Vedas and the other scriptures", he said.
+Sri Ramakrishna initiated Nārāyan Śastri, at his earnest request, into the life of sannyās. Pundit Padmalochan, the court pundit of the Maharaja of Burdwan, well known for his scholarship in both the Vedānta and the Nyāya systems of philosophy, accepted the Master as an Incarnation of God.  
 
-"I have also met a good many monks and devotees in different places. But it is in Sri Ramakrishna's presence that my
-spiritual yearnings have been fulfilled. To me he seems to be the embodiment of the truths of the scriptures."
+Krishnakishore, a Vedantist scholar, became devoted to the Master. And there arrived Viśwanāth Upādhyāya, who was to become a favourite devotee; Sri Ramakrishna always addressed him as "Captain". 
 
-The Knowledge of Brahman in nirvikalpa Samādhi had convinced Sri Ramakrishna that
-the gods of the different religions are but so many readings of the Absolute, and that the
-Ultimate Reality could never be expressed by human tongue. He understood that all
-religions lead their devotees by differing paths to one and the same goal. Now he
-became eager to explore some of the alien religions; for with him understanding meant
-actual experience.
+He was a high officer of the King of Nepal and had received the title of Colonel in recognition of his merit. A scholar of the Gita, the Bhāgavata, and the Vedānta philosophy, he daily performed the worship of his Chosen Deity with great devotion. 
+
+{{< q a="Krishnakishore" >}}
+I have read the Vedas and the other scriptures. I have also met a good many monks and devotees in different places. But it is in Sri Ramakrishna's presence that my spiritual yearnings have been fulfilled. To me he seems to be the embodiment of the truths of the scriptures.
+{{< /q >}}
+
+
+The Knowledge of Brahman in nirvikalpa Samādhi had convinced Sri Ramakrishna that the gods of the different religions are but so many readings of the Absolute, and that the Ultimate Reality could never be expressed by human tongue. He understood that all religions lead their devotees by differing paths to one and the same goal. Now he became eager to explore some of the alien religions; for with him understanding meant actual experience.
 

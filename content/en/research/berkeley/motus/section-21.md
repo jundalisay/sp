@@ -1,9 +1,9 @@
 ---
 title: "Action and Reaction"
-heading: "Part 4"
-weight: 9
+heading: "Section 21"
+weight: 19
 description: ""
-:c: "steelblue"
+c: "steelblue"
 author: "George Berkeley"
 icon: "George Berkeley"
 ---
@@ -58,30 +58,51 @@ Those who imagine something unknown in the body, of which they have no idea, and
 
 25. Beyond corporeal things, there is another category: thinking beings. From our own experience, we know that these possess the power to move bodies.
 
-For our soul can, at will, initiate and stop the movement of limbs—however it may do so. This much is certain: bodies move at the command of the soul, and therefore the soul can rightly be called a principle of motion—though a particular and subordinate one, itself dependent on a primary and universal Principle.
+For our soul can, at will, initiate and stop the movement of limbs—however it may do so. 
+
+Bodies move at the command of the soul.
+
+Therefore, the soul is a principle of motion—though a particular and subordinate one, itself dependent on a primary and universal Principle.
 
 
-26 Heavy bodies fall downward even when no apparent impulse sets them in motion. However, one must not conclude from this that the principle of motion lies within them.
+26. Heavy bodies fall downward even when no apparent impulse sets them in motion.
+
+However, one must not conclude from this that the principle of motion lies within them.
 
 Aristotle explains: heavy and light things do not move themselves—for that would imply life, and the power to stop. 
 
 All heavy objects follow the same fixed law toward the center of the Earth, and they display no principle or faculty by which they might stop, slow down, increase (except proportionally), or change this motion. 
 
-Thus, they are entirely passive. The same, strictly speaking, must be said of bodies that cause impact. Whether moving or in the moment of impact, these bodies are just as passive as when they are at rest. 
+Thus, they are entirely passive.
 
-An inert, resting body acts no more than a moving one, as Newton acknowledges when he states that inertia is the same as momentum. But an inert and resting body does nothing—therefore neither does the moving one.
+The same must be said of bodies that cause impact.
+
+Whether moving or in the moment of impact, these bodies are just as passive as when they are at rest. 
+
+An inert, resting body acts no more than a moving one, as Newton acknowledges when he states that inertia is the same as momentum. 
+
+But an inert and resting body does nothing—therefore neither does the moving one.
 
 
-27 In truth, a body persists equally in either state—motion or rest. But this persistence is no more an action of the body than its mere existence could be called an action. Persistence is just a continuation of the same mode of existence and cannot properly be called action.
+27. In truth, a body persists equally in either state—motion or rest.
 
-The resistance we feel when stopping a moving body is mistakenly attributed to the body’s action. In fact, that resistance is a sensation within us—it is we who suffer, not the body that acts.
+But this persistence is no more an action of the body than its mere existence could be called an action. 
+
+Persistence is just a continuation of the same mode of existence and cannot properly be called action.
+
+The resistance we feel when stopping a moving body is mistakenly attributed to the body’s action. 
+
+In fact, that resistance is a sensation within us—it is we who suffer, not the body that acts.
 
 Clearly, we would experience the same thing whether the body moved itself or was moved by some external principle.
 
 
-28 We speak of action and reaction in bodies, and this is convenient for mechanical demonstrations. 
 
-But we must be careful not to suppose from this that there is any real force in them that serves as a cause or principle of motion. These terms should be understood in the same way as "attraction"—which Newton used not as a real physical quality, but merely as a mathematical hypothesis. 
+28. We speak of action and reaction in bodies, and this is convenient for mechanical demonstrations. 
+
+But we must be careful not to suppose from this that there is any real force in them that serves as a cause or principle of motion. 
+
+These terms should be understood in the same way as "attraction"—which Newton used not as a real physical quality, but merely as a mathematical hypothesis. 
 
 In the same way, the laws of motion and the theorems derived from them remain valid in mechanical philosophy, whether we suppose the effects are caused by the action of bodies attracting one another or by the action of some separate agent moving and governing the bodies.
 
@@ -92,44 +113,6 @@ Similarly, all rules and laws of motion, and the theorems based on them, hold fi
 
 But these qualities are indifferent to motion and contain nothing that could be called a principle of motion. This is clear from our very ideas. 
 
-So, if by “body” we mean what we conceive, it is plain that no principle of motion can be found in it: no part or attribute of it is a true efficient cause that produces motion. To speak a word without conceiving an idea is unworthy of a philosopher.
+So, if by “body” we mean what we conceive, then no principle of motion can be found in it: no part or attribute of it is a true efficient cause that produces motion. To speak a word without conceiving an idea is unworthy of a philosopher.
 
 
-30. There exists a thinking, active thing, which we experience in ourselves as the principle of motion—this is what we call the soul, mind, or spirit.
-
-There also exists an extended, inert, impenetrable thing, which is fundamentally different—a whole other kind of being. The difference between thinking and extended things was first recognized by the very wise Anaxagoras, who declared that the mind has nothing in common with bodies, as Aristotle notes in the first book of *De Anima*. 
-
-Among moderns, Descartes also perceived this distinction clearly. Others, however, have made what was already a clear idea obscure and difficult by wrapping it in confusing words.
-
-
-31. Those who affirm that active force, action, the principle of motion, truly exists in bodies, embrace an opinion founded on no experience.
-
-They establish it with obscure and general terms. Nor do they sufficiently understand what they want. 
-
-On the contrary, those who wish the mind to be the principle of motion put forth an opinion fortified by their own experience, and approved by the votes of all the most learned men of every age.
-
-
-32. First, Anaxagoras introduced νοῦς [nous, mind], which would impress motion on inert matter.
-
-Aristotle also approves of this opinion, and confirms it with many arguments. He openly declares that the first mover is immobile, indivisible, and has no magnitude.
-
-But to say that every moving thing is movable, the same author rightly observed, is the same as saying that every building thing is buildable, *Physics*, Book 3.
-
-Plato in the *Timaeus* relates that this bodily machine, or visible world, is agitated and animated by mind, which escapes all sense.
-
-Even today, the most learned philosophers acknowledge God as the principle of natural motions. 
-
-Newton everywhere and not obscurely suggests that not only did motion proceed from the divine power in the beginning, but that the world system is still moved by the same act.
-
-This is consistent with the sacred writings. This is confirmed by the calculation of the Scholastics. 
-
-Even if the Peripatetics teach that nature is the principle of motion and rest, they nevertheless interpret the naturing nature to be God.
-
-They understand, of course, that all the bodies of this world system are moved by a most powerful mind according to a certain and constant reason.
-
-
-33. Those who attribute a vital principle to bodies imagine something obscure and little in accord with things. 
-
-For what else is it to be endowed with a vital principle than to live? Or what is it to live other than to move oneself, to stop, and to change one's state?
-
-But the most learned philosophers of this age posit as an indubitable principle that every body perseveres in its state, either of rest or of uniform motion in a straight line, unless it is compelled by some external force to change that state; on the contrary, in the soul we feel there is a faculty of changing both its own state and that of other things; this is properly called vital, and distinguishes the soul far from bodies.

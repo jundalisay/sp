@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-#### 72. How do metals reach the exterior from the interior? how is cinnabar formed?
+## 72. How do metals reach the exterior from the interior? how is cinnabar formed?
 
 Similarly, vapors of quicksilver get particles of other metals mixed in them when they creep through the Earth's crevices and larger channels. 
 - This saturate them with gold, silver, lead, and others. 
@@ -27,7 +27,7 @@ Finally, spirits and exhalations bring certain metals such as copper, iron, and 
 
 
 
-#### 73. Why metals are not found everywhere in the earth.
+## 73. Why metals are not found everywhere in the earth.
 
 These metals mostly ascend from the interior Earth where fragments of the exterior are immediately connected. 
 
@@ -42,7 +42,7 @@ This is why metals are not found everywhere in the Earth.
 
 
 
-#### 74. Why are metals mainly found at the roots of mountains, facing south and east?
+## 74. Why are metals mainly found at the roots of mountains, facing south and east?
 
 These metals usually tend to rise toward the roots of mountains, as indicated by point `V`. 
 
@@ -53,7 +53,7 @@ This is because there, the Earth fractures more than in other places.
 That is why miners usually seek them in those places.
 
 
-#### 75. All mines are in the external earth; never reaching the interior by digging.
+## 75. All mines are in the external earth; never reaching the interior by digging.
 
 **With persistent digging, one could ever reach the interior of the Earth.** 
 
@@ -64,7 +64,7 @@ This is because:
  <!-- which would rise with even greater force, the deeper the place where their veins first opened,  -->
 
 
-#### 76. Sulphur, Bitumen, Clay, and Oil
+## 76. Sulphur, Bitumen, Clay, and Oil
 
 The finest particles of exhalations consist only of pure air.
 
@@ -79,7 +79,7 @@ When combined with the particles of the Earth and the sun, they form clay.
 Finally, they turn into oil when their movement weakens to the point where they completely rely on each other.
 
 
-#### 77. How earthquakes occur
+## 77. How earthquakes occur
 
 When the air-and-spirit particles move faster than they can transform into oil, they flow into the cracks and cavities of the Earth.
 
@@ -94,7 +94,7 @@ Suddenly decompressed, they shake the walls of their prison vigorously, especial
 This is how earthquakes occur.
 
 
-#### 78. Why does fire erupt from some mountains?
+## 78. Why does fire erupt from some mountains?
 
 During these motions, sometimes that part of the Earth is shattered and opened.
 
@@ -114,7 +114,7 @@ Thus, some mountains are infamous for frequent such fires, like:
 - Mount Hekla in Iceland, etc.
 
 
-#### 79. Why multiple shocks tend to occur in an earthquake, sometimes lasting for hours or days.
+## 79. Why multiple shocks tend to occur in an earthquake, sometimes lasting for hours or days.
 
 Earthquakes sometimes last for several hours or days because there is not usually just one continuous cavity where dense and inflammable fumes are collected.
 

@@ -2,7 +2,7 @@
 title: "Islamic Justice"
 heading: "Sura 4f "
 weight: 48
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

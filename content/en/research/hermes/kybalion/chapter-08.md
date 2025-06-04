@@ -7,8 +7,8 @@ weight: 16
 ---
 
 
-{{< q >}}
-"As above, so below; as below, so above."—The Kybalion.
+{{< q a="Kybalion" >}}
+"As above, so below; as below, so above."
 {{< /q >}}
 
 

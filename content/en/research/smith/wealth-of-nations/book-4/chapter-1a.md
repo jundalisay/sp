@@ -108,25 +108,17 @@ They could import foreign goods or bring them to another foreign country better 
 
 On the contrary, the exportation of gold and silver could increase the gold and silver at home, by buying goods which could be re-exported for a large profit overseas. It might bring back more treasure than was originally paid for them.
 
-Mr. Mun compares this foreign trade to the seed-time and harvest of agriculture. He says that 
+Thomas Mun compares this foreign trade to the seed-time and harvest of agriculture:
 
-{{< q a="Mun" >}}
-We may think a husbandman is a madman when he casts good grains into the ground in the seed-time. But after we see his harvest, we realize that his actions increased the grains.
-{{< /q >}}
+{{< l a="Thomas Mun" >}}
+We may think a husbandman is a madman when he casts good grains into the ground in the seed-time. But after we see his harvest, we realize that his actions increased the grains...
 
-
-{{< s v="8" >}} He said that:
-
-{{< q a="Mun" >}}
-This prohibition would not stop gold and silver exportation because the smallness of their size relative to their value allowed them to be easily smuggled abroad. This exportation could only be prevented by a proper attention to the balance of trade.
+<sup>8</sup> This prohibition would not stop gold and silver exportation because the smallness of their size relative to their value allowed them to be easily smuggled abroad. This exportation could only be prevented by a proper attention to the balance of trade.
             
 When the country exported more value than it imported, a better balance came from foreign nations. This balance was paid in gold and silver. It increased the amount of gold and silver in the kingdom.
 
-But when it imported more value than it exported, a contrary balance was due to foreign nations. This balance was paid to them in gold and silver. It reduced the amount of gold and silver. In this case, the export prohbition on those metals could not prevent it.
-{{< /q >}}
+But when it imported more value than it exported, a contrary balance was due to foreign nations. This balance was paid to them in gold and silver. It reduced the amount of gold and silver. In this case, the export prohibition on those metals could not prevent it.
 
-
-{{< q a="Mun" >}}
 The export prohibition on goods would only make exportation more dangerous and expensive. A prohibition on gold and silver exports would make the balance still worse.
 
 The merchant who bought a bill on the foreign country was obliged to pay its banker: 
@@ -134,9 +126,7 @@ The merchant who bought a bill on the foreign country was obliged to pay its ban
 - the extraordinary risk from the prohibition
 
 Since the exchange would be against his country, the balance of trade would be still less to his favour. His country's money would get much less value than the foreign country's money to which the balance was due.
-{{< /q >}}
 
-{{< q a="Mun" >}}
 For example, if the exchange between England and Holland was 5% against England, it would require 105 ounces of silver in England to purchase a bill for 100 ounces of silver in Holland.
 - 105 ounces of silver in England would buy goods worth only 100 ounces of silver in Holland.
 - But 100 ounces of silver in Holland would buy goods worth 105 ounces of silver in England.
@@ -145,7 +135,7 @@ For example, if the exchange between England and Holland was 5% against England,
 - English goods would draw so much less Dutch money to England.
 - Dutch goods would draw so much more English money to Holland, according to this difference.
 - The balance of trade would be more against England as it would require more gold and silver to be exported to Holland.
-{{< /q >}}
+{{< /l >}}
 
 
 {{< n n="Mun's assertion is now known as balance of payments deficit or surplus. This is only true because international barter trade is non-existent. Smith's assertions will be valid after an international barter trade system is established as to provide competition to the money system. This is what [Pantrypoints](https:/pantrypoints.com) is aiming for. " >}}
@@ -209,12 +199,11 @@ Mun's book, [England's Treasure in Foreign Trade](/research/mun/englands-treasur
 
 With equal capitals, it creates the greatest revenue and employment for its people. Mun considered the inland or home trade as subsidiary only to foreign trade.
 
-He said that:
+{{< l a="Thomas Mun" >}}
+The inland trade did not bring money into the country nor carried money out.
 
-{{< q >}}
-- the inland trade did not bring money into the country nor carried money out
-- the country could never be richer or poorer by means of the inland trade, except when the inland trade indirectly influences the foreign trade
-{{< /q >}}
+The country could never be richer or poorer by means of the inland trade, except when the inland trade indirectly influences the foreign trade
+{{< /l >}}
 
 
 {{< s v="11" >}} A country that has no mines of its own must draw its gold and silver from overseas, in the same way as one that has no vineyards must draw its wines from others.

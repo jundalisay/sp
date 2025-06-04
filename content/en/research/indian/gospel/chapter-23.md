@@ -46,7 +46,7 @@ For centuries, the lovers of God in 1ndia have been worshipping the Divine by re
 In his ecstatic music Chaitanya assumed the role of Radha and manifested the longing to be united with Krishna. For a long period Sri Ramakrishna also worshipped God as his beloved Krishna, looking on himself as one of the gopis or as God's handmaid.
 
 At Surendra's garden house the kirtan had begun early in the morning. The musicians were singing about the love of Krishna and Radha for each other. The Master was
-frequently in samādhi. The room was crowded with devotees, among them Bhavanath, Niranjan, Rākhāl , Surendra, Ram, and M., and many members of the Brahmo Samaj.
+frequently in samādhi. The room was crowded with devotees, among them Bhavanath, Niranjan, Rakhal , Surendra, Ram, and M., and many members of the Brahmo Samaj.
 In accordance with the custom, the kirtan had begun with, an introductory song about Gaurānga.
 
 Gaurānga embraces monastic life. He is being consumed with longing for a vision of Krishna. He leaves Navadvip and goes away as a wandering monk to seek out his

@@ -2,6 +2,7 @@
 heading: Part 2
 title: The General Formula for Capital
 # heading: Capital Volume One
+c: "firebrick"
 weight: 2
 description: The General Formula for Capital from The Transformation of Money into Capital
 writer:

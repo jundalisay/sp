@@ -53,10 +53,18 @@ Those Gospels were based on the Torah, so they were included as reference.
 
 ## The Religion of the Anti-Romans: Protestantism
 
+Founder | Martin Luther
+--- | --- 
+Scripture | Protestant Bible
+Organization | Protestant Church
+
 
 The Protestant religion began in Germany through Martin Luther.
 
-The Germans, as an intellectual or thinker race, were natively were anti-Roman because the Romans were a militaristic or warrior race.    
+The Germans, as an intellectual or thinker race, were natively were anti-Roman because the Romans were a militaristic or warrior race*. 
+
+{{< n n="Montesquieu wrote that Rome was a Spartan colony, and Spartans were known as a warrior race">}}
+
 
 So this natural opposition transfers over to religion with the Germans making a rival religion to Catholicism.  
 
@@ -116,7 +124,7 @@ Buddha was keen to notice the dogmas in Hinduism, so he created an overhauled ve
 
 ## The Belief System of the Spiritual Chinese: Taoism
 
-Founder | Lao Tzu ?
+Founder | Someone who imported Tantra into China
 --- | --- 
 Scripture | Taoist Writings
 Organization | Taoist Temples
@@ -146,6 +154,7 @@ Confucius' solution was to base laws on tradition by emphasizing the ancestors a
 This is similar to Roman jurisprudence where laws and interpretations of laws are based on past laws and interpretations. 
 
 In essence, this raises the mental level to the spatial layer. 
+
 
 
 ## The Belief System of the Masses: Marxism
@@ -182,4 +191,18 @@ Organization | Nazi Groups
 The defeat of Germany in World War 1 because of England and Russia, created despair for the German masses.
 
 This drove Hitler to create Nazism that enticed the German masses to go to it instead of to the rival Marxists. 
+
+
+## The Belief System of the Chinese Masses: Maoism
+
+Founder | Mao Zedong
+--- | --- 
+Scripture | Quotations
+Organization | Chinese Communist Party
+
+The occupation of China by Japan created a lot of suffering for the Chinese, especially the masses. This led them to band together and adopt Mao's philosophy. 
+
+This also happened in Vietnam, as the Hanoi famine, which led people to unite under Ho Chi Minh. That famine made Vietnam agricultural as opposed to China which is industrial.
+
+The blame for the rise of Communism in Asia can be put on imperial Japan. So Japan gets its karma with modern China threatening it. 
 

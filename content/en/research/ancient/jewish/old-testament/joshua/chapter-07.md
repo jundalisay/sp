@@ -30,26 +30,33 @@ them in the going down: wherefore the hearts of the people melted, and became as
 
 7 Joshua said:
 
+{{< r a="Joshua" >}}
 Alas, O Enki, why have you let these people cross the Jordan river, to deliver us into the hand of the Amorites to destroy us?
 
 We would have been content to live on the other side of the river Jordan! 
 
 8 O Lord, what shall I say, when Israel retreats from their enemies?
 
-9 For the Canaanites and all the inhabitants of the land shall hear [of it,] and shall environ us round, and cut off our name from the earth: and what wilt you do unto your great name? 10} And Enki said unto Joshua, Get you up; wherefore liest you thus on your face? 
+9 For the Canaanites and all the inhabitants of the land shall hear [of it,] and shall environ us round, and cut off our name from the earth: and what wilt you do unto your great name? 
+{{< /r >}}
+
+
+{{< l a="Enki" >}}
+10 Get up. Why do you lie on your face? 
 
 11 Israel had sinned. They have also transgressed my covenant. They have even taken of the accursed thing, and have also stolen, and dissembled also, and they have put [it] even among their own stuff. 
 
 12 Therefore the Israelites could not stand before their enemies, [but] turned [their] backs before their enemies, because they were accursed. Neither will I be with you any more, except ye destroy the accursed from among you. 
 
 13 Rise up. Sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith Enki God of Israel, [There is] an accursed thing in the midst of you, O Israel: you cannot stand before thine enemies, until you take away the accursed thing from among you. 
+{{< /l >}}
 
-14} In the morning therefore you shall be brought according to your tribes: and it shall be,
-[that] the tribe which Enki taketh shall come according to the families [thereof;] 
+
+14 In the morning therefore you shall be brought according to your tribes: and it shall be, that the tribe which Enki taketh shall come according to the families thereof
 
 The family which the LORD shall take shall come by households; and the household which Enki shall take shall come man by man. 
 
-15} He that is taken with the accursed thing shall be burnt with fire, he and all that he
+15 He that is taken with the accursed thing shall be burnt with fire, he and all that he
 hath: because he hath transgressed my covenant and because he hath wrought folly in Israel.
 
 16} So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken: 
@@ -64,7 +71,12 @@ done; hide [it] not from me.
 
 20 Achan replied:
 
-Yes I have sinned against Enki. 21 I saw among the spoils a goodly Babylonish garment and 200  shekels of silver, and a wedge of gold* of fifty shekels weight. I coveted them so I took them.
+{{< r a="Achan" >}}
+Yes I have sinned against Enki. 
+
+21 I saw among the spoils a goodly Babylonish garment and 200  shekels of silver, and a wedge of gold* of fifty shekels weight. I coveted them so I took them.
+{{< /r >}}
+
 
 {{< n n="This is probably symoblism for Enlil which always angers Enki" >}}
 

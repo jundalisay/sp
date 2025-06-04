@@ -1,5 +1,5 @@
 ---
 title: "Literature and Art"
-c: "indigo"
+c: "steelblue"
 weight: 28
 ---

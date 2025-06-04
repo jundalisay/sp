@@ -59,13 +59,7 @@ This is the foundation of particle-shaking.
 
 
 
-### Medium of Aether 3: Identity Sublayer
-
-<!-- This is the limiter 
-
-Superphysics defines:
-- intellect as the ability to combine and harmonize multiple reasonings of cause and effect together 
-- wisdom as the intellect that is in line with the dharma of whatever is being intellectualized -->
+### Medium of Aether 3: Identity
 
 
 Identity or discrete perceptions (effect) or ideas (cause) is the lowest medium of aether. 

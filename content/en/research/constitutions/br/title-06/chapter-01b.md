@@ -2,7 +2,7 @@
 title: "Limitations on the Power to Tax"
 heading: "Chapter 1 Section 2"
 weight: 16
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

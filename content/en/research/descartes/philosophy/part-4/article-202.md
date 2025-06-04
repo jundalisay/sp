@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-### 202. The philosophy of Democritus is not less different from ours than from the common. 
+## 202. The philosophy of Democritus is not less different from ours than from the common. 
 
 [Footnote: "that of Aristotle or the others."]
 
@@ -51,7 +51,7 @@ I generally reject all that has been supposed by other philosophers. But my mode
  <!-- than of any other particular sect]. -->
 
 
-#### 203. How we may know the shapes, [magnitudes], and motions of the insensible particles?
+## 203. How we may know the shapes, [magnitudes], and motions of the insensible particles?
 
 I assign determinate shapes, magnitudes, and motions to the insensible particles of bodies, as if I had seen them.
 
@@ -105,7 +105,7 @@ In the same way, I have written about the character and causes of the insensible
 <!-- I  so from considering the sensible effects and parts of ,  -->
 
 
-#### 204. Touching the things which our senses do not perceive, it is sufficient to explain how they can be, [and that this is all that Aristotle has essayed].
+## 204. Touching the things which our senses do not perceive, it is sufficient to explain how they can be, [and that this is all that Aristotle has essayed].
 
 <!-- But here some one will perhaps reply, that although  -->
 
@@ -133,7 +133,7 @@ And it will be sufficient for the use of life to know such causes for:
 
  <!-- to which the knowledge of physics is of service, have for their end only those effects that are sensible, and that are accordingly to be reckoned among the phenomena of nature.  -->
 
-[Footnote: "have for their end only to apply certain sensible bodies to each other in such a way that, in the course of natural causes, certain sensible effects may be produced; and we will be able to accomplish this quite as well by considering the series of certain causes thus imagined, although false, as if they were the true, since this series is supposed similar as far as regards sensible effects."-French.]
+{{< f f="have for their end only to apply certain sensible bodies to each other in such a way that, in the course of natural causes, certain sensible effects may be produced; and we will be able to accomplish this quite as well by considering the series of certain causes thus imagined, although false, as if they were the true, since this series is supposed similar as far as regards sensible effects.-French." >}}
 
 <!-- And lest it should be supposed that Aristotle did, or professed to do, anything more than this, it ought to be remembered that he himself expressly says, at the commencement of the seventh chapter of the first book of the  -->
 
@@ -143,7 +143,7 @@ In Book 1 Chapter 7 of Meteorologies, Aristotle adduces sufficient reasons and d
  <!-- them, if he only shows that they may be such as he explains them. [Footnote: words in Greek] -->
 
 
-#### 205. There is a moral certainty that all the things are such as has been here shown they may be.
+## 205. There is a moral certainty that all the things are such as has been here shown they may be.
 
 There are 2 kinds of certitude:
 
@@ -179,7 +179,7 @@ The phenomena regarding the magnet, fire, and the fabric of the whole world, are
 <!-- though they deemed that I had taken them up at random and without grounds, will yet perhaps acknowledge that it could hardly happen that so many things should cohere if these principles were false. -->
 
 
-### 206. We possess even more than a moral certainty of it.
+## 206. We possess even more than a moral certainty of it.
 
 There are some, even among natural, things which we judge to be absolutely certain. [Absolute certainty arises when we judge that it is impossible a thing can be otherwise than as we think it].
 

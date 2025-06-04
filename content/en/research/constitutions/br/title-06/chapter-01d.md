@@ -2,7 +2,7 @@
 title: "Tax Revenue Sharing"
 heading: "Section 6"
 weight: 20
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

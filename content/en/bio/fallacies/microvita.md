@@ -10,7 +10,7 @@ icon: "Superphysics"
 
 In the paper "Space, Time, and Contigency", Dr. Rudolph quotes Indian philosopher PR Sarkar:
 
-{{< q a="Sarkar" >}}
+{{< q a="PR Sarkar" >}}
 there cannot be steady movement. There must be acceleration – either constant acceleration or accelerated acceleration, or retardation – either constant retardation or retarding retardation. Along with these are galloping jumps. And before and after these jumps, there are biological changes, historical changes, agricultural changes and human psychic changes.”
 {{< /q >}}
 

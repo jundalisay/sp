@@ -2,7 +2,7 @@
 title: "David and Goliath"
 heading: "Sura 2k "
 weight: 24
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -11,7 +11,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 
 {{< r a="Jews" >}}
-To a Jewish prophet: Appoint a king for us, and we will fight in the cause of Enki.
+[To a Jewish prophet:] Appoint a king for us, and we will fight in the cause of Enki.
 {{< /r >}}
 
 {{< l a="Prophet" >}}

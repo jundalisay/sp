@@ -10,12 +10,12 @@ weight: 44
 ---
 
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 What is the biological reaction of microvita on the physical body? What biological changes take place if microvita are added to protoplasmic cells?
 {{< /r >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 In the case of positive microvitum, if it enters the body suddenly, death may take place, particularly in the case of boys below 16.
 
  <!-- the case of those bodies which are not properly developed, say  lunar plexus -->
@@ -33,7 +33,7 @@ When I microvite someone I usually ask, “When did you last take fish and meat?
 
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Microvita may affect the glands and sub-glands or the nuclei of the nerve cells, and even the transformation of species and the transformation of sex may occur. 
 
 Microvita may directly affect the plexii, and through the plexii the mental propensities or vrttis are affected. 
@@ -52,12 +52,12 @@ All these 3 types of vrttis are affected. A person may become eccentric or exper
 
 ## Section F
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 What is the silver lining between the quinquelemental universe and idea – that is, between the initial stage of matter and microvita?
 {{< /r >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 **Microvita are the initial stage of matter. Microvita are a very, very subtle kind of matter.**
 
 All of a sudden microvita are transmuted into matter and matter is transmuted into microvita. 
@@ -99,12 +99,12 @@ Microvita are the silver lining between idea and matter, though they are closer 
 ## Section G
 
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 What is the difference between the effect of microvita on developed creatures and their effect on undeveloped creatures?
 {{< /r >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Microvita make no difference or find no difference amongst different living beings. 
 
 Complex living beings have glands and sub-glands which secrete different types of hormones. 
@@ -127,12 +127,12 @@ Similarly, microvita emanating from the cosmic factor are for one and all.
 ## Section H
 
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 What is the relationship amongst waves, sub-waves and microvita?
 {{< /r >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Microvita pervade both the ectoplasmic [lower mind] and endoplasmic [higher mind] worlds. 
 
 Their presence creates various wavelengths. Waves are created when microvita move through the media of inferences. 

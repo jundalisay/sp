@@ -2,7 +2,7 @@
 title: "General Provisions"
 heading: "Chapter 7"
 weight: 1
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

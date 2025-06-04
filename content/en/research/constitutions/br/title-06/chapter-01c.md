@@ -2,7 +2,7 @@
 title: "Federal Taxes"
 heading: "Section 3"
 weight: 18
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

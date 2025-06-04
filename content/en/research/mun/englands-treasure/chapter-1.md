@@ -3,10 +3,9 @@ heading: "Chapter 1"
 title: "The Qualities of a Perfect Foreign Trade Merchant"
 weight: 2
 description: "The Statute of Employments aimed to pay for imports with exports via state-owned mercantile companies and bypass money and finance. This was protested by Mun and the mercantilists"
-image: "/covers/treasure.jpg"
+c: "firebrick"
 contributors: ['Mun']
 ---
-
 
 
 We can show our nationalism through our own actions, instead of waiting for the actions of others. 

@@ -2,7 +2,7 @@
 title: "Adam and the Jews"
 heading: "Sura 2b "
 weight: 6
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -59,7 +59,7 @@ How can you deny Enki?
 
 The agents of Enki [angels] said:
 
-{{< r a="Enki-Agents" >}}
+{{< r a="Enki Agents" >}}
 Will You place in it someone who will cause corruption in it and shed blood, while we declare Your praises and sanctify You?
 {{< /r >}}
 
@@ -73,7 +73,7 @@ I know what you do not know.
 Tell Me the names of these, if you are sincere.
 {{< /l >}}
 
-{{< r a="Enki-Agents" >}}
+{{< r a="Enki Agents" >}}
 <sup>32</sup> Glory be to You! We have no knowledge except what You have taught us. It is you who are the Knowledgeable, the Wise.*
 {{< /r >}}
 
@@ -97,15 +97,29 @@ After he told them their names, He said:
 
 They bowed down, except for Satan [Enlil]. He refused, was arrogant, and was one of the disbelievers.
 
-{{< s v="35">}} We said, “O Adam, inhabit the Garden with your spouse. Eat from it freely as you please. But do not approach this tree, lest you become wrongdoers.”
+{{< s v="35">}} We said:
+
+{{< l a="Enki" >}}
+O Adam, inhabit the Garden with your spouse. Eat from it freely as you please. But do not approach this tree, lest you become wrongdoers.
+{{< /l >}}
+
 
 {{< s v="36">}} But Enlil caused them to slip from it, and caused them to depart the state they were in.
 
-We said, “Go down, some of you enemies of one another. You will have residence on earth and enjoyment for a while.”
+We said:
+
+{{< l a="Enki" >}}
+Go down, some of you enemies of one another. You will have residence on earth and enjoyment for a while.
+{{< /l >}}
+
 
 {{< s v="37">}} Then Adam received words from his Lord, so He relented towards him.
 
-{{< s v="38-39">}} We said, “Go down from it, all of you. Yet whenever guidance comes to you from Me, then whoever follows My guidance—they have nothing to fear, nor shall they grieve.
+{{< s v="38-39">}} We said:
+
+{{< l a="Enki" >}}
+Go down from it, all of you. Yet whenever guidance comes to you from Me, then whoever follows My guidance—they have nothing to fear, nor shall they grieve.
+{{< /l >}}
 
 <!-- 39. But as for those who disbelieve and reject Our signs—these are the inmates of the Fire—wherein they will remain forever.” -->
 

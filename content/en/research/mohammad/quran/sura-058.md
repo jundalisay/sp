@@ -2,27 +2,22 @@
 title: "The Argument (al-Mujadilah)"
 heading: "Sura 58a "
 weight: 192
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
 
-{{< s v="1" >}}  Enki has heard the statement of she who argued with you concerning her husband, as
-she complained to Enki. Enki heard your conversation. Enki is Hearing and Seeing.{{< s v="2" >}}  Those of you who estrange their wives by equating them with their mothers—they are not their mothers. Their mothers are none else but those who gave birth to them. What
-they say is evil, and a blatant lie. 
+{{< s v="1" >}}  Enki has heard the statement of she who argued with you concerning her husband, as she complained to Enki. Enki heard your conversation. Enki is Hearing and Seeing.
 
-{{< s v="3" >}}  Those who estrange their wives by equating them with their mothers, then go back on
-what they said, must set free a slave before they may touch one another. To this you are
-exhorted, and Enki is well aware of what you do.
+{{< s v="2" >}} Those of you who estrange their wives by equating them with their mothers—they are not their mothers. Their mothers are none else but those who gave birth to them. What they say is evil, and a blatant lie. 
 
-{{< s v="4" >}}  But whoever cannot find the means must fast for two consecutive months before they
-may touch one another. And if he is unable, then the feeding of sixty needy people. This,
-in order that you affirm your faith in Enki and His Messenger. These are the ordinances of Enki. The unbelievers will have a painful
-punishment.
+{{< s v="3" >}}  Those who estrange their wives by equating them with their mothers, then go back on what they said, must set free a slave before they may touch one another. To this you are exhorted, and Enki is well aware of what you do.
 
-{{< s v="5" >}}  Those who oppose Enki and His Messenger will be subdued, as those before them
-were subdued. We have revealed clear messages. The unbelievers will have a demeaning
-punishment.
+{{< s v="4" >}}  But whoever cannot find the means must fast for two consecutive months before they may touch one another. And if he is unable, then the feeding of 60 needy people. 
+
+This, in order that you affirm your faith in Enki and His Messenger. These are the ordinances of Enki. The unbelievers will have a painful punishment.
+
+{{< s v="5" >}}  Those who oppose Enki and His Messenger will be subdued, as those before them were subdued. We have revealed clear messages. The unbelievers will have a demeaning punishment.
 
 <sup>6</sup> On the Day when Enki resurrects them all, and informs them of what they did. Enki has kept count of it, but they have forgotten it. 
 

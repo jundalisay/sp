@@ -10,7 +10,7 @@ description: ""
 
 Sunday, September 23, 1883
 
-SRI RAMAKRISHNA was sitting in his room at Dakshineswar with Rākhāl , M., and other
+SRI RAMAKRISHNA was sitting in his room at Dakshineswar with Rakhal , M., and other
 devotees. Hazra sat on the porch outside. The Master was conversing with the
 devotees.
 
@@ -42,7 +42,7 @@ devotees arrived from Calcutta.
 Nityagopal, Tārak, and several others were staying with Ram, a house-holder disciple of
 the Master. Nityagopal was always in an exalted spiritual mood. Tārak's mind, too, was
 always indrawn; he seldom exchanged words with others. Ram looked after their
-physical needs. Rākhāl now and then spent a few days at Adhar's house.
+physical needs. Rakhal now and then spent a few days at Adhar's house.
 RAM (to the Master): "We have been taking lessons on the drum."
 MASTER (to Ram): "Nityagopal too?"
 RAM: "No, sir. He plays a little."
@@ -93,7 +93,7 @@ She must be within us as well as without. Indeed She must be very near us; or wh
 should the Master speak to Her in a whisper?
 Wednesday, September 26, 1883
 There were very few devotees with the Master, for most of them came on Sundays.
-Rākhāl and Lātu were living with him the greater part of the time. M. arrived in the
+Rakhal and Lātu were living with him the greater part of the time. M. arrived in the
 afternoon and found the Master seated on the small couch. The conversation turned to
 Narendra.
 MASTER (to M.): "Have you seen Narendra lately? (With a smile) He said of me: 'He still
@@ -102,7 +102,7 @@ much dissatisfied with him because he comes here now and then. The other day he
 came here in a hired carriage, and Surendra paid for it. Narendra's aunt almost had a
 row with Surendra about it."
 The Master left the couch and went to the northeast verandah, where Hazra, Kishori,
-Rākhāl , and a few other devotees were sitting.
+Rakhal , and a few other devotees were sitting.
 MASTER (to M.): "How is it that you are here today? Have you no school?"
 M: "Our school closed today at half past one."
 MASTER: "Why so early?"
@@ -549,7 +549,7 @@ observed on the stage. At that time one does not see Krishna. Next the sage Nār
 enters with his flute and sings longingly, 'O Govinda! O my Life! O my Soul!' Then
 Krishna can no longer remain away and appears with the cowherd boys."
 Tuesday, October 16, 1883
-Sri Ramakrishna was in his room with Rākhāl , Balarām's father, Beni Pāl, M., Mani
+Sri Ramakrishna was in his room with Rakhal , Balarām's father, Beni Pāl, M., Mani
 Mallick, Ishan, Kishori, and other devotees.
 MASTER: "Liberal-minded devotees accept all the forms of God: Krishna, Kāli, Śiva,
 Rāmā, and so on."
@@ -737,7 +737,7 @@ Thou workest Thine own work; men only call it theirs.
 favourable wind. He becomes free from worry. He is like the boatman who, when the
 favourable wind blows, unfurls the sail, holds the rudder lightly, and enjoys a smoke."
 Ishan took his leave and Sri Ramakrishna talked with M. No one else was present. He
-asked M. what he thought of Narendra, Rākhāl , Adhar, and Hazra, and whether they
+asked M. what he thought of Narendra, Rakhal , Adhar, and Hazra, and whether they
 were guileless. "And", asked the Master, "what do you think of me?".
 M. said: "You are simple and at the same time deep.
 understand you."

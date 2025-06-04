@@ -5,6 +5,7 @@ title: "The Earth as a great magnet"
 description: "Now must we consider separately the globe itself of the earth"
 weight: 2
 icon: "William Gilbert"
+c: "darkgoldenrod"
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)

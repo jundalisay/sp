@@ -8,8 +8,10 @@ weight: 20
 ---
 
 
-{{< q >}}
-"Everything is dual, has poles, has its pair of opposites. Like and unlike are the same. Opposites are identical in nature but different in degree. Extremes meet. All truths are but half-truths. All paradoxes may be reconciled."—The Kybalion.
+{{< q a="Kybalion" >}}
+Everything is dual, has poles, has its pair of opposites. Like and unlike are the same. 
+
+Opposites are identical in nature but different in degree. Extremes meet. All truths are but half-truths. All paradoxes may be reconciled
 {{< /q >}}
 
 

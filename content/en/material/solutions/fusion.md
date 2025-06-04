@@ -63,7 +63,9 @@ The proper confining mechanism, as mentioned earlier, is through gravity via spa
 {{< img src="/graphics/physics/layers.png" cap="Superphysics uses the five layers of aether, air, fire, water, and earth of the Greeks and Asians as aether, spatial, radiant, transformative, and material, or 水, 木, 火, 土, 金, respectively" alt="5 Layers of Superphysics" >}}
 
 
-Instead of confining the plasma with magnetic fields, they are confined with anti-gravity inside the reactor. This is done primarily by applying sound that matches [the gravitational signature](/material/solutions/gravitational-signatures) of deuterium and tritium. 
+Instead of confining the plasma with magnetic fields, they are confined with anti-gravity inside the reactor. This is done primarily by applying sound that matches [the gravitational signature](/material/signature) of deuterium and tritium. 
+
+
 
 This will create mini-vortices, made up of *Quanta of Spacetime* or *Qosts*, that will levitate the plasma and prevent it from damaging the reactor.
 
@@ -131,63 +133,6 @@ This is in contrast to the passive version where monks can travel sideways by bl
 Of course, all of this is just the *mechanistic* explanation of gravity, and not the true *aethereal* explanation of gravitation signatures or svadharma which would be too unrelatable to most people. The true explanation is that gravity is the aethereal link or ratio between identities. But this is too abstract and probably understandable only to Zen Buddhists or Vedantists. So we say instead that it is a pushing force from a vortex to make these dynamic links relatable to people who are used to material pull or push forces coming from high-low pressure differences. 
 {{< /d >}}
 
-<!-- While pure energy and brute force are common in dealing with Electromagnetism, precision and sophistication are common in dealing with Spacetime.  -->
-
-
-<!-- On December 5, 2022, the National Ignition Facility in the US, a laser fusion reactor, was able to create more energy via nuclear fusion than they put in.
-
-However, it was not practical nuclear fusion as it could not be sustained. The energy produced was not reused to continue the fusion reactions. 
-
-The same problem afflicted other fusion reactors. 
-
-been able to create sustained fusion reactions. Currently, the reactions are sustained only for around 100 seconds. Imagine powering a city only for 100 seconds and then leaving it dark again -- it would be a useless kind of power.   -->
-
-
-<!-- Instead of using gravitational vortices to compress and control fusion reactions, physicists use magnetic fields. 
-
-Both the National Ignition Facility and Japan's tokamak use the principle of Electromagnetism to start and sustain fusion reactions. 
-
-Physicists claim that the current fusion produced on earth are exactly like those of stars. 
-
-However, this is wrong since the real mechanism behind fusion in stars is its  -->
-
-<!-- The previous post explained the concept of [Qosts or the quantum of space time](/material/principles/part-2/chapter-03). These are invisible spacetime particles that form vortices to  gather energy to create mass in order to create discrete things.
-
-These create natural movement by their mutual repulsion and, thus, are essential in levitation and teleportation. -->
-
-<!-- youtube F5rqnidVUkY -->
-
-<!-- These can also be employed to harness energy in two ways:  
-
-1. By tapping into the perpetual division of spacetime particles from the Negative Force that manifests as the accelerated expansion of space. 
-
-This is like a windmill tapping the energy from the wind and is free energy.
-
-
-2. By extracting the energy from the atomic reactions of the material layer through quantum tunneling. 
-
-This requires an input, such as hydrogen and is therefore non-free energy. However, it extracts more energy in a shorter time.
-
-Physicists are going for the second approach after learning how to extract atomic energy in the 1940's through nuclear fission reactions, as a consequence of atomic theory. However, fission is limited and dangerous. This led physicists to go for fusion which is supposed to be clean and safe. 
-
-It does not apply to the upper two layers of the spatial or aethereal, where crudity is replaced by precision and sophistication. The technological designs for the lower three layers are so simplistic:
-- the general design of combustion-based rockets is based on a simple tube
-- all air-based airplanes are a tubes with two wings 
-
-The Spatial (gravitational layer) is different because it is based on points, and points connected with other points lead to geometries. These are then manipulated by the upper aethereal layer which is based on waves, examples of which are sounds and waves of feelings. --> 
-
-<!-- In the aethereal layer, the points of the spatial layer manifest as discrete ideas instead of discrete objects and matter. -->
-
-
-
-<!-- A round reactor uses a single qost (monad). This outputs less energy, but is useful for compact vehicles. 
-
-A linear reactor uses two or more qosts (duads, etc). This outputs much more energy, and is useful for very large vehicles. -->
-
-<!-- Of the current fusion designs, this is what the twisty stellarator is trying to do. However, it still needs to be overhauled as to create a vortex which will create gravity which will confine it and make it sustainable. This will allow it to be reduced in size as to be able to fit large vehicles. This vortex-stellarator can then assume either the round or linear shape:
-
-1. The round twisty reactor is the compact version, useful for small vehicles
-2. The linear twisty version is for large vehicles -->
 
 
 ## So how do we get there?
@@ -206,7 +151,7 @@ This was done by:
 
 The use of trumpets by the Israelites is consistent with Kepler who wrote about the Harmony of the Universe, consistent with Socrates and Pythagoras:
 
-{{< q a="Johannes-Kepler" >}}
+{{< q a="Kepler" >}}
 A great distinction exists between:
 - the consonances of the single planets which have been unfolded and
 - the consonances of the planets in pairs. 
@@ -214,8 +159,7 @@ A great distinction exists between:
 The single ones cannot exist at the same moment, but the pairs absolutely can. This is because the same planet, moving at its aphelion, cannot be at the opposite perihelion at the same time. But of two planets, one can be at its aphelion and the other at its perihelion.
 {{< /q >}}
 
-
- <!-- And so the ratio of plain-song or monody, which we call "choral music" and which alone was known to the ancients, 1 to polyphony—called "figured song,"; 2 the invention of the latest generations—is the same as the ratio of the consonances which the single planets designate to the consonances of the planets taken together. -->
+<!-- And so the ratio of plain-song or monody, which we call "choral music" and which alone was known to the ancients, 1 to polyphony—called "figured song,"; 2 the invention of the latest generations—is the same as the ratio of the consonances which the single planets designate to the consonances of the planets taken together. -->
 
 {{< q a="Socrates" c="The Republic by Plato Simplified, Book 3, Chapter 2" >}}
 Therefore, musical training is a more potent instrument than any other, because rhythm and harmony find their way into the inward places of the soul.
@@ -224,14 +168,6 @@ Therefore, musical training is a more potent instrument than any other, because 
 
 {{< img src="/photos/medieval/trumpets.jpg" alt="Trumpets of the ancient Egyptians" cap="Two trumpets found in King Tut's tomb" >}}
 
-<!-- Material Superphysics builds on Kepler's Laws to rebuild the principles of the material Universe based on sound from the perspective of the Supreme Entity instead of the shallow human view based on sight. This bypasses everything from Aristotle to Ptolemy, and Newton to Einstein, who created Physics principles from a shallow observation of cause and effect:
-
-Materialist Camp | Nonmaterialist Camp
---- | ---
-Aristotle, Ptolemy (Earth is the center) | Aristarchus, Copernicus (the sun is the center)
-Newton, Einstein (Mass creates gravity) | Kepler, Galileo (Gravity is from the foci* of two objects)
-
-> *Material Superphysics develops Kepler's foci concept into qosts -->
 
 <!-- 
 500MW for 50MW infused 
@@ -250,7 +186,6 @@ We have done baby steps with Step 1 by making a 1 kilogram mass lighter by 2 gra
 
 So for now, we switch to more practical and useful Cartesian experiments, such as a [top-down fire setup](https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac) which might be useful for people who are affected by high gas prices from the War in Ukraine and Gaza. 
 {{< /d >}}
-
 
 
 <!--  metals to find their vortex point and frequency, as an artificial qost

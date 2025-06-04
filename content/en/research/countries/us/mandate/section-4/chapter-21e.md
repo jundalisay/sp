@@ -1,274 +1,150 @@
 ---
-title: "ECONOMIC DEVELOPMENT ADMINISTRATION"
+title: "National Oceanic And Atmospheric Administration"
 date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "US"
+heading: Chapter 21e
+weight: 14
 ---
 
 
-The Economic Development Administration (EDA) is charged with investing in
-local communities to encourage and enable growth and innovation in the private
-sector, with particular focus on distressed or underserved areas. Over time, it has
-also served as a distribution mechanism for emergency relief funds (e.g., Hurricane
-Maria and COVID-19).
+### Break Up NOAA
 
-In the Trump Administration, the EDA served an important role for the CARES
-Act. It successfully disbursed approximately $1.5 billion in funding beginning in
-May 2020 and throughout the COVID-19 pandemic. However, this task revealed
-EDA’s shortcomings. On a capability level, EDA lacked the technical and financial
-systems and skills to disburse these funds in a compliant manner and required
-external contracts for advisory support to hire the personnel needed to accom-
-plish its goals.
+The single biggest Department of Commerce agency outside of decennial census years is the National Oceanic and Atmospheric Administration, which houses the National Weather Service, National Marine Fisheries Service, and other components. NOAA garners $6.5 billion of the department’s $12 billion annual operational budget and accounts for more than half of the department’s personnel in non-decadal Census years (2021 figures). NOAA consists of six main offices:
 
-Historically, EDA was a small bureau with an annual budget for $350 million
-in Public Works grants annually. EDA’s decision-making is decentralized to its
-six regional offices, which delayed the release of CARES Act funding by months.
-But more broadly, EDA is an impediment to coordinated campaigns that advance
+- The National Weather Service (NWS);
+- The National Ocean Service (NOS);
+- The Oceanic and Atmospheric Research (OAR);
+- The National Environmental Satellite, Data and Information Service (NESDIS);
+- The National Marine Fisheries Service (NMFS); and
+- The Office of Marine and Aviation Operations and NOAA Corps.
 
 
+Together, these form a colossal operation that has become one of the main
+drivers of the climate change alarm industry and, as such, is harmful to future
+U.S. prosperity. This industry’s mission emphasis on prediction and management
+seems designed around the fatal conceit of planning for the unplannable. That is
+not to say NOAA is useless, but its current organization corrupts its useful func-
+tions. It should be broken up and downsized.
 
-Administration priorities. Rather than implementing the new Department Organi-
-zation Orders required to put conservative governance in place, it would be more
-efficient to abolish EDA and reallocate its funding to other overlapping federal
-grant programs.
+NOAA today boasts that it is a provider of environmental information services,
+a provider of environmental stewardship services, and a leader in applied scientific
+research. Each of these functions could be provided commercially, likely at lower
+cost and higher quality.
 
-If that proves unachievable, as has historically been the case due to political
-considerations in Congress, EDA would benefit from:
+Focus the NWS on Commercial Operations. Each day, Americans rely on
+weather forecasts and warnings provided by local radio stations and colleges that
+are produced not by the NWS, but by private companies such as AccuWeather.
+Studies have found that the forecasts and warnings provided by the private com-
+panies are more reliable than those provided by the NWS.2
+The NWS provides data the private companies use and should focus on its
+data-gathering services. Because private companies rely on these data, the NWS
+should fully commercialize its forecasting operations.
 
+NOAA does not currently utilize commercial partnerships as some other
+agencies do. Commercialization of weather technologies should be prioritized
+to ensure that taxpayer dollars are invested in the most cost-efficient technol-
+ogies for high quality research and weather data. Investing in different sizes of
+commercial partners will increase competition while ensuring that the govern-
+ment solutions provided by each contract is personalized to the needs of NOAA’s
+weather programs.
 
-Leveraging of the direct hire authorities established in the Trump
-Administration for special initiatives or disaster/recovery funding. Leaving
-these programs to entrenched career employees with their ties to the
-regional offices will do little to advance the conservative agenda.
-Continuation of disaster funding with better coordinated capabilities and
-decision-making in accordance with the points above (e.g., maintaining
-contract vehicles for staff augmentation as needed).
+The NWS should be a candidate to become a Performance-Based Organization
+to better enforce organizational focus on core functions such as efficient delivery
+of accurate, timely, and unbiased data to the public and to the private sector.3
+Review the Work of the National Hurricane Center and the National
+Environmental Satellite Service. The National Hurricane Center and National
+Environmental Satellite Service data centers provide important public safety and﻿
 
-Building on the initial success of Opportunity Zones, which incentivized
-over $75 billion in private sector investment in distressed communities by
-the end of 2020 with little up-front cost to the taxpayer.
+business functions as well as academic functions, and are used by forecasting agen-
+cies and scientists internationally. Data continuity is an important issue in climate
+science. Data collected by the department should be presented neutrally, without
+adjustments intended to support any one side in the climate debate.
+Transfer NOS Survey Functions to the U.S. Coast Guard and the U.S. Geo-
+logical Survey. Survey operations have historically accounted for almost half the
+NOS budget. These functions could be transferred to the U.S. Coast Guard and U.S.
+Geological Survey to increase efficiency. NOS’ expansion of the National Marine
+Sanctuaries System should also be reviewed, as discussed below.
+Streamline NMFS. Overlap exists between the National Marine Fisheries
+Service and the U.S. Fish and Wildlife Service. Overly simplified, the NMFS handles
+saltwater species while the Fish and Wildlife Service focuses on fresh water. The
+goals of these two agencies should be streamlined.
 
-MINORITY BUSINESS DEVELOPMENT AGENCY
+Harmonize the Magnuson–Stevens Act with the National Marine Sanctuaries
+Act. Under the auspices of NOS, marine sanctuaries (including no-fishing zones)
+are being established country-wide, often conflicting with the goals of the Magnu-
+son–Stevens Act fisheries management authorities of NOAA Fisheries, regional
+fishery management councils, and relevant states.
 
-The Minority Business Development Agency (MBDA) is the only federal agency
-solely dedicated to the growth and competitiveness of minority-owned businesses.
-The Minority Business Development Act of 2021 was signed into law as part of the
-Bipartisan Infrastructure Investment and Jobs Act. This legislation made MBDA a
-permanent federal agency, created a Senate-confirmed Under Secretary position,
-and expanded programs and outreach. The Act:
-l
+Withdraw the 30x30 Executive Order and Associated America the Beautiful Ini-
+tiative. The 30x30 Executive Order and the American the Beautiful Initiative are
+being used to advance an agenda to close vast areas of the ocean to commercial
+activities, including fishing, while rapidly advancing offshore wind energy devel-
+opment to the detriment of fisheries and other existing ocean-based industries.
+Modify Regulations Implementing the Marine Mammal Protection Act and the
+Endangered Species Act. These acts are currently being abused at a cost to fisheries
+and Native American subsistence activities around the U.S.
 
+Allow a NEPA Exemption for Fisheries Actions. All the requirements for robust
+analysis of the biological, economic, and social impacts of proposed regulatory
+action in fisheries are contained with the Magnuson–Stevens Act, the guiding Act
+for fisheries. NEPA overlays these requirements with onerous, redundant, and
+time-consuming process requirements, which routinely cause unnecessary delays
+in the promulgation of timely fisheries management actions. The Department
+of Commerce and the Council on Environmental Quality should collaborate to
+reduce this redundancy.
 
-Authorizes the creation of regional offices and rural business centers,
-increasing the number and scope of existing grant programs supporting
-MBDA business centers;
-
-Mandates grants to minority serving institutions to cultivate future
-generations of minority entrepreneurs; and
-
-
-Consolidation of decision-making to the Assistant Secretary’s office to
-better align funding with conservative political purposes. For example,
-funding initiatives in rural communities destroyed by the Biden
-Administration’s attack on domestic energy production would be well
-within the scope of EDA’s mission.
-
-
-Establishes a Minority Business Advisory Council to advise the Under
-Secretary on supporting minority-owned businesses.
-MBDA was established in 1969 by President Richard Nixon under Executive
-Order 114584 as the Office of Minority Business Enterprise and the Advisory
-Council for Minority Business Enterprise. Its purpose was to strengthen and
-preserve minority business enterprises (MBEs) and to coordinate among
-MBEs and other groups such as state and local governments and trade asso-
-ciations. For over 50 years, the MBDA operated under executive order without
-clear congressional authorization, but was regularly recognized and promoted
-by every subsequent president, including Presidents Ronald Reagan and
-Donald Trump.5
-
-MBDA has the appearance, on its face, of perpetuating racial bias by focusing
-on minority advancement rather than economic need or other criteria. This is
-why the Trump Administration proposed eliminating funding for the agency in
-2017. Many conservatives ask why the government is funding this activity, which
-often amounts to business and management consulting services offered by private
-sector entities. Eventually, the Trump Administration changed course and pro-
-posed that MBDA continue to exist as a permanently authorized entity focused
-on policy rather than offering services. Despite this change, many conservatives
-understandably see MBDA as problematic on a philosophical level.
-
-Nonetheless, Congress has spoken recently on this issue and is unlikely to
-change its position in the near term. In 2017, MBEs represented one-third of all
-U.S.-owned businesses, with almost 9 million employees, generating $1.7 trillion
-for the U.S. economy.6 As such, a conservative Administration is best served by
-approaching MBDA as a tool to be leveraged in the fight to deliver economic oppor-
-tunity to all Americans and to produce an economy centered on equal opportunity,
-free markets, innovation, and growth.
-
-Conservative leadership at MBDA should focus the organization on:
-
-
-Conducting policy analysis on the benefit of free markets, the evils
-of socialism and Communism, and the destructive effect of taxes and
-regulations on minority businesses;
-Ensuring MBDA business centers operate efficiently with strict oversight of
-funding, clear metrics for success, and consequences for poor performance;
-Creating policy-level operational priorities geared toward private sector
-action over government action with public–private partnerships serving as a
-necessary middle ground;
+Downsize the Office of Oceanic and Atmospheric Research. OAR provides
+theoretical science, as opposed to the applied science of the National Hurricane
+Center. OAR is, however, the source of much of NOAA’s climate alarmism. The
+preponderance of its climate-change research should be disbanded. OAR is a large
+network of research laboratories, an undersea research center, and several joint
+research institutes with universities. These operations should be reviewed with
+an aim of consolidation and reduction of bloat.
 
 
-Establishing MBDA as a data and research clearinghouse for minority
-business enterprises and policymakers;
-Coordinating amongst Cabinet agencies, state and local government, and
-trade associations to best leverage resources and encourage growth and
-innovation; and
-Evaluating the harmful effects of unfair trade practices on minority-owned
-businesses and their employees.
+Break Up the Office of Marine and Aviation Operations and Reassign Its Assets to Other Agencies During This Process. The Office of Marine and Aviation Operations, which provides the ships and planes used by NOAA agencies,
+should be broken up and its assets reassigned to the General Services Administra-
+tion or to other agencies.
 
-U.S. PATENT AND TRADEMARK OFFICE
+Use Small Innovation Prizes and Competitions to Encourage High-Qual-
+ity Research. Lowering the barriers of entry for startups and small businesses will
+also provide greater innovation without excessive increases in spending. Reaching
+beyond traditional partnerships for innovative engagement tools that encourage
+entrepreneurial innovation will allow NOAA’s research programs to adapt more
+quickly to the world’s changing needs. Multiple competitions should take place in
+cities to attract a variety of innovators and investors to propel innovation forward
+in a way that benefits the needs of NOAA.
 
+Ensure Appointees Agree with Administration Aims. Scientific agencies
+like NOAA are vulnerable to obstructionism of an Administration’s aims if political
+appointees are not wholly in sync with Administration policy. Particular attention
+must be paid to appointments in this area.
 
-Support like-minded countries as candidates for leadership in the World
-Intellectual Property Organization and build strong relationships with
-international partners to strengthen intellectual property rights.
-Re-examine patent eligibility requirements in Section 101 of the Patent Act7
-and support internal and/or legislative reforms to enable U.S. leadership
-in critical and emerging technologies such as quantum computing, 5G, and
-artificial intelligence.
+Elevate the Office of Space Commerce. The Office of Space Commerce is
+the executive branch advocate on behalf of the U.S. commercial space industry.
+This office should be the vehicle for a new Administration to set a robust and
+unified whole-of-government commercial space policy that cements U.S. lead-
+ership in one of the most crucial industries of the future.
 
-Take a balanced approach to the Patent Trial and Appeal Board and
-prioritize rapid and transparent processing of applications and appeals.
-Work with Administration partners and Congress to find and punish
-trademark infringers and counterfeiters.
-Oppose efforts to provide intellectual property waivers for cutting-edge
-technologies, including for COVID-19 vaccines and therapeutics, through
-the World Trade Organization’s Trade-Related Aspects of Intellectual
-Property Rights agreement or any other mechanism.
-— 685 —
-﻿
-The U.S. Patent and Trademark Office carries out a core constitutional man-
-date from Section 8, Article 1: “The Congress shall have Power...[t]o promote the
-Progress of Science and useful Arts, by securing for limited Times to Authors
-and Inventors the exclusive Right to their respective Writings and Discover-
-ies.” Strong intellectual property (IP) protections form the bedrock of American
-business and are a key factor in making the U.S. economy the most innovative
-in the world. As such, a conservative Administration must constantly work to
-strengthen IP rights and combat the incorrect view that strong IP rights some-
-how limit innovation.
+The Office’s current
+mission has been lost owing to its position within NESDIS, which sees no role
+for itself in advancing the industry and the space economy, including ensuring
+global competitiveness. OSC is, by law, the Department of Commerce’s lead on
+space policy and must therefore link directly to all the bureaus and other orga-
+nizations within the department. The Office needs to be returned to OS, within
+which it existed for the first two decades of its existence. From OS, the Office
+could serve as a coordinating entity for the whole-of-government commercial
+space policy desperately needed to secure America’s place as the global leader
+in commercial space operations.
 
-Political leadership in a new conservative Administration should:
-
-NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
-
-The National Institute of Standards and Technology is charged with promoting
-U.S. innovation and competitiveness by “advancing measurement science, standards,
-and technology.”8 NIST carries out cutting edge research, helps industry establish
-standards and best practices, and is the nation’s foremost authority on measurements.
-NIST’s atomic clock, for instance, maintains the official time of the United States.
-An incoming Administration should evaluate the federal government’s civilian
-research footprint and consolidate those functions while ensuring that any research
-conducted with taxpayer dollars serves the national interest in a concrete way in
-line with conservative principles. Beyond this, an incoming Administration should:
-
-
-Privatize the Hollings Manufacturing Extension Partnership. The
-Hollings Manufacturing Extension Partnership (MEP) establishes and
-manages a network of centers focused on advising small- and medium-sized
-manufacturers in order to improve processes and thereby strengthen the
-U.S. industrial base. When Congress created the program, MEP centers were
-intended to transition to self-sustaining private institutions after using
-government funds to begin operations, but the prohibition on long-term
-funding was abolished in 1998. MEP’s business advisory services would be
-more properly carried out by the private sector. The next Administration
-should propose legislation to zero out this $150 million program and fully
-privatize existing MEP centers.
-
-Transfer the Baldridge Performance Excellence Program. This
-program’s “process” assists companies in improving management and
-operations, a function more properly and effectively carried out by the
-private sector. This program operates at a cost to taxpayers, despite
-thousands of dollars in fees charged to each participating company or entity
-and long-term plans to make the program self-sufficient. Maintenance and
-operation of the program should be entirely handed over to the Baldridge
-Award Foundation to be run by non-government staff via fees.
-Increase value to taxpayers. NIST should reinvigorate the Technology
-Transfer and ROI (return on investment) initiatives begun under the Trump
-Administration. These initiatives help speed the process of commercializing
-science funded by the federal government.
-
-Reestablish U.S. dominance in international standards. NIST should
-explore ways to incentivize broader U.S. participation in standards-setting
-bodies and the exclusion of participants from adversaries like China. Standards
-are set to facilitate trade in countries that utilize those standards: Countries
-— 686 —Department of Commerce
-that do not allow open access to their markets should not be setting the
-standards for markets that do allow open access. The incoming Administration
-should consider increased government-sponsored participation by private
-companies and government employees with relevant expertise.
-
-NATIONAL TELECOMMUNICATIONS AND INFORMATION SERVICE
-
-The independent National Telecommunications and Information Service
-(NTIS) is charged with ensuring that federally funded research and data are
-accessible to the public. NTIS operates through user fees but is largely obsolete
-due to modern usage of the internet by federal agencies and researchers. NTIS’s
-functions should be moved to NIST and consolidated with the Tech Transfer and
-ROI initiatives.
-
-NATIONAL TELECOMMUNICATIONS AND
-INFORMATION ADMINISTRATION
-
-
-Support free speech and hold big tech accountable. Immediately
-conduct a thorough review of federal policy regarding free speech online
-and provide policy solutions to address big tech’s censorship of speech.
-Utilize new tools to eliminate threats to national security. Fully
-implement the Trump Administration’s Information and Communications
-Technology and Services (ICTS) Executive Order authorities in a way
-that ensures long-term success and the legal viability of this new national
-security tool.9
-Expand utilization of federal spectrum. Begin short term, temporary
-leasing of government allocated spectrum to ensure optimum utilization
-while preserving federal agency use rights.
-Support the commercial space industry. Advocate for licensing decisions
-at the Federal Communications Commission that continue to enable U.S.
-dominance in the commercial space industry.
-
-
-The National Telecommunications and Information Agency (NTIA) is the exec-
-utive branch’s statutory lead on telecommunications and information policy. It
-focuses on broadband access, spectrum utilization, and other issues that are crucial
-to the high-tech economy. For decades, NTIA has suffered from organizational
-malaise and will require strong and energetic leadership by political appointees
-to implement conservative policies. The next Administration will face the primary
-challenge of rapidly deploying 5G without compromising other priorities. Further
-recommendations include:
-
-
-Defend U.S. interests in international bodies. Strong representation at
-the International Telecommunication Union should protect the interests
-of both private and government users of spectrum. The U.S. has differing
-needs from many other countries, for instance, because of U.S. government
-satellites and commercial space industry. NTIA should work with the U.S.
-delegation to ensure maximum adoption of the U.S. position.
-Set fresh priorities in broadband grant programs. Reevaluate
-broadband grant programs and, when possible, establish Administration
-priorities in how each grant is structured. First and foremost, widespread
-deployment of infrastructure is needed for 5G adoption in rural and exurban
-areas, which will be a key factor in future economic competitiveness for
-these under-served communities.
-Review FirstNet. Evaluate the performance and long-term value
-proposition of FirstNet in view of modern technologies that will render
-it obsolete.
-
-CONCLUSION
-The above policies, strategies, and tactics will set a new Administration on
-firm footing that allows the Department of Commerce to assist the President in
-implementing a bold agenda that delivers economic prosperity and strong national
-security to the American people. While many of the department’s functions fall
-outside the remit of the federal government, its unique authorities in diverse areas
-provide critical tools that can and should be brought to bear in implementing a
-conservative governing philosophy that keeps Americans safe and provides oppor-
-tunity for all.
-
+There presently exists no unified U.S. government policy on commercial space
+operations, with the Federal Communications Commission largely responsible
+for establishing space policy by default through its regulation of radio spectrum
+licenses. Now that routine space operations are commercially viable, it is critical
+that a new Administration establish reasonable government policies that ensure
+the U.S. will continue to be the flag of choice for commercial space activities. The
+President should, by executive order, direct the Office of Space Commerce, working
+with the National Space Council, to establish a whole-of-government policy for
+licensing and oversight of commercial space operations.

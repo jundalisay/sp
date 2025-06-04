@@ -1,5 +1,5 @@
 ---
-title: "Default Title"
+title: "The Jones Act"
 date: 2024-11-01
 description: ""
 c: "firebrick"
@@ -7,42 +7,39 @@ icon: "US"
 ---
 
 
-The Jones Act. 
+The Jones Act (Merchant Marine Act of 1920) requires that ships traveling between U.S. ports must be:
+- U.S.-built
+- U.S.-owned
+- U.S.-crewed
 
-The Jones Act (Merchant Marine Act of 1920)70 requires that
-ships traveling between U.S. ports must be U.S.-built, U.S.-owned, and U.S.-crewed.
-In practice, this is an “America last” policy that has decimated the American mari-
-time industry.71 Because of Jones Act regulations, American-built ships cost three
-to four times more to build than foreign-built ships cost. As a result, the entire
-Jones Act fleet is down to just 92 ships, many of which are old and obsolete. In fact,
-Jones Act–compliant shipping is so expensive that it is often cheaper for East Coast
-ports to import oil from Vladimir Putin’s Russia than it is to send it up the coast
-from Houston or New Orleans. The national security (to say nothing of energy
-security) implications of reliance on Russia for oil and gas are obvious.
-The Jones Act’s original national security justifications are just as dubious. The
-act’s goal was to guarantee a sizable fleet of American ships that could be pressed
-into war service if needed. Aircraft carriers and other post-1920 naval innovations
-have made this argument obsolete. An $800 billion defense budget has plenty of
-room to maintain a Navy to defend American security interests around the world.
+In practice, this is an “America last” policy that has decimated the American maritime industry.
 
-The U.S. Navy would likely prefer not to use Jones Act ships anyway, because they
-tend to be older and in poorer condition than its own ships or similar foreign-made
-but domestically owned commercial ships that could also be pressed into service.
-As with many other industries, U.S. shipbuilding could be the envy of the world if
-it could operate in a free market, but the maritime lobby prefers a quiet, cozy exis-
-tence on the dole even as it harms American consumers and national security. The
-next conservative Administration should unleash American potential by unilater-
-ally enacting Jones Act exemptions wherever allowed, as currently happens most
-years during hurricane season, and working with Congress to repeal the Jones Act.
-Trade and Inflation. The post-COVID inflation spike may be over long before
-the next Administration takes office, but keeping it under control should remain
-a high priority. Free traders should not oversell their case by saying that liberal-
-ization would solve inflation. Inflation is predominantly a monetary phenomenon,
-not a trade phenomenon, but tariff relief can help at the margin by immediately
-lowering prices on tariffed goods and slightly boosting long-term growth.72 While
-this would not affect the money supply, which is inflation’s key variable, even roll-
-ing back the tariffs enacted since 2017 would likely have a positive effect on the
-Consumer Price Index.
+Because of Jones Act regulations, American-built ships cost 3-4 times more to build than foreign-built ships.
+
+As a result, the entire Jones Act fleet is down to just 92 ships, many of which are old and obsolete.
+
+In fact, Jones Act–compliant shipping is so expensive that it is often cheaper for East Coast ports to import oil from Russia than it is to send it up the coast from Houston or New Orleans.
+
+The national security (to say nothing of energy security) implications of reliance on Russia for oil and gas are obvious. 
+
+The Jones Act’s original national security justifications are just as dubious. 
+
+The act’s goal was to guarantee a sizable fleet of American ships that could be pressed into war service if needed.
+
+Aircraft carriers and other post-1920 naval innovations have made this argument obsolete.
+
+An $800 billion defense budget has plenty of room to maintain a Navy to defend American security interests around the world.
+
+The U.S. Navy would likely prefer not to use Jones Act ships anyway, because they tend to be older and in poorer condition than its own ships or similar foreign-made but domestically owned commercial ships that could also be pressed into service.
+
+As with many other industries, U.S. shipbuilding could be the envy of the world if it could operate in a free market, but the maritime lobby prefers a quiet, cozy existence on the dole even as it harms American consumers and national security.
+
+The next conservative Administration should unleash American potential by unilater- ally enacting Jones Act exemptions wherever allowed, as currently happens most years during hurricane season, and working with Congress to repeal the Jones Act.
+
+
+## Trade and Inflation
+
+The post-COVID inflation spike may be over long before the next Administration takes office, but keeping it under control should remain a high priority. Free traders should not oversell their case by saying that liberalization would solve inflation. Inflation is predominantly a monetary phenomenon, not a trade phenomenon, but tariff relief can help at the margin by immediately lowering prices on tariffed goods and slightly boosting long-term growth.72 While this would not affect the money supply, which is inflation’s key variable, even roll- ing back the tariffs enacted since 2017 would likely have a positive effect on the Consumer Price Index.
 
 The easiest way to curb inflation (or to create it) is for the Federal Reserve to
 work the monetary side of the equation, but the real output side has a similar effect
@@ -85,7 +82,9 @@ policies they wish without the significant counterweight that America can provid
 That is one reason for Xi Jinping’s emphasis on centralization and self-suffi-
 ciency. He does not like international pressure about his government’s human
 rights violations and bad-faith trading policies, and decoupling from trading part-
-ners like America is one way to avoid that pressure. A less constrained China would
+ners like America is one way to avoid that pressure.
+
+A less constrained China would
 be poorer but much more unstable and dangerous to its neighbors and to America
 than it would be if it still had to engage regularly with the rest of the world.
 Trade Promotion Authority. Trade agreements can take years to negotiate.
@@ -93,6 +92,8 @@ One way to accelerate the process is for Congress to grant the President Trade
 Promotion Authority (TPA). It was first granted under the 1974 Trade Act, which contains the Sections 201 and 301 tariff delegations. TPA, then called fast-track, has aided several trade agreements, including NAFTA and the USMCA, which took
 effect in 2020. TPA has lapsed before during slow periods in trade policy, most
 recently in July 2021, and remains lapsed today.
+
+
 The President should work with Congress to renew TPA to rationalize negoti-
 ations for upcoming trade agreements with the United Kingdom, the European
 Union, and others.

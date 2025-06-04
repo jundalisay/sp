@@ -8,7 +8,7 @@ description : "Here is the outline of our proposed textbook on Supereconomics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 draft: true
 ---
 

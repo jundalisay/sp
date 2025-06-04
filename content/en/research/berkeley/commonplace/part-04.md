@@ -1,9 +1,9 @@
 ---
-title: "Commonplace"
-heading: ""
-weight: 7
+title: "What are Ideas?"
+heading: "Part 4"
+weight: 9
 description: ""
-:c: "steelblue"
+c: "steelblue"
 ---
 
 
@@ -33,25 +33,23 @@ Must the imagination be judge in the aforementioned cases? but then imagination 
 
 If I speak positively and with the air of a mathematician in things of which I am certain, 'tis to avoid disputes, to make men careful to think before they answer, to discuss my arguments before they go to refute them. I would by no means injure truth and certainty by an affected modesty & submission to better judgments. Wt I lay before you are undoubted theorems; not plausible conjectures of my own, nor learned opinions of other men. I pretend not to prove them by figures, analogy, or authority. Let them stand or fall by their own evidence.
 
-N.
-When you speak of the corpuscularian essences of bodys, to reflect on sect. 11. & 12. b. 4. c. 3. Locke. Motion supposes not solidity. A meer colour'd extension may give us the idea of motion.
+N. When you speak of the corpuscularian essences of bodys, to reflect on sect. 11. & 12. b. 4. c. 3. Locke. Motion supposes not solidity. A meer colour'd extension may give us the idea of motion.
 
-P.
-Any subject can have of each sort of primary qualities but one particular at once. Lib. 4. c. 3. s. 15. Locke.
+P. Any subject can have of each sort of primary qualities but one particular at once. Lib. 4. c. 3. s. 15. Locke.
 
-M.
-Well, say you, according to this new doctrine, all is but meer idea—there is nothing wch is not an ens rationis. I answer, things are as real, and exist in rerum natura, as much as ever. The difference between entia realia & entia rationis may be made as properly now as ever. Do but think before you speak. Endeavour rightly to comprehend my meaning, and you'll agree with me in this.
+M. You say that according to this new doctrine, all is but mere idea—there is nothing wch is not an ens rationis. 
 
-N.
-Fruitless the distinction 'twixt real and nominal essences.
+I answer, things are as real, and exist in rerum natura, as much as ever. 
+
+The difference between entia realia & entia rationis may be made as properly now as ever. Do but think before you speak. Endeavour rightly to comprehend my meaning, and you'll agree with me in this.
+
+N. Fruitless the distinction 'twixt real and nominal essences.
 
 We are not acquainted with the meaning of our words. Real, extension, existence, power, matter, lines, infinite, point, and many more are frequently in our mouths, when little, clear, and determin'd answers them in our understandings. This must be well inculcated.
 
-M.
-Vain is the distinction 'twixt intellectual and material world86. V. Locke, lib. 4. c. 3. s. 27, where he says that is far more beautiful than this.
+M. Vain is the distinction 'twixt intellectual and material world86. V. Locke, lib. 4. c. 3. s. 27, where he says that is far more beautiful than this.
 
-S.
-Foolish in men to despise the senses. If it were not for
+S. Foolish in men to despise the senses. If it were not for
 
 Mo.
 them the mind could have no knowledge, no thought at all. All ... of introversion, meditation, contemplation, and spiritual acts, as if these could be exerted before we had ideas from without by the senses, are manifestly absurd. This may be of great use in that it makes the happyness of the life to come more conceivable and agreeable to our present nature. The schoolemen & refiners in philosophy gave the greatest part of mankind no more tempting idea of heaven or the joys of the blest.

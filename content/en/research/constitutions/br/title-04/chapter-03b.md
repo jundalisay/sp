@@ -2,7 +2,7 @@
 title: "The Supreme Federal Court"
 heading: "Title 4 Section 2"
 weight: 28
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

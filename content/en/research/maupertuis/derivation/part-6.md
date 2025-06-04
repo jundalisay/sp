@@ -17,8 +17,7 @@ Descartes believed that:
 
 It started from a reasonable principle: **total momentum is conserved in Nature**.
 
-Unfortunately, he derived false laws, because his initial principle, the conservation of total momentum, is not
-true.
+Unfortunately, he derived false laws, because his initial principle, the conservation of total momentum, is not true.
 
 The philosophers who followed Descartes noted another conservation law: that of kinetic energy.
 
@@ -40,8 +39,7 @@ If one studies these principles and the reasoning their authors used, it is surp
 
 **One suspects that they worked backwards from experience, rather than deducing them from basic principles.** 
 
-Those who argue most rigorously recognize that the principle used to derive the collision laws for
-elastic bodies would not be applicable to perfectly inelastic bodies. 
+Those who argue most rigorously recognize that the principle used to derive the collision laws for elastic bodies would not be applicable to perfectly inelastic bodies. 
 
 Moreover, the laws of mechanical equilibrium are independent of the conservation laws used to derive laws for collisions of elastic and inelastic bodies.
 
@@ -62,7 +60,7 @@ One observes it at work:
 - in every change. and 
 - in every constancy that Nature exhibits. 
 
-In the collision of bodies, motion is distributed such that the quantity of action is as small as possible.
+**In the collision of bodies, motion is distributed such that the quantity of action is as small as possible.**
 
 <!-- given that the collision occurs.  -->
 

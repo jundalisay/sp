@@ -1,5 +1,5 @@
 ---
-title: "HOW TO SIGNAL TO MARS"
+title: "How To Signal To Mars"
 description: "Wireless the Only Way Now, Says Nicola Tesla—Mirror Plan Not Practicable"
 c: "darkgoldenrod"
 writer:
@@ -10,17 +10,23 @@ weight: 110
 
 
 
-Wireless the Only Way Now, Says Nicola Tesla—Mirror Plan Not Practicable.
+<!-- Wireless the Only Way Now, Says Nicola Tesla—Mirror Plan Not Practicable. -->
 
 To the Editor of the New York Times:
 
-Of all the evidence of narrow mindedness and folly, I know of no greater than the stupid belief that this little planet is singled out to be the seat of life, and that all other heavenly bodies are fiery masses or lumps of ice. 
+
+It is very narrow minded to assert that:
+- Earth is the seat of life
+- all other heavenly bodies are fiery masses or lumps of ice
+
 
 Some planets are not inhabited. 
 
-But others are. These have life under all conditions and phases of development.
+**But others are.** 
 
-In the solar system Venus, the Earth, and Mars represent respectively, youth, full growth, and old age. 
+These have life under all conditions and phases of development.
+
+In the solar system, Venus, the Earth, and Mars represent respectively, youth, full growth, and old age. 
 
 Venus, with its mountains rising dozens of miles into the atmosphere, is probably as yet unfitted for such existence as ours.
 
@@ -38,7 +44,9 @@ Mars is much smaller. The contact between individuals and the mutual exchange of
 
 We have no absolute proof that Mars is inhabited.
 
-The straightness of the canals, which has been held out as a convincing indication to this effect, is not at all such. We can conclude with mathematical certitude that as a planet grows older and the mountains are leveled down, ultimately every river must flow in a geodetically straight line. Such straightening is already noticeable in some rivers of the earth.
+The straightness of the canals, which has been held out as a convincing indication to this effect, is not at all such. 
+
+We can conclude with mathematical certitude that as a planet grows older and the mountains are leveled down, ultimately every river must flow in a geodetically straight line. Such straightening is already noticeable in some rivers of the earth.
 
 
 ### Believes Mars Signaled Him

@@ -9,7 +9,7 @@ description: "One cannot completely get rid of the 6 passions: lust, anger, gree
 
 Saturday, May 24, 1884
 
-SRI RAMAKRISHNA was sitting on the small couch in his room. Rākhāl , M., and, several other devotees were present. 
+SRI RAMAKRISHNA was sitting on the small couch in his room. Rakhal , M., and, several other devotees were present. 
 
 A special worship of Kāli had been performed in the temple the previous night. In connection with the worship a theatrical performance of the Vidyasundar had been staged in the Natmandir. 
 
@@ -117,15 +117,15 @@ One cannot explain the vision of God to others. One cannot explain conjugal happ
 
 ACTOR: "How does One realize the Ātman?"
 
-Just then Rākhāl was about to take his meal in the Master's room. He hesitated at the sight of so many people. During those days the Master looked on Rākhāl as Gopala and on himself as Mother Yaśoda.
+Just then Rakhal was about to take his meal in the Master's room. He hesitated at the sight of so many people. During those days the Master looked on Rakhal as Gopala and on himself as Mother Yaśoda.
 
 
 {{< l a="Ramakrishna" >}}
-(to Rākhāl): "Why don't you eat? Let the people stand aside if you wish it. (To a devotee) Keep some ice for Rākhāl. (To Rākhāl) Do you intend to go to Vanhooghly?  Don't go in this sun."
+(to Rakhal): "Why don't you eat? Let the people stand aside if you wish it. (To a devotee) Keep some ice for Rakhal. (To Rakhal) Do you intend to go to Vanhooghly?  Don't go in this sun."
 {{< /l >}}
 
 
-Rākhāl sat down to his meal. Sri Ramakrishna again spoke to the actor.
+Rakhal sat down to his meal. Sri Ramakrishna again spoke to the actor.
 
 
 MASTER: "Why didn't all of you take your meal from the kitchen of the Kāli temple? That
@@ -133,7 +133,7 @@ would have been nice."
 
 ACTOR: "All of us don't have the same opinion about food; so our food is cooked separately. All don't like to eat in the guest-house."
 
-While Rākhāl was taking his meal, the Master and the devotees sat on the porch and continued their conversation.
+While Rakhal was taking his meal, the Master and the devotees sat on the porch and continued their conversation.
 
 
 ## Means of Self-realization

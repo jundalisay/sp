@@ -2,7 +2,7 @@
 title: "The Characteristics of the Jews"
 heading: "Sura 2d "
 weight: 10
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -10,7 +10,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 {{< n n="Here we replace 'Allah' with the Anunnaki god or alien 'Enki', since the Middle East was historically Anunnaki territory" >}}
 
 
-<sup>83.</sup> We made a covenant with the Jews: 
+<sup>83</sup> We made a covenant with the Jews: 
 
 > Worship only Enki. Be good to parents, and relatives, and orphans, and the needy. Speak nicely to people. Pray regularly. Give alms.
 
@@ -24,12 +24,13 @@ You agreed, and were all witnesses.
 
 {{< s v="85" >}} But here you are:
 - killing your own
-- expelling a group of your own from their homes, conspiring against them in wrong-doing and hostility.
-- ransoming them if they surrender to you, although it was forbidden to you. 
+- expelling a group of your own from their homes, conspiring against them in wrong-doing and hostility
+- ransoming them if they surrender to you, although it was forbidden to you
 
 You believe in one part of the Scripture, and disbelieve the other part. 
 - What is the reward for those among you who do that but humiliation in this life? 
 - On Resurrection Day, they will be assigned to the most severe torment.
+
 
 <sup>86.</sup> Those are they who bought the present life for the Hereafter, so the punishment will not be lightened for them, nor will they be helped.
 
@@ -44,6 +45,7 @@ Whenever a messenger comes to you with anything that your souls do not want, you
 - grow arrogant
 - call some impostors, and
 - kill the others.
+
 
 {{< s v="88">}} The Jews said that they hearts are sealed. Rather, Enki has cursed them for their ingratitude. They have little faith.
 
@@ -61,9 +63,9 @@ The Jews believe in what was revealed to them. But they reject anything beyond t
 
 Ask them: 
 
-{{< l a="Muslim" >}}
+{{< r a="Muslim" >}}
 Why did you kill Enki’s prophets before, if you were believers?
-{{< /l >}}
+{{< /r >}}
 
 
 {{< s v="92-93" >}} Moses came to you with clear proofs, yet you adopted the calf in his absence, and you were wrong.
@@ -79,7 +81,7 @@ We hear and disobey.
 {{< /r >}}
 
 
-But they loved the calf [Hinduism?] because of their disbelief. 
+But they loved the calf [Hinduism, Enlil followers] because of their disbelief. 
 
 <!-- Say: “Wretched is what your faith commands you to do, if you are believers.” -->
 
@@ -113,9 +115,11 @@ Gabriel revealed the Quran to your heart by Enki’s permission. The Quran:
 
 {{< s v="100" >}} Whenever the Jews make a covenant, some of them toss it aside. 
 - In fact, most of them do not believe.
-- {{< s v="101" >}} <!-- And when there came to them a messenger from Enki, confirming what they had, --> A faction of those who were given the Book threw the Book of Enki behind their backs, as if they do not know.
-- {{< s v="102" >}} They followed what the devils taught during the reign of Solomon. 
-  - Solomon did not disbelieve, but the devils. 
+
+{{< s v="101" >}} <!-- And when there came to them a messenger from Enki, confirming what they had, --> A faction of those who were given the Book threw the Book of Enki behind their backs, as if they do not know.
+
+{{< s v="102" >}} They followed what the devils taught during the reign of Solomon. 
+- Solomon did not disbelieve, but the devils. 
 
 Witchcraft was revealed in Babylon to the 2 angels Harut and Marut.
 - Those 2 angels only teach those who:

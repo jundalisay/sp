@@ -5,6 +5,7 @@ title: Systematic Representation of all Synthetical Principles of the Pure Under
 description: "The Application of the Categories Sensory Objects"
 weight: 10
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

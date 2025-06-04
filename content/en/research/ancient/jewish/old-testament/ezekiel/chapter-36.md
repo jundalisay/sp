@@ -22,7 +22,7 @@ c: "firebrick"
 
 9} For, behold, I [am] for you, and I will turn unto you, and you shall be tilled and sown: 
 
-10} And I will multiply men upon you, all the Israelites, [even] all of it: and the cities shall be inhabited, and the wastes shall be builded: 11} And I will multiply upon you man and beast; and they shall increase and bring fruit: and I will settle you after your old estates, and will do better [unto you] than at your beginnings: and you shall know that I [am] Enki.
+10} And I will multiply men upon you, all the Israelites, [even] all of it: and the cities shall be inhabited, and the wastes shall be builded: 11} And I will multiply upon you man and beast; and they shall increase and bring fruit: and I will settle you after your old estates, and will do better [unto you] than at your beginnings: and you shall know that I am the Lord.
 
 12} Yea, I will cause men to walk upon you, [even] my people Israel; and they shall possess you, and you shalt be their inheritance, and you shalt no more henceforth bereave them [of men. ]13} Thus saith Enki; Because they say unto you, Thou [land] devourest up men, and hast bereaved your nations; 14} Therefore you shalt devour men no more, neither bereave your nations any more, saith Enki.
 
@@ -32,7 +32,7 @@ c: "firebrick"
 
 21} But I had pity for mine holy name, which the Israelites had profaned among the heathen, whither they went.
 
-22 Therefore say to Israelites, Thus saith Enki; I do not [this] for your sakes, O Israelites, but for mine holy name’s sake, which ye have profaned among the heathen, whither you went. 23} And I will sanctify my great name, which was profaned among the heathen, which you have profaned in the midst of them; and the heathen shall know that I [am] Enki, saith Enki, when I shall be sanctified in you before their eyes. 24} For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.
+22 Therefore say to Israelites, Thus saith Enki; I do not [this] for your sakes, O Israelites, but for mine holy name’s sake, which ye have profaned among the heathen, whither you went. 23} And I will sanctify my great name, which was profaned among the heathen, which you have profaned in the midst of them; and the heathen shall know that I am the Lord, saith Enki, when I shall be sanctified in you before their eyes. 24} For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.
 
 25} Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you. 26} A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh. 27} And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do [them.]
 
@@ -50,4 +50,4 @@ This land that was desolate is become like the garden of Eden; and the waste and
 
 37 Thus said Enki:
 
-I will yet [for] this be enquired of by the house of Israel, to do [it] for them; I will increase them with men like a flock. 38} As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I [am] Enki.
+I will yet [for] this be enquired of by the house of Israel, to do [it] for them; I will increase them with men like a flock. 38} As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I am the Lord.

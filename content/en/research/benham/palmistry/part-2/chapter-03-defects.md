@@ -7,7 +7,7 @@ weight: 8
 c: "deeppink"
 description: "There is another Minor line, called the Via Lascivia, and supposed to be a sister line to the Mercury line. But I consider it as a chance line, and so it does not have  fixed place among the Minor lines"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
@@ -87,7 +87,9 @@ All of the changes, obstructions, and defects that occur in the lines themselves
 
 ## The Uneven Line
 
-This might seem like a good line. It is deep but becomes thin afterwards, sometimes becoming broad and shallow, and often fading away entirely. 
+This might seem like a good line. It is deep but becomes thin afterwards, sometimes becoming broad and shallow, and often fading away entirely.
+
+![Uneven Line](/graphics/palm/01.png)
 
 Sometimes this uneven line may start broad and shallow, become deep and clear, and then grow thin again. 
 
@@ -113,6 +115,8 @@ The uneven line shows the unequal, spasmodic operation of the qualities of the p
 These are splinters which have broken the lines and produced defects in any line by:
 - reducing its clearness and strength
 - impairing its usefulness by crippling its ability to carry the Current 
+
+![Splits](/graphics/palm/02.png)
 
 These splits:
 - must not be mistaken for sister lines, nor for islands, as they do not join the line again after splitting away from it. 
@@ -140,10 +144,16 @@ When the 7 types were less often combined than they are now, and pure specimens 
 
 This was possible by following the description of the appearance of the types indicated by the Mount to which the split line ran. Such feats are still possible when the split lines are strong and the types pure specimens, and while in my own readings I have never said that any subject would marry someone of a particular appearance, I have often described in this way the appearance of the person who would be most attractive to the subject as one who would be his ideal, and whom he would prefer to any other for a life partner. 
 
-The split line will tell of many events, ranging from a mere trivial defect of the line, shown by a small short split, up to an entire change in the life of a subject. There must always be a distinct separation of a line, showing that it plainly divides, before you should read it as a split. With care and practice you can learn properly to judge such defects. 
+The split line will tell of many events:
+- a mere trivial defect of the line is shown by a small short split or
+- an entire change in the life of a subject.
 
-During the study of this chapter examine as many hands as possible, looking for each of the signs and lines as treated here, and accustom yourself to recognize at once the different formations, not trying to interpret them fully at first, but learning to distinguish them quickly when seen. 
+<!-- There must always be a distinct separation of a line, showing that it plainly divides, before you should read it as a split. With care and practice you can learn properly to judge such defects.  -->
 
-Remember that a divided line is not as strong by one half as if the split had not occurred, and this will give you the proper general theory to apply to split lines.
+<!-- During the study of this chapter examine as many hands as possible, looking for each of the signs and lines as treated here, and accustom yourself to recognize at once the different formations, not trying to interpret them fully at first, but learning to distinguish them quickly when seen.  -->
+
+A divided line is not as strong by one half as if the split had not occurred.
+
+<!-- , and this will give you the proper general theory to apply to split lines. -->
 
 

@@ -11,7 +11,7 @@ weight: 32
 
 
 
-#### Proposition 32:  If a body `B` is surrounded by particles in motion which impel it with equal force in all directions, it will remain unmoved in the same place as long as no other cause occurs.
+## Proposition 32:  If a body `B` is surrounded by particles in motion which impel it with equal force in all directions, it will remain unmoved in the same place as long as no other cause occurs.
 
 Proof: This proposition is self-evident. 
 
@@ -20,7 +20,7 @@ If it were to move in any direction through the impulse of particles coming from
 This would be contrary to the hypothesis.
 
 
-#### Proposition 33: The Body `B` can be moved in any direction by any additional force, however small.
+## Proposition 33: The Body `B` can be moved in any direction by any additional force, however small.
 
 <!-- under the conditions stated previously, -->
 
@@ -39,7 +39,7 @@ When added to the impulse of those particles that together with it are impelling
 Therefore (Ax. 20), body `B` will be moved in any direction by this external force, however small it be imagined. Q.E.D. 
 
 
-#### Proposition 34: The Body `B` cannot move more quickly than it is impelled by the external force, even though the particles by which it is surrounded are in much swifter motion.
+## Proposition 34: The Body `B` cannot move more quickly than it is impelled by the external force, even though the particles by which it is surrounded are in much swifter motion.
 
 Proof: The particles that, together with the external force, are impelling `B` in the same direction are faster than the external force can move `B`.
 
@@ -52,7 +52,7 @@ Therefore, because no other circumstances or causes are supposed, `B` will not r
 Therefore (Part 1, Ax. 8) it cannot move more quickly than it is impelled by the external force. Q.E.D.
 
 
-#### Proposition 35: When body `B` is thus moved by an external impulse, it receives the greatest part of its motion from the bodies by which it is constantly surrounded, and not from the external force.
+## Proposition 35: When body `B` is thus moved by an external impulse, it receives the greatest part of its motion from the bodies by which it is constantly surrounded, and not from the external force.
 
 Proof: Even though body B is imagined to be very large, it must be moved by even the smallest impulse (Prop. 33 Part 2). 
 

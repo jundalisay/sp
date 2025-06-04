@@ -34,7 +34,7 @@ Look now towards the stars. Your seed will be as numerous as them.
 
 
 {{< l a="Enki" >}}
-<sup>7</sup> I am Enki who brought you out of Ur of the Chaldees, to give you this land to inherit it.
+<sup>7</sup> I am the Lord who brought you out of Ur of the Chaldees, to give you this land to inherit it.
 {{< /l >}}
 
 

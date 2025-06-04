@@ -14,7 +14,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 15. How were these bodies generated? First, The General Motion Of Air-Aether Globules
+## 15. How were these bodies generated? First, The General Motion Of Air-Aether Globules
 
 <!-- Celestial -->
 The production of material bodies on Earth depends on 4 principal actions:
@@ -47,7 +47,7 @@ And so they mix with the particles of the earth-aether to compose all the bodies
 
 
 
-#### 16. The first effect of air-aether motion: make bodies transparent
+## 16. The first effect of air-aether motion: make bodies transparent
 
 <!-- terrestrial -->
 The air-aether in the earth-aether makes all liquid earth-aether bodies so fine that these globules are carried in all directions around them.
@@ -64,7 +64,7 @@ When they move continuously through the passages of these bodies from side to si
 
 Pure liquids on Earth are made up of fine particles. This is why they are transparent. 
 
-The particlesof liquid mercury are coarser. They cannot admit the air-aether. <!--  celestial --> 
+The particles of liquid mercury are coarser. They cannot admit the air-aether. <!--  celestial --> 
 <!-- globules everywhere around them. -->
 
 Ink, milk, blood, and the like are not pure liquids. They are interspersed with many tiny particles of solid bodies.
@@ -82,7 +82,7 @@ On the other hand, the particles of all opaque liquids adhere to each other by s
 {{< n n="This is the same reason why magnetism works when 'magnetic moments' are aligned" >}}
 
 
-#### 17. How can a solid and hard body like glass have enough passages to transmit light rays?
+## 17. How can a solid and hard body like glass have enough passages to transmit light rays?
 
 Think of apple-spheres enclosed in a mesh, tightly bound so that these apples, adhering to each other, form a single body.
 <!-- To understand how hard bodies can have enough passages to provide a passage for light rays coming from any direction,  -->

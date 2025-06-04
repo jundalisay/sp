@@ -7,7 +7,7 @@ description : "Swap Donations are in between Profits and Donations, following th
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

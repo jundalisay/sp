@@ -10,14 +10,21 @@ c: "darkgoldenrod"
 
 <!-- ### III. Research: Certain Laws of Motion and Equilibrium -->
 
-Whether at rest or moving, all material bodies have an inertial force that works to maintain them in their current state of motion.
+Whether at rest or moving, all material bodies have an inertial force that works to maintain them in their current state of motion.*
 
-This inertia is proportional to the amount of matter they contain.
+{{< n n="This was explained by Descartes" >}}
+
+
+**This inertia is proportional to the amount of matter they contain.**
+
+{{< n n="We fix this by saying that it is the amount of aether" >}}
+
 
 Material bodies have 2 two properties:
 
-1. Impenetrability
-2. Inertia
+1. Impenetrability [3rd element]
+2. Inertia [5th Element as aethereal Effort]
+
 
 These 2 are always opposed to one another in Nature, making laws necessary to bring them into harmony.*
 
@@ -25,6 +32,8 @@ These 2 are always opposed to one another in Nature, making laws necessary to br
 
 
 When two bodies encounter one another, they cannot penetrate one another.
+
+{{< n n="This is because of the law of conservation of idea" >}}
 
 Therefore, the rest of one and the motion of the other (or the motion of both) must be changed. 
 

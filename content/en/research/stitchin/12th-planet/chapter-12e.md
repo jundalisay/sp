@@ -10,14 +10,19 @@ weight: 75
 
 
 
-Following the mixing of the "blood" and "clay," the childbearing phase would
-complete the bestowal of a divine "imprint" on the creature.
+Following the mixing of the "blood" and "clay," the childbearing phase would complete the bestowal of a divine "imprint" on the creature.
+
+{{< q >}}
 The new-born's fate thou shalt pronounce;
 Ninki would fix upon it the image of the gods;
 And what it will be is "Man."
+{{< /q >}}
+
 
 
 Depictions on Assyrian seals may well have been intended as illustrations for these texts—showing how the Mother Goddess (her symbol was the cutter of the umbilical cord) and Ea (whose original symbol was the crescent) were preparing the mixtures, reciting the incantations, urging each other to proceed.
+
+
 (Figs. 151, 152)
 
 
@@ -41,14 +46,12 @@ The being that was thus produced, which is repeatedly referred to in
 Mesopotamian texts as a "model Man" or a "mold," was apparently the right
 creature, for the gods then clamored for duplicates. 
 
-This seemingly unimportant detail, however, throws light not only on the process by which Mankind was
-"created," but also on the otherwise conflicting information contained in the Bible.
+This seemingly unimportant detail, however, throws light not only on the process by which Mankind was "created," but also on the otherwise conflicting information contained in the Bible. 
+
 According to the first chapter of Genesis:
 
-{{< q >}}
-Elohim created the Adam in His image—
-in the image of Elohim created He him.
-Male and female created He them.
+{{< q a="Genesis" >}}
+Elohim created the Adam in His image—in the image of Elohim created He him. Male and female created He them.
 {{< /q >}}
 
 
@@ -69,41 +72,38 @@ The contradiction seems sharper still in the second chapter of Genesis, which sp
 was alone for a while, until the Deity put him to sleep and fashioned Woman from
 his rib.
 
-The contradiction, which has puzzled scholars and theologians alike, disappears once we realize that the biblical texts were a condensation of the original Sumerian sources. These sources inform us that after trying to fashion a Primitive Worker by "mixing" apemen with animals, the gods concluded that the only mixture that
-would work would be between apemen and the Nefilim themselves. After several
-unsuccessful attempts, a "model"—Adapa/Adam—was made. There was, at first,
-only a single Adam.
+The contradiction, which has puzzled scholars and theologians alike, disappears once we realize that the biblical texts were a condensation of the original Sumerian sources. 
 
-Once Adapa/Adam proved to be the right creature, he was used as the genetic
-model or "mold" for the creation of duplicates, and those duplicates were not only
-male, but male and female. As we showed earlier, the biblical "rib" from which
-Woman was fashioned was a play on words on the Sumerian TI ("rib" and "life")—
-confirming that Eve was made of Adam's "life's essence."
+These sources inform us that after trying to fashion a Primitive Worker by "mixing" apemen with animals, the gods concluded that the only mixture that would work would be between apemen and the Nefilim themselves. After several unsuccessful attempts, a "model"—Adapa/Adam—was made. There was, at first, only a single Adam.
+
+Once Adapa/Adam proved to be the right creature, he was used as the genetic model or "mold" for the creation of duplicates, and those duplicates were not only male, but male and female. As we showed earlier, the biblical "rib" from which Woman was fashioned was a play on words on the Sumerian TI ("rib" and "life")— confirming that Eve was made of Adam's "life's essence."
 
 
 The Mesopotamian texts give an eye-witness report of the first production of the duplicates of Adam.
 
 The instructions of Enki were followed. In the House of Shimti—where the breath of life is "blown in"—Enki, the Mother Goddess, and 14 birth goddesses assembled. 
 
-A god's "essence" was obtained, the "purifying bath"
-prepared. "Ea cleaned the clay in her presence; he kept reciting the incantation."
+{{< q >}}
+A god's "essence" was obtained, the "purifying bath" prepared. 
+"Ea cleaned the clay in her presence; he kept reciting the incantation."
 The god who purifies the Napishtu, Ea, spoke up.
 Seated before her, he was prompting her.
 After she had recited her incantation,
 She put her hand out to the clay.
-We are now privy to the detailed process of Man's mass creation. With fourteen
-birth goddesses present,
-Ninti nipped off fourteen pieces of clay;
-Seven she deposited on the right,
-Seven she deposited on the left.
+We are now privy to the detailed process of Man's mass creation. With 14 birth goddesses present,
+Ninti nipped off 14 pieces of clay;
+Seven she deposited on the right, Seven she deposited on the left.
 Between them she placed the mould.
 … the hair she …
 … the cutter of the umbilical cord.
+{{< /q >}}
 
-The birth goddesses were divided into two groups. "The wise and learned, twice-seven birth goddesses had assembled," the text goes on to explain. Into their wombs the Mother Goddess deposited the "mixed clay." 
+
+The birth goddesses were divided into 2 groups. "The wise and learned, twice-seven birth goddesses had assembled," the text goes on to explain. Into their wombs the Mother Goddess deposited the "mixed clay." 
 
 There are hints of a surgical procedure—the removal or shaving off of hair, the readying of a surgical instrument, a cutter. Now there was nothing to do but wait:
 
+{{< q >}}
 The birth goddesses were kept together.
 Ninti sat counting the months.
 The fateful 10th month was approaching;
@@ -113,6 +113,7 @@ Her face radiated understanding:
 She covered her head, performed the midwifery.
 Her waist she girdled, pronounced the blessing.
 She drew a shape; in the mould was life.
+{{< /q >}}
 
 
 The drama of Man's creation, it appears, was compounded by a late birth. The "mixture" of "clay" and "blood" was used to induce pregnancy in fourteen birth goddesses. 
@@ -120,7 +121,7 @@ The drama of Man's creation, it appears, was compounded by a late birth. The "mi
 But nine months passed, and the tenth month commenced. "The period of opening the womb had elapsed." Understanding what was called for, the Mother Goddess "performed the midwifery." That she engaged in some surgical
 operation emerges more clearly from a parallel text (in spite of its fragmentation):
 
-
+{{< q >}}
 Ninti … counts the months…
 The destined 10th month they called;
 The Lady Whose Hand Opens came.
@@ -132,4 +133,4 @@ That which was in the womb came forth.
 Overcome with joy, the Mother Goddess let out a cry.
 "I have created!
 My hands have made it!"
-
+{{< /q >}}

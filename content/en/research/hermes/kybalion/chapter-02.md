@@ -7,8 +7,8 @@ weight: 5
 ---
 
 
-{{< q >}}
-"The Principles of Truth are Seven. The knower of these has the Magic Key before whose touch all the Doors of the Temple fly open."—The Kybalion
+{{< q a="Kybalion" >}}
+The Principles of Truth are Seven. The knower of these has the Magic Key before whose touch all the Doors of the Temple fly open.
 {{< /q >}}
 
 

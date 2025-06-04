@@ -1,5 +1,5 @@
 ---
-title: "Liquid Properties and Surface Tension"
+title: "Second Effect: Liquid Properties and Surface Tension"
 # Celestial
 heading: Articles 18-19
 weight: 6

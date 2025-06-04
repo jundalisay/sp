@@ -4,6 +4,7 @@ title: The Discipline of Pure Reason in Relation to Proofs
 description: "This critique of reason has now taught us that all its efforts to extend the bounds of knowledge are utterly fruitless"
 weight: 26
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

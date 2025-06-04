@@ -105,11 +105,14 @@ It is said that the ordinary state of debt and credit between London and Paris m
 When neither of them imports from the other more than it exports to that other, the debts and credits of each may compensate one another.
 
 But when one of them imports more value from the other, the former becomes indebted to the latter.
-        The debts and credits of each do not compensate one another
-        Money must be sent out from where the debts over-balance the credits.
+
+The debts and credits of each do not compensate one another
+
+Money must be sent out from where the debts over-balance the credits.
 
 The ordinary course of exchange is an indication of the ordinary state of debt and credit between two places.
-    It must likewise be an indication of the ordinary course of their exports and imports.
+
+It must likewise be an indication of the ordinary course of their exports and imports.
 
 
 {{< s v="6" >}} The ordinary exchange shows the ordinary state of debt and credit between two places.
@@ -119,10 +122,14 @@ But it does not follow that the balance of trade is in favour of the place which
 - It is often influenced by the exchanges between those two places with many other places.
 
 For example, if it is usual for English merchants to pay for the goods of Hamburgh, Danzig, Riga, etc. with bills upon Holland, the ordinary state of debt and credit between England and Holland will not be regulated entirely by the ordinary exchanges between England and Holland.
+
 - It will be influenced by the exchanges between England with Hamburgh, Dantzic, Riga, etc.
-    England may be obliged to send out money annually to Holland.
-        But England may export more to Holland than it imports from Holland.
-    The balance of trade may be very much in favour of England.
+
+England may be obliged to send out money annually to Holland.
+
+But England may export more to Holland than it imports from Holland.
+
+The balance of trade may be very much in favour of England.
 
 {{< s v="7" >}} In this way, the ordinary exchange is not a proof that the ordinary state of debt and credit is in favour of the country which has the ordinary exchange in its favour.
 
@@ -178,37 +185,52 @@ In England, the coinage costs nothing.
 - The current coin can never be more valuable than the bullion it actually contains.
 
 In France, the workmanship which you pay for, adds value in the same way as to that of wrought plate.
-    French money is more valuable than English money of an equal weight of pure silver.
-    French money must require more bullion or other commodities to purchase it.
+
+French money is more valuable than English money of an equal weight of pure silver.
+
+French money must require more bullion or other commodities to purchase it.
 
 The current coins of both countries are equally near the standards of their respective mints.
-    However, English money could not well purchase French money of equal ounces of pure silver.
-    English money consequently cannot purchase a bill upon France for such a sum.
+
+However, English money could not well purchase French money of equal ounces of pure silver.
+
+English money consequently cannot purchase a bill upon France for such a sum.
 
 The real exchange might be at par between the two countries if such bill was bought with English money that was sufficient to compensate the expence of the French coinage.
-    In such a case, their debts and credits might mutually compensate one another.
-    Though the computed exchange was considerably in favour of France.
-    If less than this was paid, the real exchange might be in favour of England, while the computed exchange was in favour of France.
 
-11 In some places such as Amsterdam, Hamburgh, Venice, etc., foreign bills of exchange are paid in bank money.
+In such a case, their debts and credits might mutually compensate one another.
+
+Though the computed exchange was considerably in favour of France.
+
+If less than this was paid, the real exchange might be in favour of England, while the computed exchange was in favour of France.
+
+<sup>11</sup> In some places such as Amsterdam, Hamburgh, Venice, etc., foreign bills of exchange are paid in bank money.
 
 In other places, such as London, Lisbon, Antwerp, Leghorn, etc. they are paid in the common currency of the country.
 Bank money is always of more value than the same nominal sum of common currency.
-    For example, 1,000 guilders in the bank of Amsterdam are more valueable than 1,000 guilders of Amsterdam currency.
-    The difference between them is called the agio of the bank.
+
+For example, 1,000 guilders in the bank of Amsterdam are more valueable than 1,000 guilders of Amsterdam currency.
+
+The difference between them is called the agio of the bank.
+
 The agio at Amsterdam is about 5%.
-In a trade between two countries, the computed exchange may be in favour of the country that pays in bank money if= 
-    the current money of two countries are near the standard of their respective mints
-    one country pays foreign bills in this common currency, while the other pays in bank money
+
+In a trade between two countries, the computed exchange may be in favour of the country that pays in bank money if:
+- the current money of two countries are near the standard of their respective mints
+- one country pays foreign bills in this common currency, while the other pays in bank money
 
 However, the real exchange should be in favour of the country which pays in current money.
-    Because the computed exchange may be in favour of the country which pays in better money, or in money nearer to its own standard.
-    Though the real exchange should be in favour of the country which pays in worse money.
-Before the recent reformation of the gold coin, the computed exchange was generally against London with other places which pay in bank money, such as Amsterdam, Hamburgh, and Venice.
-    However, it does not follow that the real exchange was against London.
 
-Since the reformation of the gold coin= 
-    The real exchange has been in favour of London even with Amsterdam, Hamburgh, and Venice.
-    The computed exchange was in favour of London with Lisbon, Antwerp, Leghorn, and other countries that pay in common currency, except France.
-        The real exchange was probab
+Because the computed exchange may be in favour of the country which pays in better money, or in money nearer to its own standard.
+
+Though the real exchange should be in favour of the country which pays in worse money.
+
+Before the recent reformation of the gold coin, the computed exchange was generally against London with other places which pay in bank money, such as Amsterdam, Hamburgh, and Venice.
+
+However, it does not follow that the real exchange was against London.
+
+Since the reformation of the gold coin:
+- The real exchange has been in favour of London even with Amsterdam, Hamburgh, and Venice.
+- The computed exchange was in favour of London with Lisbon, Antwerp, Leghorn, and other countries that pay in common currency, except France.
+- The real exchange was probab
         

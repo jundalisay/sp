@@ -7,7 +7,7 @@ description: "We predict a failure of Softbank's Vision Fund as it is based on M
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

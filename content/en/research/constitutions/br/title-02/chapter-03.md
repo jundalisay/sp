@@ -2,7 +2,7 @@
 title: "Nationality, Political Rights and Parties"
 heading: "Chapters 3-5"
 weight: 10
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

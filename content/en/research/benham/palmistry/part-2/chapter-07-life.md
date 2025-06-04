@@ -5,7 +5,7 @@ weight: 38
 c: "deeppink"
 description: "The Saturn line is frequently called the line of Fate."
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
@@ -108,5 +108,7 @@ It shows one who repels advances from the opposite sex instead of courting them,
 
 <!-- The Line Of Life Part 2 332 No. 181 -->
 
-This restriction of the Life line is also an indication of a diminished probability for long life, as it shows an abnormal dryness in the subject, and such conditions do not show the health and vigor that are present in subjects full of desire and warmth. Coldness indicates nearness to death, either of the physical body, or, as in this case, of some necessary emotion. When the line sweeps wide into the palm (181) it increases the boundary and scope of the Mount of Venus. 
+This restriction of the Life line is also an indication of a diminished probability for long life, as it shows an abnormal dryness in the subject, and such conditions do not show the health and vigor that are present in subjects full of desire and warmth. 
+
+Coldness indicates nearness to death, either of the physical body, or, as in this case, of some necessary emotion. When the line sweeps wide into the palm (181) it increases the boundary and scope of the Mount of Venus. 
 

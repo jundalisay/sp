@@ -760,7 +760,7 @@ in deep samādhi. It was the day of the Divine Mother's worship. Was that why he
 frequently went into samādhi? After a long while he sighed and restrained his emotion as
 if with great difficulty.
 It was about ten o'clock. Sri Ramakrishna was seated on his bed, leaning against the
-pillow. The devotees sat around him. Ram, Rākhāl, Niranjan, Kalipada, M., and many
+pillow. The devotees sat around him. Ram, Rakhal, Niranjan, Kalipada, M., and many
 others were present. Sri Ramakrishna was talking about his nephew Hriday.
 About Hriday
 MASTER: "Hriday is even now clamouring for land. He said to me one day while he was
@@ -872,13 +872,13 @@ It is the dark night of the new moon. At seven o'clock the devotees make arrange
 for the worship of Kāli in Sri Ramakrishna's room on the second floor. Flowers, sandal-
 paste, vilwa-leaves, red hibiscus, rice pudding, and various sweets and other articles of
 worship are placed in front of the Master. The devotees are sitting around him. There are
-present, among others, Sarat, Śaśi, Ram, Girish, Chunilal, M., Rākhāl, Niranjan, and the
+present, among others, Sarat, Śaśi, Ram, Girish, Chunilal, M., Rakhal, Niranjan, and the
 younger Naren.
 Sri Ramakrishna asks a devotee to bring some incense. A few minutes later he offers all
 the articles to the Divine Mother. M. is seated close to him. Looking at M., he says to the
 devotees, "Meditate a little." The devotees close their eyes.
 Presently Girish offers a garland of flowers at Sri Ramakrishna's feet. M. offers flowers
-and sandal-paste. Rākhāl, Ram, and the other devotees follow him.
+and sandal-paste. Rakhal, Ram, and the other devotees follow him.
 Niranjan offers a flower at Sri Ramakrishna's feet, crying: "Brahmamayi! Brahmamayi!"
 and prostrates himself before him, touching the Master's feet with his head. The
 devotees cry out, "Jai Ma!", "Hail to the Mother!"

@@ -10,7 +10,6 @@ description: "The social cycles of Russia last 15 years"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "/flags/ru.png"
 ---
 
 
@@ -76,7 +75,7 @@ The fall of Syria to Islamists, indirectly supported by Israel's attacks on Syri
 
 After the French Revolution, the two main mentalities or ideologies that emerged in Europe* were Liberalism versus Non-Liberalism.
 
-{{< f f="*A key marker for the idea of Liberalism is the idea of **human rights**. **This idea does not exist in any philosophical system anywhere from the ancient Greeks, Egyptians, Romans, Jews, Hindus, Buddhists, Jains, Confucians, to the modern Islam and Sikhs.** It seems to have incubated as [the Magna Carta](/research/england/magna-carta/article-1/) of King John of England in 1215 as a response to the excessive strength of the barons which is really an effect of the weakness of the King. China, Arabia, Persia, and India never had to institute human rights because the dynastic power was always able to keep order. The Roman Republic and Empire both likewise never had to institute human rights because the Senate and Emperor were usually in control. The Romans only gave rights to Romans and not to barbarians whose [group-feelings](/research/ibn-khaldun/muqaddimah/chapter-2/part-16) were in a different moral level. The latter Roman Empire extended rights to barbarians and ended up getting destroyed since it takes a huge amount of effort and many generations to unify group-feelings (We estimate that 60-80 years is needed minimum at maximum effort). Ancient China seems to have been able to do this." >}}
+{{< f f="*A key marker for the idea of Liberalism is the idea of **human rights**. **This idea does not exist in any philosophical system anywhere from the ancient Greeks, Egyptians, Romans, Jews, Hindus, Buddhists, Jains, Confucians, to the modern Islam and Sikhs.** It seems to have incubated as [the Magna Carta](/research/countries/england/magna-carta/article-1/) of King John of England in 1215 as a response to the excessive strength of the barons which is really an effect of the weakness of the King. China, Arabia, Persia, and India never had to institute human rights because the dynastic power was always able to keep order. The Roman Republic and Empire both likewise never had to institute human rights because the Senate and Emperor were usually in control. The Romans only gave rights to Romans and not to barbarians whose [group-feelings](/research/ibn-khaldun/muqaddimah/chapter-2/part-16) were in a different moral level. The latter Roman Empire extended rights to barbarians and ended up getting destroyed since it takes a huge amount of effort and many generations to unify group-feelings (We estimate that 60-80 years is needed minimum at maximum effort). Ancient China seems to have been able to do this." >}}
 
 
 

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 7"
-title: "Aethereal Territory: Quantum Fields"
+title: "Aethereal Layer Properties: Quantum Fields"
 date: 2024-12-10
 weight: 46
 image: /graphics/physics/fabric.jpg
@@ -16,7 +16,8 @@ In Modern Physics, a quantum field is a mathematical construct that exists throu
 
 Each type of particle (e.g., electrons, photons) corresponds to a specific field and are seen as excitations of them.
 
-Instead of Quantum Fields, Material Superphysics uses aethereal territories to describe the behavior of subatomic particles.
+- Instead of Quantum Fields, we use layers and sublayers
+- Instead of excitations in a field, we use vortices that spin in the different media of the 5 Layers
 
 
 Physics | Physics Description | Superphysics Equivalent | Superphysics Description
@@ -34,7 +35,7 @@ But in Superphysics, all particles have a wave nature that is based on the aethe
 
 The aether itself is within probability the probabilty layer. This is why quantum mechanics, and reality itself, is inherently probabilistic. 
 
-This concept is imbued in the concepts of wave-paricle duality which is the cause of the following phenomena:
+This concept is imbued in the concepts of wave-particle duality which is the cause of the following phenomena:
 - superposition
 - decoherence and wave function collapse
 - entanglement
@@ -59,15 +60,17 @@ Decoherence is the state after that thing loses its superposition through that c
 
 ## Entanglement
 
-<!-- Physics sees entanglement is where particles become interconnected, affecting each other instantaneously regardless of distance. -->
+This happens because phenoemna happens in spacetime which is stitched together by the aetherspace. 
 
-However, in Material Superphysics, all particles have a wave nature. They take the form of particles because of the confinement of the Negative Force on the observer's aethereal mind, and even the detectors that are detecting those paricles.   
+It is true that spacetime is made up of independent slices.
+- But this independence is nullified by the aetherspace.
+- This nullification creates entanglement
 
-"Entangled photons" really mean photon-waves that have been separated in space. They affect each other regardless of distance because the radiant layer (and the 2 lower layers) are within or under the spatial layer. 
+"Entangled photons" are photon-waves that have been separated in space by energy or momentum. 
 
-<!-- This is also evident in the  -->
+But since the aetherspace stitches together and domminates spacetime, then the spatial separation of the photons are nullified.
 
-These happen through the coordination of the 3 sublayers of the spatial layer:
+<!-- These happen through the coordination of the 3 sublayers of the spatial layer:
 
 1. Spacetime
 2. Aetherspace
@@ -87,7 +90,7 @@ However, the Space-Time of Superphysics has additional dimensions:
 
 All these Dimensions are made up of **2-dimensional slices** separated by Planck length.
 
-{{< i s="/graphics/physics/aetherspaceall.jpg" a="Aetherspace" c="Spacetime slices exist in the aetherspace. This leads to alternate realities and other universes" >}}
+i s="/graphics/physics/aetherspaceall.jpg" a="Aetherspace" c="Spacetime slices exist in the aetherspace. This leads to alternate realities and other universes"
 
 
 ### Aetherspace
@@ -107,7 +110,7 @@ We can say that timespace is the 'glue' that stitches spacetime together to crea
 {{< i s="/graphics/physics/spacetimes.jpg" a="3 models of Space and Time" c="The probabilistic aetherspace is where the entire spacetime is seen as a wave. Timespace stitches the spacetimes together." >}}
 
 Interactions between quantum things cause these slices to be decoherent. This makes their wave function collapse according to the timespaces that interact in that aetherspace, putting them in a single state to be processed by Classical Mechanics, among others. 
-
+ -->
 
 
 

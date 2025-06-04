@@ -6,7 +6,7 @@ weight: 26
 c: "deeppink"
 description: "The line of the Head is the second line which receives the Electric Current when it enters our bodies through the finger of Jupiter"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
@@ -58,12 +58,17 @@ The mind, working through the brain, is the force which operates directly on all
 However, often only a single line crosses the hand. You might not know whether it is <!-- , and you may be at a loss to tell whether it is --> the Head or the Heart line. 
 
 In 99% of cases, such a single line is the Head line and it is the Heart line which is absent. 
+- I think it best to read such single lines invariably as lines of Head. 
 
-I think it best to read such single lines invariably as lines of Head. The length of the Head line should next have your attention. It should not run to the percussion as does the Heart line, but if the line runs across the hand, as in No. 82, it tells by its length of abundant mentality the kind to be estimated by the character and color of the line. 
+The Head line should not run to the percussion as does the Heart line. If it runs across the hand, as in No. 82, it shows the  abundant mentality the kind to be estimated by the character and color of the line. 
 
-A short Head line (83) indicates that the subject is not so " long headed" (has not strong mentality). It may also mean that the subject's life is short and stops where the Head line ends. Illness and duration of life are to be read on several of the lines and not on the Life line alone.
+A short Head line (83) indicates that:
+- the subject is not so " long headed" (has not strong mentality) or
+- the subject's life is short and stops where the Head line ends.
 
-<!-- The Line Of Head 240 No. 83. The Line Of Head 241 No. 84. The Line Of Head 242 No. 85  -->
+![Head Line](/graphics/palm/83.png)
+
+Illness and duration of life are to be read on several of the lines and not on the Life line alone.
 
 
 If a short Head line also has a short Life line, matching in length with the Head line (84), the fatality is quite certain.
@@ -72,19 +77,30 @@ If a star is seen on the end of this short Head line (85) the indication will be
 
 If a star be seen on the end of both the short lines of Head and Life (86) the fatality may be read confidently if seen in the right hand, or, as threatened, if seen in the left hand. 
 
+![Head Line](/graphics/palm/86.png)
+
 The larger and better formed these stars, the more certain the indication. 
 
-A cross on the end of a short Head line must be read as stopping the Current, ending the mentality, and producing death, but not so surely by apoplexy or in a sudden manner as if indicated by well-formed stars. 
+A cross on the end of a short Head line stops the Current, ending the mentality, and producing death.
+- But it is not so surely by apoplexy or in a sudden manner as if indicated by well-formed stars.
 
-A cross on the end of a short Head line, and of a Life line (87) must be read as an indication which is nearly as strong as a star. These defects stop the Current, and life cannot continue unless the Current flows freely. With these markings note in every case the type of subject, also color of the line or sign. 
+A cross on the end of a short Head line, and of a Life line (87) is nearly as strong as a star.
+
+These defects stop the Current, and life cannot continue unless the Current flows freely. 
+
+With these markings note in every case the type of subject, also color of the line or sign. 
 
 If Jupiterian (predisposed to apoplexy), Saturnian (predisposed to paralysis), Martian (who has large blood supply in brain), these indications will be more serious, especially if found red or pronouncedly yellow in color. 
 
-In all short Head lines the accompanying signs on the Life line, Mercury line, Heart line, and Mounts must be noted, in order to distinguish whether the subject lacks mentality or is predisposed to disease, as in the above cases. The long Head line per se shows abundant mentality and the short line less of it. 
+In all short Head lines the accompanying signs on the Life line, Mercury line, Heart line, and Mounts must be noted, in order to distinguish whether the subject lacks mentality or is predisposed to disease, as in the above cases. 
+
+The long Head line per se shows abundant mentality and the short line less of it. 
 
 <!-- The Line Of Head 243 No. 86. The Line Of Head 244 No. 87. --> 
 
-In this examination for the length of the line, proportion must always be kept in mind. If the Head line extends across the entire hand in a straight line (88), with a Heart line normal, it will show the preponderance of head and the subject will be out of balance in this respect. 
+In this examination for the length of the line, proportion must always be kept in mind.
+
+If the Head line extends across the entire hand in a straight line (88), with a Heart line normal, it will show the preponderance of head and the subject will be out of balance in this respect. 
 
 He will:
 - be avaricious
@@ -99,7 +115,9 @@ The proportionate depth and character of all the lines must be noted.
 
 If the Head line be straight and long and also deep, it makes a stronger combination. When the Head line without the Heart line is found also long and it is straight and deep, it makes worldly interests greater and the subject harder and more avaricious. 
 
-If this line is also red, it makes the subject aggressive in his avarice, and if yellow he will be doubly mean and hard. If the Head line be long, but thinner and smaller than the other lines, the head will be on a constant strain and must not be overworked or the brain will be wrecked. 
+If this line is also red, it makes the subject aggressive in his avarice, and if yellow he will be doubly mean and hard. 
+
+If the Head line be long, but thinner and smaller than the other lines, the head will be on a constant strain and must not be overworked or the brain will be wrecked. 
 
 If the line be short, narrow, and shallow, it will be a pronounced indication of small mentality. 
 

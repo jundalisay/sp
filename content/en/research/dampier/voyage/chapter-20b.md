@@ -68,7 +68,8 @@ Their plantations afford potatoes, yams, and some plantains and bananas. Their s
 
 They get manatee here, which seemed very strange to me. Therefore enquiring more strictly into the matter I found the St. Helena manatee to be, by their shapes and manner of lying ashore on the rocks, those creatures called sea-lions; for the manatee never come ashore, neither are they found near any rocky shores as this island is, there being no feeding for them in such places. Besides in this island there is no river for them to drink at, though there is a small brook runs into the sea out of the valley by the fort.
 
-## THE ENGLISH WOMEN AT THIS ISLE. THE ENGLISH SHIPS REFRESH THEIR MEN HERE; AND DEPART ALL TOGETHER.
+
+## The English Women At This Isle
 
 We stayed here for 5-6 days; all which time the islanders lived at the town to entertain the seamen; who constantly flock ashore to enjoy themselves among their country people. 
 
@@ -84,7 +85,6 @@ Another brought his sweetheart to England, they being each engaged by bonds to m
 
 My stay ashore here was but two days to get refreshments for myself and Jeoly, whom I carried ashore with me: and he was very diligent to pick up such things as the islands afforded, carrying ashore with him a bag which the people of the isle filled with roots for him. They flocked about him and seemed to admire him much. This was the last place where I had him at my own disposal, for the mate of the ship who had Mr. Moody's share in him left him entirely to my management, I being to bring him to England. But I was no sooner arrived in the Thames but he was sent ashore to be seen by some eminent persons; and I, being in want of money, was prevailed upon to sell first part of my share in him, and by degrees all of it. After this I heard he was carried about to be shown as a sight and that he died of the smallpox at Oxford.
 
-## THE DIFFERENT COURSES FROM HENCE TO ENGLAND.
 
 But to proceed, our water being filled and the ship all stocked with fresh provision, we sailed from hence in company of the Princess Ann, the James and Mary, and the Josiah, July the 2nd 1691, directing our course towards England, and designing to touch nowhere by the way. 
 
@@ -93,11 +93,13 @@ We were now in the way of the tradewinds, which we commonly find at east-south-e
 For by striving to keep near the African shore you meet with the winds more uncertain and subject to calms; whereas in keeping the midway between Africa and America, or rather nearer the American continent, till you are north of the Line you have a brisk constant gale.
 
 
-## THEIR COURSE AND ARRIVAL IN THE ENGLISH CHANNEL AND THE DOWNS.
+## Arrival In The English Channel
 
 This was the way we took, and in our passage before we got to the Line we saw three ships and, making towards them we found two of them to be Portuguese, bound to Brazil. 
 
-The third kept on a wind so that we could not speak with her; but we found by the Portuguese it was an English ship called the Dorothy, Captain Thwart commander, bound to the East Indies. After this we kept company still with our three consorts till we came near England, and then were separated by bad weather; but before we came within sight of land we got together again, all but the James and Mary. She got into the Channel before us and went to Plymouth, and there gave an account of the rest of us; whereupon our men-of-war who lay there came out to join us and, meeting us, brought us off of Plymouth. 
+The third kept on a wind so that we could not speak with her; but we found by the Portuguese it was an English ship called the Dorothy, Captain Thwart commander, bound to the East Indies. After this we kept company still with our three consorts till we came near England, and then were separated by bad weather; but before we came within sight of land we got together again, all but the James and Mary.
+
+She got into the Channel before us and went to Plymouth, and there gave an account of the rest of us; whereupon our men-of-war who lay there came out to join us and, meeting us, brought us off of Plymouth. 
 
 There our consort the James and Mary came to us again, and from thence we all sailed in company of several men-of-war towards Portsmouth. There our first convoy left us and went in thither. 
 

@@ -7,8 +7,8 @@ weight: 4
 ---
 
 
-{{< q >}}
-"The lips of wisdom are closed, except to the ears of Understanding"—The Kybalion.
+{{< q a="Kybalion" >}}
+The lips of wisdom are closed, except to the ears of Understanding
 {{< /q >}}
 
 

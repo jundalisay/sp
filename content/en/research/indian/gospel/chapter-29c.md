@@ -17,7 +17,7 @@ Brahmans and gardeners, basket in hand, were plucking flowers for the worship of
 He was chanting: "Victory to Mother Durga! Hallowed be the name of Durga!" He was naked and looked like a child as he chanted the name of the
 Blissful Mother. After a few moments he said: "Oh, the bliss of divine ecstasy! Oh, the bliss of divine drunkenness!" Then he repeatedly chanted the name of Govinda: "O Govinda! My life! My soul!"
 
-The devotees sat on their beds and with unwinking eyes watched Sri Ramakrishna's spiritual mood. Hazra was living at the temple garden. Lātu was also living there to render the Master personal service. Rākhāl was still at Vrindāvan. Narendra visited Sri Ramakrishna now and then. He was expected that day.
+The devotees sat on their beds and with unwinking eyes watched Sri Ramakrishna's spiritual mood. Hazra was living at the temple garden. Lātu was also living there to render the Master personal service. Rakhal was still at Vrindāvan. Narendra visited Sri Ramakrishna now and then. He was expected that day.
 
 The devotees washed their faces. The Master took his seat on a mat on the north verandah. Bhavanath and M. sat beside him. Other devotees were coming in and out of the room.
 

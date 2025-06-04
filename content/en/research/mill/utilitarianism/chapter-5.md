@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 14
 contributors: ['John Stuart Mill']
 description: "One of the strongest obstacles to the doctrine that Utility or Happiness is the criterion of right and wrong"
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 ---
 
 

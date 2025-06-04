@@ -2,7 +2,7 @@
 title: The Importance of Metaphysics Research
 heading: "Section 1b"
 description: Hume explains the Importance of Metaphysics Research
-image: /covers/enquiry.jpg
+c: "steelblue"
 weight: 4
 writer:
   name: David Hume

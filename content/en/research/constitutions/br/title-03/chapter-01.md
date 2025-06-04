@@ -2,7 +2,7 @@
 title: "The Political and Administrative Organization"
 heading: "Title 3 Chapter 1"
 weight: 4
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

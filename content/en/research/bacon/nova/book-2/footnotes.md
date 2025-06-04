@@ -1,11 +1,11 @@
 ---
 title: "Footnotes"
-heading: 
-weight: 1
+weight: 100
 description: ""
 c: "steelblue"
 icon: "Francis Bacon"
 author: "Francis Bacon"
+draft: true
 ---
 
 

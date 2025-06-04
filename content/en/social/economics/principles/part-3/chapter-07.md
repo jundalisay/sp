@@ -8,7 +8,7 @@ description: "The Demand Capital Trade Industry Tool is for Troubleshooting Econ
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

@@ -3,7 +3,7 @@ heading: "Chapter 9a"
 title: "Affection Lines"
 weight: 50
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 c: "deeppink"
 description: "The lines of Affection or Marriage, as they are commonly called, lie on the Mount of Mercury, and run from the percussion toward the inside of the palm"
 ---
@@ -12,6 +12,8 @@ description: "The lines of Affection or Marriage, as they are commonly called, l
 The lines of Affection or Marriage:
 - are on the Mount of Mercury
 - run from the percussion toward the inside of the palm.
+
+![Life Line](/graphics/palm/313.png)
 
 In some hands, there are none of these lines. In others, many are seen.
 
@@ -45,7 +47,6 @@ The lines of Affection relate only to persons of the opposite sex, and those who
 In every case, there must have been a profound impression made on the subject by an affection before these lines will be strong.
 - The more impressions and affections he had, the more of these lines of Affection will be seen in the hand.
 
-<!-- The Lines Of Affection 464 No. 313. -->
 
 The type of the subject is a great help in reading these lines, as each type has distinct views on marriage.
 
@@ -97,14 +98,4 @@ The first thing to determine is whether lines of Affection is present.
 If the subject is robust and ardent, he may have strong desires toward the opposite sex. But when these are satisfied, he relapses into indifference, until the superabundance of vitality again turns his thoughts back in the same direction. 
 
 These subjects are undemonstrative, and a defective Heart line in a hand which has no line of Affection will indicate heart disease and not affection. 
-
-If many lines of Affection are present (314) the subject is susceptible in affairs of the heart, more or less seriously so as the lines are strong or weak. 
-
-These lines of Affection are always cross-lines, and start from the outside of the hand, sometimes at the back cutting around into the Mount of Mercury. 
-
-If only a single line is seen, there will be but one deep affection. 
-
-<!-- They are never an indication of the love a subject may have for his family. The Lines Of Affection 465 No. 314. -->
-
-A line beginning with a fork (315) shows that the affection is of unusual strength, the two lines of the fork having united to form a single line, producing the effect of two Currents turned into one, which thus takes on double strength. 
 

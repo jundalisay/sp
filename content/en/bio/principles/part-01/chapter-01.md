@@ -54,7 +54,7 @@ We only discuss the Elementals that have **physical effects** and not for any im
 
 ## What are Elementals and what are they used for?
 
-[Paracelsus](/research/paracelsus/nymphys/tractatus-1) calls Elementals as spirit-beings that have human-like properties. 
+[Paracelsus](/research/paracelsus/nymphs/tractatus-1) calls Elementals as spirit-beings that have human-like properties. 
 
 {{< img src="/photos/medieval/angkor.jpg" alt="Angkor statue" cap="Hinduism, Buddhism, and Taoism have A LOT of Elementals" >}}
 

@@ -1,9 +1,9 @@
 ---
-heading: Chapter 1
-title: "Rent"
+heading: Chapter 2
+title: "The Rise and Fall of Rent"
 description: "In the early periods of society, the knowledge and capital of society were employed on fresh and fertile land"
-c: "seagreen"
-weight: 131
+c: "firebrick"
+weight: 11
 date: 2025-03-20
 ---
 
@@ -12,13 +12,38 @@ In the early periods of society, the knowledge and capital of society were emplo
 
 Their surplus produce gives extraordinary high profits, and extraordinary high wages, and appears but little in the shape of rent. 
 
-While fertile land is in abundance, and may be had by whoever asks for it, nobody of course will pay a rent to a landlord. But it is not consistent with the laws of nature, and the limits and quality of the earth, that this state of things should continue. Diversities of soil and situation must necessarily exist in all countries. All land cannot be the most fertile: all situations cannot be the nearest to navigable rivers and markets. But the accumulation of capital beyond the means of employing it on land of the greatest natural fertility, and the greatest advantage of situation, must necessarily lower profits; while the tendency of population to increase beyond the means of subsistence must, after a certain time, lower the wages of labour.
+While fertile land is in abundance, and may be had by whoever asks for it, nobody will pay a rent to a landlord.
 
-The expense of production will thus be diminished, but the value of the produce, that is, the quantity of labour, and of the other products of labour besides corn, which it can command, instead of diminishing, will be increased. There will be an increasing number of people demanding subsistence, and ready to offer their services in any way in which they can be useful. The exchangeable value of food will, therefore, be in excess above the cost of production, including in this cost the full profits of the stock employed upon the land, according to the actual rate of profits, at the time being. And this excess is rent.
+But this state of things does not last long.
 
-Nor is it possible that these rents should permanently remain as parts of the profits of stock, or of the wages of labour. If such an accumulation were to take place, as decidedly to lower the general profits of stock, and, consequently, the expenses of cultivation, so as to make it answer to cultivate poorer land; the cultivators of the richer land, if they paid no rent, would cease to be mere farmers, or persons living upon the profits of agricultural stock. They would unite the characters of farmers and landlords—a union by no means uncommon; but which does not alter, in any degree, the nature of rent, or its essential separation from profits. If the general profits of stock were 20 per cent and particular portions of land would yield 30 per cent on the capital employed, 10 per cent of the 30 would obviously be rent, by whomsoever received.
+Diversities of soil and situation exist in all countries. All land cannot be the most fertile. All situations cannot be the nearest to navigable rivers and markets. 
 
-It happens, indeed, sometimes, that from bad government, extravagant habits, and a faulty constitution of society, the accumulation of capital is stopped, while fertile land is in considerable plenty, in which case profits may continue permanently very high; but even in this case wages must necessarily fall, which by reducing the expenses of cultivation must occasion rents. There is nothing so absolutely unavoidable in the progress of society as the fall of wages, that is such a fall as, combined with the habits of the labouring classes, will regulate the progress of population according to the means of subsistence. And when, from the want of an increase of capital, the increase of produce is checked, and the means of subsistence come to a stand, the wages of labour must necessarily fall so low, as only just to maintain the existing population, and to prevent any increase.
+The accumulation of capital beyond the means of employing it reduces profits. 
+
+ <!-- on land of the greatest natural fertility, and the greatest advantage of situation, must necessarily lower profits. -->
+
+Population growth beyond the means of subsistence reduces the wages of labour.
+
+The expense of production will thus be diminished, but the value of the produce, that is, the quantity of labour, and of the other products of labour besides corn, which it can command, instead of diminishing, will be increased.
+
+There will be an increasing number of people demanding subsistence, and ready to offer their services in any way in which they can be useful. 
+
+The exchangeable value of food will, therefore, be in excess above the cost of production, including in this cost the full profits of the stock employed upon the land, according to the actual rate of profits, at the time being. And this excess is rent.
+
+Nor is it possible that these rents should permanently remain as parts of the profits of stock, or of the wages of labour. If such an accumulation were to take place, as decidedly to lower the general profits of stock, and, consequently, the expenses of cultivation, so as to make it answer to cultivate poorer land; the cultivators of the richer land, if they paid no rent, would cease to be mere farmers, or persons living upon the profits of agricultural stock. 
+
+They would unite the characters of farmers and landlords—a union by no means uncommon; but which does not alter, in any degree, the nature of rent, or its essential separation from profits. If the general profits of stock were 20 per cent and particular portions of land would yield 30 per cent on the capital employed, 10 per cent of the 30 would obviously be rent, by whomsoever received.
+
+The accumulation of capital can be stopped, while fertile land is plenty through:
+- bad government
+- extravagant habits
+- a faulty constitution of society
+
+In such a case, profits may continue permanently very high, but wages fall, which by reducing the expenses of cultivation must occasion rents. 
+
+There is nothing so absolutely unavoidable in the progress of society as the fall of wages, that is such a fall as, combined with the habits of the labouring classes, will regulate the progress of population according to the means of subsistence. 
+
+And when, from the want of an increase of capital, the increase of produce is checked, and the means of subsistence come to a stand, the wages of labour must necessarily fall so low, as only just to maintain the existing population, and to prevent any increase.
 
 We observe in consequence, that in all those countries, such as Poland, where, from the want of accumulation, the profits of stock remain very high, and the progress of cultivation either proceeds very slowly, or is entirely stopped, the wages of labour are extremely low. And this cheapness of labour, by diminishing the expenses of cultivation, as far as labour is concerned, counteracts the effects of the high profits of stock, and generally leaves a larger rent to the landlord than in those countries, such as America, where, by a rapid accumulation of stock, which can still find advantageous employment, and a great demand for labour, which is accompanied by an adequate increase of produce and population, profits cannot be low, and labour for some considerable time remains very high.
 

@@ -60,9 +60,7 @@ An easy mnemomic is "w-W-t-T" which stands for Worker-Warrior-Thinker-Trader. In
 - Priests, Technocrats, Researchers, Marxists, and Nazis fall under **Thinkers** or Socratic Conservatives
 - Big Businesses, Free marketeers, Bankers fall under **Traders** or Socratic NeoLiberals
 
-The workers are represented by a small "w" representing their subservience to the Warriors as "W". We would rather watch a basketball game or a boxing match than watch farmers harvesting rice or barbers cutting hair.  
-
-Likewise, the thinkers are "t", as they often get corrupted into Traders as "T". This is obviously seen in society where more people are interested in money than theories. 
+The 'w' of the worker is small to represent the natural dominance of the warriors and leaders over them, just as the 't' of thinkers is small just as researchers always ask for grant money and priests ask for donations.
 
 
 {{< img src="/graphics/social/cycles.png" alt="Social Cycles" >}} 
@@ -189,5 +187,3 @@ We also have a [running list of predictions](/social/cycles/predictions/) **to p
 We use these correct predictions to prove the solidity of the principles discovered by <!-- Francis Bacon, --> Socrates, David Hume, Hinduism, Buddhism, and Taoism. This is similar to how the solidity of Newtonian Physics was proven by the correct prediction of the arrival of Haley's comet.
 
 These cycles are based on waves that also apply in all sciences whether as quantum field theory, price theory. waves of epidemics, etc. 
-
-<!-- As a science, these cycles and laws of value unify Sociology and Economics by describing the causes of the dynamics of the soul of society. -->

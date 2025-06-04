@@ -2,7 +2,7 @@
 title: "Fundamental Rights and Guarantees"
 heading: "Title2"
 weight: 6
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

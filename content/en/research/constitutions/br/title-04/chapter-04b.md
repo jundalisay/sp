@@ -2,7 +2,7 @@
 title: "The Public Advocacy"
 heading: "Title 4 Section 2"
 weight: 38
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

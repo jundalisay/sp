@@ -2,7 +2,7 @@
 title: "Victory at Badr"
 heading: "Sura 3d "
 weight: 34
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -178,8 +178,7 @@ is the lodging of the evildoers. -->
 
 <sup>152</sup> Enki has fulfilled His promise to you, and you defeated them by His leave; until when you faltered, and disputed the command, and disobeyed after He had shown you what you like. 
 
-Some of you want this world, and some of you want the next. Then He turned you
-away from them, to test you; but He pardoned you. 
+Some of you want this world, and some of you want the next. Then He turned you away from them, to test you; but He pardoned you. 
 
 <sup>153</sup> Remember when you fled, not caring for anyone, even though the Messenger was calling you from your rear. 
 
@@ -198,10 +197,16 @@ Everything is up to Enki.
 
 <!-- They conceal within themselves what they do not reveal to you. -->
 
-They reply: “If it was up to us, none of us would have been killed here.” 
+They reply: 
 
-Reply: “Even if you Had stayed in your homes, those destined to be killed would have marched into their death beds.” 
+{{< r a="People" >}}
+If it were up to us, none of us would have been killed here.
+{{< /r >}}
 
-<!-- Enki thus tests what is in your minds, and purifies what is in your hearts. Enki knows what the hearts contain. -->
+Reply: 
 
-<sup>155</sup> Those of you who turned back on the day when the 2 armies clashed—it was Satan who caused them to backslide. <!-- , on account of some of what they have earned. --> But Enki has forgiven them. 
+{{< l a="Muslims" >}}
+Even if you Had stayed in your homes, those destined to be killed would have marched into their death beds.
+{{< /l >}}
+
+<sup>155</sup> Those of you who turned back on the day when the 2 armies clashed—it was Enlil [Satan] who caused them to backslide. <!-- , on account of some of what they have earned. --> But Enki has forgiven them. 

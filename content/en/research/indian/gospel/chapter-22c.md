@@ -11,7 +11,7 @@ Sunday, May 25, 1884
 
 Sri Ramakrishna was sitting on the cement platform that encircled the trunk of the old banyan-tree in the Panchavati. 
 
-Vijay, Surendra, Bhavanath, Rākhāl , and other devotees were present. A few of them sitting with the Master on the platform, the rest on the ground below. 
+Vijay, Surendra, Bhavanath, Rakhal , and other devotees were present. A few of them sitting with the Master on the platform, the rest on the ground below. 
 
 The devotees had thought of celebrating the Master's birthday which had had to be put off because of his illness.
 

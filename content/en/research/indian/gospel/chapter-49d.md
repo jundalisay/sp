@@ -23,7 +23,7 @@ of the body. That is as it should be; I see that the body is made of the five el
 
 Monday, March 15, 1886
 
-About 7AM, Sri Ramakrishna felt a little better. He talked to the devotees, sometimes in a whisper, sometimes by signs. Narendra, Rākhāl, Lātu, M.,
+About 7AM, Sri Ramakrishna felt a little better. He talked to the devotees, sometimes in a whisper, sometimes by signs. Narendra, Rakhal, Lātu, M.,
 Gopal of Sinthi, and others were in the room. They sat speechless and looked grave,
 thinking of the Master's suffering of the previous night.
 
@@ -48,7 +48,7 @@ He casts his glance on Lātu and says: "There is Loto. He bends his head, restin
 palm of his hand. I see that it is God Himself who rests his head on His hand."
 Sri Ramakrishna looks at the devotees and his love for them wells up in a thousand
 streams. Like a mother showing her tenderness to her children he touches the faces and
-chins of Rākhāl and Narendra.
+chins of Rakhal and Narendra.
 Master about himself
 A few minutes later he says to M., "If the body were to be preserved a few days more,
 many people would have their spirituality awakened."
@@ -59,7 +59,7 @@ guileless and foolish, people should take advantage of me, and lest I, guileless
 foolish as I am, should give away everything to everybody. In this Kaliyuga, you see,
 people are averse to meditation and japa."
 
-RĀKHĀL (tenderly): "Please speak to God that He may preserve your body some time more."
+Rakhal (tenderly): "Please speak to God that He may preserve your body some time more."
 
 MASTER: "That depends on God's will."
 
@@ -67,10 +67,10 @@ NARENDRA: "Your will and God's will have become one."
 
 Sri Ramakrisna remains silent. He appears to be thinking about something.
 
-MASTER (to Narendra, Rākhāl , and the others): "And nothing will happen if I speak to God. Now I see that I and the Mother have become one. For fear of her sister-in-law, Radha said to Krishna, 'Please dwell in my heart.' But when, later on, she became very
+MASTER (to Narendra, Rakhal , and the others): "And nothing will happen if I speak to God. Now I see that I and the Mother have become one. For fear of her sister-in-law, Radha said to Krishna, 'Please dwell in my heart.' But when, later on, she became very
 eager for a vision of Krishna-so eager that her heart pined and panted for her Beloved-
 He would not come out."
-RĀKHĀL (in a low voice, to the devotees): "He is referring to God's incarnation as
+Rakhal (in a low voice, to the devotees): "He is referring to God's incarnation as
 Gaurānga."
 
 The devotees sit silently in the room. Sri Ramakrishna looks at them tenderly. Then he places his hand on his heart He is about to speak.
@@ -86,7 +86,7 @@ The devotees sit without uttering a word.
 MASTER: "Alas! To whom shall I say all this? Who will understand me?" Pausing a few moments, he says:
 "God becomes man, an Avatār, and comes to earth with His devotees. And the devotee leave the world with Him."
 
-RĀKHĀL : "Therefore we pray that you may not go away and leave us behind."
+Rakhal : "Therefore we pray that you may not go away and leave us behind."
 
 Sri Ramakrishna smiles and says:"A band of minstrels suddenly appears, dances, and sings, and it departs in the same sudden manner. They come and they return, but none recognizes them." 
 
@@ -136,14 +136,14 @@ NARENDRA: "Must one renounce the world?"
 MASTER: "Didn't I say just now: 'When one sees everything filled with God alone, does
 one see anything else?' Does one then see any such thing as the world?
 "I mean mental renunciation. Not one of those who have come here is a worldly person.
-Some of them had a slight desire-for instance, a fancy for woman. (Rākhāl and M.
+Some of them had a slight desire-for instance, a fancy for woman. (Rakhal and M.
 smile.) And that desire has been fulfilled."
 The Master looks at Narendra tenderly and becomes filled with love. Looking at the
 devotees, he says, "Grand!"
 With a smile Narendra asks the Master, "What is grand?"
 MASTER (smiling): "I see that preparations are going on for a grand renunciation."
-Narendra and the devotees look silently at the Master. Rākhāl resumes the conversation.
-RĀKHĀL (smiling, to the Master): "Narendra is now beginning to understand you rather
+Narendra and the devotees look silently at the Master. Rakhal resumes the conversation.
+Rakhal (smiling, to the Master): "Narendra is now beginning to understand you rather
 well."
 Sri Ramakrishna laughs and says: "Yes, that is so. I see that many others, too, are
 beginning to understand. (To M.) Isn't that so?"
@@ -154,12 +154,12 @@ M: "Yes, sir."
 
 Sri Ramakrishna turns his eyes to Narendra and M. and by a sign of his finger draws the
 attention of the devotees to them. He first points out Narendra and then M.
-Rākhāl understands the Master's hint and says to him with a smile, "Don't you mean that
+Rakhal understands the Master's hint and says to him with a smile, "Don't you mean that
 Narendra has the attitude of a hero, and he [meaning M.] that of a handmaid of God?"
 
 Sri Ramakrishna laughs.
 
-NARENDRA (smiling, to Rākhāl): "He [meaning M.] doesn't talk much and is bashful. Is
+NARENDRA (smiling, to Rakhal): "He [meaning M.] doesn't talk much and is bashful. Is
 that why you say he is a handmaid of God?"MASTER (smiling, to Narendra): "Well, what do you think of me?"
 
 NARENDRA: "You are a hero, a handmaid of God, and everything else."
@@ -172,7 +172,7 @@ He says to Narendra and the other devotees:
 "I see that all things-everything that exist-have come from this."
 He asks Narendra by a sign, "What did you understand?"
 NARENDRA: "All created objects have come from you."
-The Master's face beams with joy. He says to Rākhāl, "Did you hear what he said?"
+The Master's face beams with joy. He says to Rakhal, "Did you hear what he said?"
 Sri Ramakrishna asks Narendra to sing. Narendra intones a hymn. His mind is full of
 renunciation. He sings:
 Unsteady is water on the lotus petal;
@@ -202,7 +202,7 @@ Or I shall bind a creeper round my neck,Or hang myself from a young tamala tree;
 Or, failing all of these,
 Destroy my wretched self by chanting Krishna's name.
 Sri Ramakrishna and the devotees are greatly moved by the song. The Master and
-Rākhāl shed tears of love. Narendra is intoxicated with the love of the gopis of Braja for
+Rakhal shed tears of love. Narendra is intoxicated with the love of the gopis of Braja for
 their Sweetheart, Sri Krishna, and sings:
 O Krishna! Beloved! You are mine.
 

@@ -7,7 +7,7 @@ description : "The Steady State Economy is a fallacy that leads to draconian pol
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

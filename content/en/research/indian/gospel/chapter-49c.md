@@ -153,13 +153,13 @@ MASTER (to M.): "Do you see how afraid he is?"
 
 Sunday, March 14, 1886
 
-Sri Ramakrishna sat facing the north in the large room upstairs. It was evening. He was very ill. Narendra and Rākhāl were gently massaging his feet. M, sat near by. The Master, by a sign, asked him, too, to stroke his feet. M. obeyed.
+Sri Ramakrishna sat facing the north in the large room upstairs. It was evening. He was very ill. Narendra and Rakhal were gently massaging his feet. M, sat near by. The Master, by a sign, asked him, too, to stroke his feet. M. obeyed.
 
 The previous Sunday the devotees had observed Sri Ramakrishna's birthday with worship and prayer. His birthday the year before had been observed at Dakshineswar
 with great pomp; but this year, on account of his illness, the devotees were very sad and
 there was no festivity at all.
 
-The Holy Mother busied herself day and night in the Master's service. Among the young disciples, Narendra, Rākhāl, Niranjan, Sarat, Śaśi, Baburam, Jogin, Lātu, and Kāli had been staying with him at the garden house. The older devotees visited him daily, and
+The Holy Mother busied herself day and night in the Master's service. Among the young disciples, Narendra, Rakhal, Niranjan, Sarat, Śaśi, Baburam, Jogin, Lātu, and Kāli had been staying with him at the garden house. The older devotees visited him daily, and
 some of them occasionally spent the night there.
 
 That day Sri Ramakrishna was feeling very ill. At midnight the moonlight flooded the garden, but it could wake no response in the devotees' hearts. They were drowned in a sea of grief. They felt that they were living in a beautiful city besieged by a hostile army.

@@ -1,5 +1,5 @@
 ---
-title: "NORTH FROM NEW HOLLAND FOR WATER"
+title: "North From New Holland For Water"
 heading: "Chapter 1"
 weight: 4
 writer:

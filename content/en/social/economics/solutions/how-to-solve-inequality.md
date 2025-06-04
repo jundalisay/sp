@@ -7,7 +7,7 @@ description : "We explain Socrates' solution to inequality"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

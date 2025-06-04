@@ -6,7 +6,7 @@ description : "Time Banking cannot scale because it only exchanges productivity 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

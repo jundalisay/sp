@@ -1,10 +1,12 @@
 ---
-title: "THE EXPORT–IMPORT BANK SHOULD BE ABOLISHED"
+title: "The Export–Import Bank Should Be Abolished"
 date: 2024-11-01
 description: ""
 author: "VVeronique de Rugy"
 c: "firebrick"
 icon: "US"
+heading: Chapter 22d
+weight: 44
 ---
 
 
@@ -36,16 +38,7 @@ Total Bank authorizations in recent years have gone from $12.6 billion in fiscal
 
 Supporters of EXIM make many claims about the benefits that our nation and citizens derive from having an Export Credit Agency. These claims, however, are not supported by the facts.
 
-The Bank is an example of government-granted privilege. Traditionally,
-one of EXIM’s top 10 domestic beneficiaries is Boeing, which at a 40 percent share
-of total loan authorizations dwarfs the 25 percent share for all small businesses that
-received EXIM’s services combined.10 On the foreign side, things are not much dif-
-ferent: The subsidized financing largely benefits very large companies like Mexico’s
-Pemex, Ireland’s Ryanair, and Emirates Airlines that either collect massive subsi-
-dies as state-controlled entities or could easily access private financing.11 American
-businesses that lack political connections are put at a competitive disadvantage by
-their own government because they are forced to compete against both domestic
-and foreign businesses that enjoy access to subsidized loans.12
+The Bank is an example of government-granted privilege. Traditionally, one of EXIM’s top 10 domestic beneficiaries is Boeing, which at a 40 percent share of total loan authorizations dwarfs the 25 percent share for all small businesses that received EXIM’s services combined.10 On the foreign side, things are not much dif- ferent: The subsidized financing largely benefits very large companies like Mexico’s Pemex, Ireland’s Ryanair, and Emirates Airlines that either collect massive subsi- dies as state-controlled entities or could easily access private financing.11 American businesses that lack political connections are put at a competitive disadvantage by their own government because they are forced to compete against both domestic and foreign businesses that enjoy access to subsidized loans.12
 
 
 The Bank does not maintain or create jobs. EXIM’s supporters point to the
@@ -59,6 +52,7 @@ themselves;13 the procurement happens before the decision to get government
 support; and, as noted above, most EXIM deals go to large companies with easy
 access to capital. Thus, the agency is taking credit for jobs that would have existed
 in any event.
+
 
 ### The Bank does not promote exports.
 

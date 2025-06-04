@@ -37,7 +37,7 @@ Sri Ramakrishna. Narendra was a relative of Rām.
 
 2. Manomohan Mitra
 
-Manomohan at first met with considerable opposition from his wife and other relatives, who resented his visits to Dakshineśwar. But in the end the unselfish love of the Master triumphed over worldly affection. It was Manomohan who brought Rākhāl to the Master.
+Manomohan at first met with considerable opposition from his wife and other relatives, who resented his visits to Dakshineśwar. But in the end the unselfish love of the Master triumphed over worldly affection. It was Manomohan who brought Rakhal to the Master.
 
 
 ## Surendra
@@ -166,21 +166,25 @@ But it was in the company of his younger devotees, pure souls yet unstained by t
 Tejchandra and Purna. These visited the Master sometimes against strong opposition
 from home.
 
-Purna
+## Purna
 
-Purna was a lad of thirteen, whom Sri Ramakrishna described as an Iśvarakoti, a soul
-born with special spiritual qualities. The Master said that Purna was the last of the group of brilliant devotees who, as he once had seen in a trance, would come to him for spiritual illumination. Purna said to Sri Ramakrishna during their second meeting, 
+Purna was a lad of 13, whom Sri Ramakrishna described as an Iśvarakoti, a soul born with special spiritual qualities. 
 
-"You are God Himself incarnated in flesh and blood." Such words coming from a mere  youngster proved of what stuff the boy was made.
+The Master said that Purna was the last of the group of brilliant devotees who, as he once had seen in a trance, would come to him for spiritual illumination. Purna said to Sri Ramakrishna during their second meeting, 
+
+
+"You are God Himself incarnated in flesh and blood." 
+
+Such words coming from a mere  youngster proved of what stuff the boy was made.
+
+
 
 ## Mahimācharan and Pratāp Hazra
 
 Mahimācharan and Pratāp Hazra were two devotees outstanding for their pretentiousness and idiosyncrasies. But the Master showed them his unfailing love and kindness, though he was aware of their shortcomings. Mahimācharan Chakravarty had
-met the Master long before the arrival of the other disciples. He had had the intention of
-leading a spiritual life, but a strong desire to acquire name and fame was his weakness.
-He claimed to have been initiated by Totāpuri and used to say that he had been following
-the path of knowledge according to his guru's instructions. He possessed a large library
-of English and Sanskrit books. 
+met the Master long before the arrival of the other disciples. 
+
+He had had the intention of leading a spiritual life, but a strong desire to acquire name and fame was his weakness. He claimed to have been initiated by Totāpuri and used to say that he had been following the path of knowledge according to his guru's instructions. He possessed a large library of English and Sanskrit books.
 
 But though he pretended to have read them, most of the leaves were uncut. The Master knew all his limitations, yet enjoyed listening to him recite from the Vedas and other scriptures. He would always exhort Mahimā to meditate
 on the meaning of the scriptural texts and to practise spiritual discipline.

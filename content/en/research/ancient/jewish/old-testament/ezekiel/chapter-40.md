@@ -7,28 +7,33 @@ c: "firebrick"
 ---
 
 
-{40:1} In the 25th year of our captivity, in the beginning of the year, in the 10th [day] of the month, in
-the fourteenth year after that the city was smitten, in the selfsame day the hand of Enki was upon me, and
-brought me thither. 
+1 In the 25th year of our captivity, in the beginning of the year, in the 10th day of the month, in the 14th year after that the city was smitten, in the selfsame day the hand of Enki was upon me, and brought me thither. 
 
-2} In the visions of Enki, he brought me into the land of Israel, and set me upon a very high mountain, by which [was] as the frame of a city on the south.
+2 In the visions of Enki, he brought me into the land of Israel, and set me upon a very high mountain, by which [was] as the frame of a city on the south.
 
-3} And he brought me thither, and, behold, [there was] a man, whose appearance was like the
-appearance of brass, with a line of flax in his hand, and a
-measuring reed; and he stood in the gate. 
+3 Behold, there was a man who stood in the gate, whose appearance was like the appearance of brass, with a line of flax in his hand, and a
+measuring reed.
 
-4} The man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall shew you; for to the intent that I might shew [them] unto you [art] you brought hither: declare all that you seest to
-the Israelites. 
+{{< l a="Enki Agent" >}}
+4 Son of man, see and hear and remember all that I shall shew you so that you can tell what you have seen to the Israelites. 
+{{< /l >}}
 
-5} Behold, a wall on the outside of the house round about, and in the man’s hand a measuring reed of six cubits [long] by the cubit and an hand breadth.
+ <!-- for to the intent that I might shew [them] unto you [art] you brought hither: declare all that you seest to the -->
 
-He measured the width of the building as one reed, and the height, as  one reed.
+5 A wall on the outside around the house. In the man’s hand, a measuring reed of 6 cubits long by the cubit and an hand wide.
 
-6} Then came he unto the gate which looketh toward the east, and went up the stairs thereof, and measured the threshold of the gate, [which was] one reed broad; and the other threshold [of the gate, which was] one reed broad.
+He measured the width of the building as 1 reed, and the height, as 1 reed.
 
-7} And [every] little chamber [was] one reed long, and
-one reed broad; and between the little chambers [were] five
-cubits; and the threshold of the gate by the porch of the gate
-within [was] one reed.
+6 Then came he unto the gate which looked towards the east, and went up the stairs and measured the threshold of the gate which was 1 reed wide. The other threshold of the gate was 1 reed broad.
 
-8} He measured also the porch of the gate within, one reed. {40:9} Then measured he the porch of the gate, eight cubits; and the posts thereof, 2 cubits; and the porch of the gate [was] inward. {40:10} The little chambers of the gate eastward [were] three on this 
+7 Every little room was one reed long, and one reed wide. Between the little rooms were 5 cubits.
+
+The threshold of the gate by the porch of the gate within was 1 reed.
+
+8 He measured also the porch of the gate within, 1 reed.
+
+9 Then measured he the porch of the gate, 8 cubits. Its posts were 2 cubits.
+
+The porch of the gate was inward. 
+
+10 The rooms of the gate eastward were 3 on this

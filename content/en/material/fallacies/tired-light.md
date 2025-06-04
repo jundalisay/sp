@@ -18,6 +18,8 @@ It suggests that photons lose their energy over time through collisions with oth
 
 It contradicts the expanding universe. 
 
+![Fail](/photos/psych/fail.jpg)
+
 But the tired light theory is wrong because the real mechanism for red shift is the edges of galaxies not being totally in sync. This causes the light to stretch, causing a red shift. 
 
 Zwicky (and the whole of Newtonian Physics) does not have the concept of galaxy edges. And so he accounts for the red shift by putting the energetic or color property of light onto gravity, which is really a property of spacetime. 

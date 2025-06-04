@@ -8,7 +8,7 @@ description: "SRI RAMAKRISHNA arrived in the morning at the garden house of Sure
 
 Friday, June 20, 1884
 
-It was dusk. Sri Ramakrishna was sitting in his room, absorbed in contemplation of the Divine Mother. Now and then he was chanting Her name. Rākhāl , Adhar, M., and several other devotees were with him.
+It was dusk. Sri Ramakrishna was sitting in his room, absorbed in contemplation of the Divine Mother. Now and then he was chanting Her name. Rakhal , Adhar, M., and several other devotees were with him.
 
 After a while the evening worship began in the temples. Adhar left the room to see the worship.
 
@@ -24,15 +24,15 @@ In a vision I saw Baburam as a goddess with a necklace around her neck and with 
 
 He has received something in a dream. His body is pure. Only a very little effort will awaken his spiritual consciousness.
 
-"You see, I am having some difficulty about my physical needs. It will be nice if Baburam lives with me. The nature of these attendants of mine is undergoing a change. Lātu is always tense with spiritual emotion. He is about to merge himself in God. Rākhāl is getting into such a spiritual mood that he can't do anything even for himself. I have to get water for him. He isn't of much service to me.
+"You see, I am having some difficulty about my physical needs. It will be nice if Baburam lives with me. The nature of these attendants of mine is undergoing a change. Lātu is always tense with spiritual emotion. He is about to merge himself in God. Rakhal is getting into such a spiritual mood that he can't do anything even for himself. I have to get water for him. He isn't of much service to me.
 
 "Among the youngsters Baburam and Niranjan are rather exceptional. If other boys come in the future, they will, it seems to me, receive instruction and then go away.
 
 "But I don't want Baburam to tear himself away from his family. It may make trouble at home.
 
-(Smiling) When I ask him, 'Why don't you come?' he says, 'Why not make me come?' He looks at Rākhāl and weeps. He says, 'Rākhāl is very happy here.'
+(Smiling) When I ask him, 'Why don't you come?' he says, 'Why not make me come?' He looks at Rakhal and weeps. He says, 'Rakhal is very happy here.'
 
-"Rākhāl now lives here as one of the family. I know that he will never again be attached to the world. He says that worldly enjoyments have become tasteless to him. His wife came here on her way to Konnagar. She is fourteen. He too was asked to go to Konnagar, but he didn't go. He said, 'I don't like merriment and gaiety.'
+"Rakhal now lives here as one of the family. I know that he will never again be attached to the world. He says that worldly enjoyments have become tasteless to him. His wife came here on her way to Konnagar. She is fourteen. He too was asked to go to Konnagar, but he didn't go. He said, 'I don't like merriment and gaiety.'
 
 What do you think of Niranjan?" M: "He is very handsome."
 
@@ -71,7 +71,7 @@ They are satisfied if they can know two things: first, who I6 am; second, who th
 
 Baburam says that he too likes the womanly attitude. So I am right. Bhavanath also is like that.
 
-But Narendra, Rākhāl, and Niranjan have a masculine nature.
+But Narendra, Rakhal, and Niranjan have a masculine nature.
 
 Significance of the Master's injuring his arm
 

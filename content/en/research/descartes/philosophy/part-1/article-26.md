@@ -14,7 +14,7 @@ icon: "Rene Descartes"
 
 
 
-#### 26. We do not need to enter into disputes regarding the infinite.
+## 26. We do not need to enter into disputes regarding the infinite.
 
 We merely hold all that in which we can find no limits are indefinite, such as:
 - the size of the universe
@@ -44,7 +44,7 @@ A body cannot be divided into parts so small that we cannot think of each of the
 We cannot imagine so many stars that it would seem impossible for God to create more, we say that their number is indefinite.
 
 
-#### 27. What is the difference between the indefinite and the infinite?
+## 27. What is the difference between the indefinite and the infinite?
 
 Instead of calling infinite things as 'infinite', we call them 'indefinite'. Only God can call things infinite because:
 
@@ -52,7 +52,7 @@ Instead of calling infinite things as 'infinite', we call them 'indefinite'. Onl
 - we do not in the same way positively conceive that other things are in every part unlimited, but merely negatively admit that their limits, if they have any, cannot be discovered by us.
 
 
-#### 28. We look for the efficient causes of created things, not the final causes.
+## 28. We look for the efficient causes of created things, not the final causes.
 
 We will not seek reasons of natural things from the end which God or nature proposed to himself in their creation (i. e., final causes), 
 
@@ -69,7 +69,7 @@ bearing in mind, however, what has been already said, that we must only confide 
 [Footnote: "Faculty of reasoning."—FRENCH.] 
 
 
-#### 29. God is not the cause of our errors.
+## 29. God is not the cause of our errors.
 
 The first attribute of God is that he is absolutely veracious and the source of all light.
 
@@ -80,7 +80,7 @@ It is plainly repugnant for him:
 "To deceive" has some mark of subtlety. But it comes from malice, or from fear and weakness. Consequently, it cannot be attributed to God.
 
 
-#### 30. Consequently, all which we clearly perceive is true.
+## 30. Consequently, all which we clearly perceive is true.
 
 This delivers us from the above doubts.
 
@@ -101,7 +101,7 @@ This is explained further in my work metaphysical Meditations.
 <!-- ; and what follows will serve to explain it still more accurately. -->
 
 
-#### 31. Our errors regarding God are merely negations. Our errors regarding ourselves are merely privations.
+## 31. Our errors regarding God are merely negations. Our errors regarding ourselves are merely privations.
 
 God is no deceiver, yet we frequently fall into error. 
 
@@ -114,14 +114,14 @@ They have no need of the actual concourse of God, in order to their production.
 When considered in reference to God, they are merely negations, but in reference to ourselves, privations.
 
 
-#### 32. There are only 2 modes of thinking in us: the perception of the understanding and the action of the will
+## 32. There are only 2 modes of thinking in us: the perception of the understanding and the action of the will
 
 For all the modes of thinking of which we are conscious may be referred to two general classes, the one of which is the perception or operation of the understanding, and the other the volition or operation of the will. 
 
 Thus, to perceive by the senses (SENTIRE), to imagine, and to conceive things purely intelligible, are only different modes of perceiving (PERCIP IENDI); but to desire, to be averse from, to affirm, to deny, to doubt, are different modes of willing.
 
 
-#### 33. We never err unless when we judge of something which we do not sufficiently apprehend.
+## 33. We never err unless when we judge of something which we do not sufficiently apprehend.
 
 When we apprehend anything we are in no danger of error if we refrain from judging of it in any way.
 

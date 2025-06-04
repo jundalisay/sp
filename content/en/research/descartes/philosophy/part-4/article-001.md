@@ -8,8 +8,6 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "darkgoldenrod"
 icon: "Rene Descartes"
-aliases:
-  /research/descartes/philosophy/part-4/section-01
 ---
 
 
@@ -22,7 +20,7 @@ Although I am unwilling to believe that the bodies of this visible world were ev
 {{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 2. How the Earth was Created 
+## 2. How the Earth was Created 
 
 <!-- According to this Hypothesis. -->
 
@@ -55,7 +53,7 @@ It joined a larger vortex, the center of which is the Sun.
 
 
 
-#### 3. The 3 Regions of the Earth: Region 1
+## 3. The 3 Regions of the Earth: Region 1
 
 The Earth has 3 regions inside it, as a planet not yet fallen towards the Sun, but about to fall.
 
@@ -70,7 +68,7 @@ The fire-aether that continually goes from the Sun into the spots cannot be so e
 <!-- , unless it seemed to follow from this that the body of the Earth could not remain as close to the Sun as it is now, due to its excessive solidity. -->
 
 
-#### 4. Region 2
+## 4. Region 2
 
 The middle region `M` is entirely occupied by a very opaque and dense body. This is made up of extremely small particles that belonged to the fire-aether but fused together. 
 
@@ -85,7 +83,7 @@ Nevertheless, they hinder the passage of light. This is because their passages a
 These passages were initially formed in fluid or soft matter. They would also be straight and smooth to not hinder the action of light.
 
 
-#### 5. Region 3
+## 5. Region 3
 
 <!-- But these two inner regions of the Earth little concern us because no one has ever approached them alive. -->
 

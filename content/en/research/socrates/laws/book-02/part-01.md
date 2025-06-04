@@ -1,6 +1,6 @@
 ---
-title: "The Laws by Plato Simplified"
-weight: 2
+title: "The Doctrine of Right Education"
+weight: 4
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
@@ -10,11 +10,14 @@ description: "Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zen
 
 
 
-ATHENIAN: And now we have to consider whether the insight into human nature is the only benefit derived from well-ordered potations, or whether there are not other advantages great and much to be desired. The argument seems to imply that there are. But how and in what way these are to be attained, will have to be considered attentively, or we may be entangled in error.
+ATHENIAN: Is the insight into human nature the only benefit derived from well-ordered potations?
 
-CLEINIAS: Proceed.
+Or are there other advantages great and much to be desired? 
 
-ATHENIAN: Let me once more recall our doctrine of right education; which, if I am not mistaken, depends on the due regulation of convivial intercourse.
+The argument seems to imply that there are. But how and in what way these are to be attained, will have to be considered attentively, or we may be entangled in error.
+
+Let me once more recall our doctrine of right education; which, if I am not mistaken, depends on the due regulation of convivial intercourse.
+
 
 CLEINIAS: You talk rather grandly.
 

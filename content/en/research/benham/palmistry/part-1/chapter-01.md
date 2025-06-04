@@ -5,7 +5,7 @@ description: "The science of Palmistry is founded on the shape of the hand"
 weight: 1
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

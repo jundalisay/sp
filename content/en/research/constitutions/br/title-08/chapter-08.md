@@ -2,7 +2,7 @@
 title: "Indians"
 heading: "Chapter 8"
 weight: 34
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

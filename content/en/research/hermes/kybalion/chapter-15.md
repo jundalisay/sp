@@ -8,13 +8,12 @@ weight: 30
 ---
 
 
-{{< q >}}
+{{< q a="Kybalion" >}}
 The possession of Knowledge, unless accompanied by a manifestation and expression in Action, is like the hoarding of precious metals. It is a vain and foolish thing. 
 
 Knowledge, like wealth, is intended for Use. 
 
-The Law of Use is Universal. He who violates it suffers by reason of his conflict with natural forces.
-<cite>The Kybalion</cite>
+The Law of Use is Universal. He who violates it suffers by reason of his conflict with natural forces
 {{< /q >}}
 
 

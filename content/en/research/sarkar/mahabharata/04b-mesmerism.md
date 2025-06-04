@@ -1,7 +1,7 @@
 ---
 title: "Mesmerism"
 heading: "Discourse 4b"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: ""
 c: "indigo"
 writer:
   name: PR Sarkar
@@ -20,7 +20,7 @@ Bhaskaracarya first discovered:
 
 <!-- We give incorrect training to children. -->
 
-Homoeopathy sprang up in India itself. Nor did surgery originate with Aryans, but in India.
+Homeopathy sprang up in India itself. Nor did surgery originate with Aryans, but in India.
 
 If a mind of a person is stronger than the other person, it will control the other mind.
 - The controlled mind will follow the stronger mind. 

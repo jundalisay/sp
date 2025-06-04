@@ -6,7 +6,7 @@ description : "The origins of laissez faire can be traced to the Physiocrats"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

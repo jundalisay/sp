@@ -1,7 +1,7 @@
 ---
 title: "Temporary Constitutional Provisions Act"
 weight: 1
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

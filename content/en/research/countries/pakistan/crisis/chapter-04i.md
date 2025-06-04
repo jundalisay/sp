@@ -3,8 +3,11 @@ title: National Unity Tested by Regional and Religious Pressures '
 weight: 30
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 4i
+c: darkgreen
+author: Dr Maleeha Lodhi
 ---
+
 
 
 After Musharaff ended, the PPP resisted to restoring Chaudhry and 60 other judges because they would re-open corrnption cases against top PPP leaders.

@@ -58,6 +58,15 @@ We cam up with this plane after going through the works of Timeaus and Pythagora
 
 Then we saw the bagua of Taoism and the mandala of Hinduism and realized that polar coordinates were the best way to visualize the spaceless and timeless aether.   
 
+
+## The Aethereal Internal Boundary
+
+We call the Aethereal Internal Boundary as the edge of identity. This separates identities from other identities and from non-discrete existence. As this is purely theoretical, we will discuss this more in Social and Spiritual Superphysics.
+
+{{< i s="/graphics/physics/msq.jpg" alt="MSQ" >}}
+
+
+
 <!-- The Cartesian View also has 3 attributes:
 
 Attribute | Description

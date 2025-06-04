@@ -1,59 +1,46 @@
 ---
-title: "Commonplace"
-heading: ""
-weight: 7
+title: "What is Morality?"
+heading: "Part 8"
+weight: 19
 description: ""
-:c: "steelblue"
+c: "steelblue"
 ---
 
 
 
+S. An idea being itself unactive cannot be the resemblance or image of an active thing.
 
-
-S.
-An idea being itself unactive cannot be the resemblance or image of an active thing.
-
-I.
-Excuse to be made in the Introduction for using the word idea, viz. because it has obtain'd. But a caution must be added.
+I. Excuse to be made in the Introduction for using the word idea, viz. because it has obtain'd. But a caution must be added.
 
 Scripture and possibility are the onely proofs135 with Malbranch. Add to these what he calls a great propension to think so: this perhaps may be questioned. Perhaps men, if they think before they speak, will not be found so thoroughly persuaded of the existence of Matter.
 
-M.
-On second thoughts I am on t'other extream. I am certain of that wch Malbranch seems to doubt of, viz. the existence of bodies136.
+M. On second thoughts I am on t'other extream. I am certain of that wch Malbranch seems to doubt of, viz. the existence of bodies136.
 
-I. &c.
+I. &c. 
+
 Mem. To bring the killing blow at the last, e.g. in the matter of abstraction to bring Locke's general triangle in the last137.
 
-I.
-They give good rules, tho' perhaps they themselves do not always observe them. They speak much of clear and distinct ideas, though at the same time they talk of general abstract ideas, &c. I'll [instance] in Locke's opinion of abstraction, he being as clear a writer as I have met with.
+I. They give good rules, tho' perhaps they themselves do not always observe them. They speak much of clear and distinct ideas, though at the same time they talk of general abstract ideas, &c. I'll [instance] in Locke's opinion of abstraction, he being as clear a writer as I have met with.
 
-[pg 039]
 Such was the candour of this great man that I perswade myself, were he alive138, he would not be offended that I differ from him: seeing that even in so doing I follow his advice, viz. to use my own judgement, see with my own eyes, & not with another's. Introduction.
 
-S.
-The word thing, as comprising or standing for idea & volition, usefull; as standing for idea and archetype without the mind139, mischievous and useless.
+S. The word thing, as comprising or standing for idea & volition, usefull; as standing for idea and archetype without the mind139, mischievous and useless.
 
-Mo.
-To demonstrate morality it seems one need only make a dictionary of words, and see which included which. At least, this is the greatest part and bulk of the work.
+Mo. To demonstrate morality it seems one need only make a dictionary of words, and see which included which. At least, this is the greatest part and bulk of the work.
 
-Mo.
-Locke's instances of demonstration in morality are, according to his own rule, trifling propositions.
+Mo. Locke's instances of demonstration in morality are, according to his own rule, trifling propositions.
 
-P. S.
-Qu. How comes it that some ideas are confessedly allow'd by all to be onely in the mind140, and others as generally taken to be without the mind141, if, according to you, all are equally and only in the mind? Ans. Because that in proportion to pleasure or pain ideas are attended with desire, exertion, and other actions which include volition. Now volition is by all granted to be in spirit.
+P. S. Qu. How comes it that some ideas are confessedly allow'd by all to be onely in the mind140, and others as generally taken to be without the mind141, if, according to you, all are equally and only in the mind? Ans. Because that in proportion to pleasure or pain ideas are attended with desire, exertion, and other actions which include volition. Now volition is by all granted to be in spirit.
 
-I.
-If men would lay aside words in thinking, 'tis impossible they should ever mistake, save only in matters of fact. I mean it seems impossible they should be positive & secure that anything was true wch in truth is not so. Certainly I cannot err in matter of simple perception. So far as we can in reasoning go without the help of signs, there we have certain knowledge. Indeed, in long deductions made by signs there may be slips of memory.
+I. If men would lay aside words in thinking, 'tis impossible they should ever mistake, save only in matters of fact. I mean it seems impossible they should be positive & secure that anything was true wch in truth is not so. Certainly I cannot err in matter of simple perception.
 
-Mo.
-From my doctrine there follows a cure for pride. We are only to be praised for those things which are our own, or of our own doing; natural abilitys are not consequences of our volitions.
+So far as we can in reasoning go without the help of signs, there we have certain knowledge. Indeed, in long deductions made by signs there may be slips of memory.
 
-M.
-Mem. Candidly to take notice that Locke holds some dangerous opinions; such as the infinity and eternity of Space and the possibility of Matter's thinking142.
+Mo. From my doctrine there follows a cure for pride. We are only to be praised for those things which are our own, or of our own doing; natural abilitys are not consequences of our volitions.
 
-[pg 040]
-I.
-Once more I desire my reader may be upon his guard against the fallacy of words. Let him beware that I do not impose on him by plausible empty talk, that common dangerous way of cheating men into absurditys. Let him not regard my words any otherwise than as occasions of bringing into his mind determin'd significations. So far as they fail of this they are gibberish, jargon, & deserve not the name of language. I desire & warn him not to expect to find truth in my book, or anywhere but in his own mind. Wtever I see myself 'tis impossible I can paint it out in words.
+M. Mem. Candidly to take notice that Locke holds some dangerous opinions; such as the infinity and eternity of Space and the possibility of Matter's thinking142.
+
+I. Once more I desire my reader may be upon his guard against the fallacy of words. Let him beware that I do not impose on him by plausible empty talk, that common dangerous way of cheating men into absurditys. Let him not regard my words any otherwise than as occasions of bringing into his mind determin'd significations. So far as they fail of this they are gibberish, jargon, & deserve not the name of language. I desire & warn him not to expect to find truth in my book, or anywhere but in his own mind. Wtever I see myself 'tis impossible I can paint it out in words.
 
 Mo.
 N. B. To consider well wt is meant by that wch Locke saith concerning algebra—that it supplys intermediate ideas. Also to think of a method affording the same use in morals &c. that this doth in mathematiques.
@@ -76,12 +63,9 @@ Words have ruin'd and overrun all the sciences—law, physique, chymistry, astro
 I.
 Abstract ideas only to be had amongst the learned. The vulgar never think they have any such, nor truly do they find any want of them. Genera & species & abstract ideas are terms unknown to them.
 
-[pg 041]
-S.
-Locke's out146—the case is different. We can have an idea of body without motion, but not of soul without thought.
+S. Locke's out146—the case is different. We can have an idea of body without motion, but not of soul without thought.
 
-Mo.
-God ought to be worship'd. This easily demonstrated when once we ascertain the signification of the words God, worship, ought.
+Mo. God ought to be worship'd. This easily demonstrated when once we ascertain the signification of the words God, worship, ought.
 
 S.
 No perception, according to Locke, is active. Therefore no perception (i.e. no idea) can be the image of, or like unto, that which is altogether active & not at all passive, i.e. the Will.
@@ -121,8 +105,7 @@ If Matter149 is once allow'd to exist, clippings of weeds and parings of nails m
 
 Since I say men cannot mistake in short reasoning about things demonstrable, if they lay aside words, it will be expected this Treatise will contain nothing but wt is certain & evident demonstration, & in truth I hope you will find nothing in it but what is such. Certainly I take it all for such. Introd.
 
-I.
-When I say I will reject all propositions wherein I know not fully and adequately and clearly, so far as knowable, the thing meant thereby, this is not to be extended to propositions in the Scripture. I speak of matters of Reason and Philosophy—not Revelation. In this I think an humble, implicit faith becomes us (when we cannot comprehend or understand the proposition), such as a popish peasant gives to propositions he hears at mass in Latin. This proud men may call blind, popish, implicit, irrational. For my part I think it is more irrational to pretend to dispute at, cavil, and ridicule holy mysteries, i.e. propositions about things that are altogether above our knowledge, out of our reach. When I shall come to plenary knowledge of the meaning of any fact, then I shall yield an explicit belief. Introd.
+I. When I say I will reject all propositions wherein I know not fully and adequately and clearly, so far as knowable, the thing meant thereby, this is not to be extended to propositions in the Scripture. I speak of matters of Reason and Philosophy—not Revelation. In this I think an humble, implicit faith becomes us (when we cannot comprehend or understand the proposition), such as a popish peasant gives to propositions he hears at mass in Latin. This proud men may call blind, popish, implicit, irrational. For my part I think it is more irrational to pretend to dispute at, cavil, and ridicule holy mysteries, i.e. propositions about things that are altogether above our knowledge, out of our reach. When I shall come to plenary knowledge of the meaning of any fact, then I shall yield an explicit belief. Introd.
 
 Complexation of ideas twofold. Ys refers to colours being complex ideas.
 
@@ -143,17 +126,13 @@ Writers of Optics mistaken in their principles both in judging of magnitudes and
 I.
 'Tis evident yt wn the solitary man should be taught to speak, the words would give him no other new ideas (save only the sounds, and complex ideas which, tho' unknown before, may be signified by language) beside wt he had before. If he had not, could not have, an abstract idea before, he cannot have it after he is taught to speak.
 
-Mo.
-“Homo est homo,” &c. comes at last to Petrus est Petrus, &c. Now, if these identical propositions are sought after in the mind, they will not be found. There are no identical mental propositions. 'Tis all about sounds and terms.
+Mo. “Homo est homo,” &c. comes at last to Petrus est Petrus, &c. Now, if these identical propositions are sought after in the mind, they will not be found. There are no identical mental propositions. 'Tis all about sounds and terms.
 
-Mo.
-Hence we see the doctrine of certainty by ideas, and proving by intermediate ideas, comes to nothing152.
+Mo. Hence we see the doctrine of certainty by ideas, and proving by intermediate ideas, comes to nothing152.
 
-Mo.
-We may have certainty & knowledge without ideas, i.e. without other ideas than the words, and their standing for one idea, i.e. their being to be used indifferently.
+Mo. We may have certainty & knowledge without ideas, i.e. without other ideas than the words, and their standing for one idea, i.e. their being to be used indifferently.
 
-Mo.
-It seems to me that we have no certainty about ideas, but only about words. 'Tis improper to say, I am certain I see, I feel, &c. There are no mental propositions [pg 044]form'd answering to these words, & in simple perception 'tis allowed by all there is no affirmation or negation, and consequently no certainty153.
+Mo. It seems to me that we have no certainty about ideas, but only about words. 'Tis improper to say, I am certain I see, I feel, &c. There are no mental propositions [pg 044]form'd answering to these words, & in simple perception 'tis allowed by all there is no affirmation or negation, and consequently no certainty153.
 
 Mo.
 The reason why we can demonstrate so well about signs is, that they are perfectly arbitrary & in our power—made at pleasure.
@@ -179,29 +158,22 @@ E.
 N. Mo.
 Knowledge, or certainty, or perception of agreement of ideas—as to identity and diversity, and real existence, vanisheth; of relation, becometh merely nominal; of co-existence, remaineth. Locke thought in this latter our knowledge was little or nothing. Whereas in this only real knowledge seemeth to be found155.
 
-P.
-We must wth the mob place certainty in the senses156.
+P. We must wth the mob place certainty in the senses156.
 
 'Tis a man's duty, 'tis the fruit of friendship, to speak well of his friend. Wonder not therefore that I do wt I do.
 
-I.
-A man of slow parts may overtake truth, &c. Introd. Even my shortsightedness might perhaps be aiding to me in this matter—'twill make me bring the object nearer to my thoughts. A purblind person, &c. Introd.
+I. A man of slow parts may overtake truth, &c. Introd. Even my shortsightedness might perhaps be aiding to me in this matter—'twill make me bring the object nearer to my thoughts. A purblind person, &c. Introd.
 
-[pg 045]
-S.
-Locke to Limborch, &c. Talk of judicium intellectus preceding the volition: I think judicium includes volition. I can by no means distinguish these—judicium, intellectus, indifferentia, uneasiness to many things accompanying or preceding every volition, as e.g. the motion of my hand.
 
-S.
-Qu. Wt mean you by my perceptions, my volitions? Both all the perceptions I perceive or conceive157, &c. are mine; all the volitions I am conscious to are mine.
+S. Locke to Limborch, &c. Talk of judicium intellectus preceding the volition: I think judicium includes volition. I can by no means distinguish these—judicium, intellectus, indifferentia, uneasiness to many things accompanying or preceding every volition, as e.g. the motion of my hand.
 
-S.
-Homo est agens liberum. What mean they by homo and agens in this place?
+S. Qu. Wt mean you by my perceptions, my volitions? Both all the perceptions I perceive or conceive157, &c. are mine; all the volitions I am conscious to are mine.
 
-E.
-Will any man say that brutes have ideas of Unity & Existence? I believe not. Yet if they are suggested by all the ways of sensation, 'tis strange they should want them158.
+S. Homo est agens liberum. What mean they by homo and agens in this place?
 
-I.
-It is a strange thing and deserves our attention, that the more time and pains men have consum'd in the study of philosophy, by so much the more they look upon themselves to be ignorant & weak creatures. They discover flaws and imperfections in their faculties wch other men never spy out. They find themselves under a necessity of admitting many inconsistent, irreconcilable opinions for true. There is nothing they touch with their hand, or behold with their eyes, but has its dark sides much larger and more numerous than wt is perceived, & at length turn scepticks, at least in most things. I imagine all this proceeds from, &c. Exord. Introd.159
+E. Will any man say that brutes have ideas of Unity & Existence? I believe not. Yet if they are suggested by all the ways of sensation, 'tis strange they should want them158.
+
+I. It is a strange thing and deserves our attention, that the more time and pains men have consum'd in the study of philosophy, by so much the more they look upon themselves to be ignorant & weak creatures. They discover flaws and imperfections in their faculties wch other men never spy out. They find themselves under a necessity of admitting many inconsistent, irreconcilable opinions for true. There is nothing they touch with their hand, or behold with their eyes, but has its dark sides much larger and more numerous than wt is perceived, & at length turn scepticks, at least in most things. I imagine all this proceeds from, &c. Exord. Introd.159
 
 I.
 These men with a supercilious pride disdain the common single information of sense. They grasp at knowledge by sheafs & bundles. ('Tis well if, catching at too much at once, they hold nothing but emptiness & air.) They in the depth of their understanding contemplate abstract ideas.
@@ -223,8 +195,7 @@ Naturalists do not distinguish betwixt cause and occasion. Useful to enquire aft
 Mo.
 Morality may be demonstrated as mixt mathematics.
 
-S.
-Perception is passive, but this not distinct from idea. Therefore there can be no idea of volition.
+S. Perception is passive, but this not distinct from idea. Therefore there can be no idea of volition.
 
 Algebraic species or letters are denominations of denominations. Therefore Arithmetic to be treated of before Algebra.
 
@@ -236,7 +207,7 @@ I am better informed & shall know more by telling me there are 10,000 men, than 
 
 Children are unacquainted with numbers till they have made some progress in language. This could not be if they were ideas suggested by all the senses.
 
-[pg 047]
+
 Numbers are nothing but names—never words.
 
 Mem. Imaginary roots—to unravel that mystery.
@@ -1041,6 +1012,3 @@ The reason why convex speculums diminish & concave magnify not yet fully assign'
 Qu. Why not objects seen confus'd when that they seem inverted through a convex lens?
 
 Qu. How to make a glass or speculum which shall magnify or diminish by altering the distance without altering the angle?
-
-
-

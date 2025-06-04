@@ -9,7 +9,7 @@ description: "Adam Smith laid down 5 factors that affect wages and profits that 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

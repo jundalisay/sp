@@ -1,22 +1,21 @@
 ---
-title: "Default Title"
+title: "Religion"
 date: 2024-11-01
-description: ""
+description: "America’s religious diversity means that workplaces include people of many faiths and that many employers are faith-based"
 c: "firebrick"
 icon: "US"
 ---
-RELIGION
-
-Provide robust protections for religious employers. America’s religious
-diversity means that workplaces include people of many faiths and that
-many employers are faith-based. Nevertheless, the Biden Administration
-has been hostile to people of faith, especially those with traditional beliefs
 
 
-Promote pro-life workplace accommodations for mothers. Federal
-law should protect life and promote pro-family policies. Current law, the
-Pregnancy Discrimination Act,3 provides nondiscrimination protections
-in the workplace for pregnancy, childbirth, or related medical conditions.
+
+### Provide robust protections for religious employers. 
+
+America’s religious diversity means that workplaces include people of many faiths and that many employers are faith-based. Nevertheless, the Biden Administration has been hostile to people of faith, especially those with traditional beliefs
+
+
+Promote pro-life workplace accommodations for mothers. Federal law should protect life and promote pro-family policies. Current law, the
+Pregnancy Discrimination Act,3 provides nondiscrimination protections in the workplace for pregnancy, childbirth, or related medical conditions.
+
 The Pregnant Workers Fairness Act (PWFA)4 requires employers to make
 reasonable accommodations for women “to the known limitations related
 to the pregnancy, childbirth, or related medical conditions,” unless “the

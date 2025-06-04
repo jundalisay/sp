@@ -1,10 +1,12 @@
 ---
-title: "TRADE THE CASE FOR FAIR TRADE"
+title: "Trade: The Case For Fair Trade"
 date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "US"
 author: "Peter Navarro"
+heading: Chapter 26
+weight: 68
 ---
 
 

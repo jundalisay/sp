@@ -4,6 +4,7 @@ title: Idea of a Transcendental Logic
 description: "The Application of the Categories Sensory Objects"
 weight: 26
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

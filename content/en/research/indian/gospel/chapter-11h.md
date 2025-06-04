@@ -3,7 +3,7 @@ title: "Different Classes of Men"
 c: "indigo"
 heading: "Chapter 11g"
 weight: 53
-description: "Rākhāl's father's father-in-law was a devotee of God"
+description: "Rakhal's father's father-in-law was a devotee of God"
 ---
 
 
@@ -22,7 +22,7 @@ austerity, and some are perfect from their very birth. Prahlada is an example of
 
 "Eternally perfect sages like Prahlada also practise meditation and prayer. But they have realized the fruit, God-vision, even before their spiritual practice. They are like gourds and pumpkins, which grow fruit first and then flowers.
 
-(Looking at Rākhāl 's father) "Even though an eternally perfect soul is born in a low
+(Looking at Rakhal 's father) "Even though an eternally perfect soul is born in a low
 family, still he retains his innate perfection. He cannot do anything else. A pea
 germinating in a heap of cow-dung still grows into a pea-plant.
 
@@ -42,7 +42,7 @@ Sunday, June 17, 1883
 
 Sri Ramakrishna was resting in his room in the temple garden at Dakshineswar. It was afternoon. Adhar and M. arrived and saluted the Master. A Tantrik devotee also came in. 
 
-Rākhāl , Hazra, and Ramlal were staying with Sri Ramakrishna.
+Rakhal , Hazra, and Ramlal were staying with Sri Ramakrishna.
 
 MASTER (to the devotees): "Why shouldn't one be able to attain spirituality, living the life of a householder? But it is extremely difficult. Sages like Janaka entered the world after attaining Knowledge. But still the world is a place of terror. Even a detached householder has to be careful. Once Janaka bent down his head at the sight of a
 bhairavi. 

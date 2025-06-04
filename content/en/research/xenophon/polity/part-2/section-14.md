@@ -7,6 +7,7 @@ writer:
   name: Xenophon
   url: https://en.wikipedia.org/wiki/Xenophon
 weight: 26
+icon: "Xenophon"
 ---
 
 

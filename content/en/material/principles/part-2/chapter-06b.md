@@ -8,18 +8,20 @@ description: "The actions of the c Layer are 3"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 25
+weight: 26
 icon: "Juan"
 toc: false
 ---
 
 
-The Spatial Layer has actions for each sublayer
+All Layers and Sublayers have unique actions that show the division of labor of Nature in creating physical reality.
+
+The main actionn of the Spatial Layer is to separate identities. 
+
 
 Sublayer | Action
 --- | ---
 Higher | separation 
 Middle | time
 Lower | distance
-
 

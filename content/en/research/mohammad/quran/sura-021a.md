@@ -2,7 +2,7 @@
 title: "The Prophets (al-Anbiya)"
 heading: "Sura 21a "
 weight: 118
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

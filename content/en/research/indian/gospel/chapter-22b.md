@@ -94,7 +94,7 @@ any attention to me."
 
 MASTER: "What could I do?"
 
-RAM: "Yes, what could you do! But there were Rākhāl, Ramlal, and others. Even they didn't pay any attention."
+RAM: "Yes, what could you do! But there were Rakhal, Ramlal, and others. Even they didn't pay any attention."
 M: "Kishori has gone to Alambazar to get medicine."
 
 MASTER: "Alone? Where will he get medicine?"

@@ -3,11 +3,12 @@ title: Beyond The Crisis State
 weight: 14
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 4
+c: darkgreen
+author: Dr Maleeha Lodhi
 ---
 
 
-Dr Maleeha Lodhi
 
 Pakistan is at the crossroads of its political destiny. It can either remain trapped in a quagmire of weak governance, politics-as-usual, economic stagnation and crumbling public faith in state institutions; or it can take advantage of social changes underway to chart a new course.
 
@@ -139,5 +140,3 @@ Benazir Bhutto's assassination in an election rally in December 2007 left the co
 The leadership of the PPP controversially passed to her spouse Asif Ali Zardari, who became known as the country's accidental leader. 
 
 After Musharraf was forced from office in August 2008 Zardari became President of the Islamic Republic. But his corruption-tainted past denuded him of credibility or popular appeal, and raised questions about the political future of the PPP as both a government and party.
-
-

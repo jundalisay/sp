@@ -18,12 +18,14 @@ Return unto the land of your fathers, and to your kindred; and I will be with yo
 
 <sup>4</sup> Jacob sent and called Rachel and Leah to the field to his flock {31:5} and said to them:
 
-I see your father’s face, that it [is] not toward me as before; but Enki had been with me. {31:6} And you know that with all my power I have served your father. {31:7} Your father had deceived me, and changed my wages 10 times. But Enki suffered him not to hurt me. {31:8} If he said thus, The speckled shall be your wages; then all the cattle bare speckled: and if he said thus, The ringstraked shall be your hire; then bare all the cattle ringstraked. {31:9} Thus, Enki had taken away the cattle of your father, and given them to me. {31:10} And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the
+I see your father’s face, that it [is] not toward me as before; but Enki had been with me. {31:6} And you know that with all my power I have served your father. {31:7} Your father had deceived me, and changed my wages 10 times. 
+
+But Enki suffered him not to hurt me. {31:8} If he said thus, The speckled shall be your wages; then all the cattle bare speckled: and if he said thus, The ringstraked shall be your hire; then bare all the cattle ringstraked. {31:9} Thus, Enki had taken away the cattle of your father, and given them to me. {31:10} And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the
 cattle [were] ringstraked, speckled, and grisled. 
 
 <sup>11</sup> The agent of Enki told me in a dream:
 
-Here I am. <sup>12</sup> Look up and see all the rams which leap on the cattle [are] ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto you. {31:13} I am Enki of Bethel, where you anointedst the pillar, [and] where you vowedst a vow unto me: now arise, get you out from this
+Here I am. <sup>12</sup> Look up and see all the rams which leap on the cattle [are] ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto you. {31:13} I am the Lord of Bethel, where you anointedst the pillar, [and] where you vowedst a vow unto me: now arise, get you out from this
 land, and return unto the land of your kindred. 
 
 <sup>14</sup> Rachel and Leah replied:
@@ -35,14 +37,13 @@ He had sold us and had quite devoured our money. <sup>16</sup> For all the riche
 
 <sup>17</sup> Then Jacob rose up, and set his sons and his wives upon camels; 
 
-{31:18} And he carried away all his cattle, and all his goods which he had gotten, the cattle of his getting, which he had gotten in Padan-aram, for to go to Isaac his father in the land of Canaan. 
+18 He carried away all his cattle, and all his goods which he had gotten, the cattle of his getting, which he had gotten in Padan-aram, for to go to Isaac his father in the land of Canaan. 
 
-{31:19} And Laban went to shear his sheep: and Rachel had stolen the images
-that [were] her father’s. 
+19 Laban went to shear his sheep: and Rachel had stolen the images that [were] her father’s. 
 
-{31:20} Jacob stole away unawares to Laban the Syrian, in that he told him not that he fled. {31:21} So he fled with all that he had; and he rose up, and passed over the river, and set his face [toward] the mount Gilead. 
+20 Jacob stole away unawares to Laban the Syrian, in that he told him not that he fled. {31:21} So he fled with all that he had; and he rose up, and passed over the river, and set his face [toward] the mount Gilead. 
 
-{31:22} Laban was told on the 3rd day that Jacob had fled.
+22 Laban was told on the 3rd day that Jacob had fled.
 
 <sup>23</sup> And he took his brethren with him, and pursued after him seven days’ journey; and
 they overtook him in the mount Gilead.

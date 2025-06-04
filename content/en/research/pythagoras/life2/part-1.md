@@ -2,7 +2,7 @@
 heading: Part 1
 title: "Pythagoras' Origin and Education"
 weight: 1
-image: /covers/lifepyp.png
+c: "steelblue"
 description: "Unless you happen to know the country and the city which Pythagoras was a citizen, will remain a mere matter of conjecture. Some say he was a Samian, others, a Phliasian, others a Metapontine"
 author: Propery
 # icon: /icons/spmat.png

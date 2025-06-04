@@ -66,8 +66,12 @@ The people are delegated to take care of it. If it were one of the pillars of th
 
 Had he done so, it would have become generally known, as was the case with the matter of prayer. 
 
-The men around Muhammad considered the caliphate as something analogous to prayer. And so they argued in favor of Abu Bakr's caliphate, saying, "The Messenger of God found him acceptable for our religion. So, why should we not accept him for our worldly affairs?" 
-<!-- 339  -->
+The men around Muhammad considered the caliphate as something analogous to prayer. So they argued in favor of Abu Bakr's caliphate, saying:
+
+{{< r a="Arabs" >}}
+"The Messenger of God found him acceptable for our religion. So, why should we not accept him for our worldly affairs?
+{{< /r >}}
+
 
 This is another proof that no appointment of an heir had taken place.
 

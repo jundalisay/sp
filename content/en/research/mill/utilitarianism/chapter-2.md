@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 8
 contributors: ['John Stuart Mill']
 description: "People who use utility as the moral basis usually make the ignorant blunder of defining utility as being opposed to pleasure."
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 ---
 
 

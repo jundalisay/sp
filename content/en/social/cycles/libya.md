@@ -9,8 +9,7 @@ image: "/flags/ly.png"
 description : ""
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: "/flags/ly.png"
+  url: https://www.linkedin.com/in/jundalisay
 ---
 
 

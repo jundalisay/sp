@@ -7,8 +7,8 @@ weight: 8
 ---
 
 
-{{< q >}}
-"Mind, metals, and elements may be transmuted from state to state, degree to degree, condition to condition, pole to pole, vibration to vibration. True Hermetic Transmutation is a Mental Art."—The Kybalion.
+{{< q a="Kybalion" >}}
+Mind, metals, and elements may be transmuted from state to state, degree to degree, condition to condition, pole to pole, vibration to vibration. True Hermetic Transmutation is a Mental Art.
 {{< /q >}}
 
 

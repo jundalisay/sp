@@ -2,7 +2,7 @@
 title: "Education, Culture and Sports"
 heading: "Chapter 3"
 weight: 24
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

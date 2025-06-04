@@ -2,7 +2,7 @@
 title: "The Executive Power: The President and Vice-President"
 heading: "Chapter 2 Sections 1"
 weight: 20
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

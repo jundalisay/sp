@@ -3,7 +3,9 @@ title: Clientelist Politics
 weight: 18
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 4c
+c: darkgreen
+author: Dr Maleeha Lodhi
 ---
 
 
@@ -111,5 +113,3 @@ The power elite has also acquired 'rentier' characteristics of using public offi
 This has been a common feature of both the civilian and military elites. 
 
 This explains why with few exceptions their economic management has been so similar. This brings up the next faultline.
-
-

@@ -12,7 +12,7 @@ description: ""
 Tuesday, December 18, 1883
 
 SRI RAMAKRISHNA was seated in his room with his devotees. He spoke highly of
-Devendranath Tagore's love of God and renunciation, and then said, pointing to Rākhāl
+Devendranath Tagore's love of God and renunciation, and then said, pointing to Rakhal
 and the other young devotees, "Devendra is a good man; but blessed indeed are those
 young aspirants who, like Sukadeva, practise renunciation from their very boyhood and
 think of God day and night without being involved in worldly life.
@@ -35,7 +35,7 @@ possible to understand a person right away."
 It was a winter morning, and the Master was sitting near the east door of his room,
 wrapped in his moleskin shawl. He looked at the sun and suddenly went into samādhi.
 His eyes stopped blinking and he lost all consciousness of the outer world. After a long
-time he came down to the plane of the sense world. Rākhāl, Hazra, M., and other
+time he came down to the plane of the sense world. Rakhal, Hazra, M., and other
 devotees were seated near him.
 MASTER (to Hazra): "The state of samādhi is certainly inspired by love. Once, at
 Syambazar, they arranged a kirtan at Natavar Goswami's house. There I had a vision of
@@ -54,8 +54,8 @@ But I am tired and can walk no farther."
 I am not going home, O friend,
 For there it is hard for me to chant my Krishna's name. . . .
 Sri Ramakrishna had vowed to offer green coconut and sugar to Siddhesvari, the Divine
-Mother, for Rākhāl's welfare. He asked M. whether he would pay for the offerings.
-That afternoon the Master, accompanied by M., Rākhāl, and some other devotees, set
+Mother, for Rakhal's welfare. He asked M. whether he would pay for the offerings.
+That afternoon the Master, accompanied by M., Rakhal, and some other devotees, set
 out in a carriage for the temple of Siddhesvari in Calcutta. On the way the offerings
 were purchased. On reaching the temple, the Master asked the devotees to offer the
 fruit and sugar to the Divine Mother. They saw the priests and their friends playing
@@ -158,7 +158,7 @@ jug. M. saluted the Master.
 thought you might have scaled the wall and run away. I watched your eyes this morning
 and felt apprehensive lest you should go away like Narayan Shastri. Then I said to
 myself: 'No, he won't run away. He thinks a great deal before doing anything.' "
-The same night the Master talked to M., Rākhāl , Lātu, Harish, and a few other devotees.
+The same night the Master talked to M., Rakhal , Lātu, Harish, and a few other devotees.
 MASTER (to M.): "Some people give a metaphysical interpretation of the Vrindāvan
 episode of Sri Krishna's life. What do you say about it?"
 M: "There are various opinions. What if there are? You have told us the story of
@@ -215,7 +215,7 @@ shell;
 Thus, in the garb of a yogini, from place to place I shall
 wander,
 Till I have found my cruel Hari. . . .
-M. saw that the Master was walking with Rākhāl.
+M. saw that the Master was walking with Rakhal.
 Friday, December 21, 1883
 In the morning the Master and M. were conversing alone under the bel-tree. The
 Master told him many secrets of spiritual discipline, exhorting him to renounce "woman
@@ -230,7 +230,7 @@ meditating on God with form one speedily acquires devotion; then one can meditat
 the formless God. It is like throwing a letter away, after learning its contents, and then
 setting out to follow its instructions."
 391Saturday, December 22, 1883
-Rākhāl, Harish, M., and Lātu had been staying with Sri Ramakrishna at Dakshineswar.
+Rakhal, Harish, M., and Lātu had been staying with Sri Ramakrishna at Dakshineswar.
 About nine o'clock in the morning the Master was sitting with them on the southeast
 verandah of his room, when Balarām's father and Devendra Ghosh of Syampukur
 arrived.
@@ -334,7 +334,7 @@ forgot all about His abode in heaven. At last Śiva killed the sow body with his
 and God, laughing aloud, went to His own abode."
 In the afternoon Bhavanath arrived.
 the room.
-Rākhāl , M., Harish, and other devotees were in
+Rakhal , M., Harish, and other devotees were in
 MASTER (to Bhavanath): "To love an Incarnation of God- that is enough.
 ecstatic love the gopis had for Krishna!"
 Ah, what
@@ -365,7 +365,7 @@ MASTER: " 'Is it the wheels that make it move?' 'By whose will the worlds are mo
 driver moves the chariot at His Master's bidding.' I feel deeply touched by these lines."
 Sunday, December 23, 1883
 At nine o'clock in the morning Sri Ramakrishna was seated on the southwest porch of
-his room, with Rākhāl , Lātu, M., Harish, and some other devotees. M. had now been
+his room, with Rakhal , Lātu, M., Harish, and some other devotees. M. had now been
 nine days with the Master at Dakshineswar. Earlier in the morning Manomohan had
 arrived from Konnagar on this way to Calcutta. Hazra, too, was present.
 A Vaishnava was singging. Referring to one of the songs, Sri Ramakrishna said: "I
@@ -489,7 +489,7 @@ then come to me again so willingly?
 "I recognized you on hearing you read the Chaitanya Bhagavat. You are my own.
 The same substance, like father and son. All of you are coming here again. When you
 pull one part of the kalmi creeper, all the branches come toward you. You are all
-relatives-like brothers. Suppose Rākhāl, Harish, and the others had gone to Puri, and
+relatives-like brothers. Suppose Rakhal, Harish, and the others had gone to Puri, and
 you were there too. Would you live separately?
 Parable of the grass-eating tiger
 "Before you came here, you didn't know who you were. Now you will know. It is God
@@ -668,7 +668,7 @@ formless God."
 M. (smiling): "Whenever he comes here he brings along great excitement."
 Sri Ramakrishna smiled and said, "Yes, excitement indeed."
 The following day was Tuesday, the ekadasi day of the lunar fortnight. It was eleven
-o'clock in the morning and the Master had not yet taken his meal. M., Rākhāl, and
+o'clock in the morning and the Master had not yet taken his meal. M., Rakhal, and
 other devotees were sitting in the Master's room.
 MASTER (to M.): "One should fast on the eleventh day of the lunar fortnight. That
 purifies the mind and helps one to develop love of God. Isn't that so?"

@@ -8,7 +8,7 @@ description: "Profit Maximization is Absurd just as Wage Maximization and Tax Ma
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 toc: false
 ---
 

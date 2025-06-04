@@ -69,7 +69,7 @@ Thursday, December 27, 1883
 
 The temple garden was filled with the sweet music of the dawn service; which mingled with the morning melody from the nahabat. Leaving his bed, Sri Ramakrishna chanted
 the names of God in sweet tones. Then he bowed before the pictures of the different deities in his room and went to the west porch to salute the Ganges.
-Some of the devotees who had spent the night at the temple garden came to the Master's room and bowed before him. Rākhāl was staying with the Master, and Baburam
+Some of the devotees who had spent the night at the temple garden came to the Master's room and bowed before him. Rakhal was staying with the Master, and Baburam
 had come the previous evening. M. had been staying there two weeks. 
 
 Sri Ramakrishna said to M.: "I have been invited to Ishan's this morning. Baburam will accompany me, and you too." M. made ready to go with the Master.

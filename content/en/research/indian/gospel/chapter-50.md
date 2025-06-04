@@ -36,7 +36,7 @@ the total cost?"
 LĀTU: "One rupee and ten
 ānnās ."
 Sri Ramakrishna asked M., by a sign, to note the price.
-Narendra entered the room and took a seat. Śaśi, Rākhāl, and one or two other devotees
+Narendra entered the room and took a seat. Śaśi, Rakhal, and one or two other devotees
 came in. The Master asked Narendra to stroke his feet. He also asked him whether he
 had taken his meal.
 MASTER (smiling, to M.): "He went there [referring to Bodh-Gaya]."
@@ -157,7 +157,7 @@ Mahāvāyu rises
 in a zigzag way along the spinal
 column till it reaches the Sahasrara, and one goes into samādhi. One feels. the rising of
 the Great Energy, as though it were the movement of a snake."
-RĀKHĀL (to the other devotees): "Let us stop here. He has already talked a great deal.
+Rakhal (to the other devotees): "Let us stop here. He has already talked a great deal.
 It will aggravate his illness."
 Monday, April 12, 1886
 About five o'clock in the afternoon Sri Ramakrishna was sitting on the bed in his room in
@@ -208,7 +208,7 @@ MASTER: "Don't bother about it now."
 M: "Sir, these devotees are going to Calcutta. I will go with them."
 M. bought the cup in Calcutta and returned to Cossipore at noon. He saluted the Master
 and placed the cup near him. Sri Ramakrishna took the cup in his hand and looked at it.
-Dr. Rajendra Dutta, Dr. Sreenāth, Rākhāl, Haldār, and several others came in. Rākhāl,
+Dr. Rajendra Dutta, Dr. Sreenāth, Rakhal, Haldār, and several others came in. Rakhal,
 Śaśi, and the younger Naren were in the room. The physicians heard the report of the
 Master's illness. Dr. Sreenath had a copy of the Gitā in his hand.DR. SREENATH (to his friends): "Everything is under the control of Prakriti. Nobody can
 escape the fruit of past action. This is called Prārabdha ."
@@ -230,16 +230,16 @@ Dr. Sreenāth was ready to argue with the Master.
 MASTER (to M.): "Why don't you tell him that there is a great difference between the
 Isvarakoti and an ordinary man? An Isvarakoti cannot commit sin. Why don't you tell
 him that?"
-M. remained silent and then said to Rākhāl, "You tell him."
+M. remained silent and then said to Rakhal, "You tell him."
 After a few minutes the physicians left the room. Sri Ramakrishna was talking to
-Rākhāl Haldar.
+Rakhal Haldar.
 HALDAR: "Dr. Sreenath studies Vedānta. He is a student of the Yoga-vasishtha."
 MASTER: "A householder should not hold the view that everything is illusory, like a
 dream."
 Referring to a man named Kalidas, a devotee said, "He too discusses Vedānta, but he
 has lost all his money in lawsuits."
 MASTER (smiling): "Yes, one proclaims everything to be māyā, and still one goes to
-court! (To Rākhāl ) Mukherji of Janai, too, talked big. But at last he came to his senses.
+court! (To Rakhal ) Mukherji of Janai, too, talked big. But at last he came to his senses.
 If I were well I should have talked a little more with Dr. Sreenath. Can one obtain jnāna
 just by talking about it?"
 HALDAR: "You are right, sir. I have seen enough of jnāna. Now all I need in order to live
@@ -251,27 +251,27 @@ MASTER: "Yes, it is true. He is totally unaffected by worldliness. He says he do
 know what lust is. (To M.) Just feel my body. All the hair is standing on end."
 The Master's hair actually stood on end at the thought of a pure mind totally devoid of
 lust. He always said that God manifests Himself where there is no lust.
-Rākhāl Haldar took his leave.
+Rakhal Haldar took his leave.
 Sri Ramakrishna was seated with the devotees. A crazy woman had been troubling
 everybody in order to see the Master. She had assumed toward him the attitude of a
 lover and often ran into the garden house and burst into the Master's room. She had
 even been beaten by the devotees; but that did not stop her.
 ŚAŚI: "If she comes again I shall shove her out of the place!"
 MASTER (tenderly): "No, no! Let her come and go away."
-RĀKHĀL : "At the beginning I too used to feel jealous of others when they visited the
+Rakhal : "At the beginning I too used to feel jealous of others when they visited the
 Master. But he graciously revealed to me that my guru is also the Guru of the Universe.
 Has he taken this birth only for a few of us?"
 ŚAŚI: "I don't mean that. But why should she trouble him when he is ill? And she is such
 a nuisance!"
-RĀKHĀL : "We all give him trouble. Did we all come to him after attaining perfection?
+Rakhal : "We all give him trouble. Did we all come to him after attaining perfection?
 Haven't we caused him suffering? How Narendra and some of the others behaved in the
 beginning! How they argued with him!"
 ŚAŚI: "Whatever Narendra expressed in words he carried out in his actions."
-RĀKHĀL: "How rude Dr. Sarkar has been to him! No one is guiltless, if it comes to that."
-MASTER (to Rākhāl, tenderly): "Will you eat something?"
-RĀKHĀL: "Not now. Later on."
+Rakhal: "How rude Dr. Sarkar has been to him! No one is guiltless, if it comes to that."
+MASTER (to Rakhal, tenderly): "Will you eat something?"
+Rakhal: "Not now. Later on."
 Sri Ramakrishna asked M., by a sign, whether he was going to have his meal there.
-RĀKHĀL (to M.): "Please take your meal here. He is asking you to."
+Rakhal (to M.): "Please take your meal here. He is asking you to."
 Sri Ramakrishna was seated completely naked. He looked like a five-year-old boy. Just
 then the crazy woman climbed the stairs and stood near the door.M. (in a low voice, to Śaśi): "Ask her to salute him and go away. Don't make any fuss."
 Śaśi took her downstairs.
@@ -297,7 +297,7 @@ Who but your Mother Durga will save you in distress? .
 . .
 Sri Ramakrishna said by a sign: "That's good! They are singing of the Divine
 Mother." The Brahmani of Baghbazar had the nature of a child. Sri Ramakrishna told
-Rākhāl , by a sign, to ask her to sing. The devotees smiled as the brahmani sang:
+Rakhal , by a sign, to ask her to sing. The devotees smiled as the brahmani sang:
 O Hari, I shall sport with You today;
 For I have found You alone in the Nidhu wood. . .
 The woman devotees went downstairs.
@@ -352,13 +352,13 @@ M: "Why? The mountains have been observed through the telescope."
 GIRISH: "How can you be sure that they have been rightly observed? Suppose there are
 other things between the moon and the earth. Light passing through them may conjure
 up such visions."
-Narendra, Rākhāl, Niranjan, Sarat, Śaśi, Baburam, Kāli, Jogin, Lātu, and a few other
+Narendra, Rakhal, Niranjan, Sarat, Śaśi, Baburam, Kāli, Jogin, Lātu, and a few other
 young devotees had been living at the Cossipore garden house in order to nurse Sri
 Ramakrishna. That evening Narendra, Kāli, and Tārak had gone to Dakshineswar. They
 were going to spend the night in the Panchavati, meditating on God.
 Girish, Lātu, and M. went to Sri Ramakrishna's room and found him sitting on the bed.
 Śaśi and one or two devotees had been tending the Master. Baburam, Niranjan, and
-Rākhāl also entered the room. It was a large room. Some medicines and a few other
+Rakhal also entered the room. It was a large room. Some medicines and a few other
 accessories were kept near the bed. One entered the room by a door at the north end.
 Since Sri Ramakrishna had to be tended all night, the devotees stayed awake by turns.
 The devotee who tended him fixed Sri Ramakrishna's mosquito net and then either lay
@@ -438,11 +438,11 @@ order to sip honey; they do not enjoy anything else."Girish went to the small te
 MASTER (to M.): "A man needs the grace of God to fix his whole mind on Him. Well,
 Girish has eaten a great many sweets. Tell him not to eat anything else tonight."
 Girish returned to the room and sat in front of the Master. He was chewing a betel-leaf.
-About Rākhāl
-MASTER (to Girish): "Rākhāl has now understood what is good and what is bad, what is
+About Rakhal
+MASTER (to Girish): "Rakhal has now understood what is good and what is bad, what is
 real and what is unreal. He lives with his family, no doubt, but he knows what it means.
 He has a wife. And a son has been born to him. But he has realized that all these are
-illusory and impermanent. Rākhāl will never be attached to the world.
+illusory and impermanent. Rakhal will never be attached to the world.
 "He is like a mudfish. The fish lives in the mud, but there is not the slightest trace of
 mud on its body."
 GIRISH: "Sir, I don't understand all this. You can make everyone pure and unattached if
@@ -496,13 +496,13 @@ meditates on you, no harm can ever befall her.
 have become now by meditating on you! Formerly I was indolent; now that indolence
 has turned into resignation to God. Formerly I was a sinner; now I have become humble.
 What else can I say?"
-The devotees remained silent. Rākhāl expressed his sympathy for
+The devotees remained silent. Rakhal expressed his sympathy for
 Pagli .
 He said: 'We all feel sorry for her. She causes so much annoyance, and for that she
 suffers, too."
-NIRANJAN (to Rākhāl): "You feel that way for her because you have a wife at home. But
+NIRANJAN (to Rakhal): "You feel that way for her because you have a wife at home. But
 we could kill her."
-RĀKHĀL (sharply): "Such bragging! How dare you utter such words before him [meaning
+Rakhal (sharply): "Such bragging! How dare you utter such words before him [meaning
 Sri Ramakrishna]?"
 MASTER (to Girish): "'Woman and gold' alone is the world. Many people regard money
 as their very life-blood. But however you may show love for money, one day, perhaps,

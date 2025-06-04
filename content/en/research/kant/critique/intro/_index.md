@@ -5,5 +5,6 @@ title: "Introduction"
 description: "Introduction"
 weight: 14
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---

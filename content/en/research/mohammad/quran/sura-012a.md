@@ -2,7 +2,7 @@
 title: "Joseph (Yusuf)"
 heading: "Sura 12a "
 weight: 86
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

@@ -45,7 +45,7 @@ among the followers of Christ.
 
 'Then a son will soon be born to you.' I said to him:
 
-'But I regard all women as mother. How can I have a son?' That child is Rākhāl .
+'But I regard all women as mother. How can I have a son?' That child is Rakhal .
 
 "I said to the Divine Mother, 'O Mother, since You have placed me in this condition, provide me with a rich man. That is why Mathur served me for fourteen years. And in
 how many different ways! At my request he arranged a special store-room for the sādhus. He provided me with carriage and palanquin. And whatever I asked him to give

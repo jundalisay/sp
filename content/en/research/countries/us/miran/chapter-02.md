@@ -7,60 +7,80 @@ description: "Heritage Foundation'"
 c: "firebrick"
 ---
 
-
-
-1 https://thehill.com/homenews/administration/376408-trump-if-you-dont-have-steel-you-dont-have-a-country/
+<!-- 1 https://thehill.com/homenews/administration/376408-trump-if-you-dont-have-steel-you-dont-have-a-country/
 2 https://www.wsj.com/politics/national-security/scale-of-chinese-spying-overwhelms-western-governments-6ae644d2
-The Roots of Economic Discontent Lie in the Dollar
+The Roots of Economic Discontent Lie in the Dollar -->
 
 ## The Triffin World
 
-The deep unhappiness with the prevailing economic order is rooted in persistent overvaluation of the dollar and
-asymmetric trade conditions. Such overvaluation makes U.S. exports less competitive, U.S. imports cheaper, and
-handicaps American manufacturing. Manufacturing employment declines as factories close. Those local economies
-subside, many working families are unable to support themselves and become addicted to government handouts
-or opioids or move to more prosperous locations. Infrastructure declines as governments no longer service it, and
-housing and factories lay abandoned. Communities are “blighted.”
+The deep unhappiness with the prevailing economic order is rooted in:
+- persistent overvaluation of the dollar
+- asymmetric trade conditions.
 
-According to Autor, Dorn and Hanson (2016), between 600,000 and one million U.S. manufacturing jobs disappeared
-between 2000 and 2011 due to the “China shock” of increased trade with China. Including broader categories, the
-jobs displaced by trade during that decade were closer to 2 million. Even 2 million job losses over a decade represents
-only 200,000 per year, a fraction of the churn of jobs that occurs every year because of technology, rising and falling
-firms and sectors, and the economic cycle.
+Such overvaluation:
+- makes U.S. exports less competitive
+- makes U.S. imports cheaper
+- handicaps American manufacturing
 
-But that logic was flawed in two ways: first, the estimates of job losses due to trade increased over time as new
-research emerged, for instance Autor, Dorn and Hanson (2021); the “China shock” was much larger than initially
-estimated. Indeed, plenty of nonmanufacturing jobs which depended on local manufacturing economies were lost
-as well. Second, many job losses were concentrated in states and specific towns where alternative employment
-was not easily available. For these communities, the losses were severe.
+Manufacturing employment declines as factories close. Those local economies subside, many working families are unable to support themselves and become addicted to government handouts or opioids or move to more prosperous locations.
 
-The problem is compounded by the reversal of “the end of history” and the return of national security threats. With
-no major geopolitical rivals, U.S. leaders believed they could minimize the significance of declining industrial plant.
-But with China and Russia as not only trade but security threats, having a robust and well diversified manufacturing
-sector is of renewed necessity. If you have no supply chains with which to produce weapons and defense systems,
-you have no national security. 
+Infrastructure declines as governments no longer service it, and housing and factories lay abandoned. Communities are “blighted.”
 
-As President Trump argued, “if you don’t have steel, you don’t have a country.”1
-While many economists fail to include such externalities in their analysis and are therefore happy to rely on trade
-partners and allies for such supply chains, the Trump camp does not share that trust. Many of America’s allies and
-partners have significantly larger trade and investment flows with China than they do with America; are we so sure
-we can trust them, if worse comes to worst?
+According to Autor, Dorn and Hanson (2016), between 600,000 - 1 million U.S. manufacturing jobs disappeared between 2000 and 2011 due to the “China shock” of increased trade with China.
 
-Such problems are compounded by aggressive Chinese espionage. According to reports in the Wall Street Journal,2
-in September alone, “the Federal Bureau of Investigation said a Chinese state-linked firm hacked 260,000
-internet-connected devices, including cameras and routers, in the U.S., Britain, France, Romania and elsewhere
-[and] a Congressional probe said Chinese cargo cranes used at U.S. seaports had embedded technology that could
-allow Beijing to secretly control them.” The security, espionage and sabotage vulnerability of sensitive imports
-from China continues to grow.
+Including broader categories, the jobs displaced by trade during that decade were closer to 2 million. 
 
-In this telling, persistent overvaluation of the dollar is the key mechanism for trade imbalances, keeping imports
-from abroad stubbornly cheap despite widening trade deficits. So how is it possible that currency markets, which
-are the largest markets in the world in terms of sheer trading volume, don’t equilibrate?
+Even 2 million job losses over a decade represents only 200,000 per year, a fraction of the churn of jobs that occurs every year because of technology, rising and falling firms and sectors, and the economic cycle.
 
-The answer lies in the fact that there are (at least) two concepts of equilibrium for currencies. One is rooted in models of international trade. In trade models, currencies adjust over the long term to balance international trade. If a country
+But that logic was flawed in 2 ways:
+
+1. The estimates of job losses due to trade increased over time as new research emerged.
+
+For instance Autor, Dorn and Hanson (2021); the “China shock” was much larger than initially estimated. Plenty of nonmanufacturing jobs which depended on local manufacturing economies were lost as well.
+
+2. Many job losses were concentrated in states and specific towns where alternative employment was not easily available. For these communities, the losses were severe.
+
+The problem is compounded by the reversal of “the end of history” and the return of national security threats. 
+
+With no major geopolitical rivals, U.S. leaders believed they could minimize the significance of declining industrial plant.
+
+But with China and Russia as not only trade but security threats, having a robust and well diversified manufacturing sector is of renewed necessity. 
+
+If you have no supply chains with which to produce weapons and defense systems, you have no national security. 
+- As President Trump argued, “if you don’t have steel, you don’t have a country.” 
+
+Many economists fail to include such externalities in their analysis
+- They are happy to rely on trade partners and allies for such supply chains
+
+But the Trump camp does not share that trust. 
+
+Many of America’s allies and partners have significantly larger trade and investment flows with China than they do with America.
+
+Are we so sure we can trust them, if worse comes to worst?
+
+Such problems are compounded by aggressive Chinese espionage. 
+
+According to the Wall Street Journal, in September alone:
+
+{{< q a="Wall Street Jounral" >}}
+ “the FBI said a Chinese state-linked firm hacked 260,000 internet-connected devices, including cameras and routers, in the U.S., Britain, France, Romania and elsewhere. A Congressional probe said Chinese cargo cranes used at U.S. seaports had embedded technology that could allow Beijing to secretly control them.” 
+{{< /q >}}
 
 
-Share of total employment
+The security, espionage and sabotage vulnerability of sensitive imports from China continues to grow.
+
+The persistent overvaluation of the dollar is the key mechanism for trade imbalances. 
+
+Why don't currency markets equilibrate?
+
+This is because there are at least 2 concepts of equilibrium for currencies. 
+
+1. International trade models
+
+In trade models, currencies adjust over the long term to balance international trade. If a country runs a trade surplus for a sustained period, it receives foreign currency for its goods. It then sells these for its domestic currency, pushing its domestic currency higher until its currency is strong enough that its exports decline and imports increase, balancing trade.
+
+
+<!-- Share of total employment
 Manufacturing employees
 MA N U FACTU R I N G E M PLOYM E NT
 5,000
@@ -73,19 +93,17 @@ MA N U FACTU R I N G E M PLOYM E NT
 0%
 20%
 30%
-40%
+40% -->
 
 Figure 1 Manufacturing employment in the United States. Source: Bureau of Labor Statistics
-runs a trade surplus for a sustained period, it receives foreign currency for its goods, which it then sells for its
-domestic currency, pushing its domestic currency higher. That process occurs until its currency is strong enough
-that its exports decline and imports increase, balancing trade.
 
-The other equilibrium concept is financial and comes from savers selecting investment alternatives among different
-nations. In this equilibrium concept, currencies adjust to make investors indifferent between holding assets denominated in different currencies, on an ex ante risk-adjusted basis.
+2. Financial Model
 
-However, the latter class of models becomes more complicated when a nation’s currency is a reserve asset, as is
-America’s. Because America provides reserve assets to the world, there is demand for U.S. dollars (USD) and U.S.
-Treasury securities (USTs) that is not rooted in balancing trade or in optimizing risk-adjusted returns.
+Savers select investment alternatives among different nations [rather than selling their foreign currency].
+
+In this equilibrium concept, currencies adjust to make investors indifferent between holding assets denominated in different currencies, on an ex ante risk-adjusted basis.
+
+However, the latter class of models becomes more complicated when a nation’s currency is a reserve asset, as is America’s. Because America provides reserve assets to the world, there is demand for U.S. dollars (USD) and U.S. Treasury securities (USTs) that is not rooted in balancing trade or in optimizing risk-adjusted returns.
 
 These reserve functions serve to facilitate international trade and provide a vehicle for large pools of savings, often held for policy reasons (e.g. reserve or currency management or sovereign wealth funds) rather than return maximization. 
 

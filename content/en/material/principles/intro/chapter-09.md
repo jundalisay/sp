@@ -12,9 +12,21 @@ icon: "Juan"
 ---
 
 
+The spins of particles and vortices create either friction or harmony in the environment. For example, 
+
+- a galaxy is a vortex that is consitent with the spin of its surroundings
+- a quasar is a vortex that is opposite of its surroundings
+- the stability of matter is due to its consistent spin
+- the annihilation of matter with antimatter shows the friction between matter and antimatter spins
+
+
+The harmony or friction of particles and vortices means that their relation is very important, as fundamental as their spins. 
+
 {{< youtube klka8xfvMDY >}}
 
-The rules of motion in Chapter 6 emphasized that all motion is relative to, and requires, other bodies. 
+The phenomema of the universe is due to this relation of a thing to everything else. We call this Cartesian Relationality which extends to all the 5 Layers.
+
+<!-- The rules of motion in Chapter 6 emphasized that all motion is relative to, and requires, other bodies.  -->
 
 {{< q a="Rene Descartes" c="Principia Philosophia, Part 4 Article 202" >}} 
 Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
@@ -52,12 +64,9 @@ The differences between gravitational signatures create movement between identit
 - stasis
 
 
-
 {{< q a="Galen" c="The Natural Faculties, Chapter 6" >}}
 There exists in almost all parts of the animal a certain inclination or appetite for their own special quality, and an aversion to the foreign quality. When they feel an inclination they should attract. When they feel aversion they should expel. Both the attractive and the propulsive faculties have been demonstrated to exist in everything.
 {{< /q >}}
-
-
 
 
 <!-- The addition or splitting of signatures is from the Negative Force, while the resulting stability is from the Positive. 

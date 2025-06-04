@@ -2,7 +2,7 @@
 title: "Finance and Trade"
 heading: "Chapter 4 "
 weight: 8
-image: "/flags/au.png"
+c: "darkslategray"
 description: "All revenues or moneys raised or received by the Executive Government of the Commonwealth shall form one Consolidated Revenue Fund"
 icon: "/flags/au.png"
 ---

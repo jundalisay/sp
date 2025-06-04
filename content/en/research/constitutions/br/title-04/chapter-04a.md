@@ -2,7 +2,7 @@
 title: "The Functions Essential to Justice"
 heading: "Title 4 Chapter 4"
 weight: 36
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

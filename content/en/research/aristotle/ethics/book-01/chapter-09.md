@@ -19,12 +19,21 @@ The fortunes of their descendants, and friends generally, contribute nothing tow
 
 But since things which befall are many, and differ in all kinds of ways, and some touch more nearly, others less, to go into minute particular distinctions would evidently be a long and endless task: and so it may suffice to speak generally and in outline.
 
-If then, as of the misfortunes which happen to one’s self, some have a certain weight and turn the balance of life, while others are, so to speak, lighter; so it is likewise with those which befall all our friends alike; if further, whether they whom each suffering befalls be alive or dead makes much more difference than in a tragedy the presupposing or actual perpetration of the various crimes and horrors, we must take into our account this difference also, and still more perhaps the doubt concerning the dead whether they really partake of any good or evil; it seems to result from all these considerations, that if anything does pierce the veil and reach them, be the same good or bad, it must be something trivial and small, either in itself or to them; or at least of such a magnitude or such a kind as neither to make happy them that are not so otherwise, nor to deprive of their blessedness them that are.[37]
+If we have misfortunes that are either heavy or light, so our friends have them too.
+
+ <!-- which happen to one’s self, some have a certain weight and turn the balance of life, while others are, so to speak, lighter; so it is likewise with those which befall all our friends alike;  -->
+
+if further, whether they whom each suffering befalls be alive or dead makes much more difference than in a tragedy the presupposing or actual perpetration of the various crimes and horrors, we must take into our account this difference also, and still more perhaps the doubt concerning the dead whether they really partake of any good or evil;
+
+This means that if anything does pierce the veil and reach them, be the same good or bad, it must be something trivial and small, either in itself or to them.
+
+Or at least it is of such a magnitude or kind as neither to make happy them that are not so otherwise, nor to deprive of their blessedness them that are.
 
 It is plain then that the good or ill fortunes of their friends do affect the dead somewhat: but in such kind and degree as neither to make the happy unhappy nor produce any other such effect.
 
+Does Happiness belong to the class of things praiseworthy or things precious?
 
-Having determined these points, let us examine with respect to Happiness, whether it belongs to the class of things praiseworthy or things precious; for to that of faculties[38] it evidently does not.
+ <!-- for to that of faculties[38] it evidently does not. -->
 
 Everything which is a subject of praise is praised for:
 - being of a certain kind and
@@ -40,7 +49,9 @@ If it is to such objects that praise belongs, it is evident that what is applica
 
 Similarly, in respect of goods, no man thinks of praising Happiness as he does the principle of justice, but calls it blessed, as being somewhat more godlike and more excellent.
 
-Eudoxus[40] too is thought to have advanced a sound argument in support of the claim of pleasure to the highest prize: for the fact that, though it is one of the good things, it is not praised, he took for an indication of its superiority to those which are subjects of praise: a superiority he attributed also to a god and the Chief Good, on the ground that they form the standard to which everything besides is referred. 
+Eudoxus is thought to have advanced a sound argument in support of the claim of pleasure to the highest prize.
+
+Happiness is one of the good things. But it is not praised. He took for an indication of its superiority to those which are subjects of praise: a superiority he attributed also to a god and the Chief Good, on the ground that they form the standard to which everything besides is referred. 
 
 For praise applies to virtue, because it makes men apt to do what is noble; but encomia to definite works of body or mind.[41]
 

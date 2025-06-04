@@ -7,7 +7,7 @@ description: "The 1772 credit crunch was resolved naturally because it did not h
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 draft: true
 ---
 

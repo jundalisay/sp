@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 20. The second effect: gravity
+## 20. The second effect: gravity
 
 <!-- The force of gravity does not differ much from this third action of celestial globules; for just as those globules, through their simple motion, by which they move indiscriminately in all directions, press all the particles of each drop equally towards its center, thus making the drop round; so by the same motion, being obstructed by the mass of the whole earth from moving in straight lines, they propel all its parts towards the center: and in this consists the gravity of terrestrial bodies.
 

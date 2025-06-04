@@ -1,6 +1,5 @@
-{{/* layouts/_default/_markup/render-image.html */}}
 <img src="{{ .Destination | safeURL }}"
      alt="{{ .Text }}"
      {{ with .Title }} title="{{ . }}"{{ end }}
-     class="ani rounded-lg shadow mx-auto m-4"
+     class="ani rounded-lg max-w-sm shadow mx-auto m-4"
      loading="lazy">

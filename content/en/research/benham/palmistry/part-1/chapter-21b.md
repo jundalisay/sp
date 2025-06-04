@@ -5,7 +5,7 @@ description: "From every point of view the Apollonian is brilliant, full of the 
 weight: 113
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

@@ -11,8 +11,8 @@ icon: "Ramakrishna"
 
 August 9, 1885
 
-SRI RAMAKRISHNA was sitting in his room at Dakshineswar. Rākhāl, M., Dwija and his father, and other devotees were present. It was about four o'clock in the afternoon.
-After returning from Vrindāvan Rākhāl had spent a few days at home. Now he was staying with the Master. Lātu, Harish, and Ramlal were also staying at the temple
+SRI RAMAKRISHNA was sitting in his room at Dakshineswar. Rakhal, M., Dwija and his father, and other devotees were present. It was about four o'clock in the afternoon.
+After returning from Vrindāvan Rakhal had spent a few days at home. Now he was staying with the Master. Lātu, Harish, and Ramlal were also staying at the temple
 garden.
 
 ## Beginning of Master's illness
@@ -88,7 +88,7 @@ said to Dwija with a laugh, "How I talked to your father!"
 Dwija's father returned to Sri Ramakrishna's room after dusk. He intended to leave
 shortly. He was feeling hot. Sri Ramakrishna fanned him himself. In a few minutes the
 father took leave of the Master. Sri Ramakrishna stood up to bid him farewell.
-It was eight o'clock. Sri Ramakrishna was talking to Mahimacharan. Rākhāl, M., and one
+It was eight o'clock. Sri Ramakrishna was talking to Mahimacharan. Rakhal, M., and one
 or two companions of Mahimacharan were in the room. Mahimacharan was going to
 spend the night at the temple garden.
 Mahima's estimate of the devotees
@@ -153,13 +153,13 @@ down, stood erect and open its petals. Then he came to the sixteen-petalled lotu
 throat and two petalled lotus in the forehead. And last of all, the thousand-petalled lotus
 in the head blossomed. Since then I have been in this state."
 Sri Ramakrishna came down to the floor and sat near Mahimacharan. M. and a few other
-devotees were near him. Rākhāl also was in the room.
+devotees were near him. Rakhal also was in the room.
 MASTER (to Mahima): "For a long time I have wanted to tell you my spiritual
 experiences, but I could not. I feel like telling you today.
 Master's intimate vision of God
 "You say that by mere sādhanā one can attain a state of mind like mine. But it is not so.
 There is something special here [referring to himself]."
-Rākhāl, M., and the others became eager to hear what the Master was going to say.
+Rakhal, M., and the others became eager to hear what the Master was going to say.
 MASTER: "God talked to me. It was not merely His vision. Yes, He talked to me. Under
 the banyan-tree I saw Him coming from the ganges. Then we laughed so much! By way
 of playing with me He cracked my fingers. Then He talked. Yes, He talked to me.
@@ -252,7 +252,7 @@ than Nanak.'
 "I live in the midst of worldly people; on all sides I see 'woman and gold'. Nevertheless,
 this is the state of my mind: unceasing samādhi and bhava. That is the reason Pratap
 said, at the sight of my ecstatic mood: 'Good heavens! It is as if he were possessed by a
-ghost!' "Rākhāl, M., and the others were speechless as they drank in this account of Sri
+ghost!' "Rakhal, M., and the others were speechless as they drank in this account of Sri
 Ramakrishna's unique experiences.
 But did Mahimacharan understand the import of these words? Even after hearing them,
 he said to the Master, "These things have happened to you on account of your
@@ -262,17 +262,17 @@ the result of past actions. God is like an aristocrat who has many mansions. Her
 [referring to himself] is one of His drawing-rooms. The bhakta is God's drawing-room."
 It was nine o'clock in the evening. Sri Ramakrishna was sitting on the small couch. It
 was Mahimacharan's desire to form a brahmachakra in the presence of the Master.
-Mahima formed a circle, on the floor, with Rākhāl, M., Kishori, and one or two other
-devotees. He asked them all to meditate. Rākhāl went into an ecstatic state. The Master
-came down from the couch and placed his hand on Rākhāl's chest, repeating the name
-of the divine Mother. Rākhāl regained consciousness of the outer world.
+Mahima formed a circle, on the floor, with Rakhal, M., Kishori, and one or two other
+devotees. He asked them all to meditate. Rakhal went into an ecstatic state. The Master
+came down from the couch and placed his hand on Rakhal's chest, repeating the name
+of the divine Mother. Rakhal regained consciousness of the outer world.
 It was one o'clock in the morning, the fourteenth day of the dark fortnight of the moon.
 There was intense darkness everywhere. One or two devotees were pacing the concrete
 embankment of the Ganges. Sri Ramakrishna was up. He came out and said to the
 devotees, "Nangta told me that at this time, about midnight, one hears the Anāhata
 sound."
 In the early hours of the morning Mahimacharan and M. lay down on the floor of the
-Master's room. Rākhāl slept on a camp cot. Now and then Sri Ramakrishna paced up and
+Master's room. Rakhal slept on a camp cot. Now and then Sri Ramakrishna paced up and
 down the room with his clothes off, like a five-year-old child.
 Monday, August 10
 It was dawn. The Master was chanting the name of the Divine Mother. He went to the
@@ -311,7 +311,7 @@ duties."
 Tuesday, August 11
 Sri Ramakrishna was in his room at the temple garden. He had been observing silence
 since eight o'clock in the morning. Did he know the fatal nature of his illness? At his
-silence the Holy Mother wept. Rākhāl and Lātu also wept. The brahmani widow from
+silence the Holy Mother wept. Rakhal and Lātu also wept. The brahmani widow from
 Baghbazar arrived. She too was weeping at this strange mood of the Master. Now and
 then the devotees asked him whether he would remain silent for good. The Master
 answered them in the negative, by a sign.
@@ -324,7 +324,7 @@ alone is real, and all else is the splendour of Her māyā.
 "Another thing was revealed to me. I found out how far the different devotees have
 progressed."
 DEVOTEES: "Please tell us about it."
-MASTER: "I came to know about all these devotees: Nityagopal, Rākhāl, Narayan?
+MASTER: "I came to know about all these devotees: Nityagopal, Rakhal, Narayan?
 Purna, Mahima Chakravarty, and the others."
 Sunday, August 16, 1885
 The news of Sri Ramakrishna's illness had been reported to the devotees in Calcutta.
@@ -382,7 +382,7 @@ Pundit Shyamapada of Antpur arrived. It was dusk. The pundit went to the bank of
 Ganges to perform his evening worship; he had some amazing visions during the
 worship. He returned to the Master's room and sat on the floor. Sri Ramakrishna had
 just finished meditation and the chanting of the holy names. He was sitting on the small
-couch and M. on the foot-rug. Rākhāl, Lātu, and the others were in and out of the room.
+couch and M. on the foot-rug. Rakhal, Lātu, and the others were in and out of the room.
 Brahman is the innermost Reality
 MASTER (to M, pointing to the pundit): "He is very nice. (To the pundit) Where the mind
 attains peace by practising the discipline of 'Neti, neti', there Brahman is.
@@ -440,7 +440,7 @@ must come here."
 It was ten o'clock. Sri Ramakrishna ate a little farina pudding and lay down. He asked M.
 to stroke his feet. A few minutes later he asked the disciple to massage his body and
 chest gently. He enjoyed a short nap. Then he said to M.: "Now go to sleep. Let me see
-if I can sleep better when I am alone." He said to Ramlal, "He [meaning M.] and Rākhāl
+if I can sleep better when I am alone." He said to Ramlal, "He [meaning M.] and Rakhal
 may sleep in the room."
 Friday, August 28
 It was dawn. Sri Ramakrishna was awake and meditating on the Divine Mother. On
@@ -593,7 +593,7 @@ wants to send a messenger a hundred times to the nahabat for sugar candy? Let it
 kept here."
 It was eleven o'clock in the morning. The devotees were gradually arriving from
 Calcutta. Balarām, Narendra, the younger Naren, NavaGopal, and a Vaishnava from
-katoa arrived. Rākhāl and Lātu were staying with Sri Ramakrishna. A Punjabi sādhu had
+katoa arrived. Rakhal and Lātu were staying with Sri Ramakrishna. A Punjabi sādhu had
 been staying in the Panchavati for some days.
 The younger Naren had a tumour on his forehead. Sri Ramakrishna was strolling in the
 Panchavati with the devotees. He said to the younger Naren: "Why don't you have your
@@ -734,7 +734,7 @@ by quoting from books? The pundits recite verses and do nothing else.
 gargling with a solution of siddhi. It must go into your stomach; not until then will you
 be intoxicated. One cannot comprehend what I am saying unless one prays to God in
 solitude, all by oneself, with a longing heart."
-Dr. Rākhāl arrived to examine Sri Ramakrishna. The Master said to him eagerly, "Come
+Dr. Rakhal arrived to examine Sri Ramakrishna. The Master said to him eagerly, "Come
 in and sit down."
 The conversation with the Vaishnava continued.
 MASTER: "Man should possess dignity and alertness. Only he whose spiritual
@@ -763,7 +763,7 @@ with a smile: "I know it. You will see the reflection in it."
 Narendra sang. But on account of the Master's illness there was not much music.
 September 2
 After finishing his midday meal Sri Ramakrishna sat on the small couch and talked to Dr.
-Bhagavan Rudra and M. Rākhāl, Lātu, and other devotees were in the room. The
+Bhagavan Rudra and M. Rakhal, Lātu, and other devotees were in the room. The
 physician heard all about the Master's illness. Sri Ramakrishna came down to the floor
 and sat near the doctor.
 MASTER: "You see, medicine does not agree with me. My system is different.
@@ -806,8 +806,8 @@ DOCTOR: "He didn't hurt you purposely."
 MASTER: "No, he pressed the tongue to make a thorough examination."
 Sunday, September 20, 1885
 Sri Ramakrishna was sitting in his room, surrounded by devotees. Nava-Gopal, Haralal,
-Rākhāl, Lātu, and others were present. A goswami who was a musician was also there.
-M. arrived with Dr. Rākhāl of Bowbazar. The physician began to examine the Master. He
+Rakhal, Lātu, and others were present. A goswami who was a musician was also there.
+M. arrived with Dr. Rakhal of Bowbazar. The physician began to examine the Master. He
 was a stout person and had rather thick fingers.
 MASTER (smiling, to the physician): "Your fingers are like a wrestler's. Mahendra Sarkar
 also examined me. He pressed my tongue so hard that it hurt me. He pressed my
@@ -836,7 +836,7 @@ ecstasy. Spiritual emotion hurts the throat."
 The goswami began the kirtan. Sri Ramakrishna could not control himself.
 He stood up and began to dance with the devotees. The physician watched the whole
 scene.
-A hired carriage was waiting for Dr. Rākhāl. He and M. were ready to leave for Calcutta.
+A hired carriage was waiting for Dr. Rakhal. He and M. were ready to leave for Calcutta.
 They saluted the Master. Sri Ramakrishna said to M. affectionately, "Have you had your
 meal?"
 Thursday, September 24, 1885
@@ -856,4 +856,4 @@ of the two brothers singing devotional songs with their companions at Navadvip.
 RAMLAL (to the Master): "Then may I give him [meaning M.] the picture?"
 MASTER: "Yes."
 Sri Ramakrishna was then under Dr. Pratap's treatment. He awoke at midnight and felt
-extremely restless. Harish, his attendant was in the room. Rākhāl also was there. Ramlal was asleep on the verandah. The Master remarked later on: "I was feeling extremely restless. I felt like embracing Harish. They rubbed a little medicinal oil on my head. Then I began to dance."
+extremely restless. Harish, his attendant was in the room. Rakhal also was there. Ramlal was asleep on the verandah. The Master remarked later on: "I was feeling extremely restless. I felt like embracing Harish. They rubbed a little medicinal oil on my head. Then I began to dance."

@@ -6,7 +6,7 @@ description : "Economics uses money both as a store of value and tool of trade. 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

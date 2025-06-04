@@ -49,8 +49,8 @@ householder?"
 
 The hathayogi who had been living in the Panchavati entered the room. He was in the habit of taking milk and opium. He did not eat rice or other food and had no money to buy the milk and opium. The Master had talked with him in the Panchavati. 
 
-The hathayogi had told Rākhāl to ask the Master to make some provision for him, and Sri Ramakrishna had promised to speak about it to the visitors from Calcutta.
-HATHAYOGI (to the Master): "What did you say to Rākhāl about me?"
+The hathayogi had told Rakhal to ask the Master to make some provision for him, and Sri Ramakrishna had promised to speak about it to the visitors from Calcutta.
+HATHAYOGI (to the Master): "What did you say to Rakhal about me?"
 
 MASTER: "I said that I would ask some rich visitors to help you. But (to Prankrishna) you, perhaps, do not like these yogis?"
 Prankrishna remained silent. The hathayogi left the room and the conversation went on.
@@ -294,7 +294,7 @@ MASTER (smiling): "Are husband and wife like earthen pots or jars, that you may 
 RAM: "Sir, we are quite happy. But when she comes the family is broken up. If such is the case-"
 
 
-MASTER: "Then build them a separate home. That will be a different thing. You will defray their monthly expenses. How worthy of worship one's parents are! Rākhāl asked me if he could take the food left on his father's plate. 'What do you mean?' I said. 'What have you become that you cannot?' But it is also true that good people won't give anyone, even a dog, the food from their plates."
+MASTER: "Then build them a separate home. That will be a different thing. You will defray their monthly expenses. How worthy of worship one's parents are! Rakhal asked me if he could take the food left on his father's plate. 'What do you mean?' I said. 'What have you become that you cannot?' But it is also true that good people won't give anyone, even a dog, the food from their plates."
 
 GIRINDRA: "Sir, suppose one's parents are guilty of a terrible crime, a heinous sin?"
 
@@ -362,11 +362,11 @@ Adhar was a beloved householder devotee of the Master. He had recently arranged 
 Adhar had forgotten to invite Ram, who was a very proud man and had complained about it to his friends. So Adhar had gone to Ram's house to express his regret for the
 mistake.
 
-RAM: "It wasn't really Adhar's mistake. I have come to know that Rākhāl is to blame.
+RAM: "It wasn't really Adhar's mistake. I have come to know that Rakhal is to blame.
 
-Rākhāl was given charge-"
+Rakhal was given charge-"
 
-MASTER: "You mustn't find fault with Rākhāl. He's a mere child. Even now you can bring out his mother's milk by squeezing his throat."
+MASTER: "You mustn't find fault with Rakhal. He's a mere child. Even now you can bring out his mother's milk by squeezing his throat."
 
 RAM: "Sir, why should you speak that way? It was such an occasion!"
 

@@ -1,134 +1,103 @@
 ---
-title: "The Strength of the Line of Head"
+title: "Head Line Drooping to Luna"
 heading: "Chapter 6e"
-# date: 2021-11-20
-weight: 34
+weight: 33
 c: "deeppink"
-description: "A deep and well cut line shows great mental power, good self-control, fixedness of purpose, good memory, and general mental health and strength"
+description: "In very many hands, the Head line slopes towards the Mount of the Moon"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
-<!-- The character of the Head line, which will next be considered, shows what strength there is to the mental qualities, and what ability to concentrate the mind.  -->
+In very many hands, the Head line slopes towards the Mount of the Moon (122).
+- This shows that the subject is influenced by imagination and is not practical to the exclusion of everything else.
 
-A deep and well-cut head line shows:
-- great mental power
-- good self-control
-- fixedness of purpose
-- good memory
-- general mental health and strength. 
+There is a great misconception prevalent on this sloping Head line, which has been used as indicating danger of insanity. Nothing can be farther from the truth, for such a Head line is found on the hands of most sensible, self-contained, practical persons. 
 
-There is in this case a good clear channel for the Current to flow through, consequently the ideas run evenly and smoothly - no breaks, no jars, but steadiness and strength. 
+The ability to imagine is not a sign of insanity or impracticality if the line of Head be good, deep, well cut, and clear.
 
-The deep and well cut Head line shows one who is self-contained, does not "lose his head," is not flighty or erratic, but is dignified, even-tempered, evenly balanced, and has the ability to make and carry out his determinations. If the long Head line be deep and well cut, its length shows great mentality and its depth shows strength of this quality. 
+<!-- , little concern need be felt because it inclines toward the Mount of Moon. With this indication, as with all others, excess may make it bad.'  -->
 
-Long Head lines are often broken or defective while the subjects are very bright. From this you may think that a deep and well cut line is not necessary to produce mental stamina. But close analysis will show that while your subject is bright and has much mentality it is not the steady, deep, and strong kind, but is unstable. 
+<!-- Other combinations with the line, or the character of the line itself, may spoil it, but the general proposition is,  -->
 
-The length of the line shows the quantity, the depth and clearness shows the quality. Owners of deep, well cut Head lines do not always make up their minds as quickly, but weigh and consider carefully. Once reaching a decision, subjects with such a Head line are firm in execution; 
+A Head line running toward the Moon shows that the subject is not entirely material in his ideas, but has the power of imagination.
 
-They can concentrate their ideas, pursue a single aim in life, and bring to bear on this aim a fund of strength and information drawn from many sources. They are cool in moments of danger, collected, not easily thrown off their guard, and possess self-control in the greatest degree.
+This is an essential qualification for writers, speakers, and linguists.
+- In the most successful men of these professions I find a droop to the Head line, some going far down into the Mount.
+- These persons were writers of fiction and poetry (123).
 
-A strong thumb added to a deep and well cut Head line will make the subject firm, cool, and irresistible. The large thumb indicates the will which dominates others, the deep and well cut Head line shows the will which can control self. 
+![Head Line](/graphics/palm/123.png)
 
-Give a subject both a large thumb and deep and well cut Head line, and he can accomplish almost any task if he sets out to do it. Observe the proportion of the lines to each other and also the size of the hand. If the Head line be deeper and clearer than the other lines, then the subject is a mental specimen of whatever type he belongs to, and his first phalanges will corroborate this. 
 
-If the hand and the lines in general are small, but the Head line is deep and well cut, it is a grave danger, for it indicates more mental power than the subject has physical strength to carry easily. I have noted a number of incurable cases of insanity with this marking, and also that the Head line was deep red in color. So while the deep and well cut Head line, other things being equal, is the best marking, in excess it is one of the worst. The deep line shows excellent physical health of the brain, and with such a normal line you rarely find headaches, or any trouble from brain disorders. 
+A line to reach the Moon must be a long one, so there is in these cases no lack of mentality.
 
-It is only when the line is seen in excessive development and red that you should fear trouble, and then vertigo, fainting spells, and, in extreme cases, apoplexy or insanity are indicated. This is more certain if your subject is a Jupiterian, especially if the third phalanx of the finger of Jupiter be thick. 
 
-The strong Head line shows the capacity of the brain to think and do work; it shows a healthy brain, consequently one which can stand much exertion, and can also do better work than a weak or unhealthy organ. It is less swayed by others, more reliable, and in every way stronger. Take the deep and well cut Head line as the basis for best results in estimating a subject. 
+<!-- It is only when the drooping line is seen on a poor type of subject or when it is thin or defective that it is unfavorable.  -->
 
-There are many hands in which the Head line is thin and narrow, and traces itself delicately across the hand. This thin line shows that the brain power is not vigorous, but that the subject is mentally delicate. He may be clever, and will be if the line is long, but will lack mental vigor. 
+An excess of imagination is one species of insanity; the drooping Head line with other unfavorable signs will clearly indicate mental derangement. 
 
-He will have good ideas but will be easily talked out of them, nor will he make great mental exertion, for it tires him. He cannot put his brain at work for any length of time, for it becomes weary. He cannot pass through trials without headaches, and, whenever possible, he avoids severe mental tension and great brain effort. 
+If the line droops low on the Mount and ends in a star (124), it will indicate insanity. 
 
-He does not like to concentrate his mind, and cannot do so for any length of time. He has little self-control, but gives way to his feelings, either temper, low appetites, laziness, or whatever they may be. This thin line shows mental inertia, a lack of desire and ability to operate with vigor, lack of firmness, aggression, and of strong mental concentration. Its owner never does great things requiring continued mental exertion, but he does bright things which come to him by intuition and which do not require much brain exertion.
 
-It is dangerous to overcrowd these thin Head lines, for they cannot stand it.
+![Head Line](/graphics/palm/124.png)
 
- The channel is not deep enough to carry a large Current. If such a Current is forced into it, the thin line will give way and break. 
+- Drooping to the Moon and ending in a chain (125), it will tell of mental impairment.
+- If it droops to the Moon and ends in a cross (126), it will indicate a check to the mentality. 
+- If it droops and ends in an island (127) or a dot (128), there is danger of mental disturbance. In these cases the size of the island or dot will tell how serious. 
 
- Here again observe proportion. If the hand and lines are large and the Head line thin, greatest care must be used. No mental over-excitement must be allowed, no loss of sleep, no narcotics, no stimulants, no excess of any kind.
+![Head Line](/graphics/palm/127.png)
 
- The subject must:
- - care for the stomach
- - rest when fatigued
+If on the Mount of Moon the line is broken (129) and intermittent, it is another indication of mental disturbance.
 
- Any other sort of living will produce mental disorders. 
+These markings of the line are more dangerous because the line droops to the Moon, the imaginative tendencies of the Mount making it a fertile place for such trouble. In every case the curve toward the Moon must be carefully considered. 
 
- With these thin lines on the hands of men who make great mental exertions, you will often see places where the line cuts much more deeply than in others (138).
 
-These deep cuts show times at which the pressure has been too great. At such a time, if the pressure is continued the brain will collapse, producing paralysis or nervous prostration. The age at which these strains occur can be read on the line.
+![Head Line](/graphics/palm/130.png)
 
-The Line Of Head Part 8 295 No. 138. 
+- If it begins to droop from the start of the line (130), the tendency of the ideas have always been in that direction. 
+- If the line runs straight during the first part of its course and then slopes downward (131), the practical plane at the beginning is changed to a tendency toward imaginative ideas later in life, the date to be read from the point where the droop begins. Such violent changes or markings are not the best ones with this line. It is when the line forms a graceful curve, and gradually tends downward that no bad results follow.
+- Sometimes the line forks at the end (132). This will indicate versatility, a union of practical and imaginative ideas which make the subject see things from a double point of view. I have seen this marking on the hands of successful theatrical people, and those who successfully appeal to the public in other ways. If the fork be slight, it must be read simply as versatility. 
 
-Such markings will often be seen on active businessmen or professionals. The warning to "ease up" must always be given. 
 
-By noting these variations in depth of the line, you can tell the years of best brain power, age to be read from the line. 
+![Head Line](/graphics/palm/133.png)
 
-Stars, crosses, and dots (139) on a thin line will show dangers to the mental life that must not go unheeded. They show that explosions or checks will occur unless care be used, as well as the time, by the age at which they are seen. Cuts of the line show danger points. 
+If it be more marked, as in No. 133, it shows that the subject has a strong practical set of ideas and a strong set of imaginative ones. 
 
-If small and frequent (140) they indicate headaches; if deep, and the Head line thin (141), they show brain fever, nervous prostration, or paralysis. In all examinations look at both hands. 
+He can see things from both the practical and fanciful sides, and with this double point of view, he is less inclined to be narrow and one-sided.
 
-If the Head line be deep in the left hand and thin in the right the natural brain power is strong, but has been weakened and it is dangerous to make great mental exertion. 
+By noting which of the two forks is deeper and stronger, you can tell which side (practical or imaginative) will obtain the mastery. 
 
-These subjects seldom heed warnings, for the natural brain strength, coming from the deep line in the left hand, cannot easily accommodate itself to the diminished quantity that is shown in the right hand. If the thin line be seen in the left hand and a deep line in the right, the brain vigor has increased and the subject can stand additional mental effort.
+This is a fine marking on a good hand. The double line, however, with its double point of view, often leads a subject into the habit of falsifying. 
 
-Weak mentality can be made strong without peril by gradual cultivation. 
+He is not always an intentional liar; often he is not sure whether he is telling the literal story or the imaginative one.
 
-The danger point always comes from spasmodic and violent efforts. All of the changes from good to bad, strong to weak, or vice versa, can be read with accuracy by using the 2 hands. 
+His imagination is vivid, and he sometimes makes himself think he is telling the truth when he is not. Prom the forking Head line is produced the liar, and when seen on an otherwise bad hand, it will make you sure of this interpretation. 
 
-<!-- The Line Of Head Part 9 296 No. 139. The Line Of Head Part 9 297 No. 140. --> 
+**In habitual liars, I have found the forking Head line always present.** 
 
-The broad and shallow Head line (142) is not an indication of vigorous mentality.
+Sometimes they lie from pride or vanity, for mercenary or vicious ends, and in each case the forking Head line will be seen. 
 
-The Current has too broad and shallow a channel and flows in a weak and shallow stream. It is not a vigorous brain but a weakened one, liable to aches and deterioration. 
+This applies to habitual falsifiers, not mere occasional "story tellers." 
 
-The subject with this Head line is not firm, resolute, and courageous, but is undetermined, vacillating, uncertain, and lacks self-reliance and boldness. He may be bright, if the line is long, but he is weak in mental aggression. 
+If the line has a fork with one line running to upper Mars and one going low on to the Moon, with this fork again forking (134), it will show that the double-pointed imagination, shown by the forked fork on the Moon, will be so vivid that the subject will "stretch" everything and will lie when the truth is better.
 
-The broad and shallow line shows a lack of force or intensity in the mental attitude, the subject is not self-assertive; or, if possessed of a large thumb, he may be this, and yet lack real self-assertion; what he does show being merely a veneer. 
+He possesses such an enlarged imagination that he magnifies everything to double the original size, and all descriptions show this distortion. 
 
-He has poor control of himself, small power to influence others, little concentration of mind, and poor memory. 
+If the fork on the Moon ends in a star, a cross, or a dot (135), it will be practically certain that the enlarged imagination will produce insanity from:
 
-This subject is easily influenced and yields to temptations. He was not intended for mental occupations and does not often seek them. He is mentally lazy and does but little thinking, is satisfied to have others think for him, so does not create much stir in the world. 
+1. Over-imagination
+2. Mental disease shown by the star, cross, or dot.
 
-If broad and shallow lines be seen in both hands your subject will continue in his weak way until the end of life. If the line improves and gets clear in the right hand you are safe in saying that the natural mental inertia will be replaced by as much more strength as the line in the right hand shows itself deeper and clearer cut than the one in the left. 
+In the two cases above mentioned, if the Mount of Moon be grilled and much rayed. It will add to the force of the indication all of the restlessness of the Lunarian. It will emphasize every bad indication found on a much drooped and forked line of Head. 
 
-If a broad and shallow line be seen in the left hand and splits up and breaks to pieces in the right, the subject is utterly vacillating and hopelessly weak. With any subject a fine Head line may pull him out of the worst places, and subjects whose hands are seen to be wofully lacking in many desirable qualities may overcome their weakness if a strong mental structure is back of them. A broad and shallow line will weaken any hand no matter how strong in other respects, and make the results of what might be an otherwise successful life negative. 
+By keeping constantly in mind what constitutes a clear line of Head and what makes it defective, you can distinguish between a good, healthy imagination and mental disorder, and you will never tell a fine writer that he is going crazy.
 
-It reduces the strength of strong Mounts. The Jupiterian ambition is diminished, the Martian vigor is greatly weakened, and every Mount feels the blight of mental laziness. 
+Sometimes a line of Head divides into 3 well-cut forks, one going toward Mercury, one toward Mars, and one toward the Moon (136). This is a splendid marking, showing great diversity of intellect, adaptability, and versatility. In this case the three terminations unite business (Mercury), resistance (upper Mars), and imagination (the Moon).
 
-In many hands the line runs broad and shallow during the earlier years of life and then becomes deep and clear (143). 
+![Head Line](/graphics/palm/136.png)
+ 
+This combination generally produces a successful career, and unless laziness, lack of ambition, or some other defect is very strongly marked, a subject with this triple-forked termination will achieve much. 
 
-The age at which this change occurs will show the time at which the subject energetically took up life's battle, and really began to think for himself. This marking is often seen in the hands of women who have been "spoiled" and who have never had to do anything until suddenly thrown upon their own resources, when they have had to take up life's struggle in earnest, and the Head line changes and grows deeper, clearer and straighter as they rise to the occasion and develop strength. 
+In rare cases the Head line curves around and ends on the Mount of Venus (137). This will indicate that Venusian ideas of attraction are uppermost in the mind of the subject.
 
-The chained Head line (144) is a bad indication. The channel is not only broad and shallow, but is continually obstructed. The mentality is weak and labored, utterly lacking in power of concentration, vacillating, timid, sensitive, and changeable. 
-
-You cannot rely on the promises of these subjects. They do not mean to break faith but they do so. They have poor memories, poor judgment, are continually subject to headaches and various mental disorders. 
-
-They cannot apply themselves continuously to any kind of work, either mental or manual. 
-
-If the Heart line is strong, they will be ruled by sentiment and utterly unpractical. 
-
-If the thumb is weak, they will be unable to think out a plan or to execute it. 
-
-To such subjects any mental shock is exceedingly dangerous and likely to throw them off their balance. 
-
-This done they have not the power to recover it. They are prone to delusions and hallucinations, chimerical and impractical in their ideas, and such a Head line drooping to the Moon produces phantasms, over-imagination, or insanity, and the person having such a line cannot be trusted to deal safely with speculative matters. 
-
-A subject with a chained Head line should not attempt mental vocations, should not choose literature, scientific studies, or any brain-exerting occupations, but should take out-of-door positions where labor with the hands or legs is required.
-
-He should have a firm master under whom to work, for he will not be able to direct his own efforts, but will rely on being directed. If the chain appears in only a portion of the Head line, its weakening effect will apply only to the portion of the line it covers. 
-
-If it is replaced by a deep, well cut line (145) the subject will develop mental weakness into mental vigor. 
-
-It is not frequent that the chained condition is at once replaced by a deep line, for the change from such opposite mental conditions comes slowly, and in most cases the chained line is followed by a thin line which gradually grows stronger (146), showing the gradual progress from mental weakness to strength. Look to both hands for the outcome when a chained Head line is seen. 
-
-<!-- The Line Of Head Part 9 298 No. 141. The Line Of Head Part 9 299 No. 142. The Line Of Head Part 9 300 No. 143. The Line Of Head Part 9 301 No. 144. The Line Of Head Part 9 302 No. 145. The Line Of Head Part 9 303 No. 146. The Line Of Head. Part 10 --> 
-
-If it grows clear in the right hand your subject will gain mental strength. If it goes from a deep line in the left to a chained line in the right, the subject is going from a strong condition to a weak one. The Life line will show the effect, and the age at which this deterioration begins can be read from the Head line, and confirmed on the Life line. 
-
-You will find the different character of lines marked in great variety on Head lines. 
-
-If you remember the kind of mental strength each one indicates, you know that each kind of a line will operate in the manner peculiar to its character during the period it covers on the line, and that when the character of the line changes, the mental view and qualities change at the same time. 
+This line is long, so there is plenty of mentality, and if it be deep and clear it is not per se an indication of defective mental health, but it shows the drawing, attracting power of Venus.

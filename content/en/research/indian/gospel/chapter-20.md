@@ -10,7 +10,7 @@ description: ""
 
 Sunday, March 9, 1884
 
-SRI RAMAKRISHNA was sitting in his room at Dakshineswar with many devotees. Among them were Mani Mallick, Mahendra Kaviraj, Balarām, M., Bhavanath, Rākhāl, Lātu, and Harish. The Master's injured arm was in a splint. In spite of the injury he was constantly absorbed in samādhi or instructing the devotees.
+SRI RAMAKRISHNA was sitting in his room at Dakshineswar with many devotees. Among them were Mani Mallick, Mahendra Kaviraj, Balarām, M., Bhavanath, Rakhal, Lātu, and Harish. The Master's injured arm was in a splint. In spite of the injury he was constantly absorbed in samādhi or instructing the devotees.
 
 Mani Mallick and Bhavanath referred to the exhibition which was then being held near the Asiatic Museum. They said: "Many maharajas have sent precious articles to the
 exhibition-gold couches and the like.
@@ -104,7 +104,7 @@ business of a broker. Such people cannot be true to their word. One moment they 
 "In my room sweets would turn bad; still I could not give them away to the worldly-minded. I could accept dirty water from others, but not even touch the jar of a worldly
 person.
 
-At the sight of rich people Hazra would call them to him. He would give them long lectures. He would say to them: 'You see Rākhāl and the other youngsters. They do not
+At the sight of rich people Hazra would call them to him. He would give them long lectures. He would say to them: 'You see Rakhal and the other youngsters. They do not
 practise any spiritual discipline. They simply wander about merrily.'
 
 "A man may live in a mountain cave, smear his body with ashes, observe fasts; and practise austere discipline; but if his mind dwells on worldly objects, on 'woman and

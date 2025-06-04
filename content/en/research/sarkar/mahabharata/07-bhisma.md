@@ -1,7 +1,7 @@
 ---
 title: "The Moral Standard of the Mahábhárata period"
 heading: "Discourse 7"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: "The people were ignorant. But they were not immoral – this was their greatest quality."
 c: "indigo"
 writer:
   name: PR Sarkar

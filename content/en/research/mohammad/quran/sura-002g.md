@@ -2,7 +2,7 @@
 title: "Rules on Food, Fasting, Gambling, and Revenge"
 heading: "Sura 2g"
 weight: 16
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -19,7 +19,7 @@ Do not follow the footsteps of Satan [Enlil], an open enemy. {{< s v="169" >}} H
 Satan's followers will say:  {{< s v="168" >}} <!-- And when it is said to them, “Follow what Enki has revealed,” they say, --> 
 
 
-{{< r a="Enlil-Followers" >}}
+{{< r a="Enlil Followers" >}}
 We follow what we found our ancestors following.
 {{< /r >}}
 

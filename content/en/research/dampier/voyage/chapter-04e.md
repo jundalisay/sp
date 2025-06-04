@@ -1,5 +1,5 @@
 ---
-title: ISLES OF SIBBEL DE WARD"
+title: "Isles Of Sibbel De Ward"
 heading: "Chapter 4e"
 weight: 24
 writer:
@@ -10,25 +10,69 @@ description: "I saw a few flamingos, which is a sort of large fowl"
 icon: "William Dampier"
 ---
 
-## 1684.
+## 1684
 
-At first we could scarcely lie south-west but, being got a degree to the southward of the Line, the wind veered most easterly, and then we stemmed south-west by south and as we got farther to the southward, so the wind came about to the eastward and freshened upon us. In the latitude of 3 south we had the wind at south-east. In the latitude of 5 we had it at east south where it stood a considerable time and blew a fresh top-gallant gale. We then made the best use of it, steering on briskly with all the sail we could make; and this wind, by the 18th of January carried us into the latitude of 36 south. In all this time we met with nothing worthy remark; not so much as a fish except flying fish, which have been so often described that I think it needless to do it.
+At first we could scarcely lie south-west. But, being got a degree to the southward of the Line, the wind veered most easterly.
 
-A SEA DEEP AND CLEAR, YET PALE.
+Then we stemmed south-west by south and as we got farther to the southward, so the wind came about to the eastward and freshened upon us. 
 
-Here we found the sea much changed from its natural greenness to a white or palish colour, which caused us to sound, supposing we might strike ground: for whenever we find the colour of the sea to change we know we are not far from land or shoals which stretch out into the sea, running from some land. But here we found no ground with one hundred fathom line. I was this day at noon by reckoning 48 degrees 50 minutes west from the Lizard, the variation by our morning amplitude 15 degrees 10 minutes east, the variation increasing. The 20th day one of our surgeons died much lamented, because we had but one more for such a dangerous voyage.
+In the latitude of 3 south we had the wind at south-east. 
 
-ISLES OF SIBBEL DE WARD.
+In the latitude of 5 we had it at east south where it stood a considerable time and blew a fresh top-gallant gale. 
 
-January 28 we made the Sibbel de Wards which are 3 islands lying in the latitude of 51 degrees 25 minutes south and longitude west from the Lizard in England, by my account, 57 degrees 28 minutes. The variation here we found to be 23 degrees 10 minutes. I had for a month before we came hither endeavoured to persuade Captain Cook and his company to anchor at these islands, where I told them we might probably get water, as I then thought, and in case we should miss of it here, yet by being good husbands of what we had we might reach Juan Fernandez in the South Seas before our water was spent. This I urged to hinder their designs of going through the Straits of Magellan, which I knew would prove very dangerous to us; the rather because, our men being privateers and so more wilful and less under command, would not be so ready to give a watchful attendance in a passage so little known. For, although these men were more under command than I had ever seen any privateers, yet I could not expect to find them at a minute's call in coming to an anchor or weighing anchor: beside, if ever we should have occasion to moor or cast out two anchors, we had not a boat to carry out or weigh an anchor. These islands of Sibbel de Wards were so named by the Dutch. They are all three rocky barren islands without any tree, only some dildoe-bushes growing on them: and I do believe there is no water on any one of them, for there was no appearance of any water. The two northermost we could not come near; but the southermost we came close by, but could not strike ground till within two cables' length of the shore, and there found it to be foul rocky ground.
+We then made the best use of it, steering on briskly with all the sail we could make; and this wind, by the 18th of January carried us into the latitude of 36 south.
 
-SMALL RED LOBSTERS.
+In all this time we met with nothing noteworthy, only for flying fish.
 
-From the time that we were in 10 degrees south till we came to these islands we had the wind between east-north-east and the north-north-east, fair weather and a brisk gale. The day that we made these islands we saw great shoals of small lobsters which coloured the sea in red spots for a mile in compass, and we drew some of them out of the sea in our water-buckets. They were no bigger than the top of a man's little finger, yet all their claws, both great and small, like a lobster. I never saw any of this sort of fish naturally red but here; for ours on the English coast, which are black naturally, are not red till they are boiled: neither did I ever anywhere else meet with any fish of the lobster shape so small as these; unless, it may be, shrimps or prawns: Captain Swan and Captain Eaton met also with shoals of this fish in much the same latitude and longitude.
 
-STRAIT LE MAIRE.
+### A SEA DEEP AND CLEAR, YET PALE
 
-Leaving therefore the Sibbel de Ward Islands, as having neither good anchorage nor water, we sailed on, directing our course for the Straits of Magellan. But, the winds hanging in the wester-board and blowing hard, oft put us by our topsails, so that we could not fetch it. The 6th day of February we fell in with the Straits Le Maire, which is very high land on both sides, and the straits very narrow. We had the wind at north-north-west a fresh gale; and, seeing the opening of the straits, we ran in with it, till within four mile of the mouth, and then it fell calm, and we found a strong tide setting out of the straits to the northward, and like to founder our ship; but whether flood or ebb I know not; only it made such a short cockling sea as if it had been in a race, or place where two tides meet; for it ran every way, sometimes breaking in over our waist, sometimes over our poop, sometimes over our bow, and the ship tossed like an eggshell, so that I never felt such uncertain jerks in a ship. At 8 o'clock in the evening we had a small breeze at west-north-west and steered away to the eastward, intending to go round the States Island, the east end of which we reached the next day by noon, having a fresh breeze all night.
+The sea here is much changed from its natural greenness to a white or palish colour.
+
+This caused us to sound, supposing we might strike ground: for whenever we find the colour of the sea to change we know we are not far from land or shoals which stretch out into the sea, running from some land. 
+
+But here we found no ground with one hundred fathom line. I was this day at noon by reckoning 48 degrees 50 minutes west from the Lizard, the variation by our morning amplitude 15 degrees 10 minutes east, the variation increasing. 
+
+The 20th day one of our surgeons died much lamented, because we had but one more for such a dangerous voyage.
+
+
+### ISLES OF SIBBEL DE WARD
+
+January 28 we made the Sibbel de Wards which are 3 islands lying in the latitude of 51 degrees 25 minutes south and longitude west from the Lizard in England, by my account, 57 degrees 28 minutes.
+
+The variation here we found to be 23 degrees 10 minutes.
+
+I had for a month before we came hither endeavoured to persuade Captain Cook and his company to anchor at these islands, where I told them we might probably get water, as I then thought, and in case we should miss of it here, yet by being good husbands of what we had we might reach Juan Fernandez in the South Seas before our water was spent.
+
+This I urged to hinder their designs of going through the Straits of Magellan, which I knew would prove very dangerous to us; the rather because, our men being privateers and so more wilful and less under command, would not be so ready to give a watchful attendance in a passage so little known. 
+
+These men were more under command than I had ever seen any privateers. Yet they would not come at a minute's call in coming to an anchor or weighing anchor.
+
+Besides, if ever we should have occasion to moor or cast out two anchors, we had not a boat to carry out or weigh an anchor. 
+
+These islands of Sibbel de Wards were so named by the Dutch.
+
+They are 3 rocky barren islands without any tree, only some dildoe-bushes growing on them: and I do believe there is no water on any one of them, for there was no appearance of any water.
+
+The 2 northermost we could not come near; but the southermost we came close by, but could not strike ground till within two cables' length of the shore, and there found it to be foul rocky ground.
+
+
+### SMALL RED LOBSTERS
+
+From the time that we were in 10 degrees south till we came to these islands we had the wind between east-north-east and the north-north-east, fair weather and a brisk gale.
+
+The day that we made these islands we saw great shoals of small lobsters which coloured the sea in red spots for a mile in compass, and we drew some of them out of the sea in our water-buckets. They were no bigger than the top of a man's little finger, yet all their claws, both great and small, like a lobster. 
+
+I never saw any of this sort of fish naturally red but here; for ours on the English coast, which are black naturally, are not red till they are boiled: neither did I ever anywhere else meet with any fish of the lobster shape so small as these; unless, it may be, shrimps or prawns: Captain Swan and Captain Eaton met also with shoals of this fish in much the same latitude and longitude.
+
+
+### STRAIT LE MAIRE
+
+Leaving therefore the Sibbel de Ward Islands, as having neither good anchorage nor water, we sailed on, directing our course for the Straits of Magellan. 
+
+But, the winds hanging in the wester-board and blowing hard, oft put us by our topsails, so that we could not fetch it. The 6th day of February we fell in with the Straits Le Maire, which is very high land on both sides, and the straits very narrow. We had the wind at north-north-west a fresh gale; and, seeing the opening of the straits, we ran in with it, till within four mile of the mouth, and then it fell calm.
+
+We found a strong tide setting out of the straits to the northward, and like to founder our ship; but whether flood or ebb I know not; only it made such a short cockling sea as if it had been in a race, or place where two tides meet; for it ran every way, sometimes breaking in over our waist, sometimes over our poop, sometimes over our bow, and the ship tossed like an eggshell, so that I never felt such uncertain jerks in a ship. At 8 o'clock in the evening we had a small breeze at west-north-west and steered away to the eastward, intending to go round the States Island, the east end of which we reached the next day by noon, having a fresh breeze all night.
 
 STATES ISLAND.
 

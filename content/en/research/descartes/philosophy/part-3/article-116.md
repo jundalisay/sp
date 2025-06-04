@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 116. How a Vortex Can Be Destroyed Before Many Spots Accumulate Around Its Star
+## 116. How a Vortex Can Be Destroyed Before Many Spots Accumulate Around Its Star
 
 There is no danger of any vortex being destroyed by neighboring vortices as long as the star at its center is not enveloped by spots.
 
@@ -36,7 +36,7 @@ Nothing else can maintain `Vortex N` in its current position except for the grea
 This force is weakened and broken by the intervention of spots.
 
 
-#### 117. How Many Spots Can Form Around a Star Before Its Vortex is Destroyed
+## 117. How Many Spots Can Form Around a Star Before Its Vortex is Destroyed
 
 `Vortex C` is located among four vortices `S, F, G, H` and two others `M` and `N` above these four. 
 
@@ -53,9 +53,11 @@ This arrangement allows the motions of these 7 vortices to be perfectly coordina
 Therefore, even if the star of `Vortex C` is buried under many spots, such that it has very little or no force left to carry the surrounding air-aether globules in orbit, the other six can expel it from its place as long as they remain equally strong among themselves.
 
 
-#### 118. How Many Spots Are Generated Around a Star
+## 118. How Many Spots Are Generated Around a Star
 
-To understand how so many spots could form around it, let us suppose that `Vortex C` was originally no smaller than any of the six surrounding it. Its circumference extends to points `1234`, with a very large star in its center  <!-- composed of the first element's matter,  --> which moved directly towards C from three vortices `S, F`, and `M` via `D`, and from three others `G, H`, and `N` via `E`. 
+To understand how so many spots could form around it, let us suppose that `Vortex C` was originally no smaller than any of the six surrounding it. 
+
+Its circumference extends to points `1234`, with a very large star in its center  <!-- composed of the first element's matter,  --> which moved directly towards C from three vortices `S, F`, and `M` via `D`, and from three others `G, H`, and `N` via `E`. 
 
 This star did not retreat from these vortices except back towards `K` and `L`. Therefore, they had enough force to carry all the air-aether `1234` in orbit with it.
 
@@ -76,7 +78,7 @@ One neighboring vortex then becomes larger and more powerful than the others.
 For example, `Vortex H` could extend its surface to line `567`. It can easily capture the entire `Star C`, which, no longer fluid and luminous but solid and opaque like a comet or planet, will be carried along with it.
 
 
-#### 119. How a Fixed Star Turns into a Comet or Planet
+## 119. How a Fixed Star Turns into a Comet or Planet
 
 How can such an opaque and solid body, composed of a conglomeration of many spots, move when it is first taken by a neighboring vortex?
 

@@ -2,7 +2,7 @@
 title: "Legislative Process"
 heading: "Chapter 1 Section 8"
 weight: 16
-image: "/flags/br.png"
+c: "darkslategray"
 description: "A supplementary law shall provide for the preparation, drafting, amendment and consolidation of laws"
 icon: "/flags/br.png"
 ---

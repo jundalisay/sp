@@ -51,39 +51,52 @@ Merchants commonly want to become country gentlemen.
 
 ### How Trade and Manufactures Reduced the Power of the Great Proprietors
 
-5 In a country which has neither foreign commerce nor finer manufactures, a great proprietor has nothing to exchange for the excess produce of his lands.
+<sup>5</sup> In a country which has neither foreign commerce nor finer manufactures, a great proprietor has nothing to exchange for the excess produce of his lands.
 
 He consumes such excess in rustic hospitality at home.
 If this surplus is sufficient to maintain 1,000 men, he can use it to maintain only 1,000 men.
+
 He is surrounded with many retainers and dependants at all times.
     In return, they must obey him, for the same reason that soldiers must obey the prince who pays them.
+
 Before the extension of European commerce and manufactures, such hospitality, from the sovereign down to the smallest baron, exceeded everything that we can think of today.
+
 Westminster Hall was the dining-room of William Rufus.
+
 It was perhaps not too large for his company.
+
 Thomas Becket was the Archbishop of Canterbury.
     He strewed the floor of his hall with clean hay for the knights and squires to sit on as they ate dinner.
+
 The great Earl of Warwick entertained 30,000 people every day at his manors.
     This number may have been exaggerated, but it must have been very great.
+
 A hospitality nearly of the same kind was exercised not many years ago in the highlands of Scotland.
     It seems to be common in all nations where commerce and manufactures are little known.
 Doctor Pococke* has seen an Arabian chief dine in the streets of a town where he came to sell his cattle.
     The chief invited all passengers, even common beggars, to sit down with him and partake of his banquet.
 
-* [‘An Arab prince will often dine in the street, before his door, and call to all that pass, even beggars, in the usual expression, ​ Bismillah​ , that is, In the name of God; who come and sit down, and when they have done, give their Hamdellilah​ , that is God be praised. For the Arabs are great levellers, put everybody on a footing with them; and it is by such generosity and hospitality that they maintain their interest.’—Richard Pococke, Description of the East, 1743, vol. i., p. 183.]
+* [‘An Arab prince will often dine in the street, before his door, and call to all that pass, even beggars, in the usual expression, Bismillah , that is, In the name of God; who come and sit down, and when they have done, give their Hamdellilah, that is God be praised. For the Arabs are great levellers, put everybody on a footing with them; and it is by such generosity and hospitality that they maintain their interest.’—Richard Pococke, Description of the East, 1743, vol. i., p. 183.]
 
-6 The occupiers of land were as dependent on the great proprietor as his retainers.
+<sup>6</sup> The occupiers of land were as dependent on the great proprietor as his retainers.
 
 The occupiers who were not serfs were tenants at will. They paid a rent less than the subsistence the land provided.
 
 Some years ago, a crown, half a crown, a sheep, a lamb, was a common rent for lands which maintained a family in the Scottish highlands.
+
 In some places, it is so at this day.
+
 Money there currently will not buy more commodities than in other places.
-In a country where a large estate's surplus produce must be consumed on the estate itself, it will be more convenient for the proprietor that it be consumed near his house if his retainers or menial servants were its consumers.
+
+In a country where a large estate's surplus produce must be consumed on the estate itself, it will be more convenient for the  proprietor that it be consumed near his house if his retainers or menial servants were its consumers.
+
 He saves the embarrassment of having too large a company or family.
+
     A tenant-at-will who has sufficient land to maintain his family in exchange for a quit-rent*, is as dependent on the proprietor as any servant or retainer.
         He must obey him with as little reserve.
+
 Such a proprietor feeds his servants and retainers at his own house and feeds his tenants at their houses.
     The subsistence of both is derived from his bounty.
     Its continuance depends on his pleasure.
 
-> * [A rent, typically a small one, paid by a freeholder in lieu of services required of them.]
+* [A rent, typically a small one, paid by a freeholder in lieu of services required of them.]

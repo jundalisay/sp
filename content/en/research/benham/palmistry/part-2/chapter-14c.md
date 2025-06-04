@@ -1,56 +1,67 @@
 ---
-heading: Chapter 14d
-title: "Via Lascivia"
+heading: "Chapter 14c"
+title: "Racettes and Lines of Travel "
 c: "deeppink"
-description: "This line is a sister line to the line of Mercury"
-weight: 79
+description: "The line of Mars rises on the lower Mount of Mars and runs inside of the Life line and very close beside it"
+weight: 74
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
-This line is seldom seen. It runs as a sister line to the line of Mercury (559). 
+## The Rascettes
 
-It generally occupies a slanting position rising from the inside of the base of the Mount of Moon and ending on the lower part of the upper Mount of Moon near the percussion. 
 
-The subject who had this line would have a superabundance of vitality and good health if it went with a strong line of Mercury and a sister line beside it.
+The Rascettes, or Bracelets, are the lines which cross the wrist at the base of the hand (548). 
+- Sometimes there are three, and there may be only one. 
+- These are of little use, except the first one. 
 
-He would work off a good part of it in lascivious practices especially if his hands were sensual.
+![Saturn](/graphics/palm/548.jpg)
 
-But if they were not, he would expend his surplus energy in whatever sphere of activity that his type would do.
+Traditionally, older palmists add 30 years to the life of a subject for each Bracelet seen. 
 
-Because it occupies a slanting position, and does not rise to the top of the hand was another reason why the line was taken as indicating an operation in the lower world located at the base of the hand. 
+I could not confirm this. I never use them as bearing on longevity. 
 
-If a Via Lascivia be deep and clearly marked, it will have a strong tendency to lower the subject in some directions. 
+<!-- There are other traditions on signs found on the Bracelets which experience has proven false.  -->
 
-He will be more apt to think evil, even if he does not practise it, and temptation will more surely cause him to fall than if the marking were not in his hand. 
+The first Bracelet, if deep, indicates a strong constitution. 
+- With a deep Life line, a deeply cut Rascette will prove an added strength. 
 
-With a soft, pleasure-loving hand, full Mount of Venus, and a well-marked Via Lascivia, the subject will devote himself to pleasure, and will pursue it regardless of the cost in dollars and cents or in consequences. 
+If the Rascette is poorly marked, chained, or broad and shallow, the constitution of the subject is not so strong. 
 
-<!-- The Via Lascivia 710 No. 569. The Via Lascivia 711 No. 560.  -->
+If short branches rise from the Rascettes, it indicates a rising tendency in the life of the subject, ambitious efforts, and a desire to improve.
 
-If the Via Lascivia be seen, estimate carefully and at once the appetites of the subject, and the likelihood that he will be led where pleasure calls, and if any indication be seen that he is a voluptuary, the line will be a menace to his career. If with such a line the Head line becomes defective, the excesses are affecting the brain. 
 
-If with such a hand the Saturn line have islands, pleasure seeking will cause financial embarrassment. If with such a hand a dot or cross be seen on the Apollo line or Mount, the excesses of the subject will ruin his reputation. If a chance line run from a deep Via Lascivia and cut the line of Affection which ends in a fork (560), the lasciviousness of the subject will ruin his married life. 
+## Travel Lines
 
-If a rising branch from the Via Lascivia cut the Apollo line (561), the lascivious tendencies will ruin the success of the subject. The same reading applies to the line of Saturn. If a chance line from the Via Lascivia cross the Life line (562), the lascivious practices of the subject will injure his health and cause illnesses. 
+These are long branches which rise high into the Mount of the Moon. These indicate journeys. 
 
-If after such cutting lines the Life line becomes defective or in any way impaired, the excesses will permanently injure the subject's health. If bars from the Via Lascivia cut the Mercury line (563), the excesses will injure the health and prospects of the subject. 
+These lines increase the restlessness and desire to travel which belongs to a Lunarian subject. He will improve every opportunity of travel which comes to him. 
 
-If a chance line from the Via Lascivia run to a dot in the Life line (564), the excesses will cause a severe illness at the age which the dot indicates. 
+Long lines indicate more restlessness and longer journeys. 
 
-If numerous lines from the Via Lascivia run across the Head line (565), the excesses will weaken and impair the brain, the subject will have many headaches, and if a dot, deep bar, break, or cross occurs in the Head line after these cutting lines, the subject will have an attack of brain fever. 
+When Travel lines are seen, the type of the subject will help to use them correctly. 
 
-If with such a combination a star be seen in the Head line he may become insane as the result of excesses. If a well-marked Via Lascivia be seen, with a strong line of Mars, all the lines deep and red, big Mount of Venus, thick third phalanges and short first phalanges, the subject will debauch himself continually, and if a thick or a clubbed thumb be added, will commit rape, brutal murder, arson, or any crime to accomplish his desires or to hide their commission. 
+- The Lunarian is the most anxious to travel, the Mercurian next. 
+- The Martian, Apollonian, and Jupiterian all like travel to some extent, but most often make journeys with the idea of improving their material success. 
+- The Saturnian will travel in search of knowledge, and the Venusian purely for pleasure. 
 
-If the hand be not so animal, but the line of Mars sweeps across to the Mount of the Moon, and the Via Lascivia is present (566), the subject will drink heavily and commit intolerable excesses. If the Via Lascivia is present as a sister line to the Mercury line, it will repair that line wherever defective. 
+Spatulate tips with Travel lines are the strongest possible confirmatory companions. 
 
-A wavy line of Mercury with a Via Lascivia will not indicate the bad results from biliousness that would occur without it. A broken line of Mercury with a Via Lascivia will not indicate such serious stomach trouble.
+If the hand is very soft, the travels will often be mental ones.
 
-If the Via Lascivia only runs part of the way alongside the Mercury line its strength will be exerted during the time it continues. Whatever period the Via Lascivia covers on the Mercury line will be correspondingly stronger as a result of the companionship. If a Mercury line runs to the Mount of Mercury, the subject will have good health and success. If the Via Lascivia runs beside this line this reading will be doubly certain. 
+I have seen a branch from the Life line to a Travel line (549) indicate the time when a subject retired from business, changed his thoughts from business to books, and mentally travelled a great deal, though actually taking few journeys. 
 
-The Via Lascivia, it will thus appear, has a good side as well as a bad one. To determine which to attribute to a client, estimate him thoroughly Chirognomically. 
+![Saturn](/graphics/palm/549.jpg)
 
-A strong Via Lascivia in a low, animal hand will be read as a menace, and danger of excess. The same line in a fine, high-minded type of hand should be read to indicate fine results. Thus Chirognomy and good judgment must again form the foundation upon which the reading of the line will rest, and with these guides you need never fail in accuracy. 
+These Travel lines must be treated as a part of the Rascettes, for they rise from the first one. One other indication of the first Rascette will complete its usefulness. 
 
-<!-- The Via Lascivia 712 No. 561. The Via Lascivia 713 No. 562. The Via Lascivia 714 No. 563. The Via Lascivia 715 No. 564. The Via Lascivia 716 No. 565. The Via Lascivia 717 No. 566 -->
+When this line rises in the centre (550) it indicates a delicacy of the internal organs contained in the abdomen.
+- In women this means the procreative organs, and constitutes a danger to them in maternity. 
+
+If evidence of female weakness appears on the lower Mount of Moon, or in the Mercury line, the bulging Bracelet will confirm this weakness.
+
+<!-- These are valuable as premarriage indications, denoting the probability of a fruitful marriage.  -->
+
+While these markings do not show absolute sterility they show a defective condition of the parts which will produce the same results. 
+

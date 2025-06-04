@@ -1,16 +1,11 @@
 ---
-title: Beyond the 'Crisis State'
-weight: 4
+title: Introduction
+weight: 2
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+c: darkgreen
+author: Maleeha Lodhi
 ---
-
-
-
-
-BY MALEEHA LODHI
-
 
 <!-- INTRODUCTION
 Dr Maleeha Lodhi10

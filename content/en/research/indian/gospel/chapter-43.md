@@ -10,7 +10,7 @@ description: ""
 
 Tuesday, July 28, 1885
 
-IT WAS ABOUT THREE O'CLOCK in the afternoon. Sri Ramakrishna was sitting in Balarām's drawing-room with the devotees. Among others, Binode, Rākhāl, the younger
+IT WAS ABOUT THREE O'CLOCK in the afternoon. Sri Ramakrishna was sitting in Balarām's drawing-room with the devotees. Among others, Binode, Rakhal, the younger
 Naren, and M. were present. 
 
 The Master had come to Balarām's house in the morning and had taken his midday meal there. At Balarām's house the Deity was worshipped as Jagannāth, and the members of the family partook of the food offered to the Deity; Sri Ramakrishna used to say that the food at Balarām's house was very pure.

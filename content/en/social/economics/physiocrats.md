@@ -10,7 +10,7 @@ description: "Most of the world follows Adam Smith. OPEC follows the Physiocrats
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

@@ -13,7 +13,7 @@ Sunday, February 22, 1885
 
 SRI RAMAKRISHNA was sitting on the northeast verandah outside his room at Dakshineswar. 
 
-It was about eight o'clock in the morning. Many devotees, including Narendra, Rākhāl, Girish, Baburam, and Surendra, were present. They were celebrating
+It was about eight o'clock in the morning. Many devotees, including Narendra, Rakhal, Girish, Baburam, and Surendra, were present. They were celebrating
 the Master's birthday, which had fallen on the previous Monday. M. arrived and saluted
 him. The Master signed to him to take a seat near him.
 
@@ -95,7 +95,7 @@ up and said to the devotees, "Give him a seat and some betel-leaf." He said to B
 humbly: "I am sorry not to be able to talk to you. There is a great crowd today."
 Pointing to Girindra, Sri Ramakrishna said to Baburam, "Give him a carpet." Nityagopal
 was sitting on the floor. The Master asked a devotee to give him a carpet too.
-Physician Mahendra of Sinthi arrived. The Master, smiling, asked Rākhāl by a sign to
+Physician Mahendra of Sinthi arrived. The Master, smiling, asked Rakhal by a sign to
 have the physician examine his pulse.
 Turning to Ramlal, the Master said, "Be friendly with Girish Ghosh; then you will get a
 free ticket to the theatre."

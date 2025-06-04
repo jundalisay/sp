@@ -5,7 +5,7 @@ description: "As single signs, or in combination with each other, the star, tria
 weight: 100
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
@@ -58,8 +58,6 @@ These mould his manners and actions in every walk in life. There are many Jupter
 When the Mount of Jupiter is found full and strong, apex centrally located, finger long and strong, with color of hand pink or red (94), you have located a Jupiterian. 
 
 In this generation you will not often find a pure specimen of the type.
-
-There is generally an accompanying mixture of other types; but the one I here describe is a pure Jupiterian, the leading qualities of the type being always found present where the large Mount of Jupiter is found, although when other Mounts are also well developed it is accompanied by added qualities belonging to other types. 
 
 The pure Jupiterian is of medium height. 
 
@@ -120,7 +118,9 @@ He has a fellow-feeling for humanity that exhibits itself in practical ways. A w
 
 These Jupiterian beneficences are dispensed in a manly, open-hearted way that makes the recipients feel that the donor is glad to give. Here again his nature furnishes him help to carry out the things he was created to do - viz., to attract and lead.
 
-he Jupiterian, in his capacity as a leader, would, if unjust, inflict harm in many ways upon his fellows. With his big, manly way of looking at things he is eminently just, and strives to encourage and support fairness and business honesty. He is a dashing fellow, one who has much attraction for the opposite sex, and will always be found gallant and courteous. He is extravagant. 
+The Jupiterian, in his capacity as a leader, would, if unjust, inflict harm in many ways upon his fellows. 
+
+With his big, manly way of looking at things he is eminently just, and strives to encourage and support fairness and business honesty. He is a dashing fellow, one who has much attraction for the opposite sex, and will always be found gallant and courteous. He is extravagant. 
 
 To him, power and rule mean more than money. If he obtains large sums from his enterprises, he does not hoard it. He has a contempt for anything resembling small dealing or miserliness. 
 
@@ -146,9 +146,16 @@ Their ambition enables them to rise over every obstacle. This, with the other st
 
 Ambition is powerful as a moving force in human success, and the Jupiterian is the embodiment of ambition. He has pride as well, for no man could possess his aristocratic, dignified, ambitious qualities without also having pride in himself and his achievements. 
 
-This pride is but natural; it is not a fault, and for its possession he should not be blamed. To recapitulate =  leadership, ambition, religion, honor, pride, dignity, and an intense love of nature are his predominant characteristics, and these, strengthened by the many accessories carried in their train, should come to your mind when you see him. 
+This pride is natural. He should not be blamed for it.
 
-In his marriage relations the Jupiterian is very ambitious. He matures early in life, and marries when young one of whom he believes he can feel proud. His ambitious desire to have the helpmate shine before the world is not always realized, for a Jupiterian, as well as any other person, may be deceived, so is often unhappily wedded. He is predisposed to marry, and, knowing this, you will not need as strong confirmations of marriage with this type as are needed with some of the other types. 
+Leadership, ambition, religion, honor, pride, dignity, and an intense love of nature are his predominant characteristics. 
+
+
+The Jupiterian is very ambitious in marriage. He matures early in life, and marries when young one of whom he believes he can feel proud. 
+
+His ambitious desire to have the helpmate shine before the world is not always realized, for a Jupiterian may be deceived, so is often unhappily wedded.
+
+He is predisposed to marry, and, knowing this, you will not need as strong confirmations of marriage with this type as are needed with some of the other types. 
 
 In health matters, the Jupiterian is predisposed to certain disorders.
 
@@ -177,4 +184,6 @@ On recognizing strong Jupiterian traits, locate the apex of the Mount. If it is 
 
 If leaning over toward Saturn, the sobriety, sadness, and wisdom of that Mount will hold down the Jupiterian ambition and make it safer, for Jupiter will be guided by Saturn. 
 
-If the apex leans or is marked on the outer edge of the hand opposite Saturn, the Jupiterian qualities will be directed to seeking purely selfish, personal advancement. If the apex lies near the Heart line, the ambition and pride will be for those loved, and if near the line of Head, the ambition will be for intellectual success. 
+If the apex leans or is marked on the outer edge of the hand opposite Saturn, the Jupiterian qualities will be directed to seeking purely selfish, personal advancement.
+
+If the apex lies near the Heart line, the ambition and pride will be for those loved, and if near the line of Head, the ambition will be for intellectual success. 

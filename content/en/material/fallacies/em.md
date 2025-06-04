@@ -32,6 +32,9 @@ Opposite poles attract and fit just like the male part of a lego block fits perf
 
 A magnetic moment in a 'fermion' is therefore a channel for such screws.
 
+
+## Relativity Scam
+
 Physicists wrongly use length contraction to explain electromagnetism. They say that electricity makes the positive charge contract and outnumber the negative charge to create magnetism. 
 
 But this is debunked by the fact that the speed of electricity is very slow. Physicists try to save the theory by saying that only a tiny amount of length contraction is needed. 

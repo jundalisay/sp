@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-#### 33. All places are full of bodies
+## 33. All places are full of bodies
 
 The same parts of matter are always being carried along in every motion, and so bodies are only moved in a circle. 
 
@@ -44,7 +44,7 @@ And so in all the remaining places the speed of movement compensates for the nar
 
 
 
-#### 34. From this follows the division of matter into really indefinite particles incomprehensible to us.
+## 34. From this follows the division of matter into really indefinite particles incomprehensible to us.
 
 <!-- In this motion, there is something that our mind perceives to be true, but yet, how it happens is not fully understood.  -->
 
@@ -59,7 +59,7 @@ This leads to the division of certain particles of matter into infinity, or inde
 <!-- , and any such slight separation constitutes a true division. -->
 
 
-#### 35. How does this division happen?
+## 35. How does this division happen?
 
 <!-- , and that it cannot be doubted that it is, even if it is not understood. -->
 

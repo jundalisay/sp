@@ -12,11 +12,11 @@ weight: 42
 
 <!-- ### Questions and Answers on Microvita – Section C -->
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 If the medicine or mother tincture required for homoeopathic medicine is prepared in a sentient environment which contains positive microvita, will the medicine prepared from that medium or mother tincture have more effect than ordinary medicine available in the market?
 {{< /r >}}
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Medicine prepared in a sentient environment by sentient people, from a medium or mother tincture which is also prepared in a sentient environment, will attract more positive microvita than ordinary medicines. It will have a much greater effect in curing a patient.
 
 If a person contracts a disease caused by negative microvita before initiation and does dhyána sincerely after initiation, the disease will not spread but be contained. 
@@ -27,7 +27,7 @@ If a person contracts a disease caused by negative microvita after initiation, d
 {{< /l >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Dhyána attracts many positive microvita. Negative microvita can only be controlled by positive microvita. 
 
 **The positive microvita eat the negative microvita. This is the reason why the disease is cured.** 
@@ -47,12 +47,12 @@ The patient should also avoid any food which causes gas in the stomach, such as 
 
 <!-- Questions and Answers on Microvita – Section D -->
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 In archaeological history, has positive or negative microvita collectively influenced this earth or the cosmos? What is your guess regarding Atlantis, Oceanis and Gondwanaland?
 {{< /r >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Human beings came here 1 million years ago. But the history of civilization starts from the time of the Rg Veda, 15,000 years ago. 
 
 From 1 million - 15,000 years ago, or 985,000 years, between the Miocene and the Oligocene ages, was human society in a dormant state?

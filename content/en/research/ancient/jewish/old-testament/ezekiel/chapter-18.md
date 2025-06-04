@@ -10,11 +10,11 @@ c: "firebrick"
 {{< l a="Enki" >}}
 <sup>1-2</sup> [To Ezekiel] You people have a proverb: The fathers have eaten sour grapes, and the children’s teeth are set on edge. What does it mean?
 
-3} As long as I live, you shall not need this proverb in Israel. 
+3 As long as I live, you shall not need this proverb in Israel. 
 
-4} All souls are mine -- the soul of the father, the son. The soul that sins shall die.
+4 All souls are mine -- the soul of the father, the son. The soul that sins shall die.
 
-5} But a man shall surely live if he
+5 But a man shall surely live if he
 - is just, does which is lawful and right
 - 6} has not eaten on the mountains
 - has not lifted up his eyes to the idols of the Israelites
@@ -31,10 +31,11 @@ c: "firebrick"
 
 
 {{< l a="Enki" >}}
-10} If he beget a son [that is] a robber, a shedder of blood, and [that] doeth the like to [any] one of these [things, ]11} And that doeth not any of those [duties,] but even hath eaten upon the mountains, and defiled his neighbour’s wife, 12} Hath oppressed the poor and needy, hath spoiled by violence, hath not restored the pledge, and hath lifted up his eyes to the idols, hath committed abomination, 13} Hath given forth upon usury, and hath taken increase: shall he then live? he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him.
+10 If he beget a son that is a robber, a shedder of blood, and does similar things, 11 but does not do any of those duties, but even hath eaten upon the mountains, and defiled his neighbour’s wife, 12} Hath oppressed the poor and needy, hath spoiled by violence, hath not restored the pledge, and hath lifted up his eyes to the idols, hath committed abomination, 13} Hath given forth upon usury, and hath taken increase: shall he then live? 
 
+he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him.
 
-14} Now, lo, [if] he beget a son, that seeth all his father’s sins which he hath done, and considereth, and doeth not such like, 15} [That] hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the Israelites, hath not defiled his neighbour’s wife, 16} Neither hath oppressed any, hath not withholden the pledge, neither hath spoiled by violence, [but] hath given his bread to the hungry, and hath covered the naked with a garment, 17} [That] hath taken off his hand from the poor, [that] hath not received usury nor increase, hath executed my judgments, hath walked in my statutes; he shall not die for the iniquity of his father, he shall surely live. 18} [As for] his father, because he cruelly oppressed, spoiled his brother by violence, and did [that] which [is] not good among his people, lo, even he shall die in his iniquity.
+14 If he beget a son, that seeth all his father’s sins which he hath done, and considereth, and doeth not such like, 15} [That] hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the Israelites, hath not defiled his neighbour’s wife, 16} Neither hath oppressed any, hath not withholden the pledge, neither hath spoiled by violence, [but] hath given his bread to the hungry, and hath covered the naked with a garment, 17} [That] hath taken off his hand from the poor, [that] hath not received usury nor increase, hath executed my judgments, hath walked in my statutes; he shall not die for the iniquity of his father, he shall surely live. 18} [As for] his father, because he cruelly oppressed, spoiled his brother by violence, and did [that] which [is] not good among his people, lo, even he shall die in his iniquity.
 {{< /l >}}
 
 

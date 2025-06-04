@@ -14,7 +14,7 @@ icon: "Rene Descartes"
 {{< n n="Here we replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 112. Description of a Star Gradually Disappearing
+## 112. Description of a Star Gradually Disappearing
 
 <!-- rarefied -->
 If this spot becomes so thin and decompressed that it dissolves due to the fire-aether spreading over its outer surface, `Star I` will not easily disappear again afterward. 
@@ -39,7 +39,7 @@ These inner globules are pressed and interwoven with the branched particles of t
 Thus, they will easily congregate into spots there.
 
 
-#### 113. Many Channels Excavated by Virtual Photons in All Spots
+## 113. Many Channels Excavated by Virtual Photons in All Spots
 
 Virtual Photons continuously:
 - excavate channels for themselves in the crusts of all these spots
@@ -60,7 +60,7 @@ But they do not always maintain the same position due to following the motion of
 Therefore, they do not easily admit the virtual photons moving straight through them.
 
 
-#### 114. The Same Star Can Appear and Disappear in Turns
+## 114. The Same Star Can Appear and Disappear in Turns
 
 The same fixed star can appear and disappear in turns, being enveloped in a new vortex of spots each time it appears. 
 
@@ -74,7 +74,7 @@ Thus, when all celestial vortices are in a certain equilibrium, the matter of on
 
 
 
-#### 115. The possibility of the entire vortex containing a star being destroyed
+## 115. The possibility of the entire vortex containing a star being destroyed
 
 It is also possible for the entire vortex containing such a fixed star to be absorbed by surrounding vortices. Its star can be taken into one of these vortices and transformed into a planet or comet. 
 
@@ -82,7 +82,9 @@ Only 2 causes prevent vortices from being destroyed by others:
 
 1. One cause, which consists in the matter of one vortex being impeded by the presence of neighboring vortices from spreading towards another, does not apply universally.
 
-For example, if the air-aether of vortex `S` is pressed on both sides by vortex `L` and `N` to prevent it from proceeding further towards `D`, it cannot similarly be prevented by vortex `D` from spreading towards L and N, nor by any others except those closest to it in proportion to their size. Therefore, it does not apply to the very closest vortices. 
+For example, if the air-aether of vortex `S` is pressed on both sides by vortex `L` and `N` to prevent it from proceeding further towards `D`, it cannot similarly be prevented by vortex `D` from spreading towards L and N, nor by any others except those closest to it in proportion to their size. 
+
+Therefore, it does not apply to the very closest vortices. 
 
 2. The other cause, which is that the matter of the first element forming the star in the center of each vortex repels the globules of the second element surrounding it towards other neighboring vortices, applies to all those vortices whose stars are not enveloped by spots. 
 

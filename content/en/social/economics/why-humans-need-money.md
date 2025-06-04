@@ -7,7 +7,7 @@ description : Humans need money because of naturally limited cognition of the hu
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 --- 
 
 

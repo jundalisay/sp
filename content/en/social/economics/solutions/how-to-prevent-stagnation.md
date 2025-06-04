@@ -7,7 +7,7 @@ description: "Adam Smith talked about stagnation in Book 1 Chapter 9 of the Weal
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

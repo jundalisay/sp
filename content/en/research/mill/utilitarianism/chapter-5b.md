@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 16
 contributors: ['John Stuart Mill']
 description: "Some Communists consider it unjust that the produce of the labour of the community should be shared only based on exact equality"
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 ---
 
 

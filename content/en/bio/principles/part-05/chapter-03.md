@@ -11,11 +11,11 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
-icon: "/icons/spmed.png"
+# icon: "/icons/spmed.png"
 ---
 
 
-{{< q a="Sarkar" c="The Rule of Rationality" >}}
+{{< q a="PR Sarkar" c="The Rule of Rationality" >}}
 A quinquelemental science should be applied to cure certain ailments associated with the physical body.
 {{< /q >}}
 

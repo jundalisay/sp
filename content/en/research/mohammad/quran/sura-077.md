@@ -2,7 +2,7 @@
 title: "The Unleashed (al-Mursalat)"
 heading: "Sura 77a "
 weight: 226
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

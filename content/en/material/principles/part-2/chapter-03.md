@@ -14,7 +14,7 @@ icon: "Juan"
 
 
 
-The Spatial Layer is made up of 3 media based on the 3 Influences Model:
+All changes, motion, and 'forces' in the spatial layer happens through the spatial media which have 3 kinds based on the 3 Influences Model:
 
 Sublayer | Media | Notes
 --- | --- | ---
@@ -22,11 +22,14 @@ Upper | Timespace | Time is dominant
 Middle | Aetherspace | Alternates between time and space (i.e. probabilistic)
 Lower | Spacetime | Space is dominant
 
-{{< img src="/graphics/physics/spacetimeratio.png" alt="The 3 Media of the Spaital Layer" cap="The Aethereal, Spatial, and Radiant Layers" >}}
+{{< img src="/graphics/physics/spacetimeratio.png" alt="The 3 Media of the Spatial Layer" cap="The Aethereal, Spatial, and Radiant Layers" >}}
 
 - Timespace is the sublayer where time predominates and space is minimal. 
 - Spacetime is the sublayer where space predominates and time is minimal. 
 - Aetherspace is the layer that combines both timespace and spacetime in order to have an arena for both physical and metaphysical perceptions. 
+
+{{< img src="/graphics/physics/msq.jpg" alt="MSQ Model " cap="The subdivision of the saptial layer within the 5 layer model. Note how the edge of the visible universe separates spacetime and the aetherspace" >}}
+
 
 
 ### The Various Forces from the Spatial Media
@@ -52,19 +55,18 @@ Spacetime or Empty Space | {{< i s="/graphics/physics/general.jpg" a="Spacetime"
 Aetherspace | | This the space inside an atom and other places that are too small for qosts -->
 
 
-
-
 ### The Spatial Layer has Different Dynamics in Other Universes
 
+In one of the Essassani transmissions, Bashar mentions a solar system (or galaxy?) that has reverse gravity, allowing creatures to walk on the sky of their planet.
 
-In our galaxy, mosts are arranged with particles facing outwards. This causes material spheres.
+To explain this, we say that in our galaxy, mosts are arranged with particles facing outwards. This causes material spheres.
 
-However, in other galaxies they might be facing inwards. This would create a reverse gravity wherein creatures would walk on the sky of planets. 
+However, in other galaxies the mosts might be facing inwards. This would create a reverse gravity wherein creatures would walk on the sky of planets.
 
 
 {{< img src="/graphics/physics/reverse.jpg" alt="Reverse Gravity" cap="Reverse gravity could be possible in other galaxies" >}}
 
-
+Material Superphysics is robust enough to account for the different Physics in other galaxies because it is based on the aether, which is totally flexible.
 
 
 <!-- decided that most3 act like fluids by being less rigid, allowing them to convert from most3 to qosts. 

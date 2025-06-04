@@ -4,7 +4,7 @@ weight: 100
 writer:
   name: Nikola Tesla
   url: https://en.wikipedia.org/wiki/Nikola_Tesla
-image:  "/photos/physics/quasar.jpg"
+c: "darkgoldenrod"
 description: "In the past, I considered the production of electricity by burning coal in a battery as the greatest achievement toward the advancing civilization"
 ---
 

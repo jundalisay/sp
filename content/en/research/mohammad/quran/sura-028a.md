@@ -3,7 +3,7 @@ title: The Story of Moses (in al-Qasas)
 # title: "History (al-Qasas)"
 heading: "Sura 28 "
 weight: 132
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -28,7 +28,7 @@ Hamaan, and their troops were sinners.
 
 {{< s v="9" >}} 
 
-{{< l a="Wife-of-Paraoh" >}}
+{{< l a="Wife" >}}
 An eye's delight for me and for you. Do not kill him. Perhaps he will be useful to us, or we may adopt him as a son.” 
 {{< /l >}}
 
@@ -40,8 +40,8 @@ But they did not foresee.
 
 12. We forbade him breastfeeding at first. So she said:
 
-{{< l a="Wife-of-Paraoh" >}}
-“Shall I tell you about a family that can raise him for you, and will look after him?
+{{< l a="Wife" >}}
+Shall I tell you about a family that can raise him for you, and will look after him?
 {{< /l >}}
 
 13. Thus We returned him to his mother, that she may be comforted, and not grieve, and know that Enki’s promise is true. But most of them do not know. 
@@ -55,10 +55,10 @@ But they did not foresee.
 The one of his sect ask for his help. So Moses punched and killed his enemy.
 
 {{< l a="Moses" >}}
-This is of Satan's doing. He is an enemy that openly misleads.
+This is of Enlil's doing. He is an enemy that openly misleads.
 {{< /l >}}
 
-{{< r a="Sect-member" >}}
+{{< r a="Sect Member" >}}
 My Lord, I have wronged myself, so forgive me. In as much as you will favor me, I will never be a supporter of the criminals.
 {{< /r >}}
 
@@ -121,7 +121,7 @@ My father is calling you, to reward you for drawing water for us.
 
 When he came to him, and told him the story, he said:
 
-{{< r a="Old-man" >}}
+{{< r a="Father" >}}
 Do not fear, you have escaped from the wrongdoing people.
 {{< /r >}}
 
@@ -129,7 +129,7 @@ Do not fear, you have escaped from the wrongdoing people.
 Father, hire him; the best employee for you is the strong and trustworthy.
 {{< /r >}}
 
-{{< r a="Old-man" >}}
+{{< r a="Father" >}}
 I want to marry you to one of these two daughters of mine, provided you work for me for 8 years. But if you complete 10, that is up to you. I do not intend to impose any hardship on you. I am one of the righteous.
 {{< /r >}}
 
@@ -155,19 +155,19 @@ Moses, it is I, Enki, the Lord of the Worlds. Throw down your staff.
 When he saw it wiggling, as if it were possessed, he turned his back to flee, and did not look back.
 
 {{< r a="Enki" >}}
-O Moses, come forward, and do not fear, you are perfectly safe. Put your hand inside your pocket, and it will come out white, without blemish. Press your arm to your side, against fear. These are two proofs from your Lord, to Pharaoh and his dignitaries. They are truly sinful people.
+O Moses, come forward, and do not fear, you are perfectly safe. Put your hand inside your pocket, and it will come out white, without blemish. 
+
+Press your arm to your side, against fear. These are two proofs from your Lord, to Pharaoh and his dignitaries. They are truly sinful people.
 {{< /r >}}
 
-33-34 
+
 {{< l a="Moses" >}}
-My Lord, I have killed one of them, and I fear they will kill me. My brother Aaron is more eloquent than me. So send him with me, to help me, and to confirm my words, for I fear they will reject me.”
+33-34. My Lord, I have killed one of them, and I fear they will kill me. My brother Aaron is more eloquent than me. So send him with me, to help me, and to confirm my words, for I fear they will reject me.”
 {{< /l >}}
 
 
-35. 
-
 {{< r a="Enki" >}}
-We will strengthen your arm with your brother and give you authority so they will not touch you. By virtue of Our signs, you and those who follow you will be the triumphant.
+35. We will strengthen your arm with your brother and give you authority so they will not touch you. By virtue of Our signs, you and those who follow you will be the triumphant.
 {{< /r >}}
 
 36. But when Moses came to them with Our signs, clear and manifest, they said:
@@ -176,18 +176,16 @@ We will strengthen your arm with your brother and give you authority so they wil
 This is nothing but fabricated magic, and We never heard of this from our ancestors.
 {{< /r >}}
 
-37
+
 {{< l a="Moses" >}}
-My Lord is aware of:
+37. My Lord is aware of:
 - him who brings guidance from Him, and 
 - him who will have the sequel of the abode. The wrongdoers will not succeed.
 {{< /l >}}
 
 
-38. 
-
 {{< r a="Pharaoh" >}}
-O nobles, I know of no god for you other than me. So fire-up the bricks for me O Hamaan, and build me a tower, that I may ascend to the God of Moses, though I think he is a liar.
+38. O nobles, I know of no god for you other than me. So fire-up the bricks for me O Hamaan, and build me a tower, that I may ascend to the God of Moses, though I think he is a liar.
 {{< /r >}}
 
 

@@ -7,7 +7,7 @@ description : "The concept that best matches the invisible hand is simply the as
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# icon: /icons/pantry.png
+# icon: "Supereconomics"
 weight: 2
 toc: false
 ---

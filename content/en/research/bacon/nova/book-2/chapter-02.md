@@ -1,6 +1,6 @@
 ---
 title: "Rule for Transforming Bodies"
-heading: Chapter 1b
+heading: Chapter 2
 weight: 4
 description: ""
 c: "steelblue"

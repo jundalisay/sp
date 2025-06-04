@@ -2,7 +2,7 @@
 title: "The Woman Tested (al-Mumtahina)"
 heading: "Sura 60"
 weight: 196
-c: "seagreen"
+c: "firebrick"
 description: "Do not take My enemies and your enemies for supporters"
 ---
 
@@ -34,29 +34,26 @@ When they said to their people:
 Except for the words of Abraham to his father:
 
 {{< l a="Abraham" >}}
-I will ask forgiveness for you, though I have no power from Enki to do anything for you.” “Our Lord, in You we trust, and to You we repent, and to You is the ultimate resort.
+I will ask forgiveness for you, though I have no power from Enki to do anything for you.
 {{< /l >}}
 
 
-{{< s v="5" >}}  Our Lord, do not make us a target for those who disbelieve, and forgive us, our Lord.”
+{{< s v="5" >}} Our Lord, do not make us a target for those who disbelieve, and forgive us, our Lord.”
 
-<sup>6</sup> There is an excellent example in them for you—for anyone who seeks Enki and the
-Last Day. 
+<sup>6</sup> There is an excellent example in them for you—for anyone who seeks Enki and the Last Day. 
 
 But whoever turns away—Enki is the Self-Sufficient, the Most Praised.
 
 <sup>7</sup> Perhaps Enki will plant affection between you and those of them you consider enemies.
 
-<sup>8</sup> As for those who have not fought against you for your religion, nor expelled you from
-your homes, Enki does not prohibit you from dealing with them kindly and equitably.
-Enki loves the equitable.
+<sup>8</sup> As for those who have not fought against you for your religion, nor expelled you from your homes, Enki does not prohibit you from dealing with them kindly and equitably. 
+
 
 {{< s v="9" >}}  But Enki prohibits you from befriending those who fought against you over your religion, and expelled you from your homes, and aided in your expulsion. Whoever takes them for friends—these are the wrongdoers.
 
 {{< s v="10" >}}  Muslims,  When believing women come to you emigrating, test them. Enki is Aware of their faith. 
 
-And if you find them to be faithful, do not send them back to the unbelievers. They are not lawful for them, nor are they lawful for them. But give them
-what they have spent. 
+And if you find them to be faithful, do not send them back to the unbelievers. They are not lawful for them, nor are they lawful for them. But give them what they have spent. 
 
 You are not at fault if you marry them, provided you give them
 their compensation. 

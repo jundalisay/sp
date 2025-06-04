@@ -1,9 +1,10 @@
 ---
 title: The Difficult Road Back to Strategic Assertion
-weight: 43
-# date: 2023-06-17
+weight: 108
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 15c
+c: darkgreen
+author: Munir Akram
 ---
 
 
@@ -77,16 +78,7 @@ Pakistani and Indian Premiers. But India has not been persuaded to resume
 the broad based 'composite' dialogue; nor shown the slightest inclination
 to address the Kashmir dispute or arms control and security issues.
 
-At the 'Nuclear Summit' in April 2010 President Obama scrupulously avoided past demonisation of Pakistan. Nevertheless,
-Pakistan was asked to agree to the start of negotiations on the Treaty to
-ban fissile material production, apparently in exchange for the unnecessary
-and non-deliverable demand made by Pakistan that the US 'recognise' its
-nuclear 'status'. Pakistan already has recognition as a de facto nuclear
-weapon state. It does not need, nor will it get, de jure recognition from the
-US, or the international community, in the foreseeable future. Nor will
-any 'recognition' by the US imply that the overt and covert attempts to
-constrain and neutralise Pakistan's nuclear deterrence capabilities will
-end.
+At the 'Nuclear Summit' in April 2010 President Obama scrupulously avoided past demonisation of Pakistan. Nevertheless, Pakistan was asked to agree to the start of negotiations on the Treaty to ban fissile material production, apparently in exchange for the unnecessary and non-deliverable demand made by Pakistan that the US 'recognise' its nuclear 'status'. Pakistan already has recognition as a de facto nuclear weapon state. It does not need, nor will it get, de jure recognition from the US, or the international community, in the foreseeable future. Nor will any 'recognition' by the US imply that the overt and covert attempts to constrain and neutralise Pakistan's nuclear deterrence capabilities will end.
 
 Clearly, within the present US strategic parameters, it is unlikely that
 it will help Pakistan to address the more fundamental challenges posed by
@@ -106,28 +98,9 @@ Jammu and Kashmir remain vital for Pakistan for multiple reasons:
 
 Nowhere is Pakistan's strategic decline more visible than on the Kashmir dispute. Due to a series of policy mistakes, India's palpably unjust position on Kashmir now evokes greater international understanding and sympathy than the legally and morally correct position traditionally taken by Pakistan, i.e. that the future of Kashmir should be decided by the Kashmiri people, through a free and fair referendum conducted by the UN, as prescribed by several UN Security Council resolutions.
 
-The Kashmiri revolt against Indian oppression that erupted in
-December 1989 was a golden opportunity for Pakistan to press for a fair and
-durable solution for the dispute. It was lost. Pakistan, still under the heady
-aura of the 'jihadi' victory over the Soviets in Afghanistan, opted to support
-religiously motivated groups to spearhead the Kashmiri freedom struggle.
-Soon, these groups assumed a life and agenda of their own, often inimical to
-the aspirations and culture of the Kashmiris. Indian intelligence infiltrated
-these groups. The acts of barbarism perpetrated by some of them e.g. the Al-
-Faran incident in the early 1990s were duly exploited by India to press for the
-delegitimisation of the Kashmiri freedom struggle. Following 9/11, and the
-attack on the Indian Parliament, Pakistan was obliged, under US pressure, to
-halt 'cross-border' support to the Kashmiris. No concessions were secured
-from India in exchange for this commitment.
+The Kashmiri revolt against Indian oppression that erupted in December 1989 was a golden opportunity for Pakistan to press for a fair and durable solution for the dispute. It was lost. Pakistan, still under the heady aura of the 'jihadi' victory over the Soviets in Afghanistan, opted to support religiously motivated groups to spearhead the Kashmiri freedom struggle. Soon, these groups assumed a life and agenda of their own, often inimical to the aspirations and culture of the Kashmiris. Indian intelligence infiltrated these groups. The acts of barbarism perpetrated by some of them e.g. the Al- Faran incident in the early 1990s were duly exploited by India to press for the delegitimisation of the Kashmiri freedom struggle. Following 9/11, and the attack on the Indian Parliament, Pakistan was obliged, under US pressure, to halt 'cross-border' support to the Kashmiris. No concessions were secured from India in exchange for this commitment.
 
-Although it is axiomatic that negotiations pursued from a position of
-weakness cannot yield a fair result, an ill-considered endeavour was
-launched—through back-door diplomacy entrusted to a close aide of
-President Pervez Musharraf with no knowledge of India-Pakistan relations or
-308Kashmir—to seek a compromise that, we know now, would have confirmed
-the status quo, if not worsened it. Fortunately, India delayed acceptance of this
-'compromise'. The political turmoil in Pakistan after the 2007 Chief Justice
-crisis, rendered the exercise infructious.
+Although it is axiomatic that negotiations pursued from a position of weakness cannot yield a fair result, an ill-considered endeavour was launched—through back-door diplomacy entrusted to a close aide of President Pervez Musharraf with no knowledge of India-Pakistan relations or 308Kashmir—to seek a compromise that, we know now, would have confirmed the status quo, if not worsened it. Fortunately, India delayed acceptance of this 'compromise'. The political turmoil in Pakistan after the 2007 Chief Justice crisis, rendered the exercise infructious.
 
 Pakistan's ability to negotiate a just solution for Kashmir is no better
 today than five years ago. A credible freedom struggle cannot be revived
@@ -135,45 +108,25 @@ quickly. For the sake of its international image, its internal stability and its
 socio-economic aspirations, Pakistan has no choice but to suppress the
 violent proclivities of the jihadi groups.
 
-At the same time, there is also no compulsion on Pakistan to
-concede its traditional position on Kashmir. Pakistan cannot impose a
-Kashmir solution on India. But nor can India impose a solution on
-Pakistan. The persistence of the status quo may not be a desirable situation,
-particularly for the oppressed Kashmiris. But they have displayed
-remarkable resilience. They have not given up their aspiration to be free
-of Indian rule. Pakistan can do no less than to respect their aspirations.
-Sooner or later, the Kashmiris will revolt again against India's rule.
-Pakistan should be in a position to help them at such time to achieve their
-aspirations. Meanwhile, India's occupation of Kashmir locks up almost a
-third of its land force, enhancing Pakistan's ability to balance India's
-numerically larger army.
+At the same time, there is also no compulsion on Pakistan to concede its traditional position on Kashmir. Pakistan cannot impose a Kashmir solution on India. But nor can India impose a solution on Pakistan. The persistence of the status quo may not be a desirable situation, particularly for the oppressed Kashmiris. But they have displayed remarkable resilience. They have not given up their aspiration to be free of Indian rule. Pakistan can do no less than to respect their aspirations. Sooner or later, the Kashmiris will revolt again against India's rule. Pakistan should be in a position to help them at such time to achieve their aspirations. Meanwhile, India's occupation of Kashmir locks up almost a third of its land force, enhancing Pakistan's ability to balance India's numerically larger army.
 
-Pakistan's policy on Kashmir should go back to the future,
-Islamabad should: one, reaffirm its fundamental position, i.e. a resolution
-of Kashmir can come about only through the free exercise of the right of
-self-determination by the people of Jammu and Kashmir; two, express
-open and active support for the Kashmir groups and leaders who favour
-integration with Pakistan or separation from India and help to unite them
-under a common and coherent political platform, hence Pakistan should
-not fear the call for Kashmiri independence, since an independent
-Kashmir, however unlikely, will always be pro-Pakistan; three, assert its
-moral, political and legal right to support the Kashmir freedom struggle
-against India; four, denounce terrorism against civilians and non-
-combatants and break all links with groups which resort to terrorism; five,
-instead of pleading for a dialogue which is not likely to be successful,
-refrain from a dialogue until India halts its human rights violations and
-oppression in occupied Kashmir (and its subversion in Pakistan); six,
-publicise and hold India accountable, in international forums and the
-309media, for its continued suppression of the Kashmiris and its gross
-violations of human rights in occupied Kashmir.
+Islamabad should:
 
-A bolder stance on Kashmir, based on international principles and
-the support of the Pakistani people, will not escalate the danger of a
-conflict so long as Pakistan's conventional and nuclear deterrence
-capabilities remain credible. It will have several other advantages:
-enhance the rapport between the government and the people of Pakistan
-and between Pakistanis and Kashmiris; create a disincentive for India's
-subversion within Pakistan; generate the political motivation for the major
-powers to intercede in evolving a just settlement for Kashmir and other
-issues that plague Pakistan-India relations.
+1. Reaffirm its fundamental position, i.e. a resolution of Kashmir can come about only through the free exercise of the right of self-determination by the people of Jammu and Kashmir
 
+2. Express open and active support for the Kashmir groups and leaders who favour integration with Pakistan or separation from India and help to unite them under a common and coherent political platform.
+
+Hence Pakistan should not fear the call for Kashmiri independence, since an independent Kashmir, however unlikely, will always be pro-Pakistan.
+
+3. Assert its moral, political and legal right to support the Kashmir freedom struggle against India
+
+4. Denounce terrorism against civilians and non-combatants and break all links with groups which resort to terrorism
+
+5. Refrain from a dialogue until India halts its human rights violations and oppression in occupied Kashmir (and its subversion in Pakistan)
+
+6. Publicise and hold India accountable, in international forums and the media, for its continued suppression of the Kashmiris and its gross violations of human rights in occupied Kashmir.
+
+A bolder stance on Kashmir, based on international principles and the support of the Pakistani people, will not escalate the danger of a
+conflict so long as Pakistan's conventional and nuclear deterrence capabilities remain credible. 
+
+It will have several other advantages: enhance the rapport between the government and the people of Pakistan and between Pakistanis and Kashmiris; create a disincentive for India's subversion within Pakistan; generate the political motivation for the major powers to intercede in evolving a just settlement for Kashmir and other issues that plague Pakistan-India relations.

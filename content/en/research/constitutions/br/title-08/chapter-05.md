@@ -2,7 +2,7 @@
 title: "Social Communication"
 heading: "Chapter 5"
 weight: 28
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

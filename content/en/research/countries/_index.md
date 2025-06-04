@@ -1,6 +1,7 @@
 ---
 title: Country-Specific Research/
 weight: 23
+linkTitle: Countries
 # date: 2023-06-17
 description: "Research about specific countries"
 c: "darkslategray"

@@ -20,7 +20,7 @@ Chapter | Topic
 4 | Substance
 5 | Quantum 
 6 | Signature, Conservation, Actions
-7 | Territory (Field)
-8 | Polarity (Vortex, Pressure)
-9 | Relation and Movement and Effects
+7 | Layer Properties and Phenomena
+8 | Layer Polarity (Vortex, Pressure)
+9 | Layer Relationality of Identity as Movement and Effects
 

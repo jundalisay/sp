@@ -8,11 +8,7 @@ c: "firebrick"
 
 
 
-<sup>1</sup> Jabin king of Hazor heard of the success of Joshua. So he sent to Jobab king of Madon,
-and to the king of Shimron, and to the king of Achshaph, {11:2} And to the kings that [were] on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west, {11:3} [And to] the Canaanite on the east and on the west, and [to] the
-Amorite, and the Hittite, and the Perizzite, and the Jebusite
-in the mountains, and [to] the Hivite under Hermon in the
-land of Mizpeh. 
+<sup>1</sup> Jabin king of Hazor heard of the success of Joshua. So he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph, 2 And to the kings that [were] on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west 3 and to the Canaanite on the east and on the west, and [to] the  Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and [to] the Hivite under Hermon in the land of Mizpeh. 
 
 <sup>4</sup> And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many. 
 
@@ -40,11 +36,10 @@ with fire.
 
 12 All the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, and he utterly destroyed them, as Moses commanded. 
 
-13 But [as for] the cities that stood still in their strength, Israel burned none of them, save
-Hazor only; [that] did Joshua burn.
+13 But as for the cities that stood still in their strength, Israel burned none of them, save
+Hazor only; that did Joshua burn.
 
-14 All the spoil of these cities, and the cattle, the Israelites took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them,
-neither left they any to breathe.
+14 All the spoil of these cities, and the cattle, the Israelites took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe.
 
 15 As Enki commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left
 nothing undone of all that Enki commanded Moses.
@@ -55,24 +50,18 @@ nothing undone of all that Enki commanded Moses.
 under mount Hermon: and all their kings he took, and smote
 them, and slew them. 
 
-18 Joshua made war a long time with all those kings. {11:19} There was not a city that made
-peace with the Israelites, save the Hivites the
-inhabitants of Gibeon: all [other] they took in battle.
-{11:20} For it was of Enki to harden their hearts, that
-they should come against Israel in battle, that he might
-destroy them utterly, [and] that they might have no favour,
-but that he might destroy them, as Enki commanded
-Moses.
+18 Joshua made war a long time with all those kings.
 
-{11:21} And at that time came Joshua, and cut off the
-Anakims from the mountains, from Hebron, from Debir,
-from Anab, and from all the mountains of Judah, and from
-all the mountains of Israel: Joshua destroyed them utterly
-with their cities. {11:22} There was none of the Anakims
-left in the land of the Israelites: only in Gaza, in
-Gath, and in Ashdod, there remained. {11:23} So Joshua
-took the whole land, according to all that Enki said
-unto Moses; and Joshua gave it for an inheritance unto
-Israel according to their divisions by their tribes. And the
-land rested from war.
+19 There was not a city that made peace with the Israelites, save the Hivites the inhabitants of Gibeon: all [other] they took in battle.
 
+20 For it was of Enki to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, [and] that they might have no favour, but that he might destroy them, as Enki commanded Moses.
+
+21 At that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel.
+
+Joshua destroyed them utterly with their cities.
+
+22 There was none of the Anakims left in the land of the Israelites: only in Gaza, in Gath, and in Ashdod, there remained. 
+
+23 So Joshua took the whole land, according to all that Enki said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. 
+
+The land rested from war.

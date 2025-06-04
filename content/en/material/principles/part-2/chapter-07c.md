@@ -3,7 +3,7 @@ heading: "Chapter 7c"
 linkTitle: "Dark Energy"
 title: "Dark Energy: The Expansion of Space-Time"
 # date: 2023-03-10
-weight: 38
+weight: 39
 image: /graphics/physics/expansion.jpg
 description: "Everything is expanding, even your own atoms."
 icon: "Juan"
@@ -45,13 +45,33 @@ And so in Cartesian Physics, there is no need for either dark matter or dark ene
 - Dark energy is an effect of clusters of vortices relative to each other. ### The Mechanism for Expansion --> 
 
 
+Material Superphysics explains the large scale phenomena of the universe through the 2 sublayers of the Spatial Layer:
+
+1. Spacetime
+
+Unlike the Minkowski spacetime of Physics which has 4 dimensions in a continuum of time, the spacetime of Material Superphysics takes the form of 2-dimensional slices that are separated by the aetherspace.
+
+
+2. The Aetherspace
+
+This is known to Physics as the Planck Length and Planck Time. 
+
+While Dark Matter is facilitated by spacetime, Dark Energy is facilitated by the aetherspace.
+
+
+
+## Expansion from the Aetherspace Splitting Up Spacetime
+
 In Modern Physics, the expansion of the universe is seen through the red shift measured from distant galaxies. This acts like a doppler effect that shows that those galaxies are moving away.
 
 The Hubble and James Webb Space Telescopes measure this with a few galaxies. But specialized telescopes such as DESI measure the red shift from many galaxies for a long time.
 
 This lets them get a bigger data set for the expansion. They found that that the expansion varies and depends on which galaxy cluster you look.
 
-We explain that this is because the mechanism for expansion is in the aethereal layer, the same layer that creates spatial vortices. 
+We explain that this is because the mechanism for expansion is in the aetherspace, the same layer that creates spatial vortices called black holes.
+
+{{< youtube _fVZSDiFCxY >}}
+
 
 The expansion of the universe is dependent on the aethereal mind that observes that universe, being of the same substance as the mechanism of expansion. 
 
@@ -66,34 +86,54 @@ This matches the expansion of the human mind.
 - In the age of space telescopes, it started expanding faster
 
 {{< q a="Rene Descartes" c="Principia Philosophia, Part 2 Article 34" >}}
-The matter which already fills space G cannot successively fill all the spaces between G and E which are infinitely smaller. Some part of that matter must adapt its shape to the countless measures of those spaces. To achieve this, all its innumerable particles must be separated from each other by division. This leads to the division of certain particles of matter into infinity, or indefinitely.
+The matter which already fills space G cannot successively fill all the spaces between G and E which are infinitely smaller. Some part of that matter must adapt its shape to the countless measures of those spaces. 
+
+To achieve this, all its innumerable particles must be separated from each other by division. This leads to the division of certain particles of matter into infinity, or indefinitely.
 {{< /q >}}
 
 
-The abstract mind expands by "dividing" and analyzing its perceptions. 
+The abstract mind expands by "dividing" and analyzing its perceptions. This action (see Chapter 6b) is done through the aetherspace which it imposes onto spacetime.
 
-In the physical universe, this means that everything is growing. But this growth is not noticed because everything is growing at the same rate. 
+This is because the aetherspace is 'alive' whereas spacetime is 'dead'.
 
-In other words, this means that we are literally physically larger now than a moment ago. We are not able to perceive any change or difference because everything else is also getting larger.
 
-It is only exposed at the edges of galaxies where there is a discrepancy between the galatic territories. This manifests as red shift at the edges of galaxies. 
+{{< q a="George Berkeley" c="De Motus, Section 10" >}}
+The *dead force*, or simple gravitation in a body at rest, produces no observable change and hence no effect. But impact does. Therefore, since forces are proportional to their effects, then dead force is null.
+{{< /q >}}
 
-<!-- Descartes explained this expansion in the 1630's. 
+{{< i s="/graphics/physics/sponge.jpg" a="Expansion of the Universe" c="The data from James Webb, DESI, and the Planck satellites jointly prove the dual nature of the 2nd Element or Spatial Layer" >}}
 
-According to him, the universe began when spacetime became divided. These divisions led to diverse vortices that later became galaxies, stars, and planets. 
 
-This division did not stop after those heavenly bodies were created. It still continues every nanosecond, or more properly at every Planck Time.  -->
+## Red Shift from Spacetime Edges Show the Expansion
 
-<!-- This now manifests as the expansion of the universe which is revealed by the cosmic red shift. -->
+The aetherspace splits up spacetime, causing space to expand while mamtter stays the same.
+
+This phenomenon is exposed by the Radiant Layer as light that produces a red shift when a light-emitting body moves away.
+
+In Material Superphysics, this red shift happens as the edges of the star or galaxy that is sending the light. 
+
+A distant body has more red shift the more edges are between it and the observer.
+
 
 {{< img src="/graphics/physics/expansion.jpg" alt="Expansion of the Universe" cap="Dark Matter and Dark Energy are unnecessary because they are accounted for by properties of spacetime" >}}
 
 
+## Dark Energy = Gluon Field
+
+The aetherspace in large scale cosmic structures is called by Physics as Dark Energy, whereas the aetherspace in quantum phenomena is called the Gluon Field which binds quarks together in a proton.
+
+Unlike Physics which says that contact forces come from electromagnetic repulsion, Material Superphysics says that it comes from the aetherspace of 2 bodies resisting each other.
+
+In other words, objects cannot occupy the same space because the aetherspace prevents them.
+
+This is why we predict that matter cannot pass through the aetherspace that is between galaxy clusters. Instead, matter needs to teleport from one spacetime to another through the aetherspace, and not linearly through spacetime.
+
+Matter can only travel from one galaxy to another if their spacetimes meet up, such as during galaxy collisions.
 
 
 <!-- We are only able to detect this size-increase not from our own planets or galaxies, but from the gaps between those galaxies where there is no matter to be increased. Descartes calls them 'superficies' (surfaces), which we rename into 'edges'. -->
 
-These edges are traversed by photons from galaxies to ours. It is there where the photons are stretched (relative to themselves before they entered those edges or gaps) as to become red shifts. 
+<!-- These edges are traversed by photons from galaxies to ours. It is there where the photons are stretched (relative to themselves before they entered those edges or gaps) as to become red shifts. 
 
 These edges then draw the gravitational territorial of the galaxy. This territory is where the size-increase happens internally as a single unit, **independent of other galaxies**.
 
@@ -116,7 +156,8 @@ The division of spacetime is an inexhaustible source of energy which Nikola Tesl
 
 By processing Descartes' principles, in theory, division-energy can be extracted by creating a vortex with defined edges from where the energy from spacetime division (air-aether) can be downgraded into electrical energy (fire-aether).
 
-This downgrading has metaphysical consequences though. This is why advanced species would predictably rather use the fusion of material hydrogen as their main energy source or base load, and use spacetime-division only as a backup or starter.
+This downgrading has metaphysical consequences though. This is why advanced species would predictably rather use the fusion of material hydrogen as their main energy source or base load, and use spacetime-division only as a backup or starter. -->
+
 
 <!-- In Cartesian Physics, the expansion is accelerating because spacetime is being divided at a constant rate. 
 

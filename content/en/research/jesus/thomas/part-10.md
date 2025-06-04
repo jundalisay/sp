@@ -7,17 +7,32 @@ c: "indigo"
 ---
 
 
-{{< sup v="72" >}} A man said to him, "Tell my brothers to divide my father's possessions with me."
+{{< sup v="72" >}} A man said to him:
 
-Jesus replied "O man, who has made me a divider?"
+{{< r a="Someone" >}}
+Tell my brothers to divide my father's possessions with me.
+{{< /r >}}
 
-He turned to his disciples and said to them, "I am not a divider, am I?"
+{{< l a="Jesus" >}}
+O man, who has made me a divider?
+{{< /l >}}
 
-{{< sup v="73" >}} Jesus said, "The harvest is great but the laborers are few. Beseech the Lord, therefore, to send out laborers to the harvest."
+He turned to his disciples and said to them:
 
-{{< sup v="74" >}} "O Lord, there are many around the drinking trough, but there is nothing in the cistern."
+{{< l a="Jesus" >}}
+I am not a divider, am I?
+{{< /l >}}
 
-{{< sup v="75" >}} "Many are standing at the door, but it is the solitary who will enter the bridal chamber."
+
+{{< l a="Jesus" >}}
+<sup>73</sup> The harvest is great but the laborers are few. Beseech the Lord, therefore, to send out laborers to the harvest.
+
+<sup>74</sup> O Lord, there are many around the drinking trough, but there is nothing in the cistern.
+
+<sup>75</sup> Many are standing at the door, but it is the solitary who will enter the bridal chamber.
+{{< /l >}}
+
+
 
 {{< sup v="76" >}} "The kingdom of the father is like a merchant who had a consignment of merchandise and who discovered a pearl. That merchant was shrewd. He sold the merchandise and bought the pearl alone for himself. You too, seek his unfailing and enduring treasure where no moth comes near to devour and no worm destroys."
 
@@ -25,13 +40,15 @@ He turned to his disciples and said to them, "I am not a divider, am I?"
 
 {{< sup v="78" >}} "Why have you come out into the desert? To see a reed shaken by the wind? And to see a man clothed in fine garments like your kings and your great men? Upon them are the fine garments, and they are unable to discern the truth."
 
-<sup>79</sup> A woman from the crowd said to him, "Blessed are the womb which bore you and the breasts which nourished you."
+<sup>79</sup> A woman from the crowd said to him:
 
-He said to her:
-
-"Blessed are those who have heard the word of the father and have truly kept it. For there will be days when you will say, 'Blessed are the womb which has not conceived and the breasts which have not given milk.'"
+{{< r a="Woman" >}}
+Blessed are the womb which bore you and the breasts which nourished you.
+{{< /r >}}
 
 {{< l a="Jesus" >}}
+Blessed are those who have heard the word of the father and have truly kept it. For there will be days when you will say, 'Blessed are the womb which has not conceived and the breasts which have not given milk.'
+
 <sup>80</sup> He who has recognized the world has found the body, but he who has found the body is superior to the world.
 {{< /l >}}
 
@@ -48,8 +65,7 @@ He said to her:
 {{< /l >}}
 
 {{< l a="Jesus" >}}
-<sup>84</sup>  When you see your likeness, you rejoice. But when you see your images which came into being before you, and which neither die not become manifest, how
-much you will have to bear!" 
+<sup>84</sup>  When you see your likeness, you rejoice. But when you see your images which came into being before you, and which neither die not become manifest, how much you will have to bear!" 
 {{< /l >}}
 
 {{< l a="Jesus" >}}
@@ -61,8 +77,9 @@ much you will have to bear!"
 {{< /l >}}
 
 {{< l a="Jesus" >}}
-(87) Jesus said, "Wretched is the body that is dependant upon a body, and wretched is the soul that is dependent on these two."
+<sup>87</sup>Wretched is the body that is dependant upon a body, and wretched is the soul that is dependent on these two.
 {{< /l >}}
+
 
 {{< l a="Jesus" >}}
 <sup>88</sup> The angels and the prophets will come to you and give to you those things you (already) have. And you too, give them those things which you have, and say to yourselves, 'When will they come and take what is theirs?'
@@ -76,9 +93,14 @@ much you will have to bear!"
 <sup>90</sup>  Come unto me, for my yoke is easy and my lordship is mild, and you will find repose for yourselves.
 {{< /l >}}
 
-<sup>91</sup> They said to him, "Tell us who you are so that we may believe in you."
+<sup>91</sup> They said to him:
 
-He said to them, "You read the face of the sky and of the earth, but you have not recognized the one who is before you, and you do not know how to read this moment."
+{{< r a="People" >}}
+Tell us who you are so that we may believe in you.
+{{< /r >}}
+
+{{< l a="Jesus" >}}
+You read the face of the sky and of the earth, but you have not recognized the one who is before you, and you do not know how to read this moment.
 
 <sup>92</sup> Seek and you will find. Yet, what you asked me about in former times and which I did not tell you then, now I do desire to tell, but you do not inquire after it.
 
@@ -89,6 +111,8 @@ He said to them, "You read the face of the sky and of the earth, but you have no
 <sup>95</sup> If you have money, do not lend it at interest. Give it to one from whom you will not get it back.
 
 <sup>96</sup> The kingdom of the father is like a certain woman. She took a little leaven, concealed it in some dough, and made it into large loaves. Let him who has ears hear.
+{{< /l >}}
+
 
 {{< l a="Jesus" >}}
 <sup>97</sup> The kingdom of the father is like a certain woman who was carrying a jar full of meal. While she was walking on the road, still some distance from home, the handle of the jar broke and the meal emptied out behind her on the road. She did not realize it; she had noticed no accident. 
@@ -102,14 +126,24 @@ When she reached her house, she set the jar down and found it empty."
 Then he slew the powerful man."
 {{< /l >}}
 
-<sup>99</sup> The disciples said to him, "Your brothers and your mother are standing outside.
+<sup>99</sup> The disciples said to him:
+
+{{< r a="Disciples" >}}
+Your brothers and your mother are standing outside.
+{{< /r >}}
+
 
 {{< l a="Jesus" >}}
 Those here who do the will of my father are my brothers and my mother. It is they who will enter the kingdom of my father.
 {{< /l >}}
 
 
-<sup>100</sup> They showed Jesus a gold coin and said to him, "Caesar's men demand taxes from us."
+<sup>100</sup> They showed Jesus a gold coin and said to him:
+
+{{< r a="People" >}}
+Caesar's men demand taxes from us.
+{{< /r >}}
+
 
 {{< l a="Jesus" >}}
 Give Caesar what belongs to Caesar, give God what belongs to God, and give me what is mine.
@@ -121,7 +155,7 @@ Give Caesar what belongs to Caesar, give God what belongs to God, and give me wh
 Whoever does not love his father and his mother as I do cannot become a disciple to me. For my mother [...], but my true mother gave me life."
 
 {{< l a="Jesus" >}}
-<sup>102</sup>Woe to the pharisees, for they are like a dog sleeping in the manger of oxen, for neither does he eat nor does he let the oxen eat."
+<sup>102</sup>Woe to the pharisees, for they are like a dog sleeping in the manger of oxen, for neither does he eat nor does he let the oxen eat.
 {{< /l >}}
 
 
@@ -130,10 +164,15 @@ Whoever does not love his father and his mother as I do cannot become a disciple
 {{< /l >}}
 
 
-<sup>104</sup> They said to Jesus, "Come, let us pray today and let us fast." 
+<sup>104</sup> They said to Jesus:
+
+"Come, let us pray today and let us fast."
+
 
 {{< l a="Jesus" >}}
-What is the sin that I have committed, or wherein have I been defeated? But when the bridegroom leaves the bridal chamber, then let them fast and pray.
+What is the sin that I have committed, or wherein have I been defeated? 
+
+But when the bridegroom leaves the bridal chamber, then let them fast and pray.
 {{< /l >}}
 
 {{< l a="Jesus" >}}
@@ -141,34 +180,35 @@ What is the sin that I have committed, or wherein have I been defeated? But when
 {{< /l >}}
 
 {{< l a="Jesus" >}}
-(106) When you make the two one, you will become the sons of man, and when you say, 'Mountain, move away,' it will move away."
+<sup>106</sup> When you make the two one, you will become the sons of man, and when you say, 'Mountain, move away,' it will move away."
 {{< /l >}}
 
 {{< l a="Jesus" >}}
-(107) The kingdom is like a shepherd who had a hundred sheep. One of them, the largest, went astray. He left the ninety-nine sheep and looked for that one until he found it. When he had gone to such trouble, he said to the sheep, 'I care for you more than the 99.'"
+<sup>107</sup> The kingdom is like a shepherd who had a hundred sheep. One of them, the largest, went astray. He left the ninety-nine sheep and looked for that one until he found it. When he had gone to such trouble, he said to the sheep, 'I care for you more than the 99.'"
 {{< /l >}}
 
 {{< l a="Jesus" >}}
-(108) He who will drink from my mouth will become like me. I myself shall become he, and the things that are hidden will be revealed to him.
+<sup>108</sup> He who will drink from my mouth will become like me. I myself shall become he, and the things that are hidden will be revealed to him.
 {{< /l >}}
 
 
 {{< l a="Jesus" >}}
-(109) The kingdom is like a man who had a hidden treasure in his field without knowing it. And after he died, he left it to his son. 
+<sup>109</sup> The kingdom is like a man who had a hidden treasure in his field without knowing it. And after he died, he left it to his son. 
 
 The son did not know (about the treasure). He inherited the field and sold it. And the one who bought it went plowing and found the treasure. He began to lend money at interest to whomever he wished.
 {{< /l >}}
 
 {{< l a="Jesus" >}}
-(110) Whoever finds the world and becomes rich, let him renounce the world.
+<sup>110</sup> Whoever finds the world and becomes rich, let him renounce the world.
+{{< /l >}}
+
+
+{{< l a="Jesus" >}}
+<sup>111</sup> The heavens and the earth will be rolled up in your presence. And the one who lives from the living one will not see death." Does not Jesus say, "Whoever finds himself is superior to the world?"
 {{< /l >}}
 
 {{< l a="Jesus" >}}
-(111) The heavens and the earth will be rolled up in your presence. And the one who lives from the living one will not see death." Does not Jesus say, "Whoever finds himself is superior to the world?"
-{{< /l >}}
-
-{{< l a="Jesus" >}}
-(112) Woe to the flesh that depends on the soul; woe to the soul that depends on the flesh.
+<sup>112</sup> Woe to the flesh that depends on the soul; woe to the soul that depends on the flesh.
 {{< /l >}}
 
 

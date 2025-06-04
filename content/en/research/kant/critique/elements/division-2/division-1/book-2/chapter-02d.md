@@ -5,6 +5,7 @@ title: Axioms Of Intuition
 description: "The Application of the Categories Sensory Objects"
 weight: 12
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 

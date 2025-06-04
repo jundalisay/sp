@@ -19,6 +19,8 @@ Many liberals advocate the self-regulation as an alternative to regulation by go
 Every individual works to render the society’s annual revenue as great as he can. He generally does not intend to promote the public interest.. By preferring to support domestic industry over foreign industry, he intends only his own security. By directing that industry to produce the greatest value [for society], he intends only his own gain. In this case, as in many other cases, he is led by an invisible hand to promote an end which he did not intend. Nor is it always the worse for the society that it [the society] was no part of it [the goal]. By pursuing his own interest, he frequently promotes the society’s interest more effectively than when he really intends to promote it. I have never known much good done by those who affected to trade for the public good. It is an affectation not very common among merchants.
 {{< /q >}}
 
+
+
 However, they fail to point out that before such self-interest is promoted, Smith advocated that fellow-feeling must be propagated first:
 
 {{< q a="Adam Smith" c="Theory of Moral Sentiments" >}}

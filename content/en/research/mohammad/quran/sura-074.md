@@ -2,8 +2,7 @@
 title: "The Enrobed (al-Muddathir)"
 heading: "Sura 74a "
 weight: 220
-c: "seagreen"
-draft: true
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -11,101 +10,82 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="1" >}}  O you Enrobed one. {{< s v="2" >}}  Arise and warn {{< s v="3" >}} and magnify your Lord.{{< s v="4" >}}  
 
-Purify your clothes.{{< s v="5" >}}  And abandon abominations.
+Purify your clothes {{< s v="5" >}} and abandon abominations.
 
-6. And show no favor seeking gain.
+<sup>6</sup> Show no favor seeking gain.
 
-7. And be constant for your Lord.
+<sup>7</sup> Be constant for your Lord.
 
-8. When{{< s v="9" >}}  That{{< s v="10" >}}  For
-the Trumpet is blown.
+<sup>8</sup> When the Trumpet is blown. 
 
-Day will be a difficult day.
+{{< s v="9" >}} That Day will be a difficult day.
 
-the disbelievers—not easy.
+<!-- the disbelievers—not easy. -->
 
-{{< s v="11" >}}  Leave
-Me to him whom I created alone.
+{{< s v="11" >}}  Leave Me to him whom I created alone. 12. and gave him vast wealth. 13. and children as witnesses 14. and smoothed things for him. 
 
-12. And gave him vast wealth.
-13. And children as witnesses.
-14. And smoothed things for him.
-15. Then he wants Me to add yet more!
-By no means! He was stubborn towards
-Our revelations.
-16.
-17. I
-will exhaust him increasingly.
-18. He
-thought and analyzed.
-19. May
-he perish, how he analyzed.
-20. Again:
-may he perish, how he analyzed.
-21. Then he looked.
-22. Then he frowned and whined.
-23. Then
-he turned back and was proud.
-24. And said, “This is nothing but magic from
-the past.
-25. This
-225
-is nothing but the word of a mortal.”
+<sup>15</sup> He wants Me to add yet more! 16. By no means! He was stubborn towards Our revelations.
+
+<sup>17</sup> I will exhaust him increasingly.
+
+<sup>18</sup> He thought and analyzed.
+
+<sup>19</sup> May he perish, how he analyzed.
+
+<sup>21</sup> Then he looked, frowned and whined.
+
+<sup>23</sup> Then he turned back and was proud.
+
+<sup>24</sup> He said:
+
+{{< r a="Disbelievers" >}}
+This is nothing but magic from the past. 25. This is nothing but the word of a mortal.
+{{< /r >}}
 
 
-
-26. I
-will roast him in Saqar.
+26. I will roast him in Saqar.
 
 27. But what will explain to you what Saqar is?
 
-28. It neither leaves, nor spares.
+28. It neither leaves, nor spares. 29. It scorches the flesh. 
 
-29. It scorches the flesh.
-it are Nineteen.
-have appointed only angels to be wardens of the Fire, and caused their number to
-be a stumbling block for those who disbelieve; so that those given the Scripture may
-attain certainty; and those who believe may increase in faith; and those given the Scripture and the believers may not doubt; 
+30. Over it are Nineteen.
 
-Those in whose hearts is sickness and the unbelievers may say, “What did Enki intend by
-this parable?” Thus Enki leads astray whom He wills, and guides whom He wills. None
-knows the soldiers of your Lord except He. 
+31. We have appointed only angels to be wardens of the Fire, and caused their number to be a stumbling block for those who disbelieve. In this way:
+- those given the Scripture may attain certainty
+- those who believe may increase in faith
+- those given the Scripture and the believers may not doubt.
+- the unbelievers may say:
+
+{{< r a="Disbelievers" >}}
+What did Enki intend by this parable?
+{{< /r >}}
+
+
+Thus Enki leads astray whom He wills, and guides whom He wills. 
+
+None knows the soldiers of your Lord except He. 
 
 This is nothing but a reminder for the mortals.
-31. We
 
-By the moon.
+32. Nay!  By the moon 33. and the night as it retreats 34. and the morning as it lights up.
 
-33. And the night as it retreats.
+35. It is one of the greatest warning to the mortals to whomever among you wishes to advance, or regress.
 
-34. And the morning as it lights up.
+Every soul is hostage to what it has earned except for those on the Right who inquire in the Gardens 41. About the guilty.
 
-35. It
-warning to the mortals.
+{{< l a="Muslims" >}}
+42. What drove you into Saqar?
+{{< /l >}}
 
-To whomever among you wishes to advance, or regress.
+{{< r a="Disbelievers" >}}
+43. We were not of those who prayed.
 
-soul is hostage to what it has earned.
-for those on the Right.
-Gardens, inquiring.
+44. We did we feed the destitute.
 
-41. About
-the guilty.
+We used to indulge with those who indulge. 46. We used to deny the Day of Judgment 47. until the Inevitable came upon us.
+{{< /r >}}
 
-42. “What
-drove you into Saqar?”
-
-43. They will say, “We were not of those who
-prayed.
-
-44. Nor
-
-45. And did we feed the destitute.
-we used to indulge with those who indulge
-
-46. And we used to deny the Day of Judgment.
-
-47. Until the Inevitable came upon us.”
 
 48. But the intercession of intercessors will not help them.
 
@@ -118,7 +98,3 @@ Yet every one of them desires to be given scrolls unrolled.
 54. Nevertheless, it is a reminder.
 
 55. So whoever wills, shall remember it.
-
-<!-- But they will not remember, unless Enki
-wills. He is the Source of Righteousness, and
-the Source of Forgiveness. -->

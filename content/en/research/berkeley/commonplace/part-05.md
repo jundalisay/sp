@@ -1,20 +1,21 @@
 ---
-title: "Commonplace"
-heading: ""
-weight: 7
+title: "John Locke"
+heading: "Part 5"
+weight: 11
 description: ""
-:c: "steelblue"
+c: "steelblue"
 ---
 
 
-I. Doctrine of abstraction of very evil consequence in all the sciences. Mem. Barrow's remark. Entirely owing to language.
+I. Doctrine of abstraction of very evil consequence in all the sciences. 
+
+Mem. Barrow's remark. Entirely owing to language.
 
 Locke greatly out in reckoning the recording our ideas by words amongst the uses and not the abuses of language.
 
 I. Of great use & ye last importance to contemplate a man put into the world alone, with admirable abilitys, and see how after long experience he would know wthout words. Such a one would never think of genera and species or abstract general ideas.
 
-I.
-Wonderful in Locke that he could, wn advanced in years, see at all thro' a mist; it had been so long a gathering, & was consequently thick. This more to be admir'd than yt he did not see farther.
+I. Wonderful in Locke that he could, wn advanced in years, see at all thro' a mist; it had been so long a gathering, & was consequently thick. This more to be admir'd than yt he did not see farther.
 
 Identity of ideas may be taken in a double sense, either as including or excluding identity of circumstances, such as time, place, &c.
 

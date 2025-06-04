@@ -1,7 +1,5 @@
 ---
 title: "Vietnam"
-# linkTitle: Ukraine
-# heading: "Negative Warrior"
 # date: 2021-07-27
 date: 2024-02-26
 image: "/flags/vn.png"
@@ -11,7 +9,6 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 201
 draft: true
-icon: "/flags/vn.png"
 ---
 
 

@@ -99,28 +99,32 @@
 
 
           <!-- TOC toggle button -->
-          <details class="group w-fit mt-4 rounded-md shadow-sm transition">
-            <summary class="cursor-pointer flex items-center justify-between gap-2 px-4 py-2 bg-white text-sm dark:bg-slate-700 dark:text-gray-200 text-gray-700 hover:bg-blue-50 hover:text-blue-600 rounded-md">
-              <span>Table of Contents</span>
-              <svg
-                class="w-4 h-4 transition-transform duration-300 group-open:rotate-180"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="2"
-                viewBox="0 0 24 24"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              >
-                <path d="M19 9l-7 7-7-7" />
-              </svg>
-            </summary>
+          {{ if eq .Params.TOC false }}
 
-            <!-- Animated content -->
-            <div class="mt-2 p-3 bg-gray-50 rounded-md shadow-inner border border-gray-200 animate-fade-slide text-sm text-gray-700">
-              {{ .TableOfContents }}
-            </div>
-          </details>
+          {{ else -}}
 
+            <details class="group w-fit mt-4 rounded-md shadow-sm transition">
+              <summary class="cursor-pointer flex items-center justify-between gap-2 px-4 py-2 bg-white text-sm dark:bg-slate-700 dark:text-gray-200 text-gray-700 hover:bg-blue-50 hover:text-blue-600 rounded-md">
+                <span>Table of Contents</span>
+                <svg
+                  class="w-4 h-4 transition-transform duration-300 group-open:rotate-180"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  viewBox="0 0 24 24"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path d="M19 9l-7 7-7-7" />
+                </svg>
+              </summary>
+
+              <!-- Animated content -->
+              <div class="mt-2 p-3 bg-gray-50 rounded-md shadow-inner border border-gray-200 animate-fade-slide text-sm text-gray-700">
+                {{ .TableOfContents }}
+              </div>
+            </details>
+          {{ end -}}
 
           <!-- Content dark:text-white text-black-->
           <div class="mt-6 pb-24 prose text-black dark:prose-headings:text-white dark:text-white prose-lg max-w-none ">

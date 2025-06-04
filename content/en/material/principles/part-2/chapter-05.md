@@ -80,7 +80,6 @@ Since there is nothing static in the spatial layer, then a most3 (gravity) can c
 - matter that displaces contiguous space particles
 
 
-
 ## Detection of Qosts
 
 The properties of qosts are detected through the reaction of the lower layers to it. This can be done through passive observation.
@@ -89,7 +88,7 @@ The properties of qosts are detected through the reaction of the lower layers to
 - the upper aethereal layer as the changing of ideas through time and space  
 - the lower layers as the reaction of light and material particles --> 
 
-For example, we know that there is a black hole in the center of our galaxy because of how the visible radiant stars go around it. 
+For example, we know that there is a black hole (spatial vortex) in the center of our galaxy because of how the visible radiant stars go around it. 
 - Here, the Radiant Layer exposes a stellar qost of the Spatial Layer
 
 Likewise, you see the space between you and the desk because of the existence of your material body and the material desk.

@@ -21,8 +21,16 @@ What's wrong with Physics? It already works
 {{< /r >}}
 
 {{< l a="Material Superphysics" >}}
-It's incomplete. This is because it began with Newton who started from the lowest Element as matter (mass). Then, latter physicists groped their way upwards to Electromagnetism (light). The big problem for Physics is that 2 of the 5 Elements are non-physical -- spacetime and the aether.
+It's incomplete. This is because it began with Newton who started from the lowest Element as matter (mass). Then, latter physicists groped their way upwards to Electromagnetism (light). 
 
+The big problem for Physics is that 2 of the 5 Elements are non-physical -- spacetime and the aether.
+{{< /l >}}
+
+
+{{< youtube klka8xfvMDY >}}
+
+
+{{< l a="Material Superphysics" >}}
 Those 2 Elements lead to **a lot** of new technologies just as the Electromagnetic (Fire) Element led to television, internet, lighting, etc. Don't you want new technologies that can allow humans to go to other stars and galaxies?   
 {{< /l >}}
 
@@ -38,89 +46,114 @@ Of course I want. But Physics in the 20th and 21st centuries has weirdly mutated
 That's because Physics doesn't allow metaphysical perceptions. And so physicists have no choice but to make abstract geometrical theories such as String Theory which is useless.
 {{< /l >}}
 
+
 {{< r a="Asker" >}}
 How is Superphysics different?
 {{< /r >}}
 
 
 {{< l a="Material Superphysics" >}}
-We allow the metaphysical domain which leads to the aether and a spacetime called "aetherspace" which is our alternative to Minkowski spacetime. 
+We allow the metaphysical domain which leads to the aether and a space called "aetherspace"
+- The micro aetherspace manifests as gluon fields
+- The macro aetherspace manifests as dark energy
+
+These are both different from spacetime where local or normal motion happens. 
 {{< /l >}}
 
 
+{{< youtube _fVZSDiFCxY >}}
+
+
 {{< r a="Asker" >}}
-What is the aether? How is it different from the ether of 19th century Physics?
+What's the aether? How is it different from the ether of 19th century Physics?
 {{< /r >}}
 
 
 {{< l a="Material Superphysics" >}}
-The 19th century aether is the luminiferous aether of Huygens which he derived from Descartes. 
+The 19th century aether was the luminiferous aether of Fresnel, which is different from the original aether of Descartes and the ancient Greeks.
 
-If you actually read his book, he is actually talking about the 2nd Element (spacetime) and not the pure aether. So the luminiferous aether naturally leads to Einstein's spacetime through the Michelson-Morley eperiment. 
-
-But the flaw in Einstein is that he made spacetime (2nd Element) subservient to light (1st Element) which is supposed to be the other way around. This is why Physics got stuck after Einstein created his Relativity theory in 1905 -- because physicists didn't know Cartesian Physics and the 5 Elements model. 
+The original pure aether is the substance of ideas and the abstract mind or soul that has those ideas. These then generates reality, as matter and light, in real-time. This was explained by George Berkeley:
 {{< /l >}}
+
+
+{{< q a="George Berkeley" c="The Principles of Human Knowledge, Section 3" >}}
+Things cannot have absolute Existence without any relation to their being perceived. They cannot have any Existence without the Minds which perceive them. I find it strange that people think that Houses, Mountains, and all sensible Objects have a Real Existence, distinct from their being perceived by the Understanding.
+{{< /q >}}
+
+
+{{< r a="Asker" >}}
+So the universe is just inside our minds?
+{{< /r >}}
+
+
+{{< l a="Material Superphysics" >}}
+Yes! More correctly, the universe is a projection of our own minds, based on how it's programmed -- change your programming or belief and reality changes too.
+
+The physical universe is based on the **configuration** of our metaphysical minds, as Descartes' mind-body problem.
+{{< /l >}}
+
 
 {{< youtube U4JFPWoiSAI >}}
 
 
 {{< r a="Asker" >}}
-So Superphysics puts back the 5 Elements in their natural order?
+Oh yeah, that was the Matrix idea in the [Superphysics FAQ](/faq). That strengthens the mind-over-matter way of thinking.
 {{< /r >}}
 
 
 {{< l a="Material Superphysics" >}}
-Yes, crucially, we bring back the aether as the 5th Element to explain all the mysteries that Physics is stuck with. All great Western physicists Newton, Maxwell, Kelvin, Bohr believed in an aether substance as fundamental to their theories. Only Einstein discarded the aether and made it useless by turning it into a philosophical boundary for absolute space.   
+Yes! That's why we say Superphysics can solve all problems since the entire (observable) universe and all its problems are all rooted in the mind that is observing that universe and those problems.
 {{< /l >}}
 
 
 {{< r a="Asker" >}}
-So what is the aether of Descartes?
+How can it solve quantum gravity and dark matter and the cosmology crisis, etc?
 {{< /r >}}
 
+{{< l a="Material Superphysics" >}}
+First of all, anti-gravity, as telekinesis was already documented in ancient and medieval times outside of Europe. For example, levitating monks, weather control, and floating water (as splitting of the Red Sea) have been documented. 
+{{< /l >}}
 
-<!-- We use the **Physics of Rene Descartes** which was replaced by the Physics of Newton. It splits reality into the physical and metaphysical domains, as body-mind dualism. 
 
-Matter is the physical part. The aether is metaphysical part -- it's the substance of ideas, feelings, and the abstract mind that houses those ideas and feelings. This is opposite of Physics which does not study the nature of feelings and ideas.
+{{< q a="Marco Polo" c="The Travels of Marco Polo, Volume 1, Book 1, Chapter 61" >}}
+When the Great Khan is at his great Palace, seated at his table, his cups are set before him in the middle of the hall 10 paces from his table. When he wants to drink, enchanters by the power of their enchantments cause the cups to move from their place without being touched by anybody, and to present themselves to him!
 
-The big idea is that the physical universe is a thought-projection of the Supreme Entity. And so everything is Its thoughts, whether physical objects or metaphysical ideas and feelings.  -->
+This everyone present may witness. There are often times more than 10,000 persons thus present. ’Tis a truth and no lie! and so will tell you the sages of our own country who understand necromancy, for they also can perform it.
+{{< /q >}}
 
 
 
 {{< l a="Material Superphysics" >}}
-It's the substance of reality. We define it as the substance of ideas, feelings, and the abstract minds that has those ideas and feelings. 
+Marco Polo points to Tibetan lamas as the experts in natural anti gravity. Incidentally, we learned about levitation through Hindu monks which use the same system as the lamas did.
 
-Descartes got it from Aristotle who got it from Timaeus which is the mechanics of the Plato's theory of forms. It says that reality is an idea of the One (Parmenides) which has different modifications or modes. This was later explained in full by Spinoza. This is why we call it Cartesian-Spinozan Physics just as we call the Asian version as Vedic-Buddhist-Taoist Physics. 
+Since it's a principle of Nature, then we looked for other cultures that knew it. Thankfully, we found that Rene Descartes already explained it through his concepts of the 2nd Element (vayu in Vedic Physics) and animal spirits (chi in Taoist Physics). 
 
-Minds and ideas are deployed in the aetherspace because they are all of the same substance.
+These align with Asian Physics so we use them to explain everything from Newtoninan gravity, to black holes, dark mattter and baryonic acoustic oscillations.
+
+These then lead to new technologies such as for levitation, teleportation, nuclear fusion (by levitating the plasma) and free energy among others.
 {{< /l >}}
 
-{{< youtube 6D9LNAgWbRE >}}
+
+{{< youtube 7o5cXV7tDVA >}}
+
 
 
 
 {{< r a="Asker" >}}
-Oh yeah, that was the Matrix idea in the [Superphysics FAQ](/faq). How is the aetherspace different from Minkowski spacetime?
-{{< /r >}}
-
-
-
-{{< l a="Material Superphysics" >}}
-The aetherspace uses **spacetime** for the physical domain, and **timespace** for the metaphysical domain. It splits spacetime into discrete slices which depend on the timespace of the object and the other objects that it is relative to. The gaps between the slices represent the time factor that only moves forward. 
-
-Minkowski spacetime, on the other hand, has a time factor that absurdly can move forwards and backwards. This is a necessary consequence of Einstein using light to measure space. Physicists have no choice because they don't allow metaphysical perceptions. 
-{{< /l >}}
-
-
-{{< r a="Asker" >}}
-So by decreeing that science should only allow evidence that is observable by all, then physicists painted themselves into a corner?
+So Physics is unable to come up with such solutions because it doesn't account for mind, spirit, and non-Western principles?
 {{< /r >}}
 
 
 {{< l a="Material Superphysics" >}}
-Yes. It's sad really. It's why a lot of physicists are making so much effort making theories that are useless. 
+Yes. It's sad really. 
 
-Even the Large Hadron Collider cost a lot of money just to discover the useless Higgs field. 
+To account for the metaphysics of minds, your own mind has to be open minded enough to expand itself to absorb new ideas. 
+
+But the Westerners were dogmatized on one hand by Christianity which viewed the supernatural as evil, and by science which confined humans to  shallow sensory perceptions, denouncing the extrasensory ones as hallucinations or craziness.
+
+But in Asia, such special powers are revered since people know how rare they are or how hard they are to acquire. 
+
+Instead, Physics uses expensive hadron colliders and space telescopes to test gravity and dark matter, without success. 
 {{< /l >}}
 
 
@@ -133,11 +166,16 @@ Why do physicists keep on smashing atoms uselessly? They even have plans to make
 {{< l a="Material Superphysics" >}}
 It's because they are materialists and materialists, like Democritus and Newton, enshrine matter -- they believe that gravity comes from matter. So they smash atoms to find that gravity or dark matter. But of course they find nothing. This is because gravity comes from the aether and not matter -- Nature is idealistic and not materialistic. 
 
-In our MSQ model (alternative to the Standard Model), the Higgs field is called "rib" as Radiant Internal Boundary. You can derive its properties from the model and don't need to build an expensive collider for it.
+The West came from the Romans who mastered matter in order to build a huge empire.
 
-A common trait of materialists is they like money and gambling. This is why Newton invested in the stock market, but Descartes and Adam Smith did not.
+A common trait of matter-ialists (configuration of their minds) is they like money, gambling, and physical pleasures. This is why Newton invested in the stock market, but Descartes and Adam Smith did not.
+
+This is opposite of the Hindus who renounced the world and made themselves terribly poor with fasting and voluntary poverty. Heck even the Buddha abandoned his wealth to go begging to reduce his ego. It would be like Elon Musk giving away his wealth so he can switch to teaching poor people for free on how to become industrialists.
+
+In our MSQ model (alternative to the Standard Model), matter is the lowest and crudest Element or Layer, while the aether is the highest and subtlest.
 {{< /l >}}
 
+ <!-- the Higgs field is called "rib" as Radiant Internal Boundary. You can derive its properties from the model and don't need to build an expensive collider for it. -->
  
 {{< img src="/graphics/physics/msq.jpg" alt="MSQ" >}}
 
@@ -166,12 +204,19 @@ If humans want to go to other planets and stars (which is impossible with any ro
 Bob Lazar already explained how UFOs use gravity waves and antimatter reactors. These are impossible with Newtonian Physics, but very possible with Cartesian Physics through the concept of aetherspace and material vortices.
 {{< /l >}}
 
+
+{{< youtube 0dXvYASaIx4 >}}
+
+
 {{< r a="Asker" >}}
 What's the status of Material Superphysics now?
 {{< /r >}}
 
+
 {{< l a="Material Superphysics" >}}
-We already finished our prelevitation experiments using home equipment during the pandemic. Prelevitation is making things lighter without actually levitating. However, we don't have the expensive equipment needed to make it levitate. To get those resources, we are slowly building up the moneyless system of Superpeconomics. This is because Material Superphysics proposes so many inventions. Relying on money won't be sustainable because money is static and always needs returns. By going moneyless, we can sustain the dynamism of resource gathering.
+We already finished our prelevitation experiments using home equipment during the pandemic. Prelevitation is making things lighter without actually levitating.
+
+However, we don't have the expensive equipment needed to make it levitate. To get those resources, we are slowly building up the moneyless system of Superpeconomics. This is because Material Superphysics proposes so many inventions. Relying on money won't be sustainable because money is static and always needs returns. By going moneyless, we can sustain the dynamism of resource gathering.
 
 Our experiments have helped us understand the nature of the aether better. This is essential for Bio Superphysics which taps the aethereal animal spirits of Rene Descartes.
 {{< /l >}}
@@ -183,10 +228,32 @@ Cool. You are using the moneyless system of Adam Smith to support the aether-bas
 {{< /r >}}
 
 {{< l a="Material Superphysics" >}}
-Yes. This is the really cool thing about Descartes. He explained how everything works, whether physical, biological, medical, or psychological. Ideally, Newton should have built his Physics on top of Descartes' instead of totally replacing it. We are only against Einstein, not Newton who correctly believed that gravity is a force.  
+Yes. This is the really cool thing about Descartes. He explained how everything works, whether physical, biological, medical, or psychological.
+
+Ideally, Newton should have built his Physics on top of Descartes' instead of totally replacing it. We are only against Einstein, not Newton who correctly believed that gravity comes from Spirit.  
 {{< /l >}}
 
+
+{{< q a="Newton" c="Principia Mathematica, General Scholium" >}}
+A Spirit pervades and lies hidden in all gross bodies. Its action and force causes the particles of bodies to:
+- mutually attract one another at near distances (electric bodies operate farther)
+- cohere if contiguous
+- emit light and heat bodies
+
+All animal bodies move at the command of the will through the vibrations of this Spirit. 
+- these vibrations travel from our sense organs to the brain
+- from the brain to the muscles
+
+My work can lay the foundation to discover how this Spirit operates.
+{{< /q >}}
+
 <!-- Spinoza then builds on it to explain politics. -->
+
+
+{{< l a="Material Superphysics" >}}
+Modern researchers think that Newton's spirit was electricity. But this is false because the electrical nature of nerves wouldn't be theorized until Volta and Galvani much later. Instead, Newton's spirits refer to Descartes' animal spirits which go through the nerves and create electrical impulses as effects i.e. plants also use it through fluid channels without needing nerves
+{{< /l >}}
+
 
 {{< r a="Asker" >}}
 How would you unify Newton's Physics with that of Descartes? 
@@ -217,3 +284,18 @@ A lot. For now, we have listed:
 
 
 <!-- - Artificial rain through the aether (as opposed to cloud-seeding) -->
+
+
+<!-- A caveman would also ask: Why is there even a need for this 'electricity' when bonfires already provide heat and artificial lighting?
+He would continue: Are you telling me we should mine ore, make kilns, chop firewood for the kiln just to melt ore into wires and metal sheets just to make metal dynamos to transmit energy over distances to create heat and light, when a bonfire already does the work?
+I would say yes, because aside from heat and light, electricity can also transmit information that will lead to radio, TV, and the internet which you have no idea of.
+Likewise, the aether is essential in manipulating spacetime in order to allow anti-gravity and teleportation of masses, something that current humans have no idea of.
+Proof is that all current proposals for spaceships use Newtonian propulsion using his Third Law.
+Cartesian physics has different laws that are based on the aether and not on matter.
+The documented uses of the aether were in construction, warfare, and prediction (prophecy).
+The Egyptians used it to make pyramid construction easier by reducing the gravity of blocks. The Jews used it against Jericho to increase the gravity of its walls and make it collapse.
+The Maya and Jews used it to predict their own demise.
+We have used the aether to make masses lighter. This is why its first practical use is in construction.
+After further refinement, it can float things leading to anti gravity. This will spur logistics.
+After further refinement, it can put those floating things in stasis. This will spur fusion by trapping plasma with far less energy use.
+After further refinement, it can teleport masses. This will spur space travel, since by then spaceships would be fusion-powered which can be refueled anywhere in the galaxy. -->

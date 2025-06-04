@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-#### 120. The Movement of a Star When It First Ceases to Be Fixed
+## 120. The Movement of a Star When It First Ceases to Be Fixed
 
 For example, the air-aether of Vortex `AEIO` first carries off `Star N`.
 
@@ -36,7 +36,7 @@ This circular motion gives it the force to move away from the center `S`. **And 
 
 
 
-#### 121. What I Mean by the Solidity and Agitation of Bodies
+## 121. What I Mean by the Solidity and Agitation of Bodies
 
 Here, solidity refers to the quantity of earth-aether compared to its mass and surface area.
 
@@ -61,7 +61,7 @@ The fire-aether and air-aether in it continuously exits and is replaced by new m
 Additionally, hardly any force is impressed on this new matter, but only the motion it had from elsewhere is directed towards a certain part, and this direction can constantly change due to various causes.
 
 
-#### 122. How Solidity Depends Not Only on Matter but Also on Size and Shape
+## 122. How Solidity Depends Not Only on Matter but Also on Size and Shape
 
 <!-- gold, lead, and other -->
 Here on Earth, metals, once set in motion, retain greater agitation or force to continue in their motion than wood and stones of the same size and shape.
@@ -76,7 +76,7 @@ This is why a small globule of gold may not have as much force to retain the mot
 
 
 <!-- Celestial -->
-#### 123. How Air-aether Globules Can Be More Solid Than an Entire Star
+## 123. How Air-aether Globules Can Be More Solid Than an Entire Star
 
 It is possible for `Star N`, even if very large and covered with many layers of spots, to have less solidity or less ability to retain its motions than the surrounding air-aether globules. 
 
@@ -96,7 +96,7 @@ The star will move away from `S` if the force moving away from `S` exceeds the f
 Conversely, if the globules have more force, they will push the star towards S.
 
 
-#### 124. How They Can Also Be Less Solid
+## 124. How They Can Also Be Less Solid
 
 <!-- celestial matter globules -->
 It can also easily happen that `Star N` has much more force to continue in its straight-line motion than the surrounding air-aether globules. 
@@ -115,7 +115,7 @@ Similarly, fragments of wood floating on a river follow their course in straight
 
 
 
-#### 125. How Some Celestial Bodies Are More Solid Than a Given Star, While Others Are Less Solid
+## 125. How Some Celestial Bodies Are More Solid Than a Given Star, While Others Are Less Solid
 
 <!-- celestial -->
 The same star has:

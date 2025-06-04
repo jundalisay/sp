@@ -1,7 +1,7 @@
 ---
 title: "Publisher's Note"
 heading: "Preface"
-description: "P.R. Sarkar gave discourses on microvita over the short period of two and a half years from December 1986 to June 1989 at the very end of His life."
+description: "P.R. Sarkar gave discourses on microvita from December 1986 to June 1989 at the very end of His life."
 c: "indigo"
 weight: 2
 ---
@@ -41,4 +41,3 @@ The chapters “Plexi and Microvita” and “Microvita and Cosmology” have be
 Finally, the Dharma Mahácakra (DMC) discourse “Cult, Inference and Propensity” was delivered in English, Bengali and Hindi simultaneously. 
 
 The Bengali and Hindi portions were translated and incorporated into the English version.
-

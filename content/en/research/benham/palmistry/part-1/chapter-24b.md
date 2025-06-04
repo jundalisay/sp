@@ -5,7 +5,7 @@ description: "His realm is the world of imagination. He keeps humanity from beco
 weight: 126
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

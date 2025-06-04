@@ -53,7 +53,7 @@
         <h2 class="text-xl sm:text-2xl mb-8 text-white tracking-tight leading-tight">
           {{ .Site.Params.subtitle }}
         </h2>
-        <div class="mx-auto w-full max-w-sm aspect-video rounded-lg overflow-hidden shadow-lg mb-12">
+<!--         <div class="mx-auto w-full max-w-sm aspect-video rounded-lg overflow-hidden shadow-lg mb-12">
           <iframe
             class="w-full h-full"
             src="https://www.youtube.com/embed/mNwyj7WHKKo?autoplay=1&mute=1"
@@ -64,72 +64,45 @@
             referrerpolicy="strict-origin-when-cross-origin"
             allowfullscreen
           ></iframe>
-
+ -->
+        <div class="aspect-video mx-auto w-full max-w-sm rounded-lg overflow-hidden shadow-lg mb-12">
+          <iframe
+            src="https://www.youtube.com/embed/yy6lGpkk6Zo?autoplay=1&mute=1"
+            title="What is Superphysics? A new Science!"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
       </div>
     </section>
 
 
-
-    <section class="mx-auto text-center mb-6 py-24 lg:py-32">
-      <h3 class="text-4xl font-bold tracking-tight text-white dark:text-white">{{ .Site.Params.sub }}</h3>
-
-      <div class="flex justify-center">
-      {{ with .Site.Params.icons }}
-        {{ range . }}
-          {{ partial "icons.html" . }}
-        {{ end }}
-      {{ end }}
-      </div>
-    </section>
-
+    {{ with .Site.Params.trio }}
+      {{ partial "icons.html" . }}
+    {{ end }}
 
     {{ with .Site.Params.quote1 }}
-      {{ range . }}
-        {{ partial "quoter.html" . }}
-      {{ end }}
+      {{ partial "quoter.html" . }}
     {{ end }}
 
 
-
-    <section class="mx-auto text-center p-6">
-      <h3 class="text-4xl font-bold tracking-tight dark:text-white mb-6">{{ .Site.Params.head }}</h3>
-
-      <div class="flex flex-wrap justify-center gap-4 p-4">
-        {{ with .Site.Params.cards }}
-          {{ range . }}
-            {{ partial "cards.html" . }}
-          {{ end }}
-        {{ end }}
-      </div>
-    </section>
+    {{ with .Site.Params.sciences }}
+        {{ partial "cards.html" . }}
+    {{ end }}
 
 
     {{ with .Site.Params.quote2 }}
-      {{ range . }}
         {{ partial "quoter.html" . }}
-      {{ end }}
     {{ end }}
 
 
-    <section class="mx-auto text-center p-6">
-      <h3 class="text-4xl font-bold tracking-tight dark:text-white mb-6">{{ .Site.Params.lets }}</h3>
-
-      <!-- <div class="flex justify-center flex-wrap gap-4"> -->
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-        {{ with .Site.Params.panels }}
-          {{ range . }}
-            {{ partial "panels.html" . }}
-          {{ end }}
-        {{ end }}
-      </div>
-    </section>
-
+    {{ with .Site.Params.panels }}
+        {{ partial "panels.html" . }}
+    {{ end }}
 
   </div>
 </div>
-
-
 
 
 

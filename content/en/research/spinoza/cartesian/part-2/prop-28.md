@@ -110,7 +110,10 @@ Therefore (according to Chap. 2 Dioptrics) it will be reflected  in the opposite
 
 Note that here and in the preceding propositions we have taken as proved that any body meeting from the opposite direction another body by which it is absolutely impeded from advancing further in the same direction, must be reflected in the opposite direction, not in any other direction. For the understanding of this, read Chap. 2 Dioptrics.
 
-### Scholium 
+
+
+
+## Scholium 
 
 Up to this point, to explain the changes of bodies resulting from their impact on each other, we have considered the two bodies as though isolated from all other bodies, that is, without taking into account bodies that surround them on all sides. 
 

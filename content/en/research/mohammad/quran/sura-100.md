@@ -2,7 +2,7 @@
 title: "The Racers, Shocker"
 heading: "Sura 100-101 "
 weight: 254
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -74,8 +74,6 @@ advised each other to truth and advised each other to patience.
 {{< s v="4-7" >}} No! He will be thrown into the Crusher, which is the fire of Enki, directed at hearts.
 
 {{< s v="8" >}} Hellfire  will be closed down on them in extended columns.
-
-
 
 <!-- It
 is he who mistreats the orphan.

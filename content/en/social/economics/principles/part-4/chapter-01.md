@@ -9,7 +9,7 @@ description: "The Fourth Law of Value states that value is circulated through th
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 weight: 13
 toc: false
 ---

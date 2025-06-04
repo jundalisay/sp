@@ -15,7 +15,7 @@ icon: "Rene Descartes"
 
 
 
-#### 1. The works of God cannot be thought of as too vast.
+## 1. The works of God cannot be thought of as too vast.
 
 The principles of material things are derived not from the prejudices of the senses, but from the light of reason in such a way that we cannot doubt their truth.
 
@@ -44,7 +44,7 @@ But first we must consider 2 things:
 
 
 
-#### 2. We should not think too highly of ourselves 
+## 2. We should not think too highly of ourselves 
 
 2. We tend to put limits to the world, without being assured of their existence either:
 - by natural reasons or
@@ -62,7 +62,7 @@ It will lead us to believe that:
 <!-- ; but likewise still more if we persuaded ourselves that , or if we merely supposed that we could comprehend by the power of  -->
 
 
-#### 3. How were all things were created for the sake of man?
+## 3. How were all things were created for the sake of man?
 
 
 Morally, it may be pious to believe that God made all things for us. It can incite us to be more thankful and loving towards him.
@@ -75,7 +75,7 @@ But this supposition would be plainly ridiculous and inept in physical reasoning
  <!-- , for we do not doubt but that many things exist, or formerly existed and have now ceased to be, which were never seen or known by man, and were never of use to him. -->
 
 
-#### 4. Phenomena and experiments, and their use in philosophy. 
+## 4. Phenomena and experiments, and their use in philosophy. 
 
 <!-- The principles we have already discovered are so vast and fruitful that far more follows from them than we see contained in this visible world; indeed, far more than our minds can ever survey in thought. But now we will set before ourselves  -->
 
@@ -85,7 +85,7 @@ The following is a brief history of the principal phenomena of nature. I will in
 
 
 
-#### 5. To us, at first glance, the Earth appears much larger than all other bodies in the universe
+## 5. To us, at first glance, the Earth appears much larger than all other bodies in the universe
 
 The Sun and Moon seem to be much smaller than the Earth, but not so small as to be imperceptible. 
 
@@ -96,7 +96,7 @@ These calculations are based on the apparent diameters of the Sun and Moon, whic
 <!-- Nobis quidem, primo intuitu, Terra caeteris omnibus mundi corporibus multô major effe videtur, & Sol & Luna caeteris ftellis fed vifûs defe&um indubitatis emendantes, inprimis advertimus Lunae à Terra diftantiam circiter triginta Terrae diametros ratiociniis aequare, Solis verô fexcentas aut feptingentas. Quas cum apparentibus Solis & Lunae diametris conferentes, facile ex ipfis colligimus, Lunam quidem diftantias ef[e multô minorem Terra, fed Solem elfe multô majorent. -->
 
 
-#### 6. What is the distance of the planets from the Sun?
+## 6. What is the distance of the planets from the Sun?
 
 Mercury is more than 200 Earth diameters away from the Sun.
 
@@ -111,7 +111,7 @@ Saturn is 5-6,000.
 <!-- Agnofcimus etiam, vifu ratione adjuto, Mercurium plus ducentis Terrae diametris à Sole diftare Venerem plus quadringentis Martem noningentis aut mille Jovem tribus millibus & ampliùs; ac Saturnum quinque aut fex millibus. -->
 
 
-#### 7. The fixed stars are not too near.
+## 7. The fixed stars are not too near.
 
 <!-- As for the fixed stars, the phenomena do not allow us to believe that they are no more distant from the Sun or Earth than Saturn is, but  -->
 
@@ -124,7 +124,7 @@ It is inferred from the motions of the heavens, explained below, that they are s
 Quantum autem ad Fixas, non permittunt quidem phaenomena, ut ipfas à Sole aut Terra non magis quàm Saturnum diftare arbitremur; fed nulla obftant, quominùs ad quantumlibet immenfam diftantiam recolligiturque ex motibus motas effe fupporimus: colligiturque ex motibus coeli infrà explicandis eas à nobis effe adeô diftantes, ut Saturnus ad ipfas comparatus videatur admodum propinquus. -->
 
 
-#### 8. The Earth is not visible from the sky, nor does it appear to be a planet, nor is it comparable to Jupiter or Saturn. 
+## 8. The Earth is not visible from the sky, nor does it appear to be a planet, nor is it comparable to Jupiter or Saturn. 
 
 The Moon and Earth are smaller compared to Jupiter or Saturn, as Jupiter or Saturn are smaller compared to the Sun.
 

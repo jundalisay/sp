@@ -9,8 +9,9 @@ weight: 7
 
 ## 5. The Principle of Rhythm
 
-{{< q >}}
-"Everything flows, out and in; everything has its tides; all things rise and fall; the pendulum-swing manifests in everything; the measure of the swing to the right is the measure of the swing to the left; rhythm compensates."—The Kybalion.
+
+{{< q a="Kybalion" >}}
+Everything flows, out and in; everything has its tides; all things rise and fall; the pendulum-swing manifests in everything; the measure of the swing to the right is the measure of the swing to the left; rhythm compensates.
 {{< /q >}}
 
 

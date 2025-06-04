@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 4
 contributors: ['John Stuart Mill']
 description: "Liberty is non-harm and should not be applied to backward societies where despotism is best"
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 aliases:
   /research/mill/liberty/chapter-01
 ---

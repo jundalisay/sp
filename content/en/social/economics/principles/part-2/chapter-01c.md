@@ -5,9 +5,8 @@ title: "The Effort Theory of Value"
 date: 2015-10-30
 weight: 8
 image: "/photos/objects/car.jpg"
-# graphics/jfk
 description: "The Effort Theory of Value is our alternative to both marginal pricing of Capitalism and the labor theory of value of Marxism"
-icon: /icons/pantry.png
+icon: "Supereconomics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -24,10 +23,13 @@ This valuation is based on one's feelings of need or desire for that thing. The 
 
 
 {{< q a="Adam Smith" c="Wealth of Nations, Book 1, Chapter 5" >}}
-The real price of everything.. is the toil and trouble of acquiring it ourselves. 
-
-To save us from toil and trouble, we exchange goods or money [that other people want to aqcuire] for those other people to acquire it for us. 
+The real price of everything.. is the toil and trouble of acquiring it ourselves. To save us from toil and trouble, we exchange goods or money [that other people want to aqcuire] for those other people to acquire it for us. 
 {{< /q >}}
+
+This valuation manifests as the real price, which is different from the market price.
+
+- The real price is the value assigned by the maker, with reference mostly on himself
+- The market price is the value assigned by the seller, with reference to the market or other people 
 
 <!-- , and who wants to dispose of it or exchange it for something else, -->
 
@@ -35,24 +37,29 @@ To save us from toil and trouble, we exchange goods or money [that other people 
 
 What is bought with money or with goods is purchased by labour as much as what we acquire by the toil of our own body. That money or those goods indeed save us this toil. -->
 
+
+## A Ferrari Example: Nominal Versus Real Versus Market Price
+
+We might desire a Ferrari because of its beauty, speed, and comfort. This gives it a very high nominal value according to the 1st Law of Value. 
+
+Its high-tech engineering and difficult-to-acquire materials means that it will take a lot of effort to produce ourselves, making it commmand a high real value according to the 2nd Law of Value.
+
+And so we intuitively know that its seller would want something also of high value in exchange for it.
+
 {{< i s="/photos/objects/car.jpg" a="Supercar" >}}
 
-We might desire a Ferrari because of its beauty, speed, and comfort. This gives it a very high nominal value according to the 1st Law. 
-
-Its high-tech engineering and difficult-to-acquire materials means that it will take a lot of effort to produce ourselves. 
-
-And so we would rather exchange it with something that the seller wants which is also of the same high value. 
-
 Assuming a Ferrari is $300,000, then it can be exchanged for a $300,000 house in the suburbs or a $300,000 condo unit in the heart of the city. 
-- If the Ferrari were sold by the Ferrari company directly just as the house were sold by its builder-company, then the $300,000 would be both the real price and market price
+- If the Ferrari were sold by the Ferrari company directly just as the house were sold by its builder-company, then the $300,000 would be both the real price
 - If the Ferarri were sold by a trader just as the house were sold by a broker, then the $300,000 is the market price, not the real price. 
 
 Therefore the real price is the price from the maker or producer who actually makes the thing. It represents his toil and trouble to make it.
 
+The trouble of trading and storing it is a different thing. This will be explained as the Market Price in the chapter on the 4th Law of Value
+
 
 ### Toil and Trouble are not Objective
 
-Assume that instead of making cars or building houses, the economic service is in playing guitar music.
+Assume that instead of manufacturing or construction, the economic activity is the service of playing guitar music.
 
 - Person A (aka 'Guitar Hater') has no interest in playing the guitar. He might 'toil' a lot if forced to learn the guitar.
 - Person B (aka 'Guitar Lover') naturally loves guitars.
@@ -68,9 +75,7 @@ At all times and places:
 - an expensive thing is something that is difficult or costs much labour to acquire
 - a cheap thing is something which is easy or costs very little labour to acquire
 
-Therefore, labour alone, never varying in its own value, is the ultimate and real standard for the valuation of all commodities.
-
-It is their real price. Money is their nominal price only.
+Therefore, labour alone, never varying in its own value, is the ultimate and real standard for the valuation of all commodities. It is their real price. Money is their nominal price only.
 {{< /q >}}
 
  <!-- can at all times and places be estimated and compared.  that is dear which it is difficult to come at, or which-->
@@ -122,7 +127,7 @@ Thus to succeed, a person must be interested in what he is applying his effort t
 
 This is where his 'personal-interest'* comes in. Whatever one is interested in is a natural part of the invisible hand of his dharma or tao.
 
-We call this dharma as the **gravitational signature**, which is a key concept in Superphysics. 
+We call this dharma as the **gravitational signature** or inherent spin, which is a key concept in Superphysics. 
 
 
 {{< n n="*The Invisible Hand of Dharma or the Tao separates self-interest from selfish-interest. In order to make the separation permanent, we shall call self-interest as 'personal interest' in order to remove the vice of selfishness from it." >}}
@@ -140,7 +145,7 @@ Society would therefore have more value, quality, and abundance if its carpenter
 This value and abundance are then spread through exchange, such as through money, barter, credit, or donations, onto places where there is lack*:
 
 
-{{< q a="Lao-tzu" c="Tao Te Ching, Chapter 77" >}}
+{{< q a="Lao Tzu" c="Tao Te Ching, Chapter 77" >}}
 The Way (or Tao) of Heaven can be compared to the bending a bow. The part of the bow which was high is lowered. The part which was low is raised up. Likewise, Heaven reduces where there is superabundance, and supplements where there is deficiency.. Who can take his own superabundance and use it to serve all under heaven? Only he who is in possession of the Tao!
 {{< /q >}}
 

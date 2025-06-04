@@ -7,7 +7,7 @@ description : "Ricardo said that wages will fall eventually, just as Marx said p
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

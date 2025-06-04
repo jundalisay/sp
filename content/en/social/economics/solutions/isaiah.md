@@ -6,7 +6,7 @@ description : "We implement autoamated intelligence for Supereconomics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

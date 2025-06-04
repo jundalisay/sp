@@ -20,9 +20,6 @@ That stone would then be opposed to an equal quantity of air-aether below it.
 - That air-aether would have to rise back the closer it gets to the center `T`. 
 - This would then force the stone to descend.
 
-<!-- ![The World](/graphics/physics/world-11b.jpg) -->
-
-
  <!-- eIn the same way, that Athereal Air is also so opposed to other Athereal Airs, such as the quantity of Athereal Air below it. That upper air would occupy the lower air in the case that it were to move closer to that center. -->
 
 <!-- This is why the stone must descend when this air rises. -->

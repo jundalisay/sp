@@ -11,40 +11,70 @@ author: Dada
 (During the meeting of the district incharges from Area West of the 
 Indian Sector. A Margi stands in front of Baba.) 
 
-BABA: GS, ask him how many full-timers he created. 
+{{< l a="Baba" >}}
+GS, ask him how many full-timers he created.
+{{< /l >}}
+
 
 GENERAL SECRETARY: How many full-timers did you create in the 
 last one year? 
 
 MARGI: None. 
 
-BABA (now directing his words at the Margi): How many schools have started due to your own efforts?
+{{< l a="Baba" >}}
+(to the Margi): How many schools have started due to your own efforts?
+{{< /l >}}
 
 MARGI: None, Baba. 
 
-BABA: Could you even inspire any Margis to become Block Secretaries within your district? 
+{{< l a="Baba" >}}
+Could you even inspire any Margis to become Block Secretaries within your district? 
+{{< /l >}}
+
 
 MARGI: No, Baba. I'm sorry. 
 
-BABA: You're sorry. Are you married? 
+{{< l a="Baba" >}}
+You're sorry. Are you married? 
+{{< /l >}}
+
 
 MARGI: Yes, Baba. 
 
-BABA: Then why are you also keeping a secret wife? (Some of us gasp in surprise. Most surprised is the Margi, who rolls his eyes and is no longer able to stand still.) Haram jada! (You donkey!) Because your lifestyle is immoral, of course you could not achieve anything. Due to your illicit behavior you have also contracted some serious disease. Is it not so? 
+{{< l a="Baba" >}}
+Then why are you also keeping a secret wife? 
+
+(Some of us gasp in surprise. Most surprised is the Margi, who rolls his eyes and is no longer able to stand still.) 
+
+Haram jada! (You donkey!) 
+
+Because your lifestyle is immoral, of course you could not achieve anything. Due to your illicit behavior you have also contracted some serious disease. Is it not so? 
+{{< /l >}}
+
 
 MARGI: Yes, Baba... 
 
-BABA: Do you promise from this very moment to rectify yourself and become an ideal man, serving the society with all of your capacity? 
+{{< l a="Baba" >}}
+Do you promise from this very moment to rectify yourself and become an ideal man, serving the society with all of your capacity? 
+{{< /l >}}
 
 MARGI: Yes, Baba. 
 
-BABA: Come closer. (The Margi moves near Baba, who reaches out and momentarily touches him below the navel area.) You are henceforth cured of that disease. Do you understand that we, the members of the 
-collective society, maintain high expectations regarding the contribution 
-that you will make for the universal welfare? 
+{{< l a="Baba" >}}
+Come closer. 
 
-MARGI: Yes, 
+(The Margi moves near Baba, who reaches out and momentarily touches him below the navel area.) 
 
-Baba. BABA: Very good. 
+You are henceforth cured of that disease. Do you understand that we, the members of the collective society, maintain high expectations regarding the contribution that you will make for the universal welfare? 
+{{< /l >}}
+
+
+MARGI: Yes, Baba.
+
+{{< l a="Baba" >}}
+Very good. 
+{{< /l >}}
+
 
 When we spoke to him afterward, he refused to tell what disease he had, saying only that it was something abominable. Then he went to the bathroom. After coming out, he said, "By Baba's grace it is cured!" 
 
@@ -81,16 +111,22 @@ I was thoroughly embarrassed, but could tell nobody. All this hoopla over a fals
 
 This time I got the line to Seoul. Dada Alok answered: 
 
-ME: Alok, it's absolutely urgent that you do something for the people 
-suffering from the flood in Korea. Baba read about it in the newspapers. 
+{{< r a="Dharmavedananda" >}}
+Alok, it's absolutely urgent that you do something for the people suffering from the flood in Korea. Baba read about it in the newspapers. 
+{{< /r >}}
 
 ALOK: We already did a bit of relief work. 
 
-ME: Great! I'm writing it down. Tell me who did the work? 
+{{< r a="Dharmavedananda" >}}
+Great! I'm writing it down. Tell me who did the work? 
+{{< /r >}}
+
 
 ALOK: About a dozen Margis under the guidance of Mahaprajinanandaji and myself.
 
-ME: Wow! I was just guessing Mahaprajinanandaji was there. 
+{{< r a="Dharmavedananda" >}}
+Wow! I was just guessing Mahaprajinanandaji was there. 
+{{< /r >}}
 
 ALOK: What? 
 

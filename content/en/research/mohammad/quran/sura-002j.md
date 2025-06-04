@@ -2,7 +2,7 @@
 title: "Rules on Divorce and Widows"
 heading: "Sura 2j "
 weight: 22
-c: "seagreen"
+c: "firebrick"
 description: "Divorced women shall wait by themselves for 3 periods. It is unlawful for Muslim to conceal what Enki has created in their wombs"
 ---
 
@@ -86,9 +86,7 @@ Forbearing. -->
 Compensate them—the wealthy according to his means, and the poor according to his means—with a fair compensation, a duty upon the doers of good.
 
 
-{{< s v="237">}} If you divorce them before you have touched them, but after you had set the
-dowry for them, give them half of what you specified—unless they forego the right, or the
-one in whose hand is the marriage contract foregoes it. But to forego is nearer to piety.
+{{< s v="237">}} If you divorce them before you have touched them, but after you had set the dowry for them, give them half of what you specified—unless they forego the right, or the one in whose hand is the marriage contract foregoes it. But to forego is nearer to piety.
 
 Do not forget generosity between one another. <!-- Enki is seeing of everything you do. -->
 
@@ -111,12 +109,8 @@ so that you may understand.
 
 Enki said to them, “Die.” Then He revived them. 
 
-<!-- Enki is Gracious towards the people, but most people are not appreciative. -->
 
+245. Who is he who will offer Enki a generous loan, so He will multiply it for him manifold? Enki receives and amplifies, and to Him you
+will be returned. 
 
-<!-- 245. Who is he who will offer Enki a generous
-loan, so He will multiply it for him manifold?
-Enki receives and amplifies, and to Him you
-will be returned.
- -->
  

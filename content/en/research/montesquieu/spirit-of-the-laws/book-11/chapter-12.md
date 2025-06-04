@@ -57,7 +57,7 @@ Thus, the three powers were re-united in his person. But the people combined at 
 
 
 
-## Chapter 13= The State of Rome after the Expulsion of its Kings
+## Chapter 13: The State of Rome after the Expulsion of its Kings
 
 <!-- IT is impossible to be tired of so agree able a subject as ancient Rome= thus strangers, at present, leave the moder n palaces of that celebrated capital to visit the ruins; and thus the eye,  after recreating itself with the view of flowery meads, is pleased with the wild prospect of rocks and mountains. -->
 
@@ -78,6 +78,3 @@ A state may alter two different ways; ei ther by the amendment, or by the corrup
 The government of Rome, after the expuls ion of the kings, should naturally have been a democracy. The people had al ready the legislative power in their hands; it was their unanimous consent  that had expelled the Tarquins; and, if they had not continued steady to th ose principles, the Tarquins might easily have been restored. To pretend th at their design in expelling them was to render themselves slaves to a few  families, is quite absurd. The situation, therefore, of things required t hat Rome should have formed a democracy, and yet this did not happen. There was a necessity that the power of the principal families should be tempere d, and that the laws should have a bias to democracy.
 
 The prosperity of states is frequently g reater, in the insensible transition from one constitution to another, than in either of those constitutions. Then it is that all the springs of gover nment are upon the stretch; that the citizens assert their claims; that fri endships or enmities are formed amongst the jarring parties; and that there is a noble emulation between those who defend the ancient, and those who a re strenuous in promoting the new, constitution.
-
-
-

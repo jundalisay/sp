@@ -10,12 +10,12 @@ weight: 43
 ---
 
 
-{{< r a="Question" >}}
+{{< r a="Asker" >}}
 Do microvita influence the mind first, or matter first, of any human or living structure? 
 {{< /r >}}
 
  <!-- physico-psychic plexus -->
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Negative microvita can function directly at the throat chakra. But they cannot reach directly to the occult plexus.
 
 Only positive microvita can touch the lunar plexus and may be elevated up to the occult plexus.
@@ -28,7 +28,7 @@ Positive microvita may be used for intellectual development and for imparting ce
 {{< /l >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Suppose a man is deaf and dumb. 
 
 Hearing and speech are controlled by nerve cells or nerve fibres which in turn are controlled with the help of the lunar plexus*.
@@ -42,7 +42,7 @@ Positive microvita cannot do something supernatural with the help of the nerve c
 {{< /l >}}
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 Suppose the Sadguru is saying something. The deaf or dumb man wants to hear it but cannot. 
 
 If one concentrates the mind on **varábhaya mudrá**, there will be the direct effect of positive microvita on the auricular or other nerve cells and also on the controlling cells. 
@@ -65,7 +65,7 @@ If a deaf man sincerely wants to hear what the Sadguru is saying, the positive m
 <!-- During this DMC, some boys mentally expressed that we should go on fighting. Now see our boys and girls will go on fighting, and fight in the realm of spirituality means victory. -->
 
 
-{{< l a="Sarkar" >}}
+{{< l a="PR Sarkar" >}}
 The highest point up to which negative microvita can function is the throat chakra. 
 
  <!-- physico-psychic plexus,   lunar plexus -->

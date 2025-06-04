@@ -14,16 +14,14 @@ icon: "Rene Descartes"
 
 
 
-### 4. The nature of body consists not in weight hardness, colour and the like, but in extension alone*
+## 4. The nature of body consists not in weight hardness, colour and the like, but in extension alone*
 
-{{< n n="Descartes reiterates that the nature of matter is it occupying metaphysical space. From now, we will replace 'extension' with 'metaphysical space' to distinguish it from 'space' as physical space" >}}
+{{< n n="Descartes reiterates that the nature of matter is it occupying metaphysical space. From now, we will replace 'extension' with 'metaphysical space' to distinguish it from 'space' as physical space. Update April 2025: We change metaphysical space into aetherspace since the latter matches the DESI BAO findings" >}}
 
-<!-- In this way, we will discern that  -->
 
 The nature of matter or body in general does not consist in anything sensory. 
 
 The nature of matter or body is in it being an [aethereal] substance extended in length, width, and height.
-
 
 <!-- its being hard, or ponderous, or coloured, or that which affects our senses in any other way, but simply in its being a substance   -->
 
@@ -50,13 +48,13 @@ In the same way, weight, colour, and all the other qualities of this sort, which
 It follows that the nature of body depends on none of these.
 
 
-### Compressed Versus Decompressed Bodies*
+## Compressed Versus Decompressed Bodies*
 
  <!-- Rarefaction -->
 {{< n n="We replace rarefaction with 'decompression' and condensation with 'compression'. This is to better associate with 'pressure' from the Negative Force." >}}
 
 
-#### 5. The nature of body as extension is obscured by the opinions on decompression and vacuum.
+### 5. The nature of body as extension is obscured by the opinions on decompression and vacuum.
 
 <!-- with which we are pre-occupied. extension-->
 
@@ -86,7 +84,7 @@ People think that void is merely a negation of space.
 <!-- but only space and further  rarefaction-->
 
 
-#### 6. How does decompression take place?
+### 6. How does decompression take place?
 
 If we watch our own thoughts, we will discover that the decompression and compression of an idea-body is **merely a change of shape** in the decompressed or compressed body.
 
@@ -122,7 +120,7 @@ A sponge full of water is different from a dry sponge because the wet sponge has
 <!-- , but only that its pores are wider, and therefore that the  -->
 
 
-#### 7. Decompression should only be thought in that way
+### 7. Decompression should only be thought in that way
 <!-- Rarefaction cannot be intelligibly explained unless in the way here proposed. -->
 
 <!-- I am unable to discover the force of the reasons which have induced  -->

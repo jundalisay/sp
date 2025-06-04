@@ -3,7 +3,9 @@ title: Governance Challenges
 weight: 16
 # date: 2023-06-17
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 4b
+c: darkgreen
+author: Dr Maleeha Lodhi
 ---
 
 

@@ -12,11 +12,16 @@ icon: "Juan"
 ---
 
 
-### The Conservation Laws
-
 Each of the 5 Layers implements a Conservation Law in order to maintain the balance in the universe because:
 - our universe is really one Supreme Entity, as a single unit
 - a change in one aspect or part affects the whole  
+
+
+{{< q a="Rene Descartes" c="Principia Philosophia, Article 42" >}}
+[The 2nd Rule of movement] proves immutability of God's operation, conserving the world now with the same action with which He once created it.
+God from the start moved its various particles in different ways and arranged them so that some particles would impel others and transfer their motions to them. He conserves motion by letting those motions pass from one to another as they encounter each other. Thus, this continuous alteration of creatures itself is an argument for the immutability of God.
+{{< /q >}}
+
 
 This leads to 5 Conservation Laws, 1 for each Layer.
 
@@ -33,7 +38,7 @@ Material | Mass
 Each law has its implementing rules which will be discussed in each Part for each layer. 
 
 
-#### The Law of Conservation of Identity
+## The Law of Conservation of Identity
 
 This is the Material Superphysics version of the Law of Conservation of Idea of Superphysics.
 
@@ -42,19 +47,19 @@ This operates in the aethereal layer and is the foundation of the gravitational 
 This then leads to movement as those signatures adhere to this law in the physical domain.  
 
 
-#### The Law of Conservation of Momentum 
+## The Law of Conservation of Momentum 
 
 This operates in the spatial layer and is the foundation of the rules of motion which are the implementing rules for this law.  
 
 
-#### The Law of Conservation of Energy
+## The Law of Conservation of Energy
 
 This operates in the radiant layer and is already well known in Physics. Energy is the crudified version of momentum.
 
 This actually changes the energy from electromagnetic to material motion. For example, a generator converts electromagnetic force into physical motions. 
 
 
-#### The Law of Conservation of Aether
+## The Law of Conservation of Aether
 
 This operates in the convertible layer which facilitates "flavor changing" and is responsible for the diversity of the material layer below it. 
 
@@ -65,7 +70,7 @@ It is the wetness of water and liquids that allows both:
 - the detection of neutrinos by large liquid detectors.
 
 
-#### The Law of Conservation of Mass
+## The Law of Conservation of Mass
 
 This operates in the material layer and is already well known in Physics. Matter is facilitated by the static aetherspace and is the most crudified version of the aether. 
 

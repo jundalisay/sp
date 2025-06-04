@@ -1,7 +1,7 @@
 ---
 title:  "The Cosmian Stars"
 description:  ""
-image:  "/avatars/kepler2.jpg"
+c: "darkgoldenrod"
 date:  "2020-01-06"
 ---
 

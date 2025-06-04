@@ -2,7 +2,7 @@
 heading: "Sections 11-21"
 title: "The Epicurean Propositions"
 description: "The Epicureans explained the matter so neatly so that they followed out the consequences"
-image: "/covers/gravitation.png"
+c: "firebrick"
 # date: 2023-02-15
 weight: 4
 icon: /avatars/lesage.png

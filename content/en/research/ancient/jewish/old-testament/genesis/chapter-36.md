@@ -37,27 +37,21 @@ and Bashemath bare Reuel;
 Omar, duke Zepho, duke Kenaz, 16} Duke Korah, duke Gatam, [and] duke Amalek: these [are] the dukes [that
 came] of Eliphaz in the land of Edom; these [were] the sons of Adah.
 
-17} And these [are] the sons of Reuel Esau’s son; duke Nahath, duke Zerah, duke Shammah, duke Mizzah: these [are] the dukes [that came] of Reuel in the land of Edom; these [are] the sons of Bashemath Esau’s wife.
+17 These are the sons of Reuel Esau’s son; duke Nahath, duke Zerah, duke Shammah, duke Mizzah: these [are] the dukes [that came] of Reuel in the land of Edom; these [are] the sons of Bashemath Esau’s wife.
 
-18} And these [are] the sons of Aholibamah Esau’s wife; duke Jeush, duke Jaalam, duke Korah: these [were]
-the dukes [that came] of Aholibamah the daughter of Anah,
-Esau’s wife. 
+18 These are the sons of Aholibamah Esau’s wife; duke Jeush, duke Jaalam, duke Korah: these were the dukes [that came] of Aholibamah the daughter of Anah, Esau’s wife. 
 
 19 These [are] the sons of Esau, who [is] Edom, and these [are] their dukes.
 
-20} These [are] the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and
-Anah, 21} And Dishon, and Ezer, and Dishan: these [are] the dukes of the Horites, the children of Seir in the
-land of Edom. 22} And the children of Lotan were Hori
-and Hemam; and Lotan’s sister [was] Timna. 
+20 These [are] the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah, 21 And Dishon, and Ezer, and Dishan: these [are] the dukes of the Horites, the children of Seir in the land of Edom.
+
+22 The children of Lotan were Hori and Hemam; and Lotan’s sister [was] Timna. 
 
 23 The children of Shobal were Alvan, and Manahath, and Ebal, Shepho, and Onam.
 
-24 These [are] the children of Zibeon; both Ajah, and Anah: this [was that]
-Anah that found the mules in the wilderness, as he fed the
-asses of Zibeon his father.
+24 These [are] the children of Zibeon; both Ajah, and Anah: this [was that] Anah that found the mules in the wilderness, as he fed the asses of Zibeon his father.
 
-25 The children of Anah [were] these; Dishon, and Aholibamah the daughter of
-Anah.
+25 The children of Anah [were] these; Dishon, and Aholibamah the daughter of Anah.
 
 26 These [are] the children of Dishon; Hemdan, and Eshban, and Ithran, and Cheran.
 
@@ -65,9 +59,7 @@ Anah.
 
 28 The children of Dishan [are] these: Uz, and Aran.
 
-29 These [are] the dukes [that came] of the Horites; duke Lotan, duke Shobal, duke Zibeon, duke Anah, 30}
-Duke Dishon, duke Ezer, duke Dishan: these [are] the dukes
-[that came] of Hori, among their dukes in the land of Seir.
+29 These [are] the dukes [that came] of the Horites; duke Lotan, duke Shobal, duke Zibeon, duke Anah, 30 Duke Dishon, duke Ezer, duke Dishan: these [are] the dukes [that came] of Hori, among their dukes in the land of Seir.
 
 31 These [are] the kings that reigned in the land of Edom, before there reigned any king over the children of
 Israel. 

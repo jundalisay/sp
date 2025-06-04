@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-#### 137. How beams also appear
+## 137. How beams also appear
 
 If the eye is towards `Point S`, it will be prevented by the rays of the Sun from seeing the Comet itself. 
 
@@ -24,7 +24,7 @@ If the eye is in the middle `Point 5`, the comet might appear one in the morning
 
 
 
-#### 138. Why the tails of Comets, not always directly opposite the Sun, nor always straight, appear
+## 138. Why the tails of Comets, not always directly opposite the Sun, nor always straight, appear
 
 This coma or tail is sometimes:
 - straight
@@ -46,7 +46,7 @@ All the causes explained here have been observed so far about Comets in reality.
 
 <!-- , at least not anything to be considered neither as a fable nor as a miracle, whose cause is not here.  -->
 
-#### 139. Why do such comae not appear around Fixed Stars or around the higher planets Jupiter and Saturn?
+## 139. Why do such comae not appear around Fixed Stars or around the higher planets Jupiter and Saturn?
 
 This is because: 
 

@@ -47,7 +47,7 @@ The Radiant Layer facilitates information and kinetic energy within the spatial 
 
 Unlike the aethereal and spatial layers which are purely kinetic, it is has partly kinetic and partly static parts. 
 - The kinetic parts manifest as waves
-- The tatic parts manifest as the non-media particles
+- The static parts manifest as the non-media particles
 
 Unlike the aethereal and spatial layers which are invisible, the entire radiant layer is detectable by instruments. The latest particle to be detected was the Higgs Boson.
 

@@ -2,7 +2,7 @@
 title: "Family, Children, Adolescents and the Elderly"
 heading: "Chapter 7"
 weight: 32
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

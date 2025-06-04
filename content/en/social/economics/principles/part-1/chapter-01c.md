@@ -10,7 +10,7 @@ description : "we replace selfish-interest with self-purpose in order to focus o
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 ---
 
 

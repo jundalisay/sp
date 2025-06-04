@@ -1,9 +1,10 @@
 ---
 title: The Obama Administration and Pakistan
-weight: 40
-# date: 2023-06-17
+weight: 110
 description: "Beyond the 'Crisis State'"
-image: "/flags/pk.png"
+heading: Chapter 16b
+c: darkgreen
+author: Ahmed Rashid
 ---
 
 
@@ -276,65 +277,13 @@ programs like health. Unlike Western aid agencies, 80 per cent of Indian
 money was actually spent on projects as Indian NGOs had low
 expenditures.
 
-Pakistan's military believes that India is rapidly expanding its
-influence across the very same region—Afghanistan and Central Asia—
-that Zia had first hoped to do so, thereby attempting to encircle Pakistan
-with a ring of hostile states. Pakistan believes India is also financing and
-training the renewed Baloch insurgency as several key Baloch leaders now
-live in exile in Kabul. Pakistan accuses Indian intelligence or RAW of
-working with Afghanistan's spy agency the National Directorate for
-Security (NDS) to help the Baloch insurgents.
+Pakistan's military believes that India is rapidly expanding its influence across the very same region—Afghanistan and Central Asia— that Zia had first hoped to do so, thereby attempting to encircle Pakistan with a ring of hostile states. Pakistan believes India is also financing and training the renewed Baloch insurgency as several key Baloch leaders now live in exile in Kabul. Pakistan accuses Indian intelligence or RAW of working with Afghanistan's spy agency the National Directorate for Security (NDS) to help the Baloch insurgents.
 
-Pakistan has declined to offer any concrete evidence about any of
-these claims either to the public or to the Americans. The ISI has also
-spread enormous amounts of patently exaggerated propaganda about the
-extent of the Indian presence, such as claiming that there are a dozen or
-more Indian consulates in Afghanistan, in order to win over Pakistani
-public opinion. Even more damaging to relations since 2006 have been the
-repeated attacks on the Indian embassy, its consulates and road-building
-projects by Taliban linked to the Jalaluddin Haqqani group, which has a
-close working relationship with the ISI. The devastating attack on Mumbai
-in 2008 by Pakistan's Lashkar-e-Taiba, which led to nearly 170 people
-being killed including many foreigners, was also blamed by India on the
-ISI, although it is unlikely to have been the case. For more than a year
-India ceased all dialogue with Pakistan and insists that LeT has to be
-eliminated before meaningful talks can go ahead.
+Pakistan has declined to offer any concrete evidence about any of these claims either to the public or to the Americans. The ISI has also spread enormous amounts of patently exaggerated propaganda about the extent of the Indian presence, such as claiming that there are a dozen or more Indian consulates in Afghanistan, in order to win over Pakistani public opinion. Even more damaging to relations since 2006 have been the repeated attacks on the Indian embassy, its consulates and road-building projects by Taliban linked to the Jalaluddin Haqqani group, which has a close working relationship with the ISI. The devastating attack on Mumbai in 2008 by Pakistan's Lashkar-e-Taiba, which led to nearly 170 people being killed including many foreigners, was also blamed by India on the ISI, although it is unlikely to have been the case. For more than a year India ceased all dialogue with Pakistan and insists that LeT has to be eliminated before meaningful talks can go ahead.
 
-Clearly, a key element of Pakistan's future demands will be based on
-eliminating India's presence in Afghanistan—a maximalist demand which
-would be more likely watered down to a lesser demand of asking for a
-reduction of India's aid and diplomatic presence on the Pakistan border
-and the reduction or even closing down of Indian consulates in Jalalabad
-and Kandahar. However, vital for this is an Indo­Pak dialogue on their
-mutual interests and competition in Afghanistan and how these can be
-331contained and made more transparent to the other side.
-India poses a real dilemma for the Pakistan Army as it battles the
-Pakistani Taliban on its own soil. The Army has refused to go up against
-the key forces that it controls or once controlled that are visibly anti-
-India—the forces of Haqqani in North Waziristan and the Punjab­ based
-groups such as LeT. The Army and the government remain in deliberate
-denial that there is a terrorist threat in Punjab despite dozens of bomb
-blasts in the province. The reason is that groups like LeT are still
-maintained by the military as the first line of defence against any Indian
-attack, as potential fifth columnists who can sow havoc inside India at a
-time of war and who are loyal to the Army's raison d'etre to confront
-India.
+Clearly, a key element of Pakistan's future demands will be based on eliminating India's presence in Afghanistan—a maximalist demand which would be more likely watered down to a lesser demand of asking for a reduction of India's aid and diplomatic presence on the Pakistan border and the reduction or even closing down of Indian consulates in Jalalabad and Kandahar. However, vital for this is an IndoPak dialogue on their mutual interests and competition in Afghanistan and how these can be 331contained and made more transparent to the other side. India poses a real dilemma for the Pakistan Army as it battles the Pakistani Taliban on its own soil. The Army has refused to go up against the key forces that it controls or once controlled that are visibly anti- India—the forces of Haqqani in North Waziristan and the Punjab based groups such as LeT. The Army and the government remain in deliberate denial that there is a terrorist threat in Punjab despite dozens of bomb blasts in the province. The reason is that groups like LeT are still maintained by the military as the first line of defence against any Indian attack, as potential fifth columnists who can sow havoc inside India at a time of war and who are loyal to the Army's raison d'etre to confront India.
 
 ### Conclusion
 
-Pakistan has legitimate security interests in Afghanistan, but so do
-other immediate neighbours like Iran, the Central Asian states and near
-neighbours like India, China and the Arab Gulf states. All of them would
-likely step up their interference in Afghanistan if they see Pakistan
-dominating the peace talks. Moreover, too overt a Pakistani role is likely
-to be rejected by Karzai, the Northern Alliance and Afghan civil society
-groups and even by many Taliban who would like to end their dependence
-on Pakistan. The Pakistan military which continues to run the country's
-Afghan policy despite an elected civilian government now faces its
-biggest test—whether it can help bring an end to the war in Afghanistan,
-gain its minimum strategic interests and not turn the entire region into a
-cauldron of competition as existed in the 1990s. At the same time, the
-military has to comprehensively defeat the Pakistani Taliban and their
-extremist offshoots that continue to wreak havoc in cities across the
-country.
+Pakistan has legitimate security interests in Afghanistan, but so do other immediate neighbours like Iran, the Central Asian states and near neighbours like India, China and the Arab Gulf states. All of them would likely step up their interference in Afghanistan if they see Pakistan dominating the peace talks. Moreover, too overt a Pakistani role is likely to be rejected by Karzai, the Northern Alliance and Afghan civil society groups and even by many Taliban who would like to end their dependence on Pakistan. The Pakistan military which continues to run the country's Afghan policy despite an elected civilian government now faces its biggest test—whether it can help bring an end to the war in Afghanistan, gain its minimum strategic interests and not turn the entire region into a cauldron of competition as existed in the 1990s. At the same time, the military has to comprehensively defeat the Pakistani Taliban and their extremist offshoots that continue to wreak havoc in cities across the country.
 

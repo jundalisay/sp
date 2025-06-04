@@ -72,13 +72,13 @@ service of Sri Ramakrishna." (All laugh.)
 
 Thursday, April 22, 1886
 
-In the evening Rākhāl , Śaśi, and M. were strolling in the garden at Cossipore.
+In the evening Rakhal , Śaśi, and M. were strolling in the garden at Cossipore.
 
 M: "The Master is like a child-beyond the three Gunās ."
 
-ŚAŚI AND RĀKHĀL: "He himself has said that."
+ŚAŚI AND Rakhal: "He himself has said that."
 
-RĀKHĀL: "He sits in a tower, as it were, from which he gets all information and sees everything; but others cannot go there and reach him."M: "He said, 'In such a state of mind one sees God constantly.' In him there is not the slightest trace of worldliness. His mind is like dry fuel, which catches fire quickly."
+Rakhal: "He sits in a tower, as it were, from which he gets all information and sees everything; but others cannot go there and reach him."M: "He said, 'In such a state of mind one sees God constantly.' In him there is not the slightest trace of worldliness. His mind is like dry fuel, which catches fire quickly."
 
 ŚAŚI: "He described the different kinds of intelligence to Charu. The right intelligence is that through which one attains God; but the intelligence that enables one to become a deputy magistrate or a lawyer, or to acquire a house, is a mean intelligence. It is like
 thin and watery curd, which merely soaks flattened rice but does not add any flavour to
@@ -91,7 +91,7 @@ M: "Ah, what wonderful words!"
 
 Savages are always singing and dancing in a frenzy of delight.' "
 
-RĀKHĀL: "He [meaning the Master] replied to Kāli: 'What do you mean? Can the Bliss of
+Rakhal: "He [meaning the Master] replied to Kāli: 'What do you mean? Can the Bliss of
 Brahman be the same as worldly pleasure? Ordinary men are satisfied with worldly
 pleasure. One cannot enjoy the Bliss of Brahman unless one completely rids oneself of
 attachment to worldly things. There is the joy of money and sense experience, and there
@@ -103,14 +103,14 @@ Bliss of Brahman.' "
 
 M: Kāli nowadays meditates on Buddha; that is why he speaks of a state beyond Bliss."
 
-RĀKHĀL: "Yes, Kāli told the Master about Buddha. Sri Ramakrishna said to him: 'Buddha is an Incarnation of God. How can you compare him to anybody else? As he is great, so
+Rakhal: "Yes, Kāli told the Master about Buddha. Sri Ramakrishna said to him: 'Buddha is an Incarnation of God. How can you compare him to anybody else? As he is great, so
 too is his teaching great.' Kāli said to him: 'Everything, indeed, is the manifestation of God's Power. Both worldly pleasure and the Bliss of God are the manifestation of that Power.' "
 
 M: "What did the Master say to that?"
 
-RĀKHĀL: "He said: 'How can that be? Is the power to beget a child the same as the power through which one realizes God?'"
+Rakhal: "He said: 'How can that be? Is the power to beget a child the same as the power through which one realizes God?'"
 
-Sri Ramakrishna was sitting in his room on the second floor. Narendra, Rākhāl , Śaśi, Surendra, M., Bhavanāth, and other devotees were present. Dr. Mahendra Sarkar and
+Sri Ramakrishna was sitting in his room on the second floor. Narendra, Rakhal , Śaśi, Surendra, M., Bhavanāth, and other devotees were present. Dr. Mahendra Sarkar and
 Dr. Rajendra Dutta were also there to examine him. His condition was growing worse. 
 
 

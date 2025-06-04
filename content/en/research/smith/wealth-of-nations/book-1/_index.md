@@ -5,5 +5,5 @@ linkTitle: "Book 1"
 description:  "Productivity is from the division of labor of the earners of rent, wage, and profits"
 # date:  2015-09-29
 weight: 2
-image:  "/covers/wn.jpg"
+c: "seagreen"
 ---

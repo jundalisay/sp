@@ -41,14 +41,12 @@ The proper solution is Rene Descartes' 5 Elements model. This model divides the 
 4. Weak
 5. Strong Force
 
-
 These work together to create reality. 
 
+An analogy for the JWST findings is a bullet train on train tracks on ground. 
 
 {{< img src="/graphics/physics/jwst.jpg" alt="Train on tracks" cap="Spacetime 'redshifts' light just as the ground can bend tracks" >}}
 
-
-An analogy for the JWST findings is a bullet train on train tracks on ground. 
 - The ground represents spacetime
 - The tracks are lightwaves that travel through spacetime 
 - The train is the information conveyed by those waves
@@ -63,42 +61,16 @@ This means that the distant galaxies that JWST observes are close to their curre
 
 This is why Descartes insisted that the speed of light was instant. He really meant that it was the speed of the aether within light that was instant. 
 
-The data from the JWST supports Cartesian Physics and goes against Einstein's Relativity. In fact, we can safely delete all of Einstein's Theories and replace them with modified Lorentz-Poincare ones, except for Brownian motion.
 
-Cartesian Physics not only solves all other Physics problems through the 5 Elements model, but also extends to solve problems in Biology, Medicine, Psychology and the Social Sciences. This makes it a unifier not only for Physics, but for all sciences. 
+### Matches the CMB as well
 
-This will make it easier to solve problems by having a single framework to refer to, instead of having the current messy system with unconnected principles.
+The findings of the JWST matches findings of the CMB in the sense that the CMB is really the fuzzy image of galaxies that are more distant than infrared.
 
+{{< i s="/graphics/physics/sponge.jpg" a="CMB" >}}
 
+This is why the CMB is uniform and matches the black body spectrum -- because it shows the galaxies "behind" the edge of the universe arranged uniformly.
 
+The CMB does not match the cosmic web because the cosmic web is for the visible observable galaxies, whereas the CMB is for unobservable galaxies.
 
+It follows that the CMB is NOT the afterglow of the Big Bang which never exisited. Rather it is the fuzzy image of galaxies beyond the observable. 
 
-
-<!-- ### Why The Big Bang is Wrong 
-
-The Big Bang comes from materialist thinking or the belief that matter is the supreme principle. This is because matter is the most obvious perception that everyone has. We can all see a ball, a rock, a stick.
-
-Because of Newton and the 19th century, science has imposed that phenomena should be observable by all. The problem is that humans are a species limited to the 5 senses out of dozens or hundreds possible in Nature. 
-
-The problem with this is that matter is the crudest of the 5 Elements. By imposing the supremacy of obvious material perceptions, then the non-obvious aethereal perceptions are negated even if they hold the true principles of Nature. 
-
-Unlike Newtonian Mechanics which imposes the supremacy of matter, Einstein's Relativity upgraded Physics a bit by imposing the supremacy of Electromagnetism, as energy and light. 
-
-If you are keen, you will notice that the m in E=mc2 is not really Newtonian mass, but electromagnetic potential. Therefore, all its 3 variables represent the Electromagnetic Element. 
-
-Einstein's Relativity naturally falls apart when true spacetime is considered. This is what the JWST is showing. 
-
-
-The Proper Cosmological Model 
-
-In the proper Cartesian cosmology, which is in line with the ancient cosmology of the Greeks, Hindus, and Taoists, the aether is the supreme principle from where spacetime, heat, and matter comes from.
-
-The heat from the CMB arose when spacetime became crudified which then arose when the pure aether became crudified. The crudifying force is called Yin in Taoism or Shakti in Hinduism, which we call the Negative Force, similar to the positive charge in particles. As such there is no baryonic matter to cause the heat from the CMB. Instead, the CMB fluctuations represent the uneven distribution of the aether as it was being crudified into spacetime which led to fluctuations in the resulting heat as spacetime itself was crudified.  
-
-Gravity, Dark Matter, and Dark Energy are merely properies of spacetime, just as particles, waves, and information-carrier are properties of Electromagnetism. 
-
-The properties of spacetime are exposed by observing it in different evolutions of human perception (i.e. pre-telescope, telescope, space telescope, infrared space telescope), just as the properties of light are exposed by observing it as it goes through different kinds of space (i.e. space on Earth, space in the solar system, space in galaxies, space between galaxies). 
-
-Einstein's Relativity is not an incomplete theory. It is a wrong theory just as Ptolemy's geocentric theory is wrong even if it was championed by the best astronomers of his time. Einstein's Relativity will be a relic of wrong Physics just as no one today bothers to learn Ptolemy's spheres even if they matched limited observations in 100 AD.  
-
- -->

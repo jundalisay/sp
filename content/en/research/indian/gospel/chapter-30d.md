@@ -239,7 +239,7 @@ Nilkantha sang the song, "The beautiful Gaurānga, the youthful dancer, fair as 
 
 Sri Ramakrishna sang again and again the line, "Everything is swept away by the onrush of love", and danced with Nilkantha and the other devotees. Those who saw that indescribable dancing were never to forget it. The room was filled with people, all intoxicated with divine joy. It seemed as if Chaitanya himself were dancing with his companions.
 
-Manomohan was in an ecstatic mood. He was a devotee of Sri Ramakrishna and a brother-in-law of Rākhāl. Several ladies of his family had come with him. They were witnessing this divine music and dancing from the north verandah.
+Manomohan was in an ecstatic mood. He was a devotee of Sri Ramakrishna and a brother-in-law of Rakhal. Several ladies of his family had come with him. They were witnessing this divine music and dancing from the north verandah.
 
 Sri Ramakrishna sang again, this time about Gaurānga and Nityananda:
 Behold, the two brothers have came, who weep while chanting Hari's name. . . .

@@ -124,7 +124,7 @@ At noon the following day, after his midday meal, Sri Ramakrishna was sitting on
 
 They were worried about the Master's injured arm. The arm was bandaged. M. was present.
 
-MASTER (to the devotees): "The Mother has put me in such a state of mind that I cannot hide anything from anyone. Mine is the condition of a child. Rākhāl doesn't understand it. 
+MASTER (to the devotees): "The Mother has put me in such a state of mind that I cannot hide anything from anyone. Mine is the condition of a child. Rakhal doesn't understand it. 
 
 He covers my injured arm, wrapping my body with a cloth lest others should see my injury and criticize me. He took Dr. Madhu aside and reported my illness. But I
 shouted and said: 'Hello! Where are you, Madhusudan? Come and see. My arm is broken!'

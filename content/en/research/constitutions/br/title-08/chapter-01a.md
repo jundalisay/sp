@@ -2,7 +2,7 @@
 title: "Social Welfare"
 heading: "Chapters 1-2"
 weight: 18
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

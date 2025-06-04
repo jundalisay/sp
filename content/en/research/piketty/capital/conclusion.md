@@ -3,7 +3,7 @@ heading: Conclusion Part 1
 title: "Conclusion of Piketty's Capital in the 21st Century"
 date: 2015-09-09
 contributors: ['Piketty']
-image: "/covers/cap21.jpg"
+c: "firebrick"
 description: "Piketty says that his conclusions are by nature tenuous and deserve to be questioned and debated."
 ---
 

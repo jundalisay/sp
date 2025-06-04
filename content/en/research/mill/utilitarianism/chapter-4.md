@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 12
 contributors: ['John Stuart Mill']
 description: "Human nature is so constituted as to desire happiness. Thus happiness is the sole end of human action"
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 ---
 
 

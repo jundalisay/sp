@@ -1,7 +1,7 @@
 ---
 title: "The Epic of Gilgamesh"
 weight: 2
-image: "/covers/gilga.jpg"
+c: "darkslategray"
 description: "Here we simplify the texts from Babylonian Sources"
 ---
 

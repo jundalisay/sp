@@ -2,7 +2,7 @@
 title: "Culture"
 heading: "Chapter 3b and 4"
 weight: 26
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

@@ -8,7 +8,7 @@ description: "The 1772 credit crunch was resolved naturally because it did not h
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# icon: /icons/pantry.png
+# icon: "Supereconomics"
 ---
 
 

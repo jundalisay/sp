@@ -1,12 +1,12 @@
 ---
 title: "Breaks in the Heart Line"
-heading: "Chapter 5f"
+heading: "Chapter 5g"
 weight: 24
 c: "deeppink"
 description: "Breaks are always serious even though small. When wide or when the ends of the broken line are far apart and unrepaired, they become serious enough to warrant the reading of probable fatality"
 icon: "/avatars/blank.png"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 
@@ -18,8 +18,6 @@ Breaks are always serious even though small. When wide or when the ends of the b
 When breaks of any size are seen look for repair signs. 
 
 If the ends of the line lap, or have sister lines joining them, squares surrounding, or anything which will help retain the Current in its course, read it as serious heart difficulty which is prevented from coming to a fatal conclusion by the repair signs. 
-
-<!-- The Line Of Heart Part 9 216 No. 59.  -->
 
 With breaks examine in the usual manner to see if they are health defects, and if found to be so, read the break as denoting illness; if it is not a health indication read it as an interruption in the affections. 
 
@@ -59,13 +57,10 @@ If at the time this cut occurs on the Head line a star is seen on the junction o
 
 The latter must be judged from the Life line, and the condition of the Head line after the cut occurs. 
 
-<!-- The Line Of Heart Part 10 217 No. 60. The Line Of Heart Part 10 218 No. 61. The Line Of Heart Part 10 219 No. 62. The Line Of Heart Part 10 220 No. 63. The Line Of Heart Part 10 221 No. 64. The Line Of Heart Part 10 222 No. 65. The Line Of Heart Part 10 223 No. 66. The Line Of Heart Part 10 224 No. 67. The Line Of Heart Part 10 225 No. 68. The Line Of Heart Part 10 226 No. 69. The Line Of Heart Part 10 227 No. 70.  -->
-
 If an island be seen in the Head line, following the cut by the Heart line (68), the head will be left in a delicate condition afterwards, this delicacy lasting as long as the island is present, the age to be read on the Head line. 
 
 If after a break in a Heart line, the line is chained (69), it shows that the heart never fully recovers from whatever caused the break. If after a break the line has an island or islands (70) it will be delicate during the time occupied by these islands. 
 
-<!-- The Line Of Heart Part 10 228 No. 71. The Line Of Heart Part 10 229 No. 72. The Line Of Heart Part 10 230 No. 73. --> 
 
 If after a break a well-marked star is seen filling the break (71) the subject will die suddenly or have a very serious attack of heart disease at the age the star comes on the line. This is more certain if seen under Apollo. 
 
@@ -77,7 +72,6 @@ How serious every case is, judge by the difficulty there will be to repair the d
 
 In the latter case the best repair would be a sister line joining the ends of the cross-bars (74). In this case there would be great danger at the time of the break, but the Current could be led back by the sister line to its channel again. This serious defect is also well repaired by a square (75) in which case the Current gets into the box, and though it is a serious impediment to the heart during the time this break occurs, it will likely find its way into the Heart line again if the square be a good one. 
 
-<!-- The Line Of Heart Part 10 231 No. 74. The Line Of Heart Part 10 232 No. 75.  -->
 
 If a break in the Heart line has a dot well marked on the end of the broken line (76) it indicates a serious attack of heart disease at the age indicated by its position on the line. 
 
@@ -100,7 +94,6 @@ If after a star there are islands (80) the subject will have a severe attack of 
 
 The age at which each event occurs can be read from the line of Heart. If after a star the line becomes thin and narrow (81) it tells that the illness shown by the star destroys the vigor of the heart, which is always weak afterwards, and the affections become cold and views selfish and narrow. 
 
-<!-- The Line Of Heart Part 11 233 No. 76. The Line Of Heart Part 11 234 No. 77. The Line Of Heart Part 11 235 No. 78. The Line Of Heart Part 11 236 No. 79. --> 
 
 The combinations of defects, and the character of the line in its different parts are possible of infinite variation. All along the line every variation of character means a different operation of the line during the period it lasts. 
 

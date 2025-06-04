@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 2b"
-title: "Metayers and Sharecropping"
-weight: 12
+title: "Entails"
+weight: 11
 c: "seagreen"
-description: "Metayers could never be interested to use any of their little stock to improve the land because the lord, who spent nothing, would get half of whatever it produced."
+description: "Entails are the natural consequences of the law of primogeniture"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -11,135 +11,159 @@ icon: "Adam Smith"
 ---
 
 
+## How Entails Prevented Alienation
 
-{{< s v="11" >}} A species of farmers known as *Metayers* in France gradually succeeded the ancient slaves.
+{{< s v="5" >}} Entails are the natural consequences of the law of primogeniture.
 
-They are called *Coloni Partiarii* in Latin. They were so long in disuse in England that I know no English name for them at present.
+They were introduced to preserve a lineal succession established by the law of primogeniture.
 
-The proprietor furnished them with the whole stock needed for cultivating the farm.
-- After setting aside what was necessary for keeping up the stock, the produce was divided equally between the proprietor and the farmer.
-- The whole stock was returned to the proprietor when the farmer quit or was turned out of the farm.
+Entails hinder any part of the original estate from being carried out of the line by gift, devise, or alienation by the folly or misfortune of its successive owners.
 
+**They were unknown to the Romans.**
 
-{{< s v="12" >}} The land they occupy is cultivated at the proprietor's expence in the same way as when it was occupied by slaves, but with one very essential difference.
+Neither their substitutions nor the original fideicommisses* resemble entails, but some French lawyers used such ancient language in the modern institution.
 
-Such tenants, being freemen, could acquire property.
-- They have a share of the land's produce.
-- They are interested to make it produce as much as possible to increase their own share.
-
-A slave who can acquire nothing consults his own ease by making the land produce as little as possible over his own maintenance.
-- This is why the king encouraged slavery, out of his jealousy of the great lords.
-
-<!-- Before slavery became inconvenient, it was encouraged by the king partly because of:
-- this advantage, and
-- his  -->
-
-Gradually, slavery wore out in most of Europe because of this inconvenience.
-- The time and manner of its abolition is one of the most obscure points in modern history.
-- The Church of Rome claims great merit in it.
-
-As early as the 12th century, Alexander 2nd published a bull for the emancipation of slaves.
-- But it was more of a pious exhortation than a law which required exact obedience.
-
-Slavery continued almost universally until it was gradually abolished by the joint interests of:
-- the proprietor and
-- the sovereign.
-
-A slave who was freed and allowed to possess land, could only cultivate it with the stock given by the landlord.
-- Such person must have been a Metayer.
+* [An estate that may only be passed on to lineal descendants.]
 
 
-{{< s v="13" >}} Metayers could never be interested to use any of their little stock to improve the land because the lord, who spent nothing, would get half of whatever it produced.
+<sup>6</sup> When great landed estates were principalities, entails might be reasonable.
 
-The tithe is 10% of the produce.
-- It is a very great hindrance to improvement.
+Like the fundamental laws of some monarchies, they aim to prevent one man from endangering the security of thousands.
 
-A tax of 50% must have been an effectual bar to improvement.
+But this is most absurd in present-day Europe where all estates are secured by national laws.
 
-It might be the Metayer's interest to make the land produce as much as possible using the proprietor's stock.
-- But it could never be his interest to mix his own stock with it.
+Entails are founded on the most absurd of all suppositions:
+- That every successive generation does not have an equal right to the earth and its possessions
+- That the property of the present generation should be regulated according to the fancy of those who died 500 years ago
 
-Metayers still occupy 5 out of 6 parts of France.
+Entails, however, are still respected in most of Europe, particularly in countries where noble birth is a necessary qualification for civil or military honours.
 
-The proprietors complain that they take every opportunity to employ the master’s cattle in transportation than in cultivation.
-- In transportation, they get the whole profits to themselves.
-- In cultivation, they share them with their landlord.
+Entails are thought necessary to maintain the nobility's exclusive privilege and honour.
 
-In some parts of Scotland, tenants like Metayers are called *s  teel-bow tenants*.
+<!-- The nobility usurped this unjust advantage over other citizens. -->
 
-Chief Baron Gilbert and Doctor Blackstone say that those ancient English tenants were more like bailiffs of the landlord than farmers.
+It is thought reasonable that the nobility should have another advantage called entails to prevent their poverty.
+- Their poverty would render the country's honour ridiculous.
 
- <!-- and were probably of the same kind. -->
+English common law abhors perpetuities.
 
+Perpetuities are more restricted in England than in any other European monarchy.
 
-## Laws Relating to Farmers
-
-{{< s v="14" >}} This kind of tenancy was very slowly succeeded by farmers who cultivated land with their own stock.
-- They paid a rent to the landlord.
-
-When such farmers lease for a number of years, they may find it for their interest to use their capital to improve the farm.
-- They might expect to recover it with a large profit before the expiration of the lease.
-
-The possession by such farmers was extremely precarious for a long time.
-- It is still is so in many parts of Europe.
-
-A new purchaser can legally remove them from their lease before their term expires.
-
-In England, even the fictitious action of a common recovery can remove them.
-
-If the farmers were removed illegally by their master’s violence, they could seek redress extremely imperfectly.
-- It did not always reinstate their possession of the land.
-- It gave them damages which never amounted to the real loss.
-
-Of all the European countries, the yeomanry* was always most respected in England.
-* [ Men who held and cultivated small landed estates.]
-
-Ejectment was invented only in 1498.
-- It enabled the tenant to recover damages and possession.
-
-The tenant’s claim is not necessarily concluded by the uncertain decision of a single court.
-
-Ejectment was such an effective remedy that, in the modern practice, landlords sue in the name of the tenant, using the writ of ejectment for land possession.
-
-The landlord seldom uses the writ of right or the writ of entry, which are the actions for a landlord.
-
-In England, the security of the tenant is equal to the security of the proprietor.
-
-A lease for life of 40 shillings a year is a freehold.
-
-It entitles the lessee to vote for a member of parliament.
-
-Most of the yeomanry have this kind of freeholds.
-- This makes them respectable to their landlords due to the political consideration given to them.
-
-I believe that only England allows the tenant to build on unleased land, trusting his landlord's honour not to take advantage of the improvement.
-
-Those laws so favourable to the yeomanry have perhaps contributed more to England's present grandeur than all its boasted commercial regulations taken together.
+In Scotland, more than 1/5, perhaps more than 1/3 of its lands are under strict entail.
 
 
-{{< s v="15" >}} The law which secures the longest leases against successors is peculiar to Great Britain.
+## Land Cultivation by the Great Proprietors
 
-It was introduced into Scotland in 1449 as a law of James 2nd.
-- Its beneficial influence, however, was much obstructed by entails.
+<sup>7</sup> Great tracts of uncultivated land were engrossed by particular families in this way.
 
-The heirs of entail were frequently restrained from giving leases for more than 1 year.
+Such lands were prevented from being divided again forever as much as possible.
 
-A recent act of parliament has somewhat relaxed this restraint, though they are still much too narrow.
+A great proprietor is seldom a great improver.
 
-In Scotland, no leasehold gives a vote for a member of parliament.
-- Their yeomanry are less respectable to their landlords than in England.
+In the disorderly times which created those barbarous institutions, the great proprietor was employed in:
+- defending his own territories, and
+- extending his authority over his neighbours.
+
+He did not have time to cultivate nor improve the land.
+
+When law and order was established and afforded him this leisure, he often did not have:
+- the inclination, nor
+- the needed abilities
+
+He frequently had no stock to improve his lands because his expences frequently exceeded his revenue.
+
+If he was an economist, he found it more profitable to use his savings on new purchases than in improving his old estate.
+
+Like all other commercial projects, improving land with profit requires an exact attention to small savings and small gains.
+
+A man born to a great fortune is seldom capable of this attention, even though he may be naturally frugal.
+- He would rather focus on ornaments which please his fancy than on profits which he has little need for.
+- Since infancy, he has been anxious about the elegance of his dress, equipage, house, and furniture.
+- This habit naturally follows him when he thinks of improving land.
+- He embellishes perhaps 400-500 acres near his house, at 10 times the cost of the land after all his improvements.
+- He finds that if he improved his whole estate in the same way, he would be bankrupt before he finished 10% of it.
+
+There are still some great estates in the United Kingdom which have continued with the same family since feudal times.
+
+Compare the present condition of those estates with the possessions of the small proprietors near them, and you will see how unfavourable such extensive property is to improvement.
 
 
-{{< s v="16" >}} In other parts of Europe, it was found convenient to secure tenants against heirs and purchasers.
-- And so the term of their security was limited to a very short period.
+### Land Cultivation by Slaves
 
-In France, it was limited to 9 years from the start of the lease.
-- It was recently extended to 27 years.
-- This is still too short to encourage the tenant to make important improvements.
+<sup>8</sup> If little improvement was to be expected from such great proprietors, still less was to be hoped for from those who occupied their land.
 
-The proprietors of land were anciently the legislators of Europe.
-- The laws relating to land were created for their interest.
-- They imagined that it was the proprietor's interest that none of his predecessors' leases should hinder him from enjoying his land.
+In ancient Europe, the occupiers of land were all tenants at will*.
 
-Avarice and injustice are always short-sighted.
-- They did not foresee how much this regulation obstructs improvement and hurts the landlord's real interest in the long-run.
+They were almost all slaves.
+
+* [A tenant that can be evicted without notice.]
+
+But their slavery was milder than that of the ancient Greeks and Romans, or even of our West Indian colonies.
+- They belonged more directly to the land than to their master.
+- They could be sold with it, but not separately.
+- They could not acquire property. Whatever they acquired was acquired to their master.
+  - He could take it from them at pleasure.
+- They could marry, provided it was with the consent of their master.
+  - The master could not dissolve the marriage by selling the man and wife to different persons.
+  - If he maimed or murdered any of them, he was liable to some small penalty.
+
+The cultivation and improvement done by such slaves was done at their master's expence and for his benefit.
+
+The seed, the cattle, and the instruments of husbandry were all his.
+
+Such slaves could acquire only their daily maintenance.
+
+This kind of slavery still exists in Russia, Poland, Hungary, the Czech Republic, and Germany.
+
+It was only abolished in western and south-western Europe.
+
+
+<sup>9</sup> But if great improvements are seldom expected from great proprietors, they are the least expected from slaves.
+
+All ages and nations demonstrate that the work done by slaves the dearest of any, although it appears to cost only their maintenance.
+
+A person who cannot own property can be only interested in eating as much and working as little as possible.
+
+Any work beyond what is sufficient for his own maintenance can be squeezed out of him by violence only, and not by his own interest.
+
+Wheat cultivation degenerated in ancient Italy.
+
+Pliny and Columella remarked that it became unprofitable when it was managed by slaves.
+In ancient Greece in the time of Aristotle, it was not much better.
+
+The ideal republic in the laws of Plato requires a territory of boundless extent and fertility, like the plains of Babylon.
+
+It needs to maintain 5,000 idle men, which is the number of warriors supposedly needed for its defence, together with their women and servants.
+
+
+<sup>10</sup> The pride of man makes him love to domineer.
+
+Nothing mortifies him than to be obliged to condescend to persuade his inferiors.
+
+He will prefer the service of slaves to that of freemen, wherever it is allowed by the law and the nature of the work.
+
+Tobacco and sugar planting can afford the cost of slave-cultivation.
+
+Wheat-planting currently cannot afford slaves.
+
+In the English colonies which principally grow wheat, most of the work is done by freemen.
+
+Recently, the Quakers in Pennsylvania adopted a resolution to free all their negro slaves.
+
+It shows that their slaves were not very numerous.
+
+If slaves made any big part of their property, such a resolution could never have been accepted.
+
+In our sugar colonies, on the contrary, all the work is done by slaves.
+
+In our tobacco colonies, much of the work is done by slaves.
+
+The profits of a sugar plantation in our West Indian colonies are much greater than the profits of any other cultivation in Europe or America.
+
+The profits of a tobacco plantation are inferior to those of sugar but superior to those of wheat.
+
+Both sugar and tobacco can afford slave-cultivation.
+
+But sugar can afford it better than tobacco.
+
+There are more negroes in our sugar colonies than in our tobacco colonies.

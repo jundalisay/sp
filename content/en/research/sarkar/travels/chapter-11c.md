@@ -10,11 +10,21 @@ author: Dada Dharmavedananda
 
 This morning, during the daily meeting of our 35 security cadres, I had the uncomfortable task of asking for a volunteer to stay and guard Baba's house during the DMC speech and varabhaya mudra . 51 
 
-"Whoever sacrifices himself for the welfare of others is guaranteed Baba's special grace," I said. "I know you've all come here looking forward to the DMC speech. Nevertheless, I'm sure at least one of you will selflessly relinquish his rights for the sake of the others." 
+
+{{< l a="Dharmavedanda" >}}
+Whoever sacrifices himself for the welfare of others is guaranteed Baba's special grace. I know you've all come here looking forward to the DMC speech. Nevertheless, I'm sure at least one of you will selflessly relinquish his rights for the sake of the others.
+{{< /l >}}
+
 
 My words met only silence. No one moved. A few seconds passed, and then one brother stepped forward. It was a young Margi from Ireland. 
 
-"Thank you, Sundara," I said. Honestly, I felt sorry for the lad. 
+
+{{< l a="Dharmavedanda" >}}
+Thank you, Sundara
+{{< /l >}}
+
+
+Honestly, I felt sorry for the lad. 
 
 Usually on DMC day Baba holds a special meeting of avadhutas to discuss some interesting matters and to bless us. This evening the answer to one question was, for me, especially imbued with mystical significance. 
 
@@ -80,28 +90,22 @@ Baba once said, " You should learn it in a disciplined way. Tandava represents l
 
 
 
-### Sacrifice paid back 100 times 
+## Sacrifice paid back 100 times 
 
 Today is our last day in Switzerland. Baba consented to hold a special meeting with the brothers and sisters who had worked as security volunteers throughout the week. 
 
-All stood at attention, forming a perfect line, facing Baba. I stood in the 
-front together with the Didi in charge of the sister volunteers. One brother came 
-forward and garlanded Baba with a wreath made of green pine needles. 
+All stood at attention, forming a perfect line, facing Baba. I stood in the front together with the Didi in charge of the sister volunteers. One brother came forward and garlanded Baba with a wreath made of green pine needles.
 
-"I regret to have troubled you all," Baba said. "You sacrificed your 
-comforts. You nobly sacrificed your time for the sake of assisting me and 
-serving your Margi brothers and sisters. For this I humbly thank you." 
+{{< l a="Baba" >}}
+I regret to have troubled you all," Baba said. "You sacrificed your comforts. You nobly sacrificed your time for the sake of assisting me and serving your Margi brothers and sisters. For this I humbly thank you.
+{{< /l >}}
+
 
 He spoke a bit more, then slowly walked over to the line. As he passed each cadet, He looked into their faces. At the end of the line He came to Sundara. 
 
-Baba removed the wreath from His own neck, placed it on Sundara, 
-and then patted the top of his head. At that moment the blood rushed to 
-Sundara's face, and he looked so high that I would not have been surprised if he 
-had collapsed in spiritual ecstasy. I think he remained standing only out of a 
-sense of duty. 
+Baba removed the wreath from His own neck, placed it on Sundara, and then patted the top of his head. At that moment the blood rushed to Sundara's face, and he looked so high that I would not have been surprised if he had collapsed in spiritual ecstasy. I think he remained standing only out of a sense of duty.
 
-Afterward Sundara said, "When Baba touched me, it was the highlight of 
-my life. He paid me back a hundred times over for missing DMC." 
+Afterward Sundara said, "When Baba touched me, it was the highlight of my life. He paid me back a hundred times over for missing DMC." 
 
 
 ### Revealing His knowledge 

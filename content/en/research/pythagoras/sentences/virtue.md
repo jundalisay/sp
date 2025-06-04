@@ -1,10 +1,9 @@
 ---
 title: "Virtues"
 weight: 16
-image: /covers/sentences.jpg
+c: "steelblue"
 description: "From The Protreptics Of Iamblichus"
 author: Iamblichus
-# icon: /icons/spmat.png
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The States"
 heading: "Chapter 5 "
 weight: 10
-image: "/flags/au.png"
+c: "darkslategray"
 description: "The Constitution of each State of the Commonwealth shall, subject to this Constitution, continue as at the establishment of the Commonwealth"
 icon: "/flags/au.png"
 ---

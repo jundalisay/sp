@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 3b"
-title: "Waves as Identity and Flow"
+title: "Waves as an Analog Flow"
 # date: 2020-01-01
 image: "/graphics/physics/waveflow.jpg"
 description: "Waves can be seen as identity or as flow"
@@ -18,14 +18,28 @@ Reality is made up of waves | Waves are either a flow or an identity
 {{< /dc >}}
 
 
+Chapter 2 explained that the aether was split into two parts:
 
-Material Superphysics is based on waves because the universe is made up of waves.
+1. Crude 
 
-A wave can be seen either:
-- as a flow, as the 2nd Aethereal Sublayer or
-- as an identity, as the 3rd Aethereal Sublayer
+This is made up of moa3 as the effect of the Negative Force
 
-As a flow, we call it energy. However, to keep the proper demarcation between the physical and metaphysical domains, we all energy in the aethereal layer as "effort".  
+2. Subtle
+
+This is made up of moa1 and moa2 as the effect of the Positive
+
+
+Since the aether has a wave-nature, this division gives 2 properties to waves:
+
+1. Waves as crude identities
+
+As identities, we call it particles.
+
+2. Waves as subtle flows
+
+As a flow, we call it energy. 
+
+However, to keep the proper demarcation between the physical and metaphysical domains, we call energy in the aethereal layer as "effort".  
 
 {{< i s="/graphics/super/egl.jpg" a="Effort" c="We call aethereal energy as Effort" >}}
 
@@ -112,3 +126,8 @@ Spacetime | Aethereal Wave into Physical Wave
 Radiant (Electromagnetic) | Physical Wave into Emitted Particles
 Convertible | Emitted Particles into Matter
 Material | Matter into Identity
+
+
+
+The gravitational signatures can then be manipulated through particle dialectics in order to create actions.
+

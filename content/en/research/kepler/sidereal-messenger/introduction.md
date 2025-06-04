@@ -1,13 +1,9 @@
-+++
-title=  "Introduction"
-description=  "In 1609, Galileo, then Professor of Mathematics at Padua, in the service of the Venetian Republic, heard from a correspondent at Paris of the invention of a telescope, and set to work to consider how such an instrument could be made"
-image=  "/avatars/kepler2.jpg"
-date=  "2020-01-06"
-linkb=  "/research/kepler"
-linkbtext=  "Works"
-linkf=  "/research/kepler"
-linkftext=  "Works"
-+++ 
+---
+title:  "Introduction"
+description:  ""
+c: "darkgoldenrod"
+date:  "2020-01-06"
+---
 
 
 In 1609, Galileo, then Professor of Mathematics at Padua, in the service of the Venetian Republic, heard from a correspondent at Paris of the invention of a telescope, and set to work to consider how such an instrument could be made. The result was his invention of the telescope known by his name, and identical in principle with the modern opera-glass. 

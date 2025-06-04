@@ -4,6 +4,7 @@ heading: "Appendix 2"
 date: 2022-01-10
 linkTitle: "EPR Paradox"
 # date: 2022-08-08
+weight: 66
 description: "Einstein explains the Lorentz Transformation"
 icon: "Einstein"
 c: "firebrick"

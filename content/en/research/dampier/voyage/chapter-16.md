@@ -24,7 +24,7 @@ Leaving the Luzon, and with it our golden projects, we sailed onto the southward
 These appear to be more mountainous and less woody till we came in sight of the island St. John; the first of that name I mentioned: the other I spoke of on the coast of China. This I have already described to be a very woody island. Here the wind coming southerly forced us to keep farther from the islands.
 
 
-## STOPPING AT 2 ISLES NEAR MINDANAO
+## Stopping At 2 Isles Near Mindanao
 <!-- ; WHERE THEY REFIT THEIR SHIP, AND MAKE A PUMP AFTER THE SPANISH FASHION. -->
 
 On October 14, we came close by a small low woody island that lies east from the south-east end of Mindanao, distant from it about 20 leagues. I do not find it set down in any sea-chart.

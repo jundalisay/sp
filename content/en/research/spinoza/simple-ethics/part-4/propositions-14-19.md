@@ -11,29 +11,36 @@ weight: 8
 
 
 
-### 14. A true knowledge of good and evil cannot check any emotion by virtue of being true, but only in so far as it is considered as an emotion. 
+### 14. A true knowledge of good and evil checks our emotion, not by being true, but by the strength of that knowledge.
+ <!-- only in so far as it is considered as an emotion.  -->
 
-Proof: An emotion is an idea, whereby the mind affirms of its body a greater or less force of existing than before (by the general Definition of the Emotions).
+Proof: An emotion is an idea, whereby the mind affirms the existence of its body.
 
-Therefore, it has no positive quality, which can be destroyed by the presence of what is true. 
+ <!-- a greater or less force of existing than before (by the general Definition of the Emotions). -->
 
-Consequently, the knowledge of good and evil cannot, by virtue of being true, restrain any emotion.
+Therefore, an emotion has no positive quality which can be destroyed by truth.
+ <!-- the presence of what is true.  -->
 
-But, in so far as such knowledge is an emotion (4.8.) if it have more strength for restraining emotion, it will to that extent be able to restrain the given emotion. Q.E.D.
+Consequently, the true knowledge of good and evil cannot restrain any emotion.
+
+We can restrain our emotion only if such knowledge has the strength to restrain it. Q.E.D.
 
 
-### 15. Desire arising from the knowledge of good and bad can be quenched or checked by many of the other desires arising from the emotions whereby we are assailed. 
+### 15. Desire arising from the knowledge of good and bad can be quenched or checked by many of the other desires arising from our emotions
 
 Proof: From the true knowledge of good and evil, in so far as it is an emotion, necessarily arises desire (Def. of the Emotions, 1), the strength of which is proportioned to the strength of the emotion wherefrom it arises (3.37).
 
-But, inasmuch as this desire arises (by hypothesis) from the fact of our truly understanding anything, it follows that it is also present with us, in so far as we are active (3.1.), and must therefore be understood through our essence only (3. Def. 2);
+But, inasmuch as this desire arises (by hypothesis) from the fact of our truly understanding anything, it follows that it is also present with us, in so far as we are active (3.1.).
+
+It must therefore be understood through our essence only (3. Def. 2).
+
 Consequently (3.7.) its force and increase can be defined solely by human power.
 
-Again, the desires arising from the emotions whereby we are assailed are stronger, in proportion as the said emotions are more vehement.
+The desires from the emotions are stronger in proportion as those emotions are more vehement.
 
 Wherefore their force and increase must be defined solely by the power of external causes, which, when compared with our own power, indefinitely surpass it (4.3.).
 
-Hence the desires arising from like emotions may be more vehement, than the desire which arises from a true knowledge of good and evil, and may, consequently, control or quench it. Q.E.D.
+Hence the desires arising from like emotions may be more vehement than the desire from a true knowledge of good and evil, and may, consequently, control or quench it. Q.E.D.
 
 
 ### 16. Desire arising from the knowledge of good and evil, in so far as such knowledge regards what is future, may be more easily controlled or quenched, than the desire for what is agreeable at the present moment. 
@@ -50,13 +57,28 @@ Wherefore desire arising from such knowledge, when concerned with the future, ca
 Proof: This Prop. is proved in the same way as the last Prop. from 4.12. Coroll. 
 
 
-Note: I think I have now shown the reason, why men are moved by opinion more readily than by true reason, why it is that the true knowledge of good and evil stirs up conflicts in the soul, and often yields to every kind of passion.
-This state of things gave rise to the exclamation of the poet= [12] "The better path I gaze at and approve, The worse—I follow."
+Note: This is why:
+- men are moved by opinion more readily than by true reason
+- the true knowledge of good and evil stirs up conflicts in the soul and often yields to every kind of passion.
+
+This gave rise to the poet saying: [12] 
+
+{{< q a="" >}}
+The better path I gaze at and approve, The worse—I follow.
+{{< /q >}}
 
 <!-- [12] Ov. Met. 7.20, "Video meliora proboque, Deteriora sequor." -->
 
-Ecclesiastes seems to have had the same thought in his mind, when he says, "He who increaseth knowledge increaseth sorrow."
-I have not written the above with the object of drawing the conclusion, that ignorance is more excellent than knowledge, or that a wise man is on a par with a fool in controlling his emotions, but because it is necessary to know the power and the infirmity of our nature, before we can determine what reason can do in restraining the emotions, and what is beyond her power.
+Ecclesiastes seems to have had the same thought in his mind, when he says:
+
+{{< q a="Ecclesiastes" >}}
+He who increaseth knowledge increaseth sorrow.
+{{< //q >}}
+
+I am not saying that ignorance is more excellent than knowledge, or that a wise man is on a par with a fool in controlling his emotions.
+
+I say those because it is necessary to know the power and the infirmity of our nature, before we can determine what reason can do in restraining the emotions, and what is beyond her power.
+
 In the present part, I shall merely treat of human infirmity.
 
 The power of reason over the emotions I have settled to treat separately.
@@ -124,6 +146,5 @@ Proof: The knowledge of good and evil is (4.8) the emotion of pleasure or pain, 
 Therefore, every man necessarily desires what he thinks good, and shrinks from what he thinks bad.
 
 Now this appetite is nothing else but man's nature or essence (Cf. the Definition of Appetite, 3.9. note, and Def. of the Emotions, 1).
-
 
 Therefore, every man, solely by the laws of his nature, desires the one, and shrinks from the other, etc. Q.E.D.

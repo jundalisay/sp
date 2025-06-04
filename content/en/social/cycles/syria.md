@@ -2,13 +2,12 @@
 title: "Syria"
 # heading: "Negative Thinker"
 date: 2024-12-09
-weight: 42
+weight: 180
 image: "/flags/sy.png"
 description : "The Al-Assad regime fell on Dec 8, 2024"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "/flags/sy.png"
 ---
 
 

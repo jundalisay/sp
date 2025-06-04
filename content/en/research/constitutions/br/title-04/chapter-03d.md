@@ -2,7 +2,7 @@
 title: "Labour Courts and Judges"
 heading: "Title 4 Chapter 3 Section 5"
 weight: 32
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

@@ -1,53 +1,54 @@
 ---
 heading: "Chapter 2d"
-title: "Distance and Second"
-# date: 2023-03-10
-weight: 7
-image: /graphics/physics/distance.jpg
-description: "We make a distance convention that is universal"
+title: "The Edge of the Unierse"
+# date: 2024-07-22
+weight: 6
+image: /graphics/physics/aetherspaceall.jpg
+description: "Physical Space is in the Physical Domain. Metaphysical Space is in the Metaphysical Domain"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+draft: true
 ---
 
 
 
-Physics was created from a position of ignorance on Nature. 
+Einstein fans say that he had an ether idea which cancels the emptiness of space. 
 
-This led to frequent changes in theory, from Aristotle's geocentric theory to Newton's gravity to Einstein's warping of spacetime. 
+But they don't understand that his ether is just Newton's absolute space: "Newton could have called his absolute space as Ether." (Einstein)
 
-This shows in its measurements as ugly and irrational numbers. 
+Einstein's ether idea is from Mach who, like Newton, used it as an empty canvas for physical phenomena:
 
-The French invented the meter based on the Earth's circumference divided by 4. That's why the Earth's circumference is 40,000 km. 
+"The isolated bodies A, B, C.. play a colateral role in determining the motion of body K which is determined by the medium that K exists in. We should substitute this medium for Newton's absolute space." (Mach, Science of Mechanics)
 
-It follows that 1 meter is really just 1 Earth size / 40,000,000, just as a second is just 1 Earth rotation / 86,400. 
+This means that Einstein-Mach ether is useless: "No one is competent to predicate things about absolute space. They are pure things of thought" (Mach)
 
-These values are in base-10 because humans have 10 fingers. 
+Descartes' aether, on the other hand, is the causal mechanism for all phenomena, as the substance of everything. 
 
-Those arbitrary numbers might seem pretty, but they turn ugly when modern people pegged them to electromagnetic phenomena. 
+Spinoza builds on this adding that this aethereal substance as the "backend" of the physical reality "frontend": "God, or substance, consisting of infinite attributes, of which each expresses eternal and infinite essentiality, necessarily exists" (Ethics, Part 1, Prop 11)
 
-For example, a second was standardized as exactly 9,192,631,770 oscillations of Cesium, while the meter was pegged to 1/299,792,458 distance traveled by light in a second. 
+In Einstein's system, the universe is bound by a fixed boundary determined by matter.
 
-The ugliest is pi which is hideous at 3.141592653589.
+In Descartes' system, the edge of the universe depends on the observer's aethereal mind.
 
-Physics assumes that such ugly constants stay constant everywhere in the universe. 
+For example, James Webb's mind had an aethereal desire to look farther into the cosmos. So he helped create the James Webb Space Telescope which actually expanded the age of the universe from 13.8b years to 26.7b.
 
-But to Descartes and Socrates, there are no constants in the universe. And so those measures will break down in other stars and galaxies. 
+Einstein's Relativity is based on the constant speed of light. But he is unable to explain why light has a fixed top speed. 
 
-To fix this, we use the perspective of the universe as the 5 Elements, and not of humans or the Earth. 
+Huygens explains that that is the speed allowed by Cartesian space particles called the 2nd Element which have a wave-nature and so gives wave-properties to light.
 
-We use base-6 in counting, as proven by the patterns in the Periodic Table and circles and time being in multiples of 6, as used by the Babylonians.
+Unlike Eisntein's universe which is bound by a useless ether, Descartes' universe is bound by the aetherspace which is determined by the observer himself.
 
-{{< i s="/graphics/physics/distance.png" a="Distance" >}}
+This allows an unlimited, explorable universe.
 
 
-This makes pi prettier whether at 3.0503300 (Archimedes) or 3.0505050 (7/22) or 3.05022..(official). We call this the "cutie pi" 👶
+Here, we show the operational difference between the Einstein-Mach ether versus the Descartes-Huygens-Plato aether (Spinoza-Aristotle substance) .
 
-Instead of arbitrary meters, we base length on the speed of light based on time of the oscillation of Cesium at 41,205,222,555. (This can be made non arbitrary at 40 trillion). 
+But this ether is very different from that of the ether of the mechanical wave-theory of light.
 
-We call this a "distance" which be expanded or shrunk so that 1 nanodistance is roughly 30 meters. 
+The ether of General Relativity is a medium which is itself devoid of all mechanical and kinematical qualities. But it helps to determine mechanical (and electromagnetic) events.
 
-When a human goes to another star or galaxy, he measures the time for cesium to get 40 trillion oscillations to establish a second, then uses that to measure the distance light travels to establish a nanodistance. 
+Mach Science of Mechanics I must here draw my readers' attention to a beautiful paper  
 
-This convention creates standard units for space and time that are universal.
+No one is competent to predicate things about absolute space and absolute motion; they are pure things of thought, pure mental constructs, that cannot be produced in experience. All our principles of mechanics are... experimental knowledge concerning the relative positions and motions of bodies. ...No one is warranted in extending these principles beyond the boundaries of experience. ...[S]uch an extension is meaningless, as no one possesses the requisite knowledge to make use of it.

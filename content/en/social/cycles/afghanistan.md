@@ -7,7 +7,6 @@ date: 2021-09-18
 weight: 2
 image: "/flags/af.png"
 description : "The most sustainable way to create peace and progress in Afghanistan is by installing Islamic feudalism offset by an civilized Protector"
-icon: "/flags/af.png"
 ---
 
 <!-- <img src="https://sorasystem.sirv.com/flags/af.svg" width="200px"> -->
@@ -30,8 +29,7 @@ This all changed when Trump announced a withdrawal of the US military by May 1, 
 This is because both sides had similar heavy weapons. And so airpower was the only edge that the Afghan army really had over the  Taliban which had a long, continuous fighting experience from the 1980s.*
 
 
-> *Here, even the Taliban prove how **sheer persistence** (even the stupid kind) can lead to success despite the initial remote chances. This is because "success" had both a physical-material and a metaphysical-aethereal manifestation. Metaphysical success is just the feeling or idea of success. The Physical success is how that success takes the form of actual atoms. It is very common to fail at first try because the idea of success (in the aethereal layer) is 4 layers away from the actual physical success (in the material layer). Standing in between those 2 layers is the spatial (spacetime) layer. **Therefore, keeping up the idea of success and working towards it no matter how long or how difficult it takes is an essential ingredient to actual success**. We actually have been using this since 2012 as we aim to establish our 6-sense science of Superphysics as an alternative to the current 5-sense sciences which are obviously deficient and limited. 
-
+{{< n n="*Here, even the Taliban prove how **sheer persistence** (even the stupid kind) can lead to success despite the initial remote chances. This is because 'success' had both a physical-material and a metaphysical-aethereal manifestation. Metaphysical success is just the feeling or idea of success. The Physical success is how that success takes the form of actual atoms. It is very common to fail at first try because the idea of success (in the aethereal layer) is 4 layers away from the actual physical success (in the material layer). Standing in between those 2 layers is the spatial (spacetime) layer. **Therefore, keeping up the idea of success and working towards it no matter how long or how difficult it takes is an essential ingredient to actual success**. We actually have been using this since 2012 as we aim to establish our 6-sense science of Superphysics as an alternative to the current 5-sense sciences which are obviously deficient and limited. " >}}
 
 
 <!-- They lost this when the Americans cut off that support. -->
@@ -149,7 +147,8 @@ The US failed to understand that the Middle East is a landlocked, barren,  and i
 
 The goodness of Mother Nature led to the French, Italian, and Americans developing a civilized culture. In contrast, the harshness of Nature in deserts led to the Arabians, Mongolians, and some Native Americans to develop a barbarous culture that is used to raiding, war, and arbitrary laws. This is why civilized policies like democracy and commercial trade work for civilized countries, while barbarous policies like tyranny and simple laws work for barbarous countries*. 
 
-> *Update Jan 2023: This is root of the difference between [fertile Ukraine and barren Russia](/social/cycles/russia)
+
+{{< n n="*Update Jan 2023: This is root of the difference between [fertile Ukraine and barren Russia](/social/cycles/russia)" >}}
 
 
 <!-- They seem to have forgotten that democracy in Europe took a long time to develop. It did not emerge until the 1800s, after the French revolution, hundreds of years after the fall of the Roman Empire. 
@@ -166,8 +165,6 @@ The biggest mistake of the US is to assume that democracy will work for the Afgh
 - hierarchal leadership
 - ready-made Islamic jurisprudence (no need to think, just read and apply i.e. only literacy skill is needed)
 - tribal transactions
-
- 
 
 Because of the mismatch, an Afghan rent-seeking class naturally emerged to manage and bridge the civilized with barbaric. This is similar to talking to a foreigner who speaks in an uncommon language that needs a translator who then gets the power to misinterpret or corrupt his words. 
 
@@ -247,9 +244,6 @@ When the US left, the Afghan government merely left with the US and its money an
 The Prophet Mohammad created a better policy of taxation (jizya) and charity (zakat) to unify the Arab tribes and end the horrors created by raiding. In addition, his Quran had the rules for morals, police, justice, and economics tailor-made for barbarous peoples.  The rapid and nearly effortless success of the Taliban both in 1996 and 2021 are then proofs that the policies of the Prophet Mohammad were genius, that they are the superior solution for such people even in modern times. 
 
 The 12 tribes of Israel used Judaism as a solution, but that's another story, with its own pros and cons.
-
-<br>
-<br>
 
 ### So How Could the US Have done Better?
 

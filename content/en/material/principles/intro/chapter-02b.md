@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2c"
+heading: "Chapter 2b"
 title: "The Probability Layer"
 # date: 2020-01-01
 image: "/photos/objects/rubik.jpg"
@@ -22,10 +22,8 @@ There are 5 Layers in Reality | Layer 0 is the Probability Layer
 The Probability Layer is above and covers the aethereal layer. This means it is above existence  and is only theoretical.  We can also call this pre-existence that binds existence.
 
 
-{{< q a="Poincare" c="" >}}
-Predicted facts can only be probable.
-
-Every time the physicist reasons by induction, he consciously requires the calculus of probabilities. That is why I examine what this calculus is worth, and what dependence we may place on it.
+{{< q a="Henri Poincare" c="" >}}
+Predicted facts can only be probable. Every time the physicist reasons by induction, he consciously requires the calculus of probabilities. That is why I examine what this calculus is worth, and what dependence we may place on it.
 {{< /q >}}
 
 

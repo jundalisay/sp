@@ -3,14 +3,14 @@ title: "The Hatha Yogi"
 c: "indigo"
 heading: "Chapter 20c"
 weight: 84
-description: "Sri Ramakrishna was sitting in his room after his midday meal, with Rākhāl, Ram, and some other devotees. He was not quite well"
+description: "Sri Ramakrishna was sitting in his room after his midday meal, with Rakhal, Ram, and some other devotees. He was not quite well"
 ---
 
 
 
 March 23, 1884
 
-Sri Ramakrishna was sitting in his room after his midday meal, with Rākhāl, Ram, and some other devotees. He was not quite well. The injured arm was still bandaged.
+Sri Ramakrishna was sitting in his room after his midday meal, with Rakhal, Ram, and some other devotees. He was not quite well. The injured arm was still bandaged.
 
 But in spite of his illness, his room was a veritable mart of joy and he the centre of it.
 

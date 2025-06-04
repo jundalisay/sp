@@ -2,7 +2,7 @@
 title: "The Federal Senate"
 heading: "Chapter 1 Section 4-5"
 weight: 12
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

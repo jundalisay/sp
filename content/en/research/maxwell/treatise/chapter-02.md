@@ -1,5 +1,5 @@
 ---
-title: "THE CHARGES OF ELECTRIFIED BODIES"
+title: "The Charges Of Electrified Bodies"
 heading: "Chapter 2"
 weight: 12
 date: 2023-05-27

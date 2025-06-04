@@ -31,11 +31,19 @@ Physicians of the higher class do busy themselves much with the knowledge of the
 
 So then the statesman is to consider the nature of the Soul: but he must do so with these objects in view, and so far only as may suffice for the objects of his special enquiry: for to carry his speculations to a greater exactness is perhaps a task more laborious than falls within his province.
 
-In fact, the few statements made on the subject in my popular treatises are quite enough, and accordingly we will adopt them here: as, that the Soul consists of two parts, the Irrational and the Rational (as to whether these are actually divided, as are the parts of the body, and everything that is capable of division; or are only metaphysically speaking two, being by nature inseparable, as are convex and concave circumferences, matters not in respect of our present purpose).
+I will add here a few statements from my popular treatises.
 
-Of the Irrational, the one part seems common to other objects, and in fact vegetative; I mean the cause of nourishment and growth (for such a faculty of the Soul one would assume to exist in all things that receive nourishment, even in embryos, and this the same as in the perfect creatures; for this is more likely than that it should be a different one).
+The Soul consists of 2 parts, the Irrational and the Rational.
 
-The Excellence of this manifestly is not peculiar to the human species but common to others: for this part and this faculty is thought to work most in time of sleep, and the good and bad man are least distinguishable while asleep; whence it is a common saying that during one half of life there is no difference between the happy and the wretched; and this accords with our anticipations, for sleep is an inactivity of the soul, in so far as it is denominated good or bad, except that in some wise some of its movements find their way through the veil and so the good come to have better dreams than ordinary men. 
+It does not matter now whether these are actually:
+- divided like the parts of the bodym, or
+- are only metaphysically two, being by nature inseparable, as are convex and concave circumferences, 
+
+Of the Irrational, the one part seems common to other objects, and in fact vegetative. I mean the cause of nourishment and growth (for such a faculty of the Soul one would assume to exist in all things that receive nourishment, even in embryos, and this the same as in the perfect creatures; for this is more likely than that it should be a different one).
+
+The Excellence of this manifestly is not peculiar to the human species but common to others: for this part and this faculty is thought to work most in time of sleep, and the good and bad man are least distinguishable while asleep; whence it is a common saying that during one half of life there is no difference between the happy and the wretched; 
+
+This accords with our anticipations, for sleep is an inactivity of the soul, in so far as it is denominated good or bad, except that in some wise some of its movements find their way through the veil and so the good come to have better dreams than ordinary men. 
 
 <!-- But enough of this: we must forego any further mention of the nutritive part, since it is not naturally capable of the Excellence which is peculiarly human. -->
 

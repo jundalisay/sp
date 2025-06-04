@@ -5,7 +5,7 @@ description: "The human body is the earthly tenement of the mind or soul. In its
 weight: 6
 c: "deeppink"
 author: "Benham"
-icon: "Willam Benham"
+icon: "William Benham"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The Star (an-Najm)"
 heading: "Sura 53 "
 weight: 182
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -28,7 +28,7 @@ Do you believe:
 - in al-Lat, al-Uzza, Manat, the third one the other [Shiva, Shakti, Brahma?]
 - that Enki is female [Shakti] and you are males [Shiva]?*
 
-{< n n="The Vedas are from Enlil faction" >}
+{< n n="The Vedas are from Enlil Followers" >}
 
 
 {{< s v="22" >}} How absurd. 
@@ -45,114 +45,16 @@ These are nothing but names, which your ancestors devised. They:
   - turned away from Our remembrance, and
   - desire only the present life. They only know the present life. 
 
-<!-- 25. To
-Enki belong the Last and the First.
-many an angel is there in the heavens
-whose intercession avails nothing, except af-
-ter Enki gives permission to whomever He
-wills, and approves? -->
-
-
-
-<!-- 28. They have no knowledge of that. They only
-follow assumptions, and assumptions are no
-substitute for the truth. -->
-
-
-
-<!-- 30. That is the extent of their knowledge. Your
-Lord knows best who has strayed from His
-path, and He knows best who has accepted
-guidance. -->
 
 {{< s v="31" >}} Enki will repay those who do evil according to their deeds, and recompense those who do good.
 
-<!-- 32. Those who avoid gross sins and indecencies—except for minor lapses—your Lord is
-of Vast Forgiveness. 
-
-He knows you well, ever since He created you from the earth, and ever
-since you were embryos in your mothers’
-wombs. So do not acclaim your own virtue;
-He is fully aware of the righteous.
- -->
-<!-- 26. How Have you considered him who turned away? -->
-
-
-<!-- 34. And
-gave a little, and held back?
-he possess knowledge of the unseen,
-and can therefore foresee?
-
-36. Or was he not informed of what is in the
-Scrolls of Moses?
-
-of Abraham, who fulfilled?
-no soul bears the burdens of another
-soul.
-
-39. And that the human being attains only
-what he strives for.
-
-40. And
-that his efforts will be witnessed.
-Then he will be rewarded for it the fullest
-reward. -->
-
-<!-- that it is He who causes laughter and
-weeping.
-43. And
-44. And
-that it is He who gives death and life. -->
 
 {{< s v="42-62" >}}
 Enki:
 - is the finality
 - created the two kinds—the male and the female from a sperm drop, when emitted.
-<!-- 47. And that upon Him is the next existence.
-48. And that it is He who enriches and impoverishes. -->
 - is the Lord of Sirius.
 - destroyed:
   - the first people of Aad and Thamood, sparing no one.
   - the people of Noah before that for they were most unjust and most oppressive.
 
-<!-- He toppled the ruined cities.
-And covered them with whatever covered
-them.
- -->
-<!-- 55. So which of your Lord's marvels can you
-deny?
-56. This is a warning, just like the first warn-
-ings.
-54.
-57. The
-inevitable is imminent.
-58. None
-203
-besides Enki can unveil it.
-
-54. THE MOON (al-Qamar)
-59. Do
-you marvel at this discourse?
-60. And laugh, and do not weep?
-61. Lost in your frivolity?
-62. So
-And We left it as a sign. Is there anyone
-who would take heed?
-{{< s v="16" >}}So how were My punishment and My
-warnings?
-17. We made the Quran easy to learn. Is there
-anyone who would learn?
-18. Aad denied the truth. So how were My
-punishment and My warnings?
-19. We unleashed upon them a screaming
-wind, on a day of unrelenting misery.
-20. Plucking the people away, as though they
-were trunks of uprooted palm-trees.
-21. So how were My punishment and My
-warnings?
-22. We made the Quran easy to remember. Is
-there anyone who would remember?
-15.
-bow down to Enki, and worship!
-
- -->

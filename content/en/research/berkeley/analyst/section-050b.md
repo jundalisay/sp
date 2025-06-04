@@ -3,7 +3,7 @@ title: "Mathematicians Deceived"
 # heading: "Englightened"
 weight: 67
 description: ""
-:c: "steelblue"
+c: "steelblue"
 ---
 
 

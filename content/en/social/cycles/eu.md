@@ -5,11 +5,11 @@ linkTitle: EU
 date: 2025-01-06
 weight: 57
 image: "/flags/eu.png"
+draft: true
 description: "The social cycles of EU last.."
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: /flags/eg.png
+  url: https://www.linkedin.com/in/jundalisay
 ---
 
 

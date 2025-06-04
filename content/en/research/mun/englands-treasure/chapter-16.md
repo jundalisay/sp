@@ -2,7 +2,8 @@
 title:  "How the Revenues of Princes can be raised"
 heading:  "Chapter 16 "
 date:  2020-01-18
-image:  "/covers/treasure.jpg"
+weight: 34
+c: "firebrick"
 description:  "Government revenue can be increased by taxation"
 ---
 

@@ -133,9 +133,9 @@ horses.' (All laugh.)
 "Yes, a worldly person is in a state of intoxication. He always says to himself: 'It is I who
 am doing everything. All these-the house and family are mine.' Baring his teeth, he
 says: 'What will happen to my wife and children without me? How will they get along?
-Who will look after my wife and children?' Rākhāl said one day, 'What will happen to my
+Who will look after my wife and children?' Rakhal said one day, 'What will happen to my
 wife?'"
-HARAMOHAN: "Did Rākhāl say that?"
+HARAMOHAN: "Did Rakhal say that?"
 Go beyond knowledge and ignorance
 MASTER: "What else could he do? He who has knowledge has ignorance also. 'How
 amazing!' Lakshmana said to Rāma. 'Even a sage like Vasishtha is stricken with grief
@@ -284,7 +284,7 @@ should visit you frequently. It may do you harm. Hazra is a real man, a grand fe
 Don't allow those young people to visit you so much.' At first I said, 'What can I do if
 they come?' Then I gave him some mortal blows. His daughter laughed. I said to him:
 'God is far, far away from the worldly-minded. But God is very near the man-nay, within
-a distance of three cubits-whose mind is free from worldliness.' Speaking of Rākhāl ,
+a distance of three cubits-whose mind is free from worldliness.' Speaking of Rakhal ,
 Captain said, 'He eats with all sorts of people.' Perhaps he had heard it from Hazra.
 Thereupon I said to him: 'A man may practise intense austerity and japa, but he won't
 achieve anything if his mind dwells on the world. But blessed is the man who keeps his
@@ -391,7 +391,7 @@ Calcutta to earn money; otherwise his people at home will have nothing to eat. S
 has to knock at different doors. When will he concentrate his mind on God? But the
 youngsters are untouched by 'woman and gold'; hence they can direct their mind to God
 whenever they desire.
-"The youngsters do not enjoy worldly people's company. Rākhāl used to say, 'I feel
+"The youngsters do not enjoy worldly people's company. Rakhal used to say, 'I feel
 nervous at the sight of the worldly-minded.' When I was first beginning to have spiritual
 experiences, I used to shut the doors of my room when I saw worldly people coming.
 Master's boyhood reminiscences

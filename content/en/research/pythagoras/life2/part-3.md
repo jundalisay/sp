@@ -2,7 +2,7 @@
 heading: Part 3
 title: "Pythagoras' Reputation Spreads"
 weight: 6
-image: /covers/lifepyp.png
+c: "steelblue"
 description: "During his travels in Italy and Sicily, he founded various cities subjected one to another, both of long standing, and recently."
 author: Propery
 # icon: /icons/spmat.png

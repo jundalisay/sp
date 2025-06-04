@@ -12,21 +12,11 @@ c: "firebrick"
 
 2 Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which [is] upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, [which is] the border of the children of Ammon; 
 
-3} And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain,
-[even] the salt sea on the east, the way to Beth-jeshimoth;
-and from the south, under Ashdoth-pisgah:
+3 From the plain to the sea of Chinneroth on the east, and unto the sea of the plain, [even] the salt sea on the east, the way to Beth-jeshimoth; and from the south, under Ashdoth-pisgah:
 
-4} And the coast of Og king of Bashan, [which was]
-of the remnant of the giants, that dwelt at Ashtaroth and at
-Edrei, 5} And reigned in mount Hermon, and in Salcah,
-and in all Bashan, unto the border of the Geshurites and the
-Maachathites, and half Gilead, the border of Sihon king of
-Heshbon. 6} Them did Moses the servant of Enki
-and the Israelites smite: and Moses the servant of
-Enki gave it [for] a possession unto the Reubenites,
-and the Gadites, and the half tribe of Manasseh.
+4 The coast of Og king of Bashan, [which was] of the remnant of the giants, that dwelt at Ashtaroth and at Edrei, 5} And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon. 6} Them did Moses the servant of Enki and the Israelites smite: and Moses the servant of Enki gave it [for] a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh.
 
-7} And these [are] the kings of the country which Joshua and the Israelites smote on this side Jordan on the west, from Baal-gad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel [for] a possession according to  their divisions; 8} In the mountains, and in the valleys,
+7 These [are] the kings of the country which Joshua and the Israelites smote on this side Jordan on the west, from Baal-gad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel [for] a possession according to  their divisions; 8} In the mountains, and in the valleys,
 and in the plains, and in the springs, and in the wilderness,
 and in the south country; the Hittites, the Amorites, and the
 Canaanites, the Perizzites, the Hivites, and the Jebusites:

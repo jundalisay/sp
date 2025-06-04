@@ -2,7 +2,7 @@
 title: "General"
 heading: "Part 1"
 weight: 1
-image: "/flags/au.png"
+c: "darkslategray"
 description: "Legislative power and Governor General"
 icon: "/flags/au.png"
 ---

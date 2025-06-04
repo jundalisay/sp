@@ -18,15 +18,21 @@ The Radiant Layer is divided into Upper, Middle, and Lower, with the Upper being
 
 Sublayer | Example | Quanta 
 --- | --- | --- 
-Upper | Light | Muon 
-Mid | Heat | Tau 
-Lower | Magnetism | Electron
+Upper | Light | Electron
+Mid | Magnetism | Muon
+Lower | Heat | Tau
 
 
-<!-- The Upper Radiant is  the realm of mental space and time and is not physical. 
+The Upper Radiant is the electromagnetic spectrum as radiowaves, light, and ultraviolet. Its job is to relay inforation about the lower layers such as matter. 
 
-The Middle Spacetime allows acces to different universes, each one with different Physics. It is quasi-physical since it is the bridge between physical spacetime and the aether which is not bound by space nor time.
+The Middle Radiant is magnetism.
 
-The Lower Spacetime is the realm that we can see. It manifests as the distance between objects on our table and that between two galaxies. It is physical since our 5 senses can clearly detect space and time. 
+The Lower Radiant is Heat.
 
- -->
+
+## The Radiant Internal Boundary: The "Higgs Field"
+
+The 'Higgs field is the internal boundary within the Radiant Layer.
+
+This separates those which have electromagnetic mass, such as electrons, with those that do not have mass, such as photons.
+

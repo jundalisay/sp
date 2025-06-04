@@ -15,7 +15,7 @@ icon: "Rene Descartes"
 {{< n n="We replace 'striated particles' with 'virtual photons', and 'spot' with 'coronal hole' in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 105. There are many channels in coronal holes through which virtual photons freely pass
+## 105. There are many channels in coronal holes through which virtual photons freely pass
 
 Let Star `I` be entirely covered by the coronal hole `defg`.
 
@@ -37,7 +37,7 @@ The channels that admit virtual photons coming from one pole cannot admit:
   <!-- are not suitable for those particles if they try to return, nor for those coming from the other pole, which are twisted in the opposite direction. -->
 
 
-#### 106. The arrangement of these channels and why the virtual photons cannot regress through them
+## 106. The arrangement of these channels and why the virtual photons cannot regress through them
 
 The virtual photons of the fire-aether come from the area of `Pole A`, not from a single point.
 
@@ -58,14 +58,14 @@ Therefore, if they were to regress through the same channels from `d` to `f`, th
 Similarly, the virtual photons coming from `B` carved out other channels for themselves, with entrances scattered over the entire surface `edg` and exits on the opposite side `efg`.
 
 
-#### 107. Why particles coming from one pole do not pass through the same channels as those coming from the other
+## 107. Why particles coming from one pole do not pass through the same channels as those coming from the other
 
 These channels are also carved in the shape of spirals, resembling the shape of the virtual photons that they admit. 
 
 Therefore, the channels that are open to one set are not open to those coming from the opposite pole and twisted in the opposite direction.
 
 
-#### 108. How the fire-aether flows through these channels
+## 108. How the fire-aether flows through these channels
 
 Thus, the fire-aether can reach `Star I` through these channels from both poles. 
 

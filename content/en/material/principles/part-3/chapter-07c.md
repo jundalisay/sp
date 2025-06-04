@@ -3,7 +3,7 @@ heading: "Chapter 7c"
 title: "Maxwell's Equations"
 # date: 2024-07-22
 weight: 29
-image: /covers/maxwell.jpg
+image: /photos/physics/elec.jpg
 description: "Radiant Territories are the electromagentic fields of Physics."
 icon: /icons/spmat.pn
 writer:

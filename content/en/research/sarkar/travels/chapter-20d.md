@@ -12,13 +12,19 @@ Baba's personal assistant, Dada Keshavananda, told us about the days leading up 
 
 Since August, He was clearly in a hurry. He spent very little time alone,  instead calling frequent group and individual meetings. 
 
-Over the last weeks, many times in the wee hours of the morning, say 3:00 or 4:00, He woke me, and instructed me to call certain workers. The first time it 
-happened I told Him that it was 3:00, and that they would surely be 
-sleeping. 
+Over the last weeks, many times in the wee hours of the morning, say 3:00 or 4:00, He woke me, and instructed me to call certain workers. The first time it happened I told Him that it was 3:00, and that they would surely be sleeping. 
 
-He became angry, and said, If those workers are not here within ten minutes, I shall never give them the program that's in my mind.' Of course I got them. We all became exhausted with His speed, but instead of slowing down, He accelerated. 
+He became angry:
+
+{{< l a="Baba" >}}
+If those workers are not here within ten minutes, I shall never give them the program that's in my mind.
+{{< /l >}}
+
+
+Of course I got them. We all became exhausted with His speed, but instead of slowing down, He accelerated. 
 
 Sometimes we talked between ourselves, wondering at the cause of His haste. No one, however, came close to imagining that He was busy putting the final touches on His life's work. 
+
 
 "Only one week before His departure, Baba gave kapalika initiation to the largest number of workers ever. He requested one hundred candidates. Because He had always been very selective in approving workers for this purpose, we were not prepared, and could only round up seventy-nine. He always rejected more applicants than He approved. 
 
@@ -45,6 +51,7 @@ About 5 minutes later, He rang the callbell, and when I came, He pointed at His 
 "I immediately ran for the doctors. They came quickly, and began massage. But as they felt for Baba's pulse, their faces became ashen. When they said, 'The life-force is gone,' we could not believe it."
 
 Dada Mantreshvarananda, the Central Public Relations Secretary said: 
+
 
 "Why did He leave so suddenly? I remember several years ago, Baba said, 'When my work is done, I will leave immediately. I won't remain even a single extra moment.' 
 

@@ -2,7 +2,7 @@
 title: "Clot (al-’Alaq)"
 heading: "Sura 96 "
 weight: 250
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -15,19 +15,27 @@ Your Lord created man from a clinging substance.
 
 6. Man transgresses because he sees himself self-sufficient.
 
-8. Indeed, to your Lord is the return.
+8. To your Lord is the return.
+
 9. Have you seen the one who forbids
+
 10. A servant when he prays?
-11. Have you seen if he is upon guidance
-12. Or enjoins righteousness?
+
+
+11. Have you seen if he is upon guidance 12. Or enjoins righteousness?
+
 13. Have you seen if he denies and turns away –
+
 14. Does he not know that AllŒh sees?
-15. No! If he does not desist, We will surely drag him by the
-forelock 
+
+15. No! If he does not desist, We will surely drag him by the forelock 
+
 16. A lying, sinning forelock.
 
 17. Then let him call his associates;
+
 18. We will call the angels of Hell. 1823
+
 19. No! Do not obey him. But prostrate and draw near [to AllŒh].
 
 <!-- 
@@ -94,7 +102,7 @@ come near.
 19. No, -->
 
 
-## 97. DECREE (al-Qadr)
+## 97. Decree (al-Qadr)
 
 
 {{< s v="1-5" >}} We sent the Quran down on the Night of Decree. That Night is better than a thousand months.
@@ -102,5 +110,3 @@ come near.
 The angels and Gabriel descend therein by permission of their Lord for every matter.
 
 Then there is be peace until the rise of dawn.
-
-

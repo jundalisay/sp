@@ -2,7 +2,7 @@
 title: "Abraham and the Moon"
 heading: "Sura 6b "
 weight: 60
-c: "seagreen"
+c: "firebrick"
 description: "Abraham said to his father Azar :Do you take idols for gods? I see that you and your people are in evident error."
 ---
 

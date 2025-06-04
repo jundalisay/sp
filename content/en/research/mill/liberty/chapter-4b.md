@@ -5,7 +5,7 @@ c: "firebrick"
 weight: 20
 contributors: ['John Stuart Mill']
 description: "The moral vices pride and egotism"
-icon: "/icons/mill.png"
+icon: "John Stuart Mill"
 ---
 
 

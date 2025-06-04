@@ -53,15 +53,16 @@ It would be useless to tell:
 
 <!-- How can we doubt the word of the children of the gods? Although they give no probable or certain proofs, still, as they declare that they are speaking of what took place in their own family, we must conform to custom and believe them. In this manner, then, according to them, the genealogy of these gods is to be received and set forth. -->
 
+## Dharma
+
 Oceanus and Tethys were the children of Earth and Heaven. From these sprang Phorcys and Cronos and Rhea, and all that generation. From Cronos and Rhea sprang Zeus and Here, and all those who are said to be their brethren, and others who were the children of these.
 
 When all of them<!-- , both those who visibly appear in their revolutions as well as those other gods who are of a more retiring nature, --> had come into being, the Creator told them: 
 
 <!-- ‘Gods, children of gods, who are my works, and of whom I am the artificer and father, -->
 
-## Dharma
 
-{{< q >}}
+{{< l a="Creator" >}}
 My creations are indissoluble, if so I will. All that is bound may be undone. But only an evil being would wish to undo that which is harmonious and happy. 
 
 <!-- Wherefore, since ye are but creatures,  -->
@@ -85,16 +86,16 @@ You will then:
 - give them food
 - make them to grow
 - receive them again in death.
-{{< /q >}}
+{{< /l >}}
 
 
-
-
-Thus he spake, and once more into the cup in which he had previously mingled the soul of the universe he poured the remains of the elements, and mingled them in much the same manner; 
+Thus he spake, and once more into the cup in which he had previously mingled the soul of the universe he poured the remains of the elements, and mingled them in much the same manner.
 
 They were diluted to the second and third degree, not pure as before. 
 
-He divided this whole mixture into souls equal in number to the stars, and assigned each soul to a star. Having there placed them as in a chariot, he showed them the nature of the universe, and declared to them the laws of destiny, according to which their first birth would be one and the same for all. No one should suffer a disadvantage at His hands.
+He divided this whole mixture into souls equal in number to the stars, and assigned each soul to a star. 
+
+Having there placed them as in a chariot, he showed them the nature of the universe, and declared to them the laws of destiny, according to which their first birth would be one and the same for all. No one should suffer a disadvantage at His hands.
 
 They were to be sown in the instruments of time severally adapted to them, and to come forth the most religious of animals. 
 
@@ -106,9 +107,9 @@ Now, when they should be implanted in bodies by necessity, and be always gaining
 - it would be necessary that they should all have in them one and the same faculty of sensation, arising out of irresistible impressions; 
 - They must have love, in which pleasure and pain mingle; also fear and anger, and the feelings which are akin or opposite to them; 
 
-if they conquered these they would live righteously. if they were conquered by them, unrighteously. 
+If they conquered these they would live righteously. if they were conquered by them, unrighteously. 
 
-He who lived well during his appointed time was to return and dwell in his native star, and there he would have a blessed and congenial existence. But if he failed in attaining this, 
+He who lived well during his appointed time was to return and dwell in his native star, and there he would have a blessed and congenial existence. But if he failed in attaining this then:
 
 2. Man would would pass into a woman.
 

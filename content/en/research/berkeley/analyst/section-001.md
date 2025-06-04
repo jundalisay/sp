@@ -3,7 +3,7 @@ title: "The Method of Fluxions"
 # heading: "Englightened"
 weight: 7
 description: ""
-:c: "steelblue"
+c: "steelblue"
 author: "George Berkeley"
 icon: "George Berkeley"
 ---

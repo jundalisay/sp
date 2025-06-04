@@ -1,14 +1,12 @@
-+++
-title=  "Is it necessary for Princes to Have a Store of Treasure?"
-heading=  "Chapter 17"
-date=  2020-01-17
-image=  "/covers/treasure.jpg"
-description=  "Governments must be frugal in order to save up and avoid war and disorder."
-linkbtext=  "Chapter 16"
-linkb=  "/research/mun/englands-treasure/chapter-16"
-linkftext=  "Chapter 18"
-linkf=  "/research/mun/englands-treasure/chapter-18"
-+++
+---
+title:  "Should Princes to Have a Store of Treasure?"
+heading:  "Chapter 17"
+date:  2020-01-18
+weight: 36
+c: "firebrick"
+description:  "Governments must be frugal in order to save up and avoid war and disorder"
+---
+
 
 Is Treasuring by the Prince necessary?
 

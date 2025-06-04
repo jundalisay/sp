@@ -3,7 +3,7 @@ title: "An Act to constitute the Commonwealth of Australia"
 # date: 1900-07-09
 heading: "Chapter 2"
 weight: 4
-image: "/flags/au.png"
+c: "darkslategray"
 description: "The executive power of the Commonwealth is vested in the Queen and is exercisable by the Governor-General as the Queen’s representative"
 icon: "/flags/au.png"
 ---

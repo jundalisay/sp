@@ -13,8 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-
-#### 9. What is thought (COGITATIO)?
+## 9. What is thought (COGITATIO)?
 
 "Thought" is all that takes place in us that we are immediately conscious of. 
 
@@ -40,7 +39,7 @@ But if this seeing or walking is the sensation itself, then it is the consciousn
 
 
 
-#### 10. The notions which are simplest and self-evident, are obscured by logical definitions.
+## 10. The notions which are simplest and self-evident, are obscured by logical definitions.
 
 These are born with us and not among the cognitions acquired by study.
 
@@ -58,7 +57,7 @@ I did not enumerate them there because:
 - these themselves afford the knowledge of nothing existing
 
 
-#### 11. How can we know our mind more clearly than our body?
+## 11. How can we know our mind more clearly than our body?
 
 Our knowledge of the mind precedes, has greater certainty, and is even clearer, than our knowledge of the body.
 
@@ -83,7 +82,7 @@ We can only know about something as long as we are certain about that knowledge 
 but it is not possible that I should so judge, and my mind which thus judges not exist; and the same holds good of whatever object is presented to our mind. -->
 
 
-#### 12. Why does this not come equally to everyone?
+## 12. Why does this not come equally to everyone?
 
 This is because they never distinguished the mind from the body with sufficient care.
 
@@ -106,7 +105,7 @@ Instead, they used their bodies to do the perceiving:
 They erroneously attributed the faculty of perception to their eyes and hands. These prevented them from distinctly apprehending the nature of the mind.
 
 
-#### 13. In what sense does the knowledge of other things depend on the knowledge of God?
+## 13. In what sense does the knowledge of other things depend on the knowledge of God?
 
 A mind might know itself but still doubt all other things.
 - It looks around on all sides to widen its knowledge.

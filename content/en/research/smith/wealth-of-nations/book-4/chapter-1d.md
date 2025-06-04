@@ -1,9 +1,9 @@
 ---
-title: "Trade"
+title: "Bullion and the Mercantile Republic"
 heading: "Chapter 1d"
-description: "Foreign trade gives a value to their nations' superfluities by exchanging them for something else to satisfy their wants"
+description: "Not much can be spared from the circulating money of the country because there is seldom much redundancy"
 c: "seagreen"
-weight: 16
+weight: 14
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -12,195 +12,128 @@ icon: "Adam Smith"
 
 
 
-{{< s v="31" >}} The importation of gold and silver is not the sole benefit from foreign trade. All nations derive two benefits from it:
+{{< s v="28" >}} Besides the three kinds of gold and silver mentioned above, there is a lot of bullion alternately imported and exported for foreign trade in all great commercial countries.
 
-1. It carries out their surplus produce which has no demand at home
-2. It brings back something else for which there is a demand.
+This bullion circulates among commercial countries in the same way as the national coin circulates in every country.
+This bullion is the money of the great mercantile republic.
 
-Foreign trade gives a value to their nations' superfluities by exchanging them for something else.
+The national coin receives its movement and direction from the commodities circulated within the country.
 
-The narrowness of the home market limits a country's division of labour. This hindrance is removed by foreign trade. By opening a wider market for their surplus produce, they are encouraged to increase: 
-- their produce and
-- their society's real wealth.
+The mercantile republic's bullion gets its movement from the circulation between countries.
 
-Foreign trade performs this important service to all countries which trade. 
-<!-- They all derive great benefit from trade. -->
+Both are employed in facilitating exchanges.
 
-The country where the merchant resides gets the greatest benefit.
-- The merchant supplies his own wants, over those of other countries.
+The coin facilitates exchanges between individuals.
 
-The importation the gold and silver by countries which have no mines is the most insignificant kind of foreign commerce.
-- A country which does foreign trade only for this purpose will not likely freight a ship in a century.
+The bullion facilitates exchanges between nations.
+- Part of the bullion of the great mercantile republic probably was employed in the recent war.
 
+The movement and direction of bullion is different during wartime and during peacetime.
 
-## The Benefits of the Discovery of the Americas and the East Indies
+Bullion should circulate nearer to the seat of the war.
+- It should be more employed to purchase the pay and provisions of the armies there and in the neighbouring countries.
 
+This bullion of the mercantile republic was purchased by Great Britain with British or foreign commodities.
+- This brings us back to commodities or the national annual produce, as the ultimate resources which enabled us to carry on the war.
 
-{{< s v="32" >}} The discovery of America enriched Europe, but not through the importation of gold and silver.
+It is natural to suppose that such a great annual expence must have been defrayed from a great annual produce.
 
-The abundance of the South American mines made gold and silver cheaper. 
-- A gold or silver plate can now be bought for 1/3 of the wheat or 1/3 of the labour it cost in the 15th century.
-- Europe can now buy three times more plate than before.
-- Gold or silver becomes available to perhaps 10-20 times more buyers.
-  -  This would lead to Europe having 20-30 times more plate than before.
-  - Thus, Europe gained a real but very trifling convenience.
+For example, the expence of 1761 amounted to over £19 million.
+- No accumulation of gold and silver could have supported such an expence.
+    The gold and silver annually imported into Spain and Portugal does not exceed £6 million.
+    This amount would not have been enough to even pay four month's expence of the recent war.
 
-The cheapness of gold and silver rendered those metals less fit for use as money than before.
-- To make the same purchases, we must load ourselves with more metals.
-  - We must carry a shilling in our pocket where a groat* would have done before.
-  - Is the convenience of having more plates more trifling than the inconvenience of having to carry more metal money?
-  - Neither could have made any very essential change in Europe.
 
-> *a coin with a smaller value
+{{< s v="29" >}} The best commodities for export to distant countries were the finer and more improved manufactures.
 
+Those commodities could purchase there:
+- the army's pay and provisions, or
+- the money which the mercantile republic used to buy those pay and provisions
 
-The discovery of America certainly made a most essential change.
-- It led to a new and inexhaustible market to all European commodities,
-- This created new divisions of labour and improvements of art.
-  - These improvements could never have happened because of the narrowness of the ancient commerce.
-<!-- The narrow market prevented the sale of most of their produce. -->
+Those commodities contain a great value in a small bulk.
 
-The discovery of America improved European productivity.
-- European produce increased, with it the real revenue and wealth of its people.
-- The European commodities were new to America.
-  - Many American commodities were new to Europe.
+They can be exported far away at little cost.
 
-A new set of mutually-beneficial exchanges began which was never thought of before.
-- However, the Europeans' savage injustice rendered this event ruinous to several American countries.
+A country which has a big surplus of such fine manufactures may carry a very expensive foreign war for many years without exporting any gold and silver.
 
+Most of this surplus must be exported without bringing back any returns to the country.
 
+However, it brings back returns to the merchant.
 
-## The Effect of Portugal's Monopoly of the East
+The government buys the bills of the merchant on foreign countries to buy there the army's pay and provisions.
 
-{{< s v="33" >}} The discovery of a passage to the East Indies by the Cape of Good Hope happened around the same time.
+Some of this surplus may still continue to bring back a return.
 
-It opened a wider foreign commerce than that of America despite its greater distance.
+During the war, the manufacturers will have a double demand.
 
-Mexico and Peru were the only American nations superior to savages.
-- Their arts and manufactures were exaggerated by Spanish writers.
-- These two nations were destroyed almost as soon as they were discovered.
-  - The rest were mere savages.
+Those manufacturers will:
+- create the goods sent abroad for paying the bills drawn on foreign countries for army's pay and provisions
+- create the goods for consumption in the country
 
-But the empires of China, India, Japan, and several others in the East Indies: 
-- had no richer mines of gold or silver,
-- were much richer and better cultivated, and
-- were more advanced in all arts and manufactures than Mexico or Peru.
+In the midst of the most destructive foreign war, most manufactures may frequently flourish greatly.
 
-Rich and civilized nations can always exchange more value with one another than with savages and barbarians.
+They may:
+- decline on the return of the peace
+- flourish amidst the ruin of their country
+- begin to decay on the return of their country's prosperity
 
-However, Europe has derived much less advantage from its commerce with the East Indies than from America because of Portugal's monopoly of the East Indies.
+The different state of British manufactures during the recent war and after the peace is an example of this.
 
-The Portuguese monopolized the East India trade to themselves for about a century.
-- The other Europeans could trade with the East Indies only through the Portuguese.
 
-In the start of the 17th century, the Dutch began to encroach on the Portuguese.
-- They vested all their East India commerce in an exclusive company.
-- The English, French, Swedes, and Danes have all followed the Dutch example.
+{{< s v="30" >}} No expensive or long foreign war could be conveniently carried on by exporting rude produce.
 
-**No great European nation has yet benefited from a free commerce to the East Indies.**
+The cost of exporting the rude produce needed to buy an army's pay and provisions would be too great.
+Few countries produce rude produce in excess of what their own people need.
+It is otherwise with the export of manufactures.
+The maintenance of people employed in manufacturing is kept at home.
 
-The Portuguese monopoly is the only reason why it has never been so advantageous as the trade to America.
+Only the surplus part of their work is exported.
+Mr. Hume frequently notices the inability of the ancient English kings to sustain any long foreign war uninterrupted.
+In those days, the English had little means to buy the pay and provisions of their armies overseas.
 
-The trade to America is free to all European nations and colonies.
+They could only spend the rude produce or a few coarse manufactures.
+- Much of the rude produce could not be spared from the home consumption.
+- Their transportation was too expensive.
 
-Great envy against the Portuguese East India companies was caused by:
-- their exclusive privileges
-- their great riches
-- the great favour and protection these have procured them from their governments
+This inability to fund a long war was caused by the lack of the finer manufactures and not from the lack of money.
+Then as now, buying and selling in England was transacted by money.
 
-The envious people frequently said that the Portuguese trade was harmful because of the great amount of silver they export.
+The quantity of the circulating money then must have borne a bigger proportion to the number and value of exchanges then, different from its proportion today.
 
-The Portuguese replied that their trade might impoverish Europe by this continual silver exportation.
-- But it would not impoverish Portugal which exports the produce of the East Indies, because such trade actually brings in more silver to it.
+This is because there was then no paper which now performs the job of gold and silver.
 
-Both the objection and the reply were founded in the popular notion that wealth consists in money.
+Among nations with little commerce and manufactures, the sovereign can seldom draw any considerable aid from his subjects during war.
 
-The silver exportation to the East Indies from Portgual probably caused plate to became dearer in Europe.
+In such countries, accumulated treasure is the only resource against such emergencies.
 
-Coined silver probably bought more labour and commodities.
-- The increase in the price of plate is a very small loss.
-- The increase in the value of silver coin is a very small advantage.
-- Both are too insignificant to deserve the public attention.
+He is thus naturally parsimonious.
 
-The trade to the East Indies opened a market to:
-- European commodities, and
-- the gold and silver bought with those commodities.
+In that simple state, the sovereign's expences are directed in the bounty to his tenants and hospitality to his retainers.
+- It is not directed by his vanity.
+- But bounty and hospitality very seldom lead to extravagance.
+- Vanity almost always leads to extravagance.
 
-Such trade increases the production of European commodities and the real wealth of Europe.
+Every Russian chief has a treasure.
 
-The current restraints of the monopoly has probably limited the growth of European wealth from the East India trade.
+Ivan Mazepa was the chief of the Cossacks in the Ukraine
+- He was the famous ally of Charles the 12th.
+- He had a very great treasure.
 
+The French kings of the Merovingian race all had treasures.
 
+When they divided their kingdom among their children, they divided their treasure too.
+The Saxon princes and the first kings after the Conquest also accumulated treasures.
 
-## Wealth and Metal Money
+Seizing the treasure of the preceding king was the most essential measure for securing succession.
+It was the first exploit of every new reign.
 
-{{< s v="34" >}} <!-- I thought it necessary, at the hazard of being tedious, to fully examine --> The popular notion is that wealth consists in gold and silver.
+The sovereigns of improved and commercial countries do not need to accumulate treasures.
+They can draw from their subjects extraordinary aid on extraordinary occasions.
 
-Money in common language frequently signifies wealth.
-This ambiguity of expression has rendered this popular notion so familiar to us.
+Without the need for treasure, their expence becomes regulated by the same vanity which directs other great proprietors.
 
-Even they who are convinced of its absurdity are very apt to forget their own principles.
-In the course of their reasonings, they take it for granted as an undeniable truth.
+- The insignificant pageantry of their court becomes more brilliant everyday.
+- Their expence prevents accumulation.
+  - It frequently encroaches on more necessary funds.
 
-Some of the best English commerce writers start by observing that the country's wealth consists in its lands, houses, and goods, and not in its gold and silver only.
-- In the course of their reasonings, the lands, houses, and goods seem to slip out of their memory.
-- Their argument frequently supposes that all wealth consists in gold and silver.
-- They supposed that the great object of national industry and commerce is to multiply those metals.
-
-
-## Restraints and Encouragements from the Idea that Money is Wealth
-
-
-{{< s v="35" >}} The great object of political economy became to reduce foreign imports for home consumption and increase the exports of domestic produce.
-
-This was due to the following ideas: 
-- Wealth consisted in gold and silver
-
-Those metals could be brought into a country only through the balance of trade or by exporting a bigger value of rude produce than it imported.
-
-It thus became necessary for the political economy to: 
-- reduce foreign imports for home consumption as much as possible
-- increase the domestic exports as much as possible
-
-Its two great engines for enriching the country were: 
-
-1. Restraints on importation
-2. Encouragements to exportation
-
-{{< s v="36" >}} There were two kinds of restraints on importation.
-
-{{< s v="37" >}} Restraints on the foreign imports for home consumption which could be produced at home.
-
-{{< s v="38" >}} Restraints on the imports of goods from countries with which the balance of trade was disadvantageous.
-
-{{< s v="39" >}} Those different restraints consisted sometimes in high duties, sometimes in absolute prohibitions.
-
-{{< s v="40" >}} Exportation was encouraged sometimes by:
-- drawbacks
-- bounties
-- advantageous commercial treaties with foreign states
-- the establishment of colonies in distant countries
-
-{{< s v="41" >}} Drawbacks were given on two occasions.
-
-When the home manufactures were subject to any duty or excise, all or a part of it was frequently drawn back on exportation.
-When foreign goods liable to a duty were imported to be exported again, all or a part of this duty was sometimes given back on exportation.
-
-{{< s v="42" >}} Bounties were given for:
-- the encouragement of some startup manufactures
-- industries which deserved particular favour
-
-{{< s v="43" >}} Particular privileges were given to some foreign countries for their merchants or their goods, through advantageous commercial treaties.
-
-{{< s v="44" >}} Particular privileges and a monopoly was frequently given for the goods and merchants of the country which established colonies in distant countries.
-
-{{< s v="44" >}} The commercial system proposes to increase the amount of gold and silver in any country by turning the balance of trade in its favour, through 6 principal means:
-
-1. Import Restraint 1:  Ordinary (Chapter 2)
-2. Import Restraint 2:  Extraordinary (Chapter 3)
-3. Export Encouragement 1:  Drawbacks (Chapter 4)
-4. Export Encouragement 2:  Bounties (Chapter 5)
-5. Export Encouragement 3:  Commercial Treaties (Chapter 6)
-6. Export Encouragement 4:  Colonies (Chapter 7)
-
-I will examine how these affect the country's real wealth. I will not examine how they bring money into the country.
+Dercyllidas saw that the Persian court had many servants but few soldiers, much splendour but little strength. The same can be said of several European princes.

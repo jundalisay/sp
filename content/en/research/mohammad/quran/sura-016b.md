@@ -2,7 +2,7 @@
 title: "Social Rules"
 heading: "Sura 16b "
 weight: 98
-c: "seagreen"
+c: "firebrick"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

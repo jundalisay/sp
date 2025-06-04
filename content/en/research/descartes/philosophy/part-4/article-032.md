@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 32. How the upper region of the Earth was first divided into 2 different bodies.
+## 32. How the upper region of the Earth was first divided into 2 different bodies.
 
 The Earth is now approaching the vicinity of the Sun.
 
@@ -32,7 +32,7 @@ This results in the upper region of the Earth, as shown here towards `A`, being 
 {{< img src="/graphics/physics/earthcenter.jpg" alt="Earth's Center" cap="`I` is the innter core, `M` is the outer core, `C` is the lower mantle, `D` is the upper mantle, `E` is the crust, " >}}
 
 
-#### 33. The 3 Kinds of Terrestrial Particles
+## 33. The 3 Kinds of Terrestrial Particles
 
 Body `C` is different from Body `B` solely because its particles adhered to each other after being pressed downwards by the air-aether globules.
 
@@ -59,7 +59,7 @@ They have shapes of spheres or cubes but also angular fragments of any kind.
 These are devoid of branches, like rods. These also intersperse among the others, finding ample gaps between them, but do not easily connect with them.
 
 
-#### 34. How Body `D` was formed between Body `B` and `C`
+## 34. How Body `D` was formed between Body `B` and `C`
 
 When the particulate branches of body `C` began to intertwine with each other, many of them were oblong in shape and inserted in between them. 
 
@@ -72,7 +72,7 @@ This is similar to how water is pressed out of marshy places when we walk on the
 In the meantime, several particles from body `B` have slipped away, increasing the mass of the two lower bodies `C` and `D`.
 
 
-#### 35. Only particles of one kind are contained in Body `D`
+## 35. Only particles of one kind are contained in Body `D`
 
 
 <!-- This is why they , being expelled more easily by the celestial material flowing through body C, they reached `D` more readily, as described in AT VIII-1, 222. Once they arrived at D, they lay transversely on the surface of body C, not easily encountering passages through which they could return to it. -->
@@ -98,7 +98,7 @@ After reaching `D`, they lie transversely on the surface of this body.
 - They do not easily encounter pathways through which they can return to `C`.
 
 
-#### 36. There are only 2 kinds of these particles in Body `D`.
+## 36. There are only 2 kinds of these particles in Body `D`.
 
 Thus, many oblong [elongated] particles of the earth-aether were congregated towards `D`. 
 
@@ -131,5 +131,3 @@ The flexible ones revolve around them.
 These two species joined together more easily and persisted in their motion more readily than either the flexible alone or the inflexible alone could. 
 
 Therefore, both remained in body `D`.
-
-

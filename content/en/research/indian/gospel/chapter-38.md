@@ -18,7 +18,7 @@ disciples of the Master. Sri Ramakrishna often described him as a rasaddar, or s
 
 There he frequently lost himself in samādhi, dancing, singing, or talking about God. Those of the Master's disciples and devotees who could not go to Dakshineswar visited him there and received his instruction. 
 
-He often asked Balarām to invite young disciples such as Rākhāl, Bhavanāth, and Narendra to his house, saying: "These pure souls are veritable
+He often asked Balarām to invite young disciples such as Rakhal, Bhavanāth, and Narendra to his house, saying: "These pure souls are veritable
 manifestations of God. To feed them is to feed God Himself. 
 
 They are born with special divine attributes. By serving them you will be serving God." And so it happened that
@@ -61,7 +61,7 @@ M. of his school.
 MASTER: "What is the time now?"
 A DEVOTEE: "It is ten minutes to one."
 MASTER (to M.): "You had better go now. It is getting late for you. You have left your
-duties. (To Lātu) Where is Rākhāl?"
+duties. (To Lātu) Where is Rakhal?"
 LĀTU: "He has gone home."
 MASTER: "What? Has he gone away without seeing me?"
 After school-hours M. returned to Balarām's house and found the Master sitting in the
@@ -579,7 +579,7 @@ M: "He is a nice boy. He finds great joy in spiritual talk."
 810MASTER (smiling): "He has eyes like a deer's."
 The boy saluted Sri Ramakrishna, touching his feet. Then he gently stroked the Master's
 feet.
-MASTER (to M.): "Rākhāl is staying at home now; he has an abscess and is not well. I
+MASTER (to M.): "Rakhal is staying at home now; he has an abscess and is not well. I
 understand that his wife expects a baby."
 Paltu and Binode were seated in front of Sri Ramakrishna.
 MASTER (to Paltu, smiling): "What did you say to your father? (To M.)He answered back

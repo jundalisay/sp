@@ -1,8 +1,8 @@
 ---
 heading: Chapter 1
-title: "Rent"
+title: "What is Rent?"
 description: "The rent of land is a portion of the national revenue, which has always been considered as of very high importance"
-c: "seagreen"
+c: "firebrick"
 weight: 3
 date: 2025-03-20
 ---

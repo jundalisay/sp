@@ -9,7 +9,7 @@ description : "Import Substitution is for austere, while Export Promotion is for
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+icon: "Supereconomics"
 aliases:
   /social/economics/import-substitution-vs-export-promotion
 ---

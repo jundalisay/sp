@@ -117,3 +117,10 @@ Female Charge | Rotating Negatively or Clockwise
 Spin | Orientation to Virtual Photon (means particle has thickness). A + spin means 
 Electromagnetic Mass | Size (or Thickness?) of Hole to use Virtual Photons
 Material Mass | Aetherspace Strength
+
+
+## Why Use Particle Shapes?
+
+Particle shapes remove the need for Feymann diagrams. This is because Feynman used action principles to trace paths in quantum mechanics.
+
+However, Descartes' Physics uses vortices wherein spin is more important than paths. Rather, the path is the effect of the spin. This is how meteorologists plot typhoon movement from their eye. 

@@ -1,7 +1,7 @@
 ---
 title: "The 4th to 11th Tetractys"
 weight: 14
-image: /covers/sentences.jpg
+c: "steelblue"
 description: "The Tetractys involved the monad"
 writer:
   name: Juan

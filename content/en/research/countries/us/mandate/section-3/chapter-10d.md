@@ -1,150 +1,190 @@
 ---
-title: "Remove Obstacles For Agricultural Biotechnology"
+title: "Reduce the premium subsidy rate for crop insurance"
 date: 2024-11-01
 description: ""
 c: "firebrick"
 icon: "US"
+weight: 12
+author: "Daren Bakst"
 ---
 
 
 
-Innovation is critical to agricultural production and the ability to meet future food needs. The next Admin- istration should embrace innovation and technology, not hinder its use—especially because of scare tactics that ignore sound science. One of the key innovations in agriculture is genetic engineering. According to the USDA, “[C]urrently, over 90 percent of U.S. corn, upland cotton, and soybeans are produced using GE [genet- ically engineered] varieties.”112
+On average, taxpayers cover about 60 percent47 of the premium cost for policies
+purchased in the federal crop insurance program. One of the most widely
+supported and bipartisan policy reforms is to reduce the premium subsidy
+that taxpayers are forced to pay.48 At a minimum, taxpayers should not pay
+more than 50 percent of the premium. After all, taxpayers should not have
+to pay more than the farmers who benefit from the crop insurance policies.
 
-Despite the importance of agricultural biotechnology, in 2016, Congress passed
-a federal mandate to label genetically engineered food.113 This legislation was argu-
-ably just a means to try to provide a negative connotation to GE food. There are
-other challenges as well for agricultural biotechnology. For example, Mexico plans
-to ban the importation of U.S. genetically modified yellow corn.114
-The next Administration should:﻿
+must demand a genuine reform process and express unwavering support
+for a USDA that shapes a safety net that considers the interests of farmers,
+while also remembering the interests of taxpayers and consumers. Any
+safety net for farmers should be a true safety net—one that helps farmers
+when they have experienced serious unforeseen losses (preferably when
+there has been a disaster or unforeseen natural event causing damage) and
+that exists to help them in unusual situations.
 
-Reform Forest Service Wildfire Management. The United States Forest
-Service is one of four federal government land management agencies that admin-
-ister 606 million acres, or 95 percent of the 640 million acres of surface land area
-managed by the federal government.115 Located within the USDA, the Forest Service
-manages the National Forest System, which is comprised of 193 million acres.116
-As explained by the USDA, “The USDA Forest Service’s mission is to sustain the
-health, diversity, and productivity of the nation’s forests and grasslands to meet
-the needs of present and future generations.”117
+Separate the agricultural provisions of the farm bill from the
+nutrition provisions. To have genuine reform and proper consideration
+of the issues, agricultural programs should be considered in separate
+legislation distinct from food stamps and the nutrition part of the farm bill,
+and reauthorization of such programs should be fixed on different timelines
+to ensure this separation. Agricultural and nutritional programs, which are
+distinct from each other, have been combined together for political reasons,
+something which is readily admitted by proponents of this logrolling. When
+it comes to American agriculture and welfare programs, they deserve sound
+policy debates, not political tactics at the expense of thoughtful discourse.
+Move the Work of the Food and Nutrition Service. 
 
-The Forest Service should focus on proactive management of the forests and
-grasslands that does not depend heavily on burning. There should be resilient
-forests and grasslands in the wake of management actions. Wildfires have become
-a primary vegetation management regime for national forests and grasslands.118
-Recognizing the need for vegetation management, the Forest Service has adopted
-“pyro-silviculture” using “unplanned” fire,119 such as unplanned human-caused fires,
-to otherwise accomplish vegetation management.120
-
-The Forest Service should instead be focusing on addressing the precipitous
-annual amassing of biomass in the national forests that drive the behavior of
-wildfires. By thinning trees, removing live fuels and deadwood, and taking other
-preventive steps, the Forest Service can help to minimize the consequences
-of wildfires.
-
-Increasing timber sales could also play an important role in the effort to change
-the behavior of wildfire because there would be less biomass. Timber sales and
-timber harvested in public forests dropped precipitously in the early 1990s and
-still remain very low. For example, in 1988, the volume of timber sold and harvested
-by volume was about 11 billion and 12.6 billion board feet (BBF), respectively.121 In
-2021, timber sold was 2.8 BBF and timber harvested was 2.4 BBF.
-In 2018, President Donald Trump issued Executive Order 13855 to, among
-other things, promote active management of forests and reduce wildfire risks.122
-The executive order stated, “Active management of vegetation is needed to treat
-these dangerous conditions on Federal lands but is often delayed due to challenges
-associated with regulatory analysis and current consultation requirements.”123 It
-further explained the need to reduce regulatory obstacles to fuel reduction in
-forests created by the National Environmental Policy Act and the Endangered
-Species Act.124
+The USDA implements 
+many means-tested federal support programs, including the largest food assis-
+tance program, Supplemental Nutrition Assistance Program (SNAP, also known
+as food stamps), and the Special Supplemental Nutrition Program for Women,
+Infants, and Children (WIC) Food Program. The Food and Nutrition Service (FNS)
+oversees these programs and other food and nutrition programs, including the
+Center for Nutrition Policy and Promotion,52 which handles the USDA’s work on
+the “Dietary Guidelines for Americans” (Dietary Guidelines).53 Food nutrition
+programs include: SNAP; WIC; the National School Lunch Program (NSLP); the
+School Breakfast Program (SBP); the Child and Adult Care Food Program; the
+Nutrition Program for the Elderly; Nutrition Service Incentives; the Summer Food
+Service Program; the Commodity Supplemental Food Program; the Temporary
+Emergency Food Program; the Farmer’s Market Nutrition Program; and the Spe-
+cial Milk Program.
 
 The next Administration should:
-l
-Champion executive action, consistent with law, and proactive
-legislation to reduce wildfires. This would involve embracing Executive
-Order 13855, building upon it, and working with lawmakers to promote
-active management of vegetation, reduce regulatory obstacles to reducing
-fuel buildup, and increase timber sales.
+
+Move the USDA food and nutrition programs to the Department of
+Health and Human Services. There are more than 89 current means-
+tested welfare programs, and total means-tested spending has been
+estimated to surpass $1.2 trillion between federal and state resources.54
+Because means-tested federal programs are siloed and administered in
+separate agencies, the effectiveness and size of the welfare state remains largely hidden. There are means-tested food-support programs in the USDA (specially FNS), whereas most means-tested programs are at the
+Department of Health and Human Services (HHS). All means-tested anti-poverty programs should be overseen by one department—specifically HHS,
+which handles most welfare programs.
+
+Reform SNAP. Ostensibly, SNAP sends money through electronic-bene-
+fit-transfer (EBT) cards to help “low-income” individuals buy food. It is the largest
+of the federal nutrition programs. Food stamps are designed to be supplemented by
+other forms of income—whether through paid employment or nonprofit support.
+SNAP serves 41.1 million individuals—an increase of 4.3 million people during the
+Biden years.55 In 2020, the food stamp program cost $79.1 billion. That number
+continued to rise—by 2022, outlays hit $119.5 billion.56
+
+The next Administration should:
+
+Re-implement work requirements. The statutory language covering
+food stamps allows states to waive work requirements that otherwise
+apply to work-capable individuals—that is, adult beneficiaries between the
+ages 18 and 50 who are not disabled and do not have any children or other
+dependents in the home.57
+
+Even in a strong economy, work expectations are fairly limited: Individuals
+who are work-capable and without dependents are required to work or
+prepare for work for 20 hours per week.58 The work requirements are then
+implemented unless the state requests a waiver from the USDA’s Food and
+Nutrition Services.59 Waivers from statutory work requirements can be
+approved in two instances: an unemployment rate of more than 10 percent
+or a lack of sufficient jobs.60
+
+The Trump Administration bolstered USDA work expectations in the
+food stamp program. In February 2019, FNS issued a modest regulatory
+change that applied only to able-bodied individuals without dependents—
+beneficiaries aged 18 to 49, not elderly or disabled, who did not have children
+or other dependents in the home (ABAWD).61 The FNS rule changed
+when a state could receive a waiver from implementing the ABAWD work
+requirement.
+
+Under the new rule, in order to waive the work requirement, the state’s
+unemployment rate had to be above 6 percent for more than 24 months.
+The rule also defined “area” in such a way that states would be unable to
+combine non-contiguous counties in order to maximize their waivers.62 Of
+
+the more than 40 million food stamp beneficiaries, the Trump rule would
+have applied only to 688,000 individuals in fiscal year 2021.63
+The Trump reform was scheduled to go into effect, but a D.C. district court
+federal judge enjoined the rule.64 The USDA filed an appeal in late December
+2020,65 but the Biden Administration withdrew from defending the
+challenge, and the rule was never implemented.66
+
+Beyond the able-bodied work requirement, FNS should implement better
+regulation to clarify options for states to implement the general work
+requirement. This requirement is an option states can apply to work-
+capable beneficiaries aged 16 to 59. If beneficiaries’ work hours are below
+30 hours a week, states can implement the general work requirements to
+oblige beneficiaries to register for work or participate in SNAP Employment
+and Training or workfare assigned by the state SNAP agency.67 Increased
+clarity for states would include items like states being required to offer
+employment and training spots for those that request them—not simply
+budgeting for every currently enrolled able-bodied adult.
 
 
-Work with lawmakers to repeal the Dietary Guidelines. The USDA
-should help lead an effort to repeal the Dietary Guidelines.
-Minimally, the next Administration should reform the Dietary
-Guidelines. The USDA, with HHS, should develop a more transparent
-process that properly considers the underlying science and does not
-overstate its findings. It should also ensure that the Dietary Guidelines
-focus on nutritional issues and do not veer off-mission by focusing on
-unrelated issues, such as the environment, that have nothing to do with
-nutritional advice. In fact, if environmental concerns supersede or water
-down recommendations for human nutritional advice, the public would
-be receiving misleading health information. The USDA, working with
-lawmakers, should codify these reforms into law.
+Reform broad-based categorical eligibility. Federal law permits states
+to enroll individuals in food stamps if they receive a benefit from another
+program, such as the Temporary Assistance for Needy Families (TANF)
+program. However, under an administrative option in TANF called broad-
+based categorical eligibility (BBCE), ”benefit” is defined so broadly that it
+includes simply receiving distributed pamphlets and 1–800 numbers.68 This
+definition, with its low threshold to trigger a “benefit,” allows individuals to
+bypass eligibility limits—particularly the asset requirement (how much the
+applicant has in resources, such as bank accounts or property).69 Adopting
+the BBCE option has even allowed millionaires to enroll in the food
+stamp program.70
 
+The Trump Administration proposed to close the loophole with a rule
+to “increase program integrity and reduce fraud, waste, and abuse.”71 The
+regulation was not finalized before the end of the Trump Administration.
 
-### ORGANIZATIONAL ISSUES
+Re-evaluate the Thrifty Food Plan. In a dramatic overreach, the Biden
+Administration unilaterally increased food stamp benefits by at least 23
+percent in October 2021.72 Through an update to the Thrifty Food Plan, in
+which the USDA analyzes a basket of foods intended to provide a nutritious
+diet, the USDA increased food stamp outlays by between $250 billion and
+$300 billion over 10 years.73
 
-Based on the recommended reforms identified as ideal solutions, the USDA
-would look different in many respects. One of the biggest changes would be a USDA
-that is not focused on welfare, given that means-tested welfare programs would
+Although the 2018 farm bill instructed FNS to update the Thrifty Food Plan
+by 2023 and every five years thereafter, every previous Thrifty Food Plan
+has been always cost-neutral ( just an inflation update)—exactly what CBO
+estimated as cost of the 2018 farm bill.74
 
+The Biden Administration may have skirted regulations and congressional
+authority to increase the overall cost of the program. In fact, Senate and
+House Republicans requested that the Government Accountability Office
+investigate the legal authorities and process that the USDA undertook to
+arrive at such an unprecedented increase.75
 
-Eliminate or Reform the Dietary Guidelines. The USDA, in collaboration
-with HHS, publishes the Dietary Guidelines every five years.125 For more than 40
-years, the federal government has been releasing Dietary Guidelines,126 and during
-this time, there has been constant controversy due to questionable recommenda-
-tions and claims regarding the politicization of the process.
+Eliminate the heat-and-eat loophole. States can artificially boost a
+household’s food stamp benefit by using the heat-and-eat loophole. The
+amount of food stamps a household receives is based on its “countable”
+income (income minus certain deductions). Households that receive
+benefits from the Low-Income Heat and Energy Assistance Program
+(LIHEAP) are eligible for a larger utility deduction. In order to make
+households eligible for the higher deduction, and thus for greater food
+stamp benefits, states have distributed LIHEAP checks for amounts as small
+as $1 to food stamp recipients.
 
-In the 2015 Dietary Guidelines process, the influential Dietary Guidelines Advi-
-sory Committee veered off mission and attempted to persuade the USDA and HHS
-to adopt nutritional advice that focused not just on human health, but the health
-of the planet.127 Issues such as climate change and sustainability infiltrated the
-process. Fortunately, the 2020 process did not get diverted in this manner. How-
-ever, the Dietary Guidelines remain a potential tool to influence dietary choices to
-achieve objectives unrelated to the nutritional and dietary well-being of Americans.
-There is no shortage of private sector dietary advice for the public, and nutrition
-and dietary choices are best left to individuals to address their personal needs. This
-includes working with their own health professionals. As it is, there is constantly
-changing advice provided by the government, with insufficient qualifications on
-the advice, oversimplification to the point of miscommunicating important points,
-questionable use of science, and potential political influence.
+The 2014 farm bill tightened this loophole by requiring that a household must
+receive more than $20 annually in LIHEAP payments to be eligible for the larger
+utility deduction and subsequently higher food stamp benefits.76 Nonetheless,
+states continue to inflate their standard utility allowances. Under the Trump
+Administration, the USDA proposed a rule, which was not finalized, that would
+have standardized the utility allowance.77
+Reform WIC. Turning to WIC, this program distributes money through EBT
+cards to help low-income women, infants, and children under six purchase nutri-
+tion-rich foods and nutrition education (including breastfeeding support). As of
+August 2022, approximately 6.3 million people participated in WIC each month
+to purchase food.78 In 2021, WIC federal outlays were $5 billion.79
+The next Administration should:
 
-The Dietary Guidelines have a major impact because they not only can influence
-how private health providers offer nutritional advice, but they also inform federal
-programs. School meals are required to be consistent with the guidelines.128
-The next Administration should:﻿
+Reform the state voucher system. State agencies control WIC costs
+by approving only one brand of infant formula through competitive
+bidding for infant formula rebate contracts. Because 50 percent of baby
+formula is purchased through the federal WIC program, it is vital that
+regulation for these competitive bidding contracts does not unintentionally
+create monopolies.
 
-be moved to HHS. The Food and Nutrition Service that administers the food and
-nutrition programs would be eliminated.
-The Farm Service Agency, which administers many of the farm subsidy pro-
-grams, would be significantly smaller in size if the ideal farm subsidy reforms
-were adopted.
-
-Most important, a conservative USDA, as envisioned, would not be used as a
-governmental tool to transform the nation’s food system, but instead would respect
-the importance of efficient agricultural production and ensure that the government
-does not hinder farmers and ranchers from producing an abundant supply of safe
-and affordable food.
-
-For a conservative USDA to become a reality, and for it to stay on course with
-the mission as outlined, the White House must strongly support these reforms and
-install strong USDA leaders. These individuals almost certainly will be faced with
-opposition from some in the agricultural community who would fight changing
-subsidies in any fashion, although many of the reforms would likely be embraced
-by those in agriculture.
-
-There would be strong opposition from environmental groups and others who
-want the federal government to transform American agriculture to meet their ideo-
-logical objectives. Finally, there would be opposition from left-of-center groups
-who do not want to reform SNAP and would expand welfare and dependency—such
-as through universal free school meals—as opposed to reducing dependency.
-Reducing the scope of government and promoting individual freedom may not
-always be easy, but it is something that conservatives regularly should strive for.
-The listed reforms to the U.S. Department of Agriculture would help to accom-
-plish these objectives and are well worth fighting for to achieve a freer and more
-prosperous nation.
-
-### CONCLUSION
-
-
-A conservative USDA should recognize that its role is to serve the interests of all Americans, not special interests. By being a champion of unleashing the potential of American agriculture, a conservative USDA would help to ensure a future with
-an abundant supply of safe and affordable food for individuals and families in the
-United States and across the globe.
-
+Re-evaluate excessive regulation. As for baby formula regulations
+generally, labeling regulations and regulations that unnecessarily delay the
+manufacture and sale of baby formula should be re-evaluated.80 During the
+Biden Administration, there have been devastating baby formula shortages.
 

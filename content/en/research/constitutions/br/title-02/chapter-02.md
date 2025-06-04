@@ -2,7 +2,7 @@
 title: "Social Rights"
 heading: "Chapter 2"
 weight: 8
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

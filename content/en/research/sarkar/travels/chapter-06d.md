@@ -47,8 +47,7 @@ Three days later. Yesterday, a group of Margis invited me for a day's outing to 
 
 One brother answered him. "Yes, he is." 
 
-"Then how's come's you's got all that gook all over yur body? Wha kind o' 
-Yoogy's got sooo yecchy? Huh? How's you goin explaain?" 
+"Then how's come's you's got all that gook all over yur body? Wha kind o' Yoogy's got sooo yecchy? Huh? How's you goin explaain?" 
 
 "It's a test I'm undergoing to strengthen my mind." 
 
@@ -60,11 +59,7 @@ again exclaiming, "I like dat!" Then he walked away with a cheery jaunt.
 
 The Margis also liked dat. 
 
-Ten days later. Adelaide. About a week ago the eczema started to get a little 
-better. But the progress was so slow that I finally lost faith, even in the water 
-fast. After one month of fasting I gave it up and started to eat fruits. Within two 
-days I became 50% better. I'm astonished. How could eating help me more than 
-fasting? 
+Ten days later. Adelaide. About a week ago the eczema started to get a little better. But the progress was so slow that I finally lost faith, even in the water fast. After one month of fasting I gave it up and started to eat fruits. Within two days I became 50% better. I'm astonished. How could eating help me more than fasting?
 
 One possible answer is that the elimination of toxins was halted when my 
 system switched gears in order to digest food. But a more likely reason, I feel, 

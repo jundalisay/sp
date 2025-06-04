@@ -2,7 +2,7 @@
 title: "Accounting, Financial and Budgetary Control"
 heading: "Title 4 Section 9"
 weight: 18
-image: "/flags/br.png"
+c: "darkslategray"
 description: ""
 icon: "/flags/br.png"
 ---

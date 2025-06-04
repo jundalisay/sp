@@ -2,7 +2,7 @@
 title: "Advertisement"
 weight: 1
 description: "Advertisement Treatise of Human Nature"
-image: "/covers/treatise.png"
+c: "steelblue"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

@@ -18,12 +18,15 @@ On the seventh day you shall go around the city 7 times, and the priests shall b
 
 6 So Joshua called the priests, and said to them
 
-Take up the ark of the covenant, and let 7 priests bear 7 trumpets of rams’ horns before the
-ark of Enki. 
+{{< r a="Joshua" >}}
+Take up the ark of the covenant, and let 7 priests bear 7 trumpets of rams’ horns before the ark of Enki. 
+{{< /r >}}
+
 
 7 he said unto the people
 
 Pass on, and compass the city, and let him that is armed pass on before the ark of Enki.
+
 
 8 The seven priests bearing the seven trumpets of rams’ horns passed on before Enki, and blew with
 the trumpets: and the ark of the covenant of Enki followed them.

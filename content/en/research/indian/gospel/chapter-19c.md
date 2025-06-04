@@ -22,7 +22,7 @@ MASTER (with a smile): "This makes me think that all these are not mere fancies 
 Sri Ramakrishna began to talk to them about his health and his injured arm.
 
 
-MASTER: "Now and then I become impatient about my arm. I show it to this or that man and ask him whether I shall get well again. That makes Rākhāl angry. He doesn't
+MASTER: "Now and then I become impatient about my arm. I show it to this or that man and ask him whether I shall get well again. That makes Rakhal angry. He doesn't
 understand my mood. Now and then I say to myself, 'Let him go away.' Again I say to the Mother: 'Mother, where will he go? Why should he burn himself in the frying-pan of the world?'
 
 "This childlike impatience of mine is nothing new. I used to ask Mathur Babu to feel my pulse and tell me whether I was ill.
@@ -106,7 +106,7 @@ Koar Singh once said to me, 'You still worry about your body.' But it is my natu
 Mitra's house. Hers are the only effective words. One ray of light from the Goddess of Wisdom stuns a thousand scholars.
 "The Mother has kept me in the state of a bhakta, a vijnāni. 
 
-That is why I joke with Rākhāl and the others. Had I been in the condition of a Jnāni I couldn't do that.
+That is why I joke with Rakhal and the others. Had I been in the condition of a Jnāni I couldn't do that.
 
 In this state I realize that it is the Mother alone who has become everything. I see Her everywhere. In the Kāli temple I found that the Mother Herself had become everything-even the wicked, even the brother of Bhagavat Pundit.
 

@@ -4,6 +4,7 @@ title: Refutation Of Idealism
 description: "The Application of the Categories Sensory Objects"
 weight: 58
 author: Kant
+c: "firebrick"
 icon: "Kant"
 ---
 
