@@ -1,3 +1,12 @@
+---
+title: "The Saint With Two Bodies"
+heading: Chapter 10
+description: ""
+c: "indigo"
+weight: 950
+---
+
+
 
 CHAPTER: 10 I Meet My Master, Sri Yukteswar
 

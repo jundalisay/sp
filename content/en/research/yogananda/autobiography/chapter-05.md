@@ -1,5 +1,15 @@
-CHAPTER: 5
+---
+title: "The Saint With Two Bodies"
+heading: Chapter 5
+description: ""
+c: "indigo"
+weight: 950
+---
+
+
+
 A “Perfume Saint” Displays His Wonders
+
 “To every thing there is a season, and a time to every purpose under the heaven.”
 
 I did not have this wisdom of Solomon to comfort me; I gazed searchingly about me, on any excursion from home, for the face of my destined guru. But my path did not cross his own until after the completion of my high school studies.

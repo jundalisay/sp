@@ -1,3 +1,13 @@
+---
+title: "The Saint With Two Bodies"
+heading: Chapter 17
+description: ""
+c: "indigo"
+weight: 950
+---
+
+
+
 CHAPTER: 17 Sasi And The Three Sapphires
 
 “Because you and my son think so highly of Swami Sri Yukteswar, I will take a look at him.” The tone of voice used by Dr. Narayan Chunder Roy implied that he was humoring the whim of half-wits. I concealed my indignation, in the best traditions of the proselyter.

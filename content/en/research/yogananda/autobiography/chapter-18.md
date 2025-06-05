@@ -1,3 +1,13 @@
+---
+title: "The Saint With Two Bodies"
+heading: Chapter 18
+description: ""
+c: "indigo"
+weight: 950
+---
+
+
+
 CHAPTER: 18 A Mohammedan Wonder-Worker
 
 “Years ago, right in this very room you now occupy, a Mohammedan wonder-worker performed four miracles before me!”

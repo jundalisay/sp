@@ -1,3 +1,10 @@
+---
+title: "The Saint With Two Bodies"
+heading: Chapter 8
+description: ""
+c: "indigo"
+weight: 950
+---
 
 
 CHAPTER: 8 India’s Great Scientist, J.C. Bose

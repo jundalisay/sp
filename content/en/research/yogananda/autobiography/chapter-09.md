@@ -1,3 +1,12 @@
+---
+title: "The Saint With Two Bodies"
+heading: Chapter 9
+description: ""
+c: "indigo"
+weight: 950
+---
+
+
 CHAPTER: 9 The Blissful Devotee And His Cosmic Romance
 
 “Little sir, please be seated. I am talking to my Divine Mother.”

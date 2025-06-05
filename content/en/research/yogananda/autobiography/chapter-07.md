@@ -1,3 +1,12 @@
+---
+title: "The Saint With Two Bodies"
+heading: Chapter 7
+description: ""
+c: "indigo"
+weight: 950
+---
+
+
 CHAPTER: 7 The Levitating Saint
 
 “I saw a yogi remain in the air, several feet above the ground, last night at a group meeting.” My friend, Upendra Mohun Chowdhury, spoke impressively.

@@ -2,8 +2,7 @@
 title: "The Saint With Two Bodies"
 heading: Chapter 3
 description: ""
-a: "Xenophon"
-c: "seagreen"
+c: "indigo"
 weight: 950
 ---
 
