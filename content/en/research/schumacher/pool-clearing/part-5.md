@@ -3,10 +3,10 @@ title: "Solutions to Over-importing"
 heading: "Part 5"
 weight: 9
 # date: 2021-08-20
-image: /photos/objects/ship.jpg
 description: "Schumacher explains the 3 solutions to over-importing"
-contributors: ['EF Schumacher']
-icon: /avatars/ef.png
+c: "seagreen"
+author: "EF Schumacher"
+icon: "EF Schumacher"
 ---
 
 

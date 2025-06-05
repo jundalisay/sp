@@ -3,11 +3,10 @@ title: "How the National Clearing Fund Works"
 heading: "Part 3"
 # date: 2021-08-26
 weight: 6
-image: /photos/objects/ship.jpg
+c: "seagreen"
+author: "EF Schumacher"
+icon: "EF Schumacher"
 description: "The National Clearing Fund resolves trade ibalances"
-youtube: "H0tUf35JB44"
-contributors: ['EF Schumacher']
-icon: /avatars/ef.png
 ---
 
 

@@ -3,11 +3,10 @@ title: "The Effects of Pool Clearing"
 heading: "Part 4"
 weight: 8
 # date: 2021-08-24
-image: /photos/objects/ship.jpg
 description: "Pool Clearing will work smoothly as long as every nation avoids exceeding the deficit limits. In this respect it would be analogous to a Gold Standard system"
-youtube: "H0tUf35JB44"
-contributors: ['EF Schumacher']
-icon: /avatars/ef.png
+c: "seagreen"
+author: "EF Schumacher"
+icon: "EF Schumacher"
 ---
 
 

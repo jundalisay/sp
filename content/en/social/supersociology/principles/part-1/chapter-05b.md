@@ -37,7 +37,7 @@ This is the most common and natural combination. This is seen in:
 
 ## 2. Worker + Trader Versus Warrior + Thinker
 
-![WWTT](/graphics/social/mix2.png)
+![wWtT](/graphics/social/mix3.png)
 
 This is seen as Liberal versus Conservative. 
 
@@ -46,7 +46,9 @@ In ancient times, this happened as Marius (Warriors) versus Sulla (Traders).
 
 ## 2. Worker + Thinker Versus  Warrior + Trader
 
-![WWTT](/graphics/social/mix3.png)
+
+![wWtT](/graphics/social/mix2.png)
+
 
 This is not so common. 
 

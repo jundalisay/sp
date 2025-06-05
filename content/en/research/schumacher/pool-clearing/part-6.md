@@ -3,10 +3,10 @@ title: "Short-Term Devaluation"
 heading: "Part 6"
 weight: 11
 # date: 2021-08-20
-image: /photos/objects/ship.jpg
 description: "Schumacher explains the 3 solutions to over-importing"
-contributors: ['EF Schumacher']
-icon: /avatars/ef.png
+c: "seagreen"
+author: "EF Schumacher"
+icon: "EF Schumacher"
 ---
 
 

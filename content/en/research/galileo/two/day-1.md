@@ -38,7 +38,7 @@ He tells us that the world is not a mere line, nor a bare surface, but a body ha
 
 This makes the Whole perfect.
 
-To be sure, I much wish that Aristotle had proved to me by rigorous deductions that simple length constitutes the dimension which we call a line, which by the addition of breadth becomes a surface; that by further adding altitude or depth to this there results a body, and that after these three dimensions there is no passing farther, so that by these three alone, completeness, or, so to speak, wholeness is concluded.
+<!-- To be sure, I much wish that Aristotle had proved to me by rigorous deductions that simple length constitutes the dimension which we call a line, which by the addition of breadth becomes a surface; that by further adding altitude or depth to this there results a body, and that after these three dimensions there is no passing farther, so that by these three alone, completeness, or, so to speak, wholeness is concluded. -->
 {{< /l >}}
 
 
@@ -62,17 +62,17 @@ Solid is alone determined by three, which is All.
 
 Solid is divisible in 3 ways, so it is divisible in every possible way.
 
-Of the other shapes, one is divisible in one way, and the other in two. This is because they have their divisibility and their continuity according to the number of dimensions allotted to them. 
+Of the other shapes, one is divisible in one way, and the other in two. This is because their divisibility and continuity depend on the number of dimensions allotted to them.
 
 Thus one figure is continuous in one way, the other in two.
 
 But the third, namely the solid, is so in every way. 
 
-Moreover, in the fourth text, after some other doctrines, does he not clinch the matter with another proof? 
+<!-- Moreover, in the fourth text, after some other doctrines, does he not clinch the matter with another proof? 
 
-To wit: a transition is made only according to some defect; thus there is a transition in passing from the line to the surface, because the line is lacking in breadth. 
+To wit: a transition is made only according to some defect; thus there is a transition in passing from the line to the surface, because the line is lacking in width. 
 
-But it is impossible for the perfect to lack anything, being complete in every way; therefore there is no transition beyond the solid or body to any other figure.
+But it is impossible for the perfect to lack anything, being complete in every way; therefore there is no transition beyond the solid or body to any other figure. -->
 
 Aristotle has sufficiently proved that:
 - there is no passing beyond the 3 dimensions, length, breadth, and thickness
@@ -83,17 +83,25 @@ Aristotle has sufficiently proved that:
 {{< l a="Salviati" >}}
 Whatever has a beginning, middle, and end may and should be called perfect.
 
-I feel no compulsion to grant that the number three is a perfect number, nor that it has a faculty of conferring perfection upon its possessors. 
+I do not feel that 3 is a perfect number.
 
-I do not even understand, let alone believe, that with respect to legs, for example, the number three is more perfect than four or two; neither do I conceive the number four to be any imperfection in the elements, nor that they would be more perfect if they were three. 
+<!-- , nor that it has a faculty of conferring perfection upon its possessors.  -->
 
-Therefore it would have been better for him to leave these subtleties to the rhetoricians, and to prove his point by rigorous demonstrations such as are suitable to make in the demonstrative sciences.
+I do not believe that 3 legs is more perfect than 4 or 2.
+
+4 is not an imperfection in the elements.
+
+3 is not more perfect than 4. 
+
+<!-- Therefore it would have been better for him to leave these subtleties to the rhetoricians, and to prove his point by rigorous demonstrations such as are suitable to make in the demonstrative sciences. -->
 {{< /l >}}
 
 
 
 {{< r a="Simplecio" >}}
-It seems that you ridicule these reasons, and yet all of them are doctrines to the Pythagoreans, who attribute so much to numbers. You, who are a mathematician, and who believe many Pythagorean philosophical opinions, now seem to scorn their mysteries. 
+But these are the doctrines to the Pythagoreans.
+
+<!-- , who attribute so much to numbers. You, who are a mathematician, and who believe many Pythagorean philosophical opinions, now seem to scorn their mysteries.  -->
 {{< /r >}}
 
 
@@ -102,19 +110,19 @@ The Pythagoreans held the science of the human understanding and believed it to 
 
 I agree a little with them. 
 
-But Pythagoras and his sect was totally wrong to have such veneration for the science of numbers.
+But Pythagoras and his sect was totally wrong to venerate the science of numbers.
 
  <!-- are the follies that abound in the sayings and Writings of the vulgar, I do not believe at all.  -->
 
  <!-- Rather I know that, in order to prevent the things they admired from being exposed to the slander and scorn of the common people,  -->
 
-The Pythagoreans condemned as sacrilegious the publication of the most hidden properties of numbers or of the incommensurable and irrational quantities which they investigated.
+The Pythagoreans:
+- condemned as sacrilegious the publication of the most hidden properties of numbers or of the incommensurable and irrational quantities which they investigated.
+- taught that anyone who had revealed them was tormented in the other world. 
 
-They taught that anyone who had revealed them was tormented in the other world. 
+<!-- Therefore I believe that some one of them, just to satisfy the common sort and free himself from their inquisitiveness, gave it out that the mysteries of numbers were those trifles which later spread among the vulgar. 
 
-Therefore I believe that some one of them, just to satisfy the common sort and free himself from their inquisitiveness, gave it out that the mysteries of numbers were those trifles which later spread among the vulgar. 
-
-Such astuteness and prudence remind one of the wise young man who, in order to stop the importunity of his mother or his inquisitive wife -- I forget which -- who pressed him to impart the secrets of the Senate, made up some story which afterwards caused her and many other women to be the laughing-stock of that same Senate. 
+Such astuteness and prudence remind one of the wise young man who, in order to stop the importunity of his mother or his inquisitive wife -- I forget which -- who pressed him to impart the secrets of the Senate, made up some story which afterwards caused her and many other women to be the laughing-stock of that same Senate.  -->
 {{< /l >}}
 
 

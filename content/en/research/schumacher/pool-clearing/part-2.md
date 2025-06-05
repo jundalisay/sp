@@ -3,11 +3,10 @@ heading: "Part 2"
 title: "The International Clearing Office"
 date: 2021-08-28
 weight: 4
-image: /photos/objects/ship.jpg
 description: "The International Clearing Office requires no finance of its own. It does not have to create a new international currency"
-youtube: "H0tUf35JB44"
-contributors: ['EF Schumacher']
-icon: /avatars/ef.png
+c: "seagreen"
+author: "EF Schumacher"
+icon: "EF Schumacher"
 ---
 
 
