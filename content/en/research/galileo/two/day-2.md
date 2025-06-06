@@ -30,7 +30,7 @@ Now I know and recognize the signposts along our road. But before starting in ag
 SAGR. I allowed myself to be carried away by my own sentiments, and believing that what I felt in my heart ought to be felt by others too, I made that conclusion universal which should have been kept particular. This really was an error on my part, especially as I do not know the views of Simplicio, here present.
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 I confess that all last night I was meditating on yesterday's material, and truly I find it to contain many beautiful considerations which are novel and forceful. Still, I am much more impressed by the authority of so many great authors, and in particular ... You shake your head, Sagredo, and smile, as if uttered some absurdity.
 {{< /r >}}
 
@@ -52,7 +52,7 @@ The philosopher, after considering for awhile, answered: "You have made me see t
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Sir, I want you to know that this dispute as to the source of the nerves is by no means as settled and decided as perhaps some people like to think.
 {{< /r >}}
 
@@ -62,7 +62,7 @@ SAGR. Doubtless it never will be, in the minds of such opponents. But what you s
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Aristotle acquired his great authority only because of the strength of his proofs and the profundity of his arguments. Yet one must understand him; and not merely understand him, but have such thorough familiarity with his books that the most complete idea of them may be formed, in such a manner that every saying of his is always before the mind. He did not write for the common people, nor was he obliged to thread his syllogisms together by the trivial ordinary method; rather, making use of the permuted method, he has sometimes put the proof of a proposition among texts that seem to deal with other things. 
 
 Therefore one must have a grasp of the whole grand scheme, and be able to combine this passage with that, collecting together one text here and another very distant from it. There is no doubt that whoever has this skill will be able to draw from his books demonstrations of all that can be known; for every single thing is in them.
@@ -96,7 +96,7 @@ And a very amusing thing it is to hear their comments upon the ancient poets, re
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 The world does not lack certain giddy brains, but their folly should not redound to the discredit of Aristotle, of whom it seems to me you sometimes speak with too little respect. His antiquity alone, and the mighty name he has acquired among so many men of distinguished mind, should be enough to earn him respect among all the learned.
 {{< /r >}}
 

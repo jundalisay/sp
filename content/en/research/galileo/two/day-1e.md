@@ -32,7 +32,7 @@ And on the face of the sun itself, with the aid of the telescope, they have seen
 {{< /l >}}
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 I do not know what would have been done or said by Aristotle, who was the master of all science, but I know to some extent what his followers do and say, and what they ought to do and say in order not to remain without a guide, a leader, and a chief in philosophy. 
 
 As to the comets, have not these modem astronomers who wanted to make them celestial been vanquished by the Anti-Tycho? 
@@ -52,7 +52,7 @@ And as to the calculation of parallaxes, in the first place I doubt whether come
 {{< /l >}}
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 With regard to the new stars, the Anti-Tycho thoroughly disposes of them in a few words, saying that such recent new stars are not positively known to be heavenly bodies, and that if its adversaries wish to prove any alterations and generations in the latter, they must show us mutations made in stars which have already been described for a long time and which are celestial objects beyond doubt. And this can never possibly be done. As to that material which some say is generated and dissolved on the face of the sun, no mention is made of it at all, from which I should gather that the author takes it for a fable, or for an illusion of the telescope, (note: The telescope was an object of suspicion in many circles.) or at best for some phenomenon produced by the air; in a word, for anything but celestial matter.
 {{< /r >}}
 
@@ -65,7 +65,7 @@ which you should not deprive us of.
 {{< /l >}}
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 I have heard different opinions on this matter. Some say, "They are stars which, like
 Venus and Mercury, go about the sun in their proper orbits, and in passing under it present
 themselves to us as dark; and because there are many of them, they frequently happen to

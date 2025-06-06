@@ -10,7 +10,7 @@ c: "darkgoldenrod"
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 For a beginning, then, here are two powerful demonstrations proving the earth to be very different from celestial bodies. First, bodies that are generable corruptible, alterable, etc., are quite different from those that are ingenerable, incorruptible, inalterable, etc. The earth is generable, corruptible, alterable, etc., while celestial bodies are ingenerable, incorruptible, inalterable, etc. Therefore the earth is very different from the celestial bodies.
 {{< /r >}}
 
@@ -19,7 +19,7 @@ SAGR. With your first argument, you bring back to the table what has been standi
 day and has just now been carried away.
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Softly, sir; hear the rest, and you will see how different it is from that. Formerly the minor premise was proved a priori, and now I wish to prove it a posteriori. See for yourself whether this is the same thing. 
 
 I shall prove the minor, because the major is obvious. Sensible experience shows that on earth there are continual generations, corruptions, alter- ations, etc., the like of which neither our senses nor the traditions or memories of our ancestors have ever detected in heaven; hence heaven is inalterable, etc., and the earth alterable, etc., and therefore different from the heavens.
@@ -38,7 +38,7 @@ account of which you call the earth alterable and the heavens not.
 {{< /l >}}
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 On earth I continually see herbs, plants, animals generating and decaying; winds, rains,
 tempests, storms arising; in a word, the appearance of the earth undergoing perpetual change.
 None of these changes are to be discerned in celestial bodies, whose positions and
@@ -56,7 +56,7 @@ inalterable.
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Even if I have never seen such alterations in those places with my own senses, there are
 reliable accounts of them; besides which, cum eadem sit ratio totius et partium, those counties
 being a pan of the earth like ours, they must be alterable like this.
@@ -69,7 +69,7 @@ But why have you not observed this, instead of reducing yourself to having to be
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Because those countries are far from being exposed to view; they are so distant that our
 sight could not discover such alterations in them.
 {{< /r >}}
@@ -115,7 +115,7 @@ should like to have removed. Accordingly I ask him whether the earth was generab
 corruptible before the Mediterranean inundation, or whether it began to be so then?
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 It was without doubt generable and corruptible before, as well; but that was so vast a
 mutation that it might have been observed as far as the moon.
 {{< /r >}}
@@ -156,7 +156,7 @@ This is easily inferred from his own manner of philosophizing, for when he write
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Aristotle first laid the basis of his argument a priori, showing the necessity of the
 inalterability of heaven by means of natural, evident, and clear principles. He afterward
 supported the same a posteriori, by the senses and by the traditions of the ancients.

@@ -30,7 +30,7 @@ But here, all out of breath, comes the very person who has been wished for so lo
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 In this morning's ebb he withdrew the waters in such a manner that the gondola in which I was riding, having entered an unlined canal not far from here, was left high and dry. 
 
 I had to stay there over an hour awaiting the return of the tide. And while I was there, unable to get out of the boat (which had run aground almost instantly), I fell to observing an event which struck me as quite remarkable. 
@@ -44,7 +44,7 @@ This is an effect which I have never happened to see before in all the time I ha
 SAGR. Then you cannot often have happened to be stranded among little trickles. On account of their having scarcely any slope, the sinking or rising of the open sea by merely the thickness of a sheet of paper is enough to make the water flow and return a long distance through such rivulets. On some seacoasts the rising of the sea only a few yards makes the water spill over the plains for many thousands of acres.
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 SIMP. I know that well enough, but I should think that between the lowest point of the sinking and the first point of the rising, some perceptible interval of rest would be bound to intervene.
 {{< /r >}}
 

@@ -14,7 +14,7 @@ icon: "Rene Descartes"
 
 
 
-#### 109. Gunpowder made of sulfur, saltpeter, and charcoal; first on sulfur.
+## 109. Gunpowder made of sulfur, saltpeter, and charcoal; first on sulfur.
 
 Gunpowder kindles fire most quickly. It made of:
 - sulfur [fire-element]
@@ -28,7 +28,7 @@ Sulfur is as flammable as possible because it consists of particles of sharp jui
 Hence, sulfur is even considered very hot for medicinal use.
 
 
-#### 110. Saltpeter
+## 110. Saltpeter
 
 Saltpeter consists of oblong and rigid particles. 
 
@@ -38,14 +38,14 @@ This can be deduced from the fact that when dissolved in water, it does not cong
 - Instead, it adheres to the bottom and sides of the vessel.
 
 
-#### 111. The Combination of sulfur and saltpeter
+## 111. The Combination of sulfur and saltpeter
 
 As for the size of the particles, it is to be thought that there is such a proportion between them that the sharp juices in sulfur, moved by the fire-aether, can easily shake off the air-aether globules from the gaps between the twigs of oily material. 
 
 At the same time, they agitate the saltpeter particles which are thicker than they are.
 
 
-#### 112. The motion of nitre particles
+## 112. The motion of nitre particles
 
 These particles of nitre are thicker in one part. They tend downward due to their gravity.
 
@@ -59,7 +59,7 @@ It forms a circular motion, initially small, as in `C`.
 Meanwhile, particles of sulfur, moving very swiftly in all directions, reach other nitre particles in a very short time.
 
 
-#### 113. Why the flame of gunpowder expands greatly and moves upward.
+## 113. Why the flame of gunpowder expands greatly and moves upward.
 
 Each of these nitre particles requires a significant amount of space to describe the circles of its motion. 
 
@@ -68,7 +68,7 @@ The flame of this powder expands greatly. Furthermore, since these circles are d
 Being very dry and fine, it can be ignited safely by hand.
 
 
-#### 114. Charcoal
+## 114. Charcoal
 
 Charcoal is mixed with sulfur and nitre. 
 
@@ -93,7 +93,7 @@ This ignites easily because they were already moved by the force of fire. But th
 This is evident from the fact that, while others go into smoke preceding their combustion, these last ones remain.
 
 
-#### 115. The grains of gunpowder and where its main force lies
+## 115. The grains of gunpowder and where its main force lies
 
 Thus, sulfur and nitre easily enter the wide channels of charcoal.
 

@@ -41,7 +41,7 @@ Would you determine it according to the measure of the curve AF, or the straight
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 According to the straight line AF, and not according to the curve, such being already excluded for such a use.
 {{< /r >}}
 
@@ -97,7 +97,7 @@ Whatever has the three has all of them, and that which has all of them is divisi
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Who says that I cannot draw other lines? Why may I not bring another line from beneath to the point A, which will be perpendicular to the rest?
 {{< /r >}}
 
@@ -115,7 +115,7 @@ Yes, because it seems to me that what Simphcio means would be the same DA prolon
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 I shall not say that this argument of yours cannot be conclusive. But I still say, with Aristotle, that in physical matters one need not always require a mathematical demonstration.
 {{< /r >}}
 

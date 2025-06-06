@@ -9,6 +9,10 @@ aliases:
 ---
 
 
+{{< youtube EEyrH4Y3G-c >}}
+
+
+
 ## Basics 
 
 {{< r a="Asker" >}}

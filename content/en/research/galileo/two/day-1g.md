@@ -9,7 +9,7 @@ c: "darkgoldenrod"
 ---
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Whatever that the earth is more perfect the way it is, being
 alterable, changeable, etc., than it would be if it were a mass of stone or even a solid diamond,
 and extremely hard and invariant. But to the extent that these conditions bring nobility to the
@@ -37,7 +37,7 @@ beside a woman and expecting children from such a union.
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Corruptibility, alteration, mutation, etc. do not pertain to the whole terrestrial globe,
 which as to its entirety is no less eternal than the sun or moon. But as to its external parts it is
 generable and corruptible, and it is certainly true that generations and corruptions are perpetual
@@ -55,7 +55,7 @@ them of actions; even increasing those by making them operative not only upon th
 reciprocally among themselves, and the earth also upon them?
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 This cannot be, because the generations, mutations, etc. which would occur, say, on the moon, would be vain and useless, and nature makes nothing in vain.
 {{< /r >}}
 
@@ -63,7 +63,7 @@ This cannot be, because the generations, mutations, etc. which would occur, say,
 SAGR. And why should they be vain and useless?
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Because we plainly see and feel that all generations, changes, etc. that occur on earth
 are either directly or indirectly designed for the use, comfort, and benefit of man. Horses are
 born to accommodate men; for the nutriment of horses, the earth produces hay and the clouds
@@ -134,7 +134,7 @@ Simplico argues that the moon is a perfectly smooth sphere made of celestial mat
 engage in an extended argument about the nature of the moon.]
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Therefore, in your opinion, the earth would make an appearance similar to that which
 we see in the moon, of at most two parts. But do you believe then that those great spots which
 are seen on the face of the moon are seas, and the brighter balance land, or some such thing?

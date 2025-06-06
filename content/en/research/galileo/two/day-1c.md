@@ -86,7 +86,7 @@ many times, that nothing violent can last very long.
 {{< /l >}}
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 To all these things we have the most suitable answers, which I omit for the present in order that we may come to the particular reasons and sensible experiments which should be finally preferred, as Aristotle well says, above anything that can be supplied by human argument.
 {{< /r >}}
 

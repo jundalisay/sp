@@ -42,7 +42,7 @@ This makes the Whole perfect.
 {{< /l >}}
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 What about his definition of "continuous"? 
 
 He first proved that there are no more than 3 dimensions, since Three is everything, and everywhere?
@@ -98,7 +98,7 @@ I do not believe that 3 legs is more perfect than 4 or 2.
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 But these are the doctrines to the Pythagoreans.
 
 <!-- , who attribute so much to numbers. You, who are a mathematician, and who believe many Pythagorean philosophical opinions, now seem to scorn their mysteries.  -->
@@ -127,7 +127,7 @@ Such astuteness and prudence remind one of the wise young man who, in order to s
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 I am not among those curious about the Pythagorean mysteries. 
 
 Aristotle's reasons for having only 3 dimensions is conclusive. 

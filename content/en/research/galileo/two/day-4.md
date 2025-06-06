@@ -33,7 +33,7 @@ Now it seems to me that these actual and known effects alone, even if no others 
 {{< /l >}}
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 These events, Salviati, did not just commence; they are very ancient, and have been observed by innumerable men, many of whom have contrived to give one reason or another to account for them. Not far from here there is a great Peripatetic who gives for them a cause recently dredged out of one of Aristotle's texts which had not been well understood by his interpreters. From this text, he deduces that the true cause of these movements stems from nothing else but the various depths of the seas. The deepest waters, being more abundant and therefore heavier, . expel the waters of lesser depth; these, being raised up, then try to descend, and from this continual strife the tides are derived.
 
 Then there are many who refer the tides to the moon, saying that this has a particular dominion over the water. Lately a certain prelate has published a little tract wherein he says that the moon, wandering through the sky, attracts and draws up toward itself a heap of water which goes along following it, so that the high sea is always in that part which lies under the moon. And since when the moon is below the horizon, this rising nevertheless returns, he tells us that he can say nothing to account for this effect except that the moon not only retains this faculty naturally in itself, but in this case has also the power to confer it upon the opposite sign of the zodiac. Others, as I think you know, say that the moon also has power to rarefy the water by its temperate heat, and that thus rarefied, it is lifted up. Nor are those lacking who . . .
@@ -52,7 +52,7 @@ As for those who make the temperate heat of the moon able to swell the water, yo
 Let us just say that there are two sorts of poetical minds -- one kind apt at inventing fables, and the other disposed to believe them.
 {{< /l >}}
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 I do not think that anyone believes fables when he knows them to be such; and as to the opinions about the cause of the tides (which are numerous), since I know that there is only one true and primary cause for one effect, I understand perfectly that at most one can be true, and all the rest must be false and fabulous. Perhaps the true one is not even among those which have been produced up to date. I rather believe this to be so, since it would be remarkable if the true cause should shed so little light as not to show through the darkness of so many false ones. But I must say, with that frankness which is permitted here among ourselves, that to introduce the motion of the earth and make it the cause of the tides seems to me thus far to be a concept no less fictitious than all the rest I have heard. If no reasons more agreeable to natural phenomena were presented to me, I should pass on unhesitatingly to the belief that the tide is a supernatural effect, and accordingly miraculous and inscrutable to the human mind -- as are so many others which depend directly upon the omnipotent hand of God.
 {{< /r >}}
 
@@ -70,7 +70,7 @@ But if, by simply setting the vessel in motion, I can represent for you without 
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 I shall have recourse to miracles unless you dissuade me from it by other natural causes than the motion of the containers of the waters of the sea. For I know that the latter containers do not move, the entire terrestrial globe being naturally immovable.
 {{< /r >}}
 

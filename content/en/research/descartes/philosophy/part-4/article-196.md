@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 196. The soul perceives only in so far as it is in the brain
+## 196. The soul perceives only in so far as it is in the brain
 
 The soul does not perceive in so far as it is in each member of the body.
 
@@ -58,7 +58,7 @@ This clearly shows that the pain of the hand is not felt by the mind in so far a
 
 
 
-#### 197. The mind can be excited by the various sensations from the motion of body.
+## 197. The mind can be excited by the various sensations from the motion of body.
 
 <!-- In the next place, it can be proved that our mind is of such a nature that  -->
 

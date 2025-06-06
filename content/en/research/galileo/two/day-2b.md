@@ -23,7 +23,7 @@ SAGR. Oh, what a doctor this is' I am his to command; for he will not let himsel
 Oh, the inexpressible baseness of abject minds! To make themselves slaves willingly; to accept decrees as inviolable; to place themselves under obligation and to call themselves persuaded and convinced by arguments that are so "powerful" and "clearly conclusive" that they themselves cannot tell the purpose for which they were written, or what conclusion they serve to prove' But let us call it a greater madness that among themselves they are even in doubt whether this very author held to the affirmative or the negative side. Now what is this but to make an oracle out of a log of wood, and run to it for answers; to fear it, revere it, and adore it?
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 But if Aristotle is to be abandoned, whom shall we have for a guide in philosophy? Suppose you name some author.
 {{< /r >}}
 
@@ -94,7 +94,7 @@ For the action of such a movement is only in the relation between the celestial 
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 I do not quite understand how this very great motion is as nothing for the sun, the moon, the other planets, and the innumerable host of the fixed stars. Why do you say it is nothing for the sun to pass from one meridian to the other, rise above this horizon and sink beneath that, causing now the day and now the night; and for the moon, the other planets, and the fixed stars to vary similarly?
 {{< /r >}}
 
@@ -108,7 +108,7 @@ And let us redouble the difficulty with another very great one, which is this. I
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 As to the contrariety of motions, that would matter little, since Aristotle demonstrates that circular motions are not contrary to one another, and their opposition cannot be called true contrariety.
 {{< /r >}}
 
@@ -148,7 +148,7 @@ Finally, for the seventh objection, if we attribute the diurnal rotation to the 
 SAGR. I am aware of some ideas whirling around in my own imagination which have been confusedly roused in me by these arguments. If I wish to keep my attention on the things about to be said, I shall have to try to get them in better order and to place the proper construction upon them, if possible. Perhaps it will help me to express myself more easily if I proceed by interrogation. Therefore I ask Simplicio, first, whether he believes that the same simple movable body can naturally partake of diverse movements, or whether only a single motion suits it, this being its own natural one.
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 For a simple movable body there can be but a single motion, and no more, which suits it naturally; any others it can possess only incidentally and by participation. Thus when a man walks along the deck of a ship, his own motion is that of walking, while the motion which takes him to port is his by participation; for he could never arrive there by walking if the ship did not take him there by means of its motion.
 {{< /r >}}
 
@@ -157,7 +157,7 @@ For a simple movable body there can be but a single motion, and no more, which s
 SAGR. Second, tell me about this motion which is communicated to a movable body by participation, when it itself is moved by some other motion different from that in which it participates. Must this shared motion in turn reside in some subject, or can it indeed exist in nature without other support?
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Aristotle answers all these questions for you. He tells you that just as there is only one motion for one movable body, so there is but one movable body for that motion. Consequently no motion can either exist or even be imagined except as inhering In its subject.
 {{< /r >}}
 

@@ -179,7 +179,7 @@ But in the case of a stone or metallic cylinder where the coherence seems to be 
 Fig 1
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 If so, the fibres of the wood, being as long as the piece of wood itself, render it strong and resistant against large forces tending to break it.
 
 But how can one make a rope one hundred cubits long out of hempen fibres which are not more than two or three cubits long, and still give it so much strength?

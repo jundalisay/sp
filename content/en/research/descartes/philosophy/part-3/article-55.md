@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 55. What is light?
+## 55. What is light?
 
 <!-- It is the law of Nature that  -->
 
@@ -30,7 +30,7 @@ Light consists solely in this force.
 <!-- Much else depends on the understanding of it. -->
 
 
-#### 56. Understanding the effort towards motion in inanimate objects
+## 56. Understanding the effort towards motion in inanimate objects
 
 The air-aether globules strive to move away from the centers that they rotate around. 
 
@@ -43,7 +43,7 @@ Instead, they are moved in a certain way [by the collective motion of all globul
 rather, they are simply situated and moved in such a way that they will indeed move in that direction  -->
 
 
-#### 57. How different efforts towards motion can coexist in the same body
+## 57. How different efforts towards motion can coexist in the same body
 
 Frequently, many different causes act simultaneously on the same body. Some impede the effects of others.
 
@@ -66,7 +66,7 @@ If the stone were to leave the sling when it reaches `A` coming from `L`, it wou
 Finally, if we cancel the circular motion and only consider the force that is resisted by the sling, then the stone, while at `A`, tends only towards `E` by moving away from the `Center D` along the straight line `DAE`.
 
 
-#### 58. How bodies moving in a circle try to move away from the center of their motion.
+## 58. How bodies moving in a circle try to move away from the center of their motion.
 
 Let us compare the motion of:
 - a stone at point `A` going towards `C`, if it were not impeded by any other force
@@ -119,7 +119,7 @@ Also, compare the force by which the same stone, acted upon in the sling along t
 Thus it moves away from the `Center E` along the straight lines `EAY`, `EBY`, and similar. -->
 
 
-#### 59. The magnitude of this effort
+## 59. The magnitude of this effort
 
 The ant's motion will be very slow initially. Therefore its effort, if considered only at the start of the motion, might not seem significant.
 

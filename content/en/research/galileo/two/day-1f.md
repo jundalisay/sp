@@ -65,7 +65,7 @@ back to the path without guidance from your memory.
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 I remember quite well. We were dealing with the reply of the Anti-Tycho to the
 objections against the immutability of the heavens. Among these you brought in this matter of
 the sunspots, not mentioned by its author, and I believe you wished to give consideration to his

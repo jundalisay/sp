@@ -14,7 +14,7 @@ icon: "Rene Descartes"
 
 
 
-#### 198. Our senses only tell us of the shape, location, magnitude, and motion of external objects.
+## 198. Our senses only tell us of the shape, location, magnitude, and motion of external objects.
 
 We observe no such difference between the nerves as to lead us to judge that one set of them convey to the brain from the organs of the external senses anything different from another, or that anything at all reaches the brain besides the local motion of the nerves themselves.
 
@@ -58,7 +58,7 @@ The various dispositions of external objects such as light, colour, smell, taste
 <!-- [Footnote: "the diverse figures, situations, magnitudes, and motions of their parts."— French.] -->
 
 
-#### 199. This treatise has explained all the phenomenon of nature
+## 199. This treatise has explained all the phenomenon of nature
 
 <!-- There is no  whose explanation has been omitted in . -->
 
@@ -71,7 +71,7 @@ But leaving out of account motion, magnitude, figure, [and the situation of the 
 These I have recently shown to be nothing more, at least so far as they are known to us, than certain dispositions of the objects, consisting in magnitude, figure, and motion.
 
 
-#### 200. This treatise uses principles which are universally received
+## 200. This treatise uses principles which are universally received
 
 This philosophy is not new, but of all others the most ancient and common.
 
@@ -90,7 +90,7 @@ We have experience of the truth of this, not merely by a single sense, but by se
 We also distinctly imagine and understand it. This cannot be said of any of the other things that fall under our senses, as colours, sounds, and the like; for each of these affects but one of our senses, and merely impresses upon our imagination a confused image of itself, affording our understanding no distinct knowledge of what it is.
 
 
-#### 201. Sensible bodies are composed of insensible particles
+## 201. Sensible bodies are composed of insensible particles
 
 There are many particles in each body that are not perceived by our senses. This will not be approved of by people who take the senses as the measure of the knowable. 
 

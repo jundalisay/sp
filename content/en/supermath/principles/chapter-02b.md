@@ -62,8 +62,6 @@ Instead, the focus in on relative states or spins.
 For example, a new marriage of a man and woman with opposite spins will lead to separation. The system can predict when and whether the separation will be peaceful and amiable, or violent and homicidal. But it does not bother to predict the hour-by-hour activities until that separation happens.
 
 
-
-
 <!-- As physical 
 4t oscillations : 1 distance 
 4,120,102 : 1 light distance : 1m distance
@@ -71,13 +69,11 @@ For example, a new marriage of a man and woman with opposite spins will lead to 
 
 1000000 (base 6) is equal to 46,656
 
-
 Go to another star or galaxy, then get the time for Cesium to get 9 billion oscillations as your second. 
 
 Then count the distance light travels in that second. 
 
 Then cut up the distances to get 
-
 
 86400
 
@@ -115,4 +111,4 @@ Base-6 also explains the differences of the Elements
 - Element 12 Magnesium is different from Element 13 Aluminum
 - The unstable elements begin at Element 84 Polonium which is 220 in base-6
 
-convert the result of 9,192,631,760 / 667430 (both base 10) into base 6
+<!-- convert the result of 9,192,631,760 / 667430 (both base 10) into base 6 -->

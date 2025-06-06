@@ -101,7 +101,7 @@ Greeks, so adjudged by the oracle, said openly that he recognized that he knew n
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Either the oracle or Socrates himself was a liar, the former declaring him the wisest, and the latter saying he knew himself the most ignorant.
 {{< /r >}}
 
@@ -128,7 +128,7 @@ natural dove?
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Either I am without understanding or there is a manifest contradiction in this argument of yours. Among your greatest encomiums, if not indeed the greatest of all, is your praise for the understanding which you attribute to natural man. A little while ago you agreed with Socrates that his understanding was nil. Then you must say that not even Nature understood how to make an intellect that could understand.
 {{< /r >}}
 

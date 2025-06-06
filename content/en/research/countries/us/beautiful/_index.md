@@ -11,21 +11,6 @@ image: "/flags/us.png"
 
 
 
-Union  Calendar  No.  
-119 TH CONGRESS 
-1 ST S ESSION  
-H. R.  ll 
-[Report No. 119–] 
-To provide for reconciliation pursuant to title II of H. Con. Res. 14. 
-IN  THE  HOUSE  OF  REPRESENTATIVES  
-M AY --, 2025 
-Mr.  A RRINGTON ,  from  the  Committee  on  the  Budget,  reported  the  following  
-bill;  which  was  committed  to  the  Committee  of  the  Whole  House  on  the  
-State of the Union and ordered to be printed 
-g:\V\F\051525\F051525.003.xml           
-May 15, 2025 (7:46 a.m.)
-VerDate Nov 24 2008     07:46 May 15, 2025    Jkt 000000    PO 00000    Frm 00001    Fmt 6652    Sfmt 6652    
-
 A  BILL  
 To provide for reconciliation pursuant to title II of H. Con. 
 Res. 14. 
@@ -34404,8 +34389,6 @@ g:\V\F\051525\F051525.003.xml
 May 15, 2025 (7:46 a.m.)
 VerDate Nov 24 2008     07:46 May 15, 2025    Jkt 000000    PO 00000    Frm 01115    Fmt 6652    Sfmt 6201    C:\USERS\CASTERKX\APPDATA\ROAMING\SOFTQUAD\XM ETAL\11.0\GEN\C\2025_BU D
 
-G:\OFFICE\RAMSEYER\R19\RH\2025_BUDGET_REC_RH.XML
-1116 
 1 SEC.  112211.  RESTRICTION  ON  REGULATION  OF  CONTIN-
 2 GENCY   FEES   WITH   RESPECT   TO   TAX   RE-
 3 TURNS, ETC. 

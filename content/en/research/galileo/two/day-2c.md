@@ -1,7 +1,7 @@
 SAGR. Now in the third place I should like you to tell me whether you believe that the moon and the other planets and celestial bodies have their own motions, and what these are.
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 They have, and they are those motions in accordance with which they run through the zodiac--the moon in a month, the sun in a year, Mars in two, the stellar sphere in so many thousands. These are their own natural motions.
 {{< /r >}}
 
@@ -13,7 +13,7 @@ SIMP. They have that by participation.
 SAGR. Then it does not reside in them; and neither residing in them, nor being able to exist without some subject to reside in, it must be made the proper and natural motion of some other sphere.
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 As to this, astronomers and philosophers have discovered another very high sphere, devoid of stars, to which the diurnal rotation naturally belongs. To this they have given the name primum mobile; this speeds along with it all the inferior spheres, contributing to and sharing with them its motion.
 {{< /r >}}
 
@@ -33,7 +33,7 @@ This seems to me to be found, and quite elegantly. Make the earth the primum mob
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 The crucial thing is being able to move the earth without causing a thousand inconveniences.
 {{< /r >}}
 
@@ -47,7 +47,7 @@ Nor do I set these forth to you as inviolable laws, but merely as plausible reas
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 First I shall say some things in general about all these considerations taken together, and then get down to certain particulars.
 
 It seems to me that you base your case throughout upon the greater ease and simplicity of producing the same effects. As to their causation, you consider the moving of the earth alone equal to the moving of all the rest of the universe except the earth, while from the standpoint of action, you consider the former much easier than the latter.
@@ -64,7 +64,7 @@ Next, as to your saying that a great part of an infinite power may better be exe
 Giving our attention, then, to the movable bodies, and not questioning that it is a shorter and readier operation to move the earth than the universe, and paying attention to the many other simplifications and conveniences that follow from merely this one, it is much more probable that the diurnal motion belongs to the earth alone than to the rest of the universe excepting the earth. This is supported by a very true maxim of Aristotle's which teaches that frustra fit per plura quod potest fieri per pauciora.
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 In referring to this axiom you have left out one little clause that means everything, especially for our present purposes. The detail left out is aeque bene; hence it is necessary to examine whether both assumptions can satisfy us equally well in every respect.
 {{< /r >}}
 
@@ -85,7 +85,7 @@ If we do not want to repeat what happened yesterday, please get back to the poin
 {{< /r >}}
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 The arrangement is most ancient, as is shown by Aristotle refuting it:
 
 1. Whether the earth is moved in itself in the center, or in a circle moved from the center, the earth must be moved with such motion by force, for this is not its natural motion. 
@@ -125,7 +125,7 @@ Therefore, Simplicio, present them, if you will; or, if you want me to relieve y
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 It will be better for you to bring them up, for having given them greater study you will have them readier at hand, and in great number too....
 {{< /r >}}
 
@@ -141,7 +141,7 @@ Hence no such absurdity as this author imagines exists anywhere in the Copernica
 {{< /l >}}
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 There follows a fourth objection, taken once again from an observation of nature. 
 
 It is that bodies of the same kind have motions which agree in kind, or else they agree in rest. But in Copernicus's theory, bodies agreeing in kind and quite similar to each other would have great discrepancies as to motion, or even be diametrically opposed. 
@@ -162,7 +162,7 @@ Now behold how nature, favoring our needs and wishes, presents us with two strik
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 But the author will not concede that the six planets are dark, and will stand firm upon that denial; or else he will argue the great conformity in nature between the six planets and the sun and fixed stars, as well as the contrast between the latter and the earth, with respect to conditions other than those of darkness and light. Indeed, I now see that here In the fifth objection, which follows, there is set forth the great disparity between the earth and the heavenly bodies. He writes that there would be great confusion and trouble in the system of the universe and among its parts, according to the Copernican hypothesis, because of its placing among the heavenly bodies (immutable and incorruptible according to Aristotle, Tycho, and others); among bodies of such nobility by the admission of everyone (including Copernicus himself, who declares them to be ordered and arranged in the best possible manner and who removes from them any inconstancy of power); because, I say, of its placing among bodies as pure as Venus and Mars this sink of all corruptible material; that is, the earth, with the water, the air, and all their mixtures!
 
 How much superior a distribution, and how Much more suitable it is to nature--indeed, to God the Architect Himself--to separate the pure from the impure, the mortal from the immortal, as all other schools teach, showing us that impure and infirm materials are confined within the narrow arc of the moon's orbit, above which the celestial objects rise in an unbroken series!
@@ -179,7 +179,7 @@ Copernicus admires the arrangement of the parts of the universe because of God's
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Here is the sixth and last argument, in which he puts it down as an unlikely thing that a corruptible and evanescent body could have a perpetual regular motion. This he supports by the example of the animals, which, though they move with their natural motion, nevertheless get tired and must rest to restore their energy. And what is such motion compared to the motion of the earth, which is immense in comparison with theirs? Yet the earth is made to move in three discordant and distractingly different ways I Who would ever be able to assert such a thing, except someone who was sworn to its defense?
 
 Nor in this case is there any use in Copenicus saying that this motion, because it is natural to the earth and not constrained, works contrary effects to those of forced motions; and that things which are given impetus are destined to disintegrate and cannot long subsist, whereas those made by nature maintain themselves in their optimum arrangement. This reply, I say, is no good; it falls down before our answer. For the animal is a natural body too, not an artificial one; and its movement is natural, deriving from the soul; that is, from an intrinsic principle, while that motion is constrained whose principle is outside and to which the thing moved contributes nothing. Yet if the animal continues its motion long, it becomes exhausted and would even die if it obstinately tried to force itself on.
@@ -213,7 +213,7 @@ A movement that serves for repose and removes the weariness from a body tired of
 Besides, I don't know how true it is that the movement of animals is natural rather than constrained. Rather, I believe it can be truly said that the soul naturally moves the members of the animal with a preternatural motion. For if motion upward is preternatural to heavy bodies, the raising of such heavy bodies as the thigh and the leg to walk cannot be done without constraint, and therefore not without tiring the mover. Climbing up a ladder carries a heavy body upward against its natural tendency, from which follows weariness because of the natural repugnance of heaviness to such a motion. But if a movable body has a motion to which it has no repugnance whatever, what tiredness or diminution of force and of power need be feared on the part of the mover? And why should power be dissipated where it is not employed at all?
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 It is against the contrary motions by which the terrestrial globe is imagined to move that the author directs his objection.
 {{< /r >}}
 
@@ -234,7 +234,7 @@ Meanwhile, if there is anything else you want to say--particularly you, Simplici
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 Our discussions today are full of the most acute and ingenious ideas adduced on the Copernican side in support of the earth's motion. But I do not feel entirely persuaded to believe them.
 
 The things which have been said prove nothing except that the reasons for the fixedness of the earth are not necessary reasons. But no demonstration on the opposing side is thereby produced which necessarily convinces one and proves the earth's mobility.
@@ -248,7 +248,7 @@ I have never taken it upon myself, Simplicio, to alter your opinion; much less s
 
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 The question is so great and noble that I shall listen to its discussion with deep interest, expecting to hear everything that can be said upon the subject. Following that, I shall go on by myself at my leisure In the deepest reflections upon what has been heard and what is to be heard. And if I gain nothing else, it will be no small thing to be able to reason upon more solid ground.
 {{< /r >}}
 
@@ -256,6 +256,6 @@ The question is so great and noble that I shall listen to its discussion with de
 SAGR. Then in order not to weary Salviati further, let us put an end to today's discussions, and tomorrow we shall take up the discourse again according to our custom, hoping to hear great new things.
 
 
-{{< r a="Simplecio" >}}
+{{< r a="Simplicio" >}}
 I shall leave the book on the new stars, but I am taking back this booklet of theses in order to look over once more what is there written against the annual motion, which will be the subject of tomorrow's discussion.
 {{< /r >}}
