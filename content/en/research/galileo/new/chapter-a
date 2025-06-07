@@ -1,0 +1,744 @@
+Proposition I
+A prism or solid cylinder of glass, steel, wood or other breakable material which is capable of sustaining a very heavy weight when applied longitudinally is, as previously remarked, easily broken by the transverse application of a weight which may be much smaller in proportion as the length of the cylinder exceeds its thickness.
+
+Let us imagine a solid prism ABCD fastened into a wall at the end AB, and supporting a weight E at the other end; understand also that the wall is vertical and that the prism or cylinder is fastened at right angles to the wall. It is clear that, if the cylinder breaks, fracture will occur at the point B where the edge of the mortise acts as a fulcrum for the lever BC, to which the force is applied; the thickness of the solid BA is the other arm of the lever along which is located the resistance. This resistance opposes the separation of the part BD, lying outside the wall, from that portion lying inside. From the preceding, it follows that the magnitude [momento] of the force applied at C bears to the magnitude [momento] of the resistance, found in the thickness of the prism, i. e., in the attachment of the base BA to its contiguous parts, the same ratio which the length CB bears to half the length BA; if now we define absolute resistance to fracture as that offered to a longitudinal pull (in which case the stretching force acts in the same direction as that through which the body is moved), then it follows that the absolute resistance of the prism BD is to the breaking load placed at the end of the lever BC in the same ratio as the length BC is to the half of AB in the case of a prism, or the semidiameter in the case of a cylinder. This is our first proposition.
+*
+ Observe that in what has here been said the weight of the solid BD itself has been left out of consideration, or rather, the prism has been assumed to be devoid of weight. But if the weight of the prism is to be taken account of in conjunction with the weight E, we must add to the weight E one half that of the prism BD: so that if, for example, the latter weighs two pounds and the weight E is ten pounds we must treat the weight E as if it were eleven pounds.
+
+Simp.
+Why not twelve?
+
+Salv.
+The weight E, my dear Simplicio, hanging at the extreme end C acts upon the lever BC with its full moment of ten pounds: so also would the solid BD if suspended at the same point exert its full moment of two pounds; but, as you know, this solid is uniformly distributed throughout its entire length, BC, so that the parts which lie near the end B are less effective than those more remote.
+
+lf0416_figure_020.jpg
+Fig. 17
+Accordingly if we strike a balance between the two, the weight of the entire prism may be considered as concentrated at its center of gravity which lies midway of the lever BC. But a weight hung at the extremity C exerts a moment twice as great as it would if suspended from the middle: therefore if we consider the moments of both as located at the end C we must add to the weight E one-half that of the prism.
+
+Simp.
+I understand perfectly; and moreover, if I mistake not, the force of the two weights BD and E, thus disposed, would exert the same moment as would the entire weight BD together with twice the weight E suspended at the middle of the lever BC.
+
+Salv.
+Precisely so, and a fact worth remembering. Now we can readily understand
+
+Proposition II
+How and in what proportion a rod, or rather a prism, whose width is greater than its thickness offers more resistance to fracture when the force is applied in the direction of its breadth than in the direction of its thickness.
+
+lf0416_figure_021.jpg
+Fig. 18
+For the sake of clearness, take a ruler ad whose width is ac and whose thickness, cb, is much less than its width. The question now is why will the ruler, if stood on edge, as in the first figure, withstand a great weight T, while, when laid flat, as in the second figure, it will not support the weight X which is less than T. The answer is evident when we remember that in the one case the fulcrum is at the line bc, and in the other case at ca, while the distance at which the force is applied is the same in both cases, namely, the length bd: but in the first case the distance of the resistance from the fulcrum—half the line ca—is greater than in the other case where it is only half of bc. Therefore the weight T is greater than X in the same ratio as half the width ca is greater than half the thickness bc, since the former acts as a lever arm for ca, and the latter for cb, against the same resistance, namely, the strength of all the fibres in the cross-section ab. We conclude, therefore, that any given ruler, or prism, whose width exceeds its thickness, will offer greater resistance to fracture when standing on edge than when lying flat, and this in the ratio of the width to the thickness.
+
+Proposition III
+Considering now the case of a prism or cylinder growing longer in a horizontal direction, we must find out in what ratio the moment of its own weight increases in comparison with its resistance to fracture. This moment I find increases in proportion to the square of the length. In order to prove this let AD be a prism or cylinder lying horizontal with its end A firmly fixed in a wall. Let the length of the prism be increased by the addition of the portion BE. It is clear that merely changing the length of the lever from AB to AC will, if we disregard its weight, increase the moment of the force [at the end] tending to produce fracture at A in the ratio of CA to BA. But, besides this, the weight of the solid portion BE, added to the weight of the solid AB increases the moment of the total weight in the ratio of the weight of the prism AE to that of the prism AB, which is the same as the ratio of the length AC to AB.
+
+It follows, therefore, that, when the length and weight are simultaneously increased in any given proportion, the moment, which is the product of these two, is increased in a ratio which is the square of the preceding proportion. The conclusion is then that the bending moments due to the weight of prisms and cylinders which have the same thickness but different lengths, bear to each other a ratio which is the square of the ratio of their lengths, or, what is the same thing, the ratio of the squares of their lengths.
+
+We shall next show in what ratio the resistance to fracture [bending strength], in prisms and cylinders, increases with increase of thickness while the length remains unchanged. Here I say that
+
+lf0416_figure_022.jpg
+Fig. 19
+Proposition IV
+In prisms and cylinders of equal length, but of unequal thicknesses, the resistance to fracture increases in the same ratio as the cube of the diameter of the thickness, i. e., of the base.
+
+Let A and B be two cylinders of equal lengths DG, FH; let their bases be circular but unequal, having the diameters CD and EF. Then I say that the resistance to fracture offered by the cylinder B is to that offered by A as the cube of the diameter FE is to the cube of the diameter DC. For, if we consider the resistance to fracture by longitudinal pull as dependent upon the bases, i. e., upon the circles EF and DC, no one can doubt that the strength [resistenza] of the cylinder B is greater than that of A in the same proportion in which the area of the circle EF exceeds that of CD; because it is precisely in this ratio that the number of fibres binding the parts of the solid together in the one cylinder exceeds that in the other cylinder.
+
+But in the case of a force acting transversely it must be remembered that we are employing two levers in which the forces are applied at distances DG, FH, and the fulcrums are located at the points D and F; but the resistances are applied at distances which are equal to the radii of the circles DC and EF, since the fibres distributed over these entire cross-sections act as if concentrated at the centers. Remembering this and remembering also that the arms, DG and FH, through which the forces G and H act are equal, we can understand that the resistance, located at the center of the base EF, acting against the force at H, is more effective [maggiore] than the resistance at the center of the base CD opposing the force G, in the ratio of the radius FE to the radius DC. Accordingly the resistance to fracture offered by the cylinder B is greater than that of the cylinder A in a ratio which is compounded of that of the area of the circles EF and DC and that of their radii, i. e., of their diameters; but the areas of circles are as the squares of their diameters. Therefore the ratio of the resistances, being the product of the two preceding ratios, is the same as that of the cubes of the diameters. This is what I set out to prove. Also since the volume of a cube varies as the third power of its edge we may say that the resistance [strength] of a cylinder whose length remains constant varies as the third power of its diameter.
+
+lf0416_figure_023.jpg
+Fig. 20
+From the preceding we are able to conclude that
+
+Corollary
+The resistance [strength] of a prism or cylinder of constant length varies in the sesquialteral ratio of its volume.
+
+This is evident because the volume of a prism or cylinder of constant altitude varies directly as the area of its base, i. e., as the square of a side or diameter of this base; but, as just demonstrated, the resistance [strength] varies as the cube of this same side or diameter. Hence the resistance varies in the sesquialteral ratio of the volume—consequently also of the weight—of the solid itself.
+
+Simp.
+Before proceeding further I should like to have one of my difficulties removed. Up to this point you have not taken into consideration a certain other kind of resistance which, it appears to me, diminishes as the solid grows longer, and this is quite as true in the case of bending as in pulling; it is precisely thus that in the case of a rope we observe that a very long one is less able to support a large weight than a short one. Whence, I believe, a short rod of wood or iron will support a greater weight than if it were long, provided the force be always applied longitudinally and not transversely, and provided also that we take into account the weight of the rope itself which increases with its length.
+
+Salv.
+I fear, Simplicio, if I correctly catch your meaning, that in this particular you are making the same mistake as many others; that is if you mean to say that a long rope, one of perhaps 40 cubits, cannot hold up so great a weight as a shorter length, say one or two cubits, of the same rope.
+
+Simp.
+That is what I meant, and as far as I see the proposition is highly probable.
+
+Salv.
+On the contrary, I consider it not merely improbable but false; and I think I can easily convince you of your error. Let AB represent the rope, fastened at the upper end A: at the lower end attach a weight C whose force is just sufficient to break the rope. Now, Simplicio, point out the exact place where you think the break ought to occur.
+
+Simp.
+Let us say D.
+
+Salv.
+And why at D?
+
+Simp.
+Because at this point the rope is not strong enough to support, say, 100 pounds, made up of the portion of the rope DB and the stone C.
+
+Salv.
+Accordingly whenever the rope is stretched [violentata] with the weight of 100 pounds at D it will break there.
+
+Simp.
+I think so.
+
+Salv.
+But tell me, if instead of attaching the weight at the end of the rope, B, one fastens it at a point nearer D, say, at E: or if, instead of fixing the upper end of the rope at A, one fastens it at some point F, just above D, will not the rope, at the point D, be subject to the same pull of 100 pounds?
+
+Simp.
+It would, provided you include with the stone C the portion of rope EB.
+
+Salv.
+Let us therefore suppose that the rope is stretched at the point D with a weight of 100 pounds, then according to your own admission it will break; but FE is only a small portion of AB; how can you therefore maintain that the long rope is weaker than the short one? Give up then this erroneous view which you share with many very intelligent people, and let us proceed.
+
+Now having demonstrated that, in the case of [uniformly loaded] prisms and cylinders of constant thickness, the moment of force tending to produce fracture [momento sopra le proprie resistenze] varies as the square of the length; and having likewise shown that, when the length is constant and the thickness varies, the resistance to fracture varies as the cube of the side, or diameter, of the base, let us pass to the investigation of the case of solids which simultaneously vary in both length and thickness. Here I observe that,
+
+lf0416_figure_024.jpg
+Fig. 21
+Proposition V
+Prisms and cylinders which differ in both length and thickness offer resistances to fracture [i. e., can support at their ends loads] which are directly proportional to the cubes of the diameters of their bases and inversely proportional to their lengths.
+
+Let ABC and DEF be two such cylinders; then the resistance [bending strength] of the cylinder AC bears to the resistance of the cylinder DF a ratio which is the product of the cube of the diameter AB divided by the cube of the diameter DE, and of the length EF divided by the length BC. Make EG equal to BC: let H be a third proportional to the lines AB and DE; let I be a fourth proportional, [AB/DE=H/I]: and let I:S=EF:BC.
+
+Now since the resistance of the cylinder AC is to that of the cylinder DG as the cube of AB is to the cube of DE, that is, as the length AB is to the length I; and since the resistance of the cylinder DG is to that of the cylinder DF as the length FE is to EG, that is, as I is to S, it follows that the length AB is to S as the resistance of the cylinder AC is to that of the cylinder DF. But the line AB bears to S a ratio which is the product of AB/I and I/S. Hence the resistance [bending strength] of the cylinder AC bears to the resistance of the cylinder DF a ratio which is the product of AB/I (that is, AB3/DE3) and of I/S (that is, EF/BC): which is what I meant to prove.
+
+lf0416_figure_025.jpg
+Fig. 22
+This proposition having been demonstrated, let us next consider the case of prisms and cylinders which are similar. Concerning these we shall show that,
+
+Propositionhi VI
+In the case of similar cylinders and prisms, the moments [stretching forces] which result from multiplying together their weight and length [i. e., from the moments produced by their own weight and length], which latter acts as a lever-arm, bear to each other a ratio which is the sesquialteral of the ratio between the resistances of their bases.
+
+In order to prove this let us indicate the two similar cylinders by AB and CD: then the magnitude of the force [momento] in the cylinder AB, opposing the resistance of its base B, bears to the magnitude [momento] of the force at CD, opposing the resistance of its base D, a ratio which is the sesquialteral of the ratio between the resistance of the base B and the resistance of the base D. And since the solids AB and CD, are effective in opposing the resistances of their bases B and D, in proportion to their weights and to the mechanical advantages [forze] of their lever arms respectively, and since the advantage [forza] of the lever arm AB is equal to the advantage [forza] of the lever arm CD (this is true because in virtue of the similarity of the cylinders the length AB is to the radius of the base B as the length CD is to the radius of the base D), it follows that the total force [momento] of the cylinder AB is to the total force [momento] of the cylinder CD as the weight alone of the cylinder AB is to the weight alone of the cylinder CD, that is, as the volume of the cylinder AB [l’istesso cilindro AB] is to the volume CD [all’istesso CD]: but these are as the cubes of the diameters of their bases B and D; and the resistances of the bases, being to each other as their areas, are to each other consequently as the squares of their diameters. Therefore the forces [momenti] of the cylinders are to each other in the sesquialteral ratio of the resistance of their bases.
+*
+
+lf0416_figure_026.jpg
+Fig. 23
+Simp.
+This proposition strikes me as both new and surprising: at first glance it is very different from anything which I myself should have guessed: for since these figures are similar in all other respects, I should have certainly thought that the forces [momenti] and the resistances of these cylinders would have borne to each other the same ratio.
+
+Sagr.
+This is the proof of the proposition to which I referred, at the very beginning of our discussion, as one imperfectly understood by me.
+
+Salv.
+For a while, Simplicio, I used to think, as you do, that the resistances of similar solids were similar; but a certain casual observation showed me that similar solids do not exhibit a strength which is proportional to their size, the larger ones being less fitted to undergo rough usage just as tall men are more apt than small children to be injured by a fall. And, as we remarked at the outset, a large beam or column falling from a given height will go to pieces when under the same circumstances a small scantling or small marble cylinder will not break. It was this observation which led me to the investigation of the fact which I am about to demonstrate to you: it is a very remarkable thing that, among the infinite variety of solids which are similar one to another, there are no two of which the forces [momenti], and the resistances of these solids are related in the same ratio.
+
+Simp.
+You remind me now of a passage in Aristotle’s Questions in Mechanics in which he tries to explain why it is that a wooden beam becomes weaker and can be more easily bent as it grows longer, notwithstanding the fact that the shorter beam is thinner and the longer one thicker: and, if I remember correctly, he explains it in terms of the simple lever.
+
+Salv.
+Very true: but, since this solution seemed to leave room for doubt, Bishop di Guevara,
+*
+ whose truly learned commentaries have greatly enriched and illuminated this work, indulges in additional clever speculations with the hope of thus overcoming all difficulties; nevertheless even he is confused as regards this particular point, namely, whether, when the length and thickness of these solid figures increase in the same ratio, their strength and resistance to fracture, as well as to bending, remain constant. After much thought upon this subject, I have reached the following result. First I shall show that,
+
+Proposition VII
+Among heavy prisms and cylinders of similar figure, there is one and only one which under the stress of its own weight lies just on the limit between breaking and not breaking: so that every larger one is unable to carry the load of its own weight and breaks; while every smaller one is able to withstand some additional force tending to break it.
+
+Let AB be a heavy prism, the longest possible that will just sustain its own weight, so that if it be lengthened the least bit it will break. Then, I say, this prism is unique among all similar prisms—infinite in number—in occupying that boundary line between breaking and not breaking; so that every larger one will break under its own weight, and every smaller one will not break, but will be able to withstand some force in addition to its own weight.
+
+Let the prism CE be similar to, but larger than, AB: then, I say, it will not remain intact but will break under its own weight. Lay off the portion CD, equal in length to AB. And, since, the resistance [bending strength] of CD is to that of AB as the cube of the thickness of CD is to the cube of the thickness of AB, that is, as the prism CE is to the similar prism AB, it follows that the weight of CE is the utmost load which a prism of the length CD can sustain; but the length of CE is greater; therefore the prism CE will break. Now take another prism FG which is smaller than AB. Let FH equal AB, then it can be shown in a similar manner that the resistance [bending strength] of FG is to that of AB as the prism FG is to the prism AB provided the distance AB that is FH, is equal to the distance FG; but AB is greater than FG, and therefore the moment of the prism FG applied at G is not sufficient to break the prism FG.
+
+lf0416_figure_027.jpg
+Fig. 24
+Sagr.
+The demonstration is short and clear; while the proposition which, at first glance, appeared improbable is now seen to be both true and inevitable. In order therefore to bring this prism into that limiting condition which separates breaking from not breaking, it would be necessary to change the ratio between thickness and length either by increasing the thickness or by diminishing the length. An investigation of this limiting state will, I believe, demand equal ingenuity.
+
+Salv.
+Nay, even more; for the question is more difficult; this I know because I spent no small amount of time in its discovery which I now wish to share with you.
+
+Proposition VIII
+Given a cylinder or prism of the greatest length consistent with its not breaking under its own weight; and having given a greater length, to find the diameter of another cylinder or prism of this greater length which shall be the only and largest one capable of withstanding its own weight.
+
+Let BC be the largest cylinder capable of sustaining its own weight; and let DE be a length greater than AC: the problem is to find the diameter of the cylinder which, having the length DE, shall be the largest one just able to withstand its own weight. Let I be a third proportional to the lengths DE and AC; let the diameter FD be to the diameter BA as DE is to I; draw the cylinder FE; then, among all cylinders having the same proportions, this is the largest and only one just capable of sustaining its own weight.
+
+Let M be a third proportional to DE and I: also let O be a fourth proportional to DE, I, and M; lay off FG equal to AC. Now since the diameter FD is to the diameter AB as the length DE is to I, and since O is a fourth proportional to DE, I and M, it follows that FDmacronsup3:BAmacronsup3=DE:O. But the resistance [bending strength] of the cylinder DG is to the resistance of the cylinder BC as the cube of FD is to the cube of BA: hence the resistance of the cylinder DG is to that of cylinder BC as the length DE is to O. And since the moment of the cylinder BC is held in equilibrium by [è equale alla] its resistance, we shall accomplish our end (which is to prove that the moment of the cylinder FE is equal to the resistance located at FD), if we show that the moment of the cylinder FE is to the moment of the cylinder BC as the resistance DF is to the resistance BA, that is, as the cube of FD is to the cube of BA, or as the length DE is to O. The moment of the cylinder FE is to the moment of the cylinder DG as the square of DE is to the square of AC, that is, as the length DE is to I; but the moment of the cylinder DG is to the moment of the cylinder BC, as the square of DF is to the square of BA, that is, as the square of DE is to the square of I, or as the square of I is to the square of M, or, as I is to O. Therefore by equating ratios, it results that the moment of the cylinder FE is to the moment of the cylinder BC as the length DE is to O, that is, as the cube of DF is to the cube of BA, or as the resistance of the base DF is to the resistance of the base BA; which was to be proven.
+
+lf0416_figure_028.jpg
+Fig. 25
+Sagr.
+This demonstration, Salviati, is rather long and difficult to keep in mind from a single hearing. Will you not, therefore, be good enough to repeat it?
+
+Salv.
+As you like; but I would suggest instead a more direct and a shorter proof: this will, however, necessitate a different figure.
+
+Sagr.
+The favor will be that much greater: nevertheless I hope you will oblige me by putting into written form the argument just given so that I may study it at my leisure.
+
+Salv.
+I shall gladly do so. Let A denote a cylinder of diameter DC and the largest capable of sustaining its own weight: the problem is to determine a larger cylinder which shall be at once the maximum and the unique one capable of sustaining its own weight.
+
+Let E be such a cylinder, similar to A, having the assigned length, and having a diameter KL. Let MN be a third proportional to the two lengths DC and KL: let MN also be the diameter of another cylinder, X, having the same length as E: then, I say, X is the cylinder sought. Now since the resistance of the base DC is to the resistance of the base KL as the square of DC is to the square of KL, that is, as the square of KL is to the square of MN, or, as the cylinder E is to the cylinder X, that is, as the moment E is to the moment X; and since also the resistance [bending strength] of the base KL is to the resistance of the base MN as the cube of KL is to the cube of MN, that is, as the cube of DC is to the cube of KL, or, as the cylinder A is to the cylinder E, that is, as the moment of A is to the moment of E; hence it follows, ex æquali in proportione perturbata,
+*
+ that the moment of A is to the moment of X as the resistance of the base DC is to the resistance of the base MN; therefore moment and resistance are related to each other in prism X precisely as they are in prism A.
+
+lf0416_figure_029.jpg
+Fig. 26
+Let us now generalize the problem; then it will read as follows:
+
+Given a cylinder AC in which moment and resistance [bending strength] are related in any manner whatsoever; let DE be the length of another cylinder; then determine what its thickness must be in order that the relation between its moment and resistance shall be identical with that of the cylinder AC.
+
+Using Fig. 25 in the same manner as above, we may say that, since the moment of the cylinder FE is to the moment of the portion DG as the square of ED is to the square of FG, that is, as the length DE is to I; and since the moment of the cylinder FG is to the moment of the cylinder AC as the square of FD is to the square of AB, or, as the square of ED is to the square of I, or, as the square of I is to the square of M, that is, as the length I is to O; it follows, ex æquali, that the moment of the cylinder FE is to the moment of the cylinder AC as the length DE is to O, that is, as the cube of DE is to the cube of I, or, as the cube of FD is to the cube of AB, that is, as the resistance of the base FD is to the resistance of the base AB; which was to be proven.
+
+From what has already been demonstrated, you can plainly see the impossibility of increasing the size of structures to vast dimensions either in art or in nature; likewise the impossibility of building ships, palaces, or temples of enormous size in such a way that their oars, yards, beams, iron-bolts, and, in short, all their other parts will hold together; nor can nature produce trees of extraordinary size because the branches would break down under their own weight; so also it would be impossible to build up the bony structures of men, horses, or other animals so as to hold together and perform their normal functions if these animals were to be increased enormously in height; for this increase in height can be accomplished only by employing a material which is harder and stronger than usual, or by enlarging the size of the bones, thus changing their shape until the form and appearance of the animals suggest a monstrosity. This is perhaps what our wise Poet had in mind, when he says, in describing a huge giant:
+
+“Impossible it is to reckon his height
+“So beyond measure is his size.”
+*
+To illustrate briefly, I have sketched a bone whose natural length has been increased three times and whose thickness has been multiplied until, for a correspondingly large animal, it would perform the same function which the small bone performs for its small animal. From the figures here shown you can see how out of proportion the enlarged bone appears. Clearly then if one wishes to maintain in a great giant the same proportion of limb as that found in an ordinary man he must either find a harder and stronger material for making the bones, or he must admit a diminution of strength in comparison with men of medium stature; for if his height be increased inordinately he will fall and be crushed under his own weight. Whereas, if the size of a body be diminished, the strength of that body is not diminished in the same proportion; indeed the smaller the body the greater its relative strength. Thus a small dog could probably carry on his back two or three dogs of his own size; but I believe that a horse could not carry even one of his own size.
+
+lf0416_figure_030.jpg
+Fig. 27
+Simp.
+This may be so; but I am led to doubt it on account of the enormous size reached by certain fish, such as the whale which, I understand, is ten times as large as an elephant; yet they all support themselves.
+
+Salv.
+Your question, Simplicio, suggests another principle, one which had hitherto escaped my attention and which enables giants and other animals of vast size to support themselves and to move about as well as smaller animals do. This result may be secured either by increasing the strength of the bones and other parts intended to carry not only their weight but also the superincumbent load; or, keeping the proportions of the bony structure constant, the skeleton will hold together in the same manner or even more easily, provided one diminishes, in the proper proportion, the weight of the bony material, of the flesh, and of anything else which the skeleton has to carry. It is this second principle which is employed by nature in the structure of fish, making their bones and muscles not merely light but entirely devoid of weight.
+
+Simp.
+The trend of your argument, Salviati, is evident. Since fish live in water which on account of its density [corpulenza] or, as others would say, heaviness [gravità] diminishes the weight [peso] of bodies immersed in it, you mean to say that, for this reason, the bodies of fish will be devoid of weight and will be supported without injury to their bones. But this is not all; for although the remainder of the body of the fish may be without weight, there can be no question but that their bones have weight. Take the case of a whale’s rib, having the dimensions of a beam; who can deny its great weight or its tendency to go to the bottom when placed in water? One would, therefore, hardly expect these great masses to sustain themselves.
+
+Salv.
+A very shrewd objection! And now, in reply, tell me whether you have ever seen fish stand motionless at will under water, neither descending to the bottom nor rising to the top, without the exertion of force by swimming?
+
+Simp.
+This is a well-known phenomenon.
+
+Salv.
+The fact then that fish are able to remain motionless under water is a conclusive reason for thinking that the material of their bodies has the same specific gravity as that of water; accordingly, if in their make-up there are certain parts which are heavier than water there must be others which are lighter, for otherwise they would not produce equilibrium.
+
+Hence, if the bones are heavier, it is necessary that the muscles or other constituents of the body should be lighter in order that their buoyancy may counterbalance the weight of the bones. In aquatic animals therefore circumstances are just reversed from what they are with land animals inasmuch as, in the latter, the bones sustain not only their own weight but also that of the flesh, while in the former it is the flesh which supports not only its own weight but also that of the bones. We must therefore cease to wonder why these enormously large animals inhabit the water rather than the land, that is to say, the air.
+
+Simp.
+I am convinced and I only wish to add that what we call land animals ought really to be called air animals, seeing that they live in the air, are surrounded by air, and breathe air.
+
+Sagr.
+I have enjoyed Simplicio’s discussion including both the question raised and its answer. Moreover I can easily understand that one of these giant fish, if pulled ashore, would not perhaps sustain itself for any great length of time, but would be crushed under its own mass as soon as the connections between the bones gave way.
+
+Salv.
+I am inclined to your opinion; and, indeed, I almost think that the same thing would happen in the case of a very big ship which floats on the sea without going to pieces under its load of merchandise and armament, but which on dry land and in air would probably fall apart. But let us proceed and show how:
+
+Given a prism or cylinder, also its own weight and the maximum load which it can carry, it is then possible to find a maximum length beyond which the cylinder cannot be prolonged without breaking under its own weight.
+
+Let AC indicate both the prism and its own weight; also let D represent the maximum load which the prism can carry at the end C without fracture; it is required to find the maximum to which the length of the said prism can be increased without breaking. Draw AH of such a length that the weight of the prism AC is to the sum of AC and twice the weight D as the length CA is to AH; and let AG be a mean proportional between CA and AH; then, I say, AG is the length sought. Since the moment of the weight [momento gravante] D attached at the point C is equal to the moment of a weight twice as large as D placed at the middle point AC, through which the weight of the prism AC acts, it follows that the moment of the resistance of the prism AC located at A is equivalent to twice the weight D plus the weight of AC, both acting through the middle point of AC. And since we have agreed that the moment of the weights thus located, namely, twice D plus AC, bears to the moment of AC the same ratio which the length HA bears to CA and since AG is a mean proportional between these two lengths, it follows that the moment of twice D plus AC is to the moment of AC as the square of GA is to the square of CA. But the moment arising from the weight [momento premente] of the prism GA is to the moment of AC as the square of GA is to the square of CA; thence AG is the maximum length sought, that is, the length up to which the prism AC may be prolonged and still support itself, but beyond which it will break.
+
+lf0416_figure_031.jpg
+Fig. 28
+Hitherto we have considered the moments and resistances of prisms and solid cylinders fixed at one end with a weight applied at the other end; three cases were discussed, namely, that in which the applied force was the only one acting, that in which the weight of the prism itself is also taken into consideration, and that in which the weight of the prism alone is taken into consideration. Let us now consider these same prisms and cylinders when supported at both ends or at a single point placed somewhere between the ends. In the first place, I remark that a cylinder carrying only its own weight and having the maximum length, beyond which it will break, will, when supported either in the middle or at both ends, have twice the length of one which is mortised into a wall and supported only at one end. This is very evident because, if we denote the cylinder by ABC and if we assume that one-half of it, AB, is the greatest possible length capable of supporting its own weight with one end fixed at B, then, for the same reason, if the cylinder is carried on the point G, the first half will be counterbalanced by the other half BC. So also in the case of the cylinder DEF, if its length be such that it will support only one-half this length when the end D is held fixed, or the other half when the end F is fixed, then it is evident that when supports, such as H and I, are placed under the ends D and F respectively the moment of any additional force or weight placed at E will produce fracture at this point.
+
+lf0416_figure_032.jpg
+Fig. 29
+A more intricate and difficult problem is the following: neglect the weight of a solid such as the preceding and find whether the same force or weight which produces fracture when applied at the middle of a cylinder, supported at both ends, will also break the cylinder when applied at some other point nearer one end than the other.
+
+Thus, for example, if one wished to break a stick by holding it with one hand at each end and applying his knee at the middle, would the same force be required to break it in the same manner if the knee were applied, not at the middle, but at some point nearer to one end?
+
+Sagr.
+This problem, I believe, has been touched upon by Aristotle in his Questions in Mechanics.
+
+Salv.
+His inquiry however is not quite the same; for he seeks merely to discover why it is that a stick may be more easily broken by taking hold, one hand at each end of the stick, that is, far removed from the knee, than if the hands were closer together. He gives a general explanation, referring it to the lengthened lever arms which are secured by placing the hands at the ends of the stick. Our inquiry calls for something more: what we want to know is whether, when the hands are retained at the ends of the stick, the same force is required to break it wherever the knee be placed.
+
+Sagr.
+At first glance this would appear to be so, because the two lever arms exert, in a certain way, the same moment, seeing that as one grows shorter the other grows correspondingly longer.
+
+Salv.
+Now you see how readily one falls into error and what caution and circumspection are required to avoid it. What you have just said appears at first glance highly probable, but on closer examination it proves to be quite far from true; as will be seen from the fact that whether the knee—the fulcrum of the two levers—be placed in the middle or not makes such a difference that, if fracture is to be produced at any other point than the middle, the breaking force at the middle, even when multiplied four, ten, a hundred, or a thousand times would not suffice. To begin with we shall offer some general considerations and then pass to the determination of the ratio in which the breaking force must change in order to produce fracture at one point rather than another.
+
+Let AB denote a wooden cylinder which is to be broken in the middle, over the supporting point C, and let DE represent an identical cylinder which is to be broken just over the supporting point F which is not in the middle. First of all it is clear that, since the distances AC and CB are equal, the forces applied at the extremities B and A must also be equal. Secondly since the distance DF is less than the distance AC the moment of any force acting at D is less than the moment of the same force at A, that is, applied at the distance CA; and the moments are less in the ratio of the length DF to AC; consequently it is necessary to increase the force [momento] at D in order to overcome, or even to balance, the resistance at F; but in comparison with the length AC the distance DF can be diminished indefinitely: in order therefore to counterbalance the resistance at F it will be necessary to increase indefinitely the force [forza] applied at D. On the other hand, in proportion as we increase the distance FE over that of CB, we must diminish the force at E in order to counterbalance the resistance at F; but the distance FE, measured in terms of CB, cannot be increased indefinitely by sliding the fulcrum F toward the end D; indeed, it cannot even be made double the length CB. Therefore the force required at E to balance the resistance at F will always be more than half that required at B. It is clear then that, as the fulcrum F approaches the end D, we must of necessity indefinitely increase the sum of the forces applied at E and D in order to balance, or overcome, the resistance at F.
+
+lf0416_figure_033.jpg
+Fig. 30
+Sagr.
+What shall we say, Simplicio? Must we not confess that geometry is the most powerful of all instruments for sharpening the wit and training the mind to think correctly? Was not Plato perfectly right when he wished that his pupils should be first of all well grounded in mathematics? As for myself, I quite understood the property of the lever and how, by increasing or diminishing its length, one can increase or diminish the moment of force and of resistance; and yet, in the solution of the present problem I was not slightly, but greatly, deceived.
+
+Simp.
+Indeed I begin to understand that while logic is an excellent guide in discourse, it does not, as regards stimulation to discovery, compare with the power of sharp distinction which belongs to geometry.
+
+Sagr.
+Logic, it appears to me, teaches us how to test the conclusiveness of any argument or demonstration already discovered and completed; but I do not believe that it teaches us to discover correct arguments and demonstrations. But it would be better if Salviati were to show us in just what proportion the forces must be increased in order to produce fracture as the fulcrum is moved from one point to another along one and the same wooden rod.
+
+Salv.
+The ratio which you desire is determined as follows:
+
+If upon a cylinder one marks two points at which fracture is to be produced, then the resistances at these two points will bear to each other the inverse ratio of the rectangles formed by the distances from the respective points to the ends of the cylinder.
+
+Let A and B denote the least forces which will bring about fracture of the cylinder at C; likewise E and F the smallest forces which will break it at D. Then, I say, that the sum of the forces A and B is to the sum of the forces E and F as the area of the rectangle AD.DB is to the area of the rectangle AC.CB. Because the sum of the forces A and B bears to the sum of the forces E and F a ratio which is the product of the three following ratios, namely, (A+B)/B, B/F, and F/(F+E); but the length BA is to the length CA as the sum of the forces A and B is to the force B; and, as the length DB is to the length CB, so is the force B to the force F; also as the length AD is to AB, so is the force F to the sum of the forces F and E.
+
+lf0416_figure_034.jpg
+Fig. 31
+Hence it follows that the sum of the forces A and B bears to the sum of the forces E and F a ratio which is the product of the three following ratios, namely, BA/CA, BD/BC, and AD/AB. But DA/CA is the product of DA/BA and BA/CA. Therefore the sum of the forces A and B bears to the sum of the forces E and F a ratio which is the product of DA:CA and DB:CB. But the rectangle AD.DB bears to the rectangle AC.CB a ratio which is the product of DA/CA and DB/CB. Accordingly the sum of the forces A and B is to the sum of the forces E and F as the rectangle AD.DB is to the rectangle AC.CB, that is, the resistance to fracture at C is to the resistance to fracture at D as the rectangle AD.DB is to the rectangle AC.CB.
+
+q. e. d.
+
+Another rather interesting problem may be solved as a consequence of this theorem, namely,
+
+Given the maximum weight which a cylinder or prism can support at its middle-point where the resistance is a minimum, and given also a larger weight, find that point in the cylinder for which this larger weight is the maximum load that can be supported.
+
+Let that one of the given weights which is larger than the maximum weight supported at the middle of the cylinder AB bear to this maximum weight the same ratio which the length E bears to the length F. The problem is to find that point in the cylinder at which this larger weight becomes the maximum that can be supported. Let G be a mean proportional between the lengths E and F. Draw AD and S so that they bear to each other the same ratio as E to G; accordingly S will be less than AD.
+
+Let AD be the diameter of a semicircle AHD, in which take AH equal to S; join the points H and D and lay off DR equal to HD. Then, I say, R is the point sought, namely, the point at which the given weight, greater than the maximum supported at the middle of the cylinder D, would become the maximum load.
+
+On AB as diameter draw the semicircle ANB: erect the perpendicular RN and join the points N and D. Now since the sum of the squares on NR and RD is equal to the square of ND, that is, to the square of AD, or to the sum of the squares of AH and HD; and, since the square of HD is equal to the square of DR, it follows that the square of NR, that is, the rectangle AR.RB, is equal to the square of AH, also therefore to the square of S; but the square of S is to the square of AD as the length F is to the length E, that is, as the maximum weight supported at D is to the larger of the two given weights. Hence the latter will be the maximum load which can be carried at the point R; which is the solution sought.
+
+Sagr.
+Now I understand thoroughly; and I am thinking that, since the prism AB grows constantly stronger and more resistant to the pressure of its load at points which are more and more removed from the middle, we could in the case of large heavy beams cut away a considerable portion near the ends which would notably lessen the weight, and which, in the beam work of large rooms, would prove to be of great utility and convenience.
+
+lf0416_figure_035.jpg
+Fig. 32
+It would be a fine thing if one could discover the proper shape to give a solid in order to make it equally resistant at every point, in which case a load placed at the middle would not produce fracture more easily than if placed at any other point.
+*
+
+Salv.
+I was just on the point of mentioning an interesting and remarkable fact connected with this very question. My meaning will be clearer if I draw a figure. Let DB represent a prism; then, as we have already shown, its resistance to fracture [bending strength] at the end AD, owing to a load placed at the end B, will be less than the resistance at CI in the ratio of the length CB to AB. Now imagine this same prism to be cut through diagonally along the line FB so that the opposite faces will be triangular; the side facing us will be FAB. Such a solid will have properties different from those of the prism; for, if the load remain at B, the resistance against fracture [bending strength] at C will be less than that at A in the ratio of the length CB to the length AB. This is easily proved: for if CNO represents a cross-section parallel to AFD, then the length FA bears to the length CN, in the triangle FAB, the same ratio which the length AB bears to the length CB. Therefore, if we imagine A and C to be the points at which the fulcrum is placed, the lever arms in the two cases BA, AF and BC, CN will be proportional [simili]. Hence the moment of any force applied at B and acting through the arm BA, against a resistance placed at a distance AF will be equal to that of the same force at B acting through the arm BC against the same resistance located at a distance CN. But now, if the force still be applied at B, the resistance to be overcome when the fulcrum is at C, acting through the arm CN, is less than the resistance with the fulcrum at A in the same proportion as the rectangular cross-section CO is less than the rectangular cross-section AD, that is, as the length CN is less than AF, or CB than BA.
+
+lf0416_figure_036.jpg
+Fig. 33
+Consequently the resistance to fracture at C, offered by the portion OBC, is less than the resistance to fracture at A, offered by the entire block DAB, in the same proportion as the length CB is smaller than the length AB.
+
+By this diagonal saw-cut we have now removed from the beam, or prism DB, a portion, i. e., a half, and have left the wedge, or triangular prism, FBA. We thus have two solids possessing opposite properties; one body grows stronger as it is shortened while the other grows weaker. This being so it would seem not merely reasonable, but inevitable, that there exists a line of section such that, when the superfluous material has been removed, there will remain a solid of such figure that it will offer the same resistance [strength] at all points.
+
+Simp.
+Evidently one must, in passing from greater to less, encounter equality.
+
+Sagr.
+But now the question is what path the saw should follow in making the cut.
+
+Simp.
+It seems to me that this ought not to be a difficult task: for if by sawing the prism along the diagonal line and removing half of the material, the remainder acquires a property just the opposite to that of the entire prism, so that at every point where the latter gains strength the former becomes weaker, then it seems to me that by taking a middle path, i. e., by removing half the former half, or one-quarter of the whole, the strength of the remaining figure will be constant at all those points where, in the two previous figures, the gain in one was equal to the loss in the other.
+
+Salv.
+You have missed the mark, Simplicio. For, as I shall presently show you, the amount which you can remove from the prism without weakening it is not a quarter but a third. It now remains, as suggested by Sagredo, to discover the path along which the saw must travel: this, as I shall prove, must be a parabola. But it is first necessary to demonstrate the following lemma:
+
+If the fulcrums are so placed under two levers or balances that the arms through which the forces act are to each other in the same ratio as the squares of the arms through which the resistances act, and if these resistances are to each other in the same ratio as the arms through which they act, then the forces will be equal.
+
+Let AB and CD represent two levers whose lengths are divided by their fulcrums in such a way as to make the distance EB bear to the distance FD a ratio which is equal to the square of the ratio between the distances EA and FC. Let the resistances located at A and C be to each other as EA is to FC. Then, I say, the forces which must be applied at B and D in order to hold in equilibrium the resistances at A and C are equal. Let EG be a mean proportional between EB and FD. Then we shall have BE:EG=EG:FD=AE:CF. But this last ratio is precisely that which we have assumed to exist between the resistances at A and C. And since EG:FD=AE:CF, it follows, permutando, that EG:AE=FD:CF. Seeing that the distances DC and GA are divided in the same ratio by the points F and E, it follows that the same force which, when applied at D, will equilibrate the resistance at C, would if applied at G equilibrate at A a resistance equal to that found at C.
+
+lf0416_figure_037.jpg
+Fig. 34
+But one datum of the problem is that the resistance at A is to the resistance at C as the distance AE is to the distance CF, or as BE is to EG. Therefore the force applied at G, or rather at D, will, when applied at B, just balance the resistance located at A.
+
+q. e. d.
+
+This being clear draw the parabola FNB in the face FB of the prism DB. Let the prism be sawed along this parabola whose vertex is at B. The portion of the solid which remains will be included between the base AD, the rectangular plane AG, the straight line BG and the surface DGBF, whose curvature is identical with that of the parabola FNB. This solid will have, I say, the same strength at every point. Let the solid be cut by a plane CO parallel to the plane AD. Imagine the points A and C to be the fulcrums of two levers of which one will have the arms BA and AF; the other BC and CN. Then since in the parabola FBA, we have BA:BC=AFmacronsup2: CNmacronsup2, it is clear that the arm BA of one lever is to the arm BC of the other lever as the square of the arm AF is to the square of the other arm CN. Since the resistance to be balanced by the lever BA is to the resistance to be balanced by the lever BC in the same ratio as the rectangle DA is to the rectangle OC, that is as the length AF is to the length CN, which two lengths are the other arms of the levers, it follows, by the lemma just demonstrated, that the same force which, when applied at BG will equilibrate the resistance at DA, will also balance the resistance at CO. The same is true for any other section. Therefore this parabolic solid is equally strong throughout.
+
+lf0416_figure_038.jpg
+Fig. 35
+It can now be shown that, if the prism be sawed along the line of the parabola FNB, one-third part of it will be removed; because the rectangle FB and the surface FNBA bounded by the parabola are the bases of two solids included between two parallel planes, i. e., between the rectangles FB and DG; consequently the volumes of these two solids bear to each other the same ratio as their bases. But the area of the rectangle is one and a half times as large as the area FNBA under the parabola; hence by cutting the prism along the parabola we remove one-third of the volume. It is thus seen how one can diminish the weight of a beam by as much as thirty-three per cent without diminishing its strength; a fact of no small utility in the construction of large vessels, and especially in supporting the decks, since in such structures lightness is of prime importance.
+
+Sagr.
+The advantages derived from this fact are so numerous that it would be both wearisome and impossible to mention them all; but leaving this matter to one side, I should like to learn just how it happens that diminution of weight is possible in the ratio above stated. I can readily understand that, when a section is made along the diagonal, one-half the weight is removed; but, as for the parabolic section removing one-third of the prism, this I can only accept on the word of Salviati who is always reliable; however I prefer first-hand knowledge to the word of another.
+
+Salv.
+You would like then a demonstration of the fact that the excess of the volume of a prism over the volume of what we have called the parabolic solid is one-third of the entire prism. This I have already given you on a previous occasion; however I shall now try to recall the demonstration in which I remember having used a certain lemma from Archimedes’ book On Spirals,
+*
+ namely, Given any number of lines, differing in length one from another by a common difference which is equal to the shortest of these lines; and given also an equal number of lines each of which has the same length as the longest of the first-mentioned series; then the sum of the squares of the lines of this second group will be less than three times the sum of the squares of the lines in the first group. But the sum of the squares of the second group will be greater than three times the sum of the squares of all excepting the longest of the first group.
+
+Assuming this, inscribe in the rectangle ACBP the parabola AB. We have now to prove that the mixed triangle BAP whose sides are BP and PA, and whose base is the parabola BA, is a third part of the entire rectangle CP. If this is not true it will be either greater or less than a third. Suppose it to be less by an area which is represented by X. By drawing lines parallel to the sides BP and CA, we can divide the rectangle CP into equal parts; and if the process be continued we shall finally reach a division into parts so small that each of them will be smaller than the area X; let the rectangle OB represent one of these parts and, through the points where the other parallels cut the parabola, draw lines parallel to AP. Let us now describe about our “mixed triangle” a figure made up of rectangles such as BO, IN, HM, FL, EK, and GA; this figure will also be less than a third part of the rectangle CP because the excess of this figure above the area of the “mixed triangle” is much smaller than the rectangle BO which we have already made smaller than X.
+
+lf0416_figure_039.jpg
+Fig. 36
+Sagr.
+More slowly, please; for I do not see how the excess of this figure described about the “mixed triangle” is much smaller than the rectangle BO.
+
+Salv.
+Does not the rectangle BO have an area which is equal to the sum of the areas of all the little rectangles through which the parabola passes? I mean the rectangles BI, IH, HF, FE, EG, and GA of which only a part lies outside the “mixed triangle.” Have we not taken the rectangle BO smaller than the area X? Therefore if, as our opponent might say, the triangle plus X is equal to a third part of this rectangle CP, the circumscribed figure, which adds to the triangle an area less than X, will still remain smaller than a third part of the rectangle, CP. But this cannot be, because this circumscribed figure is larger than a third of the area. Hence it is not true that our “mixed triangle” is less than a third of the rectangle.
+
+Sagr.
+You have cleared up my difficulty; but it still remains to be shown that the circumscribed figure is larger than a third part of the rectangle CP, a task which will not, I believe, prove so easy.
+
+Salv.
+There is nothing very difficult about it. Since in the parabola DEmacronsup2:ZGmacronsup2=DA:AZ= rectangle KE: rectangle AG, seeing that the altitudes of these two rectangles, AK and KL, are equal, it follows that EDmacronsup2:ZGmacronsup2=LAmacronsup2:AKmacronsup2=rectangle KE: rectangle KZ. In precisely the same manner it may be shown that the other rectangles LF, MH, NI, OB, stand to one another in the same ratio as the squares of the lines MA, NA, OA, PA.
+
+Let us now consider the circumscribed figure, composed of areas which bear to each other the same ratio as the squares of a series of lines whose common difference in length is equal to the shortest one in the series; note also that the rectangle CP is made up of an equal number of areas each equal to the largest and each equal to the rectangle OB. Consequently, according to the lemma of Archimedes, the circumscribed figure is larger than a third part of the rectangle CP; but it was also smaller, which is impossible. Hence the “mixed triangle” is not less than a third part of the rectangle CP.
+
+Likewise, I say, it cannot be greater. For, let us suppose that it is greater than a third part of the rectangle CP and let the area X represent the excess of the triangle over the third part of the rectangle CP; subdivide the rectangle into equal rectangles and continue the process until one of these subdivisions is smaller than the area X. Let BO represent such a rectangle smaller than X. Using the above figure, we have in the “mixed triangle” an inscribed figure, made up of the rectangles VO, TN, SM, RL, and QK, which will not be less than a third part of the large rectangle CP.
+
+For the “mixed triangle” exceeds the inscribed figure by a quantity less than that by which it exceeds the third part of the rectangle CP; to see that this is true we have only to remember that the excess of the triangle over the third part of the rectangle CP is equal to the area X, which is less than the rectangle BO, which in turn is much less than the excess of the triangle over the inscribed figure. For the rectangle BO is made up of the small rectangles AG, GE, EF, FH, HI, and IB; and the excess of the triangle over the inscribed figure is less than half the sum of these little rectangles. Thus since the triangle exceeds the third part of the rectangle CP by an amount X, which is more than that by which it exceeds the inscribed figure, the latter will also exceed the third part of the rectangle, CP. But, by the lemma which we have assumed, it is smaller. For the rectangle CP, being the sum of the largest rectangles, bears to the component rectangles of the inscribed figure the same ratio which the sum of all the squares of the lines equal to the longest bears to the squares of the lines which have a common difference, after the square of the longest has been subtracted.
+
+Therefore, as in the case of squares, the sum total of the largest rectangles, i. e., the rectangle CP, is greater than three times the sum total of those having a common difference minus the largest; but these last make up the inscribed figure. Hence the “mixed triangle” is neither greater nor less than the third part of rectangle CP; it is therefore equal to it.
+
+Sagr.
+A fine, clever demonstration; and all the more so because it gives us the quadrature of the parabola, proving it to be four-thirds of the inscribed
+*
+ triangle, a fact which Archimedes demonstrates by means of two different, but admirable, series of many propositions. This same theorem has also been recently established by Luca Valerio,
+*
+ the Archimedes of our age; his demonstration is to be found in his book dealing with the centers of gravity of solids.
+
+Salv.
+A book which, indeed, is not to be placed second to any produced by the most eminent geometers either of the present or of the past; a book which, as soon as it fell into the hands of our Academician, led him to abandon his own researches along these lines; for he saw how happily everything had been treated and demonstrated by Valerio.
+
+Sagr.
+When I was informed of this event by the Academician himself, I begged of him to show the demonstrations which he had discovered before seeing Valerio’s book; but in this I did not succeed.
+
+Salv.
+I have a copy of them and will show them to you; for you will enjoy the diversity of method employed by these two authors in reaching and proving the same conclusions; you will also find that some of these conclusions are explained in different ways, although both are in fact equally correct.
+
+Sagr.
+I shall be much pleased to see them and will consider it a great favor if you will bring them to our regular meeting. But in the meantime, considering the strength of a solid formed from a prism by means of a parabolic section, would it not, in view of the fact that this result promises to be both interesting and useful in many mechanical operations, be a fine thing if you were to give some quick and easy rule by which a mechanician might draw a parabola upon a plane surface?
+
+Salv.
+There are many ways of tracing these curves; I will mention merely the two which are the quickest of all. One of these is really remarkable; because by it I can trace thirty or forty parabolic curves with no less neatness and precision, and in a shorter time than another man can, by the aid of a compass, neatly draw four or six circles of different sizes upon paper. I take a perfectly round brass ball about the size of a walnut and project it along the surface of a metallic mirror held in a nearly upright position, so that the ball in its motion will press slightly upon the mirror and trace out a fine sharp parabolic line; this parabola will grow longer and narrower as the angle of elevation increases. The above experiment furnishes clear and tangible evidence that the path of a projectile is a parabola; a fact first observed by our friend and demonstrated by him in his book on motion which we shall take up at our next meeting. In the execution of this method, it is advisable to slightly heat and moisten the ball by rolling in the hand in order that its trace upon the mirror may be more distinct.
+
+The other method of drawing the desired curve upon the face of the prism is the following: Drive two nails into a wall at a convenient height and at the same level; make the distance between these nails twice the width of the rectangle upon which it is desired to trace the semiparabola. Over these two nails hang a light chain of such a length that the depth of its sag is equal to the length of the prism. This chain will assume the form of a parabola,
+*
+ so that if this form be marked by points on the wall we shall have described a complete parabola which can be divided into two equal parts by drawing a vertical line through a point midway between the two nails. The transfer of this curve to the two opposing faces of the prism is a matter of no difficulty; any ordinary mechanic will know how to do it.
+
+By use of the geometrical lines drawn upon our friend’s compass,
+†
+ one may easily lay off those points which will locate this same curve upon the same face of the prism.
+
+Hitherto we have demonstrated numerous conclusions pertaining to the resistance which solids offer to fracture. As a starting point for this science, we assumed that the resistance offered by the solid to a straight-away pull was known; from this base one might proceed to the discovery of many other results and their demonstrations; of these results the number to be found in nature is infinite. But, in order to bring our daily conference to an end, I wish to discuss the strength of hollow solids, which are employed in art—and still oftener in nature—in a thousand operations for the purpose of greatly increasing strength without adding to weight; examples of these are seen in the bones of birds and in many kinds of reeds which are light and highly resistant both to bending and breaking. For if a stem of straw which carries a head of wheat heavier than the entire stalk were made up of the same amount of material in solid form it would offer less resistance to bending and breaking. This is an experience which has been verified and confirmed in practice where it is found that a hollow lance or a tube of wood or metal is much stronger than would be a solid one of the same length and weight, one which would necessarily be thinner; men have discovered, therefore, that in order to make lances strong as well as light they must make them hollow. We shall now show that:
+
+In the case of two cylinders, one hollow the other solid but having equal volumes and equal lengths, their resistances [bending strengths] are to each other in the ratio of their diameters.
+
+Let AE denote a hollow cylinder and IN a solid one of the same weight and length; then, I say, that the resistance against fracture exhibited by the tube AE bears to that of the solid cylinder IN the same ratio as the diameter AB to the diameter IL. This is very evident; for since the tube and the solid cylinder IN have the same volume and length, the area of the circular base IL will be equal to that of the annulus AB which is the base of the tube AE. (By annulus is here meant the area which lies between two concentric circles of different radii.) Hence their resistances to a straight-away pull are equal; but in producing fracture by a transverse pull we employ, in the case of the cylinder IN, the length LN as one lever arm, the point L as a fulcrum, and the diameter LI, or its half, as the opposing lever arm: while in the case of the tube, the length BE which plays the part of the first lever arm is equal to LN, the opposing lever arm beyond the fulcrum, B, is the diameter AB, or its half. Manifestly then the resistance [bending strength] of the tube exceeds that of the solid cylinder in the proportion in which the diameter AB exceeds the diameter IL which is the desired result. Thus the strength of a hollow tube exceeds that of a solid cylinder in the ratio of their diameters whenever the two are made of the same material and have the same weight and length.
+
+lf0416_figure_040.jpg
+Fig. 37
+It may be well next to investigate the general case of tubes and solid cylinders of constant length, but with the weight and the hollow portion variable. First we shall show that:
+
+Given a hollow tube, a solid cylinder may be determined which will be equal [eguale] to it.
+
+The method is very simple. Let AB denote the external and CD the internal diameter of the tube. In the larger circle lay off the line AE equal in length to the diameter CD; join the points E and B. Now since the angle at E inscribed in a semicircle, AEB, is a right-angle, the area of the circle whose diameter is AB is equal to the sum of the areas of the two circles whose respective diameters are AE and EB. But AE is the diameter of the hollow portion of the tube. Therefore the area of the circle whose diameter is EB is the same as the area of the annulus ACBD. Hence a solid cylinder of circular base having a diameter EB will have the same volume as the walls of the tube of equal length.
+
+lf0416_figure_041.jpg
+Fig. 38
+By use of this theorem, it is easy:
+
+To find the ratio between the resistance [bending strength] of any tube and that of any cylinder of equal length.
+
+Let ABE denote a tube and RSM a cylinder of equal length: it is required to find the ratio between their resistances. Using the preceding proposition, determine a cylinder ILN which shall have the same volume and length as the tube. Draw a line V of such a length that it will be related to IL and RS (diameters of the bases of the cylinders IN and RM), as follows: V:RS=RS:IL. Then, I say, the resistance of the tube AE is to that of the cylinder RM as the length of the line AB is to the length V. For, since the tube AE is equal both in volume and length, to the cylinder IN, the resistance of the tube will bear to the resistance of the cylinder the same ratio as the line AB to IL; but the resistance of the cylinder IN is to that of the cylinder RM as the cube of IL is to the cube of RS, that is, as the length IL is to length V: therefore, ex æquali, the resistance [bending strength] of the tube AE bears to the resistance of the cylinder RM the same ratio as the length AB to V.
+
+q. e. d.
+
+lf0416_figure_042.jpg
+Fig. 39
+end of second day.
+THIRD DAY
+CHANGE OF POSITION. [De Motu Locali]
+MY purpose is to set forth a very new science dealing with a very ancient subject. There is, in nature, perhaps nothing older than motion, concerning which the books written by philosophers are neither few nor small; nevertheless I have discovered by experiment some properties of it which are worth knowing and which have not hitherto been either observed or demonstrated. Some superficial observations have been made, as, for instance, that the free motion [naturalem motum] of a heavy falling body is continuously accelerated;
+*
+ but to just what extent this acceleration occurs has not yet been announced; for so far as I know, no one has yet pointed out that the distances traversed, during equal intervals of time, by a body falling from rest, stand to one another in the same ratio as the odd numbers beginning with unity.
+†
+
+It has been observed that missiles and projectiles describe a curved path of some sort; however no one has pointed out the fact that this path is a parabola. But this and other facts, not few in number or less worth knowing, I have succeeded in proving; and what I consider more important, there have been opened up to this vast and most excellent science, of which my work is merely the beginning, ways and means by which other minds more acute than mine will explore its remote corners.
+
+This discussion is divided into three parts; the first part deals with motion which is steady or uniform; the second treats of motion as we find it accelerated in nature; the third deals with the so-called violent motions and with projectiles.
+
+UNIFORM MOTION
+In dealing with steady or uniform motion, we need a single definition which I give as follows:
+
+Definition
+By steady or uniform motion, I mean one in which the distances traversed by the moving particle during any equal intervals of time, are themselves equal.
+
+Caution
+We must add to the old definition (which defined steady motion simply as one in which equal distances are traversed in equal times) the word “any,” meaning by this, all equal intervals of time; for it may happen that the moving body will traverse equal distances during some equal intervals of time and yet the distances traversed during some small portion of these time-intervals may not be equal, even though the time-intervals be equal.
+
+From the above definition, four axioms follow, namely:
+
+Axiom I
+In the case of one and the same uniform motion, the distance traversed during a longer interval of time is greater than the distance traversed during a shorter interval of time.
+
+Axiom II
+In the case of one and the same uniform motion, the time required to traverse a greater distance is longer than the time required for a less distance.
+
+Axiom III
+In one and the same interval of time, the distance traversed at a greater speed is larger than the distance traversed at a less speed.
+
+Axiom IV
+The speed required to traverse a longer distance is greater than that required to traverse a shorter distance during the same time-interval.
+
+Theorem I, Proposition I
+If a moving particle, carried uniformly at a constant speed, traverses two distances the time-intervals required are to each other in the ratio of these distances.
+
+Let a particle move uniformly with constant speed through two distances AB, BC, and let the time required to traverse AB be represented by DE; the time required to traverse BC, by EF; then I say that the distance AB is to the distance BC as the time DE is to the time EF.
+
+lf0416_figure_043.jpg
+Fig. 40
+Let the distances and times be extended on both sides towards G, H and I, K; let AG be divided into any number whatever of spaces each equal to AB, and in like manner lay off in DI exactly the same number of time-intervals each equal to DE. Again lay off in CH any number whatever of distances each equal to BC; and in FK exactly the same number of time-intervals each equal to EF; then will the distance BG and the time EI be equal and arbitrary multiples of the distance BA and the time ED; and likewise the distance HB and the time KE are equal and arbitrary multiples of the distance CB and the time FE.
+
+And since DE is the time required to traverse AB, the whole time EI will be required for the whole distance BG, and when the motion is uniform there will be in EI as many time-intervals each equal to DE as there are distances in BG each equal to BA; and likewise it follows that KE represents the time required to traverse HB.
+
+Since, however, the motion is uniform, it follows that if the distance GB is equal to the distance BH, then must also the time IE be equal to the time EK; and if GB is greater than BH, then also IE will be greater than EK; and if less, less.
+*
+ There are then four quantities, the first AB, the second BC, the third DE, and the fourth EF; the time IE and the distance GB are arbitrary multiples of the first and the third, namely of the distance AB and the time DE.
+
+But it has been proved that both of these latter quantities are either equal to, greater than, or less than the time EK and the space BH, which are arbitrary multiples of the second and the fourth. Therefore the first is to the second, namely the distance AB is to the distance BC, as the third is to the fourth, namely the time DE is to the time EF.
+
+q. e. d.
+
+Theorem II, Proposition II, 
+If a moving particle traverses two distances in equal intervals of time, these distances will bear to each other the same ratio as the speeds. And conversely if the distances are as the speeds then the times are equal.
+
+Referring to Fig. 40, let AB and BC represent the two distances traversed in equal time-intervals, the distance AB for instance with the velocity DE, and the distance BC with the velocity EF. Then, I say, the distance AB is to the distance BC as the velocity DE is to the velocity EF. For if equal multiples of both distances and speeds be taken, as above, namely, GB and IE of AB and DE respectively, and in like manner HB and KE of BC and EF, then one may infer, in the same manner as above, that the multiples GB and IE are either less than, equal to, or greater than equal multiples of BH and EK. Hence the theorem is established.
+
+Theorem III, Proposition III
+In the case of unequal speeds, the time-intervals required to traverse a given space are to each other inversely as the speeds.
+
+Let the larger of the two unequal speeds be indicated by A; the smaller, by B; and let the motion corresponding to both traverse the given space CD. Then I say the time required to traverse the distance CD at speed A is to the time required to traverse the same distance at speed B, as the speed B is to the speed A. For let CD be to CE as A is to B; then, from the preceding, it follows that the time required to complete the distance CD at speed A is the same as the time necessary to complete CE at speed B; but the time needed to traverse the distance CE at speed B is to the time required to traverse the distance CD at the same speed as CE is to CD; therefore the time in which CD is covered at speed A is to the time in which CD is covered at speed B as CE is to CD, that is, as speed B is to speed A.
+
+q. e. d.
+
+lf0416_figure_044.jpg
+Fig. 41
+Theorem IV, Proposition IV
+If two particles are carried with uniform motion, but each with a different speed, the distances covered by them during unequal intervals of time bear to each other the compound ratio of the speeds and time intervals.
+
+Let the two particles which are carried with uniform motion be E and F and let the ratio of the speed of the body E be to that of the body F as A is to B; but let the ratio of the time consumed by the motion of E be to the time consumed by the motion of F as C is to D. Then, I say, that the distance covered by E, with speed A in time C, bears to the space traversed by F with speed B in time D a ratio which is the product of the ratio of the speed A to the speed B by the ratio of the time C to the time D. For if G is the distance traversed by E at speed A during the time-interval C, and if G is to I as the speed A is to the speed B; and if also the time-interval C is to the time-interval D as I is to L, then it follows that I is the distance traversed by F in the same time that G is traversed by E since G is to I in the same ratio as the speed A to the speed B. And since I is to L in the same ratio as the time-intervals C and D, if I is the distance traversed by F during the interval C, then L will be the distance traversed by F during the interval D at the speed B.
+
+lf0416_figure_045.jpg
+Fig. 42
+But the ratio of G to L is the product of the ratios G to I and I to L, that is, of the ratios of the speed A to the speed B and of the time-interval C to the time-interval D.
+
+q. e. d.
+
+Theorem V, Proposition V
+If two particles are moved at a uniform rate, but with unequal speeds, through unequal distances, then the ratio of the time-intervals occupied will be the product of the ratio of the distances by the inverse ratio of the speeds.
+
+Let the two moving particles be denoted by A and B, and let the speed of A be to the speed of B in the ratio of V to T; in like manner let the distances traversed be in the ratio of S to R; then I say that the ratio of the time-interval during which the motion of A occurs to the time-interval occupied by the motion of B is the product of the ratio of the speed T to the speed V by the ratio of the distance S to the distance R.
+
+lf0416_figure_046.jpg
+Fig. 43
+Let C be the time-interval occupied by the motion of A, and let the time-interval C bear to a time-interval E the same ratio as the speed T to the speed V.
+
+And since C is the time-interval during which A, with speed V, traverses the distance S and since T, the speed of B, is to the speed V, as the time-interval C is to the time-interval E, then E will be the time required by the particle B to traverse the distance S. If now we let the time-interval E be to the time-interval G as the distance S is to the distance R, then it follows that G is the time required by B to traverse the space R. Since the ratio of C to G is the product of the ratios C to E and E to G (while also the ratio of C to E is the inverse ratio of the speeds of A and B respectively, i. e., the ratio of T to V); and since the ratio of E to G is the same as that of the distances S and R respectively, the proposition is proved.
+
+Theorem VI, Proposition VI
+If two particles are carried at a uniform rate, the ratio of their speeds will be the product of the ratio of the distances traversed by the inverse ratio of the time-intervals occupied.
+
+Let A and B be the two particles which move at a uniform rate; and let the respective distances traversed by them have the ratio of V to T, but let the time-intervals be as S to R. Then I say the speed of A will bear to the speed of B a ratio which is the product of the ratio of the distance V to the distance T and the time-interval R to the time-interval S.
+
+lf0416_figure_047.jpg
+Fig. 44
+Let C be the speed at which A traverses the distance V during the time-interval S; and let the speed C bear the same ratio to another speed E as V bears to T; then E will be the speed at which B traverses the distance T during the time-interval S. If now the speed E is to another speed G as the time-interval R is to the time-interval S, then G will be the speed at which the particle B traverses the distance T during the time-interval R. Thus we have the speed C at which the particle A covers the distance V during the time S and also the speed G at which the particle B traverses the distance T during the time R. The ratio of C to G is the product of the ratio C to E and E to G; the ratio of C to E is by definition the same as the ratio of the distance V to distance T; and the ratio of E to G is the same as the ratio of R to S. Hence follows the proposition.
+
+Salv.
+The preceding is what our Author has written concerning uniform motion. We pass now to a new and more discriminating consideration of naturally accelerated motion, such as that generally experienced by heavy falling bodies; following is the title and introduction.
+
+NATURALLY ACCELERATED MOTION
+The properties belonging to uniform motion have been discussed in the preceding section; but accelerated motion remains to be considered.
+
+And first of all it seems desirable to find and explain a definition best fitting natural phenomena. For anyone may invent an arbitrary type of motion and discuss its properties; thus, for instance, some have imagined helices and conchoids as described by certain motions which are not met with in nature, and have very commendably established the properties which these curves possess in virtue of their definitions; but we have decided to consider the phenomena of bodies falling with an acceleration such as actually occurs in nature and to make this definition of accelerated motion exhibit the essential features of observed accelerated motions. And this, at last, after repeated efforts we trust we have succeeded in doing. In this belief we are confirmed mainly by the consideration that experimental results are seen to agree with and exactly correspond with those properties which have been, one after another, demonstrated by us. Finally, in the investigation of naturally accelerated motion we were led, by hand as it were, in following the habit and custom of nature herself, in all her various other processes, to employ only those means which are most common, simple and easy.
+
+For I think no one believes that swimming or flying can be accomplished in a manner simpler or easier than that instinctively employed by fishes and birds.
+
+When, therefore, I observe a stone initially at rest falling from an elevated position and continually acquiring new increments of speed, why should I not believe that such increases take place in a manner which is exceedingly simple and rather obvious to everybody? If now we examine the matter carefully we find no addition or increment more simple than that which repeats itself always in the same manner. This we readily understand when we consider the intimate relationship between time and motion; for just as uniformity of motion is defined by and conceived through equal times and equal spaces (thus we call a motion uniform when equal distances are traversed during equal time-intervals), so also we may, in a similar manner, through equal time-intervals, conceive additions of speed as taking place without complication; thus we may picture to our mind a motion as uniformly and continuously accelerated when, during any equal intervals of time whatever, equal increments of speed are given to it. Thus if any equal intervals of time whatever have elapsed, counting from the time at which the moving body left its position of rest and began to descend, the amount of speed acquired during the first two time-intervals will be double that acquired during the first time-interval alone; so the amount added during three of these time-intervals will be treble; and that in four, quadruple that of the first time-interval. To put the matter more clearly, if a body were to continue its motion with the same speed which it had acquired during the first time-interval and were to retain this same uniform speed, then its motion would be twice as slow as that which it would have if its velocity had been acquired during two time-intervals.
+
+And thus, it seems, we shall not be far wrong if we put the increment of speed as proportional to the increment of time; hence the definition of motion which we are about to discuss may be stated as follows: A motion is said to be uniformly accelerated, when starting from rest, it acquires, during equal time-intervals, equal increments of speed.
+
+Sagr.
+Although I can offer no rational objection to this or indeed to any other definition, devised by any author whomsoever, since all definitions are arbitrary, I may nevertheless without offense be allowed to doubt whether such a definition as the above, established in an abstract manner, corresponds to and describes that kind of accelerated motion which we meet in nature in the case of freely falling bodies. And since the Author apparently maintains that the motion described in his definition is that of freely falling bodies, I would like to clear my mind of certain difficulties in order that I may later apply myself more earnestly to the propositions and their demonstrations.
+
+Salv.
+It is well that you and Simplicio raise these difficulties. They are, I imagine, the same which occurred to me when I first saw this treatise, and which were removed either by discussion with the Author himself, or by turning the matter over in my own mind.
+
+Sagr.
+When I think of a heavy body falling from rest, that is, starting with zero speed and gaining speed in proportion to the time from the beginning of the motion; such a motion as would, for instance, in eight beats of the pulse acquire eight degrees of speed; having at the end of the fourth beat acquired four degrees; at the end of the second, two; at the end of the first, one: and since time is divisible without limit, it follows from all these considerations that if the earlier speed of a body is less than its present speed in a constant ratio, then there is no degree of speed however small (or, one may say, no degree of slowness however great) with which we may not find this body travelling after starting from infinite slowness, i. e., from rest. So that if that speed which it had at the end of the fourth beat was such that, if kept uniform, the body would traverse two miles in an hour, and if keeping the speed which it had at the end of the second beat, it would traverse one mile an hour, we must infer that, as the instant of starting is more and more nearly approached, the body moves so slowly that, if it kept on moving at this rate, it would not traverse a mile in an hour, or in a day, or in a year or in a thousand years; indeed, it would not traverse a span in an even greater time; a phenomenon which baffles the imagination, while our senses show us that a heavy falling body suddenly acquires great speed.
+
+Salv.
+This is one of the difficulties which I also at the beginning, experienced, but which I shortly afterwards removed; and the removal was effected by the very experiment which creates the difficulty for you. You say the experiment appears to show that immediately after a heavy body starts from rest it acquires a very considerable speed: and I say that the same experiment makes clear the fact that the initial motions of a falling body, no matter how heavy, are very slow and gentle. Place a heavy body upon a yielding material, and leave it there without any pressure except that owing to its own weight; it is clear that if one lifts this body a cubit or two and allows it to fall upon the same material, it will, with this impulse, exert a new and greater pressure than that caused by its mere weight; and this effect is brought about by the [weight of the] falling body together with the velocity acquired during the fall, an effect which will be greater and greater according to the height of the fall, that is according as the velocity of the falling body becomes greater. From the quality and intensity of the blow we are thus enabled to accurately estimate the speed of a falling body. But tell me, gentlemen, is it not true that if a block be allowed to fall upon a stake from a height of four cubits and drives it into the earth, say, four finger-breadths, that coming from a height of two cubits it will drive the stake a much less distance, and from the height of one cubit a still less distance; and finally if the block be lifted only one finger-breadth how much more will it accomplish than if merely laid on top of the stake without percussion? Certainly very little. If it be lifted only the thickness of a leaf, the effect will be altogether imperceptible. And since the effect of the blow depends upon the velocity of this striking body, can any one doubt the motion is very slow and the speed more than small whenever the effect [of the blow] is imperceptible? See now the power of truth; the same experiment which at first glance seemed to show one thing, when more carefully examined, assures us of the contrary.
+
+But without depending upon the above experiment, which is doubtless very conclusive, it seems to me that it ought not to be difficult to establish such a fact by reasoning alone. Imagine a heavy stone held in the air at rest; the support is removed and the stone set free; then since it is heavier than the air it begins to fall, and not with uniform motion but slowly at the beginning and with a continuously accelerated motion. Now since velocity can be increased and diminished without limit, what reason is there to believe that such a moving body starting with infinite slowness, that is, from rest, immediately acquires a speed of ten degrees rather than one of four, or of two, or of one, or of a half, or of a hundredth; or, indeed, of any of the infinite number of small values [of speed]? Pray listen. I hardly think you will refuse to grant that the gain of speed of the stone falling from rest follows the same sequence as the diminution and loss of this same speed when, by some impelling force, the stone is thrown to its former elevation: but even if you do not grant this, I do not see how you can doubt that the ascending stone, diminishing in speed, must before coming to rest pass through every possible degree of slowness.
+
+Simp.
+But if the number of degrees of greater and greater slowness is limitless, they will never be all exhausted, therefore such an ascending heavy body will never reach rest, but will continue to move without limit always at a slower rate; but this is not the observed fact.
+
+Salv.
+This would happen, Simplicio, if the moving body were to maintain its speed for any length of time at each degree of velocity; but it merely passes each point without delaying more than an instant: and since each time-interval however small may be divided into an infinite number of instants, these will always be sufficient [in number] to correspond to the infinite degrees of diminished velocity.
+
+That such a heavy rising body does not remain for any length of time at any given degree of velocity is evident from the following: because if, some time-interval having been assigned, the body moves with the same speed in the last as in the first instant of that time-interval, it could from this second degree of elevation be in like manner raised through an equal height, just as it was transferred from the first elevation to the second, and by the same reasoning would pass from the second to the third and would finally continue in uniform motion forever.
+
+Sagr.
+From these considerations it appears to me that we may obtain a proper solution of the problem discussed by philosophers, namely, what causes the acceleration in the natural motion of heavy bodies? Since, as it seems to me, the force [virtù] impressed by the agent projecting the body upwards diminishes continuously, this force, so long as it was greater than the contrary force of gravitation, impelled the body upwards; when the two are in equilibrium the body ceases to rise and passes through the state of rest in which the impressed impetus [impeto] is not destroyed, but only its excess over the weight of the body has been consumed—the excess which caused the body to rise. Then as the diminution of the outside impetus [impeto] continues, and gravitation gains the upper hand, the fall begins, but slowly at first on account of the opposing impetus [virtù impressa], a large portion of which still remains in the body; but as this continues to diminish it also continues to be more and more overcome by gravity, hence the continuous acceleration of motion.
+
+Simp.
+The idea is clever, yet more subtle than sound; for even if the argument were conclusive, it would explain only the case in which a natural motion is preceded by a violent motion, in which there still remains active a portion of the external force [virtù esterna]; but where there is no such remaining portion and the body starts from an antecedent state of rest, the cogency of the whole argument fails.
+
+Sagr.
+I believe that you are mistaken and that this distinction between cases which you make is superfluous or rather nonexistent. But, tell me, cannot a projectile receive from the projector either a large or a small force [virtù] such as will throw it to a height of a hundred cubits, and even twenty or four or one?
+
+Simp.
+Undoubtedly, yes.
+
+Sagr.
+So therefore this impressed force [virtù impressa] may exceed the resistance of gravity so slightly as to raise it only a finger-breadth; and finally the force [virtù] of the projector may be just large enough to exactly balance the resistance of gravity so that the body is not lifted at all but merely sustained. When one holds a stone in his hand does he do anything but give it a force impelling [virtù impellente] it upwards equal to the power [facoltà] of gravity drawing it downwards? And do you not continuously impress this force [virtù] upon the stone as long as you hold it in the hand? Does it perhaps diminish with the time during which one holds the stone?
+
+And what does it matter whether this support which prevents the stone from falling is furnished by one’s hand or by a table or by a rope from which it hangs? Certainly nothing at all. You must conclude, therefore, Simplicio, that it makes no difference whatever whether the fall of the stone is preceded by a period of rest which is long, short, or instantaneous provided only the fall does not take place so long as the stone is acted upon by a force [virtù] opposed to its weight and sufficient to hold it at rest.
+
+Salv.
+The present does not seem to be the proper time to investigate the cause of the acceleration of natural motion concerning which various opinions have been expressed by various philosophers, some explaining it by attraction to the center, others to repulsion between the very small parts of the body, while still others attribute it to a certain stress in the surrounding medium which closes in behind the falling body and drives it from one of its positions to another. Now, all these fantasies, and others too, ought to be examined; but it is not really worth while. At present it is the purpose of our Author merely to investigate and to demonstrate some of the properties of accelerated motion (whatever the cause of this acceleration may be)—meaning thereby a motion, such that the momentum of its velocity [i momenti della sua velocità] goes on increasing after departure from rest, in simple proportionality to the time, which is the same as saying that in equal time-intervals the body receives equal increments of velocity; and if we find the properties [of accelerated motion] which will be demonstrated later are realized in freely falling and accelerated bodies, we may conclude that the assumed definition includes such a motion of falling bodies and that their speed [accelerazione] goes on increasing as the time and the duration of the motion.
+
+Sagr.
+So far as I see at present, the definition might have been put a little more clearly perhaps without changing the fundamental idea, namely, uniformly accelerated motion is such that its speed increases in proportion to the space traversed; so that, for example, the speed acquired by a body in falling four cubits would be double that acquired in falling two cubits and this latter speed would be double that acquired in the first cubit. Because there is no doubt but that a heavy body falling from the height of six cubits has, and strikes with, a momentum [impeto] double that it had at the end of three cubits, triple that which it had at the end of one.
+
+Salv.
+It is very comforting to me to have had such a companion in error; and moreover let me tell you that your proposition seems so highly probable that our Author himself admitted, when I advanced this opinion to him, that he had for some time shared the same fallacy. But what most surprised me was to see two propositions so inherently probable that they commanded the assent of everyone to whom they were presented, proven in a few simple words to be not only false, but impossible.
+
+Simp.
+I am one of those who accept the proposition, and believe that a falling body acquires force [vires] in its descent, its velocity increasing in proportion to the space, and that the momentum [momento] of the falling body is doubled when it falls from a doubled height; these propositions, it appears to me, ought to be conceded without hesitation or controversy.
+
+Salv.
+And yet they are as false and impossible as that motion should be completed instantaneously; and here is a very clear demonstration of it. If the velocities are in proportion to the spaces traversed, or to be traversed, then these spaces are traversed in equal intervals of time; if, therefore, the velocity with which the falling body traverses a space of eight feet were double that with which it covered the first four feet (just as the one distance is double the other) then the time-intervals required for these passages would be equal. But for one and the same body to fall eight feet and four feet in the same time is possible only in the case of instantaneous [discontinuous] motion; but observation shows us that the motion of a falling body occupies time, and less of it in covering a distance of four feet than of eight feet; therefore it is not true that its velocity increases in proportion to the space.
+
+The falsity of the other proposition may be shown with equal clearness. For if we consider a single striking body the difference of momentum in its blows can depend only upon difference of velocity; for if the striking body falling from a double height were to deliver a blow of double momentum, it would be necessary for this body to strike with a doubled velocity; but with this doubled speed it would traverse a doubled space in the same time-interval; observation however shows that the time required for fall from the greater height is longer.
+
+Sagr.
+You present these recondite matters with too much evidence and ease; this great facility makes them less appreciated than they would be had they been presented in a more abstruse manner. For, in my opinion, people esteem more lightly that knowledge which they acquire with so little labor than that acquired through long and obscure discussion.
+
+Salv.
+If those who demonstrate with brevity and clearness the fallacy of many popular beliefs were treated with contempt instead of gratitude the injury would be quite bearable; but on the other hand it is very unpleasant and annoying to see men, who claim to be peers of anyone in a certain field of study, take for granted certain conclusions which later are quickly and easily shown by another to be false. I do not describe such a feeling as one of envy, which usually degenerates into hatred and anger against those who discover such fallacies; I would call it a strong desire to maintain old errors, rather than accept newly discovered truths. This desire at times induces them to unite against these truths, although at heart believing in them, merely for the purpose of lowering the esteem in which certain others are held by the unthinking crowd. Indeed, I have heard from our Academician many such fallacies held as true but easily refutable; some of these I have in mind.
+
+Sagr.
+You must not withhold them from us, but, at the proper time, tell us about them even though an extra session be necessary. But now, continuing the thread of our talk, it would seem that up to the present we have established the definition of uniformly accelerated motion which is expressed as follows:
+
+A motion is said to be equally or uniformly accelerated when, starting from rest, its momentum (celeritatis momenta) receives equal increments in equal times.
+
+Salv.
+This definition established, the Author makes a single assumption, namely,
+
+The speeds acquired by one and the same body moving down planes of different inclinations are equal when the heights of these planes are equal.
+
+By the height of an inclined plane we mean the perpendicular let fall from the upper end of the plane upon the horizontal line drawn through the lower end of the same plane. Thus, to illustrate, let the line AB be horizontal, and let the planes CA and CD be inclined to it; then the Author calls the perpendicular CB the “height” of the planes CA and CD; he supposes that the speeds acquired by one and the same body, descending along the planes CA and CD to the terminal points A and D are equal since the heights of these planes are the same, CB; and also it must be understood that this speed is that which would be acquired by the same body falling from C to B.
+
+Sagr.
+Your assumption appears to me so reasonable that it ought to be conceded without question, provided of course there are no chance or outside resistances, and that the planes are hard and smooth, and that the figure of the moving body is perfectly round, so that neither plane nor moving body is rough. All resistance and opposition having been removed, my reason tells me at once that a heavy and perfectly round ball descending along the lines CA, CD, CB would reach the terminal points A, D, B, with equal momenta [impeti eguali].
+
+lf0416_figure_048.jpg
+Fig. 45
+Salv.
+Your words are very plausible; but I hope by experiment to increase the probability to an extent which shall be little short of a rigid demonstration.
+
+Imagine this page to represent a vertical wall, with a nail driven into it; and from the nail let there be suspended a lead bullet of one or two ounces by means of a fine vertical thread, AB, say from four to six feet long, on this wall draw a horizontal line DC, at right angles to the vertical thread AB, which hangs about two finger-breadths in front of the wall. Now bring the thread AB with the attached ball into the position AC and set it free; first it will be observed to descend along the arc CBD, to pass the point B, and to travel along the arc BD, till it almost reaches the horizontal CD, a slight shortage being caused by the resistance of the air and the string; from this we may rightly infer that the ball in its descent through the arc CB acquired a momentum [impeto] on reaching B, which was just sufficient to carry it through a similar arc BD to the same height. Having repeated this experiment many times, let us now drive a nail into the wall close to the perpendicular AB, say at E or F, so that it projects out some five or six finger-breadths in order that the thread, again carrying the bullet through the arc CB, may strike upon the nail E when the bullet reaches B, and thus compel it to traverse the arc BG, described about E as center. From this we can see what can be done by the same momentum [impeto] which previously starting at the same point B carried the same body through the arc BD to the horizontal CD. Now, gentlemen, you will observe with pleasure that the ball swings to the point G in the horizontal, and you would see the same thing happen if the obstacle were placed at some lower point, say at F, about which the ball would describe the arc BI, the rise of the ball always terminating exactly on the line CD. But when the nail is placed so low that the remainder of the thread below it will not reach to the height CD (which would happen if the nail were placed nearer B than to the intersection of AB with the horizontal CD) then the thread leaps over the nail and twists itself about it.
+
+lf0416_figure_049.jpg
+Fig. 46
+This experiment leaves no room for doubt as to the truth of our supposition; for since the two arcs CB and DB are equal and similarly placed, the momentum [momento] acquired by the fall through the arc CB is the same as that gained by fall through the arc DB; but the momentum [momento] acquired at B, owing to fall through CB, is able to lift the same body [mobile] through the arc BD; therefore, the momentum acquired in the fall BD is equal to that which lifts the same body through the same arc from B to D; so, in general, every momentum acquired by fall through an arc is equal to that which can lift the same body through the same arc. But all these momenta [momenti] which cause a rise through the arcs BD, BG, and BI are equal, since they are produced by the same momentum, gained by fall through CB, as experiment shows. Therefore all the momenta gained by fall through the arcs DB, GB, IB are equal.
+
+Sagr.
+The argument seems to me so conclusive and the experiment so well adapted to establish the hypothesis that we may, indeed, consider it as demonstrated.
+
+Salv.
+I do not wish, Sagredo, that we trouble ourselves too much about this matter, since we are going to apply this principle mainly in motions which occur on plane surfaces, and not upon curved, along which acceleration varies in a manner greatly different from that which we have assumed for planes.
+
+So that, although the above experiment shows us that the descent of the moving body through the arc CB confers upon it momentum [momento] just sufficient to carry it to the same height through any of the arcs BD, BG, BI, we are not able, by similar means, to show that the event would be identical in the case of a perfectly round ball descending along planes whose inclinations are respectively the same as the chords of these arcs. It seems likely, on the other hand, that, since these planes form angles at the point B, they will present an obstacle to the ball which has descended along the chord CB, and starts to rise along the chord BD, BG, BI.
+
+In striking these planes some of its momentum [impeto] will be lost and it will not be able to rise to the height of the line CD; but this obstacle, which interferes with the experiment, once removed, it is clear that the momentum [impeto] (which gains in strength with descent) will be able to carry the body to the same height. Let us then, for the present, take this as a postulate, the absolute truth of which will be established when we find that the inferences from it correspond to and agree perfectly with experiment. The author having assumed this single principle passes next to the propositions which he clearly demonstrates; the first of these is as follows:
+
+Theorem I, Proposition I
+The time in which any space is traversed by a body starting from rest and uniformly accelerated is equal to the time in which that same space would be traversed by the same body moving at a uniform speed whose value is the mean of the highest speed and the speed just before acceleration began.
+
+Let us represent by the line AB the time in which the space CD is traversed by a body which starts from rest at C and is uniformly accelerated; let the final and highest value of the speed gained during the interval AB be represented by the line EB drawn at right angles to AB; draw the line AE, then all lines drawn from equidistant points on AB and parallel to BE will represent the increasing values of the speed, beginning with the instant A. Let the point F bisect the line EB; draw FG parallel to BA, and GA parallel to FB, thus forming a parallel-ogram AGFB which will be equal in area to the triangle AEB, since the side GF bisects the side AE at the point I; for if the parallel lines in the triangle AEB are extended to GI, then the sum of all the parallels contained in the quadrilateral is equal to the sum of those contained in the triangle AEB; for those in the triangle IEF are equal to those contained in the triangle GIA, while those included in the trapezium AIFB are common. Since each and every instant of time in the time-interval AB has its corresponding point on the line AB, from which points parallels drawn in and limited by the triangle AEB represent the increasing values of the growing velocity, and since parallels contained within the rectangle represent the values of a speed which is not increasing, but constant, it appears, in like manner, that the momenta [momenta] assumed by the moving body may also be represented, in the case of the accelerated motion, by the increasing parallels of the triangle AEB, and, in the case of the uniform motion, by the parallels of the rectangle GB. For, what the momenta may lack in the first part of the accelerated motion (the deficiency of the momenta being represented by the parallels of the triangle AGI) is made up by the momenta represented by the parallels of the triangle IEF.
+
+lf0416_figure_050.jpg
+Fig. 47
+Hence it is clear that equal spaces will be traversed in equal times by two bodies, one of which, starting from rest, moves with a uniform acceleration, while the momentum of the other, moving with uniform speed, is one-half its maximum momentum under accelerated motion.
+
+q. e. d.
+
+Theorem II, Proposition II
+The spaces described by a body falling from rest with a uniformly accelerated motion are to each other as the squares of the time-intervals employed in traversing these distances.
+
+Let the time beginning with any instant A be represented by the straight line AB in which are taken any two time-intervals AD and AE. Let HI represent the distance through which the body, starting from rest at H, falls with uniform acceleration. If HL represents the space traversed during the time-interval AD, and HM that covered during the interval AE, then the space MH stands to the space LH in a ratio which is the square of the ratio of the time AE to the time AD; or we may say simply that the distances HM and HL are related as the squares of AE and AD.
+
+lf0416_figure_051.jpg
+Fig. 48
+Draw the line AC making any angle whatever with the line AB; and from the points D and E, draw the parallel lines DO and EP; of these two lines, DO represents the greatest velocity attained during the interval AD, while EP represents the maximum velocity acquired during the interval AE. But it has just been proved that so far as distances traversed are concerned it is precisely the same whether a body falls from rest with a uniform acceleration or whether it falls during an equal time-interval with a constant speed which is one-half the maximum speed attained during the accelerated motion. It follows therefore that the distances HM and HL are the same as would be traversed, during the time-intervals AE and AD, by uniform velocities equal to one-half those represented by DO and EP respectively. If, therefore, one can show that the distances HM and HL are in the same ratio as the squares of the time-intervals AE and AD, our proposition will be proven.
+
+But in the fourth proposition of the first book [p. 157 above] it has been shown that the spaces traversed by two particles in uniform motion bear to one another a ratio which is equal to the product of the ratio of the velocities by the ratio of the times. But in this case the ratio of the velocities is the same as the ratio of the time-intervals (for the ratio of AE to AD is the same as that of ½ EP to ½ DO or of EP to DO). Hence the ratio of the spaces traversed is the same as the squared ratio of the time-intervals.
+
+q. e. d.
+
+Evidently then the ratio of the distances is the square of the ratio of the final velocities, that is, of the lines EP and DO, since these are to each other as AE to AD.
+
+COROLLARY I
+Hence it is clear that if we take any equal intervals of time whatever, counting from the beginning of the motion, such as AD, DE, EF, FG, in which the spaces HL, LM, MN, NI are traversed, these spaces will bear to one another the same ratio as the series of odd numbers, 1, 3, 5, 7; for this is the ratio of the differences of the squares of the lines [which represent time], differences which exceed one another by equal amounts, this excess being equal to the smallest line [viz. the one representing a single time-interval]: or we may say [that this is the ratio] of the differences of the squares of the natural numbers beginning with unity.
+
+While, therefore, during equal intervals of time the velocities increase as the natural numbers, the increments in the distances traversed during these equal time-intervals are to one another as the odd numbers beginning with unity.
+
+Sagr.
+Please suspend the discussion for a moment since there just occurs to me an idea which I want to illustrate by means of a diagram in order that it may be clearer both to you and to me.
+
+Let the line AI represent the lapse of time measured from the initial instant A; through A draw the straight line AF making any angle whatever; join the terminal points I and F; divide the time AI in half at C; draw CB parallel to IF. Let us consider CB as the maximum value of the velocity which increases from zero at the beginning, in simple proportionality to the intercepts on the triangle ABC of lines drawn parallel to BC; or what is the same thing, let us suppose the velocity to increase in proportion to the time; then I admit without question, in view of the preceding argument, that the space described by a body falling in the aforesaid manner will be equal to the space traversed by the same body during the same length of time travelling with a uniform speed equal to EC, the half of BC. Further let us imagine that the body has fallen with accelerated motion so that, at the instant C, it has the velocity BC. It is clear that if the body continued to descend with the same speed BC, without acceleration, it would in the next time-interval CI traverse double the distance covered during the interval AC, with the uniform speed EC which is half of BC; but since the falling body acquires equal increments of speed during equal increments of time, it follows that the velocity BC, during the next time-interval CI will be increased by an amount represented by the parallels of the triangle BFG which is equal to the triangle ABC. If, then, one adds to the velocity GI half of the velocity FG, the highest speed acquired by the accelerated motion and determined by the parallels of the triangle BFG, he will have the uniform velocity with which the same space would have been described in the time CI; and since this speed IN is three times as great as EC it follows that the space described during the interval CI is three times as great as that described during the interval AC. Let us imagine the motion extended over another equal time-interval IO, and the triangle extended to APO; it is then evident that if the motion continues during the interval IO, at the constant rate IF acquired by acceleration during the time AI, the space traversed during the interval IO will be four times that traversed during the first interval AC, because the speed IF is four times the speed EC. But if we enlarge our triangle so as to include FPQ which is equal to ABC, still assuming the acceleration to be constant, we shall add to the uniform speed an increment RQ, equal to EC; then the value of the equivalent uniform speed during the time-interval IO will be five times that during the first time-interval AC; therefore the space traversed will be quintuple that during the first interval AC. It is thus evident by simple computation that a moving body starting from rest and acquiring velocity at a rate proportional to the time, will, during equal intervals of time, traverse distances which are related to each other as the odd numbers beginning with unity, 1, 3, 5;
+*
+ or considering the total space traversed, that covered in double time will be quadruple that covered during unit time; in triple time, the space is nine times as great as in unit time. And in general the spaces traversed are in the duplicate ratio of the times, i. e., in the ratio of the squares of the times.
+
+lf0416_figure_052.jpg
+Fig. 49
+Simp.
+In truth, I find more pleasure in this simple and clear argument of Sagredo than in the Author’s demonstration which to me appears rather obscure; so that I am convinced that matters are as described, once having accepted the definition of uniformly accelerated motion. But as to whether this acceleration is that which one meets in nature in the case of falling bodies, I am still doubtful; and it seems to me, not only for my own sake but also for all those who think as I do, that this would be the proper moment to introduce one of those experiments—and there are many of them, I understand—which illustrate in several ways the conclusions reached.
+
+Salv.
+The request which you, as a man of science, make, is a very reasonable one; for this is the custom—and properly so—in those sciences where mathematical demonstrations are applied to natural phenomena, as is seen in the case of perspective, astronomy, mechanics, music, and others where the principles, once established by well-chosen experiments, become the foundations of the entire superstructure. I hope therefore it will not appear to be a waste of time if we discuss at considerable length this first and most fundamental question upon which hinge numerous consequences of which we have in this book only a small number, placed there by the Author, who has done so much to open a pathway hitherto closed to minds of speculative turn. So far as experiments go they have not been neglected by the Author; and often, in his company, I have attempted in the following manner to assure myself that the acceleration actually experienced by falling bodies is that above described.
+
+A piece of wooden moulding or scantling, about 12 cubits long, half a cubit wide, and three finger-breadths thick, was taken; on its edge was cut a channel a little more than one finger in breadth; having made this groove very straight, smooth, and polished, and having lined it with parchment, also as smooth and polished as possible, we rolled along it a hard, smooth, and very round bronze ball. Having placed this board in a sloping position, by lifting one end some one or two cubits above the other, we rolled the ball, as I was just saying, along the channel, noting, in a manner presently to be described, the time required to make the descent. We repeated this experiment more than once in order to measure the time with an accuracy such that the deviation between two observations never exceeded one-tenth of a pulse-beat. Having performed this operation and having assured ourselves of its reliability, we now rolled the ball only one-quarter the length of the channel; and having measured the time of its descent, we found it precisely one-half’of the former. Next we tried other distances, comparing the time for the whole length with that for the half, or with that for two-thirds, or three-fourths, or indeed for any fraction; in such experiments, repeated a full hundred times, we always found that the spaces traversed were to each other as the squares of the times, and this was true for all inclinations of the plane, i. e., of the channel, along which we rolled the ball. We also observed that the times of descent, for various inclinations of the plane, bore to one another precisely that ratio which, as we shall see later, the Author had predicted and demonstrated for them.
+
+For the measurement of time, we employed a large vessel of water placed in an elevated position; to the bottom of this vessel was soldered a pipe of small diameter giving a thin jet of water, which we collected in a small glass during the time of each descent, whether for the whole length of the channel or for a part of its length; the water thus collected was weighed, after each descent, on a very accurate balance; the differences and ratios of these weights gave us the differences and ratios of the times, and this with such accuracy that although the operation was repeated many, many times, there was no appreciable discrepancy in the results.
+
+Simp.
+I would like to have been present at these experiments; but feeling confidence in the care with which you performed them, and in the fidelity with which you relate them, I am satisfied and accept them as true and valid
+
+Salv.
+Then we can proceed without discussion.
+
+COROLLARY II
+Secondly, it follows that, starting from any initial point, if we take any two distances, traversed in any time-intervals whatsoever, these time-intervals bear to one another the same ratio as one of the distances to the mean proportional of the two distances.
+
+For if we take two distances ST and SY measured from the initial point S, the mean proportional of which is SX, the time of fall through ST is to the time of fall through SY as ST is to SX; or one may say the time of fall through SY is to the time of fall through ST as SY is to SX. Now since it has been shown that the spaces traversed are in the same ratio as the squares of the times; and since, moreover, the ratio of the space SY to the space ST is the square of the ratio SY to SX, it follows that the ratio of the times of fall through SY and ST is the ratio of the respective distances SY and SX.
+
+lf0416_figure_053.jpg
+Fig. 50
+SCHOLIUM
+The above corollary has been proven for the case of vertical fall; but it holds also for planes inclined at any angle; for it is to be assumed that along these planes the velocity increases in the same ratio, that is, in proportion to the time, or, if you prefer, as the series of natural numbers.
+*
+
+Salv.
+Here, Sagredo, I should like, if it be not too tedious to Simplicio, to interrupt for a moment the present discussion in order to make some additions on the basis of what has already been proved and of what mechanical principles we have already learned from our Academician. This addition I make for the better establishment on logical and experimental grounds, of the principle which we have above considered; and what is more important, for the purpose of deriving it geometrically, after first demonstrating a single lemma which is fundamental in the science of motion [impeti].
+
+Sagr.
+If the advance which you propose to make is such as will confirm and fully establish these sciences of motion, I will gladly devote to it any length of time. Indeed, I shall not only be glad to have you proceed, but I beg of you at once to satisfy the curiosity which you have awakened in me concerning your proposition; and I think that Simplicio is of the same mind.
+
+Simp.
+Quite right.
+
+Salv.
+Since then I have your permission, let us first of all consider this notable fact, that the momenta or speeds [i momenti o le velocità] of one and the same moving body vary with the inclination of the plane.
+
+The speed reaches a maximum along a vertical direction, and for other directions diminishes as the plane diverges from the vertical. Therefore the impetus, ability, energy, [l’impeto, il talento, l’energia] or, one might say, the momentum [il momento] of descent of the moving body is diminished by the plane upon which it is supported and along which it rolls.
+
+For the sake of greater clearness erect the line AB perpendicular to the horizontal AC; next draw AD, AE, AF, etc., at different inclinations to the horizontal. Then I say that all the momentum of the falling body is along the vertical and is a maximum when it falls in that direction; the momentum is less along DA and still less along EA, and even less yet along the more inclined plane FA. Finally on the horizontal plane the momentum vanishes altogether; the body finds itself in a condition of indifference as to motion or rest; has no inherent tendency to move in any direction, and offers no resistance to being set in motion. For just as a heavy body or system of bodies cannot of itself move upwards, or recede from the common center [comun centro] toward which all heavy things tend, so it is impossible for any body of its own accord to assume any motion other than one which carries it nearer to the aforesaid common center. Hence, along the horizontal, by which we understand a surface, every point of which is equidistant from this same common center, the body will have no momentum whatever.
+
+lf0416_figure_054.jpg
+Fig. 51
+This change of momentum being clear, it is here necessary for me to explain something which our Academician wrote when in Padua, embodying it in a treatise on mechanics prepared solely for the use of his students, and proving it at length and conclusively when considering the origin and nature of that marvellous machine, the screw. What he proved is the manner in which the momentum [impeto] varies with the inclination of the plane, as for instance that of the plane FA, one end of which is elevated through a vertical distance FC. This direction FC is that along which the momentum of a heavy body becomes a maximum; let us discover what ratio this momentum bears to that of the same body moving along the inclined plane FA. This ratio, I say, is the inverse of that of the aforesaid lengths. Such is the lemma preceding the theorem which I hope to demonstrate a little later.
+
+It is clear that the impelling force [impeto] acting on a body in descent is equal to the resistance or least force [resistenza o forza minima] sufficient to hold it at rest. In order to measure this force and resistance [forza e resistenza] I propose to use the weight of another body. Let us place upon the plane FA a body G connected to the weight H by means of a cord passing over the point F; then the body H will ascend or descend, along the perpendicular, the same distance which the body G ascends or descends along the inclined plane FA; but this distance will not be equal to the rise or fall of G along the vertical in which direction alone G, as other bodies, exerts its force [resistenza]. This is clear. For if we consider the motion of the body G, from A to F, in the triangle AFC to be made up of a horizontal component AC and a vertical component CF, and remember that this body experiences no resistance to motion along the horizontal (because by such a motion the body neither gains nor loses distance from the common center of heavy things) it follows that resistance is met only in consequence of the body rising through the vertical distance CF. Since then the body G in moving from A to F offers resistance only in so far as it rises through the vertical distance CF, while the other body H must fall vertically through the entire distance FA, and since this ratio is maintained whether the motion be large or small, the two bodies being inextensibly connected, we are able to assert positively that, in case of equilibrium (bodies at rest) the momenta, the velocities, or their tendency to motion [propensioni al moto], i. e., the spaces which would be traversed by them in equal times, must be in the inverse ratio to their weights. This is what has been demonstrated in every case of mechanical motion.
+*
+ So that, in order to hold the weight G at rest, one must give H a weight smaller in the same ratio as the distance CF is smaller than FA. If we do this, FA:FC=weight G:weight H; then equilibrium will occur, that is, the weights H and G will have the same impelling forces [momenti eguali], and the two bodies will come to rest.
+
+And since we are agreed that the impetus, energy, momentum or tendency to motion of a moving body is as great as the force or least resistance [forza o resistenza minima] sufficient to stop it, and since we have found that the weight H is capable of preventing motion in the weight G, it follows that the less weight H whose entire force [momento totale] is along the perpendicular, FC, will be an exact measure of the component of force [momento parziale] which the larger weight G exerts along the plane FA. But the measure of the total force [total momento] on the body G is its own weight, since to prevent its fall it is only necessary to balance it with an equal weight, provided this second weight be free to move vertically; therefore the component of the force [momento parziale] on G along the inclined plane FA will bear to the maximum and total force on this same body G along the perpendicular FC the same ratio as the weight H to the weight G. This ratio is, by construction, the same which the height, FC, of the inclined plane bears to the length FA. We have here the lemma which I proposed to demonstrate and which, as you will see, has been assumed by our Author in the second part of the sixth proposition of the present treatise.
+
+Sagr.
+From what you have shown thus far, it appears to me that one might infer, arguing ex aequali con la proportione perturbata, that the tendencies [momenti] of one and the same body to move along planes differently inclined, but having the same vertical height, as FA and FI, are to each other inversely as the lengths of the planes.
+
+Salv.
+Perfectly right. This point established, I pass to the demonstration of the following theorem:
+
+If a body falls freely along smooth planes inclined at any angle whatsoever, but of the same height, the speeds with which it reaches the bottom are the same.
+
+First we must recall the fact that on a plane of any inclination whatever a body starting from rest gains speed or momentum [la quantita dell’impeto] in direct proportion to the time, in agreement with the definition of naturally accelerated motion given by the Author. Hence, as he has shown in the preceding proposition, the distances traversed are proportional to the squares of the times and therefore to the squares of the speeds. The speed relations are here the same as in the motion first studied [i. e., vertical motion], since in each case the gain of speed is proportional to the time.
+
+Let AB be an inclined plane whose height above the level BC is AC. As we have seen above the force impelling [l’impeto] a body to fall along the vertical AC is to the force which drives the same body along the inclined plane AB as AB is to AC. On the incline AB, lay off AD a third proportional to AB and AC; then the force producing motion along AC is to that along AB (i. e., along AD) as the length AC is to the length AD. And therefore the body will traverse the space AD, along the incline AB, in the same time which it would occupy in falling the vertical distance AC, (since the forces [momenti] are in the same ratio as these distances); also the speed at C is to the speed at D as the distance AC is to the distance AD. But, according to the definition of accelerated motion, the speed at B is to the speed of the same body at D as the time required to traverse AB is to the time required for AD; and, according to the last corollary of the second proposition, the time of passing through the distance AB bears to the time of passing through AD the same ratio as the distance AC (a mean proportional between AB and AD) to AD. Accordingly the two speeds at B and C each bear to the speed at D the same ratio, namely, that of the distances AC and AD; hence they are equal. This is the theorem which I set out to prove.
+
+lf0416_figure_055.jpg
+Fig. 52
+From the above we are better able to demonstrate the following third proposition of the Author in which he employs the following principle, namely, the time required to traverse an inclined plane is to that required to fall through the vertical height of the plane in the same ratio as the length of the plane to its height.
+
+For, according to the second corollary of the second proposition, if BA represents the time required to pass over the distance BA, the time required to pass the distance AD will be a mean proportional between these two distances and will be represented by the line AC; but if AC represents the time needed to traverse AD it will also represent the time required to fall through the distance AC, since the distances AC and AD are traversed in equal times; consequently if AB represents the time required for AB then AC will represent the time required for AC. Hence the times required to traverse AB and AC are to each other as the distances AB and AC.
+
+In like manner it can be shown that the time required to fall through AC is to the time required for any other incline AE as the length AC is to the length AE; therefore, ex aequali, the time of fall along the incline AB is to that along AE as the distance AB is to the distance AE, etc.
+*
+
+One might by application of this same theorem, as Sagredo will readily see, immediately demonstrate the sixth proposition of the Author; but let us here end this digression which Sagredo has perhaps found rather tedious, though I consider it quite important for the theory of motion.
+
+Sagr.
+On the contrary it has given me great satisfaction, and indeed I find it necessary for a complete grasp of this principle.
+
+Salv.
+I will now resume the reading of the text.

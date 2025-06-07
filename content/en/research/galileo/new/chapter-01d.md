@@ -1,3 +1,12 @@
+---
+heading: Day 1
+title: "Small Scale Versus Large Scale"
+# date: 2025-05-15
+weight: 36
+description: ""
+a: "Galileo"
+c: "darkgoldenrod"
+---
 
 
 SIMP.   Here a difficulty presents itself which appears to me insoluble.  Since it is clear that we may have one line greater than another, each containing an infinite number of points, we are forced to admit that, within one and the same class, we may have something greater than infinity, because the infinity of points in the long line is greater than the infinity of points in the short line.  This assigning to an infinite quantity a value greater than infinity is quite beyond my comprehension. 
@@ -103,4 +112,6 @@ SALV.   We observe that other combustions and resolutions are accompanied by mot
 {{< r a="Sagredo" >}}
 But of what kind and how great must we consider this speed of light to be? Is it instantaneous or momentary or does it like other motions require time? Can we not decide this by experiment?
 {{< /r >}}
+
+
 
