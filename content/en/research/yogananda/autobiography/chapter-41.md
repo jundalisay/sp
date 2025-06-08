@@ -1,4 +1,13 @@
-CHAPTER: 41 An Idyl In South India
+---
+title: "An Idyl In South India"
+heading: Chapter 41
+description: ""
+c: "indigo"
+author: "Yogananda"
+weight: 346
+---
+
+
 
 “You are the first Westerner, Dick, ever to enter that shrine. Many others have tried in vain.”
 

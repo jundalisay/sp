@@ -1,13 +1,11 @@
 ---
-title: "The Saint With Two Bodies"
+title: "My Interrupted Flight Toward The Himalayas"
 heading: Chapter 4
 description: ""
 c: "indigo"
-weight: 950
+weight: 130
 ---
 
-
-CHAPTER: 4 My Interrupted Flight Toward The Himalayas
 
 
 “Leave your classroom on some trifling pretext, and engage a hackney carriage. Stop in the lane where no one in my house can see you.”

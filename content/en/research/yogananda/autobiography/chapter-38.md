@@ -1,5 +1,14 @@
-CHAPTER: 38
-Luther Burbank — A Saint Amidst The Roses
+---
+title: "Luther Burbank — A Saint Amidst The Roses"
+heading: Chapter 38
+description: ""
+c: "indigo"
+author: "Yogananda"
+weight: 336
+---
+
+
+
 “The secret of improved plant breeding, apart from scientific knowledge, is love.” Luther Burbank uttered this wisdom as I walked beside him in his Santa Rosa garden. We halted near a bed of edible cacti.
 
 “While I was conducting experiments to make ‘spineless’ cacti,” he continued, “I often talked to the plants to create a vibration of love. ‘You have nothing to fear,’ I would tell them. ‘You don’t need your defensive thorns. I will protect you.’ Gradually the useful plant of the desert emerged in a thornless variety.”

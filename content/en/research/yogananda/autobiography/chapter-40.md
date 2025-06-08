@@ -1,5 +1,14 @@
-CHAPTER: 40
-I Return To India
+---
+title: "I Return To India"
+heading: Chapter 40
+description: ""
+c: "indigo"
+author: "Yogananda"
+weight: 342
+---
+
+
+
 Gratefully I was inhaling the blessed air of India. Our boat Rajputana docked on August 22, 1935 in the huge harbor of Bombay. Even this, my first day off the ship, was a foretaste of the year ahead-twelve months of ceaseless activity. Friends had gathered at the dock with garlands and greetings; soon, at our suite in the Taj Mahal Hotel, there was a stream of reporters and photographers.
 
 Bombay was a city new to me; I found it energetically modern, with many innovations from the West. Palms line the spacious boulevards; magnificent state structures vie for interest with ancient temples. Very little time was given to sight-seeing, however; I was impatient, eager to see my beloved guru and other dear ones. Consigning the Ford to a baggage car, our party was soon speeding eastward by train toward Calcutta. 40-1

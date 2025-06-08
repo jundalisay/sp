@@ -1,5 +1,13 @@
-CHAPTER: 46
-The Woman Yogi Who Never Eats
+---
+title: "The Woman Yogi Who Never Eats"
+heading: Chapter 46
+description: ""
+c: "indigo"
+author: "Yogananda"
+weight: 370
+---
+
+
 “Sir, whither are we bound this morning?” Mr. Wright was driving the Ford; he took his eyes off the road long enough to gaze at me with a questioning twinkle. From day to day he seldom knew what part of Bengal he would be discovering next.
 
 “God willing,” I replied devoutly, “we are on our way to see an eighth wonder of the world-a woman saint whose diet is thin air!”

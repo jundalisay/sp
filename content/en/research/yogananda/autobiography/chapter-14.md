@@ -1,15 +1,14 @@
 ---
-title: "The Saint With Two Bodies"
+title: "An Experience In Cosmic Consciousness"
 heading: Chapter 14
 description: ""
 c: "indigo"
-weight: 950
+weight: 226
 ---
 
 
 
-CHAPTER: 14
-An Experience In Cosmic Consciousness
+
 “I am here, Guruji.” My shamefacedness spoke more eloquently for me.
 
 “Let us go to the kitchen and find something to eat.” Sri Yukteswar’s manner was as natural as if hours and not days had separated us.

@@ -2,9 +2,9 @@
 title: "My Parents and Early Life"
 heading: Chapter 1
 description: ""
-a: "Xenophon"
-c: "seagreen"
-weight: 950
+c: "indigo"
+author: "Yogananda"
+weight: 4
 ---
 
 
@@ -25,11 +25,11 @@ PARAMHANSA YOGANANDA
 October 28, 1945
 Encinitas, California -->
 
+<!-- The characteristic features of Indian culture have long been a search for ultimate verities and the concomitant disciple-guru 1-2 relationship. 
 
+My own path led me to a Christlike sage.
 
-The characteristic features of Indian culture have long been a search for ultimate verities and the concomitant disciple-guru 1-2 relationship. 
-
-My own path led me to a Christlike sage whose beautiful life was chiseled for the ages. 
+ whose beautiful life was chiseled for the ages. 
 
 He was one of the great masters who are India’s sole remaining wealth. Emerging in every generation, they have bulwarked their land against the fate of Babylon and Egypt.
 
@@ -41,13 +41,29 @@ Psychological ferment and my unresponsive body brought me to many obstinate cryi
 
 My far-reaching memories are not unique. Many yogis are known to have retained their self-consciousness without interruption by the dramatic transition to and from “life” and “death.” If man be solely a body, its loss indeed places the final period to identity. But if prophets down the millenniums spake with truth, man is essentially of incorporeal nature. The persistent core of human egoity is only temporarily allied with sense perception.
 
-Although odd, clear memories of infancy are not extremely rare. During travels in numerous lands, I have listened to early recollections from the lips of veracious men and women.
+Although odd, clear memories of infancy are not extremely rare. During travels in numerous lands, I have listened to early recollections from the lips of veracious men and women. -->
 
-I was born in the last decade of the nineteenth century, and passed my first eight years at Gorakhpur. This was my birthplace in the United Provinces of northeastern India. We were eight children: four boys and four girls. I, Mukunda Lal Ghosh 1-4, was the second son and the fourth child.
+I was born in the 1890s in Gorakhpur in northeastern India where I stayed during my first 8 years.
 
-Father and Mother were Bengalis, of the kshatriya caste. 1-5 Both were blessed with saintly nature. Their mutual love, tranquil and dignified, never expressed itself frivolously. A perfect parental harmony was the calm center for the revolving tumult of eight young lives.
+We were eight children: four boys and four girls. 
 
-Father, Bhagabati Charan Ghosh, was kind, grave, at times stern. Loving him dearly, we children yet observed a certain reverential distance. An outstanding mathematician and logician, he was guided principally by his intellect. But Mother was a queen of hearts, and taught us only through love. After her death, Father displayed more of his inner tenderness. I noticed then that his gaze often metamorphosed into my mother’s.
+I, Mukunda Lal Ghosh 1-4, was the second son and the fourth child.
+
+Father and Mother were Bengalis, of the kshatriya caste.
+
+Both were blessed with saintly nature. Their mutual love, tranquil and dignified, never expressed itself frivolously. 
+
+A perfect parental harmony was the calm center for the revolving tumult of eight young lives.
+
+Father, Bhagabati Charan Ghosh, was kind, grave, at times stern. Loving him dearly, we children yet observed a certain reverential distance.
+
+An outstanding mathematician and logician, he was guided principally by his intellect. 
+
+But Mother was a queen of hearts, and taught us only through love. 
+
+After her death, Father displayed more of his inner tenderness. 
+
+I noticed then that his gaze often metamorphosed into my mother’s.
 
 In Mother’s presence we tasted our earliest bitter-sweet acquaintance with the scriptures. Tales from the mahabharata and ramayana 1-6 were resourcefully summoned to meet the exigencies of discipline. Instruction and chastisement went hand in hand.
 

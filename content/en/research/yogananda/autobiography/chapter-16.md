@@ -1,14 +1,12 @@
 ---
-title: "The Saint With Two Bodies"
+title: "Outwitting The Stars"
 heading: Chapter 16
 description: ""
 c: "indigo"
-weight: 950
+weight: 234
 ---
 
 
-CHAPTER: 16
-Outwitting The Stars
 
 “Mukunda, why don’t you get an astrological armlet?”
 

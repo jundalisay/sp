@@ -1,14 +1,12 @@
 ---
-title: "The Saint With Two Bodies"
+title: "I Meet My Master, Sri Yukteswar"
 heading: Chapter 10
 description: ""
 c: "indigo"
-weight: 950
+weight: 200
 ---
 
 
-
-CHAPTER: 10 I Meet My Master, Sri Yukteswar
 
 “Faith in God can produce any miracle except one-passing an examination without study.” Distastefully I closed the book I had picked up in an idle moment.
 

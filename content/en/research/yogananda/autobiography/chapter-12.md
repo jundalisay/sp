@@ -1,13 +1,12 @@
 ---
-title: "The Saint With Two Bodies"
+title: "Years In My Master’s Hermitage"
 heading: Chapter 12
 description: ""
 c: "indigo"
-weight: 950
+weight: 216
 ---
 
 
-CHAPTER: 12 Years In My Master’s Hermitage
 
 “You have come.” Sri Yukteswar greeted me from a tiger skin on the floor of a balconied sitting room. His voice was cold, his manner unemotional.
 

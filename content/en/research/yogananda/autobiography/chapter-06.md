@@ -1,14 +1,12 @@
 ---
-title: "The Saint With Two Bodies"
+title: "The Tiger Swami"
 heading: Chapter 6
 description: ""
 c: "indigo"
-weight: 950
+weight: 160
 ---
 
 
-
-CHAPTER: 6 The Tiger Swami
 
 “I have discovered the Tiger Swami’s address. Let us visit him tomorrow.”
 

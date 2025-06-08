@@ -1,6 +1,15 @@
+---
+title: "With Mahatma Gandhi At Wardha"
+heading: Chapter 44
+description: ""
+c: "indigo"
+author: "Yogananda"
+weight: 360
+---
 
-CHAPTER: 44
-With Mahatma Gandhi At Wardha
+
+
+
 “Welcome to Wardha!” Mahadev Desai, secretary to Mahatma Gandhi, greeted Miss Bletch, Mr. Wright, and myself with these cordial words and the gift of wreaths of khaddar (homespun cotton). Our little group had just dismounted at the Wardha station on an early morning in August, glad to leave the dust and heat of the train. Consigning our luggage to a bullock cart, we entered an open motor car with Mr. Desai and his companions, Babasaheb Deshmukh and Dr. Pingale. A short drive over the muddy country roads brought us to Maganvadi, the ashram of India’s political saint.
 
 Mr. Desai led us at once to the writing room where, cross-legged, sat Mahatma Gandhi. Pen in one hand and a scrap of paper in the other, on his face a vast, winning, warm-hearted smile!

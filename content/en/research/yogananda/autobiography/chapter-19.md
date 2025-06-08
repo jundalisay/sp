@@ -1,14 +1,12 @@
 ---
-title: "The Saint With Two Bodies"
+title: "My Master, In Calcutta, Appears In Serampore"
 heading: Chapter 19
 description: ""
 c: "indigo"
-weight: 950
+weight: 250
 ---
 
 
-
-My Master, In Calcutta, Appears In Serampore
 
 “I am often beset by atheistic doubts. Yet a torturing surmise sometimes haunts me: may not untapped soul possibilities exist? Is man not missing his real destiny if he fails to explore them?”
 

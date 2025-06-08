@@ -1,5 +1,13 @@
-CHAPTER: 37
-I Go To America
+---
+title: "I Go To America"
+heading: Chapter 37
+description: ""
+c: "indigo"
+author: "Yogananda"
+weight: 332
+---
+
+
 “America! Surely these people are Americans!” This was my thought as a panoramic vision of Western faces passed before my inward view.
 
 Immersed in meditation, I was sitting behind some dusty boxes in the storeroom of the Ranchi school. A private spot was difficult to find during those busy years with the youngsters!

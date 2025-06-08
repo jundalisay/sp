@@ -1,6 +1,17 @@
-CHAPTER: 43
-The Resurrection Of Sri Yukteswar
-“Lord Krishna!” The glorious form of the avatar appeared in a shimmering blaze as I sat in my room at the Regent Hotel in Bombay. Shining over the roof of a high building across the street, the ineffable vision had suddenly burst on my sight as I gazed out of my long open third-story window.
+---
+title: "The Resurrection Of Sri Yukteswar"
+heading: Chapter 43
+description: ""
+c: "indigo"
+author: "Yogananda"
+weight: 355
+---
+
+
+
+“Lord Krishna!” The glorious form of the avatar appeared in a shimmering blaze as I sat in my room at the Regent Hotel in Bombay. 
+
+Shining over the roof of a high building across the street, the ineffable vision had suddenly burst on my sight as I gazed out of my long open third-story window.
 
 The divine figure waved to me, smiling and nodding in greeting. When I could not understand the exact message of Lord Krishna, he departed with a gesture of blessing. Wondrously uplifted, I felt that some spiritual event was presaged.
 

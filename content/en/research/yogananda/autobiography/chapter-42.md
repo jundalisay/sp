@@ -1,6 +1,14 @@
+---
+title: "Last Days With My Guru"
+heading: Chapter 42
+description: ""
+c: "indigo"
+author: "Yogananda"
+weight: 350
+---
 
-CHAPTER: 42
-Last Days With My Guru
+
+
 “Guruji, I am glad to find you alone this morning.” I had just arrived at the Serampore hermitage, carrying a fragrant burden of fruit and roses. Sri Yukteswar glanced at me meekly.
 
 “What is your question?” Master looked about the room as though he were seeking escape.

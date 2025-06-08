@@ -2,11 +2,10 @@
 title: "My Mother’s Death And The Mystic Amulet"
 heading: Chapter 2
 description: ""
-a: "Xenophon"
-c: "seagreen"
-weight: 6
+c: "indigo"
+author: "Yogananda"
+weight: 8
 ---
-
 
 
 
@@ -14,7 +13,11 @@ My mother’s greatest desire was the marriage of my elder brother. “Ah, when 
 
 I was about eleven years old at the time of Ananta’s betrothal. Mother was in Calcutta, joyously supervising the wedding preparations. Father and I alone remained at our home in Bareilly in northern India, whence Father had been transferred after two years at Lahore.
 
-I had previously witnessed the splendor of nuptial rites for my two elder sisters, Roma and Uma; but for Ananta, as the eldest son, plans were truly elaborate. Mother was welcoming numerous relatives, daily arriving in Calcutta from distant homes. She lodged them comfortably in a large, newly acquired house at 50 Amherst Street. Everything was in readiness-the banquet delicacies, the gay throne on which Brother was to be carried to the home of the bride-to-be, the rows of colorful lights, the mammoth cardboard elephants and camels, the English, Scottish and Indian orchestras, the professional entertainers, the priests for the ancient rituals.
+I had previously witnessed the splendor of nuptial rites for my two elder sisters, Roma and Uma; but for Ananta, as the eldest son, plans were truly elaborate. 
+
+Mother was welcoming numerous relatives, daily arriving in Calcutta from distant homes. She lodged them comfortably in a large, newly acquired house at 50 Amherst Street. 
+
+Everything was in readiness-the banquet delicacies, the gay throne on which Brother was to be carried to the home of the bride-to-be, the rows of colorful lights, the mammoth cardboard elephants and camels, the English, Scottish and Indian orchestras, the professional entertainers, the priests for the ancient rituals.
 
 Father and I, in gala spirits, were planning to join the family in time for the ceremony. Shortly before the great day, however, I had an ominous vision.
 
@@ -40,7 +43,11 @@ When we reached our Calcutta home, it was only to confront the stunning mystery 
 
 “It is I who have watched over thee, life after life, in the tenderness of many mothers! See in My gaze the two black eyes, the lost beautiful eyes, thou seekest!”
 
-Father and I returned to Bareilly soon after the crematory rites for the well-beloved. Early every morning I made a pathetic memorial- pilgrimage to a large sheoli tree which shaded the smooth, green-gold lawn before our bungalow. In poetical moments, I thought that the white sheoli flowers were strewing themselves with a willing devotion over the grassy altar. Mingling tears with the dew, I often observed a strange other-worldly light emerging from the dawn. Intense pangs of longing for God assailed me. I felt powerfully drawn to the Himalayas.
+Father and I returned to Bareilly soon after the crematory rites for the well-beloved. Early every morning I made a pathetic memorial- pilgrimage to a large sheoli tree which shaded the smooth, green-gold lawn before our bungalow. 
+
+In poetical moments, I thought that the white sheoli flowers were strewing themselves with a willing devotion over the grassy altar. Mingling tears with the dew, I often observed a strange other-worldly light emerging from the dawn. 
+
+Intense pangs of longing for God assailed me. I felt powerfully drawn to the Himalayas.
 
 One of my cousins, fresh from a period of travel in the holy hills, visited us in Bareilly. I listened eagerly to his tales about the high mountain abode of yogis and swamis. 2-1
 

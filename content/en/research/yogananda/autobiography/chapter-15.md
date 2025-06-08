@@ -1,14 +1,12 @@
 ---
-title: "The Saint With Two Bodies"
+title: "The Cauliflower Robbery"
 heading: Chapter 15
 description: ""
 c: "indigo"
-weight: 950
+weight: 230
 ---
 
 
-CHAPTER: 15
-The Cauliflower Robbery
 
 “Master, a gift for you! These six huge cauliflowers were planted with my hands; I have watched over their growth with the tender care of a mother nursing her child.” I presented the basket of vegetables with a ceremonial flourish.
 

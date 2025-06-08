@@ -1,6 +1,14 @@
+---
+title: "Therese Neumann, The Catholic Stigmatist"
+heading: Chapter 39
+description: ""
+c: "indigo"
+author: "Yogananda"
+weight: 338
+---
 
-CHAPTER: 39
-Therese Neumann, The Catholic Stigmatist
+
+
 “Return to india. I have waited for you patiently for fifteen years. Soon I shall swim out of the body and on to the Shining Abode. Yogananda, come!”
 
 Sri Yukteswar’s voice sounded startlingly in my inner ear as I sat in meditation at my Mt. Washington headquarters. Traversing ten thousand miles in the twinkling of an eye, his message penetrated my being like a flash of lightning.

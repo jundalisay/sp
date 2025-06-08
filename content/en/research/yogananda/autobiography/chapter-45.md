@@ -1,5 +1,14 @@
-CHAPTER: 45
-The Bengali “Joy-Permeated” Mother
+---
+title: "The Bengali ;Joy-Permeated' Mother"
+heading: Chapter 45
+description: ""
+c: "indigo"
+author: "Yogananda"
+weight: 365
+---
+
+
+
 “Sir, please do not leave India without a glimpse of Nirmala Devi. Her sanctity is intense; she is known far and wide as Ananda Moyi Ma (Joy- Permeated Mother).” My niece, Amiyo Bose, gazed at me earnestly.
 
 “Of course! I want very much to see the woman saint.” I added, “I have read of her advanced state of God-realization. A little article about her appeared years ago in East-West.”

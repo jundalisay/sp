@@ -1,14 +1,12 @@
 ---
-title: "The Saint With Two Bodies"
+title: "A Mohammedan Wonder-Worker"
 heading: Chapter 18
 description: ""
 c: "indigo"
-weight: 950
+weight: 244
 ---
 
 
-
-CHAPTER: 18 A Mohammedan Wonder-Worker
 
 “Years ago, right in this very room you now occupy, a Mohammedan wonder-worker performed four miracles before me!”
 
@@ -16,7 +14,9 @@ Sri Yukteswar made this surprising statement during his first visit to my new qu
 
 “Master, what a coincidence! Are these newly decorated walls really ancient with memories?” I looked around my simply furnished room with awakened interest.
 
-“It is a long story.” My guru smiled reminiscently. “The name of the fakir 18-1 was Afzal Khan. He had acquired his extraordinary powers through a chance encounter with a Hindu yogi.
+“It is a long story.” My guru smiled reminiscently. 
+
+“The name of the fakir 18-1 was Afzal Khan. He had acquired his extraordinary powers through a chance encounter with a Hindu yogi.
 
 “‘Son, I am thirsty; fetch me some water.’ A dust-covered sannyasi made this request of Afzal one day during his early boyhood in a small village of eastern Bengal.
 

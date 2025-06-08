@@ -1,13 +1,11 @@
 ---
-title: "The Saint With Two Bodies"
+title: "Two Penniless Boys In Brindaban"
 heading: Chapter 11
 description: ""
 c: "indigo"
-weight: 950
+weight: 210
 ---
 
-
-CHAPTER: 11 Two Penniless Boys In Brindaban
 
 
 “It would serve you right if Father disinherited you, Mukunda! How foolishly you are throwing away your life!” An elder-brother sermon was assaulting my ears.

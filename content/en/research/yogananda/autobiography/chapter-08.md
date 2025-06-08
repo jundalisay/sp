@@ -1,13 +1,12 @@
 ---
-title: "The Saint With Two Bodies"
+title: "India’s Great Scientist, J.C. Bose"
 heading: Chapter 8
 description: ""
 c: "indigo"
-weight: 950
+weight: 180
 ---
 
 
-CHAPTER: 8 India’s Great Scientist, J.C. Bose
 
 “Jagadis Chandra Bose’s wireless inventions antedated those of Marconi.”
 
