@@ -1,7 +1,7 @@
 ---
 title: "Noether's Theorem"
 weight: 11
-description: "Modern works about Physics"
+description: "Introduced Spatial Symmetries"
 c: "firebrick"
 ---
 
