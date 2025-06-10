@@ -69,74 +69,146 @@ On other days Baba used to sit on a chair, I would offer my pranam and then we w
 
 Baba went back inside and remained standing and asked me to close the door. 
 
-I followed his instructions. He continued standing whilst He told me in all seriousness "Nagina, these rascals have harassed you a lot. Today I give you an opportunity. 
+I followed his instructions. He continued standing whilst He told me seriously:
 
-You tell me the names of all those whom you want to be punished".
+{{< l a="Baba" >}}
+Nagina, these rascals have harassed you a lot. Today I give you an opportunity. You tell me the names of all those whom you want to be punished
+{{< /l >}}
 
-I thought, “Baba is always talking about the bliss and welfare of all. How can He be talking of giving punishment to someone today? Is he not testing me?”
-Meanwhile Baba again repeated, "Speak, speak out the names of those rascals. Today, I must punish them all."
 
-I said, "Baba, I have no names to mention."
+I thought: Baba is always talking about the bliss and welfare of all. How can He be talking of giving punishment to someone today? Is he not testing me?
 
-Baba again repeated "Nagina - I am short of time. I am giving you this last opportunity. You will have to mention the names of those whom you want to be punished,”
 
-I said, "Baba, I shall not mention any name. If punishment has to be given here I am, punish me to the extent necessary,” Baba said at this, "Do not talk of principle at this moment - remain in reality."
+{{< r a="Nagina" >}}
+Baba, I have no names to mention.
+{{< /r >}}
 
-I said, "No Baba - I do not want anyone to be punished."
 
-In order to change the topic I said, "Baba two more brother disciple are standing outside. May I be permitted to call them in?”
+{{< l a="Baba" >}}
+Nagina - I am short of time. I am giving you this last opportunity. You will have to mention the names of those whom you want to be punished.
+{{< /l >}}
 
-But Baba did not give His permission.
 
-Then I said, "Baba, one of them has brought the proof of the book 'Ananda Marga'. Kindly have a look at it."
+{{< r a="Nagina" >}}
+Baba, I shall not mention any name. If punishment has to be given here I am, punish me to the extent necessary. 
+{{< /r >}}
+
+
+{{< l a="Baba" >}}
+Do not talk of principle at this moment - remain in reality.
+{{< /l >}}
+
+
+{{< r a="Nagina" >}}
+No Baba - I do not want anyone to be punished. Baba two more brother disciples are standing outside. May I be permitted to call them in?
+{{< /r >}}
+
+
+Baba did not give His permission.
+
+{{< r a="Nagina" >}}
+Baba, one of them has brought the proof of the book 'Ananda Marga'. Kindly have a look at it."
+{{< /r >}}
+
 
 Baba dismissed my suggestion with a wave of His hand. He was still standing, so now I requested that He may sit down so that I could do my pranam to him. 
 
 To this He agreed, sitting on the chair, adding that He had very little time. I did my sastaunga pranam and Baba blessed me. 
 
-After this, Baba remained seated, so I sat at His feet and began to massage them.I had been apprehensive all afternoon, and when I heard Baba saying that He was short of time and asking me the names of those who were to be punished, my anxiety increased further. 
+After this, Baba remained seated, so I sat at His feet and began to massage them.
+
+I had been apprehensive all afternoon, and when I heard Baba saying that He was short of time and asking me the names of those who were to be punished, my anxiety increased further. 
 
 Hot alarm surged through me like flames blazing up from the coals at a blast from the bellows.
 
 Baba was sitting silently as I massed His feet in great perturbation of mind when I began to feel that His feet were getting cold.
 
-“Baba!” I exclaimed, “Your feet are getting cold!”
+{{< r a="Nagina" >}}
+Baba! Your feet are getting cold!
+{{< /r >}}
 
-“Yes”, He said quietly, “now I shall not retain this body."
+
+{{< l a="Baba" >}}
+Yes, now I shall not retain this body.
+{{< /l >}}
+
 
 Deeply distressed I began to weep. On the previous occasions when Baba wanted to give up His body, there were always one or more brother disciples with me which gave us a sense of relief and mutual support. But this time I was all alone with Baba and I was not feeling confident to bear this calamity without support. 
 
-I began weeping and pleading with Baba not to give up His body and at the same time was massaging His feet as I did not know what else to do to stop Baba from giving up His body. 
+I began weeping and pleading with Baba not to give up His body and at the same time was massaging His feet as I did not know what else to do to stop Baba from giving up His body.
 
-I pleaded, "Baba! Do not go away leaving us helpless!”
+{{< r a="Nagina" >}}
+Baba! Do not go away leaving us helpless!
+{{< /r >}}
 
-Baba said wearily, "Nagina, you had a great ambition to be Assistant Collector. I am making you Assistant Collector here and now. Now you give me up."
 
-I remonstrated with Baba, “This would mean trading with your life which I shall never do. At this price I want no treasure of the world, let alone the Assistant Collectorship! Whatever may happen to me, You should remain in this world!" Saying this I began to weep again.
 
-Baba said again, "No Nagina! You should not do like this. Take the kingdom of this world but leave me".
+{{< l a="Baba" >}}
+[wearily] Nagina, you had a great ambition to be Assistant Collector. I am making you Assistant Collector here and now. Now you give me up.
+{{< /l >}}
+
+{{< r a="Nagina" >}}
+This would mean trading with your life which I shall never do. At this price I want no treasure of the world, let alone the Assistant Collectorship! Whatever may happen to me, You should remain in this world!
+{{< /r >}}
+
+
+
+Saying this I began to weep again.
+
+
+{{< l a="Baba" >}}
+No Nagina! You should not do like this. Take the kingdom of this world but leave me.
+{{< /l >}}
+
 
 I had reached the depths of my feeling of impotence, but suddenly by Baba’s grace, I found the strength to reassert my determination. 
 
-I declared, “This would be a losing proposition for me and I shall not going to leave You at any cost."
+{{< r a="Nagina" >}}
+This would be a losing proposition for me and I shall not going to leave You at any cost.
+{{< /r >}}
+
 
 During this exchange, I had been holding His feet firmly and felt them now becoming ice-cold. I was crying loudly and bitterly and now Baba began to push my hand away to get His feet free.
 
-Seeing no other course open to me, I twisted myself around His feet and began to beseech, "Baba! Do not leave us orphans and helpless in this manner !”
+Seeing no other course open to me, I twisted myself around His feet and began to beseech
 
-I closed my ears to all Baba’s remonstrances and only repeated insistently, "Baba some how or other you must remain amidst us. 
 
-You have twice assured us that you are taking a samkalpa to live a long time, but in fact, both the times you deceived us." 
+{{< r a="Nagina" >}}
+Baba! Do not leave us orphans and helpless in this manner!
+{{< /r >}}
+
+I closed my ears to all Baba’s remonstrances and only repeated insistently:
+
+{{< r a="Nagina" >}}
+Baba some how or other you must remain amidst us. You have twice assured us that you are taking a samkalpa to live a long time, but in fact, both the times you deceived us.
+{{< /r >}}
+
 
 My condition was bizarre; I was weeping as well as speaking, but Baba appeared unmoved.
 
-In the meanwhile Baba suddenly said, "Nagina! All right, get up. Let us go to the field."
+Baba suddenly said:
 
-I said, "No Baba as long as you do not promise I shall not leave You."
+{{< l a="Baba" >}}
+Nagina! All right, get up. Let us go to the field.
+{{< /l>}}
 
-Baba said, "Look! Do not insist! Get up! We shall go to the field."
 
-I let go and heard Baba order Himself in a tone of command, "Prabhat Rainjan Sarkar! Get well for sometime. You have to go up to the field."
+{{< r a="Nagina" >}}
+No Baba, as long as you do not promise I shall not leave You.
+{{< /r >}}
+
+
+{{< l a="Baba" >}}
+Look! Do not insist! Get up! We shall go to the field.
+{{< /l >}}
+
+
+I let go and heard Baba order Himself in a tone of command:
+
+{{< l a="Anandamurti" >}}
+Prabhat Rainjan Sarkar! Get well for sometime. You have to go up to the field.
+{{< /l >}}
+
 
 Then Baba stood up suddenly and began to walk towards the door. When I followed Him, I glanced into the back room and saw Baba's mother approaching the room we were in. Now I understood why Baba suddenly got up in haste. 
 

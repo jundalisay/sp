@@ -14,7 +14,9 @@ Nagina, I have already released the vibrations of the varabhaya and janusparsha 
 {{< /l >}}
 
 
-I said, “It is good that You have released those vibrations for us. But it would be even better for us if You stay with us along with those vibrations. That way we will get double benefits. SO please give up Your idea about leaving the body”.
+{{< r a="Nagina" >}}
+It is good that You have released those vibrations for us. But it would be even better for us if You stay with us along with those vibrations. That way we will get double benefits. SO please give up Your idea about leaving the body.
+{{< /r >}}
 
 
 I reasoned that we could get direct love and guidance from Baba as we knew Him. To trust to a dark, unknown future, hoping that one day we would acquire the spiritual energy with which to get in touch with those subtle vibrations, woule be absolute folly.
@@ -28,13 +30,22 @@ I was now so weak that I was unable to speak and continue this round of circular
 But Baba remained adamant and deaf to our pleas, single-mindedly repeating, “The time has come. I must go.”
 
 
-Salutations to Baba who is the Giver of Everything Like KALPATARU Then Baba said "Nagina! You had a strong desire that I become the Kalpataru.
+Salutations to Baba who is the Giver of Everything Like KALPATARU Then Baba said:
 
-Lo! I have become the Kalpataru now! Ask whatever you desire".
+{{< l a="Baba" >}}
+Nagina! You had a strong desire that I become the Kalpataru. Lo! I have become the Kalpataru now! Ask whatever you desire.
+{{< /l >}}
+
 
 I thought this was another attempt by Baba to lull us into forgetfulness and I, therefore said, as before, that I wanted nothing from the Kalpataru and I have nothing to ask from the Kalpataru.
 
-On hearing me, Baba very affectionately explained to me, “No, no Nagina! This is not the way to speak before the Kalpataru”. 
+On hearing me, Baba very affectionately explained to me:
+
+{{< l a="Baba" >}}
+No, no Nagina! This is not the way to speak before the Kalpataru.
+{{< /l >}}
+
+
 
 I had already made up my mind that I wanted nothing else except that Baba may retain His body and in the same strain I repeated again that I had no request from the Kalpataru.
 
@@ -58,12 +69,15 @@ If it is an insult not to ask anything from the Kalpataru, then my request to th
 
 I was quite frightened of Baba's loud voice, but the next moment, itself through Baba's grace, I regained my firmness and said:
 
-“It is heard that no one returns disappointed from the Kalpataru. Today, I have to see whether my desire is fulfilled or not”.
+
+{{< r a="Nagina" >}}
+I hear that no one returns disappointed from the Kalpataru. Today, I have to see whether my desire is fulfilled or not.
+{{< /r >}}
+
 
 
 {{< l a="Baba" >}}
-[loudly] Nagina! Everyone else can have blemishes, but the Kalpataru has ever been unstained and will ever
-remain so. Even then, I give you one more opportunity. Change your request.
+[loudly] Nagina! Everyone else can have blemishes, but the Kalpataru has ever been unstained and will ever remain so. Even then, I give you one more opportunity. Change your request.
 {{< /l >}}
 
 
@@ -82,15 +96,28 @@ We continued this battle of wills, Baba insistent and I unyielding. But in spite
 Nagina! Will you not agree?”
 {{< /l >}}
 
+{{< r a="Nagina" >}}
+No Baba! I shall never change my desire at any cost.
+{{< /r >}}
 
-I replied , “No Baba! I shall never change my desire at any cost'”.
 
-Now Baba grew kind and asked me to repeat my desire. I stated it formally thus: “Before this physical body of yours, may we celebrate Kalpataru Day every year for fifty years from today”.
+Now Baba grew kind and asked me to repeat my desire. I stated it formally thus: 
 
-Baba said, “Be it as you wish”, and patted me firmly on the head. 
+{{< r a="Nagina" >}}
+Before this physical body of yours, may we celebrate Kalpataru Day every year for fifty years from today.
+{{< /r >}}
+
+{{< l a="Baba" >}}
+Be it as you wish”, and patted me firmly on the head.
+{{< /l >}}
+
 
 Relieved I cried, “Jai Baba'” (“Victory to Baba”), and withdrew my hands from around Baba’s waist. I lifted my head from His chest, and cried again and again, “Jai Baba! Jai Baba!” and folded my hands in reverence.
 
-I asked the other brother disciples to let go of Baba's feet and helped Baba sit in the lotus position so that he could take a samkalpa very soon. When, I was doing this, Baba gave a loving slap on my left cheek and said, “You have come to know all my secrets”.
+I asked the other brother disciples to let go of Baba's feet and helped Baba sit in the lotus position so that he could take a samkalpa very soon. 
 
+When, I was doing this, Baba gave a loving slap on my left cheek and said:
 
+{{< l a="Baba" >}}
+You have come to know all my secrets.
+{{< /l >}}
