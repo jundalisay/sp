@@ -50,6 +50,8 @@ On the sides of these channels, there are tiny slits or crevices so narrow that 
 
 While it flows through these tiny slits, its least agitated particles cling to one another and form thin ribbons [of virtual photons].
 
+{{< i s="/graphics/physics/glass.jpg" a="Glass under microscope" >}}
+
 These are extremely fine, yet have some width and much greater length, moving and swirling around the glass particles without ever straying far from them.*
 
 {{< n n="These swirl in anticlockwise rotation" >}}
