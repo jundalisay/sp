@@ -82,17 +82,28 @@ These find no pores well-suited to receive them. And so they immediately return 
 
 ## 186. The same cause can be seen in other bodies as well. 
 
-For example, there are certain interstices between the particles of some bodies that are too narrow to allow the air-aether to enter, so they only receive the fire-aether.
+For example, there are certain channels between the particles of some bodies that are too narrow to allow the air-aether to enter, so they only receive the fire-aether.
 
-These interstices are larger than the fire-aether particles that are in the surrounding physical air. And so they are filled with less agitated minute particles. 
+These channels are larger than those in the pores of the air [magnetic moment of atoms] where only the fire-aether can pass.
 
-These particles are mutually attached to each other and form various shapes, depending on the diversity of the interstices. But for the most part, they are thin, wide, and oblong, so that they can move around each other easily.
+And so these channels retain within themselves the least agitated parts of this fire-aether [as electrons]. These join one another, forming strips within them that have diverse shapes according to the diversity of the pores through which they pass.
 
-The interstices, having changed their shape, are now very narrow. **The air-aether cannot enter unless they are oblong in shape, like the rim of a wheel.** 
+These are long, flat, flexible. They flow here and there between the particles of these bodies. 
 
-Therefore, although I do not deny that there may be another cause of attraction in some bodies, this cause is not so general. 
+The channels that they go through are so narrow that the air-aether cannot enter them.
 
-Attraction is observed in many bodies. I do not think it is present in them, or at least not in the majority of them, in the same way as it is in the ether.
+<!-- These channels could not be larger than those in the air where the same air-aether does not enter, unless they extended more in length than those, being thus like small slits that make these strips wide and thin.
+
+These channels must be larger than those in the air so that the least agitated parts of the first element may stop in them, while an equal amount of the same first element continuously exits through some other pores of these bodies, as comes from the pores of the air.  -->
+
+<!-- For the interstices from which these bands derive their shape must be very narrow—so narrow that they exclude the globules of the second element—and unless they were elongated like cracks or slits, they could hardly be larger than the interstices between the particles of air which are not occupied by globules of the second element. -->
+
+
+This is why, although I do not deny that the other cause of attraction I explained earlier might occur in some bodies, nevertheless, because it does not seem general enough to suit so many diverse bodies as this latter one, and yet there are a very great number of bodies in which
+
+Many bodies exhibit attraction. This is why the mechanism of attraction is the same as that which is in glass.
+
+
 
 
 ## 187. The causes of the wonderful effects of the remaining bodies are not solely due to the aether, but rather to various other factors, which are inherent in the material itself. 

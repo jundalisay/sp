@@ -14,7 +14,7 @@ icon: "Rene Descartes"
 
 
 
-#### 87. How is fire ignited by violent motion alone?
+## 87. How is fire ignited by violent motion alone?
 
 <!-- It matters little from which cause the terrestrial particles first begin to move very rapidly.  -->
  <!-- but is carried away with it. -->
@@ -38,7 +38,7 @@ This is the same principle why a ship, not tethered by any ropes, cannot remain 
 
 
 
-#### 88. How is Fire Produced by the Mixture of Various Bodies?
+## 88. How is Fire Produced by the Mixture of Various Bodies?
 
 **This violent motion almost never alone causes fire.** 
 
@@ -62,7 +62,7 @@ But sometimes, these spaces are occupied by particles of another exhalation or s
 - When these expel the original exhalation along with the air-aether, they immediately leave their place, and, with their motion, generate fire.
 
 
-#### 89. Fire In Lightning and Shooting Stars
+## 89. Fire In Lightning and Shooting Stars
 
 In lightning or shooting stars, the descent of one cloud into another compiles multiple exhalations simultaneously.
 
@@ -84,7 +84,7 @@ This is how shooting stars are ignited.
 
 
 
-#### 90. Fire in Those that Shine but Do Not Burn: Falling Stars
+## 90. Fire in Those that Shine but Do Not Burn: Falling Stars
 
 Sometimes, the particles of an exhalation coalesce into a substance so dense and viscous that they do not separate much.
 - This makes them emit only some light.
@@ -109,7 +109,7 @@ Their material is often viscous and tenacious, as seen in those that have fallen
 Although it is not certain that this viscous material had light, there could have been some faint flame adhering to it.
 
 
-#### 91. Fire in Drops of Sea Water, Rotting Wood, and the Like.
+## 91. Fire in Drops of Sea Water, Rotting Wood, and the Like.
 
 <!-- In the case of drops of sea water, the nature of which we explained earlier, it is easy to see how light is produced.  -->
 

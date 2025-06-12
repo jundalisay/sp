@@ -140,6 +140,7 @@ Wisdom | An intellect that is in line with the dharma of the causes and effects 
 
 Word | Acronym | Meaning
 --- | --- | ---
+Aether | Objectified Spirit
 Flux | going in and out of a hole; a vortex without rotation 
 Friction | the reduced volume of space particles (qosts) that flow between bodies
 [Charge](/material/charges) | Rotation direction of that particle 
@@ -155,6 +156,7 @@ Quantum of Space-time | Qost | Invisible spacetime particles in the Spatial Laye
 [Substance](/research/descartes/meditations/part-3c/) | A Cartesian Substance subject to measurement
 [Spin](/material/principles/part-3/chapter-06/) | Orientation of that particle relative to the virtual photon 
 Spin Number | Ratio of Virtual Photons needed to rotate the particle. 1/2 spin means 2 virtual photons are needed for each rotation
+Spirit | An aethereal entity
 Volt | electron flow pressure
 Amp | electron flow volume (rate)
 Watt | total flow  <!-- = volt x amps pressure multiplied by the flow rate -->
