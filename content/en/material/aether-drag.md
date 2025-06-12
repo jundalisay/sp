@@ -61,13 +61,11 @@ The hypothesis of vortices is problematic. It says that the periodic times of th
 
 ## Einstein Debunking the Aether
 
-Materialists hate subjectivity so much that they do everything that they can to discredit the subjective aether. This is exactly what Einstein did when he interpreted the Michelson-Morley experiment in favor of energy, while denouncing the abstract mind (soul, feelings).
+Materialists hate subjectivity so much that they do everything that they can to discredit the subjective aether that is the basis of the subjective universe. This is exactly what Einstein did when he interpreted the Michelson-Morley experiment in favor of electromagnetism, while denouncing the abstract mind (soul, feelings).
 
 
 {{< q a="Einstein" c="On the Electrodynamics of Moving Bodies" >}}
-These two postulates of Relativity suffice for a simple and consistent theory of the electrodynamics of moving bodies based on Maxwell’s theory for stationary bodies. 
-
-The introduction of a “luminiferous ether” is superfluous. There is no need for an “absolutely stationary space” that has special properties. 
+These two postulates of Relativity suffice for a simple and consistent theory of the electrodynamics of moving bodies based on Maxwell’s theory for stationary bodies.  The introduction of a “luminiferous ether” is superfluous. There is no need for an “absolutely stationary space” that has special properties. 
 {{< /q >}}
 
 
@@ -128,20 +126,39 @@ The intensity of light is proportional to the square of the speeds of the partic
 
 However, the Michelson-Morley experiment proved that the light was *invariant*. Therefore, it debunked the *variant* Fresnel ether.
 
-To save the Fresnel ether theory, Lorentz created the concept of length contraction which allowed the shapes of **material** bodies to vary in accordance with the invariance of space. 
 
-{{< q a="Hendrik Lorentz" >}}
-If one assumes the theory of Fresnel, then we can learn something about the change of dimensions.
+## Invariance as Proof of the Subjectivity of the Universe
+
+To Descartes, light is invariant because light's job is to relay information about the light source which in turn is a spatial vortex. 
+
+{{< q a="Descartes" c="Dioptrique, Chapter 1" >}}
+Light is the carrier of the lively action which passes towards our eyes from a luminous body
 {{< /q >}}
+
+This invariance shows the independence of spatial vortices (2nd Element) from each other, something that matter (3rd Element) does not have. 
+
+Fresnel's aether is based on matter and so it is variant. This applies to light within glass or crystals and is the mechanism for our proposed optical computing. 
+
+Unlike rotating matter, a spatial vortex spins through time in independent moments. This makes it subjective or invariant. 
+
+Physisists then used this invariance to create failed gauge theories:
+
+{{< youtube UBNU-wKk5Mg >}}
+
+
+<!-- To save the Fresnel ether theory, Lorentz created the concept of length contraction which allowed the shapes of **material** bodies to vary in accordance with the invariance of space. 
+
+q a="Hendrik Lorentz" >}}
+If one assumes the theory of Fresnel, then we can learn something about the change of dimensions.
 
 The correctness of length contraction proves that:
 - the 2nd Element (space particles) are invariant because there is no Void in Nature
-- the 3rd Element (matter) is variant because it is different from space
+- the 3rd Element (matter) is variant because it is different from space -->
 
 
-This is totally different from the aether of Huygens which is now called the fabric of spacetime. Note that even this fabric is different from the original aether of Descartes. 
+<!-- This is totally different from the aether of Huygens which is now called the fabric of spacetime. Note that even this fabric is different from the original aether of Descartes. 
 
-We bridge the Huygens aether with the Descares aether through the concept of the aetherspace. 
+We bridge the Huygens aether with the Descares aether through the concept of the aetherspace.  -->
 
 
 <!-- Fresnel's ether is Descartes' 2nd Element (space particles) mixed with the 3rd Element (matter particles). This is why it is **variant** just because light becomes variant when mixed with matter (such as when light passes through crystals).
@@ -151,9 +168,9 @@ This is in contrast to Huygen's aether which is Descartes' pure 2nd Element with
 
 ## The Problem Began with Huygens, Made Worse by Fresnel
 
-The whole problem began when Huygens wrongly renamed the pure 2nd Element as Ethereal matter. This created confusion with the pure aether as the 5th Element.
+The whole confusion with the aether and space began when Huygens wrongly renamed the pure 2nd Element as Ethereal matter. This mixed it up with the pure aether as the 5th Element.
 
-{{< q a="Huygens" c="Treatise On Light" >}}
+{{< q a="Christiaan Huygens" c="Treatise On Light" >}}
 The movement of light coming from the luminous body is propagated through what I call “Ethereal matter”. It is not the same that serves for the propagation of sound.
 {{< /q >}}
 
@@ -165,7 +182,7 @@ The movement of light coming from the luminous body is propagated through what I
 {{< n n="In *The World*, Descartes actually calls all the 3 Elements as aether. The pure aether is called *substance*. This is because all Cartesian particles are virtual. But this is confusing to modern Physics which believes that all particles are real and only some are virtual. So to strike a compromise, we put the virtual aether as the 5th Element. The 2nd Element is also virtual but not totally aethereal as we can clearly see the space around us (the aetherspace and timespace are aethereal)" >}}
 
 
-The 2nd Element, as empty space, propagates light, while the 3rd Element, as air or matter, propagates sound.
+<!-- The 2nd Element, as empty space, propagates light, while the 3rd Element, as air or matter, propagates sound. -->
 
 <!-- Fresnel observes that the speed of light:
 - moves as waves
@@ -184,10 +201,14 @@ This caused him to assign a drag whenever light moved through media such as glas
 
 The final error of Physics is to think that the either the aether or the 2nd Element are material in nature. 
 
-In reality, they are metaphysical because they are above electromagnetism (1st Element). They can only be detected by the mind through its ideas and feelings of space and time. 
+In reality, they are metaphysical because they are above electromagnetism (1st Element). They can only be detected by the aethereal mind which is made of the same substance:
+- the mind can detect all 5 Elements
+- instruments can only detect 3 Elements
+
+ <!-- through its ideas and feelings of space and time.  -->
 
 
-This makes Physics perpetually impotent in discovering their properties. This is why our proposed Superphysics has both physics and metaphysics combined.
+This makes Physics perpetually impotent in discovering the full properties of Nature. This is why our proposed Superphysics has both physics and metaphysics combined.
 
 This will allow us to discover their properties in order to develop technologies that defy space and time, such as levitation, teleportation, and time travel.  
 
