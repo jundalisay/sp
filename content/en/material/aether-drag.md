@@ -131,7 +131,7 @@ However, the Michelson-Morley experiment proved that the light was *invariant*. 
 
 To Descartes, light is invariant because light's job is to relay information about the light source which in turn is a spatial vortex. 
 
-{{< q a="Descartes" c="Dioptrique, Chapter 1" >}}
+{{< q a="Rene Descartes" c="Dioptrique, Chapter 1" >}}
 Light is the carrier of the lively action which passes towards our eyes from a luminous body
 {{< /q >}}
 
