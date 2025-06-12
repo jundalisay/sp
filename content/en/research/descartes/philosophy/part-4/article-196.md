@@ -1,5 +1,5 @@
 ---
-title: "The Sensible Bodies and Insensible Particles"
+title: "How the Soul Perceives"
 heading: Article 196
 weight: 58
 description: "Sensible bodies are composed of insensible particles"

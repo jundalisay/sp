@@ -23,6 +23,7 @@ Word | Meaning
 Absolute Entity | A theoretical (non-existing) Entity that precedes Existence. Also, Pre-Existence 
 Abstract Reasoning | The use logic to explain nonphysical or philosophical causes and effects.
 Active Observation | Observing the object while probing it or doing actions on it.
+Action | the effect of effort being deployed in space or reality
 Adharmic | not being in line with one's dharma or the nature of things. This replaces the concept of 'bad' or 'evil' which are based on the limited ego
 Atheism | a belief system that negates the existence of a Supreme Entity
 Attribute | a part of Substance.
@@ -36,10 +37,12 @@ Dharma | The inherent, metaphysical nature of any discrete identity with referen
 Dharmic | Being in line with one's dharma or the nature of things. This replaces the concept of 'good' which is based on the limited ego.
 Distance | the gap within identities
 Eagle | the equation for everything, according to Superphysics
+Effort | the inherent capability of an identity for action
 Ego | the feeling of the self 
 Emotion | A quantized measurable version of a feeling, such as for public surveys
 Entity | Anything that the mind regards as having an identity
 Existence | the effect of Consciousness as its other half
+Force | the effect of contact or interaction between two or more identities
 God | an entity that represents either Enki or Enlil (Sumerian texts)
 gods | entities that represent beings more advanced than humans with corresponding increase in power or abilities
 Gravitational Signature | the unique code or idea that is the basis for the discrete entity. In a living body, this manifests as its DNA
@@ -133,14 +136,12 @@ Wisdom | An intellect that is in line with the dharma of the causes and effects 
  <!-- (usually simple and obvious). It's essentially a consequence of the proven theorem without requiring further proof. -->
 
 
-
-
-
 ## Material Superphysics Definitions
 
 Word | Acronym | Meaning
 --- | --- | ---
 Flux | going in and out of a hole; a vortex without rotation 
+Friction | the reduced volume of space particles (qosts) that flow between bodies
 [Charge](/material/charges) | Rotation direction of that particle 
 Gravitational Signature | | the unique code or idea that is the basis for the discrete entity. In a living body, this manifests as its DNA
 [Magnetic Field](/material/principles/part-3/chapter-03c/) | The flow of virtual photons around that hole

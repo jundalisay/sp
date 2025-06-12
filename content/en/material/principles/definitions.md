@@ -13,6 +13,7 @@ type: "featured"
 Word | Acronym | Meaning
 --- | --- | ---
 Flux | going in and out of a hole; a vortex without rotation 
+Friction | the reduced volume of space particles (qosts) that flow between bodies
 [Charge](/material/charges) | Rotation direction of that particle 
 Gravitational Signature | | the unique code or idea that is the basis for the discrete entity. In a living body, this manifests as its DNA
 [Magnetic Field](/material/principles/part-3/chapter-03c/) | The flow of virtual photons around that hole
