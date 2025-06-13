@@ -80,6 +80,9 @@ Being then driven away, towards that where the lowest form, by the dilation of t
 
 This makes a noise which becomes louder from the resonance of the air and the falling snow, than is that of avalanches.
 
+
+## Lightning and Whirlwinds
+
 Then note also that from this alone, that the parts of the upper clouds fall all together, or one after the other, or faster, or more slowly;
 
 The lower ones are more or less large, and thick, and resist more or less strongly, all the different sounds of thunder can easily be caused.
@@ -88,16 +91,27 @@ For the differences of lightning, whirlwinds, and lightning, they depend only on
 
 For if there have been great heats and droughts, so that this space contains a quantity of very subtle exhalations, and very disposed to ignite, the upper cloud cannot be almost so small, nor descend so slowly, that driving away the air which is between it and the lower, it does not make an éclair come out, that is to say, a light flame which dissipates itself at the same time. So that one can then see such lightning without hearing any noise of thunder; And even also sometimes without the clouds being thick enough to be visible.
 
+
 As on the contrary if there are no exhalations in the air that are proper to ignite, one can hear the noise of thunder without any lightning appearing for that. And when the highest cloud falls only by pieces that follow each other, it causes only lightning and thunder; but when it falls whole and fast enough, it can cause whirlwinds and lightning with it.
 
+{{< i s="/graphics/d/73.jpg" a="Clouds">}}
 
-Its extremities, such as C and D, must lower a little faster than the middle, since the air that is below, having less distance to travel to get out, yields to them more easily, and thus coming to touch the lower cloud, rather than the middle, it encloses a lot of air between them, as we see here towards E; then this air being pressed and driven with great force by this middle of the upper cloud which continues to descend, it must necessarily break the lower one to escape, as we see towards F; or open one of its extremities, as we see towards G.
+
+Its extremities, such as `C` and `D`, must lower a little faster than the middle. This is because the air that is below has less distance to travel to get out. And so it yields to them more easily. 
+
+Thus they come to touch the lower cloud instead of the middle. This encloses a lot of air between them, as we see here towards `E`.
+
+This air is pressed and driven with great force by this middle of the upper cloud which continues to descend. It necessarily either:
+- breaks the lower one to escape, as we see towards F; or
+- open one of its extremities, as we see towards G.
 
 When it has thus broken this cloud, it descends with great force towards the earth, then rises again in a whirlwind, because it finds resistance on all sides, which prevents it from continuing its movement in a straight line, as fast as its agitation requires.
 
 Thus it composes a whirlwind; which may not be accompanied by lightning or lightning, if there are no exhalations in this air that are proper to ignite; 
 
-But when there are some, they all gather in a heap, and being driven very impetuously with this air towards the earth, they compose lightning. And this lightning can burn clothes and shave hair without harming the body, if these exhalations, which usually have the smell of sulfur, are only greasy and oily, so that they compose a light flame which only attaches to bodies that are easy to burn.
+But when there are some, they all gather in a heap, and being driven very impetuously with this air towards the earth, they compose lightning. 
+
+This lightning can burn clothes and shave hair without harming the body, if these exhalations, which usually have the smell of sulfur, are only greasy and oily, so that they compose a light flame which only attaches to bodies that are easy to burn.
 
 On the contrary, it can break bones without damaging the flesh, or melt the sword without spoiling the scabbard, if these exhalations being very subtle and penetrating, only participate in the nature of volatile salts or strong waters, by which means making no effort against bodies that yield to them, they break and dissolve all those which make them a lot of resistance. As we see strong water dissolve the hardest metals, and do not act against wax.
 
