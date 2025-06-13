@@ -11,6 +11,9 @@ icon: "Rene Descartes"
 ---
 
 
+<!-- Furthermore, even without any cloud in the air, exhalations can be piled up and ignited by the mere breath of winds, especially when two or more opposing winds meet. And finally, without winds and without clouds, simply by a subtle and penetrating exhalation, which is of the nature of salts, insinuating itself into the pores of another, which is greasy and sulfurous, light flames can form both high and low in the air, just as one sees high up those stars that cross the sky; and low down both those ignes fatui or will-o'-the-wisps that play there, and those others that attach to certain bodies, like the hair of children, or the manes of horses, or the tips of pikes that have been rubbed with oil to clean them, or similar things. For it is certain that not only violent agitation, but often also the mere mixing of two different bodies, is sufficient to ignite them, as one sees when pouring water on lime, or enclosing hay before it is dry, or in an infinity of other examples that are encountered every day in Chemistry. -->
+
+
 
 Lightning can sometimes be converted into a very hard stone which breaks and shatters everything it encounters.
 
@@ -42,22 +45,23 @@ As those who are accustomed to traveling in valleys where avalanches are to be f
 
 They even refrain from speaking and coughing when passing there, for fear that their voice will stir the snow.
 
-Sometimes there is lightning without thunder.
 
-This happens where the air has many exhalations and few vapors. This creates very thin and light clouds. These fall from high enough one on the other that:
+
+Sometimes there is lightning without thunder. This happens where the air has many exhalations and few vapors. 
+
+This creates very thin and light clouds. These fall from high enough one on the other that:
 - people on the ground do not hear any thunder
 - there is no storm excited in the air
 
-This is despite them wrapping and joining together several exhalations which are the basis of these lesser lightnings.
+This is despite them wrapping and joining together several exhalations which are the basis of these lesser lightnings called falling stars or others that cross the sky.
 
  <!-- and  flames which one would say to be stars falling from the sky, or others which traverse it, but also rather large fireballs, which reaching us are like diminutives of lightning. -->
 
-There are different kinds of exhalations. It is possible that the clouds press on them to create material of the consistency that seems like milk, blood, or meat.
+There are different kinds of exhalations. It is possible that the clouds press on them to create material that seems like milk, blood, or meat.
 - These could burn and could be taken as iron or stones.
-- These could corrupt and generates some small animals in a short time.
+- These could decay and generate some small animals in a short time.
  <!-- sometimes compose a material, which according to the color and consistency it will have,  -->
 
-<!-- As we often read among  that  -->
 
 The prodigies talk about raining iron, blood, grasshoppers, or similar things.
 
@@ -81,22 +85,28 @@ We see this when we:
 
  <!-- or in an infinite number of other examples that occur every day in Chemistry.  -->
 
-But all these fires have very little force compared to lightning. 
 
-This is because they are composed only of the softest and stickiest parts of the oils; notwithstanding that the liveliest and most penetrating salts also ordinarily concur to produce them. 
+But all these fires have very little force compared to lightning because they are composed only of the softest and stickiest parts of the oils. 
+- This is even if the liveliest and most penetrating salts also ordinarily concur to produce them. 
 
-For these do not stop for that among the others, but promptly spread out in the open air after they have ignited them. Instead of which lightning is mainly composed of these liveliest and most penetrating ones, which being very violently pressed and driven by the clouds, carry the others with them to the ground. 
+For these do not stop for that among the others, but promptly spread out in the open air after they have ignited them.
 
-Those who know how much force and speed the fire of saltpeter and sulfur mixed together has, instead of the greasy part of sulfur being separated from its spirits would have very little; will not find anything doubtful in this.
+But lightning is mainly composed of these liveliest and most penetrating particles. These are very violently pressed and driven by the clouds onto the ground, carry the others with them. 
+- This is as explosive as the fire produced by saltpeter and sulfur.
 
-For the duration of the fires that stop or flutter around us, it can be more or less long, according to whether their flame is more or less slow, and their material more or less thick and tight.
+<!-- , whereas the greasy part of sulfur has very little force after being separated from its spirits. -->
 
-But for that of the fires which are only seen at the top of the air, it cannot be but very short, because if their material were not very rare, their weight would make them descend. 
+The duration of these fires that go near the Earth in the sky depends on:
+- the speed of their flame
+- the thickness and tightness [dense and compact] of their material
 
-I find that the Philosophers were right to compare them to this flame, which we see running all the way along the smoke, which comes out of a torch that has just been extinguished, when being approached by another torch it ignites. 
+But for the fires only seen at the top of the air can only be very short because if their material is very decompressed. If they were dense then they would fall to the lower atmosphere.
+
+ <!-- were not very rare, their weight would make them descend.  -->
+
+The Philosophers were right to compare them to this flame, which we see running all the way along the smoke, which comes out of a torch that has just been extinguished, when being approached by another torch it ignites. 
 
 But I am very astonished that after that they could have imagined that the Comets, and the columns or beams of fire, which are sometimes seen in the sky, were composed of exhalations, for they last incomparably longer.
-
 
 <!-- They do not belong to 
 And because I have endeavored to curiously explain their production and their nature in another treatise, and that I do not believe that they belong to meteors, any more than earthquakes, and minerals, that many writers heap together there,  -->
@@ -122,3 +132,6 @@ These fall one on the other, envelop enough exhalations to cause small flashes a
 For if we take heed to the Refractions and Reflections that 2-3 such clouds can cause, we will find that they do not need to be very high to make such lights appear towards the North, after the hour of twilight has passed; and sometimes also the sun itself, at the time it should be set.
 
 <!-- But this does not seem to belong so much to this discourse as to the following ones, where I have the intention of speaking of all the things that can be seen in the air without being there; after having here finished the explanation of all those that are seen there, in the same way that they are there. -->
+
+
+

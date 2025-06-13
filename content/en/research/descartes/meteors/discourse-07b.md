@@ -114,5 +114,3 @@ But when there are some, they all gather in a heap, and being driven very impetu
 This lightning can burn clothes and shave hair without harming the body, if these exhalations, which usually have the smell of sulfur, are only greasy and oily, so that they compose a light flame which only attaches to bodies that are easy to burn.
 
 On the contrary, it can break bones without damaging the flesh, or melt the sword without spoiling the scabbard, if these exhalations being very subtle and penetrating, only participate in the nature of volatile salts or strong waters, by which means making no effort against bodies that yield to them, they break and dissolve all those which make them a lot of resistance. As we see strong water dissolve the hardest metals, and do not act against wax.
-
-
