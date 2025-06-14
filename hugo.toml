@@ -48,6 +48,11 @@ pagerSize = 24
         { img = "/icons/atom.png", title = "Physics", sub = "100% Replicable: Objective" },        
       ]
 
+    [languages.en.params.quote0]
+      content = "Natural science is divided into physic and metaphysic. Physic should contemplate that which is inherent in matter and therefore transitory. Metaphysic should contemplate that which is abstracted and fixed."
+      icon = "Francis Bacon"
+      author = "Francis Bacon"
+      src = "The Proficience And Advancement Of Learning, Book 2, Part 7"
     [languages.en.params.quote1]
       content = "There are 3 principal sciences: Mechanics, Medicine, Ethics"
       icon = "Rene Descartes"
