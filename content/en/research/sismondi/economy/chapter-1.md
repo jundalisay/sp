@@ -10,6 +10,8 @@ contributors: ['Sismondi']
 ---
 
 
+
+
 Political economy is an important division of the science of government. The object of government is the happiness of men, united in society. 
 
 <!-- It seeks the means of securing to them the highest degree of felicity compatible with their nature, and at the same time of allowing the greatest possible number of individuals to partake in that felicity.  -->
