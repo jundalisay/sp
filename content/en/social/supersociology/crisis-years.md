@@ -167,8 +167,14 @@ The current Israel-Iran war is in line with our original 2015 prediction that 20
 
 However, Covid disrupted that war with a new war against Nature. Now that Covid is gone, the original prediction is running again. 
 
-This means that without Covid, the pattern would have been Saudi-Iran 2020, Ukraine-Russia 2023, then Taiwan-China 2027. 
+This means that without Covid, the pattern would have been:
+- Saudi-Iran 2020
+- Ukraine-Russia 2023
+- Taiwan-China 2027
 
-But because there was Covid, it became Ukraine-Russia 2022, Israel-Iran 2025, Taiwan-China 2027. 
+But because there was Covid (i.e. Nature), it became:
+- Ukraine-Russia 2022
+- Israel-Iran 2025
+- Taiwan-China 2027
 
 Regardless, the peak crisis years would still be 2025-2030. The specifics might change, but the general pattern does not, since it is unbroken from the 13th century and theoretically even goes far back into the founding of Rome. 
