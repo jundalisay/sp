@@ -14,7 +14,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 51. What is substance?
+## 51. What is substance?
 
 "Substance" is not applicable to God and the creatures in the same sense.
 
@@ -36,7 +36,7 @@ Accordingly, "substance" applies to God and created things differently.
 {{< n n="We use the word 'idea' and 'mind' instead of substance" >}}
 
 
-#### 52. Applicability of Substance
+## 52. Applicability of Substance
 
 Substance is applicable univocally:
 - to the mind and the body, and
@@ -57,7 +57,7 @@ Whenever we perceive some attribute to be present, we infer that its thing or su
  <!-- of it, by this common notion, that of nothing there are : for, from ,  to which it may be attributed is also of  present. -->
 
 
-#### 53. Every substance has one principal attribute
+## 53. Every substance has one principal attribute
 
 <!-- , as thinking of the mind, extension of the body. -->
 
@@ -79,7 +79,7 @@ Thus, for example, we cannot conceive figure unless in something extended, nor m
 But, on the other hand, we can conceive extension without figure or motion, and thought without imagination or sensation, and so of the others; as is clear to any one who attends to these matters.
 
 
-#### 54. How we may have clear and distinct notions of the substance which thinks, of that which is corporeal, and of God.
+## 54. How we may have clear and distinct notions of the substance which thinks, of that which is corporeal, and of God.
 
 Thus we may easily have 2 clear and distinct notions or ideas:
 
@@ -95,14 +95,14 @@ We may also have a clear and distinct idea of an uncreated and independent think
 No one can deny that there is in us such an idea of God, without groundlessly supposing that there is no knowledge of God at all in the human mind.
 
 
-#### 55. How duration, order, and number may be also distinctly conceived.
+## 55. How duration, order, and number may be also distinctly conceived.
 
 We will also have most distinct conceptions of duration, order, and number, if, in place of mixing up with our notions of them that which properly belongs to the concept of substance, we merely think that the duration of a thing is a mode under which we conceive this thing, in so far as it continues to exist.
 
 Similarly, order and number are not in reality different from things disposed in order and numbered, but only modes under which we diversely consider these things.
 
 
-#### 56. What are modes, qualities, attributes?
+## 56. What are modes, qualities, attributes?
 
 "Modes" are the same as attributes or qualities. 
 - But when we consider substance as affected or varied by them, we use the term "modes".

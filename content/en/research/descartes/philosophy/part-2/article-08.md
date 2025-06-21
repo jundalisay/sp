@@ -23,7 +23,7 @@ XI. How it does not differ from corporeal substance. And indeed we shall easily 
 XII. How it differs in the mode of conceiving it. But the difference is in the mode of conceiving it, for when the stone is removed from the space or place where it was, we think that its extension is also removed, as we regard it as particular and inseparable from it: but we believe the extension of the place where the stone was to remain the same, and to be the same, even though that place of the stone is now occupied by wood, or water, or air, or any other body, or is even believed to be empty. Because there the extension is considered generically, and it is considered the same for the stone, the wood, the water, the air, and other bodies, or even for the void itself, if any exists, provided only that it is of the same size and shape, and preserves the same position among the external bodies that determine that space. -->
 
 
-#### 8. Quantity and number differ only in our minds
+## 8. Quantity and number differ only in our minds
 
  <!-- (RATIONE)  -->
 
@@ -115,7 +115,7 @@ They thus think that a corporeal substance has a [metaphysical] size which they 
 And so they express something quite different from what they comprehend in their mind.
 
 
-#### 10. What is space or internal place?
+## 10. What is space or internal place?
 
 
 <!-- corporeal substance -->
@@ -136,7 +136,7 @@ Their only difference is that **we see the space occupied by the body as differe
 
 ## Physical Space Versus Metaphysical Space
 
-#### 11. Space, in reality, is not different from corporeal substance
+## 11. Space, in reality, is not different from corporeal substance
 
 It is the same extension which constitutes the nature of body as of space.
 
@@ -161,7 +161,7 @@ After this examination, we find that nothing remains in the idea of body, except
 
 
 
-#### 12. Space differs from body in our mode of conceiving it.
+## 12. Space differs from body in our mode of conceiving it.
 
 There is, however, some difference between them in the mode of conception.
 

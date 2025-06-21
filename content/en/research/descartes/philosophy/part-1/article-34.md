@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 34. The will and the understanding are required for judging.
+## 34. The will and the understanding are required for judging.
 
 The understanding is necessary for judging. We cannot judge of something that we do not apprehend.
 
@@ -24,19 +24,19 @@ It is not necessary, however, at least to form any judgment whatever, that we ha
 We may assent to many things of which we have only a very obscure and confused knowledge.
 
 
-#### 35. The will is of greater extension than the understanding, and is thus the source of our errors.
+## 35. The will is of greater extension than the understanding, and is thus the source of our errors.
 
 The perception of the intellect extends only to the few things that are presented to it. It is always very limited.
 
 The will, on the other hand, may be infinite because we observe nothing that can be the object of the will of any other, even of the unlimited will of God, to which ours cannot also extend, so that we easily carry it beyond the objects we clearly perceive. When we do this, it is not wonderful that we happen to be deceived.
 
 
-#### 36. Our errors cannot be imputed to God.
+## 36. Our errors cannot be imputed to God.
 
 God has not given us an omniscient understanding. But he is not on this account to be considered in any wise the author of our errors, for it is of the nature of created intellect to be finite, and of finite intellect not to embrace all things.
 
 
-#### 37. The chief perfection of man is his being able to act freely or by will 
+## 37. The chief perfection of man is his being able to act freely or by will 
 
 This which renders him worthy of praise or blame.
 
@@ -49,7 +49,7 @@ Their maker is praised because of the exactness with which they were framed, bec
 On the same principle, we must attribute to ourselves something more on this account, that when we embrace truth, we do so not of necessity, but freely.
 
 
-#### 38. Error is a defect in our mode of acting, not in our nature.
+## 38. Error is a defect in our mode of acting, not in our nature.
 
 The faults of their subjects may be frequently attributed to other masters, but never to God.
 
@@ -68,7 +68,7 @@ This is why we should thank him for the goods he has given us, and not complain 
  <!-- all which we know it was in his power to impart. -->
 
 
-#### 39. Free will is obvious.
+## 39. Free will is obvious.
 <!-- The liberty of our will is self-evident. -->
 
 Our free will can give or withhold its assent. This truth is among the first and most common notions which are born with us.
@@ -83,7 +83,7 @@ Nevertheless, we were conscious of:
  <!-- as any thing we can ever know. -->
 
 
-#### 40. God has fore-ordained all things.
+## 40. God has fore-ordained all things.
 
 God's power is so immense that we would sin in thinking ourselves capable of ever doing anything which he had not ordained beforehand.
 
@@ -93,7 +93,7 @@ We would be embarrassed in great difficulties if we tried to:
 
 
 
-#### 41. How can our free will be reconciled with the Divine pre-ordination?
+## 41. How can our free will be reconciled with the Divine pre-ordination?
 
 We will be free from these embarrassments if we remember that our mind is limited, while the power of God is infinite.
 
@@ -108,7 +108,7 @@ We know of the liberty and indifference which exists in ourselves [so that the o
 It would be absurd to doubt things which we are fully conscious of, and which we experience as existing in ourselves just because we do not comprehend another matter which is incomprehensible from its very nature.
 
 
-#### 42. We never will to err, yet we err by our will.
+## 42. We never will to err, yet we err by our will.
 
 All our errors are caused by our will. No one wishes to deceive himself. So why are there errors in our judgments at all?
 
@@ -123,7 +123,7 @@ Frequently, the desire itself of following after truth leads the ignorant to mak
  <!-- those not fully aware of the order in which it ought to be sought for, to pass judgment on matters of which they have no adequate knowledge, and thus to fall into error. -->
 
 
-#### 53. We shall never err if we give our assent only to what we clearly and distinctly perceive.
+## 53. We shall never err if we give our assent only to what we clearly and distinctly perceive.
 
 We will never admit falsity for truth, so long as we judge only of that which we clearly and distinctly perceive. This is because God is no deceiver.
 
@@ -137,7 +137,7 @@ Yet all minds have been so impressed by nature as spontaneously to assent to wha
 
 
 
-#### 54. We uniformly judge improperly when we assent to what we do not clearly perceive, although our judgment may chance to be true
+## 54. We uniformly judge improperly when we assent to what we do not clearly perceive, although our judgment may chance to be true
 
 Our memory frequently deceives us by leading us to believe that certain things were formerly sufficiently understood by us.
 

@@ -10,30 +10,33 @@ icon: /icons/spsoc.pn
 ---
 
 
-In 2015, we made a model that predicted the Crisis Years which were to begin in 2019, being felt from 2020 up to around 2035.
+In 2015, we made a model that predicted [the Crisis Years](/social/supersociology/precrisis-years/) which were to begin in 2019, being felt from 2020 up to around 2035.
 
 This model was created by plotting the historical events in Europe from the mercantilist period. We used the wheat prices from Adam Smith and extended them to current times.
 
  <!-- and David Hume who were Scottish historians.  -->
 
 It matched the major European wars such as the Seven Years War and the World Wars, as well as the major European economic crises such as:
-- the 18th century stock bubbles and
-- the financial crises from 1920 to 2008. 
+- the 18th century stock bubbles 
+- the financial crises from 1920 to 2008
 
-These exposed the hidden dynamics of the Negative Force (Yin or Shakti-Maya in Taoism and Hinduism). 
+These exposed the hidden dynamics of the Negative Force (Yin or Shakti-Maya in Taoism and Hinduism) lurking in the Western psyche. 
 
 These dynamics pointed to a pattern of stagflation, to be followed by a series of conflicts that may merge into a bigger war that would affect the West. This is because the events are effects of the Western mental wavelength or mentality. 
 
 Unlike particles that exist in isolation, waves are continuous and connected with other waves. 
 
-We do not have much data on Chinese mentality since we cannot read Chinese text, and so we cannot make a clear prediction on China yet. Fortunately, ChatGPT might be able to help out with this. 
+{{< n n="We do not have much data on Chinese mentality since we cannot read Chinese text, and so we cannot make a clear prediction on China yet. Fortunately, ChatGPT might be able to help out with this." >}}
+ 
 
  
 ### Trump as the Crisis Causer
 
 Back in 2015, we were wondering how could the crisis become so huge when there was no carrier for the Negative Force.
 
-The world no longer had an evil Hitler or Stalin. The Kim family was evil but North Korea is not advanced as Nazi Germany, nor does it have the population or resources of the Soviets. Xi Jinping might act imperial, but he is still not crazy ambitious like Hitler nor violent like Stalin.  
+The world no longer had an evil Hitler or Stalin.
+- The Kim family was evil but North Korea is not advanced as Nazi Germany, nor does it have the population or resources of the Soviets. 
+- Xi Jinping might act imperial, but he is still not crazy ambitious like Hitler nor violent like Stalin.  
 
 Then Trump became the Republican candidate in May 2016 fulfilling the requirement for a Crisis Causer. 
 - He is ambitious as Hitler and is loved by Neo Nazis
@@ -61,24 +64,30 @@ Nature fights back by bringing in Covid as karma. This shuts down the US economy
 
 In May 2021, Lula announced his intention to run against Bolsonaro, with a plan to end the deforestation of the Amazon. Nature complies and 6 months later Covid is reduced to Omicron allowing lockdowns to be removed. 
 
-Unlike the Russia-Ukraine and Gaza wars which have hundreds of thousands dead, the war with Nature has **millions** dead via diesease and global warming. Covid alone has claimed 7m people.
+Unlike the Russia-Ukraine and Gaza wars which have hundreds of thousands dead, the war with Nature has **millions** dead via disease and global warming disasters.
+- Covid alone has killed 7 million people.
 
 
 ### The Curse of Finance
 
 To solve the economic decline from Covid, Biden stupidly gives money out*, causing a crypto bubble and chronic inflation to last for many years. 
 
-{{< n n="This is still a relic of the Mercantile thinking of money as wealth. This is why the West imposed financial sanctions thinking that it would cause Putin to back down" >}}
+{{< n n="This is still a relic of the Mercantile thinking that money as wealth. This is why the West imposed financial sanctions on Russia thinking that it would cause Putin to back down" >}}
 
 The proper solution during the 2020 downturn was for the government to facilitate relief distributions of food and essentials to those who lost their jobs. 
+- This would improve the national relief system which could be used for the increasing disasters caused by global warming.
+- This solution would improve the food production and distribution systems.  
 
-This would improve the national relief system which could be used for the increasing disasters caused by global warming. This solution would improve the food production and distribution systems.  
+Unfortunately, the Democrats chose to use the financial system to:
+- solve the downturn of 2020
+- punish Russia for invading Ukraine in 2022
 
-Unfortunately, the Democrats chose to use the financial system to solve the downturn of 2020. It also chose the same financial system to punish Rusia for invading Ukraine in 2022. Both these were obviously ineffective. 
+Both these were obviously ineffective. 
 
 So ironically, the Americans bring back Trump in 2024 to solve the inflation that was caused by Biden who tried to solve the decline that was caused by Trump trying to make America Great Again. 
 
-> The inflation was caused by Biden trying to solve the decline that was caused by Trump trying to make America Great Again
+> The inflation was caused by Biden trying to solve the decline caused by Trump trying to Make America Great Again
+
 
 Trump tried to make America great again by defeating Nature, China, and the Shia (Palestine, Lebanon, Syria, Yemen, Iran) by allying with polluters such as the Sunni (Saudi, Qatar, UAE) and with finance (Israel). 
 
@@ -104,12 +113,8 @@ This will culminate in a war that will involve the USA towards the end of Trump'
 This is consistent with:
 - The Seven Years War curing the problems with the Hapsburgs  
 - World War 1 curing the problems with the late 19th century industrialization (Carnegie, Morgan)
-- World War 2 curing the problems caused by the Roaring 20s (Wall Street)
-
-
-{{< youtube -KSryJXDpZo >}}
-
-{{< cap >}} As a monkey-based species, war and conflict is the natural solution of humans to injustice whether political or economic. Note that the greed and jealousy which creates crises in the first place are also monkey-based propensities since we do not see cats and dogs fighting over objects. {{< /cap >}}
+- World War 2 curing the problems from the 1930s Depression
+ <!-- caused by the Roaring 20s (Wall Street) -->
 
 
 Those wars were justified by the leaders of the weakening power wanting to be great again against the rising power:
@@ -122,18 +127,15 @@ Those wars were justified by the leaders of the weakening power wanting to be gr
 
 ### The Crisis Aftermath: The Union of America
 
-The future war involving the US will certainly solve the inflation by destroying the economy and starting it from scratch. This will generate employment and will increase production just as during the 1960's and 70's after World War 2. 
+The future war involving the US will certainly solve the inflation by destroying the economy and starting it from scratch. 
+- This will generate employment and will increase production like the 1960's and 70's after World War 2. 
 
 Since the future war is totally avoidable, the Americans will want a separation from those who wanted that war (those who wanted to be so great).
 
 - The worst case scenario is that US splits into 2, just as it was split between Union and Confederates. 
 - The best case scenario is a break up of the federal union into smaller independent states just like Europe. These then form an American Union wherein states are free to join or exit depending on the policies adopted by the Union.
 
-This Union can allow Mexico and Canada to enter, giving it more features than what the previous United States had.   
-
-<!-- Crisis in Greece, Venezuela, to depend on each other instead of a numbers on a bank account. 
-
-MAGA is full of selfishness.  -->
+This Union can allow Mexico and Canada to enter, giving it more features than what the previous United States had.
 
 
 ### Explanation for the Failed 2024 Prediction
@@ -144,10 +146,19 @@ Harris is either a Worker or Thinker, just as Trump is a Trader.
 
 Since none of them are Warriors, then Trump would win because he is male and is seen as being stronger. 
 
-However, we assumed that Harris was a **Thinker** because of her anti-abortion and environmental stand. Since the Thinker beats the Warrior, we predicted a minor Harris win (not by landslide) since the US still has not entered the Thinker Cycle that comes after the Warrior Cycle. 
+However, we assumed that Harris was a **Thinker** because of her anti-abortion and environmental stand. 
 
-If Harris were a Worker then she would be soundly beaten by the popular vote. This became more obvious when her campaign focused on freedom and democracy which is a common Worker demand.
+Thinkers beat Warriors. And so we predicted a minor Harris win (not by landslide) since the US still has not entered the Thinker Cycle that comes after the Warrior Cycle. 
 
-The results show that she was soundly beated by the popular vote, which classifies her as a Worker, and not a Thinker. 
+If Harris were a Worker then she would be soundly beaten by the popular vote. 
 
-Therefore regarding the 2024 elections, it would have been better for the democrats, and the world, if Hillary Clinton or any Positive Warrior, ran in 2024 instead of Harris. 
+<!-- This became more obvious when her campaign focused on freedom and democracy which is a common Worker demand. -->
+
+The results show that she was soundly beated by the popular vote. This means that Harris is a Worker, and not a Thinker. 
+
+Therefore regarding the 2024 elections, it would have been better for the Democrats, and the world, if Hillary Clinton or any Positive Warrior, ran in 2024 instead of Harris.
+
+
+### Update June 2025
+
+It turns out that Israel was be the vector that actually started the war. 

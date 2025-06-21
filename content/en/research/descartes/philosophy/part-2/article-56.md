@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-### 56. The particles of fluids are moved with equal force towards all particles
+## 56. The particles of fluids are moved with equal force towards all particles
 
 A hard body existing in a fluid can be determined to move by the smallest force.
 
@@ -73,7 +73,7 @@ Now we assume that it is pushed towards `C` by some force:
 
 
 
-#### 57. Demonstration of the same thing.
+## 57. Demonstration of the same thing.
 
 The hard body `B` is not yet in the fluid `FD`.
 

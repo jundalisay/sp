@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 45. The rules for determining how much the motion of each body is changed because of the collision of other bodies
+## 45. The rules for determining how much the motion of each body is changed because of the collision of other bodies
 
 Collisions with other bodies cause bodies to:
 - increase or decrease their motions, or
@@ -29,7 +29,7 @@ This could easily be deduced by calculation if:
 They then would follow the following rules.
 
 
-#### 46. Rule 1
+## 46. Rule 1
 
 Assume Body `B` and `C`, were perfectly equal and moving at equal speeds. `B` is moving from right to left, and `C` from left to right.
 
@@ -38,14 +38,14 @@ Assume Body `B` and `C`, were perfectly equal and moving at equal speeds. `B` is
 When they encountered each other, they would be reflected and then continue to move, `B` to the right, and `C` to the left, without any loss of their speed.
 
 
-#### 47. Rule 2
+## 47. Rule 2
 
 If `B` were just slightly larger than `C`, then only `C` would be reflected. Both would move to the left with the same speed.
 
 {{< i s="/graphics/physics/cb2.jpg" a="CB2" >}}
 
 
-#### 48. Rule 3
+## 48. Rule 3
 
 If they were equal in mass, but `B` moved slightly faster than `C`, they would both continue moving to the left. Some of `B`'s excess speed would be transferred to `C`. 
 
@@ -58,7 +58,7 @@ If:
 After the collision, each would move to the left with 5 units of speed.
 
 
-#### 49. Rule 4
+## 49. Rule 4
 
 Assume body `C` were completely at rest and slightly larger than B. No matter how fast `B` moved towards `C`, it would never move `C`.
 
@@ -71,7 +71,7 @@ This is because a stationary body resists high velocity more than low velocity, 
 Therefore, the force in `C` to resist would always be greater than in B to propel.
 
 
-#### 50. Rule 5
+## 50. Rule 5
 
 Assume that body `C` were stationary and smaller than `B`.
 
@@ -88,7 +88,7 @@ So, after `B` had encountered `C`, it would move 1/3 slower than before. It woul
 Similarly, if `B` were 3 times larger than `C`, it would transfer to `C` 1/4 of its motion, and so on for the rest.
 
 
-#### 51. Rule 6
+## 51. Rule 6
 
 If the mass of stationary body `C` were precisely equal to that of the moving body `B`, when `B` approached `C` with 4 units of speed, it would:
 - transfer 1 unit of speed to `C`
@@ -97,7 +97,7 @@ If the mass of stationary body `C` were precisely equal to that of the moving bo
 {{< i s="/graphics/physics/cb6.png" a="CB6" >}}
 
 
-#### 52. Rule 7
+## 52. Rule 7
 
 Assume `B` and `C` were moving towards the same direction.
 - `C` was moving slower, with `B` eventually catching up to it

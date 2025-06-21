@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 39. The Second law of nature: Every motion in itself is straight. Things which move in a circular manner  always tend to move away from the center of the circle which they describe.
+## 39. The Second law of nature: Every motion in itself is straight. Things which move in a circular manner  always tend to move away from the center of the circle which they describe.
 
 
 The second law of nature is: each particle of matter, considered separately, moves only along straight lines.
@@ -48,7 +48,7 @@ We experience this by the very sense of touch in a stone while we whirl it aroun
 
 
 
-<!-- #### 40. The third law: when one body meets another stronger, it loses nothing of its motion; in encountering a less strong man, he loses as much as he transfers into it.
+<!-- ## 40. The third law: when one body meets another stronger, it loses nothing of its motion; in encountering a less strong man, he loses as much as he transfers into it.
 
 The third law of nature is this: When a body in motion encounters another, if it has less force to proceed in a straight line than the other has to resist it, then it is deflected in another direction and, while retaining its motion, loses only the determination of its motion. 
 
@@ -62,7 +62,7 @@ The power that minds, whether human or angelic, have in moving bodies is discuss
  -->
 
 
-#### 40. The Third Law: A body does not lose its motion when it encounters a more powerful body. But it transfers some of its motion when it encounters a less powerful body
+## 40. The Third Law: A body does not lose its motion when it encounters a more powerful body. But it transfers some of its motion when it encounters a less powerful body
 
 Body `weak` has less force than body `strong`. If `weak`, moving in a straight line, hits `strong`, then `weak` will be deflected, retaining its motion but losing its direction.*
 

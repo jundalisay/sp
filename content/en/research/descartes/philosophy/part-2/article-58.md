@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 58. If fluid particles move more slowly than a hard body within in it, then it does not have the character of a fluid.
+## 58. If fluid particles move more slowly than a hard body within in it, then it does not have the character of a fluid.
 
 Body `B` will begin to move when:
 - it is pushed by a force from `F` going to `C`
@@ -44,7 +44,7 @@ nor is the smallest force then sufficient to move the hard body existing in this
 It only remains here to explain why I did not say a little earlier that the determination of the particles ayuo is changed absolutely, but changed insofar as this is required not to impede the motion of the body B. For this body B cannot move faster than it is impelled by the adventitious force; although often all the particles of the fluid FD have much more agitation. And this is one of the things that we must particularly observe in philosophizing, so as not to attribute any effect to a cause that exceeds its power. Thus, assuming the hard body B, previously at rest in the middle of the fluid FD, is now being impelled with slow motion by some external force, for example by my hand, since this single impulse of my hand is the cause why it moves, it is not to be believed that it moves faster than it is impelled; and although all the fluid particles move much faster, it is not to be thought that they are determined to the circular motions aeioa and ayuoa and the like, which are faster than this impulse, but that they, insofar as they are driven faster, are carried in any other directions, as before. -->
 
 
-#### 59. A hard body, pushed by another hard body, does not borrow all its motion from it, but also partly from the surrounding fluid
+## 59. A hard body, pushed by another hard body, does not borrow all its motion from it, but also partly from the surrounding fluid
 
 When body `B` is thus moved towards `C`, its motion does not come solely from the external force pushing it.
 - Rather most of it comes from the fluid particles.
@@ -59,7 +59,7 @@ This is because they will now be part of the circular motions `AEIOA` and `AYUOA
 As they proceed further towards `C`, they will join new fluid particles.
 
 
-#### 60. However, it cannot acquire more speed from this fluid than what it already has from the impacted solid
+## 60. However, it cannot acquire more speed from this fluid than what it already has from the impacted solid
 
  <!-- has from the solid against which it is impacted. -->
 

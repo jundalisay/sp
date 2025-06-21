@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 62. The distinction of reason (logical distinction).
+## 62. The distinction of reason (logical distinction).
 
 The distinction of reason is that between:
 - a substance and
@@ -34,7 +34,7 @@ But there it was only necessary to treat of these distinctions generally, and it
 
 
 
-#### 63. How thought and extension [metaphysical space] may be distinctly known, as constituting, the one the nature of mind, the other that of body.
+## 63. How thought and extension [metaphysical space] may be distinctly known, as constituting, the one the nature of mind, the other that of body.
 
 Thought and extension [metaphysical space] may be regarded as constituting the natures of intelligent and corporeal substance.
 
@@ -47,7 +47,7 @@ There is some difficulty in abstracting the notion of substance from the notions
 A concept is not more distinct because it comprehends fewer properties, but because we accurately distinguish what is comprehended in it from all other notions.
 
 
-#### 64. How these may likewise be distinctly conceived as modes of substance.
+## 64. How these may likewise be distinctly conceived as modes of substance.
 
 Thought and extension [metaphysical space] may be also considered as modes of substance.
 
@@ -60,7 +60,7 @@ They are modally distinguished from substance, and can be conceived not less cle
 For by regarding them as in the substances of which they are the modes, we distinguish them from these substances, and take them for what in truth they are: whereas, on the other hand, if we wish to consider them apart from the substances in which they are, we should by this itself regard them as self-subsisting things, and thus confound the ideas of mode and substance.
 
 
-#### 65. How we may likewise know their modes
+## 65. How we may likewise know their modes
 
 The diverse modes of thought are intellection, imagination, recollection, volition, etc.
 
@@ -72,7 +72,7 @@ We can best understand these modes if we consider them simply as modes of the th
 
 
 
-#### 66. How our sensations, affections, and appetites may be clearly known, although we are frequently wrong in our judgments regarding them.
+## 66. How our sensations, affections, and appetites may be clearly known, although we are frequently wrong in our judgments regarding them.
 
 
  <!-- our sensations, affections, and appetites if we take care to comprehend in the judgments we form of them only that which is precisely contained in our perception of them, and of which we are immediately conscious.  -->
@@ -99,7 +99,7 @@ For example, when we saw a colour, we thought we saw something outside of us. Th
 We then seemed to see this so clearly and distinctly that we esteemed it (i.e., the externality of the colour) certain and indubitable.
 
 
-#### 67. We are frequently deceived in our judgments regarding pain itself.
+## 67. We are frequently deceived in our judgments regarding pain itself.
 
 The same prejudice has place in all our other sensations, even in those of titillation and pain. 
 
@@ -114,7 +114,7 @@ There is no reason, however, to constrain us to believe that the pain, for examp
 Both these beliefs are prejudices of our early years, as will clearly appear in the sequel.
 
 
-#### 68. How in these things what we clearly conceive is to be distinguished from possibly wrong things.
+## 68. How in these things what we clearly conceive is to be distinguished from possibly wrong things.
 
 <!-- that in which we may be deceived. -->
 
@@ -143,7 +143,7 @@ So the first step to distinguish what is clear in our sensations from what is ob
 yet, if he reflects on what the sensation of colour or pain represents to him as existing in a coloured body or in a wounded member, he will find that of such he has . -->
 
 
-#### 69. Magnitude, figure, etc., are known far differently from colour, pain, etc.
+## 69. Magnitude, figure, etc., are known far differently from colour, pain, etc.
 
 Philosophers fancy other kinds of motion. They have rendered the nature of motion less intelligible to themselves.
 
@@ -154,7 +154,7 @@ When we see a body, we are not less assured of its existence from its appearing 
 {{< f f="by the colour we perceive on occasion of it.— FRENCH." >}}
 
 
-#### 70. We judge of sensible things in 2 ways:
+## 70. We judge of sensible things in 2 ways:
 
 1. A way which we avoid error
 2. A way which we fall into error

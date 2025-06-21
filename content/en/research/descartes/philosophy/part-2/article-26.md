@@ -23,7 +23,7 @@ But if we consider not so much from common usage, but from the truth of the matt
 **XXVI. No more action is required for motion than for rest.** -->
 
 
-#### 26. Effort is both needed for action and rest
+## 26. Effort is both needed for action and rest
 
 People wrongly think that more action is required for motion than for rest. 
 
@@ -53,7 +53,7 @@ For example, we use the same force to:
 
 
 
-#### 27. Motion and rest are merely two different modes of a moving body
+## 27. Motion and rest are merely two different modes of a moving body
 
  <!-- only with the translation and the absence of translation, that is, rest, it is clear that  -->
 
@@ -81,7 +81,7 @@ In this way, motion and rest are but 2 different modes of the body.
 
 <!-- ### 28. Motion properly taken is not to be referred to, except to the bodies contiguous to it which are moved.  -->
 
-#### 28. Local motion only happens when the body is moved from the bodies contiguous to it 
+## 28. Local motion only happens when the body is moved from the bodies contiguous to it 
 
 <!-- The transference of force takes place from the vicinity of contiguous bodies, to the vicinity of others, but not from one place to another. This is because the reception of the place is varied, and depends on our thought: but when we understand it by motion -->
 
@@ -100,7 +100,7 @@ This is because at any given moment, **only one body can be contiguous to the sa
 <!-- ### 29. Nor are they to be referred to except to those bodies contiguous: which are looked upon as if they were at rest -->
 
 
-#### 29. Local motion only happens when the bodies contiguous to the moving body are at rest.
+## 29. Local motion only happens when the bodies contiguous to the moving body are at rest.
 
 This transfer occurs not just between any contiguous bodies, but only those that are perceived as being at rest.
 
@@ -120,7 +120,7 @@ We are used to standing on the earth and consider it as at rest. We do not think
 
 
 
-#### 30. When 2 contiguous bodies are separated from each other, why is one is said to be moving instead of the other? 
+## 30. When 2 contiguous bodies are separated from each other, why is one is said to be moving instead of the other? 
 
 This is because motion is that of the body that is moving and not of the entire Earth that it is moving on.
 

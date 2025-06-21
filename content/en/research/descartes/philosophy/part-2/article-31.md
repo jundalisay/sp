@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 31. How innumerable diverse motions* may be in the same body
+## 31. How innumerable diverse motions* may be in the same body
 
 <!-- n n="This is now called Brownian Motion" -->
 
@@ -50,7 +50,7 @@ This is why we consider each motion of each body only.
 
 
 
-#### 32. How the proper cost of movement, which is also unique in the body, is taken for the sake of many.
+## 32. How the proper cost of movement, which is also unique in the body, is taken for the sake of many.
 
 Every single motion of a body is also made up of multiple motions.
 

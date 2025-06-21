@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-#### 19. This confirms what was said of Decompression.
+## 19. This confirms what was said of Decompression.
  <!-- Rarefaction -->
 
 The nature of corporeal substance consists only in its being an extended [metaphysical] thing.
@@ -32,7 +32,7 @@ This is because the quantity of particles that a body is composed of does not de
 <!-- extension -->
 
 
-#### 20. From this, the non-existence of indivisible atoms may be demonstrated
+## 20. From this, the non-existence of indivisible atoms may be demonstrated
 
 This means that there are no such thing as indivisible atoms or indivisible matter particles. 
 
@@ -61,7 +61,7 @@ We suppose that God had reduced any particle of matter to extreme smallness that
 
 
 
-#### 21. The metaphysical space of the world is indefinite
+## 21. The metaphysical space of the world is indefinite
 <!-- extension -->
 
 This world or the universe of corporeal substance, is extended without limit.
@@ -77,7 +77,7 @@ This is because the idea of metaphysical space which we conceive in any physical
 
 <!-- ### 22. It also follows that the matter of the heavens and earth is the same, and that there cannot be a plurality of worlds. -->
 
-#### 22. It also follows that the aethereal substance of space and matter is the same, and that there cannot be a  plurality of worlds*
+## 22. It also follows that the aethereal substance of space and matter is the same, and that there cannot be a  plurality of worlds*
 
 {{< n n="The 'worlds' here would mean causes. It means a single phenomenon has a single root cause and not many" >}}
 
@@ -97,7 +97,7 @@ This is because matter already totally occupies all the imaginable spaces where 
 We cannot find in ourselves the idea of any other matter.
 
 
-#### 23. All the variety of matter, or the diversity of its forms, depends on motion.
+## 23. All the variety of matter, or the diversity of its forms, depends on motion.
 
  <!-- matter -->
 There is therefore just one kind of substance in the whole universe. This we know only by its metaphysical space. 

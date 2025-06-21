@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-### 53. The use of these rules is difficult because each body is touched by many at the same time
+## 53. The use of these rules is difficult because each body is touched by many at the same time
 
 In the world, there are:
 - no bodies that are so isolated from all others
@@ -29,7 +29,7 @@ These have very different effects depending on whether they are hard or fluid.
 Therefore, the diversity in this regard must be investigated.
 
 
-#### 54. Which bodies are hard, and which are fluids.
+## 54. Which bodies are hard, and which are fluids.
 
 The particles of fluids easily move away from their positions. Therefore, they do not resist when our hands move towards them.
 
@@ -48,7 +48,7 @@ Hence:
 - solids are bodies whose individual particles all remain at rest relative to each other
 
 
-#### 55. The particles of solid bodies are joined together by no other glue than their own stillness
+## 55. The particles of solid bodies are joined together by no other glue than their own stillness
 
 We cannot conceive of any glue that would bind the particles of solid bodies more firmly than their own stillness.
 

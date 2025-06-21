@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-#### 146. The first production of all the Planets
+## 146. The first production of all the Planets
 
 <!-- If all these things are considered, nothing will occur concerning the phenomena of the Planets that does not entirely agree with the laws of nature explained by us, the reason for which cannot easily be given from what has already been said.  -->
 
@@ -37,7 +37,7 @@ These were larger than the others.
  The planets of the remaining vortices, if there were ever more than fourteen in this space, turned into Comets.
 
 
-#### 147. Why some Planets are more distant from the Sun than others, and why distance does not depend solely on their size. 
+## 147. Why some Planets are more distant from the Sun than others, and why distance does not depend solely on their size. 
 
 <!-- Thus, now seeing the primary Planets, Mercury, Venus, Earth, Mars, Jupiter, and Saturn, being carried to different distances around the Sun, we will judge that this happens  -->
 
@@ -51,7 +51,7 @@ Those which are closer to the Sun have less solidity than the more distant ones.
 Mars is smaller than Earth but is farther from the Sun. This is because it can still be denser since solidity does not depend solely on size.
 
 
-#### 148. Why those closer to the Sun move faster than others, and yet its spots are the slowest. 
+## 148. Why those closer to the Sun move faster than others, and yet its spots are the slowest. 
 
 The inferior Planets revolve faster in their orbit than the farther planets. 
 

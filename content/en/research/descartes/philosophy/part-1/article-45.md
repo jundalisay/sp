@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 45. What constitutes clear and distinct perception?
+## 45. What constitutes clear and distinct perception?
 
 There are many persons who, through their whole lifetime, never perceive anything in a way necessary for judging of it properly. The knowledge upon which we can establish a certain and indubitable judgment must be both clear and distinct. 
 
@@ -26,7 +26,7 @@ This is the same we clearly see objects when they stimulate the eye with suffici
 [Footnote: "what appears manifestly to him who considers it as he ought."— FRENCH.]
 
 
-#### 46. A perception may be clear without being distinct, but that it cannot be distinct unless it is clear.
+## 46. A perception may be clear without being distinct, but that it cannot be distinct unless it is clear.
 
 For example, when any one feels intense pain, the knowledge of this pain is very clear. But it is not always distinct.
 
@@ -35,7 +35,7 @@ Men usually confound it with the obscure judgment they form regarding its nature
 Thus, perception may be clear without being distinct. But it can never be distinct without being clear.
 
 
-#### 47. To correct the prejudices of our early years, we must consider what is clear in each of our first or simple notions.
+## 47. To correct the prejudices of our early years, we must consider what is clear in each of our first or simple notions.
 
 <!-- [Footnote: "first."— FRENCH.] -->
 
@@ -52,7 +52,7 @@ I will:
 - distinguish in each what is clear from what is obscure, or fitted to lead into error.
 
 
-#### 48. Things or the affections of things
+## 48. Things or the affections of things
 
 <!-- All the objects of our knowledge are to be regarded either (1) as things or the affections of things: or (2) as eternal truths; with the enumeration of things. -->
 
@@ -81,7 +81,7 @@ There are, however, besides these, certain things of which we have an internal e
 Of this class are the appetites of hunger and thirst, etc., and also the emotions or passions of the mind which are not exclusively mental affections, as the emotions of anger, joy, sadness, love, etc.; and, finally, all the sensations, as of pain, titillation, light and colours, sounds, smells, tastes, heat, hardness, and the other tactile qualities.
 
 
-#### 49. The eternal truths cannot be enumerated. But it is not necessary to enumerate them.
+## 49. The eternal truths cannot be enumerated. But it is not necessary to enumerate them.
 
 <!-- What I have already enumerated we are to regard as things, or the qualities or modes of things. We now come to speak of eternal truths.  -->
 
@@ -107,7 +107,7 @@ But we do not need to enumerate them all because if have no prejudices to blind 
 
 
 
-#### 50. These truths are clearly perceived, but not equally by all men, on account of prejudices.
+## 50. These truths are clearly perceived, but not equally by all men, on account of prejudices.
 
 These common notions can be clearly and distinctly known. 
 

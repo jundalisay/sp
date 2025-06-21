@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 149. Why the Moon revolves around the Earth. 
+## 149. Why the Moon revolves around the Earth. 
 
 
 The Moon revolves around the Sun and the Earth at the same time.
@@ -63,14 +63,14 @@ All the air-aether in the space `ABCD` carries the Moon. This creates a vortex a
 <!-- Thus, it will also cause , while all these things at the same time are carried around the center `S` through the circle `NeZ`. -->
 
 
-#### 150. Why the Earth rotates around its axis. 
+## 150. Why the Earth rotates around its axis. 
 
 There are various reasons why the Earth rotates around its own axis. It was previously a star, located at the center of some vortex, where it rotated.
 
 It still has similar motions, impelled by the fire-aether gathered in its center.
 
 
-#### 151. Why the Moon moves faster than the Earth
+## 151. Why the Moon moves faster than the Earth
 
 The Earth revolves about its axis nearly 30 times, while the Moon only once traverses the circumference of the circle `ABCD` which is around 60 times larger than the Earth's orbit.
 
@@ -81,7 +81,7 @@ Both are acted on by the same air-aether which moves not less quickly near the E
 And so there is no other cause for the faster speed of the Moon than that it is smaller than the Earth.
 
 
-#### 152. Why the same side of the Moon always faces the Earth. 
+## 152. Why the same side of the Moon always faces the Earth. 
 
 The same part of the Moon always faces the Earth, or at least does not deflect much from it.
 
@@ -96,7 +96,7 @@ These are evidences for its lesser solidity.
 The cause of this lesser solidity may be that another side of it, which never comes into our view, only receives the direct light from the Sun; whereas the facing side also receives that which is reflected from the Earth.
 
 
-#### 153. Why the Moon moves faster and deviates less from its mean motion in conjunctions than in quadratures. Why its sky is not round.
+## 153. Why the Moon moves faster and deviates less from its mean motion in conjunctions than in quadratures. Why its sky is not round.
 
 The Moon seems to move somewhat faster and deviate less from its course in all directions when it is full or new, than when it appears only half, or when it is towards parts of the sky B or D, than when it is towards A or C.
 

@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-#### 13. What is external place?
+## 13. What is external place?
 
 The words 'place' and 'space' signify nothing really different from body which is in place.
 - They merely designate its size, shape, and location among other bodies. 
@@ -32,7 +32,7 @@ For example, imagine a ship being carried out to sea.
 I assert that all points are movable in the universe. From this, I conclude that nothing has a permanent place unless it is fixed by our thought.
 
 
-#### 14. What is the difference between 'place' and 'space'?
+## 14. What is the difference between 'place' and 'space'?
 
 The terms 'place' and 'space' have different meanings. 
 - 'Place' expressly designates location instead of size or shape [i.e. point]
@@ -54,7 +54,7 @@ So when we say that a thing is in a particular place, we mean merely that it is 
 When we add that it occupies such a space or place, we understand besides that it is of such determinate size and shape as exactly to fill this space.
 
 
-#### 15. How external place is rightly taken for the surfaces of the surrounding body
+## 15. How external place is rightly taken for the surfaces of the surrounding body
 
 Thus, we never distinguish space [i.e. area] from length, width, and height.
 

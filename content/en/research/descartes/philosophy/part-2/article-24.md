@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 24. What is motion?
+## 24. What is motion?
 
 There is only local motion*. Local motion is the action by which a body **migrates** from one place to another. 
 
@@ -61,7 +61,7 @@ We are accustomed to suppose that:
  But if, instead of occupying ourselves with that which has no foundation, unless in ordinary usage, we desire to know what ought to be understood by motion according to the truth of the thing, we may say, in order to give it a determinate nature, that it is  -->
 
 
-#### 25. What is true motion?
+## 25. What is true motion?
 
 True motion is **THE TRANSLATION OF A WHOLE BODY (with its particles) FROM THE VICINITY OF THOSE BODIES AT REST THAT ARE IN IMMEDIATE CONTACT WITH IT, to the vicinity of other bodies**.
 
