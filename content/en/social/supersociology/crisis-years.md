@@ -161,4 +161,14 @@ Therefore regarding the 2024 elections, it would have been better for the Democr
 
 ### Update June 2025
 
-It turns out that Israel was be the vector that actually started the war. 
+It turns out that Israel was the vector that actually started the war, even earlier than the China-Taiwan war scheduled for 2027. 
+
+The current Israel-Iran war is in line with our original 2015 prediction that 2020 would have began as a US/Saudi vs Iran/Yemen war. The assassination of Soleimani would have sparked it and so it means that Western history was totally predictable. 
+
+However, Covid disrupted that war with a new war against Nature. Now that Covid is gone, the original prediction is running again. 
+
+This means that without Covid, the pattern would have been Saudi-Iran 2020, Ukraine-Russia 2023, then Taiwan-China 2027. 
+
+But because there was Covid, it became Ukraine-Russia 2022, Israel-Iran 2025, Taiwan-China 2027. 
+
+Regardless, the peak crisis years would still be 2025-2030. The specifics might change, but the general pattern does not, since it is unbroken from the 13th century and theoretically even goes far back into the founding of Rome. 
