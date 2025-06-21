@@ -29,9 +29,10 @@ Country | Year Prediction was Made | Prediction | Outcome
 --- | --- | --- | ---  
 World | 2015 | A global crisis will spark in 2019 marking the start of a long crisis which we call 'The Crisis Years' | {{< color color="green" val="Correct" >}}
 World | 2019 | A global financial crisis will emerge in a certain year between 2020-2030 as a result of that 2019 crisis | {{< c v="green" >}}Semi-correct, split as the US banking Crisis and the fall of cyrpto{{< /c >}}
-![PH flag](/flags/ph.png) | 5/2025 | Duterte and his allies will win nin the midter elections | {{< c v="green" >}}Correct{{< /c >}}
+World | 2019 | A large scale war will happen between 2025-2030 | {{< color color="orange" val="Pending" >}}
+![PH flag](/flags/ph.png) | 5/2025 | Duterte and his allies will win in the midterm elections | {{< c v="green" >}}Correct{{< /c >}}
 ![German flag](/flags/de.png) | 12/2024 | [BSW](/social/cycles/germany) (Left) will win more seats than AfD as a result of the Worker Cycle | {{< c v="red" >}}Wrong. This means Germany is in warrior, not worker cycle. The worker Left did get more votes than previously, but not more than the warrior parties{{< /c >}}
-![US flag](/flags/us.png) | 2024 | The US will participate in a war or large battle towards the end of Trump's term | {{< c v="orange" >}}Pending{{< /c >}}
+![US flag](/flags/us.png) | 2024 | The US will participate in a war or large battle towards the end of Trump's term | {{< c v="green" >}}Correct. Trump joined the Israel Iran war, violating his promise of staying away from war{{< /c >}}
 ![US flag](/flags/us.png) | 2024 | Harris will win, as we estimate that the US is leaving its Warrior Cycle. In reality, Trump won, which means the US is still in the Warrior Cycle that it was in back in 2016. This necessarily leads to a World War 3 prediction above. We explain our wrong prediction [here](/social/supersociology/crisis-years/) | {{< c v="red" >}}Wrong{{< /c >}}
 ![Russian flag](/flags/ru.png) | 2023 | Russia will step up its offensives against Ukraine despite the lack of resources | {{< color color="green" val="Correct" >}}
 ![Israel flag](/flags/il.png) | 2023 | The Gaza war will continue well beyond 12 months. | {{< c v="Green" >}}Correct{{< /c >}}
@@ -54,7 +55,7 @@ World | 2019 | A global financial crisis will emerge in a certain year between 2
 ![Philippine flag](/flags/ph.png) | 2016 | Roxas will win the elections | {{< color color="red" val="Wrong" >}}
 ![Iran flag](/flags/ir.png) | 2016 | The US will slowly lift more sanctions | {{< c v="red" >}}Wrong. In reality, Trump imposed new sanctions{{< /c >}}
 ![Great Britain flag](/flags/gb.png) | 2016 | Scotland will want to leave the UK | {{< color val="Semi-correct" >}}
-![Syria flag](/flags/sy.png) | 2015 | Assad will start losing ground to rebels by late 2016 (Update 2022: This is explained by the concept of [the balance of power](/social/cycles/russia)) | {{< color color="red" val="Wrong" >}}
+![Syria flag](/flags/sy.png) | 2015 | Assad will start losing ground to rebels by late 2016 (Update 2022: This is explained by the concept of [the balance of power](/social/cycles/russia)) | {{< color color="red" val="Wrong. In reality, Assad fell in 2024. At best, the prediction would be half-cycle correct." >}}
 ![Saudi flag](/flags/sa.png) | 2015 | The Jeddah Tower will not be completed on time | {{< color val="Correct" >}}
 ![Greek flag](/flags/gr.png) | 2015 | The Greek debt crisis will continue | {{< color val="Correct" >}}
 

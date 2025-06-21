@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-#### 38. According to Tycho's hypothesis, the Earth must move around its own center
+## 38. According to Tycho's hypothesis, the Earth must move around its own center
 
 The Brahean hypothesis is now commonly accepted by all those who reject the Copernican.
 
@@ -53,7 +53,7 @@ Thus, according to their hypothesis, the reason why the motion must be attribute
 But the reason why they attribute it to the heavens and quiet to the Earth is uncertain and imagined solely by them.
 
 
-#### 39. It moves around the Sun with annual motion.
+## 39. It moves around the Sun with annual motion.
 
 From the same Tycho's hypothesis, the Sun, revolving annually around the Earth, not only carries Mercury and Venus but also Mars, Jupiter, and Saturn, which are farther from it than the Earth is. 
 
@@ -64,7 +64,7 @@ Meanwhile, the Earth being separated by some force from the parts of this matter
 Therefore, this separation again, which involves the entire Earth and requires a peculiar action on it, must be called its motion.
 
 
-#### 40. The translation of the Earth does not cause any change in the appearance of the Fixed Stars because of their immense distance
+## 40. The translation of the Earth does not cause any change in the appearance of the Fixed Stars because of their immense distance
 
 One problem remains in my hypothesis.
 
@@ -83,7 +83,7 @@ This may seem incredible to those who:
 But it is not so strange to Astronomers who now know that the Earth is like a point compared to the heavens.
 
 
-#### 41. This great distance of the fixed stars is also required for the motions of Comets
+## 41. This great distance of the fixed stars is also required for the motions of Comets
 <!-- , which are now known to be in the heavens -->
 
 Comets are now well established not to move in our atmosphere. 

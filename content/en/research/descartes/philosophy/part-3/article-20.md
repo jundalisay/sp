@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 
 
 
-#### 20. The fixed stars are far as possible from Saturn 
+## 20. The fixed stars are far as possible from Saturn 
 
 1. We are not yet sure how far the fixed stars are from us.
 
@@ -34,7 +34,7 @@ But if we consider the omnipotence of God the Creator, distances can be very vas
 I will show below that a great space must be placed between the stars and the sphere of Saturn in order to explain the phenomena of the planets and the comets.
 
 
-#### 21. The Sun is like a flame, consisting of very mobile matter, but it does not migrate from one place to another. 
+## 21. The Sun is like a flame, consisting of very mobile matter, but it does not migrate from one place to another. 
 
 2. The Sun is like the fixed stars and is similar to a flame in that it emits light from itself.
 
@@ -53,7 +53,7 @@ In this way, we can also think that the Sun consists of very fluid and mobile ma
 But nonetheless, it imitates the fixed stars in that it does not migrate from one region of the heavens to another.
 
 
-#### 22. The Sun differs from flame in that it does not need fuel in the same way.
+## 22. The Sun differs from flame in that it does not need fuel in the same way.
 
 Nor should the comparison of the Sun with flame seem inappropriate, given that we do not see any flame here that does not continuously need fuel, which is not observed for the Sun. 
 
@@ -73,7 +73,7 @@ However, the air-aether around the Sun does not destroy it in this way. This is 
 Yet it will also be shown below that new matter always enters the Sun, and other matter escapes from it.
 
 
-#### 23. All fixed stars do not revolve in the same sphere. Instead, each one has a vast space around it, free from other fixed stars
+## 23. All fixed stars do not revolve in the same sphere. Instead, each one has a vast space around it, free from other fixed stars
 
 The Sun does not differ from the fixed stars in position. They do not all revolve around one sphere, as many suppose. This is because the Sun cannot be on the same circumference of that sphere. 
 
@@ -88,14 +88,14 @@ In the drawing:
 {{< i s="/graphics/physics/vortices.jpg" a="Vortices" >}}
 
 
-#### 24. Outer Space is Fluid
+## 24. Outer Space is Fluid
 
 3. The fire-aether of the Sun and fixed stars and the entire heaven [air-aether territory] is fluid or liquid, which all astronomers now generally concede.
 
 They see that the phenomena of the planets can hardly be explained otherwise.
 
 
-#### 25. The heavens carry along all bodies contained within them
+## 25. The heavens carry along all bodies contained within them
 
 <!-- But in this, many seem to me to err, in that while -->
 
@@ -114,7 +114,7 @@ This motion can easily go in all directions. Its force determines it to go in an
 Towards that direction, it necessarily carries along all the other bodies contained within it no matter how solid, stationary, and hard they may be, unless these are held back by any external cause.
 
 
-#### 26. The Earth rests in its heaven but is nonetheless carried by it
+## 26. The Earth rests in its heaven but is nonetheless carried by it
 
 4. The Earth is supported by no columns, hung by no ropes.
 
@@ -126,7 +126,7 @@ We should think that it rests and has no inclination to move, since we perceive 
 But we should not think this hinders it from being carried by that heaven and obeying its motions while remaining immobile: just as a ship, driven by no winds or oars, and anchored by no anchors, rests in the middle of the sea, even if perhaps a vast mass of water, descending with a hidden course, carries it along.
 
 
-#### 27. The same should be thought of all the planets. 
+## 27. The same should be thought of all the planets. 
 
 The other planets, like the Earth, are opaque and reflect the Sun’s rays. 
 

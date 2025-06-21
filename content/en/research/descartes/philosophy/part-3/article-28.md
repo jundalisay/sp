@@ -17,7 +17,7 @@ Sed saepe etiam exufu vulgi actionem omnem, quâ corpus aliquod ex uno loco in a
 immotse confiderantur. Ad hoc enim deberent ab omnibus fimul fejungi, quod non fit; fed quia materia cœli fluida eft, nunc unae ejus particulis, nunc aliae, à Planetâ quem contingunt removentur, idque per motum qui illis tantùm tribui débet, non autem Planetae : quemadmodum partiales tranflationes aquae & aëris, quae in terrae fuperficie fiunt, terrae, sed il lis aquae non tribui folent ipfi & aëris partibus quae transferuntur. -->
 
 
-#### 28. The Earth and the planets do not have a motion of their own 
+## 28. The Earth and the planets do not have a motion of their own 
 
  <!-- move even though they are transferred from the sky.  -->
 
@@ -73,7 +73,7 @@ And so, it is not proper to say that the Earth moves, but rather that it is move
 
 
 
-#### 29. The Earth does not move by itself, even if it and the other planets are seen to move. 
+## 29. The Earth does not move by itself, even if it and the other planets are seen to move. 
 
 Common people set the positions of the stars by thinking that the Earth is immobile.
 
@@ -104,7 +104,7 @@ If we consider the immensity of God and the weakness of our senses, we can suspe
 <!-- , in comparison with which the Earth can be said to rest, and all those stars together to move, than to suspect that no such bodies can exist. -->
 
 
-#### 30. All planets revolve around the Sun. 
+## 30. All planets revolve around the Sun. 
 
 The motion of the Earth is similar to the motion of the other planets.
 

@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 31. How individual planets are carried along. 
+## 31. How individual planets are carried along. 
 
 <!-- celestial matter -->
 Let `S` be the Sun. All the air-aether surrounding it moves in the same direction, from `A` through `B` towards `C`.
@@ -35,12 +35,12 @@ They are all carried by the air-aether in their respective circles.
 <!-- matter of the heavens -->
 
 
-#### 32. How sunspots are also carried
+## 32. How sunspots are also carried
 
 Likewise, certain opaque bodies, visible to us with telescopes and called sunspots, which are contiguous to the Sun's surface, circumnavigate it in 26 days.
 
 
-#### 33. How the Earth is also carried around its own center, and the Moon around the Earth
+## 33. How the Earth is also carried around its own center, and the Moon around the Earth
 
  <!-- celestial matter -->
 <!-- In water vortices, -->
@@ -68,7 +68,7 @@ In this way, after the Earth vortex goes around that great circle:
 - the Moon has revolved 12 times around the Earth.
 
 
-#### 34. The motions of the heavens are not perfectly circular. 
+## 34. The motions of the heavens are not perfectly circular. 
 
 All the centers of the planets do not always remain accurately in the same plane. 
 
@@ -77,7 +77,7 @@ The circles they describe are not entirely perfect.
 Instead, they are approximately such, and continually change over the centuries, as we see happening in all other natural things.
 
 
-#### 35. On the deviation of the planets in latitude. 
+## 35. On the deviation of the planets in latitude. 
 
 The "plane of the Ecliptic" is the plane in which the Earth's center moves throughout the year.
 
@@ -105,7 +105,7 @@ The Earth revolves around its own axis in the plane of the Equator, deviating by
 These deviations of the planets from the Ecliptic are called motions in latitude.
 
 
-### 36. The motion in longitude
+## 36. The motion in longitude
 
 Their revolutions around the Sun are called motions in longitude.
 
@@ -122,7 +122,7 @@ Each planet, including the Earth, will intersect the plane in which the Ecliptic
 Their maximum and minimum distances from the Sun will be found in different signs.
 
 
-### 37. All phenomena can be easily understood through this hypothesis
+## 37. All phenomena can be easily understood through this hypothesis
 
 I do not need to show from this hypothesis how the following happen:
 - day and night
