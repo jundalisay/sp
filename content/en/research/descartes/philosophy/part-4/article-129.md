@@ -1,5 +1,5 @@
 ---
-title: "Why is Glass Brittle and Transparent?"
+title: "Why is Glass Transparent?"
 heading: Articles 129-132
 weight: 35
 description: "It is not necessary for these glass channels to be perfectly straight but only uninterrupted."
@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 129. Why the fragility of glass decreases if it cools slowly
+## 129. Why the fragility of glass decreases if it cools slowly
 
 Glass is more fragile when it cools quickly than slowly.
 
@@ -42,7 +42,7 @@ But if glass is heated slowly and then gradually subjected to stronger heat, all
 - It will not break because all its channels will be dilated equally and at the same time.
 
 
-#### 130. Why is glass transparent?
+## 130. Why is glass transparent?
 
 During its formation, glass is liquid.
 
@@ -57,7 +57,7 @@ For example, glass can consist of perfectly thick, spherical, and equal particle
 - Such a glass will be completely transparent, even though it is much denser than the glass we currently have.
 
 
-#### 131. How does glass become colored?
+## 131. How does glass become colored?
 
 The materials from which glass is made have particles which resist fire more and are not as easily smoothed as others that compose it.
 
@@ -67,7 +67,7 @@ They acquire various colors depending on how these harder particles block its ch
 
 
 
-#### 132. Why is glass rigid like an arch? Why do rigid bodies, when bent, spontaneously return to their original shape?
+## 132. Why is glass rigid like an arch? Why do rigid bodies, when bent, spontaneously return to their original shape?
 
 Glass is rigid. But when it is drawn into very thin threads, it can be bent somewhat by an external force without breaking. 
 

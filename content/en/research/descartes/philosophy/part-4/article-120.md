@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-### 120. Burning, tasteless, and acidic waters
+## 120. Burning, tasteless, and acidic waters
 
 There are various kinds of evaporated earth-aether particles: 
 
@@ -35,7 +35,7 @@ These are extracted from salts through a significant force of fire.
 
 
 
-### 121. Sublimates and oils
+## 121. Sublimates and oils
 
 Some thicker particles, such as those of liquid mercury and salts, adhere to the tops of vessels and solidify into hard bodies.
 
@@ -52,7 +52,7 @@ This is why a strong force would break and tear them apart before they could be 
 Therefore, a lot of water is poured over them. The smooth and slippery particles of the water permeate these channels and gradually extract and carry them away.
 
 
-### 122. How changing the degree of heat changes its effect
+## 122. How changing the degree of heat changes its effect
 
 In all these cases, the degree of heat must be observed.
 
@@ -63,7 +63,7 @@ Many bodies, when first subjected to gentle heat and then gradually to stronger 
 They emit particles that they would not release but rather would entirely liquefy if tormented from the beginning with strong fires.
 
 
-### 123. Lime
+## 123. Lime
 
 The manner of applying fire also affects its result.
 

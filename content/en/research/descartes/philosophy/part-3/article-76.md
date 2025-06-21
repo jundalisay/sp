@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 
 
 
-#### 76. The motion of the fire-aether while moving among the air-aether globules 
+## 76. The motion of the fire-aether while moving among the air-aether globules 
 
 The fire-aether particles move among the air-aether globules. They have:
 - straight motion:
@@ -37,7 +37,7 @@ The fire-aether accumulated in the sun's body has very great force there due to 
 They spend all their forces in propelling the surrounding air-aether globules here and there.
 
 
-#### 77. How the Sun's light spreads not only towards the ecliptic but also towards the poles.
+## 77. How the Sun's light spreads not only towards the ecliptic but also towards the poles.
 
 The fire-aether particles contribute to that action called light. 
 - That action spreads not only towards the ecliptic but also towards the poles in all directions. 
@@ -50,7 +50,7 @@ If so, then at the same moment, all the globules contained in the cone `dHf` wou
 <!-- , whose base is the concave hemisphere `def`, -->
 
 
-#### 78. How It Spreads Along the Ecliptic
+## 78. How It Spreads Along the Ecliptic
 
 This spreading has already been demonstrated.
 - The small spheres within the triangle whose base is a semicircle of the solar ecliptic will move out, even if no light (action) of the fire-aether has been observed.
@@ -78,7 +78,7 @@ By their approach, the space that was previously there increases the Sun's body*
 {{< n n="This increase in size is the solar wind" >}}
 
 
-#### 79. The motion of one small body can easily move others, even if they are very far away
+## 79. The motion of one small body can easily move others, even if they are very far away
 
 All motion tends in a straight line.
 
@@ -91,7 +91,7 @@ This is why:
 - the light (action) of the sun and the most remote stars reaches the Earth in a very short time.
 
 
-#### 80. How the light of the sun tends towards the poles
+## 80. How the light of the sun tends towards the poles
 
 If space `N` is filled only with the fire-aether [meaning it had zero air-aether], then all the small air-aether spheres within the cone `gNe`, must be driven by the fire-aether in the Sun.
 
@@ -110,7 +110,7 @@ The fire-aether passes only through those very narrow gaps which the small air-a
 - This is similar to sand clocks wherein the sand falling from the upper part does not prevent the air from ascending from the lower part through the spaces between the grains of sand.
 
 
-#### 81. Is the force of the fire-aether equal at the poles and the ecliptic?
+## 81. Is the force of the fire-aether equal at the poles and the ecliptic?
 
 Are the small spheres in the cone `efg` driven with as much force towards `N` by the fire-aether of the Sun alone, as the small spheres `fgd` are driven towards `H`?
 

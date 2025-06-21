@@ -16,7 +16,7 @@ icon: "Rene Descartes"
 {{< n n="We replaced 'striated particles' with virtual photons">}}
 
 
-#### 87. The Various Degrees of Speed in the Minute Parts of the Fire-aether
+## 87. The Various Degrees of Speed in the Minute Parts of the Fire-aether
 
 
 
@@ -70,7 +70,7 @@ But the fire-aether in the red space must necessarily move.
 
 
 
-#### 88. Those slowest of the small particles easily transfer to others what little speed they have and then fuse to each other.
+## 88. Those slowest of the small particles easily transfer to others what little speed they have and then fuse to each other.
 
 Among the fire-aether are particles which are less divided than the rest, and less rapidly agitated.
 
@@ -89,7 +89,7 @@ This is because larger bodies, other things being equal, more easily transfer th
 -->
 
 
-#### 89. Such sticking minute parts are mainly found in the fire-aether which move from the poles to the vortex center 
+## 89. Such sticking minute parts are mainly found in the fire-aether which move from the poles to the vortex center 
 
 Such fire-aether move from the poles towards the center of their vortex in straight lines.
 
@@ -103,7 +103,7 @@ Then they gather into small masses.
 
 
 
-#### 90. What is the shape of these small particles, which I will call striated particles or virtual photons
+## 90. What is the shape of these small particles, which I will call striated particles or virtual photons
 
 <!-- What is the figure of these small particles, which will henceforth be called striated particles. Clearly, since they often pass through those narrow triangular spaces that are found in the middle of the three globules of the second element, which touch each other, they must take on a triangular figure in their width and depth. As for their length, it is not easy to determine, because it does not seem to depend on any other cause than the quantity of matter from which these small masses are formed; but it is enough to conceive of them as small columns, hollowed out with three striae twisted like spirals, so that they can pass by turning through those narrow passages, having the figure of a curvilinear triangle FGI, which are always found between the three globules of the second element, touching each other.  -->
 
@@ -133,7 +133,7 @@ This is because the air-aether globules rotate faster when closer to the axis an
 
 
 
-#### 91. These virtual photons coming from opposite poles are twisted in contrary directions
+## 91. These virtual photons coming from opposite poles are twisted in contrary directions
 
 
 They come towards the middle of the gravitational territory from opposite parts.
@@ -148,7 +148,7 @@ Magentic forces chiefly depend on this.
 
 
 
-#### 92. They only have 3 striations
+## 92. They only have 3 striations
 
 <!-- XCII. There are only three striations in them. But lest anyone perhaps think that I assert without reason that there can only be three striations in these first element particles, since the second element globules cannot always all touch each other in such a way as to leave only triangular spaces around them, I wish it to be noted here that any other larger spaces which are often found between those globules, always have their angles perfectly equal to those of the triangle FGI, and as for the rest are in perpetual change; 
 
@@ -196,7 +196,7 @@ They pass through long tracts of the sky. They often find themselves between 3 a
 They are not able to take on any definite shape that remains in them for a while, other than the one we have described.
 
 
-#### 93. The various sizes of fire-aether particles among the virtual photons and minute particles
+## 93. The various sizes of fire-aether particles among the virtual photons and minute particles
 
  <!-- striated -->
 

@@ -16,7 +16,7 @@ icon: "Rene Descartes"
 {{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 171. Why does a magnet attract iron?
+## 171. Why does a magnet attract iron?
 
 A magnet and iron approach each other. 
 
@@ -34,7 +34,7 @@ But a magnet is burdened by its heavy stony material.
 
 
 
-#### 172. Why does an armed magnet (a magnet equipped with iron) support much more weight than a bare magnet?
+## 172. Why does an armed magnet (a magnet equipped with iron) support much more weight than a bare magnet?
 
 <!-- But many wonder why a magnet equipped with iron, or an iron plate attached to a magnet, can support more weight than the magnet alone. -->
 
@@ -55,7 +55,7 @@ However, the grooves of the magnet do not align as well with the grooves of the 
 Hence, there must always be a slight gap between the magnet and the iron to allow the virtual photons to pass from one set of grooves to the other.
 
 
-#### 173. Why do its (the magnet's) poles, no matter how opposite they are, attract each other when supporting iron?
+## 173. Why do its (the magnet's) poles, no matter how opposite they are, attract each other when supporting iron?
 
 Even though the poles of a magnet appear to have opposite properties, they still attract each other when supporting iron. 
 
@@ -78,7 +78,7 @@ Then, flowing up to the South pole `a`, they encounter the other iron plate `FE`
 Conversely, when they exit from B, they pass through the armature EF, the suspended iron HG, and another armature DC, and return to A.
 
 
-#### 174. Why is the rotation of an iron wheel, suspended by the force of a magnet to which it is attached, not hindered?
+## 174. Why is the rotation of an iron wheel, suspended by the force of a magnet to which it is attached, not hindered?
 
 The motion of the virtual photons through the magnet and iron does not align with the circular motion of the twisted iron wheels. 
 - These wheels continue to rotate like a whirlwind while suspended from the magnet for a longer time than when they are detached and rest on the ground.
@@ -92,7 +92,7 @@ However, the wheels themselves always rotate, some in one direction and others i
 The motion of the wheel is less hindered by contact with the magnet, as it rotates while suspended, than it is by contact with the Earth when pressed by its own weight.
 
 
-#### 175. How and why does the force of one magnet increase or decrease?
+## 175. How and why does the force of one magnet increase or decrease?
 
 The force of one magnet can increase or decrease in various ways when influenced by the presence of another magnet or iron.
 
@@ -115,7 +115,7 @@ For example, magnet `C` is attracted to magnet `F` to hold the iron `DE` attache
 It can be so heavy that it could not be supported by magnet `F` alone if the other end `D` leaned against a different object than magnet `C`.
 
 
-#### 176. Why can't a magnet, no matter how strong it is, attract iron that is not in direct contact with a weaker magnet?
+## 176. Why can't a magnet, no matter how strong it is, attract iron that is not in direct contact with a weaker magnet?
 
 In the meantime, a certain force of magnet `F` is hindered by magnet `C`, specifically the force it has to attract iron `DE` towards itself. 
 
@@ -126,7 +126,7 @@ This is because the virtual photons passing through these 2 magnets and this iro
 Therefore, they cannot pull the iron `DE` towards `F`, not only due to the magnetic force but also because the iron is bound to magnet `C` through their contact.
 
 
-#### 177. Why can a weaker magnet or iron in contact with a stronger magnet attract itself?
+## 177. Why can a weaker magnet or iron in contact with a stronger magnet attract itself?
 
 <!-- This is why a weaker magnet or a small piece of iron often attracts another piece of iron from a stronger magnet.  -->
 
@@ -141,7 +141,7 @@ Then these two magnets are separated from each other.
 There is no specific reason why it adheres to one magnet more than the other, except perhaps that it touches the one with a larger surface area.
 
 
-#### 178. Why, in these Northern regions, is the South pole of a magnet stronger than the North pole?
+## 178. Why, in these Northern regions, is the South pole of a magnet stronger than the North pole?
 
 {{< img src="/graphics/physics/fig_85-4.jpg" >}}
 

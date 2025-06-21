@@ -18,7 +18,7 @@ icon: "Rene Descartes"
 
 
 
-#### 146. How do the virtual photons flow through the paths of the Earth?
+## 146. How do the virtual photons flow through the paths of the Earth?
 
 `Earth AB`  has `A`  as the South Pole, and `B` the North Pole.
 
@@ -44,7 +44,7 @@ The northern ones passes from `B` to `A` through the middle of the Earth.
 
 
 
-#### 147. The Earth's central region has well-defined paths for them to flow swiftly without any hindrance
+## 147. The Earth's central region has well-defined paths for them to flow swiftly without any hindrance
 
 Many new particles constantly emerge from sky `E` and `F` just as an equal number of them depart through other parts of the sky `G` and `H`. 
 
@@ -56,7 +56,7 @@ They either disperse along the way and lose their shapes through the air, water,
 As a result, they are sometimes broken apart by these encounters.
 
 
-#### 148. They pass through a magnet more easily than through other substances of this outer Earth
+## 148. They pass through a magnet more easily than through other substances of this outer Earth
 
 But if, by chance, these virtual photons encounter a magnet in that region, they will pass through it much more easily than through the air or other substances of the Earth's outer layers. 
 
@@ -66,7 +66,7 @@ This is more true when the magnet's channels have openings facing towards those 
 - This allows them to freely enter through those channels.
 
 
-#### 149. The poles of the magnet
+## 149. The poles of the magnet
 
 I call "South Pole" the side of the magnet where the virtual photons enter from the southern part of the sky.
 
@@ -93,7 +93,7 @@ This is because those particles that tend from the North Pole of the Earth throu
 
 
 
-#### 151. Why do they incline towards its center?
+## 151. Why do they incline towards its center?
 
 They also cause the magnet, depending on the different locations on Earth where it is situated, to incline one of its poles more or less towards the corresponding pole of the Earth.
 

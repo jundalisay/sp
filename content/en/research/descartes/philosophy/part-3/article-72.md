@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 
 
 <!-- [electromagnetic]  -->
-#### 72. How the fire-aether that composes the Sun moves.
+## 72. How the fire-aether that composes the Sun moves.
 
 <!-- It is worth considering a bit more carefully  -->
 
@@ -44,7 +44,7 @@ The space `defg` is larger than the passages through which the fire-aether enter
 <!-- n n="This is the magnetic field of the star" -->
 
 
-#### 73. Various inequalities in the position of the Sun's body.
+## 73. Various inequalities in the position of the Sun's body.
 
 This body must be spherical. 
 
@@ -85,7 +85,7 @@ Assume there are only 4 vortices `L, C, K, O`, all unequal. then the Sun `S` sho
 Having more vortices around it will cause an even greater inequality.
 
 
-#### 74. Various irregularities in the motion of its fire-aether.
+## 74. Various irregularities in the motion of its fire-aether.
 
 The fire-aether coming from the vortices `K` and `L` does not move towards `S` in as straight lines as towards some other parts.
 
@@ -124,7 +124,7 @@ The fire-aether will rotate slightly faster between `e` and `d`, or between `f` 
 Perhaps it will not rotate with completely equal speed between `e` and `d`, and between `f` and `g`.
 
 
-#### 75. These irregularities do not prevent it from being round.
+## 75. These irregularities do not prevent it from being round.
 
 This, however, cannot prevent the body from being nearly round. This is because its other motion from the poles towards the ecliptic, compensates for these irregularities.
 

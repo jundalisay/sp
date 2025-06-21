@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 48. The nature of water and why it easily turns into air or ice.
+## 48. The nature of water and why it easily turns into air or ice.
 
 Only 2 kinds of particles are found in water:
 
@@ -45,7 +45,7 @@ But when they act a little more strongly, they turn the thinner flexible water p
 
 
 
-#### 49. The ebb and flow of the sea
+## 49. The ebb and flow of the sea
 
 I have also explained in the Meteorology the causes of winds, by which the sea is agitated in various irregular ways.
 
@@ -68,7 +68,7 @@ If there were no Moon in this vortex, `T` would be at point `M`.
 {{< img src="/graphics/physics/moonnone.jpg" alt="Earth without the Moon" cap="`M` is the barycenter, while `T` is the center of the Earth-center. Without the moon, both `M` and `T` would be the same">}}
 
 
-#### How the moon pushes the earth away from the barycenter
+## How the moon pushes the earth away from the barycenter
 
 But with the Moon present at `B`, this center `T` would be between `M` and `D`. 
 

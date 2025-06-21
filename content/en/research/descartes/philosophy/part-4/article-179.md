@@ -18,7 +18,7 @@ icon: "Rene Descartes"
 
 <!-- ## The Magnetic Orbits -->
 
-#### 179. The observations that can be made about iron filings scattered around a magnet.
+## 179. The observations that can be made about iron filings scattered around a magnet.
 
 <!-- If we examine more closely how iron filings arrange themselves around a magnet, we will observe many things that confirm what has been said so far.  -->
 
@@ -67,7 +67,7 @@ Since these surfaces of the filings are small and uneven, it always happens that
 
 
 
-#### 180. Why does an iron plate attached to a magnet hinder its force of attraction or reversal of iron?
+## 180. Why does an iron plate attached to a magnet hinder its force of attraction or reversal of iron?
 
 The iron plate, when brought near the pole of a magnet, not only increases its force of sustaining iron, as mentioned before, but also impedes its ability to attract or reverse the polarity of iron. 
 
@@ -83,7 +83,7 @@ As a result, only a weak magnetic force from the entire Earth is felt here with 
 
 
 
-#### 181. Why does the interposition of any other body hinder it?
+## 181. Why does the interposition of any other body hinder it?
 
 But besides iron or magnet, no other body can be placed in the position of the plate `CD` that would hinder the magnet `AB` from exerting its force on the accumulation `EF`. 
 
@@ -95,7 +95,7 @@ Through these channels, the striated particles can pass as freely as through the
 
 
 
-#### 182. Why does an improper positioning of the magnet gradually weaken its powers?
+## 182. Why does an improper positioning of the magnet gradually weaken its powers?
 
 If iron or a magnet is held in a position different from its natural alignment towards the Earth or other nearby magnets for a long time, it gradually loses its strength. 
 
@@ -110,7 +110,7 @@ This interaction gradually distorts and disrupts the alignment of the magnetic d
 In essence, the prolonged obstruction of a magnet's natural alignment by holding it in a different position causes the incoming striated particles to interfere with its channels in a non-optimal way, gradually altering and corrupting the magnet's magnetic properties, resulting in a decrease in its overall strength.
 
 
-#### 183. Why does rust, moisture, and exposure also diminish them, and intense heat completely remove them?
+## 183. Why does rust, moisture, and exposure also diminish them, and intense heat completely remove them?
 
 The magnetic force is:
 - greatly diminished by moisture, rust, and exposure

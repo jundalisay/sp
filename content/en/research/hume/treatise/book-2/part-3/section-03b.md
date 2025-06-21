@@ -18,19 +18,18 @@ A passion is an:
 It does not contain any representative quality which renders it a copy of any other existence or modification.
 
 When I am angry, I actually have the passion.
-
-◦ In that emotion, I have no more a reference to any other object, than when I am thirsty, or sick, or more than five foot high.
+- In that emotion, I have no more a reference to any other object, than when I am thirsty, or sick, or more than five foot high.
 
 Therefore, it is impossible for anger to be opposed by truth and reason.
 - An opposition would mean that my copies of ideas are not really copies. 
 
 <!-- adiction consists in the disagreement of ideas, considered as copies, with the objects they represent. -->
 
-• Nothing can be contrary to truth or reason except what has a reference to it.
+Nothing can be contrary to truth or reason except what has a reference to it.
 
-◦ As the judgements of our understanding only have this reference, it follows that passions can be contrary to reason only so far as they are accompanied with some judgement or opinion.
+As the judgements of our understanding only have this reference, it follows that passions can be contrary to reason only so far as they are accompanied with some judgement or opinion.
 
-• This principle is so obvious and natural.
+This principle is so obvious and natural.
 
 Any affection is called unreasonable in only 2 senses:
 
@@ -42,7 +41,13 @@ Any affection is called unreasonable in only 2 senses:
 - choose insufficient means for the designed end
 - deceive ourselves in our judgement of causes and effects.
 
-Where a passion is neither founded on false suppositions, nor chooses means insufficient for the end, the understanding can neither justify nor condemn it.
+
+
+<!-- Where a passion is neither founded on false suppositions, nor chooses means insufficient for the end,  -->
+
+The understanding can neither justify nor condemn a passion if that passion has:
+- correct suppositions and
+- chooses means sufficient for the end.
 
 It is not contrary to reason for me:
 
@@ -73,46 +78,60 @@ Our passions yield to our reason without any opposition the moment we perceive t
 - the insufficiency of any means.
   
 I may desire any fruit as of an excellent relish.
-◦ But whenever you convince me of my mistake, my longing ceases.
+- But whenever you convince me of my mistake, my longing ceases.
 
-• I may will the performance of certain actions as means of obtaining any desired good.
+I may will the performance of certain actions as means of obtaining any desired good.
 
-◦ But my willing of these actions is:
+But my willing of these actions is:
 - only secondary
 - founded on the supposition that they are causes of the proposed effect.
 
 As soon as I discover the falsehood of that supposition, they must become indifferent to me.
 
 It is natural for someone not philosophical to imagine that the mind’s actions are entirely the same.
-        ◦ Its actions:
-            ▪ do not produce a different sensation
-            ▪ are not immediately distinguishable to the feeling and perception.
-    • Reason, for instance, exerts itself without producing any sensible emotion.
-        ◦ Reason scarce ever conveys any pleasure or uneasiness except in:
-            ▪ the more sublime disquisitions of philosophy, or
-            ▪ the frivolous subtleties of the school.
-    • Hence every action of the mind, which operates with the same calmness and tranquility, is confounded with reason by people who judge things from the first appearance.
-    • There are certain calm desires and tendencies, which though are real passions:
-        ◦ produce little emotion in the mind.
-        ◦ are more known by their effects than by the immediate feeling or sensation.
-    • These are two kinds of desires:
-        ◦ instincts originally implanted in our natures, such as:
-            ▪ benevolence and resentment
-            ▪ the love of life
-            ▪ kindness to children; or
-        ◦ the general appetite to good and aversion to evil.
-    • When any of these passions are calm, and cause no disorder in the soul, they are:
-        ◦ very readily taken for the determinations of reason
-        ◦ supposed to proceed from the same faculty with that, which judges of truth and falsehood.
-    • Their nature and principles have been supposed the same.
-        ◦ Because their sensations are not evidently different.
 
-    • Beside these calm passions which often determine the will, there are certain violent emotions of the same kind which have likewise a great influence on the will.
-        ◦ When I receive any injury from another, I often feel a violent passion of resentment.
-            ▪ This makes me desire his evil and punishment, independent of all considerations of pleasure and advantage to myself.
-        ◦ When I am immediately threatened with any grievous ill, my fears, apprehensions, and aversions:
-            ▪ rise to a great height
-            ▪ produce a sensible emotion.
+Its actions:
+- do not produce a different sensation
+- are not immediately distinguishable to the feeling and perception.
+    
+Reason, for instance, exerts itself without producing any sensible emotion.
+
+Reason scarce ever conveys any pleasure or uneasiness except in:
+- the more sublime disquisitions of philosophy, or
+- the frivolous subtleties of the school.
+
+Hence every action of the mind, which operates with the same calmness, is confounded with reason by people who judge things from the first appearance.
+
+There are certain calm desires and tendencies, which though are real passions:
+- produce little emotion in the mind.
+- are more known by their effects than by the immediate feeling or sensation.
+
+These are 2 kinds of desires:
+
+1. Instincts originally implanted in our natures, such as:
+  - benevolence and resentment
+  - the love of life
+  - kindness to children; or
+    
+2. The general appetite to good and aversion to evil.
+
+
+When any of these passions are calm, and cause no disorder in the soul, they are:
+- very readily taken for the determinations of reason
+- supposed to proceed from the same faculty with that, which judges of truth and falsehood.
+
+Their nature and principles have been supposed the same.
+- Because their sensations are not evidently different.
+
+Beside these calm passions which often determine the will, there are certain violent emotions of the same kind which have likewise a great influence on the will.
+
+When I receive any injury from another, I often feel a violent passion of resentment.
+
+This makes me desire his evil and punishment, independent of all considerations of pleasure and advantage to myself.
+
+When I am immediately threatened with any grievous ill, my fears, apprehensions, and aversions:
+- rise to a great height
+- produce a sensible emotion.
 
 
 The common error of metaphysicians is in:
@@ -120,12 +139,14 @@ The common error of metaphysicians is in:
 - supposing the other to have no influence.
 
 Men often act knowingly against their interest.
-        ◦ For which reason the view of the greatest possible good does not always influence them.
+
+For which reason the view of the greatest possible good does not always influence them.
 
 Men often counteract a violent passion in prosecution of their interests and designs.
-        ◦ It is not therefore the present uneasiness alone which determines them.
-    • Both these principles operate on the will.
-        ◦ Where they are contrary, either of them prevails according to the person’s general character or present disposition.
+- It is not therefore the present uneasiness alone which determines them.
+
+Both these principles operate on the will.
+- Where they are contrary, either of them prevails according to the person’s general character or present disposition.
 
 The strength of mind implies the prevalence of the calm passions above the violent ones.
 - No one constantly has this virtue to never yield to the solicitations of passion and desire.

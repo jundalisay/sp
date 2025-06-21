@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 139. The nature of the magnet
+## 139. The nature of the magnet
 
 By ascending in this way through the veins of the outer Earth, the iron fragments turn sometimes in one direction and sometimes in another.
 
@@ -36,7 +36,7 @@ This is why:
 
 
 
-#### 140. How steel is made by melting any kind of iron
+## 140. How steel is made by melting any kind of iron
 
 
 
@@ -72,7 +72,7 @@ The encounter of other drops smoothens whatever is rough and angular to join the
  <!-- in the fragments of which it is composed, is thrust from its surface to the interior parts, and thus all the parts of each little drop are  -->
 
 
-#### 141. Why is Steel very hard, rigid, and fragile?
+## 141. Why is Steel very hard, rigid, and fragile?
 
 In this way, the entire liquid divided into drops or small lumps cools rapidly and  solidifies into very hard, rigid, and fragile steel, almost like glass.
 
@@ -85,7 +85,7 @@ It is:
   - This contact can only occur in very few and very small places.
 
 
-#### 142. The difference between steel and other iron.
+## 142. The difference between steel and other iron.
 
 Not all lumps are equally suitable for turning into steel.
 
@@ -96,7 +96,7 @@ If the fragments of the lumps are so angular and brittle that they adhere to eac
 Or vice versa, if it is so strong that it disturbs the suitable position of these fragments, the result is considered not steel but softer and more flexible iron.
 
 
-#### 143. How is steel tempered?
+## 143. How is steel tempered?
 
 Steel, if heated again, does not easily melt because:
 - its lumps are too thick and solid to be moved intact by heat 
@@ -129,7 +129,7 @@ For example, swords, saws, files, or other tools made from it should not always 
 Therefore, when it is immersed in certain liquids, it is rightly said to be tempered.
 
 
-#### 144. The difference between the channels of a magnet, steel, and iron.
+## 144. The difference between the channels of a magnet, steel, and iron.
 
 There are many channels in both steel and iron suitable for receiving virtual photons. 
 

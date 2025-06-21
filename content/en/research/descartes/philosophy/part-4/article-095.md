@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 95. How a Candle Burns
+## 95. How a Candle Burns
 
 A lit candle `AB`, made of particles of wax or any other oily material, is in space `CDE`, through which its flame extends.
 - These wax particles, as well as many air-aether globules, float.
@@ -25,7 +25,7 @@ However, both these have the fire-aether so innate in them that they are carried
 They often touch and push each other. But they do not support each other from every side, as they usually do in places where there is no fire.
 
 
-#### 96. How fire is sustained in a candle
+## 96. How fire is sustained in a candle
 
 The fire-aether in the flame tends to escape from where it is because it moves very swiftly.
 
@@ -42,14 +42,14 @@ However, earth-aether particles constantly emanate from the wick `FG`.
 
 
 
-#### 97. Why a Candle's Flame becomes pointed, and smoke issues from it.
+## 97. Why a Candle's Flame becomes pointed, and smoke issues from it.
 
 The flame is usually pointed becase these particles tend mainly upward.
 
 They act much faster than the air particles that they repel. And so, they cannot be hindered by the air from proceeding further towards `H`, where they gradually deposit their agitation and turn into smoke.
 
 
-#### 98. How air and other bodies feed the flame.
+## 98. How air and other bodies feed the flame.
 
 If the smoke could not find any space in the entire air, because there is no vacuum anywhere except where it exits from the flame, it would return with a circular motion towards it. 
 
@@ -72,7 +72,7 @@ This constantly renews and preserves the flame.
 - It does not remain the same, just as rivers to which new waters constantly flow always change.
 
 
-#### 99. The circular motion of air towards fire
+## 99. The circular motion of air towards fire
 
 The circular motion of air and smoke can be experienced whenever a large fire is kindled in a closed room. 
 
@@ -81,7 +81,7 @@ If the room is closed in such a way that, besides the chimney pipe through which
 
 
 
-#### 100. Those things that extinguish fire
+## 100. Those things that extinguish fire
 
 
 Two things are required to preserve fire:
@@ -100,7 +100,7 @@ Thus, the flame of an inverted candle is smothered by its wax.
 
 
 
-#### 101. What is required for a body to sustain fire?
+## 101. What is required for a body to sustain fire?
 
 2. The fire should adhere to some body from which new matter can access it, to the place where the smoke is going. 
 

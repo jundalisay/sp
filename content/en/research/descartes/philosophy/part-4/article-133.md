@@ -15,7 +15,7 @@ icon: "Rene Descartes"
 {{< n n="Here we replace striated particles with virtual photons in order to make it easier to understand" >}}
 
 
-### 133. The Magnet
+## 133. The Magnet
 
 <!-- . Repetition of what is required from the above to explain it. -->
 
@@ -62,7 +62,7 @@ They pass through it again, creating a kind of vortex there.
 
 
 
-### 134. There are no suitable channels for receiving virtual photons in air or water.
+## 134. There are no suitable channels for receiving virtual photons in air or water.
  <!-- striated particles  -->
 
 The virtual photons return from one pole to another through that ether. This created 4 different bodies:
@@ -87,7 +87,7 @@ This is because:
 Therefore, if there were channels there once, corrupted by this continuous movement, they would have been destroyed by now.
 
 
-### 135. There are also no channels in any bodies of the outer earth except in iron.
+## 135. There are also no channels in any bodies of the outer earth except in iron.
 
 The Earth's inner crust consists of:
 - partly branched particles attached to each other and
@@ -105,7 +105,7 @@ Those metals formed from the more mobile and solid particles should not have suc
 But certainly those metals made up of branched and thick but not so solid particles must have them. It is very reasonable to believe that iron is such.
 
 
-### 136. Why such channels exist in iron
+## 136. Why such channels exist in iron
 
 Iron is the only metal that 3 characteristics:
 
@@ -129,7 +129,7 @@ This proves that its particles:
 - have many channels.
 
 
-### 137. How they exist even in each of its fragments.
+## 137. How they exist even in each of its fragments.
 
 <!-- I do not want to affirm here that there are complete holes in each fragment of iron, like coiled structures, 
 
@@ -149,7 +149,7 @@ These fragments were then pushed up through the veins of the outer earth.
 <!-- propelled by the spirit or acrid juice permeating them, gradually ascending into its cavities through exhalations and vapors. -->
 
 
-### 138. How these channels are made fit admit the virtual photons coming from either side.
+## 138. How these channels are made fit admit the virtual photons coming from either side.
 
 <!-- they meet with them there, with the very small extremities of the ramules, which, as has been said above, project among the windings of the passages, and rise up to meet the returning striated particles; 
 

@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-### 145. The properties of magnetic force
+## 145. The properties of magnetic force
 
 <!-- All these properties follow from the principles of Nature explained above in such a way that, even if I did not consider those magnetic properties that I undertook to explain here, I would still judge them to be true. 
 

@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 65. The poles of each vortex of the heavens touch parts of other vortices far from their poles.
+## 65. The poles of each vortex of the heavens touch parts of other vortices far from their poles.
 
 No matter how the individual vortices were moved from the beginning, they will be arranged so that each one moves in the direction in which the motion of all surrounding vortices opposes it the least.
 
@@ -36,7 +36,7 @@ This is because the motion of each body can easily be deflected by encountering 
 Therefore, it must have one of its poles towards `E` and the other in the opposite direction towards `B`. It rotates around the axis `EB`, from `I` to `V`.
 
 
-#### 66. The motions of these vortices are somehow deflected to harmonize with each other.
+## 66. The motions of these vortices are somehow deflected to harmonize with each other.
 
 These motions will have some conflict if the disks of the first 3 vortices (the orbits most distant from their poles) directly meet each other at the point `E`, where the pole of `Vortex f` is located. 
 
@@ -56,7 +56,7 @@ But nature easily corrects this by slightly deflecting the disks of the first 3 
 This results in them scraping against it not along the straight lines `EI`, `EV`, `EX`, but along the oblique lines `1I`, `2V`, `3X`, thereby fully harmonizing with its motion.
 
 
-#### 67. The poles of two vortices cannot touch each other.
+## 67. The poles of two vortices cannot touch each other.
 
 <!-- Indeed, I believe there is no other way to conceive how the motions of these various vortices could be less conflicting with each other.  -->
 
@@ -69,7 +69,7 @@ I do not presume to determine the positions and motions of all the vortices in t
 However, the poles of each vortex are not as close to the poles of other adjacent vortices as they are to parts far removed from their poles.
 
 
-#### 68. These vortices are of unequal size.
+## 68. These vortices are of unequal size.
 
 The inexplicable variety in the positions of the fixed stars shows that the vortices around them are not equal in size. 
 

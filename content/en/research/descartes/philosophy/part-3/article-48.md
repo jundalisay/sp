@@ -11,11 +11,9 @@ icon: "Rene Descartes"
 ---
 
 
-### The 2nd Element
-
 
  <!-- of celestial matter -->
-#### 48. How all the air-aether particles became spherical.
+## 48. How all the air-aether particles became spherical.
 
 <!-- So, to begin to show the efficacy of the laws of nature in the proposed hypothesis, it must be considered that the particles into which we suppose  -->
 
@@ -34,7 +32,7 @@ They eventually became round.
 Here, the name "angle" is given to everything in a body that protrudes beyond the spherical shape.
 
 
-#### 49. There is a finer matter around these spherical particles
+## 49. There is a finer matter around these spherical particles
 
 **There can be no void in space.**  Yet those round matter particles, when joined together, leave some very small gaps around them.
 
@@ -51,7 +49,7 @@ While those matter particles are becoming round, their angles are gradually worn
 Thus, it fills all the angles which other particles of matter cannot penetrate.
 
 
-#### 50. The particles of this finer matter can be easily divided.
+## 50. The particles of this finer matter can be easily divided.
 
 The smaller these particles are, the more easily they can be moved and broken down into even smaller pieces. 
 
@@ -60,7 +58,7 @@ The smaller they are, the more surface area they have in proportion to their vol
 They encounter other bodies by their surface and are divided by their volume.
 
 
-#### 51. The same particles move very quickly.
+## 51. The same particles move very quickly.
 
 They are agitated much more swiftly than the other particles of matter from which they acquire their agitation. 
 

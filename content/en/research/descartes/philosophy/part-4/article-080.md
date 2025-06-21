@@ -16,7 +16,7 @@ icon: "Rene Descartes"
 {{< n n="Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance. We replace 3rd Element with earth-aether" >}}
 
 
-#### 80. The nature of fire and its distinction from air
+## 80. The nature of fire and its distinction from air
 
 How can flame be ignited in these cavities? What is the nature of fire?
 
@@ -40,7 +40,7 @@ However, fire cannot exist without somewhat denser earth-aether particles, from 
 <!-- terrestrial -->
 
 
-#### 81. How fire is first ignited
+## 81. How fire is first ignited
 
 The air-aether globules:
 - occupy all the spaces around the Earth large enough to contain them.
@@ -59,7 +59,7 @@ To generate fire, **the air-aether globules must be expelled from the intervals 
 Once separated and floating freely in the fire-aether, these earth-aether particles are swiftly carried away in its motion and propelled in various directions.
 
 
-#### 82. How is Fire Sustained?
+## 82. How is Fire Sustained?
 
 To sustain this fire, the earth-aether particles must be dense, solid, and apt for motion. 
 
@@ -76,7 +76,7 @@ If they stopped repelling the air-aether globules from returning to the space oc
 
 
 
-#### 83. Why Does Fire Need Nourishment?
+## 83. Why Does Fire Need Nourishment?
 
 When these earth-aether particles strike the air-aether globules, they leave their space and turn into smoke.
 
@@ -90,7 +90,7 @@ To sustain a fire, some of these earth-aether particles must strike a denser bod
 
 
 
-#### 84. How Is Fire Sparked from Flint?
+## 84. How Is Fire Sparked from Flint?
 
 Flints are hard, rigid, and friable.
 
@@ -116,7 +116,7 @@ Due to their friability, once these particles of flint are no longer pressed by 
  <!-- matter of the first element  -->
 
 
-#### 85. How is Fire Produced from Dry Woods?
+## 85. How is Fire Produced from Dry Woods?
 
 Wood will not emit sparks if struck because it is less hard.
 
@@ -129,7 +129,7 @@ Thus, **the air-aether globules do not leave their intervals simultaneously**.
 However, if the wood is rubbed vigorously for a long time, the friction causes unequal agitation and vibration of its particles. This can shake loose the air-aether globules, separating them from each other. This action then transforms them into fire.
 
 
-#### 86. How is Fire Produced from the Collection of Sunbeams?
+## 86. How is Fire Produced from the Collection of Sunbeams?
 
 Fire can also be ignited by directing many sunbeams through a concave mirror or convex glass onto a particular spot.
 

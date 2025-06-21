@@ -1,5 +1,5 @@
 ---
-title: "All About Glass"
+title: "How is Glass Made?"
 heading: Articles 124
 weight: 34
 description: "The ultimate effect of fire is the conversion of lime and ashes into glass"
@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 124. How is Glass Made?
+## 124. How is Glass Made?
 
 The ultimate effect of fire is the conversion of lime and ashes into glass.
 
@@ -31,7 +31,7 @@ This gradually:
 This makes them form glass by connecting with each other, from flowing and merging with one another on small surfaces.
 
 
-#### 125. How are glass particles connected?
+## 125. How are glass particles connected?
 
 When two bodies with surfaces of some width encounter each other directly, they cannot approach each other so closely that some space does not intervene.
 
@@ -50,7 +50,7 @@ From this single difference creates all the properties of glass from the intense
 <!-- , all the  are acquired. -->
 
 
-#### 126. Why is glass liquid when glowing and easily takes on any shape?
+## 126. Why is glass liquid when glowing and easily takes on any shape?
 
 The force of fire bends and smooths the glass particles. This makes them move easily and become liquid.
 
@@ -64,7 +64,7 @@ Glass can also be drawn into very thin threads like hairs.
 - This is because when its particles start to solidify, they flow more easily over one another than they can be separated from each other.
 
 
-#### 127. Why is glass very hard when cold?
+## 127. Why is glass very hard when cold?
 
 When glass has completely cooled, it is very hard and brittle.
 - It becomes more brittle the faster it cools.
@@ -86,10 +86,9 @@ However, the strongest adhesion is from immediate contact.
 This happens to the particles of glass as soon as they are removed from the fire because their thickness, proximity, and uneven shapes prevent them from being preserved in their motion against the surrounding air.
 
 
-#### 128. Why is glass very brittle?
+## 128. Why is glass very brittle?
 
 Glass is very brittle because the surfaces on which its particles touch each other are very small and few.
 
 Many other softer bodies are more difficult to break because their parts are so intertwined that they cannot be separated without breaking and tearing many of their branches.
-
 

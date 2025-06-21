@@ -17,7 +17,7 @@ icon: "Rene Descartes"
 {{< n n="We replace 'striated particles' with 'virtual photons', `1st Element` with `fire-aether`, and `2nd Element` with `air-aether` (space particles) in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 152. Why one magnet is attrcted by another.
+## 152. Why one magnet is attrcted by another.
 
  <!-- turns and inclines towards another, in the same way as towards the Earth. -->
  
@@ -38,7 +38,7 @@ The Earth itself can be called the greatest magnet.
 
 
 
-#### 153. The North and South Poles of 2 Magnets will attract each other. 
+## 153. The North and South Poles of 2 Magnets will attract each other. 
 
 <!-- Nor do two magnets turn towards each other only until the north pole of one faces the south pole of the other, but moreover, after they have thus turned, they approach each other until they touch each other, if nothing impedes their motion. -->
 
@@ -93,7 +93,7 @@ Then it is easier for the virtual photons, proceeding straight from `1` to `2`, 
  <!-- , than to strive through all that air from `A` to `b`, and from `V` to `X`; which two ways become shorter when these two magnets approach each other, or, if one is retained, when at least the other comes to it. -->
 
 
-#### 154. Why do magnets repel each other when brought together? 
+## 154. Why do magnets repel each other when brought together? 
 
 The poles of two magnets, such as South and South or North and North, repel each other if brought too close.
 

@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 52. There are 3 elements of this visible world.
+## 52. There are 3 elements of this visible world.
 
 We have 2 very different types of matter, which can be called the **two primary elements of this visible world**.
 
@@ -38,7 +38,7 @@ All the bodies of this visible world are composed from these three:
 This threefold difference in appearance is from the 3 elements.
 
 
-### 53. Three heavens can also be distinguished in it.
+## 53. Three heavens can also be distinguished in it.
 
 <!-- matter , as the first heaven -->
 All the air-aether in space `AEI` rotates around the center `S` as Territory 1.
@@ -65,7 +65,7 @@ I consider all the vortices whose centers are `F`, `f` together as only one terr
 <!-- and therefore we will have much more to observe in it than in the others. And we are accustomed to impose names on things not for their own sake, but only to explain our thoughts about them. -->
 
 
-### 54. How the Sun and fixed stars were formed
+## 54. How the Sun and fixed stars were formed
 
 Initially, the matter of the fire-aether gradually increased* because the air-aether particles wore each other down through constant motion. 
 

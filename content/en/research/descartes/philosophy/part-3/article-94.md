@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 {{< n n="We replaced 'striated particles' with virtual photons">}}
 
 
-#### 94. How spots are generated on the surface of the sun or stars
+## 94. How spots are generated on the surface of the sun or stars
 
 When this fire-aether reaches the body of the Sun or star, all its most agitated minute parts [electrons] are not obstructed by the air-aether's globules.
 - And so, they strive to move similarly*.
@@ -47,7 +47,7 @@ These must expel its virtual photons and all others that easily stick to each ot
 {{< n n="Here, sun spots are caused by magnetic virtual photons" >}}
 
 
-#### 95. Understanding the principal properties of these spots
+## 95. Understanding the principal properties of these spots
 
 This is why sunspots:
 - usually do not appear around its poles but rather in parts near the ecliptic
@@ -55,7 +55,7 @@ This is why sunspots:
 - move in orbit around the Sun’s poles, if not as quickly as its substance, at least along with the part of the sky closest to it.
 
 
-#### 96. How these spots dissolve and new ones are generated
+## 96. How these spots dissolve and new ones are generated
 
 Most liquids reabsorb the same foam which they initially emit while boiling longer.
 
@@ -77,7 +77,7 @@ The entire surface of the Sun, except for the circumpolar regions, is usually co
 But the spots exist only where that matter is so dense and compact that it weakens the light coming from the Sun.
 
 
-#### 97. Why rainbow colors appear at the extremity of some spots
+## 97. Why rainbow colors appear at the extremity of some spots
 
 When these spots are thicker and denser, they are worn down first at their circumference rather than in the middle, by the purer fire-aether of the Sun flowing around them.
 
@@ -88,7 +88,7 @@ Hence, they must be painted there with the colors of the rainbow, as I explained
 Such colors are sometimes observed in them.
 
 
-#### 98. How spots turn into faculae or vice versa
+## 98. How spots turn into faculae or vice versa
 
 The Sun's fire-aether flows around these spots, rising above their extremities.
 
@@ -103,7 +103,7 @@ Thus, spots are often converted into faculae -- parts of the solar surface, whic
 Vice versa, faculae are seen to turn into spots, when these are submerged in the more subtle matter of the Sun on one side, while a large amount of new matter attaches to them on the other side.
 
 
-#### 99. Into what particles the spots dissolve
+## 99. Into what particles the spots dissolve
 
 When these spots dissolve, they do not turn into minutiae [electrons] exactly similar to those from which they were formed. 
 

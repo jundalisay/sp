@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-### 82. The air-aether near the sun is smaller and faster than those further away.
+## 82. The air-aether near the sun is smaller and faster than those further away.
 
 This is up to a certain distance. After that distance, all are equal in size and move faster the further they are from the sun.
 
@@ -38,7 +38,7 @@ Those on this surface `HNQR` move the slowest of all, so that perhaps:
 {{< n n="The ones near `M` and `Y` move much slower, not faster. The cause of Descartes' error is his basing their movement on comets, which he had wrong data on. However, this might happen in other stellar systems where their star is young, growing, and more energetic. Our sun is currently getting old and so has reduced in size. This might have caused the distant parts to become slower" >}}
 
 
-### 83. Why the most distant particles move faster than those slightly closer
+## 83. Why the most distant particles move faster than those slightly closer
 
 The upper ones towards `M` and `Y` must move faster than the lower ones towards `H` and `Q`. 
 
@@ -76,7 +76,7 @@ The slowness of the circle `HQ` is inferred from the slowness of Saturn.
 <!-- , which I will demonstrate is within or below it. -->
 
 
-### 84. Why those nearest the sun move faster than those slightly further away
+## 84. Why those nearest the sun move faster than those slightly further away
 
 <!-- sky -->
 The circumvolution of solar matter sweeps all the adjacent part of the gravitational territory along with it.
@@ -104,7 +104,7 @@ This is why:
 - the tails of comets sometimes appear straight and sometimes curved
 
 
-### 85. Why the fire-aether near the sun are smaller than those farther away
+## 85. Why the fire-aether near the sun are smaller than those farther away
 
 <!-- celestial matter lower upper ones-->
 Within the limit `HQ`, the particles of air-aether nearer the center are faster and smaller than the ones farther from the center. 
@@ -133,7 +133,7 @@ There are various other inequalities in the motions of parts of the sky, especia
 
 
 
-### 86. The various motions of the air-aether particles make them perfectly spherical
+## 86. The various motions of the air-aether particles make them perfectly spherical
 
 The fire-aether coming from vortices like `KL` and similar ones are primarily carried towards the Sun. 
 

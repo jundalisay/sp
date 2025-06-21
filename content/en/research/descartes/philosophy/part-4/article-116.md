@@ -14,7 +14,7 @@ icon: "Rene Descartes"
 
 
 
-#### 116. Lamps that burn for a long time
+## 116. Lamps that burn for a long time
 
 <!-- After examining the fire that is least enduring, let us consider whether there can be another fire that, conversely, persists for a long time without any fuel. It is reported that  -->
 
@@ -59,7 +59,7 @@ How does the force of fire cause certain non-fuels to:
 - turn into lime or glass.
 
 
-#### 118. Which bodies, when added to it, melt and boil?
+## 118. Which bodies, when added to it, melt and boil?
 
 The hard bodies that are composed of particles that are easy to separate from each other melt when subjected to the force of fire.
 
@@ -77,7 +77,7 @@ When subjected to heat, their particles move very fast and turn into air or fire
  <!-- effervesce and boil. -->
 
 
-#### 119. Which bodies dry and harden?
+## 119. Which bodies dry and harden?
 
 However, bodies dry out and do not boil.
 - This is if they containing many thin, flexible, slippery particles, intertwined with other thicker or branched ones but not very firmly attached.

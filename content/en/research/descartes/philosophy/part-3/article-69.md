@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 69. The particles of the Fire-Aether flows from the poles of each vortex towards the center, and from the center towards other parts
+## 69. The particles of the Fire-Aether flows from the poles of each vortex towards the center, and from the center towards other parts
 
 They continuously flow towards the center of each vortex from the surrounding vortices, through the parts near its poles.
 
@@ -44,7 +44,7 @@ This is also why the air-aether in Vortex `K` and `L` moves towards `S`:
 This is also why the air-aether in Vortex `S` moves towards Vortex `O` and `C`.
 
 
-#### 70. The same is not true for the Air-Aether
+## 70. The same is not true for the Air-Aether
 
 This would also apply to the air-aether if no specific causes hindered its movement in that direction. 
 
@@ -64,7 +64,7 @@ The fire-aether thus enters the `Space S`. It pushes the air-aether globules wit
 Thus, it prevents those coming from `Vortex L` from approaching `S` more closely than up to a certain limit, which is marked by letter `B`. The same must be judged for `Vortex K` and all others.
 
 
-#### 71. The reason for this difference
+## 71. The reason for this difference
 
 The air-aether revolving around the `Center L` has the force to move away from `L` but also to maintain their speed.
 

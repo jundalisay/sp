@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 92. Fire in those that heat up but do not shine like enclosed hay
+## 92. Fire in those that heat up but do not shine like enclosed hay
 
 The particles of some spirit or liquid can sometimes ignite fire by passing through the channels of a hard or liquid body.  
 
@@ -69,7 +69,7 @@ Therefore, rushing into the denser particles of the hay, the juices easily separ
 
 
 
-#### 93.  Fire in lime sprinkled with water and others.
+## 93.  Fire in lime sprinkled with water and others.
 
 A hard body can be heated by the addition of some liquid.
 
@@ -82,7 +82,7 @@ One of them always consists of branched particles, somehow intertwined and knott
 - This property is related to the exhalations themselves.
 
 
-#### 94. How fire can be ignited in the cavities of the earth
+## 94. How fire can be ignited in the cavities of the earth
 
 <!-- In all these ways, not only on the surface of the Earth but also in its cavities, fire can be ignited.  -->
 

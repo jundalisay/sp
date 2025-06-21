@@ -17,7 +17,7 @@ icon: "Rene Descartes"
 {{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
 
 
-#### 155. Why do the parts of a divided magnet also repel each other?
+## 155. Why do the parts of a divided magnet also repel each other?
 
 A magnet will spontaneously turn and assume the position opposite to that which it had before if:
 - it is cut in a plane parallel to a line drawn through its poles, and
@@ -37,7 +37,7 @@ But after division, the virtual photons:
 
 
 
-#### 156. Why are the 2 points that were previously contiguous in one magnet, in its fragments, of opposite magnetic polarity? 
+## 156. Why are the 2 points that were previously contiguous in one magnet, in its fragments, of opposite magnetic polarity? 
 
 {{< img src="/graphics/physics/fig_81.jpg" alt="Magnet Cut in 2" >}}
 
@@ -46,7 +46,7 @@ If a magnet is divided by a plane cutting a line through the poles at right angl
 This is because the virtual photons that emerge through one of these poles must enter through the other.
 
 
-#### 157. Why is it the same in some parts of a magnet as in the whole?
+## 157. Why is it the same in some parts of a magnet as in the whole?
 
 {{< img src="/graphics/physics/fig_82-4.jpg" alt="Magnet Cut in 2" >}}
 
@@ -61,7 +61,7 @@ Nor is this force different in one pole than in the other, except insofar as the
 
 
 
-#### 158. Why does the magnet share its magnetism with the iron that is attached to it?
+## 158. Why does the magnet share its magnetism with the iron that is attached to it?
 
 Iron, when attached to a magnet, acquires the magnetic force from it.
 
@@ -83,7 +83,7 @@ These bend these ends of the twigs in this way.
 <!-- ### 159. Why is iron attracted to a magnet? Why does it acquire magnetic power from the magnet? -->
 
 
-#### 159. Why does iron receive this force differently according to the various ways in which it is brought near the magnet? 
+## 159. Why does iron receive this force differently according to the various ways in which it is brought near the magnet? 
 
 
 The part `R` of the iron `RST`, if applied to the northern pole of the magnet `P`, will become the southern pole of the iron. 
@@ -107,7 +107,7 @@ Thus, it will receive:
 
 
 
-#### 160. Why does not an oblong iron receive it, except according to its own length?
+## 160. Why does not an oblong iron receive it, except according to its own length?
 
 Why do these striped particles, entering part `S` from the pole `A` of the iron magnet, not go straight towards `E`. Instead, they are reflected from here towards `R` and `T`.
 
@@ -116,7 +116,7 @@ Thus, this iron receives magnetism according to its length instead of its width.
 This is because they find much more open and easy ways in the iron than in the air, from which therefore the iron is reflected.
 
 
-#### 161. Why the magnet does not lose the force that it gives to the iron.
+## 161. Why the magnet does not lose the force that it gives to the iron.
 
 This is because no change takes place in the magnet.
 
@@ -127,7 +127,7 @@ They pass more freely through iron than through other bodies and therefore also 
 This increases it rather than decreasing. 
 
 
-#### 162. Why this force is most quickly communicated to iron, but is confirmed in it by lapse of time. 
+## 162. Why this force is most quickly communicated to iron, but is confirmed in it by lapse of time. 
 
 This force accrues to the iron in the briefest time, because the striped particles flow most quickly through it.
 

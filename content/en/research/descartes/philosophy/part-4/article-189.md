@@ -19,7 +19,7 @@ icon: "Rene Descartes"
 
 I should add nothing farther to this the Fourth Part of the Principles of Philosophy, did I purpose carrying out my original design of writing a Fifth and Sixth Part, the one treating of things possessed of life, that is, animals and plants, and the other of man. But because I have not yet acquired sufficient knowledge of all the matters of which I should desire to treat in these two last parts, and do not know whether I shall ever have sufficient leisure to finish them, I will here subjoin a few things regarding the objects of our senses, that I may not, for the sake of the latter, delay too long the publication of the former parts, or of what may be desiderated in them, which I might have reserved for explanation in those others: for I have hitherto described this earth, and generally the whole visible world, as if it were merely a machine in which there was nothing at all to consider except the figures and motions of its parts, whereas our senses present to us many other things, for example colours, smells, sounds, and the like, of which, if I did not speak at all, it would be thought I had omitted the explication of the majority of the objects that are in nature. -->
 
-#### 189. What perception (SENSUS) is, and how we perceive.
+## 189. What perception (SENSUS) is, and how we perceive.
 
 The human soul is united to the whole body. 
 
@@ -38,7 +38,7 @@ But the movements which are thus excited in the brain by the nerves variously af
 The diverse affections of the mind or thoughts that immediately arise from these motions, are called perceptions of the senses (SENSUUM PERCEPTIONES), or, as we commonly speak, sensations (SENSUS).
 
 
-#### 190. The distinction of the senses: the internal and the natural appetites
+## 190. The distinction of the senses: the internal and the natural appetites
 
  <!-- and, first, of the internal, that is, of the affections of the mind (passions), and the natural appetites. -->
 
@@ -120,7 +120,7 @@ But they are named appetites because this will or appetition almost always accom
 
 
 
-#### 191. The external senses: Touch
+## 191. The external senses: Touch
 
 We commonly count 5 external senses because there are:
 - as many different kinds of objects which move the nerves and their organs, and
@@ -148,7 +148,7 @@ But if this action is strong enough to hurt our body in any way, this gives to o
 This is why corporeal pleasure and pain arise from causes nearly alike, even if they are sensations of quite an opposite character.
 
 
-#### 192. Taste
+## 192. Taste
 
 2. The nerves scattered over the tongue are diversely moved by bodies on it, floating in the saliva in the mouth.
 
@@ -158,7 +158,7 @@ This causes sensations of diverse tastes, according to the diversity of the shap
 
 <!-- [Footnote: In the French this section begins, "Taste, after touch the grossest of the senses," etc.] -->
 
-#### 193. Smell
+## 193. Smell
 
 3. These 2 nerves are moved by the particles of terrestrial bodies flying in the air
 
@@ -176,7 +176,7 @@ Those particles must be subtle enough to:
 From the different motions of these particles arise the sensations of the different smells.
 
 
-#### 194. Hearing
+## 194. Hearing
 
 4. There are 2 nerves within the ears, so attached to 3 small bones that are mutually sustaining. 
 
@@ -185,7 +185,7 @@ The first of these rests on the small membrane that covers the cavity we call th
 These vibrations give rise, according to their diversity, to the sensations of the different sounds.
 
 
-#### 195. Sight
+## 195. Sight
 
 5. The extremities of the optic nerves compose the coat in the eyes called the retina.
 

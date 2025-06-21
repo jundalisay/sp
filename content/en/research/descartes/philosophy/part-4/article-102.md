@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 102. Why does the flame of wine spirit not burn linen?
+## 102. Why does the flame of wine spirit not burn linen?
 
 This is because the particles of wine spirit is too thin.
 - It does not have enough ratio to preserve fire. 
@@ -20,7 +20,7 @@ For example, if the spirit of wine ignites a linen cloth, this very fine flame w
 - But it will not touch the linen because its particles are not thin enough to be moved by it.
 
 
-#### 103. Why wine spirit ignites very easily.
+## 103. Why wine spirit ignites very easily.
 
 The spirit of wine easily feeds the flame because it consists only of very thin particles.
 - It also has some branches so short and flexible that they do not adhere to each other. 
@@ -31,7 +31,7 @@ However, they are arranged in such a way that they leave many extremely small sp
 - These spaces can only be be occupied by the fire-aether, not by the air-aether globules.
 
 
-#### 104. Why water is difficult.
+## 104. Why water is difficult.
 
 On the other hand, water seems very adverse to fire because its particles are:
 - thicker, smoother, and glossier. 
@@ -42,7 +42,7 @@ On the other hand, water seems very adverse to fire because its particles are:
 <!-- Jun: This adds spacetime particles -->
 
 
-#### 105. Why is the force of large fires increased by water or salts thrown in?
+## 105. Why is the force of large fires increased by water or salts thrown in?
 
 However, water thrown into some burning bodies help the fire in large flames. 
 
@@ -58,7 +58,7 @@ Salts are more effective than water in increasing fire.
 Therefore, they are usually added to melt metals.
 
 
-#### 106. What kind of bodies easily burn?
+## 106. What kind of bodies easily burn?
 
 Things commonly used for feeding fire, such as wood and the like, consist of various particles.
 - Some of these are very fine.
@@ -77,7 +77,7 @@ Thus, they swiftly shake off the air-aether globules:
 They carry all of the air-aether away except for the thickest ones, which turn to ashes.
 
 
-#### 107. Why some things ignite, and others do not.
+## 107. Why some things ignite, and others do not.
 
 When such particles exit from the burning body so numerously that they have the power to expel the air-aether globules from some adjacent space, they fill that space with flame. 
 
@@ -87,7 +87,7 @@ If they are fewer, a flame without smoke is produced.
 This is observed in those cords or wicks used in war for igniting gunpowder.
 
 
-#### 108. Why does fire last a while in embers?
+## 108. Why does fire last a while in embers?
 
 If the fire has no branched material around it, then it is not preserved. 
 

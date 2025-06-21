@@ -12,7 +12,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 18. The second effect of air-aether motion: separate one body from another and purge liquids
+## 18. The second effect of air-aether motion: separate one body from another and purge liquids
 
 When the particles of terrestrial bodies, especially liquids, are confusedly joined together, the air-aether globules tend to:
 - separate some from others
@@ -47,7 +47,7 @@ The same should be assumed for other pure liquids.
 
 
 
-#### 19. The third effect of air-aether motion: make suspended drops of liquids round 
+## 19. The third effect of air-aether motion: make suspended drops of liquids round 
 
 <!-- these celestial globules have vastly different paths in a drop of water than in the surrounding air, and always move as much as possible along straight lines, or lines approaching straightness, it is evident that those in the air are less impeded in their motions by the presence of a water drop, maintaining their motion along lines deflecting as little as possible from straight lines, if the drop is perfectly spherical, rather than taking any other shape. 
 
