@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 42. All things we see here on Earth also pertain to phenomena, but it is not necessary to initially consider everything
+## 42. All things we see here on Earth also pertain to phenomena, but it is not necessary to initially consider everything
 
 <!-- Besides these more general phenomena, many particulars could also be enumerated here, not only concerning the Sun, planets, comets, and fixed stars, but especially also concerning the Earth (namely, all those things we see on its surface) among the phenomena here. -->
 
@@ -28,43 +28,53 @@ We will only find the common causes that will be correct when see that they appl
  <!-- it is not necessary to consider all those things to determine the causes of more general matters; but we will then recognize that we have correctly determined those causes when we find that from the same causes, not only those things we considered but also all other things we had not previously thought of can be explained. -->
 
 
-#### 43. It is hardly possible that the ultimate causes of all phenomena are not true.
+## 43. It is hardly possible that the ultimate causes of all phenomena are not true.
 <!-- are clearly deduced -->
 
 We can arrive at the ultimate causes if:
 - we use only the most evidently perceived principles
-- we deduce fromm those principles only through mathematical consequences
+- we deduce from those principles only through mathematical consequences
 - those things which we thus deduce accurately agree with all the phenomena of nature
 
-If we suspected that these ultimate causes that we discover were false then it means that God had created us so imperfect that we are deceived by the right use of our reason. This would be an injustice to God. 
+If we suspected that these ultimate causes were false then it means that God had created us so imperfectly that we are deceived by the right use of our reason.
+- This would be an injustice to God. 
 
 <!-- , we would seem to do an injustice to God if , as if He  -->
 
 
-#### 44. Those which I will present here to be considered only as hypotheses.
+## 44. Those which I will present here to be considered only as hypotheses.
 
-However, I might seem too arrogant if I affirm that I have discovered their true nature.
+However, I might seem **too arrogant** if I affirm that I have discovered their true nature.
 
-So I will label all that I will write henceforth as a hypothesis.
+So I will call all that I will write henceforth as a hypothesis.
 
 <!-- , by philosophizing about such great matters, we 
 
-, I would prefer to leave this in doubt and propose  -->
+, I would prefer to leave this in doubt and propose  all that is deduced from it -->
 
-It might be considered false. But I will have done a great service if all that is deduced from it agrees with experiments.
+It might be considered false. 
 
-In this way, we will derive as much usefulness for life from it as from the knowledge of the truth itself.
+But I would have done a great service if they agree with experiments.
+
+In this way, we will derive as much usefulness for life from it as from the knowledge of the truth itself.*
+
+{{< n n="This is the same as David Hume's proposed science of man which is suppposed to be more useful than the current corrupted vulgar and materialist sciences" >}}
 
 
-#### 45. I will even assume here some things known to be false.
 
-To better explain natural things, I will here trace their causes deeper than I believe they ever actually existed. 
+## 45. I will even assume here some things known to be false.
+
+To better explain natural things, I will trace their causes deeper [beyond physical reality].
+
+<!-- than I believe they ever actually existed.  -->
 
 The world was created from the beginning with all its perfection, so that in it:
 - both the Sun and Earth, and the Moon and stars existed
 - on Earth:
   - the seeds of plants and the plants themselves
-  - Adam and Eve were not born as infants but were created as adults. 
+  - **Adam and Eve were not born as infants but were created as adults**. 
+
+{{< n n="This is similar to the Anunnaki theory that bypasses the slow Darwinian evolutionary theory" >}}
 
 Christian faith teaches us this. Natural reason also clearly persuades it. 
 
@@ -80,7 +90,7 @@ This is even if we know well they never did so arise, we will still better expla
 <!-- And since I think I have found such principles, I will briefly explain them here. -->
 
 
-#### 46. What I assume here to explain all phenomena
+## 46. What I assume here explains all phenomena
 
 All the bodies in the world are composed of one and the same matter.
 
@@ -110,7 +120,7 @@ Thus, all those contained in the space AEINB would turn around point S.
 Those contained in the space AEV around F, and so on for the others: thus forming as many different vortices as there are stars in the world.
 
 
-#### 47. The falsity of these assumptions does not prevent the truth and certainty of the conclusions derived from them.
+## 47. The falsity of these assumptions does not prevent the truth and certainty of the conclusions derived from them.
 
 These few assumptions can serve as causes to explain all the effects that appear in this world according to the laws of nature previously explained. 
 
