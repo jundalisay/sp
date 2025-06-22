@@ -1,3 +1,110 @@
+descartes world cahp 11
+
+The weight of this Earth is caused by the force is that unites all its particles and makes them all tend toward the centre.
+- Each moves towards the center according to its size and solidity.
+
+This force is from the particles of the small gravitational territory (heaven) which surrounds it.
+
+This territory:
+- turns much faster around the center than its own particles. 
+- moves away with greater force from that centre
+  - This pushes the Earth particles back toward that centre.
+
+Comets tend to move outwards to the circumferences of the gravitational territory (heavens)
+
+Only bodies that are less massive are pushed back to the centres of gravitational territories. 
+
+This would make us think that:
+- only the less solid Earth particles and bodies could be pushed back towards its centre
+- more solid bodies should move away from the center 
+
+
+But in reality, the solid objects that move away from the center already have a motion that goes with the motion of that territory. 
+
+<!--  note that, when I said that the most massive and solid bodies tended to move away from the centre of a heaven, I was assuming
+that they were already moving with the same agitation as the matter of
+that heaven.  -->
+
+If they had no motion, or had less speed than that territory, then they would be likewise pushed toward the centre that it is turning around in.
+
+<!--  which it is
+turning; and it is indeed certain that, to the extent to which they are larger
+and more solid, they will be pushed with more force and speed. Nevertheless, if they are able to compose comets, they will not be prevented
+from tending to move, a short time later, toward the exterior circumference of the heavens, because the agitation they have acquired in descending toward any one of the heaven’s centres will unfailingly provide
+them with the force to pass beyond it and to ascend again toward its
+circumference -->
+
+
+Let the Earth `EFGH` have water `1234` and air `5678`. 
+
+These 3 make up a single mass. 
+
+The air-aether fills:
+- all the space between `ABCD` and `5678`
+- the gaps within the earth, air, and water
+
+Both the earth and the air-aether turn around the center `T`.
+- The air-aether turns faster
+
+Without this air-aether the bodies on earth would fly away. 
+- This is similar to a sling releasing its stone [the air-aether is the sling]
+
+Bodies on Earth cannot:
+- fly away unless other bodies come down and replace its spot
+- dig deeper unless bodies give up their spot and rise up 
+
+
+Thus they are all opposed to one another just as the 2 sides of a balance are opposed to one another.
+
+One side of the balance can only be raised or lowered if the other side, at exactly the same instant, moves in the opposite direction, and just as the heavier always makes the other rise.
+
+So too the stone is so opposed to the air above it, which is exactly the same size as it and whose place it would have to occupy if it were to move further away from the centre.
+
+This air would of necessity descend to the extent that the stone rose.
+
+In the same way it is opposed to another equal quantity of air below it, whose place it would have to occupy if it were to move closer to that centre, such that the stone must descend when this air rises.
+
+This stone has much more earth-aether than physical air does of a similar size. 
+- But the stone has less air-aether than the physical air. 
+
+The stone's earth-aether are far less agitated by air-aether than those of that physical air. 
+
+This is why:
+- the stone does not have the force to rise above the air. 
+- the air has the force to make the stone fall downwards.
+
+Thus, physical air is light when compared with the stone.
+- But when compared with the pure air-aether, physical air is heavy.
+
+This is why all terrestrial bodies are pressed towards `T` equally all the matter surrounding it.
+
+<!--  but
+only by an amount of the matter exactly equal to the size of that part and
+which, being underneath the part, can take its place if that part moves -->
+
+This is why, among ‘homogeneous’ bodies such as air or water*:
+- the pressure on the lowest is not more than that on the highest
+- a man at the bottom of very deep water does not feel it pressing on his back any more than if he were swimming right on top.80
+
+
+{{< n n="This is now called the Equivalence Principle associated with Einstein" >}}
+
+
+The air-aether makes the stone `R` fall towards `T`. 
+
+But if the air-aether also is turning around the Earth, why don't bodies fall straight down instead of towards the east or the west? 
+
+This is because:
+- the air-aether that goes around the Earth also unifies the air, water, and Earth into a single body.
+  - This is because its air-aether travels much faster than the air-aether that is in the gaps within the physical air, water, and other material bodies on Earth.
+- the air-aether within the unified earth-body flows away from `T` in straight lines. 
+
+
+
+
+
+
+
 .fly-in {
             opacity: 0; /* Start invisible */
             transition: opacity 0.8s ease-out, transform 0.8s ease-out; /* Smooth transition for opacity and transform */

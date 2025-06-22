@@ -11,7 +11,6 @@ icon: "Rene Descartes"
 ---
 
 
-
 What is the weight of this physical Earth? 
 
 The weight of the Earth is caused by the force that unites all its particles and makes them all tend toward its center, according to their:

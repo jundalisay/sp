@@ -11,25 +11,30 @@ icon: "Rene Descartes"
 ---
 
 
+Weight on Earth is caused by the motion of the air-aether within the gaps of material bodies.
 
-Weight on Earth is caused by the motion of the air-aether on the pores of bodies.
+The Moon and its motion affects the whole unified earth-body [made up of earth, water, atmosphere].
 
-The Moon also affects this motion on the Earth. 
 
-Assume that the moon is stationary at `B` relative to the air-aether below it. This air-aether has less space to pass through between `O` and `6` than between `B` and `6` (if the moon does not occupy the space between `O` and `B`).
+Assume that the moon is stationary at `B` relative to the air-aether flowing below it. 
+
+This air-aether has less space to pass through between `O` and `6` than between `B` and `6` (if the moon does not occupy the space between `O` and `B`).
 
 ![The Moon](/graphics/physics/moonwith.jpg)
 
 Consequently, this air-aether has to move a bit faster between `O` and `6`.
-- It pushes the whole Earth a little bit towards `D`, so that its center `T` moves away a little bit from the center of the planetary gravitational territory `ABCD`. 
+- It pushes the whole Earth a little bit towards `D`, so that its center `T` moves away a little bit from the center of the planetary gravitational territory `ABCD`.*
 <!-- from point `M`, which is the center of the small heaven ABCD.  -->
+
+
+{{< n n="This `T` is the moving barycenter moved by the pressure from the air aether between the Earth and moon" >}}
 
 This is because:
 - only the air-aether keeps the Earth where it is. 
 - the air `5678` and the water `1234` surrounding this earth are liquid* bodies.
 
 
-This same force that presses the earth also make the Earth's liquids sink toward `T` from the side `6, 2` and also from its opposite `8, 4`
+This same force that presses the earth also makes the Earth's liquids sink toward `T` from the side `6, 2` and also from its opposite `8, 4`
 - To compensate, they rise in `5, 1` and `7, 3`.
 
 The surface `EFGH` of the earth remains round because it is solid. 

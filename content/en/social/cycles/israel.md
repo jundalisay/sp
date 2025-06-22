@@ -108,7 +108,7 @@ The problem is that oil is a mere commodity and does not multiply labor nor prod
 
 In a war using machines, productivity is important as it gives the vehicles, weapons, ammunition, and supplies needed by the military.
 
-Arab productivity was far less than that of the Jewish power which was based on the financial industry*. And so, Isreal could buy the expensive modern weapons that let them gain more Palestinian lands. 
+Arab productivity was far less than that of the Jewish power which was based on the financial industry*. And so, Israel could buy the expensive modern weapons that let them gain more Palestinian lands. 
 
 
 {{< n n="The power of finance can be reduced by moneyless systems." >}}
@@ -220,7 +220,7 @@ Phase: Year | Policy
 Phase 1: Years 1-4 | Sanctions are placed on Israel for crimes against humanity until One State Solution is ratified. Work on the new Constitution begins. The 3 Presidents are elected. New interpretation of Quran and Torah are spread. Local police are established. A part of the Israeli military is given to the 3rd party to keep the peace between the 3 peoples. Some refugees will return
 Phase 3: Years 10- | Sanctions are lifted. Central Miltary is expanded to include the police of each mini state. All historical land titles from the records of the Ottoman empire, Britain, and Jordan will be collected. Lands will be given back to descendants of owners as usufruct rights. A lot of clashes will happen at this period.
 Phase 4: Years 20- | Most of the clashes will die down. More Palestinian refugees in Jordan, Lebanon, Syria, Egypt, etc. can gradually return.
-Phase 5: Years 50- | Zionism will have a mini-resurgence and cause clashes with the returning refugees. This will test the unif of the military
+Phase 5: Years 50- | Zionism will have a mini-resurgence and cause clashes with the returning refugees. This will test the unity of the military
 
 <!-- keep this for cycles
 Phase 1: 2024 | Sanctions are placed on Israel for crimes against humanity until One State Solution is ratified. Work on the new Constitution begins.
