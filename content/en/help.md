@@ -23,12 +23,23 @@ You can help by:
 - joining our [Facebook group](https://www.facebook.com/groups/superphysicsorg/)
 - telling us about broken pages, bugs, typos, confusing articles, or factual errors
 - submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
-- donating cash or in kind
+- donating cash or in kind:
+
+
+## Paypal
 
 [PayPal.me/pantrypoints](https://PayPal.me/pantrypoints)
 
+
+## GCash
+
 {{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For people in the Philippines" >}}
 
+
+## Momo
+
 {{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For people in Vietnam" >}}
+
+
 
 Feel free to send an email to pantrypoints@gmail.com 
