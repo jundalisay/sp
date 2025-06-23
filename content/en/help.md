@@ -19,16 +19,16 @@ You can help by:
   - Hanoi
   - Ho Chi Minh City
   - Metro Manila
-  - Kuala Lumpur
+  - Peshawar
 - joining our [Facebook group](https://www.facebook.com/groups/superphysicsorg/)
 - telling us about broken pages, bugs, typos, confusing articles, or factual errors
 - submitting articles related to Superphysics, Socartes, Descartes, Hume, Smith, Spinoza, Ibn-Khaldun, Alternative Medicine
 - donating cash or in kind
 
-You can send an email to pantrypoints@gmail.com 
-
+[PayPal.me/pantrypoints](https://PayPal.me/pantrypoints)
 
 {{< img src="/graphics/wallet/gcash.png" alt="Gcash" cap="For people in the Philippines" >}}
 
 {{< img src="/graphics/wallet/momo.jpg" alt="Momo" cap="For people in Vietnam" >}}
 
+Feel free to send an email to pantrypoints@gmail.com 

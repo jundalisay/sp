@@ -10,31 +10,43 @@ description: "In 1865, Maxwell occupied himself in writing a connected account o
 ---
 
 
-This opinion that conductors are the media of propagation of electric disturbance was entertained also by Ludwig Lorenz (b. 1829, d. 1891), of Copenhagen, who independently developed an electromagnetic theory of light[60] a few years after the publication of Maxwell's memoirs.
+<!-- This opinion that conductors are the media of propagation of electric disturbance was entertained also by  -->
 
-The procedure which Lorenz followed was that which Riemann had suggested[61] in 1858—namely, to modify the accepted formulae of electrodynamics by introducing terms which, though too small to be appreciable in ordinary laboratory experiments, would be capable of accounting for the propagation of electrical effects through space with a finite velocity. We have seen that in Neumann's theory the electric force E was determined by the equation
+Ludwig Lorenz (b. 1829, d. 1891) of Copenhagen independently developed an electromagnetic theory of light a few years after the publication of Maxwell's memoirs.
 
-  (1)
+He followed the procedure which Riemann had suggested in 1858— to modify the accepted formulae of electrodynamics by introducing terms which, though too small to be appreciable in ordinary laboratory experiments, would be capable of accounting for the propagation of electrical effects through space with a finite velocity. 
 
-where φ denotes the electrostatic potential defined by the equation
+We have seen that in Neumann's theory the electric force E was determined by the equation
+
+..  (1)
+
+where φ denotes the electrostatic potential defined by the equation:
+
+...
 
 
 ρ′ being the density of electric charge at the point (x′, y′, z′), and where a denotes the vector-potential, defined by the equation
 
+...
 
 ι′ being the conduction-current at (x′, y′, z′). We suppose the specific inductive capacity and the magnetic permeability to be everywhere unity.
 
 Lorenz proposed to replace these by the equations
 
+...
 
 
-the change consists in replacing the values which ρ′ and ι′ have at the instant t by those which they have at the instant (t - r/c), which is the instant at which a disturbance travelling with velocity c must leave the place (x′, y′, z′) in order to arrive at the place (x, y, z) at the instant t. Thus the values of the potentials at (x, y, z) at any instant t would, according to Lorenz's theory, depend on the electric state at the point (x′, y′, z′) at the previous instant (t - r/c): as if the potentials were propagated outwards from the charges and currents with velocity c. The functions φ and a formed in this way are generally known as the retarded potentials.
+the change consists in replacing the values which ρ′ and ι′ have at the instant t by those which they have at the instant (t - r/c), which is the instant at which a disturbance travelling with velocity c must leave the place (x′, y′, z′) in order to arrive at the place (x, y, z) at the instant t. 
 
-The equations by which φ and a have been defined are equivalent to the equations
+Thus the values of the potentials at (x, y, z) at any instant t would, according to Lorenz's theory, depend on the electric state at the point (x′, y′, z′) at the previous instant (t - r/c): as if the potentials were propagated outwards from the charges and currents with velocity c. 
 
- (2)
+The functions φ and a formed in this way are generally known as the retarded potentials.
 
- (3)
+The equations by which φ and a have been defined are equivalent to the equations:
+
+...  (2)
+
+... (3)
 
 while the equation of conservation of electricity,
 
@@ -73,4 +85,5 @@ In 1871, he returned to Cambridge as Professor of Experimental Physics; and two 
 In this celebrated work is comprehended almost every branch of electric and magnetic theory; but the intention of the writer was to discuss the whole as far as possible from a single point of view, namely, that of Faraday; so that little or no account was given of the hypotheses which had been propounded in the two preceding decades by the great German electricians.
 
 So far as Maxwell's purpose was to disseminate the ideas of Faraday, it was undoubtedly fulfilled; but the Treatise was less successful when considered as the exposition of its author's own views.
+
 

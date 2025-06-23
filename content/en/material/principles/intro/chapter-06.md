@@ -12,14 +12,13 @@ icon: "Juan"
 ---
 
 
-Each of the 5 Layers implements a Conservation Law in order to maintain the balance in the universe because:
+Each of the 5 Layers (Elements in Cartesian Physics) implements a Conservation Law in order to maintain the balance in the universe because:
 - our universe is really one Supreme Entity, as a single unit
 - a change in one aspect or part affects the whole  
 
 
 {{< q a="Rene Descartes" c="Principia Philosophia, Article 42" >}}
-[The 2nd Rule of movement] proves immutability of God's operation, conserving the world now with the same action with which He once created it.
-God from the start moved its various particles in different ways and arranged them so that some particles would impel others and transfer their motions to them. He conserves motion by letting those motions pass from one to another as they encounter each other. Thus, this continuous alteration of creatures itself is an argument for the immutability of God.
+[The 2nd Rule of movement] proves immutability of God's operation, conserving the world now with the same action with which He once created it. God from the start moved its various particles in different ways and arranged them so that some particles would impel others and transfer their motions to them. He conserves motion by letting those motions pass from one to another as they encounter each other. Thus, this continuous alteration of creatures itself is an argument for the immutability of God.
 {{< /q >}}
 
 
@@ -59,9 +58,9 @@ This operates in the radiant layer and is already well known in Physics. Energy 
 This actually changes the energy from electromagnetic to material motion. For example, a generator converts electromagnetic force into physical motions. 
 
 
-## The Law of Conservation of Aether
+## The Law of Conservation of Substance
 
-This operates in the convertible layer which facilitates "flavor changing" and is responsible for the diversity of the material layer below it. 
+This operates in the convertible layer which facilitates "flavor changing" and is responsible for the diversity of the material layer below it. This is because the Conversion layer converts matter the energy and vice versa. 
 
 Flavor changing is a good and natural word for this layer because traditionally this was called the Water Element. 
 
@@ -73,6 +72,3 @@ It is the wetness of water and liquids that allows both:
 ## The Law of Conservation of Mass
 
 This operates in the material layer and is already well known in Physics. Matter is facilitated by the static aetherspace and is the most crudified version of the aether. 
-
-
-

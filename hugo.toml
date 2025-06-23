@@ -32,7 +32,7 @@ pagerSize = 24
         {name = "News", url = "news", weight = 1},
         {name = "FAQs", url = "faqs", weight = 25},
         {name = "Tags", url = "tags", weight = 27},
-        {name = "Help!", url = "research", weight = 29}
+        {name = "Help!", url = "help", weight = 29}
       ]
     [languages.en.params]
       flag = "/flags/gb.png"
