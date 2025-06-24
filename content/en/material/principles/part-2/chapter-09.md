@@ -118,7 +118,7 @@ But in order to make the arbitrary spacetimes real, Einstein uses the speed of l
 
  <!-- empirical observations (that are common to all humans) possible. This c is then balanced by a cosmological constant as the medium or arena for the c. -->
 
-{{< q a="Einstein-sophist" c="Relativity, Chapter 8" >}}
+{{< q a="Einstein" c="Relativity, Chapter 8" >}}
 We test simultaneity by putting an observer in the middle `M` between `A` and `B`. He as two mirrors inclined at 90° to let him see both `A` and `B` at the same time. **If he sees the two flashes of lightning at the same time, then they are simultaneous [happen at the same time]** You object by saying that "time" would only be "simultaneity" if light travels at a constant speed but the speed of light is measured by time. **You would say this is reasoning in a circle and therefore, simultaneity has absolutely nothing to do with light.**
 {{< /q >}}
 
@@ -131,7 +131,7 @@ This limits temporal movement to the speed of light. While the continuum makes a
 
 This then creates a universe locked-in by the radiant layer just as the Ptolemy's concentric spheres locked in the geocentric universe around the Earth. 
 
-{{< img src="/graphics/physics/traf.png" alt="Einstein's Trafalgar Square" cap="Einstein applies geometries onto space itself" >}}
+{{< img src="/graphics/physics/traf.png" alt="Einstein's Trafalgar Square" cap="Einstein applies geometries onto space itself. In constrast, we apply geometries directly onto identities, as the 5 Platonic shapes" >}}
 
 
 <!-- These are used to plug the holes and differences between the imagination and the actual universe. This is similar to Aristotle and  around the Earth. -->

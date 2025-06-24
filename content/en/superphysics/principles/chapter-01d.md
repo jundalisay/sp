@@ -50,7 +50,7 @@ From this we can say that:
 - The 7th dimension is the 6th dimension stitched with a total perspective, as the total reality
 - The 8th dimension is the 7th dimension as one object, as perfection or void
 
-{{< youtube e7rRQEq9C60 >}}
+{{< youtube ANmq24cJFc0 >}}
 
 {{< q a="Kepler" c="The Harmony of the World, Introduction" >}}
 By doubling the sides of the first Tetractys, another Pythagorean Tetractys is constructed, of the number 36, the most famous and in all respects the most useful which they possessed, that is the triangle of numbers of which the

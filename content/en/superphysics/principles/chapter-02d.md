@@ -36,7 +36,7 @@ This is why “mentality creates reality”, to be explained in Chapter 3.
 This truth is perpetually challenged by materialists who believe that the Material Layer is superior and so put forth the opposite maxim “seeing is believing” or “matter creates mind”. 
 
 
-{{< q a="Marx" c="The German Ideology, Part 1" >}}
+{{< q a="Karl Marx" c="The German Ideology, Part 1" >}}
 The production of ideas, consciousness, is at first directly interwoven with the material activity of men, the language 
 of real life. Conceiving, thinking appear at this stage as the direct efflux of their material behaviour.
 {{< /q >}}

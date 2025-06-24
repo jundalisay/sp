@@ -12,6 +12,10 @@ writer:
 ---
 
 
+{{< n n="We have replaced the bands with virtual space particles of Descartes. We use the bands where relationality is needed, but use virtual space particles when precision is needed since it can take the form of Newton's F easily." >}}
+
+
+
 Chapter 3 explained how the Law of Conservation of Idea gives every identity a unique dharma. This uniqueness gives it the property of movement and dynamism as it tries to preserve that uniqueness in the sea of creation. 
 
 Chapter 4c explained the concept of gravitational signatures as notations of that dharma.

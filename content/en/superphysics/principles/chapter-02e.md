@@ -55,6 +55,9 @@ Flexible | the goal should have a Plan A, Plan B, etc as many roads can lead to 
 Definable | the goalposts and results should be defined as to be comparable | This is similar to the Specific criterion
 
 
+{{< youtube e3OVUpsPkD8 >}}
+
+
 ### Natural Criterion
 
 The first criteria is the natural-ness of the goal. There are some goals imposed by others that are not natural. 

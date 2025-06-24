@@ -134,7 +134,7 @@ To have a basis for the actual phenomena that is sequential or made up of succes
 {{< i s="/graphics/meta/divisions.jpg" a="3 Operational Divisions" c="">}}
 
 
-{{< q a="Ibn-Khaldun" >}}
+{{< q a="Ibn Khaldun" c="Muqaddimah" >}}
 The ability to think has several degrees.
 1. The first degree.. mostly consists of perceptions. 
 2. The experimental intellect

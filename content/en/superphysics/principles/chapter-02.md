@@ -238,7 +238,7 @@ metal / earth - yang
 
 Bacon and Descartes clearly did not believe in a dominating personal God, as proven by Bacon's own essay: 
 
-{{< q a="Bacon" >}}
+{{< q a="Francis Bacon" >}}
 "For it is a thousand times more credible, that four mutable elements, and one immutable fifth essence, duly and eternally placed, need no God, than that an army of infinite small portions, or seeds unplaced, should have produced this order and beauty, without a divine marshal"
 {{< /q >}}
 
