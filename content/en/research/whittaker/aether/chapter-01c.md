@@ -101,9 +101,7 @@ Hooke's theoretical investigations on light were very important.
 He begins by attacking Descartes' proposition, that light is a tendency to motion rather than an actual motion. 
 
 {{< q a="Hooke" >}}
-There is[29] no luminous Body but has the parts of it in motion more or less. This motion is exceedingly quick. 
-
-Some bodies like diamonds shine for a considerable time without being wasted away when rubbed or heated in the dark. It follows that whatever is in motion is not permanently lost to the body.
+There is[29] no luminous Body but has the parts of it in motion more or less. This motion is exceedingly quick. Some bodies like diamonds shine for a considerable time without being wasted away when rubbed or heated in the dark. It follows that whatever is in motion is not permanently lost to the body.
 {{< /q >}}
 
 Therefore, the motion must be of a to-and-fro or vibratory character. The amplitude of the vibrations must be exceedingly small, since some luminous bodies eg, the diamond again) are very hard, and so cannot yield or bend to any sensible extent.
@@ -122,9 +120,7 @@ Hooke asks: How does light travel through space? What is the trajection of this 
 {{< /q >}}
 
 {{< q a="Hooke" >}}
-Every pulse or vibration of the luminous body will generate a Sphere, which will continually increase and grow bigger. This is like the waves or rings on the surface of the water swelling into bigger circles around the point where a stone was sunk. 
-
-All the parts of these Spheres undulated through an Homogeneous medium cut the Rays at right angles."
+Every pulse or vibration of the luminous body will generate a Sphere, which will continually increase and grow bigger. This is like the waves or rings on the surface of the water swelling into bigger circles around the point where a stone was sunk. All the parts of these Spheres undulated through an Homogeneous medium cut the Rays at right angles."
 {{< /q >}}
 
 Here we have a fairly definite mechanical conception. It resembles that of Descartes in postulating a medium as the vehicle of light.
