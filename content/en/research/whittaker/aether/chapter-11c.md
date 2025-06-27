@@ -11,19 +11,27 @@ description: "The properties of highly rarefied gases were investigated by Sir W
 
 
 
-The advances which were effected in the last quarter of the 19th century in regard to the conduction of electricity through liquids, considerable though these advances were, may be regarded as the natural development of a theory which had long been before the world. 
+<!-- The advances which were effected in the last quarter of the 19th century in regard to the conduction of electricity through liquids, considerable though these advances were, may be regarded as the natural development of a theory which had long been before the world. 
 
-It was otherwise with the kindred problem of the conduction of electricity through gases: for although many generations of philosophers had studied the remarkable effects which are presented by the passage of a current through a rarefied gas, it was not until recent times that a satisfactory theory of the phenomena was discovered.
+It was otherwise with the kindred problem of : for although many generations of philosophers had studied the remarkable effects which are presented by the passage of a current through a rarefied gas, it was not until recent times that  -->
 
-Some of the electricians of the earlier part of the eighteenth century performed experiments in vacuous spaces; in particular, Hauksbee[35] in 1705 observed a luminosity when glass is rubbed in rarefied air.
 
-But the first investigator of the continuous discharge through a rarefied gas seems to have been Watson,[36] who, by means of an electrical machine, sent a current through an exhausted glass tube three feet long and three inches in diameter. 
+The conduction of electricity through liquids advanced considerably, but through gases, it was different.
+
+A satisfactory theory of the conduction of electricity through gases was created in the 18th century.
+
+<!-- Some of the electricians of the earlier part of the 18th century performed experiments in vacuous spaces. -->
+
+Hauksbee[35] in 1705 observed a luminosity when glass is rubbed in rarefied air.
+
+But the first investigator of the continuous discharge through a rarefied gas was Watson[36] who used an electrical machine to send a current through an exhausted glass tube 3  feet long and 3 inches in diameter. 
 
 He wrote: 
 
-"It was a most delightful spectacle, when the room was darkened, to see the electricity in its passage; to be able to observe not, as in the open air, its brushes or pencils of rays an inch or two in length, but here the coruscations were of the whole length of the tube between the plates, 32 inches." 
+{{< q a="Watson">}}
+When the room was darkened, I saw the electricity in its passage with its brushes or pencils of rays 1-2 inches long. But here the coruscations were of the whole length of the tube between the plates, 32 inches. Its appearance he described as being on different occasions "of a bright silver hue," "resembling very much the most lively coruscations of the aurora borealis," and "forming a continued arch of lambent fame.
+{{< /q >}}
 
-Its appearance he described as being on different occasions "of a bright silver hue," "resembling very much the most lively coruscations of the aurora borealis," and "forming a continued arch of lambent fame." 
 
 His theoretical explanation was that the electricity "is seen, without any preternatural force, pushing itself on through the vacuum by its own elasticity, in order to maintain the equilibrium in the machine"—a conception which follows naturally from the combination of Watson's one-fluid theory with the prevalent doctrine of electrical atmospheres.[37]
 
@@ -33,7 +41,9 @@ According to Nollet, the particles of the effluent stream collide with those of 
 
 Almost a century elapsed before anything more was discovered regarding the discharge in vacuous spaces. 
 
-But in 1838 Faraday,[40] while passing a current from the electrical machine between two brass rods in rarefied air, noticed that the purple haze or stream of light which proceeded from the positive pole stopped short before it arrived at the negative rod. The negative rod, which was itself covered with a continuous glow, was thus separated from the purple column by a narrow dark space: to this, in honour of its discoverer, the name Faraday's dark space has generally been given by subsequent writers.
+But in 1838 Faraday,[40] while passing a current from the electrical machine between two brass rods in rarefied air, noticed that the purple haze or stream of light which proceeded from the positive pole stopped short before it arrived at the negative rod. 
+
+The negative rod, which was itself covered with a continuous glow, was thus separated from the purple column by a narrow dark space: to this, in honour of its discoverer, the name Faraday's dark space has generally been given by subsequent writers.
 
 That vitreous and resinous electricity give rise to different types of discharge had long been known; and indeed, as we have seen,[41] it was the study of these differences that led Franklin to identify the electricity of glass with the superfluity of fluid, and the electricity of amber with the deficiency of it. 
 

@@ -14,11 +14,17 @@ The more refrangible components are the ones whose period is shorter than that o
 
 Cornu[93] and by C. G. W. König[94] found that their circular vibration was the same as the current in the electromagnet. 
 
-Thgis means that the vibration is due to a resinously-charged electron.
+This means that the vibration is due to a resinously-charged electron.
 
-Let the magnetizing current and the electron be supposed to circulate round the axis of z in the direction in which a right-handed screw must turn in order to progress along the positive direction of the axis of z; then the magnetic force is directed positively along the axis of z, and, in order that the force on the electron may be directed inward to the axis of z (so as to shorten the period), the charge on the electron must be negative.
+Let the magnetizing current and the electron be supposed to circulate round the axis of z in the direction in which a right-handed screw must turn in order to progress along the positive direction of the axis of z.
 
-The value of e/m for this negative electron may be determined by measurement of the separation between the components of the triplet in a magnetic field of known strength; for, as we have seen, the difference of the frequencies of the outer components is eK/m. The values of e/m thus determined agree well with the estimations[95] of e/m for the corpuscles of cathode rays.
+Then the magnetic force is directed positively along the axis of z, and, in order that the force on the electron may be directed inward to the axis of z (so as to shorten the period), the charge on the electron must be negative.
+
+The value of `e/m` for this negative electron may be determined by measurement of the separation between the components of the triplet in a magnetic field of known strength.
+
+This is because the difference of the frequencies of the outer components is `eK/m`. 
+
+The values of `e/m` thus determined agree well with the estimations[95] of e/m for the corpuscles of cathode rays.
 
 The phenomenon discovered by Zeeman is closely related to the magnetic rotation of the plane of polarization of light.[96] 
 
@@ -26,32 +32,50 @@ Both effects may be explained by supposing that the molecules of material bodies
 
 Zeeman's effect represents the influence of al external magnetic field on the free oscillations of these electric systems, while Faraday's effect represents the influence of the external magnetic field on the forced oscillations which the systems perform under the stimulus of incident light. The latter phenomenon may be analysed without difficulty on these principles, the equation of motion of one of the electrons being taken in the form
 
+...
 
 where m denotes the mass and e the charge of the electron, r its distance from the centre of force, κ2r the restitutive force, E and H the electric and magnetic forces. When the electron performs forced oscillations under the influence of light of frequency n, this equation becomes
+
+...
 
 
 The influence of the magnetic force on the motion of the electron is small compared with the influence of the electric force, i.e. the second term on the right is small compared with the first term; so in the second term we may replace r by its value as found from the first term, namely, eE/(κ2 – mn2). The equation thus becomes
 
-If P denote the electric moment per unit volume, we have:
+...
 
+
+If P denote the electric moment per unit volume, we have:
 
 P = er × the number of such systems in unit volume of the medium;
 
 so P must be of the form
 
+...
+
 where ε evidently represents the dielectric constant of the medium, and σ is the coefficient which measures the magnetic rotatory power. In the magneto-optic term we may replace H by K, the external magnetic force, since this is large compared with the magnetic force of the luminous vibrations. Thus if D denote the electric induction, we have
+
+...
 
 Combining this with the usual electromagnetic equations,
 
+...
+
 we have
+
+...
 
 When a plane wave of light is propagated through the medium in the direction of the lines of magnetic force, and the axis of x is taken parallel to this direction, the equation gives
 
+...
+
 and these equations, as we have seen,[98] are competent to explain the rotation of the plane of polarization.
+
 
 From the occurrence of the factor (κ2 – mn2) in the denomi. nator of the expression for the magneto-optic constant σ, it may be inferred that the magnetic rotation will be very large for light whose period is nearly the same as a free period of vibration of the electrons. A large rotation is in fact observed[99] when plane-polarized light, whose frequency differs but little from the frequencies of the D-lines, is passed through sodium vapour in a direction parallel to the lines of magnetic force.
 
 The optical properties of metals may be explained, according to the theory of electrons, by a slight extension of the analysis which applies to the propagation of light in transparent substances, It is, in fact, only necessary to suppose that some of the electrons in metals are free instead of being bound to the molecules: a supposition which may be embodied in the equations by assuming that an electric force E gives rise to a polarization P, where
+
+...
 
 the term in α represents the effect of the inertia of the electrons; the term in β represents their ohmic drift; and the term in γ represents the effect of the restitutive forces where these exist. This equation is to be combined with the customary electromagnetic equations
 
@@ -59,16 +83,23 @@ In discussing the propagation of light through the metal, we may for convenience
 
 For Ex, and Px we may substitute exponential functions of
 
+...
 
 where n denotes the frequency of the light, and μ the quasi-index of refraction of the metal: the equations then give at once
 
-Writing 
+Writing ....
 
 for `μ`, so that ν is inversely proportional to the velocity of light in the medium, and κ denotes the coefficient of absorption, and equating separately the real and imaginary parts of the equation, we obtain
 
-When the wave-length of the light is very large, the inertia represented by the constant α has but little influence, and the equations reduce to those of Maxwell's original theory[100] of the propagation of light in metals. The formulae were experimentally confirmed for this case by the researches of E. Hagen and H, Rubens[101] with infra-red light; a relation being thus established between the ohmic conductivity of a metal and its optical properties with respect to light of great wavelength.
+...
 
-When, however, the luminous vibrations are performed more rapidly, the effect of the inertia becomes predominant; and ​if the constants of the metal are such that, for a certain range of values of n, ν2κ is small, while ν2(1 - κ2) is negative, it is evident that, for this range of values of n, ν will be small and κ large, i.e., the properties of the metal will approach those of ideal silver.[102] Finally, for indefinitely great values of n, ν2κ is small and ν2(1 - κ2) is nearly unity, so that ν tends to unity and κ to zero: an approximation to these conditions is realized in the X-rays.[103]
+When the wave-length of the light is very large, the inertia represented by the constant α has but little influence, and the equations reduce to those of Maxwell's original theory[100] of the propagation of light in metals. 
+
+The formulae were experimentally confirmed for this case by the researches of E. Hagen and H, Rubens[101] with infra-red light; a relation being thus established between the ohmic conductivity of a metal and its optical properties with respect to light of great wavelength.
+
+When, however, the luminous vibrations are performed more rapidly, the effect of the inertia becomes predominant; and if the constants of the metal are such that, for a certain range of values of n, ν2κ is small, while ν2(1 - κ2) is negative, it is evident that, for this range of values of n, ν will be small and κ large, i.e., the properties of the metal will approach those of ideal silver.[102] 
+
+Finally, for indefinitely great values of n, ν2κ is small and ν2(1 - κ2) is nearly unity, so that ν tends to unity and κ to zero: an approximation to these conditions is realized in the X-rays.[103]
 
 In the last years of the 19th century, attempts were made to form more definite conceptions regarding the behaviour of electrons within metals. 
 

@@ -30,40 +30,50 @@ When I had sufficiently penetrated the maze of match-box wooden structures and c
 Excuse me, I'm a bit lost. Can you tell me where the anti-insurgency training section is?
 {{< /l >}}
 
-
 I asked, wondering if there was any such place. 
 
-"Who did you want to meet there?" he asked.
+{{< r a="Officer" >}}
+Who did you want to meet there?
+{{< /r >}}
 
 "The chief training officer," I said. 
 
-"The man dealing with that material has an office not far from here. Let me have a look at your pass to make sure you won't have any problems accessing the area." 
+{{< r a="Officer" >}}
+The man dealing with that material has an office not far from here. Let me have a look at your pass to make sure you won't have any problems accessing the area.
+{{< /r >}}
+
 
 Without hesitation, simply depending on Baba, I said, "I don't have any pass." 
 
-"What? Then how did you get onto the base?" 
+{{< r a="Officer" >}}
+What? Then how did you get onto the base?
+{{< /r >}}
+
 
 {{< l a="Dharmavedanda" >}}
 I just walked here, and no one stopped me.
 {{< /l >}}
 
 
-"Astonishing! I've never heard of such a thing before! Excuse me, sir, but can I know your purpose?" 
+{{< r a="Officer" >}}
+Astonishing! I've never heard of such a thing before! Excuse me, sir, but can I know your purpose?
+{{< /r >}}
+
 
 {{< l a="Dharmavedanda" >}}
 I'm a social worker. I have an interest in developing a course to discipline my staff. I think there's much to learn from military discipline.
 {{< /l >}}
 
 
-He looked at me intently. "Excuse me for saying, sir, but you look a bit like Jesus Christ." 
+He looked at me intently. 
 
-"Many people say that..." 
+{{< r a="Training Officer" >}}
+Excuse me for saying, sir, but you look a bit like Jesus Christ. You entered without a pass! I can't get over it. Well, perhaps there's a special force behind your work. Let's go to my office. I'll issue you a pass myself.
+{{< /r >}}
 
-"You entered without a pass! I can't get over it. Well, perhaps there's a special force behind your work. Let's go to my office. I'll issue you a pass myself.” 
 
 
 After completing the formalities, he telephoned the training section and arranged a jeep to take me there. When I got down from the jeep, a soldier met me, saying, "Come this way, sir." 
-
 
 He led me to the office of a man introduced as a two-star general. 
 
@@ -84,9 +94,7 @@ As you know better than I, the revolutionary army's make-up is different from th
 
 They mix with the general population, breathing in and out the problems of the common people. They face constant temptation to give up their fight and return to the security of normal life. So they must be fully aware, ideological, self- willed, creative and, above all, inspired."
 
-<!-- "I'm impressed, Mr ... uh, sorry, what was your name again?" 
-
-"Jackson."  -->
+<!-- "I'm impressed, Mr ... uh, sorry, what was your name again?" "Jackson."  -->
 
 "... Mr Jackson. Really impressed, both with your straight-forwardness and with your sincere intentions. And I do understand. Yes, indeed I do. You've put your finger on one of the labyrinthine problems of the military forces—how to encourage fighting zeal and individual initiative, while at the same time maintaining strict lines of order and discipline. Yes, I'm sympathetic and will try my best to help you. Yours is a truly novel approach to social work. Can you wait here a few minutes?"
 
