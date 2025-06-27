@@ -14,7 +14,7 @@ aliases:
 
 
 
-### 10. Only the blood that enters the brain are stronger or more vigorous than those going to the reproductive organs
+## 10. Only the blood that enters the brain are stronger or more vigorous than those going to the reproductive organs
 
  <!-- transported to the vessels dedicated to reproduction -->
 

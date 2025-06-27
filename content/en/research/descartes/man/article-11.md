@@ -23,7 +23,7 @@ From this, it can naturally be inferred, with proper analogy, how this machine s
  -->
 
 
-#### 11. The muscle for breathing D raises its chest, or lowers its diaphragm. 
+## 11. The muscle for breathing `D` raises its chest, or lowers its diaphragm. 
 
 The muscle `E` is its opposite. 
 
@@ -56,7 +56,7 @@ They are all so arranged, that, when it is the sembla bles to `d` which swell, t
 
 
 
-### 12. How does the body swallow the meats which are at the bottom of its mouth?
+## 12. How does the body swallow the meats which are at the bottom of its mouth?
 
 Muscle `D`:
 - raises the root of its tongue

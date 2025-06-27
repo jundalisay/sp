@@ -12,13 +12,11 @@ writer:
 
 
 
-## Hunger
-
-### 21. The body also has internal senses. 
+## 21. The body also has internal senses. 
 
 <!-- Having thus explained the five external senses as they are found in this machine, it is not permissible to pass over the internal senses with silence, with which it is also equipped. -->
 
-### 22. When the strong water in the stomach does not find sufficient food there to consume and exert its powers, the nerve filaments there become more vigorously agitated than usual.
+## 22. When the strong water in the stomach does not find sufficient food there to consume and exert its powers, the nerve filaments there become more vigorously agitated than usual.
 
 
 <!-- Therefore, when the liquid, which I mentioned above as performing the function of  -->
@@ -47,9 +45,9 @@ Pregnant women get a craving for certain foods when..
 That liquid especially congregates at the bottom of the stomach, and there presses the sensation of hunger.
 
 
-## Thirst
 
-### 23. Many parts of that liquid ascend to the throat to moisten it and fill the pores in the manner of water
+
+## 23. Many parts of that liquid ascend to the throat to moisten it and fill the pores in the manner of water
 
 When there is less than needed, they go there in the manner of air or smoke.
 

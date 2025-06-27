@@ -11,7 +11,7 @@ writer:
 ---
 
 
-### 30. How are our ideas of objects formed in the seat of imagination and common sense?
+## 30. How are our ideas of objects formed in the seat of imagination and common sense?
 
 How are they preserved in memory? How do they stir the movement of all the limbs?
 
@@ -53,7 +53,7 @@ The tubes `2, 4, 6` are open in various ways.
 - These also imprint their trace on the inner surface of the brain through filaments `1, 2, 3, 4, 5, 6`, etc.
 
 
-### 31. How the spirits enter and exit the pineal gland
+## 31. How the spirits enter and exit the pineal gland
 
 The spirits which try to enter each of the tubes `2, 4, 6` and similar ones of the pineal gland 
 

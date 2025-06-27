@@ -13,7 +13,7 @@ icon: "Rene Descartes"
 
 
 
-### 13. How do external objects affect the sense-organs and incite them to move?
+## 13. How do external objects affect the sense-organs and incite them to move?
 
 <!-- all its members in a thousand ways, one must consider that  -->
 

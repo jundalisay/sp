@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-### 1. Men have a soul and a body.
+## 1. Men have a soul and a body.
 
 <!-- These men will be composed, like us, of a soul and a body.  -->
 
@@ -21,7 +21,7 @@ icon: "Rene Descartes"
 
 <!-- nothing other than a statue or -->
 
-### 2. The body is a machine of earth which God forms on purpose to make it as similar to us as possible. 
+## 2. The body is a machine of earth which God forms on purpose to make it as similar to us as possible. 
 
 He gives its outside the color and shape of all our members, but he also puts on its inside the color and shape of our bodies.
 
@@ -59,7 +59,7 @@ I will explain instead the small parts which are invisible because of their smal
 <!-- of this machine -->
 
 
-### 3. The meats are digested in the stomach through the force of certain liquors
+## 3. The meats are digested in the stomach through the force of certain liquors
 
 These liquors slip between their particles, separate, agitate, and heat them just as:
 - common water does the same to quicklime, or
@@ -95,7 +95,7 @@ The pores of the liver make the entering liquor more subtle so that it elaborate
 This blood in the veins leaves the liver only through one way that also leads it into the right side of the heart.
 
 
-## The Heart
+### The Heart
 
 The flesh of the heart contains in its pores one of those lightless fires.
 - This makes it so hot and burning. 
@@ -111,7 +111,7 @@ From there it goes to what is called by anatomists as the vein of the lung 'veno
 <!-- , in its other concavity, rare-->
 
 
-### 4. The flesh of the lung is so soft and decompressed 
+## 4. The flesh of the lung is so soft and decompressed 
 
 It is always refreshed by the air of the breath. 
 

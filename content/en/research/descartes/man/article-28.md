@@ -12,12 +12,12 @@ icon: "Rene Descartes"
 
 
 
-### 28. The pores of the brain are like the gaps between the threads of linen
+## 28. The pores of the brain are like the gaps between the threads of linen
 
 The whole brain is a texture arranged in a peculiar manner.
 
 
-### 29. The surface `AA` faces the cavities `EE`
+## 29. The surface `AA` faces the cavities `EE`
 
 
 {{< i s="/graphics/bio/fig_28.jpg" a="Brain" c="Figure 31" >}}
@@ -27,7 +27,7 @@ It is like a fairly expanded, dense, and intricately woven plexus, resembling a 
 
 
 
-#### The Nerve Fibers or Filaments
+### The Nerve Fibers or Filaments
 
 Each of its filaments is a tube through which the spirits flow.
 

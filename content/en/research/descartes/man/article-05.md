@@ -24,11 +24,12 @@ contentus ab earum extremitatibus ad cor sensim refluit juxta dispositionem valv
 
 <!-- Animals which have no lungs at all have only one cavity in the heart. -->
 
-#### 5. Some animals entirely lack lungs and have only one ventricle in their heart. 
+## 5. Some animals entirely lack lungs and have only one ventricle in their heart. 
 
 If they have multiple ventricles, these are all consecutive to each other.
 
-#### 6. The pulse, or beat of the arteries, depends on the 11 little membranes. 
+
+## 6. The pulse, or beat of the arteries, depends on the 11 little membranes. 
 
 These function as valves, opening and closing the entrances of the 4 vessels connected to the 2 ventricles of the heart. 
 
@@ -64,7 +65,7 @@ And so the heart and arteries swell up:
 This gives passage to two other drops of blood, which again swell up the heart and arteries, just as the previous ones did.
 
 
-#### 7. The blood restores whatever is expelled by the continuous movement of surrounding bodies. 
+## 7. The blood restores whatever is expelled by the continuous movement of surrounding bodies. 
 
 The 2 kinds of blood are:
 - The blood in the veins is freshly transferred from the liver.

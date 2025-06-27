@@ -47,30 +47,14 @@ From which it follows that every body which is moved circularly tends perpetuall
 We experience this by the very sense of touch in a stone while we whirl it around in the sling. 
 
 
+## 40. The Third Law: A moving body loses its determination but not its motion when it hits a more powerful body. But if it hits a less powerful body, it will move it along with itself and transfer some of its motion.
 
-<!-- ## 40. The third law: when one body meets another stronger, it loses nothing of its motion; in encountering a less strong man, he loses as much as he transfers into it.
-
-The third law of nature is this: When a body in motion encounters another, if it has less force to proceed in a straight line than the other has to resist it, then it is deflected in another direction and, while retaining its motion, loses only the determination of its motion. 
-
-But if it has greater force, then it moves the other body with it and loses as much of its own motion as it imparts to it. 
-
-Thus we experience that any hard bodies projected, when they strike another hard body, do not cease from motion but are reflected toward the opposite side; on the contrary, when they encounter a soft body, because they easily transmit all their motion to it, they are immediately reduced to rest. 
-
-All the particular causes of changes that happen to bodies are contained in this third law, at least those that are bodily.
-
-The power that minds, whether human or angelic, have in moving bodies is discussed in my Treatise on Man.
- -->
-
-
-## 40. The Third Law: A body does not lose its motion when it encounters a more powerful body. But it transfers some of its motion when it encounters a less powerful body
 
 Body `weak` has less force than body `strong`. If `weak`, moving in a straight line, hits `strong`, then `weak` will be deflected, retaining its motion but losing its direction.*
 
-{{< n n="This explains friction when the deflected object is not allowed to fully deflect because of the irregulatrity of the surfaces" >}}
+<!-- determination of its motion;  -->
 
- <!-- determination of its motion;  -->
-
-But if `strong` were moving and hits `weak`, then `strong` will move `weak` with it. `strong` will lose as much of its own motion as it gives to `weak`. 
+<!-- But if `strong` were moving and hits `weak`, then `strong` will move `weak` with it. `strong` will lose as much of its own motion as it gives to `weak`. 
 
 Thus, when hard bodies are projected and strike another hard body, they do not stop moving. Instead, they are reflected to the opposite direction.
 
@@ -78,5 +62,14 @@ On the contrary, when they encounter a soft body, they can easily transfer all t
 
 All the changes which happen to corporeal bodies are contained in this Third Law.
 
-I do not look here into what force human or angelic minds have for moving bodies. That will be discussed in the Treatise on Man.
+I do not look here into what force human or angelic minds have for moving bodies. That will be discussed in the Treatise on Man. -->
 
+Thus, we see that a hard body we've pushed against another, larger body that is also hard and firm, bounces back to the side from which it came and loses none of its motion. 
+
+However, if the body it encounters is soft, it stops immediately because it transfers its motion to it.
+
+{{< n n="This explains friction when the deflected object is not allowed to fully deflect because of the irregulatrity of the surfaces" >}}
+
+All the causes of changes that occur in bodies are included in this rule, at least those that are corporeal. 
+
+I am not now inquiring whether **Angels and the thoughts of men have the force to move bodies**. I will answer that in the treatise on man.

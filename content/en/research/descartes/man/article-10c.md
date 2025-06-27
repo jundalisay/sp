@@ -31,8 +31,8 @@ But their differences are due to the shape and use of each muscle.
 
 For instance, the eyelids are moved by muscles. 
 
--  `T` in Figure IX, serves solely to open the upper one. 
-- The other, namely V, serves to alternately open and close both.
+-  `T` in Figure 9, serves solely to open the upper one. 
+- The other, namely `V`, alternately opens and closes both.
 
 They receive the spirits through 2 such tubes as `P V` and `Q S`, one of which `P V` extends to both of those muscles, while the other `Q S` extends only to one of them. 
 

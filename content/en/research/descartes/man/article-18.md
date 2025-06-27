@@ -11,7 +11,7 @@ writer:
 ---
 
 
-### 18. The sense of sight depends on two nerves composed of a vast number of extremely mobile capillaries
+## 18. The sense of sight depends on two nerves composed of a vast number of extremely mobile capillaries
 
 <!-- remains to be explained a little more precisely, as it pertains more to my goal. 
 

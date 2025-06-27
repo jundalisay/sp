@@ -11,7 +11,7 @@ icon: "Rene Descartes"
 ---
 
 
-#### 8. When arteries swell, the blood particles within them are dispersed in all directions to the roots of certain filaments
+## 8. When arteries swell, the blood particles within them are dispersed in all directions to the roots of certain filaments
 
 These filaments form bones, flesh, skin, nerves, brain, and other solid parts according to the various ways they are connected and interwoven. 
 
@@ -58,7 +58,7 @@ This is similar to how grains are sorted using sieves with differently sized hol
 
 
 
-### 9. The more vivid and actively-moving blood particles ascend to the brain's cavities
+## 9. The more vivid and actively-moving blood particles ascend to the brain's cavities
 
 This is because the arteries that carry them are situated in a straighter line than other arteries branching from the heart.
 

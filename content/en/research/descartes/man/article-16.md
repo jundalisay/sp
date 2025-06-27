@@ -12,7 +12,7 @@ writer:
 
 
 
-### 16. The filaments that make up the ears are not as thin as those preceding them
+## 16. The filaments that make up the ears are not as thin as those preceding them
 
 <!-- organs of hearing . -->
 
@@ -69,7 +69,7 @@ This is similar to the roughness of a stone being less pleasing to the touch tha
 `A` and `B`, or `A B C`, or `A B D`, or `A B E`, or even `A B C E`, harmonize better than `A` and `F`, or `A G D`,` or `A D E`, etc.
 
 
-### 17. This is how the soul, which inhabits the machine I, can be pleased by Music
+## 17. This is how the soul, which inhabits the machine I, can be pleased by Music
 
 <!-- , which is composed according to the same rules as our own.  -->
 

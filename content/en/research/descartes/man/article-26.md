@@ -12,7 +12,7 @@ writer:
 ---
 
 
-### 26. Animal spirits can exist at different times, in more or less abundance.
+## 26. Animal spirits can exist at different times, in more or less abundance.
 
 Among themselves, their particles can be:
 - more or less dense
@@ -60,7 +60,7 @@ What are the causes of the differences in spirits?
 
 
 
-### 27. The juice of foods passes through the stomach into the veins, mingling with the blood.
+## 27. The juice of foods passes through the stomach into the veins, mingling with the blood.
 
 This juice always imparts certain of its qualities to the blood.
 

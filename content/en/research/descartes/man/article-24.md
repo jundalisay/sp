@@ -17,7 +17,7 @@ How do the animal spirits move in the ventricles of the brain and its pores?
 What functions depend on them?
 
 
-#### 24. I call 'wind chests' the pneumatic operations of the pipe organs of Churches
+## 24. I call 'wind chests' the pneumatic operations of the pipe organs of Churches
 
 They force air into certain wind chambers.
 
@@ -26,7 +26,7 @@ They force air into certain wind chambers.
 The air then bursts forth into various channels as the organist strikes the keys of the organ with his fingers or the handles of the stops.
 
 
-#### 25. The heart and arteries are the bellows of an organ which impel air into its wind chambers
+## 25. The heart and arteries are the bellows of an organ which impel air into its wind chambers
 
 These drive the animal spirits into the hollows of our brain's machine.
 

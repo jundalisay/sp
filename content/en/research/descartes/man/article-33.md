@@ -12,7 +12,7 @@ writer:
 
 
 
-### 33. The senses depend on 6 circumstances.
+## 33. The senses depend on 6 circumstances.
 
 <!-- In order to conceive those motions similar to those by which we are naturally incited by the various actions of objects affecting our senses, I want you to consider with me  -->
 

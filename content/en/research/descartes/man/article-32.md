@@ -11,7 +11,7 @@ writer:
 ---
 
 
-### 32. How do the spirits enter into the nerves and create motion?
+## 32. How do the spirits enter into the nerves and create motion?
 
  <!-- consider the motions dependent on them.  -->
 
