@@ -3,21 +3,30 @@ title: "The Saint With Two Bodies"
 heading: Chapter 3
 description: ""
 c: "indigo"
-weight: 120
+weight: 12
 ---
 
 
-“Father, if I promise to return home without coercion, may I take a sight-seeing trip to Benares?”
+{{< l a="Yogananda" >}}
+Father, if I promise to return home without coercion, may I take a sight-seeing trip to Benares?
+{{< /l >}}
 
-My keen love of travel was seldom hindered by Father. He permitted me, even as a mere boy, to visit many cities and pilgrimage spots. Usually one or more of my friends accompanied me; we would travel comfortably on first-class passes provided by Father. His position as a railroad official was fully satisfactory to the nomads in the family.
+
+My keen love of travel was seldom hindered by Father. He permitted me, even as a mere boy, to visit many cities and pilgrimage spots. 
+
+Usually one or more of my friends accompanied me; we would travel comfortably on first-class passes provided by Father. His position as a railroad official was fully satisfactory to the nomads in the family.
 
 Father promised to give my request due consideration. The next day he summoned me and held out a round-trip pass from Bareilly to Benares, a number of rupee notes, and two letters.
+
 
 “I have a business matter to propose to a Benares friend, Kedar Nath Babu. Unfortunately I have lost his address. But I believe you will be able to get this letter to him through our common friend, Swami Pranabananda. The swami, my brother disciple, has attained an exalted spiritual stature. You will benefit by his company; this second note will serve as your introduction.”
 
 Father’s eyes twinkled as he added, “Mind, no more flights from home!”
 
-I set forth with the zest of my twelve years (though time has never dimmed my delight in new scenes and strange faces). Reaching Benares, I proceeded immediately to the swami’s residence. The front door was open; I made my way to a long, hall-like room on the second floor. A rather stout man, wearing only a loincloth, was seated in lotus posture on a slightly raised platform. His head and unwrinkled face were clean-shaven; a beatific smile played about his lips. To dispel my thought that I had intruded, he greeted me as an old friend.
+I set forth with the zest of my twelve years (though time has never dimmed my delight in new scenes and strange faces). Reaching Benares, I proceeded immediately to the swami’s residence. The front door was open; 
+
+
+I made my way to a long, hall-like room on the second floor. A rather stout man, wearing only a loincloth, was seated in lotus posture on a slightly raised platform. His head and unwrinkled face were clean-shaven; a beatific smile played about his lips. To dispel my thought that I had intruded, he greeted me as an old friend.
 
 “Baba anand (bliss to my dear one).” His welcome was given heartily in a childlike voice. I knelt and touched his feet.
 
@@ -132,6 +141,9 @@ After this extraordinary revelation, Swami Pranabananda retired into one of his 
 Kedar Nath Babu walked by my side in the gathering darkness. I delivered Father’s letter, which my companion read under a street lamp.
 
 “Your father suggests that I take a position in the Calcutta office of his railroad company. How pleasant to look forward to at least one of the pensions that Swami Pranabananda enjoys! But it is impossible; I cannot leave Benares. Alas, two bodies are not yet for me!”
+
+
+### Footnotes
 
 3-1: Choto Mahasaya is the term by which a number of Indian saints addressed me. It translates “little sir.”.
 

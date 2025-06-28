@@ -15,7 +15,6 @@ draft: true
 In Principia Philosophia, Rene Descartes writes that invisible spacetime particles travel in straight lines. 
 
 
-
 When encountering matter, this makes them push on that matter from all sides and turn it into a sphere, whether droplets or planets or stars. This is now known as surface tension in Physics.
 
 In large material objects, such as spherical planets, this push manifests as gravity. Things are heavy or light depending on how their matter oppose or permit those spacetime particles to pass through. 

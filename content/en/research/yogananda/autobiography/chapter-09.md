@@ -3,7 +3,7 @@ title: "The Blissful Devotee And His Cosmic Romance"
 heading: Chapter 9
 description: ""
 c: "indigo"
-weight: 190
+weight: 28
 ---
 
 
@@ -123,6 +123,9 @@ The unique pantomime brought me an inexpressible ecstasy. I drank deep from some
 If anyone observed the unpretentious master and myself as we walked away from the crowded pavement, the onlooker surely suspected us of intoxication. I felt that the falling shades of evening were sympathetically drunk with God. When darkness recovered from its nightly swoon, I faced the new morning bereft of my ecstatic mood. But ever enshrined in memory is the seraphic son of Divine Mother-Master Mahasaya!
 
 Trying with poor words to do justice to his benignity, I wonder if Master Mahasaya, and others among the deep-visioned saints whose paths crossed mine, knew that years later, in a Western land, I would be writing about their lives as divine devotees. Their foreknowledge would not surprise me nor, I hope, my readers, who have come thus far with me.
+
+
+### Footnotes
 
 9-1: These are respectful titles by which he was customarily addressed. His name was Mahendra Nath Gupta; he signed his literary works simply “M.”
 

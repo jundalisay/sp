@@ -188,6 +188,9 @@ I have found the great heart of America expressed in the wondrous lines by Emma 
   Send these, the homeless, tempest-tost to me,
   I lift my lamp beside the golden door.
 
+
+### Footnotes
+
 37-1: Many of those faces I have since seen in the West, and instantly recognized..
 
 37-2: Swami Premananda, now the leader of the Self-Realization Church of All Religions in Washington, D.C., was one of the students at the Ranchi school at the time I left there for America. (He was then Brahmachari Jotin.)

@@ -2,49 +2,72 @@
 title: "Siddhanta"
 heading: "Verse 6"
 weight: 3
-description: ""
+description: "A Siddhanta work ie an astronomical treatise"
 c: "darkgoldenrod"
 ---
 
 
 
 
-Verse 6. 
+### Verse 6. 
 
-A Siddhanta work ie an astronomical treatise is such a one which deals with the various measures of time ranging from a Trti  up to the duration of a Kalpa which culminates in a deluge ; planetary theory , arithmatical computations as well as algebraical processes , Questions with respect to intricate ideas and their answers , location of the earth , the stars and the planets , and description and usage of instruments.
+A Siddhanta work ie an astronomical treatise is such a one which deals with:
+- the various measures of time ranging from a Trti up to the duration of a Kalpa which culminates in a deluge
+- planetary theory
+- arithmatical computations as well as algebraical processes
+- questions with respect to intricate ideas and their answers
+- location of the earth, the stars and the planets
+- description and usage of instruments.
 
 Verse 7
 
-Though one knows astrology and that part of the science of Jyotisha which is known as Samhita (and which deals with various subjects like Muhurtas i.e . auspicious moments to be prescribed for various functions , Desarishtas ie Calamitous occurences to the countries etc . ) which form a part of the Science , he cannot answer so many intricate problems pertaining to Artronomy.
+Samhita deals with various subjects like Muhurtas i.e . auspicious moments to be prescribed for various functions , Desarishtas ie Calamitous occurences to the countries etc.
 
-Sush a person , who does not know the astronomical part of the science , which abounds in innunerable reasonings , is one like a king depicted in a drawing , or a lion fast tied to a pole .
+One knows astrology and that part of the science of Jyotisha which is known as Samhita which form a part of the Science.
+- But he cannot answer so many intricate problems pertaining to Artronomy.
+
+Sush a person who does not know the astronomical part of the science , which abounds in innunerable reasonings , is one like a king depicted in a drawing, or a lion fast tied to a pole .
 
 
 Verse 8.
 
-The Science of Jyautisha without Astronomy, is like a king's a my without roaring elephants though ex - celling in horses etc ; is like a garden without mango trees , or like a lake without water , or again like a lady parted with her newly married lover .
+The Science of Jyotisha without Astronomy, is like a king's a my without roaring elephants though ex-celling in horses etc.
+
+It is like a garden without mango trees , or like a lake without water , or again like a lady parted with her newly married lover .
 
 
 Verse 9. 
 
 The Vedic lore prescribes Sacrifices to be performed. These sacrifices are based on a knowledge of appropriate time to perform them. 
 
-This science of astronomy gives a knowledge of time; hence it has been reckoned as one of the six Vedangas or limbs of the Veda.
+This science of astronomy gives a knowledge of time. Hence, it has been reckoned as one of the 6 Vedangas or limbs of the Veda.
 
 
+### Verse 10. 
 
-Verse 10. (Out of the six Vedangas) The science of grammar is like the face of the person of the Veda, the science of Jyautisha takes the place of the eyes, the Nirukta that of the ears; the Kalpa that of the hands; the Siksha that of the nose and the Chandas the place of the feet.
-
-
-Verse 11. This science of Jyautisha being depicted as the very eyes of the Person of the Veda, so it has been acclaimed as the most important of the six Angas or limbs of the Veda, in as much as, even if a person be endowed with limbs like the ears, nose etc, if he be devoid of vision, he could not do anything.
+(Out of the 6 Vedangas) The science of grammar is like the face of the person of the Veda, the science of Jyautisha takes the place of the eyes, the Nirukta that of the ears; the Kalpa that of the hands; the Siksha that of the nose and the Chandas the place of the feet.
 
 
-Verse 12. This Science of Astronomy has been declared as the most important of the Vedangas. Hence this has to be studied by the Dwijas (ie Brahmins Kshatriyas and the Vaishyas who form the three higher castes), also because it is sacred, secret and the best discipline. 
+### Verse 11
 
-By so doing they would acquire Dharma, Artha, Kama as well as fame (Life is depicted as having a four-fold purpose out of which, Dharma, Artha and Kama form the first trio, Moksha being the ultimate goal of life).
+This science of Jyotisha is depicted as the very eyes of the Person of the Veda. So it has been acclaimed as the most important of the 6 Angas or limbs of the Veda, in as much as, even if a person be endowed with limbs like the ears, nose etc, if he be devoid of vision, he could not do anything.
 
 
-Verses 13 and 14. The creator having created the stellar circle along with the planets, placed the latter at the beginning of the circle, put them in constant revolution, at the same time putting the extreme two stars (on either side) in a fixed position.
+### Verse 12
+
+This Science of Astronomy has been declared as the most important of the Vedangas. 
+
+Hence this has to be studied by the Dwijas (ie Brahmins Kshatriyas and the Vaishyas who form the three higher castes), also because it is sacred, secret and the best discipline. 
+
+By so doing they would acquire Dharma, Artha, Kama as well as fame.
+
+Life is depicted as having a four-fold purpose out of which, Dharma, Artha and Kama form the first trio, Moksha being the ultimate goal of life.
+
+### Verses 13 and 14
+
+The creator having created the stellar circle along with the planets, placed the star at the beginning of the circle.
+
+He put them in constant revolution, at the same time putting the extreme 2 stars (on either side) in a fixed position.
 
 <!-- Comm. Bhaskara's own commentary Vasana Bhasha under this verse mentions the following points, which are to be noted. The twenty seven stars known as Asvini, Bharani etc. occupy positions roughly at equal distances along the Zodiac, arranged from west to east. The planets were all placed in the beginning of the stellar circle in such a way that they were in a straight line the moon, Mercury, Venus, Sun, Mars, Jupiter and Saturn occupying consecutive positions from the earth in increasing distances, not of uniform measure. The circle of stars known as the Zodiac lies far behind all the planets. There is a wind known as pravaha which keeps the entire Zodiac, as well as the planets below going round and round in the Westerly direction. At the same tim*, the planets while participating in this westerly motion, have themselves individual motion towards the east. Two stars, are placed one at the north-pole and the other at the south, and they are fixed¹. The diurnal motion due to pravaha is far greater than the individual motion of the planets among the stars in a direction from west to east ie the direction opposite to that of diurnal motion.
 
@@ -52,27 +75,53 @@ In this context, it is worth-noting that Aryabhata I mentioned the diurnal rotat
 "अनुलोमगतिः...." Bhaskara must have been aware of this; yet, in spite of his rational outlook in all matters, mis-guided himself in this respect (vide verse 3 Madhyagati-vasana-Goladhyaya), apparently for fear of tradition. -->
 
 
-Verse 15. The first Mahayuga, the first year, the first day of the bright half of the first month named Madhu, all of them began simultaneously at the Sun-rise² at Lanka on Sun-day, at the beginning of the first Kalpa which marked the beginning of creation.
+### Verse 15
+
+The first Mahayuga, the first year, the first day of the bright half of the first month named Madhu, all of them began simultaneously at the Sun-rise² at Lanka on Sun-day, at the beginning of the first Kalpa which marked the beginning of creation.
 
 <!-- Comm. Though, in the Commentary before, Bhaskara gave expression to the fact that Time is eternal with no beginning and no end, herein he mentions the point of Time when creation commenced. So, at the back of his mind, the concept of Time arose only at the beginning of creation, whereas before creation, as well as after deluge there was and would be neither the concept of Time nor space. In other words, both space and Time are manifest only after creation, and get extinguished after deluge. -->
 
 
-Verses 16, 17 and 18. The unit of Time named Tatpara is 1/30th of what is known as Nimesa or the time taken during the fall of an eyelid; One-hundredth of a Tatpara is known as a Trti ie the time taken to pierce a lotus-leaf with the finest needle. 
+### Verses 16, 17 and 18
 
-Eighteen Nimesas are equal to a Kastha. Thirty Kasthas are equal to a Kala, thirty Kalas are equal to one sidereal ghati. 
+The unit of Time named Tatpara is 1/30th of what is known as Nimesa or the time taken during the fall of an eyelid.
 
-Two ghatis make a Kshana and thirty Kshanas make a sidereal day. 
+One-hundredth of a Tatpara is known as a Trti ie the time taken to pierce a lotus-leaf with the finest needle. 
 
-30 sidereal days are equal to a sidereal month and twelve sidereal months make a sidereal year (not the sidereal solar year). 
+18 Nimesas are equal to a Kastha. 
 
-The Zodiac, divided into twelve parts, and 360 degrees, a degree divided into 60 minutes of arc and a minute divided into 60 seconds of arc all correspond to the year and its successive divisions.
+30 Kasthas are equal to a Kala.
+
+30 Kalas are equal to 1 sidereal ghati. 
+
+2 ghatis make a Kshana.
+
+30 Kshanas make a sidereal day. 
+
+30 sidereal days are equal to a sidereal month.
+
+12 sidereal months make a sidereal year (not the sidereal solar year). 
+
+The Zodiac is divided into 12 parts, and 360 degrees.
+
+A degree is divided into 60 minutes of arc.
+
+1 minute is divided into 60 seconds of arc all correspond to the year and its successive divisions.
 
 
-Verses 19, 20. The time taken by the Sun to complete one revolution with respect to the stars goes by the name 'the sidereal solar year'. 
+### Verses 19, 20
 
-This will be a day for the gods and demons. The time that elapses between two consecutive new moons or conjunctions of the Moon with the Sun is called a Chandra-masa or a lunar month or simply a lunation. This again is the day of the Pitrs or the Manes.
+The time taken by the Sun to complete one revolution with respect to the stars goes by the name 'the sidereal solar year'. 
 
-The time that elapses between two consecutive Sun rises at a place is termed the Sivana day or civil day. This is called Saura-Sivana day and is also the day of the earth.
+This will be a day for the gods and demons. 
+
+The time that elapses between 2 consecutive new moons or conjunctions of the Moon with the Sun is called a Chandra-masa or a lunar month or simply a lunation. 
+
+This again is the day of the Pitrs or the Manes.
+
+The time that elapses between two consecutive Sun rises at a place is termed the Sivana day or civil day. 
+
+This is called Saura-Sivana day and is also the day of the earth.
 
 The sidereal day is the time taken by the stars to go round the earth once. It is called Nakshatra-dina.
 
@@ -82,7 +131,9 @@ If we call the earth, the moon of the moon so to say, which it is so, when it is
 
 
 
-Verses 21, 22, 23, 24, 25. The four yuga-padas named Krita, Treta, Dwapara and Kali consist of 4 × 432000, 3 × 432000, 2 × 432000 and 432000 mean solar years respectively, the sum total of which consisting of (4+3+2+1) × 432000 = 43,20,000 mean solar years, is called a yuga. 
+### Verses 21, 22, 23, 24, 25
+
+The 4 yuga-padas named Krita, Treta, Dwapara and Kali consist of 4 × 432000, 3 × 432000, 2 × 432000 and 432000 mean solar years respectively, the sum total of which consisting of (4+3+2+1) × 432000 = 43,20,000 mean solar years, is called a yuga. 
 
 Each of the yuga-padas above are inclusive of what are called their respective Sandhyas and Sandhyamsas which constitute one-twelfth of their own durations.
 

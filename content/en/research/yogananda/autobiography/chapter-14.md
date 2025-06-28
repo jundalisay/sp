@@ -3,7 +3,7 @@ title: "An Experience In Cosmic Consciousness"
 heading: Chapter 14
 description: ""
 c: "indigo"
-weight: 226
+weight: 46
 ---
 
 

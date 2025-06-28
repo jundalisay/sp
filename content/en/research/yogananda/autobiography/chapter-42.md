@@ -9,7 +9,9 @@ weight: 350
 
 
 
-“Guruji, I am glad to find you alone this morning.” I had just arrived at the Serampore hermitage, carrying a fragrant burden of fruit and roses. Sri Yukteswar glanced at me meekly.
+“Guruji, I am glad to find you alone this morning.” 
+
+I had just arrived at the Serampore hermitage, carrying a fragrant burden of fruit and roses. Sri Yukteswar glanced at me meekly.
 
 “What is your question?” Master looked about the room as though he were seeking escape.
 
@@ -246,6 +248,9 @@ Mr. Wright made arrangements for our party to sail from Bombay for the West in e
 
 “Never mind,” I said gloomily to Mr. Wright. “I want to return once more to Puri.” I silently added, “Let my tears once again water the grave of my guru.”
 
+
+### Footnotes
+
 42-1: Literally, param, highest; hansa, swan. The hansa is represented in scriptural lore as the vehicle of Brahma, Supreme Spirit; as the symbol of discrimination, the white hansa swan is thought of as able to separate the true soma nectar from a mixture of milk and water. Ham-sa (pronounced hong-sau) are two sacred Sanskrit chant words possessing a vibratory connection with the incoming and outgoing breath. Aham-Sa is literally “I am He.”
 
 42-2: They have generally evaded the difficulty by addressing me as sir.
@@ -256,7 +261,9 @@ Mr. Wright made arrangements for our party to sail from Bombay for the West in e
 
 42-5: Aphorisms: II:9.
 
-42-6: Religious melas are mentioned in the ancient Mahabharata. The Chinese traveler Hieuen Tsiang has left an account of a vast Kumbha Mela held in A.D. 644 at Allahabad. The largest mela is held every twelfth year; the next largest (Ardha or half) Kumbha occurs every sixth year. Smaller melas convene every third year, attracting about a million devotees. The four sacred mela cities are Allahabad, Hardwar, Nasik, and Ujjain.
+42-6: Religious melas are mentioned in the ancient Mahabharata. The Chinese traveler Hieuen Tsiang has left an account of a vast Kumbha Mela held in A.D. 644 at Allahabad. 
+
+The largest mela is held every twelfth year; the next largest (Ardha or half) Kumbha occurs every sixth year. Smaller melas convene every third year, attracting about a million devotees. The four sacred mela cities are Allahabad, Hardwar, Nasik, and Ujjain.
 
 Early Chinese travelers have left us many striking pictures of Indian society. The Chinese priest, Fa-Hsien, wrote an account of his eleven years in India during the reign of Chandragupta II (early 4th century). The Chinese author relates: “Throughout the country no one kills any living thing, nor drinks wine. . . . They do not keep pigs or fowl; there are no dealings in cattle, no butchers’ shops or distilleries. Rooms with beds and mattresses, food and clothes, are provided for resident and traveling priests without fail, and this is the same in all places. The priests occupy themselves with benevolent ministrations and with chanting liturgies; or they sit in meditation.” Fa-Hsien tells us the Indian people were happy and honest; capital punishment was unknown.
 

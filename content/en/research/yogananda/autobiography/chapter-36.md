@@ -15,9 +15,13 @@ It was a calm summer night in Serampore; the large stars of the tropics gleamed 
 
 “Yes.” Master smiled at my direct question; his eyes lit with reverence. “Three times I have been blessed by the sight of the deathless guru. Our first meeting was in Allahabad at a Kumbha Mela.”
 
-The religious fairs held in India since time immemorial are known as Kumbha Melas; they have kept spiritual goals in constant sight of the multitude. Devout Hindus gather by the millions every six years to meet thousands of sadhus, yogis, swamis, and ascetics of all kinds. Many are hermits who never leave their secluded haunts except to attend the melas and bestow their blessings on worldly men and women.
+The religious fairs held in India since time immemorial are known as Kumbha Melas; they have kept spiritual goals in constant sight of the multitude. 
 
-“I was not a swami at the time I met Babaji,” Sri Yukteswar went on. “But I had already received Kriya initiation from Lahiri Mahasaya. He encouraged me to attend the mela which was convening in January, 1894 at Allahabad. It was my first experience of a kumbha; I felt slightly dazed by the clamor and surge of the crowd. In my searching gazes around I saw no illumined face of a master. Passing a bridge on the bank of the Ganges, I noticed an acquaintance standing near-by, his begging bowl extended.
+Devout Hindus gather by the millions every six years to meet thousands of sadhus, yogis, swamis, and ascetics of all kinds. Many are hermits who never leave their secluded haunts except to attend the melas and bestow their blessings on worldly men and women.
+
+“I was not a swami at the time I met Babaji,” Sri Yukteswar went on. “But I had already received Kriya initiation from Lahiri Mahasaya. 
+
+He encouraged me to attend the mela which was convening in January, 1894 at Allahabad. It was my first experience of a kumbha; I felt slightly dazed by the clamor and surge of the crowd. In my searching gazes around I saw no illumined face of a master. Passing a bridge on the bank of the Ganges, I noticed an acquaintance standing near-by, his begging bowl extended.
 
 “‘Oh, this fair is nothing but a chaos of noise and beggars,’ I thought in disillusionment. ‘I wonder if Western scientists, patiently enlarging the realms of knowledge for the practical good of mankind, are not more pleasing to God than these idlers who profess religion but concentrate on alms.’
 
@@ -37,17 +41,23 @@ The religious fairs held in India since time immemorial are known as Kumbha Mela
 
 “‘Those on whom I am divinely directed to bestow the title of ”swami“ never cast it off.’ The saint addressed me simply, but deep conviction of truth rang in his words; I was engulfed in an instant wave of spiritual blessing. Smiling at my sudden elevation into the ancient monastic order, 36-1 I bowed at the feet of the obviously great and angelic being in human form who had thus honored me.
 
-“Babaji-for it was indeed he-motioned me to a seat near him under the tree. He was strong and young, and looked like Lahiri Mahasaya; yet the resemblance did not strike me, even though I had often heard of the extraordinary similarities in the appearance of the two masters. Babaji possesses a power by which he can prevent any specific thought from arising in a person’s mind. Evidently the great guru wished me to be perfectly natural in his presence, not overawed by knowledge of his identity.
+“Babaji-for it was indeed he-motioned me to a seat near him under the tree. He was strong and young, and looked like Lahiri Mahasaya; yet the resemblance did not strike me, even though I had often heard of the extraordinary similarities in the appearance of the two masters. 
+
+Babaji possesses a power by which he can prevent any specific thought from arising in a person’s mind. Evidently the great guru wished me to be perfectly natural in his presence, not overawed by knowledge of his identity.
 
 “‘What do you think of the Kumbha Mela?’
 
 “‘I was greatly disappointed, sir.’ I added hastily, ‘Up until the time I met you. Somehow saints and this commotion don’t seem to belong together.’
 
-“‘Child,’ the master said, though apparently I was nearly twice his own age, ‘for the faults of the many, judge not the whole. Everything on earth is of mixed character, like a mingling of sand and sugar. Be like the wise ant which seizes only the sugar, and leaves the sand untouched. Though many sadhus here still wander in delusion, yet the mela is blessed by a few men of God-realization.’
+“‘Child,’ the master said, though apparently I was nearly twice his own age, ‘for the faults of the many, judge not the whole. Everything on earth is of mixed character, like a mingling of sand and sugar. 
+
+Be like the wise ant which seizes only the sugar, and leaves the sand untouched. Though many sadhus here still wander in delusion, yet the mela is blessed by a few men of God-realization.’
 
 “In view of my own meeting with this exalted master, I quickly agreed with his observation.
 
-“‘Sir,’ I commented, ‘I have been thinking of the scientific men of the West, greater by far in intelligence than most people congregated here, living in distant Europe and America, professing different creeds, and ignorant of the real values of such melas as the present one. They are the men who could benefit greatly by meetings with India’s masters. But, although high in intellectual attainments, many Westerners are wedded to rank materialism. Others, famous in science and philosophy, do not recognize the essential unity in religion. Their creeds serve as insurmountable barriers that threaten to separate them from us forever.’
+“‘Sir,’ I commented, ‘I have been thinking of the scientific men of the West, greater by far in intelligence than most people congregated here, living in distant Europe and America, professing different creeds, and ignorant of the real values of such melas as the present one. 
+
+They are the men who could benefit greatly by meetings with India’s masters. But, although high in intellectual attainments, many Westerners are wedded to rank materialism. Others, famous in science and philosophy, do not recognize the essential unity in religion. Their creeds serve as insurmountable barriers that threaten to separate them from us forever.’
 
 “‘I saw that you are interested in the West, as well as the East.’ Babaji’s face beamed with approval. ‘I felt the pangs of your heart, broad enough for all men, whether Oriental or Occidental. That is why I summoned you here.
 
@@ -178,6 +188,9 @@ Swami Pranabananda, the “saint with two bodies,” also confided to me the det
 From the lips of these three great disciples, a story of wondrous truth has emerged: At the morning hour of ten, on the day after the body of Lahiri Mahasaya had been consigned to the flames, the resurrected master, in a real but transfigured body, appeared before three disciples, each one in a different city.
 
 “So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. O death, where is thy sting? O grave, where is thy victory?” 36-11
+
+
+### Footnotes
 
 36-1: Sri Yukteswar was later formally initiated into the Swami Order by the Mahant (monastery head) of Buddh Gaya.
 

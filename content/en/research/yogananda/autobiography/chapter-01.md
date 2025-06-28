@@ -69,9 +69,14 @@ In Mother’s presence we tasted our earliest bitter-sweet acquaintance with the
 
 A daily gesture of respect to Father was given by Mother’s dressing us carefully in the afternoons to welcome him home from the office. His position was similar to that of a vice-president, in the Bengal-Nagpur Railway, one of India’s large companies. His work involved traveling, and our family lived in several cities during my childhood.
 
-Mother held an open hand toward the needy. Father was also kindly disposed, but his respect for law and order extended to the budget. One fortnight Mother spent, in feeding the poor, more than Father’s monthly income.
+Mother gave to the needy. Father was also kind to them, but his respect for law and order extended to the budget. 
 
-“All I ask, please, is to keep your charities within a reasonable limit.” Even a gentle rebuke from her husband was grievous to Mother. She ordered a hackney carriage, not hinting to the children at any disagreement.
+One fortnight Mother spent more than Father’s monthly income in feeding the poor.
+
+
+“All I ask, please, is to keep your charities within a reasonable limit.” 
+
+Even a gentle rebuke from her husband was grievous to Mother. She ordered a hackney carriage, not hinting to the children at any disagreement.
 
 “Good-by; I am going away to my mother’s home.” Ancient ultimatum!
 
@@ -79,15 +84,27 @@ We broke into astounded lamentations. Our maternal uncle arrived opportunely; he
 
 “Please give me ten rupees for a hapless woman who has just arrived at the house.” Mother’s smile had its own persuasion.
 
-“Why ten rupees? One is enough.” Father added a justification: “When my father and grandparents died suddenly, I had my first taste of poverty. My only breakfast, before walking miles to my school, was a small banana. Later, at the university, I was in such need that I applied to a wealthy judge for aid of one rupee per month. He declined, remarking that even a rupee is important.”
+“Why ten rupees? One is enough.” 
+
+Father added a justification: “When my father and grandparents died suddenly, I had my first taste of poverty. 
+
+My only breakfast, before walking miles to my school, was a small banana. Later, at the university, I was in such need that I applied to a wealthy judge for aid of one rupee per month. He declined, remarking that even a rupee is important.”
 
 “How bitterly you recall the denial of that rupee!” Mother’s heart had an instant logic. “Do you want this woman also to remember painfully your refusal of ten rupees which she needs urgently?”
 
 “You win!” With the immemorial gesture of vanquished husbands, he opened his wallet. “Here is a ten-rupee note. Give it to her with my good will.”
 
-Father tended to first say “No” to any new proposal. His attitude toward the strange woman who so readily enlisted Mother’s sympathy was an example of his customary caution. Aversion to instant acceptance- typical of the French mind in the West-is really only honoring the principle of “due reflection.” I always found Father reasonable and evenly balanced in his judgments. If I could bolster up my numerous requests with one or two good arguments, he invariably put the coveted goal within my reach, whether it were a vacation trip or a new motorcycle.
+Father tended to first say “No” to any new proposal. His attitude toward the strange woman who so readily enlisted Mother’s sympathy was an example of his customary caution. 
 
-Father was a strict disciplinarian to his children in their early years, but his attitude toward himself was truly Spartan. He never visited the theater, for instance, but sought his recreation in various spiritual practices and in reading the bhagavad gita. 1-7 Shunning all luxuries, he would cling to one old pair of shoes until they were useless. His sons bought automobiles after they came into popular use, but Father was always content with the trolley car for his daily ride to the office. The accumulation of money for the sake of power was alien to his nature. Once, after organizing the Calcutta Urban Bank, he refused to benefit himself by holding any of its shares. He had simply wished to perform a civic duty in his spare time.
+Aversion to instant acceptance- typical of the French mind in the West-is really only honoring the principle of “due reflection.” 
+
+I always found Father reasonable and evenly balanced in his judgments. If I could bolster up my numerous requests with one or two good arguments, he invariably put the coveted goal within my reach, whether it were a vacation trip or a new motorcycle.
+
+Father was a strict disciplinarian to his children in their early years, but his attitude toward himself was truly Spartan. He never visited the theater, for instance, but sought his recreation in various spiritual practices and in reading the bhagavad gita. 1-7 
+
+Shunning all luxuries, he would cling to one old pair of shoes until they were useless. His sons bought automobiles after they came into popular use, but Father was always content with the trolley car for his daily ride to the office. The accumulation of money for the sake of power was alien to his nature.
+
+Once, after organizing the Calcutta Urban Bank, he refused to benefit himself by holding any of its shares. He had simply wished to perform a civic duty in his spare time.
 
 Several years after Father had retired on a pension, an English accountant arrived to examine the books of the Bengal-Nagpur Railway Company. The amazed investigator discovered that Father had never applied for overdue bonuses.
 

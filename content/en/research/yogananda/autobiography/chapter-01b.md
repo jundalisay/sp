@@ -32,9 +32,15 @@ While at our family estate in Ichapur, Bengal, I was stricken with Asiatic chole
 
 My life was despaired of; the doctors could do nothing. At my bedside, Mother frantically motioned me to look at Lahiri Mahasaya’s picture on the wall above my head.
 
-“Bow to him mentally!” She knew I was too feeble even to lift my hands in salutation. “If you really show your devotion and inwardly kneel before him, your life will be spared!”
+“Bow to him mentally!” 
 
-I gazed at his photograph and saw there a blinding light, enveloping my body and the entire room. My nausea and other uncontrollable symptoms disappeared; I was well. At once I felt strong enough to bend over and touch Mother’s feet in appreciation of her immeasurable faith in her guru. Mother pressed her head repeatedly against the little picture.
+She knew I was too feeble even to lift my hands in salutation. 
+
+“If you really show your devotion and inwardly kneel before him, your life will be spared!”
+
+I gazed at his photograph and saw there a blinding light, enveloping my body and the entire room. My nausea and other uncontrollable symptoms disappeared; I was well. 
+
+At once I felt strong enough to bend over and touch Mother’s feet in appreciation of her immeasurable faith in her guru. Mother pressed her head repeatedly against the little picture.
 
 “O Omnipresent Master, I thank thee that thy light hath healed my son!”
 
@@ -127,6 +133,9 @@ The players across the lane began their match. One string was cut; immediately t
 I continued my prayers with a crescendo intensity. A forcible tug by the other player resulted in the abrupt loss of his kite. It headed toward me, dancing in the wind. My helpful assistant, the cactus plant, again secured the kite string in the necessary loop by which I could grasp it. I presented my second trophy to Uma.
 
 “Indeed, Divine Mother listens to you! This is all too uncanny for me!” Sister bolted away like a frightened fawn.
+
+
+### Footnotes
 
 1-2: Spiritual teacher; from Sanskrit root gur, to raise, to uplift.
 

@@ -17,13 +17,21 @@ At my words Mr. Wright looked startled, then pleased. We had just left the beaut
 
 My companion and I 41-1 were spending the month of November, 1935, as guests of the State of Mysore. The Maharaja, H.H. Sri Krishnaraja Wadiyar IV, is a model prince with intelligent devotion to his people. A pious Hindu, the Maharaja has empowered a Mohammedan, the able Mirza Ismail, as his Dewan or Premier. Popular representation is given to the seven million inhabitants of Mysore in both an Assembly and a Legislative Council.
 
-The heir to the Maharaja, H.H. the Yuvaraja, Sir Sri Krishna Narasingharaj Wadiyar, had invited my secretary and me to visit his enlightened and progressive realm. During the past fortnight I had addressed thousands of Mysore citizens and students, at the Town Hall, the Maharajah’s College, the University Medical School; and three mass meetings in Bangalore, at the National High School, the Intermediate College, and the Chetty Town Hall where over three thousand persons had assembled. Whether the eager listeners had been able to credit the glowing picture I drew of America, I know not; but the applause had always been loudest when I spoke of the mutual benefits that could flow from exchange of the best features in East and West.
+The heir to the Maharaja, H.H. the Yuvaraja, Sir Sri Krishna Narasingharaj Wadiyar, had invited my secretary and me to visit his enlightened and progressive realm. 
+
+During the past fortnight I had addressed thousands of Mysore citizens and students, at the Town Hall, the Maharajah’s College, the University Medical School; and three mass meetings in Bangalore, at the National High School, the Intermediate College, and the Chetty Town Hall where over three thousand persons had assembled. 
+
+Whether the eager listeners had been able to credit the glowing picture I drew of America, I know not; but the applause had always been loudest when I spoke of the mutual benefits that could flow from exchange of the best features in East and West.
 
 Mr. Wright and I were now relaxing in the tropical peace. His travel diary gives the following account of his impressions of Mysore:
 
 “Brilliantly green rice fields, varied by tasseled sugar cane patches, nestle at the protective foot of rocky hills-hills dotting the emerald panorama like excrescences of black stone-and the play of colors is enhanced by the sudden and dramatic disappearance of the sun as it seeks rest behind the solemn hills.
 
-“Many rapturous moments have been spent in gazing, almost absent- mindedly, at the ever-changing canvas of God stretched across the firmament, for His touch alone is able to produce colors that vibrate with the freshness of life. That youth of colors is lost when man tries to imitate with mere pigments, for the Lord resorts to a more simple and effective medium-oils that are neither oils nor pigments, but mere rays of light. He tosses a splash of light here, and it reflects red; He waves the brush again and it blends gradually into orange and gold; then with a piercing thrust He stabs the clouds with a streak of purple that leaves a ringlet or fringe of red oozing out of the wound in the clouds; and so, on and on, He plays, night and morning alike, ever-changing, ever-new, ever-fresh; no patterns, no duplicates, no colors just the same. The beauty of the Indian change in day to night is beyond compare elsewhere; often the sky looks as if God had taken all the colors in His kit and given them one mighty kaleidoscopic toss into the heavens.
+“Many rapturous moments have been spent in gazing, almost absent- mindedly, at the ever-changing canvas of God stretched across the firmament, for His touch alone is able to produce colors that vibrate with the freshness of life. 
+
+That youth of colors is lost when man tries to imitate with mere pigments, for the Lord resorts to a more simple and effective medium-oils that are neither oils nor pigments, but mere rays of light. He tosses a splash of light here, and it reflects red; 
+
+He waves the brush again and it blends gradually into orange and gold; then with a piercing thrust He stabs the clouds with a streak of purple that leaves a ringlet or fringe of red oozing out of the wound in the clouds; and so, on and on, He plays, night and morning alike, ever-changing, ever-new, ever-fresh; no patterns, no duplicates, no colors just the same. The beauty of the Indian change in day to night is beyond compare elsewhere; often the sky looks as if God had taken all the colors in His kit and given them one mighty kaleidoscopic toss into the heavens.
 
 “I must relate the splendor of a twilight visit to the huge Krishnaraja Sagar Dam, 41-2 constructed twelve miles outside of Mysore. Yoganandaji and I boarded a small bus and, with a small boy as official cranker or battery substitute, started off over a smooth dirt road, just as the sun was setting on the horizon and squashing like an overripe tomato.
 
@@ -48,9 +56,14 @@ This religious inscription has been engraved in order that our sons and grandson
 taj
 
 My companions and I pose before the “dream in marble,” the Taj Mahal at Agra.
+
 Asoka was a grandson of the formidable Chandragupta Maurya (known to the Greeks as Sandrocottus), who in his youth had met Alexander the Great. Later Chandragupta destroyed the Macedonian garrisons left in India, defeated the invading Greek army of Seleucus in the Punjab, and then received at his Patna court the Hellenic ambassador Megasthenes.
 
-Intensely interesting stories have been minutely recorded by Greek historians and others who accompanied or followed after Alexander in his expedition to India. The narratives of Arrian, Diodoros, Plutarch, and Strabo the geographer have been translated by Dr. J. W. M’Crindle 41-3 to throw a shaft of light on ancient India. The most admirable feature of Alexander’s unsuccessful invasion was the deep interest he displayed in Hindu philosophy and in the yogis and holy men whom he encountered from time to time and whose society he eagerly sought. Shortly after the Greek warrior had arrived in Taxila in northern India, he sent a messenger, Onesikritos, a disciple of the Hellenic school of Diogenes, to fetch an Indian teacher, Dandamis, a great sannyasi of Taxila.
+Intensely interesting stories have been minutely recorded by Greek historians and others who accompanied or followed after Alexander in his expedition to India. 
+
+The narratives of Arrian, Diodoros, Plutarch, and Strabo the geographer have been translated by Dr. J. W. M’Crindle 41-3 to throw a shaft of light on ancient India. The most admirable feature of Alexander’s unsuccessful invasion was the deep interest he displayed in Hindu philosophy and in the yogis and holy men whom he encountered from time to time and whose society he eagerly sought. 
+
+Shortly after the Greek warrior had arrived in Taxila in northern India, he sent a messenger, Onesikritos, a disciple of the Hellenic school of Diogenes, to fetch an Indian teacher, Dandamis, a great sannyasi of Taxila.
 
 “Hail to thee, O teacher of Brahmins!” Onesikritos said after seeking out Dandamis in his forest retreat. “The son of the mighty God Zeus, being Alexander who is the Sovereign Lord of all men, asks you to go to him, and if you comply, he will reward you with great gifts, but if you refuse, he will cut off your head!”
 
@@ -161,6 +174,9 @@ An incredulous youth derided the saint and the story. The following morning he a
 “Master,” he said scornfully, “why don’t you take me to the festival, even as you did yesterday for the other children?”
 
 Sadasiva complied; the boy immediately found himself among the distant city throng. But alas! where was the saint when the youth wanted to leave? The weary boy reached his home by the ancient and prosaic method of foot locomotion.
+
+
+### Footnotes
 
 41-1: Miss Bletch, unable to maintain the active pace set by Mr. Wright and myself, remained happily with my relatives in Calcutta.
 

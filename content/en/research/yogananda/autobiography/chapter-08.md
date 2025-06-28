@@ -3,7 +3,7 @@ title: "India’s Great Scientist, J.C. Bose"
 heading: Chapter 8
 description: ""
 c: "indigo"
-weight: 180
+weight: 24
 ---
 
 
@@ -124,6 +124,9 @@ The poet Rabindranath Tagore was a stalwart friend of India’s idealistic scien
   Once more unruffled, greedless, strifeless, pure,
   O once again upon her lofty seat
   And platform, teacher of all lands.
+
+
+### Footnotes
 
 8-1: “All science is transcendental or else passes away. Botany is now acquiring the right theory-the avatars of Brahma will presently be the textbooks of natural history.”-Emerson.
 

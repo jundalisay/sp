@@ -3,7 +3,7 @@ title: "A Mohammedan Wonder-Worker"
 heading: Chapter 18
 description: ""
 c: "indigo"
-weight: 244
+weight: 62
 ---
 
 

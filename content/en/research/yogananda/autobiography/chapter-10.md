@@ -3,7 +3,7 @@ title: "I Meet My Master, Sri Yukteswar"
 heading: Chapter 10
 description: ""
 c: "indigo"
-weight: 200
+weight: 30
 ---
 
 

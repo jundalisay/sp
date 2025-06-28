@@ -11,7 +11,8 @@ icon: "Karl Marx"
 ---
 
 
->  Superhysics Note: We replace 'bourgeoisie' with capitalist. We define capitalist as someone who uses outside ownership to amass private profits. This is common in cities or burghs, where the word bourgeoisie comes from. For example, a rich urbanite acts as a middle-man between rural farmers and urban consumers. 
+{{< n n="We replace 'bourgeoisie' with capitalist. We define capitalist as someone who uses outside ownership to amass private profits. This is common in cities or burghs, where the word bourgeoisie comes from. For example, a rich urbanite acts as a middle-man between rural farmers and urban consumers." >}}
+
 
 
 

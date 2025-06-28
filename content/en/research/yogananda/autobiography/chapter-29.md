@@ -73,6 +73,9 @@ The following day, after lunch, I bade the poet a reluctant farewell. I rejoice 
        awake!” 29-4
                                     RABINDRANATH TAGORE
 
+
+### Footnotes
+
 29-1: The English writer and publicist, close friend of Mahatma Gandhi. Mr. Andrews is honored in India for his many services to his adopted land.
 
 29-2: “The soul having been often born, or, as the Hindus say, ‘traveling the path of existence through thousands of births’ . . . there is nothing of which she has not gained the knowledge; no wonder that she is able to recollect . . . what formerly she knew. . . . For inquiry and learning is reminiscence all.”-Emerson.

@@ -13,19 +13,19 @@ The Old Testament also reports that the prophet Elijah did not die on Earth, but
 
 This was not a sudden and unexpected event: The ascent of Elijah to the heavens was prearranged. 
 
-He was told to go to Beth-El ("the lord's house") on a specific day. Rumors had already spread among his disciples that he was about to be taken up to the heavens. When they queried his deputy whether the rumor was true, he confirmed that, indeed, "the Lord will
-take away the Master today." 
+He was told to go to Beth-El ("the lord's house") on a specific day. Rumors had already spread among his disciples that he was about to be taken up to the heavens. When they queried his deputy whether the rumor was true, he confirmed that, indeed, "the Lord will take away the Master today." 
 
 And then:
+
 There appeared a chariot of fire,
 and horses of fire…
 And Elijah went up into Heaven
 by a Whirlwind.
 
-Even more celebrated, and certainly better described, was the heavenly chariot
-seen by the prophet Ezekiel, who dwelt among the Judaean deportees on the
-banks of the Khabur River in northern Mesopotamia.
+Even more celebrated, and certainly better described, was the heavenly chariot seen by the prophet Ezekiel, who dwelt among the Judaean deportees on the banks of the Khabur River in northern Mesopotamia.
 
+
+{{< q >}}
 The Heavens were opened,
 and I saw the appearances of the Lord.
 What Ezekiel saw was a Manlike being, surrounded by brilliance and
@@ -38,6 +38,8 @@ as a great cloud with flashes of fire
 and brilliance all around it.
 And within it, from within the fire,
 there was a radiance like a glowing halo.
+{{< /q >}}
+
 
 Some recent students of the biblical description (such as Josef F. Blumrich of the U.S. National Aeronautics and Space Administration) have concluded that the "chariot" seen by Ezekiel was a helicopter consisting of a cabin resting on 4 posts, each equipped with rotary wings—a "whirlwind" indeed.
 
@@ -60,12 +62,15 @@ Urukagina, who ruled in Lagash, said in regard to the "divine black wind bird": 
 
 The Babylonian king Nebuchadnezzar II, recording his rebuilding of Marduk's sacred precinct, said that within fortified walls made of burned brick and gleaming onyx marble:
 
+{{< q >}}
 I raised the head of the boat ID.GE.UL
 the Chariot of Marduk's princeliness;
 The boat ZAG.MU.KU, whose approach is observed,
 the supreme traveler between Heaven and Earth,
 in the midst of the pavilion I enclosed,
 screening off its sides.
+{{< /q >}}
+
 
 ID.GE.UL, the first epithet employed to describe this "supreme traveler," or "Chariot of Marduk," literally means "high to heaven, bright at night." ZAG.MU.KU, the second epithet describing the vehicle—clearly a "boat" nesting in a special pavilion—means "the bright MU which is for afar."
 
@@ -86,6 +91,7 @@ We clearly see a conical chamber, depicted by itself or with a narrow section at
 
 A hymn to Inanna/Ishtar and her journeys in the Boat of Heaven clearly indicates that the mu was the vehicle in which the gods roamed the skies far and high:
 
+{{< q >}}
 Lady of Heaven:
 She puts on the Garment of Heaven;
 She valiantly ascends towards Heaven.
@@ -95,12 +101,10 @@ Lady, who in her MU
 to the heights of Heaven joyfully wings.
 Over all the resting places
 she flies in her MU.
+{{< /q >}}
 
 There is evidence to show that the people of the eastern Mediterranean had seen such a rocket-like object not only in a temple enclosure but actually in flight. 
 
 Hittite glyphs, for example, showed—against a background of starry heavens—cruising missiles, rockets mounted on launch pads, and a god inside a radiating chamber. (Fig. 68)
-
-Illustration:
-Standing and Cruising Rockets
 
 

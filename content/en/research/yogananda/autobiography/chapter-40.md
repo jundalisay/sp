@@ -101,6 +101,9 @@ Mr. Wright formed many fast friendships with Ranchi boys; clad in a simple dhoti
 
 “Peace,” he said thoughtfully. “The racial aura is peace.”
 
+
+### Footnotes
+
 40-1: We broke our journey in Central Provinces, halfway across the continent, to see Mahatma Gandhi at Wardha. Those days are described in chapter 44.
 
 40-2: Prafulla was the lad who had been present with Master when a cobra approached (see page 116).

@@ -4,7 +4,7 @@ heading: Chapter 28
 description: ""
 c: "indigo"
 author: "Yogananda"
-weight: 296
+weight: 96
 ---
 
 

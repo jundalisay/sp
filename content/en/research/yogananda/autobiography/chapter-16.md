@@ -3,7 +3,7 @@ title: "Outwitting The Stars"
 heading: Chapter 16
 description: ""
 c: "indigo"
-weight: 234
+weight: 54
 ---
 
 

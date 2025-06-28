@@ -96,7 +96,9 @@ The central object in this ancient drawing simulates the symbol of the 12th Plan
 
 The circular craft, with its crownlike top and extended wings and antennas, is located in the heavens, between Mars (the six-pointed star) and Earth and its Moon. 
 
-On Earth, a deity extends his hand in greeting to an astronaut still out in the heavens, near Mars. The astronaut is shown wearing a helmet with a visor and a breastplate. The lower part of his suit is like that of a "fish-man"—a requirement, perhaps, in case of an emergency splashdown in the ocean. In one hand he holds an instrument; the other hand reciprocates the greeting from Earth.
+On Earth, a deity extends his hand in greeting to an astronaut still out in the heavens, near Mars. The astronaut is shown wearing a helmet with a visor and a breastplate. 
+
+The lower part of his suit is like that of a "fish-man"—a requirement, perhaps, in case of an emergency splashdown in the ocean. In one hand he holds an instrument; the other hand reciprocates the greeting from Earth.
 
 
 And then, cruising on, there was Earth, the seventh planet. 

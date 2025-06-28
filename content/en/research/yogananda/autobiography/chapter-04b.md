@@ -4,7 +4,7 @@ heading: Chapter 4b
 description: ""
 c: "indigo"
 author: "Yogananda"
-weight: 132
+weight: 16
 ---
 
 
@@ -12,15 +12,20 @@ A clever scheme had been prearranged by Ananta. Before seeing me at Hardwar, he 
 
 Ananta took me to their home. The son, a young man of ebullient manner, greeted me in the courtyard. He engaged me in a lengthy philosophic discourse. Professing to have a clairvoyant knowledge of my future, he discountenanced my idea of being a monk.
 
+
 “You will meet continual misfortune, and be unable to find God, if you insist on deserting your ordinary responsibilities! You cannot work out your past karma 4-2 without worldly experiences.”
 
-Krishna’s immortal words rose to my lips in reply: “‘Even he with the worst of karma who ceaselessly meditates on Me quickly loses the effects of his past bad actions. Becoming a high-souled being, he soon attains perennial peace. Arjuna, know this for certain: the devotee who puts his trust in Me never perishes!’” 4-3
+Krishna’s immortal words rose to my lips in reply: 
+
+“‘Even he with the worst of karma who ceaselessly meditates on Me quickly loses the effects of his past bad actions. Becoming a high-souled being, he soon attains perennial peace. Arjuna, know this for certain: the devotee who puts his trust in Me never perishes!’” 4-3
 
 But the forceful prognostications of the young man had slightly shaken my confidence. With all the fervor of my heart I prayed silently to God:
 
 “Please solve my bewilderment and answer me, right here and now, if Thou dost desire me to lead the life of a renunciate or a worldly man!”
 
-I noticed a sadhu of noble countenance standing just outside the compound of the pundit’s house. Evidently he had overheard the spirited conversation between the self-styled clairvoyant and myself, for the stranger called me to his side. I felt a tremendous power flowing from his calm eyes.
+I noticed a sadhu of noble countenance standing just outside the compound of the pundit’s house. 
+
+He had overheard the spirited conversation between the self-styled clairvoyant and myself, for the stranger called me to his side. I felt a tremendous power flowing from his calm eyes.
 
 “Son, don’t listen to that ignoramus. In response to your prayer, the Lord tells me to assure you that your sole path in this life is that of the renunciate.”
 
@@ -52,9 +57,18 @@ Last Solstice Festival celebrated by Sri Yukteswar, December, 1935. My Guru is s
 
 I was listening to Ananta’s disclosures with mingled mirth and vexation. Our generosity to the coachman had been slightly misplaced!
 
-“Of course I rushed to send telegrams to station officials in all the cities which Amar had underlined in the timetable. He had checked Bareilly, so I wired your friend Dwarka there. After inquiries in our Calcutta neighborhood, I learned that cousin Jatinda had been absent one night but had arrived home the following morning in European garb. I sought him out and invited him to dinner. He accepted, quite disarmed by my friendly manner. On the way I led him unsuspectingly to a police station. He was surrounded by several officers whom I had previously selected for their ferocious appearance. Under their formidable gaze, Jatinda agreed to account for his mysterious conduct.
+“Of course I rushed to send telegrams to station officials in all the cities which Amar had underlined in the timetable. He had checked Bareilly, so I wired your friend Dwarka there. 
 
-“‘I started for the Himalayas in a buoyant spiritual mood,’ he explained. ‘Inspiration filled me at the prospect of meeting the masters. But as soon as Mukunda said, ”During our ecstasies in the Himalayan caves, tigers will be spellbound and sit around us like tame pussies,“ my spirits froze; beads of perspiration formed on my brow. ”What then?“ I thought. ”If the vicious nature of the tigers be not changed through the power of our spiritual trance, shall they treat us with the kindness of house cats?“ In my mind’s eye, I already saw myself the compulsory inmate of some tiger’s stomach-entering there not at once with the whole body, but by installments of its several parts!’”
+After inquiries in our Calcutta neighborhood, I learned that cousin Jatinda had been absent one night but had arrived home the following morning in European garb. I sought him out and invited him to dinner. 
+
+He accepted, quite disarmed by my friendly manner. On the way I led him unsuspectingly to a police station. 
+
+He was surrounded by several officers whom I had previously selected for their ferocious appearance. Under their formidable gaze, Jatinda agreed to account for his mysterious conduct.
+
+
+“‘I started for the Himalayas in a buoyant spiritual mood,’ he explained. ‘Inspiration filled me at the prospect of meeting the masters. 
+
+But as soon as Mukunda said, ”During our ecstasies in the Himalayan caves, tigers will be spellbound and sit around us like tame pussies,“ my spirits froze; beads of perspiration formed on my brow. ”What then?“ I thought. ”If the vicious nature of the tigers be not changed through the power of our spiritual trance, shall they treat us with the kindness of house cats?“ In my mind’s eye, I already saw myself the compulsory inmate of some tiger’s stomach-entering there not at once with the whole body, but by installments of its several parts!’”
 
 My anger at Jatinda’s vanishment was evaporated in laughter. The hilarious sequel on the train was worth all the anguish he had caused me. I must confess to a slight feeling of satisfaction: Jatinda too had not escaped an encounter with the police!
 
@@ -117,6 +131,10 @@ A Christlike miracle by Lahiri Mahasaya took place in Kebalananda’s presence. 
 “The numerous bodies which were spectacularly healed through Lahiri Mahasaya eventually had to feed the flames of cremation. But the silent spiritual awakenings he effected, the Christlike disciples he fashioned, are his imperishable miracles.”
 
 I never became a Sanskrit scholar; Kebalananda taught me a diviner syntax.
+
+
+### Footnotes
+
 
 4-1: Literally, “renunciate.” From Sanskrit verb roots, “to cast aside.”
 

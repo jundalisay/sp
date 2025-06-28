@@ -57,8 +57,9 @@ The eighth and final segment, however, is almost complete. Directional lines, ar
 Was this a segment dealing with preparations for the flight toward Earth, or one dealing with stocking up for the return flight to rejoin the 12th Planet? The latter may have been the case, for the line with the sharp arrow pointing toward the landing site on Earth has at its other end another "arrow" pointing in the opposite direction, and bearing the legend "Return." (Fig. 124)
 
 
-When Ea arranged for Anu's emissary to "make Adapa take the road to Heaven"
-and Anu discovered the ruse, he demanded to know:
+When Ea arranged for Anu's emissary to "make Adapa take the road to Heaven" and Anu discovered the ruse, he demanded to know:
+
+
 Why did Ea, to a worthless human
 the plan of Heaven-Earth disclose–
 rendering him distinguished,
@@ -77,12 +78,15 @@ The second part of the text appears to have provided the mathematical formulas
 for solving whatever the interplanetary problem was, stating (according to some
 readings):
 
+
 40 4 20 6 40 x 9 is 6 40
 13 kasbu 10 ush mul SHU.PA
 eli mul GIR sud
 40 4 20 6 40 X 7 is 511 6 40
 10 kasbu 11 ush 6½ gar 2 u mul GIR tab
 eli mul SHU.PA sud
+
+
 
 There has never been full agreement among scholars as to the correct reading of the measurement units in this part of the text (a new reading was suggested to us in a letter from Dr. J. Oelsner, custodian of the Hilprecht Collection at Jena). 
 
@@ -99,13 +103,10 @@ The first trajectory would call for the launching of the spacecraft from the 12t
 
 While the 12th Planet (a space vehicle, too, even though a huge one) continued on its vast elliptical orbit, the spaceship would follow a much shorter elliptical course and reach Earth far ahead of the 12th Planet. This alternative may have offered the Nefilim both advantages and disadvantages.
 
-The full span of 3,600 Earth years, which applied to tenures of office and other
-activities of the Nefilim upon Earth, suggests that they might have preferred the
-second alternative, that of a short trip and a stay in Earth's skies coinciding with
+The full span of 3,600 Earth years, which applied to tenures of office and other activities of the Nefilim upon Earth, suggests that they might have preferred the second alternative, that of a short trip and a stay in Earth's skies coinciding with
 the arrival of the 12th Planet itself. 
 
-This would have called for the launching of the spaceship (C) when the 12th Planet was about midway on its course back from the apogee. With the planet's own speed rapidly increasing, the spaceship required strong engines to overtake its home planet and reach Earth (D) a few
-Earth years ahead of the 12th Planet. (Fig. 125)
+This would have called for the launching of the spaceship (C) when the 12th Planet was about midway on its course back from the apogee. With the planet's own speed rapidly increasing, the spaceship required strong engines to overtake its home planet and reach Earth (D) a few Earth years ahead of the 12th Planet. (Fig. 125)
 
 <!-- Based on complex technical data, as well as hints in Mesopotamian texts, it
 appears that  -->
@@ -113,7 +114,9 @@ appears that  -->
 The Nefilim adopted for their Earth missions the same approach NASA adopted for the Moon missions: When the principal spaceship neared the target planet (Earth), it went into orbit around that planet without actually landing. Instead, a smaller craft was released from the mother ship and performed the actual landing.
 
 As difficult as accurate landings were, the departures from Earth must have
-been even trickier. The landing craft had to rejoin its mother ship, which then had to fire up its engines and accelerate to extremely high speeds, for it had to catch up with the 12th Planet, which by then was passing its perigee between Mars and Jupiter at its top orbital speed.
+been even trickier. 
+
+The landing craft had to rejoin its mother ship, which then had to fire up its engines and accelerate to extremely high speeds, for it had to catch up with the 12th Planet, which by then was passing its perigee between Mars and Jupiter at its top orbital speed.
 
 Dr. Sitchin has calculated that there were 3 points in the spaceship's orbit of Earth that lent themselves to a thrust toward the 12th Planet. 
 

@@ -3,7 +3,7 @@ title: "The Tiger Swami"
 heading: Chapter 6
 description: ""
 c: "indigo"
-weight: 160
+weight: 20
 ---
 
 
@@ -163,6 +163,10 @@ The swami laughed in hearty appreciation, then continued the engrossing tale.
 “I was initiated into the spiritual path by my saintly guru. He opened my soul-doors, rusty and resistant with long disuse. Hand in hand, we soon set out for my training in the Himalayas.”
 
 Chandi and I bowed at the swami’s feet, grateful for his vivid outline of a life truly cyclonic. I felt amply repaid for the long probationary wait in the cold parlor!
+
+
+### Footnotes
+
 
 6-1: Sohong was his monastic name. He was popularly known as the “Tiger Swami.”
 

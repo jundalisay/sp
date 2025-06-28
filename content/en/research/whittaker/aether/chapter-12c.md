@@ -90,7 +90,10 @@ This was Lorentz' expression for the ponderomotive force on an electrified corpu
 
 In Lorentz' fundamental case, which has thus been examined, account has been taken only of the ultimate constituents of which the universe is supposed to be composed, namely, corpuscles and the aether. We must now see how to build up from these the more complex systems which are directly presented to our experience.
 
-The electromagnetic field in ponderable bodies, which to our senses appears in general to vary continuously, would present a different aspect if we were able to discern molecular structure; we should then perceive the individual electrons by which the field is produced, and the rapid fluctuations of electric and magnetie* force between them. As it is, the values furnished by our instruments represent averages taken over volumes which, though they appear small to us, are large compared with molecular dimensions.[41] 
+The electromagnetic field in ponderable bodies, which to our senses appears in general to vary continuously, would present a different aspect if we were able to discern molecular structure; we should then perceive the individual electrons by which the field is produced, and the rapid fluctuations of electric and magnetie* force between them. 
+
+
+As it is, the values furnished by our instruments represent averages taken over volumes which, though they appear small to us, are large compared with molecular dimensions.[41] 
 
 We shall denote an average value of this kind by a bar placed over the corresponding symbol.
 

@@ -77,6 +77,9 @@ We smiled at each other in silence.
 
 “For eleven years now I have been your Kriya Yoga disciple,” Mr. Dickinson continued. “Sometimes I wondered about the silver cup; I had almost persuaded myself that Vivekananda’s words were only metaphorical. But on Christmas night, as you handed me the square box by the tree, I saw, for the third time in my life, the same dazzling flash of light. In another minute I was gazing on my guru’s gift which Vivekananda had foreseen for me forty-three years earlier-a silver cup!”
 
+
+### Footnotes
+
 47-1: The chief disciple of the Christlike master Sri Ramakrishna.
 
 

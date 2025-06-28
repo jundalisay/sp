@@ -200,6 +200,9 @@ She soon returned with a piece of Benares silk, extending it in her hand as she 
 
 “Mother,” I said reverently, “rather let me touch your own blessed feet!”
 
+
+### Footnotes
+
 46-1: In northern Bengal.
 
 46-2: H. H. Sir Bijay Chand Mahtab, now dead. His family doubtless possesses some record of the Maharaja’s three investigations of Giri Bala.

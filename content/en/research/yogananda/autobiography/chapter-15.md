@@ -3,7 +3,7 @@ title: "The Cauliflower Robbery"
 heading: Chapter 15
 description: ""
 c: "indigo"
-weight: 230
+weight: 50
 ---
 
 

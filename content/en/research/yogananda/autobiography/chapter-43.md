@@ -9,7 +9,9 @@ weight: 355
 
 
 
-“Lord Krishna!” The glorious form of the avatar appeared in a shimmering blaze as I sat in my room at the Regent Hotel in Bombay. 
+“Lord Krishna!” 
+
+The glorious form of the avatar appeared in a shimmering blaze as I sat in my room at the Regent Hotel in Bombay. 
 
 Shining over the roof of a high building across the street, the ineffable vision had suddenly burst on my sight as I gazed out of my long open third-story window.
 
@@ -17,7 +19,9 @@ The divine figure waved to me, smiling and nodding in greeting. When I could not
 
 My Western voyage had, for the time being, been cancelled. I was scheduled for several public addresses in Bombay before leaving on a return visit to Bengal.
 
-Sitting on my bed in the Bombay hotel at three o’clock in the afternoon of June 19, 1936-one week after the vision of Krishna-I was roused from my meditation by a beatific light. Before my open and astonished eyes, the whole room was transformed into a strange world, the sunlight transmuted into supernal splendor.
+Sitting on my bed in the Bombay hotel at three o’clock in the afternoon of June 19, 1936-one week after the vision of Krishna-I was roused from my meditation by a beatific light. 
+
+Before my open and astonished eyes, the whole room was transformed into a strange world, the sunlight transmuted into supernal splendor.
 
 Waves of rapture engulfed me as I beheld the flesh and blood form of Sri Yukteswar!
 
@@ -46,13 +50,21 @@ Master gave a quick, mirthful chuckle. “Please, dear one,” he said, “won�
 
 “Only a little!” I had been embracing him with an octopus grip. I could detect the same faint, fragrant, natural odor which had been characteristic of his body before. The thrilling touch of his divine flesh still persists around the inner sides of my arms and in my palms whenever I recall those glorious hours.
 
-“As prophets are sent on earth to help men work out their physical karma, so I have been directed by God to serve on an astral planet as a savior,” Sri Yukteswar explained. “It is called Hiranyaloka or ‘Illumined Astral Planet.’ There I am aiding advanced beings to rid themselves of astral karma and thus attain liberation from astral rebirths. The dwellers on Hiranyaloka are highly developed spiritually; all of them had acquired, in their last earth- incarnation, the meditation-given power of consciously leaving their physical bodies at death. No one can enter Hiranyaloka unless he has passed on earth beyond the state of sabikalpa samadhi into the higher state of nirbikalpa samadhi. 43-1
+“As prophets are sent on earth to help men work out their physical karma, so I have been directed by God to serve on an astral planet as a savior,” Sri Yukteswar explained. 
 
-“The Hiranyaloka inhabitants have already passed through the ordinary astral spheres, where nearly all beings from earth must go at death; there they worked out many seeds of their past actions in the astral worlds. None but advanced beings can perform such redemptive work effectually in the astral worlds. Then, in order to free their souls more fully from the cocoon of karmic traces lodged in their astral bodies, these higher beings were drawn by cosmic law to be reborn with new astral bodies on Hiranyaloka, the astral sun or heaven, where I have resurrected to help them. There are also highly advanced beings on Hiranyaloka who have come from the superior, subtler, causal world.”
+“It is called Hiranyaloka or ‘Illumined Astral Planet.’ There I am aiding advanced beings to rid themselves of astral karma and thus attain liberation from astral rebirths. The dwellers on Hiranyaloka are highly developed spiritually; all of them had acquired, in their last earth- incarnation, the meditation-given power of consciously leaving their physical bodies at death. 
+
+No one can enter Hiranyaloka unless he has passed on earth beyond the state of sabikalpa samadhi into the higher state of nirbikalpa samadhi. 43-1
+
+“The Hiranyaloka inhabitants have already passed through the ordinary astral spheres, where nearly all beings from earth must go at death; there they worked out many seeds of their past actions in the astral worlds. 
+
+None but advanced beings can perform such redemptive work effectually in the astral worlds. Then, in order to free their souls more fully from the cocoon of karmic traces lodged in their astral bodies, these higher beings were drawn by cosmic law to be reborn with new astral bodies on Hiranyaloka, the astral sun or heaven, where I have resurrected to help them. There are also highly advanced beings on Hiranyaloka who have come from the superior, subtler, causal world.”
 
 My mind was now in such perfect attunement with my guru’s that he was conveying his word-pictures to me partly by speech and partly by thought-transference. I was thus quickly receiving his idea-tabloids.
 
-“You have read in the scriptures,” Master went on, “that God encased the human soul successively in three bodies-the idea, or causal, body; the subtle astral body, seat of man’s mental and emotional natures; and the gross physical body. On earth a man is equipped with his physical senses. An astral being works with his consciousness and feelings and a body made of lifetrons. 43-2 A causal-bodied being remains in the blissful realm of ideas. My work is with those astral beings who are preparing to enter the causal world.”
+“You have read in the scriptures,” Master went on, “that God encased the human soul successively in three bodies-the idea, or causal, body; the subtle astral body, seat of man’s mental and emotional natures; and the gross physical body. 
+
+On earth a man is equipped with his physical senses. An astral being works with his consciousness and feelings and a body made of lifetrons. 43-2 A causal-bodied being remains in the blissful realm of ideas. My work is with those astral beings who are preparing to enter the causal world.”
 
 “Adorable Master, please tell me more about the astral cosmos.” Though I had slightly relaxed my embrace at Sri Yukteswar’s request, my arms were still around him. Treasure beyond all treasures, my guru who had laughed at death to reach me!
 
@@ -66,7 +78,11 @@ My mind was now in such perfect attunement with my guru’s that he was conveyin
 
 “Among the fallen dark angels expelled from other worlds, friction and war take place with lifetronic bombs or mental mantric 43-3 vibratory rays. These beings dwell in the gloom-drenched regions of the lower astral cosmos, working out their evil karma.
 
-“In the vast realms above the dark astral prison, all is shining and beautiful. The astral cosmos is more naturally attuned than the earth to the divine will and plan of perfection. Every astral object is manifested primarily by the will of God, and partially by the will- call of astral beings. They possess the power of modifying or enhancing the grace and form of anything already created by the Lord. He has given His astral children the freedom and privilege of changing or improving at will the astral cosmos. On earth a solid must be transformed into liquid or other form through natural or chemical processes, but astral solids are changed into astral liquids, gases, or energy solely and instantly by the will of the inhabitants.
+“In the vast realms above the dark astral prison, all is shining and beautiful. The astral cosmos is more naturally attuned than the earth to the divine will and plan of perfection. 
+
+Every astral object is manifested primarily by the will of God, and partially by the will- call of astral beings. 
+
+They possess the power of modifying or enhancing the grace and form of anything already created by the Lord. He has given His astral children the freedom and privilege of changing or improving at will the astral cosmos. On earth a solid must be transformed into liquid or other form through natural or chemical processes, but astral solids are changed into astral liquids, gases, or energy solely and instantly by the will of the inhabitants.
 
 “The earth is dark with warfare and murder in the sea, land, and air,” my guru continued, “but the astral realms know a happy harmony and equality. Astral beings dematerialize or materialize their forms at will. Flowers or fish or animals can metamorphose themselves, for a time, into astral men. All astral beings are free to assume any form, and can easily commune together. No fixed, definite, natural law hems them round-any astral tree, for example, can be successfully asked to produce an astral mango or other desired fruit, flower, or indeed any other object. Certain karmic restrictions are present, but there are no distinctions in the astral world about desirability of various forms. Everything is vibrant with God’s creative light.
 
@@ -233,6 +249,9 @@ Ma shook her head. “There is no grave for him! This morning at ten o’clock h
 The astounded Sebananda knelt before her.
 
 “Ma,” he said, “what a weight of grief you lift from my heart! He is risen!”
+
+
+### Footnotes
 
 43-1: In sabikalpa samadhi the devotee has spiritually progressed to a state of inward divine union, but cannot maintain his cosmic consciousness except in the immobile trance-state. By continuous meditation, he reaches the superior state of nirbikalpa samadhi, where he moves freely in the world and performs his outward duties without any loss of God-realization.
 

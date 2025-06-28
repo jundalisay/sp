@@ -42,7 +42,13 @@ My words touched the chord closest to Burbank’s heart-child education. He plie
 
 As I was taking leave of the gentle sage, he autographed a small volume and presented it to me. 38-1 “Here is my book on The Training Of The Human Plant,” 38-2 he said. “New types of training are needed-fearless experiments. At times the most daring trials have succeeded in bringing out the best in fruits and flowers. Educational innovations for children should likewise become more numerous, more courageous.”
 
-I read his little book that night with intense interest. His eye envisioning a glorious future for the race, he wrote: “The most stubborn living thing in this world, the most difficult to swerve, is a plant once fixed in certain habits. . . . Remember that this plant has preserved its individuality all through the ages; perhaps it is one which can be traced backward through eons of time in the very rocks themselves, never having varied to any great extent in all these vast periods. Do you suppose, after all these ages of repetition, the plant does not become possessed of a will, if you so choose to call it, of unparalleled tenacity? Indeed, there are plants, like certain of the palms, so persistent that no human power has yet been able to change them. The human will is a weak thing beside the will of a plant. But see how this whole plant’s lifelong stubbornness is broken simply by blending a new life with it, making, by crossing, a complete and powerful change in its life. Then when the break comes, fix it by these generations of patient supervision and selection, and the new plant sets out upon its new way never again to return to the old, its tenacious will broken and changed at last.
+I read his little book that night with intense interest. His eye envisioning a glorious future for the race, he wrote: “The most stubborn living thing in this world, the most difficult to swerve, is a plant once fixed in certain habits. . . . 
+
+Remember that this plant has preserved its individuality all through the ages; perhaps it is one which can be traced backward through eons of time in the very rocks themselves, never having varied to any great extent in all these vast periods. Do you suppose, after all these ages of repetition, the plant does not become possessed of a will, if you so choose to call it, of unparalleled tenacity? 
+
+There are plants, like certain of the palms, so persistent that no human power has yet been able to change them. The human will is a weak thing beside the will of a plant. 
+
+But see how this whole plant’s lifelong stubbornness is broken simply by blending a new life with it, making, by crossing, a complete and powerful change in its life. Then when the break comes, fix it by these generations of patient supervision and selection, and the new plant sets out upon its new way never again to return to the old, its tenacious will broken and changed at last.
 
 “When it comes to so sensitive and pliable a thing as the nature of a child, the problem becomes vastly easier.”
 
@@ -102,6 +108,9 @@ Through the Yogoda system of physical, mental, and spiritual unfoldment by simpl
 I am glad to have this opportunity of heartily joining with the Swami in his appeal for international schools on the art of living which, if established, will come as near to bringing the millennium as anything with which I am acquainted.
 
 Luther Burbank signature
+
+
+### Footnotes
 
 38-1: Burbank also gave me an autographed picture of himself. I treasure it even as a Hindu merchant once treasured a picture of Lincoln. The Hindu, who was in America during the Civil War years, conceived such an admiration for Lincoln that he was unwilling to return to India until he had obtained a portrait of the Great Emancipator. Planting himself adamantly on Lincoln’s doorstep, the merchant refused to leave until the astonished President permitted him to engage the services of Daniel Huntington, the famous New York artist. When the portrait was finished, the Hindu carried it in triumph to Calcutta.
 

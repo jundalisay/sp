@@ -10,8 +10,12 @@ weight: 304
 
 
 
-The great novelist Leo Tolstoy wrote a delightful story, The Three Hermits. His friend Nicholas Roerich 30-1 has summarized the tale, as follows:
+The great novelist Leo Tolstoy wrote a delightful story, The Three Hermits:
 
+<!-- His friend Nicholas Roerich 30-1 has summarized the tale, as follows: -->
+
+
+{{< box >}}
 “On an island there lived three old hermits. They were so simple that the only prayer they used was: ‘We are three; Thou art Three-have mercy on us!’ Great miracles were manifested during this naive prayer.
 
 “The local bishop 30-2 came to hear about the three hermits and their inadmissible prayer, and decided to visit them in order to teach them the canonical invocations. He arrived on the island, told the hermits that their heavenly petition was undignified, and taught them many of the customary prayers. The bishop then left on a boat. He saw, following the ship, a radiant light. As it approached, he discerned the three hermits, who were holding hands and running upon the waves in an effort to overtake the vessel.
@@ -19,6 +23,8 @@ The great novelist Leo Tolstoy wrote a delightful story, The Three Hermits. His 
 “‘We have forgotten the prayers you taught us,’ they cried as they reached the bishop, ‘and have hastened to ask you to repeat them.’ The awed bishop shook his head.
 
 “‘Dear ones,’ he replied humbly, ‘continue to live with your old prayer!’”
+{{< /box >}}
+
 
 How did the three saints walk on the water?
 
@@ -26,32 +32,52 @@ How did Christ resurrect his crucified body?
 
 How did Lahiri Mahasaya and Sri Yukteswar perform their miracles?
 
-Modern science has, as yet, no answer; though with the advent of the atomic bomb and the wonders of radar, the scope of the world-mind has been abruptly enlarged. The word “impossible” is becoming less prominent in the scientific vocabulary.
+Modern science has no answer.
 
-The ancient Vedic scriptures declare that the physical world operates under one fundamental law of maya, the principle of relativity and duality. God, the Sole Life, is an Absolute Unity; He cannot appear as the separate and diverse manifestations of a creation except under a false or unreal veil. That cosmic illusion is maya. Every great scientific discovery of modern times has served as a confirmation of this simple pronouncement of the rishis.
+ <!-- though with the advent of the atomic bomb and the wonders of radar, the scope of the world-mind has been abruptly enlarged. The word “impossible” is becoming less prominent in the scientific vocabulary. -->
 
-Newton’s Law of Motion is a law of maya: “To every action there is always an equal and contrary reaction; the mutual actions of any two bodies are always equal and oppositely directed.” Action and reaction are thus exactly equal. “To have a single force is impossible. There must be, and always is, a pair of forces equal and opposite.”
+The ancient Vedic scriptures declare that the physical world operates under one fundamental law of maya, the principle of relativity and duality. 
 
-Fundamental natural activities all betray their mayic origin. Electricity, for example, is a phenomenon of repulsion and attraction; its electrons and protons are electrical opposites. Another example: the atom or final particle of matter is, like the earth itself, a magnet with positive and negative poles. The entire phenomenal world is under the inexorable sway of polarity; no law of physics, chemistry, or any other science is ever found free from inherent opposite or contrasted principles.
+God, the Sole Life, is an Absolute Unity; He cannot appear as the separate and diverse manifestations of a creation except under a false or unreal veil. That cosmic illusion is maya. Every great scientific discovery of modern times has served as a confirmation of this simple pronouncement of the rishis.
+
+Newton’s Law of Motion is a law of maya: “To every action there is always an equal and contrary reaction; the mutual actions of any two bodies are always equal and oppositely directed.” 
+
+Action and reaction are thus exactly equal. “To have a single force is impossible. There must be, and always is, a pair of forces equal and opposite.”
+
+Fundamental natural activities all betray their mayic origin. Electricity, for example, is a phenomenon of repulsion and attraction; its electrons and protons are electrical opposites. 
+
+Another example: the atom or final particle of matter is, like the earth itself, a magnet with positive and negative poles. The entire phenomenal world is under the inexorable sway of polarity; no law of physics, chemistry, or any other science is ever found free from inherent opposite or contrasted principles.
 
 Physical science, then, cannot formulate laws outside of maya, the very texture and structure of creation. Nature herself is maya; natural science must perforce deal with her ineluctable quiddity. In her own domain, she is eternal and inexhaustible; future scientists can do no more than probe one aspect after another of her varied infinitude. Science thus remains in a perpetual flux, unable to reach finality; fit indeed to formulate the laws of an already existing and functioning cosmos, but powerless to detect the Law Framer and Sole Operator. The majestic manifestations of gravitation and electricity have become known, but what gravitation and electricity are, no mortal knoweth. 30-3
+
 
 guru
 -by B. K. Mitra in “Kalyana-Kalpatur”
 
-A GURU AND DISCIPLE
+
+## A GURU AND DISCIPLE
 
 Forest hermitages were the ancient seats of learning, secular and divine, for the youth of India. Here a venerable guru, leaning on a wooden meditation elbow-prop, is initiating his disciple into the august mysteries of Spirit.
 
-To surmount maya was the task assigned to the human race by the millennial prophets. To rise above the duality of creation and perceive the unity of the Creator was conceived of as man’s highest goal. Those who cling to the cosmic illusion must accept its essential law of polarity: flow and ebb, rise and fall, day and night, pleasure and pain, good and evil, birth and death. This cyclic pattern assumes a certain anguishing monotony, after man has gone through a few thousand human births; he begins to cast a hopeful eye beyond the compulsions of maya.
+To surmount maya was the task assigned to the human race by the millennial prophets. 
+
+To rise above the duality of creation and perceive the unity of the Creator was conceived of as man’s highest goal. Those who cling to the cosmic illusion must accept its essential law of polarity: flow and ebb, rise and fall, day and night, pleasure and pain, good and evil, birth and death. This cyclic pattern assumes a certain anguishing monotony, after man has gone through a few thousand human births; he begins to cast a hopeful eye beyond the compulsions of maya.
 
 To tear the veil of maya is to pierce the secret of creation. The yogi who thus denudes the universe is the only true monotheist. All others are worshiping heathen images. So long as man remains subject to the dualistic delusions of nature, the Janus-faced Maya is his goddess; he cannot know the one true God.
 
-The world illusion, maya, is individually called avidya, literally, “not-knowledge,” ignorance, delusion. Maya or avidya can never be destroyed through intellectual conviction or analysis, but solely through attaining the interior state of nirbikalpa samadhi. The Old Testament prophets, and seers of all lands and ages, spoke from that state of consciousness. Ezekiel says (43:1-2): “Afterwards he brought me to the gate, even the gate that looketh toward the east: and, behold, the glory of the God of Israel came from the way of the east: and his voice was like a noise of many waters: and the earth shined with his glory.” Through the divine eye in the forehead (east), the yogi sails his consciousness into omnipresence, hearing the Word or Aum, divine sound of many waters or vibrations which is the sole reality of creation.
+The world illusion, maya, is individually called avidya, literally, “not-knowledge,” ignorance, delusion. Maya or avidya can never be destroyed through intellectual conviction or analysis, but solely through attaining the interior state of nirbikalpa samadhi. 
 
-Among the trillion mysteries of the cosmos, the most phenomenal is light. Unlike sound-waves, whose transmission requires air or other material media, light-waves pass freely through the vacuum of interstellar space. Even the hypothetical ether, held as the interplanetary medium of light in the undulatory theory, can be discarded on the Einsteinian grounds that the geometrical properties of space render the theory of ether unnecessary. Under either hypothesis, light remains the most subtle, the freest from material dependence, of any natural manifestation.
+The Old Testament prophets, and seers of all lands and ages, spoke from that state of consciousness. Ezekiel says (43:1-2): “Afterwards he brought me to the gate, even the gate that looketh toward the east: and, behold, the glory of the God of Israel came from the way of the east: and his voice was like a noise of many waters: and the earth shined with his glory.” 
 
-In the gigantic conceptions of Einstein, the velocity of light-186,000 miles per second-dominates the whole Theory of Relativity. He proves mathematically that the velocity of light is, so far as man’s finite mind is concerned, the only constant in a universe of unstayable flux. On the sole absolute of light-velocity depend all human standards of time and space. Not abstractly eternal as hitherto considered, time and space are relative and finite factors, deriving their measurement validity only in reference to the yardstick of light-velocity. In joining space as a dimensional relativity, time has surrendered age- old claims to a changeless value. Time is now stripped to its rightful nature-a simple essence of ambiguity! With a few equational strokes of his pen, Einstein has banished from the cosmos every fixed reality except that of light.
+Through the divine eye in the forehead (east), the yogi sails his consciousness into omnipresence, hearing the Word or Aum, divine sound of many waters or vibrations which is the sole reality of creation.
+
+Among the trillion mysteries of the cosmos, the most phenomenal is light. Unlike sound-waves, whose transmission requires air or other material media, light-waves pass freely through the vacuum of interstellar space. 
+
+Even the hypothetical ether, held as the interplanetary medium of light in the undulatory theory, can be discarded on the Einsteinian grounds that the geometrical properties of space render the theory of ether unnecessary. Under either hypothesis, light remains the most subtle, the freest from material dependence, of any natural manifestation.
+
+In the gigantic conceptions of Einstein, the velocity of light-186,000 miles per second-dominates the whole Theory of Relativity. He proves mathematically that the velocity of light is, so far as man’s finite mind is concerned, the only constant in a universe of unstayable flux. On the sole absolute of light-velocity depend all human standards of time and space. 
+
+Not abstractly eternal as hitherto considered, time and space are relative and finite factors, deriving their measurement validity only in reference to the yardstick of light-velocity. In joining space as a dimensional relativity, time has surrendered age- old claims to a changeless value. Time is now stripped to its rightful nature-a simple essence of ambiguity! With a few equational strokes of his pen, Einstein has banished from the cosmos every fixed reality except that of light.
 
 In a later development, his Unified Field Theory, the great physicist embodies in one mathematical formula the laws of gravitation and of electromagnetism. Reducing the cosmical structure to variations on a single law, Einstein 30-4 reaches across the ages to the rishis who proclaimed a sole texture of creation-that of a protean maya.
 
@@ -142,6 +168,10 @@ For a long time I experienced this motion picture of my body in the dimly lighte
 This prayer was evidently startling; the beam disappeared. My body resumed its normal weight and sank on the bed; the swarm of dazzling ceiling lights flickered and vanished. My time to leave this earth had apparently not arrived.
 
 “Besides,” I thought philosophically, “the prophet Elijah might well be displeased at my presumption!”
+
+
+
+### Footnotes
 
 30-1: This famous Russian artist and philosopher has been living for many years in India near the Himalayas. “From the peaks comes revelation,” he has written. “In caves and upon the summits lived the rishis. Over the snowy peaks of the Himalayas burns a bright glow, brighter than stars and the fantastic flashes of lightning.”
 

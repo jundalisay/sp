@@ -4,7 +4,7 @@ heading: Chapter 20
 description: ""
 c: "indigo"
 author: "Yogananda"
-weight: 254
+weight: 68
 ---
 
 

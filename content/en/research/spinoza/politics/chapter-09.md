@@ -31,9 +31,8 @@ For if any city belonging to the state were chosen as a meeting-place for the su
 would have to be a system of rotation or else a place that does not possess the right of citizenship and that belongs equally to all must be chosen as this council's meeting-place.2 
 
 But both these suggestions, easy as they are to state, are difficult in practice, with so many thousands of men having so frequently to quit their cities or to assemble in different places in turn.
-[4J To enable us, taking account of the nature and constitution of this kind of state, to decide how to deal with th is problem and how its councils should be organised, the following points should be considered. Each city has as much more right than a private person as it has more power than a private person (Section 4,
-Chapter 2), and consequently the right of each city of this state (see Section 2 of
-this Chapter) within its own walls or the bounds of its jurisdiction is to be measured by its power. Secondly, all the cities are bound together and united not as confederates but as constituting a single state with this reservation, that each city holds that much more right over government than others as it exceeds others in
+
+[4J To enable us, taking account of the nature and constitution of this kind of state, to decide how to deal with th is problem and how its councils should be organised, the following points should be considered. Each city has as much more right than a private person as it has more power than a private person (Section 4, Chapter 2), and consequently the right of each city of this state (see Section 2 of this Chapter) within its own walls or the bounds of its jurisdiction is to be measured by its power. Secondly, all the cities are bound together and united not as confederates but as constituting a single state with this reservation, that each city holds that much more right over government than others as it exceeds others in
 power; for to look for equality in un equals is to look for the absurd.3 
 
 Citizens are rightly regarded as equals, because the power of the individual compared with the power of the entire state is of no account. 
@@ -85,13 +84,12 @@ However, if time and circumstances make it advisable to enact a new law or to ch
 
 This same procedure may be followed in appointing army commanders, in sending ambassadors abroad, and also in making decisions about waging war and accepting terms of peace. But in appointing the other ministers of state, since (as we have explained in Section 4 ofthis Chapter) each city should remain as far as possible in control of its own right and should hold as much more right in government as it exceeds other cities in power, it is necessary to observe the following procedure. 
 
-Senators are to be chosen by the patricians of each city; that is, the patricians of any one city will appoint in their own council a certa in number of senators from their citizen colleagues, a number that will be in the ratio of I to 12 to the number of patricians of that same city (see Section 30 of previous Chapter),
-and they will name those whom they wish to belong to each section, first, second,
+Senators are to be chosen by the patricians of each city; that is, the patricians of any one city will appoint in their own council a certa in number of senators from their citizen colleagues, a number that will be in the ratio of I to 12 to the number of patricians of that same city (see Section 30 of previous Chapter), and they will name those whom they wish to belong to each section, first, second,
 third and so on. 
 
-In the same way, the patricians of the other cities will appoint a number of senators varying in proportion to their own number and will distribute
-them between as many sections as we have said will constitute the senate (see Section 34, previous Chapter). As a result, in each section of the senate there will be
-a number of senators for every city proportionate to its size. But the presidents and
+In the same way, the patricians of the other cities will appoint a number of senators varying in proportion to their own number and will distribute them between as many sections as we have said will constitute the senate (see Section 34, previous Chapter). 
+
+As a result, in each section of the senate there will be a number of senators for every city proportionate to its size. But the presidents and
 
 
 <!-- 6 [These powers were vested in the CounCil of State of the Netherlands beginning around 1 588.}
@@ -101,9 +99,10 @@ a number of senators for every city proportionate to its size. But the president
 States General (which Simply represented the full) are 1D turn performed by Spmoza's senate 1 
 744 Political Treatise -->
 
-vice presidents of the sections, being fewer in number than the cities, should be chosen by lot by the senate from those who have been appointed consuls. In
-appointing the supreme judges of the state, too, the same procedure should be followed, i.e., the patricians of each city should choose from their colleagues a
-number of judges in proportion to their own number. 
+vice presidents of the sections, being fewer in number than the cities, should be chosen by lot by the senate from those who have been appointed consuls. 
+
+In
+appointing the supreme judges of the state, too, the same procedure should be followed, i.e., the patricians of each city should choose from their colleagues a number of judges in proportion to their own number. 
 
 Thus it will come about that in appointing ministers every city will as far as possible be in control of its own right and that both in the senate and the court oflaw the right possessed by each
 city will be proportionate to its power; supposing, that is, that in deciding matters of state and in settling disputes the senate and the court of law follow the same

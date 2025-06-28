@@ -3,7 +3,7 @@ title: "The Levitating Saint"
 heading: Chapter 7
 description: ""
 c: "indigo"
-weight: 170
+weight: 22
 ---
 
 
@@ -108,6 +108,9 @@ I continued my after-school pilgrimages to the saint’s door. With silent zeal 
 Although it throws me ahead of my story by a number of years, I will recount here the last words given to me by Bhaduri Mahasaya. Shortly before I embarked for the West, I sought him out and humbly knelt for his farewell blessing:
 
 “Son, go to America. Take the dignity of hoary India for your shield. Victory is written on your brow; the noble distant people will well receive you.”
+
+
+### Footnotes
 
 7-1: Methods of controlling life-force through regulation of breath.
 

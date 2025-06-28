@@ -137,6 +137,10 @@ Gone was the tension of war years; our spirits purred in the sun of peace. I gaz
 
 “Lord,” I thought gratefully, “Thou hast given this monk a large family!”
 
+
+
+### Footnotes
+
 48-1: A small town on Coast Highway 101, Encinitas is 100 miles south of Los Angeles, and 25 miles north of San Diego.
 
 48-2: I translate here the words of Guru Nanak’s song:

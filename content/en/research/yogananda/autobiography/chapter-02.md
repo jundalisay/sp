@@ -119,6 +119,9 @@ How the talisman finally vanished amidst deeply unhappy circumstances of my life
 
 But the small boy, thwarted in his attempts to reach the Himalayas, daily traveled far on the wings of his amulet.
 
+
+### Footnotes
+
 2-1: Sanskrit root meaning of swami is “he who is one with his Self (Swa).” Applied to a member of the Indian order of monks, the title has the formal respect of “the reverend.”
 
 2-2: The Indian custom, whereby parents choose the life-partner for their child, has resisted the blunt assaults of time. The percentage is high of happy Indian marriages.

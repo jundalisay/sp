@@ -50,8 +50,7 @@ For freedom (as I have shown in Section 9 of this Chapter) does not remove the n
 
 For he who has the power17 to break faith has in reality not given up his right; he has given no more than words. 
 
-Therefore, being by natural right judge of his own case, ifhe judges rightly or wrongly (for to err is human) that the loss resulting from the pledge he has given outweighs the advantage, his own belief will lead him to conclude that the pledge should be broken, and it is by natural right (Section 9 of this Chapter)
-that he will break his pledge. 18
+Therefore, being by natural right judge of his own case, ifhe judges rightly or wrongly (for to err is human) that the loss resulting from the pledge he has given outweighs the advantage, his own belief will lead him to conclude that the pledge should be broken, and it is by natural right (Section 9 of this Chapter) that he will break his pledge. 18
 
 {{< s v="13" >}} If two men come together and join forces, they have more power over Nature, and consequently more righ� than either one alone; and the greater the number who form a union in this way, the more right they will together possess.
 
@@ -95,20 +94,21 @@ If this charge belongs to a council composed of the people in general, then the 
 
 If the management of affairs of state and consequently the sovereignty is in the hands of one man, then the state is called a monarchy.
 
-19 [in statu ntlturali. A more literal rendenng would be "10 the natural state," but this may suggest to
+
+<sup>19</sup> [in statu ntlturali. A more literal rendenng would be "10 the natural state," but this may suggest to
 the modem reader a readmg of presocletai conditions more close to Rousseau or Locke . The translahon "state of Nature" has been used consIStently ID what follows.]
 
-20 [So Spinoz3 conceIVes the natural state as one of almost total bondage, In contrast to Hobbes, who
+<sup>20</sup> [So Spinoz3 conceIVes the natural state as one of almost total bondage, In contrast to Hobbes, who
 regards It as a state of human freedom 1
 
-21 [The Latin- una veluti mente- denotes a counterfactuaJ condition, because CIVil SOCiety Itself does
+<sup>21</sup> [The Latin- una veluti mente- denotes a counterfactuaJ condition, because CIVil SOCiety Itself does
 not have a rmod m the theoretical sense ofthlS term deployed by Spmoza ID the Ethica.]
 
-22 [potentia multitudinis. In what follows, multitudo IS usually rendered as "people," the English term
+<sup>22</sup> [potentia multitudinis. In what follows, multitudo IS usually rendered as "people," the English term
 "rrruititude" having a somewhat pejorative connotation more akin to Sp1Ooza's term vulgus. The
 phrase IS common 10 seventeenth-century JUfidtcal wnhngs.]
 
-23 [imperium.] 
+<sup>23</sup> [imperium.] 
 
 
 {{< s v="18" >}} From what we have shown in this Chapter, it becomes quite clear that in a state of nature there is no sin; or if a man sins, he sins against himself, not against another. 

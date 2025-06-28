@@ -3,7 +3,7 @@ title: "A “Perfume Saint” Displays His Wonders"
 heading: Chapter 5
 description: ""
 c: "indigo"
-weight: 140
+weight: 18
 ---
 
 
@@ -156,6 +156,10 @@ Ostentatious display of unusual powers are decried by masters. The Persian mysti
 “A frog is also at home in the water!” Abu Said pointed out in gentle scorn. “The crow and the vulture easily fly in the air; the Devil is simultaneously present in the East and in the West! A true man is he who dwells in righteousness among his fellow men, who buys and sells, yet is never for a single instant forgetful of God!” On another occasion the great Persian teacher gave his views on the religious life thus: “To lay aside what you have in your head (selfish desires and ambitions); to freely bestow what you have in your hand; and never to flinch from the blows of adversity!”
 
 Neither the impartial sage at Kalighat Temple nor the Tibetan-trained yogi had satisfied my yearning for a guru. My heart needed no tutor for its recognitions, and cried its own “Bravos!” the more resoundingly because unoften summoned from silence. When I finally met my master, he taught me by sublimity of example alone the measure of a true man.
+
+
+### Footnotes
+
 
 5-1: Kali represents the eternal principle in nature. She is traditionally pictured as a four-armed woman, standing on the form of the God Shiva or the Infinite, because nature or the phenomenal world is rooted in the Noumenon. The four arms symbolize cardinal attributes, two beneficent, two destructive, indicating the essential duality of matter or creation.
 

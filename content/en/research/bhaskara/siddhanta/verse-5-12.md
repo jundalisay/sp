@@ -8,6 +8,6 @@ draft: true
 ---
 
 
+### Verse 12
 
-
-verse 12: The nuber of Kshepadinas is used to get the Aharagana
+The nuber of Kshepadinas is used to get the Aharagana

@@ -3,7 +3,7 @@ title: "Sasi And The Three Sapphires"
 heading: Chapter 17
 description: ""
 c: "indigo"
-weight: 240
+weight: 58
 ---
 
 

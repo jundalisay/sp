@@ -33,45 +33,35 @@ On the seventh day, the festival turned its attention to Earth. Though details o
 
 Since texts have been found that detail epic struggles between Marduk and other claimants to the rulership of Earth, we can surmise that the events of the seventh day were a reenactment of Marduk's struggle for supremacy on Earth (the "Seventh"), his initial defeats, and his final victory and usurpation of the powers. 
 
-On the eighth day of the New Year Festival in Babylon, Marduk, victorious on Earth, as the forged Enuma Elish had made him in the heavens, received the supreme powers. Having bestowed them on Marduk, the gods, assisted by the king and populace, then embarked, on the ninth day, on a ritual procession that took Marduk from his house within the city's sacred precinct to the "House of Akitu," somewhere outside the city. Marduk and the visiting eleven gods stayed there through the 11th day; on the 12th day, the gods dispersed to their various
+On the eighth day of the New Year Festival in Babylon, Marduk, victorious on Earth, as the forged Enuma Elish had made him in the heavens, received the supreme powers. 
+
+Having bestowed them on Marduk, the gods, assisted by the king and populace, then embarked, on the ninth day, on a ritual procession that took Marduk from his house within the city's sacred precinct to the "House of Akitu," somewhere outside the city. 
+
+Marduk and the visiting eleven gods stayed there through the 11th day; on the 12th day, the gods dispersed to their various
 abodes, and the festival was over.
 
-Of the many aspects of the Babylonian festival that reveal its earlier, Sumerian origins, one of the most significant was that which pertained to the House of Akitu. Several studies, such as The Babylonian Akitu Festival by S. A. Pallis, have established that this house was featured in religious ceremonies in Sumer as early as the third millennium B.C. The essence of the ceremony was a holy procession that saw the reigning god leave his abode or temple and go, via several stations, to a place well out of town. 
+Of the many aspects of the Babylonian festival that reveal its earlier, Sumerian origins, one of the most significant was that which pertained to the House of Akitu. 
+
+Several studies, such as The Babylonian Akitu Festival by S. A. Pallis, have established that this house was featured in religious ceremonies in Sumer as early as the third millennium B.C. The essence of the ceremony was a holy procession that saw the reigning god leave his abode or temple and go, via several stations, to a place well out of town. 
 
 A special ship, a "Divine Boat," was used for the purpose.
 
-Then the god, successful in whatever his mission was at the A.KI.TI House,
-returned to the city's quay by the same Divine Boat, and retraced his course back
-to the temple amid feasting and rejoicing by the king and populace.
-The Sumerian term A.KI.TI (from which the Babylonian akitu derived) literally
-meant "build on Earth life." 
+Then the god, successful in whatever his mission was at the A.KI.TI House, returned to the city's quay by the same Divine Boat, and retraced his course back to the temple amid feasting and rejoicing by the king and populace.
 
-This, coupled with the various aspects of the mysterious journey, leads us to conclude that the procession symbolized the hazardous but successful voyage of the Nefilim from their abode to the seventh
-planet, Earth.
+The Sumerian term A.KI.TI (from which the Babylonian akitu derived) literally meant "build on Earth life." 
 
-Excavations conducted over some twenty years on the site of ancient Babylon,
-brilliantly correlated with Babylonian ritual texts, enabled teams of scholars led by
-F. Wetzel and F. H. Weissbach (Das Hauptheiligturn des Marduks in Babylon) to
-reconstruct the holy precinct of Marduk, the architectural features of his ziggurat,
-and the Processional Way, portions of which were reerected at the Museum of the
-Ancient Near East, in East Berlin.
+This, coupled with the various aspects of the mysterious journey, leads us to conclude that the procession symbolized the hazardous but successful voyage of the Nefilim from their abode to the seventh planet, Earth.
 
-The symbolic names of the seven stations and the epithet of Marduk at each
-station were given in both Akkadian and Sumerian—attesting both to the antiquity
-and to the Sumerian origins of the procession and its symbolism.
-The first station of Marduk, at which his epithet was "Ruler of the Heavens,"
-was named "House of Holiness" in Akkadian and "House of Bright Waters" in
-Sumerian. The god's epithet at the second station is illegible; the station itself was
-named "Where the Field Separates." The partly mutilated name of the third station
-began with the words "Location facing the planet…"; and the god's epithet there
-changed to "Lord of Poured-Out Fire."
+Excavations conducted over some twenty years on the site of ancient Babylon, brilliantly correlated with Babylonian ritual texts, enabled teams of scholars led by F. Wetzel and F. H. Weissbach (Das Hauptheiligturn des Marduks in Babylon) to reconstruct the holy precinct of Marduk, the architectural features of his ziggurat, and the Processional Way, portions of which were reerected at the Museum of the Ancient Near East, in East Berlin.
 
-The fourth station was called "Holy Place of Destinies," and Marduk was called
-"Lord of the Storm of the Waters of An and Ki." The fifth station appeared less
-turbulent. It was named "The Roadway," and Marduk assumed the title "Where the
-Shepherd's Word Appears." Smoother sailing was also indicated at the sixth
-station, called "The Traveler's Ship," where Marduk's epithet changed to "God of
-the Marked-Out Gateway."
+
+The symbolic names of the seven stations and the epithet of Marduk at each station were given in both Akkadian and Sumerian—attesting both to the antiquity and to the Sumerian origins of the procession and its symbolism. 
+
+The first station of Marduk, at which his epithet was "Ruler of the Heavens," was named "House of Holiness" in Akkadian and "House of Bright Waters" in Sumerian. 
+
+The god's epithet at the second station is illegible; the station itself was named "Where the Field Separates." The partly mutilated name of the third station began with the words "Location facing the planet…"; and the god's epithet there changed to "Lord of Poured-Out Fire."
+
+The fourth station was called "Holy Place of Destinies," and Marduk was called "Lord of the Storm of the Waters of An and Ki." The fifth station appeared less turbulent. It was named "The Roadway," and Marduk assumed the title "Where the Shepherd's Word Appears." Smoother sailing was also indicated at the sixth station, called "The Traveler's Ship," where Marduk's epithet changed to "God of the Marked-Out Gateway."
 
 The seventh station was the Bit Akitu ("house of building life on Earth"). There, Marduk took the title "God of the House of Resting." 
 
@@ -86,10 +76,11 @@ The 7 stations in the procession of Marduk represented the space trip of the Nef
 7. The seventh station was Earth—the end of the journey, where Marduk provided the "House of Resting" (the god's "house of building life on Earth").
 
 
-
 How did the "Aeronautics and Space Administration" of the Nefilim view the solar system in terms of the space flight to Earth? 
 
-Logically—and in fact—they viewed the system in two parts. The one zone of concern was the zone of flight, which embraced the space occupied by the 7 planets extending from Pluto to Earth. The second group, beyond the zone of navigation, was made up of four celestial bodies—the Moon, Venus, Mercury, and the Sun. In astronomy and divine genealogy, the two groups were considered separate.
+Logically—and in fact—they viewed the system in two parts. The one zone of concern was the zone of flight, which embraced the space occupied by the 7 planets extending from Pluto to Earth. 
+
+The second group, beyond the zone of navigation, was made up of four celestial bodies—the Moon, Venus, Mercury, and the Sun. In astronomy and divine genealogy, the two groups were considered separate.
 
 Genealogically, Sin (as the Moon) was the head of the group of the "Four."
 

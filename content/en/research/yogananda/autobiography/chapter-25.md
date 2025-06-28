@@ -4,7 +4,7 @@ heading: Chapter 25
 description: ""
 c: "indigo"
 author: "Yogananda"
-weight: 280
+weight: 84
 ---
 
 

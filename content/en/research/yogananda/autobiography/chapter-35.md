@@ -141,6 +141,10 @@ New hope for new men! “Divine union,” the Yogavatar proclaimed, “is possib
 
 Through use of the Kriya key, persons who cannot bring themselves to believe in the divinity of any man will behold at last the full divinity of their own selves.
 
+
+
+### Footnotes
+
 35-1: Matthew 3:15.
 
 35-2: Many Biblical passages reveal that the law of reincarnation was understood and accepted. Reincarnational cycles are a more reasonable explanation for the different states of evolution in which mankind is found, than the common Western theory which assumes that something (consciousness of egoity) came out of nothing, existed with varying degrees of lustihood for thirty or ninety years, and then returned to the original void. The inconceivable nature of such a void is a problem to delight the heart of a medieval Schoolman.

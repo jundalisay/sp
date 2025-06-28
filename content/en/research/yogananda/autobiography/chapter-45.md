@@ -101,6 +101,9 @@ As she boarded the train, I marveled to see that whether amidst a crowd, on a tr
 
 “Behold, now and always one with the Eternal, ‘I am ever the same.’”
 
+
+### Footnotes
+
 45-1: I find some further facts of Ananda Moyi Ma’s life, printed in East-West. The saint was born in 1893 at Dacca in central Bengal. Illiterate, she has yet stunned the intellectuals by her wisdom. Her verses in Sanskrit have filled scholars with wonderment. She has brought consolation to bereaved persons, and effected miraculous cures, by her mere presence.
 
 45-2: Mark 12:30.
