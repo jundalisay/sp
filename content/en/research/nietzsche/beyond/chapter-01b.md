@@ -35,36 +35,72 @@ How could you do DIFFERENTLY?
 
 Why should you make a principle out of what you yourselves are, and must be? 
 
-In reality, however, it is quite otherwise with you: while you pretend to read with rapture the canon of your law in Nature, you want something quite the contrary, you extraordinary stage-players and self-deluders! 
+In reality, however, it is quite otherwise with you.
 
-In your pride you wish to dictate your morals and ideals to Nature, to Nature herself, and to incorporate them therein; 
+You pretend to read with rapture the canon of your law in Nature. But you want something quite the contrary, you self-deluders! 
 
-You insist that it shall be Nature "according to the Stoa." You would like everything to be made after your own image, as a vast, eternal glorification and generalism of Stoicism! 
+In your pride, you wish to dictate your morals and ideals to Nature herself, and for her to incorporate them.
 
-With all your love for truth, you have forced yourselves so long, so persistently, and with such hypnotic rigidity to see Nature FALSELY, Stoically, that you are no longer able to see it otherwise—and to crown all, some unfathomable superciliousness gives you the Bedlamite hope that BECAUSE you are able to tyrannize over yourselves—
+You insist that it shall be Nature "according to the Stoa." 
+
+You would like everything to be made after your own image, as a vast, eternal glorification and generalism of Stoicism! 
+
+<!-- With all your love for truth, you have forced yourselves so persistently, and with such hypnotic rigidity to see Nature FALSELY, Stoically, that you are no longer able to see it otherwise—and to crown all, some unfathomable superciliousness gives you the Bedlamite hope that BECAUSE you are able to tyrannize over yourselves— -->
 
 Stoicism is self-tyranny.
 
 Nature will also allow herself to be tyrannized over: is not the Stoic a PART of Nature?
 
-But this is an old and everlasting story: what happened in old times with the Stoics still happens today, as soon as ever a philosophy begins to believe in itself. It always creates the world in its own image. it cannot do otherwise; philosophy is this tyrannical impulse itself, the most spiritual Will to Power, the will to "creation of the world," the will to the causa prima.
+<!-- But this is an old and everlasting story: what happened in old times with the Stoics still happens today, as soon as ever a philosophy begins to believe in itself. It always creates the world in its own image. it cannot do otherwise; philosophy is this tyrannical impulse itself, the most spiritual Will to Power, the will to "creation of the world," the will to the causa prima. -->
 
 
-10. The eagerness and subtlety, I should even say craftiness, with which the problem of "the real and the apparent world" is dealt with at present throughout Europe, furnishes food for thought and attention; and he who hears only a "Will to Truth" in the background, and nothing else, cannot certainly boast of the sharpest ears. 
 
-In rare and isolated cases, it may really have happened that such a Will to Truth—a certain extravagant and adventurous pluck, a metaphysician's ambition of the forlorn hope—has participated therein: that which in the end always prefers a handful of "certainty" to a whole cartload of beautiful possibilities; there may even be puritanical fanatics of conscience, who prefer to put their last trust in a sure nothing, rather than in an uncertain something. 
+10. The eagerness, subtlety, and craftiness, with which the problem of "the real and the apparent world" is dealt with at present throughout Europe, furnishes food for thought and attention.
+
+He who hears only a "Will to Truth" in the background, and nothing else, cannot certainly boast of the sharpest ears. 
+
+In rare and isolated cases, it may really have happened that such a Will to Truth—a certain extravagant and adventurous pluck, a metaphysician's ambition of the forlorn hope—has participated therein: that which in the end always prefers a handful of "certainty" to a whole cartload of beautiful possibilities; 
+
+There may even be puritanical fanatics of conscience, who prefer to put their last trust in a sure nothing, rather than in an uncertain something. 
 
 But that is Nihilism, and the sign of a despairing, mortally wearied soul, notwithstanding the courageous bearing such a virtue may display. 
 
-It seems, however, to be otherwise with stronger and livelier thinkers who are still eager for life. In that they side AGAINST appearance, and speak superciliously of "perspective," in that they rank the credibility of their own bodies about as low as the credibility of the ocular evidence that "the earth stands still," and thus, apparently, allowing with complacency their securest possession to escape (for what does one at present believe in more firmly than in one's body?),—who knows if they are not really trying to win back something which was formerly an even securer possession, something of the old domain of the faith of former times, perhaps the "immortal soul," perhaps "the old God," in short, ideas by which they could live better, that is to say, more vigorously and more joyously, than by "modern ideas"?
+It seems, however, to be otherwise with stronger and livelier thinkers who are still eager for life.
 
-There is DISTRUST of these modern ideas in this mode of looking at things, a disbelief in all that has been constructed yesterday and today; there is perhaps some slight admixture of satiety and scorn, which can no longer endure the BRIC-A-BRAC of ideas of the most varied origin, such as so-called Positivism at present throws on the market; a disgust of the more refined taste at the village-fair motleyness and patchiness of all these reality-philosophasters, in whom there is nothing either new or true, except this motleyness. 
+In that they side AGAINST appearance, and speak superciliously of "perspective," in that they rank the credibility of their own bodies about as low as the credibility of the ocular evidence that "the earth stands still," thus, apparently, allowing with complacency their securest possession to escape (for what does one at present believe in more firmly than in one's body?),—who knows if they are not really trying to win back something which was formerly an even securer possession, something of the old domain of the faith of former times, perhaps the "immortal soul," perhaps "the old God," in short, ideas by which they could live better, that is to say, more vigorously and more joyously, than by "modern ideas"?
 
-Therein it seems to me that we should agree with those skeptical anti-realists and knowledge-microscopists of the present day; their instinct, which repels them from MODERN reality, is unrefuted... what do their retrograde by-paths concern us! The main thing about them is NOT that they wish to go "back," but that they wish to get AWAY therefrom. A little MORE strength, swing, courage, and artistic power, and they would be OFF—and not back!
+There is DISTRUST of these modern ideas in this mode of looking at things. There is a disbelief in all that has been constructed yesterday and today; there is perhaps some slight admixture of satiety and scorn, which can no longer endure the BRIC-A-BRAC of ideas of the most varied origin, such as so-called Positivism at present throws on the market; a disgust of the more refined taste at the village-fair motleyness and patchiness of all these reality-philosophasters, in whom there is nothing either new or true, except this motleyness. 
 
-11. It seems to me that there is everywhere an attempt at present to divert attention from the actual influence which Kant exercised on German philosophy, and especially to ignore prudently the value which he set upon himself. Kant was first and foremost proud of his Table of Categories; with it in his hand he said: "This is the most difficult thing that could ever be undertaken on behalf of metaphysics." Let us only understand this "could be"! He was proud of having DISCOVERED a new faculty in man, the faculty of synthetic judgment a priori. 
+We should agree with those skeptical anti-realists and knowledge-microscopists of the present day.
 
-Granting that he deceived himself in this matter; the development and rapid flourishing of German philosophy depended nevertheless on his pride, and on the eager rivalry of the younger generation to discover if possible something—at all events "new faculties"—of which to be still prouder!—But let us reflect for a moment—it is high time to do so. "How are synthetic judgments a priori POSSIBLE?" 
+Their instinct repels them from MODERN reality and is unrefuted...
+
+<!-- What do their retrograde by-paths concern us!  -->
+
+They wish to go "back." 
+
+But their main thing is that they wish to get AWAY. 
+
+A little MORE strength, swing, courage, and artistic power, and they would be OFF—and not back!
+
+
+11. There is everywhere an attempt at present to:
+- divert attention from the actual influence which Kant exercised on German philosophy,
+- especially ignore the value which Kant set on himself.
+
+Kant was first and foremost proud of his Table of Categories.
+
+He said: 
+
+"This is the most difficult thing that could ever be undertaken on behalf of metaphysics." 
+
+Let us only understand this "could be"! He was proud of having DISCOVERED a new faculty in man, the faculty of synthetic judgment a priori. 
+
+He deceived himself in this matter.
+
+The development and rapid flourishing of German philosophy depended nevertheless on his pride, and on the eager rivalry of the younger generation to discover if possible something—at all events "new faculties"—of which to be still prouder!—But let us reflect for a moment—it is high time to do so. 
+
+"How are synthetic judgments a priori POSSIBLE?" 
 
 Kant asks himself—and what is really his answer? "BY MEANS OF A MEANS (faculty)"—but unfortunately not in five words, but so circumstantially, imposingly, and with such display of German profundity and verbal flourishes, that one altogether loses sight of the comical niaiserie allemande involved in such an answer. People were beside themselves with delight over this new faculty, and the jubilation reached its climax when Kant further discovered a moral faculty in man—for at that time Germans were still moral, not yet dabbling in the "Politics of hard fact." 
 

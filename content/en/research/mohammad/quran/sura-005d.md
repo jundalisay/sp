@@ -22,8 +22,7 @@ You will find that the nearest in affection towards the believers are those who 
 That is because among them are priests and monks, and they are not arrogant.
 
 
-<sup>83</sup> When they hear what was revealed to the Messenger, you see their eyes overflowing
-with tears, as they recognize the truth in it.
+<sup>83</sup> When they hear what was revealed to the Messenger, you see their eyes overflowing with tears, as they recognize the truth in it.
 
 They say:
 

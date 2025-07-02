@@ -71,7 +71,13 @@ These 2 parts of the heart called its ‘auricles’ are nothing but the extremi
 
  <!-- here for reasons I shall go into below. -->
 
-When the anatomy of the heart is seen in this way, if one considers that it always has more heat in it when the animal is alive than any other part of the body, and that the blood is of such a nature that when it is a little hotter than usual it expands very quickly, one cannot doubt that the movement of the heart, and following it the pulse, or the beating of the arteries, occurs in the way that I shall describe.
+<!-- When the anatomy of the heart is seen in this way, if one considers that it  -->
+
+The heart always has more heat in it when the animal is alive than any other part of the body.
+
+When the blood is a little hotter than usual, it expands very quickly.
+
+ <!-- one cannot doubt that the movement of the heart, and following it the pulse, or the beating of the arteries, occurs in the way that I shall describe. -->
 
 
 When the heart is elongated and deflated, there is no blood in its ventricles, except for a small amount which remains from that which has previously been rarefied.

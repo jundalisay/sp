@@ -24,8 +24,9 @@ Glory be to You! It is not for me to say what I have no right to. Had I said it,
 <sup>119</sup> This is a Day when the truthful will benefit from their truthfulness.
 {{< /l >}}
 
-They will have Gardens beneath which rivers flow, wherein they will remain forever. <!-- Enki
-is pleased with them, and they are pleased with Him. That is the great attainment. -->
+They will have Gardens beneath which rivers flow, wherein they will remain forever. 
+
+<!-- Enki is pleased with them, and they are pleased with Him. That is the great attainment. -->
 
 <!-- 120. To Enki belongs the sovereignty of the
 heavens and the earth and what lies in them,
@@ -44,8 +45,6 @@ be wrongdoers.” -->
 “What response were you given?” 
 
 They will say, “We have no knowledge; it is you who are the Knower of the unseen.”
-
-{{< s v='110' >}} 
 
 {{< l a="Enki" >}}
 <sup>110</sup> O Jesus son of Mary, recall:

@@ -1,8 +1,8 @@
 ---
-heading: Part 4c
-title: "What is the cause of the diversity and peculiarities of the spirits?"
+heading: Part 4b
+title: "How is the Heart Formed?"
 date: 2025-01-24
-weight: 42
+weight: 41
 description: "The Description of the Human Body talks about the body"
 c: "deeppink"
 writer:
@@ -12,70 +12,82 @@ writer:
 
 
 
-The only thing that can make these particles of spirit separate and take their course left and right towards the front of the head is their:
-- extreme smallness or
-- extreme weight, or
-- their having shapes that retard or facilitate their movement.
+All animals that respire have 2 ventricles. How is this 2 ventricle heart formed?
 
-And I observe only one notable difference among those that are extremely small, namely that some – those that I called ‘aerial’ above – have very irregular and impeding shapes, whereas others have shapes that are more regular and slippery, so that they are more suited to making up fine materials such as brandy or smelling salts than air. 
 
-The properties of the aerial particles require them to follow the lowest path of all, that closest to the front of the head. 
+<!-- I have already distinguished between two kinds of parts in  -->
 
-There, they begin to form the organs of smell.
+The portion of the seed that expands in the heart, before it takes any nourishment from outside, has 2 kinds of particles:
 
-The most regular and slippery figures that flow above the aerial ones proceed by turning towards the front of the head, where they begin to form the eyes.
+1. Those that move apart and are easily separated
+2. Those that join together and attach themselves to one another. 
 
-There is only one notable difference between the larger particles of spirits. 
+These 2 are found in the blood of all animals.
 
-Some have shapes which are not really as obstructive as those of the aerial ones.
+There are many fewer of those that move apart and are easily separated in the blood of those animals that have only a single ventricle in the heart than in those animals that have two.
 
-Because of their size, if they had obstructive shapes they will have mixed very little with spirits.
+Consequently, some of these small particles expand easily. I call them ‘aerial’ particles.
 
-Their irregular and unequal shapes makes them move not one after the other. Instead, their unequal shapes let them be surrounded by fine matter which follow their agitation.
+These are the cause of the second ventricle of the heart. 
 
-They are more massive and so have more force than any of the other particles. 
+These, after the animal has been formed, are to be found inclined towards the right side.
 
-This lets them leave the middle of the brain by a shorter route, and head towards the ears. There, they take away with them some aerial particles and form the organs of hearing.
+But at the beginning of its formation, the first ventricle, which is subsequently inclined towards the left side, is rightly located in the middle of the body.
 
-The others, on the contrary, have regular and slippery shapes. This lets them act together so easily in moving one after the other, just like water.
+The blood that leaves from this left ventricle runs first towards where the brain is formed.
 
-Consequently, their motion is slower than that of the rest of the spirits. They descend through the base of the brain towards the tongue, the throat, and the palate, where they prepare the way for the nerves needed to make up the organs of taste. 
+Then from there it goes to the opposite spot, where the generative parts are formed.
 
-These 4 notable differences result in certain particles of spirits leaving their body and forming the organs of smell, of vision, of hearing, and of taste.
+In descending from the brain to there, they pass principally between the heart and the place where the spinal column is formed.
 
-The others separate gradually as they find pores in the seed through which they can pass.
+After that, as much from the top as from the bottom, they return to the heart.
 
-The only required differences between them is for those that collide closest to the pores enter them, while the others run their course together along the spinal column until they too encounter other pores through which they run into all the interior parts of the seed. This lets them trace passages of nerves there which are used by the sense of touch.
+As soon as this blood comes near to the heart, it expands partially before entering the left ventricle.
 
-Moreover, so that the knowledge that one has of the shape of already-formed animals does not prevent one from conceiving of that which they have at the beginning of their formation, the seed must be considered as a mass in which the first thing to be formed is the heart.
+This expansion pushes the matter surrounding it, and so it forms the second ventricle.
 
-Around the heart is, on the one side, the vena cava, and on the other, the aorta. These are joined at their two ends so that:
-- the end towards which the openings of the heart are turned marks the side where the head will be
-- the other marks that of the internal parts.
+It expands because there are several aerial particles in it which facilitate this expansion, and which were not able to break loose as quickly as the others.
 
-After this, the spirits have moved a little higher than the blood towards the head where, being collected in some quantity, they have taken their course gradually along the artery, and as close to the surface of the seed as their force is able to carry them.
+It only dilates partially because the portion of the seed which is joined to it, since it left the left ventricle, does not expand so readily as those of its parts that have already been rarefied there. 
 
-While they followed this course, their small parts have been able to pass through all the other paths that are easier for them than those where they are.
+This is why the expansion of this portion of the seed is postponed until it has entered the left ventricle, to where a part of the blood that has already been rarefied in the right ventricle returns.
 
-But they have not found any such paths above the spinal column because the whole body of spirits withdraws towards there, to the extent that its force allows it.
+When this blood leaves the right ventricle, those of its particles that are the most agitated and the most energetic enter the aorta.
 
-Nor have they found one directly below, because the aorta is there; so they have only flowed to the right and the left, towards the internal parts of the seed.
+But the others, which are in part the largest and heaviest, and in part also the most aerial and the softest, begin, in separating, to make up the lung.
 
-Except only that at the exit from the head, they have been able to with- draw a little inside and outside, because the marrow of the spinal column is less bulky than the head, and they are able to find some space in the former.
+For some of the most aerial remain there, and form tiny passages, which afterwards will be the branches of the artery whose extremity is the throat or the windpipe, through which the respiratory air enters.
 
-This is why the nerves that leave the 2 first junctures of the spinal column have a different origin from the others.
+The largest will return to the left ventricle of the heart. And the path by which they leave the right ventricle is what will later become the pulmonary artery; and that by which they come from there into the left ventricle is what will later become the pulmonary vein.
 
-The spirits, which prepare the way for the nerves in the seed, have taken their course there towards the internal parts alone. 
+‘Aerial’ particles does not mean those that are separated from one another, but only those of this number that, without being very agitated or very hard, each have their own motion, which makes the bodies where they are remain rare and not easily condensed.
 
-This is because the external ones, being pressed against the surface of the womb, did not have any passages free to receive them, but they did find enough free ones towards the front of the head.
+Because those that make up the air are, for the most part, of such a nature, I call them ‘aerial’.
 
-This is why, before leaving them, some became separated from others without their being of a different nature, and traced the path of the nerves that lead to the muscles of the eyes, the temples, and other neighbouring spots, and then also the paths of the nerves that go to the gums, the stomach, the intestines, the heart, and to the membranes of other internal parts that are subsequently formed.
+But there are others, more energetic and finer, like those of brandy, and aqua fortis, or of smelling salts, and many other kinds of thing, which cause the blood to expand and do not prevent it from condensing promptly afterwards. 
 
-For all that, the spirits that flowed outside the head found pores on both sides of the length of the spinal column, and by these means they distinguished its joints, and became widely distributed all around the mass of the seed, now no longer round but oblong, because the force of the blood and spirits that have passed through the heart to the head have of necessity stretched it more in that direction than in the other.
+Many of these are doubtless found in the blood of fish, as well as in that of land animals, and even perhaps in larger quantities: this makes it possible for the least heat to rarefy them. 
 
-The last place in the seed at which the spirits can arrive in following their course in this way is that where the navel must be.
+The most energetic and finest parts, that is, those which are very subtle, as well as very solid and very agitated, which I shall hereafter call ‘spirits’, do not come to a standstill at the beginning of the formation of the lung, as do the majority of the aerial particles; but because they have more force they go further, and pass from the right ventricle of the heart via a passage in the pulmonary artery as far as the aorta.
 
- <!-- I shall speak of this when the time comes.  -->
+Moreover, since it is the aerial particles of the seed that are the cause of the formation of a second ventricle in the heart, what prevents a third being formed is that, following the second ventricle, a lung is formed in which the majority of aerial particles come to a standstill.
 
-<!-- But order demands that, after having described the course of the spirits, I explain also  -->
+While the blood coming from the right ventricle is beginning to form  the lung, that leaving the left is also beginning to form other parts, the very first of which, after the heart, being the brain.
 
+The largest parts of the blood leaving the heart go directly in a straight line to the spot in the seed where the lower parts of the head are subsequently formed.
+
+But the finer ones, which make up the spirits, proceed a little further. They get to the spot where the brain will be.
+
+After this, as the blood is reflected back and takes its course down through the aorta, the spirits make their way a little higher on the same side near the spot where the medulla and the spinal column will be.
+
+This occurs because the movement of the blood in the part of the aorta which descends from the heart, to which they are close, agitates the neighbouring seed, and this facilitates their path towards the former side.
+
+Nevertheless, it does not facilitate it to such an extent that they encounter no resistance at all there. 
+
+This is why they also try to move towards the other sides.
+
+In this way, while these spirits are advancing towards the spinal column, running up and down the length of it and from there pouring into all the other spots in the seed, those of its particles that excel above the others in some quality are separated from the body and turn right and left to the base of the brain, and towards the front, where they begin to form the sense organs.
+
+They turn towards the base of the brain, because they are reflected off its upper part. 
+
+They turn right and left because the space in the middle is occupied by those that have meanwhile come from the heart, and from there make a path to the spinal column, which explains why all the sense organs are double. 

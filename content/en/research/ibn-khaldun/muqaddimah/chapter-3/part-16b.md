@@ -175,8 +175,9 @@ Otherwise, many things that are possible would (be considered impossible by him 
 excellent men, hearing stories of this kind about past dynasties, have not believed
 them. This is not right. 
 
-The conditions in the world and in civilization are not (always) the same. He who knows a low or medium (level of civilization) does not know all of them. When we consider our information about the 'Abbasids, the Umayyads, and the 'Ubaydid(-Fatimids) and when we compare what we know to be sound in it with our own observations of the less important dynasties (of today), then
-we find a great difference between them. 
+The conditions in the world and in civilization are not (always) the same. 
+
+He who knows a low or medium (level of civilization) does not know all of them. When we consider our information about the 'Abbasids, the Umayyads, and the 'Ubaydid(-Fatimids) and when we compare what we know to be sound in it with our own observations of the less important dynasties (of today), then we find a great difference between them. 
 
 That difference results from differences in the original strength of (those dynasties) and in the civilizations (of their realms). As we have stated before, all the monuments a dynasty (leaves behind it) are proportionate to the original strength (of that dynasty). We are not entitled to reject any such (information) about them. 
 
@@ -195,19 +196,42 @@ All the people went out into the open country and strolled about. In front of (t
 
 From the mangonels, bags of dirhams and dinars were shot out over the people, until the ruler entered his audience hall.
 
-Ibn Battutah told other similar stories, and people in the dynasty (in official positions) whispered to each other that he must be a liar. During that time, one day I met the Sultan's famous wazir, Faris b. Wadrar. 
+Ibn Battutah told other similar stories. Officers in the dynasty whispered to each other that he must be a liar.
 
-I talked to him about this matter and intimated to him that I did not believe that man's stories, because people in the dynasty were in general inclined to consider him a liar. Whereupon the wazir Faris said to me= "Be careful not to reject such information about the conditions ofdynasties, because you have not seen such things yourself. 
+At that time, I met the Sultan's famous wazir, Faris b. Wadrar one day
 
-You would then be like the son of the wazir who grew up in prison. The wazir had been imprisoned by his ruler and remained in prison several years.  His son grew up in prison. When he reached the age of reason, he asked his father about the meat which he had been eating. 
+I talked to him about this matter and told him that I did not believe that man's stories, because people in the dynasty were in general inclined to consider him a liar. 
 
-His father told him that it was mutton, and he asked him what that was.
+Faris said to me:
 
-When his father described a sheep to him in all details, the son said, 'Father, you mean, it looks like a rat?' 
+{{< r a="Faris" >}}
+Be careful not to reject such information about the conditions ofdynasties, because you have not seen such things yourself.
+{{< /r >}}
 
-His father was angry with him and said, 'What has a sheep to do with a rat?' The same happened later about beef and camel meat. The only animals he had seen in prison were rats, and so he believed that all animals were of the same species as rats."
 
-People are often incredulous with regard to historical information, just as they exaggerate certain information in order to be able to report something remarkable. Therefore, a person should look at his sources and rely on himself. <!-- With a clear mind and straightforward, natural
+You would then be like the son of the wazir who grew up in prison.
+
+The wazir had been imprisoned by his ruler and remained in prison several years.  His son grew up in prison. When he reached the age of reason, he asked his father about the meat which he had been eating. 
+
+His father told him that it was mutton. 
+
+The son said:
+
+{{< l a="Son" >}}
+So you mean, it looks like a rat?
+{{< /l >}}
+
+{{< r a="Father" >}}
+[Angrily] What has a sheep to do with a rat?
+{{< /r >}}
+
+The same happened later about beef and camel meat. The only animals he had seen in prison were rats.
+
+And so he believed that all animals were of the same species as rats."
+
+People are often incredulous with regard to historical information, just as they exaggerate certain information in order to be able to report something remarkable. Therefore, a person should look at his sources and rely on himself.
+
+ <!-- With a clear mind and straightforward, natural
 (common sense) he should distinguish between the nature of the possible and the
 impossible. Everything within the sphere of the possible should be accepted, and
 everything outside it should be rejected. (In using the word "possible") we do not

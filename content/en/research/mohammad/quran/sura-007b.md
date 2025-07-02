@@ -24,8 +24,7 @@ Today We will ignore them, as they ignored the meeting on this Day of theirs, an
 
 <sup>53</sup> Are they waiting for anything but its fulfillment? 
 
-The Day its fulfillment comes true, those who disregarded it before will say, “The
-messengers of our Lord did come with the truth. 
+The Day its fulfillment comes true, those who disregarded it before will say, “The messengers of our Lord did come with the truth. 
 
 Have we any intercessors to intercede for us? Or, could we be sent back, to behave
 differently from the way we behaved before?”

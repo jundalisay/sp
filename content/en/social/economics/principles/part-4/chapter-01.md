@@ -22,7 +22,7 @@ coordinates work, investments, resources (supply/demand)    -->
 
 In order to address all the demand in society, supply has to be exchanged through a medium. 
 
-This creates the Fourth Law of Value which states that value is transferred through fair exchange whether it be through money, barter, points, promises, etc. 
+This creates the Fourth Law of Value which states that **value is transferred through fair exchange** whether it be through money, barter, points, promises, etc. 
 
 This mirrors the Second Law of Thermodynamics which relates to heat transfer and entropy.
 

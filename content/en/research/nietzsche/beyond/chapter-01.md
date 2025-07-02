@@ -17,8 +17,6 @@ By Friedrich Nietzsche
 Translated by Helen Zimmern -->
 
 
-
-
 1. The Will to Truth, which is to tempt us to many a hazardous enterprise, the famous Truthfulness of which all philosophers have hitherto spoken with respect, what questions has this Will to Truth not laid before us! 
 
 What strange, perplexing, questionable questions! 
@@ -173,4 +171,3 @@ Did she ever find out?
 8. There is a point in every philosophy at which the "conviction" of the philosopher appears on the scene; or, to put it in the words of an ancient mystery:
 
 Adventavit asinus, Pulcher et fortissimus.
-
