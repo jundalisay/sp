@@ -11,27 +11,29 @@ description: "We sent Noah to his people"
 were perfected, then elaborated, from One
 who is Wise and Informed. -->
 
-{{< s v="2" >}} Worship only Enki. “I am a warner to you from Him, and a bearer of good news.”
+<!-- <sup>2</sup> Worship only Enki. “I am a warner to you from Him, and a bearer of good news.”
 
-{{< s v="3" >}}  “And ask your Lord for forgiveness, and repent to Him. He will provide you with good sustenance until a stated term, and will bestow His grace on every possessor of virtue.
+<sup>3</sup> “And ask your Lord for forgiveness, and repent to Him. He will provide you with good sustenance until a stated term, and will bestow His grace on every possessor of virtue.
 
 But if you turn away, then I fear for you the punishment of a grievous Day.
 
-{{< s v="4" >}}  “To Enki is your return, and He is Capable of all things.”
+<sup>4</sup> “To Enki is your return, and He is Capable of all things.”
 
-{{< s v="5" >}}  They wrap their chests to hide from Him.
+<sup>5</sup> They wrap their chests to hide from Him.
 
 But even as they cover themselves with their clothes, He knows what they conceal and what they reveal. He knows what lies within the hearts.
 
 <sup>6</sup> There is no moving creature on earth but its sustenance depends on Enki. 
 
-He knows where it lives and where it rests. Everything is in a Clear Book.
+He knows where it lives and where it rests. Everything is in a Clear Book. -->
 
-<sup>7</sup> He created the heavens and the earth in 6 days. His Throne was upon the waters—in order to test you—which of you is best in conduct. 
+<sup>7</sup> Enki created the heavens and the earth in 6 days. His Throne was upon the waters*—in order to test you—which of you is best in conduct.
 
-And if you were to say, “You will be resurrected after death,” those who disbelieve would say, “This is nothing but plain witchcraft.”
+{{< n n="Enki is the god of water" >}}
 
-<sup>8</sup> And if We postponed their punishment until a stated time, they would say, “What holds it back?” 
+If you were to say, “You will be resurrected after death,” those who disbelieve would say, “This is nothing but plain witchcraft.”
+
+<sup>8</sup> If We postponed their punishment until a stated time, they would say, “What holds it back?” 
 
 On the Day when it reaches them, it will not be averted from them, and what they used to ridicule will besiege them.
 
@@ -49,15 +51,16 @@ You are only a warner.
 
 Say:
 
-“Then produce ten chapters like it, invented, and call upon whomever you can, besides Enki, if you are truthful.”
+{{< l a="Muslims" >}}
+Then produce ten chapters like it, invented, and call upon whomever you can, besides Enki, if you are truthful.
+{{< /l >}}
 
 
 <sup>14</sup> But if they fail to answer you, know that it was revealed with Enki’s knowledge, and that there is no god but He. Will you then submit?
 
-<sup>15</sup> Whoever desires the worldly life and its glitter—We will fully recompense them for
-their deeds therein, and therein they will not be defrauded.
+<sup>15</sup> Whoever desires the worldly life and its glitter—We will fully recompense them for their deeds therein, and therein they will not be defrauded.
 
-{{< s v="16" >}} These—they will have nothing but the Fire in the Hereafter. Their deeds are in vain therein, and their works are null.
+<sup>16</sup> These—they will have nothing but the Fire in the Hereafter. Their deeds are in vain therein, and their works are null.
 
 <sup>17</sup> Is he who possesses a clear proof from his Lord, recited by a witness from Him, and before it the Book of Moses, a guide and a mercy? 
 
@@ -66,8 +69,9 @@ his promise. So have no doubt about it.  -->
 
 <!-- It is the truth from your Lord, but most people do not believe. -->
 
-<sup>18</sup> Who does greater wrong than he who fabricates lies about Enki? These will be presented before their Lord, and the witnesses will say, “These are they who lied about their
-Lord.”
+<sup>18</sup> Who does greater wrong than he who fabricates lies about Enki? These will be presented before their Lord, and the witnesses will say:
+
+“These are they who lied about their Lord.”
 
 <sup>19</sup> Those who hinder others from the path of Enki, and seek to make it crooked; and regarding the Hereafter, they are in denial.
 
@@ -88,11 +92,22 @@ Lord—these are the inhabitants of Paradise, where they will abide forever. -->
 
 <!-- Will you not reflect? -->
 
-<sup>25</sup> We sent Noah to his people, “I am to you a clear warner. <sup>26</sup> That you shall worship none but Enki. I fear for you the agony of a painful Day.”
+<sup>25</sup> We sent Noah to his people:
+
+
+{{< l a="Noah" >}}
+I am to you a clear warner. <sup>26</sup> That you shall worship none but Enki. I fear for you the agony of a painful Day.
+{{< /l >}}
+
 
 <sup>27</sup> The notables who disbelieved among his people said:
 
-“We see in you nothing but a man like us, and we see that only the worst among us have followed you, those of immature judgment. And we see that you have no advantage over us. In fact, we think you are liars.”
+{{< r a="People" >}}
+We see in you nothing but a man like us. We see that:
+- only the worst among us have followed you, those of immature judgment
+- you have no advantage over us. In fact, we think you are liars.
+{{< /r >}}
+
 
 <sup>28</sup> He said:
 
@@ -101,56 +116,93 @@ O my people, Have you considered? If I stand on clear evidence from my Lord, and
 {{< /l >}}
 
 
-<sup>32</sup> They said, “O Noah, you have argued with us, and argued a great deal. Now bring upon us what you threaten us with, if you are truthful.”
-
-<sup>33</sup> “It is Enki who will bring it upon you, if He wills, and you will not be able to escape. <sup>34</sup> My advice will not benefit you, much as I may want to advise you, if Enki desires to confound you. He is your Lord, and to Him you will be returned.”
-
-35. Or do they say, “He made it up?” 
-
-Say, “If I made it up, upon me falls my crime, and I am innocent of the crimes you commit.”
+{{< r a="People" >}}
+<sup>32</sup> O Noah, you have argued with us, and argued a great deal. Now bring upon us what you threaten us with, if you are truthful.
+{{< /r >}}
 
 
-{{< l a="Emki" >}}
+{{< l a="Noah" >}}
+<sup>33</sup> It is Enki who will bring it upon you, if He wills, and you will not be able to escape. <sup>34</sup> My advice will not benefit you, much as I may want to advise you, if Enki desires to confound you. He is your Lord, and to Him you will be returned.
+{{< /l >}}
+
+<sup>35</sup> Or do they say, “He made it up?” 
+
+Say:
+
+{{< l a="Muslims" >}}
+If I made it up, upon me falls my crime, and I am innocent of the crimes you commit.
+{{< /l >}}
+
+
+
+{{< l a="Enki" >}}
 <sup>36</sup> None of your people will believe, except those who have already believed, so do not grieve over what they do. <sup>37</sup> Build the Ark, under Our eyes, with Our inspiration. Do not address Me regarding those who did wrong. They are to be drowned.”
 {{< /l >}}
 
 <sup>38</sup> As he was building the ark, whenever some of his people passed by him, they ridiculed him. 
 
 
-He said, “If you ridicule us, we will ridicule you, just as you ridicule. 39. You will surely know upon whom will come a torment that will abase him, and upon whom will fall a lasting torment.”
+{{< l a="Noah" >}}
+If you ridicule us, we will ridicule you, just as you ridicule. 39. You will surely know upon whom will come a torment that will abase him, and upon whom will fall a lasting torment.
+{{< /l >}}
+
 
 40. Until, when Our command came, and the volcano erupted, We said, 
 
-“Board into it a pair of every kind, and your family—except those against whom the sentence has already been passed—and those who have believed.”
+{{< l a="Enki Agents" >}}
+Board into it a pair of every kind, and your family—except those against whom the sentence has already been passed—and those who have believed.
+{{< /l >}}
+
 
 But those who believed with him were only a few.
 
-41. He said, “Embark in it. In the name of Enki shall be its sailing and its anchorage. My
-Lord is indeed Forgiving and Merciful.”
 
-42. And so it sailed with them amidst waves like hills. Noah called to his son, who had kept away, “O my son! Embark with us, and do not be with the disbelievers.”
+{{< l a="Noah" >}}
+<sup>41</sup> Embark in it. In the name of Enki shall be its sailing and its anchorage. My Lord is indeed Forgiving and Merciful.
+{{< /l >}}
 
-43. He said, “I will take refuge on a mountain—it will protect me from the water.” 
 
-He said, “There is no protection from Enki’s decree today, except for him on whom He has mercy.”
+42. And so it sailed with them amidst waves like hills. Noah called to his son, who had kept away:
+
+{{< l a="Noah" >}}
+O my son! Embark with us, and do not be with the disbelievers.
+{{< /l >}}
+
+{{< r a="Son" >}}
+43. I will take refuge on a mountain—it will protect me from the water.
+{{< /r >}}
+
+{{< l a="Noah" >}}
+There is no protection from Enki’s decree today, except for him on whom He has mercy.
+{{< /l >}}
+
 
 The waves surged between them, and he was among the drowned.
 
 44. And it was said, “O earth, swallow your waters,” and “O heaven, clear up.” 
 
 The waters receded, and the event was concluded, and it settled on Judi, and it was proclaimed:
+
 “Away with the wicked people.”
 
 45. Noah called to his Lord:
 
-“O My Lord, my son is of my family, and Your promise is true, and You are the Wisest of the wise.”
+{{< r a="Noah" >}}
+O My Lord, my son is of my family. Your promise is true, and You are the Wisest of the wise.
+{{< /r >}}
 
-46. He said, “O Noah, he is not of your family. It is an unrighteous deed. So do not ask Me
-about something you know nothing about. I admonish you, lest you be one of the ignorant.”
 
-47. He said, “O My Lord, I seek refuge with You, from asking You about what I have no knowledge of. Unless You forgive me, and have mercy on me, I will be one of the losers.”
+{{< l a="Enki" >}}
+<sup>46</sup> O Noah, he is not of your family. It is an unrighteous deed. So do not ask Me about something you know nothing about. I admonish you, lest you be one of the ignorant.
+{{< /l >}}
 
-48. It was said, “O Noah, disembark with peace from Us; and with blessings upon you, and
-upon communities from those with you. And other communities We will grant prosperity,
-and then a painful torment from Us will befall them.”
+
+{{< r a="Noah" >}}
+47. O My Lord, I seek refuge with You, from asking You about what I have no knowledge of. Unless You forgive me, and have mercy on me, I will be one of the losers.
+{{< /r >}}
+
+{{< l a="Enki Agents" >}}
+<sup>48</sup> O Noah, disembark with peace from Us; and with blessings upon you, and upon communities from those with you. Other communities We will grant prosperity,
+and then a painful torment from Us will befall them.
+{{< /l >}}
 

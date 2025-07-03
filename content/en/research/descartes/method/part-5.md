@@ -70,7 +70,7 @@ I explained:
 - how the mountains, seas, fountains, and rivers might naturally be formed in it, and the metals produced in the mines, and the plants grow 
 - how all the mixed or composite bodies might be generated
 
- and, among other things in the discoveries alluded to inasmuch as besides the stars, 
+ <!-- and, among other things in the discoveries alluded to inasmuch as besides the stars,  -->
 
 Of the things that produce light, I only know fire. So I explained:
 - its nature

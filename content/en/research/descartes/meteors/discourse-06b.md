@@ -43,9 +43,15 @@ But there fell afterwards more delicate ones, and often the roses or stars that 
 
 And all this gave me occasion to consider that the ice particles, which are of two different planes or sheets laid one on top of the other in the clouds, can be attached together more easily than those of the same sheet.
 
-For although the wind, acting usually more strongly against the lowest of these sheets than against the highest, makes them move a little faster, as has just been noted: nevertheless it can also sometimes act against them with equal force, and make them ripple in the same way: especially when there are only two or three of them one on top of the other, and then sifting through the surroundings of the pellets that compose them, it makes those of these pellets, which correspond in different sheets, always remain as if immobile opposite each other, notwithstanding the agitation and rippling of these sheets, because by this means the passage is easier for it. 
+The wind usually acts more strongly against the lowest of these sheets than against the highest. This makes them move a little faster.
 
-Yet the heat, being no less prevented by the proximity of the pellets of two different sheets, from melting those of their hairs which look at each other, than by the proximity of those of the same, only melts the other surrounding hairs, which immediately mix among those which remain, and freeze again, compose the axles or columns which join these small pellets, at the same time that they change into roses or stars.**
+But it can also sometimes act against them with equal force. This can make them ripple in the same way especially when there are only 2-3 of them one on top of the other.
+
+They then sift through the surroundings of the pellets that compose them.
+- This makes those of these pellets, which correspond in different sheets, remain immobile opposite each other.
+- This is despite the agitation and rippling of these sheets, because by this means the passage is easier for it.
+
+Yet the heat, being no less prevented by the proximity of the pellets of two different sheets, from melting those of their hairs which look at each other, than by the proximity of those of the same, only melts the other surrounding hairs, which immediately mix among those which remain, and freeze again, compose the axles or columns which join these small pellets, at the same time that they change into roses or stars.
 
 
 ### Winter in 1635

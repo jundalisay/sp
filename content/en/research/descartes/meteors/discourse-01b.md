@@ -53,14 +53,16 @@ There is a proportion between:
 
 Ice turns into water when it is more agitated.
 
-This agitation can come from the larger fire-aether particles that are near the surface of the earth [at sea level]. These larger fire-aether particles then have the force to:
+This agitation can come from the larger fire-aether particles that are near the surface of the earth [at sea level]. 
+
+These larger fire-aether particles then have the force to:
 - agitate and move the ice particles separately from one another
 - bend most of the small particles of the water among which it slips, thus making it liquid. 
 
 Water turns into ice when it becomes less agitated.
 
 This lesser agitation can come from the subtler fire-aether, such as those that are in the atmosphere, or during winter.
-- The fire-aether then does not have enough force to bend and agitate the water particles. 
+- This subtler fire-aether then does not have enough force to bend and agitate the water particles. 
 - This causes the water to remain confusedly joined and laid one on top of the other, creating a hard body as ice. 
 
 The difference between water and ice is like the difference between eels:
