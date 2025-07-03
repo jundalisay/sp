@@ -174,6 +174,13 @@ proofs:
     title: "Chinese Medicine to get Pregnant"
     sub: "We successfully used Chinese Medicine to get Pregnant (2013)"            
 
+  - url : "https://www.youtube.com/shorts/-Uv37BSf544"
+    cat: "Social Superphysics"
+    color: "seagreen"
+    img: "/photos/medieval/anu.jpg"
+    title : "God/Allah/Yahweh as the Anunnaki"
+    sub : "Merging the Torah and Quran with the Sumerian and Babylonian texts show circumstantial evidence that God/Allah/Yahweh is Enki or his group which was opposed to Enlil and other alien races or gods. This was validated by the Essassani, which explains why Allah no longer intervenes in the Muslim problems like Gaza or Iran"
+
   - url : "/social/supersociology/precrisis-years/"
     cat: "Social Superphysics"
     color: "seagreen"
