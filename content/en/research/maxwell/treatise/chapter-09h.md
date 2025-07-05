@@ -1,51 +1,33 @@
+---
+title: "The Electric Glow"
+heading: "Chapter 9h"
+weight: 2
+date: 2023-05-27
+c: "darkgoldenrod"
+---
 
 
-The Electric Glow.
-
-142.] It can be proved by the mathematical theory of electricity that if a
-conductor having on its surface a sharp conical point is placed in a perfectly
-insulating medium and electrified, the surface-density of the electricity will
-increase without limit for points nearer and nearer to the conical point, so
+142. The mathematical theory of electricity can prove that if a conductor having on its surface a sharp conical point is placed in a perfectly insulating medium and electrified, the surface-density of the electricity will increase without limit for points nearer and nearer to the conical point, so
 that at the conical point itself the surface-density, and therefore the electro-
-motive force, would be infinite. But this result depends on the hypothesis
-that the air or other surrounding dielectric has an invincible insulating power,
-which is not the case, and therefore as soon as the electromotive force at the
-conical point reaches a certain limiting value the insulating power of the air
-gives way, and there is a disruptive discharge of electricity into the air. A
-small portion of air close to the conical point thus becomes electrified. The
-electrified system now consists of the metal conductor with its conical point,
-together with a rounded mass of electrified air, which covers the point and
-acts as a sort of sheath to it, so that the boundary of the electrified system is
-no longer pointed.
+motive force, would be infinite. 
 
-This electrified system, if it were solid, would retain its charge, for the
-electromotive force is not great enough at any place to produce disruptive dis-
-charge, but since the air is fluid, and since the electromotive force is greatest
-in the line of prolongation of the conical point, the electrified particles of air
+But this result depends on the hypothesis that the air or other surrounding dielectric has an invincible insulating power, which is not the case, and therefore as soon as the electromotive force at the conical point reaches a certain limiting value the insulating power of the air gives way, and there is a disruptive discharge of electricity into the air. A small portion of air close to the conical point thus becomes electrified. The electrified system now consists of the metal conductor with its conical point, together with a rounded mass of electrified air, which covers the point and acts as a sort of sheath to it, so that the boundary of the electrified system is no longer pointed.
+
+This electrified system, if it were solid, would retain its charge, for the electromotive force is not great enough at any place to produce disruptive discharge, but since the air is fluid, and since the electromotive force is greatest in the line of prolongation of the conical point, the electrified particles of air
 move off in that direction. When they are gone other unelectrified particles
 take their place round the point, and the point being no longer protected by
 electrified air, there is another discharge, as at first.
+
 Thus there is continually kept up an influx of uncharged air to the point,
 a luminous discharge of electricity from the point, called the Electric Glow,
 and a stream of charged air in the direction of the prolongation of the axis
 of the cone called the Electric Wind. By checking the influx of air behind
-the point we may weaken the glow and by increasing the current of air byTHE ELECTRIC WIND.
+the point we may weaken the glow and by increasing the current of air by blowing we may make the glow stronger.
 
-blowing we may make the glow stronger.
 
-143.] The electric wind which blows from the conical point may be made
-to drive a little windmill, or if the conductor is made of two wires crossed
-and having their sharpened ends bent backwards, as in Fig. 32, and supported
-so as to be capable of rotating, the reaction of the electric wind will make
-the cross rotate in the direction of the arrows.
-It is only close to the electrified point that
-the motion of the electrified air is in any de-
-gree influenced by its electrification. At a
-short distance from the point the electrified
-air becomes mixed with other air, and is car-
-ried about by the ordinary currents of the at-
-mosphere as an invisible electric cloud.
+## THE ELECTRIC WIND
 
+143.] The electric wind which blows from the conical point may be made to drive a little windmill, or if the conductor is made of two wires crossed and having their sharpened ends bent backwards, as in Fig. 32, and supported so as to be capable of rotating, the reaction of the electric wind will make the cross rotate in the direction of the arrows. It is only close to the electrified point that the motion of the electrified air is in any de- gree influenced by its electrification. At a short distance from the point the electrified air becomes mixed with other air, and is car- ried about by the ordinary currents of the at- mosphere as an invisible electric cloud.
 Fig. 32.
 
 
@@ -116,5 +98,3 @@ interval between the successive discharges, and there is no current of air as
 in the case of the glow.
 
 DISRUPTIVE DISCHARGE
-
-

@@ -1,5 +1,5 @@
 ---
-title: "THE ELECTRIC CURRENT"
+title: "WATER NOT AN ELECTROLYTE"
 heading: "Chapter 9"
 weight: 2
 date: 2023-05-27
@@ -7,8 +7,7 @@ c: "darkgoldenrod"
 ---
 
 
-125.] Now Clausius supposes that it is on the constituent molecules in their
-intervals of freedom that the electromotive force acts, deflecting them slightly
+125.] Clausius supposes that it is on the constituent molecules in their intervals of freedom that the electromotive force acts, deflecting them slightly
 from the paths they would otherwise have followed, and causing the positive
 constituents to travel, on the whole, more in the positive than in the negative direction, and the negative constituents more in the negative direction than in the positive.
 
@@ -29,7 +28,7 @@ force which they excite.
 ∗
 [Leçons sur la Dissociation, professées devant la Société Chimique. L. Hachette et Cie ,
 1866.]119
-WATER NOT AN ELECTROLYTE.
+
 126.] Kohlrausch∗ finds that if the electromotive force is one volt per cen-
 timetre in length of the electrolyte, then if the electrolyte differs but slightly
 from pure water at 18°C the velocity of hydrogen is about 0·0029 centimetres
@@ -38,6 +37,7 @@ required to make it move at the rate of one centimetre per second through the
 solution is equal to the weight of 330,000,000 kilogrammes.
 The velocities of the components of unibasic acids and their salts were
 found by Kohlrausch to be in the following proportion:—
+
 Table I.
 HKNH4NaLi1
 Ba
@@ -50,20 +50,13 @@ Mg
 2
 2734846301931282421
 IBrClFNO3ClO3C2 H3 O255535029473622
-127.] The specific molecular conductivity (l) of an electrolyte is the sum
-of the velocities of its components† , and the actual conductivity of any weak
-solution is found by multiplying the number l by the number of grammes of
-the substance in a litre and dividing by the molecular weight of the substance,
+
+
+127.] The specific molecular conductivity (l) of an electrolyte is the sum of the velocities of its components† , and the actual conductivity of any weak
+solution is found by multiplying the number l by the number of grammes of the substance in a litre and dividing by the molecular weight of the substance,
 that of hydrogen being 1.
-128.] We have reason to believe that water is not an electrolyte, and that it
-is not a conductor of the electric current. It is exceedingly difficult to obtain
-water free from foreign matter. Kohlrausch‡ , however, has obtained water so
-pure that its resistance was enormous compared with ordinary distilled water.
-When exposed to the air for [4·3 hours its conductivity rose 70 per cent.],
-and [in 1060 hours it was increased nearly fortyfold. After long exposure to
-the air the conductivity was more than doubled in 4·5 hours by the action of
-tobacco smoke.] Water kept in glass vessels very soon dissolves enough of
-foreign matter to enable it to conduct freely.
+
+128.] We have reason to believe that water is not an electrolyte, and that it is not a conductor of the electric current. It is exceedingly difficult to obtain water free from foreign matter. Kohlrausch‡ , however, has obtained water so pure that its resistance was enormous compared with ordinary distilled water. When exposed to the air for [4·3 hours its conductivity rose 70 per cent.], and [in 1060 hours it was increased nearly fortyfold. After long exposure to the air the conductivity was more than doubled in 4·5 hours by the action of tobacco smoke.] Water kept in glass vessels very soon dissolves enough of foreign matter to enable it to conduct freely.
 ∗
 Göttingen Nachrichten, 5 Aug., 1874, 17 May, 1876, and 4 April, 1877.
 [Compare Cavendish Papers, pp. 446, 447.]
@@ -197,12 +190,7 @@ H2 SO4108 K
 80
 
 
-129.] The oxygen and hydrogen which are given off at the electrodes in so
-many experiments on water containing foreign ingredients are, therefore, not
-the ions of water separated by strict electrolysis, but secondary products of
-the electrolysis of the matter in solution. Thus, if the cation is a metal which
-decomposes water, it unites with an equivalent of oxygen and allows the two
-equivalents of hydrogen to escape in the form of gas. The anion may be a
-[compound radicle] which cannot exist in a separate state, [but which exists
-in the nascent condition, and] contains one equivalent [or more] of [some
-electronegative element which reacts upon water and liberates oxygen.]
+129.] The oxygen and hydrogen which are given off at the electrodes in so many experiments on water containing foreign ingredients are, therefore, not the ions of water separated by strict electrolysis, but secondary products of the electrolysis of the matter in solution.
+
+Thus, if the cation is a metal which decomposes water, it unites with an equivalent of oxygen and allows the two equivalents of hydrogen to escape in the form of gas. The anion may be a [compound radicle] which cannot exist in a separate state, [but which exists in the nascent condition, and] contains one equivalent [or more] of [some electronegative element which reacts upon water and liberates oxygen.]
+

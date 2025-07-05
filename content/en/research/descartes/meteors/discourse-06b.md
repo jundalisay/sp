@@ -14,20 +14,24 @@ icon: "Rene Descartes"
 
 I do not determine how many such grains each one can be divided into. 
 
-But it seems that for the ordinary, it must be at least 8. They can also perhaps be divided into 12, 20, 24, 32, or even a much larger number, according to their size, and of a more subtle snow, and that the cold, which converts them into hail, is harsher and comes more suddenly. 
+But it seems that for the ordinary, it must be at least 8.
 
-I have observed more than once such hail, the grains of which had roughly the shape of the segments of a ball divided into 8 equal parts by three intersecting sections at right angles at the center. 
+They can also perhaps be divided into 12, 20, 24, 32, or even more, according to their size, and of a more subtle snow, and that the cold, which converts them into hail, is harsher and comes more suddenly. 
+
+Once such hail, the grains of which had roughly the shape of the segments of a ball divided into 8 equal parts by 3 intersecting sections at right angles at the center. 
 
 Then I also observed others, which being longer and smaller, seemed to be about a quarter of those there, although their corners, having become blunt and rounded by tightening, they almost had the shape of a sugar loaf.
 
 I also observed that before or after, or even among these hailstones, there commonly fell some others that were round.
 
 
-For even though I took special care to do so, I could never find two that held together. 
+Even though I took special care to do so, I could never find two that held together. 
 
 But I soon satisfied myself on this matter, by considering how the wind always agitates, and successively bends all the parts of the surface of the water, by flowing over it, without making it rough or uneven for that.
 
-For I knew from this that it infallibly bends and ripples the surfaces of clouds in the same way, and that by continually moving each ice particle a little differently from its neighbors, it does not allow them to stick together completely, even though it does not dislodge them for that, and yet does not fail to flatten and polish their small surfaces: in the same way that we sometimes see it polish the waves, which it does in the dust of a campaign.
+It infallibly bends and ripples the surfaces of clouds in the same way.
+
+By continually moving each ice particle a little differently from its neighbors, it does not allow them to stick together completely, even though it does not dislodge them for that, and yet does not fail to flatten and polish their small surfaces: in the same way that we sometimes see it polish the waves, which it does in the dust of a campaign.
 
 After this cloud came another, which produced only small roses or wheels, with 6 teeth rounded in semicircles, such as are seen towards Q, and which were all transparent, and all flat, about the same thickness as the blades that had preceded them, and the best cut and compassed, that it is possible to imagine.
 
@@ -35,11 +39,13 @@ Even I perceived in the middle of some of them a very small white point, which o
 
 But it was easy for me to judge that they had been formed in the same way as these blades, except that the wind having pressed them much less, and the heat having perhaps also been a little less, their points had not melted completely, but only a little shortened, and rounded at the end in the shape of teeth. 
 
-And for the white point that appeared in the middle of some of them, I did not doubt that it came from the fact that the heat, which had made them transparent from white, had been so moderate that it had not penetrated at all to their center.
+The white point that appeared in the middle of some of them, I did not doubt that it came from the fact that the heat, which had made them transparent from white, had been so moderate that it had not penetrated at all to their center.
 
 There followed many other such wheels, joined two by two by an axle, or rather, because at first these axles were very thick, one could have said that they were as many small crystal columns, each end of which was adorned with a six-petaled rose a little wider than their base. 
 
-But there fell afterwards more delicate ones, and often the roses or stars that were at their extremities were unequal. Then there fell also shorter ones, and still shorter ones by degrees, until finally these stars joined together completely, and there fell doubles with 12 points or rays long enough and perfectly well compassed, some equal, and others alternately unequal, as seen towards `F` and towards `E`.
+But there fell afterwards more delicate ones, and often the roses or stars that were at their extremities were unequal. 
+
+Then there fell also shorter ones, and still shorter ones by degrees, until finally these stars joined together completely, and there fell doubles with 12 points or rays long enough and perfectly well compassed, some equal, and others alternately unequal, as seen towards `F` and towards `E`.
 
 And all this gave me occasion to consider that the ice particles, which are of two different planes or sheets laid one on top of the other in the clouds, can be attached together more easily than those of the same sheet.
 

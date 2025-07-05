@@ -181,14 +181,15 @@ of combustion of the burner.
 
 The sensitiveness of this apparatus was shewn by the effect of communi-
 cating a small charge to the tube E. The electrometer was immediately de-
-flected on account of induction between the tube and the rod AB. The rod AB
-was then discharged to earth so that the electrometer indicated zero, the tubeCONDUCTIVITY OF GASES.
+flected on account of induction between the tube and the rod AB. 
 
-remaining at a higher potential. If any conduction were now to take place
+CONDUCTIVITY OF GASES
+
+The rod AB
+was then discharged to earth so that the electrometer indicated zero, the tube remaining at a higher potential. If any conduction were now to take place
 through the air between the tube and the rod it would be indicated by the
 electrometer. No conduction however could be observed even after the lapse
 of a quarter of an hour, and when hot air and steam were blown through the
 tube. At the end of the experiment the tube was discharged to earth, when a
 negative deflection of the electrometer was observed, shewing that the tube
 had remained charged during the whole experiment.
-

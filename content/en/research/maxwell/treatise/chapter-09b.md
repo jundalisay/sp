@@ -8,34 +8,22 @@ c: "darkgoldenrod"
 
 
 
-First Class.—Metals, &c.
+## First Class.—Metals, &c.
 
-116. The first class includes all the metals, whether in the solid or liquid
-state, together with some other substances not regarded by chemists as met-
-als. In these the smallest external electromotive force is capable of producing
-an electric current, and this current continues to flow as long as the electro-
-motive force continues to act, without producing any change in the chemical
-properties of the substance. The strength of the permanent current is pro-
-portional to the electromotive force. The ratio of the numerical value of the
-electromotive force to that of the current is called the Resistance of the conductor. 
+116. The first class includes all the metals, whether in the solid or liquid state, together with some other substances not regarded by chemists as metals. In these the smallest external electromotive force is capable of producing an electric current, and this current continues to flow as long as the electromotive force continues to act, without producing any change in the chemical properties of the substance. 
 
-The same thing may be otherwise stated by saying that the flow of the current is opposed by an internal electromotive force, proportional to the
-strength of the current, and to a quantity called the Resistance of the conduc-
-tor, depending on its form and nature. When the strength of the current is
-such that this internal electromotive force balances the external electromotive
-force the current neither increases nor diminishes in strength. It is then said
-to be a steady current.
+The strength of the permanent current is proportional to the electromotive force. The ratio of the numerical value of the electromotive force to that of the current is called the Resistance of the conductor. 
 
-These relations were first established by Dr. G. S. Ohm, in a work pub-
-lished in 1827. They are expressed by the formula,
-Electromotive force = Current × Resistance,
-which is called Ohm’s Law.
-Generation of Heat by the current.
-117.] During the flow of a steady current through a conductor of uniform
-material of the first class heat is generated in the conductor, but the substance
-of the conductor will not be affected in any way, for if the heat is allowed
-to escape as fast as it is generated, the temperature and every other physical
-condition of the conductor remains the same.JOULE’S LAW.
+The same thing may be otherwise stated by saying that the flow of the current is opposed by an internal electromotive force, proportional to the strength of the current, and to a quantity called the Resistance of the conductor, depending on its form and nature. When the strength of the current is such that this internal electromotive force balances the external electromotive force the current neither increases nor diminishes in strength. It is then said to be a steady current.
+
+These relations were first established by Dr. G. S. Ohm, in a work published in 1827. They are expressed by the formula, Electromotive force = Current × Resistance,
+which is called Ohm’s Law. 
+
+### Generation of Heat by the current.
+
+117. During the flow of a steady current through a conductor of uniform material of the first class heat is generated in the conductor, but the substance of the conductor will not be affected in any way, for if the heat is allowed to escape as fast as it is generated, the temperature and every other physical condition of the conductor remains the same.
+
+JOULE’S LAW.
 
 The whole work done by the external electromotive force in urging elec-
 tricity through the body is therefore spent in generating heat. The dynamical
@@ -69,13 +57,11 @@ other plane. It follows from this that in every part of the electrolyte the sil-
 ver is moving in the direction of the current, and the chlorine in the opposite
 direction.
 
-This operation, in which a compound body is decomposed by an electric
-current, is called Electrolysis, and the mode in which the current is trans-
-mitted is called Electrolytic Conduction. The compound body is called an
 
 FARADAY’S LAWS OF ELECTROLYSIS.
 
-Electrolyte, and the components into which it is separated are called Ions.
+This operation, in which a compound body is decomposed by an electric
+current, is called Electrolysis, and the mode in which the current is transmitted is called Electrolytic Conduction. The compound body is called an Electrolyte, and the components into which it is separated are called Ions.
 That which appears at the anode is called the Anion, and that which appears
 at the cathode is called the Cation.
 
@@ -109,11 +95,7 @@ If, therefore, an electrolytic cell, consisting of a vessel of acidulated water,
 in which two platinum plates are placed as electrodes, is inserted in the circuit
 of a single Daniell’s cell, along with a galvanometer to measure the current, it
 will be found that though there is a transient current at the instant the circuit is
-closed, this current rapidly diminishes in intensity, so as to become in a very
-∗
-Exp. Res., series vii and viii.POLARIZATION.
-115
-short time too weak to be measured except by a very sensitive galvanometer.
+closed, this current rapidly diminishes in intensity, so as to become in a very short time too weak to be measured except by a very sensitive galvanometer.
 Neither oxygen nor hydrogen, the chemical components of water, appear in
 a gaseous form at the electrodes, but the electrodes themselves acquire new
 properties, shewing that a chemical action has taken place at the surface of

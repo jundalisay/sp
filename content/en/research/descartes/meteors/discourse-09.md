@@ -24,7 +24,7 @@ This is why light can penetrate better through three pikes of water than it does
 - The first surface reflects a part of this light
 - The second surface reflects another part, and so on
 
-In this way, there is almost none or no more that passes through. 
+In this way, almost none passes through. 
 
 This is why the following are not transparent:
 - crushed glass
@@ -34,15 +34,15 @@ This is why the following are not transparent:
 
 2. The action of luminous bodies is only to push the fire-aether in a straight line to our eyes.
 
-The ordinary movement of the small particles of this fire-aether in the air around us is to **roll**. 
+The ordinary movement of this fire-aether in the air is to **roll**. 
 
 This is like a ball rolling on the ground, even though it has only been pushed in a straight line.
 
-The "white" bodies are those that can make them roll in this way. Examples of these are all those that lack transparency because of the multitude of their surfaces:
+The "white" bodies are those that can make them roll in this way. Examples of these are the bodies that lack transparency because of their many [layered] surfaces:
 - foam
 - crushed glass
 - snow
-- clouds.
+- clouds
 
 
 ### Why is the Sky and Sea Blue?
@@ -53,18 +53,19 @@ The sky does not emit any light of its own.
 
 **It would appear extremely black if there were no exhalations or vapors at all above us.**
 
-They are always there to reflect some rays towards our eyes.
+Those exhalations or vapors always reflect some rays of fire-aether from the sun or stars towards our eyes.
 
-They push back towards us the small parts of the fire-aether that the sun or the other stars have pushed against them.
+When these vapors are in sufficient number, the fire-aether reflected towards us by the first vapors meets others.
+- This collision makes its small parts roll and whirl before they reach us.
+- This makes the sky appear white.
 
-When these vapors are in sufficient number, the fire-aether being pushed back towards us by the first ones, meets others afterwards which make its small parts roll and whirl, before they reach us.
+Whereas if it does not meet enough vapors to make its parts whirl in this way, it would only appear blue.
 
-This then makes the sky appear white.
+<!-- , according to what has just been said about the nature of the blue color. -->
 
-Whereas if it does not meet enough to make its parts whirl in this way, it would only appear blue, according to what has just been said about the nature of the blue color.
+This is also why very pure and deep water is blue.
 
-
-This same cause also makes the water of the sea seem to be blue where it is very pure and deep.
+ <!-- same cause also makes the water of the sea seem to be blue where it is . -->
 
 This is because:
 - only a few rays are reflected from its surface

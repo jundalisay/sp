@@ -1,8 +1,8 @@
 ---
-heading: Enlightened
-title: "Maxwell, James Clerk"
+# heading: Semi-Enlightened
+title: "A Dynamical Theory of the Electromagnetic Field"
 linkTitle: "Maxwell"
-weight: 137
+weight: 5
 date: 2023-05-25
 description: "Maxwell came up with Maxwell equations"
 a: "Maxwell"

@@ -11,7 +11,7 @@ c: "firebrick"
 
 1. Dr. Thomas Young has already skillfully studied the effects which rays of light exert upon each other.
 
-First. Two rays of homogeneous light coming from the samesource and reaching a certain point in space by paths whichare different and slightly unequal in length, either strengthenone another or annul one another, and produce upon the re- ceiving screen a bright or a dark point according as the differ- ence of path has one value or another.
+First. Two rays of homogeneous light coming from the same source and reaching a certain point in space by paths whichare different and slightly unequal in length, either strengthenone another or annul one another, and produce upon the re- ceiving screen a bright or a dark point according as the differ- ence of path has one value or another.
 
 Second. Two rays always intensify each other at any pointtor which their paths are equal ; if their intensities are addedfoi another point where the difference of path is equal to aquantity d, their intensities will be added also for all differ- ences of path included in the series 2d, 3d, etc. The intermediate values 0-f J^, d+\d, 2d+%d, etc., represent the points inwhich the rays annul each other. 
 
