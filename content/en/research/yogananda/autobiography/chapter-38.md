@@ -25,14 +25,15 @@ I focused my camera as Luther led me before the famous walnut tree by which he h
 
 “In only sixteen years,” he said, “this walnut tree reached a state of abundant nut production to which an unaided nature would have brought the tree in twice that time.”
 
-burbank
 
-burbank2
 
 Luther Burbank, beloved friend, poses with me in his Santa Rosa garden.
+
 Burbank’s little adopted daughter came romping with her dog into the garden.
 
-“She is my human plant.” Luther waved to her affectionately. “I see humanity now as one vast plant, needing for its highest fulfillments only love, the natural blessings of the great outdoors, and intelligent crossing and selection. In the span of my own lifetime I have observed such wondrous progress in plant evolution that I look forward optimistically to a healthy, happy world as soon as its children are taught the principles of simple and rational living. We must return to nature and nature’s God.”
+“She is my human plant.” 
+
+“I see humanity now as one vast plant, needing for its highest fulfillments only love, the natural blessings of the great outdoors, and intelligent crossing and selection. In the span of my own lifetime I have observed such wondrous progress in plant evolution that I look forward optimistically to a healthy, happy world as soon as its children are taught the principles of simple and rational living. We must return to nature and nature’s God.”
 
 “Luther, you would delight in my Ranchi school, with its outdoor classes, and atmosphere of joy and simplicity.”
 
@@ -115,4 +116,3 @@ Luther Burbank signature
 38-1: Burbank also gave me an autographed picture of himself. I treasure it even as a Hindu merchant once treasured a picture of Lincoln. The Hindu, who was in America during the Civil War years, conceived such an admiration for Lincoln that he was unwilling to return to India until he had obtained a portrait of the Great Emancipator. Planting himself adamantly on Lincoln’s doorstep, the merchant refused to leave until the astonished President permitted him to engage the services of Daniel Huntington, the famous New York artist. When the portrait was finished, the Hindu carried it in triumph to Calcutta.
 
 38-2: New York: Century Co., 1922.
-

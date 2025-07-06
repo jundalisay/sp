@@ -44,7 +44,10 @@ Therefore, another cause must be attributed to this attraction in glass.
 
 The formation of glass from liquid creates elongated channels between its particles. Only the middle of these channels is wide enough to allow passage to the air-aether particles. This makes glass transparent.
 
-On the sides of these channels, there are tiny slits or crevices so narrow that only the fire-aether [as virtual photons] can occupy them.
+On the sides of these channels, there are tiny slits or crevices so narrow that only the fire-aether [as channels of electrons] can occupy them.*
+
+{{< n n="These small channels give magnetism to the glass (or expanded rubber balloon)" >}}
+
 
 **The fire-aether always takes on the shape of the places where it is found.**
 

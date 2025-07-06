@@ -146,5 +146,7 @@ Our experiments<!--  philosophy -->, must be based on propositions collected by 
 
 
 
-{{< n n="Superhysics Note: Superphysics improves Physics-inductions by getting the general inductions from the feelings noted throughout history which may have escaped most people who have a limited view. These are then put into experiments to create new principles. We use data science instead of math to improve the quality of inductions, as well as aid in the expriments, since the brain can only process a limited data set" >}}
+{{< n n="Superhysics Note: This is really an attack on Cartesian Physics which is based on virtual space particles (2nd Element) and virtual photons (1st Element) and uses imaginary numbers." >}}
+
+<!-- Superphysics improves Physics-inductions by getting the general inductions from the feelings noted throughout history which may have escaped most people who have a limited view. These are then put into experiments to create new principles. We use data science instead of math to improve the quality of inductions, as well as aid in the expriments, since the brain can only process a limited data set -->
 

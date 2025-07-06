@@ -10,13 +10,13 @@ weight: 28
 
 “Little sir, please be seated. I am talking to my Divine Mother.”
 
-Silently I had entered the room in great awe. The angelic appearance of Master Mahasaya fairly dazzled me. With silky white beard and large lustrous eyes, he seemed an incarnation of purity. His upraised chin and folded hands apprized me that my first visit had disturbed him in the midst of his devotions.
+Silently I had entered the room in great awe. The angelic appearance of Master Mahasaya fairly dazzled me.
+
+With silky white beard and large lustrous eyes, he seemed an incarnation of purity. His upraised chin and folded hands apprized me that my first visit had disturbed him in the midst of his devotions.
 
 His simple words of greeting produced the most violent effect my nature had so far experienced. The bitter separation of my mother’s death I had thought the measure of all anguish. Now an agony at separation from my Divine Mother was an indescribable torture of the spirit. I fell moaning to the floor.
 
-“Little sir, quiet yourself!” The saint was sympathetically distressed.
-
-Abandoned in some oceanic desolation, I clutched his feet as the sole raft of my rescue.
+“Little sir, quiet yourself!”
 
 “Holy sir, thy intercession! Ask Divine Mother if I find any favor in Her sight!”
 
@@ -112,7 +112,13 @@ As his whisper ended, the hall was plunged into darkness. The professor’s stri
 
 “Little sir, you were disappointed in that bioscope, 9-2 but I think you will like a different one.” The saint and I were standing on the sidewalk in front of the university building. He gently slapped my chest over the heart.
 
-A transforming silence ensued. Just as the modern “talkies” become inaudible motion pictures when the sound apparatus goes out of order, so the Divine Hand, by some strange miracle, stifled the earthly bustle. The pedestrians as well as the passing trolley cars, automobiles, bullock carts, and iron-wheeled hackney carriages were all in noiseless transit. As though possessing an omnipresent eye, I beheld the scenes which were behind me, and to each side, as easily as those in front. The whole spectacle of activity in that small section of Calcutta passed before me without a sound. Like a glow of fire dimly seen beneath a thin coat of ashes, a mellow luminescence permeated the panoramic view.
+A transforming silence ensued. 
+
+Just as the modern “talkies” become inaudible motion pictures when the sound apparatus goes out of order, so the Divine Hand, by some strange miracle, stifled the earthly bustle.
+
+The pedestrians as well as the passing trolley cars, automobiles, bullock carts, and iron-wheeled hackney carriages were all in noiseless transit. 
+
+As though possessing an omnipresent eye, I beheld the scenes which were behind me, and to each side, as easily as those in front. The whole spectacle of activity in that small section of Calcutta passed before me without a sound. Like a glow of fire dimly seen beneath a thin coat of ashes, a mellow luminescence permeated the panoramic view.
 
 My own body seemed nothing more than one of the many shadows, though it was motionless, while the others flitted mutely to and fro. Several boys, friends of mine, approached and passed on; though they had looked directly at me, it was without recognition.
 

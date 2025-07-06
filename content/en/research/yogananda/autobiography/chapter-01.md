@@ -49,15 +49,21 @@ We were eight children: four boys and four girls.
 
 I, Mukunda Lal Ghosh 1-4, was the second son and the fourth child.
 
-Father and Mother were Bengalis, of the kshatriya caste.
+Father and Mother were kshatriya Bengalis.
 
-Both were blessed with saintly nature. Their mutual love, tranquil and dignified, never expressed itself frivolously. 
+Both were blessed with saintly nature. 
 
-A perfect parental harmony was the calm center for the revolving tumult of eight young lives.
+<!-- Their mutual love, tranquil and dignified, never expressed itself frivolously. 
 
-Father, Bhagabati Charan Ghosh, was kind, grave, at times stern. Loving him dearly, we children yet observed a certain reverential distance.
+A perfect parental harmony was the calm center for the revolving tumult of eight young lives. -->
+
+Father, Bhagabati Charan Ghosh, was kind, grave, at times stern. 
+
+<!-- Loving him dearly, we children yet observed a certain reverential distance. -->
 
 An outstanding mathematician and logician, he was guided principally by his intellect. 
+
+He was like a vice-president, in the Bengal-Nagpur Railway, one of India’s large companies. His work involved traveling, and our family lived in several cities during my childhood.
 
 But Mother was a queen of hearts, and taught us only through love. 
 
@@ -65,9 +71,8 @@ After her death, Father displayed more of his inner tenderness.
 
 I noticed then that his gaze often metamorphosed into my mother’s.
 
-In Mother’s presence we tasted our earliest bitter-sweet acquaintance with the scriptures. Tales from the mahabharata and ramayana 1-6 were resourcefully summoned to meet the exigencies of discipline. Instruction and chastisement went hand in hand.
+In Mother’s presence, we got our bitter-sweet acquaintance with the scriptures. Tales from the mahabharata and ramayana 1-6 were resourcefully summoned to meet the exigencies of discipline. Instruction and chastisement went hand in hand.
 
-A daily gesture of respect to Father was given by Mother’s dressing us carefully in the afternoons to welcome him home from the office. His position was similar to that of a vice-president, in the Bengal-Nagpur Railway, one of India’s large companies. His work involved traveling, and our family lived in several cities during my childhood.
 
 Mother gave to the needy. Father was also kind to them, but his respect for law and order extended to the budget. 
 

@@ -26,19 +26,49 @@ By striking repeatedly one of the prongs of the tuning-fork F, the small piston 
 
 DIAGRAM c. "WIRELESS" TELEGRAPHY MECHANICALLY ILLUSTRATED. 
 
-The electrical system illustrated in the upper figure of diagram c is exactly the same in principle, the two wires or circuits ESP and E1S1P1, which extend vertically to a height, representing the two tuning-forks with the pistons attached to them. These circuits are connected with the ground by plates E, E1, and to two elevated metal sheets P, P1, which store electricity and thus magnify considerably the effect. The closed reservoir R, with elastic walls, is in this case replaced by the earth, and the fluid by electricity. Both of these circuits are "tuned" and operate just like the 2 tuning-forks. 
+The electrical system illustrated in the upper figure of diagram c is exactly the same in principle, the two wires or circuits ESP and E1S1P1, which extend vertically to a height, representing the two tuning-forks with the pistons attached to them.
 
-Instead of striking the fork F at the sending-station, electrical oscillations are produced in the vertical sending- or transmitting-wire ESP, as by the action of a source S, included in this wire, which spread through the ground and reach the distant vertical receiving-wire E1S1P1, exciting corresponding electrical oscillations in the same. In the latter wire or circuit is included a sensitive device or receiver S1, which is thus set in action and made to operate a relay or other appliance. Each station is, of course, provided both with a source of electrical oscillations S and a sensitive receiver S1, and a simple provision is made for using each of the two wires alternately to send and to receive the messages. 
+These circuits are connected with the ground by plates E, E1, and to two elevated metal sheets P, P1, which store electricity and thus magnify considerably the effect. 
+
+The closed reservoir R, with elastic walls, is in this case replaced by the earth, and the fluid by electricity. Both of these circuits are "tuned" and operate just like the 2 tuning-forks. 
+
+Instead of striking the fork F at the sending-station, electrical oscillations are produced in the vertical sending- or transmitting-wire ESP, as by the action of a source S, included in this wire, which spread through the ground and reach the distant vertical receiving-wire E1S1P1, exciting corresponding electrical oscillations in the same. 
+
+In the latter wire or circuit is included a sensitive device or receiver S1, which is thus set in action and made to operate a relay or other appliance. Each station is, of course, provided both with a source of electrical oscillations S and a sensitive receiver S1, and a simple provision is made for using each of the two wires alternately to send and to receive the messages. 
+
 
 [See Nikola Tesla: Colorado Springs Notes, page 326, Photograph V.] 
 
 FIG. 5. PHOTOGRAPHIC VIEW OF THE COILS RESPONDING TO ELECTRICAL OSCILLATIONS.
 
-The picture shows a number of coils , differently attuned and responding to the vibrations transmitted to them through the earth from an electrical oscillator. The large coil on the right, discharging strongly, is tuned to the fundamental vibration, which is fifty thousand per second; the two larger vertical coils to twice that number; the smaller white wire coil to four times that number, and the remaining small coils to higher tones. The vibrations produced by the oscillator were so intense that they affected perceptibly a small coil tuned to the twenty-sixth higher tone. 
+The picture shows a number of coils , differently attuned and responding to the vibrations transmitted to them through the earth from an electrical oscillator. 
 
-The exact attunement of the two circuits secures great advantages, and, in fact, it is essential in the practical use of the system. In this respect many popular errors exist, and, as a rule, in the technical reports on this subject circuits and appliances are described as affording these advantages when from their very nature it is evident that this is impossible. In order to attain the best results it is essential that the length of each wire or circuit, from the ground connection to the top, should be equal to one quarter of the wave-length of the electrical vibration in the wire, or else equal to that length multiplied by an odd number. 
+The large coil on the right, discharging strongly, is tuned to the fundamental vibration, which is fifty thousand per second; the two larger vertical coils to twice that number; the smaller white wire coil to four times that number, and the remaining small coils to higher tones. 
 
-Without the observation of this rule it is virtually impossible to prevent the interference and insure the privacy of messages. Therein lies the secret of tuning. To obtain the most satisfactory results it is, however, necessary to resort to electrical vibrations of low pitch. The Hertzian spark apparatus, used generally by experimenters, which produces oscillations of a very high rate, permits no effective tuning, and slight disturbances are sufficient to render an exchange of messages impracticable. But scientifically designed, efficient appliances allow nearly perfect adjustment. An experiment performed with the improved apparatus repeatedly referred to, and intended to convey an idea of this feature, is illustrated in Fig. 5, which is sufficiently explained by its note. 
+The vibrations produced by the oscillator were so intense that they affected perceptibly a small coil tuned to the twenty-sixth higher tone. 
+
+
+The exact attunement of the 2 circuits secures great advantages, and, in fact, it is essential in the practical use of the system. 
+
+In this respect, many popular errors exist.
+
+As a rule, in the technical reports on this subject, circuits afford these advantages when from their very nature it is evident that this is impossible. 
+
+In order to attain the best results, the length of each wire or circuit, from the ground connection to the top, should be equal to 1/4 of the wave-length of the electrical vibration in the wire, or else equal to that length multiplied by an odd number. 
+
+Without the observation of this rule, it is virtually impossible to prevent the interference and insure the privacy of messages.
+
+**Therein lies the secret of tuning.** 
+
+To obtain the most satisfactory results it is, however, necessary to resort to low pitch electrical vibrations.
+
+The Hertzian spark apparatus produces very high oscillations.
+
+It permits no effective tuning. Slight disturbances can render an exchange of messages impracticable.
+
+But scientifically designed, efficient appliances allow nearly perfect adjustment. 
+
+An experiment performed with the improved apparatus repeatedly referred to, and intended to convey an idea of this feature, is illustrated in Fig. 5, which is sufficiently explained by its note. 
 
 
 Since I described these simple principles of telegraphy without wires I have had frequent occasion to note that the identical features and elements have been used, in the evident belief that the signals are being transmitted to considerable distance by "Hertzian" radiations. 

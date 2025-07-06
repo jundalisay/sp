@@ -36,7 +36,9 @@ This phenomenon is the gravity of terrestrial bodies.
   - This in turn pushes all the Earth's particles towards the center.
 
 
-#### 21. All earth-aether particles, if considered alone, are light, not heavy
+## 21. All earth-aether particles, if considered alone, are light, not heavy*
+
+{{< n n="This has been proven by 'heavy' things in zero gravity" >}}
 
 A vacuum contains nothing that can impede or assist the motions of other bodies.
 
@@ -57,12 +59,13 @@ Then:
 
 
 
-#### 22. Where Does the Lightness of the Air-Aether Come From?
+## 22. Where Does the Lightness of the Air-Aether Come From?
 
  <!-- celestial matter -->
 
 In reality:
-- there is no vacuum
+- there is no void
+<!-- vacuum -->
 - the Earth is rotated by the surrounding air-aether that permeates it entirely
 
  <!-- and passing through all its pores -->
@@ -81,20 +84,46 @@ But in reality, they are hindered from their straight-line paths by their impact
  <!-- as long as its parts have more agitation than they spend in this, therefore always hindered by the  in following , they always recede from it as much as they can and thus consist in their lightness. -->
 
 
-#### 23. How all parts of the earth are pushed downwards by the air-aether to become heavy
+## 23. How all parts of the earth are pushed downwards by the air-aether to become heavy
 <!-- This Celestial Matter, -->
 
 <!-- How all parts of the Earth are driven downward by that celestial matter, and thus become heavy. It must then be noted that  -->
+
+
+
+<!-- And it must be noted that the force by which the matter of the heavens tends to move away from the center of the Earth cannot have its effect, except that those of its parts which move away from it rise in the place of some terrestrial parts which descend at the same time into theirs. 
+
+
+ all the parts of the second element which compose that of the heavens have the same force, they do not drive one another out of their places, but because the same force is not in the Earth, when one of its parts is found further from its center than are parts of the heavens which can rise in its place, it is certain that they must rise there, and consequently make it descend into theirs. 
+
+Thus heavy bodies are not pushed towards the center of the Earth by all the matter of the sky that surrounds it, but only by the parts of this matter that rise in its place when it descends, and which consequently are all together just as large as itself. 
+
+For example, B is a rock demser the air. Its pores have far less air-aether than a similar size of the physical air above it. And so that air has far more air-aether. 
+
+ it is obvious that what there is more of the matter of the sky in this portion of air than in this body B tending to move away from the center of the Earth has the force to make it approach it, and thus to give it the quality that we call its heaviness.
+
+ its pores contain less of the heavenly matter than the portion of air that must rise into its place if it descends—it is evident that 
+
+
+ the excess of air-aether  in that air moving away from the center of the Earth, has the force to make the rock B approach it.
+ - This gives the rock its weight. -->
+
 
 
 All the spaces around the Earth are occupied either by:
 - the air-aether as space
 - the earth-aether as physical air
 
+**All the particles of the air-aether have equal force.**
+- This why the air-aether does not dislodge each other
 
-The air-aether has a force that causes it to move away from the Earth.
 
-This can only exert its effect when, during its ascent, it depresses and propels some terrestrial parts below itself into the space that it just left. 
+This air-aether is not present in the Earth.
+
+When material bodies parts are farther from the Earth's center than the air-aether below them, then that air-aether must rise to where the material bodies are.
+- This will make the terrestrial parts descend into the former place pf that air aether.
+
+<!-- This can only exert its effect when, during its ascent, it depresses and propels some terrestrial parts below itself into the space that it just left.  -->
 
 
 **The air-aether globules all have equal power. None of them can displace the other.** 
