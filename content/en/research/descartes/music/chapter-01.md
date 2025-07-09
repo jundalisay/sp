@@ -10,8 +10,6 @@ draft: true
 ---
 
 
-COMPENDIUM OF MUSIC
-
 Its object is Sound.
 
 To please us, and to move various emotions in us, is the aim; but songs can be at once sad and delightful, and it is not strange that they can be so diverse. For this reason, elegiac poets and tragedians are more pleasing the more they stir grief in us.

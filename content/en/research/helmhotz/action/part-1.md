@@ -76,125 +76,60 @@ have employed it in order to add a sum [ ] P p α α
 ∑ ⋅ to H, in which the pα are coordinate
 
 
-and the Pα mean the forces that act in the direction of the coordinates, while the latter are
-taken in a sense that will be discussed in more detail below. The Pα will be considered to
-be given functions of time that are, however, independent of the coordinates. In this
-form, the minimum principle will yield the Lagrange equations for the forces Pα , and in
-that way, an entire series of special investigations that are based upon Lagrange’s
-equations of motion will also be subsumed by the somewhat-modified principle of least
-action. Where it is necessary to distinguish that modified principle from the original one,
-I would like to call it the law of minimum kinetic potential. 
+and the Pα mean the forces that act in the direction of the coordinates, while the latter are taken in a sense that will be discussed in more detail below. 
 
-The form that Lagrange gave to the equations of motion is, in fact, important, due to the fact that we can apply it to
-cases in which processes are at work that are no longer rationally resolvable in various
-ways, such as friction, galvanic resistance, etc., and in which equilibrium must exist
-between the conservative forces that are included in Lagrange’s formula.
+The `Pα` will be considered to be given functions of time that are, however, independent of the coordinates. 
 
-There are other work equivalents, besides the potential and actual energies of
-ponderable masses, namely, thermal, electrodynamical, and electromagnetic ones. Up till
-now, the motion of heat has generally only been considered as an especially complicated
-form of the motion of exclusively ponderable atoms. However, since ether waves
-simultaneously radiate from warm bodies, this restriction [which can, in fact, be derived
-from Carnot’s law under simpler assumptions, as Clausius (*) and Boltzmann (**) showed] should be considered to be a hypothesis that is only adequate initially; the action of other forces (e.g., electrodynamical ones) cannot be excluded with any confidence. 
+In this form, the minimum principle will yield the Lagrange equations for the forces Pα , and in that way, an entire series of special investigations that are based upon Lagrange’s equations of motion will also be subsumed by the somewhat-modified principle of least action. Where it is necessary to distinguish that modified principle from the original one, I would like to call it the law of minimum kinetic potential.
 
+The form that Lagrange gave to the equations of motion is, in fact, important, due to the fact that we can apply it to cases in which processes are at work that are no longer rationally resolvable in various ways, such as friction, galvanic resistance, etc., and in which equilibrium must exist between the conservative forces that are included in Lagrange’s formula.
+
+There are other work equivalents, besides the potential and actual energies of ponderable masses, namely, thermal, electrodynamical, and electromagnetic ones. 
+
+Up till now, the motion of heat has generally only been considered as an especially complicated form of the motion of exclusively ponderable atoms. However, since ether waves simultaneously radiate from warm bodies, this restriction [which can, in fact, be derived from Carnot’s law under simpler assumptions, as Clausius (*) and Boltzmann (**) showed] should be considered to be a hypothesis that is only adequate initially; the action of other forces (e.g., electrodynamical ones) cannot be excluded with any confidence. 
 
 I have proved that, by contrast, the known laws of reversible heat processes can, in fact, be expressed in the form of Lagrange’s equation of motion, and thus also the law of minimum kinetic potential, in my papers on the statics of monocyclic motions (***).
 
 
-However, that shows that temperature, which measures the intensity of thermal motion,
-enters into the function to be integrated in a very complicated form, as do the velocities,
-when one defines the values of the vis viva in the ponderable system. In the cited papers,
-I showed that the same formulas could also be true, with certain restricting assumptions,
-for systems of ponderable masses through the elimination of certain coordinates, such
-that there is no contradiction between the appearance of such complicated forms and the
-application of Lagrange’s equations of motion. 
+However, that shows that temperature, which measures the intensity of thermal motion, enters into the function to be integrated in a very complicated form, as do the velocities, when one defines the values of the vis viva in the ponderable system. 
 
-However, if one would like to learn the
-general properties of systems that are governed by the principle of least action then it
-would be necessary to drop the older, narrower assumption that the velocities enter into
-just the values of the vis viva, and indeed in the form of a homogeneous function of
-degree two, and to examine how things behave when H is a function of the coordinates
-and velocities of arbitrary form.
+In the cited papers, I showed that the same formulas could also be true, with certain restricting assumptions, for systems of ponderable masses through the elimination of certain coordinates, such that there is no contradiction between the appearance of such complicated forms and the application of Lagrange’s equations of motion.
 
-The fact that chemical forces (whenever we can compel them to act in only a
-reversible way) follow Carnot’s law has indeed been confirmed experimentally in just a
-small number of cases, but they are all the more unacceptable since they exhibit
-measurable relations between processes of an apparently quite different nature (†).
+However, if one would like to learn the general properties of systems that are governed by the principle of least action then it would be necessary to drop the older, narrower assumption that the velocities enter into just the values of the vis viva, and indeed in the form of a homogeneous function of degree two, and to examine how things behave when H is a function of the coordinates and velocities of arbitrary form.
 
+The fact that chemical forces (whenever we can compel them to act in only a reversible way) follow Carnot’s law has indeed been confirmed experimentally in just a small number of cases, but they are all the more unacceptable since they exhibit measurable relations between processes of an apparently quite different nature (†).
 
 Finally, observations of the distant electromagnetic and electrodynamic effects of
 closed, electric currents have led to expressions for the ponderomotive and electromotor
 forces that are closely linked with the ones that Lagrange gave for the mechanics of
 ponderable bodies. The first to give such a formulation of the laws of electrodynamics
-was F. E. Neumann, sr. (
-*
-). For him, the velocities of the electric currents – i.e., the set of
-all electricity that goes through a surface element in the conductor that is bounded by
-material particles in a unit time − appeared as velocities. Later, W. Weber and Clausius
-gave other forms in which relative or absolute velocities of electrical quanta in space
-entered in place of current velocities. The consequences of the various formulations
-agree completely for closed currents; for unclosed currents, they differ. To the extent that
-facts are known in this latter domain, they show that Neumann’s law is inadequate when
-one includes only the motions of electricity in conductors in one’s calculations while
-applying it. Moreover, one must also consider the motions of electricity in insulators that
-Faraday and Maxwell considered, which might occur under increasing or diminishing
-dielectric polarization. The previously-observed effects of unclosed currents also fit into
-Neumann’s law, thus-extended.
+was F. E. Neumann, sr. (*).
 
-However, a deviation in the form of the functions from the ones for ponderable
-masses also exists here. For electrodynamical phenomena, the velocities of electricity
-appear as functions of degree two whose coefficients, however, will refer to rectangular
-coordinates, not constants, like the masses in the values of the vis viva on ponderable
-systems. Secondly, linear functions of velocity will enter whenever permanent magnets
-act.
+
+For him, the velocities of the electric currents – i.e., the set of all electricity that goes through a surface element in the conductor that is bounded by material particles in a unit time − appeared as velocities. Later, W. Weber and Clausius gave other forms in which relative or absolute velocities of electrical quanta in space entered in place of current velocities. The consequences of the various formulations agree completely for closed currents; for unclosed currents, they differ. To the extent that facts are known in this latter domain, they show that Neumann’s law is inadequate when one includes only the motions of electricity in conductors in one’s calculations while applying it. Moreover, one must also consider the motions of electricity in insulators that Faraday and Maxwell considered, which might occur under increasing or diminishing dielectric polarization. The previously-observed effects of unclosed currents also fit into Neumann’s law, thus-extended.
+
+However, a deviation in the form of the functions from the ones for ponderable masses also exists here. For electrodynamical phenomena, the velocities of electricity appear as functions of degree two whose coefficients, however, will refer to rectangular coordinates, not constants, like the masses in the values of the vis viva on ponderable systems. Secondly, linear functions of velocity will enter whenever permanent magnets act.
 
 It was precisely my investigations into the form of the kinetic potential that is required by Maxwell’s theory of electrodynamics that led me to the present preliminary investigations.
 
-The theory of light has also subsumed all of its main facts under the hypothesis that
-the ether is a medium with properties that are similar to the solid-elastic ponderable
-bodies. The known difficulties in the theory of reflection and refraction will be even
-easier to defeat by Maxwell’s hypothesis. However one might cleave to one or the other
-meaning, one would have to consider the principle of least work to be valid for the
-motion of light, at least to the extent that its phenomena can be explained by that theory.
+The theory of light has also subsumed all of its main facts under the hypothesis that the ether is a medium with properties that are similar to the solid-elastic ponderable bodies. The known difficulties in the theory of reflection and refraction will be even easier to defeat by Maxwell’s hypothesis. However one might cleave to one or the other meaning, one would have to consider the principle of least work to be valid for the motion of light, at least to the extent that its phenomena can be explained by that theory.
+
+That already implies that the domain of validity of the principle of least action goes far beyond the limits of the mechanics of ponderable bodies, and that Maupertuis’s high hopes for its absolutely general validity seem to be approaching fulfillment, so tenuous was the mechanical proof and so contradictory were the metaphysical speculations that the author himself knew about at the time.
+
+Nowadays, it is regarded as highly probable that it is the general law for all reversible natural processes, and as far as the irreversible ones are concerned (e.g., the generation and conduction of heat), their irreversibility does not seem to be in the nature of things, but only rests upon the limitations of our tools that makes it impossible for us to arrange disorganized atomic motions or to make the motion of all atoms that take part in the motion of heat go precisely backwards.
+
+(*) Cf., my papers in the theory of electrodynamics. This Journal, Bd. 72, pp. 57; Bd. 75, pp. 35; Bd. 78, pp. 273. 
 
 
-That already implies that the domain of validity of the principle of least action goes
-far beyond the limits of the mechanics of ponderable bodies, and that Maupertuis’s high
-hopes for its absolutely general validity seem to be approaching fulfillment, so tenuous
-was the mechanical proof and so contradictory were the metaphysical speculations that
-the author himself knew about at the time.
+In every case, it seems to me that the general validity of the principle of least action has been insured to the extent that it can occupy a high position as a heuristic principle and a guide for any attempts to formulate the laws of new classes of phenomena. 
 
+In addition, it has the advantage of summarizing all conditions that are influential for the class of phenomena under consideration in the narrowest scope of a formula, and thus giving a complete overview of everything that is essential. 
 
- Nowadays, it is regarded as highly probable that it is the general law for all reversible
-natural processes, and as far as the irreversible ones are concerned (e.g., the generation
-and conduction of heat), their irreversibility does not seem to be in the nature of things,
-but only rests upon the limitations of our tools that makes it impossible for us to arrange
-disorganized atomic motions or to make the motion of all atoms that take part in the
-motion of heat go precisely backwards.
+By this state of affairs, I find it useful for the general principle to give an overview of the proof and the general consequences, which can be kept very brief whenever one applies only known methods to somewhat extended assumptions. 
 
- (*
-) Cf., my papers in the theory of electrodynamics. This Journal, Bd. 72, pp. 57; Bd. 75, pp. 35; Bd.
-78, pp. 273. 
-Helmholtz – On the physical meaning of the principle of least action. 5
- In every case, it seems to me that the general validity of the principle of least action
-has been insured to the extent that it can occupy a high position as a heuristic principle
-and a guide for any attempts to formulate the laws of new classes of phenomena.
- In addition, it has the advantage of summarizing all conditions that are influential for
-the class of phenomena under consideration in the narrowest scope of a formula, and thus
-giving a complete overview of everything that is essential.
- By this state of affairs, I find it useful for the general principle to give an overview of
-the proof and the general consequences, which can be kept very brief whenever one
-applies only known methods to somewhat extended assumptions. I have therefore
-endeavored to highlight the consequences that are concerned with observable behavior,
-and which, when combined, will, in turn, serve as an indicator of the validity of the
-principle in the domain in question.
- In § 1, the law of minimum kinetic potential is developed with the greatest possible
-freedom in the nature of the function H, and Lagrange’s equations of motion are derived
-from it. The eliminations by which such general forms can also occur for systems of
-ponderable bodies are discussed.
- In § 2, the constancy of energy is derived from our form of the principle, and one
-learns how to calculate the value of energy from the value of kinetic potential. It is:
+I have therefore endeavored to highlight the consequences that are concerned with observable behavior, and which, when combined, will, in turn, serve as an indicator of the validity of the principle in the domain in question.
 
+In § 1, the law of minimum kinetic potential is developed with the greatest possible freedom in the nature of the function H, and Lagrange’s equations of motion are derived from it. The eliminations by which such general forms can also occur for systems of ponderable bodies are discussed. In § 2, the constancy of energy is derived from our form of the principle, and one learns how to calculate the value of energy from the value of kinetic potential. It is:
 
 <!-- E = H −
 H
@@ -205,46 +140,19 @@ q
   ∂
 ⋅   ∂   ∑ , -->
 
+where qα are the velocities. That will show that the principle of least action is not always valid, conversely, in any case where the constancy of energy is true. The latter then expresses more than the former, and finding what it expresses in addition will be our problem. At the same time, some mechanical and physical processes will be specified in order to be able to refer to them as explanatory examples for the contents of the first two paragraphs, as well as the following ones, and to make the significance of the principle intuitive.
 
-where qα are the velocities. That will show that the principle of least action is not always
-valid, conversely, in any case where the constancy of energy is true. The latter then
-expresses more than the former, and finding what it expresses in addition will be our
-problem. At the same time, some mechanical and physical processes will be specified in
-order to be able to refer to them as explanatory examples for the contents of the first two
-paragraphs, as well as the following ones, and to make the significance of the principle
-intuitive.
+§ 3 then treats the opposite problem, namely, that of deriving H from E. That must involve integrating the aforementioned differential equation, and that will introduce arbitrary integration constants that must be homogeneous functions of degree one in the qα . This step is meaningful, insofar as it will then become possible to find the kinetic potential from a complete knowledge of the dependency of the energy upon the coordinates and velocities, and thus all of the laws of motion for the system, assuming that the principle of least action is valid. One will be able to find the terms that are linear in qα, which correspond to “hidden motions,” with no difficulties, for the most part.
 
-§ 3 then treats the opposite problem, namely, that of deriving H from E. That must
-involve integrating the aforementioned differential equation, and that will introduce
-arbitrary integration constants that must be homogeneous functions of degree one in the
-qα . This step is meaningful, insofar as it will then become possible to find the kinetic
-potential from a complete knowledge of the dependency of the energy upon the
-coordinates and velocities, and thus all of the laws of motion for the system, assuming
-that the principle of least action is valid. One will be able to find the terms that are linear
-in qα, which correspond to “hidden motions,” with no difficulties, for the most part.
-
-§ 4 treats the interdependencies between the forces that are simultaneously exerted
-upon the system in different directions and its accelerations and velocities. That
-subsumes a series of interesting connections with physical phenomena, such as, e.g., the
-one between Ampère’s electromagnetic and electrodynamic laws, on the one hand, and
-the law of induction, on the other; a series of thermodynamic laws – e.g., the relationship
-between the raising of the pressure on a contained mass by raising its temperature and the
-raising of temperature by compression, and the corresponding behavior for thermoelectric and electro-chemical processes. Finally, one can also prove, in turn, that the  Helmholtz – On the physical meaning of the principle of least action. 6
-principle of least action is valid whenever the interdependencies between the forces that
-were detailed in § 4 exist. That proof is, however, deferred to a later communication.
+§ 4 treats the interdependencies between the forces that are simultaneously exerted upon the system in different directions and its accelerations and velocities. That subsumes a series of interesting connections with physical phenomena, such as, e.g., the one between Ampère’s electromagnetic and electrodynamic laws, on the one hand, and the law of induction, on the other; a series of thermodynamic laws – e.g., the relationship between the raising of the pressure on a contained mass by raising its temperature and the raising of temperature by compression, and the corresponding behavior for thermoelectric and electro-chemical processes. Finally, one can also prove, in turn, that the  Helmholtz – On the physical meaning of the principle of least action. 6 principle of least action is valid whenever the interdependencies between the forces that were detailed in § 4 exist. That proof is, however, deferred to a later communication.
 
 
-In § 5, Hamilton’s theorem, in its general form, will be recapitulated, and in § 6, the
-reciprocity theorem that flows from it for the changes in the forward and reverse motion
-that result from small impulses after a certain time has elapsed will be given. Some
-reciprocal relationships that I myself have verified for sound and light in previous papers,
-but only for systems at rest, fall within that scope.
+In § 5, Hamilton’s theorem, in its general form, will be recapitulated, and in § 6, the reciprocity theorem that flows from it for the changes in the forward and reverse motion that result from small impulses after a certain time has elapsed will be given. Some reciprocal relationships that I myself have verified for sound and light in previous papers, but only for systems at rest, fall within that scope.
 
- Finally, in § 7, the moment of motion shall be introduced in place of the velocities,
-which will yield another form of the variational problem, and along with the alreadyknown altered representations of the values of the force, another reciprocity law for
-forward and backward motion, as well.
+Finally, in § 7, the moment of motion shall be introduced in place of the velocities, which will yield another form of the variational problem, and along with the alreadyknown altered representations of the values of the force, another reciprocity law for forward and backward motion, as well.
 
-§ 1. Formulation of the principle.
+
+## 1. Formulation of the principle
 
 I assume that the instantaneous state of the system of bodies in question is given completely by a sufficient number of mutually-independent coordinates pa ; I denote the
 velocities of evolution by:
@@ -280,18 +188,9 @@ of the remaining coordinates pa
  occur.
 
 
-In the sequel, we shall assume that the quantities Pa
- are functions of time, but they are
-independent of the coordinates during the given period from t = t0 to t = t1 . Let H be a
-function of the coordinates and velocities, of which, we will first demand only that it
-must have finite first and second differential quotients with respect to pa
- and qa
- at all
-positions of the path that evolves during the stated time period. Moreover, we define the
-integral:
+In the sequel, we shall assume that the quantities Pa are functions of time, but they are independent of the coordinates during the given period from t = t0 to t = t1 . Let H be a function of the coordinates and velocities, of which, we will first demand only that it must have finite first and second differential quotients with respect to pa and qa at all positions of the path that evolves during the stated time period. Moreover, we define the integral:
 
-
-(1a
+<!-- (1a
 ) Φ =
 1
 0
@@ -301,7 +200,7 @@ t
 dt H P p  
 ⋅ + ⋅     ∫ ∑ a a
 a
-, 
+,  -->
 
 in which the pa are varied in such a way that their variations δpa
  will be zero for t = t0 and
@@ -2625,82 +2524,16 @@ d {∑ (sa
 ⋅ dpa
 )}.
 That will give:
-(12c
-)
-[ ] [ ] [ ] [ ]
-.
-d s p E dt p ds
-d
-  
- Φ + ⋅ − ⋅ = ⋅ + ⋅ − ⋅ 
-  
-
- = Ψ
-∑ ∑ ∑ ∑ a a a a a a a a
-a a a a
-s p p s
-Thus, if E, the pa , and the pa
- are represented as functions of time t and the sa
+(12c)
+
+Thus, if E, the pa , and the pa are represented as functions of time t and the sa
  and sa
  then:
-(12f
-)
-,
-,
-,
-,
-.
-p p
-s s
-p
-s
-E p
-s t
-E
-t
- ∂ ∂
-= 
-∂ ∂ 
- ∂ ∂
-= 
-∂ ∂ 
- ∂ ∂  = −
-∂ ∂ 
- ∂ ∂
- =
-∂ ∂ 
- ∂ ∂
- = −  ∂ ∂ 
-a b
-b a
-a b
-b a
-a b
-b a
-b
-a
-a
-a
-p p
-s s
-p
-s
-p
-s
-The middle equation of this system can be employed, again, like (10b
-), in order to define
-a second reciprocity theorem, by which, a displacement δp1 is performed at the start of
-the time interval t, while all other pa
- and all sa
- remain unchanged; let s2 be changed by δs2
-after the time interval t. Under the reverse motion, only p2 will be changed by δp2, and 
-Helmholtz – On the physical meaning of the principle of least action. 37
-the moment s1 will be changed by δs1 after the time interval t. One will then have, once
-more:
-(12g
-) δp1 : δs2 = δp2 : δs1 ,
-assuming that the determinant of the equations:
- δpa
+
+
+The middle equation of this system can be employed, again, like (10b), in order to define a second reciprocity theorem, by which, a displacement δp1 is performed at the start of the time interval t, while all other pa and all sa remain unchanged; let s2 be changed by δs2 after the time interval t. Under the reverse motion, only p2 will be changed by δp2, and Helmholtz – On the physical meaning of the principle of least action. 37 the moment s1 will be changed by δs1 after the time interval t. One will then have, once more: (12g ) δp1 : δs2 = δp2 : δs1 , assuming that the determinant of the equations:
+
+δpa
  =
 p
 d
@@ -2711,7 +2544,7 @@ b
 b b
 s
 s
+
 is not equal to zero. If it is then the two positions will be reciprocal foci of the motion.
  Berlin, April 1886.
-_________________________
- 
+

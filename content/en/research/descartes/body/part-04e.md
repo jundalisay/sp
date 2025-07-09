@@ -12,31 +12,46 @@ writer:
 
 
 
-The more blood is produced in the heart, the greater the force with which it expands, and in this way it advances further.
+The more blood is produced in the heart, the greater the force with which it expands.
+- In this way, it advances further.
 
-It can only advance thus towards the places where there are parts of the seed that are disposed to make room for them, and then towards the heart via the vein joined to the artery by which this blood arrives, because they cannot take any other route than this. 
+The blood can only advance towards where there are particles of the seed that are disposed to make room for them.
 
-Two new small branches are thus formed, one in the vein and the other in the artery whose extremities are joined, and which go together to occupy the place vacated by these small parts of the seed. 
+And then towards the heart via the vein joined to the artery by which this blood arrives, because they cannot take any other route than this. 
 
-This makes the branches that have already been formed stretch out as far as this, for unless this happened their extremities would separate. 
+Two new small branches are thus formed:
 
-This occurs above all because all the tiny parts of the seed are suited to flowing thus towards the heart – or at least, if there are some that are not suited, they are easily pushed back towards the surface, so that there are none below this surface in the area where the spirits spread out that do not in their turn proceed to the heart. 
+1. One in the vein
+2. The other in the artery whose extremities are joined, and which go together to occupy the place vacated by these small parts of the seed. 
+
+This makes the branches that have already been formed stretch out as far as this. 
+- If this did not happen, then their extremities would separate. 
+
+This occurs because all the tiny particles of the seed are suited to flowing towards the heart.
+- Or at least, if there are some that are not suited, they are easily pushed back towards the surface, so that there are none below this surface in the area where the spirits spread out that do not in their turn proceed to the heart. 
 
 This is why the veins and the arteries extend their branches equally there in every direction.
 
 This happens even if we do not usually see as many arteries as veins in the bodies of animals. 
 
-Veins appear so much more numerous than arteries because the blood usually comes to rest in the small veins as well as in the large ones even after the animal is dead. This is because the whole membrane around them contracts almost uniformly. 
+Veins appear so much more numerous than arteries because the blood usually comes to rest in the small veins as well as in the large ones even after the animal is dead. 
 
-The blood in the arteries, on the other hand, never comes to rest in their small branches, for being pushed by the diastole, it moves quickly in the veins, otherwise it falls back into the largest arteries at the moment of systole, because their tubes remain open.
+This is because the whole membrane around them contracts almost uniformly. 
 
-Thus, their smallest branches cannot be seen, any more than can the white veins, called ‘lacteous veins’. Aselli discovered this a short time ago in the mesentery, where one would only observe them if one opened up a living animal some time after it had eaten.
+The blood in the arteries, on the other hand, never comes to rest in their small branches. 
 
-We can yet consider here more particularly the distribution of the principal veins and arteries, because it relies on the movement of the blood and the spirits.
+This is because they are pushed by the diastole. And so it moves quickly in the veins. Otherwise it falls back into the largest arteries at the moment of systole, because their tubes remain open.
 
-Thus, the first agitation of the heart, which had still only begun to form, caused the tiny parts of the seed closest to it to flow to the openings in its ventricles.
+Thus, their smallest branches cannot be seen, any more than can the white veins, called ‘lacteous veins’. 
 
-By these means were formed what are called the ‘coronary’ arteries and veins, because they completely surround it like a garland [Lat: corona].
+Aselli discovered this a short time ago in the mesentery, where one would only observe them if one opened up a living animal some time after it had eaten.
+
+
+The distribution of the principal veins and arteries relies on the movement of the blood and the spirits.
+
+The first agitation of the newly-forming heart caused the tiny particles of the seed closest to it to flow to the openings in its ventricles.
+
+This formed the ‘coronary’ arteries and veins, so called because they completely surround it like a garland [Lat: corona].
 
 There is only one coronary vein, even though there are 2 arteries.
 
@@ -96,7 +111,9 @@ I will add here just three examples of the division, the growth, and the joining
 
 At the beginning, only a single tube, which carried the spirits in a straight line from the heart to the brain, but the tracheal artery, through which the respiratory air passes, is formed later (so I shall say more in its proper place), and the air that it contains having more force to rise following this straight line than does the blood that comes from the heart, this tube came to be divided into two branches, namely, what are called the ‘carotid’ arteries. 
 
-The 2 veins called the ‘spermatic’ veins were embedded in the vena cava, each as low as the other, at the time of their first formation, but the agitation of the aorta, when the liver and the vena cava are turned to the right side, is the reason why the spot where the left spermatic vein was embedded is raised gradually as far as the emulgent vessel while that on the right remains unchanged; just as, on the other hand, as a result of the same cause, the vein called the ‘adipose’, of the left kidney, is raised from the emulgent vessel, where it was first, to the trunk of the vena cava, while the expansion of the liver causes the right one to be lowered. I mean what I say when I tell you that this is something I have long sought, and indeed something in which I had the least hope of success, although it has not stopped others.
+The 2 veins called the ‘spermatic’ veins were embedded in the vena cava, each as low as the other, at the time of their first formation.
+
+But the agitation of the aorta, when the liver and the vena cava are turned to the right side, is the reason why the spot where the left spermatic vein was embedded is raised gradually as far as the emulgent vessel while that on the right remains unchanged; just as, on the other hand, as a result of the same cause, the vein called the ‘adipose’, of the left kidney, is raised from the emulgent vessel, where it was first, to the trunk of the vena cava, while the expansion of the liver causes the right one to be lowered. I mean what I say when I tell you that this is something I have long sought, and indeed something in which I had the least hope of success, although it has not stopped others.
 
 The arteries and the veins that descend in mammals have a very different origin from those that are called ‘epigastric’, which come from the bottom up towards the abdomen. Nevertheless, several of their branches are joined vein to vein, and artery to artery, towards the navel. 
 

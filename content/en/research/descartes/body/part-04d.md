@@ -71,11 +71,16 @@ This is because the external ones, being pressed against the surface of the womb
 
 This is why, before leaving them, some became separated from others without their being of a different nature, and traced the path of the nerves that lead to the muscles of the eyes, the temples, and other neighbouring spots, and then also the paths of the nerves that go to the gums, the stomach, the intestines, the heart, and to the membranes of other internal parts that are subsequently formed.
 
-For all that, the spirits that flowed outside the head found pores on both sides of the length of the spinal column, and by these means they distinguished its joints, and became widely distributed all around the mass of the seed, now no longer round but oblong, because the force of the blood and spirits that have passed through the heart to the head have of necessity stretched it more in that direction than in the other.
+For all that, the spirits that flowed outside the head found pores on both sides of the length of the spinal column.
 
-The last place in the seed at which the spirits can arrive in following their course in this way is that where the navel must be.
+By these means, they:
+- distinguished its joints
+- became widely distributed all around the mass of the seed, now oblong from being stretched by the force of the blood and spirits that have passed through the heart to the head 
+
+<!-- have of necessity  it more in that direction than in the other. -->
+
+The last place in the seed at which the spirits can arrive in this course is the navel.
 
  <!-- I shall speak of this when the time comes.  -->
 
 <!-- But order demands that, after having described the course of the spirits, I explain also  -->
-

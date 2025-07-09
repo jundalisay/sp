@@ -74,5 +74,3 @@ This repeating cycle creates the beating of the heart.
 <!-- The beating of the heart, or the pulse, consists in this repeating expansion. -->
 
  <!-- this material that passes into the heart, that  -->
-
-
