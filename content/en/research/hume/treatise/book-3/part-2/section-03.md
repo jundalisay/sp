@@ -15,7 +15,7 @@ icon: "David Hume"
 
 ## The Stability of Possession
 
-    The establishment of the rule on the stability of possession is useful and absolutely necessary to human society.
+The establishment of the rule on the stability of possession is useful and absolutely necessary to human society.
         But it can never serve to any purpose while it remains in such general terms.
     Some method must be shown how to distinguish what goods are to be assigned to each person, while the rest of mankind are excluded from them.
         We must then discover why this general rule is modified to the common use and practice of the world.

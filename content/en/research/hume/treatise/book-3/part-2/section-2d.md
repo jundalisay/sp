@@ -92,7 +92,7 @@ This proposition gives an additional force on some of our previous observations 
 
 From this principle, we may conclude the following.
 
-1. A strong extensive benevolence or a regard to public interest is not our first and original motive for the observation of the rules of justice.
+1. **A strong extensive benevolence or a regard to public interest is not our first and original motive for the observation of the rules of justice.**
 
 If men were endowed with such a benevolence, these rules would never have been dreamt of.
 
@@ -123,46 +123,68 @@ Therefore, the sense of justice is not founded on our ideas, but on our impressi
 Those impressions, which give rise to this sense of justice, are not natural to the human mind, but arise from artifice and human conventions.
 
 Any considerable alteration of temper and circumstances destroys justice and injustice equally.
-                Any such alteration only changes the private and public interest.
-                It follows that the first establishment of the rules of justice depends on these different interests.
-            But if people pursued the public interest naturally and heartily, they would never have dreamed of restraining each other by these rules.
-            If they pursued their private interest freely, they would run head-long into every kind of injustice and violence.
-                Therefore, these rules are artificial.
-                They seek their end in an oblique and indirect manner.
-            Interest does not give rise to rules which could be pursued by people's natural passions.
 
-    The rules of justice are established merely by interest.
-        But their connection with interest is singular and different each time.
-    A single act of justice is frequently contrary to public interest.
-        If it stood alone without being followed by other acts, it might be very prejudicial to society.
-            When a man of merit restores a great fortune to a miser or a seditious bigot, he has acted justly and laudably.
-            But the public is a real sufferer.
-        Every separate act of justice is not more conducive to private than to public interest.
-            A man may impoverish himself by a single instance of integrity.
-            He might wish the laws of justice to be suspended for a moment with regard to that single act.
-    But however single acts of justice may be contrary to public or private interest, the whole scheme is absolutely requisite to:
-        the support of society, and
-        the well-being of every individual.
-            It is impossible to separate the good from the bad.
+Any such alteration only changes the private and public interest.
+
+It follows that the first establishment of the rules of justice depends on these different interests.
+
+But if people pursued the public interest naturally and heartily, they would never have dreamed of restraining each other by these rules.
+
+If they pursued their private interest freely, they would run head-long into every kind of injustice and violence.
+
+Therefore, **these rules are artificial**.
+- They seek their end in an oblique and indirect manner.
+
+Interest does not give rise to rules which could be pursued by people's natural passions.
+
+2. **The rules of justice are established merely by interest, but their connection with interest is singular and different each time.**
+
+A single act of justice is frequently contrary to public interest.
+
+If it stood alone without being followed by other acts, it might be very prejudicial to society.
+
+When a man of merit restores a great fortune to a miser or a seditious bigot, he has acted justly and laudably.
+- But the public is a real sufferer.
+
+Every separate act of justice is not more conducive to private than to public interest.
+
+A man may impoverish himself by a single instance of integrity.
+
+He might wish the laws of justice to be suspended for a moment with regard to that single act.
+
+But however single acts of justice may be contrary to public or private interest, the whole scheme is absolutely requisite to:
+- the support of society, and
+- the well-being of every individual.
+
+It is impossible to separate the good from the bad.
 
 Property must be:
 - stable, and
 - fixed by general rules.
     
 Even if the public becomes a sufferer in one instance, it is amply compensated by:
-        the steady prosecution of the rule, and
-        the peace and order it establishes.
-    Every person would find himself a gainer on balancing the account, since without justice:
-        society must immediately dissolve, and
-        everyone must fall into a savage and solitary condition infinitely worse than the worst situation that can happen in society.
-    Justice and property soon take place after people experience that the system of actions agreed to by society is infinitely advantageous to the whole.
-        Every member of society is sensible of this interest.
-        Everyone expresses this sense to his fellows, along with his resolution of squaring his actions by it, provided that others will do the same.
-        They do not need to be induced to perform an act of justice.
-            The first act of justice becomes an example to others.
-    Thus, justice establishes itself by a kind of convention or agreement; that is, by a sense of interest common to all.
-        Every act is done expecting that others will do the same.
-    Without such a convention, no one would ever:
+- the steady prosecution of the rule, and
+- the peace and order it establishes.
+
+Every person would find himself a gainer on balancing the account, since without justice:
+- society must immediately dissolve, and
+- everyone must fall into a savage and solitary condition infinitely worse than the worst situation that can happen in society.
+
+Justice and property soon take place after people experience that the system of actions agreed to by society is infinitely advantageous to the whole.
+
+Every member of society is sensible of this interest.
+
+Everyone expresses this sense to his fellows, along with his resolution of squaring his actions by it, provided that others will do the same.
+
+They do not need to be induced to perform an act of justice.
+
+The first act of justice becomes an example to others.
+
+Thus, justice establishes itself by a kind of convention or agreement; that is, by a sense of interest common to all.
+
+Every act is done expecting that others will do the same.
+
+Without such a convention, no one would ever:
         have dreamed that there was such a virtue as justice, or
         have been induced to conform his actions to it.
             My actions might be pernicious.

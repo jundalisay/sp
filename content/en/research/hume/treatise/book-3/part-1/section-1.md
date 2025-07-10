@@ -298,4 +298,3 @@ If reason were inactive in itself, it must remain inactive in all its shapes and
 - considers the:
   - powers of external bodies, or
   - actions of rational beings.
-

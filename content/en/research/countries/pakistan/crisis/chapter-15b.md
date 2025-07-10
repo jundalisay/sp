@@ -33,10 +33,9 @@ There is no reason why Pakistan cannot achieve fairly high growth rates within t
 
 A credible effort is required to heal the festering sore in Balochistan. Ending the violent attacks and disaffection in the province is vital for national cohesion, political stability and economic growth. 
 
-Balochistan's untapped natural resources and its strategic location will be essential elements of Pakistan's future economic growth and political importance. Prospects for ending violence in Balochistan will greatly improve once India is stopped from aiding the Balochistan Liberation Army (BLA) insurgents through Afghanistan. Targeted action against recalcitrant elements
-will need to be accompanied by effort at political accommodation with the
-major tribal and political groups and a fair resolution of legitimate Baloch
-grievances.
+Balochistan's untapped natural resources and its strategic location will be essential elements of Pakistan's future economic growth and political importance. 
+
+Prospects for ending violence in Balochistan will greatly improve once India is stopped from aiding the Balochistan Liberation Army (BLA) insurgents through Afghanistan. Targeted action against recalcitrant elements will need to be accompanied by effort at political accommodation with the major tribal and political groups and a fair resolution of legitimate Baloch grievances.
 
 The pressing challenges of today should not deflect attention from the more enduring and fundamental strategic challenges that confront Pakistan.
 

@@ -19,15 +19,17 @@ Reason and judgment may be the intermediate cause of an action by prompting or b
         But this judgment does not have virtue or vice.
         The judgments caused by our judgments can less bestow vice and virtue on the actions which cause them.
 
-    We weigh the following considerations to:
-        be more particular, and
-        show that those eternal immutable fitnesses and unfitnesses of things cannot be defended by sound philosophy.
+We weigh the following considerations to:
+- be more particular, and
+- show that those eternal immutable fitnesses and unfitnesses of things cannot be defended by sound philosophy.
 
-    If the thought and understanding were alone capable of fixing the boundaries of right and wrong, vice and virtue must:
-        lie in some relations of objects, or
-        be a matter of fact discovered by our reasoning.
-    This consequence is evident.
-    The operations of human understanding divide themselves into two:
+If the thought and understanding were alone capable of fixing the boundaries of right and wrong, vice and virtue must:
+- lie in some relations of objects, or
+- be a matter of fact discovered by our reasoning.
+
+This consequence is evident.
+
+The operations of human understanding divide themselves into two:
         The comparing of ideas
         The inferring of matter of fact
     If virtue were discovered by the understanding, it must be an object of one of these operations.
