@@ -34,7 +34,7 @@ The "Cosmic Mind" is the combination of:
 The stages of transformation of Cosmic Consciousness prior to the exhibition of Cosmic <!-- citta --> mindstuff are not objective realities. 
 - **This is why <!--  in the strict sense of the term, and as such --> the existence of the Cosmic Mind cannot be established unless<!--  and until --> its psychic projection is logically dealt with.**
 
-Even after the formation of mindstuff <!-- citta -->, static Activity<!--  Prakrti --> goes on influencing the Cosmic mindstuff more and more.
+Even after the formation of mindstuff <!-- citta -->, static Activity [Prakrti] goes on influencing the Cosmic mindstuff more and more.
 - It causes:
   - further crudification or decrease in the intermolecular and interatomic spaces and 
   - gradual increase in the chemical affinity.

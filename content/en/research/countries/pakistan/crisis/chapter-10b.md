@@ -20,35 +20,9 @@ The program was treated as a secret document with only one copy of the program c
 
 The first signs of macroeconomic volatility seem to have started with the Benazir government. Her first tenure was labelled a 'comedy of errors'. There was some truth to that unflattering label despite the steadying hand of her experienced and able Advisor of Finance whom she, sadly, did not listen to often enough. Once again in economic distress, Pakistan entered into a major IMF program at the inception of her government. On a visit to Washington DC, the Managing Director of the IMF was so taken by her that he added $100 million with his own pen to the $1.2 billion the IMF staff had recommended for Pakistan. This was done on the understanding of cutting trade protection by 30 per cent while meeting a fiscal deficit target of 5 per cent of GDP. In the budget that followed, she did neither, bringing the IMF program to an ignominious halt.
 
-Following much discussion and new commitments, the IMF program was
-re-started. Even then, economic growth was lackluster and volatile, fiscal
-189slippages were routine and inflation picked up. Despite IMF resources there
-was constant pressure on the external accounts as manifest by the (growing)
-disparity between the parallel market for foreign exchange (or the 'hundi' rate)
-and the official market rate. This was because the budget was subject to
-extreme spending pressures since her weak mandate meant she had to please
-everyone. Budget supplmentaries (approvals for more spending not provided
-for in the original budget) became commonplace.
+Following much discussion and new commitments, the IMF program was re-started. Even then, economic growth was lackluster and volatile, fiscal 189slippages were routine and inflation picked up. Despite IMF resources there was constant pressure on the external accounts as manifest by the (growing) disparity between the parallel market for foreign exchange (or the 'hundi' rate) and the official market rate. This was because the budget was subject to extreme spending pressures since her weak mandate meant she had to please everyone. Budget supplmentaries (approvals for more spending not provided for in the original budget) became commonplace.
 
-The disparity between the
-official and 'hundi' rate was also widening, as the Prime Minister would give
-instructions to the State Bank not to move the exchange rate because it gave
-her a bad press and suggested economic failure. She was always concerned
-about 'my forex position' as she called it. But to her credit must go two
-accomplishments. She granted the State Bank of Pakistan a degree of
-autonomy (even if it was under IMF pressure and was part of a 'prior action'
-in the IMF program meaning an action to be taken before the program was
-approved) taking it out of the grip of the Ministry of Finance. Pakistan's tax-
-to-GDP ratio hit a short-lived peak during her twenty months in power in her
-first tenure in office. Once convinced, and that was never easy because she
-was opinionated and liked to argue, she showed a capacity to take bold
-measures and accept the political backlash. This was sustained and well-
-orchestrated with Nawaz Sharif and his 'bazaar-power' snapping at her heels
-from the Punjab asking his supporters not to pay taxes. Clandestine efforts
-were also made to spread panic in the foreign exchange market by planted
-rumours of massive capital flight. Pakistan's foreign exchange reserves took
-a frightening dip as the contrived rumours turned into a self-fulfilling
-prophecy. However, the situation stabilised quickly thereafter.
+The disparity between the official and 'hundi' rate was also widening, as the Prime Minister would give instructions to the State Bank not to move the exchange rate because it gave her a bad press and suggested economic failure. She was always concerned about 'my forex position' as she called it. But to her credit must go two accomplishments. She granted the State Bank of Pakistan a degree of autonomy (even if it was under IMF pressure and was part of a 'prior action' in the IMF program meaning an action to be taken before the program was approved) taking it out of the grip of the Ministry of Finance. Pakistan's tax- to-GDP ratio hit a short-lived peak during her twenty months in power in her first tenure in office. Once convinced, and that was never easy because she was opinionated and liked to argue, she showed a capacity to take bold measures and accept the political backlash. This was sustained and well- orchestrated with Nawaz Sharif and his 'bazaar-power' snapping at her heels from the Punjab asking his supporters not to pay taxes. Clandestine efforts were also made to spread panic in the foreign exchange market by planted rumours of massive capital flight. Pakistan's foreign exchange reserves took a frightening dip as the contrived rumours turned into a self-fulfilling prophecy. However, the situation stabilised quickly thereafter.
 
 
 ### Sharif's 'Far-Reaching' Reforms
@@ -273,92 +247,52 @@ However, delaying, prevaricating and hoping that someone would come to Pakistan'
 
 As domestic and external deficits widened and inflation continued to climb, confidence was lost and there ensued unprecedented capital flight amid a rupee/dollar exchange rate in virtual free-fall. 
 
-The stock market collapsed as private portfolio investment fled to safer heavens, bubbles popped and our foreign exchange reserves, in a painful repeat of the past, started to disappear with astonishing speed, at one time declining $700 million in a single week. In the end, Pakistan had no recourse except to turn once again to the IMF for 'exceptional financing'. It is highly likely
-that the FoDP made their support conditional on Pakistan engaging with
+The stock market collapsed as private portfolio investment fled to safer heavens, bubbles popped and our foreign exchange reserves, in a painful repeat of the past, started to disappear with astonishing speed, at one time declining $700 million in a single week. In the end, Pakistan had no recourse except to turn once again to the IMF for 'exceptional financing'. 
+
+It is highly likely that the FoDP made their support conditional on Pakistan engaging with
 the IMF.
 
-196In hindsight it is true that the twin external exogenous shocks served
-as the tipping point for the economy. But these shocks were neither the
-precipitating nor the initiating force behind Pakistan's latest economic
-crisis; they exacerbated it but did not cause it. The root cause of the crisis
-was the short-sighted and heedless pursuit of unsustainable policies, both
-fiscal and monetary, that produced an illusion of consumption-led growth
-and prosperity for a while but was bound to self-destruct
-With a little bit of foresight, attention to the build-up of pressures
-and carefully-calibrated pre-emptive steps to cool the economy, the
-economy would have made a 'soft landing' and Pakistan could have been
-as well-placed to cope with the twin exogenous shocks as other
-developing countries were. The economy could have continued on a less
-spectacular but more sustainable growth path with macroeconomic
-imbalances tending towards correction and inflationary pressure easing.
-Other developing countries had room to use their fiscal position as a
-counter-cyclical tool and ease monetary policy to cushion the turbulent
-downburst arising from 'The Great Global Recession' since their starting
-position was stronger.
+196In hindsight it is true that the twin external exogenous shocks served as the tipping point for the economy. But these shocks were neither the precipitating nor the initiating force behind Pakistan's latest economic crisis.
 
-Pakistan had to do the reverse. It had to tighten its macroeconomic
-policy stance, curb the fiscal deficit and push up interest rates in an effort
-to dampen demand pressures and inflation and forestall a full­blown
-balance of payments crisis and debt-default. The people of Pakistan were
-once again put through a painful exercise of economic readjustment. As
-economic growth slowed amid soaring inflation which hit an
-unprecedented headline rate of 26 per cent (core inflation which strips out
-the volatile components of inflation such as food and oil and is an
-unambiguous reflection of the underlying stance of macro­economic
-policies also hit an unprecedented high of 18 per cent), the economy was
-trapped in the grips of stagflation. Unemployment rose and millions of
-households were pushed back into poverty as high inflation cruelly eroded
-their living standards.
+They exacerbated it but did not cause it. The root cause of the crisis was the short-sighted and heedless pursuit of unsustainable policies, both fiscal and monetary, that produced an illusion of consumption-led growth and prosperity for a while but was bound to self-destruct With a little bit of foresight, attention to the build-up of pressures and carefully-calibrated pre-emptive steps to cool the economy, the economy would have made a 'soft landing' and Pakistan could have been as well-placed to cope with the twin exogenous shocks as other developing countries were.
+
+The economy could have continued on a less spectacular but more sustainable growth path with macroeconomic imbalances tending towards correction and inflationary pressure easing. 
+
+Other developing countries had room to use their fiscal position as a counter-cyclical tool and ease monetary policy to cushion the turbulent downburst arising from 'The Great Global Recession' since their starting position was stronger.
+
+Pakistan had to do the reverse. It had to tighten its macroeconomic policy stance, curb the fiscal deficit and push up interest rates in an effort to dampen demand pressures and inflation and forestall a full-blown balance of payments crisis and debt-default. 
+
+The people of Pakistan were once again put through a painful exercise of economic readjustment. As economic growth slowed amid soaring inflation which hit an unprecedented headline rate of 26 per cent (core inflation which strips out the volatile components of inflation such as food and oil and is an unambiguous reflection of the underlying stance of macroeconomic policies also hit an unprecedented high of 18 per cent), the economy was trapped in the grips of stagflation. Unemployment rose and millions of households were pushed back into poverty as high inflation cruelly eroded their living standards.
 
 
 ### Was the IMF Culpable?
 
-It has been argued that the genesis of the crisis as described here is
-exaggerated because the IMF—the ever-watchful guardian of fiscal and
-197monetary rectitude—would have said something. However, the truth of
-the matter is that with the IMF program having been completed, it had no
-leverage over the conduct and direction of Pakistan's economic policies. The
-annual obligatory Article IV Consultation discussion which the IMF holds
-with all member-countries (advanced and developing) is, compared to
-program negotiations, a relaxed affair and is taken lightly. This is unfortunate
-because IMF 'surveillance' over member's policies (whether they have an
-IMF program or not) goes to the heart of the IMF's mandate. The IMF is
-duty-bound to point out emerging risks and unsustainable policies and make
-recommendations for timely corrective action. How it should convey the
-message and what kind of language it should use has been the subject of
-much debate amongst IMF staff, management and the Executive Board.
-There is always the risk that strong words may rattle markets and precipitate
-a crisis when there was not one to begin with. On the other hand, the IMF
-can be too nuanced and subtle in its language (sometimes dubbed as 'Fund-
-speak') in glossing over fault lines. It has happened in South America and
-most infamously in the Asian Crisis of the 90s as well as in Mexico and
-Russia. Critical turning points can be missed, the language in staff reports to
-the Executive Board is insufficiently forthright and the IMF is caught off-
-guard when the crisis erupts.
+The genesis of the crisis is exaggerated because the IMF—the ever-watchful guardian of fiscal and 197monetary rectitude—would have said something. 
 
-Were the Pakistani authorities warned of the unsustainable nature of
-their policies or the economy's heightened vulnerability to shocks, and
-impending disaster? There is reason to believe they were, but only in
-private. These warnings were rebuffed with the Bushism that, 'You are
-either with us or against us'. In one case a critical report on the
-performance of the Pakistan economy was re-written, toning down the
-language and the Mission Chief's name was removed from the document.
-Obviously, neither the Pakistani authorities nor the JMF's Executive Board
-read the original unexpurgated report. That report presented in stark hard-
-hitting terms the escalating risks of an impending crisis and urged urgent
-corrective action in the fiscal, monetary, structural and exchange rate areas.
-Is the IMF therefore culpable in Pakistan's most recent crisis? To an
-extent it was. The IMF is a professional organisation with some of the best
-macroeconomists under one roof but it is neither clairvoyant nor omnipotent.
-The IMF has also made mistakes and some very grievous ones. In Pakistan's
-case, the IMF has not been the overbearing, rigid and inflexible detractor that
-it is made out to be. It has not had a profound and deep impact on policy-
-198making in Pakistan. Its influence has been intermittent, if not marginal. Those
-in Pakistan deeply committed to reforms lament the fact that the IMF has been
-insufficiently tough on Pakistan laying itself open to the charge that its
-policies serve to perpetuate Pakistan's corrupt ruling elites. Time and again
-Pakistan has been left off the proverbial hook when economic adversity and
-a need for exceptional financing from the IMF to stave off a financial crisis
-would have been the best time to push through deep seated and lasting reform.
-These remarks apply to other multilateral lending agencies as well—the
-World Bank (WB) and Asian Development Bank (ADB).
+However, the truth is that the IMF program had no leverage over the conduct and direction of Pakistan's economic policies.
+
+The annual obligatory Article 4 Consultation discussion which the IMF holds with all member-countries (advanced and developing) is, compared to program negotiations, a relaxed affair and is taken lightly.
+
+This is unfortunate because IMF 'surveillance' over member's policies (whether they have an IMF program or not) goes to the heart of the IMF's mandate. 
+
+The IMF is duty-bound to point out emerging risks and unsustainable policies and make recommendations for timely corrective action. How it should convey the message and what kind of language it should use has been the subject of much debate amongst IMF staff, management and the Executive Board.
+
+There is always the risk that strong words may rattle markets and precipitate a crisis when there was not one to begin with. On the other hand, the IMF can be too nuanced and subtle in its language (sometimes dubbed as 'Fund- speak') in glossing over fault lines. It has happened in South America and most infamously in the Asian Crisis of the 90s as well as in Mexico and Russia.
+
+Critical turning points can be missed, the language in staff reports to the Executive Board is insufficiently forthright and the IMF is caught off- guard when the crisis erupts.
+
+Were the Pakistani authorities warned of the unsustainable nature of their policies or the economy's heightened vulnerability to shocks, and impending disaster? 
+
+There is reason to believe they were, but only in private. These warnings were rebuffed with the Bushism that, 'You are either with us or against us'. 
+
+In one case a critical report on the performance of the Pakistan economy was re-written, toning down the language and the Mission Chief's name was removed from the document. 
+
+Obviously, neither the Pakistani authorities nor the JMF's Executive Board read the original unexpurgated report. That report presented in stark hard- hitting terms the escalating risks of an impending crisis and urged urgent corrective action in the fiscal, monetary, structural and exchange rate areas. Is the IMF therefore culpable in Pakistan's most recent crisis? 
+
+To an extent it was. The IMF is a professional organisation with some of the best macroeconomists under one roof but it is neither clairvoyant nor omnipotent. 
+
+The IMF has also made mistakes and some very grievous ones. In Pakistan's case, the IMF has not been the overbearing, rigid and inflexible detractor that it is made out to be.
+
+It has not had a profound and deep impact on policy- 198making in Pakistan. Its influence has been intermittent, if not marginal. Those in Pakistan deeply committed to reforms lament the fact that the IMF has been insufficiently tough on Pakistan laying itself open to the charge that its policies serve to perpetuate Pakistan's corrupt ruling elites.
+
+Time and again Pakistan has been left off the proverbial hook when economic adversity and a need for exceptional financing from the IMF to stave off a financial crisis would have been the best time to push through deep seated and lasting reform. These remarks apply to other multilateral lending agencies as well—the World Bank (WB) and Asian Development Bank (ADB).

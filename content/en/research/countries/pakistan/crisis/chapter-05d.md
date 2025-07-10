@@ -9,7 +9,7 @@ author: Shuja Nawaz
 
 
 
-### Penetration of Civil Society
+## Penetration of Civil Society
 
 Another visible manifestation of military domination of the civil
 sector during the Musharraf period was the re-employment of retired or
@@ -26,7 +26,7 @@ Under Musharraf, they also headed universities and state-owned corporations. Som
 The earliest moves by General Kayani to withdraw some 300 serving army officers from civilian positions was a good sign of changes in thinking on this front. But many still remain in the civil administration, especially dominating the Ministry of Defence.
 
 
-### Defending the Homeland
+## Defending the Homeland
 
 Pakistan's lack of national cohesion on the one hand and its location
 in a tough neighbourhood dictates that it should maintain a strong defence
@@ -42,7 +42,7 @@ Today, Pakistan has a large conventional army, tasked with defending every inch 
 Internally, the Army needs to reorient its training and force structure not only to cope with external threats but also to combat internal insurgencies, starting with the current situation in FATA. It needs specialised units and training in low-intensity Fourth Generation warfare and to indoctrinate officers and soldiers both in the principles of such warfare, where ideas not weapons alone matter.
 
 
-### Looking Ahead
+## Looking Ahead
 
 The Army should help create a stable national polity by subjecting itself to civilian oversight and control. It needs to ensure that it does not become the instrument of civilian dictatorship by subjecting itself to wider parliamentary controls and oversights of its operations.
 
@@ -62,7 +62,7 @@ But an even better defence lies in creating a powerful, pluralistic polity resid
 in a strong economy, built on a society that values education and the welfare of its population.
 
 
-### The Immediate Challenges
+## The Immediate Challenges
 
 <!-- In the near term, the Army Chief, General Kayani, and his commanders
 will face a number of challenges, not least of which is the constant tussle for

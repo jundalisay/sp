@@ -48,17 +48,37 @@ Foreign aid, at that time mostly in the form of outright grants and PL-480 grain
 
 By supplementing domestic savings, aid allowed Pakistan to invest more than might have otherwise been possible with domestic resources alone. Importantly, the aid was well spent in building social and physical infrastructure, in particular large hydro-power dams in the context of the Indus Basin Treaty which was brokered by the World Bank.
 
-The investment to incremental capital-output ratio, a good summary measure of capital efficiency, was low and produced high real growth rates per unit of capital invested. Plan projects and programs were well-prepared using the 'best-practice' techniques of project appraisal and analysis of the time. Monitoring of projects was rigorous and conducted on-site; project cost over-runs and delays were minimal; project benefits were delivered as promised; corruption was not spoken of and Plan guidelines were respected and Plan discipline enforced.
+The investment to incremental capital-output ratio is a good summary measure of capital efficiency.
 
-The external environment was exceptionally benign. The global economy was in the midst of an unprecedented period of expansion which started at the end of World War II with world trade growing at a healthy pace, markets relatively open, and little global inflation. Thus the economy experienced few of the shocks that could derail its steady upward trajectory and challenge policy-makers.
+It was low and produced high real growth rates per unit of capital invested.
 
-Ayub Khan was a victim of economic success. The revelation by none other than the Chief Economist of the Planning Commission—his most beloved institution which he headed—that twenty-two families controlled 70 per cent of manufacturing and 90 per cent of banking and insurance business in the country jolted his regime to its foundations. 
+Plan projects and programs were well-prepared using the 'best-practice' techniques of project appraisal and analysis of the time. 
 
-It was a supreme irony that Ayub Khan was following the growth philosophy as espoused by the Chief Economist of the Planning Commission in his Cambridge PhD thesis turned book, 'The Strategy of Economic Planning'. Growth philosophy argued that in the initial stages of economic development some concentration of income and wealth in a few hands was necessary and appropriate to stimulate 'animal spirits' and foster the conditions for rapid growth.
+Monitoring of projects was rigorous and conducted on-site; project cost over-runs and delays were minimal; project benefits were delivered as promised; corruption was not spoken of and Plan guidelines were respected and Plan discipline enforced.
 
-Considerations of equity and income distribution could be tackled at a later stage of development. The reaction to the revelation of concentration of wealth in a few hands was hostile and swift. Pakistan's industrialists came to be called 'Robber Barons' who had earned monopolistic profits behind high walls of protection, subsidies and government patronage.
+The external environment was exceptionally benign. 
 
-An empirical study by Professor Lawrence White of New York University lent credence to this proposition. Furthermore, some of the industries that had been set-up behind high protective tariff barriers were generating 'negative value-added' when their inputs and outputs were valued at 'world' prices (rather than being valued at distorted domestic prices).
+The global economy was in the midst of an unprecedented period of expansion which started at the end of World War II with world trade growing at a healthy pace, markets relatively open, and little global inflation. Thus the economy experienced few of the shocks that could derail its steady upward trajectory and challenge policy-makers.
+
+Ayub Khan was the Chief Economist of the Planning Commission, and a victim of economic success.
+- His institution showed that 22 families controlled 70% of manufacturing and 90% of banking and insurance business in the country
+
+ <!-- jolted his regime to its foundations.  -->
+
+Ayub Khan followed the growth philosophy in his Cambridge PhD thesis turned book, 'The Strategy of Economic Planning'. 
+
+Growth philosophy argued that in the initial stages of economic development:
+- some concentration of income and wealth in a few hands was necessary and appropriate to stimulate 'animal spirits' and foster the conditions for rapid growth.
+
+Considerations of equity and income distribution could be tackled at a later stage of development. 
+
+The reaction to the revelation of concentration of wealth in a few hands was hostile and swift.
+
+Pakistan's industrialists were called 'Robber Barons' who had earned monopolistic profits behind high walls of protection, subsidies and government patronage.
+
+A study by Professor Lawrence White of New York University supported this proposition.
+
+Some of the industries that had been set-up behind high protective tariff barriers were generating 'negative value-added' when their inputs and outputs were valued at 'world' prices (rather than being valued at distorted domestic prices).
 
 Factor price distortions, including an over-valued exchange rate had led to the choice of highly capital-intensive techniques of production, generating little employment per unit of capital and output. One study by an East Pakistan economist of repute calculated that factor intensity in Pakistan as measured by the capital-labour ratio was higher than in an advanced country like Japan. 
 
@@ -78,44 +98,45 @@ Bhutto had little patience with economic matters. His nationalisation program wa
 There was much (concealed) capital flight as businessmen took their money out of the economy either before or after nationalisation and it would be many years for this capital flight to reverse
 itself. 
 
-The economic effects of the break-up of Pakistan were profound. It caused vast disruptions to the financial and corporate sectors that had operated on the basis of a single country. The State Bank of Pakistan had been pushing the Pakistani commercial banks into increasing lending in East Pakistan while their deposit base was almost entirely in the western
-wing where most, if not all of them, were headquartered. The dissolution
-of the country created an imbalance between assets and liabilities that left
-most of the banks (with the solitary exception of the National Bank) in
-virtual bankruptcy; the same applied to the insurance sector where the
-largest private insurance company—Eastern Federal—was headquartered in
-Dhaka and lost access to its assets while most of its liabilities to life policy-
-holders were resident in the western wing. Nationalisation was the only way
-that a total bankruptcy of the financial system was avoided, especially as this
-postponed any question of compensating the shareholders, depositors and
-policy-holders. Many observers remain convinced that nationalisations of the
-financial system was a negative turning-point for the economy but this was
-187only a proximate cause: the real cause lay in the country's break-up.
-The corporate sector suffered similar fracturing of balance-sheets since
-some of the more adventurous business firms (like the Adamjees) were
-operating in both wings and lost their investments in the eastern wing at one
-stroke. 
+The economic effects of the break-up of Pakistan were profound. It caused vast disruptions to the financial and corporate sectors that had operated on the basis of a single country. 
 
-To add insult to injury—and given the time lags involved in the
-income tax administration, many of these firms continued to be pressed for
-taxes on earlier years' profits earned in the eastern wing! That the private
-sector survived at all in the wake of this calamity and with the additional
-ideological nationalisations imposed by Mr Bhutto is, some feel, nothing
-short of a miracle. That said, nationalisation was by and large well-received
-by the people who saw it as an election promise fulfilled and a means of
-redressing the evils of concentration of wealth and wide disparities in income.
-Bhutto's boldest move on the economic front was to sharply devalue the
-Pakistan rupee and bring it closer to its 'equilibrium' value. The years of
-clinging to an artificially appreciated rate of Rs. 4.76 per US dollar, which
-was propped up by tight controls on foreign exchange and which created
-many distortions in the economy were finally over. His government faced the
-challenge of the first oil-price shock and turned to the IMF for short-term
-financing but there was not much conditionality attached and no reforms were
-implemented. To be fair to Mr Bhutto, the gods were not kind to him. Each
-year brought a drought or a flood—negative domestic exogenous shocks—
-which hurt growth and caused a pick-up in inflation. Yet the economy was
-kept afloat and on a reasonably even keel thanks to Bhutto's diplomatic
-success in securing financing from friendly Islamic countries (including $500
-million from the Shah of Iran) and the Gulf, as well as an emerging new
-phenomenon: rising workers' remittances which were becoming an important
-source of financing the external accounts.
+The State Bank of Pakistan had been pushing the Pakistani commercial banks into increasing lending in East Pakistan while their deposit base was almost entirely in the western wing where most of them were headquartered. 
+
+The dissolution of the country created an imbalance between assets and liabilities.
+- This left most of the banks (except for the National Bank) in virtual bankruptcy
+
+The same applied to the insurance sector.
+
+The largest private insurance company was Eastern Federal, headquartered in Dhaka.
+- It lost access to its assets while most of its liabilities to life policyholders were resident in the western wing.
+
+Nationalisation was the only way to avoid a total bankruptcy of the financial system.
+
+This postponed compensating the shareholders, depositors and policy-holders.
+
+Many observers remain convinced that nationalisations of the financial system was a negative turning-point for the economy but this was only a proximate cause.
+
+The real cause lay in the country's break-up.
+
+The corporate sector suffered similar fracturing of balance-sheets since some of the more adventurous business firms (like the Adamjees) were operating in both wings and lost their investments in the eastern wing at one stroke.
+
+To add insult to injury—and given the time lags involved in the income tax administration, many of these firms continued to be pressed for taxes on earlier years' profits earned in the eastern wing!
+
+The private sector survived at all in the wake of this calamity and with the additional ideological nationalisations imposed by Mr Bhutto is, some feel, nothing short of a miracle.
+
+Nationalisation was well-received by the people.
+- They saw it as an election promise fulfilled and a means of redressing the evils of concentration of wealth and wide disparities in income. 
+
+Bhutto's boldest economic move was to sharply devalue the Pakistan rupee and bring it closer to its 'equilibrium' value.
+
+Its value was artificially appreciated at Rs. 4.76 per US dollar for many years by tight controls on foreign exchange.
+- This created many distortions in the economy were finally over.
+
+His government faced the challenge of the first oil-price shock and turned to the IMF for short-term financing but there was not much conditionality attached and no reforms were implemented. 
+
+To be fair to Mr Bhutto, the gods were not kind to him. 
+
+Each year brought a drought or a flood as negative domestic exogenous shocks.
+- These hurt growth and caused a pick-up in inflation.
+
+Yet the economy was kept afloat and on a reasonably even keel thanks to Bhutto's diplomatic success in securing financing from friendly Islamic countries (including $500 million from the Shah of Iran) and the Gulf, as well as an emerging new phenomenon: rising workers' remittances which were becoming an important source of financing the external accounts.
