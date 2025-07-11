@@ -159,7 +159,7 @@ The results show that she was soundly beated by the popular vote. This means tha
 Therefore regarding the 2024 elections, it would have been better for the Democrats, and the world, if Hillary Clinton or any Positive Warrior, ran in 2024 instead of Harris.
 
 
-### Update June 2025
+### Update June 2025: Iran-Israel War
 
 It turns out that Israel was the vector that actually started the war, even earlier than the China-Taiwan war scheduled for 2027. 
 
@@ -178,3 +178,15 @@ But because there was Covid (i.e. Nature), it became:
 - Taiwan-China 2027
 
 Regardless, the peak crisis years would still be 2025-2030. The specifics might change, but the general pattern does not, since it is unbroken from the 13th century and theoretically even goes far back into the founding of Rome. 
+
+
+### Update July 2025: Musk Fulfills the Model
+
+{{< i s="/photos/countries/us/musk.jpg" a="Musk" >}}
+
+The US would be entering a Thinker cycle soon, and so we were happy to see Elon Musk (an obvious Thinker) to suddenly, out of the blue, creating the American Party. 
+
+This is totally in line with the upcoming Thinker cycle that will defeat the Warrior. 
+
+Of course the American Party will not be an instant success. Instead, it will gather steam gradually as the US enters the Thinker cycle.
+
