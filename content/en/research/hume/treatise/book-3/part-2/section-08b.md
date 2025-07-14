@@ -18,36 +18,45 @@ Those philosophers, who assert justice to be a natural virtue antecedent to huma
     All government is plainly an invention of men.
         The origin of most governments is known in history.
         If our political duties had any natural moral obligation, we would need to mount higher to find their source.
-    These philosophers quickly observe that:
-        society is as ancient as the human species, and
-        those three fundamental laws of nature are as ancient as society.
-    Those philosophers take advantage of the antiquity and the obscure origin of these laws.
+
+These philosophers quickly observe that:
+- society is as ancient as the human species, and
+- those three fundamental laws of nature are as ancient as society.
+  
+
+Those philosophers take advantage of the antiquity and the obscure origin of these laws.
         They first deny them to be men's artificial and voluntary inventions.
         They then seek to ingraft other more artificial duties on these laws.
-    But after we are undeceived and find that natural and civil justice derives its origin from human conventions, we quickly perceive how fruitless it is to:
+
+But after we are undeceived and find that natural and civil justice derives its origin from human conventions, we quickly perceive how fruitless it is to:
         resolve the one into the other, and
         seek a stronger foundation in the laws of nature for our political duties than interest and human conventions.
-    These duties themselves are built on interest and human conventions.
+
+These duties themselves are built on interest and human conventions.
         Whichever side we turn this subject, we shall find that natural and artificial duties:
             are exactly on the same footing, and
             have the same source of their first invention and moral obligation.
-        They are contrived to:
+
+They are contrived to:
             remedy similar inconveniences, and
             acquire their moral sanction from their remedying those inconveniences.
                 We shall prove these two points.
 
-    Men invented the three fundamental laws of nature when they:
+Men invented the three fundamental laws of nature when they:
         observed the necessity of society, and
         found that it was impossible to maintain correspondence without some restraint on their natural appetites.
-    The same self-love which renders men so incommodious to each other:
+
+The same self-love which renders men so incommodious to each other:
         takes a new and more convenient direction,
         produces the rules of justice, and
         is the first motive of the observance of those rules.
-    But when it is impossible for men to observe those rules in large and polished societies, they invent government to:
+
+But when it is impossible for men to observe those rules in large and polished societies, they invent government to:
         attain their ends,
         preserve the old, or
         procure new advantages by a stricter execution of justice.
-    So far, our civil duties are connected with our natural duties.
+
+So far, our civil duties are connected with our natural duties.
         Our civil duties are invented chiefly for the sake of our natural duties.
         The principal object of government is to constrain men to observe the laws of nature.
             However, that law of nature on the performance of promises is only comprised along with the rest.
@@ -156,24 +165,31 @@ Those philosophers, who assert justice to be a natural virtue antecedent to huma
             Since no one has ever yet dreamed of ascribing it to a promise.
         Magistrates nor subjects have formed this idea of our civil duties.
 
+
+{{< box >}}
 Footnote 22:
 
-    This proposition must hold strictly true with regard to every quality determined by sentiment.
-    Afterwards, we shall consider in what sense we can talk of a right or a wrong taste in morals, eloquence, or beauty.
+This proposition must hold strictly true with regard to every quality determined by sentiment.
+
+Afterwards, we shall consider in what sense we can talk of a right or a wrong taste in morals, eloquence, or beauty.
     Mankind's general sentiments are uniform
         They render such questions of small importance.
+{{< /box >}}
 
 
 ## Rebellion
 
-    Magistrates do not derive their authority from a promise or original contract.
+Magistrates do not derive their authority from a promise or original contract.
         If this were the sanction of government, our rulers would never receive it tacitly.
         Since what is given tacitly can never have such influence on mankind, as what is performed openly.
-    A tacit promise is where the will is signified by more diffuse signs other than those of speech.
+
+A tacit promise is where the will is signified by more diffuse signs other than those of speech.
         But there must be a will, no matter how silent or tacit.
-    But if you ask the people whether they had ever consented to the authority of their rulers, or promised to obey them, they would think very strangely of you.
+
+But if you ask the people whether they had ever consented to the authority of their rulers, or promised to obey them, they would think very strangely of you.
         They would reply that it did not depend on their consent, but that they were born to such an obedience.
-    Because of this opinion, we frequently see the people imagine such persons to be their natural rulers.
+
+Because of this opinion, we frequently see the people imagine such persons to be their natural rulers.
         Their rulers might have come from that line of rulers, from a long time ago.
         But now they might be deprived of all power and authority.
         No man would voluntarily choose them today or give them any promise of obedience.

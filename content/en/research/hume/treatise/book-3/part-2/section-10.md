@@ -16,38 +16,45 @@ icon: "David Hume"
 
 Sometimes it may be justifiable to resist supreme power in sound politics and morality.
         But ordinarily, nothing can be more pernicious and criminal.
-    Such revolutions always cause:
+
+Such revolutions always cause:
         convulsions,
         the subversion of all government, and
         a universal anarchy and confusion among mankind.
-    Big and civilized societies cannot subsist without government.
+
+Big and civilized societies cannot subsist without government.
         Government is entirely useless without an exact obedience.
-    We should always weigh the advantages we reap from authority against the disadvantages.
+
+We should always weigh the advantages we reap from authority against the disadvantages.
         Through this, we shall become more scrupulous of practicing the doctrine of resistance.
-    The common rule requires submission.
+
+The common rule requires submission.
         The exception can only happen in cases of grievous tyranny and oppression.
 
-    A blind submission is commonly due to magistracy.
+A blind submission is commonly due to magistracy.
         Who should our lawful magistrates be?
         To answer this, let us recollect what we have already established on the origin of government and political society.
-    Men experience the impossibility of preserving any order in society while everyone:
+
+Men experience the impossibility of preserving any order in society while everyone:
         is his own master,
         violates the laws of society, or
         observes those laws according to his present interest or pleasure.
-    Men naturally invent government.
+
+Men naturally invent government.
         Government puts men out of their own power to transgress the laws of society, as far as possible.
         Government, therefore, arises from the same voluntary conversation of men.
         The same convention which establishes government will:
             also determine the persons who are to govern, and
             remove all doubt and ambiguity in this.
         The voluntary consent of men must here have the greater efficacy.
-    The authority of the magistrate initially stands on the foundation of a promise of the subjects.
+The authority of the magistrate initially stands on the foundation of a promise of the subjects.
         This promise binds themselves to obedience, as in every other contract or engagement.
-    Therefore, the same promise which binds them to obedience:
+
+Therefore, the same promise which binds them to obedience:
         ties them down to a particular person, and
         makes him the object of their allegiance.
 
-    But the case is entirely altered:
+But the case is entirely altered:
         after government has been established on this footing for some time, and
         after our separate interest in submission has produced a separate moral sentiment.
     A promise is no longer able to determine the particular magistrate.

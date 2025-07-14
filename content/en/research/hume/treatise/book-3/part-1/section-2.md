@@ -20,16 +20,19 @@ Since vice and virtue are not discoverable merely by reason, or the comparison o
         Our decisions on moral rectitude and depravity are perceptions.
         All perceptions are either impressions or ideas.
             The exclusion of the one is a convincing argument for the other.
-    Morality, therefore, is more properly felt than judged of.
+
+Morality, therefore, is more properly felt than judged of.
         This feeling or sentiment is commonly so soft and gentle.
         We usually confound this feeling with an idea, because of our custom of taking all resembling things as the same.
 
-    What is the nature of these impressions?
+What is the nature of these impressions?
         How do they operate on us?
-    We must pronounce the impression arising:
-        from virtue to be agreeable, and
-        from vice to be uneasy.
-    A noble and generous action is most fair and beautiful.
+
+We must pronounce the impression arising:
+- from virtue to be agreeable, and
+- from vice to be uneasy.
+
+A noble and generous action is most fair and beautiful.
         A cruel and treacherous action gives us the most abhorrence.
     No enjoyment equals our satisfaction from the company of those we love and esteem.
         The greatest punishment is to be obliged to pass our lives with those we hate.
@@ -116,28 +119,32 @@ Since vice and virtue are not discoverable merely by reason, or the comparison o
 
 ## Three Definitions Of The Word 'Nature'
 
-    Should we search for these principles in nature?
+Should we search for these principles in nature?
         Or must we look for them in some other origin?
-    Our answer depends on the definition of 'Nature' because it is most ambiguous and equivocal.
 
-    If 'nature' is opposed to 'miracles', then the following are natural:
+Our answer depends on the definition of 'Nature' because it is most ambiguous and equivocal.
+
+If 'nature' is opposed to 'miracles', then the following are natural:
         The distinction between vice and virtue
         Every event which has ever happened in the world, except those miracles, on which our religion is founded.
 
-    We make no very extraordinary discovery when we say that the sentiments of vice and virtue are natural in this sense.
+We make no very extraordinary discovery when we say that the sentiments of vice and virtue are natural in this sense.
 
 
-    But 'nature' may also be opposed to 'rare' and 'unusual'.
+But 'nature' may also be opposed to 'rare' and 'unusual'.
         This is the common meaning of nature.
         In this sense, disputes often arise on what is natural or unnatural.
 
-    We generally do not have any very precise standard to solve these disputes.
-    'Frequent' and 'rare' depend on the number of observed examples.
+We generally do not have any very precise standard to solve these disputes.
+
+'Frequent' and 'rare' depend on the number of observed examples.
         This number may gradually increase or decrease.
         It will be impossible to fix any exact boundaries between them.
-    If ever there were anything natural in this sense, moral sentiments may be it.
+
+If ever there were anything natural in this sense, moral sentiments may be it.
         Since no nation or person was utterly deprived of morals, who never showed the smallest approbation or dislike of manners.
-    These sentiments are so rooted in our constitution and temper.
+
+These sentiments are so rooted in our constitution and temper.
         It is impossible to destroy them without entirely confounding the human mind by disease or madness.
 
 
@@ -173,6 +180,6 @@ Since vice and virtue are not discoverable merely by reason, or the comparison o
 
 Footnote 14:
 
-    In the following discourse, 'natural' is also opposed sometimes to civil, sometimes to moral.
-    The opposition will always discover the sense it is taken in.
+In the following discourse, 'natural' is also opposed sometimes to civil, sometimes to moral.
 
+The opposition will always discover the sense it is taken in.

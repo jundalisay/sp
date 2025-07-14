@@ -1,12 +1,29 @@
-Judgment on the End Result
+---
+heading: Section 3c
+title: "Judgment on the End Result"
+description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+c: "steelblue"
+# date: 2015-x-x
+weight: 29
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
 
-    The most curious of all these kinds of questions is the one which divided the disciples of Proculus and Sabinus for so many ages.
-        Suppose that:
+
+## Judgment on the End Result
+
+The most curious of all these kinds of questions is the one which divided the disciples of Proculus and Sabinus for so many ages.
+
+Suppose that:
             a person makes a cup from another person's metal, or a ship from his wood, and then
             the proprietor of the metal or wood demands his goods.
                 Does he acquire a title to the cup or ship?
-        Sabinus said yes.
-            He asserted that the matter or substance is:
+
+Sabinus said yes.
+
+He asserted that the matter or substance is:
                 the foundation of all the qualities,
                 incorruptible and immortal, and
                 therefore, superior to the form.

@@ -1,35 +1,58 @@
-## The Obligation Of Promises Is An Invention For The Interest Of Society
+---
+heading: Section 5c
+title: "The Obligation Of Promises Is An Invention For The Interest Of Society"
+description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+c: "steelblue"
+# date: 2015-x-x
+weight: 52
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
 
-    The knowledge of the observance of promises is not esteemed superior to the capacity of human nature, however savage and uncultivated.
+
+
+The knowledge of the observance of promises is not esteemed superior to the capacity of human nature, however savage and uncultivated.
         Only a very little practice of the world is needed to make us see these consequences and advantages.
         Every mortal discovers them from the shortest experience of society.
-    When each individual perceives the same sense of interest in all his fellows, he immediately performs his part of any contract to be assured that they will not be lacking in theirs.
-    By concert, all of them:
+
+When each individual perceives the same sense of interest in all his fellows, he immediately performs his part of any contract to be assured that they will not be lacking in theirs.
+
+By concert, all of them:
         enter into a scheme of actions, calculated for common benefit, and
         agree to be true to their word.
-    The only thing needed to form this convention is for everyone to:
+
+The only thing needed to form this convention is for everyone to:
         have a sense of interest in the faithful fulfilling of engagements, and
         express that sense to the other members of society.
-    This immediately causes that interest to operate on them.
+
+This immediately causes that interest to operate on them.
         Interest is the first obligation to the performance of promises.
 
-    Afterwards, a sentiment of morals:
+
+Afterwards, a sentiment of morals:
         concurs with interest, and
         becomes a new obligation on mankind.
-    This sentiment of morality in the performance of promises, arises from the same principles as the sentiment in the abstinence from the property of others.
-    Public interest, education, and the artifices of politicians, have the same effect in both cases.
+
+This sentiment of morality in the performance of promises, arises from the same principles as the sentiment in the abstinence from the property of others.
+
+Public interest, education, and the artifices of politicians, have the same effect in both cases.
         We surmount or elude the difficulties in supposing a moral obligation to attend promises.
-    For instance, the expression of a resolution is commonly not obligatory.
+
+For instance, the expression of a resolution is commonly not obligatory.
         We cannot readily conceive how the use of certain words should be able to cause any material difference.
         Here, we feign a new act of the mind, which we call the willing an obligation.
         We suppose the morality to depend on this.
-    But there is no such act of the mind.
+
+But there is no such act of the mind.
         Consequently, promises impose no natural obligation.
 
-    To confirm this, we may subjoin some other reflections on that will which:
+To confirm this, we may subjoin some other reflections on that will which:
         enters into a promise, and
         causes its obligation.
-    The will alone is never supposed to cause the obligation.
+
+The will alone is never supposed to cause the obligation.
         It must be expressed by words or signs to impose a tie on any man.
         The expression becomes:
             subservient to the will, and

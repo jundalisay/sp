@@ -27,7 +27,8 @@ But if the reason or motive of justice and honesty is the regard to public inter
         If the loan was secret, and that the lender required that the money be paid in secret, (as when the lender conceals his own riches) then the public interest ceases.
             The public is no longer interested in the borrower's actions.
             But no moralist will say that the obligation ceases.
-        Experience proves that men ordinarily do not look so far as the public interest when they:
+
+Experience proves that men ordinarily do not look so far as the public interest when they:
             pay their creditors,
             perform their promises, and
             abstain from theft and injustice.
@@ -36,33 +37,41 @@ The public interest is a motive too remote and too sublime to:
         affect the generality of mankind, and
         operate with any force in actions so contrary to private interest as are frequently those of justice and common honesty.
 
-    There is no such thing as the love of mankind that is independent of:
+There is no such thing as the love of mankind that is independent of:
         personal qualities,
         services, or
         the relation to our self.
-    The happiness or misery of any sensible creature affects us when:
+
+The happiness or misery of any sensible creature affects us when:
         brought near to us, and
         represented in lively colours.
-    But this proceeds merely from sympathy.
+
+But this proceeds merely from sympathy.
         It is no proof of a universal affection to mankind, since this concern extends itself beyond our own species.
-    An affection between the sexes is a passion implanted in human nature.
+
+An affection between the sexes is a passion implanted in human nature.
         This passion appears in its peculiar symptoms and in:
             inflaming every other principle of affection, and
             raising a stronger love from beauty, wit, kindness, than what would otherwise flow from them.
         If there were an universal love among all humans, it would appear after the same manner.
             Any degree of a good quality would cause a stronger affection than the same degree of a bad quality would cause hatred.
             This is contrary to what we find by experience.
-    Men's tempers are different.
+
+Men's tempers are different.
         Some have a propensity to the tender, others to the rougher affections.
-    But human nature in general is nothing but the object of both love and hatred.
+
+But human nature in general is nothing but the object of both love and hatred.
         It requires some other cause which may excite these passions by a double relation of impressions and ideas.
         We cannot elude this hypothesis.
-    No phenomena can point out any such kind affection to men, independent of their merit and every other circumstance.
+
+No phenomena can point out any such kind affection to men, independent of their merit and every other circumstance.
         We love company in general, as we love any other amusement.
-    An Englishman in Italy is a friend.
+
+An Englishman in Italy is a friend.
         A European in China is a friend.
         A man on the moon would also be a friend.
-    But this proceeds only from the relation to ourselves.
+
+But this proceeds only from the relation to ourselves.
         In these cases, this gathers force by being confined to a few persons.
 
 
@@ -95,27 +104,36 @@ Public benevolence is the regard to mankind's interests.
 
 ## The Sense Of Justice Is Artificial, But Its Motive Or Moral Sense Is Natural
 
-    A man's property is supposed to be fenced against every mortal.
-    But private benevolence is weaker in some persons than in others.
-        In most persons, it must absolutely fail.
-    Therefore, private benevolence is not the original motive of justice.
+A man's property is supposed to be fenced against every mortal.
 
-    It follows that the real motive for observing the laws of equity is the very equity and merit of that observance.
-    But this is reasoning in a circle, and a sophistry.
+But private benevolence is weaker in some persons than in others.
+        In most persons, it must absolutely fail.
+
+Therefore, private benevolence is not the original motive of justice.
+
+It follows that the real motive for observing the laws of equity is the very equity and merit of that observance.
+
+But this is reasoning in a circle, and a sophistry.
         Since no action can be equitable or meritorious if it cannot come from some separate motive.
-    The sense of justice and injustice is not derived from nature unless we allow that nature has:
+
+The sense of justice and injustice is not derived from nature unless we allow that nature has:
         established a sophistry, and
         rendered it necessary and unavoidable.
-    It instead arises artificially, though necessarily, from education and human conventions.
 
-    In addition, no action can be laudable or blameable without some motives distinct from the sense of morals.
+It instead arises artificially, though necessarily, from education and human conventions.
+
+In addition, no action can be laudable or blameable without some motives distinct from the sense of morals.
         Thus, these motives must have a great influence on the sense of morals.
-    We blame or praise according to their general force in human nature.
-    In judging of the beauty of animals, we always see the economy of a certain species.
+
+We blame or praise according to their general force in human nature.
+
+In judging of the beauty of animals, we always see the economy of a certain species.
         We call them beautiful if their limbs and features have proportions common to the species.
-    Similarly, we always consider the 'natural' and usual force of the passions when we determine vice and virtue.
+
+Similarly, we always consider the 'natural' and usual force of the passions when we determine vice and virtue.
         If the passions depart very much from the common measures on either side, they are always disapproved as vicious.
-    Where everything else is equal, a man naturally loves:
+
+Where everything else is equal, a man naturally loves:
         his children better than his nephews,
         his nephews better than his cousins, and
         his cousins better than strangers.

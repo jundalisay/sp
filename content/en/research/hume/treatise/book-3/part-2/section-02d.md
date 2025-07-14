@@ -4,7 +4,7 @@ title: "The State Of Nature; And Common Interest As The Origin Of Justice"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 # date: 2015-x-x
-weight: 6
+weight: 18
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

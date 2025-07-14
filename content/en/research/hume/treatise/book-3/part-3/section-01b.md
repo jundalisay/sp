@@ -11,50 +11,71 @@ icon: "David Hume"
 ---
 
 
-
 In many instances, the same principle produces our sentiments of morals and beauty.
-        Justice is the most esteemed virtue.
-        Injustice is the most detested vice.
-    There are no qualities which go farther to fix the amiable or odious character.
-    Justice is a moral virtue merely because it has that tendency to the good of mankind.
-        It just an artificial invention to that purpose.
-            The same may be said of:
-                allegiance
-                the laws of nations
-                modesty
-                good-manners.
-            All these are mere human contrivances for the interest of society.
-    There is a very strong sentiment of morals in all ages and nations.
-        The reflection on the tendency of characters and mental qualities is enough to give us the sentiments of approbation and blame.
-        The means to an end can only be agreeable if the end is agreeable.
-    The good of society pleases only by sympathy if our own interest or that of our friends is not concerned.
-        It follows that sympathy is the source of the esteem we pay to all the artificial virtues.
+- Justice is the most esteemed virtue.
+- Injustice is the most detested vice.
 
-    Sympathy is a very powerful principle in human nature.
-        It has a great influence on our taste of beauty,
-        It produces our moral sentiments in all the artificial virtues.
-        It also gives rise to many other virtues.
-    Qualities acquire our approbation because of their tendency to the good of mankind.
-        Most of the qualities we naturally approve of, actually:
-            have that tendency, and
-            render a man a proper member of society.
-        The qualities we naturally disapprove of:
-            have a contrary tendency, and
-            render any intercourse with the person dangerous or disagreeable.
-    Such tendencies have enough force to produce the strongest moral sentiments.
-        Thus, we can never reasonably look for any other cause of approbation or blame in these cases.
-        It is an inviolable maxim in philosophy that where any cause is sufficient for an effect, we should:
-            be satisfied with it
-            not multiply causes without necessity.
-    We have happily done experiments in the artificial virtues, where the tendency of qualities to the good of society is the sole cause of our approbation, without the concurrence of another principle.
-    We learn the force of that principle from that.
-        A true philosopher will never require any other principle to account for the strongest approbation and esteem where:
-            that principle may take place, and
-            the quality approved of is really beneficial to society.
+There are no qualities which go farther to fix the amiable or odious character.
 
-    Many of the natural virtues have this tendency to the good of society.
+Justice is a moral virtue merely because it has that tendency to the good of mankind.
+
+It just an artificial invention to that purpose.
+
+The same may be said of:
+- allegiance
+- the laws of nations
+- modesty
+- good-manners.
+        
+All these are mere human contrivances for the interest of society.
+
+There is a very strong sentiment of morals in all ages and nations.
+
+The reflection on the tendency of characters and mental qualities is enough to give us the sentiments of approbation and blame.
+
+The means to an end can only be agreeable if the end is agreeable.
+
+The good of society pleases only by sympathy if our own interest or that of our friends is not concerned.
+
+It follows that sympathy is the source of the esteem we pay to all the artificial virtues.
+
+Sympathy:
+- is a very powerful principle in human nature
+- has a great influence on our taste of beauty
+- produces our moral sentiments in all the artificial virtues
+- gives rise to many other virtues
+
+Qualities acquire our approbation because of their tendency to the good of mankind.
+
+Most of the qualities we naturally approve of, actually:
+- have that tendency, and
+- render a man a proper member of society
+
+The qualities we naturally disapprove of:
+- have a contrary tendency, and
+- render any intercourse with the person dangerous or disagreeable.
+
+Such tendencies have enough force to produce the strongest moral sentiments.
+
+Thus, we can never reasonably look for any other cause of approbation or blame in these cases.
+
+It is an inviolable maxim in philosophy that where any cause is sufficient for an effect, we should:
+- be satisfied with it
+- not multiply causes without necessity.
+
+We have happily done experiments in the artificial virtues, where the tendency of qualities to the good of society is the sole cause of our approbation, without the concurrence of another principle.
+
+We learn the force of that principle from that.
+
+A true philosopher will never require any other principle to account for the strongest approbation and esteem where:
+- that principle may take place, and
+- the quality approved of is really beneficial to society.
+
+Many of the natural virtues have this tendency to the good of society.
+
         Meekness, beneficence, charity, generosity, clemency, moderation, equity are the greatest among the moral qualities.
         These are commonly denominated as social virtues, to mark their tendency to the good of society.
+
     Some philosophers have represented all moral distinctions as the effect of artifice and education when skillful politicians tried to:
         restrain men's turbulent passions, and
         make them operate to the public good, through the notions of honour and shame.

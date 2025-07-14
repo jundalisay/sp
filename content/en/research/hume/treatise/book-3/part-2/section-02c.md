@@ -4,7 +4,7 @@ title: "Property and Justice"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 # date: 2015-x-x
-weight: 6
+weight: 16
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -19,26 +19,32 @@ The ideas of justice and injustice, as well as those of property, right, and obl
 
 This is unintelligible without first understanding the abstinence.
     Our property is nothing but those goods, whose constant possession is established by the laws of society, by the laws of justice.
-    Therefore, those who use the words 'property', 'right', or 'obligation' are guilty of a very gross fallacy and can never reason on any solid foundation if they do not:
+
+Therefore, those who use the words 'property', 'right', or 'obligation' are guilty of a very gross fallacy and can never reason on any solid foundation if they do not:
         explain the origin of justice, or
         use 'property', 'right', or 'obligation' in explaining the origin of justice.
-    A man's property is some object related to him.
+
+A man's property is some object related to him.
         This relation is not natural a relation.
         It is a moral relation founded on justice.
-    It is very preposterous to imagine that we can have any idea of property without fully:
+
+It is very preposterous to imagine that we can have any idea of property without fully:
         comprehending the nature of justice, and
         showing its origin in man's artifice.
-    The origin of justice explains the origin of property.
+
+The origin of justice explains the origin of property.
         The same artifice gives rise to both.
-    Our first and most natural sentiment of morals is founded on the nature of our passions.
+
+Our first and most natural sentiment of morals is founded on the nature of our passions.
         It gives the preference to ourselves and friends above strangers.
         It is impossible there can be naturally a fixed right or property while the opposite passions of men:
             impel them in contrary directions, and
             are not restrained by any convention or agreement.
 
-    The convention for the distinction of property and for the stability of possession is most necessary to establish human society.
+The convention for the distinction of property and for the stability of possession is most necessary to establish human society.
         After the agreement for this rule, little or nothing remains to be done towards settling a perfect harmony and concord.
-    All the other passions, besides this of interest, are easily restrained or are not of such pernicious consequence, when indulged.
+
+All the other passions, besides this of interest, are easily restrained or are not of such pernicious consequence, when indulged.
         Vanity, pity, and love are esteemed as:
             social passions, and
             bonds of union among men.

@@ -20,19 +20,25 @@ We should:
 It is such a peculiar an affection.
         ◦ It would have been impossible to have treated of it under any previous heading, without danger of obscurity and confusion.
  
-    • Truth is of two kinds, consisting in:
-        ◦ the discovery of the proportions of ideas or
-        ◦ the conformity of our ideas of objects to their real existence.
-    • The former species of truth, is not desired merely as truth, and that it is not the justness of our conclusions, which alone gives the pleasure.
-    • These conclusions are equally just, when we discover the equality of two bodies by a pair of compasses, as when we learn it by a mathematical demonstration.
+Truth is of 2 kinds, consisting in:
+
+1. The discovery of the proportions of ideas or
+
+This is not desired merely as truth, and that it is not the justness of our conclusions, which alone gives the pleasure.
+
+2. The conformity of our ideas of objects to their real existence.
+
+
+These conclusions are equally just, when we discover the equality of two bodies by a pair of compasses, as when we learn it by a mathematical demonstration.
         ◦ In the one case, the proofs are demonstrative.
         ◦ In the other case, the proofs are only sensible.
         ◦ Yet the mind acquiesces with equal assurance in the one as in the other.
-    • In an arithmetical operation, both the truth and the assurance are of the same nature, as in the most profound algebraic problem.
+
+In an arithmetical operation, both the truth and the assurance are of the same nature, as in the most profound algebraic problem.
         ◦ In it, the pleasure is very inconsiderable, if it does not degenerate into pain.
         ◦ This is a proof that our satisfaction from the discovery of truth, does not proceed from its mere discovery, but only as endowed with certain qualities.
  
-    • The first and most considerable circumstance needed to render truth agreeable, is the genius and capacity employed in its invention and discovery.
+The first and most considerable circumstance needed to render truth agreeable, is the genius and capacity employed in its invention and discovery.
         ◦ What is easy and obvious is never valued.
         ◦ Even what is difficult is but little regarded if we come to know it without:
             ▪ difficulty

@@ -13,33 +13,40 @@ icon: "David Hume"
 
 
 
+When any quality or character has a tendency to the good of mankind, we are pleased with it and approve of it.
 
-    When any quality or character has a tendency to the good of mankind, we are pleased with it and approve of it.
-        Because it presents the lively idea of pleasure.
-        This idea affects us by sympathy.
+Because it presents the lively idea of pleasure.
+
+This idea affects us by sympathy.
             It itself is a kind of pleasure.
             But this sympathy is very variable.
-        Our sentiments of morals must admit of all the same variations.
+
+Our sentiments of morals must admit of all the same variations.
             We sympathize more with:
                 persons contiguous to us, than with persons remote from us,
                 our acquaintance, than with strangers,
                 our countrymen, than with foreigners.
-        Despite this variation of our sympathy, we give the same approbation to the same moral qualities in China as in England.
+
+Despite this variation of our sympathy, we give the same approbation to the same moral qualities in China as in England.
             They appear equally virtuous.
             They recommend themselves equally to a judicious spectator's esteem.
-        The sympathy varies without a variation in our esteem.
+
+
+The sympathy varies without a variation in our esteem.
             Therefore, our esteem does not proceed from sympathy.
 
-    I answer that the approbation of moral qualities is not derived from reason or any comparison of ideas.
+I answer that the approbation of moral qualities is not derived from reason or any comparison of ideas.
         It proceeds entirely from:
             a moral taste, and
             certain sentiments of pleasure or disgust.
                 These arise on the contemplation and view of particular qualities or characters.
-    Those sentiments must vary according to the distance or contiguity of the objects.
+
+Those sentiments must vary according to the distance or contiguity of the objects.
         I cannot feel the same lively pleasure from the virtues of a person who lived in Greece 2,000 years ago, that I feel from the virtues of a familiar friend and acquaintance.
             I do not say that I esteem the one more than the other:
         Therefore, if the variation of the sentiment without a variation of the esteem is an objection, it must have equal force against every other system, as against the system of sympathy.
-    To correct this matter, I assert that the variation has no force at all.
+
+To correct this matter, I assert that the variation has no force at all.
         This is easy to prove.
         Our situation, with regard to persons and things, is in continual fluctuation.
         A person that lies at a distance from us, may become a familiar acquaintance in a short time.
@@ -255,8 +262,9 @@ icon: "David Hume"
                 have an agreeable effect on my imagination, and
                 command my love and esteem.
 
-    This theory may explain why the same qualities in all cases, produce pride and love and humility and hatred.
-    The same man is always virtuous or vicious, accomplished or despicable to others, who is so to himself.
+This theory may explain why the same qualities in all cases, produce pride and love and humility and hatred.
+
+The same man is always virtuous or vicious, accomplished or despicable to others, who is so to himself.
     A person with any passion or habit, originally only incommodious to himself, always becomes disagreeable to us merely because of that passion or habit.
         On the other hand, one whose character is only dangerous and disagreeable to others, can never be satisfied with himself, as long as he is sensible of that disadvantage.
     This is observable with regard to characters and manners, even in the most minute circumstances.
@@ -332,7 +340,10 @@ icon: "David Hume"
             are speculatd to be the standard of virtue and morality.
             produce that feeling or sentiment which moral distinctions depend on.
 
-    The good or ill desert of virtue or vice is an evident consequence of the sentiments of pleasure or uneasiness.
-    These sentiments produce love or hatred.
-    By the original constitution of human passion, love or hatred is attended with benevolence or anger.
+
+The good or ill desert of virtue or vice is an evident consequence of the sentiments of pleasure or uneasiness.
+
+These sentiments produce love or hatred.
+
+By the original constitution of human passion, love or hatred is attended with benevolence or anger.
 

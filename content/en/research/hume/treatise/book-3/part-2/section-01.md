@@ -4,7 +4,7 @@ title: "Is Justice A Natural Or Artificial Virtue?"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 # date: 2015-x-x
-weight: 6
+weight: 5
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -21,22 +21,24 @@ Our sense of virtue is not natural.
 There are some virtues that produce pleasure and approbation through artifice arising from mankind's circumstances and necessity.
 - Justice is a virtue of this kind.
 
-    When we praise any actions, we regard only the motives that produced them.
+When we praise any actions, we regard only the motives that produced them.
         We consider the actions as signs of certain principles in the mind.
         The external performance has no merit.
-    We must look within to find the moral quality.
+
+We must look within to find the moral quality.
         We cannot do this directly.
         We therefore fix our attention on actions, as on external signs.
             But these actions are still considered as signs.
         The ultimate object of our praise and approbation is the motive that produced them.
 
-    When we require any action, or blame a person for not performing it, we:
+When we require any action, or blame a person for not performing it, we:
         always suppose that the person should be influenced by that action's proper motive, and
         see it vicious for him to be regardless of it.
-    We retract our blame if we find that the virtuous motive was still powerful over his breast, though checked by some circumstances unknown to us.
+We retract our blame if we find that the virtuous motive was still powerful over his breast, though checked by some circumstances unknown to us.
         We have the same esteem for him, as if he had actually performed the required action.
 
-    All virtuous actions therefore:
+
+All virtuous actions therefore:
         derive their merit only from virtuous motives, and
         are considered merely as signs of those motives.
     The first virtuous motive which bestows a merit on any action, can never be a regard to that action's virtue.
@@ -79,39 +81,52 @@ There are some virtues that produce pleasure and approbation through artifice ar
         perform the action without the motive, from a certain sense of duty to:
             acquire that virtuous principle by practice or
             disguise to himself his lack of it.
-    An ungrateful man:
+
+An ungrateful man:
         is still pleased to perform grateful actions, and
         thinks he has, by that means, fulfilled his duty.
-    Actions are initially only considered as signs of motives.
-        But we usually:
+
+Actions are initially only considered as signs of motives.
+
+But we usually:
             fix our attention on the signs, and
             neglect the thing signified.
-    But sometimes, a person may perform an action merely out of regard to its moral obligation.
-        Yet this still supposes some distinct principles in human nature:
+
+But sometimes, a person may perform an action merely out of regard to its moral obligation.
+
+Yet this still supposes some distinct principles in human nature:
             which are capable of producing the action, and
             whose moral beauty renders the action meritorious.
 
-    Suppose a person lends me money on condition that I pay it back in a few days.
-        He demands the sum after that day arrives.
-        Why do I have to restore the money?
-        My regard to justice and abhorrence of villainy and knavery are sufficient reasons for me, if I have the:
-            smallest grain of honesty, or
-            sense of duty.
-    This answer is satisfactory to man:
-        in his civilized state, and
-        when trained up according to a certain discipline and education.
-    But in his rude and more natural condition, this answer would be perfectly unintelligible and sophistical.
-        A man in that situation would immediately ask: wherein consists this honesty and justice which you find in:
-            restoring a loan, and
-            abstaining from the property of others?
-        It surely does not lie in the external action.
-        Therefore, it must be placed in the motive from which the external action is derived.
+Suppose a person lends me money on condition that I pay it back in a few days.
+
+He demands the sum after that day arrives.
+
+Why do I have to restore the money?
+
+My regard to justice and abhorrence of villainy and knavery are sufficient reasons for me, if I have the:
+- smallest grain of honesty, or
+- sense of duty.
+
+This answer is satisfactory to man:
+- in his civilized state, and
+- when trained up according to a certain discipline and education.
+
+But in his rude and more natural condition, this answer would be perfectly unintelligible and sophistical.
+
+A man in that situation would immediately ask: wherein consists this honesty and justice which you find in:
+- restoring a loan, and
+- abstaining from the property of others?
+
+It surely does not lie in the external action.
+
+Therefore, it must be placed in the motive from which the external action is derived.
             This motive can never be a regard to the action's honesty.
     It is wrong to say:
         that a virtuous motive is needed to render an action honest, and
         that a regard to honesty is the motive of the action.
     We can never have a regard to an action's virtue, unless the action is virtuous beforehand.
         No action can be virtuous, unless it proceeds from a virtuous motive.
-    A virtuous motive, therefore, must precede the regard to the virtue.
-        It is impossible that the virtuous motive and the regard to the virtue can be the same.
 
+A virtuous motive, therefore, must precede the regard to the virtue.
+        It is impossible that the virtuous motive and the regard to the virtue can be the same.

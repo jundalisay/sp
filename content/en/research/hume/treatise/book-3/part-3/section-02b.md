@@ -23,21 +23,32 @@ We sink very much in our own eyes, when in the presence of:
 This humility makes a considerable ingredient in the respect we pay our superiors. (Book 2, Part 2, Sect. 10).
 
 Sometimes, even envy and hatred arise from the comparison.
-        But in the greatest part of men, it rests at respect and esteem.
-    Sympathy has such a powerful influence on the human mind.
-        It causes pride to have the same effect as merit.
-        By making us enter into those elevated sentiments which the proud man has of himself, it presents that comparison so mortifying and disagreeable.
-    Our judgment does not entirely accompany him in his flattering conceit.
-        But it is still so shaken as to:
-            receive the idea it presents, and
-            give it an influence above the imagination's loose conceptions.
-    A man who imagines a person of superior merit to himself would not be mortified by that thought.
-    But when we see a man of inferior merit who has extraordinary self-conceit, his pride:
-        takes hold of our imagination, and
-        reduces us in our own eyes as if he really had all the good qualities he was proud of.
-    Our idea is here precisely in that medium needed to make it operate on us by comparison.
-        It would have a contrary effect and operate on us by sympathy:
-            if it were accompanied with belief, and
+
+But in the greatest part of men, it rests at respect and esteem.
+
+Sympathy has such a powerful influence on the human mind.
+
+It causes pride to have the same effect as merit.
+
+By making us enter into those elevated sentiments which the proud man has of himself, it presents that comparison so mortifying and disagreeable.
+
+Our judgment does not entirely accompany him in his flattering conceit.
+
+But it is still so shaken as to:
+- receive the idea it presents, and
+- give it an influence above the imagination's loose conceptions.
+
+A man who imagines a person of superior merit to himself would not be mortified by that thought.
+
+But when we see a man of inferior merit who has extraordinary self-conceit, his pride:
+- takes hold of our imagination, and
+- reduces us in our own eyes as if he really had all the good qualities he was proud of.
+
+
+Our idea is here precisely in that medium needed to make it operate on us by comparison.
+
+It would have a contrary effect and operate on us by sympathy:
+- if it were accompanied with belief, and
             if the person appeared to have the same merit which he assumed.
         That principle's influence would then be superior to that of comparison, contrary to what happens when the person's merit seems below his pretensions.
 

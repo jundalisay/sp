@@ -1,20 +1,37 @@
+---
+heading: Section 3c
+title: "The Influence Of Time On Possession"
+description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+c: "steelblue"
+# date: 2015-x-x
+weight: 25
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
 
-The Influence Of Time On Possession
 
-    The title of first possession often becomes obscure through time.
-        It is impossible to determine many controversies arising from it.
+The title of first possession often becomes obscure through time.
+
+It is impossible to determine many controversies arising from it.
         In this case, long possession or prescription naturally takes place.
             It gives a person a sufficient property in anything he enjoys.
-    The nature of human society does not admit of any great accuracy.
+
+The nature of human society does not admit of any great accuracy.
         We can not always remount to the first origin of things to determine their present condition.
-    Any considerable span of time sets objects at such a distance, that they:
+
+Any considerable span of time sets objects at such a distance, that they:
         lose their reality, and
         have as little influence on the mind, as if they never had existed.
             A man's title, that is clear and certain at present, will seem obscure and doubtful after 50 years, even if the facts it is founded on can be proven.
-    The same facts do not have the same influence after such a long interval of time.
+
+The same facts do not have the same influence after such a long interval of time.
         This may be a convincing argument for our preceding doctrine on property and justice.
-    Possession during a long tract of time conveys a title to any object.
-    But as everything is produced in time, there is nothing real produced by time.
+
+Possession during a long tract of time conveys a title to any object.
+
+But as everything is produced in time, there is nothing real produced by time.
         It follows that property, being produced by time, is not a real object.
         It is the offspring of the sentiments, on which time alone has any influence.18
 
@@ -152,9 +169,10 @@ Footnote 19:
     However, if all of the corn is kept by either, this creates a suit to determine the ownership with respect to the amount of corn belonging to each.
     It is in the judge's discretion to determine which is the corn belonging to either party."
 
-    Where the properties of two persons are united and cannot be separated, as when one builds a house on another's ground, the whole must belong to one of the proprietors.
+Where the properties of two persons are united and cannot be separated, as when one builds a house on another's ground, the whole must belong to one of the proprietors.
         It naturally is conceived to belong to the proprietor of the most considerable part.
-    The compound object may:
+
+The compound object may:
         have a relation to two different persons, and
         carry our view to both of them at once
     But the most considerable part principally engages our attention.
@@ -166,7 +184,7 @@ Footnote 19:
         the most considerable part, and
         the most attractive to the imagination.
 
-    This quality depends on several circumstances which have little connection with each other.
+This quality depends on several circumstances which have little connection with each other.
     One part of a compound object may become more considerable than another because:
         it is more constant and durable,
         it is of greater value,
@@ -187,4 +205,3 @@ Footnote 19:
     These decisions:
         do not agree well together, and
         are a proof of the contrariety of the principles they are derived from.
-
