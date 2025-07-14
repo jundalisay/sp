@@ -1,8 +1,8 @@
 ---
-heading: Part 4b
-title: "How is the Heart Formed?"
+heading: Part 4
+title: "The Movement of the Blood"
 date: 2025-01-24
-weight: 41
+weight: 40
 description: "The Description of the Human Body talks about the body"
 c: "deeppink"
 writer:
@@ -12,82 +12,79 @@ writer:
 
 
 
-All animals that respire have 2 ventricles. How is this 2 ventricle heart formed?
+The violent agitation of the heat makes the blood:
+- expand and move apart and become separated
+- gather and press and bump against one another and divide into many extremely tiny branches.
 
+These branches remain so close to one another.
+- Only the fire-aether can occupy the spaces remaining around them.
 
-<!-- I have already distinguished between two kinds of parts in  -->
+ <!-- that only the finest matter (which I called the 1st Element in the Principles of Philosophy)  -->
 
-The portion of the seed that expands in the heart, before it takes any nourishment from outside, has 2 kinds of particles:
+The blood particles that leave the heart join together in this way.
 
-1. Those that move apart and are easily separated
-2. Those that join together and attach themselves to one another. 
+They never leave the circuit by which they return to it. 
 
-These 2 are found in the blood of all animals.
+This is in contrast to the many other particles that penetrate the mass of seed more easily.
 
-There are many fewer of those that move apart and are easily separated in the blood of those animals that have only a single ventricle in the heart than in those animals that have two.
+From the seed, new particles continue to move towards the heart, until it is all used up.
 
-Consequently, some of these small particles expand easily. I call them ‘aerial’ particles.
+This is why the blood of all animals is red, as explained in:
+- Dioptrics and Principles of Philosophy on the nature of light
+- Meteors on the nature of colours
 
-These are the cause of the second ventricle of the heart. 
+We see light through the pressure exerted by the air-aether.
+- These are made up of many little corpuscles all touching one another.
 
-These, after the animal has been formed, are to be found inclined towards the right side.
+These corpuscles have 2 motions:
 
-But at the beginning of its formation, the first ventricle, which is subsequently inclined towards the left side, is rightly located in the middle of the body.
+1. They follow a straight line towards our eyes
 
-The blood that leaves from this left ventricle runs first towards where the brain is formed.
+This gives us the sensation of light.
 
-Then from there it goes to the opposite spot, where the generative parts are formed.
+2. They rotate
 
-In descending from the brain to there, they pass principally between the heart and the place where the spinal column is formed.
+If their rotation speed is much less than that of their linear motion, the body which they come from appears blue.
 
-After that, as much from the top as from the bottom, they return to the heart.
+If they rotate faster than their linear motion, the body looks red to us.
 
-As soon as this blood comes near to the heart, it expands partially before entering the left ventricle.
+<!-- But the only kind of body that could make them turn faster is one whose tiny parts  that the only matter turning around them is that of the first element, and I have shown  -->
 
-This expansion pushes the matter surrounding it, and so it forms the second ventricle.
+Blood particles have branches so delicate and so close to one another. Only the fire-aether can go around them. 
 
-It expands because there are several aerial particles in it which facilitate this expansion, and which were not able to break loose as quickly as the others.
+On the surface of the blood, the air-aether meets the fire-aether. 
 
-It only dilates partially because the portion of the seed which is joined to it, since it left the left ventricle, does not expand so readily as those of its parts that have already been rarefied there. 
+The fire-aether continually:
+- passes very quickly obliquely from one blood-pore to the next
+- moves in the opposite direction to the air-aether
 
-This is why the expansion of this portion of the seed is postponed until it has entered the left ventricle, to where a part of the blood that has already been rarefied in the right ventricle returns.
+This forces the air-aether to rotate faster, creating a red color. 
 
-When this blood leaves the right ventricle, those of its particles that are the most agitated and the most energetic enter the aorta.
+ <!-- centres, and even to turn more with a greater speed than could be caused in any other way, since the first element surpasses all others in speed. -->
 
-But the others, which are in part the largest and heaviest, and in part also the most aerial and the softest, begin, in separating, to make up the lung.
+This is why hot iron and burning coals appear red -- their pores are filled only with the fire-aether. 
+- Their pores are not as small as those of blood.
+- This is why their shade of red is different from that of blood.
 
-For some of the most aerial remain there, and form tiny passages, which afterwards will be the branches of the artery whose extremity is the throat or the windpipe, through which the respiratory air enters.
+ <!-- first element. -->
 
-The largest will return to the left ventricle of the heart. And the path by which they leave the right ventricle is what will later become the pulmonary artery; and that by which they come from there into the left ventricle is what will later become the pulmonary vein.
+As soon as the heart begins to form in this way, the decompressed blood which leaves it takes its course in a straight line in the direction in which it is freest to move, which is the region where the brain will later be formed.
 
-‘Aerial’ particles does not mean those that are separated from one another, but only those of this number that, without being very agitated or very hard, each have their own motion, which makes the bodies where they are remain rare and not easily condensed.
+The path taken by the blood begins to form the upper part of the aorta. 
 
-Because those that make up the air are, for the most part, of such a nature, I call them ‘aerial’.
+Because of the resistance offered by the parts of the seed that it encounters, the blood does not travel very far in a straight line. It is pushed back towards the heart along the same path by which it came. 
 
-But there are others, more energetic and finer, like those of brandy, and aqua fortis, or of smelling salts, and many other kinds of thing, which cause the blood to expand and do not prevent it from condensing promptly afterwards. 
+But it cannot go back down this path because the way is blocked by the new blood that the heart is producing.
 
-Many of these are doubtless found in the blood of fish, as well as in that of land animals, and even perhaps in larger quantities: this makes it possible for the least heat to rarefy them. 
+This forces it to return to the side opposite to that of the new material entering the heart.
 
-The most energetic and finest parts, that is, those which are very subtle, as well as very solid and very agitated, which I shall hereafter call ‘spirits’, do not come to a standstill at the beginning of the formation of the lung, as do the majority of the aerial particles; but because they have more force they go further, and pass from the right ventricle of the heart via a passage in the pulmonary artery as far as the aorta.
+It is on this side, where the spine will later develop, that it makes its way towards the region where the parts that will serve for generation will be formed, and the path that it takes in its descent is the lower part of the aorta. 
 
-Moreover, since it is the aerial particles of the seed that are the cause of the formation of a second ventricle in the heart, what prevents a third being formed is that, following the second ventricle, a lung is formed in which the majority of aerial particles come to a standstill.
+But because parts of the seed also press on it from this side, they resist the movement of the blood.
 
-While the blood coming from the right ventricle is beginning to form  the lung, that leaving the left is also beginning to form other parts, the very first of which, after the heart, being the brain.
+The heart continually sends new blood to the top and bottom of this artery. And so this blood is forced to take a circular path back towards the heart, via the side furthest from the spine, where the chest will later develop.
 
-The largest parts of the blood leaving the heart go directly in a straight line to the spot in the seed where the lower parts of the head are subsequently formed.
+The path that the blood takes in returning thus to the heart is the vena cava.
 
-But the finer ones, which make up the spirits, proceed a little further. They get to the spot where the brain will be.
+<!-- I would not add anything here concerning the formation of the heart, if it had only a single ventricle like that of fish;  -->
 
-After this, as the blood is reflected back and takes its course down through the aorta, the spirits make their way a little higher on the same side near the spot where the medulla and the spinal column will be.
-
-This occurs because the movement of the blood in the part of the aorta which descends from the heart, to which they are close, agitates the neighbouring seed, and this facilitates their path towards the former side.
-
-Nevertheless, it does not facilitate it to such an extent that they encounter no resistance at all there. 
-
-This is why they also try to move towards the other sides.
-
-In this way, while these spirits are advancing towards the spinal column, running up and down the length of it and from there pouring into all the other spots in the seed, those of its particles that excel above the others in some quality are separated from the body and turn right and left to the base of the brain, and towards the front, where they begin to form the sense organs.
-
-They turn towards the base of the brain, because they are reflected off its upper part. 
-
-They turn right and left because the space in the middle is occupied by those that have meanwhile come from the heart, and from there make a path to the spinal column, which explains why all the sense organs are double. 

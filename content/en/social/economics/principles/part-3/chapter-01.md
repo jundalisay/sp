@@ -26,7 +26,7 @@ This assumes that:
 - the three prior laws were observed 
 - there is a sense of community instead of excessive ego that leads to profit maximization
 
-The natural price is established by the Third Law of Value which says that there must be balance in any economy, whether it be a family, company, or nation. This mirrors the Zeroth Law of Thermodynamics that has the concept of thermal equilibrium.
+The natural price is established by the Third Law of Value which says that **there must be balance in any economy**, whether it be a family, company, or nation. This mirrors the Zeroth Law of Thermodynamics that has the concept of thermal equilibrium.
 
 <!-- * leading to temperature.  -->
 

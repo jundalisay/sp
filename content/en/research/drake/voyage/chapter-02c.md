@@ -13,15 +13,25 @@ author: Francis Pretty, One Of Drake's Gentlemen At Arms
 
 We continued our course. We arrived on November 29 at an island called La Mocha where we cast anchor.
 
- and our General, hoisting out our boat, went with ten of our company to shore. Where we found people whom the cruel and extreme dealings of the Spaniards have forced, for their own safety and liberty, to flee from the main, and to fortify themselves in this island. 
+Our General went out our boat with 10 of our company to shore.
 
- We being on land, the people came down to us to the water side with show of great courtesy, bringing to us potatoes, roots, and two very fat sheep; which our General received, and gave them other things for them, and had promised to have water there. 
+We found people whom the cruel and extreme dealings of the Spaniards have forced to flee from the main and to fortify themselves in this island. 
 
- But the next day repairing again to the shore, and sending two men a-land with barrels to fill water, the people taking them for Spaniards (to whom they use to show no favour if they take them) laid violent hands on them, and, as we think, slew them. Our General seeing this, stayed there no longer, but weighed anchor, and set sail towards the coast of Chili. 
+The people came down to us to the water side with show of great courtesy, bringing to us potatoes, roots, and two very fat sheep.
 
-Drawing towards it, we met near the shore an Indian in a canoa, who thinking us to have been Spaniards, came to us and told us, that at a place called Santiago, there was a great Spanish ship laden from the kingdom of Peru; for which good news our General gave him divers trifles. 
+<!-- ; which our General received, and gave them other things for them, and had promised to have water there.  -->
 
-Whereof he was glad, and went along with us and brought us to the place, which is called the port of Valparaiso. When we came thither we found, indeed, the ship riding at anchor, having in her eight Spaniards and three negroes; who, thinking us to have been Spaniards, and their friends, welcomed us with a drum, and made ready a botija of wine of Chili to drink to us. 
+But the next day repairing again to the shore, and sending two men a-land with barrels to fill water, the people taking them for Spaniards (to whom they use to show no favour if they take them) laid violent hands on them, and, as we think, slew them.
+
+Our General weighed anchor and set sail towards the coast of Chile. 
+
+Drawing towards it, we met near the shore an Indian in a canoa, who thinking us to have been Spaniards.
+
+They came to us and told us that a great Spanish ship laden from the kingdom of Peru was at Santiago
+
+So the General went with us and brought us to the place, which is called the port of Valparaiso. 
+
+When we came thither we found, indeed, the ship riding at anchor, having in her eight Spaniards and three negroes; who, thinking us to have been Spaniards, and their friends, welcomed us with a drum, and made ready a botija of wine of Chili to drink to us. 
 
 But as soon as we were entered, one of our company called Thomas Moon began to lay about him, and struck one of the Spaniards, and said unto him, Abaxo perro! that is in English, 'Go down, dog!' One of these Spaniards, seeing persons of that quality in those seas, crossed and blessed himself. 
 

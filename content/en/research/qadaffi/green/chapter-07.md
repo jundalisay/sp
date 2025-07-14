@@ -3,7 +3,7 @@ title: The Law Of Society
 c: "firebrick"
 heading: "Chapter 7"
 weight: 18
-description: ""
+description: "The natural law of any society is grounded in either tradition (custom) or religion."
 ---
 
 
@@ -75,4 +75,3 @@ Most physical penalties are deferred to a future judgment.
 This is the most appropriate law affording due respect to the human being. Religion does not provide for prompt penalties, save in certain compelling instances necessary to the well-being of society.
 
 Religion contains tradition, and tradition is an expression of the natural life of the people. Therefore, religion is an affirmation of natural laws which are discerned therein. Laws which are not premised on religion and tradition are merely an invention by man to be used against his fellow man. Consequently, such laws are invalid because they do not emanate from the natural source of tradition and religion.
-

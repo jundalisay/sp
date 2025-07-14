@@ -44,22 +44,27 @@ Therefore, another cause must be attributed to this attraction in glass.
 
 The formation of glass from liquid creates elongated channels between its particles. Only the middle of these channels is wide enough to allow passage to the air-aether particles. This makes glass transparent.
 
-On the sides of these channels, there are tiny slits or crevices so narrow that only the fire-aether [as virtual photons] can occupy them.
+On the sides of these channels, there are tiny slits or crevices so narrow that only the fire-aether [as channels of electrons] can occupy them.*
+
+{{< n n="These small channels give magnetism to the glass (or expanded rubber balloon)" >}}
+
 
 **The fire-aether always takes on the shape of the places where it is found.**
 
-While it flows through these tiny slits, its least agitated particles cling to one another and form thin ribbons [of virtual photons].
+While it flows through these tiny slits, its least agitated particles* cling to one another and form long, thin ribbons [of electrons].
+
+{{< n n="The most agitated and crude are the heat particles. The electrons are more subtle and 'cooler' than heat" >}}
 
 {{< i s="/graphics/physics/glass.jpg" a="Glass under microscope" >}}
 
-These are extremely fine, yet have some width and much greater length, moving and swirling around the glass particles without ever straying far from them.*
+These are extremely fine, yet have some width and much greater length, moving back and forth and swirling around the glass particles without ever straying far from them.*
 
 {{< n n="These swirl in anticlockwise rotation" >}}
 
 
 This is because the passages they find in the air or other surrounding bodies are neither as precisely fitted to their size nor as suited to receiving them.
 
-The fire-aether is highly fluid. But it nevertheless contains particles that are less agitated than the rest of its matter.
+The fire-aether is highly fluid. But it nevertheless contains particles that are less agitated than other fire-aether.
 - This was explained in Articles 87 and 88 of Part 3.
 
 Its most fluid parts continuously pass from the air into the glass and from the glass into the air.*
@@ -69,7 +74,7 @@ Its most fluid parts continuously pass from the air into the glass and from the 
 
 But the less fluid parts within the glass remain in the slits that do not align with the pores or channels of the air. 
 
-There, joining together, they form these ribbons. In a short time, they acquire shapes so stable that they cannot easily be altered.*
+There, joining together, they [electrons] form these ribbons. In a short time, they acquire shapes so stable that they cannot easily be altered.*
 
 {{< n n="This is static electricity latent in the glass" >}}
 
@@ -86,42 +91,74 @@ For example, there are certain channels between the particles of some bodies tha
 
 These channels are larger than those in the pores of the air [magnetic moment of atoms] where only the fire-aether can pass.
 
-And so these channels retain within themselves the least agitated parts of this fire-aether [as electrons]. These join one another, forming strips within them that have diverse shapes according to the diversity of the pores through which they pass.
+And so these channels retain within themselves the least agitated parts of this fire-aether [as electrons]. 
+
+These join one another, forming strips within them that have diverse shapes according to the diversity of the pores through which they pass.
 
 These are long, flat, flexible. They flow here and there between the particles of these bodies. 
 
 The channels that they go through are so narrow that the air-aether cannot enter them.
+- But they are larger than those in air so that the least agitated parts of the fire-aether stop within them.
+- This is while the other fire-aether continuously stream and exit through other pores of these bodies, just as it enters from the pores of the air.
 
-<!-- These channels could not be larger than those in the air where the same air-aether does not enter, unless they extended more in length than those, being thus like small slits that make these strips wide and thin.
-
-These channels must be larger than those in the air so that the least agitated parts of the first element may stop in them, while an equal amount of the same first element continuously exits through some other pores of these bodies, as comes from the pores of the air.  -->
-
-<!-- For the interstices from which these bands derive their shape must be very narrow—so narrow that they exclude the globules of the second element—and unless they were elongated like cracks or slits, they could hardly be larger than the interstices between the particles of air which are not occupied by globules of the second element. -->
-
-
-This is why, although I do not deny that the other cause of attraction I explained earlier might occur in some bodies, nevertheless, because it does not seem general enough to suit so many diverse bodies as this latter one, and yet there are a very great number of bodies in which
-
-Many bodies exhibit attraction. This is why the mechanism of attraction is the same as that which is in glass.
-
+This is why the general cause of attraction is that which I explained in glass.
+- This is even if there are other causes of attraction for a few unique, and isolated cases.
 
 
 
 ## 187. The causes of the wonderful effects of the remaining bodies are not solely due to the aether, but rather to various other factors, which are inherent in the material itself. 
 
-The particles of terrestrial bodies that are formed from the fire-aether possess:
+
+These small ribbons or other small, long, and agitated parts form from the fire-aether in the channels of terrestrial bodies.
+
+These cause not only the attractions in magnet and amber, but also of an infinite other effects.
+
+For those that form in each body have something particular in their shape that makes them different from all those that form in other bodies. 
+
+They move very quickly ceaselessly.
+
+Very unremarkable circumstances sometimes make them swirl here and there within the body that they occupy without leaving it.
+
+Sometimes, on the contrary, they pass in a very short time to very distant places, without any body they encounter in their path being able to stop or divert them. 
+
+Upon encountering matter there disposed to receive their action, they produce entirely rare and marvelous effects.
+
+Examples are:
+
+- causing the wounds of a dead person to bleed when the murderer approaches them
+- stirring the imagination of those who sleep, or even those who are awake, and giving them thoughts that warn them of things happening far away, by making them feel the great afflictions or great joys of an intimate friend, the wicked designs of an assassin, and similar things
+- the properties of the magnet and fire <!-- are and how different from all those commonly observed in other bodies -->
+- how a single spark of fire can excite a great flame in a very short time when it falls into a large quantity of powder, producing a great force
+- [the speed of light in a vacuum] the extreme distances that fixed stars extend their light in an instant
+
+
+All these phenomena are based on the the size, shape, situation, and motion of the various parts of matter.
+
+These explain all attraction and repulsion, and occult and rare material phenomena, those that are not based on thought or free will. 
+
+
+<!-- and what all the other effects are, for which I believe I have given clear enough reasons here without deriving them from any other principles than those generally received and known by everyone, namely, 
+
+ — it seems to me that he will have reason to be persuaded that one observes no qualities so occult, nor any effects of Sympathy or Antipathy so marvelous and strange, nor finally any other thing so rare in nature (provided it proceeds only from purely material causes devoid of thought or free will) that reason cannot be given for it by means of these same principles. 
+
+This leads me to conclude here that all other principles that have ever been added to these, without any other reason for adding them than the belief that without them some natural effects could not be explained, are entirely superfluous. -->
+
+
+<!-- The particles of terrestrial bodies that are formed from the fire-aether possess:
 - the properties of attraction, like those in amber and magnets
 - other marvelous effects
   - This is from the particular shape and motion of their particles. 
 
 These particles retain the maximum agitation of the fire-aether. They can produce the smallest effects. They do not move outside the body that has them. They only move within it quickly.
 
-Or, they can move quickly away from the body and permeate other terrestrial bodies to produce rare and marvelous effects.
+Or, they can move quickly away from the body and permeate other terrestrial bodies to produce rare and marvelous effects. -->
 
 <!-- Indeed, whoever considers the properties of magnets and fire, and how diverse they are from those observed in other bodies, will easily persuade himself that  -->
 
-There are no hidden forces in stones or plants. There are no miracles of sympathy or antipathy. 
+<!-- There are no hidden forces in stones or plants. There are no miracles of sympathy or antipathy. 
 
-The same bodily and material principles lead to the phenomena in nature.  
+The same bodily and material principles lead to the phenomena in nature.   -->
+
 <!-- , nothing in all of nature, that can be referred to causes other than those which are , and which can be deduced from .  -->
 
 <!-- Therefore, it is not necessary to add anything else to these causes  -->
@@ -140,3 +177,6 @@ I will briefly touch on some of the objects of the senses here.
 For up to this point, I have described this world, including all of its observable aspects, as a machine, considering only shapes and motions. 
 
 However, our senses reveal many other things to us, such as colors, odors, sounds, and the like, which I would have to discuss in detail if I were to provide a complete explanation of natural phenomena
+
+
+

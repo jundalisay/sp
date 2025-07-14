@@ -21,28 +21,25 @@ developments that had already started in the nineteenth
 century and prepared the way for the scientific revolutions of
 our time.  -->
 
-The first of these developments was the discovery
+<!-- The first of these developments was the discovery
 and investigation of electric and magnetic phenomena which
 could not be described appropriately by the mechanistic
 model and involved a new type of force. 
 
-The important step
-was made by Michael Faraday and Clerk Maxwell-the first,
-one of the greatest experimenters in the history of science,
-the second, a brilliant theorist. When Faraday produced an
-electric current in a coil of copper by moving a magnet near
-it, and thus converted the mechanical work of moving the
-magnet into electric energy, he brought science and tech-
-nology to a turning point. 
+The important step was made by Michael Faraday and Clerk Maxwell-the first, one of the greatest experimenters in the history of science, the second, a brilliant theorist.  -->
 
-His fundamental experiment gave
-birth, on the one hand, to the vast technology of electrical
-engineering; on the other hand, it formed the basis of his and
-Maxwell’s theoretical speculations which, eventually, resulted
-in a complete theory of electromagnetism. Faraday and
-Maxwell did not only study the effects of the electric and magnetic forces, but made the forces themselves the primary
-object of their investigation. They replaced the concept of a force by that of a force field, and in doing so they were the
-first to go beyond Newtonian physics.
+Faraday produced an electric current in a coil of copper by moving a magnet near it. This converted the mechanical work of moving the magnet into electric energy.
+
+<!-- , he brought science and tech-
+nology to a turning point.  -->
+
+His fundamental experiment:
+- gave birth to electrical engineering
+- formed the basis of his and Maxwell’s theoretical speculations
+
+This resulted in a complete theory of electromagnetism. 
+
+Faraday and Maxwell did not only study the effects of the electric and magnetic forces, but made the forces themselves the primary object of their investigation. They replaced the concept of a force by that of a force field, and in doing so they were the first to go beyond Newtonian physics.
 
 Instead of interpreting the interaction between a positive and a negative charge simply by saying that the two charges
 attract each other like two masses in Newtonian mechanics, Faraday and Maxwell found it more appropriate to say that
@@ -430,28 +427,24 @@ known as ‘standing waves’. These patterns appear whenever
 waves are confined to a finite region, like the waves in a vibrating
 guitar string, or in the air inside a flute (see diagram overleaf). It is
 well known from these examples that standing waves can
-assume only a limited number of well-defined shapes. In the case
-of the electron waves inside an atom, this means that they can
-exist only in certain atomic orbits with definite diameters. The
-electron of a hydrogen atom, for example, can only exist in a
-certain first, second or third orbit, etc., and nowhere in between.
-Under normal conditions, it will always be in its lowest orbit,
-called the ‘ground state’ of the atom. From there, the electron
-can jump to higher orbits if it receives the necessary amount of
-energy, and then the atom is said to be in an ‘excited state’
-from which it will go back to its ground state after a while,
-the electron giving off the surplus energy in the form of a
-quantum of electromagnetic radiation, or photon. The states
-of an atom, i.e. the shapes and mutual distances of its electron
-orbits, are exactly the same for all atoms with the same number
-of electrons. This is why any two oxygen atoms, for example,
+assume only a limited number of well-defined shapes. 
 
-will be completely identical. They may be in different excited
-states, perhaps due to collisions with other atoms in the air,
-but after a while they will invariably return to exactly the same
-ground state. The wave nature of the electrons accounts thus
-for the identity of atoms and for their great mechanical
-stability.
+In the case of the electron waves inside an atom, this means that they can exist only in certain atomic orbits with definite diameters. 
+
+The electron of a hydrogen atom, for example, can only exist in a certain first, second or third orbit, etc., and nowhere in between. 
+
+Under normal conditions, it will always be in its lowest orbit, called the ‘ground state’ of the atom.
+
+From there, the electron can jump to higher orbits if it receives the necessary amount of energy. Then the atom is said to be in an ‘excited state’.
+
+It will go back to its ground state after a while, the electron giving off the surplus energy in the form of a quantum of electromagnetic radiation, or photon. 
+
+The states of an atom, i.e. the shapes and mutual distances of its electron orbits, are exactly the same for all atoms with the same number
+of electrons. This is why any two oxygen atoms, for example, will be completely identical. They may be in different excited
+states, perhaps due to collisions with other atoms in the air, but after a while they will invariably return to exactly the same
+ground state. The wave nature of the electrons accounts thus for the identity of atoms and for their great mechanical stability.
+
+
 A further characteristic feature of atomic states is the fact
 that they can be completely specified by a set of integral
 numbers, called ‘quantum numbers’, which indicate the loca-

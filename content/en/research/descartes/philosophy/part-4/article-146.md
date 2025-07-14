@@ -20,27 +20,31 @@ icon: "Rene Descartes"
 
 ## 146. How do the virtual photons flow through the paths of the Earth?
 
-`Earth AB`  has `A`  as the South Pole, and `B` the North Pole.
+`ACBD` represents the Earth. 
+- A is the South Pole
+- B is the North Pole
 
 {{< img src="/graphics/physics/magnetearth.jpg" alt="Magnetic Field" >}}
 
+The small threaded particles are the virtual photons.
 
-The virtual photons coming from the southern part of the sky `E` are twisted in a completely different way than those coming from the north `F`.
+Some are turned completely in the opposite direction from others. This is why they cannot pass through the same pores.
 
-Either cannot enter the paths of the other.
+Those which come from the part of the South sky `E` are turned in the same direction.
 
-The southern ones proceed straight from `A` towards `B` through the middle of the Earth.
-- They then return from `B` towards `A` through the air surrounding it. 
+In the half of the Earth `CAD`, they have the entrances to the pores.
 
-The northern ones passes from `B` to `A` through the middle of the Earth.
-- They return from `A` to `B` through the surrounding air.
-- They are unable to return using their former path. 
+The virtual photons continually pass through these pores in a straight line up to the surface of its other half `CBD`.
 
- <!-- because the paths by which they came from one part to the other are such that they cannot return by them. -->
+From there, they return circularly on both sides through the air, water, and other bodies of the upper earth towards `CAD`.
 
-<!-- At the same time, the northern particles pass from `B` to `A` through the middle of the Earth.
-- They return from `A` to `B` through the surrounding air.
-- This is because the paths through which they came from one side to the other are such that they cannot be retraced through them. -->
+In the same way, all those that are turned in the other direction come from the North `F`.
+- They enter through the hemisphere `CBD`, take their course in straight lines inside the Earth up to the other hemisphere `CAD` where they exit.
+
+From there, they return through the air towards `CBD`.
+
+The pores through which they pass through the earth are such that they cannot enter through the same side by which they can exit.
+
 
 
 

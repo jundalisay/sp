@@ -46,7 +46,9 @@ How poisonous, how crafty, how bad, does every long war make one, which cannot b
 
 How PERSONAL does a long fear make one, a long watching of enemies, of possible enemies! 
 
-These pariahs of society, these long-pursued, badly-persecuted ones—also the compulsory recluses, the Spinozas or Giordano Brunos—always become in the end, even under the most intellectual masquerade, and perhaps without being themselves aware of it, refined vengeance-seekers and poison-Brewers (just lay bare the foundation of Spinoza's ethics and theology!), not to speak of the stupidity of moral indignation, which is the unfailing sign in a philosopher that the sense of philosophical humour has left him. 
+These pariahs of society, these badly-persecuted ones. These are the compulsory recluses, the Spinozas or Giordano Brunos.
+
+They always become in the end, even under the most intellectual masquerade, and perhaps without being themselves aware of it, refined vengeance-seekers and poison-Brewers (just lay bare the foundation of Spinoza's ethics and theology!), not to speak of the stupidity of moral indignation, which is the unfailing sign in a philosopher that the sense of philosophical humour has left him. 
 
 The martyrdom of the philosopher, his "sacrifice for the sake of truth," forces into the light whatever of the agitator and actor lurks in him; and if one has hitherto contemplated him only with artistic curiosity, with regard to many a philosopher it is easy to understand the dangerous desire to see him also in his deterioration (deteriorated into a "martyr," into a stage-and-tribune-bawler). 
 

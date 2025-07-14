@@ -163,55 +163,80 @@ Our actions never cause any true or false judgment in ourselves.
     But I still do not see why the tendency to cause such an error is the original source of all immorality.12
 
 
+{{< box >}}
+## Footnote 12
 
-Footnote 12:
+William Wollaston (The Religion of Nature Delineated, London 1722) seriously affirmed that such a falsehood is the foundation of all guilt and moral deformity.
 
-    William Wollaston (The Religion of Nature Delineated, London 1722) seriously affirmed that such a falsehood is the foundation of all guilt and moral deformity.
-    His fallacy is exposed by considering that a false conclusion is drawn from an action, only through an obscurity of natural principles.
-        These principles:
-            make a cause secretly interrupted in its operation by contrary causes, and
-            render the connection between two objects uncertain and variable.
-    The same uncertainty and variety of causes:
-        take place even in natural objects, and
-        produce a similar error in our judgment.
-    If that tendency to produce error were the very essence of vice and immorality, then even inanimate objects might be vicious and immoral.
+His fallacy is exposed by considering that a false conclusion is drawn from an action, only through an obscurity of natural principles.
 
-    It is in vain to urge that inanimate objects act without liberty and choice.
-    Liberty and choice are not necessary to make an action produce a wrong conclusion in us.
-        They cannot be essential to morality.
-    If the tendency to cause error were the origin of immorality, that tendency and immorality would be inseparable in every case.
+These principles:
+- make a cause secretly interrupted in its operation by contrary causes, and
+- render the connection between two objects uncertain and variable.
 
-    If I closed the windows while I indulged with my neighbour's wife, I would not be guilty of immorality because my action was perfectly concealed.
-    It would have had no tendency to produce any false conclusion.
+The same uncertainty and variety of causes:
+- take place even in natural objects, and
+- produce a similar error in our judgment.
 
-    For the same reason, a thief who steals through a ladder at a window and causes no disturbance, is not criminal because he will not be seen.
-    If he is seen, he cannot produce any error.
-    People will see him as a man entering through a window.
+If that tendency to produce error were the very essence of vice and immorality, then even inanimate objects might be vicious and immoral.
 
-    Those who are squint-sighted, readily cause mistakes in others.
-    We imagine them talking to a person, when they are really talking to another.
-    Are they therefore immoral because of that?
+It is in vain to urge that inanimate objects act without liberty and choice.
 
-    In all those arguments, there is a reasoning in a circle.
-        A person who steals another's goods and declares them to be his own, is a falsehood which is the source of the immorality of injustice.
-    But is property, right, or obligation understandable without an antecedent morality?
+Liberty and choice are not necessary to make an action produce a wrong conclusion in us.
 
-    Should a man who receives favours be grateful to his benefactor?
-    Is it his duty to be grateful?
-        This supposes that there is some antecedent rule of duty and morals.
-        Is it because human nature:
-            is generally grateful, and
-            makes us conclude that an ungrateful man never received any favour from the person he was ungrateful to?
-        But human nature is not so generally grateful, as to justify such a conclusion.
-        If human nature were generally grateful, then would every case of ingratitude be bad because it is an exception?
+They cannot be essential to morality.
 
-    This whimsical system leaves us under the same difficulty to explain why truth is virtuous and why falsehood is vicious, in the same way as we explain the merit or wickedness of any other action.
-        This is enough to entirely destroy this system.
-    I shall allow that all immorality is derived from this supposed falsehood in action, if you can answer why such a falsehood is immoral.
-        If you answer correctly, you will find yourself in the same difficulty as at the beginning.
+If the tendency to cause error were the origin of immorality, that tendency and immorality would be inseparable in every case.
 
-    This last argument is very conclusive.
-        Because if there is no merit or wickedness annexed to this kind of truth or falsehood, then it can never influence our actions.
-        Who ever thought of refraining from any action because others might draw false conclusions from it?
-        Who ever performed any action so that he might create true conclusions?
+If I closed the windows while I indulged with my neighbour's wife, I would not be guilty of immorality because my action was perfectly concealed.
 
+It would have had no tendency to produce any false conclusion.
+
+For the same reason, a thief who steals through a ladder at a window and causes no disturbance, is not criminal because he will not be seen.
+
+If he is seen, he cannot produce any error.
+
+People will see him as a man entering through a window.
+
+Those who are squint-sighted, readily cause mistakes in others.
+
+We imagine them talking to a person, when they are really talking to another.
+
+Are they therefore immoral because of that?
+
+In all those arguments, there is a reasoning in a circle.
+
+A person who steals another's goods and declares them to be his own, is a falsehood which is the source of the immorality of injustice.
+
+But is property, right, or obligation understandable without an antecedent morality?
+
+Should a man who receives favours be grateful to his benefactor?
+
+Is it his duty to be grateful?
+
+This supposes that there is some antecedent rule of duty and morals.
+
+Is it because human nature:
+- is generally grateful, and
+- makes us conclude that an ungrateful man never received any favour from the person he was ungrateful to?
+
+But human nature is not so generally grateful, as to justify such a conclusion.
+
+If human nature were generally grateful, then would every case of ingratitude be bad because it is an exception?
+
+This whimsical system leaves us under the same difficulty to explain why truth is virtuous and why falsehood is vicious, in the same way as we explain the merit or wickedness of any other action.
+
+This is enough to entirely destroy this system.
+
+I shall allow that all immorality is derived from this supposed falsehood in action, if you can answer why such a falsehood is immoral.
+
+If you answer correctly, you will find yourself in the same difficulty as at the beginning.
+
+This last argument is very conclusive.
+
+Because if there is no merit or wickedness annexed to this kind of truth or falsehood, then it can never influence our actions.
+
+Who ever thought of refraining from any action because others might draw false conclusions from it?
+
+Who ever performed any action so that he might create true conclusions?
+{{< /box >}}

@@ -10,9 +10,13 @@ weight: 6
 ---
 
 
-The results which I have the honor to present before such a gathering I cannot call my own. There are among you not a few who can lay better claim than myself on any feature of merit which this work may contain. I need not mention many names which are world-known—names of those among you who are recognized as the leaders in this enchanting science; but one, at least, I must mention—a name which could not be omitted in a demonstration of this kind. It is a name associated with the most beautiful invention ever made: it is Crookes!
+The results which I have the honor to present before such a gathering I cannot call my own. There are among you not a few who can lay better claim than myself on any feature of merit which this work may contain. 
 
-When I was at college, a good time ago, I read, in a translation (for then I was not familiar with your magnificent language), the description of his experiments on radiant matter. I read it only once in my life—that time—yet every detail about that charming work I can remember this day. Few are the books, let me say, which can make such an impression upon the mind of a student.
+I need not mention many names which are world-known—names of those among you who are recognized as the leaders in this enchanting science; but one, at least, I must mention—a name which could not be omitted in a demonstration of this kind. It is a name associated with the most beautiful invention ever made: it is Crookes!
+
+When I was at college, a good time ago, I read, in a translation (for then I was not familiar with your magnificent language), the description of his experiments on radiant matter.
+
+I read it only once in my life—that time—yet every detail about that charming work I can remember this day. Few are the books, let me say, which can make such an impression upon the mind of a student.
 
 But if, on the present occasion, I mention this name as one of many your institution can boast of, it is because I have more than one reason to do so. For what I have to tell you and to show you this evening concerns, in a large measure, that same vague world which Professor Crookes has so ably explored; and, more than this, when I trace back the mental process which led me to these advances—which even by myself cannot be considered trifling, since they are so appreciated by you—I believe that their real origin, that which started me to work in this direction, and brought me to them, after a long period of constant thought, was that fascinating little book which I read many years ago.
 

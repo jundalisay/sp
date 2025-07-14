@@ -76,17 +76,33 @@ Shortly after my healing through the potency of the guru’s picture, I had an i
 
 “What is behind the darkness of closed eyes?” This probing thought came powerfully into my mind. An immense flash of light at once manifested to my inward gaze. Divine shapes of saints, sitting in meditation posture in mountain caves, formed like miniature cinema pictures on the large screen of radiance within my forehead.
 
-“Who are you?” I spoke aloud.
+{{< r a="Yogananda" >}}
+Who are you?
+{{< /r >}}
 
-“We are the Himalayan yogis.” The celestial response is difficult to describe; my heart was thrilled.
+{{< r a="Yogis" >}}
+We are the Himalayan yogis.
+{{< /r >}}
 
-“Ah, I long to go to the Himalayas and become like you!” The vision vanished, but the silvery beams expanded in ever-widening circles to infinity.
+{{< r a="Yogananda" >}}
+Ah, I long to go to the Himalayas and become like you!
+{{< /r >}}
 
-“What is this wondrous glow?”
+The vision vanished, but the silvery beams expanded in ever-widening circles to infinity.
 
-“I am Iswara.1-11 I am Light.” The voice was as murmuring clouds.
+{{< r a="Yogananda" >}}
+What is this wondrous glow?
+{{< /r >}}
 
-“I want to be one with Thee!”
+{{< r a="Isvara" >}}
+I am Iswara. I am Light.
+{{< /r >}}
+
+The voice was as murmuring clouds
+
+
+“I want to be one with You!”
+
 
 Out of the slow dwindling of my divine ecstasy, I salvaged a permanent legacy of inspiration to seek God. “He is eternal, ever-new Joy!” This memory persisted long after the day of rapture.
 

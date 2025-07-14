@@ -1,10 +1,11 @@
 ---
-title: "THE ELECTRIC CURRENT"
+title: "ELECTROLYTIC CONVECTION"
 heading: "Chapter 9c"
 weight: 2
 date: 2023-05-27
 c: "darkgoldenrod"
 ---
+
 
 120. If the Daniell’s cell is taken out of the circuit, and the circuit again closed, the galvanometer indicates a current passing through the electrolytic cell in the opposite direction to the original current. This current rapidly diminishes in strength and soon vanishes, so that the whole quantity of elec- tricity which is transmitted by it is never greater than that of the primitive current. This reverse current indicates that the platinum plates have acquired a difference of properties by being used as electrodes. They are said to be polarized. The cathode is polarized positively and the anode negatively, so that an electromotive force is exerted in the circuit opposite to that of the Daniell’s cell. This electromotive force, which is called the electromotive force of polarization, is the cause of the rapid diminution in the strength of the original current, and of its final cessation.
 
@@ -23,13 +24,7 @@ may be passed through the electrolyte without any visible decomposition.
 Hence it was argued that electrolytes conduct electricity in two different
 ways, by electrolysis in a very conspicuous manner and also, but in a very
 slight degree, in the manner of metals, without decomposition. Helmholtz
-has recently∗ shewn that the feeble permanent current can be explained in a
-
-Ueber galvanische Polarisation in gusfreien Flüssigkeiten. Monatsbericht d. K. Akad. d.
-
-ELECTROLYTIC CONVECTION.
-
-different manner, and that we have no evidence that an electrolyte can conduct
+has recently∗ shewn that the feeble permanent current can be explained in a different manner, and that we have no evidence that an electrolyte can conduct
 electricity without electrolysis.
 
 122.] In the case of platinum plates immersed in dilute sulphuric acid, if
@@ -93,18 +88,14 @@ force is below a certain value, but that as soon as it has reached this value
 a vigorous decomposition ought to commence, accompanied by a strong cur-
 rent. This, however, is by no means the case, for the current is strictly pro-
 portional to the electromotive force for all values of that force.
-Clausius explains this in the following way:—
+Clausius explains this in the following way:
 
 According to the theory of molecular motion of which he has himself been
 the chief founder, every molecule of the fluid is moving in an exceedingly
 irregular manner, being driven first one way and then another by the impacts
 of other molecules which are also in a state of agitation.
 This molecular agitation goes on at all times independently of the action
-of electromotive force. The diffusion of one fluid through another is brought
-∗
-Pogg. Ann. CI. 338 (1857).ELECTROLYSIS.
-
-about by this molecular agitation, which increases in velocity as the tem-
+of electromotive force. The diffusion of one fluid through another is brought about by this molecular agitation, which increases in velocity as the tem-
 perature rises. The agitation being exceedingly irregular, the encounters of
 the molecules take place with various degrees of violence, and it is proba-
 ble that even at low temperatures some of the encounters are so violent that
@@ -115,4 +106,5 @@ a new molecule of the compound. In every compound, therefore, a certain
 proportion of the molecules at any instant are broken up into their constituent
 atoms. At high temperatures the proportion becomes so large as to produce
 the phenomenon of dissociation studied by M. St. Claire Deville∗ .
+
 

@@ -197,5 +197,3 @@ Below, the waters did not rise from their sources. he womb of the earth did not 
 
 
 {{< n n="The Annunaki likely diverted asteroids from the asteroid belt to disrupt the atmosphere of Earth" >}}
-
-

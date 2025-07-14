@@ -1,22 +1,21 @@
+---
+title: "PYRO-ELECTRIC PHENOMENA"
+heading: "Chapter 9g"
+weight: 2
+date: 2023-05-27
+c: "darkgoldenrod"
+---
 
 
-139.] Other experiments were afterwards made in which mercury and
-sodium were made to boil in a bent glass tube while raised to a high po-
-tential by a battery of 50 Leclanché cells. A thick copper wire (Fig. 31) was
-placed on an insulating stand so that the end of the wire was within the glass
-tube and surrounded by the vapour of the metal. It was necessary that the
-wire should not be allowed to touch the tube, because glass at a high tem-
-perature is a good conductor. It was also necessary to see that the products
-of combustion from the Bunsen burner did not come in contact with the wire
-after becoming electrified by the hot tube.
+
+139.] Other experiments were afterwards made in which mercury and sodium were made to boil in a bent glass tube while raised to a high po- tential by a battery of 50 Leclanché cells. A thick copper wire (Fig. 31) was placed on an insulating stand so that the end of the wire was within the glass tube and surrounded by the vapour of the metal. It was necessary that the wire should not be allowed to touch the tube, because glass at a high tem- perature is a good conductor. It was also necessary to see that the products of combustion from the Bunsen burner did not come in contact with the wire after becoming electrified by the hot tube.
+
 Fig. 31.
 
-The wire was connected with the electrometer, but no evidence of con-
-duction of electricity could be observed, even when the mercury was boiling
-briskly, and its vapour was being condensed on the wire. But whenever so
-much mercury had collected on the wire that a drop fell off at the end of theCONDUCTIVITY OF GASES.
+The wire was connected with the electrometer, but no evidence of conduction of electricity could be observed, even when the mercury was boiling
+briskly, and its vapour was being condensed on the wire. 
 
-wire, there was a deflection of the electrometer because the drop had become
+But whenever so much mercury had collected on the wire that a drop fell off at the end of the wire, there was a deflection of the electrometer because the drop had become
 charged by induction from the tube and the removal of this charge affected
 the electrometer. This however was no evidence of conduction through the
 metallic vapour, but only indicated that the apparatus was in such a state of
@@ -50,9 +49,10 @@ which is required to support it. The more perfectly insulating we make this
 apparatus the more slowly does the electrified body lose its charge, so that it is
 probable that if we could support an electrified body on a perfectly insulating
 stand so that it could lose its charge only by conduction through the air, it
-would never lose its charge.PYRO-ELECTRIC PHENOMENA.
+would never lose its charge.
 
-Electric Phenomena of Tourmaline.
+
+Electric Phenomena of Tourmaline
 
 141.] Certain crystals of tourmaline and of other minerals possess what
 may be called Electric Polarity. Suppose a crystal of tourmaline to be at a

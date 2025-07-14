@@ -23,6 +23,14 @@ icon: "Rene Descartes"
 
 <!-- A magnet's force is diffused throughout this entire globe, it belongs to its general consideration. -->
 
+
+The entire mass of the earth is a magnet. All places on Earth has this [magnetic] virtue.
+
+<!-- These conduits are so hollowed out and adjusted to the figure of these channeled parts, that those which receive the parts coming from the South Pole could not receive those coming from the North Pole, and reciprocally, the conduits which receive the parts coming from the North Pole are not suitable for receiving those coming from the South Pole, because they are turned like a screw completely opposite to each other.
+
+Let us also think that these channeled parts can indeed enter through one side into the pores that are suitable for receiving them, but that they cannot return through the other side of the same pores, because there are certain small hairs or very delicate branches that advance so much into the folds of these conduits that they in no way impede the course of the channeled parts when they come there from the side they are accustomed to entering, but which turn back and straighten their extremities a little when these channeled parts present themselves to enter through the other side, and thus block their passage, as was said in Article 106. That is why, after they have traversed the entire earth from one half to the other following lines parallel to its axis, many of them return through the surrounding air towards the same half by which they had entered, and thus passing reciprocally from the earth to the air and from the air to the earth, they compose a kind of vortex which was explained in Article 108. -->
+
+
 Relevant articles on the magnet are from Part 3:
 - Article 87[-93]
 - Article 105-109 about star `I` applying it here to the Earth.

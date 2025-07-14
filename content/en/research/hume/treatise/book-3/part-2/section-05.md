@@ -26,34 +26,45 @@ This will appear from these 2 propositions:
 
 I. A promise is not intelligible naturally, nor antecedent to human conventions.
 
-    A man, unacquainted with society, could never enter into any engagements with another, even if they could perceive each other's thoughts by intuition.
-    If promises are natural, there must be some act of the mind attending the words: "I promise".
-        The obligation must depend on this act of the mind.
-    Let us run over all the soul's faculties and see which of them is exerted in our promises.
+A man, unacquainted with society, could never enter into any engagements with another, even if they could perceive each other's thoughts by intuition.
 
-    The act of the mind expressed by a promise, is:
-        not a resolution to perform anything,
-            For that alone never imposes any obligation.
-        not a desire of such a performance.
-            For we may bind ourselves:
-                without such a desire, or
-                even with a declared and avowed aversion.
+If promises are natural, there must be some act of the mind attending the words: "I promise".
 
-    We do not promise the willing of that action.
-        For a promise always regards some future time.
-        The will has an influence only on present actions.
-    If follows that the act of the mind which enters into a promise and produces its obligation is not the resolving, desiring, nor willing act to do any performance.
-        It must necessarily be the willing of that obligation, arising from the promise.
-    This is not only a conclusion of philosophy.
-        We commonly say:
-            that we are bound by our own consent, and
-            that the obligation arises from our mere will and pleasure.
-        Is it:
-            absurd to suppose this act of the mind?
-            an absurdity that no discerning man could fall into?
+The obligation must depend on this act of the mind.
 
-    All morality depends on our sentiments.
-        Any action or mental quality is virtuous when it pleases us in a certain way.
+Let us run over all the soul's faculties and see which of them is exerted in our promises.
+
+The act of the mind expressed by a promise, is:
+- not a resolution to perform anything,
+  - For that alone never imposes any obligation.
+- not a desire of such a performance.
+  - For we may bind ourselves:
+    - without such a desire, or
+    - even with a declared and avowed aversion.
+
+We do not promise the willing of that action.
+
+For a promise always regards some future time.
+
+The will has an influence only on present actions.
+
+If follows that the act of the mind which enters into a promise and produces its obligation is not the resolving, desiring, nor willing act to do any performance.
+
+It must necessarily be the willing of that obligation, arising from the promise.
+
+This is not only a conclusion of philosophy.
+
+We commonly say:
+- that we are bound by our own consent, and
+- that the obligation arises from our mere will and pleasure.
+
+Is it:
+- absurd to suppose this act of the mind?
+- an absurdity that no discerning man could fall into?
+
+All morality depends on our sentiments.
+
+Any action or mental quality is virtuous when it pleases us in a certain way.
         We are obliged to perform it if its neglect displeases us.
     A change of the obligation supposes a change of the sentiment.
         A creation of a new obligation supposes some new sentiment.

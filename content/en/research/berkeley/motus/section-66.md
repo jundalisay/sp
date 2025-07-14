@@ -102,4 +102,6 @@ In which sense corporeal secondary causes ought to be understood, no account bei
 Furthermore, the primary axioms of mechanical science, beyond body, figure, motion, can be called mechanical causes or principles, regarded as causes of the consequences.
 
 
-72. Truly active causes can be drawn from the darkness in which they are enveloped only by meditation and reasoning, and known to some extent. But it pertains to first philosophy, or metaphysics, to treat of them. But if to each science its own province is assigned, its limits defined, and the principles and objects that pertain to each are accurately distinguished, it will be permissible to treat them with greater ease and clarity.
+72. Truly active causes can be drawn from the darkness in which they are enveloped only by meditation and reasoning, and known to some extent. 
+
+But it pertains to first philosophy, or metaphysics, to treat of them. But if to each science its own province is assigned, its limits defined, and the principles and objects that pertain to each are accurately distinguished, it will be permissible to treat them with greater ease and clarity.

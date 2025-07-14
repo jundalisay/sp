@@ -1,36 +1,22 @@
+---
+title: "The Electric Spark"
+heading: "Chapter 9h"
+weight: 2
+date: 2023-05-27
+c: "darkgoldenrod"
+---
 
 
-The Electric Spark.
-
-148.] When the tension in the space between the two electrodes is consid-
-erable all the way between them, as in the case of two balls whose distance
-is not very great compared with their radii, the discharge, when it occurs,
-usually takes the form of a spark, by which nearly the whole electrification
+148. When the tension in the space between the two electrodes is considerable all the way between them, as in the case of two balls whose distance is not very great compared with their radii, the discharge, when it occurs, usually takes the form of a spark, by which nearly the whole electrification
 is discharged at once.
 
-In this case, when any part of the dielectric has given way, the part next
-to it in the direction of the electric force is put into a state of greater tension,
-so that it also gives way, and so the discharge proceeds right through the
-dielectric. We may compare this breaking down of the dielectric to what
-occurs when we make a little rent perpendicular to the edge of a piece of
-paper and then apply tension to the paper in the direction of the edge. The
-paper is torn through, the disruption beginning at the little rent, but diverging
-occasionally so as to take in weak places in the paper. The electric spark in
-the same way begins at the point where the electric tension first overcomes
-the ‘electric strength’ of the dielectric, and proceeds from that point, in an
-apparently irregular path, so as to take in other weak points, such as particles
-of dust floating in the air.
+In this case, when any part of the dielectric has given way, the part next to it in the direction of the electric force is put into a state of greater tension, so that it also gives way, and so the discharge proceeds right through the dielectric. We may compare this breaking down of the dielectric to what occurs when we make a little rent perpendicular to the edge of a piece of paper and then apply tension to the paper in the direction of the edge. The paper is torn through, the disruption beginning at the little rent, but diverging occasionally so as to take in weak places in the paper. The electric spark in the same way begins at the point where the electric tension first overcomes the ‘electric strength’ of the dielectric, and proceeds from that point, in an apparently irregular path, so as to take in other weak points, such as particles of dust floating in the air.
 
-149.] The investigation of the phenomena of the luminous electric dis-
-charge has been greatly assisted by the use of the spectroscope. The light of
-the spark or other discharge is made to fall on the slit of the collimator of the
-spectroscope, and after being analysed by the prisms is observed through the
-telescope. The light as thus analysed is found to consist of a great number of
-bright lines and bands forming what is called the spectrum of the light. By
-comparing light from different sources it is found that these bright lines may be divided into groups, each group being due to the presence of a particular substance in the medium through which the discharge takes place.
 
-SPECTRUM OF THE ELECTRIC SPARK
+149. The investigation of the phenomena of the luminous electric discharge has been greatly assisted by the use of the spectroscope. The light of the spark or other discharge is made to fall on the slit of the collimator of the spectroscope, and after being analysed by the prisms is observed through the telescope. The light as thus analysed is found to consist of a great number of bright lines and bands forming what is called the spectrum of the light. By comparing light from different sources it is found that these bright lines may be divided into groups, each group being due to the presence of a particular substance in the medium through which the discharge takes place.
 
+
+## SPECTRUM OF THE ELECTRIC SPARK
 
 By using the method introduced by Mr. Lockyer of forming an image of
 the spark upon the slit by means of a lens, we may obtain at one view a
@@ -117,5 +103,3 @@ Let the two ends of the battery be now connected by means of a wire. An
 electric current will commence, and will in a very short time attain a constant
 value. It is then said to be a Steady Current.
 Magnetic Action of the Current.
-
-

@@ -22,11 +22,13 @@ I awoke early the following morning, refreshed by the salty sea breezes and the 
 
 “Halt!” My guru’s eyes sought mine. “Did you remember to lock the back door of the hermitage?”
 
-puri
 
-MY GURU’S SEASIDE HERMITAGE AT PURI
 
-A steady stream of visitors poured from the world into the hermitage tranquillity. A number of learned men came with the expectation of meeting an orthodox religionist. A supercilious smile or a glance of amused tolerance occasionally betrayed that the newcomers anticipated nothing more than a few pious platitudes. Yet their reluctant departure would bring an expressed conviction that Sri Yukteswar had shown precise insight into their specialized fields of knowledge.
+### MY GURU’S SEASIDE HERMITAGE AT PURI
+
+A steady stream of visitors poured from the world into the hermitage tranquillity. 
+
+A number of learned men came with the expectation of meeting an orthodox religionist. A supercilious smile or a glance of amused tolerance occasionally betrayed that the newcomers anticipated nothing more than a few pious platitudes. Yet their reluctant departure would bring an expressed conviction that Sri Yukteswar had shown precise insight into their specialized fields of knowledge.
 
 My guru always had young resident disciples in his hermitage. He directed their minds and lives with that careful discipline in which the word “disciple” is etymologically rooted.
 
@@ -56,17 +58,45 @@ My guru shook his head slowly. “You will understand it someday. Science will s
 
 When the wonders of radio burst some years later on an astounded world, I remembered Master’s prediction. Age-old concepts of time and space were annihilated; no peasant’s home so narrow that London or Calcutta could not enter! The dullest intelligence enlarged before indisputable proof of one aspect of man’s omnipresence.
 
-The “plot” of the cauliflower comedy can be best understood by a radio analogy. Sri Yukteswar was a perfect human radio. Thoughts are no more than very gentle vibrations moving in the ether. Just as a sensitized radio picks up a desired musical number out of thousands of other programs from every direction, so my guru had been able to catch the thought of the half-witted man who hankered for a cauliflower, out of the countless thoughts of broadcasting human wills in the world. 15-2 By his powerful will, Master was also a human broadcasting station, and had successfully directed the peasant to reverse his steps and go to a certain room for a single cauliflower.
+The “plot” of the cauliflower comedy can be best understood by a radio analogy. Sri Yukteswar was a perfect human radio. 
 
-Intuition 15-3 is soul guidance, appearing naturally in man during those instants when his mind is calm. Nearly everyone has had the experience of an inexplicably correct “hunch,” or has transferred his thoughts effectively to another person.
+Thoughts are no more than very gentle vibrations moving in the ether. 
 
-The human mind, free from the static of restlessness, can perform through its antenna of intuition all the functions of complicated radio mechanisms-sending and receiving thoughts, and tuning out undesirable ones. As the power of a radio depends on the amount of electrical current it can utilize, so the human radio is energized according to the power of will possessed by each individual.
+Just as a sensitized radio picks up a desired musical number out of thousands of other programs from every direction, so my guru had been able to catch the thought of the half-witted man who hankered for a cauliflower, out of the countless thoughts of broadcasting human wills in the world. 15-2 
 
-All thoughts vibrate eternally in the cosmos. By deep concentration, a master is able to detect the thoughts of any mind, living or dead. Thoughts are universally and not individually rooted; a truth cannot be created, but only perceived. The erroneous thoughts of man result from imperfections in his discernment. The goal of yoga science is to calm the mind, that without distortion it may mirror the divine vision in the universe.
+By his powerful will, Master was also a human broadcasting station. He and had successfully directed the peasant to reverse his steps and go to a certain room for a single cauliflower.
 
-Radio and television have brought the instantaneous sound and sight of remote persons to the firesides of millions: the first faint scientific intimations that man is an all-pervading spirit. Not a body confined to a point in space, but the vast soul, which the ego in most barbaric modes conspires in vain to cramp.
+Intuition 15-3 is soul guidance, appearing naturally in man during those instants when his mind is calm. 
 
-“Very strange, very wonderful, seemingly very improbable phenomena may yet appear which, when once established, will not astonish us more than we are now astonished at all that science has taught us during the last century,” Charles Robert Richet, Nobel Prizeman in physiology, has declared. “It is assumed that the phenomena which we now accept without surprise, do not excite our astonishment because they are understood. But this is not the case. If they do not surprise us it is not because they are understood, it is because they are familiar; for if that which is not understood ought to surprise us, we should be surprised at everything-the fall of a stone thrown into the air, the acorn which becomes an oak, mercury which expands when it is heated, iron attracted by a magnet, phosphorus which burns when it is rubbed. . . . The science of today is a light matter; the revolutions and evolutions which it will experience in a hundred thousand years will far exceed the most daring anticipations. The truths-those surprising, amazing, unforeseen truths-which our descendants will discover, are even now all around us, staring us in the eyes, so to speak, and yet we do not see them. But it is not enough to say that we do not see them; we do not wish to see them; for as soon as an unexpected and unfamiliar fact appears, we try to fit it into the framework of the commonplaces of acquired knowledge, and we are indignant that anyone should dare to experiment further.”
+Nearly everyone has had the experience of an inexplicably correct “hunch,” or has transferred his thoughts effectively to another person.
+
+The human mind, when free from the static of restlessness, can perform through its antenna of intuition all the functions of complicated radio mechanisms-sending and receiving thoughts, and tuning out undesirable ones.
+
+The power of a radio depends on the amount of electrical current it can utilize. Likewise, the human radio is energized according to the power of will possessed by each individual.
+
+All thoughts vibrate eternally in the cosmos. 
+
+By deep concentration, a master is able to detect the thoughts of any mind, living or dead.
+
+Thoughts are universally and not individually rooted. A truth cannot be created, but only perceived. 
+
+The erroneous thoughts of man result from imperfections in his discernment. 
+
+The goal of yoga science is to calm the mind so that without distortion it may mirror the divine vision in the universe.
+
+Radio and television have brought the instantaneous sound and sight of remote persons to millions.
+
+The first faint scientific intimations that man is an all-pervading spirit. Not a body confined to a point in space, but the vast soul, which the ego in most barbaric modes conspires in vain to cramp.
+
+
+Charles Robert Richet, Nobel Prizeman in physiology said:
+
+{{< r a="Charles Robert Richet" >}}
+Very strange, very wonderful, seemingly very improbable phenomena may yet appear which, when once established, will not astonish us more than we are now astonished at all that science has taught us during the last century. 
+
+It is assumed that the phenomena which we now accept without surprise, do not excite our astonishment because they are understood. But this is not the case. If they do not surprise us it is not because they are understood, it is because they are familiar; for if that which is not understood ought to surprise us, we should be surprised at everything-the fall of a stone thrown into the air, the acorn which becomes an oak, mercury which expands when it is heated, iron attracted by a magnet, phosphorus which burns when it is rubbed. . . . The science of today is a light matter; the revolutions and evolutions which it will experience in a hundred thousand years will far exceed the most daring anticipations. The truths-those surprising, amazing, unforeseen truths-which our descendants will discover, are even now all around us, staring us in the eyes, so to speak, and yet we do not see them. But it is not enough to say that we do not see them; we do not wish to see them; for as soon as an unexpected and unfamiliar fact appears, we try to fit it into the framework of the commonplaces of acquired knowledge, and we are indignant that anyone should dare to experiment further.
+{{< /r >}}
+
 
 A humorous occurrence took place a few days after I had been so implausibly robbed of a cauliflower. A certain kerosene lamp could not be found. Having so lately witnessed my guru’s omniscient insight, I thought he would demonstrate that it was child’s play to locate the lamp.
 
@@ -154,6 +184,10 @@ Sri Yukteswar’s welcoming voice rang out; I led the astonished visitors to the
 
 I followed him to his bedroom a half hour later, realizing fully that I was about to sleep beside a godlike guru.
 
+
+
+### Footnotes
+
 15-1: Puri, about 310 miles south of Calcutta, is a famous pilgrimage city for devotees of Krishna; his worship is celebrated there with two immense annual festivals, Snanayatra and Rathayatra .
 
 15-2: The 1939 discovery of a radio microscope revealed a new world of hitherto unknown rays. “Man himself as well as all kinds of supposedly inert matter constantly emits the rays that this instrument ‘sees,’” reported the Associated Press . “Those who believe in telepathy, second sight, and clairvoyance, have in this announcement the first scientific proof of the existence of invisible rays which really travel from one person to another. The radio device actually is a radio frequency spectroscope. It does the same thing for cool, nonglowing matter that the spectroscope does when it discloses the kinds of atoms that make the stars. . . . The existence of such rays coming from man and all living things has been suspected by scientists for many years. Today is the first experimental proof of their existence. The discovery shows that every atom and every molecule in nature is a continuous radio broadcasting station. . . . Thus even after death the substance that was a man continues to send out its delicate rays. The wave lengths of these rays range from shorter than anything now used in broadcasting to the longest kind of radio waves. The jumble of these rays is almost inconceivable. There are millions of them. A single very large molecule may give off 1,000,000 different wave lengths at the same time. The longer wave lengths of this sort travel with the ease and speed of radio waves. . . . There is one amazing difference between the new radio rays and familiar rays like light. This is the prolonged time, amounting to thousands of years, which these radio waves will keep on emitting from undisturbed matter.”
@@ -167,5 +201,3 @@ I followed him to his bedroom a half hour later, realizing fully that I was abou
 15-6: “He that planted the ear, shall he not hear? he that formed the eye, shall he not see? . . . he that teacheth man knowledge, shall he not know?”-Psalm 94:9-10.
 
 15-7: Folklore of all peoples contains references to incantations with power over nature. The American Indians are well-known to have developed sound rituals for rain and wind. Tan Sen, the great Hindu musician, was able to quench fire by the power of his song. Charles Kellogg, the California naturalist, gave a demonstration of the effect of tonal vibration on fire in 1926 before a group of New York firemen. “Passing a bow, like an enlarged violin bow, swiftly across an aluminum tuning fork, he produced a screech like intense radio static. Instantly the yellow gas flame, two feet high, leaping inside a hollow glass tube, subsided to a height of six inches and became a sputtering blue flare. Another attempt with the bow, and another screech of vibration, extinguished it.”
-
-

@@ -37,7 +37,7 @@ Even if we are unwilling? We would be fabricating falsehood against Enki if we r
 truth, for You are the Best of Deciders.” -->
 
 {{< r a="Disbelievers" >}}
-If you follow Shuaib, you will be losers.”
+If you follow Shuaib, you will be losers.
 {{< /r >}}
 
 <sup>91</sup> Then the quake struck them and they became lifeless bodies in their homes.
@@ -86,29 +86,55 @@ Thus Enki seals the hearts of the disbelievers.
 
 <sup>104</sup> Moses said:
 
-“O Pharaoh, I am a messenger from the Lord of the Worlds. <sup>105</sup> It is only proper that I should not say about Enki anything other than the truth. I have come to you with clear evidence from your Lord, so let the Jews go with me.”
 
-<sup>106</sup> He said, “If you brought a miracle, then present it, if you are truthful.”
+{{< l a="Moses" >}}
+O Pharaoh, I am a messenger from the Lord of the Worlds. <sup>105</sup> It is only proper that I should not say about Enki anything other than the truth. I have come to you with clear evidence from your Lord, so let the Jews go with me.
+{{< /l >}}
+
+{{< r a="Pharaoh" >}}
+<sup>106</sup> If you brought a miracle, then present it, if you are truthful.
+{{< /r >}}
+
 
 <sup>107</sup> So he threw his staff, and it was an apparent serpent.
 
 <sup>108</sup> He pulled out his hand, and it was white to the onlookers.
 
-<sup>109</sup> The notables among Pharaoh’s people said, “This is really a skilled magician.”
+<sup>109</sup> The notables among Pharaoh’s people said:
+
+{{< r a="People" >}}
+This is really a skilled magician.
+{{< /r >}}
+
 
 <sup>110</sup> “He wants to evict you from your land, so what do you recommend?”
 
-<sup>111</sup> They said: “Put him off, and his brother, and send heralds to the cities. <sup>112</sup> Let them bring you every skillful magician.”
+{{< r a="People" >}}
+<sup>111</sup> Put him off, and his brother, and send heralds to the cities. <sup>112</sup> Let them bring you every skillful magician.
+{{< /r >}}
+
 
 <sup>113</sup> The magicians came to Pharaoh, and said:
 
-“Surely there is a reward for us, if we are the victors.”
 
-<sup>114</sup> He said, “Yes, and you will be among my favorites.”
+{{< r a="Magicians" >}}
+Surely there is a reward for us, if we are the victors.
+{{< /r >}}
 
-<sup>115</sup> They said: “O Moses! Either you throw, or we are the ones to throw.”
+{{< r a="Pharaoh" >}}
+<sup>114</sup> Yes, and you will be among my favorites.
+{{< /r >}}
 
-He said, “You throw!”
+
+
+{{< r a="Magicians" >}}
+<sup>115</sup> O Moses! Either you throw, or we are the ones to throw.
+{{< /r >}}
+
+{{< l a="Moses" >}}
+You throw!
+{{< /l >}}
+
 
 When they threw, they beguiled the eyes of the people, and intimidated them, and produced a mighty magic.
 
@@ -120,22 +146,35 @@ At once, it swallowed what they were faking.
 
 <sup>119</sup> There they were defeated, and utterly reduced.
 
-<sup>120</sup> The magicians fell to their knees. They said:
+<sup>120</sup> The magicians fell to their knees.
 
-<sup>121-122</sup> “We have believed in the Lord of the Worlds, The Lord of Moses and Aaron.”
+{{< r a="Magicians" >}}
+<sup>121-122</sup> We have believed in the Lord of the Worlds, The Lord of Moses and Aaron.
+{{< /r >}}
+
 
 <sup>123-124</sup> Pharaoh said:
 
-“Did you believe in Him before I have given you permission? This is surely a conspiracy you schemed in the city, in order to expel its people from it. I will cut off your hands and your feet on opposite sides; then I will crucify you all.”
+{{< r a="Pharaoh" >}}
+Did you believe in Him before I have given you permission? This is surely a conspiracy you schemed in the city, in order to expel its people from it. I will cut off your hands and your feet on opposite sides; then I will crucify you all.
+{{< /r >}}
 
-<sup>125</sup> They said, “It is to our Lord that we will return.”
 
-<sup>126</sup> “You are taking vengeance on us only because we have believed in the signs of our
-Lord when they have come to us.” 
+{{< r a="Magicians" >}}
+<sup>125</sup> It is to our Lord that we will return. <sup>126</sup> “You are taking vengeance on us only because we have believed in the signs of our Lord when they have come to us. Our Lord! Pour out patience upon us, and receive our souls in submission.
+{{< /r >}}
 
-“Our Lord! Pour out patience upon us, and receive our souls in submission.”
 
-<sup>127</sup> The chiefs of Pharaoh's people said, “Will you let Moses and his people cause trouble in the land, and forsake you and your gods?” He said, “We will kill their sons, and spare their women. We have absolute power over them.”
+<sup>127</sup> The chiefs of Pharaoh's people said:
+
+{{< r a="Chiefs" >}}
+Will you let Moses and his people cause trouble in the land, and forsake you and your gods?
+{{< /r >}}
+
+{{< r a="Pharaoh" >}}
+We will kill their sons, and spare their women. We have absolute power over them.
+{{< /r >}}
+
 
 <sup>128</sup> Moses said to his people:
 

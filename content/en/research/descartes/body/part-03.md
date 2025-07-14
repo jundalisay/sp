@@ -19,58 +19,110 @@ The blood nourishes the body while it is in the arteries, rather than the veins.
 
 <!-- For although I do not wish to deny that,  -->
 
-While blood is flowing from the extremities of the veins to the heart, some of its parts pass through the pores in their surrounding membranes and become attached there. This happens particularly in the liver, which is nourished by the blood from the veins, because it receives almost none from the arteries
+While blood is flowing from the extremities of the veins to the heart, some of its particles pass through the pores in their surrounding membranes and become attached there. 
 
-But in all other cases where the veins are accompanied by arteries, the blood contained in these arteries, being finer and moved with a greater force than that in the veins, is very much more easily attached to other parts, without the thickness of their covering membranes hampering it.
+This happens particularly in the liver, which is nourished by the blood from the veins, because it receives almost none from the arteries.
+
+But in all other cases where the veins are accompanied by arteries, the blood in these arteries are finer and moved with a greater force than that in the veins.
+
+This makes them very much more easily attached to other particles, without the thickness of their covering membranes hampering it.
 
 This is because:
 - at their extremities their skins are hardly any thicker than those of the veins
 - when the blood coming from the heart inflates them, the pores in their skins are enlarged in the process. 
 
-And then the small parts of this blood, which have been separated from each other by the rarefaction that it has undergone in the heart, push these membranes forcefully from all sides, easily entering those pores of similar proportions, and go to strike the roots of the small filaments that make up the solid parts. 
+<!-- rarefaction -->
 
-Then, at the moment when the arteries deflate, these pores contract, and in the process several parts of the blood remain caught against the roots of the small filaments of the solid parts that they are nourishing (and several others flow away through the pores that surround them), and in this way they also enter into the composition of the body.
+The small particles of this blood are separated from each other by the decompression in the heart. This pushes these membranes forcefully from all sides. They easily enter those pores of similar proportions. They strike the roots of the small filaments that make up the solid particles. 
+
+These pores contract when the arteries deflate. In the process, several blood particles remain caught against the roots of the small filaments of the solid particles that they are nourishing (and several others flow away through the pores that surround them), and in this way they also enter into the composition of the body.
 
 <!-- But in order to understand this more distinctly, we must bear in mind that  -->
+
+
+
+## Ageing from the difference between fluids and solids
 
 The parts of animals and plants are maintained through nourishment and thus undergo continual change.
 
 <!-- The only difference between those that are called  -->
 
-Examples of ‘fluids’ are the blood, humours, and spirits.
-
-Examples of ‘solids’ are bone, flesh, nerves, and membranes.
+- Examples of ‘fluids’ are the blood, humours, and spirits.
+- Examples of ‘solids’ are bone, flesh, nerves, and membranes.
 
 The only difference between fluids and solids is that solids move much more slowly than the others.
 
+The solid particles of these corpuscles are made up exclusively of small filaments which stretch out and fold back.
 
-The solid parts of these corpuscles are made up exclusively of small filaments which stretch out and fold back. These are sometimes also intertwined, each emerging from somewhere on one of the branches of an artery.
+These are sometimes also intertwined, each emerging from somewhere on one of the branches of an artery.
 
-The fluid parts (i.e. the humours and the spirits) flowing along these filaments, through the spaces that are found around them, making up infinitely many small channels which have their source in the arteries, and usually flowing from the pores of those arteries closest to the root of the filaments along which they run.
-
-After following these filaments and various twists and turns in the body, they come finally to the surface of the skin, through the pores of which these humours and spirits evaporate into the air.
+The fluid parts (i.e. the humours and the spirits):
+- flow along these filaments, through the spaces around them.
+- make up infinitely many small channels which have their source in the arteries.
+- usually flow from the pores of those arteries closest to the root of the filaments along which they run.
+- come finally to the surface of the skin after following these filaments and various twists and turns in the body
+  - These humours and spirits then evaporate into the air through the pores of the skin.
 
 As well as these pores through which the humours and the spirits run, there are also many other narrower pores through which there continually passes matter of the first two elements, as described in my Principles of Philosophy.
 
-As the agitated matter of the first 2 elements encounters that of these humours and spirits, running along the filaments that make up the solid parts, they continually make the filaments move forward slightly, albeit very slowly.
+The fire-aether and air-aether run along the filaments of the solid particles. They encounter these humours and spirits and get agitated. 
 
-As a result, every part of the filaments runs from where it has its roots to the surface of the limb where they terminate, and when it reaches there it comes into contact with the air or other bodies touching the surface of the skin, and separates from it.
+This agitation continually makes the solid filaments move forward slightly, albeit very slowly.
 
-Thus there is always some part being separated from the end of each filament while at the same time another part is being attached to the root, in the manner already described. 
+As a result, every part of the filaments runs from where it has its roots to the surface of the limb where they terminate.
 
-But the separated part evaporates into the air if it emerges from the skin, whereas if it emerges from the surface of a muscle, or from some other internal part, it mixes with the fluid parts and flows with them wherever they go: some- times outside the body, and sometimes through the veins towards the heart, to which the fluid parts often return.
+When it reaches there, it comes into contact with the air or other bodies touching the surface of the skin, and separates from it.
 
-Hence it can be seen that all the parts of the filaments making up the solid parts of the body undergo a motion which is no different from that of the humours and spirits, only slower; similarly, the motion of the humours and spirits is slower than that of the most subtle matter.
+Thus, there is always some part being separated from the end of each filament while at the same time another part is being attached to the root.
 
-These differences in speed cause these various solid or fluid parts, in rubbing against one another, to become smaller or larger, and to behave in different ways depending on the particular constitution of each body. When one is young, for example, because the filaments that make up the solid parts are not joined to one another very firmly, and the channels along which they flow are quite large, the motion of these filaments is not as slow as when one is old, and more matter is attached to their roots than is detached from their extremities, which results in their becoming longer and stronger, and their increase in size is the means by which the body grows.
+<!-- , in the manner already described.  -->
 
-When the humours between these filaments do not flow in great quantity, they all pass quite quickly along the channels containing them, causing the body to grow taller without filling out.
+The separated particle evaporates into the air if it emerges from the skin.
 
-But when these humours are very abundant, they cannot flow so easily between the filaments of the solid parts, and in the case of those parts that have very irregular shapes, in the form of branches, and which consequently offer the most difficult passage of all between the filaments, they gradually become stuck there and form fat. 
+But it mixes with the fluid parts and flows with them wherever they go if it emerges from:
+- the surface of a muscle, or
+- some other internal part
 
-This does not grow in the body, as flesh does, through nourishment properly speaking, but only because many of its parts join together and stick to one another, just as do the parts of dead things.
+This makes them sometimes:
+- go outside the body, or
+- go through the veins towards the heart, to which the fluid parts often return.
 
-When the humours become less abundant, they flow more easily and more quickly, because the subtle matter and the spirits accompany- ing them have a greater force to agitate them, and this causes them little by little to pick up the parts of the fat and carry them along with them, which is how people become thin.
+Hence, all the parts of the filaments making up the solid parts of the body undergo a motion which is no different from that of the humours and spirits, only slower.
+
+Similarly, the motion of the humours and spirits is slower than that of the air-aether.
+
+ <!-- most subtle matter. -->
+
+These differences in speed cause these various solid or fluid parts, in rubbing against one another, to:
+- become smaller or larger
+- behave in different ways depending on the particular constitution of each body. 
+
+For example, when one is young:
+- the filaments that make up the solid parts are not joined to one another very firmly
+- the channels along which they flow are quite large
+
+This causes the motion of these filaments to be not as slow as when one is old.
+- More matter is attached to their roots than is detached from their extremities
+- This makes them become longer and stronger.
+- The body grows through their increase in size.
+
+When the humours between these filaments do not flow in great quantity, they all pass quite quickly along the channels containing them.
+- This causes the body to grow taller without filling out.
+
+
+But when these humours are very abundant, they cannot flow so easily between the filaments of the solid parts.
+
+Some parts have very irregular shapes as branches.
+- These offer the most difficult passage between the filaments.
+- These gradually cause the humours to become stuck there and form fat. 
+
+Fat does not grow in the body, as flesh does through nourishment.
+- They only grow because its parts join and stick together just as do the particles of dead things.
+
+When the humours become less abundant, they flow more easily and more quickly.
+- This is because the subtle matter and the spirits accompanying them have more force to agitate them.
+- This causes them little by little to pick up the fat particles and carry them with them.
+- This is how people become thin.
 
 And as we get older, the filaments making up the solid parts tighten and stick together more closely.
 
@@ -103,7 +155,9 @@ But their position in relation to the route of the blood through the arteries is
 
 And it is above all on their location that the production of animal spirits depends.
 
-All the blood that comes from the heart in the aorta is pushed in a straight line towards the brain. But it cannot all go there (because the branches of the aorta which extend this far, namely those called the ‘carotid’, are very narrow compared to the opening of the heart from whence they come), and only those of its parts which, being solid, are also the most active, and those most agitated by the heat of the heart, go there.
+All the blood that comes from the heart in the aorta is pushed in a straight line towards the brain. 
+
+But it cannot all go there (because the branches of the aorta which extend this far, namely those called the ‘carotid’, are very narrow compared to the opening of the heart from whence they come), and only those of its parts which, being solid, are also the most active, and those most agitated by the heat of the heart, go there.
 
 Because of this, they have a greater force than the others to follow their course to the brain. At the entry to the brain, in the small branches of these carotids, and also particularly in the gland that physicians have supposed only serves to receive the phlegm, those parts that are small enough to pass through the pores of this gland are filtered through, and these make up the animal spirits.
 

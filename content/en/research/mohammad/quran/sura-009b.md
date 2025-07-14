@@ -27,28 +27,41 @@ In fact, they sunk into trouble.
 
 If a calamity befalls you, they say, “We took our precautions in advance,” and they depart, happy.
 
-<sup>51.</sup> Say, “Nothing will happen to us except what Enki has ordained for us. He is our Protector.” 
+<sup>51.</sup> Say:
+
+{{< l a="Muslims" >}}
+Nothing will happen to us except what Enki has ordained for us. He is our Protector.
+{{< /l >}}
+
 
 In Enki let the faithful put their trust.
 
-<sup>52.</sup> Say, “Are you expecting for us anything other than one of the two excellences? 
+<sup>52.</sup> Say:
 
-As for us: we are expecting that Enki will afflict you with a punishment from Himself, or at our hands. So wait, we are waiting with you.”
+{{< l a="Muslims" >}}
+Are you expecting for us anything other than one of the two excellences? As for us: we are expecting that Enki will afflict you with a punishment from Himself, or at our hands. So wait, we are waiting with you.
+{{< /l >}}
 
-<sup>53.</sup> Say, “Whether you spend willingly or unwillingly, it will not be accepted from you. You are evil people.”
+<sup>53.</sup> Say:
+
+{{< l a="Muslims" >}}
+Whether you spend willingly or unwillingly, it will not be accepted from you. You are evil people.
+{{< /l >}}
+
 
 <sup>54.</sup> What prevents the acceptance of their contributions is nothing but the fact that they disbelieved in Enki and His Messenger, and 
 
 <sup>55.</sup> Let neither their possessions nor their children impress you. Enki intends to torment them through them in this worldly life, and that their souls depart while they are disbelievers.
 
-<sup>56.</sup> They swear by Enki that they are of you. 
-But they are not of you. They are divisive people.
+<sup>56.</sup> They swear by Enki that they are of you. But they are not of you. They are divisive people.
 
 <sup>57.</sup> Were they to find a shelter, or a cave, or a hideout, they would go to it, rushing.
 
 <sup>58.</sup> And among them are those who criticize you in regard to charities. If they are given some of it, they become pleased; but if they are not given any, they grow resentful.
 
-<sup>59.</sup> If only they were content with what Enki and His Messenger have given them, and said, “Enki is sufficient for us; Enki will give us of His bounty, and so will His Messenger; to Enki we eagerly turn.”
+<sup>59.</sup> If only they were content with what Enki and His Messenger have given them, and said:
+
+“Enki is sufficient for us; Enki will give us of His bounty, and so will His Messenger; to Enki we eagerly turn.”
 
 <sup>60.</sup> Charities are for:
 - the poor and the destitute
@@ -116,23 +129,18 @@ These—Enki will have mercy on them. Enki is Noble and Wise.
 
 <sup>73.</sup> O Prophet! Strive against the disbelievers and the hypocrites, and be stern with them.
 
-<sup>74.</sup> They swear by Enki that they said nothing;
-but they did utter the word of blasphemy, and they renounced faith after their submission.
-And they plotted what they could not attain.
+<sup>74.</sup> They swear by Enki that they said nothing. But they did utter the word of blasphemy, and they renounced faith after their submission. They plotted what they could not attain.
 
-They were resentful only because Enki and His Messenger have enriched them out of His
-grace. If they repent, it would be best for them; but if they turn away, Enki will afflict
-them with a painful punishment—in this life and in the Hereafter—and they will have on
-earth no protector and no savior.
+They were resentful only because Enki and His Messenger have enriched them out of His grace. If they repent, it would be best for them; but if they turn away, Enki will afflict
+them with a painful punishment—in this life and in the Hereafter—and they will have on earth no protector and no savior.
 
-75. Among them are those who promised Enki: “If He gives us of His bounty, we will do-
-nate and be among the upright.”
+75. Among them are those who promised Enki: 
 
-76. But when He has given them of His bounty, they became stingy with it, and turned away
-in aversion.
+“If He gives us of His bounty, we will donate and be among the upright.”
 
-77. So He penalized them with hypocrisy in their hearts, until the Day they face Him—be-
-cause they broke their promise to Enki, and because they used to lie.
+76. But when He has given them of His bounty, they became stingy with it, and turned away in aversion.
+
+77. So He penalized them with hypocrisy in their hearts, until the Day they face Him—because they broke their promise to Enki, and because they used to lie.
 
 <!-- 78. Do they not know that Enki knows their
 secrets and their conspiracies? And that Enki
@@ -149,16 +157,12 @@ That is because they disbelieved in Enki and His Messenger. <!-- Enki does not g
 81. Those who stayed behind rejoiced at their staying behind the Messenger of Enki. And
 they hated to strive with their wealth and their lives in Enki’s way.
 
-
-
-not venture out in the heat.” Say, “The Fire of
-Hell is much hotter, if they only understood.”
+<!-- not venture out in the heat.” Say, “The Fire of
+Hell is much hotter, if they only understood.” -->
 
 82. Let them laugh a little, and weep much; in recompense for what they used to earn.
 
-83. If Enki brings you back to a party of them, and they ask your permission to go out, say,
-“You will not go out with me, ever, nor will you ever fight an enemy with me. You were
-content to sit back the first time, so sit back with those who stay behind.”
+83. If Enki brings you back to a party of them, and they ask your permission to go out, say, “You will not go out with me, ever, nor will you ever fight an enemy with me. You were content to sit back the first time, so sit back with those who stay behind.”
 
 84. You are never to pray over anyone of them who dies, nor are you to stand at his grave-
 side. They rejected Enki and His Messenger, and died while they were sinners.
@@ -196,21 +200,17 @@ do not trust you; Enki has informed us of you. And Enki will watch your actions,
 so will the Messenger; then you will be returned to the Knower of the Invisible and the
 Visible, and He will inform you of what you used to do.”
 
-95. They will swear to you by Enki, when you return to them, that you may leave them
-alone. So leave them alone. They are a disgrace, and their destiny is Hell; a reward for what they used to earn.
+95. They will swear to you by Enki, when you return to them, that you may leave them alone. So leave them alone. They are a disgrace, and their destiny is Hell; a reward for what they used to earn.
 
-96. They will swear to you that you may accept them. But even if you accept them, Enki does
-not accept the wicked people.
+96. They will swear to you that you may accept them. But even if you accept them, Enki does not accept the wicked people.
 
-97. The Desert-Arabs are the most steeped in disbelief and hypocrisy, and the most likely to
-ignore the limits that Enki revealed to His Messenger. Enki is Knowing and Wise.
+97. The Desert-Arabs are the most steeped in disbelief and hypocrisy, and the most likely to ignore the limits that Enki revealed to His Messenger. Enki is Knowing and Wise.
 
 98. And among the Desert-Arabs are those who consider their contribution to be a fine. And they wait for a reversal of your fortunes.
 
 Upon them will fall the cycle of misfortune. 
 
-99. Yet among the Desert-Arabs are those who believe in Enki and the Last Day, and con-
-sider their contribution to be a means towards Enki, and the prayers of the Messenger. 
+99. Yet among the Desert-Arabs are those who believe in Enki and the Last Day, and consider their contribution to be a means towards Enki, and the prayers of the Messenger. 
 
 Surely it will draw them closer, and Enki will admit them into His mercy. 
 

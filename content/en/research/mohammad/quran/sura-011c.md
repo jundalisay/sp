@@ -7,61 +7,56 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-84. Shuaib said to his brothers the Median: 
+<sup>84</sup> Shuaib said to his brothers the Median: 
 
 {{< l a="Shuaib" >}}
-O my people, worship Enki. Do not short measure or short weight. I see you in good circumstances, but I fear for you the agony of
-an encompassing Day. 85. Give full measure and full weight, in all fairness. Do not cheat the people out of their rights. Do not spread corruption in the land. 86. What is left by Enki is best for you, if you are believers. I am not a guardian over you.
+O my people, worship Enki. Do not short measure or short weight. I see you in good circumstances, but I fear for you the agony of an encompassing Day. <sup>85</sup> Give full measure and full weight, in all fairness. Do not cheat the people out of their rights. Do not spread corruption in the land. 86. What is left by Enki is best for you, if you are believers. I am not a guardian over you.
 {{< /l >}}
 
 {{< r a="People" >}}
-87. O Shuaib, does your prayer command you that we abandon what our ancestors worshiped, or doing with our wealth what we want? You are the one who is intelligent and wise.
+<sup>87</sup> O Shuaib, does your prayer command you that we abandon what our ancestors worshiped, or doing with our wealth what we want? You are the one who is intelligent and wise.
 {{< /r >}}
 
 {{< l a="Shuaib" >}}
-88. What if I have clear evidence from my Lord, and He has given me good livelihood from Himself? I have no desire to do what I forbid you from doing. I desire nothing but reform, as far as I can. My success lies only with Enki. In Him I trust, and to Him I turn.”
-
-89. O my people, let not your hostility towards me cause you to suffer what was suffered by the people of Noah, or the people of
-Hud, or the people of Saleh. The people of Lot are not far away from you. 90. Ask your Lord for forgiveness, and repent to Him.
+<sup>88</sup> What if I have clear evidence from my Lord, and He has given me good livelihood from Himself? I have no desire to do what I forbid you from doing. I desire nothing but reform, as far as I can. My success lies only with Enki. In Him I trust, and to Him I turn.  <sup>89</sup> O my people, let not your hostility towards me cause you to suffer what was suffered by the people of Noah, or the people of Hud, or the people of Saleh. The people of Lot are not far away from you. <sup>90</sup> Ask your Lord for forgiveness, and repent to Him. 
 {{< /l >}}
 
 {{< r a="People" >}}
-91. O Shuaib, we do not understand much of what you say. We see that you are weak among us. Were it not for your tribe, we would have stoned you. You are of no value to us.
+<sup>91</sup> O Shuaib, we do not understand much of what you say. We see that you are weak among us. Were it not for your tribe, we would have stoned you. You are of no value to us.
 {{< /r >}}
 
 
 {{< l a="Shuaib" >}}
-92. O my people, is my tribe more important to you than Enki? Have you turned your backs on Him? 
-
-93. You will know to whom will come a punishment that will shame him, and who is a liar. So look out; I am on the lookout with you.
+<sup>92</sup> O my people, is my tribe more important to you than Enki? Have you turned your backs on Him? <sup>93</sup> You will know to whom will come a punishment that will shame him, and who is a liar. So look out; I am on the lookout with you.
 {{< /l >}}
 
-94. When Our command came, We saved Shuaib and those who believed with him. The Blast struck the wrongdoers, and they became motionless bodies in their homes.
+<sup>94</sup> When Our command came, We saved Shuaib and those who believed with him. The Blast struck the wrongdoers, and they became motionless bodies in their homes.
 
-95. As though they never flourished therein. Away with Median, as was done away with Thamood.
+<sup>95</sup> As though they never flourished therein. Away with Median, as was done away with Thamood.
 
-96. We sent Moses with Our signs and a clear mandate 97. to Pharaoh and his nobles. But they followed the command of Pharaoh which was not wise.
+<sup>96</sup> We sent Moses with Our signs and a clear mandate 97. to Pharaoh and his nobles. But they followed the command of Pharaoh which was not wise.
 
-98. He will precede his people on the Day of Resurrection, and will lead them into the Fire.
+<sup>98</sup> He will precede his people on the Day of Resurrection, and will lead them into the Fire.
 
 <!-- 99. They were followed by a curse in this, and on the Day of Resurrection. Miserable is the
 path they followed. -->
 
-100. These are of the reports of the towns. Some are still standing, some have withered away.
+<sup>100</sup> These are of the reports of the towns. Some are still standing, some have withered away.
 
-101. We did not wrong them, but they wronged themselves. 
+<sup>101</sup> We did not wrong them, but they wronged themselves. 
 
 Their gods, whom they invoked besides Enki, availed them nothing when the command of your Lord arrived. In fact, they added only to their ruin.
 
-102. Such is the grip of your Lord when He seizes the towns in the midst of their sins. His grip is most painful, most severe.
 
-103. In that is a sign for whoever fears the punishment of the Hereafter. That is a Day for which humanity will be gathered together— that is a Day to be witnessed.
+<sup>102</sup> Such is the grip of your Lord when He seizes the towns in the midst of their sins. His grip is most painful, most severe.
 
-104. We only postpone it until a predetermined time.
+<sup>103</sup> In that is a sign for whoever fears the punishment of the Hereafter. That is a Day for which humanity will be gathered together— that is a Day to be witnessed.
+
+<sup>104</sup> We only postpone it until a predetermined time.
 
 On the Day when it arrives, no soul will speak without His permission. Some will be miserable, and some will be happy.
 
-106. As for those who are miserable, they will be in the Fire. They will have therein sighing and wailing.
+<sup>106</sup> As for those who are miserable, they will be in the Fire. They will have therein sighing and wailing.
 
 107. Remaining therein for as long as the heavens and the earth endure, except as your Lord wills. Your Lord is Doer of whatever He wills.
 
@@ -103,7 +98,7 @@ But the wrongdoers pursued the luxuries they were indulged in, and thus became g
 
 120. Everything We narrate to you of the history of the messengers is to strengthen your heart. <!-- The truth has come to you in this, and a lesson, and a reminder for the believers. -->
 
-121-122. Tell the disbelievers: 
+<sup>121-122</sup> Tell the disbelievers: 
 
 {{< l a="Muslims" >}}
 Act according to your ability; and so will we. Wait, and we too are waiting.

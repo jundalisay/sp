@@ -8,14 +8,23 @@ c: "deeppink"
 ---
 
 
-When writing the first edition of the Chronic Diseases, I was not as yet acquainted with Autenrioth's Versuche fuer die prakt. Heilkunde aus den Klinishen Anstalten von Tubingen, 1808. But I saw on examining the work, that what he says about diseases following the driving away of itch through local applications is only a confirmation of what I had already found with the other hundred writers.
+When writing the first edition of the Chronic Diseases, I was not as yet acquainted with Autenrioth's Versuche fuer die prakt. Heilkunde aus den Klinishen Anstalten von Tubingen, 1808. 
 
-He also had observed that the external driving away of itch was followed by ulcers on the feet, pulmonary consumption, hysterical chlorosis, with various menstrual irregularities; white swelling of the knee, dropsy of the joints, epilepsy, amaurosis, with obscured cornea; glaucoma with complete amaurosis; mental derangement, paralysis, apoplexy and curvature of the neck; these he erroneously attributed to the ointments alone.
+What  he says about diseases following the driving away of itch through local applications confirms what I found with the other hundred writers.
 
-But his own slow local driving away of the eruption by means of sulphuret of potash and soft soap, which he in vain calls healing it, is in no way better. Just as if his treatment were anything else than a local driving away of the eruption from the skin! Of any true cure he knows just as little as the other Allopaths, for he writes: "It is, of course, absurd to endeavor to cure itch (scab) by internal remedies." No! it is not only absurd, but even wretched to undertake to cure an internal itch-disease which cannot be cured by any local application, through any but internal means, which alone can cure the disease thoroughly and with certainty.
+He also had observed that:
+- the external driving away of itch was followed by ulcers on the feet, pulmonary consumption, hysterical chlorosis, with various menstrual irregularities; 
+- white swelling of the knee, dropsy of the joints, epilepsy, amaurosis, with obscured cornea; 
+- glaucoma with complete amaurosis; mental derangement, paralysis, apoplexy and curvature of the neck; these he erroneously attributed to the ointments alone.
+
+
+But his own slow local driving away of the eruption by means of sulphuret of potash and soft soap, which he in vain calls healing it, is in no way better. Just as if his treatment were anything else than a local driving away of the eruption from the skin! Of any true cure he knows just as little as the other Allopaths.
+
+He writes: "It is, of course, absurd to endeavor to cure itch (scab) by internal remedies." No! it is not only absurd, but even wretched to undertake to cure an internal itch-disease which cannot be cured by any local application, through any but internal means, which alone can cure the disease thoroughly and with certainty.
+
 
 {{< box >}}
-* A pregnant Jewess had the itch on her hands and drove it away in the eighth month of her pregnancy so that it might not be seen during the period of her delivery. Three days afterwards she was delivered and the lochial discharge did not appear and she was seized with a high fever; since that time for seven years she had been sterile and had suffered from leucorrhcea Then she became poor and had to walk a great distance barefooted; hereupon the itch again appeared and she thus lost her leucorrhoea and her other hysteric affections; she became again pregnant and was safely delivered. (Juncker, ibid.)
+* A pregnant Jewess had the itch on her hands and drove it away in the 8th month of her pregnancy so that it might not be seen during the period of her delivery. Three days afterwards she was delivered and the lochial discharge did not appear and she was seized with a high fever; since that time for seven years she had been sterile and had suffered from leucorrhcea Then she became poor and had to walk a great distance barefooted; hereupon the itch again appeared and she thus lost her leucorrhoea and her other hysteric affections; she became again pregnant and was safely delivered. (Juncker, ibid.)
 {{< /box >}}
 
 

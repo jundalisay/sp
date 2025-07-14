@@ -121,5 +121,3 @@ This is because the blood of those with 2 ventricles have already been heated an
 Although this blood re-cools and condenses in the lung, nevertheless, because it remains there for a short time, and because it does not mix with any grosser matter there, it retains an ability to dilate and reheat better than that which it had before it entered the heart. 
 
 Similarly, experience shows that oils that have been made to pass several times through a distillation flask are much easier to distil the second time than the first.
-
-

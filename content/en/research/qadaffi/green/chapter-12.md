@@ -12,15 +12,11 @@ The freedom of a human being is lacking if his or her needs are controlled by ot
 
 ## Chapter 13: Housing
 
-Housing is an essential need for both the individual and the
-family and should not be owned by others. Living in another’s
-house, whether paying rent or not, compromises freedom. Attempts made by various countries to solve the housing problem
-did not provide a definite solution because such attempts did
-not target the ultimate solution – the necessity that people own
-their dwellings – but rather offered the reduction, increase, or
-standardization of rent, whether it went to privately or publiclyowned enterprise. In a socialist society, no one, including society itself, has the right to control people’s needs. No one has the
-right to acquire a house additional to his or her own dwelling
-and that of his or her heirs for the purpose of renting it because this additional house is, in fact, a need of someone else.
+Housing is an essential need for both the individual and the family and should not be owned by others. 
+
+Living in another’s house, whether paying rent or not, compromises freedom. Attempts made by various countries to solve the housing problem did not provide a definite solution because such attempts did not target the ultimate solution – the necessity that people own their dwellings – but rather offered the reduction, increase, or standardization of rent, whether it went to privately or publiclyowned enterprise. In a socialist society, no one, including society itself, has the right to control people’s needs. 
+
+No one has the right to acquire a house additional to his or her own dwelling and that of his or her heirs for the purpose of renting it because this additional house is, in fact, a need of someone else.
 
 Acquiring it for such a purpose is the beginning of controlling the needs of others, and “in need freedom is latent”.
 
@@ -71,3 +67,4 @@ No one has the right to undertake an economic activity whereby wealth exceeding 
 One only has the right to save from his own production and not by employing others, or to save at the expense of his or her own needs and not of others.
 
 If economic activity is allowed to extend beyond the satisfaction of needs, some will acquire more than required for their needs while others will be deprived. The savings which are in excess of one’s needs are another person’s share of the wealth of society. Allowing private economic activity to amass wealth beyond the satisfaction of one’s needs and employing others to satisfy one’s needs or beyond, or to secure savings, is the very essence of exploitation.
+

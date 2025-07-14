@@ -43,22 +43,8 @@ The campaign:
 - energised Pakistan's urban society
 - supported a secular principle in the midst of militancy. 
 
-<!-- Those who had long argued that the
-quintessence of Pakistan was its silent but moderate majority could point to
-this movement and its goals as the latest testimony. 
 
-This coalition also
-signified another new phenomenon: professional associations and civil society organisations being able to offer different paths to political engagement and activism outside the framework of traditional political parties and electoral politics. -->
-
-### Continuity and Change in the Post-Musharraf Democratic Era
-
-<!-- What does this portend for the future? Can the dynamics set off by
-the extraordinary developments of 2007-08 begin to break the rigid
-traditional mould of politics that has often hindered rather than helped
-governance? Can the more active role played by the urban middle class in
-an environment transformed by the effects of globalisation lead to a
-significant change in the country's politics and professionalise
-governance? -->
+## Continuity and Change in the Post-Musharraf Democratic Era
 
 The post-2008 showed that politics stays the same.
 
@@ -167,7 +153,7 @@ Another consequence could be to provoke a nationalist backlash that might make f
 
 There are 5 possible scenarios.
 
-#### 1. Muddling through
+### 1. Muddling through
 
 This means more of the same, with politics stuck in a traditional groove.
 
@@ -190,7 +176,7 @@ This is because:
 
 
 
-#### 2. Military-backed civilian technocratic rule. 
+### 2. Military-backed civilian technocratic rule. 
 
 <!-- But the past record of such an arrangement has already exposed its sharp limits in terms of both legitimacy and performance, so this is unlikely to yield outcomes different from previous ones. 
 
@@ -201,7 +187,7 @@ Such an arrangement is temporarily able to halt the national slide, it is unable
 The political alignments in this scenario will so closely mirror that in the muddling through model that it will be unable to overcome traditional clientele politics and therefore impede rather than foster the modernisation of governance.
 
 
-#### 3. Social breakdown under the weight of a systemic crisis.
+### 3. Social breakdown under the weight of a systemic crisis.
 
 This is frequently peddled by outsiders as state collapse followed by a takeover by Islamic extremists. 
 
@@ -217,7 +203,7 @@ capacity to take over the state even if they can cause large-scale disruption.
 The state's ability to reassert its authority has been demonstrated by these actions. -->
 
 
-#### 4. The established parties adjust to socio-economic changes by turning to issue-based politics and evolve into modern political organisations
+### 4. The established parties adjust to socio-economic changes by turning to issue-based politics and evolve into modern political organisations
 
 Sharif's urban-based Muslim League is better positioned to do this.
 
@@ -226,11 +212,8 @@ But the party is:
 - has a mercantile base of urban support
 - built around clientelist networks of local influentials, and clan or business dynasties.
 
-<!-- Nevertheless, Pakistan's existing political parties can, in theory reinvent themselves by tapping the new aspirations of people empowered by social and economic changes. At the very least this means changing their ticketing policies to induct members of the middle class including professionals and giving them a role at the highest levels of party leadership. It also means adopting platforms aligned with the demands of citizens for efficient and
-purposeful governance. -->
 
-
-#### 5. A middle class-led coalition spearheading an agenda of reform that aims to make governance more effective, accountable, and responsive
+### 5. A middle class-led coalition spearheading an agenda of reform that aims to make governance more effective, accountable, and responsive
 
 The elements of such a coalition were foreshadowed in the lawyers-led movement of 2007-09.
 

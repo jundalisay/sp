@@ -11,7 +11,7 @@ writer:
 ---
 
 
-THe benefits of knowing oneself extends to morals and medicine.
+The benefits of knowing oneself extends to morals and medicine.
 
 If we study the nature of our body, we can find very many reliable precepts in medicine for:
 - preventing and curing illness

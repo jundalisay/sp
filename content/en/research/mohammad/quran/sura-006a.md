@@ -29,12 +29,12 @@ We had established them on earth more firmly than We established you, and We sen
 
 But We destroyed them for their sins, and established other civilizations after them.
 
-<sup>7</sup> Had We sent down upon you a book on paper, and they had touched it with their hands,
-those who disbelieve would have said, “This is nothing but plain magic.”
+<sup>7</sup> Had We sent down upon you a book on paper, and they had touched it with their hands, those who disbelieve would have said:
 
-<sup>8</sup> They say:
+{{< r a="Disbelievers" >}}
+This is nothing but plain magic. <sup>8</sup> Why was an angel not sent down to him.
+{{< /r >}}
 
-“Why was an angel not sent down to him.” 
 
 Had We sent down an angel, the matter would have been settled, and they would not have been reprieved.
 
@@ -42,7 +42,12 @@ Had We sent down an angel, the matter would have been settled, and they would no
 
 {{< s v="10" >}}  Messengers before you were ridiculed, but those who mocked them became besieged by what they ridiculed.
 
-{{< s v="11" >}}  Say, “Travel the earth and observe the final fate of the deniers.”
+{{< s v="11" >}}  Say:
+
+{{< l a="Muslims" >}}
+Travel the earth and observe the final fate of the deniers.
+{{< /l >}}
+
 
 <!-- 12. Say, “To whom belongs what is in the heav-
 ens and the earth?” Say, “To Enki.” He has
@@ -68,13 +73,10 @@ you with good—He is Capable of everything.
 
 <sup>19</sup> Say:
 
-“What thing is more solemn in testimony? Enki is Witness between you and me. 
+{{< l a="Muslims" >}}
+What thing is more solemn in testimony? Enki is Witness between you and me. This Quran was revealed to me, that I may warn you with it, and whomever it may reach. Do you indeed testify that there are other gods with Enki? I myself do not testify. He is but One God, and I am innocent of your idolatry.
+{{< /l >}}
 
-This Quran was revealed to me, that I may warn you with it, and whomever it may reach. Do you indeed testify that there are other gods with Enki?” 
-
-Say, “I myself do not testify.” 
-
-Say, “He is but One God, and I am innocent of your idolatry.”
 
 <sup>20</sup> Those to whom We have given the Book recognize it as they recognize their own children. 
 
@@ -90,36 +92,60 @@ The wrongdoers will not succeed.
 
 <sup>24</sup> Look how they lied to themselves. And what they invented deserted them.
 
-<sup>25</sup> Among them are those who listen to you; but We place covers over their hearts, to prevent them from understanding it, and heaviness in their ears. 
+<sup>25</sup> Among them are those who listen to you. But We place covers over their hearts, to prevent them from understanding it, and heaviness in their ears. 
 
-Even if they see every sign, they will not believe in it. Until, when they come to you, to argue with you, those who disbelieve will say, “These are nothing but myths of the ancients.”
+Even if they see every sign, they will not believe in it. Until, when they come to you, to argue with you, those who disbelieve will say:
+
+{{< r a="Disbelievers" >}}
+These are nothing but myths of the ancients.
+{{< /r >}}
+
 
 <sup>26</sup> They keep others from it, and avoid it themselves. But they ruin only their own souls, and they do not realize.
 
 <sup>27</sup> If only you could see, when they are made to stand before the Fire; they will say:
 
-“If only we could be sent back, and not reject the revelations of our Lord, and be among the faithful.”
+{{< r a="Disbelievers" >}}
+If only we could be sent back, and not reject the revelations of our Lord, and be among the faithful.
+{{< /r >}}
 
-<sup>28</sup> What they used to conceal before will become clear to them. And even if they were sent back, they would revert to what they were forbidden. They are liars.
+
+<sup>28</sup> What they used to conceal before will become clear to them. Even if they were sent back, they would revert to what they were forbidden. They are liars.
 
 <sup>29</sup> They say: 
 
-“There is nothing but our life in this world, and we will not be resurrected.”
+{{< r a="Disbelievers" >}}
+There is nothing but our life in this world, and we will not be resurrected.
+{{< /r >}}
 
-<sup>30</sup> If only you could see, when they are stationed before their Lord. 
 
-He will say, “Is this not real?” 
+<sup>30</sup> If only you could see, when they are stationed before their Lord. He will say:
 
-They will say, “Yes indeed, by our Lord.” He will say, “Then taste the torment for having disbelieved.”
+{{< l a="Enki" >}}
+Is this not real?
+{{< /l >}}
+
+{{< r a="Disbelievers" >}}
+Yes, by our Lord.
+{{< /r >}}
+
+{{< l a="Enki" >}}
+Then taste the torment for having disbelieved.
+{{< /l >}}
+
 
 <sup>31</sup> Losers are those who deny the encounter with Enki.
 
-Then, when the Hour comes upon them suddenly, they will say, “Alas for us, how we have neglected it.” 
+Then, when the Hour comes upon them suddenly, they will say:
+
+{{< r a="Disbelievers" >}}
+Alas for us, how we have neglected it.
+{{< /r >}}
+
 
 They will carry their burdens on their backs—evil is what they carry.
 
-<sup>32</sup> The life of this world is nothing but game and distraction. 
-- But the Home of the Hereafter is better for those who are righteous.<!--  Do you not understand? -->
+<sup>32</sup> The life of this world is nothing but game and distraction. But the Home of the Hereafter is better for those who are righteous.<!--  Do you not understand? -->
 
 <sup>33</sup> We know that what they say grieves you. It is not you they reject, but it is Enki's revelations that the wicked deny.
 
@@ -135,8 +161,17 @@ Had Enki willed, He could have gathered them to guidance. So do not be of the ig
 
 <sup>36</sup> Only those who listen will respond. As for the dead, Enki will resurrect them; then to Him they will be returned.
 
-<sup>37</sup> They say: “If only a sign could come down to him from his Lord.” Say, “Enki is
-Able to send down a sign, but most of them do not know.”
+<sup>37</sup> They say: 
+
+“If only a sign could come down to him from his Lord.” 
+
+
+Say:
+
+{{< l a="Muslims" >}}
+Enki is Able to send down a sign, but most of them do not know.
+{{< /l >}}
+
 
 <sup>38</sup> There is no animal on land, nor a bird flying with its wings, but are communities like you. We neglected nothing in the Scripture.
 
@@ -178,36 +213,49 @@ Lord of the Worlds. -->
 
 <sup>46</sup> Say:
 
-“Have you considered? If Enki took away your hearing and your sight, and set a seal on your hearts, what god other than Enki would restore them to you?” 
+{{< l a="Muslims" >}}
+Have you considered? If Enki took away your hearing and your sight, and set a seal on your hearts, what god other than Enki would restore them to you?
+{{< /l >}}
+
 
 Note how We explain the revelations in various ways, yet they still turn away.
 
 <sup>47</sup> Say:
 
-“Have you considered? if Enki's punishment descended on you suddenly or gradually, would any be destroyed except the wrongdoing people?”
+{{< l a="Muslims" >}}
+Have you considered? if Enki's punishment descended on you suddenly or gradually, would any be destroyed except the wrongdoing people?
+{{< /l >}}
+
 
 <sup>48</sup> We sent the messengers only as bearers of good news and as warners. Those who believe and reform have nothing to fear, nor shall they grieve.
 
 <sup>49</sup> But as for those who reject Our revelations, torment will afflict them because of their defiance.
 
-<sup>50</sup> Say, “I do not say to you that I possess the treasuries of Enki, nor do I know the future, nor do I say to you that I am an angel. I only follow what is inspired to me.” 
+<sup>50</sup> Say:
 
-Say: “Are the blind and the seeing alike? Do you not think?”
+{{< l a="Muslims" >}}
+I do not say to you that I possess the treasuries of Enki, nor do I know the future, nor do I say to you that I am an angel. I only follow what is inspired to me. Are the blind and the seeing alike? Do you not think?
+{{< /l >}}
+
 
 <sup>51</sup> Warn with it those who fear to be gathered before their Lord—they have no protector or intercessor apart from him—perhaps they will grow in piety.
 
-<sup>52</sup> Do not drive away those who call upon their Lord, morning and evening, seeking His
-attention. 
+<sup>52</sup> Do not drive away those who call upon their Lord, morning and evening, seeking His attention. 
 
-You are not accountable for them in any way, nor are they accountable for you
-in any way. 
+You are not accountable for them in any way, nor are they accountable for you in any way. 
 
 If you drive them away, you would be one of the unjust.
 
-<sup>53</sup> Thus We try some of them by means of others, that they may say, “Are these the ones
-whom Enki has favored from among us?” Is Enki not aware of the appreciative?
+<sup>53</sup> Thus We try some of them by means of others, that they may say:
 
-<sup>54</sup> When those who believe in Our revelations come to you, say, “Peace be upon you, your Lord has prescribed mercy for Himself. 
+“Are these the ones whom Enki has favored from among us?” Is Enki not aware of the appreciative?
+
+<sup>54</sup> When those who believe in Our revelations come to you, say:
+
+{{< l a="Muslims" >}}
+Peace be upon you, your Lord has prescribed mercy for Himself.
+{{< /l >}}
+
 
 Whoever among you does wrong out of ignorance, and then repents afterwards and reforms.
 

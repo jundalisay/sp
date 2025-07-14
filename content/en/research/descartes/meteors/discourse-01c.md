@@ -11,6 +11,8 @@ icon: "Rene Descartes"
 ---
 
 
+## Mpemba effect
+
 Water is composed of long and smooth earth-aether particles. Most of them:
 - **bend** when the fire-aether around them has more force than usual
 - **stay rigid** when the fire-aether around them has less force than usual.*
@@ -29,10 +31,13 @@ This is why they, as ice, occupy more space. It is because the fire-aether is no
 
 <!-- When the fire-aether is stronger than necessary for this purpose, it again causes them to extend into more space.  -->
 
-This can be observed by filling a flask that has a long and narrow neck with hot water then exposing it to the air when it freezes. The water will visibly drop little by little until it reaches a certain degree of coldness. Then it will swell and rise little by little until it is completely frozen.
+This can be observed by filling a flask that has a long and narrow neck with hot water then exposing it to the air when it freezes. 
+
+The water will visibly drop little by little until it reaches a certain degree of coldness. Then it will swell and rise little by little until it is completely frozen.
 
 <!-- rarefy -->
 Thus, the same cold that condensed or contracted it at first will later decompress it. 
+
 
 Water that has been kept on the fire for a long time freezes more quickly than other water. **This is because its most non-rigid particles have already evaporated, leaving only the rigid ones.**
 
@@ -41,7 +46,8 @@ Water that has been kept on the fire for a long time freezes more quickly than o
 
 <!-- But to make these suppositions easier for you to accept, know that I do not conceive of  -->
 
-### Descartes Elementary Theory (Anti-Atoms)
+
+## Descartes Elementary Theory (Anti-Atoms)
 
 The small parts of terrestrial bodies are not made up of atoms or indivisible particles.
 

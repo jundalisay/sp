@@ -23,11 +23,18 @@ Father and I, in gala spirits, were planning to join the family in time for the 
 
 It was in Bareilly on a midnight. As I slept beside Father on the piazza of our bungalow, I was awakened by a peculiar flutter of the mosquito netting over the bed. The flimsy curtains parted and I saw the beloved form of my mother.
 
-“Awaken your father!” Her voice was only a whisper. “Take the first available train, at four o’clock this morning. Rush to Calcutta if you would see me!” The wraithlike figure vanished.
+
+{{< r a="Mother" >}}
+Awaken your father! Take the first available train, at four o’clock this morning. Rush to Calcutta if you would see me!
+{{< /r >}}
+
 
 “Father, Father! Mother is dying!” The terror in my tone aroused him instantly. I sobbed out the fatal tidings.
 
-“Never mind that hallucination of yours.” Father gave his characteristic negation to a new situation. “Your mother is in excellent health. If we get any bad news, we shall leave tomorrow.”
+
+“Never mind that hallucination of yours.” 
+
+Father gave his characteristic negation to a new situation. “Your mother is in excellent health. If we get any bad news, we shall leave tomorrow.”
 
 “You shall never forgive yourself for not starting now!” Anguish caused me to add bitterly, “Nor shall I ever forgive you!”
 
@@ -131,5 +138,3 @@ But the small boy, thwarted in his attempts to reach the Himalayas, daily travel
 2-4: When I discovered by these words that Mother had possessed secret knowledge of a short life, I understood for the first time why she had been insistent on hastening the plans for Ananta’s marriage. Though she died before the wedding, her natural maternal wish had been to witness the rites.
 
 2-5: A customary gesture of respect to sadhus .
-
-
