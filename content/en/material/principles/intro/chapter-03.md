@@ -69,6 +69,10 @@ Therfore, everything in the universe is either a Medium or a Substance.
 - **Substance** is the discrete identity that reacts to the force.
 - **Quantum** is the smallest perceivable unit of Substance. This contains the gravitational signature. 
 
+We can say that:
+- media are force particles
+- susbstances and quanta are non-force particles
+
 
 ### The 5 Elements
 
@@ -124,7 +128,7 @@ Leptons | Radiant-Convertible
 
 <!-- All forces such as gravity, electromagnetism, contact forces are manifestations of the 2 Forces, which are aethereal in nature. -->
 
-Instead of unsystemic names such as gluons, quarks, electrons, we use acronyms that show an identity's place in the model.
+Instead of unsystemic arbitrary names such as gluons, quarks, electrons, we use acronyms that show an identity's place in the model.
 
 Physics Particle | Superphysics Particle
 --- | ---

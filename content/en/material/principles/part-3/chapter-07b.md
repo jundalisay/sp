@@ -23,6 +23,9 @@ This led to Faraday's Law of Induction. His idea was that the movement caused a 
 This flux then caused an electromotive force (EMF) which then created the electricity.
 - The EMF increases when the flux decreases and vice versa.
 
+In Cartesian Physics:
+- the EMF would be the ingress force that produces the electron vortex. 
+- the Lorentz Force would be the egress force that produces a magnetic field.
 
 {{< i s="/graphics/physics/faraday.jpg" a="Faraday" >}}
 
@@ -32,9 +35,11 @@ The flaw with Faraday was that he did not know that magnetism is caused by virtu
 - The concept of virtual photons are from Feynman in the 1940s via QED
 
 
+
 Cartesian Physics explains that electromagnetism is caused by channels whether by matter (Material Layer or 3rd Element) or by electrons (Radiant Layer or 1st Element).
-- Electromagnetism from electrons happens when electrons line up to create a channel. 
-- Electrons line up when they flow, just like water in a plastic bottle lines up as a stream when you bore a hole at the bottom of the bottle. 
+- Magnetism is caused by virtual photons going through material channels
+- Electromagnetism is caused by virtual photons going through channels formed by electrons.
+  - Electrons line up when they flow, just like water in a plastic bottle lines up as a stream when you bore a hole at the bottom of the bottle. 
 
 When a wire is at rest in a magnetic field, its electrons do not flow and so there is no channel.
 
@@ -49,11 +54,12 @@ Faraday's ignorance of virtual photons and channels led to Faraday's Paradox, wh
 
 Physics concept | Cartesian equivalent
 --- | ---
-flux | channels
+flux | vortex
 charge | entrance or exit of channel
 divergence | vortex direction flow of virtual photons in or out
 curl | vortex rotational flow of virtual photons clockwise or anticlockwise
-electromotive force | flow of electrons from abundance to lack
+electromotive force | the ingress force that produces the electron vortex 
+Lorentz Force | the egress force that produces a magnetic field
 
 
 ## The Ignorance of Maxwell Allows the Scam of Relativity

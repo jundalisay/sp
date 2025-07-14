@@ -27,6 +27,8 @@ The electric flux through a closed surface is proportional to the total charge e
 𝜵ꞏD = Pv
 ```
 
+
+
 ### Equation 2
 
 Gauss's Law with Magnetic Flux

@@ -12,7 +12,9 @@ icon: "Juan"
 ---
 
 
-All forces are called media and all non-forces are called substances. 
+Chapter 3 explained that force particles are spinning bolts. 
+
+It follows that non force particles are   are called media and all non-forces are called substances. 
 
 The media represent the different forms of the perpetually dynamic Positive and Negative Forces where they originate from.  
 

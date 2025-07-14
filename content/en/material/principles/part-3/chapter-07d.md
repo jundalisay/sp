@@ -112,5 +112,3 @@ https://youtu.be/AWVgF4zlvdM -->
 Does a rock care about any reference? No it doesn't. Only humans do.
 
 "Frame" is a property the space-and-time family of phenomena. A frame (as a cartesian plane) has spatial dimensions length and width. -->
-
-

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 8"
-title: "Male and Female Charges"
+title: "Male and Female Polarity Instead of Charges"
 date: 2024-12-28
 image: /graphics/physics/atomcharges.jpg
 description: "We replace negative and positive charnges with Male and Female, as the duality of the Radiant Layer"
@@ -16,7 +16,37 @@ aliases:
 
 
 
-Chapter 3 explained that Radiant force particles have 2 motions:
+Chapter 3 explained that magnetism is caused by virtual photons entering and exiting channels in matter or electrons. 
+
+- The exit of a channel **attracts** the entrance of another channel by facilitating the continuous flow of particles
+- The exit of a channel **repels** the exit of another channel by the collision of the exiting particles
+
+
+## Macro and Micro Channels from Male and Female Poles
+
+In magnets, Physics calls:
+- the entrance as the South Pole
+- the exit as the North Pole
+
+Such channels are caused by the matter having rigid, straight channels. We can call this macro or classical channels.
+
+However, subatomic particles also experience electromagnetism. This means that they have channels within them.  
+
+In particles:
+- the presence of channels is called the negative charge
+- the lack of channels is called the positive charge
+
+We replace charges with male and female polarity.
+
+- North Pole is replaced by Male Pole
+- South Pole is replaced by Female Pole
+- Negative Charge is replaced by the presence or richness of Males
+- Positive Charge is replaced by the absence or poverty of Males
+
+{{< n n="The setting of electrons are negatively charged came from [Benjamin Franklin](https://whyy.org/articles/does-our-confusing-electrical-nomenclature-start-with-ben-franklins-theory)" >}}
+
+
+<!-- Early Physics had no concept of virtual particles and so Benjamin Franklin  
 
 1. A rotation motion "sideways"
 
@@ -32,27 +62,21 @@ This represents the duality or polarization of the Radiant Layer, as the express
 Vortex | Polarity
 --- | ---
 Vortex or Spin Direction | Negative (Male) and Positive (Female) Charge
-Vortex or Spin Orientation | Up and Down
+Vortex or Spin Orientation | Up and Down -->
 
 
 <!-- Integer Spin and Half-Integer Spin  -->
 
 
-## Spin Direction: Male and Female charge
-
-
-In Material Superphysics, particles actually spin. A 'charge' is therefore the rotation direction of a particle.
+<!-- In Material Superphysics, particles actually spin. A 'charge' is therefore the rotation direction of a particle.
 
 Technically, this would mean that an electron of a negative charge would be rotating positively. This would be confusing*. 
 
-{{< n n="The setting of electrons are negatively charged came from [Benjamin Franklin](https://whyy.org/articles/does-our-confusing-electrical-nomenclature-start-with-ben-franklins-theory)" >}}
-
-
 This is why we use 'male' and 'female' for 'negative' and 'positive' charges of Physics instead.
 - The male charge represents a particle having an inherent positive (anticlockwise) rotation   
-- The female charge represents a particle having an inherent negative (clockwise) rotation
+- The female charge represents a particle having an inherent negative (clockwise) rotation -->
 
-{{< i s="/graphics/physics/neutralcharge.gif" a="Neutral Charge" c="The green particle on the left has a postive rotation, and is male, while the red particle on the right has a negative rotation, and is female" >}}
+<!-- i s="/graphics/physics/neutralcharge.gif" a="Neutral Charge" c="The green particle on the left has a postive rotation, and is male, while the red particle on the right has a negative rotation, and is female" -->
 
 
 <!-- The union of two vortices rotating in the opposite direction produces friction.
@@ -77,6 +101,8 @@ By going through the particle shapes, we realized that this is because the force
 {{< youtube liideRqRvV8 >}}
 
 So the force particles are like male penises and the matter particles are like female vaginas. This then explains why the Vedics worshipped the penis and vagina as phallus and yoni worship, respectively. 
+
+In fact, William Gilbert, who documented Earth's magnetism, calls the attraction as Magnetick [Coition](/research/gilbert/book-2/chapter-03) which means sexual intercourse.
 {{< /b >}}
 
 
@@ -84,35 +110,30 @@ This is based on:
 - the Positive Force being called masculine Shiva or Yang
 - the Negative Force being called feminine Shakti or Yin
 
-This naming is also useful and intuitive for neutral charges which we call bisexual. A neutral or bisexual charge is produced when a male and female cancel each other.
-
-
-> A charge is the rotation direction of a particle
+<!-- This naming is also useful and intuitive for neutral charges which we call bisexual. A neutral or bisexual charge is produced when a male and female cancel each other.
 
 This will be consistent in the convertible layer which has the concept of 'flavor-changing' which we can equate to 'sex-change' in particles.
 
 - Like-charges, such as male to male, or female to female, create repulsion.
-- Opposite-charges, such as male to female, create attraction. 
-
-
-In fact, William Gilbert, who documented Earth's magnetism, calls the attraction as Magnetick [Coition](/research/gilbert/book-2/chapter-03) which means sexual intercourse. 
+- Opposite-charges, such as male to female, create attraction.  -->
 
 
 ### Ions
 
 Ions are atoms or molecules that gain or lose a male electron, making them:
-- masculine if they gain electrons
-- feminine if they lose electrons
+- rich in males if they gain electrons
+- poor in males if they lose electrons
 
-This is why 'negative' ions make us feel positive, and 'positive' ions make us feel negative.
+This is why:
+- 'negative' ions make us feel positive and energetic
+- 'positive' ions make us feel negative and dull.
 
 <!-- Rather than confuse everyone by calling the negative as positive, we would rather call:
 - the negative as 'feminine charge'
 - the positive as a 'masculine charge'
 - the neutral as a 'bisexual charge' -->
 
-
-{{< img src="/graphics/physics/atomcharges.jpg" alt="Superphysics Electron" cap="In Superphysics, electrons have a masculine charge" >}}
+<!-- {{< img src="/graphics/physics/atomcharges.jpg" alt="Superphysics Electron" cap="In Superphysics, electrons have a masculine charge" >}} -->
 
 
 {{< q c="Kybalion" >}}
@@ -120,9 +141,9 @@ We shall use the word "Feminine" in the place of "Negative" in speaking of that 
 {{< /q >}}
 
 
-Male Particles | Female Particles | Bisexual
+<!-- Male Particles | Female Particles | Bisexual
 --- | --- | ---  
-qors (electron, muon, tau), moc (w- boson) | som (proton), moc (w+ boson) | soc (neutron), qocs (neutrinos), moc3 (z boson)
+qors (electron, muon, tau), moc (w- boson) | som (proton), moc (w+ boson) | soc (neutron), qocs (neutrinos), moc3 (z boson) -->
 
 <!-- 
 Quantum/Medium/Substance | Spin | Physics Charge | Mass
@@ -139,7 +160,7 @@ Neutron (soc) | 1/2 | none | 940 MeV  -->
 
 
 
-## So What's the Use of Male and Female Charges? 
+<!-- ## So What's the Use of Male and Female Poles? 
 
 The charges are a consequence of identities in the Radiant layer charting a course towards the Material layer via the Convertible layer. Using genders allows a intuitive and more diversified classification that is more robust than mere positive or negative. For example, binary male and female has variations as:
 
@@ -158,7 +179,7 @@ These then lead to different combination-dynamics such as:
 - lesbian + agender
 - etc
 
-Such combinations then have different properties which might be useful in the real world. These could lead to new specialized compounds or materials. Coming up with new compounds would be more difficult in a non-intuitive system that merely has positive-negative. 
+Such combinations then have different properties which might be useful in the real world. These could lead to new specialized compounds or materials. Coming up with new compounds would be more difficult in a non-intuitive system that merely has positive-negative.  -->
 
 
 <!-- ## Quantum of Electricity 
@@ -186,9 +207,4 @@ And so his mind rejected physical particle spin because increased energy will al
 
 But Cartesian Physics knows the aether. And so there is a backstage where particles that violate the constants can go to, and tunnel to other stages as other spacetimes. 
 
-The 3/2 spin of electrons is split by Nature into cooper pairs of quasi-particles. If you didn't know how spacetime limits c, then you will not know how it creates Cooper pairs.  
-
-
- -->
-
-
+The 3/2 spin of electrons is split by Nature into cooper pairs of quasi-particles. If you didn't know how spacetime limits c, then you will not know how it creates Cooper pairs.   -->
