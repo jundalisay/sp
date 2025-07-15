@@ -3,7 +3,6 @@ heading: Section 2
 title: "The Greatness Of Mind"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-# date: 2015-x-x
 weight: 10
 writer:
   name: David Hume
@@ -18,9 +17,11 @@ icon: "David Hume"
 I will illustrate this general system of morals by:
         applying it to particular instances of virtue and vice, and
         showing how their merit or demerit arises from the four sources here explained.
-    We shall begin with examining pride and humility.
+
+We shall begin with examining pride and humility.
         We shall consider the vice or virtue in their excesses or just proportion.
-    An excessive pride or overweening conceit of ourselves is:
+
+An excessive pride or overweening conceit of ourselves is:
         always esteemed vicious, and
         universally hated.
     Modesty, or a just sense of our weakness:
@@ -31,8 +32,10 @@ I will illustrate this general system of morals by:
 
     To prove this, we must have recourse to two principles very conspicuous in human nature.
 
-    The first is the sympathy and communication of sentiments and passions.
-        So close and intimate is the correspondence of human souls, that any person who approaches me immediately:
+
+The first is the sympathy and communication of sentiments and passions.
+
+So close and intimate is the correspondence of human souls, that any person who approaches me immediately:
             diffuses on me all his opinions, and
             draws along my judgment.
         My sympathy with him often does not go so far as to entirely change my sentiments and way of thinking.
@@ -49,8 +52,10 @@ I will illustrate this general system of morals by:
     It is remarkable that I always have sympathy with a person who:
         opposes me in anything I am strongly bent on, and
         rouses my passion by contradiction.
-    My commotion does not proceed from any other origin.
-    Here is an evident conflict of opposite principles and passions.
+
+My commotion does not proceed from any other origin.
+
+Here is an evident conflict of opposite principles and passions.
         On the one side, is that passion or sentiment natural to me.
             The stronger the passion, the greater the commotion.
         There must also be some passion or sentiment on the other side.
@@ -76,36 +81,49 @@ I will illustrate this general system of morals by:
         His pain is painful.
             But it augments the idea of our own happiness and gives us pleasure. (Book 2, Part 2, Sec 8)
 
-    Those principles of sympathy, and a comparison with ourselves, are directly contrary.
+
+
+Those principles of sympathy, and a comparison with ourselves, are directly contrary.
         What general rules can be formed for the prevalence of the one or the other?
-    Suppose I am now safe on land and I want to get some pleasure from my situation.
+
+Suppose I am now safe on land and I want to get some pleasure from my situation.
         I must:
             think of the miserable condition of those at sea in a storm, and
             must render this idea as strong and lively as possible to make me more sensible of my own happiness.
-    The effect of this will be much less than if I:
+
+The effect of this will be much less than if I:
         were really on the shore, 26 and
         saw a ship at a distance:
             tossed by a storm, and
             in danger of crashing on a rock.
-    But suppose this idea became more lively.
+
+But suppose this idea became more lively.
         Suppose the ship was driven so near me, that I can distinctly:
             perceive the horror of the seamen and passengers,
             hear their lamentable cries, and
             see their dearest friends:
                 give their last goodbye, or
                 embrace, resolving to perish in each others arms.
-        No one has so savage a heart to:
+
+No one has so savage a heart to:
             reap any pleasure from this, and
             withstand the motions of the tenderest compassion and sympathy.
-        It is evident that there is a medium in this case.
+
+It is evident that there is a medium in this case.
         If the idea is too faint, it has no influence by comparison.
             On the other hand, if it is too strong, it operates on us entirely by sympathy, which is the contrary to comparison.
-    Sympathy is the conversion of an idea into an impression.
+
+Sympathy is the conversion of an idea into an impression.
         It demands a greater force and vivacity in the idea than is requisite to comparison.
 
-Footnote 26:
 
-    "From dry land, there is something pleasant in watching the great difficulties of another man in going out to the high seas, with the winds lashing the waters.
-        This is not because one derives delight from any man's distress.
-        It is because it is pleasurable to perceive what troubles oneself is free of."
+{{< b >}}
+### Footnote 26
 
+
+"From dry land, there is something pleasant in watching the great difficulties of another man in going out to the high seas, with the winds lashing the waters.
+
+This is not because one derives delight from any man's distress.
+
+It is because it is pleasurable to perceive what troubles oneself is free of."
+{{< /b >}}

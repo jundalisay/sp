@@ -1,23 +1,42 @@
-## The Obligation Of Promises Is An Invention For The Interest Of Society
+---
+heading: Section 5b
+title: "The Obligation Of Promises Is An Invention For The Interest Of Society"
+description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+c: "steelblue"
+weight: 6
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
 
-    The knowledge of the observance of promises is not esteemed superior to the capacity of human nature, however savage and uncultivated.
-        Only a very little practice of the world is needed to make us see these consequences and advantages.
-        Every mortal discovers them from the shortest experience of society.
-    When each individual perceives the same sense of interest in all his fellows, he immediately performs his part of any contract to be assured that they will not be lacking in theirs.
-    By concert, all of them:
-        enter into a scheme of actions, calculated for common benefit, and
-        agree to be true to their word.
-    The only thing needed to form this convention is for everyone to:
+
+
+The knowledge of the observance of promises is not esteemed superior to the capacity of human nature, however savage and uncultivated.
+
+Only a very little practice of the world is needed to make us see these consequences and advantages.
+
+Every mortal discovers them from the shortest experience of society.
+
+When each individual perceives the same sense of interest in all his fellows, he immediately performs his part of any contract to be assured that they will not be lacking in theirs.
+
+By concert, all of them:
+- enter into a scheme of actions, calculated for common benefit, and
+- agree to be true to their word.
+
+The only thing needed to form this convention is for everyone to:
         have a sense of interest in the faithful fulfilling of engagements, and
         express that sense to the other members of society.
     This immediately causes that interest to operate on them.
         Interest is the first obligation to the performance of promises.
 
-    Afterwards, a sentiment of morals:
-        concurs with interest, and
-        becomes a new obligation on mankind.
-    This sentiment of morality in the performance of promises, arises from the same principles as the sentiment in the abstinence from the property of others.
-    Public interest, education, and the artifices of politicians, have the same effect in both cases.
+Afterwards, a sentiment of morals:
+- concurs with interest, and
+- becomes a new obligation on mankind.
+
+This sentiment of morality in the performance of promises, arises from the same principles as the sentiment in the abstinence from the property of others.
+
+Public interest, education, and the artifices of politicians, have the same effect in both cases.
         We surmount or elude the difficulties in supposing a moral obligation to attend promises.
     For instance, the expression of a resolution is commonly not obligatory.
         We cannot readily conceive how the use of certain words should be able to cause any material difference.
@@ -53,13 +72,15 @@
     All these contradictions are easily accounted for, if the obligation of promises is merely a human invention for the convenience of society.
         It will never be explained if it were something real and natural, arising from any action of the mind or body.
 
-    A promise is one of the most mysterious and incomprehensible operations imagined.
+
+A promise is one of the most mysterious and incomprehensible operations imagined.
         It may even be compared to transubstantiation or holy orders because every new promise imposes a new obligation of morality on the person who promises.
             This new obligation arises from his will.
             (Holy orders are supposed to produce the indelible character.
             In other respects they are only a legal qualification.)
         In holy orders, certain words, with a certain intention, entirely changes the nature of an external object and even of a human nature.
-    Promises and holy orders are so similar.
+
+Promises and holy orders are so similar.
         But they differ widely in other particulars.
         This difference is a strong proof of the difference of their origins.
     The obligation of promises is an invention for the interest of society.
@@ -82,7 +103,8 @@
     People are always more concerned about the present life than the future.
         People tend to think that the smallest evil in the present life is more important than the greatest evil in the future life.
 
-    We may draw the same conclusion on the origin of promises, from the force:
+
+We may draw the same conclusion on the origin of promises, from the force:
         which invalidates all contracts, and
         which frees us from their obligation.
     Such a principle is a proof that promises have no natural obligation.

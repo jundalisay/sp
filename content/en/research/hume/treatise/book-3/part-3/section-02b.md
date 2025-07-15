@@ -23,16 +23,21 @@ We sink very much in our own eyes, when in the presence of:
 This humility makes a considerable ingredient in the respect we pay our superiors. (Book 2, Part 2, Sect. 10).
 
 Sometimes, even envy and hatred arise from the comparison.
-        But in the greatest part of men, it rests at respect and esteem.
-    Sympathy has such a powerful influence on the human mind.
+
+But in the greatest part of men, it rests at respect and esteem.
+
+Sympathy has such a powerful influence on the human mind.
         It causes pride to have the same effect as merit.
         By making us enter into those elevated sentiments which the proud man has of himself, it presents that comparison so mortifying and disagreeable.
-    Our judgment does not entirely accompany him in his flattering conceit.
+
+Our judgment does not entirely accompany him in his flattering conceit.
         But it is still so shaken as to:
             receive the idea it presents, and
             give it an influence above the imagination's loose conceptions.
-    A man who imagines a person of superior merit to himself would not be mortified by that thought.
-    But when we see a man of inferior merit who has extraordinary self-conceit, his pride:
+
+A man who imagines a person of superior merit to himself would not be mortified by that thought.
+
+But when we see a man of inferior merit who has extraordinary self-conceit, his pride:
         takes hold of our imagination, and
         reduces us in our own eyes as if he really had all the good qualities he was proud of.
     Our idea is here precisely in that medium needed to make it operate on us by comparison.
@@ -41,36 +46,48 @@ Sometimes, even envy and hatred arise from the comparison.
             if the person appeared to have the same merit which he assumed.
         That principle's influence would then be superior to that of comparison, contrary to what happens when the person's merit seems below his pretensions.
 
-    Pride is an over-weaning conceit of ourselves.
-    The consequence of these principles is that pride must be vicious.
-        Since it:
-            causes uneasiness in all men, and
-            always presents a disagreeable comparison to all men.
-    Our own pride makes us so much displeased with the pride of other people.
-        Vanity becomes insupportable to us merely because we are vain.
-    The gay naturally associate themselves with the gay, and the amorous with the amorous.
+Pride is an over-weaning conceit of ourselves.
+
+The consequence of these principles is that pride must be vicious.
+
+Since it:
+- causes uneasiness in all men, and
+- always presents a disagreeable comparison to all men.
+
+Our own pride makes us so much displeased with the pride of other people.
+
+Vanity becomes insupportable to us merely because we are vain.
+
+The gay naturally associate themselves with the gay, and the amorous with the amorous.
         But the proud can never endure the proud.
         They rather seek the company of those who are of an opposite disposition.
         Pride is universally blamed and condemned by all mankind because all of us are proud in some degree.
             Pride is blamed as having a natural tendency to cause uneasiness in others by means of comparison.
-    This effect must follow the more naturally.
+    
+This effect must follow the more naturally.
         Those who have an ill-grounded conceit of themselves are forever making those comparisons.
         They do not have any other method of supporting their vanity.
-    A man of sense and merit is pleased with himself, independent of all foreign considerations.
+
+A man of sense and merit is pleased with himself, independent of all foreign considerations.
         But a fool must always find some person more foolish to stay happy with himself.
 
     It is most laudable when we value ourselves when we really have valuable qualities.
     The utility and advantage of any quality to ourselves is a source of virtue and agreeableness to others.
-    A due degree of pride is most useful to us in life.
+    
+A due degree of pride is most useful to us in life.
         This:
             makes us sensible of our own merit, and
             gives us a confidence and assurance in all our projects and enterprises.
-    A person's ability is useless if he:
+
+A person's ability is useless if he:
         does not know it, and
         cannot form designs suitable to it.
-    We always need to know our own force.
+
+We always need to know our own force.
         If we were to make a mistake in this, it would be more advantageous to overrate our merit, than to put it below its just standard.
-    Fortune commonly favours the bold and enterprising.
+
+
+Fortune commonly favours the bold and enterprising.
         Nothing inspires us with more boldness, than a good opinion of ourselves.
 
     This kind of pride or self-applause is sometimes disagreeable to others.
@@ -108,11 +125,15 @@ Sometimes, even envy and hatred arise from the comparison.
         If we harbour pride in our breasts, we must:
             carry a fair outside, and
             have the appearance of modesty and mutual deference in our behaviour.
-    We must always be ready to:
+
+
+We must always be ready to:
         prefer others to ourselves,
         treat them with a kind of deference, even though they are our equals, and
         seem always the lowest and least in the company, if we are not very much distinguished above them.
-    If we observe these rules in our conduct, people will have more indulgence for our secret sentiments, when we discover them in an oblique manner.
+
+
+If we observe these rules in our conduct, people will have more indulgence for our secret sentiments, when we discover them in an oblique manner.
 
     No one will assert:
         that the humility required by good-breeding and decency goes beyond the outside, or
@@ -187,7 +208,9 @@ Sometimes, even envy and hatred arise from the comparison.
             Its mere contemplation so elevates the mind, that we cannot refuse to admire it.
             The pain we receive from its prejudice of society is over-powered by a stronger and more immediate sympathy.
 
-    Thus, our explanation of the merit or demerit which attends pride serves as a strong argument for the preceding hypothesis.
+
+
+Thus, our explanation of the merit or demerit which attends pride serves as a strong argument for the preceding hypothesis.
         It shows the effects of those above-explained principles in all our judgments on pride.
     This reasoning will be advantageous to us by:
         showing that the distinction of vice and virtue arises from:
@@ -204,8 +227,9 @@ Sometimes, even envy and hatred arise from the comparison.
     It follows that our disapprobation proceeds from:
         a sympathy with others, and
         the reflection that such a proud person would be highly displeasing to those who converse with him.
-    We sympathize with those people in their uneasiness.
+
+
+We sympathize with those people in their uneasiness.
         Their uneasiness proceeds partly from a sympathy with the person who insults them.
         A double rebound of the sympathy occurs.
             This is a principle very similar to what we have observed. (Book 2, Part 2, Sec. 5)
-

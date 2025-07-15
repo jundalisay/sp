@@ -1,27 +1,47 @@
+---
+heading: Section 11
+title: "The Laws of Nations"
+description: ""
+c: "steelblue"
+# date: 2015-x-x
+weight: 78
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
 
-Section 11: The Laws of Nations
 
-Nations as Persons
+## Nations as Persons
 
-    A new set of duties arises among neighbouring states, suitable to the nature of their commerce with each other after:
-        civil government has been established over most of mankind, and
-        different societies have been formed contiguous to each other.
-    Political writers tell us that in every kind of intercourse, a body politic is like one person.
-        Different nations and private persons require mutual assistance.
-        At the same time, their selfishness and ambition are perpetual sources of war and discord.
-    In this case, nations resemble individuals.
-        Yet they are very different in other respects.
-        No wonder they:
-            regulate themselves by different maxims, and
-            give rise to a new set of rules, which we call the laws of nations.
-                Under these are:
-                    the sacredness of the ambassadors,
-                    the declaration of war, and
-                    the abstaining from poisoned arms with other duties of that kind.
-                These are created for the commerce between different societies.
+A new set of duties arises among neighbouring states, suitable to the nature of their commerce with each other after:
+- civil government has been established over most of mankind, and
+- different societies have been formed contiguous to each other.
 
-    These rules are super-added to, but do not entirely abolish, the laws of nature.
-        The three fundamental rules of justice are duties of princes and of subjects:
+Political writers tell us that in every kind of intercourse, a body politic is like one person.
+
+Different nations and private persons require mutual assistance.
+
+At the same time, their selfishness and ambition are perpetual sources of war and discord.
+
+In this case, nations resemble individuals.
+
+Yet they are very different in other respects.
+
+No wonder they:
+- regulate themselves by different maxims, and
+- give rise to a new set of rules, which we call the laws of nations.
+
+Under these are:
+- the sacredness of the ambassadors,
+- the declaration of war, and
+- the abstaining from poisoned arms with other duties of that kind.
+
+These are created for the commerce between different societies.
+
+These rules are super-added to, but do not entirely abolish, the laws of nature.
+
+The 3 fundamental rules of justice are duties of princes and of subjects:
             the stability of possession,
             its transference by consent, and
             the performance of promises.

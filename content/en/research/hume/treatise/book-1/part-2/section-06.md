@@ -65,11 +65,15 @@ Therefore no object can be presented to resemble the existence of an object, but
 A similar reasoning will account for the idea of external existence.
 
 Nothing is ever really present with the mind, but its perceptions or impressions and ideas.
+
 External objects become known to us only by those perceptions they occasion.
+
 To hate, love, think, feel, see, are all nothing but to perceive.
+
 It is impossible for us to conceive or create an idea of anything different from ideas and impressions since:
-nothing is ever present to the mind but perceptions, and
-all ideas are derived from something antecedently present to the mind.
+- nothing is ever present to the mind but perceptions, and
+- all ideas are derived from something antecedently present to the mind.
+
 Let us fix our attention out of ourselves.
 
 Let us chase our imagination to the limits of the universe.

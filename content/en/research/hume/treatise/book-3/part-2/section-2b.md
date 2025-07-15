@@ -4,7 +4,7 @@ title: "Economic Justice"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 # date: 2015-x-x
-weight: 6
+weight: 8
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

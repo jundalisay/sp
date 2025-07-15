@@ -36,19 +36,29 @@ The public good is indifferent to us, except so far as sympathy interests us in 
         We may presume the same with regard to all the other virtues, which have a similar tendency to the public good.
             They must derive their merit from our sympathy with those who reap any advantage from them, just as the virtues which do good to their possessors, derive their merit from our sympathy with them.
 
-Most people readily allow that the useful qualities of the mind are virtuous because of their utility.
-        This way of thinking is so natural.
-        It occurs on so many occasions that few will make any scruple of admitting it.
-        The force of sympathy must necessarily be acknowledged.
-    Virtue is considered as means to an end.
-        The means to an end are only valued so far as the end is valued.
-    But the happiness of strangers affects us by sympathy alone.
-        We therefore ascribe the sentiment of approbation to sympathy.
-        This approbation arises from surveying all those virtues useful to society or to the person who has them.
-            These form the most considerable part of morality.
+Most people believe that the useful qualities of the mind are virtuous because of their utility.
 
-    If the reader could be convinced with bribes or anything but solid arguments, we would use topics here to engage his affections.
-    We are all lovers of virtue in thought, but we might degenerate in practice.
+<!--         This way of thinking is so natural.
+        It occurs on so many occasions that few will make any scruple of admitting it. -->
+
+Such a belief leads to the force of sympathy.
+
+ <!-- must necessarily be acknowledged. -->
+
+Virtue is considered as means to an end.
+- The means to an end are only valued if the end is valued.
+
+But the happiness of strangers affects us by sympathy alone.
+
+We therefore ascribe the sentiment of approbation to sympathy.
+
+This approbation arises from surveying all those virtues useful to society or to the person who has them.
+
+These form the most considerable part of morality.
+
+If the reader could be convinced with bribes or anything but solid arguments, we would use topics here to engage his affections.
+
+We are all lovers of virtue in thought, but we might degenerate in practice.
         We are pleased to see moral distinctions derived from so noble a source, which gives us a just notion of human nature's generosity and capacity.
     Very little knowledge of human affairs is needed to perceive that a sense of morals is:
         a principle inherent in the soul, and

@@ -1,3 +1,5 @@
+# trustwallet
+
 #!/bin/bash
 
 # Directory to target

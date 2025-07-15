@@ -1,5 +1,17 @@
+---
+heading: Section 3b
+title: "Rules For The Stability Of Possession"
+description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+c: "steelblue"
+# date: 2015-x-x
+weight: 6
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
 
-## Rules For The Stability Of Possession
+
 
     The rule of the assignment of property to the present possessor is natural and useful.
         But its usefulness does not extend beyond the initial formation of society.
