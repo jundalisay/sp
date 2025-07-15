@@ -3,8 +3,7 @@ heading: Section 11
 title: "The Laws of Nations"
 description: ""
 c: "steelblue"
-# date: 2015-x-x
-weight: 78
+weight: 88
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -15,6 +14,7 @@ icon: "David Hume"
 ## Nations as Persons
 
 A new set of duties arises among neighbouring states, suitable to the nature of their commerce with each other after:
+
 - civil government has been established over most of mankind, and
 - different societies have been formed contiguous to each other.
 
@@ -42,19 +42,26 @@ These are created for the commerce between different societies.
 These rules are super-added to, but do not entirely abolish, the laws of nature.
 
 The 3 fundamental rules of justice are duties of princes and of subjects:
-            the stability of possession,
-            its transference by consent, and
-            the performance of promises.
-    The same interest produces the same effect in both cases.
-        There must be perpetual war if possession has no stability.
-        There can be no commerce if property is not transferred by consent.
-        There can be no leagues nor alliances if promises are not observed.
-    Therefore, the advantages of peace, commerce, and mutual succour, which take place among individuals, make us extend the same notions of justice to different kingdoms.
+
+1. the stability of possession
+2. its transference by consent
+3. the performance of promises
+
+The same interest produces the same effect in both cases.
+
+There must be perpetual war if possession has no stability.
+
+There can be no commerce if property is not transferred by consent.
+
+There can be no leagues nor alliances if promises are not observed.
+
+Therefore, the advantages of peace, commerce, and mutual succour, which take place among individuals, make us extend the same notions of justice to different kingdoms.
 
 
-Different Moral Systems
 
-    The system of morals calculated for princes is much more free than the system of morals governing private persons.
+## Different Moral Systems
+
+The system of morals calculated for princes is much more free than the system of morals governing private persons.
         This maxim is very current in the world.
         Few politicians are willing to avow this.
         Though it has been authorized by the practice of all ages.
@@ -90,17 +97,19 @@ Different Moral Systems
         The moral obligation arising from this natural obligation must share its weakness.
         We must give a greater indulgence to a prince or minister who deceives another, than to a private gentleman who breaks his word.
 
-    What proportion do these two species of morality bear to each other?
+What proportion do these two species of morality bear to each other?
         We can never precisely answer this question.
         It is impossible to reduce to numbers the proportion between them.
             This proportion is not studied by men.
-    The practice of the world is better at teaching us our duty, than the most subtle philosophy.
+
+The practice of the world is better at teaching us our duty, than the most subtle philosophy.
         This may serve as a convincing proof that everyone:
             has an implicit notion of the foundation of those moral rules on natural and civil justice, and
             is sensible that they arise merely from:
                 human conventions, and
                 our interest in preserving peace and order.
-    Otherwise, the reduction of the interest would never:
-        relax the morality, and
-        reconcile us more easily to any transgression of justice among princes and republics, than in the private commerce of one subject with another.
+
+Otherwise, the reduction of the interest would never:
+- relax the morality, and
+- reconcile us more easily to any transgression of justice among princes and republics, than in the private commerce of one subject with another.
 

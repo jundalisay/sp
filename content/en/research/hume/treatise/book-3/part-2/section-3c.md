@@ -1,9 +1,9 @@
 ---
-heading: Section 3b
+heading: Section 3c
 title: "The Influence Of Time On Possession"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 6
+weight: 25
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -11,10 +11,11 @@ icon: "David Hume"
 ---
 
 
-
 The title of first possession often becomes obscure through time.
-        It is impossible to determine many controversies arising from it.
-        In this case, long possession or prescription naturally takes place.
+
+It is impossible to determine many controversies arising from it.
+
+In this case, long possession or prescription naturally takes place.
             It gives a person a sufficient property in anything he enjoys.
 
 The nature of human society does not admit of any great accuracy.
@@ -24,6 +25,7 @@ Any considerable span of time sets objects at such a distance, that they:
         lose their reality, and
         have as little influence on the mind, as if they never had existed.
             A man's title, that is clear and certain at present, will seem obscure and doubtful after 50 years, even if the facts it is founded on can be proven.
+
 The same facts do not have the same influence after such a long interval of time.
         This may be a convincing argument for our preceding doctrine on property and justice.
 
@@ -209,14 +211,18 @@ Civil law established an entire community in the case of confusion and a proport
 
 Inst. Lib. IL Tit. i. Sect 28:
 
+<<<<<<< HEAD
 "In case your grain was mixed with Titius' grain, if it was done voluntarily by both of you, it is common property, as if your single grains were combined with your joint consent. If the mixture was accidental, or if Titius mixed it without your consent, it is not common property, as the grains retain their original identity. In this case, the grain does not become common property, any more than a herd of cattle is regarded as common property, if Titius' cattle should have become mixed up with yours. However, if all of the corn is kept by either, this creates a suit to determine the ownership with respect to the amount of corn belonging to each.
 It is in the judge's discretion to determine which is the corn belonging to either party."
 
 
 
+=======
+>>>>>>> 460d6a8d8dd30e0687e8eef9ec9b29653f2e3886
 Where the properties of two persons are united and cannot be separated, as when one builds a house on another's ground, the whole must belong to one of the proprietors.
         It naturally is conceived to belong to the proprietor of the most considerable part.
-    The compound object may:
+
+The compound object may:
         have a relation to two different persons, and
         carry our view to both of them at once
     But the most considerable part principally engages our attention.
@@ -228,9 +234,14 @@ Where the properties of two persons are united and cannot be separated, as when 
         the most considerable part, and
         the most attractive to the imagination.
 
+<<<<<<< HEAD
     This quality depends on several circumstances which have little connection with each other.
 
 One part of a compound object may become more considerable than another because:
+=======
+This quality depends on several circumstances which have little connection with each other.
+    One part of a compound object may become more considerable than another because:
+>>>>>>> 460d6a8d8dd30e0687e8eef9ec9b29653f2e3886
         it is more constant and durable,
         it is of greater value,
         it is more obvious and remarkable,
@@ -243,6 +254,7 @@ These circumstances may be conjoined and opposed:
 There will be many cases where the reasons on both sides are so equally balanced.
         It would be impossible for us to give any satisfactory decision.
 
+<<<<<<< HEAD
 This is the proper business of municipal laws: to fix what the principles of human nature have left undetermined.
 
 The civil law says:
@@ -254,3 +266,12 @@ These decisions:
 - do not agree well together, and
 - are a proof of the contrariety of the principles they are derived from.
 
+=======
+    The civil law says:
+        the superficies yields to the soil,
+        the writing yields to the paper, and
+        the canvas yields to the picture.
+    These decisions:
+        do not agree well together, and
+        are a proof of the contrariety of the principles they are derived from.
+>>>>>>> 460d6a8d8dd30e0687e8eef9ec9b29653f2e3886

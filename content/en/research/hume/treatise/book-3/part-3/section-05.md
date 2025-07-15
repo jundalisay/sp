@@ -82,10 +82,74 @@ Even if it is:
 We commonly:
 - consider ourselves as we appear in the eyes of others, and
 - sympathize with the advantageous sentiments they entertain with regard to us.
+>>>>>>> 460d6a8d8dd30e0687e8eef9ec9b29653f2e3886
+
+This is nothing but a fainter and more imperceptible love or hatred.
+
+We have assigned four sources of this pain and pleasure.
+
+The advantages or disadvantages of the body and fortune produce a pain or pleasure from the very same principles.
+
+An object's usefulness and ability to convey pleasure to its owner or to others:
+- convey an immediate pleasure to the person who considers the object
+- command his love and approbation.
+
+The following example is a phenomenon with bodily advantages which proves this.
+
+Though it might appear trivial and ludicrous.
+
+'Good women's men' are men:
+- who have signalized themselves by their amorous exploits, or
+- whose body promises extraordinary vigour in amorous exploits.
+
+They are well-received by women.
+
+They naturally engage the affections, even of women whose virtue prevents the use of those men's talents.
+
+The ability of such a man to give enjoyment is the real source of the love and esteem he gets from women.
+
+At the same time, the women who love and esteem him:
+- have no prospect of receiving that enjoyment themselves, and
+- can only be affected by their sympathy with his lover.
+
+This instance is singular and merits our attention.
+
+Another source of the pleasure we receive from bodily advantages is their utility to the person who has them.
+
+A considerable part of the beauty of men and other animals is in their:
+- strength and agility, and
+- capacity for action or exercise.
+
+The following are beautiful in our species because they are signs of force and vigour:
+- broad shoulders
+- a lank belly
+- firm joints
+- tapered legs
+
+These are advantages we naturally sympathize with.
+
+They convey to the beholder a share of that satisfaction they produce in the possessor.
+
+An air of health and strength and agility, makes a considerable part of beauty which brings immediate pleasure.
+
+A sickly air is always disagreeable because of the idea of pain and uneasiness it conveys to us.
+
+On the other hand, we are pleased with the regularity of our own features.
+
+Even if it is:
+- neither useful to ourselves nor others, and
+- necessary at a distance to make it convey any satisfaction to us.
+
+We commonly:
+- consider ourselves as we appear in the eyes of others, and
+- sympathize with the advantageous sentiments they entertain with regard to us.
 
 Our Sympathy For Pleasures (also in Book 2, Part 2, Section 5)
 
 The advantages of fortune produce esteem and approbation from the same principles.
+
+
+
 
 Our approbation of fortunate people is from 3 causes:
 

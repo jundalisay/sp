@@ -12,16 +12,18 @@ icon: "David Hume"
 ---
 
 
-
 ## Promises And The Establishment Of Government
 
 Government is a very advantageous invention.
         Sometimes, it is even absolutely necessary to mankind.
         It is not necessary in all circumstances.
             It is possible for men to preserve society for some time without government.
-    People are always much inclined to prefer present interest to a distant and remote interest.
-        We cannot easily resist the temptation of any immediate advantage, in apprehension of an evil that lies a distance away.
-        This weakness is less conspicuous when life's possessions and pleasures are few and of little value.
+
+People are always much inclined to prefer present interest to a distant and remote interest.
+
+We cannot easily resist the temptation of any immediate advantage, in apprehension of an evil that lies a distance away.
+
+This weakness is less conspicuous when life's possessions and pleasures are few and of little value.
             This is always the case in society's infancy.
             A Native American is little tempted to:
                 dispossess another of his hut, or
@@ -30,15 +32,19 @@ Government is a very advantageous invention.
                 is only casual and temporary, and
                 will disturb society only a little.
 
-    Men are capable of society without government.
+Men are capable of society without government.
+
         The first rudiments of government arise from quarrels, not among men of the same society, but among men of different societies.
-    Fewer riches are needed to create external conflicts, than is needed to create internal conflicts.
-    Men fear public war and violence because of the resistance they meet.
+
+Fewer riches are needed to create external conflicts, than is needed to create internal conflicts.
+
+Men fear public war and violence because of the resistance they meet.
         It seems less terrible because:
             they share it in common, and
             it comes from strangers.
         It has less pernicious consequences than a war with a society whose commerce is advantageous and essential to them.
-    A foreign war to a society without government necessarily produces civil war.
+
+A foreign war to a society without government necessarily produces civil war.
         Throw any considerable goods among people, they instantly fall into quarreling.
         Each strives to get what pleases him without regard to the consequences.
         In a foreign war, the most considerable of all goods, life and limbs, are at stake.
@@ -48,12 +54,13 @@ Government is a very advantageous invention.
                 seeks excuse for the slightest wounds.
             The laws during peacetime can no longer take place during such a commotion.
 
-    We find this in the American tribes where people live in concord among themselves without any government.
+We find this in the American tribes where people live in concord among themselves without any government.
         They only submit to their fellows during wartime.
         Their captain then enjoys a shadow of authority which he loses after:
             their return from the field, and
             the establishment of peace.
-    However, this authority:
+
+However, this authority:
         instructs them in the advantages of government, and
         teaches them to have recourse to it, when their riches and possessions have become so considerable.
             These riches make them forget their interest in the preservation of peace and justice.
@@ -79,28 +86,33 @@ Government is a very advantageous invention.
         Therefore, these are:
             antecedent to government, and
             supposed to impose an obligation before the duty of allegiance to civil magistrates.
-    On its first establishment, the government would naturally derive its obligation from those laws of nature, particularly from the law on the performance of promises.
+
+On its first establishment, the government would naturally derive its obligation from those laws of nature, particularly from the law on the performance of promises.
         After men perceive the necessity of government to maintain peace and justice, they naturally:
             assemble together,
             choose magistrates,
             determine power, and
             promise them obedience.
-    A promise is supposed to be a bond or security already in use.
+
+A promise is supposed to be a bond or security already in use.
         It is attended with a moral obligation.
         It is to be considered as:
             the original sanction of government, and
             the source of the first obligation to obedience.
-    This reasoning appears so natural.
+
+This reasoning appears so natural.
         It has become the foundation of our fashionable system of politics.
         It is the creed of a party among us, who reasonably pride themselves on the:
             soundness of their philosophy, and
             their liberty of thought.
-    They say all men are born free and equal.
+
+They say all men are born free and equal.
         Government and superiority can only be established by consent.
         Men's consent in establishing government imposes a new obligation unknown to the laws of nature.
         Therefore, men are bound to obey their magistrates only because they promise it.
             If they had not given their word expressly or tacitly to preserve allegiance, it would never have become a part of their moral duty.
-    However, this conclusion is entirely erroneous when applied to governments in all its ages and situations.
+
+However, this conclusion is entirely erroneous when applied to governments in all its ages and situations.
         The duty of allegiance is:
             initially grafted on the obligation of promises, and
             supported by that obligation for some time.
@@ -108,5 +120,3 @@ Government is a very advantageous invention.
             quickly takes root of itself, and
             has an original obligation and authority, independent of all contracts.
         We must examine this principle carefully.
-
-

@@ -1,15 +1,15 @@
 ---
+<<<<<<< HEAD
 heading: Section 3d
 title: "Judgment on the End Result"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 6
+weight: 29
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
 ---
-
 
 
 The most curious of all these kinds of questions is the one which divided the disciples of Proculus and Sabinus for so many ages.
@@ -31,7 +31,8 @@ Form is casual and dependent.
 
 
 Proculus observed that the form is the most obvious and remarkable part.
-            From the form, bodies are denominated to be of this or that kind.
+
+From the form, bodies are denominated to be of this or that kind.
             He could have added that the matter or substance is so fluctuating and uncertain in most bodies, that it is impossible to trace it in all its changes.
 
 

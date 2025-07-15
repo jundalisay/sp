@@ -4,7 +4,7 @@ title: "The Origin Of Justice And Property"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 # date: 2015-x-x
-weight: 16
+weight: 9
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -35,32 +35,38 @@ This unnatural conjunction of infirmity and necessity is only observed most perf
         He must have clothes and lodging to defend him against the weather.
         He has no arms, force, or other natural abilities to answer so many necessities.
 
-    He is able to supply his defects only through society.
+He is able to supply his defects only through society.
         Through this, he can raise himself up to be equal with his fellow-creatures, and even be superior to them.
-    By society, all his infirmities are compensated.
+
+By society, all his infirmities are compensated.
         Even if his wants multiply, his abilities are still more augmented.
         It leaves him more satisfied and happy than in a savage and solitary condition.
-    When every person labours apart only for himself, his force is too small to execute any considerable work.
+
+When every person labours apart only for himself, his force is too small to execute any considerable work.
         His labour is employed in supplying all his different necessities.
         He never attains a perfection in any particular art.
         His force and success are not at all times equal.
         The smallest failure in either of these must come with inevitable ruin and misery.
-    Society remedies these three inconveniences.
+Society remedies these three inconveniences.
         By the conjunction of forces, our power is augmented.
         By the partition of employments, our ability increases.
         By mutual succour, we are less exposed to fortune and accidents.
-    Society becomes advantageous by this additional force, ability, and security.
+Society becomes advantageous by this additional force, ability, and security.
 
 
 ## The First And Original Principle Of Human Society
 
-    But to form society:
-        the society must be advantageous, and
-        men must be sensible of these advantages.
-    It is impossible for them to know this in their wild uncultivated state by study and reflection alone.
-    The natural appetite between the sexes is the first and original principle of human society.
-        Fortunately, this necessity is a more present and obvious remedy to the other human necessities which have remote and obscure remedies.
-        This unites them and preserves their union until a new tie takes place in their concern for their offspring.
+But to form society:
+- the society must be advantageous, and
+- men must be sensible of these advantages.
+
+It is impossible for them to know this in their wild uncultivated state by study and reflection alone.
+
+The natural appetite between the sexes is the first and original principle of human society.
+
+Fortunately, this necessity is a more present and obvious remedy to the other human necessities which have remote and obscure remedies.
+
+This unites them and preserves their union until a new tie takes place in their concern for their offspring.
             This new concern also becomes a principle of union between the parents and offspring.
             It forms a bigger society where the parents:
                 govern by their superior strength and wisdom, and
@@ -86,9 +92,9 @@ This unnatural conjunction of infirmity and necessity is only observed most perf
         We can observe this on those who have such endearing ties.
         We may presume that the case would be the same with others, if they were placed in a like situation.
 
-    This generosity must be acknowledged to the honour of human nature.
+This generosity must be acknowledged to the honour of human nature.
         But we may also remark that so noble an affection, instead of fitting men for large societies, is almost as contrary to them as the most narrow selfishness.
-    Each person loves himself more than any person.
+
+Each person loves himself more than any person.
         Of other people, he loves his relations and acquaintances the most.
         This must necessarily produce an opposition of passions and actions which can be dangerous to the new-established union.
-

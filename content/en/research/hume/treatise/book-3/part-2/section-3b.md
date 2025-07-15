@@ -1,10 +1,8 @@
 ---
-heading: Section 3b
-title: "Rules For The Stability Of Possession"
+heading: Section 3btitle: "The Rules For The Stability Of Possession"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-# date: 2015-x-x
-weight: 6
+weight: 23
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -12,24 +10,28 @@ icon: "David Hume"
 ---
 
 
+The rule of the assignment of property to the present possessor is natural and useful.
 
-    The rule of the assignment of property to the present possessor is natural and useful.
-        But its usefulness does not extend beyond the initial formation of society.
-        Always assigning property to its present possessor is most pernicious, because it:
+But its usefulness does not extend beyond the initial formation of society.
+
+Always assigning property to its present possessor is most pernicious, because it:
             prevents restitution, and
             authorizes and rewards every injustice.
-    Therefore, we must seek for some other circumstance that may give rise to property after society is established.
-        Four circumstances are most considerable:
+
+Therefore, we must seek for some other circumstance that may give rise to property after society is established.
+
+Four circumstances are most considerable:
             Occupation
             Prescription
             Accession
             Succession
     We shall briefly examine each of these, beginning with Occupation.
 
-    The possession of all external goods is changeable and uncertain.
+The possession of all external goods is changeable and uncertain.
         This is one of the most considerable impediments to the establishment of society.
         It is why people restrain themselves by the rules of justice and equity by universal agreement, express or tacit.
-    The misery of the condition preceding this restraint, is why we submit to that remedy as quickly as possible.
+
+The misery of the condition preceding this restraint, is why we submit to that remedy as quickly as possible.
         This easily explains why we annex the idea of property to the first possession.
     People are unwilling to:
         leave property in suspense even for the shortest time, or
@@ -56,9 +58,10 @@ Footnote 16:
 
 ## The Definition Of Possession
 
-    We must exactly determine what possession means.
-        This is not easy as first imagined.
-    We possess anything when:
+We must exactly determine what possession means.
+- This is not easy.
+
+We possess anything when:
         we immediately touch it, and
         we are so situated with respect to it, as to have it in our power to:
             use it, and

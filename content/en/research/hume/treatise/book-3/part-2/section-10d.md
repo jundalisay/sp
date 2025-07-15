@@ -1,26 +1,44 @@
+---
+heading: Section 10d
+title: "The Glorious Revolution"
+description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
+c: "steelblue"
+weight: 86
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
 
-## The Glorious Revolution
 
-    English readers will here ask about the Glorious Revolution which:
-        had such a happy influence on our constitution, and
-        had such mighty consequences.
-    In the case of enormous tyranny and oppression, it is lawful to take arms even against supreme power.
-        Government is a mere human invention for mutual advantage and security.
-        It no longer imposes any natural or moral obligation when once it ceases to have that tendency.
-    This general principle is authorized by:
-        common sense, and
-        the practice of all ages.
-    It is certainly impossible for the laws, or even for philosophy, to establish any particular rules to:
+English readers will here ask about the Glorious Revolution which:
+- had such a happy influence on our constitution, and
+- had such mighty consequences.
+
+In the case of enormous tyranny and oppression, it is lawful to take arms even against supreme power.
+ 
+Government is a mere human invention for mutual advantage and security.
+
+It no longer imposes any natural or moral obligation when once it ceases to have that tendency.
+
+This general principle is authorized by:
+- common sense, and
+- the practice of all ages.
+
+It is certainly impossible for the laws, or even for philosophy, to establish any particular rules to:
         know when resistance is lawful, and
         decide all controversies which may arise on that subject.
 
-    This may happen with regard to:
+This may happen with regard to:
+
         supreme power, and
         even in some constitutions where the legislative authority is not lodged in one person.
-            There may be a powerful magistrate who obliges the laws to keep silent in this.
+
+There may be a powerful magistrate who obliges the laws to keep silent in this.
                 This silence would be an effect of their respect and their prudence.
                 Such a great magistrate might be beneficial to the public at one time, but be pernicious and tyrannical at another.
-    But despite this silence of the laws in limited monarchies, the people still retain the right of resistance.
+
+But despite this silence of the laws in limited monarchies, the people still retain the right of resistance.
         Since it is impossible to deprive them of it even in the most despotic governments.
         In limited monarchies and despotic governments, they have the same liberty from:
             the same necessity of self-preservation, and
@@ -28,12 +46,14 @@
         In such mixed governments:
             there are more cases when resistance is lawful, and
             greater indulgence is given to the subjects to defend themselves by force, than in arbitrary governments.
-        This happens when the chief magistrate:
+
+This happens when the chief magistrate:
             enters into measures extremely pernicious to the public,
             encroaches on the other parts of the constitution, and
             extend his power beyond the legal bounds.
         The people can resist and dethrone him even if such resistance may be deemed unlawful and rebellious.
-    The preservation of public liberty is most essential to public interest.
+
+The preservation of public liberty is most essential to public interest.
         If such a mixed government is established, every part of the constitution must have a right:
             of self-defence, and
             of maintaining its ancient bounds against the enaoachment of every other authority.

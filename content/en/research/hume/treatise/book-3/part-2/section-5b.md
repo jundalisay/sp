@@ -3,13 +3,12 @@ heading: Section 5b
 title: "Self-Interest"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 6
+weight: 49
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
 ---
-
 
 To discover these necessities and interests, we must consider the same qualities of human nature, which lead to the laws of society.
 
@@ -25,11 +24,13 @@ These mutual performances cannot be finished at the same instant.
 But there is so much corruption among men that this becomes but a slender security.
         The benefactor here is supposed to bestow his favours with a view to self-interest.
         This takes off from the obligation and sets an example to selfishness.
-    If we follow the natural course of our passions and inclinations, we should perform but few actions for the advantage of others, from disinterested views.
+
+If we follow the natural course of our passions and inclinations, we should perform but few actions for the advantage of others, from disinterested views.
         Because we are naturally very limited in our kindness and affection.
         We should perform as few of that kind, out of a regard to interest.
             Because we cannot depend on their gratitude.
-    The mutual commerce of good offices is lost among mankind.
+
+The mutual commerce of good offices is lost among mankind.
         Every one is reduced to his own skill and industry for his well-being and subsistence.
 
 The invention of the law of nature, concerning the stability of possession, has already rendered men tolerable to each other.
@@ -86,12 +87,17 @@ These passions and principles are inalterable.
             to maintain the same correspondence of good offices with me or others.
         After I have served him and he has gained the advantage from it, he is induced to perform his part, as foreseeing the consequences of his refusal.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 460d6a8d8dd30e0687e8eef9ec9b29653f2e3886
 This self-interested commerce begins to take place and predominates in society.
         But it does not entirely abolish the more generous and noble intercourse of friendship and good offices.
-    I can still do services to persons I love and know, without any prospect of advantage.
+
+I can still do services to persons I love and know, without any prospect of advantage.
         They may make me a return in the same way, with just the view of recompensing my past services.
-    To distinguish the interested commerce from the disinterested one, the interested commerce is called a promise.
+
+To distinguish the interested commerce from the disinterested one, the interested commerce is called a promise.
         A promise is the sanction of the interested commerce of mankind.
         When a man promises anything, he expresses a resolution to perform it.
         By using the word 'promise', he subjects himself to the penalty of never being trusted again in case of failure.
@@ -106,5 +112,3 @@ Conventions of men create a new motive.
         These symbols might give each other the security of our conduct in any particular incident.
         After these signs are instituted, whoever uses them is immediately bound by his interest to execute his engagements.
             He must never expect to be trusted anymore, if he refuses to perform what he promised.
-
-

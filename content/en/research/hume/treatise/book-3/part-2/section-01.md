@@ -4,7 +4,7 @@ title: "Is Justice A Natural Or Artificial Virtue?"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 # date: 2015-x-x
-weight: 6
+weight: 5
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -31,7 +31,6 @@ We must look within to find the moral quality.
             But these actions are still considered as signs.
         The ultimate object of our praise and approbation is the motive that produced them.
 
-
 When we require any action, or blame a person for not performing it, we:
 - always suppose that the person should be influenced by that action's proper motive, and
 - see it vicious for him to be regardless of it.
@@ -40,7 +39,7 @@ We retract our blame if we find that the virtuous motive was still powerful over
 
 We have the same esteem for him, as if he had actually performed the required action.
 
-    All virtuous actions therefore:
+All virtuous actions therefore:
         derive their merit only from virtuous motives, and
         are considered merely as signs of those motives.
     The first virtuous motive which bestows a merit on any action, can never be a regard to that action's virtue.
@@ -83,6 +82,8 @@ But can the sense of morality or duty produce an action without any other motive
         I answer, yes.
         This is not an objection to the present doctrine.
 
+
+
 When any virtuous motive or principle is common in human nature, a person who has no virtue may:
 - hate himself, and
 - perform the action without the motive, from a certain sense of duty to:
@@ -93,6 +94,7 @@ An ungrateful man:
 - is still pleased to perform grateful actions, and
 - thinks he has, by that means, fulfilled his duty.
 
+
 Actions are initially only considered as signs of motives.
 
 But we usually:
@@ -100,27 +102,38 @@ But we usually:
             neglect the thing signified.
 
 But sometimes, a person may perform an action merely out of regard to its moral obligation.
-        Yet this still supposes some distinct principles in human nature:
+
+
+Yet this still supposes some distinct principles in human nature:
             which are capable of producing the action, and
             whose moral beauty renders the action meritorious.
 
 Suppose a person lends me money on condition that I pay it back in a few days.
-        He demands the sum after that day arrives.
-        Why do I have to restore the money?
-        My regard to justice and abhorrence of villainy and knavery are sufficient reasons for me, if I have the:
-            smallest grain of honesty, or
-            sense of duty.
+
+He demands the sum after that day arrives.
+
+Why do I have to restore the money?
+
+My regard to justice and abhorrence of villainy and knavery are sufficient reasons for me, if I have the:
+- smallest grain of honesty, or
+- sense of duty.
+
 
 This answer is satisfactory to man:
 - in his civilized state, and
 - when trained up according to a certain discipline and education.
 
 But in his rude and more natural condition, this answer would be perfectly unintelligible and sophistical.
-        A man in that situation would immediately ask: wherein consists this honesty and justice which you find in:
-            restoring a loan, and
-            abstaining from the property of others?
-        It surely does not lie in the external action.
-        Therefore, it must be placed in the motive from which the external action is derived.
+
+
+A man in that situation would immediately ask: wherein consists this honesty and justice which you find in:
+- restoring a loan, and
+- abstaining from the property of others?
+
+It surely does not lie in the external action.
+
+Therefore, it must be placed in the motive from which the external action is derived.
+
             This motive can never be a regard to the action's honesty.
 
 It is wrong to say that:
@@ -132,4 +145,3 @@ We can never have a regard to an action's virtue, unless the action is virtuous 
 
 A virtuous motive, therefore, must precede the regard to the virtue.
         It is impossible that the virtuous motive and the regard to the virtue can be the same.
-

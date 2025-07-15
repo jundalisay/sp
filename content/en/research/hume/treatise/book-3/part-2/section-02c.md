@@ -3,8 +3,7 @@ heading: Section 2c
 title: "Property and Justice"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-# date: 2015-x-x
-weight: 10
+weight: 16
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -18,6 +17,8 @@ The ideas of justice and injustice, as well as those of property, right, and obl
 - everyone has acquired a stability in his possessions.
 
 This is unintelligible without first understanding the abstinence.
+
+
 
 Our property is nothing but those goods, whose constant possession is established by the laws of society, by the laws of justice.
 
@@ -46,6 +47,24 @@ It gives the preference to ourselves and friends above strangers.
 It is impossible there can be naturally a fixed right or property while the opposite passions of men:
 - impel them in contrary directions, and
 - are not restrained by any convention or agreement.
+
+The convention for the distinction of property and for the stability of possession is most necessary to establish human society.
+        After the agreement for this rule, little or nothing remains to be done towards settling a perfect harmony and concord.
+
+All the other passions, besides this of interest, are easily restrained or are not of such pernicious consequence, when indulged.
+        Vanity, pity, and love are esteemed as:
+            social passions, and
+            bonds of union among men.
+        Envy and revenge are pernicious.
+            But they operate only by intervals and are directed against our superiors or enemies.
+    This avidity alone, of acquiring goods and possessions for ourselves and our nearest friends, is insatiable, perpetual, universal, and directly destructive of society.
+        Everyone is actuated by it.
+        Everyone has has a reason to fear it when it:
+            acts unrestrained, and
+            gives way to its first and most natural movements.
+    The difficulties in the establishment of society depend on the difficulties in regulating and restraining this avidity.
+
+
 
 
 The convention for the distinction of property and for the stability of possession is most necessary to establish human society.

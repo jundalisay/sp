@@ -19,13 +19,11 @@ Natural abilities are esteemed because of their tendency to be useful to the per
 
 The goodness of our intentions alone will not give us happiness in our enterprises.
 
-Men are superior to animals by the superiority of their reason.
+Men are superior to animals principally by the superiority of their reason.
 
-There are also differences in the faculty of reason between one man and another.
+The differences in the faculty of reason also set the differences between one man and another.
 
 All the advantages of art are owing to human reason.
-
-<!-- The most considerable of these advantages must fall to the prudent and sagacious. -->
 
 Which is more valuable?
 - a quick or a slow apprehension?
@@ -40,7 +38,6 @@ What character or understanding is more excellent than another?
 We cannot answer these questions without considering which of those qualities:
 - capacitates a man for the world best, and
 - carries him farthest in any of his undertakings.
-
 
 There are many other qualities of the mind whose merit is derived from the same origin, industry, perseverance, patience, activity, vigilance, application, constancy, with other virtues.
 
@@ -124,6 +121,8 @@ The memory is the soul's faculty which:
 - has the least virtue or vice in its several degrees, and
 - admits of a great variety of degrees.
 
+
+
 We commonly do not notice the memory's variations unless it:
 - rises to surprise us, or
 - sinks to affect the judgment.
@@ -184,4 +183,3 @@ Whatever they undertake:
 
 Nothing is to be over-looked and despised, that regards them.
 - Anyone who can excite these sentiments, soon acquires our esteem, unless other circumstances of his character render him odious and disagreeable.
-

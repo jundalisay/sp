@@ -72,6 +72,7 @@ However, they are nevertheless real for being remote.
 
 All men are subject to the same weakness.
 
+
 It necessarily happens that:
 - the violations of equity must become very frequent in society, and
 - the commerce of men is rendered very dangerous and uncertain by those violations.
@@ -188,6 +189,7 @@ These persons, then, are induced to:
 - constrain others to a like regularity, and
 - enforce the dictates of equity throughout the society.
 
+
 If needed, they may also:
 - interest others more immediately in the execution of justice if it is necessary, and
 - create civil and military officers to assist them in their government.
@@ -211,7 +213,7 @@ Those who execute the laws of justice will also decide all controversies concern
 
 They will decide them more equitably than everyone would in his own case, as they are indifferent to most of the society.
 
-Through these two advantages in the execution and decision of justice, men acquire a security against the weaknesses and passions of each other and of their own.
+Through these 2 advantages in the execution and decision of justice, men acquire a security against the weaknesses and passions of each other and of their own.
 
 Under the shelter of their governors, they taste at ease the sweets of society and mutual assistance.
 
@@ -241,6 +243,9 @@ It is still more difficult for them to execute it while each seeks to:
 - free himself of the trouble and expence, and
 - lay the whole burden on others.
 
+
+
+
 Political society easily remedies both these inconveniences.
 
 Magistrates find an immediate interest in the interest of any considerable part of their subjects.
@@ -258,4 +263,3 @@ Government is composed of men subject to all human infirmities.
 But it becomes by one of the finest and most subtle inventions imaginable.
 
 It is a composition exempted from all these infirmities.
-

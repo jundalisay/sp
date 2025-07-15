@@ -3,8 +3,7 @@ heading: Section 2b
 title: "Economic Justice"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-# date: 2015-x-x
-weight: 8
+weight: 12
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -33,15 +32,18 @@ We should not:
         hope for any inartificial principle of the human mind which might:
             control those partial affections, and
             make us overcome the temptations arising from our circumstances.
-    The idea of justice can never:
+
+The idea of justice can never:
         serve this purpose, nor
         be a natural principle which can inspire men with an equitable conduct towards each other.
-    Justice would never have been dreamed of among savage men.
+
+Justice would never have been dreamed of among savage men.
         Because the notion of injury or injustice implies an immorality committed against another person.
         Every immorality is derived from some defect or unsoundness of the passions.
         This defect must be judged of from the ordinary course of nature in the mind's constitution.
         It will be easy to know whether we are guilty of any immorality with regard to others by considering the natural and usual force of those affections.
-    In the original frame of our mind, our strongest attention is confined to ourselves.
+
+In the original frame of our mind, our strongest attention is confined to ourselves.
         Our next attention is extended to our relations and acquaintances.
         Only the weakest reaches to strangers and indifferent persons.
     This partiality and unequal affection must have an influence on our:

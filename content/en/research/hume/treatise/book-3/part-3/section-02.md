@@ -15,11 +15,13 @@ icon: "David Hume"
 ## Sympathy
 
 I will illustrate this general system of morals by:
-        applying it to particular instances of virtue and vice, and
-        showing how their merit or demerit arises from the four sources here explained.
+- applying it to particular instances of virtue and vice, and
+- showing how their merit or demerit arises from the four sources here explained.
 
 We shall begin with examining pride and humility.
-        We shall consider the vice or virtue in their excesses or just proportion.
+
+We shall consider the vice or virtue in their excesses or just proportion.
+
 
 An excessive pride or overweening conceit of ourselves is:
         always esteemed vicious, and
