@@ -12,54 +12,68 @@ icon: "David Hume"
 
 
 
-Generally, simple ideas and impressions are exactly correspondent, as the complex are formed from them.
+<!-- Generally, simple ideas and impressions are exactly correspondent, as the complex are formed from them. -->
 
 How do simple ideas and impressions exist?
 
 Which of the impressions and ideas are causes and effects?
 
-The full examination of this question is the subject of the present treatise.
+<!-- The full examination of this question is the subject of the present treatise. -->
 
-We shall establish a general proposition, that in their first appearance, all our simple ideas are derived from simple impressions which are correspondent to those ideas, and which those ideas exactly represent.
+I establish a general proposition: our simple ideas, in their first appearance, come from simple impressions.
+- These impressions match those ideas.
+- Those ideas exactly represent those impressions.
 
-To prove this, I seek phenomena that are obvious, numerous, and conclusive.
+<!-- To prove this, I seek phenomena that are obvious, numerous, and conclusive.
 
-First, I clarify the general proposition so that:
-- every simple impression is attended with a correspondent idea, and
-- every simple idea is attended with a correspondent impression
+First, I clarify the general proposition so that: -->
 
-From this constant conjunction of resembling perceptions, I immediately conclude that:
-- there is a great connection between our correspondent impressions and ideas, and
-- the existence of the one has a considerable influence on that of the other.
+In other words:
+- every simple impression has a correspondent idea
+- every simple idea has a correspondent impression
 
-Such a constant conjunction, in such an infinite number of instances, can never arise from chance.
+This is the constant conjunction of resembling perceptions.
 
-It clearly proves a dependence of:
+This means that:
+- our correspondent impressions and ideas are connected
+- the existence of the one influences the other.
+
+This constant conjunction can never arise from chance.
+
+It clearly shows a dependence of:
 - the impressions on the ideas, or
 - the ideas on the impressions.
 
-I then consider the sequence of their first appearance to know on which side this dependence lies.
+<!-- I then consider the sequence of their first appearance to know on which side this dependence lies.
+By constant experience, I find that the  -->
 
-By constant experience, I find that the simple impressions always precede their correspondent ideas, but never appear in the contrary order.
+Simple impressions always precede their correspondent ideas.
 
-To give a child an idea of scarlet or orange, of sweet or bitter, I present the objects.
+ <!-- but never appear in the contrary order. -->
+
+
+<!-- To give a child an idea of scarlet or orange, of sweet or bitter, I present the objects.
 
 I convey to him these impressions.
 
-But I do not absurdly try to make him produce a red object by making him think about the red colour.
-
-Our ideas on a thing does not lead to that thing existing as an impression in reality.
+But I do not absurdly try to make him produce a red object by making him think about the red colour. -->
 
 
-We cannot perceive any colour or feel any sensation by merely thinking of them.
+Thinking of a thing does not lead to that thing existing in reality.
 
-On the other hand, we find that any impression is constantly followed by an idea which resembles it.
+<!-- as an impression in reality. -->
 
-It is only different in the degrees of force and liveliness.
+But we get ideas from things in reality.  
 
-The constant conjunction of our resembling perceptions is a convincing proof that the one are the causes of the other.
+<!-- We cannot perceive any colour or feel any sensation by merely thinking of them.
 
-This priority of the impressions is an equal proof that our impressions are the causes of our ideas, not our ideas of our impressions.
+On the other hand, we find that any impression is constantly followed by an idea which resembles it. -->
+
+<!-- It is only different in the degrees of force and liveliness. -->
+
+The constant conjunction of our resembling perceptions shows that impressions cause ideas.
+
+<!-- This priority of the impressions is an equal proof that our impressions are the causes of our ideas, not our ideas of our impressions. -->
 
 
 ## Exception and Limitation of the General Maxim

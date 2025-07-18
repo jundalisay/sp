@@ -1,9 +1,9 @@
 ---
 title: "You Exist"
 # date: 2025-05-16
-weight: 6
+weight: 12
 description: ""
-c: "mediumblue"
+c: "royalblue"
 ---
 
 
@@ -146,4 +146,3 @@ This does not answer the question.
 
 <!-- —you see that the questions, like the branches of a genealogical tree, would grow and multiply; and in the end, all these fine questions would end in pure battology, which would clarify nothing and leave us in our original ignorance. -->
 {{< /l >}}
-

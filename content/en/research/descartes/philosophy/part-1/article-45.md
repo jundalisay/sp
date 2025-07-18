@@ -120,6 +120,3 @@ This is because some have prejudices* which make men not ready to embrace them, 
 <!-- : not, however, from this reason, as I think, that the faculty of knowledge of one man extends farther than that of another, but rather because these common notions are opposed to the 
 
  of some, who, on this account, are not able  -->
-
-
-

@@ -13,27 +13,35 @@ icon: "David Hume"
 
 The relation of property most commonly produces pride and is the closest to it. 
 
-
-Justice and other moral virtues must be explained first before this relation can be fully explained.
+<!-- Justice and other moral virtues must be explained first before this relation can be fully explained. -->
 
 Property is a relation between a person and an object which permits him its free use and possession, but does not forbid any other, without violating the laws of justice and moral equity.
     
-Therefore, if justice is a virtue which has a natural and original influence on the mind, property may be regarded as a particular species of causation, whether we:
-            ▪ consider the liberty it gives the proprietor to operate as he pleases on the object, or
-            ▪ the advantages he reaps from it.
-        ◦ It is the same case if justice is an artificial and not a natural virtue.
-            ▪ For then honour, custom, and civil laws:
+Therefore, if justice is a virtue which has a natural and original influence on the mind, property is a kind of causation, whether we:
+- consider the liberty it gives the proprietor to operate as he pleases on the object, or
+- the advantages he reaps from it.
+
+It is the same case if justice is an artificial virtue.
+
+For then honour, custom, and civil laws:
                 • supply the place of natural conscience
                 • produce the same effects.
-    • The mention of the property naturally carries our thought to the proprietor, and of the proprietor to the property.
-        ◦ This is a proof of a perfect relation of ideas.
-    • A relation of ideas, joined to that of impressions, always produces a transition of affections.
-        ◦ If the foregoing system is solid and satisfactory, whenever any pleasure or pain arises from an object connected with us by property, pride or humility must arise from this conjunction of relations.
+
+The word "property" naturally carries our thought to the proprietor. 
+- From the proprietor our thought goes to the property.
+- This shows a perfect relation of ideas.
+
+A relation of ideas, joined to that of impressions, always produces a transition of affections.
+
+If the foregoing system is solid and satisfactory, whenever any pleasure or pain arises from an object connected with us by property, pride or humility must arise from this conjunction of relations.
+
         ◦ This can be proven by the most cursory view of human life.
-    • Everything belonging to a vain man is the best that is to be found anywhere.
+
+Everything belonging to a vain man is the best that is to be found anywhere.
         ◦ His houses, equipage, furniture, clothes, horses, hounds, excel all others in his conceit.
         ◦ He draws a new subject of pride and vanity from the smallest advantage in any of these.
-    • If you’ll believe him:
+
+If you’ll believe him:
         ◦ his wine has a finer flavour than any other
         ◦ his cookery is more exquisite
         ◦ his table is more orderly
@@ -41,9 +49,11 @@ Therefore, if justice is a virtue which has a natural and original influence on 
         ◦ the air he lives in is more healthful
         ◦ the soil he cultivates is more fertile
         ◦ his fruits ripen earlier and more perfectly.
-    • Such a thing is remarkable for its novelty; such another for its antiquity.
+
+Such a thing is remarkable for its novelty; such another for its antiquity.
         ◦ This is the workmanship of a famous artist that belonged once to a prince or great man.
-    • All objects that are useful, beautiful or surprising, or are related to such, may cause vanity through property.
+
+All objects that are useful, beautiful or surprising, or are related to such, may cause vanity through property.
         ◦ These agree in giving pleasure and in nothing else.
         ◦ This alone is common to them.
         ◦ Therefore, it must be the quality that produces vanity, which is their common effect.

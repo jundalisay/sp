@@ -3,7 +3,7 @@ title: "The Soul of Man"
 # date: 2025-05-16
 weight: 8
 description: ""
-c: "mediumblue"
+c: "royalblue"
 ---
 
 

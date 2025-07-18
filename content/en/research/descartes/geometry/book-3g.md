@@ -2,7 +2,7 @@
 title: "Geometry Simplified"
 weight: 54
 description: ""
-c: "steelblue"
+c: "royalblue"
 ---
 
 

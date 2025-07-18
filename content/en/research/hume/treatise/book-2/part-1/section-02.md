@@ -18,32 +18,41 @@ We can never give a just definition of them or any of the passions.
 
 We can pretend to describe them by enumerating the circumstances that attend them.
 
-But the words ‘pride’ and ‘humility’ are of general use.
+<!-- But the words ‘pride’ and ‘humility’ are of general use.
         ◦ The impressions they represent are the most common of any.
         ◦ Everyone will be able to form a just idea of them, without mistake.
-    • This is why I shall immediately enter their examination.
+    • This is why I shall immediately enter their examination. -->
 
+Pride and humility are directly contrary, but have the self as the object.
 
-Pride and humility are directly contrary, but have the same object.
-        ◦ This object is the self or that succession of related ideas and impressions we have an intimate memory and consciousness of.
-    • Here, the view always fixes when we are actuated by pride or humility.
-        ◦ We feel elated by pride or dejected with humility as our idea of ourself is more or less advantageous.
-    • All other objects comprehended by the mind are always considered with a view to ourselves.
-        ◦ Otherwise they would never be able to excite these passions or produce the smallest increase or reduction of them.
-    • When the self does not enter into the consideration, there is no room for pride or humility.
-    • The self is always the object of pride and humility.
+The self is the succession of related ideas and impressions we have an intimate memory and consciousness of.
+
+• Here, the view always fixes when we are actuated by pride or humility.
+
+◦ We feel elated by pride or dejected with humility as our idea of ourself is more or less advantageous.
+
+All other objects comprehended by the mind are always considered with a view to ourselves.
+
+Otherwise they would never be able to excite these passions or produce the smallest increase or reduction of them.
+
+• When the self does not enter into the consideration, there is no room for pride or humility.
+
+• The self is always the object of pride and humility.
         ◦ It can never be their cause, or be sufficient alone to excite them.
-    • Pride and humility:
-        ◦ are directly contrary
-        ◦ have the same common object.
-    • If their object were also their cause, it could never produce any degree of the one passion.
+
+• If their object were also their cause, it could never produce any degree of the one passion.
         ◦ At the same time, it must excite an equal degree of the other.
         ◦ Opposition and contrariety must destroy both.
-    • A man can never be proud and humble at the same time.
-        ◦ These take place alternately depending on their reasons.
-        ◦ If these two encounter, the stronger one annihilates the other.
-            ▪ Only the superior one continues to operate on the mind.
-    • But in the present case neither of them could ever become superior.
+
+A man can never be proud and humble at the same time.
+
+◦ These take place alternately depending on their reasons.
+
+◦ If these two encounter, the stronger one annihilates the other.
+
+    ▪ Only the superior one continues to operate on the mind.
+
+• But in the present case neither of them could ever become superior.
         ◦ The view of ourself alone is indifferent to pride and humility.
         ◦ If this excited pride and humility, this view:
             ▪ must produce both passions in the very same proportion; or

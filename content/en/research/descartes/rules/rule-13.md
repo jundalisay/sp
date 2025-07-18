@@ -3,7 +3,7 @@ heading: Rule 13
 title: How to Understand Questions
 weight: 16
 description: If we perfectly understand a question, it must be abstracted from all superfluous concepts, reduced to its simplest form
-c: "steelblue"
+c: "royalblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -23,7 +23,9 @@ However, unlike them, we do not distinguish two extremes and a middle; rather, w
 
 All these are also found in imperfect questions: for example, if we inquire about the nature of the magnet, what we understand to be signified by these two terms, magnet and nature, is known, by which we are determined to inquire about this rather than anything else, etc. 
 
-But furthermore, for a question to be perfect, we want it to be fully determined, so that nothing more is sought than what can be deduced from the given: for example, if someone asks me what can be inferred about the nature of the magnet precisely from those experiments which Gilbert asserts he has conducted, whether true or false; likewise, if one asks what judgment can be made precisely about the nature of sound from the fact that three strings A, B, C produce equal sound, among which B, by supposition, is twice as thick as A but not longer, and is stretched by a weight twice as heavy; and C, although not thicker than A, is only twice as long, yet is stretched by a weight four times heavier, etc. 
+But furthermore, for a question to be perfect, we want it to be fully determined, so that nothing more is sought than what can be deduced from the given: for example, if someone asks me what can be inferred about the nature of the magnet precisely from those experiments which Gilbert asserts he has conducted, whether true or false; 
+
+Likewise, if one asks what judgment can be made precisely about the nature of sound from the fact that three strings A, B, C produce equal sound, among which B, by supposition, is twice as thick as A but not longer, and is stretched by a weight twice as heavy; and C, although not thicker than A, is only twice as long, yet is stretched by a weight four times heavier, etc. 
 
 From which it is easily understood how all imperfect questions can be reduced to perfect ones, as will be explained more fully in its place; and it also appears how this rule can be observed, by abstracting from all superfluous concepts to understand the difficulty well, and by reducing it so that we no longer think about being involved with this or that subject, but only in general about certain magnitudes compared among themselves: for example, after we have determined to observe certain experiments about the magnet, there is no difficulty remaining in our thinking that needs to be removed from all other subjects.
 
@@ -35,7 +37,9 @@ But we seek either things from words, or causes from effects, or effects from ca
 
 We say that things are sought from words whenever the difficulty lies in the obscurity of the speech; and hither we refer not only all enigmas, such as that of the Sphinx concerning the animal which at first is four-footed, then two-footed, and finally becomes three-footed; also that of the fishermen who, standing on the shore, equipped with hooks and reeds for catching fish, said they no longer had those they had caught, but that on the contrary they had those they had not yet caught, etc.; 
 
-But also in the greatest part of those about which the learned dispute, almost always the question is about the name. Nor is it right to think so badly of the greater minds, that we should judge them to conceive things badly, whenever they do not sufficiently explain them with suitable words: if sometimes, for example, they call the surface of the body surrounding place, they conceive nothing false, but only misuse the name of place, which from common usage signifies that simple nature and by itself known, by reason of which something is said to be here or there; which consists wholly in a certain relation of the thing, which is said to be in place, to the parts of the outer space, and which some, seeing the name of place occupied by the surrounding surface, have improperly said where intrinsic, and so on. And these questions about the name occur so often that, if agreement among philosophers about the signification of words were always present, almost all their disputes would be removed.
+But also in the greatest part of those about which the learned dispute, almost always the question is about the name. Nor is it right to think so badly of the greater minds, that we should judge them to conceive things badly, whenever they do not sufficiently explain them with suitable words: if sometimes, for example, they call the surface of the body surrounding place, they conceive nothing false, but only misuse the name of place, which from common usage signifies that simple nature and by itself known, by reason of which something is said to be here or there; which consists wholly in a certain relation of the thing, which is said to be in place, to the parts of the outer space, and which some, seeing the name of place occupied by the surrounding surface, have improperly said where intrinsic, and so on. 
+
+These questions about the name occur so often that, if agreement among philosophers about the signification of words were always present, almost all their disputes would be removed.
 
 Causes are sought from effects whenever we investigate whether a thing exists or what it is...
 

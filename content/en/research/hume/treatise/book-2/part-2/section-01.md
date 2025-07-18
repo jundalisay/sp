@@ -1,20 +1,45 @@
+---
+heading: Section 1
+title: "The Object And Causes Of Love And Hatred"
+description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+c: "steelblue"
+weight: 4
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
 
-SEC. 1: THE OBJECT AND CAUSES OF LOVE AND HATRED
-    • It is impossible to define love and hatred.
-        ◦ Because they produce merely a simple impression, without any mixture or composition.
-    • It would be as unnecessary to describe them from their nature, origin, causes and objects because they are sufficiently known from our common feeling and experience.
-        ◦ We have already observed this concerning pride and humility.
-    • There is a great resemblance between these two sets of passions.
-        ◦ We shall abridge of our reasonings on pride and humility to explain love and hatred.
-    • The immediate object of pride and humility is self or that identical person whose thoughts, actions, and sensations we are intimately conscious of.
-        ◦ The object of love and hatred is some other person, whose thoughts, actions, and sensations we are not conscious of.
-    • This is sufficiently evident from experience.
+
+Love and hatred produce a simple impression, without any mixture.
+- This makes them impossible to define.
+
+It would be as unnecessary to describe them from their nature, origin, causes and objects because they are sufficiently known from our common feeling and experience.
+
+Like pride and humility, love and hatred has a great resemblance.
+
+I shall explain pride and humility to explain love and hatred.
+
+
+## Pride and humility
+
+The immediate object of pride and humility is self.
+- We are aware of our own thoughts, actions, and feelings.
+
+ <!-- or that identical person whose thoughts, actions, and sensations we are intimately conscious of. -->
+
+
+The object of love and hatred is some other person.
+- We are not aware of the thoughts, actions, and feelings of that person.
+
         ◦ Our love and hatred are always directed to some sensible being external to us.
         ◦ When we talk of self-love, it is not in a proper sense,
         ◦ the sensation it produces does anything in common with that tender emotion excited by a friend or mistress.
+
     • It is the same case with hatred.
         ◦ We may be mortified by our own faults and follies.
         ◦ but never feel any anger or hatred except from the injuries of others.
+
     • But though the object of love and hatred is always some other person.
         ◦ It is plain that the object is not the cause of these passions or alone sufficient to excite them.
     • Love and hatred:
@@ -23,11 +48,14 @@ SEC. 1: THE OBJECT AND CAUSES OF LOVE AND HATRED
             ▪ If that object were also their cause, it would produce these opposite passions in an equal degree.
             ▪ They must, from the very first moment, destroy each other.
             ▪ None of them would ever be able to make its appearance.
-    • Therefore, there must be some cause different from the object.
-    • The causes of love and hatred:
-        ◦ are very much diversified.
-        ◦ do not have many things in common.
-    • The virtue, knowledge, wit, good sense, good humour of any person, produce love and esteem, and hatred and contempt.
+Therefore, there must be some cause different from the object.
+
+
+The causes of love and hatred:
+- are very much diversified
+- do not have many things in common.
+
+The virtue, knowledge, wit, good sense, good humour of any person, produce love and esteem, and hatred and contempt.
         ◦ The same passions arise from:
             ▪ bodily accomplishments, such as beauty, force, swiftness, dexterity; and their contraries
             ▪ from the external advantages and disadvantages of family, possession, clothes, nation and climate.

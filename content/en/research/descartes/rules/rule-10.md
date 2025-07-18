@@ -3,7 +3,7 @@ heading: Rule 10
 title: How to make the mind sharp
 weight: 14
 description: Rene Descartes 1635
-c: "steelblue"
+c: "royalblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -20,6 +20,6 @@ I carefully avoided letting hasty reading rob me of this innocent delight. This 
 
 However, because not all minds are naturally inclined to investigate things independently, this proposition teaches that we ought not immediately engage ourselves in difficult and arduous matters, but rather first examine the most trivial arts and simplest ones, especially those in which order predominates, such as the arts of those who weave fabrics and tapestries, or of women who paint with a needle, or mix threads in endlessly varied patterns; likewise, all games of numbers and whatever pertains to arithmetic, and similar things: all of which exercises the mind marvelously, provided we do not borrow their invention from others, but from ourselves. For since nothing remains hidden in them and they are entirely suited to the capacity of human knowledge, they exhibit to us most distinctly countless orders, all diverse among themselves, yet regular, in the observance of which human sagacity is nearly entirely comprised.
 
-And for this reason, we have advised that those things should be sought with method, which in these lighter matters are usually nothing other than the observation of the order, either in the thing itself existing, or subtly devised: so that if we wish to read a writing veiled in unknown characters, no order indeed appears here, but we nevertheless imagine some, then to examine all prejudices, which can be held concerning each character, or words, or sentences, and also to arrange those in such a manner that through enumeration we may understand whatever can be deduced from them. 
+This is why I have advised that those things should be sought with method, which in these lighter matters are usually nothing other than the observation of the order, either in the thing itself existing, or subtly devised: so that if we wish to read a writing veiled in unknown characters, no order indeed appears here, but we nevertheless imagine some, then to examine all prejudices, which can be held concerning each character, or words, or sentences, and also to arrange those in such a manner that through enumeration we may understand whatever can be deduced from them. 
 
 And we must especially beware lest we waste time in guessing at similar cases by chance and without skill; for although these are often discovered without skill, and sometimes more quickly by the fortunate, than by method, yet they dull the light of intellect, and so they are accustomed to childish and empty life; penetrate the into error.

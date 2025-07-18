@@ -11,10 +11,6 @@ icon: "Rene Descartes"
 ---
 
 
-<!-- XLI. Proof of the First Part of this Rule.
-
-The first part of this Law is demonstrated from the fact that there is a difference between motion considered in itself, and the determination of that motion to a certain part; so that this determination can be changed, the motion itself remaining. For since, as was said before, every simple thing, such as motion is, always persists, as long as it is not destroyed by any external cause; and in the encounter with a hard body, there appears indeed a cause which prevents the motion of the other body it encounters from remaining determined towards the same part; but there is no cause which takes away or diminishes the motion itself, because motion is not contrary to motion; hence it follows that it ought not to be diminished on that account. -->
-
 
 ## 41. Proof of the first part of this third rule.
 
@@ -95,5 +91,3 @@ There are properly only 2 kinds of opposition found here:
 <!-- a certain part and the encounter of a body at rest or otherwise moved in that part, and
 
 according to the proportion of the part toward which the encountering body is moved, this opposition is greater or lesser. -->
-
-

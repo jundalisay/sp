@@ -62,18 +62,18 @@ Every repetition of that idea, we would:
 - bestow a purple colour on them, which is the only color we know.
 
 But after experiencing other colours of green, red, white, black, etc, and finding a resemblance in the disposition of those points, we:
+- omit the peculiarities of colour, as far as possible, and
+- found an abstract idea merely on how they look.
 
-omit the peculiarities of colour, as far as possible, and
-found an abstract idea merely on how they look.
 The abstract idea is not hindered from representing touch and sight, because of their resemblance, even when:
+- the resemblance is carried beyond the sense objects
+- impressions of touch are similar to those of sight in the disposition of their parts.
 
-the resemblance is carried beyond the sense objects
-impressions of touch are similar to those of sight in the disposition of their parts.
 All abstract ideas are really nothing but particular ideas, considered in a certain light.
 
 But being annexed to general terms, they are able to:
-represent a vast variety of objects, and
-comprehend objects which are similar or dissimilar in some particulars.
+- represent a vast variety of objects, and
+- comprehend objects which are similar or dissimilar in some particulars.
 
 The idea of time is derived from the succession of our:
 - perceptions,

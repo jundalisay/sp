@@ -3,7 +3,7 @@ heading: Part 1b
 title: The Sciences
 weight: 6
 description: Descartes gives 4 Precepts on Math and Logic
-c: "steelblue"
+c: "royalblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

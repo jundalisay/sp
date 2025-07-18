@@ -1,5 +1,17 @@
-SEC. 2: EXPERIMENTS TO CONFIRM THIS SYSTEM
-    • Everyone will assent to my conclusion on the transition along related impressions and ideas.
+---
+heading: Section 2
+title: "EXPERIMENTS TO CONFIRM THIS SYSTEM"
+description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+c: "steelblue"
+weight: 4
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
+
+
+Everyone will assent to my conclusion on the transition along related impressions and ideas.
         ◦ Especially as it is an easy and natural principle.
     • We will:
         ◦ make some new experiments on love and hatred, pride and humility.

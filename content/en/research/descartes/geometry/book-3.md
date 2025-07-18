@@ -6,7 +6,7 @@ description: "This treatise can only be understood by those who are familiar wit
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
-c: "steelblue"
+c: "royalblue"
 icon: "Rene Descartes"
 ---
 

@@ -54,23 +54,7 @@ We cannot conceive of any glue that would bind the particles of solid bodies mor
 
 What could this glue be? 
 
-<!-- It cannot be a substance because since  -->
-
 These particles are already substances. They cannot be joined by another new substance. Therefore, they are joined by themselves. 
 
 They differ from other known substances only by their stillness. This stillness can oppose the motion that would separate these particles.
 
-<!-- , there is no reason why they should be joined by another substance rather than by themselves. 
-
-Nor is there any other mode apart from stillness; no other mode can oppose the motion that would separate these particles more than their own stillness. And besides substances and their modes, we recognize no other kind of things.
-
-
-Can we imagine any glue that would bind the particles of solid bodies more firmly together than their own rest?
-
-What could this glue be? 
-
-It is not substance, because since these particles are substances, there is no reason why they would be joined by another substance rather than by themselves. 
-
-Nor is there any mode other than rest. No other mode could be more opposed to the motion by which these particles are separated than their own rest. 
-
-And besides substances and their modes, we recognize no other kind of thing. -->

@@ -14,7 +14,8 @@ icon: "Rene Descartes"
 
 
 
-## 4. The nature of body consists not in weight hardness, colour and the like, but in extension alone*
+## 4. The nature of matter or body is in it having metaphysical space [extendsion] as length, width and depth alone.
+
 
 {{< n n="Descartes reiterates that the nature of matter is it occupying metaphysical space. From now, we will replace 'extension' with 'metaphysical space' to distinguish it from 'space' as physical space. Update April 2025: We change metaphysical space into aetherspace since the latter matches the DESI BAO findings" >}}
 

@@ -11,19 +11,27 @@ icon: "David Hume"
 ---
 
 
+The object of a passion is different from its cause. 
 
-We have observed a difference between the object of the passions and their cause.
-        ◦ We distinguish in the cause the quality, which operates on the passions, from the subject, in which it inheres.
-    • We now examine what:
+<!-- We have observed a difference between the object of the passions and their cause. -->
+
+◦ We distinguish in the cause the quality, which operates on the passions, from the subject, in which it inheres.
+
+• We now examine what:
         ◦ determines each of them to be what it is
         ◦ assigns such a particular object, quality, and subject to these affections.
-    • Through this, we shall fully understand the origin of pride and humility.
-    • These passions are derermined to have the self for their object through a natural and original property.
+
+• Through this, we shall fully understand the origin of pride and humility.
+
+• These passions are derermined to have the self for their object through a natural and original property.
         ◦ No one can doubt but this property is natural from the constancy and steadiness of its operations.
-    • The self is always the object of pride and humility.
-        ◦ The passions look beyond, still with a view to ourselves.
-        ◦ Otherwise, any person or object cannot have any influence on us.
-    • This proceeds from an original quality or primary impulse, if we consider that it is the distinguishing characteristic of these passions.
+
+The self is always the object of pride and humility.
+
+    ◦ The passions look beyond, still with a view to ourselves.
+    ◦ Otherwise, any person or object cannot have any influence on us.
+
+• This proceeds from an original quality or primary impulse, if we consider that it is the distinguishing characteristic of these passions.
         ◦ Unless nature had given some original qualities to the mind, it could never have any secondary qualities.
         ◦ In that case, it:
             ▪ would have no foundation for action, nor

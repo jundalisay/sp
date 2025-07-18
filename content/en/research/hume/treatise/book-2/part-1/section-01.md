@@ -1,6 +1,6 @@
 ---
-title: "Division Of The Subject"
-description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+title: "The Violent Passions as Direct and Indirect"
+description: "All the mind’s perceptions may be divided into impressions and ideas"
 c: "steelblue"
 weight: 4
 writer:
@@ -54,19 +54,21 @@ The sense of beauty and deformity in action, composition, and external objects.
 
 2. The VIOLENT
 
-The second are the passions of love and hatred, grief and joy, pride and humility.
-- This division is far from being exact.
+This includes love and hatred, grief and joy, pride and humility.
+
+This division is not exact.
 
 The raptures of poetry and music frequently rise to the greatest height.
-        ◦ While those other impressions called passions, may decay into so soft an emotion, as to become imperceptible.
 
-In general the passions are more violent than the emotions arising from beauty and deformity, these impressions have been commonly distinguished from each other.
-        ◦ The subject of the human mind is so copious and various.
+But those other impressions called passions may decay into a soft emotion as to become imperceptible.
+
+In general the passions are more violent than the emotions arising from beauty and deformity.
+
+ <!-- these impressions have been commonly distinguished from each other. -->
+
+<!-- ◦ The subject of the human mind is so copious and various.
         ◦ I shall take advantage of this vulgar and spacious division, that I may proceed with the greater order.
-        ◦ I shall now explain those violent emotions or passions, their nature, origin, causes, and effects.
-
-
-When we take a survey of 
+        ◦ I shall now explain those violent emotions or passions, their nature, origin, causes, and effects. -->
 
 The passions are either:
 
@@ -75,11 +77,10 @@ The passions are either:
 These arise immediately from good or evil and pain or pleasure.
 - Examples are desire, aversion, grief, joy, hope, fear, despair and security.
 
-
 2. Indirect
 
 These arise from the same principles, but by the conjunction of other qualities.
 - Examples are pride, humility, ambition, vanity, love, hatred, envy, pity, malice, generosity, with their dependants.
 
-I cannot presently justify or explain this distinction any further.
+<!-- I cannot presently justify or explain this distinction any further. -->
 

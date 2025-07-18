@@ -33,12 +33,17 @@ It would be as absurd as to say that 'the shortest way is always the shortest', 
 2. We have no precise idea of equality and inequality, shorter and longer, more than of a straight line or a curve.
 
 Consequently, the one can never give us a perfect standard for the other.
+
 An exact idea can never be built on such as are loose and undetermined.
+
 The idea of a flat surface also cannot have a precise standard.
 
 We can only distinguish such a surface through its general appearance.
+
 Mathematicians say that a flat surface is created by the flowing of a straight line.
+
 We can immediately object that straight lines constrained into a plane necessarily creates a flat surface.
+
 This description explains a thing by itself, and is circular reasoning.
 
 The ideas most essential to geometry are those of:

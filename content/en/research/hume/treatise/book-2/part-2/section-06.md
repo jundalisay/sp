@@ -15,34 +15,47 @@ Ideas may be compared to the extension and solidity of matter.
     
 Impressions, especially reflective ones, may be compared to colours, tastes, smells and other sensible qualities.
 
-Ideas never admit of a total union.
-        ◦ They are endowed with a kind of impenetrability, by which they:
-            ▪ exclude each other
-            ▪ are capable of forming a compound by their conjunction, not by their mixture.
-    • Impressions and passions are susceptible of an entire union.
-        ◦ Like colours, they may be blended so perfectly together, that each of them may:
-            ▪ lose itself
-            ▪ contribute only to vary that uniform impression arising from the whole.
-    • Some of the most curious phenomena of the human mind are derived from this property of the passions.
-    • I see a misfortune in every system of philosophy in the phenomena which are capable of uniting with love and hatred.
-        ◦ There is always some more stubborn phenomenon in the operations of nature which will not so easily bend to our purpose.
-    • We should not be surprised if this happens in natural philosophy.
+Ideas:
+- never admit of a total union.
+- are endowed with a kind of impenetrability, by which they:
+  - exclude each other
+  - form a compound by their conjunction, not by their mixture.
+
+Impressions and passions can have a total union.
+
+Like colours can be blended so perfectly together that each color loses itself.
+
+<!-- ▪ contribute only to vary that uniform impression arising from the whole. -->
+
+Some of the most curious phenomena of the human mind are derived from this property of the passions.
+
+I see a misfortune in every system of philosophy in the phenomena which are capable of uniting with love and hatred.
+
+- There is always some more stubborn phenomenon in the operations of nature which will not so easily bend to our purpose.
+
+We should not be surprised if this happens in natural philosophy.
         ◦ The essence and composition of external bodies are so obscure.
         ◦ In our conjectures on them, we must necessarily involve ourselves in contradictions and absurdities.
-    • But the perceptions of the mind are perfectly known.
+
+But the perceptions of the mind are perfectly known.
         ◦ I have used all caution in forming conclusions on them.
         ◦ I have always hoped to keep clear of those contradictions present in every other system.
-    • The difficulty I currently have is not contrary to my system.
+
+The difficulty I currently have is not contrary to my system.
         ◦ It only departs a little from that simplicity, which has been its principal force and beauty.
-    • Love and hatred are always followed by or conjoined with benevolence and anger.
+
+Love and hatred are always followed by or conjoined with benevolence and anger.
         ◦ This conjunction chiefly distinguishes these affections from pride and humility.
-    • Pride and humility are pure emotions in the soul.
+
+Pride and humility are pure emotions in the soul.
         ◦ They are unattended with any desire.
         ◦ They do not immediately excite us to action.
-    • But love and hatred:
-        ◦ are not completed within themselves
-        ◦ do not rest in that emotion, which they produce, but carry the mind to something farther.
-    • Love is always followed by:
+
+But love and hatred:
+- are not completed within themselves
+- do not rest in that emotion, which they produce, but carry the mind to something farther.
+
+Love is always followed by:
         ◦ a desire of the happiness of the person beloved
         ◦ an aversion to his misery.
     • Hatred produces:
@@ -75,7 +88,8 @@ Ideas never admit of a total union.
             ▪ This clearly proves that these desires:
                 • are not the same with love and hatred
                 • do not make any essential part of them.
-    • Therefore, we may infer that benevolence and anger are:
+
+Therefore, we may infer that benevolence and anger are:
         ◦ different from love and hatred
         ◦ only conjoined with love and hatred by the mind’s original constitution.
     • Nature has given the body certain appetites and inclinations.

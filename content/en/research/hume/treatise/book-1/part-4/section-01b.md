@@ -44,28 +44,38 @@ The weakness of the understanding also creates a new uncertainty.
 The understanding adjusts the original and new uncertainty together.
 Our reason obliges us to add a new doubt from the possibility of error in our estimation of the truth of our faculties.
 This doubt immediately occurs to us.
+
 We must decide on this doubt, following our reason.
 This decision might be favourable to our preceding judgment.
+
 But since it is founded only on probability, it must:
-further weaken our first evidence, and
-itself be weakened by another doubt of the same kind, and so on to infinity.
+- further weaken our first evidence, and
+- itself be weakened by another doubt of the same kind, and so on to infinity.
+
 Until finally, nothing remains of the original probability:
-no matter how great it may have been, and
-no matter how small the reduction by every new uncertainty.
+- no matter how great it may have been, and
+- no matter how small the reduction by every new uncertainty.
+
 No finite object can sustain itself under an infinite decrease of probability.
 
 Even the vastest amount in the human imagination will be reduced to nothing in this way.
 Our initial belief will infallibly perish by passing through so many new examinations.
 Each examination reduces its force and vigour.
+
 When I reflect on my judgment's natural fallibility, I have less confidence in my opinions, than when I only consider the objects I reason on.
+
 My belief totally extinguishes if I further scrutinize my faculties.
-* [ Translator's note: In data science, this reflex act is called backpropagation which corrects the normal flow of thoughts called forward propagation, by averaging initial the probable answers and then running them through the logic in reverse to see which answers survive. The gradual reduction of belief to a neural network is called vanishing gradient.]
 
-Partial Skepticism is Useful, But Total Skepticism is Useless
+
+{{< n n="In data science, this reflex act is called backpropagation which corrects the normal flow of thoughts called forward propagation, by averaging initial the probable answers and then running them through the logic in reverse to see which answers survive. The gradual reduction of belief to a neural network is called vanishing gradient." >}}
+
+
+## Partial Skepticism is Useful, But Total Skepticism is Useless
+
 The following questions are entirely superfluous:
+- Do I sincerely assent to this argument that I am taking such pains to inculcate?
+- Am I really one of those skeptics who think that all is uncertain?
 
-Do I sincerely assent to this argument that I am taking such pains to inculcate?
-Am I really one of those skeptics who think that all is uncertain?
 No one was ever sincerely and constantly held these opinions.
 
 By an absolute and uncontrollable necessity, Nature has determined us to:
@@ -153,29 +163,49 @@ This makes reasoning and reflection equally prejudicial to the emotions.
 The mind and the physical body has a precise degree of force, which it employs in one action only at the expense of all the rest.
 This is more obvious in actions that have different natures.
 These different natures divert the mind's force and changes its disposition.
+
 It renders us:
-incapable of a sudden transition from one action to the other, and
-incapable of performing both actions at once.
+- incapable of a sudden transition from one action to the other, and
+- incapable of performing both actions at once.
+
 Conviction from a subtle reasoning decreases the more the imagination struggles to enter into that reasoning.
-Dogma and Skepticism are Both Based on Doubt, But Operate in Opposite Ways
+
+
+
+## Dogma and Skepticism are Both Based on Doubt, But Operate in Opposite Ways
+
 Belief is a lively conception.
 
 It can never be entire if it is not founded on something natural and easy.
-This is the true state of the question.
-Some people use an expeditious way to totally reject the arguments of skeptics without examination.
-We cannot approve of this expeditious way.
-They say that:
-if the skeptical reasonings are strong, then it is a proof that reason may have some force and authority, and
-if the skeptical reasonings are weak, then reason can never be enough to invalidate all the conclusions of our understanding.
-That argument is not fair.
 
-This is because skeptical reasonings are successively strong and weak, based on the mind's successive dispositions.
+This is the true state of the question.
+
+Some people use an expeditious way to totally reject the arguments of skeptics without examination.
+
+We cannot approve of this expeditious way.
+
+They say that:
+- if the skeptical reasonings are strong, then it is a proof that reason may have some force and authority, and
+- if the skeptical reasonings are weak, then reason can never be enough to invalidate all the conclusions of our understanding.
+
+That argument is not fair.
+- This is because skeptical reasonings are successively strong and weak, based on the mind's successive dispositions.
+
 Reason initially takes the throne.
-It prescribes laws and imposes maxims with an absolute authority.
-Her enemy, doubt, takes shelter under her protection*.
+- It prescribes laws and imposes maxims with an absolute authority.
+
+Her enemy is doubt.
+- It takes shelter under her protection*.
+
+{{< n n="In data science, this doubt is called the bias that takes shelter in each neuron of a neural network in order to prevent some kinds of data from being processed further. The bias declines or changes depending on factors such as the learning rate." >}}
+
+
 It uses rational arguments to prove the fallaciousness and imbecility of reason, producing a patent under her band and seal.
+
 This patent initially has an authority proportional to the present and immediate authority of reason, from which it is derived.
+
 But as it is contradictory to reason, it gradually reduces the force of reason and its own at the same time.
+
 Until finally, they both vanish into nothing, by a regular and just reduction.
 The skeptical and dogmatical reasons are of the same kind.
 
@@ -184,14 +214,15 @@ Where the skepticism is strong, it has an enemy of equal force in dogma.
 Their forces were at first equal.
 They still continue to be equal as long as either of them subsists.
 None of them loses any force in the contest, without taking as much from its antagonist.
-* [ Translator's note: In data science, this doubt is called the bias that takes shelter in each neuron of a neural network in order to prevent some kinds of data from being processed further. The bias declines or changes depending on factors such as the learning rate. ]
+
+
 
 It is happy that nature:
+- breaks the force of all skeptical arguments in time, and
+- keeps skeptical arguments from having any considerable influence on the understanding.
 
-breaks the force of all skeptical arguments in time, and
-keeps skeptical arguments from having any considerable influence on the understanding.
 Skeptical arguments never self-destruct.
 
 If nature did not break them, they would have:
-subverted all conviction, and
-totally destroyed human reason.
+- subverted all conviction, and
+- totally destroyed human reason.

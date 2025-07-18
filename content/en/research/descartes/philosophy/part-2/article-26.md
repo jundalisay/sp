@@ -12,30 +12,22 @@ icon: "Rene Descartes"
 #   /research/descartes/philosophy/part-2/section-04
 ---
 
-<!-- **XXIV. What motion is according to common understanding.**
-
-Motion (specifically local motion, as no other kind falls within my contemplation, nor do I believe any other should be imagined in nature) is, as commonly understood, nothing other than the action by which a body migrates from one place to another. And therefore, as I have previously noted, the same thing can be said to change place and not change place at the same time, thus it can also be said to be moving and not moving. For example, one who sits in a ship, while it departs from the port, indeed thinks he is moving if he looks at the shores and considers them as immobile; but not if he looks at the ship itself, among whose parts he always maintains the same position. And moreover, since we commonly think there is action in all motion, but cessation of action in rest, it is more properly said to be at rest than to be moving because it does not feel any action within itself.
-
-**XXV. What motion is properly taken.**
-
-But if we consider not so much from common usage, but from the truth of the matter, what should be understood by motion, so that a certain nature may be attributed to it, we can say it is the translation of one part of matter, or one body, from the vicinity of those bodies which immediately touch it and are considered as at rest, to the vicinity of others. Here by one body, or one part of matter, I mean everything that is transferred together; although this itself may consist of many parts, which have other motions within themselves. And I say it is a translation, not a force or action that transfers, to show that it is always in the moving object, not in the mover, because these two are not usually distinguished accurately enough; and it is merely its mode, not a subsisting thing, just as shape is the mode of a shaped thing, and rest is the mode of a resting thing.
-
-**XXVI. No more action is required for motion than for rest.** -->
-
 
 ## 26. Effort is both needed for action and rest
+
+
+<!-- it displaces while moving, and its slowness (since I assume it is calm and still), gradually diminishes its motion. -->
 
 People wrongly think that more action is required for motion than for rest. 
 
 This is because from a young age, our body is accustomed to be moved by our will.
 - We notice our will.
 
-Our body is at rest simply because it adheres to the earth through gravity.
+We think that our body is at rest simply because of the gravity of the Earth.
 - We do not notice gravity. 
 
 Gravity and many other unnoticed causes resist the motions we want to initiate in our limbs. This causes us to tire.
-
-And so, we think that more force is needed to initiate motion than to stop it.
+- And so, we think that more force is needed to initiate motion than to stop it because we have mistaken action for the effort that we must exert to move our limbs.
 
 <!-- , considering action as that effort we use to move our limbs and, with their help, other bodies.  -->
 
@@ -46,6 +38,12 @@ However, we can easily get rid of this prejudice if we think that we need effort
 For example, we use the same force to:
 - push a ship at rest in still water
 - stop it when it is moving
+
+We might experience that less effort is needed to stop the ship than to make it go.
+- This is because the weight of the displaced water slows it down.*
+
+{{< n n="The environment is biased towards slowing down the boat" >}}
+
 
 <!-- In both, we counteract the weight of the water displaced by ship and its viscosity. -->
 
@@ -81,16 +79,15 @@ In this way, motion and rest are but 2 different modes of the body.
 
 <!-- ### 28. Motion properly taken is not to be referred to, except to the bodies contiguous to it which are moved.  -->
 
-## 28. Local motion only happens when the body is moved from the bodies contiguous to it 
+## 28. Motion only happens when the body is moved from the bodies touching it
 
-<!-- The transference of force takes place from the vicinity of contiguous bodies, to the vicinity of others, but not from one place to another. This is because the reception of the place is varied, and depends on our thought: but when we understand it by motion -->
+<!-- But when we take movement for the transport of a body which leaves the vicinity of those which it touches: It is certain that we cannot attribute to the same moving body more than one movement, because there is only a certain quantity of bodies which can touch it at the same time. -->
 
-Motion occurs from the vicinity of contiguous bodies to the vicinity of others, not from one place to another. **This is because the concept of place varies and depends on our thought.** 
+Motion occurs from the vicinity of contiguous bodies to the vicinity of others, not from one place to another. **This is because the concept of place [spot] varies and depends on our thought.** 
 
 A body can have only one motion at a time, instead of multiple, if we define motion as the transfer of a body that occurs **from the vicinity of contiguous bodies**, instead of as a change in location. 
 
-This is because at any given moment, **only one body can be contiguous to the same moving body**.
-
+This is because at any given moment, **a moving body can only be contiguous to one set of bodies at one time**.
 
 <!-- we cannot attribute multiple motions to that moving body simultaneously, but only one. -->
 
@@ -100,13 +97,20 @@ This is because at any given moment, **only one body can be contiguous to the sa
 <!-- ### 29. Nor are they to be referred to except to those bodies contiguous: which are looked upon as if they were at rest -->
 
 
-## 29. Local motion only happens when the bodies contiguous to the moving body are at rest.
+## 29. Motion only happens when the bodies contiguous to the moving body are at rest.
 
 This transfer occurs not just between any contiguous bodies, but only those that are perceived as being at rest.
 
-<!-- XXIX. It must not be attributed except to those contiguous bodies: which are considered as at rest. Finally, I added that the translation occurs from the vicinity, not of any contiguous bodies, but only of those which are regarded as at rest.  -->
+This is because motion is reciprocal. 
+- The body `AB` leaves the vicinity of the body `CD` just as `CD` leaves the vicinity of `AB`.
+- As much action is necessary for one as for the other.
 
-Therefore, if we were to entirely assign a proper and not relative nature to motion,
+This is very different from the common way of regarding motion.
+
+We are on Earth and think of it as being at rest even if its parts move.
+
+
+<!-- Therefore, if we were to entirely assign a proper and not relative nature to motion,
 
 Assume that 2 contiguous bodies are transferred and mutually separated:
 - Body 1 transfers in one direction
@@ -117,6 +121,14 @@ WE say that there is as much motion in Body 1 as in Body 2.
 But this would be too far from common usage. 
 
 We are used to standing on the earth and consider it as at rest. We do not think that the earth itself is moving even though we see some of its parts transferred from the vicinity of smaller bodies to the vicinity of other bodies contiguous to them.
+
+
+So much so that if we want to attribute to the movement Le Gras, p. 86 a nature that can be considered on its own, and without it being necessary to relate it to something else; 
+
+ When we see that two bodies which touch each other immediately will be transported, one to one side and the other to another and will be reciprocally separated, we will not have any difficulty in saying that there is just as much movement in one as in the other, I admit that in this we will move far away from the way of speaking which is in use, because as we are on the earth, and we think that it is at rest, although we see that some of its parts which touch other smaller bodies are transported from the vicinity of these bodies, we do not understand for that reason that it is moved. -->
+
+
+<!-- So, if we wish to attribute to movement a nature that can be considered on its own, without needing to be referred to something else, then when we observe that two bodies in immediate contact are transported—one in one direction, the other in the opposite—and thus mutually separated, we will have no difficulty saying that there is as much motion in one as in the other. -->
 
 
 
@@ -145,46 +157,3 @@ This is because ship `CD` is moving East, and the Earth's surface contiguous to 
 Thus, here we do not say that the earth is moving, but only the ships `AB` and `CD` and similarly for the rest. 
 
 <!-- But in the meantime, we will remember that everything real and positive in the bodies that are moving, because of which they are said to move, is also found in other contiguous bodies, which are nevertheless considered only as at rest. -->
-
-
-
-
-<!-- This is because the transfer itself is reciprocal. If body `AB` is transferred from the vicinity of body `CD`, then body `CD` is also transferred from the vicinity of body `AB`. 
-
-The same force and action are required on one side `AB` as on the other `CD`. 
-
-Therefore, if we wanted to attribute a nature to motion that is truly intrinsic and not related to anything else, when 2 contiguous bodies are transferred, one to one place and the other to another, and thus separated from each other, we would say that there is as much motion in one as in the other. 
-
-But this would deviate too much from common usage of language. 
-
-Since we are accustomed to standing on the ground and considering it as at rest, even though we may see some of its parts transferred from the vicinity of smaller bodies to the vicinity of others, we do not think that the ground itself is moved for that reason. -->
-
-<!-- The chief reason for this is that -->
-
-<!-- We only understand motion as a change of position. 
-
-Because from two contiguous bodies touching one another, insofar as they are transferred from each other, we say that the whole body which is moved is moved, 
-
-and it cannot be understood in this way to be the whole earth, on account of a certain shifting of some of its parts, from the vicinity of smaller bodies to which they are contiguous; since we can often observe several such shiftings contrary to one another even in the earth itself. 
-
-Assume body EFGH were the earth, and upon it at the same time body AB were transferred from E towards F, and CD from H towards G.
-
-This transfers the parts of the earth contiguous to body AB from B towards A.
-
-There should be no less action or one of a different nature in these XXX than in that transference, so far as motion is concerned.
-
-Yet we do not mean that the earth is moved from `B` towards `A`, or from the West towards the East. 
-
-This is because by the same reasoning, insofar as its parts contiguous to body `CD` are transferred from C towards D, it would have to be understood to be moved also in another direction, namely from the East towards the West; which two things are contradictory. 
-
-So therefore, in order not to depart too much from common usage of speaking, we shall not say here that the earth is moved, but only bodies `AB` and `CD`, and so on concerning the rest. 
-
-But meanwhile, we shall bear in mind that everything that is real and positive in the bodies which are moved, by reason of which they are said to be moved, is found also in their other contiguous bodies, which nevertheless we think of only as being at rest. -->
-
-
-<!-- This is because motion is the movement of the entire body. We do not apply this to the rotation of the Earth  because of the translation of some of its parts, from the vicinity of smaller bodies to which they are contiguous; 
-
-since often many such translations, mutually opposed to each other, can be observed in it. 
-
-For example, if the body EFGH is the Earth, and above it at the same time the body AB is transferred from E towards F, and CD from H towards G, although by this very fact the parts of the Earth contiguous to the body AB are transferred from B towards A, and neither a lesser nor a different nature of action should be in them, for that translation, than in the body AB, we do not therefore understand the Earth to be moving from B towards A, or from the West towards the East, because by the same reasoning, on account of the fact that its parts contiguous to the body CD are transferred from C towards D, it would have to be understood to be moving in another direction also, namely from the East towards the West; which two things are mutually contradictory. Therefore, in order not to depart too much from the common usage of speech, we shall not say here that the Earth is moving, but only the bodies AB and CD; and so of the others. But in the meantime, we shall remember that everything that is real and positive, in the bodies that are moving, because of which they are said to be moving, is also found in other bodies contiguous to them, which are nevertheless regarded only as stationary.
- -->

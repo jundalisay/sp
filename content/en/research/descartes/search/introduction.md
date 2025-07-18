@@ -1,13 +1,15 @@
 ---
-title: "Search"
+title: "Introduction"
 # date: 2025-05-16
-weight: 26
+weight: 3
 description: ""
-c: "mediumblue"
+c: "royalblue"
 ---
 
 
-An honorable person does not need to have read all books, nor to have carefully learned everything that is taught in schools. Moreover, their education would be poor if they had devoted too much time to letters. There are many other things to do in life, and they must direct it in such a way that the greater part remains for performing noble actions, which their own reason should teach them, if they received lessons from reason alone. But they come ignorant into the world, and since the knowledge of their early years rests only on the weakness of the senses or the authority of masters, it can hardly be helped that their imagination is filled with an infinite number of false ideas before their reason could take command over it; so that subsequently, they need either a good nature or frequent lessons from a wise person, both to shake off the false doctrines with which their mind is prejudiced, and to lay the first foundations of solid science, and discover all the means by which they can elevate their knowledge to the highest point it can reach."
+An honorable person does not need to have read all books, nor to have carefully learned everything that is taught in schools. Moreover, their education would be poor if they had devoted too much time to letters.
+
+There are many other things to do in life, and they must direct it in such a way that the greater part remains for performing noble actions, which their own reason should teach them, if they received lessons from reason alone. But they come ignorant into the world, and since the knowledge of their early years rests only on the weakness of the senses or the authority of masters, it can hardly be helped that their imagination is filled with an infinite number of false ideas before their reason could take command over it; so that subsequently, they need either a good nature or frequent lessons from a wise person, both to shake off the false doctrines with which their mind is prejudiced, and to lay the first foundations of solid science, and discover all the means by which they can elevate their knowledge to the highest point it can reach."
 
 
 "In this work, I intend to teach what these means are, and to bring to light the true riches of our nature, by opening to each person the way by which they can find within themselves, without borrowing from another, the knowledge necessary to direct their life, and subsequently acquire, through practice, the most curious sciences that human reason can possess."

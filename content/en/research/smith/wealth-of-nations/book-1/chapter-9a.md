@@ -53,10 +53,15 @@ Interest rates must have been higher before then. Back then, religious zeal proh
 - It probably even increased the evil of usury.
 
 The statute of Henry the 8th was revived by the 13th of Elizabeth, Chapter 8 in 1570.
+
 10% continued as the legal interest rate until 1623 when it was restricted to 8%.
+
 It was reduced to 6% after the restoration in 1660.
+
 By the 12th of Queen Anne in 1713, it was reduced to 5%.
+
 All these regulations were made with great propriety.
+
 They followed the market rate of interest, or the rate at which people of good credit usually borrowed.
 
 Since Queen Anne's time, 5% was above the market rate.
@@ -70,25 +75,37 @@ Wages have been continually increasing while business profits have been declinin
 
 {{< s v="7" >}} More stock is generally needed to do business in a big town than in a rural village.
 
-The following generally reduce the profit rate in big towns below that of rural villages= 
-The great stocks employed in every business.
-The number of rich competitors.
+The following generally reduce the profit rate in big towns below that of rural villages:
+- The great stocks employed in every business.
+- The number of rich competitors.
+
 But wages are generally higher in a big town than in a rural village.
+
 In a thriving town, the people who have great stocks to employ frequently cannot get the number of workers that they want.
+
 They bid against one another to get as many as they can.
+
 This raises wages and lowers profits.
+
 In the remote parts of the country, there is frequently insufficient stock to employ everyone.
+
 The people bid against each other to get employment.
+
 This lowers wages and raises profits.
 
 
 {{< s v="8" >}} In Scotland, the market interest rate is higher than the legal interest rate even though the legal interest rate is the same as in England.
 
 Credit-worthy people in Scotland seldom borrow under 5%.
+
 Even private bankers in Edinburgh give 4% loans which can be demanded by the banks at their pleasure.
+
 Private bankers in London pay no interest on deposits.
+
 Some businesses in Scotland need a bigger stock than a similar business in England.
+
 The common rate of profit, therefore, must be greater in Scotland than England.
+
 I have mentioned earlier that wages are lower in Scotland than in England.
 
 Scotland is also much poorer and advancing more slowly than England.
@@ -123,18 +140,32 @@ I think it is impossible that Scotland is going backwards because I have seen it
 {{< s v="10" >}} Holland is richer than England.
 
 Its government borrows at 2%.
+
 Credit worthy people borrow at 3%.
+
 Wages are higher in Holland than in England.
+
 The Dutch trade with lower profits than any European country.
+
 The trade of Holland was alleged to be decaying
+
 It might be true in some trades.
+
 But the symptoms above show that there is no general decay.
+
 When profits decrease, merchants complain that trade decays, though this reduction is the natural effect of its prosperity, or of more stock being employed in it than before.
+
 During the Seven Years' war, the Dutch gained and still retain a large share of France's total carrying trade.
+
 They own 40 million of combined French and English funds (which might be exaggerated).
+
 Their excess stock is shown by the big amounts they lend out to countries which have higher interest rates.
+
 They are unable to profit from this stock in their own country.
+
 It does not mean that business has decreased in Holland.
+
 A private man's capital may increase to exceed what he can employ himself, while his business increases.
+
 This is the same with a nation.
 

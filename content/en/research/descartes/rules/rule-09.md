@@ -1,9 +1,9 @@
 ---
 heading: Rule 9
-title: Look into understandable matters
+title: Focusing the Mind
 weight: 12
 description: The mind's keenness should be turned entirely to the smallest and most easily understandable matters, and to dwell on them longer until we become accustomed to discern truth distinctly and clearly
-c: "steelblue"
+c: "royalblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -23,13 +23,12 @@ The 2 principal faculties of the mind are:
 - sagacity
   - This artfully deduces one thing from another.
 
-Indeed, how the intuition of the mind should be used, we know from the very comparison of the eyes. 
-
-For whoever wishes to look at many objects at the same time with the same glance sees none of them distinctly
+We know how intuition should be used from the comparison of the eyes. 
+- When we look at many objects at the same time with the same glance, we see none of them distinctly
 
 He who is accustomed to attend to many things at once in a single act of thought has a confused mind. 
 
-But those craftsmen who are engaged in minute works and are accustomed to direct the eye attentively to each point acquire the capacity by practice to perfectly distinguish things however minute and subtle they may be; 
+But those craftsmen who are engaged in minute works and are accustomed to direct the eye attentively to each point acquire the capacity by practice to perfectly distinguish things however minute and subtle they may be.
 
 So too those who never distract their thoughts with various objects but always occupy themselves with considering each simplest and easiest thing become perspicacious.
 
@@ -54,4 +53,3 @@ I observe that a stone cannot move from one place to another in an instant, beca
 Similarly, if I want to know how from one and the same simple cause contrary effects can be produced simultaneously, I will not borrow from physicians medicines that expel certain humors and retain others, nor will I consult fortune-tellers about the moon, that it warms through light and cools through some hidden quality; 
 
 But I will rather look at a balance, in which the same weight at one and the same instant raises one end of the beam while depressing the other, and the like.
-

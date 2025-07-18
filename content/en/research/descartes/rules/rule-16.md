@@ -3,7 +3,7 @@ heading: Rule 16
 title: These things are better designated by very brief notes
 weight: 22
 description: These things are better designated by very brief notes than by complete figures
-c: "steelblue"
+c: "royalblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -64,7 +64,9 @@ Therefore, after we have sought it expressed in general terms, we must return it
 
 All these things we distinguish, we who seek the clear and distinct knowledge of things, not the Logicians, who are content if the sum sought occurs to them, even if they do not notice how the same depends on the data, in which however one science properly consists.
 
-But in general, it must be observed that nothing is ever to be committed to memory from those things which do not require continuous attention, if we can deposit them on paper, lest some part of our intellect be occupied in vain with the superfluous remembrance of the present object; and a certain index must be made, in which the terms of the question, as they will be proposed for the first time, will be written; then how the same are abstracted, and by what notes they are designated, so that, after the solution has been found in those notes, we may easily apply the same, without any aid of memory, to the particular subject about which the question is. 
+But in general, nothing is ever to be committed to memory from those things which do not require continuous attention, if we can deposit them on paper, lest some part of our intellect be occupied in vain with the superfluous remembrance of the present object.
+
+A certain index must be made, in which the terms of the question, as they will be proposed for the first time, will be written; then how the same are abstracted, and by what notes they are designated, so that, after the solution has been found in those notes, we may easily apply the same, without any aid of memory, to the particular subject about which the question is. 
 
 For nothing is ever abstracted except from something less general. Therefore, I will write in this way: The base AC in the right triangle ABC is sought, and I abstract the difficulty, so that the magnitude of the base is sought generally from the magnitudes of the sides; then for AB, which is 9, I put down a, for BC, which is 12, I put down b, and so on.
 

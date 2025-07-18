@@ -44,21 +44,23 @@ His confidence:
 - increases to perfection by the universal assent of the learned world.
 
 This gradual increase of assurance is:
-nothing but the addition of new probabilities, and
-derived from the constant union of causes and effects, according to past experience.
-Merchants seldom trust the infallible certainty of numbers in any important and long business computation.
+- nothing but the addition of new probabilities, and
+- derived from the constant union of causes and effects, according to past experience.
 
-To solve this, they use the the artificial structure of the accounting.
+Merchants seldom trust the infallible certainty of numbers in any important and long business computation.
+- To solve this, they use the the artificial structure of the accounting.
+
 Accounting creates a decent probability of the correct computation that is beyond the accountant's skill and experience.
+
 The accounts, of itself, has some uncertain and variable probability which depends on:
-the accountant's experience, and
-length of the account.
+- the accountant's experience, and
+- length of the account.
 
 Our assurance in a long computation cannot be higher than the probability of getting the correct computation.
 
-I affirm that we are more secure in shorter computations than long ones.
+**We are more secure in shorter computations than long ones.**
 
-The simplest equation is the addition of two single numbers.
+The simplest equation is the addition of 2 single numbers.
 
 We can easily reduce the longest series of addition to this simple equation by gradually reducing the numbers.
 
@@ -74,17 +76,15 @@ They must be entirely present or entirely absent because they will not divide.
 
 If any single addition were certain, every other addition would be certain.
 
-Consequently, the total sum would be certain, unless the whole can be different from all its parts.
+Consequently, the total sum would be certain unless the whole can be different from all its parts.
 
-I previously said that addition could be made certain by reducing the numbers.
 
-But I clarify that the addition must reduce itself, as well as every other reasoning.
+Addition could be made certain by reducing the numbers.
+- But that addition must reduce itself, as well as every other reasoning.
 
 It would then degenerate from knowledge into probability.
 
 All knowledge:
 - resolves itself into probability, and
 - finally becomes of the same nature with that evidence we employ in common life.
-
-
 

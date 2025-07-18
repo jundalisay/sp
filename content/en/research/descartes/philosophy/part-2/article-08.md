@@ -94,7 +94,7 @@ It is in reality, however, impossible that any, even the least part, of such qua
 
 
 
-### 9. The corporeal substance, when distinguished from its number, is confusedly thought of as incorporeal.
+## 9. The corporeal substance, when distinguished from its number, is confusedly thought of as incorporeal.
 
 <!-- Physical matter, when distinguished from metaphysical quantity, is confusedly conceived as something metaphysical.
 
@@ -176,6 +176,3 @@ This makes us consider extension in general.
 We think that the same extension is common to stones, wood, water, air, and other bodies, even to a vacuum itself, provided it:
 - be of the same magnitude and shape as before, and 
 - preserve the same situation among the external bodies which determine this space.
-
-
-

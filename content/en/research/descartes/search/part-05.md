@@ -1,9 +1,9 @@
 ---
-title: "Search"
+title: "Common Sense"
 # date: 2025-05-16
-weight: 6
+weight: 20
 description: ""
-c: "mediumblue"
+c: "royalblue"
 ---
 
 
@@ -47,8 +47,6 @@ He prefers to question others and to weigh what the ancients have written rather
 
 Since from his youth he mistook as reason that which rested solely on the authority of precepts, he now mistakes his own authority for reason, and he wants others to pay him the same tribute he once paid to others. But I shall consider myself satisfied and shall believe I have adequately answered the objections posed by Epistemon if you give your assent to what I say and if your reason convinces you of it.
 {{< /l >}}
-
-
 
 
 {{< r a="Epistemon" >}}
@@ -108,7 +106,9 @@ I have always left everyone complete freedom to judge and to either accept or re
 
 I am certain, if you continue to grant me your attention, you will yourselves admit that we cannot take too many precautions when establishing our foundations, and that once these are solidly laid, we will push conclusions further and with much more ease than we would have dared hope; so much so that I believe all the errors in the sciences come from the fact that, at the outset, we passed judgment too hastily by accepting as principles things that were obscure, with no clear or distinct notion of them. 
 
-This is a truth that proves how little progress we have made in the sciences whose principles are certain and known by all. On the other hand, in those sciences where the principles are obscure or uncertain, those who sincerely wish to express their thoughts will be forced to admit that, after much time spent and many heavy volumes read, they realize they know nothing and have learned nothing. So do not be surprised, my dear Epistemon, if, in wishing to guide Polyander along the safer path that has led me to knowledge, I am so careful and precise that I consider true only what I am certain of—namely the following propositions: I am, I think, I am a thinking being.
+This is a truth that proves how little progress we have made in the sciences whose principles are certain and known by all. On the other hand, in those sciences where the principles are obscure or uncertain, those who sincerely wish to express their thoughts will be forced to admit that, after much time spent and many heavy volumes read, they realize they know nothing and have learned nothing. 
+
+So do not be surprised, my dear Epistemon, if, in wishing to guide Polyander along the safer path that has led me to knowledge, I am so careful and precise that I consider true only what I am certain of—namely the following propositions: I am, I think, I am a thinking being.
 {{< /l >}}
 
 
@@ -121,10 +121,20 @@ You seem to me to resemble those authors who always land on their feet, you retu
 {{< l a="Eudoxus" >}}
 That is not as difficult as you think; for all truths follow from one another and are connected by a common link. The entire secret consists in beginning with the first and simplest ones, and then gradually, step by step, rising to those that are more remote and complex.
 
-Who will doubt that what I have stated as a principle is the very first thing we can know by any method? It is clear that we cannot doubt it, even if we were to doubt everything else in the world. Since we are thus certain of having begun well, in order not to be mistaken in what follows, we must take all possible care—and this is exactly what we are doing—to admit as true only that which is not subject to the slightest doubt. With this aim in mind, I believe we must let Polyander speak. Since he follows no other course but common sense, and his reason is untainted by any prejudice, it is unlikely that he will be misled—or at least, he would notice it easily and return to the right path without difficulty. So let us listen to him, and let him unfold the things which he himself says are contained in our principle.
+Who will doubt that what I have stated as a principle is the very first thing we can know by any method? It is clear that we cannot doubt it, even if we were to doubt everything else in the world.
+
+Since we are thus certain of having begun well, in order not to be mistaken in what follows, we must take all possible care—and this is exactly what we are doing—to admit as true only that which is not subject to the slightest doubt.
+
+Polyander follows only common sense. 
+- His reason is untainted by any prejudice
+
+It is unlikely that he will be misled—or at least, he would notice it easily and return to the right path without difficulty. 
+
+<!-- So let us listen to him, and let him unfold the things which he himself says are contained in our principle. -->
 {{< /l >}}
 
 
 {{< r a="Polyander" >}}
 There are so many things contained in the idea of a thinking being, that we would need entire days to unfold them. We will only deal with the main ones, those that help clarify the notion and prevent it from being confused with things unrelated to it. By a thinking being, I mean… (The rest is missing.)
 {{< /r >}}
+

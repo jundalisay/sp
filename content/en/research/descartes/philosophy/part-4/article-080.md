@@ -22,55 +22,65 @@ How can flame be ignited in these cavities? What is the nature of fire?
 
 <!-- Terrestrial particles -->
 
-**The earth-aether, regardless of their size or shape, individually follow the motion of the fire-aether**. 
+**The earth-aether, regardless of their size or shape, take the form of fire when they are separated from one another**. 
 
-Thus, they take on the form of fire, just as they take on the form of air when floating among the air-aether globules, imitating their movement.
+Thus, they get surrounded by the fire-aether and must follow their course, just as they take on the form of air when floating among the air-aether globules, imitating their movement.
 
-Therefore, the primary and principal difference between air and fire is that **the fire-aether particles are much more rapidly agitated than those of air-aether**.
+Therefore, the primary and principal difference between physical air and fire is that **fire particles move faster than air particles**
+- This is consistent with the fire-aether being more agitated than the-aether.
 
-The motion of the fire-aether is much faster than that of the air-aether.
+The secondary difference is that:
+- the largest parts of earth-aether bodies can best preserve and nourish fire.
+- the smallest particles of earth-aether can best retain the form of air.
 
-The denser particles of the earth-aether, such as those constituting the vapors of liquid mercury, can assume the form of physical air. 
-- But it is not necessary for their preservation. 
+The largest earth-aether, like quicksilver, can also receive the air-aether when they are very agitated by heat.
+- But they lose it afterwards when this agitation diminishes.
+- This makes them descebd due to gravity.
+
+
+<!-- - **the motion of the fire-aether is much faster than that of the air-aether**
+
+The denser particles of the earth-aether, such as those in the vapors of liquid mercury, can assume the form of physical air. 
+- But it is not necessary for their preservation.
 - On the contrary, it is purer, less prone to corruption, consisting only of the tiniest particles. 
 
 The denser particles, unless continuously agitated by heat, naturally fall downward by their own weight and spontaneously shed the form of air. 
 
-However, fire cannot exist without somewhat denser earth-aether particles, from which it is nourished and renewed.
+However, fire cannot exist without somewhat denser earth-aether particles, from which it is nourished and renewed. -->
 <!-- terrestrial -->
 
 
 ## 81. How fire is first ignited
 
 The air-aether globules:
-- occupy all the spaces around the Earth large enough to contain them.
-- mutually rest on each other in such a way that they cannot move independently unless in a circular motion around their own axis
+- occupy all the spaces around the earth-aether large enough to contain them.
+- are so crowded there that they touch each other and support each other
+  - If one moves, its neighbors also move unless that motion was a rotation
 
-This is even though the fire-aether fills all the small spaces left by these globules and moves very rapidly within them. 
+The fire-aether fills all the gaps left by these globules and moves very rapidly within them. 
+- But these still cannot carry the earth-aether particles with them because they are surrounded by the air-aether
 
-The air-aether cannot generate enough force in those places to carry away the earth-aether particles, which are all supported by:
+<!-- The air-aether cannot generate enough force in those places to carry away the earth-aether particles, which are all supported by:
 - each other and
 - the air-aether globules.
-
 This is why the air-aether globules cannot generate fire.
+ -->
 
-To generate fire, **the air-aether globules must be expelled from the intervals between some earth-aether particles.** 
+To generate fire, **the air-aether globules must be expelled from the gaps between some earth-aether particles.** 
 
-Once separated and floating freely in the fire-aether, these earth-aether particles are swiftly carried away in its motion and propelled in various directions.
+This frees up the earth-aether particles to follow the fire-aether in various directions.
+
 
 
 ## 82. How is Fire Sustained?
 
 To sustain this fire, the earth-aether particles must be dense, solid, and apt for motion. 
 
-<!-- celestial  -->
+This will allow it to move and give it force as directed by the fire-aether to repel the air-aether which constantly pushes them to return to the place of the fire from which they were expelled.
+- This prevents the fire from being extinguished by joining the others again.
 
-This way, when propelled by the fire-aether, they have the force to keep on repelling the air-aether globules from where the fire is.
 
-<!-- , and
-- where they will  to which they are ready to return.  -->
-
-If they stopped repelling the air-aether globules from returning to the space occupied by the fire, then those globules will break the force of the fire-aether and extinguish the fire.
+<!-- If they stopped repelling the air-aether globules from returning to the space occupied by the fire, then those globules will break the force of the fire-aether and extinguish the fire. -->
 
 <!-- This action prevents these globules from occupying the gaps left by the fire-aether initially, thereby  -->
 
@@ -78,15 +88,16 @@ If they stopped repelling the air-aether globules from returning to the space oc
 
 ## 83. Why Does Fire Need Nourishment?
 
-When these earth-aether particles strike the air-aether globules, they leave their space and turn into smoke.
+Through the fire, the earth-aether goes into the air where they lose their agitation little by little.
+- This makes them cease having the form of fire and turn to smoke. 
 
-This is because by leaving their space, they lose the force of the fire-aether. 
+This is why fire cannot remain long in the same place unless there is some body that it successively consumes to maintain itself.
 
-<!-- cannot be prevented by them from moving further and leaving that place, where the fire-aether primarily exerts its force, resulting in the loss of the form of fire and . -->
+Such a body should be:
+- separable one after the other by the action of the fire which then changes them into smoke.
+- plentiful and large enough to have the strength to repel the air-aether which tend to suffocate this fire
+  - The earth-aether in the physical air is not enough for this.
 
-To sustain a fire, some of these earth-aether particles must strike a denser body to separate away some more earth-aether particles from it. 
-- These new particles would then succeed the former [which will turn to smoke].
-- They will be carried away by the fire-aether, continuously generating new fire.
 
 
 

@@ -47,7 +47,9 @@ So what happens when the ideas of rest and annihilation are combined?
 What follows the annihilation of the air and subtle matter in the room, if the walls remained the same?
 
 Some metaphysicians answer that since matter and space are the same, the annihilation of the contents of the room makes the walls of the room collapse into each other and touch each other.
+
 They would touch each other because there would be no distance between them.
+
 This answer is very common.
 
 But I defy these metaphysicians to:
@@ -55,6 +57,7 @@ But I defy these metaphysicians to:
 - imagine the room's floor, roof, and walls, to touch each other.
 
 If you change their position, then you suppose a motion.
+
 But as we stay strictly with annihilation and no motion, the result would be a vacuum and not a contact of parts.
 
 
@@ -182,14 +185,15 @@ The sensation of motion is likewise the same when there is nothing tangible betw
 
 2. Two green balls have a gap between them filled with two more balls and are placed in the same way as two yellow balls.
 
-Gap
 
 Our senses will see that the two yellow balls can receive the same space without us touching them.
+
 Similarly, we can detect the space between those yellow balls when we run our hand between them and feel no objects other than those two.
 
 In other words, without changing the two yellow balls:
-our imagination can convert an invisible distance into a visible one, and
-our sense of motion can convert an intangible distance into a tangible one.
+- our imagination can convert an invisible distance into a visible one, and
+- our sense of motion can convert an intangible distance into a tangible one.
+
 
 3. These two kinds of distance have nearly the same effects on every natural phenomenon.
 
@@ -202,9 +206,11 @@ There is little difference whether this distance is:
 Here then are three relations between that distance which conveys the idea of a space and a vacuum.
 
 The distant objects affect the senses in the same way, whether separated by space or a vacuum.
+
 The second species of distance is found can receive the first.
 
 A space and a vacuum both equally reduce the force of every quality.
+
 These relations between a space and a vacuum will afford us an easy reason why:
 - the one has so often been taken for the other
 - we imagine we have an idea of space without the idea of any visible or tangible object.

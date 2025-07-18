@@ -77,22 +77,33 @@ Belief causes an idea to imitate the effects of the impressions.
 
 Therefore, belief must make it resemble them in these qualities.
 Belief is nothing but a more vivid and intense conception of any idea.
+
 This may both:
-serve as an additional argument for the present system
-give us a notion how our reasonings from causation are able to operate on the will and passions.
+- serve as an additional argument for the present system
+- give us a notion how our reasonings from causation are able to operate on the will and passions.
+
 Belief is almost absolutely needed to excite our passions.
 
 The passions in their turn are very favourable to belief.
+
 The facts that convey agreeable and painful emotions become more readily the objects of faith and opinion.
+
 A coward has his fears easily awakened.
 
 He readily assents to every account of danger he meets with, as a sorrowful person is very credulous of everything that nourishes his sadness.
+
 When any affecting object is presented, it gives the alarm.
+
 It immediately excites its proper passion, especially in persons naturally inclined to that passion.
+
 This emotion passes through an easy transition to the imagination.
+
 It diffuses itself over our idea of the affecting object.
+
 It makes us form that idea with greater force and vivacity.
+
 We consequently assent to it, according to the precedent system.
+
 Admiration and surprise have the same effect as the other passions.
 
 Because of their magnificent pretensions, quacks and projectors meet with a more easy faith among the vulgar, than if they had moderation.
@@ -193,11 +204,16 @@ Yet there is always something more forcible and real in the imagination's action
 The force of our mental actions in this case are not stronger than in any other mental action.
 It is not to be measured by the mind's apparent agitation.
 A poetical description may have a more sensible effect on the fancy than an historical narration.
+
 It may:
 collect more of those circumstances, that form a complete image, and
 set the object before us in more lively colours.
+
 But the ideas it presents are different to the feeling from the ideas which arise from the memory and judgment.
-General Rules Check the Vivacity of Ideas
+
+
+## General Rules Check the Vivacity of Ideas
+
 There is something weak and imperfect in the vehemence of thought and feeling that goes with the fictional ideas of poetry.
 
 A poetical enthusiasm and a serious conviction have similarities and differences.

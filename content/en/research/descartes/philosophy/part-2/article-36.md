@@ -120,29 +120,3 @@ Therefore it must be concluded that **what is in motion, as much as it is in its
 But because we are here on Earth, whose constitution is such that all motions that occur near it are quickly brought to rest, often due to causes that are hidden from our senses.
 
 Therefore, from an early age we have often judged those motions, which are thus stopped by causes unknown to us. This makes us think that they stop of their own accord, that they cease from their own nature, or tend towards rest.
-
- <!-- And now we are inclined to believe that about everything, which we seem to have experienced in many cases; namely,  Which indeed -->
-
-<!--  But this is most contrary to the laws of nature. This is because:
- - rest is contrary to motion
- - nothing can be naturally drawn towards its own contrary or destruction.
-
-
-### 38. The motion of projectiles -->
-
-<!-- And finally, I added that this translation is made from the vicinity, XXIX. not of any contiguous bodies, but of those only which are regarded as being at rest. 
-
-And translation itself is a reciprocal motion, nor can it be understood that a body is transferred from the vicinity of body CD to the vicinity of body AB, without its at the same time being understood that body CD is transferred from the vicinity of body AB. And plainly the same force and action is required from one part as from the other. Wherefore if we wish to attribute a nature to motion which is altogether its own, and not relative to anything else, when two contiguous bodies are transferred, one in one direction, the other in another, and so are separated from each other, we should say that there is just as much motion in one as in the other. But this would be too great a departure from common usage. For since we are accustomed to regard the earth as being at rest, and to consider it as immovable, although we see some of its parts transferred from their vicinity to other smaller bodies, yet on that account we do not think that the earth itself is moved.” -->
-
-<!-- And indeed daily experience in what is projected confirms our rule completely.  -->
-
-<!-- This is proven by the fact that projectiles continue in motion after they have been separated by the throwing hand. 
-
-This is because, once set in motion, they continue to move, until they are slowed down by the objects they encounter. 
-
-They are usually slowed down by the air, or by any other fluid bodies in which they move. This makes their motion not last long. 
-
-This is because the air resists the motions of other bodies. We can experience this by the very sense of touch, if we strike the fan itself; and the same confirms the flight of birds. 
-
-And there is no other liquid which resists the motions of the projections, which is not as yet manifest as air.
- -->

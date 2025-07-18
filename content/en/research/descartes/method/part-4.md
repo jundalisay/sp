@@ -3,7 +3,7 @@ heading: Part 4
 title: I Think Therefore I Am
 weight: 14
 description: "I realized that I think, therefore I exist (cogito ergo sum). This was so certain that it could not be doubted."
-c: "steelblue"
+c: "royalblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

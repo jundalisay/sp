@@ -3,7 +3,7 @@ heading: Rule 18
 title: The 4 Basic Operations
 weight: 38
 description: 'To this end, only 4 operations are required-- addition, subtraction, multiplication, and division.'
-c: "steelblue"
+c: "royalblue"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -100,4 +100,5 @@ Conversely, if the same is to be divided by b, then:
 
 {{< i s="/graphics/d/ab.png" a="Division" >}}
 
-In these divisions, however, in which the divisor is not given, but only in some way designated by any relation, as when it is said that the square root, or the cube is to be extracted, etc., then it is to be noticed that the term is to be divided and all others are always to be conceived as existing in the order of the series of proportions, of which the first is unity and the last is the magnitude to be divided
+In these divisions, however, in which the divisor is not given, but only in some way designated by any relation, as when it is said that the square root, or the cube is to be extracted, etc., then it is to be noticed that the term is to be divided and all others are always to be conceived as existing in the order of the series of proportions, of which the first is unity and the last is the magnitude to be divided.
+

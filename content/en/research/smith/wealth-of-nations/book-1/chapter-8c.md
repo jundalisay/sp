@@ -19,43 +19,65 @@ We do not need to calculate the lowest sum needed to raise a family because ther
 1. {{< s v="28" >}} Summer wages are different from winter wages in Great Britain.
 
 Summer wages are always highest.
+
 The maintenance of a family is most expensive in winter due to high fuel costs.
+
 Therefore, wages are highest when fuel costs are at their lowest.
+
 Wages are not regulated by the cost of fuel, but by the quantity and value of the work done under such a cost.
 
 A worker should:
-save part of his summer wages to defray the increased cost of fuel in the winter, and
-reduce his expences so that they do not exceed what is needed to maintain his family throughout the year.
+- save part of his summer wages to defray the increased cost of fuel in the winter, and
+- reduce his expences so that they do not exceed what is needed to maintain his family throughout the year.
+
 A slave, however, does not need to do this as his daily subsistence would be proportioned by his master to his daily necessities.
+
 
 2. {{< s v="29" >}} Wages in Great Britain do not fluctuate with the price of goods which vary monthly and yearly.
 
 But in many places, the money price of labour stays uniform even for half a century.
-If in these places the working poor can maintain their families in dear years, then they are= 
-at ease in times of moderate plenty, and
-in affluence in times of extraordinary cheapness.
+
+If in these places the working poor can maintain their families in dear years, then they are:
+- at ease in times of moderate plenty, and
+- in affluence in times of extraordinary cheapness.
+
 In many parts of Great Britain during the past 10 years, wages have not increased even if the price of provisions has increased.
+
 However, wages have increased in some places due to the increase in the demand for labour.
+
 
 3. {{< s v="30" >}} The price of goods varies more yearly than wages.
 
 On the other hand, wages vary more from place to place than the price of goods.
+
 The poor buy all things by retail.
+
 Retail prices are generally cheaper in urban areas than rural areas.
+
 But wages in an urban area are 20-25% higher.
+
 18 pence a day is the common wage in London.
+
 At a few miles from the town, it falls to 14 and 15 pence.
+
 10 pence may be its price in Edinburgh.
+
 A few miles away, it falls to 8 pence, which are the usual wages in the low country of Scotland.
 
 Wages in Scotland vary much less than in England.
+
 Wages in a big town are frequently 20-25% higher than a few miles outside the town.
+
 Such differences in prices are not always enough to induce humans to move from one district to another.
-But it is enough to move commodities from= 
-one district to another, and
-one end of the world to another.
+
+But it is enough to move commodities from:
+- one district to another, and
+- one end of the world to another.
+
 This movement would reduce their prices until they arrive at a natural level.
+
 Of all sorts of luggage, humans are the most difficult to transport.
+
 Therefore, if the labouring poor can maintain their families where wages are lowest, they would be in affluence where wages are highest.
 
 
@@ -154,4 +176,3 @@ The improvements in metal manufactures furnish them with better tools and househ
 - However, they are not much consumed by the labouring poor, so their effect is minimal.
 
 The increase in the real and nominal wages of the working poor is proven by the common complaint that they will not be contented with the same goods and lodging which satisfied them before.
-

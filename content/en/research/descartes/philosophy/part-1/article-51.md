@@ -97,7 +97,11 @@ No one can deny that there is in us such an idea of God, without groundlessly su
 
 ## 55. How duration, order, and number may be also distinctly conceived.
 
-We will also have most distinct conceptions of duration, order, and number, if, in place of mixing up with our notions of them that which properly belongs to the concept of substance, we merely think that the duration of a thing is a mode under which we conceive this thing, in so far as it continues to exist.
+<!-- We will also have most distinct conceptions of duration, order, and number, if, in place of mixing up with our notions of them that which properly belongs to the concept of substance, we merely think that  -->
+
+The duration of a thing is a mode under which we conceive this thing, in so far as it continues to exist.*
+
+{{< n n="This is why we define time as the gap between perceptions in general, and timespan as the gap between 2 perceptions" >}}
 
 Similarly, order and number are not in reality different from things disposed in order and numbered, but only modes under which we diversely consider these things.
 

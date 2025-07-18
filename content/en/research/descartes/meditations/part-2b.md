@@ -4,7 +4,7 @@ heading: Part 2b
 # of the Second Meditation
 weight: 4
 description: "Bodies are much more clearly known to me than this puzzling ‘I’ that cannot be pictured in the imagination"
-c: "steelblue"
+c: "royalblue"
 icon: "Rene Descartes"
 ---
 

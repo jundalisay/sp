@@ -3,7 +3,7 @@ title: "Curiosity of the Sciences"
 # date: 2025-05-16
 weight: 6
 description: ""
-c: "mediumblue"
+c: "royalblue"
 ---
 
 
@@ -70,7 +70,7 @@ You are entirely content that your knowledge is truly superior to that of others
 {{< /r >}}
 
 
-{{< r a="Eudoxus" >}}
+{{< l a="Eudoxus" >}}
 Thank you for your good opinion of me.
 
 <!-- But I do not want to abuse your politeness to the point of wanting you to believe what I have just said solely on the faith of my words. 
@@ -80,7 +80,7 @@ One must not put forward opinions so far removed from common belief without bein
 I would like to show you a part of the things I know.
 
 <!-- I dare to flatter myself that not only will you recognize that I have reasons to be content, but that moreover you yourselves will be very pleased with what you will have learned. -->
-{{< /r >}}
+{{< /l >}}
 
 
 <!-- **Epistemon:** I do not want to refuse a favor that I so ardently desired. -->

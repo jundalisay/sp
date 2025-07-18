@@ -13,10 +13,13 @@ icon: "David Hume"
 
 
 The causes and effects of the calm and violent passions is a subject of the nicest speculation in philosophy.
-        ◦ Passions do not influence the will in proportion to their violence, or the disorder they occasion in the temper;
-        ◦ but on the contrary, that when a passion has once become a settled principle of action, and is the predominant inclination of the soul, it commonly produces no longer any sensible agitation.
+
+Passions do not influence the will in proportion to their violence, or the disorder they occasion in the temper;
+
+but on the contrary, that when a passion has once become a settled principle of action, and is the predominant inclination of the soul, it commonly produces no longer any sensible agitation.
 
 Repeated custom and its own force have made everything yield to it.
+
         ◦ It directs the actions and conduct without that opposition and emotion, which so naturally attend every momentary gust of passion.
     • We must, therefore, distinguish between:
         ◦ a calm and a weak passion

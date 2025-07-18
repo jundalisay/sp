@@ -103,9 +103,13 @@ It depends more on:
 Most of the work, which is probably done in cheap years, never enters the public registers of manufactures.
 
 The male servants who leave their masters become independent workers.
+
 The female servants return to their parents and make clothes for themselves and their families.
+
 The independent workers are employed by their neighbours to manufacture for family use.
+
 Their production is frequently not recorded.
+
 It does not make its way into publications which our merchants and manufacturers use to announce a nation's prosperity or decline.
 
 
@@ -129,15 +133,21 @@ But it would be still higher if the price of provisions were high.
 {{< s v="53" >}} In a year of sudden and extraordinary plenty, many employers have funds to employ more industrious people than the year before.
 
 The employers who want more workers bid against each other.
+
 They sometimes raise both the real and the money price of labour.
+
 The money price of labour sinks in years of sudden and extraordinary scarcity because the demand for labour sinks.
 
 {{< s v="54" >}} In a year of sudden and extraordinary scarcity, the funds for employing industry are less than the year before.
 
 Many people are unemployed and bid against each other to get employment.
+
 They sometimes lower both the real and money price of labour.
+
 1740 was a year of extraordinary scarcity.
+
 Many people were willing to work for bare subsistence.
+
 In the succeeding years of plenty, it was more difficult to get workers.
 
 

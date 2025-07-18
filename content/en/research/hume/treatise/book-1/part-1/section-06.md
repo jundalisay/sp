@@ -32,10 +32,13 @@ If it is perceived by:
 No one will assert that substance is a colour, sound, or a taste.
 
 The idea of substance must therefore be derived from an impression of reflection, if it really exists.
+
 But the impressions of reflection resolve themselves into our feelings.
+
 None of these can possibly represent a substance.
 
 We therefore have no idea of substance, distinct from the idea of a collection of particular qualities.
+
 We have no other meaning when we talk about it.
 
 The idea of a substance and mode is nothing but a collection of simple ideas that:

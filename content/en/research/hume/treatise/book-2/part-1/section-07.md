@@ -1,6 +1,6 @@
 ---
 heading: Section 7
-title: "VICE AND VIRTUE"
+title: "Vice And Virtue"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 weight: 4
@@ -11,7 +11,7 @@ icon: "David Hume"
 ---
 
 
-With these limitations, let us:
+With these requirements [limitations], we can:
 - examine the causes of pride and humility.
 - see whether in every case we can discover the double relations by which they operate on the passions.
 
@@ -20,12 +20,16 @@ There will be no further scruple with the present system if we find that all the
 - produce a pleasure or uneasiness separate from the passion.
 
 We shall principally prove the latter point as the former is obvious.
-    • Vice and virtue are the most obvious causes of these passions.
-        ◦ In recent years, a controversy has so much excited the public’s curiosity: whether these moral distinctions:
+
+Vice and virtue are the most obvious causes of these passions.
+
+In recent years, a controversy has so much excited the public’s curiosity: whether these moral distinctions:
             ▪ are founded on natural and original principles, or
             ▪ arise from interest and education.
-    • I will examine this in the following book.
-    • In the meantime, I shall show that my system maintains its ground on these hypotheses.
+
+I will examine this in the following book.
+
+In the meantime, I shall show that my system maintains its ground on these hypotheses.
         ◦ It will be a strong proof of its solidity.
     • If morality had no foundation in nature, vice and virtue from self-interest or the prejudices of education would produce a real pain and pleasure in us.
         ◦ This is strenuously asserted by the defenders of that hypothesis.
