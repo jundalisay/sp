@@ -88,9 +88,12 @@ This is true where the senses are:
 
 We cannot create an idea of a pineapple's taste without tasting it.
 
-However, one contradictory phenomenon proves that it is not absolutely impossible for ideas to go before their impressions.
+<!-- However, one contradictory phenomenon proves that it is not  -->
 
-The colours or sounds conveyed by the senses, are really different from each other even if they resemble.
+This shows that it is not absolutely impossible for ideas to go before their impressions.
+
+
+<!-- The colours or sounds conveyed by the senses, are really different from each other even if they resemble.
 If this is true of different colours, then it must be also true of the different shades of the same colour.
 
 Each of the shades produces a distinct idea independent of the rest.
@@ -116,11 +119,13 @@ Though the instance is so particular and singular, it:
 
 Other people might suggest an additional exception that our secondary ideas are images of our primary ideas, and so are not derived from impression.
 
-However, this is not an exception because those primary ideas are simple ideas which are supposed to be derived from impressions.
+However, this is not an exception because those primary ideas are simple ideas which are supposed to be derived from impressions. -->
 
-Generally, There are No Innate A Priori Ideas
 
-This is the first principle that I establish in the science of human nature.
+
+### Generally, There are No Innate A Priori Ideas
+
+This is my first principle in the science of human nature.
 
 This question on the sequence of our impressions or ideas is the same as the question whether:
 - there are any innate ideas [ a priori ], or
