@@ -40,10 +40,12 @@ I do not know from what principles such a controversy can be certainly determine
         But I think that Trebonian's decision seems ingenious:
             The cup belongs to the proprietor of the metal, because it can be brought back to its first form.
             But the ship belongs to the shipbuilder because it cannot be brought back.
-        No matter how ingenious this reason may seem, it plainly depends on the fancy.
-        Through the possibility of such a reduction, the imagination finds a closer relation:
-            between a cup and the proprietor of its metal, than
-            between a ship and the proprietor of its wood, where the substance is more fixed and unalterable.
+
+No matter how ingenious this reason may seem, it plainly depends on the fancy.
+
+Through the possibility of such a reduction, the imagination finds a closer relation:
+- between a cup and the proprietor of its metal, than
+- between a ship and the proprietor of its wood, where the substance is more fixed and unalterable.
 
 
 Mankind's general interest requires that people's possessions should pass to those dearest to them to render them more industrious and frugal.
@@ -64,7 +66,8 @@ Perhaps these causes are seconded by the influence of relation.
         There are many parallel instances of this.20
 
 
-Footnote 20:
+{{< b >}}
+## Footnote 20:
 
 Many reasons can convince us that the right of succession of government authority depends on the imagination.
 
@@ -78,4 +81,4 @@ Suppose that a person dies without children.
             His affection to these families does not depend on his possessions.
                 This is why his consent can never be presumed precisely for such a partition.
             Public interest is not concerned on the one side or the other.
-
+{{< /b >}}

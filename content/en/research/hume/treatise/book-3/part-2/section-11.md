@@ -77,23 +77,27 @@ The system of morals calculated for princes is much more free than the system of
         It may lawfully be transgressed from a more trivial motive.
     However shocking such a proposition may appear to certain philosophers, it will be easy to defend it on those principles of the origin of justice and equity.
 
-    Men quickly restrain their actions and impose an obligation to observe the laws of justice when they have found that it is impossible to:
+Men quickly restrain their actions and impose an obligation to observe the laws of justice when they have found that it is impossible to:
         subsist without society, and
         maintain society while they give free course to their appetites.
-    This obligation of interest does not rest here.
+
+This obligation of interest does not rest here.
         By the necessary course of the passions and sentiments, it creates the moral obligation of duty while we:
             approve of actions that maintain the peace of society, and
             disapprove of actions that disturb it.
     The same natural obligation of interest:
         takes place among independent kingdoms, and
         gives rise to the same morality.
-    No one so corrupt morals will approve of a prince who voluntarily:
+
+No one so corrupt morals will approve of a prince who voluntarily:
         breaks his word, or
         violates any treaty.
-    The intercourse of different states is advantageous and even necessary sometimes.
+
+The intercourse of different states is advantageous and even necessary sometimes.
         But it is not so necessary nor advantageous as the intercourse among individuals.
         Without this, it is impossible for human nature to ever subsist.
-    The natural obligation to justice among different states is not so strong as among individuals.
+
+The natural obligation to justice among different states is not so strong as among individuals.
         The moral obligation arising from this natural obligation must share its weakness.
         We must give a greater indulgence to a prince or minister who deceives another, than to a private gentleman who breaks his word.
 

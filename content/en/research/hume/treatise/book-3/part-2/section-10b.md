@@ -31,8 +31,10 @@ When we have been long accustomed to obey any set of persons, we have a general 
         This tendency takes us
             easily to this direction, and
             chooses that set of men for its objects.
-        Interest gives us the general instinct.
-        But custom gives us the particular direction.
+
+Interest gives us the general instinct.
+
+But custom gives us the particular direction.
 
 The same length of time has a different influence on our moral sentiments, according to its different influence on the mind.
 
@@ -70,25 +72,34 @@ The same motives may seem to have force with regard to public authority.
             preserving peace, and
             avoiding all changes which are attended with bloodshed and confusion in the public affairs, but may be easily produced in private affairs.
 
-    Anyone who cannot account for the right of the present possessor by any system of ethics:
-        should absolutely deny that right, and
-        should assert that it is not authorized by morality.
-    People would think that such a person:
-        maintains a very extravagant paradox, and
-        shocks mankind's common sense and judgment.
-    No maxim is more conformable to prudence and morals, than to submit quietly to the government established in the country we happen to live, without inquiring too curiously into its origin and establishment.
-        Few governments will be examined so rigorously.
-        How many kingdoms are there in the world at present?
-        How many more do we find in history, whose governors have no better foundation for their authority than that of present possession?
-    The long succession of emperors from the dissolution of the Roman liberty to Rome's extinction by the Turks, could not pretend to any other title to the empire.
-        The election of the senate was a mere form.
+Anyone who cannot account for the right of the present possessor by any system of ethics:
+- should absolutely deny that right, and
+- should assert that it is not authorized by morality.
+
+People would think that such a person:
+- maintains a very extravagant paradox, and
+- shocks mankind's common sense and judgment.
+
+No maxim is more conformable to prudence and morals, than to submit quietly to the government established in the country we happen to live, without inquiring too curiously into its origin and establishment.
+
+Few governments will be examined so rigorously.
+
+How many kingdoms are there in the world at present?
+
+How many more do we find in history, whose governors have no better foundation for their authority than that of present possession?
+
+The long succession of emperors from the dissolution of the Roman liberty to Rome's extinction by the Turks, could not pretend to any other title to the empire.
+
+The election of the senate was a mere form.
         It always followed the choice of the legions.
-        These were almost always divided in the different provinces.
+
+These were almost always divided in the different provinces.
             Only the sword was able to terminate the difference.
             Therefore, every emperor acquired and defended his right by the sword.
-        We must either say that:
-            for so many ages, the world had no government and owed allegiance to no one, or
-            in public affairs, the right of the stronger is legitimate and authorized by morality, when not opposed by any other title.
+
+We must either say that:
+- for so many ages, the world had no government and owed allegiance to no one, or
+- in public affairs, the right of the stronger is legitimate and authorized by morality, when not opposed by any other title.
 
 
 ## The Third Source of Authority: Right Of Conquest

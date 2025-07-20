@@ -51,8 +51,11 @@ All this connection of causes and effects is founded at first on those character
 
 Without the authority of the memory or senses, our whole reasoning would be chimerical and baseless.
 Every link of the chain would in this case hang on another.
+
 But there would be nothing fixed to one end of it that can sustain the whole.
+
 Consequently, there would be no belief nor evidence.
+
 This is actually the case with all hypothetical arguments.
 
 Hypothetical arguments do not have any present impression nor belief of a real existence in them.

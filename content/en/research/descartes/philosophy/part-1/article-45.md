@@ -1,8 +1,8 @@
 ---
-title: "Perception"
-heading: Articles 45-
+title: "Distinct Perception"
+heading: Articles 45-50
 weight: 22
-description: "The duration alone of our life is sufficient to demonstrate the existence of God"
+description: "What constitutes clear and distinct perception?"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

@@ -83,7 +83,9 @@ Until at last, he hits on some lucky circumstance that:
 Here the person that forgets receives at first all the ideas from the other's talk, in the same time and place.
 
 But he considers them as mere fictions of the imagination.
+
 But as soon as the circumstance that touches the memory is mentioned, the very same ideas now appear in a new light.
+
 They have a different feeling from before.
 
 Without any other alteration, besides that of the feeling, they:
@@ -91,9 +93,9 @@ Without any other alteration, besides that of the feeling, they:
 - are assented to.
 
 It may be proper to consider what is the nature of that feeling since:
+- the imagination can represent all the same objects that the memory can offer to us, and
+- those faculties are only distinguished by the different feeling of the ideas they present.
 
-the imagination can represent all the same objects that the memory can offer to us, and
-those faculties are only distinguished by the different feeling of the ideas they present.
 The ideas of the memory are more strong and lively than those of the fancy.
 
 A painter, who intended to represent an emotion, would try to see someone actuated by a like emotion, in order to:
@@ -109,7 +111,9 @@ We frequently doubt the ideas of the memory, as they become very weak and feeble
 We are at a loss to determine whether any image proceeds from the fancy or the memory, when it is not drawn in such lively colours to distinguish the memory.
 
 One says, I think I remember such an event, but am not sure.
+
 A long tract of time has almost worn it out of my memory.
+
 It am uncertain whether it is purely from my fancy.
 
 

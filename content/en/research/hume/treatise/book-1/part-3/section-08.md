@@ -47,8 +47,11 @@ The mind conceives the related idea with all the force and vivacity that the min
 I trust experience to prove so material a principle.
 
 We see the picture of an absent friend.
+
 Our idea of him is enlivened by the resemblance.
+
 Every feeling created by that idea, acquires new force and vigour.
+
 A relation and a present impression concurs to produce this effect.
 
 If we removed the picture, the idea of him would be weakened by that transition.

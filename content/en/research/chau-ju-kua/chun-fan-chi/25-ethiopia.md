@@ -28,52 +28,24 @@ Other products are:
 
 There are elephants' tusks which' weigh over 100 catties, and rhinoceros horns of over 10.
 
-It also has giraffes (tsula) 
 
-The country brings forth also the
-which measures from the ground to
-wings and can
-There
-is
-fly,
-(so-called) «camel-crane»
-its
-crown from
-but not to any great height»
-also (in this country) a wild
-resembles a camel in shape, an ox in
-size,
+The country has the camel-crane (駱駝鶖) which measures from the ground to its crown from 6-7 feet.
+- It has wings and can fly, but not to any great height.
 
-of a yellow colour. Its fore
-head
-is
-high up and 20
-a kind of mule with brown, white and
-body. These animals wander about the mountain
-they are a variety of the camel
-wilds;
-15
-has
-an inch thick®.
-also (in this country)
-black stripes around
+There is also a wild animal called tsu-la (祖 螂).
+- It resembles a camel in shape, an ox in size, and is of a yellow colour.
+- Its fore legs are 5 feet long, its hind legs only 3 feet.
+- Its head is high up and 20 turned upwards.
+- Its skin is an inch thick.
 
-animal called isu-la (^5.
-and
-,B|£
-six to seven feet. It
-legs are five feet long, its hind legs only three feet. Its
-turned upwards. Its skin
-{^
-who
-(^
-^"^
-;^
-^|j
-^
-j^). The inhab-
-are great huntsmen, hunt these animals with 25
-poisoned arrows'.
+There is also a kind of mule with brown, white and black stripes around its body.
+
+These animals wander about the mountain wilds.
+
+They are a variety of the camel (駱駝之別種也). 
+
+The people are great huntsmen who hunt these animals with poisoned arrows.
+
 
 <!-- Notes.
 1)
@@ -346,103 +318,47 @@ There have many sorcerers who change themselves into birds, beasts, or aquatic a
 
 If some of them in trading with some foreign ship have a quarrel, the sorcerers pronounce a charm over the ship, so that it can neither go forward nor backward, and they only release the ship when it has settled the dispute. 
 
-The government has formally forbidden this
-practice.
+The government has formally forbidden this practice.
 
 Every year, countless numbers of birds of passage alight in the desert parts of this country.
 
 When the sun rises, they suddenly disappear. The people catch them with nets and eat them. They are remarkably savoury. 
 
-They are in season till the end of spring,
-summer comes, they  
-but, as soon as
-disappear, to
-come back the
-following year.
+They are in season till the end of spring, but as soon as summer comes, they disappear, to come back the next year.
 
-When a Somali diesdies, and they are about to bury him in his coffin, his kinsfolk from near and far to condole. Each person has a sword in his hand, goes in and asks the mourners the cause of the person's death. If he was killed by the hand of man, each one says, we revenge him on the murderer with these swords. 
+When a Somali dies, and they are about to bury him in his coffin, his kinsfolk from near and far to condole. 
 
-Should the mourners reply that he was not killed by any one, but that he came to his end by the
-will Heaven, they throw away their swords and break into violent wailing.
+Each person has a sword in his hand, goes in and asks the mourners the cause of the person's death. If he was killed by the hand of man, each one says, we revenge him on the murderer with these swords. 
+
+Should the mourners reply that he was not killed by any one, but that he came to his end by the will of Heaven, they throw away their swords and break into violent wailing.
 
 Every year there are driven on the coast a great many dead fish 200 feet long and 20 feet wide. 
 
-and eyes, from which they get
-a single
-fish).
-in lamps.
-25
-They mix
-this oil
-fish,
-much
-is 
-It is not
-at sea
-in this
-it)
-and
-fish it
-this
-tortoise-shell
-it
-rafters, the
-it
-—
-for the
-liaste
-*.
+The people do not eat the flesh of this fish. But they cut out the brains, marrow, and eyes, from which they get as much as 300 tong from a single fish.
+
+They mix this oil:
+- with lime to caulk their boats
+- for their lamps
+
+
+The poor people use:
+- the ribs to make rafters
+- the backbone to make door leaves
+- the vertabrae to make mortars
 
 There is a mountain which forms the boundary of Ethiopia (Pipalo). It has 4,000 li around it and is mostly uninhabited. 
 
+ is procured 
 
-and ambergris.
-suddenly appears in lumps
-catties in weight, driven on the shore
-make
-also
-country M'hich forms the
-U around
-known whence ambergris comes;
-of from three to five or ten
-it
-|JL()
-make
-it
-make mortars with
-vertebrae to
-procured from
-wind. The people of the country
-across
-off
-thousand
-and from the waters (around
--Qr),
-as three hundred odd tong (from
-ribs of these fish to
-(or island,
+From this mountain is obtained:
+- dragon's-blood
+- aloes
+- tortoise-shells and ambergris from its waters.
 
-It is four
-uninhabited. Dragon's-blood
-through the body. The
-with lime to caulk their boats, and use
-backbones for door leaves, and they cut
-a mountain
-feet
-but they cut out their brains, marrow,
-often as
-oil,
-The poor people use the
-There
-30
-and twenty
-feet in length
-people do not eat the flesh of these
-by the
-to divide it up, or ships
-run
-sea and fish it up.
 
+It is not known whence ambergris comes. It suddenly appears in lumps from 3-10 catties in weight, driven to the shore by the wind. 
+
+The people hurry to divide it up or fish it up by ships.
 
 <!-- Notes.
 Chung-H, as a name of a country, does not occur in any other Chinese writer hefore

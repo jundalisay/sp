@@ -1,7 +1,6 @@
 ---
 title: Excrements and Diseases
 heading: Part 2
-# First Meditation
 weight: 4
 description: "Convulsion occurs when there is a gas trapped within the nerves, not pure animal spirits"
 writer:
@@ -33,7 +32,9 @@ The same thing happens in the case of chestnuts placed on top of a perforated ir
 
 If they do not move, the heat of the fire attenuates the spirit inside them. But it also attenuates the bark of the chestnuts that is closest to the fire, through which the spirit expels itself.
 
-If, however, they do move, then the bark that was closest to the fire is opposed to another part of the cold air, and its passages are therefore constricted. The spirit inside is not attenuated, either because it has begun to move or because the fire urges it from the other side. 
+If, however, they do move, then the bark that was closest to the fire is opposed to another part of the cold air, and its passages are therefore constricted. 
+
+The spirit inside is not attenuated, either because it has begun to move or because the fire urges it from the other side. 
 
 Nor can it expel itself through the bark of the fire at that time: because it is not yet fully decompressed, and because it has already directed its paths towards another part.
 

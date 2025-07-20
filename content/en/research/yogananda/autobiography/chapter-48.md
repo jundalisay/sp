@@ -24,26 +24,57 @@ Directly below the hall, built into the very bluff, two solitary meditation cave
 
 encinitas
 
-Encinitas, California, overlooking the Pacific. Main building and part of the grounds of the Self-Realization Fellowship
+### Encinitas, California, overlooking the Pacific. Main building and part of the grounds of the Self-Realization Fellowship
+
 This Self-Realization Fellowship ashram had been made possible through the generosity of a few American disciples, American businessmen of endless responsibilities who yet find time daily for their Kriya Yoga. Not a word of the hermitage construction had been allowed to reach me during my stay in India and Europe. Astonishment, delight!
 
-During my earlier years in America I had combed the coast of California in quest of a small site for a seaside ashram; whenever I had found a suitable location, some obstacle had invariably arisen to thwart me. Gazing now over the broad acres of Encinitas, 48-1 humbly I saw the effortless fulfillment of Sri Yukteswar’s long-ago prophecy: “a hermitage by the ocean.”
+During my earlier years in America, I had combed the coast of California in quest of a small site for a seaside ashram.
 
-A few months later, Easter of 1937, I conducted on the smooth lawns at Encinitas the first of many Sunrise Services. Like the magi of old, several hundred students gazed in devotional awe at the daily miracle, the early solar fire rite in the eastern sky. To the west lay the inexhaustible Pacific, booming its solemn praise; in the distance, a tiny white sailing boat, and the lonely flight of a seagull. “Christ, thou art risen!” Not alone with the vernal sun, but in the eternal dawn of Spirit!
+Whenever I had found a suitable location, some obstacle had invariably arisen to thwart me. 
 
-Many happy months sped by; in the peace of perfect beauty I was able to complete at the hermitage a long-projected work, Cosmic Chants. I set to English words and Western musical notation about forty songs, some original, others my adaptations of ancient melodies. Included were the Shankara chant, “No Birth, No Death”; two favorites of Sri Yukteswar’s: “Wake, Yet Wake, O my Saint!” and “Desire, my Great Enemy”; the hoary Sanskrit “Hymn to Brahma”; old Bengali songs, “What Lightning Flash!” and “They Have Heard Thy Name”; Tagore’s “Who is in my Temple?”; and a number of my compositions: “I Will be Thine Always,” “In the Land Beyond my Dreams,” “Come Out of the Silent Sky,” “Listen to my Soul Call,” “In the Temple of Silence,” and “Thou Art my Life.”
+Gazing now over the broad acres of Encinitas, 48-1 humbly I saw the effortless fulfillment of Sri Yukteswar’s long-ago prophecy: “a hermitage by the ocean.”
+
+A few months later, Easter of 1937, I conducted on the smooth lawns at Encinitas the first of many Sunrise Services. 
+
+Like the magi of old, several hundred students gazed in devotional awe at the daily miracle, the early solar fire rite in the eastern sky.
+
+<!-- To the west lay the inexhaustible Pacific, booming its solemn praise; in the distance, a tiny white sailing boat, and the lonely flight of a seagull. “Christ, thou art risen!” Not alone with the vernal sun, but in the eternal dawn of Spirit! -->
+
+Many happy months sped by.
+
+<!-- in the peace of perfect beauty I was able to complete at the hermitage a long-projected work, Cosmic Chants.  -->
+
+I set to English words and Western musical notation about forty songs, some original, others my adaptations of ancient melodies. 
+
+Included were:
+- the Shankara chant, “No Birth, No Death”
+- two favorites of Sri Yukteswar’s: “Wake, Yet Wake, O my Saint!” and “Desire, my Great Enemy”
+- the hoary Sanskrit “Hymn to Brahma”
+- old Bengali songs, “What Lightning Flash!” and “They Have Heard Thy Name”
+- Tagore’s “Who is in my Temple?”
+- a number of my compositions: “I Will be Thine Always,” “In the Land Beyond my Dreams,” “Come Out of the Silent Sky,” “Listen to my Soul Call,” “In the Temple of Silence,” and “Thou Art my Life.”
 
 For a preface to the songbook I recounted my first outstanding experience with the receptivity of Westerners to the quaintly devotional airs of the East. The occasion had been a public lecture; the time, April 18, 1926; the place, Carnegie Hall in New York.
 
-“Mr. Hunsicker,” I had confided to an American student, “I am planning to ask the audience to sing an ancient Hindu chant, ‘O God Beautiful!’”
+{{< l a="Yogananda" >}}
+Mr. Hunsicker (an American student), I am planning to ask the audience to sing an ancient Hindu chant, ‘O God Beautiful!’
+{{< /l >}}
 
-“Sir,” Mr. Hunsicker had protested, “these Oriental songs are alien to American understanding. What a shame if the lecture were to be marred by a commentary of overripe tomatoes!”
+{{< r a="Hunsicker" >}}
+Sir, these Oriental songs are alien to American understanding. What a shame if the lecture were to be marred by a commentary of overripe tomatoes!
+{{< /r >}}
 
 I had laughingly disagreed. “Music is a universal language. Americans will not fail to feel the soul-aspiration in this lofty chant.” 48-2
 
-During the lecture Mr. Hunsicker had sat behind me on the platform, probably fearing for my safety. His doubts were groundless; not only had there been an absence of unwelcome vegetables, but for one hour and twenty-five minutes the strains of “O God Beautiful!” had sounded uninterruptedly from three thousand throats. Blase’ no longer, dear New Yorkers; your hearts had soared out in a simple paean of rejoicing! Divine healings had taken place that evening among the devotees chanting with love the Lord’s blessed name.
+During the lecture Mr. Hunsicker had sat behind me on the platform, probably fearing for my safety. 
 
-The secluded life of a literary minstrel was not my role for long. Soon I was dividing every fortnight between Los Angeles and Encinitas. Sunday services, classes, lectures before clubs and colleges, interviews with students, ceaseless streams of correspondence, articles for East-West, direction of activities in India and numerous small centers in American cities. Much time was given, also, to the arrangement of Kriya and other Self-Realization Fellowship teachings into a series of studies for the distant yoga seekers whose zeal recognized no limitation of space.
+His doubts were groundless; not only had there been an absence of unwelcome vegetables, but for one hour and twenty-five minutes the strains of “O God Beautiful!” had sounded uninterruptedly from three thousand throats. 
+
+Blase’ no longer, dear New Yorkers; your hearts had soared out in a simple paean of rejoicing! Divine healings had taken place that evening among the devotees chanting with love the Lord’s blessed name.
+
+The secluded life of a literary minstrel was not my role for long. Soon I was dividing every fortnight between Los Angeles and Encinitas. Sunday services, classes, lectures before clubs and colleges, interviews with students, ceaseless streams of correspondence, articles for East-West, direction of activities in India and numerous small centers in American cities. 
+
+Much time was given, also, to the arrangement of Kriya and other Self-Realization Fellowship teachings into a series of studies for the distant yoga seekers whose zeal recognized no limitation of space.
 
 Joyous dedication of a Self-Realization Church of All Religions took place in 1938 at Washington, D.C. Set amidst landscaped grounds, the stately church stands in a section of the city aptly called “Friendship Heights.” The Washington leader is Swami Premananda, educated at the Ranchi school and Calcutta University. I had summoned him in 1928 to assume leadership of the Washington Self-Realization Fellowship center.
 
@@ -65,7 +96,13 @@ Another letter reached me from war-torn England just before America entered the 
 
 “Perhaps in the body I shall never reach your golden shores nor worship in your temple. But it is something and more, to have had the vision and know that in the midst of war there is still a peace that abides in your harbors and among your hills. Greetings to all the Fellowship from a common soldier, written on the watchtower waiting for the dawn.”
 
-The war years brought a spiritual awakening among men whose diversions had never before included a study of the New Testament. One sweet distillment from the bitter herbs of war! To satisfy a growing need, an inspiring little Self-Realization Church of All Religions was built and dedicated in 1942 at Hollywood. The site faces Olive Hill and the distant Los Angeles Planetarium. The church, finished in blue, white, and gold, is reflected amidst the water hyacinths in a large pool. The gardens are gay with flowers, a few startled stone deer, a stained- glass pergola, and a quaint wishing well. Thrown in with the pennies and the kaleidoscopic wishes of man has been many a pure aspiration for the sole treasure of Spirit! A universal benignity flows from small niches with statues of Lahiri Mahasaya and Sri Yukteswar, and of Krishna, Buddha, Confucius, St. Francis, and a beautiful mother-of- pearl reproduction of Christ at the Last Supper.
+The war years brought a spiritual awakening among men whose diversions had never before included a study of the New Testament. One sweet distillment from the bitter herbs of war! 
+
+To satisfy a growing need, an inspiring little Self-Realization Church of All Religions was built and dedicated in 1942 at Hollywood. The site faces Olive Hill and the distant Los Angeles Planetarium. 
+
+The church, finished in blue, white, and gold, is reflected amidst the water hyacinths in a large pool. The gardens are gay with flowers, a few startled stone deer, a stained- glass pergola, and a quaint wishing well. 
+
+Thrown in with the pennies and the kaleidoscopic wishes of man has been many a pure aspiration for the sole treasure of Spirit! A universal benignity flows from small niches with statues of Lahiri Mahasaya and Sri Yukteswar, and of Krishna, Buddha, Confucius, St. Francis, and a beautiful mother-of- pearl reproduction of Christ at the Last Supper.
 
 Another Self-Realization Church of All Religions was founded in 1943 at San Diego. A quiet hilltop temple, it stands in a sloping valley of eucalypti, overlooking sparkling San Diego Bay.
 
@@ -129,7 +166,11 @@ The Self-Realization Church of All Religions in Washington, D.C., whose leader, 
 father2
 
 My venerable father, seated in the tranquil lotus posture, Calcutta, 1936
-Far into the night my dear friend-the first Kriya Yogi in America- discussed with me the need for world colonies founded on a spiritual basis. The ills attributed to an anthropomorphic abstraction called “society” may be laid more realistically at the door of Everyman. Utopia must spring in the private bosom before it can flower in civic virtue. Man is a soul, not an institution; his inner reforms alone can lend permanence to outer ones. By stress on spiritual values, self- realization, a colony exemplifying world brotherhood is empowered to send inspiring vibrations far beyond its locale.
+
+
+Far into the night my dear friend-the first Kriya Yogi in America- discussed with me the need for world colonies founded on a spiritual basis. 
+
+The ills attributed to an anthropomorphic abstraction called “society” may be laid more realistically at the door of Everyman. Utopia must spring in the private bosom before it can flower in civic virtue. Man is a soul, not an institution; his inner reforms alone can lend permanence to outer ones. By stress on spiritual values, self- realization, a colony exemplifying world brotherhood is empowered to send inspiring vibrations far beyond its locale.
 
 August 15, 1945, close of Global War II! End of a world; dawn of an enigmatic Atomic Age! The hermitage residents gathered in the main hall for a prayer of thanksgiving. “Heavenly Father, may never it be again! Thy children go henceforth as brothers!”
 
@@ -144,7 +185,6 @@ Gone was the tension of war years; our spirits purred in the sun of peace. I gaz
 48-1: A small town on Coast Highway 101, Encinitas is 100 miles south of Los Angeles, and 25 miles north of San Diego.
 
 48-2: I translate here the words of Guru Nanak’s song:
-
 
   O God beautiful! O God beautiful!
   In the forest, Thou art green,

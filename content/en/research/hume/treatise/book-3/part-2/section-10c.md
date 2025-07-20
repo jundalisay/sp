@@ -27,7 +27,7 @@ Men are led to prefer the son of their late monarch to any other person because 
 
 
 {{< box >}}
-Footnote 23:
+### Footnote 23:
 
 I do not assert that present possession or conquest are enough to give a title against long possession and positive laws.
 
@@ -41,7 +41,7 @@ It is difficult to determine what degree of force they have.
 I believe that they have great force in all disputes on the rights of princes.
 
 
-Footnote 24:
+### Footnote 24:
 
 To prevent mistakes, this case of succession is not the same with the case of hereditary monarchies, where custom has fixed the right of succession.
 
@@ -89,13 +89,16 @@ Cyrus pretended a right to the throne above his elder brother, because he was bo
         Artaxerxes had an advantage over his brother, as being the eldest son and the first in succession.
             But Cyrus was more closely related to the royal authority, as being begot after his father was invested with it.
 
-    Should convenience be the source of all the right of succession?
-    Should men gladly take advantage of any rule which lets them:
+Should convenience be the source of all the right of succession?
+
+Should men gladly take advantage of any rule which lets them:
         fix the successor of their late sovereign, and
         prevent that anarchy and confusion, which attends all new elections?
-    This motive may contribute something to the effect.
+
+This motive may contribute something to the effect.
         But without another principle, it is impossible such a motive would take place.
-    A nation's interest requires that the succession to the crown be fixed one way or other.
+
+A nation's interest requires that the succession to the crown be fixed one way or other.
         So that if the relation of blood did not affect the public interest, it would never have been regarded without a positive law.
         It would have been impossible that so many positive laws of different nations could ever have concurred precisely in the same views and intentions.
 
@@ -149,25 +152,28 @@ In this, the study of history confirms the reasonings of true philosophy.
         It teaches us to regard political controversies as:
             incapable of any decision in most cases, and
             entirely subordinate to the interests of peace and liberty.
-    Where the public good does not demand a change, the concurrence of the following titles forms the strongest title to sovereignty:
+
+Where the public good does not demand a change, the concurrence of the following titles forms the strongest title to sovereignty:
         original contract
         long possession
         present possession
         succession
         positive laws.
             This concurrence is justly regarded as sacred and inviolable.
-    But when these titles are mingled and opposed in different degrees, they often occasion perplexity.
-        They are less capable of solution from the arguments of lawyers and philosophers, than from the swords of the soldiery.
+But when these titles are mingled and opposed in different degrees, they often occasion perplexity.
+
+They are less capable of solution from the arguments of lawyers and philosophers, than from the swords of the soldiery.
 
 Roman Emperor Tiberius had an only son, Drusus, and an adopted son Germanicus.
         If Tiberius died without naming a successor, which of his two sons should have been named emperor?
 
 Should the right of adoption be equivalent to the right of blood in a nation where it had:
-            the same effect in private families, and
-            in two instances, already taken place in the public?
+- the same effect in private families, and
+- in 2 instances, already taken place in the public?
 
 Should Germanicus be esteemed the eldest son because he was born before Drufus?
-            Or should he be the younger, because he was adopted after Drusus' birth?
+
+Or should he be the younger, because he was adopted after Drusus' birth?
 
 Should the elder's right be regarded in a nation where the eldest brother had no advantage in the succession to private families?
 

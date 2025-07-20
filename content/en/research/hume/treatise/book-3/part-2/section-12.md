@@ -106,11 +106,13 @@ Men undoubtedly have an implicit notion that those ideas of modesty and decency 
 
 But the case is not the same with regard to the different ages of women.
             Men know that these notions are founded on the public interest.
-            Yet the general rule:
-                carries us beyond the original principle, and
-                makes us extend the notions of modesty over all females:
-                    from their earliest infancy
-                    to their extremest old-age and infirmity.
+
+
+Yet the general rule:
+- carries us beyond the original principle, and
+- makes us extend the notions of modesty over all females:
+  - from their earliest infancy
+  - to their extremest old-age and infirmity.
 
 Courage is the point of honour among men
     It derives its merit greatly from artifice and women's chastity.

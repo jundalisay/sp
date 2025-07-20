@@ -22,38 +22,34 @@ Farming |
 
 Lumei, also called Meiluku, is 300 stages west by land from Aden (Malopa). 
 
-The city wall is crooked, seven-fold, and built of large smooth flat black stones. Each wall is 1,000 paces from the adjoining one.  There are over 300 minarets. One of which is 800 feet tall which allows 4 horses abreast to pass through.
+The city wall is crooked, seven-fold, and built of large smooth flat black stones. Each wall is 1,000 paces from the adjoining one.  
 
-It has 360 rooms in made of coloured woollen stuffs
-meat and meal
-20 families are
-are byssus
-(cakes).
+There are over 300 minarets. One of which is 800 feet tall which allows 4 horses abreast to pass through.
 
-They use gold and employed weaving
+It has 360 rooms.
 
-it.
-wear turbans which hang down on the neck, and
-c(The people all
-clothing
-mina-
-one eight hundred feet high», which four horses
-their
-|^). Their food consists
-silver coins».
-Forty thousand
-brocades (^^). The products of the country
-silk
-|§), gold spangled yue-no
-cades with alternating stripes of gold and
-^ ^ ^ ^),
-cloth (^
-silk, bezoar stones, wu-ming-i,
-bro-
-rose-water, gardenia flowers, liquid storax, borax, and a superior quality of
-engraved opaque glassware. The people are fond of breeding camels, horses
-25
-and dogs.
+The people all wear turbans which hang down on the neck.
+
+Their clothing is made of coloured woollen stuffs (色毛段). 
+
+Their food consists of meat and meal (cakes). They use gold and silver coins. 
+
+40,000 families are employed weaving silk brocades (錦). 
+
+The products of the country are:
+- byssus (䌷絺)
+- gold spangled gué-no cloth (金字越䌷布)
+- brocades with alternating stripes of gold and silk
+- bezoar stones
+- wu-ming-i
+- rose-water
+- gardenia flowers
+- liquid storax
+- borax
+- a superior quality of engraved opaque glassware. 
+
+The people are fond of breeding camels, horses and dogs.
+
 
 <!-- Note.
 

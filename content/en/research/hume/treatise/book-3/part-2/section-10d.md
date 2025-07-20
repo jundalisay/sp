@@ -85,35 +85,41 @@ The preservation of public liberty is most essential to public interest.
                     excluding his next heir, and
                     choosing whom they please for his successor.
     This is founded on a very singular quality of our thought and imagination.
-    When a king forfeits his authority, his heir naturally remains in the same situation as if the king were removed by death, unless he forfeits it by mixing himself in the tyranny.
+
+When a king forfeits his authority, his heir naturally remains in the same situation as if the king were removed by death, unless he forfeits it by mixing himself in the tyranny.
         This may seem reasonable.
         But we can easily give a contrary opinion.
-    The king's deposition in our government is an act beyond all common authority.
+
+The king's deposition in our government is an act beyond all common authority.
         It is illegal to assume power for public good, if ordinarily that power cannot belong to any member of the constitution.
         When the public good is so great and evident as to justify the action, the commendable use of this licence causes us to naturally attribute a right of using further licences to the parliament.
             The ancient bounds of the laws are transgressed with approbation.
             We are not so strict in confining ourselves precisely within their limits.
     The mind naturally runs with any train of action which it has begun.
         We do not commonly make any scruple about our duty after doing any initial action.
-    Thus at the revolution, the people who thought that the king's deposition was justifiable, confined themselves to his infant son.
+
+Thus at the revolution, the people who thought that the king's deposition was justifiable, confined themselves to his infant son.
         If:
             that unhappy king died innocently at that time, and
             his son had been sent overseas,
         then a regency would have been appointed until he:
             should come to age, and
             could be restored to his dominions.
-    The imagination's slightest properties have an effect on people's judgments.
+
+The imagination's slightest properties have an effect on people's judgments.
         It shows the wisdom of the laws and of the parliament to:
             take advantage of such properties, and
             choose the magistrates in or out of a line.
                 Because the vulgar will most naturally attribute authority to them.
 
-    The Prince of Orange's accession to the throne might initially cause:
-        many disputes, and
-        his title being contested.
+The Prince of Orange's accession to the throne might initially cause:
+- many disputes, and
+- his title being contested.
 
-    But it must have acquired a sufficient authority from the three princes who succeeded him.
-    This way of thinking is most usual.
+
+But it must have acquired a sufficient authority from the three princes who succeeded him.
+
+This way of thinking is most usual.
         But at first sight, it appears most unreasonable.
     Princes often seem to acquire a right from their successors and ancestors.
         A king, who was a usurper during his lifetime, will be regarded by posterity as a lawful prince because he had the good fortune to:
@@ -125,12 +131,16 @@ The preservation of public liberty is most essential to public interest.
     Time and custom give authority to:
         all forms of government, and
         all successions of princes.
-    The power that was initially founded only on injustice and violence becomes legal and obligatory in time.
-    The mind does not rest there.
+
+The power that was initially founded only on injustice and violence becomes legal and obligatory in time.
+
+The mind does not rest there.
         Going back on its footsteps, it transfers to their predecessors and ancestors that right which it naturally ascribes to posterity.
         The mind sees that right as being:
             related together, and
             united in the imagination.
-    The present king of France makes Hugh Capet a more lawful prince than Cromwell.
-        The established liberty of the Dutch is no inconsiderable apology for their obstinate resistance to Philip II.
+
+The present king of France makes Hugh Capet a more lawful prince than Cromwell.
+
+The established liberty of the Dutch is no inconsiderable apology for their obstinate resistance to Philip II.
 

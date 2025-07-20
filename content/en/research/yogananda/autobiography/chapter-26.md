@@ -27,31 +27,59 @@ Kriya is an ancient science. Lahiri Mahasaya received it from his guru, Babaji, 
 
 “The Kriya Yoga which I am giving to the world through you in this nineteenth century,” Babaji told Lahiri Mahasaya, “is a revival of the same science which Krishna gave, millenniums ago, to Arjuna, and which was later known to Patanjali, and to Christ, St. John, St. Paul, and other disciples.”
 
-Kriya Yoga is referred to by Krishna, India’s greatest prophet, in a stanza of the Bhagavad Gita: “Offering inhaling breath into the outgoing breath, and offering the outgoing breath into the inhaling breath, the yogi neutralizes both these breaths; he thus releases the life force from the heart and brings it under his control.” 26-2 The interpretation is: “The yogi arrests decay in the body by an addition of life force, and arrests the mutations of growth in the body by apan (eliminating current). Thus neutralizing decay and growth, by quieting the heart, the yogi learns life control.”
+Kriya Yoga is referred to by Krishna in a stanza of the Bhagavad Gita: 
 
-Krishna also relates 26-3 that it was he, in a former incarnation, who communicated the indestructible yoga to an ancient illuminato, Vivasvat, who gave it to Manu, the great legislator. 26-4 He, in turn, instructed Ikshwaku, the father of India’s solar warrior dynasty. Passing thus from one to another, the royal yoga was guarded by the rishis until the coming of the materialistic ages. 26-5 Then, due to priestly secrecy and man’s indifference, the sacred knowledge gradually became inaccessible.
+“Offering inhaling breath into the outgoing breath, and offering the outgoing breath into the inhaling breath, the yogi neutralizes both these breaths; he thus releases the life force from the heart and brings it under his control.” 26-2
 
-Kriya Yoga is mentioned twice by the ancient sage Patanjali, foremost exponent of yoga, who wrote: “Kriya Yoga consists of body discipline, mental control, and meditating on Aum.” 26-6 Patanjali speaks of God as the actual Cosmic Sound of Aum heard in meditation. 26-7 Aum is the Creative Word, 26-8 the sound of the Vibratory Motor. Even the yoga-beginner soon inwardly hears the wondrous sound of Aum. Receiving this blissful spiritual encouragement, the devotee becomes assured that he is in actual touch with divine realms.
+The interpretation is: “The yogi arrests decay in the body by an addition of life force, and arrests the mutations of growth in the body by apan (eliminating current). Thus neutralizing decay and growth, by quieting the heart, the yogi learns life control.”
+
+Krishna also relates 26-3 that it was he, in a former incarnation, who communicated the indestructible yoga to an ancient illuminato, Vivasvat, who gave it to Manu, the great legislator. 26-4 
+
+He, in turn, instructed Ikshwaku, the father of India’s solar warrior dynasty. Passing thus from one to another, the royal yoga was guarded by the rishis until the coming of the materialistic ages. 26-5 Then, due to priestly secrecy and man’s indifference, the sacred knowledge gradually became inaccessible.
+
+Kriya Yoga is mentioned twice by the ancient sage Patanjali, foremost exponent of yoga, who wrote: “Kriya Yoga consists of body discipline, mental control, and meditating on Aum.” 26-6 
+
+Patanjali speaks of God as the actual Cosmic Sound of Aum heard in meditation. 26-7 Aum is the Creative Word, 26-8 the sound of the Vibratory Motor. Even the yoga-beginner soon inwardly hears the wondrous sound of Aum. Receiving this blissful spiritual encouragement, the devotee becomes assured that he is in actual touch with divine realms.
 
 Patanjali refers a second time to the life-control or Kriya technique thus: “Liberation can be accomplished by that pranayama which is attained by disjoining the course of inspiration and expiration.” 26-9
 
-St. Paul knew Kriya Yoga, or a technique very similar to it, by which he could switch life currents to and from the senses. He was therefore able to say: “Verily, I protest by our rejoicing which I have in Christ, i die daily.” 26-10 By daily withdrawing his bodily life force, he united it by yoga union with the rejoicing (eternal bliss) of the Christ consciousness. In that felicitous state, he was consciously aware of being dead to the delusive sensory world of maya.
+St. Paul knew Kriya Yoga, or a technique very similar to it, by which he could switch life currents to and from the senses. 
 
-In the initial states of God-contact (sabikalpa samadhi) the devotee’s consciousness merges with the Cosmic Spirit; his life force is withdrawn from the body, which appears “dead,” or motionless and rigid. The yogi is fully aware of his bodily condition of suspended animation. As he progresses to higher spiritual states (nirbikalpa samadhi), however, he communes with God without bodily fixation, and in his ordinary waking consciousness, even in the midst of exacting worldly duties. 26-11
+He was therefore able to say: “Verily, I protest by our rejoicing which I have in Christ, i die daily.” 26-10 By daily withdrawing his bodily life force, he united it by yoga union with the rejoicing (eternal bliss) of the Christ consciousness. In that felicitous state, he was consciously aware of being dead to the delusive sensory world of maya.
+
+In the initial states of God-contact (sabikalpa samadhi) the devotee’s consciousness merges with the Cosmic Spirit; his life force is withdrawn from the body, which appears “dead,” or motionless and rigid. The yogi is fully aware of his bodily condition of suspended animation. 
+
+As he progresses to higher spiritual states (nirbikalpa samadhi), however, he communes with God without bodily fixation, and in his ordinary waking consciousness, even in the midst of exacting worldly duties. 26-11
 
 “Kriya Yoga is an instrument through which human evolution can be quickened,” Sri Yukteswar explained to his students. “The ancient yogis discovered that the secret of cosmic consciousness is intimately linked with breath mastery. This is India’s unique and deathless contribution to the world’s treasury of knowledge. The life force, which is ordinarily absorbed in maintaining the heart-pump, must be freed for higher activities by a method of calming and stilling the ceaseless demands of the breath.”
 
 The Kriya Yogi mentally directs his life energy to revolve, upward and downward, around the six spinal centers (medullary, cervical, dorsal, lumbar, sacral, and coccygeal plexuses) which correspond to the twelve astral signs of the zodiac, the symbolic Cosmic Man. One-half minute of revolution of energy around the sensitive spinal cord of man effects subtle progress in his evolution; that half-minute of Kriya equals one year of natural spiritual unfoldment.
 
-The astral system of a human being, with six (twelve by polarity) inner constellations revolving around the sun of the omniscient spiritual eye, is interrelated with the physical sun and the twelve zodiacal signs. All men are thus affected by an inner and an outer universe. The ancient rishis discovered that man’s earthly and heavenly environment, in twelve-year cycles, push him forward on his natural path. The scriptures aver that man requires a million years of normal, diseaseless evolution to perfect his human brain sufficiently to express cosmic consciousness.
+The astral system of a human being, with six (twelve by polarity) inner constellations revolving around the sun of the omniscient spiritual eye, is interrelated with the physical sun and the twelve zodiacal signs. All men are thus affected by an inner and an outer universe. 
 
-One thousand Kriya practiced in eight hours gives the yogi, in one day, the equivalent of one thousand years of natural evolution: 365,000 years of evolution in one year. In three years, a Kriya Yogi can thus accomplish by intelligent self-effort the same result which nature brings to pass in a million years. The Kriya short cut, of course, can be taken only by deeply developed yogis. With the guidance of a guru, such yogis have carefully prepared their bodies and brains to receive the power created by intensive practice.
+The ancient rishis discovered that man’s earthly and heavenly environment, in twelve-year cycles, push him forward on his natural path. The scriptures aver that man requires a million years of normal, diseaseless evolution to perfect his human brain sufficiently to express cosmic consciousness.
 
-The Kriya beginner employs his yogic exercise only fourteen to twenty- eight times, twice daily. A number of yogis achieve emancipation in six or twelve or twenty-four or forty-eight years. A yogi who dies before achieving full realization carries with him the good karma of his past Kriya effort; in his new life he is harmoniously propelled toward his Infinite Goal.
+1,000 Kriya practiced in 8 hours gives the yogi, in one day, the equivalent of 1,000 years of natural evolution: 365,000 years of evolution in one year. 
 
-The body of the average man is like a fifty-watt lamp, which cannot accommodate the billion watts of power roused by an excessive practice of Kriya. Through gradual and regular increase of the simple and “foolproof” methods of Kriya, man’s body becomes astrally transformed day by day, and is finally fitted to express the infinite potentials of cosmic energy-the first materially active expression of Spirit.
+In 3 years, a Kriya Yogi can thus accomplish by intelligent self-effort the same result which nature brings to pass in a million years. 
 
-Kriya Yoga has nothing in common with the unscientific breathing exercises taught by a number of misguided zealots. Their attempts to forcibly hold breath in the lungs is not only unnatural but decidedly unpleasant. Kriya, on the other hand, is accompanied from the very beginning by an accession of peace, and by soothing sensations of regenerative effect in the spine.
+The Kriya short cut, of course, can be taken only by deeply developed yogis. With the guidance of a guru, such yogis have carefully prepared their bodies and brains to receive the power created by intensive practice.
+
+The Kriya beginner employs his yogic exercise only fourteen to twenty- eight times, twice daily. A number of yogis achieve emancipation in 6 or 12 or 24 or 48 years. 
+
+A yogi who dies before achieving full realization carries with him the good karma of his past Kriya effort; in his new life he is harmoniously propelled toward his Infinite Goal.
+
+The body of the average man is like a 50-watt lamp which cannot accommodate the billion watts of power roused by an excessive practice of Kriya. 
+
+Through gradual and regular increase of the simple and “foolproof” methods of Kriya, man’s body becomes astrally transformed day by day, and is finally fitted to express the infinite potentials of cosmic energy-the first materially active expression of Spirit.
+
+Kriya Yoga is different from the unscientific breathing exercises taught by misguided zealots. 
+
+Their attempts to forcibly hold breath in the lungs is not only unnatural but unpleasant. 
+
+Kriya, on the other hand, is accompanied from the very beginning by:
+- an accession of peace, and 
+- by soothing sensations of regenerative effect in the spine.
 
 The ancient yogic technique converts the breath into mind. By spiritual advancement, one is able to cognize the breath as an act of mind-a dream-breath.
 

@@ -70,23 +70,31 @@ We can now see the advantage of quitting the direct survey of this relation, to 
 
 We hope that through this, we can arrive at our proposed end.
 But honestly, this newly discovered relation of a constant conjunction seems to advance us very little, because it only implies that like objects have always been placed in like relations of contiguity and succession.
+
 This means that we can:
-never discover any new idea, and
-only multiply, but not enlarge the objects of our mind.
+- never discover any new idea, and
+- only multiply, but not enlarge the objects of our mind.
+
 What we do not learn from one object, we can never learn from 100 of the same kind.
 
 Our senses show us in one instance two bodies, motions, or qualities in certain relations of success and contiguity.
+
 Our memory presents us only with a multitude of instances.
+
 We always find like bodies, motions, or qualities in like relations in these instances.
+
 From the mere repetition of any past impression, even to infinity, there never will arise any new original idea, such as that of a necessary connection.
 
 The number of impressions has in this case no more effect than if we confined ourselves to one only.
+
 This reasoning seems just and obvious.
 
 But we will continue this examination, as it would be folly to despair too soon.
+
 Having found, that after the discovery of the constant conjunction of any objects, we always draw an inference from one object to another, we shall now examine:
-the nature of that inference, and
-the transition from the impression to the idea.
+- the nature of that inference, and
+- the transition from the impression to the idea.
+
 Perhaps ultimately, the necessary connection depends on the inference instead of the inference's depending on the necessary connection.
 
 The transition from an impression in the memory or senses to an idea, which is either a cause or effect, is founded on:
@@ -205,7 +213,10 @@ In this case, I ask: why from this experience we form any conclusion beyond thos
 If you answer this question in the same way as the preceding question, your answer creates a new question to infinity.
 
 This clearly proves that the foregoing reasoning is baseless.
-Reason Cannot Explain the Connection of Cause and Effect Because that Connection is Based on Impressions
+
+
+## Reason Cannot Explain the Connection of Cause and Effect Because that Connection is Based on Impressions
+
 Our reason fails to discover the ultimate connection of causes and effects.
 
 Even after experience has informed us of their constant conjunction, it is impossible for us to satisfy ourselves why we should extend that experience beyond those particular instances we have observed.

@@ -1,6 +1,6 @@
 ---
 heading: "Section 2"
-title: "Impressions of Reflection"
+title: "Impressions of Reflection (Resulting Feelings)"
 weight: 6
 c: "steelblue"
 description: "Generally, simple ideas and impressions are exactly correspondent, as the complex are formed from them"

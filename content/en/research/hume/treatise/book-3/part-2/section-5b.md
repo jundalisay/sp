@@ -87,10 +87,7 @@ These passions and principles are inalterable.
             to maintain the same correspondence of good offices with me or others.
         After I have served him and he has gained the advantage from it, he is induced to perform his part, as foreseeing the consequences of his refusal.
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 460d6a8d8dd30e0687e8eef9ec9b29653f2e3886
 This self-interested commerce begins to take place and predominates in society.
         But it does not entirely abolish the more generous and noble intercourse of friendship and good offices.
 
@@ -110,5 +107,6 @@ A resolution is the natural act of the mind.
 Conventions of men create a new motive.
         Experience teaches us that human affairs would be more mutual advantageous if there were certain symbols instituted.
         These symbols might give each other the security of our conduct in any particular incident.
-        After these signs are instituted, whoever uses them is immediately bound by his interest to execute his engagements.
+
+After these signs are instituted, whoever uses them is immediately bound by his interest to execute his engagements.
             He must never expect to be trusted anymore, if he refuses to perform what he promised.

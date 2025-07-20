@@ -144,12 +144,11 @@ We commonly:
 - consider ourselves as we appear in the eyes of others, and
 - sympathize with the advantageous sentiments they entertain with regard to us.
 
-Our Sympathy For Pleasures (also in Book 2, Part 2, Section 5)
+
+
+## Our Sympathy For Pleasures (also in Book 2, Part 2, Section 5)
 
 The advantages of fortune produce esteem and approbation from the same principles.
-
-
-
 
 Our approbation of fortunate people is from 3 causes:
 

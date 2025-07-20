@@ -15,39 +15,52 @@ icon: "David Hume"
 
 All kinds of vice and virtue run insensibly into each other.
 
-They may approach so imperceptibly that it will be very difficult to determine when the one ends and the other begins.
+They may approach so imperceptibly that it is difficult to know when the one ends and the other begins.
 
-With regard to all kinds of vice and virtue, rights, obligations, and property only have two outcomes.
+<!-- With regard to all kinds of vice and virtue,  -->
+
+Rights, obligations, and property only have two outcomes.
 
 A man:
 - either has a perfect property, or none at all, and
 - either is entirely obliged to perform any action, or has no obligation.
 
 The perfect and imperfect dominions from civil laws arise from a fiction which:
-        is not founded in reason, and
-        can never enter into our notions of natural justice and equity.
+- is not founded in reason, and
+- can never enter into our notions of natural justice and equity.
 
-A man that hires a horse for a day, has as full a right to use it for that time, just as its proprietor can use it on any other day.
-        The use of the horse might be bound in time or degree.
-        But the right to use the horse is not susceptible of any such gradation.
-            It is absolute and entire.
 
-Accordingly, this right arises and perishes in an instant.
-        A man entirely:
-            acquires the property of any object by occupation, or the consent of the proprietor, and
-            loses the property by his own consent.
+A man that rents a horse for a day.
+- He has as full a right to use it for that time
+
+<!-- , just as its proprietor can use it on any other day. -->
+
+The use of the horse might be bound in time or degree.
+- But the right to use the horse has no gradations.
+- It is absolute and entire.
+
+This right arises and perishes in an instant.
+
+A man entirely:
+- acquires property by occupation, or the proprietor's
+- loses the property by his own consent.
 
 This is the case with regard to property, rights, and obligations.
 
-How does it stand with regard to justice and injustice?
-        You will run into inextricable difficulties however you answer this question.
 
-If you reply that justice and injustice run insensibly into each other, you expressly contradict the foregoing position, that obligation and property are not susceptible of such a gradual variation.
+What about justice and injustice?
 
-Obligation and property depend entirely on justice and injustice and follow them in all their variations.
-        Where the justice is entire, property is also entire.
-        Where the justice is imperfect, property must also be imperfect.
-        Vice versa, if property admits no such variations, they must also be incompatible with justice.
+<!-- You will run into inextricable difficulties however you answer this question. -->
+
+If justice and injustice run insensibly into each other, then it contradicts the foregoing position that obligation and property are not susceptible of a gradual variation.
+
+Obligation and property depend entirely on justice and injustice.
+
+ <!-- and follow them in all their variations. -->
+- Where the justice is entire, property is also entire.
+- Where the justice is imperfect, property must also be imperfect.
+
+Vice versa, if property admits no such variations, they must also be incompatible with justice.
 
 If you assent to this last proposition and assert that justice and injustice are not susceptible of degrees, you assert that they are not naturally vicious or virtuous.
 
@@ -59,17 +72,23 @@ The position that property, right, and obligation do not admit of degrees, is es
 - abstract reasoning, and
 - the general maxims of philosophy and law.
 
-Yet in our common and negligent way of thinking, we:
+<!-- Yet in our common way of thinking, we:
         find great difficulty to entertain that opinion, and
-        even secretly embrace the contrary principle.
+        even secretly embrace the contrary principle. -->
 
-An object must either be in the possession of one person or another.
+A property must be owned by a person. 
 
-An action must either be performed or not.
-        The necessity is in choosing one side in these dilemmas.
-        The impossibility is often in finding any just medium.
-    This obliges us to acknowledge that all property and obligations are entire.
-    On the other hand, we find that the origin of property and obligation depend on:
+ <!-- object must either be in the possession of one person or another. -->
+
+An action must be performed or not.
+
+The necessity is in choosing one side in these dilemmas.
+
+The impossibility is often in finding any just medium.
+
+This obliges us to acknowledge that all property and obligations are entire.
+
+On the other hand, we find that the origin of property and obligation depend on:
         public utility, and
         sometimes on the imagination's propensities.
     We naturally imagine that these moral relations admit of an insensible gradation.

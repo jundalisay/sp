@@ -39,21 +39,25 @@ The misery of the condition preceding this restraint, is why we submit to that r
     The first possession always engages the attention most.
         If we neglected it, there would be no reason to assign property to any succeeding possession.16
 
+{{< b >}}
+### Footnote 16:
 
-Footnote 16:
-
-    Some philosophers account for the right of occupation, by saying:
+Some philosophers account for the right of occupation, by saying:
         that everyone has a property in his own labour, and
         that when he joins that labour to anything, it gives him the property of the whole.
-    But:
+But:
         There are several kinds of occupation where we cannot join our labour to the object we acquire.
             As when we possess a meadow by grazing our cattle on it.
-        We gain ownership of such objects through accession or by owning them beforehand.
+
+We gain ownership of such objects through accession or by owning them beforehand.
             This is circular reasoning.
-        We can only join our labour to anything in a figurative sense.
+
+We can only join our labour to anything in a figurative sense.
             We only alter it by our labour.
             This forms a relation between us and the object.
             From this arises the property according to the preceding principles.
+{{< /b >}}
+
 
 
 ## The Definition Of Possession
@@ -69,23 +73,30 @@ We possess anything when:
     This relation is a species of cause and effect.
     Property is nothing but a stable possession derived from the rules of justice or the conventions of men.
         It is the same kind of relation.
-    But the power of using any object becomes certain according to the probability of the interruptions we meet with.
+
+But the power of using any object becomes certain according to the probability of the interruptions we meet with.
         This probability may increase by insensible degrees.
         In many cases, it is impossible to determine when possession begins or ends.
-    There is no standard by which we can decide such controversies.
+
+There is no standard by which we can decide such controversies.
         A wild boar that falls into our snares is deemed to be in our possession, if it is impossible for him to escape.
         But what do we mean by impossible?
         How do we separate this impossibility from an improbability?
         How do we distinguish that exactly from a probability?
-    Mark the precise limits of the one and the other.
+
+Mark the precise limits of the one and the other.
         Show the standard by which we decide all disputes that may arise on this subject.17
 
 
-Footnote 17:
+{{< b >}}
+### Footnote 17:
+We can never find a solution to these difficulties if we look in reason and public interest.
 
-    We can never find a solution to these difficulties if we look in reason and public interest.
-    If we look for a solution in the imagination, the qualities which operate on it run so insensibly and gradually into each other, that it is impossible to give them any precise bounds or termination.
-    These difficulties increase when we consider:
+If we look for a solution in the imagination, the qualities which operate on it run so insensibly and gradually into each other, that it is impossible to give them any precise bounds or termination.
+{{< /b >}}
+
+
+These difficulties increase when we consider:
         that our judgment changes very sensibly according to the subject, and
         that the same power and proximity is deemed possession in one case, but will not be so in another.
     A person who has exhausted himself hunting a hare, would see it as an injustice for another person to rush in and seize his prey.
@@ -103,8 +114,11 @@ Footnote 17:
         This is because the connection in our fancy between the property and the relation is not so great.
             It requires to be helped by such an intention.
     From all these circumstances, it is easy to see how perplexed many questions may become on the acquisition of property by occupation.
-    The least effort of thought may present us with instances which do not have any reasonable decision.
-        An example is the following one met by almost every writer on the laws of nature.
+
+
+The least effort of thought may present us with instances which do not have any reasonable decision.
+
+An example is the following one met by almost every writer on the laws of nature.
             Two Greek colonies in search of new feats, were informed that a nearby city was deserted by its inhabitants.
             To verify this report, they dispatched two messengers, one from each colony.
             They find that the information was true.
@@ -112,8 +126,10 @@ Footnote 17:
             One of the messengers, finding that he was not an equal match for the other, launched his spear at the city's gates.
             He was fortunate enough to fix it there before the arrival of his companion.
             This created a dispute between the two colonies: Which of them was the proprietor of the empty city?
-        This dispute still remains among philosophers.
-        I find the dispute impossible to be decided because the whole question hangs on the fancy.
+
+This dispute still remains among philosophers.
+
+I find the dispute impossible to be decided because the whole question hangs on the fancy.
             In this case, the fancy does not have any precise standard to give a sentence.
             If these two persons were simply colony members and not messengers, their actions would not have been of any consequence.
                 Since their relation to the colonies would have been weak.
@@ -127,13 +143,15 @@ Footnote 17:
             which of these relations conveys a right and property, or
             whether any of them is sufficient for that effect.
 
-    But such disputes may arise concerning:
-        the real existence of property and possession, and
-        their extent.
-    These disputes:
-        are often susceptible of no decision, or
-        can only be decided by the imagination.
-    A person who lands on a small deserted island is deemed its possessor from the very beginning.
+But such disputes may arise concerning:
+- the real existence of property and possession, and
+- their extent.
+
+These disputes:
+- are often susceptible of no decision, or
+- can only be decided by the imagination.
+
+A person who lands on a small deserted island is deemed its possessor from the very beginning.
         He acquires the property of the whole because the object is:
             bounded and circumscribed in the fancy, and
             proportioned to the new possessor.

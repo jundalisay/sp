@@ -123,7 +123,7 @@ However, this is not an exception because those primary ideas are simple ideas w
 
 
 
-### Generally, There are No Innate A Priori Ideas
+## Principle 1: There are No Innate A Priori Ideas
 
 This is my first principle in the science of human nature.
 

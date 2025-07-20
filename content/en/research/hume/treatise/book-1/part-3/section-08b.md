@@ -88,23 +88,32 @@ When we are accustomed to see two impressions conjoined together, the appearance
 3. Being fully satisfied on this topic, I make a third set of experiments to know, whether anything is needed besides the habitual transition towards the production of belief.
 
 I therefore change the first impression into an idea.
+
 I observe, that though the habitual transition to the correlative idea still remains, yet there is in reality no belief nor persuasion.
 A present impression then, is absolutely requisite to this whole operation.
+
 When I compare an impression with an idea and find that their only difference is in their different degrees of force and vivacity, I conclude that belief is a more vivid and intense conception of an idea, proceeding from its relation to a present impression.
+
 Thus, all probable reasoning is nothing but a species of sensation.
 
 We must follow our taste and sentiment not solely in poetry and music, but likewise in philosophy.
+
 When I am convinced of any principle, it is only an idea, which strikes more strongly on me.
+
 When I prefer one set of arguments over another, I only decide from my feeling about the superiority of their influence.
 Objects have no discoverable connection together.
+
 Only by habit or custom, operating on the imagination, can we draw any inference from the appearance of one to the existence of another.
 All our judgments on cause and effect depend past experience.
 
 Past experience may operate on our mind so insensibly as to be never noticed.
 It may even be unknown to us.
+
 A person who stops his journey short upon meeting a river in his way, foresees the consequences of his proceeding forward.
 His knowledge of these consequences is conveyed to him by past experience.
+
 It informs him of the conjunctions of causes and effects.
+
 But can we think that he reflects on any past experience and remembers instances he saw or heard of, to discover the water's effects on animal bodies?
 
 Surely no.
@@ -112,9 +121,12 @@ Surely no.
 This is not how he proceeds in his reasoning.
 
 The idea of sinking is so closely connected with the idea of water.
+
 The idea of suffocating is closely connected with the idea of sinking.
+
 The mind makes the transition without the assistance of the memory.
 The habit operates before we have time for reflection.
+
 The objects seem so inseparable that we instantly pass from the one to the other.
 
 This transition proceeds from experience and not from any primary connection between the ideas.
@@ -131,6 +143,7 @@ In general, the mind never expressly considers any past experience in the most e
 
 But in other associations of objects more rare and unusual, it may assist the habit and transition of ideas by this reflection.
 We find in some cases, that the reflection produces the belief without the habit.
+
 Or more properly speaking, the reflection produces the habit in an oblique and artificial way.
 
 We can know a particular cause merely by one experiment, provided it is:
@@ -181,9 +194,12 @@ This conclusion is attended with belief.
 Where does the force and vivacity of this belief come from?
 
 I answer very readily: from the present idea.
+
 This idea is considered here not as the representation of any absent object.
 It is considered as a real perception in the mind.
+
 This idea must be able to give to whatever is related to it the same quality, whether it be called 'firmness', 'solidity', 'force', or 'vivacity', with which the mind reflects on, and is assured of its present existence.
+
 The idea here supplies the place of an impression, and is entirely the same.
 
 On the same principles, we do not need to be surprised to hear of:

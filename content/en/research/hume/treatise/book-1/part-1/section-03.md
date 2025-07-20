@@ -12,12 +12,14 @@ icon: "David Hume"
 
 
 
-## Memory is Stronger than Imagination
+<!-- ## Memory is Stronger than Imagination -->
 
-We find by experience that when any impression enters the mind, it takes the form of an idea in 2 ways:
+## Idea in Memory is Stronger than Idea in Imagination
+
+When any impression enters the mind, it takes the form of an idea in 2 ways:
 - as memory, or
   - This happens when the impression retains much of its original vivacity.
-  - It is somewhat between an impression and an idea.
+  - This is somewhat between an impression and an idea.
 - as imagination.
   - This happens when the impression loses its original vivacity and becomes a perfect idea.
 
@@ -31,35 +33,43 @@ Whereas in the imagination, the perception:
 - is faint and languid, and
 - cannot be preserved by the mind steadily and uniformly without difficulty.
 
-This is a sensible difference between one species of ideas and another.
+<!-- This is a sensible difference between one species of ideas and another. -->
 
-But this is fully explained in Part 2, Section 5.
+This difference is fully explained in Part 2, Section 5.
+
 
 There is another difference between these two kinds of ideas.
 
 Ideas can only enter the mind after their correspondent impressions have prepared the way for them.
+
 The imagination is not restrained in the same sequence by the original impressions.
 
 On the contrary, the memory is tied down in that respect, without any power of variation.
 - The memory preserves the original form in which its objects were presented.
 
 If it does not preserve the original form in remembering anything, then it is caused by some defect in memory.
-A historian might narrate Event B happening before Event A, which in fact occurred after Event A.
 
-He might discover this mistake and consequently narrate Event B in its proper sequence.
+A historian might narrate Event B happening before Event A, which in fact occurred after Event A.
+- He might discover this mistake and consequently narrate Event B in its proper sequence.
+
 The same thing happens when we remember places and persons.
 
-The chief exercise of the memory is not to preserve the simple ideas, but their order and position.
-This principle is supported by many common phenomena that we do not need to insist on it any further.
+**The chief exercise of the memory is not to preserve the simple ideas, but their order and position.**
 
-The same evidence follows us in our second principle: the imagination is free to transpose and change its ideas.
+<!-- This principle is supported by many common phenomena that we do not need to insist on it any further. -->
+
+<!-- The same evidence follows us in our -->
+
+
+## Principle 2: The imagination is free to transpose and change its ideas
+
+<!-- **My second principle is: the imagination is free to transpose and change its ideas.** -->
 
 The fables are proof of this.
-Nature in fables is totally confounded.
+- Nature in fables is totally confounded.
+- It mentions winged horses, fiery dragons, and monstrous giants.
 
-It mentions winged horses, fiery dragons, and monstrous giants.
-
-This liberty of the fancy will not appear strange when we consider that:
+This liberty of the fancy is because:
 - all our ideas are copied from our impressions, and
 - no 2 impressions are perfectly inseparable.
 

@@ -33,7 +33,10 @@ I had found many men of God-realization in India, but never before had I met suc
 
 I put some questions to a near-by woman chela while Ananda Moyi Ma remained entranced.
 
-“The Blissful Mother travels widely in India; in many parts she has hundreds of disciples,” the chela told me. “Her courageous efforts have brought about many desirable social reforms. Although a Brahmin, the saint recognizes no caste distinctions. 45-1 A group of us always travel with her, looking after her comforts. We have to mother her; she takes no notice of her body. If no one gave her food, she would not eat, or make any inquiries. Even when meals are placed before her, she does not touch them. To prevent her disappearance from this world, we disciples feed her with our own hands. For days together she often stays in the divine trance, scarcely breathing, her eyes unwinking. One of her chief disciples is her husband. Many years ago, soon after their marriage, he took the vow of silence.”
+{{< r a="Chela" >}}
+“The Blissful Mother travels widely in India; in many parts she has hundreds of disciples. Her courageous efforts have brought about many desirable social reforms. Although a Brahmin, the saint recognizes no caste distinctions. 45-1 A group of us always travel with her, looking after her comforts. We have to mother her; she takes no notice of her body. If no one gave her food, she would not eat, or make any inquiries. Even when meals are placed before her, she does not touch them. To prevent her disappearance from this world, we disciples feed her with our own hands. For days together she often stays in the divine trance, scarcely breathing, her eyes unwinking. One of her chief disciples is her husband. Many years ago, soon after their marriage, he took the vow of silence.
+{{< /r >}}
+
 
 The chela pointed to a broad-shouldered, fine-featured man with long hair and hoary beard. He was standing quietly in the midst of the gathering, his hands folded in a disciple’s reverential attitude.
 
@@ -71,7 +74,7 @@ A short time later the Ranchi Vidyalaya was in gala array for the saint’s prom
 
 I laughed, gently repeating my question.
 
-“Father, there is little to tell.” She spread her graceful hands in a deprecatory gesture. “My consciousness has never associated itself with this temporary body. Before I came on this earth, Father, ‘I was the same.’ As a little girl, ‘I was the same.’ I grew into womanhood, but still ‘I was the same.’ When the family in which I had been born made arrangements to have this body married, ‘I was the same.’ And when, passion-drunk, my husband came to me and murmured endearing words, lightly touching my body, he received a violent shock, as if struck by lightning, for even then ‘I was the same.’
+“Father, there is little to tell. My consciousness has never associated itself with this temporary body. Before I came on this earth, Father, ‘I was the same.’ As a little girl, ‘I was the same.’ I grew into womanhood, but still ‘I was the same.’ When the family in which I had been born made arrangements to have this body married, ‘I was the same.’ And when, passion-drunk, my husband came to me and murmured endearing words, lightly touching my body, he received a violent shock, as if struck by lightning, for even then ‘I was the same.’
 
 “My husband knelt before me, folded his hands, and implored my pardon.
 
@@ -87,19 +90,28 @@ Ananda Moyi Ma sank into a deep meditative state. Her form was statue- still; sh
 
 Time for the feast! Ananda Moyi Ma squatted on her blanket-seat, a disciple at her elbow to feed her. Like an infant, the saint obediently swallowed the food after the chela had brought it to her lips. It was plain that the Blissful Mother did not recognize any difference between curries and sweetmeats!
 
-As dusk approached, the saint left with her party amidst a shower of rose petals, her hands raised in blessing on the little lads. Their faces shone with the affection she had effortlessly awakened.
+As dusk approached, the saint left with her party amidst a shower of rose petals.
 
-“Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength:” Christ has proclaimed, “this is the first commandment.” 45-2
+<!-- , her hands raised in blessing on the little lads. Their faces shone with the affection she had effortlessly awakened.
 
-Casting aside every inferior attachment, Ananda Moyi Ma offers her sole allegiance to the Lord. Not by the hairsplitting distinctions of scholars but by the sure logic of faith, the childlike saint has solved the only problem in human life-establishment of unity with God. Man has forgotten this stark simplicity, now befogged by a million issues. Refusing a monotheistic love to God, the nations disguise their infidelity by punctilious respect before the outward shrines of charity. These humanitarian gestures are virtuous, because for a moment they divert man’s attention from himself, but they do not free him from his single responsibility in life, referred to by Jesus as the first commandment. The uplifting obligation to love God is assumed with man’s first breath of an air freely bestowed by his only Benefactor.
+“Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength:” Christ has proclaimed, “this is the first commandment.” 45-2 -->
+
+Casting aside every inferior attachment, Ananda Moyi Ma offers her sole allegiance to the Lord.
+
+Not by the hairsplitting distinctions of scholars but by the sure logic of faith, the childlike saint has solved the only problem in human life-establishment of unity with God. Man has forgotten this stark simplicity, now befogged by a million issues. 
+
+Refusing a monotheistic love to God, the nations disguise their infidelity by punctilious respect before the outward shrines of charity. These humanitarian gestures are virtuous, because for a moment they divert man’s attention from himself, but they do not free him from his single responsibility in life, referred to by Jesus as the first commandment. 
+
+The uplifting obligation to love God is assumed with man’s first breath of an air freely bestowed by his only Benefactor.
 
 On one other occasion after her Ranchi visit I had opportunity to see Ananda Moyi Ma. She stood among her disciples some months later on the Serampore station platform, waiting for the train.
 
 “Father, I am going to the Himalayas,” she told me. “Generous disciples have built me a hermitage in Dehra Dun.”
 
-As she boarded the train, I marveled to see that whether amidst a crowd, on a train, feasting, or sitting in silence, her eyes never looked away from God. Within me I still hear her voice, an echo of measureless sweetness:
+As she boarded the train, her eyes never looked away from God. 
 
-“Behold, now and always one with the Eternal, ‘I am ever the same.’”
+<!-- Within me I still hear her voice, an echo of measureless sweetness:
+“Behold, now and always one with the Eternal, ‘I am ever the same.’” -->
 
 
 ### Footnotes

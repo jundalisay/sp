@@ -58,11 +58,13 @@ His yogic pun affected me uproariously.
 
 The saint held me with his tranquil eyes. I did not realize that his speech was a veiled prophetic guidance. It is only now, as I write these words, that I understand the full meaning in the casual intimations he often gave me that someday I would carry India’s teachings to America.
 
-badhuri
-
 BHADURI MAHASAYA
+
+
 “The Levitating Saint”
+
 “Sir,” I inquired, “why do you not write a book on yoga for the benefit of the world?”
+
 “I am training disciples,” He replied. “They and their students will be living volumes, proof against the natural disintegrations of time and the unnatural interpretations of the critics.”
 
 “Maharishi, I wish you would write a book on yoga for the benefit of the world.”
