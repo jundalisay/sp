@@ -72,32 +72,30 @@ Law | Price | Meaning
 Since we equate value to desire and desire in the physical domain is energy, then we can connect these 4 laws to the laws of thermodynamics:
 
 Supereconomics Law | Physics Thermodynamics Law
---- | --- 
-1 - Nominal | 3 - A system's entropy reaches a constant value as its temperature reaches absolute zero
+--- | ---
+1 - Nominal | 0 - Equilibrium (Wavelength)
+2 - Real | 1 - Conservation (Frequency or Density)
+3 - Natural | 3 - Absolute Zero (Amplitude)
+4 - Market | 2 - Entropy (Spread)
+
+
+<!-- 1 - Nominal | 3 - A system's entropy reaches a constant value as its temperature reaches absolute zero
 2 - Real | 1 - Energy can be conerted from one form to another, but cannot be created nor destroyed
 3 - Natural | 0 - If 2 systems are in thermal equilibrium with a 3rd system, then they are in equilibrium with each other
-4 - Market | 2 - Entropy will always increase over time
+4 - Market | 2 - Entropy will always increase over time -->
 
 
 {{< i s="/graphics/econ/laws.png" a="Laws of Value" >}}
 
 
-- The 2nd and 1st law of thermodynamics refer to the external aspects of waves just as the Market and Real Price are objective 
-- The 3rd and 0th laws refer to the internal aspects just as the Nominal and Market Price are subjective
+<!-- - The 2nd and 1st law of thermodynamics refer to the external aspects of waves just as the Market and Real Price are objective 
+- The 3rd and 0th laws refer to the internal aspects just as the Nominal and Market Price are subjective -->
 
 {{< i s="/graphics/econ/law4th.jpg" a="Prices" >}}
-
-
-
-<!-- We see that the organization of Physics laws are just as messy as those of Economics. This is because they were created without knowing the metaphysics of how things work.  -->
-
 
 <!--  we can see how the four laws of value are the reverse of the laws of thermodynamics. For example:
 - the First law or the Conservation of Energy is the 'first' in Physics, but is the third in Supereconomics, as trade
 - the Third law, as absolute zero, is the last in Physics, but is the first in Supereconomics as its First law, as everything having a value. -->
-
-
-<!-- For example, Physics believes that the universe began as an energetic Big Bang where energy began first, whereas humans start from birth or low-energy sleep where lack begins first. -->
 
 <!-- Superphysics law | Thermodynamics law counterpart
 --- | ---
@@ -135,10 +133,6 @@ We find that these four laws match the four factors of our [DCIT model](/posts-p
  -->
 
 
-
-
-
-
 {{< dc t="Updates" >}}
 4/2017 | added Economics value matrix
 --- | ---
@@ -147,5 +141,6 @@ We find that these four laws match the four factors of our [DCIT model](/posts-p
 2/2022 | Added the four classes (Worker, Warrior, Philosopher, Merchant) onto the four laws
 3/2024 | Put the 4th Law as the 2nd to explain the priorness of politics over economics, or Supersociology over Supereconomics
 8/2024 | Put the 4th Law as the 3rd Law after connecting it again with Thermodynamics
+7/2025 | Fixed order of Thermodynamics to match video
 {{< /dc >}}  
 

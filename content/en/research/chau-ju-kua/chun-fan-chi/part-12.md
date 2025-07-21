@@ -8,7 +8,7 @@ description: "The best is from Cambodia (Chon-la). The second quality is from So
 
 
 
-## 12. SANDALWOOD
+## 12. SANDAL-WOOD (檀香)
 
 Tan-hiang comes from Takang and Tiwu, as well as Palembang, Sumatra. 
 
@@ -16,61 +16,20 @@ The tree, even its leaves, resembles the Chinese lichee.
 
 The natives fell the tree and dry it in the shade. Its aroma is pure and strong and apt to evaporate; in burning
 
-a red-brown variety
-called
+- A red-brown variety is called hsiang-t‘an (香檀);
+- A light and brittle kind is called sha-t‘an (沙檀). 
 
-surpasses all other incenses.
-(^
-it.
+The aroma of these varieties is about the same.
 
-The
-Ta-kang {^J
-countries of 
-also found in San-fo-ts'i,
-it is
+The best quality is that derived from old trees, when the bark is thin and the full proportion of fragrance is contained in it. 
 
-variety of yellow colour
+The second quality so contains only seven or eight tenths of fragrance. 
 
-td-fan .(^ ;g); a
-The aroma of these
-light
-huang-fan
-and
-25
-brittle
-varieties is about
-the same.
-The best quality
-and the
-full
-is
-that derived from old trees,
-proportion of fragrance
-is
-contained in
-contains only seven or eight tenths of fragrance.
-when
-it.
-the bark
-is
-thin
-The second quality
-The poorest quality
-is
-30
-called
-^
-tien-sing-Mang {§^^
-^). Pieces of sandal-wood which have dropped
-down like rain are called p'o-lou-Uang
-'^ ^), or «scented (wood)
-(^
-broken
-off
-and dropped down.» The root of the tree
-1^) or ((incense head.»
-is called
-Uang-fm
+The poorest quality is called t‘ien-sing-hiang (天星香). 
+
+Pieces of sandal-wood which have dropped down like rain are called p‘o-lou-hiang (破漏香), or scented (wood) broken off and dropped down. The root of the tree is called hiang-t‘ou (香頭), or incense head.
+
+
 
 <!-- Note.
 In Chinese Buddhist worirs sandal-wood is
@@ -139,7 +98,8 @@ to that of
 Malabar. -->
 
 
-13. CLOVES
+
+## 13. CLOVES
 
 Ting-hiang or nail-incense comes from Arabia and Java. These resemble the shape of the Chinese character ting, a nail. 
 
@@ -164,132 +124,24 @@ of Java, adds in another (II, 289) that they grew also on the island of Necuvera
 bar Islands). Ibn Batuta, Voyages, IV, 243, confounded the cinnamon and the nutmeg-tree
 40 product
 14210
-11,13-14
-NUTMEGS.
-with cloves.
-De Candolle,
-Origine des plantes cultivees, 128, thinks that cloves, a product of
-the Caryophyllus aromaticus, Linnfi, are indigenous to the Molucca Islands. See
-Heyd,
-du
-Hist,
-Commerce, H, 603—607, and Crawfnrd, History Malay Archipel., I, 494.
-In the Chinese Customs Tariff of the present day we find mu-ting-hiang, «mother-cloves»,
-answering to the ting-hiang-mu of our
-The Su-ch'5n-liang-fang
-text.
-says that M-sho-hiang (achicken-tongue incensea)
-day the name
-^^ ^^
-(||Hj
-ting-hiang-mu, but,
-is
-it
-JJ)
-likewise applied to a substance found in ju-hiang (frankincense), and which
-is
-of the size of a sJian-cTiu-yu
-/
-ijj
-^^
-Cornus
-when
-officinalis);
-^
-^'''
-adds, «at the present
-cut out
-it is
-is
-like a per-
-simmon seed; it is tasteless.)) According to the P6n-ts'au-kang-mu(34,82*)K-sM-femw^ is the female,
-and ting-hiang the male, clove. The Nan-fang-ts'au-mu-chuang (2,s, and supra p. 205, note 2) says 10
-that M-sho-hiang
-is
-the ripe and aromatic fruit of the mi-hiang, or eagle-wood tree, of China.
-The Chinese name here given the
-ccthousand year tsaun, was
-or
-date, ts'ien-nien-tsaw,
-on reaching China, and on
-account of their resemblance to the tsau or common jujube (Zizyphus vulgaris. Lam.), which is
-indigenous to China. Yu-yang-tsa-tsu, 18,9*, the earliest work we have seen describing the date, 15
-evidently used on account of the
-calls it Po-ss'i-tsau,
-i. e.,
-hardness of the
-stony
-((Persian tsau»,
-and says that in Persian
-Arabic, hhurma). In the T'ang-shu, 221B,is*,
-Pon-ts'au,
-81,21'',
-dates
-we
-name
-find the
-gives also the form k'u-lu-ma
-(^
-^
-it is
-written
-^).
-called h'u-mang
-hu-mang
-(^||
-(^g
-^),
-See also Ling-piau-lU-i,
-^p
-and the
-2,4^'.
-14.
-NUTMEGS mmm)'
-20
-J6u-t6u-¥6u are brought from the foreign tribes in the depths of the
-islands of
-juniper
-Huang-ma-chu and Niu-lun (^
-(^j^^),
-|Ij^).
-The
-tree resembles the Chinese
-'
-and attains a height of upwards of an hundred
-and branches, with the
-under which forty or
-foliage, present the
-fifty
-men may
-appearance of a large shady roof
-find protection.
-When
-^)
-as tou-k'du-hua
-nut;
-when
-(^
-the shell
-preserved in ashes
-is
-^
-the blossoms open 25
-the article now
-:^). The fruit (nut) resembles the fei-f£ (^^
-in the spring they are taken off and dried in the sun; this
-known
-trunk
-feet. Its
-is
-removed the pulp can be kept a long time,
-(^). According
-to
-the P6n-ts'au
-its
-if
-properties are
-warming.
-30
+11,13- -->
+
+
+
+## 14 NUTMEGS (肉荳蔻).
+
+Jou-t‘ü-k‘ou are brought from the foreign tribes in the depths of the islands of Huang-ma-chu and Niu-lun (牛輪). 
+
+The tree resembles the Chinese juniper (桧), and attains a height of upwards of 100 feet.
+
+Its trunk and branches, with the foliage, present the appearance of a large shady roof under which forty or fifty men may find protection. 
+
+When the blossoms open in the spring they are taken off and dried in the sun; this is the article now known as t‘ü-k‘ou-hua (荳蔻花). 
+
+The fruit (nut) resembles the fei-tz‘ü (榧子) nut; when the shell is removed the pulp can be kept a long time, if preserved in ashes (灰). According to the P‘o-ts‘au its properties are warming.
+
+
+<!-- 
 Note.
 Huang-ma-chu and Niu-lun were dependencies of Java
 Moluccas, in which islands the nutmeg (Myristica fragrans)
@@ -386,4 +238,4 @@ rather a thick mixture of lime and water,
 15 from the depredations of insects and worms.»
 of the
 Sung dynasty, was compiled
-in -->
+in --> 

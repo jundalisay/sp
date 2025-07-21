@@ -94,138 +94,28 @@ to that
 mentioned in the
 Pon-ts'au. -->
 
-## 20. OAK-GALLS
+## 20. OAK-GALLS (橡子).
 
-The Mo-shi-tzi comes from <!-- Wu-ssi-li --> Herat.
+The Mo-shi-tzi comes from <!-- Wu-ssi-li --> Herat (勿斯里) in the Ta-shi country. 
 
-The tree resembles the camphor-tree, similar to the Chinese acorn
-p'u-lu (>j^
-25 called	
-ma-ch^a
-and which 
-is
-which
-{^MW- Mosul) in the Ta-sM country.
-it
-blossoms once a year and bears a fruit
-|^), and called sha-mo-lu (fp j^ ^), or
-edible. The following year it grows what is
-is
-the same as mo-sM-td.
-The year following
-appear again sha-mo-lu, and the mo-sM-tz'i grow in alternate years, so it
-to see one root produce diffe-
-is a valuable article. What a wonderful thing
-rent fruits
-Note.
-30
-The Yu-yang-tsa-tsu, 18,8% appears to be the earliest Chinese work to describe in some detail
-oak-galls. It says= « Wu-sU-U% (fife
-^,) come from Po-ssi (Persia), and in Persian they are
-to seventy feet high, and eight or nine feet in cir-
-sixty
-is
-'tree
-The
-called mo-ts6
-tt)-
-the third moon its flowers open, they
-cumference. Theteaves are like peach leaves but larger. In
-a pill, at first green, but when ripe
-like
-round
-is
-white and reddish in the center. The seed
-(^
-^
-are
-pierced by insects, the perfect nuts are
-35 a yellowish white. Those with holes in them have been
-One year the tree produces wu-sM-tei,
-medicine.
-make
-to
-used
-are
-these
-skin;
-the
-without holes in
-of the size of thefingqr tip and three inches
-produces po-lu-tei
-the following
-it
-(^ Jp ^)
-in which is the kernel, like a chestnut, of brown
-long. On the upper end there is a cup (^)
-colour and which is' edible.»
-only adding the
-Our author derives most of his information from Ling-wai-tai-ta, 3,4»,
-40
-sha-mo-lu. Wu-
-m^Chinese
-oak,
-royal
-or
-shdh-lalut
-and
-(p'u-ltt)
-Mut,
-Persian names of the oak,
-represent the Persian »!«««, the word for oak-galls.
-sM-tsi, mo-sM-m, mo-tso and ma-ch'a, all
+The tree resembles the camphor-tree, it blossoms once a year and bears a fruit similar to the Chinese acorn (橡栗), and called sha-mo-tz‘ü (沙莫子), or p‘u-lu (蒲盧), and which is edible. 
 
-Thos. Watters, Essays on the Chinese language,
-and Sui-shu, 83,16* mention
-Duarte Barbosa,
-tou-shi-tz'i as
-349. See also supra, p.
-MO. Wei-shu, 102,12%
-one of the products of Po-ssi (Persia).
-speaking of the trade of
-in the beginning of the fifteenth century,
-merchants dealt with were magican, awhich are gall-
-nuts, which they bring from the Levant to Cambay, by way of Mekkah, and they are worth a
-great deal in China and Java». Description of the Coasts of East Africa and Malabar, 191 (Hakl.
-Malacca, says that among the articles
-See.
-edit.).
-its
-Heyd, Hist, du Commerce, II, 644.
-some doubt whether mau-li, which we have translated by «acorn», should not be
-See also
-There
-is
-Porter Smith,
-rendered by «chestnut»; this confusion exists among the Chinese. See
-butions, 60
-5
-and Bretschneider, Botanicon Sinicum,
-II,
-Contri-
-10'
-320.
-21.
-EBONY
-m ^).
-i%
-Wu-mon-tzi resembles the coir-palm
-(/j?^ ^f^)',
-an erect tree of
-it is
-olive-green colour, growing to a height of an hundred feet and more, with a
-thick green and highly luxuriant foliage. Jts
-wood
-is
-as hard as iron and
-15.
-lends itself to the manufacture of woodware, being glossy like lacquered
-ware, for which reason
-it is
-wood
-generally considered a precious
-(^
-;;fc).
+The following year it grows what is called ma-ch‘a (馬茶), which is the same as mo-shi-tz‘ü. The year following appears again sha-mo-tz‘ü, and the mo-shi-tz‘ü grow in alternate years, so it is a valuable article. 
+
+What a wonderful thing to see one root produce different fruits!
+
+
+
+
+
+## 21. EBONY (烏榄子)
+
+Wu-mön-tü resembles the coir-palm (棕榄樹).
+
+It is an erect tree of olive-green colour, growing to a height of an hundred feet and more, with a thick green and highly luxuriant foliage. 
+
+Its wood is as hard as iron and lends itself to the manufacture of woodware, being glossy like lacquered ware, for which reason it is generally considered a precious wood (珍木).
+
 
 <!-- Note.
 Ku-kin-chu, 3,i, says= «I-mu
@@ -328,34 +218,13 @@ is -->
 
 Su-mu comes from Cambodia. 
 
-and juniper. The leaves are
-habitat is in
-larly known
-is
-The
-tree resembles the pine
-like those of the tung-tsHng tree
-it.
-"When the bark
-of a deep red colour and
-it
-^)'
-(^
-pj). Its
-the uncultivated parts of the hilly country, where the people
-are allowed to cut
-sun,
-m
-as
-wa-mu
-(^
-removed and the wood dried
-is
-may be
-used in dying purple. It
-is
-in the
-popu
+The tree resembles the pine and juniper. The leaves are like those of the tung-tsing tree
+
+Its habitat is in the uncultivated parts of the hilly country, where the people are allowed to cut it. 
+
+When the bark is removed and the wood dried under the sun, it becomes a deep red colour and may be used in dying purple. 
+
+It is popularly known as wa-mu.
 
 <!-- 
 Note.

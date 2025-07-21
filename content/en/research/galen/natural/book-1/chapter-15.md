@@ -21,9 +21,13 @@ But if the veins did exert a propulsive action when they contract, they would sq
 
 How is propulsion by the veins impossible? 
 
-The situation of the kidneys is against it. They do not occupy a position beneath the hollow vein [vena cava] as does the sieve-like [ethmoid] passage in the nose and palate in relation to the surplus matter from the brain;137 they are situated on both sides of it. Besides, if the kidneys are like sieves, and readily let the thinner serous [whey-like] portion through, and keep out the thicker portion, then the whole of the blood contained in the vena cava must go to them, just as the whole of the wine is thrown into the filters.
+The situation of the kidneys is against it. 
 
-Further, the example of milk being made into cheese will show clearly what I mean. For this, too, although it is all thrown into the wicker strainers, does not all percolate through; such part of it as is too fine in proportion to the width of the meshes passes downwards, and this is called whey [serum]; the remaining thick portion which is destined to become cheese cannot get down, since the pores of the strainers will not admit it. Thus it is that, if the blood-serum has similarly to percolate through the kidneys, the whole of the blood must come to them, and not merely one part of it.
+They do not occupy a position beneath the hollow vein [vena cava] as does the sieve-like [ethmoid] passage in the nose and palate in relation to the surplus matter from the brain;137 they are situated on both sides of it. Besides, if the kidneys are like sieves, and readily let the thinner serous [whey-like] portion through, and keep out the thicker portion, then the whole of the blood contained in the vena cava must go to them, just as the whole of the wine is thrown into the filters.
+
+The example of milk being made into cheese will show clearly what I mean. For this, too, although it is all thrown into the wicker strainers, does not all percolate through; such part of it as is too fine in proportion to the width of the meshes passes downwards, and this is called whey [serum]; the remaining thick portion which is destined to become cheese cannot get down, since the pores of the strainers will not admit it. 
+
+Thus it is that, if the blood-serum has similarly to percolate through the kidneys, the whole of the blood must come to them, and not merely one part of it.
 
 What, then, is the appearance as found on dissection?
 
@@ -36,9 +40,7 @@ How, then, do they exert this traction? If, as Epicurus thinks, all attraction t
 For if it be granted that there is any attractive faculty at all in those things which are governed by Nature,141 a person who attempted to say anything else about the absorption of nutriment142 would be considered a fool.
 
 
-XVI
-
-Erasistratus[143] replied at great length to certain other foolish doctrines.
+16. Erasistratus[143] replied at great length to certain other foolish doctrines.
 
 He entirely passed over the view held by Hippocrates, not even thinking it worth while to mention it, as he did in his work “On Deglutition”; in that work, as may be seen, he did go so far as at least to make mention of the word attraction, writing somewhat as follows:
 
