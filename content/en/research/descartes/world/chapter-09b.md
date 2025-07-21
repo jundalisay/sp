@@ -10,6 +10,7 @@ writer:
 icon: "Rene Descartes"
 ---
 
+
 {{< n n="We rename 'heavens' with their modern version as 'gravitational territories'" >}}
 
 

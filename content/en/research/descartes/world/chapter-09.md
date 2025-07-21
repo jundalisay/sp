@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 9"
-title: "The Origin of Matter and the Stars"
+title: "The Origin of Matter"
 weight: 20
 c: "darkgoldenrod"
 description: "In Cartesian Physics, matter begins when the churning of spacetime particles caused some to acquire a low frequency"
@@ -39,8 +39,7 @@ and shatter the others by striking them, but which were not in turn
 broken or shattered themselves.66
  -->
 
-The earth-aether eventually move with the same agitation as the air-aether that contained them. 
-
+The earth-aether eventually move with the same speed as the air-aether that they are traveling in. 
 - If its initial motion were quicker, its collisions with them would slow it down by transferring its agitation to them. 
 - If its initial motion were slower, it would be forced to go as fast as them
 
@@ -58,6 +57,8 @@ This is similar to how boats that float on water follow the course of the water 
 Let 2 rapid rivers of equal force join together at some point to mix and then separate shortly afterwards.
 - The massive boats of River `1` will be able to pass easily into River `2` 
 - The lightest bodies will swerve away from it and will be thrown back by the force of the water towards wherever it is the least rapid.
+
+{{< i s="/graphics/physics/c9.jpg" a="Our revised drawing" c="Our improved drawing of Descartes' original with Planets instead of boats" >}}
 
 - Massive Boat `H` will take the course A-E-G. 
 - Massive Boat `I` will take the course C-E-F. 
