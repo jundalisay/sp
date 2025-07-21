@@ -43,14 +43,10 @@ c6 -->
 
 
 so that the energy of the medium is also determined.
-Of all quantities which occur only E0 seems now still to be
-arbitrary. One sees easily, however, how one can finally
-evaluate E0 from the given total energy E„ since if the chosen
-value of E0 leads, for instance, to too large a value of E„ we
-must decrease it appropriately, and the other way round.38
 
-After the stationary energy distribution is thus determined
-using a constant h, we can find the corresponding temperature
+Of all quantities which occur only E0 seems now still to be arbitrary. One sees easily, however, how one can finally evaluate E0 from the given total energy E„ since if the chosen value of E0 leads, for instance, to too large a value of E„ we must decrease it appropriately, and the other way round.38
+
+After the stationary energy distribution is thus determined using a constant h, we can find the corresponding temperature
 i? in degrees absolute* using a second constant of nature
 k= 1-346 x 10"1 6 erg degree- 1 through the equation
 

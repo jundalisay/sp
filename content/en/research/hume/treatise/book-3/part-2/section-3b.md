@@ -1,5 +1,6 @@
 ---
-heading: Section 3btitle: "The Rules For The Stability Of Possession"
+heading: Section 3b
+title: "The Rules For The Stability Of Possession"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 weight: 23
@@ -11,33 +12,41 @@ icon: "David Hume"
 
 
 The rule of the assignment of property to the present possessor is natural and useful.
-
-But its usefulness does not extend beyond the initial formation of society.
+- But its usefulness does not extend beyond the initial formation of society.
 
 Always assigning property to its present possessor is most pernicious, because it:
-            prevents restitution, and
-            authorizes and rewards every injustice.
+- prevents restitution, and
+- authorizes and rewards every injustice.
 
-Therefore, we must seek for some other circumstance that may give rise to property after society is established.
+There are 4 circumstances that give rise to property after society is established:
 
-Four circumstances are most considerable:
-            Occupation
-            Prescription
-            Accession
-            Succession
-    We shall briefly examine each of these, beginning with Occupation.
+1. Occupation
+2. Prescription
+3. Accession
+4. Succession
+
+<!-- We shall briefly examine each of these, beginning with Occupation. -->
+
+
+## Occupation
 
 The possession of all external goods is changeable and uncertain.
-        This is one of the most considerable impediments to the establishment of society.
-        It is why people restrain themselves by the rules of justice and equity by universal agreement, express or tacit.
+
+This is one of the most considerable impediments to the establishment of society.
+
+It is why people restrain themselves by the rules of justice and equity by universal agreement, express or tacit.
 
 The misery of the condition preceding this restraint, is why we submit to that remedy as quickly as possible.
         This easily explains why we annex the idea of property to the first possession.
-    People are unwilling to:
-        leave property in suspense even for the shortest time, or
-        open the smallest door to violence and disorder.
-    The first possession always engages the attention most.
-        If we neglected it, there would be no reason to assign property to any succeeding possession.16
+
+People are unwilling to:
+- leave property in suspense even for the shortest time, or
+- open the smallest door to violence and disorder.
+
+The first possession always engages the attention most.
+
+If we neglected it, there would be no reason to assign property to any succeeding possession.16
+
 
 {{< b >}}
 ### Footnote 16:
@@ -60,7 +69,7 @@ We can only join our labour to anything in a figurative sense.
 
 
 
-## The Definition Of Possession
+### The Definition Of Possession
 
 We must exactly determine what possession means.
 - This is not easy.
@@ -97,9 +106,10 @@ If we look for a solution in the imagination, the qualities which operate on it 
 
 
 These difficulties increase when we consider:
-        that our judgment changes very sensibly according to the subject, and
-        that the same power and proximity is deemed possession in one case, but will not be so in another.
-    A person who has exhausted himself hunting a hare, would see it as an injustice for another person to rush in and seize his prey.
+- that our judgment changes very sensibly according to the subject, and
+- that the same power and proximity is deemed possession in one case, but will not be so in another.
+
+A person who has exhausted himself hunting a hare, would see it as an injustice for another person to rush in and seize his prey.
         But the person who advances to pluck an apple hanging within his reach, cannot complain if a more alert person passes him and takes it.
     The natural mobility of the hare and the effect of industry forms a strong relation with the hunter.
         This relation is lacking in the case of the man and the apple.

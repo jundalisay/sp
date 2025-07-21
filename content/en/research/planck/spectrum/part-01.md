@@ -40,7 +40,7 @@ We should evaluate this quantity of entropy by introducing probability into the 
 I derived deductively an expression for the entropy [radiance] of a monochromatically vibrating resonator.
 - This gave a normal spectrum* (energy distribution in a stationary radiation state). 
 
-{{< n n="This is because colors reveal photon spin which can reveal frequency as the ratio of aetherspace to spacetime" }}
+{{< n n="This is because colors reveal photon spin which can reveal frequency as the ratio of aetherspace to spacetime" >}}
 
 This equation:
 - does not need you to know a previous spectral formula or any theory.
@@ -94,8 +94,10 @@ Each of these ways of distribution we call a "complexion",33 from Boltzmann for 
 
 If we denote the resonators by the numbers 1, 2, 3, ..., N, and write these in a row, and if we under each resonator put the number of its energy elements, we get for each complexion a symbol of the following form
 
+```
 1 2 3 4 5 6 7 8 9 10
 7 38 11 0 9 2 20 4 4 5
+```
 
 We have taken here 7V= 10, P = 100. 
 

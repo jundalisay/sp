@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 heading: Section 3d
 title: "Judgment on the End Result"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
@@ -37,9 +36,10 @@ From the form, bodies are denominated to be of this or that kind.
 
 
 I do not know from what principles such a controversy can be certainly determined.
-        But I think that Trebonian's decision seems ingenious:
-            The cup belongs to the proprietor of the metal, because it can be brought back to its first form.
-            But the ship belongs to the shipbuilder because it cannot be brought back.
+
+But I think that Trebonian's decision seems ingenious:
+- The cup belongs to the proprietor of the metal, because it can be brought back to its first form.
+- But the ship belongs to the shipbuilder because it cannot be brought back.
 
 No matter how ingenious this reason may seem, it plainly depends on the fancy.
 
@@ -55,12 +55,16 @@ The right of succession is a very natural one, coming from:
 - the presumed consent of the parent or near relation.
 
 Perhaps these causes are seconded by the influence of relation.
-        Relation naturally directs us to:
-            consider the son after the parent's death, and
-            ascribe to him a title to his father's possessions.
-        Those goods must become somebody's property.
-            But of whom is the question.
-        The person's children naturally present themselves to the mind.
+
+Relation naturally directs us to:
+- consider the son after the parent's death, and
+- ascribe to him a title to his father's possessions.
+
+Those goods must become somebody's property.
+
+But of whom is the question.
+
+The person's children naturally present themselves to the mind.
             They are already connected to those possessions through their deceased parent.
             Thus, we are apt to connect them further by the relation of property.
         There are many parallel instances of this.20
