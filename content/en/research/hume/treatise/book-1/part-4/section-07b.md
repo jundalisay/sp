@@ -75,55 +75,82 @@ Whom have, I any influence, or who have any influence on me?
 I am confounded with all these questions.
 
 I begin to fancy myself:
-in the most deplorable condition imaginable,
-surrounded with the deepest darkness, and
-utterly deprived of the use of every member and faculty.
-Reason cannot dispel these clouds.
-But fortunately, nature herself comes to my aid.
-It cures me of this philosophical sadness and delirium by:
-relaxing this bent of mind, or
-some lively impression of my senses, which obliterate all these chimeras.
-I dine, I play backgammon, I converse, and am merry with my friends.
-After three hours' amusement, I return to these speculations, they appear so cold, strained, and ridiculous.
-I cannot find in my heart to enter into them any farther.
-I find myself absolutely and necessarily determined to live, talk, and act like other people.
-However, I still feel perplexed because of:
-my natural propensity, and
-my animal spirits and passions.
-These reduce me to this indolent belief in the general maxims of the world.
-I am ready to:
-throw all my books and papers into the fire
-resolve never to renounce the pleasures of life for the sake of reasoning and philosophy.
-That is how I feel now.
-I must yield to the current of nature, in submitting to my senses and understanding.
-In this blind submission, I show most perfectly my sceptical disposition and principles.
-Does it follow that I must:
+- in the most deplorable condition imaginable,
+- surrounded with the deepest darkness, and
+- utterly deprived of the use of every member and faculty.
 
-strive against the current of nature?
-It would lead me to indolence and pleasure.
-seclude myself from the commerce and society of men?
+Reason cannot dispel these clouds.
+
+But fortunately, nature herself comes to my aid.
+
+It cures me of this philosophical sadness and delirium by:
+- relaxing this bent of mind, or
+- some lively impression of my senses, which obliterate all these chimeras.
+
+I dine, I play backgammon, I converse, and am merry with my friends.
+
+After three hours' amusement, I return to these speculations, they appear so cold, strained, and ridiculous.
+
+I cannot find in my heart to enter into them any farther.
+
+I find myself absolutely and necessarily determined to live, talk, and act like other people.
+
+However, I still feel perplexed because of:
+- my natural propensity, and
+- my animal spirits and passions.
+
+These reduce me to this indolent belief in the general maxims of the world.
+
+I am ready to:
+- throw all my books and papers into the fire
+- resolve never to renounce the pleasures of life for the sake of reasoning and philosophy.
+
+That is how I feel now.
+
+I must yield to the current of nature, in submitting to my senses and understanding.
+
+In this blind submission, I show most perfectly my sceptical disposition and principles.
+
+Does it follow that I must:
+- strive against the current of nature?
+  - It would lead me to indolence and pleasure.
+- seclude myself from the commerce and society of men?
+
 These are so agreeable
-or torture my brains with subtilities and sophistries, when:
+- or torture my brains with subtilities and sophistries, when:
+
 I cannot be happy on the reasonableness of so painful an application
+
 I cannot arrive at the truth from them?
+
 Why do I have to waste my time?
 
 How can it help me or mankind?
+
 All those who reason or believe anything certainly are fools.
 
 If I must be a fool, at least my follies are natural and agreeable.
+
 Where I strive against my inclination, I have a good reason for my resistance.
+
 I will no longer wander into these dreary solitudes and rough passages.
+
 This is how I feel.
 
 I confess that philosophy cannot oppose them.
+
 Philosophy expects a victory more from the returns of a serious good-humoured disposition, than from the force of reason and conviction.
+
 We should always preserve our skepticism.
+
 We believe that fire warms or water refreshes because it costs us too much pains to think otherwise.
 
 Philosophers should only operate on skeptical principles and only because they are inclined to do so.
+
 Where reason is lively and mixes itself with some propensity, it should be assented to.
+
 Where it does not, it can never operate on us.
+
 When I am tired with amusement and company, and have returned to my room or to a solitary walk by a riverside, I feel my mind all collected within itself.
 
 I am naturally inclined to think of all those subjects which I have had disputes in my reading and conversation.
@@ -181,12 +208,17 @@ They seldom go so far as to interrupt the course of our natural propensities.
 The cynics are an extraordinary instance of philosophers.
 
 From purely philosophical reasonings, they run into great extravagancies of conduct as any monk.
+
 Generally, the errors in religion are dangerous.
+
 Errors in philosophy are only ridiculous.
 
 Not everyone have these two cases of the strength and weakness of the mind.
+
 There are many honest gentlemen in England who have carried their thoughts little beyond those everyday objects.
+
 I do not see them as philosophers.
+
 I do not expect them to be researchers nor proper critics.
 
 Instead of calling them as philosophers, these down-to-earth people should be referred to the founders of philosophical systems in order to temper the fiery principles of those systems.
@@ -194,10 +226,13 @@ Instead of calling them as philosophers, these down-to-earth people should be re
 A warm imagination can enter into philosophy.
 
 Hypotheses can be embraced merely for being specious and agreeable.
+
 But we can never have any steady principles nor feelings which will suit common life.
+
 If these hypotheses are removed, we might establish a set of opinions that:
-can be satisfactory to the human mind, and
-can stand the most critical examination.
+- can be satisfactory to the human mind, and
+- can stand the most critical examination.
+
 We should not despair of reaching this goal.
 
 Many chimerical systems have arisen and decayed away.
@@ -242,7 +277,7 @@ It is easier:
 
 On such times, we often forget our skepticism and modesty.
 
-We use terms such as:
+We say:
 - 'it is evident'
 - 'it is certain'
 - 'it is undeniable'.
@@ -259,3 +294,4 @@ They imply:
 - no conceited idea of my own judgment.
 
 These are my skeptical feelings alone.
+

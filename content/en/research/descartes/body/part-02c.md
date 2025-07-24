@@ -1,6 +1,6 @@
 ---
 heading: Part 2c
-title: "The Heart"
+title: "The Heartbeat"
 date: 2025-01-24
 weight: 10
 description: "The Description of the Human Body talks about the body"

@@ -10,7 +10,9 @@ c: "firebrick"
 ---
 
 
-If this is the method adopted by the Law we can  asked: What is the way of proving the unity of God by means of the Law; that is, the knowledge of the religious formula that “there is no god, but God.” The negation contained in it is an addition to the affirmative, which the formula contains, while the affirmative has already been proved. 
+If this is the method adopted by the Law we can ask: What is the way of proving the unity of God by means of the Law; that is, the knowledge of the religious formula that “there is no god, but God.” 
+
+The negation contained in it is an addition to the affirmative, which the formula contains, while the affirmative has already been proved. 
 
 What is the purpose of this negation? 
 

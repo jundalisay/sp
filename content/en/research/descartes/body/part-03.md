@@ -33,9 +33,16 @@ This is because:
 
 <!-- rarefaction -->
 
-The small particles of this blood are separated from each other by the decompression in the heart. This pushes these membranes forcefully from all sides. They easily enter those pores of similar proportions. They strike the roots of the small filaments that make up the solid particles. 
+The small particles of this blood are separated from each other by the decompression in the heart. 
+- This pushes these membranes forcefully from all sides. 
 
-These pores contract when the arteries deflate. In the process, several blood particles remain caught against the roots of the small filaments of the solid particles that they are nourishing (and several others flow away through the pores that surround them), and in this way they also enter into the composition of the body.
+They easily enter those pores of similar proportions and strike the roots of the small filaments that make up the solid particles. 
+
+These pores contract when the arteries deflate. 
+
+In the process, several blood particles remain caught against the roots of the small filaments of the solid particles that they are nourishing (and several others flow away through the pores that surround them).
+
+In this way, they also enter into the composition of the body.
 
 <!-- But in order to understand this more distinctly, we must bear in mind that  -->
 
@@ -135,30 +142,36 @@ This leads to such an imbalance between the solid and the fluid parts that age a
 
 The blood is a mass of many small portions of food that one has ingested.
 
-It is made up of parts which are significantly different from one another, as much in shape as in solidity and size.
+It is made up of particles which are significantly different from one another, as much in shape as in solidity and size.
 
-Only 2 things can make each of these parts proceed to specific positions in the body:
+Only 2 things can make each of these particles proceed to specific positions in the body:
 
 1. Their position in relation to the route that the parts follow.
 
 2. The size and shape of the pores where they – or rather the bodies to which they are attached – enter. 
 
-For to suppose that there are in each part of the body faculties that choose and guide the particles of nutrient to where they are appropriate, is to make claims to an account which is both incomprehensible and chimerical, and to attribute more intelligence to these than even our soul has: for our soul does not know in any way what they would need to know.
+Some people think that each part of the body has faculties that choose and guide the particles of nutrient to where they are appropriate.
+- This is an incomprehensible and chimerical claim as it attributes more intelligence to the body than even what our soul has,
+- Our soul does not know in any way what they would need to know.
 
-The size and shape of these pores is enough to secure that the parts of the blood which have a certain bulk and shape enter some places in the body rather than others. 
+The size and shape of these pores ensures that the blood particles which have a certain size and shape enter some places in the body rather than others. 
 
-Sieves with holes can separate round grains from long ones, and the finest from the largest.
+Sieves with holes can separate round grains from long ones, the finest from the largest.
 
-Likewise, the blood, pushed by the heart through the arteries, finds many pores in them, through which some of its constituent parts can pass, but not others.
+Likewise, the blood, pushed by the heart through the arteries, finds many pores in them through which some of its constituent particles can pass, but not others.
 
-But their position in relation to the route of the blood through the arteries is also required in order to make sure that among those of its parts that have the same shape and bulk, but not the same solidity, the more solid go to particular places, rather than to others. 
+But their position in relation to the route of the blood through the arteries is also required to make sure that among those of its parts that have the same shape and bulk, but not the same solidity, the more solid go to particular places, rather than to others. 
 
-And it is above all on their location that the production of animal spirits depends.
+**The production of animal spirits depends above all on their location.**
 
 All the blood that comes from the heart in the aorta is pushed in a straight line towards the brain. 
 
-But it cannot all go there (because the branches of the aorta which extend this far, namely those called the ‘carotid’, are very narrow compared to the opening of the heart from whence they come), and only those of its parts which, being solid, are also the most active, and those most agitated by the heat of the heart, go there.
+But it cannot all go there because the branches of the aorta which extend this far, namely those called the ‘carotid’, are very narrow compared to the opening of the heart where they come from. 
+- Only those of its parts which, being solid, are also the most active, and those most agitated by the heat of the heart, go there.
 
-Because of this, they have a greater force than the others to follow their course to the brain. At the entry to the brain, in the small branches of these carotids, and also particularly in the gland that physicians have supposed only serves to receive the phlegm, those parts that are small enough to pass through the pores of this gland are filtered through, and these make up the animal spirits.
+Because of this, they have a greater force than the others to follow their course to the brain. 
+
+At the entry to the brain, in the small branches of these carotids, and also particularly in the gland that physicians have supposed only serves to receive the phlegm, those particles that are small enough to pass through the pores of this gland are filtered through, and these make up the animal spirits.
 
 Those that are a little larger attach themselves to the roots of the filaments that make up the brain, but as for those that are largest of all, they pass from the arteries into the veins to which they are joined and, retaining the form of blood, return to the heart.
+

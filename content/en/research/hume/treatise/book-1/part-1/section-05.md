@@ -15,34 +15,32 @@ icon: "David Hume"
 
 The word 'relation' is commonly used in 2 different senses*:
 
-1. A quality which connects 2 ideas in the imagination
+1. A quality which connects 2 ideas
 
 This is the common meaning of 'relation' -- one idea naturally introduces the other idea. 
 
-2. An arbitrary union of 2 ideas in the imagination, which we compare those ideas with
+2. An arbitrary union of 2 ideas, which we compare those ideas with
 
 This is the philosophical meaning of 'relation'.
 
-We extend this to mean any subject of comparison, without a connecting principle.
-- Thus, philosophers classify distance as a true relation, because we acquire an idea of distance by comparing 2 objects.
+I extend this to mean any subject of comparison, without a connecting principle.
 
+For example, philosophers call distance as a true relation because we get an idea of distance by comparing 2 objects.
 
 {{< n n="The 2 meanings show the 2 domains of physical and metaphysical reality" >}}
-
 
 
 But we commonly say the following, as if distance and relation were incompatible:
 - "X is most distant from Y"
 - "A is most unrelated to B".
 
-It is an endless task to enumerate all those qualities:
+<!-- It is an endless task to enumerate all those qualities:
 - which allow a comparison of objects, and
 - which produces the ideas of philosophical relation.
 
-But they may be put under 7 general headings, as the sources of all philosophical relation.
+But they may be put under 7 general headings, as the sources of all  -->
 
-
-## The 7 Philosophical Relations
+These philosophical relations are 7.
 
 ### 1. Resemblance
 

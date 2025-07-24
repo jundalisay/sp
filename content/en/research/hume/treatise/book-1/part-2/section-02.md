@@ -14,40 +14,39 @@ icon: "David Hume"
 ## The Limitation of the Mind Leads to Indivisible Units Space and Time
 
 
-Wherever ideas represent objects, the relations, contradictions and agreements of the ideas are all applicable to those objects.
-- This is generally the foundation of all human knowledge.
+The foundation of all human knowledge is the relations, contradictions and agreements of the ideas with their objects.
 
-But our ideas represent the smallest parts of space.
-
+Our ideas represent the smallest parts of space.
 
 Whatever divisions and subdivisions these parts may lead to, they can never become inferior to some ideas that we create.
 
 This means that whatever appears impossible and contradictory after comparing these ideas must be really impossible and contradictory.
 
 Anything that can be infinitely divided contains an infinite number of parts.
-- Otherwise the division would be stopped short by the indivisible parts, which we should immediately arrive at.
 
-It follows that if any finite space is infinitely divisible, then a finite space* has an infinite number of parts.
-- Conversely, if a finite space cannot have an infinite number of parts, then no finite space can be infinitely divisible.
+<!-- - Otherwise the division would be stopped short by the indivisible parts, which we should immediately arrive at. -->
 
-But this latter supposition is absurd.
+If a finite space:
+- is infinitely divisible, then it has an infinite number of parts
+- is not infinitely divisible, then all finite spaces are not infinitely divisible
+  - But this is absurd.
 
-{{< n n="This is an attack on Descartes who went against the indivisibility of atoms. The error in Hume is that he is imposing a finite or limited space. In Cartesian Physics, spacetime is limited or has an edge, but that edge is constantly growing because the 2nd Element (spacetime particles) are constantly being divided." >}}  
+<!-- n n="This is an attack on Descartes who went against the indivisibility of atoms. The error in Hume is that he is imposing a finite or limited space. In Cartesian Physics, spacetime is limited or has an edge, but that edge is constantly growing because the 2nd Element (spacetime particles) are constantly being divided. -->
 
 
 I clear this up by thinking of the smallest idea that I can about space.
 
 
-This smallest idea is a real quality of space. I repeat this idea to create a compound idea of space that becomes bigger.
-
-If I did this infinitely, then the space would akso be infinite.
+This smallest idea is a real quality of space.
+- I repeat this idea to create a compound idea of space that becomes bigger.
+- If I did this infinitely, then the space would akso be infinite.
 
 Therefore:
 - an infinite number of parts is the same as the infinite space*, and
 - no finite space can have an infinite number of parts.
 
 
-{{< n n="This is what Descartes' reasoning is based on. And so it agrees with Hume. " >}}
+<!-- n n="This is what Descartes' reasoning is based on. And so it agrees with Hume. -->
 
 Consequently, no finite space is infinitely divisible [Footnote 3].
 

@@ -1,79 +1,114 @@
 ---
 heading: "Part 2k"
-title: "Question 5: The Day of Judgment"
+title: "Question 3: Fate and Predestination"
 writer:
   name: Averroes
   url: https://en.wikipedia.org/wiki/Averroes
-weight: 32
-description: "The Day of Judgment is a thing in which all the religions are agreed. All the learned men have proved it by arguments."
+description: "This is one of the most intricate problems of religion"
+weight: 28
 c: "firebrick"
 ---
 
 
-The Day of Judgment is a thing in which all the religions are agreed. All the learned men have proved it by arguments. 
+This is one of the most intricate problems of religion. 
+- The traditional arguments about this problem are contradictory, similar to the arguments of reason. 
 
-The religions differ about the conditions of its existence, specifically about the visible things by which they should explain to the common people the conditions of the unseen.
+The contradiction in the arguments of the first kind is found in the Quran and the Traditions. 
 
-There are some religions which have made it only spiritual -- meant only for the souls. Others have thought it to be both physical and spiritual. 
+Many verses of the Quran teach that:
+- all things are predestined
+- man is compelled to do his acts. 
 
-The reconciliation in this matter depends on:
-- the testimony of divine revelation
-- the necessary arguments of all[291] the learned men -- that for a man there are two blessings: of the present world, and of the world to come, which is itself established upon principles, admitted by all to be true. 
+It also has verses which say that man is:
+- free in his acts
+- not compelled in performing them. 
 
-One of them is that when it is clear that all the existent things have not been created in vain, but for some particular work assigned to them, which is the sum total of their life, then man is far fitter to be placed under this category. God himself has warned us of the existence of this purpose in all the created things. 
+The following verses assert that all the things are by compulsion, and are predestined:
 
-He says in the Quran, “We have created the heavens and the earth, and whatever is between them, in vain. This is the opinion of the unbelievers.”[155] 
+“Everything[261] have We created bound by a fixed degree;”[118]
 
-Again, He says, describing and praising the learned men, who have understood, the real and inner purpose of this existence, 
+“With Him everything is regulated according to a determined measure.”[119]
 
-“Who remember God standing, and sitting, and lying on their sides; and meditate on the creation of heaven and earth, saying, O Lord, thou hast not created this in vain; far be it from thee therefore, deliver us from the torment of[292] hell fire.”[156]
+“No accident happeneth in the earth, nor in your persons, but the same was entered in the Book verily it is easy with God.”[120] 
 
-The ultimate purpose in the creation of man is still more evident in him, than in other things. 
+Other verses say that man can acquire deeds by free will, and that things are only possible and not necessary:
 
-God has informed us of it in many a verses of the Quran. He says, “Did ye think that we had created you in sport; and that ye should not be brought again before us,”[157] and, “Doth man think, that he shall be left at full liberty, without control?”[158] and further on He says, “I have not created genii and men for any other end, but that they should serve me.”[159] That is the genius out of all creation which could know him. 
+“Or He destroyeth them (by ship-wreck), because of that which their crew have merited; though He pardoneth many things.”[121] 
 
-Again, He says, informing us of the importance of knowing God, “What reason have I that I should not worship him who hath created me? for unto him shall ye return.”[160] Now it being clear that man has been created for a certain work, it is evident that the work should be of a particular kind. For we see that everything has been created for a certain work, which is found in it, and in none other; that[293] is, it is specialised in it. 
+“Whatever misfortune befalleth you is sent you by God, for that which your hands have deserved.”[122] 
 
-This being so, it is necessary that the real purpose of man’s creation be those deeds which are found in him, and in no other animal. These deeds pertain to his rational powers. As there are two portions of the rational powers,—practical and theoretical—it is evident that the first kind of thing is demanded of him. That is, that his faculties of knowledge and science should be found in their perfection. 
+“But they who commit evil, equal thereunto.”[123]
 
-The deed by which soul acquires perfection in those two faculties are goodness and virtue, and those that retard it are evil and wicked. 
+“It shall have the good which it gaineth, and it shall have the evil which it gaineth.”[124] [262] 
 
-And as these actions are most of them fixed by divine revelation, religions appeared to fix them. With that there also appears a knowledge of those qualities, exhorting the people towards them. They ordered men to act upon goodness, and shew evil. They taught them the quantity of the deeds which will be good for all the people, both in practice and in knowledge taken together.
+“And as to Thamud, We directed them, but they loved blindness better than the true directions.”[125] 
 
-They also taught them the theoretical knowledge of things, which all the people should[294] know, such as the knowledge of God, angels, of higher creation, and of goodness. In this way they also taught them the quantity of the acts which would be necessary to make the souls excel in virtue. This is especially the case with our religion, Islam, for when compared with other religions, it is found that it is absolutely the best religion. Hence it was the last of divine dispensations.
+Sometimes contradiction appears even in a single verse of the Quran:
 
-Now divine revelation has informed us in all the religions that the soul will live, and all the argument of the learned people have established the same. The souls are freed from physical desires after death. If they be pure, their purity is doubled by this freedom from desires. 
+“After a misfortune hath befallen you (you had already attained two equal advantages), do you say, whence cometh this? Answer, This is from yourselves.”
 
-If they be evil this separation increases their depravity, for they are troubled by the evil which they have already earned, and their regret increases about the opportunities which they lost before their separation from the body, for this purification is not possible without it. 
+[126] In the next verse, He says 
 
-It is to this that following verse refers:—A soul would say, “Alas, for that I[295] have been negligent in my duties towards God: Verily I have been one of the scorners.”[161] All the religions agree about this condition of man, and call it his last goodness or misery. 
+“What happenth to you, on the day whereon the two armies met, was certainly by permission of the Lord.”[127] 
 
-This being so, there could not be found in the visible world anything which may be given as an illustration, so there is a difference in its description in the revelations given to different prophets. We mean to say, that there is a difference in illustrating the condition of the good and bad soul on that occasion. There are some which have not given any illustrations of that happiness or misery which the good and bad souls will have there. They have only said that the conditions there would be only spiritual, and pleasures angelic. 
+“Whatever good befalleth thee, O man, it is from God; and whatever evil befalleth thee, it is from thyself;”[128] 
 
-Others have given instances from the visible world; that is, they have given the examples of the pleasures here for the pleasures of the next world, after deducting the trouble borne in acquiring them, and in the same way, they have illustrated the misery there, by the example of misery here, after deducting the pleasure which we derive from it. Either the people of these religions received from God revelations which those did not receive who made the next world purely spiritual, or they saw, that illustrations from things visible are best understood by the common people and that they are best led so or checked from an action through them. So they said that God will put back the good souls in their respective bodies, and the best possible ease—in paradise. The bad souls will also return to their bodies, where they will be in the worst possible misery, which they call hell-fire.
+Yet the preceding verse says: 
 
-This is true of our religion, Islam, in illustrating the conditions of the next world. There are many verses of the Quran which contain arguments as to the possibilities of the conditions of that world, which can be understood and verified by all. For our reason cannot apprehend these things more than the possibility of knowing which is common[297] to all, and which is of the kind of analogy of the existence of the like from the being of the like, that is of its coming into being. It is an analogy of the coming into being of the small from the existence of the big and the great. For instance, God says, “And He propoundeth unto us a comparison and forgetteth His Creation.”[162]
+“All is from God.”[129]
 
-In these verses the argument used is the analogy of the return of the beginning, when both are equal. In the following verse the argument of those is refuted who differentiate between the real and return of the same thing. He says, “He giveth you fire out of a green tree.”[163] The doubt is that the birth was from heat and moisture, while the return will be from cold and dryness. So this doubt is met by the fact that God can create the contrary from the contrary, as He can create the like from the like. The analogy is drawn from the existence of the little from the great. For example, God says, “Is not He who has created the Heavens and the earth able to[298] create new creatures like unto them! yea, certainly; for He is the wise Creator.”[164] These verses have two arguments for proving the resurrection and at the same time refuting the arguments of those denying it. Were we to quote the verses which give this proof our discourse would be lengthened. But all of them are of the kind we have mentioned.
 
-So, as we have already said, all the religions are agreed that there is a blessing or misery for the human soul after death, but differ in illustrating the conditions of that moment and in explaining it to the common people. It seems that the illustration in our religion is the most perfect of all for the understanding of the people, and at the same time most inciting of them all to gain for their souls the advantages of that day. 
+Such is also the case with the Traditions. The Prophet says: 
 
-And it is the many with whom lies the primary purpose of religion. The spiritual illustration would be least inciting to the common people for desiring the things of hereafter. So they would have[299] little liking for it, while they would fear the physical illustration.
+“Every child is born in the true religion; his parents afterwards turn him into a Jew or a Christian.” 
 
-So it seems that the physical illustration would be most exciting to them, than the spiritual, while the latter would appeal only to the controversialists among the scholastic theologians, who are always very few in number. Hence we find that the Muslims have been divided into three parties about the meaning of the conditions of the Day of Judgment. One party says that that existence would be just like our present one, as regards pleasures and enjoyments, that is, they think that both are of the same genius, but differ in perpetuity and termination: the one is for ever and the others come to an end. The other party thinks that the two existences are different. 
+On another occasion he said:
 
-But this is again subdivided into two parties. The one thinks that that existence with our present faculties is spiritual, but has been described as physical. For this there are many religious arguments which it would be useless to repeat here. The other party says that that existence is physical only; but they at the same time[300] believe, that the body will be different from our present body. This is only transient, that will be eternal. For this also there are religious arguments. 
+“The following[263] people have been created for hell, and do the deeds of those who are fit for it. These have been created for heaven, and do deeds fit for it.” 
 
-Even Abdullah B. Abbas held this view when he said: “There is nought in this world of the hereafter, but names.” It seems that this view is better suited to the learned men because its possibility is based upon principles, in which there is no disagreement according to all men: the one being that the soul is immortal, and the second is that the return of the souls into other bodies does not look so impossible as the return of the bodies themselves. It is so because the material of the bodies here is found following and passing from one body to another, i. e.; one and the same matter is found in many people and in many different times. 
+The first Tradition says that the cause of disbelief is one’s own environments; while faith and belief are natural to man. 
 
-The example of bodies cannot be found, for their matter is the same. For instance a man dies and his body becomes dissolved into earth. The earth ultimately becomes dissolved into vegetable, which is eaten by quite a[301] different man from whom another man comes into being. If we suppose them to be different bodies, then our aforesaid view cannot be true.
+The other Tradition says that wickedness and disbelief are created by God, and man is compelled to follow them.
 
-The truth about this question is that man should follow that which he himself has thought out but anyhow it should not be the view which may deny the fundamental principle altogether. For this would be denying its existence. Such a belief leads to infidelity, on account of a distinct knowledge of this condition being given to man, both by religion and by human reason, which is all based upon the eternal nature of the soul. 
+This has led Muslims to be divided into 2 groups:
 
-If it be said whether there is any argument or information in the Law about this eternal nature of the soul, we would say that it is found in the Quran itself. God says, “God taketh unto himself the souls of men at the time of their death; and those which die not He also taketh in their sleep.”[165] 
+1. Mutazilites
 
-In this verse sleep and death have been placed upon the same level, on account of the change in its instrument,[302] and in sleep on account of a change in itself.
+These believed that man’s wickedness or virtue is his own acquirement, and that according to these he will be either punished or rewarded.
 
-For had it not been so it would not have come to its former condition after awakening. By this means we know that this cession does not effect its essence, but was only attached to it on account of change in its instrument. So it does not follow that with a cessation of the work of the instrument, the soul also ceases to exist. Death is only a cessation of work, so it is clear that its condition should be like that of sleep. As someone has said that if an old man were to get the eyes of the young, he would begin to see like him.
 
-This is all that we thought of in an exposition of the beliefs of our religion, Islam. What remains for us is to look into things of religion in which interpretation is allowed and not allowed. And if allowed, then who are the people to take advantage of it? With this thing we would finish our discourse.
+2. Jabarites
+
+They say that man is compelled to do his deeds.
+
+The Asharites have tried to adopt a mean between these two extreme views. 
+
+They say that man can do action, but the deeds done, and the power of doing it, are both created by God. 
+
+But this is quite meaningless. For if the deed and[264] the power of doing it be both created by God, then man is necessarily compelled to do the act. This is one of the reasons of the difference of opinion about this problem.
+
+
+There is another cause of difference of opinion about this problem, than the traditional one. 
+
+This consists of the contradictory arguments advanced. For if we say that man is the creator of his own deeds, it would be necessary to admit that there are things which are not done according to the will of God, or His authority. So there would be another creator besides God, while the Muslims are agreed that there is no creator but He. 
+
+If, on the other hand, we were to suppose that man cannot act freely, we admit that he is compelled to do certain acts, for there is no mean between compulsion and freedom. Again, if man is compelled to do certain deeds, then on him has been imposed a task which he cannot bear; and when he is made to bear a burden, there is no difference between his work and the work of inorganic matter. 
+
+For inorganic matter has[265] no power, neither has the man the power for that which he cannot bear. Hence all people have made capability one of the conditions for the imposition of a task, such as wisdom we find Abul Maali, saying in his Nizamiyyah, that man is free in his own deeds and has the capability of doing them. He has established it upon the impossibility of imposing a task which one cannot bear, in order to avoid the principle formerly disproved by the Mutazilites, on account of its being unfit by reason. 
+
+The succeeding Asharites have opposed them. Moreover if man had no power in doing a deed, then it will be only by chance that he may escape from evil, and that is meaningless. Such also would be the case with acquiring goodness. In this way all those arts which lead to happiness, as agriculture etc., would become useless. So also would become useless all those arts the purpose of which is protection from, and repulsion of danger as the sciences of war, navigation, medicine etc. such a condition is quite contrary to all that is intelligible to man.
+
+How is this contradiction which is to be found both in tradition and reason to be reconciled?
+
+Apparently the purpose of religion in this problem is not to divide it into two separate beliefs, but to reconcile them by means of a middle course, which is the right method. It is evident that God has created in us power by which we can perform deeds which are contradictory in their nature. 
+
+But as this cannot be complete except by the cause which God has furnished for us, from outside, and the removal of difficulties from them, the deeds done are only completed by the conjunction of both these things at the same time. This being so the deeds attributed to us are done by our intention, and by the fitness of the causes which are called the Predestination of God, which He has furnished for us from outside. They neither complete the works which we intend nor hinder them, but certainly become the cause of our intending them—one of the two things. For intention is produced in[267] us by our imagination, or for the verification of a thing, which in itself is not in our power, but comes into being by causes outside us. 
+
+For instance, if we see a good thing, we like it, without intention, and move towards acquiring it. So also, if we happen to come to a thing which it is better to shun, we leave it without intention. Hence our intentions are bound and attached to causes lying outside ourselves. 
+
+To this the following words of God, refer “Each of them hath angels, mutually succeeding each other, before him and behind him; they watch him by the command of God.”[130] As these outside causes take this course according to a well defined order and arrangement, and never go astray from the path which their Creator hath appointed for them, and our own intentions can neither be compelled, nor ever found, on the whole, but by their fitness, so it is necessary that actions too should also be within well-defined limits, that is, they be found in a[268] given period of time and in a given quantity. This is necessary because our deeds are only the effects of causes, lying outside us; and all the effects which result from limited and prearranged causes, are themselves limited, and are found in a given quantity only. 
+
+This relation does not exist only between our actions and outside causes, but also between them and the causes which God has created in our body, and the well-defined order existing between the inner and outer causes. 
+
+This is what is meant by Fate and predestination, which is found mentioned in the Quran and is incumbent upon man. This is also the “Preserved Tablet.”[131] 
+

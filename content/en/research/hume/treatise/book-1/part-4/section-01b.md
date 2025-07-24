@@ -59,7 +59,9 @@ Until finally, nothing remains of the original probability:
 No finite object can sustain itself under an infinite decrease of probability.
 
 Even the vastest amount in the human imagination will be reduced to nothing in this way.
+
 Our initial belief will infallibly perish by passing through so many new examinations.
+
 Each examination reduces its force and vigour.
 
 When I reflect on my judgment's natural fallibility, I have less confidence in my opinions, than when I only consider the objects I reason on.

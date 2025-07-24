@@ -33,10 +33,12 @@ A physical deficiency or defect in any portion of the body results in the weaken
 
 In physiology, this is called “navel breathing” (nábhishvása). 
 
-When samána loses its vitality, all the 3 váyus – práńa, apána and samána – are transformed into one and strike udána. 
-- When udána loses its separate identity, vyána also comes in contact with their collective force
+**When samána loses its vitality, all the 3 váyus – práńa, apána and samána – are transformed into one and strike udána.** 
+
+When udána loses its separate identity, vyána also comes in contact with their collective force.
 - All the internal váyus <!-- associated into --> becomes one
-- These move throughout the physical body with great force and strike at every delicate point for an outlet. 
+
+These move throughout the physical body with great force and strike at every delicate point for an outlet. 
 - The combined váyus pass out of the physical structure
 - They take with them <!-- , and with their passing away from the physical structure --> all the external váyus, except dhanaiṋjaya.
 
@@ -55,15 +57,18 @@ Dhanaiṋjaya causes sleep.
 
 When the dead body is burnt or gets totally decayed, dhanaiṋjaya leaves the body and remains in the Cosmos to act again according to the will of the Principle of Activity.
 
-**The loss in the parallelism of physical and mental waves causes death.** 
+**The loss in the parallelism of physical and mental waves causes death.**
 - The physical cause of death is the passing away of the 9 vayus (10 minus dhanaiṋjaya) into eternal space. 
 - The psychic waves, finding no proper adjustment with the physical waves, also dissociate and pass into eternal space. 
 
 
 The universal law of of Activity mandates that <!--  (which it had to express according to the  Prakrti that --> every force must have its expression. 
-- The detached mental body possesses the unexpressed momentum of its previous lives.
-- **It is the duty of the Cosmic mutative force to provide it a proper physical parallelism for due expression by making the dissociated mind penetrate into a subtle physical structure.** 
-- This dissociated mind's unit consciousness or atman still witnesses this state of inaction
+
+The detached mental body possesses the unexpressed momentum of its previous lives.
+
+**It is the duty of the Cosmic mutative force to provide it a proper physical parallelism for due expression by making the dissociated mind penetrate into a subtle physical structure.** 
+
+This dissociated mind's unit consciousness or atman still witnesses this state of inaction
 
 <!--  has, therefore, the witnessing entity who witnesses the mind which is in a state of inaction (or converted into karmáshaya – saḿskára, or reaction in its potentiality).
  
@@ -74,8 +79,6 @@ The átman is the witnessing entity without which there is no meaning of the mi
 Without the átman, the mind cannot perceive or receive the incoming quantum-perceptionstanmátras . This is why the ultimate knowership or doership lies in the átman. 
 The átman witnesses the mind itself. The ultimate residence of the mind is the átman. --> 
 <!-- The physical cause of death has been discussed above. Let us now see the physical cause of life. -->
-
-
 
 
 ## Structural Dissociation [Supernova] from the Lack of Vital Energy

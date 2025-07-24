@@ -1,6 +1,6 @@
 ---
 heading: Part 2d
-title: "Harves Versus Descartes"
+title: "Harvey Versus Descartes"
 date: 2025-01-24
 weight: 12
 description: "Harvey believes that the heart contracts from within."

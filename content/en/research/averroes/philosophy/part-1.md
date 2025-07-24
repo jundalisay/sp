@@ -74,19 +74,29 @@ This is impossible unless one possesses knowledge beforehand of the various kind
 
 This cannot be done except one knows its different parts, that is, the different kinds of premises.
 
-Hence, for a believer in the Law and a follower of it, it is necessary to know[17] these things before he begins to look into creation. They are like instruments for observation. 
+Hence, for a believer in the Law, it is necessary to know[17] these things before he begins to look into creation. They are like instruments for observation. 
 
-By the study of the law, a student discovers the necessity of knowledge of legal reasoning with all its kinds and distinctions. A student will find out by observing the creation the necessity of metaphysical reasoning. He has a greater claim on it than the jurist. 
+By the study of the law, a student discovers the necessity of knowledge of legal reasoning with all its kinds and distinctions. 
+- A student will find out by observing the creation the necessity of metaphysical reasoning. 
+- He has a greater claim on it than the jurist. 
 
 If a jurist argues the necessity of legal reasoning from the saying of God: “Wherefore take example from them O ye who have eyes,”[8] a student of divinity has a better right to establish the same from it on behalf of metaphysical reasoning.
 
 One cannot maintain that this kind of reasoning is an innovation in religion because it did not exist in the early days of Islam. For legal reasoning and its kinds are things which were invented also in later ages, and no one thinks they are innovations. 
 
-Such should also[18] be our attitude towards philosophical reasoning. There is another reason why it should be so, but this is not the proper place to mention it. A large number of the followers of this religion confirm philosophical reasoning, all except a small worthless minority, who argue from religious ordinances. Now, as it is established that the Law makes the consideration of philosophical reasoning and its kinds as necessary as legal reasoning, if none of our predecessors has made an effort to enquire into it, we should begin to do it, and so help them, until the knowledge is complete. 
+Such should [18] be our attitude towards philosophical reasoning. 
 
-For if it is difficult or rather impossible for one person to acquaint himself single-handed with all things which it is necessary to know in legal matters, it is still more difficult in the case of philosophical reasoning. 
+Many followers of this religion confirm philosophical reasoning, except a small worthless minority who argue from religious ordinances.
 
-If before us, somebody has enquired into it, we should derive help from what he has said. It is quite immaterial whether that man is our co-religionist or not; for the instrument[19] by which purification is perfected is not made uncertain in its usefulness, by its being in the hands of one of our own party, or of a foreigner, if it possesses the attributes of truth. By these latter we mean those Ancients who investigated these things before the advent of Islam.
+<!-- Now, as it is established that the Law makes the consideration of philosophical reasoning and its kinds as necessary as legal reasoning, if none of our predecessors has made an effort to enquire into it, we should begin to do it, and so help them, until the knowledge is complete.  -->
+
+It is impossible for one person to acquaint himself single-handedly with all things necessary to know in legal matters.
+- It is still more difficult in the case of philosophical reasoning. 
+
+If before us, somebody has enquired into it, we should derive help from what he has said.
+- It is immaterial whether that man is our co-religionist or not.
+
+The instrument[19] by which purification is perfected is not made uncertain in its usefulness, by its being in the hands of one of our own party, or of a foreigner, if it possesses the attributes of truth. By these latter we mean those Ancients who investigated these things before the advent of Islam.
 
 Now, such is the case. All that is wanted in an enquiry into philosophical reasoning has already been perfectly examined by the Ancients. 
 
@@ -96,4 +106,6 @@ Thus we must begin an inquiry into the universe systematically, such as we have 
 
 Imagine that the science of geometry and astronomy had become extinct in our day, and a single individual desired to find out by himself the magnitude of the heavenly bodies, their forms, and their distances from one another. Even though he were the most sagacious of men, it would be as impossible for him as to ascertain the proportion of the sun and the earth and the magnitude of the other stars. 
 
-It would only be attainable by aid of divine revelation, or something like it. If it be said to him that the sun is a hundred and fifty or sixty times as big as the earth, he would take it to be sheer madness[21] on the part of the speaker, though it is an established fact in the science of astronomy, so that no one learned in that science will have any doubt about it.
+It would only be attainable by aid of divine revelation, or something like it. 
+
+If it be said to him that the sun is a hundred and fifty or sixty times as big as the earth, he would take it to be sheer madness[21] on the part of the speaker, though it is an established fact in the science of astronomy, so that no one learned in that science will have any doubt about it.

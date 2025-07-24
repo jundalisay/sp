@@ -1,6 +1,5 @@
 ---
 title: "Fusion Reactor Designs from Descartes' Physics"
-# heading: "The Physical and Aethereal Planes"
 date: 2023-11-25
 image: /graphics/physics/reactor.jpg
 description: "We use the ideas of Rene Descartes from the 1630's to draft designs for fusion reactors."
@@ -9,6 +8,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 toc: false
+draft: true
 weight: 7
 ---
 

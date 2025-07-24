@@ -45,6 +45,16 @@ The role of religion resurfaces when the religious spirit emerges stronger than 
 
 Despite political circumstances which necessitate the establishment of a state, the basis for the life of individuals is the family, and extends to the tribe, the nation, and eventually to all humanity. 
 
-The essential factor is the social factor. Nationalism is a permanent factor. Stress should be laid on social reality and family care in order to bring up an integrated well-educated human. Care should then be given to the tribe as a social “umbrella” and a natural social school which develops its members at the post-family stage. The nation then follows. The individual learns social values mainly from the family and the tribe which form a natural social structure created by no particular individual. Taking care of the family is in the interest of the individual just as the care of the tribe is in the interest of the family, the individual and the nation; it is part of the national identity. The social factor, the national factor, is the real constant dynamic force behind history.
+The essential factor is the social factor. Nationalism is a permanent factor. Stress should be laid on social reality and family care in order to bring up an integrated well-educated human. Care should then be given to the tribe as a social “umbrella” and a natural social school which develops its members at the post-family stage. The nation then follows. 
 
-To disregard the national bond of human communities and to establish a political system in contradiction to social reality establishes only a temporary structure which will be destroyed by the movement of the social factor of those groups, i.e., the national integrity and dynamism of each community. These facts are innate in the life of humankind and are not intellectual conjectures. Every individual in the world should be aware of these realities and work accordingly so that his actions may be worthwhile. To avoid deviation, disorder and damage in the life of human groups which are the result of a lack of understanding and respect for these principles of human life, it is necessary to know these proven realities.
+The individual learns social values mainly from the family and the tribe which form a natural social structure created by no particular individual. 
+
+Taking care of the family is in the interest of the individual just as the care of the tribe is in the interest of the family, the individual and the nation.
+
+It is part of the national identity. The social factor, the national factor, is the real constant dynamic force behind history.
+
+To disregard the national bond of human communities and to establish a political system in contradiction to social reality establishes only a temporary structure which will be destroyed by the movement of the social factor of those groups, i.e., the national integrity and dynamism of each community. 
+
+These facts are innate in the life of humankind and are not intellectual conjectures. Every individual in the world should be aware of these realities and work accordingly so that his actions may be worthwhile. 
+
+To avoid deviation, disorder and damage in the life of human groups which are the result of a lack of understanding and respect for these principles of human life, it is necessary to know these proven realities.

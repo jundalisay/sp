@@ -34,26 +34,32 @@ An object continues to be regarded as part of its kind despite small changes in 
 
 This is a dilemma that answers the nature of those abstract ideas.
 
-The abstract idea of a man represents men of all sizes and all qualities.
+For example, the abstract idea of a man includes men of all sizes and all qualities.
 
 This can only be done by representing:
-- all possible sizes and all possible qualities at once, or
-  - This is absurd as it would imply an infinite capacity in the mind.
-- no particular quality at all.
-  - This is the common representation for our abstract ideas.
-  - It represents no specific quantity or quality.
+
+1. All possible sizes and qualities at once, or
+
+This is absurd as it would imply an infinite capacity in the mind.
+
+2. No particular quality at all.
+
+ <!-- the common representation for  -->
+This is how we commonly think of our abstract ideas.
+
+<!-- - It represents no specific quantity or quality. -->
 
 But this is wrong because:
 - it is impossible to conceive any quantity or quality without creating a precise notion of its degrees, and
 - even if the mind is finite, we can easily create an imperfect notion of all possible quantities and qualities for the sake of reflection and conversation
 
 
-### Proposition 1: The mind cannot create any notion of quantity or quality without creating a precise notion of degrees of each.
+## Proposition 1: The mind cannot create any notion of quantity or quality without creating a precise notion of degrees of each.
 
 This is proven by 3 arguments:
 
 
-#### Argument 1: Objects that are different are distinguishable.
+### Argument 1: Objects that are different are distinguishable.
 
 Objects that are distinguishable are separable by the thought and imagination.
 
@@ -61,7 +67,7 @@ These propositions are equally true in the inverse:
 - Objects that are separable are also distinguishable.
 - Objects that are distinguishable are also different.
 
-How else can we separate what is not distinguishable or distinguish what is not different?
+<!-- How else can we separate what is not distinguishable or distinguish what is not different? -->
 
 To know whether abstraction implies a separation, we only need to:
 - consider it in this view, and
@@ -78,7 +84,7 @@ The general idea of a physical line appears in the mind with a precise degree of
 However, it may be made to represent other lines which have different degrees of quantity and quality.
 
 
-#### Argument 2: An object or impression must enter the mind with a quantity and quality.
+### Argument 2: An object or impression must enter the mind with a quantity and quality.
 
 This confusion arises because impressions are faint and unsteady.
 
@@ -103,7 +109,7 @@ A strong impression must necessarily have a quantity and quality.
 Therefore, its copy or representative must also have a quantity and quality.
 
 
-## Argument 3: A general principle in philosophy is that everything in nature is individual.
+### Argument 3: A general principle in philosophy is that everything in nature is individual.
 
 It is absurd to suppose that a triangle can have no precise sides and angles and yet exist.
 

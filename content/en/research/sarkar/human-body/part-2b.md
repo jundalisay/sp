@@ -90,11 +90,15 @@ So, in any case, monkeys can never be equal to humans, even if their tail is sev
 
 The body of a monkey will always remain tilted forward. 
 
-So it is a great advantage to have a human body. Sukrtaermánavo bhútvá jiṋániicenmokśamápnuyát [“People are born as human beings due to their past good saḿskáras, but to attain non-qualified liberation they will have to attain self-knowledge.”]
+So it is a great advantage to have a human body. 
+
+Sukrtaermánavo bhútvá jiṋániicenmokśamápnuyát 
+
+[“People are born as human beings due to their past good saḿskáras, but to attain non-qualified liberation they will have to attain self-knowledge.”]
 
 The art of attaining self-knowledge is complete self-surrender. You cannot challenge Parama Puruśa with your intellect and talent. 
 
-You can challenge Him with one thing only. That is, you must say, “Oh, Parama Puruśa, You have brought me to this earth, so You will have to appear before me, because I am in a human body which I have attained by virtue of Your grace.”
+You can challenge Him with one thing only. You must say, “Oh, Parama Puruśa, You have brought me to this earth, so You will have to appear before me, because I am in a human body which I have attained by virtue of Your grace.”
 
 Because tailed bipeds have a tail, they can run faster than human beings. 
 

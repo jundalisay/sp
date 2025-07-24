@@ -1,73 +1,83 @@
 ---
 heading: "Part 2l"
-title: "The Indivisible and Divisible"
+title: "Question 3: Fate and Predestination"
 writer:
   name: Averroes
   url: https://en.wikipedia.org/wiki/Averroes
-weight: 34
-description: "The things found in the Law can be divided into 5 kinds"
+description: "This is one of the most intricate problems of religion"
+weight: 28
 c: "firebrick"
 ---
 
 
-The things found in the Law can be divided into 5 kinds. 
 
-But in the first place, there are only 2 kinds of things:
+God’s knowledge of these causes, and that which pertains to them, is the cause of their existence. 
 
-1. Indivisible[303] 
-2. Divisible
+So no one can have a full knowledge of these things except God. Hence He is the only Knower of secrets.
 
-The divisible is divided into 4 kinds.
+God has said:
 
-1. This is which is mentioned in the Quran<!-- , is quite clear in its meanings.  -->
-2. An example of a thing. This is divided into 4 kinds:
+"Say, None either in heaven or earth, knoweth that which is hidden besides[269] God.”[132] 
 
-  - a. The meanings which it mentions are only illustrations such that they can only be known by the far-fetched and compound analogies, which cannot be understood, but after a long time and much labour. None can accept them but perfect and excellent natures; and it cannot be known that the illustration given is not the real thing; except by this far-fetched way.
-  - b. The opposite of b. They can be understood easily, and it can be known that the example is just what is meant here.
-  - c. It can be easily known that it is merely an illustration, but what it is the example of is difficult to comprehend. 
-  - d. This is quite opposite to c. The thing of which it is an example, is easily understood;[304] while it is difficult to know that it is an example at all. 
+A knowledge of causes is a knowledge of secret things, because the secret is a knowledge of the existence of a thing, before it comes into being. 
 
-The interpretation of the first kind is wrong without doubt. 
+As the arrangement and order of causes bring a thing into existence or not at a certain time, there must be a knowledge of the existence or non-existence of a thing at a certain time. 
 
-The kind in which both the things are far-fetched: its interpretation particularly lies with those who are well-grounded in knowledge; and an exposition of it is not fit for any but the learned. The interpretation of its opposite—that which can be understood on both the sides—is just what is wanted, and an exposition of it is necessary. 
+A knowledge of the causes as a whole, is the knowledge of what things would be found or not found at a certain moment of time. Praised be He, Who has a complete knowledge of creation and all of its causes. 
 
-3. The case of the third kind is like the case of the above. 
+This is what is meant by the “keys of the secret,” in the following words of God, “with Him are the keys of secret things; none knoweth them besides Himself.”[133]
 
-For in it illustration has not been mentioned because of the difficulty for the common people to understand it: it only incites the people to action. 
+How can we acquire our deeds, and how far are they governed by predestination and fate?
 
-Such is the case with the tradition of the prophet; “The black stone is God’s action on Earth,” etc. etc. That which can be easily known that is an example, but difficult to know of which it is example, should not be interpreted but for the sake of particular persons and learned men. 
+This very reconciliation is the real purpose of religion by those verses and Traditions[270] which are apparently contradictory. 
 
-Those who understand that it is only an illustration, but are not[305] learned enough to know the thing which it illustrates, should be told either that it is allegorical and can be understood by the well-established learned men; or the illustration should be changed in a way which might be near to their understanding. This would be the best plan to dispel doubts from their minds.
+When their universal nature be limited in this manner, those contradictions should vanish by themselves, and all the doubts which were raised before, about the contradictory nature of reason, would disappear. The existent things from our volition are completed by two things: our intention and the other causes. But when the deeds are referred to only by one of these agencies, doubts would rise. 
 
-The law about this should be that which has been laid down by Abu Hamid (Al Ghazzali) in his book, Al Tafriga bainal Islam wal Zindiga. 
+It may be said is a good answer, and here reason is in perfect agreement with religion, but it is based upon the principles that these are agreed that there are creative causes bringing into existence other things; while the Muslims are agreed that there is no Creator but God. We would say that whatever they have agreed upon is quite right, but the objection can be answered in two ways. 
 
-One thing has 5 existences which he calls:
+One of them is that this objection itself can be understood in two ways; one of them being that there is no Creator but God, and all those causes which He has created, cannot[271] be called creators, except speaking figuratively. 
 
-- Essential (Zati)
-- Sensual (Hissi)
-- Rational (Agli)
-- Imaginative (Khayali)
-- Doubtful (Shilbhi)
+Their existence also depends upon Him. He alone has made them to be causes, nay, He only preserves their existence as creative agents, and protects their effects after their actions. He again, produces their essences at the moment when causes come together. He alone preserves them as a whole. Had there been no divine protection they could not have existed for the least moment of time. 
 
-At the time of doubt, it should be considered which of these 5 kinds would better satisfy the man who has doubts. If it be that which he has called essential then an illustration would best satisfy their minds.
+Abu Hamid (Al-Ghazzali) has said that a man who makes any of the causes to be co-existent with God is like a man who makes the pen share the work of a scribe in writing. He says that the pen is a scribe and the man is a scribe too. 
 
-In it is also included the following traditions of the Prophet, “Whatever the earlier prophets saw I have seen it from my place here,[306] even heaven and hell.” “Between my cistern of water and the pulpit, there is a garden of paradise;” and “The earth will eat up the whole of a man except the extremity of the tail.” 
+He means that writing is a word which may be applied to both, but in reality they have no resemblance in anything but word, for otherwise there is no difference between them. 
 
-All these, it can easily be known are but illustrations, but what is the thing which they illustrate, it is difficult to comprehend. So it is necessary in this case to give an instance to the people which they may easily understand. This kind of illustration, when used on such an occasion is allowable; but when used irrelevantly it is wrong. 
+Such is also the case with the word Creator, when applied to God and the Causes. We say that in this illustration there are doubts. 
 
-Abu Hamid has not decided about the occasion when both the sides of the question—the illustration and the illustrated—be both far-fetched and difficult to understand. In this case there would apparently be a doubt, but a doubt without any foundation. What should be done is to prove that the doubt has no basis, but no interpretation should be made, as we have shown in many places in our present book against the Mutakallimun, Asharites and the Mutazilites.
+It should have been[272] clearly shown, whether the scribe was the Creator of the essence (Jawhar) of pen, a preserver of it, as long as it remains a pen, and again a preserver of the writing after it is written, a Creator of it after it has come in touch with the pen, as we have just explained that God is the Creator of the essences (Jawahir) of everything which come into contact with its causes, which are so called only by the usage. 
 
-4. The fourth kind of occasion is opposite to the third kind. 
+This is the reason why there is no creator but God—a reason which agrees with our feelings, reason and religion. Our feelings and reason see that there are things which produce others. 
 
-In this it is very difficult to understand that it is an example, but when once understood, you can easily comprehend the thing illustrated. In the interpretation of this also, there is a consideration: about those people who know that if it is an example, it illustrates such and such a thing; but they doubt whether it is an illustration at all. 
+The order found in the universe is of two kinds: that which God has put in the nature and disposition of things; and that which surround the universe from outside. 
 
-If they are not learned people, the best thing to do with them is not to make any interpretation, but only to prove the fallacy of the views which they hold about its being an illustration at all. 
+This is quite clear in the movement of the heavenly bodies. For it is evident that the sun and the moon, the day and night, and all other stars are obedient to us; and it is on this arrangement and order which God has put in their movements that our existence and that of[273] all other things depends. 
 
-It is also possible that an interpretation may make them still distant from the truth, on account of the nature of the illustration and the illustrated. For these 2 kinds of occasions if an interpretation is given, they give rise to strange beliefs, far from the law which when disclosed are denied by the common people, Such has been the case with the Sufis, and those learned men who have followed them. 
+So even if we imagine the least possible confusion in them, with them in any other position, size and rapidity of movement which God has made for them, all the existent things upon the earth would be destroyed. This is so because of the nature in which God has made them and the nature of the things which are effected by them. This is very clear in the effects of the sun and the moon upon things of this world; such also being the case with the rains, winds, seas and other tangible things. But the greater effect is produced upon plants, and upon a greater number, or all, on the animals. 
 
-When this work of interpretation was done by people who[308] could not distinguish between these occasions, and made no distinction between the people for whom the interpretation is to be made, there arose differences of opinion, at last forming into sects, which ended in accusing one another with unbelief. All this is pure ignorance of the purpose of the Law.
+Had there not been those faculties which God has put in our bodies, as regulating them that could not exist even for a single moment after birth. But we say, had there not been the faculties found in all the bodies of the animals, and plants and those found in the world by the movement of the heavenly bodies, then they would not have existed at all, not even for a[274] twinkling of the eye. 
 
-From what we have already said the amount of mischief done by interpretation must have become clear to you. We always try to acquire our purpose by knowing what should be interpreted, and what not, and when interpreted, how it should be done; and whether all the difficult portions of the Law and Traditions are to be explained or not. These are all included in the four kinds which have already been enumerated.
+So praised be the “Sagacious, the Knowing.”[134] 
 
-The purpose of our writing this book is now completed. We took it up because we thought that it was the most important of all purposes—connected with God and the Law.
+God has called our attention to this fact in His book, “And He hath subjected the night and the day to your service; and the sun and the moon and the stars, which are compelled to serve by His Command;”[135] again, “Say, what think ye, if God should cover you with perpetual night, until the day of Resurrection;”[136] and again, “Of His mercy, He hath made you night and the day, that ye may rest in the one, and may seek to obtain provision for yourselves of His abundance, by your industry; in the other;”[137] and, “And He obligeth whatever is in heaven or on earth to serve you.”[138] 
+
+Further He says, “He likewise compelleth the sun and the moon, which diligently perform their courses, to serve you; and hath subjected the day and night to your service,”[139] There may be[275] quoted many other verses on the subject. Had there been any wisdom in their existence by which God has favoured us, and there would not have been those blessings for which we are to be grateful to Him.
+
+The second answer to the objection is, that we say that the things produced out of it are of two kinds: essences and substances; and movements, hardness, coldness and all other accidents. The essences and substances are not created by any but God. Their causes effect the accidents of those essences, and not the essences themselves. For instance, man and woman are only the agents, while God is the real creator of the child, and the life in it. Such is also the case with agriculture. The earth is prepared and made ready for it, and the seed scattered in it. 
+
+But it is God who produces the ear of the corn. So there is no creator but God, while created things are but essences. To this refer the words of God. “O men, a parable is propounded unto you, therefore, hearken unto it. Verily the idols which ye invoke, besides God,[276] can never create a single fly, although they may all assemble for the purpose; and if the fly snatch anything from them they cannot turn the same from it. Weak is the petitioner and the petitioned.”[140] This is where the unbeliever wanted to mislead Abraham, when he said, “I give life and kill.”[141] When Abraham saw that he could understand it, he at once turned to the conclusive argument and said, “Verily, God bringeth the sun from the east; do thou bring it from the west.”
+
+On the whole, if the matter about the creator and the doer be understood on this wise, there would be no contradiction, either in Tradition or in reason. So we say that the word Creator does not apply to the created things by any near or far-fetched metaphor, for the meaning of the creator is the inventor of the essences. 
+
+So God has said, “God created you, and that which ye know.” It should be known[277] that one who denies the effect of the causes on the results of them, also denies philosophy and all the sciences. For science is the knowledge of the things by their causes, and philosophy is the knowledge of hidden causes. To deny the causes altogether is a thing which is unintelligible to human reason. It is to deny the Creator, not seen by us. For the unseen in this matter must always be understood by a reference to the seen.
+
+So those men can have no knowledge of God, when they admit that for every action there is an actor. It being so, the agreement of the Muslims on the fact that there is no Creator but God cannot be perfect, if we understand by it the denial of the existence of an agent in the visible world. 
+
+For from the existence of the[278] agent in it, we have brought an argument for the Creator in the invisible world. But when we have once admitted the existence of the Creator in the invisible world, it becomes clear that there is no Creative agent except one by His command and will. 
+
+We can perform our own deeds, and that one who takes up only one side of the question is wrong, as is the case with the Mutazilites and the Jabarites. Those who adopt the middle Course, like the Asharites, for discovering the truth, cannot find it. For they make no difference for a man between the trembling and the movement of his hand by intention. 
+
+There is no meaning in their admitting that both the movements are not by ourselves. 
+
+Because if they are not by ourselves we have no power to check them, so we are compelled to do them. Hence there is no difference between trembling of hand and voluntary movement, which they would call acquired. So there is no difference between them, except in their names, which never effect[279] the things themselves.
 

@@ -164,7 +164,7 @@ If by some means or other, the lower two Cakras are excited, then the navel also
 
 {{< n n="This is why spiritual systems control or reduce sex" >}}
 
-Navel controls energy or Prana Shakti. 
+**Navel controls energy or Prana Shakti. **
 
 The energy or Prana Shakti will go down towards lower Piithas ‑- mind will be instrumental for crude thoughts and actions.
 
@@ -176,19 +176,25 @@ Ultimately the mind goes up, still higher up, up to:
 - Trikuti (pituitary) and
 - Sahasrara (pineal) (which is Gunatiita).
 
-These 2 Cakras are beyond Sattva, Rajah and Tamah. 
+**These 2 Cakras are beyond Sattva, Rajah and Tamah.** 
 
-When Sattva is affected, these two also are affected. So far the physical cleanliness (external physical) is concerned, man should keep the lower two Cakras under control. They should be free from excitement. 
+When Sattva is affected, these two also are affected. 
 
-That is why our Caryacarya rules of bath says that one should pour water in front, on Muladhara and Svadhisthana, and next from behind. Water should be poured from both sides.
+So far the physical cleanliness (external physical) is concerned, man should keep the lower two Cakras under control. They should be free from excitement. 
 
-First make those two cool and then have bath. 
+That is why our Caryacarya rules of bath says that:
+- one should pour water in front, on Muladhara and Svadhisthana, and next from behind
+- water should be poured from both sides
+
+First make those two cool and then have bath.
 
 If these two are all right, then other things also are all right. 
 
 Even the common village folk know that before bath, one should give water first in the navel. 
 
-They are unconsciously conscious about this fact. Bath, then is highly important thing. (There shall be more clear instructions in the Dha'ran'a' chapter). 
+They are unconsciously conscious about this fact. 
+
+Bath, then is highly important thing. (There shall be more clear instructions in the Dha'ran'a' chapter). 
 
 This is highly necessary and useful for the Yogiis.
 

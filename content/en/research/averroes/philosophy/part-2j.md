@@ -1,152 +1,77 @@
 ---
 heading: "Part 2j"
-title: "Question 4: Divine Justice and Injustice"
+title: "Question 2: Prophetic Mission"
 writer:
   name: Averroes
   url: https://en.wikipedia.org/wiki/Averroes
-weight: 30
-description: "They say that in this problem the case of the invisible world is quite opposed to the visible"
+description: ""
+weight: 26
 c: "firebrick"
 ---
 
 
-The Asharites have expressed a very peculiar opinion, about this problem both with regard to reason and religion. 
+The people have differed in taking the Quran to be a miracle at all. For in their opinion one of the conditions of a miracle is that it should be quite different from any act which may have become habitual. But the Quran is of this sort, because it is only word, though it excels all created words. So it becomes a miracle by its superiority only, that is, the impossibility for people bringing anything like it, on account of its being highly eloquent. 
 
-<!-- They have explained it in a way in which religion has not, but have adopted quite an opposite method.  -->
+This being the case it differs from the habitual, not in genus but in details only, and that which differs in this way is of the same genus. Some people say that it is a miracle by itself, and not by its superiority. 
 
-They think that:
-- the invisible world is quite opposed to the visible. 
-- God is just or unjust within the limits of religious actions.
-  - So when a man’s action is just with regard to religion, he also is just.
-  - Whatever religion calls it to be unjust; He is unjust. 
-- Whatever has not been imposed as a divinely ordained duty upon men, does not come within the four walls of religion. 
-  - He is neither just or unjust, but all His actions about such things are just. 
+They do not lay it down as a condition for miracles that they should be quite different from the habitual, but think that it should be such a habitual act, as men may fall short of accomplishing. 
 
-They have laid down that there is nothing in itself which may be called just or unjust. 
-
-But I think it is simply intolerable to say that there is nothing which may be called good or bad in[280] itself. 
-- Justice is good
-- Injustice is bad.
-
-So according to them, polytheism is in itself neither injustice nor evil. It is only bad with regard to religion. Had religion ordained it, then it would have been just and true. 
-
-Such also would have been the case with any kind of sin. 
-
-But all this is quite contrary to our traditions and reason. As to tradition God has described himself as just, and denied injustice to himself.
-
-The Prophet Mohammad says:
-
-{{< q a="Mohammad" >}}
-God hath borne witness that there is no God but He; and the angels and those who are endowed with wisdom profess the same, who executeth righteousness;”[142]
-{{< /q >}}
-
-{{< q a="Mohammad" >}}
-“Thy God is not unjust towards His servants;”[143]
-{{< /q >}}
-
-{{< q a="Mohammad" >}}
-“Verily God will not deal unjustly with men in any respect; but men deal unjustly with their own souls.”[144] 
-{{< /q >}}
+We would reply that:
+- it is as the objectors say, but the thing about it is not as they have thought. 
+- the Quran is an evidence of his prophecy, is based on two principles, found in the Book itself. 
 
 
-What is your opinion about misleading the people, whether it is just or unjust, for God has mentioned in many a verse of the Quran, “That He leads as well as misleads the people?” 
+1. The first principle is that the existence of the class of men called prophets and apostles is well-known. 
 
-He says:
+They are the men who lay down laws for the people by divine revelation, and not by human education. 
 
-{{< q a="Mohammad" >}}
-“God causeth to err whom He[281] pleaseth, and directeth whom He pleaseth;”[145] 
+Their existence can be denied only by the people who deny repeated action, as the existence of all things which we have not seen—the lives of the famous thinkers and so forth. 
 
-“If we had pleased, we had certainly given every soul its direction.”[146] 
-{{< /q >}}
+All the philosophers, and other men are agreed, except those who pay no regard to their words, (and they are the Materialists), that there are men to whom have been revealed many commandments for the people, to perform certain good actions, by which their beatitude may be perfected; and to make them give up certain wrong beliefs and vicious actions. 
 
-These verses cannot be taken exoterically, for there are many verses which apparently contradict them—the verses in which God denies injustice to himself. 
+This is the business of divine apostles. 
 
-For instance, He says:
+2. The second principle is that everyone who does this work, that is, lays down laws by revelation, is a prophet. 
 
-{{< q a="Mohammad" >}}
-“He liketh not ingratitude (Kufr) in His servant.”[147] 
-{{< /q >}}
+This principle is also quite in accordance with human nature. For as it is[248] known that the business of medicine is to cure a disease, and one who can cure is a physician, so it is also known that the business of the prophets is to give law to the people by divine revelation, and one who does so is a prophet. 
 
-So it is clear that as He does not like ingratitude even from them, He certainly cannot cause them to err. 
+The Book mentions the first principle in the following:—“Verily We have revealed Our will unto thee, as We have revealed it unto Noah, and the prophets who succeeded him, and We have revealed it unto Abraham, and Ishmael, and Isaac and Jacob, and the tribes, and unto Jesus, and Job, and Jonas, and Aaron and Solomon; and we have given thee the Quran as We gave the Psalms unto David; some apostles have We sent, whom We have mentioned unto thee, and God spake unto Moses discoursing with him,”[108] and again: “Say, I am not alone among the apostles.”[109] 
 
+The second principle is that Mohammed, peace be upon him, has done the work of a prophet, that is, has given Law to the people by divine revelation. This also can be known from the[249] Quran, where God mentions it. 
 
-The Asharites believe that God sometimes does things which He does not like, and orders others which He does not want.
+He says, “O men, now is an evident proof come unto you from your Lord, and We have sent down unto you manifest light.”[110] By manifest light is meant the Quran. Again He says, “O men, now is the apostle come unto you from your Lord; believe, therefore, it will be better for you,”[111] and again, “But those among them who are well-grounded in knowledge, and faithful, who believe in that which hath been sent down unto thee, and that which hath been sent down unto the prophets before thee;”[112] and again “God is the witness of the revelation which He hath sent down unto thee; He sent it down with his special knowledge; the angels are also witness thereof; but God is a sufficient witness.”[113]
 
-But I believe that God forbids us from holding such a view about him, for it is pure infidelity. 
+If it be said, how can the first principle be known, that is, that there is a class of men who give the Law to the people by divine revelation; and so also, how to know the second principle, that is, that which the[250] Quran contains, about beliefs and actions, is of divine origin? We would answer that the first principle can be known by the information which these men give about the existence of things, which were not found before, but come into existence after they have informed the people about them, and in a specified time; and by their command for doing certain things, and teaching certain precepts which do not resemble the common things and actions, which can be taught by human agency.
 
-That God has not misled the people and has not caused them to err will be clear to you from the following verses:
+This is so because if the miracles be of the kind of laying down Laws, proving that they cannot be laid down by human education, but only through divine revelation, then it is prophecy. But the miracles which do not take the form of laws, as the dividing of the sea, etc., do not necessarily prove the prophecy of anyone. But they can only be used as supplements to the former, if they fall very near to it. 
 
-{{< q a="Mohammad" >}}
-Wherefore be thou orthodox and set thy face towards true religion, the[282] institution of God, to which He hath created man kindly disposed;”[148]
+But standing alone they cannot prove it, and so by themselves alone they do not lead to a cognizance of the prophets, if the other[251] kind of miracles, which are its conclusive proofs, be not found in them. So according to this principle must be understood the proofs of prophecy afforded by miracles, that is, the miracles of knowledge and deeds are its conclusive proofs while others only make it strong, and can be used as witnesses. 
 
-“when thy Lord drew forth their posterity from the lions of the sons of Adam.”[149] 
-{{< /q >}}
+So now it has become clear to you that men of this kind do exist, and how can men be sure of them, except by their repeated appearance; as is the case with physicians and other kinds of men. If it be asked: How can it be proved that the Quran is a conclusive proof that is a miracle which is the business of the prophets to perform, as curing is the business of a physician, we would say that this can be known in many ways:—First, the precepts which it contains about knowledge and deeds, cannot be acquired by learning, but only by divine revelation; secondly, by the information which it gives about hidden things; and thirdly, by its poetry, which is quite different from that which can be achieved[252] by imagination or repetition of verses, that is, it is known that it is of quite a different kind from the poetry of Arabic speaking people, whether the language be acquired and learned, as is the case with non-Arabs, or it be the mother-tongue, as it is with the Arabs themselves. The first reason is the most weighty one. 
 
+How can it be known that the laws which contain both knowledge and precepts about deeds are of divine origin, so much so that they deserve the name of the word of God, we would say also that this also can be known in many ways. 
 
-A Tradition of the Prophet says, “Every child is born according to the divine constitution.”
+First, a knowledge of the laws cannot be acquired except after a knowledge of God, and of human happiness and misery; and the acts by which this happiness can be acquired, as charity and goodness and the works which divert men from happiness and produce eternal misery, such as evil and wickedness. Again the knowledge of human happiness and misery requires a knowledge of the soul and its substance, and whether it has eternal happiness or not.[253] 
 
-These being contradictions in this problem we should try to reconcile them so that they may agree with reason. 
+If it be so, then what is the quantity of this happiness, or misery; and also what amount of good would be the cause of happiness. For the case of goodness and evil is just the same as with food, which does not give health, if taken in any quantity and at any time; but must be used in a specified quantity and at an appointed time. For this reason we find these limited in the religious laws. All this, or a greater part of it, cannot be known but by divine revelation, or at least a knowledge through it would be better. Again a perfect knowledge of God requires a knowledge of existent things. Then a law-giver must know the quantity of this knowledge which would be good to be imparted to the common people, and the method to be adopted in teaching them. All this, or at least a greater part of it, cannot be acquired by education, learning or philosophy. This can be clearly known from imparting learning, and especially the giving of laws, making regulations, and giving information[254] about the conditions of the Day of Judgment. 
 
+When all this is found in the Quran in the most perfect form, there can be no doubt that it is a divine revelation and His word, given through the agency of His prophet. So God has said, informing the people about it, “Say, verily if man and genii were purposely assembled, that they might produce a book like this Quran, they could not produce one like it.” This idea is further strengthened, nay, comes near exact surety and certainty, when it is known that the prophet was an unlettered man, and lived among a people, uneducated, wild, and nomadic by habit, who had never tried to investigate the universe, as was the case with the Greeks, and other nations, among whom philosophy was perfected in long periods of time. To this very fact refer the words of God, “Thou couldst not read any book before this; neither couldst thou write it with thy right hand, then had gainsayers justly doubted of the divine origin thereof.”[114] Hence God[255] has repeatedly told the people this quality of His prophet. “It is He who hath raised up among the illiterate Arabians an apostle from among themselves,”[115] and, “Those who shall follow the Apostle the illiterate Prophet.”[116] This matter can also be known by another method—that of comparison of this Law with the others. 
 
-{{< q a="Mohammad" >}}
-“Verily God will cause to err whom He pleaseth, and will direct whom He pleaseth” 
-{{< /q >}}
+For, if the business of the prophets be the giving of laws by divine revelation, as has been acknowledged by all who believe in the existence of the prophets, then if you look into the teachings of useful knowledge and actions leading to happiness, which are contained in the Quran, and compare them with other divine books and religious systems, you will find it excelling all the others in an unlimited degree. 
 
-This refers to the prearranged divine will, with which all things have been endowed. They have been created erring, that is, prepared to go astray by their very nature, and led to it by inner and outer causes.
+On the whole, if there are books worthy to be called the words of God, on account of their wondrous nature, and separation from the genius of human words and their peculiarity by what they contain in regard to knowledge and deeds, then it[256] is clear that the Quran is much more worth thy, and many times fitter, than they are to be called the words of God. This would be still clearer to you if you could know the past books—the Old and New Testaments. But that is not possible because they have been changed to a great extent. 
 
+Were we to describe the superiority of one Law over another, and the superiority of the teachings given to us about the knowledge of God, and the Day of Judgment to the laws given to the Jews and the Christians, it would require many volumes with a confession of our own short-comings in dealing with the subject. For this very reason, the Law of ours has been called the last of the divine dispensations. 
 
-{{< q a="Mohammad" >}}
-“If we had pleased, we have given unto every soul its direction,”
-{{< /q >}}
+The Prophet has said:
 
-This means that He thought of not creating people ready to err, by their nature, or by the outer causes or by both, He could have done so. 
-
-But as the dispositions of men are different[283] the words may mislead the one and direct the other. For these are the verses which speak of misleading the people.
-
-For instance, “He will thereby mislead many, and will direct many thereby: but He will not mislead any thereby except the transgressors”[150]; and, “We have appointed the vision which we showed thee, and also the tree cursed in the Quran,”[151] and the verses about the number of angels of hell. 
+“Had Moses lived in my time, he could not have helped following me,”
 
 
-{{< q a="Mohammad" >}}
-“Thus doth God cause to err whom He pleaseth and He directeth whom He pleaseth.”[152] 
-{{< /q >}}
+The Prophet was right, on account of the universal nature of the teachings of the Quran, and its regulations. That is it is able to satisfy the needs of all, being meant for the whole of the human race. So God has said, “say,[257] O men, Verily I am the messenger of God unto you all.”[117] The Prophet has said, “I have been sent both to the white and the black nations.”
 
-This means that for evil natures, these verses are misleading, as for the sick bodies even good drugs are injurious. 
+The case of religions is just the same as that of God. There are some foods which agree with all, or most of the people. Such is the case with religions also. So the dispensations before our own were meant for some particular peoples, ignoring all others, but our religion was meant for the whole of the human race. This being the case, our Prophet excels all the other Prophets, to him comes the divine revelation, which makes a man fit to be called a prophet. So the Prophet has said informing us of his superiority over other prophets, “There is no prophet to whom has not been given a sign by which all the men would have believed. I have been given divine revelation, and I hope that my followers would be in the majority on the Day of Judgment.” All that we have said must have made it[258] clear to you that the proof of the prophecy of the prophet from the Quran is not of the same kind as that of turning a staff into a serpent for the proof of the prophecy of Moses, or of giving life to the dead, and curing the blind and leprous for the prophecy of Jesus. For these, although never performed by any but the prophets, and sufficient to satisfy the common people, are not by any means conclusive proofs of prophecy, when taken by themselves,—they not being acts which make a prophet.
 
-But some one[284] may object and ask, what was the need of creating a class of men already prepared to err, for this is the worst kind of injustice? We would say that divine wisdom designated it so. The injustice would have consisted in its being otherwise. 
+Now as to the Quran, its case is just like curing by medicine. For instance, suppose two men were to claim to be physicians, and one were to say that he could walk on water, and the other were to assert that he could cure a disease, and so one walked on the water, and the other cured a sick man. In this case, our verification for medicine would be only for one who has cured a sick man, but in the case of the other, it would be outward satisfaction alone. The first is far better.[259] The only reason by which the common people can be satisfied in this respect is that one who can walk on water, which is against the nature of men, can certainly cure a disease, which is what men can do. This also is one of the reasons of the connection between miracle, which is not one of the conditions of prophecy, and the sign which makes a man deserve the name of a prophet: divine revelation. Of this quality is also the fact, that there comes nothing to the mind of such a man except that which God has ordained for this unique work, and specialised him for it, among all his fellow-men. So it is not inconsistent if he were to claim that God distinguished him with his revelations.
 
-For the nature and constitution of men, in His very creation, are such that they require some men, though very few, to be wicked and evil by their nature.
-
-Such is also the case with the outer causes, made for directing the people to the right path, which requires that some men must be bad.
-
-If many had been good then the divine law would not have been fulfilled, because either there had not been created things in which there is little evil and much good, for the good would have disappeared on account of that little evil; or there had been created things with much good and little evil. 
-
-Now it is well known that the existence of many good ones with a few evil ones, is better than the non-existence of much good for the sake of little evil. 
-
-This very evil was the thing which remained[285] hidden to the angels when God informed them that He was going to create upon the earth, a vicegerent, that is, a man. “When God said to the angels, I am going to place a substitute on earth, they said, wilt thou place there one who will do evil therein, and shed blood? but we celebrate thy praise, and sanctify Thee. God answered, Verily I know that which ye know not.”[153] 
-
-He means that the thing which is hidden from them is that when there is found both good and evil in a thing, and good overpowers the evil, reason requires the creation of the one for the destruction of the other. So from all these it is clear how misleading can be attributed to Him, in spite of His justice, and injustice disproved. The causes of misleading are created, because from them appear the causes of direction to good. For some people have not been given causes of direction to good in which there is found nothing which may lead to erring. Such is the condition of the angels. So also the[286] causes of good have those evil, though in their nature much evil be not found; this applies to man. 
-
-What is the use of these contradictory verses, thus compelling the people to take refuge in interpretations, which you have absolutely forbidden? 
-
-To explain this problem to the common people, they have been compelled to adopt this method. 
-
-For they should know that God is just, and that He is the Creator of all good and evil, instead of believing, as many nations have done, that there are two Gods, the creator of good, and the creator of evil. So now they know that He is the Creator of both. 
-
-As misleading is evil, and as there is no Creator but He, it was necessary that it should be attributed to Him, like the creation of evil. But this should be done without qualifying it, that is, that He created good for its own sake, and evil for the sake of good—on account of their connection with one another. In this way His creation of evil[287] would be quite just.
-
-To illustrate: fire has been made because of its necessity for the existence of things, and without it they could not have existed at all. It also destroys things by its very nature. 
-
-But if you think of the destruction and evil which it causes, and compare it to the advantages which we derive out of it, you will find that its existence is better than non-existence, that is,—good. Now the verse of the Quran “No account shall be demanded of him for what He shall do; but an account shall be demanded of them,” means that He does nothing because it is incumbent upon him for it is degrading to him, to need doing a thing. 
-
-If it be so, God needs that thing for His own existence, because of necessity or to be more perfect in His Being—and God is free from such imperfections. Man is just because he gains something good by being so, which he cannot gain otherwise. God is just, not that He may become more perfect by His justice, but because His perfection requires him to be just. When we understand it in this way it would[288] be evident, that He is not just in the same way as man is just. But it is not right to say that He is not just at all, and that all His actions are neither just nor unjust, as the Mutakallimuns have thought. For it cannot be understood by human intellect, and is at the same time falsifying religion. 
-
-These people knew the meaning but were misled. For if we say that He is not at all just, we falsify the principle that there are things which are just and good in themselves and others which are evil and unjust. Again, if we suppose that He is just in the same way as man is, it becomes necessary to admit there is some defect in him. For one who is just, his existence is for the sake of things for which he is just, and so he is dependent upon another.
-
-It should now be known that it is not necessary for all the people to be told this interpretation in its entirety. Only those should be told it who have some doubts about this problem. For not every one among the common people is confronted[289] by these contradictions in the universal verses, and Tradition. Such people must believe in the exoteric meanings of them.
-
-There is another reason for these verses. 
-
-The common people cannot differentiate between possible and impossible, while to God is not ascribed power over the impossible. If they be told what is impossible (Mustahil) and they think that God has power over it, and then told that God has no power, they begin to think that there is some defect in God, because He cannot do a certain thing and hence He is weak. As the existence of things free from evil was possible according to the masses, God has said, “If we had pleased, we had certainly given every soul its direction; but the word which hath proceeded from Me must necessarily be fulfilled, when I said, Verily I will fill the hell with genii and men, altogether.”[154] This verse means one thing to the common people, and the other to the learned. 
-
-The former take it to mean that it is not[290] incumbent upon him that He should create a class of men to whom evil may be attached. But it really means: Had we thought we could create men with whom evil could not be attached, but would have been good in all and all, and hence every one had been given his guidance. This much is enough for this problem. Now we would deal with the fifth question.
-
+On the whole, when once it is laid down that the prophets do exist, and that the miracles cannot be performed except by them, they can become a prophecy, that is the miracles which are not in any way fit to be received as a proof for it. This is the method to be adopted with regard to the common people. For the doubts and[260] objections which we have described about unnatural miracles are not perceived by the masses. But if you look intently you will find that the Law depends upon suitable and natural miracles, and not upon unnatural ones. What we have said about this problem is enough for our purpose and for the sake of truth.
