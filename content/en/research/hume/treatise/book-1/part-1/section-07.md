@@ -77,7 +77,7 @@ The precise degree of any quality is not different from that quality.
 
 For example, a physical line's precise length is not different from the physical line itself.
 
-Therefore, these two ideas are not separated in the mind.
+Therefore, these 2 ideas are not separated in the mind.
 
 The general idea of a physical line appears in the mind with a precise degree of quantity and quality, despite all our abstractions and refinements.
 

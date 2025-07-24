@@ -20,20 +20,28 @@ Every idea first appears as a correspondent impression.
 
 However, many of our ideas are so obscure that it is almost impossible for the mind to tell their nature and composition.
 
-Let us apply this principle to discover the nature of our ideas of space and time.
+I apply this principle to discover the nature of our ideas of space and time.
 
-When I open my eyes, I see many visible bodies.
+When I open my eyes, I see many visible bodies.*
+
+{{< n n="This is physical space" >}}
 
 
-When I close my eyes, I acquire the idea of space, considering the distance between these bodies.
+When I close my eyes, I acquire the idea of space* from the distance between these bodies.
 
-Every idea is derived from some impression exactly similar to it.
+{{< n n="This is metaphysical space" >}}
 
-The impressions similar to this idea of space, must be:
-- some sensations derived from the sight, or
-- some internal impressions arising from these sensations.
 
-Our internal impressions are our passions, emotions, desires and aversions.
+Every idea is derived from some impression exactly similar to it.*
+
+{{< n n="Metaphysical space was derived from physical space" >}}
+
+
+The impressions similar to this idea of space must be visual sensations.
+
+<!-- - some internal impressions arising from these sensations. -->
+
+<!-- Our internal impressions are our passions, emotions, desires and aversions.
 
 The idea of space is derived is not derived from these.
 
@@ -41,21 +49,22 @@ Therefore, only the senses can convey this original impression.
 
 What impressions do our senses convey to us?
 
-This question answers the nature of the idea of space.
+This question answers the nature of the idea of space. -->
 
-The table before me is alone enough to give me the idea of space, by its view.
 
-This idea of space is then borrowed from and represents some impression appearing to my senses now.
+The table before me gives me the idea of [physical] space.
 
-But my senses only convey the impressions of coloured points, disposed in a certain way.
+This idea of [physical] space represents some impression [of physical space] appearing to my senses now.
 
-If the eye can see farther, I want to see it.
+But my eyes only convey the impressions of points.
 
-But if it is impossible to show anything farther, then the idea of space is just a copy of:
+If I could see closer, I would see new points.
+
+<!-- But if it is impossible to show anything farther, then the idea of space is just a copy of:
 - these coloured points, and
-- how the coloured points appear.
+- how the coloured points appear. -->
 
-Suppose that in this object in space, the points were purple.
+Suppose that in this table, the points were purple.
 
 Every repetition of that idea, we would:
 - place the points in the same order with respect to each other
@@ -65,21 +74,28 @@ But after experiencing other colours of green, red, white, black, etc, and findi
 - omit the peculiarities of colour, as far as possible, and
 - found an abstract idea merely on how they look.
 
+
 The abstract idea is not hindered from representing touch and sight, because of their resemblance, even when:
 - the resemblance is carried beyond the sense objects
 - impressions of touch are similar to those of sight in the disposition of their parts.
 
-All abstract ideas are really nothing but particular ideas, considered in a certain light.
 
-But being annexed to general terms, they are able to:
-- represent a vast variety of objects, and
-- comprehend objects which are similar or dissimilar in some particulars.
+All abstract ideas are just particular ideas, considered in a certain light.
+
+But since they are annexed to general terms, they are able to represent a variety of objects
+
+<!-- - comprehend objects which are similar or dissimilar in some particulars. -->
+
+
+## What is Time?
 
 The idea of time is derived from the succession of our:
 - perceptions,
 - ideas and impressions,
 - impressions of reflection, and
 - sensations.
+
+
 
 This idea of time will afford us an abstract idea, which comprehends a still greater variety than the idea of space.
 

@@ -135,7 +135,8 @@ We hastily conclude that these more minute objects are inferior to any idea of o
 
 We can create ideas no greater than the smallest atom of the animal spirits* of an insect 1,000 times smaller than a mite.
 
-<!-- n n="Here, Hume misunderstands Descartes' animal spirits and is why we assume that this section attacks Descartes. -->
+{{< n n="Here, Hume misunderstands Descartes' animal spirits and is why we assume that this section attacks Descartes. >}}
+
 
 Instead, we should rather conclude that the difficulty is in enlarging our conceptions to create a just notion of a mite or an insect 1,000 times smaller than a mite.
 

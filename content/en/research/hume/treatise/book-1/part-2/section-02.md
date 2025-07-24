@@ -50,14 +50,6 @@ Therefore:
 
 Consequently, no finite space is infinitely divisible [Footnote 3].
 
-
-## How to Clear Up Spacetime
-
-I first take the smallest idea that I can form of a part of space.  
-- Since this is the smallest idea, it can be used to discover the real qualities of space. 
-
-
-
 {{< box >}}
 ### Footnote 3
 
@@ -74,7 +66,13 @@ Whether these parts be called 'divided' or 'proportional', they cannot:
 {{< /box >}}
 
 
-## Time and Space is an Illusion
+
+## Hume's Solution to Paradoxes on Infinity: Make Space Indivisible
+
+I first take the smallest idea that I can form of a part of space.  
+- Since this is the smallest idea, it can be used to discover the real qualities of space. 
+
+<!-- ## Time and Space is an Illusion -->
 <!-- Malézieu -->
 
 Nicolas de Malézieu is a noted author who proposed that existence in itself:
@@ -100,45 +98,54 @@ It is in vain to reply that any specific amount of space is a kind of unit that:
 - can be subdivided infinitely.
 
 
-## Two Kinds of Unity
+This is because by the same rule:
+- these 20 men may be considered as a unit.
+- the whole universe may be considered as a unit.
 
-For by the same rule, these 20 men may be considered as a unit.
-The whole earth or the whole universe may be considered as a unit.
+
+### Two Kinds of Unity
 
 This kind of unity is merely a fictitious denomination.
-
-The mind may apply it to any quantity of objects that it collects together.
+- The mind may apply it to any quantity of objects that it collects together.
 
 Such a unity can no more exist alone than a number can, as being a true number in reality.
+
 But the unity which can exist alone and whose existence is necessary to the existence of all numbers, is of another kind.
 
 That "unity" must be:
 - perfectly indivisible, and
 - perfectly incapable of being resolved into any lesser unity.
 
-All this reasoning takes place with regard to time, along with an additional argument: Time's inseparable property and essence is that:
+The essence of time is that:
 - each of its parts succeeds another, and
-- none of its parts, however contiguous, can ever be co-existent.
+- none of its parts can ever be co-existent
+
+All this reasoning takes place with regard to time. 
 
 The year 1737 cannot concur with the present year 1738.
 
 Every moment must be distinct from and posterior or antecedent to another.
 
-Thus, time must be composed of indivisible moments because there would be an infinite number of co-existent moments or parts of time if:
+Thus, time must be composed of indivisible moments.
+
+This is because there would be an infinite number of co-existent moments or parts of time if:
 - the division of time could never be ended, and
 - each moment, as it succeeds another, were not perfectly single and indivisible.
 
 This will be an utter contradiction.
 
-The infinite divisibility of space implies the infinite divisibility of time, as is obvious from the nature of motion.
+The infinite divisibility of space implies the infinite divisibility of time, as is obvious from the nature of motion.*
+
+{{< n n="Here, Hume does not understand that the infinite divisibility is merely mental and not physical" >}}
 
 If the infinite divisibility of time is impossible, then the infinite divisibility of space must also be impossible.
-The most obstinate defender of the doctrine of infinite divisibility will regard these arguments are difficulties.
-It is impossible to give them any clear answer.
 
-But it is absurd to call this demonstration as a 'difficulty' just to elude its evidence.
+<!-- The most obstinate defender of the doctrine of infinite divisibility will regard these arguments are difficulties.
+It is impossible to give them any clear answer. -->
 
-It is in probabilities, not in demonstrations, that:
+<!-- But it is absurd to call this demonstration as a 'difficulty' just to elude its evidence. -->
+
+<!-- It is in probabilities, not in demonstrations, that:
 - difficulties can take place, and
 - one argument counter-balances another and reduces its authority.
 
@@ -146,48 +153,52 @@ A demonstration, if just, admits of no opposite difficulty.
 
 If it is not just, it is a mere sophism.
 It consequently can never be a difficulty.
-It is either irresistible, or has no force.
+It is either irresistible, or has no force. -->
 
-To talk therefore of objections and replies, and balancing of arguments in such a question as this, is to confess that:
+<!-- To talk therefore of objections and replies, and balancing of arguments in such a question as this, is to confess that:
 - human reason is nothing but a play of words, or
 - the person himself, who talks so, has not a capacity equal to such subjects.
 
 Demonstrations may be difficult to be comprehended because of the abstractedness of the subject.
 
-But demonstrations can never have such difficulties as will weaken their authority after they are comprehended.
+But demonstrations can never have such difficulties as will weaken their authority after they are comprehended. -->
 
-Mathematicians are used to saying that:
-- here there are equally strong arguments on the other side of the question, and
-- the doctrine of indivisible points is also liable to unanswerable objections.
+Mathematicians say that my doctrine of indivisible points is also liable to unanswerable objections.
 
-I will take these arguments in a body and prove at once that it is impossible they can have any just foundation.
+<!-- - here there are equally strong arguments on the other side of the question, and -->
+
+<!-- I will take these arguments in a body and prove at once that it is impossible they can have any just foundation. -->
 
 
-## Nothing We Imagine is Absolutely Impossible
+### Nothing We Imagine is Absolutely Impossible
 
 It is an established maxim in metaphysics, that whatever the mind clearly conceives, includes the idea of possible existence.
 - In other words, **nothing we imagine is absolutely impossible**.
 
-We can form the idea of a golden mountain.
-We can conclude that such a mountain may actually exist.
+We can form the idea of a golden mountain and think that such a mountain may actually exist.
+
 We can form no idea of a mountain without a valley.
 We therefore regard it as impossible.
 
 We must have an idea of space, for otherwise, why do we talk and reason about it?
 
 This idea of space, as conceived by the imagination, is divisible into parts or inferior ideas.
-But it is not infinitely divisible.
-It does not consist of an infinite number of parts.
-For that exceeds the comprehension of our limited capacities.
-Here is an idea of space which consists of parts or inferior ideas that are perfectly indivisible.
+- But it is not infinitely divisible.
+- It does not consist of an infinite number of parts because that would exceed the comprehension of our limited capacities.*
 
-Consequently:
-- this idea implies no contradiction,
-- it is possible for space really to exist conformable to it, and
-- all the arguments against the possibility of mathematical points are:
-  - mere scholastich quibbles, and
-  - unworthy of our attention.
+{{< n n="Here, Hume violates Descartes rule that infinities should not be analyzed because it is really indefinite or arbitrary" >}}
 
-We may carry these consequences one step further.
 
-We may conclude that **all the pretended demonstrations for the infinite divisibility of space are equally sophistical** since these demonstrations cannot be just without proving the impossibility of mathematical points, which is absurd.
+Here I give an idea of space with indivisible parts.
+- This idea implies no contradiction
+
+It is possible to have such a space.
+
+All the arguments against the possibility of mathematical points are:
+- mere scholastich quibbles, and
+- unworthy of our attention.*
+
+{{< n n="Here, Hume ends the philosophizing of infinite space by making its parts indivisible, as his own solution." >}}
+
+
+I would even conclude that **all the pretended demonstrations for the infinite divisibility of space are equally sophistical** since these demonstrations cannot be just without proving the impossibility of mathematical points, which is absurd.

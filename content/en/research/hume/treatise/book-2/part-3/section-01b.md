@@ -1,5 +1,18 @@
-Different stations arise necessarily and uniformly from the necessary and uniform principles of human nature.
+---
+heading: Section 1b
+title: "Liberty And Necessity"
+description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+c: "steelblue"
+weight: 4
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
 
+
+
+Different stations arise necessarily and uniformly from the necessary and uniform principles of human nature.
 
 Men cannot:
 - live without society
@@ -111,20 +124,22 @@ Remembering many other concurrent testimonies. we conclude that:
 - so many men without any interest would never conspire to deceive us, especially since they must expose themselves to the derision of all their contemporaries in the attempt, when these facts were asserted to be recent and universally known.
 
 The same kind of reasoning runs through politics, war, commerce, economy.
-        ◦ It mixes itself so entirely in human life.
-            ▪ It is impossible to act or subsist a moment without having recourse to it.
 
-A prince who imposes a tax on his subjects, expects their compliance.
-        ◦ A general who conducts an army, makes account of courage.
-        ◦ A merchant looks for fidelity and skill in his factor or super-cargo.
-        ◦ A man who orders his dinner, does not doubt the obedience of his servants.
+It mixes itself so entirely in human life.
+
+It is impossible to act or subsist a moment without having recourse to it.
+- A prince who imposes a tax on his subjects, expects their compliance.
+- A general who conducts an army, makes account of courage.
+- A merchant looks for fidelity and skill in his factor or super-cargo.
+- A man who orders his dinner, does not doubt the obedience of his servants.
 
 In short, nothing more nearly interests us than our own actions and those of others.
-        ◦ Most of our reasonings is employed in judgements concerning them.
+
+Most of our reasonings is employed in judgements concerning them.
 
 Whoever reasons after this manner, does ipso facto believe:
-        ◦ the actions of the will to arise from necessity
-        ◦ that he does not know what he means when he denies it.
+- the actions of the will to arise from necessity
+- that he does not know what he means when he denies it.
 
 All the objects we call the cause and effect are as distinct and separate from each other as any two things in nature,
         ◦ We can never infer the existence of the  one from the existence of the other.
