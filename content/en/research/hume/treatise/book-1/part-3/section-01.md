@@ -29,11 +29,10 @@ These relations are divided into 2 classes:
 1. Relations that depend entirely on the ideas that we compare
 2. Relations that can change without any change in the ideas
 
-From the idea of a triangle, we discover the relation of equality which its three angles bear to two right ones.
+From the idea of a triangle, we discover the relation of equality which its 3 angles bear to 2 right ones.
+- This relation does not change as long as our idea [the triangle] does not change.
 
-This relation does not change as long as our idea [the triangle] does not change.
-
-On the contrary, the relations of contiguity and distance between two objects can change merely by their change of place, without any change on the objects themselves or on their ideas.
+On the contrary, the relations of contiguity and distance between two objects can change merely by their change of place.
 
 The place depends on 100 different accidents which cannot be foreseen by the mind.
 
@@ -61,7 +60,7 @@ Three of these relations, resemblance, contrariety, and quality:
 - fall more properly under intuition than demonstration.
 
 When any objects resemble each other, the resemblance will at first strike the eye or rather the mind.
-It seldom requires a second examination.
+- It seldom requires a second examination.
 
 The case is the same with contrariety and with quality.
 
@@ -72,6 +71,7 @@ Existence and non-existence:
 It is impossible to judge exactly of the degrees of any quality, such as colour, taste, heat, cold, when the difference between them is very small.
 
 But it is easy to decide that any of them is superior or inferior to another, when their difference is considerable.
+
 This decision we always pronounce at first sight, without any enquiry or reasoning.
 
 We might:
@@ -101,8 +101,9 @@ That appearance can never afford us any security, when we examine the minuteness
 Our ideas seem to give a perfect assurance that no two right lines can have a common segment.
 
 But if we consider these ideas, we shall find that:
-they always suppose a sensible inclination of the two lines, and
-where the angle they form is extremely small, we have no standard of a right line so precise as to assure us of the truth of this proposition.
+- they always suppose a sensible inclination of the two lines, and
+- where the angle they form is extremely small, we have no standard of a right line so precise as to assure us of the truth of this proposition.
+
 It is the same case with most of the primary decisions of the mathematics.
 
 Only the sciences of algebra and arithmetic can we:
@@ -112,22 +113,27 @@ Only the sciences of algebra and arithmetic can we:
 We are have a precise standard to judge of the equality and proportion of numbers.
 
 We determine their relations according as they correspond to that standard, without any possibility of error.
+
 When two numbers are so combined, as that the one has always an unite answering to every unite of the other, we pronounce them equal.
 
 Geometry can never be a perfect and infallible science for want of such a standard of equality in extension.
+
 Geometry and Mathematics Create Philosophical Absurdities by Insisting on Exactness or Obscurity
+
 Geometry falls short of that perfect precision and certainty which are peculiar to arithmetic and algebra.
 
 But it excels at the imperfect judgments of our senses and imagination.
-I impute geometry's defect from its original and fundamental principles being derived merely from appearances.
 
-This defect must always:
-- attend geometry, and
-- keep geometry from ever reaching a greater exactness in the comparison of objects or ideas, than what our eye or imagination alone is able to attain.
+**Geometry's defect comes from its original and fundamental principles being derived merely from appearances.**
 
-I own that this defect so far attends it, as to keep it from ever aspiring to a full certainty:
+This defect:
+- keeps geometry from ever reaching a greater exactness in the comparison of objects or ideas, than what our eye or imagination alone is able to attain.
+- is so entrenched in geometry that it keeps it from ever aspiring to a full certainty
 
-But since these fundamental principles depend on the easiest and least deceitful appearances, they bestow on their consequences a degree of exactness, of which these consequences are singly incapable.
+<!-- But since these  -->
+
+The fundamental principles of geometry depend on the easiest and least deceitful appearances.
+- This gives a degree of exactness on their consequences that such consequences cannot give
 
 It is impossible for the eye to determine the angles of a polygon with 1,000 sides to be equal to 1,996 right angles or to make any conjecture that approaches this proportion.
 
@@ -136,6 +142,7 @@ But when it determines, that right lines cannot concur; that we cannot draw more
 Its mistakes can never be of any consequence.
 
 The nature and use of geometry is to run us up to such appearances which, because of their simplicity, cannot lead us into any considerable error.
+
 
 My second observation on our demonstrative reasonings is suggested by mathematics.
 

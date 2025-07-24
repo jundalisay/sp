@@ -1,5 +1,14 @@
-
-
+---
+title: "Causes of Belief"
+heading: Section 8
+description: "Our Beliefs are Strengthened by Impressions"
+c: "steelblue"
+weight: 27
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
 
 
 Causation has the same influence as the two other relations of resemblance and contiguity.

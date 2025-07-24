@@ -27,30 +27,32 @@ Pride and humility are directly contrary, but have the self as the object.
 
 The self is the succession of related ideas and impressions we have an intimate memory and consciousness of.
 
-• Here, the view always fixes when we are actuated by pride or humility.
+Here, the view always fixes when we are actuated by pride or humility.
 
-◦ We feel elated by pride or dejected with humility as our idea of ourself is more or less advantageous.
+We feel elated by pride or dejected with humility as our idea of ourself is more or less advantageous.
 
 All other objects comprehended by the mind are always considered with a view to ourselves.
 
 Otherwise they would never be able to excite these passions or produce the smallest increase or reduction of them.
 
-• When the self does not enter into the consideration, there is no room for pride or humility.
+When the self does not enter into the consideration, there is no room for pride or humility.
 
-• The self is always the object of pride and humility.
-        ◦ It can never be their cause, or be sufficient alone to excite them.
+The self is always the object of pride and humility.
+- It can never be their cause, or be sufficient alone to excite them.
 
-• If their object were also their cause, it could never produce any degree of the one passion.
-        ◦ At the same time, it must excite an equal degree of the other.
-        ◦ Opposition and contrariety must destroy both.
+If their object were also their cause, it could never produce any degree of the one passion.
+
+At the same time, it must excite an equal degree of the other.
+
+Opposition and contrariety must destroy both.
 
 A man can never be proud and humble at the same time.
 
-◦ These take place alternately depending on their reasons.
+These take place alternately depending on their reasons.
 
-◦ If these two encounter, the stronger one annihilates the other.
+If these two encounter, the stronger one annihilates the other.
 
-    ▪ Only the superior one continues to operate on the mind.
+Only the superior one continues to operate on the mind.
 
 • But in the present case neither of them could ever become superior.
         ◦ The view of ourself alone is indifferent to pride and humility.

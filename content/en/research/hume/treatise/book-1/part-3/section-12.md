@@ -3,7 +3,7 @@ title: "The Probability of Causes"
 heading: Section 12
 description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
 c: "steelblue"
-weight: 24
+weight: 42
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -81,38 +81,37 @@ This uncertainty causes our reasoning to consider the contrariety of events beca
 - one observation is frequently contrary to another, and
 - causes and effects do not follow in the same order as we had experienced.
 
-Our first question on this contrariety, is the nature and causes of contrariety.
+What is the nature and causes of contrariety?*
 
-The vulgar take things as they first appear.
+
+{{< n n="This is from the contrariety of the 2 Forces Yin and Yang" >}}
+
+<!-- The vulgar take things as they first appear.
 - They attribute the uncertainty of outcomes to an uncertainty in the causes.
 
-This uncertainty in the causes makes those outcomes fail of their usual influence, even if there is no obstacle in their operation.
+This uncertainty in the causes makes those outcomes fail of their usual influence, even if there is no obstacle in their operation. -->
 
-But philosophers do the opposite and instead observe every part of nature.
+Philosophers observe every part of nature.
 - They see so many principles hidden by minuteness or remoteness.
 - They find that the contrariety of outcomes can come from the secret operation of contrary causes, not from any contingency in the cause.
 
 This possibility is converted into certainty by further observation.
 
-Upon an exact scrutiny, they see that a contrariety of effects always betrays a contrariety of causes.
-
-They see that this contrariety comes from their mutual hindrance and opposition.
+They see that:
+- a contrariety of effects always betrays a contrariety of causes
+- this contrariety comes from their mutual hindrance and opposition
 
 A peasant sees the stopping of a clock.
+- The only reason that he can give is to say that there is something wrong.
+- But a craftsman knows that the clock's spring always acts on the clock's gears.
+- He thinks that the spring had failed because of dust.
 
-The only reason that he can give is to say that there is something wrong.
-
-But a craftsman knows that the clock's spring always acts on the clock's gears.
-
-He perceives that the spring had failed perhaps by dust which stopped the whole movement.
-
-From the observation of parallel experiences, philosophers form a maxim that:
+Likewise, philosophers form a maxim that:
 - the connection between all causes and effects is equally necessary, and
 - its seeming uncertainty in some experiences comes from the secret opposition of contrary causes.
 
-Philosophers and simple people differ in their explanation of the contrariety of events.
+<!-- Philosophers and simple people differ in their explanation of the contrariety of events.
 
 But their inferences from it are always:
 - of the same kind, and
-- founded on the same principles.
-
+- founded on the same principles. -->

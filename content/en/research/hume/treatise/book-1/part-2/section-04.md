@@ -1,9 +1,9 @@
 ---
 heading: "Section 4"
-title: "Objections"
+title: "3 Objections to the Indivisibility of the Atom or Quantum of Space"
 weight: 8
 c: "steelblue"
-description: "Impressions always precede ideas. Every idea first appears as a correspondent impression"
+description: "The ideas of space and time finally resolve themselves into indivisible parts, which are nothing in themselves"
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -11,22 +11,25 @@ icon: "David Hume"
 ---
 
 
-## The Indivisibility of the Quantum of Space is Rejected by Mathematicians
+## Mathematicians Reject the Indivisibility of the Quantum of Space 
 
-Our system on space and time has 2 parts intimately connected.
+My system of space and time has 2 parts intimately connected.
 
 Part 1 depends on this chain of reasoning:
 - The mind's capacity is not infinite.
 - Consequently, no idea of space or time consists of an infinite number of parts or inferior ideas.
 - Consequently, space or time consists of a finite number which are simple and indivisible.
-- Therefore, it is possible for space and time to exist conformable to this idea.
+- Therefore, space and time can exist conformable to this idea.
 
 If it were possible, then they certainly actually exist since their infinite divisibility is utterly impossible and contradictory.
 
 Part 2 is a consequence of Part 1.
 
-The ideas of space and time finally resolve themselves into indivisible parts, which are nothing in themselves.
-- They are inconceivable when not filled with something real.
+The ideas of space and time finally resolve themselves into indivisible parts, **which are nothing in themselves**.
+- They are inconceivable when not filled with something real.*
+
+{{< n n="They are mental objects" >}}
+
 
 The ideas of space and time are therefore not separate nor distinct ideas.
 - They are merely ideas of the manner or order, in which objects exist.
@@ -35,12 +38,12 @@ In other words, it is impossible to conceive:
 - a vacuum and space without matter, or
 - a time when there was no succession or change in any real existence.
 
-The intimate connection between these parts of our system is why we shall examine the objections against them.
+<!-- The intimate connection between these parts of our system is why we shall examine the objections against them.
 
-First are the objections against the finite divisibility of space.
+First are the objections against the finite divisibility of space. -->
 
 
-### Objection 1: It is more proper to prove this connection and dependence of the one part on the other, than to destroy either of them.
+## Objection 1: It is more proper to prove this connection and dependence of the one part on the other, than to destroy either of them.
 
 According to schools, space is divisible to infinity because the system of mathematical points is absurd.
 - The system of mathematical points is absurd because a mathematical point is a non-entity.

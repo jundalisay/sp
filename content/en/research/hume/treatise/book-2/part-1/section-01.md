@@ -15,10 +15,12 @@ All the mind’s perceptions may be divided into impressions and ideas.
 The impressions can be further divided into original and secondary.
 - This division is the same as the impressions of sensation and reflection (Book 1, Part 1, Sec. 2).
 
-Original impressions or impressions of sensation are those without any antecedent perception arising in the soul from:
+Original impressions are impressions of sensation.
+
+<!-- These are those without any antecedent perception arising in the soul from:
 - the body’s constitution
 - the animal spirits, or
-- the application of objects to the external organs.
+- the application of objects to the external organs. -->
 
 This includes:
 - all sensory impressions 
@@ -32,9 +34,9 @@ The mind, in its perceptions, must begin somewhere.
 
 These depend on natural and physical causes.
 
-Their examination would lead me too far from my present subject, into the sciences of anatomy and natural philosophy.
+<!-- Their examination would lead me too far from my present subject, into the sciences of anatomy and natural philosophy. -->
 
-I shall confine myself to those other impressions I have called secondary and reflective, as arising from:
+I confine myself to those other impressions I have called secondary and reflective, as arising from:
 - the original impressions, or
 - their ideas.
 
@@ -52,7 +54,7 @@ The reflective impressions may be divided into 2 kinds:
 
 The sense of beauty and deformity in action, composition, and external objects.
 
-2. The VIOLENT
+2. The violent
 
 This includes love and hatred, grief and joy, pride and humility.
 

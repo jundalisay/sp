@@ -3,7 +3,7 @@ title: "The Relation of Cause and Effect"
 heading: Section 9b
 description: "We must turn the subject of belief on every side to find some new points of view from which we may illustrate such fundamental principles"
 c: "steelblue"
-weight: 18
+weight: 30
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -12,15 +12,15 @@ icon: "David Hume"
 
 
 
-The relation of cause and effect has all the opposite advantages.
+Cause and effect has all the opposite advantages.
+- The objects it presents are fixed and unalterable.
 
-The objects it presents are fixed and unalterable.
+<!-- The impressions of the memory never change in any considerable degree.
 
-The impressions of the memory never change in any considerable degree.
-
-Each impression draws along with it a precise idea, which takes its place in the imagination as something solid and real, certain and invariable.
+Each impression draws along with it a precise idea, which takes its place in the imagination as something solid and real, certain and invariable. -->
 
 The thought is always determined to pass from the impression to the idea, and from that particular impression to that particular idea, without any choice or hesitation.
+
 
 I am not content with removing this objection
 
@@ -34,20 +34,24 @@ It adds to:
 - the conviction of any opinion, and
 - the vivacity of any conception.
 
+
 If this can be proven in several new instances, then it follows that belief is nothing but a lively idea related to a present impression.
-According to Muslims and Christians, the pilgrims who have seen Mecca or the Holy Land are ever after more faithful and zealous believers, than those who have never seen them.
+
+According to Muslims and Christians, the pilgrims who have seen Mecca or the Holy Land become more faithful and zealous than those who have never seen them.
 
 A man who sees a lively image of the Red Sea, the Desert, Jerusalem, and Galilee, can never doubt any miraculous events related by Moses or the Evangelists.
 
-The lively idea of those places:
+<!-- The lively idea of those places:
 - passes by an easy transition to the facts related to them by contiguity, and
 - increases the belief by increasing the vivacity of the conception.
 
-The remembrance of these fields and rivers has the same influence on the vulgar as a new argument, and from the same causes.
+The remembrance of these fields and rivers has the same influence on the vulgar as a new argument, and from the same causes. -->
+
 
 We may form a like observation concerning resemblance.
 
 The conclusion we draw from a present object to its absent cause or effect, is never founded on any qualities in that object itself.
+
 In other words, it is impossible to determine what will result from any phenomenon, or what has preceded it, other than by experience.
 
 This does not seem to require any proof.
@@ -56,11 +60,13 @@ Yet some philosophers imagined that:
 - there is a cause for the communication of motion, and
 - a reasonable man might immediately infer the motion of one body from the impulse of another, without having recourse to any past observation.
 
+
 It easy to prove this opinion as false.
 
 For if such an inference may be drawn merely from the ideas of body, motion, and impulse, it must amount to a demonstration.
 
 It must imply the absolute impossibility of any contrary supposition.
+
 
 Every effect, then, beside the communication of motion, implies a formal contradiction.
 

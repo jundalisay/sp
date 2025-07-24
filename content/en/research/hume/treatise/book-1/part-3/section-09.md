@@ -1,9 +1,9 @@
 ---
-title: "The Effects of Other Relations and Other Habits"
+title: "Reality is a system made up of current perceptions and ideas and those from memory"
 heading: Section 9
-description: "We must turn the subject of belief on every side to find some new points of view from which we may illustrate such fundamental principles"
+description: "Besides cause and effect, resemblance and contiguity convey the mind from one idea to another"
 c: "steelblue"
-weight: 18
+weight: 28
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -14,11 +14,16 @@ icon: "David Hume"
 
 <!-- In Addition to Cause and Effect, the Contiguity and Resemblance of Ideas Influence Belief -->
 
-We must turn the subject of belief on every side to find some new points of view from which we may illustrate such fundamental principles.
+My principles apply to beliefs.
 
-Philosophers are correct in having a scrupulous hesitation to receive any new hypothesis.
+<!-- We must turn the subject of belief on every side to find some new points of view from which we may illustrate such fundamental principles. -->
 
-This hesitation is so necessary to the examination of truth.
+<!-- Philosophers correctly hesitate to accept any new hypothesis.
+
+They require their objections to that new hypothesis be addressed. -->
+
+
+<!-- This hesitation is so necessary to the examination of truth.
 
 It deserves to be complied with.
 
@@ -30,13 +35,15 @@ This:
 - deserves to be complied with, and
 - requires that every:
   - argument be produced to satisfy them, and
-  - objection be removed which may stop them in their reasoning.
+  - objection be removed which may stop them in their reasoning. -->
 
-Besides cause and effect, the two relations of resemblance and contiguity are often considered as:
+Besides cause and effect, resemblance and contiguity convey the mind from one idea to another.
+
+<!-- are often considered as:
 - associating principles of thought, and
-- capable of conveying the imagination from one idea to another.
+- capable of conveying the imagination  -->
 
-When of one of two objects, connected together by these relations, is immediately presented to the memory or senses, the mind:
+<!-- When of one of two objects, connected together by these relations, is immediately presented to the memory or senses, the mind:
 - is conveyed to its co-relative through the associating principle, and
 - conceives it with an additional force and vigour through the united operation of the associating principle and the present impression.
 
@@ -44,11 +51,12 @@ All this I have observed to confirm by analogy, my explanation of our judgments 
 
 But this very argument can be turned against me.
 
-It can be used to object to my hypothesis.
+It can be used to object to my hypothesis. -->
 
-For if all the parts of that hypothesis were true, that these three species of relations are derived from the same principles, then:
-- their effects in informing and enlivening our ideas are the same, and
-- belief is nothing but a more forcible and vivid conception of an idea.
+<!-- For if all the parts of that hypothesis were true, that these three species of relations are derived from the same principles, then:
+- their effects in informing and enlivening our ideas are the same, and -->
+
+If cause and effect, resemblance, and contiguity make the mind move from idea to idea, then it means a belief is just a more forcible and vivid conception of an idea.
 
 It follows that that action of the mind may not only be derived from the relation of cause and effect, but also from those of contiguity and resemblance.
 
@@ -63,19 +71,29 @@ must:
 - become of considerable moment in all the operations of the mind, and
 - easily distinguish itself above the mere fictions of the imagination.
 
-We create a system of these impressions or ideas of the memory, comprehending whatever we remember.
 
-Every part of that system, joined to the present impressions, we call a 'reality'.
+
+We create 'Reality' as a system that is made up of:
+- perceptions or ideas from memory
+- current perceptions
+
+<!-- We create a system of these . -->
+
+ <!-- comprehending whatever we remember. -->
+
+<!-- Every part of that system, joined to the present impressions, we call a 'reality'. -->
 
 But the mind does not stop not here.
 
-The mind finds that there is another system of perceptions connected by custom, or by the relation of cause or effect, with this system of perceptions.
+The mind finds that its reality is connected by habit or by cause and effect to another system of perceptions.
 
-The mind proceeds to consider the ideas of this other system.
+ <!-- , or by the relation of cause or effect, with this system of perceptions. -->
+
+The mind then considers the ideas of this other system.
 
 It feels determined to view these ideas.
 
-It creates them into a new system since the custom or relation that determines it does not allow change.
+It creates them into a new system since the habit or relation that determines it does not allow change.
 
 It likewise calls them as 'realities'.
 - The first of these systems is the object of the memory and senses.
@@ -101,18 +119,20 @@ I look back and consider its first foundation, revolutions, successes, and misfo
 
 All this which I believe, are nothing but ideas.
 
-Their force and settled order arises from custom and the relation of cause and effect.
+Their force and settled order arises from habit and cause & effect.
 
 These distinguish themselves from the other ideas, which are merely the offspring of the imagination.
 
-As to the influence of contiguity and resemblance:
-- if the contiguous and resembling object is comprehended in this system of realities, these two relations will:
-- assist cause and effect, and
+
+Contiguity and resemblance will assist cause and effect if the contiguous and resembling object is comprehended in this system of realities.
+
+<!-- , these two relations will:
+, and
 - infix the related idea with more force in the imagination.
 
-I shall carry my observation a step farther.
+I shall carry my observation a step farther. -->
 
-I will assert that even where the related object is feigned, the relation will:
+I assert that even where the related object is feigned, the relation will:
 - enliven the idea, and
 - increase its influence.
 
@@ -155,3 +175,4 @@ This imperfection is very sensible in every instance.
 It further increases by experience and observation, when we:
 - compare the several instances we may remember, and
 - form a general rule against the reposing any assurance in those momentary glimpses of light, which arise in the imagination from a feigned resemblance and contiguity.
+

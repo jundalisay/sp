@@ -1,6 +1,7 @@
 ---
 heading: "Section 3"
-title: "Memory Versus Imagination"
+title: "Principle 2: The imagination is free to transpose and change its ideas"
+# Memory Versus Imagination"
 weight: 8
 c: "steelblue"
 description: "Generally, simple ideas and impressions are exactly correspondent, as the complex are formed from them"

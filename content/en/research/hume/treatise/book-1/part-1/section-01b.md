@@ -1,6 +1,7 @@
 ---
 heading: "Section 1b"
-title: "Simple Ideas and Impressions"
+title: "Principle 1: There are No Innate A Priori Ideas"
+# Simple Ideas and Impressions
 weight: 4
 c: "steelblue"
 description: "Generally, simple ideas and impressions are exactly correspondent, as the complex are formed from them"

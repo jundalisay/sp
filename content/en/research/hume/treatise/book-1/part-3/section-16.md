@@ -3,7 +3,7 @@ title: "The Reason of Animals"
 heading: Section 16
 description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
 c: "steelblue"
-weight: 32
+weight: 74
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -86,11 +86,15 @@ infers his masters anger, and
 foresees his own punishment.
 
 From the smell in the air, a dog judges that his game is not far from him.
+
 The inference the dog draws from the present impression is built on:
-experience, and
-his observation of the conjunction of objects in past instances.
+- experience, and
+- his observation of the conjunction of objects in past instances.
+
 As you vary this experience, he varies his reasoning.
+
 Make a beating follow on one sign or motion for some time, and afterwards on another.
+
 He will successively draw different conclusions, according to his most recent experience.
 
 Let any philosopher:

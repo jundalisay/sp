@@ -1,9 +1,9 @@
 ---
-title: "Causes of Belief"
+title: "Maxim on the Transferrence of Force from Impressions"
 heading: Section 8
 description: "Our Beliefs are Strengthened by Impressions"
 c: "steelblue"
-weight: 16
+weight: 26
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -11,15 +11,22 @@ icon: "David Hume"
 ---
 
 
+
 ## Beliefs are Strengthened by Impressions
 
-Having explained that belief consists in a lively idea related to a present impression, let us examine:
+Belief consists in a lively idea related to a present impression.
+
+What bestows the vivacity on the idea?
+
+<!--  let us examine:
 - its principles, and
-- what bestows the vivacity on the idea.
+- what . -->
 
-I establish it as a general maxim that when any impression becomes present to us, it not only transports the mind to such ideas as are related to it, but likewise communicates to them a share of its force and vivacity.
+I establish another general maxim: "when any impression becomes present to us, it transports the mind to related ideas and also communicates its force and vivacity."
 
-All the operations of the mind depend greatly on its disposition when it performs them.
+All the operations of the mind depend greatly on the disposition of the mind.
+
+ <!-- when it performs them. -->
 
 The action will always have vigour and vivacity depending on:
 - the elevation of the spirits, and
@@ -40,6 +47,7 @@ On the contrary, the disposition has a much longer duration when the mind:
 Hence, when the mind is once enlivened by a present impression, it forms a more lively idea of the related objects by a natural transition of the disposition from the one to the other.
 
 The change of the objects is so easy.
+
 The mind is not sensible of it.
 
 The mind conceives the related idea with all the force and vivacity that the mind acquired from the present impression.
@@ -55,9 +63,11 @@ Every feeling created by that idea, acquires new force and vigour.
 A relation and a present impression concurs to produce this effect.
 
 If we removed the picture, the idea of him would be weakened by that transition.
+
 If the picture does not resemble him, it would never make us think of him.
 
 We take a pleasure in viewing the picture of a friend.
+
 But when it is removed, we choose to think about him directly in our minds.
 
 Both ways are equally distant and obscure.
@@ -89,6 +99,7 @@ In every case, a resemblance and present impression must concur.
 We can do many thought experiments to prove the effects of contiguity and resemblance.
 
 Distance reduces the force of every idea.
+
 As we approach any object, we do not sense it.
 
 But it operates on the mind with an influence that imitates an immediate impression.
@@ -108,21 +119,24 @@ But this transition alone cannot give a superior vivacity to those ideas because
 
 According to Cicero de Finibus, lib. 5:
 
-"When we see those places where notable men spent their time, we are more powerfully affected than when we hear of their exploits.
-Should I attribute this to instinct or to some illusion?
+"When we see those places where famous men lived, we are more powerfully affected than when we hear of their exploits.
 
-This is just what is happening to me now.
-Plato was the first to hold discussions here.
-His nearby gardens do not merely make me remember him.
-They seem to set Plato himself before my eyes.
+Is this from instinct or some illusion?
+
+Plato held discussions here.
+- His nearby gardens make me remember him and sets Plato himself before my eyes.
+
 Speusippus, Xenocrates and his pupil, Polemo were here.
-That very seat which we view was Polemo's.
+- That very seat which we view was Polemo's.
 
 The old Senate building of Hostilius was enlarged, which reduced it in my view.
+
 When I look at our old Senate building, I used to think of Scipio, Cato, Laelius and my own grandfather.
+
 Such is the power of places to evoke associations.
 
-So it is with good reason that they are used as a basis for memory training."
+So it is with good reason that they are used as a basis for memory training."*
 {{< /b >}}
 
 
+{{< n n="Cartesian Physics explains that the animal spirits that created those events are still there. This makes people remember them better" >}}

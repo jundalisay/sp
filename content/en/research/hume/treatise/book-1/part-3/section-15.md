@@ -3,7 +3,7 @@ title: "Rules in Judging Causes and Effects"
 heading: Section 15
 description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
 c: "steelblue"
-weight: 30
+weight: 70
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -73,36 +73,52 @@ This constant conjunction sufficiently proves that the one part is the cause of 
 However, we must not draw such a conclusion from a few experiments.
 
 A certain degree of heat gives pleasure.
+
 If you reduce that heat, the pleasure reduces.
+
 But it does not follow that if you augment it beyond a certain degree, the pleasure will likewise augment for we find that it degenerates into pain.
+
 An object which exists for any time in its full perfection without any effect, is not the sole cause of that effect.
+
 It needs to be assisted by some other principle which may forward its influence and operation because:
-like effects follow from like causes, and
-in a contiguous time and place, their separation for a moment shows that these causes are incomplete.
+- like effects follow from like causes, and
+- in a contiguous time and place, their separation for a moment shows that these causes are incomplete.
+
 Here is all the logic to employ in my reasoning.
 
 These could have been supplied by the natural principles of our understanding.
+
 The ability of our scholars and logicians to create rules to direct our philosophical judgements is not superior to those of ordinary people.
+
 All the rules of this nature are very easy to invent, but extremely difficult to apply.
+
 Experimental philosophy is the most natural and simple of any philosophy
 
 Even it requires the utmost stretch of human judgment.
+
 The only phenomenon in nature are those compounded and modified by so many different circumstances.
+
 To arrive at the decisive point, we must:
-carefully separate whatever is superfluous, and
-inquire by new experiments, if every circumstance of the first experiment was essential to it.
+- carefully separate whatever is superfluous, and
+- inquire by new experiments, if every circumstance of the first experiment was essential to it.
+
 These new experiments are liable to the same kind of discussion.
+
 It will require the utmost:
-constancy to make us persevere in our inquiry, and
-sagacity to choose the right way among so many inquiries that present themselves.
+- constancy to make us persevere in our inquiry, and
+- sagacity to choose the right way among so many inquiries that present themselves.
+
 If this is the case even in natural philosophy, how much more in moral philosophy?
 
 Moral philosophy has a much greater complication of circumstances.
+
 Moral views and feelings that are essential to any action of the mind, are so implicit and obscure, that they often:
-escape our strictest attention,
-are unaccountable in their causes, and
-are unknown in their existence.
+- escape our strictest attention,
+- are unaccountable in their causes, and
+- are unknown in their existence.
+
 I am afraid that the small successes in my inquiries will make this obesrvation more apologetic than proud.
 
 My only security is in the enlarging, as much as possible, of the sphere of my experiments.
+
 This is why I will examine the reasoning faculty of animals, in the same way that I examined that of human creatures.

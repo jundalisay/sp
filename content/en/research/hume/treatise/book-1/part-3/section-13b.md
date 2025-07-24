@@ -1,9 +1,9 @@
 ---
-title: "The Nature of General Rules"
+title: "4: Unphilosophical Probability From Hasty General Rules"
 heading: Section 13b
-description: "General Rules are formed on the nature of our understanding"
+description: "An Irishman cannot have wit and a Frenchman cannot have solidity."
 c: "steelblue"
-weight: 26
+weight: 52
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -11,245 +11,104 @@ icon: "David Hume"
 ---
 
 
-According to my system, all reasonings are nothing but the effects of custom.
 
-Custom has no influence, but by:
-- enlivening the imagination, and
-- giving us a strong conception of any object.
+4. Another unphilosophical kind of probability is that derived from hasty general rules, which:
+- we rashly form to ourselves, and
+- are the source of prejudice.
 
-We can conclude that:
-- our judgment and imagination can never be contrary, and
-- custom cannot operate on imagination which will render it opposite to judgement.
+An example is: "An Irishman cannot have wit and a Frenchman cannot have solidity."
 
+The conversation of the:
+- Irishman may be visibly very agreeable.
+- Frenchman may be very judicious.
 
-We can only remove this difficulty by supposing the influence of general rules.
+But we have entertained such a prejudice against them.
+- They are stupid in spite of sense and reason.
 
-We shall afterwards notice (Section 15) some general rules which should regulate our judgment on causes and effects.
+Human nature is very subject to errors of this kind.
 
-These rules are formed on:
-- the nature of our understanding, and
-- our experience of its operations in the judgments we form concerning objects.
+<!-- Perhaps Britain is subject to errors as much as any other country. -->
 
-By them we learn to distinguish the accidental circumstances from the effective causes.
+I think prejudice proceeds from those very principles which all judgments on causes and effects depend on.
 
-When we find that an effect can be produced without the concurrence of any particular circumstance, we conclude that that circumstance does not make a part of the effective cause, however frequently conjoined with it.
+Our judgments on cause and effect are derived from habit and experience.
 
-This necessity of frequent conjunction makes it have some effect on the mind.
+When we have been used to see an object united to another, our imagination transits from the first to the second naturally.
 
-Despite the opposite conclusion from general rules, the opposition of these two principles:
-- produces a contrariety in our thoughts
-- causes us to ascribe the:
-  - one inference to our judgment, and
-  - other inference to our imagination.
+This transition:
+- precedes reflection, and
+- cannot be prevented by reflection.
 
-The general rule is attributed to our judgment, as being more extensive and constant.
+Habit naturally:
+- operates with its full force when the presented objects are exactly the same with those that we have been used to, and
+- operates in an inferior degree when we discover objects to be similar but not exact.
 
-The exception to the imagination is attributed as being more capricious and uncertain.
-Thus our general rules oppose each other in a way.
+The habit loses its force by every difference.
 
-General rules have 2 influences:
+Yet it is seldom entirely destroyed if any considerable circumstances remain the same.
 
-1. When an object, that resembles any cause, appears in very considerable circumstances, the imagination carries us to a lively conception of the usual effect even if the object has different circumstances from that cause.
+A man who is used to eating fruits, such as pears or peaches, will satisfy himself with melons if he cannot find his favourite fruit.
 
-When we review this act of the mind and compare it with the more general and authentic operations of the understanding, we find it to be:
-- irregular, and
-- destructive of all the most established principles of reasonings.
+A man who gets drunk with red wines will get almost as drunk with white wine if given to him.
 
-This is why we reject it.
+From this principle, I have accounted for the species of probability which we derive from analogy.
 
-This influence condemnts the first influence.
+Through analogy, we transfer our experience in past instances to objects which are resembling, but are not exactly the same with those objects we have experienced.
 
-Sometimes the one, sometimes the other prevails, according to the person's disposition and character.
-The vulgar are commonly guided by the first influence.
-The wise are guided by the second influence.
+The probability reduces as the resemblance decays.
 
-Meanwhile, the skeptics may here have the pleasure of:
-- observing a new and notable contradiction in our reason, and
-- seeing all philosophy:
-  - ready to be subverted by a principle of human nature, and
-  - saved by a new direction of the very same principle.
+But still has some force as long as there remain any traces of the resemblance.
 
-The following of general rules is a very unphilosophical species of probability.
+We may carry this observation further.
 
-Yet it is only by following them that we can correct this and all other unphilosophical probabilities.
+Habit is the foundation of all our judgments.
 
-Since general rules operate on the imagination even against our judgment, we need not be surprised to:
-- see their effects increase, when conjoined with judgment, and
-- observe that general rules bestow a superior force on their presented ideas.
+But sometimes, habit opposes judgement in the imagination.
 
-Everyone knows that there is an indirect way of insinuating praise or blame, which is much less shocking than open flattery or censure.
+It produces a contrariety in our feelings on the same object.
 
-The influence of a man's feelings is not equally strong and powerful, even if he:
-- communicates them by such secret insinuations, and
-- makes them known with equal certainty through their open discovery.
+In almost all kinds of causes, there is a complication of circumstances.
 
-One who lashes me with concealed strokes of satire, does not move my indignation as if he flatly told me I were a fool, even if 
+Some circumstances are essential, others are superfluous.
 
-I would equally understand his meaning, as if he actually told me.
+Some are absolutely needed to the produce an effect.
+Others are only conjoined by accident.
 
-This difference is attributed to the influence of general rules.
+When these superfluous circumstances are numerous, remarkable, and frequently conjoined with the essential, they have such an influence on the imagination.
 
-I do not immediately perceive a person's feeling whether he:
-- openly abuses me, or
-- slyly intimates his contempt.
+Even in the absence of the essential circumstances, they:
+- carry us on to the conception of the usual effect, and
+- give to that conception a force and vivacity, which make it superior to the mere fictions of the fancy.
 
-I only become sensible of it by signs and its effects.
+We may correct this propensity by a reflection on the nature of those circumstances.
 
-The only difference between these two cases is that in the open discovery of his feelings, he uses general and universal signs.
+But it is still certain, that habit takes the start and gives a bias to the imagination.
 
-In the secret intimation, he uses more singular and uncommon signs.
+To illustrate this by a familiar instance, let us consider a man who is hung from a high tower in an iron cage.
 
-This causes the imagination to make the transition with greater facility, in running from the present impression to the absent idea.
+He cannot refrain from trembling when he surveys the precipice below him, even if he knows he is perfectly secure from falling, by his experience of the iron's solidity which supports him.
 
-The imagination consequently conceives the object with greater force, where the connection is common and universal, than where it is more rare and particular.
+Though the ideas of fall, harm and death are derived solely from custom and experience.
 
-The open declaration of our feelings is called the taking off the mask.
+The same habit:
+- goes beyond the instances:
+  - from which it is derived, and
+  - to which it perfectly corresponds.
+- influences his ideas of such objects as are in some respect resembling, but fall not precisely under the same rule.
 
-The secret intimation of our opinions is the veiling of them.
+Depth and descent strike so strongly on him.
 
-The difference between an idea produced by a general connection, and an idea arising from a particular connection is here compared to the difference between an impression and an idea.
+Their influence cannot be destroyed by the contrary circumstances of support and solidity, which should give him a perfect security.
 
-This difference in the imagination has a suitable effect on the passions.
+His imagination runs away with its object, and excites a passion proportioned to it.
 
-This effect is augmented by another circumstance.
+That passion returns on the imagination and enlivens the idea.
 
-A secret intimation of anger or contempt shows that we:
-- still have some consideration for the person
-- avoid abusing him directly.
+This lively idea has a new influence on the passion.
 
-This makes a concealed satire less disagreeable.
+It adds the force and violence of that passion.
 
-But this still depends on the same principle.
+His fancy and affections, mutually supporting each other, cause the whole to have a very great influence on him.
 
-Indirect speech is a mark of greater respect than direct speech.
-
-Sometimes direct insults that we throw are less displeasing than indirect satire because it revenges us for the injury done to us.
-
-It gives us a reason to condemn the person who injures us.
-
-But this phenomenon also depends on the same principle.
-
-We blame injurious language because it is contrary to good breeding and humanity.
-
-It is contrary to humanity because it is more shocking than delicate satire.
-
-The rules of good breeding:
-- condemn whatever is openly disobliging, and
-- gives pain to those who use bad language.
-
-After good breeding is established, abusive language:
-- is universally blamed, and
-- gives less pain by rendering the rude person despicable.
-
-Under good breeding, abusive language:
-- becomes less disagreeable because it is made less shocking, and
-- becomes more disagreeable because it infers the general rules.
-
-I add another analogous phenomenon to this explanation of the influence of direct or indirect flattery.
-
-There are many specifics in the point of honour of men and women.
-The world never excuses when the violations of this honour are open and avowed.
-
-The world tends to overlook those violations when:
-- the appearances are saved, and
-- the transgression is secret and concealed.
-
-Those who know that the fault is committed, pardon it more easily when the proofs are oblique and equivocal, than when they are direct and undeniable.
-
-The same idea is presented in both cases.
-
-It is equally assented to by the judgment.
-
-Yet its influence is different because of the different way it is presented.
-
-There is a difference of the open and concealed violations of the laws of honour.
-
-In the open violations of the laws of honour, the sign of the blameable action is:
-- single, and
-- alone enough to be the foundation of our reasoning and judgment.
-
-In the concealed violations of the laws of honour, the signs:
-- are numerous, and
-- decide little or nothing when alone.
-
-Any reasoning is always the more convincing:
-- the more single and united it is to the eye, and
-- the less it makes the imagination:
-  - collect all its parts, and
-  - run from them to the correlative idea forming the conclusion.
-
-The labour of the thought disturbs the regular progress of the feelings (Part 4, Section 1).
-
-The idea does not strike us with such vivacity.
-
-Consequently, it has no such influence on the passion and imagination.
-
-These principles explain the observation of Cardinal De Retz that the world:
-- wishes to be deceived in many things, and
-- more easily excuses a person in acting than in talking, contrary to the decorum of his profession and character.
-
-A fault in words is commonly more open and distinct than a fault in actions.
-
-A fault in actions:
-- can have many excuses, and
-- does not clearly show the actor's intention and views.
-
-Every kind of opinion or judgment, which does not amount to knowledge, is derived entirely from the perception's force and vivacity.
-
-These qualities form the belief of the existence of any object in the mind.
-
-This force and vivacity are most conspicuous in the memory.
-
-Our confidence in the veracity of memory:
-- is the greatest imaginable, and
-- equals the assurance of a demonstration.
-
-The next degree of these qualities is that derived from the relation of cause and effect.
-
-This too is very great, especially when:
-- the conjunction is found by experience to be perfectly constant, and
-- the object present to us, exactly resembles those that we have experienced.
-
-But below this degree of evidence, there are many others that influence the passions and imagination, proportional to the force and vivacity which they communicate to the ideas.
-
-By habit, we transition from cause to effect.
-
-From some present impression, we borrow that vivacity which we diffuse over the correlative idea.
-
-In all the following cases, the evidence reduces by the reduction of the idea's force and intensity:
-- when we have not observed a sufficient number of instances to produce a strong habit,
-- when these instances are contrary to each other,
-- when the resemblance is not exact,
-- when the present impression is faint and obscure,
-- when the experience is obliterated from the memory,
-- when the connection is dependent on a long chain of objects, or
-- when the inference are derived from general rules and yet not conformable to them.
-
-This therefore is the nature of the judgment and probability.
-
-What principally gives authority to this system is:
-- the agreement of these parts, and
-- the necessity of one to explain another.
-
-The belief which attends our memory has the same nature with the belief derived from our judgments.
-
-There is no difference between:
-- that judgment derived from a constant and uniform connection of causes and effects, and
-- that judgement which depends on an interrupted and uncertain.
-
-In all determinations where the mind decides from contrary experiments, the mind is first divided within itself.
-
-It is inclined to side in proportion to the number of experiments we have seen and remembered.
-
-This contest is won by the side which has a superior number of these experiments, while reducing the force in the evidence from the opposite experiments.
-
-Each possibility, which makes up the probability, operates separately on the imagination.
-
-The larger collection of possibilities finally prevails with a force proportional to its superiority.
-
-All these phenomena lead directly to the precedent system.
-
-It will never be possible on any other principles to give a satisfactory and consistent explanation of those phenomena.
-
-Without considering these judgments as the effects of custom on the imagination, we shall lose ourselves in perpetual contradiction and absurdity.
+Why do we need to seek other instances, when philosophical probabilities offer us an obvious instance in the opposition between the judgment and imagination arising from these effects of custom?
 

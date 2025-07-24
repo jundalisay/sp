@@ -3,7 +3,7 @@ title: "Religion"
 heading: Section 9c
 description: "We must turn the subject of belief on every side to find some new points of view from which we may illustrate such fundamental principles"
 c: "steelblue"
-weight: 18
+weight: 32
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -12,7 +12,7 @@ icon: "David Hume"
 
 
 
-Men are everywhere concerned about what may happen after their death.
+Men are concerned what happens after death.
 
 The lack of resemblance in this case so entirely destroys belief.
 
@@ -24,47 +24,58 @@ This appears very conspicuously wherever men compare the pleasures and pains, th
 - the case does not concern themselves, and
 - there is no violent passion to disturb their judgment.
 
-The Roman Catholics are certainly the most zealous Christian sect.
+The Roman Catholics are the most zealous Christian sect.
+- Yet most of them approve the massacre of St. Bartholomew.
 
-Yet you'll find few sensible Catholics who do not regard, as cruel and barbarous:
+<!--  you'll find few sensible Catholics who do not regard, as cruel and barbarous:
 - the Gunpowder-treason, and
-- the massacre of St. Bartholomew
+- the  -->
 
-Those acts were executed against Catholics who were condemned to eternal and infinite punishments without any scruple.
+<!-- Those acts were executed against Catholics who were condemned to eternal and infinite punishments without any scruple. -->
 
-All we can say in excuse for this inconsistency is that they really do not believe what they affirm concerning a future state.
+This inconsistency is from them not really believing their belief of an afterlife. 
 
-This is the best proof of that inconsistency or their lack of belief in their own beliefs of the future state.
+<!-- what they belie affirm concerning a future state. -->
 
-In matters of religion:
-- men take a pleasure in being terrified, and
-- the most popular preachers are those who excite the most dismal and gloomy passions.
+<!-- This is the best proof of that inconsistency or their lack of belief in their own beliefs of the future state. -->
 
-In the common affairs of life, where we feel and are penetrated with the solidity of the subject, nothing can be more disagreeable than fear and terror.
+In religion, men take a pleasure in being terrified.
 
-Only in dramatic performances and religious discourses can fear and terror ever give pleasure.
+<!--  and
+- the most popular preachers are those who excite the most dismal and gloomy passions. -->
 
-In these latter cases, the imagination rests itself indolently on the idea.
+<!-- In the common affairs of life, where we feel and are penetrated with the solidity of the subject, nothing can be more disagreeable than fear and terror. -->
 
-The passion is softened by the want of belief in the subject.
+In common life, fear and terror gives pleasure only in dramatic performances and religious discourses.
 
-It enlivens the mind and fixes its attention.
+In religious discourses, the imagination rests indolently on the idea of death.
 
-The present hypothesis will be confirmed further if we examine the effects of other kinds of custom and relations.
+<!-- The passion is softened by the want of belief in the subject.
+
+It enlivens the mind and fixes its attention. -->
 
 
-To understand this, we must consider that custom, to which I attribute all belief and reasoning, may invigorate an idea in two ways.
+My hypothesis will be confirmed further if we examine the effects of other kinds of habit and relations.
 
-If we have found two objects always conjoined together in all past experience, that on the appearance of one, we easily transition to the idea of its connected object, we conceive the idea of that object in a stronger and more lively way than any loose floating image of the imagination.
 
-Let us next suppose, that a mere idea alone, without any of this curious and almost artificial preparation, should frequently appear in the mind.
+<!-- To understand this, we must consider that custom, to which  -->
+
+I attribute all belief and reasoning to habit. 
+
+This habit may invigorate an idea in 2 ways.
+
+If we have found 2 objects always conjoined together, the appearance of one makes us easily transition to the idea of its connected object.
+- The idea of that connected object is stronger and more lively than any loose floating image of the imagination.
+
+
+Assume that a mere idea alone, without any artificial preparation, frequently appears in the mind.
 
 This idea must:
 - acquire a facility by degrees,
 - force by its firm hold and easy introduction, and
 - distinguish itself from any new and unusual idea.
 
-This is the only part in which these two kinds of custom agree.
+This is the only part in which these 2 kinds of habit [custom] agree.
 
 If it appears that their effects on the judgment are similar and proportional, we may conclude that the foregoing explanation of judgement is satisfactory.
 

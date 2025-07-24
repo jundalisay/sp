@@ -3,7 +3,7 @@ title: "The Nature of Idea or Belief"
 heading: Section 7
 description: "A Belief is a Strong Idea that Gives Ideas More Force"
 c: "steelblue"
-weight: 14
+weight: 24
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

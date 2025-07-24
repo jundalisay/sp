@@ -14,14 +14,23 @@ icon: "David Hume"
 
 ## The Idea of Existence Automatically Arises With Every Conception
 
-The ideas of existence and external existence have their difficulties just as with the ideas of space and time.
+The ideas of existence and external existence have the same difficulties as the ideas of space and time.
 
 By explaining existence, we shall be more prepared to examine knowledge and probability.
-All the impressions or ideas that we have any awareness or memory of, are existent.
 
-The most perfect idea and assurance of being is derived from this awareness.
-From this, we can create the most clear and conclusive dilemma:
-We never remember any idea or impression without attributing existence to it.
+All the impressions or ideas that we are aware of exist. 
+
+ <!-- that we have any awareness or memory of, are existent. -->
+
+Their existence is caused by our awareness of them.
+
+<!-- The most perfect idea and assurance of being is derived from this awareness. -->
+
+<!-- From this, we can create the most clear and conclusive dilemma: -->
+
+<!-- We never remember any idea or  without  -->
+
+We attribute existence to the ideas and impressions that we remember.
 
 Therefore, the idea of existence must be:
 - derived from a distinct impression, conjoined with every perception or object of our thought, or
@@ -37,42 +46,52 @@ But we quickly find that they:
 - allow a separation, and
 - can be presented apart.
 
+
 Every impression and idea that we remember is existent.
 
 But that idea of existence is not derived from any impression.
 
-Therfore, the idea of existence is the very same with the idea of whatever we conceive to exist.
+**Therfore, the idea of existence is the very same with the idea of whatever we conceive to exist.**
 
-Simply reflecting on anything, and reflecting on it as existing, is the same.
-The idea of existence, when conjoined with the idea of any object, does not add to it.
+The following are the same:
+- thinking of something
+- thinking of something as existing
+
+<!-- The idea of existence, when conjoined with the idea of any object, does not add to it.
+
 Whatever we conceive, we conceive to exist.
+
 Any idea we form is the idea of a being.
+
 The idea of a being is any idea we form.
 
 Whoever opposes this, must:
 - point out that distinct impression from which the idea of entity is derived, and
 - prove that this impression is inseparable from every perception that we believe to exist.
 
-This is impossible.
+This is impossible. -->
 
-Our reasoning in Part 1, Section 7 about the distinction of ideas without any real difference does not apply here.
 
-That kind of distinction is founded on the different resemblances, which the same simple idea may have to other ideas.
+The distinction of ideas without any real difference (Part 1, Section 7) does not apply here.
+
+That kind of distinction is founded on the different resemblances which the same simple idea may have to other ideas.
+
 Every object that is presented, must necessarily exist.
 
 Therefore no object can be presented to resemble the existence of an object, but different from the existence of other objects.
 
 A similar reasoning will account for the idea of external existence.
 
-Nothing is ever really present with the mind, but its perceptions or impressions and ideas.
 
-External objects become known to us only by those perceptions they occasion.
+Only the mind's perceptions or impressions and ideas are present in the mind.
+
+External objects become known to us only by those perceptions they produce.
 
 To hate, love, think, feel, see, are all nothing but to perceive.
 
-It is impossible for us to conceive or create an idea of anything different from ideas and impressions since:
+<!-- It is impossible for us to conceive or create an idea of anything different from ideas and impressions since:
 - nothing is ever present to the mind but perceptions, and
-- all ideas are derived from something antecedently present to the mind.
+- all ideas are derived from something antecedently present to the mind. -->
 
 Let us fix our attention out of ourselves.
 
