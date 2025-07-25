@@ -1,7 +1,7 @@
 ---
 heading: "Section 5c"
 title: "The Flow from One Idea to Another is Caused by Animal Spirits"
-weight: 10
+weight: 18
 c: "steelblue"
 description: "The Idea of Space is Just Made Up of Points"
 writer:

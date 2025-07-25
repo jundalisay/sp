@@ -1,7 +1,7 @@
 ---
 heading: "Section 6"
 title: "The Idea of Existence and External Existence"
-weight: 12
+weight: 24
 c: "steelblue"
 description: "The Idea of Space is Just Made Up of Points"
 writer:

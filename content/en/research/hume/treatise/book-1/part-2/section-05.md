@@ -1,7 +1,7 @@
 ---
 heading: "Section 5"
 title: "Darkness is not space. It is just the Negation of Light"
-weight: 10
+weight: 14
 c: "steelblue"
 description: "The Idea of Space is Just Made Up of Points"
 writer:

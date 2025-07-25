@@ -130,11 +130,11 @@ This is further consistent with the James Webb Space Telescope that found very d
 
 In Cartesian Physics, the independence of the spacetime slices proves that the universe is subjective.
 
-This subjectiveness depends on the aether or 5th Element which works mainly through the aetherspace which binds spacetime, either keeping it static or allowing it to expand. 
+This subjectiveness depends on the aether or 5th Element which works mainly through the aetherspace which binds spacetime, either keeping it static or allowing it to expand.
 
-The "age" of the universe then depends on this static or expanding state.  
+So the "age" of the universe then depends on this static or expanding state.  
 
-Since the aether is the substance of mind, and since it controls the aetherspace which then controls space and time, then it means that **the universe has no single starting point other than the mind that is perceiving that universe**. 
+Since the aether is the substance of mind, and since it controls the aetherspace which then controls space and time, then it means that **the universe has no single starting point other than the mind that is perceiving that universe.**. 
 
 
 <!-- With this idea, we can account for the "age of the universe" asserted by Modern Physics:   -->
@@ -149,24 +149,24 @@ And so the debunking the Big Bang also debunks Relativity and paves the way for 
 
 
 - If the James Web Telescope teleported to another galaxy, it would see the same even distribution of galaxies. It would then recompute the age of the universe based on the perspective of that galaxy and find that the age is different. This would prove Descartes correct that the age and size of the universe is indefinite. 
-- If it positioned itself at the edge of the known universe and tried to teleport beyond the edge, it would merely go to another nearly-exact universe and not go into a Void
+- If it positioned itself at the edge of the known universe and tried to teleport beyond the edge, it would merely "expand" the universe by exposing a new area of it.
 
 
 Therefore, **the age of a universe depends on the star, galaxy, or layer where the perceiving mind is.** 
 
-- Humans are on the Material Layer, as material creatures, going onto the Convertible and Radiant (Electromagnetic) Layers. From this layer, the universe is 13.8 billion years old. 
+- When humans were cavemen, their aetherspace was in lower 4th density in the Material Layer making them **not care** about the age of universe. At this point, the edge of the universe (spatial internal boundary) was set by their eyes. 
 
-The emergence of the Cosmic Microwave Background (CMB) is the birth of the Radiance (Electromagnetism) of our sector. **It is not the start of the universe.**   
+- When humans developed their aetherspace (as mentality) as to create telescopes to see the expansion of the universe, they upgraded their aetherspace so that they could think that the universe as being 13.8 billion years "old" relative to the edge of the universe, not the start of the universe. This edge was expanded by telescopes which aided their imagination or mentality. 
 
-- But from a mind or species that is in the Radiant (Electromagnetic) Layer, such as creatures made up of photons instead of atoms, the universe is just a few 'years' old.
+- But from a mind or species that is in 5th density in the Radiant Layer and are made up of photons instead of atoms, the universe is just a few 'light-years' old.
 
-- From a species in the spacetime layer, the universe is a few 'days' old. 
+- From a species in 6th density as the Spatial layer, the universe is a few 'days' old. 
 
-- From a species in the aethereal layer, the universe is a few 'seconds' old and even instantaneous. This is because the aethereal layer is closest to the non-layer which we call 'probabilty'. Moreover, it is also above spacetime, making time irrelevant. This then makes questions of age or timespan irrelevant.  
+- From a species in the 7th density or the aethereal layer, the universe is a few 'seconds' old and even instantaneous. This is because the aethereal layer is closest to the non-layer which we call 'probabilty'. Moreover, it is also above spacetime, making time irrelevant. This then makes questions of age or timespan irrelevant.  
 
 
 > The age of a universe depends on the star, galaxy, or layer where the perceiving mind is
 
 The layer that the mind occupies then depends on the strength of [the Negative Force](/superphysics/principles/chapter-03e/) on it.
 
-As material creatures, the human species has a lot of Negativity within it, as well as other material animals and plants. This negativity manifests as the conflicts, recessions, inequality, stress from working for money, and other kinds of suffering that seems inseparable from human nature. Even plants and animals have to struggle to survive, proving the confinement of the Negative on them. 
+<!-- As material creatures, the human species has a lot of Negativity within it, as well as other material animals and plants. This negativity manifests as the conflicts, recessions, inequality, stress from working for money, and other kinds of suffering that seems inseparable from human nature. Even plants and animals have to struggle to survive, proving the confinement of the Negative on them.  -->

@@ -1,7 +1,7 @@
 ---
 heading: "Section 5d"
-title: "The Flow from One Idea to Another is Caused by Animal Spirits"
-weight: 10
+title: "Objections by Mathematicians"
+weight: 20
 c: "steelblue"
 description: "The Idea of Space is Just Made Up of Points"
 writer:
@@ -109,45 +109,47 @@ Newtonian philosophy is suitable for those who:
 - a fair confession of ignorance in subjects that exceed all human capacity.
 
 
+## Time is Inherent in Our Minds
 
-The foregoing reasoning will explain a paradox: if 'vacuum' is the name of the invisible and intangible distance, then space and matter are the same.
+The paradox is: 
 
-Yet there is a vacuum.
+"if 'vacuum' is the name of the invisible and intangible distance, then space and matter are the same. Yet there is a vacuum. If the invisible and intangible distance is called a 'plenum', then motion is possible in a plenum without any impulse to infinity, without penetration and without returning in a circle."
 
-If you do not call the invisible and intangible distance as a 'vacuum', then motion is possible in a plenum without any impulse to infinity, without penetration and without returning in a circle.
+I answer that we only have an idea of real space if we:
+- fill it with sensible objects, and
+- conceive its parts as visible or tangible.
 
-We must always confess that we have no idea of any real space without:
-- filling it with sensible objects, and
-- conceiving its parts as visible or tangible.
+My doctrine is that time is nothing but how some real objects exist.
+- This is liable to the same objections as my similar doctrine on space.
 
-The doctrine, that time is nothing but how some real objects exist, is liable to the same objections as the similar doctrine on space.
+If thinking of space gives us the idea of a vacuum, then we must also get the idea of time without any change, since we think of time most commonly.
 
-If we have the idea of a vacuum because we reason on it, we must also have the idea of time without any changeable existence, since time is the most frequent and common subject of dispute.
+<!-- is the most frequent and common subject of dispute. -->
 
 But we really have no such idea.
 
-Where should we derive time from?
+Where do we get the idea of time from?
 
 Does it arise from an impression of sensation or reflection?
 
-Point it out distinctly to us, that we may know its nature and qualities.
+<!-- Point it out distinctly to us, that we may know its nature and qualities.
 
-But if you cannot point it out, you are certainly mistaken when you imagine you have any such idea.
+But if you cannot point it out, you are certainly mistaken when you imagine you have any such idea. -->
 
-It is impossible for an unchangeable object to give us an impression from which we get the idea of time.
+It is impossible for an unchangeable object to give us a perception of time. 
 
-But we can easily point out the successive appearances of such an unchanging object which then make us imagine that we have the idea of time.
+<!-- impression from which we get the idea of time. -->
+
+In reality, it is the successive instances of the unchanging object in our minds that gives us the perception of time. 
+
+ <!-- which then make us imagine that we have the idea of time. -->
 
 There is a continual succession of perceptions in our mind.
-
-The idea of time is forever present with us.
+- The idea of time is forever present with us.
 
 If we think of an unchanging object now and then 5 seconds later, the object appears twice in our minds.
+- This makes us impose the fictitious idea of time on that object in the same way as if the object had changed between those 2 instances.
 
-This makes us impose the fictitious idea of time on that object in the same way as if the object had changed between those two appearances.
+The more instances the unchanging object has in our minds, the more of the fictitious time we assign to it.
 
-The more appearances the unchanging object has in our minds, the more of the fictitious time we assign to it.
-
-These relations confound our ideas and make us imagine that we can create an idea of time without any change.*
-
-{{< n n="Hume is keen to separate spacetime from electromagnetism and matter, but is unable to prove space particles as Descartes had done" }}
+These relations confound our ideas and make us imagine that we can create an idea of time without any change.

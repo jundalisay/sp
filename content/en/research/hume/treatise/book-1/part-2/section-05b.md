@@ -1,7 +1,7 @@
 ---
 heading: "Section 5b"
 title: "More Objections"
-weight: 10
+weight: 16
 c: "steelblue"
 description: "The Idea of Space is Just Made Up of Points"
 writer:

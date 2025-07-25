@@ -144,3 +144,4 @@ If, therefore, by means of thought, one wishes to attempt to retrace the course 
 The initial condition must be a state of maximum concentration. it was in trying to formulate this condition that the idea of the primeval atom was germinated. 
 
 Who knows if the evolution of theories of the nucleus will not, some day, permit the consideration of the primeval atom as a single quantum?
+

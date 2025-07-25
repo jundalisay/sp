@@ -21,9 +21,7 @@ What's wrong with Physics? It already works
 {{< /r >}}
 
 {{< l a="Material Superphysics" >}}
-It's incomplete. This is because it began with Newton who started from the lowest Element as matter (mass). Then, latter physicists groped their way upwards to Electromagnetism (light). 
-
-The big problem for Physics is that 2 of the 5 Elements are non-physical -- spacetime and the aether.
+It's messy and incomplete. This is because it began with Newton who started from the lowest Element as matter (mass). Then, latter physicists groped their way upwards to Electromagnetism (light). In constrast, Descartes and Asian Physics started from the complete version of the Universe. This led them into the 5 Elements model which is complete, and includes the 2 non-physical Elements missing in Physics -- spacetime and the aether.. 
 {{< /l >}}
 
 
@@ -70,9 +68,9 @@ What's the aether? How is it different from the ether of 19th century Physics?
 
 
 {{< l a="Material Superphysics" >}}
-The 19th century aether was the luminiferous aether of Fresnel, which is different from the original aether of Descartes and the ancient Greeks.
+The 19th century aether was from Huygens which was the 2nd Element of Descartes. It was wrongly interpreted by Fresnel to be static. The Michelson-Morley experiment debunked the staticity of the aether since it was done all at sea level. The proper test would be to put one detector at sea level and another in orbit. This would have exposed time dilation which is the drag of the 2nd Element on matter (3rd Element).
 
-The original pure aether is the substance of ideas and the abstract mind or soul that has those ideas. These then generates reality, as matter and light, in real-time. This was explained by George Berkeley:
+The 2nd Element is different from the original pure aether which is the substance of ideas and the abstract mind or soul that has those ideas. These then generates reality, as matter and light, in real-time. This was explained by George Berkeley:
 {{< /l >}}
 
 
@@ -87,9 +85,9 @@ So the universe is just inside our minds?
 
 
 {{< l a="Material Superphysics" >}}
-Yes! More correctly, the universe is a projection of our own minds, based on how it's programmed -- change your programming or belief and reality changes too.
+Yes! More correctly, the universe is a projection of our own minds, based on how it's programmed -- change your programming or belief and reality changes too. The physical universe is based on the **configuration** of our metaphysical minds, as Descartes' mind-body problem.
 
-The physical universe is based on the **configuration** of our metaphysical minds, as Descartes' mind-body problem.
+This is proven by the changing "age" of the universe and the changing cosmological constant which are really subjective depending on the changing mentality of humans.  
 {{< /l >}}
 
 
@@ -111,16 +109,13 @@ How can it solve quantum gravity and dark matter and the cosmology crisis, etc?
 {{< /r >}}
 
 {{< l a="Material Superphysics" >}}
-First of all, anti-gravity, as telekinesis was already documented in ancient and medieval times outside of Europe. For example, levitating monks, weather control, and floating water (as splitting of the Red Sea) have been documented. 
+Gravity and anti-gravity, as telekinesis, were already documented in ancient and medieval times outside of Europe. For example, levitating monks, weather control, and floating water (as splitting of the Red Sea) have been documented. 
 {{< /l >}}
 
 
 {{< q a="Marco Polo" c="The Travels of Marco Polo, Volume 1, Book 1, Chapter 61" >}}
-When the Great Khan is at his great Palace, seated at his table, his cups are set before him in the middle of the hall 10 paces from his table. When he wants to drink, enchanters by the power of their enchantments cause the cups to move from their place without being touched by anybody, and to present themselves to him!
-
-This everyone present may witness. There are often times more than 10,000 persons thus present. ’Tis a truth and no lie! and so will tell you the sages of our own country who understand necromancy, for they also can perform it.
+When the Great Khan is at his great Palace, seated at his table, his cups are set before him in the middle of the hall 10 paces from his table. When he wants to drink, enchanters by the power of their enchantments cause the cups to move from their place without being touched by anybody, and to present themselves to him! This everyone present may witness. There are often times more than 10,000 persons thus present. ’Tis a truth and no lie! and so will tell you the sages of our own country who understand necromancy, for they also can perform it.
 {{< /q >}}
-
 
 
 {{< l a="Material Superphysics" >}}
@@ -135,7 +130,6 @@ These then lead to new technologies such as for levitation, teleportation, nucle
 
 
 {{< youtube 7o5cXV7tDVA >}}
-
 
 
 
@@ -160,7 +154,6 @@ Instead, Physics uses expensive hadron colliders and space telescopes to test gr
 {{< r a="Asker" >}}
 Why do physicists keep on smashing atoms uselessly? They even have plans to make bigger and bigger colliders!
 {{< /r >}}
-
 
 
 {{< l a="Material Superphysics" >}}
@@ -216,9 +209,13 @@ What's the status of Material Superphysics now?
 {{< l a="Material Superphysics" >}}
 We already finished our prelevitation experiments using home equipment during the pandemic. Prelevitation is making things lighter without actually levitating.
 
-However, we don't have the expensive equipment needed to make it levitate. To get those resources, we are slowly building up the moneyless system of Superpeconomics. This is because Material Superphysics proposes so many inventions. Relying on money won't be sustainable because money is static and always needs returns. By going moneyless, we can sustain the dynamism of resource gathering.
+However, we don't have the expensive equipment needed to make it levitate. We tried to get a grant but universities didn't know about Cartesian Physics.  
+
+So to get those resources ourselves, we are slowly building up the moneyless system of Superpeconomics. This is because Material Superphysics proposes so many inventions. Relying on money won't be sustainable because money is static and always needs returns. By going moneyless, we can sustain the dynamism of resource gathering.
 
 Our experiments have helped us understand the nature of the aether better. This is essential for Bio Superphysics which taps the aethereal animal spirits of Rene Descartes.
+
+So our failure to get a grant to improve Material Superphysics funneled us into using its principles for Bio Superphysics since we can experiment with ourselves (i.e. use the physics of Cartesian animal spirits to solve a fever or make healing faster).  
 {{< /l >}}
 
 
@@ -228,7 +225,7 @@ Cool. You are using the moneyless system of Adam Smith to support the aether-bas
 {{< /r >}}
 
 {{< l a="Material Superphysics" >}}
-Yes. This is the really cool thing about Descartes. He explained how everything works, whether physical, biological, medical, or psychological.
+Yes. This is the really cool thing about Descartes. He explained how everything works, whether physical, biological, medical, or psychological. So there are many avenues to go through if you get stuck at one. 
 
 Ideally, Newton should have built his Physics on top of Descartes' instead of totally replacing it. We are only against Einstein, not Newton who correctly believed that gravity comes from Spirit.  
 {{< /l >}}

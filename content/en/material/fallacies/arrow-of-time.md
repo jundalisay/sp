@@ -19,13 +19,21 @@ The Arrow of Time is a non-problem arising from the difference between:
 
 Physicists ask why time only moves forward when, mathematically, it is possible to have time mmove both forward and backward.
 
-Time moving forward is proven in the real world by entropy which increases in 'disorder' e.g. We can never uncook an egg.
+Time moving forward is proven in the real world by entropy which we call "radiance" that "radiates" or increases in 'disorder' e.g. We can never uncook an egg after its molecules have spread or radiated out.
 
 But why doesn't time move backwards?
 
-We answer that this is because time is a mental phenomena arising from perception as opposed to forgetting.
+We answer that this is because time is a mental phenomena arising from perception, as opposed to forgetting. 
+- Perception is a forward movement of the mind.
+- Forgetting or deleting is a backward movement. 
 
-To ask why the mind perceives is to ask why we exist. And so it is a non problem because existence is just is and cannot be anything else. 
+
+{{< q a="David Hume" c="Treatise of Human Nature, Book 1 Part 2 Section 5" >}}
+In reality, it is the successive instances of the unchanging object in our minds that gives us the perception of time. There is a continual succession of perceptions in our mind. The idea of time is forever present with us.
+{{< /q >}}
+
+
+To ask why the mind perceives and moves forward is to ask why we exist. And so it is a non problem because existence is just is and cannot be anything else. 
 
 
 ## The Start of the (Non) Problem
@@ -94,6 +102,12 @@ This corrupted the definition of time by making the 2 other times as electromagn
 **The arrow of time problem actually begins when mathematicians think about it.** This action confounds *physical* changes as physical time with *mental* time.
 
 This then leads to the notion of 'emergent time'. This is the exact sign that physical time and mental time have been mixed up by some mathematician or physicist who has nothing better to do.
+
+
+{{< q a="David Hume" c="Treatise of Human Nature, Book 1 Part 2 Section 5" >}}
+If thinking of space gives us the idea of a vacuum, then we must also get the idea of time by thinking of instances, since we think of time most commonly.
+{{< /q >}}
+
 
 The confusion is seen in the **quantum eraser experiment** where entangled particles are thought to change the past observations. But later this was clarified to be a false interpretation only -- the experimenters were claiming retrocausality when what really happened was merely the randomness from interference and non-interference.  
 
