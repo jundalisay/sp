@@ -12,9 +12,7 @@ draft: true
 ---
 
 
-A massive interacting galaxy 510 million years after the Big Bang
-
-Kristan Boyett1,2*, Michele Trenti1,2*, Nicha
+<!-- Kristan Boyett1,2*, Michele Trenti1,2*, Nicha
 Leethochawalit3
 , Antonello Calabr´o4
 , Benjamin
@@ -39,7 +37,7 @@ Paris4
 Marchesini18, Sara Mascia4
 , Karl Glazebrook13, Laura
 Pentericci4
-, Eros Vanzella19 and Benedetta Vulcani20
+, Eros Vanzella19 and Benedetta Vulcani20 -->
 
 <!-- *Corresponding author(s). E-mail(s): kit.boyett@unimelb.edu.au;
 michele.trenti@unimelb.edu.au; -->
@@ -61,8 +59,11 @@ with an estimated stellar mass of (1.6
 ) × 109 M⊙, forming 19+5
 −6
 Solar masses per year and with a metallicity of about one tenth of
-Solar. The system has a morphology typically associated to two interacting galaxies, with a two-component main clump of very young stars
+Solar. 
+
+The system has a morphology typically associated to two interacting galaxies, with a two-component main clump of very young stars
 (age less than 10 million years) surrounded by an extended stellar population (120 ± 20 million years old, identified from modeling of the
+
 
 4 A massive interacting galaxy 510 million years after the Big Bang
 NIRSpec spectrum) and an elongated clumpy tidal tail. The observations
@@ -77,15 +78,16 @@ massive galaxies with several billion stars are in place at early times.
 
 
 
-1 Main
+## Main
 
 The first generations of stars and galaxies in the Universe formed in physical
 conditions different to those of the modern Universe. In fact, gas is expected
 to have nearly primordial composition, with low levels of chemical enrichment
 and dust content (e.g., [1]). Gas cooling is further limited by the higher Cosmic
 Microwave Background radiation, possibly altering the characteristic fragmentation mass of protostellar clouds [2]. In addition, early forming galaxies are
-expected to experience an elevated merger rate [3], affecting their morphology
+expected to experience an eleated merger rate [3], affecting their morphology
 and stellar populations.
+
 Hubble Space Telescope observations have been able to identify galaxy
 candidates at redshift z ∼ 8−11 (∼ 600−400 million years after the Big Bang;
 e.g. see [4]), and follow-up with the Spitzer Space Telescope provided evidence
@@ -93,6 +95,7 @@ of relatively old stellar populations, suggesting that star formation started at
 z > 15 [5, 6]. Yet, comparison to theoretical and numerical modeling has been
 restricted to number counts and luminosity functions by the limited angular
 resolution and dearth of spectroscopic data.
+
 With JWST commencing science operations in July 2022, progress has
 been rapid and transformational. Already in the first Cycle of science programs, JWST has built a convincing sample of z > 10 candidates based
 on NIRCam photometry [7–13], and a growing number of sources at z ≳ 8
@@ -114,6 +117,7 @@ The spatial resolution of JWST also means the resolved stellar populations
 of galaxies in the epoch of reionization can be studied as well, revealing that
 these systems, once considered compact with HST, exhibit spatial variations
 in their physical properties [44–46].
+
 In this work we extend the frontier of detailed investigations of individual
 galaxy properties at very high redshift by reporting on imaging and spectroscopic observations of one of the brightest among the galaxy candidates at
 z ≳ 9 observed with JWST, with flux ∼ 0.35 µJy in F444W (corresponding to mAB ∼ 25.0). These observations include 6-band NIRCam imaging
@@ -122,11 +126,13 @@ Data Table 1,) and NIRSpec high resolution (R ∼ 2700) Multi-object Spectroscop
 identified as a potential F105W or F125W dropout based on HST observations,
 and then confirmed as a NIRCam F115W drop-out with a probable z ∼ 9.45
 redshift [47].
+
 The NIRSpec data we use are part of the GLASS-JWST program ERS-1324
 [48] centered on the foreground galaxy cluster Abell 2744, which is gravitationally lensing the high-redshift background sources. Gz9p3 is located in the
 outskirts of the cluster and relatively far away from high-magnification regions,
 with a best estimate of the lensing magnification µ = 1.66±0.02 based on [49]
 (see 2.3).
+
 The JWST photometry for Gz9p3 is shown in the top panel of Figure
 1. The source has a magnification-corrected apparent AB magnitude mAB =
 25.56±0.06 in F444W, which for the cosmology adopted in this paper (see 2.1)
@@ -173,6 +179,7 @@ and MUV = −21.66 ± 0.03. (These are statistical
 uncertainties from photometric errors only). This makes Gz9p3 one of the most
 massive and intrinsically brightest galaxies confirmed in the epoch of reionization, and the brightest and most massive at z > 9 (see Figure 2 for a census
 for high-redshift spectroscopically confirmed galaxies). Even when compared
+
 
 A massive interacting galaxy 510 million years after the Big Bang 7
 6 7 8 9 10 11 12 13
@@ -241,7 +248,9 @@ GNZ11
 CEERS2_588
 Maisie's galaxy
 CEERS_35590 MACS0647-JD CEERS2_7929
+
 Fig. 2 Census of MUV and stellar mass in high-redshift galaxies. Left: Absolute UV
+
 magnitude of galaxies spectroscopically confirmed with JWST, corrected for lensing magnification where appropriate. Right: Stellar Mass (log10(M∗/M⊙)) distribution of confirmed
 galaxies, corrected for magnification where appropriate. Error bars derive from the measured mass or MUV of individual galaxies. In both panels, the point shape represents the
 resolution mode of the NIRSpec spectroscopy (low-resolution prism: circles; Medium resolution: squares; High resolution: diamonds and star). A black central dot marker indicates the
@@ -276,7 +285,9 @@ thanks to our high spectral resolution (Figure 1), measuring a line ratio of
 −0.18 (see 2.7). The relative strength of these low-ionization lines is sensitive to the electron number density ne [52], leading to a measurement of
 ne = 590+570
 −250cm−3
-. This is marginally higher (at ≳ 1σ) than the median values of ne = 225cm−3
+. 
+
+This is marginally higher (at ≳ 1σ) than the median values of ne = 225cm−3
 seen in galaxies at z = 2.3, and ne = 26cm−3
 seen in
 local galaxies [52], qualitatively following the trend of ne increasing with redshift as reported in that study. From the spectrum we determine a Ne3O2
@@ -291,17 +302,24 @@ parameter, exhibiting similar properties to other galaxies spectroscopically
 confirmed at zspec > 8 [19, 20, 22, 32–34, 36]. The ISM conditions are consistent
 with expectations from the young stellar ages derived from SED fitting, providing a self-consistent picture of the stellar populations and their surrounding
 gas.
+
 In Figure 3, the large stellar mass and low oxygen abundance place Gz9p3
 below the mass-metallicity relations for z = 4 − 9 derived by [58], and
 marginally below the relation for z = 2 − 4 galaxies from [56, 59], even
 though systematic uncertainty may affect the robustness of these conclusions
-(see 2.7.2). The offset suggests Gz9p3 has a high gas fraction and potentially
+(see 2.7.2). 
+
+
+The offset suggests Gz9p3 has a high gas fraction and potentially
 high accretion rates of pristine gas. This is qualitatively consistent with expectations from theoretical and numerical modeling of galaxies at these early
 times, given the short assembly times of their dark-matter halos [60].
+
 Further insight into the stellar populations of Gz9p3 is offered by the detection - albeit at low confidence - of UV absorption lines, shown in Extended
 Data Figure 4. The spectrum shows a flux deficit associated with the SiIIλ1260,
 CIIλ1335 and FeIIλ2344 lines at a > 4σ significance individually, and at > 6σ
-when the lines are stacked together (see 2.7.7). The detection of metal absorption features reinforces the evidence from emission lines that the gas within
+when the lines are stacked together (see 2.7.7). 
+
+The detection of metal absorption features reinforces the evidence from emission lines that the gas within
 the galaxy is not pristine and has been enriched by the older stellar population, again providing a consistent interpretation of the relatively evolved stellar
 ages inferred from SED modeling for the core of the galaxy where the slit is
 placed. The multi-component absorption profile hinted by the data suggests
@@ -341,7 +359,9 @@ Maiolino+08
 Andrews+13
 Sanders+21
 Nakajima+23
+
 This work
+
 Fig. 3 Location of Gz9p3 on the Mass metallicity relation. Gz9p3 is shown in black,
 where the error bar presents the random and systematic uncertainty in the metallicity, based
 on Ne3O2 diagnostic calibrations from [54–57, 90]. The figure includes a comparison to mass

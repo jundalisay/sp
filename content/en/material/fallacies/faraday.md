@@ -39,7 +39,7 @@ You would think that Maxwell would fix it by adding the concept of either [vorti
 Instead, Maxwell merely adds divergence and curl to the flux. His ignorance allows the scammer Einstein to offer a false explanation as Special Relativity.  
 
 
-### The Relativity Scam
+## The Relativity Scam
 
 Instead of simply combining moving electrons + virtual photons, this Relativity scam unites matter + electromagnetism. It mandates that everything is moving and mass-energy has equivalence
 

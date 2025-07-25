@@ -57,7 +57,7 @@ Therefore, the correct replacement to Newton and Einstein should:
 - work even without light (i.e. intellectually derived from patterns of data through space and time, not from a single visual observation)
 
 
-### Descartes to the Rescue 
+## Descartes to the Rescue 
 
 Before Einstein and Newton, Rene Descartes already explained how the universe worked through the 5 Elements which we can call as the true "Standard Model" of Physics in completed form. 
 

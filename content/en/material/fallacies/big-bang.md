@@ -98,7 +98,6 @@ The findings of the JWST matches findings of the CMB in the sense that the close
 - The blackbody spectrum of the CMB is from the dark energy (evidenced by lensing) in the nearby universe that operates between clusters
 - The CMB does not match the cosmic web because of the difference between light and heat particles. 
 
+The CMB, as a blackbody spectrum, proves that dark energy is the aetherspace which is the same in essence as the gluon field which Bob Lazar calls Gravity A waves. 
 
-
-
-
+This means that research should be put on the gluon field. The problem is that physicists smash atoms instead of probing or interrogating them because of the wrong belief that gravity comes **FROM** matter instead of **THROUGH** it.

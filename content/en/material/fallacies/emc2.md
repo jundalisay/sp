@@ -73,11 +73,16 @@ This leads to wrong statements like "The Higgs field gives mass to particles". I
 
 ## Solution: E::pc^2
 
-The proper equation should therefore really be `E=pc^2` where `p` is the electromagnetic potential of a particle that has a high ratio of qor1 (Cartesian 1st Element) over qom1 (Cartesian 3rd Element).
+The proper equation should therefore really be `E=pc^2` where `p` is the electromagnetic potential (radiant spin) of a particle in an electromagnetic field within the limits of the radiant layer (max ratio of radiance to spacetime) in general.
 
-In this way, electromagnetic potential (1st Element in Cartesian Physics) is separated from mass (3rd Element).
+ <!-- that has a high ratio of qor1 (Cartesian 1st Element) over qom1 (Cartesian 3rd Element). -->
 
-All of Einstein's theories will then be falsified by using the aether or 5th Element to levitate without creating any warping, or teleporting without using so much energy. 
+This would make it consistent with the Planck relation `E=hf` where `h` is the ratio of timespace to aetherspace and `f` is the ratio of aetherspace to spacetime. 
+
+In this way, electromagnetic potential (1st Element in Cartesian Physics) is separated from mass (3rd Element) such as `F=mg` where `m` is the ratio of matter and spacetime in a body within the limits of the ratio of matter and spacetime in general. 
+
+
+All of Einstein's theories will then be falsified in reality by using the aether or 5th Element to levitate without creating any warping, or teleporting without using so much energy. 
 
 
 

@@ -24,7 +24,7 @@ Rank | Damage | Reason
 
 
 
-### The Einstein Scam
+## The Einstein Scam
 
 The whole Einstein scam began in 1905 when he pushed the simultaneity of time. This crudified time, a mental effect, into a light-effect, measured by c. 
 
@@ -70,7 +70,7 @@ It's better to have done nothing for 100 years rather than work so hard and wast
 > It’s better to have done nothing for 100 years rather than work so hard to achieve the same nothing.
 
 
-### Kant (and Mathematics) is to Blame
+## Kant (and Mathematics) is to Blame
 
 But the fallacy of Einstein is really just a follower of Kant, who is the real factory of fallacy. 
 
@@ -136,7 +136,7 @@ Cartesian Physics explains that the speed of light is from the constriction of t
 > Einstein never explained *why* light has the speed of c
 
 
-### Mathematics and Logic are just Tools
+## Mathematics and Logic are Just Tools
 
 Mathematics and Logic are just tools used by the mind to connect its nature with that of physical nature. 
 
