@@ -21,9 +21,9 @@ But when we apply them, our fallible faculties depart from them and make mistake
 So we must:
 - create a new judgment to check our initial belief, and
 - enlarge our view to comprehend the history of all the instances when our understanding has deceived us.
-- Our reason is a kind of cause.
 
-The truth is its natural effect.
+Our reason is a kind of cause.
+- The truth is its natural effect.
 
 But the truth is frequently prevented by:
 - the bursting in of other causes, and
@@ -32,22 +32,24 @@ But the truth is frequently prevented by:
 Through this, all knowledge degenerates into probability.
 
 This probability depends on:
-- our experience of our understanding, and
+- the experience of our understanding, and
 - the simplicity or intricacy of the question.
 
 No mathematician will:
-- place an entire confidence in any truth immediately on its discovery, or
+- be totally confident of any truth immediately on its discovery, or
 - regard any truth as anything but a probability.
 
 His confidence:
 - increases each time his friends approve of his proofs, and
-- increases to perfection by the universal assent of the learned world.
+- increases to perfection by the assent of the learned world.
 
-This gradual increase of assurance is:
-- nothing but the addition of new probabilities, and
-- derived from the constant union of causes and effects, according to past experience.
+This gradual increase of assurance is the addition of new probabilities.
+- It is derived from the constant union of causes and effects, according to past experience.
 
-Merchants seldom trust the infallible certainty of numbers in any important and long business computation.
+
+## Artificial Systems like Accounting to Increase Certainty
+
+In important and long business computations, merchants seldom trust the infallible certainty of numbers.
 - To solve this, they use the the artificial structure of the accounting.
 
 Accounting creates a decent probability of the correct computation that is beyond the accountant's skill and experience.
@@ -77,7 +79,6 @@ They must be entirely present or entirely absent because they will not divide.
 If any single addition were certain, every other addition would be certain.
 
 Consequently, the total sum would be certain unless the whole can be different from all its parts.
-
 
 Addition could be made certain by reducing the numbers.
 - But that addition must reduce itself, as well as every other reasoning.

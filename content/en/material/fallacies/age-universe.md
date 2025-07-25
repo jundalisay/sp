@@ -43,7 +43,7 @@ Such assumptions were destroyed by the findings of:
 - **DESI** detecting variations in the acceleration of the expansion of space
 
 
-## The Cause of the Error: The Religion of Physics
+## The Cause of the Error: The Wrong Assumptions of Physics
 
 The corrupted assumptions of Physics, just like the corrupted ones of Economics, create theoretical absurdities that lead to real problems.
 
@@ -103,17 +103,70 @@ The sponge universe has always existed and does not have a material start.
 
 Instead of a material singularity, the matter in the universe comes from the energy of space. This is proven by quarks that emerge out of space as a result of excessive imposition of energy.
 
-The expansion is caused by 'dark energy' which comes from all over space, as proven by baryonic acoustic oscillations (BAOs), as bubble which pop up everywhere. 
+The expansion is caused by 'dark energy' which we call the aetherspace which binds spacetime. 
+- These are bubbles that pop up everywhere and manifests as baryonic acoustic oscillations (BAOs).  
+- Bob Lazar calls them as Gravity-A waves
+
+<!-- All of these point to the substance called the **aetherspace** which binds the cosmic web and creating the expansion of space. This aetherspace is called Gravity A by Bob Lazar, as opposed to Gravity B.  -->
+
+This aetherspace facilitates both large-scale phenomena as well as quantum effects, unifying Classical and Quantum Mechanics.
+
 
 {{< i s="/photos/physics/bao.jpg" a="BAOs" >}}
 
 
-## The CMB as External Galaxies in an Expanding Infinite Universe
+## The CMB as local heat of cluster/s
 
-The Cosmic Microwave Background (CMB) is the radiation from galaxies that are beyond our observable universe. These come from their material heat, and not from the heat of a 'Big Bang'. 
+The Cosmic Microwave Background (CMB) is the radiation from galaxies within or near our galactic cluster. This is because heat particles have a shorter range than light particles because they are larger. 
 
-This means that those very distant galaxies are not ancient, but rather just very distant. This is why Jamwes Webb saw large galaxies at the farthest distances that it could detect.
+The Hubble Tension is the difference in the expansion speed of the universe measured through red shift at 73 kilometers per second per megaparsec (measured by James Webb) and through the CMB at 67 (measured by Planck Satellite). 
 
-All of these point to the substance called the **aetherspace** which binds the cosmic web and creating the expansion of space. This aetherspace is called Gravity A by Bob Lazar, as opposed to Gravity B. 
+This matches the findings of DESI that shows expansion is faster in the distant universe which Physics wrongly interprets as going back in time!
 
-This aetherspace facilitates both large-scale phenomena as well as quantum effects, unifying Classical and Quantum Mechanics.
+This is further consistent with the James Webb Space Telescope that found very distant galaxies already well-formed. This proves that those very distant galaxies are not ancient, but rather just very distant.
+
+
+## The Age of the Subjective Universe
+
+In Cartesian Physics, the independence of the spacetime slices proves that the universe is subjective.
+
+This subjectiveness depends on the aether or 5th Element which works mainly through the aetherspace which binds spacetime, either keeping it static or allowing it to expand. 
+
+The "age" of the universe then depends on this static or expanding state.  
+
+Since the aether is the substance of mind, and since it controls the aetherspace which then controls space and time, then it means that **the universe has no single starting point other than the mind that is perceiving that universe**. 
+
+
+<!-- With this idea, we can account for the "age of the universe" asserted by Modern Physics:   -->
+
+<!-- While the fallacy of a birthday of the universe is a consequence of religion, the mix up of time and 
+
+The fallacy of distance being age is a necessary consequence of Einstein's Relativity which is based on the false idea of the Simultaneity of Time which uses the constancy of the speed of light as the measure for both space and time. 
+
+And so the debunking the Big Bang also debunks Relativity and paves the way for Decartes' alternative explanation of an expanding sponge universe with Cartesian Relationality based on the 5 Elements that actually match the findings of DESI, James Webb, and Plack Satellite of an infinite, indefinite expanding universe.
+ -->
+
+
+
+- If the James Web Telescope teleported to another galaxy, it would see the same even distribution of galaxies. It would then recompute the age of the universe based on the perspective of that galaxy and find that the age is different. This would prove Descartes correct that the age and size of the universe is indefinite. 
+- If it positioned itself at the edge of the known universe and tried to teleport beyond the edge, it would merely go to another nearly-exact universe and not go into a Void
+
+
+Therefore, **the age of a universe depends on the star, galaxy, or layer where the perceiving mind is.** 
+
+- Humans are on the Material Layer, as material creatures, going onto the Convertible and Radiant (Electromagnetic) Layers. From this layer, the universe is 13.8 billion years old. 
+
+The emergence of the Cosmic Microwave Background (CMB) is the birth of the Radiance (Electromagnetism) of our sector. **It is not the start of the universe.**   
+
+- But from a mind or species that is in the Radiant (Electromagnetic) Layer, such as creatures made up of photons instead of atoms, the universe is just a few 'years' old.
+
+- From a species in the spacetime layer, the universe is a few 'days' old. 
+
+- From a species in the aethereal layer, the universe is a few 'seconds' old and even instantaneous. This is because the aethereal layer is closest to the non-layer which we call 'probabilty'. Moreover, it is also above spacetime, making time irrelevant. This then makes questions of age or timespan irrelevant.  
+
+
+> The age of a universe depends on the star, galaxy, or layer where the perceiving mind is
+
+The layer that the mind occupies then depends on the strength of [the Negative Force](/superphysics/principles/chapter-03e/) on it.
+
+As material creatures, the human species has a lot of Negativity within it, as well as other material animals and plants. This negativity manifests as the conflicts, recessions, inequality, stress from working for money, and other kinds of suffering that seems inseparable from human nature. Even plants and animals have to struggle to survive, proving the confinement of the Negative on them. 

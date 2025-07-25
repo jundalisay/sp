@@ -13,27 +13,30 @@ icon: "David Hume"
 
 ## It is Easy to Give Rules, But Hard to Implement Them
 
-We cannot determine any object to be the cause of any other object without consulting experience.
+
+Experience is needed to know whether an object is the cause of another object.
 
 Anything can produce anything.
 
 Creation, annihilation, motion, reason, and volition may arise from one another, or from any other object that we can imagine.
 
-This will not appear strange if we compare two principles explained above, (Part 1, Section 5) that:
+<!-- This will not appear strange if we compare two principles explained above, (Part 1, Section 5) that:
 - the constant conjunction of objects determines their causation, and
-- no objects are contrary to each other but existence and non-existence.
+- no objects are contrary to each other but existence and non-existence. -->
 
-If objects are not contrary, nothing hinders them from having that constant conjunction which cause and effect totally depends on.
+If objects are not contrary, then they can have that constant conjunction which leads to cause and effect.
 
 It is possible for all objects to become causes or effects to each other.
 
-Thus, we can create some general rules for us to know if they are so.
+Thus, we can create some general rules for cause and effect.
 
-The cause and effect must be contiguous in space and time.
+ <!-- us to know if they are so. -->
 
-The cause must be prior to the effect.
+1. The cause and effect must be contiguous in space and time.
 
-There must be a constant union between the cause and effect.
+2. The cause must be prior to the effect.
+
+3. There must be a constant union between the cause and effect.
 
 Cause and effect are chiefly made up of constant union.
 
@@ -47,7 +50,9 @@ This is the source of most of our philosophical reasonings.
 
 When we have discovered the causes or effects of any phenomenon by experiment, we immediately extend our observation to every phenomenon of the same kind.
 
-We do not wait for that constant repetition, from which the first idea of this relation is derived.
+We do not wait for that constant repetition of the first idea.
+
+ <!-- of this relation is derived. -->
 
 Another principle hangs on this: that where different objects produce the same effect, it must be through some quality common among them.
 
@@ -55,14 +60,11 @@ Like effects imply like causes.
 
 We must always ascribe the causation to the circumstance, wherein we discover the resemblance.
 
-The following principle is founded on the same reason:
-
-The difference in the effects of two resembling objects must come from the qualities in which they differ.
-
+The following principle is founded on the same reason: The difference in the effects of two resembling objects must come from the qualities in which they differ.
 
 Like causes always produce like effects.
 
-When an instance of the effect fails, we conclude that such an irregularity comes from some difference in the causes.
+When an instance of the effect fails, then such an irregularity comes from some difference in the causes.
 
 When any object changes with the change of its cause, it is to be regarded as a compounded effect derived from the union of the several effects  arising from the several parts of the cause.
 
@@ -73,10 +75,10 @@ This constant conjunction sufficiently proves that the one part is the cause of 
 However, we must not draw such a conclusion from a few experiments.
 
 A certain degree of heat gives pleasure.
+- If you reduce that heat, the pleasure reduces.
 
-If you reduce that heat, the pleasure reduces.
-
-But it does not follow that if you augment it beyond a certain degree, the pleasure will likewise augment for we find that it degenerates into pain.
+But it does not follow that if you augment it beyond a certain degree, the pleasure will likewise augment.
+- We find that it degenerates into pain.
 
 An object which exists for any time in its full perfection without any effect, is not the sole cause of that effect.
 
@@ -84,11 +86,12 @@ It needs to be assisted by some other principle which may forward its influence 
 - like effects follow from like causes, and
 - in a contiguous time and place, their separation for a moment shows that these causes are incomplete.
 
-Here is all the logic to employ in my reasoning.
+
+<!-- Here is all the logic to employ in my reasoning.
 
 These could have been supplied by the natural principles of our understanding.
 
-The ability of our scholars and logicians to create rules to direct our philosophical judgements is not superior to those of ordinary people.
+The ability of our scholars and logicians to create rules to direct our philosophical judgements is not superior to those of ordinary people. -->
 
 All the rules of this nature are very easy to invent, but extremely difficult to apply.
 
@@ -117,8 +120,9 @@ Moral views and feelings that are essential to any action of the mind, are so im
 - are unaccountable in their causes, and
 - are unknown in their existence.
 
-I am afraid that the small successes in my inquiries will make this obesrvation more apologetic than proud.
+The small successes in my inquiries will make this observation more apologetic than proud.
 
-My only security is in the enlarging, as much as possible, of the sphere of my experiments.
+My only security is in the enlarging of the sphere of my experiments.
 
 This is why I will examine the reasoning faculty of animals, in the same way that I examined that of human creatures.
+

@@ -13,253 +13,388 @@ icon: "David Hume"
 
 ## Is the Perception of Existence from Our Senses, Reason, or Imagination?
 
-The skeptic still continues to reason even if he cannot defend his reason by reason.
+<!-- The skeptic still continues to reason even if he cannot defend his reason by reason.
 
 He must assent to the principle on the body's existence even though he cannot maintain its veracity by any philosophical arguments.
 
 Nature has:
 - not left this to his choice, and
-- not seen it too important to be trusted to our uncertain reasonings and speculations.
+- not seen it too important to be trusted to our uncertain reasonings and speculations. -->
 
-We may ask: Why do we believe in the body's existence?
+We can ask: Why do we believe in the body's existence?
 
 But it is in vain to ask: Is there a body or not?
 
-We must take this for granted in all our reasonings.
+<!-- We must take this for granted in all our reasonings. -->
 
-Two questions are commonly confounded together:
+These 2 questions ask about the continued and distinct existence of body, and are intimately connected together:
 
-1. Why do we attribute a continued existence to objects, even when they are not present to the senses?
-2. Why do we suppose them to have an existence distinct from the mind and perception?
+1. Why do we think that objects still exist if we are not looking at them?
 
-Existence here includes:
+ <!-- attribute a continued existence to objects, even when they are not present to the senses? -->
+
+2. Why do we suppose them to have an existence distinct from our mind and perception?
+
+
+<!-- Existence here includes:
 - situation and relations,
 - external position, and
-- the independence of their existence and operation.
+- the independence of their existence and operation. -->
 
-These 2 questions ask about the continued and distinct existence of body, and are intimately connected together.
 
-If the objects of our senses continue to exist even when they are not perceived, it means that their existence is independent from our perception.
-Conversely, if their existence is independent of our perception, they must continue to exist even if they are not perceived.
+If the objects continue to exist even when we do not see them, it means that their existence does not require our perception.
+
+<!-- If so, they must continue to exist even if they are not perceived.
+
 The answer of the one question answers the other.
+
 Yet we may more easily discover the principles of human nature, from the answer.
-We shall carry this distinction with us.
-We will consider which one of the following creates the idea of a continued or a distinct existence:
-the senses,
-the reason, or
-the imagination.
-The Senses Cannot Give Us an Idea of Existence
-We have already shown the absurdity of the idea of external existence of things that are different from our perceptions (Part 2, Section 6).
 
-The senses cannot create the notion of the continued existence of their objects, after they no longer appear to the senses.
+We shall carry this distinction with us. -->
+
+Which one creates the idea of a continued or a distinct existence:
+- the senses,
+- the reason, or
+- the imagination?
+
+
+### The Senses Cannot Give Us an Idea of Existence
+
+<!-- I have already shown the absurdity of the idea of external existence of things that are different from our perceptions (Part 2, Section 6). -->
+
+The senses can only validate the existence of things they sense. 
+
+<!-- cannot create the notion of the continued existence of their objects, after they no longer appear to the senses.
+
 That would:
-be a contradiction in terms, and
-suppose that the senses continue to operate, even after they stopped operating.
-Therefore, the senses create the opinion of a distinct existence, and not a continued existence.
-It must present their impressions:
-as images and representations, or
-as these very distinct and external existences.
-Our senses do not portray their impressions as the images of something independent and external.
+- be a contradiction in terms, and
+- suppose that the senses continue to operate, even after they stopped operating. -->
 
-Our senses convey to us only a single perception.
-They never give us any intimation of anything beyond that.
+Therefore, the senses create the opinion of a **distinct** existence, and not a **continued** existence.
+
+<!-- It must present their impressions:
+- as images and representations, or
+- as these very distinct and external existences.
+
+Our senses do not portray their impressions as the images of something independent and external.
+ -->
+
+Our senses convey to us only a single perception, and nothing beyond that.
+
 A single perception can only produce the idea of a double existence through some inference either of the reason or imagination.
+
 When the mind looks further than what immediately appears to it, its conclusions can never come from the senses.
+
 The mind looks further, when from a single perception it:
-infers a double existence, and
-supposes a resemblance and causation between them.
+- infers a double existence, and
+- supposes a resemblance and causation between them.
+
 Therefore, if our senses suggest any idea of distinct existences, they must convey the impressions as those very existences, by a kind of fallacy and illusion.
 
 All sensations are felt by the mind as they are.
-When we doubt whether they present themselves as distinct objects, or as mere impressions, the difficulty is not on their nature.
-The difficulty is on their relations and situation.
-If the senses presented our impressions as external to, and independent of ourselves, both the objects and ourselves must be obvious to our senses.
-Otherwise, the senses could not compare them.
-The difficulty then, is how far we ourselves are the objects of our senses.
-The most abstruse question in philosophy is the one on:
 
-identity, and
-the nature of the uniting principle which constitutes a person.
+When we doubt whether they present themselves as distinct objects, or as mere impressions, the difficulty is not on their nature.
+
+The difficulty is on their relations and situation.
+
+If the senses presented our impressions as external to, and independent of ourselves, both the objects and ourselves must be obvious to our senses.
+
+Otherwise, the senses could not compare them.
+
+The difficulty then, is how far we ourselves are the objects of our senses.
+
+The most abstruse question in philosophy is the one on:
+- identity, and
+- the nature of the uniting principle which constitutes a person.
+
 We must have recourse to the most profound metaphysics to answer it because our senses are unable to answer it.
 
 In common life, these ideas of 'self' and 'person' are never very fixed nor determinate.
+
 Therefore, it is absurd to imagine that the senses can ever distinguish between ourselves and external objects.
+
 In addition, every external and internal impression, passions, affections, sensations, pains and pleasures, are originally on the same footing.
+
 These are all impressions or perceptions.
+
 Our senses cannot deceive us more in the external locations and internal relations, than in the nature of our impressions because all the actions and sensations of the mind are known to us by consciousness.
+
 All those actions and sensations of the mind:
-must appear as they are, and
-must be what they appear.
+- must appear as they are, and
+- must be what they appear.
+
 Everything that enters the mind is in reality a perception.
+
 It is impossible for anything to appear to the mind in a different way that it appears to the feeling.
+
 It would imply that we can have an idea of a feeling that we did not feel.
+
 Can our senses deceive us?
 
 Can they represent our perceptions as different from ourselves, as something external and independent of us?
+
 Where does the error of the senses come from?
+
 We answer the question on external existence, by setting aside the metaphysical question of the identity of a thinking substance.
 
 Our own body belongs to us.
+
 Several impressions appear exterior to the body.
+
 We suppose them also exterior to ourselves.
+
 The paper I write on is beyond my hand.
+
 The table is beyond the paper.
+
 The walls of the room are beyond the table.
+
 When I look out the window, I perceive a great fields and buildings beyond my room.
+
 We infer that only the senses are needed to convince us of the external existence of body.
+
 But this is wrong, as proven by three considerations:
 
 Consideration 1: We do not perceive our body when we regard our arms and legs.
+
 We perceive certain impressions which enter through our senses.
+
 The ascribing of a real and corporeal existence to these impressions or to their objects, is an act of the mind that is difficult to explain.
-Consideration 2: The mind commonly regards sounds, tastes, and smells as continued independent qualities.
+
+### Consideration 2: The mind commonly regards sounds, tastes, and smells as continued independent qualities.
+
 They do not exist in space.
+
 Consequently, they cannot appear to the senses as placed externally from the body.
-We shall explain why we ascribe a place to them afterwards.
-Consideration 3: Even our sight does not tell us the distance immediately and without a certain reasoning and experience.
+
+<!-- I shall explain why we ascribe a place to them afterwards. -->
+
+### Consideration 3: Even our sight does not tell us the distance immediately and without a certain reasoning and experience.
+
 This is acknowledged by the most rational philosophers.
+
 Any opinion that we create on the independence of our perceptions must be derived from experience and observation.
 
 Our senses can never give us an idea of this independence.
+
 Our conclusions from experience are not favourable to the doctrine of the independence of our perceptions.
+
 When talk of real distinct existences of anything:
-we commonly mean their independent existence more than their external location, and
-we think that it has a sufficient reality if its being is continuous and independent of the changes in ourselves.
+- we commonly mean their independent existence more than their external location, and
+- we think that it has a sufficient reality if its being is continuous and independent of the changes in ourselves.
+
 The senses cannot give us any notion of an object's continued existence because they cannot sense the object continuously.
 
 They cannot give us a notion of an object's distinct existence, because the senses cannot offer the object to the mind:
 as represented, and
+
 To offer it as represented, the senses must present both an object and an image.
 as original.
+
 To make it appear as original, the senses must convey a falsehood.
+
 This falsehood must lie in the relations and situation for the senses to compare the object with ourselves.
+
 Our senses cannot do this and so our senses cannot deceive us.
+
 Therefore, the notion of a continued and of a distinct existence never arises from the senses.
-Three Kinds of Sensory Impressions
+
+## Three Kinds of Sensory Impressions
+
 There are three types of impressions conveyed by the senses.
 
-Type 1: Those of the shape, volume, motion and solidity of bodies.
+### Type 1: Those of the shape, volume, motion and solidity of bodies.
+
 Both philosophers and ordinary people think that these impressions have a continued existence distinct from each other.
-Type 2: Those of colours, tastes, smells, sounds, heat and cold.
+
+### Type 2: Those of colours, tastes, smells, sounds, heat and cold.
+
 Only ordinary people regard these under the same category.
-Type 3: The pains and pleasures arising from the application of objects to our bodies, such as the cutting of our flesh with steel.
+
+### Type 3: The pains and pleasures arising from the application of objects to our bodies, such as the cutting of our flesh with steel.
+
 Both philosophers and ordinary people, again, think these impressions to be merely perceptions.
+
 Consequently, they are interrupted by and are dependent on the senses.
+
 The senses perceive the existence of colours, sounds, and temperature in the same way as they perceive motion and solidity.
 
 The difference we make between them in this respect, does not arise from the mere perception.
-The prejudice for the distinct continued existence of colours, sounds, and temperature is so strong.
-When the contrary opinion is advanced by modern philosophers, people imagine that:
-they can almost refute it from their feeling and experience, and
-their very senses contradict this philosophy.
-Colours, sounds, etc. are originally on the same category with:
-the pain that arises from a wound, and
-the pleasure that proceeds from the heat of a fire.
-The difference between pain and pleasure is founded on imagination, not on perception nor reason.
-Both of them are just perceptions arising from the body's configurations and motions.
-Thus, pain and pleasre are in the same category as colors, sounds, etc.
-To the senses therefore, all sensory perceptions are the same in the way that they exist.
-We can assign a distinct, continued existence to objects, that we hear and see the colours of, without ever:
 
-consulting reason, or
-weighing our opinions by any philosophical principles.
+The prejudice for the distinct continued existence of colours, sounds, and temperature is so strong.
+
+When the contrary opinion is advanced by modern philosophers, people imagine that:
+- they can almost refute it from their feeling and experience, and
+- their very senses contradict this philosophy.
+
+Colours, sounds, etc. are originally on the same category with:
+- the pain that arises from a wound, and
+- the pleasure that proceeds from the heat of a fire.
+
+The difference between pain and pleasure is founded on imagination, not on perception nor reason.
+
+Both of them are just perceptions arising from the body's configurations and motions.
+
+Thus, pain and pleasre are in the same category as colors, sounds, etc.
+
+To the senses therefore, all sensory perceptions are the same in the way that they exist.
+
+We can assign a distinct, continued existence to objects, that we hear and see the colours of, without ever:
+- consulting reason, or
+- weighing our opinions by any philosophical principles.
+
 Philosophers might be able to produce convincing arguments to establish the belief of objects independent of the mind.
 
 But these arguments are very few.
+
 Children, peasants, and most people are not induced by these arguments to:
-attribute objects to some impressions, and
-deny objects to other impressions.
+- attribute objects to some impressions, and
+- deny objects to other impressions.
+
 Accordingly, we find that all the conclusions of ordinary people are directly contrary to the conclusions confirmed by philosophy.
 
 Philosophy informs us that everything which appears to the mind, is:
-nothing but a perception, and
-interrupted by and dependent on the mind.
+- nothing but a perception, and
+- interrupted by and dependent on the mind.
+
 Whereas ordinary people:
-confound perceptions and objects, and
-attribute a distinct continued existence to the things they feel or see.
+- confound perceptions and objects, and
+- attribute a distinct continued existence to the things they feel or see.
+
 This feeling which confounds perceptions and objects is entirely unreasonable.
+
 It must come from some other faculty than the understanding.
+
 As long as we take our perceptions and objects to be the same, we can never:
-infer the existence of the one from that of the other, and
-form any argument from the relation.
+- infer the existence of the one from that of the other, and
+- form any argument from the relation.
+
 We are assured of matters of fact, only through cause and effect.
+
 Even after we distinguish our perceptions from our objects, we are still incapable of reasoning on the existence of one to that of the other.
 
 On the whole, our reason can never assure us of the continued and distinct existence of bodies.
+
 That opinion owes entirely to the imagination.
+
 Imagination Creates Existence from the Habitual Coherence and Constancy of Impressions
+
 All impressions appear as, and are, internal and perishing existences.
 
 The idea of the distinct and continued existence of our impressions arises from a concurrence of some of the qualities of those impressions with the qualities of the imagination.
-This idea of the distinct and continued existence of our impressions does not extend to all our impressions.
-Instead, it arises from certain qualities peculiar to some impressions.
-Therefore, it will be easy for us to discover these qualities by comparing the distinct and continuously-existing impressions, with the internal and perishing impressions.
-People think that:
 
-we grant reality and existence to some impressions because of those impressions':
-involuntariness, and
-superior force and violence,
-we refuse reality and existence to some impressions because of those impressions':
-voluntariness, and
-feebleness,
-the impressions of shape and size, colour and sound, are permanent beings existing external to us, and
-our pains and pleasures, passions and affections exist only within our perception.
+This idea of the distinct and continued existence of our impressions does not extend to all our impressions.
+
+Instead, it arises from certain qualities peculiar to some impressions.
+
+Therefore, it will be easy for us to discover these qualities by comparing the distinct and continuously-existing impressions, with the internal and perishing impressions.
+
+People think that:
+- we grant reality and existence to some impressions because of those impressions':
+- involuntariness, and
+- superior force and violence,
+- we refuse reality and existence to some impressions because of those impressions':
+- voluntariness, and
+- feebleness,
+- the impressions of shape and size, colour and sound, are permanent beings existing external to us, and
+- our pains and pleasures, passions and affections exist only within our perception.
+
 These feelings operate with greater violence and are equally involuntary as the impressions of shape and size, colour and sound.
+
 The heat of a moderate flame is supposed to exist in the flame.
+
 But the pain it causes on touch, exists only in the perception.
+
 I reject these unphilosophical opinions.
 
 I then search for some other hypothesis to discover those qualities in our impressions which makes us assign a distinct and continued existence to them.
+
 I find that all those objects to which we attribute a continued existence, have a peculiar constancy.
+
 This constancy distinguishes them from the impressions which exist to us depending on our perception.
+
 Those mountains, houses, and trees, which I see, have always appeared to me in the same order.
+
 When I lose sight of them by closing my eyes, I find them return without change after I open my eyes.
+
 My bed, table, books, and papers, present themselves in the same uniform manner.
+
 They do not change when I stop seeing them.
+
 This is the case with all our impressions from objects that have an external existence.
+
 Other impressions that exist only in our minds do not have this constancy, whether they be:
-gentle or violent, and
-voluntary or involuntary.
+- gentle or violent, and
+- voluntary or involuntary.
+
 However, this constancy has very considerable exceptions.
 
 Bodies often change their position and qualities.
+
 After a little absence or interruption, they may become hardly knowable.
+
 But even in these changes, they:
-preserve a coherence, and
-have a regular dependence on each other.
+- preserve a coherence, and
+- have a regular dependence on each other.
+
 This is the foundation of a kind of reasoning from causation.
+
 It produces the opinion of their continued existence.
+
 When I return to my room after an hour's absence, I do not find my fire in the same situation I left it.
+
 But then in other instances I am used to seeing a similar change produced in a similar timespan, whether I am:
-present or absent, or
-near or remote.
+- present or absent, or
+- near or remote.
+
 Therefore, this coherence in their changes is one of the characteristics of external objects, as well as their constancy.
 We have found that the opinion of the continued existence of body depends on the coherence, and constancy of certain impressions.
 
 How do these qualities create so extraordinary an opinion?
+
 Let us begin with coherence.
 
+
 We regard internal impressions as fleeting and perishing.
+
 Yet they have a coherence and regularity in their appearances.
+
 This coherence and regularity in the appearances of internal impressions is different from the coherence and regularity that we find in external bodies.
+
 Our passions have a mutual connection and dependence on each other.
+
 But we never think that our passions existed when our passions did not exist, just to preserve the same connection with the passions that have previously existed in us.
+
 This does not happen with external objects.
+
 Those external objects need a continued existence.
+
 Otherwise, they lose the regularity of their existence.
+
 I am seated in my room on the second floor, facing the fire.
 
 All the objects that strike my senses are a few yards around me.
+
 My memory informs me of the existence of many objects.
+
 But then, this information does not go beyond their past existence.
+
 My senses or memory does not give any testimony to the continuance of their existence.
+
 I then hear the door of my room opening.
+
 I turn my head and see a servant walking towards me.
+
 This creates many new reflections and reasonings.
+
 I have always heard this noise only coming from the door's motion.
+
 I therefore conclude that the door still exists.
+
 I have always found that a human body always had a quality called gravity.
+
 This gravity hinders the body from flying.
+
 This servant must have gone up to the second floor using gravity instead of flying, unless the stairs that I remember did not exist anymore.
 I receive a letter.
 Upon opening it, I see it to have come from a friend, by the handwriting and subscription.

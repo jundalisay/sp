@@ -43,4 +43,15 @@ The correct emphasis of Jesus and Kepler on stars fixes the ambiguity of Descart
 
 Jesus' Cosmology Model can thus boost Kepler's advocacy to use star-data to predict events on Earth so that humans will not be caught off guard. 
 
+
+
+### Update July 2025
+
+The capacity of stars to affect physical reality is also evidenced by the Essassani who talk about the influence of the Orion star system on Earth starting 6,000 years ago that caused the ancient conflicts in the Middle East as well as modern Nazism, and by PR Sarkar who talked about Magha star causing the Nazi oppression and World War 2. And so logically, the Magha star is in the Orion system. 
+
+
+{{< youtube rKCipBinUFw >}}
+
+
+
 <!-- The universe of Timaeus, Jesus, and ours has one and the same physics and therefore the same cosmology.  -->
