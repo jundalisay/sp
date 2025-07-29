@@ -23,19 +23,26 @@ But it was not as strict as it had been in the pre-Buddhist age.
 
 Many elements were combined together in a confused way. 
 
-So advocates of Puranic Dharma, and their Prayágiiya Bráhmańa Sabhá [Prayag Brahman Conference], accepted and thereafter formally recognized a conglomerate of 5 branches of North Indian Brahmans, and another conglomerate of South Indian Brahmans, all of them followers of Puranic Dharma, in the names Paiṋca Gaoŕii and Paiṋca Drávid́ii(1) respectively. 
+So advocates of Puranic Dharma, and their Prayágiiya Bráhmańa Sabhá [Prayag Brahman Conference], formally recognized:
+- a conglomerate of 5 branches of North Indian Brahmans, and
+- another conglomerate of South Indian Brahmans
 
-The Brahmans of Ráŕh represented a more developed culture. They found it hard to accept the dominance of Paoráńika Dharma (which teaches the supremacy of the Vedas, Brahmans, cows and kings).
+All of them were followers of Puranic Dharma, in the names Paiṋca Gaoŕii and Paiṋca Drávid́ii(1) respectively. 
 
-Besides that, there was an unwillingness to study the Vedas that was deep-rooted in their nature.
+The Brahmans of Ráŕh represented a more developed culture. 
+
+They found it hard to accept the dominance of Paoráńika Dharma (which teaches the supremacy of the Vedas, Brahmans, cows and kings).
+
+Besides that, their unwillingness to study the Vedas was deep-rooted in their nature. [because they were Tantrics and not Vedics?]
 
 This is why they did not get the recognition of the Prayag conference.
 
-The Brahmans living in that part of Ráŕh which was under the rule of the king of Gaoŕa at that time accepted that non-recognition. 
+The Brahmans living in that part of Ráŕh under the rule of the king of Gaoŕa at that time accepted that non-recognition. 
 
-But as a mark of their own speciality, they introduced a beautiful social system, the Dáyabhága system, and thus displayed an example of their own originality of thought. 
+But as a mark of their own speciality, they introduced a beautiful social system, the Dáyabhága system.
+- Thus, they displayed of their own originality of thought. 
 
-But the Brahmans living in those parts of Ráŕh which were not under the rule of the king of Gaoŕa began to call themselves Utkal [Orissa] or post-Utkal Brahmans with a view to getting recognition from the Prayágiiya system.
+But the Brahmans living in the parts of Ráŕh which were not under the king of Gaoŕa began to call themselves Utkal [Orissa] or post-Utkal Brahmans in order to get recognition from the Prayágiiya system.
 
 They went on with the old Mitákśará system. So none of them came from outside.
 
@@ -46,9 +53,13 @@ Does this mean that no Brahmans came from Utkal? No, a good many did come [later
 
 These invited Brahmans called themselves Dákśińátya Vaedika (Southern, or Deccan, Vedics). 
 
-They follow the Dáyabhága system. Shibnath Shastri, M.N. Ray and Chaitanya Mahaprabhu were all Deccan Vedic. (According to some, Chaitanya Mahaprabhu was Western Vedic.) 
+They follow the Dáyabhága system. 
 
-They live in the districts of Midnapore, Burdwan, Howrah, Hooghly, 24 Parganas, Jessore, etc. Some of them use common surnames such as Chakravorty and Bhattacharya, but some of course use the old Utkal Brahman surnames such as Panigrahi, Panda, Sarangi, Patra, etc.
+Shibnath Shastri, M.N. Ray and Chaitanya Mahaprabhu were all Deccan Vedic. (According to some, Chaitanya Mahaprabhu was Western Vedic.) 
+
+They live in the districts of Midnapore, Burdwan, Howrah, Hooghly, 24 Parganas, Jessore, etc. 
+
+Some of them use common surnames such as Chakravorty and Bhattacharya, but some of course use the old Utkal Brahman surnames such as Panigrahi, Panda, Sarangi, Patra, etc.
 
 
 1981, Kolkata

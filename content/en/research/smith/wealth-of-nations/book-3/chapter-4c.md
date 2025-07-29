@@ -85,19 +85,24 @@ Everywhere in Europe, purchasing land is a most unprofitable employment of a sma
 For the sake of superior security, a retired businessman of moderate circumstances, will sometimes spend his little capital in land.
 
 A professional man, who derives his revenue from another source, often secures his savings in this way.
+
 But a young man must forever bid farewell to fame and fortune if he employs his capital of £3,000 to buy and cultivate a small piece of land, instead of using it for business or some profession, where he has the chance of acquiring fortune.
-    He might live very happily and very independently with his small land.
-    But he cannot aspire to be a proprietor.
-    He will often disdain to be a farmer.
+- He might live very happily and very independently with his small land.
+- But he cannot aspire to be a proprietor.
+- He will often disdain to be a farmer.
 
 The small quantity of land brought to market at a high price prevents capitals from being employed in its cultivation and improvement.
 
 In North America, £60 is often a sufficient stock for starting a plantation.
 
 The purchase and improvement of uncultivated land there is the most profitable employment of both the smallest and the biggest capitals.
-    It is the most direct road to all the fame and fortune which can be acquired in that country.
+
+It is the most direct road to all the fame and fortune which can be acquired in that country.
+
 In North America, such land can be had for almost nothing or at a price much below the value of the natural produce.
-    This price is impossible in Europe or in any country where all lands have long been private property.
+
+This price is impossible in Europe or in any country where all lands have long been private property.
+
 If estates were divided equally among all the children after the death of any proprietor who had a large family, the estate would generally be sold.
 
 So much land would come to market that it could no longer sell at a monopoly price.

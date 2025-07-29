@@ -97,9 +97,16 @@ from Shabda Cayaniká Part 11 -->
 
 During the ancient Rg Vedic period, civilization was very backward.
 
-In that age there was no such thing as buying and selling in the strict sense of the term. The system of exchange that was in vogue in those days can best be called “barter”. 
+Back then, there was no such thing as buying and selling. 
+ <!-- in the strict sense of the term -->
 
-In those days, people were not acquainted with wheat. rice, or cow pea. They were more acquainted with legumes than with Bengal grams.
+Instead, they used barter. 
+
+<!-- The system of exchange that was in vogue in those days can best be called “barter”.  -->
+
+In those days, people were not acquainted with wheat, rice, or cow pea. 
+
+They were more acquainted with legumes than with Bengal grams.
 
 
 For instance, people used to give some barley to someone. In exchange, they would get a container. 
@@ -112,28 +119,38 @@ Later, people began to feel some practical inconvenience because they were often
 
 There was no ready market to sell the commodities that people produced. 
 
-Under the circumstances, people converted the commodities for exchange into some kind of standard wealth to be used as needed. Thus, they began to think of media of exchange.
+So the people converted the commodities for exchange into some kind of standard wealth to be used as needed.
+
+Thus, they began to think of media of exchange.
 
 **In India, the first medium of exchange used was sea shells.** 
 
 These sea shells were the first coins. 
 
-The most ancient root verb for the exchange of commodities was krii, conjugated as kriińiite. 
+The most ancient root verb for the exchange of commodities was *krii*, conjugated as kriińiite. 
 
 But when sea shells were first introduced as the medium of exchange, people felt the need to distinguish this new type of transaction from ordinary barter transactions. 
 
-So when a transaction would be effected through an exchange of commodities, the root verb krii (with the conjugation kriińiite) continued to be used. 
+<!-- So when a transaction would be effected through an exchange of commodities,  -->
 
-But when a transaction used sea shells the root word krii was conjugated as 'kriińáte'. This means 'buying' in English. 
+<!-- (with the conjugation kriińiite)  -->
+The root verb *krii* continued to be used for barter. 
+
+
+But transactions involving sea shells used the conjugate 'kriińáte'. 
+
+This means 'buying' in English. 
 - "Purchase" meant getting something through barter.
 - "Buy” only meant getting something with money.
 
-Thus, towards the end of the Vedic Age the root verb krii became ubhayapadii, conjugated in both the above ways.
+Thus, towards the end of the Vedic Age the root verb *krii* became ubhayapadii, conjugated in both the above ways.
 
 **Páńini, the first grammarian in the world, recognized the word ubhayapadii.** 
 - Later grammarians followed his lead.
 
-From the **Gupta Age** onwards, barter trade between different countries continued. But in towns and cities:
+From the **Gupta Age** onwards, barter trade between different countries continued. 
+
+But in towns and cities:
 - barter was greatly reduced
 - the money-based buying and selling of commodities with money greatly increased. 
 
@@ -141,7 +158,7 @@ Metal coins began to replace sea shells as media in an improved system of exchan
 
 Much later still, paper notes were introduced in China. 
 
-Since the Gupta Age, buying and selling has mostly been undertaken through monetary exchange.
+**Since the Gupta Age, buying and selling has mostly been undertaken through monetary exchange.**
 
 The Sanskrit word mudrá became “token” in English, meaning “something which is represented by a medium”. 
 
@@ -161,5 +178,3 @@ Prout in a Nutshell Part 12 [a compilation]
 Proutist Economics [a compilation]
 Notes:
 official source: A Few Problems Solved Part 8 (as "Inter-Block and Intra-Block Planning") -->
-
-

@@ -151,15 +151,20 @@ Though he contributes to maintain them all, they are all independent of him beca
 {{< s v="12" >}} The great proprietors of land spend their rents to maintain all their tenants and retainers through hospitality.
 
 But they may maintain more people when they spend their rents to maintain tradesmen and craftsmen through trade.
+
 Each proprietor, taken singly, contributes very little to maintain any individual in this great number.
+
 Each tradesman or artificer derives his subsistence from the employment of a thousand customers.
+
 He is not absolutely dependent on any one of them, though he is obliged to them all.
 
 
 {{< s v="13" >}} The personal expence of the great proprietors gradually increased in this way.
 
 It gradually reduced the number of their retainers until they were all dismissed.
+
 It also made them gradually dismiss their unnecessary tenants.
+
 Farms were enlarged and the occupiers were reduced to the number needed to cultivate it.
 
 A greater surplus was obtained for the proprietor:

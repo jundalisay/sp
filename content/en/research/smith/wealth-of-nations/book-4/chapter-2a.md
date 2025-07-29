@@ -40,14 +40,16 @@ It is not so obvious whether it=
 
 The number of workers that can be employed by any person must be proportional to his capital. Likewise, the number that can be employed by a society must be proportional to the total capital of that society. It can never exceed that proportion.
 
-No commercial regulation can increase the amount of industry in any society beyond what its capital can maintain. It can only divert some of it into a direction which it might not otherwise have gone into. It is uncertain whether this artificial direction will be more advantageous to society than its natural direction.
+No commercial regulation can increase the amount of industry in any society beyond what its capital can maintain. 
+- It can only divert some of it into a direction which it might not otherwise have gone into.
+- It is uncertain whether this artificial direction will be more advantageous to society than its natural direction.
 
 
-
-{{< s v="4" >}} "Every individual is continually exerting himself to find out the most advantageous employment for whatever capital he can command."
+{{< s v="4" >}} **"Every individual is continually exerting himself to find out the most advantageous employment for whatever capital he can command."**
 
 It is his own advantage which he has in view, and not that of the society.
-But the study of his own advantage naturally leads him to prefer that employment which is most advantageous to society.
+
+**But the study of his own advantage naturally leads him to prefer that employment which is most advantageous to society.**
 
 
 {{< s v="5" >}} Every individual endeavours to employ his capital as near home as he can.

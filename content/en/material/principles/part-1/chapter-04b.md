@@ -22,27 +22,40 @@ These then become the galaxies, stars, and planets that we see.
 
 {{< i s="/photos/physics/bao.jpg" a="Bao" >}}
 
+The main difference with Newtonian Physics is that the eternal universe did not have a single start. Instead, it is its contents that have start and end just as galaxies live and die.
 
-### The Cosmic Microwave Background
 
-The meeting of these oscillations create a pattern called the cosmic web. These extend beyond the observable universe to the external universe which we see as the cosmic microwave background (CMB). 
+## The Edge of the Universe and Spatial Internal Boundary
 
-Physics wrongly thinks that the CMB is heat that came from the Big Bang of a material Singularity or 'primeval atom'. 
+The meeting of these oscillations create a pattern called the cosmic web. These extend beyond the observable universe to the external universe.
+
+The edge of the Universe separates the observed and unobserved universe.
+- This edge is really a part of the aetherspace that separates universes from each other. 
+
+
+### Why Do Materialists Stick to the false Big Bang theory?
+
+The findings of the James Webb, Planck Satellite and DESI all agree that there is no Big Bang. 
+
+Yet Physics sticks to it because they find safety in the persistence matter, as evidenced by Lucretius. 
+
+<!--  wrongly thinks that the CMB is heat that came from the Big Bang of a material Singularity or 'primeval atom'. 
 
 But what is the nature of this Material Singularity? How did it begin? 
 
-{{< c v="red" >}}
+c v="red" >}}
 No one is able to answer this.
-{{< /c >}}
+/c >}}
 
-Superphysics answers that the whole Big Bang paradigm is flawed in the first place because material creation did not originate from a material cause. A material explosion would need an external trigger or cause to start that explosion just as a firecracker needs an external flame to light its fuse. 
+Superphysics answers that the whole Big Bang paradigm is flawed in the first place because material creation did not originate from a material cause. A material explosion would need an external trigger or cause to start that explosion just as a firecracker needs an external flame to light its fuse.  -->
 
 {{< q a="Lucretius" c="The Nature of Things" >}}
-Therefore the first-beginnings are of solid singleness
+If matter had not been everlasting, then all things would pass away to nothing.. Therefore the first-beginnings are of solid singleness
 {{< /q >}}
 
 
-That would imply that our Big Bang **happened within another universe**. This would then lead to more unanswered questions about that universe that can go on to infinity, since that universe could be within another universe, and so on. 
+But this is false because it would imply that the Big Bang would have a cause external to it **as another universe** to make it explode or expand. 
+- This would then lead to  unanswerable questions about that other universe, and the universe behind that, to infinity. 
 
 
 ## A Big Bootup or Wakeup Through Baryonic Acoustic Oscillations

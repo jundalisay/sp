@@ -58,14 +58,20 @@ These and a pretty large lizard, called the Iguana, was the main animal food fro
 {{< s v="12" >}} The vegetable food of the inhabitants was not so scanty, though it was not very abundant because of their lack of industry.
 
 It consisted in plants which were then unknown in Europe=  Indian corn, yams, potatoes, bananas, etc.
+
 Those plants have never been very much esteemed.
+
 It was not supposed to yield more sustenance than the common grain and pulse already cultivated.
+
 
 {{< s v="13" >}} The cotton plant afforded the material of a very important manufacture.
 
 At that time, it was the most valuable of all plants of those islands to Europeans.
+
 In the end of the 15th century, the muslins and other cotton goods of the East Indies were much esteemed in Europe.
+
 But the cotton manufacture itself was not cultivated in Europe.
+
 Even this production, therefore, at that time was not of very great consequence to Europeans.
 
 

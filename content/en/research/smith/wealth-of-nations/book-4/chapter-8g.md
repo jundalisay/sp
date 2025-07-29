@@ -23,11 +23,11 @@ By the 5th George 1st chapter 27, any person convicted of enticing any artificer
   - 3 months imprisonment until the fine shall be paid.
 - for the second offence:
   - a fine at the court's discretion, and
-
   - 12 months imprisonment until the fine shall be paid.
 
 
 By the 23 George 2nd chapter 13, this penalty is increased.
+
 For the first offence:
 - £500 pounds for every artificer enticed, and
 - 12 months imprisonment until the fine shall be paid.

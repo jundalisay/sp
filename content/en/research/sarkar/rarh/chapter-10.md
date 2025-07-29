@@ -20,25 +20,36 @@ The rivers carried that silt and sand onwards. Those eroded mountains became the
 
 At a time when eastern Ráŕh was non-existent, Bagri [Samatat] and D́abák were inconceivable. The present-day mounds in the wavy soil of western Ráŕh are the decaying summits of the old mountains, and the bottoms of the slopes, and the small rivers and the rivulets, are other names for the last remaining parts of the valleys.
 
-Much later the Aryans, moving from the north-west region towards the east and having crossed the plains of the Brahmaputra and the Gauṋgá, finally reached the borders of Ráŕh and came to a sudden halt. 
 
-In the Ráŕh of that time the crests of the undulating topography [the mounds] were covered with forests, while the troughs [the bottoms of the slopes] were sites of human habitation.
 
-It was for this kind of topography that the land was named Birbhumi or Birbhum in the Austric language. The word biir in Austric means “forest”. 
+Much later the Aryans moved from the north-west region towards the east. They crossed the plains of the Brahmaputra and the Gauṋgá and finally reached the borders of Ráŕh and came to a sudden halt. 
 
-Instead of using the Austric name Birbhum, the Aryans gave it a new name, Varjyabhúmi, which meant “a land in which Aryans should not live” – a land which the Aryans should reject.
+In the Ráŕh of that time:
+- the crests of the undulating topography [the mounds] were covered with forests
+- the troughs [the bottoms of the slopes] were sites of human habitation.
 
-The people of Ráŕh at that time were not prepared to welcome the Aryans. They instead set their pet lions and wolves on Aryans.
+This kind of topography earned it the name Birbhumi or Birbhum in the Austric language.
+
+The word biir in Austric means “forest”. 
+
+Instead of using the Austric name Birbhum, the Aryans gave it a new name, Varjyabhúmi: “a land in which Aryans should not live”.
+- It was a land which the Aryans should reject.
+
+The people of Ráŕh at that time were not prepared to welcome the Aryans.
+
+They instead set their pet lions and wolves on Aryans.
 
 Why did the Aryans call the land Varjyabhúmi – because of Ráŕh’s uncongenial geographical environment, or for fear of the wolves?
 
-The searing summer heat of this tropical region, and the whirlwinds of red dust, spurred the inhabitants of Ráŕh to break the bondages of this limited world and to run in the direction of limitlessness.
+The inhabitants of Ráŕh were spurred to break the bondages of this limited world and to run in the direction of limitlessness because of:
+- the searing summer heat of this tropical region
+- the whirlwinds of red dust
 
-And at the very sight of the natural landscape of Ráŕh, tears welled up in their hearts, and their entire beings quivered, for the great unknown entity. This longing in their hearts made the people of Ráŕh mystical.
+<!-- And at the very sight of the natural landscape of Ráŕh, tears welled up in their hearts, and their entire beings quivered, for the great unknown entity. This longing in their hearts made the people of Ráŕh mystical. -->
 
 Mysticism is the never-ending endeavour to find out a link between finite and infinite. So the people of Ráŕh are all mystical by birth. 
 
-When they look up at the boundless sky, their inner self becomes eloquent in this way:
+<!-- When they look up at the boundless sky, their inner self becomes eloquent in this way: -->
 
 Uŕiche tomár dhvajá megharandhracyuta tapaner jvaladarcirekhá;
 Karojoŕe ceye áchi úrdhvamukhe – paŕite jáni na, kii táháte lekhá.
@@ -46,7 +57,13 @@ Karojoŕe ceye áchi úrdhvamukhe – paŕite jáni na, kii táháte lekh
 [Your banner is flying like a beam of sunlight flashing through the clouds.
 I am looking with upturned face and folded hands – but I cannot read what is written there.]
 
-The fervour, and the ardour deep in their minds, for the infinite, stirred them to the point of bátulatá [madness]. And this bátulatá gave birth to the Bául Márga [Path of Baul], Baul music and the Baul ideology. Baul music is always characterized by a single tune, a single resonated impact. Hence a Baul song is played on one string – on an ektárá [“single-stringed” instrument].
+The fervour, and the ardour deep in their minds, for the infinite, stirred them to the point of bátulatá [madness].
+
+This bátulatá gave birth to the Bául Márga [Path of Baul], Baul music and the Baul ideology. 
+
+Baul music is always characterized by a single tune, a single resonated impact. 
+
+Hence a Baul song is played on one string – on an ektárá [“single-stringed” instrument].
 
 Ek mane tor ektárát́i
 Ekt́i sure bendhe rákhis.
@@ -66,11 +83,15 @@ Bhávt́i bheve paráń gela.
 Whom I have not seen, but whose name has reached my ears.
 Thinking of Him, I die.]
 
-Later, it was in this Ráŕh that kiirtana(1) came into being. 
+Later, kiirtana(1) came into being in this Ráŕh. 
 
-Kiirtana drew its impetus from Baul. The development of the rhythmic movement of the human mind in quest of the Supreme Entity is what is called kiirtana. 
+Kiirtana drew its impetus from Baul. 
 
-Though kiirtana is prevalent in India and many other countries, the distinguishing feature of the kiirtana of Ráŕh is that it is chiefly, if not entirely, based on Baul.
+The development of the rhythmic movement of the human mind in quest of the Supreme Entity is what is called kiirtana. 
+
+Kiirtana is prevalent in India and many other countries.
+
+But the distinguishing feature of Ráŕh kiirtana is that it is chiefly, if not entirely, based on Baul.
 
 It more concerns sweet devotional ideation on Parama Puruśa than descriptions of His hands, feet, eyes, nose and face.
 
@@ -82,13 +103,16 @@ Ákul karila mor práń.
 Through my ears it enters into my depths,
 Made restless my heart.]
 
-In the hands of Jaydev, Chandidas, etc., who were deep-dyed poets of the soil of Ráŕh, this kiirtana became vibrated with a new resonated impact. When, long after them, Mahaprabhu entered deep into Ráŕh and came in touch with the unique wealth of Baul and kiirtana, he said to all, of his own accord:
+In the hands of Jaydev, Chandidas, etc., who were deep-dyed poets of the soil of Ráŕh, this kiirtana became vibrated with a new resonated impact.
+
+When, long after them, Mahaprabhu entered deep into Ráŕh and came in touch with the unique wealth of Baul and kiirtana, he said to all, of his own accord:
 
 Ráŕhii sure Ráŕhii bole
 Ráŕhii ákhare kiirtana kariba.
 
 [To the tunes of Ráŕh and in the speech of Ráŕh
 And with the words of Ráŕh, I shall sing kiirtana.]
+
 
 1981, Kolkata
 
@@ -98,5 +122,3 @@ And with the words of Ráŕh, I shall sing kiirtana.]
 (1) Collective singing of the name of the Lord, sometimes combined with a dance that expresses the spirit of surrender, is known as kiirtana. Some types of kiirtana may involve descriptions of the features of the Lord. –Trans.
 
 (2) Krśńa. –Trans.
-
-

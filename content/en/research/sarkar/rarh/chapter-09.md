@@ -21,21 +21,29 @@ But none of the idols of Jain gods and goddesses found there are nude.
 
 The idols of the Jain goddesses Ambiká and Manasá which have been found in Ráŕh are all clothed and adorned with ornaments. 
 
-All the idols of the Jain gods and goddesses of Ráŕh that have been found and that were worshipped as orthodox or non-scriptural gods and goddesses [i.e., worshipped as different types of Hindu gods and goddesses] in a later period are nothing but different expressions of the human mind.
+All the idols of the Jain gods and goddesses of Ráŕh that were worshipped as orthodox or non-scriptural gods and goddesses in a later period are merely different expressions of the human mind.
 
-These feelings would become associated with each other, and would become sublimated into mahábháva [a higher stage of realization] and Paramashiva [Nucleus Consciousness]. 
+<!-- [i.e., worshipped as different types of Hindu gods and goddesses]  -->
 
-It is not possible to find any consistency between these feelings and atheistic Jainism. 
+These feelings would become associated with each other, becoming sublimated into:
+- mahábháva [a higher stage of realization] and
+- Paramashiva [Nucleus Consciousness]. 
 
-Of all these Jain gods and goddesses, some have found a place in Puranic scriptures, while others have been transformed into non-scriptural deities. 
+This is why there is no consistency between these feelings and atheistic Jainism. 
 
-Many, however, have not been recognized at all, directly or indirectly. 
+Of all these Jain gods and goddesses:
+- some have found a place in Puranic scriptures
+- others have been transformed into non-scriptural deities. 
+- many, however, have not been recognized at all. 
 
-Of many reasons for this, one was the torrential and irresistible advent in Ráŕh of the Gaoŕiiya Vaeśńava Dharma propounded by Mahaprabhu Chaitanya.
+One cause of this was the torrential and irresistible advent of Gaoŕiiya Vaeśńava Dharma in Ráŕh, propounded by Mahaprabhu Chaitanya.
 
-At that point, the priests of that era did not find sufficient time to convert the remaining Jain deities into Puranic gods and goddesses. 
+Back then, the priests did not have sufficient time to convert the remaining Jain deities into Puranic gods and goddesses. 
 
-Like all other sections of the general populace in Ráŕh, the Jain ascetic preachers, the Jain priests, and afterwards the Utkal Brahmans (as they came to be known) of Ráŕh, came under the influence of the Vaeśńava Dharma of Ráŕh.
+Like all other sections of the general populace in Ráŕh, the following came under the influence of the Vaeśńava Dharma of Ráŕh:
+- the Jain ascetic preachers
+- the Jain priests, and
+- afterwards the Utkal Brahmans (as they came to be known) of Ráŕh
 
 Extremes of casteism developed in Bengal at that time.
 
@@ -43,11 +51,14 @@ The Utkal Brahmans of Ráŕh retained their caste system while embracing Vaes�
 
 The unnamed deities of Jain Tantra also veered from the Jain path of ahimsá to some extent
 
-They came to be considered merely as different forms of the Shákta goddess Cańd́ii and were propitiated with sacrificial offerings, as an external ritual of Shákta Tantra (which was nothing but a misdirected form of Shaeva Tantra).
+They came to be considered merely as different forms of the Shákta goddess Cańd́ii.
+- They were propitiated with sacrificial offerings, as an external ritual of Shákta Tantra (which was nothing but a misdirected form of Shaeva Tantra).
 
 Ducks, hens, pigs, buffaloes, etc., were offered as sacrifices.
 
-By that time, Ráŕh had drifted a long way from Jainism, and most of the Jain temples in western Ráŕh had been transformed into Jain Shiva temples.
+By that time:
+- Ráŕh had drifted a long way from Jainism, and
+- most of the Jain temples in western Ráŕh had been transformed into Jain Shiva temples.
 
 
 1981, Kolkata

@@ -26,8 +26,11 @@ It could institute a probationary period for anyone who wished to:
 It should not give salaries to teachers that would make them negligent and idle.
 
 If the state imposed the necessity of learning on the people of liberal professions, it would have no problem providing people with the proper teachers.
+
 The people would soon find better teachers than what the state could provide.
+
 Science is the great antidote to the poison of enthusiasm and superstition.
+
 If the superior ranks of people were free from superstition, the inferior ranks could not be much exposed to it.
 
 
@@ -126,14 +129,21 @@ The Duke of Choiseul made a very small experiment about 12 years ago on the Pari
 Management and persuasion are always the safest instruments of governments.
 
 Force and violence are the most dangerous.
+
 But man's natural insolence makes him always disdain the good instrument except when he cannot use the bad one.
+
 The French government could use force and so it did not use management and persuasion.
+
 I think that it is so ruinous to use force and violence on any respected clergy.
 
 Every clergy member's rights, privileges, and personal liberty are more respected than those of anyone of equal rank and fortune even in the most despotic governments.
+
 This is true in all degrees of despotism, from the gentle government of Paris to the violent government of Constantinople.
+
 The clergy cannot be forced.
 
 However, they may be managed as easily as any other.
+
 The sovereign's security and the public peace depends very much on how the sovereign manages them.
+
 It is in the preferment which he has to bestow on them.

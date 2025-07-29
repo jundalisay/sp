@@ -88,8 +88,10 @@ This is what the Dutch did to the Moluccas spiceries.
 But it is impossible, even by the violence of law, to establish such an extensive monopoly on wheat.
 
 Wherever there is free trade, wheat is the least liable to be engrossed or monopolized by a few large capitals.
-    Its value far exceeds what the capitals of a few private men can buy.
-        Even if they were able to buy it, it would be impractical because of the way wheat is produced.
+
+Its value far exceeds what the capitals of a few private men can buy.
+
+Even if they were able to buy it, it would be impractical because of the way wheat is produced.
 
 In every civilized country, wheat is the commodity consumed the most annually.
 - More industry is employed in producing wheat than any other commodity.
@@ -167,20 +169,32 @@ Free wheat trade deserves and requires the most protection of the law because no
 {{< s v="47" >}} In years of scarcity, the lower classes impute their distress to the wheat merchant's avarice.
 
 Instead of profiting from the scarcity, he is often in danger of being ruined.
-    His magazines are in danger of being plundered and destroyed by violence.
+
+His magazines are in danger of being plundered and destroyed by violence.
+
 The wheat merchant expects his main profit during years of scarcity when prices are high.
-    He is in contract with some farmers to furnish him a certain amount of wheat at a certain price for a certain number of years.
-    This contract price is settled according to the ordinary price which is moderate and reasonable.
-        Before the recent years of scarcity, it was about 336 pence for the quarter of wheat.
-        In years of scarcity, the wheat merchant buys most of his wheat for the ordinary price and sells it dearer.
-            This extraordinary profit is just enough to put his trade on a fair level with other trades.
-            It compensates his many other losses from= 
-                the wheat's perishable nature, and
-                the frequent and unforeseen fluctuations of its price
-                    This alone shows why great fortunes are seldom made in the wheat trade.
+
+He is in contract with some farmers to furnish him a certain amount of wheat at a certain price for a certain number of years.
+
+This contract price is settled according to the ordinary price which is moderate and reasonable.
+
+Before the recent years of scarcity, it was about 336 pence for the quarter of wheat.
+
+In years of scarcity, the wheat merchant buys most of his wheat for the ordinary price and sells it dearer.
+
+This extraordinary profit is just enough to put his trade on a fair level with other trades.
+
+It compensates his many other losses from: 
+- the wheat's perishable nature, and
+- the frequent and unforeseen fluctuations of its price
+
+This alone shows why great fortunes are seldom made in the wheat trade.
+
 A popular odium attends the wheat trade in years of scarcity.
-    It makes people of character and fortune averse to enter into it.
-    The wheat trade is abandoned to an inferior set of dealers.
+
+It makes people of character and fortune averse to enter into it.
+
+The wheat trade is abandoned to an inferior set of dealers.
 
 The only middlemen that come between the grower and the consumer are:
 - millers
@@ -200,17 +214,18 @@ For the first fault:
 - the value of his wheat would be forfeited.
 
 For the second:
-    he would be imprisoned for six months, and
-    the double value of his wheat would be forfeited.
+- he would be imprisoned for 6 months, and
+- the double value of his wheat would be forfeited.
+
 For the third:
-    he would be imprisoned in the pillory, and
-    all his goods and chattels would be forfeited.
+- he would be imprisoned in the pillory, and
+- all his goods and chattels would be forfeited.
 
 The ancient policy of other European countries was no better than that of England.
 
 
 
-50 Our ancestors imagined that people could buy their wheat cheaper from the farmer than from the wheat merchant.
+<sup>50</sup> Our ancestors imagined that people could buy their wheat cheaper from the farmer than from the wheat merchant.
 
 They were afraid that the wheat merchant would require an exorbitant profit to himself.
 
@@ -219,9 +234,8 @@ They tried to:
 - hinder any middle man from coming in between the grower and the consumer, by imposing many restraints.
 
 A wheat carrier could only exercise his trade with a licence proving that he was fair.
-    Edward VI's statute required three justices of the peace to grant this licence.
-    The privilege of granting it was further confined to the quarter-sessions by a statute of Elizabeth.
 
+Edward VI's statute required three justices of the peace to grant this licence.
 
-
+The privilege of granting it was further confined to the quarter-sessions by a statute of Elizabeth.
 

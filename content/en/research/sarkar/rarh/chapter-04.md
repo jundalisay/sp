@@ -42,11 +42,14 @@ The Aryans began to proceed towards Ráŕh from the north-western part of Indi
 
 But the liberal Shaeva Dharma was being practised in Ráŕh long before the influx of the Aryans into Ráŕh.
 
-The influence of the Paoráńika Dharma [Puranic cult or religion] propounded by Shankaracharya was felt only 1,300 years ago [600 AD?]. 
 
-This Paoráńika Dharma of Shankaracharya’s should not be called Hindu Dharma.
+## The Puranic Religion Begins
 
-Shankaracharya’s religion mainly aimed at driving out the Buddha Dharma widely practised at that time. 
+The influence of the Puranic Dharma propounded by Shankaracharya was felt only 1,300 years ago [600 AD?]. 
+
+**This Paoráńika Dharma of Shankaracharya’s should not be called Hindu Dharma.**
+
+**Shankaracharya’s religion mainly aimed at driving out the Buddha Dharma widely practised at that time.** 
 
 The essence of Puranic Dharma was just obedience to cows, Brahmans, Vedas and kings.
 
@@ -60,9 +63,9 @@ But caste discrimination was unknown.
 
 The caste divisions came through the Aryans from the north-west.
 
-The caste discrimination system came only 1,300 years ago, after Shankaracharya preached his Puranic Dharma.
+**The caste discrimination system came only 1,300 years ago, after Shankaracharya preached his Puranic Dharma.**
 
-Intimidated by the followers of Puranic Dharma, the Buddhists of that age were unable to worship Buddha directly
+Intimidated by the followers of Puranic Dharma, the Buddhists of that age were unable to worship Buddha directly.
 
 They worshippied of Dharmat́hákur instead [the converted form of Buddha in the name of Shiva].
 

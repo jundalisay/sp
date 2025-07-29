@@ -79,26 +79,31 @@ When the development of civilization is utterly negligible and science gradually
 
 <!-- Now let me say a few words about intuitional knowledge.  -->
 
-In India, from the Tantric period to the Gupta period (the golden period of India), civilization and science progressed side by side.
+In India, from the Tantric period to the Gupta period (the golden period of India 3rd-6th century), civilization and science progressed side by side.
 
 Never did science enjoy greater prestige than civilization. 
 
 After the end of the Gupta era, scientific progress was overlooked. This resulted in degradation and downfall. 
 
-In the Pathan period, there was neither the development of civilization nor progress of science. This thwarted the progress of society. 
+In the Pathan period (12th-16th centuries), there was neither the development of civilization nor progress of science. This thwarted the progress of society. 
 
 For the all-round progress and development of the human society, both civilization and science have got to be encouraged and pursued. 
 
 If you see development of civilization, you will find that there is intellectual development as well. 
 
-Where there is cultivation of science, there too, intellectual analysis is a necessity. And so, for both civilization and science, intellectual knowledge is indispensable.
+Where there is cultivation of science, there too, intellectual analysis is a necessity. 
+
+And so, for both civilization and science, intellectual knowledge is indispensable.
 
 Spiritual or intuitional development is possible through the happy blending between civilization and science. 
 
-Even where there is no such blending at all, intuitional progress may yet be possible, but if science and civilization are harmonized, intuitional progress gets accelerated. 
+Even where there is no such blending at all, intuitional progress may yet be possible.
 
-Therefore, people of wisdom should proceed and progress, blending these two. It is useless to think of intuitional progress without effecting the harmony between the two.
+But if science and civilization are harmonized, intuitional progress gets accelerated. 
 
+Therefore, people of wisdom should proceed and progress, blending these two.
+
+It is useless to think of intuitional progress without effecting the harmony between the two.
 
 Our duty today is to cultivate science. But we should equally pay our attention to the development of civilization as well. 
 

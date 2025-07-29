@@ -51,7 +51,7 @@ Then he set out for Varanasi to preach his religion there. Later he passed away 
 
 But for the most part, the people of Magadh did not accept the religion preached by Mahavir Jain because:
 
-1. Jainism was averse to struggle
+1. **Jainism was averse to struggle**
 
 The interpretation of ahiḿsá(1) given by Mahavir in his religion was so unnatural and unrealistic that it was completely impossible for the common people of Magadh to accept it.
 
@@ -61,9 +61,11 @@ Since tilling the land may bring about the death of the insects in the soil, agr
 
 So that during respiration microbes should not enter the body through the nostrils and die, the nose must be covered with a piece of cloth. 
 
+
 2. Nirgranthaváda [no use of clothing on the body]. In the final stage of religious practice, nirgranthaváda (digambara) should be followed (one should remain naked). 
 
 For people living in society, this nirgranthaváda cult failed to evoke any response. 
+
 
 3. Between Shaeva Dharma and Jainism there was a yawning gap. 
 

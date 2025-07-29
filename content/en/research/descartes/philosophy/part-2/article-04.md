@@ -13,11 +13,12 @@ icon: "Rene Descartes"
 ---
 
 
+{{< n n="We replace 'extension' with aetherspace" >}}
 
-## 4. The nature of matter or body is in it having metaphysical space [extendsion] as length, width and depth alone.
 
+## 4. The nature of matter or body is in it having aetherspace [extension] as length, width and height alone.
 
-{{< n n="Descartes reiterates that the nature of matter is it occupying metaphysical space. From now, we will replace 'extension' with 'metaphysical space' to distinguish it from 'space' as physical space. Update April 2025: We change metaphysical space into aetherspace since the latter matches the DESI BAO findings" >}}
+{{< n n="Descartes reiterates that the nature of matter is it occupying aetherspace which is in between the aether and physical space. From now, we will replace 'extension' with 'aetherspace' to distinguish it from 'space' as physical space. Update April 2025: We changed metaphysical space into aetherspace since the latter matches the DESI BAO findings" >}}
 
 
 The nature of matter or body in general does not consist in anything sensory. 
@@ -31,129 +32,99 @@ Hardness is just the ability of hard bodies to resist the motion of our hands on
 <!-- , we know nothing of it by sense farther than that the parts of  -->
 
 But if all bodies moved away from our hands whenever we tried to touch them, then we would never experience hardness.
+- Yet those bodies would still be bodies to us.
 
  <!-- every time our hands moved towards any part, all the bodies in that place moved away as quickly as our hands approached,  -->
 
-Yet those bodies would still be bodies to us. 
-
 Therefore, the nature of bodies does not include hardness. 
-
 <!-- Yet we have no reason to believe that bodies which might thus recede would on this account lose that which makes them bodies.  -->
-
 <!-- The nature of body does not, therefore, consist in hardness.  -->
 
 In the same way, weight, colour, and all the other qualities of this sort, which are perceived in corporeal matter, can be removed from matter entirely. 
 
  <!-- may be taken from it, itself meanwhile remaining entire:  -->
 
-It follows that the nature of body depends on none of these.
+It follows that the nature of body:
+- depends on none of these
+- consists solely in its being a substance that has aetherspace [extension].
 
 
-## Compressed Versus Decompressed Bodies*
 
  <!-- Rarefaction -->
-{{< n n="We replace rarefaction with 'decompression' and condensation with 'compression'. This is to better associate with 'pressure' from the Negative Force." >}}
+<!-- n n="We replace rarefaction with 'decompression' and condensation with 'compression'. This is to better associate with 'pressure' from the Negative Force." >}} -->
+
+That this truth is obscured by people's opinions on expansion and space.
 
 
-### 5. The nature of body as extension is obscured by the opinions on decompression and vacuum.
+## 5. The nature of body as aetherspace [extension] is obscured by the opinions on decompression and vacuum.
 
 <!-- with which we are pre-occupied. extension-->
 
-Two reasons prevent the acceptance of the truth that the nature of body consists in metaphysical space alone. 
+Two reasons prevent the acceptance of the truth that the nature of body consists in aetherspace alone. 
 
-<!-- Many people think that 
+1. People think that expanded bodies have more aetherspace than when not expanded.
 
-The first is the prevalent opinion, that  -->
+Some have even separated a body's [aethereal] substance [idea] from its own physical size, and that physical size from its aetherspace [extension].
 
-<!-- most bodies can be so rarefied and condensed. rarefied extension condensed-->
+<!-- Some have even gone so far as to try to distinguish the substance of a body from its own magnitude, and that magnitude itself from its extension.  -->
 
-1. Some bodies can become very much decompressed and very much compressed
-
-When decompressed, bodies have greater metaphysical space than when compressed. 
-
-Some even have subtilized to the point that they make a distinction:
-- between the substance of body and its quantity 
-- between quantity itself and metaphysical space.
+{{< n n="For example, when a thing expands when heated, some people think that its atoms or molecules get larger.">}}
 
 
-2. We think of extension or metaphysical space as length, width, and height. 
 
-<!-- , we are not in the habit of saying that body is there, void space -->
+2. People do not understand what the aetherspace is [extension as length, width, and height]. 
+
+People think that the aetherspace is the same as space, or even as void space.
+
+This makes them think that the aetherspace is the same as nothing.
 
 People think that void is merely a negation of space.
 
 <!-- but only space and further  rarefaction-->
 
 
-### 6. How does decompression take place?
+### 6. How does contraction happen?
 
-If we watch our own thoughts, we will discover that the decompression and compression of an idea-body is **merely a change of shape** in the decompressed or compressed body.
+If we watch our own thoughts, we will discover that the expansion or contraction of an idea-body is **merely a change of its shape**.
 
-<!-- and admits nothing of which he is not clearly conscious, will not suppose that there is anything in those processes further than  -->
+A body expands when it gets filled by some other body through the gaps or spaces within it. 
 
-<!-- In other words, rare bodies have more numerous distances between their parts filled with other bodies.  -->
+A body contracts when the gaps or spaces within it get smaller. 
+- When all the space and gaps are gone, then the body cannot contract any further. 
 
-In other words:
-- decompressed bodies **have more gaps** between their particles
- <!-- that are filled with other bodies. -->
-- compressed or dense bodies, on the other hand, **have less or no gaps** between their particles.
+Yet in both cases, it has the same aetherspace. 
 
-
-{{< i s="/graphics/meta/space.jpg" a="Space versus Metaphysical Space" c="The idea of the object takes up no physical space" >}}
+We should not think that the space that expands the body is the aetherspace. 
+- Instead, that space is another body [as the virtual space particles]
 
 
-<!-- are those whose parts approach each other, either diminish these distances or removing them. -->
- <!-- wholly away, in the latter of which cases the body is rendered absolutely dense.  -->
+{{< i s="/graphics/physics/aetherspace.jpg" a="Space versus Aetherspace" c="The aetherspace is now called the gluon field" >}}
 
-The body, however, does not have less metaphysical space when compressed than when its particles occupy more physical space.
 
-<!-- , owing to their removal from each other, and their dispersion into branches. -->
+Similarly, a sponge full of water expands. 
+- But its aetherspace [extension] stays the same.
+- It is really the gaps or spaces within the body that become larger
 
-The idea-body of an object does not expand when it is decompressed by the mind. Instead, other idea-bodies fill in those gaps that are created by the decompression.   
-
-<!-- We should not to attribute to it the extension of the pores or distances which its parts do not occupy when it is rarefied, but to the other bodies that fill these interstices. -->
-
-A sponge full of water is different from a dry sponge because the wet sponge has wider pores. 
+is different from a dry sponge because the wet sponge has wider pores. 
 - This makes its body more diffused over a larger physical space.
 - But this does not mean that each sponge-particle has greater metaphysical space when wet than when dry
 
- <!-- each part of the sponge have greater extension than when compressed and dry -->
-<!-- , but only that its pores are wider, and therefore that the  -->
+{{< n n="In other words, the increase in sponge size is from the increase in water volume, not an increase in sponge material." >}}
 
 
-### 7. Decompression should only be thought in that way
-<!-- Rarefaction cannot be intelligibly explained unless in the way here proposed. -->
 
-<!-- I am unable to discover the force of the reasons which have induced  -->
+### 7. This is the best way to explain Contraction and Expansion
 
-Some say that the decompression of an idea-body is the result of the augmentation of the quantity of body.
-- I say no, and explain that this augmentation is an example of the sponge.
-<!-- , rather than to explain it on the principle exemplified in the case of a sponge.  -->
+I do not know why people say that bodies are expanded by an an increase in their material quantity rather than an increase of space, like a wet sponge. 
 
-When air or water is decompressed, we do not see:
-- any of its pores that become large, or
-- any new body that is added to occupy them.
+ <!-- use the example of a sponge.  -->
 
-But we still suppose that there is something unintelligible happening, so that we can explain the decompression of bodies.
-- This is better than inventing the concept of a new body that fills the pores or distances between the particles which are increased in physical size.
+When air or water expands, we cannot see:
+- the gaps between the air or water particles getting larger
+- the substance [space particles] that fills them
 
- <!-- , than to conclude, because of their rarefaction, that there are  , and filled with some new body. -->
+But it is better to explain expanding bodies to be filled with more space or some other invisible substance than for their matter to increase.
 
-<!-- Nor should we refrain from assenting to this explanation, because we perceive this new body by none of our senses, for there is no reason which obliges us to believe that we should perceive by our senses all the bodies in 
+We do not need our senses to perceive all the invisible substances around us. 
 
-Our senses cannot perceive all bodies in existence. -->
-
-Any other explanation will create a contradiction. 
- <!-- extension -->
-
-If we say that a new body filled up that metaphysical space, then it means that there suddenly is something that did not exist before.  
-
-
-<!-- - It will suppose that any body was increased by a quantity or metaphysical space which it did not have before, -->
-
- <!-- without the addition to it of a new extended substance, in other words, of another body, because it is impossible to conceive any addition of extension or quantity to a thing without supposing the addition of a substance having quantity or extension -->
-
-<!-- , as will more clearly appear from what follows. -->
-
-<!-- We see that it is very easy to explain rarefaction in this manner, but impossible in any other; for, in fine, there would be, as appears to me, a manifest contradiction in  -->
-
+It is not possible to conceive of any increase in size or aetherspace [extension] except by adding something that itself has size and aetherspace [extension]

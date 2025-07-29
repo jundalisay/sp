@@ -78,6 +78,7 @@ The following policies must more forcibly reduce the value of those metals in Sp
 This bad policy is not counter-balanced by the liberty and security of the people in Spain and Portugal.
 
 Industry is neither free nor secure there.
+
 Their absurd and foolish civil and ecclesiastical governments would alone be sufficient to perpetuate their present state of poverty, even though their commercial regulations were wise.
 
 
@@ -94,17 +95,22 @@ However, it was perhaps not so good in one or two respects.
 - oats rose to 192 pence
 
 A small duty of 6 pence was imposed on the quarter of wheat and other grains in proportion.
-    The home market is thus opened to foreign grain at much lower prices.
+
+The home market is thus opened to foreign grain at much lower prices.
+
 
 {{< s v="87" >}} By the same statute:
 
 The old bounty of 60 pence on wheat exports ceases as soon as its price rises to 528 pence the quarter, instead of 576 pence which was the price at which it ceased before.
 
 The bounty of 30 pence on barley exports ceases as soon as its price rises to 264 pence instead of 288 pence.
+
 The bounty of 30 pence on oatmeal exports ceases so soon as its price rises to 168 shillings, instead of 180.
 
+
 The bounty on rye is reduced from 42 pence to 36 pence.
-    It ceases as soon as the price rises to 336 pence instead of 384.
+
+It ceases as soon as the price rises to 336 pence instead of 384.
 
 The sooner export bounties cease and the lower they are, so much the better.
 
@@ -118,7 +124,9 @@ Perhaps there are no proper warehouses in other British ports.
 
 {{< s v="90" >}} By the same law:
 - a  bounty of 24 pence the quarter is given for oats exportation whenever its price does not exceed 168 pence.
-        No bounty had ever been given before for oats exports, no more than bounties for peas or beans.
+
+No bounty had ever been given before for oats exports, no more than bounties for peas or beans.
+
     
 - {{< s v="91" >}}  wheat exportation is banned as soon as wheat prices rise to 528 pence the quarter.
 - rye exportation is banned as soon as it rises to 336 pence.

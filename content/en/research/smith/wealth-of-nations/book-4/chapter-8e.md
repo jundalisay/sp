@@ -50,8 +50,10 @@ It is impossible to devise a tax which could produce a considerable revenue to t
 "It is exported in great quantities."
 
 The great difference between the price at home and the price in the foreign market is such a temptation to smuggling.
-    All the rigour of the law cannot prevent it.
-    This illegal exportation is advantageous only to the smuggler.
+
+All the rigour of the law cannot prevent it.
+
+This illegal exportation is advantageous only to the smuggler.
 
 A legal, taxed exportation will afford a revenue to the sovereign.
 - It will save the imposition of other taxes which might be more burdensome and inconvenient.
@@ -61,6 +63,7 @@ A legal, taxed exportation will afford a revenue to the sovereign.
 {{< s v="33" >}} Fuller's earth or fuller's clay is supposed to be necessary for preparing and cleansing woollen manufactures.
 
 Its exportation was subjected to nearly the same penalties as wool exportation.
+
 Tobacco-pipe clay is different from fuller's clay but resembles it.
 - Because of their resemblance, fuller's clay is sometimes exported as tobacco-pipe clay.
   - Tobacco-pipe clay has been given the same prohibitions and penalties.
@@ -69,6 +72,7 @@ Tobacco-pipe clay is different from fuller's clay but resembles it.
 {{< s v="34" >}} By the 1661 and 1662 chap. 7. the exportation of raw hides and tanned leather was prohibited except as boots, shoes, or slippers.
 
 This law gave a monopoly to our bootmakers and shoemakers against our graziers and our tanners.
+
 By subsequent statutes, our tanners were exempted from this monopoly upon paying a small tax of one shilling on the hundred weight of tanned leather, weighing 112 pounds.
 
 They obtained the drawback of 2/3 of the excise duties imposed on leather.
@@ -92,7 +96,9 @@ Even the horns of cattle are prohibited to be exported.
 {{< s v="35" >}} Restraints by prohibitions or by taxes on exports which are not completely manufactured, are not peculiar to leather manufactures.
 
 As long as any work remains to be done to fit any commodity for consumption, our manufacturers think that they themselves should do it.
+
 "Woollen yarn and worsted are prohibited to be exported under the same penalties as wool."
+
 Even white cloths are subject to an export duty.
 
 Our dyers have a monopoly against our clothiers.

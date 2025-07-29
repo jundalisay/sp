@@ -24,9 +24,11 @@ In food matters, the people of Ráŕh, being influenced by Shaivism, were sent
 
 They adopted the Shaivite ideology in all spheres of their life. 
 
-So we see for example that in the vratakathá [verses recited during the domestic worship of a deity] of Ráŕh only the glory of Shiva is preached again and again.
+In the vratakathá [verses recited during the domestic worship of a deity] of Ráŕh, only the glory of Shiva is preached.
 
-The Carak, Gájan and Bolán festivals of Ráŕh are all completely Shiva-centric. Even Rabindranath, a poet of the modern age, has referred to the worship of omnipresent Shiva in his poems:
+The Carak, Gájan and Bolán festivals of Ráŕh are all completely Shiva-centric. 
+
+Even Rabindranath, a poet of the modern age, has referred to the worship of omnipresent Shiva in his poems:
 
 {{< q >}}
 Chili ámár putul kheláy prabháte shivapújár beláy
@@ -42,7 +44,9 @@ When I do His worship, I worship You as well.]
 {{< /q >}}
 
 
-Even innumerable rural folk-rhymes prevalent in Ráŕh are paeans to Shiva. A liberal Shaeva [Shaivite] ideology permeated every existential vibration, every cell of the bone and marrow of Ráŕh. 
+Even innumerable rural folk-rhymes prevalent in Ráŕh are paeans to Shiva. 
+
+A liberal Shaeva [Shaivite] ideology permeated every existential vibration, every cell of the bone and marrow of Ráŕh. 
 
 This is why the women of Ráŕh always enjoyed more liberty than those of other countries.
 
@@ -56,17 +60,22 @@ Even Bagri [Samatat] and Barendrabhumi(1) did not allow women as much freedom as
 
 Moreover, there were numerous restrictions based on caste.
 
-Shankaracharya came to Ráŕh only [not the rest of Bengal]. 
+Shankaracharya [8th century from Karnataka Southwest India] came to Ráŕh only [not the rest of Bengal]. 
 
 Hence many Buddhists and Jains of Ráŕh embraced Puranic Dharma.
 
-D́abák being marshy land, neither Shankaracharya nor any of his disciples with leadership qualities visited there much. So the inhabitants of that land remained Buddhists and later embraced Islam on a large scale. 
+D́abák [Ladakh in northern India] was marshy land.
+- So neither Shankaracharya nor his disciples with leadership qualities visited there much. 
+- So its people remained Buddhists and later embraced Islam on a large scale. 
 
 Muslims are scarce in modern-day Ráŕh, except for some in eastern Ráŕh.
 
-Hindus and Muslims are almost equally numerous in Bagri. But in D́abák Muslims are in great number. The reason is this.
+Hindus and Muslims are almost equally numerous in Bagri. 
 
-The history of Ráŕh is not the history of Ráŕh alone, it is the history of Bagri, D́abák, Barendra and Orissa also. 
+But in D́abák Muslims are in great number. The reason is this [Ladakh was marshy].
+
+
+The history of Ráŕh is not the history of Ráŕh alone, it is the history of Bagri, D́abák [Ladakh], Barendra and Orissa also. 
 
 Wherever the people of Ráŕh have settled down, they have mingled and become one with the local people. 
 
@@ -75,11 +84,15 @@ So there is a close link between the people of Ráŕh and the people of Orissa
 Severe caste discrimination arose in Ráŕh due to the influence of the Paoráńika Dharma propounded by Shankaracharya.
 - This evil created fatal rents in the otherwise well-knit social fabric of Ráŕh. 
 
-A man who showed outstanding wisdom while rescuing Ráŕh from the sway of that horribly destructive system was Chaitanya Mahaprabhu (Vishwambhar Mishra).
 
-He formed a new group, the Vaishnavite group, with those people who were not socially recognized by the high-caste Hindus.
+Chaitanya Mahaprabhu [18 February 1486 – 14 June 1534] (Vishwambhar Mishra):
+- had outstanding wisdom
+- rescued Ráŕh from Puranic dharma
+- formed a new Vaishnavite group with people who not socially recognized by the high-caste Hindus.
 
-The people of this Vaishnavite group are still spread in many places throughout Ráŕh. Mahaprabhu’s historic contribution still permeates every atom of the soil of Ráŕh. 
+The people of this Vaishnavite group are still spread in many places throughout Ráŕh. 
+
+Mahaprabhu’s historic contribution still permeates every atom of the soil of Ráŕh. 
 
 So no one can lose caste so easily today.(2)
 

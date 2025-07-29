@@ -40,16 +40,21 @@ THe re-exportation would be:
 The growers will be careful never to grow more wheat unless the ordinary surplus can be exported.
 
 The importers will never import more than what is needed at the home market.
-        That market will generally be understocked and very seldom be overstocked.
-    The wheat suppliers will be afraid that their wheat should be unsold.
+
+That market will generally be understocked and very seldom be overstocked.
+
+The wheat suppliers will be afraid that their wheat should be unsold.
+
 The export ban limits the country's cultivation to what the local supply requires.
-    The freedom of exportation enables it to extend cultivation for the supply of foreign markets.
+
+The freedom of exportation enables it to extend cultivation for the supply of foreign markets.
 
 
 {{< s v="76" >}} The 12th of Charles 2nd Chapter 4, allowed wheat exportation whenever wheat prices did not exceed 480 pence the quarter relative to other grains.
 
 The 15th of Charles 2nd extended this liberty until wheat prices exceeded 576 pence the quarter.
-    The 22nd of Charles 2nd extended it to all higher prices.
+
+The 22nd of Charles 2nd extended it to all higher prices.
 
 A poundage tax was to be paid to the king on such exportation.
 
@@ -73,8 +78,10 @@ The last of these statutes allowed wheat to be engrossed at any price for export
 However, the inland dealer's interest can never be opposite the people's interest.
 
 The merchant exporter's interest may be opposite and sometimes is.
-    If his own country has a dearth while a neighbouring country has a famine, he might carry his country's wheat to the neighbouring country.
-    He might very much aggravate the dearth.
+
+If his own country has a dearth while a neighbouring country has a famine, he might carry his country's wheat to the neighbouring country.
+
+He might very much aggravate the dearth.
 
 Those statutes did not aim for the plentiful supply of the home market. It aimed to: 
 - raise wheat's money price as high as possible, under the pretence of encouraging agriculture
@@ -98,27 +105,32 @@ Had that system been good, Great Britain would not have needed to frequently cha
 
 As the freedom of the inland trade is the best palliative of a dearth and the most effectual preventative of a famine, so is the freedom of the exportation and importation among the states of a great continent.
 
-    One part of the continent will be less exposed to calamities= 
-        the larger the continent
-        the easier the land and water communication through it
-    The scarcity of one country would be relieved by the plenty of another.
-        But very few countries have entirely adopted this liberal system.
+One part of the continent will be less exposed to calamities:
+- the larger the continent
+- the easier the land and water communication through it
+
+The scarcity of one country would be relieved by the plenty of another.
+
+But very few countries have entirely adopted this liberal system.
 
 The freedom of the wheat trade is almost everywhere restrained.
-    In many countries it is confined by absurd regulations that frequently aggravate a dearth into a famine.
-        The wheat demand of such countries might become so great and urgent that a small nearby state, which was also under a dearth, would not be able to supply them without exposing itself to famine.
-        One country's very bad policy might render it dangerous to establish what would otherwise be the best policy in another country.
+
+In many countries it is confined by absurd regulations that frequently aggravate a dearth into a famine.
+- The wheat demand of such countries might become so great and urgent that a small nearby state, which was also under a dearth, would not be able to supply them without exposing itself to famine.
+- One country's very bad policy might render it dangerous to establish what would otherwise be the best policy in another country.
 
 The unlimited freedom of exportation would be much less dangerous in great states where the growth is much greater.
-    Its supply could seldom be much affected by any amount of exported wheat.
+- Its supply could seldom be much affected by any amount of exported wheat.
 
 In a Swiss canton, or in some little Italian states, it may be necessary to restrain wheat exportation.
-    In big countries such as France or England, export restraints can rarely be necessary.
+
+In big countries such as France or England, export restraints can rarely be necessary.
 
 To hinder the farmer from sending his goods at all times to the best market is to sacrifice justice for public utility or some state reasons.
 
-    This legislative authority should be exercised and pardoned only during the most urgent necessity.
-    The price at which wheat exportation is prohibited should always be a very high price.
+This legislative authority should be exercised and pardoned only during the most urgent necessity.
+
+The price at which wheat exportation is prohibited should always be a very high price.
 
 
 

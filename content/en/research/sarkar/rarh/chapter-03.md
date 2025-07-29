@@ -1,5 +1,5 @@
 ---
-title: "The Varnashrama System"
+title: "The Varnashrama Caste System"
 heading: "Chapter 3"
 weight: 6
 c: "seagreen"
@@ -12,47 +12,69 @@ writer:
 
 
 
-The varńáshrama social system [four-caste system] did not originate in India. 
+The varńáshrama social system did not originate in India. 
 
-This weed crept into India from the north-west and, sucking all the vital juice out of the verdurous expanse of people’s minds, it threatened not only to destroy their minds, but to annihilate them totally.
+This weed crept into India from the north-west.
 
-The effects linger on. 
+It:
+- sucked all the vital juice out of the people’s minds
+- threatened to annihilate their minds totally.
 
-We still feel the ill effects in our innermost being, in every vein and capillary. This varnáshrama system is an ineradicable black spot on us. 
+The effects linger on.
+
+We still feel the ill effects in our innermost being, in every vein and capillary.
+
+This varnáshrama system:
+- is an ineradicable black spot on us
+- created a wave of discrimination and superiority complex and inferiority complex
 
 Ráŕh, situated at the furthest end of northern India, was also touched by this all-obliterating wave. 
 
-Just as in northern India, the social discipline in Ráŕh was about to be devastated by this caste system. [Throughout northern India,] all attempts to stop the onrush of the scourge of this wave, this wave of discrimination, superiority complex and inferiority complex, with weak embankments of sand, proved futile.
+Just as in northern India, the social discipline in Ráŕh was about to be devastated by this caste system.
 
-No one could stop it, but in Ráŕh some efforts were made. There an attempt, at least, was made to give some support to society so as to save the social edifice from the jaws of disaster. 
+Throughout northern India, attempts to stop this wave proved futile.
 
-Smárta(1) Raghunandan invented a two-caste system which was also defective, but less than the four-caste system.
+<!-- No one could stop it, but in Ráŕh some efforts were made. There an attempt, at least, was made to give some support to society so as to save the social edifice from the jaws of disaster.  -->
+
+For example, Smárta (1) Raghunandan [who lived in the 16th century] invented a two-caste system which was also defective, but less than the four-caste system.
 
 An experiment at least was certainly made. 
 
-Bankimchandra and Haraprasad Shastri appeared at a time when the people of Ráŕh and Bengal had, in confusion, forgotten their real selves.
+Bankimchandra and Haraprasad Shastri [1853 – 1931] appeared at a time when the people of Ráŕh and Bengal had forgotten their real selves because of the confusion.
 
-They had failed to find a link in their lives between the past and the present. Self-recrimination was the order of the day. 
+They had failed to find a link in their lives between the past and the present. 
 
-They came with a lamp of enlightenment in that dark age.
+Self-recrimination was the order of the day. 
 
-In their literary work they both sallied forth not only with strokes of the pen and marks of ink, but also in a vital literary achievement that resonated with the loud clang of swords. 
+Through their literary work, they came with a lamp of enlightenment in that dark age.
+
+<!-- In their literary work they both sallied forth not only with strokes of the pen and marks of ink, but also in a vital literary achievement that resonated with the loud clang of swords.  -->
 
 Bankim and Haraprasad were Ráŕhii by lineage.
 
-Like the shruti shástra [the Vedas] the smrti shástra [social scripture] is neither unchangeable nor divine. The social scripture undergoes changes in every age according to the needs of society.
+<!-- Like the shruti shástra [the Vedas] the smrti shástra [social scripture] is -->
+
+Both the Vedas and social system are neither unchangeable nor divine. 
+
+The social scripture undergoes changes in every age according to the needs of society.
 
 So India clung to the interpretation of Mitákśará(2) given in the smrti shástra of Manu.
 - It did not consider its merits and demerits
 - This flung the people into a dark well of oblivion and isolated India from the rest of the world
 
-Jimutbahan Bhattacharya, an inhabitant of Ráŕh, introduced the Dáyabhága (3) system, based on a much more scientific and humanistic outlook and on sensitivity for the rights of daughters. This set Ráŕh and Bengal free from family squabbles.
 
-At that time myriad evils and aberrations, and various unholy and corrupt practices, paralysed social life. 
+Jimutbahan Bhattacharya [Jimutavahana of the 12th century] was an inhabitant of Ráŕh.
+- He introduced the Dáyabhága (3) system, based on a much more scientific and humanistic outlook and on sensitivity for the rights of daughters. 
+
+This set Ráŕh and Bengal free from family squabbles.
+
+At that time, myriad evils and aberrations, and various unholy and corrupt practices, paralysed social life. 
 
 Some influential persons, enjoying the privilege of higher social standing, began to make people outcastes with or without reason. 
 
-Those who were thus excommunicated found it hard to live in society with self-respect and with their heads held high. So many converted to other religions because of:
+Those who were thus excommunicated found it hard to live in society with self-respect.
+
+So many converted to other religions because of:
 - the mental pressure on them
 - the irresistible lure of acquiring social status
 
@@ -66,7 +88,7 @@ The invention of the melbandhan system was a great revolutionary step on the par
 
 This clearly showed their originality of thought and their spirit of independence.
 
-Krishnananda Agambagish was another revered son of Ráŕh. He:
+Krishnananda Agambagish [16th century] was another revered son of Ráŕh. He:
 - brought about innovations in religious life by thoroughly reforming the ritualistic system of worship and festivals of Ráŕh.
 - introduced some sort of logic into the illogical system of offering worship.
 

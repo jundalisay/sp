@@ -51,11 +51,11 @@ The cheapness of gold and silver rendered those metals less fit for use as money
   - Is the convenience of having more plates more trifling than the inconvenience of having to carry more metal money?
   - Neither could have made any very essential change in Europe.
 
-> *a coin with a smaller value
+{{< n n="*a coin with a smaller value" >}}
 
 
-The discovery of America certainly made a most essential change.
-- It led to a new and inexhaustible market to all European commodities,
+
+The discovery of America made a most essential change by creating a new and inexhaustible market for all European commodities.
 - This created new divisions of labour and improvements of art.
   - These improvements could never have happened because of the narrowness of the ancient commerce.
 <!-- The narrow market prevented the sale of most of their produce. -->
@@ -66,8 +66,9 @@ The discovery of America improved European productivity.
   - Many American commodities were new to Europe.
 
 A new set of mutually-beneficial exchanges began which was never thought of before.
-- However, the Europeans' savage injustice rendered this event ruinous to several American countries.
+- However, the Europeans' savage injustice* rendered this event ruinous to several American countries.
 
+{{< n n="This is why our Social Superphysics is generally anti-Western" >}}
 
 
 ## The Effect of Portugal's Monopoly of the East
@@ -162,7 +163,7 @@ It thus became necessary for the political economy to:
 - reduce foreign imports for home consumption as much as possible
 - increase the domestic exports as much as possible
 
-Its two great engines for enriching the country were: 
+Its 2 great engines for enriching the country were: 
 
 1. Restraints on importation
 2. Encouragements to exportation
@@ -181,10 +182,10 @@ Its two great engines for enriching the country were:
 - advantageous commercial treaties with foreign states
 - the establishment of colonies in distant countries
 
-{{< s v="41" >}} Drawbacks were given on two occasions.
+{{< s v="41" >}} Drawbacks were given on 2 occasions.
 
-When the home manufactures were subject to any duty or excise, all or a part of it was frequently drawn back on exportation.
-When foreign goods liable to a duty were imported to be exported again, all or a part of this duty was sometimes given back on exportation.
+1. When the home manufactures were subject to any duty or excise, all or a part of it was frequently drawn back on exportation.
+2. When foreign goods liable to a duty were imported to be exported again, all or a part of this duty was sometimes given back on exportation.
 
 {{< s v="42" >}} Bounties were given for:
 - the encouragement of some startup manufactures

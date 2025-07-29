@@ -33,9 +33,16 @@ The people of Midnapore are more or less short, but some are medium-sized, and a
 
 If anybody draws a straight line from Arambag of Hooghly District to the north across Burdwan and Kandi, the people living along that line, especially the Brahmans, the Kayasthas and the Sadgopes, are the tallest of all the people of Ráŕh. 
 
-They have comparatively high-bridged noses and are somewhat fair-complexioned. It was possibly due to the long-time political importance of this region, and its importance in trade and commerce, and the existence of Buddhist and Jain places of pilgrimage, monasteries, etc., that the Aryan outsiders’ blood entered in, and brought about these changes.
+They have comparatively high-bridged noses and are somewhat fair-complexioned. 
 
-But the people who live along that line are not the most long-lived. Those who have the longest lifespan in Ráŕh are the Kayasthas of Bankura and Manbhum. 
+The Aryan outsiders’ blood entered in, and brought about these changes due to:
+- the long-time political and economic importance of this region
+<!-- -  and its importance in trade and commerce, and -->
+-  the existence of Buddhist and Jain places of pilgrimage, monasteries, etc.
+
+But the people who live along that line are not the most long-lived. 
+
+Those who have the longest lifespan in Ráŕh are the Kayasthas of Bankura and Manbhum. 
 
 They are also tall and have high noses, but they are not as fair-complexioned as those who live along the line of Arambag, Burdwan and Kandi.
 

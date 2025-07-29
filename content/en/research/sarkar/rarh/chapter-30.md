@@ -31,15 +31,30 @@ One thing that was very noticeable was that most of the kingdoms or regions had 
 
 1. Birbhum
 
-In the Austric language, biir means “forest”. This Birbhum consisted of Rajmahal and Pakurh Subdivisions of Santal Pargana District, Rampurhat Subdivision of Birbhum District, Kandi Subdivision and the Ráŕh portion (the areas to the west of the Bhagirathi River) of the district of Murshidabad. The rulers of Birbhum were Kayasthas whose surname was Sinha. They thwarted the inroads of Buddhism for a long time.
+In the Austric language, biir means “forest”.
 
-When Santal Pargana District was created in 1856, Pakurh Subdivision and Rajmahal Subdivision were annexed to that district. Later, even Kandi Subdivision was cut out of Birbhum and made a part of the district of Murshidabad.
+This Birbhum consisted of Rajmahal and Pakurh Subdivisions of Santal Pargana District, Rampurhat Subdivision of Birbhum District, Kandi Subdivision and the Ráŕh portion (the areas to the west of the Bhagirathi River) of the district of Murshidabad.
+
+The rulers of Birbhum were Kayasthas whose surname was Sinha. They thwarted the inroads of Buddhism for a long time.
+
+When Santal Pargana District was created in 1856, Pakurh Subdivision and Rajmahal Subdivision were annexed to that district. 
+
+Later, even Kandi Subdivision was cut out of Birbhum and made a part of the district of Murshidabad.
+
 
 2. Gopabhum
 
-The Gopabhum kingdom consisted of Deoghar and Dumka Subdivisions of the district of Santal Pargana and Shiuri Sadar Subdivision of Birbhum. This entire kingdom was included in the Zilla [district] Birbhum during the Mughal period. The Sadgope kings, whose surname was Ghosh, ruled the land. 
+The Gopabhum kingdom consisted of Deoghar and Dumka Subdivisions of the district of Santal Pargana and Shiuri Sadar Subdivision of Birbhum. 
 
-Ichai Ghosh was the most notable of all the kings of the Ghosh dynasty. Most probably it was Ichai Ghosh who for the first time used Bengali in place of Sanskrit for the administrative work. It was Ichai Ghosh who brought a good number of Brahmans and Kayasthas to his kingdom, settled them on tax-free land, and planned to build a society of scholars. The Brahmans came from Burdwan and the Kayasthas from Kandi. 
+This entire kingdom was included in the Zilla [district] Birbhum during the Mughal period. The Sadgope kings, whose surname was Ghosh, ruled the land. 
+
+Ichai Ghosh was the most notable of all the kings of the Ghosh dynasty. 
+
+Most probably it was Ichai Ghosh who for the first time used Bengali in place of Sanskrit for the administrative work. 
+
+It was Ichai Ghosh who brought a good number of Brahmans and Kayasthas to his kingdom, settled them on tax-free land, and planned to build a society of scholars. 
+
+The Brahmans came from Burdwan and the Kayasthas from Kandi. 
 
 A somewhat similar thing happened in Chut́iyá Nagpur (it is erroneous to call it Chota Nagpur). King Ratu of Ranchi brought a large number of Ráŕhii Brahmans from Burdwan and settled them there, in his own kingdom. 
 
@@ -50,16 +65,22 @@ It was these Deoghariiya Brahmans who established the Paoráńika cult in the 
 
 3. Samantabhum
 
-Samantabhum consisted of Durgapur and Asansol Subdivisions of Burdwan and Jamtara Subdivision of Santal Pargana District. At one time the whole of Samantabhum had fallen within Ranigunj Subdivision of the district of Burdwan. Later, when Santal Pargana came into existence, Jamtara was joined with it.
+Samantabhum consisted of Durgapur and Asansol Subdivisions of Burdwan and Jamtara Subdivision of Santal Pargana District.
 
-Asansol being a bigger town than Ranigunj, the headquarters of the subdivision was shifted to Asansol. Later, the importance of Durgapur having increased, Durgapur Subdivision was formed out of the eastern part of that subdivision, and Asansol Subdivision was formed out of the western part. The Ugrakśatriya [a kśatriya sub-caste] kings with Samanta as their surname ruled Samantabhum.
+At one time the whole of Samantabhum had fallen within Ranigunj Subdivision of the district of Burdwan. Later, when Santal Pargana came into existence, Jamtara was joined with it.
+
+Asansol being a bigger town than Ranigunj, the headquarters of the subdivision was shifted to Asansol. 
+
+Later, the importance of Durgapur having increased, Durgapur Subdivision was formed out of the eastern part of that subdivision, and Asansol Subdivision was formed out of the western part. The Ugrakśatriya [a kśatriya sub-caste] kings with Samanta as their surname ruled Samantabhum.
 
 
 4. Shikharbhum
 
 The expanse of this Shikharbhum kingdom included the present-day district of Dhanbad and everything west up to Sametshikhar, or the Pareshnath Hills. 
 
-The kingdom of Shikharbhum was named after Sametshikhar. The Shikharbhum kingdom of Ráŕh lay to the east and south, and the kingdom of Jharkhand to the north and west, of Sametshikhar. Later the kingdom got divided up into the regions of Jharia, Katras, etc. A branch known as Shikhar Samaj exists among the Rajuaras, the Bede Mahatos, the Bauris and the Ráŕhii Maithili Brahmans of Bengal.
+The kingdom of Shikharbhum was named after Sametshikhar. The Shikharbhum kingdom of Ráŕh lay to the east and south, and the kingdom of Jharkhand to the north and west, of Sametshikhar. 
+
+Later the kingdom got divided up into the regions of Jharia, Katras, etc. A branch known as Shikhar Samaj exists among the Rajuaras, the Bede Mahatos, the Bauris and the Ráŕhii Maithili Brahmans of Bengal.
 
 
 5. Mallabhum
@@ -88,27 +109,55 @@ Two Munda brothers, Adibaraha and Keshbaraha, founded this kingdom. Later, it di
 
 9. Singhabhum
 
-This kingdom consisted of the central and western parts of the present-day district of Singhbhum. The kings of the Kole sub-tribe ruled this kingdom. In course of time, this kingdom broken into two segments – Singbhum in the west and Porahat in the east. Still later, the kingdom of Porahat split in two – Kharsoyan in the west and Seraikela in the east. During the British rule, Kharsoyan and Seraikela were two principalities. The Keraikela region was also included within this kingdom.
+This kingdom consisted of the central and western parts of the present-day district of Singhbhum. 
+
+The kings of the Kole sub-tribe ruled this kingdom. 
+
+In course of time, this kingdom broke into 2:
+
+- Singbhum in the west
+- Porahat in the east
+
+Still later, the kingdom of Porahat split in 2:
+- Kharsoyan in the west
+- Seraikela in the east
+
+During the British rule, Kharsoyan and Seraikela were 2 principalities.
+
+The Keraikela region was also included within this kingdom.
 
 
 10. Dhabalbhum or Dhalbhum
 
-This kingdom consisted of Dhalbhum Subdivision of Singhbhum District and Jhargram Subdivision of Midnapore District. The surname of the kings was Dhabaldeo, and the kingdom was named after them.
+This kingdom consisted of Dhalbhum Subdivision of Singhbhum District and Jhargram Subdivision of Midnapore District.
+
+The surname of the kings was Dhabaldeo, and the kingdom was named after them.
 
 
 11. Shabarbhum
 
-This kingdom was formed out of most of the areas of the district of Midnapore. The kings of the Shabar clan (of the Kheŕiyá Muńd́á) ruled it. Later this kingdom broke up into numerous small zamindaries.
+This kingdom was formed out of most of the areas of the district of Midnapore. 
+
+The kings of the Shabar clan (of the Kheŕiyá Muńd́á) ruled it. Later this kingdom broke up into numerous small zamindaries.
 
 
 12. Bhanjabhum
 
-The ancient name of the kingdom of Mayurbhanja was Bhanjabhum. As each and every emblem of the royal family bore the figure of a peacock [mayúr], the kingdom was called Mayurbhanja. The kings of Mayurbhanja also had zamindaries in the Nayabasan area of Midnapore District. The British long ago annexed the Nayabasan area to British India.
+The ancient name of the kingdom of Mayurbhanja was Bhanjabhum. 
+
+As each and every emblem of the royal family bore the figure of a peacock [mayúr], the kingdom was called Mayurbhanja.
+
+The kings of Mayurbhanja also had zamindaries in the Nayabasan area of Midnapore District. The British long ago annexed the Nayabasan area to British India.
+
 
 
 13. Saptashati
 
-The Saptashati region consisted of the eastern parts of the districts of Burdwan and Hooghly. The Saptashati (i.e., Satshaika) Brahman kings ruled here. Their rule came to an end during the Muslim period and then some parts of this kingdom went into the formation of Sharifabad Pargana (an area near the city of Burdwan).
+The Saptashati region consisted of the eastern parts of the districts of Burdwan and Hooghly. 
+
+The Saptashati (i.e., Satshaika) Brahman kings ruled here.
+
+Their rule came to an end during the Muslim period and then some parts of this kingdom went into the formation of Sharifabad Pargana (an area near the city of Burdwan).
 
 
 14. Bhurishreshtha, or Bhursoot

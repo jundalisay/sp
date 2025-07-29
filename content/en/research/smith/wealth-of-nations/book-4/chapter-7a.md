@@ -80,17 +80,22 @@ The citizens who had no land could only subsist on the bounties of the candidate
 The tribunes animated the people against the rich by reminding them of the ancient division of lands.
 
 They said that the fundamental law of the republic was to restrict this private property.
-    The people became clamorous to get land.
-    The rich were perfectly determined not to give them any.
+
+The people became clamorous to get land.
+
+The rich were perfectly determined not to give them any.
 
 To satisfy the people. the rich frequently proposed to send out a new colony.
 
 But Rome was under no need of turning out her citizens to seek their fortune without knowing where they were to settle.
 
 She assigned them lands in the conquered provinces of Italy.
+
 They could never form an independent state as those lands were within the republic.
+
 Those settlements were a sort of corporation which had the power of enacting bylaws for its own government.
-    However, they were at all times subject to the authority of the mother city.
+
+However, they were at all times subject to the authority of the mother city.
 
 The sending out of this kind of colony gave some satisfaction to the people.
 
@@ -115,16 +120,21 @@ Both derived their origin from irresistible necessity or from clear and evident 
 {{< s v="4" >}} The establishment of the European colonies in America and the West Indies arose from no necessity.
 
 Their utility was very great but not understood at their first establishment.
+
 Utility was not the motive of the colonies nor of the discoveries occasioned by it.
+
 The nature, extent, and limits of that utility are not well understood to this day.
 
 
 {{< s v="5" >}} During the 14th and 15th centuries, the Venetians had a very advantageous commerce in spiceries and East India goods.
 
 They purchased them chiefly in Egypt and distributed them to other European nations.
-    Egypt was then under the Mammeluks, the enemies of the Turks.
-    The Turks were the enemies of the Venetians.
-    This union of interest, assisted by the money of Venice, formed such a connection that gave the Venetians almost a monopoly of the trade.
+
+Egypt was then under the Mammeluks, the enemies of the Turks.
+
+The Turks were the enemies of the Venetians.
+
+This union of interest, assisted by the money of Venice, formed such a connection that gave the Venetians almost a monopoly of the trade.
 
 
 {{< s v="6" >}} "The great profits of the Venetians tempted the avidity of the Portuguese."
@@ -141,28 +151,39 @@ During the 15th century, the Portuguese tried to find a way by sea to the countr
 - Benguela and, finally, 
 - the Cape of Good Hope.
 
+
 Their discovery of the Cape of Good Hope opened a prospect of sharing the profitable traffic of the Venetians.
+
 In 1497, Vasco de Gama sailed from Lisbon with four ships.
-    After 11 months, he arrived in India.
-    He completed a course of discoveries which was pursued with great steadiness and very little interruption for nearly a century.
+
+After 11 months, he arrived in India.
+
+He completed a course of discoveries which was pursued with great steadiness and very little interruption for nearly a century.
 
 
 {{< s v="7" >}} Some years before this, the success of the Portuguese projects appeared doubtful.
 
 While Europe was in suspense about those projects, a Genoese pilot formed the more daring project of sailing to the East Indies by the West.
-    At that time, the location of those countries was very imperfectly known in Europe.
+
+At that time, the location of those countries was very imperfectly known in Europe.
+
 The few European travellers who had been there magnified the distance, perhaps through simplicity and ignorance.
-The great distance was made it appear almost infinite by= 
-    those who could not measure it
-    those who wanted to increase the marvel of their own adventures
+
+The great distance was made it appear almost infinite by:
+- those who could not measure it
+- those who wanted to increase the marvel of their own adventures
     
 Columbus very justly concluded that the longer the way was by the east.
-    He proposed to take the way west as the shortest and surest.
-    He was fortunate to convince Isabella of Castile of the probability of his project.
-    He sailed from Palos in August 1492, nearly five years before the expedition of Vasco de Gama from Portugal.
-    After a voyage of 2-3 months, he discovered= 
-        The Bahamas or Lucayan islands
-        The great island of St. Domingo
+
+He proposed to take the way west as the shortest and surest.
+
+He was fortunate to convince Isabella of Castile of the probability of his project.
+
+He sailed from Palos in August 1492, nearly five years before the expedition of Vasco de Gama from Portugal.
+
+After a voyage of 2-3 months, he discovered:
+- The Bahamas or Lucayan islands
+- The great island of St. Domingo
 
 
 

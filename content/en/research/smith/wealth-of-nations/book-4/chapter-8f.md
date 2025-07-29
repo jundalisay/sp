@@ -47,12 +47,15 @@ The home market became always scantily supplied. Those drugs were likely to be d
 {{< s v="40" >}} That statute enumerated gum senega or gum arabic as among the dyeing drugs.
 
 They could be imported duty-free.
+
 They were subjected to a small poundage export duty.
+
 It was 3 pence the hundredweight on re-exportation.
 
 At that time, France had an exclusive trade to it.
 
 Senegal was the country most productive of those drugs.
+
 The British market could not be easily supplied by the importation from Senegal.
 
 By the 25th of George 2nd, gum senega was allowed to be imported from any part of Europe, contrary to the Act of Navigation.
@@ -63,9 +66,11 @@ Contrary to the principles of the English mercantile policy, it imposed a duty o
 None of this duty could be drawn back on exportation.
 
 The successful French and Indian War, which began in 1755, gave Great Britain the same exclusive trade to the countries France had before.
+
 Our manufacturers availed of this advantage as soon as peace was made.
 
 They tried to establish a monopoly against gum growers and importers.
+
 By the 5th George 3rd chap. 37, gum senega exportation from British dominions in Africa was confined to Great Britain.
 
 It was subjected to the same regulations as the enumerated commodities of the British colonies in America and the West Indies. It was subjected to:
@@ -86,11 +91,15 @@ By the 14th George 3rd chapter 10. this duty on exportation was reduced to 60 pe
 {{< s v="41" >}} The old subsidy [duty] was levied according to the book of rates.
 
 The old subsidy for beaver skins was estimated at 80 pence a piece.
+
 Half of the old subsidy amounted only to 2 pence.
+
 Before 1722, different subsidies and imposts were laid on their importation.
 
 They amounted to 1/5 of 80 pence or 16-pence on each skin.
+
 All of the subsidies, except the old subsidy, were drawn back on exportation.
+
 This duty was thought too high.
 
 In 1722, the export duty was reduced to 30 pence a piece.
@@ -113,7 +122,9 @@ The import duty then was between 4 pence and 5 pence the piece.
 {{< s v="42" >}} Coals may be considered both as a material of manufacture and as an instrument of trade.
 
 Heavy duties were imposed on coal exportation.
+
 At present (1783) it is more than 60 pence the ton, or more than 180 pence the chaldron, Newcastle measure.
+
 This is more than the original value of coal at the coal pit or even at the port for exportation.
 
 

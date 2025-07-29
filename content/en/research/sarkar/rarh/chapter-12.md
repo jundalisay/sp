@@ -42,35 +42,53 @@ This state of synthesis went on for thousands of years and extended up to the Bu
 
 The process of give-and-take between the pre-Aryan civilization and the invading Aryan civilization did take place, but not without much bargaining and many a tug-of-war.
 
-Of all the defective gifts of the Aryans that the indigenous Indians accepted, one was the system of caste division, which spread hatred between the high and the low.
+The Aryans gave defective gifts to the indigenous Indians.
+
+One of these was the system of caste division, which spread hatred between the high and the low.
 
 The Aryan civilization came to a standstill at the threshold of the kingdom of Káshiirájya (Varanasi).
 
 Then a lot of strenuous efforts were made in order for Mithila to be accepted in Áryyavartta [Land of the Aryans], or Uttarápath [northern India]. 
 
-But in the end Magadh did not win this acceptance. The word magadh means “a population which is opposed to the Vedic system”. 
+But in the end Magadh did not win this acceptance. 
+
+The word magadh means “a population which is opposed to the Vedic system”. 
 
 Maga means “opposed to the Vedas” and dha means “one who abides by”. 
 
-Ráŕh, which was located on the further [eastern] border of Magadh, had no opportunity to become “sanctified” by the touch of the Aryans’ feet. 
+Ráŕh was located on the eastern border of Magadh.
 
-But just as the system of caste division entered Magadh under the influence of Áryavartta, so also did it enter Ráŕh to some extent. Ráŕh too became segmented into so many castes, but thanks to the firmly-rooted Shaeva Dharma, caste-based hatred could not crystallize in Ráŕh.
+It had no opportunity to become “sanctified” by the touch of the Aryans’ feet. 
 
-That there was casteism in India even before the emergence of Buddhism and Jainism is best proven by the fact that Buddha came from a Kśatriya varńa [here, a sub-caste] belonging to the Malla branch of the Shakya pravara [dynasty].
+But the system of caste division entered Magadh under the influence of the Aryans.
 
-(His father was a feudal king.)
+ <!-- Áryavartta, so also did -->
 
-Vardhaman Mahavir was born in a Vaeshya family of Bideha. His father, Siddhartha, was a businessman. So the caste system did exist in India. 
+- It also entered Ráŕh to some extent. 
+
+Ráŕh too became segmented into so many castes.
+
+But thanks to the firmly-rooted Shaeva Dharma, caste-based hatred could not crystallize in Ráŕh.
+
+Buddha came from a Kśatriya varńa [here, a sub-caste] belonging to the Malla branch of the Shakya pravara [dynasty].
+- His father was a feudal king.
+- This proves that there was casteism in India even before the emergence of Buddhism and Jainism 
+
+Vardhaman Mahavir was born in a Vaeshya family of Bideha. 
+
+His father, Siddhartha, was a businessman. So the caste system did exist in India. 
 
 This caste system also reached a peak in Magadh in a later period.
 
-After the demise of Buddha, the kings – both Buddhists and non-Buddhists – said clearly that since Buddha was a Kśatriya, they were entitled to the ashes from his cremation.
+After the demise of Buddha, both Buddhist and non-Buddhist kings said that since Buddha was a Kśatriya, they were entitled to the ashes from his cremation.
 
-But it was not like this in Ráŕh. The caste system was made to grow among the common people in Ráŕh [inhabitants of Ráŕh].
+But it was not like this in Ráŕh. The caste system was made to grow among the common people in Ráŕh.
 
 There is no logic behind the contention that the Ráŕhiiya Utkal Brahmans came from outside.
 
-To say, based on imaginative stories, that the Brahmans of Ráŕh were outsiders, would not be logical. In clear terms I hereby refute the Kulatantrárńava of the Ráŕhii Brahmans.(1)
+To say, based on imaginative stories, that the Brahmans of Ráŕh were outsiders, would not be logical. 
+
+I clearly refute the Kulatantrárńava of the Ráŕhii Brahmans.(1)
 
 Caste discrimination came to Ráŕh much later.
 
@@ -78,7 +96,9 @@ The Puranic Dharma of Shankaracharya weighed Ráŕh down and immobilized its s
 
 It converted the spontaneous flow of life in Ráŕh into a stagnant pool and paved the way for countless weeds to burgeon. 
 
-The defective mentality and way of life of Puranic Dharma became intolerable for people. Hence, many in Ráŕh-Samatat-Barendra-D́abák who came in contact with the more humanitarian Islam took shelter in it.
+The defective mentality and way of life of Puranic Dharma became intolerable for people. 
+
+Hence, many in Ráŕh-Samatat-Barendra-D́abák who came in contact with the more humanitarian Islam took shelter in it.
 
 1981, Kolkata
 

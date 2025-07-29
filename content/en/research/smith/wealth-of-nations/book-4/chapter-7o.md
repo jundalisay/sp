@@ -60,19 +60,23 @@ This would then revive the parental affection of Great Britain and the filial re
 "Every province necessarily contributes to increase the expence of that general government."
 
 If any province does not contribute, an unequal burden must placed on some other part of the empire.
+
 The wartime revenue of every province should be proportional to peacetime revenue of the empire.
+
 Neither the ordinary nor extraordinary revenue from British colonies is proportional to the revenue of Great Britain.
 
 The monopoly was supposed to:
 - increase British private revenue
 - enable the British to pay more taxes to compensate the deficiency of revenue from the colonies.
 
-I have shown that this monopoly is a very grievous tax on the colonies.
-    It may increase the revenue of an order of men in Great Britain, but it reduces the people's revenue.
-    It consequently reduces the people's ability to pay taxes.
-    The order of men who get increased revenue from the monopoly is absolutely impossible to tax beyond the proportion of other orders.
-        I shall show in Book 5 that that order is extremely unwise even to attempt to tax beyond that proportion.
-        No resource can be drawn from that order.
+This monopoly is a very grievous tax on the colonies.
+- It increase the revenue of an order of men in Great Britain, but it reduces the people's revenue.
+- It consequently reduces the people's ability to pay taxes.
+
+The order of men who get increased revenue from the monopoly is absolutely impossible to tax beyond the proportion of other orders.
+  
+Book 5 will show that that order is extremely unwise even to attempt to tax beyond that proportion.
+- No resource can be drawn from that order.
 
 
 ### Colony Assemblies
@@ -104,11 +108,11 @@ Such offices would dispose the leaders to:
 - tax their constituents to support that general government.
 
 Almost the whole emoluments were divided among people who were strangers to them.
-The following renders such a system of management unfeasible:
 
-The unavoidable ignorance of administration concerning the importance of those assembly members
-The offences which must frequently be given
-The blunders which must constantly be committed in attempting to manage them.
+The following renders such a system of management unfeasible:
+- The unavoidable ignorance of administration concerning the importance of those assembly members
+- The offences which must frequently be given
+- The blunders which must constantly be committed in attempting to manage them.
 
 
 {{< s v="156" >}} "The colony assemblies cannot be the proper judges of what is necessary for the defence and support of the whole empire."
@@ -116,12 +120,15 @@ The blunders which must constantly be committed in attempting to manage them.
 The care of that defence and support is not entrusted to them.
 
 It is not their business.
+
 They have no regular information concerning it.
 
 The assembly of a province, like the vestry of a parish, may judge very properly concerning the affairs of its own district.
 
 But it can have no proper means of judging those of the whole empire.
+
 It cannot even judge properly the proportion of its own province to the whole empire.
+
 It cannot judge the relative degree of its wealth and importance compared with other provinces.
 
 Because those other provinces are not under the inspection and superintendency of the assembly of a particular province.

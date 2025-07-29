@@ -42,30 +42,35 @@ But if to this, the duty of the salt usually taken credit for as expended in cur
 			
 The bounty on each barrel would amount to 	£ 	1 	7 	5 ¾
 			
-If the herrings are cured with British salt, it will stand thus, namely= 
+If the herrings are cured with British salt, it will stand thus, namely:
 Bounty as before 	£. 	0 	14 	11 ¾
 —but if to this bounty the duty on two bushels of Scots salt at 1 s. 6 d. per bushel, supposed to be the quantity at a medium used in curing each barrel is added, to wit, 		0 	3 	0
 			
 The bounty on each barrel will amount to 	£. 	0 	17 	11 ¾
-And,
+
 When buss herrings are entered for home consumption in Scotland, and pay the shilling a barrel of duty, the bounty stands thus, to wit, as before 	£ 	0 	12 	3 ¾
 From which the 1 s. a barrel is to be deducted 		0 	1 	0
-			
-		0 	11 	3 ¾
+				0 	11 	3 ¾
 But to that there is to be added again, the duty of the foreign salt used in curing a barrel of herrings, viz.. 		0 	12 	6
 			
 So that the premium allowed for each barrel of herrings entered for home consumption is 	£. 	1 	3 	9 ¾
 			
 If the herrings are cured with British salt, it will stand as follows, viz.
+
 Bounty on each barrel brought in by the busses as above 	£. 	0 	12 	3 ¾
+
 From which deduct the 1 s. a barrel paid at the time they are entered for home consumption 		0 	1 	0
 			
 	£. 	0 	11 	3 ¾
 But if to the bounty the duty on two bushels of Scots salt at 1 s. 6 d. per bushel, supposed to be the quantity at a medium used in curing each barrel, is added, to wit 		0 	3 	0
 			
 The premium for each barrel entered for home consumption will be 	£. 	0 	14 	3 ¾
+
 Though the loss of duties upon herrings exported cannot, perhaps, properly be considered as bounty; that upon herrings entered for home consumption certainly may.
-An Account of the Quantity of Foreign Salt imported into Scotland, and of Scots Salt delivered duty free from the Works there for the Fishery, from the 5th of April 1771 to the 5th of April 1782, with a Medium of both for one year.
+
+
+An Account of the Quantity of Foreign Salt imported into Scotland, and of Scots Salt delivered duty free from the Works there for the Fishery, from April 5, 1771 to April 5, 1782, with a Medium of both for one year.
+
 PERIOD. 	Foreign Salt imported 	Scots Salt delivered from the Works
 Bushels. 	Bushels.
 
