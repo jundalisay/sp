@@ -108,8 +108,7 @@ This is because wherever we imagine a limit, we can still picture beyond it to s
 These are not imaginary spaces, but ones that we conceive to actually be as we imagine them.
 
 Thus, they contain a body indefinitely extended. 
-
-Because the idea of extension we conceive in any space whatsoever is the true idea thatwe should have of body itself.
+- This is because our idea of length, width, and height [extension] in any space is the true idea that we should have of body itself.
 
 
 <!-- This world or the universe of corporeal substance, is extended without limit. -->
@@ -125,6 +124,7 @@ This is because the idea of metaphysical space which we conceive in any physical
 
 <!-- ### 22. It also follows that the matter of the heavens and earth is the same, and that there cannot be a plurality of worlds. -->
 
+
 ## 22. It also follows that the Earth and the Heavens are made of the same matter and that there cannot be multiple worlds
 
 <!-- the aethereal substance of space and matter is the same, and that there cannot be a  plurality of worlds* -->
@@ -135,11 +135,14 @@ Even if there were an infinity of worlds, they would be made of this same matter
 
 It follows that there cannot be multiple worlds.
 
-Because we clearly conceive that matter, whose nature consists solely in being something extended, already occupies all the imaginable spaces where these other worlds could be.
+
+The nature of matter consists solely in having length, width, height [being something extended].
+
+This [spatial] matter already occupies all the imaginable spaces where these other worlds could be.
 
 We cannot discover within ourselves the idea of any other kind of matter.
 
-{{< n n="The 'worlds' here would mean causes. It means a single phenomenon has a single root cause and not many" >}}
+{{< n n="The multiple 'worlds' here would mean universes that had totally different Physics. Descartes allows a multiverse with many universes, but those universes have **similar** Physics, and never totally different." >}}
 
 <!-- The earth and heavens are made of the same substance. -->
 <!-- matter  -->
@@ -157,14 +160,33 @@ This is because matter already totally occupies all the imaginable spaces where 
 <!-- We cannot find in ourselves the idea of any other matter. -->
 
 
-## 23. All the variety of matter, or the diversity of its forms, depends on motion.
+## 23. All the varieties found in matter depend on the movement of its particles
 
- <!-- matter -->
-There is therefore just one kind of substance in the whole universe. This we know only by its metaphysical space. 
+
+**There is only one and the same matter throughout the entire universe.**
+
+We know it solely by the fact that it has lenght, width, height [is extended].
+
+All the properties that we distinctly perceive in it relate to its capacity to:
+- be divided and moved according to its particles, and
+- receive all the different configurations we observe arising from the movement of its particles.
+
+We can imagine mental divisions in this matter.
+
+But our thought has no power to change it.
+
+All the diversity of forms within it depends on local movement.
+
+Philosophers have noted this, since they have said that nature is the principle of motion and rest.
+
+"Nature" is that which causes bodies to be arranged in the way we observe them through experience.
+
+
+<!-- There is therefore just one kind of substance in the whole universe. This we know only by its metaphysical space.  -->
 
 <!-- being extended.  -->
 
-All the properties we distinctly perceive to belong to it are reducible to its capacity of being divided and moved according to its parts. 
+<!-- All the properties we distinctly perceive to belong to it are reducible to its capacity of being divided and moved according to its parts. 
 
 Accordingly, it is capable of all those affections which we perceive can arise from the motion of its parts. 
 
@@ -174,5 +196,5 @@ But all variation of it, or diversity of form, depends on motion.
 
 The philosophers even seem universally to have observed this. They said that:
 - nature was the principle of motion and rest
-- 'nature' meant how all corporeal things become such as they are found in experience.
+- 'nature' meant how all corporeal things become such as they are found in experience. -->
 

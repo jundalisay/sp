@@ -8,19 +8,23 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "darkgoldenrod"
 icon: "Rene Descartes"
-# aliases:
-#   /research/descartes/philosophy/part-2/section-03
 ---
 
 
 ## 24. What is the current understanding of motion?
 
+
 Movement is the action by which a body passes from one place to another. 
 
-The same thing changes [internal] place and does not change at the same time depending on perspective or external place.
-- Therefore, it moves and does not move at the same time.
+A thing can change location or move and yet not change location or not move at the same time, depending on the reference point used.
 
-{{< n n="We call this sequential or linear or relative motion where the body moves from point `A` to `E` by going through points `B`, `C`, `D` consecutively or successively. Whether the body is moving or not depends on viewspace (reference frame to Einstein)" >}}
+<!-- For example, someone seated at the stern of a ship driven by the wind believes he is moving when he looks only at the shore he departed from and considers it immobile, but does not think he is moving when he pays attention only to the ship he is on, since he does not change his position relative to its parts. Nevertheless, because we are accustomed to thinking that movement must involve an action, we say that the one sitting is at rest, since he feels no action within himself—and such is common usage. -->
+
+
+<!-- The same thing changes [internal] place and does not change at the same time depending on perspective or external place.
+- Therefore, it moves and does not move at the same time. -->
+
+<!-- n n="We call this sequential or linear or relative motion where the body moves from point `A` to `E` by going through points `B`, `C`, `D` consecutively or successively. Whether the body is moving or not depends on viewspace (reference frame to Einstein)" >}} -->
 
 For example, someone who is sitting at the stern of a ship that is moving forward believes:
 - he is moving relative to his immobile starting point. 

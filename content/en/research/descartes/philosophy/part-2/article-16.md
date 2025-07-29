@@ -1,8 +1,8 @@
 ---
-title: "There is no Vacuum or Empty Space"
+title: "There is no Void in Nature"
 heading: Articles 16-17
 weight: 22
-description: "A vacuum or space in which there is absolutely no body is repugnant to reason"
+description: "Void is an empty space where there is no substance."
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
