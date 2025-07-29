@@ -12,89 +12,149 @@ icon: "Rene Descartes"
 
 
 
-## 19. This confirms what was said of Decompression.
- <!-- Rarefaction -->
+## 19. How this works with Expansion
 
-The nature of corporeal substance consists only in its being an extended [metaphysical] thing.
+The nature of material substance or body consists solely in its being the aetherspace [something extended, having length, width, height]
+- Its aetherspace [length, width, height] does not differ from the length, width, height [extension] attributed to empty space, 
+
+Then it follows that it cannot:
+- in any way, occupy more space at one time than another
+- be expanded in any way other than by being filled with external content. 
+
+<!-- that already described above. -->
+
+It also follows that a vessel has the same volume [as length, width, height] when it is full of gold, lead, or some other heavy and hard substance as when it contains only air and seems empty. 
+
+This is because the contents of a body depends only on its length, width, height [extension], which is always the same in a given vessel.
+
+ <!-- magnitude of the parts composing a body does not depend on the weight or hardness we perceive, as was already noted, but  -->
+
+
+<!-- The nature of corporeal substance consists only in its being an extended [metaphysical] thing.
 
 Its extension [metaphysical space] is the same as space, however empty.
 
-It is impossibile for any of its parts to occupy more space at one time than at another.
+It is impossibile for any of its parts to occupy more space at one time than at another. -->
 
 <!-- , and thus of being otherwise rarefied than in the way explained above. -->
 
-A vessel filled with gold has the same amount of matter when it is empty and filled with air. 
+<!-- A vessel filled with gold has the same amount of matter when it is empty and filled with air.  -->
 
 <!-- There cannot be more matter in a vessel when it is filled with lead or gold, or any other body however heavy and hard, than when it but contains air and is supposed to be empty. -->
 
-This is because the quantity of particles that a body is composed of does not depend on their weight or hardness.
-- **It only depends on the body's metaphysical space, which is always equal in the same vase.**
+<!-- This is because the quantity of particles that a body is composed of does not depend on their weight or hardness.
+- **It only depends on the body's metaphysical space, which is always equal in the same vase.** -->
 <!-- extension -->
 
 
-## 20. From this, the non-existence of indivisible atoms may be demonstrated
+## 20. This means that there can be no atoms or indivisible small bodies
 
-This means that there are no such thing as indivisible atoms or indivisible matter particles. 
+Some philosophers have imagined that atoms or indivisible particles exist.
+
+Such particles must have length, width, height [be extended], no matter how small they are.
+
+The length, width, height of atoms could still be divided.
+
+This means that they are divisible.
+
+<!-- —because if we clearly and distinctly understand that something can be divided, we must conclude that it is divisible. Otherwise, our judgment would contradict our knowledge of the thing. -->
+
+Even if God had reduced a particle of matter to such an extreme smallness that it could not be divided, **we could still not conclude that it is indivisible**.
+
+If it is not divisible then He would deprive Himself of the power to divide it.
+
+ <!-- since His omnipotence cannot be diminished—as has already been noted. -->
+
+Thus, the smallest particle that has length, width, height [is extended] can always be divided, because divisibility is inherent to its nature.
+
+
+
+<!-- This means that there are no such thing as indivisible atoms or indivisible matter particles.  -->
 
  <!-- cannot exist any atoms or matter particles that are of their own nature .  -->
 
  <!-- necessarily extended -->
-**This is because those particles are have metaphysical space.** 
+<!-- **This is because those particles are have metaphysical space.** 
 
-**This allows us to divide them into smaller parts in our thought.** *
+**This allows us to divide them into smaller parts in our thought.** * -->
 
-{{< n n="The object exists only in our thought" >}}
 
 <!-- , and may accordingly admit their divisibility.  -->
 
-Anything that we can divide **in thought** is thereby divisible.
+<!-- Anything that we can divide **in thought** is thereby divisible.
 
 Therefore, if we judged it to be indivisible, then our judgment would not be in harmony with our **knowledge** of the thing.
 
 We suppose that God had reduced any particle of matter to extreme smallness that it did not admit of being further divided.
 - But it should not be called 'indivisible'
-- Any creature might be unable to divide it, but God can.
+- Any creature might be unable to divide it, but God can. -->
 
  <!-- not however deprive himself of the ability to do so, since it is absolutely impossible for him to lessen his own omnipotence, as was before observed. -->
 
- Thus, absolutely speaking, the smallest extended particle is always divisible, since it is such of its very nature.
+ <!-- Thus, absolutely speaking, the smallest extended particle is always divisible, since it is such of its very nature. -->
 
 
+## 21. The length, width, and height [extension] of the world is indefinite
 
-## 21. The metaphysical space of the world is indefinite
-<!-- extension -->
+<!-- We will also understand that this world—or  -->
 
-This world or the universe of corporeal substance, is extended without limit.
+The extended matter* that makes up the universe has no bounds. 
+
+{{< n n="This is the 2nd Element, or Spatial Layer in Material Superphysics which includes spacetime and aetherspace" >}}
+
+
+This is because wherever we imagine a limit, we can still picture beyond it to spaces indefinitely extended.
+
+These are not imaginary spaces, but ones that we conceive to actually be as we imagine them.
+
+Thus, they contain a body indefinitely extended. 
+
+Because the idea of extension we conceive in any space whatsoever is the true idea thatwe should have of body itself.
+
+
+<!-- This world or the universe of corporeal substance, is extended without limit. -->
 <!-- whole (universitas) -->
 
-Wherever we fix a limit, we still not only imagine beyond it spaces indefinitely extended, but perceive these to be truly imaginable, in other words, to be in reality such as we imagine them. 
+<!-- Wherever we fix a limit, we still not only imagine beyond it spaces indefinitely extended, but perceive these to be truly imaginable, in other words, to be in reality such as we imagine them. 
 
 In this way, they contain in them corporeal substance indefinitely extended. 
 
-This is because the idea of metaphysical space which we conceive in any physical space is plainly identical with the idea of corporeal idea [substance].
+This is because the idea of metaphysical space which we conceive in any physical space is plainly identical with the idea of corporeal idea [substance]. -->
 
 <!-- This is because the idea of extension which we conceive in any space whatever is plainly identical with the idea of corporeal substance. -->
 
 <!-- ### 22. It also follows that the matter of the heavens and earth is the same, and that there cannot be a plurality of worlds. -->
 
-## 22. It also follows that the aethereal substance of space and matter is the same, and that there cannot be a  plurality of worlds*
+## 22. It also follows that the Earth and the Heavens are made of the same matter and that there cannot be multiple worlds
+
+<!-- the aethereal substance of space and matter is the same, and that there cannot be a  plurality of worlds* -->
+
+<!-- Finally, it is not difficult to infer from all of this that the Earth and the Heavens are made of the same single kind of matter. And  -->
+
+Even if there were an infinity of worlds, they would be made of this same matter.
+
+It follows that there cannot be multiple worlds.
+
+Because we clearly conceive that matter, whose nature consists solely in being something extended, already occupies all the imaginable spaces where these other worlds could be.
+
+We cannot discover within ourselves the idea of any other kind of matter.
 
 {{< n n="The 'worlds' here would mean causes. It means a single phenomenon has a single root cause and not many" >}}
 
-The earth and heavens are made of the same substance.
+<!-- The earth and heavens are made of the same substance. -->
 <!-- matter  -->
 
-Although there were an infinity of worlds*, they would all be composed of this substance.
+<!-- Although there were an infinity of worlds*, they would all be composed of this substance. -->
 <!-- matter -->
 
 
-It follows that a plurality of worlds, or many [causal] universes, is impossible. 
+<!-- It follows that a plurality of worlds, or many [causal] universes, is impossible. 
 
-This is because matter already totally occupies all the imaginable spaces where these other worlds could be.
+This is because matter already totally occupies all the imaginable spaces where these other worlds could be. -->
 
  <!-- matter (whose nature consists only in its being an extended substance)  -->
 
-We cannot find in ourselves the idea of any other matter.
+<!-- We cannot find in ourselves the idea of any other matter. -->
 
 
 ## 23. All the variety of matter, or the diversity of its forms, depends on motion.

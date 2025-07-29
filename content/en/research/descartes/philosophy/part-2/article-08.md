@@ -55,14 +55,9 @@ But in reality, the following cannot happen:
 - the smallest part of this quantity-thought is only removed when an equal part is also removed from the quantity-idea 
 - the smallest part of the quantity-idea is only removed when  an equal part is also removed from the quantity-thought 
 - conversely, that the smallest part of the substance be removed without 
-
- and extension also being taken away.
-
-
  without thinking of this determinate substance, we can conceive both*:
 - the number 10
 - 10 feet (as a continuous quantity) -->
-
 
 <!-- This is because the concept of the number 10 is the same in 10 feet, 10 things, etc.  -->
 
@@ -75,9 +70,22 @@ Although we cannot conceive 10 feet without some extended substance of which it 
 It is in reality, however, impossible that any, even the least part, of such quantity or extension, can be taken away, without the retrenchment at the same time of as much of the substance, nor, on the other hand, can we lessen the substance, without at the same time taking as much from the quantity or extension. -->
 
 
+## 9. The physical substance cannot be clearly conceived without its aetherspace [extension]
 
+<!-- , when distinguished from its number, is confusedly thought of as incorporeal. -->
 
-## 9. The corporeal substance, when distinguished from its number, is confusedly thought of as incorporeal.
+<!-- If some people explain this subject differently, I do not think they conceive anything other than what I have just stated.  -->
+
+Some people distinguish a thing's substance [idea-body] from its aetherspace [extension] and its physical size.
+
+Such people either:
+- mean nothing by the word “substance” or
+- they have a confused idea of immaterial substance,which they attribute to material substance
+
+In so doing, they:
+- leave the aetherspace [extension] with the true idea of that material substance.
+- yet call material substance an “accident” so inappropriately that their words do not match their thoughts.
+
 
 <!-- Physical matter, when distinguished from metaphysical quantity, is confusedly conceived as something metaphysical.
 
@@ -90,72 +98,68 @@ Then they leave to metaphysical space the true idea of this physical matter.
 
 <!-- And although perhaps some may say otherwise, I do not think they perceive anything else; but  -->
 
-People who distinguish substance from size or number actually do not know what incorporeal substance means. 
+
+
+
+<!-- People who distinguish substance from size or number actually do not know what incorporeal substance means. 
 - They think that substance is physical. 
 
 They thus think that a corporeal substance has a [metaphysical] size which they nevertheless call an accident.
 
-And so they express something quite different from what they comprehend in their mind.
+And so they express something quite different from what they comprehend in their mind. -->
 
 
 ## 10. What is space or internal place?
 
+Space, or internal place, and the body contained within that space differ only in our thinking. 
+
+In fact, the same aetherspace [extension] in length, width, and height that constitutes a body's [atomic] space also constitutes the body.
+
+The difference between them is that: 
+
+- We attribute to the body its own aetherspace [extension].
+  - We think that that aetherspace [extension] changes position and goes with it whenever it is moved.
+- But we attribute to space a vague aetherspace [extension].
+
+When we move a body from a space we do not think that we have also moved that space’s [aetherspace] extension.
+
+This is because we see that same aetherspace [extension] always there as long as it has the same size, shape, and has not changed location with respect to the external bodies by which we define it.
+
 
 <!-- corporeal substance -->
-Space or internal place, and the physical matter in it, are not different in reality.
+<!-- Space or internal place, and the physical matter in it, are not different in reality.
 
 They are merely different in the mode conceived by us. 
 
-The same extension in length, width, and height, which constitutes space, constitutes body.
+The same extension in length, width, and height, which constitutes space, constitutes body. -->
 
 <!-- Their only difference is that **in body, we consider extension as particular, and conceive it to change with the body**. Whereas in space **we attribute a generic unity to extension**. -->
 
-Their only difference is that **we see the space occupied by the body as different from the body**. Whereas we see space **to be united to extension**.
+<!-- Their only difference is that **we see the space occupied by the body as different from the body**. Whereas we see space **to be united to extension**.
 
-- After a body has occupied a space, we know that the extension of that space was not removed at the same time. The same extension remains there so long as it is of the same size and shape, and preserves the same location relative to certain bodies around it, by means of which we determine this space.
+- After a body has occupied a space, we know that the extension of that space was not removed at the same time. The same extension remains there so long as it is of the same size and shape, and preserves the same location relative to certain bodies around it, by means of which we determine this space. -->
 
 <!-- - After taking from a certain space the body which occupied it, we do not suppose that we have at the same time removed the extension of the space. This is because it appears to us that the same extension remains there so long as it is of the same magnitude and shape, and preserves the same location relative to certain bodies around it, by means of which we determine this space. -->
 
 
-## Physical Space Versus Metaphysical Space
+## 11. Space is the same as the body that it contains
 
-## 11. Space, in reality, is not different from corporeal substance
+<!-- Space, in reality, is not different from corporeal substance -->
 
-It is the same extension which constitutes the nature of body as of space.
+The same aetherspace [extension] which constitutes the nature of a body also constitutes the nature of space.
+- The aetherspace is specific.
+- Space is general. 
 
-These 2 things are mutually diverse only as the nature of the genus and species differs from that of the individual, provided we reflect on the idea we have of any body.
+Get a stone and remove everything that does not pertain to the nature of body:
+- Remove hardness because the stone can be ground into soft powder, yet it will still be a body. 
+- Remove color since some stones are transparent and have no color.
+- Remove weight because we see that fire, though very light, remains a body. 
+- Remove cold, heat, and other such qualities because we *believe* that these do not exist intrinsically in the stone
 
-For example, we think of a stone.
-- We reject all that is not essential to the nature of the body of a stone. 
+The stone’s nature does not change just because it is hot at one time and cold at another. 
 
-We can reject:
-- hardness 
-  - This is because if the stone were liquefied or reduced to powder, it would no longer have hardness. Yet it  would still be a body.
-- colour
-  - This is because we have frequently seen stones so transparent as to have no colour. 
-- weight
-  - This is because we have the case of fire. Fire is very light. But it is still a body.
-- temperature
-  - They are not considered as in the stone
-  - A change of temperature does not cause the stone to lose its nature as a body. 
+Our true idea of the stone is seeing it as a substance extended in length, width, and height.
 
-After this examination, we find that nothing remains in the idea of body, except that it is something extended in length, width, and depth.
-- This something is comprised in our idea of space, not only of that which is full of body, but even of 'void space'.
-
-
-
-## 12. Space differs from body in our mode of conceiving it.
-
-There is, however, some difference between them in the mode of conception.
-
-If we remove a stone from the place where it was, we see that its extension [of stone] is also taken away. This is because we regard its extension as particular and inseparable from the stone itself.
-
-But the same extension of place where this stone was remains, even if that place is now occupied by air or even if it is vacant.
-
- <!-- wood, water, air, or by any other body, or be even supposed vacant, because  -->
-
-This makes us consider extension in general. 
-
-We think that the same extension is common to stones, wood, water, air, and other bodies, even to a vacuum itself, provided it:
-- be of the same magnitude and shape as before, and 
-- preserve the same situation among the external bodies which determine this space.
+Length, width, and height is in our idea of space whether:
+- space that is filled with bodies [aetherspace]
+- but even what we call empty space [spacetime]
