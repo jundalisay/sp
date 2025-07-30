@@ -1,5 +1,5 @@
 ---
-title: "Timespan and Time"
+title: "Time and Number exist only in our Minds"
 heading: Articles 57-61
 weight: 26
 description: "Timespan is taken from that generality, and call it as the measure of motion"
@@ -13,11 +13,35 @@ icon: "Rene Descartes"
 
 ## 57. Some attributes exist in things inherently. Other attributes exist only in our thought. 
 
-An example is timespan and time.
+
+For example, we distinguish time from general duration.
+- We use time as the measure of movement.
+- Time is nothing but a particular way in which we think about that duration.
+
+We do not conceive that the duration of moving things differs from that of non-moving things. 
+
+Assume 2 bodies move for 1 hour:
+1. Body `A` moves quickly
+2. Body `B` moves slowly
+
+They have the same time even if Body `B` moves faster .
+
+<!-- We do not count more time in one than in the other, even though we suppose there is more movement in the faster one. -->
+
+In order to comprehend the duration of all things under a common measure, we rely on the duration of regular movements.
+- Examples are days and years.
+
+We call this measure time, after having made the comparison. 
+
+But in truth, time is nothing outside the actual duration of things—it is merely a way of thinking.
+
+
+
+<!-- An example is timespan and time. -->
 
 <!-- Of these attributes or modes, there are some which exist in the things themselves, and others that have only an existence in our thought. -->
 
-- Time is general.
+<!-- - Time is general.
 - Timespan is taken from that generality, and call it as the measure of motion.
 
 Time is a certain mode. Under time is timespan itself. The timespan of moving things is the same as that of non-moving things.
@@ -26,26 +50,70 @@ For example, 2 bodies are in motion for 1 hour.
 - `Body A` is moving quickly.
 - `Body B` is moving slowly.
 
-They both have the same time even if `Body A` has much more motion.
+They both have the same time even if `Body A` has much more motion. -->
 
 <!-- One body does not have more time than the other, although there may be  in one of the bodies than in the other.  -->
 
-We aggregate all the timespans under a common measure called 'time' when we compare them to the the greatest and most regular motions that give rise to years and days.
+<!-- We aggregate all the timespans under a common measure called 'time' when we compare them to the the greatest and most regular motions that give rise to years and days. -->
 
 <!-- But the "duration" of all things we put under a common measure and compare with that of  -->
 
-Hence, "time" is just a mode of thinking. 
-- It is not superadded to duration, taken in its generality.
+<!-- Hence, "time" is just a mode of thinking. 
+- It is not superadded to duration, taken in its generality. -->
 
 
-## 58. **Number and all universals are only modes of thought.**
+## 58. **That numbers and universals depend on our thought**
 
-In the same way, an abstract or general number is just a mode of thinking.
-- The same is true of all those general ideas we call universals.
+<!-- **Number and all universals are only modes of thought.** -->
+
+<!-- In the same way, an abstract or general number is just a mode of thinking.
+- The same is true of all those general ideas we call universals. -->
 <!-- , when it is not considered as in created things, but merely in the abstract or in general, ;  -->
 
 
+
+In the same way, the general abstract notion of number, exists only in our thought just like other general ideas called universals in scholastic philosophy.
+
+<!-- when considered without reflecting on any particular created thing,  -->
+
+<!-- Just like all those  that, in , are classified under the name of universals, they are not external to our minds. -->
+
+
+
 ## 59. How are universals formed? What are the 5 common universals?
+
+They are formed when we use the same idea to think about multiple things that share a certain relation.
+
+When we group those things under a single name that is represented by the idea, that name also becomes universal.
+
+For example, we see 2 stones.
+- Without thinking further about their specific nature, we notice only that there are 2.
+
+We form in ourselves the idea of called 2. 
+
+We then see 2 birds or 2 trees, without considering their nature.
+
+We note that there are 2.
+
+We reapply the same idea of 2 and make it universal.
+
+ <!-- and the number, which we now call with a universal name, is the number two. -->
+
+Likewise, we see a shape with 3 sides and form the idea of a triangle.
+
+  <!-- a particular idea that we call the idea of  -->
+
+We then use that idea to represent all shapes that have only 3 sides.
+
+But when we see a triangle with a right angle and others with none, we form in a universal idea of a right triangle, as a species of a triangle.
+
+The right angle universally differentiates it from other triangles.
+
+<!-- Furthermore, if we observe that the square of the side opposite the right angle is equal to the sum of the squares of the two other sides—and that this property applies only to this species of triangle—we may call it a universal property of right triangles. -->
+
+Finally, if some of these triangles move while others remain still, we consider this a universal accident of those triangles.
+
+This is how we commonly classify five kinds of universals:
 
 1. Genus
 2. Species
@@ -53,87 +121,99 @@ In the same way, an abstract or general number is just a mode of thinking.
 4. Property
 5. Accident
 
-Universals happen when we use one idea in thinking of all individual objects that have a certain likeness.
+
+<!-- Universals happen when we use one idea in thinking of all individual objects that have a certain likeness. -->
 <!-- are similar to each other. 
  between which there subsists a . -->
 
-When we comprehend all the objects represented by this idea under one name, this term likewise becomes universal.
+<!-- When we comprehend all the objects represented by this idea under one name, this term likewise becomes universal.
 
-For example, we see 2 stones. We form the idea of `2` which we call the binary.
+For example, we see 2 stones. We form the idea of `2` which we call the binary. -->
 <!-- , and do not regard their nature farther than to remark that there are two of them, we form the idea of `2`,  -->
-- When we afterwards see 2 birds or 2 trees, we also form the idea of `2` which becomes universal and call it "binary".
-
-<!-- and merely take notice of them so far as to observe that there are 2 of them, we again take up the same idea as before. This 2 thus becomes universal. -->
-
-<!-- We likewise give to this number the same universal name of .  -->
-
-When we think of a shape of 3 sides, we form an idea called a triangle.
-- We afterwards use it as the universal to represent to our mind all other shapes of 3 sides. 
-
-But when we remark more particularly that of shapes of 3 sides, some have a right angle and others not, we form the universal idea of a right-angled triangle. 
-
-This is called "species" relative to the universal. 
-
-The right angle is the universal difference by which right-angled triangles are distinguished from all others.
-
-The square of the side which sustains the right angle is equal to the squares of the other two sides. 
-
-This property belongs only to this species of triangles, we may call it the "universal property of the species". 
-
-If we suppose that of these triangles, some are moved and others not, then this will be their universal accident. 
-
-Accordingly, we commonly reckon 5 universals, viz., genus, species, difference, property, accident.
+<!-- - When we afterwards see 2 birds or 2 trees, we also form the idea of `2` which becomes universal and call it "binary". -->
 
 
-## 60. Distinctions: The Real
+## 60. 1. Real Distinctions 
 
-But number in things themselves arises from the distinction there is between them. 
+<!-- On distinctions, and first of all, the real kind. As for the number we notice in things themselves, it comes from the distinction between them.  -->
 
-Distinction is threefold:
+
+There are 3 types of distinctions: real, modal, of reason (or what is made by thought).
 
 1. Real
-2. Modal
-3. Of reason
 
-The "real" subsists between two or more substances. It assures us that 2 substances are really mutually distinct, if only we are able clearly and distinctly to conceive the one of them without the other. 
+This is properly found between two or more substances.
 
-Our knowledge of God makes it certain that he can effect all our distinct ideas.
+Two substances are really distinct from each other simply because we can conceive of one clearly and distinctly without thinking of the other. 
 
-For example, we have the idea of an extended and corporeal substance. We may not be sure if that substance really exists.
+This is because God can make everything that we have a clear and distinct idea of.
 
-**Nevertheless, we may be assured that it may exist merely because we have the idea of it.**
+Assume we have an idea of a physical substance with length, width, and height. 
+- But we are not sure it really exists. 
+- But still we know that it possibly can exist.
+- If it does exist, our idea of it is really distinct from its other parts.
 
-If it really exists, then every part which we can determine by thought must be really distinct from the other parts of the same substance.
+Similarly, each of us perceives that we think.
 
-In the same way, since everyone is conscious that he thinks, and that he in thought can exclude from himself every other substance, whether thinking or extended, it is certain that each of us thus considered is really distinct from every other thinking and corporeal substance.
+In thinking, we can exclude from our soul any other substance, whether thinking or non-thinking.
+<!-- extended. -->
 
-God united bodies to souls so closely and intimately as a composite whole. 
-<!-- that it was impossible to form a more  union, and thus made ,  -->
-- Yet these 2 substances would remain really distinct, despite this union.
-<!-- ; for with whatever tie God connected them,  -->
-- God was not able to remove his own power of separating them, or of conserving the one apart from the other.
-- The things which God can separate or conserve separately are really distinct.
+This means that we are really distinct:
+- from any other thinking substance and
+- from any physical substance.
 
+Assume that God joined a body so closely to a soul to form a compound from these 2 substances.
+- We would still conceive that they remain distinct despite this union.
 
-## 61. Distinctions: The Modal 
-
-The 2 kinds of modal distinction:
-
-1. The distinction between the mode and the substance of which it is a mode
-
-An example is that we can clearly apprehend substance apart from the mode which differs from it. 
-
-On the other hand, we cannot conceive this mode without conceiving the substance itself. 
-
-For example, there is a modal distinction between shape or motion and corporeal substance in which both exist. There is a similar distinction between affirmation or recollection and the mind. 
+This is because whatever bond God has placed between them, He could still separate them. 
+- He would still preserve both of them distinctly.
 
 
-2. The distinction between two modes of the same substance. 
 
-An example is our ability to recognise the one of two modes apart from the other, as shape is different from motion, and motion is different from shape. 
+## 61. 2. Modal Distinctions
 
-We cannot think of either the one or the other without thinking of the common substance in which they adhere.
 
-If, for example, a stone is moved, and is withal square, we can conceive its square figure without its motion, and reciprocally its motion without its square figure; but we can conceive neither this motion nor this figure apart from the substance of the stone.
+There are 2 kinds of modal distinction:
 
-As for the distinction according to which the mode of one substance is different from another substance, or from the mode of another substance, as the motion of one body is different from another body or from the mind, or as motion is different from doubt, it seems to me that it should be called real rather than modal, because these modes cannot be clearly conceived apart from the really distinct substances of which they are the modes.
+1. The distinction between the mode and the substance which the mode modifies
+
+We can clearly perceive the substance without its mode.
+- But we cannot have a distinct idea of such a mode without thinking of its substance.
+
+For example, there is a modal distinction between:
+- shape or motion and
+- the corporeal substance which has shape or motion 
+
+Likewise, there is a modal distinction between:
+- affirming or remembering and
+- the mind that affirms of remembers
+
+
+2. The distinction between 2 modes of the same substance. 
+
+We can know one of these modes without knowing the other.
+
+Examples are shape without motion, or motion without shape.
+
+However, we cannot conceive of shape or motion distinctly unless we recognize that both depend on the same substance.
+
+<!-- For instance, a square stone is moving.
+
+From th and square, we can understand its square shape without knowing it is moving—and vice versa, we can know that it moves without knowing its shape. 
+
+ But we cannot have a distinct understanding of both the movement and the shape without knowing they are both present in the substance of the stone. -->
+
+There is a distinction where a mode of one substance differs from:
+- another substance or
+- the mode of another substance
+
+Examples are the motion of one body being different from:
+- the motion of another body or
+- the thought or the doubt of a thinking being
+
+This type of distinction should be called real rather than modal. 
+
+This is because:
+- we cannot know these modes without the substances which they depend on.
+- substances themselves are really distinct from each other.
+

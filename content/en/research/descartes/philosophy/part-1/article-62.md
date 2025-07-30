@@ -11,13 +11,45 @@ icon: "Rene Descartes"
 ---
 
 
-## 62. The distinction of reason (logical distinction).
+## 62. The distinction made by thought
 
-The distinction of reason is that between:
-- a substance and
-- some one of its attributes
+<!-- The distinction of reason  -->
 
-Without its attributes, it is impossible for us to have a distinct conception of the substance itself.
+All attributes that give rise to diverse thoughts about one and the same thing—such as the extension of a body and its property of being divisible into parts—differ from the body itself (and from each other) only because we sometimes think confusedly about one without considering the other.
+
+I recall having mixed the distinction made by thought with the modal distinction at the end of the responses I gave (Le Gras, p. 46) to the first objections that were sent to me regarding the Meditations on First Philosophy—but this is not contrary to what I write here, because at that time I did not intend to treat the subject at great length. It was sufficient to distinguish both kinds from the real distinction.
+
+
+We sometimes distinguish a substance from one of its attributes.
+- Without those attributes, it would be impossible for us to understand that substance
+
+We attempt to separate 2 such attributes of a substance by thinking of one without thinking of the other.
+
+We cannot have a clear and distinct idea of such a substance if we remove a particular attribute
+
+We cannot conceive one of two or more attributes clearly if we separate it from the others.
+
+For example, no substance can continue to exist once it stops enduring.
+
+Time [duration] is distinct from substance only by thought. 
+
+The attributes of a body can lead to diverse thoughts about that body.
+
+Examples of such attributes are:
+- the length, width, height of a body
+- the divisibility of a body
+
+These attributes differ from the body itself and from each other.
+- This is only because we sometimes think confusedly about one without considering the other.
+
+
+My *Meditations on First Philosophy* received objections.
+- So I clarified it by mixing the distinction made by thought with the modal distinction.
+- But this is not contrary to what I write here because back then, I did not intend to treat the subject at great length. 
+- So back then, I merely distinguished both kinds from the real distinction.
+
+
+<!-- Without its attributes, it is impossible for us to have a distinct conception of the substance itself.
 
 The distinction of reason can also be between two such attributes of a common substance.
 - The one of which we essay to think without the other. 
@@ -26,17 +58,38 @@ This distinction is manifest from our inability to form a clear and distinct ide
 
 In general, all the modes of thinking which we consider as in objects differ only in thought, as well from the objects of which they are thought as from each other in a common object.
 
-{{< f f="and generally all the attributes that lead us to entertain different thoughts of the same thing, such as, for example, the extension of body and its property of divisibility, do not differ from the body which is to us the object of them, or from each other, unless as we sometimes confusedly think the one without thinking the other.'—FRENCH." >}}
+f f="and generally all the attributes that lead us to entertain different thoughts of the same thing, such as, for example, the extension of body and its property of divisibility, do not differ from the body which is to us the object of them, or from each other, unless as we sometimes confusedly think the one without thinking the other.'—FRENCH."
 
 It occurs, indeed, to me that I have elsewhere classed this kind of distinction with the modal (viz., towards the end of the Reply to the First Objections to the Meditations on the First Philosophy).
 
-But there it was only necessary to treat of these distinctions generally, and it was sufficient for my purpose at that time simply to distinguish both of them from the real.
+But there it was only necessary to treat of these distinctions generally, and it was sufficient for my purpose at that time simply to distinguish both of them from the real. -->
 
 
 
-## 63. How thought and extension [metaphysical space] may be distinctly known, as constituting, the one the nature of mind, the other that of body.
+## 63. Thought [aether] is the nature of mind, extension [aetherspace] is the nature of body
 
-Thought and extension [metaphysical space] may be regarded as constituting the natures of intelligent and corporeal substance.
+
+- Thought [aether] is the principal attribute of intelligent substances, as souls.
+- Extension [aetherspace] is the principal attribute of physical substances, as bodies.
+
+<!-- They are the very substance that thinks and that is extended as the soul and the body.  -->
+
+<!-- For we know them in this way very clearly and distinctly. -->
+
+It is easier to know a thinking substance or an extended substance than to know a substance by itself without its attributes of thought or length, width, height.
+
+ <!-- considered apart from whether it thinks or is extended.   there is some difficulty in separating the idea we have of -->
+
+This is because substance is a very abstract concept, more abstract than thought and length, width, height.
+
+This is beause we sometimes consider thought or length, width, height without reflecting on the thing that has those attributes.
+
+Our conception of substance is abstract not because it has less details, but because it is hard to identify it without its attributes.
+
+   <!-- carefully discern what it contains and take care not to confuse it with other notions that would make it less clear. -->
+
+
+<!-- Thought and extension [metaphysical space] may be regarded as constituting the natures of intelligent and corporeal substance.
 
 They must not be otherwise conceived than as the thinking and extended substances themselves, that is, as mind and body, which in this way are conceived with the greatest clearness and distinctness.
 
@@ -45,80 +98,94 @@ Moreover, we more easily conceive extended or thinking substance than substance 
 There is some difficulty in abstracting the notion of substance from the notions of thinking and extension, which, in truth, are only diverse in thought itself (i.e., logically different).
 
 A concept is not more distinct because it comprehends fewer properties, but because we accurately distinguish what is comprehended in it from all other notions.
+ -->
+
+## 64. How the attributes of thought [aether] and extension [aetherspace] may be distinctly conceived as modes of substance.
 
 
-## 64. How these may likewise be distinctly conceived as modes of substance.
+A soul can have many different thoughts.
 
-Thought and extension [metaphysical space] may be also considered as modes of substance.
+A single body, while maintaining the same size, can be extended in various ways—sometimes more in length and less in width or depth, and sometimes vice versa.
 
-This is in as far as the same mind may have many different thoughts, and the same body, with its size unchanged, may be extended in several diverse ways.
-
-In one time, its body might be  more in length and less in width or depth. At another time,it might be more in breadth and less in length.
-
-They are modally distinguished from substance, and can be conceived not less clearly and distinctly, provided they be not regarded as substances or things separated from others, but simply as modes of things. 
-
-For by regarding them as in the substances of which they are the modes, we distinguish them from these substances, and take them for what in truth they are: whereas, on the other hand, if we wish to consider them apart from the substances in which they are, we should by this itself regard them as self-subsisting things, and thus confound the ideas of mode and substance.
+We distinguish thought from the soul, and extension from the body only as dependent features of that soul or body.
 
 
-## 65. How we may likewise know their modes
+We then understand them as clearly and distinctly as we do their corresponding substances.
+- This is provided we do not suppose that they exist independently, but only as dependencies of those substances.
 
-The diverse modes of thought are intellection, imagination, recollection, volition, etc.
+When we consider them as properties of their substances, we can easily:
+- distinguish them from those substances and
+- treat them as what they truly are.
 
-The diverse modes of extension, or those that belong to extension, are all shapes, the location of parts and their motions
-
-We can best understand these modes if we consider them simply as modes of the things as they are. 
-
-<!-- and motion as far as it is concerned, provided we think merely of locomotion, without seeking to know the force that produces it, and which nevertheless I will essay to explain in its own place. -->
-
+Whereas, if we considered them apart from substance, we might think that they exist by themselves.
+- We would then confuse our idea of substance with the idea of its properties.
 
 
-## 66. How our sensations, affections, and appetites may be clearly known, although we are frequently wrong in our judgments regarding them.
+## 65. How we also conceive the properties or attributes of the modes of thinking and body.
+
+The different modes of thinking are understanding, imagining, remembering, willing, etc.
+
+The various modes of extension are shapes, the arrangement of parts, and their movements.
+
+We can conceive these provided we consider them as dependencies of their substances.
+
+As for movement, we can regard it as another mode dependent on substance that has length, width, height. as long as we think only of the motion that occurs from one place to another without investigating the force that produces it.
+
+
+
+## 66. We are frequently wrong in our judgments regarding our sensations, affections, and appetites.
 
 
  <!-- our sensations, affections, and appetites if we take care to comprehend in the judgments we form of them only that which is precisely contained in our perception of them, and of which we are immediately conscious.  -->
 
+We can clearly know our sensations, affections, and appetites if we take care to use:
+- our understanding, and
+- what is affirmed by reason.
 
-We have perceptions of sensations, affections, and appetites, in our minds. 
+But it is difficult to always maintain such caution, especially regarding our senses.
 
-We may have a clear knowledge of these if we focus on their content at the current moment. 
+This is because we have believed—from the very beginning of our lives—that all the things we perceive:
+- exist outside of our thoughts, and
+- are entirely similar to our sensations or ideas of them.
 
-There is, however, great difficulty in observing this, at least in respect of sensations.
+For example, we see a certain color.
 
-This is because we have all, from our youth, judged that:
-- all the things we perceived by our senses had an existence beyond our thought
-- those things were entirely similar to our sensations of them
+We believe we were seeing a thing that:
+- existed outside of us
+- was similar to our idea of it
 
-<!-- , that is, perceptions, we had of them.  -->
+We make this judgment so many times.
+- This makes it seem true to us
 
-For example, when we saw a colour, we thought we saw something outside of us. That something was then totally similar to our idea of that colour that we saw.
-
- <!-- we were then conscious of. -->
-
-<!-- From the habit of judging in this way,  -->
-
-We then seemed to see this so clearly and distinctly that we esteemed it (i.e., the externality of the colour) certain and indubitable.
+This is why some people remain so convinced by this false prejudice that they cannot even doubt it.
 
 
-## 67. We are frequently deceived in our judgments regarding pain itself.
+## 67. We are frequently deceived in our judgments regarding bodily pain itself.
 
-The same prejudice has place in all our other sensations, even in those of titillation and pain. 
+The same bias exists in all our other sensations—even those of tickling and pain. 
 
-We do not believe that that there are outside of us that resemble titillation and pain.
+For although we did not believe that there were, outside of us in external objects, things resembling the tickling or pain that they caused us to feel, we nevertheless did not regard these sensations as ideas present only in our soul. 
 
-Yet we consider these sensations as being in the hand, or foot, or some other part of our body, and not being  in the mind or the perception alone.
+Instead, we believed they were located in our hands, our feet, and other parts of our body.
 
-<!-- , or in our perception, but as . -->
+Yet there is no reason that obliges us to believe that the pain we feel—for example, in our foot—is something outside of our thought that actually resides in our foot; nor that the light we think we see in the Sun is in the Sun in the same way it is in us.
 
-There is no reason, however, to constrain us to believe that the pain, for example, which we feel, as it were, in the foot is something out of the mind existing in the foot, or that the light which we see, as it were, in the sun exists in the sun as it is in us.
-
-Both these beliefs are prejudices of our early years, as will clearly appear in the sequel.
+People have such a mistaken belief only because they place so much importance on the judgments they formed when they were children.
+- They cannot let go of them in order to form more solid judgments.
 
 
 ## 68. How in these things what we clearly conceive is to be distinguished from possibly wrong things.
 
-<!-- that in which we may be deceived. -->
 
-<!-- Our sensations and thoughts give us notions of  -->
+<!-- this::: "How we must distinguish, in such matters, between what we can be mistaken about and what we clearly conceive. In order to distinguish here what is clear in our sensations from what is obscure, we must first note that we know pain, color, and other feelings clearly and distinctly when we consider them simply as thoughts. But when we try to judge that color, pain, etc. are things that exist outside our thought, we do not in any way conceive what these things—this color, this pain—actually are.
+
+It’s the same when someone tells us they see color in a body or feel pain in one of their limbs. It’s as if they were telling us they perceive something but are entirely ignorant of the nature of that thing; or that they don’t have a distinct understanding of what they see or feel.
+
+For even if, when they do not examine their thoughts carefully, they may persuade themselves that they have some knowledge—because they suppose the color they believe they see in the object resembles the sensation they experience within themselves—nevertheless, if they reflect on what is represented to them by this color or this pain, insofar as these things exist in a colored body or a wounded part, they will undoubtedly find they have no knowledge of them." -->
+
+
+
+
 We have an idea of what pain or color is, as effects, because we ourselves feel pain or see colors. 
 
 <!-- we should most carefully observe that we possess a clear and distinct knowledge of pain, colour, etc, when we consider them simply as sensations or thoughts -->
