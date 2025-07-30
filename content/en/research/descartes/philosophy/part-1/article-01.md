@@ -60,7 +60,7 @@ We will also doubt of the other things we have before held as most certain, even
 
 Men sometimes fall into error in such matters. 
 
-They admit as absolutely certain and self evident what to us appeared false.
+They admit as absolutely certain and self-evident what to us appeared false.
 
 <!-- , but chiefly because we have learnt that God who created us is all-powerful; for we do not yet know whether perhaps it  -->
 

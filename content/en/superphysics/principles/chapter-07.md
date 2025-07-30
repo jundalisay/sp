@@ -14,6 +14,7 @@ writer:
 ---
 
 
+
 {{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
@@ -114,6 +115,18 @@ This leads to the same output as the `1 + 1 = 2` of normal math, while imposing 
 - A straight-line equation would imply that the focus or dharma is on the line itself. A curved or wavy line would have its dharma harder to expose. 
   - A straight-line equation is like a person who goes to McDonalds to order a cheeseburger specifically
   - A curve equation is like a person who orders a cheeseburger then changes his order to a chicken meal then changes to a chicken burger as a compromise between his 2 previous orders. His dharma is neither burger nor chicken, but chicken burger   
+
+
+{{< b >}}
+### The Ratio and Rigid Ratio
+
+The ratio signs are derived from programming which uses `=`, `==`, and `===`
+
+- `=` is assignment. This is similar to our `:` 
+- `==` is loose equality. This is similar to our `::`
+- `===` is strict equality. This is similar to our `=` 
+{{< /b >}}
+
 
 The concept of a *focus* is super important as it is the basis of:
 - [gravitational signatures](/material/principles/intro/chapter-02)

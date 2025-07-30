@@ -102,13 +102,15 @@ But 'nature' may also mean not man-made.
                 Otherwise, actions could never be ranked under merit or demerit.
         Therefore, it is impossible that natural and unnatural characters can ever mark the boundaries of vice and virtue.
 
-    Thus, we are still brought back to our first position, that:
+Thus, we are still brought back to our first position, that:
         virtue is distinguished by the pleasure, and
         vice is distinguished by the pain that any action, sentiment, or character gives us by its mere view and contemplation.
-    This decision is very commodious because it reduces us to this simple question:
+
+This decision is very commodious because it reduces us to this simple question:
         Why does any action or sentiment make us feel good or bad, without us looking for any incomprehensible relations and qualities?
         We could never clearly conceive these relations and qualities in nature nor in our imagination.
-    I flatter myself that I have executed most of my present design by a question which is not ambiguous and obscure.
+
+I flatter myself that I have executed most of my present design by a question which is not ambiguous and obscure.
 
 
 

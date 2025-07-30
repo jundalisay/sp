@@ -110,34 +110,12 @@ This is very different from the common way of regarding motion.
 We are on Earth and think of it as being at rest even if its parts move.
 
 
-<!-- Therefore, if we were to entirely assign a proper and not relative nature to motion,
-
-Assume that 2 contiguous bodies are transferred and mutually separated:
-- Body 1 transfers in one direction
-- Body 2 transfers in the other direction
-
-WE say that there is as much motion in Body 1 as in Body 2. 
-
-But this would be too far from common usage. 
-
-We are used to standing on the earth and consider it as at rest. We do not think that the earth itself is moving even though we see some of its parts transferred from the vicinity of smaller bodies to the vicinity of other bodies contiguous to them.
-
-
-So much so that if we want to attribute to the movement Le Gras, p. 86 a nature that can be considered on its own, and without it being necessary to relate it to something else; 
-
- When we see that two bodies which touch each other immediately will be transported, one to one side and the other to another and will be reciprocally separated, we will not have any difficulty in saying that there is just as much movement in one as in the other, I admit that in this we will move far away from the way of speaking which is in use, because as we are on the earth, and we think that it is at rest, although we see that some of its parts which touch other smaller bodies are transported from the vicinity of these bodies, we do not understand for that reason that it is moved. -->
-
-
-<!-- So, if we wish to attribute to movement a nature that can be considered on its own, without needing to be referred to something else, then when we observe that two bodies in immediate contact are transported—one in one direction, the other in the opposite—and thus mutually separated, we will have no difficulty saying that there is as much motion in one as in the other. -->
-
-
 
 ## 30. When 2 contiguous bodies are separated from each other, why is one is said to be moving instead of the other? 
 
 This is because motion is that of the body that is moving and not of the entire Earth that it is moving on.
 
 The motion of the body affects the immediate vicinity of the smaller bodies that are contiguous. There are often many such translations, mutually opposed to each other. 
-
 
 <!-- , and it cannot be so understood to be of the whole earth, because of the translation of some of its parts from the vicinity of smaller bodies to which they are contiguous; 
 because often many such translations, mutually contrary to each other, can be observed in it.  -->
@@ -156,4 +134,3 @@ This is because ship `CD` is moving East, and the Earth's surface contiguous to 
 
 Thus, here we do not say that the earth is moving, but only the ships `AB` and `CD` and similarly for the rest. 
 
-<!-- But in the meantime, we will remember that everything real and positive in the bodies that are moving, because of which they are said to move, is also found in other contiguous bodies, which are nevertheless considered only as at rest. -->

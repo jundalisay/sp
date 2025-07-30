@@ -84,7 +84,8 @@ It is plainly repugnant for him:
 
 This delivers us from the above doubts.
 
-It follows that the light of nature, or faculty of knowledge given us by God, can never compass any false object, as long as we can clearly and distinctly apprehend that object. 
+The faculty of knowledge given us by God is the light of nature.
+- It can never compass any false object, as long as we can clearly and distinctly apprehend that object. 
 
  <!-- which is not true, in as far as it attains to a knowledge of it, that is, in as far as the object is clearly and  .  -->
 
@@ -92,7 +93,9 @@ God would be a deceiver if he had given us this faculty perverted, that it led u
 
  <!-- [when we used it aright]. Thus the highest doubt is removed, which arose from our ignorance on the point as to whether perhaps our nature was such that we might be deceived even in those things that appear to us the most evident.  -->
 
-The same principle should also be of avail against all the other grounds of doubting that have been already enumerated. For mathematical truths ought now to be above suspicion, since these are of the clearest.
+The same principle should also be of avail against all the other grounds of doubting already enumerated. 
+
+Mathematical truths should now be above suspicion, since these are of the clearest.
 
 If we perceive anything by our senses, whether while awake or asleep, we will easily discover the truth provided we separate what there is of clear and distinct in the knowledge from what is obscure and confused. 
 
@@ -116,9 +119,23 @@ When considered in reference to God, they are merely negations, but in reference
 
 ## 32. There are only 2 modes of thinking in us: the perception of the understanding and the action of the will
 
-For all the modes of thinking of which we are conscious may be referred to two general classes, the one of which is the perception or operation of the understanding, and the other the volition or operation of the will. 
+<!-- For all the modes of thinking of which we are conscious may be referred to 2 general classes, the one of which is the perception or operation of the understanding, and the other the volition or operation of the will.  -->
 
-Thus, to perceive by the senses (SENTIRE), to imagine, and to conceive things purely intelligible, are only different modes of perceiving (PERCIP IENDI); but to desire, to be averse from, to affirm, to deny, to doubt, are different modes of willing.
+
+The different modes of perceiving (PERCIP IENDI) are: 
+- to perceive by the senses (SENTIRE)
+- to imagine
+- to conceive things purely intelligible 
+
+
+The different modes of willing are:
+- to desire
+- to be averse from
+- to affirm
+- to deny
+- to doubt
+
+
 
 
 ## 33. We never err unless when we judge of something which we do not sufficiently apprehend.

@@ -13,7 +13,6 @@ icon: "Rene Descartes"
 
 ## 24. What is the current understanding of motion?
 
-
 Movement is the action by which a body passes from one place to another. 
 
 A thing can change location or move and yet not change location or not move at the same time, depending on the reference point used.
@@ -37,33 +36,21 @@ For example, someone who is sitting at the stern of a ship that is moving forwar
 We are accustomed to thinking that there is no movement without action.
 - So we say that someone who is seated is at rest since he feels no action in himself, even if the ship is moving.
 
-<!-- There is only local motion*. Local motion is the action by which a body **migrates** from one place [spot] to another.  -->
 
-<!-- n n="Descartes' classical locality is totally different from modern locality which is really Einstein locality. Classical Locality is a philosphical concept applied to Physics. It asserts that there is is no void -- things affect each other through an immaterial medium called the aether. Einstein Locality is a sophistical concept arising from Einstein's invention of a material spacetime that limits everything to the speed of light. We assert that the Bell Theorem totally debunks Einstein's Relativity which imposes Einstein's Locality (spacetime fabric) and Realism (hidden variables). The successful tests of General Relativity, much applauded by Physicists, are merely tests of equipment." >}} -->
- 
-<!-- Therefore, the same body changes place [from one perspective] and does not change place [from another perspective] at the same time.
+<!-- n n="This destroys the assertion of General Relativity that everything is in motion. Whether a thing is moving depends on viewspace (reference frame in Relativity). From a universal viewspace, everything is moving. But from the viewspace of my room, my books, tables, and chairs are not moving, and only the fish in the aquarium is moving." -->
 
-Thus, it can also be said to be moving [from one perspective] and not moving [from another perspective] . -->
-
-<!-- For example, one who sits in a ship departing from port thinks he is moving if he looks at the shores. 
-- But he is not moving if he looks at the ship itself which he is a part of.  -->
-
-<!-- We commonly think that there is:
-- action in all motion
-- no action in rest -->
-
-<!-- The person thus seated is more properly said to be at rest than in motion, seeing he is not conscious* of being in action. -->
-
-{{< n n="This destroys the assertion of General Relativity that everything is in motion. Whether a thing is moving depends on viewspace (reference frame in Relativity). From a universal viewspace, everything is moving. But from the viewspace of my room, my books, tables, and chairs are not moving, and only the fish in the aquarium is moving." >}}
 
 
 ## 25. What is correct understanding of motion?
+
+
 
 Motion is **transport of a body or matter from the vicinity of those immediately touching which are at rest, into the vicinity of some others.**
 
 <!-- **THE TRANSLATION OF A WHOLE BODY (with its particles) FROM THE VICINITY OF THOSE BODIES AT REST THAT ARE IN IMMEDIATE CONTACT WITH IT, to the vicinity of other bodies**. -->
 
-Body or matter is everything which is transported together as a unit, as the body might consist of many particles which have other motions within themselves. 
+Body or matter is everything which is transported together as a unit.
+- The body might consist of many particles which have other motions within themselves. 
 
 **Motion is the transport, not the force or action which transports.**
 
@@ -75,8 +62,15 @@ Body or matter is everything which is transported together as a unit, as the bod
 {{< i s="/graphics/physics/effort.jpg" a="True Motion" c="Cartesian True Motion is the foundation of action-at-a-distance, as force-less levitation and teleportation. Local or relative motion may or may not focus on the mover, but true motion focuses on the movee" >}}
 
 
+Motion is a property of the moving body. It is not a substance.
+
+This is similar to how:
+- shape is a property of a shaped thing
+- rest is the property of a thing at rest.
+
+
 Motion is merely a mode of the body just as:
 - shape is the mode or property of a shaped thing
 - rest is the mode or property of a resting thing.
 
-**It is not an inherent quality.**
+**Motion is not an inherent property.**
