@@ -19,15 +19,28 @@ Czech-English translation Radmila Valtrová -->
 
 I will do this in next year, 1602, as my duty as philosopher-mathematician. 
 
-More and more people are interested in forecasts. That is why I forecast with certainty that there will be plenty of forecasts this year from the many new authors that make forecasts day by day. 
+More and more people are interested in forecasts. 
 
-{{< s v="2" >}} Those forecasts will be either be proven by events, or be disproven as futile and useless. Usually, the latter will be remembered the most.
+This is why I forecast with certainty that there will be plenty of forecasts this year from the many new authors that make forecasts day by day. 
+
+
+{{< s v="2" >}} Those forecasts will be either be proven by events, or be disproven as futile and useless.
+- Usually, the latter will be remembered the most.
+
 
 {{< s v="3" >}} Like cause, like outcome.
 
-In their forecasts, astrologers admit that the causes are partly physical, partly political, but mostly uncertain, sometimes obscure and very incomplete. Very often the cause cannot be defined at all. 
+In their forecasts, astrologers admit that the causes are:
+- partly physical
+- partly political
+- mostly uncertain, 
+- sometimes obscure and very incomplete. 
 
-When astrologers upon basis of such a unfathomable causes do succeed to tell the truth, this should be considered a luck; nevertheless, commonly and much more often it is seen as a matter of some higher and mystic impulse.
+Very often the cause cannot be defined at all. 
+
+When astrologers upon basis of such a unfathomable causes do succeed to tell the truth, this should be considered a luck.
+
+Nevertheless, commonly and much more often it is seen as a matter of some higher and mystic impulse.
 
 
 {{< s v="4" >}} <!-- Physical causes can be recognised by everyone, other ones only by someone.  --> Many things exist naturally, while the causes are unknown. 
@@ -50,7 +63,7 @@ Time zone: CET (GMT + 1 hour), gregorian calendar, MM/DD/YYYY -->
 
 The inclination of the ecliptics in this century makes 23°31´30´´, as discovered by the greatest of astronomers, Tycho Brahe, whom we have recently lost.
 
-Thus, in winter we find the Sun, our generator of heat, only 7 hours and 49 minutes above the horizon. It warms up our air just for a short time. 
+Thus, in winter we find the Sun, our generator of heat, only 7 hours and 49 minutes above the horizon. It warms up our air just for a short time.
 
 And then, completely hidden below the horizon twice as long, it does not heat at all. 
 
@@ -73,7 +86,8 @@ Aristotle said that:
 Whatever is potentially warm, takes its nature from the life force, be it added or generated.
 
 
-{{< s v="9" >}} When the Sun is high above, it gives more heat then when it is low. This is because its rays, when the Sun is low, fall on our Earth sidelong and weak.
+{{< s v="9" >}} When the Sun is high above, it gives more heat then when it is low. 
+- This is because its rays, when the Sun is low, fall on our Earth sidelong and weak.
 
 Whereas when the Sun is high, the rays fall upon Earth much more intensely, being almost perpendicular to it.
 
@@ -87,7 +101,7 @@ This, like above stated, implies that during the shortest day, there is no more 
 
 {{< s v="11" >}} Regarding that one eighth of warmth in winter, it does not even take effect as a whole, because the Sun rises only a little above the horizon in winter.
 
-Moreover, it stands much more sidelong towards the layer of atmosphere. 
+Moreover, it stands much more sidelong towards the layer of atmosphere.
 
 Suppose that the dividing line of pure air, where the sun rays bend, is located about one german mile (ca. 7,5 km) of perpendicular distance from us (it hardly could be more because in fact the altitude of the air, which causes sunset or sunrise, differs from that one in which the rays of the stars bend). 
 
@@ -95,7 +109,8 @@ Therefore, the thickness of air which lays between the Sun and Earth is 1 and on
 
 This is why the sun's ray is 3 times weaker in winter.
 
-If we take into consideration those three causes together, then in winter there is only 1/24 of summer warmth remaining.
+If we take those 3 causes together, then in winter there is only 1/24 of summer warmth remaining.
+
 
 {{< s v="12" >}} Notwithstanding those 3 causes are most obvious in days of winter and summer solstice, the cold does not necessarily have to be at its maximum in the former case, nor the heat in the latter.
 

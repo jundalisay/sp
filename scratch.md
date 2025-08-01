@@ -1,4 +1,14 @@
+fairchild 
+marcos galperin argetina libre
+
+
 descartes world cahp 11
+
+3 requiremetns for busness:
+money talent market
+
+
+william shocklee 
 
 The weight of this Earth is caused by the force is that unites all its particles and makes them all tend toward the centre.
 - Each moves towards the center according to its size and solidity.
