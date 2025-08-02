@@ -18,6 +18,7 @@ icon: "Rene Descartes"
 
 ## 4. The nature of matter or body is in it having aetherspace [extension] as length, width and height alone.
 
+
 {{< n n="Descartes reiterates that the nature of matter is it occupying aetherspace which is in between the aether and physical space. From now, we will replace 'extension' with 'aetherspace' to distinguish it from 'space' as physical space. Update April 2025: We changed metaphysical space into aetherspace since the latter matches the DESI BAO findings" >}}
 
 
@@ -25,51 +26,35 @@ The nature of matter or body in general does not consist in anything sensory.
 
 The nature of matter or body is in it being an [aethereal] substance extended in length, width, and height.
 
-<!-- its being hard, or ponderous, or coloured, or that which affects our senses in any other way, but simply in its being a substance   -->
-
 Hardness is just the ability of hard bodies to resist the motion of our hands on coming into contact with them.
-
-<!-- , we know nothing of it by sense farther than that the parts of  -->
 
 But if all bodies moved away from our hands whenever we tried to touch them, then we would never experience hardness.
 - Yet those bodies would still be bodies to us.
 
- <!-- every time our hands moved towards any part, all the bodies in that place moved away as quickly as our hands approached,  -->
-
 Therefore, the nature of bodies does not include hardness. 
-<!-- Yet we have no reason to believe that bodies which might thus recede would on this account lose that which makes them bodies.  -->
-<!-- The nature of body does not, therefore, consist in hardness.  -->
 
 In the same way, weight, colour, and all the other qualities of this sort, which are perceived in corporeal matter, can be removed from matter entirely. 
-
- <!-- may be taken from it, itself meanwhile remaining entire:  -->
 
 It follows that the nature of body:
 - depends on none of these
 - consists solely in its being a substance that has aetherspace [extension].
 
+For if we examine any body, we may think that it has none of these qualities, yet still we know that it is still a body as long as it has length, width, and depth. 
+
+Hence, it follows that in order to exist, a body needs none of those qualities in any way, and that its nature consists solely in being a substance that has extension.
 
 
- <!-- Rarefaction -->
-<!-- n n="We replace rarefaction with 'decompression' and condensation with 'compression'. This is to better associate with 'pressure' from the Negative Force." >}} -->
+## 5. The nature of body as aetherspace [extension] is obscured by the opinions on expansion and void
 
-That this truth is obscured by people's opinions on expansion and space.
-
-
-## 5. The nature of body as aetherspace [extension] is obscured by the opinions on decompression and vacuum.
-
-<!-- with which we are pre-occupied. extension-->
-
-Two reasons prevent the acceptance of the truth that the nature of body consists in aetherspace alone. 
+Two reasons prevent us to accept that the nature of body consists in aetherspace [extension] alone. 
 
 1. People think that expanded bodies have more aetherspace than when not expanded.
 
 Some have even separated a body's [aethereal] substance [idea] from its own physical size, and that physical size from its aetherspace [extension].
 
-<!-- Some have even gone so far as to try to distinguish the substance of a body from its own magnitude, and that magnitude itself from its extension.  -->
+<!-- to distinguish the substance of a body from its own magnitude, and the magnitude itself from its extension.-->
 
 {{< n n="For example, when a thing expands when heated, some people think that its atoms or molecules get larger.">}}
-
 
 
 2. People do not understand what the aetherspace is [extension as length, width, and height]. 
@@ -78,12 +63,11 @@ People think that the aetherspace is the same as space, or even as void space.
 
 This makes them think that the aetherspace is the same as nothing.
 
-People think that void is merely a negation of space.
-
-<!-- but only space and further  rarefaction-->
+<!-- People think that void is merely a negation of space. -->
 
 
-### 6. How does contraction happen?
+
+## 6. How does contraction happen?
 
 If we watch our own thoughts, we will discover that the expansion or contraction of an idea-body is **merely a change of its shape**.
 
@@ -113,7 +97,7 @@ is different from a dry sponge because the wet sponge has wider pores.
 
 
 
-### 7. This is the best way to explain Contraction and Expansion
+## 7. This is the best way to explain Contraction and Expansion
 
 I do not know why people say that bodies are expanded by an an increase in their material quantity rather than an increase of space, like a wet sponge. 
 
@@ -128,3 +112,4 @@ But it is better to explain expanding bodies to be filled with more space or som
 We do not need our senses to perceive all the invisible substances around us. 
 
 It is not possible to conceive of any increase in size or aetherspace [extension] except by adding something that itself has size and aetherspace [extension]
+

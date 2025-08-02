@@ -1,3 +1,35 @@
+brahma as all programs,Samskara as Compiler
+
+
+space then heat 
+
+high pressure = more space particles = more heat particles = less vapors (less humidity)
+low pressure = less space particles = less heat particles = more vapors (more humidity) 
+
+
+
+qualimath aims to preserve the understanding the causal relations that create state change in a person since mentality creates reality. This makes it valid even as a person goes into another universe in the multliverse since his mind will interpret that universe according to his mind's relational abilitiy or samskara
+
+so in theory a human cannot teleport to a universe with totally different metaphysical programming otherwise this violates "mentality creates reality" since that reality was totally different from his mentality
+
+if ever a human force-teleports to a universe with totally different programing from his own mind, then his mind will explode back into the aether like how particle collisions decay instantly into space-energy
+
+mental, emotional, spiritual intelligence
+
+
+`Mathematics in our civilization is expressed as geometry, not equations that use numbers. So the idea for example is you have a principle that is expressed by an equation that you cannot observe the position or the momentum of a particle at the same time. You either measure the position, but then you don´t know how fast it´s moving because it´s frozen, or you measure the momentum, but then you can´t measure the position because it´s moving. We express that as a geometric tetrahedal form, four-sided pyramid of equilateral triangles. You have the base triangle which represents position what you would call the x,y,z of position, and therefore because it´s one triangle you can measure the position. Whereas the apex of the tetrahedron represents the time factor, the momentum factor, and since it´s not connected to the base you can´t have the momentum at the same time that you measure the position. But then if you measure the momentum, your momentum is then measured by the apex and two thirds, two points of the side equilateral triangle, so you don´t have the entire position, but you do have the entire momentum. So it´s expressed as a tetrahedral structure, geometrically. The idea of whole number theories, again, is that we work with different levels of infinities in certain ways that is not something that your humanity expresses at this time. So we are not sure how to translate that idea into what you are asking, because a lot of your mathematics shy away from the idea of infinities. But from our perspective, there are whole number infinities that are different from other whole number infinities.´ (Open Contact Part One, 2024) 
+
+
+copper + boron superconductivity 
+
+Plankc constant tick of clock 
+
+qunatum tunneling QT huge role
+- mental qt cretes matrix that helps em go more easily
+
+
+
+
 descartes world cahp 11
 
 The weight of this Earth is caused by the force is that unites all its particles and makes them all tend toward the centre.

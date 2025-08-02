@@ -37,6 +37,18 @@ But in truth, time is nothing outside the actual duration of things—it is mere
 
 
 
+{{< b >}}
+### Superphysics Note on External Versus Internal
+
+To Descartes, the only thing external to us is the aetherspace (spatial dimensions) of external bodies. 
+
+The rest, such as time, number, colors, temperature, our feelings, are all in our minds and therefore self-made. 
+
+This is why Hinduism, Buddhism, and Taoism can manipulate these things, manifesting as occult powers. 
+
+George Berkeley also had a similar idea, but did not explain it with Descartes' clarity.
+{{< /b >}}
+
 <!-- An example is timespan and time. -->
 
 <!-- Of these attributes or modes, there are some which exist in the things themselves, and others that have only an existence in our thought. -->
@@ -62,7 +74,7 @@ They both have the same time even if `Body A` has much more motion. -->
 - It is not superadded to duration, taken in its generality. -->
 
 
-## 58. **That numbers and universals depend on our thought**
+## 58. **Numbers and universals exists only in our thought**
 
 <!-- **Number and all universals are only modes of thought.** -->
 
@@ -70,14 +82,11 @@ They both have the same time even if `Body A` has much more motion. -->
 - The same is true of all those general ideas we call universals. -->
 <!-- , when it is not considered as in created things, but merely in the abstract or in general, ;  -->
 
-
-
 In the same way, the general abstract notion of number, exists only in our thought just like other general ideas called universals in scholastic philosophy.
 
 <!-- when considered without reflecting on any particular created thing,  -->
 
 <!-- Just like all those  that, in , are classified under the name of universals, they are not external to our minds. -->
-
 
 
 ## 59. How are universals formed? What are the 5 common universals?

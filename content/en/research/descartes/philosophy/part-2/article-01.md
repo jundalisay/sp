@@ -13,57 +13,57 @@ icon: "Rene Descartes"
 ---
 
 
-## 1. The grounds on which the existence of material things may be known with certainty.
+## 1. Why we know that bodies exist
 
-What is the certainty of the existence of material things?
 
-<!-- , yet, since this was before called in question by us, and since we reckoned the persuasion of their existence as among the prejudices of our childhood, it is now necessary for us to investigate the grounds on which this truth may be known with certainty.  -->
+Firstly, everything that we sense comes from something other than our own minds.
+- This is because we cannot create these sensations by ourselves.
+- Instead, these depend on something that touches our senses.
 
-All our perceptions come to us from some object different from our mind. Are those objects God, or something different from God?
+<!-- it is not within our power to feel one sensation rather than another -->
 
- <!-- for it is not in our power to cause ourselves to experience one perception rather than another, the perception being entirely dependent on the object which affects our senses. It may, indeed, be matter of inquiry whether that object be  -->
+Could our sensations of a thing come from God or something else?
 
-<!-- but because we perceive, or rather, stimulated by sense, clearly and distinctly apprehend, certain matter extended in length, breadth, and thickness, the various parts of which have different figures and motions, and give rise to the sensation we have of colours, smells, pain, etc.,  -->
+Our senses often make us clearly perceive a thing with:
+- length, width, and depth
+- shapes
+- movements
+- colors, odors, pain, etc.
 
-God would be a deceiver if he directly and of himself:
-- presented to our mind the idea of this extended matter, or 
-- merely caused the matter to be presented to us by some object which possessed neither extension, figure, nor motion. 
+If God gave us these sensations directly without our senses, then it means He delights in deceiving us.
 
-We clearly conceive this matter as entirely distinct:
-- from God
-- from ourselves, or our mind
+ <!-- presented the idea of this extended matter directly to our soul, or merely allowed it to be caused in us by something that has no extension, shape, or movement, we would have no reason to prevent us from believing  -->
 
-<!-- appear even clearly to discern that the idea of it is formed in us on occasion of objects existing out of our minds, to which it is in every respect similar.  -->
+Yet we know that this thing is different from God and from our own mind.
 
-God cannot deceive us, for this is repugnant to his nature.
+Our idea of this thing is formed in us by external bodies [animal spirits] similar to it.
 
-It follows that there exists a certain object extended in length, width, and thickness, and possessing all those properties which we clearly apprehend to belong to what is extended. 
+God's nature is not to deceive us. 
 
-**This extended substance is what we call body or matter.** *
+Then it follows that there is a certain substance with length, breadth, and depth, which exists at present in the world with all the properties that it has.
 
-{{< n n="Descartes defines matter as occupying space, having length, width, thickness or height" >}}
+We call this extended substance as body, or the substance of material things.
+
+{{< n n="Descartes defines matter as anything within the 4 Elements. In contrast, Material Superphysics calls matter as the Material Layer or Element only" >}}
  
 
-## 2. How we know that the human body is closely connected with the mind
+## 2. How we know that our mind is joined to a body
 
-A certain body is more closely united to our mind than any other. 
-- This is because we clearly observe that sensations affect us without our foreseeing them.
+Our body is more closely united to our mind than all others because we clearly perceive the pain and many other sensations from it.
 
-The mind is conscious of these. 
+Our mind naturally knows that these sensations do not come from itself but from its union with the body.
 
-These do not arise from itself alone, nor pertain to it, in so far as it is a thing which thinks, but only in so far as it is united to another thing extended and movable, which is called the human body. 
+ <!-- an extended thing that moves according to the arrangement of its organs, which we properly call the body of a man. (However, this is not the place where I intend to treat that matter in detail.) -->
 
-But this is not the place to treat in detail of this matter.
+## 3. Our senses do not teach us the nature of things, but only how they are useful or harmful to us
 
+Everything that we perceive through the mediation of our senses relates to the intimate union between mind and body.
 
+Through that union, we usually understand only what the external bodies can do to benefit or harm us, but not what their true nature is.
 
-## 3. The perceptions of the senses do not teach us what is in things in reality.
+<!-- , except perhaps rarely and by chance. -->
 
-They teach us what is beneficial or hurtful to the composite whole of mind and body.
+For after this reflection, we can abandon all prejudices from our senses, and rely only on our understanding. 
 
-The perceptions of the senses are merely to be referred to this intimate union of the human body and mind.
-- They usually make us aware of what, in external objects, may be useful or adverse to this union.
-- But they do not present to us these objects as they are in themselves, unless occasionally and by accident. 
-
-For, after this observation, we will easily lay aside the prejudices of the senses, and will have recourse to our understanding alone on this question by reflecting carefully on the ideas implanted in it by nature.
+For it is in the mind alone that the first notions or ideas—the seeds of all truths we are capable of knowing—are naturally found.
 

@@ -15,9 +15,9 @@ icon: "Rene Descartes"
 
 <!-- The distinction of reason  -->
 
-All attributes that give rise to diverse thoughts about one and the same thing—such as the extension of a body and its property of being divisible into parts—differ from the body itself (and from each other) only because we sometimes think confusedly about one without considering the other.
+<!-- All attributes that give rise to diverse thoughts about one and the same thing—such as the extension of a body and its property of being divisible into parts—differ from the body itself (and from each other) only because we sometimes think confusedly about one without considering the other.
 
-I recall having mixed the distinction made by thought with the modal distinction at the end of the responses I gave (Le Gras, p. 46) to the first objections that were sent to me regarding the Meditations on First Philosophy—but this is not contrary to what I write here, because at that time I did not intend to treat the subject at great length. It was sufficient to distinguish both kinds from the real distinction.
+I recall having mixed the distinction made by thought with the modal distinction at the end of the responses I gave (Le Gras, p. 46) to the first objections that were sent to me regarding the Meditations on First Philosophy—but this is not contrary to what I write here, because at that time I did not intend to treat the subject at great length. It was sufficient to distinguish both kinds from the real distinction. -->
 
 
 We sometimes distinguish a substance from one of its attributes.
@@ -132,114 +132,3 @@ We can conceive these provided we consider them as dependencies of their substan
 As for movement, we can regard it as another mode dependent on substance that has length, width, height. as long as we think only of the motion that occurs from one place to another without investigating the force that produces it.
 
 
-
-## 66. We are frequently wrong in our judgments regarding our sensations, affections, and appetites.
-
-
- <!-- our sensations, affections, and appetites if we take care to comprehend in the judgments we form of them only that which is precisely contained in our perception of them, and of which we are immediately conscious.  -->
-
-We can clearly know our sensations, affections, and appetites if we take care to use:
-- our understanding, and
-- what is affirmed by reason.
-
-But it is difficult to always maintain such caution, especially regarding our senses.
-
-This is because we have believed—from the very beginning of our lives—that all the things we perceive:
-- exist outside of our thoughts, and
-- are entirely similar to our sensations or ideas of them.
-
-For example, we see a certain color.
-
-We believe we were seeing a thing that:
-- existed outside of us
-- was similar to our idea of it
-
-We make this judgment so many times.
-- This makes it seem true to us
-
-This is why some people remain so convinced by this false prejudice that they cannot even doubt it.
-
-
-## 67. We are frequently deceived in our judgments regarding bodily pain itself.
-
-The same bias exists in all our other sensations—even those of tickling and pain. 
-
-For although we did not believe that there were, outside of us in external objects, things resembling the tickling or pain that they caused us to feel, we nevertheless did not regard these sensations as ideas present only in our soul. 
-
-Instead, we believed they were located in our hands, our feet, and other parts of our body.
-
-Yet there is no reason that obliges us to believe that the pain we feel—for example, in our foot—is something outside of our thought that actually resides in our foot; nor that the light we think we see in the Sun is in the Sun in the same way it is in us.
-
-People have such a mistaken belief only because they place so much importance on the judgments they formed when they were children.
-- They cannot let go of them in order to form more solid judgments.
-
-
-## 68. How in these things what we clearly conceive is to be distinguished from possibly wrong things.
-
-
-<!-- this::: "How we must distinguish, in such matters, between what we can be mistaken about and what we clearly conceive. In order to distinguish here what is clear in our sensations from what is obscure, we must first note that we know pain, color, and other feelings clearly and distinctly when we consider them simply as thoughts. But when we try to judge that color, pain, etc. are things that exist outside our thought, we do not in any way conceive what these things—this color, this pain—actually are.
-
-It’s the same when someone tells us they see color in a body or feel pain in one of their limbs. It’s as if they were telling us they perceive something but are entirely ignorant of the nature of that thing; or that they don’t have a distinct understanding of what they see or feel.
-
-For even if, when they do not examine their thoughts carefully, they may persuade themselves that they have some knowledge—because they suppose the color they believe they see in the object resembles the sensation they experience within themselves—nevertheless, if they reflect on what is represented to them by this color or this pain, insofar as these things exist in a colored body or a wounded part, they will undoubtedly find they have no knowledge of them." -->
-
-
-
-
-We have an idea of what pain or color is, as effects, because we ourselves feel pain or see colors. 
-
-<!-- we should most carefully observe that we possess a clear and distinct knowledge of pain, colour, etc, when we consider them simply as sensations or thoughts -->
-
-But when are asked to explain what pain or colors in their true nature beyond what we experience in our minds, we totally cannot explain them.  
-
- <!-- they are judged to be certain things subsisting beyond our mind, we are totally unable to form any conception of them. -->
-
-When someone tells us that he sees colour or feels pain in his leg, we actually absolutely no knowledge of it. 
-
-This is because we cannot feel the pain or see the color exactly as he can. 
-
-[We can look at the same object and get the same injury to our leg, but we have no idea whether it is exactly the same as the color or pain that he perceived.]
-
-<!-- this is exactly the same as if he said that he there saw or felt something of the nature of which he was entirely ignorant, or that he did not know what he saw or felt.  -->
-
-
-So the first step to distinguish what is clear in our sensations from what is obscure, we have to remember that what others perceive might be different from what we perceive.  
-
-<!-- For although, when less attentively examining his thoughts, a person may easily persuade himself that he has some knowledge of it, since he supposes that there is something resembling that sensation of colour or of pain of which he is conscious; 
-
-yet, if he reflects on what the sensation of colour or pain represents to him as existing in a coloured body or in a wounded member, he will find that of such he has . -->
-
-
-## 69. Magnitude, figure, etc., are known far differently from colour, pain, etc.
-
-Philosophers fancy other kinds of motion. They have rendered the nature of motion less intelligible to themselves.
-
-These will be more manifest especially if we consider that size in the body perceived, shape, motion (at least local), the situation of parts, duration, number, and those other properties which we clearly perceive in all bodies, are known by us in a way altogether different from that in which we know what colour is in the same body, or pain, smell, taste, or any other of those properties which I have said above must be referred to the senses. 
-
-When we see a body, we are not less assured of its existence from its appearing figured than from its appearing coloured,we yet know with far greater clearness its property of figure than its colour.
-
-{{< f f="by the colour we perceive on occasion of it.— FRENCH." >}}
-
-
-## 70. We judge of sensible things in 2 ways:
-
-1. A way which we avoid error
-2. A way which we fall into error
-
-Perceiving colours in objects is really equivalent to saying we perceive something in objects and are yet ignorant of what it is, except the sensation of colours which give us a highly vivid and clear sensation. 
-
-There is, however, a large diversity in our manner of judging.
-
-When we know that there is something unknown in objects. 
-
-<!-- (that is, in things such as they are, from which the sensation reached us), so far are we from falling into error that, on the contrary, we thus rather provide against it, for we are less apt to judge rashly of a thing which we observe we do not know.  -->
-
-But when we think we see colours in objects, we are really ignorant of what colour is. 
-
-We are unable to think of any resemblance between the colour in objects, and the colour that we see. 
-
- <!-- yet because we do not observe this, or because there are in objects several properties, as size, figure, number, etc., which, as we clearly know, exist, or may exist in them as they are perceived by our senses or conceived by our understanding,  -->
-
-This makes us glide into the error of thinking that the colour that we see is the colour in objects. 
-
-<!-- and thereafter of supposing that we have a clear perception of what is in no way perceived by us. -->

@@ -47,7 +47,7 @@ One could also say that the vapors at `E` are more humid than those at `D` becau
 However, in another sense, they could be said to be less humid because the excessive agitation of their parts prevents them from easily taking the form of water.
 
 
-### Exhalations: Particulates, Hydrocarbons, 
+### Exhalations: Particulates, Hydrocarbons
 
 Exhalations are capable of many more diverse qualities than vapors because there can be more differences among their particles.
 

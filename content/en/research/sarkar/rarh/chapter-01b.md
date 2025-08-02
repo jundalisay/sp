@@ -104,7 +104,7 @@ One’s kśátra shakti [soldierly strength] and kśátra shaoryya [soldierl
 
 ## Sri Lanka, 
 
-Vijaysingha, the son of Singhabahu the king of Singhapur(19) of southern Ráŕh, conquered Lanka [now Sri Lanka].
+Vijaysingha, the son of Singhabahu the king of Sinhapura (19) of southern Ráŕh, conquered Lanka [now Sri Lanka].
 - As a mark of his victory gave it the name Singhal.
 
 Pandu Basudev was the nephew of the sonless Vijaysingha. He ascended the throne of Singhal in c. 534 BCE and conquered the south-western coast of India.
@@ -113,7 +113,7 @@ The transplanted people of Bengal laid the foundation of the Nair society of Ker
 
 The Ráŕhii Brahmans of Bengal set sail for the coast of Konkan [Western India] where they set up the Gaoŕiiya Sárasvata Brahman society.
 
-Sahasrabahu [Si Inthrathit 13th century?], another prince of Singhapur, founded the Thailand dynasty and named the country Shyámdesh. 
+Sahasrabahu [Si Inthrathit 13th century?], another prince of Sinhapura [West Bengal], founded the Thailand dynasty and named the country Shyámdesh. 
 
 None of the above went as a conqueror.
 
