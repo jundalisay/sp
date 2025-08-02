@@ -10,34 +10,36 @@ icon: "Kepler"
 ---
 
 
-{{< s v="66" >}} I will be dealing with weather, because everything else is uncertain. An early spring in southern parts causes
-premature budding of trees, and those buds, still tender, will be damaged by the arrival of harsh March. 
+{{< s v="66" >}} I will be dealing with weather, because everything else is uncertain. 
+
+An early spring in southern parts causes premature budding of trees, and those buds, still tender, will be damaged by the arrival of harsh March. 
 
 In our climate, trees do not sprout usually at that time, due to usual cold and northern wind. The spring is favourable for the fruits of Earth, but, as it was already stated, there is a danger on May 10, 11 and 12. 
 
-There is a threat for blooming grapevine in June, and subsequently, during July, damages will result in various
-places, either from excessive humidity or hailstorms. August, September and October seem to be favourable for
-grapes until their harvest, and likewise the grain. Nevertheless, there may be danger around September 20.
+There is a threat for blooming grapevine in June, and subsequently, during July, damages will result in various places, either from excessive humidity or hailstorms. 
+
+August, September and October seem to be favourable for grapes until their harvest, and likewise the grain. Nevertheless, there may be danger around September 20.
 
 
-{{< s v="67" >}} As for illnesses, there is a fact that disturbances in the air will influence adversely our bodies, which is
-undoubtedly generally known among physicians. Thus, when a changeable winter is foreseen, many illnesses
-will occur, especially at the beginning of March and May.
+{{< s v="67" >}} As for illnesses, there is a fact that disturbances in the air will influence adversely our bodies, which is  generally known among physicians. 
 
-Unfortunately it seems that also the summer will be unstable, and the forecoming autumn will be very bad due to
-Saturn/Mars conjunction. 
+Thus, when a changeable winter is foreseen, many illnesses will occur, especially at the beginning of March and May.
+
+Unfortunately it seems that:
+- the summer will be unstable
+- the forecoming autumn will be very bad due to Saturn/Mars conjunction. 
 
 Many autumnal illnesses and epidemics will occur in places where the noxious wind will carry them, especially if we take into consideration also the eclipses described above.
-Generally spoken, the days which I mentioned to be adversely afflicted by numerous aspects will also provoke
-illnesses in susceptible people, and those who are already ill will get worse. 
 
-If, however, some person is already ill, or if his bodily fluids contain something bad, then obviously it is not possible to disregard the configurations
-of Moon with other planets, especially with the Sun, as I did by now.
+Generally spoken, the days which I mentioned to be adversely afflicted by numerous aspects will also provoke illnesses in susceptible people, and those who are already ill will get worse. 
+
+If, however, some person is already ill, or if his bodily fluids contain something bad, then obviously it is not possible to disregard the configurations of Moon with other planets, especially with the Sun, as I did by now.
 
 As the lunar aspects influence bodily fluids, I don´t want to deny that it is useful to take them into consideration
 in practicing medicine. 
 
 If possible, a physician should be very careful in dealing with weakened patients when the Moon has powerful aspects. Any aspect, then, is naturally purifying per se.
+
 And thus, if there´s a need of intense purification, we should choose strong configurations.
 
 Actually, the core of all crises depends on the course of Moon and its configurations with planets, and it is useless to search for causes elsewhere.
@@ -45,8 +47,7 @@ Actually, the core of all crises depends on the course of Moon and its configura
 
 {{< s v="68" >}} Should we deal with that what I called foundation with regard to the harmony of the soul with celestial configurations, the astrologer does indeed have a word in political matters and in war. 
 
-Because with strong aspects effective, any sort of thinking is naturally active and pleasant for their work, and most of all, when the
-actual strong aspect is congenial with something in the individual´s horoscope.
+Because with strong aspects effective, any sort of thinking is naturally active and pleasant for their work, and most of all, when the actual strong aspect is congenial with something in the individual´s horoscope.
 
 Such a sympathy in sense of bodily temperament, and likewise the celestial influence to the air, does not exert influence upon thetemperament of the body or spirit, but on the contrary, the spirit itself has a relationship with heaven, because it has a similar relationship with the light and harmony, and afterwards it transforms the body.
 

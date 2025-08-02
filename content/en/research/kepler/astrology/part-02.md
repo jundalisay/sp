@@ -24,14 +24,15 @@ Physicists admit that the reason of this influence is not precisely known yet.
 
 {{< s v="16" >}}  Thus, the action of the Moon is twofold.
 
-Each month occurs that one which I already mentioned, the other refers to the ebb and flow of the sea, which I will mention below.
+Each month occurs that one which I already mentioned, the other refers to the ebb and flow of the sea.
 
 
 {{< s v="17" >}} So, each day when we find new moon in the calendar, the moisture, swelling and everything what depends on the Moon will decrease, while during the Full Moon all that will increase.
 
-But, as previously mentioned, the moon quarters do influence this occurence also very strongly. 
+But the moon quarters do influence this occurence also very strongly. 
 
-This is simple and purely astrological technique of prediction, which could help to the astrologer to widen the limits of his or her profession and could become to work as a farmer, a physicist, a chemist etc.
+This is simple and purely astrological technique of prediction.
+- It could help to the astrologer widen the limits of his profession and could become to work as a farmer, a physicist, a chemist etc.
 
 
 {{< s v="18" >}}  For chemists, I say that the Full Moon is not favourable for melting of metals, because the air is too moist.
@@ -39,18 +40,19 @@ This is simple and purely astrological technique of prediction, which could help
 If this is so, then this will lead to many possibilities for experiments for their work.
 
 
-{{< s v="19" >}}  The third physical cause for prediction is the multifarious nature of other planets, which is revealed by their colours.
+{{< s v="19" >}}  **The third physical cause for prediction is the multifarious nature of other planets, which is revealed by their colours.**
 
 Here, we would go wrong, if we would divide 4 conventional qualities between planets.
 
-Vital conditions, which are inherent with light, are not good for cold and dryness, because cold and dryness are at their maximum where there is no light, no life and no warm at all.
+Vital conditions, which are inherent with light, are not good for cold and dryness.
+- This is because cold and dryness are at their maximum where there is no light, no life and no warm at all.
 
 Thus, like nothing else comes to us from above but the light of the stars, like – for sure – neither cold nor dryness do not descend just per se.
 
 
 {{< s v="20" >}} Aristotle's method of derivation of various effects of the quantities and strenghths of the planets stands for 4 elements from 4 qualities.
 
-Our derivation slightly differs from that of Aristotle.
+My derivation slightly differs from that of Aristotle.
 
 All alternates and transformations are based upon antagonism. 
 

@@ -28,9 +28,14 @@ qunatum tunneling QT huge role
 - mental qt cretes matrix that helps em go more easily
 
 
+fairchild 
+marcos galperin argetina libre
+
+3 requiremetns for busness:
+money talent market
 
 
-descartes world cahp 11
+william shocklee 
 
 The weight of this Earth is caused by the force is that unites all its particles and makes them all tend toward the centre.
 - Each moves towards the center according to its size and solidity.

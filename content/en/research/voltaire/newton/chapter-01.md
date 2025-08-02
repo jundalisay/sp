@@ -9,7 +9,7 @@ weight: 9
 
 
 
-PART ONE. METAPHYSICS.
+PART ONE. METAPHYSICS
 
 Newton was deeply convinced of the existence of a God as an infinite, all-powerful, eternal, and creative Being, a master who established a relationship between himself and his creatures.
 
@@ -29,7 +29,9 @@ In several conferences I had in 1726 with Dr. Clarke, Newton always pronounced t
 
 All of Newton's philosophy necessarily leads to the knowledge of a Supreme Being, who created everything, freely arranged everything.
 
-For, if according to Newton (and according to reason) the world is finite, if there is a void, then matter does not necessarily exist; it therefore received existence from a free cause. If matter gravitates, as has been demonstrated, it does not gravitate by its nature, just as it is extended by its nature: it has therefore received gravitation from God[1]. 
+For, if according to Newton (and according to reason) the world is finite, if there is a void, then matter does not necessarily exist; it therefore received existence from a free cause. 
+
+If matter gravitates, as has been demonstrated, it does not gravitate by its nature, just as it is extended by its nature: it has therefore received gravitation from God[1]. 
 
 If the planets rotate in one direction rather than another, in a non-resistant space, the hand of their creator has therefore directed their course in this direction with absolute freedom.
 
@@ -114,7 +116,9 @@ The internal constitution of the organs of the Negroes is a palpable demonstrati
 
 I am therefore forced to reject the idea of a Supreme Being, of a Creator whom I would conceive to be infinitely good, and who would have caused infinite evils, and I prefer to admit the necessity of matter, and of generations, and of eternal vicissitudes, than a God who would have freely created unhappy people.
 
-One replies to this atheist: The word good, of well-being, is equivocal. What is bad in relation to you is good in the general scheme of things. The idea of ​​an infinite Being, all-powerful, all-intelligent, and present everywhere, does not revolt your reason: would you deny a God because you had a bout of fever? He owed you well-being, you say; what reason do you have to think this way? 
+One replies to this atheist: The word good, of well-being, is equivocal. What is bad in relation to you is good in the general scheme of things. 
+
+The idea of an infinite Being, all-powerful, all-intelligent, and present everywhere, does not revolt your reason: would you deny a God because you had a bout of fever? He owed you well-being, you say; what reason do you have to think this way? 
 
 Why did he owe you this well-being? 
 
