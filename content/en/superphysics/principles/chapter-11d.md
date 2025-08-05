@@ -1,8 +1,6 @@
 ---
 heading: Chapter 11d
 title: Parts of a Logical System
-# title: "How to Upgrade to Six Senses"
-# heading: "Diet, Precepts, and Mental, Emotional, and Physical Practice"
 date: 2024-02-20
 image: "/graphics/meta/logicparts.jpg"
 description: "We visualize the parts of a logical system as a house"

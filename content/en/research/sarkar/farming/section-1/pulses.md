@@ -179,7 +179,9 @@ The small variety may be cultivated as a “pigeon crop” along with paddy in t
 
 The large variety may be cultivated along with wheat, as a winter crop, after the land has been tilled. Lentil leaves have no special qualities although they are sentient. 
 
-Lentils are to be treated as a static food and must not be eaten by sannyasis. They may be eaten in the daytime by householders (grhis), but they must not be eaten in the night by anybody because at night they ferment easily.
+Lentils are to be treated as a static food and must not be eaten by sannyasis. 
+
+They may be eaten in the daytime by householders (grhis), but they must not be eaten in the night by anybody because at night they ferment easily.
 
 
 

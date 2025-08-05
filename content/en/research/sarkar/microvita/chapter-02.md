@@ -11,7 +11,7 @@ weight: 6
 
 
 
-Microvitum is a very subtle being. Of the three types of microvita, the crude type are instrumental in emanating life throughout the cosmos. They create a stir within a physical structure. 
+Microvitum is a very subtle being. Of the 3 types of microvita, the crude type is instrumental in emanating life throughout the cosmos. They create a stir within a physical structure. 
 
 In the subsequent stages, through clash and cohesion, enormous changes take place in the physical structure. 
 - This process led to the emergence of the dinosaurs, mammals and finally intelligent human beings.

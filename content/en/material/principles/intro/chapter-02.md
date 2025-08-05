@@ -72,7 +72,7 @@ Aethereal Internal Boundary (aib) | Edge of Identity | Separates aethereal ident
 Spatial Internal Boundary (sib) | Edge of Universe | Separates space from aetherspace
 Radiant Internal Boundary (rib) | Higgs Field | Separates identities with potential energy
 Convertible Internal Boundary (cib) | X17 | Separates left-hand-interacting identities 
-Material Internal Boundary (mib) | ? | Separates protons fromm mesons
+Material Internal Boundary (mib) | ? | Separates "protons" from "mesons"
 
 
 <!-- identities with can be further split up (manifesting as splitting up)  that can be split up by antimatter -->

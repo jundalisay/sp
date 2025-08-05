@@ -11,7 +11,10 @@ icon: "Superphysics"
 ---
 
 
-Yesterday was a huge day in local Buddhism because 2 relics from Sri Lanka, 2 tiny sets of ashes that are believed to be from the Buddha, were transferred to the country as part of Vesak celebrations. Local Buddhists could now view those relics up close and make offerings and pay their respects to them. 
+Yesterday was a huge day in local Buddhism because 2 relics from Sri Lanka, 2 tiny sets of ashes that are believed to be from the Buddha, were transferred to the country as part of Vesak celebrations. 
+
+Local Buddhists could now view those relics up close and make offerings and pay their respects to them. 
+
 
 ## Venerating Relics are ~~Dogma~~ Not Dogma
 

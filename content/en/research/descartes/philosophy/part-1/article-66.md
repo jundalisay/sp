@@ -14,7 +14,6 @@ icon: "Rene Descartes"
 
 ## 66. We are frequently wrong in our judgments regarding our sensations, affections, and appetites.
 
-
 <!-- our sensations, affections, and appetites if we take care to comprehend in the judgments we form of them only that which is precisely contained in our perception of them, and of which we are immediately conscious.  -->
 
 We can clearly know our sensations, affections, and appetites if we take care to use:
@@ -54,7 +53,6 @@ People have such a mistaken belief only because they place so much importance on
 
 
 ## 68. How we must distinguish between error and truth.
-
 
 The first step is to think that what we perceive as pain, color, and other feelings are really just in our minds. 
 

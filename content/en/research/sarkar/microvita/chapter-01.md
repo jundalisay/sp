@@ -57,9 +57,9 @@ Science treats carbon molecules or carbon atoms as the initial points of life in
 
 These microvita have got little to do with carbon atoms or molecules. 
 
-**So far as physicality is concerned, the position of these microvita is just between ectoplasm [lower mind] and electron, but they are neither ectoplasm nor electron.** *
+**So far as physicality is concerned, the position of these microvita is just between ectoplasm [lower mind aetherspace] and electron, but they are neither ectoplasm nor electron.** *
 
-{{< n n="That is why we classify Elementals as between the upper Spatial and upper Rdiant strata." >}}
+{{< n n="That is why we classify Elementals as between the middle Spatial and upper Radiant strata." >}}
 
 <!-- It is a human wont that whatever we know regarding any subject or any object, when we know that it exists but its characteristics or other particulars are not known to us, we say it is “mysterious”.
 
@@ -75,7 +75,7 @@ These microvita are not of the same density or the same subtlety.
 
 Some of them may come within the range of a highly developed microscope*. 
 
-{{< n n="This is because they are just above the Radiant Layer (Electromagnetism). This is probably why Sarkar refers to them as emanations. This is why we assert that Microvita come from stars when there is a congenial environment for the living energy on light" >}}
+{{< n n="This is because they are just above the Radiant Layer (Electromagnetism). This is probably why Sarkar refers to them as emanations." >}}
 
 
 Some of them may not come within the range of a microscope. But they may come within the scope of our perception by:
@@ -88,8 +88,6 @@ They are of subtler order.
 Still subtler forms of microvita can only be detected by a special type of perception.
 <!-- which may not come directly within the scope of our perception but may come within the scope of  -->
 - This kind of perception is actually the reflection of conception within the edges of perception.
-<!-- a limited range of perception. -->
- <!-- in a limited sphere. -->
 
 
 ### 3 Categories
@@ -106,5 +104,3 @@ People call them “viruses”. But virus is a vague term. The better term will 
 <!-- which is actually the reflection of conception within the periphery of perception -->
 
 This special type of perception may be felt by persons with highly developed or spiritually oriented minds.
-
-

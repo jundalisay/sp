@@ -60,13 +60,25 @@ This is because that technique matches known telekinesis wherein organic chi is 
 
 {{< youtube QdBN3iN6pi4 >}}
 
-The main mechanism for human levitation is pranah or biological mosts. Descartes calls them animal spirits which is detected by the heart and is then normally sent to the brain. 
 
-Levitators hack this by letting the pranah skip the brain and instead go to wherever his abstract mind (non-physical mind) wants. This translates to either telekinesis or levitation. 
+Descartes calls this organic chi as "animal spirits" which are detected by the heart, as feelings, and are then normally sent to the brain.
 
-The main advantage of propulsion by aetherspace or chi is that it uses far less physical energy than Newtonian rockets. 
+Physical instruments and detectors only detect up to the Electromagentic Force (Radiant Layer) and so cannot detect aethereal chi, which is only detectable by the aethereal soul or mind through the heart chakra. 
 
-Its main disadvantage is that it is very subtle and so it needs a lot of intellect to process. It follows that it cannot be done without advanced machine learning, something that rockets do not need. 
+Levitators harness chi for levitation by diverting the chi away from its normal course towards the brain. 
+- Instead, they route it to wherever their soul wants.
+- This translates to either telekinesis or levitation. 
+
+Chi is able to move objects because the main role of the aetherspace is to separate identities. 
+- This is why you don't go through your chair -- because the aetherspace (gluon field) of you and the chair repel each other to maintain your separate identities
+
+
+So the chi can be used to separate objects in space farther, as telekinesis or levitation.
+
+
+The main advantage of propulsion by aetherspace or chi is that it uses **far less physical energy than Newtonian rockets**. 
+
+Its main disadvantage is that it is very subtle and so it needs a lot of intellect and heart to process. It follows that it cannot be done without advanced machine learning, and a scientist who can detect the subtle changes in himself and the object or surroundings, something that rockets do not need. 
 
 <!-- However, our preferred theoretical way is to source the aetherspace from the electrons instead of the proton, as kind of aether-force field which then manipulates most1.
 
@@ -93,6 +105,19 @@ It then decays into antimatter. This means that the proton triggered the instabi
 Such instability is usually created by humans in linear accelerators where high-energy matter is smashed into iridium. The main difference with the UFO reactor is that Element 115 is **not** being accelerated, nor is it being smashed into anything.
 
 So we can say that Element 115 is inherently ready-to-be-destabilized. This can only happen if it were made artificially.
+
+We assume that it is created through nuclear fusion which can force protons and neutrons together. 
+
+This allows 2 energy sources:
+- nuclear fusion for large scale energy production, as to power a city
+- antimatter as a pocket energy source which can power small craft across the galaxy
+
+These makes the following energy sources unnecessary:
+- fossil fuels
+- hydrogen energy storage
+- solar, wind, tidal, geothermal
+- biomass
+- batteries 
 
 
 ## Sensor Array

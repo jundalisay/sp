@@ -22,13 +22,20 @@ This is similar to high school level.
 
 Graduation from the high school level enables the human species to be employed for higher purposes such as doing service to the nearby star systems. 
 
+Humans under the current level of materialist sciences are like children playing around, unable to be worthy of employment in the galaxy. 
+- An analogy are the savages in North Sentinel Island which no one dares visit. This is why aliens also stay away from Earth. 
+
+By upgrading human sciences into Superphysics, we hope to put humanity back under the radar of alien "investors" who will employ humans to give basic working experience with advanced technologies like anti gravity, teleportation, free energy, etc. 
+
 Experience in our stellar neighborhood will then be the start of university where humans will learn how the entire galaxy works. 
 
 This will then allow human employment for the service of the galaxy. 
 
 Graduation from this level will lead to the masters level wherein humans can go beyond the galaxy and physical existence itself. 
 
-Mastery of that level will allow huumans to evolve beyond physicality. At that point, Superhysics itself will need to be overhauled to explain the nature of non-physical reality. 
+Mastery of that level will allow humans to evolve beyond physicality. 
+
+At that point, Superhysics itself will need to be overhauled to explain the nature of non-physical reality. 
 
 
 

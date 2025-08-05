@@ -121,16 +121,11 @@ Material | Earth, Pritvi, 金 (solid metal) | Strong | smell
 
 {{< q a="PR Sarkar" >}}
 The category of the physical elements an object belongs to is determined by the tanmátra emanating from that object.
-
-The ethereal factor has the capacity of imbibing or carrying the sound tanmátra.
-
-The aerial factor has the capacity of imbibing or carrying the sound and touch tanmátra.
-
-The luminous factor, of the sound, touch, and form tanmátras.
-
-The liquid factor, of the sound, touch, form and taste tanmátras.
-
-The solid factor has the capacity of imbibing or carrying all five tanmátras: sound, touch, form, taste and smell.
+- The ethereal factor has the capacity of imbibing or carrying the sound tanmátra.
+- The aerial factor has the capacity of imbibing or carrying the sound and touch tanmátra.
+- The luminous factor, of the sound, touch, and form tanmátras.
+- The liquid factor, of the sound, touch, form and taste tanmátras.
+- The solid factor has the capacity of imbibing or carrying all five tanmátras: sound, touch, form, taste and smell.
 {{< /q >}}
 
 

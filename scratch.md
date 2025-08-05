@@ -1,12 +1,9 @@
 brahma as all programs,Samskara as Compiler
 
-
 space then heat 
 
 high pressure = more space particles = more heat particles = less vapors (less humidity)
 low pressure = less space particles = less heat particles = more vapors (more humidity) 
-
-
 
 qualimath aims to preserve the understanding the causal relations that create state change in a person since mentality creates reality. This makes it valid even as a person goes into another universe in the multliverse since his mind will interpret that universe according to his mind's relational abilitiy or samskara
 

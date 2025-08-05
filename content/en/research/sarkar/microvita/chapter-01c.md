@@ -29,15 +29,18 @@ These are the creatures of the primordial stage of creation in this expressed wo
 **Microvita do not belong to the category of unicellular creatures.**
 
 - Like all other organic and psychic beings, microvita exist, multiply and die. 
-- Unlike them, microvita are not directly related to carbon atoms or carbon molecules. Microvita are not subjected to barometric conditions or temperature. 
+- Unlike them, microvita are not directly related to carbon atoms or carbon molecules. 
+
+**Microvita are not subjected to barometric conditions or temperature.** *
+
+{{< n n="The cruder microvita are subject to temperature as seen in yogurt" >}}
+
 
 Unicellular creatures grow and decay within the scope of the 5 fundamental factors
 - But cruder microvita function within the realm of the five inferences*.
 
 
 {{< n n="*These mean the mental or metaphysical body instead of the physicality of the 5 Factors (which become 5 Inferences in the mental realm). For this, we use the word 5 Strata" >}}
-
-
 
 
 
@@ -54,7 +57,8 @@ The use of pesticides and germicides may be increased. But if the noumenal cause
 
 Microvita only have an indirect relationship to pollution. 
 
-Circular microvita may function within the scope of the crude mind stuff (kámamaya kosa). Their collective good thoughts can check the flow of negative microvita.
+**Circular microvita** may function within the scope of the crude mind stuff (kámamaya kosa).
+- Their collective good thoughts can check the flow of negative microvita.
 
 For this, mental and physical development are indispensable in collective life.
 
@@ -63,10 +67,8 @@ Intellectually and spiritually advanced people, through their thoughts, can dest
 But if sinful people continue to create newer and newer microvita in their psychic sphere*, there will always remain the possibility of the creation of subtler forms of negative microvita. 
 
 
-{{< n n="*Therefore, microvita are born and die in the mind as toughts." >}}
-
+{{< n n="*Therefore, microvita are born and die in the mind as thoughts." >}}
  
-
 
 These microvita can cause immense harm in the collective sphere of different planets and the entire cosmos.(2) 
 
@@ -82,8 +84,6 @@ But not all microvita are the enemies of human beings:
 
 
 <!-- ## Some Examples of Microvita in Daily Life – Section B -->
-
-
 <!-- ## Krimishatru/krimiripu
 
 The meaning of the term is “ghoŕanim” or “mahánimba” [“margosa”]. In the world there are different varieties of margosa. Some are very bitter, some less bitter and some are not bitter at all (such as curry leaves). 
@@ -106,9 +106,12 @@ The medicinal value of the most bitter variety is immense, but it should not be 
 
 If margosa is used excessively or taken continuously for many days, it may cause blood dysentery. Just as pigeons and sparrows are attacked with blood dysentery after eating wheat grains continuously for several days, mahánimba also causes blood dysentery in human beings. -->
 
-The air of the margosa tree:
+The air* of the margosa tree:
 - destroys the harmful effects of bacteria
 - can fight against negative microvita
+
+{{< n n="Air is part of the Spatial Layer" >}}
+
 
 This is why margosa is also recognized as one of the five sacred trees (paiṋcavati). 
 
@@ -189,17 +192,17 @@ This perhaps explains why hilsas, sharks and crocodiles emit almost the same typ
 Another meaning of the word “khara” is “a rotten smell or a stinking smell”. One will experience this kind of smell if one walks by a place where animal corpses are dumped.   -->
 
 
-When a dead body is left exposed for more than 24 hours, germs which decompose the body set in. **These so-called germs are in fact negative microvita.** 
+When a dead body is left exposed for more than 24 hours, germs which decompose the body set in. **These so-called germs are negative microvita.**
 
 The slightest contact with these negative microvita is extremely pernicious for most creatures. 
 
 However, some creatures have a physical structure that contains more powerful negative microvita.
-- Rotten flesh is not as harmful to them. 
+- Rotten flesh is not as harmful to them.
 
  <!-- as is it for other creatures. -->
 
 
-### Positive Microvita Can Decompose Into Negative 
+## Positive Microvita Can Decompose Into Negative 
 
 Milk is turned into curd through microvita. 
 

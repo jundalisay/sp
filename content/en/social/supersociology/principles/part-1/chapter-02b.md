@@ -23,7 +23,7 @@ Here we explain relationality on the media of language.
 To explain the relationality of language, we have to explain how relationality is used by the mind to connect ideas into compound ideas whch are then used to express feelings. 
 
 
-### Relational Language Model: Nodes and Connectors
+## Relational Language Model: Nodes and Connectors
 
 Each sentence or line of thinking is based on a central idea which are connected to other ideas through their actions:
 
@@ -47,14 +47,14 @@ For example, the sentence 'John is good' is made up of the following components:
 {{< img src="/graphics/social/john.png" alt="John is good" >}}
 
 
-### Universal Language: Lish
+## Universal Language: Lish
 
 This model is the basis of our proposed universal language called Lish which has the following features:
 - It is syllabic like Sanskrit and English, as opposed to being tonal like Chinese
 - It uses prefixes, suffixes, and onomatopoeia 
 
 
-#### Onomatopoeia 
+### Onomatopoeia 
 
 Naming things based on their sounds is done by languages:
 
@@ -69,7 +69,7 @@ For example, we can use the word "pak" to replace "hit". This is because the sou
 In this way, the sentence `John hit Tom` changes to `John pak Tom`.
 
 
-#### Suffixes
+### Suffixes
 
 Languages such as English use prefixes and suffixes to modify words. We can use the following suffixes to modify the temporal aspect of verbs. 
 

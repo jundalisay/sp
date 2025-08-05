@@ -3,13 +3,9 @@ title: "God: Reasons not appreciated by all minds. Reasons of the materialists."
 heading: Chapter 1
 description: ""
 c: "firebrick"
-# a: "Voltaire"
 weight: 9
 ---
 
-
-
-PART ONE. METAPHYSICS
 
 Newton was deeply convinced of the existence of a God as an infinite, all-powerful, eternal, and creative Being, a master who established a relationship between himself and his creatures.
 
