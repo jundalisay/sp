@@ -77,32 +77,45 @@ A defect in the objectivated mind may also cause inferiority complex or superior
 
 When the objectivated mind becomes large enough to pamper one’s ego, one develops a superiority complex. 
 
-One starts considering oneself to be superior to others in points of knowledge, the capacity to act, organizational calibre and other qualities of leadership, and unnecessarily slights others. Such a person expects preferential treatment, VIP status, and unquestioning obedience. 
+One starts considering oneself to be superior to others in points of knowledge, the capacity to act, organizational calibre and other qualities of leadership, and unnecessarily slights others. 
+
+Such a person expects preferential treatment, VIP status, and unquestioning obedience. 
 
 If by accident their ego is hurt even slightly, they become violently angry. This is another kind of mania.
 
 Conversely, there are those who exert too much control over their objectivated minds, which results in the mind’s constriction.
 
-In such a state their minds fail to grasp noble ideas, and such people start considering themselves to be inferior to others in all respects – education, social position, etc. Normally such people become unnecessarily nervous and begin to falter or fumble before their elders and seniors: they lack self-confidence and faith in themselves. This is inferiority complex. 
+In such a state their minds fail to grasp noble ideas, and such people start considering themselves to be inferior to others in all respects – education, social position, etc. 
+
+Normally such people become unnecessarily nervous and begin to falter or fumble before their elders and seniors: they lack self-confidence and faith in themselves. This is inferiority complex. 
 
 The best way to cure such people is to generate self-confidence in them by frequently advising them not to feel inferior to anyone. Slowly, gradually, they will free themselves from their inferiority complex and the feeling of superiority will increase.
 
 But one must be careful that, after a certain stage, a superiority complex is not allowed to develop.
 
 
-Most psychic diseases, if not all, grow out of the defective control over the objectivated mind. If one is alert, any trouble can be avoided. Those who regularly practise Iishvara prańidhána or dhyána (meditation) can remain free from these diseases, as their minds will remain in a balanced state.
+Most psychic diseases, if not all, grow out of the defective control over the objectivated mind. If one is alert, any trouble can be avoided. 
+
+Those who regularly practise Iishvara prańidhána or dhyána (meditation) can remain free from these diseases, as their minds will remain in a balanced state.
 
 One of the numerous benefits of sádhaná is that it keeps the mind free from psychic disease and encourages the natural growth of the mind. This is of tremendous importance since such problems may arise not only in individual life, but in collective life as well.
 
 Individual human beings as well as large communities often suffer from some sort of psychic disease. A subjugated people suffer from an inferiority complex towards the sovereign elite, the ruling class. 
 
-When India was a dependent colony, many Indians used to describe the members of the ruling community as God’s children, obviously due to their deep-rooted inferiority complex. Most of them wondered: “Will India ever see the light of freedom? When will we ever win the struggle against the ruling class?” 
+When India was a dependent colony, many Indians used to describe the members of the ruling community as God’s children, obviously due to their deep-rooted inferiority complex. 
 
-This shows that the entire indigenous community was a victim of inferiority complex, the removal of which would require a group of leaders endowed with enormous mental strength and noble character – a group of mighty personalities. India at that time was not fortunate enough to have such great people, and that is why the struggle for Indian freedom had to be prolonged.
+Most of them wondered: “Will India ever see the light of freedom? When will we ever win the struggle against the ruling class?” 
+
+This shows that the entire indigenous community was a victim of inferiority complex, the removal of which would require a group of leaders endowed with enormous mental strength and noble character – a group of mighty personalities. 
+
+India at that time was not fortunate enough to have such great people, and that is why the struggle for Indian freedom had to be prolonged.
 
 Otherwise, India could have gained freedom in a much shorter time.
 
-I say all this because psychic diseases, as I have just pointed out, affect not only individuals but collective bodies as well. You must remain vigilant so that in your individual life you do not become the victim of a psychic disease, and so that if there is any such psychic disease in collective life, you see that it is eliminated.
+I say all this because psychic diseases, as I have just pointed out, affect not only individuals but collective bodies as well.
+
+You must remain vigilant so that in your individual life you do not become the victim of a psychic disease, and so that if there is any such psychic disease in collective life, you see that it is eliminated.
+
 
 11 May 1980, Calcutta
 

@@ -144,19 +144,31 @@ This type of good person, in the body they take in their next life (not “next 
 
 ### 6. Siddha
 
-Suppose a good person has no physical desire.  But during sádhaná – “Yes, love for God has been created. Yes, people love me, Bábá loves me. But I should have some occult power, so that people will say, ‘This person has power, and is not an ordinary person. 
+Suppose a good person has no physical desire.  But during sádhaná – “Yes, love for God has been created. Yes, people love me, Bábá loves me. 
 
-This person has occult power – alaokika shakti – aeshvarya – vibhúti’ – No, no, no, these are bad thoughts, bad thoughts.” When this type of person dies, their post-physical body is known as siddha. They are the best among the devayonis. I will say something regarding these siddhas later on.
+But I should have some occult power, so that people will say, ‘This person has power, and is not an ordinary person. 
+
+This person has occult power – alaokika shakti – aeshvarya – vibhúti’ – No, no, no, these are bad thoughts, bad thoughts.” 
+
+When this type of person dies, their post-physical body is known as siddha. They are the best among the devayonis. I will say something regarding these siddhas later on.
 
 
 ### 7. Prakrtiliina
 
 Those who worship idols, ascribing Brahma-hood to that idol, thinking that the very idol is God, the very image is God; worshipping stone, worshipping wood, worshipping metal. 
 
-Tantra says, Mrcchiládhátudárvádimúrttáviishvaro buddhayo… [“Those who think that Parama Puruśa is confined within idols made of clay, stone, metal or wood…”] Mrt means “earthen image”; shilá means “made of stone”; dhátu means “made of metal”; and dáru means “made of wood”. And they ascribe Godhood to that wood or to that metal or to that stone. 
+Tantra says, Mrcchiládhátudárvádimúrttáviishvaro buddhayo… 
 
-Then what happens? The person is ideating on that stone, or wood, or metal, and what happens? Yadrshii bhávaná yasya siddhir bhavati tádrshii – “A person adopts a body according to their object of ideation.” Their own self is transformed into that entity, the entity which was their object of meditation. Now such people worshipping different forms of Prakrti finally take the form of those entities, and become stone, become wood, become metal. 
+[“Those who think that Parama Puruśa is confined within idols made of clay, stone, metal or wood…”] 
+
+Mrt means “earthen image”; shilá means “made of stone”; dhátu means “made of metal”; and dáru means “made of wood”. And they ascribe Godhood to that wood or to that metal or to that stone. 
+
+Then what happens? 
+
+The person is ideating on that stone, or wood, or metal, and what happens? 
+
+Yadrshii bhávaná yasya siddhir bhavati tádrshii – “A person adopts a body according to their object of ideation.” 
+
+Their own self is transformed into that entity, the entity which was their object of meditation. Now such people worshipping different forms of Prakrti finally take the form of those entities, and become stone, become wood, become metal. 
 
 They are called Prakrtiliina. They become one with Prakrti and remain there for an indefinite period. What a durdaeva, I will say! What a painful state of existence!
-
-

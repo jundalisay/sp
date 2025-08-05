@@ -48,19 +48,29 @@ If you eat a second plum, creating another vibration in the mind. This makes you
 
 ## From Mental Vibrations to Memory
 
-The vibrations that were produced then, which are capable of being recreated later, and the impressions that were formulated in the brain, are collectively known as “memory”. 
+Memory is the collective vibrations that were formulated in the brain, capable of being recreated later.
 
-After eating the second plum you also have a similar experience, and you remember eating plums, tamarind, pumpkin or hogplums. Now you experience two vibrations, two similar impressions, but yet they are not exactly alike. A distinction is made: the first plum you ate was more sour than the second one. 
+ <!-- that were produced then, which are , and the impressions that were , are collectively known as “”.  -->
 
-In this way, you form an idea about plums, their different varieties and varying degrees of sourness. 
+After eating the second plum you also have a similar experience.
+- You remember eating plums, tamarind, pumpkin or hogplums. 
+
+Now you experience two vibrations, two similar impressions, but yet they are not exactly alike. 
+
+<!-- A distinction is made: the first plum you ate was more sour than the second one.  -->
+
+In this way, you form an idea about:
+- plums
+- their different varieties
+- varying degrees of sourness. 
 
 Sometimes people recreate that vibration in their minds, drawing it from their memory, and enjoy its pleasurable effect. 
 
-Greedy people recollect the tasty dishes they once relished and derive pleasure from that. 
+<!-- Greedy people recollect the tasty dishes they once relished and derive pleasure from that. 
 
 Other people delight in feeding others. They offer rasagollás or sweets, and at the time of giving, imagine that their guest is enjoying the same delightful taste, the same sweet vibration from the rasagollás which they once relished when they ate them. 
 
-A host feels mental satisfaction by imagining that the guest’s mind is full of those pleasing vibrations. The host wants the guest to enjoy more and more of those delightful vibrations, and therefore asks the guest to accept the offer of more rasagollás. 
+A host feels mental satisfaction by imagining that the guest’s mind is full of those pleasing vibrations. The host wants the guest to enjoy more and more of those delightful vibrations, and therefore asks the guest to accept the offer of more rasagollás.  -->
 
 So, one enjoys pleasure in 2 ways:
 
@@ -69,14 +79,15 @@ So, one enjoys pleasure in 2 ways:
 
 The human mind has 2 contradictory inherent tendencies:
 - acquisition
-- sacrifice. 
+- sacrifice
 
 **The more one advances along the path of evolution, the more the spirit of sacrifice becomes prominent.**
 
 One wishes to share one’s mental pleasure with others. 
 - This is a very interesting aspect of human psychology.
 
-There are also gradations amongst sweets.
+
+There are gradations amongst sweets.
 
 <!-- - All varieties of sweets are not equally sweet.
 
@@ -85,9 +96,10 @@ There are variations in the degree of sweetness which is exactly what people rel
 While eating different sweets, people experience delightful variations from one sweet to another.
 - They perceive that the vibrations are similar but not identical.
 
-The sweet-maker understands this particular trait of human psychology and invents new varieties of sweets accordingly. 
+The sweet-maker understands this trait of human psychology.
+- So he invents new varieties of sweets accordingly. 
 
-The vibrations created in the mind are abstract, and the other vibrations are material.
+Some vibrations created in the mind are abstract, some are material.
 
 **The action of knowing occurs through the medium of sound, touch, taste, smell and form.** 
 
@@ -99,15 +111,21 @@ Later that person listens to the same sound and is reminded of the similar vibra
 
 Comparing the one rága (musical notes) with the other, one concludes that the latter is indeed ásoyárii rága.
 
-He or she may not know anything about music, but the mind already danced to that musical wave. 
+He or she may not know anything about music.
+- But the mind already danced to that musical wave. 
 
-The musical vibrations of the notes reached the ear’s membrane, hit it, passed through the auricular nerves and, on reaching the brain, left their imprint.
+The musical vibrations of the notes reached the ear’s membrane and hit it.
+- They are passed through the auricular nerves 
+- They reach the brain and leave their imprint.
 
-So far the knowing process is confined to the material level, but when that same vibration creates a ripple in the mind, it comes within the scope of mental vibrations.
+So far the knowing process is confined to the material level.
+
+But when that same vibration creates a ripple in the mind, it comes within the scope of mental vibrations.
 
 There are certain notations, both in instrumental music and in vocal music, which are very rhythmic.
 
-When these sounds strike the ear’s membrane they produce similar vibrations; concordant rhythmic vibrations are experienced. 
+When these sounds strike the ear’s membrane they produce similar vibrations.
+- Concordant rhythmic vibrations are experienced. 
 
 When an audience listens to rhythmic notes, whether from vocal or instrumental music, they move their legs unknowingly.
 
@@ -125,13 +143,18 @@ Those who do it unconsciously stop the movement of their legs the moment they ar
 
 In the case of excessive joy or enthusiasm, the mind loses its control over the nerves. 
 
-For example, suppose two football teams are playing a friendly match, and one of them enjoys your special support. 
+For example, if you watch your favorite team score at a match, you will move your legs unconsciously.
 
-Let us imagine that your favourite team is about to score a goal. At that moment of tense excitement, you will also move your legs, unconsciously of course.
+<!--  suppose 2 football teams are playing a friendly match, and one of them enjoys your special support. 
 
-You may have noticed that sometimes in their dreams football fans cry out, “Goal! Goal!” jerking their legs and kicking those who are sleeping beside them.
+Let us imagine that your favourite team is about to score a goal. 
 
-A major part of the knowing process is material, and only a small part of it is abstract.
+At that moment of tense excitement,  of course. -->
+
+Sometimes, football fans cry out in their dreams, “Goal! Goal!”
+- They jerk their legs and kick those who are sleeping beside them.
+
+**A major part of the knowing process is material, and only a small part of it is abstract.**
 
 Basically, the mind performs 2 functions:
 

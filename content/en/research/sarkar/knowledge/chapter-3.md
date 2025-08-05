@@ -45,37 +45,55 @@ This is formed from that portion which is the knowing self.
 
 
 
-If you visualize an elephant, a major portion of the mental body is transformed into a mental elephant. 
+If you visualize an elephant, a major portion of your mental body is transformed into a mental elephant. 
+- In the wakeful state, you are aware you are visualizing a mental elephant
+- But you are not aware that your mental body has been converted into that very same elephant.
 
-In the wakeful state, when your conscious mind remains active, you understand that you are visualizing a mental elephant, but are not aware that your mental body has been converted into that very same elephant.
+<!-- when your conscious mind remains active, you understand that you are , but are not aware  -->
 
 In dreams, one takes the mental elephant to be a real one, because the real world is non-existent. 
 
-Naturally, in dreams one fabricates a world previously experienced in the wakeful state and accordingly thinks that the things dreamt are real. 
+<!-- Naturally, in dreams one:
+- fabricates a world previously experienced in the wakeful state
+- thinks that the things dreamt are real.  -->
 
 But if the mind is disturbed as a result of some serious accident or disaster, the dream world is shattered. 
 
-This mental disturbance may take place in the wakeful state as well as in sleep. For instance, in a dream you may visualize that you are flying high in the sky in a puśpaka rath (a mythological flying chariot). 
+This mental disturbance may happen both in the wakeful state and in sleep.
 
-Suddenly the horse of the chariot stops flying and the chariot starts falling like lightning. Now if in a wakeful state your vehicle happened to fall in such a dangerous way, you would be frightened out of your wits. In a dream that same fear makes you jump, and as a result of the jumping, the dream chariot no longer remains intact and you wake up.
+<!-- For instance, in a dream you may visualize that you are flying high in the sky in a puśpaka rath (a mythological flying chariot). 
+
+Suddenly the horse of the chariot stops flying and the chariot starts falling like lightning.
+
+Now if in a wakeful state your vehicle happened to fall in such a dangerous way, you would be frightened out of your wits. In a dream that same fear makes you jump, and as a result of the jumping, the dream chariot no longer remains intact and you wake up. -->
+
+
 
 The mind takes less time to dream an action than the body does to perform it. 
 
-It will take you 5 days to go to Delhi, do something and then return. But in a dream it can be completed in a few seconds.
+- It will take you 5 days to go to Delhi.
+- But in a dream it can be completed in a few seconds.
 
-This is only because the mind’s speed is greater than the body's speed. 
+This is because the mind is faster than the body. 
 
-Perhaps you dreamt for 2 minutes. Yet, upon waking up, you feel as if you had been dreaming for a long time.
+Perhaps you dreamt for 2 minutes. 
+- Yet, upon waking up, you feel as if you had been dreaming for a long time.
 
-When a dream-object, an object of imagination, seems to be absolutely real, there is also a marked change in the personality also. 
+When a dream-object or object of imagination seems to be absolutely real, there is also a marked change in the personality. 
 
-Being obsessed with ghosts is a case in point.
+Examples are:
+- being obsessed with ghosts
+  - People who are obsessed with ghosts think that they have become the ghost.
+- being possessed by spirits
+  - The affected persons think of themselves as a deity.
 
-People who are obsessed with ghosts think that they have become the ghost. Being possessed by spirits is yet another case of this type: the affected persons think of themselves as a deity.
+In order to free their minds from the thought of ghosts, one will have to induce a traumatic jolt in their bodies. 
 
-In order to free their minds from the thought of ghosts, one will have to induce a traumatic jolt in their bodies. One will have to create some sort of frightful circumstance that will startle them. 
+One will have to create some sort of frightful circumstance that will:
+- startle them and 
+- break their identification with their mental objects
 
-Various methods may be used for this purpose, after which they will realize their error: that they wrongly identified themselves with their mental objects.
+<!-- Various methods may be used for this purpose, after which they will realize their error: that they wrongly . -->
 
 
 ## Rákśasii Vidyá

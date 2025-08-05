@@ -8,11 +8,11 @@ icon: "PR Sarkar"
 ---
 
 
-In the mechanical sphere, knowing occurs with the perception of special types of reflections and refractions. 
+In the mechanical sphere, knowing occurs through the perception of special types of reflections and refractions. 
 
 But in the psychic sphere, it occurs as a result of the subjectivization of objectivity or objectivities.
 
-For example, a vibration that hits an object or plate, it meets some resistance. 
+For example, a vibration that hits an object or plate meets some resistance. 
 - It might get reflected or refracted, as in the case of an echo
 - A portion of the vibration might pass through the plate. 
 
@@ -20,7 +20,9 @@ In the mechanical stratum, knowledge is thus attained.
 
 But in the psychic stratum, knowledge involves the subjectivization of any external objectivity or objectivities.
 
-We take an external object inside ourselves, be it an elephant, a horse, a vocalized word, a touch, or anything else with which we come in contact in the outer world, and assimilate it in our psychic existential “I” feeling. 
+We take an external object inside ourselves, be it an elephant, a horse, a vocalized word, a touch, or anything else with which we come in contact in the outer world.
+
+We then assimilate it in our psychic existential “I” feeling. 
 
 This is the process of knowing. It is something related to the psychic sphere. 
 
@@ -29,42 +31,57 @@ So, knowledge has 2 aspects:
 1. The aspect of reflections and refractions
 2. The psychic aspect as the process of attaining knowledge in the psychic sphere.
 
+
+
 The word jiṋána (knowledge) is derived from the Sanskrit root verb jiṋá (to know).
 
 Very ancient Sanskrit is also known as the Vedic language. 
 
 This root verb jiṋá was not very popular.
 
-Perhaps you know – especially those of you who study philology, or deal with the science of phonetics and vocabulary – that a language in its infancy starts with a very limited vocabulary. 
+<!-- Perhaps you know – especially those of you who study philology, or deal with the science of phonetics and vocabulary – that  -->
 
-Later, the more the community using this limited word-stock advances in different spheres of practical life, the more enriched the vocabulary becomes. But if that community lacks the will to advance, their vocabulary will not grow.
+A language in its infancy starts with a very limited vocabulary. 
 
-The ancient Vedic language was originally spoken in central Russia by the Aryans. It gradually developed as the Aryans moved from country to country, undergoing innumerable experiences and realizations as they went. 
+Later, the vocabulary is enriched as the community advances uses this limited word-stock in different spheres of practical life.
 
-The natural outcome was the enormous development of their vocabulary. 
+<!-- , the more enriched the  becomes.  -->
 
-In that ancient dialect, the root verb jiṋá was not in common use. Instead, another verb, vid, was used.
+**But if that community lacks the will to advance, their vocabulary will not grow.**
+
+The ancient Vedic language was originally spoken in central Russia by the Aryans. 
+- It gradually developed as the Aryans moved from country to country, undergoing innumerable experiences and realizations as they went. 
+- The natural outcome was the enormous development of their vocabulary. 
+
+In that ancient dialect, the root verb jiṋá was not in common use.
+- Instead, another verb, vid, was used.
 
 <!-- I have just said that as a community passes through various phases in different spheres of life, its collection of words simultaneously increases.  -->
 
-Monkeys have their own language. Some monkeys remain in the jungles and forests.
+Monkeys have their own language.
+- Some monkeys remain in the jungles and forests.
 
 As they hardly ever come in contact with human beings, they have little knowledge and only 30-40 words in their stock. 
+- They do not need to create compound words. 
 
-They do not need to create compound words. 
+They manage well enough by uttering certain significant expressions using sounds such as kiun, kun, kin, kain. 
 
-They manage well enough by uttering certain significant expressions using sounds such as kiun, kun, kin, kain. There is no necessity for them to formulate compound words by joining kiun and kun, for example, otherwise they would have done so, thus creating the compound word kiun-kun to give a new meaning. 
+They do not need to formulate compound words by joining kiun and kun to create the compound word kiun-kun to give a new meaning. 
 
+The monkeys which live close to humans have a language with many words. 
 
-The monkeys which live close to humans have a language with many words. Their proximity with humans forces them to fight battles of wits to escape death, for instance. 
+Their proximity with humans forces them to fight battles of wits to escape death, for instance. 
 
 Certain varieties of monkeys have as many as 700-900 words in their dialect. 
 
-Of course, they do not have a codified dictionary. 
+<!-- Of course, they do not have a codified dictionary.  -->
 
-They acquired as many words as they needed to move in different domains. 
+<!-- They acquired as many words as they needed to move in different domains.  -->
 
-In the case of humans, very undeveloped communities such as the Zulus, the Pygmies and the Maoris have a very limited stock of words. 
+In the case of humans, very undeveloped communities have a very limited stock of words such as:
+- the Zulus
+- the Pygmies
+- the Maoris
 
 On the other hand, there are certain languages which have enormous vocabularies of over 500,000 words, such as the Sanskrit, French, English and German languages. 
 
@@ -139,13 +156,19 @@ We support the Shaeva cult as it strives for the further enrichment and advancem
 
 It encourages the development of intellect and wisdom, and thus motivates people to acquire more and more knowledge.
 
-This is a great boon for humanity, as the highest treasure of human beings, which distinguishes them from the other creatures, is their intellectual superiority. Had there been no intellect in humans to distinguish them from other creatures, there would be hardly any difference between humans and animals. 
+This is a great boon for humanity, as the highest treasure of human beings, which distinguishes them from the other creatures, is their intellectual superiority. 
+
+Had there been no intellect in humans to distinguish them from other creatures, there would be hardly any difference between humans and animals. 
 
 Therefore, this philosophical consciousness, which can also be called “Ananda Marga consciousness”, will lead humanity to greater intellectuality. 
 
 The constant pursuit of intellectuality leads one to its furthest point, the place where intuition begins. Hence in the realm of spiritual practice, it is immensely helpful. 
 
-The path of sádhaná is not devoid of intellect or intuition; rather it is based on intuition. It gives no scope for superstition or blind faith. Instead it facilitates the maximum all-round progress of humanity and the manifestation of the highest human excellence.
+The path of sádhaná is not devoid of intellect or intuition; rather it is based on intuition. 
+
+It gives no scope for superstition or blind faith. 
+
+Instead, it facilitates the maximum all-round progress of humanity and the manifestation of the highest human excellence.
 
 The other cult, the non-Shaeva cult, I call prapatti márga. It had a serious defect that hampers the development of humanity at the very outset. 
 
