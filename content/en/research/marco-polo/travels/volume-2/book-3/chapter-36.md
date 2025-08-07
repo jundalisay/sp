@@ -67,10 +67,19 @@ There451 is no more to say on this subject. So now let us go on and speak of the
 
 ## CHAPTER 40. The City of Hormos
 
-When you leave the City of Calatu, and go for 300 miles between north-west and north, you come to the city of Hormos; a great and noble city on the sea.{1} It has a Melic, which is as much as to say a King, and he is under the Soldan of Kerman.
+When you leave the City of Calatu, and go for 300 miles between north-west and north, you come to the city of Hormos.
 
-There are a good many cities and towns belonging to Hormos, and the people are Saracens. The heat is tremendous, and on that account their houses are built with ventilators to catch the wind. These ventilators are placed on the side from which the wind comes, and they bring the wind down into the house to cool it. But for this the heat would be utterly unbearable.{2}
+It is a great and noble city on the sea.
 
-I shall say no more about these places, because I formerly told you in regular order all about this same city of Hormos, and about Kerman as well. But as we took one way to go, and another to come back, it was proper that we should bring you a second time to this point.
+It has a Melic, which is as much as to say a King, and he is under the Soldan of Kerman.
 
-Now, however, we will quit this part of the world, and tell you about Great Turkey. First, however, there is a point that I have omitted; to wit, that when you leave the City of Calatu and go between west and north-west, a distance of 500 miles, you come to the city of Kis.{3} Of that, however, we shall say no more now, but pass it with this brief mention, and return to the subject of Great Turkey, of which you shall now hear.
+There are a good many cities and towns belonging to Hormos, and the people are Saracens. 
+
+The heat is tremendous. This is why their houses are built with ventilators to catch the wind.
+
+These ventilators are placed on the side from which the wind comes, and they bring the wind down into the house to cool it. But for this the heat would be utterly unbearable.
+
+I have already told you all about this city and Kerman.
+
+When you leave the City of Calatu and go between west and north-west, a distance of 500 miles, you come to the city of Kis.
+

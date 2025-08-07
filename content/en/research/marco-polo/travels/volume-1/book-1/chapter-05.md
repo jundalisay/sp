@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 5"
 title: "The Kingdom of Mosul"
-description: Mao was a Communist Chinese Leader
+description: On the frontier of Armenia towards the south-east is the kingdom of Mausul. It is a very great kingdom, and inhabited different kinds of people
 a: "Marco Polo"
 c: "darkslategray"
-weight: 4
+weight: 6
 # date: 2025-05-10
 ---
 
@@ -55,28 +55,35 @@ It was the greatest accumulation of treasure in one spot that ever was known.
 
 When he beheld that great heap of treasure he was astonished, and, summoning the Calif to his presence, he said to him: 
 
-“Calif, why have you gathered such a huge treasure? What did you mean to do with it? 
+{{< l a="Alau" >}}
+Calif, why have you gathered such a huge treasure? What did you mean to do with it? You knew that:
+- I was your enemy
+- I was coming against you with so great an host to remove you of your wealth.
 
-Knewest thou not that I was thine enemy, and that I was coming against thee with so great an host to cast thee forth of thine heritage? Wherefore didst thou not take of thy gear and employ it in paying knights and soldiers to defend thee and thy city?”
+Why did you not spend your wealth to pay knights and soldiers to defend you and your city?
+{{< /l >}}
 
 
 The Calif did not know what to answer, and said never a word.
 
-So the Prince continued, 
-
-“I see what a love you have for your treasure, I will e’en give it thee to eat!” 
+{{< l a="Alau" >}}
+I see what a love you have for your treasure, I will e’en give it thee to eat!
+{{< /l >}}
 
 So he shut the Calif up in the Treasure Tower, and bade that neither meat nor drink should be given him, saying, 
 
-“Now, Calif, eat of thy treasure as much as thou wilt, since thou art so fond of it; for never shalt thou have aught else to eat!”
+{{< l a="Alau" >}}
+Now, Calif, eat of thy treasure as much as thou wilt, since thou art so fond of it; for never shalt thou have aught else to eat!
+{{< /l >}}
+
 
 So the Calif lingered in the tower 4 days, and then died like a dog.
 
-Truly his treasure would have been of more service to him had he bestowed it upon men who would have defended his kingdom and his people, rather than let himself be taken and deposed and put to death as he was.{7} 
+Truly his treasure would have been of more service to him had he bestowed it upon men who would have defended his kingdom and his people, rather than let himself be taken and deposed and put to death as he was.
 
-Howbeit, since that time, there has been never another Calif, either at Baudas or anywhere else.{8}
+Nevertheless, since that time, there has been never another Calif, either at Baudas or anywhere else.
 
-Now I will tell you of a great miracle that befell at Baudas, wrought by God on behalf of the Christians.
+<!-- Now I will tell you of a great miracle that befell at Baudas, wrought by God on behalf of the Christians. -->
 
 
 
@@ -88,44 +95,101 @@ A Calif at Baudas, along with most of the Saracens, hated Christians so much.
 
  <!-- , and was taken up day and night with the thought how he might either bring those that were in his kingdom over to his own faith, or might procure them all to be slain. And he used daily to take counsel about this with the devotees and priests of his faith,{2} for they all 69bore the Christians like malice. And, indeed, it is a fact, that the whole body of Saracens throughout the world are always most malignantly disposed towards the whole body of Christians. -->
 
-Now it happened that the Calif, with those shrewd priests of his, got hold of that passage in our Gospel which says, that if a Christian had faith as a grain of mustard seed, and should bid a mountain be removed, it would be removed. And such indeed is the truth.
+He and his shrewd priests of his saw the quote in our Gospel which says:
 
-But when they had got hold of this text they were delighted, for it seemed to them the very thing whereby either to force all the Christians to change their faith, or to bring destruction upon them all.
+{{< q a="Bible" >}}
+if a Christian had faith as a grain of mustard seed, and should bid a mountain be removed, it would be removed.
+{{< /q >}}
 
-The Calif therefore called together all the Christians in his territories, who were extremely numerous. And when they had come before him, he showed them the Gospel, and made them read the text which I have mentioned. And when they had read it he asked them if that was the truth? The Christians answered that it assuredly was so.
+They were delighted to read this. For it seemed to them that this could either force all the Christians to change their faith, or to bring destruction on them all.
 
-“Well,” said the Calif, “since you say that it is the truth, I will give you a choice. Among such a number of you there must needs surely be this small amount of faith; so you must either move that mountain there,”—and he pointed to a mountain in the neighbourhood—“or you shall die an ill death; unless you choose to eschew death by all becoming Saracens and adopting our Holy Law. To this end I give you a respite of ten days; if the thing be not done by that time, ye shall die or become Saracens.”
+The Calif therefore called together all the Christians in his territories, who were extremely numerous.
 
-When he had said this he dismissed them, to consider what was to be done in this strait wherein they were.
+He showed them the Gospel, and made them read the text I have mentioned.
+
+He asked them if that was the truth. The Christians replied yes.
+
+
+{{< l a="Caliph" >}}
+Well, since you say that it is the truth, I will give you a choice. Among such a number of you there must needs surely be this small amount of faith; so you must either move that mountain there
+{{< /l >}}
+
+He pointed to a mountain in the neighbourhood. 
+
+{{< l a="Caliph" >}}
+Or you shall die an ill death unless you choose to eschew death by all becoming Saracens and adopting our Holy Law. To this end I give you a respite of ten days. If the thing be not done by that time, ye shall die or become Saracens.
+{{< /l >}}
+
+
+When he had said this he dismissed them, to consider what was to be done in this strait that they were.
 
 
 
-## CHAPTER 8. How the Christians were in great dismay because of what the Calif had said.
+## CHAPTER 8. The Christians were in great dismay because of what the Calif had said.
 
-The Christians on hearing what the Calif had said were in great dismay, but they lifted all their hopes to God, their Creator, that He would help them in this their strait. All the wisest of the Christians took counsel together, and among them were a number of bishops and priests, but they had no resource except to turn to Him from whom all good things do come, beseeching Him to protect them from the cruel hands of the Calif.
+The Christians on hearing what the Calif had said were in great dismay.
 
-So they were all gathered together in prayer, both men and women, for eight days and eight nights. And whilst they were thus engaged in prayer it was revealed in a vision by a Holy Angel of Heaven to a certain Bishop who was a very good Christian, that he should desire a certain Christian Cobler,{1} who had but one eye, to pray to God; and that God in His goodness would grant such prayer because of the Cobler’s holy life.
+But they lifted all their hopes to God, their Creator, that He would help them in this their strait. 
 
-Now I must tell you what manner of man this Cobler was. He was one who led a life of great uprightness and chastity, and who fasted and kept from all sin, and went daily to church to hear Mass, and gave daily a portion of his gains to God. And the way how he came to have but one eye was this. It happened one day that 71a certain woman came to him to have a pair of shoes made, and she showed him her foot that he might take her measure. Now she had a very beautiful foot and leg; and the Cobler in taking her measure was conscious of sinful thoughts. And he had often heard it said in the Holy Evangel, that if thine eye offend thee, pluck it out and cast it from thee, rather than sin. So, as soon as the woman had departed, he took the awl that he used in stitching, and drove it into his eye and destroyed it. And this is the way he came to lose his eye. So you can judge what a holy, just, and righteous man he was.
+All the wisest of the Christians took counsel together, and among them were a number of bishops and priests, but they had no resource except to turn to Him from whom all good things do come, beseeching Him to protect them from the cruel hands of the Calif.
 
+So they were all gathered together in prayer, both men and women, for 8 days and 8 nights.
+
+While they were in prayer, a certain Bishop had a vision by a Holy Angel that:
+- he should look for a certain Christian Cobler who had but one eye, to pray to God
+- God in His goodness would grant such prayer because of the Cobler’s holy life
+
+This Cobler led a life of great uprightness and chastity. He fasted and kept from all sin. He went daily to church to hear Mass, and gave daily a portion of his gains to God.
+
+One day, a woman came to him to have a pair of shoes made. She showed him her foot to measure. 
+- She had a very beautiful foot and leg.
+
+The Cobler in taking her measure was conscious of sinful thoughts. 
+- He had often heard it said in the Holy Evangel, that if thine eye offend thee, pluck it out and cast it from thee, rather than sin. 
+
+So, as soon as the woman had departed, he took the awl that he used in stitching, and drove it into his eye and destroyed it. 
+
+This is the way he came to lose his eye. So you can judge what a holy, just, and righteous man he was.
 
 
 ## CHAPTER 9. How the One-eyed Cobler was desired to pray for the Christians.
 
-Now when this vision had visited the Bishop several times, he related the whole matter to the Christians, and they agreed with one consent to call the Cobler before them. And when he had come they told him it was their wish that he should pray, and that God had promised to accomplish the matter by his means. On hearing their request he made many excuses, declaring that he was not at all so good a man as they represented. But they persisted in their request with so much sweetness, that at last he said he would not tarry, but do what they desired.
+This vision had visited the Bishop several times.
 
+He shared it to the Christians. They agreed to call the Cobler before them.
+
+When he had come they told him it was their wish that he should pray, and that God had promised to accomplish the matter by his means. 
+
+On hearing their request he made many excuses, declaring that he was not at all so good a man as they represented. But they persisted in their request with so much sweetness, that at last he said he would not tarry, but do what they desired.
 
 
 ## CHAPTER 10. How the Prayer of the One-eyed Cobler caused the Mountain to move.
 
-And when the appointed day was come, all the Christians got up early, men and women, small and great, more than 100,000 persons, and went to church, and heard the Holy Mass. And after Mass had been sung, they all went forth together in a great procession to the plain in front of the mountain, carrying the precious cross before them, loudly singing and greatly weeping as they went. And when they arrived at the spot, there they found the Calif with all his Saracen host armed to slay them if they would not change their faith; for the Saracens believed not in the least that God would grant such favour to the Christians. These latter stood indeed in great fear and doubt, but nevertheless they rested their hope on their God Jesus Christ.
+When the appointed day was come, all the Christians got up early, men and women, small and great, more than 100,000 persons, and went to church, and heard the Holy Mass.
 
-So the Cobler received the Bishop’s benison, and then threw himself on his knees before the Holy Cross, and stretched out his hands towards Heaven, and made this prayer: “Blessed Lord God Almighty, I pray Thee by Thy goodness that Thou wilt grant this grace unto Thy people, insomuch that they perish not, nor Thy faith be cast down, nor abused nor flouted. Not that I am in the least worthy to prefer such request unto Thee; but for Thy great power and mercy I beseech Thee to hear this prayer from me Thy servant full of sin.”
+After Mass had been sung, they all went forth together in a great procession to the plain in front of the mountain, carrying the precious cross before them, loudly singing and greatly weeping as they went. 
 
-And when he had ended this his prayer to God the Sovereign Father and Giver of all grace, and whilst the Calif and all the Saracens, and other people there, were looking on, the mountain rose out of its place and moved 73to the spot which the Calif had pointed out! And when the Calif and all his Saracens beheld, they stood amazed at the wonderful miracle that God had wrought for the Christians, insomuch that a great number of the Saracens became Christians. And even the Calif caused himself to be baptised in the name of the Father and of the Son and of the Holy Ghost, Amen, and became a Christian, but in secret. Howbeit, when he died they found a little cross hung round his neck; and therefore the Saracens would not bury him with the other Califs, but put him in a place apart. The Christians exulted greatly at this most holy miracle, and returned to their homes full of joy, giving thanks to their Creator for that which He had done.{1}
+When they arrived at the spot, there they found the Calif with all his Saracen host armed to slay them if they would not change their faith; for the Saracens believed not in the least that God would grant such favour to the Christians. 
 
-And now you have heard in what wise took place this great miracle. And marvel not that the Saracens hate the Christians; for the accursed law that Mahommet gave them commands them to do all the mischief in their power to all other descriptions of people, and especially to Christians; to strip such of their goods, and do them all manner of evil, because they belong not to their law. See then what an evil law and what naughty commandments they have! But in such fashion the Saracens act, throughout the world.
+These latter stood indeed in great fear and doubt, but nevertheless they rested their hope on their God Jesus Christ.
 
-Now I have told you something of Baudas. I could easily indeed have told you first of the affairs and the customs of the people there. But it would be too long a business, looking to the great and strange things that I have got to tell you, as you will find detailed in this Book.
+So the Cobler received the Bishop’s benison, and then threw himself on his knees before the Holy Cross, and stretched out his hands towards Heaven, and made this prayer: 
+
+“Blessed Lord God Almighty, I pray Thee by Thy goodness that Thou wilt grant this grace unto Thy people, insomuch that they perish not, nor Thy faith be cast down, nor abused nor flouted. Not that I am in the least worthy to prefer such request unto Thee; but for Thy great power and mercy I beseech Thee to hear this prayer from me Thy servant full of sin.”
 
 
+When he had ended this, and whilst the Calif, the Saracens, and other people there, were looking on, the mountain rose out of its place and moved to the spot which the Calif had pointed out! 
+
+When the Calif and all his Saracens beheld, they stood amazed at the wonderful miracle that God had wrought for the Christians, insomuch that a great number of the Saracens became Christians. 
+
+Even the Calif caused himself to be baptised and became a Christian, but in secret. 
+
+When he died they found a little cross hung round his neck. Therefore, the Saracens would not bury him with the other Califs, but put him in a place apart. 
+
+The Christians exulted greatly at this most holy miracle, and returned to their homes full of joy, giving thanks to their Creator for that which He had done.
+
+And now you have heard in what wise took place this great miracle. And marvel not that the Saracens hate the Christians; for the accursed law that Mahommet gave them commands them to do all the mischief in their power to all other descriptions of people, and especially to Christians; to strip such of their goods, and do them all manner of evil, because they belong not to their law. 
+
+See then what an evil law and what naughty commandments they have! But in such fashion the Saracens act, throughout the world.
+
+<!-- Now I have told you something of Baudas. I could easily indeed have told you first of the affairs and the customs of the people there. But it would be too long a business, looking to the great and strange things that I have got to tell you, as you will find detailed in this Book. -->

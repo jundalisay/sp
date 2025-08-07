@@ -36,13 +36,17 @@ Below are the proposed technologies to be developed, arrnaged by Element or Laye
 
 This can be achieved by creating a new element that is readily unstable upon the addition of a single proton or neutron.
 
-This requires a master of the aetherspace of an atom. 
+This requires a mastery of the aetherspace of an atom. 
 
 This is inspired by the anti-matter reactor of the Bob Lazar UFO which was said to use Element 115. 
 
 {{< img src="/graphics/physics/drone.jpg" alt="UFO Design" >}}
 
-In the beginning, we hypothesized that such an Element could be created in a nuclear fusion reactor. However, upon learning of the properties of the aetherspace, we realized it needed to be made with far more sophisticated control of the lower aether, instead of through brute force with energy.  
+In the beginning, we hypothesized that such an Element could be created in a nuclear fusion reactor through brute force, similar to how centrifuges distill Uranium 238 into 235. 
+
+However, upon learning of the properties of the aetherspace, we realized it needed far more sophisticated control of the lower aether.
+
+In other words, this is more difficult than nuclear fusion.
 
 
 ### Precision Fabrication / Metallurgy
@@ -67,17 +71,22 @@ Currently, prototype fusion reactors use magnetic confinement which uses more el
 
 There have been experiments on using sound to extinguish fires. Our idea is that they can be used to extinguish nuclear chain reactions in reactors that have had meltdown. 
 
-
+The first step to this is to prove that a nuclear explosion, or even a nuclear reactor produces a specific sound.
 
 
 ## Fire Element / Radiant Layer (Electromagnetic)
 
 ### Crystal Computers
 
-While modern science seems to be going for quantum computers, our idea is to go for crystal computers based on Descartes' Dioptrique. 
+While modern science seems to be going for quantum computers, our idea is to go for crystal computers based on Descartes' *Dioptrique*. 
 
-Crystals allow light which travel faster than electrons. This can solve the problem with Moore's Law which is estimated to end by 2036.  
+Light travels faster than electrons. Crystals allow light and so this can solve the problem with Moore's Law which is estimated to end by 2036.
 
+Light-based computers use less energy and produce less heat than electron-based computers. 
+
+The mechanism to control light is the aetherspce just as it is used to control gravity. 
+
+Physics is ignorant on the aetherspace since Einstein killed the aether and so many technologies are out of reach of Physics.
 
 {{< img src="/graphics/physics/solareye.jpg" alt="Crystal Computers" >}}
 
@@ -87,9 +96,11 @@ Crystals allow light which travel faster than electrons. This can solve the prob
 
 ### Spacetime Power
 
-This will bring back Nikola Tesla's idea to harness energy from space. We add to this by clearing up the mechanism as the invisible spacetime particles which zip through reality. 
+This will bring back Nikola Tesla's idea to harness energy from space. 
 
-{{< q a="Tesla" >}}
+We add to this by clearing up the mechanism as the invisible spacetime particles which zip through reality. 
+
+{{< q a="Nikola Tesla" >}}
 Throughout space there is kinetic energy.. Crookes came the nearest to harnessing the kinetic energy in space. 
 {{< /q >}}
 
@@ -144,3 +155,4 @@ In theory, this will produce machine learning models that will allow near-sentie
 
 
 Future chapters will explain the methodology, project plan, or proposed sprints for each one.  
+

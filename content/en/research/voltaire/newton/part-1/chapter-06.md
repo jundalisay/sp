@@ -1,11 +1,37 @@
-CHAPTER VI.
-On the soul, and the manner in which it is united to the body and receives its ideas. — Four opinions on the formation of ideas: those of the ancient materialists, of Malebranche, of Leibniz; the opinion of Leibniz contested.
+---
+title: "The soul and how it is united to the body and receives its ideas."
+heading: Chapter 6
+description: ""
+c: "firebrick"
+# a: "Voltaire"
+weight: 9
+---
+ 
 
-Newton was persuaded, like almost all good philosophers, that the soul is an incomprehensible substance; and several people who were long acquainted with Locke have assured me that Newton confessed to Locke that we do not have enough knowledge of nature to dare assert that it is impossible for God to add the gift of thought to any extended being whatsoever. The great difficulty is rather to know how any being (whatever it may be) can think, than to know how matter can become thinking.
+<!-- Four opinions on the formation of ideas: those of the ancient materialists, of Malebranche, of Leibniz; the opinion of Leibniz contested. -->
 
-Thought, it is true, seems to have nothing in common with the attributes we know in the extended being called “body”; but do we know all the properties of bodies? It seems a bold thing indeed to say to God: You were able to give movement, gravitation, vegetation, and life to a being, but you cannot give it thought!
+Newton was persuaded that the soul is an incomprehensible substance.
 
-Those who say that if matter could receive the gift of thought, then the soul would not be immortal—do they reason consistently? Is it more difficult for God to preserve than to create? Furthermore, if an indivisible atom endures eternally, why would the gift of thinking in it not endure as long as the atom itself? If I am not mistaken, those who refuse to God the power of joining ideas to matter are obliged to say that what we call spirit is a being whose very essence is to think, to the exclusion of all extended beings.
+Several people who knew Locke have assured me that Newton confessed to Locke that we do not have enough knowledge of nature to assert that it is impossible for God to add the gift of thought to any extended being whatsoever. 
+
+The great difficulty is rather to know how any being can think, than to know how matter can become thinking.
+
+Thought has nothing in common with the attributes in the extended being called “body”.
+
+But do we know all the properties of bodies? 
+
+It seems a bold to say to God: You were able to give movement, gravitation, vegetation, and life to a being, but you cannot give it thought!*
+
+{{< n n="In Superphysics, all things have thoughts. What is missing is the expressive ability. The thoughts of a rock can be known in ints gluon field which we call the aetherspace" >}}
+
+
+Some say that if matter could have thought, then the soul would not be immortal.
+
+This is not consistent reasoning.
+
+Is it more difficult for God to preserve than to create?
+
+If an indivisible atom endures eternally, why would the gift of thinking in it not endure as long as the atom itself? If I am not mistaken, those who refuse to God the power of joining ideas to matter are obliged to say that what we call spirit is a being whose very essence is to think, to the exclusion of all extended beings.
 
 But if it is of the nature of spirit to think essentially, then it thinks necessarily, and it always thinks, just as every triangle necessarily and always has three angles, independently of God.
 

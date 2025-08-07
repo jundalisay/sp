@@ -99,25 +99,27 @@ So these two brothers, the sons of Totamangu, got together a goodly company and 
 
 ## CHAPTER 31. How Toctai marched against Nogai.
 
-⚜ (The usual description of their advance to meet one another. Toctai is joined by the two sons of Totamangu with a goodly company. They encamp within ten miles of each other in the Plain of Nerghi.)
+(The usual description of their advance to meet one another. Toctai is joined by the two sons of Totamangu with a goodly company. They encamp within ten miles of each other in the Plain of Nerghi.)
 
 
 ## CHAPTER 32: How Toctai and Nogai address their People, and the next Day join Battle.
 
-⚜ (The whole of this is in the usual formula without any circumstances worth transcribing. The forces of Nogai though inferior in numbers are the better men-at-arms. King Toctai shows great valour.)
+(The whole of this is in the usual formula without any circumstances worth transcribing. The forces of Nogai though inferior in numbers are the better men-at-arms. King Toctai shows great valour.)
 
 
-### CHAPTER 33. The valiant Feats and Victory of King Nogai.
+## CHAPTER 33. The valiant Feats and Victory of King Nogai.
 
-⚜ (The deeds of Nogai surpass all; the enemy scatter like a flock, and are pursued, losing 60,000 men, but Toctai escapes, and so do the two sons of Totamangu.)
+(The deeds of Nogai surpass all; the enemy scatter like a flock, and are pursued, losing 60,000 men, but Toctai escapes, and so do the two sons of Totamangu.)
 
 
 ## CHAPTER 34. Conclusion.
 
-And now ye have heard all that we can tell you about the Tartars and the Saracens and their customs, and likewise about the other countries of the world as far as our researches and information extend. Only we have said nothing whatever about the Greater Sea and the provinces that lie round it, although we know it thoroughly. But it seems to me a needless and useless task to speak about places which are visited by people every day. For there are so many who sail all about that sea constantly, Venetians, and Genoese, and Pisans, and many others, that everybody knows all about it, and that is the reason that I pass it over and say nothing of it.
+And now ye have heard all that we can tell you about the Tartars and the Saracens and their customs, and likewise about the other countries of the world as far as our researches and information extend. 
+
+Only we have said nothing whatever about the Greater Sea and the provinces that lie round it, although we know it thoroughly. But it seems to me a needless and useless task to speak about places which are visited by people every day. For there are so many who sail all about that sea constantly, Venetians, and Genoese, and Pisans, and many others, that everybody knows all about it, and that is the reason that I pass it over and say nothing of it.
 
 Of the manner in which we took our departure from the Court of the Great Kaan you have heard at the beginning of the Book, in that chapter where we told you of all the vexation and trouble that Messer Maffeo and Messer Nicolo and Messer Marco had about getting the Great Kaan’s leave to go; and in the same chapter is related the lucky chance that led to our departure. 
 
-You may be sure that but for that lucky chance, we should never have got away in spite of all our trouble, and never have got back to our country again. But I believe it was God’s pleasure that we should get back in order that people might learn about the things that the world contains. For according to what has been said in the introduction at the beginning of the Book, there never501 was a man, be he Christian or Saracen or Tartar or Heathen, who ever travelled over so much of the world as did that noble and illustrious citizen of the City of Venice, Messer Marco the son of Messer Nicolo Polo.
+You may be sure that but for that lucky chance, we should never have got away in spite of all our trouble, and never have got back to our country again. 
 
-Thanks be to God! Amen! Amen!
+But I believe it was God’s pleasure that we should get back in order that people might learn about the things that the world contains. For according to what has been said in the introduction at the beginning of the Book, there never501 was a man, be he Christian or Saracen or Tartar or Heathen, who ever travelled over so much of the world as did that noble and illustrious citizen of the City of Venice, Messer Marco the son of Messer Nicolo Polo.

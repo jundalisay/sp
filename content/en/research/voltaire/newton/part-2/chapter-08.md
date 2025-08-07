@@ -78,14 +78,16 @@ These two stars, always equally distant, are seen under angle **FCD** toward the
 
 Thus, according to this rule and to the observations that confirm it, here are the proportions of the **apparent sizes** and **distances** of the sun and the moon:
 
-* At the **horizon**, these stars are seen as size **100**;
-* At **15 degrees** above, size **68**;
-* At **30 degrees**, size **50**;
-* At **90 degrees**, size **30**.
+- At the **horizon**, these stars are seen as size **100**
+- At **15 degrees** above, size **68**;
+- At **30 degrees**, size **50**;
+- At **90 degrees**, size **30**.
 
 Similarly, two stars that always maintain between them their true distance appear at the horizon as separated by **100**, and at the meridian as **30** — which, as you see, is always the proportion of about **9 to 3**.
 
-This theory is confirmed by another observation. The **moon** appears considerably larger at certain times of the year than at others; the **sun** also appears larger in **winter** than in summer; and the differences in this apparent size, being more noticeable toward the horizon than at the meridian, are more easily perceived.
+This theory is confirmed by another observation. The **moon** appears considerably larger at certain times of the year than at others.
+
+The **sun** also appears larger in **winter** than in summer; and the differences in this apparent size, being more noticeable toward the horizon than at the meridian, are more easily perceived.
 
 The reason for this increase in size is that when the diameters of the moon and sun **appear larger**, these stars are indeed **closer** to us: the sun is closer to the earth in **winter** than in summer by about **1.2 million leagues**; thus in winter it appears larger — but the width of its disk is somewhat diminished by the **refractions** of thick winter air.
 

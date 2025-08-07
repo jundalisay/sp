@@ -103,18 +103,43 @@ The ray with the least "rigidity" or matter bends the most. The strongest ray (f
 
 Do you see these seven rays breaking apart above one another?
 
-Each paints on the paper the color it inherently contains. The first, bending least, is red; the second, orange; the third, yellow; the fourth, green; the fifth, blue; the sixth, indigo; and finally, the one that bends most, the last to rise above the others, is violet.
+Each paints on the paper the color it inherently contains.
 
-So a single beam of light, previously perceived as white, is actually composed of seven beams, each with its own color. Their combination is white.
+1. Red bends the least.
+2. then orange
+3. the third, yellow
+4. the fourth, green
+5. the fifth, blue
+6. the sixth, indigo
+7. violet bends most, the last to rise above the others
 
-If you still doubt it, take a convex lens like those in glasses, which bring rays to a focus. Expose it to the incoming beam: you’ll only see a white circle at the focus.
+So a single beam of white light is actually composed of 7 beams, each with its own color.
+- Their combination is white.
+
+Take a convex lens like those in glasses, which bring rays to a focus. 
+
+Expose it to the incoming beam: you’ll only see a white circle at the focus.
 
 Now use the same lens to focus the seven rays from the prism: it recombines them into one beam (figure 32). The color is white. Therefore, all rays together produce whiteness.
 
 Black, by contrast, is a body that reflects no rays.
 
-If you isolate a ray from the prism and expose it to a mirror, a burning glass, or another prism, it never changes color, never separates into others. To carry such a color is its essence—unalterable, like gold in a crucible.
+If you isolate a ray from the prism and expose it to a mirror, a burning glass, or another prism, it never changes color, never separates into others. 
 
-This property of light—this unevenness in how its rays refract—is called refrangibility by Newton. At first, people denied the facts, especially since Mariotte had failed to replicate Newton’s experiments in France. It was easier to say Newton had lied than to believe Mariotte had been unlucky with his prisms. Even once the experiments were properly done and the truth was visible, prejudice persisted. As late as 1730, some journals and books denied these well-known experiments, even as they were being performed across Europe. Similarly, after the discovery of blood circulation, some still argued against it and mocked those who supported it, calling them “circulators.”
+To carry such a color is its essence—unalterable, like gold in a crucible.
 
-When forced to accept the facts, critics still resisted the terminology. They objected to "refrangibility" just as they had to "attraction" and "gravitation." But what does a term matter, as long as it points to a truth? When Columbus discovered Hispaniola, he could name it what he liked. Shouldn’t inventors name what they discover?
+Newton called this property of light—this unevenness in how its rays refract as refrangibility. 
+
+People denied when Mariotte had failed to replicate Newton’s experiments in France. 
+
+It was easier to say Newton had lied than to say Mariotte was unlucky with his prisms.
+
+Even after the experiments succeeded, prejudice persisted. 
+
+As late as 1730, some journals and books denied these well-known experiments performed across Europe. 
+
+Similarly, after the discovery of blood circulation, some still argued against it and mocked those who supported it, calling them “circulators.”
+
+When forced to accept the facts, critics still resisted the terminology. 
+
+They objected to "refrangibility" just as they had to "attraction" and "gravitation." But what does a term matter, as long as it points to a truth? When Columbus discovered Hispaniola, he could name it what he liked. Shouldn’t inventors name what they discover?

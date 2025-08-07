@@ -1,33 +1,14 @@
 ---
-heading: "Chapter 45"
-title: "The Kingdom of Mosul"
-description: Mao was a Communist Chinese Leader
+heading: "Chapter 47-"
+title: "Genghis Khan"
+description: How he became the First Kaan of the Tartars
 a: "Marco Polo"
 c: "darkslategray"
-weight: 4
-# date: 2025-05-05
+weight: 28
 ---
 
 
-## CHAPTER XLV. The City of Etzina.
-
-When you leave the city of Campichu you ride for twelve days, and then reach a city called Etzina, which is towards the north on the verge of the Sandy Desert; it belongs to the Province of Tangut.{1} The people are Idolaters, and possess plenty of camels and cattle, and the country produces a number of good falcons, both Sakers and Lanners. The inhabitants live by their cultivation and their cattle, for they have no trade. 
-
-At this city you must needs lay in victuals for forty days, because when you quit Etzina, you enter on a desert which extends forty days’ journey to the north, and on which you meet with no habitation nor baiting-place.{2} In the summer-time, indeed, you will fall in with people, but in the winter the cold is too great. You also meet with wild beasts (for there are some small pine-woods here and there), and with numbers of wild asses.
-
-When you have travelled these forty days across the Desert you come to a certain province lying to the north. Its name you shall hear presently.
-
-
-## CHAPTER XLVI. The City of Caracoron.
-
-Caracoron is a city of some three miles in compass. [It is surrounded by a strong earthen rampart, for stone is scarce there. And beside it there is a great citadel wherein is a fine palace in which the Governor resides.] ’Tis the first city that the Tartars possessed after they issued from their own country. And now I will tell you all about how they first acquired dominion and spread over the world.{1}
-
-Originally the Tartars{2} dwelt in the north on the borders of Chorcha.{3} Their country was one of great plains; and there were no towns or villages in it, but excellent pasture-lands, with great rivers and many sheets of water; in fact it was a very fine and extensive region. But there was no sovereign in the land. They did, however, pay tax and tribute to a great prince who was called in their tongue Unc Can, the same that we call Prester John, him in fact about whose great dominion all the world talks.{4} The tribute he had of them was one beast out of every ten, and also a tithe of all their other gear.
-
-Now it came to pass that the Tartars multiplied exceedingly. And when Prester John saw how great a people they had become, he began to fear that he should have trouble from them. So he made a scheme to distribute them over sundry countries, and sent one of his Barons to carry this out. When the Tartars became aware of this they took it much amiss, and with one consent they left their country and went off across a desert to a distant region towards the north, where Prester John could not get at them to annoy 227them. Thus they revolted from his authority and paid him tribute no longer. And so things continued for a time.
-
-
-## CHAPTER XLVII. Genghis -- How he became the First Kaan of the Tartars.
+## CHAPTER 47: Genghis -- How he became the First Kaan of the Tartars.
 
 In 1187 the Tartars made them a King whose name was Chinghis Kaan.{1} 
 
@@ -86,13 +67,10 @@ And lo! whilst all were beholding, the cane that bore the name of Chinghis Kaan,
 
 
 
-
-CHAPTER 50: The Battle between Chinghis Kaan and Prester John.
+## CHAPTER 50: The Battle between Chinghis Kaan and Prester John.
 
 And after both sides had rested well those two days, they armed for the fight and engaged in desperate combat; and it was the greatest battle that ever was seen. The numbers that were slain on both sides were very great, but in the end Chinghis Kaan obtained the victory. And in the battle Prester John was slain. And from that time forward, day by day, his kingdom passed into the hands of Chinghis Kaan till the whole was conquered.
 
 
 Chinghis Kaan reigned six years after this battle, engaged continually in conquest, and taking many a province and city and stronghold. But at the end of those six years he went against a certain castle that was called Caaju, and there he was shot with an arrow in the knee, so that he died of his 245wound. A great pity it was, for he was a valiant man and a wise.{1}
-
-I will now tell you who reigned after Chinghis, and then about the manners and customs of the Tartars.
 

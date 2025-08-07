@@ -1,11 +1,10 @@
 ---
 heading: "Chapter 12"
 title: "The City of Cobinan"
-description: Mao was a Communist Chinese Leader
+description: Cobinan is a large town. Its people worship Mahommet.
 a: "Marco Polo"
 c: "darkslategray"
-weight: 4
-# date: 2022-03-10
+weight: 10
 ---
 
 
@@ -14,15 +13,20 @@ Cobinan is a large town. Its people worship Mahommet.
 
 There is much Iron and Steel and Ondanique, and they make steel mirrors of great size and beauty. They also prepare both Tutia (a thing very good for the eyes) and Spodium; and I will tell you the process.
 
-They have a vein of a certain earth which has the required quality, and this they put into a great flaming furnace, whilst over the furnace there is an iron grating. The smoke and moisture, expelled from the earth of which I speak, adhere to the iron grating, and thus form Tutia, whilst the slag that is left after burning is the Spodium.{2}
+They have a vein of a certain earth which has the required quality, and this they put into a great flaming furnace, whilst over the furnace there is an iron grating. 
 
+The smoke and moisture, expelled from the earth of which I speak, adhere to the iron grating, and thus form Tutia, whilst the slag that is left after burning is the Spodium.
 
 
 ## CHAPTER 22. A certain Desert that continues for eight days’ Journey.
 
-When you depart from this City of Cobinan, you find yourself again in a Desert of surpassing aridity, which lasts for some eight days; here are neither fruits nor trees to be seen, and what water there is is bitter and bad, so that you have to carry both food and water. The cattle must needs drink the bad water, will they nill they, because of their great thirst. At the end of those eight days you arrive at a Province which is called Tonocain. 
+When you depart from this City of Cobinan, you find yourself again in a Desert of surpassing aridity, which lasts for some eight days; here are neither fruits nor trees to be seen, and what water there is is bitter and bad, so that you have to carry both food and water. The cattle must needs drink the bad water, will they nill they, because of their great thirst. 
 
-It has a good many towns and villages, and forms the extremity of Persia towards the North.{1} It also contains an immense plain on which is found the Arbre Sol, which we Christians call the Arbre Sec; and I will tell you what it is like. It is a tall and thick tree, having the bark on one side green and the other white; and it 128produces a rough husk like that of a chestnut, but without anything in it. The wood is yellow like box, and very strong, and there are no other trees near it nor within a hundred miles of it, except on one side, where you find trees within about ten miles’ distance. And there, the people of the country tell you, was fought the battle between Alexander and King Darius.{2}
+At the end of those eight days you arrive at a Province which is called Tonocain. 
+
+It has a good many towns and villages, and forms the extremity of Persia towards the North.{1} It also contains an immense plain on which is found the Arbre Sol, which we Christians call the Arbre Sec; and I will tell you what it is like. It is a tall and thick tree, having the bark on one side green and the other white; and it 128produces a rough husk like that of a chestnut, but without anything in it.
+
+The wood is yellow like box, and very strong, and there are no other trees near it nor within a hundred miles of it, except on one side, where you find trees within about ten miles’ distance. And there, the people of the country tell you, was fought the battle between Alexander and King Darius.{2}
 
 The towns and villages have great abundance of everything good, for the climate is extremely temperate, being neither very hot nor very cold. The natives all worship Mahommet, and are a very fine-looking people, especially the women, who are surpassingly beautiful.
 

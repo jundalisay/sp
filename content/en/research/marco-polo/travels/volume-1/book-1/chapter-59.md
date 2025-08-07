@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 59"
-title: "The Noble City of Tauris"
-description: Mao was a Communist Chinese Leader
+title: "The Province of Tenduc"
+description: Tenduc is a province which lies towards the east, and contains numerous towns and villages; among which is the chief city, also called Tenduc
 a: "Marco Polo"
 c: "darkslategray"
-weight: 4
+weight: 38
 # date: 2022-03-10
 ---
 
@@ -24,7 +24,11 @@ You must know that it was in this same capital city 285of Tenduc that Prester Jo
 
 Here also is what we call the country of Gog and Magog; they, however, call it Ung and Mungul, after the names of two races of people that existed in that Province before the migration of the Tartars. Ung was the title of the people of the country, and Mungul a name sometimes applied to the Tartars.{5}
 
-And when you have ridden seven days eastward through this province you get near the provinces of Cathay. You find throughout those seven days’ journey plenty of towns and villages, the inhabitants of which are Mahommetans, but with a mixture also of Idolaters and Nestorian Christians. They get their living by trade and manufactures; weaving those fine cloths of gold which are called Nasich and Naques, besides silk stuffs of many other kinds. For just as we have cloths of wool in our country, manufactured in a great variety of kinds, so in those regions they have stuffs of silk and gold in like variety.{6}
+And when you have ridden seven days eastward through this province you get near the provinces of Cathay. You find throughout those seven days’ journey plenty of towns and villages, the inhabitants of which are Mahommetans, but with a mixture also of Idolaters and Nestorian Christians.
+
+They get their living by trade and manufactures; weaving those fine cloths of gold which are called Nasich and Naques, besides silk stuffs of many other kinds.
+
+For just as we have cloths of wool in our country, manufactured in a great variety of kinds, so in those regions they have stuffs of silk and gold in like variety.{6}
 
 All this region is subject to the Great Kaan. There is a city you come to called Sindachu, where they carry on a great many crafts such as provide for the equipment of the Emperor’s troops. In a mountain of the province there is a very good silver mine, from which much silver is got: the place is called Ydifu. The country is well stocked with game, both beast and bird.{7}
 
@@ -32,14 +36,27 @@ All this region is subject to the Great Kaan. There is a city you come to called
 <!-- Mr. Ney Elias favours me with a curious but tantalising communication on this subject: “An old man called on me at Kwei-hwa Ch’eng (Tenduc), who said he was neither Chinaman, Mongol, nor Mahomedan, and lived on ground a short distance to the north of the city, especially allotted to his ancestors by the Emperor, and where there now exist several families of the same origin. He then mentioned the connection of his family with that of the Emperor, but in what way I am not clear, and said that he ought to be, or had been, a prince. Other people coming in, he was interrupted and went away.... He was not with me more than ten minutes, and the incident is a specimen of the difficulty in obtaining interesting information, except by mere chance.... The idea that struck me was, that he was perhaps a descendant of King George of Tenduc; for I had your M. P. before me, and had been inquiring as much as I dared about subjects it suggested.... At Kwei-hwa Ch’eng I was very closely spied, and my servant was frequently told to warn me against asking too many questions.” -->
 
 
-CHAPTER LX.
-Concerning the Kaan’s Palace of Chagannor.
+## CHAPTER 60. The Kaan’s Palace of Chagannor
 
-At the end of those three days you find a city called Chagan Nor [which is as much as to say White Pool], at which there is a great Palace of the Grand Kaan’s;{1} and he likes much to reside there on account of the Lakes and Rivers in the neighbourhood, which are the haunt of swans{2} and of a great variety of other birds. The adjoining plains too abound with cranes, partridges, pheasants, and other game birds, so that the Emperor takes all the more delight in staying there, in order to go a-hawking with his gerfalcons and other falcons, a sport of which he is very fond.{3}
+At the end of those 3 days you find a city called Chagan Nor which is as much as to say White Pool, at which there is a great Palace of the Grand Kaan’s.
 
-There are five different kinds of cranes found in those tracts, as I shall tell you. First, there is one which is very big, and all over as black as a crow; the second kind again is all white, and is the biggest of all; its wings are really beautiful, for they are adorned with round eyes like those of a peacock, but of a resplendent golden colour, whilst the head is red and black on a white ground. The third kind is the same as ours. The fourth is a small kind, having at the ears beautiful long pendent feathers of red and black. The fifth kind is grey all over and of great size, with a handsome head, red and black.{4}
+He likes much to reside there on account of the Lakes and Rivers in the neighbourhood, which are the haunt of swans{2} and of a great variety of other birds. The adjoining plains too abound with cranes, partridges, pheasants, and other game birds, so that the Emperor takes all the more delight in staying there, in order to go a-hawking with his gerfalcons and other falcons, a sport of which he is very fond.
 
-Near this city there is a valley in which the Emperor has had several little houses erected in which he keeps in mew a huge number of cators, which are what we call the Great Partridge. You would be astonished to see what a quantity there are, with men to take charge of them. So whenever the Kaan visits the place he is furnished with as many as he wants.{5}
+There are 5 different kinds of cranes found in those tracts.
+
+1. Very big, and all over as black as a crow.
+2. White, and is the biggest of all.
+
+Its wings are really beautiful, for they are adorned with round eyes like those of a peacock, but of a resplendent golden colour, whilst the head is red and black on a white ground.
+
+3. The same as ours.
+4. A small kind, having at the ears beautiful long pendent feathers of red and black. 
+
+5. Grey all over and of great size, with a handsome head, red and black.{4}
+
+Near this city there is a valley in which the Emperor has had several little houses erected in which he keeps in mew a huge number of cators, which are what we call the Great Partridge.
+
+You would be astonished to see what a quantity there are, with men to take charge of them. So whenever the Kaan visits the place he is furnished with as many as he wants.
 
 
 

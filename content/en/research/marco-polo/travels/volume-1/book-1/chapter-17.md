@@ -1,17 +1,18 @@
 ---
 heading: "Chapter 17"
 title: "The Noble City of Tauris"
-description: Mao was a Communist Chinese Leader
+description: Kerman is a kingdom which is also properly in Persia, and formerly it had a hereditary prince
 a: "Marco Polo"
 c: "darkslategray"
-weight: 4
-# date: 2022-03-10
+weight: 14
 ---
 
 
 ## CHAPTER 17. The Kingdom of Kerman
 
-Kerman is a kingdom which is also properly in Persia, and formerly it had a hereditary prince. Since the Tartars conquered the country the rule is no longer hereditary, but the Tartar sends to administer whatever lord he pleases.{1} In this kingdom are produced the stones called turquoises in great abundance; they are found in the mountains, where they are extracted from the rocks.{2} There are also plenty of veins of steel and Ondanique.{3} The people are very skilful in making harness of war; their saddles, bridles, spurs, swords, bows, quivers, and arms of every kind, are very well made indeed according to the fashion of those parts. The ladies of the country and their daughters also produce exquisite needlework in the embroidery of silk stuffs in different colours, with figures of beasts and birds, trees and flowers, and a variety of other patterns. They work hangings for the use of noblemen so deftly that they are marvels to see, as well as cushions, pillows quilts, and all sorts of things.{4}
+Kerman is a kingdom which is also properly in Persia, and formerly it had a hereditary prince. 
+
+Since the Tartars conquered the country the rule is no longer hereditary, but the Tartar sends to administer whatever lord he pleases.{1} In this kingdom are produced the stones called turquoises in great abundance; they are found in the mountains, where they are extracted from the rocks.{2} There are also plenty of veins of steel and Ondanique.{3} The people are very skilful in making harness of war; their saddles, bridles, spurs, swords, bows, quivers, and arms of every kind, are very well made indeed according to the fashion of those parts. The ladies of the country and their daughters also produce exquisite needlework in the embroidery of silk stuffs in different colours, with figures of beasts and birds, trees and flowers, and a variety of other patterns. They work hangings for the use of noblemen so deftly that they are marvels to see, as well as cushions, pillows quilts, and all sorts of things.{4}
 
 In the mountains of Kerman are found the best falcons in the world. They are inferior in size to the Peregrine, red on the breast, under the neck, and between the thighs; their flight so swift that no bird can escape them.{5}
 

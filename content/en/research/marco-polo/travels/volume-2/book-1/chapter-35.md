@@ -13,7 +13,15 @@ The Emperor sent Marco Polo on business of his into the Western Provinces.
 
 On that occasion he travelled from Cambaluc a good four months’ journey towards the west.{1} And so now I will tell you all that he saw on his travels as he went and returned.
 
-When you leave the City of Cambaluc and have ridden ten miles, you come to a very large river which is called Pulisanghin, and flows into the ocean, so that merchants with their merchandise ascend it from the sea. Over this River there is a very fine stone bridge, so fine indeed, that it has very few equals. The fashion of it is this: it is 300 paces in length, and it must have a good eight paces of width, for ten mounted men can ride across it abreast. It has 24 arches and 4as many water-mills, and ’tis all of very fine marble, well built and firmly founded. Along the top of the bridge there is on either side a parapet of marble slabs and columns, made in this way. At the beginning of the bridge there is a marble column, and under it a marble lion, so that the column stands upon the lion’s loins, whilst on the top of the column there is a second marble lion, both being of great size and beautifully executed sculpture. At the distance of a pace from this column there is another precisely the same, also with its two lions, and the space between them is closed with slabs of grey marble to prevent people from falling over into the water. And thus the columns run from space to space along either side of the bridge, so that altogether it is a beautiful object.{2}
+When you leave the City of Cambaluc and have ridden ten miles, you come to a very large river which is called Pulisanghin, and flows into the ocean, so that merchants with their merchandise ascend it from the sea. Over this River there is a very fine stone bridge, so fine indeed, that it has very few equals. 
+
+The fashion of it is this: it is 300 paces in length, and it must have a good eight paces of width, for ten mounted men can ride across it abreast. 
+
+It has 24 arches and 4as many water-mills, and ’tis all of very fine marble, well built and firmly founded. Along the top of the bridge there is on either side a parapet of marble slabs and columns, made in this way. 
+
+At the beginning of the bridge there is a marble column, and under it a marble lion, so that the column stands upon the lion’s loins, whilst on the top of the column there is a second marble lion, both being of great size and beautifully executed sculpture. 
+
+At the distance of a pace from this column there is another precisely the same, also with its two lions, and the space between them is closed with slabs of grey marble to prevent people from falling over into the water. And thus the columns run from space to space along either side of the bridge, so that altogether it is a beautiful object.{2}
 
 
 ## CHAPTER 36. Account of the City of Juju
@@ -27,22 +35,39 @@ Taking the westerly one through Cathay, and travelling by it for ten days, you f
 
 ## CHAPTER 37: The Kingdom of Taianfu
 
-After riding then those ten days from the city of Juju, you find yourself in a kingdom called Taianfu, and the city at which you arrive, which is the capital, is also called Taianfu, a very great and fine city. [But at the end of five days’ journey out of those ten, they say there is a city unusually large and handsome called 13Acbaluc, whereat terminate in this direction the hunting preserves of the Emperor, within which no one dares to sport except the Emperor and his family, and those who are on the books of the Grand Falconer. Beyond this limit any one is at liberty to sport, if he be a gentleman. The Great Kaan, however, scarcely ever went hunting in this direction, and hence the game, particularly the hares, had increased and multiplied to such an extent that all the crops of the Province were destroyed. The Great Kaan being informed of this, proceeded thither with all his Court, and the game that was taken was past counting.]{1}
+After riding then those ten days from the city of Juju, you find yourself in a kingdom called Taianfu, and the city at which you arrive, which is the capital, is also called Taianfu, a very great and fine city. 
 
-Taianfu{2} is a place of great trade and great industry, for here they manufacture a large quantity of the most necessary equipments for the army of the Emperor. There grow here many excellent vines, supplying great plenty of wine; and in all Cathay this is the only place where wine is produced. It is carried hence all over the country.{3} There is also a great deal of silk here, for the people have great quantities of mulberry-trees and silk-worms.
+But at the end of 5 days’ journey out of those ten, they say there is a city unusually large and handsome called 13Acbaluc, whereat terminate in this direction the hunting preserves of the Emperor, within which no one dares to sport except the Emperor and his family, and those who are on the books of the Grand Falconer. Beyond this limit any one is at liberty to sport, if he be a gentleman. 
 
-From this city of Taianfu you ride westward again for seven days, through fine districts with plenty of towns and boroughs, all enjoying much trade and practising various kinds of industry. Out of these districts go forth not a few great merchants, who travel to India and other foreign regions, buying and selling and getting gain. After those seven days’ journey you arrive at a city called Pianfu, a large and important place, with a number of traders living by commerce and industry. It is a place too where silk is largely produced.{4}
+The Great Kaan, however, scarcely ever went hunting in this direction, and hence the game, particularly the hares, had increased and multiplied to such an extent that all the crops of the Province were destroyed. The Great Kaan being informed of this, proceeded thither with all his Court, and the game that was taken was past counting.]{1}
+
+Taianfu is a place of great trade and great industry, for here they manufacture a large quantity of the most necessary equipments for the army of the Emperor. 
+
+There grow here many excellent vines, supplying great plenty of wine; and in all Cathay this is the only place where wine is produced. It is carried hence all over the country. There is also a great deal of silk here, for the people have great quantities of mulberry-trees and silk-worms.
+
+From this city of Taianfu you ride westward again for seven days, through fine districts with plenty of towns and boroughs, all enjoying much trade and practising various kinds of industry. 
+
+Out of these districts go forth not a few great merchants, who travel to India and other foreign regions, buying and selling and getting gain. 
+
+After those seven days’ journey you arrive at a city called Pianfu, a large and important place, with a number of traders living by commerce and industry. It is a place too where silk is largely produced.{4}
 
 
 ## CHAPTER 38. The Castle of Caichu
 
-On leaving Pianfu you ride two days westward, and come to the noble castle of Caichu, which was built in time past by a king of that country, whom they used to call the Golden King, and who had there a great and beautiful palace. There is a great hall of this palace, in which are pourtrayed all the ancient kings of the country, done in gold and other beautiful colours, and a very fine sight they make. Each king in succession as he reigned added to those pictures.{1}
+On leaving Pianfu you ride two days westward, and come to the noble castle of Caichu, which was built in time past by a king of that country, whom they used to call the Golden King, and who had there a great and beautiful palace. 
+
+
+There is a great hall of this palace, in which are pourtrayed all the ancient kings of the country, done in gold and other beautiful colours, and a very fine sight they make. Each king in succession as he reigned added to those pictures.{1}
 
 This Golden King was a great and potent Prince, and during his stay at this place there used to be in his service none but beautiful girls, of whom he had a great number in his Court. When he went to take the air about the fortress, these girls used to draw him about in a little carriage which they could easily move, and they would also be in attendance on the King for everything pertaining to his convenience or pleasure.
 
 <!-- Now I will tell you a pretty passage that befell between the Golden King and Prester John, as it was related by the people of the Castle. -->
 
-It came to pass, as they told the tale, that this Golden King was at war with Prester John. And the King held a position so strong that Prester John was not able to get at him or to do him any scathe; wherefore he was in great wrath. So seventeen gallants belonging to Prester John’s Court came to him in a body, and said that, an he would, they were ready to bring him the Golden King alive. His answer was, that he desired nothing better, and would be much bounden to them if they would do so.
+It came to pass, as they told the tale, that this Golden King was at war with Prester John.
+
+The King held a position so strong that Prester John was not able to get at him or to do him any scathe; wherefore he was in great wrath. 
+
+So seventeen gallants belonging to Prester John’s Court came to him in a body, and said that, an he would, they were ready to bring him the Golden King alive. His answer was, that he desired nothing better, and would be much bounden to them if they would do so.
 
 So when they had taken leave of their Lord and Master Prester John, they set off together, this goodly company of gallants, and went to the Golden King, and presented themselves before him, saying that they had come from foreign parts to enter his service. And he answered by telling them that they were right welcome, and that he was glad to have their service, never imagining that they had any ill intent. And so these mischievous squires took service with the Golden King; and served him so well that he grew to love them dearly.
 
@@ -75,7 +100,7 @@ There is nothing else worth mentioning, and so we will proceed and tell you of a
 
 ## CHAPTER 41. The City of Kenjanfu
 
-And when you leave the city of Cachanfu of which I have spoken, and travel eight days westward, you meet with cities and boroughs abounding in trade and industry, and quantities of beautiful trees, and gardens, and fine plains planted with mulberries, which are the trees on the leaves of which the silkworms do feed.{1} The people are all Idolaters. There is also plenty of game of all sorts, both of beasts and birds.
+When you leave the city of Cachanfu of which I have spoken, and travel eight days westward, you meet with cities and boroughs abounding in trade and industry, and quantities of beautiful trees, and gardens, and fine plains planted with mulberries, which are the trees on the leaves of which the silkworms do feed.{1} The people are all Idolaters. There is also plenty of game of all sorts, both of beasts and birds.
 
 And when you have travelled those eight days’ journey, you come to that great city which I mentioned, called Kenjanfu.{2} A very great and fine city it is, and the capital of the kingdom of Kenjanfu, which in old times was a noble, rich, and powerful realm, and had many great and wealthy and puissant kings.{3} But now the king thereof is a prince called Mangalai, the son of the Great Kaan, who hath given him this realm, and crowned him king thereof.{4} It is a city of great trade and industry. They have great abundance of silk, from which they weave cloths of silk and gold of divers kinds, and they also manufacture all sorts of equipments for an army. They have every necessary of man’s life very cheap. The city lies towards the west; the people are Idolaters; and outside the city is the palace of the Prince Mangalai, crowned king, and son of the Great Kaan, as I told you before.
 

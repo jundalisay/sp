@@ -1,19 +1,28 @@
 ---
-heading: "Chapter 51"
+heading: "Chapter 52"
 title: "Those who did Reign after Chinghis Kaan, and of the Customs of the Tartars"
-description: Mao was a Communist Chinese Leader
+description: Cuy Khan reigned after Chinghis Kaan. The third Prince was Batu Kaan. The fourth was Alacou Kaan
 a: "Marco Polo"
 c: "darkslategray"
-weight: 4
-# date: 2025-05-05
+weight: 32
 ---
 
 
-Cuy Khan reigned after Chinghis Kaan. The third Prince was Batu Kaan. The fourth was Alacou Kaan. The fifth Mongou Kaan, the sixth Cublay Kaan, who is the sovereign now reigning, and is more potent than any of the 5 who went before him.
+Cuy Khan reigned after Chinghis Kaan. 
+
+The third Prince was Batu Kaan. 
+
+The fourth was Alacou Kaan. 
+
+The fifth was Mongou Kaan. 
+
+The sixth was Cublay Kaan, who is the sovereign now reigning, and is more potent than any of the 5 who went before him.
 
 In fact, if you were to take all those five together, they would not be so powerful as he is.{2} 
 
-If you were to put together all the Christians in the world, with their Emperors and their Kings, the whole of these Christians,—aye, and throw in the Saracens to boot,—would not have such power, or be able to do so much as this Cublay, who is the Lord of all the Tartars in the world, those of the Levant and of the Ponent included; for these are all his liegemen and subjects. I mean to show you all about this great power of his in this book of ours.
+If you were to put together all the Christians in the world, with their Emperors and their Kings, the whole of these Christians,—aye, and throw in the Saracens to boot,—would not have such power, or be able to do so much as this Cublay, who is the Lord of all the Tartars in the world, those of the Levant and of the Ponent included; for these are all his liegemen and subjects. 
+
+I mean to show you all about this great power of his in this book of ours.
 
 All the Grand Kaans, and all the descendants of Chinghis their first Lord, are carried to a mountain that is called Altay to be interred. 
 
