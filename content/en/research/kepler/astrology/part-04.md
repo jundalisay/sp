@@ -1,21 +1,15 @@
 ---
-heading: "Parts 30-"
+heading: "Part 4"
 title: "The Warm and Wet Forces of the Planets"
-# Star-based Forecasts
-# heading: "Chapter 1"
 description: "A mathematician's job is to write annual forecasts"
 c: "darkgoldenrod"
-weight: 2
+weight: 12
 contributors: ['Kepler']
 icon: "Kepler"
 ---
 
 
-{{< s v="30" >}} 
-
-<!-- The philosophers may excuse me for my conclusions which lead from . -->
-
-The philosophers surely do not see any differences between the bodies near us and the celestial bodies. 
+{{< s v="30" >}} The philosophers surely do not see any differences between the bodies near us and the celestial bodies. 
 
 So, we will let them to process in peace these fundamental and earthly differences between celestial bodies. 
 

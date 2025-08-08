@@ -1,7 +1,6 @@
 ---
-heading: "Parts 1-14"
+heading: "Part 1"
 title: "The Sun and Heat"
-# heading: "Chapter 1"
 description: "A mathematician's job is to write annual forecasts"
 c: "darkgoldenrod"
 weight: 2

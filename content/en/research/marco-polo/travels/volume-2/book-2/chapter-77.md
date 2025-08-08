@@ -5,12 +5,13 @@ description: ""
 a: "Marco Polo"
 c: "darkslategray"
 weight: 24
-# date: 2022-05-01
 ---
 
 
 
-The position of the city is such that it has on one side a lake of fresh and exquisitely clear water (already spoken of), and on the other a very large river. The waters of the latter fill a number of canals of all sizes which run through the different quarters of the city, carry away all impurities, and then enter the Lake; whence they issue again and flow to the Ocean, thus producing a most excellent atmosphere. By means of these channels, as well as by the streets, you can go all about the city. Both streets and canals are so wide and spacious that carts on the one and boats on the other can 201readily pass to and fro, conveying necessary supplies to the inhabitants.{2}
+The position of the city is such that it has on one side a lake of fresh and exquisitely clear water (already spoken of), and on the other a very large river. 
+
+The waters of the latter fill a number of canals of all sizes which run through the different quarters of the city, carry away all impurities, and then enter the Lake; whence they issue again and flow to the Ocean, thus producing a most excellent atmosphere. By means of these channels, as well as by the streets, you can go all about the city. Both streets and canals are so wide and spacious that carts on the one and boats on the other can 201readily pass to and fro, conveying necessary supplies to the inhabitants.{2}
 
 At the opposite side the city is shut in by a channel, perhaps 40 miles in length, very wide, and full of water derived from the river aforesaid, which was made by the ancient kings of the country in order to relieve the river when flooding its banks. This serves also as a defence to the city, and the earth dug from it has been thrown inwards, forming a kind of mound enclosing the city.{3}
 
@@ -18,29 +19,52 @@ In this part are the ten principal markets, though besides these there are a vas
 
 So also parallel to this great street, but at the back of the market places, there runs a very large canal, on the bank of which towards the squares are built great houses of stone, in which the merchants from India and other foreign parts store their wares, to be handy for the markets. 
 
-In each of the squares is held a market three days in the week, frequented by 40,000 or 50,000 persons, who bring thither for sale every possible necessary of life, so that there is always an ample supply of every kind of meat and game, as of roebuck, red-deer, fallow-deer, hares, rabbits, partridges, pheasants, francolins, quails, fowls, capons, and of ducks and geese an infinite quantity; for so many are bred on the Lake that for a Venice groat of silver you can have a couple of geese and two couple of ducks. Then there are the shambles where the larger animals are slaughtered, such as calves, beeves, kids, and 202lambs, the flesh of which is eaten by the rich and the great dignitaries.{4}
+In each of the squares is held a market three days in the week, frequented by 40,000 or 50,000 persons, who bring thither for sale every possible necessary of life, so that there is always an ample supply of every kind of meat and game, as of roebuck, red-deer, fallow-deer, hares, rabbits, partridges, pheasants, francolins, quails, fowls, capons, and of ducks and geese an infinite quantity; for so many are bred on the Lake that for a Venice groat of silver you can have a couple of geese and two couple of ducks. Then there are the shambles where the larger animals are slaughtered, such as calves, beeves, kids, and 202lambs, the flesh of which is eaten by the rich and the great dignitaries.
 
-Those markets make a daily display of every kind of vegetables and fruits; and among the latter there are in particular certain pears of enormous size, weighing as much as ten pounds apiece, and the pulp of which is white and fragrant like a confection; besides peaches in their season both yellow and white, of every delicate flavour.{5}
+Those markets make a daily display of every kind of vegetables and fruits; and among the latter there are in particular certain pears of enormous size, weighing as much as ten pounds apiece, and the pulp of which is white and fragrant like a confection; besides peaches in their season both yellow and white, of every delicate flavour.
 
-Neither grapes nor wine are produced there, but very good raisins are brought from abroad, and wine likewise. The natives, however, do not much care about wine, being used to that kind of their own made from rice and spices. From the Ocean Sea also come daily supplies of fish in great quantity, brought 25 miles up the river, and there is also great store of fish from the lake, which is the constant resort of fishermen, who have no other business. Their fish is of sundry kinds, changing with the season; and, owing to the impurities of the city which pass into the lake, it is remarkably fat and savoury. Any one who should see the supply of fish in the market would suppose it impossible that such a quantity could ever be sold; and yet in a few hours the whole shall be cleared away; so great is the number of inhabitants who are accustomed to delicate living. Indeed they eat fish and flesh at the same meal.
+Neither grapes nor wine are produced there, but very good raisins are brought from abroad, and wine likewise. The natives, however, do not much care about wine, being used to that kind of their own made from rice and spices. From the Ocean Sea also come daily supplies of fish in great quantity, brought 25 miles up the river, and there is also great store of fish from the lake, which is the constant resort of fishermen, who have no other business. 
 
-All the ten market places are encompassed by lofty houses, and below these are shops where all sorts of crafts are carried on, and all sorts of wares are on sale, including spices and jewels and pearls. Some of these shops are entirely devoted to the sale of wine made from rice and spices, which is constantly made fresh and fresh, and is sold very cheap.
+Their fish is of sundry kinds, changing with the season; and, owing to the impurities of the city which pass into the lake, it is remarkably fat and savoury. Any one who should see the supply of fish in the market would suppose it impossible that such a quantity could ever be sold; and yet in a few hours the whole shall be cleared away; so great is the number of inhabitants who are accustomed to delicate living. Indeed they eat fish and flesh at the same meal.
 
-Certain of the streets are occupied by the women of the town, who are in such a number that I dare not say 203what it is. They are found not only in the vicinity of the market places, where usually a quarter is assigned to them, but all over the city. They exhibit themselves splendidly attired and abundantly perfumed, in finely garnished houses, with trains of waiting-women. 
+All the 10 marketplaces are encompassed by lofty houses. Below these are shops where all sorts of crafts are carried on, and all sorts of wares are on sale, including spices and jewels and pearls. 
 
-These women are extremely accomplished in all the arts of allurement, and readily adapt their conversation to all sorts of persons, insomuch that strangers who have once tasted their attractions seem to get bewitched, and are so taken with their blandishments and their fascinating ways that they never can get these out of their heads. Hence it comes to pass that when they return home they say they have been to Kinsay or the City of Heaven, and their only desire is to get back thither as soon as possible.{6}
+Some of these shops are entirely devoted to the sale of wine made from rice and spices, which is constantly made fresh and fresh, and is sold very cheap.
 
-Other streets are occupied by the Physicians, and by the Astrologers, who are also teachers of reading and writing; and an infinity of other professions have their places round about those squares. In each of the squares there are two great palaces facing one another, in which are established the officers appointed by the King to decide differences arising between merchants, or other inhabitants of the quarter. It is the daily duty of these officers to see that the guards are at their posts on the neighbouring bridges, and to punish them at their discretion if they are absent.
+Some of the streets are occupied by the women of the town, who are so many.
 
-All along the main street that we have spoken of, as running from end to end of the city, both sides are lined with houses and great palaces and the gardens pertaining to them, whilst in the intervals are the houses of tradesmen engaged in their different crafts. The crowd of people that you meet here at all hours, passing this way and that on their different errands, is so vast that no one would believe it possible that victuals enough could be provided for their consumption, unless they should see 204how, on every market-day, all those squares are thronged and crammed with purchasers, and with the traders who have brought in stores of provisions by land or water; and everything they bring in is disposed of.
+They are found not only in the vicinity of the market places, where usually a quarter is assigned to them, but all over the city. 
 
-To give you an example of the vast consumption in this city let us take the article of pepper; and that will enable you in some measure to estimate what must be the quantity of victual, such as meat, wine, groceries, which have to be provided for the general consumption. Now Messer Marco heard it stated by one of the Great Kaan’s officers of customs that the quantity of pepper introduced daily for consumption into the city of Kinsay amounted to 43 loads, each load being equal to 223 lbs.{7}
+They exhibit themselves splendidly attired and abundantly perfumed, in finely garnished houses, with trains of waiting-women. 
+
+These women are extremely accomplished in all the arts of allurement, and readily adapt their conversation to all sorts of persons, insomuch that strangers who have once tasted their attractions seem to get bewitched, and are so taken with their blandishments and their fascinating ways that they never can get these out of their heads. 
+
+Hence when they return home they say they have been to Kinsay or the City of Heaven.
+- Their only desire is to get back thither as soon as possible.
+
+Other streets are occupied by the Physicians, and by the Astrologers, who are also teachers of reading and writing.
+
+An infinity of other professions have their places round about those squares. 
+
+In each of the squares there are two great palaces facing one another, in which are established the officers appointed by the King to decide differences arising between merchants, or other inhabitants of the quarter. 
+
+It is the daily duty of these officers to see that the guards are at their posts on the neighbouring bridges, and to punish them at their discretion if they are absent.
+
+All along the main street, as running from end to end of the city, both sides are lined with houses and great palaces and the gardens pertaining to them, whilst in the intervals are the houses of tradesmen engaged in their different crafts. The crowd of people that you meet here at all hours, passing this way and that on their different errands, is so vast that no one would believe it possible that victuals enough could be provided for their consumption, unless they should see how, on every market-day, all those squares are thronged and crammed with purchasers, and with the traders who have brought in stores of provisions by land or water; and everything they bring in is disposed of.
+
+To give you an example of the vast consumption in this city let us take the article of pepper.
+
+That will enable you in some measure to estimate what must be the quantity of victual, such as meat, wine, groceries, which have to be provided for the general consumption. Now Messer Marco heard it stated by one of the Great Kaan’s officers of customs that the quantity of pepper introduced daily for consumption into the city of Kinsay amounted to 43 loads, each load being equal to 223 lbs.
 
 The houses of the citizens are well built and elaborately finished; and the delight they take in decoration, in painting and in architecture, leads them to spend in this way sums of money that would astonish you.
 
-The natives of the city are men of peaceful character, both from education and from the example of their kings, whose disposition was the same. They know nothing of handling arms, and keep none in their houses. You hear of no feuds or noisy quarrels or dissensions of any kind among them. Both in their commercial dealings and in their manufactures they are thoroughly honest and truthful, and there is such a degree of good will and neighbourly attachment among both men and women that you would take the people who live in the same street to be all one family.{8}
+The natives of the city are men of peaceful character, both from education and from the example of their kings, whose disposition was the same. They know nothing of handling arms, and keep none in their houses. 
 
-And this familiar intimacy is free from all jealousy or suspicion of the conduct of their women. These they treat with the greatest respect, and a man who should presume to make loose proposals to a married woman would be regarded as an infamous rascal. They also treat the foreigners who visit them for the sake of trade with great cordiality, and entertain them in the 205most winning manner, affording them every help and advice on their business. But on the other hand they hate to see soldiers, and not least those of the Great Kaan’s garrisons, regarding them as the cause of their having lost their native kings and lords.
+You hear of no feuds or noisy quarrels or dissensions of any kind among them. Both in their commercial dealings and in their manufactures they are thoroughly honest and truthful, and there is such a degree of good will and neighbourly attachment among both men and women that you would take the people who live in the same street to be all one family.{8}
+
+This familiar intimacy is free from all jealousy or suspicion of the conduct of their women. These they treat with the greatest respect, and a man who should presume to make loose proposals to a married woman would be regarded as an infamous rascal.
+
+They also treat the foreigners who visit them for the sake of trade with great cordiality, and entertain them in the 205most winning manner, affording them every help and advice on their business. But on the other hand they hate to see soldiers, and not least those of the Great Kaan’s garrisons, regarding them as the cause of their having lost their native kings and lords.
 
 On the Lake of which we have spoken there are numbers of boats and barges of all sizes for parties of pleasure. These will hold 10, 15, 20, or more persons, and are from 15 to 20 paces in length, with flat bottoms and ample breadth of beam, so that they always keep their trim. Any one who desires to go a-pleasuring with the women, or with a party of his own sex, hires one of these barges, which are always to be found completely furnished with tables and chairs and all the other apparatus for a feast. 
 
@@ -48,99 +72,92 @@ The roof forms a level deck, on which the crew stand, and pole the boat along wh
 
 For on the one side lies the city in its entire length, so that the spectators in the barges, from the distance at which they stand, take in the whole prospect in its full beauty and grandeur, with its numberless palaces, temples, monasteries, and gardens, full of lofty trees, sloping to the shore. And the Lake is never without a number of other such boats, laden with pleasure parties; for it is the great delight of the citizens here, after they have disposed of the day’s business, to pass the afternoon in enjoyment with the ladies of their families, or perhaps with others less reputable, either in these barges or in driving about the city in carriages.{9}
 
+They afford one mode of recreation to the citizens in going about the town, as the boats afford another in going about the Lake. In the main street of the city you meet an infinite succession of these carriages passing to and fro.
 
-They afford one mode of recreation to the citizens in going about the town, as the boats afford another in going about the Lake. In the main street of the city you meet an infinite succession of these carriages passing to and fro. They are long covered vehicles, fitted with curtains and cushions, and affording room for six persons; and they are in constant request for ladies and gentlemen going on parties of pleasure. In these they drive to certain gardens, where they are entertained by the owners in pavilions erected on purpose, and there they divert themselves the livelong day, with their ladies, returning home in the evening in those same carriages.{10}
-(Further Particulars of the Palace of the King Facfur.)
+They are long covered vehicles, fitted with curtains and cushions, and affording room for six persons; and they are in constant request for ladies and gentlemen going on parties of pleasure. In these they drive to certain gardens, where they are entertained by the owners in pavilions erected on purpose, and there they divert themselves the livelong day, with their ladies, returning home in the evening in those same carriages.
 
 The whole enclosure of the Palace was divided into three parts. The middle one was entered by a very lofty gate, on each side of which there stood on the ground-level vast pavilions, the roofs of which were sustained by columns painted and wrought in gold and the finest azure. Opposite the gate stood the chief Pavilion, larger than the rest, and painted in like style, with gilded columns, and a ceiling wrought in splendid gilded sculpture, whilst the walls were artfully painted with the stories of departed kings.
 
-On certain days, sacred to his gods, the King Facfur[1] used to hold a great court and give a feast to his chief lords, dignitaries, and rich manufacturers of the city of Kinsay. On such occasions those pavilions used to give ample accommodation for 10,000 persons sitting at table. This court lasted for ten or twelve days, and exhibited an astonishing and incredible spectacle in the magnificence of the guests, all clothed in silk and 207gold, with a profusion of precious stones; for they tried to outdo each other in the splendour and richness of their appointments. Behind this great Pavilion that faced the great gate, there was a wall with a passage in it shutting off the inner part of the Palace. On entering this you found another great edifice in the form of a cloister surrounded by a portico with columns, from which opened a variety of apartments for the King and the Queen, adorned like the outer walls with such elaborate work as we have mentioned. 
+On certain days, sacred to his gods, the King Facfur[1] used to hold a great court and give a feast to his chief lords, dignitaries, and rich manufacturers of the city of Kinsay. On such occasions those pavilions used to give ample accommodation for 10,000 persons sitting at table. 
 
-From the cloister again you passed into a covered corridor, six paces in width, of great length, and extending to the margin of the lake. On either side of this corridor were ten courts, in the form of oblong cloisters surrounded by colonnades; and in each cloister or court were fifty chambers with gardens to each. In these chambers were quartered one thousand young ladies in the service of the King. The King would sometimes go with the Queen and some of these maidens to take his diversion on the Lake, or to visit the Idol-temples, in boats all canopied with silk.
+This court lasted for 10-12 days, and exhibited an astonishing and incredible spectacle in the magnificence of the guests, all clothed in silk and gold, with a profusion of precious stones.
 
-The other two parts of the enclosure were distributed in groves, and lakes, and charming gardens planted with fruit-trees, and preserves for all sorts of animals, such as roe, red-deer, fallow-deer, hares, and rabbits. Here the King used to take his pleasure in company with those damsels of his; some in carriages, some on horseback, whilst no man was permitted to enter. Sometimes the King would set the girls a-coursing after the game with dogs, and when they were tired they would hie to the groves that overhung the lakes, and leaving their clothes there they would come forth naked and enter the water and swim about hither and thither, whilst it was the King’s delight to watch them; and then all would return home. Sometimes the King would have his dinner carried to those groves, which were dense with lofty trees, 208and there would be waited on by those young ladies. And thus he passed his life in this constant dalliance with women, without so much as knowing what arms meant! And the result of all this cowardice and effeminacy was that he lost his dominion to the Great Kaan in that base and shameful way that you have heard.{11}
+They tried to outdo each other in the splendour and richness of their appointments. 
 
-All this account was given me by a very rich merchant of Kinsay when I was in that city. He was a very old man, and had been in familiar intimacy with the King Facfur, and knew the whole history of his life; and having seen the Palace in its glory was pleased to be my guide over it. As it is occupied by the King appointed by the Great Kaan, the first pavilions are still maintained as they used to be, but the apartments of the ladies are all gone to ruin and can only just be traced. So also the wall that enclosed the groves and gardens is fallen down, and neither trees nor animals are there any longer.{12}]
+Behind this great Pavilion that faced the great gate, there was a wall with a passage in it shutting off the inner part of the Palace. 
 
+On entering this you found another great edifice in the form of a cloister surrounded by a portico with columns, from which opened a variety of apartments for the King and the Queen, adorned like the outer walls with such elaborate work as we have mentioned. 
 
+From the cloister again you passed into a covered corridor, six paces in width, of great length, and extending to the margin of the lake.
 
-## CHAPTER 78. Treating of the great Yearly Revenue that the Great Kaan hath from Kinsay.
+On either side of this corridor were ten courts, in the form of oblong cloisters surrounded by colonnades; and in each cloister or court were fifty chambers with gardens to each. In these chambers were quartered one thousand young ladies in the service of the King. The King would sometimes go with the Queen and some of these maidens to take his diversion on the Lake, or to visit the Idol-temples, in boats all canopied with silk.
 
-Now I will tell you about the great revenue which the Great Kaan draweth every year from the said city of Kinsay and its territory, forming a ninth part of the whole country of Manzi.
+The other two parts of the enclosure were distributed in groves, and lakes, and charming gardens planted with fruit-trees, and preserves for all sorts of animals, such as roe, red-deer, fallow-deer, hares, and rabbits. Here the King used to take his pleasure in company with those damsels of his; some in carriages, some on horseback, whilst no man was permitted to enter. Sometimes the King would set the girls a-coursing after the game with dogs, and when they were tired they would hie to the groves that overhung the lakes, and leaving their clothes there they would come forth naked and enter the water and swim about hither and thither, whilst it was the King’s delight to watch them; 
 
-First there is the salt, which brings in a great revenue. For it produces every year, in round numbers, fourscore tomans of gold; and the toman is worth 70,000 saggi of gold, so that the total value of the fourscore tomans will be five millions and six hundred thousand saggi of gold, each saggio being worth more than a gold florin or ducat; in sooth, a vast sum of money! [This province, you see, adjoins the ocean, on the shores of which are many lagoons or salt marshes, in which the sea-water dries up during the summer time; and thence they extract such a quantity of salt as suffices for the supply of five of the kingdoms of Manzi besides this one.]
+Then all would return home. 
 
-Having told you of the revenue from salt, I will now tell you of that which accrues to the Great Kaan from the duties on merchandize and other matters.
+Sometimes the King would have his dinner carried to those groves, which were dense with lofty trees, and there would be waited on by those young ladies.
 
-You must know that in this city and its dependencies they make great quantities of sugar, as indeed they do 216in the other eight divisions of this country; so that I believe the whole of the rest of the world together does not produce such a quantity, at least, if that be true which many people have told me; and the sugar alone again produces an enormous revenue.—However, I will not repeat the duties on every article separately, but tell you how they go in the lump. Well, all spicery pays three and a third per cent. on the value; and all merchandize likewise pays three and a third per cent. [But sea-borne goods from India and other distant countries pay ten per cent.] The rice-wine also makes a great return, and coals, of which there is a great quantity; and so do the twelve guilds of craftsmen that I told you of, with their 12,000 stations apiece, for every article they make pays duty. And the silk which is produced in such abundance makes an immense return. But why should I make a long story of it? The silk, you must know, pays ten per cent., and many other articles also pay ten per cent.
+Thus he passed his life in this constant dalliance with women, without so much as knowing what arms meant! And the result of all this cowardice and effeminacy was that he lost his dominion to the Great Kaan in that base and shameful way that you have heard.{11}
 
-And you must know that Messer Marco Polo, who relates all this, was several times sent by the Great Kaan to inspect the amount of his customs and revenue from this ninth part of Manzi,{1} and he found it to be, exclusive of the salt revenue which we have mentioned already, 210 tomans of gold, equivalent to 14,700,000 saggi of gold; one of the most enormous revenues that ever was heard of. And if the sovereign has such a revenue from one-ninth part of the country, you may judge what he must have from the whole of it! However, to speak the truth, this part is the greatest and most productive; and because of the great revenue that the Great Kaan derives from it, it is his favourite province, and he takes all the more care to watch it well, and to keep the people contented.{2}
+All this account was given me by a very rich merchant of Kinsay when I was in that city. 
 
+He was a very old man, and had been in familiar intimacy with the King Facfur, and knew the whole history of his life.
 
-## CHAPTER 79. The City of Tanpiju and Others.
+Having seen the Palace in its glory was pleased to be my guide over it. As it is occupied by the King appointed by the Great Kaan, the first pavilions are still maintained as they used to be, but the apartments of the ladies are all gone to ruin and can only just be traced. 
 
-When you leave Kinsay and travel a day’s journey to the south-east, through a plenteous region, passing a succession of dwellings and charming gardens, you reach the city of Tanpiju, a great, rich, and fine city, under Kinsay. The people are subject to the Kaan, and have paper-money, and are Idolaters, and burn their dead in the way described before. They live by trade and 219manufactures and handicrafts, and have all necessaries in great plenty and cheapness.{1}
-
-But there is no more to be said about it, so we proceed, and I will tell you of another city called Vuju at three days’ distance from Tanpiju. The people are Idolaters, &c., and the city is under Kinsay. They live by trade and manufactures.
-
-Travelling through a succession of towns and villages that look like one continuous city, two days further on to the south-east, you find the great and fine city of Ghiuju which is under Kinsay. The people are Idolaters, &c. They have plenty of silk, and live by trade and handicrafts, and have all things necessary in abundance. At this city you find the largest and longest canes that are in all Manzi; they are full four palms in girth and 15 paces in length.{2}
-
-When you have left Ghiuju you travel four days S.E. through a beautiful country, in which towns and villages are very numerous. There is abundance of game both in beasts and birds; and there are very large and fierce lions. After those four days you come to the great and fine city of Changshan. It is situated upon a hill which divides the River, so that the one portion flows up country and the other down.[1] It is still under the government of Kinsay.
-
-I should tell you that in all the country of Manzi they have no sheep, though they have beeves and kine, goats and kids and swine in abundance. The people are Idolaters here, &c.
-
-When you leave Changshan you travel three days through a very fine country with many towns and villages, traders and craftsmen, and abounding in game of all kinds, and arrive at the city of Cuju. The people 220are Idolaters, &c., and live by trade and manufactures. It is a fine, noble, and rich city, and is the last of the government of Kinsay in this direction.{3} The other kingdom which we now enter, called Fuju, is also one of the nine great divisions of Manzi as Kinsay is.
+So also the wall that enclosed the groves and gardens is fallen down, and neither trees nor animals are there any longer.{12}]
 
 
 
-## CHAPTER 80. The Kingdom of Fuju
+## CHAPTER 78. The great Yearly Revenue the Great Kaan gets from Kinsay.
 
-On leaving Cuju, which is the last city of the kingdom of Kinsay, you enter the kingdom of Fuju, and travel six days in a south-easterly direction through a country of mountains and valleys, in which are a number of towns and villages with great plenty of victuals and 225abundance of game. Lions, great and strong, are also very numerous. The country produces ginger and galingale in immense quantities, insomuch that for a Venice groat you may buy fourscore pounds of good fine-flavoured ginger. They have also a kind of fruit resembling saffron, and which serves the purpose of saffron just as well.{1}
+Kinsay and its territory forms 1/9 of the whole country of Manzi.
 
-And you must know the people eat all manner of unclean things, even the flesh of a man, provided he has not died a natural death. So they look out for the bodies of those that have been put to death and eat their flesh, which they consider excellent.{2}
+1. Salt
 
-Those who go to war in those parts do as I am going to tell you. They shave the hair off the forehead and cause it to be painted in blue like the blade of a glaive. They all go afoot except the chief; they carry spears and swords, and are the most savage people in the world, for they go about constantly killing people, whose blood they drink, and then devour the bodies.{3}
+It produces every year, in round numbers, fourscore tomans of gold.
 
-Now I will quit this and speak of other matters. You must know then that after going three days out of the six that I told you of you come to the city of Kelinfu, a very great and noble city, belonging to the Great Kaan. This city hath three stone bridges which are among the finest and best in the world. They are a mile long and some nine paces in width, and they are all decorated with rich marble columns. Indeed they are such fine and marvellous works that to build any one of them must have cost a treasure.{4}
+The toman is worth 70,000 saggi of gold, so that the total value of the fourscore tomans will be 5 millions and 600,000 saggi of gold.
 
-The people live by trade and manufactures, and have great store of silk [which they weave into various stuffs], and of ginger and galingale. {5} [They also make much cotton cloth of dyed thread, which is sent all over Manzi.] Their women are particularly beautiful. And there is a strange thing there which I needs must tell you. You 226must know they have a kind of fowls which have no feathers, but hair only, like a cat’s fur.{6} They are black all over; they lay eggs just like our fowls, and are very good to eat.
+Each saggio is worth more than a gold florin or ducat. A vast sum of money!
 
-In the other three days of the six that I have mentioned above{7}, you continue to meet with many towns and villages, with traders, and goods for sale, and craftsmen. The people have much silk, and are Idolaters, and subject to the Great Kaan. There is plenty of game of all kinds, and there are great and fierce lions which attack travellers. In the last of those three days’ journey, when you have gone 15 miles you find a city called Unken, where there is an immense quantity of sugar made. From this city the Great Kaan gets all the sugar for the use of his Court, a quantity worth a great amount of money. [And before this city came under the Great Kaan these people knew not how to make fine sugar; they only used to boil and skim the juice, which when cold left a black paste. But after they came under the Great Kaan some men of Babylonia who happened to be at the Court proceeded to this city and taught the people to refine the sugar with the ashes of certain trees.
+This province adjoins the ocean, on the shores of which are many lagoons or salt marshes, in which the sea-water dries up during the summer time.
 
-There is no more to say of the place, so now we shall speak of the splendour of Fuju. When you have gone 15 miles from the city of Unken, you come to this noble city which is the capital of the kingdom. So we will now tell you what we know of it.
+Thence they extract such a quantity of salt as suffices for the supply of five of the kingdoms of Manzi besides this one.
 
+2. Sugar
 
-## CHAPTER 81. The Greatness of the City of Fuju
+In this city and its dependencies they make great quantities of sugar, as they do in the other 8 divisions of this country.
 
-Now this city of Fuju is the key of the kingdom which is called Chonka, and which is one of the nine great divisions of Manzi.{1} The city is a seat of great trade and great manufactures. The people are Idolaters and subject to the Great Kaan. And a large garrison is maintained there by that prince to keep the kingdom in peace and subjection. For the city is one which is apt to revolt on very slight provocation.
+I believe the whole of the rest of the world together does not produce such a quantity, at least, if that be true which many people have told me.
 
-There flows through the middle of this city a great river, which is about a mile in width, and many ships are built at the city which are launched upon this river. Enormous quantities of sugar are made there, and there is a great traffic in pearls and precious stones. For many ships of India come to these parts bringing many merchants who traffic about the Isles of the Indies. For this city is, as I must tell you, in the vicinity of the Ocean Port of Zayton,{2} which is greatly frequented by the ships of India with their cargoes of various merchandize; and from Zayton ships come this way right up to the city of Fuju by the river I have told you of; and ’tis in this way that the precious wares of India come hither.{3}
+The sugar alone again produces an enormous revenue.
 
-The city is really a very fine one and kept in good order, and all necessaries of life are there to be had in great abundance and cheapness.
+However, I will not repeat the duties on every article separately, but tell you how they go in the lump. 
 
+3. Spices and Merchandise
 
+All spicery and merchandize pays 3.33% on the value.
 
-CHAPTER LXXXII. The City and Great Haven of Zayton.
+But sea-borne goods from India and other distant countries pay 10%.
 
-When you quit Fuju and cross the River, you travel for five days south-east through a fine country, meeting with a constant succession of flourishing cities, towns, and villages, rich in every product. You travel by mountains and valleys and plains, and in some places by great forests in which are many of the trees which give Camphor.{1} There is plenty of game on the road, both of bird and beast. The people are all traders and craftsmen, subjects of the Great Kaan, and under the government of Fuju. When you have accomplished those five days’ journey you arrive at the very great and noble city of Zayton, which is also subject to Fuju.
+4. Rice Wine, Coals
 
-At this city you must know is the Haven of Zayton, frequented by all the ships of India, which bring thither spicery and all other kinds of costly wares. It is the port also that is frequented by all the merchants of 235Manzi, for hither is imported the most astonishing quantity of goods and of precious stones and pearls, and from this they are distributed all over Manzi.{2} And I assure you that for one shipload of pepper that goes to Alexandria or elsewhere, destined for Christendom, there come a hundred such, aye and more too, to this haven of Zayton; for it is one of the two greatest havens in the world for commerce.{3}
+The rice-wine also makes a great return, and coals, of which there is a great quantity.
 
-The Great Kaan derives a very large revenue from the duties paid in this city and haven; for you must know that on all the merchandize imported, including precious stones and pearls, he levies a duty of ten per cent., or in other words takes tithe of everything. Then again the ship’s charge for freight on small wares is 30 per cent., on pepper 44 per cent., and on lignaloes, sandalwood, and other bulky goods 40 per cent., so that between freight and the Kaan’s duties the merchant has to pay a good half the value of his investment [though on the other half he makes such a profit that he is always glad to come back with a new supply of merchandize]. But you may well believe from what I have said that the Kaan hath a vast revenue from this city.
+And so do the twelve guilds of craftsmen that I told you of, with their 12,000 stations apiece, for every article they make pays duty. 
 
-There is a great abundance here of all provision for every necessity of man’s life. [It is a charming country, and the people are very quiet, and fond of an easy life. Many come hither from Upper India to have their bodies painted with the needle in the way we have elsewhere described, there being many adepts at this craft in the city.{4}]
+5. Silk
 
-Let me tell you also that in this province there is a town called Tyunju, where they make vessels of porcelain of all sizes, the finest that can be imagined. They make it nowhere but in that city, and thence it is exported all over the world. Here it is abundant and 236very cheap, insomuch that for a Venice groat you can buy three dishes so fine that you could not imagine better.{5}
+The silk which is produced in such abundance makes an immense return at 10%, as well as many other articles.
 
-I should tell you that in this city (i.e. of Zayton) they have a peculiar language. [For you must know that throughout all Manzi they employ one speech and one kind of writing only, but yet there are local differences of dialect, as you might say of Genoese, Milanese, Florentines, and Neapolitans, who though they speak different dialects can understand one another.{6}]
+Marco Polo was several times sent by the Great Kaan to inspect the amount of his customs and revenue from this ninth part of Manzi.
 
-And I assure you that the Great Kaan has as large customs and revenues from this kingdom of Chonka as from Kinsay, aye and more too.{7}
+He found it to be, exclusive of the salt revenue which we have mentioned already, 210 tomans of gold, equivalent to 14,700,000 saggi of gold.
 
-We have now spoken of but three out of the nine kingdoms of Manzi, to wit Yanju and Kinsay and Fuju. We could tell you about the other six, but it would be too long a business; so we will say no more about them.
+It is one of the most enormous revenues that ever was heard of.
 
-And now you have heard all the truth about Cathay and Manzi and many other countries, as has been set down in this Book; the customs of the people and the various objects of commerce, the beasts and birds, the gold and silver and precious stones, and many other matters have been rehearsed to you. But our Book as yet does not contain nearly all that we purpose to put therein. For we have still to tell you all about the people of India and the notable things of that country, which are well worth the describing, for they are marvellous indeed. What we shall tell is all true, and without any lies. And we shall set down all the particulars in writing just as Messer Marco Polo related them. And he well knew the facts, for he remained so long in India, and enquired so diligently into the manners and peculiarities of the nations, that I can assure you there never 237was a single man before who learned so much and beheld so much as he did.
+If the sovereign has such a revenue from one-ninth part of the country, you may judge what he must have from the whole of it! 
 
-
-
-The Kaan’s Fleet leaving the Port of Zayton.
-
+However, to speak the truth, this part is the greatest and most productive; and because of the great revenue that the Great Kaan derives from it, it is his favourite province, and he takes all the more care to watch it well, and to keep the people contented.

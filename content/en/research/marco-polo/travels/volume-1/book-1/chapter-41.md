@@ -58,14 +58,20 @@ We will now quit this subject, and I will proceed with my account of the countri
 
 
 
-CHAPTER XLIII. The Province of Sukchur.
+## CHAPTER 43. The Province of Sukchur
 
-On leaving the province of which I spoke before,{1} you ride ten days between north-east and east, and in all that way you find no human dwelling, or next to none, so that there is nothing for our book to speak of.
+On leaving the province of which I spoke before, you ride 10 days between north-east and east.
 
-At the end of those ten days you come to another province called Sukchur, in which there are numerous towns and villages. The chief city is called Sukchu.{2} The people are partly Christians and partly Idolaters, and all are subject to the Great Kaan.
+In all that way you find no human dwelling, or next to none, so that there is nothing for our book to speak of.
+
+At the end of those ten days you come to another province called Sukchur, in which there are numerous towns and villages. The chief city is called Sukchu.
+
+The people are partly Christians and partly Idolaters, and all are subject to the Great Kaan.
 
 The great General Province to which all these three provinces belong is called Tangut.
 
-Over all the mountains of this province rhubarb is found in great abundance, and thither merchants come to buy it, and carry it thence all over the world.{3} [Travellers, however, dare not visit those mountains with any cattle but those of the country, for a certain plant grows there which is so poisonous that cattle which eat it lose their hoofs. The cattle of the country 218know it and eschew it.{4}] The people live by agriculture, and have not much trade. [They are of a brown complexion. The whole of the province is healthy.]
+Over all the mountains of this province rhubarb is found in great abundance, and thither merchants come to buy it, and carry it thence all over the world.
 
+Travellers, however, dare not visit those mountains with any cattle but those of the country, for a certain plant grows there which is so poisonous that cattle which eat it lose their hoofs. The cattle of the country 218know it and eschew it.
 
+The people live by agriculture, and have not much trade. [They are of a brown complexion. The whole of the province is healthy.]

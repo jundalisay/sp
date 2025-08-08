@@ -4,7 +4,7 @@ title: "The Kingdom of Mosul"
 description: Pein is a province 5 days in length, lying between east and north-east. The people are worshippers of Mahommet
 a: "Marco Polo"
 c: "darkslategray"
-weight: 20
+weight: 22
 ---
 
 
@@ -39,19 +39,25 @@ It is at the entrance of the great Desert, and it is here that travellers repose
 
 Lop is a large town at the edge of the Desert, which is called the Desert of Lop, and is situated between east and north-east. 
 
-It belongs to the Great Kaan, and the people worship Mahommet. Now, such persons as propose to cross the Desert take a week’s rest in this town to refresh themselves and their cattle; and then they make ready for the journey, taking with them a month’s supply for man and beast. On quitting this city they enter the Desert.
+It belongs to the Great Kaan, and the people worship Mahommet. 
 
-The length of this Desert is so great that ’tis said it would take a year and more to ride from one end of it to the other. And here, where its breadth is least, it takes a month to cross it. ’Tis all composed of hills and valleys of sand, and not a thing to eat is to be found on it. 
+Such persons as propose to cross the Desert take a week’s rest in this town to refresh themselves and their cattle; and then they make ready for the journey, taking with them a month’s supply for man and beast. On quitting this city they enter the Desert.
+
+The length of this Desert is so great that ’tis said it would take a year and more to ride from one end of it to the other. And here, where its breadth is least, it takes a month to cross it. 
+
+’Tis all composed of hills and valleys of sand, and not a thing to eat is to be found on it. 
 
 But after riding for a day and a night you find fresh water, enough mayhap for some 50 or 100 persons with their beasts, but not for more. 
 
-And all across the Desert you will find water in like manner, that is to say, in some 28 places altogether you will find good water, 197but in no great quantity; and in four places also you find brackish water.{1}
+All across the Desert you will find water in like manner, that is to say, in some 28 places altogether you will find good water, but in no great quantity.
+
+In 4 places also you find brackish water.
 
 Beasts there are none; for there is nought for them to eat. 
 
 But there is a marvellous thing related of this Desert, which is that when travellers are on the move by night, and one of them chances to lag behind or to fall asleep or the like, when he tries to gain his company again he will hear spirits talking, and will suppose them to be his comrades. 
 
-Sometimes the spirits will call him by name; and thus shall a traveller ofttimes be led astray so that he never finds his party. 
+Sometimes the spirits will call him by name. Thus shall a traveller ofttimes be led astray so that he never finds his party. 
 
 In this way many have perished. 
 
@@ -68,17 +74,27 @@ So thus it is that the Desert is crossed.{3}
 
 ## CHAPTER 40: The Great Province of Tangut
 
-After you have travelled thirty days through the Desert, as I have described, you come to a city called Sachiu, lying between north-east and east; it belongs to the Great Kaan, and is in a province called Tangut.{1} The people are for the most part Idolaters, but there are also some Nestorian Christians and some Saracens. 
+After you have travelled thirty days through the Desert, as I have described, you come to a city called Sachiu, lying between north-east and east; it belongs to the Great Kaan, and is in a province called Tangut.
 
-The Idolaters have a peculiar language, and are no traders, but live by their agriculture.{2} They have a great many abbeys and minsters full of idols of sundry fashions, to which they pay great honour and reverence, worshipping them and sacrificing to them with much ado.
+The people are for the most part Idolaters, but there are also some Nestorian Christians and some Saracens. 
 
-For example, such as have children will feed up a sheep 204in honour of the idol, and at the New Year, or on the day of the Idol’s Feast, they will take their children and the sheep along with them into the presence of the idol with great ceremony. Then they will have the sheep slaughtered and cooked, and again present it before the idol with like reverence, and leave it there before him, whilst they are reciting the offices of their worship and their prayers for the idol’s blessing on their children.
+The Idolaters have a peculiar language, and are no traders, but live by their agriculture.
 
-If you will believe them, the idol feeds on the meat that is set before it! After these ceremonies they take up the flesh and carry it home, and call together all their kindred to eat it with them in great festivity [the idol-priests receiving for their portion the head, feet, entrails, and skin, with some part of the meat]. 
+They have a great many abbeys and minsters full of idols of sundry fashions, to which they pay great honour and reverence, worshipping them and sacrificing to them with much ado.
 
-After they have eaten, they collect the bones that are left and store them carefully in a hutch.{3}
+For example, such as have children will feed up a sheep 204in honour of the idol, and at the New Year, or on the day of the Idol’s Feast, they will take their children and the sheep along with them into the presence of the idol with great ceremony. 
 
-And you must know that all the Idolaters in the world burn their dead. And when they are going to carry a body to the burning, the kinsfolk build a wooden house on the way to the spot, and drape it with cloths of silk and gold. When the body is going past this building they call a halt and set before it wine and meat and other eatables; and this they do with the assurance that the defunct will be received with the like attentions in the other world. 
+Then they will have the sheep slaughtered and cooked, and again present it before the idol with like reverence, and leave it there before him, whilst they are reciting the offices of their worship and their prayers for the idol’s blessing on their children.
+
+The idol feeds on the meat that is set before it! 
+
+After these ceremonies they take up the flesh and carry it home, and call together all their kindred to eat it with them in great festivity the idol-priests receiving for their portion the head, feet, entrails, and skin, with some part of the meat. 
+
+After they have eaten, they collect the bones that are left and store them carefully in a hutch.
+
+All the Idolaters in the world burn their dead. When they are going to carry a body to the burning, the kinsfolk build a wooden house on the way to the spot, and drape it with cloths of silk and gold. 
+
+When the body is going past this building they call a halt and set before it wine and meat and other eatables; and this they do with the assurance that the defunct will be received with the like attentions in the other world. 
 
 All the minstrelsy in the town goes playing before the body; and when it reaches the burning-place the kinsfolk are prepared with figures cut out of parchment and paper in the shape of men and horses and camels, and also with round pieces of paper like gold coins, and all these they burn along with the corpse.
 

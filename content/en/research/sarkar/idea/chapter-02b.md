@@ -128,8 +128,8 @@ Its progress can be many times faster than when it was a crude new mind without 
 ## Yoga or Union
 
 <!-- In this march towards the supramundane, the unit mind gradually feels a closer touch of Puruśottama. 
-
 As the proximity of the two increases, -->
+
 
 Eventually, the psychic gap between the reflected consciousness and the reflecting plate goes on diminishing and these two eventually merge. 
 

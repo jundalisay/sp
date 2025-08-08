@@ -4,25 +4,61 @@ title: "The Place where lieth the Body of St. Thomas the Apostle; and of the Mir
 description: ""
 a: "Marco Polo"
 c: "darkslategray"
-weight: 22
+weight: 24
 # date: 2022-05-01
 ---
 
 
 
-The Body of Messer St. Thomas the Apostle lies in this province of Maabar at a certain little town having no great population. ’Tis a place where few traders go, because there is very little merchandize to be got there, and it is a place not very accessible.{1} Both Christians and Saracens, however, greatly frequent it in pilgrimage. For the Saracens also do hold the Saint in great reverence, and say that he was one of their own Saracens and a great prophet, giving him the title of Avarian, which is as much as to say “Holy Man.”{2} The354 Christians who go thither in pilgrimage take of the earth from the place where the Saint was killed, and give a portion thereof to any one who is sick of a quartan or a tertian fever; and by the power of God and of St. Thomas the sick man is incontinently cured.{3} The earth, I should tell you, is red. A very fine miracle occurred there in the year of Christ, 1288, as I will now relate.
+The Body of Messer St. Thomas the Apostle lies in this province of Maabar at a little town with a small population.
 
-A certain Baron of that country, having great store of a certain kind of corn that is called rice, had filled up with it all the houses that belonged to the church, and stood round about it. The Christian people in charge of the church were much distressed by his having thus stuffed their houses with his rice; the pilgrims too had nowhere to lay their heads; and they often begged the pagan Baron to remove his grain, but he would do nothing of the kind. So one night the Saint himself appeared with a fork in his hand, which he set at the Baron’s throat, saying: “If thou void not my houses, that my pilgrims may have room, thou shalt die an evil death,” and therewithal the Saint pressed him so hard with the fork that he thought himself a dead man. And when morning came he caused all the houses to be voided of his rice, and told everybody what had befallen him at the Saint’s hands. So the Christians were greatly rejoiced at this grand miracle, and rendered thanks to God and to the blessed St. Thomas. Other great miracles do often come to pass there, such as the healing of those who are sick or deformed, or the like, especially such as be Christians.
+’Tis a place where few traders go, because there is very little merchandize to be got there, and it is a place not very accessible.
 
-[The Christians who have charge of the church have a great number of the Indian Nut trees, whereby they get their living; and they pay to one of those brother Kings six groats for each tree every month.[1]]
+Both Christians and Saracens, however, greatly frequent it in pilgrimage.
 
-Now, I will tell you the manner in which the Christian brethren355 who keep the church relate the story of the Saint’s death.
+The Saracens also do hold the Saint in great reverence, and say that he was one of their own Saracens and a great prophet, giving him the title of Avarian or “Holy Man.”
 
-They tell that the Saint was in the wood outside his hermitage saying his prayers; and round about him were many peacocks, for these are more plentiful in that country than anywhere else. And one of the Idolaters of that country being of the lineage of those called Govi that I told you of, having gone with his bow and arrows to shoot peafowl, not seeing the Saint, let fly an arrow at one of the peacocks; and this arrow struck the holy man in the right side, insomuch that he died of the wound, sweetly addressing himself to his Creator. Before he came to that place where he thus died he had been in Nubia, where he converted much people to the faith of Jesus Christ.{4}
+The Christians who go thither in pilgrimage take of the earth from the place where the Saint was killed, and give a portion thereof to any one who is sick of a quartan or a tertian fever.
 
-The children that are born here are black enough, but the blacker they be the more they are thought of; wherefore from the day of their birth their parents do rub them every week with oil of sesamé, so that they become as black as devils. Moreover, they make their gods black and their devils white, and the images of their saints they do paint black all over.{5}
+By the power of God and of St. Thomas the sick man is incontinently cured.{3} The earth, I should tell you, is red. A very fine miracle occurred there in 1288.
 
-They have such faith in the ox, and hold it for a thing so holy, that when they go to the wars they take of the hair of the wild-ox, whereof I have elsewhere spoken, and wear it tied to the necks of their horses; or, if serving on foot, they hang this hair to their shields, or attach it to their own hair. And so this hair bears a high price, since without it nobody goes to the wars in any good heart. For they believe that any one who has it shall come scatheless out of battle.{6}
+A certain Baron of that country had a lot of rice.
+
+He had filled up with it all the houses that belonged to the church, and stood round about it. 
+
+The Christian people in charge of the church were much distressed by his having thus stuffed their houses with his rice.
+
+The pilgrims too had nowhere to lay their heads; and they often begged the pagan Baron to remove his grain, but he would do nothing of the kind. 
+
+So one night the Saint himself appeared with a fork in his hand, which he set at the Baron’s throat, saying: “If thou void not my houses, that my pilgrims may have room, thou shalt die an evil death,”.
+
+Therewithal the Saint pressed him so hard with the fork that he thought himself a dead man. And when morning came he caused all the houses to be voided of his rice, and told everybody what had befallen him at the Saint’s hands. 
+
+So the Christians were greatly rejoiced at this grand miracle, and rendered thanks to God and to the blessed St. Thomas. 
+
+Other great miracles do often come to pass there, such as the healing of those who are sick or deformed, or the like, especially such as be Christians.
+
+The Christians who have charge of the church have a great number of the Indian Nut trees, whereby they get their living; and they pay to one of those brother Kings six groats for each tree every month.
+
+How did the Saint die?
+
+They say that the Saint was in the wood outside his hermitage saying his prayers.
+
+Around him were many peacocks, for these are more plentiful in that country than anywhere else. 
+
+And one of the Idolaters of that country being of the lineage of those called Govi that I told you of, having gone with his bow and arrows to shoot peafowl, not seeing the Saint, let fly an arrow at one of the peacocks.
+
+This arrow struck the holy man in the right side, insomuch that he died of the wound, sweetly addressing himself to his Creator. 
+
+Before he came to that place where he thus died he had been in Nubia, where he converted much people to the faith of Jesus Christ.
+
+The children that are born here are black enough, but the blacker they be the more they are thought of; wherefore from the day of their birth their parents do rub them every week with oil of sesamé, so that they become as black as devils.
+
+Moreover, they make their gods black and their devils white, and the images of their saints they do paint black all over.
+
+They have such faith in the ox, and hold it for a thing so holy, that when they go to the wars they take of the hair of the wild-ox, whereof I have elsewhere spoken, and wear it tied to the necks of their horses; or, if serving on foot, they hang this hair to their shields, or attach it to their own hair.
+
+And so this hair bears a high price, since without it nobody goes to the wars in any good heart. For they believe that any one who has it shall come scatheless out of battle.
 
 
 
@@ -72,8 +108,12 @@ They eat not from bowls or trenchers, but put their victuals on leaves of the Ap
 
 They would not kill an animal on any account, not even a fly, or a flea, or a louse,{7} or anything in fact that has life; for they say these have all souls, and it would be sin to do so. They eat no vegetable in a green state, only such as are dry. And they sleep on the ground stark naked, without a scrap of clothing on them or under them, so that it is a marvel they don’t all die, in place of living so long as I have told you. They fast every day in the year, and drink nought but water. And when a novice has to be received among them they keep him awhile in their convent, and make him follow their rule of life. And then, when they desire to put him to the test, they send for some of those girls who are devoted to the Idols, and make them try the continence of the novice with their blandishments. If he remains indifferent they retain him, but if he shows any emotion they expel him from their society. For they say they will have no man of loose desires among them.
 
-They are such cruel and perfidious Idolaters that it is very devilry! They say that they burn the bodies of the dead, because if they were not burnt worms would be bred which would eat the body; and when no more food remained for them these worms would die, and the367 soul belonging to that body would bear the sin and the punishment of their death. And that is why they burn their dead!
+They are such cruel and perfidious Idolaters that it is very devilry! 
 
-Now I have told you about a great part of the people of the great Province of Maabar and their customs; but I have still other things to tell of this same Province of Maabar, so I will speak of a city thereof which is called Cail.
+They say they burn the bodies of the dead, because if they were not burnt worms would be bred which would eat the body. 
 
+When no more food remained for them these worms would die, and the367 soul belonging to that body would bear the sin and the punishment of their death.
 
+That is why they burn their dead!
+
+<!-- Now I have told you about a great part of the people of the great Province of Maabar and their customs; but I have still other things to tell of this same Province of Maabar, so I will speak of a city thereof which is called Cail. -->

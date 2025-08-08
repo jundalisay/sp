@@ -1,3 +1,13 @@
+---
+heading: Chapter 24
+title: "The Kingdom of Eli"
+description: ""
+a: "Marco Polo"
+c: "darkslategray"
+weight: 28
+---
+
+
 ## CHAPTER 24. The Kingdom of Eli
 
 Eli is a kingdom towards the west, about 300 miles from Comari.

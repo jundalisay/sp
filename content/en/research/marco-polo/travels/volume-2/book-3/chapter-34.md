@@ -4,11 +4,11 @@ title: "The Island of Zanghibar"
 description: ""
 a: "Marco Polo"
 c: "darkslategray"
-weight: 4
+weight: 32
 ---
 
 
-### A Word on India in General
+## A Word on India in General
 
 Zanghibar is a great and noble Island, with a compass of some 2000 miles.
 

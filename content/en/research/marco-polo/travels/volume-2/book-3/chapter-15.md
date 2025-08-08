@@ -4,7 +4,7 @@ title: "The History of Sagamoni Borcan [Shakyamuni Buddha]"
 description: ""
 a: "Marco Polo"
 c: "darkslategray"
-weight: 14
+weight: 18
 ---
 
 

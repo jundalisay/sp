@@ -1,7 +1,6 @@
 ---
 heading: "Parts 36"
 title: "The Mood of the Earth"
-# heading: "Chapter 1"
 description: "I see that in accordance with aspects do exist other dispositions, stronger and of longer duration, which cause for instance a big humidity and cold during some period of lack of aspects, may it be the whole year"
 c: "darkgoldenrod"
 weight: 2
@@ -9,24 +8,35 @@ contributors: ['Kepler']
 icon: "Kepler"
 ---
 
+<!-- The situation mentioned above can help us to understand another fact, the cause of which was not known before, and the ignorance of this cause may hinder astrological predictions.  -->
 
 
-{{< s v="45" >}}  The situation mentioned above can help us to understand another fact, the cause of which was not known before, and the ignorance of this cause may hinder astrological predictions. 
 
-There are periods of such a humid disposition in a man that cause bad mood without evident reason, when nothing pleasant can help him to escape from sad thoughts.
+{{< s v="45" >}} A man can have the same humid disposition to cause bad moods without evident reason, when nothing pleasant can help him to escape from sad thoughts.
 
-On the contrary, there are periods when a man is happy even without music. 
+On the contrary, there are periods when a man is happy even without music.* 
 
-Similarly, I see that in accordance with aspects do exist other dispositions, stronger and of longer duration, which cause for instance a big humidity and cold during some period of lack of aspects, may it be the whole year. 
+{{< n n="The 'aspect' is the trigger. The humidity is the environment or latent energy" >}}
 
-In such a year, we can observe that when even the slightest aspects occur, they provoke abundance of rains and cold, as it happened this year, 1601.
+Other dispositions correlate with aspects. 
 
-On the contrary, during another year such a drought may happen, that in days when aspects occur, only a small clouds or fume appear instead of vapour, as it was in 1599.
+For example, this entire year 1601 had a lot of humidity from the lack of aspects.
+- The slightest aspects happened which created a lot of rains and cold. 
+
+On the contrary, 1599 was not humid.
+- When aspects happened, only small clouds appeared instead of vapour.
+- This led to a drought. 
 
 
-{{< s v="46" >}}  I refrain from reflections upon the issue, what kind of manifestations of diversities come from eclipses of Sun and Moon. 
+{{< s v="46" >}}  What kind of manifestations of diversities come from eclipses of Sun and Moon?
 
-It could be, that the same vital capability or the soul of Earth, which I already mentioned many times, is strongly disturbed by the sudden loss of light, and that it is exposed to the influence of long duration, which Theophrast, who never made things up, probably have felt. If you decide to reject all physical causes and toassign this regular natural occurence to extraordinary God´s providence, you will not be able to explain, why eclipses are so foreboding.
+I refrain from reflections on this.
+
+It is possible that the same vital capability or the soul of Earth is strongly disturbed by the sudden loss of light.
+
+ and that it is exposed to the influence of long duration, which Theophrast, who never made things up, probably have felt. 
+
+If you decide to reject all physical causes and toassign this regular natural occurence to extraordinary God´s providence, you will not be able to explain, why eclipses are so foreboding.
 
 Paracelsus (born Philippus Aureolus Theophrastus Bombastus von Hohenheim, 1493-1541)
 

@@ -1,10 +1,9 @@
 ---
-heading: "Parts 22"
+heading: "Part 3"
 title: "The Five Planets"
-# heading: "Chapter 1"
 description: "A mathematician's job is to write annual forecasts"
 c: "darkgoldenrod"
-weight: 2
+weight: 8
 contributors: ['Kepler']
 icon: "Kepler"
 ---

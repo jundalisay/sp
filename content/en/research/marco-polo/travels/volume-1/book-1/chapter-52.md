@@ -28,14 +28,24 @@ All the Grand Kaans, and all the descendants of Chinghis their first Lord, are c
 
 Wheresoever the Sovereign may die, he is carried to his burial in that mountain with his predecessors; no matter an the place of his death were 100 days’ journey distant, thither must he be carried to his burial.{3}
 
-Let me tell you a strange thing too. When they are carrying the body of any Emperor to be buried with the others, the convoy that goes with the body doth put to the sword all whom they fall in with on the road, saying: “Go and wait upon your Lord in the other world!” For they do in sooth believe that all such as they slay in this manner do go to serve their Lord in the other world. They do the same too with horses; for when the Emperor dies, they kill all his best horses, in order that he may have the use of them in the other world, as they believe. And I tell you as a certain truth, that when Mongou Kaan died, more than 20,000 persons, who chanced to meet the body on its way, were slain in the manner I have told.{4}
+Let me tell you a strange thing too. When they are carrying the body of any Emperor to be buried with the others, the convoy that goes with the body doth put to the sword all whom they fall in with on the road, saying: “Go and wait upon your Lord in the other world!” 
+
+They believe that all such as they slay in this manner do go to serve their Lord in the other world. They do the same too with horses; for when the Emperor dies, they kill all his best horses, in order that he may have the use of them in the other world, as they believe. 
+
+When Mongou Kaan died, more than 20,000 persons, who chanced to meet the body on its way, were slain in the manner I have told.
 
 
 ## CHAPTER 52. The Customs of the Tartars.
 
-Now that we have begun to speak of the Tartars, I have plenty to tell you on that subject. The Tartar custom is to spend the winter in warm plains, where they find good pasture for their cattle, whilst in summer they betake themselves to a cool climate among the 252mountains and valleys, where water is to be found as well as woods and pastures.
+The Tartar custom is to spend the winter in warm plains, where they find good pasture for their cattle, whilst in summer they betake themselves to a cool climate among the mountains and valleys, where water is to be found as well as woods and pastures.
 
-Their houses are circular, and are made of wands covered with felts.{1} These are carried along with them whithersoever they go; for the wands are so strongly bound together, and likewise so well combined, that the frame can be made very light. Whenever they erect these huts the door is always to the south. They also have waggons covered with black felt so efficaciously that no rain can get in. These are drawn by oxen and camels, and the women and children travel in them.{2} The women do the buying and selling, and whatever is necessary to provide for the husband and household; for the men all lead the life of gentlemen, troubling themselves about nothing but hunting and hawking, and looking after their goshawks and falcons, unless it be the practice of warlike exercises.
+Their houses are circular, and are made of wands covered with felts.
+
+These are carried along with them whithersoever they go; for the wands are so strongly bound together, and likewise so well combined, that the frame can be made very light. Whenever they erect these huts the door is always to the south. 
+
+They also have waggons covered with black felt so efficaciously that no rain can get in. These are drawn by oxen and camels, and the women and children travel in them.
+
+The women do the buying and selling, and whatever is necessary to provide for the husband and household; for the men all lead the life of gentlemen, troubling themselves about nothing but hunting and hawking, and looking after their goshawks and falcons, unless it be the practice of warlike exercises.
 
 They live on the milk and meat which their herds supply, and on the produce of the chase; and they eat all kinds of flesh, including that of horses and dogs, and Pharaoh’s rats, of which last there are great numbers in burrows on those plains.{3} Their drink is mare’s milk.
 

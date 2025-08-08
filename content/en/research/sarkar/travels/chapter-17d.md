@@ -14,13 +14,16 @@ Prabhat Sangiit were His " Songs of the New Dawn". He usually composed a few dai
 
 He interrupted everyone to speak to me. Pointing to His throat, he said, "While singing, you should keep your mind concentrated here." 
 
-I was surprised because when I was a child our singing teacher instructed us to project from the chest. Perhaps it is because Baba is more interested in the beauty of the sound than the volume of the voice. Or perhaps He meant that psychic concentration is on the throat chakra, but physical projection should be from the chest and lungs. 
+I was surprised because when I was a child our singing teacher instructed us to project from the chest. 
 
-A few days earlier He said, "Those who regularly sing kiirtan gradually 
-develop a sweet and melodious voice." Is the reason simply practice, or is it (as 
-I believe) because the kiirtan singer is not trying to impress anyone—only to 
-serenade God? 
+Perhaps it is because Baba is more interested in the beauty of the sound than the volume of the voice. 
 
+Or perhaps He meant that psychic concentration is on the throat chakra, but physical projection should be from the chest and lungs. 
+
+A few days earlier He said, "Those who regularly sing kiirtan gradually  develop a sweet and melodious voice." 
+
+<!-- Is the reason simply practice, or is it (as  I believe) because the kiirtan singer is not trying to impress anyone—only to 
+serenade God?  -->
 
 
 ### Luminous beings 

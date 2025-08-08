@@ -1,11 +1,23 @@
+---
+heading: "Part 7"
+title: "Eclipse Forecasts"
+description: "Central annular eclipse of the Sun at New Moon, 12/24/1601, 02°CAP54´07´´"
+c: "darkgoldenrod"
+weight: 2
+contributors: ['Kepler']
+icon: "Kepler"
+---
 
 
 {{< s v="63" >}} I left out configurations between Moon and other planets for reason I stated above. 
 
-Nevertheless, we cannot leave out neither her ecliptical meetings with the Sun before the beginning of
-the year, nor two ecliptical Full Moons on opposite sides of the sky.
+Nevertheless, we cannot leave out:
+- her ecliptical meetings with the Sun before the beginning of the year
+- 2 ecliptical Full Moons on opposite sides of the sky.
 
-Oone at 17°GEM48´ which will start in the afternoon on December 9, at 5 hours 7 minutes, and will end at 8 hours 33 minutes, if observed in Prague. 
+One at 17°GEM48´ which will:
+- start in the afternoon on December 9, at 5 hours 7 minutes
+- end at 8 hours 33 minutes, if observed in Prague. 
 
 It is very close to the calculation which had been made by Tycho.
 
@@ -13,24 +25,29 @@ Central annular eclipse of the Sun at New Moon, 12/24/1601, 02°CAP54´07´´
 
 Eclipse at Full Moon 12/09/1601 18:56:23 Moon 17°GEM52´47´´ and Sun in opposition in SAG
 
-Another eclipse of the Moon will occur on June 4, 1602, on 13°SAG32´. It will start below horizon at 4 hours 52
-minutes after noon and it will end at 9 hours 6 minutes in the evening.
+Another eclipse of the Moon will occur on June 4, 1602, on 13°SAG32´. 
 
-Eclipse at Full Moon 06/04/1602 19:17:00 Moon 13°SAG39´28´´ and Sun in opposition in GEM Eclipse of the Sun on December 24, as I calculated it, will start at 1 hour 17 minutes after noon and will end at 2 hours 42 minutes on 2°CAP53´, 10 grades above horizon, before the sunset. 
+It will start below horizon at 4 hours 52 minutes after noon and it will end at 9 hours 6 minutes in the evening.
+
+Eclipse at Full Moon 06/04/1602 19:17:00 Moon 13°SAG39´28´´ and Sun in opposition in GEM Eclipse of the Sun on December 24, as I calculated it, will:
+- start at 1 hour 17 minutes afternoon
+- end at 2 hours 42 minutes on 2°CAP53´, 10 grades above horizon, before the sunset. 
 
 This eclipse is very remarkable.
 
-Should the eclipses were able to influence something, then this one will have a great impact, mostly in northern
-regions, where it will also be best observable.
+If the eclipses can influence something, then this one will have a great impact mostly in northern regions, where it will also be best observable.
 
 The eclipse was noticeable in northern latitudes from 47N52 to 59N48
 
 I do not know if and how the effect would show up in forthcoming year. 
 
-According to the rules of Ptolemy, the effects are uncertain and not quite corresponding with nature. In 1598, there was total
-eclipse in Pisces. As the Sun was in September in opposite sign Virgo, there were abundant rains. 
+According to the rules of Ptolemy, the effects are uncertain and not quite corresponding with nature. 
 
-In 1600, there was an eclipse in Cancer. When the Sun enters the signs of Gemini and Cancer during eclipse, the weather will be wet not only at that time, but during the whole summer. 
+In 1598, there was total eclipse in Pisces. As the Sun was in September in opposite sign Virgo, there were abundant rains. 
+
+In 1600, there was an eclipse in Cancer. 
+
+When the Sun enters the signs of Gemini and Cancer during eclipse, the weather will be wet not only at that time, but during the whole summer. 
 
 Experts in those occurences can validate whether the considerations go ahead in correct direction, if I reject the forecast from this eclipse for December 1602 and the whole winter, and deduce from signs very cold weather. 
 

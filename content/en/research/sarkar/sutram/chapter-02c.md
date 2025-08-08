@@ -60,7 +60,10 @@ bhútasaungharśaspandanaḿ tanmátram. -->
 
 The internal and external pressures create stirrings in the object-bodies.
 
-These reach the different gates of the indriyas [organs] of the unit-body as waves flowing through the media of subtler bodies.
+These reach the different gates of the indriyas [organs] of the unit-body as waves flowing through the media of subtler bodies*.
+
+{{< n n="In Cartesian Physics, this is the 2nd Element" >}}
+
 
 These waves flow from those gates of organs through different nerves or with the help of internal secretions thereof, reach particular appropriative points of the brain. 
 
@@ -128,9 +131,13 @@ These react to the waves of the quantum-perceptions.
 
 These get vibrated by those waves
 
-4. The appropriative piit́has (seats) of the organs (in the brain)
+4. The appropriative piit́has* (seats) of the organs (in the brain)
+
+{{< n n="These are the centers of chakras" >}}
 
 These conjoin the waves with the mind-stuff.  
+
+
 
 <!-- Dvárah nád́iirasah piit́hátmakáni indriyáńi. -->
 
