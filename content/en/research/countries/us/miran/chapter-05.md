@@ -9,7 +9,7 @@ c: "firebrick"
 ---
 
 
-26 https://www.bloomberg.com/news/articles/2024-07-19/trump-welcomes-china-to-build-cars-in-us-in-departure-from-biden
+<!-- 26 https://www.bloomberg.com/news/articles/2024-07-19/trump-welcomes-china-to-build-cars-in-us-in-departure-from-biden -->
 
 
 ## Tariffs Then Dollars or Investments
@@ -109,40 +109,49 @@ Therefore the Administration, in such an approach, is likely to move gradually, 
 Despite any attempts at gradualism, the market may move sharply anyway; the hint of such a policy change could
 induce significant market moves without any need for actually implementing the policy. Such volatility risks spiking long yields as global investors rebalance out of USD assets. 
 
-Without the assistance of the Fed in capping yields,
-or of foreign reserve holders terming out their debt, an Administration has fewer good options for intervention to
-stabilize yields. However, there are still some tricks:
+Without the assistance of the Fed in capping yields, or of foreign reserve holders terming out their debt, an Administration has fewer good options for intervention to stabilize yields. 
 
-1) Activist Treasury Issuance of the type discussed in Miran and Roubini (2024). By shortening the maturity
-profile of its debt, Treasury can reduce supply of duration to offset the increased supply that occurs as a
-result of foreign sales. There are limits and costs to such a policy, as discussed in Miran and Roubini (2024).
-The justification for ATI in this context would be to buffer volatility due to foreign selling.
+However, there are still some tricks:
 
-2) The Exchange Stabilization Fund may be used to help reduce volatility in this instance.
+1. Activist Treasury Issuance of the type discussed in Miran and Roubini (2024).
 
-3) Pursue a parallel policy of deregulation, cheap energy and fiscal consolidation aimed at reducing deficits and
-inflation, which will boost aggregate demand and reduce supply of debt to help offset sales by foreigners.
+By shortening the maturity profile of its debt, Treasury can reduce supply of duration to offset the increased supply that occurs as a result of foreign sales. There are limits and costs to such a policy, as discussed in Miran and Roubini (2024). The justification for ATI in this context would be to buffer volatility due to foreign selling.
+
+2. The Exchange Stabilization Fund may be used to help reduce volatility in this instance.
+
+3. Pursue a parallel policy of deregulation, cheap energy and fiscal consolidation aimed at reducing deficits and inflation, which will boost aggregate demand and reduce supply of debt to help offset sales by foreigners.
+
 Nonfinancial steps to shore up the fundamental attractiveness of UST securities can help.
 
 None of those provides a huge amount of short-term financial power against market volatility, while they may prevail
 over longer periods of time. It is clear that taking this type of unilateral approach is riskier, but it nevertheless is an option if the President decides he wants to pursue changes to the currency markets.
 
-In All Cases
+
+## In All Cases
 
 There are some common consequences across all these possible scenarios, if the Administration pursues any of them.
-First, a much stronger demarcation between friend, foe and neutral trading partner. Friends are inside the security
+
+1. A much stronger demarcation between friend, foe and neutral trading partner. 
+
+Friends are inside the security
 and economic umbrella, but there is more burden sharing. Based on the scope of that burden sharing, friends
 may experience more favorable trade or currency terms. 
 
 Those outside the security umbrella will also find themselves
 outside friendly arrangements for international trade and easy access to the U.S. consumer. They will have more
 aggressive costs imposed on them via tariffs and other policies. There are obvious implications for asset prices.
-Second, the threat of withdrawal of the security umbrella without burden sharing will have its own, potentially volatile, consequences.
+
+2. The threat of withdrawal of the security umbrella without burden sharing will have its own, potentially volatile, consequences.
 
 Will it spur nations around the world to invest more in defense? Will it encourage more aggressive
 action by bad actors against those now outside the defense umbrella? These are significant degrees of uncertainty
 which will permeate markets. Risk premia may rise for assets in countries that now experience greater security risks.
-Third, a structural increase in implied volatility in currency markets. The scope for monumental, once-every-fewdecades level of shifts in policy ought to significantly heighten expectations for volatility.
 
-Fourth, these policies may supercharge efforts of those looking to minimize exposure to the United States. Efforts
-to find alternatives to the dollar and dollar assets will intensify. There remain significant structural challenges with internationalizing the renminbi or inventing any sort of “BRICS currency,” so any such efforts will likely continue to fail, but alternative reserve assets like gold or cryptocurrencies will likely benefit. 
+3. A structural increase in implied volatility in currency markets. 
+
+The scope for monumental, once-every-fewdecades level of shifts in policy ought to significantly heighten expectations for volatility.
+
+
+4. These policies may supercharge efforts of those looking to minimize exposure to the United States. 
+
+Efforts to find alternatives to the dollar and dollar assets will intensify. There remain significant structural challenges with internationalizing the renminbi or inventing any sort of “BRICS currency,” so any such efforts will likely continue to fail, but alternative reserve assets like gold or cryptocurrencies will likely benefit.

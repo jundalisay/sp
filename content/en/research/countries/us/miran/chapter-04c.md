@@ -138,26 +138,14 @@ while allowing lower long rates to support the economy.
 The Fed is likelier to coordinate with Treasury if it is offered the following terms: public support from the President; public acknowledgement from the White House that the intervention would be temporary during the transition period, and not permanent; and political support for its decisions on short rates so that it can still achieve its inflation and employment objectives. Essentially, the Fed will likely require guarantees of its independence to use short rates to achieve its inflation and employment mandates. This combination would effectively set a limit on the yield
 curve, not the absolute level of long rates.
 
-20 This might also help alleviate any concerns about the constitutionality of this measure with respect to the contracts clause.
-21 12 U.S.C. §225(a)
+<!-- 20 This might also help alleviate any concerns about the constitutionality of this measure with respect to the contracts clause.
+21 12 U.S.C. §225(a) -->
 
 
-Three further observations on this strategy are necessary. First if reserve buyers are relatively price inelastic, then
-they may not be incentivized to diversify their holdings out of dollars by reduced yield. In this case, the currency
-may not move much, but the U.S. will save considerable interest expense remunerating these holders. In this way,
-even if the dollar doesn’t adjust to a fairer value, there is improved burden sharing in the form of subsidization of
-the U.S. taxpayer by reserve holders. If UST buyers are inelastic, then the U.S. is overpaying for the public goods it
-provides, and price discrimination can help the United States repcapture value.
+Three further observations on this strategy are necessary. First if reserve buyers are relatively price inelastic, then they may not be incentivized to diversify their holdings out of dollars by reduced yield. In this case, the currency may not move much, but the U.S. will save considerable interest expense remunerating these holders. In this way, even if the dollar doesn’t adjust to a fairer value, there is improved burden sharing in the form of subsidization of the U.S. taxpayer by reserve holders. If UST buyers are inelastic, then the U.S. is overpaying for the public goods it provides, and price discrimination can help the United States repcapture value.
 
-Second, there may be concern that incentivizing too much movement out of dollar reserve assets can limit financial
-extraterritoriality, which President Trump has already emphasized he is determined to preserve, and threatened
-punitive tariffs on nations that stop using the dollar for transactions purposes. Critically, the imposition of a usage
-fee on foreign official Treasury holdings does not interfere with the usage of the dollar in payment systems, only
-in the savings function of reserve assets in the official sector; a country with substantial excess foreign exchange
-reserves can somewhat diminish those reserves without turning to other currencies for facilitating international
-trade. Moreover, this reinforces why it will be important to move slowly and in small steps with such a policy. Treasury
-would want to get a good sense of how its policies affect transactions and financial extraterritoriality before
-taking too much risk with user fees for Treasury holdings, and this argues for gradualism.
+Second, there may be concern that incentivizing too much movement out of dollar reserve assets can limit financial extraterritoriality, which President Trump has already emphasized he is determined to preserve, and threatened punitive tariffs on nations that stop using the dollar for transactions purposes. Critically, the imposition of a usage fee on foreign official Treasury holdings does not interfere with the usage of the dollar in payment systems, only in the savings function of reserve assets in the official sector; a country with substantial excess foreign exchange reserves can somewhat diminish those reserves without turning to other currencies for facilitating international trade. Moreover, this reinforces why it will be important to move slowly and in small steps with such a policy. Treasury would want to get a good sense of how its policies affect transactions and financial extraterritoriality before taking too much risk with user fees for Treasury holdings, and this argues for gradualism.
+
 Finally, it will be important to emphasize that this policy will not be extended to domestic holders of UST securities,
 since there is no currency advantage to doing so, and if the purpose is to raise revenue from interest income, there
 are other, traditional instruments for doing so. IEEPA only authorizes action on transactions involving a foreign

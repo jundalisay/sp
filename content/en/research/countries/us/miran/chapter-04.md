@@ -10,7 +10,8 @@ c: "firebrick"
 
 
 
-16 https://www.spglobal.com/spdji/en/documents/research/sp-500-global-sales-2018.pdf
+<!-- 16 https://www.spglobal.com/spdji/en/documents/research/sp-500-global-sales-2018.pdf -->
+
 
 ## Currency Policy and Risks
 
@@ -59,7 +60,9 @@ It is worth repeating that many of these policies are untried at scale, or haven
 and that this essay is not policy advocacy but an attempt to catalogue the available tools and analyze how useful
 they may be for accomplishing various goals.
 
-Multilateral Currency Approaches
+
+
+## Multilateral Currency Approaches
 
 Historically, multilateral currency accords have been the principal means of implementing intentional changes in the
 value of the dollar. The Plaza Accord of 1985, in which the U.S., France, Germany, Japan and the U.K. coordinated to
@@ -102,11 +105,11 @@ the U.S. provision of a security umbrella to the international financial system,
 interest rates can help finance the security zone. He synthesizes the following Mar-a-Lago Accord from potential
 policymakers’ remarks:
 
-17 https://www.wsj.com/world/china/china-vehicle-sales-rise-further-boosted-by-stimulus-policies-sales-promotions-3452cca1
+<!-- 17 https://www.wsj.com/world/china/china-vehicle-sales-rise-further-boosted-by-stimulus-policies-sales-promotions-3452cca1
 “1) security zones are a public good, and countries on the inside must fund it by buying Treasurys;
 2) security zones are a capital good; they are best funded by century bonds, not short-term bills;
 3) security zones have barbed wires: unless you swap your bills for bonds, tariffs will keep you out.”
-(Poszar, 2024.)
+(Poszar, 2024.) -->
 
 To strengthen their own currencies, reserve managers must sell dollars. As their currencies appreciate, the United
 States will receive a competitiveness advantage helping our tradeable and manufacturing sectors.
@@ -124,11 +127,7 @@ If the term-out is into special century bonds as suggested by Poszar, then the f
 for financing global security is significantly alleviated. The U.S. Treasury can effectively buy duration back from the
 market and replace that borrowing with century bonds sold to the foreign official sector.
 
-Such a Mar-a-Lago Accord gives form to a 21st Century version of a multilateral currency agreement. President
-Trump will want foreigners to help pay for the security zone provided by the United States. A reduction in the value
-of the dollar helps create manufacturing jobs in America and reallocates aggregate demand from the rest of the
-world to the U.S. The term-out of reserve debt helps prevent financial market volatility and the economic damage
-that would ensue. Multiple goals are accomplished with one agreement.
+Such a Mar-a-Lago Accord gives form to a 21st Century version of a multilateral currency agreement. President Trump will want foreigners to help pay for the security zone provided by the United States. A reduction in the value of the dollar helps create manufacturing jobs in America and reallocates aggregate demand from the rest of the world to the U.S. The term-out of reserve debt helps prevent financial market volatility and the economic damage that would ensue. Multiple goals are accomplished with one agreement.
 
 But the term-out of reserve debt shifts interest rate risk from the U.S. taxpayer to foreign taxpayers. 
 
@@ -136,7 +135,9 @@ How can the U.S. get trading and security partners to agree to such a deal?
 
 1. There is the stick of tariffs.
 2. There is the carrot of the defense umbrella and the risk of losing it.
-3. There are ample central bank tools available to help provide liquidity in the face of higher interest rate risk. Ex ante, there were also numerous doubts and questions about Trump’s ability to secure improved trade terms from Mexico and Canada, Korea, and China, and yet he succeeded.
+3. There are ample central bank tools available to help provide liquidity in the face of higher interest rate risk. 
+
+Ex ante, there were also numerous doubts and questions about Trump’s ability to secure improved trade terms from Mexico and Canada, Korea, and China, and yet he succeeded.
 
 Recall that the purpose of official sector currency reserves is to defend the value of the currency in the face of market volatility and finance imports in a potential crisis. The reason reserve managers tend to keep duration risk low is because they need to be able to liquidate reserves to defend their own currencies when volatility spikes. 
 
@@ -159,4 +160,3 @@ trading partners bear an increased share of the burden of financing global secur
 be via a weaker dollar reallocating aggregate demand to the United States and a reallocation of interest rate risk
 from U.S. taxpayers to foreign taxpayers. It would also more clearly demarcate the lines of the American defense
 umbrella, removing some uncertainty around who is or is not eligible for protection.
-
