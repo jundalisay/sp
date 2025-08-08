@@ -54,9 +54,13 @@ This plane will help us plot and understand the timespace concept of the Spatial
 
 ### How We Got It
 
-We cam up with this plane after going through the works of Timeaus and Pythagoras on the Platonic shapes. It is easy to notice that these are abstract metaphysical shapes and not physical ones. 
+We came up with this plane after going through the works of Timeaus and Pythagoras on the Platonic shapes. 
 
-Then we saw the bagua of Taoism and the mandala of Hinduism and realized that polar coordinates were the best way to visualize the spaceless and timeless aether.   
+It is easy to notice that these are abstract metaphysical shapes and not physical ones. 
+
+Then we saw the *bagua* of Taoism and the mandala of Hinduism and realized that polar coordinates were the best way to visualize the spaceless and timeless aether.   
+
+{{< i s="/graphics/meta/bagua.png" a="Ba Gua" c="The Ba Gua has 8 sections each with 3 parts, matching our 8 dimensions and 3 gunas or sublayers" >}}
 
 
 ## The Aethereal Internal Boundary
