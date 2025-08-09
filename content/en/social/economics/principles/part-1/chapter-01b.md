@@ -72,7 +72,7 @@ Maslow's hierarchy of needs gives more importance to physical needs and gives ve
 
 The great big problem with this method is that the metaphysical dimension controls the physical dimension. This is evident in the maxim "Mentality creates Reality".
 
-{{< q a="Hume" c="Treatise of Human Nature, Book 1, Part 2, Section 2" >}}
+{{< q a="David Hume" c="Treatise of Human Nature, Book 1, Part 2, Section 2" >}}
 It is an established maxim in metaphysics, that whatever the mind clearly conceives, includes the idea of possible existence.
 {{< /q  >}}
 
@@ -105,5 +105,3 @@ The karma of profit maximization is the volatility in prices. This is because ev
 This volatility is unacceptable if we want to create a better system that is more stable, sustainable, and non-fatal.
 
 To create such a system, we will introduce the concept of dharma in the next subchapter.
-
-

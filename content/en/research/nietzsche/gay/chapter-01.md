@@ -3,7 +3,7 @@ title: "The teachers of the purpose of existence"
 description: ""
 c: "darkslategray"
 weight: 150
-a: "Nietzsche"
+a: "Zarathustra"
 draft: true
 # date: 2022-05-18
 ---
