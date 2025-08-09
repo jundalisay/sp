@@ -32,10 +32,10 @@ Chapter | Archetype | Description
 Chapter | Topic
 --- | ---
 1 | Nominal Price
-1b | Fellow-feeling: The society organism group feeling
-1c | consumption motive
-2 | Demand Power: maslow needs vs supereconomic needs
-2b | marginal utility vs minimum needs
+1b | Fellow-feeling: Common economic interest
+1c | Consumption motive
+2 | utility and maslow needs vs supereconomic needs 
+2b | Demand Power: minimum needs
 3 | stores of value: money and non money, grains as stores of value 
 3b | grain based valuation as pointization BPR
 3c | time value of money vs time value of life

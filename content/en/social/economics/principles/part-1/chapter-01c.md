@@ -1,174 +1,115 @@
 ---
 heading: "Chapter 1c"
 linkTitle: Chapter 1c
-title: "Svadharma as Alternative to Selfish Interest"
-date: 2015-08-20
-# date: 2022-08-29
-weight: 12
-image: /photos/meta/buddhism.jpg
-description : "we replace selfish-interest with self-purpose in order to focus on the end goal"
+title: "The Consumption Motive"
+date: 2020-04-07
+# date: 2022-08-22
+weight: 9
+image: /photos/social/family.jpg
+description: "The Consumption Motive is the opposite of the Production Motive advocated by Capitalism and Mercantilism"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
 ---
 
 
-### Fixing Materialism
+The previous section explained that fellow economic feeling or common economic interest is the glue that:
+- keeps an economy together
+- prevents buyers from stealing from sellers by not paying
+- prevents sellers from running away from buyers after taking their money
 
-The previous subchapter revealed that the cause of instability of economic systems is the focus on material pleasures as utility. 
+But who is more important -- the seller or the buyer?
 
-This is caused by the Western hierarchy of needs which gave the most importance to physical needs over the metaphysical ones such as mental and spiritual. 
+- In Economics, the supplier is more important since they make money, while buyers merely spend money. 
+- In Supereconomics, money is not important and so the importance goes to the buyer.
 
-We solve this instability by flipping the temporal order of Maslow's hierarchy of needs. Instead of physiological needs being first, we start with self-actualization. 
+An easy proof is that a business that sells a product that no one wants will not be able to stay in business. 
 
-Our basis is David Hume saying that mentality creates reality:
+Economists counter this by saying that it is the entrepreneurs that make the needed goods and services. 
 
-{{< q a="Hume" >}}
-It is an established maxim in metaphysics, that whatever the mind clearly conceives, includes the idea of possible existence, or in other words, nothing we imagine is absolutely impossible.
-<cite>A Treatise of Human Nature, Book 1, Part 2, Section 2</cite>
+But still Supereconomics counters this by saying that those entrepreneurs do what they do for the buyers and customers. 
+
+
+
+## The Consumer is King
+
+We call the emphasis on the buyer, demander, or consumer as the **consumption or demand motive**. 
+
+This is opposite of the production or supply motive which emphasizes the suppliers.  
+
+{{< q a="Adam Smith" c="The Wealth Of Nations Book 4, Chapter 8" >}}
+Consumption is the sole end and purpose of all production. The interest of the producer ought to be attended to only so far as it may be necessary for promoting that of the consumer. **The maxim is so perfectly self-evident that it would be absurd to attempt to prove it.** But in the mercantile system the interest of the consumer is almost constantly sacrificed to that of the producer. It considers production, and not consumption, as the ultimate end and object of all industry and commerce.
 {{< /q >}}
 
 
-### Fixing Selfishness
+This is easily seen in the concept of the human family which is the smallest and most common type of society. We see parents work to provide or produce food for their children who are their consumers. 
 
-Giving importance to metaphysical needs solves materialism. 
+Humans do this by instinct because this is how our species has evolved to be so advanced over animals.
 
-However, a person might still stay selfish. 
-- He might use all his time and effort for himself, instead of connecting to society. 
-
-To fix this, we replace selfish-interest with self-purpose in order to focus on the end goal.
-- If the end is agreeable, then the means must be agreeable too (Hume, Book 3). 
+{{< img src="/photos/social/family.jpg" alt="Happy Family" cap="The human species continues its lineage through the children" >}}
 
 
-<!-- Utility is based on selfishness
-
-This metaphysical starting point is called the idea of the self. 
-- The path taken by the self is then ruled by its interest as 'self-interest' which is an ambiguous word. 
-- One may be 'interested' in pursuing material pleasures or in achieving spiritual goals. Western authors solve this by specifying an enlightened self-interest, as opposed to the ordinary one. 
-
-But the word 'enlightened' is also unclear.
-- Is stealing $1 more enlightened than stealing $1,000? 
-- Is destroying a forest to build houses for the poor less enlightened than preserving it to reduce CO2 and global warming? -->
-
-<!-- To get rid of this ambiguity, we change the word 'interest' into 'purpose'   -->
+<!-- This means that there were proto-humans that did not have the same mentality to provide for their children and so naturally became extinct. For example, they might have done the opposite and have eaten their children as a food source just like some animals species. -->
 
 
-For example, a banker's purpose in life is to do banking. 
+## In Neoclassical Economics, the Supplier is King
 
-But we cannot say that a bank robber's life-purpose is to rob banks. This is because if all banks stopped existing then the bank-robber would also not have any purpose in life.
+The maxim that the parents must provide for the children is the opposite of the current maxim of Economics of Say's Law which states that production* is the root of all economic activity and is the source of demand. 
 
-<!-- - Who would ever honestly say that his soul exists on Earth to rob banks?  -->
-
- <!-- since everyone feels that robbing is wrong and therefore cannot be a life goal. -->
-
-Stealing might be a life goal of other animal species. But it would result in them having a flat hierarchy of needs.
-
-
-{{< i s="/graphics/econ/safety.jpg" a="A flat hierarchy of needs" c="Animals have a flat hierarchy of needs representing the lower chakras" >}}
-
-If Bitcoin price is rising fast, then under Economics, you should buy it or be left out. 
-- But in Supereconomics, only the crypto-trader should buy it because his life purpose is to trade crypto. 
-- In this way, a Bitcoin crash will only affect the universe of crypto-traders and not everyone.
-
-
-
-### The Supereconomic Hierarchy of Needs Based on Svadharma
-
-This self-purpose is called *svadharma* in the Bhagavad-Gita. 
-
-{{< q a="Krishna" c="Bhagavad Gita, Chapter 3, Verse 35" >}}
-It is better to do one's own duty, even he fails to succeed in doing the duty of another. It is better to die performing one's duty, than to do another's duty with fear. 
+{{< q a="Jean Baptiste Say" c="Book 1, Chapter 15" >}}
+The encouragement of mere consumption is no benefit to commerce because the difficulty is in supplying the means, not in stimulating the desire of consumption. Production alone furnishes those means. Thus, **good governments stimulate production, bad governments encourage consumption**.
 {{< /q >}}
 
-This self-purpose is in the top of the Supereconomic hierarchy of needs.
-- The upper parts of the pyramid represent the metaphysical needs of the soul 
-- The lower parts of the pyramid represent the material needs of the physical body
+
+The maxim of Economics is similar to a family that makes the children serve the parents instead of the parents serve their children.
+
+<!-- This propensity is rooted in ego and is seen in the animal nature of survival of the fittest or those who can produce the most. It's common to hear that investment bankers (the ones that fund production) being called wolves, as in 'The Wolf of Wall Street'.  -->
+
+Smith very clearly explains that such a Production Motive is a mercantile sophistry:
+
+{{< q a="Adam Smith" c="The Wealth Of Nations Book 4, Chapter 3" >}}
+By such maxims as these, nations have been taught that their interest consisted in beggaring all their neighbours. Each nation has been made to look with an invidious eye on the prosperity of the nations with which it trades, and to consider their gain as its own loss. Commerce, which should naturally be, among nations, as among individuals, a bond of union and friendship, has become the most fertile source of discord and animosity.. But the mean rapacity, monopolizing spirit of **merchants and manufacturers, who neither are, nor should be, the rulers of mankind**, may very easily be prevented.
+{{< /q >}}
 
 
-The focus of the soul goes down the pyramid as it addresses the needs of the soul and body. 
-- What it cannot get by itself, it tries to get through others.
-
-This it does by offering what it can, based on its skills, abilities, and personal qualities.
-
-{{< img src="/graphics/econ/materialistic.jpg" alt="Supereconomic network and hierarchy of needs" cap="Our Supereconomic network of needs starts with the metaphysical center that branches out and downwards into physical needs. The core of this metaphysical center is The Tao or svadharma of that discrete entity. The person then goes outwards to meet other people to satify his or her material and metaphysical needs." >}}
+Supereconomics strives to "very easily" prevent the domination of merchants and manufacturers through a moneyless system using barter credits. 
 
 
-- A materialistic society only caters to the material needs. It might have an abundance of material goods for sale, ecommerce, cryptocurrencies. But it is deficient in spritual ideology or even cultural practices. 
-- A spiritual society has strong spritual ideology and rich traditional culture. But it might be materially backward.
-- An ideal society is one that can satisfy all the hierarchal needs of every human, neglecting neither materiality nor spirituality.
+<!-- ## Economics vs Supereconomics
+
+These differing paradigms can lead to different supply curves and business behaviour: -->
+
+<!-- Of Marshall, Keynes, Samuelson, Jevons Of Smith, Hume, Socrates, Lao Tzu -->
+<!-- _ | Economics | Supereconomics 
+--- | --- | ---
+Competition |  Either cut-throat competition or monopoly | Friendly competition with natural moral limits
+_ | ![Auction](https://socioecons.files.wordpress.com/2015/04/auction-bid.jpg) | ![Market](https://socioecons.files.wordpress.com/2015/04/flea-market.jpg)
+Supply | Big suppliers can cut supply to achieve shortage and high prices, or build demand for unnecessary products | Supply is generated depending on real needs
+Economic Power | Sellers have more economic power. Buyers have no choice of sellers but instead must compete with each other | Buyers have more economic power. Buyers can choose the seller they like
+Success Metric | The success of the producers is the measure of the economy's success, as Gross Domestic Product | The success of the people to buy what they need and want is the measure of the economy's success, as Purchasing Power
+Social View | Human creatures are customers and sellers of each other, isolated by ego, connected by money | Human creatures are friends and family of each other, connected naturally by morals and virtue -->
 
 
-<!-- In this way, the entity is not made subservient to the lower material layer.
-- This helps it keep its stability amidst the onslaught of material perceptions.  -->
+<!-- .<br> Suppliers also have an interest in building demand<br> for expensive but useless products such as the Apple Watch,<br> leading to over-exploitation of natural resources.<br> Small companies have difficulty in entering.</td>
+          <td>Downward sloping supply curve as people want<br> "to buy whatever they want of those who sell it cheapest".<br> Businesses will less likely attempt to create useless products or<br> those that cannot be sustainably produced because of limited resources.<br> Small companies can easily enter because of the bond of friendship</td> -->
 
 
-{{< youtube ovpsuyRanw8 >}}
-
-{{< cap >}}
-Monkeys (from where the human species came) are curious about objects and have been known to steal and run away with material objects. Thus, we can call humans that act as such as monkeys
-{{< /cap >}}
+{{< q a="Adam Smith" >}}
+Without a doubt, it was the spirit of monopoly which originally invented and propagated this doctrine. Those who first taught it were by no means such fools as those who believed it. In every country, it is always the people’s interest to buy whatever they want the cheapest. This proposition is so very manifest that it is ridiculous to take any pains to prove it. It could never have been questioned had not the sophistry of merchants and manufacturers confounded the common sense of mankind. Their interest is directly opposite of the people’s interest.
+{{< /q >}}
 
 
-<!-- ## Everything has a value because everything has a purpose
-
-The word 'purpose' has more in common with the word 'dharma' than 'interest'. 
-
-Superphysics views existence as being a huge mind or Matrix which the Hindus call the *Brahma*. A thing would only exist in a mind if its Thinker had a purpose for it.
-
-Thus, we can say that everything that you perceive has a purpose. Those that didn't have a purpose never existed or never was perceived by you. 
-
-The specific purpose of every discrete thing or entity is then called *The Tao* or *svadharma* meaning 'own dharma' or own purpose in existence.
-
-The study of this svadharma in economics is a focus of Supereconomics,. 
-
-This purpose is what gives value to everything. 
- 
-In this way, a baker bakes because he feels that his life purpose is to bake and that he could happily spend his whole life baking. 
-- His passion in baking naturally allows him to make excellent bread which gets a nominal price from the viewpoint of the buyers
-
-Therefore, his passion in baking represents:
-- the nominal price to his customers, as the First Law of Value
-- the real price for himself, as the Second Law of Value
-
-If you do what you are passionate about then utility will always be at a maximum and there will be no marginal utility. This is why Supereconomics can do without marginal utility.
-
-
-This focus on svadharma, from the viewpoint of the seller, makes up the Effort Theory of Value which is an essential component of the Second Law of Value.  
-
-In contrast, in Economics, a baker bakes because he is supposed to be chasing the profits as the money from bread sales. To get more money, he logically must:
-- adulterate his goods
-- drive his costs down
-- automate instead of using manual labor
-- raise his sales through marketing.
-
-In other words, the economic baker is not a baker but a merchant masquerading as a baker. More commonly, the baker was brainwashed to become a merchant.
-
-Supereconomics keeps the baker as a baker and the merchant as a merchant. This is to preserve the division of labor in society and put everyone in their proper supereconomic place. -->
+{{< q a="Socrates" c="The Republic By Plato Simplified, Book 8" >}}
+The men of business stoop as they walk. They pretend not to see those whom they have already ruined. They insert their sting—their money—into someone else who is not on his guard against them. They recover the parent amount many times over multiplied into a family of children amounts. And so they make drone and pauper to abound in the State. The evil blazes up like a fire. They could extinguish it by restricting a man's use of his own property and letting everyone enter into voluntary contracts at his own risk. But the men of business will not do this as this will lessen this scandalous money-making.
+{{< /q >}}
 
 
 
-<!-- Eastern philosophy is full of warnings and safeguards against utility and worldly pleasures because the latter ultimately causes bondage within the dualistic universe. 
 
-If existence were a video game, then profits would be the high scores. Materialistic people would find themselves playing over and over again to reach the highest score which has no limits. In such a case, existence itself becomes a trap, tempting people to stay in the game without any time to get permanent rest. -->
+{{< u d="July 2020" u="Economics is best for animalistic humans or those who love to prey on others -- a player who wins big in the stock market does not care that his winnings directly come from the losses and suffering of the losing players. He feels that it's alright to prey on others because he himself is fair game for those players if he loses. Supereconomics, on the other hand, focuses on loans and real goods and services instead of equity and money (the favorite tools of the gambler)." >}}
+
 
 <!-- 
-By following one's path and purpose in life, then humans can better understand how their dualistic world works. So, by replacing utility with self-purpose, Supereconomics not only can help people generate and distribute value among each other, but also increase their chances of understanding the reason for their existence so that they can exist in harmony with everything else that exists. 
+It would be extremely difficult to convince a gambler not to gamble, or a wolf not to be a wolf, especially if his society has moral systems that promote gambling or even wolf-like behavior. 
 
-A key characteristic of a supereconomic implementation or a *supereconomy* therefore is that it gives lower stress in exchange and acquisition of goods or services than that in economic, capitalist, or communist systems. -->
-
-<!-- The Principles of Superphysics* makes its way into the other sciences
-The use of the Tao as the center of the sciences makes it useful in solving the problems in those sciences. 
-
-> *This is neatly packaged into the Four Laws of Value
-
-As you can see, the fallacy of money and utility leading to self-acutalization mirrors the fallacy of using drugs to create happiness and solve depression. Since we proposed to solve economic crises by starting from the metaphysical center and travel to the economic problem, it means that we can also solve psychological and bodily problems by starting with the metaphysical cause or the person's Tao, which we call the G. 
-
-This will then be the job of Medical Superphysics. We can even use it to solve problems in Modern Physics -->
-
-
-{{< dc t="Updates" >}}
-Date | Update
---- | ---
-July 5, 2021 | Harmonized with the Invisible Hand as Superphysics
-{{< /dc >}}
+In the Republic, Socrates explained how societies could easily fall into a "might is right" philosophy. He advocated a modular system of city-states that was to be led by incorruptible Guardians who deploy social contracts that can work even without money. In this way, the Guardians can check against predatory behavior while spurring economic activity. -->

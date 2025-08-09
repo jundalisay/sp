@@ -46,8 +46,10 @@ In other words, although the nominal prices have increased, the ratio of the rea
 {{< s v="17" >}} Labour, therefore, is the only universal and accurate measure of value.
 
 It is the only standard by which we can compare the values of different commodities at all times and places.
-From century to century, wheat is a better measure than silver
-Because a unit of wheat will command more equally a unit of labour than a unit of silver commands labour.
+
+From century to century, wheat is a better measure than silver.
+- This is because a unit of wheat will command more equally a unit of labour than a unit of silver commands labour.
+
 But from year to year silver is better, because each unit of silver will command more equally a unit of labour.
 
 

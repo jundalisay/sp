@@ -1,7 +1,7 @@
 ---
 title: "The Moral Education of Guardians"
 heading: Chapter 3
-weight: 10
+weight: 18
 description: "The guardians should be given proper education in philosophy and gymnastic. The state should censor immoral and untruthful literature and art, and should base their education on God. They should never create true lies"
 c: "steelblue"
 icon: "Socrates"

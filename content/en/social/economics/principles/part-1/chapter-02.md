@@ -1,132 +1,146 @@
 ---
 heading: "Chapter 2"
 linkTitle: Chapter 2
-title: "Resource Mechanisms: Stores of Value"
-date: 2022-08-24
-# date: 2022-08-22
-weight: 14
-image: /photos/objects/money.jpg
-# image: /graphics/econ/resourcemechanism.png
-description: "Economics uses money both as a store of value and tool of trade. Supereconomics uses three tools--money, points, and barter"
+title: "Replacing Marginal Utility with Minimum Needs"
+date: 2025-08-09
+# date: 2015-08-20
+# date: 2022-08-29  The Flaw of Utility Theories
+weight: 10
+image: /graphics/econ/maslow.jpg
+description : "Economics enshrines Utility as the foundation of value, while Supereconomics emphasizes Dharma"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+icon: "Supereconomics"
 ---
 
-<!-- 
-## Non-Commodities 
-### Contracts and Promises 
-### Land Titles
-### Securities 
-### Abstract Points
-# Commodities 
-## Goods and Things
-## Money 
-Money comes from the Latin *moneta* which means mint, which is the act of converting metal into coins. 
-Currency is money that is the current medium of exchange. For example, an online game might use credits as its in-game currency. 
 
-A money becomes legal tender if the government allows it to be used for payments, including the payment of taxes and the settlement of debts.
+## The Doctrine of Utility
 
-#### Fiat Money
-#### Cryptocurrency
-El Salvador is an example of a country that has legalized Bitcoin, making it a legal tender.    
+The lack of fellow feeling in Economics makes it focus on the self and usefulness or "utility" that our selves get, through goods and services.
 
-### Tangible Points -->
+This makes utility-for-the-self the core doctrine in Economics.
+- The aethereal part is the self
+- the material part is the tangible or visible goods and services
 
-In order to facilitate exchanges of goods and services, humans need a tool. 
+This makes Economics materialistic and selfish. This then leads to the producer's motive. 
 
-Historically, the tools for exchange were commodities: 
 
-{{< q a="Adam Smith" c="Wealth of Nations, Book 1, Chapter 4" >}}
-Homer says that the armour of Diomede cost only 9 oxen, and that of Glaucus cost 100 oxen.
+{{< i s="/photos/objects/money.jpg" >}}
 
-The following were the common instrument of commerce:
-- salt in Abyssinia
-- shells in some parts of the coast of India
-- dried cod at Newfoundland- tobacco in Virginia
-- sugar in some of our West India colonies
 
-I am told that to this day, workers in a village in Scotland can carry nails instead of money to the baker's shop or the ale-house.
+In contrast, Supereconomics uses fellow-feeling as its basis.
+
+This reduces its focus on material utility whle increasing its focus on the utility that other people can get. This is consistent with Adam Smith and Socrates seeing excessive riches as dangerous:
+
+
+{{< q a="Adam Smith" c="Theory Of Moral Sentiments, Part 4" >}}
+Power and riches.. are enormous machines that produce a few trifling conveniencies to the body..ready every moment to burst into pieces and crush their unfortunate possessor.. 
 {{< /q >}}
 
 
-These were exchanged based on volume or weight:
+Smith was against having utility as the basis of any economy because utility does not build fellow-feeling and therefore does not build morality. 
 
-{{< q a="Montesquieu" c="Spirit of the Laws, Book 22, Chapter 1">}}
-The following people trade by exchange:
-- savages who have few merchandise
-- civilized nations who have only two or three species.
-
-The caravans of Moors who go to Timbuktu, in the heart of Africa, do not need money. They exchange their salt for gold. The Moor puts his salt in a heap. The Negro puts his gold dust in another. If there is not gold enough, the Moor takes away some of his salt, or the Negro adds more gold, until both parties are agreed..
+{{< q a="Adam Smith" c="Theory Of Moral Sentiments, Part 4" >}}
+It is not this utility which is the principal source of our approbation.. It seems impossible that we would approve of virtue in the same way we approve of a well-made building.. **The sentiment of approbation that arises from the beauty of utility has no reference to the sentiments of others**.
 {{< /q >}}
 
 
-Basing value on weight is really basing it on its material density, since denser bodies are heavier. This is really a quantitative way. 
+In other words, utility or material usefulness is only morally good for the self. When you pursue material things, you only think of yourself and your own needs. 
+
+For example, you might be very hungry and want to eat at an Indian restaurant, but your partner, also very hungry, might want to eat at a Korean restaurant. 
+- If you really wanted to maximize our utility, then you would eat separately.
+- But if you want to maximize your mutual love, then one of you will sacrifice your needs for that of the other.
+
+> When you pursue material things, you only think of yourself and your own needs
+
+According to Adam Smith, humans should think of the needs of others. This mutual feeling would then lead to the wealth of nations through trade. 
 
 
-## Money as a Store of Value
+## Selfishness, Utility, Maslow's Needs
 
-Gradually, as humans became more civilized, they chose precious coins as their tool. The preciousness is the qualitative way. 
+Selfisness leads to a focus on material utility which Maslow enshrined as the "physiological needs". 
 
-Coins standardized the value and prevented fraud:
-
-{{< q a="Adam Smith" >}}
-Mints are institutions exactly of the same nature as the aulnagers and stampmasters of woollen and linen cloth. Through a public stamp, they ascertain the amount and uniform goodness of those commodities when brought to market. 
-
-The first public stamps affixed to precious metals were intended to ascertain the goodness or fineness of the metal.
+{{< q a="Abraham Maslow" >}}
+These physiological needs are the most pre-potent of all needs. In the human being who is missing everything in life in an extreme fashion, it is most likely that the major motivation would be the physiological needs rather than any others. A person who is lacking food, safety, love, and esteem would most probably hunger for food more strongly than for anything else.
 {{< /q >}}
 
 
-<!-- From precious coins, the world moved on to bimetallism, the gold standard, and then fiat money.   -->
+Maslow assumes an uncaring society as the default. This then leads to the lack of food. 
 
-This money system was used by the commercial system and mercantilism.
-- This disrupted native modes of valuation and exchange of using commodities and weights. 
+And so he says that food is most pre-potent of all needs. 
 
-Coinage was later standardized into silver, and augmented by paper bank notes and paper stock certificates. This allowed rapid economic growth because people could now increase money nominally by writing bigger numbers. 
+This is easily disproven by breatharians who can live without eating. 
 
-This manifests as paper assets and paper wealth that can be created or be made to vanish quickly, through: 
-
-- hyperinflation and financial crisis during the Mississippi Scheme
-- stock bubbles like the South Sea Bubble 
-- poverty and inequality during the industrial revolution
-
-These problems persist even today.
+{{< youtube 9GmsT7YWVBo >}}
 
 
+To build a supereconomic system that has fellow feeling and redced material needs, we put Maslow's Hierarchy under the 5 Elements Model.
 
-## Why Money Causes Problems
-
-If we plug it into our 5 Strata model, we find that it occupies the lowest stratum. This is because, as a reprsentative number, it is purely quantitative and not qualitative. This makes it very precise, but at the expense of other information. 
-
-{{< i s="/graphics/econ/quality.jpg" a="Quality vs Quantity" c="Quantity reduces and loses information for the sake of precision" >}}
-
-For example, we can think of 3 tomatoes as either:
-- 3 real, red, wet, juicy, shiny tomatoes, or
-  - This one has a lot of information that is expressed during our perception of them.
-- `3` and `"tomato"`  
-  - This only has 2 pieces of infromation: `3` and `tomatoes`
-
-<!-- we can think of 3 tomatoes as merely the number `3` and the word "tomato".  -->
+{{< img src="/graphics/econ/maslow.jpg" alt="Abraham Maslow hierarchy of needs" cap="Self-actualization is aethereal just as svadharma or self-purpose is aethereal" >}}
 
 
-And so **quantitative resource mechanisms drastically reduce the amount of information in every transaction**. This is done so that decision makers can make quick decisions through aggregated data, instead of granularly making decisions for each item.
+This allows us to make the higher needs like love and self-actualization larger and more important than the physiological ones (which might only have a temporal importance). 
 
-> Quantitative resource mechanisms drastically reduce the amount of information in every transaction
+For example, a person can have a much larger self-actualization with very little physiological needs, as seen in breatharians. 
 
-For example, assume you were a manager who had to fire 10% of your 100 staff who you did not personally know. To make a quick decision you would refer to some quantitative data like productivity or contribution to revenue. 
+Or right after they meet their basic material needs, they can go straight to love and self-actualization. 
 
-However, you might not be aware that some of your staff are contributing in non quantative means to the success of your company. 
-
-Relying too much on quantitative information alone would therefore lead to bad decisions. However, qualitative information would be hard to define or cause information overload. Or it would incur a cost to collect. 
-
-**The removal of qualitative information in favor of quantitative information fits the limiting tendency of the Negative Force.** This is opposed to the Positive Force that makes us curious and urges us to get more qualitative information.
-
-This is why large companies tend to rely mostly on quantitative information or metrics.
+{{< q a="Socrates" >}}
+The first and greatest of necessities is food, which is the condition of life and existence. The second is a dwelling. The third clothing and the like.. Each will bring the result of his labours into a common stock.. All things are produced more plentifully and easily when one man does one thing which is natural to him.
+{{< /q >}}
 
 
-Society can incur the cost of getting that qualitative information about its people because the purpose of society is not to get a quantity of money. It is to raise the quality of life. 
+## The Supereconomic Hierarchy of Needs 
 
-Supereconomics uses both qualitative and quantitative information to get a more accurate valuation of goods, services, and living things in a supereconomy. 
+Our 5 Elements model:
+- allows a society to have flexible needs
+- gives importance to self actualization while not neglecting the material needs. 
 
-Information overload can be addressed by artificial intelligence.
+In our model:
+- The upper parts of the pyramid represent the metaphysical needs of the soul. This includes svadharma
+- The lower parts of the pyramid represent the material needs of the physical body. This includes food, shelter, clothing
 
+
+The focus of the soul goes down the pyramid as it addresses the needs of the soul and body. 
+- What it cannot get by itself, it tries to get through others.
+
+This it does by offering what it can, based on its skills, abilities, and personal qualities.
+
+{{< img src="/graphics/econ/materialistic.jpg" alt="Supereconomic network and hierarchy of needs" cap="Our Supereconomic network of needs starts with the metaphysical center that branches out and downwards into physical needs. The core of this metaphysical center is The Tao or svadharma of that discrete entity. The person then goes outwards to meet other people to satify his or her material and metaphysical needs. Moreover, the Supereconomic hierarchy of needs is flexible: a materialist society can emphasize materal needs, while a spiritual society can emphasize aethereal or abstract ones" >}}
+
+
+- A materialistic society only caters to the material needs. It might have an abundance of material goods for sale, ecommerce, cryptocurrencies. But it is deficient in spritual ideology or even cultural practices. 
+- A spiritual society has strong spritual ideology and rich traditional culture. But it might be materially backward.
+- An ideal society is one that can satisfy all the hierarchal needs of every human, neglecting neither materiality nor spirituality.
+
+
+Since svadharma or self-purpose is aethereal in nature, and since it is the cause of value-creation, then this model supports the abstract mechanism of wealth createion directly. 
+
+
+<!-- Using material things to achieve the metaphysical goals is as ineffective as:
+- using drugs to make oneself happy, or
+- using makeup to seem beautiful
+
+The result of these is a fake or artificial happiness which is temporary at best. 
+
+This then leads to the need for repetition to sustain that fake happiness.
+- This then leads to addiction and withdrawal symptoms.
+- These result in pain and unhappiness as a natural *karma* for trying to achieve metaphysical goals in the wrong or artificial way.
+
+The concept of marginal utility in Economics quantifies this reduction in pleasure. 
+- To reverse or avoid this, profit maximization was created. 
+
+This would be like:
+- using more different drugs to make oneself happy
+- going beyond makeup and into plastic surgery to make oneself beautiful
+
+Thus, money and prices in Economics become a sort of drug which creates addiction via profit maximization. -->
+
+<!-- The karma of profit maximization is the volatility in prices. This is because everyone is trying to maximize against each other, instead of letting the profits decline naturally.   -->
+
+ <!-- and valuation which also bring in [pain, unhappiness,and even death](https://edition.cnn.com/2020/06/19/business/robinhood-suicide-alex-kearns/index.html).  -->
+
+<!-- This volatility is unacceptable if we want to create a better system that is more stable, sustainable, and non-fatal.
+
+To create such a system, we will introduce the concept of dharma in the next subchapter. -->

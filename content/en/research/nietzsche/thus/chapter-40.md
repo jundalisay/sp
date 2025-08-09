@@ -24,7 +24,10 @@ Behold there goeth Zarathustra to hell!
 
 About the same time that these sailors landed on the fire-isle, there was a rumour that Zarathustra had disappeared; and when his friends were asked about it, they said that he had gone on board a ship by night, without saying whither he was going.
 
-Thus there arose some uneasiness. After three days, however, there came the story of the ship’s crew in addition to this uneasiness—and then did all the people say that the devil had taken Zarathustra. His disciples laughed, sure enough, at this talk; and one of them said even: “Sooner would I believe that Zarathustra hath taken the devil.” But at the bottom of their hearts they were all full of anxiety and longing: so their joy was great when on the fifth day Zarathustra appeared amongst them.
+Thus there arose some uneasiness. After three days, however, there came the story of the ship’s crew in addition to this uneasiness—and then did all the people say that the devil had taken Zarathustra. His disciples laughed, sure enough, at this talk; and one of them said even: 
+
+“Sooner would I believe that Zarathustra hath taken the devil.” But at the bottom of their hearts they were all full of anxiety and longing: so their joy was great when on the fifth day Zarathustra appeared amongst them.
+
 
 And this is the account of Zarathustra’s interview with the fire-dog:
 

@@ -16,6 +16,12 @@ aliases:
 ---
 
 
+<!-- According to Adam Smith, this is wrong because the pleasure that we get from objects is impermanent. It is part of the deception of Nature (which in Eastern Philosophy is called Maya).
+
+{{< q a="Adam Smith" c="Theory Of Moral Sentiments, Part 4" >}}
+It is this deception which rouses and keeps in continual motion the industry of mankind.
+{{< /q >}}
+ -->
 
 The **Effort Theory of Value** is based on the abstract valuation assigned by the mind to real things.
 
