@@ -7,12 +7,7 @@ description: "The 7 Chakras are in the 5 Strata"
 date: 2024-07-08
 weight: 2
 image: "/graphics/bio/strata.jpg"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-# categories: ["Medical Superphysics"]
-# tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
-icon: "/icons/spmed.png"
+icon: "Bio Superphysics"
 ---
 
 

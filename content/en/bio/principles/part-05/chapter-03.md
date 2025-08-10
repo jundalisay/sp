@@ -3,15 +3,11 @@ heading: Chapter 3
 title: "The 5 Medical Paradigms"
 linkTitle: "Five Paradigms"
 description: "Bio Superphysics uses 5 medical paradigms which are aligned with the 5 layers of Superphysics"
-# date: "2020-01-01"
 date: 2020-01-25
 weight: 8
 image: "/photos/med/alzh.jpg"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
-# icon: "/icons/spmed.png"
+icon: "Bio Superphysics"
 ---
 
 

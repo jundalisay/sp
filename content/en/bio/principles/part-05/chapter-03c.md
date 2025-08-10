@@ -7,11 +7,8 @@ description: "Traditional Chinese Medicine deals with chronic pain and emotional
 date: 2024-09-05
 weight: 10
 image: "/graphics/bio/acu.jpg"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
 tags: ["Acupuncture, Acupressure"]
-icon: "/icons/spmed.png"
+icon: "Bio Superphysics"
 ---
 
 

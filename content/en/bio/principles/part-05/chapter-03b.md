@@ -11,7 +11,7 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 tags: ["Homeopathy"]
-icon: "/icons/spmed.png"
+icon: "Bio Superphysics"
 ---
 
 

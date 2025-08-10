@@ -10,7 +10,7 @@ image: "/graphics/meta/mind.png"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "/icons/spmed.png"
+icon: "Bio Superphysics"
 ---
 
 

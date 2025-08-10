@@ -10,7 +10,7 @@ image: "/photos/psych/war.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "/icons/spmed.png"
+icon: "Bio Superphysics"
 ---
 
 

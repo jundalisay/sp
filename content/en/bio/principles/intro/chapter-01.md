@@ -12,7 +12,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 # categories: ["Medical Superphysics"]
 # tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
-icon: "/icons/spmed.png"
+icon: "Bio Superphysics"
 ---
 
 {{< b >}}

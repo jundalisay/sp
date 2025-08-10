@@ -6,10 +6,7 @@ description: "The Human Body develops at certain stages"
 date: 2024-10-15
 weight: 4
 image: "/photos/psych/war.jpg"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: "/icons/spmed.png"
+icon: "Bio Superphysics"
 draft: true
 ---
 

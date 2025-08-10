@@ -7,10 +7,7 @@ description: "The body needs pranah or vital energy to stay alive and maintain p
 date: 2020-01-25
 weight: 12
 image: "/photos/grains.jpg"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: "/icons/spmed.png"
+icon: "Bio Superphysics"
 ---
 
 

@@ -5,9 +5,6 @@ date: 2023-12-08
 weight: 40
 image: "/covers/hume.jpg"
 description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"
-writer:
-  name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
 icon: "Superphysics"
 draft: true
 ---
