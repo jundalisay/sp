@@ -10,10 +10,8 @@ icon: "Kepler"
 
 
 
-<!-- The reason why the effect of -->
-{{< s v="39" >}}  Two planets so effectively increases under the actual bend of an aspect. 
-
-This is because of a vital capability.
+<!-- The reason why the effect of under-->
+{{< s v="39" >}} Two planets so effectively increases the actual bend of an aspect. This is because of a vital capability.
 
 1. On one side, this capability dwells in the capacity of the geometrical pattern and which forms the aspects.
 2. On the other side, this dwells in the capability of the body in which all this operates, in which that influence fulfills.*

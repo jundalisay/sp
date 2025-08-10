@@ -13,20 +13,53 @@ aliases:
 ---
 
 
-{{< n n="The influence of stars on behavior is one of the links between Material Superphysics and Medical Superphysics" >}}
+{{< n n="The influence of stars on behavior is one of the links between Material  and Bio Superphysics" >}}
 
 
 Have you ever wondered why Covid and influenza are prevalent in Europe but not in Africa? 
 
 <!-- Thanks to the Omicron variant, we can now conclusively answer this with real data and explain the causes and dynamics of both Covid and the flu virus. -->
 
-### Life (and Viruses) Come from Stars
+## Life (and Viruses) Come from Matter but are Powered by Stars
 
-According to science, all the matter in the universe came from stars. We extend this and add that viruses and simple bacteria, as life, also come from the stars and are affected by them throughout their physical existence. 
+According to science:
+- all life comes from matter in a process called [abiogenesis](https://en.wikipedia.org/wiki/Abiogenesis).
+- all matter comes from stars when the explode or fizzle out
 
-For example, everything we do as humans totally depends on our sun. If the sun vanishes, then we all die out. Because of this, some early human civilizations have worshipped the sun, which is really the worship of a star. 
 
-Similarly, viruses totally depend on their star for everything. 
+Material Superphysics explains that there are 2 kinds of spaces:
+
+1. The space outside atoms
+
+This is called spacetime. This is a dead force, as explained by George Berkeley.
+
+{{< q a="George Berkeley" c="Motus, Section 8" >}}
+The *dead force*, or simple gravitation in a body at rest, produces no observable change and hence no effect. But impact does.
+{{< /q >}}
+
+
+2. The space inside atoms. This is can have either dead or living force, as explained by PR Sarkar. 
+
+This is called aetherspace, and is called citta in Vedic and Tantric philosophy.  
+
+{{< q a="PR Sarkar" c="Idea and Ideology" >}}
+The Macrocosm gives [metaphysical] momentum to the crude mind [in matter] towards the process of subtilification. Biologically, this means that life evolved from organic matter.
+{{< /q >}}
+
+
+This means that:
+- life comes from the aethespace of an object
+- the power for living comes from the aetherspace of external radiating bodies such as hydrothermal vents or stars
+
+This life radiation is called prana in Sanskrit and is part of the Radiant Layer (or 1st Element in Cartesian Physics).
+
+{{< i s="/graphics/bio/vents.jpg" a="Vents" >}}
+
+This is easily proven by the fact that most life on Earth needs the sun's energy. 
+
+<!-- For example, everything we do as humans totally depends on our sun. If the sun vanishes, then we all die out. Because of this, some early human civilizations have worshipped the sun, which is really the worship of a star.  -->
+
+Viruses on the surface of the Earth depend on their star. 
 
 We imagine a Covid star shining on Earth to empower the corona virus which began in China on Dec 24, 2019.
 - We then add the other successful variants as "Covid landings" noting the rotation and revolution of Earth relative to the Covid Star.
@@ -36,13 +69,21 @@ We imagine a Covid star shining on Earth to empower the corona virus which began
 
 We then apply this technique to influenza. 
 
-According to "[The Latitude Effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6307116/)" (Almeida, Codeço, Luz), flu travels from North Brazil to Southern Brazil from May to July. So we lay the Earth on its side to create a "Flu Line" extending this line from Brazil onto Australia, China, Russia, Europe, and North America. 
+According to "[The Latitude Effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6307116/)" (Almeida, Codeço, Luz), flu travels from North Brazil to Southern Brazil from May to July. 
 
-From this, we see that Africa is totally exempt from the flu line and is partially exempt from the Covid line (except South Africa). This explains why flu is historically negligible in Africa and Covid is low. 
+So we lay the Earth on its side to create a "Flu Line" extending this line from Brazil onto Australia, China, Russia, Europe, and North America. 
+
+From this, we see that Africa is:
+- totally exempt from the flu line and
+- partially exempt from the Covid line (except South Africa). 
+
+This explains why flu is historically negligible in Africa and Covid is low. 
 
 ![The Covid Line and Flu Line](/graphics/bio/covidline.jpg)
 
-Southern China, on the other hand, is traversed by both the Covid line and the flu line. This explains why 12th centry historian Chau Ju Kua called Southern China a region of pestilence. This caused Chinese medicine to specialize in flu cases which has helped China to currently have lower cases than the West. 
+Southern China, on the other hand, is traversed by both the Covid line and the flu line. 
+
+This explains why 12th centry historian *Chau Ju Kua* called Southern China a region of pestilence. This caused Chinese medicine to specialize in flu cases which has helped China to currently have lower cases than the West. 
 
 China was able to take a negative phenomenon and make it positive, in line with Taoist thinking.
 
@@ -74,6 +115,17 @@ The fact that the second wave around Q4 was worse than the first wave of Q1 form
 
 ### How we cracked Covid via Regular Patterns
 
+By combining the Physics of Descartes and Kepler with the Physics of Hinduism and Taoism, we can distill the geometric, pattern-based mechanism for astrological phenomena: 
+
+
+{{< q a="Kepler" c="The Firmer Fundaments of Astrology" >}}
+Two planets so effectively increases the actual bend of an aspect. This is because of a vital capability.
+
+1. On one side, this capability dwells in the capacity of the **geometrical pattern** and which forms the aspects. [spacetime]
+2. On the other side, this dwells in the capability of the body in which all this operates, in which that influence fulfills [aetherspace]
+{{< /q >}}
+
+
 This pattern emerged thanks to the Omicron variant striking in South Africa near the same month as the Beta variant which struck that country earlier in 2020. 
 
 This actual pattern was different from [our original spreading pattern prediction](/social/supersociology/strong-christmas) which assumed that the causal mechanism for the successful variants was merely the high volume of infections or hosts. High populations increase the chances for such variants to succeed.
@@ -95,9 +147,13 @@ By applying the orbital theories of Johannes Kepler, we guesstimated that a Covi
 The Flu star, on the other hand, was either on top or below of the sun. This caused it to affect influenza on Earth evenly throughout the year.  <!-- but nearly perpendicular to the Earth's axis.    --> These stars are then within our own Milky Way since flu has been happening in Southern China for hundreds of years. 
 
 
-### Solves Monarch Butterflies Too
+## Solves Monarch Butterflies Too
 
-The idea of stars guiding life on earth is also seen in the migration routes of monarch butterflies. These are born at the end of August in Mexico and fly into into the southern US in the spring, living for 7-8 months. Their offspring are born in the US, living only 3-5 weeks. These short-lived versions then fly back to Mexico.
+The idea of stars guiding life on earth is also seen in the migration routes of monarch butterflies. 
+
+These are born at the end of August in Mexico and fly into into the southern US in the spring, living for 7-8 months. Their offspring are born in the US, living only 3-5 weeks. These short-lived versions then fly back to Mexico.
+
+![Monarch Butterflies](/graphics/bio/monarch.jpg)
 
 How could such an offspring generation know to go to Mexico without being taught by their parents?
 

@@ -33,7 +33,7 @@ Vital energy or pranah is the structure's collective creative unifying energy.
 <!-- This collection of práńa (energy) is called pranah. -->
 
 {{< b >}}
-#### Superphysics Note:
+### Superphysics Note:
 
 In the process of crudification (Supreme Negativity), the crudified Supreme can:
 - subdivide if the negative-negative wins
