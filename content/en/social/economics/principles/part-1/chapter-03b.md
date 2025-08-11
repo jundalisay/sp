@@ -68,5 +68,3 @@ In all those different stages, we can judge the real value of silver by comparin
 This concept is the foundation of the grain index which will be used for: 
 - Net Domestic Product
 - Zero Inflation Goal 
-
-

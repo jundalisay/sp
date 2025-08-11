@@ -4,7 +4,7 @@ linkTitle: Chapter 2b
 title: "Demand Power: Minimum needs"
 date: 2025-08-09
 # date: 2024-08-27
-weight: 10
+weight: 12
 image: /photos/buy.jpg
 description: Minimum Needs ensures human dignity and is a better base of a science of resource allocation than marginal utility.  
 writer:
@@ -15,16 +15,23 @@ icon: "Supereconomics"
 
 
 
-The previous section explained the Supereconomic hierarchy of needs which:
-- was based on the 5 Elements, and
-- was flexible, allowing the higher needs to be larger than the lower ones
+The previous sections explained that Supereconomics, based on the Positive, replaces:
+- selfish-interest with fellow-feeling and self-purpose
+- utlity with a flexible hierarchy of needs
+
+This flexible hierarchy of needs is:
+- based on the 5 Elements, and
+- flexible, allowing the higher needs to be larger than the lower ones
 
 
 This hierarchy is implemented as the **Minimum Needs**. 
+- This is opposite of Economics which implements utility as marginal utility 
 
 This is based on the idea that a society is a metaphysical soul-organism made up of individual souls. 
 
-This means that each soul is important or has a purpose in the society. It is then society's duty to provide for each member soul through fellow feeling and not through domination. 
+This means that each soul is important or has a purpose in the society because of the First Law of Value. 
+
+It is then society's duty to provide for each member soul through fellow feeling and not through domination. 
 
 
 {{< q a="Adam Smith" c="Book 1, Chapter 8" >}}
@@ -45,7 +52,7 @@ This fund is derived from wage contributions (sale of labor) or sales taxes (sal
 Supereconomic taxation allows tax payments in kind. And so the set up cost of this system is not as high as imagined. 
 
 
-### Classifying Human Needs
+## Classifying Human Needs
 
 <!-- Everyone has the right to:
 - a standard of living adequate for the health and well-being of himself and his family, including:
@@ -70,7 +77,7 @@ All children, whether born in or out of wedlock, shall enjoy the same social pro
 ## Education  -->
 
 
-Human needs can be simplified into the following, in terms of temporal importance: 
+Minimum human needs can be simplified into the following, in terms of temporal importance: 
 
 1. Clean air
 2. Clean water
@@ -80,7 +87,9 @@ Human needs can be simplified into the following, in terms of temporal importanc
 6. Communication and Expresion
 7. Healthcare 
 
-We call the desire to have these needs met as the **Demand Power** of force of demand.
+We call the desire to have these needs met as the **Demand Power** of force of demand. 
+
+This force comes from fellow-feeling from the Positive Force, which is the opposite of selfishness from the Negative force.
 
 
 ## Gross National Happiness Index
@@ -118,7 +127,8 @@ After food, clothing and lodging are the two great wants of mankind.
 {{< /q >}}
 
 
-The economic authority of a country, such as the Bureau of Economic Research in the US and the National Economic Development Authority in the Philippines, can be overhauled to implement the GNH in their respective countries. 
+The economic authority of a country, such as the Bureau of Economic Research in the US can be overhauled to implement the GNH in their respective countries.
+ <!-- and the National Economic Development Authority in the Philippines, -->
 
 The Net Domestic Product will be absorbed by the Living Standards Domain or the Material Strata. 
 
@@ -137,7 +147,6 @@ These will be discussed in their own subchapters.
 
 
 <!-- Supereconomics uses the ratio of goods to other goods in order to have a stable valuation system. To simplify the process, we have to classify each good. This is why we use the Harmonized System.
-
 
 
 ## The Harmonized System Code

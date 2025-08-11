@@ -163,5 +163,3 @@ In this solution, the revenue of chocolate-making mostly goes to the Ivory Coast
 The development of the rude state will then depend on the nature of the people, with some cultures being able to develop faster. 
 
 Regardless of culture, Smith guarantees that by allowing profit-sharing or giving the people the proceeds of their own work, industry and development can be sped up.
-
- <!-- While profit sharing is the main expedient to speed up development, grain-based valuation and pool clearing are the main expedients to prevent the society from sliding backwards during economic crises. -->

@@ -22,41 +22,45 @@ feed before that mount.
 
 <sup>4</sup> He hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as Enki had commanded him, and took in his hand the two tables of stone. 
 
-5 Enki descended in the cloud, and stood with him there, and proclaimed the name of Enki. 
+<sup>5</sup> Enki descended in the cloud, and stood with him there, and proclaimed the name of Enki. 
 
-6 Enki passed by before him, and proclaimed, Enki, God, merciful and gracious, longsuffering, and abundant in goodness and truth, {34:7} Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear [the guilty;] visiting the iniquity
-of the fathers upon the children, and upon the children’s children, unto the third and to the fourth [generation. ]
+<sup>6</sup> Enki passed by before him, and proclaimed himself as God:
+- merciful and gracious
+- longsuffering, and abundant in goodness and truth
+- <sup>7</sup> keeping mercy for thousands
+- forgiving iniquity and transgression and sin that will by no means clear the guilty
+- visiting the iniquity of the fathers on the children and the children’s children, unto the third and to the fourth generation.
 
-8 Moses made haste, and bowed his head toward the earth, and worshipped. 
+<sup>8</sup> Moses bowed his head toward the earth and worshipped. 
 
 {{< r a="Moses" >}}
-9 If now I have found grace in your sight, O Lord, let my Lord, I pray you, go among us; for it [is] a stiffnecked people; and pardon our iniquity and our sin, and take us for thine
-inheritance.
+<sup>9</sup> If now I have found grace in your sight, O Lord, let my Lord, I pray you, go among us; for it [is] a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance.
 {{< /r >}}
 
 
 {{< l a="Enki" >}}
-10 Behold, I make a covenant: before all your people I will do marvels, such as have not been done in all the earth, nor in any nation: 
+<sup>10</sup> Behold, I make a covenant: before all your people I will do marvels, such as have not been done in all the earth, nor in any nation: 
 
 All your people shall see the work of Enki. I will do a terrible thing with you.
 
-11 I drive out before you the Amorite, the Canaanite, the Hittite, the Perizzite, the Hivite, and the Jebusite.
+<sup>11</sup> I drive out before you the Amorite, the Canaanite, the Hittite, the Perizzite, the Hivite, and the Jebusite.
 
-12 Take heed to yourself, lest you make a covenant with the inhabitants of the land whither you goest, lest it be for a snare in the midst of you.
+<sup>12</sup> Take heed to yourself, lest you make a covenant with the inhabitants of the land whither you goest, lest it be for a snare in the midst of you.
 
-13 But you shall destroy their altars, break their images, and cut down their groves.
+<sup>13</sup> But you shall destroy their altars, break their images, and cut down their groves.
 
-14 For you shalt worship no other god: for Enki, whose name [is] Jealous, is a jealous God
+<sup>14</sup> For you shalt worship no other god: for Enki, whose name [is] Jealous, is a jealous God
 
-15 Lest you make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call you, and you eat of his sacrifice.
+<sup>15</sup> Lest you make a covenant with the inhabitants of the land, and they go a whoring after their gods, and do sacrifice unto their gods, and one call you, and you eat of his sacrifice.
 
-16 You take of their daughters unto your sons, and their daughters go a whoring after their gods, and make your sons go a whoring after their gods.
+<sup>16</sup> You take of their daughters unto your sons, and their daughters go a whoring after their gods, and make your sons go a whoring after their gods.
 
-17 Do not make molten gods.
+<sup>17</sup> Do not make molten gods.
 {{< /l >}}
 
+
 {{< l a="Enki" >}}
-18 Keep the feast of unleavened bread. Seven days you shalt eat unleavened bread, as I commanded you, in the time of the month Abib when you came out from Egypt. 
+<sup>18</sup> Keep the feast of unleavened bread. Seven days you shalt eat unleavened bread, as I commanded you, in the time of the month Abib when you came out from Egypt. 
 
 19 All that opens the matrix is mine.
 
@@ -72,7 +76,9 @@ In earing time and in harvest you shalt rest.
 
 22 You shall observe the feast of weeks, of the first fruits of wheat harvest, and the feast of in gathering at the year’s end.
 
-23 Thrice in the year shall all your men children appear before Enki GOD, the God of Israel. 24 For I will cast out the nations before you, and enlarge your borders: neither shall any man desire your land, when you shalt go up to appear before Enki your God thrice in the year.
+23 Thrice in the year shall all your men children appear before Enki GOD, the God of Israel. 
+
+24 For I will cast out the nations before you, and enlarge your borders: neither shall any man desire your land, when you shalt go up to appear before Enki your God thrice in the year.
 
 25 You shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning. {34:26} The first of the firstfruits of your land you shalt bring unto the house of Enki. 
 
@@ -82,7 +88,7 @@ You shalt not seethe a kid in his mother’s milk.
 {{< /l >}}
 
 
-28 He was there with Enki 40 days and 40 nights. He did not eat bread, nor drink water.
+<sup>28</sup> He was there with Enki 40 days and 40 nights. He did not eat bread, nor drink water.
 
 He wrote on the tables the words of the covenant, the ten commandments.
 

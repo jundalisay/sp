@@ -6,12 +6,12 @@ date: 2022-08-24
 # date: 2022-08-22
 weight: 14
 image: /photos/objects/money.jpg
-# image: /graphics/econ/resourcemechanism.png
 description: "Economics uses money both as a store of value and tool of trade. Supereconomics uses three tools--money, points, and barter"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
+
 
 <!-- 
 ## Non-Commodities 
@@ -32,6 +32,7 @@ A money becomes legal tender if the government allows it to be used for payments
 El Salvador is an example of a country that has legalized Bitcoin, making it a legal tender.    
 
 ### Tangible Points -->
+
 
 In order to facilitate exchanges of goods and services from common economic interest, humans need a tool. 
 
@@ -140,7 +141,6 @@ However, qualitative information:
 This is opposed to the Positive Force that makes us curious and urges us to get more qualitative information.
 
 This is why large companies tend to rely mostly on quantitative information or metrics.
-
 
 Society can spend for the cost of getting that qualitative information about its people.
 - This is because the purpose of society is not to get money, but to sustain or raise the quality of life.

@@ -46,10 +46,9 @@ This drives our heart to give back something for what we got since the Positive 
 Unlike Economics which is based on the **Negative Force**, as matter and selfishness, Supereconomics is based on the Positive Force, as aether and svadharma.
 
 
-## Selfish Interest Versus or Svadharma or Personal Passion
+## Selfish Interest Versus or Svadharma as Self-Purpose
 
-**Svadharma** means personal dharma, which in this case means personal passion or purpose. 
-
+**Svadharma** means personal dharma, which in this case means personal duty. 
 
 {{< q a="Krishna" c="Bhagavad Gita, Chapter 3, Verse 35" >}}
 It is better to do one's own duty, even he fails to succeed in doing the duty of another. It is better to die performing one's duty, than to do another's duty with fear. 
@@ -71,8 +70,13 @@ The first and greatest of necessities is food, which is the condition of life an
 
 This svadharma is the true creator of economic value that usually manifests as money. 
 
-However, Economics ignores svadharma and instead focses on the money that it creates. And so it goes after the effect instead of the cause.  
+However, Economics ignores svadharma and instead focuses on the money that it creates. And so it goes after the effect instead of the cause.  
 
+In order to emphasize cause instead of effect, we therefore replace 'self-interest' and 'personal passion' with **self-purpose**.
+
+This means that the self was not created merely for the sake of existing, but to attain a goal or serve a duty. 
+
+This will give the mind a general direction instead of going around aimlessly in circles.  
 
 
 <!-- This metaphysical starting point is called the idea of the self. 
@@ -113,17 +117,31 @@ Monkeys (from where the human species came) are curious about objects and have b
 {{< /cap >}}
  -->
 
-<!-- ## Everything has a value because everything has a purpose
 
-The word 'purpose' has more in common with the word 'dharma' than 'interest'. 
+
+## Everything has a value because everything has a purpose
+
+In Taoism, the specific purpose of every thing is called *The Tao*.
+
+Superphysics replaces the Cartesian paradigm, 'I think therefore I am' with 'It exists, therefore it perceives'. 
+
+Supereconomics translates this into the world of utility: "It exists, therefore it has a purpose (to the Supreme)'.
+
+If it has a purpose then it has a value. 
+
+This leads to the First Law of Value.
+
+A human with its limited knowledge, might not know immediately the value of a thing. 
+
+And so, in Supereconomics, this law leads to the study of this svadharma or Tao of things in order to realize their value. 
+
+
+
+<!-- The word 'purpose' has more in common with the word 'dharma' than 'interest'. 
 
 Superphysics views existence as being a huge mind or Matrix which the Hindus call the *Brahma*. A thing would only exist in a mind if its Thinker had a purpose for it.
 
 Thus, we can say that everything that you perceive has a purpose. Those that didn't have a purpose never existed or never was perceived by you. 
-
-The specific purpose of every discrete thing or entity is then called *The Tao* or *svadharma* meaning 'own dharma' or own purpose in existence.
-
-The study of this svadharma in economics is a focus of Supereconomics,. 
 
 This purpose is what gives value to everything. 
  
@@ -150,7 +168,6 @@ In other words, the economic baker is not a baker but a merchant masquerading as
 Supereconomics keeps the baker as a baker and the merchant as a merchant. This is to preserve the division of labor in society and put everyone in their proper supereconomic place. -->
 
 
-
 <!-- Eastern philosophy is full of warnings and safeguards against utility and worldly pleasures because the latter ultimately causes bondage within the dualistic universe. 
 
 If existence were a video game, then profits would be the high scores. Materialistic people would find themselves playing over and over again to reach the highest score which has no limits. In such a case, existence itself becomes a trap, tempting people to stay in the game without any time to get permanent rest. -->
@@ -160,12 +177,7 @@ By following one's path and purpose in life, then humans can better understand h
 
 A key characteristic of a supereconomic implementation or a *supereconomy* therefore is that it gives lower stress in exchange and acquisition of goods or services than that in economic, capitalist, or communist systems. -->
 
-<!-- The Principles of Superphysics* makes its way into the other sciences
-The use of the Tao as the center of the sciences makes it useful in solving the problems in those sciences. 
-
-> *This is neatly packaged into the Four Laws of Value
-
-As you can see, the fallacy of money and utility leading to self-acutalization mirrors the fallacy of using drugs to create happiness and solve depression. Since we proposed to solve economic crises by starting from the metaphysical center and travel to the economic problem, it means that we can also solve psychological and bodily problems by starting with the metaphysical cause or the person's Tao, which we call the G. 
+<!-- the fallacy of money and utility leading to self-acutalization mirrors the fallacy of using drugs to create happiness and solve depression. Since we proposed to solve economic crises by starting from the metaphysical center and travel to the economic problem, it means that we can also solve psychological and bodily problems by starting with the metaphysical cause or the person's Tao, which we call the G. 
 
 This will then be the job of Medical Superphysics. We can even use it to solve problems in Modern Physics -->
 

@@ -108,19 +108,53 @@ This is a consequence of the price inelasticity of demand for reserve assets, an
 
 2. Richer Currency
 
-The more significant macroeconomic consequence of serving as the world’s reserve producer is that reserve demand for American assets pushes up the dollar, leading it to levels far in excess of what would balance international trade over the long run. 
+The more significant macroeconomic consequence as reserve producer is a strong dollar.
+- This strength is beyond what would balance international trade in the long run. 
 
-According to the IMF, there are about $12 trillion of global foreign exchange reserves in official hands, of which roughly 60% are allocated in dollars—in reality, reserve holdings of the dollar are much higher, as quasi- and non-official entities hold dollar assets for reserve purposes too.
+According to the IMF, there are about $12 trillion of global foreign exchange reserves in official hands.
+- 60% are in dollars
 
-Clearly, $7 trillion of demand is enough to move the needle in any market, even currency markets. For reference, $7 trillion is roughly a third of U.S. M2 money supply; flows creating or unwinding these holdings will obviously have significant market consequences. 
+In reality, dollar reserve holdings are much higher, as non-official entities hold dollar assets for reserve purposes too.
 
-If trillions of dollars of securities bought for the Fed’s policy and not investment purposes on the Fed’s balance sheet have had any effect on financial markets, then trillions of dollars bought for foreign central banks’ policies and not investing purposes should also have some effect if they are on other nations’ balance sheets instead of the Fed’s.
+Clearly, $7 trillion of demand is enough to move the needle in any market, even currency markets. 
 
-Because nations accumulate reserves in part to stem appreciation pressures in their own currencies, there is a contemporaneous negative correlation between the exchange value of the dollar and the level of global reserves. Reserves tend to go up when the dollar is going down, as accumulators buy dollars to suppress their currencies, and vice versa when the dollar is going up. Nevertheless, other than two quarters in 1991, the United States has run a current account deficit since 1982. 
+For reference, $7 trillion is roughly 1/3 of U.S. M2 money supply.
 
-That the current account cannot balance beyond a negligible period over half a century tells us the dollar is not playing its role of equilibrating international trade and income flows. The interplay between reserve status and the loss of manufacturing jobs is sharpest during economic downturns. 
+Flows creating or unwinding these holdings will obviously have significant market consequences. 
 
-Because the reserve asset is “safe,” the dollar appreciates during recessions. By contrast, other nations’ currencies tend to depreciate when they go through an economic downturn. That means that when aggregate demand suffers a decline, pain in export sectors get compounded by a sharp erosion of competitiveness. Thus employment in manufacturing declines steeply during a recession in the United States, and then fails to recover materially afterward.
+Trillions of dollars of securities are bought for the Fed’s policy and not for investment.
+
+Such securities on the Fed’s balance sheet had no effect on financial markets.
+
+Trillions of dollars bought for foreign central banks’ policies should also have no effect.
+
+ <!-- if they are on other nations’ balance sheets instead of the Fed’s. -->
+
+Nations accumulate reserves to stem appreciation pressures in their own currencies.
+
+And so there is a contemporaneous negative correlation between the exchange value of the dollar and the level of global reserves. 
+
+Reserves tend to go up when the dollar is going down.
+- This is because accumulators buy dollars to suppress their currencies.
+
+Reserves tend to go down when the dollar is going up.
+
+Nevertheless, other than 2 quarters in 1991, the US has run a current account deficit since 1982. 
+
+
+The dollar is not equilibrating international trade and income flows.
+- This is because that current account cannot balance over 50 years
+
+**The interplay between reserve status and the loss of manufacturing jobs is sharpest during economic downturns.** 
+
+The reserve asset is “safe.”
+- This is why the dollar appreciates during recessions. 
+
+By contrast, other nations’ currencies tend to depreciate when they go through an economic downturn. 
+
+That means that when aggregate demand suffers a decline, pain in export sectors get compounded by a sharp erosion of competitiveness. 
+
+Thus, employment in manufacturing declines steeply during a recession in the United States, and then fails to recover materially afterward.
 
 Canada -1.05
 Japan -3.38
@@ -132,11 +166,7 @@ Greece -1.03
 Switzerland -3.93
 Sweden -2.20
 
-Table 1: 10-year borrowing spreads
-to Treasury notes. Negative numbers
-mean the other nation borrows more
-cheaply than the United States. Source:
-Bloomberg, HBC calculations
+Table 1: 10-year borrowing spreads to Treasury notes. Negative numbers mean the other nation borrows more cheaply than the United States. Source: Bloomberg, HBC calculations
 
 
 <!-- CU RRE NT ACC OU NT
@@ -168,25 +198,44 @@ Current account (%
 G
 DP) Figure 3 U.S. current account. Source: Bureau of Economic Analysis, HBC calculations -->
 
-It may seem odd to suppose that reserve demand for Treasury securities plays only a small role in delivering favorable borrowing terms, yet a large role in creating currency overvaluation. However, that is the explanation most consistent with outcomes in both interest rate markets and the balance of payments. Indeed, it is also consistent with the idea that liquidity injections ultimately raise interest rates because they stimulate stronger nominal growth. Other theoretical explanations for this combination of outcomes could make interesting research.
+It may seem odd to suppose that reserve demand for Treasury securities plays:
+- only a small role in delivering favorable borrowing terms
+- a large role in creating currency overvaluation. 
 
-3) Financial Extraterritoriality
+But this is consistent with outcomes in both:
+- interest rate markets and
+- the balance of payments. 
 
-Finally, if the reserve asset is the lifeblood of the global trade and financial systems, it means that whoever
-controls the reserve asset and currency can exert some level of control trade and financial transactions. That
-allows America to exert its will in foreign and security policy using financial force instead of kinetic force. America
-can, and does, sanction people all over the globe in a variety of ways. From freezing assets to cutting nations off
-from SWIFT and restricting access to the U.S. banking and financial system that is critical for any foreign bank
-doing global business, the U.S. exerts its financial might to achieve foreign policy ends of weakening enemies
-without having to mobilize a single soldier. Economists cannot evaluate whether America’s national security goals
+It is also consistent with the idea that liquidity injections ultimately raise interest rates because they stimulate stronger nominal growth.*
+
+
+{{< n n="Here, Miran exposes his ignorance on natural balance which is the 3rd law of our Supereconomics" >}}
+
+<!-- Other theoretical explanations for this combination of outcomes could make interesting research. -->
+
+
+3. Financial Extraterritoriality
+
+The reserve asset is the lifeblood of:
+- the global trade
+- financial systems
+
+Whoever controls the reserve asset and currency can exert some control trade and financial transactions. 
+
+This allows America to exert its will in foreign and security policy using financial force instead of kinetic force.
+
+America sanctions people in a variety of ways. 
+
+<!-- From freezing assets to cutting nations off from SWIFT and restricting access to the U.S. banking and financial system that is critical for any foreign bank doing global business, the U.S. exerts its financial might to achieve foreign policy ends of weakening enemies
+without having to mobilize a single soldier. 
+
+Economists cannot evaluate whether America’s national security goals
 are worthy, only note that it can achieve them far more cheaply because of America’s control of the international
-trade and financial systems by virtue of our reserve currency status.
+trade and financial systems by virtue of our reserve currency status. -->
 
-A comprehensive review of how the United States mobilizes the global financial architecture for national security
-purposes is given in Cipriani, Goldberg and La Spada (2023), and a history of many of the key players in Mohsin
-(2024). In a broader sense, sanctions can also be perceived as a modern-day form of a blockade. 
+<!-- A comprehensive review of how the United States mobilizes the global financial architecture for national security purposes is given in Cipriani, Goldberg and La Spada (2023), and a history of many of the key players in Mohsin (2024).  -->
 
-Many previous reserve providing nations possessed significant sea power by virtue of their trading empires, which allowed them  to blockade rival nations and hamper their economic production; sanctions achieve related outcomes, without the
-need for physical action.
+In a broader sense, sanctions can also be perceived as a modern-day form of a blockade.
 
-
+<!-- Many previous reserve providing nations possessed significant sea power by virtue of their trading empires, which allowed them  to blockade rival nations and hamper their economic production; sanctions achieve related outcomes, without the
+need for physical action. -->

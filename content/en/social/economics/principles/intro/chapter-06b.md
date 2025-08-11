@@ -36,9 +36,11 @@ Chapter | Topic
 1c | Consumption motive
 2 | utility and maslow needs vs supereconomic needs 
 2b | Demand Power: minimum needs
-3 | stores of value: money and non money, grains as stores of value 
-3b | grain based valuation as pointization BPR
-3c | time value of money vs time value of life
+3 | stores of value: money and non money
+3b | grains as stores of value 
+3c | grain based valuation
+3d | pointization bpr 
+4 | time value of money vs time value of life
 4 | profit maximization vs grain index
 5 | barter credits 
 6 | Demand model: Value of Rarity, absolute effective
@@ -48,7 +50,7 @@ Chapter | Topic
 8 | Retail 
 8b | Search Engines, Ecommerce
 9 | Poverty Cycle
-9b | Austerity Shutdowns
+9b | UBI Microfinance
 9c | Food inflation
 9d | Rising Healthcare, Insurance Fraud
 10 | Usufruct Economy

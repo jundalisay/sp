@@ -12,17 +12,17 @@ Like inflation, the question of who bears the burden of the tariff will depend o
 
 But there are more nuances. 
 
-In a world of perfect currency offset, the effective price of imported goods doesn’t change,
-but since the exporter’s currency weakens, its real wealth and purchasing power decline. 
+In a world of perfect currency offset, the effective price of imported goods doesn’t change, but since the exporter’s currency weakens, its real wealth and purchasing power decline. 
 
-American consumers’ purchasing power isn’t affected, since the tariff and the currency move cancel each other out, but since the
-exporters’ citizens became poorer as a result of the currency move, the exporting nation “pays for” or bears the burden of the tax, while the U.S. Treasury collects the revenue.
+American consumers’ purchasing power isn’t affected, since the tariff and the currency move cancel each other out, but since the exporters’ citizens became poorer as a result of the currency move, the exporting nation “pays for” or bears the burden of the tax, while the U.S. Treasury collects the revenue.
 
 While the effective price paid by U.S. importers may not change very much with perfect currency offset, U.S. exporters now face a competitiveness challenge insofar as the dollar has become more costly for foreign importers. Presumably, they have hedged most of their currency exposures, and this can help lessen that pain in the short run. 
 
 Thus there is a tradeoff: if currencies perfectly adjust, the U.S. government collects revenue in a noninflationary way paid by foreigners via reduced purchasing power, but exports may become encumbered. Policymakers can in part alleviate any drag on exports by an aggressive deregulatory agenda, which helps make U.S. production more competitive. 
 
-Recent work by Goldbeck (2024) flags the increase in regulatory-related compliance under the Biden Administration as costing the economy over 1% of GDP per year, while research from Laperriere et al (2024) suggests those costs could be twice as large. Improvements in competitiveness driven by regulatory reform can offset drags on competitiveness due to currency appreciation. By contrast, if currency offset does not occur, American consumers will suffer higher prices, and the tariff will be borne by them. Higher prices will, over time, incentivize a reconfiguration of supply chains. American producers will have improved competitiveness selling into the American market, and importers will be incentivized to find alternatives to the tariffed imports. As trade flows adjust, the trade balance can decline, but then the tariffs will no longer collect much revenue.
+Recent work by Goldbeck (2024) flags the increase in regulatory-related compliance under the Biden Administration as costing the economy over 1% of GDP per year, while research from Laperriere et al (2024) suggests those costs could be twice as large. 
+
+Improvements in competitiveness driven by regulatory reform can offset drags on competitiveness due to currency appreciation. By contrast, if currency offset does not occur, American consumers will suffer higher prices, and the tariff will be borne by them. Higher prices will, over time, incentivize a reconfiguration of supply chains. American producers will have improved competitiveness selling into the American market, and importers will be incentivized to find alternatives to the tariffed imports. As trade flows adjust, the trade balance can decline, but then the tariffs will no longer collect much revenue.
 
 These tradeoffs are listed in Table 2, though of course reality may fall in between these extremes:
 
@@ -58,7 +58,7 @@ experienced both currency depreciation and passthrough of tariff costs to retail
 them will lead to reduced profitability, or rebalancing of trade flows to other exporters or domestic producers. -->
 
 
-Currency Offset and Financial Markets
+## Currency Offset and Financial Markets
 
 While reducing volatility in consumer prices, currency offset can actually imply greater and not less volatility in
 financial markets, at least in the short term. For instance, the volatility of early August was deeply intertwined with
