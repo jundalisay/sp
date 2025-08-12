@@ -71,39 +71,96 @@ First, let us consider only the immense bulk of the starry sphere in contrast Wi
 
 
 
-SAGR. If, throughout the whole variety of effects that could exist in nature as dependent upon these motions, all the same consequences followed indifferently to a hairsbreadth from both positions, still my first general impression of them would be this: I should think that anyone who considered it more reasonable for the whole universe to move in order to let the earth remain Fixed would be more irrational than one who should climb to the top of your cupola just to get a view of the city and its environs, and then demand that the whole countryside should revolve around him so that he would not have to take the trouble to turn his head. Doubtless there are many and great advantages to be drawn from the new theory and not from the previous one (which to my mind is comparable with or even surpasses the above in absurdity), making the former more credible than the latter. But perhaps Aristotle, Ptolemy, and Simplicio ought to marshal their advantages against us and set them forth, too, if such there are; otherwise it will be clear to me that there are none and cannot be any.
+{{< r a="Sagredo" >}}
+If, throughout the whole variety of effects that could exist in nature as dependent upon these motions, all the same consequences followed indifferently to a hairsbreadth from both positions, still my first general impression of them would be this: 
+
+It is irrational to assert that the whole universe is moving just so that the earth remains Fixed.
+- This is like a man climbing a tower to get a view of the city, and then demand that the whole countryside revolve around him so that would not need to turn his head. 
+
+There are many and great advantages from the new theory.
+
+ <!-- and not from the previous one (which to my mind is comparable with or even surpasses the above in absurdity), making the former more credible than the latter. -->
+
+But perhaps Aristotle, Ptolemy, and Simplicio should marshal their advantages against us.
+{{< /r >}}
 
 
 {{< l a="Salviati" >}}
-I have not been able to find any difference, so it seems to me I have found that there can be no difference; hence I think it vain to seek one further. For consider: Motion, in so far as It is and acts as motion, to that extent exists relatively to things that lack it; and among things which all share equally in any motion, it does not act, and is as if It did not exist. Thus the goods with which a ship is laden leaving Venice, pass by Corfu, by Crete, by Cyprus and go to Aleppo. Venice, Corfu, Crete, etc. stand still and do not move with the ship; but as to the sacks, boxes, and bundles with which the boat is laden and with respect to the ship itself, the motion from Verflice to Syria is as nothing, and in no way alters their relation among themselves. This is so because it is common to all of them and all share equally in it. If, from the cargo in the ship, a sack were shifted from a chest one single inch, this alone would be more of a movement for it than the two-thousand-mile journey made by all of them together.
+I have not seen any difference, and so there can be no difference. 
+
+<!-- as It is and acts as motion, to that extent -->
+Motion exists relatively:
+- to things that lack motion and
+- among things which all share equally in any motion
+
+In both cases, motion does not act, and seems to not not exist. 
+
+<!-- , pass by Corfu, by Crete, by Cyprus and go to Aleppo, Venice, Corfu, Crete, etc. -->
+Thus the goods in a ship leaving Venice for Aleppo stand still and do not move with the ship.
+
+But relative to the sacks, boxes, and bundles in the ship and the ship itself, the motion from Venice to Syria is as nothing.
+- It does not alter their relation among themselves. 
+
+This is so because it is common to all of them and all share equally in it. 
+
+If, from the cargo in the ship, a sack were shifted from a chest one single inch, this alone would be more of a movement for it than the two-thousand-mile journey made by all of them together.
 {{< /l >}}
 
 
 SIMP. This is good, sound doctrine, and entirely Peripatetic.
 
-SALV. I should have thought it somewhat older. And I question whether Aristotle entirely understood it when selecting it from some good school of thought, and whether he has not, by altering it in his Writings, made it a source of confusion among those who wish to maintain everything he said. When he wrote that everything which is moved is moved upon something immovable, I think he only made equivocal the saying that whatever moves, moves with respect to something motionless. This proposition suffers no difficulties at all, whereas the other has many.
+SALV. I should have thought it somewhat older. I question whether Aristotle entirely understood it when selecting it from some good school of thought, and whether he has not, by altering it in his Writings, made it a source of confusion among those who wish to maintain everything he said. 
+
+When he wrote that everything which is moved is moved upon something immovable, I think he only made equivocal the saying that whatever moves, moves with respect to something motionless. This proposition suffers no difficulties at all, whereas the other has many.
 
 SAGR. Please do not break the thread, but continue with the argument already begun.
 
 
 {{< l a="Salviati" >}}
-It is obvious, then, that motion which is common to many moving things is idle and inconsequential to the relation of these movables among themselves, nothing being changed among them, and that it is operative only in the relation that they have with other bodies lacking that motion, among which their location is changed. Now, having divided the universe into two parts, one of which is necessarily movable and the other motionless, it is the same thing to make the earth alone move, and to move all the rest of the universe, so far as concerns any result which may depend upon such movement. 
+Motion which is common to many moving things is:
+- idle and inconsequential to the relation of these movables among themselves, nothing being changed among them
+- operative only in the relation that they have with other bodies lacking that motion, among which their location is changed. 
 
-For the action of such a movement is only in the relation between the celestial bodies and the earth, which relation alone is changed. Now if precisely the same effect follows whether the earth is made to move and the rest of the universe stay still, or the earth alone remains fixed while the whole universe shares one motion, who is going to believe that nature (which by general agreement does not act by means of many things when it can do so by means of few) has chosen to make an immense number of extremely large bodies move with inconceivable velocities, to achieve what could have been done by a moderate movement of one single body around its own center?
+We divided the universe into 2:
+
+1. The necessarily movable
+2. The motionless
+
+It is the same thing to make the earth alone move, and to move all the rest of the universe, so far as concerns any result which may depend upon such movement. 
+
+For the action of such a movement is only in the relation between the celestial bodies and the earth, which relation alone is changed. 
+
+<!-- If precisely the same effect happens whether the earth is moving in a static universe, or  -->
+
+If the earth is fixed while the universe has one motion then it does not make sense for the whole universe to move around it.
+
+<!--  who is going to believe that nature 
+
+(which by general agreement does not act by means of many things when it can do so by means of few)  -->
+
+<!-- has chosen to make an immense number of extremely large bodies move with inconceivable velocities, to achieve what could have been done by a moderate movement of one single body around its own center? -->
 {{< /l >}}
 
 
-
 {{< r a="Simplicio" >}}
-I do not quite understand how this very great motion is as nothing for the sun, the moon, the other planets, and the innumerable host of the fixed stars. Why do you say it is nothing for the sun to pass from one meridian to the other, rise above this horizon and sink beneath that, causing now the day and now the night; and for the moon, the other planets, and the fixed stars to vary similarly?
+I do not quite understand how this very great motion is as nothing for the sun, the moon, the other planets, and the innumerable host of the fixed stars. 
+
+Why do you say it is nothing for the sun to pass from one meridian to the other, rise above this horizon and sink beneath that, causing now the day and now the night; and for the moon, the other planets, and the fixed stars to vary similarly?
 {{< /r >}}
 
 
-
 {{< l a="Salviati" >}}
-Every one of these variations which you recite to me is nothing except in relation to the earth. To see that this is true, remove the earth; nothing remains in the universe of rising and setting of the sun and moon, nor of horizons and meridians, nor day and night and in a word from this movement there will never originate any changes in the moon or sun or any stars you please, fixed or moving. All these changes are in relation to the earth, all of them meaning nothing except that the sun shows itself now over China, then to Persia, afterward to Egypt, to Greece, to France, to Spain, to America, etc. And the same holds for the moon and the rest of the heavenly bodies, this effect taking place in exactly the same way if, without embroiling the biggest part of the universe, the terrestrial globe is made to revolve upon itself
+Every one of these variations which you recite to me is nothing except in relation to the earth. 
 
-And let us redouble the difficulty with another very great one, which is this. If this great motion is attributed to the heavens, it has to be made in the opposite direction from the specific motion of all the planetary orbs, of which each one incontrovertibly has its own motion from west to east, this being very gentle and moderate, and must then be made to rush the other way; that is, from east to west, with this very rapid diurnal motion. Whereas by making the earth itself move, the contrariety of motions is removed, and the single motion from west to east accommodates all the observations and satisfies them all completely.
+To see that this is true, remove the earth; nothing remains in the universe of rising and setting of the sun and moon, nor of horizons and meridians, nor day and night and in a word from this movement there will never originate any changes in the moon or sun or any stars you please, fixed or moving. 
+
+All these changes are in relation to the earth, all of them meaning nothing except that the sun shows itself now over China, then to Persia, afterward to Egypt, to Greece, to France, to Spain, to America, etc.
+
+The same holds for the moon and the rest of the heavenly bodies, this effect taking place in exactly the same way if, without embroiling the biggest part of the universe, the terrestrial globe is made to revolve upon itself
+
+<!-- And let us redouble the difficulty with another very great one, which is this.  -->
+
+If this great motion is attributed to the heavens, it has to be made in the opposite direction from the specific motion of all the planetary orbs, of which each one incontrovertibly has its own motion from west to east, this being very gentle and moderate, and must then be made to rush the other way; that is, from east to west, with this very rapid diurnal motion. Whereas by making the earth itself move, the contrariety of motions is removed, and the single motion from west to east accommodates all the observations and satisfies them all completely.
 {{< /l >}}
 
 

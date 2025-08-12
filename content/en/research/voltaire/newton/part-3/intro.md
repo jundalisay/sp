@@ -1,0 +1,13 @@
+---
+title: "LETTER FROM THE AUTHOR AS FINAL CHAPTER TO THE THEORY OF LIGHT"
+description: ""
+c: "firebrick"
+---
+
+
+I would have had the honor of responding to you sooner, sir, but for the continuous illnesses which test my patience more than Newton tests my mind. I believe that your doubts, sir, would have given rise to some in him. You say that it's a shame that he did not explain more clearly the reason why the attractive force often becomes repulsive, and the force by which rays of light are darted with such prodigious speed; and I would dare to add that it's a shame that he could not know the cause of these phenomena. Newton, the first of men, was only a man, and the primary springs that nature employs are not within our reach, when they are not subject to calculation. It is in vain to compute the force of muscles; all the mathematics will be powerless to teach us why these muscles act at the command of our will. All the knowledge we have of the planets will never teach us why they turn from west to east, rather than the other way around. Newton, for having anatomized light, did not discover its intimate nature. He knew well that there are in elementary fire properties that are not in the other elements; it travels one hundred and thirty million leagues in a quarter of an hour.
+
+It does not appear to tend towards a center like bodies; but it spreads out uniformly and equally in all directions, contrary to the other elements. Its attraction to the objects it touches, and on the surface of which it bounces back, has no proportion to the universal gravitation of matter.
+
+It is not even proven that the rays of elementary fire do not penetrate each other[1]. This is why Newton, struck by all these singularities, always seems to doubt whether light is a body. For my part, sir, if I dare to risk my doubts, I confess to you that I do not believe it impossible that elementary fire is a being apart, which animates nature, and which holds the middle ground between bodies and some other being that we do not know; just as certain organized plants serve as a passage from the vegetable kingdom to the animal kingdom. Everything tends to make us believe that there is a chain of beings that rise by degrees. We know only imperfectly a few links of this immense chain, and we little men, with our little eyes and our little brains, we boldly distinguish all of nature into matter and spirit, including God in it, and without knowing a word of what spirit and matter are at their core. I expose my doubts to you, sir, with the same frankness that you have communicated yours to me. I congratulate you on cultivating philosophy, which must teach us to doubt everything that is not within the scope of mathematics and experience, etc.
+```

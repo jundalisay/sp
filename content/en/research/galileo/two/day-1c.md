@@ -9,19 +9,16 @@ c: "darkgoldenrod"
 ---
 
 
-
-
-
 {{< l a="Salviati" >}}
 I shall willingly pause, for I run the same risk too, and am on the verge of getting
 shipwrecked. At present I sail between rocks and boisterous waves that are making me lose my
 bearings, as they say. Therefore, before I multiply your difficulties, propound them.
 
-
-
 [Discussion of earth's place in the solar system:]
 
-I see we are once more going to engulf ourselves in a boundless sea from which there is no getting out, ever. This is navigating without compass, stars, oars, or rudder, in which we must needs either pass from bank to bank or run aground, or sail forever lost. If, as you suggested, we are to get on with our main subject, it is necessary for the present to put aside the general question whether straight motion is necessary in nature and is proper to some bodies, and proceed to demonstrations, observations, and particular experiments. First we must propound all those that have been put forward to prove the earth's stability by Aristotle, Ptolemy, and others, trying next to resolve them. Finally we must produce those by which a person may become persuaded that the earth, no less than the moon or any other planet, is to be numbered among the natural bodies that move circularly.
+I see we are once more going to engulf ourselves in a boundless sea from which there is no getting out, ever. 
+
+This is navigating without compass, stars, oars, or rudder, in which we must needs either pass from bank to bank or run aground, or sail forever lost. If, as you suggested, we are to get on with our main subject, it is necessary for the present to put aside the general question whether straight motion is necessary in nature and is proper to some bodies, and proceed to demonstrations, observations, and particular experiments. First we must propound all those that have been put forward to prove the earth's stability by Aristotle, Ptolemy, and others, trying next to resolve them. Finally we must produce those by which a person may become persuaded that the earth, no less than the moon or any other planet, is to be numbered among the natural bodies that move circularly.
 {{< /l >}}
 
 

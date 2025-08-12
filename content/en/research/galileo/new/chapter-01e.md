@@ -13,7 +13,11 @@ SIMP.   Everyday experience shows that the propagation of light is instantaneous
 
 
 {{< r a="Sagredo" >}}
-The only thing I am able to infer from this familiar bit of experience is that sound, in reaching our ear, travels more slowly than light; it does not inform me whether the coming of the light is instantaneous or whether, although extremely rapid, it still occupies time.  An observation of this kind tells us nothing more than one in which it is claimed that "As soon as the sun reaches the horizon its light reaches our eyes "; but who will assure me that these rays had not reached this limit earlier than they reached our vision?
+The only thing I am able to infer from this familiar bit of experience is that sound, in reaching our ear, travels more slowly than light.
+
+It does not tell me whether that light is instantaneous or not.
+
+ <!-- An observation of this kind tells us nothing more than one in which it is claimed that "As soon as the sun reaches the horizon its light reaches our eyes "; but who will assure me that these rays had not reached this limit earlier than they reached our vision? -->
 {{< /r >}}
 
 SALV.   The small conclusiveness of these and other similar observations once led me to devise a method by which one might accurately ascertain whether illumination, i.  e. , the propagation of light, is really instantaneous.  The fact that the speed of (43) [88] sound is as high as it is, assures us that the motion of light cannot fail to be extraordinarily swift.  The experiment which I devised was as follows:
