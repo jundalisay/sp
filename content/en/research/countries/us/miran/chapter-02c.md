@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2c
 title: The Core Tradeoff
-weight: 14
+weight: 12
 date: 2024-11-01
 description: ""
 c: "firebrick"

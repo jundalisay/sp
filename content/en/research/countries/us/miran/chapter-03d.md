@@ -8,64 +8,87 @@ c: "firebrick"
 ---
 
 
-The last trade war saw gradations of tariff rates for different types of products imported from China. It is likely that the next Trump Administration take a similar approach with respect to both products and trading partners. While President Trump has proposed a 10% tariff on the world as a whole, such a tariff is unlikely to be uniform across countries.
+The last trade war saw gradations of tariff rates for different types of Chinese imports. 
 
-Scott Bessent, a Trump advisor floated as potential Treasury Secretary, has proposed putting countries into different groups based on their currency policies, the terms of bilateral trade agreements and security agreements, their values and more. Per Bessent (2024), these buckets can bear different tariff rates, and the government can lay out what actions a trade partner would need to undertake to move between the buckets. 
+<!-- It is likely that the next Trump Administration take a similar approach with respect to both products and trading partners. While President Trump has proposed a 10% tariff on the world as a whole, such a tariff is unlikely to be uniform across countries. -->
 
-Supply chains might have ultimately had greater adjustments if the Phase 1 deal reached in the fall of 2019 had been enforced. Given China abandoned it as soon as the Biden Administration took over and the Biden Administration had no interest in trying to enforce it, it is unclear if the trade war of 2018-2019 would have had more lasting consequences.
+Scott Bessent, a Trump advisor and potential Treasury Secretary, has proposed putting countries into different groups based on:
+- their currency policies
+- the terms of bilateral trade agreements and security agreements
+- their values and more. 
 
+<!-- Per Bessent (2024), these buckets can bear different tariff rates, and the government can lay out what actions a trade partner would need to undertake to move between the buckets.  -->
 
-In this manner, tariffs create negotiating leverage for incentivizing better terms from the rest of the world on
-both trade and security terms. America would encourage other nations to move to lower tariff tiers, improving
-burden sharing.
+Supply chains might have ultimately had greater adjustments if the Phase 1 deal reached in the fall of 2019 had been enforced. 
 
-One can imagine a long list of trade and security criteria which might lead to higher or lower tariffs, premised on the notion that access to the U.S. consumer market is a privilege that must be earned, not a right. 
+China abandoned it as soon as the Biden Administration took over.
+
+The Biden Administration had no interest to enforce it.
+
+And so it is unclear if the trade war of 2018-2019 would have had more lasting consequences.
+
+Tariffs create negotiating leverage for incentivizing better terms from the rest of the world on both trade and security terms. 
+
+America would encourage other nations to move to lower tariff tiers, improving burden sharing.
+
+<!-- One can imagine a long list of trade and security criteria which might lead to higher or lower tariffs, premised on the notion that  -->
+
+**Access to the U.S. consumer market is a privilege that must be earned, not a right.** 
 
 For example, maybe the U.S. wants to discriminate based on:
 
-• Does the nation apply similar tariff rates to their imports from the U.S. as America does on their exports here?
-• Does the nation have a history of suppressing its currency, for instance via the accumulation of excessive quantities of foreign exchange reserves?
-• Does the nation open its markets to U.S. firms in the same way America opens its markets to foreign firms operating stateside?
-• Does the nation respect American intellectual property rights?
-• Does the nation help China evade tariffs via re-export?
-• Does the nation pay its NATO obligations in full?
-• Does the nation side with China, Russia, and Iran in key international disputes, for instance at the United Nations?
-• Does the nation help sanctioned entities evade sanctions, or trade with sanctioned entities?
-• Does the nation support or oppose U.S. security efforts in various theaters?
-• Does the nation harbor enemies of the United States, e.g. terrorists or cybercriminals?
-• Do the nation’s leaders grandstand against the United States in the international theater?
+Does the nation:
+- apply similar tariffs on US imports as America applies to their exports here?
+- have a history of suppressing its currency by accumulating excessive foreign exchange reserves?
+- open its markets to U.S. firms in the same way America opens its markets to foreign firms?
+- respect American intellectual property rights?
+- help China evade tariffs via re-export?
+- pay its NATO obligations in full?
+- side with China, Russia, and Iran in key international disputes?
+- help sanctioned entities evade sanctions, or trade with sanctioned entities?
+- support or oppose U.S. security efforts?
+- harbor enemies of the United States, e.g. terrorists or cybercriminals?
+- have leaders that grandstand against the United States in the international theater?
 
-Because of the concern of the impacts of such a system on global markets, a Trump Administration may want to
-pursue a rate phase-in approach as described above, starting with low tariffs and only hitting the maximum 10%
-rate over time. Moreover, such a system is likely to begin with a small number of criteria as it is tested out, and
-then the criteria can grow in number.
+Tariffs may impact global markets. 
 
-If the system is effective over time either at raising revenue or incentivizing more favorable treatment from trading
-partners, it could eventually have a top tariff rate significantly in excess of 10%, that applies to a small number of
-countries. Similar to the domestic tax code, once the government starts carving out exclusions and deductions for
-various behaviors, it needs to raise rates to achieve the same revenue goals.
+And so, a Trump Administration should use a rate phase-in approach.
+- It should start with low tariffs, only hitting the maximum 10%
+rate over time. 
 
-Such a system can embody the view that national security and trade are joined at the hip. Trade terms can be a
-means of procuring better security outcomes and burden sharing. In Bessent’s words, “more clearly segmenting
-the international economy into zones based on common security and economic systems would help … highlight
-the persistence of imbalances and introduce more friction points to deal with them.” Countries that want to be
-inside the defense umbrella must also be inside the fair trade umbrella.
+Such a system can begin with few criteria as it is tested out.
+- Then the criteria can grow in number.
 
-Such a tool can be used to pressure other nations to join our tariffs against China, creating a multilateral approach
-toward tariffs. Forced to choose between facing a tariff on their exports to the American consumer or applying
-tariffs to their imports from China, which will they choose? It depends on the relative tariff rates and how significant
-each is to their economies and security. The attempt to create a global tariff wall around China would increase the
-pressure on China to reform its economic system, at the risk of significantly more global volatility as supply chains
-come under greater pressure to adjust.
+The system could eventually have a top tariff rate much higher than 10% if the system is effective over time either at:
+- raising revenue or
+- incentivizing more favorable treatment from trading partners
 
-From America’s perspective, if other nations choose to keep their current policies vis China but accept the higher
-U.S. tariff, that’s not terrible—because then, in this framework, at least they’re paying revenue to Treasury, and
-limiting the security obligations of the United States. Joining a tariff wall with a security umbrella is a high-risk
+ <!-- that applies to a small number of countries.  -->
+
+Similar to the domestic tax code, once the government starts carving out exclusions and deductions for various behaviors, it needs to raise rates to achieve the same revenue goals.
+
+Such a system can embody the view that national security and trade are joined at the hip. 
+
+Trade terms can be a means of procuring better security outcomes and burden sharing.
+
+Bessent says that “more clearly segmenting the international economy into zones based on common security and economic systems.. highlight
+the persistence of imbalances and introduce more friction points to deal with them.” 
+
+Countries that want to be inside the defense umbrella must also be inside the fair trade umbrella.
+
+Such a tool can be used to pressure other nations to join our tariffs against China, creating a multilateral approach toward tariffs. 
+
+Forced to choose between facing a tariff on their exports to the American consumer or applying tariffs to their imports from China, which will they choose? 
+
+It depends on the relative tariff rates and how significant each is to their economies and security. 
+
+The attempt to create a global tariff wall around China would increase the pressure on China to reform its economic system, at the risk of significantly more global volatility as supply chains come under greater pressure to adjust.
+
+From America’s perspective, if other nations choose to keep their current policies vis China but accept the higher U.S. tariff, that’s not terrible—because then, in this framework, at least they’re paying revenue to Treasury, and limiting the security obligations of the United States. Joining a tariff wall with a security umbrella is a high-risk
 strategy, but if it works, it is also high reward.
 
 
-
-Tariffs and Competitiveness
+## Tariffs and Competitiveness
 
 Government revenue must come from somewhere, and requires some form of taxation. The characteristics of
 the tax code will affect overall economic growth and international competitiveness. Many in the Trump camp see
@@ -149,27 +172,46 @@ Where these arguments run into trouble is when other nations begin retaliating a
 
 However, retaliatory tariffs impose additional costs on America and run the risk of tit-for-tat escalations in excess of optimal tariffs that lead to a breakdown in global trade. Retaliatory tariffs by other nations can nullify the welfare benefits of tariffs for the U.S. 
 
-Thus, preventing retaliation will be of great importance. Because the United States is a large source of consumer demand for the world with robust capital markets, it can withstand tit-for-tat escalation more easily than other nations and is likelier to win a game of chicken. Recall that China’s economy is dependent on capital controls keeping savings invested in increasingly inefficient allocations of capital to unproductive assets like empty apartment buildings.
+Thus, preventing retaliation will be of great importance. Because the United States is a large source of consumer demand for the world with robust capital markets, it can withstand tit-for-tat escalation more easily than other nations and is likelier to win a game of chicken. 
+
+China’s economy is dependent on capital controls.
+- These keep savings invested in increasingly inefficient allocations of capital to unproductive assets like empty apartment buildings.*
+
+{{< n n="Chinese savings are in state owned enterprises" >}}
+
 
 <!-- 14 See, for instance, Broda, Limao and Weinstein (2008).
 15 See https://www.wsj.com/economy/trade/donald-trump-election-trade-tariffs-aed6c281  -->
 
-If tit-for-tat escalation causes increasing pressure on those capital controls for money to leave China, their economy can experience far more severe volatility than the American economy. This natural advantage limits the
-ability of China to respond to tariff increases.
+If tit-for-tat escalation causes increasing pressure on those capital controls for money to leave China, their economy can experience far more severe volatility than the American economy. 
 
-With respect to other nations, if the Trump Administration merges national security and trade policy explicitly, it may provide some incentives against retaliation. 
+This natural advantage limits the ability of China to respond to tariff increases.
 
-For instance, it could declare that it views joint defense obligations and the American defense umbrella as less binding or reliable for nations which implement retaliatory tariffs. Additionally, it’s not clear whether one should view the failure of this deterrent as a bad outcome. 
+Merging national security and trade policy might provide some incentives against retaliation. 
+
+For instance, it could declare that it views joint defense obligations and the American defense umbrella as less binding or reliable for nations which implement retaliatory tariffs. 
+
+Additionally, it’s not clear whether one should view the failure of this deterrent as a bad outcome. 
 
 Suppose the U.S. levels tariffs on NATO partners and threatens to weaken its NATO joint defense obligations if it is hit with retaliatory tariffs. 
 
-If Europe retaliates but dramatically boosts its own defense expenditures and capabilities, alleviating the United States’ burden for global security and threatening less overextension of our capabilities, it will have accomplished several goals. Europe taking a greater role in its own defense allows the U.S. to concentrate more on China, which is a far greater economic and national security threat to America than Russia is, while generating revenue.
+If Europe retaliates but dramatically boosts its own defense expenditures alleviating the US burden for global security and threatening less overextension of our capabilities, it will have accomplished several goals. 
 
-The Trump team will view tariffs as an effective means of raising taxes on foreigners to pay for retaining low tax rates on Americans. 
+Europe taking a greater role in its own defense allows the U.S. to concentrate more on China, which is a far greater threat to America than Russia is, while generating revenue.
 
-The reduced personal income tax rates introduced by the Tax Cuts and Jobs Act are due to expire in 2026 and extending them in full without raising deficits may require raising almost $5 trillion of new revenue or debt over a ten-year budget window.
+Trump will view tariffs as effective taxes on foreigners to pay for retaining low tax rates on Americans.*
 
-Tariffs are the answer for extending the tax cuts.
+{{< n n="The Americans will pay for those taxes, not foreigners" >}}
+
+The reduced personal income tax rates introduced by the Tax Cuts and Jobs Act will expire in 2026.
+
+Extending them will need a $5 trillion of new revenue or debt over 10 years.
+
+**Tariffs are the answer for extending the tax cuts.** *
+
+{{< n n="Tariffs will actually reduce the economy, making it harder to finance the debt" >}}
+
+
 
 Revenue must come from somewhere*.
 

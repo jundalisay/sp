@@ -93,6 +93,41 @@ Supereconomics Law | Physics Thermodynamics Law
 
 {{< i s="/graphics/econ/law4th.jpg" a="Prices" >}}
 
+
+## How we Got the Four Laws from Adam Smith
+
+We got the Four Laws by noticing a pattern in the maxims of Adam Smith in the Wealth of Nations. 
+
+We distilled the maxims into four factors as:
+
+1. Demand
+2. Capital
+3. Supply
+4. Trade
+
+We then compared these with the Four laws of Thermodynamics to fine-tune and harmonize the Four Laws of Supereconomics with that of thermodynamics of Physics, and the Four Cycles of Supersociology.  
+
+{{< q a="Adam Smith" c="Wealth of Nations Book 4, Chapter 2, Paragraphs 3-9" >}}
+The general industry of..society never can exceed what the capital of..society can employ (Law 2)… Every individual.. necessarily endeavours.. that his produce be of the greatest.. value (Law 2)… or to exchange for the greatest quantity either of money or of other goods (Law 4).  The annual revenue of society..is the same thing with that exchangeable value (Law 4).
+{{< /q >}}
+
+
+
+{{< q a="Adam Smith" c="Wealth of Nations Book 1, Chapter 10, Paragraph 49" >}}
+The quantity of industry.. is.. regulated by the annual demand so that the average annual produce is equal to the average annual consumption (Law 1).
+{{< /q >}}
+
+
+{{< q a="Adam Smith" c="Wealth of Nations Book 2, Chapter 2, Paragraph 37" >}}
+When we compute the quantity of industry.. we must always have regard to.. provisions, materials, and finished work. Money.. must always be deducted (Law 2)
+{{< /q >}}
+
+
+{{< q a="Adam Smith" c="Wealth of Nations Book 2, Chapter 2, Paragraph 60" >}}
+If the paper money never exceeds this value.. it can never exceed  what the circulation of the country can.. absorb and employ (Law 3).
+{{< /q >}}
+
+
 <!--  we can see how the four laws of value are the reverse of the laws of thermodynamics. For example:
 - the First law or the Conservation of Energy is the 'first' in Physics, but is the third in Supereconomics, as trade
 - the Third law, as absolute zero, is the last in Physics, but is the first in Supereconomics as its First law, as everything having a value. -->

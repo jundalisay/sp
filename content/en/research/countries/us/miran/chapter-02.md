@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2
 title: Theoretical Underpinnings
-weight: 12
+weight: 8
 description: "Heritage Foundation'"
 c: "firebrick"
 ---
