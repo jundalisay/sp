@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2b
 title: "John's Vision"
-weight: 7
+weight: 11
 image: /covers/daniel.png
 description: "The Apocalypse of John is written in the same style and language with the Prophecies of Daniel"
 author: Isaac Newton

@@ -47,16 +47,15 @@ This is very different from the Judeo-Christian God, Yahweh, Allah, and even the
 
 ## God as the Anunnaki
 
-The only way to explain the weirdness of the Judeo-Christian God is to connect it to the Anunnaki which is the alien species that created humans. This connects the Bible, Torah, and Quran to the texts of the Babylonians and Sumerians, since reality is a continuous wave. 
+The only way to explain the weirdness of the Judeo-Christian God is to connect it to the **Anunnaki** which is the alien species that created humans. This connects the Bible, Torah, and Quran to the texts of the Babylonians and Sumerians, since reality is a continuous wave. 
 
-The Anunnaki are physical beings and so are Negative. 
+The Anunnaki are physical beings and so are Negative, and has already been explained by both the ancient Sumerian texts and the ['modern' Essassani](https://www.youtube.com/watch?v=ji9rMw37o2M). 
 
 
 ![Anunnaki](/photos/medieval/anu.jpg)
 
 
-
-To get a true view of the Supreme, separate from aliens, we follow the 'critical feeling' techniques of Buddhism and Hinduism of catching and isolating our feelings.
+To get a true view of the Supreme (separate from physical aliens), we follow the 'critical feeling' techniques of Buddhism and Hinduism of catching and isolating our feelings.
 
 This allows us to:
 - see Existence in Its true form, without the bias of feeling
@@ -81,22 +80,25 @@ Hindu Shakti, Kali, Durga | | :heavy_check_mark: |
 
 ## The Absolute Entity
 
-We create the concept of the Absolute Entity in order to explain the nature of Probability of Existence. 
+We create the concept of the **Absolute Entity** in order to explain the nature of Probability of Existence. 
 
-We can regard it as the Supreme Entity in passive or pre-existing form. 
+We can think of the Absolute Entity as the **Supreme Entity** in passive or pre-existing form. 
 <!-- It is the only entity that does not move is the entity that created the ideas, minds, and feelings in the Universe. -->
-- The Ancient Greeks call it The One
-- Hindus call it Nirguna Brahma
-- Buddhists call it Sunya or Void
+- The Ancient Greeks call it *The One*
+- Hindus call it *Nirguna Brahma*
+- Buddhists call it *Sunya* or *Void*
 
 {{< q a="Aristotle" c="The Metaphysics by Aristotle Simplifed, Book 1, Part 8" >}}
 The believers of The One say that The One is the cause of substance [aether]. 
 {{< /q >}}
 
 
-The Supreme Entity which is biased towards creation. This bias comes in the form of the Positive Force slightly dominating the Negative Force in the long run.
+## The Supreme Entity
 
-The Positive keeps our universe in Existence whereas the Negative keeps that Existence dynamic. 
+The Supreme is biased towards creation. This bias comes in the form of the *Positive Force* slightly dominating the Negative Force in the long run.
+
+- The Positive (Yang in Taoism) keeps our universe in Existence. If the Positive had no Negative, then existence would be static and unchanging. 
+- The Negative (Yin in Taoism) keeps that Existence dynamic. If the Negative had no Positive, then there would be no persistence in existence. 
 
  <!-- which then leads to the constant existence and dynamism of our universe.      -->
 

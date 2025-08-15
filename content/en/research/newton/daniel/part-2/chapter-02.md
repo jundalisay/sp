@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2
 title: "The relation of John's Apocalypse to the Law of Moses and Temple Worship"
-weight: 6
+weight: 8
 image: /covers/daniel.png
 description: "The Apocalypse of John is written in the same style and language with the Prophecies of Daniel"
 author: Isaac Newton
