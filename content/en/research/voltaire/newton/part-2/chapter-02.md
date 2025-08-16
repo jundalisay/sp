@@ -57,7 +57,7 @@ It is an element I know only by its effects.
 
 Man is not made to know the intimate nature of things.* He can only calculate, measure, weigh, and experiment.
 
-{{< n n="Here, Voltair discards the solution to be replaced with ignorance of Nature" >}}
+{{< n n="Here, Voltaire discards the solution to be replaced with ignorance of Nature" >}}
 
 Fire does not always give light, and light does not always shine. 
 

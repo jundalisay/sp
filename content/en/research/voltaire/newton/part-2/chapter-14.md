@@ -15,15 +15,42 @@ We had often seen these colors painted on a white cloth or paper, in an order th
 
 Soon, from experiment to experiment, we went so far as to measure the space that each of these colors occupies.
 
-Finally, we noticed that these spaces are to each other the same as those of the lengths of a string that gives the seven musical tones.
+These spaces are to each other as those of the lengths of a string that gives the 7 musical tones.
 
-"I had always heard that it was from Kircher that Newton had drawn this discovery of the analogy of light and sound. Kircher in his *Ars magna lucis et umbrœ*, and in other books, calls sound the monkey of light. Some people inferred that Kircher had known these relationships; but it is good, for fear of misunderstanding, to put here before your eyes what Kircher says, pages 146 and following. 'Those,' he says, 'who have a high and strong voice come from the nature of the donkey: they are indiscreet and petulant, as we know donkeys are; and this voice resembles the color black. Those whose voice is first deep, and then acute, come from the ox: they are, like him, sad and angry, and their voice corresponds to celestial blue.'
+I had always heard that Newton got his analogy of light and sound from Father Kircher. 
 
-"He takes great care to strengthen these beautiful discoveries with the testimony of Aristotle. That's all that Father Kircher, otherwise one of the greatest mathematicians and most learned men of his time, teaches us; and that's how, more or less, all those who were not learned reasoned at the time. Let's see how Newton reasoned.
+In *Ars magna lucis et umbrœ* and other books, Kircher calls sound the "monkey of light". 
 
-"There are, as you know, in a single ray of light, seven main rays which each have their own refrangibility: each of these rays has its sine; each of these sines has its proportion with the common sine of incidence; observe what happens in these seven primordial traits, which escape by spreading out in the air.
+Some people inferred that Kircher had known these relationships.
 
-"It is not a question here of considering that in this very glass all these traits are separated, and that each of these traits takes on a different sine: we must consider this collection of rays in the glass as a single ray, which has only this common sine A B; but at the emergence from this crystal, each of these traits, spreading out noticeably, takes on its own different sine; that of red (the least refrangible ray) is this line C B, that of violet (the most refrangible ray) is this line C B D (figure 44).
+ but it is good, for fear of misunderstanding, to put here before your eyes what Kircher says, pages 146 and following. 
+
+ 'Those,' he says, 'who have a high and strong voice come from the nature of the donkey.
+
+ They are indiscreet and petulant, as we know donkeys are.
+
+ This voice resembles the color black. 
+
+ Those whose voice is first deep, and then acute, come from the ox: they are, like him, sad and angry, and their voice corresponds to celestial blue.'
+
+
+He takes great care to strengthen these beautiful discoveries with the testimony of Aristotle. 
+
+That's all that Father Kircher, otherwise one of the greatest mathematicians and most learned men of his time, teaches us.
+
+That's how, more or less, all those who were not learned reasoned at the time. Let's see how Newton reasoned.
+
+There are, as you know, in 
+
+A single ray of light ha 7 main rays.
+- Each have their own refrangibility and its sine.
+- Each of these sines has its proportion with the common sine of incidence.
+
+Observe what happens in these seven primordial traits, which escape by spreading out in the air.
+
+It is not a question here of considering that in this very glass all these traits are separated, and that each of these traits takes on a different sine: 
+
+we must consider this collection of rays in the glass as a single ray, which has only this common sine A B; but at the emergence from this crystal, each of these traits, spreading out noticeably, takes on its own different sine; that of red (the least refrangible ray) is this line C B, that of violet (the most refrangible ray) is this line C B D (figure 44).
 
 "With these proportions established, let's see what this relationship, as exact as it is singular, is between colors and music. Let the sine of incidence of the white beam of rays be to the sine of emergence of the red ray, as this line A B is to the line A B C.
 
@@ -35,11 +62,23 @@ Given sine in the air A B C.
 A B
 A B C D
 
-"You see that point C is the term of the smallest refrangibility, and D the term of the greatest: the small line C D therefore contains all the degrees of refrangibility of the seven rays. Now double C D above, so that I becomes the middle, as below:
+Point `C` is the term of the smallest refrangibility.
 
-A I C H G F E B D.
+Point `D` is the term of the greatest.
 
-"Then the length from A to C makes red: the length from A to H makes orange; from A to G, yellow; from A to F, green; from A to E, blue; from A to B, purple; from A to D, violet. Now, these spaces are such that each ray can indeed be refracted, a little more or less, in each of these spaces, but it will never leave this space that is prescribed for it; the violet ray will always play between B and D; the red ray, between C and I; and so on, all in such a proportion that if you divided this length from I to D into three hundred and sixty parts, each ray will have for itself the dimensions you see in the large figure attached hereto [See at the end of the note.]
+The small line `C D` therefore contains all the degrees of refrangibility of the 7 rays.
+
+Double `C D` above, so that `I` becomes the middle, as below:
+
+```
+A I C H G F E B D
+```
+
+Then the length from A to C makes red: the length from A to H makes orange; from A to G, yellow; from A to F, green; from A to E, blue; from A to B, purple; from A to D, violet. 
+
+These spaces are such that each ray can indeed be refracted, a little more or less, in each of these spaces, but it will never leave this space that is prescribed for it.
+
+The violet ray will always play between B and D; the red ray, between C and I; and so on, all in such a proportion that if you divided this length from I to D into three hundred and sixty parts, each ray will have for itself the dimensions you see in the large figure attached hereto [See at the end of the note.]
 
 "These proportions are precisely the same as those of musical tones: the length of the string which, when plucked, will produce C, is to the string which will give the octave of C, as the line A I, which will give red at I, is to the line A D, which gives violet at D; thus the spaces that mark the colors, in this figure, also mark the musical tones.
 

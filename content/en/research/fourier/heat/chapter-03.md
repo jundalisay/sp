@@ -59,10 +59,15 @@ Thus the problem is in determining the permanent temperatures of an infinite rec
 - 2 masses of ice `B` and `C`
 - a mass of boiling water A.
 
-The consideration of such simple and primary problems is one of the surest modes of discovering the laws of natural phenomena, and we see, by the history of the sciences, that every theory has been formed in this manner.
+The answer to this simple and primary problem lets us discover the laws of nature.
 
+ <!-- phenomena, and we see, by the history of the sciences, that every theory has been formed in this manner. -->
 
-To express more briefly the same problem, suppose a rectangular plate BA C, of infinite length, to be heated at its base A, and to preserve at all points of the base a constant temperature 1, whilst each of the two infinite sides B and C, perpendicular to the base 4, is submitted also at every point to a constant temperature 0; it is required to determine what must be the stationary temperature at any point of the plate.
+To express more briefly the same problem, 
+
+Suppose a rectangular plate `BAC`, of infinite length, is heated at its base `A`, and to preserve at all points of the base a constant temperature 1, whilst each of the two infinite sides B and C, perpendicular to the base 4, is submitted also at every point to a constant temperature 0; 
+
+What is the stationary temperature at any point of the plate?
 
 It is supposed that there is no loss of heat at the surface of the plate, or, which is the same thing, we consider a solid formed by superposing an infinite number of plates similar to the preceding the straight line Arz which divides the plate into two equal parts is taken as the axis of a, and the co-ordinates of any point m are x and y; 
 

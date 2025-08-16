@@ -103,3 +103,4 @@ The Supreme is biased towards creation. This bias comes in the form of the *Posi
  <!-- which then leads to the constant existence and dynamism of our universe.      -->
 
 The Absolute is beyond the Positive or Negative and consequently does not care or is not affected by them. It is the Supreme that 'cares' for Existence or Itself.
+
