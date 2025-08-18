@@ -11,15 +11,31 @@ weight: 9
 
 If ever one ought to say audax Japeti genus [the bold race of Japetus], it is in regard to the research men have dared to undertake on these first elements, which seem to be placed at an infinite distance from the sphere of our knowledge.
 
-Perhaps nothing is more modest than Newton’s opinion, who confined himself to believing that the elements of matter are matter—that is, an extended and impenetrable being, into whose intimate nature the understanding cannot penetrate; that God can divide it to infinity as He can annihilate it, but that He does not do so, and that He maintains these extended and indivisible parts to serve as the foundation for all the productions of the universe.
+Newton’s opinion is most modest.
 
-Perhaps, on the other hand, nothing is more bold than the flight Leibniz took when, starting from his principle of sufficient reason, he attempted to penetrate, if possible, into the very heart of causes and into the inexplicable nature of these elements.
+He confined himself to believing that:
+- the elements of matter are matter—that is, an extended and impenetrable being, into whose intimate nature the understanding cannot penetrate
+- God can divide it to infinity as He can annihilate it, but that He does not do so
+- God maintains these extended and indivisible parts to serve as the foundation for all the productions of the universe.
 
-“Every body,” he says, “is composed of extended parts; but of what are these extended parts composed? They are, at present,” he continues, “divisible and divided to infinity; you therefore never find anything but extension. Now, to say that extension is the sufficient reason for extension, is to argue in a circle, it is to say nothing; therefore one must find the reason, the cause of extended beings, in beings that are not extended, in simple beings, in monads; matter is therefore nothing but an assemblage of simple beings.”
+Leibniz' flight is most bold.
+
+His principle of sufficient reason attempted to penetrate into:
+- the very heart of causes
+- the inexplicable nature of these elements.
+
+{{< l a="Leibniz" >}}
+Every body is composed of extended parts; but of what are these extended parts composed? They are, at present,” he continues, “divisible and divided to infinity; you therefore never find anything but extension. Now, to say that extension is the sufficient reason for extension, is to argue in a circle, it is to say nothing; therefore one must find the reason, the cause of extended beings, in beings that are not extended, in simple beings, in monads; matter is therefore nothing but an assemblage of simple beings.”
+{{< /l >}}
+
 
 We have already seen in the chapter on the Soul that, according to Leibniz, each simple being is subject to change; but its alterations, its successive determinations which it receives, cannot come from outside, for the reason that this being is simple, intangible, and does not occupy space: it therefore has the source of all its changes within itself, on the occasion of external objects; it therefore has ideas.
 
-But it has a necessary relation to all parts of the universe: it therefore has ideas relative to the entire universe; the elements of the vilest excrement therefore have an infinite number of ideas. Their ideas, it is true, are not very clear; they lack apperception, as Leibniz says—they lack within themselves the intimate awareness of their thoughts; but they have confused perceptions of the present, the past, and the future.
+But it has a necessary relation to all parts of the universe: it therefore has ideas relative to the entire universe; the elements of the vilest excrement therefore have an infinite number of ideas. 
+
+Their ideas are not very clear.
+
+They lack apperception, as Leibniz says—they lack within themselves the intimate awareness of their thoughts; but they have confused perceptions of the present, the past, and the future.
 
 He admits 4 kinds of monads:
 
@@ -36,12 +52,23 @@ Everyone agrees with you on the principle of sufficient reason; but do you here 
 
 1. You admit that matter is currently divisible to infinity.
 
-The smallest part is therefore impossible to find. There is none that does not have sides, that does not occupy a place, that does not have a figure: how then can you wish it to be formed solely of beings without figure, without place, and without sides? Do you not violate the great principle of contradiction in trying to follow that of sufficient reason?
+The smallest part is therefore impossible to find. There is none that does not have sides, that does not occupy a place, that does not have a figure.
 
-2. Is it really sufficiently reasonable that a composite should have nothing in common with what composes it? What do I say—nothing in common? There is infinity between a simple being and an extended being; and you want one to be made of the other. He who would say that several elements of iron form gold, or that the constituent parts of sugar make colocynth (bitter gourd), would he say anything more revolting?
+How then can you wish it to be formed solely of beings without figure, without place, and without sides? Do you not violate the great principle of contradiction in trying to follow that of sufficient reason?
+
+
+2. Is it really sufficiently reasonable that a composite should have nothing in common with what composes it? What do I say—nothing in common? There is infinity between a simple being and an extended being; and you want one to be made of the other. 
+
+He who would say that several elements of iron form gold, or that the constituent parts of sugar make colocynth (bitter gourd), would he say anything more revolting?
 
 3. Can you seriously assert that a drop of urine is an infinity of monads, and that each of them has ideas—though obscure ones—of the entire universe, and this because, according to you, everything is full, because in the plenum everything is linked, because everything being linked together, and a monad necessarily having ideas, it cannot have a perception that is not connected to everything in the world?
 
 But is it proven that everything is full, despite the multitude of metaphysical and physical arguments in favor of the void? Is it proven that, everything being full, your supposed monad must have the useless ideas of everything that happens in this plenum?
 
-I appeal to your conscience: do you not feel how purely imaginary such a system is? Is not the confession of human ignorance about the elements of matter far superior to such a vain science? What an abuse of logic and geometry, when one uses that guiding thread only to lose oneself in such a labyrinth, and walks methodically into error with the very torch destined to enlighten us!
+I appeal to your conscience.
+
+Do you not feel how purely imaginary such a system is? 
+
+Is not the confession of human ignorance about the elements of matter far superior to such a vain science? 
+
+What an abuse of logic and geometry, when one uses that guiding thread only to lose oneself in such a labyrinth, and walks methodically into error with the very torch destined to enlighten us!

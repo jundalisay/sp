@@ -165,7 +165,9 @@ But these gentlemen do not realize that, according to Genesis, God also separate
 
 It would then follow, by the reasoning of these “physicists,” that the sun does not make the day, and that the absence of the sun does not make the night.
 
-They also add that God separated the waters from the waters, and they understand by this separation the sea and the clouds. But, according to them, it would then follow that the vapors that form the clouds are not, as they are, raised by the sun. For according to Genesis, the sun was created only after this separation of the lower and upper waters; yet they admit in that very passage that it is the sun that raises these upper waters. They are therefore in contradiction with themselves.
+They also add that God separated the waters from the waters, and they understand by this separation the sea and the clouds. But, according to them, it would then follow that the vapors that form the clouds are not, as they are, raised by the sun. 
+
+For according to Genesis, the sun was created only after this separation of the lower and upper waters; yet they admit in that very passage that it is the sun that raises these upper waters. They are therefore in contradiction with themselves.
 
 Will they deny the motion of the Earth because Joshua commanded the sun to stop? Will they deny the germination of seeds in the Earth because it is said that the grain must rot before sprouting?
 

@@ -13,7 +13,11 @@ It is not reflected by the solid parts of bodies. No surface is perfectly smooth
 
 Having now understood what light is, where it comes from, how and in what time it reaches us, let us look at its properties and its effects—effects unknown until our day. The first of these effects is that it seems to rebound from the solid surface of all objects, to bring their images into our eyes.
 
-All men, all philosophers—even Descartes, Malebranche, and those who departed furthest from common ideas—have equally believed that it was indeed the solid surfaces of bodies that returned the rays to us. The smoother and more solid a surface, it was said, the more it reflects light; the more a body has large, straight pores, the more it lets rays pass through its substance. Thus the polished mirror, whose back is coated with a surface of quicksilver, reflects all the rays to us; thus that same mirror without quicksilver, having straight and wide pores in great number, lets a large part of the rays pass through. The wider and straighter a body’s pores, the more transparent it is: such, they said, is the diamond; such is water itself. These were the generally accepted ideas, and no one doubted them.
+All men, all philosophers—even Descartes, Malebranche, and those who departed furthest from common ideas—have equally believed that it was indeed the solid surfaces of bodies that returned the rays to us. 
+
+The smoother and more solid a surface, it was said, the more it reflects light; the more a body has large, straight pores, the more it lets rays pass through its substance. 
+
+Thus the polished mirror, whose back is coated with a surface of quicksilver, reflects all the rays to us; thus that same mirror without quicksilver, having straight and wide pores in great number, lets a large part of the rays pass through. The wider and straighter a body’s pores, the more transparent it is: such, they said, is the diamond; such is water itself. These were the generally accepted ideas, and no one doubted them.
 
 Yet all these ideas are entirely false—so often what seems most plausible is furthest from the truth. Philosophers fell into this error in the same way the vulgar do, when they think that the sun is no bigger than it appears to the eye. Here is the philosophers’ mistake.
 
@@ -65,11 +69,25 @@ Any opaque body, reduced to a thin sheet, lets rays of a certain kind pass throu
 
 This will be another cause of surprise, for those who have not studied this philosophy, to hear that the secret of making a body **opaque** is often to **widen** its pores, and that the way to make it **transparent** is to **narrow** them. The order of nature will appear completely reversed: what seemed to produce opacity will, in fact, produce transparency; and what seemed to produce transparency will be what makes bodies opaque. Yet nothing is more true, and even the simplest experiments demonstrate it.
 
-Dry paper, whose pores are very large, is opaque: no ray of light passes through it; narrow its pores by soaking it with water or oil, and it becomes transparent; the same happens with cloth, with salt.
+Dry paper has very large opaque pores.
 
-It is good to inform the public that a man who recently wrote against these truths, with much more arrogance and scorn than knowledge, had wanted to mock Newton over these discoveries. *“If the secret,”* he said, *“of making a body transparent is to narrow its pores, then we must make windows smaller to have more light in our rooms,”* etc.
+No light passes through it.
 
-I reply that it is quite improper to play the joker when one claims to speak as a philosopher, and that mocking Newton is too bold an enterprise; I reply above all that this joker should have considered that it is very true that large openings, whose light is blocked, will not give light; and that a thin body, pierced with an infinity of tiny straight holes exposed to the sun, illuminates us greatly. Oiled paper, wet cloth, for example, are thin bodies whose pores the oil or water has narrowed and straightened, and the light passes through these more regular pores; but it will **not** pass through the largest sieves if their holes cross and intercept the rays.
+Narrow its pores by soaking it with water or oil, and it becomes transparent.
+
+The same happens with cloth, with salt.
+
+Jean-Jacques Rousseau recently wrote against these truths, with much more arrogance and scorn than knowledge.
+
+He had wanted to mock Newton over these discoveries. 
+
+“If the secret of making a body transparent is to narrow its pores, then we must make windows smaller to have more light in our rooms,”* etc.
+
+<!-- I reply that it is quite improper to play the joker when one claims to speak as a philosopher, and that mocking Newton is too bold an enterprise. -->
+
+This joker should have considered that it is very true that large openings, whose light is blocked, will not give light; and that a thin body, pierced with an infinity of tiny straight holes exposed to the sun, illuminates us greatly. Oiled paper, wet cloth, for example, are thin bodies whose pores the oil or water has narrowed and straightened, and the light passes through these more regular pores.
+
+But it will **not** pass through the largest sieves if their holes cross and intercept the rays.
 
 Before taking a mocking tone, one should be very sure one is right; and when one is certain at last of being right, one should not mock.
 
