@@ -1,6 +1,6 @@
 ---
 title: "Advertisement"
-weight: 400
+weight: 4
 image: /covers/daniel.png
 description: "Newton enumerates 3 Laws and 6 Corollaries"
 author: Isaac Newton

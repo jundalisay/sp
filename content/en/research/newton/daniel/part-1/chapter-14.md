@@ -1,13 +1,12 @@
 ---
 heading: Chapter 14
 title: "The Mahuzzims, honoured by the King who did according to his will."
-weight: 4
+weight: 49
 image: /covers/daniel.png
 description: "Newton enumerates 3 Laws and 6 Corollaries"
 author: Isaac Newton
 icon: /icons/newton.png
 ---
-
 
 
 The scripture tells that God is our refuge, our strength, our defense.

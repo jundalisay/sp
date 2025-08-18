@@ -29,7 +29,7 @@ It is not always the case that sugar is present in the urine of diabetes patient
 
 Diabetes without sugar is called “mútrátisára” or “udakameha”.
 
-The debility of the Mańipura Cakra is the main cause of diabetes.
+**The debility of the Mańipura Cakra is the main cause of diabetes.**
 
 Amongst the pancreatic juices:
 - one secretion helps in the digestion of food
@@ -58,7 +58,9 @@ To dissolve the sugar, the human body needs plenty of water.
 
 This is why diabetes patients suffer from a continuous thirst.
 
-The sugar emitted with the urine in a large quantity gradually reduces the vital energy of diabetes patients.
+The sugar emitted with the urine in a large quantity gradually reduces the vital energy of diabetes patients.*
+
+{{< n n="This is the same as food poisoning decreasing vital energy through loose bowel movement" >}}
 
 
 ## Asanas
@@ -76,14 +78,15 @@ Ágneyii Mudrá or Ágneyii Práńáyáma | Agnisára Mudrá (Navel)
 ## Diet
 
 Diabetes is basically a disease of liver and pancreas. 
+- These organs should be kept in a healthy state.
 
-These organs should be kept in a healthy state.
-
-Patients must select food that will keep their bowels clear, yet which is nutritious and easily digestible. 
+Patients must select food:
+- are nutritious and easily digestible
+- yet will keep their bowels clear
 
 All types of fruits are good for this disease, especially ripe bananas. 
 
-Non-vegetarian food must never be eaten.
+**Non-vegetarian food must never be eaten.**
 
 Vegetable proteins are also acidic, hence they are to be eaten as sparingly as possible. 
 
@@ -91,7 +94,17 @@ Vegetable proteins are also acidic, hence they are to be eaten as sparingly as p
 
 Rice and rut́i (made of wheat flour) should therefore be reduced. 
 
-More foods such as vegetable soup, plantain soup, pat́ol, okra, dhundula, paltá, squash (Lagenaria vulgaris Seringe), plantain spathes and flowers, figs, etc. should be eaten as they contain alkaline properties.
+More alkaline foods should be eaten, such as:
+- vegetable soup
+- plantain soup
+- pat́ol
+- okra
+- dhundula
+- paltá
+- squash (Lagenaria vulgaris Seringe)
+- plantain spathes and flowers
+- figs, etc.
+
 
 
 ## Dos and don’ts
@@ -131,9 +144,18 @@ Diabetes patients:
 
 In the severe state, a continuous fast for 2-3 days taking only a little lemon juice or other fruit will definitely reduce the urine's sugar content.
 
-Sometimes, sugar is completely absent in the urine. In this respect one has to remember that sugar may be found temporarily in the urine if the urinary bladder, kidney or some other internal organ is subjected to a blow. 
 
-If in such cases insulin is given, it will actually harm the patient. The best thing to do would be to treat the injury of the concerned organ appropriately, and then the urine of the patient will automatically become sugar-free.
+### Non-diabetic Glucosuria
+
+In normal people, sugar is completely absent in the urine. 
+
+But sugar might be found temporarily in the urine if the urinary bladder, kidney or some other internal organ is subjected to a blow. 
+
+Giving insulin in such cases would be harmful to the patient. 
+
+The best thing to do would be to treat the injury of the concerned organ appropriately.
+- The urine of the patient will automatically become sugar-free.
+
 
 
 ## Remedies
@@ -145,6 +167,7 @@ Drink 2 tolas of the extract early in the morning for a few days regularly. This
 2. Crush about 1/8 seer of guava leaves in water at night.
 
 The next morning strain the leaves out and drink the water. 
+
 
 This will bring good results during the severe state of diabetes.
 
@@ -169,7 +192,8 @@ This will bring good results during the severe state of diabetes.
 
 Drink this every day for 1 week at break of dawn. This will bring beautiful results.
 
-2. Mix equal quantities of myrobalan, muthá, lodhá and banyan fruits and extract their juice.
+
+7. Mix equal quantities of myrobalan, muthá, lodhá and banyan fruits and extract their juice.
 
 Drink 2 tolas of the juice regularly.
 
