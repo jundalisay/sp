@@ -13,13 +13,24 @@ writer:
 
 
 
-Descartes traveled by post from Lyon to Poitou to check on the state his property there which he had been unable to sell before his departure, and to give an account to Mrs. Sain, his godmother, of what he had done for her late husband's affairs in the army in Italy. 
+Descartes traveled by post from Lyon to Poitou to:
+- check on his property there.
+  - He was unable to sell it before his departure
+- give an account to Mrs. Sain, his godmother, of what he had done for her late husband's affairs in the army in Italy. 
 
-While in Châtellerault, he was solicited to negotiate for the position of lieutenant general of the place, who was pressed to get rid of it to buy another for his son: and they made him understand that he would have it for sixteen thousand crowns or 50,000 livres.
+While in Châtellerault, he was asked to negotiate for the position of lieutenant general of the place, who was pressed to get rid of it to buy another for his son. 
 
-He first rejected these proposals on the pretext that he could not put more than ten thousand crowns of his money into a judicial office. But having been unable to resist the requests of some friends who offered him money without interest, he promised to write to his father as soon as he was in Poitiers. 
+They made him understand that he would have it for sixteen thousand crowns or 50,000 livres.
 
-This is what he did on the 24th of June, to beg him to assist him with his advice, and to determine him in his choice. He had reason to fear that his father, who was then in Paris, would judge him incapable of filling an office of this kind, because having done no other exercise until then than to wear the sword, he would seem to have come too late to enter the profession of the robe. This is why he wanted to anticipate him by pointing out to him the disposition he would be in to go and put himself with a solicitor of the Châtelet, until he had learned enough practice to be able to exercise this office.
+He first rejected these proposals on the pretext that he could not put more than ten thousand crowns of his money into a judicial office. 
+
+But having been unable to resist the requests of some friends who offered him money without interest, he promised to write to his father as soon as he was in Poitiers. 
+
+This is what he did on June 24 to:
+- beg him to assist him with his advice
+- determine him in his choice. 
+
+He feared that his father, who was then in Paris, would judge him incapable of filling an office of this kind, because having done no other exercise until then than to wear the sword, he would seem to have come too late to enter the profession of the robe. This is why he wanted to anticipate him by pointing out to him the disposition he would be in to go and put himself with a solicitor of the Châtelet, until he had learned enough practice to be able to exercise this office.
 
 His intention was to go and see his father in Paris, as soon as he had received news from him: but the apprehension of no longer finding him in **this city** made him leave by post without waiting for his answer and arrive at the beginning of the month of July. 
 

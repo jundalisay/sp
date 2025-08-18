@@ -36,6 +36,11 @@ Material | Mass
 
 Each law has its implementing rules which will be discussed in each Part for each layer. 
 
+In summary:
+- the singleness of the Supreme means that a change in one part *affects* all others.
+- this affecting of parts is called relationality
+- the job of relationality is to conserve the singleness of the unit
+
 
 ## The Law of Conservation of Identity
 
@@ -72,3 +77,4 @@ It is the wetness of water and liquids that allows both:
 ## The Law of Conservation of Mass
 
 This operates in the material layer and is already well known in Physics. Matter is facilitated by the static aetherspace and is the most crudified version of the aether. 
+

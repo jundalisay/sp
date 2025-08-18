@@ -23,7 +23,7 @@ The Law of Conservation of Idea in Physical Reality  | This manifests as Gravita
 {{< /dc >}} -->
 
 
-Chapter 4 explained that energy and force comes from the media of the 5 layers that transfer to the substances or particles in existence. 
+Chapter 4 explained that energy and force comes from the media of the 5 layers that transfer to the substances or particles in existence.
 
 The amount of energy that can course through the susbtance depends on the **inherent configuration** of that substance. We call this the gravitational signature, notated as `G`.
 
