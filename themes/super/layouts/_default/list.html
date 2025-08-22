@@ -79,6 +79,7 @@
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 p-5">
         {{ range $paginator.Pages }}
 
+        
           {{ if .Params.a }}
             {{ partial "card-ava.html" . }}
           {{ else if .Params.image }}

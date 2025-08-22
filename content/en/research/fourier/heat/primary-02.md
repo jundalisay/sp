@@ -179,9 +179,14 @@ The problems relative to continuous bodies, which form the theory rightly so cal
 
 We added to this memoir, and successively for- warded very extensive notes, concerning the convergence of series, the diffusion of heat in an infinite prism, its emission in spaces void of air, the constructions suitable for exhibiting the chief theorems, and the analysis of the periodic movement at the sur- face of the earth. 
 
-Our second memoir, on the propagation of heat, was deposited in the archives of the Institute, on the 28th of September, 1811. 
+My second memoir was:
+- on the propagation of heat
+- deposited in the archives of the Institute, on September 28, 1811. 
+- formed out of the preceding memoir
 
-It was formed out of the preceding memoir and the notes already sent in; the geometrical constructions and those details of analysis which had no necessary relation to the physical problem were omitted, and to it was added the general equation which expresses the state of the surface. This second work was sent to press in the course of 1821, to be inserted in the collection of the Academy of Sciences. It is printed without any change or addition; the text agrees literally with the deposited manuscript, which forms part of the archives of the Institute'.
+The geometrical constructions and those details of analysis which had no necessary relation to the physical problem were omitted, and to it was added the general equation which expresses the state of the surface.
+
+This second work was sent to press in the course of 1821, to be inserted in the collection of the Academy of Sciences. It is printed without any change or addition; the text agrees literally with the deposited manuscript, which forms part of the archives of the Institute'.
 
 In this memoir, and in the writings which preceded it, will be found a first explanation of applications which our actual work does not contain; they will be treated in the subsequent memoirs ' at greater length, and, if it be in our power, with greater clearness. 
 

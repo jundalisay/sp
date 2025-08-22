@@ -1,5 +1,5 @@
 ---
-# heading: "Semi-Enlightened"
+heading: "Chapter 1"
 title: "The Analytical Theory of Heat"
 date: 2025-08-14
 weight: 4
@@ -8,9 +8,8 @@ c: "yellow"
 ---
 
 
-CHAPTER I.
-INTRODUCTION.
-FIRST SECTION.
+<!-- INTRODUCTION.
+FIRST SECTION. -->
 
 <!-- Statement of the Object of the Work. -->
 
@@ -54,7 +53,12 @@ When the source is removed, the line which bounds the ordinates proportional to 
 
 Consider next the variable state which succeeds to the former state as soon as the source has been removed; denote by t the time which has passed since the suppression of the source, and by the value of the temperature at the point m after the time. The quantity will be a certain function F(x, t) of the distance and the time t; the object of the problem is to discover this function F(x, t), of which we only know as yet that the initial value is f (x), so that we ought to have the equation f(x)= F(x, 0).
 
-5. If we place a solid homogeneous mass, having the form of a sphere or cube, in a medium maintained at a constant tem- perature, and if it remains immersed for a very long time, it will acquire at all its points a temperature differing very little from that of the fluid. Suppose the mass to be withdrawn in order to transfer it to a cooler medium, heat will begin to be dissi- pated at its surface; the temperatures at different points of the mass will not be sensibly the same, and if we suppose it divided into an infinity of layers by surfaces parallel to its external sur- face, each of those layers will transmit, at each instant, a certain quantity of heat to the layer which surrounds it. If it be imagined that each molecule carries a separate thermometer, which indicates its temperature at every instant, the state of the solid will from time to time be represented by the variable system of all these thermometric heights. It is required to express the successive states by analytical formulae, so that we may know at any given instant the temperatures indicated by each thermometer, and compare the quantities of heat which flow during the same instant, between two adjacent layers, or into the surrounding medium.
+5. If we place a solid homogeneous mass, having the form of a sphere or cube, in a medium maintained at a constant tem- perature, and if it remains immersed for a very long time, it will acquire at all its points a temperature differing very little from that of the fluid.
+
+
+Suppose the mass to be withdrawn in order to transfer it to a cooler medium, heat will begin to be dissipated at its surface; the temperatures at different points of the mass will not be sensibly the same, and if we suppose it divided into an infinity of layers by surfaces parallel to its external surface, each of those layers will transmit, at each instant, a certain quantity of heat to the layer which surrounds it. 
+
+If it be imagined that each molecule carries a separate thermometer, which indicates its temperature at every instant, the state of the solid will from time to time be represented by the variable system of all these thermometric heights. It is required to express the successive states by analytical formulae, so that we may know at any given instant the temperatures indicated by each thermometer, and compare the quantities of heat which flow during the same instant, between two adjacent layers, or into the surrounding medium.
 
 6. If the mass is spherical, and we denote by a the distance of a point of this mass from the centre of the sphere, by t the time which has elapsed since the commencement of the cooling, and by the variable temperature of the point m, it is easy to see that all points situated at the same distance from the centre of the sphere have the same temperature v. This quantity v is a certain function F(x, t) of the radius a and of the time t; it must be such that it becomes constant whatever be the value of x, when we suppose t to be nothing; for by hypothesis, the temperature at all points is the same at the moment of emersion. The problem consists in determining that function of x and t which expresses the value of v.
 
@@ -67,6 +71,4 @@ Consider next the variable state which succeeds to the former state as soon as t
 10. Take as origin of co-ordinates x, y, z, the centre of the base of the prism, and as rectangular axes, the axis of the prism itself, and the two perpendiculars on the sides: the permanent temperature v of the point m, whose co-ordinates are x, y, z, is a function of three variables F(x, y, z): it has by hypothesis a constant value, when we suppose a nothing, whatever be the values of y and z. Suppose we take for the unit of heat that quantity which in the unit of time would emerge from an area equal to a unit of surface, if the heated mass which that area bounds, and which is formed of the same substance as the prism, were continu- ally maintained at the temperature of boiling water, and immersed in atmospheric air maintained at the temperature of melting ice.
 We see that the quantity of heat which, in the permanent state of the rectangular prism, flows, during a unit of time, across a certain section perpendicular to the axis, has a determinate ratio to the quantity of heat taken as unit. This ratio is not the same for all sections: it is a function () of the distance a, at which the section is situated. 
 
-It is required to find an analytical expres- sion of the function (x).
-
-
+It is required to find an analytical expression of the function (x).
