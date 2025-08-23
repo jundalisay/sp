@@ -34,6 +34,7 @@ This mirrors the First Law of Thermodynamics, known as the law of conservation o
 
 {{< i s="/graphics/econ/law2.png" a="Second Law" >}}
 
+> Value is created to remove the lack in society
 
 <!-- n n="*It explains why people always make an effort to better themselves just as time always moves forward. The causal mechanism is the cycling of the Positive and Negative forces" -->
 

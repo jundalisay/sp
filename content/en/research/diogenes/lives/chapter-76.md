@@ -1,10 +1,11 @@
 ---
-title: "Thales"
+title: "Thales: Egyptian"
 heading: Chapter 76
 date: 2025-08-21
 weight: 162
 description: "LIFE OF Thales"
 c: "darkslategray"
+tags: ['Egyptians']
 ---
 
 
@@ -17,15 +18,38 @@ He was the first man to whom the name of Wise was given, when Damasius was Archo
 
 He was enrolled as a citizen at Miletus when he came thither with Neleus, who had been banished from Phœnicia; but a more common statement is that he was a native Milesian, of noble extraction.
 
-<sup>2</sup> After having been immersed in state affairs he applied himself to speculations in natural philosophy; though, as some people state, he left no writings behind him. For the book on Naval Astronomy, which is attributed to him is said in reality to be the work of Phocus the Samian. But Callimachus was aware that he was the discoverer of the Lesser Bear; for in his Iambics he speaks of him thus:
+<sup>2</sup> After having been immersed in state affairs he applied himself to natural philosophy though he left no writings. 
+
+The book on Naval Astronomy, which is attributed to him is really from Phocus the Samian.
+
+But Callimachus was aware that he was the discoverer of the Lesser Bear; for in his Iambics he speaks of him thus:
 
 And, he, ’tis said, did first compute the stars
 Which beam in Charles’s wain, and guide the bark
 Of the Phœnician sailor o’er the sea.
 
-According to others he wrote two books, and no more, about the solstice and the equinox; thinking that everything else was easily to be comprehended. According to other statements, he is said to have been the first who studied astronomy, and who foretold the eclipses and motions of the sun, as Eudemus relates in his history of the discoveries made in astronomy; on which account Xenophanes and Herodotus praise him greatly; and Heraclitus and Democritus confirm this statement.
+According to others, he wrote 2 books about the solstice and the equinox thinking that everything else was easily to be comprehended.
 
-III. Some again (one of whom is Chœrilus the poet) say that he was the first person who affirmed that the souls of men were immortal; and he was the first person, too, who[15] discovered the path of the sun from one end of the ecliptic to the other: and who, as one account tells us, defined the magnitude of the sun as being seven hundred and twenty times as great as that of the moon. He was also the first person who called the last day of the month the thirtieth. And likewise the first to converse about natural philosophy, as some say. But Aristotle and Hippias say that he attributed souls also to lifeless things, forming his conjecture from the nature of the magnet, and of amber. And Pamphile relates that he, having learnt geometry from the Egyptians, was the first person to describe a right-angled triangle in a circle, and that he sacrificed an ox in honour of his discovery. But others, among whom is Apollodorus the calculator, say that it was Pythagoras who made this discovery. It was Thales also who carried to their greatest point of advancement the discoveries which Callimachus in his iambics says were first made by Euphebus the Phrygian, such as those of the scalene angle, and of the triangle, and of other things which relate to investigations about lines. He seems also to have been a man of the greatest wisdom in political matters. For when Crœsus sent to the Milesians to invite them to an alliance, he prevented them from agreeing to it, which step of his, as Cyrus got the victory, proved the salvation of the city. But Clytus relates, as Heraclides assures us, that he was attached to a solitary and recluse life.
+He is said to have been the first who studied astronomy, and who foretold the eclipses and motions of the sun, as Eudemus relates. This is why Xenophanes and Herodotus praise him greatly. Heraclitus and Democritus confirm this statement.
+
+
+<sup>3</sup> Chœrilus the poet says that Thales was the first to:
+- affirm the immortality of the soul.
+- discover the path of the sun from one end of the ecliptic to the other
+- call the last day of the month the 30th.
+- discuss about natural philosophy. 
+
+He defined the magnitude of the sun as being 720 times as great as that of the moon.
+
+But Aristotle and Hippias say that he attributed souls also to lifeless things, forming his conjecture from the nature of the magnet, and of amber.
+
+Pamphile relates that he learned geometry from the Egyptians.
+
+He was the first to describe a right-angled triangle in a circle, and that he sacrificed an ox in honour of his discovery. 
+
+But others, among whom is Apollodorus the calculator, say that it was Pythagoras who made this discovery. 
+
+It was Thales also who carried to their greatest point of advancement the discoveries which Callimachus in his iambics says were first made by Euphebus the Phrygian, such as those of the scalene angle, and of the triangle, and of other things which relate to investigations about lines. He seems also to have been a man of the greatest wisdom in political matters. For when Crœsus sent to the Milesians to invite them to an alliance, he prevented them from agreeing to it, which step of his, as Cyrus got the victory, proved the salvation of the city. But Clytus relates, as Heraclides assures us, that he was attached to a solitary and recluse life.
 
 IV. Some assert that he was married, and that he had a son named Cibissus; others, on the contrary, say that he never had a wife, but that he adopted the son of his sister; and that once being asked why he did not himself become a father, he answered, that it was because he was fond of children. They say, too, that when his mother exhorted him to marry, he said, “No, by Jove, it is not yet time.” And afterwards, when he was past his youth, and she was again pressing him earnestly, he said, “It is no longer time.”
 
@@ -115,18 +139,29 @@ XIV. Now concerning the seven, (for it is well here to speak of them all togethe
 Chilo, the Spartan sage, this sentence said:
 Seek no excess—all timely things are good.
 
-There is also a difference of opinion with respect to their number. Leander inserts in the number instead of Cleobulus and Myson, Leophantus Gorsias, a native of either Lebedos or Ephesus; and Epimenides, the Cretan; Plato, in his Protagoras, reckons Myson among them instead of Periander. And Ephorus mentions Anacharsis in the place of Myson; some also add Pythagoras to the number. Dicæarchus speaks of four, as universally agreed upon, Thales, Bias, Pittacus, and Solon; and then enumerates six more, of whom we are to select three, namely, Aristodemus, Pamphilus, Chilo the Lacedæmonian, Cleobulus, Anacharsis, and Periander. Some add Acusilaus of Argos, the son of Cabas, or Scabras. But Hermippus, in his Treatise on the Wise Men says that there were altogether seventeen, out of whom different authors selected different individuals to make up the seven. These seventeen were Solon, Thales, Pittacus, Bias, Chilo, Myson,[22] Cleobulus, Periander, Anacharsis, Acusilaus, Epimenides, Leophantus, Pherecydes, Aristodemus, Pythagoras, Lasus the son of Charmantides, or Sisymbrinus, or as Aristoxenus calls him the son of Chabrinus, a citizen of Hermione, and Anaxagoras. But Hippobotus in his Description of the Philosophers enumerates among them Orpheus, Linus, Solon, Periander, Anacharsis, Cleobulus, Myson, Thales, Bias, Pittacus, Epicharmus, and Pythagoras.
+There is also a difference of opinion with respect to their number. Leander inserts in the number instead of Cleobulus and Myson, Leophantus Gorsias, a native of either Lebedos or Ephesus; and Epimenides, the Cretan; Plato, in his Protagoras, reckons Myson among them instead of Periander. And Ephorus mentions Anacharsis in the place of Myson; some also add Pythagoras to the number. Dicæarchus speaks of four, as universally agreed upon, Thales, Bias, Pittacus, and Solon; and then enumerates six more, of whom we are to select three, namely, Aristodemus, Pamphilus, Chilo the Lacedæmonian, Cleobulus, Anacharsis, and Periander. Some add Acusilaus of Argos, the son of Cabas, or Scabras. But Hermippus, in his Treatise on the Wise Men says that there were altogether seventeen, out of whom different authors selected different individuals to make up the seven. These seventeen were Solon, Thales, Pittacus, Bias, Chilo, Myson,[22] Cleobulus, Periander, Anacharsis, Acusilaus, Epimenides, Leophantus, Pherecydes, Aristodemus, Pythagoras, Lasus the son of Charmantides, or Sisymbrinus, or as Aristoxenus calls him the son of Chabrinus, a citizen of Hermione, and Anaxagoras. 
+
+
+But Hippobotus in his Description of the Philosophers enumerates among them Orpheus, Linus, Solon, Periander, Anacharsis, Cleobulus, Myson, Thales, Bias, Pittacus, Epicharmus, and Pythagoras.
+
 
 <sup>15</sup> The following letters were written by Thales:
 
 {{< l a="Thales" >}}
 TO PHERECYDES
 
-I hear that you are disposed, as no other Ionian has been, to discourse to the Greeks about divine things, and perhaps it will be wiser of you to reserve for your own friends what you write rather than to entrust it to any chance people, without any advantage. If therefore it is agreeable to you, I should be glad to become a pupil of yours as to the matters about which you write; and if you invite me I will come to you to Syros; for Solon the Athenian and I must be out of our senses if we sailed to Crete to investigate the history of that country, and to Egypt for the purpose of conferring with the priests and astronomers who are to be found there, and yet are unwilling to make a voyage to you; for Solon will come too, if you will give him leave, for as you are fond of your present habitation you are not likely to come to Ionia, nor are you desirous of seeing strangers; but you rather, as I hope, devote yourself wholly to the occupation of writing. We, on the other hand, who write nothing, travel over all Greece and Asia.
+I hear that you want to talk to the Greeks about divine things, as no other Ionian has.
+
+You should reserve your writings for your own friends than to entrust it to any chance people, without any advantage. 
+
+I want to become your pupil in Syros. Solon the Athenian and I must be out of our senses if we sailed to Crete to investigate the history of that country, and to Egypt to confer with the priests and astronomers there, and yet are unwilling to make a voyage to you.
+
+Solon will come too, if you will give him leave, for as you are fond of your present habitation you are not likely to come to Ionia, nor are you desirous of seeing strangers; but you rather, as I hope, devote yourself wholly to the occupation of writing. We, on the other hand, who write nothing, travel over all Greece and Asia.
 {{< /l >}}
 
-{{< l a="Thales" >}}
-THALES TO SOLON.
 
-XVI. If you should leave Athens it appears to me that you would find a home at Miletus among the colonists of Athens more suitably than anywhere else, for here there are no annoyances of any kind. And if you are indignant because we Milesians are governed by a tyrant, (for you yourself hate all despotic rulers), still at all events you will find it pleasant to live with us for your companions. Bias has also written to invite you to Priene, and if you prefer taking up your abode[23] in the city of the Prieneans, then we ourselves will come thither and settle near you.
+{{< l a="Thales" >}}
+TO SOLON
+
+<sup>16</sup> If you should leave Athens it appears to me that you would find a home at Miletus among the colonists of Athens more suitably than anywhere else, for here there are no annoyances of any kind. And if you are indignant because we Milesians are governed by a tyrant, (for you yourself hate all despotic rulers), still at all events you will find it pleasant to live with us for your companions. Bias has also written to invite you to Priene, and if you prefer taking up your abode[23] in the city of the Prieneans, then we ourselves will come thither and settle near you.
 {{< /l >}}

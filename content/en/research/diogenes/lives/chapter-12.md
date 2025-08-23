@@ -1,6 +1,6 @@
 ---
 title: "Arcesilaus: Plato"
-heading: Chapter 1
+heading: Chapter 12
 # 3
 date: 2025-08-21
 weight: 27
@@ -13,20 +13,26 @@ tags: ['Platonists']
 <sup>1</sup> Arcesilaus was:
 - the son of Seuthes or Scythes, as Apollodorus states in the third book of his Chronicles, and a native of Pitane in Æolia.
 
-II. He was the original founder of the Middle Academy, and the first man who professed to suspend the declaration of his judgment, because of the contrarieties of the reasons alleged on either side. 
+<sup>2</sup> He was the original founder of the Middle Academy, and the first man who professed to suspend the declaration of his judgment, because of the contrarieties of the reasons alleged on either side. 
 
 He was likewise the first who attempted to argue on both sides of a question, and who also made the method of discussion, which had been handed down by Plato, by means of question and answer, more contentious than before.
 
-III. He met with Crantor in the following manner. He was one of four brothers, two by the same father and two by the same mother. Of those who were by the same mother the eldest was Pylades, and of those by the same father the eldest was Mœreas, who was his guardian; and at first he was a pupil of Autolycus the mathematician, who happened to be a fellow citizen of his before he went to Athens; and with Autolycus he travelled as far as Sardis. After that he became a pupil of Xanthus the musician, and after that attended the lectures of Theophrastus, and subsequently came over to the Academy to Crantor. For Mœreas his brother, whom I have mentioned[164] before, urged him to apply himself to rhetoric; but he himself had a preference for philosophy, and when he became much attached to him Crantor asked him, quoting a line out of the Andromeda of Euripides:—
+<sup>3</sup> He met with Crantor in the following manner. He was one of four brothers, two by the same father and two by the same mother.
+
+Of those who were by the same mother the eldest was Pylades, and of those by the same father the eldest was Mœreas, who was his guardian; and at first he was a pupil of Autolycus the mathematician, who happened to be a fellow citizen of his before he went to Athens; and with Autolycus he travelled as far as Sardis. After that he became a pupil of Xanthus the musician, and after that attended the lectures of Theophrastus, and subsequently came over to the Academy to Crantor. For Mœreas his brother, whom I have mentioned[164] before, urged him to apply himself to rhetoric; but he himself had a preference for philosophy, and when he became much attached to him Crantor asked him, quoting a line out of the Andromeda of Euripides:
+
 O virgin, if I save you, will you thank me?
 
-And he replied by quoting the next line to it:—
+And he replied by quoting the next line to it:
+
 O take me to you, stranger, as your slave,
 Or wife, or what you please.
 
 And ever after that they became very intimate, so that they say Theophrastus was much annoyed, and said, “That a most ingenious and well-disposed young man had deserted his school.”
 
-IV. For he was not only very impressive in his discourse, and displayed a great deal of learning in it, but he also tried his hand at poetry, and there is extant an epigram which is attributed to him, addressed to Attalus, which is as follows:—
+
+<sup>4</sup> For he was not only very impressive in his discourse, and displayed a great deal of learning in it, but he also tried his hand at poetry, and there is extant an epigram which is attributed to him, addressed to Attalus, which is as follows:
+
 Pergamus is not famed for arms alone,
 But often hears its praise resound
 For its fine horses, at the holy Pisa.
@@ -34,7 +40,8 @@ Yet, if a mortal may declare,
 Its fate as hidden in the breast of Jove,
 It will be famous for its woes.
 
-There is another addressed to Menodorus the son of Eudamus, who was attached to one of his fellow pupils:—
+There is another addressed to Menodorus the son of Eudamus, who was attached to one of his fellow pupils:
+
 Phrygia is a distant land, and so
 Is sacred Thyatira, and Cadanade,
 Your country Menodorus. But from all,
@@ -47,15 +54,21 @@ Though you were poor, with an undying love.
 
 But he admired Homer above all poets, and always used to read a portion of his works before going to sleep; and in the morning he would say that he was going to the object of his love, when he was going to read him. He said, too, that Pindar was a wonderful man for filling the voice, and pouring[165] forth an abundant variety of words and expressions. He also, when he was a young man, wrote a criticism on Ion.
 
-V. And he was a pupil likewise of Hipponicus, the geometrican whom he used to ridicule on other points as being lazy and gaping; but he admitted that in his own profession he was clear sighted enough, and said that geometry had flown into his mouth while he was yawning. And when he went out of his mind, he took him to his own house, and took care of him till he recovered his senses.
 
-VI. And when Crates died, he succeeded him in the presidency of his schools, a man of the name of Socrates willingly yielding to him.
+<sup>5</sup> He was a pupil likewise of Hipponicus, the geometrican whom he used to ridicule on other points as being lazy and gaping; but he admitted that in his own profession he was clear sighted enough, and said that geometry had flown into his mouth while he was yawning. And when he went out of his mind, he took him to his own house, and took care of him till he recovered his senses.
 
-VII. And as he suspended his judgment on every point, he never, as it is said, wrote one single book. But others say that he was once detected correcting some passages in a work of his; and some assert that he published it, while others deny it, and affirm that he threw it into the fire.
 
-VIII. He seems to have been a great admirer of Plato, and he possessed all his writings. He also, according to some authorities, had a very high opinion of Pyrrho.
+<sup>6</sup> When Crates died, he succeeded him in the presidency of his schools, a man of the name of Socrates willingly yielding to him.
 
-IX. He also studied dialectics, and the discussions of the Eretrian school; on which account Ariston said of him:—
+
+<sup>7</sup> As he suspended his judgment on every point, he never, as it is said, wrote one single book. But others say that he was once detected correcting some passages in a work of his; and some assert that he published it, while others deny it, and affirm that he threw it into the fire.
+
+
+<sup>8</sup> He seems to have been a great admirer of Plato, and he possessed all his writings. He also, according to some authorities, had a very high opinion of Pyrrho.
+
+
+<sup>9</sup> He also studied dialectics, and the discussions of the Eretrian school; on which account Ariston said of him:
+
 First Plato comes, and Pyrrho last,
 And in the middle Diodorus.
 
@@ -68,33 +81,43 @@ And presently afterwards he represents him as saying:—
 I’ll swim to Pyrrho, or that crooked sophist
 Called Diodorus.
 
-X. He was exceedingly fond of employing axioms, very concise in his diction, and when speaking he laid an emphasis on each separate word.
 
-XI. He was also very fond of attacking others, and very free spoken, on which account Timon in another passage speaks of him thus:—
+<sup>10</sup> He was exceedingly fond of employing axioms, very concise in his diction, and when speaking he laid an emphasis on each separate word.
+
+XI. He was also very fond of attacking others, and very free spoken, on which account Timon in another passage speaks of him thus:
+
 You’ll not escape all notice while you thus
 Attack the young man with your biting sarcasm.
 
 
-Once, when a young man was arguing against him with more boldness than usual, he said, “Will no one stop his mouth with the knout?”[36] And to a man who lay under the general imputation of low debauchery, and who argued with him that one thing was not greater than another, he asked him whether a cup holding two pints was not larger than one which held only one. There was a certain Chian named Hemon, exceedingly ugly, but who fancied himself good looking, and always went about in fine clothes; this man asked him one day, “If he thought that a wise man could feel attachment to him;” “Why should he not,” said he, “when they love even those who are less handsome than you, and not so well-dressed either?” and when the man, though one of the vilest characters possible, said to Arcesilaus as if he were addressing a very rigid man:—
+Once, when a young man was arguing against him with more boldness than usual, he said, “Will no one stop his mouth with the knout?” 
+
+And to a man who lay under the general imputation of low debauchery, and who argued with him that one thing was not greater than another, he asked him whether a cup holding two pints was not larger than one which held only one. 
+
+There was a certain Chian named Hemon, exceedingly ugly, but who fancied himself good looking, and always went about in fine clothes; this man asked him one day, “If he thought that a wise man could feel attachment to him;” “Why should he not,” said he, “when they love even those who are less handsome than you, and not so well-dressed either?” and when the man, though one of the vilest characters possible, said to Arcesilaus as if he were addressing a very rigid man:
+
 O, noble man, may I a question put,
 Or must I hold my tongue?
 
-Arcesilaus replied:—
+Arcesilaus replied:
+
 O wretched woman, why do you thus roughen
 Your voice, not speaking in your usual manner?
 
 And once, when he was plagued by a chattering fellow of low extraction, he said:—
 The sons of slaves are always talking vilely.[37]
 
-Another time, when a talkative man was giving utterance to a great deal of nonsense, he said, that “He had not had a nurse who was severe enough.” And to some people he never gave any answer at all. On one occasion a usurer, who made pretence to some learning, said in his hearing that he did not know something or other, on which he rejoined:—
+Another time, when a talkative man was giving utterance to a great deal of nonsense, he said, that “He had not had a nurse who was severe enough.” And to some people he never gave any answer at all. On one occasion a usurer, who made pretence to some learning, said in his hearing that he did not know something or other, on which he rejoined:
+
 For often times the passing winds do fill
-The female bird, except when big with young.[38]
+The female bird, except when big with young.
 
-[167]
+The lines come out of the Œnomaus of Sophocles. He once reminded a certain dialectician, a pupil of Alexinus, who was unable to explain correctly some saying of his master, of what had been done by Philoxenus to some brick-makers. For when they were singing some of his songs very badly he came upon them, and trampled their bricks under foot, saying, “As you spoil my works so will I spoil yours.”
 
-And the lines come out of the Œnomaus of Sophocles. He once reminded a certain dialectician, a pupil of Alexinus, who was unable to explain correctly some saying of his master, of what had been done by Philoxenus to some brick-makers. For when they were singing some of his songs very badly he came upon them, and trampled their bricks under foot, saying, “As you spoil my works so will I spoil yours.”
 
-XII. And he used to be very indignant with those who neglected proper opportunities of applying themselves to learning; and he had a peculiar habit, while conversing, of using the expression, “I think,” and “So and so,” naming the person, “will not agree to this.” And this was imitated by several of his pupils, who copied also his style of expression and everything about him. He was a man very ready at inventing new words, and very quick at meeting objections, and at bringing round the conversation to the subject before him, and at adapting it to every occasion, and he was the most convincing speaker that could be found, on which account numbers of people flocked to his school, in spite of being somewhat alarmed at his severity, which however they bore with complacency, for he was a very kind man, and one who inspired his hearers with abundant hope, and in his manner of life he was very affable and liberal, always ready to do any one a service without any parade, and shrinking from any expression of gratitude on the part of those whom he had obliged. Accordingly once, when he had gone to visit Ctesibius who was ill, seeing him in great distress from want, he secretly slipped his purse under his pillow; and when Ctesibius found it, “This,” said he, “is the amusement of Arcesilaus.” And at another time he sent him a thousand drachmas. He it was also who introduced Archias the Arcadian to Eumenes, and who procured him many favours from him.
+<sup>12</sup> He used to be very indignant with those who neglected proper opportunities of applying themselves to learning; and he had a peculiar habit, while conversing, of using the expression, “I think,” and “So and so,” naming the person, “will not agree to this.” 
+
+This was imitated by several of his pupils, who copied also his style of expression and everything about him. He was a man very ready at inventing new words, and very quick at meeting objections, and at bringing round the conversation to the subject before him, and at adapting it to every occasion, and he was the most convincing speaker that could be found, on which account numbers of people flocked to his school, in spite of being somewhat alarmed at his severity, which however they bore with complacency, for he was a very kind man, and one who inspired his hearers with abundant hope, and in his manner of life he was very affable and liberal, always ready to do any one a service without any parade, and shrinking from any expression of gratitude on the part of those whom he had obliged. Accordingly once, when he had gone to visit Ctesibius who was ill, seeing him in great distress from want, he secretly slipped his purse under his pillow; and when Ctesibius found it, “This,” said he, “is the amusement of Arcesilaus.” And at another time he sent him a thousand drachmas. He it was also who introduced Archias the Arcadian to Eumenes, and who procured him many favours from him.
 
 XIII. And being a very liberal man and utterly regardless of money, he made the most splendid display of silver plate, and in his exhibition of gold plate he vied with that of Archecrates and Callicrates; and he was constantly assisting and contributing to the wants of others with money; and once, when some one had borrowed from him some articles of silver plate to help him entertain his friends, and did not offer to return them, he never asked for them back or reclaimed them; but some say that he lent them with the purpose that they[168] should be kept, and that when the man returned them, he made him a present of them as he was a poor man. He had also property in Pitana, the revenues from which were transmitted to him by his brother Pylades.
 

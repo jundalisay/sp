@@ -16,7 +16,7 @@ c: "darkslategray"
 But because he let his hair grow long, he did not look like a Cretan.
 
 
-II. He once, when he was sent by his father into the fields to look for a sheep, turned out of the road at mid-day and lay down in a certain cave and fell asleep, and slept there fifty-seven years.
+<sup>2</sup> He once, when he was sent by his father into the fields to look for a sheep, turned out of the road at mid-day and lay down in a certain cave and fell asleep, and slept there fifty-seven years.
 
 After that, when he awoke, he went on looking for the sheep, thinking that he had been taking a short nap.
 

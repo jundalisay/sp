@@ -18,31 +18,26 @@ They are based on unconditional love, ecstasy, fun, following your excitement, b
 {{< d t="Superphysics Note" >}}
 Superphysics is based on David Hume's maxim that **mentality creates reality**. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. (We primarily use Essassani information for 'technology-checking' to see whether our hypothesis on Cartesian mechanics will match the technology of the Essassani)
 
-However, no one seems to be keen enough to notice that their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans.
+However, no one seems to be keen enough to notice that **their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans**.
 
 Unlike the Essassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us. 
 
 Even if you say that the Essassani are just mirroring our higher minds, the human species is still so low-minded as to vote for Trump and let Russia and Israel invade and kill Ukrainians and Gazans. 
 
-We can think of the Essassani as high end quad-core gaming laptops capable of playing exciting games like multiplayer Call of Duty and DOTA2, while humans are low end Pentium I capable of only single-player Wolfenstein 3D.
+We can think of the Essassani as high end quad-core gaming laptops capable of playing EXCITING games like multiplayer Call of Duty and DOTA2, while humans are low end Pentium I capable of only single-player Wolfenstein 3D.
 
 Humans who totally follow Essassani principles will likely find themselves disappointed when their excitement fails to procure them the reality that they desire, just as a Pentium I will not be able to play Call of Duty.
 
 Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to the out-of-this-world excitement.
 
-It would be like upgrading a Pentium I to play a Wolfenstein 3D updgraded to be multiplayer. The critical ingredient that makes the Essassani principles fail in the human frame is **the hardened ego that is in all humans**. 
+It would be like upgrading a Pentium I to play a Wolfenstein 3D updgraded to be multiplayer. 
+
+The critical ingredient that makes the Essassani principles fail in the human frame is **the hardened ego that is in all humans**. 
 
 Their solution to this are the mantras: 'so what?' and 'let it go' and 'relax your definitions'. 
 
 Humans can upgrade themselves to Essassani by evolving genetically with each generation while following such general principles.
 {{< /d >}}
-
-
-
-
-<!-- <details id="TableOfContents" class="px-4 mt-4 mb-2 bg-gray-100 dark:bg-gray-700 rounded toc" open>
-    asdfasdfasd
-</details> -->
 
 
 ## Basic Beliefs

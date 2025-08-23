@@ -1,40 +1,48 @@
 ---
-title: "Mendemus: Cynic"
+title: "Menippus: Cynic"
 heading: Chapter 52
-# 3
+# 19
 date: 2025-08-21
-weight: 105
-description: "LIFE OF Mendemus"
+weight: 77
+description: "LIFE OF Menippus"
 c: "darkslategray"
 tags: ['Cynics']
 ---
 
 
-<sup>1</sup> Menedemus was a disciple of Colotes of Lampsacus.
+<sup>1</sup> Achaicus tells us in his Ethics that Menippus was:
+- a Cynic
+- a Phœnician by descent
+- a slave by birth
 
-II. He proceeded, as Hippobotus tells, to such a great degree of superstition, that he assumed the garb of a fury, and went about saying that he had come from hell to take notice of all who did wrong, in order that he might descend thither again and make his report to the deities who abode in that country. 
+Diocles informs us that his master was Baton, a native of Pontus.
 
-His clothing was a dark tunic reaching to his feet, and a purple girdle round his waist, an Arcadian hat on his head with the twelve signs of the zodiac embroidered on it, tragic buskins, a preposterously long beard, and an ashen staff in his hand.
+Menippus became rich because of his master's importunities and miserly habits and obtained the rights of citizenship at Corinth.
 
 
-III. These then are the lives of each of the Cynics.
+II. His writings are full of ridiculous matter.
 
-<!-- ; and we shall also subjoin some of the doctrines which they all held in common, if indeed it is not an abuse of language to call that a sect of philosophy at all, instead of, as some contend it should be termed, a mere system of life. -->
+It is similar to those of Meleager, who was his contemporary.
 
-They wished to abolish the whole system of logic and natural philosophy, like Aristo of Chios, and thought that men should study nothing but ethics; and what some people assert of Socrates was described by Diocles as a characteristic of Diogenes, for he said that his doctrine was, that a man ought to investigate—
-Only the good and ill that taketh place
-Within our houses.
+Hermippus tells us that he was a man who lent money at daily interest, and that he was called a usurer; for he used to lend on nautical usury, and take security, so that he amassed a very great amount of riches.
 
-They also discard all liberal studies. Accordingly, Antisthenes said that wise men only applied themselves to literature and learning for the sake of perverting others; they also wish to abolish geometry and music, and everything of that kind. 
 
-Accordingly, Diogenes said once to a person who was showing him a clock; “It is a very useful thing to save a man from being too late for supper.” And once when a man made an exhibition of musical skill before him, he said:—
-“Cities are governed, so are houses too,
-By wisdom, not by harp-playing and whistling.”[80]
+III. But at last he fell into a snare, and lost all his money, and in a fit of despair he hung himself, and so he died. And we have written a playful epigram on him:
 
-Their doctrine is, that the chief good of mankind is to live according to virtue, as Antisthenes says in his Hercules, in which they resemble the Stoics. For those two sects have a good deal in common with one another, on which account they themselves say that cynicism is a short road to virtue; and Zeno, the Cittiæan lived in the same manner.
+This man was a Syrian by birth,
+And a Cretan usurious hound,
+As the name he was known by sets forth,
+You’ve heard of him oft I’ll be bound;
+His name was Menippus—men entered his house,
+And stole all his goods without leaving a louse,
+When (from this the dog’s nature you plainly may tell)
+He hung himself up, and so went off to hell.
 
-They also teach that men ought to live simply, using only plain food in moderate quantities, wearing nothing but a cloak, and despising riches, and glory, and nobleness of birth; accordingly some of them feed upon nothing beyond herbs and cold water, living in any shelter that they can find, or in tubs as Diogenes did; for he used to say that it was the peculiar property of the Gods to want nothing, and that, therefore, when a man wished for nothing he was like the Gods.
+IV. But some say that the books attributed to him are not really his work, but are the composition of Dionysius and Zopyrus the Colophonians, who wrote them out of joke, and then gave them to him as a man well able to dispose of them.
 
-Another of their doctrines is, that virtue is a thing which may be taught, as Antisthenes affirms in his Heraclides; and that when it has once been attained it can never be lost. They also say that the wise man deserves to be loved, and cannot commit error, and is a friend to every one who resembles him, and that he leaves nothing to fortune. And everything which is unconnected with either virtue or vice they call indifferent, agreeing in this with Aristo, the Chian.
+V. There were six persons of the name of Menippus; the first was the man who wrote a history of the Lydians, and made an abridgment of Xanthus; the second was this man of whom we have been speaking; the third was a sophist of Stratonice, a Carian by descent; the fourth was a statuary; the fifth and the sixth were painters, and they are both mentioned by Apollodorus.
 
-<!-- These then were the Cynics; and now we must pass on to the Stoics, of which sect the founder was Zeno, who had been a disciple of Crates. -->
+VI. The writings left by the Cynic amount to thirteen volumes; a Description of the Dead; a volume called Wills;[257] a volume of Letters in which the Gods are introduced; treatises addressed to the Natural Philosophers, and Mathematicians, and Grammarians; one on the Generations of Epicurus, and on the Observance of the Twentieth Day by the philosophers of his school; and one or two other essays.
+
+
+

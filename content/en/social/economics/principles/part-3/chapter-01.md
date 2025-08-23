@@ -28,6 +28,11 @@ This assumes that:
 
 The natural price is established by the Third Law of Value which says that **there must be balance in any economy**, whether it be a family, company, or nation. This mirrors the Zeroth Law of Thermodynamics that has the concept of thermal equilibrium.
 
+We simplify this as "there must be balance in the creation and spread of value". This is easily seen in cases where there is no balance, such as in stress, burnout, economic boom and bust, inequality, excess capacity, etc.
+
+
+> There must be balance in the creation and spread of value.
+
 <!-- * leading to temperature.  -->
 
 ![Second law](/graphics/econ/law3.jpg)

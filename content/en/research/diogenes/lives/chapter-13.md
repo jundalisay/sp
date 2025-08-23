@@ -1,6 +1,6 @@
 ---
 title: "Ariston: Stoic"
-heading: Chapter 41
+heading: Chapter 13
 # BOOK VII. LIFE OF ZENO.
 date: 2025-08-21
 weight: 29

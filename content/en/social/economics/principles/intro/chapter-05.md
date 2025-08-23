@@ -48,6 +48,13 @@ Law | Price | Purpose
 3 | Natural | Balance - prevents the crashes that leads to a recurrence of lack
 4 | Market | Diffusion - spreads quality and quantity to address the lack
 
+Law | Definition
+--- | --- 
+1 | Every thing in the universe has an existential value, otherwise it would not exist
+2 | Value is created to remove the lack in society
+3 | Natural | Balance - prevents the crashes that leads to a recurrence of lack
+4 | Market | Diffusion - spreads quality and quantity to address the lack
+
 
 We find that it exactky matches the Law of Social Cycles of Supersociology:
 

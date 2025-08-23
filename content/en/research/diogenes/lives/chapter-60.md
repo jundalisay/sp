@@ -15,16 +15,20 @@ c: "darkslategray"
 - a pupil of Pittacus
 
 
-II. Theopompus says that he was the first person who ever wrote among the Greeks on the subject of Natural Philosophy and the Gods. 
+<sup>2</sup> Theopompus says that he was the first person who ever wrote among the Greeks on the subject of Natural Philosophy and the Gods. 
 
 There are many marvellous stories told of him. 
 
 For it is said that he was walking along the sea-shore at Samos, and that seeing a ship sailing by with a fair wind, he said that it would soon sink; and presently it sank before their eyes. At another time he was drinking some water which had been drawn up out of a well, and he foretold that within three days there would be an earthquake; and there was one. And as he was going up to Olympia, and had arrived at Messene, he advised his entertainer, Perilaus, to migrate from the city with all his family, but that Perilaus would not be guided by him; and afterwards Messene was taken.
 
 
-III. And he is said to have told the Lacedæmonians to honour neither gold nor silver, as Theopompus says in his Marvels; and it is reported that Hercules laid this injunction on him in a dream, and that the same night he appeared also to the kings of Sparta, and enjoined them to be guided by Pherecydes; but some attribute these stories to Pythagoras.
+<sup>3</sup> He told the Spartans to honour neither gold nor silver, as Theopompus says in his Marvels.
 
-IV. And Hermippus relates that when there was a war between the Ephesians and Magnesians, he, wishing the Ephesians to conquer, asked some one, who was passing by, from whence he came? and when he said, “From Ephesus,” “Drag me now,” said he, “by the legs, and place me in the territory of the Magnesians, and tell your fellow countrymen to bury me there after they have got the victory;” and that he went and reported that Pherecydes had given him this order. And so they went forth the next day and defeated the Magnesians; and as Pherecydes was dead, they buried him there, and paid him very splendid honours.
+It is reported that Hercules laid this injunction on him in a dream, and that the same night he appeared also to the kings of Sparta, and enjoined them to be guided by Pherecydes; but some attribute these stories to Pythagoras.
+
+
+IV. Hermippus relates that when there was a war between the Ephesians and Magnesians, he, wishing the Ephesians to conquer, asked some one, who was passing by, from whence he came? and when he said, “From Ephesus,” “Drag me now,” said he, “by the legs, and place me in the territory of the Magnesians, and tell your fellow countrymen to bury me there after they have got the victory;” and that he went and reported that Pherecydes had given him this order. And so they went forth the next day and defeated the Magnesians; and as Pherecydes was dead, they buried him there, and paid him very splendid honours.
+
 
 V. But some writers say that he went to Delphi, and threw himself down from the Corycian hill; Aristoxenus, in his History of Pythagoras and his Friends, says that Pherecydes fell sick and died, and was buried by Pythagoras in Delos; But others say that he died of the lousy disease; and when Pythagoras came to see him, and asked him how he was, he put his finger through the door, and said, “You may see by my skin.” And from this circumstance that expression passed into a proverb among the philosophers, when affairs are going on badly; and those who apply it to affairs that are going on well, make a blunder. He used to say, also, that the Gods call their table θυωρὸς.
 
