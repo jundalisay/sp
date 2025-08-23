@@ -60,4 +60,5 @@ If you become negative, then you might blame yourself and become discouraged, or
 
 But if you stay positive, then you might get an idea of which company to apply to, or you might get offered a different position in that company.
 
+Being positive and unattached in Hinduism is known as "renouncing the fruits of one's actions or karma". 
 
