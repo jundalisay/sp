@@ -15,7 +15,7 @@ tags: ['Materialists']
 - a native of Abdera, and a citizen of Miletus.
 
 
-II. He was a pupil of some of the Magi and Chaldæans, whom Xerxes had left with his father as teachers, when he had been hospitably received by him, as Herodotus informs us.
+<sup>2</sup> He was a pupil of some of the Magi and Chaldæans, whom Xerxes had left with his father as teachers, when he had been hospitably received by him, as Herodotus informs us.
 
 From these men he, while still a boy, learned the principles of astronomy and theology. 
 

@@ -19,17 +19,17 @@ Nicomachus was descended from Nicomachus, the son of Machaon, the son of Æscula
 He lived with Amyntas, the king of the Macedonians, as both a physician and a friend.
 
 
-II. He was the most eminent of all the pupils of Plato.
+<sup>2</sup> He was the most eminent of all the pupils of Plato.
 
 He had a lisping voice, as is asserted by Timotheus the Athenian, in his work on Lives. 
 
 He had also very thin legs and small eyes. But he used to indulge in very conspicuous dress, and rings, and used to dress his hair carefully.
 
 
-III. He had also a son named Nicomachus, by Herpyllis his concubine, as we are told by Timotheus.
+<sup>3</sup> He had also a son named Nicomachus, by Herpyllis his concubine, as we are told by Timotheus.
 
 
-IV. He seceded from Plato while Plato was still alive.
+<sup>4</sup> He seceded from Plato while Plato was still alive.
 
 “Aristotle has kicked us off just as chickens do their mother after they have been hatched.” 
 
@@ -73,7 +73,15 @@ Broke through the laws of God to slay this man
 Not by the manly spear in open fight,
 But by the treachery of a faithless friend.
 
-And after that he died of taking a draught of aconite, as Eumelus says in the fifth book of his Histories, at the age of seventy years. And the same author says that he was thirty years old when he first became acquainted with Plato. But this is a mistake of his, for he did only live in reality sixty-three years, and he was seventeen years old when he first attached himself to Plato. And the hymn in honour of Hermias is as follows:—
+
+Eumelus says in book 5 of his Histories that Aristotle:
+- died at 70 years old taking a draught of aconite
+- was 30 years old when he first became acquainted with Plato
+
+But this is a mistake of his, for he did only live in reality sixty-three years, and he was seventeen years old when he first attached himself to Plato.
+
+The hymn in honour of Hermias is as follows:
+
 O Virtue, won by earnest strife,
 And holding out the noblest prize
 That ever gilded earthly life,
@@ -99,9 +107,8 @@ His deathless name, his pure career,
 Live shrined in song, and link’d with awe,
 The awe of Xenian Jove, and faithful friendship’s law.[46]
 
-[184]
+There is also an epigram of ours upon him, which runs thus:
 
-There is also an epigram of ours upon him, which runs thus:—
 Eurymedon, the faithful minister
 Of the mysterious Eleusinian Queen,
 Was once about t’ impeach the Stagirite
@@ -109,25 +116,38 @@ Of impious guilt. But he escaped his hands
 By mighty draught of friendly aconite,
 And thus defeated all his wicked arts.
 
-Phavorinus, in his Universal History, says that Aristotle was the first person who ever composed a speech to be delivered in his own defence in a court of justice, and that he did so on the occasion of this prosecution, and said that at Athens:—
+Phavorinus, in his Universal History, says that Aristotle was the first to make a speech to be delivered in his own defence in a court of justice, and that he did so on the occasion of this prosecution, and said that at Athens:
+
 Pears upon pear-trees grow; on fig-trees, figs.
 
-Apollodorus, in his Chronicles, says that he was born in the first year of the ninety-ninth olympiad, and that he attached himself to Plato, and remained with him for twenty years, having been seventeen years of age when he originally joined him. And he went to Mitylene in the archonship of Eubulus, in the fourth year of the hundred and eighth olympiad. But as Plato had died in the first year of this same olympiad, in the archonship of Theophilus, he departed for the court of Hermias, and remained there three years. And in the archonship of Pythodotus he went to the court of Philip, in the second year of the hundred and ninth olympiad, when Alexander was fifteen years old; and he came to Athens in the second year of the hundred and eleventh olympiad, and presided over his school in the Lyceum for thirteen years; after that he departed to Chalcis, in the third year of the hundred and fourteenth olympiad, and died, at about the age of sixty-three years, of disease, the same year that Demosthenes died in Calauria, in the archonship of Philocles.
+Apollodorus, in his Chronicles, says that he was born in the first year of the ninety-ninth olympiad, and that he attached himself to Plato, and remained with him for twenty years, having been seventeen years of age when he originally joined him. And he went to Mitylene in the archonship of Eubulus, in the fourth year of the hundred and eighth olympiad. But as Plato had died in the first year of this same olympiad, in the archonship of Theophilus, he departed for the court of Hermias, and remained there three years. 
 
-VIII. It is said also that he was offended with the king, because of the result of the conspiracy of Callisthenes against Alexander; and that the king, for the sake of annoying him, promoted Anaximenes to honour, and sent presents to Xenocrates. And Theocritus, of Chios, wrote an epigram upon him to ridicule him, in the following terms, as it is quoted by Ambryon in his account of Theocritus:—
+In the archonship of Pythodotus he went to the court of Philip, in the second year of the hundred and ninth olympiad, when Alexander was fifteen years old; and he came to Athens in the second year of the hundred and eleventh olympiad, and presided over his school in the Lyceum for thirteen years; after that he departed to Chalcis, in the third year of the hundred and fourteenth olympiad, and died, at about the age of sixty-three years, of disease, the same year that Demosthenes died in Calauria, in the archonship of Philocles.
+
+
+<sup>8</sup> Aristotle was offended with the king because of the conspiracy of Callisthenes against Alexander.
+
+That the king, for the sake of annoying him, promoted Anaximenes to honour, and sent presents to Xenocrates.
+
+Theocritus, of Chios, wrote an epigram upon him to ridicule him, in the following terms, as it is quoted by Ambryon in his account of Theocritus:
+
 The empty-headed Aristotle rais’d
 This empty tomb to Hermias the Eunuch,
-[185]
 The ancient slave of the ill-us’d Eubulus.
+
 [Who, for his monstrous appetite, preferred
 The Bosphorus to Academia’s groves.]
 
-And Timon attacked him too, saying of him:—
+Timon attacked him too, saying of him:
+
 Nor the sad chattering of the empty Aristotle.
 
 Such was the life of the philosopher.
 
-IX. We have also met with his will, which is couched in the following terms:—“May things turn out well; but if any thing happens to him, in that case Aristotle has made the following disposition of his affairs. That Antipater shall be the general and universal executor.
+
+<sup>9</sup> We have also met with his will, which is couched in the following terms:
+
+“May things turn out well; but if any thing happens to him, in that case Aristotle has made the following disposition of his affairs. That Antipater shall be the general and universal executor.
 
 Until Nicanor marries my daughter, I appoint Aristomedes, Timarchus, Hipparchus, Dioteles, and Theophrastus, if he will consent and accept the charge, to be the guardians of my children and of Herpyllis, and the trustees of all the property I leave behind me; and I desire them, when my daughter is old enough, to give her in marriage to Nicanor; but if any thing should happen to the girl, which may God forbid, either before or after she is married, but before she has any children, then I will that Nicanor shall have the absolute disposal of my son, and of all other things, in the full confidence that he will arrange them in a manner worthy of me and of himself. Let him also be the guardian of my daughter and son Nicomachus, to act as he pleases with respect to them, as if he were their father or brother. But if anything should happen to Nicanor, which may God forbid, either before he receives my daughter in marriage, or after he is married to her, or before he has any children by her, then any arrangements which he may make by will shall stand. But, if Theophrastus, in this case, should choose to take my daughter in marriage, then he is to stand exactly in the same position as Nicanor. And if not, then I will, that my trustees, consulting with Antipater concerning both the boy and girl, shall arrange everything respecting them as they shall think fit; and that my trustees and Nicanor, remembering both me and Herpyllis, and how well she has behaved to me, shall take care, if she be inclined to take a husband, that one be found for her who shall not be unworthy of us; and shall give her, in addition to all that has been already given her, a talent of silver, and three maidservants if she please to accept them, and the handmaid whom she has[186] now, and the boy Pyrrhæus. And if she likes to dwell at Chalcis, she shall have the house which joins the garden; but if she likes to dwell in Stagira, then she shall have my father’s house. And whichever of these houses she elects to take, I will that my executors do furnish it with all necessary furniture, in such manner as shall seem to them and to Herpyllis to be sufficient. And let Nicanor be the guardian of the child Myrmex, so that he shall be conducted to his friends in a manner worthy of us, with all his property which I received. I also will that Ambracis shall have her liberty, and that there shall be given to her when her daughter is married, five hundred drachmas, and the handmaid whom she now has. And I will that there be given to Thales, besides the handmaiden whom she now has, who was bought for her, a thousand drachmas and another handmaid. And to Timon, in addition to the money that has been given to him before for another boy, an additional slave, or a sum of money which shall be equivalent. I also will that Tychon shall have his liberty when his daughter is married, and Philon, and Olympius, and his son. Moreover, of those boys who wait upon me, I will that none shall be sold, but my executors may use them, and when they are grown up then they shall emancipate them if they deserve it. I desire too, that my executors will take under their care the statues which it has been entrusted to Gryllion to make, that when they are made they may be erected in their proper places; and so too shall the statues of Nicanor, and of Proxenus, which I was intending to give him a commission for, and also that of the mother of Nicanor. I wish them also to erect in its proper place the statue of Arimnestus which is already made, that it may be a memorial of her, since she has died childless. I wish them also to dedicate a statue of my mother to Ceres at Nemea, or wherever else they think fit. And wherever they bury me, there I desire that they shall also place the bones of Pythias, having taken them up from the place where they now lie, as she herself enjoined. And I desire that Nicanor, as he has been preserved, will perform the vow which I made on his behalf, and dedicate some figures of animals in stone, four cubits high, to Jupiter the saviour, and Minerva the saviour, in Stagira.”
 
@@ -220,9 +240,23 @@ This is subdivided into physics and logic.
 
 The latter forming not a single division, turning on one special point, but being rather an instrument for every art brought to a high degree of accuracy.
 
-He has laid down 2 separate objects as what it is conversant about, the persuasive and the true. And he has used two means with reference to each end; dialectics and rhetoric, with reference to persuasion; analytical examination and philosophy, with reference to truth; omitting nothing which can bear upon discovery, or judgment, or use. Accordingly, with reference to discovery, he has furnished us with topics and works on method, which form a complete armoury of propositions, from which it is easy to provide one’s self with an abundance of probable arguments for every kind of question. And with reference to judgment, he has given us the former and posterior analytics; and by means of the former analytics, we may arrive at a critical examination of principles; by means of the posterior, we may examine the conclusions which are deduced from them. With reference to the use or application of his rules, he has given us works on discussion,[192] on question, on disputation, on sophistical refutation, on syllogism, and on things of that sort.
+He has laid down 2 separate objects as what it is conversant about, the persuasive and the true.
 
-He has also furnished us with a double criterion of truth. One, on the perception of those effects, which are according to imagination; the other, the intelligence of those things which are ethical, and which concern politics, and economy, and laws. The chief good he has defined to be the exercise of virtue in a perfect life. He used also to say, that happiness was a thing made up of three kinds of goods. First of all, the goods of the soul, which he also calls the principal goods in respect of their power; secondly, the goods of the body, such as health, strength, beauty, and things of that sort; thirdly, external goods, such as wealth, nobility of birth, glory, and things like those. And he taught that virtue was not sufficient of itself to confer happiness; for that it had need besides of the goods of the body, and of the external goods, for that a wise man would be miserable if he were surrounded by distress, and poverty, and circumstances of that kind. But, on the other hand, he said, that vice was sufficient of itself to cause unhappiness, even if the goods of the body and the external goods were present in the greatest possible degree. He also asserted that the virtues did not reciprocally follow one another, for that it was possible for a prudent, and just, and impartial man, to be incontinent and intemperate; and he said, that the wise man was not destitute of passions, but endowed with moderate passions.
+He has used 2 means with reference to each end; dialectics and rhetoric, with reference to persuasion; analytical examination and philosophy, with reference to truth.
+
+He omitted nothing which can bear on discovery, or judgment, or use.
+
+Accordingly, with reference to discovery, he has furnished us with topics and works on method, which form a complete armoury of propositions, from which it is easy to provide one’s self with an abundance of probable arguments for every kind of question. 
+
+With reference to judgment, he has given us the former and posterior analytics; and by means of the former analytics, we may arrive at a critical examination of principles; by means of the posterior, we may examine the conclusions which are deduced from them. 
+
+With reference to the use or application of his rules, he has given us works on discussion,[192] on question, on disputation, on sophistical refutation, on syllogism, and on things of that sort.
+
+He has also furnished us with a double criterion of truth. One, on the perception of those effects, which are according to imagination; the other, the intelligence of those things which are ethical, and which concern politics, and economy, and laws. The chief good he has defined to be the exercise of virtue in a perfect life. He used also to say, that happiness was a thing made up of three kinds of goods.
+
+ First of all, the goods of the soul, which he also calls the principal goods in respect of their power; secondly, the goods of the body, such as health, strength, beauty, and things of that sort; thirdly, external goods, such as wealth, nobility of birth, glory, and things like those.
+
+ He taught that virtue was not sufficient of itself to confer happiness; for that it had need besides of the goods of the body, and of the external goods, for that a wise man would be miserable if he were surrounded by distress, and poverty, and circumstances of that kind. But, on the other hand, he said, that vice was sufficient of itself to cause unhappiness, even if the goods of the body and the external goods were present in the greatest possible degree. He also asserted that the virtues did not reciprocally follow one another, for that it was possible for a prudent, and just, and impartial man, to be incontinent and intemperate; and he said, that the wise man was not destitute of passions, but endowed with moderate passions.
 
 He also used to define friendship as an equality of mutual benevolence. And he divided it into the friendship of kindred, and of love, and of those connected by ties of hospitality. And he said, that love was divided into sensual and philosophical love. And that the wise man would feel the influence of love, and would occupy himself in affairs of state, and would marry a wife, and would live with a king. And as there were three kinds of life, the speculative, the practical, and the voluptuous, he preferred the speculative. He also considered the acquisition of general knowledge serviceable to the acquisition of virtue. As a natural philosopher, he was the most ingenious man that ever lived in tracing effects back to their causes, so that he could explain the principles of the most trifling circumstances; on which account he wrote a great many books of commentaries on physical questions.
 
@@ -247,7 +281,7 @@ The capacity of having life must exist in the thing itself. But the capacity is 
 In operation, as a man, when awake, is said to have a soul; in habit, as the same is said of a man when asleep. That, therefore, he may come under his definition, he has added the word capacity.
 
 
-XIV. There were 7 other persons of the name of Aristotle.
+<sup>14</sup> There were 7 other persons of the name of Aristotle.
 
 1. an Athenian statesman, some of whose forensic orations, of great elegance
 2. The writer of a treatise on the Iliad

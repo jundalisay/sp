@@ -21,10 +21,15 @@ He also said once to his brother, who was indignant at not being an ephor, while
 
 He was made ephor in the 55th Olympiad.
 
-But Pamphila says that it was in the fifty-sixth. And he was made first ephor in the year of the archonship of Euthydemus, as we are told by Sosicrates. Chilo was also the first person who introduced the custom of joining the ephors to the kings as their counsellors: though Satyrus attributes this institution to Lycurgus. He, as Herodotus says in his first book, when Hippocrates was sacrificing at Olympia, and the cauldrons began to boil of their own accord, advised him either to marry, or, if he were married already, to discard his wife, and disown his children.
+But Pamphila says that it was in the 56th.
+
+He was made first ephor in the year of the archonship of Euthydemus, as we are told by Sosicrates. Chilo was also the first person who introduced the custom of joining the ephors to the kings as their counsellors: though Satyrus attributes this institution to Lycurgus. 
+
+He, as Herodotus says in his first book, when Hippocrates was sacrificing at Olympia, and the cauldrons began to boil of their own accord, advised him either to marry, or, if he were married already, to discard his wife, and disown his children.
 
 
-II. He asked Æsop what Jupiter was doing, and that Æsop replied, 
+
+<sup>2</sup> He asked Æsop what Jupiter was doing, and that Æsop replied, 
 
 “He is lowering what is high, and exalting what is low.” 
 
@@ -40,7 +45,8 @@ III. They say, too, that when he was old he said, that he was not conscious of h
 
 IV. But he was most especially celebrated among the Greeks for having delivered an early opinion about Cythera, an island belonging to Laconia. For having become acquainted[34] with its nature, he said, “I wish it had never existed, or that, as it does exist, it were sunk at the bottom of the sea.” And his foresight was proved afterwards. For when Demaratus was banished by the Lacedæmonians, he advised Xerxes to keep his ships at that island: and Greece would have been subdued, if Xerxes had taken the advice. And afterwards Nicias, having reduced the island at the time of the Peloponnesian war, placed in it a garrison of Athenians, and did a great deal of harm to the Lacedæmonians.
 
-V. He was very brief in his speech. On which account Aristagoras, the Milesian, calls such conciseness, the Chilonean fashion; and says that it was adopted by Branchus, who built the temple among the Branchidæ. Chilo was an old man, about the fifty-second Olympiad, when Æsop, the fable writer, flourished. And he died, as Hermippus says, at Pisa, after embracing his son, who had gained the victory in boxing at the Olympic games. The cause of his death was excess of joy, and weakness caused by extreme old age. All the spectators who were present at the games attended his funeral, paying him the highest honours. And we have written the following epigram on him:—
+
+<sup>5</sup> He was very brief in his speech. On which account Aristagoras, the Milesian, calls such conciseness, the Chilonean fashion; and says that it was adopted by Branchus, who built the temple among the Branchidæ. Chilo was an old man, about the fifty-second Olympiad, when Æsop, the fable writer, flourished. And he died, as Hermippus says, at Pisa, after embracing his son, who had gained the victory in boxing at the Olympic games. The cause of his death was excess of joy, and weakness caused by extreme old age. All the spectators who were present at the games attended his funeral, paying him the highest honours. And we have written the following epigram on him:—
 
 I thank you, brightest Pollux, that the son
 Of Chilo wears the wreath of victory;

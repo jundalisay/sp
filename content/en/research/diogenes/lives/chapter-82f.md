@@ -14,15 +14,18 @@ tags: ['Stoics']
 For instance, “The vast and boundless earth,” “Th’ expanse of heaven,” are rhythmical expressions; and[281] poetry is a collection of poetical expressions signifying something, containing an imitation of divine and human beings.
 
 
-XLII. Antipater defines definition in book 1 of his treatise on Definitions as a sentence proceeding by analysis enunciated in such a way as to give a complete idea.
+<sup>42</sup> Antipater defines definition in book 1 of his treatise on Definitions as a sentence proceeding by analysis enunciated in such a way as to give a complete idea.
 
 Chrysippus defines it in his treatise on Definitions as the explanation of an idea.
 
-Description is a sentence which, in a figurative manner, brings one to a knowledge of the subject, or it may be called a simpler kind of definition, expressing the power of a definition in plainer language. Genus is a comprehending of many ideas indissolubly connected, as animal; for this one expression comprehends all particular kinds of animals. An idea is an imagination of the mind which does not express actually anything real, or any quality, but only a quasi reality and a quasi quality; such, for instance, is the idea of a horse when a horse is not present. Species is that which is comprehended under genus, as man is comprehended under animal.
+Description is a sentence which, in a figurative manner, brings one to a knowledge of the subject, or it may be called a simpler kind of definition, expressing the power of a definition in plainer language.
+
+Genus is a comprehending of many ideas indissolubly connected, as animal; for this one expression comprehends all particular kinds of animals. An idea is an imagination of the mind which does not express actually anything real, or any quality, but only a quasi reality and a quasi quality; such, for instance, is the idea of a horse when a horse is not present. Species is that which is comprehended under genus, as man is comprehended under animal.
 
 Again, that is the most general genus which, being a genus itself, has no other genus, as the existent. And that is the most special species, which being a species has no other species, as, for instance, Socrates.
 
-XLIII. The division of genus is a dissection of it into the proximate species; as, for instance, “Of animals, some are rational, others irrational.” Contrary division is the dissection of genus into species on the principle of the contrary; so as to be by a sort of negation; as, for instance, “Of existent things, some are good and some not good;” and, “Of things which are not good, some are bad and some indifferent.” Partition is an arrangement of a genus with reference to place, as Crinis says, for instance, “Of goods, some have reference to the mind and some to the body.”
+
+<sup>43</sup> The division of genus is a dissection of it into the proximate species; as, for instance, “Of animals, some are rational, others irrational.” Contrary division is the dissection of genus into species on the principle of the contrary; so as to be by a sort of negation; as, for instance, “Of existent things, some are good and some not good;” and, “Of things which are not good, some are bad and some indifferent.” Partition is an arrangement of a genus with reference to place, as Crinis says, for instance, “Of goods, some have reference to the mind and some to the body.”
 
 XLIV. Ambiguity (ἀμφιβολία) is an expression signifying two or more things having an ordinary or a peculiar meaning, according to the pronunciation, in such a way that more things than one may be understood by the very same expression. Take, for instance, the words αὐλητρὶς πέπτωκε. For you may understand by them, a house has fallen down three times (αὐλὴ τρὶς πέπτωκε), or, a female flute-player has fallen, taking αὐλητρὶς as synonymous with αὐλητρία.
 
