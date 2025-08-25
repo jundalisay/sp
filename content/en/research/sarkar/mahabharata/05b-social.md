@@ -106,21 +106,25 @@ Even today, in Hindu society, that is found in some measure or the other.
 
 Hence, in the Mahábhárata age, there was no solid social system.
 
-Only the Mongolians, known as Pisháca in old Saḿskrta, had the system of one wife and many husbands.
+Only the Mongolians, known as Pishaca in old Sanskrit, had the system of one wife and many husbands.
 
 But among Aryans one man might have many wives.
 
 In East India (Bengal) and in South India, there was the matrilinear order.
 
-With the Aryans, there was a blending of matrilinear order and patrilinear order. There was a social relationship with the mother, but the social order was patrilinear or patriarchal.
+With the Aryans, there was a blending of matrilinear order and patrilinear order.
+
+There was a social relationship with the mother, but the social order was patrilinear or patriarchal.
 
 The caused a clash among the matrilinear and patrilinear systems in the Post-Buddhist era, i.e., later Hinduism (Brahmanism).
 
 This led to the present social system.
 
-In the post-Buddhistic era, Manu created the Sanatana social system which blended the two systems together.
+In the post-Buddhistic era, Manu created the Sanatana social system which blended the 2 systems together.
 
-This means that Manu was 100% influenced by the Mahábhárata social system.
+**This means that Manu was 100% influenced by the Mahábhárata social system.** *
+
+{{< n n="This led to the caste system" >}}
 
 But Manu accepted the Aryan social system, and avoided the social system of the Mongolians, South Indians and East Indians as much as possible. 
 

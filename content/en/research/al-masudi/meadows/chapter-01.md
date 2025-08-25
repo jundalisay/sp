@@ -11,8 +11,6 @@ writer:
 ---
 
 
-
-
 This includes the accounts of:
 - the messengers
 - the histories and the matters of time

@@ -56,7 +56,7 @@ We only discuss the Elementals that have **physical effects** and not for any im
 
 [Paracelsus](/research/paracelsus/nymphs/tractatus-1) calls Elementals as spirit-beings that have human-like properties. 
 
-{{< img src="/photos/medieval/angkor.jpg" alt="Angkor statue" cap="Hinduism, Buddhism, and Taoism have A LOT of Elementals" >}}
+{{< img src="/photos/countries/kh/angkor.jpg" alt="Angkor statue" cap="Hinduism, Buddhism, and Taoism have A LOT of Elementals" >}}
 
 We think that such properties arise from them having chakras, similar to how humans and animals have chakras. These are vortices that channel the ideas of the Supreme onto either physical or metaphysical reality. 
 

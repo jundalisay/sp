@@ -125,16 +125,18 @@ Later on, wheat from outside India was brought and used. The first use of wheat 
 
 Wheat did not have any local name. When it ripens it becomes like gold. So in the Punjab it is known as “kanaka,” meaning “gold.”
 
-So in the Mahábhárata age, people were rice-eaters. This was the food, the most simple food.
+So in the Mahábhárata age, people were rice-eaters. 
+
+<!-- This was the food, the most simple food. -->
 
 
 ## LANGUAGE
 
-After the death of the Vaedika language, the 7 Prákrta languages were used in India.
+After the death of the Vedic language, the 7 Prakrit languages were used in India.
 
-Paeshácii and Shaorasenii Prákrta were spoken by the people around Delhi.
+Paeshácii and Shaorasenii Prakrit were spoken by the people around Delhi.
 
-The mother tongue of Krśńa was Shaorasenii Prákrta.
+The mother tongue of Krśńa was Shaorasenii Prakrit.
 
 
 ## SCRIPT

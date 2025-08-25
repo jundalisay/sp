@@ -49,15 +49,11 @@ If the declination of the Moon situated in an odd quadrant exceeds that of the S
 
 Verse 9 and first half of verse 10. To prognosticate the occurrence of a
 
-When the sum of the tropical longitudes of the Sun and the Moon happens to be 180 
-∘
-  or 360 
-∘
- , then the Vyatipāta and the Vaidhrti respectively will occur or will have occurred. The number of minutes of arc by which the sum of the tropical longitudes falls short of or exceeds 180 
-∘
-  or 360 
-∘
-  as the case may be, are to be divided by the sum of the daily motions of the Sun and the Moon, which will approximately the number of days after which or before which the Yogas will occur or would have occurred. Compute the declinations of the Sun and the Moon for that moment from the then true daily motions.
+When the sum of the tropical longitudes of the Sun and the Moon happens to be 180 or 360 
+
+then the Vyatipāta and the Vaidhrti respectively will occur or will have occurred. The number of minutes of arc by which the sum of the tropical longitudes falls short of or exceeds 180  or 360 
+
+as the case may be, are to be divided by the sum of the daily motions of the Sun and the Moon, which will approximately the number of days after which or before which the Yogas will occur or would have occurred. Compute the declinations of the Sun and the Moon for that moment from the then true daily motions.
 
 
 Latter half of verse 11 and verses 12, 13, 14. To compute the time of the occurrence of pāta through a consideration of declinations.

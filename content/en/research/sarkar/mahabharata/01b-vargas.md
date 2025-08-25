@@ -49,7 +49,7 @@ As long as a person is away from Paramátman there will be some trouble or othe
 
 Pain is finally removed only by obtaining moks’a.
 
-“Varga” means “class” there are four classes.*
+“Varga” means “class” there are 4 classes.*
 
 1. Physical
 2. Physico-psychic
@@ -59,5 +59,3 @@ Pain is finally removed only by obtaining moks’a.
 {{< n n="In Superphysics, Physical has the maximum negative force. Spiritual has the maximum positive." >}}
 
 Hence, the itikatha which begets the fruits of the 4 vargas and has the dos and don’ts of life in it is known as “itihása.” 
-
-So the Mahábhárata is an itihása, the author of which is Krsna Dvaepayana Vyasa.

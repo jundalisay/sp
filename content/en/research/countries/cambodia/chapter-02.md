@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2
-title: "RESIDENCES"
+title: "Residences"
 description: ""
 weight: 6
 c: "black"

@@ -21,11 +21,18 @@ The wise reprover of the tricks of Homer.
 He, having been banished from his own country, lived at Zancle, in Sicily, and at Catana.
 
 
-II. He was a pupil of Boton the Athenian; or, as another account again affirms, of Archelaus. 
+<sup>2</sup> He was a pupil of Boton the Athenian; or, as another account again affirms, of Archelaus. 
 
 He was, if we may believe Sotion, a contemporary of Anaximander.
 
-III. He wrote poems in hexameter and in elegiac verse; and also he wrote iambics against Hesiod and Homer, attacking the things said in their poems about the Gods. He also used to recite his own poems. It is said likewise, that he argued against the opinions of Thales and Pythagoras, and that he also attacked Epimenides. He lived to an extreme old age; as he says somewhere himself:
+
+<sup>3</sup> He wrote poems in hexameter and in elegiac verse; and also he wrote iambics against Hesiod and Homer, attacking the things said in their poems about the Gods. He also used to recite his own poems. 
+
+He:
+- argued against the opinions of Thales and Pythagoras
+- attacked Epimenides
+
+He lived to an extreme old age.
 
 Threescore and seven long years are fully passed,
 Since first my doctrines spread abroad through Greece:

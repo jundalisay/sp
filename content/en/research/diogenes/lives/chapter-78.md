@@ -22,9 +22,14 @@ After marriage, he came with his wife to Elis, to see Pyrrho, and there he remai
 
 He was a man of considerable eminence, as Sotion tells us in his eleventh book. Afterwards, being in difficulty as to his means, he departed to the Hellespont and the Propontis; and living at Chalcedon as a Sophist, he earned a very high reputation and great popularity; from thence he departed, after having made a considerable fortune, and went to Athens, and remained there till his death, going across once for a short time to Thebes. He was also acquainted with king Antigonus, and with Ptolemy Philadelphus, as he himself testifies in his Iambics.
 
-II. He was, says Antigonus, fond of drinking, and he at times occupied himself with works quite inconsistent with philosophy; for he wrote lyric and epic poems, and tragedies and satiric dramas, and thirty comedies, and sixty tragedies and Silli, and amatory poems.
 
-There are works of his also enumerated in a regular catalogue, extending to twenty thousand verses, which are mentioned by Antigonus, of Carystos, who also wrote his life. Of the Silli, there are three volumes; in which he attacks every one as if he were a Sceptic, and especially he lampoons the dogmatic philosophers under the form of parodies. The first volume of these Silli contains a long uninterrupted narration; but the second and third are in the form of dialogues. He is represented in them, as interrogating Xenophanes, the Colophonian, about every thing, and he utters a long continued discourse; in his second book he speaks of the more ancient philosophers; and in his third of the more modern ones; on which account some people have given the last book the name of the epilogue.
+<sup>2</sup> He was, says Antigonus, fond of drinking.
+
+He at times occupied himself with works quite inconsistent with philosophy; for he wrote lyric and epic poems, and tragedies and satiric dramas, and thirty comedies, and sixty tragedies and Silli, and amatory poems.
+
+There are works of his also enumerated in a regular catalogue, extending to twenty thousand verses, which are mentioned by Antigonus, of Carystos, who also wrote his life. Of the Silli, there are three volumes; in which he attacks every one as if he were a Sceptic, and especially he lampoons the dogmatic philosophers under the form of parodies. 
+
+The first volume of these Silli contains a long uninterrupted narration; but the second and third are in the form of dialogues. He is represented in them, as interrogating Xenophanes, the Colophonian, about every thing, and he utters a long continued discourse; in his second book he speaks of the more ancient philosophers; and in his third of the more modern ones; on which account some people have given the last book the name of the epilogue.
 
 But the first book contains the same subjects, with this difference, that in that it is all confined to one single person and its first line begins thus:—
 Come hither, all you over-busy Sophists

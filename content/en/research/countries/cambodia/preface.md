@@ -40,19 +40,21 @@ The great Mandate of Heaven that the sacred dynasty has received includes everyw
 
 Marshal Sodu set up a province in Champa, and sent out a general and a senior commander, who went there together. 
 
-In the end they were seized and did not return.⁶
+In the end they were seized and did not return.
 
-In the sixth month of the year youwei in the Yuanzhen reign period (1295), the sacred Son of Heaven dispatched an envoy with an imperial edict, and ordered me to accompany him.⁷
+In month 6 of 1295, the sacred Son of Heaven dispatched an envoy with an imperial edict, and ordered me to accompany him.
 
-In the second month of the following year, the year bingshen in the Yuanzhen reign period (1296), we left Mingzhou, and on the twentieth day of that month we set sail from the harbor at Wenzhou. 
+In month 2 of the 1296, we left Mingzhou.
 
-On the fifteenth day of the third month we reached Champa, having been set back by adverse winds mid-journey. 
+On day 20 of that month sailed from the harbor at Wenzhou. 
 
-We arrived in Cambodia in the autumn, at the beginning of the seventh month.
+On month 3, day 15 we reached Champa, having been set back by adverse winds mid-journey. 
+
+We arrived in Cambodia in the autumn, at the beginning of month 7.
 
 We duly secured the submission of local officials. 
 
-In the sixth month of the year dingyou in the Dade reign period (1297) we turned our boat around, and by the twelfth day of the eighth month we were back at Mingzhou, anchored off the coast.
+In month 6 of 1297 we turned our boat around. By the month 8, day 12, we were back at Mingzhou, anchored off the coast.
 
-Although I could not get to know the land, customs, and affairs of state of Cambodia in every particular, I could see enough to get a general sense of them.⁸
+I could not get to know the land, customs, and affairs of state of Cambodia in every particular. But I could see enough to get a general sense of them.
 

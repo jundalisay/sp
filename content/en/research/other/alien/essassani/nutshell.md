@@ -32,11 +32,12 @@ In every moment, out of a series of choices, find out the one that you are most 
 In Hinduism, acting on your true passion means being in line with your dharma.
 
 
-### 2. Do that act to the best of your ability. 
+### Step 2. Do that act to the best of your ability. 
 
 Once you find something to do, do it to the best that you can. 
 
-### 3. While doing that action or activity, absolutely do not expect what the outcome should be
+
+### Step 3. While doing that action or activity, absolutely do not expect what the outcome should be
 
 Whenever we do something, we often expect it to succeed. We get disappointed and sad when it fails to match our expectation. 
 
@@ -45,12 +46,12 @@ The Essassani instruct to NOT have expectation of the outcome.
 In Hinduism, this is called Karma Yoga, where we act but do not expect specific results.
 
 
-### 4. Be Positive regardless of what happens
+### Step 4. Be Positive regardless of what happens
 
 Whatever the results of your actions may be, stay in a positive state.
 
 
-### 5. Observe your mind and its beliefs
+### Step 5. Observe your mind and its beliefs
 
 After doing the action, you will get results. Observe how your mind reacts to those results. Then find out why it acted in a certain way. 
 
@@ -61,4 +62,3 @@ If you become negative, then you might blame yourself and become discouraged, or
 But if you stay positive, then you might get an idea of which company to apply to, or you might get offered a different position in that company.
 
 Being positive and unattached in Hinduism is known as "renouncing the fruits of one's actions or karma". 
-

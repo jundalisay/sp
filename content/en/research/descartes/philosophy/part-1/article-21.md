@@ -1,5 +1,5 @@
 ---
-title: "The Nature of God"
+title: "The Nature of God (and Time)"
 heading: Articles 21-25
 weight: 18
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"

@@ -61,18 +61,18 @@ The body of a child is known as “tanu” and that of an adult is known as “s
 Therefore this patch of land was known as Bháratavarśa.
 
 Almost 7,000 years ago Lord Sadashiva was born.
+- During His period, people were most undeveloped.
 
-During His period, people were most undeveloped.
-
-The then people were partly knowledgeable about medicine, art, architecture and education, but they did nothing systematically.
+The then people became partly knowledgeable about medicine, art, architecture and education.
+- But they did nothing systematically.
 
 People never shared their knowledge with others, because they thought that their prestige would be lessened. 
 
 Thus so many methods of medical treatment and so many crafts were gradually lost due to long periods of disuse.
 
-In other words, there was no system for all human endeavours.
+**In other words, there was no system for all human endeavours.**
 
-He gave a system for song, dance, music, medicine and all other endeavours.
+Shiva gave a system for song, dance, music, medicine and all other endeavours.
 
 That means the crude-natured people came under a system, under a pattern, through the efforts of Lord Shiva.
 
@@ -84,7 +84,9 @@ People did not know the art of living collectively.
 
 Lord Krśńa gave a sense of collectivity to individuals.
 
-Suppose a person has a faculty for medicine. If one’s medical knowledge is channelled and utilized in a medical college, this will bring about the collective shaping of one’s individual attribute. 
+Suppose a person has a faculty for medicine.
+
+If his medical knowledge is channelled and utilized in a medical college, this will bring about the collective shaping of one’s individual attribute. 
 
 This applies to all faculties. Lord Krśńa wanted to bring about a social synthesis, the seed of which was sown by Lord Shiva.
 

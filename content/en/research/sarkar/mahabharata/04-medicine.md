@@ -129,4 +129,3 @@ She stitched the child in a proper surgical operation and saved it.
 Since the lady Jara joined (sandhi) the pieces of the child’s body, the name of the child became Jarasandha.
 
 This proves that the people were well acquainted with surgery.
-

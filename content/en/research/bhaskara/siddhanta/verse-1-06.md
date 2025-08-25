@@ -8,10 +8,7 @@ c: "darkgoldenrod"
 
 
 
-
-### Verse 6. 
-
-A Siddhanta work ie an astronomical treatise is such a one which deals with:
+<sup>6</sup> A Siddhanta work ie an astronomical treatise is such a one which deals with:
 - the various measures of time ranging from a Trti up to the duration of a Kalpa which culminates in a deluge
 - planetary theory
 - arithmatical computations as well as algebraical processes
@@ -19,9 +16,8 @@ A Siddhanta work ie an astronomical treatise is such a one which deals with:
 - location of the earth, the stars and the planets
 - description and usage of instruments.
 
-Verse 7
 
-Samhita deals with various subjects like Muhurtas i.e . auspicious moments to be prescribed for various functions , Desarishtas ie Calamitous occurences to the countries etc.
+<sup>7</sup> Samhita deals with various subjects like Muhurtas i.e . auspicious moments to be prescribed for various functions , Desarishtas ie Calamitous occurences to the countries etc.
 
 One knows astrology and that part of the science of Jyotisha which is known as Samhita which form a part of the Science.
 - But he cannot answer so many intricate problems pertaining to Artronomy.
@@ -29,33 +25,23 @@ One knows astrology and that part of the science of Jyotisha which is known as S
 Sush a person who does not know the astronomical part of the science , which abounds in innunerable reasonings , is one like a king depicted in a drawing, or a lion fast tied to a pole .
 
 
-Verse 8.
-
-The Science of Jyotisha without Astronomy, is like a king's a my without roaring elephants though ex-celling in horses etc.
+<sup>8</sup> The Science of Jyotisha without Astronomy, is like a king's a my without roaring elephants though ex-celling in horses etc.
 
 It is like a garden without mango trees , or like a lake without water , or again like a lady parted with her newly married lover .
 
 
-Verse 9. 
-
-The Vedic lore prescribes Sacrifices to be performed. These sacrifices are based on a knowledge of appropriate time to perform them. 
+<sup>9</sup> The Vedic lore prescribes Sacrifices to be performed. These sacrifices are based on a knowledge of appropriate time to perform them. 
 
 This science of astronomy gives a knowledge of time. Hence, it has been reckoned as one of the 6 Vedangas or limbs of the Veda.
 
 
-### Verse 10. 
-
-(Out of the 6 Vedangas) The science of grammar is like the face of the person of the Veda, the science of Jyautisha takes the place of the eyes, the Nirukta that of the ears; the Kalpa that of the hands; the Siksha that of the nose and the Chandas the place of the feet.
+<sup>10</sup> (Out of the 6 Vedangas) The science of grammar is like the face of the person of the Veda, the science of Jyautisha takes the place of the eyes, the Nirukta that of the ears; the Kalpa that of the hands; the Siksha that of the nose and the Chandas the place of the feet.
 
 
-### Verse 11
-
-This science of Jyotisha is depicted as the very eyes of the Person of the Veda. So it has been acclaimed as the most important of the 6 Angas or limbs of the Veda, in as much as, even if a person be endowed with limbs like the ears, nose etc, if he be devoid of vision, he could not do anything.
+<sup>11</sup> This science of Jyotisha is depicted as the very eyes of the Person of the Veda. So it has been acclaimed as the most important of the 6 Angas or limbs of the Veda, in as much as, even if a person be endowed with limbs like the ears, nose etc, if he be devoid of vision, he could not do anything.
 
 
-### Verse 12
-
-This Science of Astronomy has been declared as the most important of the Vedangas. 
+<sup>12</sup> This Science of Astronomy has been declared as the most important of the Vedangas. 
 
 Hence this has to be studied by the Dwijas (ie Brahmins Kshatriyas and the Vaishyas who form the three higher castes), also because it is sacred, secret and the best discipline. 
 
@@ -63,9 +49,8 @@ By so doing they would acquire Dharma, Artha, Kama as well as fame.
 
 Life is depicted as having a four-fold purpose out of which, Dharma, Artha and Kama form the first trio, Moksha being the ultimate goal of life.
 
-### Verses 13 and 14
 
-The creator having created the stellar circle along with the planets, placed the star at the beginning of the circle.
+<sup>13-14</sup> The creator having created the stellar circle along with the planets, placed the star at the beginning of the circle.
 
 He put them in constant revolution, at the same time putting the extreme 2 stars (on either side) in a fixed position.
 
@@ -82,9 +67,7 @@ The first Mahayuga, the first year, the first day of the bright half of the firs
 <!-- Comm. Though, in the Commentary before, Bhaskara gave expression to the fact that Time is eternal with no beginning and no end, herein he mentions the point of Time when creation commenced. So, at the back of his mind, the concept of Time arose only at the beginning of creation, whereas before creation, as well as after deluge there was and would be neither the concept of Time nor space. In other words, both space and Time are manifest only after creation, and get extinguished after deluge. -->
 
 
-### Verses 16, 17 and 18
-
-The unit of Time named Tatpara is 1/30th of what is known as Nimesa or the time taken during the fall of an eyelid.
+<sup>16-18</sup> The unit of Time named Tatpara is 1/30th of what is known as Nimesa or the time taken during the fall of an eyelid.
 
 One-hundredth of a Tatpara is known as a Trti ie the time taken to pierce a lotus-leaf with the finest needle. 
 
@@ -146,6 +129,3 @@ If these are taken into account, the day-time of Brahma amounts to one thousand 
 This life-duration of Brahma goes by the name Maha-Kalpa, as reported by elders. In as much as Time was without a beginning and will have no end either, I do not know how many Brahmas have gone before.
 
 <!-- Comm. In these verses we are given what is known as Brahma-mana, the seventh of the nine manas. Incidentally we are also given the measures yuga-padas, Manvantaras and a Kalpa. Since in many ancient astronomical works, the revolutions of the planets and the planetary points like nodes, apogees or aphelia are given as integers during the course of a yuga, the concept of a yuga must have arisen as follows. The durations of the sidereal revolutions of the planets and the apogee of the Moon and its node having been ascertained by observation, a period ... -->
-
-
-

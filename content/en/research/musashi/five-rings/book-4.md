@@ -31,7 +31,9 @@ I have recorded the unsatisfactory point of other schools one by one in this boo
 
 Some other schools have a liking for extra-long swords. From the point of view of my strategy these must been seen as weak schools. This is because they do not appreciate the principle of cutting the enemy by any means. 
 
-Their preference is for the extra-long sword and, relying on the virtue of its length, they think to defeat the enemy from a distance. In this world it is said, "One inch gives the hand advantage", but these are the idle words of one who does not know strategy. 
+Their preference is for the extra-long sword and, relying on the virtue of its length, they think to defeat the enemy from a distance. 
+
+It is said, "One inch gives the hand advantage", but these are the idle words of one who does not know strategy. 
 
 It shows the inferior strategy of a weak spirit that men should be dependent on the length of their sword, fighting from a distance without the benefit of strategy.
 

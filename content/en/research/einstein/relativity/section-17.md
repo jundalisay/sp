@@ -41,7 +41,9 @@ Time is absolute* in classical mechanics -- it is independent of the position an
 
 The 4D spacetime is natural to the theory of relativity which robs time of its independence*. 
 
-{{< n n="In Superphysics, this is handled by the Physical and Aethereal Cartesian Plane. The Physical Cartesian Plane gives emphasis to space, while the Aethereal Cartesian Plane gives emphasis to time." >}}
+{{< n n="This is why Modern Physics is so spooked by the independent superposition of quantum mechanics. The 4D spacetime is totally opposite of Descartes' space and time which is made up of independent moments because of the arbitrariness of the aether." >}}  
+
+<!-- In Superphysics, this is handled by the Physical and Aethereal Cartesian Plane. The Physical Cartesian Plane gives emphasis to space, while the Aethereal Cartesian Plane gives emphasis to time." -->
 
 
 Time is absolute in classical mechanics because classical movement happened within the observable space that is within human cognitive limitations.

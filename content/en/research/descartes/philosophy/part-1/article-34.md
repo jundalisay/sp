@@ -1,6 +1,6 @@
 ---
 title: "The Will"
-heading: Section 2b
+heading: Article 34-44
 weight: 20
 description: "The will and the understanding are required for judging."
 writer:
@@ -8,8 +8,6 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 c: "darkgoldenrod"
 icon: "Rene Descartes"
-# aliases:
-#   /research/descartes/philosophy/part-1/section-02b
 ---
 
 
@@ -123,7 +121,7 @@ Frequently, the desire itself of following after truth leads the ignorant to mak
  <!-- those not fully aware of the order in which it ought to be sought for, to pass judgment on matters of which they have no adequate knowledge, and thus to fall into error. -->
 
 
-## 53. We shall never err if we give our assent only to what we clearly and distinctly perceive.
+## 43. We shall never err if we give our assent only to what we clearly and distinctly perceive.
 
 We will never admit falsity for truth, so long as we judge only of that which we clearly and distinctly perceive. This is because God is no deceiver.
 
@@ -137,7 +135,7 @@ Yet all minds have been so impressed by nature as spontaneously to assent to wha
 
 
 
-## 54. We uniformly judge improperly when we assent to what we do not clearly perceive, although our judgment may chance to be true
+## 44. We uniformly judge improperly when we assent to what we do not clearly perceive, although our judgment may chance to be true
 
 Our memory frequently deceives us by leading us to believe that certain things were formerly sufficiently understood by us.
 

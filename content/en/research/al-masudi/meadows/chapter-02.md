@@ -333,3 +333,4 @@ Thirty chapters, the first of which mentions the general objectives of this book
 It mentions what this book is composed of.
 
 The last of which mentions the people from the beginning of Islam until the year 30 Hijri and the teachings of the Prophet.
+

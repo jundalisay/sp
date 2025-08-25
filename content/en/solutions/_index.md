@@ -69,7 +69,7 @@ proofs:
     color: "deeppink"
 
   - url : "/bio/principles/part-01/chapter-01/"
-    img : "/photos/medieval/angkor.jpg"
+    img : "/photos/countries/kh/angkor.jpg"
     title : "Elemental Industry"
     sub : "We tap Elementals for benefits just like agriculture taps plants for food and animals for work"
     cat: "Bio Superphysics"

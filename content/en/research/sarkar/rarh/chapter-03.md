@@ -12,7 +12,7 @@ writer:
 
 
 
-The varńáshrama social system did not originate in India. 
+The varnashrama social system did not originate in India. 
 
 This weed crept into India from the north-west.
 
@@ -24,46 +24,46 @@ The effects linger on.
 
 We still feel the ill effects in our innermost being, in every vein and capillary.
 
-This varnáshrama system:
+This varnashrama system:
 - is an ineradicable black spot on us
 - created a wave of discrimination and superiority complex and inferiority complex
 
-Ráŕh, situated at the furthest end of northern India, was also touched by this all-obliterating wave. 
+Rarh, situated at the furthest end of northern India, was also touched by this all-obliterating wave. 
 
-Just as in northern India, the social discipline in Ráŕh was about to be devastated by this caste system.
+<!-- Just as in northern India, the social discipline in Ráŕh was about to be devastated by this caste system. -->
 
 Throughout northern India, attempts to stop this wave proved futile.
 
 <!-- No one could stop it, but in Ráŕh some efforts were made. There an attempt, at least, was made to give some support to society so as to save the social edifice from the jaws of disaster.  -->
 
-For example, Smárta (1) Raghunandan [who lived in the 16th century] invented a two-caste system which was also defective, but less than the four-caste system.
+For example, Smarta (1) Raghunandan [who lived in the 16th century] invented a two-caste system which was also defective, but less than the four-caste system.
 
 An experiment at least was certainly made. 
 
-Bankimchandra and Haraprasad Shastri [1853 – 1931] appeared at a time when the people of Ráŕh and Bengal had forgotten their real selves because of the confusion.
+Bankimchandra and Haraprasad Shastri [1853 – 1931] appeared at a time when the people of Rarh and Bengal had forgotten their real selves because of the confusion.
 
 They had failed to find a link in their lives between the past and the present. 
 
-Self-recrimination was the order of the day. 
+Self-recrimination [self-blame] was the order of the day. 
 
 Through their literary work, they came with a lamp of enlightenment in that dark age.
 
 <!-- In their literary work they both sallied forth not only with strokes of the pen and marks of ink, but also in a vital literary achievement that resonated with the loud clang of swords.  -->
 
-Bankim and Haraprasad were Ráŕhii by lineage.
+Bankim and Haraprasad were Rarhii by lineage.
 
 <!-- Like the shruti shástra [the Vedas] the smrti shástra [social scripture] is -->
 
-Both the Vedas and social system are neither unchangeable nor divine. 
+**Both the Vedas and social system are neither unchangeable nor divine.** 
 
-The social scripture undergoes changes in every age according to the needs of society.
+**The social scripture undergoes changes in every age according to the needs of society.**
 
 So India clung to the interpretation of Mitákśará(2) given in the smrti shástra of Manu.
 - It did not consider its merits and demerits
 - This flung the people into a dark well of oblivion and isolated India from the rest of the world
 
 
-Jimutbahan Bhattacharya [Jimutavahana of the 12th century] was an inhabitant of Ráŕh.
+Jimutbahan Bhattacharya [Jimutavahana of the 12th century] was an inhabitant of Rarh.
 - He introduced the Dáyabhága (3) system, based on a much more scientific and humanistic outlook and on sensitivity for the rights of daughters. 
 
 This set Ráŕh and Bengal free from family squabbles.

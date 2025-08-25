@@ -12,29 +12,68 @@ icon: "Montesquieu"
 
 ## Chapter 3: The laws of an Aristocracy
 
-In an aristocracy the supreme power is lodged in the hands of a certain number of persons.
-- These are invested both with the legislative and executive authority.
-- The rest of the people are, in respect to them, the same as the subjects of a monarchy in regard to the sovereign.
+In an aristocracy, the supreme power is in a few persons who have both legislative and executive authority.
+- The rest of the people are the same as the subjects of a monarchy relative to them.
 
-They do not vote here by lot; for this would be productive of inconveniencies only. 
+They do not vote here by lot as it would be inconvenient. 
+
 - In a government where the most mortifying distinctions are already established, though they were to be chosen by lot, still they would not cease to be odious: 
 - it is the nobleman they envy, and not the magistrate.
 
-When the nobility are numerous, there must be a senate to regulate the affairs which the body of nobles are incapable of deciding, and to prepare others for their decision. 
-- In this case it may be said, that the aristocracy is in some measure in the senate, the democracy in the body of the nobles, and the people are a cypher.
-- It would be a very happy thing, in an aristocracy, if the people, in some measure, could be raised from their state of annihilation. Thus, at Genoa, the bank of St. George being administered by the people* gives them a certain influence in the government, from whence their whole prosperity is derived.
+When the nobility are numerous, there must be a senate to regulate them.
 
-The senators ought by no means to have a right of naming their own members; for this would be the only way to perpetuate abuses. At Rome, which in its early years was a kind of aristocracy, the senate did not fill up the vacant places in their own body:  the new members were nominated by the* censors.
+ <!-- affairs which the body of nobles are incapable of deciding, and to prepare others for their decision.  -->
 
-In a republic, the sudden rise of a private citizen to exorbitant power produces monarchy, or something more than monarchy. In the latter, the laws have provided for, or in some measure adapted themselves to, the constitution; and the principle of government checks the monarch:  but, in a republic, where a private citizen has obtained an exorbitant power,† the abuse of this power is much greater, because the laws foresaw it not, and consequently made no provision against it.
+In this case:
+- the aristocracy is in the senate
+- the democracy is in the body of the nobles
+- the people are a cypher
 
-There is an exception to this rule, when the constitution is such as to have immediate need of a magistrate invested with an exorbitant power. 
+It would be a very happy thing, in an aristocracy, if the people could be raised from their state of annihilation.
 
-Such was Rome with her dictators; such is Venice with her state-inquisitors:  these are formidable magistrates, who restore, as it were by violence, the state to its liberty. But how comes it that these magistracies are so very different in these two republics? 
+Thus, at Genoa, the bank of St. George was administered by the people.
+- This gave the people influence in the government
 
-It is because Rome supported the remains of her aristocracy against the people; whereas Venice employs her state-inquisitors to maintain her aristocracy against the nobles. The consequence was, that at Rome the dictatorship could be only of a short duration, as the people act through passion, and not with design. It was necessary that a magistracy of this kind should be exercised with lustre and pomp; the business being to intimidate, and not to punish, the multitude. 
+<!-- from whence their whole prosperity is derived. -->
 
-It was also proper that the dictator should be created only for some particular affair, and for this only should have an unlimited authority, as he was always created upon some sudden emergency. On the contrary, at Venice they have occasion for a permanent magistracy; for here it is that schemes may be set on foot, continued, suspended, and resumed; that the ambition of a single person becomes that of a family, and the ambition of one family that of many. 
+The senators should not have a right of naming their own members as it is the only way to perpetuate abuses.
+
+Rome was an aristocracy in its early years.
+- The new members then were nominated by the censors.
+- The senate did not fill up the vacant places in their own body.
+
+In a republic, the sudden rise of a citizen to power produces monarchy. 
+
+In an aristocracy, the laws are in a constitution.
+- The principle of government checks the monarch
+
+<!-- have provided for, or in some measure adapted themselves to, the  -->
+
+In a republic, a citizen can get exorbitant power.
+- The abuse of this power is much greater because the laws foresaw it not.
+- Consequently, it made no provision against it.
+
+There is an exception to this rule, when the constitution is such as to have immediate need of a magistrate invested with an exorbitant power.
+
+Such was:
+- Rome with her dictators
+- Venice with her state-inquisitors
+
+These are formidable magistrates who restore the state to its liberty.
+
+But why are these magistracies so very different in the Roman republic and Venice? 
+
+It is because Rome supported the remains of her aristocracy against the people.
+
+Whereas Venice employs her state-inquisitors to maintain her aristocracy against the nobles.
+
+The consequence was, that at Rome the dictatorship could be only of a short duration, as the people act through passion, and not with design.
+
+It was necessary that a magistracy of this kind should be exercised with lustre and pomp; the business being to intimidate, and not to punish, the multitude. 
+
+It was also proper that the dictator should be created only for some particular affair, and for this only should have an unlimited authority, as he was always created upon some sudden emergency.
+
+On the contrary, at Venice they have occasion for a permanent magistracy; for here it is that schemes may be set on foot, continued, suspended, and resumed; that the ambition of a single person becomes that of a family, and the ambition of one family that of many. 
 
 They have occasion for a secret magistracy, the crimes they punish being hatched in secrecy and silence. This magistracy must have a general inquisition; for their business is not to remedy known disorders, but to prevent the unknown. 
 
@@ -47,7 +86,6 @@ The best aristocracy is that in which those who have no share in the legislature
 Aristocratical families ought, therefore, as much as possible, to level themselves, in appearance, with the people. The more an aristocracy borders on democracy, the nearer it approaches to perfection; and, in proportion as it draws towards monarchy, the more it is imperfect.
 
 But the most imperfect of all is that in which the part of the people that obeys is in a state of civil servitude to those who command; as the aristocracy of Poland, where the peasants are slaves to the nobility.
-
 
 
 ## Chapter 4:  The Relation of Laws to the Nature of monarchical Government
@@ -95,20 +133,27 @@ The prince’s council are not a proper depositary. They are naturally the depos
 Despotic governments, where there are no fundamental laws, have no such kind of depositary. Hence, religion generally has so much influence in those countries, because it forms a kind of permanent depositary. If this cannot be said of religion, it may of the customs that are respected instead of laws.
 
 
-
-
 ## Chapter 5:  The Laws relative to the Nature of a despotic Government
 
+<!-- From the nature of despotic power it follows, that the single person, invested with this power, commits the execution of it also to a single person. -->
 
-FROM the nature of despotic power it follows, that the single person, invested with this power, commits the execution of it also to a single person.
+A despot's senses continually tell him that:
+- he is everything
+- his subjects are nothing
 
-A man, whom his senses continually inform that he himself is every thing, and his subjects nothing, is naturally lazy, voluptuous, and ignorant.
+So he is naturally lazy, voluptuous, and ignorant.
 
-In consequence of this, he neglects the management of public affairs.
+And so he neglects the management of public affairs.
 
-But, were he to commit the administration to many, there would be continual disputes among them; each would form intrigues to be his first slave, and he would be obliged to take the reins into his own hands.
+If he delegated the administration to many, there would be continual disputes among them.
 
-It is, therefore, more natural for him to resign it to a vizir,* and to invest him with the same power as himself. The creation of a vizir is a fundamental law of this government.
+<!-- Each would form intrigues to be his first slave, and he would be obliged to take the reins into his own hands. -->
+
+So he naturally chooses a vizir to represent him. 
+
+<!-- , and to invest him with the same power as himself.  -->
+
+The creation of a vizir is a fundamental law of this government.
 
 It is related of a pope, that he had started an infinite number of difficulties against his election, from a thorough conviction of his incapacity.
 
@@ -116,6 +161,14 @@ At length he was prevailed on to accept of the pontificate, and resigned the adm
 
 He was soon struck with surprize, and said, “I should never have thought that these things were so easy.”
 
-The same may be said of the princes of the East, who, being educated in a prison, where eunuchs corrupt their hearts and debase their understandings, and where they are frequently kept ignorant of their high rank, when drawn forth in order to be placed on the throne, they are at first confounded; but, as soon as they have chosen a vizir, and abandoned themselves in their seraglio to the most brutal passions, pursuing, in the midst of a prostituted court, every capricious extravagance, they could never have dreamt to find matters so easy.
+The same may be said of the princes of the East, who, being educated in a prison, where eunuchs corrupt their hearts and debase their understandings, and where they are frequently kept ignorant of their high rank, when drawn forth in order to be placed on the throne, they are at first confounded.
 
-The more extensive the empire, the larger the seraglio; and consequently the more voluptuous the prince. Hence the more nations such a sovereign has to rule, the less he attends to the cares of government; the more important his affairs, the less he makes them the subject of his deliberations.
+But, as soon as they have chosen a vizir, and abandoned themselves in their seraglio to the most brutal passions, pursuing, in the midst of a prostituted court, every capricious extravagance, they could never have dreamt to find matters so easy.
+
+The more extensive the empire, the larger the seraglio.
+
+Consequently, the more voluptuous the prince. 
+
+Hence the more nations such a sovereign has to rule, the less he attends to the cares of government.
+
+The more important his affairs, the less he makes them the subject of his deliberations.

@@ -17,10 +17,17 @@ By using only their fingertips, they only know the benefit of three of the five 
 
 In my strategy, the training for killing enemies is by way of many contests, fighting for survival, discovering the meaning of life and death, learning the Way of the sword, judging the strength of attacks and understanding the Way of the "edge and ridge" of the sword.
 
-You cannot profit from small techniques particularly when full armour is worn. My Way of Strategy is the sure method to win when fighting for your life one man against five or ten. There is nothing wrong with the principle "one man can beat ten, so a thousand men can beat 10,000". You must research this. Of course you cannot assemble 1,000 or 10,000 men for everyday training. But you can become a master of strategy by training alone with a sword, so that you can understand the enemy's strategy, his strength and resources, and come to appreciate how to apply strategy to beat ten thousand enemies.
+You cannot profit from small techniques particularly when full armour is worn. My Way of Strategy is the sure method to win when fighting for your life one man against five or ten. There is nothing wrong with the principle "one man can beat ten, so a thousand men can beat 10,000". 
+
+You must research this.
+
+You cannot assemble 1,000 or 10,000 men for everyday training.
+
+But you can become a master of strategy by training alone with a sword, so that you can understand the enemy's strategy, his strength and resources, and come to appreciate how to apply strategy to beat 10,000 enemies.
 
 Any man who wants to master the essence of my strategy must research diligently, training morning and evening. Thus can he polish his skill, become free from self, and realize extraordinary ability. He will come to possess miraculous power.
 This is the practical result of strategy.
+
 
 ### Depending on the Place
 

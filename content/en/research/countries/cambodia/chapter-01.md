@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-title: "THE CITY AND ITS WALLS"
+title: "The City And Its Walls"
 description: ""
 weight: 4
 c: "black"

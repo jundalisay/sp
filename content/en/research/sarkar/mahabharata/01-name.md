@@ -11,61 +11,78 @@ weight: 3
 ---
 
 
+{{< b >}}
+### Superhysics Notes
 
-The Mahábhárata's author is Veda Vyasa.
+Shiva + Aryans 5000 BC
+Krisna + Vyasa 1500 BC
+Panini 1500 BC?
+Kapila 1300 BC
+{{< /b >}}
 
-He was known as Krśńa Dvaepayana Vyasa at first.
 
-He was born in a fisherman’s family. They were living just on the patch of land where the Ganges and the Yamuna join near Prayaga.
 
-The area through which the Yamuna flows is covered with black soil, due to which the Yamuna water looks somewhat black.
+The Mahábhárata's author is Veda Vyasa. He was:
+- called initially as Krśńa Dvaepayana Vyasa.
+- born in a fisherman’s family.
+
+They were living on the patch of land where the Ganges and the Yamuna join near Prayaga.
+
+The area through which the Yamuna flows is covered with black soil.
+- This is why the Yamuna water looks black.
 
 The soil of the Ganges is yellowish, hence the water of the Ganges is yellowish. 
 
-The soil of the patch of land where Veda Vyasa was born was blackish (krśńa).
+The soil where Veda Vyasa was born was blackish (krśńa).
 
 Due to the black soil, that patch of land was known as Krśńa Dviipa.
 
-The boy who was born in Krśńa Dviipa was thus named Krśńa Dvaepayana (“one who lives in Krśńa Dviipa”). 
+And so Vyasa was mamed Krśńa Dvaepayana (“one who lives in Krśńa Dviipa”). 
 
-Because his family title was Vyasa, he was known as Krśńa Dvaepayana Vyasa.
+His family title was Vyasa, he was known as Krśńa Dvaepayana Vyasa.
 
-Krśńa Dvaepayana Vyasa was a man of letters. He wrote very many books. He was a great man.
+Krśńa Dvaepayana Vyasa was a great man of letters. He wrote very many books.
 
 The Vedas had become almost extinct then.
 
-The Indians of that time were not conversant with the Vedas till the advent of Veda Vyasa about 3,500 years ago.
+The Indians then were not conversant with the Vedas until the advent of Veda Vyasa about 3,500 years ago.
 
 It was Krśńa Dvaepayana Vyasa who properly edited the Vedas and reintroduced them to the people.
 
-Therefore he became popularly known as “Veda Vyasa.” So the author of the Mahábhárata is Krśńa Dvaepayana Vyasa or “Veda Vyasa.”
+Therefore he became popularly known as “Veda Vyasa”.
+
+So the author of the Mahábhárata is Krśńa Dvaepayana Vyasa or “Veda Vyasa.”
 
 The Mahábhárata is itihása (educative history).
 
-According to the then Indian system books were classified in 4 divisions:
+According to the then Indian system, books were classified in 4 divisions:
 
-1. Kávya
+1. Kavya (stories)
 
 These are stories narrated in a graceful language. Their subject matter might not be real. But its way of expression is lucid and beautiful. Kalidasa wrote kávya.
 
 <!-- “Vákyaḿ rasátmakaḿ kávyam” –  were known as “kávya.”  -->
 
-2. Puráńa
+2. Purana (moral mythology)
 
-This is mythology. In it the stories told are not real but have educative value. Therefore it has its value in society. For instance, the Ramayana is a purana. Shrii Vyasa wrote 18 puráńas to educate the people.
+This is mythology. Its stories are not real but have educative value. Therefore it has its value in society. 
 
-Aśt́ádasha puráńeśu Vyásasya vacanadvayam; Paropakárah puńyáya pápáya parapiid́ańam.
+For instance, the Ramayana is a purana. Shrii Vyasa wrote 18 puráńas to educate the masses.
 
-By writing different stories in the puráńas, Shrii Vyasa intended to educate the masses. To make people at large understand that by doing good to others a person acquires virtues (puńya) and by harming others incurs vices (pápa), Shrii Vyasa wrote eighteen puráńas.
+<!-- Aśt́ádasha puráńeśu Vyásasya vacanadvayam; Paropakárah puńyáya pápáya parapiid́ańam. -->
+
+<!-- By writing different stories in the puráńas, Shrii Vyasa intended to educate the masses. 
+
+To make people at large understand that by doing good to others a person acquires virtues (puńya) and by harming others incurs vices (pápa), Shrii Vyasa wrote eighteen puráńas. -->
 
 
-3. Itikathá
+3. Itikathá (history)
 
 This is “history”, a chronology of events.
 
-In itikathá there is simply a collection of different happenings. In it the author bothers little about the educative value of the affairs. 
+It is simply a collection of different happenings. The author bothers little about the educative value of the affairs. 
 
-People at large derive little benefit from knowing the dates of birth and death of different kings. 
+People derive little benefit from knowing the dates of birth and death of different kings. 
 
 But when and where the society is moving, what turn it has taken at a particular time and to which path it will take, is all indicated in itikathá. 
 
@@ -74,7 +91,7 @@ In other words, what the condition of society was in the past and what it is at 
 Itikathá is also known as “purákathá”, “itivrtta”, “purávrtta,” etc., in Saḿskrta.
 
 
-4. itihása
+4. Itihása (moral history)
 
 <!-- “Iti hasati ityarthe itihása.”  -->
 
@@ -88,3 +105,4 @@ In schools and colleges, the students read Indian itikathá and not itihása. 
 
 <!-- Dharmartha-káma-mokśárthaḿ niitivákyasamanvitam; Purávrttakatháyuktam itihása pracakśyate. -->
 
+The Mahabharata is an itihása.
