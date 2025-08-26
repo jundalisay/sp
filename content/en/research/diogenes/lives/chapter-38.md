@@ -1,13 +1,13 @@
 ---
 title: "Eudoxus: Plato"
 heading: Chapter 38
-# 3
 date: 2025-08-21
 weight: 71
 description: "LIFE OF Eudoxus"
 c: "darkslategray"
 tags: ['Platonists']
 ---
+
 
 <sup>1</sup> Eudoxus was:
 - the son of Æschines
@@ -38,18 +38,37 @@ Some say, that when Plato gave an entertainment on one occasion, Eudoxus, as the
 Nicomachus, the son of Aristotle, affirms that he used to say, that pleasure was the good.
 
 
-III. He was received in his own country with great honours, as the decree that was passed respecting him shows. He was also accounted very illustrious among the Greeks, having given laws to his own fellow citizens, as Hermippus tells us in the fourth book of his account of the Seven Wise Men; and having also written treatises on Astronomy and Geometry, and several other considerable works.
+<sup>3</sup> He was received in his own country with great honours, as the decree that was passed respecting him shows.
+
+He was also accounted very illustrious among the Greeks, having given laws to his own fellow citizens, as Hermippus tells us in the fourth book of his account of the Seven Wise Men; and having also written treatises on Astronomy and Geometry, and several other considerable works.
 
 He had 3 daughters, Actis, Philtis, and Delphis.
 
-Eratosthenes asserts, in his books addressed to Baton, that he also composed dialogues entitled Dialogues of Dogs; others say that these were written by some Egyptians, in their own[374] language, and that Eudoxus translated them, and published them in Greece. One of his pupils was Chrysippus, of Cnidos, son of Erineus, who learnt of him all that he knew about the Gods, and the world, and the heavenly bodies; and who learnt medicine from Philistion the Sicilian. He also left some very admirable Reminiscences.
+Eratosthenes asserts, in his books addressed to Baton, that he also composed dialogues entitled Dialogues of Dogs.
+
+Others say that these were written by some Egyptians, in their own[374] language, and that Eudoxus translated them, and published them in Greece.
+
+One of his pupils was Chrysippus, of Cnidos, son of Erineus, who learnt of him all that he knew about the Gods, and the world, and the heavenly bodies; and who learnt medicine from Philistion the Sicilian. He also left some very admirable Reminiscences.
 
 
-IV. He had a son of the name of Aristagoras, who was the teacher of Chrysippus, the son of Aëthlius; he was the author of a work on Remedies for the Eyes, as speculations on natural philosophy had come very much under his notice.
+<sup>4</sup> He had a son of the name of Aristagoras, who was the teacher of Chrysippus, the son of Aëthlius; he was the author of a work on Remedies for the Eyes, as speculations on natural philosophy had come very much under his notice.
 
-V. There were three people of the name of Eudoxus. The first, this man of whom we are speaking; the second, a Rhodian, who wrote histories; the third, a Siciliot, a son of Agathocles, a comic poet, who gained three victories at the Dionysia in the city, and five at the Lenæa,[119] as Apollodorus tells us in his Chronicles. We also find another, who was a physician of Cnidos, who is mentioned by this Eudoxus, in his Circuit of the World, where he says that he used to warn people to keep constantly exercising their limbs in every kind of exercise, and their senses too.
 
-VI. The same author says, that the Cnidean Eudoxus flourished about the hundred and third olympiad; and that he was the inventor of the theory of crooked lines. And he died in his fifty-third year. But when he was in Egypt with Conuphis, of Heliopolis, Apis licked his garment; and so the priests said that he would be short-lived, but very illustrious, as it is reported by Phavorinus in his Commentaries. And we have written an epigram on him, that runs thus:—
+<sup>5</sup> There were 3 other people named Eudoxus. 
+
+1. a Rhodian, who wrote histories
+2. a Siciliot, a son of Agathocles, a comic poet, who gained 3 victories at the Dionysia in the city, and 5 at the Lenæa, as Apollodorus tells us in his Chronicles. 
+3. a physician of Cnidos, who is mentioned by this Eudoxus, in his Circuit of the World, where he says that he used to warn people to keep constantly exercising their limbs in every kind of exercise, and their senses too.
+
+
+<sup>6</sup> The same author says, that the Cnidean Eudoxus flourished about the hundred and third olympiad; and that he was the inventor of the theory of crooked lines.
+
+He died at 53 years old. But when he was in Egypt with Conuphis, of Heliopolis, Apis licked his garment.
+
+And so the priests said that he would be short-lived, but very illustrious, as it is reported by Phavorinus in his Commentaries.
+
+Our epigram on him is:
+
 ’Tis said, that while at Memphis wise Eudoxus
 Learnt his own fate from th’ holy fair-horned bull;
 He said indeed no word, bulls do not speak
@@ -61,8 +80,6 @@ You shall put off your life. So death came soon,
 When he had just seen three and fifty times
 The Pleiads rise to warn the mariners.
 
-[375]
 
-And instead of Eudoxus, they used to call him Endoxus,[120] on account of the brilliancy of his reputation. And since we have gone through the illustrious Pythagoreans, we must now speak of the Promiscuous philosophers, as they call them. And we will first of all speak of Heraclitus.
-
+Instead of Eudoxus, they used to call him Endoxus because of his brilliance.
 

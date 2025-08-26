@@ -28,6 +28,10 @@ Rank | Damage | Reason
 
 The whole Einstein scam began in 1905 when he pushed the simultaneity of time. This crudified time, a mental effect, into a light-effect, measured by c. 
 
+{{< youtube P_T-D6dwGFU >}}
+
+
+
 The great big problem is that light is just the middle Element of reality and not the causal or highest one. 
 
 {{< i s="/graphics/physics/layers.png" a="5 Elements" >}}

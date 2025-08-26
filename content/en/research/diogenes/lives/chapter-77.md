@@ -101,20 +101,20 @@ When he had said this, as report goes, he expired. And the Athenians accompanied
 - 1 on the Doctrines of Archelaus
 - 1 on Salt, Nitre, and Alum
 - 2 on Petrifactions
-1 on Indivisible Lines
-2 on Hearing
-1 on Words
-1 on the Differences between Virtues
-1 on Kingly Power
-1 on the Education of a King
-3 on Lives
-1 on Old Age
-1 on the Astronomical System of Democritus
-1 on Meteorology
-1 on Images or Phantoms
-1 on Juices, Complexions, and Flesh
-1 on the Description of the World
-1 on Men
+- 1 on Indivisible Lines
+- 2 on Hearing
+- 1 on Words
+- 1 on the Differences between Virtues
+- 1 on Kingly Power
+- 1 on the Education of a King
+- 3 on Lives
+- 1 on Old Age
+- 1 on the Astronomical System of Democritus
+- 1 on Meteorology
+- 1 on Images or Phantoms
+- 1 on Juices, Complexions, and Flesh
+- 1 on the Description of the World
+- 1 on Men
 - a Collection of the Sayings of Diogenes
 - 3 books of Definitions
 - 1 treatise on Love
@@ -128,37 +128,35 @@ When he had said this, as report goes, he expired. And the Athenians accompanied
 - 3 books of Objections
 - 1 book on the Voluntary
 - 2 books, being an Abridgment of Plato’s Polity
-1 on the Difference of the Voices of Similar Animals
-1 on Sudden Appearances
-1 on Animals which Bite or Sting
-1 on such Animals that are Jealous
-1 on animals which live on Dry Land
-1 on those which Change their Colour
-1 on those which live in Holes
-7 on Animals in General
-1 on Pleasure according to the Definition of Aristotle
-74 books of Propositions
-1 treatise on Hot and Cold
-1 essay on Giddiness and Vertigo and Sudden Dimness of Sight
-1 on Perspiration
-1 on Affirmation and Denial
-the Callisthenes, or an essay on Mourning
-1 on Labours
-3 on Motion
-1 on Stones
-1 on Pestilences
-1 on Fainting Fits
-1 on the Megaric Philosopher
-1 on Melancholy
-2 on Mines
-1 on Honey
-1 collection of the Doctrines of Metrodorus
-2 books on those Philosophers who have treated of Meteorology
-1 on Drunkenness
-
-24 books of Laws, in alphabetical order
-- 10 books, being an Abridgment[198] of Laws
-
+- 1 on the Difference of the Voices of Similar Animals
+- 1 on Sudden Appearances
+- 1 on Animals which Bite or Sting
+- 1 on such Animals that are Jealous
+- 1 on animals which live on Dry Land
+- 1 on those which Change their Colour
+- 1 on those which live in Holes
+- 7 on Animals in General
+- 1 on Pleasure according to the Definition of Aristotle
+- 74 books of Propositions
+- 1 treatise on Hot and Cold
+- 1 essay on Giddiness and Vertigo and Sudden Dimness of Sight
+- 1 on Perspiration
+- 1 on Affirmation and Denial
+- the Callisthenes, or an essay on Mourning
+- 1 on Labours
+- 3 on Motion
+- 1 on Stones
+- 1 on Pestilences
+- 1 on Fainting Fits
+- 1 on the Megaric Philosopher
+- 1 on Melancholy
+- 2 on Mines
+- 1 on Honey
+- 1 collection of the Doctrines of Metrodorus
+- 2 books on those Philosophers who have treated of Meteorology
+- 1 on Drunkenness
+- 24 books of Laws, in alphabetical order
+  - 10 books, being an Abridgment[198] of Laws
 - 1 on Definitions
 - 1 on Smells
 - 1 on Wine and Oil
@@ -317,17 +315,57 @@ These works contain in all 232,908 lines.
 <sup>14</sup> I have found his will:
 
 
-May things turn out well, but if anything should happen to me, I make the following disposition of my property. I give everything that I have in my house to Melantes and Pancreon, the sons of Leon. And those things which have been given to me by Hipparchus, I wish to be disposed of in the following manner:—First of all, I wish everything about the Museum[49] and the statue of the goddesses to be made perfect, and to be adorned in a still more beautiful manner than at present, wherein there is room for improvement. Then I desire the statue of Aristotle to be placed in the temple, and all the other offerings which were in the temple before. Then I desire the colonnade which used to be near the Museum to be rebuilt in a manner not inferior to the previous one. I also enjoin my executors to put up the tablets on which the maps of the earth are drawn, in the lower colonnade, and to take care that an altar is finished in such a manner that nothing may be wanting to its perfectness or its beauty. I also direct a statue of Nicomachus, of equal size, to be erected at the same time; and the price for making the statue has been already paid to Praxiteles; and he is to contribute what is wanting for the expense. And I desire that it shall be placed wherever it shall seem best to those who have the charge of providing for the execution of the other injunctions contained in this will. And these are my orders respecting the temple and the offerings. The estate which I have at Stagira, I give to Callinus, and all my books I bequeath to Neleus. My garden, and my promenade, and my houses which join the garden, I give all of them to any of the friends whose names I set down below, who choose to hold a school in them and to devote themselves to the study of philosophy, since it is not possible for any one to be always travelling, but I give them on condition that they are not to alienate them, and that no one is to claim them as his own private property; but they are to use them in common as if they were sacred ground, sharing them with one another in a kindred and friendly spirit, as is reasonable and just. 
+{{< box >}}
+I give everything that I have in my house to Melantes and Pancreon, the sons of Leon.
 
-Those who are to have this joint property in them are Hipparchus, Neleus, Strato, Callinus, Demotimus, Demaratus, Callisthenes, Melantes, Pancreon,[201] and Nicippus. 
+My things from Hipparchus I dispose of in the following manner:
+
+- everything about the Museum[49] and the statue of the goddesses should be made perfect
+- the statue of Aristotle should be placed in the temple
+- the colonnade which used to be near the Museum should be rebuilt
+- the tablets which have the maps of the earth should be in the lower colonnade
+- an altar should be finished
+- a statue of Nicomachus, of equal size, should be erected at the same time
+  - the price for making the statue has been already paid to Praxiteles
+  - he is to contribute what is lacking
+  - it shall be placed wherever it shall seem best
+
+My estate at Stagira I give to Callinus.
+
+All my books I bequeath to Neleus.
+
+My garden, and my promenade, and my houses which join the garden, I give to any of the friends I set down below if they hold a school in them and devote themselves to philosophy.
+
+A person does not always travel. These shuold not be alienated and not be made private property.
+
+They are to use them in common as if they were sacred ground, sharing them with one another in a kindred and friendly spirit, as is reasonable and just. 
+
+Those who are to have this joint property are Hipparchus, Neleus, Strato, Callinus, Demotimus, Demaratus, Callisthenes, Melantes, Pancreon, and Nicippus. 
 
 Aristotle, the son of Metrodorus and Pythias, shall also be entitled to a share in this property, if he like to join these men in the study of philosophy.
 
-I beg the older men to pay great attention to his education that he may be led on to philosophy as much as possible. I also desire my executors to bury me in whatever part of the garden shall appear most suitable, incurring no superfluous expense about my funeral or monument. And, as has been said before, after the proper honours have been paid to me, and after provision has been made for the execution of my will as far as relates to the temple, and the monument, and the garden, and the promenade, then I enjoin that Pamphylus, who dwells in the garden, shall keep it and everything else in the condition as it has been in hitherto. And those who are in possession of these things are to take care of his interests. I further bequeath to Pamphylus and Threptes, who have been some time emancipated, and who have been of great service to me, besides all that they have previously received from me, and all that they may have earned for themselves, and all that I have provided for being given them by Hipparchus, two thousand drachmas, and I enjoin that they should have them in firm and secure possession, as I have often said to them, and to Melantes and Pancreon, and they have agreed to provide for this my will taking effect. I also give them the little handmaid Somatale; and of my slaves, I ratify the emancipation of Molon, and Cimon, and Parmenon which I have already given them. 
+I beg the older men to pay great attention to his education that he may be led on to philosophy as much as possible. 
 
-I hereby give their liberty to Manes and Callias, who have remained four years in the garden, and have worked in it, and have conducted themselves in an unimpeachable manner. And I direct that my executors shall give Pamphylus as much of my household furniture as may seem to them to be proper, and shall sell the rest. And I give Carion to Demotimus, and Donax to Neleus. I order Eubius to be sold, and I request Hipparchus to give Callinus three thousand drachmas. And if I had not seen the great service that Hipparchus has been to me in former times, and the embarrassed state of his affairs at present, I should have associated Melantes and Pancreon with him in these gifts. But as I see that it would not be easy for them to arrange to manage the property together, I have thought it likely to be more advantageous for them to receive a fixed[202] sum from Hipparchus. Therefore, let Hipparchus pay to Melantes and to Pancreon a talent a-piece; and let him also pay to my executors the money necessary for the expenses which I have here set down in my will, as it shall require to be expended. And when he has done this, then I will that he shall be discharged of all debts due from him to me or to my estate. And if any profit shall accrue to him in Chalcis, from property belonging to me, it shall be all his own. My executors, for all the duties provided for in this will, shall be Hipparchus, Neleus, Strato, Callinus, Demotimus, Callisthenes, and Ctesarchus. And this my will is copied out, and all the copies are sealed with the seal-ring of me, Theophrastus; one copy is in the hands of Hegesias the son of Hipparchus; the witnesses thereto are Callippus of Pallene, Philomelus of Euonymus, Lysander of Hybas, and Philion of Alopece. Another copy is deposited with Olympiodorus, and the witnesses are the same. A third copy is under the care of Adimantus, and it was conveyed to him by Androsthenes, his son. 
+I want to be buried in the garden, incurring no superfluous expense about my funeral or monument. 
 
-The witnesses to that copy are Arimnestus the son of Cleobulus, Lysistratus of Thasos, the son of Phidon; Strato of Lampsacus, the son of Arcesilaus; Thesippus of Cerami, the son of Thesippus; Dioscorides of the banks of the Cephisus, the son of Dionysius.—This was his will.
+After the proper honours have been paid to me, and after provision has been made for the execution of my will as far as relates to the temple, and the monument, and the garden, and the promenade, then I enjoin that Pamphylus, who dwells in the garden, shall keep it and everything else in the condition as it has been in hitherto. 
+
+Those who are in possession of these things are to take care of his interests. I further bequeath to Pamphylus and Threptes, who have been some time emancipated, and who have been of great service to me, besides all that they have previously received from me, and all that they may have earned for themselves, and all that I have provided for being given them by Hipparchus, two thousand drachmas, and I enjoin that they should have them in firm and secure possession, as I have often said to them, and to Melantes and Pancreon, and they have agreed to provide for this my will taking effect. I also give them the little handmaid Somatale; and of my slaves, I ratify the emancipation of Molon, and Cimon, and Parmenon which I have already given them. 
+
+I hereby give their liberty to Manes and Callias, who have remained four years in the garden, and have worked in it, and have conducted themselves in an unimpeachable manner. 
+
+Pamphylus should have as much of my household furniture as proper, and shall sell the rest.
+
+I give Carion to Demotimus, and Donax to Neleus. I order Eubius to be sold, and I request Hipparchus to give Callinus three thousand drachmas. And if I had not seen the great service that Hipparchus has been to me in former times, and the embarrassed state of his affairs at present, I should have associated Melantes and Pancreon with him in these gifts. But as I see that it would not be easy for them to arrange to manage the property together, I have thought it likely to be more advantageous for them to receive a fixed[202] sum from Hipparchus. Therefore, let Hipparchus pay to Melantes and to Pancreon a talent a-piece; and let him also pay to my executors the money necessary for the expenses which I have here set down in my will, as it shall require to be expended.
+
+When he has done this, then I will that he shall be discharged of all debts due from him to me or to my estate. And if any profit shall accrue to him in Chalcis, from property belonging to me, it shall be all his own. 
+
+My executors shall be Hipparchus, Neleus, Strato, Callinus, Demotimus, Callisthenes, and Ctesarchus. 
+{{< /box >}}
+
+<!-- This my will is copied out, and all the copies are sealed with the seal-ring of me, Theophrastus; one copy is in the hands of Hegesias the son of Hipparchus; the witnesses thereto are Callippus of Pallene, Philomelus of Euonymus, Lysander of Hybas, and Philion of Alopece. Another copy is deposited with Olympiodorus, and the witnesses are the same. A third copy is under the care of Adimantus, and it was conveyed to him by Androsthenes, his son. 
+
+The witnesses to that copy are Arimnestus the son of Cleobulus, Lysistratus of Thasos, the son of Phidon; Strato of Lampsacus, the son of Arcesilaus; Thesippus of Cerami, the son of Thesippus; Dioscorides of the banks of the Cephisus, the son of Dionysius. -->
 
 
 <!-- XV. Some writers have stated that Erasistratus, the physician, was a pupil of his; and it is very likely. -->

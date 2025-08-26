@@ -33,7 +33,15 @@ He had a licentious daughter, who was married to a friend of his named Simias, a
 
 <sup>4</sup> Ptolemy Soter received him with great honour.
 
-When he had made himself master of Megara, he gave him money, and invited him to sail with him to Egypt. But he accepted only a moderate sum of money, and declined the journey proposed to him, but went over to Ægina, until Ptolemy had sailed. Also when Demetrius, the son of Antigonus had taken Megara, he ordered Stilpo’s house to be saved, and took care that everything that had been plundered from him should be restored to him. But when he wished Stilpo to give him in a list of all that he had lost, he said that he had lost nothing of his own; for that no one had taken from him his learning, and that he still had his eloquence and his knowledge. And he conversed with Demetrius on the subject of doing good to men with such power, that he became a zealous hearer of his.
+When he had made himself master of Megara, he gave him money, and invited him to sail with him to Egypt. 
+
+But he accepted only a moderate sum of money, and declined the journey proposed to him, but went over to Ægina, until Ptolemy had sailed.
+
+Also when Demetrius, the son of Antigonus had taken Megara, he ordered Stilpo’s house to be saved, and took care that everything that had been plundered from him should be restored to him. 
+
+But when he wished Stilpo to give him in a list of all that he had lost, he said that he had lost nothing of his own; for that no one had taken from him his learning, and that he still had his eloquence and his knowledge.
+
+He conversed with Demetrius on the subject of doing good to men with such power, that he became a zealous hearer of his.
 
 
 <sup>5</sup> They say that he once put such a question as this to a man, about the Minerva of Phidias:—“Is Minerva the Goddess the daughter of Jupiter?” 
@@ -52,7 +60,11 @@ Remove the multitude?”
 
 <sup>6</sup> But Stilpo was a man of simple character, and free from all trick and humbug, and universally affable. 
 
-When Crates the Cynic once refused to answer a question that he had put to him, and only insulted his questioner—“I knew,” said Stilpo, “that he would say anything rather than what he ought.” And once he put a question to him, and offered him a fig at the same time; so he took the fig and ate it, on which Crates said, “O Hercules, I have lost my fig.” “Not only that,” he replied, “but you have lost your question too, of which the fig was the pledge.” At another time, he saw Crates shivering in the winter, and said to him, “Crates, you seem to me to want a new dress,” meaning, both a new mind and a new garment; and Crates, feeling ashamed, answered him in the following parody:
+When Crates the Cynic once refused to answer a question that he had put to him, and only insulted his questioner—“I knew,” said Stilpo, “that he would say anything rather than what he ought.” 
+
+Once he put a question to him, and offered him a fig at the same time; so he took the fig and ate it, on which Crates said, “O Hercules, I have lost my fig.” “Not only that,” he replied, “but you have lost your question too, of which the fig was the pledge.” 
+
+At another time, he saw Crates shivering in the winter, and said to him, “Crates, you seem to me to want a new dress,” meaning, both a new mind and a new garment; and Crates, feeling ashamed, answered him in the following parody:
 
 “There[30] Stilpo too, through the Megarian bounds,
 Pours out deep groans, where Typhon’s voice resounds,
@@ -60,14 +72,31 @@ And there he oft doth argue, while a school
 Of eager pupils owns his subtle rule,
 And virtue’s name with eager chase pursues.”
 
-And it is said that at Athens he attracted all the citizens to such a degree, that they used to run from their workshops to look at him; and when some one said to him, “Why, Stilpo, they wonder at you as if you were a wild beast,” he replied, “Not so; but as a real genuine man.”
+
+At Athens, he attracted all the citizens to such a degree, that they used to run from their workshops to look at him.
+
+When some one said to him, “Why, Stilpo, they wonder at you as if you were a wild beast,” he replied, “Not so; but as a real genuine man.”
 
 
 <sup>7</sup> He was a very clever arguer; and rejected the theory of species. 
 
-He used to say that a person who spoke of man in general, was speaking of nobody; for that he was not speaking of this individual, nor of that one; for speaking in general, how can he speak more of this person than of that person? therefore he is not speaking of this person at all.
+He used to say that a person who spoke of man in general, was speaking of nobody; for that he was not speaking of this individual, nor of that one; for speaking in general, how can he speak more of this person than of that person? 
 
-Another of his illustrations was, “That which is shown to me, is not a vegetable; for a vegetable existed ten thousand years ago, therefore this is not a vegetable.” And they say that once when he was conversing with Crates, he interrupted the discourse to go off and buy some fish; and as Crates tried to drag him back, and said, “You are leaving the argument;” “Not at all,” he replied, “I keep the argument, but I am leaving you; for the argument remains, but the fish will be sold to some one else.”
+Therefore he is not speaking of this person at all.
+
+Another of his illustrations was, “That which is shown to me, is not a vegetable; for a vegetable existed ten thousand years ago, therefore this is not a vegetable.”
+
+When he was conversing with Crates, he interrupted the discourse to go off and buy some fish.
+
+As Crates tried to drag him back:
+
+{{< r a="Crates" >}}
+You are leaving the argument!
+{{< /r >}}
+
+{{< l a="Stilpo" >}}
+Not at all. I keep the argument, but I am leaving you; for the argument remains, but the fish will be sold to some oneelse.
+{{< /l >}}
 
 
 <sup>8</sup> There are 9 dialogues of his written in a frigid style:
@@ -96,3 +125,4 @@ And drinking it, he drove on to the end.
 
 And he was ridiculed by Sophilus the comic poet, in his play called Marriages:—
 The dregs of Stilpo make the whole discourse of this Charinus.
+

@@ -20,12 +20,12 @@ But some authors say that he was the son of Marmacus, the son of Hippasus, the s
 After that he migrated to Lesbos, having come to Pherecydes with letters of recommendation from Zoilus, his uncle. And having made three silver goblets, he carried them to Egypt as a present for each of the three priests. He had brothers, the eldest of whom was named Eunomus, the middle one Tyrrhenus, and a slave named Zamolxis, to whom the Getæ sacrifice, believing him to be the same as Saturn, according to the account of Herodotus.[107]
 
 
-II. He was a pupil of Pherecydes, the Syrian.
+<sup>2</sup> He was a pupil of Pherecydes, the Syrian.
 
 After his death, he came to Samos, and became a pupil of Hermodamas, the descendant of Creophylus, who was by this time an old man.
 
 
-III. He got got initiated into all the Grecian and barbarian sacred mysteries. 
+<sup>3</sup> He got got initiated into all the Grecian and barbarian sacred mysteries. 
 
 He went to Egypt, on which occasion Polycrates gave him a letter of introduction to Amasis.
 
@@ -38,7 +38,7 @@ Then he returned back again to Samos, and finding his country reduced under the 
 There, having given laws to the Italians, he gained a very high reputation, together with 300 of his scholars and governed the republic in a most excellent manner; so that the constitution was very nearly an aristocracy.
 
 
-IV. Heraclides Ponticus says, that he was accustomed to speak of himself in this manner; that he had formerly been Æthalides, and had been accounted the son of Mercury;
+<sup>4</sup> Heraclides Ponticus says, that he was accustomed to speak of himself in this manner; that he had formerly been Æthalides, and had been accounted the son of Mercury.
 
 Mercury had desired him to select any gift he pleased except immortality. And that he accordingly had requested that, whether living or dead, he might preserve the memory of what had happened to him. While, therefore, he was alive, he recollected everything; and when he was dead, he retained the same memory. And at a subsequent period he passed into Euphorbus, and was wounded by Menelaus.
 
