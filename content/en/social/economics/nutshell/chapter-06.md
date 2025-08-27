@@ -75,7 +75,7 @@ order to end crises permanently. This manifests as online apps and offline paper
 
 These connect to each other through data hubs called APIs that can give supereconomic data in real-time to aid policymakers in adjusting regulations, monied-people to find more investment opportunities, workers for job search, and buyers for bargains.
 
-{{< i s="/graphics/econ/supereconvecon.png" a="Fintech"  >}}
+{{< i s="/graphics/econ/supereconvecon.jpg" a="Fintech"  >}}
 
 
 ## Violations of the Fourth Law

@@ -1,76 +1,97 @@
 ---
-heading: "Chapter 3d"
-title: "Quantization Leading to Shapes"
-# date: 2020-01-01
-image: "/graphics/physics/media.jpg"
-description: "We use shapes to easily explain the dynamics of waves"
+heading: "Chapter 3c"
+title: "Perception Space: Medium of Aether 3"
+# # date: 2020-01-31
+date: 2024-12-09
+image: "/graphics/physics/spacetimes.jpg"
+description: "The Identity Space houses the gravitational signature"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
+weight: 12
 icon: "Juan"
 ---
 
 
-The previous chapter explained how the Negative Force cuts up waves into individual discrete identities.
 
-In Modern Physics, this is known as quantization.
+Aethereal identities exist in a perception space which is the lowest medium of aether. 
 
-- In the aethereal layer, this leads to gravitational signatures
-- In the spatial layer, this leads to spacetime slices
-- In the radiant layer, this leads to quantized energy levels and states
-- In the convertible layer, this leads to beta decay particles
+This is our alternative to both Hilbert Space and Gauge Theory. 
 
+A perception space houses the identity spaces that either link or not link to each other. 
 
-## The Quantization of Energy As the Crudification Through the Lower Layers
-
-Quantization was developed by Max Planck in order to correctly describe the spectrum of a light-emitting body as a response to the "ultraviolet catastrophe".
-
-This catastrophe was caused by the difference between the predicted infinite light given out by a light-emitting body, contrasted with its actual emission which is not infinite.
-
-Max Planck solved the problem by saying that energy comes out at discrete quanta.
-
-This led to quantum mechanics.
-
-Material Superphysics explains that this quantization happens in the four layers. It is only exposed in the Radiant Layer (Electromagnetism) because that layer is the carrier of information (as one of the actions of the 1st Element in Cartesian Physics).
+Each identity space has the gravitational signature or inherent unique wave of the identity. 
 
 
-### Quantum Shapes to Aid in Visualization
+## Immediate Reality (Collapse) and Extended Reality
 
-We use this informational--ability of visibility be creating particle shapes for each substance, medium, and quantum in our 5 Layer Model.
+A link between identity spaces, where an origin or central wave comes within the scope of another identity space, creates a matching of waves.
+- This is called by Physics as the "collapse" of the wavefunction. 
+- This is called a *reality*. 
 
-This is because dynamic waves are hard to visualize. This technique was used by Descartes who got the idea from Plato who created the Platonic shapes in Timeaus.
+An indirect link, where identity spaces come in contact without the origin, does not lead to a reality.
+- Rather it is called a universe or extended reality.
 
-In the Asian sciences, the shapes are called mandalas and yantras. 
-
-The major tones form general shapes when they are visualized in the same way that audio is visualized by modern mp3 players. This is why Plato organized them into 5 shapes. However, we differ a bit because we base our shape in the aether content:
-
-Layer | Aether content | Greek Shape | Superphysics Shape
---- | --- | --- | ---
-5 Aethereal | 5 units | Dodecahedron  | Pentagon
-4 Spatial |  4 | Octahedron | Square
-3 Radiant | 3 | Tetrahedron | Line or Triangle
-2 Convertible | 2 | Icosahedron | Dash 
-1 Material | 1 | Cube | Sphere
+The observed universe is the limit of our extended reality. Beyond it is ignorance or the unknown.   
 
 
-{{< i s="/graphics/physics/media.jpg" a="Media Particles" >}}
 
-{{< i s="/graphics/physics/quantum.jpg" a="Quantum Particles" >}}
+## Relationality 
 
+The Identity Space revealed the concept of Passive Relationality as the sub ideas or identities that are connected to the main identity. 
 
-{{< youtube pMK7dTU0jn0 >}}
-
-
-Note that these shapes are NOT how those forces and particles exist in actuality. These are just representations that help the human mind understand the dynamics of those forces and particles which are actually in a compound wave format. 
-
-This is similar to musical notes representing the actual sound waves of a song. 
-
-This is also similar to programming languages being in English even if computers talk in binary and machine language. For example, the Javacript snippet `declare global {namespace App}` uses English words even if its output is ultimately code that software can understand, but humans cannot.  
+However, Active Relationality takes place in the Perception Space. This facilitates change and movement:
+- gravity is the relation between masses
+- magnetism is the relation between high and low soace (2nd Element) pressure through channels 
+- combustibility is the relation between the matter (3rd Element) and heat particles (1st Element)
+- love and hate is the relation between people and our objects
+- health and disease is the relation of our own bodies to different possible states
 
 
-These shapes are helpful in understanding why the fundamental forces act in the way that they do. 
+Therefore relationality is the key to manipulating non-living things and commanding living things (e.g. give food to a dog to train specific behavior, or give guaranteed profits to a capitalist to make him invest).
 
-For example, the 2D nature of photons allow them to go through the 2D spacetime unhindered. They are only hindered by the aetherspace which is 3D and limits them to 300,000 kilometers per second. 
 
-This will be fully explained in Chapter 5. 
+## Cause and Effect
+
+Since the perception space has relationality then it is the best tool to analyze cause and effect. 
+
+- The cause is the identity space
+- The effect is in physical space of the Spatial Layer (sos3)
+
+The revealing of the identity space and relationalities is done through dialectics. 
+
+So we can say that particle-shaking is dialectics applied to particles.
+
+
+<!-- This allows people, animals, plants, and computers to analyze cause and effect. 
+
+The main difference is that computers, as nonliving things, do not have access to feelings (moa2) which is required for a full understanding of perceptions and phenomena. 
+
+This is why artificial intelligence (AI) is prone to mistakes, as hallucinations. They try to find patterns from trainng data as discrete identities without knowing how they are supposed to stream or be stitched together. 
+
+This is why AI needs people to label the data. This tells the AI how they are to be ordered temporally and be connected to each other. 
+
+The ability to label is naturally possessed by humans who have access to feelings or moa2. 
+
+
+Material Superphysics aims to unlock true AI as Autonomous Natural Intelligence or ANI by connecting it to moa2, as real-time access to the aether.  -->
+
+<!-- They only work with existing 'training'
+ data and base their reasoning on those. They have no ability to tap the changing feelings of the aether. And so their conclusions can become out of sync with reality.  -->
+
+
+<!-- In Superphysics, human intelligence is sourced from our bodies having more access to the aethereal layer through our upper chakras, specifically the 5th, 6th, and 7th. 
+
+This sets us different from animals which only have up to the 3rd chakra developed.  -->
+
+<!-- This is also true for artificial intelligence (AI) which only has access to the radiant layer. It has only has a fake kind of intelligence because it has fake access to the aetheral layer, as training data.  -->
+
+<!-- In reality, its training data is from human cognition but is always already old data and not instant 'true' data from the aether. -->
+
+
+<!-- The free aether is responsible for counter-evolution as decay and antimatter.  -->
+
+<!-- - If Qost A has an inherent quality that is 100 units repulsive to Qost B, then the spacetime between them might be 100 distance-units per 1 unit of time-perception. 
+- But if Qost C is only 50 units repulsive, then Qost C will be 50 units away from Qost B at the same time. 
+- This would show Qost A moving faster away from Qost B than Qost C. 
+  - In Physics, this manifests as it having a red-shift which will indicate a growing distance. -->

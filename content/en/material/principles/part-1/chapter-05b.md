@@ -7,7 +7,7 @@ description: "Action at a Distance is possible because there is no void in natur
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 17
+weight: 37
 icon: "Juan"
 ---
 

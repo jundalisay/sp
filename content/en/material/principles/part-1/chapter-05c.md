@@ -7,7 +7,7 @@ description: "The Action of Physics is Effort to Material Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
+weight: 40
 icon: "Juan"
 ---
 
