@@ -7,7 +7,7 @@ description: "We use shapes to easily explain the dynamics of waves"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
+weight: 34
 icon: "Juan"
 ---
 

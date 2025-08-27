@@ -2,7 +2,7 @@
 heading: "Chapter 9"
 title: "Aethereal Relationality: Motion is Internal"
 # date: 2023-12-10
-weight: 50
+weight: 70
 image: /graphics/physics/gr.jpg
 description: "Aethereal Relationality deals with the movement of qoa"
 icon: "Juan"

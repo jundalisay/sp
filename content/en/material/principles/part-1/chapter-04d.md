@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3b"
+heading: "Chapter 4d"
 title: "Waves as an Analog Flow"
 # date: 2020-01-01
 image: "/graphics/physics/waveflow.jpg"
@@ -7,8 +7,8 @@ description: "Waves can be seen as identity or as flow"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 19
-icon: "Superphysics"
+weight: 26
+icon: "Juan"
 ---
 
 {{< dc t="Principles (click to expand)" >}}
@@ -128,6 +128,4 @@ Convertible | Emitted Particles into Matter
 Material | Matter into Identity
 
 
-
 The gravitational signatures can then be manipulated through particle dialectics in order to create actions.
-

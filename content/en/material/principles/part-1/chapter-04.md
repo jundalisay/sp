@@ -7,7 +7,7 @@ description: "A universe is a substance of the aether"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 13
+weight: 18
 icon: "Juan"
 ---
 

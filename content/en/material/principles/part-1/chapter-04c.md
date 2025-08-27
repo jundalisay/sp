@@ -1,85 +1,75 @@
 ---
 heading: "Chapter 4c"
-title: "Waves as Quantum Identities"
-# date: 2020-01-01
-image: "/graphics/physics/media.jpg"
-description: "We use shapes to easily explain the dynamics of waves"
+title: "The Creation of Matter and Planets"
+# date: 2020-01-31
+image: "/photos/physics/mars.jpg"
+description: "According to Physics, the universe was created through a Big Bang of a material Singularity. This is false."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
+weight: 25
 icon: "Juan"
 ---
 
 
 
-{{< youtube ZM1gapf2np0 >}}
+### The Creation of Matter
 
-The previous part explained waves as a flow. Here we represent waves as an identity, as a shaped particle.
-
-Identities are created as an effect of the Negative Force splitting up waves into discrete quanta.
-
-This is to facilitate a clearer perception of that identity or part of Nature as separate and unique from other parts. 
-
-This means that the uniqueness of everything in the universe is caused by Negativity. 
+Matter is created inside a steller vortex and is spread to the galaxy through dissociation which is either instant or gradual.
 
 
-## Gravitational Signatures
-
-This uniquness of each identity is embodied in its gravitational signatures, which are inherently negative. 
-
-Uniqueness creates differences which usually become belligerent or fricitional against each other, unless the Positive Force dominates.
-
-With the Positive Force, the uniqueness is harmonized with those of others. This then leads to diversity. 
-
-For example, without harmonization, hydrogen stays alone. But thanks to harmonization, there can exist various compounds such as:
-- Water (H2O)
-- Hydrochloric acid (HCl)
-- Methane (CH4)
+{{< q a="PR Sarkar" c="Idea and Ideology" >}}
+Structural Dissociation happens when celestial bodies lose vital energy. This can be instantaneous or gradual.
+{{< /q >}}
 
 
+1. Instant
 
-## Monads make up an Aether particle and the Gravitational Signature
+This happens when the Negative Force keeps on imposing itself on a lifeless, matter-filled, heavenly body. This results in a supernova.
 
-Gravitational signatures are made up of monads just like a QR code is made up of black ink on paper or pixels on the screen.
-
-![QR Code](/icons/qr.png)
-
-- If the black ink is the monad as moa3, then its paper is physical existence or moa1
-- If the pixels are the monad, then its background is physical existence
+A living heavenly body is one whose core is not yet filled with matter, but rather has the convertible, radiant, spatial, and aethereal layers still active.   
 
 
-Since monads are subjective and not objective, they are explained by Superphysics, not by Material Superphysics.
+2. Gradual 
 
-The only concept that we need to know is that a monad makes up an aether particle. It is the aether that makes up all other particles. 
+This happens when the Negative Force slowly creeps into a living celestial body through its spaces or qosts. This manifests as a nebula.
 
-
-Layer | Aether Content
---- | --- |
-Aethereal | 5
-Spatial | 4
-Radiant | 3
-Convertible | 2
-Material | 1
-
-This is why we call the Aether as the 5th Element or Layer, and Matter as the 1st. 
-- The waves more obviously take on a particle-shape and behavior from the Radiant Layer to the Material.
-- The waves stay as waves in the Aethereal and Spatial Layers.
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 3, Article 116" >}}
+The star will easily be removed by a neighboring star as soon as it becomes covered with several spots. All the air-aether near the star will be added to the other star and will follow its motion. The remaining air-aether will migrate to other neighboring vortices.
+{{< /q >}}
 
 
-### The Gravitational Signatures or Dharma as the center of the Sublayers 
-
-Each particle represents a wave. Each wave moves up and down, as amplitude, from its zero level.
-
-We call this zero or average level as the **central signature or dharma** for that wave.
-
-This means that a wave has 3 kinds depending on its relation to that central signature. It can be:
-- above that level
-- within that level
-- below that level 
-
-{{< i s="/graphics/physics/sub.jpg" alt="Sublayers" c="The material waves are most obvious to humans which are also made up of material bodies" >}}
-
-These lead to 3 subelements or sublayers for each Element or Layer.
+Both instantaneous and gradual dissociation converts the celestial body back into the component 5 layers.
+- Instant dissociation converts matter back to light
+- Gradual dissociation converts light into spacetie
 
 
+
+
+### The Creation of Planets
+
+In Cartesian Physics, planets are stellar vortices that failed to become stars. 
+
+A stellar system being born has many vortices around a central vortex. The weaker ones get absorbed into the stronger ones. This leads to the following known outcomes:
+
+- 2 strong vortices as binary stars, and weaker vortices as planets. This is the most common.
+- 1 strong vortex as a star, and many weaker vortices.
+- 1 strong vortex alone. This is rare and is seen in Vega.
+
+The dynamics of planets such as plate tectonics will be discussed in the Material Layer.
+
+
+
+### The Creation of Life
+
+The dissociation of stellar vortices spreads both organic and inorganic matter within a galaxy. 
+
+Organic matter then becomes the vehicle for life when combined with the Positive Force emitted by a star. This is evidenced on earth by the patterns of the spread of certain viruses that follow the patterns of starlight.
+
+The evolution of life will be discussed by Bio Superphysics.
+
+<!-- - Phase 3: The electromagnetic layer turns the clumped energy into electrons or "quantum of electricity" (qoe) and photons "quantum of light" (qol) 
+- Phase 4: The weak force of the Convertible layer turn the electrons into neutrons "quantum of radioactivity" (qor)
+- Phase 5: The strong force turn neutrons into protons as quarks (quantum of matter or qom) via gluons --> 
+
+<!-- These lead to the first shining stars. The protons in them then make up the basic elements which are then spread throughout space through the explosion of the qost, as a supernova. The exploded matter and unconverted energy are then re-clumped in the same qost to repeat the process until all the energy is converted into matter.  -->

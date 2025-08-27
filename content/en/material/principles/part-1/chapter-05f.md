@@ -7,7 +7,7 @@ description: "The Crudifying Monad downgrades the aether into material particles
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 40
+weight: 42
 icon: "Juan"
 ---
 
@@ -21,4 +21,5 @@ This is seen in:
 - limitation of action
 - quarks popping into existence
 - galaxies forming from space
+
 

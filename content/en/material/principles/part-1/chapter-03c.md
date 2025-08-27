@@ -8,7 +8,7 @@ description: "Densities are the variations of wavelengths in Identity Space"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 11
+weight: 14
 icon: "Juan"
 ---
 

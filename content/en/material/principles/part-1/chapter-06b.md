@@ -2,7 +2,7 @@
 heading: "Chapter 6b"
 title: "Vortex Spin"
 # date: 2024-08-01
-weight: 42
+weight: 44
 image: /photos/physics/sparks.jpg
 description: "The Principle of Least Action or Effort"
 icon: "Juan"

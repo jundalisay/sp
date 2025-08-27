@@ -8,7 +8,7 @@ description: "The constant action by the Positive and Negative Force on Substanc
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 48
+weight: 68
 icon: "Juan"
 ---
 
