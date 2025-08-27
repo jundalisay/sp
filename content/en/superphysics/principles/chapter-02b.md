@@ -52,10 +52,7 @@ More importantly, these dimensions and densities give the soul a direction in li
 {{< q a="Buddha" c="Pratyutpanna Samādhi Sutta" >}}
 ’Where does this Buddha come from and where am I going? As I think of this Buddha, He comes from nowhere and I am going nowhere. As I think of the desire realm, the form realm, and the formless realm*, these three realms are formed by my mind. I can see what I think of. The mind forms a Buddha for itself to see; the mind is the Buddha mind. As my mind forms a Buddha, my mind is the Buddha; my mind is the Tathāgata; my mind is my body.’ 
 
-Although the mind sees a Buddha, the mind neither knows itself nor sees itself. The mind with perceptions is saṁsāra; the mind without perceptions is nirvāṇa. Dharmas as perceived are not
-something pleasurable. They are empty thoughts,
-nothing real. This is what Bodhisattvas see as they abide
-in this samādhi.
+Although the mind sees a Buddha, the mind neither knows itself nor sees itself. The mind with perceptions is saṁsāra; the mind without perceptions is nirvāṇa. Dharmas as perceived are not something pleasurable. They are empty thoughts, nothing real. This is what Bodhisattvas see as they abide in this samādhi.
 {{< /q >}}
 
 

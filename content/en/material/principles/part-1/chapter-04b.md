@@ -12,7 +12,7 @@ icon: "Juan"
 ---
 
 
-The previous chapter explained how the Negative Force cuts up waves into individual discrete identities.
+The chapter on Identity Space explained how the Negative Force cuts up waves into individual discrete identities.
 
 In Modern Physics, this is known as quantization.
 
@@ -22,9 +22,23 @@ In Modern Physics, this is known as quantization.
 - In the convertible layer, this leads to beta decay particles
 
 
-## The Quantization of Energy As the Crudification Through the Lower Layers
+## The Quantization of Energy from Material Bodies
 
-Quantization was developed by Max Planck in order to correctly describe the spectrum of a light-emitting body as a response to the "ultraviolet catastrophe".
+ <!-- As the Crudification Through the Lower Layers -->
+
+The 20th century believed that electromagnetism was a wave. 
+- Light was accepted as waves through Huygens
+- Heat was accepted as waves through Fourier
+- Electromagnetism was accepted as waves through Maxwell
+
+, there was a 
+
+
+Quantization was developed by Max Planck.
+
+
+
+ in order to correctly describe the spectrum of a light-emitting body as a response to the "ultraviolet catastrophe".
 
 This catastrophe was caused by the difference between the predicted infinite light given out by a light-emitting body, contrasted with its actual emission which is not infinite.
 

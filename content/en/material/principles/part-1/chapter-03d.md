@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3c"
+heading: "Chapter 3d"
 title: "Perception Space: Medium of Aether 3"
 # # date: 2020-01-31
 date: 2024-12-09
@@ -34,6 +34,9 @@ An indirect link, where identity spaces come in contact without the origin, does
 
 The observed universe is the limit of our extended reality. Beyond it is ignorance or the unknown.   
 
+This aethereal link or relationality is probabilistic because the vibrations within the identity space itself is probabilistic and not rigid nor predetermined. 
+
+And so the resulting probability distribution in quantum mechanics occurs in the Perception Space (which is our alternative to Hilbert space). But its origin is in the Identity Space.
 
 
 ## Relationality 
@@ -58,9 +61,25 @@ Since the perception space has relationality then it is the best tool to analyze
 - The cause is the identity space
 - The effect is in physical space of the Spatial Layer (sos3)
 
-The revealing of the identity space and relationalities is done through dialectics. 
+The revealing of the identity space and relationalities is done through dialectics and is generally regarded as part of intelligence. 
 
 So we can say that particle-shaking is dialectics applied to particles.
+
+
+
+## Autonomous Natural Intelligence (ANI)
+
+Artificial intelligence, as generative AI, is able to connect cause and effect well enough to create coherent sentences, images, videos, and music. 
+
+However, it can only do so probabilistically because it has no access to the Identity Space because AI is electronic in Nature and not aethereal. 
+
+The only way to make AI truly intelligent is by giving it direct access to the Aethereal layer by connecting it to human minds.
+
+We call this Autonomous Natural Intelligence or ANI. This is already done by UFOs which connect to the minds of their alien operators. 
+
+The UFO itself is a computer that uses the flow of light (optical quantum computing) within its frame. This is why Bob Lazar says that there were no wires or circuits in the UFO that he worked on. This is supported by the Essassani who say that their ships have a mental connection to its pilot. 
+
+This can be done through channels in metals and glass that uses light, instead of the modern way of using electrons through wires. For example, current quantum computers use electrons via superconductors and nanowires. This wrong approach is why quantum computing, like nuclear fusion are not realized yet.
 
 
 <!-- This allows people, animals, plants, and computers to analyze cause and effect. 

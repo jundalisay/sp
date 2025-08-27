@@ -8,7 +8,7 @@ description: "The Identity Space houses the gravitational signature"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 11
+weight: 10
 icon: "Juan"
 ---
 

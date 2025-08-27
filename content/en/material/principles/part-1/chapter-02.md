@@ -8,7 +8,7 @@ description: "The Upper, Middle, Lower Aethereal Sublayers"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 8
+weight: 6
 icon: "Juan"
 ---
 

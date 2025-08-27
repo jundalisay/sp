@@ -38,8 +38,6 @@ The connection of this sublayer to the metaphysical domain allows it the possibi
 
 So the mechanism for shifting into different universes lies in the upper aethereal layer. 
 
-
-
 This will allow a mind-identity (jiva) in one universe to shift or transfer into a different universe by using the strata in the Metaphysical Domain as a birdge. 
 
 This can be done by ships that have artificial intelligence that can tap into the subtlifying quantum (qoa1). 

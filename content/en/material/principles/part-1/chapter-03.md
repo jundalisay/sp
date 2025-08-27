@@ -3,12 +3,12 @@ heading: "Chapter 3"
 title: "Existence Space: Media of Aether 1"
 # # date: 2020-01-31
 date: 2024-12-09
-image: "/graphics/super/identities.jpg"
+image: "/photos/meta/yinyang.jpg"
 description: "The Media of Aether or Moas facilitate the effects of the aethereal layer"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 8
 icon: "Juan"
 ---
 
