@@ -21,9 +21,15 @@ But there is a difference between φαντασία and φάντασμα. For φ�
 
 We must not take this impression to resemble that made by a seal, since it is impossible to conceive that there should be many impressions made at the same time on the same thing.
 
-But φαντασία is understood to be that which is impressed, and formed, and imprinted by a real object, according to a real object, in such a way as it could not be by any other than a real object; and, according to their ideas of the φαντασίαι, some are sensible, and some are not. Those they call sensible, which are derived by us from some one or more senses; and those they call not sensible, which emanate directly from the thought, as for instance, those which relate to incorporeal objects, or any others which are embraced by reason.
+But φαντασία is that which is impressed, and formed, and imprinted by a real object, according to a real object, in such a way as it could not be by any other than a real object.
 
-Those which are sensible, are produced by a[278] real object, which imposes itself on the intelligence, and compels its acquiescence; and there are also some others, which are simply apparent, mere shadows, which resemble those which are produced by real objects.
+Of the φαντασίαι, some are sensible, and some are not.
+
+Those they call sensible, which are derived by us from some one or more senses; and those they call not sensible, which emanate directly from the thought, as for instance, those which relate to incorporeal objects, or any others which are embraced by reason.
+
+Those which are sensible, are produced by a[278] real object, which imposes itself on the intelligence, and compels its acquiescence.
+
+There are also some others, which are simply apparent, mere shadows, which resemble those which are produced by real objects.
 
 These φαντασίαι are divided into rational and irrational; those which are rational belong to animals capable of reason; those which are irrational to animals destitute of reason. Those which are rational are thoughts; those which are irrational have no name; but are again subdivided into artificial and not artificial. At all events, an image is contemplated in a different light by a man skilful in art, from that in which it is viewed by a man ignorant of art.
 
@@ -69,11 +75,16 @@ But this is not the case with a sentence. Again, there is a difference between s
 
 
 
-XXXIX. Diogenes tells us in his treatise on Voice that sentences have 5 parts. He is followed by Chrysippus.
+<sup>39</sup> Diogenes tells us in his treatise on Voice that sentences have 5 parts. He is followed by Chrysippus.
 
-There is the noun, the common noun, the verb, the conjunction, and the article. Antipater adds also quality, in his treatise upon Words and the things expressed by them. And a common noun (προσηγορία) is, according to Diogenes, a part of a sentence signifying a common quality, as for instance, man, horse. But a noun is a part of a sentence signifying a peculiar quality, such as Diogenes, Socrates. A verb is a part of a sentence signifying an uncombined categorem, as Diogenes (ὁ Διογένης) or, as others define it, an element of a sentence, devoid of case, signifying something compound in reference to some person or persons, as, “I write,” “I say.” A conjunction is a part of a sentence destitute of case, uniting the divisions of the sentence. An article is an element of a sentence, having cases, defining the genders of nouns and their numbers, as ὁ, ἡ, τὸ, οἱ, αἱ, τὰ.
+There is the noun, the common noun, the verb, the conjunction, and the article. Antipater adds also quality, in his treatise upon Words and the things expressed by them.
 
-XL. The excellences of a sentence are 5:
+A common noun (προσηγορία) is, according to Diogenes, a part of a sentence signifying a common quality, as for instance, man, horse. 
+
+But a noun is a part of a sentence signifying a peculiar quality, such as Diogenes, Socrates. A verb is a part of a sentence signifying an uncombined categorem, as Diogenes (ὁ Διογένης) or, as others define it, an element of a sentence, devoid of case, signifying something compound in reference to some person or persons, as, “I write,” “I say.” A conjunction is a part of a sentence destitute of case, uniting the divisions of the sentence. An article is an element of a sentence, having cases, defining the genders of nouns and their numbers, as ὁ, ἡ, τὸ, οἱ, αἱ, τὰ.
+
+
+<sup>40</sup> The excellences of a sentence are 5:
 
 1. Good Greek
 

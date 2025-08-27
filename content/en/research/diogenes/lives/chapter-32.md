@@ -1,5 +1,5 @@
 ---
-title: "Diogenes: Anaximenes"
+title: "Diogenes of Apollonia: Anaximenes"
 heading: Chapter 32
 # 56
 date: 2025-08-21

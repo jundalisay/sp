@@ -3,7 +3,7 @@ title: "Pythagoras:"
 heading: Chapter 68
 # book 8 3
 date: 2025-08-21
-weight: 88
+weight: 146
 description: "LIFE OF Aeschines"
 c: "darkslategray"
 # tags: ['Socratics']

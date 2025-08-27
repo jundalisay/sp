@@ -20,7 +20,8 @@ He had personal strength and beauty and studied philosophy in Egypt.
 He had a daughter named Cleobulina, who used to compose enigmas in hexameter verse, and she is mentioned by Cratinus in his play of the same name, except that the title is written in the plural number. They say also that he restored the temple of Minerva which had been built by Danaus.
 
 
-II. Cleobulus composed songs and obscure sayings in verse to the number of three thousand lines, and some say that it was he who composed the epigram on Midas.
+
+<sup>2</sup> Cleobulus composed songs and obscure sayings in verse of 3,000 lines. Some say he composed the epigram on Midas.
 
 I am a brazen maiden lying here
 Upon the tomb of Midas. And as long
@@ -30,7 +31,7 @@ As long as rivers flow, and billows roar,
 So long will I upon this much wept tomb,
 Tell passers by, “Midas lies buried here.”
 
-And as an evidence of this epigram being by him they quote a song of Simonides, which runs thus:—
+As an evidence of this epigram being by him they quote a song of Simonides, which runs thus:—
 
 
 What men possessed of sense
@@ -46,7 +47,9 @@ So that such sentiments can only come from fools.
 
 And the epigram cannot possibly be by Homer, for he lived many years, as it is said, before Midas.
 
-III. There is also the following enigma quoted in the Commentaries of Pamphila, as the work of Cleobulus:—
+
+<sup>3</sup> There is also the following enigma quoted in the Commentaries of Pamphila, as the work of Cleobulus:
+
 There was one father and he had twelve daughters,
 Each of his daughters had twice thirty children.
 But most unlike in figure and complexion;
@@ -55,13 +58,45 @@ And though immortal they all taste of death.
 
 And the solution is, “the year.”
 
-IV. Of his apophthegms, the following are the most celebrated. Ignorance and talkativeness bear the chief sway among men. Opportunity will be the most powerful. Cherish not a thought. Do not be fickle, or ungrateful. He used to say too, that men ought to give their daughters in marriage while they were girls in age, but women in sense; as indicating by this that girls ought to be well educated. Another of his sayings was, that one ought to serve a friend that he may become a greater friend; and an enemy, to make him a friend. And that one ought to guard against giving one’s friends occasion to blame one, and one’s enemies opportunity of plotting against one. Also, when a man goes out of his house, he should consider what he is going to do: and when he comes home again he should consider what he has done. He used also to advise men to keep their bodies in health by exercise.—To be fond of hearing rather than of talking.—To be fond of learning rather than unwilling to learn.—To speak well of people.—To seek virtue and eschew vice.—To avoid injustice.—To give the best advice in one’s power to one’s country.—To be superior to pleasure.—To do nothing by force.—To instruct one’s children.—To[43] be ready for reconciliation after quarrels.—Not to caress one’s wife, nor to quarrel with her when strangers are present, for that to do the one is a sign of folly, and to do the latter is downright madness.—Not to chastise a servant while elated with drink, for so doing one will appear to be drunk one’s self.—To marry from among one’s equals, for if one takes a wife of a higher rank than one’s self, one will have one’s connexions for one’s masters.—Not to laugh at those who are being reproved, for so one will be detested by them.—Be not haughty when prosperous.—Be not desponding when in difficulties.—Learn to bear the changes of fortune with magnanimity.
 
-V And he died at a great age, having lived seventy years, and this inscription was put over him:—
+<sup>4</sup> Of his apophthegms, the following are the most celebrated. 
+
+Ignorance and talkativeness bear the chief sway among men. Opportunity will be the most powerful. Cherish not a thought. Do not be fickle, or ungrateful. 
+
+He used to say too, that men ought to give their daughters in marriage while they were girls in age, but women in sense; as indicating by this that girls ought to be well educated. Another of his sayings was, that one ought to serve a friend that he may become a greater friend; and an enemy, to make him a friend. 
+
+One should guard against giving one’s friends occasion to blame one, and one’s enemies opportunity of plotting against one. Also, when a man goes out of his house, he should consider what he is going to do: 
+
+When he comes home again he should consider what he has done. 
+
+He advised men to:
+- keep their bodies in health by exercise.
+- be fond of hearing rather than of talking
+- be fond of learning rather than unwilling to learn
+- speak well of people
+- seek virtue and eschew vice
+- avoid injustice
+- give the best advice in one’s power to one’s country
+- be superior to pleasure
+- do nothing by force
+- instruct one’s children
+- be ready for reconciliation after quarrels
+- not caress one’s wife, nor to quarrel with her when strangers are present, for that to do the one is a sign of folly, and to do the latter is downright madness
+- Not to chastise a servant while elated with drink, for so doing one will appear to be drunk one’s self
+- marry from among one’s equals, for if one takes a wife of a higher rank than one’s self, one will have one’s connexions for one’s masters
+- Not to laugh at those who are being reproved, for so one will be detested by them
+- not be haughty when prosperous
+- not be desponding when in difficulties
+- Learn to bear the changes of fortune with magnanimity.
+
+
+<sup>5</sup> He died at 70 years. We write this over him:
+
 His country, Lindus, this fair sea-girt city
 Bewails wise Cleobulus here entombed.
 
-VI. One of his sayings was, “Moderation is the best thing.” He also wrote a letter to Solon in these terms:—
+
+<sup>6</sup> One of his sayings was, “Moderation is the best thing.” He also wrote a letter to Solon in these terms:
 
 
 CLEOBULUS TO SOLON.

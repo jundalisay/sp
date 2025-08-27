@@ -13,6 +13,8 @@ icon: "Superphysics"
 ---
 
 
+## The Abstract Spaces
+
 Reality is an effect of perception. 
 
 Perception is a disturbance in a line in the aether or akasha, which is the substance for existence. This is because existence exists as a thought-projection of the Supreme Mind as the Brahman. 
@@ -20,6 +22,24 @@ Perception is a disturbance in a line in the aether or akasha, which is the subs
 The resulting existence is called Brahma. 
 
 For those who are allergic to religion and think that Brahma is a religious word, we can use the layman term **Totality of Existence**, or Existence with a capital 'e', instead. 
+
+To isolate these ideas, we create 3 kinds of abstract spaces:
+
+1. Existence Space 
+
+This is the Brahman as a single collective of all identities in Existence. This is how the Supreme sees Itself.
+
+2. Identity Space.
+
+This is each thought or identity of the Supreme within Existence. This is how the Supreme sees each Identity in isolation.
+
+3. Perception Space
+
+This is the space that results from the perception of the identities within Existence. This is how the identities see each other, without regard for the Supreme.
+
+
+
+## Waves and Void
 
 The disturbances in the Supreme Mind manifests as waves. 
 
@@ -188,8 +208,3 @@ Subdivision |  Phenomena | Superphysics Branch
 5 Strata | Abstract | Social and Spiritual 
 5 Elements | Living | Bio
 5 Layers | Non-Living | Material
-
-
-
-
-

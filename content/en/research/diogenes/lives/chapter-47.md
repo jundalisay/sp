@@ -55,3 +55,5 @@ In the north it always snows, and those districts are cold, and are often frozen
 The sun is eclipsed but seldom; but the moon frequently, because her orbits are unequal.
 
 Leucippus also admits that the production of worlds, their increase, their diminution, and their destruction, depend on a certain necessity, the character of which he does not precisely explain.
+
+

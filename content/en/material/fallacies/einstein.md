@@ -20,7 +20,8 @@ Rank | Damage | Reason
 5 | Lack of Teleportation Technology | This is a consequence of the lack of aetherspace
 6 | Lack of Cheap Antimatter | This is a consequence of lack of the aether
 7 | Lack of Optical Computing  | This is a consequence of the lack of the aether
-8 | Nukes | Use Physics to destroy your enemies before they destroy you (because you are peddling a scam)
+8 | Nukes | Use Physics to destroy your enemies before they destroy you
+ <!-- (because you are peddling a scam) -->
 
 
 
@@ -32,9 +33,12 @@ The whole Einstein scam began in 1905 when he pushed the simultaneity of time. T
 
 
 
-The great big problem is that light is just the middle Element of reality and not the causal or highest one. 
+The great big problem is that light is just the middle Element of reality and not the causal or highest one which is the aether.
+
+We define the aether as the substance of ideas and feelings, and the abstract mind or soul that has those ideas and feelings. This is in line with quantum mechanics which is based on collapse from observation.  
 
 {{< i s="/graphics/physics/layers.png" a="5 Elements" >}}
+
 
 From the 5 Elements model, there are 3 kinds of time:
 
@@ -53,9 +57,9 @@ This is absolute time in Classical Mechanics. This is the Matter or Earth Elemen
 
 **By pegging time to light, the 2 Elements of spacetime and aether are lost forever.** This leads to the lack of anti-gravity and teleportation technology.
 
-Anti-gravity is needed by sustained nuclear fusion as is done in stars.
+Anti-gravity is needed by sustained nuclear fusion as is done in stars. The gravity, as a vortex, compreses the particles to make them emit light by agitation. 
 
-Stars **do not** produce fusion by confining their centers in a magnetic field. Instead, those centers are compressed only by gravity. 
+<!-- Stars **do not** produce fusion by confining their centers in a magnetic field. Instead, those centers are compressed only by gravity.  -->
 
 This is why fusion is always 30 years away under a Physics that is based on Einstein.
 
@@ -106,7 +110,7 @@ In other words, the Creationist priests of the 18th century merely mutated into 
 
 This is proven by the priest-physicist Lemaitre. The bad lot of intellectuals that would have become priests, opted instead to study science and impose materialist dogmas that other humans must follow.
 
-The Church of Religion, and the supremace of God, was merely replaced by the Church of Science, and the supremacy of the limited 5 senses. 
+The Church of Religion and the supremacy of God was merely replaced by the Church of Science and the supremacy of the limited 5 senses.
 
 {{< i s="/graphics/physics/ccc.jpg" a="CCC" c="Penrose, who advanced the CCC Theory, is like a priest describing how God created the universe. Both priest and mathematician are slaves to their imaginations. The priest is a slave to the rules in the Bible. The mathematician is a slave to the rules of constants. Both do hacks to make their propositions seem realistic or believable" >}}
 
@@ -155,9 +159,21 @@ The aim of these is to push the desires of the ego onto physical reality.
 - A mathematician really is addicted to his own imagination 
 - An Islamist is really angry at the injustice he faces
 
+
+## Qualimath Ratios
+
 These all point to feelings. The feelings of Kant and Einstein, as well as tax evaders, developers, and theorists, are all based on their ego which have grown unchecked. 
 
 The discipline of the ego, and the correct use of math and logic, is done through moral and spiritual philosophy, as the way to combat the Negative Force with the Positive, since the Ego is a product of the Negative.
+
+This ego is seen as the equals sign in mathematics which forces one side to perfectly match the other, as an imposition of the objectivity of the universe. 
+
+But the aether proves that the universe is subjective and that objectivity only reveals the current signature or wavelength of the observer or particle. 
+
+The subjective universe is made up of dynamic relations or ratios which is embodied in our Qualimath which is based on ratios. 
+
+It sees the universe as an infinite multidimensional chain of ratios or relations. By knowing this chain, you can better figure out how to get to the outcome that you want instead of forcing Nature to bend to your will by physical energy or force. 
+
 
 
 <!-- In recent history, we can sum up the 3 worst humans:

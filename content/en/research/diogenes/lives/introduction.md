@@ -78,6 +78,7 @@ Number,Philosopher
 64,Polemo
 65,Protagoras
 66,Pyrrho
+67 Pythagoras
 67,Simon
 68,Simias
 69,Simmias

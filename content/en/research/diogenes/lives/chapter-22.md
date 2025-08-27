@@ -31,7 +31,12 @@ They also say that Antigonus presented him three thousand drachmas.
 
 When he was conducting some young men to some spectacle, it happened that the wind blew away his cloak, and it was then seen that he had nothing on under it; on which he was greatly applauded by the Athenians,[323] according to the account given by Demetrius, the Magnesian, in his essay on People of the same Name. And he was greatly admired by them on account of this circumstance.
 
-They also say that Antigonus, who was a pupil of his, once asked him why he drew water; and that he made answer, “Do I do nothing beyond drawing water? Do I not also dig, and do I not water the land, and do all sorts of things for the sake of philosophy?” For Zeno used to accustom him to this, and used to require him to bring him an obol by way of tribute.[97] And once he brought one of the pieces of money which he had collected in this way, into the middle of a company of his acquaintances, and said, “Cleanthes could maintain even another Cleanthes if he were to choose; but others who have plenty of means to support themselves, seek for necessaries from others; although they only study philosophy in a very lazy manner.” And, in reference to these habits of his, Cleanthes was called a second Heracles.
+They also say that Antigonus, who was a pupil of his, once asked him why he drew water; and that he made answer, “Do I do nothing beyond drawing water? 
+
+Do I not also dig, and do I not water the land, and do all sorts of things for the sake of philosophy?” 
+
+For Zeno used to accustom him to this, and used to require him to bring him an obol by way of tribute.[97] And once he brought one of the pieces of money which he had collected in this way, into the middle of a company of his acquaintances, and said, “Cleanthes could maintain even another Cleanthes if he were to choose; but others who have plenty of means to support themselves, seek for necessaries from others; although they only study philosophy in a very lazy manner.” And, in reference to these habits of his, Cleanthes was called a second Heracles.
+
 
 <sup>3</sup> He was then very industrious.
 

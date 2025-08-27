@@ -1,5 +1,5 @@
 ---
-title: "Diogenes"
+title: "Diogenes of Sinope"
 heading: Chapter 31
 # 19
 date: 2025-08-21
@@ -23,18 +23,53 @@ Others say that he was one of the curators, and was persuaded by the artisans em
 Some say that he adulterated the money which he had received from his father; and that his father was thrown into prison and died there; but that Diogenes escaped and went to Delphi, and asked, not whether he might tamper with the coinage, but what he could do to become very celebrated, and that in consequence he received the oracular answer which I have mentioned.
 
 
-II. When he came to Athens he attached himself to Antisthenes. But as he repelled him, because he admitted no one; he at last forced his way to him by his pertinacity. 
+<sup>2</sup> When he came to Athens he attached himself to Antisthenes. 
 
-And once, when he raised his stick at him, he put his head under it, and said, “Strike, for you will not find any stick hard enough to drive me away as long as you continue to speak.” And from this time forth he was one of his pupils; and being an exile, he naturally betook himself to a simple mode of life.
+But as he repelled him, because he admitted no one; he at last forced his way to him by his pertinacity. 
+
+When he raised his stick at him, he put his head under it, and said, “Strike, for you will not find any stick hard enough to drive me away as long as you continue to speak.” And from this time forth he was one of his pupils; and being an exile, he naturally betook himself to a simple mode of life.
 
 
-III. And when, as Theophrastus tells us, in his Megaric Philosopher, he saw a mouse running about and not seeking[225] for a bed, nor taking care to keep in the dark, nor looking for any of those things which appear enjoyable to such an animal, he found a remedy for his own poverty. He was, according to the account of some people, the first person who doubled up his cloak out of necessity, and who slept in it; and who carried a wallet, in which he kept his food; and who used whatever place was near for all sorts of purposes, eating, and sleeping, and conversing in it. In reference to which habit he used to say, pointing to the Colonnade of Jupiter, and to the Public Magazine, “that the Athenians had built him places to live in.” Being attacked with illness, he supported himself with a staff; and after that he carried it continually, not indeed in the city, but whenever he was walking in the roads, together with his wallet, as Olympiodorus, the chief man of the Athenians tells us; and Polyeuctus, the orator, and Lysanias, the son of Æschrion, tell the same story.
+<sup>3</sup> When, as Theophrastus tells us, in his Megaric Philosopher, he saw a mouse running about and not seeking[225] for a bed, nor taking care to keep in the dark, nor looking for any of those things which appear enjoyable to such an animal, he found a remedy for his own poverty. He was, according to the account of some people, the first person who doubled up his cloak out of necessity, and who slept in it; and who carried a wallet, in which he kept his food; and who used whatever place was near for all sorts of purposes, eating, and sleeping, and conversing in it.
+
+In reference to which habit he used to say, pointing to the Colonnade of Jupiter, and to the Public Magazine, “that the Athenians had built him places to live in.” 
+
+Being attacked with illness, he supported himself with a staff; and after that he carried it continually, not indeed in the city, but whenever he was walking in the roads, together with his wallet, as Olympiodorus, the chief man of the Athenians tells us; and Polyeuctus, the orator, and Lysanias, the son of Æschrion, tell the same story.
 
 When he had written to some one to look out and get ready a small house for him, as he delayed to do it, he took a cask which he found in the Temple of Cybele, for his house, as he himself tells us in his letters. And during the summer he used to roll himself in the warm sand, but in winter he would embrace statues all covered with snow, practising himself, on every occasion, to endure anything.
 
-IV. He was very violent in expressing his haughty disdain of others. He said that the σχολὴ (school) of Euclides was χολὴ (gall).
 
-He used to call Plato’s διατριβὴ (discussions) κατατριβὴ (disguise). It was also a saying of his that the Dionysian games were a great marvel to fools; and that the demagogues were the ministers of the multitude. He used likewise to say, “that when in the course of his life he beheld pilots, and physicians, and philosophers, he thought man the wisest of all animals; but when again he beheld interpreters of dreams, and soothsayers, and those who listened to them, and men puffed up with glory or riches, then he thought that there was not a more foolish animal than man.” Another of his sayings was, “that he thought a man ought oftener to provide himself with a reason than with a halter.” On one occasion, when he noticed Plato at a very costly entertainment tasting some olives, he said, “O you wise man! why, after having sailed to Sicily for the sake of such a feast, do you not now enjoy what you have before you?” And Plato replied,[226] “By the Gods, Diogenes, while I was there I ate olives and all such things a great deal.” Diogenes rejoined, “What then did you want to sail to Syracuse for? Did not Attica at that time produce any olives?” But Phavorinus, in his Universal History, tells this story of Aristippus. At another time he was eating dried figs, when Plato met him, and he said to him, “You may have a share of these;” and as he took some and ate them, he said, “I said that you might have a share of them, not that you might eat them all.” On one occasion Plato had invited some friends who had come to him from Dionysius to a banquet, and Diogenes trampled on his carpets, and said, “Thus I trample on the empty pride of Plato;” and Plato made him answer, “How much arrogance are you displaying, O Diogenes! when you think that you are not arrogant at all.” But, as others tell the story, Diogenes said, “Thus I trample on the pride of Plato;” and that Plato rejoined, “With quite as much pride yourself, O Diogenes.” Sotion too, in his fourth book, states, that the Cynic made the following speech to Plato: Diogenes once asked him for some wine, and then for some dried figs; so he sent him an entire jar full; and Diogenes said to him, “Will you, if you are asked how many two and two make, answer twenty? In this way, you neither give with any reference to what you are asked for, nor do you answer with reference to the question put to you.” He used also to ridicule him as an interminable talker. When he was asked where in Greece he saw virtuous men; “Men,” said he, “nowhere; but I see good boys in Lacedæmon.” On one occasion, when no one came to listen to him while he was discoursing seriously, he began to whistle. And then when people flocked round him, he reproached them for coming with eagerness to folly, but being lazy and indifferent about good things. One of his frequent sayings was, “That men contended with one another in punching and kicking, but that no one showed any emulation in the pursuit of virtue.” He used to express his astonishment at the grammarians for being desirous to learn everything about the misfortunes of Ulysses, and being ignorant of their own. He used also to say, “That the musicians fitted the strings to the lyre properly, but left all the habits of their soul ill-arranged.” And, “That mathematicians kept their eyes fixed on the sun and moon, and overlooked what was under their feet.” “That[227] orators were anxious to speak justly, but not at all about acting so.” Also, “That misers blamed money, but were preposterously fond of it.” He often condemned those who praise the just for being superior to money, but who at the same time are eager themselves for great riches. He was also very indignant at seeing men sacrifice to the Gods to procure good health, and yet at the sacrifice eating in a manner injurious to health. He often expressed his surprise at slaves, who, seeing their masters eating in a gluttonous manner, still do not themselves lay hands on any of the eatables. He would frequently praise those who were about to marry, and yet did not marry; or who were about to take a voyage, and yet did not take a voyage; or who were about to engage in affairs of state, and did not do so; and those who were about to rear children, yet did not rear any; and those who were preparing to take up their abode with princes, and yet did not take it up. One of his sayings was, “That one ought to hold out one’s hand to a friend without closing the fingers.”
+<sup>4</sup> He was very violent in expressing his haughty disdain of others. He said that the σχολὴ (school) of Euclides was χολὴ (gall).
+
+He used to call Plato’s διατριβὴ (discussions) κατατριβὴ (disguise). 
+
+It was also a saying of his that the Dionysian games were a great marvel to fools; and that the demagogues were the ministers of the multitude.
+
+He used likewise to say, “that when in the course of his life he beheld pilots, and physicians, and philosophers, he thought man the wisest of all animals; but when again he beheld interpreters of dreams, and soothsayers, and those who listened to them, and men puffed up with glory or riches, then he thought that there was not a more foolish animal than man.” Another of his sayings was, “that he thought a man ought oftener to provide himself with a reason than with a halter.” 
+
+On one occasion, when he noticed Plato at a very costly entertainment tasting some olives, he said, “O you wise man! why, after having sailed to Sicily for the sake of such a feast, do you not now enjoy what you have before you?” And Plato replied,[226] “By the Gods, Diogenes, while I was there I ate olives and all such things a great deal.” 
+
+Diogenes rejoined, “What then did you want to sail to Syracuse for? Did not Attica at that time produce any olives?” But Phavorinus, in his Universal History, tells this story of Aristippus. At another time he was eating dried figs, when Plato met him, and he said to him, “You may have a share of these;” and as he took some and ate them, he said, “I said that you might have a share of them, not that you might eat them all.” 
+
+ On one occasion Plato had invited some friends who had come to him from Dionysius to a banquet, and Diogenes trampled on his carpets, and said, “Thus I trample on the empty pride of Plato;” and Plato made him answer, “How much arrogance are you displaying, O Diogenes! when you think that you are not arrogant at all.” But, as others tell the story, Diogenes said, “Thus I trample on the pride of Plato;” and that Plato rejoined, “With quite as much pride yourself, O Diogenes.” 
+
+Sotion too in his book 4, states, that the Cynic made the following speech to Plato: 
+
+Diogenes once asked him for some wine, and then for some dried figs; so he sent him an entire jar full; and Diogenes said to him, “Will you, if you are asked how many two and two make, answer twenty? In this way, you neither give with any reference to what you are asked for, nor do you answer with reference to the question put to you.” He used also to ridicule him as an interminable talker. When he was asked where in Greece he saw virtuous men; “Men,” said he, “nowhere; but I see good boys in Lacedæmon.” 
+
+When no one came to listen to him while he was discoursing seriously, he began to whistle. And then when people flocked round him, he reproached them for coming with eagerness to folly, but being lazy and indifferent about good things. One of his frequent sayings was, “That men contended with one another in punching and kicking, but that no one showed any emulation in the pursuit of virtue.” 
+
+He used to express his astonishment at the grammarians for being desirous to learn everything about the misfortunes of Ulysses, and being ignorant of their own.
+
+ He used also to say, “That the musicians fitted the strings to the lyre properly, but left all the habits of their soul ill-arranged.” 
+
+ “That mathematicians kept their eyes fixed on the sun and moon, and overlooked what was under their feet.” “That orators were anxious to speak justly, but not at all about acting so.” Also, “That misers blamed money, but were preposterously fond of it.” He often condemned those who praise the just for being superior to money, but who at the same time are eager themselves for great riches.
+
+ He was also very indignant at seeing men sacrifice to the Gods to procure good health, and yet at the sacrifice eating in a manner injurious to health. 
+
+ He often expressed his surprise at slaves, who, seeing their masters eating in a gluttonous manner, still do not themselves lay hands on any of the eatables. 
+
+ He would frequently praise those who were about to marry, and yet did not marry; or who were about to take a voyage, and yet did not take a voyage; or who were about to engage in affairs of state, and did not do so; and those who were about to rear children, yet did not rear any; and those who were preparing to take up their abode with princes, and yet did not take it up. One of his sayings was, “That one ought to hold out one’s hand to a friend without closing the fingers.”
 
 Hermippus, in his Sale of Diogenes, says that he was taken prisoner and put up to be sold, and asked what he could do; and he answered, “Govern men.” And so he bade the crier “give notice that if any one wants to purchase a master, there is one here for him.” When he was ordered not to sit down; “It makes no difference,” said he, “for fish are sold, be where they may.” He used to say, that he wondered at men always ringing a dish or jar before buying it, but being content to judge of a man by his look alone. When Xeniades bought him, he said to him that he ought to obey him even though he was his slave; for that a physician or a pilot would find men to obey them even though they might be slaves.
 
@@ -121,21 +156,75 @@ Bending his head, that no one else may hear.”
 
 One day he saw an unskilful archer shooting; so he went and sat down by the target, saying, “Now I shall be out of harm’s way.” He used to say, that those who were in love were disappointed in regard of the pleasure they expected. When he was asked whether death was an evil, he replied, “How can that be an evil which we do not feel when it is present?” When Alexander was once standing by him, and saying, “Do not you fear me?” He replied, “No; for what are you, a good or an evil?” And as he said that he was[243] good, “Who, then,” said Diogenes, “fears the good?” He used to say, that education was, for the young sobriety, for the old comfort, for the poor riches, and for the rich an ornament. When Didymus the adulterer was once trying to cure the eye of a young girl (κόρης), he said, “Take care, lest when you are curing the eye of the maiden, you do not hurt the pupil.”[75] A man once said to him, that his friends laid plots against him; “What then,” said he, “are you to do, if you must look upon both your friends and enemies in the same light?”
 
-On one occasion he was asked, what was the most excellent thing among men; and he said, “Freedom of speech.” He went once into a school, and saw many statues of the Muses, but very few pupils, and said, “Gods, and all my good schoolmasters, you have plenty of pupils.” He was in the habit of doing everything in public, whether in respect of Venus or Ceres; and he used to put his conclusions in this way to people: “If there is nothing absurd in dining, then it is not absurd to dine in the market-place. But it is not absurd to dine, therefore it is not absurd to dine in the market-place.” And as he was continually doing manual work in public, he said one day, “Would that by rubbing my belly I could get rid of hunger.” Other sayings also are attributed to him, which it would take a long time to enumerate, there is such a multiplicity of them.
+On one occasion he was asked, what was the most excellent thing among men; and he said, “Freedom of speech.” He went once into a school, and saw many statues of the Muses, but very few pupils, and said, “Gods, and all my good schoolmasters, you have plenty of pupils.” 
 
-He used to say, that there were two kinds of exercise: that, namely, of the mind and that of the body; and that the latter of these created in the mind such quick and agile phantasies at the time of its performance, as very much facilitated the practice of virtue; but that one was imperfect without the other, since the health and vigour necessary for the practice of what is good, depend equally on both mind and body. And he used to allege as proofs of this, and of the ease which practice imparts to acts of virtue, that people could see that in the case of mere common working trades, and other employments of that kind, the artisans arrived at no inconsiderable accuracy by constant practice; and that any one may see how much one flute player, or one wrestler, is superior to another, by his own continued practice. And that if these[244] men transferred the same training to their minds they would not labour in a profitless or imperfect manner. He used to say also, that there was nothing whatever in life which could be brought to perfection without practice, and that that alone was able to overcome every obstacle; that, therefore, as we ought to repudiate all useless toils, and to apply ourselves to useful labours, and to live happily, we are only unhappy in consequence of most exceeding folly. For the very contempt of pleasure, if we only inure ourselves to it, is very pleasant; and just as they who are accustomed to live luxuriously, are brought very unwillingly to adopt the contrary system; so they who have been originally inured to that opposite system, feel a sort of pleasure in the contempt of pleasure.
+He was in the habit of doing everything in public, whether in respect of Venus or Ceres; and he used to put his conclusions in this way to people: 
 
-This used to be the language which he held, and he used to show in practice, really altering men’s habits, and deferring in all things rather to the principles of nature than to those of law; saying that he was adopting the same fashion of life as Hercules had, preferring nothing in the world to liberty; and saying that everything belonged to the wise, and advancing arguments such as I mentioned just above. For instance: every thing belongs to the Gods; and the Gods are friends to the wise; and all the property of friends is held in common; therefore everything belongs to the wise. He also argued about the law, that without it there is no possibility of a constitution being maintained; for without a city there can be nothing orderly, but a city is an orderly thing; and without a city there can be no law; therefore law is order. And he played in the same manner with the topics of noble birth, and reputation, and all things of that kind, saying that they were all veils, as it were, for wickedness; and that that was the only proper constitution which consisted in order. Another of his doctrines was that all women ought to be possessed in common; and he said that marriage was a nullity, and that the proper way would be for every man to live with her whom he could persuade to agree with him. And on the same principle he said, that all people’s sons ought to belong to every one in common; and there was nothing intolerable in the idea of taking anything out of a temple, or eating any animal whatever, and that there was no impiety in tasting even human flesh; as is plain from the habits of foreign nations; and he said that this principle might be correctly extended to[245] every case and every people. For he said that in reality everything was a combination of all things. For that in bread there was meat, and in vegetables there was bread, and so there were some particles of all other bodies in everything, communicating by invisible passages and evaporating.
+“If there is nothing absurd in dining, then it is not absurd to dine in the market-place. But it is not absurd to dine, therefore it is not absurd to dine in the market-place.” 
 
-VII. And he explains this theory of his clearly in the Thyestes, if indeed the tragedies attributed to him are really his composition, and not rather the work of Philiscus, of Ægina, his intimate friend, or of Pasiphon, the son of Lucian, who is stated by Phavorinus, in his Universal History, to have written them after Diogenes’ death.
+As he was continually doing manual work in public, he said one day, “Would that by rubbing my belly I could get rid of hunger.” Other sayings also are attributed to him, which it would take a long time to enumerate, there is such a multiplicity of them.
 
-VIII. Music and geometry, and astronomy, and all things of that kind, he neglected, as useless and unnecessary. But he was a man very happy in meeting arguments, as is plain from what we have already said.
 
-IX. And he bore being sold with a most magnanimous spirit. For as he was sailing to Ægina, and was taken prisoner by some pirates, under the command of Scirpalus, he was carried off to Crete and sold; and when the crier asked him what art he understood, he said, “That of governing men.” And presently pointing out a Corinthian, very carefully dressed, (the same Xeniades whom we have mentioned before), he said, “Sell me to that man; for he wants a master.” Accordingly Xeniades bought him and carried him away to Corinth; and then he made him tutor of his sons, and committed to him the entire management of his house. And he behaved himself in every affair in such a manner, that Xeniades, when looking over his property, said, “A good genius has come into my house.” And Cleomenes, in his book which is called the Schoolmaster, says, that he wished to ransom all his relations, but that Diogenes told him that they were all fools; for that lions did not become the slaves of those who kept them, but, on the contrary, those who maintained lions were their slaves. For that it was the part of a slave to fear, but that wild beasts were formidable to men.
+He said that there were 2 kinds of exercise:
 
-X. And the man had the gift of persuasion in a wonderful degree; so that he could easily overcome any one by his arguments. Accordingly, it is said that an Æginetan of the name of Onesicritus, having two sons, sent to Athens one of them, whose name was Androsthenes, and that he, after having heard Diogenes lecture, remained there; and that after[246] that, he sent the elder, Philiscus, who has been already mentioned, and that Philiscus was charmed in the same manner. And last of all, he came himself, and then he too remained, no less than his son, studying philosophy at the feet of Diogenes. So great a charm was there in the discourses of Diogenes. Another pupil of his was Phocion, who was surnamed the Good; and Stilpon, the Megarian, and a great many other men of eminence as statesmen.
+1. Of the mind
+2. Of the body
 
-XI. He is said to have died when he was nearly ninety years of age, but there are different accounts given of his death. For some say that he ate an ox’s foot raw, and was in consequence seized with a bilious attack, of which he died; others, of whom Cercidas, a Megalopolitan or Cretan, is one, say that he died of holding his breath for several days; and Cercidas speaks thus of him in his Meliambics:—
+Bodily exercises created in the mind quick and agile fantasies.
+ <!-- at the time of its performance, as very much facilitated the practice of virtue;  -->
+
+One was imperfect without the other, since the health and vigour necessary for the practice of what is good, depend equally on both mind and body.
+
+He used to allege as proofs of this, and of the ease which practice imparts to acts of virtue, that people could see that in the case of mere common working trades, and other employments of that kind, the artisans arrived at no inconsiderable accuracy by constant practice
+
+Any one may see how much one flute player, or one wrestler, is superior to another, by his own continued practice. And that if these men transferred the same training to their minds they would not labour in a profitless or imperfect manner. 
+
+He said that there was nothing whatever in life which could be brought to perfection without practice, and that that alone was able to overcome every obstacle; that, therefore, as we ought to repudiate all useless toils, and to apply ourselves to useful labours, and to live happily, we are only unhappy in consequence of most exceeding folly.
+
+For the very contempt of pleasure, if we only inure ourselves to it, is very pleasant; and just as they who are accustomed to live luxuriously, are brought very unwillingly to adopt the contrary system; so they who have been originally inured to that opposite system, feel a sort of pleasure in the contempt of pleasure.
+
+This used to be the language which he held, and he used to show in practice, really altering men’s habits, and deferring in all things rather to the principles of nature than to those of law; saying that he was adopting the same fashion of life as Hercules had, preferring nothing in the world to liberty; and saying that everything belonged to the wise, and advancing arguments such as I mentioned just above. 
+
+For instance: every thing belongs to the Gods; and the Gods are friends to the wise; and all the property of friends is held in common; therefore everything belongs to the wise. 
+
+He also argued about the law, that without it there is no possibility of a constitution being maintained; for without a city there can be nothing orderly, but a city is an orderly thing; and without a city there can be no law; therefore law is order. And he played in the same manner with the topics of noble birth, and reputation, and all things of that kind, saying that they were all veils, as it were, for wickedness; and that that was the only proper constitution which consisted in order.
+
+Another of his doctrines was that all women ought to be possessed in common; and he said that marriage was a nullity, and that the proper way would be for every man to live with her whom he could persuade to agree with him. And on the same principle he said, that all people’s sons ought to belong to every one in common; and there was nothing intolerable in the idea of taking anything out of a temple, or eating any animal whatever, and that there was no impiety in tasting even human flesh; as is plain from the habits of foreign nations; 
+
+He said that this principle might be correctly extended to[245] every case and every people. 
+
+He said that in reality everything was a combination of all things. For that in bread there was meat, and in vegetables there was bread, and so there were some particles of all other bodies in everything, communicating by invisible passages and evaporating.
+
+
+<sup>7</sup> He explains this theory in the Thyestes, if indeed the tragedies attributed to him are really his composition, and not of Philiscus of Ægina, his intimate friend, or of Pasiphon, the son of Lucian, who is stated by Phavorinus, in his Universal History, to have written them after Diogenes’ death.
+
+
+<sup>8</sup> Music and geometry, and astronomy, and all things of that kind, he neglected, as useless and unnecessary. But he was a man very happy in meeting arguments, as is plain from what we have already said.
+
+
+<sup>9</sup> He bore being sold with a most magnanimous spirit. For as he was sailing to Ægina, and was taken prisoner by some pirates, under the command of Scirpalus, he was carried off to Crete and sold; and when the crier asked him what art he understood, he said, “That of governing men.”
+
+Presently pointing out a Corinthian, very carefully dressed, (the same Xeniades whom we have mentioned before), he said, “Sell me to that man; for he wants a master.”
+
+Accordingly Xeniades bought him and carried him away to Corinth; and then he made him tutor of his sons, and committed to him the entire management of his house.
+
+He behaved himself in every affair in such a manner, that Xeniades, when looking over his property, said, “A good genius has come into my house.”
+
+Cleomenes, in his book which is called the Schoolmaster, says, that he wished to ransom all his relations, but that Diogenes told him that they were all fools; for that lions did not become the slaves of those who kept them, but, on the contrary, those who maintained lions were their slaves. For that it was the part of a slave to fear, but that wild beasts were formidable to men.
+
+
+<sup>10</sup> The man had the gift of persuasion in a wonderful degree; so that he could easily overcome any one by his arguments. 
+
+Accordingly, it is said that an Æginetan of the name of Onesicritus, having two sons, sent to Athens one of them, whose name was Androsthenes, and that he, after having heard Diogenes lecture, remained there; and that after that, he sent the elder, Philiscus, who has been already mentioned, and that Philiscus was charmed in the same manner. 
+
+And last of all, he came himself, and then he too remained, no less than his son, studying philosophy at the feet of Diogenes. So great a charm was there in the discourses of Diogenes. Another pupil of his was Phocion, who was surnamed the Good; and Stilpon, the Megarian, and a great many other men of eminence as statesmen.
+
+
+<sup>11</sup> He is said to have died when he was nearly ninety years of age, but there are different accounts given of his death. 
+
+For some say that he ate an ox’s foot raw, and was in consequence seized with a bilious attack, of which he died; others, of whom Cercidas, a Megalopolitan or Cretan, is one, say that he died of holding his breath for several days; and Cercidas speaks thus of him in his Meliambics:
+
+
 He, that Sinopian who bore the stick,
 Wore his cloak doubled, and in th’ open air
 Dined without washing, would not bear with life
@@ -144,9 +233,17 @@ And held his breath. He truly was the son
 Of Jove, and a most heavenly-minded dog,
 The wise Diogenes.
 
-Others say that he, while intending to distribute a polypus to his dogs, was bitten by them through the tendon of his foot, and so died. But his own greatest friends, as Antisthenes tells us in his Successions, rather sanction the story of his having died from holding his breath. For he used to live in the Craneum, which was a Gymnasium at the gates of Corinth. And his friends came according to their custom, and found him with his head covered; and as they did not suppose that he was asleep, for he was not a man much subject to the influence of night or sleep, they drew away his cloak from his face, and found him no longer breathing; and they thought that he had done this on purpose, wishing to escape the remaining portion of his life.
+Others say that he, while intending to distribute a polypus to his dogs, was bitten by them through the tendon of his foot, and so died. 
 
-On this there was a quarrel, as they say, between his friends, as to who should bury him, and they even came to blows; but when the elders and chief men of the city came there, they say that he was buried by them at the gate which leads to the Isthmus. And they placed over him a pillar, and on that a dog in Parian marble. And at a later period his fellow[247] citizens honoured him with brazen statues, and put this inscription on them:—
+But his own greatest friends, as Antisthenes tells us in his Successions, rather sanction the story of his having died from holding his breath. For he used to live in the Craneum, which was a Gymnasium at the gates of Corinth. 
+
+His friends came according to their custom, and found him with his head covered; and as they did not suppose that he was asleep, for he was not a man much subject to the influence of night or sleep, they drew away his cloak from his face, and found him no longer breathing; and they thought that he had done this on purpose, wishing to escape the remaining portion of his life.
+
+On this there was a quarrel, as they say, between his friends, as to who should bury him, and they even came to blows; but when the elders and chief men of the city came there, they say that he was buried by them at the gate which leads to the Isthmus. And they placed over him a pillar, and on that a dog in Parian marble. 
+
+At a later period his fellow[247] citizens honoured him with brazen statues, and put this inscription on them:
+
+
 E’en brass by lapse of time doth old become,
 But there is no such time as shall efface
 Your lasting glory, wise Diogenes;
@@ -159,13 +256,47 @@ A. Tell me, Diogenes, tell me true, I pray,
 How did you die; what fate to Pluto bore you?
 B. The savage bite of an envious dog did kill me.
 
-Some, however, say that when he was dying, he ordered his friends to throw his corpse away without burying it, so that every beast might tear it, or else to throw it into a ditch, and sprinkle a little dust over it. And others say that his injunctions were, that he should be thrown into the Ilissus; that so he might be useful to his brethren. But Demetrius, in his treatise on Men of the Same Name, says that Diogenes died in Corinth the same day that Alexander died in Babylon. And he was already an old man, as early as the hundred and thirteenth olympiad.
+Some, however, say that when he was dying, he ordered his friends to throw his corpse away without burying it, so that every beast might tear it, or else to throw it into a ditch, and sprinkle a little dust over it. 
 
-XII. The following books are attributed to him. The dialogues entitled the Cephalion; the Icthyas; the Jackdaw; the Leopard; the People of the Athenians; the Republic; one called Moral Art; one on Wealth; one on Love; the Theodorus; the Hypsias; the Aristarchus; one on Death; a volume of Letters; seven Tragedies, the Helen, the Thyestes, the Hercules, the Achilles, the Medea, the Chrysippus, and the Œdipus.
+Others say that his injunctions were, that he should be thrown into the Ilissus; that so he might be useful to his brethren. But Demetrius, in his treatise on Men of the Same Name, says that Diogenes died in Corinth the same day that Alexander died in Babylon.
+
+He was already an old man, as early as the hundred and thirteenth olympiad.
+
+
+<sup>12</sup> He wrote the following books:
+
+- The dialogues entitled the Cephalion
+- the Icthyas
+- the Jackdaw
+- the Leopard
+- the People of the Athenians
+- the Republic
+- Moral Art
+- 1 on Wealth
+- 1 on Love
+-  the Theodorus
+- the Hypsias
+- the Aristarchus
+- 1 on Death
+- a volume of Letters
+- 7 Tragedies
+- the Helen
+- the Thyestes
+- the Hercules
+- the Achilles
+- the Medea
+- the Chrysippus
+- the Œdipus.
 
 But Sosicrates, in the first book of his Successions, and Satyrus, in the fourth book of his Lives, both assert that none of all these are the genuine composition of Diogenes. And Satyrus affirms that the tragedies are the work of Philiscus, the Æginetan, a friend of Diogenes. But Sotion, in his seventh book, says that these are the only genuine works of Diogenes: a dialogue on Virtue; another on the Good; another on Love; the Beggar; the Tolmæus; the Leopard; the Cassander; the Cephalion; and that the Aristarchus, the[248] Sisyphus, the Ganymede, a volume of Apophthegms, and another of Letters, are all the work of Philiscus.
 
-XIII. There were five persons of the name of Diogenes. The first a native of Apollonia, a natural philosopher; and the beginning of his treatise on Natural Philosophy is as follows: “It appears to me to be well for every one who commences any kind of philosophical treatise, to lay down some undeniable principle to start with.” The second was a Sicyonian, who wrote an account of Peloponnesus. The third was the man of whom we have been speaking. The fourth was a Stoic, a native of Seleucia, but usually called a Babylonian, from the proximity of Seleucia to Babylon. The fifth was a native of Tarsus, who wrote on the subject of some questions concerning poetry which he endeavours to solve.
+<sup>13</sup> There were 5 other persons named Diogenes.
 
-XIV. Athenodorus, in the eighth book of his Conversations, says, that the philosopher always had a shining appearance, from his habit of anointing himself.
+1. a native of Apollonia, a natural philosopher; and the beginning of his treatise on Natural Philosophy is as follows: “It appears to me to be well for every one who commences any kind of philosophical treatise, to lay down some undeniable principle to start with.”
+2. a Sicyonian, who wrote an account of Peloponnesus
+3. a Stoic, a native of Seleucia, but usually called a Babylonian, from the proximity of Seleucia to Babylon. 
+4. a native of Tarsus, who wrote on the subject of some questions concerning poetry which he endeavours to solve.
+
+
+<sup>14</sup> Athenodorus in book 8 of his Conversations says that the philosopher always had a shining appearance, from his habit of anointing himself.
 

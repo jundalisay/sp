@@ -19,7 +19,7 @@ Timæus, in book 15 of his Histories adds that Empedocles, the grandfather of th
 
 Hermippus tells the same story as Timæus; and in the same spirit Heraclides, in his treatise on Diseases, relates that he was of an illustrious family, since his father bred a fine stud of horses. Erastothenes, in his List of the Conquerors at the Olympic Games, says, that the father of Meton gained the victory in the seventy-first olympiad, quoting Aristotle as his authority for the assertion.
 
-But Apollodorus, the grammarian, in his Chronicles, says that he was the son of Meton; and Glaucus says that he came to Thurii when the city was only just completed. And then proceeding a little further, he adds:—
+But Apollodorus, the grammarian, in his Chronicles, says that he was the son of Meton; and Glaucus says that he came to Thurii when the city was only just completed. He adds:
 
 And some relate that he did flee from thence,
 And came to Syracuse, and on their side
@@ -83,7 +83,8 @@ Alcidamas, in his Natural Philosophy says that:
 - Empedocles imitated the pompous demeanour, and way of life, and gestures of the one, and the system of Natural Philosophy of the other.
 
 
-III. Aristotle, in his Sophist, says that:
+
+<sup>3</sup> Aristotle, in his Sophist, says that:
 - Empedocles was the first person to invent rhetoric
 - Zeno was the first person to invent dialectics
 
@@ -109,9 +110,10 @@ Satyrus, in his Lives, states that he was a physician, and also a most excellent
 Accordingly, that Gorgias, of Leontini, was his pupil, a man of the greatest eminence as a rhetorician, and one who left behind him a treatise containing a complete system of the art; and who, as we are told by Apollodorus, in his Chronicles, lived to be 109 years old.
 
 
-IV. Satyrus tells us that he had been present when Empedocles was practising magic:
 
- <!-- and that he professes this science, and many others too in his poems when he says:— -->
+<sup>4</sup> Satyrus tells us that he had been present when Empedocles was practising magic:
+
+<!-- and that he professes this science, and many others too in his poems when he says:— -->
 
 All the drugs which can relieve disease,
 Or soften the approach of age, shall be
@@ -127,7 +129,8 @@ Again, at your behest, the drought shall yield
 To wholesome show’rs: when you give the word
 Hell shall restore its dead.
 
-V. Timæus, in his book 18, says, that Empedocles was held in great esteem on many accounts:
+
+<sup>5</sup> Timæus, in his book 18, says, that Empedocles was held in great esteem on many accounts:
 
 for that once, when the etesian gales were blowing violently, so as to injure the crops, he ordered some asses to be flayed, and some bladders to be made of their hides, and these he placed on the hills and high places to catch the wind. And so, when the wind ceased, he was called wind-forbidder (κωλυσανέμας).
 
@@ -148,7 +151,8 @@ Marked for its own, from treading those dark paths
 Which lead to Proserpine’s infernal realms.
 
 
-VI. Heraclides says that Empedocles kept her corpse for 30 days, yet free from corruption. From this, he called himself a physician and a prophet:
+
+<sup>6</sup> Heraclides says that Empedocles kept her corpse for 30 days, yet free from corruption. From this, he called himself a physician and a prophet:
 
 Friends who the mighty citadel inhabit,
 Which crowns the golden waves of Acragas
@@ -164,12 +168,14 @@ Some ask for oracles, and some entreat,
 For remedies against all kinds of sickness.
 
 
-VII. He says that Agrigentum was a very large city with 800,000 inhabitants. Empedocles saw the people immersed in luxury, said, 
+
+<sup>7</sup> He says that Agrigentum was a very large city with 800,000 inhabitants. Empedocles saw the people immersed in luxury, said, 
 
 “The men of Agrigentum devote themselves wholly to luxury as if they were to die to-morrow, but they furnish their houses as if they were to live for ever.”
 
 
-VIII. It is said that Cleomenes, the rhapsodist, sung this very poem, called the Purifications, at Olympia; at least this is the account given by Phavorinus, in his Commentaries.
+
+<sup>8</sup> It is said that Cleomenes, the rhapsodist, sung this very poem, called the Purifications, at Olympia; at least this is the account given by Phavorinus, in his Commentaries.
 
 IX. Aristotle says, that he was a most liberal man, and far removed from anything like a domineering spirit; since he constantly refused the sovereign power when it was offered to him, as Xanthus assures us in his account of him, showing plainly that he preferred a simple style of living.
 
@@ -205,7 +211,10 @@ And so on.
 
 But when he went to the olympic games he was considered a worthy object of general attention; so that there was no mention made of any one else in comparison of Empedocles.
 
-X. Afterwards, when Agrigentum was settled, the descendants of his enemies opposed his return; on which account he retired to Peloponnesus, where he died. And Timon has not let even Empedocles escape, but satirises him in this style, saying:
+
+<sup>10</sup> Afterwards, when Agrigentum was settled, the descendants of his enemies opposed his return; on which account he retired to Peloponnesus, where he died. 
+
+Timon has not let even Empedocles escape, but satirises him in this style, saying:
 
 Empedocles, the honeyed speaker
 Of soft forensic speeches; he did take
@@ -215,20 +224,27 @@ Creating magistrates who wanted helpers.
 There are 2 accounts of how he died.
 
 
-XI. For Heraclides, relating the story about the dead woman, how Empedocles got great glory from sending away a dead woman restored to life, says that he celebrated a sacrifice in the field of Pisianax, and that some of his friends were invited, among whom was Pausanias.
+<sup>11</sup> Heraclides related the story about the dead woman, how Empedocles got great glory from sending away a dead woman restored to life, says that he celebrated a sacrifice in the field of Pisianax, and that some of his friends were invited, among whom was Pausanias.
 
-And then, after the banquet, they lay down, some going a little way off, and some lying under the trees close by in the field, and some wherever they happened to choose. But Empedocles himself remained in the place where he had been sitting. 
+Then, after the banquet, they lay down, some going a little way off, and some lying under the trees close by in the field, and some wherever they happened to choose. But Empedocles himself remained in the place where he had been sitting. 
 
 But when day broke, and they arose, he alone was not found. And when he was sought for, and the servants were examined and said that they did not know, one of them said, that at midnight he had heard a loud voice calling Empedocles; and that then he himself rose up and saw a great light from heaven, but nothing else. 
 
-As they were all amazed at what had taken place, Pausanias descended and sent some people to look for him; but afterwards he was commanded not to busy himself about the matter, as he was informed that what had happened was deserving of thankfulness, and that they behoved to sacrifice to Empedocles as to one who had become a God.
+They were all amazed at what had taken place, Pausanias descended and sent some people to look for him; but afterwards he was commanded not to busy himself about the matter, as he was informed that what had happened was deserving of thankfulness, and that they behoved to sacrifice to Empedocles as to one who had become a God.
 
 Hermippus says also, that a woman of the name of Panthea, a native of Agrigentum, who had been given over by the physicians, was cured by him, and that it was on this account that he celebrated a sacrifice; and that the guests invited were about eighty in number. 
 
-But Hippobotus says that he rose up and went away as if he were going to mount Ætna; and that when he arrived at the crater of fire he leaped in, and disappeared, wishing to establish a belief that he had become a God. But afterwards the truth was detected by one of his slippers having been dropped. For he used to wear slippers with brazen soles. Pausanias, however, contradicts this statement.
+But Hippobotus says that he rose up and went away as if he were going to mount Ætna.
 
+When he arrived at the crater of fire he leaped in, and disappeared, wishing to establish a belief that he had become a God. But afterwards the truth was detected by one of his slippers having been dropped.
 
-But Diodorus, of Ephesus, writing about Anaximander, says that Empedocles imitated him; indulging in a tragic sort of pride, and wearing magnificent apparel. And when a pestilence attacked the people of Selinus, by reason of the bad smells arising from the adjacent river, so that the men died and the women bore dead children, Empedocles contrived a plan, and brought into the same channel two other rivers at his own expense; and so, by mixing their waters with that of the other river, he sweetened the stream. And as the pestilence was removed in this way, when the people of Selinus were on one occasion holding a festival on the bank of the river, Empedocles appeared among them; and they rising up, offered him adoration, and prayed to him as to a God. 
+For he used to wear slippers with brazen soles. Pausanias, however, contradicts this statement.
+
+But Diodorus, of Ephesus, writing about Anaximander, says that Empedocles imitated him, indulging in a tragic sort of pride, and wearing magnificent apparel. 
+
+When a pestilence attacked the people of Selinus, by reason of the bad smells arising from the adjacent river, so that the men died and the women bore dead children, Empedocles contrived a plan, and brought into the same channel two other rivers at his own expense; and so, by mixing their waters with that of the other river, he sweetened the stream. 
+
+As the pestilence was removed in this way, when the people of Selinus were on one occasion holding a festival on the bank of the river, Empedocles appeared among them; and they rising up, offered him adoration, and prayed to him as to a God. 
 
 He, wishing to confirm this idea which they had adopted of him, leaped into the fire.
 
@@ -273,23 +289,43 @@ But if he leapt into the flames of Ætna,
 How could his tomb be shown in Megara?
 
 
-XII. The following were some of his doctrines. He used to assert that there were four elements, fire, water, earth, and air. And that that is friendship by which they are united, and discord by which they are separated. And he speaks thus on this subject:
+
+<sup>12</sup> He asserted that:
+- there were 4 elements, fire, water, earth, and air.
+- they are:
+  - united by friendship
+  - separated by discord
 
 Bright Jove, life-giving Juno, Pluto dark,
 And Nestis, who fills mortal eyes with tears.
 
-Meaning by Jove fire, by Juno the earth, by Pluto the air, and by Nestis water. And these things, says he, never cease alternating with one another; inasmuch as this arrangement is perpetual. Accordingly, he says subsequently:
+Jove is fire
+Juno is earth
+Pluto is air
+Nestis is water
+
+These things alternate with one another; inasmuch as this arrangement is perpetual:
 
 Sometimes in friendship bound they coalesce,
 Sometimes they’re parted by fell discord’s hate.
 
-And he asserts that the sun is a vast assemblage of fire, and that it is larger than the moon. And the moon is disk-shaped; and that the heaven itself is like crystal; and that the soul inhabits every kind of form of animals and plants. Accordingly, he thus expresses himself.
+
+The sun is:
+- a vast assemblage of fire
+- larger than the moon
+
+The moon is disk-shaped
+
+The heaven itself is like crystal
+
+the soul inhabits every kind of form of animals and plants. 
 
 For once I was a boy, and once a girl.
 A bush, a bird, a fish who swims the sea,
 
 
-XIII. His writings on Natural Philosophy and his Purifications extend to 5,000 verses.
+
+<sup>13</sup> His writings on Natural Philosophy and his Purifications extend to 5,000 verses.
 
 His Medical Poem to 600.
 

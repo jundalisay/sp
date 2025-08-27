@@ -11,8 +11,6 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Superphysics"
-aliases:
-  /material/solutions/cartesian-view/
 ---
 
 
@@ -57,9 +55,9 @@ They thus think that a corporeal substance has a [metaphysical] size [when it re
 
 We cure this materialistic view by creating the a metaphysics-first perspective which we call the Cartesian View which has 2 parts:
 
-1. The Aethereal Cartesian Plane
+1. The Aethereal Cartesian Plane for the Identity Space
 
-2. The Material Cartesian Plane
+2. The Material Cartesian Plane for the Perception Space
 
 
 This view takes:
@@ -105,6 +103,3 @@ Instead, it focuses on the start and end of that path. This is useful for telepo
 Teleportation and other aether-based technologies require knowledge and dynamics of the gravitational signature. This signature is visualized or revealed by the Aethereal Cartesian Plane like how a Fourier Transform makes a wave easier to understand.  
 
 <!-- The movement of a country can be physical or aethereal. The left physical Cartesian plane for example can be made to represent the movement of a country from a population of 1 million to 4 million at year 4. The right aethereal Cartesian plane plots movement of the soul of the same society from tyranny or neoconservatism (tetrahedron) into aristocracy or conservatism (octahedron) based on the Socrates' social cycles. Alternately, the left plane can represent Covid infections from 1,000 to 4,000 at the Day 4. The right plane can plot the evolution of the variants that emerge. Lastly, the left plane can represent a ball at [1,1] rolling to [4,4]. The right plane will then plot the changes in the ball's changing gravitational signature at each point [1,1] [2,2] [3,3] [4,4], as three time intervals. This will then be useful for levitating the ball (forceless movement) -->
-
-
-
