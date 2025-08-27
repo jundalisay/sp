@@ -15,10 +15,35 @@ writer:
 
 The Quantum of aether (qoa) is the monad. It is the smallest unit of an aethereal substance which takes the form of the universe.
 
+The best explanation for a qoa is the Prime Radiant of the alien race called the Essassani. However, many people are allergic to the idea of aliens, so we use humans sources as:
+- Leibniz
+- Pythagoras
+- Kepler 
+
+
+According to Pythagoras and Kepler, motion is sourced from an invisible, immaterial "monad".
+
+
+{{< q a="Diogenes" >}}
+According to Pythagoras, the monad was the beginning of everything. From the monad proceeds an indefinite duad, which is subordinate to the monad. From the monad and the indefinite duad proceed numbers. From numbers proceed signs. From signs come lines which make up plane shapes. From plane shapes come solid bodies. From solid bodies come sensible bodies. These have 4 elements: fire, water, earth, and air.
+{{< /q >}}
+
+
+Pythagoras | Material Superphysics
+--- | ---
+monad | monad
+duad | 2 domains (dualistic existence)
+numbers | identity
+signs | timespace
+lines and shapes | aetherspace (Cartesian extension)
+solid bodies | spacetime
+
 
 {{< i s="/graphics/physics/monad.jpg" a="Monad" >}}
 
-According to Pythagoras and Kepler, motion is sourced from an invisible, immaterial "monad". 
+
+
+### The 3 Gunas 
 
 We combine this with Asian philosophy to say that monads vibrate in 3 ways according to the 3 influences or gunas:
 
@@ -37,7 +62,6 @@ These monads then make up the aether particles as the substance of the aethereal
 Every substance has one principal attribute.
 - Mind-substances have thinking as their one principal attribute.
 - Body-substances have extension as their one principal attribute.
-
 Thus:
 - extension in length, width, and depth, constitutes the nature of corporeal substance.
 - thought is the nature of thinking substance
@@ -58,8 +82,6 @@ Intuitional detection of the aether is explained by Bio Superphysics.
 
 This will be done in Material Superphysics through Qualimath.
 
-
-
 {{< q a="Leibniz" >}}
 Monads must have some qualities otherwise they would not be beings at all.. Every monad is necessarily different from every other monad.
 {{< /q >}}
@@ -70,7 +92,6 @@ Monads must have some qualities otherwise they would not be beings at all.. Ever
 "Do" is the monad of planets, "Sol" is the monad of stars such as our sun. Thus, "La" is the monad of galaxies.
 
 Kepler calls the gravity between the monads as "kinship". -->
-<!-- , Einstein calls it "relativity".  -->
 
 <!-- Instead of using light as a yardstick, Kepler uses the gravitational relativity between two monads. There are 20, such as:
 - Do-Do
@@ -82,45 +103,5 @@ Newton's Gravity is therefore `Do-Do` and `Do-Sol`.
 
 Einstein's Special Relativity is `Mi-Mi` and `Mi-Re`. 
 
-General Relativity is `Mi-Do` and `Mi-Sol`.
-
-Monads of the same category attract each other at the same rate. 
-
-This is why stars move at the same speed around the center of their galaxy regardless of their distance, just as 2 different weights fall to the ground at the same time as proven by Galileo.
-
-A person ignorant of gravitational relativities will imagine that heavier objects fall faster, just as Vera Rubin imagined that a galaxy's inner stars travel faster than its outer ones.
-
-This means that there are two inverse square laws: one for the material and another for the immaterial. These render dark matter, wormholes, and the big bang unnecessary, and will allow artificial gravity to be realized. -->
-
-
-
-<!-- This free aether is made up of monads which are the most basic unit in existence. 
-
-- In Yogananda's philosophy, this is the lifetron 
-- In Essassani philosophy, this is called the prime radiant. 
-
-
-1. Upper Qoa
-
-This is known as the abstract mind. This is essential for both natural and artificial intelligence. 
-
-2. Qoa
-
-This is known as waves whether they be crudified into gravitational waves, energy waves, or light waves
-
-3. Lower Qoa
-
-This is known as ideas (from the Supreme's perspective) or thoughts from our perspective.
-
-### The Upper Qoa
-
-This is the abstract lower mind that allows the waves and thoughts to be manifest themselves. 
-
-This leads to true artificial intelligence which we call Automated Natural Intelligence.
-  -->
-
-
-<!-- Everyone has had an idea. Therefore, ideas are real, but not physical in nature. These ideas then spur us into action in the physical domain.
-
-From the Creator's viewpoint a qoa is Its idea. From a createe's viewpoint, it is a thought. -->
+General Relativity is `Mi-Do` and `Mi-Sol`.-->
 

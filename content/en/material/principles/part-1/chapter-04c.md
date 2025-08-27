@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3c"
+heading: "Chapter 4c"
 title: "Waves as Quantum Identities"
 # date: 2020-01-01
 image: "/graphics/physics/media.jpg"

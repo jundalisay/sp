@@ -53,9 +53,7 @@ These disturbances creates pockets of void in Existence. These have to be filled
 
 
 {{< q a="Rene Descartes" c="Dioptrique" >}}
-Almost all philosophers admit that there is no void in nature. 
-
-All the bodies which we perceive around us have several pores which are necessarily filled with some very subtle and very fluid matter, which I call the 1st Element. This matter extends without interruption from the stars to us.
+Almost all philosophers admit that there is no void in nature. All the bodies which we perceive around us have several pores which are necessarily filled with some very subtle and very fluid matter, which I call the 1st Element. This matter extends without interruption from the stars to us.
 {{< /q >}}
 
 
@@ -73,18 +71,12 @@ We see that our soul is a substance distinct from body. We know our soul solely 
 {{< /q >}}
 
 {{< q a="Rene Descartes" c="Meditations on First Philosophy" >}}
-These external ideas and causes are made of substance. A substance is a thing capable of existing independently.
-
-For example, I think that a stone is a substance, and that I am a substance.
+These external ideas and causes are made of substance. A substance is a thing capable of existing independently. For example, I think that a stone is a substance, and that I am a substance.
 {{< /q >}}
 
 
 {{< q a="Spinoza" c="The Principles of Cartesian Philosophy, Part 1" >}}
-"Substance" is everything in which there is something that we perceive as immediately inhering in a subject, or through which there exists something that we perceive (i.e., some property, quality or attribute whose real idea is in us).
-
-Substance is a thing in which there exists formally that something which we perceive (i.e., that something which is objectively in one of our ideas).
-
-Mind is substance in which thought immediately inheres.
+"Substance" is everything in which there is something that we perceive as immediately inhering in a subject, or through which there exists something that we perceive (i.e., some property, quality or attribute whose real idea is in us). Substance is a thing in which there exists formally that something which we perceive (i.e., that something which is objectively in one of our ideas). Mind is substance in which thought immediately inheres.
 {{< /q >}}
 
 
