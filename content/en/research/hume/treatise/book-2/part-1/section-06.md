@@ -3,7 +3,7 @@ heading: Section 6
 title: "Limitations Of This System"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 28
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -17,13 +17,16 @@ The association of ideas and impressions makes:
 - all agreeable objects related to ourselves produce pride
 - all disagreeable objects produce humility
     
-These requirements [limitations] are derived from the very nature of the subject.
+These create limitations for pride [ego] and humility [shame].
+
+ <!-- are derived from the very nature of the subject. -->
 
 
-## 1. The object needs a relation to the self
+## Limitation 1. The object needs a relation to the self
 
-An agreeable object that acquires a relation to self will produce joy.
-- This is different from the relation that causes pride and vain-glory.
+An agreeable object that is related to us will produce joy.
+
+But the relation between us and the object that leads to joy is different from the relation between us and the object that causes pride.
 
 We may feel joy on being present at a delicious feast.
 - But only the master of the feast feels vanity on top of the joy.
@@ -31,118 +34,85 @@ We may feel joy on being present at a delicious feast.
 Men sometimes boast of a great entertainment that they saw.
 - They convert their joy into pride through a small relation.
 
-Joy arises from a more inconsiderable relation than vanity.
+<!-- Joy arises from a more inconsiderable relation than vanity.
 
-Many things too foreign to produce pride, are able to give us a delight and pleasure.
+Many things too foreign to produce pride, are able to give us a delight and pleasure. -->
 
-Why this difference?
+Why this difference between the relation of joy and pride?
 
-A relation is requisite to joy in order to:
-- approach the object to us
-- make it give us any satisfaction.
+To feel joy or pride about a thing, we need to have a relation to that thing. 
 
-A relation is common to joy and pride.
+But the relation that produces pride has more force than joy. 
 
-▪ It is requisite to pride in order to:
-                • produce a transition from one passion to another
-                • convert the falsification into vanity.
+<!-- It is requisite to pride in order to:
+- produce a transition from one passion to another
+- convert the falsification into vanity. -->
 
-As it has a double task to perform, it must be endowed with double force and energy.
-        ◦ Where agreeable objects do not bear a very close relation to ourselves, they commonly do to some other person.
-        ◦ This latter relation excels and even reduces, and sometimes destroys the former (Part 2, Sec. 4).
+<!-- it has a double task to perform, it must have double force and energy. -->
 
-Our first limitation to our general position is that everything related to us, which produces pleasure or pain, likewise produces pride or humility.
+Some agreeable object might belong more to other people than to us. 
+- This closer relation to them reduces its relation to us (Part 2, Sec. 4). 
 
-A closer relation is required than the relation required to joy.
+<!-- are not closely related to us, they commonly do to some other person.
+
+◦ This latter relation excels and even reduces, and sometimes destroys the former .
+
+Our first limitation to our general position is that everything related to us, which produces pleasure or pain, likewise produces pride or humility. -->
+
+This is why a closer relation is required to produce pride than the relation that produces joy.
 
 
+## Limitation 2: That relation to ourselves or to a few people should be close
 
-II. The second limitation is that the agreeable or disagreeable object is closely related and:
-        ◦ peculiar to ourselves, or
-        ◦ at least common to us with a few persons.
+ <!-- The agreeable or disagreeable object is closely related and peculiar to ourselves, or a few persons. -->
 
 When often presented, everything which we have been long accustomed to:
 - loses its value in our eyes
-- is despised and neglected in a little time.
+- is despised and neglected 
 
-We likewise judge of objects more from comparison than from their real and intrinsic merit.
-        ◦ Where we cannot by some contrast enhance their value, we are apt to overlook even what is essentially good in them.
+<!-- in a little time. -->
 
-These qualities of the mind have an effect on joy as well as pride.
-        ◦ It is remarkable that goods common and familiar to all mankind give us little satisfaction.
-        ◦ We set a much higher value to singular goods of perhaps a more excellent kind.
-    • This circumstance operates on both these passions.
-        ◦ It has a much greater influence on vanity.
-    • We are rejoiced for many goods which give us no pride, because of their frequency.
-    • When health returns after a long absence, it affords us a very sensible satisfaction.
-        ◦ It is seldom regarded as a subject of vanity, because it is shared with so many.
-    • Pride is so much more delicate than joy because to excite pride,we must always contemplate two objects:
-        ◦ the cause or that object which produces pleasure
-        ◦ the self, which is the real object of the passion.
-    • But joy needs only one object: that which gives pleasure.
-        ◦ This bears some relation to self, yet the self is only needed to render it agreeable.
-        ◦ The self is not the object of this passion.
-    • Pride has two objects which directs our view into.
-        ◦ It follows that where neither of them have any singularity, the passion must be more weakened than a passion which has only one object.
-    • Upon comparing ourselves with others, we find we are not in the least distinguished.
-        ◦ Upon comparing the object we possess, we discover still the same unlucky circumstance.
-    • By two comparisons so disadvantageous the passion must be entirely destroyed.
+We judge of objects more from comparison than from their real and intrinsic merit.
 
-## 3. The pleasant or painful object is very discernible and obvious to ourselves and others.
+Whenever there is no contrast to enhance their value, we tend to overlook even what is essentially good in them.
 
-This circumstance has an effect on joy and pride, like the two foregoing limitations.
+These qualities of the mind have an effect on joy and pride [ego].
 
-We fancy ourselves happier, more virtuous or beautiful, when we appear so to others.
-        ◦ But we are still more ostentatious of our virtues than of our pleasures.
-    
+It is remarkable that:
+- **goods common and familiar to all mankind give us little satisfaction**
+- we give a much higher value to singular goods of a more excellent kind
 
-## 4. The inconstancy of the cause of these passions and the short duration of its connection with ourselves
+This circumstance operates on both joy and pride.
+- It has a much greater influence on vanity*.
 
-What is casual and inconstant gives but little joy, and less pride.
-    • We are not much satisfied with the thing itself.
-        ◦ We are still less apt to feel any new degrees of self-satisfaction upon its account.
-    • We foresee and anticipate its change by the imagination.
-        ◦ which makes us little satisfied with the thing:
-    • We compare it to ourselves, whose existence is more durable; by which means its inconstancy appears still greater.
-    • It seems ridiculous to infer an excellency in ourselves from an object, which is of so much shorter duration, and attends us during so small a part of our existence.
-    • It will be easy to comprehend the reason, why this cause operates not with the same force in joy as in pride; since the idea of self is not so essential to the former passion as to the latter.
+{{< n n="The negative ego will want more unqiue things to feel special and different, in line with the Negative Force">}}
 
+ <!-- We are rejoiced for many goods which give us no pride, because of their frequency. -->
 
-## 5. The enlargement of this system
+We feel happy when health returns after a long sickness.
+- It is not vain to be happy with health because many people want good health.
 
-General rules have a great influence on pride, humility, and all the other passions.
+        <!-- ◦ It is seldom regarded as a subject of vanity, because it is shared with so many. -->
 
-Hence we form a notion of different ranks of men, suitable to the power of riches they are possessed of.
-        ◦ This notion we change not on account of any peculiarities of the health or temper of the persons, which may deprive them of all enjoyment in their possessions.
+Pride [ego] is so much more delicate than joy because to excite pride, we must always contemplate 2 objects:
 
-This may be accounted for from the same principles, that explained the influence of general rules on the understanding.
-    • Custom readily carries us beyond the just bounds in our passions, as well as in our reasonings.
+1. The thing which produces pleasure
+2. The self which is the real object of pride
 
-The influence of general rules and maxims on the passions very much contributes to facilitate the effects of all the principles, which we shall explain in the progress of this treatise.
-        ◦ If a person full-grown, and of the same nature with ourselves, were on a sudden-transported into our world, he would be very much embarrassed with every object
-        ◦ He would not readily find what degree of love or hatred, pride or humility, or any other passion he ought to attribute to it.
+But joy needs only 1 object: that which gives pleasure.
 
-The passions are often varied by very inconsiderable principles.
-        ◦ These do not always play with a perfect regularity, especially on the first trial.
+This pleasure bears some relation to self.
+- Yet the self is only needed to render it agreeable.
 
-Custom and practice have:
-- brought to light all these principles
-- settled the just value of everything
+The self is not the object of joy.
 
-These:
-        ◦ contribute to the easy production of the passions
-        ◦ guide us, by means of general established maxims, in the proportions we should observe in preferring one object to another.
-    • This remark may obviate difficulties that may arise from causes which I shall hereafter ascribe to particular passions.
-        ◦ These passions may be esteemed too refined to operate so universally and certainly, as they are found to do.
-    • I shall close this subject with a reflection derived from these five limitations:
-        ◦ The proudest persons, who have most reason for their pride in the eye of the world, are not always the happiest.
-        ◦ The most humble persons are not always the most miserable.
-    • An evil may be real even if its cause has no relation to us.
-        ◦ It may be real, without:
-            ▪ being peculiar
-            ▪ being constant
-            ▪ showing itself to others
-            ▪ falling under the general rules.
+Pride has 2 objects which directs our view into.
 
-Such evils as these will not fail to render us miserable, though they have little tendency to reduce pride.
-        ◦ Perhaps the most real and solid evils of life have this nature.
+It follows that where neither of them have any singularity, pride must be more weakened than a passion which has only one object.
+
+ Upon comparing ourselves with others, we find we are not in the least distinguished.
+
+Upon comparing the object we possess, we discover still the same unlucky circumstance.
+
+By 2 comparisons so disadvantageous the passion must be entirely destroyed.
+

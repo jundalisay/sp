@@ -50,7 +50,9 @@ This was the greatest attraction to Dharma Mahachakras. Almost everyone felt the
 
 Immediately before Baba gives the daily darshan speech, kaoshiki is demonstrated by a few sisters, and then both kaoshiki and tandava by a few brothers. 52 
 
-Because it was DMC night I felt something special in the air. Nevertheless, the announcement in the dark surpassed my expectation: "Tonight's tandava will be performed by 100 brothers!" 
+Because it was DMC night I felt something special in the air. Nevertheless, the announcement in the dark surpassed my expectation: 
+
+"Tonight's tandava will be performed by 100 brothers!" 
 
 Within a single shocking moment 100 torches burst in flames—the dancers leapt high in the eerie light, chanting BABA NAM KEVALAM at ear-splitting volume. 
 
@@ -141,10 +143,24 @@ The plane was called. As we walked away, leaving behind the tearful-eyed Venetia
 
 West Berlin. Our field walk today took us to the infamous Berlin wall which divides Western democracy from Eastern communism. 
 
-Baba stopped, looked at it, and said, "This wall symbolizes the brutal suppression by Communism of human liberties. It is a kind of artificial madness. In the near future you will all see this wall crumble piece by piece, stone by stone. East and West Germany will be united as one." 
+Baba stopped and looked at it:
 
-Then He added, "**In 1941, Germany came under the influence of a star called Magha, a bad star. Magna causes disruption and breaks into pieces the object on which its projection falls. Now its effect is finishing, and soon a good time is coming**." 
+{{< l a="Baba" >}}
+This wall symbolizes the brutal suppression by Communism of human liberties. It is a kind of artificial madness. In the near future you will all see this wall crumble piece by piece, stone by stone. East and West Germany will be united as one.
 
-After that He explained the swastika. He said the literal meaning of swastika is "a condition of goodness which will continue to exist." Thus it means victory. 
+**In 1941, Germany came under the influence of a star called Magha*, a bad star. Magha causes disruption. It breaks into pieces the object on which its projection falls. Now its effect is finishing, and soon a good time is coming**.
+{{< /l >}}
 
-He drew our swastika, which He said is positive. Then He drew the reverse swastika, and said it is negative. He warned us never to use the negative swastika because it brings complete annihilation. The Nazis mixed these two swastikas, often using the negative one. 
+
+{{< n n="Magha is Regulus-A in Leo constellaion" >}}
+
+After that He explained the swastika. He said the literal meaning of swastika is "a condition of goodness which will continue to exist." 
+
+Thus it means victory. 
+
+He drew our swastika, which He said is positive. 
+
+Then He drew the reverse swastika, and said it is negative. 
+
+He warned us never to use the negative swastika because it brings complete annihilation. The Nazis mixed these 2 swastikas, often using the negative one. 
+

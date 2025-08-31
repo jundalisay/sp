@@ -118,3 +118,16 @@ But I consider it as a negation of relation, than as anything real or positive.
 There are 2 kinds of difference, as opposed to identity or resemblance:
 - a difference of number
 - a difference of kind
+
+
+
+{{< b >}}
+### Superphysics Note
+
+Hume's relations fit into our 4 properties of waves:
+
+1. Resemblance
+2. Quality, Identity
+3. Contrariety, Quantity
+4. Space and Time, Cause and Effect
+{{< /b >}}

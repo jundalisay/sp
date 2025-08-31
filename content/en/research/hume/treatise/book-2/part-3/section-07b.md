@@ -3,12 +3,13 @@ heading: Section 7n
 title: "Space And Time"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 38
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
 icon: "David Hume"
 ---
+
 
 <!-- Without having recourse to metaphysics, anyone may easily observe that  -->
 
@@ -86,19 +87,24 @@ There is another cause which:
         ◦ This true when the fancy:
             ▪ remains fixed and surveys the future and the past from the present instant
             ▪ changes its situation and places us in different periods of time.
-    • When we put ourselves in a point in time between between the present instant and the future object, we find:
+
+When we put ourselves in a point in time between between the present instant and the future object, we find:
         ◦ the future object approach to us
         ◦ the past retire and become more distant.
-    • When we put ourselves in a point in time between the present and the past, the past approaches to us and the future becomes more distant.
+
+When we put ourselves in a point in time between the present and the past, the past approaches to us and the future becomes more distant.
         ◦ But from the property of the fancy above-mentioned, we rather choose to fix our thought on the point of time between the present and the future, than on that between the present and the past.
-    • We advance rather than retard our existence.
+
+We advance rather than retard our existence.
         ◦ We proceed from past to present and from present to future, following what seems the natural succession of time.
         ◦ Through this, we conceive:
             ▪ the future as flowing every moment nearer us
             ▪ the past as retiring.
-    • Therefore, an equal distance in the past and in the future does not have the same effect on the imagination.
+
+Therefore, an equal distance in the past and in the future does not have the same effect on the imagination.
         ◦ Because we consider the one as continually increasing, and the other as continually diminishing.
-    • The fancy:
+
+The fancy:
         ◦ anticipates the course of things
         ◦ surveys the object in that condition to which:
             ▪ it tends

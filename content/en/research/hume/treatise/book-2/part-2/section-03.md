@@ -1,18 +1,38 @@
-SEC. 3: DIFFICULTIES SOLVED
+---
+heading: Section 3
+title: "Difficulties Solved"
+description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+c: "steelblue"
+weight: 14
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
+
+
 
 It is superfluous to examine all the causes of love and hatred after so many undeniable proofs drawn from daily experience.
 
-    • Therefore, I shall use this part:
-        1. To remove some difficulties on particular causes of these passions.
-        2. To examine the compound affections arising from the mixture of love and hatred with other emotions.
-    • It is most obvious that:
-        ◦ anyone acquires our kindness, or is exposed to our ill-will, in proportion to the pleasure or uneasiness we receive from him
-        ◦ the passions keep pace exactly with the sensations in all their changes and variations.
-    • Whoever can render himself useful or agreeable to us by his services, beauty, or flattery, is sure of our affections.
-        ◦ Whoever harms or displeases us always excites our anger or hatred.
-    • When our own nation is at war with any other, we detest them as cruel, perfidious, unjust and violent.
-        ◦ But we always esteem ourselves and our allies as equitable, moderate, and merciful.
-    • If the general of our enemies is successful, we allow him the figure and character of a man, with difficulty.
+Therefore, I shall use this part:
+
+1. To remove some difficulties on particular causes of these passions.
+
+2. To examine the compound affections arising from the mixture of love and hatred with other emotions.
+
+It is most obvious that:
+- anyone acquires our kindness, or is exposed to our ill-will, in proportion to the pleasure or uneasiness we receive from him
+- the passions keep pace exactly with the sensations in all their changes and variations.
+
+Whoever can render himself useful or agreeable to us by his services, beauty, or flattery, is sure of our affections.
+
+Whoever harms or displeases us always excites our anger or hatred.
+
+When our own nation is at war with any other, we detest them as cruel, perfidious, unjust and violent.
+
+But we always esteem ourselves and our allies as equitable, moderate, and merciful.
+
+If the general of our enemies is successful, we allow him the figure and character of a man, with difficulty.
         ◦ Oliver Cromwell and the Duke of Luxembourg were reported to:
             ▪ be sorcerers
             ▪ have communication with demons

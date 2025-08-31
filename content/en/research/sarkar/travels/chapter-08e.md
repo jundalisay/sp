@@ -11,31 +11,35 @@ author: Dada Dharmavedananda
 
 July. News from Patna: The defense has started presenting their arguments. 
 
-Only You know. Baba, what will happen, what You've planned. But I'm 
-sure part of Your plan is to make me mad for You. 
+<!-- Only You know. Baba, what will happen, what You've planned. But I'm sure part of Your plan is to make me mad for You.  -->
 
-Timmern, Germany. The only full-timer left in my region is Dhruvadev, 
-who doesn't want to become an acharya. As expected, my higher authority was 
-furious. Baba, You have to help. 
+Timmern, Germany. The only full-timer left in my region is Dhruvadev, who doesn't want to become an acharya.
 
-Today, the new Berlin Sector full-timer training session started here. I am 
-the trainer together with another Dada. It's a one-month program, and the 
-biggest we've ever held. Ninety Margiis are attending. Thirty of them are from 
-Scandinavia. Of course, most of the trainees are only here for the experience. 
-Let's see how many He inspires to become real full-timers. 
+As expected, my higher authority was furious. Baba, You have to help. 
 
-Free at last! 
+Today, the new Berlin Sector full-timer training session started here. 
 
-Today's news!!!! What news!!!! It's the happiest day of my life!!!! Baba is 
-released!!!!!!!!!!!!!!!!!!!!!
+I am the trainer together with another Dada. It's a one-month program, and the biggest we've ever held.
 
-After seven years of imprisonment and over five years of fasting, He is 
-vindicated, absolved of guilt. 
+90 Margiis are attending. 30 of them are from Scandinavia.
 
-The true criminal is Indira Gandhi's administration. By using deceit, 
+Most of the trainees are only here for the experience. Let's see how many He inspires to become real full-timers.
+
+
+Free at last! It's the happiest day of my life!!!! Baba is released!!!!!!!!!!!!!!!!!!!!!
+
+After 7 years of imprisonment and over 5 years of fasting, He is absolved of guilt. 
+
+The true criminal is Indira Gandhi's administration. 
+
+They banned Ananda Marga and imprisoned all Margiis and workers to try to finish of Ananda Marga.
+
+<!-- By using deceit, 
 bribery, corruption, intimidation, torture, defamation—what to speak of a total 
-ban against Ananda Marga and imprisonment of all Margiis and workers—Mrs 
-Gandhi and her cohorts have tried their best to finish off Baba and Ananda Marga but they have failed miserably. 
+ban against  and imprisonment of —Mrs 
+Gandhi and her cohorts have tried their best to finish off Baba and Ananda Marga  -->
+
+But they have failed miserably. 
 
 History will document all the steps that the forces of Nature will take against the real 
 sinners. We need do nothing against them, nor can we hate them. Though they 

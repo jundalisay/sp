@@ -1,9 +1,9 @@
 ---
 heading: Section 9
-title: "THE MIXTURE OF BENEVOLENCE AND ANGER WITH COMPASSION AND MALICE"
+title: "The Mixture of Benevolence and Anger with Compassion and Malice"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 38
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -267,6 +267,3 @@ Why does sympathy in uneasiness ever produce any passion beside goodwill and kin
         ◦ Nothing that concerns them is indifferent to us.
         ◦ This correspondence of sentiments is the natural attendant of love.
             ▪ It readily produces that affection.
-
-
-

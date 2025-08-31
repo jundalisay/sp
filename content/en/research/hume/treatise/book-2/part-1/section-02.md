@@ -2,7 +2,7 @@
 title: "The Objects and Causes of Pride and Humility"
 description: "Pride and humility are simple and uniform impressions"
 c: "steelblue"
-weight: 4
+weight: 8
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -11,60 +11,79 @@ icon: "David Hume"
 
 
 
-Pride and humility are simple and uniform impressions.
+Pride [ego] and humility [shame] are:
+- simple and uniform impressions
+- directly contrary, but have the self as the object
 
-We can never give a just definition of them or any of the passions.
 
+<!-- We can never give a just definition of them or any of the passions. -->
 
-We can pretend to describe them by enumerating the circumstances that attend them.
+<!-- We can pretend to describe them by enumerating the circumstances that attend them. -->
 
 <!-- But the words ‘pride’ and ‘humility’ are of general use.
         ◦ The impressions they represent are the most common of any.
         ◦ Everyone will be able to form a just idea of them, without mistake.
     • This is why I shall immediately enter their examination. -->
 
-Pride and humility are directly contrary, but have the self as the object.
 
-The self is the succession of related ideas and impressions we have an intimate memory and consciousness of.
+**The self is the succession of related ideas and impressions that we are intimately aware of.**
 
-Here, the view always fixes when we are actuated by pride or humility.
+ <!-- memory and consciousness of. -->
 
-We feel elated by pride or dejected with humility as our idea of ourself is more or less advantageous.
+<!-- Here, the view always fixes when we are actuated by pride or humility. -->
+
+We feel elated by pride [ego] or dejected with humility the larger our idea of our self is. 
+
+ <!-- ourself is more or less advantageous. -->
 
 All other objects comprehended by the mind are always considered with a view to ourselves.
 
-Otherwise they would never be able to excite these passions or produce the smallest increase or reduction of them.
+Otherwise they would never be able to excite these passions.
 
-When the self does not enter into the consideration, there is no room for pride or humility.
+ <!-- or produce the smallest increase or reduction of them. -->
 
-The self is always the object of pride and humility.
-- It can never be their cause, or be sufficient alone to excite them.
+When there is no self, there is no pride or humility.
 
-If their object were also their cause, it could never produce any degree of the one passion.
+<!-- The self is always the object of pride and humility. -->
 
-At the same time, it must excite an equal degree of the other.
+But the self can never:
+- be their cause
+- be enough alone to trigger them
 
-Opposition and contrariety must destroy both.
+But if the object of pride [ego] and humility [shame] were also the cause of pride [ego] and humility [shame], then that object could never produce pride [ego] and humility [shame].
 
-A man can never be proud and humble at the same time.
+If it could produce pride [ego] and humility [shame] by itself, then pride [ego] and humility [shame] would cancel each other. 
 
-These take place alternately depending on their reasons.
+<!-- At the same time, it must excite an equal degree of the other.
 
-If these two encounter, the stronger one annihilates the other.
+Opposition and contrariety must destroy both. -->
 
-Only the superior one continues to operate on the mind.
+- A man can never be proud and humble at the same time.
 
-• But in the present case neither of them could ever become superior.
+Pride [ego] and humility [shame] happen alternately depending on their causes.
+- If these 2 encounter, the stronger one annihilates the other.
+- Only the superior one continues to operate on the mind.
+
+Our selves alone cannot produce pride [ego] and humility [shame].
+
+If our self did produce pride [ego] and humility [shame] by itself then both would cancel each other. 
+
+<!-- But in the present case neither of them could ever become superior.
         ◦ The view of ourself alone is indifferent to pride and humility.
         ◦ If this excited pride and humility, this view:
             ▪ must produce both passions in the very same proportion; or
             ▪ can produce neither.
     • To excite any passion and raise an equal opposing passion at the same time, is immediately to undo what was done.
-        ◦ It must leave the mind perfectly calm and indifferent in the end.
-    • Therefore, we must distinguish between:
+        ◦ It must leave the mind perfectly calm and indifferent in the end. -->
+
+Therefore, there is something between the self and the thing that triggers pride [ego] and humility [shame].
+
+
+<!--   we must distinguish between:
         ◦ the cause and the object of these passions
-        ◦ between that idea which excites them, and the idea to which they direct their view, when excited.
-    • Pride and humility, being once raised, immediately:
+        ◦ between that idea which excites them, and the idea to which they direct their view, when excited. -->
+
+<!--     • Pride and humility, being once raised, immediately:
         ◦ turn our attention to ourself
         ◦ regard the self as their ultimate and final object.
     • But there is something needed to further raise them.
@@ -78,7 +97,7 @@ Only the superior one continues to operate on the mind.
         ◦ The first idea, therefore, represents the cause.
         ◦ The second idea represents the object of the passion.
     • To begin with the causes of pride and humility.
-        ◦ Their most obvious and remarkable property is the vast variety of subjects, on which they may be placed.
+        ◦ Their most obvious and remarkable property is the vast variety of subjects, on which they may be placed. -->
 
 Pride is caused by:
 - every valuable quality of the mind, imagination, judgment, memory or disposition
@@ -87,15 +106,22 @@ Pride is caused by:
 Humility is caused by their opposites.
 
 These passions are not confined to the mind.
-        ◦ They extend their view to the body.
+- They extend their view to the body.
 
-A man may be proud of his beauty, strength, agility, good mein, address in dancing, riding, and of his dexterity in any manual business or manufacture.
-        ◦ But this is not all.
+A man may be proud of his beauty, strength, agility, good mein, address in dancing, riding, etc.
 
-The passions, looking further, comprehend whatever objects are in the least allied or related to us.
-        ◦ Our country, family, children, relations, riches, houses, gardens, horses, dogs, and clothes may become a cause of pride or humility.
-    • We should make a new distinction in the causes of the passion, between that quality, which operates, and the subject, on which it is placed.
-        ◦ A man is vain of a beautiful house belonging to him or which he built himself.
+<!--  and of his dexterity in any manual business or manufacture.
+        ◦ But this is not all. -->
+
+<!-- The passions, looking further, comprehend whatever  -->
+
+These objects are related to us.
+
+Our country, family, children, relations, riches, houses, gardens, horses, dogs, and clothes may become a cause of pride or humility.
+
+<!-- We should make a new distinction in the causes of the passion, between that quality, which operates, and the subject, on which it is placed.
+
+A man is vain of a beautiful house belonging to him or which he built himself.
         ◦ Here the object of the passion is himself.
         ◦ The cause is the beautiful house.
             ▪ This cause again is sub-divided into two:
@@ -112,4 +138,4 @@ The passions, looking further, comprehend whatever objects are in the least alli
     • We should:
         ◦ consider them as component parts of the cause
         ◦ infix in our minds an exact idea of this distinction.
-
+ -->

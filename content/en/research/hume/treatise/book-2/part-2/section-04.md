@@ -1,5 +1,17 @@
-SEC. 4: THE LOVE OF RELATIONS
-    • I have explained why actions that cause a real pleasure or uneasiness do not excite love or hatred towards the actors
+---
+heading: Section 4
+title: "The Love Of Relations"
+description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
+c: "steelblue"
+weight: 18
+writer:
+  name: David Hume
+  url: https://en.wikipedia.org/wiki/David_Hume
+icon: "David Hume"
+---
+
+
+I have explained why actions that cause a real pleasure or uneasiness do not excite love or hatred towards the actors
     • Where does the pleasure or uneasiness of the objects which produce these passions come from?
     • According to the preceding system, there is always a double relation of impressions and ideas required between the cause and effect to produce love or hatred.
         ◦ But love may remarkably be excited only by one relation between ourselves and the object.

@@ -58,11 +58,10 @@ This body send out plane waves of light of energy `1/2 L`.
 
 The body remains at rest with respect to the system (`x`, `y`, `z`). 
 
+
 <!-- The principle of ∗The principle of the constancy of the velocity of light is in Maxwell’s equations. -->
 
 Energy must apply to this process and to both systems of co-ordinates via Relativity.
-
- <!-- by the principle of relativity, with respect to   -->
 
  
 
@@ -114,11 +113,11 @@ By subtraction we obtain from these equations:
 ``` -->
 
 
-The two differences of the form `H − E` in this expression have simple physical significations. 
+The 2 differences of the form `H − E` in this expression have physical significance. 
 
 `H` and `E` are energy values of the same body referred to 2 systems of co-ordinates which are in motion relative to each other. 
 
-The body is at rest in one of the two systems (system (`x, y, z`)). 
+The body is at rest in one of the 2 systems (system (`x, y, z`)). 
 
 Thus, the difference `H − E` can differ from the kinetic energy `K` of the body, with respect to the other system (`ξ, η, ζ`), only by an additive constant `C`.
 
@@ -145,7 +144,7 @@ p
 ``` -->
 
 
-The kinetic energy of the body with respect to (`ξ, η, ζ`) diminishes as a result of the emission of light. 
+The kinetic energy of the body with respect to (`ξ, η, ζ`) reduces as a result of the emission of light. 
 
 The amount of reduction is independent of the properties of the body. 
 
@@ -179,7 +178,7 @@ If the energy changes by `L`, the mass changes in the same sense by `L/9 × 1020
 
 {{< i s="/graphics/wtf.png" a="WTF" >}}
 
-{{< n n="In Cartesian Physics, any staticity or potential energy of the 1st and 3rd Elements can be made dynamic or kinetic via the 2nd Element (spacetime). This is because spacetime is totally kinetic. (Static 2nd Element is actually the atherspace around the 3rd Element). A reduction of 1st Element in a body would reduce its total mass in a very small way and is denoted in MeV. A reduction of 3rd element will reduce it a lot and is denoted in grams. **Einstein does not make a distinction between the 3rd and 1st Elements. This locks in matter with light, preventing any logical need for the aether or 5th Element**. This locking in is formalized by using light to measure the difference. This is not useful for teleporting masses, wherein the mass disappears. And so it makes the levitation and teleportation of masses logically impossible, which is not true" >}}
+{{< n n="In Cartesian Physics, any staticity or potential energy of the 1st and 3rd Elements can be made dynamic or kinetic via the 2nd Element (spacetime). This is because spacetime is totally kinetic. (Static 2nd Element is actually the atherspace around the 3rd Element). A reduction of 1st Element in a body would reduce its total mass in a very small way and is denoted in `MeV`. A reduction of 3rd element will reduce it a lot and is denoted in grams. **Einstein does not make a distinction between the 3rd and 1st Elements. This locks in matter with light, preventing any logical need for the aether or 5th Element**. This locking in is formalized by using light to measure the difference. This is not useful for teleporting masses, wherein the mass disappears. And so it makes the levitation and teleportation of masses logically impossible, which is not true" >}}
 
 <!-- the mass or inertia changes because the lost radiation reduces the electromagnetism in the body. This frees up the body's spacetime particles, reducing their pushing pressure, manifesting as less mass or inertia. If the body is material (3rd Element), then mass and grams can be used. But if the body is non-material (i.e. electrons, neutrinos) then it should be electromagnetic potential measured in MeV." -->
 

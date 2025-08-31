@@ -18,8 +18,11 @@ It comes as a bit of a surprise. I imagined my posting would be in Africa or Asi
 
 Anywhere is better than in this training which overtaxed my patience.
 
+I feel great wearing an orange turban, orange and white robes.
+- They automatically awaken within me a dynamic spiritual mood.
+- They feel so natural.
 
-I should add that replacing my civilian clothes with an orange turban, and orange and white robes has given me inexpressible satisfaction. My robes automatically awaken within me a dynamic spiritual mood. They feel so natural. In comparison, my civilian clothes feel like a stage-costume, worn only to play a role in the "normal" social drama.
+In comparison, my civilian clothes feel like a stage-costume, worn only to play a role in the "normal" social drama.
 
 This uniform also serves as a symbol, which will constantly remind me to try to serve others spiritually and socially. At the same time it announces to others: Here is someone who wants to serve you. 26 
 

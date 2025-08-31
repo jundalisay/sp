@@ -3,7 +3,7 @@ heading: Section 8
 title: "Malice and Envy"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 34
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

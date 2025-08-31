@@ -3,7 +3,7 @@ heading: Section 6
 title: "The Influence Of The Imagination On The Passions"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 32
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -17,10 +17,13 @@ It is remarkable that:
 - nothing, which affects the imagination can be entirely indifferent to the affections.
 
 Whenever our ideas of good or evil acquire a new vivacity, the passions:
-        ◦ become more violent
-        ◦ keep pace with the imagination in all its variations.
-    • I shall not determine whether this proceeds from the above principle, that any attendant emotion is easily converted into the predominant one.
-        ◦ It is sufficient that we have many instances to confirm this influence of the imagination on the passions.
+- become more violent
+- keep pace with the imagination in all its variations.
+
+I shall not determine whether this proceeds from the above principle, that any attendant emotion is easily converted into the predominant one.
+
+It is sufficient that we have many instances to confirm this influence of the imagination on the passions.
+
 
 Any pleasure we are acquainted with, affects us more than any other superior pleasure but of whose nature we are wholly ignorant.
         ◦ We can form a particular and determinate idea of the pleasure we know.
@@ -76,19 +79,20 @@ The Athenians, instead of granting him full power to act as he thought fitting, 
     • We may acknowledge that such an object is valuable and another is odious.
         ◦ But until an orator excites the imagination and gives force to these ideas, they may have but a feeble influence on the will or the affections.
 
-    • But eloquence is not always necessary.
-    • The bare opinion of another, especially when enforced with passion, will cause an idea of good or evil to influence us, which would otherwise have been entirely neglected.
+But eloquence is not always necessary.
+
+The bare opinion of another, especially when enforced with passion, will cause an idea of good or evil to influence us, which would otherwise have been entirely neglected.
         ◦ This proceeds from the principle of sympathy or communication.
             ▪ Sympathy is nothing but the conversion of an idea into an impression by the imagination’s force.
 
-    • It is remarkable that lively passions commonly attend a lively imagination.
-    • In this respect, the passion’s force depends as much on the temper of the person, as the object;s nature or situation.
+It is remarkable that lively passions commonly attend a lively imagination.
 
-    • I have already observed, that belief is nothing but a lively idea related to a present impression.
+In this respect, the passion’s force depends as much on the temper of the person, as the object;s nature or situation.
+
+
+I have already observed, that belief is nothing but a lively idea related to a present impression.
         ◦ This vivacity is a requisite circumstance to the exciting all our passions, the calm as well as the violent.
         ◦ The fiction of the imagination has no considerable influence on either of them.
             ▪ It is too weak to:
                 • take hold of the mind or
                 • be attended with emotion.
-
-

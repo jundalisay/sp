@@ -1,9 +1,9 @@
 ---
 heading: Section 9
-title: "THE DIRECT PASSIONS"
+title: "The Direct Passions"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 46
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -66,24 +66,29 @@ Of this kind are:
         ◦ The very same event which by its certainty would produce grief or joy, gives always rise to fear or hope, when only probable and uncertain.
     • We must reflect on the nature of probability to understand why this circumstance makes such a considerable difference.
 
-    • Probability arises from an opposition of contrary chances or causes.
-        ◦ This opposition:
+
+Probability arises from an opposition of contrary chances or causes.
+
+This opposition:
             ▪ prevents the mind from fixing on either side.
             ▪ tosses the mind from one side to another
             ▪ makes the mind determined to consider an object as:
                 • existent at one moment
                 • non-existent at another moment.
-    • The imagination or understanding fluctuates between the opposite views.
+
+The imagination or understanding fluctuates between the opposite views.
         ◦ It may be more often turned to the one side than the other.
         ◦ But it is impossible for it to rest on either by reason of the opposition of causes or chances.
-    • The pro and con of the question alternately prevail.
+
+The pro and con of the question alternately prevail.
         ◦ The mind surveys the object in its opposite principles.
         ◦ It finds such a contrariety that destroys all certainty and established opinion.
 
-    • Suppose, an object of doubtful existence is an object of desire or aversion, the mind must feel a momentary joy or sorrow as the mind turns itself to one side or the other.
+Suppose, an object of doubtful existence is an object of desire or aversion, the mind must feel a momentary joy or sorrow as the mind turns itself to one side or the other.
         ◦ An object whose existence we desire
         ◦ gives satisfaction, when we reflect on those causes, which produce it; and for the same reason excites grief or uneasiness from the opposite consideration:
-    • The understanding in all probable questions is divided between the contrary points of view.
+
+The understanding in all probable questions is divided between the contrary points of view.
         ◦ The affections must be divided between opposite emotions in the same way.
 
 

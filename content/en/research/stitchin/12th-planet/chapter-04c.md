@@ -17,8 +17,9 @@ But he himself was not a bird of any kind, as his many depictions, by himself or
 
 Nor was Zu a "bird"; apparently he had at his disposal a "bird" in which he could flyaway into hiding. 
 
-It was from within such "birds" that the sky battle took place between the two gods. And there can be no doubt regarding the nature of the weapon that finally smote Zu's "bird." Called TIL in Sumerian and til-lum in Assyrian, it was written pictorially thus: , and it must have meant then
-what til means nowadays in Hebrew: "missile."
+It was from within such "birds" that the sky battle took place between the two gods. And there can be no doubt regarding the nature of the weapon that finally smote Zu's "bird." 
+
+Called TIL in Sumerian and til-lum in Assyrian, it was written pictorially thus: , and it must have meant then what til means nowadays in Hebrew: "missile."
 
 Zu, then, was a god—one of the gods who had reason to scheme at usurpation of the Enlilship; a god whom Ninurta, as the legitimate successor, had every reason to fight.
 
@@ -201,7 +202,3 @@ Because he assured justice and prevented oppression-and perhaps for other reason
 Hammurabi, in his inscription, called the god by his Akkadian name, Shamash, which in Semitic languages means "Sun." It has therefore been assumed by the scholars that Utu/Shamash was the Mesopotamian Sun God. 
 
 While this god was assigned the Sun as his celestial counterpart, there was another aspect to the statements that he "shed a bright light" when he performed the special tasks assigned to him by his grandfather Enlil.
-
-
-
-

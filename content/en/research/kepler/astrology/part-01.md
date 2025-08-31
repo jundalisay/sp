@@ -4,8 +4,10 @@ title: "The Sun and Heat"
 description: "A mathematician's job is to write annual forecasts"
 c: "darkgoldenrod"
 weight: 2
-contributors: ['Kepler']
 icon: "Kepler"
+writer:
+  name: Johannes Kepler
+  url: https://en.wikipedia.org/wiki/Johannes_Kepler
 ---
 
 
@@ -128,4 +130,3 @@ In this case the air acts in the same way as the Earth in case above mentioned. 
 
 
 {{< s v="14" >}} Regarding those facts, we can predict that September and October will be warmer than February and March, although in both cases the days will be of the same lenghth.
-

@@ -3,7 +3,7 @@ heading: Section 5
 title: "Our Esteem For The Rich And Powerful"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 22
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -17,15 +17,22 @@ Nothing has a greater tendency to give us an esteem or a contempt for any person
 Esteem and contempt are a species of love and hatred.
         ◦ It will be proper in this place to explain these phenomena.
     • Most fortunately, the greatest difficulty is not to discover a principle capable of producing such an effect, but to choose the chief and predominant among several principles that present themselves.
-    • Our satisfaction in the riches of others and our esteem for their possessors may be ascribed to three causes.
-        1. To the objects they possess which are agreeable in themselves.
-            ▪ These necessarily produce a sentiment of pleasure in anyone who considers them.
-        2. To the expectation of advantage from the rich and powerful, by our sharing their possessions.
-        3. To sympathy.
-            ▪ This makes us partake of the satisfaction of every one, that approaches us.
+
+Our satisfaction in the riches of others and our esteem for their possessors may be ascribed to three causes.
+
+1. To the objects they possess which are agreeable in themselves.
+
+These necessarily produce a sentiment of pleasure in anyone who considers them.
+
+2. To the expectation of advantage from the rich and powerful, by our sharing their possessions.
+
+3. To sympathy.
+
+This makes us partake of the satisfaction of every one, that approaches us.
 
 All these principles may concur in producing the present phenomenon.
-        1. The question is, to which of them we should principally ascribe it.
+
+1. The question is, to which of them we should principally ascribe it.
 
 The first principle, the reflection on agreeable objects, has a greater influence than what we might imagine.
         ◦ We seldom reflect on what is beautiful or ugly, agreeable or disagreeable, without an emotion of pleasure or uneasiness.

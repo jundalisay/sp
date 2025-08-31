@@ -3,7 +3,7 @@ heading: Section 4
 title: "The Causes Of The Violent Passions"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 24
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -21,13 +21,17 @@ but on the contrary, that when a passion has once become a settled principle of 
 Repeated custom and its own force have made everything yield to it.
 
         ◦ It directs the actions and conduct without that opposition and emotion, which so naturally attend every momentary gust of passion.
-    • We must, therefore, distinguish between:
-        ◦ a calm and a weak passion
-        ◦ a violent and a strong one.
-    • When we would govern a man and push him to any action, it will commonly be better to:
+
+We must, therefore, distinguish between:
+- a calm and a weak passion
+- a violent and a strong one.
+
+
+When we would govern a man and push him to any action, it will commonly be better to:
         ◦ work on the violent than the calm passions
         ◦ take him by his inclination, than what is vulgarly called his reason.
-            ▪ We should place the object in such situations as are proper to increase the violence of the passion.
+
+We should place the object in such situations as are proper to increase the violence of the passion.
 
 All depends on the situation of the object.
         ◦ A variation in this will be able to change the calm and the violent passions into each other.

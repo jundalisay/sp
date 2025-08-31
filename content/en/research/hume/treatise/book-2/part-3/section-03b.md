@@ -3,7 +3,7 @@ heading: Section 3b
 title: "The Nature of Passion"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 20
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

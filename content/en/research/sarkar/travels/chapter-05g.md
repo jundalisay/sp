@@ -1,152 +1,92 @@
 ---
-title: "Master of Hocus Pocus"
-heading: "Chapter 6"
+title: "Passing by Chance "
+heading: "Chapter 5g"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
 c: "indigo"
-weight: 64
+weight: 60
 author: Dada Dharmavedananda
 ---
 
 
 
-### Invisible devotees 
+Over the last weeks, my health has again crumbled, to the point that I can barely walk.
 
-New Delhi. I am here to extend my Indian visa, and then I'll go back to Patna. 
+But I never complain, and I accept the troubles as a help to solidify and increase my realization. 
 
-Ravindra and Sadhana, a devoted Margi couple, have invited me to stay in their house during my stay in Delhi. Ravindra is the head care-taker of the Delhi Zoo, so their house is in a quiet area near the Zoo. 
+Still it's hard for me to joke—my mind needs much more expansion. 
 
-Today I was alone in the house. While meditating in a small meditation room I heard people singing Baba nam kevalam. 
+Studying is a tiring task. The 400 meaningless shlokas are the worst part.
 
-So I broke my meditation and walked out of the room in the direction of the kiirtan. But after taking a few steps outside the room I couldn't hear the kiirtan anymore.
+Ten days ago I passed both the Prout and spiritual philosophy examinations, but have yet to fully memorize the shlokas. Every time I look at them, my head spins. Sometimes I think I forget more than I remember.
 
- <!-- I went outside the house. Only birds were singing.  -->
+Difficult as it is, the studying has its own merit—to discipline the mind even while feeling exhaustion and discomfort. 
 
-So I went back to resume my meditation. When I sat down, immediately my mind became concentrated. 
+October.
 
-A few minutes later I again heard people singing kiirtan. 
+I really have no idea how I managed, but by cramming and by the Lord's grace I learned enough shlokas to pass the exam. 
 
-I thought that maybe some Margis are playing a trick on me. So I jumped up and ran toward the singing. But once more, the voices disappeared without a trace.
+There were many I didn't know, but by "chance" the examiner quizzed me mostly on the shlokas I had learned. 
 
-I went back to meditate. After a short while, the kiirtan appeared again. 
+Of course I will soon forget them, but it doesn't matter—my concentration has been improved radically by the exercise.
 
-"It must be inside my head," I thought. Partially ignoring the kiirtan, and partially enjoying it, I went on with my meditation. The kiirtan also continued. 
+The second phase of my training is completed. I will go to Patna for the third phase. Perhaps it's just in time—for my health. 
 
-A couple hours later, Ravindra and Sadhana came home. I told them:
 
-{{< l a="Dharmavedanda" >}}
-In the meditation room, I heard people singing kiirtan again and again, but nobody was there.
-{{< /l >}}
+### Pandemonium with a purpose 
 
-They immediately started laughing. 
+Ananda Marga's permanent global office is in Ananda Nagar. The global camp office is presently in Patna—it is here that Baba lies in a poorly ventilated, inferior jail cell.
 
-{{< r a="Ravindra" >}}
-It's a common experience in that room. When our meditation is deep, we often hear that kiirtan. A few other Margis have heard it too. Invisible devotees, I suppose
-{{< /r >}}
+Patna is a half-day's bus ride away from the Nepal border. It is an ordinary congested Indian city filled with poverty, filth, and hidden mysticism.
 
 
-We all laughed, I felt that idea was not far from the truth. 
+A yoga school or spiritual center is beautiful, calm, immaculately clean, organized, disciplined class programs, healthy food shared collectively, everything moving according to fixed schedule, and a staff who reflect only profound inner peace. 
 
+Our global office is the direct opposite.
 
-## Baba exposes my secret 
+The three-story concrete building is overflowing with paper work, maintained in shabby, irregular files. Old office equipment in various stages of disrepair occupy much of what would otherwise be our living space.
 
-Patna. A Filipino Dada who was held in the same jail as Baba for the last 9 months was released today. 
+Scores of Dadas and Didis dressed in every shade of orange scurry about, struggling to fulfill unannounced, urgent social work targets.
 
-He was standing in the comer of a large courtyard surrounded by several other workers and Margis. When he saw me approaching, he said, 
+They say the number of workers increases to 500 at the time of their monthly meetings—somehow everyone adjusts. 
 
+In every room, nay. in every comer, different schedules are followed—many work throughout the night and get little, if any, sleep.
 
+Irregularity of meals due to the pressure of work is the norm rather than the exception—a common example of a hurried meal is peanuts, puffed rice and a banana. 
 
-"You must be Dharmapala. Baba spoke of you many times. He said that it was good to see some nice American boys like you 
-becoming acharya. He said, 'Unfortunately, you never do your asanas in the evening" 
+Yet there is something wonderful here! One hears conversations and sees documents concerned with:
+- medical clinics
+- cheap kitchens
+- disaster relief
+- philosophical publications
+- cultural clubs
+- poor students' book cooperatives
+- anti-exploitation movements
 
+At any moment, in the midst of the apparent chaos, there is someone singing devotional songs, and someone else sunk in deep meditation. 
 
-I was shocked. Though I accept that Baba is omniscient, I never expected He would notice and expose such mundane things about me even when I was not present. And I am sure absolutely no one could have noticed I was not doing my asanas because I always shift from room to room during the evening since coming to Patna.
+In between the paper work they practice their yoga postures.
 
-I'll never miss my asanas again, except when it is impossible to do them. 
+Their enthusiasm, their laughter, their disagreements, their unperturbed concentration amid constant distractions—it all clearly demonstrates the Tantric spirit, the zeal to fight against any difficulty for the upliftment of self and society. 
 
+I enjoy this.
 
-2i Asanas are physical yoga postures which purify the body, and to some extent also the mind, 
-by harmonizing the glands, hormonal secretions, blood circulation and nerves. 
+Here is where I'll finish training. I arrived today with another trainee who passed the second phase with me, a German named Praveda. 
 
+Our trainer is a highly elevated Dada. Some say he naturally exudes power to those who sit in meditation with him.
 
-### Apparent injustice 
+Recently he completed a 40-day protest fast which was the first of its kind in Ananda Marga.
 
-Over the last several days my trainer has been complaining to Praveda and me that his greatness is misunderstood by others, and that many Dadas are jealous of his spiritual accomplishments. 
+A demonstration against the injustice of Baba's incarceration, it gained widespread newspaper coverage.
 
-It's true that his behavior is apparently eccentric: suddenly inducing high states of meditation in some of the foreigners who sit near him, frequently secluding himself alone for many hours in a locked room, eating vast amounts of food, and being so moody that he changes his plans every day. 
+Our coursework consists of copying and memorizing various notebooks concerned with our spiritual and organizational functions. The trainer will also give us regular classes. 
 
-He often denies us classes due to "mistakes" which we never committed. 
+Living conditions are slightly better than Benares.
 
-Nevertheless I believe:
-- he is highly elevated
-- each of his strange actions have some underlying benevolent hidden purpose.
+We 2 westerners are staying in an Ananda Marga students' hostel 500 meters away from the global office, and living space is sufficient.
 
-The attack by the other Dadas has now gone to an extreme. 
+We receive a small weekly allowance with which we purchase and prepare our meals. 
 
-They have long been requesting him to move away from the foreigners' quarters, and stay in the main central office, but he has always refused.
+I guess I'll be able to save money while still eating in a way which for me now seems luxurious. 
 
-Today 2 workers picked up all his belongings, and transferred them to a room in the central office. 
-
-He was adamant that he would not shift, and remained in his room which was empty of everything except the blanket on which he sat.
-
-A few hours later they also physically carried him away. 
-
-I'm astonished at this injustice! 
-
-
-## A decisive meeting 
-
-We have been regularly visiting our trainer in his new room.
-
-He continuously talks about:
-- the wrongs being done to him
-- how immature the other workers are
-- how much they have yet to grow in their spiritual insight. 
-
-I agree with him. 
-
-Tonight I heard that a small committee was discussing what punishment he 
-should be given. 
-
-<!-- I could not believe it and became angry when others told me it was suspected he has indulged in conduct which was wrong for an acharya.  -->
-
-I felt it my duty to vouch for his innocence. The committee meeting was on the top floor of the four-story building. 
-
-<!-- I ran up to the meeting.
-
- anxious to arrive before it was too late. 
-
-Panting, and after barely knocking, I opened the door. Another shock.  -->
-
-
-Instead of 3-4 persons sitting there, about 50 or 60 orange-clothed Dadas turned their faces toward me. They were also surprised at my intrusion. 
-
-
-"Excuse me...ah, you're having a meeting..." 
-
-
-"Yes, of course it's a meeting," the gray-haired Dada standing in front said, gently smiling. "What do you like to say?" 
-
-
-
-"Ah...well...pardon me but I heard you were discussing the matter of my 
-trainer." 
-
-Laughter came from all sides of the room. I was frustrated and felt even 
-more angry. How dare they take my trainer's case as a joke? 
-
-"Go ahead," the elderly Dada said, also chuckling, "and speak your mind." 
-
-Determined to make my point. I blurted out, 
-
-"I have been with him hours every day, and I am sure that these charges are all wrong. His character is pure  and blemishless, and he couldn't make such a mistake." 
-
-The Dadas exploded with laughter. Some even rolled on the ground, laughing so hard. I was utterly confused by their response. 
-
-"Thank you very much," said the grinning elderly Dada. "We will keep your 
-opinion in mind." The laughter increased, and I walked out of the room, more frustrated than ever. 
-
-An hour later all the workers came downstairs. One of them with whom I 
-am close, came to me and said. 
-
-"Brother, we were not talking about your trainer. That was a general finance meeting." 
+Today, for example, we breakfasted on tomatoes, puffed rice and yoghurt. I can't help but feel it seems God-sent.
 

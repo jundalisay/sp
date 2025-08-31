@@ -3,9 +3,82 @@ title: "Accelerating Zeal"
 heading: "Chapter 5f"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
 c: "indigo"
-weight: 60
+weight: 58
 author: Dada Dharmavedananda
 ---
+
+
+## Logic beyond logic 
+
+The field training keeps me hectically busy, and I love it. 
+
+The internal energy built up in Benares is finding its expression. 
+
+Usually I give 4 lectures daily for different schools, clubs, and civic organizations. 
+
+It seems like everyone in the city knows that I'm here, and they all want to see the westerner who teaches yoga. 
+
+I'm not yet authorized to teach personalized meditation techniques, but I've been teaching the Baba Nam Kevalam mantra to crowds of up to 2000 people at a time.
+
+I usually have very little advance notice of whom I'll be speaking to, nor do I prepare my lectures.
+
+My talks are all spontaneous. Because some people attend more than one program, 1 also make sure each talk is unique. 
+
+Today I was brought to the main university. Before giving the lecture, the organizers ushered me into a meeting room in which there were about 40 professors. 
+
+"Who's the audience this time, Madhu?" 1 asked. 
+
+"You will be speaking to the combined faculty and students of 3 departments: logic, ethics and metaphysics." 
+
+I felt that:
+- 'Logic' was okay
+- 'ethics' was half clear
+- 'metaphysics' left me in a cloud
+
+I turned to converse with the professor sitting next to me.
+
+ <!-- After a few minutes, I nonchalantly came to my real point.  -->
+
+"In the west, many words carry different meaning than in India. Here at this university, what do you mean by the word ’metaphysics'?" 
+
+I remember him saying: "those dimensions that transcend purely physical analysis." 
+
+"Dadaji," another professor inteijected, "all of us would like to know the title of your discourse today." 
+
+His voice was loud enough that everyone suddenly stopped their personal conversations to listen to my reply. 
+
+Without thinking, I said, "I will talk on 'The Absolute and Eternal Relationship between Logic, Ethics and Metaphysics'." 
+
+There was a gasp of many voices throughout the room. 
+
+"No one has ever spoken on such a topic here, Dadaji. It should be extremely interesting." 
+
+The organizers brought me onto a stage. I faced about 500 students and teachers. One man spent 5 minutes lauding praises on me. 
+
+During that time I tried to divine something of my subject, but could only draw a blank. 
+
+Then it was my turn to speak. From the moment I started, I had no idea what I was saying. 
+
+The words I used were complex, and the sentence structures and relations between those sentences were even more complex. 
+
+I was totally lost, but went on speaking enthusiastically. 
+
+Several times the audience interrupted me with applause, though I didn't know what they were appreciating.
+
+At the end, they gave me a long and loud standing ovation. 
+
+The main organizer told the audience, "When Dadaji first told the title of his lecture, many of us wondered what he would speak. I dare say that we are now fully satisfied with his explanation. Nevertheless, you are now welcome to ask questions." 
+
+One student stood up and asked something. God knows what he asked; it was far beyond my understanding. 
+
+{{< l a="Dharmavedanda" >}}
+Instead of replying, what would you think if here and now I were to teach you all something which will answer all the questions you have related to this topic?
+{{< /l >}}
+
+
+Everyone applauded. I taught them Baba Nam Kevalam meditation. 
+
+Then I escaped. 
 
 
 Benares training center. 
@@ -53,85 +126,3 @@ Guru Puja is performed after meditation. One offers one's strongest attachment o
 The Supreme Command was written by Baba. It contains the most essential guidelines for a spiritual life.
 
 
-### Passing by chance 
-
-Over the last weeks, my health has again crumbled, to the point that I can barely walk.
-
-But I never complain, and I accept the troubles as a help to solidify and increase my realization. 
-
-Still it's hard for me to joke—my mind needs much more expansion. 
-
-Studying is a tiring task. The 400 meaningless shlokas are the worst part.
-
-Ten days ago I passed both the Prout and spiritual philosophy examinations, but have yet to fully memorize the shlokas. Every time I look at them, my head spins. Sometimes I think I forget more than I remember.
-
-Difficult as it is, the studying has its own merit—to discipline the mind even while feeling exhaustion and discomfort. 
-
-October.
-
-I really have no idea how I managed, but by cramming and by the Lord's grace I learned enough shlokas to pass the exam. 
-
-There were many I didn't know, but by "chance" the examiner quizzed me mostly on the shlokas I had learned. 
-
-Of course I will soon forget them, but it doesn't matter—my concentration has been improved radically by the exercise.
-
-The second phase of my training is completed. I will go to Patna for the third phase. Perhaps it's just in time—for my health. 
-
-
-### Pandemonium with a purpose 
-
-Ananda Marga's permanent global office is in Ananda Nagar. The global camp office is presently in Patna—it is here that Baba lies in a poorly ventilated, inferior jail cell.
-
-Patna is a half-day's bus ride away from the Nepal border. It is an ordinary congested Indian city filled with poverty, filth, and hidden mysticism.
-
-
-A yoga school or spiritual center is beautiful, calm, immaculately clean, organized, disciplined class programs, healthy food shared collectively, everything moving according to fixed schedule, and a staff who reflect only profound inner peace. 
-
-Our global office is the direct opposite.
-
-The three-story concrete building is overflowing with paper work, maintained in shabby, irregular files. Old office equipment in various stages of disrepair occupy much of what would otherwise be our living space.
-
-Scores of Dadas and Didis dressed in every shade of orange scurry about, struggling to fulfill unannounced, urgent social work targets.
-
-They say the number of workers increases to 500 at the time of their monthly meetings—somehow everyone adjusts. 
-
-In every room, nay. in every comer, different schedules are followed—many work throughout the night and get little, if any, sleep.
-
-Irregularity of meals due to the pressure of work is the norm rather than the exception—a common example of a hurried meal is peanuts, puffed rice and a banana. 
-
-Yet there is something wonderful here! One hears conversations and sees documents concerned with:
-- medical clinics
-- cheap kitchens
-- disaster relief
-- philosophical publications
-- cultural clubs
-- poor students' book cooperatives
-- anti-exploitation movements
-
-At any moment, in the midst of the apparent chaos, there is someone singing devotional songs, and someone else sunk in deep meditation. 
-
-In between the paper work they practice their yoga postures.
-
-Their enthusiasm, their laughter, their disagreements, their unperturbed concentration amid constant distractions—it all clearly demonstrates the Tantric spirit, the zeal to fight against any difficulty for the upliftment of self and society. 
-
-I enjoy this.
-
-Here is where I'll finish training. I arrived today with another trainee who passed the second phase with me, a German named Praveda. 
-
-Our trainer is a highly elevated Dada. Some say he naturally exudes power to those who sit in meditation with him.
-
-Recently he completed a 40-day protest fast which was the first of its kind in Ananda Marga.
-
-A demonstration against the injustice of Baba's incarceration, it gained widespread newspaper coverage.
-
-Our coursework consists of copying and memorizing various notebooks concerned with our spiritual and organizational functions. The trainer will also give us regular classes. 
-
-Living conditions are slightly better than Benares.
-
-We 2 westerners are staying in an Ananda Marga students' hostel 500 meters away from the global office, and living space is sufficient.
-
-We receive a small weekly allowance with which we purchase and prepare our meals. 
-
-I guess I'll be able to save money while still eating in a way which for me now seems luxurious. 
-
-Today, for example, we breakfasted on tomatoes, puffed rice and yoghurt. I can't help but feel it seems God-sent.

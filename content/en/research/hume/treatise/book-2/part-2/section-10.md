@@ -1,9 +1,9 @@
 ---
 heading: Section 10
-title: "RESPECT AND CONTEMPT"
+title: "Respect And Contempt"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 42
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -14,25 +14,30 @@ icon: "David Hume"
  
 To understand all the passions which have any mixture of love or hatred, only respect, contempt, and the amorous affection remain to be explained.
  
-    • When we consider the qualities and circumstances of others, we may:
+When we consider the qualities and circumstances of others, we may:
         ◦ regard them as they really are in themselves
         ◦ compare them and our own qualities and circumstances, or
         ◦ join these two methods.
-    • From the first point of view, the good qualities of others produce love.
+
+From the first point of view, the good qualities of others produce love.
         ◦ From the second point of view, humility
         ◦ From the third, respect.
             ▪ Respect is a mixture of these two passions.
-    • The bad qualities of others cause hatred, pride, or contempt, according to how we view them.
+
+The bad qualities of others cause hatred, pride, or contempt, according to how we view them.
  
-    • There is an evident mixture of:
-        ◦ pride in contempt
-        ◦ humility in respect.
-    • This mixture arises from a tacit comparison of the person contemned or respected with ourselves.
+There is a mixture of:
+- pride in contempt
+- humility in respect
+
+This mixture arises from a tacit comparison of the person contemned or respected with ourselves.
         ◦ The same man may cause respect, love, or contempt by his condition and talents, according to how equal or superior he is to the person who considers him.
-    • In changing the point of view, the object may remain the same.
+
+In changing the point of view, the object may remain the same.
         ◦ Its proportion to ourselves entirely alters.
         ◦ This is the cause of an alteration in the passions.
-    • Therefore, these passions arise from our observing the proportion; that is, from a comparison.
+
+Therefore, these passions arise from our observing the proportion; that is, from a comparison.
  
     • The mind has a much stronger propensity to pride than to humility.
     • I have endeavoured to assign a cause for this phenomenon, from the principles of human nature.

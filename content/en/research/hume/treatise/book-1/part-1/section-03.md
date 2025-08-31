@@ -12,7 +12,6 @@ icon: "David Hume"
 ---
 
 
-
 <!-- ## Memory is Stronger than Imagination -->
 
 ## Idea in Memory is Stronger than Idea in Imagination

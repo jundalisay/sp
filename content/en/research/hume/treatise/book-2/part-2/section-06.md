@@ -3,7 +3,7 @@ heading: Section 6
 title: "Benevolence And Anger"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 26
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -90,11 +90,14 @@ Love is always followed by:
                 • do not make any essential part of them.
 
 Therefore, we may infer that benevolence and anger are:
-        ◦ different from love and hatred
-        ◦ only conjoined with love and hatred by the mind’s original constitution.
-    • Nature has given the body certain appetites and inclinations.
-        ◦ She changes these according to the situation of the fluids or solids.
-        ◦ She has done a similar thing with the mind.
+- different from love and hatred
+- only conjoined with love and hatred by the mind’s original constitution.
+
+Nature has given the body certain appetites and inclinations.
+
+◦ She changes these according to the situation of the fluids or solids.
+
+◦ She has done a similar thing with the mind.
     • If we have love or hatred, the correspondent desire of the person’s happiness or misery, who is the object of the love or hatred:
         ◦ arises in the mind
         ◦ varies with each variation of these opposite passions.

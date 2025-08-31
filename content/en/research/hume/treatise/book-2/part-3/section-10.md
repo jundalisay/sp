@@ -1,9 +1,9 @@
 ---
 heading: Section 10
-title: "CURIOSITY, OR THE LOVE OF TRUTH"
+title: "Curiosity, Or The Love Of Truth"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 54
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -11,14 +11,17 @@ icon: "David Hume"
 ---
 
 
-I think we would be a little inattentive to run over the human mind without once considering that love of truth, which was the first source of all our inquiries.
+What is the origin of our quest for truth?
+
+<!-- I think we would be a little inattentive to run over the human mind without once considering that love of truth, which was the first source of all our inquiries.
 
 We should:
         ◦ bestow a few reflections on curiosity
         ◦ show its origin in human nature.
 
 It is such a peculiar an affection.
-        ◦ It would have been impossible to have treated of it under any previous heading, without danger of obscurity and confusion.
+        ◦ It would have been impossible to have treated of it under any previous heading, without danger of obscurity and confusion. -->
+ 
  
 Truth is of 2 kinds, consisting in:
 

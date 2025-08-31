@@ -1,9 +1,9 @@
 ---
 heading: Section 8
-title: "THE SAME SUBJECT CONTINUED"
+title: "Distance"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 42
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -158,21 +158,25 @@ The affections mean the same with the passions. But affections:
             ▪ operate more calmly
             ▪ cause no disorder in the temper.
             
-    • Tranquillity leads us to a mistake concerning them.
+Tranquillity leads us to a mistake concerning them.
         ◦ It causes us to regard them as conclusions only of our intellectual faculties.
-    • The causes and effects of these violent and calm passions are pretty variable.
+
+The causes and effects of these violent and calm passions are pretty variable.
         ◦ They depend on every individual’s peculiar temper and disposition.
-    • The violent passions generally have a more powerful influence on the will.
+
+The violent passions generally have a more powerful influence on the will.
         ◦ The calm passions are able to control the violent ones  in their most furious movements, when:
             ▪ corroborated by reflection
             ▪ seconded by resolution.
-    • A calm passion may easily be changed into a violent one by:
+
+A calm passion may easily be changed into a violent one by:
         ◦ a change of temper or the object’s circumstances and situation.
         ◦ the borrowing of force from any attendant passion
         ◦ custom, or
         ◦ exciting the imagination.
             ▪ This makes this whole affair more uncertain.
-    • On the whole, this struggle of passion and of reason:
+
+On the whole, this struggle of passion and of reason:
         ◦ diversifies human life
         ◦ makes men so different from each other and from themselves in different times.
     • Philosophy can only account for a few of the greater and more sensible events of this war.

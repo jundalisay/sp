@@ -3,7 +3,7 @@ heading: Section 1b
 title: "Liberty And Necessity"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 8
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume

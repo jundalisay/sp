@@ -3,7 +3,7 @@ heading: Section 7
 title: "Contiguity And Distance In Space And Time"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 34
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -74,4 +74,3 @@ Distance in space and time has a considerable effect:
         ◦ Though few extend their views so far into the future, as to dread very remote accidents.
  
 The cause of this phenomenon lies in the different properties of space and time.
-

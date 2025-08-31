@@ -1,8 +1,8 @@
 ---
-title: "THE SAME SUBJECT CONTINUED"
+title: "The Doctrine of Leadership"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 12
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -159,11 +159,13 @@ Men are so inconsistent with themselves.
         ◦ Because a hasty temper, though a constant cause in the mind:
             ▪ operates only by intervals
             ▪ does not infect the whole character.
-    • Repentance wipes off every crime, especially if attended with an evident reformation of life and manners.
+
+Repentance wipes off every crime, especially if attended with an evident reformation of life and manners.
         ◦ How is this to be accounted for?
         ◦ By asserting that actions render a person criminal, merely as they are proofs of criminal passions or principles in the mind.
         ◦ and when by any alteration of these principles they cease to be just proofs, they likewise cease to be criminal.
-    • But according to the doctrine of liberty or chance, they never were just proofs.
+
+But according to the doctrine of liberty or chance, they never were just proofs.
         ◦ Consequently, they were never criminal.
 
     • I turn to my adversary.

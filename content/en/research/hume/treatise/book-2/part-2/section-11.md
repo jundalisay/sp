@@ -1,9 +1,9 @@
 ---
 heading: Section 11
-title: "THE AMOROUS PASSION, OR LOVE BETWEEN THE SEXES"
+title: "The Amorous Passion, or Love Between The Sexes"
 description: "Book 2 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
-weight: 4
+weight: 46
 writer:
   name: David Hume
   url: https://en.wikipedia.org/wiki/David_Hume
@@ -98,12 +98,14 @@ Therefore, they produce each other only by their relation.
     • Some other person is the object of love and hatred.
     • Yet these objects alone cannot be the causes of those passions.
         ◦ Since each of them has a relation to two contrary affections which must destroy each other at the very first moment.
-    • The mind has certain organs naturally fitted to produce a passion which naturally turns the view to a certain object.
+
+The mind has certain organs naturally fitted to produce a passion which naturally turns the view to a certain object.
         ◦ But this is insufficient to produce the passion.
         ◦ Another emotion is required to:
             ▪ set these principles in action
             ▪ bestow on them their first impulse, through a double relation of impressions and ideas.
-    • This situation is still more remarkable with regard to the appetite of generation.
+
+This situation is still more remarkable with regard to the appetite of generation.
         ◦ Sex is the object and the cause of the appetite.
     • We turn our view to it when actuated by that appetite.
         ◦ Reflecting on it suffices to excite the appetite.
@@ -112,5 +114,3 @@ Therefore, they produce each other only by their relation.
         ◦ We find that impulse to arise from the person’s beauty, that is, from a double relation of impressions and ideas.
     • This double relation is necessary where an affection has a distinct cause and object.
         ◦ How much more so is it necessary when it only has a distinct object, without any determinate cause?
-
-
