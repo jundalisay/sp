@@ -201,7 +201,7 @@ According to Hume, Morality is not based on Reason. -->
 
 ## Reason Is Not The Basis Of Morality
 
-Obscure reasoning has an inconvenience which:
+<!-- Obscure reasoning has an inconvenience which:
 - may silence an antagonist without convincing him, and
 - requires the same intense study for us to know its force, as that which was needed for its invention.
 
@@ -215,57 +215,67 @@ This is still more conspicuous in a long chain of reasoning, where we:
 
 I hope:
 - that the present system of philosophy will acquire new force as it advances, and
-- that our reasonings on morals will corroborate whatever has been said on the understanding and the passions.
+- that our reasonings on morals will corroborate whatever has been said on the understanding and the passions. -->
 
 Morality is a subject that interests us above all others.
 
-We think that the peace of society is at stake in every decision concerning it.
-- This concern makes our speculations appear more real and solid, than when the subject is indifferent to us.
+<!-- We think that morality affects the peace of society. -->
 
-What affects us can never be an illusion.
+ <!-- is at stake in every decision concerning it. -->
 
-Our passion is engaged on our self or on society.
+<!-- - This concern makes our speculations appear more real and solid, than when the subject is indifferent to us.
+
+What affects us can never be an illusion. -->
+
+<!-- Our passion is commonly engaged on our self or on society.
 
 We naturally think that morality lies within human comprehension.
 - In other cases of this nature, we are apt to doubt this.
-- Without this advantage, I would have never begun a third volume of such obscure philosophy
+- Without this advantage, I would have never begun a third volume of such obscure philosophy -->
 
 Nothing is ever present to the mind but its perceptions.
 - All the actions of seeing, hearing, judging, loving, hating, and thinking are perceptions.
 - The mind can never exert itself in any action that cannot be called a perception.
-- Consequently, 'perception' is also applicable to our judgments on moral good and evil.
-  - To approve of one character and to condemn another are just different perceptions.
+
+Consequently, 'perception' applies to our moral judgments.
+- Approving one character and condemning another are just different perceptions.
 
 Perceptions resolve themselves into impressions and ideas.
 
-This distinction raises a question:
-- Is it through our ideas or impressions that we:
-  - distinguish between vice and virtue, and
-  - call an action blameable or praiseworthy?
+<!-- This distinction raises a question:
+- Is it through  -->
 
-This will immediately:
+Do we distinguish between good and bad, vice and virtue through our ideas or impressions?
+
+<!-- , and
+  - call an action blameable or praiseworthy? -->
+
+<!-- This will immediately:
 - cut off all loose discourses, and
-- make the present subject more precise.
+- make the present subject more precise. -->
 
-Some think:
-- That virtue is just a conformity to reason,
-- That there are eternal fitness and unfitness of things, which are the same to every rational being, and
-- That the immutable measures of right and wrong impose an obligation on humans and on the Deity himself.
+Some think that:
+- virtue is just a conformity to reason,
+- there are eternal fitness and unfitness of things, which are the same to every rational being, and
+- the immutable measures of right and wrong impose an obligation on humans and on the Deity himself.
 
 All these systems believe that morality, like truth, is discerned merely by:
 - ideas, and
 - their juxtaposition and comparison.
 
-To judge these systems, we only need to consider whether it is possible, from reason alone, to distinguish:
-- between moral good and evil, or
-- whether some other principles must concur to enable us to make that distinction.
+But is it possible, from reason alone, to distinguish between moral good and evil?
 
-If morality naturally had no influence on human passions and actions, it would be in vain to inculcate it.
-- It would be fruitless to have that multitude of rules and precepts from all moralists.
+Or do we distinguish between moral good and evil from other principles?
+
+ <!-- concur to enable us to make that distinction. -->
+
+If morality naturally had no influence on human passions and actions, it would be useless to inculcate it.
+- It would be fruitless to have that many rules and precepts from all moralists.
 
 Philosophy is commonly divided into:
-- speculative, and
-- practical.
+
+1. Speculative
+2. Practical
 
 Morality is always comprehended under practical philosophy.
 
@@ -273,13 +283,15 @@ Morality is supposed to:
 - influence our passions and actions, and
 - go beyond the calm and indolent judgments of the understanding.
 
-Our common experience confirms this by informing us that men are:
+<!-- Our common experience confirms this by informing us  -->
+
+We experience that men are:
 - often governed by their duties,
-- deterred from some actions by the thought of injustice, and
-- impelled to others by the thought of obligation.
+- deterred from unjust actions by the thought of injustice, and
+- impelled to just action by the thought of obligation.
 
 Morals influence our actions and affections.
-- But reason alone can never have any such influence
+- **But reason alone can never have any such influence**
 - Thus, morals cannot be derived from reason.
 
 Morals excite passions and produce or prevent actions.
@@ -287,8 +299,9 @@ Morals excite passions and produce or prevent actions.
 
 Therefore, the rules of morality are not conclusions of our reason.
 
-No one can deny this.
-- This can only be denied by denying its founding principle.
+<!-- No one can deny this. -->
+<!-- - This can only be denied by denying its founding principle. -->
+
 - We cannot say that morality is discovered only by a deduction of reason, as long as reason has no influence on our passions and actions.
 
 An active principle can never be founded on an inactive one.

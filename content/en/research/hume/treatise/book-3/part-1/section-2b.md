@@ -51,7 +51,6 @@ We therefore need to:
 
 ## Three Definitions Of The Word 'Nature'
 
-
 Should we search for these principles in nature?
 - Or must we look for them in some other origin?
 
