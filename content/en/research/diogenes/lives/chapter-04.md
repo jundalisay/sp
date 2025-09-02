@@ -85,10 +85,20 @@ Some, however, attribute this saying to Solon, and others to Xenophon. And Demet
 But Hermippus, in his Lives, says that he was thrown into prison for the purpose of being put to death: but that Pericles came forward and inquired if any one brought any accusation against him respecting his course of life. And as no one alleged anything against him: “I then,” said he, “am his disciple: do not you then be led away by calumnies to put this man to death; but be guided by me, and release him.” And he was released. But, as he was indignant at the insult which had been offered to him, he left the city.
 
 
-But Hieronymus, in the second book of his Miscellaneous Commentaries, says that Pericles produced him before the court, tottering and emaciated by disease, so that he was released rather out of pity, than by any deliberate decision on the merits of his case. And thus much may be said about his trial. Some people have fancied that he was very hostile to Democritus, because he did not succeed in getting admission to him for the purposes of conversation.
+But Hieronymus in book 2 of his Miscellaneous Commentaries says that Pericles produced him before the court.
+- He was tottering and emaciated by disease.
+- He was released out of pity than by any decision on the merits of his case.
+
+Some people think that he was very hostile to Democritus, because he did not succeed in getting admission to him for the purposes of conversation.
 
 
-X. And at last, having gone to Lampsacus, he died in that city. And it is said, that when the governors of the city asked him what he would like to have done for him, he replied, “That they would allow the children to play every year during the month in which he died.” And this custom is kept up even now. And when he was dead, the citizens of Lampsacus buried him with great honours, and wrote this epitaph on him:—
+<sup>10</sup> After having gone to Lampsacus, he died in that city.
+
+And it is said, that when the governors of the city asked him what he would like to have done for him, he replied, “That they would allow the children to play every year during the month in which he died.” 
+
+This custom is kept up even now. And when he was dead, the citizens of Lampsacus buried him with great honours, and wrote this epitaph on him:
+
+
 Here Anaxagoras lies, who reached of truth
 The farthest bounds in heavenly speculations.
 

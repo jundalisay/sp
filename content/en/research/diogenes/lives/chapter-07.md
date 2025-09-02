@@ -14,14 +14,25 @@ tags: ['Pre-Socratics']
 - the son of Eurystratus, a Milesian
 - a pupil of Anaximander
 
-But some say that he was also a pupil of Parmenides.
+Some say that he was also a pupil of Parmenides.
 
-He said that the principles of everything[58] were the air, and the Infinite; and that the stars moved not under the earth, but around the earth. He wrote in the pure unmixed Ionian dialect. And he lived, according to the statements of Apollodorus, in the sixty-third Olympiad, and died about the time of the taking of Sardis.
+He said that:
+- the principles of everything were the air, and the Infinite.
+- the stars moved not under the earth, but around the earth. 
+
+He wrote in the pure unmixed Ionian dialect.
+
+According to Apollodorus, he:
+- lived in the 63rd Olympiad
+- died about the time of the taking of Sardis.
 
 
-II. There were also two other persons of the name of Anaximenes, both citizens of Lampsacus; one an orator and the other a historian, who was the son of the sister of the orator, and who wrote an account of the exploits of Alexander.
+<sup>2</sup> There were 2 other persons named Anaximenes, both citizens of Lampsacus:
+- an orator
+- a historian, who was the son of the sister of the orator, and who wrote an account of the exploits of Alexander.
 
-III. And this philosopher wrote the following letters:—
+
+<sup>3-4</sup> He wrote the following letters:
 
 
 ANAXIMENES TO PYTHAGORAS.
@@ -34,11 +45,14 @@ But we, his pupils will lecture on his principles. At all events, the beginning 
 
 
 
-IV. And again he writes:
+ANAXIMENES TO PYTHAGORAS
 
+You are more prudent. You have migrated from Samos to Crotona, and live there in peace. The descendants of Æacus commit unheard-of crimes. Tyrants oppress the Milesians.
 
-ANAXIMENES TO PYTHAGORAS.
+The king of the Medes too is formidable unless we choose to become tributary to him. 
 
-You are more prudent than we, in that you have migrated from Samos to Crotona, and live there in peace. For the descendants of Æacus commit unheard-of crimes, and tyrants never cease to oppress the Milesians. The king of the Medes too is formidable to us: unless, indeed, we choose to become tributary to him. 
+But the Ionians are on the point of engaging in war with the Medes for universal freedom.
 
-But the Ionians are on the point of engaging in war with the Medes in the cause of universal freedom. For if we remain quiet there is no longer any hope of safety for us. How then can Anaximenes apply his mind to the contemplation of the skies, while he is in perpetual fear of death or slavery? But you are beloved by the people of Crotona, and by all the rest of the Italians; and pupils flock to you, even from Sicily.
+If we remain quiet there is no longer any hope of safety for us. How then can Anaximenes apply his mind to the contemplation of the skies, while he is in perpetual fear of death or slavery? 
+
+But you are beloved by the people of Crotona, and by all the rest of the Italians; and pupils flock to you, even from Sicily.

@@ -28,17 +28,33 @@ His principal doctrines were:
 He was the first to spoke of atoms as principles.
 
 
-<sup>3</sup> He says that  one part is a plenum, and the other a vacuum.
+<sup>3</sup> He says that one part is a plenum, and the other a vacuum.
 
 The elements, and the worlds which are derived from them, are infinite, and are dissolved again into them.
 
-The worlds are produced in this way: That many bodies, of various kinds and shapes, are borne by amputation from the infinite, into a vast vacuum.
+The worlds are produced in this way: many bodies, of various kinds and shapes, are separated from the infinite, into a vast vacuum.
 
-They are then collected together, produce one vortex; according to which they, dashing against one another, and whirling about in every direction, are separated in such a way that like attaches itself to like.
+They are then collected together, produce one vortex.
 
-But as they are all of equal weight, when by reason of their number they are no longer able to whirl about, the thin ones depart into the outer vacuum, as if they bounded through, and the others remain behind, and becoming entangled with one another, run together, and produce a sort of spherical shaped figure.
+This makes them dash against one another, and whirling around in every direction.
 
-This subsists as a kind of membrane, containing within itself bodies of every kind; and as these are whirled about so as to revolve according to the resistance of the centre, the circumambient membrane becomes thin, since bodies are without ceasing, uniting according to the impulse given by the vortex; and in this way the earth is produced, since these bodies which have once been brought to the centre remain there.
+This separates them so that like attaches to like.
+
+The soon stop spinning because:
+- they are all of equal weight
+- they are so plentiful
+
+The thin ones depart into the outer vacuum, as if they bounded through.
+
+The others remain behind, becoming entangled with one another. 
+
+They run together and produce a spherical shape.
+
+This subsists as a kind of membrane, containing within itself bodies of every kind.
+
+These whirl around, revolving according to the resistance of the centre.
+
+ the circumambient membrane becomes thin, since bodies are without ceasing, uniting according to the impulse given by the vortex; and in this way the earth is produced, since these bodies which have once been brought to the centre remain there.
 
 On the other side, there is produced another enveloping membrane which increases incessantly by the accretion of exterior bodies.
 

@@ -28,7 +28,7 @@ Do you believe:
 - in al-Lat, al-Uzza, Manat, the third one the other [Shiva, Shakti, Brahma?]
 - that Enki is female [Shakti] and you are males [Shiva]?*
 
-{< n n="The Vedas are from Enlil Followers" >}
+{{< n n="Here, the Anunnaki faction represented by Allah counter the natural system of spirituality to impose their own" >}}
 
 
 {{< s v="22" >}} How absurd. 
@@ -40,6 +40,7 @@ These are nothing but names, which your ancestors devised. They:
 
 
 {{< s v="24" >}} Do humans believe whatever he wants?
+
 - {{< s v="27" >}} Those who do not believe in the Hereafter assign female names to the angels. But they are ignorant. 
 - {{< s v="28" >}} Avoid those who have:
   - turned away from Our remembrance, and
@@ -52,9 +53,11 @@ These are nothing but names, which your ancestors devised. They:
 {{< s v="42-62" >}}
 Enki:
 - is the finality
-- created the two kinds—the male and the female from a sperm drop, when emitted.
-- is the Lord of Sirius.
+- created the 2 kinds—the male and the female from a sperm drop, when emitted.
+- is the Lord of Sirius*
 - destroyed:
   - the first people of Aad and Thamood, sparing no one.
   - the people of Noah before that for they were most unjust and most oppressive.
+
+{{< n n="This shows that the Anunnaki faction who represent Allah are anti-Sirius and anti-Nature (probably siding with the domineering Regulus vibration)" >}}
 

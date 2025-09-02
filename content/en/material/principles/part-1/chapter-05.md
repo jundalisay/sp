@@ -85,8 +85,8 @@ Intuitional detection of the aether is explained by Bio Superphysics.
 
 This will be done in Material Superphysics through Qualimath.
 
-{{< q a="Leibniz" >}}
-Monads must have some qualities otherwise they would not be beings at all.. Every monad is necessarily different from every other monad.
+{{< q a="Leibniz" c="Monadology, Part 1">}}
+Monads must have some qualities otherwise they would not be beings at all.. Every monad is necessarily different from every other monad.. Created monads have within themselves a certain perfection and self-sufficiency which makes them the source of their internal actions and incorporeal automata.
 {{< /q >}}
 
 
@@ -107,8 +107,6 @@ Newton's Gravity is therefore `Do-Do` and `Do-Sol`.
 Einstein's Special Relativity is `Mi-Mi` and `Mi-Re`. 
 
 General Relativity is `Mi-Do` and `Mi-Sol`.
-
-
 
 Identities are created as an effect of the Negative Force splitting up waves into discrete quanta.
 
