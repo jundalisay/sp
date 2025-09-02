@@ -15,9 +15,12 @@ icon: "David Hume"
 ## The Stability of Possession
 
 The establishment of the rule on the stability of possession is useful and absolutely necessary to human society.
-        But it can never serve to any purpose while it remains in such general terms.
-    Some method must be shown how to distinguish what goods are to be assigned to each person, while the rest of mankind are excluded from them.
-        We must then discover why this general rule is modified to the common use and practice of the world.
+
+But it can never serve to any purpose while it remains in such general terms.
+
+Some method must be shown how to distinguish what goods are to be assigned to each person, while the rest of mankind are excluded from them.
+
+We must then discover why this general rule is modified to the common use and practice of the world.
 
 Those reasons are not derived from any utility which the person or the public may reap from the enjoyment of those goods, beyond the utility from their possession by another person.
 
@@ -44,37 +47,37 @@ This rule is not applied by particular judgments, but by other general rules whi
 To illustrate this, I consider men in their savage and solitary condition.
 
 I suppose:
-            that they are sensible of their misery,
-            that foreseeing the advantages of society, they seek each other's company and offer mutual protection and assistance, and
-            that they can perceive that the chief impediment to this partnership is in the selfishness of their natural temper.
+that they are sensible of their misery,
+that foreseeing the advantages of society, they seek each other's company and offer mutual protection and assistance, and
+that they can perceive that the chief impediment to this partnership is in the selfishness of their natural temper.
 
 To remedy this, they enter into a convention for:
-            the stability of possession, and
-            mutual restraint.
+the stability of possession, and
+mutual restraint.
 
 I know that this method of proceeding is unnatural.
         In reality, this progress is slow and insensible.
         It is very possible that persons separated from their original societies might form a new society among themselves.
             In such a case, they are entirely in the situation above-mentioned.
 
-    Their first difficulty would be how to:
-        separate their possessions, and
-        assign to each person his portion.
-    It must immediately occur to them that the most natural expedient is:
-        for everyone to continue to enjoy what each currently possesses, and
-        for property or constant possession be conjoined to the immediate possession.
-    Such is the effect of custom, that it:
-        reconciles us to anything we have long enjoyed,
-        even gives us an affection for it, and
-        makes us prefer it to other objects more valuable but less known to us.
-    We are always most unwilling to part with what has:
-        long lain under our eye, and
-        often been used to our advantage.
-    We can easily live without possessions which we:
-        have never enjoyed, and
-        are not accustomed to.
-    Men would easily acquiesce in everyone continuing to enjoy what they presently have.
-        This is why they would so naturally agree in preferring it.15
+Their first difficulty would be how to:
+    separate their possessions, and
+    assign to each person his portion.
+It must immediately occur to them that the most natural expedient is:
+    for everyone to continue to enjoy what each currently possesses, and
+    for property or constant possession be conjoined to the immediate possession.
+Such is the effect of custom, that it:
+    reconciles us to anything we have long enjoyed,
+    even gives us an affection for it, and
+    makes us prefer it to other objects more valuable but less known to us.
+We are always most unwilling to part with what has:
+    long lain under our eye, and
+    often been used to our advantage.
+We can easily live without possessions which we:
+    have never enjoyed, and
+    are not accustomed to.
+Men would easily acquiesce in everyone continuing to enjoy what they presently have.
+    This is why they would so naturally agree in preferring it.15
 
 
 {{< box >}}
@@ -103,15 +106,16 @@ When two objects appear closely related to each other, the mind is apt to ascrib
             already united in the imagination.
 
 We can feign a new relation, even an absurd one, to complete any union.
-        Any relations which depend on the mind, will:
-            be readily conjoined to any preceding relation, and
-            be united, by a new bond, with objects that are already united in the fancy.
-        In our arrangement of bodies, we never fail to place those which are resembling in contiguity:
-            to each other, or
-            at least in correspondent points of view.
-        Because we feel a satisfaction in joining:
-            the relation of contiguity to the relation of resemblance, or
-            the resemblance of situation to the resemblance of qualities.
+
+Any relations which depend on the mind, will:
+    be readily conjoined to any preceding relation, and
+    be united, by a new bond, with objects that are already united in the fancy.
+In our arrangement of bodies, we never fail to place those which are resembling in contiguity:
+    to each other, or
+    at least in correspondent points of view.
+Because we feel a satisfaction in joining:
+    the relation of contiguity to the relation of resemblance, or
+    the resemblance of situation to the resemblance of qualities.
 
 This is easily accounted for from the known properties of human nature.
         When the mind is determined to join certain objects, but undetermined in its choice of the particular objects, it naturally turns its eye to those that are related.

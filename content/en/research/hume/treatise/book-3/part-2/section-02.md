@@ -25,8 +25,10 @@ At first sight, nature seems to have been most cruel to man of all animals, in:
 - the slender means which she affords to relieve these needs.
 
 In other creatures, these two concerns generally compensate each other.
-        A lion is a voracious animal which has many needs.
-            But we see that its make, temper, agility, courage, arms, and force are proportional to his wants.
+
+A lion is a voracious animal which has many needs.
+
+But we see that its make, temper, agility, courage, arms, and force are proportional to his wants.
         The sheep and ox do not have the lion's advantages.
             But their appetites are moderate and their food is easy to get.
 
@@ -75,22 +77,26 @@ This unites them and preserves their union until a new tie takes place in their 
             It makes them sensible of their advantages from society.
             It gradually fashions them for it by rubbing off those rough corners and untoward affections which prevent their coalition.
 
-    No matter how necessary a union is for human nature and no matter how lust and natural affection render a union unavoidable, there are other particulars in our natural temper and outward circumstances which are:
+No matter how necessary a union is for human nature and no matter how lust and natural affection render a union unavoidable, there are other particulars in our natural temper and outward circumstances which are:
         very incommodious, and
         even contrary to the needed conjunction.
-    Our selfishness is the most considerable factor.
+
+Our selfishness is the most considerable factor.
         I know:
             that my representation of selfishness here has been carried too far, and
             that certain philosophers describe mankind's selfishness as monsters.
-    Regarding selfishness, I think that it is rare to meet a person who loves anyone better than himself.
+
+Regarding selfishness, I think that it is rare to meet a person who loves anyone better than himself.
         Yet it is as rare to meet with a person whose affections, taken together, do not overbalance all the selfish ones.
-    Consult common experience.
-        The master directs the whole family expences.
-        But there are few who do not bestow most of their fortunes on:
-            the pleasures of their wives, and
-            the education of their children, reserving the smallest portion for their own proper use and entertainment.
-        We can observe this on those who have such endearing ties.
-        We may presume that the case would be the same with others, if they were placed in a like situation.
+
+Consult common experience.
+
+The master directs the whole family expences.
+But there are few who do not bestow most of their fortunes on:
+    the pleasures of their wives, and
+    the education of their children, reserving the smallest portion for their own proper use and entertainment.
+We can observe this on those who have such endearing ties.
+We may presume that the case would be the same with others, if they were placed in a like situation.
 
 This generosity must be acknowledged to the honour of human nature.
         But we may also remark that so noble an affection, instead of fitting men for large societies, is almost as contrary to them as the most narrow selfishness.
