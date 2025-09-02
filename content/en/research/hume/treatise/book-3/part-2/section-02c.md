@@ -52,17 +52,20 @@ The convention for the distinction of property and for the stability of possessi
         After the agreement for this rule, little or nothing remains to be done towards settling a perfect harmony and concord.
 
 All the other passions, besides this of interest, are easily restrained or are not of such pernicious consequence, when indulged.
-        Vanity, pity, and love are esteemed as:
-            social passions, and
-            bonds of union among men.
-        Envy and revenge are pernicious.
-            But they operate only by intervals and are directed against our superiors or enemies.
-    This avidity alone, of acquiring goods and possessions for ourselves and our nearest friends, is insatiable, perpetual, universal, and directly destructive of society.
-        Everyone is actuated by it.
-        Everyone has has a reason to fear it when it:
-            acts unrestrained, and
-            gives way to its first and most natural movements.
-    The difficulties in the establishment of society depend on the difficulties in regulating and restraining this avidity.
+
+Vanity, pity, and love are esteemed as:
+        social passions, and
+        bonds of union among men.
+
+Envy and revenge are pernicious.
+        But they operate only by intervals and are directed against our superiors or enemies.
+
+This avidity alone, of acquiring goods and possessions for ourselves and our nearest friends, is insatiable, perpetual, universal, and directly destructive of society.
+    Everyone is actuated by it.
+    Everyone has has a reason to fear it when it:
+        acts unrestrained, and
+        gives way to its first and most natural movements.
+The difficulties in the establishment of society depend on the difficulties in regulating and restraining this avidity.
 
 
 

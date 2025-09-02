@@ -23,47 +23,62 @@ Truth or falsehood consists in an agreement or disagreement to:
 - the real relations of ideas, or
 - real existence and matter of fact.
 
-Therefore, whatever is not susceptible of this agreement or disagreement:
+<!-- Therefore, whatever is not susceptible of this agreement or disagreement:
 - is incapable of being true or false, and
-- can never be an object of our reason.
+- can never be an object of our reason. -->
 
-Our passions, volitions, and actions, are not susceptible of any such agreement or disagreement.
+But our passions, volitions, and actions are already real. They are:
+- complete in themselves
+- imply no reference to other passions, volitions, and actions
+
+<!-- , are not susceptible of any such agreement or disagreement.
 
 They are original facts and realities that:
-- are complete in themselves, and
-- imply no reference to other passions, volitions, and actions.
+- are , and -->
+- .
 
-Therefore, it is impossible they can be:
-- true or false, and
-- contrary or conformable to reason.
+Therefore, they cannot be:
+- true or false
+- contrary or conformable to reason
 
-This argument has a double advantage to our present purpose.
+<!-- it is impossible they can be:
+- true or false, and -->
 
-It directly proves that actions do not derive their:
+<!-- This  argument has a double advantage to our present purpose.
+
+It directly -->
+
+This proves that the morality or immorality of actions are not based on reason.
+
+<!--  do not derive their:
 - merit from a conformity to reason, nor
-- blame from a contrariety to reason.
+- blame from a contrariety to reason. -->
 
-It proves the same truth more indirectly.
+<!-- It proves the same truth more indirectly. -->
 
-It shows us that reason:
+<!-- It follows that reason:
 - can never immediately prevent or produce any action by contradicting or approving of it, and
 - cannot be the source of moral good and evil which have that influence.
+ laudable or blameable, -->
 
-Actions may be laudable or blameable, but they cannot be reasonable.
+Actions may be good or bad, but they cannot be reasonable.
 
-Therefore, laudable or blameable are not the same with reasonable or unreasonable.
+Therefore, good or bad are not the same with reasonable or unreasonable.
 
-The merit and demerit of actions frequently contradict and sometimes control our natural propensities.
-- But reason has no such influence.
-- Moral distinctions, therefore, are not the offspring of reason.
+<!-- merit and demerit -->
+The morality or immorality of actions frequently contradict and sometimes control our natural propensities.
+
+But reason has no such influence.
+
+**Moral distinctions, therefore, are not the offspring of reason.**
 
 Reason is wholly inactive.
 - It can never be the source of so active a principle as conscience, or a sense of morals.
 
 
-No will or action can immediately be contradictory to reason.
+No willpower or action can immediately be contradictory to reason.
 
-But a contradiction may be:
+But a contradiction happens:
 - in some of the attendants of the action, or
 - in its causes or effects.
 
@@ -73,14 +88,15 @@ The action may:
 
 The same contrariety may be ascribed to the action, on that account.
 
-We will now consider how far this truth or falsehood may be the source of morals.
+How far can this truth or falsehood be the source of morals?
 
 
 ## Moral judgments
 
-In a strict and philosophical sense, reason can influence our conduct only in two ways:
-- When it excites a passion by informing us of the existence of its proper object, or
-- When it discovers the connection of causes and effects, so as to afford us means of exerting any passion
+In a strict and philosophical sense, reason can influence our conduct only in 2 ways:
+
+1. When it excites a passion by informing us of the existence of its proper object, or
+2. When it discovers the connection of causes and effects, so as to afford us means of exerting any passion
 
 These are the only kinds of judgment which can:
 - accompany our actions, or
@@ -110,8 +126,8 @@ I am more to be lamented than blamed:
 
 No one can ever regard such errors as a defect in my moral character.
 
-I see a fruit that is really not delicious.
 
+I see a fruit that is really not delicious.
 
 I fancy it to be delicious by mistake.
 - This is my first error.
@@ -151,16 +167,19 @@ Therefore, a mistake of right may become a kind of immorality. But it is:
 
 Our actions never cause any true or false judgment in ourselves.
 
-    Our actions only have such an influence on others.
+Our actions only have such an influence on others.
 
-    Thus on many occasions, an action may create false conclusions in others.
-        A person who sees my lewd behaviour with my neighbour's wife, might be so simple as to imagine that she is my own wife.
-            My action resembles a lie, except that I do not do it intending to create a false judgment.
-            I do it merely to satisfy my lust and passion.
-            However, it causes a mistake and false judgment by accident.
-                The falsehood of its effects may be ascribed to the action itself.
+Thus on many occasions, an action may create false conclusions in others.
 
-    But I still do not see why the tendency to cause such an error is the original source of all immorality.12
+A person who sees my lewd behaviour with my neighbour's wife, might be so simple as to imagine that she is my own wife.
+
+My action resembles a lie, except that I do not do it intending to create a false judgment.
+- I do it merely to satisfy my lust and passion.
+- However, it causes a mistake and false judgment by accident.
+
+The falsehood of its effects may be ascribed to the action itself.
+
+But I still do not see why the tendency to cause such an error is the original source of all immorality.12
 
 
 {{< box >}}

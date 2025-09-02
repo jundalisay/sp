@@ -17,16 +17,22 @@ Vice and virtue are not discoverable merely by reason, or the comparison of idea
 
 They are created by some impression or sentiment that enables us to differentiate them.
 
-        Our decisions on moral rectitude and depravity are perceptions.
-        All perceptions are either impressions or ideas.
-            The exclusion of the one is a convincing argument for the other.
+
+<!-- Our decisions on moral rectitude and depravity are perceptions.
+
+All perceptions are either impressions or ideas.
+
+The exclusion of the one is a convincing argument for the other.
 
 Morality, therefore, is more properly felt than judged of.
-        This feeling or sentiment is commonly so soft and gentle.
-        We usually confound this feeling with an idea, because of our custom of taking all resembling things as the same.
+
+This feeling or sentiment is commonly so soft and gentle.
+
+We usually confound this feeling with an idea, because of our custom of taking all resembling things as the same.
 
 What is the nature of these impressions?
-        How do they operate on us?
+
+How do they operate on us?
 
 We must pronounce the impression arising:
 - from virtue to be agreeable, and
@@ -39,7 +45,9 @@ A noble and generous action is most fair and beautiful.
     A very play or romance may give us instances of:
         pleasure conveyed by virtue, and
         pain arising from vice.
->>>>>>> 460d6a8d8dd30e0687e8eef9ec9b29653f2e3886
+
+-->
+
 
 Our decisions on moral rectitude and depravity are perceptions.
 
@@ -81,16 +89,24 @@ These will satisfy us why the character is laudable or blamable.
 Why is an action, sentiment, or character virtuous or vicious?
 
 Because its view causes a kind of pleasure or uneasiness.
-        We can explain the vice or virtue by giving a reason for the pleasure or uneasiness.
-        Having the sense of virtue is nothing but to feel a kind of satisfaction from the contemplation of a character.
+
+We can explain the vice or virtue by giving a reason for the pleasure or uneasiness.
+
+Having the sense of virtue is nothing but to feel a kind of satisfaction from the contemplation of a character.
 
 The very feeling constitutes our praise or admiration.
-            We do not go further.
-            We do not inquire into the cause of the satisfaction.
-            We do not infer a character to be virtuous, because it pleases.
-            We feel that it is virtuous, from feeling that it pleases in a particular way.
+            
+We do not go further.
+
+We do not inquire into the cause of the satisfaction.
+
+We do not infer a character to be virtuous, because it pleases.
+
+We feel that it is virtuous, from feeling that it pleases in a particular way.
+
 The case is the same as in our judgments on all kinds of beauty, tastes, and sensations.
-        Our approbation is implied in the immediate pleasure they convey to us.
+
+Our approbation is implied in the immediate pleasure they convey to us.
 
 
 I am against the system which establishes eternal rational measures of right and wrong because it is impossible to show any relations in the actions of reasonable creatures which are not found in external objects.
@@ -122,23 +138,34 @@ Similarly, an inanimate object and a person's character or sentiments may give s
   - makes us ascribe virtue to the one and not to the other.
 
 Every pleasure or pain arising from characters and actions, of that peculiar kind, does not make us praise or condemn.
-            An enemy's good qualities are hurtful to us.
-            But it may still command our esteem and respect.
-        A feeling or sentiment of morally good or evil is created only when a character is considered in general, without reference to our particular interest.
-            Those sentiments from interest and morals:
-                are apt to be confounded, and
-                naturally run into one another.
-        We often think of an enemy as vicious.
-            We can distinguish between his opposition to our interest and his real baseness.
-            The sentiments are distinct in themselves.
-            A man of temper and judgment can protect himself from these illusions.
-        Similarly, a musical voice is nothing but one that naturally gives a kind of pleasure.
-            Yet it is difficult for a man to know if an enemy's voice is agreeable or musical.
-            But a person of a fine ear, who has the command of himself, can:
-                separate these feelings, and
-                give praise to what deserves it.
 
-<<<<<<< HEAD
+An enemy's good qualities are hurtful to us.
+
+But it may still command our esteem and respect.
+
+A feeling or sentiment of morally good or evil is created only when a character is considered in general, without reference to our particular interest.
+
+Those sentiments from interest and morals:
+- are apt to be confounded, and
+- naturally run into one another.
+
+We often think of an enemy as vicious.
+
+We can distinguish between his opposition to our interest and his real baseness.
+
+The sentiments are distinct in themselves.
+
+A man of temper and judgment can protect himself from these illusions.
+
+Similarly, a musical voice is nothing but one that naturally gives a kind of pleasure.
+
+Yet it is difficult for a man to know if an enemy's voice is agreeable or musical.
+
+But a person of a fine ear, who has the command of himself, can:
+- separate these feelings, and
+- give praise to what deserves it.
+
+<!-- <<<<<<< HEAD
 =======
         In the preceding system of the passions in Book 2, we remarked a more considerable difference among our pains and pleasures.
         Pride and humility, love and hatred are excited when anything presented to us:
@@ -233,3 +260,4 @@ In the following discourse, 'natural' is also opposed sometimes to civil, someti
 
 The opposition will always discover the sense it is taken in.
 >>>>>>> 460d6a8d8dd30e0687e8eef9ec9b29653f2e3886
+ -->
