@@ -1,113 +1,133 @@
 ---
-title: Import Taxes and Fees
-heading: Chapter 2c
-weight: 10
+title: The General Rights of Things
+heading: Chapter 2b
+weight: 8
 c: "seagreen"
 description: 
-author: "Hugo Grotius"
+writer:
+  name: Hugo Grotius
+  url: https://en.wikipedia.org/wiki/Hugo_Grotius
 icon: "Hugo Grotius"
 ---
 
 
-## Part 12:  
-
-Upon the principles already established, a river, as such, is the property of that people, or of the sovereign of that people, through whose territories it flows. He may form quays, and buttresses upon that river, and to him all the produce of it belongs. But the same river, as a running water, still remains common to all to draw or drink it. Ovid introduces Latona thus addressing the Lydians, "Why do you refuse water, the use of which is common?" where he calls water a public gift that is95 common to men, taking the word public in a more general sense than as applied to any PEOPLE, a meaning in which some things are said to be public by the law of nations. And in the same sense Virgil has asserted water to be free and open to all men.
-
-13:  
-
-It is upon the same foundation of common right, that a free passage through countries, rivers, or over any part of the sea, which belongs to some particular people, ought to be allowed to those, who require it for the necessary occasions of life; whether those occasions be in quest of settlements, after being driven from their own country, or to trade with a remote nation, or to recover by just war their lost possessions. The same reason prevails here as in the cases above named. 
-
-Because property was originally introduced with a reservation of that use, which might be of general benefit, and not prejudicial to the interest of the owner: an intention evidently entertained by those, who first devised the separation of the bounteous gifts of the creator into private possessions. 
-
-There is a remarkable instance of this in the Mosaic history, when the leader of the children of Israel required a free passage for that people, promising to the King of Edom, and to the King of the Amorites, that he would go by the highway, without setting a foot upon the soil of private possessions, and that the people should pay the price of everything, which they might have occasion to use. Upon these equitable terms being rejected, Moses was justified in making war upon the Amorites. Because, says Augustin, an inoffensive passage, a right interwoven with the very frame of human society, was refused. The Greeks under the command of Clearchus, said, "we are upon the way to our home, if no one interrupt us; but every attempt to molest us, we are, with the assistance of heaven, determined to avenge."
-
-Not unlike this answer of the soldiers under Clearchus is the question put to the different nations of Thrace by Agesilaus, who desired to know whether they wished him to pass through their country as a friend, or as an enemy. 
-
-When the Boeotians hesitated upon some propositions made to them by Lysander, he asked them whether they intended that he should pass with erected or inclined spears, meaning by the expression in a hostile or a quiet manner. We are informed by Tacitus, that the Batavians, as soon as they came near the camp at Bonn, sent a message to Herennius Gallus, importing that "they had96 no hostile design; that if not obstructed, they would march in a peaceable manner; but if they met with opposition they would cut their way sword in hand." 
-
-When Cimon in carrying supplies to the Lacedaemonians, had marched with his troops through some part of the Corinthian district, the Corinthians expostulated upon his conduct as a violation of their territory, because he had done it without asking their leave, at the same time observing, that no one knocks at another man's door, or presumes to enter the house without obtaining the master's leave. To whom he replied, you never knocked at the gates of Cleone and Megara, but broke them down, believing, I suppose, that no right ought to withstand the force of the mighty.
-
-Now between these two extremes there is a middle course, requiring a free passage to be first asked; the refusal of which will justify the application of force. Thus Agesilaus in his return from Asia when he had asked a passage of the King of the Macedonians, who answered that he would consider of it, said, you may consider, if you please, but we shall pass in the mean time.
-
-The fears, which any power entertains from a multitude in arms passing through its territories, do not form such an exception as can do away the rule already laid down. For it is not proper or reasonable that the fears of one party should destroy the rights of another. Especially, as necessary precautions and securities may be used, such as those, for instance, of requiring that the troops shall pass without arms, or in small bodies; a promise which the Agrippinians made to the Germans. 
-
-Strabo says that the practice still prevails in the country of the Eleans. 
-
-Another security may be found in providing garrisons at the expense of the party, to whom the passage is granted; or in giving hostages; the condition, which Seleucus demanded of Demetrius, for permitting him to remain within his territories. Nor is the fear of offending that power, which is the object of attack, a sufficient pretext for refusing the passage of the troops to the state that is engaged in a just war. Nor is it a proper reason to assign for a refusal, to say that another passage may be found; as every other power might allege the same, and by this means the right of passage would be entirely defeated. The request of a passage therefore, by the nearest and most commodious way, without doing injury and mischief,97 is a sufficient ground upon which it should be granted. It alters the case entirely, if the party making the request is engaged in unjust war, and is marching with the troops of a power hostile to the sovereign of that territory; for in this instance, a passage may be refused. For the sovereign has a right to attack that power in his own territory, and to oppose its march.
-
-Now a free passage ought to be allowed not only to persons, but to merchandise. For no power has a right to prevent one nation from trading with another at a remote distance; a permission which for the interest of society should be maintained. Nor can it be said that any one is injured by it. For though he may be thereby deprived of an exclusive gain, yet the loss of what is not his due, as a MATTER OF RIGHT, can never be considered as a damage or the violation of a claim.
+## Part 6: The right to the common use of things, already appropriated
 
 
-## 14. Tolls 
+The establishment of property has absorbed every right that sprung from common ownership.
+ <!-- a state of things held in common.  -->
+- This crates some inconsistency.
+<!-- But this is by no means the case.  -->
 
-Can the sovereign of the country impose duties on goods carried by land, or upon a river or upon any part of the sea, which may form an accession to his dominions? 
+What was the intention of those who introduced private property?
 
-It is unjust for any burdens foreign to the nature of trade to be imposed upon such goods. 
+<!-- It was but reasonable to suppose, that in making this introduction of property, they would depart as little as possible from the original principles of   -->
 
-Thus, foreigners merely passing through a country would have no right to pay a poll-tax, imposed to support the exigencies of the state. 
+It was for natural equity.
 
-But if the sovereign incurs expence by providing security and protection to trade, he has a right to reimburse himself by the imposition of moderate and reasonable duties. 
+Written laws were supposed to match laws of nature.
 
-It is the REASONABLENESS of them, which constitutes the justice of customs and taxes. Thus Solomon received tolls for horses and linen that passed over the Isthmus of Syria. 
+This would create laws with few literal restrictions of written maxims. 
 
-Pliny says that imported frankincense had to pass through the Gebanites, a duty upon it was paid to their king. 
+ <!-- are to be construed in a sense, approaching as nearly as possible to the , much more so are those customs which are not fettered with the  -->
 
-In the same way, Strabo tells us <!-- in his fourth book, --> the people of Marseilles derived great wealth from the canal which Marius built from the Rhone to the sea. This earned tribute from all that sailed on it.
+This means that in cases of extreme necessity, the original right of using things in common must be revived.
 
-In his eighth book, Strabo tells that the Corinthians imposed a duty upon all goods, which, to avoid the dangerous passage of Cape Malea, were transported by land from sea to sea. 
+This is because the case of extreme necessity creates an exception in all human laws.
 
-The Romans too made the passage of the Rhine a source of tribute, and Seneca relates that a toll was paid for going over bridges.98 
+This principle is why:
+- when food becomes scarce during a ship's voyage, personal food stocks should be used for common consumption.
+- a neighbouring house may be pulled down to stop the progress of a fire
+- the cables or nets that entangle a ship may be cut if it cannot otherwise be disengaged
 
-The works of legal writers abound in instances of this kind. But it frequently happens that extortion is practised in these matters, which Strabo forms into a subject of complaint against chiefs of the Arabian tribes, concluding that it would be unlikely for men of that lawless kind to impose upon the goods of merchants any duties that were not oppressive.
+These are not from civil law, but from **the rules of natural equity**.
 
-XV. Those going with merchandise or only passing through a country, ought to be allowed to reside there for a time, if the recovery of health, or any other just cause should render such residence necessary. For these may be reckoned among the innocent uses of our right. 
+Theologians believe that if in urgent distress, anyone can steal what is absolutely necessary to stay alive. 
+- The act shall not be deemed a theft.
+- This rule is not founded on the law of charity, as some allege. 
 
-Thus Ilioneus in Virgil calls heaven to witness the injustice of the Africans in driving him and his shipwrecked companions from the hospitable use of the shore, and we are informed by Plutarch in his life of Pericles that all the Grecians approved of the complaint, which the Megarensians made against the Athenians, who had prohibited them from setting foot upon the soil of their territories, or carrying a vessel into their harbours. So the Lacedaemonians regarded this as the most sufficient grounds to justify the war.
+The law of charity obliges every possessor to use some of his wealth to relieve the needy. 
+- This rule is based on the original division of lands among private owners, which was made with a reservation in favour of the primitive rights of nature. 
 
-From hence results the right of erecting a temporary hut, upon the shore, although, for instance, the same shore is allowed to be the property of the people of that place. For what Pomponius says of its being necessary to obtain the Praetor's leave, before a building can be raised upon the public shore, relates to structures of a permanent kind, when the massy piles of stone, as the Poet says, encroach upon the sea, and the affrighted fish feel their waves contracted.
+<!-- For if those who at first made the division had been asked their opinion upon this point, they would have given the same reason that has just been advanced. -->
 
-XVI. Nor ought a permanent residence to be refused to foreigners, who, driven from their own country, seek a place or refuge. But then it is only upon condition that they submit to the established laws of the place, and avoid every occasion of exciting tumult and sedition. A reasonable rule, which the divine poet has observed, when he introduces Aeneas making an offer that Latinus, who had become his father-in-law, should retain all military and civil power. And in Dionysius of Halicarnassus, Latinus admits the proposal of Aeneas to be just; as he came through necessity in quest of a settlement. To drive away refugees, says Strabo, from Eratosthenes, is acting like barbarians; and a conduct like this in the99 Spartans was also condemned. St. Ambrose passes the same sentence of condemnation upon those powers, who refuse all admission to strangers. Yet settlers of this description have no right to demand a share in the government. A proposal of this kind made by the Minyae to the Lacedaemonians, who had received them, is very properly considered by Herodotus as insolent, and unreasonable.
+Seneca says that necessity:
+- is the great protectress of human infirmity
+- breaks through all human laws and regulations
+
+Cicero in his eleventh Philippic says that Cassius went into Syria.
+- It would be considered as invasion of another province from the perspective of written laws
+- But if these were abolished, from the law of nature it would be not. 
+
+<!-- In the sixth book and fourth chapter of Quintus Curtius, we find an observation, that in a common calamity every man looks to himself. -->
 
 
-## 17: 
+## Part 7
 
-It is indeed but an act of common humanity in a sovereign to allow strangers, at their request, liberty to fix their residence upon any waste or barren lands within his dominions, still reserving to himself all the rights of sovereignty. Seven hundred acres of barren and uncultivated land, as Servius observes, were given by the native Latins to the Trojans. Dion Prusaeensis, in his seventh oration, says, that they commit no crime of trespass, who take upon them to cultivate waste lands. The refusal of this privilege made the Ansibarians exclaim, "the firmament over our heads is the mansion of the deity: the earth was given to man; and what remains unoccupied, lies in common to all." Yet that complaint did not apply exactly to their case. For those lands could not be called unoccupied, as they served to supply the Roman army with forage for their cattle, which certainly furnished the Romans with a just pretext for refusing to grant their request. And with no less propriety the Romans asked the Galli Senones if it were right to demand lands already possessed, and to threaten to take them by force.
+This idea must have precautions and restrictions to prevent it from degenerating into licentiousness. 
+
+### Precaution 1: The distressed party should try every mode of obtaining relief by:
+- an appeal to a magistrate, or
+- trying the effect of entreaty to prevail upon the owner to grant what is necessary for his pressing occasions.93 
+
+Plato allows anyone to seek water from his neighbour's well after having dug to a certain depth in his own without effect. 
+
+Solon limits the depth to 40 cubits. Plutarch remarks that he intended by this to relieve necessity and difficulty, but not to encourage sloth.
+
+Xenophon in his answer to the Sinopians, in the fifth book of the expedition of Cyrus, says, "wherever we come, whether into a barbarous country or into any part of Greece, and find the people unwilling to afford us supplies, we take them, not through motives of wantonness, but from the compulsion of necessity."
 
 
-## 18.
+## Part 8
 
-Since the COMMON RIGHT TO THINGS has been established, the COMMON RIGHT TO ACTIONS follows next in order, and this right is either absolute, or established by the supposition of a general agreement amongst mankind. Now all men have absolutely a right to do such or such acts as are necessary to provide whatever is essential to the existence or convenience of life. 
+### Precaution 2: This plea of necessity cannot be admitted, where the possessor is in an equal state of necessity himself. 
 
-Convenience is included in this right; for there is no occasion here to imagine an existence of the same necessity as was requisite to authorize the seizing of another's property. 
+For under equal circumstances the owner has a better right to the use of his possessions. 
 
-Because the point of discussion here is not whether any act is done AGAINST THE WILL of an owner, but whether we acquire what is necessary for our wants ACCORDING TO THE TERMS to which the owner has agreed.19100 Supposing there is nothing illegal in the contract, nor any wilful intention on his part to make it null and void. For any impediment created by the owner in such transactions, is repugnant to the very principles of natural justice, which suppose an equality of upright dealing to subsist in both the parties concerned. 
+Though Lactantius maintains that it is no mark of folly to forbear thrusting another from the same plank in a shipwreck in order to save yourself. Because you have thereby avoided hurting another: a sin which is certainly a proof of wisdom to abstain from. 
 
-St. Ambrose calls a fraudulent conduct of that kind, an attempt to deprive men of their share in the goods of a common parent, to withhold the productions of nature which are the birthright of all, and to destroy that commerce which is the very support of life. For we are not treating of superfluities and luxuries, but of those things, which are essential to life, as physic, food and cloathing.
+Cicero, in book 3 of his offices, asks:
 
-## 19. 
+{{< r a="Cicero" >}}
+Does a wise man, in danger of perishing with hunger, have a right to take the food of a useless man? 
+{{< /r >}}
 
-It follows that all men have a right to purchase the necessaries of life at a reasonable price, except the owners want them for their own use. Thus in a great scarcity of corn, there would be no injustice in their refusing to sell. And yet in such a time of necessity foreigners, who have been once admitted, cannot be driven away; but as St. Ambrose shews in the passage already quoted, a common evil must be borne by all alike.
+{{< l a="Cicero" >}}
+No. No life is so important as to authorize the violation of that general rule of forbearance that secures the peace and safety of every individual.
+{{< /l >}}
 
-## 20. 
 
-Owners have not the same right in the sale of their goods: for others are at full liberty to determine whether they will purchase certain articles or not. The ancient Belgians, for instance, allowed not wines and other foreign merchandise to be imported among them. The same rule, we are informed by Strabo, was practised by the Nabathaean Arabians.
+## Part 9
 
-## 21.
+### Precaution 3: The party thus supplying his wants from the property of another, is bound to make restitution, or give an equivalent to the owner, whenever that is possible. 
 
-People agree that the privileges, which any nation grants promiscuously to the subjects of foreign powers or countries,101 are the common right of all.20 
+Some deny this because no one is bound to give an indemnity for having exercised his own right. 
 
-Consequently, the exclusion of any one people from these rights would be considered as an injury to that people. Thus, wherever foreigners in general are allowed to hunt, to fish, to shoot, to gather pearls, to succeed to property by testament, to sell commodities, or to form intermarriages, the same privileges cannot be refused to any particular people, unless they have by misconduct forfeited their right. On which account the tribe of Benjamin was debarred from intermarrying with other tribes.
+But strictly speaking, it was not a full and perfect right, which he exercised. It was a kind of permission, arising out of a case of necessity, and existing no longer than while the necessity continued. 
 
-## 22.
+For such a permissive right is only granted in order to preserve natural equity in opposition to the strict and churlish rigour of exclusive ownership.
 
-Can Nation A lawfully agree with Nation B to exclude all other nations from purchasing the native products of Nation B?
 
-This agreement is lawful if the purchaser intends to supply other nations with those articles at a reasonable price. 
+## Part 10
 
-For it is a matter of indifference to other nations OF WHOM they purchase, provided they can have a reasonable supply for their wants. 
+Hence, in the prosecution of a just war, any power has a right to take possession of a neutral soil; if there be real grounds, and not imaginary fears for supposing the enemy intends to make himself master of the same, especially if the enemy's occupying it would be attended with imminent and irreparable94 mischief to that same power. 
 
-Nor is there any thing unlawful in allowing one people an advantage over another in this respect, particularly for a nation who has taken another under her protection and incurred expence on that account. 
+But in this case the restriction is applied that nothing be taken but what is actually necessary to such precaution and security. Barely occupying the place is all that can be justified: leaving to the real owner the full enjoyment of all his rights, immunities, and jurisdiction, and all the productions of his soil.
 
-Such a monopoly is not repugnant to the law of nature, even if it may be sometimes for the interest of the community to prohibit it by express laws.
+This must be done too with the full intention of restoring the place to its lawful Sovereign, whenever the necessity, for which it was occupied, may cease. The retaining of Enna, Livy says, was either an act of violence, or a necessary measure; by violence meaning the least departure from necessity. 
 
+The Greeks, who were with Xenophon being in great want of ships, by Xenophon's own advice, seized upon those that were passing, still preserving the property untouched for the owners, supplying the sailors with provisions, and paying them wages. 
+
+The principal right therefore, founded upon the original community of goods, remaining since the introduction of property, is that of necessity, which has just been discussed.
+
+
+## Part 11
+
+There is another right, which is that of making use of the property of another, where such use is attended with no prejudice to the owner. 
+
+Cicero asks why should not any one, when he can do it without injury to himself, allow another to share with him those advantages, which are useful to the receiver, and no way detrimental to the giver? Seneca therefore observes, that it is no favour to allow another to light his fire from your flame. 
+
+In book 7 of Symposiacs, Plutarch observes that it is wicked to:
+- destroy excess food when we have excess food
+- destroy springs of water after we have used what we needed 
+- not to leave for other passengers the sea-marks, that have enabled us to steer our course after having finished our voyage
 

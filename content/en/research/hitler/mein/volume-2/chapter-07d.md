@@ -3,19 +3,16 @@ title: Our Defence Guards
 heading: Chapter 7d
 weight: 66
 description: "The organization of defence guards for keeping order at our meetings cleared up a very ifficult question"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 
 
 The organization of defence guards for keeping order at our meetings cleared up a very ifficult question. Up till then the movement had possessed no party badge and no party flag. 
 
-The lack of these tokens was not only a disadvantage at that time but would
-prove intolerable in the future. The disadvantages were chiefly that members of the
-party possessed no outward broken of membership which linked them together, and it
-was absolutely unthinkable that for the future they should remain without some token
-which would be a symbol of the movement and could be set against that of the
-International.
+The lack of these tokens was not only a disadvantage at that time but would prove intolerable in the future. The disadvantages were chiefly that members of the party possessed no outward broken of membership which linked them together, and it was absolutely unthinkable that for the future they should remain without some token which would be a symbol of the movement and could be set against that of the International.
 
 More than once in my youth the psychological importance of such a symbol had
 become clearly evident to me and from a sentimental point of view also it was

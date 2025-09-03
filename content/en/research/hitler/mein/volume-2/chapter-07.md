@@ -3,7 +3,9 @@ title: The Conflict With The Red Forces
 heading: Chapter 7
 weight: 60
 description: "The suspicion was whispered in German Nationalist circles that we also were merely another variety of Marxism"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

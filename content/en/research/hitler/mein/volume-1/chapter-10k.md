@@ -3,7 +3,9 @@ title: The Decline of the German Army and Navy
 heading: Chapter 10k
 weight: 82
 description: "The parliament threw away the weapons which were needed to defend the liberty of our people"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 icon: "Adolf Hitler"
 ---

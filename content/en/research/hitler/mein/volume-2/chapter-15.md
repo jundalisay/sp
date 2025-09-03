@@ -3,7 +3,9 @@ title: The Right To Self-Defence
 heading: Chapter 15
 weight: 400
 description: "AFTER WE had laid down our arms, in November 1918, a policy was adopted which led gradually to our complete subjugation"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

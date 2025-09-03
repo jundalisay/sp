@@ -3,78 +3,74 @@ title: The World Powers
 heading: Chapter 14c
 weight: 262
 description: "The area comprised in the German REICH is insignificant compared with the real World Powers."
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 
 
-In this connection, if we examine the chain of political vicissitudes through which our people have passed during more than a thousand years, recalling the innumerable struggles and wars and scrutinizing it all in the light of the results that are before our eyes to-day, we must confess that from the ocean of blood only three phenomena have emerged which we must consider as lasting fruits of political happenings definitely determined by our foreign policy.
+In this connection, if we examine the chain of political vicissitudes through which our people have passed during more than a thousand years, recalling the innumerable struggles and wars and scrutinizing it all in the light of the results that are before our eyes to-day, we must confess that 
 
-1. The colonization of the Eastern Mark, which was mostly the work of the Bajuvari.
+From the ocean of blood of our wars, our foreign policy has led to only 3 lasting fruits:
+
+1. The colonization of the Eastern Mark
+
+This was mostly the work of the Bavarians.
+
+ <!-- Bajuvari. -->
 
 2. The conquest and settlement of the territory east of the Elbe.
 
-These first two great successes of our foreign policy turned out to be the most enduring.
+These first 2 great successes of our foreign policy turned out to be the most enduring.
 
 Without them, our people would play no role in the world today. 
 
-These achievements were the first and unfortunately the only successful attempts to establish a harmony between our increasing population and the territory from which it drew its livelihood. 
+These were the only successful attempts to establish a harmony between our:
+- increasing population and
+- livelihood
 
-And we must look upon it as of really fatal import that our German historians have
+<!-- And we must look upon it as of really fatal import that our German historians have
 never correctly appreciated these formidable facts which were so full of importance for
 the following generations. 
 
-They wrote panegyrics on fantastic heroism, innumerable adventures and wars, without understanding that these latter had no significance for our national development.
+They wrote panegyrics on fantastic heroism, innumerable adventures and wars, without understanding that these latter had no significance for our national development. -->
 
-3. The organization of the Brandenburg-Prussian State, which was the work of the Hohenzollerns and which became the model for the crystallization of a new REICH. 
+3. The organization of the Brandenburg-Prussian State
+
+This:
+- was the work of the Hohenzollerns
+- became the model for a new REICH. 
+- led to the instinct of national self-preservation and self-defence in the German Army, an achievement which suited the modern world.*
+
+{{< n n="Self preservation is a sign of the Negative Force just as selflessnss is a sign of the Positive" >}}
+
 
 <!-- An instructive lesson for the future. -->
 
 <!-- The third great success achieved by our political activity was the establishment of the Prussian State and the development of a particular State concept which grew out of this. -->
 
-To the same source we are to attribute the organization of the instinct of national selfpreservation and self-defence in the German Army, an achievement which suited the modern world. 
 
-The transformation of the idea of self-defence on the part of the individual into the duty of national defence is derived from the Prussian State and the new statal concept which it introduced. It would be impossible to over-estimate the importance of this historical process. 
+The duty of national defence is derived from the Prussian State and the new statal concept which it introduced.
 
-Disrupted by excessive individualism, the German nation became disciplined under the organization of the Prussian Army and in this way recovered at least some of the capacity to form a national community, which in the case of other people had originally arisen through the constructive urge of the herd instinct.
+<!-- It would be impossible to over-estimate the importance of this historical process.  -->
 
-Consequently, the abolition of compulsory national military service--which may have no
-meaning for dozens of other nations--had fatal consequences for us. Ten generations of 
-Germans left without the corrective and educative effect of military training and
-delivered over to the evil effects of those dissensions and divisions the roots of which lie
-in their blood and display their force also in a disunity of world-outlook--these ten
-generations would be sufficient to allow our people to lose the last relics of an
-independent existence on this earth.
+Disrupted by excessive individualism, the German nation became disciplined under the organization of the Prussian Army.
 
-The German spirit could then make its contribution to civilization only through
-individuals living under the rule of foreign nations and the origin of those individuals
-would remain unknown. They would remain as the fertilizing manure of civilization,
-until the last residue of Nordic-Aryan blood would become corrupted or drained out.
-It is a remarkable fact that the real political successes achieved by our people during
-their millennial struggles are better appreciated and understood among our adversaries
-than among ourselves. Even still to-day we grow enthusiastic about a heroism which
-robbed our people of millions of their best racial stock and turned out completely
-fruitless in the end.
+In this way, it recovered some of the capacity to form a national community, which in the case of other people had originally arisen through the constructive urge of the herd instinct.
+
+Consequently, the abolition of compulsory national military service had fatal consequences for us but not for other nations.
+
+Ten generations of  Germans left without the corrective and educative effect of military training and delivered over to the evil effects of those dissensions and divisions the roots of which lie in their blood and display their force also in a disunity of world-outlook--these ten generations would be sufficient to allow our people to lose the last relics of an independent existence on this earth.
+
+The German spirit could then make its contribution to civilization only through individuals living under the rule of foreign nations and the origin of those individuals would remain unknown. They would remain as the fertilizing manure of civilization, until the last residue of Nordic-Aryan blood would become corrupted or drained out. It is a remarkable fact that the real political successes achieved by our people during their millennial struggles are better appreciated and understood among our adversaries than among ourselves. Even still to-day we grow enthusiastic about a heroism which robbed our people of millions of their best racial stock and turned out completely fruitless in the end.
 
 The distinction between the real political successes which our people achieved in the
 course of their long history and the futile ends for which the blood of the nation has
 been shed is of supreme importance for the determination of our policy now and in the
 future.
 
-We, National Socialists, must never allow ourselves to re-echo the hurrah patriotism of
-our contemporary bourgeois circles. It would be a fatal danger for us to look on the
-immediate developments before the War as constituting a precedent which we should
-be obliged to take into account, even though only to the very smallest degree, in
-choosing our own way. We can recognize no obligation devolving on us which may
-have its historical roots in any part of the nineteenth century. In contradistinction to the
-policy of those who represented that period, we must take our stand on the principles
-already mentioned in regard to foreign policy: namely, the necessity of bringing our
-territorial area into just proportion with the number of our population. From the past
-we can learn only one lesson. And this is that the aim which is to be pursued in our
-political conduct must be twofold: namely (1) the acquisition of territory as the objective
-of our foreign policy and (2) the establishment of a new and uniform foundation as the
-objective of our political activities at home, in accordance with our doctrine of
-nationhood.
+We, National Socialists, must never allow ourselves to re-echo the hurrah patriotism of our contemporary bourgeois circles. It would be a fatal danger for us to look on the immediate developments before the War as constituting a precedent which we should be obliged to take into account, even though only to the very smallest degree, in choosing our own way. We can recognize no obligation devolving on us which may have its historical roots in any part of the nineteenth century. In contradistinction to the policy of those who represented that period, we must take our stand on the principles already mentioned in regard to foreign policy: namely, the necessity of bringing our territorial area into just proportion with the number of our population. From the past we can learn only one lesson. And this is that the aim which is to be pursued in our political conduct must be twofold: namely (1) the acquisition of territory as the objective of our foreign policy and (2) the establishment of a new and uniform foundation as the objective of our political activities at home, in accordance with our doctrine of nationhood.
 
 How far are our territorial aims justified according to ethical and moral principles?
 
@@ -172,24 +168,12 @@ The territory on which one day our German peasants will be able to bring forth a
 their sturdy sons will justify the blood of the sons of the peasants that has to be shed today. And the statesmen who will have decreed this sacrifice may be persecuted by their contemporaries, but posterity will absolve them from all guilt for having demanded this
 offering from their people.
 
-Here I must protest as sharply as possible against those nationalist scribes who pretend
-that such territorial extension would be a "violation of the sacred rights of man" and
-accordingly pour out their literary effusions against it. One never knows what are the
-hidden forces behind the activities of such persons. But it is certain that the confusion
-which they provoke suits the game our enemies are playing against our nation and is in
-accordance with their wishes. By taking such an attitude these scribes contribute
-criminally to weaken from the inside and to destroy the will of our people to promote
+Some nationalist scribes pretend that such territorial extension would be a "violation of the sacred rights of man"
+
+These scribes contribute criminally to weaken from the inside and to destroy the will of our people to promote
 their own vital interests by the only effective means that can be used for that purpose.
-For no nation on earth possesses a square yard of ground and soil by decree of a higher
-Will and in virtue of a higher Right. The German frontiers are the outcome of chance,
-and are only temporary frontiers that have been established as the result of political
-struggles which took place at various times. The same is also true of the frontiers which
-demarcate the territories on which other nations live. And just as only an imbecile could
-look on the physical geography of the globe as fixed and unchangeable--for in reality it
-represents a definite stage in a given evolutionary epoch which is due to the formidable
-forces of Nature and may be altered to-morrow by more powerful forces of destruction
-and change--so, too, in the lives of the nations the confines which are necessary for their
-sustenance are subject to change. 
+
+For no nation on earth possesses a square yard of ground and soil by decree of a higher Will and in virtue of a higher Right. The German frontiers are the outcome of chance, and are only temporary frontiers that have been established as the result of political struggles which took place at various times. The same is also true of the frontiers which demarcate the territories on which other nations live. And just as only an imbecile could look on the physical geography of the globe as fixed and unchangeable--for in reality it represents a definite stage in a given evolutionary epoch which is due to the formidable forces of Nature and may be altered to-morrow by more powerful forces of destruction and change--so, too, in the lives of the nations the confines which are necessary for their sustenance are subject to change.
 
 State frontiers are established by human beings and may be changed by human beings.
 The fact that a nation has acquired an enormous territorial area is no reason why it

@@ -3,7 +3,9 @@ title: The State
 heading: Chapter 2
 weight: 12
 description: "IN 1920-1921 the effete bourgeois class accused our movement again and again of taking up a negative attitude towards the modern State"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

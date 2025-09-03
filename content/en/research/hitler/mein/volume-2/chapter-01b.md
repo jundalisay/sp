@@ -3,7 +3,9 @@ title: Marxist Democracy
 heading: Chapter 1b
 weight: 6
 description: "Democracy is exploited by the Marxists to paralyse their opponents and put their own methods into action"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 icon: "Adolf Hitler"
 ---

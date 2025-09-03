@@ -3,7 +3,9 @@ title: Decline of Culture
 heading: Chapter 10g
 weight: 74
 description: "Marriage must serve the greater end -- increasing and maintaining the human species and the race"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

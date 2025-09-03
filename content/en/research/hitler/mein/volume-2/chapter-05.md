@@ -3,7 +3,9 @@ title: Weltanschauung And Organization
 heading: Chapter 5
 weight: 38
 description: "THE PEOPLE'S State will not become a reality in virtue of the simple fact that we know the indispensable conditions of its existence"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

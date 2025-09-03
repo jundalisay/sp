@@ -3,7 +3,9 @@ title: Race And People
 heading: Chapter 11
 weight: 86
 description: "The iron law of Nature compels the various species to keep within the definite limits of their own life-forms when propagating and multiplying their kind"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

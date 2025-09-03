@@ -3,7 +3,9 @@ title: The Dominance of Money
 heading: Chapter 10b
 weight: 64
 description: "The amazing increase of German population before the war gave importance in politics and economics to the question of providing daily bread"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

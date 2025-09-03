@@ -3,7 +3,9 @@ title: The German Parliament's Lack of Principles
 heading: Chapter 10j
 weight: 80
 description: "The lack of orientation in German policy, both domestic and foreign, was obvious."
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 icon: "Adolf Hitler"
 ---

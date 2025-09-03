@@ -3,7 +3,9 @@ title: The World Powers
 heading: Chapter 14b
 weight: 261
 description: "The area comprised in the German REICH is insignificant compared with the real World Powers."
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

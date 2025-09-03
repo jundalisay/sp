@@ -3,7 +3,9 @@ title: Judaism and Marxism
 heading: Chapter 4b
 weight: 36
 description: "Marxism represents the most striking phase of the Jewish endeavour to eliminate the dominant significance of personality in every sphere of human life"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

@@ -3,7 +3,9 @@ title: The Two Parts of Marxist Power
 heading: Chapter 11i
 weight: 104
 description: "The Marxist Doctrine provoked the opposition of decent people. They refused to admit these demands which seemed fundamentally unjust"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

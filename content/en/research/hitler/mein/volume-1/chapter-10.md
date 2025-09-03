@@ -3,7 +3,9 @@ title: Why The Second Reich Collapsed -- The Cause of the Disease
 heading: Chapter 10
 weight: 62
 description: "The collapse of the Second REICH was all the more bewildering because it fell from a great height to these days of misery and humiliation"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

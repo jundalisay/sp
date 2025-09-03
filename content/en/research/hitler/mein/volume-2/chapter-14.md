@@ -3,7 +3,9 @@ title: Germany's Policy In Eastern Europe
 heading: Chapter 14
 weight: 260
 description: "Two considerations induce me to make a special analysis of Germany's position in regard to Russia"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

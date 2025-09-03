@@ -3,7 +3,9 @@ title: Alliance with England to Solve the Population Problem
 heading: Chapter 4c
 weight: 30
 description: "The principle of acquiring new territory, on which the surplus population could be settled, has many advantages"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

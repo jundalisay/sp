@@ -3,7 +3,9 @@ title: The Superiority of the Aryan Race
 heading: Chapter 11c
 weight: 90
 description: "The Aryan race has been, and still is, the standard-bearer of human progress."
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

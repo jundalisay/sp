@@ -3,7 +3,9 @@ title: The Course of Lectures
 heading: Chapter 8b
 weight: 58
 description: "The work of politicians is without significance for the following generation"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

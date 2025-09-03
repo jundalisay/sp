@@ -3,7 +3,9 @@ title: The Aim of Propaganda
 heading: Chapter 6b
 weight: 46
 description: "Thus the German war propaganda afforded us an incomparable example of how the work of 'enlightenment' should not be done"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

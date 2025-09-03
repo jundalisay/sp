@@ -3,7 +3,9 @@ title: Targetting the Lower Class
 heading: Chapter 5b
 weight: 40
 description: "The programme of the ordinary political party is just to cook up favourable results for the next general elections"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

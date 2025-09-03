@@ -3,7 +3,9 @@ title: The Tragic Crime Of The Habsburg Rulers
 heading: Chapter 3c
 weight: 10
 description: "The failure to see the truth of all this constituted what may be called the tragic crime of the Habsburg rulers"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

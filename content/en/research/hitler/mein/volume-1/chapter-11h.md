@@ -3,7 +3,9 @@ title: The Jewish Plan for an International Stock Exchange
 heading: Chapter 11h
 weight: 102
 description: "The Jewish idea is to demolish this structure to build an International Stock Exchange."
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

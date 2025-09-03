@@ -3,7 +3,9 @@ title: The Christian-Socialist Movement
 heading: Chapter 3k
 weight: 24
 description: "The Christian-Socialist Movement had only a vague concept of a German revival as part of its object"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

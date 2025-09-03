@@ -3,7 +3,9 @@ title: Urban Decline from the Industrial Revolution
 heading: Chapter 10h
 weight: 78
 description: "Marriage must serve the greater end -- increasing and maintaining the human species and the race"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

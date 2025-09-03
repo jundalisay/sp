@@ -3,7 +3,9 @@ title: German Foreign Policy
 heading: Chapter 4d
 weight: 32
 description: "If in 1904, our German foreign policy made us take the part which Japan played then there would have been no world war"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

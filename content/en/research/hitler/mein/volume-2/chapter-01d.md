@@ -3,7 +3,9 @@ title: The Völkisch State
 heading: Chapter 1d
 weight: 10
 description: "All kinds of people, with all kinds of divergent opinions, are parading about at the present moment under the device VÖLKISCH on their banners"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 
@@ -30,8 +32,7 @@ It believes that this law holds good even down to the last individual organism.
 It selects individual values from the mass and thus operates as an organizing principle, whereas Marxism
 acts as a disintegrating solvent. 
 
-The VÖLKISCH belief holds that humanity must have its ideals, because ideals are a necessary condition of human existence itself. But, on the other hand, it denies that an ethical ideal has the right to prevail if it endangers the
-existence of a race that is the standard-bearer of a higher ethical ideal. 
+The VÖLKISCH belief holds that humanity must have its ideals, because ideals are a necessary condition of human existence itself. But, on the other hand, it denies that an ethical ideal has the right to prevail if it endangers the existence of a race that is the standard-bearer of a higher ethical ideal. 
 
 For in a world which would be composed of mongrels and negroids all ideals of human beauty and nobility and all hopes of an idealized future for our humanity would be lost forever.
 

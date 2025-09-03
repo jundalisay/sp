@@ -3,7 +3,9 @@ title: The Habsburg State
 heading: Chapter 1c
 weight: 6
 description: "When the Habsburg State crumbled in 1918, the Austrian Germans instinctively cried for union with their German fatherland."
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

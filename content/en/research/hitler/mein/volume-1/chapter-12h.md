@@ -3,7 +3,9 @@ title: VÖLKISCH is Excluded
 heading: Chapter 12h
 weight: 128
 description: "The Marxist leaders deceived and misled the public. They naturally hated movements that aimed to win over the masses"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

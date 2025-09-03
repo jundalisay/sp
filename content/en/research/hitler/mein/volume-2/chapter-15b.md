@@ -3,7 +3,9 @@ title: The French Policy
 heading: Chapter 15b
 weight: 800
 description: "At that time France's preoccupation was how to get the German armies out of France and Belgium"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 icon: "Adolf Hitler"
 ---

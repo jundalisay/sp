@@ -3,7 +3,9 @@ title: The Parliament
 heading: Chapter 3d
 weight: 11
 description: "The fate of the German element in the Austrian State depended on its position in Parliament"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

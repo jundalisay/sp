@@ -1,15 +1,17 @@
 ---
-title: Weltanschauung And Party
+title: Weltanschauung and Party
 heading: Chapter 1
 weight: 4
 description: "ON FEBRUARY 24, 1920, our new movement had its first great meeting in the Banquet Hall of the Hofbräuhaus in Munich"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 icon: "Adolf Hitler"
 ---
 
 
-ON FEBRUARY 24, 1920, our new movement had its first great meeting in the Banquet Hall of the Hofbräuhaus in Munich.
+On February 24, 1920, our new movement had its first great meeting in the Banquet Hall of the Hofbräuhaus in Munich.
 - There, the 25 theses which constituted the programme of our new party were expounded to nearly 2,000 people.
 - Each thesis was enthusiastically received.
 

@@ -3,7 +3,9 @@ title: The Problem Of The Trade Unions
 heading: Chapter 12
 weight: 200
 description: "Undoubtedly the workers in the various trades benefited by the results of that campaign and, for honest men"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

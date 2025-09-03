@@ -3,7 +3,9 @@ title: The Liberal Press and the Marxist Press
 heading: Chapter 10d
 weight: 68
 description: "The function of the so-called liberal Press was to dig the grave for the German people and REICH"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

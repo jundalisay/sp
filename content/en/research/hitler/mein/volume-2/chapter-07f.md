@@ -3,7 +3,9 @@ title: The Hall of the Hofbräuhaus Incident
 heading: Chapter 7f
 weight: 80
 description: "On November 4, 1921, in the evening between 6-7pm I received the first news that the meeting would positively be broken up"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 
