@@ -12,7 +12,7 @@ weight: 22
 <!-- Triguńátmiká srśt́imátrká asheśatrikońadhárá. -->
 
 
-In Parama Puruśa, a countless number of linear waves are taking place in the different flows of sattva [sentient], rajah [mutative] and tamah [static].
+In Parama Puruśa, a countless number of linear waves take place in the different flows of sattva [sentient], rajah [mutative] and tamah [static].
 
 Their triple-attributional flows go on evolving triangles or different other multi-conical or polygonal diagrams.
 
@@ -82,7 +82,9 @@ Here, Puruśa is saguńa [qualified] because Prakrti gets the chance to expres
 
 ### 5. In the vibrational world there is a sequence of similarity of curvatures (homogenesis).
 
-Here Prakrti is called Bhavánii and the witnessing Puruśa is called Bhava
+Here:
+- Prakrti is called Bhavánii
+- the witnessing Puruśa is called Bhava
 
 <!-- Sadrshaparińámena Bhavánii Sá Bhavadárá. -->
 
@@ -104,27 +106,35 @@ This sequential evolution of kalás is called sadrsha parińáma [homogenesis
 
 The mental and physical worlds evolve in these homogenetic waves.
 
-The child of a human is a human and tree begets tree because of this (homoform) curvilinear evolution.*
+
+
+This (homoform) curvilinear evolution* is why:
+- the child of a human is a human
+- the tree begets tree
 
 {{< n n="A human cannot give birth to a tree because both have very different vibrations" >}}
 
 
-The kalás are similar but not identical. 
+The kalas [curves] are similar but not identical. 
 
-The difference between 2 successive kalás is not clearly perceivable.
+The difference between 2 successive kalas is not clearly perceivable.
 
-The differences between kalás will be clearly understandable the more distant their mutual relations are . 
+**The differences between kalas will be clearly understandable the more distant their mutual relations are.** 
 
  <!-- having distant -->
 
-Although the physical changes of one whom we see every day are not understandable, we can certainly make out the difference if we see a child of 5, after 20 years, as a youth of 25.
+The physical changes in a person whom we see every day are not understandable.
+- But we can certainly make out the difference if we see a child of 5, after 20 years, as a youth of 25.
 
-Human begets human. But there will be a gulf of difference between a human of a million years ago and a human of today. 
+Human begets human. 
 
-The creatress of the manifest world is this sequential force called "Bhavánii shakti". Its witnessing Puruśa is "Bhava" which means “creation”.
+But there is a huge difference between a human of a million years ago and a human of today. 
+
+The creatress of the manifest world is this sequential force called "Bhavánii shakti". 
+- Its witnessing Puruśa is "Bhava" which means “creation”.
 
 
-### 6. The process of creation starts from Shambhúliuṋga
+### 6. The process of creation starts from Shambhuliuṋga
 
 <!-- Shambhúliuṋgát tasya vyaktih. -->
 
@@ -132,7 +142,7 @@ The evolution from the theoretical stage to the practical manifestation dates fr
 
 The common point of the theoretical and the practical evolution is called Shambhúliuṋga [Puruśa at the vertex of the triangle, the source of saiṋcara].
 
-This Shambhúliuṋga is the root-point of the fundamental positivity, after which comes the náda [flow without any curvature], followed by kalá.
+This Shambhúliuṋga is the root-point [origin] of the fundamental positivity, after which comes the náda [flow without any curvature], followed by kalá.
 
 
 ### 7. In the ultimate state of crudification, the paráshakti lying dormant at Svayambhúliuṋga is called the kuńd́alinii (“coiled serpentine”)
@@ -148,7 +158,9 @@ In this state of crudity, the paráshakti [introversial pervasive force] that i
 
 <!-- Kuńd́alinii sá múliibhútá rńátmiká. -->
 
-The ultimate point of manifestation is called Svayambhúliuṋga. 
+The ultimate point of manifestation is called Svayambhúliuṋga.*
+
+{{< n n="The positive Svayambhúliuṋga or start is the opposite of the negative Shambhúliuṋga or end">}}
 
 Svayambhúliuṋga is the ultimate point of negativity, wherein resides the kulakuńd́alinii force, quiescent and coiled like a serpent.
 

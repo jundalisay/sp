@@ -1,8 +1,8 @@
 ---
-title: "The Poles of the Equator"
+title: "Equatorial Plane Versus Ecliptic Plane"
 heading: Articles 154-157
 weight: 70
-description: "Why the poles of the Equator and the Ecliptic are far apart"
+description: "Why the poles of the Equator and the Ecliptic are not parallel"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
@@ -12,17 +12,25 @@ icon: "Rene Descartes"
 
 
 
-#### 154. Why do the moons around Jupiter move so quickly, while those around Saturn move very slowly or not at all.*
+## 154. Why do the moons around Jupiter move so quickly, while those around Saturn move very slowly or not at all.*
 <!-- secondary Planets -->
 
 <!-- The Planets near Saturn move very slowly or not at all around it. But those near Jupiter revolve around it, each the closer to Jupiter, the faster. -->
 
 {{< n n="This is factually wrong">}}
 
-This is because Jupiter, like the Sun and Earth, revolves around its own axis, whereas Saturn, like the Moon and Comets, always turns the same part of itself towards the center of the vortex in which it is contained.
+This is because:
+- Jupiter, like the Sun and Earth, revolves around its own axis
+- Saturn, like the Moon and Comets, does not.
+  - The same face of it always faces the sun.
+
+ <!-- turns the same part of itself towards the center of the vortex in which it is contained. -->
 
 
-#### 155. Why the poles of the Equator and the Ecliptic are far apart. 
+<!-- Why do the planets around Jupiter move very quickly, while it is not the same for those said to be around Saturn? Moreover, one should not be surprised that the two planets said to be near Saturn move very slowly, or perhaps not at all, around it; whereas the four around Jupiter move very quickly, and even those closer to it move faster than the others. For one may think that this difference is caused by the fact that Jupiter, like the Sun and the Earth, rotates on its axis; and that Saturn, which is the highest planet, always keeps the same side turned toward the center of the vortex that contains it, just like the Moon and the comets.” -->
+
+
+## 155. Why are the poles of the Equator and the Ecliptic are far apart?
 
 The axis around which the Earth revolves in the space of a day is not perpendicular to the plane of the Ecliptic, in which it rotates around the Sun over the course of a year. 
 
@@ -51,19 +59,28 @@ And so those which formed suitable channels for themselves through the Earth, al
 
 
 
-#### 156. Why they gradually approach each other
+## 156. Why they gradually approach each other
 
-The two revolutions of the Earth, namely the annual and the diurnal, would be more conveniently performed if they were around parallel axes, the causes preventing this are gradually changing on both sides.
+The 2 rotations of the Earth are:
 
-Hence, the declination of the Ecliptic from the Equator diminishes over time.
+1. Revolution around the sun
+<!-- The annual -->
+2. Rotation around its axis
+<!-- the diurnal -->
+
+These are not parallel. In time, the difference will reduce as the causes that prevent them from being parallel change. 
+
+{{< n n="The Earth's tilt is now known to be declining by 46.8 arcseconds per century" >}}
 
 
-#### 157. The final and most general cause of all the inequalities found in the motions of celestial bodies.
+
+## 157. The final and most general cause of all the inequalities found in the motions of celestial bodies.
 
 The Planets always seek circular motions but never describe perfect circles. 
 
 They always deviate somewhat in all ways, both in longitude and latitude. 
 
-For since all bodies in the universe are contiguous and act upon each other, the motion of each depends on the motions of all the others, and therefore varies in countless ways. 
+All bodies in the universe are contiguous and act on each other.
+- This is why the motion of each depends on the motions of all the others, and therefore varies in countless ways. 
 
-Nor is there any phenomenon observed in the heavens from afar that I believe has not been sufficiently explained here. It remains for us to proceed to those things which we see up close above the Earth.
+<!-- Nor is there any phenomenon observed in the heavens from afar that I believe has not been sufficiently explained here. It remains for us to proceed to those things which we see up close above the Earth. -->

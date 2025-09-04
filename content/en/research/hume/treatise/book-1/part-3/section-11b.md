@@ -21,9 +21,10 @@ The mind here is:
 - not determined in its choice of any outcome.
 
 Chance is merely the negation of a cause.
+- It produces a total indifference in the mind.
 
-It produces a total indifference in the mind.
 A negation of a cause and a total indifference can never be superior or inferior to each other.
+
 There must always be a mixture of causes among the chances to be the foundation of any reasoning.
 
 What effect does a superior combination of chances have on the mind?
@@ -31,18 +32,27 @@ What effect does a superior combination of chances have on the mind?
 How does it influence our judgment?
 
 We may repeat all the same arguments we used to examine that belief, which arises from causes.
+
 We may prove that a superior number of chances produces our assent not by demonstration nor probability.
+
 By the comparison of mere ideas, we can never make any discovery which can be of consequence in these affairs.
+
 It is impossible to prove with certainty that any event must fall on that side where there is a superior number of chances.
+
 To suppose any certainty in this case, is to overthrow what we have established about the opposition of chances and their perfect equality and indifference.
+
 In an opposition of chances, it is impossible to determine on which side the event will fall.
 
 Yet we can say that it is more likely and probable that it will be on the side where there are more chances.
+
 What is meant by likelihood and probability here?
+
 The likelihood and probability of chances is a superior number of equal chances.
+
 Consequently, when we say it is likely that the outcome will fall on the superior side, we only affirm that:
-the superior side is where there are more chances, and
-the inferior side is where there are fewer chances.
+- the superior side is where there are more chances, and
+- the inferior side is where there are fewer chances.
+
 These are identical propositions, and of no consequence.
 
 The question is: how a superior number of equal chances:
@@ -55,12 +65,17 @@ Since by arguments, it is not derived from demonstration nor probability.
 To clear up this difficulty, let us suppose that a person throws the die that has one dot on four sides and two dots on two sides.
 
 He concludes that one outcome will be more probable than the other.
+
 He prefers the one dot which is inscribed on more sides.
+
 He believes that this will be the most likely outcome even if, with hesitation and doubt, it is proportional to the number of contrary chances.
 
 His belief gets more stability and assurance as these chances change.
+
 This belief arises from an operation of the mind on the simple and limited object of the die.
+
 The nature of the die can be easily explained.
+
 We only have one die to contemplate, to comprehend one of the most curious operations of the understanding.
 
 This die has three circumstances worthy of our attention.
@@ -104,8 +119,9 @@ This is the effect of the intermingled causes needed to form any calculation con
 This is determined entirely by chance.
 
 The very nature and essence of chance is
-a negation of causes, and
-in leaving the mind in a perfect indifference to those outcomes which are supposed contingent.
+- a negation of causes, and
+- in leaving the mind in a perfect indifference to those outcomes which are supposed contingent.
+
 The mind is determined by the cause to consider the die as falling and turning up one of its sides.
 
 The chances:
@@ -137,16 +153,19 @@ We conclude that some one of them must result from the throw.
 We run all of them over in our minds.
 
 The determination of the thought is common to all
+
 But no more of its force falls to the share of any one, than what is suitable to its proportion with the rest.
+
 In this way, the original impulse, and consequently the vivacity of thought, arising from the causes, is split by the intermingled chances.
+
 We have already seen the influence of the two first qualities of the die:
+- the physical causes of the die, and
+- the number and indifference of the sides.
 
-the physical causes of the die, and
-the number and indifference of the sides.
 We have learned how they:
+- give an impulse to the mind, and
+- divide that impulse into as many parts as there are the number of sides.
 
-give an impulse to the mind, and
-divide that impulse into as many parts as there are the number of sides.
 We must now consider the effects of the third quality: the inscriptions on each side.
 
 

@@ -70,4 +70,3 @@ So that for these we know or measure not complete lines, not the squares of comp
 There are as many degrees of knowledge as there are kinds of line. The earlier degree is always higher than the later. 
 
 Yet because any addition or subtraction refers to its degree, and no operation of addition or subtraction gives rise to diversity, but all are equally related to their pair of Terms or Elements: on this account we shall make them only one degree: but let us recognize that it contains kinds of lines that differ in standing.
-

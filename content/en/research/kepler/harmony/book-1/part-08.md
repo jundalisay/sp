@@ -55,4 +55,3 @@ Each fraction is that of 2 right angles. It is from the size of the angle that t
 
 
 This is when the ratio of the side to the diameter cannot immediately be determined Geometrically from the number of the angles, unless the side of another figure is brought in. This extra side is not from the figure with double or half the number of sides [of the original figure].
-

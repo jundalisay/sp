@@ -69,12 +69,17 @@ Perhaps very little pains are necessary to perceive the imperfection of:
 Let men be fully persuaded of these two principles:
 
 There is nothing in any object, considered in itself, which can afford us a reason for drawing a conclusion beyond it
+
 Even after the observation of the frequent or constant conjunction of objects, we have no reason to draw any inference on any object beyond those of which we have had experience.
+
 These will throw men so loose from all common systems, that they will more easily receive any extraordinary system.
 
 These principles are sufficiently convincing, even with regard to our most certain reasonings from causation.
+
 With regard to these conjectural or probable reasonings, they acquire further a new degree of evidence.
+
 It is not the object presented to us which makes us draw a conclusion on any other object, because this latter object is supposed as uncertain.
+
 The uncertainty is derived from a concealed contrariety of causes in the first presented object.
 
 If any of the causes were placed in the known qualities of that object:

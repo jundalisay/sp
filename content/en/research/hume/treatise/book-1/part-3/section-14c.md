@@ -81,8 +81,11 @@ Since, therefore, matter is confessed by philosophers to operate by an unknown f
 ### Footnote 8
 
 The same imperfection attends our ideas of the Deity.
+
 But this can have no effect on religion or morals.
+
 The order of the universe proves an omnipotent mind.
+
 That mind has a will which is constantly attended with the obedience of every creature and being.
 
 Nothing more is needed to give a foundation to all the articles of religion.

@@ -56,7 +56,7 @@ Whatever therefore was the common property of all, and after a general division 
 The marks of distinction and separation by which its different parts were known, followed such appropriation.
 
 
-## Part 4: Aliemable Things
+## Part 4: Alienable Things
 
 Some things, not yet made property, may be reduced to property. Examples are waste lands, desert islands, wild beasts, fishes, and birds. 
 

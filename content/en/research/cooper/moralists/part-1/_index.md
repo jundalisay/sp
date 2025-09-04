@@ -1,0 +1,7 @@
+---
+heading: Part 1
+title: "Lord Shaftesbury"
+weight: 4
+date: 2025-09-02
+c: "purple"
+---

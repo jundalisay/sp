@@ -1,6 +1,6 @@
 ---
-title: "Introduction Part 2"
-heading: Part 2
+title: "Ramus"
+heading: Introduction Part 2
 description: "Following Ramus, Lazarus Schoner in his Geometry confessed that he could see absolutely no use for the 5 regular solids in the world"
 c: "darkgoldenrod"
 weight: 4
@@ -11,11 +11,13 @@ icon: "Kepler"
 ---
 
 
+## Ramus Versus Proclus
+
 Following Ramus, Lazarus Schoner in his Geometry confessed that he could see absolutely no use for the 5 regular solids in the world.
 
 This was until he read my little book 'The Secret of the Universe' in which I prove that the number and distances of the planets were taken from the 5 regular solids.
 
-See what damage Ramus the master did to Schoner the disciple. 
+Ramus the master did damage to Schoner the disciple. 
 
 Aristotle had refuted the Pythagorean philosophy on the properties of the elements as deduced from the 5 solids.
 - Ramus thoroughly read Aristotle.   
@@ -24,9 +26,9 @@ Aristotle had refuted the Pythagorean philosophy on the properties of the elemen
 
 Ramus did not believe Proclus when he asserted truly that the ultimate aim of Euclid’s work, was the 5 regular solids.
 <!-- to which absolutely all the propositions of all its books were related,   -->
-- Hence, a very confident conviction arose in Ramus that the 5 solids must be removed from the aim of the books of the Elements of Euclid.
+- Hence, Ramus believed that the 5 solids must be removed from the aim of the books of the Elements of Euclid.
 
-With the aim of the work removed, as if the form were removed from a building, there was left a formless heap of propositions in Euclid.
+This removed the form from a building, leading to a formless heap of propositions in Euclid.
 - Ramus attacked these as if it were a fiend in all the 28 books of his Schools.
 
 Schoner followed Ramus’ convictions.
@@ -35,15 +37,21 @@ Schoner followed Ramus’ convictions.
   - in the Elements of Euclid and
   - in the structure of the world.
 
-In fact, Schoner was more fortunate than his master Ramus, because he gratefully received my revelation of the application of the solids in the structure of the world. 
+<!-- In fact, Schoner was more fortunate than his master Ramus, because he gratefully received my revelation of the application of the solids in the structure of the world.  -->
 
-If the Pythagoreans attributed these shapes to the elements and not to the orbits of the world as I did, then Ramus would have striven to undo this error as I have done.
+The Pythagoreans applied these shapes to the elements and not to the orbits of the world.
+- But I applied it to orbits.
+
+ <!-- as I did, then Ramus would have striven to undo this error as I have done. -->
+
 <!-- over the true subject of the shapes -->
-- He would not have demolished this whole philosophy with one tyrannical word. 
+<!-- - He would not have demolished this whole philosophy with one tyrannical word.  -->
 
-If the Pythagoreans put forward the same teaching as mine and hid their doctrine by wrapping it up in words then Ramus would not say what he said.
-- In this way, the Copernican 'world' would be found in Aristotle himself
-- Ramus would then be wrong to falsely refute Copernicus under other names, as they called the Sun, Fire, and the Moon the Counter Earth
+<!-- If the Pythagoreans put forward the same teaching as mine and hid their doctrine by wrapping it up in words then Ramus would not say what he said. -->
+
+This unifies the Copernican 'world' with Aristotle himself.
+
+<!-- - Ramus would then be wrong to falsely refute Copernicus under other names, as they called the Sun, Fire, and the Moon the Counter Earth -->
 
 Suppose that:
 - the disposition of the orbits of the Pythagoreans and Copernicus were the same
@@ -52,25 +60,36 @@ Suppose that:
 
 Suppose that the Pythagoreans and Copernicus all consistently taught that the 5 solids were the archetypes of the parts of the world.
 
-It would then be so easy for us to believe that their doctrine was in the form of a riddle was.
-- The Pythagoreans assigned the cube to the Earth, but I think they really meant Saturn -- its orbit was separated from Jupiter by the interposition of the cube.
+<!-- It would then be so easy for us to believe that their doctrine was in the form of a riddle was. -->
+
+
+The Pythagoreans assigned the cube to the Earth.
+
+But I think they really meant Saturn -- its orbit was separated from Jupiter by the interposition of the cube.
 - This riddle was read by Aristotle who refuted it correctly
 <!-- in the true sense of the words, when Aristotle read it as  -->
 
-The common herd ascribe rest to the Earth. But data shows that Saturn has a very slow motion which is very close to rest. 
+The common herd ascribe rest to the Earth. 
+
+But data shows that Saturn has a very slow motion which is very close to rest. 
 - This is why the Hebrews gave it a name from the word “rest”*
 
 {{< n n="In Cartesian Physics, Saturn and Jupiter have slow orbits and are large because the gravitational territory of the sun or a star has 3 parts: the inner, middle, and outer parts. The inner part is fast. The middle part is slow -- this leads to large planets. The outer part is Medium. These parts are an effect of a rotating vortex. " >}}
 
 
 
-The Pythagoreans assigned the octahedron to air. But I think they meant Mercury -- its orbit was enclosed by the octahedron.
+The Pythagoreans assigned the octahedron to air. 
+
+But I think they meant Mercury -- its orbit was enclosed by the octahedron.
 - Mercury is as swift as our nimble air is
+
 <!-- Similarly, Aristotle read it as the air to which the  was given, whereas they as it happened , the  of which  -->
 
-Mars was the interpreted to the word “fire, and so the tetrahedron was given to Mars perhaps because its orbit is enclosed by that shape.
- <!-- which also had elsewhere the name Pyrois (fiery one) from fire; and to it  -->
+Mars was the interpreted to the word "fire".
 
+And so the tetrahedron was given to Mars perhaps because its orbit is enclosed by that shape.
+
+<!-- which also had elsewhere the name Pyrois (fiery one) from fire; and to it  -->
 
 The icosahedron was assigned to water, which I assign to the star of Venus (as the one of which the course is contained within the icosahedron).
 - This is because liquids are subject to Venus, and she herself is said to have risen from the sea foam, whence the name “Aphrodite”. 

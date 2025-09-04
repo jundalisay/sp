@@ -13,8 +13,7 @@ icon: "Kepler"
 
 ## Part 1: Planes
 
-A plane figure is regular if it has all its sides and all its outward-facing angles equal to one
-another as below:
+A plane figure is regular if it has all its sides and all its outward-facing angles equal to one another as below:
 
 ![Plane](/graphics/physics/harmony001.png)
 

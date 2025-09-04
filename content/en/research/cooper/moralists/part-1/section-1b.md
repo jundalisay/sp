@@ -1,0 +1,23 @@
+---
+heading: Section 1b
+title: "Philosophy Vs Politics"
+weight: 4
+date: 2025-09-02
+c: "purple"
+---
+
+
+
+We need not wonder, therefore, that the sort of moral Painting, by way of Dialogue, is so much out of fashion; and that we see no more of these philosophical Portraitures now-a-days. For where are the Originals? Or what tho you (Palemon) or I, by chance, have lighted on such a one; and pleas’d our-selves with the Life? Can you imagine it shou'd make a good Picture?
+
+You know too, that in this Academick Philosophy I am to present you with, there is a certain way of Questioning and Doubting, which no-way sutes the Genius of our Age. Men love to take party instantly. They can't bear being kept in suspence. The Examination torments 'em. They want to be rid of it, upon the easiest terms. 'Tis as if Men fancy'd themselves drowning, whenever they dare trust to the Current of Reason. They seem hurrying away, they know not whither; and are ready to catch at the first Twig. There they chuse afterwards to hang, tho ever so insecurely, rather than trust their Strength to bear 'em above Water. He who has got hold of an Hypothesis, how slight soever, is satisfy'd. He can presently answer every Objection, and, with a few Terms of Art, give an account of every thing without trouble.
+
+'Tis no wonder if in this Age the Philosophy of the Alchymists prevails so much: since it promises such Wonders, and requires more the Labour of Hands than Brains. We have a strange Fancy to be Creators, a violent Desire at least to know the Knack or Secret by which Nature does all. The rest of our Philosophers only aim at that in Speculation, which our Alchymists aspire to in Practice. For with some of these it has been actually under deliberation how to make Man, by other Mediums than Nature has hitherto provided. Every Sect has a Recipe. 
+
+When you know it, you are Master of Nature: you solve all her [2]Phœnomena: you see all her Designs, and can account for all her Operations. If need were, you might, perchance too, be of her Laboratory, and work for her. At least one wou’d imagine the Partizans of each modern Sect had this Conceit. They are all Archimedes's in their way, and can make a World upon easier terms than he offer'd to move one.
+
+In short; there are good Reasons for our being thus superficial, and consequently thus dogmatical in Philosophy. We are too lazy and effeminate, and withal a little too cowardly, to dare doubt. The decisive way best becomes our Manners. It sutes as well with our Vices as with our Superstition. Which-ever we are fond of, is secur'd by it. If in favour of Religion we have espous'd an Hypothesis, on which our Faith, we think, depends; we are superstitiously careful not to be loosen'd in it. If, by means of our ill Morals, we are broken with Religion; 'tis the same Case still: We are as much afraid of Doubting. We must be sure to say, "It cannot be;" and "'tis Demonstrable: For otherwise Who knows? And not to know, is to yield!"—
+
+Thus we will needs know every thing, and be at the pains of examining nothing. Of all Philosophy, therefore, how absolutely the most disagreeable must that appear, which goes upon no establish'd Hypothesis, nor presents us with any flattering Scheme, talks only of Probabilitys, Suspence of Judgment, Inquiry, Search, and Caution not to be impos'd on, or deceiv'd? This is that Academick Discipline in which formerly [3]the Youth were train'd: when not only Horsemanship and Military Arts had their publick Places of Exercise; but Philosophy too had its Wrestlers in repute. Reason and Wit had their Academy, and underwent this Trial; not in a formal way, apart from the World; but openly, among the better sort, and as an Exercise of the genteeler kind. This the greatest Men were not asham’d to practise, in the Intervals of publick Affairs, in the highest Stations and Employments, and at the latest hour of their Lives. Hence that way of Dialogue, and Patience of Debate and Reasoning, of which we have scarce a Resemblance left in any of our Conversations, at this season of the World.
+
+Consider then, Palemon, what our Picture is like to prove: and how it will appear; especially in the Light you have unluckily chosen to set it. For who wou'd thus have confronted Philosophy with the Gaiety, Wit, and Humour of the Age?——If this, however, can be for your Credit, I am content. The Project is your own. 'Tis you who have match'd Philosophy thus unequally. Therefore leaving you to answer for the Success, I begin this inauspicious Work, which my ill Stars and you have assign'd me; and in which I hardly dare ask Succour of the Muses, as poetical as I am oblig'd to shew my-self in this Enterprize.

@@ -17,7 +17,8 @@ Consciousness is the supreme subjectivity.
 
 Therefore, the mind is not an absolute entity. 
 - Instead, **it is a transformed state of consciousness**. 
-- To perform its actions, it depends on the motor or sensory organs as its direct agents.
+
+To perform its actions, it depends on the motor or sensory organs as its direct agents.
 - Afferent and efferent nerves, in their turn, act as direct agents of these organs.
 
 The nerves:
@@ -65,8 +66,7 @@ In terms of the efferent nerves, the activating (radiating) capacity of the ego 
 
 Thus, the mind acts through the organs and nerves to receive or radiate the quantum-perceptions. 
 
-The portion of mind which deals with the sense-organs is called the crude portion.
-<!-- kamamaya  -->
+The portion of mind which deals with the sense-organs is called the crude portion (kamamaya).
 - This controls the physical longings of the microcosm.
 
 <!-- As regards the Macrocosm, the mind is said to be started at that stage where the sense of subjectivity (Identity-Layer), the subjectivated “I” (Ego-Layer) and the objectivated “I” (mindstuff) are all present. 
@@ -243,3 +243,33 @@ World or "loka" refers only to the Macrocosm and not to the unit.
 
 
 31 May 1959, Jamalpur
+
+
+<!-- densities = lokas
+1 physical      crude
+2 crude mental  crude
+3 mental      subtle manomaya
+4 supremental  causal 3
+5 subliminal causal 2
+6 tapar causal 1
+7 satya 
+
+tattva = elements or constituents
+1
+2
+3
+4
+5
+
+kosha =  strata
+1. Causal 1 (hirańmaya)
+  - this is called “causal” or “astral” mind collectively with the vijiṋánamaya and atimánasa kosas
+2. Causal 2 (vijiṋanamaya)
+3. Causal 3 (atimanasa)
+4. Subtle (manomaya)
+- this is known as the “subtle mind” or súkśma manah
+5. Crude (kámamaya kośa)  conscious mind
+6. annamaya kosa
+-->
+
+

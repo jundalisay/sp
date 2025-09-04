@@ -14,25 +14,40 @@ I have totally avoided the ancient astronomical hypotheses of:
 - Ptolemy in the Theoricae of Peurbach
 - the other writers of Epitomes
 
-They do not convey truthfully either the arrangement of the bodies in the world or the commonwealth of the motions.
+They do not convey truthfully the:
+- arrangement of the bodies in the world or
+- commonwealth of the motions
 
-I replace them solely with the opinion of Copernicus and persuade everyone to believe it.
+I replace them solely with Copernicus' opinion and persuade everyone to believe it.
 
 The common herd of scholars will find it absurd that the Earth is one of the planets, and is carried among the stars around an unmoving Sun.
 
 My speculations about harmonies are consistent with the hypotheses of Tycho Brahe who arranged the bodies and the combination of their motions in common with Copernicus.
 
-It is only the Copernican annual motion of the Earth which he transfers to the whole system of the planetary spheres, and to the Sun, which occupies the middle by the agreement of both authors. 
+It is only the Copernican annual motion of the Earth which he transfers to the whole system of the planetary spheres, and to the Sun, which occupies the middle by the agreement of both authors.
 
-For by this transference of the motion it nevertheless comes about that the Earth, if not in that vast and immense space within the sphere of the fixed stars, yet at least in the system of the planetary world, takes the same position at any given time according to Brahe as Copernicus gives it. 
+<!-- For by this transference of the motion it nevertheless comes about that the Earth, if not in that vast and immense space within the sphere of the fixed stars, yet at least in the system of the planetary world, takes the same position at any given time according to Brahe as Copernicus gives it. -->
 
-In fact, just as someone who draws a circle on paper moves the writing leg of his corripasses round, whereas someone who fastens his paper or tablet to a revolving wheel describes the same circle, without moving the leg of his compasses or his pen, on the tablet as it moves round; in the same way in this case for Copernicus indeed the Earth traces out a circle by a real motion of its own body, passing in between the circles of Mars on the outside and Venus on the inside; but for Tycho Brahe the whole planetary system (in which among the others are also the circles of Mars and Venus) turns, like the tablet on the wheel, applying to the motionless Earth, as if to the pen of the man who turns the wheel, the blank space between the circles of Mars and Venus.
+Drawing a circle on paper can be done by moving:
+- the writing leg of a compass around
+- fastening paper to a revolving wheel to draw the same circle without moving the leg of his compass
+
+
+For Copernicus, the Earth traces out a circle by a real motion of its own body.
+
+It passes in between the circles of Mars on the outside and Venus on the inside.
+
+But for Tycho, the whole planetary system (in which among the others are also the circles of Mars and Venus) turns, like the tablet on the wheel, applying to the motionless Earth, as if to the pen of the man who turns the wheel, the blank space between the circles of Mars and Venus.
 
 The effect of this motion of the system is that the Earth marks on it the same circle round the Sun, intermediate between those of Mars and Venus, while itself it remains motionless, as according to Copernicus it marks out by a true motion of its own body, with the system at rest.
 
-Harmonic study considers the motions of the planets as eccentric, as if viewed from the Sun. If an observer were on the Sun, even though it were in motion, to him the Earth, although it were at rest (to make a concession already to Brahe), would nevertheless appear to be going around an annual circuit, placed in between the planets, and also in an intermediate period of time. 
+Harmonic study considers the motions of the planets as eccentric, as if viewed from the Sun. 
 
-Hence if there is a man whose confidence is too weak for him to be able to accept the motion of the Earth among the stars, nevertheless he will be able to rejoice in the marvelous study of this absolutely divine mechanism, if he applies whatever he is told about the daily motions of the Earth on its eccentric to their appear ance from the Sun, the same appearance as Tycho Brahe shows, with the Earth at rest.
+If an observer were on the Sun, even though it were in motion, to him the Earth, although it were at rest (to make a concession already to Brahe), would nevertheless appear to be going around an annual circuit, placed in between the planets, and also in an intermediate period of time. 
+
+Some people are too weak to believe that the Earth is revolving. They will find comfort in Tycho's system.
+
+  <!-- among the stars, nevertheless he will be able to rejoice in the marvelous study of this absolutely divine mechanism, if he applies whatever he is told about the daily motions of the Earth on its eccentric to their appear ance from the Sun, the same appearance as Tycho Brahe shows, with the Earth at rest. -->
 
 However, true enthusiasts for the Samian philosophy'*'’ have no just cause to grudge such people this share in a most delightful speculation.
 

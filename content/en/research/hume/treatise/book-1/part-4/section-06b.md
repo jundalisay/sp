@@ -11,26 +11,28 @@ icon: "David Hume"
 ---
 
 
-
-Our idea of the personal identity which produces thought or imagination can be explained by our idea on the personal identity of plants and animals.
+ <!-- the personal identity which produces thought or imagination  personal identity of -->
+Our idea of the self can be explained by our idea on the selves of plants and animals.
 
 There is a great analogy between:
 - the personal identity of plants and animals which produces thought or imagination, and
 - the personal identity of a person.
 
-We have a distinct idea of an object that remains unchanged through time.
-- We call this idea 'identity' or 'sameness'.
+'Identity' or 'sameness' is the distinct idea of an object that remains unchanged through time.
 
-We also have a distinct idea of several related objects existing in succession.
-- This gives us a perfect a notion of 'diversity', as if those objects were not related.
+'Diversity' is the distinct idea of different unrelated objects existing in succession.
 
-These two ideas of 'sameness' and 'diversity' are perfectly distinct and even contrary.
+<!-- - This gives us a perfect a notion of 'diversity', as if those objects were not related. -->
+
+'Identity' or sameness' is opposite of 'diversity'.
+
+ <!-- are perfectly distinct and even contrary. -->
 - Yet in our common way of thinking, they are confounded with each other.
 
-The action of the mind that comes up with the idea of sameness and the idea of diversity feels almost the same.
-- The effort required in both is the same.
+<!-- The action of the mind that comes up with the idea of sameness and the idea of diversity feels almost the same.
+- The effort required in both is the same. -->
 
-But the similarity of the successive objects in our idea of diversity makes us consider it as one continued object.
+The **similarity** of the successive objects in our idea of diversity makes us consider it as one continued object.
 - This resemblance is the cause of the confusion and mistake.
 
 **It makes us replace the diversity of objects with the notion of identity.**

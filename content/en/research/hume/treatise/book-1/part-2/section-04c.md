@@ -134,9 +134,12 @@ Since no idea of quantity is infinitely divisible, it is most absurd to try:
 All arguments founded on this absurdity will have a new absurdity.
 
 For example, all mathematicians are judged by the diagrams they write on paper.
+
 They tell us these diagrams are loose drafts which only convey certain ideas which are the true foundation of all our reasoning.
+
 This is satisfactory, if they just refer to them as ideas.
-A circle touching a line
+
+<!-- A circle touching a line -->
 
 I ask our mathematician to think of a circle touching a straight line.
 
