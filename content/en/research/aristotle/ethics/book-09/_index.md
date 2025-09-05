@@ -1,6 +1,6 @@
 ---
-heading: "Book 7"
-title: "Virtue"
+heading: "Book 9"
+title: "Virtue and Happiness"
 weight: 100
 writer:
   name: Aristotle

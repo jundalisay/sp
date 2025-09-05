@@ -1,7 +1,7 @@
 ---
 heading: Chapter 2
 title: "The Hereditary Mechanism"
-weight: 6
+weight: 10
 c: "steelblue"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
@@ -18,13 +18,13 @@ Bewahren die lebend'gen Schatze,
 Aus welchen sich das All geschmiickt. I GOETHE -->
 
 
-THE CLASSICAL PHYSICIST'S EXPECTATION IS WRONG
+## The Classical Physicist'S Expectation Is Wrong
 
-An organism and all the biologically relevant processes that it experiences must
-have an extremely 'many-atomic' structure and must be
-safeguarded against haphazard, 'single-atomic' events attaining too great importance. 
+An organism and all the biologically relevant processes that it experiences must:
+- have an extremely 'many-atomic' structure 
+- be safeguarded against haphazard, 'single-atomic' events attaining too great importance. 
 
-The 'naIve physicist' tells us, is
+The 'naive physicist' tells us, is
 essential, so that the organism may, so to speak, have
 sufficiently accurate physical laws on which to draw for
 setting up its marvellously regular and well-ordered working.
@@ -69,5 +69,3 @@ large-scale features which the organism acquires in the course
 of its development, they determine important characteristics
 of its functioning; and in all this very sharp and very strict
 biological laws are displayed.
-
-

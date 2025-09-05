@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1b
-title: "Statistical Physics. The Fundamental Difference In Structure"
+title: "The Working Of An Organism Requires Exact Physical Laws"
 weight: 6
 c: "steelblue"
 description: "Each language has 5 fundamental characteristics"
@@ -11,123 +11,145 @@ writer:
 ---
 
 
-<!-- That would be a very trivial remark if it were meant only to
-stimulate the hope of achieving in the future what has not
-been achieved in the past. But the meaning is very much more
-positive, viz. that the inability, up to the present moment, is
-amply accounted for. -->
 
-Today, thanks to the ingenious work of biologists, mainly of
-geneticists, during the last thirty or forty years, enough is
-known about the actual material structure of organisms and
-about their functioning to state that, and to tell precisely why,
-present-day physics and chemistry could not possibly account
-for what happens in space and time within a living organism.
+<!-- If it were not so, if we were organisms so sensitive that a single atom, or even a few atoms, could make a perceptible impression on our senses - Heavens, what would life be like! To stress one point: an organism of that kind would most certainly not be capable of developing the kind of orderly thought which, after passing through a long sequence of earlier stages, ultimately results in forming, among many other ideas, the idea of an atom.
 
-The arrangements of the atoms in the most vital parts of an
-organism and the interplay of these arrangements differ in a
-fundamental way from all those arrangements of atoms which
-physicists and chemists have hitherto made the object of their
-experimental and theoretical research. Yet the difference
-which I have just termed fundamental is of such a kind that it
-might easily appear slight to anyone except a physicist who is
-thoroughly imbued with the knowledge that the laws of
-physics and chemistry are statistical throughout. 
+Even though we select this one point, the following considerations would essentially apply also to the functioning of organs other than the brain and the sensorial system. 
 
-I For it is in
-relation to the statistical point of view that the structure of the
-vital parts of living organisms differs so entirely from that of
-any piece of matter that we physicists and chemists have ever
-handled physically in our laboratories or mentally at our writing desks. 
+Nevertheless, the one and only thing of paramount interest to us in ourselves is, that  -->
 
-I I t is well-nigh unthinkable that the laws and
-regularities thus discovered should happen to apply imme-
-diately to the behaviour of systems which do not exhibit the
-structure on which those laws and regularities are based.
+We feel and think and perceive. 
 
-The non-physicist cannot be expected even to grasp - let
-alone to appreciate the relevance of - the difference in
-'statistical structure' stated in terms so abstract as I have just
-used. To give the statement life and colour, let me anticipate
-what will be explained in much more detail later, namely, that
-the most essential part of a living cell - the chromosome fibre
-- may suitably be called an aperiodic crystal. In physics we have
-dealt hitherto only with periodic crystals. 
+All the other physiological process play an auxiliary part to the process responsible for thought and sense.
 
-To a humble physicist's mind, these are very interesting and complicated
-objects; they constitute one of the most fascinating and
-complex material structures by which inanimate nature
-puzzles his wits. Yet, compared with the aperiodic crystal,
-they are rather plain and dull. The difference in structure is of
-the same kind as that between an ordinary wallpaper in which
-the same pattern is repeated again and again in regular
-periodicity and a masterpiece of embroidery, say a Raphael
-tapestry, which shows no dull repetition, but an elaborate,
-coherent, meaningful design traced by the great master.
-In calling the periodic crystal one of the most complex
-objects of his research, I had in mind the physicist proper.
-Organic chemistry, indeed, in investigating more and more
-complicated molecules, has come very much nearer to that
-'aperiodic crystal' which, in my opinion, is the material
-carrier of life. And therefore it is small wonder that the organic
-chemist has already made large and important contributions
-to the problem of life, whereas the physicist has made next to
-none.
+ <!-- , at least from the human point of view, if not from that of purely objective biology.  -->
+
+<!-- Moreover, it will greatly facilitate our task to choose for investigation the process which is closely accompanied by subjective events, even though we are ignorant of the true nature of this close parallelism. Indeed, in my view, it lies outside the range of natural science and very probably of human understanding altogether.
+
+We are thus faced with the following question:  -->
+
+Why should our brain, with the sensorial system attached to it, have so many atoms for its physically changing state to correspond with a highly developed thought? 
+
+<!-- A thought from the brain is incompatible with
+
+On what grounds is the latter task of the said organ incompatible with being, as a whole or in some of its peripheral parts which interact directly with the environment, a mechanism suffi- ciently refined and sensitive to respond to and register the impact of a single atom from outside? -->
+
+This is because a thought:
+- is an orderly thing, and
+- can only be applied to material, i.e. to perceptions or experiences, which have a certain degree of
+orderliness. 
+
+This has 2 consequences.
+
+1. For a brain (physical organization) to be in close correspondence with thought, it must be a very well-ordered organization.
+
+This means that the events that happen within it must obey strict physical laws, at least to a very high degree of accuracy. 
+
+2. The physical impressions made on that brain (physically well-organized system) by other external bodies obviously correspond to the perception and experience of the corresponding thought, forming its 'material', as I have called it. 
+
+Therefore, the physical interactions between our system and others must, as a rule, themselves have a certain physical orderliness.
+
+They too must obey strict physical laws to a certain degree of accuracy.
 
 
-## THE NAIVE PHYSICIST'S APPROACH 
+## Physical Laws Rest On Atomic Statistics And Are Therefore Only Approximate
 
-After having thus indicated very briefly the general idea - or rather the ultimate scope - of our investigation, let me describe the line of attack.
+Why could this not be fulfilled by a brain of a few atoms only?
 
-I propose to develop first what you might call 'a naive physicist's ideas about organisms', that is, the ideas which might arise in the mind of a physicist who, after having learnt his physics and, more especially, the statistical foundation of his science, begins to think about organisms and about the way they behave and function and who comes to ask himself conscientiously whether he, from what he has learnt, from the point of view of his comparatively simple and clear and humble science, can make any relevant contributions to the question.
+<!--  in the case of an
+organism composed of a moderate number of atoms only and
+sensitive already to the impact of one or a few atoms only? -->
 
-It will turn out that he can. The next step must be to compare his theoretical anticipations with the biological facts. I t will then turn out that - though on the whole his ideas seem quite sensible - they need to be appreciably amended. In this way we shall gradually approach the correct view - or, to put it more modestly, the one that I propose as the correct one. Even if I should be right in this, I do not know whether my way of approach is really the best and simplest. But, in short, it was mine. The 'naive physicist' was myself. And I could not find any better or clearer way towards the goal than my own crooked one.
+All atoms perform a completely disorderly heat motion which:
+- opposes their orderly behaviour
+- does not allow the events that happen between a few atoms to enrol themselves according to any recognizable laws
 
+Only in the co-operation of a huge number of atoms do statistical laws begin to operate and control the behaviour of these assemblies accurately.
+- This accuracy increases as the number of atoms involved increases. 
 
-## WHY ARE THE ATOMS SO SMALL?
+This is how the events acquire truly orderly features.
 
-A good method of developing 'the naive physicist's ideas' is to start from the odd, almost ludicrous, question: Why are atoms so small? To begin with, they are very small. 
+All the physical and chemical laws that play a part in the life of organisms are of this statistical kind.
 
-Every little piece of matter handled in everyday life contains an enormous number of them. Many examples have been devised to bring this fact home to an audience, none of them more impressive than the one used by Lord Kelvin: Suppose that you could mark the molecules in a glass of water; then pour the contents of the glass into the ocean and stir the latter thoroughly so as to distribute the marked molecules uniformly throughout the seven seas; if then you took a glass of water anywhere out of the ocean, you would find in it about a hundred of your marked molecules.
-
-I
-The actual sizes of atoms 2 lie between about 50
-1
-00 and 20
-1
-00 of the wave-length of yellow light. The comparison is significant,
-because the wave-length roughly indicates the dimensions of
-the smallest grain still recognizable in the microscope. Thus it
-will be seen that such a grain still contains thousands of
-millions of atoms.
+Any other kind of lawfulness and orderliness that one might think of is being perpetually disturbed and made inoperative by the unceasing heat motion of the atoms.
 
 
-Clearly, the question is an evasion. For it is not really aimed at the size of the atoms. I t is concerned with the size of organisms, more particularly with the size of our own corporeal selves. Indeed, the atom is small, when referred to our civic unit of length, say the yard or the metre. In atomic physics one is accustomed to use the so-called Angstrom (abbr. A), which is the 1 oIoth part of a metre, or in decimal notation 0.0000000001 metre. Atomic diameters range between I and 2A. Now those civic units (in relation to which the atoms are so small) are closely related to the size of our bodies. 
+## Their Precision Is Based On The Large Number Of Atoms Intervening.
 
-There is a story tracing the yard back to the humour of an English king whom his councillors asked what unit to adopt - and he stretched out his arm sideways and said: 'Take the distance from the middle of my chest to my fingertips, that will do all right.' True or not, the story is significant for our purpose. 
 
-The king would naturally indicate a length comparable with that of his own body, knowing that anything else would be very inconvenient. With all his predilection for the Angstrom unit, the physicist prefers to be told that his new sujt will require six and a half yards of
-tweed - rather than sixty-five thousand millions of Angstroms of tweed.
+### Example 1 (PARAMAGNETISM)
 
-<!-- I You would not, of course, find exactly 100 (even if that were the exact result of the
-computation). You might find 88 or 95 or 107 or 112, but very improbably as few as
-50 or as many as 150. A 'deviation' or 'fluctuation' is to be expected of the order of
-the square root of 100, i.e. 10. The statistician expresses this by stating that you
-would find I oo± 10. This remark can be ignored for the moment, but will be referred
-to later, affording an example of the statistical V n law.
-2According to present-day views an atom has no sharp boundary, so that 'size' of an
-atom is not a very well-defined conception. But we may identify it (or, if you please,
-replace it) by the distance between their centres in a solid or in a liquid - not, of
-course, in the gaseous state, where that distance is, under normal pressure and
-temperature, roughly ten times as great. -->
+<!-- Let me try to illustrate this by a few examples, picked
+somewhat at random out of thousands, and possibly not just
+the best ones to appeal to a reader who is learning for the first
+time about this condition of things - a condition which in
+modern physics and chemistry is as fundamental as, say, the
+fact that organisms are composed of cells is in biology, or as
 
-It thus being settled that our question really aims at the ratio of two lengths - that of our body and that of the atom - with an incontestable priority of independent existence on the side of the atom, the question truly reads: Why must our bodies be so large compared with the atom?
 
-I can imagine that many a keen student of physics or chemistry may have deplored the fact that everyone of our sense organs, forming a more or less substantial part of our body and hence (in view of the magnitude of the said ratio) being itself composed of innumerable atoms, is much too coarse to be affected by the impact of a single atom. We cannot see or feel or hear the single atoms. ()ur hypotheses with regard to them differ widely from the immediate findings of our gross sense organs and cannot be put to the test of direct inspection.
+Newton's Law in astronomy, or even as the series of integers,
+I, 2, 3, 4, 5, ... in mathematics. An entire newcomer should
+not expect to obtain from the following few pages a full
+understanding and appreciation of the subject, which is
+associated with the illustrious names of Ludwig Boltzmann
+and Willard Gibbs and treated in textbooks under the name of
+'statistical thermodynamics'. -->
 
-Must that be so? Is there an intrinsic reason for it? Can we trace back this state of affairs to some kind of first principle, in order to ascertain and to understand why nothing else is compatible with the very laws of Nature?
 
-Now this, for once, is a problem which the physicist is able to clear up completely. The answer to all the queries is in the
-affirmative.
+If you fill an oblong quartz tube with oxygen gas and put it into a magnetic field, the gas becomes magnetized. 
 
+<!-- The magnetization is due to the fact that  -->
+
+The oxygen molecules are little magnets which orientate themselves parallel to the field, like a compass needle. 
+
+But they do not actually all turn parallel. For if you double the field, you get double the magnetization in your oxygen body.
+
+<!-- , and that
+proportionality goes on to extremely high field strengths, the
+magnetization increasing at the rate of the field you apply. -->
+
+This is an example of a purely statistical law. 
+
+The orientation of the field is continually counteracted by the heat motion, which works for random orientation. 
+
+The effect of this striving is, actually, only a small preference for acute over obtuse angles between the dipole axes and the field. 
+
+<!-- Though the single atoms change their orientation incessantly, they produce on the average (owing to
+their enormous number) a constant small preponderance of
+orien ta tion in the direction of the field and proportional to it.
+This ingenious explanation is due to the French physicist P.
+Langevin. 
+
+It can be checked in the following way. If the
+observed weak magnetization is really the outcome of rival
+tendencies, namely, the magnetic field, which aims at comb-
+ing all the molecules parallel, and the heat motion, which
+makes for random orientation, then it ought to be possible to
+increase the magnetization by weakening the heat motion,
+that is to say, by lowering the temperature, instead of
+reinforcing the field. 
+
+That is confirmed by experiment, which
+gives the magnetization inversely proportional to the absolute
+temperature, in quantitative agreement with theory (Curie's
+law). Modern equipment even enables us, by lowering the
+temperature, to reduce the heat motion to such insignificance
+that the orientating tendency of the magnetic field can assert
+itself, if not completely, at least sufficiently to produce a
+substantial fraction of 'complete magnetization'. In this case
+we no longer expect that double the field strength will double
+the magnetization, but that the latter will increase less and
+less with increasing field, approaching what is called 'satura-
+tion'. This expectation too is quantitatively confirmed by
+experiment. -->
+
+<!-- I A gas is chosen, because it is simpler than a solid or a liquid; the fact that the
+magnetization is in this case extremely weak, will not impair the theoretical
+considerations. -->
+
+This behaviour entirely depends on so many molecules which co-operate in producing the observable magnetization. 
+
+Otherwise, the latter would not be constant at all, but would, by fluctuating quite irregularly
+from one second to the next, bear witness to the vicissitudes of
+the contest between heat motion and field.
 

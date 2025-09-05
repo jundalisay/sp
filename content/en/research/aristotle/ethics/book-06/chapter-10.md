@@ -1,5 +1,5 @@
 ---
-heading: Chapter 8
+heading: Chapter 10
 title: "What is Reciprocation?"
 weight: 12
 writer:

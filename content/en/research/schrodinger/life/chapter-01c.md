@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1c
-title: "THE WORKING OF AN ORGANISM REQUIRES EXACT PHYSICAL LAWS"
-weight: 6
+title: "Second Example (Brownian Movement, Diffusion)"
+weight: 8
 c: "steelblue"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
@@ -12,126 +12,179 @@ writer:
 
 
 
-If it were not so, if we were organisms so sensitive that a single atom, or even a few atoms, could make a perceptible impres- sion on our senses - Heavens, what would life be like! To stress one point: an organism of that kind would most certainly not be capable of developing the kind of orderly thought which, after passing through a long sequence of earlier stages, ultimately results in forming, among many other ideas, the idea of an atom.
+If you fill the lower part of a closed glass vessel with fog,
+consisting of minute droplets, you will find that the upper
+boundary of the fog gradually sinks, with a well-defined
+velocity, determined by the viscosity of the air and the size of a sinking droplet.
 
-Even though we select this one point, the following considerations would essentially apply also to the functioning of organs other than the brain and the sensorial system. 
+Fig. 2. Sinking fog. Fig. 3. Brownian movement
 
-Nevertheless, the one and only thing of paramount interest to us in ourselves is, that we feel and think and perceive. To the physiological process which is responsible for thought and sense all the others play an auxiliary part, at least from the human point of view, if not from that of purely objective biology. 
+and the specific gravity of the droplets. But if you look at one
+of the droplets under the microscope you find that it does not
+permanently sink with constant velocity, but performs a very
+irregular movement, the so-called Brownian movement,
+which corresponds to a regular sinking only on the average.
+Now these droplets are not atoms, but they are sufficiently
+small and light to be not entirely insusceptible to the impact of
+one single molecule of those which hammer their surface in
+perpetual impacts. They are thus knocked about and can only
+on the average follow the influence of gravity.
 
-Moreover, it will greatly facilitate our task to choose for investigation the process which is closely accompanied by subjective events, even though we are ignorant of the true nature of this close parallelism. Indeed, in my view, it lies outside the range of natural science and very probably of human understanding altogether.
 
-We are thus faced with the following question: Why should an organ like our brain, with the sensorial system attached to it, of necessity consist of an enormous number of atoms, in order that its physically changing state should be in close and intimate correspondence with a highly developed thought? 
+Fig. 4. Diffusion from left to right in a solution of varying concentration.
 
-On what grounds is the latter task of the said organ incompatible with being, as a whole or in some of its peripheral parts which interact directly with the environment, a mechanism suffi- ciently refined and sensitive to respond to and register the impact of a single atom from outside?
+This example shows what funny and disorderly experience
+we should have if our senses were susceptible to the impact of a few molecules only. There are bacteria and other organisms
+so small that they are strongly affected by this phenomenon.
 
-The reason for this is, that what we call thought (I) is itself
-an orderly thing, and (2) can only be applied to material, i.e.
-to perceptions or experiences, which have a certain degree of
-orderliness. This has two consequences. First, a physical
-organization, to be in close correspondence with thought (as
-my brain is with my thought) must be a very well-ordered
-organization, and that means that the events that happen
-within it must obey strict physical laws, at least to a very high
-degree of accuracy. Secondly, the physical impressions made
-upon that physically well-organized system by other bodies
-from outside, obviously correspond to the perception and
-experience of the corresponding thought, forming its material, as I have called it. Therefore, the physical interactions
-between our system and others must, as a rule, themselves
-possess a certain degree of physical orderliness, that is to say,
-they too must obey strict physical laws to a certain degree of
-accuracy.
+Their movements are determined by the thermic whims of the
+surrounding medium; they have no choice. If they had some
+locomotion of their own they might nevertheless succeed in
+getting from one place to another - but with some difficulty,
+since the heat motion tosses them like a small boat in a rough
+sea.
 
-## PHYSICAL LAWS REST ON ATOMIC STATISTICS AND ARE THEREFORE ONLY APPROXIMATE
+A phenomenon very much akin to Brownian movement is
+that of difJusion~ Imagine a vessel filled with a fluid, say water,
+with a small amount of some coloured substance dissolved in
+it, say potassium permanganate, not in uniform concentra-
+tion, but rather as in Fig. 4, where the dots indicate the
+molecules of the dissolved substance (permanganate) and the
+concentration diminishes from left to right. If you leave this
+system alone a very slow process of 'diffusion' sets in, the
+permanganate spreading in the direction from left to right,
+that is, from the places of higher concentration towards the
+places of lower concentration, until it is equally distributed
+through the water.
 
-And why could all this not be fulfilled in the case of an
-organism composed of a moderate number of atoms only and
-sensitive already to the impact of one or a few atoms only?
-Because we know all atoms to perform all the time a
-completely disorderly heat motion, which, so to speak,
-opposes itself to their orderly behaviour and does not allow
-the events that happen between a small number of atoms to
-enrol themselves according to any recognizable laws. Only in
-the co-operation of an enormously large number of atoms do
-statistical laws begin to operate and control the behaviour of
-these assemblies with an accuracy increasing as the number of
-atoms involved increases. I t is in that way that the events
-acquire truly orderly features. All the physical and chemical
-laws that are known to play an important part in the life of
-organisms are of this statistical kind; any other kind of
-lawfulness and orderliness that one might think of is being
-perpetually disturbed and made inoperative by the unceasing
-heat motion of the atoms.
+The remarkable thing about this rather simple and appar-
+ently not particularly interesting process is that it is in no way
+due, as one might think, to any tendency or force driving the
+permanganate molecules away from the crowded region to the
+less crowded one, like the population of a country spreading to
+those parts where there is more elbow-room. Nothing of the sort happens with our permanganate molecules. Everyone of
+them behaves quite independently of all the others, which it
+very seldom meets. Everyone of them, whether in a crowded
+region or in an empty one, suffers the same fate of being
+continually knocked about by the impacts of the water
+molecules and thereby gradually moving on in an unpredictable direction - sometimes towards the higher, sometimes
+towards the lower, concentrations, sometimes obliquely. 
 
-THEIR PRECISION IS BASED ON THE LARGE NUMBER OF ATOMS INTERVENING.
+The
+kind of motion it performs has often been compared with that
+of a blindfolded person on a large surface imbued with a
+certain desire of 'walking', but without any preference for any
+particular direction, and so changing his line continuously.
+That this random walk of the permanganate molecules, the
+same for all of them, should yet produce a regular flow
+towards the smaller concentration and ultimately make for
+uniformity of distribution, is at first sight perplexing - but
+only at first sight. 
 
-FIRST EXAMPLE (PARAMAGNETISM)
+If you contemplate in Fig. 4 thin slices of
+approximately constant concentration, the permanganate
+molecules which in a given moment are contained in a
+particular slice will, by their random walk, it is true, be
+carried with equal probability to the right or to the left. But
+precisely in consequence of this, a plane separating two
+neighbouring slices will be crossed by more molecules coming
+from the left than in the opposite direction, simply because to
+the left there are more molecules engaged in random walk
+than there are to the right. And as long as that is so the
+balance will show up as a regular flow from left to right, until
+a uniform distribution is reached.
 
-Let me try to illustrate this by a few examples, picked
-somewhat at random out of thousands, and possibly not just
-the best ones to appeal to a reader who is learning for the first
-time about this condition of things - a condition which in
-modern physics and chemistry is as fundamental as, say, the
-fact that organisms are composed of cells is in biology, or as
+When these considerations are translated into mathematical language the exact law of diffusion is reached in the form
+of a partial differential equation
 
-Direction of magnetic field
+ap= DV2 p
+at '
+which I shall not trouble the reader by explaining, though its meaning in ordinary language is again simple enough. I The
+reason for mentioning the stern 'mathematically exact' law here, is to emphasize that its physical exactitude must nevertheless be challenged in every particular application. 
 
-Fig. I. Paramagnetism.
-J I
-Newton's Law in astronomy, or even as the series of integers,
-I, 2, 3, 4, 5, ... in mathematics. An entire newcomer should
-not expect to obtain from the following few pages a full
-understanding and appreciation of the subject, which is
-associated with the illustrious names of Ludwig Boltzmann
-and Willard Gibbs and treated in textbooks under the name of
-'statistical thermodynamics'.
+Being
+based on pure chance, its validity is only approximate. If it is,
+as a rule, a very good approximation, that is only due to the
+enormous number of molecules that co-operate in the
+phenomenon. The smaller their number, the larger the quite
+haphazard deviations we must expect - and they can be
+observed under favourable circumstances.
 
-If you fill an oblong quartz tube with oxygen gas and put it
-into a magnetic field, you find that the gas is magnetized. I
-The magnetization is due to the fact that the oxygen molecules
-are little magnets and tend to orientate themselves parallel to
-the field, like a compass needle. But you must not think that
-they actually all turn parallel. For if you double the field, you
-get double the magnetization in your oxygen body, and that
-proportionality goes on to extremely high field strengths, the
-magnetization increasing at the rate of the field you apply.
-This is a particularly clear example of a purely statistical
-law. The orientation the field tends to produce is continually
-counteracted by the heat motion, which works for random
-orientation. The effect of this striving is, actually, only a small
-preference for acute over obtuse angles between the dipole
-axes and the field. Though the single atoms change their orientation incessantly, they produce on the average (owing to
-their enormous number) a constant small preponderance of
-orien ta tion in the direction of the field and proportional to it.
-This ingenious explanation is due to the French physicist P.
-Langevin. It can be checked in the following way. If the
-observed weak magnetization is really the outcome of rival
-tendencies, namely, the magnetic field, which aims at comb-
-ing all the molecules parallel, and the heat motion, which
-makes for random orientation, then it ought to be possible to
-increase the magnetization by weakening the heat motion,
-that is to say, by lowering the temperature, instead of
-reinforcing the field. That is confirmed by experiment, which
-gives the magnetization inversely proportional to the absolute
-temperature, in quantitative agreement with theory (Curie's
-law). Modern equipment even enables us, by lowering the
-temperature, to reduce the heat motion to such insignificance
-that the orientating tendency of the magnetic field can assert
-itself, if not completely, at least sufficiently to produce a
-substantial fraction of 'complete magnetization'. In this case
-we no longer expect that double the field strength will double
-the magnetization, but that the latter will increase less and
-less with increasing field, approaching what is called 'satura-
-tion'. This expectation too is quantitatively confirmed by
-experiment.
+THIRD EXAMPLE (LIMITS OF ACCURACY OF MEASURING)
 
-<!-- I A gas is chosen, because it is simpler than a solid or a liquid; the fact that the
-magnetization is in this case extremely weak, will not impair the theoretical
-considerations. -->
+The last example we shall give is closely akin to the second
+one, but has a particular interest. A light body, suspended by
+a long thin fibre in equilibrium orientation, is often used by
+physicists to measure weak forces which deflect it from that
+position of equilibrium, electric, magnetic or gravitational
+forces being applied so as to twist it around the vertical axis.
+(The light body must, of course, be chosen appropriately for
+the particular purpose.) The continued effort to improve the
+accuracy of this very commonly used device of a 'torsional
+balance', has encountered a curious limit, most interesting in
+itself. In choosing lighter and lighter bodies and thinner and
+longer fibres - to make the balance susceptible to weaker and
+weaker forces - the limit was reached when the suspended
+body became noticeably susceptible to the impacts of the heat
+motion of the surrounding molecules and began to perform an
+incessant, irregular 'dance' about its equilibrium position,
+much like the trembling of the droplet in the second example.
+Though this behaviour sets no absolute limit to the accuracy
+of measurements obtained with the balance, it sets a practical
+one. The uncontrollable effect of the heat motion competes
+'To wit: the concentration at any given point increases (or decreases) at a time rate
+proportional to the comparative surplus (or deficiency) of concentration in its
+infinitesimal environment. The law of heat conduction is, by the way, of exactly the
+same form, 'concentration' having to be replaced by 'temperature'.
 
-Notice that this behaviour entirely depends on the large
-numbers of molecules which co-operate in producing the
-observable magnetization. Otherwise, the latter would not be
-constant at all, but would, by fluctuating quite irregularly
-from one second to the next, bear witness to the vicissitudes of
-the contest between heat motion and field.
+with the effect of the force to be measured and makes the
+single deflection observed insignificant. You have to multiply
+observations, in order to eliminate the effect of the Brownian
+movement of your instrument. This example is, I think,
+particularly illuminating in our present investigation. For our
+organs of sense, after all, are a kind of instrument. We can see
+how useless they would be if they became too sensi tive.
 
+
+## TH E Vn RULE
+
+
+There is not one law of physics or chemistry, of those that are
+relevant within an organism or in its in teractions with its
+environment, that I might not choose as an example. The
+detailed explanation might be more complicated, but the
+salient point would always be the same and thus the description would become monotonous.
+
+But I should like to add one very important quantitative
+statement concerning the degree of inaccuracy to be expected
+in any physical law, the so-called Y n law. I will first illustrate
+it by a simple example and then generalize it.
+
+If I tell you that a certain gas under certain conditions of
+pressure and temperature has a certain density, and if I
+expressed this by saying that within a certain volume (of a size
+relevant for some experiment) there are under these conditions
+just n molecules of the gas, then you might be sure that if you
+could test my statement in a particular moment of time, you
+would find it inaccurate, the departure being of the order ofYn.
+
+Hence if the number n == 100, you would find a departure of
+about 10, thus relative error == 10% • But if n == I million, you
+would be likely to find a departure of about 1,000, thus relative
+error == lo °10. Now, roughly speaking, this statistical law is
+quite general. The laws of physics and physical chemistry are
+inaccurate within a probable relative error of the order of I Ivn,
+where n is the number of molecules that co-operate to bring
+about that law - to produce its validity within such regions of
+space or time (or both) that matter, for some considerations or
+for some particular experiment.
+
+You see from this again that an organism must have a
+comparatively gross structure in order to enjoy the benefit of
+fairly accurate laws, both for its internal life and for its
+interplay with the external world. For otherwise the number
+of co-operating particles would be too small, the 'law' too
+inaccurate. The particularly exigent demand is the square
+root. For though a million is a reasonably large number, an
+accuracy of just I in 1,000 is not overwhelmingly good, if a
+thing claims the dignity of being a 'Law of Nature'.
