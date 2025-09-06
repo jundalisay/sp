@@ -39,52 +39,55 @@ It is in these cases that difficulty would be experienced in deciding whence the
 Further, if it were, it would have been in their power to stop themselves (I mean that if e.g. a thing can cause itself to walk it can also cause itself not to walk), and so, since on this supposition fire itself possesses the power of upward locomotion, it is clear that it should also possess the power of downward locomotion. Moreover if things move themselves, it would be unreasonable to suppose that in only one kind of motion is their
 motion derived from themselves. 
 
-Again, how can anything of continuous and naturally connected substance move itself? In so far as a thing is one and continuous not merely in virtue of contact, it is impassive: it is only in so far as a thing is divided that one part of it is by nature active and another passive. Therefore none of the things that we are now considering move themselves (for they are of naturally connected substance), nor does anything else that is continuous: in each case the movent must be separate from the moved, as we see to be the case with inanimate things when an animate thing moves them.
+How can anything of continuous and naturally connected substance move itself? 
 
-It is the fact that these things also always derive their motion from something: what it is would become evident if we were to distinguish the different kinds of cause. The above-mentioned distinctions can also be made in the case of things that cause motion: some of them are capable of causing motion unnaturally (e.g. the lever is not
-naturally capable of moving the weight), others naturally (e.g. what is actually hot is
-naturally capable of moving what is potentially hot): and similarly in the case of all
+In so far as a thing is one and continuous not merely in virtue of contact, it is impassive: it is only in so far as a thing is divided that one part of it is by nature active and another passive. 
+
+Therefore none of the things that we are now considering move themselves (for they are of naturally connected substance), nor does anything else that is continuous: in each case the movent must be separate from the moved, as we see to be the case with inanimate things when an animate thing moves them.
+
+It is the fact that these things also always derive their motion from something: what it is would become evident if we were to distinguish the different kinds of cause. 
+
+The above-mentioned distinctions can also be made in the case of things that cause motion: some of them are capable of causing motion unnaturally (e.g. the lever is not naturally capable of moving the weight), others naturally (e.g. what is actually hot is naturally capable of moving what is potentially hot): and similarly in the case of all
 other things of this kind.
 
 In the same way, too, what is potentially of a certain quality or of a certain quantity in a
 certain place is naturally movable when it contains the corresponding principle in itself
 and not accidentally (for the same thing may be both of a certain quality and of a certain
-quantity, but the one is an accidental, not an essential property of the other). So when
-fire or earth is moved by something the motion is violent when it is unnatural, and
-natural when it brings to actuality the proper activities that they potentially possess. But
-the fact that the term ‘potentially’ is used in more than one sense is the reason why it is
-not evident whence such motions as the upward motion of fire and the downward
-motion of earth are derived. One who is learning a science potentially knows it in a
-different sense from one who while already possessing the knowledge is not actually
-exercising it. Wherever we have something capable of acting and something capable of
-being correspondingly acted on, in the event of any such pair being in contact what is
-potential becomes at times actual: e.g. the learner becomes from one potential something
-another potential something: for one who possesses knowledge of a science but is not
-actually exercising it knows the science potentially in a sense, though not in the same
-sense as he knew it potentially before he learnt it. And when he is in this condition, if
-something does not prevent him, he actively exercises his knowledge: otherwise he
-would be in the contradictory state of not knowing. In regard to natural bodies also the
-case is similar. Thus what is cold is potentially hot: then a change takes place and it is
-fire, and it burns, unless something prevents and hinders it. So, too, with heavy and
-light: light is generated from heavy, e.g. air from water (for water is the first thing that is
-potentially light), and air is actually light, and will at once realize its proper activity as
-such unless something prevents it. The activity of lightness consists in the light thing
-being in a certain situation, namely high up: when it is in the contrary situation, it is
-being prevented from rising. The case is similar also in regard to quantity and quality.
-But, be it noted, this is the question we are trying to answer-how can we account for the
-motion of light things and heavy things to their proper situations? The reason for it is
-that they have a natural tendency respectively towards a certain position: and this
-constitutes the essence of lightness and heaviness, the former being determined by an
-upward, the latter by a downward, tendency. As we have said, a thing may be potentially
-light or heavy in more senses than one.
+quantity, but the one is an accidental, not an essential property of the other). 
 
-Thus not only when a thing is water is it in a sense potentially light, but when it has
-become air it may be still potentially light: for it may be that through some hindrance it
+
+So when fire or earth is moved by something the motion is violent when it is unnatural, and natural when it brings to actuality the proper activities that they potentially possess. But the fact that the term ‘potentially’ is used in more than one sense is the reason why it is not evident whence such motions as the upward motion of fire and the downward motion of earth are derived. One who is learning a science potentially knows it in a different sense from one who while already possessing the knowledge is not actually exercising it.
+
+Wherever we have something capable of acting and something capable of being correspondingly acted on, in the event of any such pair being in contact what is potential becomes at times actual: e.g. the learner becomes from one potential something another potential something: for one who possesses knowledge of a science but is not actually exercising it knows the science potentially in a sense, though not in the same sense as he knew it potentially before he learnt it.
+
+When he is in this condition, if something does not prevent him, he actively exercises his knowledge: otherwise he would be in the contradictory state of not knowing. In regard to natural bodies also the case is similar.
+
+Thus what is cold is potentially hot. A change takes place and it becomes fire. It burns unless something prevents and hinders it. 
+
+So, too, with weight. Light is generated from heavy. For example, air is generated from water (for water is the first thing that is potentially light). Air is actually light and will at once realize its proper activity as such unless something prevents it. 
+
+The activity of lightness consists in the light thing being in a certain situation, namely high up: when it is in the contrary situation, it is being prevented from rising. 
+
+The case is similar also in regard to quantity and quality.
+
+
+How can we account for the motion of light things and heavy things to their proper situations? 
+
+They have a natural tendency respectively towards a certain position.
+
+This constitutes the essence of lightness and heaviness.
+- Lightness is determined by an upward tendency
+- Heaviness is determined by a downward tendency
+
+A thing may be potentially light or heavy in more senses than one.
+
+Thus not only when a thing is water is it in a sense potentially light. 
+
+But when it has become air it may be still potentially light: for it may be that through some hindrance it
 does not occupy an upper position, whereas, if what hinders it is removed, it realizes its
-activity and continues to rise higher. The process whereby what is of a certain quality
-changes to a condition of active existence is similar: thus the exercise of knowledge
-follows at once upon the possession of it unless something prevents it. So, too, what is
-of a certain quantity extends itself over a certain space unless something prevents it. 
+activity and continues to rise higher. 
+
+The process whereby what is of a certain quality changes to a condition of active existence is similar: thus the exercise of knowledge follows at once upon the possession of it unless something prevents it. So, too, what is of a certain quantity extends itself over a certain space unless something prevents it.
 
 The thing in a sense is and in a sense is not moved by one who moves what is obstructing and preventing its motion (e.g. one who pulls away a pillar from under a roof or one who removes a stone from a wineskin in the water is the accidental cause of motion): 
 

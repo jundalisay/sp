@@ -27,18 +27,9 @@ But how will our conclusion work out in the case of the circle and the straight 
 would be absurd to suppose that the motion of one in a circle and of another in a
 straight line cannot be similar, but that the one must inevitably move more quickly or
 more slowly than the other, just as if the course of one were downhill and of the other
-uphill. Moreover it does not as a matter of fact make any difference to the argument to
-say that the one motion must inevitably be quicker or slower than the other: for then the
-circumference can be greater or less than the straight line; and if so it is possible for the
-two to be equal. For if in the time A the quicker (B) passes over the distance B’ and the
-slower (G) passes over the distance G’, B’ will be greater than G’: for this is what we
-took ‘quicker’ to mean: and so quicker motion also implies that one thing traverses an
-equal distance in less time than another: consequently there will be a part of A in which
-B will pass over a part of the circle equal to G’, while G will occupy the whole of A in
-passing over G’. None the less, if the two motions are commensurable, we are
-confronted with the consequence stated above, viz. that there may be a straight line
-equal to a circle. But these are not commensurable: and so the corresponding motions
-are not commensurable either.
+uphill. 
+
+Moreover it does not as a matter of fact make any difference to the argument to say that the one motion must inevitably be quicker or slower than the other: for then the circumference can be greater or less than the straight line; and if so it is possible for the two to be equal. For if in the time A the quicker (B) passes over the distance B’ and the slower (G) passes over the distance G’, B’ will be greater than G’: for this is what we took ‘quicker’ to mean: and so quicker motion also implies that one thing traverses an equal distance in less time than another: consequently there will be a part of A in which B will pass over a part of the circle equal to G’, while G will occupy the whole of A in passing over G’. None the less, if the two motions are commensurable, we are confronted with the consequence stated above, viz. that there may be a straight line equal to a circle. But these are not commensurable: and so the corresponding motions are not commensurable either.
 
 But may we say that things are always commensurable if the same terms are applied to
 them without equivocation? e.g. a pen, a wine, and the highest note in a scale are not
@@ -50,24 +41,14 @@ it be, then, that the term ‘quick’ has not the same meaning as applied to st
 and to circular motion respectively? If so, far less will it have the same meaning as
 applied to alteration and to locomotion.
 
-Or shall we in the first place deny that things are always commensurable if the same terms are applied to them without equivocation? For the term ‘much’ has the same meaning whether applied to water or to air, yet water and air are not commensurable in respect of it: or, if this illustration is not considered satisfactory, ‘double’ at any rate would seem to have the same meaning as applied to each (denoting in each case the
-proportion of two to one), yet water and air are not commensurable in respect of it. But
-here again may we not take up the same position and say that the term ‘much’ is
-equivocal? In fact there are some terms of which even the definitions are equivocal; e.g.
-if ‘much’ were defined as ‘so much and more’,’so much’ would mean something
-different in different cases: ‘equal’ is similarly equivocal; and ‘one’ again is perhaps
-inevitably an equivocal term; and if ‘one’ is equivocal, so is ‘two’. Otherwise why is it that some things are commensurable while others are not, if the nature of the attribute in the two cases is really one and the same? Can it be that the incommensurability of two things in respect of any attribute is due to a difference in that which is primarily capable
-of carrying the attribute? Thus horse and dog are so commensurable that we may say
-which is the whiter, since that which primarily contains the whiteness is the same in
-both, viz. the surface: and similarly they are commensurable in respect of size. But
-water and speech are not commensurable in respect of clearness, since that which
-primarily contains the attribute is different in the two cases. It would seem, however that
-we must reject this solution, since clearly we could thus make all equivocal attributes
-univocal and say merely that that contains each of them is different in different cases:
-thus ‘equality’, ‘sweetness’, and ‘whiteness’ will severally always be the same, though
-that which contains them is different in different cases. Moreover, it is not any casual
-thing that is capable of carrying any attribute: each single attribute can be carried
-primarily only by one single thing.
+Or shall we in the first place deny that things are always commensurable if the same terms are applied to them without equivocation? 
+
+For the term ‘much’ has the same meaning whether applied to water or to air, yet water and air are not commensurable in respect of it: or, if this illustration is not considered satisfactory, ‘double’ at any rate would seem to have the same meaning as applied to each (denoting in each case the proportion of two to one), yet water and air are not commensurable in respect of it. But here again may we not take up the same position and say that the term ‘much’ is equivocal? In fact there are some terms of which even the definitions are equivocal; e.g. if ‘much’ were defined as ‘so much and more’,’so much’ would mean something different in different cases: ‘equal’ is similarly equivocal; and ‘one’ again is perhaps inevitably an equivocal term; and if ‘one’ is equivocal, so is ‘two’.
+
+Otherwise why is it that some things are commensurable while others are not, if the nature of the attribute in the two cases is really one and the same? Can it be that the incommensurability of two things in respect of any attribute is due to a difference in that which is primarily capable of carrying the attribute? Thus horse and dog are so commensurable that we may say which is the whiter, since that which primarily contains the whiteness is the same in
+both, viz. the surface: and similarly they are commensurable in respect of size. 
+
+But water and speech are not commensurable in respect of clearness, since that which primarily contains the attribute is different in the two cases. It would seem, however that we must reject this solution, since clearly we could thus make all equivocal attributes univocal and say merely that that contains each of them is different in different cases: thus ‘equality’, ‘sweetness’, and ‘whiteness’ will severally always be the same, though that which contains them is different in different cases. Moreover, it is not any casual thing that is capable of carrying any attribute: each single attribute can be carried primarily only by one single thing.
 
 Must we then say that, if two things are to be commensurable in respect of any attribute, not only must the attribute in question be applicable to both without equivocation, but there must also be no specific differences either in the attribute itself or in that which contains the attribute-that these, I mean, must not be divisible in the way in which colour is divided into kinds? Thus in this respect one thing will not be commensurable with another, i.e. we cannot say that one is more coloured than the other where only
 colour in general and not any particular colour is meant; but they are commensurable in
@@ -94,7 +75,9 @@ another slowly, and cures may also be simultaneous: so that, recovery of health 
 alteration, we have here alterations of equal velocity, since each alteration occupies an
 equal time. But what alteration? We cannot here speak of an ‘equal’ alteration: what
 corresponds in the category of quality to equality in the category of quantity is
-‘likeness’. However, let us say that there is equal velocity where the same change is
+‘likeness’. 
+
+However, let us say that there is equal velocity where the same change is
 accomplished in an equal time. Are we, then, to find the commensurability in the subject
 of the affection or in the affection itself? In the case that we have just been considering it
 is the fact that health is one and the same that enables us to arrive at the conclusion that
@@ -104,7 +87,9 @@ form of becoming white and becoming healthy respectively, here there is no samen
 equality or likeness inasmuch as the difference in the affections at once makes the
 alterations specifically different, and there is no unity of alteration any more than there
 would be unity of locomotion under like conditions. So we must find out how many
-species there are of alteration and of locomotion respectively. Now if the things that are
+species there are of alteration and of locomotion respectively. 
+
+If the things that are
 in motion-that is to say, the things to which the motions belong essentially and not
 accidentally-differ specifically, then their respective motions will also differ specifically:
 if on the other hand they differ generically or numerically, the motions also will differ
@@ -112,6 +97,7 @@ generically or numerically as the case may be. But there still remains the quest
 whether, supposing that two alterations are of equal velocity, we ought to look for this
 equality in the sameness (or likeness) of the affections, or in the things altered, to see
 e.g. whether a certain quantity of each has become white.
+
 Or ought we not rather to look for it in both? That is to say, the alterations are the same
 or different according as the affections are the same or different, while they are equal or
 unequal according as the things altered are equal or unequal.
@@ -120,8 +106,9 @@ unequal according as the things altered are equal or unequal.
 We must consider the same question in the case of becoming and perishing:
 
 
-How is one becoming of equal velocity with another? They are of equal velocity if in an
-equal time there are produced two things that are the same and specifically inseparable,
+How is one becoming of equal velocity with another? 
+
+They are of equal velocity if in an equal time there are produced two things that are the same and specifically inseparable,
 e.g. two men (not merely generically inseparable as e.g. two animals). Similarly one is
 quicker than the other if in an equal time the product is different in the two cases. I state
 it thus because we have no pair of terms that will convey this ‘difference’ in the way in

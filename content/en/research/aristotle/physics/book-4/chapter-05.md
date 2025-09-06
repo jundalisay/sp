@@ -54,22 +54,15 @@ From these considerations that all the problems which were raised about place wi
 1. There is no necessity that the place should grow with the body in it
 2. Nor that a point should have a place
 3. Nor that two bodies should be in the same place
-4. Nor that place should be a corporeal interval: for what is between the boundaries of the place
-is any body which may chance to be there, not an interval in body.
-5. Place is also somewhere, not in the sense of being in a place, but as the
-limit is in the limited; for not everything that is is in place, but only movable body.
+4. Nor that place should be a corporeal interval: for what is between the boundaries of the place is any body which may chance to be there, not an interval in body.
+5. Place is also somewhere, not in the sense of being in a place, but as the limit is in the limited; for not everything that is is in place, but only movable body.
 6. Each kind of body should be carried to its own place. 
 
-For a body which is next in the series and in contact (not by compulsion) is akin, and bodies
-which are united do not affect each other, while those which are in contact interact on
-each other.
+For a body which is next in the series and in contact (not by compulsion) is akin, and bodies which are united do not affect each other, while those which are in contact interact on each other.
 
 7. Is it without reason that each should remain naturally in its proper place. 
 
-For this part has the same relation to its place, as a separable part to its whole, as when one
-moves a part of water or air: so, too, air is related to water, for the one is like matter, the
-other form-water is the matter of air, air as it were the actuality of water, for water is
-potentially air, while air is potentially water, though in another way.
+For this part has the same relation to its place, as a separable part to its whole, as when one moves a part of water or air: so, too, air is related to water, for the one is like matter, the other form-water is the matter of air, air as it were the actuality of water, for water is potentially air, while air is potentially water, though in another way.
 
 These distinctions will be drawn more carefully later. On the present occasion it was necessary to refer to them: what has now been stated obscurely will then be made more clear. If the matter and the fulfilment are the same thing (for water is both, the one potentially, the other completely), water will be related to air in a way as part to whole. 
 

@@ -16,16 +16,21 @@ If the terms ‘continuous’, ‘in contact’, and ‘in succession’ are und
 - ‘in contact’ if their extremities are together
 - ‘in succession’ if there is nothing of their own kind intermediate between them-nothing that is continuous can be composed ‘of indivisibles’: e.g. a line cannot be composed of points, the line being continuous and the point indivisible. 
 
-The extremities of two points can neither be one (since of an indivisible there can be no extremity as distinct from some other part) nor together (since that which has no parts can have no extremity, the extremity and the thing of which it is the extremity being distinct).
+The extremities of 2 points can neither be:
+- one
+  - This is because an indivisible can have no extremity as distinct from some other part
+- together
+  - This is because that which has no parts can have no extremity, the extremity and the thing of which it is the extremity being distinct
 
-Moreover, if that which is continuous is composed of points, these points must be either
-continuous or in contact with one another: and the same reasoning applies in the case of
-all indivisibles. 
+If something continuous is composed of points, these points must be either:
+- continuous or
+- in contact with one another
 
-Now for the reason given above they cannot be continuous: and one
-thing can be in contact with another only if whole is in contact with whole or part with
-part or part with whole. But since indivisibles have no parts, they must be in contact
-with one another as whole with whole.
+The same reasoning applies in the case of all indivisibles. 
+
+This is why they cannot be continuous.
+
+One thing can be in contact with another only if whole is in contact with whole or part with part or part with whole. But since indivisibles have no parts, they must be in contact with one another as whole with whole.
 
 If they are in contact with one another as whole with whole, they will not be continuous: for that which is continuous has distinct parts: and these parts into which it is divisible are different in this way, i.e. spatially separate.
 
@@ -53,12 +58,9 @@ A thing that is in motion from one place to another cannot at the moment when it
 motion: e.g. if a man is walking to Thebes, he cannot be walking to Thebes and at the
 same time have completed his walk to Thebes: 
 
-As we saw, O traverses a the partless section A in virtue of the presence of the motion D. Consequently, if O actually passed through A after being in process of passing through, the motion must be divisible: for at the time when O was passing through, it neither was at rest nor had
-completed its passage but was in an intermediate state: while if it is passing through and
-has completed its passage at the same moment, then that which is walking will at the
-moment when it is walking have completed its walk and will be in the place to which it
-is walking; that is to say, it will have completed its motion at the place to which it is in
-motion.
+`O` traverses a the partless section `A` in virtue of the presence of the motion `D`. 
+
+Consequently, if `O` actually passed through A after being in process of passing through, the motion must be divisible: for at the time when O was passing through, it neither was at rest nor had completed its passage but was in an intermediate state: while if it is passing through and has completed its passage at the same moment, then that which is walking will at the moment when it is walking have completed its walk and will be in the place to which it is walking; that is to say, it will have completed its motion at the place to which it is in motion.
 
 If a thing is in motion over the whole KBG and its motion is the three D, E, and Z, and if it is not in motion at all over the partless section A but has completed its motion over it, then the motion will consist not of motions but of starts, and will take place by a thing’s having completed a motion without being in motion: for on this assumption it has completed its passage through A without passing through it. 
 
@@ -70,11 +72,6 @@ rest in each of the sections A, B, and G, it follows that a thing can be continu
 rest and at the same time in motion: for, as we saw, O is in motion over the whole ABG
 and at rest in any part (and consequently in the whole) of it.
 
-Moreover, if the
-indivisibles composing DEZ are motions, it would be possible for a thing in spite of the
-presence in it of motion to be not in motion but at rest, while if they are not motions, it
-would be possible for motion to be composed of something other than motions.
+Moreover, if the indivisibles composing DEZ are motions, it would be possible for a thing in spite of the presence in it of motion to be not in motion but at rest, while if they are not motions, it would be possible for motion to be composed of something other than motions.
 
-And if length and motion are thus indivisible, it is neither more nor less necessary that
-time also be similarly indivisible, that is to say be composed of indivisible moments: for
-if the whole distance is divisible and an equal velocity will cause a thing to pass through less of it in less time, the time must also be divisible, and conversely, if the time in which a thing is carried over the section A is divisible, this section A must also be divisible.
+If length and motion are thus indivisible, it is neither more nor less necessary that time also be similarly indivisible, that is to say be composed of indivisible moments: for if the whole distance is divisible and an equal velocity will cause a thing to pass through less of it in less time, the time must also be divisible, and conversely, if the time in which a thing is carried over the section A is divisible, this section A must also be divisible.

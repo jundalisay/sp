@@ -74,45 +74,22 @@ continuous process and the white does not remain any time, there must have occur
 simultaneously a perishing of not-white, a becoming of white, and a becoming of notwhite: for the time of the three will be the same.
 
 Again, from the continuity of the time in which the motion takes place we cannot infer
-continuity in the motion, but only successiveness: in fact, how could contraries, e.g. whiteness and blackness, meet in the same extreme point? On the other hand, in motion
-on a circular line we shall find singleness and continuity: for here we are met by no
-impossible consequence: that which is in motion from A will in virtue of the same
-direction of energy be simultaneously in motion to A (since it is in motion to the point at
-which it will finally arrive), and yet will not be undergoing two contrary or opposite
-motions: for a motion to a point and a motion from that point are not always contraries
-or opposites: they are contraries only if they are on the same straight line (for then they
-are contrary to one another in respect of place, as e.g. the two motions along the
-diameter of the circle, since the ends of this are at the greatest possible distance from
-one another), and they are opposites only if they are along the same line. Therefore in
-the case we are now considering there is nothing to prevent the motion being continuous
-and free from all intermission: for rotatory motion is motion of a thing from its place to
-its place, whereas rectilinear motion is motion from its place to another place.
-Moreover the progress of rotatory motion is never localized within certain fixed limits,
-whereas that of rectilinear motion repeatedly is so. Now a motion that is always shifting
-its ground from moment to moment can be continuous: but a motion that is repeatedly
-localized within certain fixed limits cannot be so, since then the same thing would have
-to undergo simultaneously two opposite motions.
+continuity in the motion, but only successiveness: in fact, how could contraries, e.g. whiteness and blackness, meet in the same extreme point? 
 
- So, too, there cannot be continuous
-motion in a semicircle or in any other arc of a circle, since here also the same ground
-must be traversed repeatedly and two contrary processes of change must occur. The
-reason is that in these motions the starting-point and the termination do not coincide,
-whereas in motion over a circle they do coincide, and so this is the only perfect motion.
-This differentiation also provides another means of showing that the other kinds of
-motion cannot be continuous either: for in all of them we find that there is the same
-ground to be traversed repeatedly; thus in alteration there are the intermediate stages of
-the process, and in quantitative change there are the intervening degrees of magnitude:
-and in becoming and perishing the same thing is true.
+On the other hand, in motion on a circular line we shall find singleness and continuity: for here we are met by no impossible consequence: that which is in motion from A will in virtue of the same direction of energy be simultaneously in motion to A (since it is in motion to the point at which it will finally arrive), and yet will not be undergoing two contrary or opposite motions: for a motion to a point and a motion from that point are not always contraries or opposites: they are contraries only if they are on the same straight line (for then they are contrary to one another in respect of place, as e.g. the two motions along the diameter of the circle, since the ends of this are at the greatest possible distance from one another), and they are opposites only if they are along the same line. 
 
-It makes no difference whether we take the intermediate stages of the process to be few
-or many, or whether we add or subtract one: for in either case we find that there is still
-the same ground to be traversed repeatedly. Moreover it is plain from what has been
-said that those physicists who assert that all sensible things are always in motion are
-wrong: for their motion must be one or other of the motions just mentioned: in fact they
-mostly conceive it as alteration (things are always in flux and decay, they say), and they
-go so far as to speak even of becoming and perishing as a process of alteration. On the
-other hand, our argument has enabled us to assert the fact, applying universally to all
-motions, that no motion admits of continuity except rotatory motion: consequently
-neither alteration nor increase admits of continuity. We need now say no more in
-support of the position that there is no process of change that admits of infinity or
-continuity except rotatory locomotion.
+Therefore there is nothing to prevent the motion being continuous and free from all intermission.
+
+Rotatory motion is motion of a thing from its place to its place.
+
+Rectilinear motion is motion from its place to another place. 
+
+Moreover the progress of rotatory motion is never localized within certain fixed limits, whereas that of rectilinear motion repeatedly is so.
+
+A motion that is always shifting its ground from moment to moment can be continuous: but a motion that is repeatedly localized within certain fixed limits cannot be so, since then the same thing would have to undergo simultaneously two opposite motions.
+
+So, too, there cannot be continuous motion in a semicircle or in any other arc of a circle, since here also the same ground must be traversed repeatedly and two contrary processes of change must occur. The reason is that in these motions the starting-point and the termination do not coincide, whereas in motion over a circle they do coincide, and so this is the only perfect motion. 
+
+This differentiation also provides another means of showing that the other kinds of motion cannot be continuous either: for in all of them we find that there is the same ground to be traversed repeatedly; thus in alteration there are the intermediate stages of the process, and in quantitative change there are the intervening degrees of magnitude: and in becoming and perishing the same thing is true.
+
+It makes no difference whether we take the intermediate stages of the process to be few or many, or whether we add or subtract one: for in either case we find that there is still the same ground to be traversed repeatedly. Moreover it is plain from what has been said that those physicists who assert that all sensible things are always in motion are wrong: for their motion must be one or other of the motions just mentioned: in fact they mostly conceive it as alteration (things are always in flux and decay, they say), and they go so far as to speak even of becoming and perishing as a process of alteration. On the other hand, our argument has enabled us to assert the fact, applying universally to all motions, that no motion admits of continuity except rotatory motion: consequently neither alteration nor increase admits of continuity. We need now say no more in support of the position that there is no process of change that admits of infinity or continuity except rotatory locomotion.

@@ -26,20 +26,9 @@ sense.
 
 Let us suppose, if any one likes, that in the case of certain things it is possible for them at different times to be and not to be, without any process of becoming and perishing (in fact it would seem to be necessary, if a thing that has not parts at one time is and at another time is not, that any such thing should without undergoing any process of change at one time be and at another time not be). 
 
-Let us further suppose it
-possible that some principles that are unmoved but capable of imparting motion at one
-time are and at another time are not. Even so, this cannot be true of all such principles,
-since there must clearly be something that causes things that move themselves at one
-time to be and at another not to be. For, since nothing that has not parts can be in
-motion, that which moves itself must as a whole have magnitude, though nothing that
-we have said makes this necessarily true of every movent. So the fact that some things
-become and others perish, and that this is so continuously, cannot be caused by any one
-of those things that, though they are unmoved, do not always exist: nor again can it be
-caused by any of those which move certain particular things, while others move other
-things. The eternity and continuity of the process cannot be caused either by any one of
-them singly or by the sum of them, because this causal relation must be eternal and
-necessary, whereas the sum of these movents is infinite and they do not all exist
-together. 
+Let us further suppose it possible that some principles that are unmoved but capable of imparting motion at one time are and at another time are not. Even so, this cannot be true of all such principles, since there must clearly be something that causes things that move themselves at one time to be and at another not to be. For, since nothing that has not parts can be in motion, that which moves itself must as a whole have magnitude, though nothing that we have said makes this necessarily true of every movent. 
+
+So the fact that some things become and others perish, and that this is so continuously, cannot be caused by any one of those things that, though they are unmoved, do not always exist: nor again can it be caused by any of those which move certain particular things, while others move other things. The eternity and continuity of the process cannot be caused either by any one of them singly or by the sum of them, because this causal relation must be eternal and necessary, whereas the sum of these movents is infinite and they do not all exist together.
 
 
 There may be countless instances of the perishing of some principles that are unmoved but impart motion, and though many things that move themselves perish and are succeeded by others that come into being, and though
@@ -116,31 +105,18 @@ that is unmoved even accidentally, if, as we have said, there is to be in the wo
 things an unceasing and undying motion, and the world is to remain permanently selfcontained and within the same limits: for if the first principle is permanent, the universe
 must also be permanent, since it is continuous with the first principle.
 
- (We must
-distinguish, however, between accidental motion of a thing by itself and such motion by
-something else, the former being confined to perishable things, whereas the latter
-belongs also to certain first principles of heavenly bodies, of all those, that is to say, that
-experience more than one locomotion.) And further, if there is always something of this
-nature, a movent that is itself unmoved and eternal, then that which is first moved by it
-must be eternal. Indeed this is clear also from the consideration that there would
-otherwise be no becoming and perishing and no change of any kind in other things,
-which require something that is in motion to move them: for the motion imparted by the unmoved will always be imparted in the same way and be one and the same, since the
-unmoved does not itself change in relation to that which is moved by it. But that which
-is moved by something that, though it is in motion, is moved directly by the unmoved
-stands in varying relations to the things that it moves, so that the motion that it causes
-will not be always the same: by reason of the fact that it occupies contrary positions or
-assumes contrary forms at different times it will produce contrary motions in each
-several thing that it moves and will cause it to be at one time at rest and at another time
-in motion.
+(We must distinguish, however, between accidental motion of a thing by itself and such motion by something else, the former being confined to perishable things, whereas the latter belongs also to certain first principles of heavenly bodies, of all those, that is to say, that experience more than one locomotion.) And further, if there is always something of this nature, a movent that is itself unmoved and eternal, then that which is first moved by it must be eternal. Indeed this is clear also from the consideration that there would otherwise be no becoming and perishing and no change of any kind in other things, which require something that is in motion to move them: for the motion imparted by the unmoved will always be imparted in the same way and be one and the same, since the unmoved does not itself change in relation to that which is moved by it. But that which is moved by something that, though it is in motion, is moved directly by the unmoved stands in varying relations to the things that it moves, so that the motion that it causes will not be always the same: by reason of the fact that it occupies contrary positions or assumes contrary forms at different times it will produce contrary motions in each several thing that it moves and will cause it to be at one time at rest and at another time in motion.
 
 The foregoing argument, then, has served to clear up the point about which we raised a
-difficulty at the outset-why is it that instead of all things being either in motion or at
-rest, or some things being always in motion and the remainder always at rest, there are
-things that are sometimes in motion and sometimes not? The cause of this is now plain:
-it is because, while some things are moved by an eternal unmoved movent and are
-therefore always in motion, other things are moved by a movent that is in motion and
-changing, so that they too must change.
-But the unmoved movent, as has been said, since it remains permanently simple and
-unvarying and in the same state, will cause motion that is one and simple.
+difficulty at the outset-
+
+<!-- Why is it that instead of all things being either in motion or at
+rest, or some things being always in motion and the remainder always at rest, there  -->
+
+Why are things sometimes in motion and sometimes not? 
+
+This is because while some things are moved by an eternal unmoved movement and are therefore always in motion, other things are moved by a movement that is in motion and changing, so that they too must change.
+
+But the unmoved movement remains permanently simple and unvarying and in the same state, will cause motion that is one and simple.
 
 

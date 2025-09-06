@@ -81,13 +81,23 @@ By the motions next in order I mean increase and then alteration, decrease, and 
 
 And so what is posterior in the order of becoming is prior in the order of nature. Now all things that go through the process of becoming acquire locomotion last.
 
-This accounts for the fact that some living things, e.g. plants and many kinds of animals, owing to lack of the requisite organ, are entirely without motion, whereas others acquire it in the course of their being perfected.
+This is why some living things like plants and many kinds of animals are entirely motionless due to the lack of the requisite organs. Whereas others acquire such organs in the course of their being perfected.
 
+The locomotion of things depend on their level of natural development.
 
-Therefore, if the degree in which things possess locomotion corresponds to the degree in which they have realized their natural development, then this motion must be prior to all others in respect of perfection of existence: and not only for this reason but also because a thing that is in motion loses its essential character less in the process of locomotion than in any other kind of motion: it is the only motion that does not involve a change of being in the sense in which there is a change in quality when a thing is altered and a
-change in quantity when a thing is increased or decreased.
+<!-- Therefore, if the degree in which things possess locomotion corresponds to the degree in which they have realized their , then  -->
 
-Above all, motion in respect of place is what is in the strictest sense produced by that which moves itself; but it is the self-movent that we declare to be the first principle of things that are moved and impart motion and the primary source to which things that are in motion are to be referred.
+- This motion must be prior to all others in respect of perfection of existence.
+
+ and not only for this reason but also because a thing that is in motion loses its essential character less in the process of locomotion than in any other kind of motion: 
+
+it is the only motion that does not involve a change of being in the sense in which there is a change in quality when a thing is altered and a change in quantity when a thing is increased or decreased.
+
+Above all, motion in place is what is in the strictest sense produced by that which moves itself.
+
+But I declare that the self-movement is:
+- the first principle of things that are moved and impart motion
+- the primary source to which things that are in motion are to be referred.
 
 <!-- It is clear, then, from the foregoing arguments that locomotion is the primary motion. -->
 
@@ -118,6 +128,10 @@ All that matters is the intervention of a time: it is this that prevents the cha
 
 There is no need to be disturbed by the fact that on this showing there may be more than one contrary to the same thing, that a particular motion will be contrary both to rest and to motion in the contrary direction. 
 
-We have only to grasp the fact that a particular motion is in a sense the opposite both of a state of rest and of the contrary motion, in the same way as that which is of equal or standard measure is the opposite both of that which surpasses it and of that which it surpasses, and that it is impossible for the opposite motions or changes to be present to a thing at the same time.
+A particular motion is in a sense the opposite both of a state of rest and of the contrary motion.
 
-Furthermore, in the case of becoming and perishing it would seem to be an utterly absurd thing if as soon as anything has become it must necessarily perish and cannot continue to exist for any time: and, if this is true of becoming and perishing, we have fair grounds for inferring the same to be true of the other kinds of change, since it would be in the natural order of things that they should be uniform in this respect.
+This is in the same way as that which is of equal or standard measure is the opposite both of that which surpasses it and of that which it surpasses, and that it is impossible for the opposite motions or changes to be present to a thing at the same time.
+
+In the case of becoming and perishing, it would seem to be an utterly absurd thing if as soon as anything has become it must necessarily perish and cannot continue to exist for any time.
+
+If this is true of becoming and perishing, we have fair grounds for inferring the same to be true of the other kinds of change, since it would be in the natural order of things that they should be uniform in this respect.

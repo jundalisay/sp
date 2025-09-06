@@ -13,29 +13,45 @@ writer:
 
 Time does not exist without change.
 
-When the state of our own minds does not change at all, or we have not noticed its changing, we do not realize that time has elapsed, any more than those who are fabled to sleep among the heroes in Sardinia do
-when they are awakened; for they connect the earlier ‘now’ with the later and make them
-one, cutting out the interval because of their failure to notice it. 
+We do not realize that time has elapsed when:
+- the state of our own minds does not change at all, or
+- we have not noticed its changing
 
-So, just as, if the ‘now’ were not different but one and the same, there would not have been time, so too when its difference escapes our notice the interval does not seem to be time. If, then, the nonrealization of the existence of time happens to us when we do not distinguish any change, but the soul seems to stay in one indivisible state, and when we perceive and distinguish we say time has elapsed, evidently time is not independent of movement and change.
+any more than those who are fabled to sleep among the heroes in Sardinia do
+when they are awakened; for they 
 
-Time is neither movement nor independent of movement.
+People connect the earlier ‘now’ with the later and make them one.
+- **They cut out the interval because of their failure to notice it.** 
 
-We must take this as our starting-point and try to discover-since we wish to know what
-time is-what exactly it has to do with movement.
+{{< n n="This is explained later by David Hume" >}}
 
-Now we perceive movement and time together: for even when it is dark and we are not
-being affected through the body, if any movement takes place in the mind we at once
-suppose that some time also has elapsed; and not only that but also, when some time is
-thought to have passed, some movement also along with it seems to have taken place.
 
-Hence time is either movement or something that belongs to movement. Since then it is
-not movement, it must be the other.
+If the ‘now’ were exactly the same as the past, then there would not have been time.
 
-But what is moved is moved from something to something, and all magnitude is
-continuous. Therefore the movement goes with the magnitude. Because the magnitude is
-continuous, the movement too must be continuous, and if the movement, then the time;
-for the time that has passed is always thought to be in proportion to the movement.
+ <!-- so too when its difference escapes our notice the interval does not seem to be time. If, then,  -->
+
+And so, the nonrealization of the existence of time happens to us when we do not distinguish any change.
+- But the soul seems to stay in one indivisible state
+
+When we perceive and distinguish change, we say time has elapsed.
+
+Thus, time dependends on movement and change.
+
+**Time is neither movement nor independent of movement.**
+
+We must take this as our starting-point if we wish to know what time:
+- is
+- has to do with movement.
+
+We perceive movement and time together.
+
+Even when it is dark and we are not being affected through the body, if any movement takes place in the mind we at once suppose that some time also has elapsed; and not only that but also, when some time is thought to have passed, some movement also along with it seems to have taken place.
+
+Hence time is either movement or something that belongs to movement. Since then it is not movement, it must be the other.
+
+But what is moved is moved from something to something, and all magnitude is continuous. 
+
+Therefore the movement goes with the magnitude. Because the magnitude is continuous, the movement too must be continuous, and if the movement, then the time; for the time that has passed is always thought to be in proportion to the movement.
 
 The distinction of ‘before’ and ‘after’ holds primarily, then, in place; and there in virtue
 of relative position. Since then ‘before’ and ‘after’ hold in magnitude, they must hold
@@ -97,32 +113,24 @@ locomotion because of that which is carried. what is carried is a real thing, th
 movement is not. Thus what is called ‘now’ in one sense is always the same; in another
 it is not the same: for this is true also of what is carried.
 
-Clearly, too, if there were no time, there would be no ‘now’, and vice versa.
-just as the moving body and its locomotion involve each other mutually, so too do the
-number of the moving body and the number of its locomotion. For the number of the
+If there were no time, there would be no ‘now’, and vice versa.
+
+The moving body and its locomotion involve each other mutually.
+
+So too do the number of the moving body and the number of its locomotion. For the number of the
 locomotion is time, while the ‘now’ corresponds to the moving body, and is like the unit
 of number.
 
-Time, then, also is both made continuous by the ‘now’ and divided at it. For here too
-there is a correspondence with the locomotion and the moving body. For the motion or
-locomotion is made one by the thing which is moved, because it is one-not because it is
-one in its own nature (for there might be pauses in the movement of such a thing)-but
-because it is one in definition: for this determines the movement as ‘before’ and ‘after’.
-Here, too there is a correspondence with the point; for the point also both connects and
-terminates the length-it is the beginning of one and the end of another. But when you
-take it in this way, using the one point as two, a pause is necessary, if the same point is
-to be the beginning and the end. The ‘now’ on the other hand, since the body carried is
-moving, is always different.
+Time, then, also is both made continuous by the ‘now’ and divided at it. For here too there is a correspondence with the locomotion and the moving body. 
 
-Hence time is not number in the sense in which there is ‘number’ of the same point
-because it is beginning and end, but rather as the extremities of a line form a number,
-and not as the parts of the line do so, both for the reason given (for we can use the
-middle point as two, so that on that analogy time might stand still), and further because
-obviously the ‘now’ is no part of time nor the section any part of the movement, any
-more than the points are parts of the line-for it is two lines that are parts of one line.
-In so far then as the ‘now’ is a boundary, it is not time, but an attribute of it; in so far as
-it numbers, it is number; for boundaries belong only to that which they bound, but
-number (e.g. ten) is the number of these horses, and belongs also elsewhere.
+For the motion or locomotion is made one by the thing which is moved, because it is one-not because it is one in its own nature (for there might be pauses in the movement of such a thing)-but because it is one in definition: for this determines the movement as ‘before’ and ‘after’. Here, too there is a correspondence with the point; for the point also both connects and terminates the length-it is the beginning of one and the end of another. 
+
+But when you take it in this way, using the one point as two, a pause is necessary, if the same point is to be the beginning and the end. The ‘now’ on the other hand, since the body carried is moving, is always different.
+
+
+Hence time is not number in the sense in which there is ‘number’ of the same point because it is beginning and end, but rather as the extremities of a line form a number, and not as the parts of the line do so, both for the reason given (for we can use the middle point as two, so that on that analogy time might stand still), and further because obviously the ‘now’ is no part of time nor the section any part of the movement, any more than the points are parts of the line-for it is two lines that are parts of one line. 
+
+In so far then as the ‘now’ is a boundary, it is not time, but an attribute of it; in so far as it numbers, it is number; for boundaries belong only to that which they bound, but number (e.g. ten) is the number of these horses, and belongs also elsewhere.
 
 Time is ‘number of movement in respect of the before and after’, and is continuous since it is an attribute of what is continuous.
 

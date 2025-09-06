@@ -23,8 +23,9 @@ That being so, that which changes must be changing in any part of the primary ti
 Now in the time ChK it either is in motion or is not in motion, and the same is likewise true of the time KRh. Then if it is in motion in neither of the two parts, it will be at rest in the whole: for it is impossible that it should be in motion in a time in no part of which it is in motion. If on the other hand it is in motion in only one of the two parts of the time, ChRh cannot be the primary time in which it is in motion: for its motion will have reference to a time other than ChRh. It must, then, have been in motion in any part of
 ChRh.
 
-And now that this has been proved, it is evident that everything that is in motion must
-have been in motion before. For if that which is in motion has traversed the distance KL
+Thus, everything that is in motion must have been in motion before. 
+
+For if that which is in motion has traversed the distance KL
 in the primary time ChRh, in half the time a thing that is in motion with equal velocity
 and began its motion at the same time will have traversed half the distance. But if this
 second thing whose velocity is equal has traversed a certain distance in a certain time,
