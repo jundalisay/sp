@@ -3,7 +3,9 @@ title: Obligations 1-5 of the Movement
 heading: Chapter 12c
 weight: 114
 description: "As early as 1919, we knew that our new movement should first aim for the nationalization of the masses"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

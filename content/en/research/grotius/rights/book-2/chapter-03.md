@@ -4,7 +4,9 @@ heading: Chapter 3
 weight: 12
 c: "seagreen"
 description: 
-author: "Hugo Grotius"
+writer:
+  name: Hugo Grotius
+  url: https://en.wikipedia.org/wiki/Hugo_Grotius
 icon: "Hugo Grotius"
 ---
 

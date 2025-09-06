@@ -3,7 +3,9 @@ title: The End of the War
 heading: Chapter 7c
 weight: 54
 description: "In August and September, the symptoms of moral disintegration increased more rapidly"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

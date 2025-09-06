@@ -3,7 +3,9 @@ title: Marxism in 1914
 heading: Chapter 5c
 weight: 42
 description: "Marxism's final objective is the destruction of all non-Jewish national States"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

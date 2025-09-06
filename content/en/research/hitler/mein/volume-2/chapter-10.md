@@ -3,7 +3,9 @@ title: The Mask Of Federalism
 heading: Chapter 10
 weight: 140
 description: "Tthe collapse wrecked Germany as a whole but even more particularly the federal states"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 
@@ -12,7 +14,7 @@ IN THE winter of 1919, and still more in the spring and summer of 1920, the youn
 Party felt bound to take up a definite stand on a question which already had become
 quite serious during the War. 
 
-In the first volume of this book I have briefly recorded certain facts which I had personally witnessed and which foreboded the break-up of Germany. 
+In volume 1 of this book, I have briefly recorded certain facts which I had personally witnessed and which foreboded the break-up of Germany. 
 
 In describing these facts I made reference to the special nature of the propaganda which was directed by the English as well as the French towards reopening the breach that had existed between North and South in Germany. In the spring of 1915
 there appeared the first of a series of leaflets which was systematically followed up and

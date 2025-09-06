@@ -3,7 +3,9 @@ title: The First Days of the Movement
 heading: Chapter 12f
 weight: 122
 description: "During the initial phase of our movement, our greatest handicap was that none of us were known"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

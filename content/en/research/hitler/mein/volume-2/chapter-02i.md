@@ -3,7 +3,9 @@ title: The Intellectual Class and Valuing Manual Labor
 heading: Chapter 2i
 weight: 26
 description: "Our intellectual class, particularly in Germany, is so shut up in itself and fossilized that it lacks living contact with the classes beneath it"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

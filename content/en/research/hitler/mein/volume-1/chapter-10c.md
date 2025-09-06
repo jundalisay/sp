@@ -3,7 +3,9 @@ title: Weak Monarchial Institution
 heading: Chapter 10c
 weight: 66
 description: "The saying 'With the hat in the hand one can go through the whole country' applies to Germany."
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

@@ -3,7 +3,9 @@ title: The Restoration of Germany
 heading: Chapter 12b
 weight: 112
 description: "All great reforms in the beginning only has one protagonist to come forward on behalf of several millions of people"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 icon: "Adolf Hitler"
 ---

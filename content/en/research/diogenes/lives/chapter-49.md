@@ -9,6 +9,7 @@ c: "darkslategray"
 tags: ['Parmenides']
 ---
 
+
 <sup>1</sup> Melissus was:
 - a Samian
 - the son of Ithagenes
@@ -16,7 +17,8 @@ tags: ['Parmenides']
 
 But he also had conversed with Heraclitus, when he recommended him to the Ephesians, who were unacquainted with him, as Hippocrates recommended Democritus to the people of Abdera.
 
-II. He was a man greatly occupied in political affairs, and held in great esteem among his fellow citizens; on which account he was elected admiral. And he was admired still more on account of his private virtues.
+
+<sup>2</sup> He was a man greatly occupied in political affairs, and held in great esteem among his fellow citizens; on which account he was elected admiral. And he was admired still more on account of his private virtues.
 
 III. His doctrine was, that the Universe was infinite, unsusceptible of change, immoveable, and one, being always like to itself, and complete; and that there was no such thing as real motion, but that there only appeared to be such. As respecting the Gods, too, he denied that there was any occasion to give a definition of them, for that there was no certain knowledge of them.
 

@@ -1,92 +1,80 @@
 ---
-title: The General Rights of Things
+title: Inalienable Things
+# The General Rights of Things
 heading: Chapter 2b
-weight: 8
+weight: 6
 c: "seagreen"
 description: 
-author: "Hugo Grotius"
+writer:
+  name: Hugo Grotius
+  url: https://en.wikipedia.org/wiki/Hugo_Grotius
 icon: "Hugo Grotius"
 ---
 
 
-## Part 6: The right to the common use of things, already appropriated
+## Part 3: Inalienable Things
 
-Here is some inconsistency. 
+Some things are impossible to be reduced to a state of property. An example is the Sea.
 
-The establishment of property has absorbed every right that sprung from a state of things held in common. 
+Some are willing to make this concession with regard to individuals, but not with regard to nations.
 
-But this is by no means the case. 
+ <!-- the position advanced in the beginning of this section may be proved from the following moral argument, that as in this case the reason no longer subsists why men should hold all things in -->
 
-For the intention of those, who first introduce private property, must be taken into the account. 
+When common ownership ceases, private ownership begins.
 
-And it was but reasonable to suppose, that in making this introduction of property, they would depart as little as possible from the original principles of natural equity. 
+ <!-- the practice ceases also.  -->
 
-For if written laws are to be construed in a sense, approaching as nearly as possible to the laws of92 nature, much more so are those customs which are not fettered with the literal restrictions of written maxims. From hence it follows that in cases of extreme necessity, the original right of using things, as if they had remained in common, must be revived; because in all human laws, and consequently in the laws relating to property, the case of extreme necessity seems to form an exception.
+The huge size of the sea is sufficient for the use of all nations.
 
-Upon this principle is built the maxim that if in a voyage provisions begin to fail, the stock of every individual ought to be produced for common consumption; for the same reason a neighbouring house may be pulled down to stop the progress of a fire: or the cables or nets, in which a ship is entangled, may be cut, if it cannot otherwise be disengaged. Maxims, none of which were introduced by the civil law, but only explained by it according to the rules of natural equity.
+ <!-- to allow them without inconvenience and prejudice to each other the right of fishing, sailing, or any other advantage which that element affords.  -->
 
-Theologians believe that if in urgent distress, anyone can steal what is absolutely necessary to stay alive. The act shall not be deemed a theft. 
-- This rule is not founded on the law of charity, as some allege. 
-  - The law of charity obliges every possessor to use some of his wealth to relieve the needy. 
-- This rule is based on the original division of lands among private owners, which was made with a reservation in favour of the primitive rights of nature. 
+The same is true for air as common property.
 
-For if those who at first made the division had been asked their opinion upon this point, they would have given the same reason that has just been advanced. 
+ <!-- except that no one can use or enjoy it, without at the same time using the ground over which it passes or rests.  -->
 
-Necessity, says Seneca, the great protectress of human infirmity breaks through all human laws, and all those made in the spirit of human regulations. Cicero in his eleventh Philippic, says, that Cassius went into Syria, which might be considered as another's province, if men adhered to written laws, but if these were abolished, it would be considered as his own by the law of nature. In the sixth book and fourth chapter of Quintus Curtius, we find an observation, that in a common calamity every man looks to himself.
+So that the amusement of fowling cannot be followed, except by permission, without trespassing upon the lands of some owner, over which the birds fly.
 
+The word 'COMMON' may be given to the sand of the shore, which being incapable of cultivation, is left free to yield its inexhaustible supplies for the use of all.*
 
-## Part 7
-
-This indulgence must have precautions and restrictions to prevent it from degenerating into licentiousness. 
-
-### Precaution 1: The distressed party should try every mode of obtaining relief by:
-- an appeal to a magistrate, or
-- trying the effect of entreaty to prevail upon the owner to grant what is necessary for his pressing occasions.93 
-
-Plato allows anyone to seek water from his neighbour's well after having dug to a certain depth in his own without effect. 
-
-Solon limits the depth to 40 cubits. Plutarch remarks that he intended by this to relieve necessity and difficulty, but not to encourage sloth.
-
-Xenophon in his answer to the Sinopians, in the fifth book of the expedition of Cyrus, says, "wherever we come, whether into a barbarous country or into any part of Greece, and find the people unwilling to afford us supplies, we take them, not through motives of wantonness, but from the compulsion of necessity."
+{{< n n="Grotius shows that ownership is based on scarcity and its purpose is to drive industry to overcome that scarcity. But Superphysics asserts that scarcity is mind-created and so ownership is a sign of the Negative Force" >}}
 
 
-## Part 8
+The sea cannot be owned because people cannot occupy it permanently.
 
-### Precaution 2: This plea of necessity cannot be admitted, where the possessor is in an equal state of necessity himself. 
+From whence Thucydides gives the name of infinite space to unoccupied lands, and Isocrates speaking of that occupied by the Athenians calls it that which has been measured by us into alloted parts. 
 
-For under equal circumstances the owner has a better right to the use of his possessions. Though Lactantius maintains that it is no mark of folly to forbear thrusting another from the same plank in a shipwreck in order to save yourself. Because you have thereby avoided hurting another: a sin which is certainly a proof of wisdom to abstain from. 
+But fluids can be occupied only if they are  contained within some other substance.
 
-Cicero, in the third book of his offices, asks this question, if a wise man, in danger of perishing with hunger, has not a right to take the provisions of another, who is good for nothing? To which he replies; By no means. For no one's life can be of such importance as to authorize the violation of that general rule of forbearance, by which the peace and safety of every individual are secured.
+Thus ponds, and lakes and rivers likewise, can only be made property as far as they are confined within certain banks. 
 
+But the ocean cannot be confined within the land. This is why the ancients said the earth was bounded in by the sea like a girdle surrounding it.
 
-## Part 9
+<!-- Nor can any imaginable division of it have been originally framed. For as the greatest part of it was unknown, it was impossible that nations far removed from each other could agree upon the bounds to be assigned to different parts. -->
 
-### Precaution 3: The party thus supplying his wants from the property of another, is bound to make restitution, or give an equivalent to the owner, whenever that is possible. 
+Whatever therefore was the common property of all, and after a general division of all other things, retained its original state, could not be appropriated by division, but by occupancy. 
 
-Some deny this because no one is bound to give an indemnity for having exercised his own right. 
-
-But strictly speaking, it was not a full and perfect right, which he exercised. It was a kind of permission, arising out of a case of necessity, and existing no longer than while the necessity continued. 
-
-For such a permissive right is only granted in order to preserve natural equity in opposition to the strict and churlish rigour of exclusive ownership.
+The marks of distinction and separation by which its different parts were known, followed such appropriation.
 
 
+## Part 4: Alienable Things
 
-## Part 10
+Some things, not yet made property, may be reduced to property. Examples are waste lands, desert islands, wild beasts, fishes, and birds. 
 
-Hence, in the prosecution of a just war, any power has a right to take possession of a neutral soil; if there be real grounds, and not imaginary fears for supposing the enemy intends to make himself master of the same, especially if the enemy's occupying it would be attended with imminent and irreparable94 mischief to that same power. 
+These can be owned by:
+- the Sovereign or a whole people 
+- individuals, converting into private estates the lands which they have so occupied
 
-But in this case the restriction is applied that nothing be taken but what is actually necessary to such precaution and security. Barely occupying the place is all that can be justified: leaving to the real owner the full enjoyment of all his rights, immunities, and jurisdiction, and all the productions of his soil.
+The latter kind of individual property proceeds rather from91 assignment than from free occupancy. 
 
-This must be done too with the full intention of restoring the place to its lawful Sovereign, whenever the necessity, for which it was occupied, may cease. The retaining of Enna, Livy says, was either an act of violence, or a necessary measure; by violence meaning the least departure from necessity. 
-
-The Greeks, who were with Xenophon being in great want of ships, by Xenophon's own advice, seized upon those that were passing, still preserving the property untouched for the owners, supplying the sailors with provisions, and paying them wages. The principal right therefore, founded upon the original community of goods, remaining since the introduction of property, is that of necessity, which has just been discussed.
+Yet any places that have been taken possession of in the name of a sovereign, or of a whole people, though not portioned out amongst individuals, are not to be considered as waste lands, but as the property of the first occupier, whether it be the King, or a whole people. Of this description are rivers, lakes, forests, and wild mountains.
 
 
-## Part 11
+## Part 5
 
-There is another right, which is that of making use of the property of another, where such use is attended with no prejudice to the owner. 
+The sovereign of the respective lands, or waters where they are found, has a legal right to prohibit any one from taking wild animals, and thereby acquiring a property in them. 
 
-Cicero asks why should not any one, when he can do it without injury to himself, allow another to share with him those advantages, which are useful to the receiver, and no way detrimental to the giver? Seneca therefore observes, that it is no favour to allow another to light his fire from your flame. 
+A prohibition extending to foreigners, as well as subjects. To foreigners; because by all the rules of moral law they owe obedience to the sovereign, for the time during which they reside in his territories. Nor is there any validity in the objection founded on the Roman Law, the Law of nature, or the Law of nations, which, it is said, declare such animals to be beasts of chace free to every one's hunting. 
 
-In the 7th book of Plutarch's Symposiacs, we find an observation, that when we have provisions more than sufficient for our own consumption it is wicked to destroy the remainder; or after supplying our own wants, to obstruct or destroy the springs of water; or after having finished our voyage, not to leave for other passengers the sea-marks, that have enabled us to steer our course.
+This is only true, where there is no civil law to interpose its prohibition; as the Roman law left many things in their primitive state, which by other nations were placed upon a very different footing. The deviations therefore from the state of nature, which have been established by the civil law, are ordained by every principle of natural justice to be obeyed by mankind. 
 
+For although the civil law can enjoin nothing which the law of nature prohibits, nor prohibit any thing which it enjoins, yet it may circumscribe natural liberty, restraining what was before allowed; although the restraint should extend to the very acquisition of property, to which every man AT FIRST had a right by the law of nature.

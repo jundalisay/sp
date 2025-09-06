@@ -3,7 +3,9 @@ title: Population Problem
 heading: Chapter 4b
 weight: 28
 description: "The annual increase of population in Germany amounts to almost 900,000 souls"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

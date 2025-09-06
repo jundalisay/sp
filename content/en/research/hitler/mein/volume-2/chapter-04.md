@@ -3,7 +3,9 @@ title: Personality And The Ideal Of The People's State
 heading: Chapter 4
 weight: 34
 description: "The principle, that one people is not the same as another, applies also to the individual members of a national community"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

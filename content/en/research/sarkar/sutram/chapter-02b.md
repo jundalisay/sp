@@ -43,28 +43,36 @@ The Paramátmá is the ultimate knower of the Macrocosmic Mind.
 
 <!-- Átmani sattásaḿsthitih. -->
 
-The object-entity finds its substantiation in the receptacle of the citta the receptacle of the citta in the Doer “I”, or Owner “I”, that is, in the Ahaḿtattva; the receptacle of the Doer “I”, or Owner “I”, in the sense of existence (i.e., in “I am” or Mahattattva). 
+The object-entity finds its substantiation in the receptacle of the citta.
+
+The receptacle of the citta finds its substantiation in the Doer “I”, or Owner “I”, or the Ahaḿtattva.
+
+The receptacle of the Doer “I”, or Owner “I” finds its substantiation in the sense of existence (i.e., in “I am” or Mahattattva). 
 
 The knowledge of the “I am” entity, that is, “I know I am” – in the absence of this knowership, the entitative sense of “I am” or “my existence” remains in jeopardy – unsubstantiated. 
 
 And so at the root of everything remains “I know” and the next that follows is “I am”.
 
-This “I” of “I know” is the Soul, and so the sense of all entities depends on the Átman.
+This “I” of “I know” is the Soul. And so the sense of all entities depends on the Átman.
 
 
 ### 10. Puruśottama is linked to each entity individually and to all entities collectively
 
 <!-- Otahprotah yogábhyáḿ saḿyuktah Puruśottamah. -->
 
-Puruśottama is the Nucleus of the universe. He is the witness of and is directly concerned with every unit entity. 
+Puruśottama is the Nucleus of the universe. 
 
-This association of His is called ota yoga [the yoga of individual association].
+He is:
+- the witness of every unit entity 
+- directly concerned with every unit entity 
 
-Evidently, Puruśottama is the collective entity of the universe as well as witness of the collective mind.
+This association is called ota yoga [the yoga of individual association].
+
+Puruśottama is the collective entity of the universe. He is also the witness of the collective mind.
 
 This association of His with the collectivity is called prota yoga [the yoga of pervasive association]. 
 
-He associates with His objects through both ota and prota yogas at the same time is Puruśottama.
+Puruśottama is the simultaneous association [of the Atman?] with His objects through both ota and prota yogas.
 
 
 ### 11. The seed of the universe lies beyond the mind, in a state the mind cannot comprehend
@@ -77,9 +85,10 @@ In our quest for the cause of action in pratisaiṋcara, we arrive at the 5 fund
 
 Similarly, in our quest for the cause of action in saiṋcara, we arrive at the Mahat of the Great.
 
-The mind having no locus standi beyond the Mahat, such a state is the supra-mental state of the mind.
+The mind has no locus standi beyond the Mahat.
+- Such a state is the supra-mental state of the mind.
 
-In this supra-mental state, it is beyond the capacity of the mind to determine the principle of cause and effect, for further probings will entail the fallacy of infinite regress.
+In this supra-mental state, it is beyond the capacity of the mind to determine cause and effect, for further probings will entail the fallacy of infinite regress.
 
 To think of the existence of the mind in a state where it does not exist is fallacious.
 
@@ -90,14 +99,18 @@ Hence, the query as to when did the creation take place, and why, is redundant a
 
 <!-- Saguńát srśt́irutpattih. -->
 
-But since the created world is concerned with the guńas, then it is true that it was evolved in Saguńa Brahma, not Nirguńa.
+But since the created world is concerned with the guńas, then it was evolved in Saguńa Brahma, not Nirguńa.
 
 
 ### 13. The universe takes form within the Cognitive Body
 
 <!-- Puruśadehe jagadábhásah -->
 
-All that is manifest and unmanifest in the world is embodied in the Bráhmiidehe [Cosmic Body]. No one and nothing is outside Brahma. The name “outsider” is a misnomer – a nonentity.
+All that is manifest and unmanifest in the world is embodied in the Bráhmiidehe [Cosmic Body]. 
+
+No one and nothing is outside Brahma.
+
+ <!-- The name “outsider” is a misnomer – a nonentity. -->
 
 
 

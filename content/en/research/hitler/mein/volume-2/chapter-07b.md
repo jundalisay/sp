@@ -3,7 +3,9 @@ title: The National Socialist meetings
 heading: Chapter 7b
 weight: 62
 description: "the National Socialist meetings were by no means 'peaceable' affairs"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

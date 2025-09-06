@@ -3,7 +3,9 @@ title: In The Home Of My Parents
 heading: Chapter 1b
 weight: 5
 description: "The story of the Franco-German War had a special significance for me"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

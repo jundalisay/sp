@@ -3,7 +3,9 @@ title: Munich and The System of German Alliances
 heading: Chapter 4
 weight: 26
 description: "I came to Munich in the spring of 1912"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

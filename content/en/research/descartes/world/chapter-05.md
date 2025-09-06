@@ -173,7 +173,6 @@ The particles of the air-aether and fire-aether are so subtle that they cannot b
 
 We cam think of these mixed perceptible bodies as sponges. They are earth-aether that have the fire-aether and air-aether in their pores.  
 
- <!-- They have many small holes always full of air or water. <!--  one nonetheless does not think that these liquids enter into its composition --> -->
+ <!-- They have many small holes always full of air or water.  one nonetheless does not think that these liquids enter into its composition -->
 
-<!-- Many other things remain for me to explain here, and I would myself be happy to add here several arguments to make my opinions more plausible. In order, however, to make the length of this discourse less boring for you, I want to wrap part of it in the cloak of a fable, in the course of which I hope that the truth will not fail to appear sufficiently and that it will be no less agreeable to see than if I were to set it forth wholly naked.
- -->
+<!-- Many other things remain for me to explain here, and I would myself be happy to add here several arguments to make my opinions more plausible. In order, however, to make the length of this discourse less boring for you, I want to wrap part of it in the cloak of a fable, in the course of which I hope that the truth will not fail to appear sufficiently and that it will be no less agreeable to see than if I were to set it forth wholly naked. -->

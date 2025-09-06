@@ -3,7 +3,9 @@ title: The Parliamentary System
 heading: Chapter 3f
 weight: 15
 description: "The parliamentary principle of vesting legislative power in the decision of the majority rejects the authority of the individual"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

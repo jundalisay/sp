@@ -3,7 +3,9 @@ title: The State of Israel as a Refuge for Swindlers
 heading: Chapter 11j
 weight: 106
 description: "The Aryan race has been, and still is, the standard-bearer of human progress."
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

@@ -3,7 +3,9 @@ title: The Summer of 1915
 heading: Chapter 7
 weight: 48
 description: "IN 1915, the enemy started their propaganda among our soldiers"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

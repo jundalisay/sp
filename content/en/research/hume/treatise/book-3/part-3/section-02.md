@@ -1,6 +1,7 @@
 ---
 heading: Section 2
-title: "The Greatness Of Mind"
+title: Sympathy and Comparison
+# title: "The Greatness Of Mind"
 description: "Book 3 of The Simplified Treatise of Human Nature by Hume"
 c: "steelblue"
 weight: 10
@@ -14,53 +15,54 @@ icon: "David Hume"
 
 ## Sympathy
 
-I will illustrate this general system of morals by:
-- applying it to particular instances of virtue and vice, and
-- showing how their merit or demerit arises from the four sources here explained.
+I will illustrate my system of morals by:
+- applying it to particular instances of virtue and vice, such as pride and humility
+- showing how their merit or demerit arises from 4 sources.
 
-We shall begin with examining pride and humility.
+<!-- We shall begin with examining pride and humility.
 
-We shall consider the vice or virtue in their excesses or just proportion.
+We shall consider the vice or virtue in their excesses or just proportion. -->
 
+An excessive pride is universally hated.
 
-An excessive pride or overweening conceit of ourselves is:
-- always esteemed vicious, and
-- universally hated.
+<!-- or overweening conceit of ourselves is:
+- always esteemed vicious, and -->
 
-Modesty, or a just sense of our weakness:
-        is esteemed virtuous, and
-        procures the goodwill of everyone.
+Modesty is esteemed virtuous.
+
+<!-- , or a just sense of our weakness:
+        , and
+        procures the goodwill of everyone. -->
 
 Of the 4 sources of moral distinctions, this is to be ascribed to the third or to the immediate agreeableness and disagreeableness of a quality to others, without any reflections on the tendency of that quality.
 
+This is due to 2 principles very conspicuous in human nature.
 
-To prove this, we must have recourse to two principles very conspicuous in human nature.
+1. The sympathy and communication of sentiments and passions.
 
+The correspondence of human souls is so close and intimate.
 
-The first is the sympathy and communication of sentiments and passions.
-
-So close and intimate is the correspondence of human souls, that any person who approaches me immediately:
+Anyone who approaches me immediately:
 - diffuses on me all his opinions, and
 - draws along my judgment.
 
 My sympathy with him often does not go so far as to entirely change my sentiments and way of thinking.
 
 Yet it is seldom so weak as to not:
-                disturb my thought, and
-                give an authority to his opinion.
+- disturb my thought, and
+- give an authority to his opinion.
 
-The subject he and I thinks about does not matter.
+<!-- The subject he and I thinks about does not matter.
 
 Whether we judge of an indifferent person or of my own character, my sympathy gives equal force to his decision.
 
-Even his sentiments of his own merit make me consider him in the same light he regards himself in.
+Even his sentiments of his own merit make me consider him in the same light he regards himself in. -->
 
 
 This principle of sympathy has so powerful and insinuating a nature.
+- It enters into most of our sentiments and passions.
 
-It enters into most of our sentiments and passions.
-
-It often takes place under the appearance of its contrary.
+<!-- It often takes place under the appearance of its contrary. -->
 
 It is remarkable that I always have sympathy with a person who:
 - opposes me in anything I am strongly bent on, and
@@ -76,7 +78,8 @@ On the one side, is that passion or sentiment natural to me.
 The stronger the passion, the greater the commotion.
 
 There must also be some passion or sentiment on the other side.
-            This passion can only proceed from sympathy.
+
+This passion can only proceed from sympathy.
 
 The sentiments of others can only affect us by becoming our own.
 
@@ -85,10 +88,11 @@ In this case, they operate on us by opposing and increasing our passions in the 
 While they remain concealed in the minds of others, they can never influence us.
 
 The imagination is so accustomed to different objects.
-            Even when the ideas of others are known, they would never be able to affect us alone, if they went no further than the imagination.
+
+Even when the ideas of others are known, they would never be able to affect us alone, if they went no further than the imagination.
 
 
-The second principle is comparison.
+2. The second principle is comparison.
 
 It is the variation of our judgments on objects, according to their proportion to other objects.
 
@@ -98,12 +102,16 @@ We regard everything as mean, when they oppose what is superior.
 
 
 The most obvious comparison is that with ourselves.
-        It always takes place and mixes with most of our passions.
-        This kind of comparison is directly contrary to sympathy in its operation, as we have observed in compassion and malice.
+
+It always takes place and mixes with most of our passions.
+
+This kind of comparison is directly contrary to sympathy in its operation, as we have observed in compassion and malice.
 
 In all kinds of comparison, an object always makes us receive a sensation from another object it is compared to.
-        This sensation is contrary to what arises from itself, in its direct and immediate survey.
-        The direct survey of another's pleasure naturally gives us pleasure.
+
+This sensation is contrary to what arises from itself, in its direct and immediate survey.
+
+The direct survey of another's pleasure naturally gives us pleasure.
 
 It produces pain when compared with our own pain.
 

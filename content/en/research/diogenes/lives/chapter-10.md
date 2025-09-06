@@ -17,12 +17,41 @@ category: "Pre-Socratics"
 - the master of Socrates
 
 
-<sup>2</sup> He was the first to import the study of natural philosophy from Ionia to Athens/. and he was called the Natural Philosopher, because natural philosophy terminated with him, as Socrates introduced ethical philosophy. And it seems probable that Archelaus too meddled in some degree[63] with moral philosophy; for in his philosophical speculations he discussed laws and what was honourable and just. And Socrates borrowed from him; and because he enlarged his principles, he was thought to be the inventor of them.
+<sup>2</sup> He was the first to import the study of natural philosophy from Ionia to Athens.
 
-III. He used to say that there were two primary causes of generation, heat and cold; and that all animals were generated out of mud: and that what are accounted just and disgraceful are not so by nature, but only by law. And his reasoning proceeds in this way. He says, that water being melted by heat, when it is submitted to the action of fire, by which it is solidified, becomes earth; and when it is liquefied, becomes air. And, therefore, the earth is surrounded by air and influenced by it, and so is the air by the revolutions of fire. And he says that animals are generated out of hot earth, which sends up a thick mud something like milk for their food. So too he says that it produced men.
+He was called the Natural Philosopher, because natural philosophy terminated with him, as Socrates introduced ethical philosophy. 
 
-And he was the first person who said that sound is produced by the percussion of the air; and that the sea is filtered in the hollows of the earth in its passage, and so is condensed; and that the sun is the greatest of the stars, and that the universe is boundless.
+Archelaus too probably meddled with moral philosophy.
 
-IV. But there were three other people of the name of Archelaus: one, a geographer, who described the countries traversed by Alexander; the second, a man who wrote a poem on objects which have two natures; and the third, an orator, who wrote a book containing the precepts of his art.
+In his philosophical speculations he discussed laws and what was honourable and just. And Socrates borrowed from him; and because he enlarged his principles, he was thought to be the inventor of them.
+
+
+<sup>3</sup> He said that there are 2 primary causes of generation: 
+
+1. Heat
+2. Cold
+
+All animals were generated out of mud. What are accounted just and disgraceful are not so by nature, but only by law.
+
+Water is melted by heat when it is submitted to the action of fire, by which it is solidified, becomes earth.
+
+When it is liquefied, becomes air.
+
+Therefore, the earth is surrounded by air and influenced by it, and so is the air by the revolutions of fire. 
+
+Animals are generated out of hot earth, which sends up a thick mud something like milk for their food. So too he says that it produced men.
+
+He was the first to say that:
+- sound is produced by the percussion of the air
+- the sea is filtered in the hollows of the earth in its passage, and so is condensed
+- the sun is the greatest of the stars
+- the universe is boundless
+
+
+<sup>4</sup> There were 3 other people named Archelaus:
+
+1. a geographer who described the countries traversed by Alexander
+2. a man who wrote a poem on objects which have two natures
+3. an orator, who wrote a book containing the precepts of his art.
 
 

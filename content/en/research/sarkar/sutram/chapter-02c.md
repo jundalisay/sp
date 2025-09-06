@@ -48,7 +48,7 @@ In this way are evolved:
 - the apatattva [liquid factor] from the tejas
 - the kśititattva [solid factor] from the liquid. 
 
-These ethereal, aerial, luminous, liquid and solid factors are known as the five mahábhútas [fundamental elements] because all other bhútas [bodies] or evolved objects are begotten out of these elements.
+These ethereal, aerial, luminous, liquid and solid factors are the 5 mahábhútas [fundamental elements] because all other bhútas [bodies] or evolved objects are begotten out of these elements.
 
 
 ### 22. Tanmátras [quantum perceptions] represent the bhútas, are carried by the bhútas, and are created by vibrations from the clash within the bhútas
@@ -91,7 +91,7 @@ The liquid factor, of the sound, touch, form and taste tanmátras.
 
 The solid factor has the capacity of imbibing or carrying all five tanmátras: sound, touch, form, taste and smell.
 
-In order to ascertain the category of the physical elements an object belongs to, we will have to base our findings on the crudest of the tanmátras the particular object carries. 
+To determine the category of the physical elements an object belongs to, we base our findings on the crudest of the tanmátras that the object carries. 
 
 The 5 sensory organs are eyes, ears, nose, tongue and skin. 
 

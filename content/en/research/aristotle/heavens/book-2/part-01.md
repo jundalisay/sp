@@ -24,9 +24,16 @@ The ancients gave to the Gods the heaven or upper place, as being alone immortal
 
 Such a constrained movement would necessarily involve effort the more so, the more eternal it were-and would be inconsistent with perfection. Hence we must not believe the old tale which says that the world needs some Atlas to keep it safe-a tale composed, it would seem, by men who, like later thinkers, conceived of all the upper bodies as earthy and endowed with weight, and therefore supported it in their fabulous way upon animate necessity. 
 
-We must no more believe that than follow Empedocles when he says that the world, by being whirled round, received a movement quick enough to overpower its own downward tendency, and thus has been kept from destruction all this time. Nor, again, is it conceivable that it should persist eternally by the necessitation of a soul. For a soul could not live in such conditions painlessly or happily, since the movement involves constraint, being imposed on the first body, whose natural motion is different, and imposed continuously. It must therefore be uneasy and devoid of all rational satisfaction; for it could not even, like the soul of mortal animals, take recreation in the bodily relaxation of sleep. 
+Empedocles says that:
+- the world, by being whirled round, received a movement quick enough to overpower its own downward tendency, and thus has been kept from destruction all this time. 
+- this persists eternally by the necessitation of a soul.
+
+We must not believe it.
+
+For a soul could not live in such conditions painlessly or happily, since the movement involves constraint, being imposed on the first body, whose natural motion is different, and imposed continuously. 
+
+It must therefore be uneasy and devoid of all rational satisfaction; for it could not even, like the soul of mortal animals, take recreation in the bodily relaxation of sleep. 
+
 
 An Ixion's lot must needs possess it, without end or respite. If then, as we said, the view already stated of the first motion is a possible one, it is not only more appropriate so to conceive of its eternity, but also on this hypothesis alone are we able to advance a theory consistent with popular divinations of the divine nature. But of this enough for the present.
-
-
 

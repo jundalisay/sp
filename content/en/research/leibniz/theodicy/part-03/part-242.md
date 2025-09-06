@@ -14,11 +14,9 @@ weight: 4
 
 Physical evil, that is, sorrows, sufferings, miseries, will be less troublesome to explain, since these are results of moral evil. Poena est malum passionis, quod infligitur ob malum actionis, according to Grotius. One suffers because one has acted; one suffers evil because one does evil.
 
-Nostrorum causa malorum
+Nostrorum causa malorum Nos sumus.
 
-Nos sumus.
-
-It is true that one often suffers through the evil actions of others; but when one has no part in the offence one must look upon it as a certainty that these sufferings prepare for us a greater happiness. 
+One often suffers through the evil actions of others. But when one has no part in the offence one must look upon it as a certainty that these sufferings prepare for us a greater happiness. 
 
 The question of physical evil, that is, of the origin of sufferings, has difficulties in common with that of the origin of metaphysical evil, examples whereof are furnished by the monstrosities and other apparent irregularities of the universe. 
 
@@ -84,13 +82,30 @@ Si non culpabor, sat mihi laudis erit.
 
 That being the case, all the sensations not unpleasing to us, all the exercises of our powers that do not incommode us, and whose prevention would incommode us, are physical goods, even when they cause us no pleasure; for privation of them is a physical evil. Besides we only perceive the good of health, and other like goods, when we are deprived of them. On those terms I would dare to maintain that even in this life goods exceed evils, that our comforts exceed our discomforts, and that M. Descartes was justified in writing (vol. I, Letter 9) 'that natural reason teaches us that we have more goods than evils in this life'.
 
-[282]
 
-252. It must be added that pleasures enjoyed too often and to excess would be a very great evil. There are some which Hippocrates compared to the falling sickness, and Scioppius doubtless only made pretence of envying the sparrows in order to be agreeably playful in a learned and far from playful work. Highly seasoned foods are injurious to health and impair the niceness of a delicate sense; and in general bodily pleasures are a kind of expenditure of the spirit, though they be made good in some better than in others.
+252. Pleasures enjoyed too often and to excess would be a very great evil.
 
-253. As proof, however, that the evil exceeds the good is quoted the instance of M. de la Motte le Vayer (Letter 134), who would not have been willing to return to the world, supposing he had had to play the same part as providence had already assigned to him. But I have already said that I think one would accept the proposal of him who could re-knot the thread of Fate if a new part were promised to us, even though it should not be better than the first. Thus from M. de la Motte le Vayer's saying it does not follow that he would not have wished for the part he had already played, provided it had been new, as M. Bayle seems to take it.
+There are some which Hippocrates compared to the falling sickness, and Scioppius doubtless only made pretence of envying the sparrows in order to be agreeably playful in a learned and far from playful work. 
 
-254. The pleasures of the mind are the purest, and of greatest service in making joy endure. Cardan, when already an old man, was so content with his state that he protested solemnly that he would not exchange it for the state of the richest of young men who at the same time was ignorant. M. de la Motte le Vayer quotes the saying himself without criticizing it. Knowledge has doubtless charms which cannot be conceived by those who have not tasted them. I do not mean a mere knowledge of facts without that of reasons, but knowledge like that of Cardan, who with all his faults was a great man, and would have been incomparable without those faults.
+Highly seasoned foods are injurious to health and impair the delicate senses.
+
+Bodily pleasures are a kind of expenditure of the spirit, though they be made good in some better than in others.
+
+
+253. M. de la Motte le Vayer (Letter 134) proves that the evil exceeds the good.
+
+ <!-- is quoted the instance of , who would not have been willing to return to the world, supposing he had had to play the same part as providence had already assigned to him.  -->
+
+But I have already said that I think one would accept the proposal of him who could re-knot the thread of Fate if a new part were promised to us, even though it should not be better than the first.
+
+Thus from M. de la Motte le Vayer's saying it does not follow that he would not have wished for the part he had already played, provided it had been new, as M. Bayle seems to take it.
+
+
+254. The pleasures of the mind are the purest, and of greatest service in making joy endure. 
+
+Cardan as an old man was so content with his state that he protested solemnly that he would not exchange it for the state of the richest of young men who at the same time was ignorant. 
+
+M. de la Motte le Vayer quotes the saying himself without criticizing it. Knowledge has doubtless charms which cannot be conceived by those who have not tasted them. I do not mean a mere knowledge of facts without that of reasons, but knowledge like that of Cardan, who with all his faults was a great man, and would have been incomparable without those faults.
 
 Felix, qui potuit rerum cognoscere causas!
 

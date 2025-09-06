@@ -3,7 +3,9 @@ title: The Art of Leadership
 heading: Chapter 3j
 weight: 22
 description: "The leader of genius must make different opponents appear as if they belonged to the one category"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

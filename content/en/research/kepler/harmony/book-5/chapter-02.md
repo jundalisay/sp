@@ -14,8 +14,9 @@ Proportions to the Five Regular Figures.
 
 This relationship is diverse and manifold. 
 
-However, there are in the main 4 degrees. For either the token of the relationship is taken solely from the external appearance which the figures have; or along with the actual construction of the edge the same proportions emerge
-which are also harmonic; or they result from figures which have already
+However, there are 4 main degrees.
+
+For either the token of the relationship is taken solely from the external appearance which the figures have; or along with the actual construction of the edge the same proportions emerge which are also harmonic; or they result from figures which have already
 been constructed, either separately or in conjunction; or finally they
 are equal to or close to the proportions of the spheres of the figure.
 
@@ -74,7 +75,10 @@ For the diameter of the inscribed sphere is to the diameter of the circumscribin
 
 In the dodecahedric marriage, the proportion of the spheres is again unique, but inexpressible, a little greater than 4:5. Therefore, the harmonic proportions which are close to the proportion of the cubic and octahedric spheres are the following: 1:2 as the next greatest, and 3:5 as the next smallest; while the harmonies which are close to the proportion of the dodecahedric spheres are 4:5 and 5:6, the next smallest, and 3:4 and 5:8, the next greatest.
 
-But if for particular reasons 1:2 and 1:3 are to be appropriated to the cube, as the proportion of the cube’s spheres to the proportion of the tetrahedron’s spheres, so the harmonies 1:2 and 1:3, which are allotted to the cube, will be to 1:4 and 1:9 which have to be allotted to the tetrahedron, if indeed it is right to use this analogy; for these proportions are the squares of the harmonies mentioned. And because 1:9 is not harmonic, its place will be taken by the nearest harmonic, 1:8, for the tetrahedron. But to the dodecahedric marriage, using this analogy, will belong approximately 4:5 and 3:4. 
+
+But if for particular reasons 1:2 and 1:3 are to be appropriated to the cube, as the proportion of the cube’s spheres to the proportion of the tetrahedron’s spheres, so the harmonies 1:2 and 1:3, which are allotted to the cube, will be to 1:4 and 1:9 which have to be allotted to the tetrahedron, if indeed it is right to use this analogy; for these proportions are the squares of the harmonies mentioned.
+
+And because 1:9 is not harmonic, its place will be taken by the nearest harmonic, 1:8, for the tetrahedron. But to the dodecahedric marriage, using this analogy, will belong approximately 4:5 and 3:4. 
 
 For just as the proportion of the cubic spheres is approximately the cube of that of the dodecahedric, so also the cubic harmonies 1:2 and 1:3 are approximately the cubes of the harmonies 4:5 and 3:4. 
 

@@ -3,7 +3,9 @@ title: The Instinct of Self-Preservation
 heading: Chapter 11d
 weight: 94
 description: "Every historical event in the world is nothing more nor less than a manifestation of the instinct of racial self-preservation, whether for weal or woe"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

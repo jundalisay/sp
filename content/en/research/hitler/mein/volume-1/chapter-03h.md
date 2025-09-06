@@ -3,7 +3,9 @@ title: The wreck of the Pan-German Movement
 heading: Chapter 3h
 weight: 18
 description: "The authority of the State can never be an end in itself. If that were so, any kind of tyranny would be inviolable and sacred"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

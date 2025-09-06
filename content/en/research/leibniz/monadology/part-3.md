@@ -10,15 +10,19 @@ contributors: ['Leibniz']
 ---
 
 
-53. There is an infinity of possible universes among God’s ideas, and only one of them can exist
+<sup>53</sup> **There is an infinity of possible universes among God’s ideas, and only one of them can exist.** *
+
+{{< n n="This is opposite of Descartes who believed in a single universe" >}}
+
 
 There must be a sufficient reason for God’s choice, which determines him to the one rather than to the other.
 
-54. This reason can be found only in harmony, or the degrees of perfection which these worlds contain, since each possible world has the right to claim existence in proportion to the perfection it includes. 
+
+<sup>54</sup> This reason can be found only in harmony, or the degrees of perfection which these worlds contain, since each possible world has the right to claim existence in proportion to the perfection it includes. 
 
 Thus nothing is entirely arbitrary.
 
-55. This is the cause of the existence of the best, which his wisdom makes him know, which is goodness makes him choose, and which his power makes him produce.
+<sup>55</sup> This is the cause of the existence of the best, which his wisdom makes him know, which is goodness makes him choose, and which his power makes him produce.
 
 56. This interconnectedness, or this accommodation of all created things to each, and of each to all the rest, means that each simple substance has relations to all the others, which it expresses. Consequently, it is a permanent living mirror of the universe.
 

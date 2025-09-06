@@ -107,15 +107,22 @@ Through struggle, society will have to move forward towards victory along the pa
 
 ## Footnotes
 
-1. On October 13, 1989 the author gave the discourse “Minimum Requirements and Maximum Amenities” (Proutist Economics, 1992), and instructed that the essential ideas contained in this discourse should be added to the present chapter. 
+1. On October 13, 1989 Sarkar gave the discourse “Minimum Requirements and Maximum Amenities” (Proutist Economics, 1992), and instructed that the essential ideas contained in this discourse should be added to the present chapter. 
 
-These ideas were summarized by the author as follows: “(1) Minimum requirements are to be guaranteed to all. 
+These ideas were summarized by the author as follows: 
+
+1. Minimum requirements are to be guaranteed to all. 
 
 2. Special amenities are for people of special calibre as per the environmental condition of the particular age.
 
 3. Maximum amenities are to be guaranteed to all, even to those who have no special qualities – to common people of common calibre. Maximum amenities are to be guaranteed to all as per environmental conditions. 
 
-These amenities are for those of ordinary calibre – the common people, the so-called downtrodden humanity. (4) All three above are never-ending processes, and they will go on increasing according to the collective potentialities. This appendix to our philosophy may be small, but it is of progressive nature and progressive character. It has far-reaching implications for the future.” –Eds.
+These amenities are for those of ordinary calibre – the common people, the so-called downtrodden humanity. 
+
+4. All 3 above are never-ending processes.
+
+They will go on increasing according to the collective potentialities. This appendix to our philosophy may be small, but it is of progressive nature and progressive character. It has far-reaching implications for the future.” –Eds.
+
 
 (2) In 1959, Sarkar gave the “Five Fundamental Principles of Prout” in English. They were published as part of the discourse “The Cosmic Brotherhood” in Idea and Ideology. 
 
@@ -129,8 +136,3 @@ Samája in Sútra 5-12 is normally translated “society”; “collective bod
 
 Parivarttante in Sútra 5-16 is normally translated “does vary” (present indicative); “should vary” appears in the English. –Eds.
 
-<!-- Published in:
-Prout in a Nutshell Part 4 [a compilation]
-Proutist Economics [a compilation]
-Universal Humanism [a compilation]
- -->

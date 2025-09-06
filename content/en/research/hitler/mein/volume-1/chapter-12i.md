@@ -3,7 +3,9 @@ title: Ernst Pöhner
 heading: Chapter 12i
 weight: 130
 description: "Ernst Pöhner was the only one who did not pay court to the mob"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

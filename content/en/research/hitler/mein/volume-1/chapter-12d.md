@@ -3,7 +3,9 @@ title: Obligations 7- of the Movement
 heading: Chapter 12d
 weight: 118
 description: "This one-sided but clear and definite attitude must be manifested in the movement's propaganda which should be made effective"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

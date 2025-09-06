@@ -3,7 +3,9 @@ title: "Epilogue: From Struggle to Success"
 heading: Chapter 15d
 weight: 810
 description: "One undertakes such a struggle when there is a possibility of success"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 icon: "Adolf Hitler"
 ---

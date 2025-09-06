@@ -3,7 +3,9 @@ title: Modifications to the Educational System
 heading: Chapter 2g
 weight: 24
 description: "Any new movement which is based on the racial concept will first have to advance a clear doctrine of the State's nature and purpose"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

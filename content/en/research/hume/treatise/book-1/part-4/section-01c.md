@@ -1,5 +1,6 @@
 ---
-title: "The Nature of Probability"
+title: Feeling Versus Intellect 
+# "Dogma Versus Skepticism"
 heading: Section 1c
 description: "The Skeptical and Other Systems of Philosophy Simplified"
 c: "steelblue"
@@ -36,51 +37,60 @@ I prepare a new answer, which is liable to another doubt.
 
 This process can go on for infinity.
 
-How can we retain belief in philosophy or common life, even after all this?
+Then how can we retain belief in philosophy or common life?
+
+
+## Feeling Versus Intellect
 
 I answer that, after the first and second answer:
 - the mind's action becomes forced and unnatural, and
-- the ideas become faint and obscure even if the principles of judgment and the balancing of opposite causes is the same as at the very start.
+- the ideas become faint and obscure
 
-Yet their influence on the imagination and the vigour that they add or remove from the thought are not equal.
+ <!-- even if the principles of judgment and the balancing of opposite causes is the same as at the very start. -->
 
-When the mind reaches its objects with difficulty, the same principles do not have same effect as in our more natural way of thinking.
+<!-- Yet their influence on the imagination and the vigour that they add or remove from the thought are not equal. -->
+
+When the mind finds thinks of difficult things:
+- The attention is stretched.
+- The posture of the mind is uneasy.
+- The spirits are diverted from their natural course.
+  - They move differently from when they flowed in their usual channel.
+
+<!--  reaches its objects with difficulty, the same principles do not have same effect as in our more natural way of thinking.
 
 The imagination does feel the same way as it felt in its common judgments and opinions.
 
-The attention is stretched.
+It will not be very difficult to find similar instances if we want them. -->
 
-The posture of the mind is uneasy.
+Metaphysics is an example of this.
 
-The spirits are diverted from their natural course.
+It is easier to think of history or politics than metaphysics.
 
-They move differently from when they flowed in their usual channel.
-
-It will not be very difficult to find similar instances if we want them.
-
-Metaphysics will supply us abundantly.
-
-The same argument which will convince us in a reasoning on history or politics, has less influence on philosopophical subjects.
+<!-- The same argument which will convince us in a reasoning on , has less influence on philosopophical subjects.
 
 This is because an effort of thought is needed to understand metaphysical subjects.
 
 But this effort of thought disturbs our feelings which the belief depends on.
 
-The case is the same in other subjects.
+The case is the same in other subjects. -->
 
 The regular flow of our feelings are hindered by the straining of the imagination.
 
-We would never feel anything for a tragedy which portrays its heroes as very ingenious and witty in their misfortunes.
+We watch a tragedy emotionally without any subtle reasoning and reflection.
 
-The soul's emotions prevent any subtle reasoning and reflection.
 
-This makes reasoning and reflection equally prejudicial to the emotions.
+<!-- We would never feel anything for a tragedy which portrays its heroes as very ingenious and witty in their misfortunes.
 
-The mind and the physical body has a precise degree of force, which it employs in one action only at the expense of all the rest.
+The soul's emotions prevent .
 
-This is more obvious in actions that have different natures.
+This makes reasoning and reflection equally prejudicial to the emotions. -->
 
-These different natures divert the mind's force and changes its disposition.
+
+The mind and the physical body uses force in one action only at the expense of all the rest.
+
+<!-- This is more obvious in actions that have different natures. -->
+
+The different natures of our actions divert the mind's force and changes its disposition.
 
 It renders us:
 - incapable of a sudden transition from one action to the other, and
@@ -102,33 +112,44 @@ Some people use an expeditious way to totally reject the arguments of skeptics w
 
 We cannot approve of this expeditious way.
 
-They say that:
-- if the skeptical reasonings are strong, then it is a proof that reason may have some force and authority, and
-- if the skeptical reasonings are weak, then reason can never be enough to invalidate all the conclusions of our understanding.
+ <!-- may have some force and -->
+People say that:
+- if the skeptical reasonings are strong, then it prove that reason has some authority
+- if the skeptical reasonings are weak, then reason is weak to invalidate our understanding
 
-That argument is not fair.
+ <!-- the conclusions of our understanding. -->
+
+I think those arguments are not fair.
 - This is because skeptical reasonings are successively strong and weak, based on the mind's successive dispositions.
 
 Reason initially takes the throne.
 - It prescribes laws and imposes maxims with an absolute authority.
 
 Her enemy is doubt.
-- It takes shelter under her protection*.
+
+- It takes shelter under reason's protection*.
 
 {{< n n="In data science, this doubt is called the bias that takes shelter in each neuron of a neural network in order to prevent some kinds of data from being processed further. The bias declines or changes depending on factors such as the learning rate." >}}
 
 
-It uses rational arguments to prove the fallaciousness and imbecility of reason, producing a patent under her band and seal.
+Doubt uses rational arguments to prove the fallaciousness and imbecility of reason.
 
-This patent initially has an authority proportional to the present and immediate authority of reason, from which it is derived.
+ <!-- producing a patent under her band and seal. -->
 
-But as it is contradictory to reason, it gradually reduces the force of reason and its own at the same time.
+Her arguments have power proportional to the current authority of reason where it comes from.
 
-Until finally, they both vanish into nothing, by a regular and just reduction.
+<!-- This patent initially has an authority proportional to the present and immediate authority of reason, from which it is derived. -->
+
+But doubt is contradictory to reason.
+
+And so it gradually reduces the force of reason and its own force at the same time.
+
+Until finally they both vanish into nothing.
+
+<!-- , by a regular and just reduction. -->
 
 The skeptical and dogmatical reasons are of the same kind.
-
-But they are contrary in their operation and tendency.
+- But they are contrary in their operation.
 
 Where the skepticism is strong, it has an enemy of equal force in dogma.
 

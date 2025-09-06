@@ -5,7 +5,6 @@ weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
 description: "Men should choose the mean instead of either the excess or defect"
 icon: "Aristotle"

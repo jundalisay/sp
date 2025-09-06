@@ -1,5 +1,6 @@
 ---
-title: "Skepticism Regarding Our Reason"
+title: Knowledge is Opposite of Probability
+#"Skepticism Regarding Our Reason"
 heading: Section 1
 description: "The Skeptical and Other Systems of Philosophy Simplified"
 c: "steelblue"
@@ -16,11 +17,11 @@ icon: "David Hume"
 
 In all demonstrative sciences, the rules are certain and infallible.
 
-But when we apply them, our fallible faculties depart from them and make mistakes.
+But when we apply them, our fallible faculties make mistakes.
 
 So we must:
-- create a new judgment to check our initial belief, and
-- enlarge our view to comprehend the history of all the instances when our understanding has deceived us.
+- check our initial beliefs, and
+- enlarge our view to comprehend the history of all the instances when we made mistakes
 
 Our reason is a kind of cause.
 - The truth is its natural effect.
@@ -33,7 +34,7 @@ Through this, all knowledge degenerates into probability.
 
 This probability depends on:
 - the experience of our understanding, and
-- the simplicity or intricacy of the question.
+- the simplicity or complexity of the question
 
 No mathematician will:
 - be totally confident of any truth immediately on its discovery, or
@@ -70,11 +71,8 @@ Thus, it is impossible to:
 - show the precise limits of knowledge and probability, or
 - discover that specific number where knowledge ends and probability begins.
 
-But the nature of knowledge and probability are so contrary and disagreeing.
-
-They cannot run insensibly into each other.
-
-They must be entirely present or entirely absent because they will not divide.
+But knowledge is opposite of probability.
+- They must be entirely present or entirely absent because they will not divide.
 
 If any single addition were certain, every other addition would be certain.
 
@@ -88,4 +86,3 @@ It would then degenerate from knowledge into probability.
 All knowledge:
 - resolves itself into probability, and
 - finally becomes of the same nature with that evidence we employ in common life.
-

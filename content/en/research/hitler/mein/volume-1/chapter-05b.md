@@ -3,7 +3,9 @@ title: The World War
 heading: Chapter 5b
 weight: 40
 description: "The War of 1914 was certainly not forced on the masses; it was even desired by the whole people"
-author: Adolf Hitler
+writer:
+  name: Adolf Hitler
+  url: https://en.wikipedia.org/wiki/Adolf_Hitler
 c: "firebrick"
 ---
 

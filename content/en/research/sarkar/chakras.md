@@ -13,7 +13,11 @@ writer:
 
 ## Root Chakra -- Square
 
-The last vertebra or the tail bone is called "Kula". A little inside this point, the Muladhara Cakra is located ‑ the controlling point of the physical elements. 
+The Muladhara Cakra is the controlling point of the physical elements. 
+
+It is located inside the point of the last vertebra or the tail bone which is called "Kula". 
+
+<!-- A little inside this point,  -->
 
 This Cakra faces the front side and is square in shape. The middle point of this square is a bit away from the bone. 
 
@@ -26,7 +30,10 @@ But the bone goes out through the middle point of the triangle with the vertebra
 
 The square is the Karnika (seed vessel) of the Muladhara Cakra. 
 
-The Karnika of a flower indicates the portion where resides the pollen in the centre of the petals. The Muladhara Cakra is like a complete flower with 4 petals. 
+The Karnika of a flower has the pollen in the centre of the petals. The Muladhara Cakra is like a complete flower with 4 petals.*
+
+{{< n n="The square is like the event horizon of a black hole, while the petals are the accretion disk"  >}}
+
 
 The bone that comes out downwards through the middle point of the triangle inside the square is known as "Kula" -- it is not the whole bone but only the outgoing portion. 
 
@@ -211,4 +218,3 @@ If the crescent moon is given the shape of a full moon, then it becomes easier t
 In our Snana Vidhi, it has been clearly mentioned that we must wet the navel and Svadhisthana first and then we should give water again from behind. 
 
 So the external physical Shaoca is to keep the body clean and strictly observe Snana Vidhi.
-
