@@ -14,9 +14,11 @@ weight: 90
 
 Calling Atra-Hasis to the temple, he made him stay behind a screen. 
 
-Then Enki pretended to speak not to his devout Earthling but to the wall. "Reed screen,"
-he said,
+Then Enki pretended to speak not to his devout Earthling but to the wall. 
 
+
+{{< l a="Enki" >}}
+"Reed screen," he said
 Pay attention to my instructions.
 On all the habitations, over the cities,
 a storm will sweep.
@@ -24,14 +26,15 @@ The destruction of Mankind's seed it will be…
 This is the final ruling,
 the word of the Assembly of the gods,
 the word spoken by Anu, Enlil and Ninhursag.
+{{< /l >}}
+
 
 This subterfuge explains Enki's later contention, when the survival of Noah/Utnapishtim was discovered, that he had not broken his oath—that the "exceedingly wise" (atra-hasis) Earthling had found out the secret of the Deluge all by himself, by correctly interpreting the signs.
 
 Pertinent seal depictions show an attendant holding the screen while Ea—as the Serpent God—reveals the secret to Atra-Hasis. (Fig. 160)
 
 
-
-### Ea Reveals the Secret
+## Ea Reveals the Secret
 
 Enki's advice was to build a waterborne vessel, giving precise instruction with the boat's measurements, and construction.
 

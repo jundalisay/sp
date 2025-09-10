@@ -15,24 +15,16 @@ The nature of ordinary non-polarized light was next discussed.
 Fresnel wrote[51] 
 
 
-{{< q a="Fresnel" >}}
-"that if the polarization of a ray of light consists in this, that all its vibrations are executed in the same direction, it results from any hypothesis on the generation of light-waves, that a ray emanating from & single centre of disturbance will always be polarized in a definite plane at any instant. 
-
-But an instant afterwards, the direction of the motion changes, and with it the plane of polarization; and these variations follow each other as quickly as the perturbations of the vibrations of the luminous particle: so that even if we could isolate the light of this particular particle from that of other luminous particles, we should doubtless not recognize in it any appearance of polarization. 
-{{< /q >}}
+{{< l a="Fresnel" >}}
+The polarization of light is all its vibrations executing in the same direction. It is from a hypothesis on the generation of light-waves, that a ray emanating from a single centre of disturbance will always be polarized in a definite plane at any instant. But an instant afterwards, the direction of the motion changes, and with it the plane of polarization. These variations follow each other as quickly as the perturbations of the vibrations of the luminous particle: so that even if we could isolate the light of this particular particle from that of other luminous particles, we should doubtless not recognize in it any appearance of polarization.  If we consider now the effect produced by the union of all the waves which emanate from the different points of a luminous body, we see that at each instant, at a definite point of the aether, the general resultant of all the motions which commingle there will have a determinate direction, but this direction will vary from one instant to the next. So direct light can be considered as the union, or more exactly as the rapid succession, of systems of waves polarized in all directions. According to this way of looking at the matter, the act of polarization consists not in creating these transverse motions, but in decomposing them in two invariable directions, and separating the components from each other; for. then, in each of them, the oscillatory motions take place always in the same plane.
+{{< /l >}}
 
 
-{{< q a="Fresnel" >}}
-If we consider now the effect produced by the union of all the waves which emanate from the different points of a luminous body, we see that at each instant, at a definite point of the aether, the general resultant of all the motions which commingle there will have a determinate direction, but this direction will vary from one instant to the next.
+He then considered the relation of the direction of vibration to the plane of polarization. 
 
-So direct light can be considered as the union, or more exactly as the rapid succession, of systems of waves polarized in all directions.
-
-According to this way of looking at the matter, the act of polarization consists not in creating these transverse motions, but in decomposing them in two invariable directions, and separating the components from each other; for. then, in each of them, the oscillatory motions take place always in the same plane."
-{{< /q >}}
-
-
-He then proceeded to consider the relation of the direction of vibration to the plane of polarization. "Apply these ideas to double refraction, and regard a uniaxal crystal as an elastic medium in which the accelerating force which results from the displacement of a row of molecules perpendicular to the axis, relative to contiguous rows, is the same all round the axis; while the displacements parallel to the axis produce accelerating forces of a different intensity, stronger if the crystal "repulsive," and weaker if it is "attractive." 
-
+{{< l a="Fresnel" >}}
+Apply these ideas to double refraction, and regard a uniaxal crystal as an elastic medium in which the accelerating force which results from the displacement of a row of molecules perpendicular to the axis, relative to contiguous rows, is the same all round the axis; while the displacements parallel to the axis produce accelerating forces of a different intensity, stronger if the crystal "repulsive," and weaker if it is "attractive."
+{{< /l >}}
 
 
 The distinctive character of the rays which are ordinarily refracted being that of propagating themselves with the same velocity in all directions, we must admit that their oscillatory motions are executed at right angles to the plane drawn through these rays and the axis of the crystal; for then the displacements which they occasion, always taking place along directions perpendicular to the axis, will, by hypothesis, always give rise to the same accelerating forces. 
@@ -41,9 +33,13 @@ But, with the conventional meaning which is attached to the expression plane of 
 
 This result afforded Fresnel a foothold in dealing with the problem which occupied the rest of his life: henceforth his aim was to base the theory of light on the dynamical properties of the luminiferous medium.
 
-The first topic which he attacked from this point of view was the propagation of light in crystalline bodies. Since Brewster's discovery that many crystals do not conform to the type to which Huygens' construction is applicable, the wave theory had to some extent lost credit in this region. Fresnel, now, by what was perhaps the most brilliant of all his efforts,[52] not only reconquered the lost territory, but added a new domain to science.
+The first topic which he attacked from this point of view was the propagation of light in crystalline bodies. 
 
-He had, as he tells us himself, never believed the doctrine that in crystals there are two different luminiferous media, one to transmit the ordinary, and the other the extraordinary waves. The alternative to which he inclined was that the two velocities of propagation were really the two roots of a quadratic equation, derivable in some way from the theory of a single aether. Could this equation be obtained, he was confident of finding the explanation, not only of double refraction, but also of the polarization by which it is always accompanied.
+Since Brewster's discovery that many crystals do not conform to the type to which Huygens' construction is applicable, the wave theory had to some extent lost credit in this region. Fresnel, now, by what was perhaps the most brilliant of all his efforts, not only reconquered the lost territory, but added a new domain to science.
+
+He had, as he tells us himself, never believed the doctrine that in crystals there are two different luminiferous media, one to transmit the ordinary, and the other the extraordinary waves. The alternative to which he inclined was that the two velocities of propagation were really the two roots of a quadratic equation, derivable in some way from the theory of a single aether. 
+
+Could this equation be obtained, he was confident of finding the explanation, not only of double refraction, but also of the polarization by which it is always accompanied.
 
 The first step was to take the case of uniaxal crystals, which had been discussed by Huygens, and to see whether Huygens' sphere and spheroid could be replaced by, or made to depend on, a single surface.[53]
 
@@ -117,15 +113,28 @@ which is called Fresnel's wave-surface.[55] It is a two-sheeted surface, as must
 
 and the spheroid
 
-It is to these two surfaces that tangent-planes are drawn in the construction given by Huygens for the ordinary and extraordinary refracted rays in Iceland spar. As Fresnel observed, exactly the same construction applies to biaxal crystals, when the two sheets of the wave-surface are substituted for Huygens' sphere and spheroid.
+...
 
-"The theory which I have adopted," says Fresnel at the end of this memorable paper, "and the simple constructions which I have deduced from it, have this remarkable character, that all the unknown quantities are determined together by the solution of the problem. We find at the same time the velocities of the ordinary ray and of the extraordinary ray, and their planes of polarization. Physicists who have studied attentively the laws of nature will feel that such simplicity and such close relations between the different elements of the phenomenon are conclusive in favour of the hypothesis on which they are based."
+It is to these two surfaces that tangent-planes are drawn in the construction given by Huygens for the ordinary and extraordinary refracted rays in Iceland spar. 
 
-The question as to the correctness of Fresnel's construction was discussed for many years afterwards.
+As Fresnel observed, exactly the same construction applies to biaxal crystals, when the two sheets of the wave-surface are substituted for Huygens' sphere and spheroid.
 
-A striking consequence of it was pointed out in 1832 by William Rowan Hamilton (b. 1805, d. 1865), Royal Astronomer of Ireland, who remarked[56] that the surface defined by Fresnel's equation has four conical points, at each of which there is an infinite number of tangent planes; consequently, a single ray, proceeding from a point within the crystal in the direction of one of these points, must be divided on emergence into an infinite number of rays, constituting a conical surface.
+{{< l a="Fresnel" >}}
+My theory and the simple constructions from it find the speeds of the ordinary ray and of the extraordinary ray, and their planes of polarization. This shows such close relations between the different elements of the phenomenon. 
+{{< /l >}}
 
-Hamilton also showed that there are four planes, each of which touches the wave-surface in an infinite number of points, constituting a circle of contact: so that a corresponding ray incident externally should be divided within the crystal into an infinite number of refracted rays, again constituting a conical surface.
+<!-- The question as to the correctness of Fresnel's construction was discussed for many years afterwards. -->
+
+
+## Hamilton
+
+A striking consequence of it was pointed out in 1832 by William Rowan Hamilton (b. 1805, d. 1865), Royal Astronomer of Ireland.
+
+He remarked that the surface defined by Fresnel's equation has four conical points, at each of which there is an infinite number of tangent planes.
+
+Consequently, a single ray, proceeding from a point within the crystal in the direction of one of these points, must be divided on emergence into an infinite number of rays, constituting a conical surface.
+
+Hamilton also showed that there are 4 planes, each of which touches the wave-surface in an infinite number of points, constituting a circle of contact: so that a corresponding ray incident externally should be divided within the crystal into an infinite number of refracted rays, again constituting a conical surface.
 
 These singular and unexpected consequences of the theory were shortly afterwards verified experimentally by Humphrey Lloyd,[57] and helped greatly to confirm belief in Fresnel's theory.
 
@@ -140,7 +149,7 @@ Fresnel's final formulae have since been unassailable.
 
 The dynamical substructure on which he based them is open to objection.
 
-But, as Stokes observed[61]:
 
-"If we reflect on the state of the subject as Fresnel found it, and as he left it, the wonder is, not that he failed to give a rigorous dynamical theory, but that a single mind was capable of effecting so much."
-
+{{< l a="Stokes" >}}
+If we reflect on the state of the subject as Fresnel found it, and as he left it, the wonder is, not that he failed to give a rigorous dynamical theory, but that a single mind was capable of effecting so much.
+{{< /l >}}

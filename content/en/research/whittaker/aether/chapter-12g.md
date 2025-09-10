@@ -74,7 +74,9 @@ The last recorded observation of Faraday[87] was an attempt to detect changes in
 
 But the conviction that an effect of this nature remained to be discovered was felt by many of his successors. Tait[88] examined the influence of a magnetic field on the selective absorption of light; impelled thereto, as he explained, by theoretical considerations. 
 
-For from the phenomenon of magnetic rotation it may be inferred[89] that rays circularly polarized in opposite senses are propagated with different velocities in the magnetized medium; and therefore if only those rays are absorbed which have a certain definite wave-length in the medium, the period of the ray absorbed from a beam of circularly polarized white light will not be the same when the polarization is right-handed as when it is left-handed. "Thus," wrote Tait, "what was originally a single dark absorption-line might become a double line."
+For from the phenomenon of magnetic rotation it may be inferred[89] that rays circularly polarized in opposite senses are propagated with different velocities in the magnetized medium.
+
+Therefore if only those rays are absorbed which have a certain definite wave-length in the medium, the period of the ray absorbed from a beam of circularly polarized white light will not be the same when the polarization is right-handed as when it is left-handed. "Thus," wrote Tait, "what was originally a single dark absorption-line might become a double line."
 
 The effect anticipated under different forms by Faraday and Tait was discovered, towards the end of 1896, by I. Zeeman.[90] Repeating Faraday's procedure, he placed a sodium fame between the poles of an electromagnet, and observed a widening of the D-lines in the spectrum when the magnetizing current was applied.
 
@@ -82,32 +84,37 @@ A theoretical explanation of the phenomenon was immediately furnished to Zeeman 
 
 If e denote the charge of an electron of mass m, the ponderomotive force which acts on it by virtue of the external magnetic field is e ['i.K], where K denotes the magnetic force and r denotes the displacement of the electron from its position of equilibrium; and therefore, if the force which restrains the electron in its orbit be κ2r, the equation of motion of the electron is
 
+...
 
 The motion of the electron may (as is shown in treatises on dynamics) be represented by the superposition of certain particular solutions called principal oscillations, whose distinguishing property is that they are periodic in the time. In order to determine the principal oscillations, we write 
 
+...
 
 for r, where r0, denotes a vector which is independent of the time, and n denotes the frequency of the principal oscillation: substituting in the equation, we have
 
+...
 
 This equation may be satisfied either (1) if r0, is parallel to K, in which case it reduces to
 
 
 so that n has the value κm-
-1
-2
+
+...
+
 , or (2) if r0 is at right angles to K, in which case by squaring both sides of the equation we obtain the result
 
 which gives for n the approximate values κm-
 
 
 When there is no external magnetic field, so that K is zero, the three values of n which have been obtained all reduce to κm-
-1
-2
+
+...
+
 , which represents the frequency of vibration of the emitted light before the magnetic field is applied. When the field is applied, this single frequency is replaced by the three frequencies. κm-
 
-1
-2
- - eK/2m; that is to say, the single line in the spectrum is replaced by three lines close together. The apparatus used by Zeeman in his earliest experiments was not of sufficient power to exhibit this triplication distinctly, and the effect was therefore described at first as a widening of the spectral lines.[92]
+...
+
+- eK/2m; that is to say, the single line in the spectrum is replaced by three lines close together. The apparatus used by Zeeman in his earliest experiments was not of sufficient power to exhibit this triplication distinctly, and the effect was therefore described at first as a widening of the spectral lines.[92]
 
 We have seen above that the principal oscillation of the electron corresponding to the frequency κm-
 
@@ -119,15 +126,20 @@ It follows that when the light received in the spectroscope is that which has be
 
 We have also seen that the principal oscillations of the electron corresponding to the frequencies κm-
 
+...
+
 ± eK/2m are ​performed in a plane at right angles to the magnetic field K. In order to determine the nature of these two principal oscillations, we observe that it is possible for the electron to describe a circular orbit in this plane, if the radius of the orbit be suitably chosen; for in a circular motion the forces κ2r and 
 
+...
 
 would be directed towards the centre of the circle; and it would therefore be necessary only to adjust the radius so that these furnish the exact amount of centripetal force required. Such a motion, being periodic, would be a principal oscillation. Moreover, since the force 
 
+...
 
 changes sign when the sense of the movement in the circle is reversed, it is evident that there are two such circular orbits, corresponding to the two senses in which the electron may circulate; these must, therefore, be no other than the two principal oscillations of frequencies κm-
 
 When the light received in the spectroscope is that which has been emitted in a direction at right angles to the external magnetic field, the circles are seen edgewise, and the light appears polarized in a plane parallel to the field; but when the light examined is that which has been emitted in a direction parallel to the external magnetic force, the radiations of frequencies κm-
 
+...
 
 are seen to be circularly polarized in opposite senses. All these theoretical .conclusions have been verified by observation.

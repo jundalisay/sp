@@ -116,3 +116,4 @@ Let there be also among the people the pasittu (she-demon):
 [iii.d5] Let her snatch the baby from the lap who bore it.
 
 And establish high priestesses and priestesses, let them be taboo,note and so cut down childbirth
+

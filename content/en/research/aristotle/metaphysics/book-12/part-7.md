@@ -48,7 +48,11 @@ For motion in space is the first of the kinds of change, and motion in a circle 
 
 For the necessary has all these senses-that which is necessary perforce because it is contrary to the natural impulse, that without which the good is impossible, and that which cannot be otherwise but can exist only in a single way.
 
-On such a principle, then, depend the heavens and the world of nature. And it is a life such as the best which we enjoy, and enjoy for but a short time (for it is ever in this state, which we cannot be), since its actuality is also pleasure. (And for this reason are waking, perception, and thinking most pleasant, and hopes and memories are so on account of these.) And thinking in itself deals with that which is best in itself, and that which is thinking in the fullest sense with that which is best in the fullest sense. 
+On such a principle, then, depend the heavens and the world of nature. And it is a life such as the best which we enjoy, and enjoy for but a short time (for it is ever in this state, which we cannot be), since its actuality is also pleasure. 
+
+And for this reason are waking, perception, and thinking most pleasant, and hopes and memories are so on account of these.
+
+Thinking in itself deals with that which is best in itself, and that which is thinking in the fullest sense with that which is best in the fullest sense. 
 
 Thought thinks on itself because it shares the nature of the object of thought. Thought becomes an object of thought in coming into contact with and thinking its objects. In this way, thought and the object of thought are the same. 
 

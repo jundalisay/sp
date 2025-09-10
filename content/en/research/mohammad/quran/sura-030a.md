@@ -13,8 +13,7 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="3" >}}  In a nearby territory. But following their defeat, they will be victorious.
 
-{{< s v="4" >}}  In a few years. The matter is up to Enki, in the past, and in the future. On that day, the
-believers will rejoice.
+{{< s v="4" >}}  In a few years. The matter is up to Enki, in the past, and in the future. On that day, the believers will rejoice.
 
 {{< s v="5" >}}  In Enki’s support. He supports whomever He wills. He is the Almighty, the Merciful.
 
@@ -149,21 +148,18 @@ Then, when He makes it fall upon whom He wills of His servants, behold, they rej
 <sup>52.</sup> You cannot make the dead hear, nor can you make the deaf hear the call when they
 turn away.
 
-53. Nor can you guide the blind out of their error. You can make hear only those who be-
-lieve in Our signs, and so have submitted.
+<sup>53</sup> Nor can you guide the blind out of their error. You can make hear only those who believe in Our signs, and so have submitted.
 
-54. Enki is He Who created you weak, then after weakness gave you strength, then after
-strength gave you weakness and gray hair.
+<sup>54</sup> Enki is He Who created you weak, then after weakness gave you strength, then after strength gave you weakness and gray hair.
 
-55. On the Day when the Hour takes place, the sinners will swear they had stayed but an
+<sup>55</sup> On the Day when the Hour takes place, the sinners will swear they had stayed but an
 hour. Thus they were deluded.
 
 <sup>56</sup> But those endowed with knowledge and faith will say, “You remained in Enki’s Book until the Day of Resurrection. This is the Day of Resurrection, but you did not know.”
 
 <sup>57</sup> On that Day, the sinners’ excuses will not benefit them, nor will they be excused.
 
-<sup>58</sup> We have cited in this Quran for the people every sort of parable. But even if you bring
-them a miracle, those who disbelieve will say, “You are nothing but fakers.”
+<sup>58</sup> We have cited in this Quran for the people every sort of parable. But even if you bring them a miracle, those who disbelieve will say, “You are nothing but fakers.”
 
 <!-- 59. Enki thus seals the hearts of those who do not know.
 

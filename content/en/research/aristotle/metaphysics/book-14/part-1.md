@@ -15,7 +15,11 @@ icon: "Aristotle"
 
 This substance must be enough. 
 
-All philosophers make the first principles contraries. as in natural things, so also in the case of unchangeable substances. But since there cannot be anything prior to the first principle of all things, the principle cannot be the principle and yet be an attribute of something else.
+All philosophers make the first principles contraries in:
+- natural things
+- unchangeable substances
+
+But since there cannot be anything prior to the first principle of all things, the principle cannot be the principle and yet be an attribute of something else.
 
 To suggest this is like saying that the white is a first principle, not qua anything else but qua white, but yet that it is predicable of a subject, i.e. that its being white presupposes its being something else; this is absurd, for then that subject will be prior. 
 
@@ -31,9 +35,13 @@ Even the philosopher who says the unequal and the One are the elements, and the 
 
 But they do not describe rightly even the principles which they call elements, for some name the great and the small with the One and treat these three as elements of numbers, two being matter, one the form; while others name the many and few, because the great and the small are more appropriate in their nature to magnitude than to number; and others name rather the universal character common to these-'that which exceeds and that which is exceeded'. 
 
-None of these varieties of opinion makes any difference to speak of, in view of some of the consequences; they affect only the abstract objections, which these thinkers take care to avoid because the demonstrations they themselves offer are abstract,-with this exception, that if the exceeding and the exceeded are the principles, and not the great and the small, consistency requires that number should come from the elements before does; for number is more universal than as the exceeding and the exceeded are more universal than the great and the small. But as it is, they say one of these things but do not say the other. 
+None of these varieties of opinion makes any difference to speak of, in view of some of the consequences.
 
-Others oppose the different and the other to the One, and others oppose plurality to the One. But if, as they claim, things consist of contraries, and to the One either there is nothing contrary, or if there is to be anything it is plurality, and the unequal is contrary to the equal, and the different to the same, and the other to the thing itself, those who oppose the One to plurality have most claim to plausibility, but even their view is inadequate, for the One would on their view be a few; for plurality is opposed to fewness, and the many to the few.
+They affect only the abstract objections, which these thinkers take care to avoid because the demonstrations they themselves offer are abstract,-with this exception, that if the exceeding and the exceeded are the principles, and not the great and the small, consistency requires that number should come from the elements before does; for number is more universal than as the exceeding and the exceeded are more universal than the great and the small. But as it is, they say one of these things but do not say the other. 
+
+Others oppose the different and the other to the One, and others oppose plurality to the One. 
+
+But if, as they claim, things consist of contraries, and to the One either there is nothing contrary, or if there is to be anything it is plurality, and the unequal is contrary to the equal, and the different to the same, and the other to the thing itself, those who oppose the One to plurality have most claim to plausibility, but even their view is inadequate, for the One would on their view be a few; for plurality is opposed to fewness, and the many to the few.
 
 'The one' evidently means a measure. 
 
@@ -53,7 +61,9 @@ These imply that the one is not the substance of anything.
 
 Thus it is natural that one is not a number; for the measure is not measures, but both the measure and the one are starting-points.
 
-The measure must always be some identical thing predicable of all the things it measures, e.g. if the things are horses, the measure is 'horse', and if they are men, 'man'. If they are a man, a horse, and a god, the measure is perhaps 'living being', and the number of them will be a number of living beings. If the things are 'man' and 'pale' and 'walking', these will scarcely have a number, because all belong to a subject which is one and the same in number, yet the number of these will be a number of 'kinds' or of some such term.
+The measure must always be some identical thing predicable of all the things it measures, e.g. if the things are horses, the measure is 'horse', and if they are men, 'man'. If they are a man, a horse, and a god, the measure is perhaps 'living being', and the number of them will be a number of living beings. 
+
+If the things are 'man' and 'pale' and 'walking', these will scarcely have a number, because all belong to a subject which is one and the same in number, yet the number of these will be a number of 'kinds' or of some such term.
 
 "Those who treat the unequal as one thing, and the dyad as an indefinite compound of great and small, say what is very far from being probable or possible. 
 

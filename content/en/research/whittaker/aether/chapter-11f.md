@@ -38,9 +38,7 @@ The question had been studied in 1861 by Adolphe Perrot. He examined the gases l
 The analogy of gaseous conduction to electrolysis was applied by W. Giese, of Berlin in 1882, in order to explain the conductivity of the hot gases of flames. 
 
 {{< q a="Giese" >}}
-In electrolytes, even before the application of an external electromotive force, there are present atoms or atomic groups—the ions, as they are called—which originate when the molecules dissociate; by these the passage of electricity through the liquid is effected, for they are set in motion by the electric field and carry their charges with them. 
-
-We shall now extend this hypothesis by assuming that in gases also the property of conductivity is due to the presence of ions. Such ions may be supposed to exist in small numbers in all gases at the ordinary temperature and pressure; and as the temperature rises their numbers will increase.
+In electrolytes, even before the application of an external electromotive force, there are present atoms or atomic groups—the ions, as they are called—which originate when the molecules dissociate; by these the passage of electricity through the liquid is effected, for they are set in motion by the electric field and carry their charges with them. We shall now extend this hypothesis by assuming that in gases also the property of conductivity is due to the presence of ions. Such ions may be supposed to exist in small numbers in all gases at the ordinary temperature and pressure; and as the temperature rises their numbers will increase.
 {{< /q >}}
 
 
@@ -86,6 +84,7 @@ A suggestion which was put forward later in the year by E. Wiechert[76] and Sir 
 
 The rapidity of the vibrations explains the failure of all attempts to refract the X-rays. For in the formula of the Maxwell-Sellmeier theory,[79] n denotes the frequency, and so is in this case extremely large; whence we have
 
+...
 
 i.e., the refractive index of all substances for the X-rays is unity. In fact, the vibrations alternate too rapidly to have an effect on the sluggish systems which are concerned in refraction.
 
@@ -101,17 +100,25 @@ The soon as conductivity was also found to be destroyed when an electric current
 
 For if the ions were removed from an electrolytic solution by the passage of a current. the solution would cease to conduct as sufficient electricity had passed to remove them all; and it may be supposed that the conducting agents which are produced in a gas by exposure to X-rays are likewise abstracted from it when they are employed to transport charges.
 
-The same idea may be applied to explain another property of gases exposed to X-rays. The strength of the current through the gas depends both on the intensity of the radiation and also on the electromotive force; but if the former factor be constant, and the electromotive force be increased, the current does not increase indefinitely, but tends to attain a certain "saturation" value. The existence of this saturation value is evidently due to the inability of the electromotive force to do more than to remove the ions as fast as they are produced by the rays.
+The same idea may be applied to explain another property of gases exposed to X-rays. The strength of the current through the gas depends both on the intensity of the radiation and also on the electromotive force; but if the former factor be constant, and the electromotive force be increased, the current does not increase indefinitely, but tends to attain a certain "saturation" value. 
+
+The existence of this saturation value is evidently due to the inability of the electromotive force to do more than to remove the ions as fast as they are produced by the rays.
 
 Meanwhile other evidence was accumulating to show that the conductivity produced in gases by X-rays is of the same nature as the conductivity of the gases from fames and from the path of a discharge, to which the theory of Giese and Schuster had already been applied. One proof of this identity was supplied by observations of the condensation of watervapour into clouds.
 
-It had been noticed long before by John Aitken[83] that gases rising from flames cause precipitation of the aqueous vapour from a saturated gas; and R. von Helmholtz[84] had found that gases through which an electric discharge has been passed possess the same property. It was now shown by C. T. R. Wilson,[85] working in the Cavendish Laboratory at Cambridge, that the same is true of gases which have been exposed to X-rays. The explanation furnished by the ionic theory is that in all three cases the gas contains ions which act as centres of condensation for the vapour.
+John Aitken noticed that gases rising from flames cause precipitation of the aqueous vapour from a saturated gas.
+
+R. von Helmholtz had found that gases through which an electric discharge has been passed possess the same property. 
+
+C. T. R. Wilson showed that the same is true of gases which have been exposed to X-rays.
+
+The explanation furnished by the ionic theory is that in all three cases the gas contains ions which act as centres of condensation for the vapour.
 
 During the year which followed their discovery, the X-rays were so thoroughly examined that at the end of that period they were almost better understood than the cathode rays from which they derived their origin. But the obscurity in which this subject had been so long involved was now to be dispelled.
 
 Lecturing at the Royal Institution on April 30th, 1897, J. J. Thomson advanced a new suggestion to reconcile the molecular-torrent hypothesis with Lenard's observations of the passage of cathode rays through material bodies. 
 
-"We see from Lenard's table," he said, "that a cathode ray can travel through air at atmospheric pressure a distance of about half a centimetre before the brightness of the phosphorescence falls to about half its original value. Now the mean free path of the molecule of air at this pressure is about 10-5 cm., and if a molecule of air were projected it would lose half its momentum in a space comparable with the mean free path. 
+"We see from Lenard's table that a cathode ray can travel through air at atmospheric pressure a distance of about half a centimetre before the brightness of the phosphorescence falls to about half its original value. Now the mean free path of the molecule of air at this pressure is about 10-5 cm., and if a molecule of air were projected it would lose half its momentum in a space comparable with the mean free path. 
 
 Even if we suppose that it is not the same molecule that is carried, the effect of the obliquity of the collisions would reduce the momentum to hall in a short multiple of that path.
 
@@ -127,6 +134,7 @@ Hertz had caused the rays to travel between parallel plates of metal maintained 
 
 The electrostatic and magnetic deflexions taken together suffice to determine the ratio of the mass of a cathode particle to the charge which it carries. For the equation of motion of the particle is
 
+...
 
 where r denotes the vector from the origin to the position of the particle; E and H denote the electric and magnetic forces; e the charge, m the mass, and v the velocity of the particle. 
 

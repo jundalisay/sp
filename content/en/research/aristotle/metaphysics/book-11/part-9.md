@@ -63,7 +63,9 @@ To be capable of being well and to be capable of being ill are not the same. If 
 
 Likewise, colour and the visible are not the same, it is the complete reality of the potential, and as potential, that is movement. That it is this, and that movement takes place when the complete reality itself exists, and neither earlier nor later, is evident. 
 
-For each thing is capable of being sometimes actual, sometimes not, e.g. the buildable qua buildable; and the actuality of the buildable qua buildable is building. For the actuality is either this-the act of building-or the house. But when the house exists, it is no longer buildable; the buildable is what is being built. The actuality, then, must be the act of building, and this is a movement. And the same account applies to all other movements.
+For each thing is capable of being sometimes actual, sometimes not, e.g. the buildable qua buildable; and the actuality of the buildable qua buildable is building. For the actuality is either this-the act of building-or the house. 
+
+But when the house exists, it is no longer buildable; the buildable is what is being built. The actuality, then, must be the act of building, and this is a movement. And the same account applies to all other movements.
 
 <!-- "That what we have said is right is evident from what all others say about movement, and from the fact that it is not easy to define it otherwise. For firstly  -->
 

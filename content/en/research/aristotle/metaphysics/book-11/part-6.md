@@ -68,15 +68,25 @@ When the doctor orders people to take some particular food, why do they take it?
 
 And so it would make no difference whether one ate or not. But as a matter of fact they take the food which is ordered, assuming that they know the truth about it and that it is bread. Yet they should not, if there were no fixed constant nature in sensible things, but all natures moved and flowed for ever.
 
-"Again, if we are always changing and never remain the same, what wonder is it if to us, as to the sick, things never appear the same? (For to them also, because they are not in the same condition as when they were well, sensible qualities do not appear alike; yet, for all that, the sensible things themselves need not share in any change, though they produce different, and not identical, sensations in the sick. And the same must surely happen to the healthy if the afore-said change takes place.) But if we do not change but remain the same, there will be something that endures.
+If we are always changing and never remain the same, what wonder is it if to us, as to the sick, things never appear the same? (For to them also, because they are not in the same condition as when they were well, sensible qualities do not appear alike.
+
+Yet, for all that, the sensible things themselves need not share in any change, though they produce different, and not identical, sensations in the sick. 
+
+The same must surely happen to the healthy if the afore-said change takes place.) But if we do not change but remain the same, there will be something that endures.
 
 The difficulties suggested by reasoning are not easy to solve unless they will posit something and no longer demand a reason for it. For it is only thus that all reasoning and all proof is accomplished; if they posit nothing, they destroy discussion and all reasoning. 
 
-Therefore with such men there is no reasoning. But as for those who are perplexed by the traditional difficulties, it is easy to meet them and to dissipate the causes of their perplexity. This is evident from what has been said.
+Therefore with such men, there is no reasoning.
 
-Thus contradictory statements cannot be truly made about the same subject at one time, nor can contrary statements, because every contrariety depends on privation. This is evident if we reduce the definitions of contraries to their principle.
+But as for those who are perplexed by the traditional difficulties, it is easy to meet them and to dissipate the causes of their perplexity. This is evident from what has been said.
 
-"Similarly, no intermediate between contraries can be predicated of one and the same subject, of which one of the contraries is predicated. If the subject is white we shall be wrong in saying it is neither black nor white, for then it follows that it is and is not white; for the second of the two terms we have put together is true of it, and this is the contradictory of white.
+Thus contradictory statements cannot be truly made about the same subject at one time, nor can contrary statements, because every contrariety depends on privation.
+
+This is evident if we reduce the definitions of contraries to their principle.
+
+Similarly, no intermediate between contraries can be predicated of one and the same subject, of which one of the contraries is predicated. 
+
+If the subject is white we shall be wrong in saying it is neither black nor white, for then it follows that it is and is not white; for the second of the two terms we have put together is true of it, and this is the contradictory of white.
 
 It is wrong to accept the views of Heraclitus or Anaxagoras. 
 

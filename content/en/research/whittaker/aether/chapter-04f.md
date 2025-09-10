@@ -65,7 +65,9 @@ Thus when the light is polarized in the plane of reflexion, the amplitude of the
 Fresnel shows in a similar way that when the light is polarized at right angles to the plane of reflexion, the ratio of the amplitudes of the reflected and incident waves is
 
 These formulæ are generally known as Fresnel's sine-law and Fresnel's tangent-law respectively. They had, however, been discovered experimentally by Brewster some years previously. When the incidence is perpendicular, so that i and r are very small, the ratio of the amplitudes becomes
-,
+
+...
+
 where μ2 and μ1 denote the refractive indices of the media. 'This formula had been given previously by Young[66] and Poisson,[67] on the supposition that the elasticity of the aether is of the same kind as that of air in sound.
 
 When i + r = 90°, tan (i + r) becomes infinite: and thus a theoretical explanation is obtained for Brewster's law, that if the incidence is such as to make the reflected and refracted rays perpendicular to each other, the reflected light will he wholly polarized in the plane of reflexion.

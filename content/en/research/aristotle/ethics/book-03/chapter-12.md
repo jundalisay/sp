@@ -5,7 +5,6 @@ weight: 16
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
 description: "Every action of which ignorance is the cause is not-voluntary"
 icon: "Aristotle"

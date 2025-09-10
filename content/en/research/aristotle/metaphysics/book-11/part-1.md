@@ -1,7 +1,7 @@
 ---
 heading: "Part 1"
 title: "Should science focus on the elemental or the universal?"
-weight: 1
+weight: 2
 
 c: "indigo"
 description: "Aristotle asks whether science should focus on the elemental or the universal"

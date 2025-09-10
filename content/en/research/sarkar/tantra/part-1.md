@@ -106,7 +106,7 @@ They would never dare to displease the night and the evening, so whenever they m
 
 At night’s end, when the eastern horizon glowed red, the Aryans would sing the song of the dawn in unison. 
 
-Aruńa, the mythological charioteer of the sun’s seven-horsed chariot (the seven horses corresponding to the seven distinct colours of the sun’s rays), was also their god, as, indeed, was the sun itself.
+Aruna, the mythological charioteer of the sun’s seven-horsed chariot (the seven horses corresponding to the seven distinct colours of the sun’s rays), was also their god, as, indeed, was the sun itself.
 
 Some of the rśis understood the truth that there was a Supreme Entity above these gods, a Supreme Controller.
 - This God of gods was the rśis’ Brahma.

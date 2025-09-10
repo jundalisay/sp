@@ -7,7 +7,7 @@ weight: 8
 ---
 
 
-###  1-8. As the guńas increase their bondage, they express themselves fully in the emergence of the fundamental factors
+###  1-8. As the guńas increase their bondage, they express themselves through the emergence of the fundamental factors
 
 <!-- Guńabandhanena guńábhivyaktih. -->
 
@@ -19,11 +19,11 @@ Puruśa gives freedom to Prakrti to bind Puruśa.
 
 The conscious Puruśa then gets metamorphosed into Mahattattva, Ahaḿtattva, citta, etc., under the ever-increasing binding factors.
 
-and then as the result of the gradually greater and still greater 
+<!-- and then as the result of the gradually greater and still greater  -->
 
 The increased bondage of tamoguńa creates the following factors in degrees:
 
-  <!-- there come into being as per degrees of crudification,  -->
+<!-- there come into being as per degrees of crudification,  -->
 
 1. Ethereal
 2. Aerial
@@ -33,7 +33,7 @@ The increased bondage of tamoguńa creates the following factors in degrees:
 
 Even in the latter there are degrees of bondage.
 
-On account of the firmness of bondage, the inter-atomic and inter-molecular distances decrease.
+Because of the firmness of bondage, the inter-atomic and inter-molecular distances decrease.
 
 This decrease increases the internal frictions in the material body.
 

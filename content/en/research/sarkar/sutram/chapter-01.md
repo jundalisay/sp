@@ -11,7 +11,9 @@ weight: 4
 
 ### 1.1. Brahma is the composite of Shiva and Shakti
 
-Brahma [Cosmic Entity] is the composite of Shiva [Consciousness] and Shakti [Operative Principle].
+Brahma [Cosmic Entity] is the composite of:
+- Shiva [Consciousness] and 
+- Shakti [Operative Principle].
 
 A piece of paper has two sides. Although they are two for the sake of argument, they cannot be separated from the one paper entity.
 
@@ -27,7 +29,9 @@ But in common parlance the word átmá [“soul” or “self”] is more exte
 
 Shiva means “witnessing consciousness”. 
 
+```
 Pure shete yah sah puruśah
+```
 
 Puruśa is "the witness-ship that lies quiescent in every entity is the puruśa.”
 
@@ -35,32 +39,41 @@ Atman means “that which is omni-telepathic”.
 
 The physical sense of the body is telepathized on the mental plate.
 
-In other words, the physical sense is awakened in the mental plate due to the reflection that follows the impact of the crude physical waves on the mental plate. 
+The crude physical waves impacts the mental plate.
+- This creates a reflection that represents the awakening of the physical sense
 
-Similarly, the sense of every crude object is awakened in the mental plate as soon as the reflection takes place following the impact of the waves of the objects on the mental plate.
+The waves of the objects impact the mental plate.
+- This creates a reflection that represents the sense of every crude object
 
 Identical mental waves hit the soul entity.
 
-This causes the reflection of those mental waves. This awakens in the unit a sense of its indivisibility from the soul.
+This causes the reflection of those mental waves. 
 
-If, in the language of philosophy, mental waves, that is, thought, be called thought-waves, then the reflection of the mental waves on the soul-plate will have to be termed telepathic waves.
+This awakens in the unit a sense of its indivisibility from the soul.
 
-And so in reference to the soul-plate, we may say that it is telepathic to the mind. 
+The mental waves in the mental plate are called thought.
+- These can be called "thought-waves"
 
-All mundane objects, crude, subtle, or causal, consist in mental waves or thought-waves.
+Likewise, the reflection of the mental waves on the soul-plate are called "telepathic waves".
 
-So we may call the Soul omni-telepathic.
+And so the soul, via the soul-plate, is telepathic to the mind. 
+
+**All mundane objects, crude, subtle, or causal, consist in mental waves or thought-waves.**
+
+This is why the Soul is omni-telepathic.
 
 <!-- in the fullest accord with reasoning and logic, -->
 
-It is because of this omni-telepathic Átman that the existences of all mundane objects, visible or invisible, large or small, find their factual substantiation and recognition. 
+This omni-telepathy of the Átman lets it recognize the existences of all mundane objects, visible or invisible.
+
+<!-- , large or small, find their factual substantiation and .  -->
 
 Had there been no Átman, the existence of everything would have been in jeopardy.
 
 
 <!-- 1-2. Shaktih Sá Shivasya Shaktih. -->
 
-### 1-2. Shakti (the Operative Principle) is the shakti (force) of Shiva
+## 1-2. Shakti (the Operative Principle) is the shakti (force) of Shiva
 
 Every object has a material cause and an efficient cause.
 
@@ -73,7 +86,6 @@ In the process of creation:
 - Prakrti is the linking force between the material and the efficient causes.
 
 <!-- consummating the relation -->
-
 
 As the efficient cause:
 - Puruśa is the primary factor
@@ -93,30 +105,40 @@ And so, in the science of creation, Puruśa alone as the doer entity is the chi
 
 Prakrti is the subordinate efficient cause since she has been posing as the doer with the authority given to Her by Puruśa.
 
-The distortions or expressions which are taking place in the material cause through the efficient cause and which we call worldly manifestations, are effected by the 3 guńas [attributes or binding principles: sattva, rajah and tamah] of Prakrti.
+"Worldly manifestations" are the distortions or expressions in the material cause through the efficient cause.
 
-These accounts for Prakrti are the linking force between the efficient cause and the material cause. So the firmness or feebleness of the object-body fully depends upon the degree of the influence of Prakrti.
+These are effected by the 3 gunas of Prakrti.
 
-The role of Puruśa is foremost in all the spheres. 
+<!-- [attributes or binding principles: sattva, rajah and tamah] -->
 
-Prakrti only acts to whatever extent Puruśa has authorized or authorizes Her to act. 
+These accounts for Prakrti are the linking force between the efficient cause and the material cause. 
+
+So the firmness or feebleness of the object-body fully depends upon the degree of the influence of Prakrti.
+
+<!-- The role of Puruśa is foremost in all the spheres. 
+
+Prakrti only acts to whatever extent Puruśa has authorized or authorizes Her to act.  -->
 
 In the process of evolution, Puruśa gives Prakrti the authority to work, and She goes on working.
 
 The subtle Puruśa goes on attaining crudity gradually due to the bondage of the 3 guńas of Prakrti. 
 
-In the ultimate state of His crudity, Puruśa slowly and gradually keeps shrivelling up the opportunity and liberty of Prakrti previously given to Her.
+From the ultimate state of His crudity, **Purusa slowly and gradually keeps reduces the opportunity and liberty of Prakrti previously given to Her.**
 
-Thus, the crudified Puruśa, gradually regaining His subtlety, returns to His own ultimate characteristic state. 
+This is how the crudified Puruśa gradually:
+- regains His subtlety 
+- returns to His own ultimate characteristic state
 
-The flow of manifestations of the Puruśadeha [Cognitive Body] under the binding influence of Prakrti is what we call saiṋcara [extroversion from the subtle to the crude].
+Saincara [crudification] is the flow of manifestations of the Puruśadeha [Cognitive Body] under the binding influence of Prakrti.
 
-The gradual process of liberation that results in the Puruśadeha due to progressive looseness of the bondage is what we call pratisaiṋcara [introversion from the crude to the subtle].
+ <!-- is what we call  [extroversion from the subtle to the crude]. -->
+
+Pratisaiṋcara [subtlification] is the gradual process of liberation in the Puruśadeha from the progressive looseness of the bondage.
+
+ <!-- is what we call  [introversion from the crude to the subtle]. -->
 
 Prakrti is free to make honest use of Her acquired power. But the attainment or non-attainment of this power depends on Puruśa, or Citishakti [Cognitive Principle].
 
 This is why Prakrti is but the characteristic of Puruśa Himself.
 
  <!-- – Shaktih Sá Shivasya Shaktih. -->
-
-

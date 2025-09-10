@@ -1,8 +1,7 @@
 ---
 heading: "Part 2"
 title: "What is the Nature of Number?"
-weight: 4
-
+weight: 3
 c: "indigo"
 description: "Must we suppose something apart from individual things, or is it these that the science we are seeking treats of?"
 writer:
@@ -13,17 +12,39 @@ icon: "Aristotle"
 
 
 
-Must we suppose something apart from individual things, or is it these that the science we are seeking treats of? 
+Must we suppose something apart from individual things? or is it these that the science we are seeking treats of? 
 
-But these are infinite in number. Yet the things that are apart from the individuals are genera or species; but the science we now seek treats of neither of these. The reason why this is impossible has been stated.
+But individual things are infinite in number.
 
-It is in general hard to say whether one must assume that there is a separable substance besides the sensible substances (i.e. the substances in this world), or that these are the real things and Wisdom is concerned with them. 
+Yet the things that are apart from the individuals are genera or species. But the science I seek treats of neither of these.
 
-For we seem to seek another kind of substance, and this is our problem, i.e. to see if there is something which can exist apart by itself and belongs to no sensible thing.
+<!-- The reason why this is impossible has been stated. -->
 
-Further, if there is another substance apart from and corresponding to sensible substances, which kinds of sensible substance must be supposed to have this corresponding to them? Why should one suppose men or horses to have it, more than either the other animals or even all lifeless things? On the other hand to set up other and eternal substances equal in number to the sensible and perishable substances would seem to fall beyond the bounds of probability.-
+<!-- It is in general hard to say whether one must assume that -->
 
-But if the principle we now seek is not separable from corporeal things, what has a better claim to the name matter? This, however, does not exist in actuality, but exists in potency. And it would seem rather that the form or shape is a more important principle than this; but the form is perishable, so that there is no eternal substance at all which can exist apart and independent. But this is paradoxical; for such a principle and substance seems to exist and is sought by nearly all the most refined thinkers as something that exists; for how is there to be order unless there is something eternal and independent and permanent?
+Is there is a separable substance besides the sensible substances?
+
+ <!-- (i.e. the substances in this world), or that these are the real things and Wisdom is concerned with them.  -->
+
+Because we seem to seek another kind of substance. My problem is to see if there is something which can exist alone by itself, belonging to no sensible thing.
+
+If there is another substance apart from, and corresponding to, sensible substances, then what kind of sensible substance is it?
+
+ <!-- must these correspond to? Why should one suppose men or horses to have it, more than either the other animals or even all lifeless things?  -->
+
+On the other hand, it would be impossible to set up other eternal substances equal in number to the sensible and perishable substances.
+
+ <!-- would seem to fall beyond the bounds of probability.- -->
+
+But if the principle we now seek is not separable from corporeal things, what has a better claim to the name matter? 
+
+This, however, does not exist in actuality, but exists in potency.
+
+It would seem that its shape is a more important principle than this.
+
+But the form is perishable, so that there is no eternal substance at all which can exist apart and independent. 
+
+But this is paradoxical; for such a principle and substance seems to exist and is sought by nearly all the most refined thinkers as something that exists; for how is there to be order unless there is something eternal and independent and permanent?
 
 If there is a substance or principle of such a nature as that which we are now seeking, and if this is one for all things, and the same for eternal and for perishable things, it is hard to say why in the world, if there is the same principle, some of the things that fall under the principle are eternal, and others are not eternal; 
 
@@ -41,6 +62,10 @@ Further they are limits of these same things; and all these are in other things 
 
 All knowledge is of universals and of the 'such', but substance is not a universal, but is rather a 'this'-a separable thing, so that if there is knowledge about the first principles, the question arises, how are we to suppose the first principle to be substance?
 
-Is there anything apart from the concrete thing (by which I mean the matter and that which is joined with it), or not? If not, we are met by the objection that all things that are in matter are perishable. But if there is something, it must be the form or shape. Now it is hard to determine in which cases this exists apart and in which it does not; for in some cases the form is evidently not separable, e.g. in the case of a house.
+Is there anything apart from the concrete thing (by which I mean the matter and that which is joined with it), or not? 
+
+If not, we are met by the objection that all things that are in matter are perishable. 
+
+But if there is something, it must be the form or shape. Now it is hard to determine in which cases this exists apart and in which it does not; for in some cases the form is evidently not separable, e.g. in the case of a house.
 
 Are the principles the same in kind or in number? If they are one in number, all things will be the same.

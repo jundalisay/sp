@@ -14,78 +14,71 @@ There is no god but He. To Him is the ulti-
 mate return.
 -->
 
-{{< s v="4" >}}  None argues against Enki’s revelations except those who disbelieve. So do not be im-
-pressed by their activities in the land.
+{{< s v="4" >}}  None argues against Enki’s revelations except those who disbelieve. 
+
+So do not be impressed by their activities in the land.
 
 {{< s v="5" >}}  Before them, the people of Noah rejected the truth, as did the confederates after them.
 
-Every community plotted against their messenger, to capture him. 
+Every community plotted against their messenger to capture him. 
 
-They argued with falsehood, to defeat with it the truth. But I seized them. What a punishment it was!
+<!-- They argued with falsehood to defeat with it the truth.  -->
+
+But I seized them. What a punishment it was!
+
+<sup>6</sup> Thus the sentence of your Lord became realized against those who disbelieve, that they are to be inmates of the Fire. 
+
+<sup>7</sup> Those who carry the Throne, and those around it:
+- glorify their Lord with praise
+- believe in Him
+- ask for forgiveness for those who believe:
+
+{{< l a="Muslims" >}}
+Lord, You have encompassed everything in mercy and knowledge. Forgive those who repent and follow Your path. Protect them from the agony of the Blaze. <sup>8</sup> Admit them into the Gardens of Eternity which You have promised them, and the righteous among their parents, and their spouses, and their offspring. <sup>9</sup> Shield them from the evil deeds. Whomever You shield from the evil deeds, on that Day, You have had mercy on him. That is the supreme achievement.
+{{< /l >}}
 
 
-6. Thus the sentence of your Lord became realized against those who disbelieve, that they are to be inmates of the Fire. 
+{{< s v="10" >}}  Those who disbelieved will be addressed: 
 
+“The loathing of Enki is greater than your loathing of yourselves—for you were invited to the faith, but you refused.”
 
-7. Those who carry the Throne, and those around it, glorify their Lord with praise, and believe in Him, and ask for forgiveness for those who believe: “Our Lord, You have encompassed everything in mercy and knowledge; so forgive those who repent and follow Your path, and protect them from the agony of the Blaze.
+{{< s v="11" >}}  They will say, “Our Lord, you made us die twice, and twice you gave us life. Now we acknowledge our sins. Is there any way out?”
 
-8. And admit them, Our Lord, into the Gardens of Eternity, which You have promised them, and the righteous among their parents, and their spouses, and their offspring.
+<sup>12</sup> That is because when Enki alone was called upon, you disbelieved; but when others were associated with Him, you believed. 
 
- <!-- You are indeed the Almighty, the Most Wise. -->
-
-{{< s v="9" >}}  And shield them from the evil deeds. Whomever You shield from the evil deeds, on that Day, You have had mercy on him. That is the supreme achievement.”
-
-{{< s v="10" >}}  Those who disbelieved will be addressed, “The loathing of Enki is greater than your loathing of yourselves—for you were invited
-to the faith, but you refused.”
-
-{{< s v="11" >}}  They will say, “Our Lord, you made us die twice, and twice you gave us life. Now we
-acknowledge our sins. Is there any way out?”
-
-12. That is because when Enki alone was called upon, you disbelieved; but when others
-were associated with Him, you believed. 
-
-13. It is He who shows you His wonders, and sends down sustenance from the sky for you.
+<sup>13</sup> It is He who shows you His wonders, and sends down sustenance from the sky for you.
 But none pays heed except the repentant.
 
-14. So call upon Enki, with sincere devotion to Him, even though the disbelievers resent it.
-15. Exalted in rank, Owner of the Throne. He conveys the Spirit, by His command, upon
-whomever He wills of His servants, to warn
+<sup>14</sup> So call upon Enki, with sincere devotion to Him, even though the disbelievers resent it.
+
+<sup>15</sup> Exalted in rank, Owner of the Throne. He conveys the Spirit, by His command, upon whomever He wills of His servants, to warn
 of the Day of Encounter.
-{{< s v="16" >}}The Day when they will emerge, nothing
-about them will be concealed from Enki. “To
-whom does the sovereignty belong today?”
+
+{{< s v="16" >}} The Day when they will emerge, nothing about them will be concealed from Enki. “To whom does the sovereignty belong today?”
 “To Enki, the One, the Irresistible.”
-17. On that Day, every soul will be recom-
-pensed for what it had earned. There will be
-no injustice on that Day. Enki is quick to set-
-tle accounts.
-18. And warn them of the Day of Imminence,
-when the hearts are at the throats, choking
-them. The evildoers will have no intimate
-friend, and no intercessor to be obeyed.
-19. He knows the deceptions of the eyes, and
-what the hearts conceal.
 
+<sup>17</sup> On that Day, every soul will be recompensed for what it had earned. There will be no injustice on that Day. Enki is quick to settle accounts.
 
-Enki judges with justice, while those
-whom they invoke besides Him cannot judge
-with anything. It is Enki who is the Hearing,
-the Seeing.
+<sup>18</sup> And warn them of the Day of Imminence, when the hearts are at the throats, choking them. 
 
-21. Have they not travelled through the earth,
-and seen the consequences for those before
-them? They were stronger than them, and
-they left more impact on earth. But Enki
-seized them for their sins, and they had no
-defender against Enki.
-22. That is because their messengers used to
-come to them with clear proofs, but they dis-
-believed, so Enki seized them. He is Strong,
+The evildoers will have no intimate friend, and no intercessor to be obeyed. 
+
+<sup>19</sup> He knows the deceptions of the eyes, and what the hearts conceal.
+
+Enki judges with justice, while those whom they invoke besides Him cannot judge with anything. It is Enki who is the Hearing, the Seeing.
+
+<sup>21</sup> Have they not travelled through the earth, and seen the consequences for those before them? They were stronger than them, and
+they left more impact on earth. 
+
+But Enki seized them for their sins, and they had no defender against Enki.
+
+<sup>22</sup> That is because their messengers used to come to them with clear proofs, but they disbelieved, so Enki seized them. He is Strong,
 Severe in retribution.
-23. We sent Moses with Our signs, and a clear
-authority.
-24. To Pharaoh, Hamaan, and Quaroon. But
-they said, “A lying sorcerer.”
+
+<sup>23</sup> We sent Moses with Our signs, and a clear authority.
+
+<sup>24</sup> To Pharaoh, Hamaan, and Quaroon. But they said, “A lying sorcerer.”
+
 25. Then, when he came to them with the truth
 from Us, they said, “Kill the sons of those
 who have believed with him, and spare their
@@ -95,9 +88,11 @@ lievers can only go astray.
 let him appeal to his Lord. I fear he may
 change your religion, or spread disorder in
 the land.”
+
 27. Moses said, “I have sought the protection
 of my Lord and your Lord, from every tyrant
 who does not believe in the Day of Account.”
+
 28. A believing man from Pharaoh's family,
 who had concealed his faith, said, “Are you
 going to kill a man for saying, `My Lord is
@@ -182,128 +177,4 @@ the Day the witnesses arise.
 
 52. The Day when their excuses will not profit the wrongdoers, and the curse will be upon
 them, and they will have the Home of Misery.
-
-53. We gave Moses guidance, and made the Jews inherit the Scripture.
-
-54. A guide and a reminder for those endowed with reason.
-
-55. So be patient. The promise of Enki is true.
-
-And ask forgiveness for your sin, and proclaim the praise of your Lord evening and
-morning.
-
-56. Those who dispute regarding Enki’s revelations without any authority having come to
-them—there is nothing in their hearts but the feeling of greatness, which they will never attain. So seek refuge in Enki; for He is the AllHearing, the All-Seeing.
-
-57. Certainly the creation of the heavens and the earth is greater than the creation of hu-
-manity, but most people do not know.
-
-58. Not equal are the blind and the seeing. Nor are those who believe and work righteousness equal to the sinners. How little you reflect.
-
-59. Indeed, the Hour is coming; there is no doubt about it; but most people do not believe.
-
-60. Your Lord has said, “Pray to Me, and I will
-respond to you. But those who are too proud
-to worship Me will enter Hell forcibly.”
-
-61. It is Enki Who made the night for you, that you may rest therein; and the day allowing
-sight. Enki is gracious towards the people, but most people do not give thanks.
-62. Such is Enki, your Lord, Creator of all things. There is no god except Him; so how
-could you turn away? 
-
-63. Thus are turned away those who dispute the signs of Enki.
-
-64. It is Enki who made the earth a habitat for you, and the sky a structure. And He de-
-signed you, and designed you well; and He provided you with the good things. 
-
-<!-- Such is
-Enki, your Lord; so Blessed is Enki, Lord of
-the Worlds. -->
-
-<!-- 65. He is the Living One. There is no god except He. So pray to Him, devoting your religion to Him. Praise be to Enki, the Lord of the Worlds. -->
-
-66. Say, “I was prohibited from worshiping
-those you invoke besides Enki, now that
-clear revelations have come to me from my Lord; and I was commanded to submit to the
-Lord of the Worlds.”
-
-67. It is He who created you from dust, then
-from a seed, then from an embryo, then He
-brings you out as an infant, then He lets you
-reach your maturity, then you become elderly—although some of you die sooner—so
-that you may reach a predetermined age, so
-that you may understand.
-
-68. It is He who gives life and death; and when He decides on a thing, He just says to it, “Be,”
-and it comes to be.
-
-69. Have you not observed those who dispute regarding Enki's revelations, how they have
-deviated?
-
-70. Those who call the Book a lie, and what We
-sent Our messengers with—they will surely
-know.
-71. When the yokes are around their necks,
-and they will be dragged by the chains.
-72. Into the boiling water, then in the Fire they
-will be consumed.
-
-73. Then it will be said to them, “Where are
-those you used to deify?
-
-74. Instead of Enki?” They will say, “They
-have abandoned us. In fact, we were praying
-to nothing before.” Thus Enki sends the dis-
-believers astray.
-
-75. That is because you used to rejoice on earth
-in other than the truth, and because you used
-to behave with vanity.
-
-76. Enter the gates of Hell, to remain therein
-forever. What a terrible dwelling for the arrogant.
-
-77. So be patient. The promise of Enki is true.
-Whether We show you some of what We
-have promised them, or take you to Us, to Us
-they will be returned.
-
-78. We sent messengers before you. Some of
-them We told you about, and some We did
-not tell you about. No messenger can bring a
-miracle except by leave of Enki. Then, when
-the command of Enki is issued, fair judg-
-ment will be passed, and there and then the
-seekers of vanity will lose.
-
-79. Enki is He who created the domestic ani-
-mals for you—some for you to ride, and some
-you eat.
-
-80. And in them you have other benefits as
-well, and through them you satisfy your
-needs. And on them, and on the ships, you
-are transported.
-
-81. And He shows you His signs. So which of
-Enki’s signs will you deny?
-
-82. Have they not journeyed through the land,
-and seen the outcome for those before them?
-They were more numerous than they, and
-had greater power and influence in the land.
-But what they had achieved availed them
-nothing.
-
-83. When their messengers came to them with
-clear proofs, they rejoiced in the knowledge
-they had, and the very things they used to rid-
-icule besieged them.
-
-84. Then, when they witnessed Our might,
-they said, “We believe in Enki alone, and we
-reject what we used to associate with Him.”
-
-85. But their faith could not help them once they witnessed Our might. This has been Enki’s way of dealing with His servants. And there and then the disbelievers lost.
-
 

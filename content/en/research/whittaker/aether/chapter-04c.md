@@ -16,11 +16,11 @@ Young's paper failed to convince the contemporary world. But it permanently enri
 
 <!-- Young says: -->
 
-{{< q a="Young" >}}
+{{< l a="Young" >}}
 My solution is based on the principles of Huygens: Of a medium more easily compressible in one direction than in any direction perpendicular to it, as if it consisted of an infinite number of parallel plates connected by a substance somewhat less elastic. Such a structure of the elementary atoms of the crystal can be compared to a block of wood or of mica. **Mr. Chladni found that the mere obliquity of the fibres of a rod of Scotch fir reduced the velocity with which it transmitted sound in the proportion of 4 to 5.** Therefore, such a block of wood transmits every impulse in spheroidal (oval) undulations.
 
 The spheroid will be truly elliptical when the body consists either of plane and parallel strata, or of equidistant fibres, supposing both to be extremely thin, and to be connected by a less highly elastic substance; the spheroid being in the former case oblate and in the latter oblong.
-{{< /q >}}
+{{< /l >}}
 
 
 Young then proceeds to a formal proof that "an impulse is propagated through every perpendicular section of a lamellar elastic substance in the form of an elliptic undulation." 

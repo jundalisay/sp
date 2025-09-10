@@ -14,8 +14,9 @@ In 1887 a young Swedish physicist, Svante Arrhenius, advanced the theory of solu
 
 The ideas of Williamson and Clausius on the spontaneous dissociation of electrolytes led to the properties discovered by Kohlrausch[24].
 
- Arrhenius inferred:
-- that in very dilute solutions the electrolyte is completely dissociated into ions, but that in more concentrated solutions the salt is less completely dissociated; and - that as in all solutions the transport of electricity in the solution is effected solely by the movement of ions, the equivalent conductivity[25] must be proportional to the fraction which expresses the degree of ionization.
+Arrhenius inferred  that:
+- in very dilute solutions the electrolyte is completely dissociated into ions, but that in more concentrated solutions the salt is less completely dissociated; 
+- in all solutions, the transport of electricity in the solution is effected solely by the movement of ions, the equivalent conductivity[25] must be proportional to the fraction which expresses the degree of ionization.
 
 It thus became possible to:
 - estimate the dissociation quantitatively, and
@@ -120,7 +121,9 @@ where M denotes the molecular weight of the salt, and c the mass of salt per uni
 
 Consider the cations contained in a parallelepiped at the place x, whose cross-section is of unit area and whose length is dx. 
 
-The mechanical force acting on them due to the electric field is -(vc/M)dV/dx.dx, and the mechanical force on them due to the osmotic pressure is -dp/dx.dx. If u denote the velocity of drift of the cations in a field of unit electric force, the total amount of charge which would be transferred by cations across unit area in unit time under the influence of the electric forces alone would be -(uνe/M)dV/dx; so, under the influence of both forces, it is
+The mechanical force acting on them due to the electric field is -(vc/M)dV/dx.dx, and the mechanical force on them due to the osmotic pressure is -dp/dx.dx. 
+
+If u denote the velocity of drift of the cations in a field of unit electric force, the total amount of charge which would be transferred by cations across unit area in unit time under the influence of the electric forces alone would be -(uνe/M)dV/dx; so, under the influence of both forces, it is
 
 
 ...
@@ -135,11 +138,15 @@ We have therefore, if the total current be denoted by i,
 
 The first term on the right evidently represents the product of the current into the ohmic resistance of the parallelepiped dx, while the second term represents the internal electromotive force of the parallelepiped. It follows that if r denote the specific resistance, we must have
 
+...
 
 in agreement with Kohlrausch's equation;[33] while by integrating the expression for the internal electromotive force of the parallelepiped dx, we obtain for the electromotive force of a cell whose activity depends on the transference of electrolyte between the concentrations c1 and c2, the value
 
+...
+
 or
 
+..
 
 in agreement with the result already obtained.
 

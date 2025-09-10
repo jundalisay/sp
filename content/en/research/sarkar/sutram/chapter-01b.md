@@ -7,7 +7,9 @@ weight: 6
 ---
 
 
-### 3. Puruśa and Prakrti find their fulfilment in saiṋcara (extroversial movement) and pratisaiṋcara (introversial movement)
+### 3. Puruśa and Prakrti find their fulfilment in saiṋcara [crudification] and pratisaiṋcara [subtlification]
+
+<!-- saiṋcara (extroversial movement) and pratisaiṋcara (introversial movement) -->
 
 <!-- 1-3. Tayoh siddhih saiṋcare pratisaiṋcare ca. -->
 
@@ -27,13 +29,14 @@ This appropriation of objectivity by Prakrti depends on Her ever-increasing (sai
 
 Prakrti’s manifestation lies in the saiṋcara and pratisaiṋcara processes.
 
-In all these manifestations of Prakrti, Puruśa exists not only as the material cause, but as the witness as well, in all states and conditions.
-
+In all these manifestations of Prakrti, in all states and conditions, Puruśa exists as:
+- the material cause
+- the witness as well
 
 <!-- 1-4. Paramashivah Puruśottamah vishvasya kendram. -->
 
 
-### 4. Supreme Consciousness at the nucleus of the universe is known as Paramashiva or Puruśottama
+### 4. Supreme Consciousness at the nucleus of the universe is Paramashiva or Puruśottama
 
 The trivalent Prakrti has been apparently crudifying the original Puruśa through Her own binding forces.
 
@@ -41,9 +44,12 @@ This is one of the processes of Her activity.
 
 Her other process being that by gradually relaxing the influence of Her 3 attributes on the crude object, She regains the characteristic of Puruśa, thus putting an end to Her binding operation. 
 
-The first-named process of Prakrti is centrifugal and the other one is centripetal.
+- Crudification is centrifugal
+- Subtilification is centripetal
 
-The Brahma Cakra, or Srśt́i Cakra [Cosmic Cycle], is manifested through the combination of these very centrifugal and centripetal actions. 
+These result in the Brahma Cakra, or Srśt́i Cakra [Cosmic Cycle].
+
+ <!-- is manifested through the combination of these very centrifugal and centripetal actions.  -->
 
 The nucleus of this Cosmic Cycle is the svabháva [characteristic bearing] of Puruśa. 
 
@@ -57,7 +63,7 @@ This nucleus is called Paramashiva or Puruśottama.
 
 <!-- Drk Puruśah darshanaḿ Shaktishca. -->
 
-Acting is seeing, witnessing is drk [substantiation]. 
+Acting is seeing, witnessing is drk [substantiation].
 
 In the absence of witnessing, seeing remains unsubstantiated.
 
@@ -81,7 +87,7 @@ This “I know” is not the apparent witness of anybody or anything.
 - It is the absolute witness of everything in all conditions.
 - This bearing alone is drk [ultimate cognition].
 
-This in truth is the attributed consciousness of Puruśa.
+<!-- This in truth is the attributed consciousness of Puruśa. -->
 
 
 <!-- 1-5. Pravrttimukhii saiṋcarah guńadháráyám. -->
@@ -101,6 +107,10 @@ This very Puruśa of the nucleus of the collectivity is Puruśottama.
 
 When energy is begotten in the object-body in the wake of the flow of the Operative Principle, then the controller of this energy is called kartá. 
 
-Puruśa does not control this sort of energy, on the contrary, He, being established at the nucleus of the guńas, controls those very guńas through which energy emanates. 
+Puruśa does not control this sort of energy.
 
-Hence the controller, Puruśa or Puruśottama, is not subject to the guńas but is the governor or sovereign head thereof.
+But he controls the guńas through which energy emanates.
+<!-- On the contrary, He, being established at the nucleus of the guńas, controls those very .  -->
+
+<!-- Hence the controller, Puruśa or Puruśottama, is not subject to the guńas but is the governor or sovereign head thereof. -->
+

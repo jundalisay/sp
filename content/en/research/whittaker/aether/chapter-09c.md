@@ -1,150 +1,94 @@
 ---
-title:  "Riemann's Equation"
-heading:  "Chapter 9c"
-weight: 86
+title:  "Larmor's Theory"
+heading:  "Chapter 9b"
+weight: 84
 writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
 c: "darkgoldenrod"
-description: "Riemann in his 1861 lectures remarked that the scalar-potential `φ` and vector-potential `a`, corresponding to his own law of force between electrons"
+description: "Larmor supposed the electric charge to exist in the form of discrete electrons, for the creation of which he suggested the following ideal process"
 ---
 
 
-Riemann in [45] his 1861 lectures remarked that the scalar-potential `φ` and vector-potential `a`, corresponding to his own law of force between electrons, satisfy the equation:
+We have now discussed models in which the magnetic force is represented as the velocity in a liquid, and others in which it is represented as the displacement in an elastic solid. 
 
-an equation which is satisfied also by the potentials of L. Lorenz[46] 
+Some years before the date of Leahy's memoir, George Francis FitzGerald (b. 1851, d. 1901)[23] had instituted a comparison between magnetic force and the velocity in a quasi-elastic solid of the type first devised by MacCullagh.[24] 
 
-This appeared to Riemann to indicate that φ might represent the density of an aether, of which a represents the velocity. 
+An analogy is at once evident when it is noticed that the electromagnetic equation
 
-On this hypothesis the electric and magnetic forces correspond to second derivates of the displacement—a circumstance which makes it somewhat difficult to assimilate the energy possessed by the electromagnetic field to the energy of the model.
+..
 
-We must now proceed to consider those models in which the aether is represented as composed of more than one kind of constituent: of these Maxwell's model of 1861-2, formed of vortices and rolling particles, may be taken as the type. Another device of the same class was described in 1885 by FitzGerald[47].
+is satisfied identically by the values
 
-This was constituted of a number of wheels, free to rotate on axes fixed perpendicularly in a plane board; the axes were fixed at the intersections of two systems of perpendicular lines.
+..
 
-Each wheel was geared to each of its four neighbours by an indiarubber band. Thus all the wheels could rotate without any straining of the system, provided they all had the same angular velocity; but if some of the wheels were revolving faster than others, the indiarubber bands would become strained, 
+where e denotes, any vector; and that, on substituting these values in the other electromagnetic equation,
 
-The wheels in this model play the same part as the vortices in Maxwell's model of 1861-2: their rotation is the analogue of magnetic force; and a region in which the masses of the wheels are largo corresponds to a region of high magnetic permeability. 
+..
 
-The indiarubber bands of FitzGerald's model correspond to the medium in which Maxwell's vortices were embedded; and a strain on the bands represents dielectric polarization, the line joining the tight and slack sides of any band being the direction of displacement. 
+we obtain the equation
 
-A body whose specific inductive capacity is large would be represented by a region in which the elasticity of the bands is feeble. Lastly, conduction may be represented by a slipping of the bands on the wheels.
+..
 
-Such a model is capable of transmitting vibrations analogous to those of light. For if any group of wheels be suddenly set in rotation, those in the neighbourhood will be prevented by their inertia from immediately sharing in the motion; but presently the rotation will be communicated to the adjacent wheels, which will transmit it to their neighbours; and so a wave of motion will be propagated through the medium. The motion constituting the wave is readily seen to be directed in the place of the wave, i.e. the vibration is transverse. 
+which is no other than the equation of motion of MacCullagh's aether,[25] the specific inductive capacity e corresponding to the reciprocal of MacCullagh's constant of elasticity. 
 
-The axes of rotation of the wheels are at right angles to the direction of propagation of the wave, and the direction of polarization of the bands is at right angles to both these directions.
+In that analogy:
+- electric displacement corresponds to the twist of the elements of volume of the aether
+- electric charge is an intrinsic rotational strain. 
 
-The elastic bands may be replaced by lines of governor balls:[48] if this be done, the energy of the system is entirely of the kinetic type.[49]
+Mechanical models of the electromagnetic field, based on FitzGerald's analogy, were afterwards studied by:
+- A. Sommerfeld[26]
+- R. Reiff[27]
+- Sir J. Larmor.[28] 
 
-Models of types different from the foregoing have been suggested by the researches of Helmholtz and W. Thomson on vortex-motion. The earliest attempts in this direction, however, were intended to illustrate the properties of ponderable matter rather than of the luminiferous medium. 
+Larmor[29] supposed the electric charge to exist in the form of discrete electrons, for the creation of which he suggested the following ideal process[30]:
 
-A vortex existing in a perfect fluid preserves its individuality throughout all changes, and cannot be destroyed; so that if, as Thomson[50] suggested in 1867, the atoms of matter are constituted of vortex-rings in a perfect fluid, the conservation of matter may be immediately explained. 
+A filament of aether, terminating at two nuclei, is supposed to be removed, and circulatory motion is imparted to the walls of the channel so formed, at each point of its length, so as to produce throughout the medium a rotational strain. 
 
-The mutual interactions of atoms may be illustrated by the behaviour of smoke-rings, which after approaching each other closely are observed to rebound: and the spectroscopic properties of matter may be referred to the possession by vortex-rings of free periods of vibration.[51]
+When this has been accomplished, the channel is to be filled up again with aether, which is to be made continuous with its walls. When the constraint is removed from the walls of the channel, the circulation imposed on them proceeds to undo itself, until this tendency is balanced by the elastic resistance of the aether with which the channel has been filled up; thus finally the system assumes a state of equilibrium in which the nuclei, which correspond to a positive and a negative electron, are surrounded by intrinsic rotational strain.
 
-There are, however, objections to the hypothesis of vortex-atoms. It is not easy to understand how the large density of ponderable matter as compared with aether is to be explained; and further, the virtual inertia of a vortex-ring increases as its energy increases; whereas the inertia of a ponderable body is, so far as is known, unaffected by changes of temperature.
+Models in which magnetic force is represented by the velocity of an aether are not, however, secure from objection, It is necessary to suppose that the aether is capable of lowing like a perfect fluid in irrotational motion (which would correspond to a steady magnetic field), and that it is at the same time endowed with the power (which is requisite for the explanation of electric phenomena) of resisting the rotation of any element of volume.[31]
 
-It is doubtful whether vortex-atoms would be stable. 
+But when the aether moves irrotationally in the fashion which corresponds to a steady magnetic field, each element of volume acquires after a finite time a rotatory displacement from its original orientation, in consequence of the motion, and it might therefore be expected that the quasi-elastic power of resisting rotation would be called into play—i.e., that a steady magnetic field would develop electric phenomena.[32]
 
+A further objection to all models in which magnetic force corresponds to velocity is that a strong magnetic field, being in such models represented by a steady drift of the aether, might be expected to influence the velocity of propagation of light, The existence of such an effect appears, however, to be disproved by the experiments of Sir Oliver Lodge[33].
 
-W. Thomson[52] wrote in 1905: "If any motion be given within a finite portion of an infinite incompressible liquid, originally at rest, its fate is necessarily dissipation to infinite distances with infinitely small velocities everywhere; while the total kinetic energy remains constant. 
+At any rate, unless it is assumed that the aether has an inertia at least of the same order of magnitude as that of ponderable matter, in which case the motion might be too slow to be measurable.
 
-After many years of failure to prove that the motion in the ordinary Helmholtz circular ring is stable, I came to the conclusion that it is essentially unstable, and that its fate must be to become dissipated as now described."
+Again, the evidence in favour of the rotatory as opposed to the linear character of magnetic phenomena has perhaps, on the whole, been strengthened since Thomson originally based his conclusion on the magnetic rotation of light. This brings us to the consideration of an experimental discovery.
 
-The vortex-atom hypothesis is not the only way in which the theory of vortex-motion has been applied to the construction of models of the aether, It was shown in 1880 by W. Thomson[53] that in certain circumstances a mass of fluid can exist in a state in which portions in rotational and irrotational motion are finely mixed together, so that on a large scale the mass is homogeneous, having within any sensible volume an equal amount of vortex-motion in all directions. To a fluid having such a type of motion he gave the name vortex-sponge.
+In 1879 E. H. Hall,[34] at that time a student at Baltimore, repeating an experiment which had been previously suggested by H. A. Rowland, obtained a new action of a magnetic field on electric currents. 
 
-Five years later, FitzGerald[54] discussed the suitability of the vortex-sponge as a model of the aether.
+A strip of gold leaf mounted on glass, forming part of an electric circuit through which a current was passing, was placed between the poles of an electromagnet, the plane of the strip being perpendicular to the lines of magnetic force. The two poles of a sensitive galvanometer were then placed in connexion with different parts of the strip, until two points at the same potential were found. 
 
-Since vorticity in a perfect fluid cannot be created or destroyed, the modification of the system which is to be analogous to an electric field must be a polarized state of the vortex motion, and light must be represented by a communication of this polarized motion from one part of the medium to another. 
+When the magnetic field was created or destroyed, a deflection of the galvanometer needle was observed, indicating a change in the relative potential of the two poles. It was thus shown that the magnetic field produces in the strip of gold leaf a new electromotive force, at right angles to the primary electromotive force and to the magnetic force, and proportional to the product of these forces.
 
-Many distinct types of polarization may readily be imagined: for instance, if the turbulent motion were constituted of vortex-rings, these might be in motion parallel to definite lines or planes; or if it were. constituted of long vortex filaments, the filaments might be bent spirally about axes parallel to a given direction. 
+From the physical point of view we may therefore regard Hall's effect as an additional electromotive force generated by the action of the magnetic field on the current; or alternatively we may regard it as a modification of the ohmic resistance of the metal, such as would be produced if the molecules of the metal assumed a helicoidal structure about the lines of magnetic force. From the latter point of view, all that is needed is to modify Ohm's law
 
-The energy of any polarized state of vortex-motion would be greater than that of the unpolarized state; so that if the motion of matter had the effect of reducing the polarization, there would be forces tending to produce that motion. 
 
-Since the forces due to a small vortex vary inversely as a high power of the distance from it, it seems probable that in the case of two infinite planes, separated by a region of polarized vortex-motion, the forces due to the polarization between the planes would depend on the polarization, but not on the mutual distance of the planes—a property which characteristic of plane distributions whose elements attract according to the Newtonian law.
+(where S denotes electric current, k specific conductivity, and E electric force) so that it takes the form
 
-It is possible to conceive polarized forms of vortex-motion which are steady so far as the interior of the medium is concerned, but which tend to yield up their energy in producing motion of its boundary—a property parallel to that of the aether, which, though itself in equilibrium, tends to move objects immersed in it.
+where H denotes the imposed magnetic force, and h denotes a constant on which the magnitude of Hall's phenomenon depends. It is a curious circumstance that the occurrence, in the case of magnetized bodies, of an additional term in Ohm's law, formed from a vector-product of E, had been expressly suggested in Maxwell's Treatise[35]: although Maxwell had not indicated the possibility of realizing it by Hall's experiment.
 
-In the same year Hicks[55] discussed the possibility of transmitting waves through a medium consisting of an incompressible fluid in which small vortex-rings are closely packed together. The wave-length of the disturbance was supposed large in comparison with the dimensions and mutual distances of the rings. 
+An interesting application of Hall's discovery was made in the same year by Boltzmann,[36] who remarked that it offered a prospect of determining the absolute velocity of the electric charges which carry the current the strip. For if it is supposed that only one kind (vitreous or resinous) of electricity is in motion, the force on one of the charges tending to drive it to ono side of the strip will be proportional to the vector-product of its velocity and the magnetic intensity.
 
-The translatory motion of the latter was supposed to be 30 slow that very many waves can pass over any one before it has much changed its position. Such a medium would probably act as a fluid for larger motions. 
+Assuming that Hall's phenomenon is a consequence of this tendency of charges to move to one side of the strip, it is evident that the velocity in question must be proportional to the magnitude of the Hall electromotive force due to a unit magnetic field. On the basis of this reasoning, 1. von Ettingshausen[37] found for the current sent by one or two Daniell's cells through a gold strip a velocity of the order of 0·1 cm. per second. 
 
-The vibration in the wavefront might be either swinging oscillations of a ring about a diameter, or transverse vibrations of the ring, or apertural vibrations; vibrations normal to the plane of the ring appear to be impossible. Hicks determined in each case the velocity of translation, in terms of the radius of the rings, the distance of their planes, and their cyclic constant.
+If the current consists of both vitreous and resinous charges in motion in opposite directions, Boltzmann's argument fails; for the two kinds of electricity would give opposite directions to the current in Hall's phenomenon.
 
-The greatest advance in the vortex-sponge theory of the aether was made in 1887, when W. Thomson[56] showed that the equation of propagation of laminar disturbances in a vortex-sponge is the same as the equation of propagation of luminous vibrations in the aether. The demonstration, which in the circumstances can scarcely be expected to be either very simple or very rigorous, is as follows:—
+In the year following his discovery, Hall[38] extended his researches in another direction, by investigating whether a magnetic field disturbs the distribution of equipotential lines in a dielectric which is in an electric field; but no effect could be observed.[39] 
 
-Let (u, v, w) denote the components of velocity, and p the pressure, at the point (x, y, z) in an incompressible fluid. Let the initial motion be supposed to consist of a laminar motion {f(y), 0, 0}, superposed on a homogeneous, isotropic, and finegrained distribution (u′0, v0, w0): so that at the origin of time the velocity is {f(y) + u′0, v0, w0}: it is desired to find a function f(y, t) such that at any time t the velocity shall be {f(y, t) + u′, v, w}, where u′, v, w, are quantities of which every average taken over a sufficiently large space is zero.
+Such an effect  was not to be expected on theoretical grounds. For when, in a material system, all the velocities are reversed, the motion is reversed, it being understood that, in the application of this theorem to electrical theory, an electrostatic state is to be regarded as one of rest, and a current as a phenomenon of motion, and if such a reversal be performed in the present system, the poles of the electromagnet are exchanged, while in the dielectric no change takes place.
 
-Substituting these values of the components of velocity in the equation of motion
+We must now consider the bearing of Hall's effect on the question as to whether magnetism is a rotatory or a linear phenomenon.[41]
 
+If magnetism is linear, electric currents must be rotatory, and if Hall's phenomenon be supposed to take place in a horizontal strip of metal, the magnetic force being directed vertically upwards, and the primary current flowing horizontally from north to south, the only geometrical entities involved are the vertical direction and a rotation in the east-and-west vertical plane; and these are indifferent with respect to a rotation in the north-and-south vertical plane, so that there is nothing in the physical circumstances of the system to determine in which direction the secondary current shall flow, The hypothesis that magnetism is linear appears therefore to be inconsistent with the existence of Hall's effect.[42] 
 
-there results
+There are, however, some considerations which may be urged on the other side. Hall's effect, like the magnetic rotation of light, takes place only in ponderable bodies, not in free aether; and its direction is sometimes in one sense, sometimes in the other, according to the nature of the substance. 
 
+It may therefore be doubted whether these phenomena are not of a secondary character, and the argument based on them invalid. Moreover, as FitzGerald remarked,[43] the magnetic lines of force associated with a system of currents are circuital and have no open ends, making it difficult to imagine how alteration of rotation inside them could be produced.
 
-Take now the xz-averages of both members. The quantities ∂u′/∂t, ∂u′/∂x, v, ∂p/∂x have zero averages; so the equation takes the form
+Various attempts were made to represent electric and magnetic phenomena by the motions and strains of a continuous medium.
+- None of those hitherto considered has been found free from objection.[44] 
 
-
-if the symbol A is used to indicate that the xz-average is to be taken of the quantity following. Moreover, the incompressibility of the fluid is expressed by the equation
-
-
-whence
-
-When this is added to the preceding equation, the first and third pairs of terms of the second member vanish, since the x-average of any derivate ∂Q/∂x vanishes if Q is finite for infinitely great values of x; and the equation thus becomes
-
-
-
-From this it is seen that if the turbulent motion were to remain continually isotropic as at the beginning, f (y, t) would constantly retain its critical value f(y). In order to examine the deviation from isotropy, we shall determine A∂(u′v)/∂t, which may be done in the following way:—Multiplying the u- and v-equations of motion by v, u′ respectively, and adding, we have
-
-
-Taking the xz-average of this, we observe that the first term of the first member disappears, since A . v is zero, and the first term of the second member disappears, since A . ∂(u′v)/∂x is zero. Denoting by 
-1
-3
-R2 the average value of u2, v2, or ω2, so that R may be called the average velocity of the turbulent motion, the equation becomes
-
-
-where
-
-
-Let p be written (), where p′ denotes the value which p would have if f were zero. The equations of motion immediately give
-
-
-and on subtracting the forms which this equation takes in the two cases, we have
-
-
-which, when the turbulent motion is fine-grained, so that f(y, t) is sensibly constant over ranges within which u′, v, 'ω pass through all their values, may be written
-
-Moreover, we have
-
-
-for positive and negative values of u′, v, ω are equally probable; and therefore the value of the second member of this equation is doubled by adding to itself what it becomes when for u′, v, ω we substitute -u′, -v, -ω; which (as may be seen by inspection of the above equation in Δ2p) does not change the value of p′. Comparing this equation with that which determines the value of Q, we have
-
-
-or substituting for 
-
-The isotropy with respect to x and z gives the equation
-
-
-But by integration by parts we obtain the equation
-
-
-and by the condition of incompressibility the second member may be written
-
-
-So we have
-
-
-
-On account of the isotropy, we may write 
-
-and, therefore,
-
-
-
-The deviation from isotropy shown by this equation is very small, because of the smallness of ∂f(y,t)/∂y. The equation is therefore not restricted to the initial values of the two members, for we may neglect an infinitesimal deviation from (2/9) R2 in the first factor of the second member, in consideration of the smallness of the second factor. Hence for all values of t we have the equation
-
-
-which, in combination with (1), yields the result
-
-
-the form of this equation shows that laminar disturbances are propagated through the vortex-sponge in the same manner as waves of distortion in a homogeneous elastic solid.
-
+<!-- Before proceeding to consider models which are not constituted by a continuous medium, mention must be made of a suggestion offered by  -->

@@ -5,7 +5,6 @@ weight: 18
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
-
 c: "indigo"
 description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
 icon: "Aristotle"
@@ -89,4 +88,3 @@ But the man of Perfected Self-Mastery is in the middle or mean with respect to t
 He neither takes pleasure in the things which delight the vicious man. He rather dislikes them, nor at all in improper objects; nor to any great degree in any object of the class; nor is he pained at their absence; nor does he desire them; or, if he does, only in moderation, and neither more than he ought, nor at improper times, and so forth; 
 
 But such things as are conducive to health and good condition of body, being also pleasant, these he will grasp at in moderation and as he ought to do, and also such other pleasant things as do not hinder these objects, and are not unseemly or disproportionate to his means; because he that should grasp at such would be liking such pleasures more than is proper; but the man of Perfected Self-Mastery is not of this character, but regulates his desires by the dictates of right reason.
-

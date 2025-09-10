@@ -7,7 +7,7 @@ writer:
   url: https://en.wikipedia.org/wiki/Aristotle
 
 c: "indigo"
-description: "Every art, and every science reduced to a teachable form, and similarly, every action and moral choice, aims at some good"
+description: "The Chief Good or End is Happiness."
 icon: "Aristotle"
 ---
 
@@ -24,13 +24,18 @@ There are 3 lines of life which stand out prominently to view:
 2. Life in society
 3. The life of contemplation
 
-The masses are plainly quite slavish. They choose a life like that of brute animals. Yet they obtain some consideration, because many of the higher ranks share the tastes of Sardanapalus. 
+{{< n n="These are the lower, middle, and upper chakras" >}}
 
-The refined and active again conceive it to be honour which is the goal of the life in society.
 
-Yet it is plainly too superficial for the object of our search, because it is thought to rest with those who pay rather than with him who receives it. 
+The masses are quite slavish and live like brute animals. Yet they obtain some consideration because many of the higher ranks share the tastes of Sardanapalus.
 
-Whereas the Chief Good we feel instinctively must be something which is our own, and not easily to be taken from us.
+The refined and active believe that honour is the goal of the life in society.
+
+Yet honour is plainly too superficial for the object of our search, because it rests with those who give honour rather than with those who receive it. 
+
+Whereas the Chief Good that we feel must be something of our own, and not easily to be taken from us.*
+
+{{< n n="This is consitent with dharma" >}}
 
 Besides, men pursue honour, that they may believe themselves to be good:[6] 
 

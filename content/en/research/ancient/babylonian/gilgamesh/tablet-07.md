@@ -15,7 +15,7 @@ Enlil	said:
 'Let Enkidu	die, but Gilgamesh must live.'
 
   
-Then Enlil became angry at Shamash: 'you are responsible because you traveled daily with them as theirfriend!"'	
+Then Enlil became angry at Shamash: 'you are responsible because you traveled daily with them as their friend!"'	
   
 Enkidu was lying sick in front of Gilgamesh.	
   

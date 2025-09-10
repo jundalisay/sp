@@ -37,9 +37,20 @@ state of rest).
 
 On the other hand in circular motion there are no such definite points: for why should any one point on the line be a limit rather than any other? 
 
-Any one point as much as any other is alike starting-point, middle-point, and finishing-point, so that we can say of certain things both that they are always and that they never are at a startingpoint and at a  finishing-point (so that a revolving sphere, while it is in motion, is also in a sense at rest, for it continues to occupy the same place). 
+Any one point as much as any other is alike starting-point, middle-point, and finishing-point.
 
-The reason of this is that in this case all these characteristics belong to the centre: that is to say, the centre is alike starting-point, middle-point, and finishing-point of the space traversed; consequently since this point is not a point on the circular line, there is no point at which that which is in process of locomotion can be in a state of rest as having traversed its course, because in its locomotion it is proceeding always about a central point and not to an extreme point: therefore it remains still, and the whole is in a sense always at rest as well as continuously in motion. Our next point gives a convertible result: on the one hand, because rotation is the measure of motions it must be the primary motion (for all things are measured by what is primary): on the other hand, because rotation is the primary motion it is the measure of all other motions. 
+And so things are always and never at a starting point and at a finishing-point.
+
+For example, a revolving sphere in motion seems to be at rest, for it continues to occupy the same place. 
+
+This is because all these characteristics belong to the centre.
+
+The centre is the:
+- starting-point
+- middle-point
+- finishing-point of the space traversed
+
+Consequently, since this point is not a point on the circular line, there is no point at which that which is in process of locomotion can be in a state of rest as having traversed its course, because in its locomotion it is proceeding always about a central point and not to an extreme point: therefore it remains still, and the whole is in a sense always at rest as well as continuously in motion. Our next point gives a convertible result: on the one hand, because rotation is the measure of motions it must be the primary motion (for all things are measured by what is primary): on the other hand, because rotation is the primary motion it is the measure of all other motions. 
 
 Again, rotatory motion is also the only motion that admits of being regular.
 

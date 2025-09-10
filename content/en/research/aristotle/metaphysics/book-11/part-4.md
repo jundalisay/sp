@@ -2,7 +2,6 @@
 heading: "Part 4-5"
 title: "Mathematics"
 weight: 8
-
 c: "indigo"
 description: "First philosophy should also examine the principles of mathematics"
 writer:

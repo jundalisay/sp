@@ -93,3 +93,5 @@ Now, everyone of us gods has resolved on a reckoning with Enlil."
 
 [The great gods decide to create man, to relieve the lower gods from their misery.]
 
+
+

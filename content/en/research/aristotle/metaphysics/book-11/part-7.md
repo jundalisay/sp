@@ -25,7 +25,9 @@ In practical science, the movement is not in the thing done, but rather in the d
 
 But the science of the natural philosopher deals with the things that have in themselves a principle of movement. It is clear from these facts, then, that natural science must be neither practical nor productive, but theoretical (for it must fall into some one of these classes). 
 
-Since each of the sciences must somehow know the 'what' and use this as a principle, we must not fall to observe how the natural philosopher should define things and how he should state the definition of the essence-whether as akin to 'snub' or rather to 'concave'. For of these the definition of 'snub' includes the matter of the thing, but that of 'concave' is independent of the matter; for snubness is found in a nose, so that we look for its definition without eliminating the nose, for what is snub is a concave nose. 
+Since each of the sciences must somehow know the 'what' and use this as a principle, we must not fall to observe how the natural philosopher should define things and how he should state the definition of the essence-whether as akin to 'snub' or rather to 'concave'. 
+
+For of these the definition of 'snub' includes the matter of the thing, but that of 'concave' is independent of the matter; for snubness is found in a nose, so that we look for its definition without eliminating the nose, for what is snub is a concave nose. 
 
 The definition of flesh and of the eye and of the other parts must always be stated without eliminating the matter.
 

@@ -21,10 +21,14 @@ For the second sha-at-tam they suffered the vengeance.
 The third sha-at-tam came, their features were altered by hunger,  their faces were encrusted… they were living on the verge of death.
 When the fourth sha-at-tam arrived, their faces appeared green; they walked hunched in the streets;
 their broad [shoulders?] became narrow.
-By the fifth "passing," human life began to deteriorate. Mothers barred their doors to their own starving daughters. 
+{{< /q >}}
 
+By the fifth "passing," human life began to deteriorate. Mothers barred their doors to their own starving daughters. 
 Daughters spied on their mothers to see whether they had hidden any food.
 By the sixth "passing," cannibalism was rampant. 
+
+
+{{< q >}}
 When the sixth sha-at-tam arrived they prepared the daughter for a meal;
 the child they prepared for food… One house devoured the other.
 {{< /q >}}
@@ -34,7 +38,6 @@ The texts report the persistent intercession by Atra-Hasis with his god Enki.
 {{< q >}}
 "In the house of his god … he set foot; …every day he wept, bringing oblations in the morning … he called by the name of his god," seeking Enki's help to avert the famine.
 {{< /q >}}
-
 
 
 <!-- Enki, however, must have felt bound by the decision of the other deities, for at
@@ -117,11 +120,9 @@ Enlil addressed the Assembly of all the gods:
 
 {{< q >}}
 "Come, all of us, and take an oath regarding the Killing Flood!"
-{{< /q >}}
-
 Anu swore first; Enlil swore; his sons swore with him.
-At first, Enki refused to take the oath. 
-
+At first, Enki refused to take the oath.
+{{< /q >}}
 
 
 "Why will you bind me with an oath?" he asked. "Am I to raise my hands against my own humans?" 
@@ -129,6 +130,5 @@ At first, Enki refused to take the oath.
 But he was finally forced to take the oath. One of the texts specifically states: "Anu, Enlil, Enki, and Ninhursag, the gods of Heaven and Earth, had taken the oath."
 
 The die was cast.
-
 
 What was the oath he was bound by? As Enki chose to interpret it, he swore not to reveal the secret of the coming Deluge to the people; but could he not tell it to a wall? 

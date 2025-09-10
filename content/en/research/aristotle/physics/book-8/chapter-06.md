@@ -12,9 +12,9 @@ writer:
 
 
 
-Since there must always be motion without intermission, there must necessarily be
-something, one thing or it may be a plurality, that first imparts motion, and this first
-movent must be unmoved.
+There must always be motion without intermission. This means that there must necessarily be something (either one thing or many) that first imparts motion).
+
+This first movement must be unmoved.
 
 Now the question whether each of the things that are
 unmoved but impart motion is eternal is irrelevant to our present argument: 

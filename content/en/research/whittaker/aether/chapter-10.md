@@ -6,15 +6,15 @@ writer:
   name: Edmund Whittaker
   url: https://en.wikipedia.org/wiki/E._T._Whittaker
 c: "darkgoldenrod"
-description: "Before the publication of Maxwell's Treatise, however, a method of supplying the omission was indicated by Helmholtz"
+description: "The most notable imperfection in Maxwell's electromagnetic theory of light was the absence of any explanation of reflection and refraction"
 ---
 
 
-The most notable imperfection in the electromagnetic theory of light, as presented in Maxwell's original memoirs, was the absence of any explanation of reflection and refraction. 
+The most notable imperfection in Maxwell's electromagnetic theory of light was the absence of any explanation of reflection and refraction. 
 
-Before the publication of Maxwell's Treatise, however, a method of supplying the omission was indicated by Helmholtz.[1] 
+Before the publication of Maxwell's Treatise, however, a method of supplying the omission was indicated by .[1] 
 
-The principles on which the explanation depends are that tho normal component of the electric displacement D, the tangential components of the electric force E, and the magnetic vector B or H, are to be continuous across the interface at which the reflexion takes place; 
+Helmholtz gave an explanation which depends on the normal component of the electric displacement D, the tangential components of the electric force E, and the magnetic vector B or H be continuous across the interface at which the reflexion takes place.
 
 The optical difference between the contiguous bodies being represented by a difference in their dielectric constants, and the electric vector being assumed to be at right angles to the plane of polarization.[2] 
 

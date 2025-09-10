@@ -11,10 +11,10 @@ weight: 7
 
 
 
-<!-- The archaeological discoveries vindicate the biblical records; it also
+<!--  vindicate the biblical records; it also
 appeared certain that 
  -->
-There must have been civilizations in Mesopotamia even before the 3rd millennium B.C. 
+The archaeological discoveries showed that there must have been civilizations in Mesopotamia even before the 3rd millennium B.C. 
 
 <!-- The only question was: How
 far back did one have to go to find the first civilized kingdom?
@@ -27,11 +27,13 @@ But the names of rulers that preceded Sargon of Akkad did not make sense at all.
 - Sargon was a counselor at the court of king Urzababa. 
 - The king who reigned in Erech was named "Lugalzagesi", and so on.
 
-Lecturing before the Royal Asiatic Society in 1853, Sir Henry Rawlinson pointed out that such names were neither Semitic nor Indo European; indeed, "they seemed to belong to no known group of languages or peoples." 
+<!-- Lecturing before the Royal Asiatic Society  -->
 
-But if names had a meaning, what was the mysterious language in which they had the meaning?
+In 1853, Sir Henry Rawlinson pointed out that such names were neither Semitic nor Indo European: "they seemed to belong to no known group of languages or peoples." 
 
-Scholars took another look at the Akkadian inscriptions. Basically, 
+<!-- But if names had a meaning, what was the mysterious language in which they had the meaning?
+
+Scholars took another look at the Akkadian inscriptions. Basically,  -->
 
 The Akkadian cuneiform script was syllabic. But the pre-Akkadian script used an earlier pictographic writing method.
 
@@ -65,20 +67,20 @@ I understand the enigmatic words in the stone carvings from the days before the 
 
 Ashurbanipal could read intricate tablets in "Shumerian" and the tablets from "the days before the Flood".
 
-But in January 1869 Jules Oppert suggested to the French Society of Numismatics and Archaeology that a pre-Akkadian language and people existed called Sumerians of Sumer. 
+But in January 1869, Jules Oppert suggested to the French Society of Numismatics and Archaeology that a pre-Akkadian language and people existed called Sumerians of Sumer. 
 
 <!-- Pointing out that the early rulers of Mesopotamia proclaimed their legitimacy by taking the title "King of Sumer and Akkad," he suggested that the people be called "Sumerians," and their land, "Sumer." -->
 
 Oppert was right, but he mispronounced the name—it should have been Simmer, not Sumer.
 
-Sumer was not a mysterious, distant land, but the early name for southern Mesopotamia, just as the Book of Genesis had clearly stated: 
+Sumer was the early name for southern Mesopotamia, just as the Book of Genesis had clearly stated: 
 
 {{< q >}}
 The royal cities of Babylon and Akkad and Erech were in "the Land of Shin'ar." (Shinar was the biblical name for Shumer.)
 {{< /q >}}
 
 
-The tablets with long columns of words were in fact AkkadianSumerian lexicons and dictionaries. They were prepared in Assyria and Babylonia for their own study of Sumerian, the first written language.
+The tablets with long columns of words were in fact Akkadian-Sumerian lexicons and dictionaries. They were prepared in Assyria and Babylonia for their own study of Sumerian, the first written language.
 
 <!-- Without these dictionaries from long ago, we would still be far from being able to
 read Sumerian. With their aid, a vast literary and cultural treasure opened up.  -->
@@ -86,7 +88,6 @@ read Sumerian. With their aid, a vast literary and cultural treasure opened up. 
 The Sumerian script was originally pictographic and carved in stone in vertical columns. It was then turned horizontally. 
 
 Later on, it was stylized for wedge writing on soft clay tablets to become the cuneiform writing that was adopted by the Akkadians, Babylonians, Assyrians, and other nations of the ancient Near East. (Fig. 7)
-
 
 The fountainhead of the Akkadian-Babylonian—Assyrian achievements was the:
 - decipherment of the Sumerian language and script
