@@ -14,7 +14,9 @@ Hertz's deduction is ingenious and interesting will readily be admitted.
 
 That it is conclusive may scarcely be claimed: for the argument of Helmholtz regarding the induction of currents is not altogether satisfactory; and Hertz, in following his master, is on no surer ground.
 
-In the course of a discussion[48] on the validity of Hertz's assumptions, which followed the publication of his paper, E. Aulinger[49] brought to light a contradiction between the principles of the unity of electric and of magnetic force and the electrodynamics of Weber. Consider an electrostatically charged hollow sphere, in the interior of which is a wire carrying a variable current. 
+In the course of a discussion[48] on the validity of Hertz's assumptions, which followed the publication of his paper, E. Aulinger[49] brought to light a contradiction between the principles of the unity of electric and of magnetic force and the electrodynamics of Weber. 
+
+Consider an electrostatically charged hollow sphere, in the interior of which is a wire carrying a variable current. 
 
 According to Weber's theory, the sphere would exert a turning couple on the wire; but according to Hertz's principles, no action would be exerted, since charging the sphere makes no difference to either the electric or the magnetic force in its interior.
 
@@ -110,7 +112,11 @@ In order to obtain oscillations in the solid resembling those of an electric vib
 
 Thus at each end of one diameter of the circle there is a pair of opposing fronts, which are separated from each other by a thin sheet of the elastic solid.
 
-The disturbance may be originated by forcing an excess of liquid into one of the enlarged ends of one of the cavities. This involves displacing the thin sheet of clastic solid, which separates it from the opposing front of the other cavity, and thus causing a corresponding deficiency of liquid in the enlarged end behind this front. The liquid will then surge backwards and forwards in each cavity between its enlarged ends; and, the motion being communicated to the elastic solid, vibrations will be generated resembling those which are produced in the aether by a Hertzian oscillator.
+The disturbance may be originated by forcing an excess of liquid into one of the enlarged ends of one of the cavities. 
+
+This involves displacing the thin sheet of clastic solid, which separates it from the opposing front of the other cavity, and thus causing a corresponding deficiency of liquid in the enlarged end behind this front. 
+
+The liquid will then surge backwards and forwards in each cavity between its enlarged ends; and, the motion being communicated to the elastic solid, vibrations will be generated resembling those which are produced in the aether by a Hertzian oscillator.
 
 In the latter part of 1888, the researches of Hertz[65] yielded more complete evidence of the similarity of electric waves to light.
 

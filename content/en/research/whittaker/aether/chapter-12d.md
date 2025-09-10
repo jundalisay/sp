@@ -1,5 +1,5 @@
 ---
-title: "Lorentz Modification"
+title: "Lorentz Modification of Maxwell's Aether"
 heading: "Chapter 12d"
 weight: 111
 writer:
@@ -16,11 +16,11 @@ This implied that the moving dielectric does not carry along the aethereal displ
 
 The part of the total current represented by the term curl [P.w] is generally called the current of dielectric convection.
 
-That a magnetic field is produced when an uncharged dielectric is in motion at right angles to the lines of force of a constant electrostatic field had been shown experimentally in 1888 by Röntgen.[47] 
+That a magnetic field is produced when an uncharged dielectric is in motion at right angles to the lines of force of a constant electrostatic field had been shown experimentally in 1888 by Röntgen.
 
 His experiment consisted in rotating a dielectric disk between the plates of a condenser.
 
-A magnetic field was produced, equivalent to that which would be produced by the rotation of the "fictitious charges" on the two faces of the dielectric, i.e., charges which bear the same relation to the dielectric polarization that Poisson's equivalent surfacedensity of magnetism[48] bears to magnetic polarization. 
+A magnetic field was produced, equivalent to that which would be produced by the rotation of the "fictitious charges" on the 2 faces of the dielectric, i.e., charges which bear the same relation to the dielectric polarization that Poisson's equivalent surfacedensity of magnetism[48] bears to magnetic polarization.
 
 If `U` is the difference of potential between the opposite coatings of the condenser, and ε the specific inductive capacity of the dielectric, the surface-density of electric charge on the coatings is proportional to `±εU`.
 
@@ -28,7 +28,7 @@ The fictitious charge on the surfaces of the dielectric is proportional to
 
 ...
 
-If a plane condenser is charged to a given difference of potential, and is rotated in its own plane, the magnetic field produced is proportional to `ε` if (as in Rowland's experiment[49]) the coatings are rotated while the dielectric remains at rest, but is in the opposite direction, and is proportional to `(ε - 1)` if `(as in Röntgen's experiment)` the dielectric is rotated while the coatings remain at rest.
+If a plane condenser is charged to a given difference of potential, and is rotated in its own plane, the magnetic field produced is proportional to `ε` if (as in Rowland's experiment) the coatings are rotated while the dielectric remains at rest, but is in the opposite direction, and is proportional to `(ε - 1)` if `(as in Röntgen's experiment)` the dielectric is rotated while the coatings remain at rest.
 
 If the coatings and dielectric are rotated together, the magnetic action (being the sum of these) should be independent of ε—a conclusion which was verified later by Eichenwald.[50]
 

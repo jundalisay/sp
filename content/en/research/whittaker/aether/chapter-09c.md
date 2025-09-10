@@ -10,11 +10,14 @@ description: "Larmor supposed the electric charge to exist in the form of discre
 ---
 
 
-We have now discussed models in which the magnetic force is represented as the velocity in a liquid, and others in which it is represented as the displacement in an elastic solid. 
 
-Some years before the date of Leahy's memoir, George Francis FitzGerald (b. 1851, d. 1901)[23] had instituted a comparison between magnetic force and the velocity in a quasi-elastic solid of the type first devised by MacCullagh.[24] 
+Thus, some models represent the magnetic force as:
+- speed in a liquid
+- displacement in an elastic solid
 
-An analogy is at once evident when it is noticed that the electromagnetic equation
+Some years before Leahy's memoir, George Francis FitzGerald (b. 1851, d. 1901) had compared between magnetic force and the speed in a quasi-elastic solid of MacCullagh. 
+
+<!-- An analogy is at once evident when it is noticed that the electromagnetic equation -->
 
 ..
 
@@ -41,15 +44,32 @@ Mechanical models of the electromagnetic field, based on FitzGerald's analogy, w
 - R. Reiff[27]
 - Sir J. Larmor.[28] 
 
-Larmor[29] supposed the electric charge to exist in the form of discrete electrons, for the creation of which he suggested the following ideal process[30]:
+Larmor supposed the electric charge to exist in the form of discrete electrons.
 
-A filament of aether, terminating at two nuclei, is supposed to be removed, and circulatory motion is imparted to the walls of the channel so formed, at each point of its length, so as to produce throughout the medium a rotational strain. 
+For the creation of it, he suggested the ideal process:
 
-When this has been accomplished, the channel is to be filled up again with aether, which is to be made continuous with its walls. When the constraint is removed from the walls of the channel, the circulation imposed on them proceeds to undo itself, until this tendency is balanced by the elastic resistance of the aether with which the channel has been filled up; thus finally the system assumes a state of equilibrium in which the nuclei, which correspond to a positive and a negative electron, are surrounded by intrinsic rotational strain.
+...
 
-Models in which magnetic force is represented by the velocity of an aether are not, however, secure from objection, It is necessary to suppose that the aether is capable of lowing like a perfect fluid in irrotational motion (which would correspond to a steady magnetic field), and that it is at the same time endowed with the power (which is requisite for the explanation of electric phenomena) of resisting the rotation of any element of volume.[31]
+A filament of aether terminated at 2 nuclei. It is supposed to be removed. Circulatory motion is imparted to the walls of the channel so formed, at each point of its length, so as to produce throughout the medium a rotational strain. 
 
-But when the aether moves irrotationally in the fashion which corresponds to a steady magnetic field, each element of volume acquires after a finite time a rotatory displacement from its original orientation, in consequence of the motion, and it might therefore be expected that the quasi-elastic power of resisting rotation would be called into play—i.e., that a steady magnetic field would develop electric phenomena.[32]
+When this has been accomplished, the channel is to be filled up again with aether, which is to be made continuous with its walls.
+
+When the constraint is removed from the walls of the channel, the circulation imposed on them proceeds to undo itself.
+- This goes on until it is balanced by the elastic resistance of the aether which fills the channel. 
+
+Thus finally the system assumes a state of equilibrium in which the nuclei, which correspond to a positive and a negative electron, are surrounded by intrinsic rotational strain.
+
+Models in which magnetic force is represented by the velocity of an aether are not, however, secure from objection.
+
+It is necessary to suppose that the aether:
+- can flow like a perfect fluid in irrotational motion (which would correspond to a steady magnetic field).
+- at the same time has the power to resist the rotation of any element of volume.
+  - This is requisite for the explanation of electric phenomena
+
+
+But when the aether moves irrotationally corresponding to a steady magnetic field, each element of volume acquires a rotatory displacement after a finite time from its original orientation in consequence of the motion.
+
+The quasi-elastic power of resisting rotation would then be called into play -- a steady magnetic field would develop electric phenomena.
 
 A further objection to all models in which magnetic force corresponds to velocity is that a strong magnetic field, being in such models represented by a steady drift of the aether, might be expected to influence the velocity of propagation of light, The existence of such an effect appears, however, to be disproved by the experiments of Sir Oliver Lodge[33].
 

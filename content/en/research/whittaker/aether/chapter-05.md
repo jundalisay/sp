@@ -1,6 +1,5 @@
 ---
 title: "Sir George Gabriel Stokes"
-# title:  "The Aether As An Elastic Solid"
 heading:  "Chapter 5"
 weight: 34
 writer:
@@ -13,42 +12,50 @@ description: "The aether behaves as an elastic solid"
 
 
 Young and Fresnel proposed that:
-- the vibrations of light are performed at right angles to its direction of propagation.
-- this peculiarity is explained by a luminiferous medium that can resist attempts to distort its shape. 
+- the vibrations of light* are performed at right angles to its direction of propagation
+- this peculiarity is explained by a luminiferous medium that can resist attempts to distort its shape
+
+{{< n n="In Cartesian Physics, light is a spin as colors, while gravity is a wave. The wave nature of light is from Huygens messing up Descartes' 2nd Element." >}}
+
 
 This power distinguishes solid bodies from fluids which offer no resistance to distortion.
 
 In other words, the aether behaves as an elastic solid.
 
-After the death of Fresnel, this conception was developed in a brilliant series of memoirs.
+<!-- After the death of Fresnel, this conception was developed in a brilliant series of memoirs. -->
 
 The elastic-solid theory has one obvious difficulty at the outset. 
 
-If the aether has the qualities of a solid, how can the orbiting planets journey through it at immense speeds without any perceptible resistance?
+If the aether were solid, how can the orbiting planets move through it at immense speeds without resistance?*
 
-This objection was first satisfactorily answered by Sir George Gabriel Stokes[1] (b. 1819, d. 1903).
+{{< n n="In Cartesian Physics, the aetherspace is solid, spacetime is liquid." >}}
+
+
+This was answered by Sir George Gabriel Stokes (b. 1819, d. 1903).
 
 He remarked that such substances are like pitch and shoemaker's wax. They are rigid as to be capable of elastic vibration, but are also  plastic to permit other bodies to pass slowly through them. 
 
 The aether has this combination of qualities in an extreme degree, behaving like an elastic solid for vibrations so rapid as those of light, but yielding like a fluid to the much slower progressive motions of the planets.
 
-Stokes's explanation harmonizes with Fresnel's hypothesis that the speed of longitudinal waves in the aether is indefinitely great compared with that of the transverse waves. 
+Stokes's explanation harmonizes with Fresnel's hypothesis that the speed of longitudinal waves in the aether is indefinitely great compared with that of the transverse waves.
 
-Experiment with actual substances shows that the ratio of the velocity of propagation of longitudinal waves to that of transverse waves increases rapidly as the medium becomes softer and more plastic.
+Experiment with actual substances shows that the ratio of the speed of longitudinal waves to that of transverse waves increases rapidly as the medium becomes softer and more plastic.
 
 In attempting to set forth a parallel between light and the vibrations of an elastic substance, the investigator is compelled more than once to make a choice between alternatives. 
 
-He may suppose that the vibrations of the aether are executed either parallel to the plane of polarization of the light. or at right angles to it. 
+Suppose:
+- the aether vibrations are executed either parallel to the plane of polarization of the light or at right angles to it. 
+- the different refractive powers of different media are due either to differences in the inertia of the aether within the media, or to differences in its power of resisting distortion; or to both these causes combined.
 
-He may suppose that the different refractive powers of different media are due either to differences in the inertia of the aether within the media, or to differences in its power of resisting distortion; or to both these causes combined.
+There are several distinct methods for avoiding the difficulties caused by the presence of longitudinal vibrations.
 
-There are, moreover, several distinct methods for avoiding the difficulties caused by the presence of longitudinal vibrations; and as, alas we shall see, a further source of diversity is to be found in that liability to error from which no man is free. It is therefore not surprising that the list of elastic-solid theories is a long one.
+A further source of diversity is to be found in that liability to error from which no man is free. It is therefore not surprising that the list of elastic-solid theories is a long one.
 
 When the transversality of light was discovered, no general method had been developed for investigating mathematically the properties of elastic bodies.
 
 But under the stimulus of Fresnel's discoveries, some of the best intellects of the age were attracted to the subject.
 
-The volume of Memoirs of the Academy which contains Fresnel's theory of crystal-optics contains also a memoir by Claud Louis Mario Henri Navier[2] (b. 1785, d. 1836), at that time Professor of Mechanics in Paris, in which the correct equations of vibratory motion for a particular type of elastic solid were for the first time given. 
+The volume of Memoirs of the Academy which contains Fresnel's theory of crystal-optics contains also a memoir by Claud Louis Mario Henri Navier (b. 1785, d. 1836), at that time Professor of Mechanics in Paris, in which the correct equations of vibratory motion for a particular type of elastic solid were for the first time given. 
 
 Navier supposed the medium to be ultimately constituted of an immense number of particles, which act on each other with forces directed along the lines joining them, and depending on their distances apart.
 
@@ -88,12 +95,17 @@ while b is to be determined from
 
 A particular solution of the equations for c is easily seen to be
 
+...
 
 which represents a transverse plane wave propagated with velocity ✓(n/ρ). It can be shown that the general solution of the differential equations for c is formed of such waves as this, travelling in all directions, superposed on each other.[errata 1]
 
 A particular solution of the equations for b is
 
+...
+
 which represents a longitudinal wave propagated with velocity
+
+...
 
 the general solution of the differential equation for b is formed by the superposition of such waves as this, travelling in all directions.
 

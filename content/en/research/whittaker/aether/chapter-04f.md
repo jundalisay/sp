@@ -72,22 +72,41 @@ where μ2 and μ1 denote the refractive indices of the media. 'This formula had 
 
 When i + r = 90°, tan (i + r) becomes infinite: and thus a theoretical explanation is obtained for Brewster's law, that if the incidence is such as to make the reflected and refracted rays perpendicular to each other, the reflected light will he wholly polarized in the plane of reflexion.
 
-Fresnel's investigation can scarcely be called a dynamical theory in the strict sense, as the qualities of the medium are not defined. His method was to work backwards from the known properties of light, in the hope of arriving at a mechanism to which they could be attributed; he succeeded in accounting for the phenomena in terms of a few simple principles, but was not able to specify an aether which would in turn account for these principles. The "displacement" of Fresnel could not be a displacement in an elastic solid of the usual type, since its normal component is not continuous across the interface between two media.[68]
+Fresnel's investigation is not a dynamical theory since the qualities of the medium are not defined.
 
-The theory of ordinary reflexion was completed by a discussion of the case in which light is reflected totally. This had formed the subject of some of Fresnel's experimental researches several years before .
+His method was to work backwards from the known properties of light, in the hope of arriving at a causal mechanism.
 
-In 2 papers[69] presented to the Academy in November, 1817, and January, 1818, he had shown that light polarized in any plane inclined to the plane of reflexion is partly "depolarized" by total reflexion. 
+He was able to account for the phenomena with a few simple principles.
+
+But he was not able to specify an aether which would in turn account for these principles. 
+
+The "displacement" of Fresnel could not be a displacement in an elastic solid of the usual type, since its normal component is not continuous across the interface between two media.
+
+The theory of ordinary reflexion was completed by a discussion of the case in which light is reflected totally. 
+
+This had formed the subject of some of Fresnel's experimental researches several years before .
+
+He presented 2 papers to the Academy in November 1817 and January 1818 where he had shown that light polarized in any plane inclined to the plane of reflexion is partly "depolarized" by total reflexion.
 
 This is due to differences of phase which are introduced between the components polarized in and perpendicular to the plane of reflexion. 
 
-"When the reflexion is total," he said, "rays polarized in the plane of reflexion are reflected nearer the surface of the glass than those polarized at right angles to the same plane, so that there is a difference in the paths described."
+
+{{< l a="Fresnel" >}}
+When the reflexion is total, rays polarized in the plane of reflexion are reflected nearer the surface of the glass than those polarized at right angles to the same plane, so that there is a difference in the paths described.
+{{< /l >}}
+
 
 This change of phase he now deduced from the formulae already obtained for ordinary reflexion. Considering light polarized in the plane of reflexion, the ratio of the amplitudes of the reflected and incident light is, as we have seen,
 
+...
 
 when the sine of the angle of incidence is greater than μ2/μ1, so that total reflexion takes place, this ratio may be written in the form
 
+...
+
 where θ denotes a real quantity defined by the equation
+
+...
 
 Fresnel interpreted this expression to mean that the amplitude of the reflected light is equal to that of the incident, but that the two waves differ in phase by an amount θ. The case of light polarized at right angles to the plane of reflexion may be treated in the same way, and the resulting formulae are completely confirmed by experiment.
 
@@ -95,7 +114,9 @@ A few months after the memoir on reflexion had been presented, Fresnel was elect
 
 In 1827, the Royal Society awarded him the Rumford medal; but Arago, to whom Young had confided the mission of conveying the medal, found him dying; and eight days afterwards he breathed his last.
 
-By the genius of Young and Fresnel the wave-theory of light was established in a position which has since remained unquestioned. It seemed almost a work of supererogation when, in 1850, Foucault[70] and Fizeau,[71] carrying out a plan long before imagined by Arago, directly measured the velocity of light in air and in water, and found that on the question so long debated between the rival schools the adherents of the undulatory theory had been in the right.
+By the genius of Young and Fresnel the wave-theory of light was established in a position which has since remained unquestioned. 
+
+It seemed almost a work of supererogation when, in 1850, Foucault[70] and Fizeau,[71] carrying out a plan long before imagined by Arago, directly measured the velocity of light in air and in water, and found that on the question so long debated between the rival schools the adherents of the undulatory theory had been in the right.
 
 <!-- Notes
  Phil. Trans. xxxv (1728), p. 637.

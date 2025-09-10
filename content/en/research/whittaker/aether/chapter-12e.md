@@ -99,36 +99,60 @@ The charge which is to be ascribed to any position x is the charge which occupie
 
 For this case we should therefore have
 
+..
+
 In the general case, it is only necessary to replace u by the component of velocity of the electric charge in the direction of the radius vector from the point at which the potential is to be computed. This component may be written 
 
 
 where r is measured positively from the point in question to the charge, and v denotes the velocity of the charge. Thus
 
+..
 
 and therefore
 
+..
 
 where the integration is extended over all the charges in the field, and the bars over the letters imply that the position of the charge considered is that which it occupied at the instant 
 
-Meanwhile the unsettled problem of the relative motion of earth and aether was provoking a fresh series of experimental investigations.
+..
 
-The most interesting of these was due to FitzGerald,[74] who shortly before his death in February, 1901, commenced to examine the phenomena manifested by a charged electrical condenser, as it is carried through space in consequence of the terrestrial motion. 
+Meanwhile the unsettled problem of the relative motion of earth and aether was provoking new experimental investigations.
 
-On the assumption that a moving charge develops a magnetic field, there will be associated with the condenser a magnetic force at right angles to the lines of electric force and to the direction of the motion: magnetic energy must therefore be stored in the medium, when the plane of the condenser includes the direction of the drift; but when the plane of the condenser is at right angles to the terrestrial motion, the effects of the opposite charges neutralize each other. 
+The most interesting of these was due to FitzGerald.
+
+ <!-- who shortly before his death in February 1901, commenced to -->
+
+He examined the phenomena of a charged electrical condenser as it is carried through space due to terrestrial motion. 
+
+He assumed that a moving charge develops a magnetic field. And so there will be associated with the condenser a magnetic force at right angles to the lines of electric force and to the direction of the motion. 
+
+Magnetic energy must therefore be stored in the medium, when the plane of the condenser includes the direction of the drift.
+
+But when the plane of the condenser is at right angles to the terrestrial motion, the effects of the opposite charges neutralize each other. 
 
 FitzGerald's original idea was that, in order to supply the magnetic energy, there must be a mechanical drag on the condenser at the moment of charging, similar to that which would be produced if the mass of a body at the surface of the earth were suddenly to become greater. 
 
-Moreover, it was conjectured that the condenser, when freely suspended, would tend to move so as to assume the longitudinal orientation, which is that of maximum kinetic energy[75]: the transverse position would therefore be one of unstable equilibrium.
+Moreover, it was conjectured that the condenser, when freely suspended, would tend to move so as to assume the longitudinal orientation, which is that of maximum kinetic energy: the transverse position would therefore be one of unstable equilibrium.
 
-For both effects a search was made by FitzGerald's pupil Trouton:[76] in the experiments designed to observe the turning couple, a condenser was suspended in a vertical plane by a fine wire, and charged. 
+FitzGerald's pupil Trouton searched for both. 
+
+In the experiments designed to observe the turning couple, a condenser was suspended in a vertical plane by a fine wire, and charged. 
 
 If the plane of the condenser were that of the meridian, about noon there should be no couple tending to alter the orientation, because the drift of aether due to the earth's motion would be at right angles to this plane; at any other hour, a couple should act. 
 
-The effect to be detected was extremely small; for the magnetic force due to the motion of the charges would be of order w/c, where w denotes the velocity of the earth; so the magnetic energy of the system, which depends on the square of the force, would be of order (w/c)2; and the couple, which depends on the derivate of this with respect to the azimuth, would therefore be likewise of the second order in (w/c).
+The effect to be detected was extremely small; for the magnetic force due to the motion of the charges would be of order w/c, where w denotes the velocity of the earth.
 
-No couple could be detected. As the energy of the magnetic field must be derived from some source, there seems to be no escape from the conclusion that the electrostatic energy of a charged condenser is diminished by the fraction (w/c)2 of its amount when the condenser is moving with velocity w at right angles to its lines of electrostatic force. 
+So the magnetic energy of the system, which depends on the square of the force, would be of order (w/c)2; and the couple, which depends on the derivate of this with respect to the azimuth, would therefore be likewise of the second order in (w/c).
 
-To explain this diminution, it is necessary to admit FitzGerald's hypothesis of contraction. The negative result of the experiment may be taken to indicate[77] that the kinetic potential of the system, when the FitzGerald contraction is taken into account as a ​constraint, is independent of the orientation of the plates with respect to the direction of the terrestrial motion.
+No couple could be detected.*
+
+{{< n n="This is the same misconception with the aether in the Michelson Moreley experiment. The real effect of the Earth's aether rotation is the Earth's magnetic field" >}}
+
+
+As the energy of the magnetic field must be derived from some source, there seems to be no escape from the conclusion that the electrostatic energy of a charged condenser is diminished by the fraction `(w/c)2` of its amount when the condenser is moving with velocity w at right angles to its lines of electrostatic force. 
+
+FitzGerald's hypothesis of contraction is needed to explain this diminution.
+
+The negative result of the experiment might show that the kinetic potential of the system, when the FitzGerald contraction is taken into account as a constraint, is independent of the orientation of the plates with respect to the direction of the terrestrial motion.
 
 It may be remarked that the existence of the couple, had it been observed, would have demonstrated the possibility of drawing on the energy of the earth's motion for purposes of terrestrial utility.
-

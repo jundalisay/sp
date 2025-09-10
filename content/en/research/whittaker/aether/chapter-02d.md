@@ -10,23 +10,28 @@ description: "Nollet came across a work purporting to be a French translation of
 ---
 
 
-An interest in electrical experiments spread from du Fay to other members of the Court circle of Louis 15th. From 1745 onwards, the Memoirs of the Academy contain a series of papers on the subject by the Abbé Jean-Antoine Nollet (b. 1700, d. 1770), afterwards preceptor in natural philosophy to the Royal Family. 
+An interest in electrical experiments spread from du Fay to other members of the Court circle of Louis 15th. 
 
-Nollet attributed electric phenomena to the movement in opposite directions of 2 currents of a fluid, "very subtle and inflammable". This he supposed to be present in all bodies always.[31]
+From 1745 onwards, Abbé Jean-Antoine Nollet (b. 1700, d. 1770) wrote papers and afterwards became preceptor in natural philosophy to the Royal Family.
 
-When all electric is excited by friction, part of this fluid escapes from its pores. It forms an effluent stream. This loss is repaired by an afluent stream of the same fluid entering the body from outside. 
+<!-- the Memoirs of the Academy contain a series of papers on the subject by the  -->
+
+Nollet attributed electric phenomena to the movement in opposite directions of 2 currents of a fluid, "very subtle and inflammable". 
+- This he supposed to be present in all bodies always.[31]
+
+When all electric is excited by friction, part of this fluid escapes from its pores. It forms an effluent stream. This loss is repaired by an afluent stream of the same fluid entering the body from outside.
 
 Light bodies in the vicinity are caught in one or other of these streams and are attracted or repelled from the excited electric.
 
 Nollet's theory was in great vogue for some time.
 
-But 6 or 7 years after its first publication, he came across a work purporting to be a French translation of Benjamin Franklin's book printed originally in England.
-- It described his experiments made at Philadelphia. 
+But 6 or 7 years after its first publication, he came across Benjamin Franklin's book.
+- It described his experiments at Philadelphia. 
 
 Franklin tells us in his Autobiography:
 
 {{< q a="Franklin" >}}
-Nollet could not at first believe that such a work came from America. He said it must have been fabricated by his enemies at Paris to decry his system. After he was assured that  Franklin did do it at Philadelphia, he published a volume of letters, chiefly addressed to me, defending his theory. He denied the verity of my experiments, and of the positions deduced from them.
+Nollet could not believe that such a work came from America. He said it must have been fabricated by his enemies at Paris to decry his system. After he was assured that Franklin did do it at Philadelphia, he published letters addressed to me defending his theory. He denied the verity of my experiments, and of the positions deduced from them.
 {{< /q >}}
 
 
@@ -35,7 +40,9 @@ Nollet could not at first believe that such a work came from America. He said it
 In 1745, Pieter van Musschenbroek (b. 1692, d. 1761), Professor at Leyden, tried to preserve electric charges from the decay which was observed when the charged bodies were surrounded by air. 
 - He surrounded a charged mass of water by an envelope of some non-conductor, e.g., glass. 
 
-In one of his experiments, a phial of water was suspended from a gun-barrel by a wire let down a few inches into the water through the cork. The gun-barrel, suspended on silk lines, was applied so near an excited glass globe that some metallic fringes inserted into the gun-barrel touched the globe in motion. 
+In one of his experiments, a phial of water was suspended from a gun-barrel by a wire let down a few inches into the water through the cork.
+
+The gun-barrel, suspended on silk lines, was applied so near an excited glass globe that some metallic fringes inserted into the gun-barrel touched the globe in motion. 
 
 His friend Cunaeus happened to grasp the phial with one hand and touch the gun-barrel with the other. He received a violent shock -- a method of accumulating the electric power had been discovered.[32]
 

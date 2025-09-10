@@ -28,7 +28,14 @@ He showed that the canal rays were formed of positively charged particles. It ob
 
 The disparity thus revealed between the corpuscles of cathode rays and the positive ions of Goldstein's rays excited great interest. It seemed to offer a prospect of explaining the curious differences between the relations of vitreous and of resinous electricity to ponderable matter. 
 
-These phenomena had been studied by many previous investigators; in particular Schuster,[92] in the Bakerian lecture of 1890, had remarked that "if the law of impact is different between the molecules of the gas and the positive and negative ions respectively, it follows that the rate of diffusion of the two sets of ions will in general be different," and had inferred from his theory of the discharge that "the negative ions diffuse more rapidly." 
+These phenomena had been studied by many previous investigators.
+
+Schuster in the Bakerian lecture of 1890 had remarked that 
+
+{{< l a="Schuster" >}}
+if the law of impact is different between the molecules of the gas and the positive and negative ions respectively, it follows that the rate of diffusion of the two sets of ions will in general be different," and had inferred from his theory of the discharge that "the negative ions diffuse more rapidly.
+{{< /l >}}
+
 
 This inference was confirmed in 1898 by John Zeleny,[93] who showed that of the ions produced in air by exposure to X-rays, the positive are decidedly less mobile than the negative.
 

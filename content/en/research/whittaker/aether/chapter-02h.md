@@ -10,43 +10,60 @@ description: "Electrostatical theory was suddenly advanced by Siméon Denis Pois
 ---
 
 
-Electrostatical theory was, however, suddenly advanced to quite a mature state of development by Siméon Denis Poisson (b. 1781, d. 1840), in a memoir which was read to the French Academy in 1812.[76] 
+ <!-- was, however,  to quite a mature state of development by  -->
+
+Siméon Denis Poisson (b. 1781, d. 1840) suddenly advanced the electrostatical theory in 1812.
+
+ <!-- in a memoir which was read to the French Academy in 1812.[76]  -->
 
 He accepted the conceptions of the two-fluid theory.
 
-"The theory of electricity which is most generally accepted," he says, "is that which attributes the phenomena to two different fluids, which are contained in all material bodies. 
+{{< l a="Poisson" >}}
+The accepted theory of electricity attributes it to 2 different fluids which are in all material bodies. Molecules of the same fluid repel each other and attract the molecules of the other fluid. These forces of attraction and repulsion obey the law of the inverse square of the distance. 
 
-Molecules of the same fluid repel each other and attract the molecules of the other fluid. These forces of attraction and repulsion obey the law of the inverse square of the distance. 
+At the same distance, the attractive power is equal to the repellent power. When all the parts of a body contain equal quantities of the two fluids, the latter do not exert any influence on the fluids contained in neighbouring bodies. Consequently, no electrical effects are discernible. 
 
-At the same distance the attractive power is equal to the repellent power; whence it follows that, when all the parts of a body contain equal quantities of the two fluids, the latter do not exert any influence on the fluids contained in neighbouring bodies, and consequently no electrical effects are discernible. 
+This equal and uniform distribution of the 2 fluids is called the natural state. When this state is disturbed in any body, the body is said to be electrified, and the various phenomena of electricity begin to take place.
 
-This equal and uniform distribution of the two fluids is called the natural state; when this state is disturbed in any body, the body is said to be electrified, and the various phenomena of electricity begin to take place.
+Material bodies do not all behave in the same way with respect to the electric fluid. Some, such as the metals, do not exert any influence on it, but permit it to move about freely in their substance. This is why they are called conductors. 
 
-"Material bodies do not all behave in the same way with respect to the electric fluid: some, such as the metals, do not appear to exert any influence on it, but permit it to move about freely in their substance: for this reason they are called conductors. 
+Others, on the contrary—very dry air, for example—oppose the passage of the electric fluid in their interior, so that they can prevent the fluid accumulated in conductors from being dissipated throughout space.
+{{< /l >}}
 
-Others, on the contrary—very dry air, for example—oppose the passage of the electric fluid in their interior, so that they can prevent the fluid accumulated in conductors from being dissipated throughout space."
 
-When an excess of one of the electric fluids is communicated to a metallic body, this charge distributes itself over the surface of the body, forming a layer whose thickness at any point depends on the shape of the surface. The resultant force due to the repulsion of all the particles of this surface-layer must vanish at any point in the interior of the conductor, since otherwise the natural state existing there would be disturbed;
+When an excess of one of the electric fluids is communicated to a metallic body, this charge distributes itself over the surface of the body, forming a layer whose thickness at any point depends on the shape of the surface. 
 
-Poisson showed that by aid of this principle it is possible in certain cases to determine the distribution of electricity in the surface-layer.
+The resultant force due to the repulsion of all the particles of this surface-layer must vanish at any point in the interior of the conductor, since otherwise the natural state existing there would be disturbed.
+
+Poisson showed through this principle it is possible in certain cases to determine the distribution of electricity in the surface-layer.
 
 For example, a well-known proposition of the theory of Attractions asserts that a hollow shell whose bounding surfaces are 2 similar and similarly situated ellipsoids exercises no attractive force at any point within the interior hollow. 
 
-It may thence be inferred that, if an electrified metallic conductor has the form of an ellipsoid, the charge will be distributed on it proportionally to the normal distance from the surface to an adjacent similar and similarly situated ellipsoid.
+Hence, if an electrified metallic conductor is an ellipsoid, the charge will be distributed on it proportionally to the normal distance from the surface to an adjacent similar and similarly situated ellipsoid.
 
 Poisson went on to show that this result was by no means all that might with advantage be borrowed from the theory of + Attractions. 
 
-Lagrange, in a memoir on the motion of gravitating bodies, had shown[77] that the components of the attractive force at any point can be simply expressed as the derivates of the function which is obtained by adding together the masses of all the particles of an attracting system, each divided by its distance from the point; and Laplace had shown[78] that this function V satisfies the equation
+<!-- , in a memoir on the motion of gravitating bodies, -->
+Lagrange had shown that the components of the attractive force at any point can be simply expressed as the derivates of the function which is obtained by adding together the masses of all the particles of an attracting system, each divided by its distance from the point.
 
+Laplace had shown[78] that this function V satisfies the equation:
 
-in space free from attracting matter. Poisson himself showed later, in 1813,[79] that when the point (x, y, z) is within the substance of the attracting body, this equation of Laplace must be replaced by
+...
+
+in space free from attracting matter. 
+
+Poisson showed later, in 1813, that when the point (x, y, z) is within the substance of the attracting body, this equation of Laplace must be replaced by:
+
+...
 
 
 where `ρ` denotes the density of the attracting matter at the point. 
 
-In the present memoir Poisson called attention to the utility of this function V in electrical investigations, remarking that its value over the surface of any conductor must be constant.
+In the present memoir, Poisson called attention to the utility of this function `V` in electrical investigations, remarking that its value over the surface of any conductor must be constant.
 
-The known formulae for the attractions of spheroids show that when a charged conductor is spheroidal, the repellent force acting on a small charged body immediately outside it will be directed at right angles to the surface of the spheroid, and will be proportional to the thickness of the surface-layer of electricity at this place. Poisson suspected that this theorem might be true for conductors not having the spheroidal form—a result which, as we have seen, had been already virtually given by Coulomb. 
+The known formulae for the attractions of spheroids show that when a charged conductor is spheroidal, the repellent force acting on a small charged body immediately outside it will be directed at right angles to the surface of the spheroid, and will be proportional to the thickness of the surface-layer of electricity at this place. 
+
+Poisson suspected that this theorem might be true for conductors not having the spheroidal form—a result which, as we have seen, had been already virtually given by Coulomb. 
 
 Laplace suggested to Poisson the following proof, applicable to the general case.
 
@@ -108,15 +125,39 @@ the volume of the sphere, in order to counteract within the sphere the force F. 
 
 and F denotes the magnetic intensity within a spherical cavity excavated in the body. This is Poisson's law of induced magnetism.
 
-It is known that some substances acquire a greater degree of temporary magnetization than others when placed in the same circumstances: Poisson accounted for this by supposing that the quantity kp varies from one substance to another. But the experimental data show that for soft iron kp must have a value very near unity, which would obviously be impossible if kp is to mean the ratio of the volume of spheres contained within a region to the total volume of the region.[84] The physical interpretation assigned by Poisson to his formulae must therefore be rejected, although the formulae themselves retain their value.
 
-Poisson's electrical and magnetical investigations were generalized and extended in 1828 by George Green[85] (b. 1793, d. 1841). Green's treatment is based on the properties of the function already used by Lagrange, Laplace, and Poisson, which represents the sum of all the electric or magnetic charges in the field, divided by their respective distances from some given point: to this function Green gave the name potential, by which it has always since been known.[86]
+Some substances acquire more temporary magnetization than others when placed in the same circumstances.
 
-Near the beginning of the memoir is established the celebrated formula connecting surface and volume integrals, which is now generally called Green's Theorem, and of which Poisson's result on the equivalent surface- and volume-distributions of magnetization is a particular application. 
+Poisson accounted for this by supposing that the quantity `kp` varies from one substance to another. 
 
-Green used this theorem to investigate the properties of the potential and arrived at many results of remarkable beauty and interest. 
+But the experimental data show that for soft iron `kp` must have a value very near unity, which would obviously be impossible if `kp` is to mean the ratio of the volume of spheres contained within a region to the total volume of the region.
 
-Suppose that there is a hollow conducting shell, bounded by two closed surfaces, and that a number of electrified bodies are placed, some within and some without it, and let the inner surface and interior bodies be called the interior system, and the outer surface and exterior bodies be called the exterior system. 
+The physical interpretation assigned by Poisson to his formulae must therefore be rejected, although the formulae themselves retain their value.
+
+
+## George Green
+
+Poisson's electrical and magnetical investigations were generalized and extended in 1828 by George Green (b. 1793, d. 1841).
+
+Green's treatment is based on the properties of the function already used by Lagrange, Laplace, and Poisson, which represents the sum of all the electric or magnetic charges in the field, divided by their respective distances from some given point.
+
+Green called this function "potential".
+
+Green's Theorem is connects surface and volume integrals.
+
+Of which Poisson's result on the equivalent surface- and volume-distributions of magnetization is a particular application. 
+
+Green used this theorem to investigate the properties of the potential.
+
+ <!-- and arrived at many results of remarkable beauty and interest.  -->
+
+Suppose that:
+- there is a hollow conducting shell, bounded by two closed surfaces
+- a number of electrified bodies are placed, some within and some without it
+
+Let:
+- the inner surface and interior bodies be called the interior system
+- the outer surface and exterior bodies be called the exterior system
 
 Then all the electrical phenomena of the interior system, relative to attractions, repulsions, and densities, will be the same as if there were no exterior system, and the inner surface were a perfect conductor, put in communication with the earth.
 

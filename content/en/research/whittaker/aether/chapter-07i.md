@@ -10,25 +10,39 @@ description: "Kirchhoff assumed that the electric charge is practically all resi
 ---
 
 
-The theory of signalling by cable originated in a correspondence between Stokes and Thomson in 1854. In the case of long submarine lines, the speed of signalling is so much limited by the electrostatic factor that electro-magnetic induction has no sensible effect; and it was accordingly neglected in the investigation. 
+The theory of signalling by cable originated in a correspondence between Stokes and Thomson in 1854. 
 
-In view of other applications of the analysis, however, we shall suppose that the cable has a self-induction L per unit length, and that R denotes the ohmic resistance, and C the capacity per unit length, V the electric potential at a distance x from one terminal, and i the current at this place. 
+In the case of long submarine lines, the speed of signalling is so much limited by the electrostatic factor that electro-magnetic induction has no sensible effect; and it was accordingly neglected in the investigation. 
+
+In view of other applications of the analysis, however, we shall suppose that the cable has a self-induction `L` per unit length, and that R denotes the ohmic resistance, and C the capacity per unit length, V the electric potential at a distance x from one terminal, and i the current at this place. 
 
 Ohm's law, as modified for inductance, is expressed by the equation
 
+...
+
 moreover, since the rate of accumulation of charge in unit length at x is - ∂i/∂x, and since this increases the potential at the rate - (1/C)∂i/∂x, we have
+
+...
 
 Eliminating i between these two equations, we have
 
+..
 
 which is known as the equation of telegraphy.[65]
 
-Thomson, in one of his letters[66] to Stokes in 1854, obtained this equation in the form which applies to Atlantic cables, i.e., with the term in L neglected. In this form it is the same as Fourier's equation for the linear propagation of heat: so that the known solutions of Fourier's theory may be used in a new interpretation. If we substitute we obtain
+Thomson, in one of his letters[66] to Stokes in 1854, obtained this equation in the form which applies to Atlantic cables, i.e., with the term in L neglected. In this form it is the same as Fourier's equation for the linear propagation of heat: so that the known solutions of Fourier's theory may be used in a new interpretation. 
+
+If we substitute we obtain
+
+...
 
 and therefore a typical elementary solution of the equation is
 
+...
 
-The form of this solution shows that if a regular harmonic variation of potential is applied at one end of a cable, the phase is propagated with a velocity which is proportional to the square root of the frequency of the oscillations: since therefore the different harmonics are propagated with different velocities, it is evident that no definite "velocity of transmission" is to be expected for ordinary signals. If a potential is suddenly applied at one end of the cable, a certain time elapses before the current at the other end attains a definite percentage of its maximum value; but it may easily be shown[67] that this retardation is proportional to the square of the length of the cable, so that the apparent velocity of propagation would be less, the greater the length of cable used.
+The form of this solution shows that if a regular harmonic variation of potential is applied at one end of a cable, the phase is propagated with a velocity which is proportional to the square root of the frequency of the oscillations: since therefore the different harmonics are propagated with different velocities, it is evident that no definite "velocity of transmission" is to be expected for ordinary signals. 
+
+If a potential is suddenly applied at one end of the cable, a certain time elapses before the current at the other end attains a definite percentage of its maximum value; but it may easily be shown that this retardation is proportional to the square of the length of the cable, so that the apparent velocity of propagation would be less, the greater the length of cable used.
 
 The case of a telegraph line insulated in the air on poles is different from that of a cable; for here the capacity is small, and it is necessary to take into account the inductance. If in the general equation of telegraphy we write
 

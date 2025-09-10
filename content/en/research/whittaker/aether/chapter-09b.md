@@ -95,15 +95,28 @@ If the spheres, instead of pulsating, oscillate to and fro in straight lines abo
 
 opposite in sign, to those which act between two magnets oriented along the directions of oscillation.[20]
 
-The results obtained by Bjerknes were extended by A. H. Leahy[21] to the case of two spheres pulsating in an clastic medium; the wave-length of the disturbance being supposed large in comparison with the distance between the spheres.
+The results obtained by Bjerknes were extended by A. H. Leahy to the case of 2 spheres pulsating in an clastic medium.
 
-For this system Bjerknes' results are reversed, the law being now that of attraction in the case of unlike phases, and of repulsion in the case of like phases: the intensity is as before proportional to the inverse square of the distance.
 
-The same author afterwards discussed[22] the oscillations which may be produced in an elastic medium by the displacement, in the direction of the tangent to the crosssection, of the surfaces of tubes of small sectional area: the tubes either forming closed curves, or extending indefinitely in both directions. 
+The wavelength of the disturbance is supposed large compared with the distance between the spheres.
 
-The direction and circumstances of the motion are in general analogous to ordinary vortex-motions in an incompressible fluid; and it was shown by Leahy that, if the period of the oscillation be such that the waves produced are long compared with ordinary finite distances, the displacement due to the tangential disturbances is proportional to the velocity due to vortex-rings of the same form as the tubular surfaces. 
+For this system, Bjerknes' results are reversed. The law is now that of:
+- attraction in the case of unlike phases
+- repulsion in the case of like phases
 
-One of these "oscillatory twists," as the tubular surfaces may be called, produces a displacement which is analogous to the magnetic force due to a current flowing in a curve coincident with the tube; the strength of the current being proportional to b2ω sin pt, where b denotes the radius of the twist, and ω sin pt its angular displacement. 
+The intensity is as before proportional to the inverse square of the distance.
+
+He discussed the oscillations which may be produced in an elastic medium by the displacement, in the direction of the tangent to the crosssection, of the surfaces of tubes of small sectional area.
+
+The tubes either forming closed curves, or extending indefinitely in both directions. 
+
+The direction and circumstances of the motion are in general analogous to ordinary vortex-motions in an incompressible fluid.
+
+Leahy showed that if the period of the oscillation be such that the waves produced are long compared with ordinary finite distances, the displacement due to the tangential disturbances is proportional to the velocity due to vortex-rings of the same form as the tubular surfaces. 
+
+One of these "oscillatory twists," as the tubular surfaces may be called, produces a displacement which is analogous to the magnetic force due to a current flowing in a curve coincident with the tube.
+
+The strength of the current being proportional to b2ω sin pt, where b denotes the radius of the twist, and ω sin pt its angular displacement. 
 
 If the field of vibration is explored by a rectilineal twist of the same period as that of the vibration, the twist will experience a force at right angles to the plane containing the twist and the direction of the displacement which would exist if the twist were removed.
 
@@ -114,4 +127,3 @@ A model of magnetic action may evidently be constructed on the basis of these re
 A cylindrical body carrying a current will have its surface also vibrating tangentially; but in this case the direction of vibration will be perpendicular to the axis of the cylinder. 
 
 A statically electrified body, on the other hand, may, as follows from the same author's earlier work, be regarded as analogous to a body whose surface vibrates in the normal direction.
-

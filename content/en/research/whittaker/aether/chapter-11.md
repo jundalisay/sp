@@ -47,16 +47,25 @@ It had long been known that the passage of a current through an electrolytic sol
 Thus, in the electrolysis of a solution of copper sulphate, with copper electrodes, in which copper is dissolved off the anode and deposited on the cathode, the concentration of the solution diminishes near the cathode, and increases near the anode. 
 
 
+Faraday made some experiments on this in 1835.
 
-Faraday[4] made some experiments on this in 1835. In 1844, this was further investigated by Frederic Daniell and W. A. Miller[5]. They asserted that the cation and anion have not (as had previously been supposed) the same facility of moving to their respective electrodes. Instead, the cation appears to move but little, while the transport is effected chiefly by the anion.
+In 1844, this was further investigated by Frederic Daniell and W. A. Miller.
+
+They asserted that the cation and anion have not (as had previously been supposed) the same facility of moving to their respective electrodes.
+
+Instead, the cation appears to move but little, while the transport is effected chiefly by the anion.
 
 This idea was adopted by W. Hittorf of Münster. In 1853 to 1859, he published[6] a series of memoirs on the migration of the ions. 
 
-Let the velocity of the anions in the solution be to the velocity of the cations in the ratio v:u. Then it is easily seen that if (u + v) molecules of the electrolyte are decomposed by the current, and yielded up as ions at the electrodes, v of these molecules will have been taken from the fluid on the side of the cathode, and u of them from the fluid on the side of the anode. 
+Let the velocity of the anions in the solution be to the velocity of the cations in the ratio v:u. 
+
+Then it is easily seen that if (u + v) molecules of the electrolyte are decomposed by the current, and yielded up as ions at the electrodes, v of these molecules will have been taken from the fluid on the side of the cathode, and u of them from the fluid on the side of the anode. 
 
 By measuring the concentration of the liquid round the electrodes after the passage of a current, Hittorf determined the ratio v/u in a large number of cases of electrolysis.[7]
 
-The theory of ionic movements was advanced a further stage by F. W. Kohlrausch[8] (b. 1840, d. 1910), of Würzburg. Kohlrausch showed that although the ohmic specific conductivity k of a solution diminishes indefinitely as the strength of the solution is reduced, yet the ratio k/m, where m denotes the number of gramme-equivalents[9] of salt per unit volume, tends to a definite limit when the solution is indefinitely dilute. 
+The theory of ionic movements was advanced a further stage by F. W. Kohlrausch[8] (b. 1840, d. 1910), of Würzburg. 
+
+Kohlrausch showed that although the ohmic specific conductivity k of a solution diminishes indefinitely as the strength of the solution is reduced, yet the ratio k/m, where m denotes the number of gramme-equivalents[9] of salt per unit volume, tends to a definite limit when the solution is indefinitely dilute. 
 
 This limiting value may be denoted by λ. He further showed that λ may be expressed as the sum of two parts, one of which depends on the cation, but is independent of the nature of the anion; while the other depends on the anion, but not on the cation—a fact which may be explained by supposing that, in very dilute solutions, the two ions move independently under the influence of the electric force. 
 
@@ -84,11 +93,18 @@ It was shown in 1870 by Cromwell Fleetwood Varley[12] that a mercury cathode, th
 
 In Lippmann's instrumental disposition, which is called a capillary electrometer, mercury electrodes are immersed in acidulated water: the anode H0, has a large surface, while the cathode H has a variable surface S small in comparison. 
 
-When the external electromotive force is applied, it is easily seen that the fall of potential at the large electrode is only slightly affected, while the fall of potential at the small electrode is altered by polarization by an amount practically equal to the external electromotive force. Lippmann found that the constant of capillarity of the interface at the small electrode was a function of the external electromotive force, and therefore of the difference of potential between the mercury and the electrolyte.
+When the external electromotive force is applied, it is easily seen that the fall of potential at the large electrode is only slightly affected, while the fall of potential at the small electrode is altered by polarization by an amount practically equal to the external electromotive force. 
 
-Let V denote the external electromotive force: we may, without loss of generality, assume the potential of H0, to be zero, so that the potential of H is -V. The state of the system may be varied by altering either V or S; we assume that these alterations may be performed independently, reversibly, and isothermally, and that the state of the large electrode H0, is not altered thereby. Let de denote the quantity of electricity which passes through the cell from H0, to H, when the state of the system is thus varied: then if E denote the available energy of the system, and γ the surface-tension at H, we have
+Lippmann found that the constant of capillarity of the interface at the small electrode was a function of the external electromotive force, and therefore of the difference of potential between the mercury and the electrolyte.
+
+Let V denote the external electromotive force: we may, without loss of generality, assume the potential of H0, to be zero, so that the potential of H is -V. 
+
+The state of the system may be varied by altering either V or S; we assume that these alterations may be performed independently, reversibly, and isothermally, and that the state of the large electrode H0, is not altered thereby. Let de denote the quantity of electricity which passes through the cell from H0, to H, when the state of the system is thus varied: then if E denote the available energy of the system, and γ the surface-tension at H, we have
+
+...
 
 γ being measured by the work required to increase the surface when no electricity flows through the circuit.
+
 
 In order that equilibrium may be re-established between the electrode and the solution when the fall of potential at the cathode is altered, it will be necessary not only that some hydrogen cations should come out of the solution and be deposited on the electrode, yielding up their charges, but also that there should be changes in the clustering of the charged ions of hydrogen, mercury, and sulphion in the layer of the solution immediately adjacent to the electrode.
 
@@ -113,7 +129,9 @@ The theory so far is more or less independent of assumptions as to what actually
 
 If this be so, the amount of electricity which passes through the cell in any displacement must be proportional to the quantity of hydrogen which is yielded up to the electrode in the displacement; so that dγ/dV must be proportional to the amount of hydrogen deposited per unit area of the electrode.[16]
 
-A different view of the physical conditions at the polarized electrode was taken by Helmholtz,[17] who assumed that the ions of hydrogen which are brought to the cathode by the polarizing current do not give up their charges there, but remain in the vicinity of the electrode, and form one face of a quasi-condenser of which the other face is the electrode itself.[18] If σ denote the surface-density of electricity on either face of this quasicondenser, we have, therefore,
+A different view of the physical conditions at the polarized electrode was taken by Helmholtz,[17] who assumed that the ions of hydrogen which are brought to the cathode by the polarizing current do not give up their charges there, but remain in the vicinity of the electrode, and form one face of a quasi-condenser of which the other face is the electrode itself.
+
+If σ denote the surface-density of electricity on either face of this quasicondenser, we have, therefore,
 
 
 ...
@@ -122,7 +140,9 @@ This equation shows that when dγ/dV is zero—i.e., when the surface-tension is
 
 All previous measurements of differences of potential had involved the employment of more than one interface; and it was not known how the measured difference of potential should be distributed among these interfaces; so that the suggestion of a means of measuring single differences of potential was a distinct advance, even though the hypotheses on which the method was based were somewhat insecure.
 
-A further consequence deduced by Helmholtz from this theory leads to a second method of determining the difference of potential between mercury and an electrolyte. If a mercury surface is rapidly extending, and electricity is not rapidly transferred through the electrolyte, the electric surface-density in the double layer must rapidly decrease, since the same quantity of electricity is being distributed over an increasing area Thus it may be inferred that a rapidly extending mercury-surface in an electrolyte is at the same potential as the electrolyte.
+A further consequence deduced by Helmholtz from this theory leads to a second method of determining the difference of potential between mercury and an electrolyte. 
+
+If a mercury surface is rapidly extending, and electricity is not rapidly transferred through the electrolyte, the electric surface-density in the double layer must rapidly decrease, since the same quantity of electricity is being distributed over an increasing area Thus it may be inferred that a rapidly extending mercury-surface in an electrolyte is at the same potential as the electrolyte.
 
 This conception is realized in the dropping-electrode, in which a jet of mercury, falling from a reservoir into an electrolytic solution, is so adjusted that it breaks into drops when the jet touches the solution. According to Helmholtz's conclusion there is no difference of potential between the drops and the electrolyte.
 
@@ -140,12 +160,19 @@ When the cell is in operation, the salt passes from the places of high concentra
 
 The activity of the cell is due to the fact that the available energy of a solution depends on its concentration, the molecules
 
-of salt, in passing from a high to a low concentration, are therefore capable of supplying energy, just as a compressed gas is capable of supplying energy when its degree of compression is reduced. To examine the matter quantitatively, let nf(n/V) denote the term in the available energy of a solution, which is due to the dissolution of n gramme-molecules of salt in a volume V of pure solvent; the function f will of course depend also on the temperature.
+...
 
-Then when dn gramme-molecules of solvent are evaporated from the solution, the decrease in the available energy of the system is evidently equal to the available energy of dn gramme-molecules of liquid solvent, less the available energy of dn gramme-molecules of the vapour of the solvent, together with nf(n/V) less nf{n/(V-vdn)}, where v denotes the volume of one gramme-molecule of the liquid. But this decrease in available energy must be equal to the mechanical work supplied to the external world, which is dn.p1(u′ – v), if p1, denote the vapour-pressure of the solution at the temperature in question, and {{Wikimath|v′ denote the volume of one gramme-molecule of vapour. We have therefore
+of salt, in passing from a high to a low concentration, are therefore capable of supplying energy, just as a compressed gas is capable of supplying energy when its degree of compression is reduced. 
 
-...-available energy of dn gramme-molecules of solvent vapour
-+available energy of dn gramme-molecules of liquid solvent
+To examine the matter quantitatively, let nf(n/V) denote the term in the available energy of a solution, which is due to the dissolution of n gramme-molecules of salt in a volume V of pure solvent; the function f will of course depend also on the temperature.
+
+Then when dn gramme-molecules of solvent are evaporated from the solution, the decrease in the available energy of the system is evidently equal to the available energy of dn gramme-molecules of liquid solvent, less the available energy of dn gramme-molecules of the vapour of the solvent, together with nf(n/V) less nf{n/(V-vdn)}, where v denotes the volume of one gramme-molecule of the liquid. 
+
+But this decrease in available energy must be equal to the mechanical work supplied to the external world, which is dn.p1(u′ – v), if p1, denote the vapour-pressure of the solution at the temperature in question, and {{Wikimath|v′ denote the volume of one gramme-molecule of vapour. We have therefore
+
+...
+
+-available energy of dn gramme-molecules of solvent vapour +available energy of dn gramme-molecules of liquid solvent
 
 ...
 

@@ -1,5 +1,5 @@
 ---
-title: "Lorentz"
+title: "The Theory of Lorentz"
 heading: "Chapter 12c"
 weight: 110
 writer:
@@ -59,9 +59,10 @@ The electric and magnetic forces, thus defined in terms of the position and moti
 
 ...
 
+
 The theory of Lorentz is based on these 4 aethereal equations of Maxwell, together with the equation which determines the ponderomotive force on a charged particle. 
 
-This, which we shall now derive, is the contribution furnished by Clausius' theory. 
+This is the contribution from Clausius' theory. 
 
 The Lagrangian equations of motion of the electron `e` are
 

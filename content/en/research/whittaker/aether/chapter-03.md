@@ -19,9 +19,9 @@ He mentioned that, if 2 pieces of metal, the one of lead and the other of silver
 
 He says:
 
-{{< q a="Sulzer" >}}
+{{< r a="Sulzer" >}}
 It is not probable that this contact of the 2 metals causes a solution of either of them, liberating particles which might affect the tongue. The contact thus sets up a vibration in their particles. These affect the nerves of the tongue and produces the taste in question.
-{{< /q >}}
+{{< /r >}}
 
 
 This was not suspected to be connected with electrical phenomena.
@@ -81,22 +81,22 @@ The leader of the last-named party was Alessandro Volta (b. 1745, d. 1827), Prof
 In 1792, he put forward the view[6] that the stimulus in Galvani's experiment is derived essentially from the connexion of two different metals by a moist body.
 
 
-{{< q a="Volta" >}}
+{{< l a="Volta" >}}
 The metals used in the experiments, being applied to the moist bodies of animals, can by themselves, and of their proper virtue, excite and dislodge the electric fluid from its state of rest; so that the organs of the animal act only passively.
-{{< /q >}}
+{{< /l >}}
 
 
 At first he inclined to combine this theory of metallic stimulus with a certain degree of belief in such a fluid as Galvani had supposed, but after the end of 1793 he denied the existence of animal electricity altogether.
 
 From this standpoint Volta continued his experiments and worked out his theory. The following quotation from a letter[7] which he wrote later to Gren, the editor of the Neues Journal d. Physik, sets forth his view in a more developed form:
 
-{{< q a="Volta" >}}
+{{< l a="Volta" >}}
 “The contact of different conductors, particularly the metallic, including pyrites and other minerals, as well as charcoal, which I call dry conductors, or of the first class, with moist conductors, or conductors of the second class, agitates or disturbs the electric fluid, or gives it a certain impulse. Do not ask in what manner: it is enough that it is a principle, and a general principle. 
 
 This impulse, whether produced by attraction or any other force, is different or unlike, both in regard to the different metals and to the different moist conductors; so that the direction, or at least the power, with which the electric fluid is impelled or excited, is different when the conductor A is applied to the conductor B, or to another C.
 
 In a perfect circle of conductors, where either one of the second class is placed between two different from each other of the first class, or, contrariwise, one of the first class is placed between two of the second class different from each other, an electric stream is occasioned by the predominating force either to the right or to the left-a circulation of this fluid, which ceases only when the circle is broken, and which is renewed when the circle is again rendered complete."
-{{< /q >}}
+{{< /l >}}
 
 
 Another philosopher who, like Volta, denied the existence of a fluid peculiar to animals, but who took a somewhat different view of the origin of the phenomenon, was Giovanni Fabroni, of Florence (b. 1752, d. 1822). 
