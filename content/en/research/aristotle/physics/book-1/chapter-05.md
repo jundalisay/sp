@@ -16,10 +16,7 @@ All thinkers agree in making the contraries principles, both those who describe 
 Even Parmenides treats hot and cold as principles under the names of fire and earth.
 
 
-The same is true of Democritus also, with his plenum and void, both of which exist, be says, the one as being, the other as not-being. Again he speaks of differences in position, shape, and
-order, and these are genera of which the species are contraries, namely, of position,
-above and below, before and behind; of shape, angular and angle-less, straight and
-round.
+The same is true of Democritus also, with his plenum and void, both of which exist, be says, the one as being, the other as not-being. Again he speaks of differences in position, shape, and order, and these are genera of which the species are contraries, namely, of position, above and below, before and behind; of shape, angular and angle-less, straight and round.
 
 They all in one way or another identify the contraries with the principles. And with good reason. For first principles must not be derived from one another nor from anything else, while everything has to be derived from them. 
 
@@ -71,16 +68,9 @@ make hot and cold, or again moist and dry, the conditions of becoming; while oth
 make odd and even, or again Love and Strife; and these differ from each other in the
 way mentioned.
 
-Hence their principles are in one sense the same, in another different; different certainly,
-as indeed most people think, but the same inasmuch as they are analogous; for all are
-taken from the same table of columns, some of the pairs being wider, others narrower in
+Hence their principles are in one sense the same, in another different; different certainly, as most people think, but the same inasmuch as they are analogous; for all are taken from the same table of columns, some of the pairs being wider, others narrower in
 extent. 
 
-In this way then their theories are both the same and different, some better, some
-worse; some, as I have said, take as their contraries what is more knowable in the order
-of explanation, others what is more familiar to sense. (The universal is more knowable
-in the order of explanation, the particular in the order of sense: for explanation has to do
-with the universal, sense with the particular.) ‘The great and the small’, for example,
-belong to the former class, ‘the dense and the rare’ to the latter.
+In this way then their theories are both the same and different, some better, some worse; some, as I have said, take as their contraries what is more knowable in the order of explanation, others what is more familiar to sense. (The universal is more knowable in the order of explanation, the particular in the order of sense: for explanation has to do with the universal, sense with the particular.) ‘The great and the small’, for example, belong to the former class, ‘the dense and the rare’ to the latter.
 
 It is clear then that our principles must be contraries.

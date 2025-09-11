@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4
 linkTitle: Substance
-title: "The Substance of Convertibility: Neutrons"
+title: "The Substance of Convertibility: Neutrons and High Energy Neutrinos"
 # date: 2024-07-14
 image: /photos/physics/neutronstar.jpg
 description: "Neutrons are the Substance of Convertibility"
@@ -14,14 +14,26 @@ toc: false
 ---
 
 
-Neutrons are the substance of convertibility. They are:
-- responsible for the conversion of elements from one to another. 
-- made up of 3 quarks (qom)
+Neutrons and high energy neutrinos are the substance of convertibility.
+
+
+- Neutrons change matter via decay 
+- Neutrinos change the structure of the universe by transferring energy to matter
+
+<!-- responsible for the conversion of elements from one to another. 
+- made up of 3 quarks (qom) -->
 
 
 <!-- Coulomb collisions. 
 
 Beta decay.  -->
+
+
+## Neutrons 
+
+
+
+
 
 
 ### Neutron Stars
@@ -46,4 +58,10 @@ Young, energetic neutron stars are not so much affected by neighboring stars. Th
 Magnetars are pulsars that are very energyetic. 
 
 There are around 3,000 observable neutron stars in the our galaxy. 
+
+
+
+
+## High Energy Neutrinos 
+
 

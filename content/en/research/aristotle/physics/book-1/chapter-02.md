@@ -125,9 +125,17 @@ Their view will be, not that all things are one, but that they are nothing. ‘T
 
 Even the more recent of the ancient thinkers were in a pother lest the same thing should turn out in their hands both one and many. 
 
+So some, like Lycophron, were led to omit ‘is’.
+- Others change the mode of expression and say ‘the man has been whitened’ instead of ‘is white’, and ‘walks’ instead of ‘is walking’.
+- They fear that if they added the word ‘is’ they should be making the one to be many-as if ‘one’ and ‘being’ were always used in one and the same sense.
 
-So some, like Lycophron, were led to omit ‘is’, others to change the mode of expression and say ‘the man has been whitened’ instead of ‘is white’, and ‘walks’ instead of ‘is walking’, for fear that if they added the word ‘is’ they should be making the one to be many-as if ‘one’ and ‘being’ were always used in one and the same sense.
+What ‘is’ may be many either in:
+- definition 
+  - For example ‘to be white’ is one thing, ‘to be musical’ another, yet the same thing be both, so the one is many)
+- by division, as the whole and its parts. 
 
-What ‘is’ may be many either in definition (for example ‘to be white’ is one thing, ‘to be musical’ another, yet the same thing be both, so the one is many) or by division, as the whole and its parts. 
+<!-- On this point, they were already getting into difficulties.  -->
 
-On this point, they were already getting into difficulties. They admitted that the one was many-as if there was any difficulty about the same thing being both one and many, provided that these are not opposites; for ‘one’ may mean either ‘potentially one’ or ‘actually one’.
+They admitted that the one was many. 
+
+As if there was any difficulty about the same thing being both one and many, provided that these are not opposites; for ‘one’ may mean either ‘potentially one’ or ‘actually one’.

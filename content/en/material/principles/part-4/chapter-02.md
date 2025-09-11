@@ -3,12 +3,11 @@ heading: "Chapter 2"
 linkTitle: Sublayers
 title: "The Upper, Middle, and Lower Convertible"
 # date: 2023-12-10
-image: /photos/physics/galaxy.jpg
 description: "The Upper Radiant is the realm of the multiverse."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 10
+weight: 4
 icon: "Juan"
 ---
 
@@ -20,9 +19,16 @@ The Convertible Layer is divided into Upper, Middle, and Lower Sublayers.
 
 Sublayer | Example | Quanta 
 --- | --- | --- 
+Upper | W Z Bosons | Neutrinos
+Mid | Intramolecular | 
+Lower | Intermolecular | 
+
+
+<!-- Sublayer | Example | Quanta 
+--- | --- | --- 
 Upper | Flavor Changing | Z+ Boson
 Mid | Chemical reactivity and Radioactivity | Z- Boson
-Lower | Chemical changes | W Boson
+Lower | Chemical changes | W Boson -->
 
 
 ### The Convertible Internal Boundary: X17

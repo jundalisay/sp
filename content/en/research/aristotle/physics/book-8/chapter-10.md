@@ -66,11 +66,11 @@ so we may call this time ZH.
 
 That being so, by continually taking a greater magnitude in
 this way I shall never arrive at the full AB, whereas I shall always be getting a lesser
-fraction of the time given. Therefore the force must be infinite, since it exceeds any finite
-force. Moreover the time occupied by the action of any finite force must also be finite:
-for if a given force moves something in a certain time, a greater force will do so in a
-lesser time, but still a definite time, in inverse proportion. But a force must always be
-infinite-just as a number or a magnitude is-if it exceeds all definite limits. 
+fraction of the time given. 
+
+Therefore the force must be infinite, since it exceeds any finite force. 
+
+Moreover the time occupied by the action of any finite force must also be finite: for if a given force moves something in a certain time, a greater force will do so in a lesser time, but still a definite time, in inverse proportion. But a force must always be infinite-just as a number or a magnitude is-if it exceeds all definite limits. 
 
 This point may also be proved in another way-by taking a finite magnitude in which there resides a force the same in kind as that which resides in the infinite magnitude, so that this force will be a measure of the finite force residing in the infinite magnitude.
 

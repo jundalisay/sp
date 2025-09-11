@@ -1,5 +1,6 @@
 ---
-heading: Chapters 1-2
+heading: Chapter 1 
+  # Chapters 1-2
 title: "The Principles of Physics"
 date: 2024-09-08
 weight: 2
@@ -11,7 +12,7 @@ writer:
 ---
 
 
-### CHAPTER 1
+<!-- ### CHAPTER 1 -->
 
 <!-- WHEN the objects of an inquiry, in any department, have , it is through  with these that knowledge, that is to say -->
 Scientific knowledge of objects of inquiry is attained through the acquaintance of their principles, conditions, or elements.
