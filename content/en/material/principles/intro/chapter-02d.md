@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8b"
+heading: "Chapter 2d"
 title: "Force and Non Force Ratio (Quantum Spin)"
 # date: 2024-01-02
 image: "/photos/meta/yinyang.jpg"
@@ -7,12 +7,12 @@ description: "Quantum Spin is the ratio between force and non force particles"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 32
+weight: 7
 icon: "Juan"
 ---
 
 
-Chapter 3 explained the MSQ model. 
+Chapter 3 will explain the MSQ model. 
 
 The media are force particles that go into substances and quanta (which are non force particles).
 - The force particles are bolts

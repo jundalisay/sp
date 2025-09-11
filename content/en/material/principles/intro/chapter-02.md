@@ -1,10 +1,9 @@
 ---
 heading: "Chapter 2"
-linkTitle: Sublayers
-title: "The Sublayers and the Internal Boundary"
-# date: 2023-11-02
-image: /graphics/super/layers.jpg
-description: "The Sublayers are due to the 3 influences"
+title: "Polarities"
+# date: 2024-01-02
+image: "/photos/meta/yinyang.jpg"
+description: "The 2 Forces of Positive and Negative create a duality in the physical domain"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,205 +12,116 @@ icon: "Juan"
 ---
 
 
-{{< dc t="Principles (click to expand)" >}}
+{{< dc t="Principles" >}}
 Principles | Assertions
 --- | ---
-There are 5 Layers in Reality | Each Layer has 3 Sublayers Representing 3 Influences 
+The 2 Forces in Physical Reality | This manifests as polarities in the 5 Layers
 {{< /dc >}}
 
 
-Chapter 1 explained that the universe is made up of waves categorized into 5 layers. 
+The 2 Forces act on each layer to create internal polarities
 
-Each wave moves up and down, as a result of the belligerence of the Positive and Negative Forces, from its zero level.
+This leads to vibrational waves that manifests as vortex rotation.
 
-We call this zero or average level as the **central signature or dharma** for that wave.
+These vibrations lead to 3 states as positive, netural, and negative.
 
-This means that a wave has 3 kinds depending on its relation to that central signature. It can be:
-- above that level -- we call this the subtlifying influence (sattvaguna)
-- within that level -- we call this the transformative influence (rajoguna)
-- below that level -- we call this the crudifying influence (tamoguna)
+An identity can spin independently of others, or have its spin match those of others. 
 
-{{< i s="/graphics/physics/sub.jpg" alt="Sublayers" c="The material waves are most obvious to humans which are also made up of material bodies" >}}
+- If it spins dependently, then it sticks with the collective
+- If it spins independently, then it stands out and is perceptible out of the mass or collective that it is in
 
-These [3 influences](/superphysics/principles/chapter-06b/) produce the 3 sublayers:
-- upper
-- middle
-- lower
+If it spins independently, then it can either:
+- dominate the collective, or
+- be booted out
 
+If it dominates then it makes the collective subservient to it. This will make them revolve around its spin. In the large scale this manifests as quasars.
 
-For example, the Material layer will have 3 sublayers with each with its own force or media, and quantum:
-
-Layer | Sublayer | Medium | Quantum
---- | --- | --- | ---
-Aethereal | Upper | mom1 (gas, bose condensate) | qom1 (Up-Down Quarks)
-. | Middle | mom2 (liquid) |  qom2 (Strange-Down Quark)
-. | Lower | mom3 (solid) | qom3 (Top-Bottom Quark)
+It can also dominate others while keeping the same spin direction. This manifests as galaxies in the large scale .
 
 
-{{< img src="/graphics/physics/msq.jpg" alt="Layers and sublayers in the MSQ table" cap="Each Layer is subdivided into 3 sublayers" >}}
+{{< youtube cQtvHmgQtng >}}
+
+If booted out, then it will naturally settle in a place where it can harmonize with its surrounding particles. In the spatial layer, this facilitates the expansion of the universe.
+
+It follows that a vortex is formed from energy imbalance, when one particle is stronger than the rest.
+
+This means not all phenoena has vortices. The Positive and Negative thus express themselves differently when there is a vortex or no vortex.
+
+<!-- This is described by the 4th Rule of Cartesian Motion which is about the presence of absence of vortices. 
+
+This allows us an easier way to classify the polarities in phenomena so that all phenomena happen:
+
+1. Independently
+
+This is when the identity is alone. This leads to vortex-less phenoemena. This is Negative.
+
+2. Dependently
+
+This is when the identity is not alone. This leads to vortex phenoemena. This is Positive. -->
 
 
-## The Internal Boundary
-
-Within the sublayers is an internal boundary that separates the upper from the middle and lower sublayers. 
-
-- Above the boundary, the sublayer has more quasi-physical than physical properties. 
-- Below the boundary, the sublayer has more physical ones. 
-
-For example, a well known boundary is the Higgs Field which we regard as the internal boundary within the Radiant Layer.
-
-- Below the Higgs Field, particles acquire measurable **potential energy**, called mass in Modern Physics, in Million electron Volts or MeV.  
-- Above the Higgs Field, particles such as photons and 'gravitons' have no mass. This is because particles above the boundary are kinetic instead of potential. 
-
-
-This gives us 5 Boundaries:
-
-Boundary | Physics Name | Description
+Layer | Positive | Negative
 --- | --- | ---
-Aethereal Internal Boundary (aib) | Edge of Identity | Separates aethereal identities that can be split up
-Spatial Internal Boundary (sib) | Edge of Universe | Separates space from aetherspace
-Radiant Internal Boundary (rib) | Higgs Field | Separates identities with potential energy
-Convertible Internal Boundary (cib) | X17 | Separates left-hand-interacting identities 
-Material Internal Boundary (mib) | ? | Separates "protons" from "mesons"
-
-
-<!-- identities with can be further split up (manifesting as splitting up)  that can be split up by antimatter -->
-<!-- 
-Energy and the 2 Forces manifest via Media differently in the 5 layers and each of the sublayers.
-
-Sublayer | Quantum | Media | 2 Forces
---- | --- | --- | ---
-Upper Aethereal | Mind  | Sound | Existence or Nonexistence
-Middle Aethereal | Qoa (Idea) | Sound | Consonance or Dissonance
-Lower Aethereal | Thought | Sound | Consonance or Dissonance
-Upper Spatial | Metaphysical Spacetime (Multiverses) |  |  
-Middle Spatial | Galactic Qost | Universe | Fast or slow
-Lower Spatial | Qost | Space and time within a universe | Gravity or Anti-gravity
-Upper Radiant | Muon | Mor1 (Infrared) | Bright or Dark
-Middle Radiant | Electron | Mor2 (Visible Light) | Energetic or non-energetic
-Lower Radiant | Tau | Mor3 (UV Light) | Magnetic or Nonmagnetic
-Upper Convertible | Z Boson |  |  
-Middle Convertible | W- Boson | Radioactivity | Persistence or Decay
-Lower Convertible | W+ Boson |  | 
-Upper Material | Up Quark | Gas | Persistence | Blue Charge
-Middle Material | Down Quark | Liquid | Persistence | Green Charge
-Lower Material | Strange Quark | Solid | Persistence | Red Charge
- -->
-
-<!-- Layer | Energy | Manifestation
---- | --- | ---
-Upper Aethereal | Strength of idea or feeling | 
-Lower Aethereal | Strength of idea or feeling | Sound
-Upper Spatial | Strength of a vortex (black hole) | Gravity
-Lower Spatial | Strength of a vortex (black hole) | Gravity
-Upper Radiant | Energy in a photon or electron | Heat and Light
-Lower Radiant | Energy in a photon or electron | Heat and Light
-Upper Convertible | Energy in a W Z boson | Stability
-Convertible | Energy in a W Z boson | Stability
-Material | Energy in an atomic nucleus | Identity -->
-
-
-## The Hierarchy of the Layers
-
-From the Medium-Substance-Quantum (MSQ) Table in Chapter 3, we can deduce that everything in existence has varying degrees of the following qualities:
-
-Layer | Quality
---- | --- 
-Aethereal | Audibility or Harmony 
-Spatial | Contact
-Radiant | Visible Form
-Convertible | Stability
-Material | Identifiability
-
-
-The layers work in a hierarchy.
-- The aether is the most superior and subtle
-- Matter is the most inferior and crude. 
-
-This hierarchy explains why gravity affects light and heat, but light and heat does not affect gravity. 
-
-For example, adding heat to a rock will not make it float. Shining light on a rock will reveal its identity, but not make it heavier or lighter.
-
-<!-- In Social Superphysics, this is why those who know the 5 Layers (or 5 Elements) tend to be non-democratic. This is because, in order to full utilize or maximize the benefits of Nature's hierarchy, wild democracy has to be stamped out. This increases the chances for 'Golden Ages' in a civilization.
-
-In Bio Superphysics, this hierarchy principle manifests as Homeopathy or Chinese medicine having less bad side effects than Western Medicine.  -->
-
-
-### Cleaning Up The Sciences
-
-Science was created by the Europeans who built knowledge from the bottom material layer -- the most inferior but most obvious one. 
-
-From the bottom, they worked their way up:
-
-Layer | European Discovery
---- | ---
-Matter | Contact Forces, Monetary Systems
-Convertible | Chemistry and Nuclear Reactions
-Radiant | Electricity, International Finance
-
-
-This led to a messy, fragmented, and non-intuitive system of knowledge. For example:
-- Physics is now split into Particle Physics and Quantum Physics
-- Medicine is split into Western Medicine and Alternative Medicine 
-- Economics is split into Microeconomics, Macroeconomics, Behavioral Economics, Welfare Economics, etc. 
-
-We clean up this mess by:
-- putting all knowledge into the 5 Layers, and
-- adding the 2 Forces as its operators.
-
-These then create everything in reality.
+Probability | Existing | Non-Existing
+Aethereal Vortex | Dharmic | Adharmic
+Aethereal Vortexless | Dynamic | Static 
+Spatial Vortex |  Anticlockwise Rotation | Clockwise Rotation
+Spatial Vortexless | High Pressure | Low Pressure
+Radiant Vortex | Male Charge | Female Charge
+Radiant Vortexless | Particle Spin 1/2 | Particle Spin 1 or 0 
+Convertible Vortex | Left-Handed | Right-Handed
+Convertible Vortexless | Reaction | Non-Reaction
+Material Vortex | Matter | Antimatter
+Material Vortexless | Gas | Solid
 
 
 
-## Organization of the 5 Layers in This Work
-
-The principles of Material Superphysics is organized under the following headings which become Chapters.
+{{< i s="/graphics/physics/neutralcharge.gif" a="Positive and Negative" >}}
 
 
-{{< i s="/graphics/physics/table.jpg" alt="Layers and sublayers table" >}}
+In the Probability Layer, this manifests as the possibility of being perceived or non-being perceived.
+
+<!-- > e.g. "Unicorns do not exist. Horses do." -->
 
 
-<!-- Topic | Aether | Spatial 
---- |  --- | --- 
-1 Intro | |
-2 Sublayers | |
-3a Medium | unconscious | timespace
-3b | subconscious | aetherspace
-3c | conscious | spacetime
-4a Substance | mind | time
-4b | feeling | blackhole
-4c | idea | space
-5a Quantum | subtlifying | galactic
-5b | transformative | stellar
-5c | crudifying | material
-6 Signature | perception-time | timespace 
-7 Territory |  |  
-8 Vortex | unite divide | clockwise anti
-9 Relationality | Attraction-Repulsion | 'General Relationality' | 
-10 Upper | unconscious | dark energy
-11 Mid | subconscious | dark matter | wave (zeeman) | qoc2 detection  | liquid 
-12 Lower | conscious | gravity | particle | qoc3 detection  | solid
-13 Technologies | Artificial Sentience, Sonic Fire Suppression | Levitation, Teleportation, Fusion, Fission Retardant, Non-Abrasive Precision Fabrication 
+In the Aethereal Layer, this manifests as:
+- creative or destructive.
+- energetic or non-energetic.
+
+<!-- > e.g. "Evolution speeds up the more aether that you have." -->
 
 
-Topic | Radiant | Convertible | Material 
---- | --- | --- | --- 
-1 | | | 
-2 | | | 
-3a | photon  | w boson | pion 
-3b | heat | w boson | kaon
-3c | virtual photon | z boson | eta
-4a | fire | neutron | proton
-5a | electron | e-neutrino | up-down
-5b | muon | t-neutrino | strange-charm
-5c | tau | m-neutrino | top-bottom
-6 |  |  |
-7 |  |  |
-8 | male-female | react-nonreact | matter-anti
-9 | Electromagnetism 'Special Relationality' | Feynman Diagrams | Contact Forces
-10 | carrier | qoc1 detection | gas
-11 | carrier | qoc2 detection | liquid
-12 | carrier | qoc3 detection | solid
-13 | Crystal Computers, Room Temperature Superconductors | Neutrino Disease Detectors | Stronger Materials   -->
+In the Spatial Layer, this manifests as:
+- clockwise supermassive blackholes called quasars and anticlockwise ones as galaxies
+- gravity and lack of gravity
 
-<!-- Low-High Probability -->
+<!-- > e.g. "A quasar is brighter than a galaxy" -->
+
+
+In the Radiant Layer, this manifests as:
+- a male charge for the positive charge in Physics, and female charge for the negative charge
+- particle spin 0 and 1, versus 1/2, 3/2, 5/2
+
+
+<!-- > e.g. "Like charges (male and male, female and female) repel." -->
+
+
+In the Convertible Layer, this manifests as:
+- left- and right-handed helicity
+- reaction and non-reaction
+
+<!-- . This is required in 'weak' interaction or flavor changing which we call conversion. 
+
+> e.g. "All neutrinos are left-handed and undergo flavor changing." -->
+
+
+In the Material Layer, this manifests as:
+- matter versus antimatter
+- solids versus gases
+
+<!--  color charge and anti-color charge. This is required for antimatter. 
+
+> e.g. "Matter is annihilated when it meets antimatter." -->
+
+
+The details of each duality will be explained in each Part. 

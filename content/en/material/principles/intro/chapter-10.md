@@ -12,22 +12,28 @@ icon: "Superphysics"
 ---
 
 
+
+The basic pattern is layers --> spin -> action -> relation -> force -> movement or change
+
+
 Chapter | Topic
 --- | ---
 1 | Basic Info
-2 | Layers and Sublayers
+2 | Polarity and Sublayers
 3 | Medium
 4 | Substance
 5 | Quantum 
-6 | Signature, Conservation, Actions
-7 | Layer Polarity (Vortex, Pressure)
-8 | medium1
+6 | Conservation (Unity), Signature or Spin (Identity) 
+7 | Action (Relationality or Division of Labor, Territory)
+8 | Force or Change or Phenomena (Value Creation)
+<!-- 7 | Layer Polarity (Vortex, Pressure) -->
+<!-- 8 | medium1
 9 | medium2
 10 | medium3
 11 | substance1
 12 | substance2
 13 | substance3
-14 | quantum
+14 | quantum -->
 
  <!-- Layer Relationality of Identity as Movement and Effects -->
 
