@@ -2,7 +2,7 @@
 heading: "Chapter 3c"
 title: "Intramolecular Forces"
 date: 2025-09-10
-image: /graphics/physics/spectrum.jpg
+image: /photos/physics/neutronstar.jpg
 description: "Intramolecular Forces."
 writer:
   name: Juan

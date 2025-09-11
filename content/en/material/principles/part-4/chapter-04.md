@@ -3,7 +3,7 @@ heading: Chapter 4
 linkTitle: Substance
 title: "The Substance of Convertibility: Neutrons and High Energy Neutrinos"
 # date: 2024-07-14
-image: /photos/physics/neutronstar.jpg
+image: /photos/physics/quasar.jpg
 description: "Neutrons are the Substance of Convertibility"
 weight: 16
 writer:

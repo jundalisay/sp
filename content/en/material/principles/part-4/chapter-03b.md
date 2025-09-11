@@ -2,7 +2,7 @@
 heading: "Chapter 3b"
 title: "The Forces for Particle Decay"
 date: 2025-09-10
-image: /graphics/physics/nuke.jpg
+image: /photos/physics/nuke.jpg
 description: "The Weak Force is most known by Modern Physics for particle decay."
 writer:
   name: Juan

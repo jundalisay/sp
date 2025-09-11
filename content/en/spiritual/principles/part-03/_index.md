@@ -1,5 +1,5 @@
 ---
 title: The Path of Knowledge (Jnana Yoga)
 description: ""
-image: "/photos/psych/freedom.jpg"
+image: "/photos/meta/yinyang.jpg"
 ---

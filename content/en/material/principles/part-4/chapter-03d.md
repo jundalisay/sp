@@ -2,7 +2,7 @@
 heading: "Chapter 3d"
 title: "Intermolecular Forces"
 date: 2024-12-28
-image: /graphics/physics/spectrum.jpg
+image: /photos/objects/water.jpg
 description: "Intermolecular Forces."
 writer:
   name: Juan

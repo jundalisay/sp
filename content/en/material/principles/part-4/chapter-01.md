@@ -4,7 +4,7 @@ linkTitle: Convertible
 title: "The Convertible Layer of Superphysics"
 # date: 2020-01-28
 linkTitle: "Convertible Layer"
-image: /photos/physics/elec.jpg
+image: "/photos/physics/chem.jpg"
 description: "The Convertible Layer deals with fusion and the conversion of particles into different material types"
 weight: 2
 writer:
