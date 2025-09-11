@@ -51,7 +51,7 @@ Lower | Metallic | Gives Metals their characteristics
 
 ## Intermolecular Forces
 
-These manifest as strong chemical bonds leading to specific chemical behavior.
+These are weak attractions such as hydrogen bonds that keep molecultes together.
 
 Sublayer | Name | Examples
 --- | --- | ---

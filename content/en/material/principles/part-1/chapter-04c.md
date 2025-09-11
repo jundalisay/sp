@@ -7,7 +7,7 @@ description: "According to Physics, the universe was created through a Big Bang 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 25
+weight: 22
 icon: "Juan"
 ---
 

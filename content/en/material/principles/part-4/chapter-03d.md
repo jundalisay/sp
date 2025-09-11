@@ -13,3 +13,33 @@ toc: false
 ---
 
 
+
+## Intermolecular Forces
+
+These are weak attractions such as hydrogen bonds that keep molecultes together.
+
+Sublayer | Name | Examples
+--- | --- | ---
+Upper | London Dispersion Forces | Protein folding
+Mid | Dipole–Dipole Forces | Hydrogen Bonding 
+Lower | Ion–Dipole Forces | boiling poin
+
+
+## London Dispersion Forces
+
+This is the weakest type, but very important in nonpolar substances (e.g., liquid O₂, noble gases).
+
+
+## Dipole–Dipole Forces
+
+Between molecules that have permanent dipoles (polar molecules). Example: HCl–HCl
+
+An example is hydrogen bonds.
+
+
+## Ion-Dipole
+
+This is between an ion and a polar molecule.
+
+Example: Na⁺ ions interacting with water molecules in saltwater.
+

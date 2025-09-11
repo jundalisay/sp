@@ -1,6 +1,6 @@
 ---
-title: New Age
-description: "New Age includes Theosophy and the Law of Attraction"
+title: The Path of Discipline (Raja Yoga)
+description: ""
 image: "/photos/psych/freedom.jpg"
 ---
 

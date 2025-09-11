@@ -1,7 +1,5 @@
 ---
-title: Vedic Philosophy
-description: "Vedic Philosophy"
-image: "/photos/social/poverty.jpg"
-# youtube: 6R4PY3kPQD8
+title: The Path of Knowledge (Jnana Yoga)
+description: ""
+image: "/photos/psych/freedom.jpg"
 ---
-
