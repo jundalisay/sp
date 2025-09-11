@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 4b"
-title: "Radioactive Beta Decay"
+title: "Substance of Conversion 2: Neutrons"
 # linkTitle: "Acids and Bases"
 # # date: 2024-03-17
 image: /photos/physics/elec.jpg
-description: "The Convertible layer facilitates Beta Decay"
+description: "Neutrons facilitate Decay and atomic change"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,62 +14,37 @@ toc: false
 ---
 
 
+
+Neutrons are the main substance of conversion (SOC2) mirroring the Proton which is the main substance of matter (SOM2). 
+
+They change matter via decay just as protons make atoms and elements persist.
+
+These are made up of 3 quarks.
+
+
 {{< youtube i1c07TuLqeg >}}
 
-A nucleon decays in 3 ways:
 
-1. Alpha
+### Neutron Stars
 
-This happens when a particle emits alpha particles, as 2 soms (protons) and 2 socs (neutrons). These have low penetration power and so they are easily stopped. 
+A neutron star is created when the internal fusion of a normal star stops, causing its gravity to collapse. 
 
-It damages the DNA such as the reduction of white blood cells which weakens the body's immunity. 
+This is because the spatial layer is superior to the radiant. This then makes the star's particles merge. 
 
+- Electrons merge with the protons in the atomic nuclei, creating neutrons 
+- In the process of merging, the star produces a lot of neutrinos
+- After extreme collapse, the star explodes as a supernova in a stream of neutrinos
+- This leaves behind a neutron star where the star was
 
-2. Beta 
+Physics believes that a collapsing star will:
+- turn into a neutron star or
+- turn into a black hole  
 
-This happens when a particle emits beta particles, as qors (electrons). These create less damage to the body than alpha particles. 
+As a neutron star, it can turn into a pulsar if the vortex energy is still strong. 
 
+Young, energetic neutron stars are not so much affected by neighboring stars. These emit xrays and radiowaves. 
 
-2.1. Beta Plus Decay
+Magnetars are pulsars that are very energyetic. 
 
-This is when a som (proton) turns into a soc (neutron) and releases a qoc (neutrino) and a -qor (positron)
+There are around 3,000 observable neutron stars in the our galaxy. 
 
-
-2.2. Beta Minmus Decay
-
-This is when a soc (neutron) turns into a som (proton) and releases a -qoc (antineutrino) and a qor (electron). This is more common than beta plus decay.
-
-This is used in Positron Emission Tomography.
-
-
-3. Gamma 
-
-This is releases a gamma ray which cannot be seen. 
-
-Gamma rays are used in oncology to target tumors. 
-
-
-<!-- Isotopes are the number of neutrons in a nucleon. This makes it part of the convertible layer -->
-
-
-
-
-<!-- https://youtu.be/i1c07TuLqeg -->
-
-<!-- Beta Plus Decay happens when a proton turns into a neutron when energy is added.
-
-This raises its aether beyond what is natural for a proton. 
-
-This causes it to convert into a neutron. 
-
-The excess aether is ejected into the aetherspace, creating a neutrino and a positron.
-
-This also converts an up quark into a down quark.
-
-This cancels out its rotation, giving it a neutral charge and added mass.
-
-Beta Minus Decay happens when a neutron gives off its aether.
-
-This reverses the process, turning it back to a proton, but creates an electron and anti neutrino instead.
-
- -->
