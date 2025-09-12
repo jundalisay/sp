@@ -23,7 +23,6 @@ Helmholtz discovered the law of vortex motion in a perfect liquid.
 Lucretius urged the idea that it is necessary to account for the unalterable distinguishing qualities of different kinds of matter.
 - Newton adopted this. 
 
-
 Perfect liquids that have the peculiar motion which Helmholtz calls “Wirbelbewegung”. 
 - This motion has an absolutely unalterable quality.
 
@@ -37,14 +36,20 @@ Lucretius’s atom does not explain any of the properties of matter without attr
 
 Every other property of matter has similarly required an assumption of specific forces pertaining to the atom.
 
-It is easy (and as improbable—not more so) to assume whatever specific forces may be required in any portion of matter which possesses the “Wirbelbewegung,” as in a solid indivisible piece of matter; 
+It is easy (and as improbable—not more so) to 
+
+I assume that whatever forces in matter has the “Wirbelbewegung” as in a solid indivisible piece of matter.
 
 Hence, the Lucretius atom has no prima facie advantage over the Helmholtz atom. 
 
-There is a hypothesis that all bodies are composed of vortex atoms in a perfect homogeneous liquid.
+**The hypothesis is that all bodies are composed of vortex atoms in a perfect homogeneous liquid.** *
 
-Helmholtz witnessed a magnificent display of smoke-rings in Professor Tait’s lecture-room. It eliminated one  assumption required to explain the properties of matter on vortex atoms. 
+{{< n n="The error in Kelvin's hypothesis is to assume that the vortices were physical. In reality, the liquid vortices are called the gluon field that binds quarks that fluctuate in position. Instead of focusing on the solidity of atoms, Kelving focuses on the gas-mode of atoms since those gases form vortices. But this is the same error of Huygens that equated the aether to physical air" >}}
 
+
+Helmholtz witnessed a magnificent display of smoke-rings in Professor Tait’s lecture-room. 
+
+It eliminated one  assumption required to explain the properties of matter on vortex atoms.
 
 Two smoke-rings were frequently seen to bound obliquely from one another. They shake violently from the effects of the shock. 
 
@@ -69,7 +74,9 @@ They did not require any other property in the matter whose motion composes them
 
 <!-- A full mathematical investigation of  -->
 
-Two vortex rings of any given magnitudes and velocities that pass one another in any two lines creates mutual action between themselves. This makes them never come nearer one another than a large multiple of the diameter of either. 
+Two vortex rings of any given magnitudes and velocities that pass one another in any two lines creates mutual action between themselves. 
+
+This makes them never come nearer one another than a large multiple of the diameter of either. 
 
 This is a perfectly solvable mathematical problem.
 

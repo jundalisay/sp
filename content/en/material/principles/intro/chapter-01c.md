@@ -1,13 +1,13 @@
 ---
-heading: "Chapter 10"
+heading: "Chapter 1c"
 title: "Chapter Arrangement"
-# date: 2020-01-01
+date: 2025-09-11
 image: "/photos/balancerock.jpg"
 description: "Arrangement of chapters in Material Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 203
+weight: 5
 icon: "Superphysics"
 ---
 
@@ -43,21 +43,21 @@ Name | Particle | Phenomena
 moa1 | existence space | wave as flow
 moa2 | identity space | wave as identity, quantization
 moa3 | perception space | Hilbert Space, Gauge theory
-soa1 | universe | big bootup
-soa2 | signature frequency | spin 
-soa3 | idea | shapes
+soa1 | physical existence | brahma
+soa2 | identity | spin, frequency 
+soa3 | reality | relationality
 qoa1 | subtlifying | aether drag dash
 qoa2 | transforming | ?
 qoa3 | crudifying | ?
 mos1 | timespace | subjective time operator ruled by idea
-mos2 | aetherspace | dark energy
+mos2 | aetherspace | dark energy, gluon field
 mos3 | spacetime | gravity, dark matter
 sos1 | time | arrow of time, time travel
 sos2 | blackhole | 
 sos3 | space | 
 qos1 | universal | BAOs
-qos2 | galactic | 
-qos3 | stellar |
+qos2 | galactic | galaxies
+qos3 | stellar | stars
 mor1 | photons | 
 mor2 | heat |
 mor3 | virtual photons |
@@ -67,12 +67,12 @@ sor3 | electricity |
 qor1 | electron |
 qor2 | muon |
 qor3 | tau |
-moc1 | w- boson |
-moc2 | w+ boson |
-moc3 | z boson |
+moc1 | w z bosons |
+moc2 | intramolecular forces |
+moc3 | intermolecular forces |
 soc1 | anita |
 soc2 | neutron |
-soc3 |  |
+soc3 | acids bases |
 qoc1 | electron neutrino |
 qoc2 | muon neutrino |
 qoc3 | tau neutrino |
@@ -81,7 +81,7 @@ mom2 | liquid |
 mom3 | solid |
 som1 |  |
 som2 | proton | Zeeman effect
-som3 |  |
+som3 | quasi crystal |
 qom1 | up down | 
 qom2 | charm strange |
 qom3 | top down |

@@ -7,7 +7,7 @@ description: "We replace Einstein's Relativity with Descartes' Relationality"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 38
+weight: 28
 icon: "Juan"
 ---
 

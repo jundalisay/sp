@@ -15,38 +15,83 @@ icon: "Aristotle"
 
 But calling Happiness as the Chief Good might be a mere truism. What is the real nature of Happiness? 
 
-Now this object may be easily attained, when we have discovered what is the work of man; for as in the case of flute-player, statuary, or artisan of any kind, or, more generally, all who have any work or course of action, their Chief Good and Excellence is thought to reside in their work, so it would seem to be with man, if there is any work belonging to him.
+ <!-- work -->
+This can be answered by knowing what is the purpose of man.
 
-Are we then to suppose, that while carpenter and cobbler have certain works and courses of action, Man as Man has none, but is left by Nature without a work? 
+The Chief Good and Excellence of:
+- a flute-player is his flute music
+- sculptor is his sculpture
+ 
+Their Chief Good and Excellence resides in their work.
 
-or would not one rather hold, that as eye, hand, and foot, and generally each of his members, has manifestly some special work; so too the whole Man, as distinct from all these, has some work of his own?[18]
+ <!-- so it would seem to be with man, if there is any work belonging to him. -->
 
-What then can this be? not mere life, because that plainly is shared with him even by vegetables, and we want what is peculiar to him. We must separate off then the life of mere nourishment and growth, and next will come the life of sensation: but this again manifestly is common to horses, oxen, and every animal. 
+A carpenter and cobbler have certain works and courses of action.
 
-There remains then a kind of life of the Rational Nature apt to act: and of this Nature there are two parts denominated Rational, the one as being obedient to Reason, the other as having and exerting it. 
+- The work of a harp-player is to play the harp
+- The work of a good harp-player is to play it well
+
+But what is Man's purpose?
+
+ <!-- as Man has none, but is left by Nature without a work?  -->
+
+<!-- or would not one rather hold, that as eye, hand, and foot, and generally each of his members, has manifestly some special work; so too the whole Man, as distinct from all these, has some work of his own?[18] -->
+
+<!-- What then can this be?  -->
+
+- It cannot mere life, because that is shared by plants.
+- It cannot mere sensation, because that is shared by animals.
+
+<!-- , and we want what is peculiar to him. We must separate off then the life of mere nourishment and growth, and next will come the life of sensation: but this again manifestly is common to horses, oxen, and every animal. There remains then a kind of life of -->
+
+Man's purpose is to act in the Rational Nature.
+
+<!--  apt to act: and of this Nature there are two parts denominated Rational, the one as being obedient to Reason, the other as having and exerting it. 
 
 Again, as this life is also spoken of in two ways,[19] we must take that which is in the way of actual working, because this is thought to be most properly entitled to the name. 
 
-If then the work of Man is a working of the soul in accordance with reason, or at least not independently of reason, and we say that the work of any given subject, and of that subject good of its kind, are the same in kind (as, for instance, of a harp-player and a good harp-player, and so on in every case, adding to the work eminence in the way of excellence; 
+If then the work of Man is a working of the soul in accordance with reason, or at least not independently of reason, and we say that the work of any given subject, and of that subject good of its kind, are the same in kind (as, for instance, of a harp-player and a good harp-player, and so on in every case, adding to the work eminence in the way of excellence;  -->
 
-I mean, the work of a harp-player is to play the harp, and of a good harp-player to play it well); if, I say, this is so, and we assume the work of Man to be life of a certain kind, that is to say a working of the soul, and actions with reason, and of a good man to do these things well and nobly, and in fact everything is finished off well in the way of the excellence which peculiarly belongs to it: if all this is so, then the Good of Man comes to be “a working of the Soul in the way of Excellence,” or, if Excellence admits of degrees, in the way of the best and most perfect Excellence.
+Man's purpose is to live with reason.
 
-And we must add, ἐν βίῳ τελείῳ;[20] for as it is not one swallow or one fine day that makes a spring, so it is not one day or a short time that makes a man blessed and happy.
+A good man lives with reason well and nobly.
 
-Let this then be taken for a rough sketch of the Chief Good: since it is probably the right way to give first the outline, and fill it in afterwards. 
+<!--  of a certain kind, that is to say a working of the soul, and actions , and of a good man to do these things , and in fact everything is finished off well in the way of the excellence which peculiarly belongs to it: if all this is so, then the Good of Man comes to be “a working of the Soul in the way of Excellence,” or, if Excellence admits of degrees, in the way of the best and most perfect Excellence.
 
-Any man may improve and connect what is good in the sketch, and that time is a good discoverer and co-operator in such matters: it is thus in fact that all improvements in the various arts have been brought about, for any man may fill up a deficiency.
+And we must add, ἐν βίῳ τελείῳ;[20] for as it is not one swallow or one fine day that makes a spring, so it is not one day or a short time that makes a man blessed and happy. -->
 
-You must remember also what has been already stated, and not seek for exactness in all matters alike, but in each according to the subject-matter, and so far as properly belongs to the system. 
+Let this then be taken for a rough sketch of the Chief Good.
 
-The carpenter and geometrician, for instance, enquire into the right line in different fashion: the former so far as he wants it for his work, the latter enquires into its nature and properties, because he is concerned with the truth.
+ <!-- since it is probably the right way to give first the outline, and fill it in afterwards.  -->
 
-So then should one do in other matters, that the incidental matters may not exceed the direct ones.
+Anyone may improve and connect what is good in the sketch.
 
-And again, you must not demand the reason either in all things alike,[21] because in some it is sufficient that the fact has been well demonstrated, which is the case with first principles; and the fact is the first step, i.e. starting-point or principle.
+Time is a good discoverer and co-operator in such matters.
 
-And of these first principles some are obtained by induction, some by perception,[22] some by a course of habituation, others in other different ways.
+ <!-- it is thus in fact that all improvements in the various arts have been brought about, for any man may fill up a deficiency. -->
 
-We must try to trace up each in their own nature, and take pains to secure their being well defined, because they have great influence on what follows: 
+<!-- You must remember also what has been already stated, and not seek for exactness in all matters alike, but in each according to the subject-matter, and so far as properly belongs to the system.  -->
 
-It is thought, I mean, that the starting-point or principle is more than half the whole matter, and that many of the points of enquiry come simultaneously into view thereby.
+The carpenter and geometer enquire into the right line in a different way.
+- The carpenter enquires so he can use it for his work
+- The geometer enquires into its nature and properties, because he is concerned with the truth.
+
+<!-- So then should one do in other matters, that the incidental matters may not exceed the direct ones. -->
+
+You must not ask for the reason for everything. 
+
+It is enough that the fact has been well demonstrated in order to arrive at the first principles.
+
+ <!-- and the fact is the first step, i.e. starting-point or principle. -->
+
+Of these first principles:
+- some are obtained by induction
+- some are obtained by perception
+- some are obtained by a course of habituation
+- some are obtained in other different ways.
+
+We must try to trace up each in their own nature, and take pains to secure their being well defined, because they have great influence on what follows.
+
+The starting-point or principle is more than half the whole matter.
+
+Many of the points of enquiry come simultaneously into view thereby.

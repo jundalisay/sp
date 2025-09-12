@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 2"
+heading: "Chapter 2b"
 linkTitle: Sublayers
 title: "The Sublayers and the Internal Boundary"
 # date: 2023-11-02
@@ -8,7 +8,7 @@ description: "The Sublayers are due to the 3 influences"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 5
+weight: 7
 icon: "Juan"
 ---
 

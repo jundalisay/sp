@@ -7,7 +7,7 @@ description: "The 2 Forces of Positive and Negative create a duality in the phys
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 5
+weight: 6
 icon: "Juan"
 ---
 

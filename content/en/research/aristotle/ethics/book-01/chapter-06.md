@@ -1,6 +1,6 @@
 ---
 heading: Chapter 6
-title: "What is Happiness?"
+title: "The Principle Behind Happiness"
 weight: 14
 writer:
   name: Aristotle
@@ -14,24 +14,27 @@ icon: "Aristotle"
 
 What is Happiness?
 
-Our basis for the answer should be from:
+<!-- Our basis for the answer should be from:
 - our conclusion
 - the data from our reasoning
 - the data from what is commonly said about it
 
-This is because with what is true all things which really are are in harmony, but with that which is false the true very soon jars.
+This is because with what is true all things which really are are in harmony, but with that which is false the true very soon jars. -->
 
-There is a common division of goods into 3 classes:
+Goods are commonly divided into 3 classes:
 
 1. The External
 2. Those of the soul and body
 3. Those belonging to the soul we call most properly and specially good
 
-In our definition, we assume that the actions and workings of the soul constitute Happiness. These of course belong to the soul. 
+My definition assumes that the actions and workings of the soul constitute Happiness.
+- These belong to the soul. 
 
 And so our account is a good one, at least according to this opinion, which is of ancient date, and accepted by those who profess philosophy. 
 
-Rightly too are certain actions and workings said to be the end, for thus it is brought into the number of the goods of the soul instead of the external. Agreeing also with our definition is the common notion, that the happy man lives well and does well, for it has been stated by us to be pretty much a kind of living well and doing well.
+Rightly too are certain actions and workings said to be the end, for thus it is brought into the number of the goods of the soul instead of the external. 
+
+Agreeing also with our definition is the common notion, that the happy man lives well and does well, for it has been stated by us to be pretty much a kind of living well and doing well.
 
 The points required in Happiness are found in combination in our account of it.
 
@@ -79,7 +82,10 @@ And naturally most pleasant is the obtaining one’s desires.
 
 For all these co-exist in the best acts of working: and we say that Happiness is these, or one, that is, the best of them.
 
-Still[26] it is quite plain that it does require the addition of external goods, as we have said: because without appliances it is impossible, or at all events not easy, to do noble actions: for friends, money, and political influence are in a manner instruments whereby many things are done: some things there are again a deficiency in which mars blessedness; good birth, for instance, or fine offspring, or even personal beauty: for he is not at all capable of Happiness who is very ugly, or is ill-born, or solitary and childless; 
+It still requires the addition of external goods. Without appliances it is impossible, or at all events not easy to do noble actions.
+
+Friends, money, and political influence are instruments whereby many things are done.
+
+Some things there are again a deficiency in which mars blessedness; good birth, for instance, or fine offspring, or even personal beauty: for he is not at all capable of Happiness who is very ugly, or is ill-born, or solitary and childless.
 
 Still less perhaps supposing him to have very bad children or friends, or to have lost good ones by death. As we have said already, the addition of prosperity of this kind does seem necessary to complete the idea of Happiness; hence some rank good fortune, and others virtue, with Happiness.
-

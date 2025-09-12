@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 1"
 title: "The Aethereal Layer"
-# # date: 2020-01-31
+# date: 2020-01-31
 image: /photos/physics/pulsar.jpg
 description: "The aethereal layer is the higgs field in Physics and is the highest physical layer"
 writer:

@@ -3,7 +3,7 @@ heading: Part 3
 title: "Why is the sea is salty?"
 date: 2025-05-22
 weight: 12
-description: ""
+description: "Is the sea eternally the same body, or whether it did not exist at all once and some day will exist no longer, but will dry up as some people think."
 c: "darkgoldenrod"
 writer:
   name: Aristotle 
@@ -11,46 +11,15 @@ writer:
 ---
 
 
-Why is the sea is salt?
+Why is the sea is salty?
 
-Is the sea eternally the same body, or whether it did not exist at all once and some day will exist no longer, but will dry up as some
-people think. 
+Is the sea eternally the same body, or whether it did not exist at all once and some day will exist no longer, but will dry up as some people think. 
 
-Every one admits this, that if the whole world originated the sea
-did too; for they make them come into being at the same time. It follows
-that if the universe is eternal the same must be true of the sea.
-Any one who thinks like Democritus that the sea is diminishing and
-will disappear in the end reminds us of Aesop's tales. His story was
-that Charybdis had twice sucked in the sea: the first time she made
-the mountains visible; the second time the islands; and when she sucks
-it in for the last time she will dry it up entirely.
+Every one admits this, that if the whole world originated the sea did too; for they make them come into being at the same time. It follows that if the universe is eternal the same must be true of the sea. Any one who thinks like Democritus that the sea is diminishing and will disappear in the end reminds us of Aesop's tales. His story was that Charybdis had twice sucked in the sea: the first time she made the mountains visible; the second time the islands; and when she sucks it in for the last time she will dry it up entirely.
 
-Such a tale is
-appropriate enough to Aesop in a rage with the ferryman, but not to
-serious inquirers. Whatever made the sea remain at first, whether
-it was its weight, as some even of those who hold these views say
-(for it is easy to see the cause here), or some other reason-clearly
-the same thing must make it persist for ever. They must either deny
-that the water raised by the sun will return at all, or, if it does,
-they must admit that the sea persists for ever or as long as this
-process goes on, and again, that for the same period of time that
-sweet water must have been carried up beforehand. So the sea will
-never dry up: for before that can happen the water that has gone up
-beforehand will return to it: for if you say that this happens once
-you must admit its recurrence. 
+Such a tale is appropriate enough to Aesop in a rage with the ferryman, but not to serious inquirers. Whatever made the sea remain at first, whether it was its weight, as some even of those who hold these views say (for it is easy to see the cause here), or some other reason-clearly the same thing must make it persist for ever. They must either deny that the water raised by the sun will return at all, or, if it does, they must admit that the sea persists for ever or as long as this process goes on, and again, that for the same period of time that sweet water must have been carried up beforehand. So the sea will never dry up: for before that can happen the water that has gone up beforehand will return to it: for if you say that this happens once you must admit its recurrence.
 
-If you stop the sun's course there
-is no drying agency. If you let it go on it will draw up the sweet
-water as we have said whenever it approaches, and let it descend again
-when it recedes. This notion about the sea is derived from the fact
-that many places are found to be drier now than they once were. Why
-this is so we have explained. The phenomenon is due to temporary excess
-of rain and not to any process of becoming in which the universe or
-its parts are involved. Some day the opposite will take place and
-after that the earth will grow dry once again. We must recognize that
-this process always goes on thus in a cycle, for that is more satisfactory
-than to suppose a change in the whole world in order to explain these
-facts. But we have dwelt longer on this point than it deserves.
+If you stop the sun's course there is no drying agency. If you let it go on it will draw up the sweet water as we have said whenever it approaches, and let it descend again when it recedes. This notion about the sea is derived from the fact that many places are found to be drier now than they once were. Why this is so we have explained. The phenomenon is due to temporary excess of rain and not to any process of becoming in which the universe or its parts are involved. Some day the opposite will take place and after that the earth will grow dry once again. We must recognize that this process always goes on thus in a cycle, for that is more satisfactory than to suppose a change in the whole world in order to explain these facts. But we have dwelt longer on this point than it deserves.
 
 To return to the saltness of the sea: those who create the sea once
 for all, or indeed generate it at all, cannot account for its saltness.
@@ -172,86 +141,33 @@ to fire contains heat potentially, as we see in the case of lye and
 ashes and the dry and liquid excreta of animals. Indeed those animals
 which are hottest in the belly have the hottest excreta.
 
-The action of this cause is continually making the sea more salt,
-but some part of its saltness is always being drawn up with the sweet
-water. This is less than the sweet water in the same ratio in which
-the salt and brackish element in rain is less than the sweet, and
-so the saltness of the sea remains constant on the whole. Salt water
-when it turns into vapour becomes sweet, and the vapour does not form
-salt water when it condenses again. This I know by experiment. The
-same thing is true in every case of the kind: wine and all fluids
-that evaporate and condense back into a liquid state become water.
-They all are water modified by a certain admixture, the nature of
-which determines their flavour. But this subject must be considered
-on another more suitable occasion. 
+The action of this cause is continually making the sea more salt, but some part of its saltness is always being drawn up with the sweet water. This is less than the sweet water in the same ratio in which the salt and brackish element in rain is less than the sweet, and so the saltness of the sea remains constant on the whole. Salt water when it turns into vapour becomes sweet, and the vapour does not form salt water when it condenses again. This I know by experiment. The same thing is true in every case of the kind: wine and all fluids that evaporate and condense back into a liquid state become water. They all are water modified by a certain admixture, the nature of which determines their flavour. But this subject must be considered on another more suitable occasion.
 
-For the present let us say this. The sea is there and some of it is
-continually being drawn up and becoming sweet; this returns from above
-with the rain. But it is now different from what it was when it was
-drawn up, and its weight makes it sink below the sweet water. This
-process prevents the sea, as it does rivers, from drying up except
-from local causes (this must happen to sea and rivers alike). On the
-other hand the parts neither of the earth nor of the sea remain constant
-but only their whole bulk. For the same thing is true of the earth
-as of the sea: some of it is carried up and some comes down with the
-rain, and both that which remains on the surface and that which comes
-down again change their situations. 
+For the present let us say this. The sea is there and some of it is continually being drawn up and becoming sweet; this returns from above with the rain. But it is now different from what it was when it was drawn up, and its weight makes it sink below the sweet water. This process prevents the sea, as it does rivers, from drying up except from local causes (this must happen to sea and rivers alike). On the other hand the parts neither of the earth nor of the sea remain constant but only their whole bulk. For the same thing is true of the earth as of the sea: some of it is carried up and some comes down with the rain, and both that which remains on the surface and that which comes down again change their situations.
 
-There is more evidence to prove that saltness is due to the admixture
-of some substance, besides that which we have adduced. Make a vessel
-of wax and put it in the sea, fastening its mouth in such a way as
-to prevent any water getting in. Then the water that percolates through
-the wax sides of the vessel is sweet, the earthy stuff, the admixture
-of which makes the water salt, being separated off as it were by a
-filter. It is this stuff which make salt water heavy (it weighs more
-than fresh water) and thick. The difference in consistency is such
-that ships with the same cargo very nearly sink in a river when they
-are quite fit to navigate in the sea. This circumstance has before
-now caused loss to shippers freighting their ships in a river. That
-the thicker consistency is due to an admixture of something is proved
-by the fact that if you make strong brine by the admixture of salt,
-eggs, even when they are full, float in it. It almost becomes like
-mud; such a quantity of earthy matter is there in the sea. The same
-thing is done in salting fish. 
+There is more evidence to prove that saltness is due to the admixture of some substance, besides that which we have adduced. Make a vessel of wax and put it in the sea, fastening its mouth in such a way as to prevent any water getting in. Then the water that percolates through the wax sides of the vessel is sweet, the earthy stuff, the admixture of which makes the water salt, being separated off as it were by a filter.
 
-Again if, as is fabled, there is a lake in Palestine, such that if
-you bind a man or beast and throw it in it floats and does not sink,
-this would bear out what we have said. They say that this lake is
-so bitter and salt that no fish live in it and that if you soak clothes
-in it and shake them it cleans them. The following facts all of them
-support our theory that it is some earthy stuff in the water which
-makes it salt. In Chaonia there is a spring of brackish water that
-flows into a neighbouring river which is sweet but contains no fish.
-The local story is that when Heracles came from Erytheia driving the
-oxen and gave the inhabitants the choice, they chose salt in preference
-to fish. They get the salt from the spring. They boil off some of
-the water and let the rest stand; when it has cooled and the heat
-and moisture have evaporated together it gives them salt, not in lumps
-but loose and light like snow. It is weaker than ordinary salt and
-added freely gives a sweet taste, and it is not as white as salt generally
-is. Another instance of this is found in Umbria. There is a place
-there where reeds and rushes grow. They burn some of these, put the
-ashes into water and boil it off. When a little water is left and
-has cooled it gives a quantity of salt. 
+It is this stuff which make salt water heavy (it weighs more than fresh water) and thick. The difference in consistency is such that ships with the same cargo very nearly sink in a river when they are quite fit to navigate in the sea. This circumstance has before now caused loss to shippers freighting their ships in a river. That the thicker consistency is due to an admixture of something is proved by the fact that if you make strong brine by the admixture of salt, eggs, even when they are full, float in it. It almost becomes like mud; such a quantity of earthy matter is there in the sea. The same thing is done in salting fish.
 
-Most salt rivers and springs must once have been hot. Then the original
-fire in them was extinguished but the earth through which they percolate
-preserves the character of lye or ashes. Springs and rivers with all
-kinds of flavours are found in many places. These flavours must in
-every case be due to the fire that is or was in them, for if you expose
-earth to different degrees of heat it assumes various kinds and shades
-of flavour. It becomes full of alum and lye and other things of the
-kind, and the fresh water percolates through these and changes its
-character. Sometimes it becomes acid as in Sicania, a part of Sicily.
-There they get a salt and acid water which they use as vinegar to
-season some of their dishes. In the neighbourhood of Lyncus, too,
-there is a spring of acid water, and in Scythia a bitter spring. The
-water from this makes the whole of the river into which it flows bitter.
-These differences are explained by a knowledge of the particular mixtures
-that determine different savours. But these have been explained in
-another treatise. 
 
-We have now given an account of waters and the sea, why they persist,
+There reported to be a lake in Palestine, such that if you bind a man or beast and throw it in it floats and does not sink.
+
+They say that this lake is so bitter and salt that no fish live in it and that if you soak clothes in it and shake them it cleans them. The following facts all of them support our theory that it is some earthy stuff in the water which makes it salt. 
+
+In Chaonia there is a spring of brackish water that flows into a neighbouring river which is sweet but contains no fish. 
+
+The local story is that when Heracles came from Erytheia driving the oxen and gave the inhabitants the choice, they chose salt in preference to fish. 
+
+They get the salt from the spring. They boil off some of the water and let the rest stand; when it has cooled and the heat and moisture have evaporated together it gives them salt, not in lumps but loose and light like snow. It is weaker than ordinary salt and added freely gives a sweet taste, and it is not as white as salt generally is. Another instance of this is found in Umbria. There is a place there where reeds and rushes grow. They burn some of these, put the ashes into water and boil it off. When a little water is left and has cooled it gives a quantity of salt.
+
+
+Most salt rivers and springs must once have been hot. Then the original fire in them was extinguished but the earth through which they percolate preserves the character of lye or ashes. 
+
+Springs and rivers with all kinds of flavours are found in many places. These flavours must in every case be due to the fire that is or was in them, for if you expose earth to different degrees of heat it assumes various kinds and shades of flavour. It becomes full of alum and lye and other things of the kind, and the fresh water percolates through these and changes its character. Sometimes it becomes acid as in Sicania, a part of Sicily. 
+
+There they get a salt and acid water which they use as vinegar to season some of their dishes. In the neighbourhood of Lyncus, too, there is a spring of acid water, and in Scythia a bitter spring. The water from this makes the whole of the river into which it flows bitter. These differences are explained by a knowledge of the particular mixtures that determine different savours. But these have been explained in another treatise.
+
+<!-- We have now given an account of waters and the sea, why they persist,
 how they change, what their nature is, and have explained most of
 their natural operations and affections. 
-
+ -->

@@ -12,9 +12,11 @@ icon: "Aristotle"
 ---
 
 
-There are three states in each case, two faulty either in the way of excess or defect, and one right, which is the mean state, of course all are in a way opposed to one another; 
+There are 3 states in each case, 2 faulty either in the way of excess or defect, and 1 right, which is the mean state, of course all are in a way opposed to one another.
 
-The extremes, for instance, not only to the mean but also to one another, and the mean to the extremes.
+The extremes are opposite to the mean and to one another.
+
+The mean is opposite to the extremes.
 
 For just as the half is greater if compared with the less portion, and less if compared with the greater, so the mean states, compared with the defects, exceed, whether in feelings or actions, and vice versa.
 

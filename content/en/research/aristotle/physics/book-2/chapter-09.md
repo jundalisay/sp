@@ -40,16 +40,7 @@ If then there is to be a house, such-and-such things must be made or be there al
 
 But the end is not due to these except as the matter, nor will it come to exist because of them. Yet if they do not exist at all, neither will the house, or the saw-the former in the absence of stones, the latter in the absence of iron-just as in the other case the premisses will not be true, if the angles of the triangle are not equal to two right angles.
 
-The necessary in nature, then, is plainly what we call by the name of matter, and the
-changes in it. Both causes must be stated by the physicist, but especially the end; for
-that is the cause of the matter, not vice versa; and the end is ‘that for the sake of which’,
-and the beginning starts from the definition or essence; as in artificial products, since a
-house is of such-and-such a kind, certain things must necessarily come to be or be there
-already, or since health is this, these things must necessarily come to be or be there
-already. Similarly if man is this, then these; if these, then those. Perhaps the necessary is
-present also in the definition.
+The necessary in nature, then, is plainly what we call by the name of matter, and the changes in it. Both causes must be stated by the physicist, but especially the end; for that is the cause of the matter, not vice versa; and the end is ‘that for the sake of which’, and the beginning starts from the definition or essence; as in artificial products, since a house is of such-and-such a kind, certain things must necessarily come to be or be there already, or since health is this, these things must necessarily come to be or be there already. Similarly if man is this, then these; if these, then those. Perhaps the necessary is present also in the definition.
 
-For if one defines the operation of sawing as being a certain kind of dividing, then this
-cannot come about unless the saw has teeth of a certain kind; and these cannot be unless
-it is of iron. For in the definition too there are some parts that are, as it were, its matter.
+For if one defines the operation of sawing as being a certain kind of dividing, then this cannot come about unless the saw has teeth of a certain kind; and these cannot be unless it is of iron. For in the definition too there are some parts that are, as it were, its matter.
 

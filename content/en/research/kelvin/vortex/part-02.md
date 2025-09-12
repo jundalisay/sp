@@ -85,3 +85,4 @@ The possible effect of change of temperature on the fundamental modes cannot be 
 Therefore, we cannot say that the dynamical explanation now suggested is mathematically demonstrated so far as to include the very approximate identity of the periods of the vibrating particles of the incandescent vapour with those of their corresponding fundamental modes at the lower temperature at which the vapour exhibits its remarkable absorbing-power for the sodium light.
 
 <!-- Cross section illustration of vortex around a ring -->
+

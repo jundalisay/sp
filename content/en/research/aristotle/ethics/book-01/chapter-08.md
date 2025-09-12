@@ -35,9 +35,12 @@ Absurd however it is on the other hand that the affairs of the descendants shoul
 
 If then we are to look to the end and then pronounce the man blessed, not as being so but as having been so at some previous time, surely it is absurd that when he is happy the truth is not to be asserted of him, because we are unwilling to pronounce the living happy by reason of their liability to changes, and because, whereas we have conceived of happiness as something stable and no way easily changeable, the fact is that good and bad fortune are constantly circling about the same people: for it is quite plain, that if we are to depend upon the fortunes of men, we shall often have to call the same man happy, and a little while after miserable, thus representing our happy man,
 
+
 “Chameleon-like, and based on rottenness.”
 
-Is not this the solution? that to make our sentence dependent on the changes of fortune, is no way right: for not in them stands the well, or the ill, but though human life needs these as accessories (which we have allowed already), the workings in the way of virtue are what determine Happiness, and the contrary the contrary.
+Is not this the solution?
+
+that to make our sentence dependent on the changes of fortune, is no way right: for not in them stands the well, or the ill, but though human life needs these as accessories (which we have allowed already), the workings in the way of virtue are what determine Happiness, and the contrary the contrary.
 
 The question which has been here discussed, testifies incidentally to the truth of our account of Happiness.[33] For to nothing does a stability of human results attach so much as it does to the workings in the way of virtue, since these are held to be more abiding even than the sciences: and of these last again[34] the most precious are the most abiding, because the blessed live in them most and most continuously, which seems to be the reason why they are not forgotten.
 
@@ -58,5 +61,3 @@ Why then should we not call happy the man who works in the way of perfect virtue
 Or we must add, that not only is he to live so, but his death must be in keeping with such life, since the future is dark to us, and Happiness we assume to be in every way an end and complete. And, if this be so, we shall call them among the living blessed who have and will have the things specified, but blessed as Men.[36]
 
 On these points then let it suffice to have denned thus much.
-
-

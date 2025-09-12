@@ -55,7 +55,9 @@ The four-dimensional space is described mathematically by two congruent parts or
 
 We call such a connection between the two sheets a “bridge.” We see now in the given solution, free from singularities, the mathematical representation of an elementary particle (neutron or neutrino). Characteristic of the theory we are presenting is the description of space by means of two sheets.
 
-A spatially ﬁnite bridge connects these sheets as an electrically-neutral elementary particle. This= 
+A spatially ﬁnite bridge connects these sheets as an electrically-neutral elementary particle. 
+
+This:
 - matches <!-- With this conception one not only obtains the representation of an elementary particle by using only --> the ﬁeld equations without introducing new ﬁeld quantities to describe the density of matter
 -  one is also able to understand the atomistic character of matter as well as the fact that there can be no particles of negative mass. 
 
