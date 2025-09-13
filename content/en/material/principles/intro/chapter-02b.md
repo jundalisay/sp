@@ -168,50 +168,41 @@ These then create everything in reality.
 The principles of Material Superphysics is organized under the following headings which become Chapters.
 
 
-{{< i s="/graphics/physics/table.jpg" alt="Layers and sublayers table" >}}
+Chapter | Description
+--- | ---
+1 | Intro
+2 | Sublayers
+3 | Medium
+4 | Substance
+5 | Quantum
+6 | Conservation, Spin
+7 | Action
+8 | Relationality
 
 
-<!-- Topic | Aether | Spatial 
---- |  --- | --- 
-1 Intro | |
-2 Sublayers | |
-3a Medium | unconscious | timespace
-3b | subconscious | aetherspace
-3c | conscious | spacetime
-4a Substance | mind | time
-4b | feeling | blackhole
-4c | idea | space
-5a Quantum | subtlifying | galactic
-5b | transformative | stellar
-5c | crudifying | material
-6 Signature | perception-time | timespace 
-7 Territory |  |  
-8 Vortex | unite divide | clockwise anti
-9 Relationality | Attraction-Repulsion | 'General Relationality' | 
-10 Upper | unconscious | dark energy
-11 Mid | subconscious | dark matter | wave (zeeman) | qoc2 detection  | liquid 
-12 Lower | conscious | gravity | particle | qoc3 detection  | solid
-13 Technologies | Artificial Sentience, Sonic Fire Suppression | Levitation, Teleportation, Fusion, Fission Retardant, Non-Abrasive Precision Fabrication 
+<!-- planet rotation speed = inherent vortex
+atmosphere rotation speed = sun's vortex 
+magnetic field core --> 
 
+<!-- https://www.youtube.com/watch?v=C2rNu_PfItk
 
-Topic | Radiant | Convertible | Material 
---- | --- | --- | --- 
-1 | | | 
-2 | | | 
-3a | photon  | w boson | pion 
-3b | heat | w boson | kaon
-3c | virtual photon | z boson | eta
-4a | fire | neutron | proton
-5a | electron | e-neutrino | up-down
-5b | muon | t-neutrino | strange-charm
-5c | tau | m-neutrino | top-bottom
-6 |  |  |
-7 |  |  |
-8 | male-female | react-nonreact | matter-anti
-9 | Electromagnetism 'Special Relationality' | Feynman Diagrams | Contact Forces
-10 | carrier | qoc1 detection | gas
-11 | carrier | qoc2 detection | liquid
-12 | carrier | qoc3 detection | solid
-13 | Crystal Computers, Room Temperature Superconductors | Neutrino Disease Detectors | Stronger Materials   -->
+The error begins in 7:00 when neutrinos are equated to hot dark matter. 
 
-<!-- Low-High Probability -->
+In Cartesian Physics, neutrinos would be the Water Element now called Weak Force. This is why neutrinos are revealed by liquids. 
+
+CDM are space particles of 2nd Element or Air, now called Gravitation. 
+
+CDM and neutrinos go together in Flamingo simulations because water needs air. 
+
+The aether 5th Element has a liquid nature. This is why there is an association with variable dark energy with variable neutrino mass, as opposed to material and electromagnetic masses which are fixed. 
+
+Rather, it is better to say that the mass of neutrinos are irrelevant, and so constraining their mass is useless. 
+
+This is because neutrinos use their 'mass' to propel themselves within the 2nd Element. 
+
+The main purpose of neutrinos is to provide supplementary information to photon information. This is consistent with the ANITA neutrinos. 
+
+Such information is esssential to make a teleportation map that is already used by UFOs. 
+
+So you only constrain neutrino mass when you need to make a teleportation map in real-time. We explain here: https://www.youtube.com/shorts/0tCcUN9T4oQ
+ -->

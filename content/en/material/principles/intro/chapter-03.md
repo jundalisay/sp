@@ -101,12 +101,18 @@ quark | qom
 electron | qor
 light | mor2 -->
 
-Noticably absent in Physics is the aethereal layer or element which serves as the backstage or code for the physical stage or app that interact with the audience or users, where the audience are the perceivers of phenomena. 
+Noticably absent in Physics is the aethereal layer or element which serves as:
+- the backstage for the physical stage
+- the code for the physical app
 
-This is why Physics is unable to pin down causal mechanisms just as a stage-play that does not use a backstage will lead to a messy show that has stage and backstage elements together, like how Physics mixes up cause and effect.  
+This stage and app interacts with the audience or users, where the audience are the perceivers of phenomena. 
+
+This is why Physics is unable to pin down causal mechanisms just as:
+- a stage-play that does not use a backstage will lead to a messy show that has stage and backstage elements together, like how Physics mixes up cause and effect
+- an app that does not let you access its code will not let you fix its bugs or find out the causes of app behavior
+
 
 We then integrate the Medium-Substance-Quantum model with the 5 Elements model. 
-
 
 <!-- Modern Physics was created from the lowest Material layer (Strong Force), working its way upwards to the Convertible (Weak Force) and then to the Radiant (Electromagnetic). -->
 
@@ -114,16 +120,15 @@ We then integrate the Medium-Substance-Quantum model with the 5 Elements model.
 
 Instead of the messy and arbitrary naming of Fermions, Bosons, Hadrons, Baryons, Mesons, Leptons, etc., we use base the name on:
 - whether it is a medium, substance, quantum and
-- the Layer involved. 
+- the Layer involved
 
- <!-- that the particle or force operates from.  -->
 
-Physics Concept | Superphysics Counterpart
+**Physics Concept** | **Superphysics Counterpart**
 --- | ---
 Fermions | Non Media
 Bosons | Media 
 Baryon-Hadron | Convertible-Material
-Meson-Hadron | Material (free aether as quark-antiquark pair)
+Meson-Hadron | Material (as free aetherspace)
 Leptons | Radiant-Convertible
 
 <!-- All forces such as gravity, electromagnetism, contact forces are manifestations of the 2 Forces, which are aethereal in nature. -->
@@ -139,7 +144,7 @@ Gluon | mom (Medium of Matter)
 Quark | qom (Quantum of Matter)
 
 
-{{< img src="/graphics/physics/msq.jpg" alt="Superphysics 5 Layer Model" cap="The Superphysics MSQ Model uses a simpler naming convention for particles. Note how there is no such thing as an atom-substance, but rather a proton to represent the material layer. This is consistent with the periodic table of elements, which we call vom or versions of matter, being based on proton number" >}}
+{{< img src="/graphics/physics/msq.svg" alt="Superphysics 5 Layer Model" cap="The Superphysics MSQ Model uses a simpler naming convention for particles. Note how there is no such thing as an atom-substance, but rather a proton to represent the material layer. This is consistent with the periodic table of elements, which we call vom or versions of matter, being based on proton number" >}}
 
 
 <!-- The differences between the Physics model and the Superphysics one are:
@@ -170,12 +175,3 @@ som1 (upper proton) | Element 115 (Lazar from Grays)
 som3 (lower proton) | Indestructible metals (Essassani)
 
 
-### Differences Between MSQ and Standard Model Particles 
-
-The MSQ model also exposes some differences between Particle Physics and Particle Superphysics regarding neutrons and neutrinos.
-- Physics classifies neutrinos under Electromagnetism (Radiant Layer) and neutrons under the Strong Force (Material Layer). This is because neutrinos run at nearly the speed of light and because neutrons have quarks.
-- Superphysics, on the contrary, classifies both under the Convertible Layer or Weak Force. This is because they facilitate change or the conversion of matter just like the W and Z Bosons.
-
-<!-- Matter (3 quarks) -->
-
-Each Layer will be discussed in its own Part. 

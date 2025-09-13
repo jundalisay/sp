@@ -53,7 +53,7 @@ Identity | A discrete resultant perception separate from other perceptions or a 
 Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable. Also generally adharmic since Existence is Positive.
 Instant | The minimum moment of time (Descartes, Principles of Philosophy)
 Instinct | A feeling from the subsidiary (lower) glands. (Sarkar)
-Intuition | Instant knowledge derived from the aether, which is above spacetime
+Intuition | Instant knowledge or connection derived from the aether, which is above spacetime
 Karma | Action and Reaction, or Cause and Effect. Technically, the 7th kind of philosophical relation according to David Hume.
 Knowledge | The assimilation of perceptions with, or into, the abstract mind via ideas. Also, jiṋána as the subjectivization of objects (Sarkar)
 Length Contraction | Decrease of distance within space
@@ -149,12 +149,13 @@ Gravitational Signature | | the unique code or idea that is the basis for the di
 [Magnetic Field](/material/principles/part-3/chapter-03c/) | The flow of virtual photons around that hole
 Magnetic Moment | A hole in particles for virtual photons to pass through
 Magnetism | The tendency for materials to attract and repel independent of gravitation
+Medium | how a substance is perceived
 [Monad](/material/principles/part-1/chapter-05/) | A 1-dimensional Substance
 Particle Dialectics | The use of critical feeling and critical thinking, with reference to the Dharma thorugh the aether, to arrive at the nature of a particle
 Quantum | the smallest unit of Substance
 Quantum of Aether | Qoa | Substance of idea, feeling, or the abstract mind or soul that has those ideas and feelings
 Quantum of Space-time | Qost | Invisible spacetime particles in the Spatial Layer
-[Substance](/research/descartes/meditations/part-3c/) | A Cartesian Substance subject to measurement
+[Substance](/research/descartes/meditations/part-3c/) | A Cartesian Substance subject to measurement; the essence of things or identities that we perceive
 [Spin](/material/principles/part-3/chapter-06/) | Orientation of that particle relative to the virtual photon 
 Spin Number | Ratio of Virtual Photons needed to rotate the particle. 1/2 spin means 2 virtual photons are needed for each rotation
 Spirit | An aethereal entity

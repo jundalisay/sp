@@ -12,19 +12,54 @@ icon: "Juan"
 ---
 
 
+Chapter 1 introduced the idea of abstract particle shapes which are different from actual physical point particles.
 
-Superphysics sees ideas as static metaphysical objects that have a certain [geometry](/superphysics/principles/chapter-03e). This was what Euclid's Element was all about:
+These shapes come from the belligerence between the 2 Forces, the same principle that gives 'shapes' and 'spin' to ideas.
+
+An idea can be:
+- big or small
+- powerful and viral, or weak and insignificant
+
+Likewise, particles in the abstract can be:
+- big or small
+- have strong or weak spins
+
+In the West, the concept of abstract shapes having physical effects was first known through Pythagoras. His ideas influenced Plato, leading to the Platonic solids.
+
+In Asia, this concept is:
+- in mandalas and yantras in Hinduism
+- in i-ching and bagua and in Taoism 
+
+
+<!-- Superphysics sees ideas as static metaphysical objects that have a certain [geometry](/superphysics/principles/chapter-03e). This was what Euclid's Element was all about: -->
+
+
+## The Abstract Shapes of the 5 Elements
+
+We apply the concept of abstract shapes to the quanta of the MSQ Model of the 5 Layers which was fully explained by Euclid in his book aptly called *The Elements*.
+
+Euclid | Topic | Layer 
+--- | --- | ---
+Book 1 | Triangles | Aethereal
+Book 2 | Rectangles | Spatial
+Book 3 | Circles | Radiant
+Book 4 | Circles in Squares | Convertible
+Book 5 | Ratios | Relationality
+Book 6 | Numbers | Material
 
 
 {{< i s="/graphics/physics/euclid.jpg" a="Euclid Postulates" >}}
 
-Shallow people, of course, judge with their eyes and see that Euclid was explaining shapes and so they think his book was about shapes.
+Shallow people judge with their eyes and thought that Euclid was explaining visual shapes.
+- And so they think his book was about shapes.
 
-These 3 authors were writing about the 5 Elements:
+In reality, he was talking about the dynamics of the 5 Elements.  
 
-1. Euclid
-2. Kepler
-3. Descartes
+These 3 authors were writing about the 5 Elements. Kepler and Descartes did the same in an indirect way. 
+
+<!-- 1. Euclid
+2. 
+3. Descartes -->
 
 By combining their principles and merging them with those of Taoism and Hinduism, which learned of the 5 Elements earlier than the Europeans, we can create the following shapes for the particles in Material Superphysics. 
 
