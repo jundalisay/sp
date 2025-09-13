@@ -10,8 +10,8 @@ writer:
 weight: 23
 icon: "Juan"
 toc: false
-aliases:
-  /material/signature
+# aliases:
+#   /material/signature
 ---
 
 
@@ -23,7 +23,28 @@ The Law of Conservation of Idea in Physical Reality  | This manifests as Gravita
 {{< /dc >}} -->
 
 
-Chapter 4 explained that energy and force comes from the media of the 5 layers that transfer to the substances or particles in existence.
+
+Material Superphysics uses the wave-based paradigm of Superphysics to explain physical phenomena. 
+
+Each particle is created when 2 Forces act on each other. 
+
+This creates a duality of Existence-Consciousness in the same instant.
+
+This Existence-Consciousness is called the Supreme Entity, called:
+- Substance by Descartes and Spinoza 
+- Brahma by Hinduism
+
+The Positive and Negative keep on acting on Existence-Consciousness to create:
+- the 5 Strata of Spiritual Superphysics for metaphysical phenomena
+- the 5 Elements of Bio Superphyics for living phenomena
+- the 5 Layers of Material Superphysics for physical phenomena
+
+Each of these divisions has their own wave-range.
+
+- Subtle waves exist in the metaphysical domain
+- Crude waves exist in the physical domain
+
+
 
 The amount of energy that can course through the susbtance depends on the **inherent configuration** of that substance. We call this the gravitational signature, notated as `G`.
 

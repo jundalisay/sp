@@ -26,7 +26,7 @@ This leads to 5 Conservation Laws, 1 for each Layer.
 
 Layer | Conservation Law
 --- | ---
-Aethereal | Identity
+Aethereal | Idea or Identity
 Spatial | Momentum
 Radiant | Energy 
 Convertible | Aether 
@@ -63,9 +63,12 @@ This operates in the radiant layer and is already well known in Physics. Energy 
 This actually changes the energy from electromagnetic to material motion. For example, a generator converts electromagnetic force into physical motions. 
 
 
-## The Law of Conservation of Substance
+## The Law of Conservation of Aether 
+<!-- Substance -->
 
-This operates in the convertible layer which facilitates "flavor changing" and is responsible for the diversity of the material layer below it. This is because the Conversion layer converts matter the energy and vice versa. 
+This operates in the convertible layer which facilitates particle decay and in "flavor changing" which then creates the diversity of the material layer below it. 
+
+This is because the Conversion layer converts matter the energy and vice versa. 
 
 Flavor changing is a good and natural word for this layer because traditionally this was called the Water Element. 
 
@@ -77,4 +80,3 @@ It is the wetness of water and liquids that allows both:
 ## The Law of Conservation of Mass
 
 This operates in the material layer and is already well known in Physics. Matter is facilitated by the static aetherspace and is the most crudified version of the aether. 
-

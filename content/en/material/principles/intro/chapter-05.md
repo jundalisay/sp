@@ -48,56 +48,16 @@ Book 5 | Ratios | Relationality
 Book 6 | Numbers | Material
 
 
-{{< i s="/graphics/physics/euclid.jpg" a="Euclid Postulates" >}}
+{{< i s="/graphics/physics/euclid.jpg" a="Euclid Postulates" c="The 5 Postulates match the nonrelational dynamics of the 5 Elements" >}}
+
 
 Shallow people judge with their eyes and thought that Euclid was explaining visual shapes.
 - And so they think his book was about shapes.
 
-In reality, he was talking about the dynamics of the 5 Elements.  
-
-These 3 authors were writing about the 5 Elements. Kepler and Descartes did the same in an indirect way. 
-
-<!-- 1. Euclid
-2. 
-3. Descartes -->
-
-By combining their principles and merging them with those of Taoism and Hinduism, which learned of the 5 Elements earlier than the Europeans, we can create the following shapes for the particles in Material Superphysics. 
-
-{{< i s="/graphics/physics/media.jpg" a="Shapes of Media Particles" >}}
-
-{{< i s="/graphics/physics/quantum.jpg" a="Shapes of Quantum Particles" >}}
-
-{{< dc t="How We Got These" >}}
-We derived these shapes after listing down:
-
-1. The steps in our theory of how the Supreme creates reality in real time
-
-This is the creation of particles of downgrade from idea to matter.
-
-2. The effects of the Radiant layer particles namely the photon (light) and virtual photon (magnetism)  
-
-This is how the particles interact. 
-
-3. The steps of particle decay from collisions
-
-This is the decay of particles or upgrade from matter back to the aether.
-{{< /dc >}}
+In reality, he was talking about the dynamics of the 5 Elements. Kepler and Descartes did the same in an indirect way. 
 
 
-Some of these particles do not exist in Physics which only knows 3 of the 5 Elements. 
-
-{{< youtube tWo3lzAu_X0 >}}
-
-
-This visualization will help us intuitively think of particle interactions.
-
-For example, there is currently a mystery why there is a discrepancy between the predicted mass of the W boson and the actual measured mass. 
-
-Our shapes system gives a clue that the culprit is in the neutrinos. This is because in our classification, neutrinos are in the same Layer as the W Boson, but have a flat shape.
-
-
-### How it Works
-
+## How it Works
 
 The Euclidean Postulates can be suummed up in a few words:
 
@@ -122,40 +82,72 @@ We interpret this as the left and right handed spin of the Weak Interaction
 We interpret this as the triangle created by gluon flux tubes (3 aetherspace particles). 
 
 
-
-Each quantum particle is made up aether particles which can either be:
-- round
-- flat
+Particles are divided into force and nonforce.
+- Force particles are bolts or screws
+- Nonforce particles are nuts or washers
 
 
 {{< q a="Rene Descartes" c="Principia Philosophia, Part 3, Article 87" >}}
 They are small columns, hollowed out with 3 spirals like screw-threads. This lets them pass through those narrow passages while twisting
 {{< /q >}}
 
+Force particles drill through non-force particles which we can call receivers. 
+- Motion and spin comes from force particles that are transferred to receivers
 
-These particles can be arranged in 2 ways:
-- as a plane structure
-- as a column structure
-
-
-Force particles are generally tall because this gives them power to bore through other particles. 
-
-Matter particles are generally shaped into a plane so that they can receive the force particles. 
-
+These shape-based conceptions allow us to define quantal and substantial phenomena.
 
 Physics Name | Superphysics Version
 --- | ---
 Magnetic Moment | Size of Hole of Charged (or Gendered) Particle
-Charge | Rotation Direction
-Male Charge | Rotating Positively or Anticlockwise
-Female Charge | Rotating Negatively or Clockwise
-Spin | Orientation to Virtual Photon (means particle has thickness). A + spin means 
-Electromagnetic Mass | Size (or Thickness?) of Hole to use Virtual Photons
+Electrical Charge | Abundance or Lack of Receivers (when there could be receivers)
+Male Charge | Abundance of Receiver
+Female Charge | Lack of Receiver
+Spin | Effort or Potential for Action
+Electromagnetic Mass | Depth of Hole to use Virtual Photons
 Material Mass | Aetherspace Strength
+Female Terminal (Cathode) | Entrance of electrons (positive in Physics)
+Male Terminal (Anode) | Exit of electrons (negative in Physics)
 
 
-## Why Use Particle Shapes?
+{{< i s="/graphics/physics/media.jpg" a="Shapes of Media Particles" >}}
 
-Particle shapes remove the need for Feymann diagrams. This is because Feynman used action principles to trace paths in quantum mechanics.
+{{< i s="/graphics/physics/quantum.jpg" a="Shapes of Quantum Particles" >}}
 
-However, Descartes' Physics uses vortices wherein spin is more important than paths. Rather, the path is the effect of the spin. This is how meteorologists plot typhoon movement from their eye. 
+
+## Particle Shapes Describe Particle Mechanics Better
+
+This visualization will help us intuitively think of particle interactions.
+
+Particle shapes remove the need for Feymann diagrams. This is because Feynman used action principles to trace **paths** in quantum mechanics.
+
+But the problem is that particle paths are the effect of particle **spin**. So we use particle shapes to describe the spin that will necessarily lead to paths.
+
+This is how meteorologists plot typhoon movement from their eye. 
+
+<!-- For example, there is currently a mystery why there is a discrepancy between the predicted mass of the W boson and the actual measured mass. 
+
+Our shapes system gives a clue that the culprit is in the neutrinos. This is because in our classification, neutrinos are in the same Layer as the W Boson, but have a flat shape. -->
+
+{{< youtube tWo3lzAu_X0 >}}
+
+
+{{< dc t="How We Got These" >}}
+We derived these shapes after listing down:
+
+1. The steps in our theory of how the Supreme creates reality in real time
+
+This is the creation of particles of downgrade from idea to matter.
+
+2. The effects of the Radiant layer particles namely the photon (light) and virtual photon (magnetism)  
+
+This is how the particles interact. 
+
+3. The steps of particle decay from collisions
+
+This is the decay of particles or upgrade from matter back to the aether.
+{{< /dc >}}
+
+
+{{< d t="Sept 12, 2025" >}}
+Overhauled into force (bolt) and non-force (nut) particles.
+{{< /d >}}
