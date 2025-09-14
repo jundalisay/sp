@@ -2,7 +2,6 @@
 title: "Plato's Philosophy"
 heading: "Part 7"
 weight: 14
-
 c: "indigo"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 icon: "Aristotle"
@@ -58,4 +57,3 @@ Besides, when the causes are being looked for, either all 4 must be sought or th
 
 <!-- Let us next discuss the possible difficulties with regard to the way in which each of these thinkers has spoken, and with regard to his situation relatively to the first principles.
  -->
-

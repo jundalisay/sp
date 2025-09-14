@@ -20,17 +20,11 @@ Electrons orbit the nucleus of an atom through electron shells. Unlike planetary
 - planetary orbits are within space-time
 - electron shells are within the aetherspace
 
-
 <!-- Fine structure 
-
 Lamb shift 
-
 Spin flip  -->
 
-
 When a hydrogen atom is put under a magnetic field the electrons get change position and can emit light. This causes rings of light 
-
-
 
 In "The Quantum Theory of Line-Spectra", Niels Bohr explains the mechanics of quantum theory that can work without Einstein's Special Relativity.
 
@@ -43,8 +37,6 @@ He applies this to the Zeeman effect wherein light is affected by magnetism as t
 Relativity says that the perturbations are caused by the relativity of the speed of electrons and the speed of light. 
 
 Bohr, however, says that Relativity is wrong because it does not account for all the effects. Instead, Bohr points to the aether and how it can cause changes to the angular momentum of electron via magnetism as to explain the perturbations. 
-
- <!-- light -->
 
 
 ![Bohr versus Einstein](/graphics/physics/zeeman.jpg)

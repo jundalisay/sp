@@ -1,8 +1,7 @@
 ---
 heading: "Part 15"
 title: "Defining Relative"
-weight: 18
-
+weight: 20
 c: "indigo"
 writer:
   name: Aristotle 
@@ -24,9 +23,20 @@ icon: "Aristotle"
 
 > 1. Relative terms of the first kind are numerically related either indefinitely or definitely, to numbers themselves or to 1.
 
-E.g. the double is in a definite numerical relation to 1, and that which is 'many times as great' is in a numerical, but not a definite, relation to 1, i.e. not in this or in that numerical relation to it; the relation of that which is half as big again as something else to that something is a definite numerical relation to a number; that which is n+I/n times something else is in an indefinite relation to that something, as that which is 'many times as great' is in an indefinite relation to 1; the relation of that which exceeds to that which is exceeded is numerically quite indefinite; for number is always commensurate, and 'number' is not predicated of that which is not commensurate, but that which exceeds is, in relation to that which is exceeded, so much and something more; and this something is indefinite; for it can, indifferently, be either equal or not equal to that which is exceeded.
+For example, the double is in a definite numerical relation to 1.
 
-All these relations, then, are numerically expressed and are determinations of number, and so in another way are the equal and the like and the same. For all refer to unity. Those things are the same whose substance is one; those are like whose quality is one; those are equal whose quantity is one; and 1 is the beginning and measure of number, so that all these relations imply number, though not in the same way.
+That which is 'many times as great' is in a numerical, but not a definite, relation to 1, i.e. not in this or in that numerical relation to it.
+
+The relation of that which is half as big again as something else to that something is a definite numerical relation to a number; that which is n+I/n times something else is in an indefinite relation to that something, as that which is 'many times as great' is in an indefinite relation to 1.
+
+The relation of that which exceeds to that which is exceeded is numerically quite indefinite.
+
+For number is always commensurate, and 'number' is not predicated of that which is not commensurate, but that which exceeds is, in relation to that which is exceeded, so much and something more; and this something is indefinite; for it can, indifferently, be either equal or not equal to that which is exceeded.
+
+All these relations, then, are numerically expressed and are determinations of number, and so in another way are the equal and the like and the same. For all refer to unity. 
+
+Those things are the same whose substance is one; those are like whose quality is one; those are equal whose quantity is one; and 1 is the beginning and measure of number, so that all these relations imply number, though not in the same way.
+
 
 > 2. Things that are active or passive imply an active or a passive potency and the actualizations of the potentialities; 
 
@@ -44,4 +54,3 @@ For 'that which is thinkable' implies that the thought of it is possible, but th
 Things that are by their own nature called relative are called so sometimes in these senses, sometimes if the classes that include them are of this sort; e.g. medicine is a relative term because its genus, science, is thought to be a relative term. Further, there are the properties in virtue of which the things that have them are called relative, e.g. equality is relative because the equal is, and likeness because the like is. 
 
 Other things are relative by accident; e.g. a man is relative because he happens to be double of something and double is a relative term; or the white is relative, if the same thing happens to be double and white.
-

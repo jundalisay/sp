@@ -1,8 +1,7 @@
 ---
-heading: "Part 12"
+heading: "Part 13"
 title: "Defining Quantum and Quality"
 weight: 16
-
 c: "indigo"
 writer:
   name: Aristotle 
@@ -30,36 +29,8 @@ Of the things that are quanta by their own nature some are so as substances
 
 Big and small, bigger and smaller, both in themselves and when taken relatively to each other, are by their own nature attributes of what is quantitative. 
 
-But these names are transferred to other things also. Of things that are quanta incidentally, some are so called in the sense in which it was said that the musical and the white were quanta, viz. because that to which musicalness and whiteness belong is a quantum, and some are quanta in the way in which movement and time are so; for these also are called quanta of a sort and continuous because the things of which these are attributes are divisible. 
+But these names are transferred to other things also. 
+
+Of things that are quanta incidentally, some are so called in the sense in which it was said that the musical and the white were quanta, viz. because that to which musicalness and whiteness belong is a quantum, and some are quanta in the way in which movement and time are so; for these also are called quanta of a sort and continuous because the things of which these are attributes are divisible. 
 
 I mean not that which is moved, but the space through which it is moved; for because that is a quantum movement also is a quantum, and because this is a quantum time is one.
-
-
-## Part 14
-
-"'Quality' means:
-
-1. The differentia of the essence, e.g. man is an animal of a certain quality because he is two-footed, and the horse is so because it is four-footed; and a circle is a figure of particular quality because it is without angles,-which shows that the essential differentia is a quality.
-
-This, then, is one meaning of quality-the differentia of the essence.
-
-2. In another sense, it applies to the unmovable objects of mathematics, the sense in which the numbers have a certain quality
-
-For example, the composite numbers which are not in one dimension only, but of which the plane and the solid are copies (these are those which have two or three factors); and in general that which exists in the essence of numbers besides quantity is quality; for the essence of each is what it is once, e.g. that of is not what it is twice or thrice, but what it is once; for 6 is once 6.
-
-3. All the modifications of substances that move (e.g. heat and cold, whiteness and blackness, heaviness and lightness, and the others of the sort) in virtue of which, when they change, bodies are said to alter. (4) Quality in respect of virtue and vice, and in general, of evil and good.
-
-Quality  then has 2 meanings. 
-
-One of these is the more proper.
-
-The primary quality is the differentia of the essence, and of this the quality in numbers is a part. This is because:
-
-1. It is a differentia of essences, but either not of things that move or not of them qua moving. 
-
-2. There are the modifications of things that move, qua moving, and the differentiae of movements. 
-
-Virtue and vice fall among these modifications.
-
-They indicate differentiae of the movement or activity, according to which the things in motion act or are acted on well or badly; for that which can be moved or act in one way is good, and that which can do so in another--the contrary--way is vicious. Good and evil indicate quality especially in living things, and among these especially in those which have purpose.
-

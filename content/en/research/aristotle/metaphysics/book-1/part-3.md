@@ -2,7 +2,6 @@
 title: "The Early Philosophers"
 heading: "Part 3"
 weight: 6
-
 c: "indigo"
 description: "Aristotle enumerates the principles of the early philosophers"
 icon: "Aristotle"
@@ -95,7 +94,8 @@ However true it may be that all generation and destruction proceed from some one
 
 For at least the substratum itself does not make itself change; e.g. neither the wood nor the bronze causes the change of either of them, nor does the wood manufacture a bed and the bronze a statue, but something else is the cause of the change. 
 
-To seek this is to seek the second cause, as we should say,-that from which comes the beginning of the movement. 
+To seek this is to seek the second cause that from which comes the beginning of the movement. 
+
 
 ### Those Who Say that the Universe is One: Parmenides
 

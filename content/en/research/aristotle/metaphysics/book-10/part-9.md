@@ -1,8 +1,7 @@
 ---
 heading: "Part 9"
 title: "Male and Female"
-weight: 11
-
+weight: 18
 c: "indigo"
 description: "Why do women and men have the same species, while female and male are contrary?"
 writer:
@@ -31,7 +30,9 @@ For man is here being considered on his material side, and matter does not creat
 
 Callias is definition + matter, the pale man, then, is so also, because it is the individual Callias that is pale; 
 
-man, then, is pale only incidentally. Neither do a brazen and a wooden circle, then, differ in species; and if a brazen triangle and a wooden circle differ in species, it is not because of the matter, but because there is a contrariety in the definition. But does the matter not make things other in species, when it is other in a certain way, or is there a sense in which it does? For why is this horse other than this man in species, although their matter is included with their definitions? 
+Man, then, is pale only incidentally. Neither do a brazen and a wooden circle, then, differ in species; and if a brazen triangle and a wooden circle differ in species, it is not because of the matter, but because there is a contrariety in the definition. 
+
+But does the matter not make things other in species, when it is other in a certain way, or is there a sense in which it does? For why is this horse other than this man in species, although their matter is included with their definitions? 
 
 Doubtless because there is a contrariety in the definition. For while there is a contrariety also between pale man and dark horse, and it is a contrariety in species, it does not depend on the paleness of the one and the darkness of the other, since even if both had been pale, yet they would have been other in species.
 

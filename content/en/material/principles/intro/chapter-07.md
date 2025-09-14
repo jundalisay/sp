@@ -58,7 +58,7 @@ Material | Persist and Resist Motion or Change
 
 
 
-{{< i s="/graphics/super/action.svg">}}
+{{< i s="/graphics/super/action.svg" a="Action" >}}
 
 ## Perception as Impact of Action
 
@@ -98,4 +98,10 @@ In the physical domain, this translates to more massive material objects having 
 
 But this material force is not so relevant to radiant objects such as light which is not affected by mass*. 
 
-{{< n n="Light is bent by space particles, not by matter as believed by Physics" }}
+{{< n n="Light is bent by space particles, not by matter as believed by Physics" >}}
+
+
+
+{{< d t="Sept 11, 2025" >}}
+Overhauled action to connect to relationality, impact, and force
+{{< /d >}}

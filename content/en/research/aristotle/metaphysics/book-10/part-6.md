@@ -1,7 +1,7 @@
 ---
 heading: "Part 6"
 title: "Few Versus Many"
-weight: 9
+weight: 12
 c: "indigo"
 description: "One thing has one contrary. How is one opposed to the many? How is equal opposed to the big and the small?"
 writer:

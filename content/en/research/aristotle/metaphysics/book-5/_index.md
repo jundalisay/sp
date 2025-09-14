@@ -1,8 +1,7 @@
 ---
 heading: Book 5
-linkTitle: Book 5
+# linkTitle: Book 5
 title: "Philosophical Definitions"
-
 c: "indigo"
 weight: 5
 writer:

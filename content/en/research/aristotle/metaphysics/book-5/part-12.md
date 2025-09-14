@@ -1,8 +1,7 @@
 ---
 heading: "Part 12"
 title: "Defining Potency"
-weight: 14
-
+weight: 16
 c: "indigo"
 writer:
   name: Aristotle 

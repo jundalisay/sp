@@ -1,7 +1,7 @@
 ---
 title: "Wisdom is knowledge of certain principles and causes"
 heading: "Part 1"
-weight: 1
+weight: 3
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle

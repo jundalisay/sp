@@ -1,8 +1,7 @@
 ---
 heading: Book 7
-linkTitle: Book 7
+# linkTitle: Book 7
 title: "Substances"
-
 c: "indigo"
 weight: 7
 writer:

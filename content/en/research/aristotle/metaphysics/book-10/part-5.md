@@ -1,7 +1,7 @@
 ---
 heading: "Part 5"
 title: "Aristotle explains Whether and Plurality"
-weight: 8
+weight: 10
 c: "indigo"
 description: "One thing has one contrary. How is one opposed to the many? How is equal opposed to the big and the small?"
 writer:

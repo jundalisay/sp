@@ -33,7 +33,6 @@ The error is that people think that the current perception is dependent on the p
 
 The same fallacy of treating events as not independent (as if there were a true starting point) afflicts the Monty Hall Problem.
 
-
 <!-- is a fallacy of false motion or locality.  -->
 
 The Monty Hall problem says that there are 3 doors. 
@@ -42,14 +41,22 @@ The Monty Hall problem says that there are 3 doors.
 - You choose door 1.
 - The host removes Door 2 which has nothing. 
 
-
 {{< i s="/graphics/meta/monty.jpg" a="Monty Hall Problem" >}}
 
 
 'Smart' people say to choose the other door because the odds have risen from 1/3 to 2/3.
 
-They then defend their logic by expanding the scenario to 300 doors. After choosing a door, the host opens the 298 other doors to leave only 2 doors unopened: your current choice and another door. And so you must choose that other door.
+This is because they see reality as one continuity, instead of being independent of each other.
 
+They then defend their logic by expanding the scenario to 9 doors. 
+- After you choose a door, the host opens the 8 other doors to leave only 2 doors unopened: your current choice and another door. 
+- And so you must choose that other door since that rises to 89% chance of having the prize
+
+{{< i s="/graphics/meta/monty9.jpg" a="Monty Hall expanded Problem" >}}
+
+{{< i s="/graphics/meta/monty9after.jpg" a="Monty Hall expanded Problem after" >}}
+
+But the error is in the 
 In reality, the odds in the 3 door scenario ended up as 50-50. 
 
 To extend this to 300 doors, the proper way is for the host to open 100 contiguous doors. This leaves 2 groups of doors of 100 each. The host would then ask whether you want to choose the other 100 doors over your current group. So the probability is still 50-50 and not 2/3.

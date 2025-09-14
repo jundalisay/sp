@@ -33,7 +33,11 @@ But this question is of no importance for the inquiry into sensible substance. F
 
 If we examine we find that the syllable does not consist of the letters + juxtaposition, nor is the house bricks + juxtaposition. And this is right; for the juxtaposition or mixing does not consist of those things of which it is the juxtaposition or mixing. 
 
-The same is true in all other cases; e.g. if the threshold is characterized by its position, the position is not constituted by the threshold, but rather the latter is constituted by the former. Nor is man animal + biped, but there must be something besides these, if these are matter,-something which is neither an element in the whole nor a compound, but is the substance; but this people eliminate, and state only the matter. If, then, this is the cause of the thing's being, and if the cause of its being is its substance, they will not be stating the substance itself.
+The same is true in all other cases; e.g. if the threshold is characterized by its position, the position is not constituted by the threshold, but rather the latter is constituted by the former. 
+
+Nor is man animal + biped, but there must be something besides these, if these are matter,-something which is neither an element in the whole nor a compound, but is the substance; but this people eliminate, and state only the matter. 
+
+If, then, this is the cause of the thing's being, and if the cause of its being is its substance, they will not be stating the substance itself.
 
 "(This, then, must either be eternal or it must be destructible without being ever in course of being destroyed, and must have come to be without ever being in course of coming to be. But it has been proved and explained elsewhere that no one makes or begets the form, but it is the individual that is made, i.e. the complex of form and matter that is generated. Whether the substances of destructible things can exist apart, is not yet at all clear; except that obviously this is impossible in some cases-in the case of things which cannot exist apart from the individual instances, e.g. house or utensil. Perhaps, indeed, neither these things themselves, nor any of the other things which are not formed by nature, are substances at all; for one might say that the nature in natural objects is the only substance to be found in destructible things.)
 
@@ -54,4 +58,3 @@ For a definition is a sort of number; for
 4. as number does not admit of the more and the less, neither does substance, in the sense of form, but if any substance does, it is only the substance which involves matter. 
 
 This is the generation and destruction of substances in what sense it is possible and in what sense impossible--and of the reduction of things to number.
-

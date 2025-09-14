@@ -2,7 +2,6 @@
 heading: "Part 9"
 title: "What is Movement?"
 weight: 16
-
 c: "indigo"
 description: "Philosophy treats of being qua being universally and not in respect of a part of it, and 'being' has many senses and is not used in one only"
 writer:

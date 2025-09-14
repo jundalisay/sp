@@ -1,9 +1,7 @@
-
 ---
 heading: Book 6
 title: "What is Being?"
 linkTitle: Book 6
-
 c: "indigo"
 weight: 6
 writer:

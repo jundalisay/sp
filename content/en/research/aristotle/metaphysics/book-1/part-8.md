@@ -2,7 +2,6 @@
 title: "Errors of the Platonists and Pythagoreans"
 heading: "Part 8"
 weight: 16
-
 c: "indigo"
 description: "Aristotle gives his theory of substance"
 icon: "Aristotle"
@@ -10,8 +9,6 @@ writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
 ---
-
-
 
 
 Some philosophers say that:
@@ -211,3 +208,4 @@ Are they the same numbers exhibited in the material universe, or are they differ
 
 Plato says it is different.
 - Yet even he thinks that both these bodies and their causes are numbers, but that the intelligible numbers are causes, while the others are sensible.
+

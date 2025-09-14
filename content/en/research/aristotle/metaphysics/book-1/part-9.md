@@ -2,7 +2,6 @@
 heading: "Part 9"
 title: "The Forms are not Real"
 weight: 18
-
 c: "indigo"
 description: "Aristotle denounces Plato's Forms"
 writer:
@@ -148,4 +147,4 @@ If they are specifically alike, numerous absurdities will follow, and also if th
 
 "Further, they must set up a second kind of number (with which arithmetic deals), and all the objects which are called 'intermediate' by some thinkers; and how do these exist or from what principles do they proceed? Or why must they be intermediate between the things in this sensible world and the things-themselves?
 
-"Further, the units in must each come from a prior but this is impossible.
+Further, the units in must each come from a prior but this is impossible.

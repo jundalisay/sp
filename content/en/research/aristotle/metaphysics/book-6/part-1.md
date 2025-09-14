@@ -4,8 +4,7 @@ heading: "Part 1"
 writer:
   name: Aristotle 
   url: https://en.wikipedia.org/wiki/Aristotle
-weight: 1
-
+weight: 2
 c: "indigo"
 description: "Aristotle defines The Causes of Being"
 icon: "Aristotle"
@@ -14,7 +13,9 @@ icon: "Aristotle"
 
 What are the principles and causes of the things that are of being? 
 
-There is a cause of health and of good condition. The objects of mathematics have first principles and elements and causes, and in general every science which is ratiocinative or at all involves reasoning deals with causes and principles, more or less precise, all these sciences mark off some particular being-some genus, and inquire into this, but not into being simply nor qua being, nor do they offer any discussion of the essence of the things of which they treat; 
+There is a cause of health and of good condition. 
+
+The objects of mathematics have first principles and elements and causes, and in general every science which is ratiocinative or at all involves reasoning deals with causes and principles, more or less precise, all these sciences mark off some particular being-some genus, and inquire into this, but not into being simply nor qua being, nor do they offer any discussion of the essence of the things of which they treat; 
 
 But starting from the essence-some making it plain to the senses, others assuming it as a hypothesis-they then demonstrate, more or less cogently, the essential attributes of the genus with which they deal. 
 

@@ -2,7 +2,6 @@
 heading: "Part 1"
 title: "What is Substance?"
 weight: 1
-
 c: "indigo"
 description: "Substance is the principle and cause and first part of the universe, if the universe is a whole"
 writer:

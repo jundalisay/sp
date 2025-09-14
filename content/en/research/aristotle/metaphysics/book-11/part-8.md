@@ -2,7 +2,6 @@
 heading: "Part 8"
 title: "Accidents and Luck"
 weight: 14
-
 c: "indigo"
 description: "Luck is an accidental cause at work in such events adapted to an end as are usually effected in accordance with purpose"
 writer:

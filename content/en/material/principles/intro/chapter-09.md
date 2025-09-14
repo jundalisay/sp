@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3b"
+heading: "Chapter 9"
 title: "Reorganizing the Subsciences according to the MSQ Model "
 # date: 2023-11-26
 image: "/graphics/physics/msq.jpg"

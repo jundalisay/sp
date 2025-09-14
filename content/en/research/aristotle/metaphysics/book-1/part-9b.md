@@ -2,8 +2,7 @@
 heading: "Part 9b"
 title: "The One as a Number"
 linkTitle: Part 9b
-weight: 10
-
+weight: 20
 c: "indigo"
 description: "Aristotle denounces Plato's Forms"
 writer:

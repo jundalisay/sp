@@ -1,8 +1,7 @@
 ---
 heading: "Part 1"
 title: "One versus Number"
-weight: 1
-
+weight: 2
 c: "indigo"
 description: "One is not a number; for the measure is not measures, but both the measure and the one are starting-points"
 writer:
@@ -88,3 +87,4 @@ but the relative is neither potentially nor actually substance. It is strange, t
 But many and few are predicated both apart and together of number, and long and short of the line, and both broad and narrow apply to the plane. If there is a plurality, then, of which the one term, viz. few, is always predicated, e.g. 2 (which cannot be many, for if it were many, 1 would be few), there must be also one which is absolutely many, e.g. 10 is many (if there is no number which is greater than 10), or 10,000.
 
 How then, in view of this, can number consist of few and many? Either both ought to be predicated of it, or neither; but in fact only the one or the other is predicated.
+

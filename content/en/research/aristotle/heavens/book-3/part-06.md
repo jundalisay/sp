@@ -2,7 +2,7 @@
 heading: "Part 6"
 title: "The Elements are Eternal"
 c: "darkgoldenrod"
-weight: 2
+weight: 12
 writer:
   name: Aristotle
   url: https://en.wikipedia.org/wiki/Aristotle
@@ -17,13 +17,13 @@ They cannot be eternal.
 
 It is a matter of observation that fire, water, and every simple body undergo a process of analysis, which must either continue infinitely or stop somewhere.
 
-(1) Suppose it infinite.
+1. Suppose it infinite.
 
 Then the time occupied by the process will be infinite, and also that occupied by the reverse process of synthesis. 
 
 For the processes of analysis and synthesis succeed one another in the various parts. It will follow that there are two infinite times which are mutually exclusive, the time occupied by the synthesis, which is infinite, being preceded by the period of analysis. There are thus two mutually exclusive infinites, which is impossible. 
 
-(2) Suppose, on the other hand, that the analysis stops somewhere. Then the body at which it stops will be either atomic or, as Empedocles seems to have intended, a divisible body which will yet never be divided.
+2. Suppose, on the other hand, that the analysis stops somewhere. Then the body at which it stops will be either atomic or, as Empedocles seems to have intended, a divisible body which will yet never be divided.
 
 The foregoing arguments show that it cannot be an atom; but neither can it be a divisible body which analysis will never reach. 
 

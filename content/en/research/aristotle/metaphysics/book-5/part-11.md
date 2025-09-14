@@ -1,8 +1,7 @@
 ---
 heading: "Parts 11"
 title: "Defining Prior and Posterior"
-weight: 12
-
+weight: 14
 c: "indigo"
 description: "Aristotle defines prior and posterior"
 writer:
@@ -15,7 +14,7 @@ icon: "Aristotle"
 
 'Prior' and 'posterior' are applied:
 
-1. To some things (on the assumption that there is a first, i.e. a beginning, in each class) because they are nearer some beginning determined either absolutely and by nature, or by reference to something or in some place or by certain people; 
+1. To some things (on the assumption that there is a first, i.e. a beginning, in each class) because they are nearer some beginning determined either absolutely and by nature, or by reference to something or in some place or by certain people.
 
 e.g. things are prior in place because they are nearer either to some place determined by nature (e.g. the middle or the last place), or to some chance object; and that which is farther is posterior.-
 
@@ -44,4 +43,3 @@ Some things then are called prior and posterior in this sense, others
 In a sense, therefore, all things that are called prior and posterior are so called with reference to this fourth sense; for some things can exist without others in respect of generation, e.g. the whole without the parts, and others in respect of dissolution, e.g. the part without the whole.
 
 The same is true in all other cases.
-
