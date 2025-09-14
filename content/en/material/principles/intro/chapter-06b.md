@@ -23,7 +23,6 @@ The Law of Conservation of Idea in Physical Reality  | This manifests as Gravita
 {{< /dc >}} -->
 
 
-
 Material Superphysics uses the wave-based paradigm of Superphysics to explain physical phenomena. 
 
 Each particle is created when 2 Forces act on each other. 
@@ -34,7 +33,7 @@ This Existence-Consciousness is called the Supreme Entity, called:
 - Substance by Descartes and Spinoza 
 - Brahma by Hinduism
 
-The Positive and Negative keep on acting on Existence-Consciousness to create:
+The Positive and Negative keep on acting on Substance or Existence-Consciousness to create:
 - the 5 Strata of Spiritual Superphysics for metaphysical phenomena
 - the 5 Elements of Bio Superphyics for living phenomena
 - the 5 Layers of Material Superphysics for physical phenomena
@@ -44,30 +43,33 @@ Each of these divisions has their own wave-range.
 - Subtle waves exist in the metaphysical domain
 - Crude waves exist in the physical domain
 
-
-
-The amount of energy that can course through the susbtance depends on the **inherent configuration** of that substance. We call this the gravitational signature, notated as `G`.
+The amount of energy that can course through the substance depends on the **inherent configuration** of that substance. We call this the gravitational signature, notated as `G`.
 
 {{< img src="/graphics/super/egl.jpg" alt="E = Gl" >}}
 
-Historically, this has been called:
+> The energy that courses through a substance depends on its configuration
+
+
+Historically, this configuration or inherent nature has been called:
 - dharma (for general things)
 - svadharma (for specific things)
+
+Rene Descartes described these signatures as spinning vortices, each with its own strength and direction. 
+
+{{< q a="Rene Descartes" c="The World, Chapter 8" >}}
+When the pure aether began to be divided, its division began in one part and spread out to all its parts as equally as it could. However, this equality of division could not be perfect because the division could not spread in a straight line since there was no void. Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion.
+{{< /q >}}
+
 
 In Modern Physics, this is known as the intial and inherent spin of the particle. 
 
 It defines how things interact, not only with media and forces, but also with other substances and particles, and the rest of existence. 
 
-<!-- For example:
-- the Weak Force interacts with left-handed particles
-- the people usually interact with t -->
-
-
 The gravitational signature also explains the purpose or use of a substance or thing in Nature, working within the conservation laws.
 
 The more of the 5 Layers an object exists in, the more complex its signature. 
 
-For example, each existing thing has the following components for its gravitational signature.
+For example, each physical thing has the following components for its gravitational signature.
 
 Layer | Location
 --- | ---
@@ -77,10 +79,20 @@ Radiant | Energy level
 Convertible | Ability for chemical reactions 
 Material | Persistence
 
+Assuming a thing is based on 5 units of idea, then there will be:
+- one idea in each layer if it is physical or material 
+- 3 ideas in the aether if it is metaphysical such as an elemental
 
-The Law of Conservation of Idea of Superphysics states that everything in reality is an idea of the Supreme. Each idea is unique and has a place in Existence since there is no Void in Nature.
+{{< i s="/graphics/super/spread.jpg" a="Distribution of aether" >}} 
 
-Therefore, each gravitational signature is unique since it includes the location of the identity in spacetime. This is why no 2 physical things can occupy the same space. In Modern Physics, this manifests as the Pauli Exclusion Principle.
+We call this the Law of Conservation of Idea of the Aethereal Layer which is matched by the Law of Conservation of Aether in the Convertible Layer. 
+
+The Law of Conservation of Idea states that everything in reality is an idea of the Supreme.
+- Each idea is unique and has a place in Existence since there is no Void in Nature.
+
+Therefore, each gravitational signature is unique since it includes the location of the identity in spacetime. 
+
+This is why no 2 physical things can occupy the same space. In Modern Physics, this manifests as the *Pauli Exclusion Principle*.
 
 This is why:
 - 'fermions' have specific states, but 'bosons' can bunch up
@@ -91,13 +103,13 @@ This is also why:
 - a rock is a separate identity from its mountain
 - a son is a separate identity from its parents and family  
 
-However, above the spatial layer, everything can be at one place since space is no longer relevant. At that point,the wave nature of gravitational signatures becomes obvious. This leads to different qualities of identities as nodes. 
+<!-- However, above the spatial layer, everything can be at one place since space is no longer relevant. 
+
+At that point,the wave nature of gravitational signatures becomes obvious. This leads to different qualities of identities as nodes. 
 - Some nodes can be complex with so many waves in it
 - Some nodes can be simple with just a few waves
 - Some nodes can be subtle, made of thin waves that can wrap around the thick ones
-- Some nodes can be crude, with thick waves that have less flexibility
-
-
+- Some nodes can be crude, with thick waves that have less flexibility -->
 
 <!-- This uniqueness is denoted in reality by a metaphysical signature which determines:
 
@@ -179,6 +191,4 @@ Radiant | positron :: -a(r)
 Convertible | antineutrino :: -a(c)
 Material | antihydrogen :: -a(H)
 
-
 {{< img alt="Korean BTS quantum physics" src="https://sorasystem.sirv.com/photos/btsband.jpg" cap="Gravitational signatures explain why some people are attracted and gravitate towards KPop while others are repulsed by them. In theory, this means that peace and harmony can be achieved granularly by knowing the Gravitational signatures of everyone in order to reduce the repulsion of minds, and generally by imposing higher-layer ideas like virtue (this virtue-based socio-political system is then the job of Social Superphysics)" >}} -->
-

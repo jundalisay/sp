@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 3"
-title: "The Medium-Substance-Quantum MSQ Classification"
+title: "The Medium-Substance-Quantum MSQ Model"
 # date: 2023-11-26
 image: "/graphics/physics/msq.jpg"
-description: "Material Superphysics uses Medium-Substance-Quantum Classification"
+description: "The MSQ Model is our alternative to the Standard Model of Physics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,22 +12,20 @@ icon: "Juan"
 ---
 
 
-{{< dc t="Principles" >}}
+<!-- {{< dc t="Principles" >}}
 Principles | Assertions
 --- | ---
 There are 5 Layers in Reality | The MSQ Classification makes it easier to classify things within the 5 Layers 
-{{< /dc >}}
+{{< /dc >}} -->
 
 
-
-### The Superphysics Naming Convention for Particles
+## The Superphysics Naming Convention for Particles
 
 To make Physics easier to understand, we classify everything in Existence into three:
 
 1. Medium
 2. Substance
 3. Quantum
-
 
 **Substance** is the essence of things or identities that we perceive.  
 
@@ -77,7 +75,6 @@ We can say that:
 ### The 5 Elements
 
 The ancients classified all phenomena into 5 Elements, 3 of which are known to Modern Physics:
-
 
 Superphysics "Layers" | Greek-Hindu-Chinese "Elements" | Physics "Standard Model"
 --- | --- | --- | --- 
@@ -173,5 +170,3 @@ soc1 (upper neutron) | ?
 soc3 (lower neutron) | Neutron weapons (Lazar from Grays)
 som1 (upper proton) | Element 115 (Lazar from Grays)
 som3 (lower proton) | Indestructible metals (Essassani)
-
-

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1122.5197 793.70081"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   sodipodi:docname="symmetry.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0334422"
+     inkscape:cx="561.71501"
+     inkscape:cy="425.7616"
+     inkscape:window-width="2160"
+     inkscape:window-height="1404"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="35.802681"
+       y="51.284921"
+       width="503.17281"
+       height="200.30148"
+       id="rect1" />
+    <rect
+       x="35.802681"
+       y="51.28492"
+       width="687.02443"
+       height="136.43724"
+       id="rect1-7" />
+    <rect
+       x="35.802681"
+       y="51.28492"
+       width="599.93682"
+       height="136.43724"
+       id="rect1-2" />
+    <rect
+       x="35.802681"
+       y="51.28492"
+       width="371.57378"
+       height="81.28176"
+       id="rect1-9" />
+    <rect
+       x="35.802681"
+       y="51.28492"
+       width="660.89815"
+       height="125.7932"
+       id="rect1-2-1" />
+    <rect
+       x="35.802681"
+       y="51.28492"
+       width="660.89813"
+       height="125.7932"
+       id="rect1-2-1-2" />
+    <marker
+       style="overflow:visible"
+       id="Triangle-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9-9" />
+    </marker>
+    <rect
+       x="35.802681"
+       y="51.28492"
+       width="687.02441"
+       height="136.43724"
+       id="rect1-7-7" />
+    <rect
+       x="35.802681"
+       y="51.28492"
+       width="687.02441"
+       height="136.43724"
+       id="rect1-7-7-2" />
+    <rect
+       x="35.802681"
+       y="51.28492"
+       width="680.25095"
+       height="175.14284"
+       id="rect1-2-0" />
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-2-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9-9-6" />
+    </marker>
+    <rect
+       x="35.802681"
+       y="51.28492"
+       width="585.42223"
+       height="78.378841"
+       id="rect1-9-2" />
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-2-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9-9-2" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text1"
+       style="font-size:64px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#ff5555;stroke:#00ba22;stroke-width:3.77953;stroke-dasharray:none"
+       transform="translate(680.25093,400.60297)"><tspan
+         x="35.802734"
+         y="109.51717"
+         id="tspan6"><tspan
+           style="fill:#645100;stroke:none"
+           id="tspan4">5 Layers</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1-6"
+       style="font-size:64px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9);display:inline;fill:#ff5555;stroke:#00ba22;stroke-width:3.77953;stroke-dasharray:none"
+       transform="translate(402.49754,283.07739)"><tspan
+         x="35.802734"
+         y="109.51717"
+         id="tspan10"><tspan
+           style="fill:#2200c3;stroke:none"
+           id="tspan8">Constants</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1-6-2"
+       style="font-size:64px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-9-2);display:inline;fill:#5f0081;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-dasharray:none"
+       transform="translate(276.40615,162.54023)"><tspan
+         x="35.802734"
+         y="109.51717"
+         id="tspan11">Conservation Laws</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1-1"
+       style="font-size:64px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-2);display:inline;fill:#ff5555;stroke:#00ba22;stroke-width:3.77953;stroke-dasharray:none"
+       transform="translate(136.52914,-9.2272327)"><tspan
+         x="35.802734"
+         y="109.51717"
+         id="tspan13"><tspan
+           style="stroke:none"
+           id="tspan12">PHYSICS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1-1-3"
+       style="font-size:64px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-2-0);display:inline;fill:#877c00;fill-opacity:1;stroke:#00ba22;stroke-width:3.77953;stroke-dasharray:none"
+       transform="translate(466.12897,-18.278248)"
+       x="222.27185"
+       y="0"><tspan
+         x="225.14392"
+         y="109.51717"
+         id="tspan16"><tspan
+           style="text-align:center;text-anchor:middle;stroke:none"
+           id="tspan14">MATERIAL
+</tspan></tspan><tspan
+         x="150.5199"
+         y="189.51717"
+         id="tspan18"><tspan
+           style="text-align:center;text-anchor:middle;stroke:none"
+           id="tspan17">SUPERPHYSICS</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1-3"
+       style="font-size:64px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-7);display:inline;fill:#ff5555;stroke:#00ba22;stroke-width:3.77953;stroke-dasharray:none"
+       transform="translate(100.07688,394.30467)"><tspan
+         x="35.802734"
+         y="109.51717"
+         id="tspan20"><tspan
+           style="fill:#990000;stroke:none"
+           id="tspan19">Invariance</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1-3-3"
+       style="font-size:64px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-7-7);display:inline;fill:#ff5555;stroke:#00ba22;stroke-width:3.77953;stroke-dasharray:none"
+       transform="translate(100.60807,508.2538)"><tspan
+         x="35.802734"
+         y="109.51717"
+         id="tspan22"><tspan
+           style="stroke:none"
+           id="tspan21">Symmetry</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1-3-3-1"
+       style="font-size:64px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-7-7-2);display:inline;fill:#ff5555;stroke:#00ba22;stroke-width:3.77953;stroke-dasharray:none"
+       transform="translate(30.489709,642.48019)"><tspan
+         x="35.802734"
+         y="109.51717"
+         id="tspan24"><tspan
+           style="stroke:none"
+           id="tspan23">Gauge Groups</tspan></tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000401;stroke-width:3.30182;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle)"
+       d="m 494.07683,459.78879 38.46304,-43.82353"
+       id="path1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000401;stroke-width:3.30182;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle-8)"
+       d="m 690.21209,461.79833 -37.3088,-44.81027"
+       id="path1-3" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000401;stroke-width:3.30182;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle-8-2)"
+       d="m 292.98809,569.66537 0.1127,-58.30861"
+       id="path1-3-1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000401;stroke-width:3.30182;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle-8-2-9)"
+       d="m 604.76309,336.69304 0.1127,-58.30861"
+       id="path1-3-1-89" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000401;stroke-width:3.30182;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle-8-2-2)"
+       d="m 289.93677,686.93056 0.1127,-58.30861"
+       id="path1-3-1-8" />
+  </g>
+</svg>

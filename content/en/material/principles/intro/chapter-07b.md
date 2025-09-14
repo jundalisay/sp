@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 7b"
-title: "Territories in Layers Instead of Fields"
+title: "Cognitive Scope within the Identity Space"
 # date: 2023-11-26
 image: "/graphics/physics/territories.jpg"
 description: "Gravitational Territories are the area of a gravitational signature"
@@ -12,12 +12,12 @@ icon: "Juan"
 ---
 
 
-{{< dc t="Principles (click to expand)" >}}
+<!-- {{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
 The Law of Conservation of Idea | This manifests as Gravitational Signatures
 . | Gravitational Signatures lead to Gravitational Territories whenever the Spacetime Layer is considered
-{{< /dc >}}
+{{< /dc >}} -->
 
 
 The interaction between gravitational signatures naturally lead to gravitational territories which represent the space of the identity. In Physics, this is known as fields:

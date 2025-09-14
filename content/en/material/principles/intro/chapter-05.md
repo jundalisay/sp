@@ -30,6 +30,8 @@ In Asia, this concept is:
 - in mandalas and yantras in Hinduism
 - in i-ching and bagua and in Taoism 
 
+{{< i s="/graphics/meta/bagua.png" a="Bagua" c="The Bagua is a visualization of a complex idea" >}}
+
 
 <!-- Superphysics sees ideas as static metaphysical objects that have a certain [geometry](/superphysics/principles/chapter-03e). This was what Euclid's Element was all about: -->
 
@@ -151,3 +153,4 @@ This is the decay of particles or upgrade from matter back to the aether.
 {{< d t="Sept 12, 2025" >}}
 Overhauled into force (bolt) and non-force (nut) particles.
 {{< /d >}}
+

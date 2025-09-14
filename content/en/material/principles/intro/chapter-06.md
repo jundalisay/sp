@@ -41,6 +41,13 @@ In summary:
 - this affecting of parts is called relationality
 - the job of relationality is to conserve the singleness of the unit
 
+Modern Physics sees the Conservation Laws as effect of Symmetry which is confusing cause as effect. 
+
+In contrast, Material Superphysics sees the Conservation Laws as the fundamental forces (i.e. Standard Model) as the Effect of Conservation which in turn is the effect of the Supreme Entity being a single entity. 
+
+{{< i s="/graphics/physics/symmetry.svg" a="Physics vs Superphysics" >}}
+
+
 
 ## The Law of Conservation of Identity
 

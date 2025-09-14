@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: "Substances as Manifestation of Phenomena"
 # date: 2023-11-26
-image: "/graphics/physics/medium-substance.jpg"
+image: "/photos/physics/neutrino.jpg"
 description: "Substances are what we perceive"
 writer:
   name: Juan
@@ -11,33 +11,35 @@ weight: 14
 icon: "Juan"
 ---
 
+
+Aristotle and Descartes defines substance as that which can exist by itself. 
+
 The substances in physical reality, according to Material Superysics, are:
 
-
-potential physical existence
-physical identity
-actual physical existence (physical reality)
-time
-blackhole
-space
-spectrum
-fire
-electricity
-cosmic neutrinos
-neutrons
-acids bases
-proton
-quasi crystals
-
-
-Each represents a sublayer. Of these, the representative substances are:
-
-Layer | Representative Substance
+Layer | Substances
 --- | ---
-Aethereal | Identity
-Spatial | Blackhole
-Radiant | Fire
-Convertible | Neutron (3 aetherspace)
-Material | Proton (3 aetherspace)
+Aethereal | potential physical existence or 'mahat', physical identity  or 'aham' or ego, actual physical existence or citta (physical reality)
+Spatial | time, blackhole (vortex), space
+Radiant | spectrum, fire, electricity
+Convertible | cosmic neutrinos, neutrons, acids bases
+Material | proton, quasi crystals
 
+
+These substances are part of the mega Substance that:
+- Spinoza and Descartes calls God
+- the Hindus call Brahma
+- the tao by Taoism
+- we call the Supreme Entity
+
+
+This Existing Substance is different from Pre-Existence which is called:
+- The One by Parmenides
+- the Hindus call Nirguna Brahma
+- the Tao by Taoism
+- the Absolute Entity by Superphysics
+
+
+{{< q a="Aristotle" c="Metaphysics, Book 10 Part 2" >}}
+The substance and nature of the One exists in two ways.
+{{< /q >}}
 
