@@ -98,13 +98,6 @@ A refinery is necessary in Agra, but if it is built the Taj should not be affect
 The Tajmahal is a symbol of architectural distinction and Achievement, and is the biggest building in the world made of Jamnotri is the place in the Himalyas from where Jamuna originates.
 
 
-
-
-
-
-
-
-
 52 
 
 white marble. There are three types of marbles--white, cream and supra-white. It is very diflicult to construct a building of supra white marble. The Victoria Memorial Hall in Calcutta is made of cream-coloured marble. Shah Jahan was fond of white marble, while Akbar liked red marble.
@@ -115,7 +108,9 @@ Agra, Feb. 19, 1984
 53
 
 Today Baba visited the Etmaduddaulla Park, built in memory af Etmadudaulla, the father of Meharunnissa*. Etmaduddaulla Was a nobleman and a Shia muslim by faith and his real name Was Mirza Gayas Beg. Gayas Beg moved to Agra because his relatives lived there. Agra was previously known as Agrapur and during the time of Akbar it was known as Akbarabad. Gayas Beg was awarded the title "Etmadaddullah" by Jahangir because of his reliability. Meharunnissa married Sher Afghan, the Subedar or governor of Bengal. Burdwan was then the capi- tal of Bengal. Later, when Jahangir became the Mughal emperor, Sher Afghan was killed in battle near the Burdwan railway station by the Moghul army, and his grave is located at Piir Baharam.
+
 The capital of Bengal was shifted several times-from Bur- dwan to Rajmahal, to Dhaka, to Murshidadad, and at present it is situated in Calcutta.
+
 
 Agra Feb. 17. 1984
 
@@ -126,11 +121,13 @@ A temple known as Kevala Deva temple stands nearby. shiva is the deity of the te
 
 Baba also visited the Dargah of Sheikh Salim Cisti, where the palace of Todar Mal who was the land revenue minister of Akbar, is situated. However, Baba only viewed the place from
 
+
 Agra, Feb. 21, 1984
 
 Today Baba visited a garden near the Tajmahal. While walking. He said that Meharunnissa's mother was Begum Sar- funnissa. Some controversy has arisen over the identity of her father, but Gayas Beg has been accepted as her legitimate father by most historians.
 
 Baba also said that alluvial soil is commonly found in most places in India. At some places like north Bihar, northwest U.P., Himalayan Tarai, Etah and Manipur the presence of sodium nitrate has made the soil useless for agriculture. This problem can be solved and the land can be reclaimed if acid is used to neutralise the excess of sodium nitrate in the soil. In the north and east Bengal alkaline soil has been neutralised by planting pineapple plantations, which need sixteen inches of rainfall
+
 *Meharunnisa was later married to the Mughal emperor Jahangir, after assassination of Sher Afgan.
 
 
@@ -146,5 +143,4 @@ Braja language has its influence over the dialect around Bharatpur. Dhundhari di
 The size of the sacred thread worn around the upper part of the body determines the section of Brahmanas. Rgvediya Brah- mans wear the thread above the waist, Yajurvediya Brahmans. wear the thread just below the neck, and Atharvavediya Brahmans wear it to the waist. Rgvediya Brahmans and Yajurvediya Brah- mans are mostly vegetarians, while Atharvavediya Brahmans are Hon vegetarians.
 
 If excavations of this place are done, relics and remnants of a period of 200 to 250 years earlier than the Pathan period can be found.
-
 

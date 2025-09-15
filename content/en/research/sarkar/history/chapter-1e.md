@@ -33,8 +33,12 @@ Buddhist tantrik brahmins and their Chakravartis are original titles are Banerji
 
 In North India, the Mishra brahmins were internally Tantrikas but externally they posed as Vaedikas.
 
+Natha-yoga is a blending of Shaesvism and Buddhism. 
 
-Natha-yoga is a blending of Shaesvism and Buddhism. Due to Shaevite influence, the gurus of the Natha cult were proclaimed as incarnaions of Shiva In this blending, wherever the influence of Buddhism was dominant an image of Buddha was placed over the Shiva linga as found in Kashi Rajya, where the blendings of Shaevism and Buddhism, and Buddhism and Vaesnavism are clearly evident.
+Due to Shaevite influence, the gurus of the Natha cult were proclaimed as incarnations of Shiva.
+
+In this blending, wherever the influence of Buddhism was dominant an image of Buddha was placed over the Shiva linga.
+- This is found in Kashi Rajya, where the blendings of Shaevism and Buddhism, and Buddhism and Vaesnavism are clearly evident.
 
 Lord Buddha started his propagation of Dharma from Saranatha which was previously known as Saranganatha (Saranga means Visnu). 
 
@@ -133,7 +137,4 @@ Vaesnavism had a greater influence over Ramananda than Nathism despite the fact 
 
 Puranic dharma had its heyday after the Brahman convention at Allahabad when it spread all over India.
 
-
 <!-- 31 -->
-
-

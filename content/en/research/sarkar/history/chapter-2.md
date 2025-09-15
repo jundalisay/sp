@@ -46,6 +46,58 @@ The language of their cultural expression, their mother tongue is Bhojpuri in th
 
 
 
+<!-- 42 -->
+mother tongue. If their mother tongues Bhojpuri and Bagheli had Cultural unity and synthesis based upon a truc been encouraged, communal balkanization would not have been a appreciation of human history shall demolish communalism and
+possibility.
+destroy this divisive virus.
+have all mingled together.
+
+India is a land in which several cultures and races have The five Pandavas were fair, while been blended together. Fair and dark as well as tall and short Draupadi was dark. The Turks were short in stature, while the Afghans were tall. Some Shias are dark and others are fair. Both dark and fair skinned people can be in the so-called high and low castes. All are Indians. The entire cultural phenomena of India is one. The cultural panorama, the inner cultural legacy of this ancient land, consists of a subterranean unity, based
+upon the immutable spirit of humanity.
+
+Baba also visited the Ganga Nath Jha Kendriya Sanskrit Vidyapiitha, situated within the Company Bag. This institute contains about 50,000 manuscripts, some of them on palm leaves. Some are written in Maethili script and others are in Tirhutia script. Tirhutia script is a metamorphosed form of Shrii Harsha script of Kaushambi. The latter was metamorphosed into three scripts-Tirhutia, Gauriya and Utkal. tia script is no longer in use. In Nepal, the prevalent script is Madeshi or Madhya Deshi and it is an appendicised form of Tirhutia. Metamorphosed Newari was written in this script.
+
+Tirhu-
+Gorkhali language, in Devanagri script became the official language of Nepal after 1773, when Nepal was conquered by Prithwi Narayan Shah. Carving written in Shrii Harsha script may be found after excavation since this script stopped being used only five hundred years ago. To the north of Allahabad the popular script was Sharada and to the east Kutila was used. Both began 2000 years ago, but later Kutila was transmuted into Tirhutia, Utkal and Gouriya styles. The first book of Maethili language, Varna Ratnakar, written by Jyotiriishwar Thakur, was written in Tirhutia. It was written well before Vidyapati, and is the
+oldest book in east India.
+
+Kaushambi, the capital of Maharajadhiraj Shrii Harsha, on
+
+
+
+43
+The Carmanvati river came from the
+whose name Kutila became popular, was situated on the banks of
+and the Drsdvati river came from the west and both
+the Saraswati river.
+
+Ganga and the Jamuna rivers near
+river merges into the Sona river
+grow and prosper in river valley.
+
+south
+merged
+Prayag. Later, some 1200
+near Rewa.
+
+Kaushambi
+into the Saraswati which itself merged at the confluence of the years ago, due to an earthquake the bed of the Saraswati river and the Drsdvati river-also known as the Gharghara or Ghaghra river now known as the chambal river merges into the Jamuna rose, and the river ceased to exist. Consequently the Carmanvati lost its significance due to the disappearance of the Saraswati river because most civilizations in their intermediate stages Nevertheless Shrii Harsha script was the prevalent script West Uttar Pradesh, Rajasthan and Gujrat and its lingual and up to Prayag including Rajasthan, Hariyana, and West Uttar political factors. Scriptology which is an integral part of Indian is a vast embracing term which includes social, economic and The cultural history of India should be popularised. Culture culture, should be taught as a special subject to encourage the
+from Allahabad to Assam.
+
+Nagri script was in vogue in
+cultural characteristics are well marked.
+Pradesh, while beyond this they wore sariis.
+preservation of ancient Indian languages.
+
+Women wore ghaghra
+
+Allahabad, Feb. 4, 1934
+
+Baba visited the other side of the Company Bag, today. He observed:
+
+This is the biggest garden of the world. Baba Baba told that it covers an area of 180 acres. It is properly maintained but not properly developed. Several tropical and equatorial plants of different varieties can be grown here.
+
+In Uttar Pradesh mulberry and non-mulberry silk can be grown. It is an ideal location for the development of the silk
 
 
 

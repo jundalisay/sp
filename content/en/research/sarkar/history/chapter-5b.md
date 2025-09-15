@@ -12,7 +12,9 @@ writer:
 
 
 
-The Sona and Kena rivers meet near Halands, the Sons river flows from the west and enters the Kana river from the eastern side. The Nairanjana and Mohana rivers meet and merge in the Phalgu river near Gaya, while the Phalgu river Rows from the southwest to the northeast. The Puspon river au passes through Magadh. Mahua Dandha is the water Harrier of Magadh Rivers to the south of Mahua Dhandha How towards Chissa and those to the north flow towards Gaya. 
+The Sona and Kena rivers meet near Halands, the Sons river flows from the west and enters the Kana river from the eastern side. The Nairanjana and Mohana rivers meet and merge in the Phalgu river near Gaya, while the Phalgu river Rows from the southwest to the northeast. 
+
+The Puspon river au passes through Magadh. Mahua Dandha is the water Harrier of Magadh Rivers to the south of Mahua Dhandha How towards Chissa and those to the north flow towards Gaya. 
 
 Languages for follow the same geographical pattern. 
 
@@ -24,7 +26,9 @@ Kiul, Ganga, And Phalen As already mentioned, Maga means those who changed Vedai
 Hindu Muslims share the same cultural, linguistic and acials in this area. Both have an Austrico Negroid history, hps all and both observe common rituals and tradi-
 
 Main, who came from Persia and spoke Urdu, have adopted bending of Urdu and Magahii as their language. The malen of the diabet is like Magahil. Shias live in specific thepura mahalla of Patna and the Lakhisarai on, and spat Magahil outside their homes.
+
 Magahi Matment promus pha' of 'tak liipha' (trouble), since phanty ward consonant in Magahi vocabulary.
+
 si compted of pro-definite articles viz. 'ektho, bited by two of the granddaughters of Maga- Hashi and Bhojpuri. This is not the case and Hindi. The gender and number of the verb The verb remains the same
 
 
@@ -43,7 +47,15 @@ Medninagar, 1 April, 1984
 Today Baba visited the fruit research centre at Chiyent While walking He made the following observations.
 
 The soil in Magadha belongs to old Gondwanaland # laterite soil and contains plenty of calcium. It is ideal for ing roses, papayas, grapes, and white roses. Without using fertiliser, citrus, pumpkins, berries and guavas of medium this (guavas do not need much laterite soil) can readily grow in lastRE soil with only a little fertiliser. However laterite soil is ret for grafted mangoes.
-Lemons can be grown well here but not oranges, which mostly in northeast India, including Assam. Oranges are to peel than lemons, but oranges cannot be given to a dial patient while lemons can be. Custard apples, which were brought to India by the Portugese about 450 years ago, can also be grown in Magadha. Small and large-sized grapes with seeds can b grown in sixteen or more kilometers from the Ganga, en sides of the river. Digha-variety of Langra' mango, which i small and sweet can also be grown here. The langra-mangha got five varieties which belong to Maldah, Bhagalpur, Luckn Monghyr and Digha. Roses are of two main varieties-occident and oriental. The former is a large rose but has little while the latter produces many strongly scented flowers in the winter. Liichis and bananas can be grown where the lit laterite. Composite fertiliser is the best nourishment for banana If plantation does not have proper irrigation, seeds grow in the fruit.
+
+
+Lemons can be grown well here but not oranges, which mostly in northeast India, including Assam.
+
+Oranges are to peel than lemons, but oranges cannot be given to a dial patient while lemons can be. Custard apples, which were brought to India by the Portugese about 450 years ago, can also be grown in Magadha. Small and large-sized grapes with seeds can b grown in sixteen or more kilometers from the Ganga, en sides of the river.
+
+Digha-variety of Langra' mango, which i small and sweet can also be grown here. The langra-mangha got five varieties which belong to Maldah, Bhagalpur, Luckn Monghyr and Digha. Roses are of two main varieties-occident and oriental. 
+
+The former is a large rose but has little while the latter produces many strongly scented flowers in the winter. Liichis and bananas can be grown where the lit laterite. Composite fertiliser is the best nourishment for banana If plantation does not have proper irrigation, seeds grow in the fruit.
 
 
 Afedininagar, April 2, 1963
@@ -87,28 +99,33 @@ Two famous kings of the Varahabhum Rajya were Adivaraha, and Keshavaraha.
 
 To the west of this kingdom was Ranchi, to the east Manbhum. The entire area within this boundary was known as Varahabhum and its capital was Varahbajar. Purulia, Chandil, Muri, Deogarh, Patamda, Arsa and Nimdi were included in Varahabhum rajya.
 
-The original population of Bengal consisted of people with titles like Mahato, Kurmi-mahato, Mahiaya, Sadgope, Rajvanshi and Chakma. The titles Garain which was derived from Garh- Kiirti, was also prevalent in the original population. The Gara- ins adopted Jainism as their religion. Other tribes like the Kheria-Munda, Singh munda, Khangar munda, Cussia munda, Kusmete munda also existed in Bengal. The fathers of poeple with these titles were Bengalis while the mothers belong to the Munda
+The original population of Bengal consisted of people with titles like Mahato, Kurmi-mahato, Mahiaya, Sadgope, Rajvanshi and Chakma. The titles Garain which was derived from Garh- Kiirti, was also prevalent in the original population. The Gara- ins adopted Jainism as their religion. Other tribes like the Kheria-Munda, Singh munda, Khangar munda, Cussia munda, Kusmete munda also existed in Bengal. The fathers of poeple with these titles were Bengalis while the mothers belong to the Munda community 
 
 
 <!-- 119 -->
 
-community 
-
-Culturally they were tribes but their language was
-Rach station is somposed of five river-valleys which flo- word sing the Bucanarekha, Kansavati, Dulang. Ajaya, Ku- mart and Hamday is Jainism was influential in the Damo- dar and As the valley civilizations. 
+Culturally they were tribes but their language was Rach station is somposed of five river-valleys which flo- word sing the Bucanarekha, Kansavati, Dulang. Ajaya, Ku- mart and Hamday is Jainism was influential in the Damo- dar and As the valley civilizations. 
 
 Tirthankar Mahavir Arthur cams to Raih shom years ago and his gospels were accepted by the past the Western side of Rarh, Jainism was more Influenital than Huddhism, while on the eastern side of Rarh, Buddhing way mais infusatiat Jainism had little influence in centrat Bengal white Buddhism was dominant. In east Bengal after the Palety sams to power, Hindu kings were the domi- want us and transguace Mahayani Buddhists gave up that the aged Hinduism. However, the Mahayani Borated as low aste Hindus by the Hindu commu- ay and the Fathan period, they embraced Islam. 
 
 In Chipple kept their faith in Hinayani Buddh- fum, and did not flam At present these Bengal:-spea Kinept the die Harus which is derived from Batuka, which mint great in Awam. Barua is a title used by teh
 
-The nut of Mahaprabhu Castanya Deva was very great in Back Maps propagated Vaesnavism during the middle of the Parka rate the charm of his personality and the great that the entire Jain belt Vas'naviam. In Bengal and Orissa,
+The nut of Mahaprabhu Castanya Deva was very great in Back Maps propagated Vaesnavism during the middle of the Parka rate the charm of his personality and the great that the entire Jain belt Vas'naviam. 
+
+In Bengal and Orissa,
+
 All the propham Mahaprabhuites and they used Kant'hii And beim tantumquently Jainism merged into Vacs'- navim Rack 1 tay the land of Shaevism, and Jainism had to somers with the Shiva cult and Shiva was accepted by faint this things and Gaurii plitha are evidence of Jain his A Tara Bhivating was worshipped by follow- ers of faint Augh Mahaprabhu's influence on the people was profound and they accepted Varanavism, Shiva remained. the de than adoration the Shiva temple, at Jayada still attracts the decation and duration of the local people.
-Folhas form the majority of the Muslims in Rarh; but tarains, who came from Garha-
+
 
 <!-- 120 -->
 
+Folhas form the majority of the Muslims in Rarh; but tarains, who came from Garha-kir'ti, are also treated as low caste people. 
 
-kir'ti, are also treated as low caste people. Water touched by them is not used by higher castes. Garh means place of famous learning, while Garhakiirti means a person who looked after Garh. After the decay of Jainism, Hindus began to look down on Garains. Julahas who had previously been Buddhist or Jains also met the same fate. The socio-religious dogma and discrimination caused by such caste sentiments has a divis sive impact on Indian society.
+Water touched by them is not used by higher castes. Garh means place of famous learning, while Garhakiirti means a person who looked after Garh. 
 
-The influence of Maha'prabhu was very great in Tripura: A clan from Burma came to Tripura a little before Pathan rule commenced. The Pathan king Mu-chang-fa embraced Vaeshnavism, and became known as Viir Bikram Bhahadur Under Maha'prabhu's influence, the Digamvar Jains of Rarh alsa embraced Gauriiya Vaeshnavism. Although Jain influence was dominant in Midnapore after Maha'prabhu visitd the region the entire area came under the inflence of Vaeshnavism.
+After the decay of Jainism, Hindus began to look down on Garains. Julahas who had previously been Buddhist or Jains also met the same fate. The socio-religious dogma and discrimination caused by such caste sentiments has a divis sive impact on Indian society.
+
+The influence of Maha'prabhu was very great in Tripura: A clan from Burma came to Tripura a little before Pathan rule commenced. 
+
+The Pathan king Mu-chang-fa embraced Vaeshnavism, and became known as Viir Bikram Bhahadur Under Maha'prabhu's influence, the Digamvar Jains of Rarh alsa embraced Gauriiya Vaeshnavism. Although Jain influence was dominant in Midnapore after Maha'prabhu visitd the region the entire area came under the inflence of Vaeshnavism.
 

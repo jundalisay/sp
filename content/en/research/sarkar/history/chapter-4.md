@@ -104,7 +104,6 @@ It is a place of glory. Old Jaipur also exists today.
 
 Sabera dynasty, originally kings of Udaipur, came here (Jaipur) from Mewar and settled down, to become rulers of Jaipur.
 
-
 The Scythian people of Mewar are small but stout and mighty in strength. 
 
 Ksattriyas of Mewar and Jaipur areas differ facially. 

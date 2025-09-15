@@ -17,7 +17,9 @@ writer:
 
 Due to plutonic earthquake, it came up above the sea and the sand of the place is from sea and not from any river. Due to sargossa se, oil can be found from the Aravalli ranges to Rann of Kutch; Around Jaipur it would be salt-range, oil is not found in salt- Fange.
 
-The old Digambar Jains used Singh title. Raja Pratapaditya of Bengal had defeated Akbar twice. Thereafter Mansingh was sent against Pratapaditya. Mansingh sent chains and sword to Pratapaditya. The latter accepted sword and sent back chains for Mansingh and said, 'I take sword and send chains for you since you are already in chains'. 
+The old Digambar Jains used Singh title. Raja Pratapaditya of Bengal had defeated Akbar twice. Thereafter Mansingh was sent against Pratapaditya. Mansingh sent chains and sword to Pratapaditya. 
+
+The latter accepted sword and sent back chains for Mansingh and said, 'I take sword and send chains for you since you are already in chains'. 
 
 In the battle Pratapaditya was defeated and made a prisoner, but he committed suicide, enroute to Agra at Varanasi. As a result Jaipur to which place Mansingh belonged, became very unpopular in Bengal and Bengal Rajputs left using 'Singh' title-tatha'pi singhah pashure- Vásti: (though a lion, but still it is an animal ). 
 

@@ -166,13 +166,17 @@ In the Alwar state of Rajasthan, certain Rajput families who were converted to I
 Meyo-Rajput follow the Hindu marriage system; afterwards their marriage is solemnized by a Maulavi, and they confine their marriage rela tionships to Meyos only.
 
 
-25
+<!-- 25 -->
 
 The Hindus and the Muslims also have close linguistic links.
 
 The mother tongues of Indian Muslims and Hindus were not Urdu and Hindi respectively, as both groups spoke Bhojpuri, Avadhi, Punjabi, Angika, etc., according to the area they live in.
 
-While there was a cultural blending and change after the spread of Islam in India the cultural links between Muslims and Hindus grew strong. Moreover social evils like the caste system and untouchability became prevalent amongst Hindus, and Muslims were also infected with prejudicial attitudes and social intolerance. British imperialsm deliberately drove a wedge between Hindus and Muslims by adopting a dividing policy in India. Sectarianism was exploited by the British to further the cause of imperialism.
+While there was a cultural blending and change after the spread of Islam in India the cultural links between Muslims and Hindus grew strong. Moreover social evils like the caste system and untouchability became prevalent amongst Hindus, and Muslims were also infected with prejudicial attitudes and social intolerance. 
+
+British imperialsm deliberately drove a wedge between Hindus and Muslims by adopting a dividing policy in India. 
+
+Sectarianism was exploited by the British to further the cause of imperialism.
 
 Racially, both Hindus and Muslims have the same complexion and their physical features are also similar. 
 
@@ -194,7 +198,11 @@ Many Brahmans from Kashi are Rgvediya while many from Kaoshal are Yajurvediya. T
 
 The Brahmans of Rarh and West Bengal also belong to two groups-Sa'mavedi'ya and Va'rendrii. 
 
-Should the difference divide them into further castes and sub-castes ? Differences in cultural expression should firmly unite people rather than divide them. A proper under- standing of India's 'Itihasa' and strongly integrated cultural heri- tage would teach people that differences within and between communities are merely superficial and that a subterranean unity binds the Indian people together. 
+Should the difference divide them into further castes and sub-castes? 
+
+Differences in cultural expression should firmly unite people rather than divide them.
+
+A proper understanding of India's 'Itihasa' and strongly integrated cultural heritage would teach people that differences within and between communities are merely superficial and that a subterranean unity binds the Indian people together. 
 
 <!-- 26 -->
 

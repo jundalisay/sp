@@ -129,8 +129,8 @@ Nearby was a temple containing Shiva-Linga of black stone.
 
 Baba said:
 
+{{< l a="Baba" >}}
 It is Somanath Linga. It has 4 faces. 
-
 Wherever there is manath Linga, there must be crescent moon and Parvati. Han Liunga was made from the same stone by which the stone pet (kasauti) was made. Here the Shiva linga is made of the me stone. The idol of the place is more than 1300 years old. But the temple was reconstructed in the post-Muslim period. Han Linga has also an antiquity of 1500-2000 years.
 
 Kotia Bhil ruled this area, 750 years ago, during Pathan period.
@@ -148,18 +148,28 @@ Anthropology, archaeology, linguistics, phonetics, intonation. and acoustics hel
 <!-- 102 -->
 
 The Austrico-Scythians have soil-like colour. Bhils are also like that with small height. Gaur Brahmans are fair in colour, so are Gaur-kayasthas, Yadavas and Rajputs, Jastika kshatriyas of Bharatpur and Alwar are smaller in height than those of Punjab, Hariyana and West U. P. The King of Bharatpur was also a 'Jath', Chambal has enough irrigation potentiality. Hada-desh has a bright future for horticulture and gardening.
+{{< /l >}}
+
 
 Baba visited a sight known as Adharshila built in the memory. of Late Aulia (saint) Syed Maula All Shah. 
 
 Baba said:
 
+{{< l a="Baba" >}}
 When Imam (priest) of the place said that the Shah died 800 years ago, Baba said it is wrong since Muslims came to India 800 years ago, it can be 600 years ago when Shah would have died. Shah was a Shia saint. 
+{{< /l >}}
+
 
 The Shia sect emerged 950 years before. 
 
 Sufism came up 100 later. 
 
-Baba asked: in what style 'Hanin' or 'Vahavi' namas (prayer) is offered here? 
+Baba asked: 
+
+{{< l a="Baba" >}}
+In what style 'Hanin' or 'Vahavi' namas (prayer) is offered here? 
+{{< /l >}}
+
 
 The Imam had no idea of these styles of prayer. 
 
@@ -170,6 +180,3 @@ Maula Ali Shah was a great saint and belonged to Darvesh section.
 This is his Dargah (place of worship). 
 
 Baba asked a question 'where is your mind concentrated while reciting "Amina" The priest of Dargah could not answer.
-
-
-

@@ -7,7 +7,7 @@ description: "Constants as Ratios Between Layers"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 38
+weight: 22
 icon: "Juan"
 ---
 

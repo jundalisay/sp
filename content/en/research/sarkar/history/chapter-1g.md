@@ -1,16 +1,102 @@
 ---
 heading: Chapter 1g
-title: "Bhojpuri"
+title: "Buddhism and Varanasi"
 c: "forestgreen"
-description: "Buddhism remained a living faith in Varanasi and in its surrouding districts for several hundred years."
+description: "Varanasi was the winter capital of Lord Shiva."
 icon: "PR Sarkar"
-weight: 16
+weight: 14
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 
+
+Varanasi, March 28, 1984
+
+<!-- 33 -->
+
+Today Baba visited Sarnath but this time visited a place where excavations were being done. Excavations had been started here in 1904 when Sarnath was part of Ag'ra province. 
+
+Baba made the following comments:
+
+
+{{< l a="Baba" >}}
+This place is older than Rajgir. 
+
+The bricks are old, but they have been cemented together only recently. 
+
+Relics found here are 2,300 years old slightly pre-dating the time of Ashoka. 
+
+The wells in the district have no niches in their walls, which enabled people to climb down inside the well to reconstruct it if it collapsed or became dry. 
+
+The system of stepped niches came to India during the pathan period, but was already in vogue in Persia. 
+
+It was not adopted in India because the wells were constructed in hard soil-black cotton soil-so that they did not collapse. Since no niches are found in these wells, it can be concluded that people have 'been here for 2500 years.
+
+Baba also made the observation that bridges over rivers should, whenever possible, be built on black soil. 
+
+If a bridge is Constructed on soft soil, the bridge may remain standing, but the river will cut its way through the soft soil, soon creating the need for another bridge. 
+
+This mistake has been committed in the construction of Mokama bridge in Bihar where one side of the bridge is built on soft soil.
+{{< /l >}}
+
+
+While examining the pedestal type (layer after layer) structures made here, Baba said:
+
+
+{{< l a="Baba" >}}
+Layers after layers manifested the several plexuses-fire plexus, jagaddal padmas (pineal plexus), etc. 
+
+Great men ог teachers or Buddha would sit over it and would speak before the audience. The lowermost represented the solid plexus or the fire plexus. 
+
+Pineal plexus was symbolised as jagaddal, Parama Shiva was called Naera'tma Devii. Lamas of Tibet would utter "Om Manipadme hum". 
+
+In the Bastar district of Madhya Pradesh, a place is named Jagaddalpur. 
+
+A big "Bihar" was called Jagaddal Bihar. Adjusting with the pedestal symbolising the plexus was placed a pot. 
+- Usually these pots were too big to be moved by people. The pot was known as Dharma ghata. 
+{{< /l >}}
+
+
+<!-- 34 -->
+
+
+{{< l a="Baba" >}}
+In those days, there was no clear differentiation between the Hiinayana and the Mahayana. 
+
+They differed in their goal. 
+
+- Mahayaniis accepted the existence of Atma
+- Hinayanis did not accept any such entity
+
+Later, in Hinayana, several deities got acceptance and recognition, such as Panca', etc. 
+
+In India, Buddhism had its influence in the northern, northwestern and eastern parts including Sikkim, Bhutan and Nepal. But it had little influence over the southern and western portions of India.
+
+100 years after Buddha's death, the first Buddhist convention was held at Pataliputra. 
+
+The first divisions in Buddhism emerged there.
+
+The second Buddhist convention was held another century later at Purusapur or Peshavara, where the existing differences became still more prominent. 
+
+By the time the third convention was held another century later, again at Pataliputra, the schism between Hinayana and Maha'yana was complete.
+
+It was agreed that separate schools of Buddhism should be recognised. 
+
+This happened 300 years after Buddha's death. 
+
+Hinayaniis were influential in Chittagong alone, while in the rest of India, Mahayana was dominant. 
+
+Later, Mahayaniis either embraced Purancism or were converted to Islam.
+
+But Hinayanis remained firm in their faith. 
+
+Even today, they can be found in Chittagong, using the title Barua, which is derived from the Sanskrit word "Bat'uka", meaning great. 
+
+Shiva is also known as Bat'ukana'tha. 
+
+Batuka-Bhaerava is a popular name and in Assam and Bengal, Hindus still use the title Bar'ua.
 
 Buddhism remained a living faith in Varanasi and in its surrouding districts for several hundred years. 
 
@@ -28,26 +114,54 @@ Pali was written in Brahmi script. Pali had two meanings- language and village.
  
 Intellectuals who considered Pali a contemptuous language called it the language of the rural people.
 
-Pundits or intellectuals spoke in Sanskrit, and were proud of their learning. When Ananda, who was Buddha's mother's sister's son, asked his master in which language should his teachings be recorded, Buddha replied that they should be recorded in the same language that he had spoken. While speaking to ordinary people. 
+Pundits or intellectuals:
+- spoke in Sanskrit
+- were proud of their learning
 
- Buddha used the "people's language", which was Pali Pali thus became the scriptural language of the Hinaya'nis.
+Ananda was Buddha's mother's sister's son.
+- He asked Buddha in which language should his teachings be recorded.
+- Buddha replied that they should be recorded in the same language that he had spoken. 
 
-Pali, written in Brahmi script, can still be found on carvings in Varanasi Later, some 2500 years ago, the script had become demi Magadhi Still later the prevalent script was Sri Harsha. 
+While speaking to ordinary people, Buddha used the "people's language", which was Pali.
+- Pali thus became the scriptural language of the Hinayanis.
 
-The original script of Bhojpuri was Sri Harsha and Kutila' was its scriptural name. The present Bam'la was similar to Sri Harsha Kutila' or Sri Harsha was a popular script from Allahabad to Dibrugarh up to the Pathan period, it is, upto 400 to 300 years ago and dates back to 1500 to 2000 years.
+Pali, written in Brahmi script, can still be found on carvings in Varanasi.
 
- Thus white the original script of Pali was Brahimi, later Kutila became the popular script and it is in this script that Bhojpuri was written. Today it is not possible to find anyone in the world
-can read old Bhojpuri (that is apart from Baba).
+Later, some 2,500 years ago, the script had become demi Magadhi.
+- Still later the prevalent script was Sri Harsha. 
 
- Bhojpuri has a rich heritage and both Pali and Bhojpuri should be taught to university students in the Bhojpuri speaking areas of India.
+The original script of Bhojpuri was Sri Harsha.
+- Kutila was its scriptural name. 
 
+The present Bamla was similar to Sri Harsha Kutila or Sri Harsha was a popular script from Allahabad to Dibrugarh up to the Pathan period, it is, up to 400 to 300 years ago and dates back to 1500 to 2000 years.
 
-Ka'shi was the winter capital of Shiva and after thorough excavation some ancient relics from Shiva's time may be found in Kashi White Vardhaman or Burdwan is the oldest living- city in the world, Varanasii is the second oldest living city in India Prayag, of course, is quite a bit older than both these cities, but the Prayag of ancient time was submerged in the floods of the Gangs and Jamuna rivers. 
+Thus, the original script of Pali was Brahimi.
+- But later, Kutila became the popular script.
+- Bhojpuri was written was written in Kutila. 
 
+Today, no one can read old Bhojpuri (that is apart from Baba).
+
+Bhojpuri has a rich heritage. Both Pali and Bhojpuri should be taught to university students in the Bhojpuri speaking areas of India.
+
+Kashi was the winter capital of Shiva.
+
+After thorough excavation, some ancient relics from Shiva's time may be found in Kashi.
+
+White Vardhaman or Burdwan is the oldest living city in the world.
+
+Varanasii is the second oldest living city in India Prayag, of course, is quite a bit older than both these cities.
+
+But the Prayag of ancient time was submerged in the floods of the Gangs and Jamuna rivers. 
 
 <!-- 36 -->
 
-Present day Allahabad is the creation of the British period. Shia Muslims built a separate Allahabad city and called it Illahabad. and after the Sunnis called it Allahabad when relics from Shiva's time shall be found here, the dates of this civilisation will go ba.k 7500 years, if not more.
+Present day Allahabad is the creation of the British period. 
+
+Shia Muslims built a separate Allahabad city and called it Illahabad.
+- Later, the Sunnis called it Allahabad.
+
+In the future, relics from Shiva's time shall be found here.
+- This will make the dates of this civilisation go back more than 7,500 years.
 
 Lord Shiva was a regular visitor to Varanasi.
 
@@ -68,95 +182,4 @@ Bhojpuri possesses its own style of pronunciation and intonation, and Pali and B
 There are 4 distinct styles of reciting the Vedas; Gauriya, Kashika', Mahrashtriya and Dramil. The style of Bhojpuri pronun- elation is Yajurvediya. 
 
 In Bhojpuri, Laks'man is pronounced Lakhan, a word commonly used in the Ra'mayana of Tulsidas. 
-
-Varanasi, March 29, 1984
-
-In the morning Baba spoke on the racial and cultural cha- racteristics of the Bhojpuri area of Kashi Raj].
-
-In the Vedic age this land around Varanasi was known as Kashi Rajya. The word 'Kashi' was derived from the root word 'kash' meaning 'that which shines' and in ancient times 'Kashi' was the popularly used word to describe this place. In Medieval times, both Kashi and Varanasi were in popular usage. 
-
-During post-Buddhist times, the scriptures of Natha cult mention Varanasi in reference to the twelve Shiva-lingas, and during the time of Buddha and even a bit earlier the word Varanasi was frequently used. And about 3000 years ago Varanasi is mentioned in the Udalayasan, a book written in Magadhi
-
-*Varuna is the name of a river flowing in Varanasi and 'Asi' is the name of an area of Varanasi and also of a ghat (bank) on the river Ganga.
-
-
-According to some people, the word Varanasi is a compound of Varuna + Asi. 
-
-If so, it should be pronounced Varunasi, but it is not pronounced like this Vara- Basi is actually a compound of two words-va'ra and anasa. 
-
-Anasa means rebirth, and Va'ra means 'to check' in Sanskrit. Varanasi thus means 'to check rebirth'. People still consider it to be a holy place because it was a place where Shiva lived. They believe that if a person dies here he or she will not be re-born.
-
-
-The boundary of Kashi Rajya was as follows: In the north it extended to the Himalayas ; in the south as far as the Vindhya, where the Sona and Gharghara rivers meet; in the west to Prayag and in the east as far as the junction of the Sona and Narayani rivers. (The Sona river was so named because its water is gold in colour, sona means gold).
-
-The capital of Kashi Raja was Kashi.
-
-Several eminent and intelligent kings ruled over Kashi Rajya and King Bhoja was one of them. He wrote a commen- tary on Samkhya philosophy. Since a cosmopolitan town is not 
-
-A good strategic choice for a capital, the capital was shifted 
-
-Fastwards to the south of the Ganga, near Dumraon which is in Buxar subdivision of the present district of Arrah. It was in the district of Bhojpur, hence the language of the people was known as Bhojpuri.
-
-The people of Bhojpuri region belonged to the Austrico- Caucasian race, that is, to the Nordic sub-group of Caucasians, and were Austric Indicas. 
-
-Austrics had three groups-Indica, Malaysian and Australian, and were people of medium size.
-
- On the north of the Ganga, Mongolian blood was most influential while on its southern side, the impact of Negroid blood was predominant. As a result, people of the north are fair, while people of the south are dark.
-
-The climate in this area is good, but in 'tarai-land' the water lacks iodine. On both sides of the Ganga, the water is good but from the view point of health the best water comes from 'Bhabhua'.
-
-38
-
-Varanasi was the land of Shiva, and Arrah was named after Aranya Deva Shiva. Harishchandra ruled over the area south of the Ganga, which was called Rohatas and named after are fair called Diara in Assam and Bengal and Tarai in Garhwali and this on Rahitashva. 
-
-
-The southern portion of the Himalayas is Bhojpur the land is flat and is called Madhya desh or Madesh, Kumayuni. On the southern side of Nepal which is a part of complexioned and the reverse is the case in the southern region. 
-
-In older times the language was called Kashika language, but after the capital was shifted to Bhojpur it came to be known About four thousand years ago the Sanskrit as Bhojpuri. language was transformed into seven Prakrta languages or peo- ple's languages. 
-
-Magadhi Prakrta was one of them and was used It was also one of towards the east of Prayag. Magadha was the most famous name in the area, thus it was called Magadhi. 
-
-From Prayag to Sirhind, the people's language was Shaurseni Prakrta. the languages which Lord Krishna spoke.
-
-Sirhind, situated near Chandigarh, is the water barrier of north India. Rivers on the eastern side of Sirhind merge into the Ganga and eventually flow into the Bay of Bengal. Rivers on the western side merge into the Indus and finally drain into the Arabian sea. The word Sirhind means the head of India. 
-
-From Sirhind to Hindukush, the people's language was Paeshachi Prakrit. Further north, in the Kashmir valley, Uzbekistan, Baluchistan and southern Russia, the language was Pa'shca'tya Prakrta. 
-
-
-Towards the south-west of Baluchistan, in the Indus Valley, where the language spoken was Pahlavii Prakrta or Saendhavii Prakrta. 
-
-In Gujrat and Rajasthan it was Malwi Prakrta.
-
-In Maha- rashtra and Goa it was Maharastri Prakrta, while Magadhi Prakrta was the language of the people in the entire eastern side of India, that is, from Prayag to Salkia, where the Brahmaputra River enters India. 
-
-Usually, a language survives one thousand years, while a script lasts for two thousand years.
-
-Magadhi Prakrta was outlived by her 2 daughters-western Demi-Magadhi and eastern Demi-Magadhi. 
-
-The former gave birth to 4 daughters: Bhojpuri, Magahii, Nagpuria and Chattis- garhii. 
-
-39
-
-Eastern Demi Magadhii had five daughters: Maethili, Angika, Bam'la, Oriya and Assamia as mentioned earlier. Similarly Shaurseni Pra'krta gave birth to Demi-Shaurseni, whose daughters are Avadhi, Bundeli, Bagheli, Braj and Hariyanvii. Hariyanvii was the language of the people of Delhi and nearby areas. It blen- ded with Arabic and Persian when Turks came to India, and a new language known as Sirhindi Hindustani, usually used in the market place evolved. Most of the soldiers of the Muslim kings were Turkish, though some Persians also served the army of that time and Sirhindi Hindustani became
-the language of
-men who wore 'Vardi or a military uniform and as a consequence, the language became known as Urdu. Correctly speaking Urdu was not a people's language as the people's language remained Hariyanvii. Hindi evolved as an offshoot of Hariyanvii.
-Bhojpuri has its own intonation and style of pronunciation. There are three styles of Indo-Aryan alphabetical intonations- Vivrta, Samvrta, and Tiryaka. In Bhojpuri, the style is Sam- vrta, where 'a' is long. Rarely is 'Vivrta' used and 'Tiryaka' is never used. A mixture of 'a' and 'o' is indicated in Tiryaka style.
-
-There were different phases in the Aryan colonisation in India. In the first phase Aryans came to India through the Khyber Pass and only travelled as far as Jammu. In the second phase they migrated to Sirhind and in the third phase they rea- ched Prayag. After contact with the Austric people, the-Aryans were transmuted into Austric-Aryans. The land east of Prayag was fertile and attracted the Aryans and they proceeded up to Kashi. However Varanasi was the culminating point of Aryan
-culture.
-
-Aryan Rsis or sages advised the people not to travel to places outside the sphere of Aryan infiuence, that is, they were ad- vised not to go east towards Magadha. Brahmans who violated the instructions and went east towards the Sarayu river were ostracised and scorned as outcaste Brahmans, and were called Sarayuparin Brahmans or second grade Brahmans.
-
-Varanasi was the culminating point of Aryan civilisation. In East of Kashi Rajya Ssnskrit words are more common than Tad- bhava words, that is, in Varanasi Tadbhava Sanskrit words were more common. In Bhojpur and Jaunpur, however, Tadbhava words are more prominent, but they are pronounced in Bhojpuri intonation,
-
-40
-
-
-Since Namboodaries* went to Kerala from Bengal both through land and sea. 
-
-They carried the cultural traditions of north In Bengal women utter a particular sound at the end of cer- India, that is north of Vindhya, and it led to a blending of cultures. an anga-vastram or wrapper or Ca'dar is a common dress in tain social festivals and in Kerala the same is followed. Wearing both north and south India. 
-
-Cultural blending is a unique phenomenon but there are many Yajurvedis. 
-
-The length of a sacred thread menon in India. In Kashi-Rajya, Atharvavedis are rarely found
-manifests this difference.
+{{< /l >}}

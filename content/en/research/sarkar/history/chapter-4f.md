@@ -60,7 +60,7 @@ The priest would not be a Gaur Brahman, The temple is made of granite stone. The
 in
 Jainism faded from Rajasthan, about 1600-1700 years 80, This temple had been constructed in 5th-6th century, when Jainism was fading and Pauranicsm was on the advent. Pauranicsm, there is no worship of a naked Shiva, Shiva has tiger's skin on his body. "Vyaghrambara" is Hindu Shiva.
 
-93 
+<!-- 93  -->
 
 Nandi exists with Puranic Shiva. 
 
@@ -72,7 +72,11 @@ There are 12 expressions of Shiva.
 
 The architecture of Durga temple is of Rajawara style. 
 
-The idol of Bhavani normally contains eight hands and in Bengal Durga idol has 10 hands. Here the idol has 10 hands. This is the influence of Gauriya Brahmans. Since the idol is broken. there is no head, worship of the idol is not possible, worship of broken idol is forbidden. The Devi is 'Jatajutasamayukta' Purnendu Nama'na' (With long hair and full moon on head). The toes of the left leg are on the head of demon Mahisa. Gaur Brahmans would have brought this idol.
+The idol of Bhavani normally contains eight hands and in Bengal Durga idol has 10 hands. Here the idol has 10 hands. This is the influence of Gauriya Brahmans. 
+
+Since the idol is broken. there is no head, worship of the idol is not possible, worship of broken idol is forbidden. 
+
+The Devi is 'Jatajutasamayukta' Purnendu Nama'na' (With long hair and full moon on head). The toes of the left leg are on the head of demon Mahisa. Gaur Brahmans would have brought this idol.
 
 Baba looked at Surya Mandir and said the temple is 1600-1700 years old, constructed by Shakaldvipi Brahmans, later the idol was destroyed. 
 

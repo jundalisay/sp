@@ -108,13 +108,23 @@ Around Gorakhpur, language developed in different ways For example, in Sanskrit 
 
 The synonym for brick in Sanskrit is 'Istaka', which was transformed into 'It't'an' in Ma'gadhi' Pra'krta, and modern Bhojpuri it is pronounced 'Ita.
 
-The bricks used around Gorakhpur 2800 years ago, were long and narrow, and bricks in this shape can still be found at Kushinagar. The joining of bricks was done with the help of molasses and lime.
+The bricks used around Gorakhpur 2800 years ago, were long and narrow.
+- Bricks in this shape can still be found at Kushinagar. 
+- The joining of bricks was done with the help of molasses and lime.
 
-A 24-year old English man, Mr. Princep, an employee of the East India Company, was the first to discover that Pa'li or Ma'gadhi' Pra'krta was written in Br'ahmi script which is also known as Lumbini script in Gorakhpur. He read the script found in a Lumbini village and noted that it was Pa'li' written in Bra'hmi' script.
+A 24-year old English man, Mr. Princep, an employee of the East India Company, was the first to discover that Pali or Magadhi Prakrit was written in Brahmi script which is also known as Lumbini script in Gorakhpur. 
+- He read the script found in a Lumbini village and noted that it was Pali written in Brahmi script.
 
-A blending of Hinayana and Maha'ya'na Buddhism took place at Kushiinagar. Three hundred years after Buddlia's death, Buddhist ideology divided into two schools-the northern school was known as Mah'asa'mghika, commonly called Maha'ya'na Buddhism and the other school was known as Sthavirava'da in Sanskrit and Pa'li'. Later Sthavirava'da or Therava'da became known as the southern school of Buddhism. since it was pre- dominant in south and southeast Asia.
+A blending of Hinayana and Mahayana Buddhism took place at Kushiinagar. 
 
-In Maha'samghika or Maha'ya'na scriptures if was referenced to as Hinaya'na.
+300 years after Buddlia's death, Buddhist ideology split into 2 schools:
+
+1. The northern school was known as Mahasamghika, commonly called Mahayana Buddhism
+2. The other school was known as Sthaviravada in Sanskrit and Pali.
+
+Later Sthaviravada or Theravada became known as the southern school of Buddhism since it was predominant in south and southeast Asia.
+
+In Mahasamghika or Mahayana scriptures, it was called Hinayana.
 
 The blending of Shaevism and Mahayana Buddhism resulted in Natha Dharma. 
 
@@ -154,6 +164,3 @@ In the dialect of Basti, Bhojpuri is influenced by Avadhil, and the dialect beco
 Bhojpuri is a full-fledged language spoken by 40 million people spread over a vast area. In the north it is bordered by the Himalayas, in the south by the Vindhya Ranges, in the west by the Prayag (which is the con- fluence of the Ganga and Jamuna Rivers) and in the east by the Narayani, Gandak and the Son rivers. 
 
 It is the fifth most widely spoken language in India after Bangla, Telugu, Mara'thi and Tamil. Teaching and research in Bhojpuri language and literature is a must for the cultural and economic regeneration of the people. A cultural museum should be established here.
-
-
-
