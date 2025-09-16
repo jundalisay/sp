@@ -48,7 +48,7 @@ According to those requirements, we assert that the "Fifth Force" is nothing but
 
 These interact with muons (qor2) and increase their magnetic moment **right after** the collision by increasing the size of their hole. This increased hole allows more virtual photons to pass through, increasing the muon's magentism. 
 
-{{< i s="/graphics/physics/msq.jpg" a="Muon G2" >}}
+{{< i s="/graphics/physics/msq.svg" a="Muon G2" >}}
 <!-- going inside their hole. 
 
 , but not smaller electrons (qor1)  -->

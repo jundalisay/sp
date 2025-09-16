@@ -170,7 +170,7 @@ In our MSQ model (alternative to the Standard Model), matter is the lowest and c
 
  <!-- the Higgs field is called "rib" as Radiant Internal Boundary. You can derive its properties from the model and don't need to build an expensive collider for it. -->
  
-{{< img src="/graphics/physics/msq.jpg" alt="MSQ" >}}
+{{< img src="/graphics/physics/msq.svg" alt="MSQ" >}}
 
 {{< r a="Asker" >}}
 What can your MSQ model do that the Standard Model cannot?

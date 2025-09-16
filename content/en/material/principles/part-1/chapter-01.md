@@ -31,7 +31,7 @@ Aether Content | 5
 Movement | Purely Kinetic
 Quality | Most Subtle, Highest Control
 
-{{< i s="/graphics/physics/msq.jpg" a="Monad" >}}
+{{< i s="/graphics/physics/msq.svg" a="Monad" >}}
 
 
 ### Definition of the Aethereal Layer

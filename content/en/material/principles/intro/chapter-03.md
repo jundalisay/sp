@@ -2,7 +2,7 @@
 heading: "Chapter 3"
 title: "The Medium-Substance-Quantum MSQ Model"
 # date: 2023-11-26
-image: "/graphics/physics/msq.jpg"
+image: "/graphics/physics/msq.svg"
 description: "The MSQ Model is our alternative to the Standard Model of Physics"
 writer:
   name: Juan

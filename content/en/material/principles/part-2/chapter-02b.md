@@ -32,7 +32,7 @@ This is detected by thought and intuition (a 6th sense feeling). This is in the 
 
 The division between physical and metaphysical space (and time) is demarcated by the **Spatial Internal Boundary** or SIB which we call the edge of the universe, explained in the previous chapter.
 
-{{< img src="/graphics/physics/msq.jpg" alt="The 5 Layers" cap="The SIB is the green horizontal line" >}}
+{{< img src="/graphics/physics/msq.svg" alt="The 5 Layers" cap="The SIB is the green horizontal line" >}}
 
 
 {{< img src="/graphics/physics/edge.jpg" alt="The Edge of the Universe" cap="The Edge of the Universe separates spacetime from the aetherspace" >}}

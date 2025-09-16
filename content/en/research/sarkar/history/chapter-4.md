@@ -4,7 +4,7 @@ title: "Rajasthan and Gujrat"
 c: "forestgreen"
 description: "Magahar, the place where Mahatma Kabir died."
 icon: "PR Sarkar"
-weight: 28
+weight: 38
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

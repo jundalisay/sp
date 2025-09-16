@@ -1,10 +1,10 @@
 ---
-heading: Chapter 3
-title: "Deer and Antelope"
+heading: Chapter 3c
+title: "Philological research"
 c: "forestgreen"
-description: "Deer are found everywhere in the world, even in frozen zone, where they are known as reindeer."
+description: "In Kashmir court, official work should be done in Kashmiri while in Jammu it should be done in Dogri."
 icon: "PR Sarkar"
-weight: 26
+weight: 34
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -12,156 +12,116 @@ writer:
 
 
 
-Delhi, March 8, 1984
+## Jammu, March 5, 1984
 
-Baba came to Delhi again from Jammu and visited Deer-Park. Looking at the flora and fauna, He said:
+<!-- 75 -->
+
+Baba visited Maulana Azad Park, previously it was known as Company Bag, which was used as stable for the horses of the Maharaja of Jammu and Kashmir. 
+
+It had also orange orchards. Baba said:
 
 {{< l a="Baba" >}}
-Pine in Sanskrit is known as Devadaru. 
+An attempt to develop Kashmir was made since Jahangir, but the city of Jammu was neglected.
+- Now some attempt to develop this area is being made.
 
-Pine Indica, Indica being adjective of Indus in Latin, has its leave bending downwards, people wrongly call it Ashoka. 
+The first phase of Dogra empire begins about 3,000 years ago, 400 to 500 years after Krsna. 
 
-The latter is Sarica Indica, its flowers are red. 
+But there is no history of those days, no historical narration of Jammu Locan Bala. 
 
-It is also said as Sita-Ashoka, since Sita, the wife of King Ram, sat beneath this tree, when she was kept in confinement by Ravana- the king of Lanka, according to the mythology of Ramayana. 
+There is no proper history available of the pre-British days. 
 
-It is a plant of montania group, from which Ayurvedic medicines, Ashokarista and Ashokasava are made.
+Ranjit Singh conquered the area from Kabul to Sirmaur, no proper account of his rule in Kasmir is available. 
 
-Deer are found everywhere in the world, even in frozen zone, where they are known as reindeer. 
+There is a gap of more than 2,500 years between Jammu Locan and Gulab Singh. 
 
-Reindeer are used for carrying vehicles on ice, which have sledge and no wheel. 
+No history of the period between Kumarayana, a great Kashmiri scholar and Gulab Singh is available. 
 
-In the icy region of Kashmir, Kasturi-deer are found. 
+There is a gap of 1.000 years. But no proper account of this period is available. 
 
-Deer are of 2 types:
+The propounder of Vaeshesika philosophy, Kanada and the first grammarian Panini were born here.
 
-1. Deer
-2. Antelope
+According to Kalhan's Rajtarangini, Kashmir kingdom was stretched over from Sarda Math to Kumkum (Pamir), it touched the southern portion of Russia.
 
-Antelopes are of cow-group, and are also known as Zebu or Zebu Indica.
+It streched over 50 x 12=600 sq. miles. In the south of Kashmir is Jammu, and both of them were included in the Dogra kingdom.
 
-There are 2 groups in cows:
+After the last Anglo-Sikh battle, half of the kingdom of Ranajit Singh, from Persia to Peshavar, was left over.
 
-1. junior
+But Punjab was annexed by Britishers to have soldiers for the army. 
 
-The junior group can give milk up to 3 kilos
+Kashmir was sold to Gulab Singh (1846).
 
-2. senior.
+Some people of the north western portion, never accepted the suzerainty of Britishers. 
 
-The senior ones give more than 10 kilos. 
+Britishers kept their boundary at Ladakh. 
 
-The varieties of cows change the more one goes towards the west of India- Shalu, Sirhindi, Bhaval varieties. 
+Sher Shah had built a road from Dhaka to Ladakh. 
 
-Deer can also be 12 horned; ante- as Nila- lopes have tail like that of cows and so are also known gaya (Nila.cow). 
+Later, Jorawar Singh conquered Ladakh and Tibet and according to treaty of Lhasa, he took "Chauth" of 4,000 gold Asharfis (coins). 
 
-Krisnasara Mrga is also a variety of antelope. 
+Locus standii should be classified. 
 
-<!-- 78 -->
-
-Mrga, in Samskrta denotes all wild animals. 
-
-Indian flora is fast getting destroyed. Previously, there were 7,010 varieties of orchids. Now only 4,000 varieties are available. 
-
-Flora and fauna should be protected. 
-
-**The history of flora and fauna is associated with the history of humans. Destruction of one will affect the other.** 
-
-The earlier man understands this fact, the better it would be. 
-
-Birds are fast extinguishing, white kites are no more available, which could be seen some 40-50 years ago. 
-
-In India, white peacocks have been destroyed. Leopards which could be seen 40 years ago are rare today. 
-
-The same is the case with python. 
-
-The last eagle in England was killed about 40 years ago. 
-
-**Man is the most dangerous carnivorous animal.** That's why the acceptance of Neo-humanism is most essential. 
-
-The more one is intellectual, the more he is responsible for it. 
-
-Humans should protect the helpless animals.
-
-Deer also has 2 varieties:
-
-1. junior
-2. senior
-
-The senior is taller than man. 
-
-Humans have destroyed them. They kill the deer of senior variety on Sunday and eat it on Tuesday when its flesh becomes more tasty.
-
-In Latin:
-- carnis means flesh
-- rorus means rural
-- rostus means rustic. 
-
-It is difficult to tame deer, white ass and white donkey. 
-
-Krsnasara deer has black spots on the mouth and can be tamed after a few years of effort. 
-
-Zebra, the white horse found in Tibet cannot be tamed. 
-
-White ass found in the forests of Kuch (Gujrat) can be tamed in the second generation. 
-
-Today, mostly asses are of ash colour. 
-
-White peacocks are found in Burma.
-
-In India it has been destroyed. 
-
-The flesh of male peacock is sweet, while that of female is sour.
-
-The bio-history of fauna is very interesting. 
-
-Indian cow has 4 udders and give enough milk.
-
-But the deer which has 2 udders can hardly give half a kilo of milk. 
-
-The cow can not run fast while the antelope can. Proto-deer was the predecessor of of antelope and deer.
-
-Later, antelope and cow became separate animals. 
-
-Cows could be tamed and would provide enough milk, but it is difficult to tame antelope and it is quite insecure in forest. 
-
-Cow-slaughter should be banned from a moral point of view. They serve man, its milk is good for brain.
-
-<!-- 79 -->
-
-Previously, in pre-partition period (before 1947), Sundarban constituted of 6 districts:
-
-1. Midnapore
-2. 24 Parganas
-3. Khulna
-4. Barisal
-5. Noakhali
-6. part of Howrah
-
-It spanned 40,000 square miles. 
-
-After partition 1.600 sq. miles remained in India and the rest in Bangladesh. 
-
-Bangladesh destroyed its forests.
-- The lion of that area swam over to Indian side. 
-
-Forest pigs are strong enough to fight with lions.
-- They even eat the cubs. 
-
-Some 2 million years back, some of the pigs went into water.
-- While adjusting with water, their feet became loose, their lungs became like that of water animals. 
-
-Thus while adjusting with water, they were transformed into hydra-pig (dolphin), in Sanskrit called Shithumar or Bonsha in Hindi.
-
-Australian powder-milk is from the milk of sheep after separating butter from milk. 
-
-This butter oil has no food-value but is better than dalda. 
-
-Peanut oil has some food value, it should be second choice. 
-
-Palm oil is produced in Africa and Asia, from the seed of the ripened fruit.
+There should be a Board of Historians to link the ancient with the modern and the Government should manage and arrange for the research work.
 {{< /l >}}
 
-African palm is growing in Baba's quarters af Lake Garden and Tiljala in Calcutta.
+<!-- 76 -->
 
-(Deer park was developed after evacuting a large number of poor people inhabiting in the villages, during the Emergency period of 1975-76)
+Butt and Dhar* were originally Bengali Brahmans and pronoun ced ksa as Kha, in the Yajurvediya style. 
+
+The disciples of Guru Nanak were called Shikhya (Shisya) which later became Sikk.
+
+Sanskrit should be taught.
+
+The mother of all the languages from Afghanistan to Malayasia is Sanskrit. 
+
+( Baba mentioned about His family and said that His ancestors since the days of Shahjahan were government officers. In Bengal, court language was Urdu, but Baba's ancestors were well-versed in Sanskrt, His father was also a Sanskrit scholar). 
+
+Philological research is also very important. 
+
+Pashto, Kurdi and Kashmiri languages come from Pashcattya Prakrit. 
+
+In Pashcattya Prakrit, the word 'Pama' became 'Pam' in demi Pashcattya Prakrit.
+- In modera Kashmiri it is 'Pamposh'.
+
+For possessive case, one uses `Ka, Ke, Kii, Kena`, and `Kerii` in Shaorseni Prakrit.
+
+Ram's sister is said as 'Ram Keri Bahan'.
+
+In Pascati Prakrit (Punjabi, Pahari, Punjabi, Dogri) `Da, De, Dii` is used for possessive case. 
+
+For example, Amm Di Acar (piceles of mango). Ka, Ke, Kii of Hindi have been taken from Shaorseni Prakrta.
+
+Baba said that He had travelled in the villages of Amritsa some 30 years back and had collected some folksongs. 
+
+The mother tongue of Punjabi was neglected and Urdu was imposed. 
+
+Baba said that He had collected some 500 songs of Hola.
+
+Ai Basant Di Bahara Amba mole tesu mole
+Mol rahi kacna'r
+
+Every language has its own phonetic style. 
+
+The script of Kashmiri was removed. 
+
+It was difficult to write Sanskrt in Persian script. 
+
+1,500-2,000 years before Persian script, Kharosti was used. 
+
+Arabic script came in use after the dominance of Islam. 
+
+In Persian Ga and Ja are one while in Arabic they are separate.
+
+40 years ago, Baba had made research in Arabic. 
+
+In Persian, it will be Talib-i-Ilm, in Arabic it shall be Talib-ul-Ilm. 
+
+Arabic names will be written Sirajud Daula, Fajlur Rahman, Unnissa. 
+
+In English ('s) or 'of' serves the purpose of possessive case.
+
+In Kashmir court, official work should be done in Kashmiri while in Jammu it should be done in Dogri.
+
+The village folk could not understand Urdu with which they had no contact. Urdu was imposed during the reign of Jahangir. Before Queen Didda Namskrta had its important position here. Damodar Gupta was A great Samskrta scholar.
+
+<!-- 77 -->
 

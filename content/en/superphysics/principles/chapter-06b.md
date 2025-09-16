@@ -56,7 +56,7 @@ Here, the Crudifying Influence is stronger
 
 
 
-{{< img src="/graphics/physics/msq.jpg" alt="The 3 Gunas create the 3 sublayers per Layer" cap="The 3 Gunas create the 3 sublayers per Layer, as well as the internal layer boundary" >}}
+{{< img src="/graphics/physics/msq.svg" alt="The 3 Gunas create the 3 sublayers per Layer" cap="The 3 Gunas create the 3 sublayers per Layer, as well as the internal layer boundary" >}}
 
 In Hinduism, these 3 influences are known as the 3 Gunas. 
 

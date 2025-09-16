@@ -59,7 +59,7 @@ Descartes calls these particles as the 1st Element (fire-aether) and 2nd Element
 
 <!-- and are part of the Radiant and Spatial Layers.  -->
 
-{{< img src="/graphics/physics/msq.jpg" alt="MSQ" cap="We call the electron-fluid in Cartesian Physics as qor (quanta of radiance) and light as mor (medium of radiance)" >}}
+{{< img src="/graphics/physics/msq.svg" alt="MSQ" cap="We call the electron-fluid in Cartesian Physics as qor (quanta of radiance) and light as mor (medium of radiance)" >}}
 
 
 

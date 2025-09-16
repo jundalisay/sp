@@ -32,7 +32,7 @@ Changes in the universe happen in the 3 Layers:
 2. Radiant (Electromagnetism in Modern Physics, 1st Element in Descartes' Physics)
 3. Material (Strong Force in Modern Physics, 3rd Element in Descartes' Physics)
 
-{{< i s="/graphics/physics/msq.jpg" alt="MSQ" c="Time is part of the Spatial Layer" >}}
+{{< i s="/graphics/physics/msq.svg" alt="MSQ" c="Time is part of the Spatial Layer" >}}
 
 The changes are facilitated by 2 Layers next to them:
 
@@ -161,7 +161,7 @@ We classify the material and radiant times as physical time, and the aethereal o
 - Physical Time occupies the lower layers of timespace.
 - Metaphysical Time occupies the upper layers. 
 
-{{< i s="/graphics/physics/msq.jpg" a="MSQ" c="In our MSQ model, timespace is the upper medium of the spatial layer. Spacetime is the lower medium" >}}
+{{< i s="/graphics/physics/msq.svg" a="MSQ" c="In our MSQ model, timespace is the upper medium of the spatial layer. Spacetime is the lower medium" >}}
 <!-- Here we likewise create the concept of Physical Time and Metaphysical Time.  -->
 
 In Physics, this is roughly similar to the concept of Proper and Coordinate Time from Einstein's Relativity.

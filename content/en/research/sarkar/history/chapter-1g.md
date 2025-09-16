@@ -4,7 +4,7 @@ title: "Buddhism and Varanasi"
 c: "forestgreen"
 description: "Varanasi was the winter capital of Lord Shiva."
 icon: "PR Sarkar"
-weight: 14
+weight: 16
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

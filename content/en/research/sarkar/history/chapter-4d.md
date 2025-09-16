@@ -2,16 +2,16 @@
 heading: Chapter 4d
 title: "The Shakaldvipi Brahmans and Gaur Brahmans"
 c: "forestgreen"
-description: "Nagar Brahmans came from Persia before the Parees came."
+description: "This village was inhabited by Shakaldvipi Brahmans. They came from South Russia-Sacdonia or Shakdvipi"
 icon: "PR Sarkar"
-weight: 34
+weight: 44
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 
-Jaipur March, 13, 1984
+## Jaipur March, 13, 1984
 
 Baba visited Ramgarh lake, about 30 km away from Jaipur (Rajasthan). 
 
@@ -160,3 +160,6 @@ Tigers came from:
 
 The senior variety of Indian cows eat grass directly.
 {{< /l >}}
+
+
+

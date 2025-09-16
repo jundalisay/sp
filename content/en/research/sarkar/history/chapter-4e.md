@@ -4,7 +4,7 @@ title: "The Defeat of the Rajputs"
 c: "forestgreen"
 description: "The cause of Rajput defeat was lack of fire-arms and lack of unity"
 icon: "PR Sarkar"
-weight: 36
+weight: 46
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

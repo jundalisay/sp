@@ -21,7 +21,7 @@ Upper | Existence Space (moa1) | Physical Existence (soa1) | subtlifying (qoa1)
 Middle | Identity Space (moa2) | Identity (soa2) |  transforming (qoa2)
 Lower | Perception Space (moa3) | Relation (soa3) | crudifying (qoa3)
 
-{{< i s="/graphics/physics/msq.jpg" alt="MSQ" >}}
+{{< i s="/graphics/physics/msq.svg" alt="MSQ" >}}
 
 
 

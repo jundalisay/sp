@@ -29,7 +29,7 @@ Light and magnetism on the other hand are measured in luminosity and force which
 
 In our MSQ model, the radiant internal boundary (rib) separates the wave part from the particle part. This is now known as the Higgs field. 
 
-{{< i s="/graphics/physics/msq.jpg" a="MSQ" >}}
+{{< i s="/graphics/physics/msq.svg" a="MSQ" >}}
 
 
 

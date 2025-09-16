@@ -129,9 +129,9 @@ proofs:
     url: "/material/lensing/"
   - cat: "Material Superphysics"
     color: "darkgoldenrod"
-    img: "/graphics/physics/msq.jpg"
+    img: "/graphics/physics/msq.svg"
     title: "Muon G-2 and X17"
-    sub: "The Muon G-2 anomaly points to the X17 Atomki Anomaly which fulfills our prediction for a Convertible Internal Boundary. This means that the edge of the universe is the Spatial Internal Boundary"
+    sub: "The Muon G-2 anomaly points to the X17 Atomki Anomaly which fulfills our prediction for a Convertible Internal Boundary. This means that the edge of the universe is the Spatial Internal Boundary. It also accounts for the missing W boson mass."
     url: "/material/fifth-force/"
     
   - cat: "Material Superphysics"

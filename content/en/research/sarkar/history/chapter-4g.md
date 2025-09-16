@@ -4,7 +4,7 @@ title: "Harauti"
 c: "forestgreen"
 description: "Harauti is a language like Sanskrit, Bangla, French, Latin and English."
 icon: "PR Sarkar"
-weight: 40
+weight: 50
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

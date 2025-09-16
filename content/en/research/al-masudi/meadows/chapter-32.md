@@ -1,5 +1,5 @@
 ---
-title: "Alexandria"
+title: "The history of Alexandria, its construction, its kings, and wonders"
 heading: Chapter 32
 date: 2025-08-23
 weight: 320
@@ -11,19 +11,87 @@ writer:
 ---
 
 
+A group of scholars relate that when the people of Alexandria had firmly established themselves there. 
 
-426 427
+They chose for themselves a land of healthy air, pure soil, and fertile ground.
 
-When the coffin was finished, they summoned the craftsmen. They brought a coffin made of acacia wood, its length ten cubits and its width five cubits, and placed inside it glass chambers. Around it they fitted teak wood, sealed it with tar, and fastened it with iron and copper nails. They then attached rolling devices so that it could be pushed with great care until Alexander’s body was placed inside.
+They departed to the location where Alexandria was later founded and found the traces of a great building. 
 
-They prepared special resting-places for the camels and then brought the coffin into Alexandria. Two painters were called; they painted images of all animals on the coffin, tying them to the door, and adorned it in every possible way. They drew large figures and surrounded them with inscriptions, and fastened upon it seals of iron, lead, and brass so that none could tamper with it. They arranged it so that if placed upon water, it would float without sinking.
+There stood massive stone columns, one of which lay fallen, half-buried in the ground. 
 
-They also placed beneath it a man-shaped figure to prevent leakage between the two compartments, binding them tightly so that water would not pass. Then they placed the coffin upon two great wheels that carried it along, and by these it was rolled forward as though it were moving by its own power. In this way the coffin traversed the mountains of the Caucasus, moving through their rugged passes and over long distances.
+Around it were numerous remains of marble, fragments of enormous structures, and stones of remarkable size.
 
-When the coffin at last arrived, the elders and the great ones came out to meet it. They brought animals of burden to draw it, and they reached the city of Alexandria, where it was set down in its place. There they established it within the city, between iron and copper supports, strengthening it with pillars and surrounding it with wondrous images of lions, leopards, and eagles. With these they completed the tomb of Alexander, the like of which had never been seen before, and they made it a marvel to be remembered through the ages.
+When the first king of the Amalekites, Jaber son of Malik son of Shaddad son of Ad, came, he fortified the city, made its foundations strong, cut great blocks of stone from the mountains, and erected lofty columns. 
+
+He declared:
+
+“I desire to establish here a city the like of which the world has never seen, a city that will be preserved in memory, built with grandeur, ornament, and perfection, so that it may be admired by future generations. I wish that its fame endure through all time, without corruption or ruin, free of the misfortunes of destruction.”
+
+He then commanded that a city be built upon this site, surrounded by walls and strengthened with mighty gates, towers, and fortresses. He ordered it to be adorned with inscriptions and images, and with palaces built of stone and marble.
+
+Thus, Alexandria was founded.
 
 
-428
+<!-- 422 -->
+
+Also, from the island of Rhodes, opposite Alexandria, a distance of one night’s sail by sea from the lands of al-Andalus. 
+
+This island is called al-Barza (Rhodes), and in the year 338, the Byzantines built a fortress there, where they gathered a multitude of Romans and their cavalry.
+
+From there they would advance into Egypt, plundering and taking captives, and raiding the lands of Alexandria and its surroundings. When the people of Egypt learned of this, they went forth to fight them.
+
+The craftsmen and builders of the city of Alexandria gathered. Each man contributed with what tools he had. 
+
+They took a piece of wood, hollowed it, and placed inside it a voice-making mechanism. 
+
+They tied ropes to it and fastened it between high mountains, connecting them with one another.
+
+When the mechanism was released, a mighty sound thundered forth, echoing as if from a great trumpet. 
+
+It terrified men, animals, and birds. The people and workers of Alexandria proclaimed:
+
+“This sound will warn us whenever an enemy approaches our land!”
+
+So they made this device a signal, warning them in times of invasion.
+
+Meanwhile, a mighty king, with no fear of armies nor need for numbers, but only intent on achieving his purpose and ensuring the permanence of his rule, resolved to complete the building of the city.
+
+He ordered the foundation of Alexandria to be laid firmly, tracing its limits, and fixing its measurements. 
+
+He brought in workers and craftsmen, collecting for it abundant quantities of marble and stones, both precious and common. 
+
+He transported stones from the island of al-Marma, as well as others from Arishiyah and Qubrus (Cyprus). He even fetched blocks of Roman stone from old ruins.
+
+The city was built with strong foundations filled with ornament and grandeur. 
+
+Its structure was made to endure, and it became one of the marvels of the world, never to be equaled in permanence and strength.
+
+
+
+<!-- 426 427 -->
+
+When the coffin was finished, they summoned the craftsmen. 
+
+They brought a coffin made of acacia wood, its length ten cubits and its width five cubits, and placed inside it glass chambers. Around it they fitted teak wood, sealed it with tar, and fastened it with iron and copper nails.
+
+ They then attached rolling devices so that it could be pushed with great care until Alexander’s body was placed inside.
+
+They prepared special resting-places for the camels and then brought the coffin into Alexandria. Two painters were called; they painted images of all animals on the coffin, tying them to the door, and adorned it in every possible way.
+
+ They drew large figures and surrounded them with inscriptions, and fastened upon it seals of iron, lead, and brass so that none could tamper with it. 
+
+ They arranged it so that if placed upon water, it would float without sinking.
+
+They also placed beneath it a man-shaped figure to prevent leakage between the two compartments, binding them tightly so that water would not pass. 
+
+Then they placed the coffin upon two great wheels that carried it along, and by these it was rolled forward as though it were moving by its own power. In this way the coffin traversed the mountains of the Caucasus, moving through their rugged passes and over long distances.
+
+When the coffin at last arrived, the elders and the great ones came out to meet it. They brought animals of burden to draw it, and they reached the city of Alexandria, where it was set down in its place.
+
+ There they established it within the city, between iron and copper supports, strengthening it with pillars and surrounding it with wondrous images of lions, leopards, and eagles. With these they completed the tomb of Alexander, the like of which had never been seen before, and they made it a marvel to be remembered through the ages.
+
+
+<!-- 428 -->
 
 Alexander drew the plan of Alexandria, recording in it everything that would happen in its land — events, future occurrences, prosperity, and ruin. 
 
@@ -48,7 +116,7 @@ He did not cease invoking divine aid until it was completed, asking God Most Hig
 He placed in it what he wished, and God responded with His grace. From then until now, Alexandria has remained one of the most wondrous cities of the inhabited world.
 
 
-429
+<!-- 429 -->
 
 Alexandria had 7 walls of marble, and 7 gates of brass, decorated with inscriptions and adorned with pictures of all kinds of animals and figures. 
 
@@ -86,7 +154,7 @@ Another talisman was of a man raising his arm as if warding off evil; another de
 They say these talismans were the reason why Alexandria remained secure for centuries.
 
 
-431
+<!-- 431 -->
 
 In later times, when the talismans were worn down, year after year, and their power weakened, they no longer had the same effect. 
 
@@ -103,7 +171,7 @@ Among them also were Hermes, Pythagoras, Plato, Aristotle, and others from among
 Among the wonders of Alexandria is its Lighthouse, the greatest and most renowned of its marvels.
 
 
-432
+<!-- 432 -->
 
 Among the Egyptians and Alexandrians, it is said in their accounts that Alexander son of Philip the Macedonian — for whom the city was named and whose building of the city we mentioned — was told by the queen of the jinn who ruled over the island of the walnut trees: “Build it in this place, for it will make your city well-guarded against enemies coming from the sea.”
 
@@ -152,7 +220,7 @@ She sat beside her people, and when they saw the treasures, they sold them to he
 Adam’s army bore the weight in their chests, enduring sorrow.
 
 
-436
+<!-- 436 -->
 
 The Revelation to the Queen of Alexandria
 
@@ -167,7 +235,7 @@ The people discovered sparkling jewels in the heart of the larger of the two bow
 Some who saw them agreed with this opinion.
 
 
-437
+<!-- 437 -->
 
 <!-- Chapter XXXII: On the Fame of Jewels and Their Makers -->
 
@@ -177,7 +245,7 @@ Reference to a fortress flanked by continuous, silk-clad Alexandrian enclosures 
 
 
 
-438
+<!-- 438 -->
 
 …The elephants incline their ears and stretch them out, moving them back and forth like flapping fans. 
 
@@ -216,7 +284,7 @@ This lighthouse was built at great expense by the kings of Rome.
 Some claimed that it was a treasury where their wealth and treasures were stored, and that within it were wondrous relics and strange marvels. 
 
 
-440
+<!-- 440 -->
 
 
 …to the lighthouse, they ascend it, and in it there are paths, doors, and chambers leading down to the sea. 

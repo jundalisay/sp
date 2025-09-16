@@ -12,7 +12,7 @@ writer:
 ---
 
 
-50
+<!-- 50 -->
 
 The inhabited land, and near it from the settlements is a distance of seven days’ journey: Quṣ (Qift), Quṭus, and others of the towns of Upper Egypt. 
 

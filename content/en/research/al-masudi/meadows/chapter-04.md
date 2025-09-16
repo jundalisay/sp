@@ -12,7 +12,7 @@ writer:
 
 
 
-112
+<!-- 112 -->
 
 Solomon was granted a unique kingdom and special gifts by God. He ruled over the jinn, birds, and the wind, and was praised in the Book of God. He married the queen of Qitūr and reigned over Israel for forty-five years. After his death, his son Rehoboam became king of the Israelites. Ten tribes of Israel assembled and rebelled, choosing Jeroboam as their king.
 

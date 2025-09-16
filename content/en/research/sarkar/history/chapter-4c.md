@@ -4,7 +4,7 @@ title: "The Nagar Brahmans"
 c: "forestgreen"
 description: "Nagar Brahmans came from Persia before the Parees came."
 icon: "PR Sarkar"
-weight: 32
+weight: 42
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

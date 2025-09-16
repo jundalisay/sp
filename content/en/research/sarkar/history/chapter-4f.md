@@ -4,7 +4,7 @@ title: "The Shiva lingam"
 c: "forestgreen"
 description: "Baba came to Kota from Jaipur and visited Badoli temple."
 icon: "PR Sarkar"
-weight: 38
+weight: 48
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
@@ -13,7 +13,7 @@ writer:
 
 <!-- 92 -->
 
-KOTA, 15th March, 1984
+## Kota, March 15, 1984
 
 Baba came to Kota from Jaipur and visited Badoli temple.
 

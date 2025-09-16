@@ -2,7 +2,7 @@
 heading: "Chapter 3c"
 title: "Notating the MSQ Classification"
 # date: 2023-11-26
-image: "/graphics/physics/msq.jpg"
+image: "/graphics/physics/msq.svg"
 description: "We notate MSQ differently"
 writer:
   name: Juan

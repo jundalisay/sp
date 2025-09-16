@@ -26,6 +26,7 @@ Máyá man lapt́áil ho rámá.
 
 [Whence did the swan (a symbol of unit consciousness) come? Where did it go? Where did it build its abode? What did it associate itself with? It came from the Qualified Supreme Entity, and then it merged in the Unqualified Supreme Entity. The swan made its own body its abode and associated itself with the Cosmic Creative Principle.] -->
 
+
 Spiritual aspirants should always remember this idea.
 
 What should human beings do in deep ideation? 
@@ -50,7 +51,10 @@ Shiva also says:
 <!-- Phaliśyatiiti vishvásah siddherprathama lakśańam;
 Dvitiiyaḿ shraddhayá yuktaḿ trtiiyaḿ gurupújanam. -->
 
-[There are seven requirements for success in any mission. The first is firm determination: “I must succeed.” The second is reverence. The third is guru pújá, or constant remembrance of one’s spiritual master.]
+{{< l a="Shiva" >}}
+There are seven requirements for success in any mission. The first is firm determination: “I must succeed.” The second is reverence. The third is guru pújá, or constant remembrance of one’s spiritual master.
+{{< /l >}}
+
 
 In Sanskrit, gu means “darkness” and ru means “dispeller”. 
 
@@ -74,23 +78,52 @@ Ideas are mainly of 3 types:
 2. Actional
 3. Devotional-cum-emotional
 
-Regarding intellect and intuition it is said, Ekaḿ jiṋánam anantaḿ Brahma [“Brahma is infinite intellect personified”]. 
 
-Therefore, spiritual aspirants have to attain Him through knowledge. This is what the adherents of the path of knowledge maintain. 
+## Intellect and Intuition
 
-There is an infinite flow of knowledge and intuition, they say, and there is no second entity. Whenever duality comes, it is only due to our ignorance, to our lack of true knowledge.
+Regarding intellect and intuition it is said:
 
-But you should remember that in most cases human intellect and intuition are wasted in extravaganza, in useless pursuits. 
+Ekaḿ jiṋánam anantaḿ Brahma [“Brahma is infinite intellect personified”]. 
 
-They are not at all utilized for constructive or worthwhile endeavours. And human intuitional power is also wasted in trying to exhibit occult powers. Such persons never get the opportunity to move towards Parama Puruśa.
+Therefore, spiritual aspirants have to attain Him through knowledge. This is what the adherents of the path of knowledge assert. 
 
-Regarding action it is said, Karma Brahmeti karma bahu kurviita [“Work is Brahma, therefore work more and more”].
+They say that:
+- there is an infinite flow of knowledge and intuition
+- there is no second entity
+- duality comes only from our ignorance
 
-Everything in this universe justifies its existence by this sort of relentless mobility. This world is called 'jagat' which is derived from the root verb 'gam' plus the suffix 'kvip'. It means “a mobile entity”. 
+<!-- , to our lack of true knowledge. -->
+
+But you should remember that in most cases:
+- human intellect and intuition are:
+  - wasted in extravaganza, in useless pursuits
+  - not at all utilized for constructive or worthwhile endeavours. 
+- human intuitional power is wasted in exhibiting occult powers.
+
+Such persons never get the opportunity to move towards Parama Puruśa.
+
+
+## Action
+
+Regarding action it is said:
+
+Karma Brahmeti karma bahu kurviita [“Work is Brahma, therefore work more and more”].
+
+Everything in this universe justifies its existence by this relentless mobility. 
+
+This world is called 'jagat' which is derived from the root verb 'gam' plus the suffix 'kvip'. 
+- It means “a mobile entity”. 
 
 The world is also called saḿsára, which is derived sam – sr + ghaiṋ: that is, “the entity which constantly keeps moving”. 
 
-So the karma yogiis say that everything in this universe is immersed in action, in mobility. Nothing is stationary, nothing remains fixed. So move on with your actional faculty. The karma yogiis, the followers of the path of action, say that action is everything – we achieve everything through action.
+The karma yogiis are the followers of the path of action.
+
+They say that:
+- everything in this universe is immersed in action, in mobility
+- nothing is stationary, nothing remains fixed
+- action is everything – we achieve everything through action
+
+So move on with your actional faculty. 
 
 Some people think, “I am hungry, I want to eat liit́i [an Indian delicacy].” 
 
@@ -100,9 +133,11 @@ All this is done only through action.
 
 The result of this action is that we can finally eat liit́i. 
 
-So karma is the source of everything, so say the followers of karma yoga. Therefore keep on working: Marte marte kám karo, kám karte karte maro [“Die while working, and work even while dying”].
+The karma yogiis say that karma is the source of everything. 
 
-Now, even those who are advocates of devotional or emotional faculties say that people get propensive propulsion from devotion or emotion. 
+Therefore keep on working: Marte marte kám karo, kám karte karte maro [“Die while working, and work even while dying”].
+
+Even those who are advocates of devotional or emotional faculties say that people get propensive propulsion from devotion or emotion. 
 
 When the mind moves along a particular track or follows a particular discipline in a methodical way, this is called “devotion” or bhakti; but when it does not follow a particular method, when it moves haphazardly, swept away by whim, it is called “emotion”. 
 
@@ -112,13 +147,29 @@ Those who adhere to this cult of pinnacled order know that there must be a happy
 
 That is, the final outcome or resultant of intellectual-cum-intuitional faculty and actional faculty is devotion, not emotion, and that is why the great sages of the past said,
 
-Bhaktir Bhagavato sevá bhaktih prema svarúpinii;
-Bhaktiránanda rupá ca bhakti bhaktasya jiivanam.
-[Bhakti (devotion) is service to God; bhakti is the form taken by divine love; bhakti is the embodiment of bliss; bhakti is the life of the devotee.]
 
-Thus we see that ideation is association with one or the other idea – knowledge, action or devotion – just as meditation is associated with ideology. Thus in meditation and ideology, the spiritual aspirant is moving toward the singular Supreme Entity, the pinnacled goal. If the mind accepts two goals, two Lords, the mind becomes bifurcated.
+{{< l a="Sages" >}}
+<!-- Bhaktir Bhagavato sevá bhaktih prema svarúpinii;
+Bhaktiránanda rupá ca bhakti bhaktasya jiivanam. -->
+Bhakti (devotion) is:
+- service to God
+- the form taken by divine love
+- the embodiment of bliss
+- the life of the devotee
+{{< /l >}}
 
-The ideology which is associated with meditation is more a theory than a cult, and when ideation is associated with idea, it is more a cult than a theory. And the highest expression of devotion is Ananyamamatá Viśńormamatá premasauṋgatá [“The exclusive devotion to the Supreme Entity to the exclusion of all others is called divine love”].
+
+Thus ideation is association with one or the other idea – knowledge, action or devotion – just as meditation is associated with ideology. 
+
+Thus in meditation and ideology, the spiritual aspirant is moving toward the singular Supreme Entity, the pinnacled goal.
+
+If the mind accepts 2 goals, 2 Lords, the mind becomes bifurcated.
+
+The ideology which is associated with meditation is more a theory than a cult.
+
+When ideation is associated with idea, it is more a cult than a theory.
+
+The highest expression of devotion is Ananyamamatá Viśńormamatá premasauṋgatá [“The exclusive devotion to the Supreme Entity to the exclusion of all others is called divine love”].
 
 Where the thought-waves or thought-movements are goaded by a single idea, and where the culminating point is also a singular entity – that is, where the attraction for other entities, for the crude world or the psychic world are all goaded unto the Supreme Self, towards Viśńu – this is the supreme status of devotion. Viśńu comes from the root-verb vish which means “to permeate”. The Entity which permeates everything, which is present in each and every expressed entity, in each and every emanation of this universe, is Viśńu.
 

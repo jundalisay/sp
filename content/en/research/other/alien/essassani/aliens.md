@@ -8,16 +8,17 @@ description: "Bashar answers Questions about Aliens"
 
 Physical Aliens | Description
 --- | ---
-Humans | Genetically manipulated homo erectus
-Reptilians | Genetically manipulated dinosaurs
-Grays | Genetically modified Future humans
+Humans | Genetically manipulated homo erectus by the Anunnaki
+Anunnaki | Creators of humans, from Cygnus 
 Blue men | Compassionate race
-Tall Whites | Nordics
-Anunnaki | Creators of humans 
+Essassani | Hybrid of humans and grays, from Orion
+Grays | Genetically modified future humans, from Zeta Reticuli
+Lyrian | Evolved from Anunnaki
+Plaedians | Also evolved from Anunnaki
 Precursors | Creators of reptilians and dinosaurs 
-Essassani | Hybrid of humans and grays
-Plaedians | Evolved from Anunnaki
+Reptilians | Genetically manipulated dinosaurs
 Sirians | These are the good aquatic aliens and source of RH negative blood type and dolphins
+Tall Whites | Nordics
 
 
 Non-Physical Aliens | Description

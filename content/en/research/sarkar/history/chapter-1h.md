@@ -4,7 +4,7 @@ title: "Bhojpuri"
 c: "forestgreen"
 description: "Buddhism remained a living faith in Varanasi and in its surrouding districts for several hundred years."
 icon: "PR Sarkar"
-weight: 16
+weight: 18
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

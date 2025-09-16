@@ -4,7 +4,7 @@ title: "Kajul Kadphisus of the Kushans"
 c: "forestgreen"
 description: "Kajul Kadphisus was the king of Kushan dynasty, Kanishka was his successor, who ruled over west and north India. Vashiska was his sun, but his later successors became very weak."
 icon: "PR Sarkar"
-weight: 30
+weight: 40
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

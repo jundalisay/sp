@@ -4,7 +4,7 @@ title: "Ganesh"
 c: "forestgreen"
 description: "Ganesh is also known a Ganapati and Vinayaka, which means people's leader."
 icon: "PR Sarkar"
-weight: 44
+weight: 54
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

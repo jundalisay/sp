@@ -1,127 +1,153 @@
 ---
-heading: Chapter 3c
-title: "Philological research"
+heading: Chapter 3b
+title: "Jammu, Kashmir and Nepal"
 c: "forestgreen"
-description: "In Kashmir court, official work should be done in Kashmiri while in Jammu it should be done in Dogri."
+description: "The Newars ruled over Nepal till 1773, after which Nepal came under the Gorkhas."
 icon: "PR Sarkar"
-weight: 26
+weight: 33
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 
+Mahayana Buddhism prevailed in Garhwal, Kumayun, Ladakh, Kinnaur, Nepal, Bhutan and Sikkim. 
 
-Jammu, March 5, 1984
+Dalai Lama was accepted as Dharma guru (ecclesiastical head) in these areas and not temporal head.
 
-<!-- 15 -->
+But in Tibet, he was accepted both as ecclesiastical and temporal head.
 
-Baba visited Maulana Azad Park, previously it was known as Company Bag, which was used as stable for the horses of the Maharaja of Jammu and Kashmir. 
+Mahasanghikas called themselves as Mahayanis and called Theravadis as Hinayanis. 
 
-It had also orange orchards. Baba said:
+In Chitagong of Bengal, Hinayana Buddhism prevailed.
+
+They did not embrace Islam and are known as Barua.
+
+In the rest of Bengal, Mahayani Buddhism prevailed and later, they embraced Islam.
+
+The universities should reveal real history and get them written. 
+
+From here (the place of Shitala Devi) the history of Duggar Desh can be found.
+
+The Newars ruled over Nepal till 1773, after which Nepal came under the Gorkhas.
+
+Prithvi Narayan Shah was the king. 
+
+The history of Duggar Desh will also tell the history of India. 
+
+Many of the manuscripts had already been destroyed.
+- The Brahmans have even left reading Sanskrit. 
+
+Some of the manuscripts are still available in Kashmir.
+
+In Kashmir, the mediterranean sub-group of Caucasian Aryans are found. 
+- They are fair-complexioned, slim with bad health.
+
+The nordic sub-group is found in Jammu.
+- They are long, reddish and heavy in build. 
+
+The Jath population of the plains have light build and are long in height. 
+
+In Kashmir, a few of the Alpine group of Aryans were also seen by Baba.
+
+The Alpines are fast getting extinct. 
+
+Their colour is white and irishes blue. 
+
+The history of Kash tribe is also extinct.
 
 {{< l a="Baba" >}}
-An attempt to develop Kashmir was made since Jahangir, but the city of Jammu was neglected.
-- Now some attempt to develop this area is being made.
-
-The first phase of Dogra empire begins about 3,000 years ago, 400 to 500 years after Krsna. 
-
-But there is no history of those days, no historical narration of Jammu Locan Bala. 
-
-There is no proper history available of the pre-British days. 
-
-Ranjit Singh conquered the area from Kabul to Sirmaur, no proper account of his rule in Kasmir is available. 
-
-There is a gap of more than 2,500 years between Jammu Locan and Gulab Singh. 
-
-No history of the period between Kumarayana, a great Kashmiri scholar and Gulab Singh is available. 
-
-There is a gap of 1.000 years. But no proper account of this period is available. 
-
-The propounder of Vaeshesika philosophy, Kanada and the first grammarian Panini were born here.
-
-According to Kalhan's Rajtarangini, Kashmir kingdom was stretched over from Sarda Math to Kumkum (Pamir), it touched the southern portion of Russia.
-
-It streched over 50 x 12=600 sq. miles. In the south of Kashmir is Jammu, and both of them were included in the Dogra kingdom.
-
-After the last Anglo-Sikh battle, half of the kingdom of Ranajit Singh, from Persia to Peshavar, was left over.
-
-But Punjab was annexed by Britishers to have soldiers for the army. 
-
-Kashmir was sold to Gulab Singh (1846).
-
-Some people of the north western portion, never accepted the suzerainty of Britishers. 
-
-Britishers kept their boundary at Ladakh. 
-
-Sher Shah had built a road from Dhaka to Ladakh. 
-
-Later, Jorawar Singh conquered Ladakh and Tibet and according to treaty of Lhasa, he took "Chauth" of 4,000 gold Asharfis (coins). 
-
-Locus standii should be classified. 
-
-There should be a Board of Historians to link the ancient with the modern and the Government should manage and arrange for the research work.
+Their history is only with me. 
 {{< /l >}}
 
-<!-- 76 -->
+They have no trace in Tibet also. Gujjars in Kashmir embraced Islam. They have high nose. Gujjars in Hariyana and Punjab are Hindus.
 
-Butt and Dhar* were originally Bengali Brahmans and pronoun ced ksa as Kha, in the Yajurvediya style. 
+Jammu is the first Aryan principality in India.
 
-The disciples of Guru Nanak were called Shikhya (Shisya) which later became Sikk.
 
-Sanskrit should be taught.
 
-The mother of all the languages from Afghanistan to Malayasia is Sanskrit. 
+## Jammu, March 4, 1984
 
-( Baba mentioned about His family and said that His ancestors since the days of Shahjahan were government officers. In Bengal, court language was Urdu, but Baba's ancestors were well-versed in Sanskrt, His father was also a Sanskrit scholar). 
+<!-- 73 -->
 
-Philological research is also very important. 
+Baba visited today Bag-i-Bahu fort at Jammu. Viewing the place Baba said:
 
-Pashto, Kurdi and Kashmiri languages come from Pashcattya Prakrit. 
+{{< l a="Baba" >}}
+Jammu Locana Bala and Bahu Locana Bala were cousins. 
 
-In Pashcattya Prakrit, the word 'Pama' became 'Pam' in demi Pashcattya Prakrit.
-- In modera Kashmiri it is 'Pamposh'.
+Bahu Locan was the king, some 2,500 years ago, before the Buddhist period: the back-structure of the fort had been constructed by joining stones, which speaks of its period of construction.
 
-For possessive case, one uses `Ka, Ke, Kii, Kena`, and `Kerii` in Shaorseni Prakrit.
+The 'Bala' title is no more used in Jammu and Punjab. 
 
-Ram's sister is said as 'Ram Keri Bahan'.
+They ruled over Gandhar, Jammu, Kashmir, South Russia and West Tibet. 
 
-In Pascati Prakrit (Punjabi, Pahari, Punjabi, Dogri) `Da, De, Dii` is used for possessive case. 
+Jammu-Dwiipa had been the ancient name used after the name Jammu-Desh. 
 
-For example, Amm Di Acar (piceles of mango). Ka, Ke, Kii of Hindi have been taken from Shaorseni Prakrta.
+The name Jammu Locan Bala was derived from Jammu. That was the best period of the history of Jammu. It was the golden period of Dogra-period. 
 
-Baba said that He had travelled in the villages of Amritsa some 30 years back and had collected some folksongs. 
+Lalitaditya, the great king of this region reigned before Shanker Verman. 
 
-The mother tongue of Punjabi was neglected and Urdu was imposed. 
+The period of Bahu Locan was about 2,500 years ago, after the age of the Atharva Veda and after Krishna, between 2,500 and 3,000 yearas go. 
 
-Baba said that He had collected some 500 songs of Hola.
+<!-- Krishna lived some 3,500 years ago. Mahaviir and Buddha lived 2500 years ago. -->
+{{< /l >}}
 
-Ai Basant Di Bahara Amba mole tesu mole
-Mol rahi kacna'r
 
-Every language has its own phonetic style. 
+Baba called for a stone from the temple and asked to make sound by striking an iron ring over it. 
 
-The script of Kashmiri was removed. 
+Listening to the sound Baba said it is a dead rock of the period between 2,500 and 3,000 years before, earlier than Lord Buddha and after Lord Krishna. You can get the ancient history of Jammu from this temple.
 
-It was difficult to write Sanskrt in Persian script. 
+The deity of the temple is Kali or Kalika, whose legs are covered. 
 
-1,500-2,000 years before Persian script, Kharosti was used. 
+Baba said that the statue of the deity is older than the Buddhist period and belongs to the Atharva-Vedik period; it is the deity of the Atharva Vediya Bhadra Kali. 
 
-Arabic script came in use after the dominance of Islam. 
+The deity has 3 eyes and nose ring is attached to the nose. 
 
-In Persian Ga and Ja are one while in Arabic they are separate.
+Mangotra Brahmans are the Purohits (priests) of the temple. There is a lotus above the deity and the deity is wearing 'chola', not 'Sari". 
 
-40 years ago, Baba had made research in Arabic. 
+Aryans started the use of "Sari" after crossing Ganga, before that ladies were not wearing 'Sari'. The upper lotus expresses Mongolian influence. 
 
-In Persian, it will be Talib-i-Ilm, in Arabic it shall be Talib-ul-Ilm. 
+The face of the petals in a lotus represents different section of Tantra: the petals of lotus facing downwards represent Buddha Tantra, while that facing upwards represents Shaeva Tantra. 
 
-Arabic names will be written Sirajud Daula, Fajlur Rahman, Unnissa. 
 
-In English ('s) or 'of' serves the purpose of possessive case.
+The Kashmiri section of Tantra has been influenced by Buddha and Shaeva Tantra. 
 
-In Kashmir court, official work should be done in Kashmiri while in Jammu it should be done in Dogri.
+<!-- Shell P. R. Sarkar -->
 
-The village folk could not understand Urdu with which they had no contact. Urdu was imposed during the reign of Jahangir. Before Queen Didda Namskrta had its important position here. Damodar Gupta was A great Samskrta scholar.
+Here you find the influene of Sheva Tantra. This symbolisation of history must not be neglected.
 
-<!-- 77 -->
+The "Bala" ruled over a vast empire from Kabul to east Tibet and in the south upto Jwalamukhi.
+
+It was the golden period of Dogra period.
+- This land was known as Dwigarta-bhumi in Samskrta. 
+
+Around 2,500-3,000 years ago, the spoken language of the people was Paeshacii Prakrit whose daugher was demi Parshacli, from which the languages, Dogri, Punjabi, Pahari Punjabi and Multani (a blending of Punjabi and Sindhi) emerged. 
+
+Since the deity of the temple belongs to Shakta-tantra, there is every chance that it has been brought from Calcutta, since Bengal was the seat of Shakta Tantra. 
+
+The architect of the temple is of Rajawara style.
+
+It is the most ancient land. 
+
+Aryans first came here on the northern side. 
+
+Some of them went to Kashmir and above, and moving southwards, some went to the plains of India through Sapta Sindhu. 
+
+After Kabul and the Indus rivers were taken away from the land, it was known as Panca Ab or Punjab. 
+
+India extended up to Pamir in the north of Gilgit. 
+
+On the north of Pamir, the language spoken was Pashchattya Prakrit.
+
+The Brahmans of this place are vegetarians. They are Sarasvata Brahmans.
+
+The Purohit (priest) of this temple wears long sacred thread which speaks of Bengal's influence.
+
+The deity also belongs to Bengal since it is the deity of Shakta Tantra.
+
+The influence of Kashmiri Tantra is very little.
+
+It was an independent kingdom till Jahangir, the son of Akbar from his Hindu wife. 
+
+It is a land of great historical importance.
 

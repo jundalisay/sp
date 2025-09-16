@@ -28,7 +28,7 @@ Lower | Spacetime | Space is dominant
 - Spacetime is the sublayer where space predominates and time is minimal. 
 - Aetherspace is the layer that combines both timespace and spacetime in order to have an arena for both physical and metaphysical perceptions. 
 
-{{< img src="/graphics/physics/msq.jpg" alt="MSQ Model " cap="The subdivision of the saptial layer within the 5 layer model. Note how the edge of the visible universe separates spacetime and the aetherspace" >}}
+{{< img src="/graphics/physics/msq.svg" alt="MSQ Model " cap="The subdivision of the saptial layer within the 5 layer model. Note how the edge of the visible universe separates spacetime and the aetherspace" >}}
 
 
 

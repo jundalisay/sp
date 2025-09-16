@@ -4,7 +4,7 @@ title: "Digambar Jains"
 c: "forestgreen"
 description: "Human civilisation flourished in the river valleys, since humans did not how to dig wells before the stone age"
 icon: "PR Sarkar"
-weight: 42
+weight: 52
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar

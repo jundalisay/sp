@@ -112,7 +112,7 @@ The ideas of religious liberty and freedom of conscience merely gave expression 
 
 People will say:
 
-{{< q >}}
+{{< l a="People" >}}
 Religious, moral, philosophical, and juridical ideas have been modified in the course of history.
 
 But religion, morality, philosophy, political science, and law do not change.
@@ -120,7 +120,7 @@ But religion, morality, philosophy, political science, and law do not change.
 There are eternal truths, such as Freedom, Justice, etc., that are common to all states of society.
 
 Communism abolishes all eternal truths, religion, and morality instead of constituting them on a new basis. It contradicts historical experience.
-{{< /q >}}
+{{< /l >}}
 
 
 History has consisted in the development of class antagonisms that took different forms at different epochs.
@@ -202,3 +202,5 @@ By proletariat, the class of modern wage labourers who, having no means of produ
 “Commune” was the name taken in France by the nascent towns even before they had conquered from their feudal lords and masters local self-government and political rights as the “Third Estate.” Generally speaking, for the economical development of the capitalists, England is here taken as the typical country, for its political development, France. [Engels, 1888 English Edition]
 
  -->
+
+ 

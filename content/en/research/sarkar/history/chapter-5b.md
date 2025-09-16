@@ -1,131 +1,115 @@
 ---
 heading: Chapter 5b
-title: "Magahi Language"
+title: "The Animals of Magadh"
 c: "forestgreen"
-description: "Magahi has got four dialects which are spoken in Jammui, Haisir, Barh and Gaya"
+description: "Baba visited Betala, a forest reserve for wild animals, where He talked about the eco-biological background of Magadh."
 icon: "PR Sarkar"
-weight: 64
+weight: 63
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 
+Medininagar (Daltongonj) March 31, 1984
 
-The Sona and Kena rivers meet near Halands, the Sons river flows from the west and enters the Kana river from the eastern side. The Nairanjana and Mohana rivers meet and merge in the Phalgu river near Gaya, while the Phalgu river Rows from the southwest to the northeast. 
+Baba came to Medininagar from Allahabad. 
 
-The Puspon river au passes through Magadh. Mahua Dandha is the water Harrier of Magadh Rivers to the south of Mahua Dhandha How towards Chissa and those to the north flow towards Gaya. 
+Baba visited Betala, a forest reserve for wild animals, where He talked about the eco-biological background of Magadh. 
 
-Languages for follow the same geographical pattern. 
-
-People to the southeastern side, towards Orisa, and West Bengal, spak Hasport to the past, Nagpuria was taken as a dialect of
-Magad station is composed from five river valley civili- sation which fourthed along the Sona, Koyal. 
-
-Kiul, Ganga, And Phalen As already mentioned, Maga means those who changed Vedaism rather than accepted it, while Magadh mean the where such people lived. Magadha was the focal point for this who challenged Vacdie ritualism and accepted Buddhin which appated the Vardie rituals.
-
-Hindu Muslims share the same cultural, linguistic and acials in this area. Both have an Austrico Negroid history, hps all and both observe common rituals and tradi-
-
-Main, who came from Persia and spoke Urdu, have adopted bending of Urdu and Magahii as their language. The malen of the diabet is like Magahil. Shias live in specific thepura mahalla of Patna and the Lakhisarai on, and spat Magahil outside their homes.
-
-Magahi Matment promus pha' of 'tak liipha' (trouble), since phanty ward consonant in Magahi vocabulary.
-
-si compted of pro-definite articles viz. 'ektho, bited by two of the granddaughters of Maga- Hashi and Bhojpuri. This is not the case and Hindi. The gender and number of the verb The verb remains the same
+Baba made the following observations about the animal life in the region.
 
 
-<!-- 116 -->
+Indian elephants are of 3 varieties:
 
-even if the gender and number of the subject are changed. are certain exceptions to this rule in Bhojpuri, which has influenced by Shauraseni Prakrta. 
+1. South of Nagpur variety
+2. Chotanagpur variety
+3. Bengal-Assam variety
 
-But in Shaurasenit Pratig and Hindi, the verb changes with changes in the gender number of the subject. In Urdu and Hindi, there is no plural nouns used for fruits and vegetables.
+Lions sometimes eat bamboos.
 
-<!-- 117 -->
+Elephants do not eat hard wood. 
 
-Magahi has got four dialects which are spoken in Jammui, Haisir, Barh and Gaya. Rajgiri dialect should be taken as the standard dialect for the region. In the Aurangabad and Palamu districts of Magadh the influence of Bhojpuri is evident. Words like 'rauan' for respectfulness, and 'unkhal' for sugar cane are Emmonly used.
+Royal Bengal tigers can live in this region. 
 
-Medninagar, 1 April, 1984
+Wild boars and small deer are the favourite food of tigers. 
 
-Today Baba visited the fruit research centre at Chiyent While walking He made the following observations.
+Rhinoceroses can not lie around Betala because there is no mud for them to wallow in. 
 
-The soil in Magadha belongs to old Gondwanaland # laterite soil and contains plenty of calcium. It is ideal for ing roses, papayas, grapes, and white roses. Without using fertiliser, citrus, pumpkins, berries and guavas of medium this (guavas do not need much laterite soil) can readily grow in lastRE soil with only a little fertiliser. However laterite soil is ret for grafted mangoes.
+Panthers and elephants of east and south Indian varieties all live here. 
 
+The average rainfall of Betala is higher than the regional average.
 
-Lemons can be grown well here but not oranges, which mostly in northeast India, including Assam.
+The mammoths existed here 2 millon years ago.
 
-Oranges are to peel than lemons, but oranges cannot be given to a dial patient while lemons can be. Custard apples, which were brought to India by the Portugese about 450 years ago, can also be grown in Magadha. Small and large-sized grapes with seeds can b grown in sixteen or more kilometers from the Ganga, en sides of the river.
+The 4 present varieties of elephants are their direct descendants.
 
-Digha-variety of Langra' mango, which i small and sweet can also be grown here. The langra-mangha got five varieties which belong to Maldah, Bhagalpur, Luckn Monghyr and Digha. Roses are of two main varieties-occident and oriental. 
+1. An African variety from just south of the Sahara which has a small head and little intelligence.
 
-The former is a large rose but has little while the latter produces many strongly scented flowers in the winter. Liichis and bananas can be grown where the lit laterite. Composite fertiliser is the best nourishment for banana If plantation does not have proper irrigation, seeds grow in the fruit.
+It cannot be tamed.
+<!-- 114 -->
 
+2. The Indian variety found in Orissa, West Bengal, North Bengal and Assam.
 
-Afedininagar, April 2, 1963
+It has a big head. The male has tusk, but it is smaller than the African variety.
 
-Medaninagar is one of the famous towns of Magadha eivilisation, and is situated in Bihar, near, Ranchi. Magadha represents the river valley civilisation enriched by Phalgu, Niran- jana Sone, Kena and Ganga rivers.
+In Sanskrit, the big Indian elephant was known as area'vata. 
 
-In the ancient past, it was the seat of Buddhism and being Ron-vaedic, it was known as Magadha ]
+3. The North-east Indian variety found in Tripura, Nagaland, Assam and Burma.
 
-Today Baba visited a Shiva temple at Rajawadiha near Medininagar. 
+It is 3/4 of the size of the big Indian variety and is of ash colour.
 
-The deity of the temple is Siddheshvara Shiva, and the Mehanta or priest of the temple belongs to the Dasnami section. of Shankaracarya sect. The Mahamandaleshvar of the sect lives in Varanasi. There is a perennial flow of water near the deity. Baba explained that the water level of Rajawadiha is high, providing a a continuous flow for a fountain near the deity. According to the priest the deity is known as Narvadeshvara Joytirlinga How- ever, Dhyana mantra of Shiva is used during worship at the temple. The original Shiva-linga was stolen and a new one brought from Jaipur and established here.
+It is very intelligent but cannot be tamed. 
 
+Sometimes it might walk on rail tracks during the night and obstruct trains in hilly areas. 
 
-Magadhi Prakrta became extinct 2,000 years ago. But eastern or oriental demi-Magadhi and western or occidental demi-Magadhi emerged as its two offshoots. 
+4. The south variety is found in Burma and Thailand and is whitish in colour but rarely found. 
 
-About 1,200 years ago, Assamia, Bengali, Oriya, Angika and Maethili developed from the oriental branch and Magahii, Bhojpuri, Nagpuria and Chattisgarhi evolved from the occidental one. 
+People worship this variety. 150 years ago, such elephants were found in Tirhuta. 
 
-In the oriental offshoots 'cha' is used for the present tense and 'la and 'ba' for the past and future tenses; in the occidental off- shoots 'cha' is not used for the present tense but 'la' and 'ba' are still used for the past and the future tenses.
+In the past, large numbers of rhinos and elephants were found around Medininagar because of the high rainfall in the region.
 
+But deforestation had adversely affected the rainfall and the region has practically become a desert.
 
+If the rainfall increases, rhinos, elephants and even crocodiles will be able to live here.
 
-<!-- 118 -->
-Tatanagar, 4 April, 1984
+Indian crocodiles are of 3 varieties:
 
-[ Tatanagar is the industrial town of Bihar, but more singni- cant is the fact that it is a place around which the civilisation of Rárh flourished. Rarh is a rich valley civilisation comprising of five-valley-civilisations. Herein one can visualize the advent and blending of Shacvism, Jainism, Buddhism, Pauranicism and Gauriya Vaeshnavism. It is a rich and glorious land of deve- loped civilisaction which is the vicinity of Tatanagar, previously known as Ka'limati.
-
-Rarh dipicts the presence of Bone Age and also where farm- ing or sowing of seeds was invented, before which humans were hunters and food-gatherers. 
-
-Nature and humans had made this civilisation of Rach a glorious panorama of human history]
-Baba came to Tatanagar from Medininagar. 
-
-During His stay at Tatanagar, Bab visited a place called Jayada on the banks of the Suvarnarcha river, about 32 kilometers from Tata. 
-
-He went to a Shiva temple which had a large Shiva linga as its deity. Baba made some inquiries among the local villagers and was told that people with the title 'Garain', Barak, Das and Majhi live here. They are vegetarians, wear a Kanthi, a garland, made of round pieces of tulsi-wood around the neck. 
-
-People with the title of Kurmi-Mahato also live here. The title of the priest is Pandey. Baba observed, Gauriya and Utkat Brahmans do not act as Purohits in social and religious functions. 
-
-The script found here was rectangular in shape. 
-
-Two famous kings of the Varahabhum Rajya were Adivaraha, and Keshavaraha. 
-
-To the west of this kingdom was Ranchi, to the east Manbhum. The entire area within this boundary was known as Varahabhum and its capital was Varahbajar. Purulia, Chandil, Muri, Deogarh, Patamda, Arsa and Nimdi were included in Varahabhum rajya.
-
-The original population of Bengal consisted of people with titles like Mahato, Kurmi-mahato, Mahiaya, Sadgope, Rajvanshi and Chakma. The titles Garain which was derived from Garh- Kiirti, was also prevalent in the original population. The Gara- ins adopted Jainism as their religion. Other tribes like the Kheria-Munda, Singh munda, Khangar munda, Cussia munda, Kusmete munda also existed in Bengal. The fathers of poeple with these titles were Bengalis while the mothers belong to the Munda community 
+1. Those that eat small fishes, Bangalites which live in non saline water and sometimes eat people (in the local language they are known as magaramach); and Bangalites Gangelites which are found near Sundervana and Gangasagar are the most dangerous variety.
 
 
-<!-- 119 -->
+In the past Betala had plenty of rainfall. Cane was grown here (cane means Beta in Sanskrit), and the place was known as Betrala. Presently it is known as Betala. 
 
-Culturally they were tribes but their language was Rach station is somposed of five river-valleys which flo- word sing the Bucanarekha, Kansavati, Dulang. Ajaya, Ku- mart and Hamday is Jainism was influential in the Damo- dar and As the valley civilizations. 
+Deforestation caused the rainfall to decrease and cane production also diminished. 
 
-Tirthankar Mahavir Arthur cams to Raih shom years ago and his gospels were accepted by the past the Western side of Rarh, Jainism was more Influenital than Huddhism, while on the eastern side of Rarh, Buddhing way mais infusatiat Jainism had little influence in centrat Bengal white Buddhism was dominant. In east Bengal after the Palety sams to power, Hindu kings were the domi- want us and transguace Mahayani Buddhists gave up that the aged Hinduism. However, the Mahayani Borated as low aste Hindus by the Hindu commu- ay and the Fathan period, they embraced Islam. 
+Reforestation will increase the rainfall in the region and Medininagar (Daltonganj) and the Koyal dam will have water throughout the year. 
 
-In Chipple kept their faith in Hinayani Buddh- fum, and did not flam At present these Bengal:-spea Kinept the die Harus which is derived from Batuka, which mint great in Awam. Barua is a title used by teh
+A constant supply of water apart from reforestation, is inappropriate because they are too costly. 
 
-The nut of Mahaprabhu Castanya Deva was very great in Back Maps propagated Vaesnavism during the middle of the Parka rate the charm of his personality and the great that the entire Jain belt Vas'naviam. 
+There are several varieties of animals of the cat group. 
 
-In Bengal and Orissa,
+1. Tiger
 
-All the propham Mahaprabhuites and they used Kant'hii And beim tantumquently Jainism merged into Vacs'- navim Rack 1 tay the land of Shaevism, and Jainism had to somers with the Shiva cult and Shiva was accepted by faint this things and Gaurii plitha are evidence of Jain his A Tara Bhivating was worshipped by follow- ers of faint Augh Mahaprabhu's influence on the people was profound and they accepted Varanavism, Shiva remained. the de than adoration the Shiva temple, at Jayada still attracts the decation and duration of the local people.
+The Royal Bengal tiger is the biggest animal in the group.
 
+It conists of 2 types:
 
-<!-- 120 -->
+- Those that eat people
+- Those that don't
 
-Folhas form the majority of the Muslims in Rarh; but tarains, who came from Garha-kir'ti, are also treated as low caste people. 
+2. The leopard, known as Citra-vyaghra in Sanskrit. 
 
-Water touched by them is not used by higher castes. Garh means place of famous learning, while Garhakiirti means a person who looked after Garh. 
+3. The panther, known as Gulbagha, since it contains the print of a 'gulab' or rose in its coat.
 
-After the decay of Jainism, Hindus began to look down on Garains. Julahas who had previously been Buddhist or Jains also met the same fate. The socio-religious dogma and discrimination caused by such caste sentiments has a divis sive impact on Indian society.
+4. The Jaguar which is found in South America.
 
-The influence of Maha'prabhu was very great in Tripura: A clan from Burma came to Tripura a little before Pathan rule commenced. 
+<!-- 115 -->
 
-The Pathan king Mu-chang-fa embraced Vaeshnavism, and became known as Viir Bikram Bhahadur Under Maha'prabhu's influence, the Digamvar Jains of Rarh alsa embraced Gauriiya Vaeshnavism. Although Jain influence was dominant in Midnapore after Maha'prabhu visitd the region the entire area came under the inflence of Vaeshnavism.
+5. The hyena
+
+6. The wild cat
+
+7. The domestic cat which is the smallest animal in the group.
+
+Topographically, Palamu is the highest place in Magadh, while the lowest is Mokama. 
 

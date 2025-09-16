@@ -48,7 +48,7 @@ Aethereal | Upper | mom1 (gas, bose condensate) | qom1 (Up-Down Quarks)
 . | Lower | mom3 (solid) | qom3 (Top-Bottom Quark)
 
 
-{{< img src="/graphics/physics/msq.jpg" alt="Layers and sublayers in the MSQ table" cap="Each Layer is subdivided into 3 sublayers" >}}
+{{< img src="/graphics/physics/msq.svg" alt="Layers and sublayers in the MSQ table" cap="Each Layer is subdivided into 3 sublayers" >}}
 
 
 ## The Internal Boundary

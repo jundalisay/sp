@@ -49,7 +49,7 @@ The edge of the universe is the internal boundary in the Spatial layer that sepa
 - The invisible is made up of the parts beyond the edge of the universe, as well as the quantum spaces that are virtual or theoretical. 
 - The visible is made up of galaxies and matter that we can see
 
-{{< i s="/graphics/physics/msq.jpg" alt="MSQ" >}}
+{{< i s="/graphics/physics/msq.svg" alt="MSQ" >}}
 
 The ratio 5,130,000 (base 6) or 244,944 (base 10) between the internal boundary at the current edge diameter of 93 billion light years leads to galaxy-particles (vortices in Descartes Physics) sized at around 300,000 light years across. 
 

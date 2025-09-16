@@ -40,7 +40,7 @@ This then led to the Cosmology Crisis and the inability to explain or harness da
 
 We explain that time has 2 aspects: mental and physical. 
 
-{{< img src="/graphics/physics/msq.jpg" alt="MSQ" cap="The mental spacetime is above the Spacetime Internal Boundary or SIB. The physical spacetime is below that." >}}
+{{< img src="/graphics/physics/msq.svg" alt="MSQ" cap="The mental spacetime is above the Spacetime Internal Boundary or SIB. The physical spacetime is below that." >}}
 
 
 Spacetime having a physical and a mental property is similar to light having a particle property and a wave property.

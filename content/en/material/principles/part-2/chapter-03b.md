@@ -14,7 +14,7 @@ icon: "Juan"
 
 Timespace is the highest and most subtle sublayer of the Spatial layer. 
 
-{{< img src="/graphics/physics/msq.jpg" alt="MSQ Model " cap="The subdivision of the saptial layer within the 5 layer model. Note how the edge of the visible universe separates spacetime and the aetherspace" >}}
+{{< img src="/graphics/physics/msq.svg" alt="MSQ Model " cap="The subdivision of the saptial layer within the 5 layer model. Note how the edge of the visible universe separates spacetime and the aetherspace" >}}
 
 Here, time predominates and space is minimal. This is the opposite of spacetime where space predominates.
 

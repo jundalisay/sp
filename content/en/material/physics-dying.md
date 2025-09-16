@@ -79,7 +79,7 @@ We solve all of these by replacing Einstein's Electromagnetic-centered Relativit
 
 This timespace is part of the Spatial Layer in our 5 Elements model:
 
-{{< i s="/graphics/physics/msq.jpg" a="MSQ" >}}
+{{< i s="/graphics/physics/msq.svg" a="MSQ" >}}
 
 Assume there are 3 particles in a universe:
 

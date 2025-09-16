@@ -29,7 +29,7 @@ Stellar | Stars and Planets
 - The change between them are Planck time. 
 
 
-{{< i s="/graphics/physics/msq.jpg" a="MSQ" >}}
+{{< i s="/graphics/physics/msq.svg" a="MSQ" >}}
 
 
 <!-- This leads to:

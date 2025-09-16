@@ -1,190 +1,100 @@
 ---
 heading: Chapter 5e
-title: "Majhis (Santhals)"
+title: "Tatanagar"
 c: "forestgreen"
-description: "The prince Shubhendu Narain Singha deva was an expert in 'Cho' dance"
+description: "The capital of Shashanka was situated near Naihati and Bhadrapur in the district of Birbhum."
 icon: "PR Sarkar"
-weight: 69
+weight: 68
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 
-April 6, 1984
+<!-- April 198x. -->
 
-Today Baba visited Krishnapur a village about 150 years old. There is a Hari Mandir of temple here and the cul- ture in the area has been greatly influened by Mahaprabhu. 
+Today, Baba visited a village called Bhulagram in the Mankham district of Varahabhum.
 
-The Kharakaya river flows at a short distance from the village. 
+Baba said that the area of Varahathum included the Ayodhya Hill and Sonahatu in the north. 
 
-Local people do not know of any temples or old rock paintings in the vicinity or idols along the rocks of the Kharkaya river. 
+Fatalitomar in the west, Manbajar in the north-east. Kigar and Handwan in the southwest and Chandil in the south.
 
-Southeast of the Kharkaya river is Saraikela where Aditya Pratap Narain Deva once ruled. 
 
-The prince Shubhendu Narain Singha deva was an expert in 'Cho' dance. 
+the hundred years ago, people started giving up Jainism to embrace Gulya Varshavaism. The Vaeshnava poet Jaideva was alive then and Ballat Ben was the ruler of the region. 
 
-Saraikela is so named be cause kela or plantain grows here.
+Da'ksayant Het was the established deity of the Pallab Rajya and Daks- Avant meant Burga'devi. 
 
-The Sanjaya river meets the Kharakaya river which flows into the Suvarnarekha river. 
+In those days, this region was a forest.
+- The first inhabitants were from the Singhmunda tribe. 
 
-The Dulang river meets the Suvarnarekha river at Citaligarh, which was once the capital of Dhavala bhum. 
+Bujar was a sub group of the Singhmunda tribe who spoke Ham The and group of inhabitants who lived in this region anged to the Bauri tribe and spoke Ra'rhi Bamla'. Ringhimandat cutablished their kingdom over Vara'hbhum and
 
-People of the Dakra seet used to live on the banks of the Suvarnarekha river and took out gold. 
+The the capital at Varabajar, a block of Purulia district. 
 
-Nowadays gold is extracted from the local mine.
+A Varaha and Kesh Varaha were the leaders of the Singh mundar who accomplished this victory. Varahabhum had a natural boundary on the northern side was the Kumari River; in the can side was the Kasali river, where the Kumari and Ram on the south was the Chandil river upto
 
-Ho-mundas live nearby and Majhis or Santhals also live in the region and use the titles like Hembrum, Murmu and Tudu. 
+The British entered Bengal after the battle of Plassey. 
+- Then they took over the Diwani of Bengal, and captured Chota Nagpur The Mundes revolted and their Rajya was not under domination. 
 
-Majhis came to Tatanagar 250 years ago. 
+To the north of the Damodar river was Shikhar hum tanah with the capital at Jharia and to the south of Hamder was Manbhum with the capital at Manbajar. 
 
-The titles Marang and Murmu are also used by the people living around Tatanagar.
+harum Ma'ahum and Varahbhum were collectively kan Jungle Mahal Varahabhum accepted the domi- athen of the Huh and later the British occupied the entire Yung Maha Manbajar, the capital of Manbhum, had a wally of water, the British called a meeting of the kings of Vaighbhum, Bankura, Kashipur, Jaipur, Jhalda, and Silli od acted them in construct the Purulia dam. It was named the Bake Fam and is presently known as the Nivarana
 
-To the south of Saraikela as far as Mayurbhanja, there used to be a dense forest. 
+<!-- 124 -->
 
-The Krishnapura variety of deer once lived to the east of Krishnapur while to its south a few horned deer were once found. 
+Dam, and is very near Purulia. At present there is no Manbhum district, the capital has been shifted to Purulia.
 
-When the forest in the region was destroyed, these animals became extinct.
+Around 40 years ago, Baba had visited the Bhulagram when it was in Manbhum district. 
 
-Meghasini is a high hill and in front of Krishnapur there is at small hill where Satpathi Brahmans reside.
+He has also composed a a song about the region, (Na'cher ta'le egiye cale, manbhum mati). Baba further observed:
 
-The soil of Rarh is laterite soil, but black soil is also found in places like Kalimati. Rarh is famous for rhythm while Magadh is famous for music,
+{{< l a="Baba" >}}
+About 850-900 years ago, the followers of Digamvara Jain were found in Manbhum. But under the influence of Mala prabhu they slowly embraced Gauriya Vaeshnavism. 
 
+Nude statues of gods can still be found on the banks of the rivers in ods can still be found on the this area.
 
-### Tatanagar April 7, 1984
+Forty years ago people holding the title Garhakiirti were common in this region. Old temples constructed with a special type of bricks which were thin but large, can still be found.
 
-Today, Baba visited a village called Nijal on the other side of the Sanjaya river.
+A nude Kali idol, popularly known as Shmashana Kali Kali of the cremation ground-is still standing in Bhulagram Baba said that it is a Jain diety. Other deities are Kalika and Ambika. Ducks were sacrificed at the Kali temple rather than asses or goats since the Vahana or vehicle of Jain devi was
+duck.
 
-A Shiva temple is found here though there is no Shiva linga inside. 
+Local people said that the ruins of a temple can be found in an adjacent village called Pavanpur A small river, called the Sona River flows near Pavanpur. 
 
-However, a large Gouripitha could be seen.
+It meets the Kumari river which in turn meets the Kansali river near Mukutmanipur,
+Utkal and Rarhi Brahmans did not worship at Jain shrines. When Mahatos and Garains gave up their Jain faith and em braced Vaeshnavism they did not take the services of the Brah mans. According to a prevalent supersitition, if a Rarhii of Utkal Brahman solemnises a marriage, the bride will not live long. 
 
-A local man explained to Baba that the present temple is only 200-300 years old. 
+Mahotos, Bauriis and Saraks can be found in village near Bhulagram, although there are a few Bauris and Sarak living there.
+The idols found around Bhulagram are of Jain deities, apsara (the dancing statue) is also found here. The hooded snake god is a Jain deity. The priest named it Manasa Devi and encou raged people to worship it. Later breasts were added to the deity to make it look like the goddess Manasa. Naked idols are
 
-No local person could say how long the old temple had existed. 
+Ball Jain deities, while statues which have lotus petals facing downwards denote Jain and Bhuddist Tantra.
+Pavanpura was a shrine of the Jains. Pavanpura and Pavan pur means the land that purifies. The Ganga river is also called The Pavanii Ganga, or the Ganga that purifies. The idol of Varaha sisted here was originally the idol of Vajra Varahi, a deity of Jain Tantra.
 
-Long ago, the temple was constructed with village tiles. 
-- Following that the landlord of that rebuilt it with bricks. 
+Later Shankha or a conch shell, a wheel, a club and a lotus were put in the four hands of the idol to denote the Gnd Varaha. Temples with sixty four deities are situated at fabbalpur and one of these temples has Vajravarahi, as the deity. these different idols and statues belong only to this area.
 
-Later just before 200-300 years ago, the local people collectively built the present temple.
+About 2,000 years ago the people living around Rarh were cultured and educated. 
 
-Today, they worship the deity with milk and honey. 
+Three generations ago Rarhi Brah- mans came to this region from Huda police station, near Chandan Keyari. Eighteen hundred years ago, there was only one Brahman family here enjoying tax-free land, but they died heirless. 
 
-Red and white sandalwood paste or chandan is used in the worship of such a deity. 
+The king of Barabajar had established catuspathi, an educational institution for teaching Sanskrit here.
 
-But there, only white chandan is used. 
+The script found in this region is demi-Sri Harsh script; before that Shri Harsh script was in vogue, and before that the prevalent script was Brahmi. 
 
-A special ceremony is observed on the 31st of Chaitra, when Charaka-puja perfed and Charaka songs are sung.
+Brahmi script is about 2000 years old. Dhyana mantra, a mantra relating to meditation, was most probably carved on stone in this script.
 
-Vana-viddha or arrow posing is done.
+64 kilometers west of Bhulagram lies the old Jhar khand and 320 kilometers north is Magadh. 
 
-Special worship is also done in the month of savant, which is approximately July to August. 
+Rarh extends up to Paras Nath. 
 
-Regular worship is offered at the temple every Monday. 
+The land in this region is over 300 million years old when the Himalaya, Uttar Pradesh, Bihar and the entire northern There was part of India including Punjab were beneath the sea.
 
-All people irrespective of caste are welcome to worship at the temple where mantras a rested in the local language.
+Coromondel but Rarh was above the sea. The soil here is laterite and good for growing grapes, pears, sweet citrus (minoso Indica), Guavas and papayas.
 
-One of the people in the village sang the following prayer for us:
+The language spoken here is Rarhi Bengali with varying dia- lects on the northern side. People say 'Ami nai pairbo' while on the southern side they say 'Ami lairbo' but both expressions mean 'I cannot do'.
 
-Ha's plata Bhola baje bam bam bam Spa hash bhon bhon bam bam Ha's pals bhola baje bam bam Batch sang kala kala kal
-Cars can dhara tale tala tala pe
-Midang dini ta' ta tham ta'itham tha'itham
-Dims dims dims dima damru'baje Phan phan phun phon phani garaje
+Tantra is older than Mahabir, and Jainism had to adjust with
 
-Baba noted that the village people also worship the Shitala and Manasa dites and offer duck in sacrifice. 
+<!-- 126 -->
 
-Sacrificing duck is Jain ritual and is evidence of the Jain influence in the region. 
-
-Tribals offer hens and pigs in sacrifice while other Hindus offer male goats.
-
-Baba further said:
-
-{{< l a="Baba ">}}
-In the ancient past, Tatanagar was the land of Bhaerava Tantra.
-
-<!-- 128 -->
-
-Later, Jainism had to adjust with it and Jain Tantra was the result, although Shiva was still accepted as the controlling deity. 
-
-The Jain Shiva linga and Gauri-piitha are large. Shaeva Tantra was dominant throughout the region upto 3,000 years ago. 
-
-Later the external form of Shaeva Tantra was given up by the people and gradually Jain Tantra was accepted, indicating that Jainism had spread throughout the area. 
-
-Tatanagar became a hot bed of Jain Tantra although Shashank destroyed the Jain Shiva lingas and also disfigured lingas and idols at Boudh Gaya.
-
-The capital of Shashanka was situated near Naihati and Bhadrapur in the district of Birbhum. 
-- Later it was called Rangamati.
-- Later still Harshvardhan renovated the temples in the area. 
-
-During the days of the Pal dynasty, Shiva was the main deity worshipped by the people, although Daksayanil Devi, that is, the daughter of Daksa meaning Durga was given the status of a state deity, meaning the deity of the kingdom. 
-
-The Shiva-linga here is broken, but the Gauri piitha remained intact.
-
-The priests here are neither Utkal Brahmans nor Rarhi Brahmans. 
-
-They are Pandeys who became Brahmans during the heydey of Jainism. 
-
-They were originally not Brahmans. 
-
-Pandeys are culturally Bengalis, but they have adopted the culture of the Tatanagar locality. 
-
-Pandeys are the priests of Kurmi-Mahatos, and no other class of Brahmans act as such. 
-
-The wealthy Mundas (Singh mund'a', Kheria-munda', Ho-munda', Khangar' mund's) called themselves Ksattriyas. 
-
-They speak in Mundari language at home and Bengali while outside their homes.
-
-The language spoken in the northern side of the Sanjaya river is Rarhi Bengali, and towards the south it is Kera Bengali. 
-
-The latter is a blending of Bengali and Oriya, and is spoken mostly by Utkal Brahmans like Panigrahi', Hota, and Sarangi. The word 'Kare' is commonly used in their vocabulary exemplified by 'Soa'kare Chila' Go'. The majority of famous people in the region are Mahatos.
-
-The Amyaya river originated in the western side of the Vindhya mountains. 
-
-The Vindhya' Ranges were divided into 3 parts:
-
-1. The Ramgarh area which includes Jayachandil, Keto and Susuniia extending as far as Bankura.
-2. The area towards Chakradharpur extending in the north from Ra'jmahal to Nahebaganj
-3. The hill track in Ra'rh known as Dalma and Megha'sini and Mayurbhanja.
-
-<!-- 129 -->
-
-The Meghasini got its name because the Kharakaya and Sanjay rivers originate in the Vindhya mountains where Megha or clouds continuously drift from the sky.
-
-The Porahat rajya was divided into 2 parts about 700 years ago during the Pathan period, due to a fight between 2 princes:
-
-1. Saraikela kingdom
-2. Kharswan kingdom
-
-The king of Saraikela made Oriya the official language, but the people spoke Bengali. 
-
-The language spoken in Mayurbhanja was Kera-Ba'mla. It was known as Mayurbhanj since the Mayur or peacock was Carved in the ornaments of the women of the royal family. 
-
-The land of north Saraikela is more fertile than the land of the sou- thern region.
-
-In the past, the Sanjaya river was a large river.
-
-But the Kharkaya river was still large and contained many ripples. 
-
-The Kumari river comes from the Ayodhya hills, it is a slow, meandering river of the Rarh plain.
-
-The Dakra community near Suvarnarekha used to extract gold from these rivers but a day's labour only earned them one rupee. As a result, they found other employment.
-
-Bengali has 12 dialects and the centres of Ra'rhi dialect are Tata, Dhanbad, Dumka, Deoghar, Bardhaman and Sindhri.
-
-The Aryan colonization of Bengal took place over a long period of time. 
-
-The cultural transformation of Bengal was very slow as the indigenous cultural heritage was rich and deep.
-
-Well-written folk songs in Bamla' can be readily found. But there has been very little Vedic influence in Bengal. 
-
-Vedic thought had been represented by later philosophers. 
-
-Buddhist and Jain influence was very deep in Bengal, which was also deeply influenced by Shaeva cult.
-
-Though Ramayan was translated into Bamla during the reign of Hussain Shah about 550 years ago, Rama cult had little influence. 
-
-<!-- 130 -->
-
-Rather, Ram has been criticized for sending Sita into exile and killing Ball. 
-
-Of course, the influence of Vrindavana and Krishna is evident in Bengal, although Shiva is the cultural hub of Indian civilization. 
+Tantra. Since Jainism could not exist without Tantra, Jain Tantra emerged.
 {{< /l >}}
+

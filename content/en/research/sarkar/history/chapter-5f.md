@@ -1,162 +1,190 @@
 ---
 heading: Chapter 5f
-title: "Bangurda -- the holy place of Jainism"
+title: "Majhis (Santhals)"
 c: "forestgreen"
-description: "Bangurda has a rich cultural heritage. It was once the holy place of Jainism and the place where agriculture was first invented."
+description: "The prince Shubhendu Narain Singha deva was an expert in 'Cho' dance"
 icon: "PR Sarkar"
-weight: 72
+weight: 69
 writer:
   name: PR Sarkar
   url: https://en.wikipedia.org/wiki/Prabhat_Ranjan_Sarkar
 ---
 
 
+April 6, 1984
 
-Tatanagar, April 8, 1984
+Today Baba visited Krishnapur a village about 150 years old. There is a Hari Mandir of temple here and the cul- ture in the area has been greatly influened by Mahaprabhu. 
 
-Today Baba visited a village named Bangurda, 35 kilometers from Tatanagar. 
+The Kharakaya river flows at a short distance from the village. 
 
-It is an ancient village with an ancient cultural heritage. Baba made the following observations about the area.
+Local people do not know of any temples or old rock paintings in the vicinity or idols along the rocks of the Kharkaya river. 
 
-About 3 miles from the village, the river makes a sharp turn producing a fast and dangerous undercurrent which is known as 'Daha' in Ba'm'la.
+Southeast of the Kharkaya river is Saraikela where Aditya Pratap Narain Deva once ruled. 
 
-Consequently, the village is called Bangurdah in old Ba'm'la, but presently it is known as Bang- urda. Near the Pattamada the river also makes a sharp turn. 
+The prince Shubhendu Narain Singha deva was an expert in 'Cho' dance. 
 
-Pattam means a large rock; hence, a village situated near Pattam beside a river taking a sharp turn was named Pattamdah in old Ba'm'la, Later it became known as Patamda. 
+Saraikela is so named be cause kela or plantain grows here.
 
-The soil around the village is mixed with stones.
+The Sanjaya river meets the Kharakaya river which flows into the Suvarnarekha river. 
 
-The Jambuni and Sona rivers flow near Bangurda. The Sona river flows from the southwest to the northeast. The Jam- buni river flows from the southwest to the northeast and meets the Sona river two kilometers northeast of Ba'ngurda. The con- fluence of these two rivers is known as the Dhalkishor river. 
+The Dulang river meets the Suvarnarekha river at Citaligarh, which was once the capital of Dhavala bhum. 
 
-Further down the Gandheshvari river flows from Susunja hills and meets the Dhalkishor river near Bankura and there after it is called the Dwarakeshvara river. 
+People of the Dakra seet used to live on the banks of the Suvarnarekha river and took out gold. 
 
-The latter flows through Visnupur and Aramabag where it meets the Silavati. river. Further down the river the Silávati meets the Jayacandi river and the confluence of these two rivers is known as the Rupanarain river, which flows into the Hoogli (Ganga') near Tamluk in the district of Midnapore. 
+Nowadays gold is extracted from the local mine.
 
-The land around the How- rah-Hooghli represents the Rupanarain Valley Civilization. The Kanaval Valley civilization also has a significant place in the history of Hach and the civilization.
+Ho-mundas live nearby and Majhis or Santhals also live in the region and use the titles like Hembrum, Murmu and Tudu. 
 
-In the iron age people lived in eaves in hilly country near river. 
+Majhis came to Tatanagar 250 years ago. 
 
-They covered the entrance to their caves with rocks for protection aim wild animals. 
+The titles Marang and Murmu are also used by the people living around Tatanagar.
 
-Primitive people were hunters and food gathers but they had no knowledge of bronze and iron. 
+To the south of Saraikela as far as Mayurbhanja, there used to be a dense forest. 
 
-The Hans Age smired after the Stone Age; in the Bone Age people ward hunes as well as rocks as implements and weapons. 
+The Krishnapura variety of deer once lived to the east of Krishnapur while to its south a few horned deer were once found. 
 
-The people living in the Hangorda area were more civilized than the people of other ass and experienced both the Stone Age and Bane Ass Hitary makes virtually no mention of the Bone Age but in this ancient village, the remnants of both the ages can be ound. 
+When the forest in the region was destroyed, these animals became extinct.
 
-Weapons made of both stone and bone have been found by the villages on the banks of the river near the village.
+Meghasini is a high hill and in front of Krishnapur there is at small hill where Satpathi Brahmans reside.
 
-The surrounding of Bangurda is gradually becoming flat and and for agriculture. 
+The soil of Rarh is laterite soil, but black soil is also found in places like Kalimati. Rarh is famous for rhythm while Magadh is famous for music,
 
-Towards the northeast, the land is more fetite. Throughout its histry Hangurda has been a cultured, civi- Heed and proper village. Patamda had also been a cultured And commumically developed village, and remnants of the Stone Age, Hons Age and Bronze Age can also be found near Patamda.
 
-Four toes hundred years ago the tribal people of this area learned in premals dead bodies from the Aryans. Before that they hurted the dead and a tribal graveyard can be found near Bangurds. 
+### Tatanagar April 7, 1984
 
-The oily tillagers were very superstitious and believed that the cremated dead would become ghosts and return to haunt and torture that who burnt their bodies. 
+Today, Baba visited a village called Nijal on the other side of the Sanjaya river.
 
-To avoid this fate, the village kipit the tones of the dead in an earthen pot which they buried in the und Graves of this kind can be found mear river in the freton Eater the bones from these graves
+A Shiva temple is found here though there is no Shiva linga inside. 
 
-During the Bongs Age the people in this region invented agriculture: They murd bong bronze rods to dig up the soft soil on the river bank and then put seeds into the soil. 
+However, a large Gouripitha could be seen.
 
-Those who invented seculture were called Mahatmas, great personalities and later beam on at Mahatos. 
+A local man explained to Baba that the present temple is only 200-300 years old. 
 
-Many Mahatos can be found around Hangurds because this area has an ancient tradi- tion of culture The Mahato belt includes the following areas
+No local person could say how long the old temple had existed. 
 
+Long ago, the temple was constructed with village tiles. 
+- Following that the landlord of that rebuilt it with bricks. 
 
-<!-- 134 -->
+Later just before 200-300 years ago, the local people collectively built the present temple.
 
-(raii) can also be grown by scattering them in the fields three weeks before harvesting the paddy, when the fields are still muddy. Red mustard is ready for harvesting in five months, and should be harvested in the month of Phalguna. At this time the soil is still soft and after ploughing it is suitable for growing soyabeans or sunflowers. 
+Today, they worship the deity with milk and honey. 
 
-Soyabeans ripen in ninety days and sunflowers in eighty days Oil can be extracted from sunflowers and if oil is extracted after removing the black cover from the seed, the remaing sheath can be used for preparing bread. Black oil cake can be used as a food for animals or as a fertilizer. 
+Red and white sandalwood paste or chandan is used in the worship of such a deity. 
 
-The powdered-down cover of the paddy can be mixed with limestone to produce cement. 
+But there, only white chandan is used. 
 
-A cement industry could also be established in this area. Milk, butter and cheese could be made out of soyabeans. Grape, papaya, pears, fig can also be grown in laterite soil while in the fertile lowlands four crops can be easily grown annually.
+A special ceremony is observed on the 31st of Chaitra, when Charaka-puja perfed and Charaka songs are sung.
 
-Bangurda has a rich cultural heritage. It was once the holy place of Jainism and the place where agriculture was first invented. 
+Vana-viddha or arrow posing is done.
 
-Remnants of an ancient lines can still be found here- Chattopadhyaya, Ganguli, Bandopadhyaya, Mukhopadhyaya and Ghosal are Rarhii Brahmans. The Kiattriyas of Rarh were using Verman title like Chandraketu Verman.
+Special worship is also done in the month of savant, which is approximately July to August. 
 
+Regular worship is offered at the temple every Monday. 
 
-Late in the afternoon, we were privileged to hear from Baba comments on special characteristics of the Rarh river valley civilization. 
+All people irrespective of caste are welcome to worship at the temple where mantras a rested in the local language.
 
-He said I
-Rivers in Magadh flow from south to north because the southern portion of Magadh is highland and the northern portion is lowland. The area from the natural park of Hazaribag to the Reserve Forest of Palamu is the water barrier of Magadh. The Ganga valley lies to the north of the water barrier and the Koyal Valley lies to the south. The Sona and Phalgu rivers flow into The the Ganga while the Koyal River flows towards Orissa. dialects of these two river valley civilizations differ from each other,
+One of the people in the village sang the following prayer for us:
 
+Ha's plata Bhola baje bam bam bam Spa hash bhon bhon bam bam Ha's pals bhola baje bam bam Batch sang kala kala kal
+Cars can dhara tale tala tala pe
+Midang dini ta' ta tham ta'itham tha'itham
+Dims dims dims dima damru'baje Phan phan phun phon phani garaje
 
-With the exception of Rarh, Bengal is plain land comprised of black soil from the Ganga and Brahmaputra rivers. The soil is up to three million years old, although the soil at Gapalgainj
+Baba noted that the village people also worship the Shitala and Manasa dites and offer duck in sacrifice. 
 
-<!-- 135 -->
+Sacrificing duck is Jain ritual and is evidence of the Jain influence in the region. 
 
-and Madanpur of Faridpur district. Noakhali, is only half a million years old. At places, fire breaks out in the soil itself. The sull in Bengal except Harh, Uttar Pradesh except Garhwal, Kumayun and Mirzapur and northern India other than Gond- Avána land is made by rivers which originate in the Himalayas. These places, including the Himalayas, were once under the sea.
+Tribals offer hens and pigs in sacrifice while other Hindus offer male goats.
 
+Baba further said:
 
-The rivers in Rach Row from the northwest to the southeast. The Kantavati river flows in the northernmost part of Rarha and passes through Bankura, Murshidabad, Jangipur and merges into the Gangs The Brahmani River flows from the east to the sou- theast, with its direction tending more and more southeasterly. 
+{{< l a="Baba ">}}
+In the ancient past, Tatanagar was the land of Bhaerava Tantra.
 
-The Ajaya river flows from the Chakai hills to Khairasula, Gala- pur and moves southwards and merges in the river Ganga. Damo- dar river coming out from Ramgarh hills moves towards Santhal Parganas and it moves southeast to Asansol, Maithan, Bara- kar, Raniganj and Durgapur. It then moves still further south east and meets the Ganga near Amta in the district of Howrah. 
+<!-- 128 -->
 
-The Roopnarain river flows southeast from Purulia, passing through Vishnupur, Arambag and Medinipur, and meets the Gangs near Tamluk. The Gandeshvari river comes from the Shushunia hills and merges with the Roopnarain. 
+Later, Jainism had to adjust with it and Jain Tantra was the result, although Shiva was still accepted as the controlling deity. 
 
-The Dhaval- kishore also merges in the Roopnarain. 
+The Jain Shiva linga and Gauri-piitha are large. Shaeva Tantra was dominant throughout the region upto 3,000 years ago. 
 
-The Kansavati river starts from the Filabani hill in the district of Manbhum and con- tinues to Row southeast. The Damodar river also flows south-
-Hear Purulia city the Damodar and Kansavati rivers move apart from each other and create their own valleys with their own specife characteristics. In certain portions of Ranchi and Hazaribag they speak Panch pargnia and Nagpuria. A blending of Magahi and Karki Bengali is evident in the district of Ranchi, but further northwest people speak pure Magahi.
+Later the external form of Shaeva Tantra was given up by the people and gradually Jain Tantra was accepted, indicating that Jainism had spread throughout the area. 
 
+Tatanagar became a hot bed of Jain Tantra although Shashank destroyed the Jain Shiva lingas and also disfigured lingas and idols at Boudh Gaya.
 
-The people living in the precincts of Bokaro, Ramgarh and Petarwad speak Rarhi Bam'la' while Golabari Bam'la' is spoken by the people living to the north of the Damodar river And to the south of the Ramgarh river. Golabani Bam'la is an offshoot of Rarhi Bam'la'. The people of some Pancha- yats speak Hagpuria and those of thirteen Panchayats speak
+The capital of Shashanka was situated near Naihati and Bhadrapur in the district of Birbhum. 
+- Later it was called Rangamati.
+- Later still Harshvardhan renovated the temples in the area. 
 
+During the days of the Pal dynasty, Shiva was the main deity worshipped by the people, although Daksayanil Devi, that is, the daughter of Daksa meaning Durga was given the status of a state deity, meaning the deity of the kingdom. 
 
-Rarhi Bam'la About 300 million years ago Rarh had a big snow-covered mountain. Gradually it became smaller and now snow-covered mountain is not found in the region. 
+The Shiva-linga here is broken, but the Gauri piitha remained intact.
 
-In the past this area was full of dense forests. The Santhals, who came to Rarh about 250 years ago, cut the forests down. After a famine befell Chattisgarh the Santhals moved east. Aboriginal tribes other than the Santhals are the local inhabitants of the area. These tribes deified the Ayodhya Hills. 
+The priests here are neither Utkal Brahmans nor Rarhi Brahmans. 
 
-However, the Santhal population is the highest population of any group in the Some between south Manabhu'ın and Mayurbhanj. Santhals have also settled around Purulia, Dumka and Hod' is their mother tongue and not Bengali. People began to call the Santhals Hadda, although Santhals speak Bengali with people outside their tribe. 
+They are Pandeys who became Brahmans during the heydey of Jainism. 
 
-They use 'Tu' for you and 'Apa' for your; addressing someone with respect does not exist in their vocabulary.
+They were originally not Brahmans. 
 
-area
+Pandeys are culturally Bengalis, but they have adopted the culture of the Tatanagar locality. 
 
-The Kansa'vati river starts from Ka'smar, and passes through Medinipur via Jhargram. The Kaliaghai river meets. the Kansavati river at Jinshahar, where a famous Jain temple. stands. The Kumari river meets the Kansavati river and they merge with the Ganga. 
+Pandeys are the priests of Kurmi-Mahatos, and no other class of Brahmans act as such. 
 
-The Haldi river is also so-called because its water is of haldi or turmeric colour, also meets Ganga. The Suvarnarekha river starts from the Ranchi hills, passes through Namkum and Muri, and then flows southeast to Singh bhum and reaches Kalimati (Tatanagar). 
+The wealthy Mundas (Singh mund'a', Kheria-munda', Ho-munda', Khangar' mund's) called themselves Ksattriyas. 
 
-The Kharkaya and and Sanjaya rivers meet the Suvarnarekha river which then flow southeast and pass through Medinipur and Jhargram. The Dulang river comes from Chitligarh, the capital of Dhavala bhum, and merges with the Suvararekha river. 
+They speak in Mundari language at home and Bengali while outside their homes.
 
-The land around Dhavalbhum is elevated and the Bombay Mail takes three hours to pass through this area. The Suvarnarekha river also passes through Nayagram. Datan (in Medinipur) crosses the border of Bengal and Orissa and then enters into the the sea near Kaksa.
+The language spoken in the northern side of the Sanjaya river is Rarhi Bengali, and towards the south it is Kera Bengali. 
 
-Usually the water from one river valley does not enter di rectly into the water of another valley. Kashipur is the water, barrier between the Damodar and Roopnarain valleys, while
+The latter is a blending of Bengali and Oriya, and is spoken mostly by Utkal Brahmans like Panigrahi', Hota, and Sarangi. The word 'Kare' is commonly used in their vocabulary exemplified by 'Soa'kare Chila' Go'. The majority of famous people in the region are Mahatos.
 
-Patamda is the water barrier between the Suvarnarekha and Kansavati valleys. The water to the west of Patamda flows into the Survanarekha river while the water to the east of it flows into Kansavati river. 
+The Amyaya river originated in the western side of the Vindhya mountains. 
 
-The water from the east of Patamda can- not flow into the Suvarnarekha and Roopnarain rivers, while the water from Bangurda cannot flow into the Suvarnarekha river,
+The Vindhya' Ranges were divided into 3 parts:
 
-The Rarh river valley civilization was a highly developed and accomplished river valley civilization. Murshidabad, Nadia, Khulna and the 24 Parganas are all part of the Ganga Valley civilization. 
+1. The Ramgarh area which includes Jayachandil, Keto and Susuniia extending as far as Bankura.
+2. The area towards Chakradharpur extending in the north from Ra'jmahal to Nahebaganj
+3. The hill track in Ra'rh known as Dalma and Megha'sini and Mayurbhanja.
 
-The valleys of the Icchamati, Bhagirathi, Madhumati and Jalangi rivers constitute part of the Ganga Valley civilization. 
+<!-- 129 -->
 
-The Brahmaputra flows through Meymansingh and meets Ganga near Gwalanda. Previously it met the Ganga near Chand- pur. 
+The Meghasini got its name because the Kharakaya and Sanjay rivers originate in the Vindhya mountains where Megha or clouds continuously drift from the sky.
 
-This entire area covered by the Ganga-Brahmaputra valleys, is part of the Ganga-Brahmaputra river valley civilization. In the ancient past the Ganga valley was under the sea, while Rarh was above the sea, so Rarh is a natural reserve of flora and fauna from ancient rimes.
+The Porahat rajya was divided into 2 parts about 700 years ago during the Pathan period, due to a fight between 2 princes:
 
-The people of Rarh are a blending of the Austrico-Negroid and Mongol races, although Mongolian influence is less significant. 
+1. Saraikela kingdom
+2. Kharswan kingdom
 
-Mongolian influence was dominant in the Brahmaputra valley and the people of southeastern part of Rarh have fair complexions and flat noses, while Austrico-Negroid influence was dominant throughout Rarh and the people are dark in colour with high noses. 
+The king of Saraikela made Oriya the official language, but the people spoke Bengali. 
 
-Originally, the people of Rarh belonged to the Austrico-Negroid race. but when the Ganga-Brahmaputra valley rose above the sea, people migrated from the west to the east and the Austrico-Negroids gradually blended with the Mongo- loids.
+The language spoken in Mayurbhanja was Kera-Ba'mla. It was known as Mayurbhanj since the Mayur or peacock was Carved in the ornaments of the women of the royal family. 
 
+The land of north Saraikela is more fertile than the land of the sou- thern region.
 
-The people of Kansavati valley are fairer than the people of the Suvarnarekha valley. There are also marked differences be- tween the complexions of 
-the people of Bangurda on the one hand. and those of Bhula, Pavanpur, Tata and Jharagram villa ges on the other. The local culture and tradition of the people also differs in different valleys. 
+In the past, the Sanjaya river was a large river.
 
-<!-- 138 -->
+But the Kharkaya river was still large and contained many ripples. 
 
-The people of Bangurda have more cultural affinity with the people of Manbajar, Bank ra, Mednipur and Patamda, and have a close affinity with the Kansavati valley civilization, while the people of Bhula, Pavanpur, Tata and Jharagrama have a cultural affinity with the people of the Suvarnarekha valley civilization, in the Kansavati valley people say 'Ami nai paribo', meaning. I can't do', while the people of the middle Suvarnarekha sivilization say 'Ami lairbo', when saying the same thing.
+The Kumari river comes from the Ayodhya hills, it is a slow, meandering river of the Rarh plain.
 
+The Dakra community near Suvarnarekha used to extract gold from these rivers but a day's labour only earned them one rupee. As a result, they found other employment.
 
-Because the entire population of Rarh has undergone exten- sive racial blending, it would be correct to say that Rarh com- prises one race, that is, the Austrice-Negro-Mongoloid race with local variations. Brahmans, Kayasthas and Kurmi Mohatos have similar nasal features while Bauris differ. The nasal index differs with the difference in the race. Santhals and Mundas are pure Austrik, Uraons are Austrico-Negroid.
-Throughout India many differences exist. For example, the people of Gujrat are round headed and Caucasian Aryan, while the people of Maharashira exhibit a Scythian influence. Al- though there is much racial diversity in the world from the view point of fundamental human values, humanity is one and indi visible.
+Bengali has 12 dialects and the centres of Ra'rhi dialect are Tata, Dhanbad, Dumka, Deoghar, Bardhaman and Sindhri.
 
-Rarh civilization has a very rich history and exhibits the rem- nants of the Stone, Bone, and Bronze Ages. A museum should be established at some central place in Harh to make the people aware of their cultural heritage. Bankura is the cultural place. If the people in this region become conscious of their rich his- tory, it will help them break free of the psychic, economic and psycho-economic bondages,
+The Aryan colonization of Bengal took place over a long period of time. 
 
+The cultural transformation of Bengal was very slow as the indigenous cultural heritage was rich and deep.
 
+Well-written folk songs in Bamla' can be readily found. But there has been very little Vedic influence in Bengal. 
 
+Vedic thought had been represented by later philosophers. 
+
+Buddhist and Jain influence was very deep in Bengal, which was also deeply influenced by Shaeva cult.
+
+Though Ramayan was translated into Bamla during the reign of Hussain Shah about 550 years ago, Rama cult had little influence. 
+
+<!-- 130 -->
+
+Rather, Ram has been criticized for sending Sita into exile and killing Ball. 
+
+Of course, the influence of Vrindavana and Krishna is evident in Bengal, although Shiva is the cultural hub of Indian civilization. 
+{{< /l >}}
