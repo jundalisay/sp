@@ -1,18 +1,40 @@
-## RADIATES
+---
+title: Radiates
+heading: Chapter 6h
+description: 
+a: "Lamarck"
+c: "deeppink"
+date: 2025-09-16
+weight: 39
+---
 
-Animals with a regenerating body, lacking a head, eyes, articulated limbs, with a mouth on the under surface, and a radiating arrangement in their internal and external parts.
 
-Following the customary order, the radiates occupy the twelfth rank in the numerous series of known animals and make up one of the three last classes of invertebrate animals.
+
+These are animals with a regenerating body, lacking a head, eyes, articulated limbs, with a mouth on the under surface, and a radiating arrangement in their internal and external parts.
+
+<!-- Following the customary order, the radiates -->
+
+These occupy the 12th rank in the numerous series of known animals and make up one of the three last classes of invertebrate animals.
 
 When we arrive at this class, we encounter in the animals included in it a style of general shape and arrangement of parts and organs, both external and internal, which nature has not used in any animals of the previous classes.
 
-In effect, the radiates very clearly have in their internal and external parts a radiating arrangement around a centre or an axis which makes up a special shape which nature has not, up to that point, ever used. She began to sketch out such an arrangement only in the polyps, which, consequently, come after the radiates.
+The radiates clearly have in their internal and external parts a radiating arrangement around a centre or an axis which makes up a special shape which nature has not, up to that point, ever used.
 
-Nevertheless, the radiates make up in the animal scale a compartment very different from that of the polyps, so that it is no longer possible to confuse the radiates with the polyps any more than it is to group the crustaceans with the insects or the reptiles among the fish.
+She began to sketch out such an arrangement only in the polyps, which, consequently, come after the radiates.
 
-In fact, in the radiates not only do we still observe organs which appear destined for respiration (tubes or types of aquatic trachea), but we also see, in addition, special organs for reproduction, like types of ovaries in various shapes. Nothing similar is found in the polyps. Moreover, the intestinal canal of radiates is not generally a closed tube with only one opening, as in all the polyps. And the mouth, always low down or on the lower surface, manifests in these animals a special arrangement which is not at all the one which the polyps display in their general structure.
+The radiates make up in the animal scale a compartment very different from that of the polyps, so that it is no longer possible to confuse the radiates with the polyps any more than it is to group the crustaceans with the insects or the reptiles among the fish.
 
-Although the radiates are truly curious and as yet little understood animals, what we know about their organic structure clearly indicates the rank to which I am assigning them. Like worms, the radiates are headless, eyeless, without articulated limbs, a system of circulation, and perhaps without nerves. However, the radiates come necessarily after the worms. For the latter have nothing in the arrangement of their interior organs which tends to a radiating shape, and it is among them that the style of articulations begins.
+Their organs appear destined for respiration (tubes or types of aquatic trachea).
+
+They have special organs for reproduction, like types of ovaries in various shapes. 
+
+Nothing similar is found in the polyps.
+
+Moreover, the intestinal canal of radiates is not generally a closed tube with only one opening, as in all the polyps. And the mouth, always low down or on the lower surface, manifests in these animals a special arrangement which is not at all the one which the polyps display in their general structure.
+
+Although the radiates are truly curious and as yet little understood animals, what we know about their organic structure clearly indicates the rank to which I am assigning them. Like worms, the radiates are headless, eyeless, without articulated limbs, a system of circulation, and perhaps without nerves.
+
+However, the radiates come necessarily after the worms. For the latter have nothing in the arrangement of their interior organs which tends to a radiating shape, and it is among them that the style of articulations begins.
 
 If the radiates lack nerves, they are then without the faculty of feeling and are no more than merely irritable. This seems to be confirmed by observations made on living star fish in which the arms have been cut off without their showing any sign of pain.
 
@@ -33,7 +55,6 @@ Undoubtedly, through a sequence of this sort employed by nature, first with a fe
 
 This is the reason why, in the radiates, the intestinal canal, although still very imperfect (because very frequently it only has one single opening) is nevertheless complicated with numerous radiating vasculiform and often branching appendixes.
 
-No doubt, for the same reason in the soft radiates, like the jelly fish, and so on, we see a constant isochronous movement, a movement which very probably results from successive irregular movements in the masses of subtle fluids which penetrate into the interior of these animals and also the movements of these same fluids which escape after being spread throughout every part.
+For the same reason in the soft radiates, like the jelly fish, and so on, we see a constant isochronous movement, a movement which very probably results from successive irregular movements in the masses of subtle fluids which penetrate into the interior of these animals and also the movements of these same fluids which escape after being spread throughout every part.
 
 We should not say that the isochronous movements in the soft radiates are the consequences of their respiration. For after the vertebrate animals, nature does not manifest in any other animal alternating and measured movements of inhaling and exhaling. Whatever the respiration of radiates may be, it is extremely slow and goes on without perceptible movements.
-

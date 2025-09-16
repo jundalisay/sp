@@ -1,16 +1,14 @@
 ---
-title: General Observations Concerning Animals
-heading: Chapter 4
+title: Polyps
+heading: Chapter 6i
 description: 
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 9
+weight: 41
 ---
 
 
-
-## POLYPS
 
 Animals with a sub-gelatinous and regenerating body, without any special organs, other than an alimentary canal with a single opening; a terminal mouth, together with radiating tentacles or a ciliate and rotating organ.
 

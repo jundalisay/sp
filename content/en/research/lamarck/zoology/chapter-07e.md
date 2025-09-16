@@ -5,9 +5,8 @@ description: When willpower determines that an animal carry out some action or o
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 9
+weight: 60
 ---
-
 
 
 <!-- In a word, I will cite a multitude of examples directly relevant to us which point to the different results of the exercise or the lack of exercise of any of our organs, although these differences might not be maintained in individuals  who come later through reproduction. -->

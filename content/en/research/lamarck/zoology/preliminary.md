@@ -1,17 +1,16 @@
 ---
-title: Zoological Philosophy
-heading: Chapter 1
+title: PRELIMINARY DISCOURSE
+# heading: Chapter 1
 description: 
-# a: "Lao Tzu"
 c: "deeppink"
-# date: 2022-06-25
-weight: 119
+date: 2025-09-16
+weight: 3
 ---
 
 
-PRELIMINARY DISCOURSE
+<!-- 
 
-11
+11 -->
 
 an enquiry into the causes of life, of physical and moral sensitiveness, and, in short, of the lofty functions which he possesses. 
 

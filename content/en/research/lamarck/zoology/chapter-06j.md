@@ -1,15 +1,14 @@
 ---
-title: Reptiles
-heading: Chapter 6c
+title: Infusorians
+heading: Chapter 6j
 description: 
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 9
+weight: 43
 ---
 
 
-INFUSORIANS
 
 Infinitely small animals, with gelatinous transparent bodies, homogenous and very contractile; having no specially distinct interior organ, but often with oviform gemmules, and displaying on the outside no radiating tentacles nor rotary organs.
 

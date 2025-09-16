@@ -1,15 +1,13 @@
 ---
-title: The Influence of Circumstances on the Actions and Habits of Animals
+title: Arachnids
 heading: Chapter 8e
 description: 
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 9
+weight: 79
 ---
  
-
-ARACHNIDS
 
 (Sixth Class of the Animal Kingdom)
 

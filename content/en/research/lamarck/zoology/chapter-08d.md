@@ -1,16 +1,13 @@
 ---
-title: The Influence of Circumstances on the Actions and Habits of Animals
+title: Table of Insects
 heading: Chapter 8d
 description: 
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 9
+weight: 77
 ---
  
-
-
-Table of Insects
 
 A. SUCKING INSECTS
 

@@ -1,15 +1,14 @@
 ---
-title: The Influence of Circumstances on the Actions and Habits of Animals
+title: Vertebrates
 heading: Chapter 8g
 description: 
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 9
+weight: 85
 ---
  
 
-VERTEBRATES
 
 They have a vertebral column made up of a multitude of short bones, articulated and arranged in a linear sequence. This column serves to hold up the body, establishes the basis of the skeleton, provides a sheath for the spinal chord, and terminates at the anterior end with a bony container which contains the brain.
 

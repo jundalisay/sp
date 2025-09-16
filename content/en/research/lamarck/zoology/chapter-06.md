@@ -5,7 +5,7 @@ description:
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 9
+weight: 31
 ---
 
 from One Extreme to the Other of the Chain of Animal Life, Going from the Most Complex to the Simplest

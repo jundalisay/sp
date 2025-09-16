@@ -1,17 +1,14 @@
 ---
-title: Table of Mammals
+title: Bimanes
 heading: Chapter 8h
 description: 
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 9
+weight: 99
 ---
 
 
-
-
-BIMANES
 
 Mammals with separate limbs with nails; three types of teeth and opposable thumbs only on the hands
 

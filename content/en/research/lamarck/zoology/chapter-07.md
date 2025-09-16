@@ -5,7 +5,7 @@ description:
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 9
+weight: 45
 ---
 
 
@@ -14,7 +14,7 @@ weight: 9
 Considerations of the Natural History of Animals, Their Characteristics, Their Interrelationships, Their Organic Structure, Their Distribution, Their Classification and Their Species -->
 
  
-The Influence of the Actions and Habits of these Living Bodies As Causes Which Modify Their Organic Structure and Their Parts
+<!-- The Influence of the Actions and Habits of these Living Bodies As Causes Which Modify Their Organic Structure and Their Parts -->
 
 What we are now concerned with is not a rational speculation but the examination of a reliable fact, a more universal one than people think and something to which we have neglected to pay the attention it deserves. 
 

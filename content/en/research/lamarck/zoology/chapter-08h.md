@@ -1,14 +1,13 @@
 ---
-title: The Influence of Circumstances on the Actions and Habits of Animals
+title: Sternoptyges
 heading: Chapter 8h
 description: 
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 9
+weight: 89
 ---
  
-
 
 
 (2) An opercule over the gills but no membrane.

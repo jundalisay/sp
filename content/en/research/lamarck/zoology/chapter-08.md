@@ -1,13 +1,14 @@
 ---
-title: The natural order of animals and the structure we must give to their general distribution so that it conforms to the very order of nature.
+title: The natural order of animals
 heading: Chapter 8
 description: 
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 9
+weight: 69
 ---
 
+ <!-- and the structure we must give to their general distribution so that it conforms to the very order of nature. -->
  
 Chapter 5 that the essential aim of a distribution of animals must not limit itself, on our part, to the possession of a list of classes, genera, and species. 
 
