@@ -2,7 +2,7 @@
 title: The Tribe
 c: "firebrick"
 heading: "Chapter 20"
-weight: 42
+weight: 43
 description: ""
 ---
 

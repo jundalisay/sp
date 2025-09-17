@@ -95,15 +95,22 @@ There are 3 types of marbles:
 2. Cream
 3. Supra-white
 
-It is very diflicult to construct a building of supra white marble. 
+It is very difficult to construct a building of supra white marble. 
 
 The Victoria Memorial Hall in Calcutta is made of cream-coloured marble. 
 
 Shah Jahan was fond of white marble, while Akbar liked red marble.
+{{< /l >}}
 
-Baba examined a cycad tree, and said that its Sanskrit name was Mayakharjura. 
+
+Baba examined a cycad tree.
+
+
+{{< l a="Baba" >}}
+Its Sanskrit name was Mayakharjura. 
 
 The cycad tree was a delicious food for the dinosaur and pre-dates human existence, which is 1 million years old.
+{{< /l >}}
 
 In Madhu Malanca, Baba's residence in Calcutta, there are 20 varieties of Mayakharjura from all over the world.
 
@@ -113,7 +120,7 @@ Jahangir had brought it from Persia and planted it in Kasmir.
 
 When they flower, they appear as if the trees are alive with fire. 
 
-The Kash mir government has rightly banned the felling of these precious trees.
+The Kashmir government has rightly banned the felling of these precious trees.
 
 
 

@@ -143,5 +143,5 @@ Culture is a vast embracing term which includes social, economic and political f
 
 Scriptology is an integral part of Indian culture. 
 - It should be taught as a special subject to encourage the preservation of ancient Indian languages.
-
+{{< /l >}}
 

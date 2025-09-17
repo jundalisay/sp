@@ -2,7 +2,7 @@
 title: Minorities
 c: "firebrick"
 heading: "Chapter 24"
-weight: 42
+weight: 52
 description: ""
 ---
 

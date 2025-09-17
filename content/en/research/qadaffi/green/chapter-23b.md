@@ -2,7 +2,7 @@
 title: Freedom Versus Dictatorship
 c: "firebrick"
 heading: "Chapter 23b"
-weight: 43
+weight: 50
 description: "Freedom means that every human being gets proper education which qualifies him or her for the work which suits him or her"
 ---
 

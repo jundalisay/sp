@@ -61,7 +61,9 @@ The whole organisation seems to:
 - have become plastic
 - depart somewhat from that of the parental type.
 
-Any variation which is not inherited is unimportant for us. But the number and diversity of inheritable deviations of structure, both those of slight and those of considerable physiological importance, is endless. 
+Any variation which is not inherited is unimportant for us. 
+
+But the number and diversity of inheritable deviations of structure, both those of slight and those of considerable physiological importance, is endless. 
 
 Dr. Prosper Lucas's long treatise is the fullest and the best on this subject.
 - He believes that like produces like.
@@ -102,7 +104,11 @@ In many cases, this could not be otherwise.
 
 Thus, the inherited peculiarities in the horns of cattle could appear only in the offspring when nearly mature; peculiarities in the silkworm are known to appear at the corresponding caterpillar or cocoon stage. 
 
-But hereditary diseases and some other facts make me believe that the rule has a wider extension, and that when there is no apparent reason why a peculiarity should appear at any particular age, yet that it does tend to appear in the offspring at the same period at which it first appeared in the parent. I believe this rule to be of the highest importance in explaining the laws of embryology. 
+But hereditary diseases and some other facts make me believe that the rule has a wider extension, and that when there is no apparent reason why a peculiarity should appear at any particular age, yet that it does tend to appear in the offspring at the same period at which it first appeared in the parent. 
 
-These remarks are of course confined to the first appearance of the peculiarity, and not to its primary cause, which may have acted on the ovules or male element; in nearly the same manner as in the crossed offspring from ashort-horned cow by a long-horned bull, the greater length of horn, though appearing late in life, is clearly due to the male element.
+I believe this rule to be of the highest importance in explaining the laws of embryology. 
+
+These remarks are confined to the first appearance of the peculiarity, and not to its primary cause, which may have acted on the ovules or male element.
+
+In nearly the same manner as in the crossed offspring from ashort-horned cow by a long-horned bull, the greater length of horn, though appearing late in life, is clearly due to the male element.
 

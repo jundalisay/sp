@@ -1,48 +1,116 @@
 ---
-title: Naturalization
-heading: Chapter 4g
-weight: 28
-description: "The greatest amount of life can be supported by great diversification of structure"
+title: Extinction
+heading: Chapter 4f
+weight: 26
+description: "Natural selection acts solely through the preservation of variations in some way advantageous"
 c: "firebrick"
 ---
 
 
-<!-- The truth of the principle, that  -->
+<!--  This subject will be more fully discussed in our chapter on Geology; but it must be
+here alluded to from being intimately connected with natural selection.  -->
 
-The greatest amount of life can be supported by great diversification of structure.
+Natural selection acts solely through the preservation of advantageous variations which consequently endure.
 
- <!-- This is seen under many natural circumstances.  -->
+<!-- But as from the high geometrical powers of increase of all organic beings, each area is already fully stocked with inhabitants,  -->
+
+As the beings with advantageous variations increase, the less favoured forms decrease.
+
+<!-- it follows that as each selected and favoured form increases in number, so will the  and become rare. -->
+
+Rarity is the precursor to extinction.
+
+<!-- , during fluctuations in the seasons or in the number of its enemies, -->
+Species with few individuals will likey become extinct. 
+
+But we may go further than this; for as 
+
+New forms are continually and slowly being produced, unless we believe that the number of specific forms goes on perpetually and almost indefinitely increasing, numbers inevitably must become extinct.
+
+Geology shows us that the number of specific forms has not indefinitely increased. This is because the number of places in the polity of nature is not indefinitely great.
+
+<!-- --not that we have any means of knowing that any one region has as yet got its maximum of species.  -->
+
+Probably no region is as yet fully stocked.
+
+The Cape of Good Hope has the most species of plants crowded together in the world.
+- Some foreign plants there have become naturalised, without causing the extinction of any natives.
+
+The species which are most numerous will have the best chance of producing within any given period favourable variations.
+
+<!-- We have evidence of this, in the facts given in the second chapter, showing that it is  -->
+
+This is evidenced by the common species which afford the greatest number of recorded varieties, or incipient species. 
+
+Hence, rare species will be less quickly modified or improved within any given period. They will consequently be beaten in the race for life by the modified descendants of the commoner species.
+
+<!-- From these several considerations I think it inevitably follows, that  -->
+
+As new species are formed through natural selection, others will become rarer and rarer, and finally extinct.
+
+The forms which stand in closest competition with those undergoing modification andimprovement, will naturally suffer most.
+
+<!-- And we have seen in the chapter on the Struggle for Existence that it is  -->
+
+The most closely-allied forms generally have the severest competition with each other. These:
+- are varieties of the same species
+- are species of the same genus or related genera
+- have nearly the same structure, constitution, and habits
+
+Consequently, each new variety or species, during the progress of its formation, will generally:
+- press hardest on its nearest kindred, and
+- tend to exterminate them.
+
+We see the same process of extermination amongst our domesticated productions, through the selection of improved forms by man. 
+
+New breeds of cattle, sheep, and other animals, and varieties of flowers, quickly take the place of older and inferior kinds.
+
+In Yorkshire, the ancient black cattle were:
+- displaced by the long-horns.
+- swept away by the short-horns as if by some murderous pestilence.
 
 
+### Divergence of Character
 
-There is always great diversity in extremely small areas:
-- that are open to immigration, and
-- where the contest is severe  
+<!-- The principle, which I have designated by this term, is of high importance on my theory, and explains, as I believe, several important facts. In the first place,
 
-A 3 x 4 feet piece of turf ad been exposed for many years to exactly the same conditions.
-- It supported 20 species of plants belonging to 18 genera and to 8 orders
-- This shows how they differed from each other.
+Varieties, even strongly-marked ones, though having somewhat of the character of species differ from each other far less than do good and distinct species.
 
-So it is with the plants and insects on small and uniform islets; and so in small ponds of fresh water. Farmers find that they can raise most food by a rotation of plants belonging to the most different orders: nature follows what may be called a simultaneous rotation.
+Nevertheless, according to my view,  -->
 
-Most of the animals and plants which live close round any small piece of ground, could live on it (supposing it not to be in any way peculiar in its nature), and may be said to be striving to the utmost to live there; but, it is seen, that where they come into the closest competition with each other, the advantages of diversification of structure, with the accompanying differences of habit and constitution, determine that the inhabitants, which thus jostle each other most closely, shall, as a general rule, belong to what we call different genera and orders. 
-
-The same principle is seen in the naturalisation of plants through man's agency in foreign lands.
-
-It might have been expected that the plants which have succeeded in becoming naturalised in any land would generally have been closely allied to the indigenes; for these are commonly looked at as specially created and adapted for their own country.
-
-It might, also, perhaps have been expected that naturalised plants would have belonged to a few groups more especially adapted to certain stations in their new homes. But the case is very different; and Alph. De Candolle has well remarked in his great and admirable work, that floras gain by naturalisation, proportionally with the number of the native genera and species, far more in new genera than in new species. 
+Varieties are incipient species, as species in the process of formation.
 
 
-Dr. Asa Gray's 'Manual of the Flora of the Northern United States' has 260 naturalised plants, of a highly diversified nature, belonging to 162 genera. 
+How, then, does the lesser difference between varieties become augmented into the greater difference between species? 
 
-They differ, moreover, to a large extent from the indigenes, for out of the 162 genera, no less than 100 genera are not there indigenous, and thus a large proportional addition is made to the genera of these States. 
+That this does habitually happen, we must infer from most of the innumerable species throughout nature presenting well-marked differences; whereas varieties, the supposed prototypes and parents of future well-marked species, present slight and ill-defined differences. 
 
-By considering the nature of the plants or animals which have struggled successfully with the indigenes of any country, and have there become naturalised, we can gain some crude idea in what manner some of the natives would have had to be modified, in order to have gained an advantage over the other natives; and we may, I think, at least safely infer that diversification of structure, amounting to new generic differences, would have been profitable to them.
+Mere chance, as we may call it, might cause one variety to differ in some character from its parents, and the offspring of this variety again to differ from its parent in the very same character and in a greater degree; but this alone would never account for so habitual and large an amount of difference as that between varieties of the same species and species of the same genus.
 
-The advantage of diversification in the inhabitants of the same region is the same as that of the physiological division of labour in the organs of the same individual body--a subject so well elucidated by Milne Edwards. 
+As has always been my practice, let us seek light on this head from our domestic productions. We shall here find something analogous. 
 
-No physiologist doubts that a stomach by being adapted to digest vegetable matter alone, or flesh alone, draws most nutriment from these substances. So in the general economy of any land, the more widely and perfectly the animals and plants are diversified for different habits of life, so will a greater number of individuals be capable of there supporting themselves.
+A fancier is struck by a pigeon having a slightly shorter beak; 
 
-A set of animals, with their organisation but little diversified, could hardly compete with a set more perfectly diversified in structure. It may be doubted, for instance, whether the Australian marsupials, which are divided into groups differing but little from each other, and feebly representing, as Mr. Waterhouse and others have remarked, our carnivorous, ruminant, and rodent mammals, could successfully compete with these well-pronounced orders. In the Australian mammals, we see the process of diversification in an early and incomplete stage of development. After the foregoing discussion, which ought to have been much amplified, we may, I think, assume that the modified descendants of any one species will succeed by so much the better as they become more diversified in structure, and are thus enabled to encroach on places occupied by other beings.
+another fancier is struck by a pigeon having a rather longer beak; 
+
+The acknowledged principle is that 'fanciers do not and will not admire a medium standard, but like extremes,' 
+
+they both go on (as has actually occurred with tumbler-pigeons) choosing and breeding from birds with longer and longer beaks, or with shorter and shorter beaks.
+
+An early period one man preferred swifter horses; another stronger and more bulky horses. The early differences would be very slight; in the course of time, from the continued selection of swifter horses by some breeders, and of stronger ones by others, the differences would become greater, and would be noted as forming two sub-breeds; finally, after the lapse of centuries, the sub-breeds would become converted into two well-established and distinct breeds. 
+
+As the differences slowly become greater, the inferior animals with intermediate characters, being neither very swift nor very strong, will have been neglected, and will have tended to disappear. Here, then, we see in man's productions the action of what may be called the principle of divergence, causing differences, at first barely appreciable, steadily to increase, and the breeds to diverge in character both from each other and from their common parent.
+
+But how, it may be asked, can any analogous principle apply in nature? I believe it can and does
+apply most efficiently, from the simple circumstance that the more diversified the descendants from
+any one species become in structure, constitution, and habits, by so much will they be betterenabled to seize on many and widely diversified places in the polity of nature, and so be enabled to
+increase in numbers.
+
+We can clearly see this in the case of animals with simple habits. Take the case of a carnivorous quadruped, of which the number that can be supported in any country has long ago arrived at its full average. If its natural powers of increase be allowed to act, it can succeed in increasing (the country not undergoing any change in its conditions) only by its varying descendants seizing on places at present occupied by other animals: some of them, for instance, being enabled to feed on new kinds of prey, either dead or alive; some inhabiting new stations, climbing trees, frequenting water, and some perhaps becoming less carnivorous. 
+
+The more diversified in habits and structure the descendants of our carnivorous animal became, the more places they would be enabled to occupy. What applies to one animal will apply throughout all time to all animals--that is, if they vary--for otherwise natural selection can do nothing. So it will be with plants. It has been experimentally proved, that if a plot of ground be sown with several distinct genera of grasses, a greater number of plants and a greater weight of dry herbage can thus be raised. The same has been found to hold good when first one variety and then several mixed varieties of wheat have been sown on equal spaces of ground.
+
+Hence, if any one species of grass were to go on varying, and those varieties were continually selected which differed from each other in at all the same manner as distinct species and genera of grasses differ from each other, a greater number of individual plants of this species of grass, including its modified descendants, would succeed in living on the same piece of ground. And we well know that each species and each variety of grass is annually sowing almost countless seeds; and thus, as it may be said, is striving its utmost to increase its numbers
+
+Consequently, I cannot doubt that in the course of many thousands of generations, the most distinct varieties of any one species of grass would always have the best chance of succeeding and of increasing in numbers, and thus of supplanting the less distinct varieties; and varieties, when rendered very distinct from each other, take the rank of species.
 

@@ -1,116 +1,68 @@
 ---
-title: Extinction
-heading: Chapter 4f
-weight: 26
-description: "Natural selection acts solely through the preservation of variations in some way advantageous"
+title: Isolation and Elevation
+heading: Chapter 4e
+weight: 25
+description: "Isolation is important in the production of new species"
 c: "firebrick"
 ---
 
 
-<!--  This subject will be more fully discussed in our chapter on Geology; but it must be
-here alluded to from being intimately connected with natural selection.  -->
 
-Natural selection acts solely through the preservation of advantageous variations which consequently endure.
+Isolation is important in the production of new species. 
 
-<!-- But as from the high geometrical powers of increase of all organic beings, each area is already fully stocked with inhabitants,  -->
+But the largeness of area is more important. It will give:
+- a better chance of favourable variations from the many individuals of the same species there
+- infinitely complex conditions of life from the many existing species
 
-As the beings with advantageous variations increase, the less favoured forms decrease.
+<!-- , more especially in the production of species, which will prove capable of enduring for a long period, and of spreading widely.  -->
 
-<!-- it follows that as each selected and favoured form increases in number, so will the  and become rare. -->
+If some of these many species become modified and improved, others will have to be improved in a corresponding degree or they will be exterminated. 
 
-Rarity is the precursor to extinction.
+Each new form, also, as soon as it has been much improved, will be able to spread over the open and continuous area, and will thus come into competition with many others.
 
-<!-- , during fluctuations in the seasons or in the number of its enemies, -->
-Species with few individuals will likey become extinct. 
+Hence more new places will be formed, andthe competition to fill them will be more severe, on a large than on a small and isolated area.
 
-But we may go further than this; for as 
+Moreover, great areas, though now continuous, owing to oscillations of level, will often have recently existed in a broken condition, so that the good effects of isolation will generally, to a certain extent, have concurred. 
 
-New forms are continually and slowly being produced, unless we believe that the number of specific forms goes on perpetually and almost indefinitely increasing, numbers inevitably must become extinct.
+Small isolated areas have been highly favourable for the production of new species.
+- But the course of modification will generally be more rapid on large areas.
 
-Geology shows us that the number of specific forms has not indefinitely increased. This is because the number of places in the polity of nature is not indefinitely great.
+More importantly, the new forms produced on large areas, which already have been victorious over many competitors, will be those that will spread most widely.
+- This will give rise to most new varieties and species, and will thus play an important part in the changing history of the organic world.
 
-<!-- --not that we have any means of knowing that any one region has as yet got its maximum of species.  -->
+<!-- We can, perhaps, on these views, understand some facts which will be again alluded to in our chapter on geographical distribution; for instance, that  -->
 
-Probably no region is as yet fully stocked.
+The productions of the smaller continent of Australia have formerly yielded, and apparently are now yielding, before those of the larger Europaeo-Asiatic area. 
 
-The Cape of Good Hope has the most species of plants crowded together in the world.
-- Some foreign plants there have become naturalised, without causing the extinction of any natives.
+Thus, also, it is that continental productions have everywhere become so largely naturalised on islands.
 
-The species which are most numerous will have the best chance of producing within any given period favourable variations.
+On a small island, the race for life will be less severe.
+- There will have been less modification and less extermination.
 
-<!-- We have evidence of this, in the facts given in the second chapter, showing that it is  -->
+Hence, perhaps, it comes that the flora of Madeira, according to Oswald Heer, resembles the extinct tertiary flora of Europe.
 
-This is evidenced by the common species which afford the greatest number of recorded varieties, or incipient species. 
+All fresh-water basins, taken together, make a small area compared with that of the sea or of the land; and, consequently, the competition between fresh-water productions will have been less severe than elsewhere; new forms will have been more slowly formed, and old forms more slowly exterminated. And it is in fresh water that we find seven genera of Ganoid fishes, remnants of a once preponderant order: and in fresh water we find some of the most anomalous forms now known in the world, as the Ornithorhynchus and Lepidosiren, which, like fossils, connect to a certain extent orders now widely separated in the natural scale. These anomalous forms may almost be called living fossils; they have endured to the present day, from having inhabited a confined area, and from having thus been exposed to less severe competition.
 
-Hence, rare species will be less quickly modified or improved within any given period. They will consequently be beaten in the race for life by the modified descendants of the commoner species.
+To sum up the circumstances favourable and unfavourable to natural selection, as far as the extreme intricacy of the subject permits. I conclude, looking to the future, that for terrestrial productions a large continental area, which will probably undergo many oscillations of level, and which consequently will exist for long periods in a broken condition, will be the most favourable for the production of many new forms of life, likely to endure long and to spread widely.
 
-<!-- From these several considerations I think it inevitably follows, that  -->
+For the area will first have existed as a continent, and the inhabitants, at this period numerous in individuals and kinds, will have been subjected to very severe competition. When converted by subsidence into large separate islands, there will still exist many individuals of the same species on each island: intercrossing on the confines of the range of each species will thus be checked: after physical changes of any kind, immigration will be prevented, so that new places in the polity of each island will have to be filled up by modifications of the old inhabitants; and time will be allowed for the varieties in each to become well modified and perfected.
 
-As new species are formed through natural selection, others will become rarer and rarer, and finally extinct.
+When, by renewed elevation, the islands shall be re-converted into a continental area, there will again be severe competition: the most favoured or improved varieties will be enabled to spread: there will be much extinction of the less improved forms, and the relative proportional numbers of the various inhabitants of the renewed continent will again be changed; and again there will be a fair field for natural selection to improve still further the inhabitants, and thus produce new species.
 
-The forms which stand in closest competition with those undergoing modification andimprovement, will naturally suffer most.
+Natural selection will always act with extreme slowness.
 
-<!-- And we have seen in the chapter on the Struggle for Existence that it is  -->
+Its action depends on there being places in the polity of nature, which can be better occupied by some of the inhabitants of the country undergoing modification of some kind. 
 
-The most closely-allied forms generally have the severest competition with each other. These:
-- are varieties of the same species
-- are species of the same genus or related genera
-- have nearly the same structure, constitution, and habits
+The existence of such places will often depend on physical changes, which are generally very slow, and on the immigration of better adapted forms having been checked.
 
-Consequently, each new variety or species, during the progress of its formation, will generally:
-- press hardest on its nearest kindred, and
-- tend to exterminate them.
+But the action of natural selection will probably still oftener depend on some of the inhabitants becoming slowly modified; the mutual relations of many of the other inhabitants being thus disturbed. Nothing can be effected, unless favourable variations occur, and variation itself is apparently always a very slow process.
 
-We see the same process of extermination amongst our domesticated productions, through the selection of improved forms by man. 
+The process will often be greatly retarded by free intercrossing.
 
-New breeds of cattle, sheep, and other animals, and varieties of flowers, quickly take the place of older and inferior kinds.
+I do not believe that these causes can stop natural selection.
 
-In Yorkshire, the ancient black cattle were:
-- displaced by the long-horns.
-- swept away by the short-horns as if by some murderous pestilence.
+On the other hand, I do believe that natural selection will always act very slowly, often only at long intervals of time, and generally on only a very few of the inhabitants of the same region at the same time. I further believe, that this very slow, intermittent action of natural selection accords perfectly well with what geology tells us of the rate and manner at which the inhabitants of this world have changed. 
 
+Slow though the process of selection may be, if feeble man can do much by his powers of artificial selection, I can see no limit to the amount of change, to the beauty and infinite complexity of the coadaptations between all organic beings, one with another and with their physical conditions of life, which may be effected in the long course of time by nature's power of selection.
 
-### Divergence of Character
-
-<!-- The principle, which I have designated by this term, is of high importance on my theory, and explains, as I believe, several important facts. In the first place,
-
-Varieties, even strongly-marked ones, though having somewhat of the character of species differ from each other far less than do good and distinct species.
-
-Nevertheless, according to my view,  -->
-
-Varieties are incipient species, as species in the process of formation.
-
-
-How, then, does the lesser difference between varieties become augmented into the greater difference between species? 
-
-That this does habitually happen, we must infer from most of the innumerable species throughout nature presenting well-marked differences; whereas varieties, the supposed prototypes and parents of future well-marked species, present slight and ill-defined differences. 
-
-Mere chance, as we may call it, might cause one variety to differ in some character from its parents, and the offspring of this variety again to differ from its parent in the very same character and in a greater degree; but this alone would never account for so habitual and large an amount of difference as that between varieties of the same species and species of the same genus.
-
-As has always been my practice, let us seek light on this head from our domestic productions. We shall here find something analogous. 
-
-A fancier is struck by a pigeon having a slightly shorter beak; 
-
-another fancier is struck by a pigeon having a rather longer beak; 
-
-The acknowledged principle is that 'fanciers do not and will not admire a medium standard, but like extremes,' 
-
-they both go on (as has actually occurred with tumbler-pigeons) choosing and breeding from birds with longer and longer beaks, or with shorter and shorter beaks.
-
-An early period one man preferred swifter horses; another stronger and more bulky horses. The early differences would be very slight; in the course of time, from the continued selection of swifter horses by some breeders, and of stronger ones by others, the differences would become greater, and would be noted as forming two sub-breeds; finally, after the lapse of centuries, the sub-breeds would become converted into two well-established and distinct breeds. 
-
-As the differences slowly become greater, the inferior animals with intermediate characters, being neither very swift nor very strong, will have been neglected, and will have tended to disappear. Here, then, we see in man's productions the action of what may be called the principle of divergence, causing differences, at first barely appreciable, steadily to increase, and the breeds to diverge in character both from each other and from their common parent.
-
-But how, it may be asked, can any analogous principle apply in nature? I believe it can and does
-apply most efficiently, from the simple circumstance that the more diversified the descendants from
-any one species become in structure, constitution, and habits, by so much will they be betterenabled to seize on many and widely diversified places in the polity of nature, and so be enabled to
-increase in numbers.
-
-We can clearly see this in the case of animals with simple habits. Take the case of a carnivorous quadruped, of which the number that can be supported in any country has long ago arrived at its full average. If its natural powers of increase be allowed to act, it can succeed in increasing (the country not undergoing any change in its conditions) only by its varying descendants seizing on places at present occupied by other animals: some of them, for instance, being enabled to feed on new kinds of prey, either dead or alive; some inhabiting new stations, climbing trees, frequenting water, and some perhaps becoming less carnivorous. 
-
-The more diversified in habits and structure the descendants of our carnivorous animal became, the more places they would be enabled to occupy. What applies to one animal will apply throughout all time to all animals--that is, if they vary--for otherwise natural selection can do nothing. So it will be with plants. It has been experimentally proved, that if a plot of ground be sown with several distinct genera of grasses, a greater number of plants and a greater weight of dry herbage can thus be raised. The same has been found to hold good when first one variety and then several mixed varieties of wheat have been sown on equal spaces of ground.
-
-Hence, if any one species of grass were to go on varying, and those varieties were continually selected which differed from each other in at all the same manner as distinct species and genera of grasses differ from each other, a greater number of individual plants of this species of grass, including its modified descendants, would succeed in living on the same piece of ground. And we well know that each species and each variety of grass is annually sowing almost countless seeds; and thus, as it may be said, is striving its utmost to increase its numbers
-
-Consequently, I cannot doubt that in the course of many thousands of generations, the most distinct varieties of any one species of grass would always have the best chance of succeeding and of increasing in numbers, and thus of supplanting the less distinct varieties; and varieties, when rendered very distinct from each other, take the rank of species.
 

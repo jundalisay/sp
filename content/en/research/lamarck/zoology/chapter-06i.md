@@ -12,29 +12,94 @@ weight: 41
 
 Animals with a sub-gelatinous and regenerating body, without any special organs, other than an alimentary canal with a single opening; a terminal mouth, together with radiating tentacles or a ciliate and rotating organ.
 
-When we reach the polyps, we have arrived at the penultimate step of the animal scale, that is to say, at the penultimate class which it has been necessary to establish among the animals.
+<!-- When we reach the polyps, we have arrived at the penultimate step of the animal scale, the penultimate class. -->
 
-Here, the imperfection and the simplicity in the organic structure are very evident, so that the animals at this point have hardly any more faculties and for a long time we had doubts about their animals nature.
+ <!-- which it has been necessary to establish among the animals. -->
 
-These are gemmiparous animals, with a homogeneous body, usually gelatinous, very regenerative in their parts, not manifesting a radiating shape (something nature began in them) except in their radiating tentacles around their mouths. They have no other special organ except an intestinal canal with a single opening and, consequently, incomplete.
+Here, the imperfection and the simplicity in the organic structure are very evident.
 
-We can say that polyps are much more imperfect animals than those which are part of the preceding classes. For we do not find in them either brain, longitudinal marrow, nerves, special organs for respiration, vessels for circulation of fluids, nor ovaries for reproduction. The substance of their bodies is, in some way, homogenous, and made up of a gelatinous and irritable cellular tissue, in which fluids move slowly. Finally, all their internal organs are reduced to an imperfect alimentary canal, rarely folded back on itself or furnished with appendixes, looking in general like only a long sack, always with only one single opening serving simultaneously as a mouth and anus.
+The animals at this point have hardly any more faculties and for a long time we had doubts about their animals nature.
 
-We can find no firm reason for claiming that in the animals in question, where we do not find a nervous system, a respiratory organ, muscles, and so on, these infinitely reduced organs nonetheless exist, but that they are spread out and dissolved in the general corporeal mass and equally distributed in all its molecules, instead of being collected together in particular places and that therefore, every point in their bodies could experience all sorts of sensations, muscular movement, will power, ideas, and thought. That would be a totally gratuitous assumption, without basis and probability. Besides, with such an assumption, one could say that the hydra has in all the points of its body, all the organs of the most perfect animals, and as a result, that each point in the body of this polyp sees, hears, distinguishes odours, notices tastes, and so on, and in addition that it has ideas, forms judgments, and thinks, in a word, that it reasons. Each molecule of the body of the hydra or of every other polyp would be by itself a perfect animal, and the hydra itself would be an even more perfect animal than human beings, because each of its molecules would be of equivalent value, in the complement of its organic structure and faculties, to a complete individual of the human race.
+These are gemmiparous animals:
+- with a homogeneous body
+- usually gelatinous
+- very regenerative in their parts
+- not manifesting a radiating shape (something nature began in them) except in their radiating tentacles around their mouths. 
 
-There is no reason to refuse to extend the same reasoning to the monad, the most imperfect of known animals and then to stop the application of this reasoning to the plants themselves, which also enjoy life. Then one would attribute to each molecule of a plant all the faculties which I have just cited, but held within the limits relative to the nature of the living body of which that molecule is a part.
+They have no other special organ except an intestinal canal with a single opening and, consequently, incomplete.
 
-That is certainly not the point to which the results of the study of nature lead. This study teaches us, by contrast, that everywhere where an organ ceases to exist, the faculties which depend upon it also cease. Every animal which has no eyes or in which the eyes have been destroyed sees nothing. And although in the last analysis the different senses derive their source from touch, which is only variously modified in each of them, every animal which lacks nerves, the special organ of feeling, will not be able to experience any sort of sensation. For it does not have the intimate sense of its existence, it does not have the chamber to which sensation must be conveyed, and consequently it would not be able to feel.
+Polyps are much more imperfect animals than those which are part of the preceding classes. 
 
-Thus, the sense of touch, the basis of the other senses, which is spread out into almost all parts of the bodies of those animals with nerves, does not exist any more in those which, like the polyps, lack nerves. In the latter, the parts are only simply irritable, and are so to a very high degree. But they have no feeling, and as a result, no type of sensation. In fact, in order for a sensation to take place, there must first be an organ to receive it (nerves) and then there must be some chamber or other (a brain or a longitudinal marrow with ganglia) where this sensation can be carried.
+They do not have:
+- brain
+- longitudinal marrow
+- nerves
+- special organs for respiration
+- vessels for circulation of fluids
+- ovaries for reproduction
 
-A sensation is always the consequence of a received impression which is carried immediately to an interior chamber where this sensation is formed. If you interrupt the communication between the organ which receives the impression and the chamber where the sensation is formed, all feeling immediately ceases in this place. One will never be able to contradict this principle.
+The substance of their bodies is homogenous and made up of a gelatinous and irritable cellular tissue, in which fluids move slowly. 
 
-No polyp can really be oviparous. For no polyp has a special organ for reproduction. Besides, to prepare real eggs, it is not only necessary that the animal has an ovary, but in addition it must have (or another individual of its species must have) a special organ for fertilization, and no one can demonstrate that the polyps are furnished with such organs. By contrast, we understand very well the buds which several of them develop for reproducing themselves. By paying a little attention to them, we perceive that these buds themselves are only fissions more isolated from the body of the animal, fissions less simple than those which nature uses to multiply the animalcules which make up the last class of the animal kingdom.
+All their internal organs:
+- are reduced to an imperfect alimentary canal
+- are rarely folded back on itself or furnished with appendixes
+- looki like only a long sack, always with only one single opening serving simultaneously as a mouth and anus.
+
+Some claim that such animals that have no nervous system, respiratory organ, muscles, etc actually:
+- have those organs dissolved in their corporeal mass and distributed in all its molecules, instead of being in particular places. 
+- could experience all sorts of sensations, muscular movement, will power, ideas, and thought.
+
+<!-- and that therefore, every point in their bodies   -->
+
+I think that is not probable. 
+
+<!-- That would be a totally gratuitous assumption, without basis and probability.  -->
+
+With such an assumption, one could say that the hydra has in all the points of its body, all the organs of perfect animals.
+- The polyp could thus see, hear, smell, taste, etc. and have ideas, forms judgments, and thinks and reasons. 
+
+<!-- Each molecule of the body of the hydra or of every other polyp would be by itself a perfect animal, and the hydra itself would be an even more perfect animal than human beings, because each of its molecules would be of equivalent value, in the complement of its organic structure and faculties, to a complete individual of the human race. -->
+
+<!-- There is no reason to refuse to extend the same reasoning to the monad, the most imperfect of known animals and then to stop the application of this reasoning to the plants themselves, which also enjoy life. 
+
+Then one would attribute to each molecule of a plant all the faculties which I have just cited, but held within the limits relative to the nature of the living body of which that molecule is a part.
+
+That is certainly not the point to which the results of the study of nature lead. 
+
+This study teaches us, by contrast, that or in which the eyes have been destroyed -->
+
+In reality, everywhere where an organ ceases to exist, the faculties which depend on it also cease. 
+
+Every animal which has no eyes sees nothing. 
+
+And although in the last analysis the different senses derive their source from touch, which is only variously modified in each of them, every animal which lacks nerves, the special organ of feeling, will not be able to experience any sort of sensation. 
+
+For it does not have the intimate sense of its existence, it does not have the chamber to which sensation must be conveyed, and consequently it would not be able to feel.
+
+Thus, the sense of touch, the basis of the other senses, which is spread out into almost all parts of the bodies of those animals with nerves, does not exist any more in those which, like the polyps, lack nerves. 
+
+In the latter, the parts are only simply irritable, and are so to a very high degree. But they have no feeling, and as a result, no type of sensation. 
+
+In fact, in order for a sensation to take place, there must first be an organ to receive it (nerves) and then there must be some chamber or other (a brain or a longitudinal marrow with ganglia) where this sensation can be carried.
+
+A sensation is always the consequence of a received impression which is carried immediately to an interior chamber where this sensation is formed.
+
+
+If you interrupt the communication between the organ which receives the impression and the chamber where the sensation is formed, all feeling immediately ceases in this place. One will never be able to contradict this principle.
+
+No polyp can really be oviparous. 
+
+For no polyp has a special organ for reproduction. 
+
+Besides, to prepare real eggs, it is not only necessary that the animal has an ovary, but in addition it must have (or another individual of its species must have) a special organ for fertilization, and no one can demonstrate that the polyps are furnished with such organs. By contrast, we understand very well the buds which several of them develop for reproducing themselves. 
+
+By paying a little attention to them, we perceive that these buds themselves are only fissions more isolated from the body of the animal, fissions less simple than those which nature uses to multiply the animalcules which make up the last class of the animal kingdom.
 
 The polyps are very irritable, move only with external stimulations foreign to them. All their movements are the necessary results of impressions received, and are generally carried out without acts of free will, because they do not know how to produce them, since they cannot have free will.
 
-The light forces them constantly and always in the same manner to direct themselves its way, as it does with respect to branches and leaves or the flowers of plants, although more slowly. No polyp moves after its prey or seeks for it with its tentacles. But when some foreign body touches these same tentacles, they seize it, take it into the mouth, and the polyp swallows it without making any distinction about its appropriate nature or about its utility. It digests it and feeds on it, if this body is capable of being digested. It rejects it entirely, if it is preserved intact for some time in the alimentary canal. Finally it returns any remains which it cannot break down any more. But in all that, the action is a necessary one, without ever the possibility of a choice which permits the action to vary.
+The light forces them constantly and always in the same manner to direct themselves its way, as it does with respect to branches and leaves or the flowers of plants, although more slowly. 
+
+No polyp moves after its prey or seeks for it with its tentacles. But when some foreign body touches these same tentacles, they seize it, take it into the mouth, and the polyp swallows it without making any distinction about its appropriate nature or about its utility. It digests it and feeds on it, if this body is capable of being digested. It rejects it entirely, if it is preserved intact for some time in the alimentary canal. Finally it returns any remains which it cannot break down any more. But in all that, the action is a necessary one, without ever the possibility of a choice which permits the action to vary.
 
 As to the distinction between the polyps and the radiates, it is very large and marked. We do not find in the interior of the polyps any distinct part having a radiating arrangement. Their tentacles alone have this arrangement, that is to say, the same as the arrangement of the arms of the cephalid mollusks, which we will surely not mix up with the radiates. Moreover, the polyps have a terminal superior mouth, while the mouth of the radiates is arranged differently.
 

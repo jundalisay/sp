@@ -2,7 +2,7 @@
 title: "Pauli, Wolfgang"
 weight: 162
 c: "firebrick"
-description: "Modern works about Physics"
-# c: "firebrick"
+description: "Wolfgang Pauli's works"
+a: "Wolfgang Pauli"
 ---
 

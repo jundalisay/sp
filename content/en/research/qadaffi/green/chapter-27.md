@@ -1,8 +1,8 @@
 ---
 title: Music And Art
 c: "firebrick"
-heading: "Chapters 17"
-weight: 34
+heading: "Chapters 27"
+weight: 64
 description: ""
 ---
 

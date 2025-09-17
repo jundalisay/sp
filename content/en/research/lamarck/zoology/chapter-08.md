@@ -1,5 +1,5 @@
 ---
-title: The natural order of animals
+title: The Natural Order of animals
 heading: Chapter 8
 description: 
 a: "Lamarck"
@@ -10,21 +10,35 @@ weight: 69
 
  <!-- and the structure we must give to their general distribution so that it conforms to the very order of nature. -->
  
-Chapter 5 that the essential aim of a distribution of animals must not limit itself, on our part, to the possession of a list of classes, genera, and species. 
+Chapter 5 said that the essential aim of a distribution of animals must not limit itself to the possession of a list of classes, genera, and species. 
 
-This distribution must at the same time display, in its structure, the means most favorable to the study of nature, something which is most relevant to make us understand her progress, her means, and her laws.
+This distribution must display the means most favorable to the study of nature.
 
-However, I do not hesitate to point out that our general distributions of animals up to the present day have been given a structure which reverses the very order nature followed in giving rise successively to her living productions. 
+<!-- , something which is most relevant to make us understand her progress, her means, and her laws. -->
 
-Thus, in moving, according to custom, from the most complex towards the most simple, we make knowledge of the progress in the composition of organic structure more difficult to grasp, and we put ourselves in the position of perceiving less easily both the causes of this progress and the interruptions here and there in it.
+However, our general distributions of animals today have a structure which reverses the very order nature.
 
-When we realize that something is useful, even that it is indispensable for the goal we propose and that there is nothing inconvenient about it, we must hurry to make use of it, even though it is contrary to custom.
+ <!-- followed in giving rise successively to her living productions.  -->
 
-Such is the case concerning the structure which we must give to the general disposition of animals.
+It moves from the most complex towards the most simple.
+- This makes the learning of the composition of organic structure more difficult to grasp.
 
-Moreover, we will see that it is not at all an indifferent matter to begin this general distribution of animals at either one of its extremities and that what should come at the start of the order cannot be simply a matter of our choice.
+We perceive less easily:
+- the causes of this progress
+- the interruptions in it
 
-The custom which was introduced and which people have followed up to the present day of putting at the head of the animal kingdom the most perfect animals and to finish this kingdom by the least perfect and the simplest in organic structure owes its origin, in part, to the tendency which makes us always give precedence to the objects which we find striking, which please us, or which interest us the most, and, in part, to the fact that we have preferred to move from the best known towards the least known.
+When we realize that something is useful, even that it is indispensable for the goal we propose and that there is nothing inconvenient about it, we hurriedly make use of it, even though it is contrary to custom.
+
+<!-- Such is the case concerning the structure which we must give to the general disposition of animals. -->
+
+It is not at all an indifferent matter to begin this general distribution of animals at either one of its extremities and that what should come at the start of the order cannot be simply a matter of our choice.
+
+The current custom is to put:
+- at the head of the animal kingdom the most perfect animals
+- at the end the least perfect and simplest
+
+This is from our tendency to give precedence to the objects which we find striking, pleasing, or interesting.
+- We have preferred to move from the best known towards the least known.
 
 At the time when people began to occupy themselves with the study of natural history, these considerations were, no doubt, very persuasive. But they ought to yield now to scientific needs and particularly to the need to facilitate our progress in the understanding of nature.
 

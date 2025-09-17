@@ -1,6 +1,7 @@
 ---
 title: "Voltaire"
-description: ""
+description: "Works of Voltaire"
 c: "firebrick"
+a: "Voltaire"
 ---
 

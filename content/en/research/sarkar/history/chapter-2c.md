@@ -145,9 +145,4 @@ Kapil, the first philosopher in the world was more popular.
 A temple was constructed here in his memory. 
 
 Shiva was his Ista or deity of worship, hence a Shiva temple was also constructed here.
-{{ /l }}
-
-
-
-
-
+{{< /l >}}
