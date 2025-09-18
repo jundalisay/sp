@@ -30,7 +30,9 @@ Nowhere, up to this point, is the general degradation in organic structure more 
 
 This degradation even shows up between the different orders which naturally divide the insects. For those in the three first orders (Coleoptera, Orthoptera, and Neuroptera) have mandibles and jaws in their mouths. 
 
-Those of the fourth order (Hymenoptera) begin to possess a sort of proboscis; finally those of the four last orders (Lepidopteres, Hemiptera, Diptera and Aptera) really have only a proboscis. Now, paired jaws do not turn up anywhere in the animal kingdom after the insects of the three first orders. With respect to wings, the insects of the six first orders have four of them, of which all or two alone serve for flight. Those of the seventh and eighth orders have only two wings, or their wings are aborted. The larvae of insects of the two final orders do have limbs and resemble worms.
+Those of the fourth order (Hymenoptera) begin to possess a sort of proboscis; finally those of the four last orders (Lepidopteres, Hemiptera, Diptera and Aptera) really have only a proboscis. 
+
+Paired jaws do not turn up anywhere in the animal kingdom after the insects of the three first orders. With respect to wings, the insects of the six first orders have four of them, of which all or two alone serve for flight. Those of the seventh and eighth orders have only two wings, or their wings are aborted. The larvae of insects of the two final orders do have limbs and resemble worms.
 
 It appears that insects are the last animals which display a clearly distinct sexual reproduction and which are truly oviparous.
 

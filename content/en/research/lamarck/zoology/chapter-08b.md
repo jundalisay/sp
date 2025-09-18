@@ -10,19 +10,36 @@ weight: 72
 
 
 
-Such is the table of the 14 classes established among the known animals, and arranged following the order which most closely approximates the order of nature. 
+Such is the table of the 14 classes for the known animals.
+- It is arranged following the order which matches the order of nature. 
 
-The arrangement of these classes is such that that we will always be forced to conform to it, even if we refuse to adopt the lines of separation which form them, because this arrangement is based on the analysis of the organic structure of the living bodies with which it deals. 
+<!-- The arrangement of these classes is such that that  -->
 
-This consideration, of the first importance, establishes the affinities which exist among the objects making up each division and the rank of each one of these groups in the entire series.
+We will always be forced to conform to this arrangement even if we refuse to adopt the lines of separation which form them.
 
-People will never find solid reasons for changing this distribution in its entirety, for reasons which I am going to reveal. But we will be able to make changes in the details, and above all in the divisions subordinate to the classes, because the affinities between objects comprising the sub-divisions are more difficult to determine and assume a more arbitrary character.
+This arrangement is based on the analysis of the organic structure of living bodies. 
+
+Of first importance is:
+- the affinities which exist among the objects in each division
+- the rank of each of these groups
+
+People will never find solid reasons for changing this distribution in its entirety.
+
+But we will be able to make changes in:
+- the details
+- the divisions subordinate to the classes
+
+This is because the affinities between objects comprising the sub-divisions are more difficult to determine and assume a more arbitrary character.
 
 This arrangement and distribution of animals conform to the very order of nature.
 
 I am going to reveal the general series of known animals, divided into its principal divisions, proceeding from the simplest towards the most complex, in accordance with the reasons indicated above.
 
-My purpose, in this exposition, will be to put the reader in a position to recognize the rank, in the general series, occupied by the animals which, in the course of this work, I have often had occasion to refer to and to spare the reader the trouble of having to go to other works of zoology for that information.
+<!-- My purpose, in this exposition, will be to put the reader in a position to -->
+
+This will make us recognize the rank, in the general series, of animals.
+
+ <!-- which, in the course of this work, I have often had occasion to refer to and to spare the reader the trouble of having to go to other works of zoology for that information. -->
 
 However, I will give here only a simple list of genera and only of the principal divisions; but this list will be sufficient to demonstrate the extent of the general series, its arrangement conforming the most with the order of nature, and the indispensable placement of classes, orders, and thus, perhaps, of families and genera. We understand well that it is in the good works of zoology which we possess that we must study the details of all the objects mentioned in this list, because I have not taken that into consideration in this work.
 

@@ -9,11 +9,17 @@ weight: 29
 ---
 
 
-These examples of perfection first established in parts of a classification and later destroyed by others and later reestablished by the necessity and the pressure of things are not uncommon in the natural sciences.
+These examples of perfection first established in parts of a classification.
 
-In fact, Linnaeus combined several plant genera which Tournefort had previously separated, as one sees in his general polygonum, mimosa, justicia, convallaria, and plenty of others. And now the botanists are reestablishing the genera which Linnaeus had destroyed.
+Later, they were destroyed by others.
 
-Finally, last year (in my course for 1807), I established among the animals without vertebrae a new tenth class, the infusorians, because after a sufficient examination of the known characteristics of these imperfect animals, I was convinced that I had been wrong to include them among the polyps.
+Then they were reestablished by the necessity and the pressure of things in the natural sciences.
+
+Linnaeus combined several plant genera which Tournefort had previously separated such as his general polygonum, mimosa, justicia, convallaria, etc.
+
+Now, botanists are reestablishing the genera which Linnaeus had destroyed.
+
+In 1807, I established among the animals without vertebrae a new 10th class, the infusorians because they are not part of the polyps.
 
 Thus, in continuing to collect the facts gained through observation and through the rapid progress in comparative anatomy, I instituted successively the different classes which now make up my distribution of the animals without vertebrae. These classes, ten in number, are arranged from the most complex to the simplest, as is the custom, as follows:
 
@@ -30,11 +36,18 @@ Worms
 Radiata
 Polyps
 Infusorians
-I will reveal in dealing with each of these classes that they constitute the necessary divisions, because they are based on a consideration of the organic structure and that, although it may be or indeed must be the case that we find in the vicinity of the limits to the classes some races, in one way or another, half way or intermediate between two classes, these divisions offer everything which art can produce which is most helpful in this sort of endeavour. Thus, as long as our main concern is an interest in science, people will not be able to do without acknowledging them.
 
-It will be noticed that, by adding to these ten classes which divide the animals without backbones the four classes recognized and fixed by Linnaeus among the animals with vertebrae, we will have for the classification of all known animals the fourteen following classes, which I am going once more to present in an order opposite to the natural order.
+These classes constitute the necessary divisions because they are based on a consideration of the organic structure
 
-Vertebrate Animals
+ and that, although it may be or indeed must be the case that we find in the vicinity of the limits to the classes some races, in one way or another, half way or intermediate between two classes, these divisions offer everything which art can produce which is most helpful in this sort of endeavour. 
+
+As long as our interest is in science, people must acknowledge them.
+
+By adding to these 10 classes which divide the animals without backbones the 4 classes recognized and fixed by Linnaeus among the animals with vertebrae, we will have for the classification of all known animals the 14 following classes.
+
+I am going to present them in an order opposite to the natural order.
+
+## Vertebrate Animals
 
 Mammals
 
@@ -66,12 +79,28 @@ Polyps
 
 Infusorians
 
-Such is the present state of the general distribution of animals, and such is the distribution of classes which have been established among them
+Such is the present state of the general distribution of animals.
 
-It will be a matter now of examining a very important questions which appears never to have been explored or discussed. However, the solution to it is essential. Here it is.
+<!-- , and such is the distribution of classes which have been established among them -->
 
-Since all the classes which are part of the animal kingdom form necessarily a series of large groups according to the growing complexity or diminishing complexity in their organic structure, must we, in the arrangement of this series, proceed from the most complex to the simplest or from the simplest to the most complex?
+<!-- It will be a matter now of examining a very important questions which appears never to have been explored or discussed. However, the solution to it is essential. Here it is. -->
 
-We will try to give the solution to this question in Chapter VIII which brings this part of the book to a conclusion. But before that we must examine a very remarkable fact, most worthy of our attention, which can lead us to notice the march nature follows in giving its various productions the existence which they enjoy. I am going to talk about the remarkable degradation which is found in all organic structure, if one moves through the natural series of animals, beginning with the most perfect or the most complex and moving towards the simplest and the most imperfect.
+All the classes of the animal kingdom form necessarily a series of large groups according to the growing or declining complexity in their organic structure.
 
-Although this degradation is not nor can be finely demarcated, as I will reveal, it exists in the main groups so evidently and with a sustained consistency, even in the variations in the path, that it depends, no doubt, on some general law which it is important for us to discover and, consequently, to seek out.
+Should we go from simple to complex or from complex to simple?
+
+Chapter 8 will answer this.
+
+Nature marches in a certain direction.
+
+ <!-- giving its various productions the existence which they enjoy. I am going to talk about the  -->
+
+A remarkable degradation is found in all organic structure if one moves from the most complex to the simplest animals.
+
+ <!-- through the natural series of animals, beginning with the most perfect or the most complex and moving towards the simplest and the most imperfect. -->
+
+This degradation is not nor can be finely demarcated.
+
+Yet it exists in the main groups so evidently and consistently.
+
+Even in the variations in the path, it depends on some general law which we should discover.

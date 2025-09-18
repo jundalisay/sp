@@ -1,7 +1,7 @@
 ---
 title: Annelids
 heading: Chapter 8f
-description: 
+description: This is the eighth class of the Animal Kingdom.
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
@@ -10,17 +10,21 @@ weight: 82
  
 
 
-(Eighth class of the Animal Kingdom)
-
 Oviparous animals with an elongated body, which is soft and ringed laterally, rarely having eyes and a distinct head, and lacking articulated limbs. Arteries and veins for circulation; respiration by gills; a longitudinal ganglionic chord.
 
-Observations
 
-We see in the annelids that nature is forced to abandon the method of articulation which she has constantly used with the insects, arachnids, and crustaceans. Their bodies--elongated, soft, and for the most part composed of simple rings--gives these animals the appearance of being just as imperfect as the worms, with whom people have confused them. But since they have arteries and veins and breathe by gills, these animals, very distinct from the worms, must, along with the cirripeds, make the transition from the crustaceans to the mollusks.
+In the annelids, nature is forced to abandon the method of articulation which she has constantly used with the insects, arachnids, and crustaceans.
+
+Their bodies are elongated, soft, and mostly composed of simple rings.
+
+This gives these animals the appearance of being just as imperfect as the worms, with whom people have confused them. 
+
+But since they have arteries and veins and breathe by gills, these animals, very distinct from the worms, must, along with the cirripeds, make the transition from the crustaceans to the mollusks.
 
 They lack articulated limbs (2), and most of them have, on the side, bristles or bundles  which take the place of limbs. Almost all of them are suckers and feed themselves only on fluid material.
 
-Table of Annelids
+
+## Table of Annelids
 
 First Order: Cryptobranch Annelids
 
@@ -73,6 +77,7 @@ Balanus
 Anatifa
 
 Remarks: We see that the cirripeds still incline towards the annelids by their longitudinal ganglionic chord. But in these animals, nature is preparing itself to create the mollusks, because they already have, as do the latter, a mantle which covers the interior of their shell.
+
 
 Mollusks
 

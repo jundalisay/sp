@@ -1,54 +1,101 @@
 ---
-title: Personal Conclusion
+title: The Laws of Evolution of Lamarck
 heading: Chapter 7f
-description: My Personal Conclusion is that  Nature produces in succession all the animal species.
+description: "There are 2 laws of nature which observation has always confirmed"
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
-weight: 64
+weight: 56
 ---
 
 
-My Personal Conclusion is that  Nature produces in succession all the animal species.
 
-It begins with the most imperfect or the simplest.
-
-Gradually, it makes the organic structure more complicated.
-
-as these animals generally spread out into all the habitable regions of the world, from the influence of the circumstances which each species encountered, it acquired the habits which we know in it and the modifications in its parts which observation reveals to us in that species.
-
-The first of these conclusions is the one which people have drawn up to the present time, that is to say, that it has been just about universal. It assumes in each animal a constant organic structure and parts which have never varied and which will never vary; 
-
-It further assumes that the circumstances in the places where each species of animals dwells never varies in these locations; for if they did vary, the same animals would no longer be alive and the possibility of finding other similar circumstances and of transporting themselves there would be forbidden to them.
-
-The second conclusions is my own.  
-
-It assumes that through the influence of circumstances on habits and later the influence of habits on the condition of the parts and even on the condition of the organic structure, each animal can undergo in its parts and organic structure modifications capable of becoming really significant. This has given rise to the condition in which we find all the animals.
-
-To establish that this second conclusion is groundless, it is first necessary to prove that each point on the surface of the earth never varies its nature, exposure, lofty or low elevation, its climate, and so on and so on, and, beyond that, to show that no part of animals undergoes, even with the passage of a great deal of time, any modification occasioned by a change in its circumstances and by the necessity which forces them to a style of life and action different from what is habitual to them.
-
-Now, if a single fact confirms that an animal which has been domesticated for a long time differs from the wild species from which it originated and if, in such a domesticated species, we find a great structural differences between individuals which we have subjected to some habit and those whom we have forced into different habits, then it will be certain that the first conclusion does not conform at all to natural laws and that, by contrast, the second is perfectly in accordance with them.
-
-Thus, everything comes together to establish my assertion that is is not the form (wether of the body or the parts) which gives rise to the habits and the manner of living in animals.
-
-In contrast, it is the habits, the manner of life, and all the other influential circumstances which have, over time, shaped the form of the body and the parts of animals. 
-
-With new shapes, new faculties were acquired, and gradually nature came to the point of creating the animals such as we see them now.
-
-Could there be in natural history a more important conclusion, one to which we ought to give more attention, than the one with I have just revealed?
-
-<!-- Let us conclude this first part with the principles and the exposition of the natural order of animals. -->
+Needs are always induced by circumstances.
 
 
+Satisfying those needs does not only modify the organs. 
 
-## Notes to Chapter Seven
+But they also remove these same organs, when they are not needed.
 
-(1) Physicists think and even state that atmospheric air is the unique medium for sound, that is to say, that it is the air which, set in motion by the shocks or the vibrations of bodies, transmits to the organ of the ear the impressions of the oscillations which it has received.
+The fish which swim in large bodies of water have a need to see laterally.  
 
-That this view is an error is confirmed by a number of known facts which prove that it is impossible for air to penetrate to all regions where the material producing sound actually does penetrate.
+This is why their eyes are on the sides of their heads.
 
-See my Memorandum on the substance of sound, printed at the end of my Hydrogeology, p. 225, in which I have set forth the proofs of this mistake.
+<!-- Their bodies, more or less flattened, depending on the species, have their edges perpendicular to the plane of the water, and their eyes are placed in such away that there is one eye on each flat side. -->
 
-Since the publication of my memorandum (which people have been reluctant to refer to) great efforts have been made to reconcile the known velocity for the propagation of sound in air with the sluggishness of the air particles which makes the propagation of these oscillations too slow to equal this speed.  Now, since the air in its oscillations necessarily undergoes successive compression and dilation in parts of its mass, people have used the products of the calories given off in the sudden compression of air and of those absorbed in the rarefaction of this fluid.  Thus, by using the results of these products and their size, as determined by appropriate hypotheses, geometricians now provide a rational basis for the speed with which sound propagates itself in air.  But that does not square at all with facts which confirm that sound propagates itself through bodies which air is incapable of moving through or of setting any of its parts in motion.
+But those fish whose habits require them constantly to come close to the inclined or sloped shores have been forced to swim on their flattened side in order to be able to approach more closely the edges of the water.  
 
-In fact, the assumption concerning the vibration of the smallest parts of solid bodies is a very doubtful oscillation which cannot propagate itself except in homogeneous bodies with the same density and cannot extend from a dense body into a rarefied body, nor from the latter into another very dense body.  This assumption cannot be reconciled with the well known fact about the propagation of sound through heterogeneous bodies with different densities and very different natures. [Back to Text]
+These receive more light from above than below.
+
+They need to be always attentive to what is found above them.
+
+This has caused one of their eyes to be displaceed and occupy the same position as the other eye as seen in flatfish.
+
+ <!-- the Achirus achirus and the Pleuronectes. -->
+
+The location of these eyes is no longer symmetrical, because it results from an incomplete mutation.
+
+{{< i s="/photos/bio/flatfish.jpg" a="Flatfish" >}}
+
+ <!-- very remarkable position that we know about in soles, turbots, dabs, and so on (the  and Achirus).   -->
+
+This mutation is completely realized in the skates, where the transverse flattening of the body is totally horizontal, as well as the head. 
+
+Thus, the eyes of rays, both placed on the upper surface, have become symmetrical again.
+
+The snakes, which crawl on the surface of the earth, need mainly to see elevated objects which are above them.  This need must have influenced the placement of the organ of sight in these animals.  In fact, they have their eyes situated in the lateral and upper part of the head, in such a way that they can easily perceive what is above them or beside them.  
+
+But they hardly see at all what is in front of them a very short distance away.  However, forced to make up for this defect of vision for understanding the bodies which are in front of their heads and which might injure them if they moved forward, they were not able to perceive these bodies except with their tongue, which they were obligated to extend with all their force.  
+
+This habit not only helped to make this tongue thin, very long, and contractile, but also it has also forced the tongue to divide itself in the majority of species in order to feel several objects at once.  It even permitted them to form an opening on the edge of their muzzle, so that they could move the tongue through it without separating their jaws.
+
+Nothing is more noteworthy than what is produced by the habits of the herbivorous mammals.
+
+The quadrupeds in which circumstances and the needs created by these over a long period of time have developed (in it as well as in the individuals of the race) the custom of grazing on grass, moves only on the ground, and finds itself obliged to remain their on its four feet for most of its life, not generally carrying out much movement (or only moderate movement).  The large amount of time this sort of animal is required to use each day to fill itself up with a single form of nourishment to which it is accustomed brings it about that it exercises itself very little by moving around and that it uses its limbs only to hold it up on the earth, to move or to run, and it never makes use of its limbs to cling to and climb up trees.
+
+From this habit of consuming, every day, huge volumes of material for nourishment, which distends the organs taking it in, and from the habit of only carrying out moderate movements the result is that the bodies of these animals have grown considerably thicker, have become heavy and huge, and have acquired a really large volume, as we see in elephants, rhinoceroses, oxen, buffaloes, horses, and so on.
+
+The habit of staying upright on four feet for the greater part of the day in order to graze has given rise to a thick horn which envelops the digits of their feet.  And since these digits have rested without being exercised by any movement and since they have not served any other purpose than to hold the animals up (just like the rest of the foot)  most of these digits have shrunk, dwindled, and have finally disappeared.  Thus, in the pachyderms, some have on their feet five digits enveloped in horn and, consequently, their hoof is divided into five parts; others have only four and still others have only three.  But in the ruminants, which appear to be the oldest of the mammals limited to sustaining themselves only on land, there are no longer more than two digits on the feet, and in the solipeds there is only one (horses, donkeys).
+
+However, among the herbivorous animals, and particularly among the ruminants, it happens that there are some which, due to circumstances in the desert countries which they inhabit, are ceaselessly in danger of being the prey of carnivorous animals and which can find safely only in sudden flight.  
+
+Necessity has thus forced them to practice rapid running.  From the habit which they have acquired from that, their bodies have become more svelte and their limbs much more slender.  We see examples of them in antelopes, gazelles, and so on
+
+In our climate, other dangers continually expose the red deer, roe deer, and fallow deer to the mortal peril of hunting by human beings and reduce the animals to the same need, force upon them similar habits, and have given rise to the same productions with respect to them.
+
+Ruminant animals can make use of their feet only to hold themselves up.  Since they have little power in their jaws, which are exercised only by cutting and browsing on grass, they cannot fight each other except with blows of the head, aiming the crown of their heads against each other.
+
+In their fits of anger (which are frequent, above all among the males), their inner feeling, in these efforts, very strongly direct the fluids towards this part of their heads and there create a secretion of horny material in some and in others a bony material mixed with horny material.  This gives rise to solid protuberances.  Hence, the origin of horns and antlers, with which the heads of the majority of these animals are armed.
+
+In this matter of habits, it is remarkable to observe the result in the peculiar form and height of the giraffe (camelo-pardalis).  
+
+We know that this animal, the largest of the mammals, lives in the interior of Africa and dwells in those places where the earth, almost always arid and without grass, requires the animal to browse on the foliage of trees and constantly to try hard to reach that foliage.  As a result of this habit, maintained for a long time in all the individuals of its race, the animal's front limbs have become longer than those at the back, and its neck has grown longer to such an extent that the giraffe, without rearing up on its hind legs, lifts its head and reaches up to six metres in height (close to twenty feet).
+
+Among the birds, the ostriches, lacking the capacity to fly and elevated on very high limbs, probably owe their remarkable form to analogous circumstances.
+
+The result of habits is just as noteworthy in the carnivorous mammals as it is in the herbivores.  But it manifests effects of a different sort.
+
+In fact, among these mammals those who are accustomed, along with their race,  to climb, to scratch away in order to dig a hole in the ground, or to rip apart other animals which they attack and kill for prey have a need to use the digits on their feet.  Now, this custom has favored the separation of their digits and has formed the claws with which we see them equipped.
+
+But among the carnivores, there are those which are obliged to run in order to catch their prey.  
+
+Among these animals those in which need (and consequently custom) has made it necessary every day for them to rip with their claws and to push them deep into the body of another animal in order to hang on to it and finally to make an effort to tear out the part they have seized must have, through repeated efforts, acquired for these claws a size and curved shape which would have then made them  very awkward for walking or running on stony ground.  
+
+In this case, what happened was that the animal was obliged to make other efforts to push back these excessively projecting curved claws which got in its way.  
+
+From this gradually resulted the formation of these remarkable sheaths in which cats, tigers, lions, and so on withdraw their claws when they are of no use.
+
+Thus, efforts made in any direction whatever, if maintained for a long time or habitually made by certain parts of a living body to satisfy needs demanded by nature or circumstances enlarge these parts and make them acquire dimensions and a shape which they would never have attained if these efforts had not become the habitual action of the animals which carried them out.  Observations undertaken on all the known animals provide examples of this everywhere.
+
+Is it possible that there is a more striking one than the kangaroo?  This animal, which carries its little ones in the pouch which it has under its abdomen, has acquired the habit of holding itself upright, balanced only on its back feet and its tail, and it does not move except with the help of a series of leaps in which it maintains its upright posture so as not to upset its young.   From this come the following:
+
+1. Its front limbs, of which it makes very little use and on which it leans only in the moment when it abandons its upright posture, have never undergone a development proportional to that of the other parts and have remained thin, very small, and almost without force.
+
+2. The back limbs, almost constantly in action, whether to hold up all the body or to carry out its jumps, have, by contrast, undergone a considerable development and have become very large and very powerful.
+
+3. Finally, the tail which we see here used a great deal to hold the animal up and for carrying out its principal movements has acquired at its base an extremely remarkable thickness and power.
+
+These well known facts are surely very relevant to show what results from the habitual use among animals of an organ or any part whatever.  
+
+When one observes in an animal, an organ noticeably developed, strong, and powerful, people maintain that habitual exercise has done nothing to bring that about, that its sustained lack of use would not take anything away, and that finally this organ has always been just as it is now ever since the creation of the species to which this animal belongs, I will enquire why our domestic ducks cannot fly any more like wild ducks.  
+

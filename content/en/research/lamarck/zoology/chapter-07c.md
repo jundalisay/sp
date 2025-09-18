@@ -1,12 +1,13 @@
 ---
 title: The Laws of Evolution of Lamarck
 heading: Chapter 7c
-description: 
+description: "There are 2 laws of nature which observation has always confirmed"
 a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
 weight: 51
 ---
+
 
 
  <!-- relevant to consider in all this consists in -->
@@ -53,7 +54,9 @@ The constant lack of use of such an organ imperceptibly weakens it, makes it det
 Conditions influence a race for a long time, making them acquire or lose traits.
 <!-- things. -->
 
-The increase of decrease of organs from the use or disuse of them is transferred to the offspring provided that the acquired changes are common to the two sexes or to those who have produced these new individuals.
+The increase of decrease of organs from the use or disuse of them is transferred to the offspring provided that the acquired changes are common to the two sexes or to those who have produced these new individuals.*
+
+{{< n n="This is the oversoul of the species. This debunks Darwin's theory which cannot account for why sterile worker ants are sterile even if their parent are fertile" >}}
 
 <!-- Consequently, through the influence of the predominant use of some organ or by the influence of the constant disuse of this organ, 
 
@@ -97,4 +100,3 @@ The proverb "habits form a second nature" supports the laws above.
  <!-- would not have arisen, and would not have been able to be preserved in the event someone had proposed it. -->
 
 If one considers seriously everything which I have just revealed, one will sense that I grounded my views rationally when in my work entitled
-

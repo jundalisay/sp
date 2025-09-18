@@ -10,7 +10,9 @@ weight: 85
  
 
 
-They have a vertebral column made up of a multitude of short bones, articulated and arranged in a linear sequence. This column serves to hold up the body, establishes the basis of the skeleton, provides a sheath for the spinal chord, and terminates at the anterior end with a bony container which contains the brain.
+They have a vertebral column made up of a multitude of short bones, articulated and arranged in a linear sequence. 
+
+This column serves to hold up the body, establishes the basis of the skeleton, provides a sheath for the spinal chord, and terminates at the anterior end with a bony container which contains the brain.
 
 FIFTH stage of Organic Structure
 
@@ -401,7 +403,3 @@ Sphyraena
 Lepisosteus
 Polypterus
 Scombresox
-
- 
-
- 

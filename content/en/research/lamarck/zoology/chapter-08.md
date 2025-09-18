@@ -27,11 +27,13 @@ We perceive less easily:
 - the causes of this progress
 - the interruptions in it
 
-When we realize that something is useful, even that it is indispensable for the goal we propose and that there is nothing inconvenient about it, we hurriedly make use of it, even though it is contrary to custom.
+When we realize that something is useful, we hurriedly make use of it, even though it is contrary to custom.
+
+<!-- , even that it is indispensable for the goal we propose and that there is nothing inconvenient about it,  -->
 
 <!-- Such is the case concerning the structure which we must give to the general disposition of animals. -->
 
-It is not at all an indifferent matter to begin this general distribution of animals at either one of its extremities and that what should come at the start of the order cannot be simply a matter of our choice.
+<!-- It is not at all an indifferent matter to begin this general distribution of animals at either one of its extremities and that what should come at the start of the order cannot be simply a matter of our choice. -->
 
 The current custom is to put:
 - at the head of the animal kingdom the most perfect animals
@@ -40,11 +42,22 @@ The current custom is to put:
 This is from our tendency to give precedence to the objects which we find striking, pleasing, or interesting.
 - We have preferred to move from the best known towards the least known.
 
-At the time when people began to occupy themselves with the study of natural history, these considerations were, no doubt, very persuasive. But they ought to yield now to scientific needs and particularly to the need to facilitate our progress in the understanding of nature.
 
-With respect to animals which nature has succeeded in producing, so numerous and so varied, if we cannot boast of knowing exactly the true order which nature followed in bringing them successively into existence, what I am going to reveal is probably very close to that order. Reason and all the knowledge we have acquired encourage this probability.
+<!-- At the time when people began to occupy themselves with the study of natural history,  -->
 
-In fact, if it is true that all living bodies are productions of nature, we cannot refuse to believe that she could produce them only successively, not all at once at a specific moment. Now, if she created them one after the other, there is reason to believe that she began exclusively with the simplest and did not produce the most complex organic structures (in both the animal and plant kingdoms) until the end,
+These considerations were very persuasive.
+
+But they should yield now to scientific needs, particularly to the need to facilitate our progress in the understanding of nature.
+
+<!-- With respect to animals which nature has succeeded in producing, so numerous and so varied, if we cannot boast of knowing exactly the true order which nature followed in bringing them successively into existence, what I am going to reveal is probably very close to that order. 
+
+Reason and all the knowledge we have acquired encourage this probability.
+
+In fact, if it is true that all living bodies are productions of nature, we cannot refuse to believe that she could produce them only successively, not all at once at a specific moment. Now, if she created them one after the other, there is reason to believe that she began  -->
+
+Nature began exclusively with the simplest structures.
+
+ <!-- and did not produce the most complex organic structures (in both the animal and plant kingdoms) until the end, -->
 
 Botanists first gave zoologists the example of the true arrangement we should give to a general distribution in order to represent the very order of nature. For they formed the first class of plants with the acotyledonous or agamous plants, that is, with the structurally simplest plants, the most imperfect in every respect, in a word, with those which had no cotyledons, no determinable sex, no vessels in their tissues, plants which are, in fact, composed only of cellular tissue more or less modified according to different extensions.
 

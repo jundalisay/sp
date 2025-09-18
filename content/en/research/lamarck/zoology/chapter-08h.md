@@ -37,9 +37,14 @@ Sphagebranchus
 Murenophis
 Gymnomuraena
 
-Remarks.  Since the skeleton started to form itself in the fish, those called cartilaginous are probably the least perfected fish, and consequently the most imperfect of all must be the gasterobranch which Linnaeus, under the name myxine, considered a worm.  Thus, in the order which we are following, the genus gasterobranch must be the first of the fish, because it is the least perfected.
 
-REPTILES
+Since the skeleton started to form itself in the fish, those called cartilaginous are probably the least perfected fish, and consequently the most imperfect of all must be the gasterobranch which Linnaeus, under the name myxine, considered a worm.  
+
+Thus, in the order which we are following, the genus gasterobranch must be the first of the fish, because it is the least perfected.
+
+
+
+## REPTILES
 
 Viviparous animals, with vertebra and cold blood; breathing incompletely by a lung, at least in their later life; with a smooth skin or one covered in scales or a bony shell.
 
@@ -124,4 +129,3 @@ Basiliseus
 Lophura
 Dracaena
 Crocodile
-

@@ -169,7 +169,11 @@ African-Baboon
 Pongo
 Orang
 
-Remark.  According to the order which I have just presented, the family of quadrumanes is thus made up of the most perfect known animals, above all the last genera of this family.  In effect, the genus Orang (pithecus) ends the entire order, just as the monad began it.  What a difference with respect to organic structure and faculties between the animals of these two genera!
 
-Naturalists who have considered man solely with respect to his organic structure have formed out of the six known varieties a particular genus, so that man alone makes up a separate family, characterized in the following way:
+The family of quadrumanes is made up of the most perfect animals, above the last genera of this family.
 
+The genus Orang (pithecus) ends the entire order, just as the monad began it. 
+
+What a difference in their organic structure and faculties!
+
+ <!-- between the animals of these two genera! -->
