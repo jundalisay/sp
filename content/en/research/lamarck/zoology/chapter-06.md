@@ -2,26 +2,29 @@
 title: Degradation and Simplification in the Organic Structure 
 heading: Chapter 5
 description: 
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 31
 ---
 
-from One Extreme to the Other of the Chain of Animal Life, Going from the Most Complex to the Simplest
+<!-- from One Extreme to the Other of the Chain of Animal Life, Going from the Most Complex to the Simplest -->
 
 
-Among the considerations of interest to Zoological Philosophy, one of the most important concerns the degradation and the simplification observed in the organic structures of animals, as we move from one extremity of the chain of animal life to the other, from the most perfect animals to those with the simplest organic structure.
+One of the most important concerns of Zoological Philosophy is the degradation and the simplification in the organic structures of animals, as we move from one extremity of the chain of animal life to the other, from the most perfect animals to those with the simplest organic structure.
 
-Now, the question is whether this fact can be truly verified. For then it will strongly illuminate for us the plan nature has followed and will set us on the road to discovering several of the natural laws most important for us to understand.
+<!-- Now, the question is whether this fact can be truly verified. For then it will strongly illuminate for us the plan nature has followed and will set us on the road to discovering several of the natural laws most important for us to understand. -->
 
 I propose here to prove that the fact in question is reliable and the product of a constant natural law, which always works uniformly, but that a particular cause, easily recognizable, make the regularity of the results which this law ought to produce vary here and there throughout the entire extent of the chain of animal life.
 
-To begin with, one is forced to recognize that the general series of animals, arranged in accordance with their natural affinities, displays a series of particular groups, resulting from the different systems of organic structure employed by nature, and that if these groups are themselves organized in accordance with the decreasing complexity of organic structures, they form a real chain.
+The general series of animals, arranged in accordance with their natural affinities, displays a series of particular groups, resulting from the different systems of organic structure employed by nature.
 
-Then, it is noticeable that, in spite of the anomalies (whose cause we shall establish), from one extremity to the other of this chain there reigns a striking degradation in the organic structures of the animals which comprise it, and a proportional diminution in the number of faculties of these animals. The result is that, if at one end of the chain in question are the most perfect animals in all respects, then at the opposite end we necessarily see the simplest and most imperfect animals which can be found in nature.
+If these groups are themselves organized in accordance with the decreasing complexity of organic structures, they form a real chain.
 
-Finally, one has reason to believe, through this analysis, that all the special organs are simplified progressively from class to class, are changed, become diminished and weaker gradually, and that they lose the place where they are concentrated, if they are of primary importance, and end up by being completely and utterly done away with, before having reached the opposite end of the chain.
+in spite of the anomalies from one extremity to the other of this chain there reigns a striking degradation in the organic structures of the animals which comprise it, and a proportional diminution in the number of faculties of these animals. The result is that, if at one end of the chain in question are the most perfect animals in all respects, then at the opposite end we necessarily see the simplest and most imperfect animals which can be found in nature.
+
+
+All the special organs are simplified progressively from class to class, are changed, become diminished and weaker gradually, and that they lose the place where they are concentrated, if they are of primary importance, and end up by being completely and utterly done away with, before having reached the opposite end of the chain.
 
 True, the degradation I am talking about is not always a regularly modulated progression. For often some organ is missing or changes suddenly, and in its transformations, it sometimes assumes odd shapes which do not link up with any other to any recognizable degree. Again, often some organ disappears and reappears several times before being utterly done away with. But we are going to see that this could not have been otherwise, that the cause which creates organic structures progressively must have experienced various deviations in its products, because its products are often in the position of being changed by a foreign cause which works on them with an efficacious power. Nonetheless, we will see that the degradation under discussion is no less real and progressive in all the examples wherever we have been able to see it.
 

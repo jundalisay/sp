@@ -15,7 +15,12 @@ Is further biological development in man likely?
 
 1. The biological importance of behaviour. B
 
-By conforming to innate faculties as well as to the environment and by adapting itself to changes in either of these factors, behaviour, though not itself inherited, may yet speed up the process of evolution by orders of magnitude. While in plants and in the lower ranges of the animal kingdom adequate behaviour is brought about by the slow process of selection, in other words by trial and error, man's high intelligence enables him to enact it by choice. This incalculable advantage may easily outweigh his handicap of slow and comparatively scarce propagation, which is further reduced by the biologically dangerous regard not to let our offspring exceed the volume for which livelihood can be secured.
+By conforming to innate faculties as well as to the environment and by adapting itself to changes in either of these factors, behaviour, though not itself inherited, may yet speed up the process of evolution by orders of magnitude. 
+
+While in plants and in the lower ranges of the animal kingdom adequate behaviour is brought about by the slow process of selection, in other words by trial and error, man's high intelligence enables him to enact it by choice. 
+
+This incalculable advantage may easily outweigh his handicap of slow and comparatively scarce propagation, which is further reduced by the biologically dangerous regard not to let our offspring exceed the volume for which livelihood can be secured.
+
 
 2. This will depend on us and our doing. 
 
@@ -32,8 +37,13 @@ The increasing mechanization and 'stupidization' of most manufacturing processes
 
 The hardship of modern industrial life has led to certain institutions calculated to mitigate it, such as protection of the workers against exploitation and unemployment, and many other welfare and security measures. They are duly regarded as beneficial and they have become indispensable. Still we cannot shut our eyes to the fact that, by alleviating the responsibility of the individual to look after himself and by levelling the chances of every man, they also tend to rule out the competition of talents and thus to put an efficient brake on biological evolution. 
 
-I realize that this particular point is highly controversial. One may make a strong case that the care for our present welfare must override the worry about our evolutionary future. But fortunately, so I believe, they go together according to my main argument. Next to want, boredom has become the worst scourge in our lives. Instead of letting the ingenious machinery we have invented produce an increasing amount of superfluous luxury, we must plan to develop it so that it takes off human beings all the unintelligent, mechanical, 'machine-like' handling. The machine must take over the toil for which man is too good, not man the work for which the machine is too expensive, as comes to pass quite often. This will not tend to make production cheaper, but those who are engaged in it happier. There is small hope of putting this through as long as the competition between big firms and concerns all over the world prevails.
+I realize that this particular point is highly controversial. One may make a strong case that the care for our present welfare must override the worry about our evolutionary future. But fortunately, so I believe, they go together according to my main argument. 
+
+Next to want, boredom has become the worst scourge in our lives. Instead of letting the ingenious machinery we have invented produce an increasing amount of superfluous luxury, we must plan to develop it so that it takes off human beings all the unintelligent, mechanical, 'machine-like' handling.
+
+The machine must take over the toil for which man is too good, not man the work for which the machine is too expensive, as comes to pass quite often. This will not tend to make production cheaper, but those who are engaged in it happier. There is small hope of putting this through as long as the competition between big firms and concerns all over the world prevails.
 
 But this kind of competition is as uninteresting as it is biologically worthless.
 
 Our aim should be to reinstate in its place the interesting and intelligent competition of single human beings.
+

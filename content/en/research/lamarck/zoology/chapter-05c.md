@@ -2,7 +2,7 @@
 title: Distribution of Animals Established by Linnaeus
 heading: Chapter 5c
 description: 
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 27

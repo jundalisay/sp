@@ -11,21 +11,28 @@ c: "steelblue"
 
 
 
-1. To construct an equilateral triangle on a given finite straight line.
+1. Make an equilateral triangle on a finite straight line.
 
-2. To place a straight line equal to a given straight line with one end at a given point.
+2. Place a straight line equal to a given straight line with one end at a given point.
 
-3. To cut off from the greater of two given unequal straight lines a straight line equal to the less.
+3. Cut off from the longer of 2 lines, a line equal to the shorter.
 
-4. If two triangles have two sides equal to two sides respectively, and have the angles contained by the equal straight lines equal, then they also have the base equal to the base, the triangle equals the triangle, and the remaining angles equal the remaining angles respectively, namely those opposite the equal sides.
+4. If 2 triangles have 2 sides equal to 2 sides respectively, and have the angles contained by the equal straight lines equal, then:
+- they also have the base equal to the base
+- the triangle equals the triangle
+- the remaining angles equal the remaining angles respectively, namely those opposite the equal sides.
 
-5. In isosceles triangles the angles at the base equal one another, and, if the equal straight lines are produced further, then the angles under the base equal one another.
+5. In isosceles triangles, the angles at the base equal one another.
+
+If the equal straight lines are produced further, then the angles under the base equal one another.
 
 6. If in a triangle two angles equal one another, then the sides opposite the equal angles also equal one another.
 
-7. Given two straight lines constructed from the ends of a straight line and meeting in a point, there cannot be constructed from the ends of the same straight line, and on the same side of it, two other straight lines meeting in another point and equal to the former two respectively, namely each equal to that from the same end.
+7. Assume 2 straight lines constructed from the ends of a straight line and meeting in a point.
 
-8. If two triangles have the two sides equal to two sides respectively, and also have the base equal to the base, then they also have the angles equal which are contained by the equal straight lines.
+There cannot be constructed from the ends of the same straight line, and on the same side of it, 2 other straight lines meeting in another point and equal to the former two respectively, namely each equal to that from the same end.
+
+8. If 2 triangles have the two sides equal to two sides respectively, and also have the base equal to the base, then they also have the angles equal which are contained by the equal straight lines.
 
 9. To bisect a given rectilinear angle.
 
@@ -108,3 +115,4 @@ Corollary. If two straight lines cut one another, then they will make the angles
 47. In right-angled triangles the square on the side opposite the right angle equals the sum of the squares on the sides containing the right angle.
 
 48. If in a triangle the square on one of the sides equals the sum of the squares on the remaining two sides of the triangle, then the angle contained by the remaining two sides of the triangle is right.
+

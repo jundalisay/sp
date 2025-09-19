@@ -2,7 +2,7 @@
 title: The Present Classification of Animals
 heading: Chapter 5b
 description: 
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 25

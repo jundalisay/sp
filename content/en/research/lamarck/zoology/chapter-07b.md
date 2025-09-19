@@ -1,12 +1,12 @@
 ---
-title: The Influence of Circumstances on the Actions and Habits of Animals
+title: Modifications in Plants
 heading: Chapter 7b
 description: 
-a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
 weight: 49
 ---
+
 
 
 All botanists know that the plants which they take from the place where they were born to the gardens where they are cultivated undergo there gradual changes which end up making them unrecognizable. 

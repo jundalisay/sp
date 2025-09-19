@@ -13,15 +13,15 @@ c: "steelblue"
 
 ## Definitions
 
-1. A point has no part.
+1. A point has no part
 
-2. A line is a length with no width.
+2. A line is a length with no width
 
-3. The ends of a line are points.
+3. The ends of a line are points
 
-4. A straight line is a line which lies evenly with the points on itself.
+4. A straight line is a line which lies evenly with the points on itself
 
-5. A surface is that which has length and width only.
+5. A surface is that which has length and width only
 
 6. The edges of a surface are lines.
 

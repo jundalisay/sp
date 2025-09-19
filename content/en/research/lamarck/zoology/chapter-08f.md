@@ -2,7 +2,7 @@
 title: Annelids
 heading: Chapter 8f
 description: This is the eighth class of the Animal Kingdom.
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 82

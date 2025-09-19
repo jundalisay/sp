@@ -2,20 +2,18 @@
 title: The Laws of Evolution of Lamarck
 heading: Chapter 7f
 description: "There are 2 laws of nature which observation has always confirmed"
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 56
 ---
 
 
-
 Needs are always induced by circumstances.
 
-
-Satisfying those needs does not only modify the organs. 
-
-But they also remove these same organs, when they are not needed.
+Satisfying those needs:
+- modifies the organs
+- removes these same organs when they are not needed.
 
 The fish which swim in large bodies of water have a need to see laterally.  
 

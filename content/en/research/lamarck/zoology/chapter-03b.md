@@ -2,7 +2,7 @@
 title: Lamarck's Principles
 heading: Chapter 3b
 description: 
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 13
@@ -30,7 +30,7 @@ It gave rise to different ways of multiplication and reproduction of individuals
 
 In this process, the progress acquired in the composition of the organic structure and in the shape and diversity of parts was maintained.
 
-5. In time, through favourable circumstances, mew habits modified the organs of a body.
+5. In time, through favourable circumstances, new habits modified the organs of a body.
 
  <!-- of changes which every point on the surface of the earth has successively undergone, in a word, with the assistance of the power which new situations and habits have for  endowed with life, all those which exist now have been imperceptibly shaped just as we see them. -->
 

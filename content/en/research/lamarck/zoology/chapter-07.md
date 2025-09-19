@@ -1,8 +1,9 @@
 ---
-title: The Influence of Circumstances on the Actions and Habits of Animals
+title: The Influence of Circumstances
+# on the Actions and Habits of Animals
 heading: Chapter 7
 description: 
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 45

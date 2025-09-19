@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4c
 title: "The Arithmetical Paradox: The Oneness of Mind"
-weight: 4
+weight: 34
 c: "steelblue"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"

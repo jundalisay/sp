@@ -2,7 +2,7 @@
 title: The Natural Order of animals
 heading: Chapter 8
 description: 
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 69
@@ -59,19 +59,42 @@ Nature began exclusively with the simplest structures.
 
  <!-- and did not produce the most complex organic structures (in both the animal and plant kingdoms) until the end, -->
 
-Botanists first gave zoologists the example of the true arrangement we should give to a general distribution in order to represent the very order of nature. For they formed the first class of plants with the acotyledonous or agamous plants, that is, with the structurally simplest plants, the most imperfect in every respect, in a word, with those which had no cotyledons, no determinable sex, no vessels in their tissues, plants which are, in fact, composed only of cellular tissue more or less modified according to different extensions.
+Botanists first gave zoologists the example of the true order of nature. 
 
-What the botanists have done with respect to plants, we should finally do with the animal kingdom, not only because nature herself points in that direction and reason demands it, but also because the natural order of classes, according to the growing complexity in organic structure, is much easier to determine among the animals than it is with respect to plants.
+<!-- arrangement of the general distribution in order to represent the very -->
 
-While this order will better set down the order of nature, it will at the same time make the study of objects much easier, will improve our understanding of the organic structure of animals, the progress in its complexity from class to class, and will demonstrate even better the affinities existing between the different degrees in the make up of animal organization and the external difference which we most frequently use to characterize the classes, orders, families, genera, and species.
+They formed the first class of plants with the acotyledonous or agamous plants.
 
-I add to these two considerations (whose basis one cannot seriously call into question) the fact that if nature, incapable of making organic structures which survive for ever, had not had the means of giving these bodies the capacity of reproducing themselves with other individuals which resembled them, replaced them, and perpetuate the race by the same means, she would have been forced to create directly all the races or rather she would have been able to create only one race in each organic order, one for the simplest and most imperfect animals and one for the simplest and most imperfect plants.
+These:
+- are the structurally simplest, most imperfect plants
+- had no cotyledons, no determinable sex, no vessels in their tissues, plants which are composed only of cellular tissue more or less modified according to different extensions
+
+What the botanists have done with plants, we should do with animals.
+
+ <!-- kingdom, not only because nature herself points in that direction and reason demands it, but also -->
+
+This is because the natural order of classes is determined by the growing complexity in organic structure.
+- This is much easier to see among animals than in plants.
+
+This order of nature will:
+- make the study of objects much easier
+- improve our understanding of:
+  - the organic structure of animals
+  - the progress in its complexity from class to class
+- will demonstrate better the affinities between the different degrees of animal organization and the external difference used to characterize the classes, orders, families, genera, and species
+
+<!-- (whose basis one cannot seriously call into question) -->
+I add to these 2 considerations the fact that if nature, incapable of making organic structures which survive for ever, had not had the means of giving these bodies the capacity of reproducing themselves with other individuals which resembled them, replaced them, and perpetuate the race by the same means, she would have been forced to create directly all the races or rather she would have been able to create only one race in each organic order, one for the simplest and most imperfect animals and one for the simplest and most imperfect plants.
 
 In addition, if nature had not been capable of the active processes of organization with the ability to make that very organic structure more and more complex, by increasing the mobile energy of fluid movement and thus organic movement, and if she had not preserved through reproduction all the progress in the composition of organic structures and all the acquired improvements, she should assuredly never have produced this multitude of infinitely varied animals and plants, so different from each other in the condition of their organic structures and capacities.
 
 Finally, she would not have been able to create right at the first the most eminent animal faculties, for they do not arise except with the help of very complex organic systems. Nature had to prepare gradually the means of bringing into existence such organic systems.
 
-Thus, to establish, with respect to living bodies, the state of things which we observe, the only thing nature had to produce directly (that is, without the combination of any organic action) was the simplest organic bodies, whether animals or plants. And she still reproduces these in the same way, every day, in favorable places and seasons. Now, by giving to these bodies which she herself created the capacity to feed themselves, to grow, to multiply, and to preserve each time the improvements they acquired in their organic structure and, finally, by passing on these same capacities to all the individuals produced by organic reproduction, over time, given the enormous diversity of always changing circumstances, the living bodies of all the classes and every order were, through these means, produced one after the other.
+Thus, to establish, with respect to living bodies, the state of things which we observe, the only thing nature had to produce directly (that is, without the combination of any organic action) was the simplest organic bodies, whether animals or plants.
+
+ <!-- And she still reproduces these in the same way, every day, in favorable places and seasons.  -->
+
+Now, by giving to these bodies which she herself created the capacity to feed themselves, to grow, to multiply, and to preserve each time the improvements they acquired in their organic structure and, finally, by passing on these same capacities to all the individuals produced by organic reproduction, over time, given the enormous diversity of always changing circumstances, the living bodies of all the classes and every order were, through these means, produced one after the other.
 
 In considering the natural order of animals, the very marked gradation which exists in the growing complexity of their organic structure and the number as well as the improvement of their faculties is far from being a new truth, for even the Greeks were able to perceive it (1). But they were not able to lay bare the principles and proofs, because people then lacked the knowledge necessary to establish them.
 

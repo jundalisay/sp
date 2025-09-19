@@ -2,7 +2,7 @@
 title: Classes of Animals Without Vertebrae
 heading: Chapter 5d
 description: Animals are living organic bodies, endowed with permanently irritable parts.
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 29

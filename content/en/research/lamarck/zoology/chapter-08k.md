@@ -2,7 +2,6 @@
 title: Bimanes
 heading: Chapter 8h
 description: 
-a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
 weight: 99

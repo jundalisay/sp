@@ -1,13 +1,13 @@
 ---
-title: Table of Insects
+title: Insects
 heading: Chapter 8d
 description: 
-a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
 weight: 77
 ---
  
+
 
 A. SUCKING INSECTS
 

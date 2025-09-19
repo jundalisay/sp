@@ -2,7 +2,6 @@
 title: Infusorians
 heading: Chapter 6j
 description: 
-a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
 weight: 43
@@ -10,27 +9,65 @@ weight: 43
 
 
 
-Infinitely small animals, with gelatinous transparent bodies, homogenous and very contractile; having no specially distinct interior organ, but often with oviform gemmules, and displaying on the outside no radiating tentacles nor rotary organs.
+These are infinitely small animals, with gelatinous transparent bodies, homogenous and very contractile; 
 
-Finally, we have arrived here at the last class in the animal kingdom, the one which makes up the most imperfect animals in all respects, that is, those whose organic structure is the simplest, who possess the fewest faculties, and who all seem, in truth, to be only sketches of animal nature.
+They have no specially distinct interior organ, but often with oviform gemmules.
 
-Up to the present, I have combined these small animals in the class of polyps, of which they make up the last order under the name amorphous polyps, having no constant shape which is unique to all. But I recognized the necessity of separating them to create a special class. This does nothing to change the rank which I had assigned to them. All that results from this change is limited to a line of separation which the greatest simplification in their organic structure and their lack of radiating tentacles and rotary organs seem to require.
+They show on the outside no radiating tentacles nor rotary organs.
 
-Since the organic structure of infusorians becomes increasingly simple, according to the genera which make up the class, the last of these genera present to us, in some way, the limit of animal nature. At least, the animals display the limit which we can reach. Particularly in the animals of the second order of this class, it is certain that all traces of the intestinal canal and mouth have disappeared entirely, that there are no organs at all, in a word, that they no longer carry out digestion.
+This is the last class in the animal kingdom.
 
-The infusorians are only very small gelatinous bodies, transparent, contractile and homogenous, made up of cell tissue almost without any consistency, yet nevertheless irritable at all points. These small bodies, which appear only animated or moving points, nourish themselves by absorption and a constant water intake. Undoubtedly they are animated through the influence of subtle ambient fluids, like heat and electricity, which simulate in them the movements which make up their lives.
+This is of the most imperfect animals in all respects.
+
+Their organic structure is the simplest.
+
+They have the fewest faculties.
+
+They are only sketches of animal nature.
+
+Up to now, I have combined these small animals as polyps, in the order as 'amorphous polyps'.
+
+They have no constant shape which is unique to all. 
+
+But I recognized the necessity of separating them to create a special class. This does nothing to change the rank which I had assigned to them. All that results from this change is limited to a line of separation which the greatest simplification in their organic structure and their lack of radiating tentacles and rotary organs seem to require.
+
+The organic structure of infusorians becomes increasingly simple.
+
+This last of the genera is the limit of animal nature. 
+
+At least, the animals display the limit which we can reach. 
+
+Particularly in the animals of the second order of this class, it is certain that all traces of the intestinal canal and mouth have disappeared entirely, that there are no organs at all, in a word, that they no longer carry out digestion.
+
+The infusorians are:
+- very small gelatinous bodies, transparent, contractile and homogenous
+- made up of cell tissue almost without any consistency, yet nevertheless irritable at all points. 
+
+These small bodies, which appear only animated or moving points, nourish themselves by absorption and a constant water intake. 
+
+Undoubtedly they are animated through the influence of subtle ambient fluids, like heat and electricity, which simulate in them the movements which make up their lives.
 
 In considering such animals, if we were still to assume that they possessed all the organs which we know about in other animals but that these organs are based in all the points of their bodies, how vain would such an assumption be!
 
-In fact, the extremely weak (almost nonexistent) consistency of the parts of these small gelatinous bodies indicates that such organs must not exist, because it would be impossible for them to carry out their functions. It is clear enough that, in order for any organs to have the power to react upon fluids and to exert their appropriate functions, their parts must have the consistency and the tenacity which can give them force; now, this is precisely what cannot be assumed in connection with the frail animals under discussion.
+In fact, the extremely weak (almost nonexistent) consistency of the parts of these small gelatinous bodies indicates that such organs must not exist, because it would be impossible for them to carry out their functions. 
 
-Only among the animals of this class does nature appear to create spontaneous or direct generations, which she renews continually whenever circumstances are favorable for that. We will try to show that by spontaneous generations nature has acquired a way to create indirectly, after the passage of an enormous time, all the other races of animals which we know about.
+In order for any organs to have the power to react upon fluids and to exert their appropriate functions, their parts must have the consistency and the tenacity which can give them force; now, this is precisely what cannot be assumed in connection with the frail animals under discussion.
 
-What justifies our thinking that the infusorians or the majority of these animals owe their existence purely to spontaneous generations is that these frail animals all perish in the low temperatures brought on by the bad weather seasons. For surely we will not assume that such delicate bodies can leave any bud with sufficient consistency to preserve itself and to reproduce in warm seasons.
+Only among the animals of this class does nature appear to create spontaneous or direct generations, which she renews continually whenever circumstances are favorable for that. 
 
-We find the infusorians in stagnant waters, in the infusions of plant or animal substances, and even in the reproductive liquid of the most improved animals. We find them exactly alike in all parts of the world, but only under circumstances where they could be created.
+We will try to show that by spontaneous generations nature has acquired a way to create indirectly, after the passage of an enormous time, all the other races of animals which we know about.
 
-Thus, by considering successively the different systems of organic structures in animals, from the most complex right to the simplest, we have witnessed the degradation in that structure start in the very class which includes the most improved animals, then later progressively advance from class to class, although with anomalies produced by various sorts of circumstances, and finally, end in the infusorians. These last are the most imperfect animals, the simplest in organic structure, and those in which the degradation which we have followed has reached its limit, by reducing the animal's organic structure so that it consists of a simple body, homogenous, gelatinous, almost without consistency, without special organs, and uniquely formed from a very delicate cellular tissue, hardly sketched out, which appears to be brought to life by subtle ambient fluids which penetrate it and move out again constantly.
+What justifies our thinking that the infusorians or the majority of these animals owe their existence purely to spontaneous generations is that these frail animals all perish in the low temperatures brought on by the bad weather seasons. 
+
+Surely we will not assume that such delicate bodies can leave any bud with sufficient consistency to preserve itself and to reproduce in warm seasons.
+
+We find the infusorians in stagnant waters, in the infusions of plant or animal substances, and even in the reproductive liquid of the most improved animals. 
+
+We find them exactly alike in all parts of the world, but only under circumstances where they could be created.
+
+Thus, by considering successively the different systems of organic structures in animals, from the most complex right to the simplest, we have witnessed the degradation in that structure start in the very class which includes the most improved animals, then later progressively advance from class to class, although with anomalies produced by various sorts of circumstances, and finally, end in the infusorians. 
+
+These last are the most imperfect animals, the simplest in organic structure, and those in which the degradation which we have followed has reached its limit, by reducing the animal's organic structure so that it consists of a simple body, homogenous, gelatinous, almost without consistency, without special organs, and uniquely formed from a very delicate cellular tissue, hardly sketched out, which appears to be brought to life by subtle ambient fluids which penetrate it and move out again constantly.
 
 We have seen the successive process by which each particular organ, even the most essential, gets degraded little by little and finally goes away and disappears entirely long before reaching the other end of the order which we are following. And we have noticed that it is principally in the invertebrate animals that we see particular organs done away with.
 

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 6
 title: "The Mystery of the Sensual Qualities"
-weight: 4
+weight: 48
 c: "steelblue"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
@@ -11,88 +11,94 @@ writer:
 ---
 
 
-In this last chapter I wish to demonstrate in a little more detail the very strange state of affairs already noticed in a famous fragment of Democritus of Abdera - the strange fact that on the one hand all our knowledge about the world around us, both that gained in everyday life and that revealed by the most carefully planned and painstaking laboratory experiments, rests entirely on immediate sense perception, while on the other hand this knowledge fails to reveal the relations of the sense perceptions to the outside world, so that in the picture or model we form of the outside world, guided by our scientific discoveries, all sensual qualities are absent. 
+Democritus of Abdera wrote that:
 
-While the first part of this statement is, so I believe, easily granted by everybody, the second half is perhaps not so frequently realized, simply because the non-scientist has, as a rule, a great reverence for science and credits us scientists with being able, by our 'fabulously refined methods', to make out what, by its very nature, no human can possibly make out and never will be able to make out.
+1. All our knowledge about the world rests entirely on immediate sense perception.
 
-If you ask a physicist what is his idea of yellow light, he will tell you that it is transversal electro-magnetic waves of
-wave-length in the neighbourhood of 590 millimicrons
+This is easily granted by everybody.
 
-• If you ask him: But where does yellow come in? he will say: In my picture not at all, but these kinds of vibrations, when they hit the retina of a healthy eye, give the person whose eye it is the sensation of yellow. On further inquiry you may hear that different wave-lengths produce different colour-sensations, but not all do so, only those between about 800 and 400 flfl.
+2. This knowledge fails to reveal the relations of the sense perceptions to the outside world.
 
-To the physicist the infra-red (more than 800 flfl) and the ultra-violet (less than 400 JlJl) waves are much the same kind of phenomena as those in the region between 800 and 400 JlJl, to which the eye is sensitive. How does this peculiar selection come about? It is obviously an adaptation to the sun's radiation, which is strongest in this region of wave-lengths but falls off at either end. Moreover, the intrinsically brightest colour-sensation, the yellow, is encountered at that place (within the said region) where the sun's radiation exhibits its maximum, a true peak.
+This is why our model of the outside world all lack sensual qualities. 
 
-We may further ask: Is radiation in the neighbourhood of wave-length 590 JlJl the only one to produce the sensation of yellow? The answer is: Not at all. Ifwaves of760 JlJl, which by themselves produce the sensation of red, are mixed in a definite proportion with waves of 535 JlJl, which by themselves produce the sensation of green, this mixture produces a yellow that is indistinguishable from the one produced by 590 JlJl. Two adjacent fields illuminated, one by the mixture, the other by the single spectral light, look exactly alike, you cannot tell which is which. Could this be foretold from the wave-lengths - is there a numerical connection with these physical, objective characteristics of the waves? No. Of course, the chart of all mixtures of this kind has been plotted empirically; it is called the colour triangle.
+This is not so frequently realized simply because the non-scientist has a great reverence for science and thinks that scientists can make out what other humans cannot.
 
-But it is not simply connected with the wave-lengths. There is no general rule that a mixture of two spectral lights matches one between them; for example a mixture of 'red' and 'blue' from the extremities of the spectrum gives 'purple', which is not produced by any single spectral light. Moreover, the said chart, the colour triangle·, varies slightly from one person to the other, and differs considerably for some persons, called anomalous trichromates (who are not colour-blind).
+ <!-- are able, by our 'fabulously refined methods',  possibly make out and never will be able to make out. -->
 
-The sensation of colour cannot be accounted for by the physicist's objective picture of light-waves. Could the physi- ologist account for it, ifhe had fuller knowledge than he has of the processes in the retina and the nervous processes set up by them in the optical nerve bundles and in the brain? I do not think so. We could at best attain to an objective knowledge of what nerve fibres are excited and in what proportion, perhaps even to know exactly the processes they produce in certain brain cells - whenever your mind registers the sensation of yellow in a particular direction or domain of our field of vision. But even such intimate knowledge would not tell us anything about the sensation of colour, more particularly of yellow in this direction - the same physiological processes might conceivably result in a sensation of sweet taste, or anything else. I mean to say simply this, that we may be sure there is no nervous process whose objective description includes the characteristic 'yellow colour' or 'sweet taste', just as little as the objective description of an electro-magnetic wave includes either of these characteristics.
+A physicist will tell you that yellow light:
+- is transversal electro-magnetic waves of 590 millimicrons wavelength.
+- is a vibration that hits the retina giving the sensation of yellow. 
+
+<!-- On further inquiry you may hear that different wave-lengths produce different colour-sensations, but not all do so, only those between about 800 and 400 flfl. -->
+
+<!-- To the physicist the infra-red (more than 800 flfl) and the ultra-violet (less than 400 JlJl) waves are much the same kind of phenomena as those in the region between 800 and 400 JlJl, to which the eye is sensitive. 
+
+How does this peculiar selection come about?  -->
+
+We see light as an adaptation to the sun's radiation.
+
+ <!-- which is strongest in this region of wave-lengths but falls off at either end. Moreover, the intrinsically brightest colour-sensation, the yellow, is encountered at that place (within the said region) where the sun's radiation exhibits its maximum, a true peak. -->
+
+We may further ask: Is radiation in the neighbourhood of wave-length 590 JlJl the only one to produce the sensation of yellow? The answer is: Not at all. 
+
+If waves of 760 JlJl, which by themselves produce the sensation of red, are mixed in a definite proportion with waves of 535 JlJl, which by themselves produce the sensation of green, this mixture produces a yellow that is indistinguishable from the one produced by 590 JlJl. 
+
+Two adjacent fields illuminated, one by the mixture, the other by the single spectral light, look exactly alike, you cannot tell which is which. Could this be foretold from the wave-lengths - is there a numerical connection with these physical, objective characteristics of the waves? No. Of course, the chart of all mixtures of this kind has been plotted empirically; it is called the colour triangle.
+
+But it is not simply connected with the wavelengths. 
+
+There is no general rule that a mixture of two spectral lights matches one between them; for example a mixture of 'red' and 'blue' from the extremities of the spectrum gives 'purple', which is not produced by any single spectral light. 
+
+The said chart, the colour triangle·, varies slightly from one person to the other, and differs considerably for some persons, called anomalous trichromates (who are not colour-blind).
+
+The sensation of colour cannot be accounted for by the physicist's objective picture of light-waves. 
+
+Could the physiologist account for it, ifhe had fuller knowledge than he has of the processes in the retina and the nervous processes set up by them in the optical nerve bundles and in the brain? 
+
+I do not think so. We could at best attain to an objective knowledge of what nerve fibres are excited and in what proportion, perhaps even to know exactly the processes they produce in certain brain cells - whenever your mind registers the sensation of yellow in a particular direction or domain of our field of vision. 
+
+But even such intimate knowledge would not tell us anything about the sensation of colour, more particularly of yellow in this direction - the same physiological processes might conceivably result in a sensation of sweet taste, or anything else. 
+
+I mean to say simply this, that we may be sure there is no nervous process whose objective description includes the characteristic 'yellow colour' or 'sweet taste', just as little as the objective description of an electro-magnetic wave includes either of these characteristics.
 
 The same holds for other sensations. It is quite interesting to compare the perception of colour, which we have just
 surveyed, with that of sound. 
 
-It is normally conveyed to us by elastic waves of compression and dilatation, propagated in the air. Their wave-length - or to be more accurate their frequency - determines the pitch of the sound heard. (N .B. The physiological relevance pertains to the frequency, not to the wave-length, also in the case of light, where, however,the two are virtually exact reciprocals of each other, since the velocities of propagation in empty space and in air do not differ perceptibly.) I need not tell you that the range of frequencies of ' audible sound' is very different from that of 'visible light', it ranges from about 12 or 16 per second to 20,000 or 30,000 per second, while those for light are of the order of several hundred (English) billions. The relative range, however, is much wider for sound, it embraces about 10 octaves (against hardly one for 'visible ligh t') ; moreover, it changes wi th the individual, especially with age: the upper limit is regularly and considerably reduced as age advances.
+It is normally conveyed to us by elastic waves of compression and dilatation, propagated in the air. 
 
-But the most striking fact about sound is that a mixture of several distinct frequencies never combines to produce just one intermediate pitch such as could be produced by one intermediate fre- quency. To a large extent the superposed pitches are per- ceived separately - though simultaneously - especially by highly musical persons. The admixture of many higher notes ('overtones') of various qualities and intensities results in what is called the timbre (German: Klangfarbe), by which we learn to distinguish a violin, a bugle, a church bell, piano ... even from a single note that is sounded. But even noises have their timbre, from which we may infer what is going on; and even my dog is familiar with the peculiar noise of the opening of a certain tin box, out of which he occasionally receives a biscuit. In all this the ratios of the co-operating frequencies are all-important. If they are all changed in the same ratio, as on playing a gramophone record too slow or too fast, you still recognize what is going on. Yet some relevant distinctions depend on the absolute frequencies of certain components.
+Their frequency determines the pitch of the sound heard. 
 
-If a gramophone record containing a human voice is played too fast, the vowels change perceptibly, in particular the 'a' as in 'car' changes into that in 'care'. A continuous range of frequencies is always disagreeable, whether offered as a sequence, as by a siren or a howling cat, or simultaneously, which is difficult to implement, except perhaps by a host of sirens or a regiment of howling cats. This is again entirely different from the case of light perception. All the colours which we normally perceive are produced by continuous mixtures; and a continuous gradation of tints, in a painting or in nature, is sometimes of great beauty.
+(N .B. The physiological relevance pertains to the frequency, not to the wave-length, also in the case of light, where, however,the two are virtually exact reciprocals of each other, since the velocities of propagation in empty space and in air do not differ perceptibly.) 
 
-The chief characteristics of sound percep!ion are well understood in the mechanism of the ear, of v/hich we have better and safer knowledge than of the chemistry of the retina. The principal organ is the cochlea, a coiled bony tube which resembles the shell of a certain type of sea-snail: a tiny winding staircase that gets narrower and narrower as it 'ascends'. In place of the steps (to continue our simile), across the winding staircase elastic fibres are stretched, forming a membrane, the width of the membrane (or the length of the individual fibre) diminishing from the 'bottom' to the 'top'.
+The range of frequencies of 'audible sound' is very different from that of 'visible light'.
 
-Thus, like the strings of a harp or a piano, the fibres of different length respond mechanically to oscillations of different frequency. To a definite frequency a definite small area of the membrane - not just one fibre - responds, to a higher frequency another area, where the fibres are shorter.
+It ranges from about 12 or 16 per second to 20,000 or 30,000 per second.
 
-A mechanical vibration of definite frequency must set up, in each of that group of nerve fibres, the well-known nerve impulses that are propagated to certain regions of the cerebral cortex. We have the general knowledge that the process of conduction is very much the same in all nerves and changes only with the intensity of excitation; the latter affects the frequency of the pulses, which, of course, must not be confused with the frequency of sound in our case (the two have nothing to do with each other).
+Those for light are of several hundred billions.
 
-The picture is not as simple as we might wish it to be. Had a physicist constructed the ear, with a view to procuring for its owner the incredibly fine discrimination of pitch and timbre that he actually possesses, the physicist would have constructed it differently. But perhaps he would have come back to it. It would be simpler and nicer if we could say that every single 'string' across the cochlea answers only to one sharply defined frequency of the incoming vibration.
+The relative range, however, is much wider for sound which has about 10 octaves.
 
-But why is it not so? Because the vibrations of these 'strings' are strongly damped. This, of necessity, broadens their range of resonance. Our physicist might have constructed them with as little damping as he could manage. But this would have the terrible consequence that the perception of a sound would not cease almost immediately when the producing wave ceases; it would last for some time, until the poorly damped resonator in the cochlea died down. The discrimination of pitch would be obtained by sacrificing the discrimination in time between subsequent sounds.
+Visible light has one octave.
 
-It is puzzling how the actual mechanism manages to reconcile both in a most consummate fashion. I have gone into some detail here, in order to make you feel that neither the physicist's description, nor that of the physi- ologist, contains any trait of the sensation of sound. Any description of this kind is bound to end with a sentence like: those nerve impulses are conducted to a certain portion of the brain, where they are registered as a sequence of sounds. 
+Sound changes with the individual, especially with age.
 
-We can follow the pressure changes in the air as they produce vibrations of the ear-drum, we can see how its motion is transferred by a chain of tiny bones to another membrane and eventually to parts of the membrane inside the cochlea, composed of fibres of varying length" described above. We may reach an understanding of how such a vibrating fibre sets up an electrical and chemical process of conduction in the nervous fibre with which it is in touch. We may follow this conduction to the cerebral cortex and we may even obtain some objective knowledge of some of the things that happen there. But nowhere shall we hit on this 'registering as sound', which simply is not contained in our scientific picture, but is only in the mind of the person whose ear and brain we are speaking of.
+The upper limit is reduced as age advances.
 
-We could discuss in similar manner the sensations of touch, of hot and cold, of smell and of taste. The latter two, the chemical senses as they are sometimes called (smell affording an examination of gaseous stuffs, taste that of fluids), have this in common with the visual sensation, that to an infinite number of possible stimuli they respond with a restricted manifold of sensate qualities, in the case of taste: bitter, sweet, sour and salty and their peculiar mixtures. Smell is, I believe, more various than taste, and particularly in certain animals it is much more refined than in man.
+Sound is a mixture of several distinct frequencies that never combines to produce just one intermediate pitch such as could be produced by one intermediate frequency.
 
-What objective features of a physical or chemical stimulus modify the sensation noticeably seems to vary greatly in the animal kingdom. Bees, for
-instance, have a colour vision reaching well into the ultraviolet; they are true trichromates (not dichromates, as they
-seemed in earlier experiments which paid no attention to the
-ultra-violet). 
+To a large extent the superposed pitches are perceived separately - though simultaneously - especially by highly musical persons. 
 
-It is of very particular interest that bees, as von Frisch in Munich found out not long ago, are peculiarly sensitive to traces of polarization of light; this aids their orientation with respect to the sun in a puzzlingly elaborate way. To a human being even completely polarized light is indistinguishable from ordinary,. non-polarized light. Bats have been discovered to be sensible to extremely high fre- quency vibrations ('ultra-sound') far beyond the upper limit of human audition; they produce it themselves, using it as a sort of 'radar', to avoid obstacles. The human sense of hot or cold exhibits the queer feature of'les extremes se touchent': if we inadvertently touch a very cold object, we may for a moment believe that it is hot and has burnt our fingers.
+The admixture of many higher notes ('overtones') of various qualities and intensities results in what is called the timbre, by which we learn to distinguish a violin, a bugle, a church bell, piano ... even from a single note that is sounded. 
 
-Some 20-30 years ago chemists in the U.S.A. discovered a curious compound, of which I have forgotten the chemical name, a white powder, that is tasteless to some persons, but intensely bitter to others. This fact has aroused keen interest and has been widely investigated since. The quality of being a 'taster' (for this particular substance) is inherent in the individual, irrespective of any other conditions.
+But even noises have their timbre, from which we may infer what is going on; 
 
-Moreover, it is inherited according to the Mendel laws in a way familiar from the inheritance of blood group characteristics. Just as with the latter, there appears to be no conceivable advantage or disadvantage implied by your being a 'taster' or a 'non-taster'. One of the two 'alleles' is dominant in heterozygotes, I believe it is that of the taster. I t seems to me very improbable that this substance, discovered haphaz- ardly, should be unique. Very probably 'tastes differ' in quite a general way, and in a very real sense!
+Even my dog is familiar with the peculiar noise of the opening of a certain tin box, out of which he occasionally receives a biscuit. In all this the ratios of the co-operating frequencies are all-important. 
 
-Let us now return to the case of light and probe a little deeper into the way it is produced and into the fashion in which the physicist makes out its objective characteristics. I suppose that by now it is common knowledge that light is usually produced by electrons, in particular by those in an atom where they 'do something' around the nucleus.
+If they are all changed in the same ratio, as on playing a gramophone record too slow or too fast, you still recognize what is going on. Yet some relevant distinctions depend on the absolute frequencies of certain components.
 
-An electron is neither red nor blue nor any other colour; the same holds for the proton, the nucleus of the hydrogen atom. But the union of the two in the atom of hydrogen, according to the physicist, produces electro-magnetic radiation of a certain discrete array of wave-lengths. The homogeneous constituents of this radiation, when separated by a prism or an optical grating, stimulate in an observer the sensations of red, green, blue, violet by the intermediary of certain physiological processes, whose general character is sufficiently well known to assert that they are not red or green or blue, in fact that the nervous elements in question display no colour in virtue of their being stimulated; the white or grey the nerve cells exhibit whether stimulated or not is certainly insignificant in respect of the colour sensation which, in the individual whose nerves they are, accompanies their excitation.
+If a gramophone record containing a human voice is played too fast, the vowels change perceptibly, in particular the 'a' as in 'car' changes into that in 'care'. 
 
-Yet our knowledge of the radiation of the hydrogen atom and of the objective, physical properties of this radiation originated from someone's observing those coloured spectral lines in certain positions within the spectrum obtained from glowing hydrogen vapour. This procured the first knowledge, but by no means the complete knowledge. To achieve it, the elimination of the sensates has to set in at once, and is worth pursuing in this characteristic example. The colour in itself tells you nothing about the wave-length; in fact we have seen before that, for example, a yellow spectral line might conceiv- ably be not 'monochromatic' in the physicist's sense, but composed of many different wave-lengths, if we did not know that the construction of our spectroscope excludes this. It gathers light of a definite wave-length at a definite position in the spectrum. The light appearing there has always exactly the same colour from whatever source it stems. Even so the quality of the colour sensation gives no direct clue whatsoever to infer the physical property, the wave-length, and that quite apart from the comparative poorness of our discrimination of hues, which would not satisfy the physicist. A priori the sensation of blue might conceivably be stimulated by long waves and that of red by short waves, instead of the other way round, as it is.
+A continuous range of frequencies is always disagreeable, whether offered as a sequence, as by a siren or a howling cat, or simultaneously, which is difficult to implement, except perhaps by a host of sirens or a regiment of howling cats. This is again entirely different from the case of light perception. 
 
-To complete our knowledge of the physical properties of the light coming from any source a special kind of spectroscope has to be used; the decomposition is achieved by a diffraction grating. A prism would not do, because you do not know beforehand the angles under which it refracts the different wave-lengths. They are different for prisms of different mat- erial. In fact, a priori, with a prism you could not even tell that the more strongly deviated radiation is of shorter wave-length, as is actually the case.
+All the colours which we normally perceive are produced by continuous mixtures; and a continuous gradation of tints, in a painting or in nature, is sometimes of great beauty.
 
-The theory of the diffraction grating is much simpler than that of a prism. From the basic physical assumption about light - merely that it is a wave phenomenon - you can, if you have measured the number of the equidistant furrows of the grating per inch (usually of the order of many thousands), tell the exact angle of deviation for a given wave-length, and therefore, inversely, you can infer the wave-length from the 'grating constant' and the angle of deviation.
-
-In some cases (notably in the Zeeman and Stark effects) some of the spectral lines are polarized. To complete the physical description in this respect, in which the human eye is entirely insensitive, you put a polarizer (a Nicol prism) in the path of the beam, before decomposing it; on slowly rotating the Nicol around its axis certain lines are extinguished or reduced to minimal brightness for certain orientations of the Nicol, which indicate the direction (orthogonal to the beam) of their total or partial polarization.
-
-Once this whole technique is developed, it can be extended far beyond the visible region. The spectral lines of glowing vapours are by no means restricted to the visible region, which is not distinguished physically. The lines form long, theoret- ically infinite series. The wave-lengths of each series are connected by a relatively simple mathematical law, peculiar to it, that holds uniformly throughout the series with no dis tinction of tha t part of the series that happens to lie in the visible region. These serial laws were first found empirically, but are now understood theoretically. Naturally, outside the visible region a photographic plate has to replace the eye. The wave-lengths are inferred from pure measurements of lengths: first, once and for all, of the grating constant, that is the distance between neighbouring furrows (the reciprocal of the number of furrows per unit length), then by measuring the positions of the lines on the photographic plate, from which, together with the known dimensions of the apparatus, the angles of deviation can be computed.
-
-These are well-known things, but I wish to stress two points
-of general importance, which apply to well-nigh every physical measurement.
-
-The state of affairs on which I have enlarged here at some length is often described by saying that, as the technique of measuring is refined, the observer is gradually replaced by more and more elaborate apparatus. Now this is, certainly in the present case, not true; he is not gradually replaced, but is so from the outset. I tried to explain that the observer's colourful impression of the phenomenon vouchsafes not the slightest clue to its physical nature. The device of ruling a grating and measuring certain lengths and angles has to be introduced, before even the roughest qualitative knowledge of what we call the objective physical nature of the light and of its physical components can be obtained. And this is the relevant step. That the device is later on gradually refined, while remaining essentially always the same, is epistemologically unimportant, however great the improve- ment achieved.
-
-The second point is that the observer is never entirely replaced by instruments; for if he were, he could obviously obtain no knowledge whatsoever. He must have constructed the instrument and, either while constructing it or after, he must have made careful measurements of its dimensions and checks on its moving parts (say a supporting arm turning around a conical pin and sliding along a circular scale of angles) in order to ascertain that the movement is exactly the intended one.
-
-True, for some of these measurements and check-ups the physicist will depend on the factory that has produced and delivered the instrument; still all this information goes back ultimately to the sense perceptions of some living person or persons, however many ingenious devices may have been used to facilitate the labour. Finally the observer must, in using the instrument for his investigation, take readings on it, be they direct readings of angles or of distances, measured under the microscope, or between spectral lines recorded on a photographic plate. Many helpful devices can facilitate this work, for instance photometric recording across the plate of its transparency, which yields a magnified diagram on which the positions of the lines can be easily read. But they must be read! The observer's senses have to step in eventually. The most careful record, when not inspected, tells us nothing.
-
-So we come back to this strange state of affairs. While the direct sensual perception of the phenomenon tells us nothing as to its objective physical nature (or what we usually call so) and has to be discarded from the outset as a source of information, yet the theoretical picture we obtain eventually rests entirely on a complicated array of various informations, all obtained by direct sensual perception. I t resides upon them, it is pieced together from them, yet it cannot really be said to contain them. In using the picture we usually forget about them, except in the quite general way that we know our idea of a light-wave is not a haphazard invention of a crank but is based on experiment.
-
-I was surprised when I discovered for myself that this state of affairs was clearly understood by the great Demo- critus in the fifth century B.C., who had no knowledge of any physical measuring devices remotely comparable to those I have been telling you about (which are of the simplest used in our time).
-
-Galenus has preserved us a fragment (Diels, fro 125), in which Democritus introduces the intellect (btcivota) having an argument with the senses (ata8i}a£v;) about what is 'real'. The former says: 'Ostensibly there is colour, ostensibly sweet- ness, ostensibly bitterness, actually only atoms and the void', to which the senses retort: 'Poor intellect, do you hope to defeat us while from us you borrow your evidence? Your victory is your defeat.'
-
-In this chapter I have tried by simple examples, taken from the humblest of sciences, namely physics, to contrast the two general facts (a) that all scientific knowledge is based on sense perception, and (b) that none the less the scientific views of natural processes formed in this way lack all sensual qualities and therefore cannot account for the latter. Let me conclude with a general remark.
-
-Scientific theories serve to facilitate the survey of our observations and experimental findings. Every scientist knows how difficult it is to remember a moderately extended group of facts, before at least some primitive theoretical picture about them has been shaped. It is therefore small wonder, and by no means to be blamed on the authors of original papers or of text-books, that after a reasonably coherent theory has been formed, they do not describe the bare facts they have found or wish to convey to the reader, but clothe them in the terminology of that theory or theories. This procedure, while very useful for our remembering the facts in a well-ordered pattern, tends to obliterate the distinction between the actual obser- vations and the theory arisen from them. And since the former always are of some sensual quality, theories are easily thought to account for sensual qualities; which, of course, they never do.

@@ -2,7 +2,7 @@
 title: The Laws of Evolution of Lamarck
 heading: Chapter 7c
 description: "There are 2 laws of nature which observation has always confirmed"
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 51

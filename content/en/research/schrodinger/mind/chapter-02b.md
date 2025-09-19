@@ -1,6 +1,6 @@
 ---
 heading: Chapter 2b
-title: "THE APPARENT GLOOM OF DARWINISM"
+title: "The Apparent Gloom Of Darwinism"
 weight: 8
 c: "steelblue"
 description: "Each language has 5 fundamental characteristics"

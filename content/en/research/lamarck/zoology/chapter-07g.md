@@ -2,7 +2,7 @@
 title: The Sloth
 heading: Chapter 7e
 description: When willpower determines that an animal carry out some action or other, the organs which must execute this action are immediately stimulated by the inflow of subtle fluids
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 60

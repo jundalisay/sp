@@ -2,7 +2,7 @@
 title: Orders, Families, Genera
 heading: Chapter 1b
 description: This is the main divisions which initially divide a class.
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 6

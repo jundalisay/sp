@@ -1,8 +1,7 @@
 ---
-title: Table of Radiates
+title: Radiates
 heading: Chapter 8c
 description: 
-a: "Lamarck"
 c: "deeppink"
 date: 2025-09-16
 weight: 75

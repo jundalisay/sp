@@ -2,7 +2,7 @@
 title: Personal Conclusion
 heading: Chapter 8
 description: 
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 72

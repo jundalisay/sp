@@ -1,7 +1,7 @@
 ---
 title: "Quantization as an eigenvalue problem"
 description: ""
-# image: "/covers/sciences.png" 
+a: Schrodinger
 color: "black"
 ---
 

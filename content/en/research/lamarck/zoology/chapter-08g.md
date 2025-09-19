@@ -2,7 +2,7 @@
 title: Vertebrates
 heading: Chapter 8g
 description: 
-a: "Lamarck"
+
 c: "deeppink"
 date: 2025-09-16
 weight: 85
