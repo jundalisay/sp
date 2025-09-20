@@ -10,7 +10,7 @@ weight: 32
 ---
 
 
-[11.] What are the basic institutions by which the supreme council should be supported and strengthened. 
+<sup>11</sup> What are the basic institutions by which the supreme council should be supported and strengthened. 
 
 Section 2 of this Chapter showed that the council of a medium-sized state should have 5,000 members. 
 
@@ -22,7 +22,7 @@ How do we:
 - ensure that the people do not suffer while the power of the patricians or council exceeds that of the people?
 
 
-[12.] Of these objectives, the main obstacle to attaining the first is jealousy. 
+<sup>12</sup> Of these objectives, the main obstacle to attaining the first is jealousy. 
 
 Men are by nature enemies. Even when they are joined and bound together by laws, they still retain their nature. 
 
@@ -49,7 +49,9 @@ In this way government gradually falls into the hands ofa few men, and at length
 And to these one could add other causes which destroy governments of th is kind,I9 but since they are quite familiar I pass them by, and I shall now describe in an orderly way the laws by which the kind of state under discussion must be preserved.
 
 
-[13] The principal law of this state must be that whereby the proportion of patricians to the population is determined. For (by Section I of this Chapter) a ratio should be ma intained between the population and the patricians so that the number of patricians increases in proportion to the increase of the population. 
+<sup>13</sup> The principal law of this state must be that whereby the proportion of patricians to the population is determined. 
+
+For (by Section I of this Chapter) a ratio should be ma intained between the population and the patricians so that the number of patricians increases in proportion to the increase of the population. 
 
 This ratio (in accordance with what we said in Section 2 of this Chapter) should be about I to 50; that is to say, the number of patricians should never be less than this proportion. 
 
@@ -58,7 +60,7 @@ For (by Section I of this Chapter), the number of patricians may be much greater
 But it is only in their fewness that danger lies. As to how precautions may be taken aga inst the violation of this law, I shall presently discuss this in its proper place.
 
 
-[14.] In some places patricians are chosen out of certa in clans only/o but to lay this down as an explicit law is to invite disaster. 
+<sup>14</sup> In some places patricians are chosen out of certa in clans only/o but to lay this down as an explicit law is to invite disaster. 
 
 For clans often die ou� the exclusion of other clans can never be without disgrace, and, furthermore, it is contrary to this form of government for patrician status to be hereditary, by Section I of this Chapter. 
 
@@ -78,16 +80,22 @@ Chapter 8 729 -->
 
 the like}, the form of the state will nevertheless be preserved, and it will still be possible to maintain the ratio between patricians and the populace.
 
-[15] Furthermore, ifit be enacted by law that no young men can be appointed, it will never come about that a few clans could keep in their hands the right to govern. So a law should be enacted that no one under the age of thirty can be
-placed on the roll of candidates 22
+<sup>15</sup> If it is enacted by law that no young men can be appointed, it will never come about that a few clans could keep in their hands the right to govern. 
 
-[16] Thirdly, all patricians should be required by law to assemble at a particular location in the city at certain fixed times; and whoever fa ils to attend council, unless preven ted by illness or some public business, should pay a heavy fine.
+So a law should be enacted that no one under the age of thirty can be placed on the roll of candidates 22
+
+<sup>16</sup> Thirdly, all patricians should be required by law to assemble at a particular location in the city at certain fixed times; and whoever fa ils to attend council, unless preven ted by illness or some public business, should pay a heavy fine.
 
 Otherwise most patricians would neglect public affairs to attend to their private business.
 
-[17] The duty of this council should be to enact and to repeal laws and to a point their patrician colleagues and all ministers of state. 23 For one who holds the supreme right, which we have declared to belong to this council, cannot possibly
+
+<sup>17</sup> The duty of this council should be to enact and to repeal laws and to a point their patrician colleagues and all ministers of state. 
+
+23 For one who holds the supreme right, which we have declared to belong to this council, cannot possibly
 grant to another the power24 to enact and repeal laws without thereby ceding his
-own right and transferring it to him to whom he has granted that power. For he
+own right and transferring it to him to whom he has granted that power. 
+
+For he
 who even for a single day has the power to enact and repeal laws can change the
 entire form of the state. But one can, while retaining one's supreme right, delegate to others the task of dealing with the daily business of the state in accordance with the established laws. Moreover, if ministers of state were to be appointed by
 any other authority than this council, then the members of this council ought

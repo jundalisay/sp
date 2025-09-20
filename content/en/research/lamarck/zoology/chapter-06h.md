@@ -1,60 +1,51 @@
 ---
-title: Radiates
+title: Crustaceans
 heading: Chapter 6h
-description: 
-
+description: We know only 4 genera of cirrhipedes.
 c: "deeppink"
 date: 2025-09-16
 weight: 39
 ---
 
 
+Animals having a body and articulated limbs, a crustaceous skin, a circulation system, and breathing by gills.
 
-These are animals with a regenerating body, lacking a head, eyes, articulated limbs, with a mouth on the under surface, and a radiating arrangement in their internal and external parts.
+At this point we enter into the numerous series of animals in which the body and especially the limbs are articulated and the integuments are crustaceous, horny, or coriaceous.
 
-<!-- Following the customary order, the radiates -->
+The solid or strong parts of these animals are all on the outside.
 
-These occupy the 12th rank in the numerous series of known animals and make up one of the three last classes of invertebrate animals.
+Nature created the muscular system very shortly before the first animals of this series and required points of attachment in solid parts to give the system energy, she was obliged to establish the method of articulations to make movement possible.
 
-When we arrive at this class, we encounter in the animals included in it a style of general shape and arrangement of parts and organs, both external and internal, which nature has not used in any animals of the previous classes.
+All the animals united by a similar method of articulation have been considered by Linnaeus and, following him, as forming only one single class, to which was given the name insects. 
 
-The radiates clearly have in their internal and external parts a radiating arrangement around a centre or an axis which makes up a special shape which nature has not, up to that point, ever used.
+But we finally recognized that this large series of animals displays several important divisions which it is essential to distinguish.
 
-She began to sketch out such an arrangement only in the polyps, which, consequently, come after the radiates.
+The class of crustaceans, which has been confused with the class of insects (although all the ancient naturalists) had always separated it, is a division indicated by nature and essential to preserve. 
 
-The radiates make up in the animal scale a compartment very different from that of the polyps, so that it is no longer possible to confuse the radiates with the polyps any more than it is to group the crustaceans with the insects or the reptiles among the fish.
+It must follow immediately after the annelids and occupy the eighth rank in the general series of animals. The analysis of its organic structure requires that. There is nothing at all arbitrary in this matter.
 
-Their organs appear destined for respiration (tubes or types of aquatic trachea).
+The crustaceans have a heart, arteries and veins, a transparent, almost colourless circulating fluid, and all breathe by true gills. That is incontestable and will always embarrass those who continue to rank them among the insects because they have articulated limbs.
 
-They have special organs for reproduction, like types of ovaries in various shapes. 
+If, because of their circulation and the respiratory organs, the crustaceans are clearly distinguished from the arachnids and the insects and if, consequently, their rank is clearly superior, nevertheless they share with the arachnids and insects this lower feature of organic structure, with respect to the annelids, that is, they are part of the series of animals with articulated limbs, a series in which we see the circulation system going away and disappearing. 
 
-Nothing similar is found in the polyps.
+Consequently, the heart, the arteries and veins, and even the respiration by the system of gills similarly is lost. 
 
-Moreover, the intestinal canal of radiates is not generally a closed tube with only one opening, as in all the polyps. And the mouth, always low down or on the lower surface, manifests in these animals a special arrangement which is not at all the one which the polyps display in their general structure.
+Thus, the crustaceans confirm, in their turn, the degradation maintained in the organic structure, in the direction we are moving through the animal ladder. 
 
-Although the radiates are truly curious and as yet little understood animals, what we know about their organic structure clearly indicates the rank to which I am assigning them. Like worms, the radiates are headless, eyeless, without articulated limbs, a system of circulation, and perhaps without nerves.
+The fluid which circulates in their vessels is transparent and almost without substance, like that in the insects, and demonstrates once more this degradation with respect to them.
 
-However, the radiates come necessarily after the worms. For the latter have nothing in the arrangement of their interior organs which tends to a radiating shape, and it is among them that the style of articulations begins.
+As to their nervous system, it consists of a very small brain and a longitudinal marrow with ganglia, a characteristic impoverishment of this system, which we see in the animals of the two preceding classes and the two which follow, for the animals of these classes are the last ones in which the nervous system is still present.
 
-If the radiates lack nerves, they are then without the faculty of feeling and are no more than merely irritable. This seems to be confirmed by observations made on living star fish in which the arms have been cut off without their showing any sign of pain.
-
-In many radiates fibres are still distinct. But can we call these fibres muscles, unless we are justified in stating that a muscle deprived of nerves is still capable of carrying out its functions? Do we not have, in plants, the example of the potential possessed by cellular tissue of being reduced to fibres without our being able to consider these fibres muscles? Every living body in which we make out fibres does not, it seems to me, have muscles just for this reason. And I think that where there are no more nerves, the muscular system no longer exists. There is reason to believe that in animals without nerves the fibres which we can still come across there possess, through their simple irritability, the faculty of producing movements which replace muscular movement, although with less energy.
-
-In the radiates, not only does it appear that the muscular system no longer exists, but also that there is no more sexual reproduction. In fact, nothing gives evidence of that or even indicates that the small oviform bodies, whose mass make up what we call the ovaries of these animals, undergo fertilization (and are thus true eggs). This is all the more implausible when we find them equally in every individual. Thus, I consider these small oviform bodies to be internal gemmules already perfected, and their clumping together in special places is the method nature has prepared to arrive at sexual reproduction.
-
-The radiates, confirm, in their turn, the general degradation in the organic structure of animals. For in this class of animals, we meet a new form and arrangement of parts and organs which are far distant from those of animals in the preceding classes. Moreover, they appear to lack feeling, muscular movement, and sexual reproduction. Among them, we see the intestinal canal cease to have two openings, the clusters of oviform corpuscles disappear, and the bodies become entirely gelatinous.
+It is in the crustaceans that the last traces of the gill organ has been perceived. After them, it does not reappear in any animal.
 
 
-## Observation
+### Observations
 
-The very imperfect animals, like the polyps and the radiates, the centre of movement of the fluids no longer exists except in the alimentary canal. 
+At this point the existence of a true system of circulation comes to an end, that is, a system of arteries and veins which makes up part of the organic structure of the most improved animals and which all the structures of all the preceding classes of animals possess. 
 
-There it commences to establish itself, and by the way of this canal the subtle ambient fluids mainly enter to stimulate movement in the containing fluids appropriate to these animals. What would plant life be, without external stimuli, and, by the same token, what would life be for the most imperfect animals without this cause, that is to say, without the heat and electricity of the environmental surroundings.
+The organic structure of the animals which we are going to discuss is thus more imperfect still that that of the crustaceans, who are the last in which the circulation is well manifested. 
 
-Undoubtedly, through a sequence of this sort employed by nature, first with a feeble energy in the polyps and later with greater developments in the radiates, the radiating form was acquired. For the subtle ambient fluids, by penetrating through the alimentary canal and expanding, must have, by means of a constantly renewed expulsion from the centre towards all the points on the circumference have given rise to this radiating shape in the parts.
+Thus, the degradation in the organic structure continues in a clear manner, because to the further one moves ahead in the series of animals, all the features of resemblance between the organic structures of the animals we are considering and that of the most improved animals is successively lost.
 
-This is the reason why, in the radiates, the intestinal canal, although still very imperfect (because very frequently it only has one single opening) is nevertheless complicated with numerous radiating vasculiform and often branching appendixes.
+Whatever the nature of the movement of fluids in the animals of the classes which we are going to go through, this movement works by less active means and always in a slower way.
 
-For the same reason in the soft radiates, like the jelly fish, and so on, we see a constant isochronous movement, a movement which very probably results from successive irregular movements in the masses of subtle fluids which penetrate into the interior of these animals and also the movements of these same fluids which escape after being spread throughout every part.
-
-We should not say that the isochronous movements in the soft radiates are the consequences of their respiration. For after the vertebrate animals, nature does not manifest in any other animal alternating and measured movements of inhaling and exhaling. Whatever the respiration of radiates may be, it is extremely slow and goes on without perceptible movements.

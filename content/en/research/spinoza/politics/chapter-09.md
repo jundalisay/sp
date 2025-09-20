@@ -59,20 +59,15 @@ in hIS usage.]
 bound together by these ties in such a way that each of them still remains as far
 as possible in control of its own right, I shall now briefly explain.
 
-[5] I assume that the patricians of each city, who (by Section 3 of this Chapter) are to vary in number in accordance with the size of the city, have the supreme
-right over their own city, and in that city's supreme council they have full power
-to fortify it, to enlarge its walls, to impose taxes, to enact and repeal laws, and, in
-general, to do everything they think necessary for the preservation and growth of
-their city.6 
 
-But to deal with the common business of the state, a senate must be created on just the same lines as we described in the previous chapter,so that there
-will be no difference between this senate and the other except that this senate has,
-in addition, authority to decide any dispute arising between cities. 
+<sup>5</sup> I assume that the patricians of each city, who (by Section 3 of this Chapter) are to vary in number in accordance with the size of the city, have the supreme right over their own city, and in that city's supreme council they have full power to fortify it, to enlarge its walls, to impose taxes, to enact and repeal laws, and, in general, to do everything they think necessary for the preservation and growth of their city.6 
+
+But to deal with the common business of the state, a senate must be created on just the same lines as we described in the previous chapter,so that there will be no difference between this senate and the other except that this senate has, in addition, authority to decide any dispute arising between cities. 
 
 For in a state which has no capital city this cannot be done by the supreme council, as was previously the case. See Section 38 of the previous Chapter.
 
-[6] But in this state the supreme counciF is not to be summoned unless the need arises to alter the form ofthe state itself, or in case of some difficulty to which
-the senators think themselves unequal. 
+
+<sup>6</sup> But in this state the supreme counciF is not to be summoned unless the need arises to alter the form ofthe state itself, or in case of some difficulty to which the senators think themselves unequal. 
 
 So it will rarely happen that all the patricians are summoned to council. 
 
@@ -105,10 +100,10 @@ In
 appointing the supreme judges of the state, too, the same procedure should be followed, i.e., the patricians of each city should choose from their colleagues a number of judges in proportion to their own number. 
 
 Thus it will come about that in appointing ministers every city will as far as possible be in control of its own right and that both in the senate and the court oflaw the right possessed by each
-city will be proportionate to its power; supposing, that is, that in deciding matters of state and in settling disputes the senate and the court of law follow the same
-procedure as we described in Sections 33 and 34 of the previous Chapter.
+city will be proportionate to its power; supposing, that is, that in deciding matters of state and in settling disputes the senate and the court of law follow the same procedure as we described in Sections 33 and 34 of the previous Chapter.
 
-[7] Company commanders and colonels should also be appointed by the patricians.8 
+
+<sup>7</sup> Company commanders and colonels should also be appointed by the patricians.8 
 
 For the common safety of the whole state, each city should be required to levy a a certa in number of soldiers in proportion to its size,
 

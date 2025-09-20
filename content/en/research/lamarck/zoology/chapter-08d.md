@@ -1,332 +1,77 @@
 ---
-title: Insects
-heading: Chapter 8d
+title: "Class 2: Polyps"
+description: General Distribution of Animals
+heading: Chapter 8c
 description: 
 c: "deeppink"
 date: 2025-09-16
-weight: 77
+weight: 72
 ---
- 
+
+<!-- POLYPS
+(Second Class of the Animal Kingdom) -->
 
 
-A. SUCKING INSECTS
+## Stage 2
 
-Their mouths display a sucker furnished or lacking a sheath
+These are gemmiparous animals:
+- with gelatinous regenerating bodies
+- without any interior organ except an alimentary canal with a single opening.  
+- with terminal mouth surrounded by radiating tentacles with ciliated or rotatory organs.  
 
-First Order: Apterous Insects
-
-A proboscis with two valves and articulated in three places, containing a sucking organ with two bristles  The wings have usually aborted in both sexes; legless larvae; immobile nymph in a cocoon.
-
-Flea
-
-Second Order: Dipterous Insects
-
-A non-articulated proboscis, straight or with an elbow, sometimes retractile.  Two bare wings membranous and veined; two balancers; vermiform larvae, most often without feet 
-
-Hippobosca (Horse Fly)
-Oestrus
--------
-Stratiomys
-Syrphus
-Anthrax
-Fly
--------
-Stomoxe
-Myopa
-Conops
-
-------
-Empis
-Bombylus
-Asilus
-Taon
-Rhagio
------
-Cousin
-Tipula
-Simulium
-Bibio
+The majority adhere to each other, communicate together by their alimentary canal, and thus form composite animals.
 
 
-Third Order: Hemipterous Insects
+### Observations
 
-Sharp articulated beak, curved under the chest serving as a sheath for a sucker with three bristles.  Two wings hidden under membranous elytra; larvae with six feet; the nymph moves and eats.
+<!-- We saw in the infusorians infinitely small, frail animalcules without consistency, without a shape unique to their class, without any organs at all, and consequently without a mouth and a distinct alimentary canal. -->
 
-Dorthesia
-Cochinea
-Psylla
-Aphids
-Aleyrodes
-Thrips
-------
-Cicada
-Fulgora
-Tettigonia
-------
-Scutellera
+<!-- In the polyps, the simplicity and imperfection of the organic structure, although still very noticeable, are less great than in the infusorians.  -->
 
-Pentatoma
-Bed Bugs
-Coraeus
-Reduvius
-Hydrometra
-Gerris
-------
-Nepa
-Notonecte
-Nancoris
-Corixa
+The organic structure of polyps are more advanced than infusorians. 
 
-Fourth Order: Lepidopterous Insects
 
-A two-part sucker, lacking a sheath, like a tubular proboscis, and folded up as a spiral when inactive.  Four membranous wings, covered with colour scales like flour.  The larvae have eight to sixteen limbs, inactive chrysalis.
+They already have:
+- a consistently regular form
+- a special organ for digestion, and consequently with a mouth, the entry to their alimentary sack.
 
-(1) With subulate or setaceous antennae
 
-Petrophorus
-Orneodes
-Cerastoma
-Tinea
-Noctua
-Phalaena
+The polyp has a small elongated body, gelatinous, very irritable.
 
-Alucita
-Adella
-Pyralis
-------
-Hepialus
-Bombyx
+It has at its upper extremity a mouth with either rotatory organs or radiating tentacles
+- These serve as the entry point to an alimentary canal which has no other opening 
 
-(2) Antennae swollen somewhere along their length
+These can adhere and live together in a common life.
 
-Zygoena
-Butterfly
+ <!-- we will understand the most general and the most remarkable fact concerning these animals. -->
 
-Sphinx
-Sesia
+They do not have nerves for feeling, nor special organs for respiration, nor vessels for the circulation of their fluids.
 
-(B) BITING INSECTS
+<!-- They are the more imperfect in their organic structure than the animals which are going to follow. -->
 
-Their mouths display mandibles, most often accompanied by jaws
 
-Fifth Order: Hymenopterous Insects
+## Polyp Orders
 
-Mandibles and a three-sectioned sucker more or less extended, the base of which is enclosed in a short sheath.  Four bare wings (membranous, veined, unequal); in the female the anus is equipped with a sting or apparatus for boring; immobile nymph.
+1. Rotifer Polyps -- They have around their mouths ciliated and rotatory organs
+2. Polyps in Polyparies -- They have around their mouths radiating tentacles and are fixed in a polypary which does not float on the oceans.
+  - 2a -- Membranous or Horny polypary, without a distinct outer crust
+  - 2b -- Polypary with a horny axis, covered with a crust
+  - 2c -- Polypary with an axis and partly or entirely stony, and covered over with a bark like crust
+  - 2d -- Polypary entirely stony without a crust
+3. Floating Polyps -- A polypary free, elongated, floating in water, and having a horny or bony axis covered with a skin common to all the polyps; radiating tentacles around the mouth
+4. Naked Polyps -- They have radiating often multiple tentacles at their mouths; they do not form polyparies.
+5. Rotifer Polyps -- They have around their mouths ciliated and rotatory organs
 
-(1) Females equipped with a sting in the anus
 
-Bee
-Monomelites
-Nomads
-Eucera
-Andrena
------
-Wasp
-Polistes
+## Table of Polyps
 
-Ant
-Mutilla
-Scolia
-Tiphia
-Bembex
-Crabro
-Sphex
-
-(2) Females equipped with a boring apparatus in the anus
-
-Chrysis
-Oxyurus
------
-Leucopsis
-Chalcis
-Cinips
-Diplolepis
-Ichneumon
-
------
-Evania
-Foene
-------
-Urocere
-Oryssus
-Tenthredo
-Clavellair
-
-Sixth Order: Neuopterous Insects
-
-Mandibles and jaws; four naked wings (membranous and reticulated); lengthened abdomen, lacking a sting or boring apparatus; six-footed larva; variation in the metamorphoses.
-
-(1) Inactive nymphs
-
-Perla
-Nemoura
-Frigania
-
-Hemerobius
-Ascalaphus
-Myrmeleon
-
-(2) Active nymphs
-
-Nemopterea
-Panorpa
-Psocus
-Termes
------
-Corydalis
-Chauliodes
-
-Raphidia
-Ephemera
------
-Agrion
-Aeshna
-Libellula
-
-Seventh Order: Orthopterous Insects
-
-Mandibles, jaws, and galeae covering the jaws; two straight wings, longitudinally folded and cover by two almost membranous elytra; larvae as in the perfect insect, but having neither wings nor elytra; active nymph.
-
-Grasshopper
-Acheta
-Locust
-Truxalis
-----
-Mantis
-
-Phasma
-Spectrum
-------
-Cricket
-Cockroach
-Earwig
-
-Eighth Order: Coleopterous Insects
-
-Mandibles and jaws; two membranous wings, transversely folded in repose and under two hard or coriaceous shorter elytra; six-footed larvae; scaly head and eyeless; inactive nymph.
-
-(1) Two or three parts in every tarsal
-
-Pselaphus
------
-
-Lady-bird
-Eumorphus
-
-(2) Four parts in every tarsal
-
-Erotylus
-Cassida
-Chrysomela
-Galeruca
-Leptura
-Stencorus
-Saperda
-Necydalis
-Callidium
-Cerambix
-Sprionus
-Spondilus
------
-Bostrichus
-
-Crioceris
-Clythra
-Griborus
------
-Mycetophagus
-Trogossita
-Cucujus
------
-Bruchus
-Attelabus
-Brentus
-Curculio
-Brachycerus
-
-(3) Five parts in the tarsals of the first pair of feet and four on those of the third pair.
-
-Opatrum
-Tenebrio
-Blaps
-Pimelia
-Sepidium
-Scaurus
-Erodius
-Chiroscelis
------
-Helops
-Diaperis
------
-Cistela
-
-Momrdella
-Rhipiphorus
-Pyrochroa
-Cossiphus
-Notoxus
-Lagria
-Cercoma
-Apalus
-Horia
-Mylabris
-Cantharis
-Meloe
-
-(4) Five parts on every tarsal
-
-Lymexylon
-Telephorus
-Malachius
-Melyris
-Lampyris 
-Lycus
-Omalysus
-Drilus
------
-Melasis
-Buprestis
-CLick beetle
------
-Ptinus
-Death-watch
-Ptinus
------
-Staphylinus
-Ips.
-Dermestes
-Anthrenus
-Byrrhus
-Hister.
-Sphoeridinus
------
-Trox.
-Cetonia
-
-Oxyporus
-Poederus
------Cicindela
-Elaphrus
-Scarites
-Manticora
-Carabus
-Dyticus
------
-Hydrophilus
-Gyrinus
-Dryops
-Clerus.
------
-Necrophorus
-Carrion-beetle
-Nitidula
-Goliathus
-Cockchafter
-Lethrus
-Geotrupes
-Copris
-Scarabaeus
-Passalus
-Lucanus
-
+Order | Members
+--- | ---
+1  | Urceolaria, Brachionus (?), Vorticella
+2a | Cristatella, Plumatella, Tubularia, Sertularia, Cellairia, Flustra, Cellepora, Botryllus
+2b | Acetabula, Corallina, Sponge, Alcyon, Antipata, Gorgona
+2c | Isis, Coral
+2d | Tubipora, Lunulites, Ovulites, Siderolites, Orbulites, Alveolites, Ocellairia, Eschara, Retepora, Agricia, Pavonia, Meandrina, Astrea, Madrepora, Caryophylllia, Turbinolia, Fungia, Cyclolites, Dactylopora, Virgularia 
+3 | Funiculina, Veretillum, Pennatula, Enerinus, Umbellularia
+4 | Pedicellaria, Coryne, Hydra, Zoantha, Actinia
 

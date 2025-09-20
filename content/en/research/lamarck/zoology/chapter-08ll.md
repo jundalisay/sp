@@ -8,7 +8,9 @@ weight: 99
 ---
 
 
-Naturalists who have considered man solely with respect to his organic structure have formed out of the six known varieties a particular genus, so that man alone makes up a separate family, characterized in the following way:
+Naturalists who have considered man have formed out of the 6 known varieties a particular genus.
+
+Man alone makes up a separate family, characterized in the following way:
 
 
 Mammals with separate limbs with nails; three types of teeth and opposable thumbs only on the hands

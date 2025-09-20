@@ -2,7 +2,7 @@
 heading: Chapter 6b
 title: "Stability Of Naturally Selected Genes"
 weight: 52
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

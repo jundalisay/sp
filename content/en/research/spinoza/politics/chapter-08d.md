@@ -10,13 +10,14 @@ weight: 32
 ---
 
 
-[27] To ensure that all patricians stand on equal terms in making decisions and in electing ministers of state and that all business is speedily dispatched, the system observed by the Venetians deserves our full approval. 
+<sup>27</sup> To ensure that all patricians stand on equal terms in making decisions and in electing ministers of state and that all business is speedily dispatched, the system observed by the Venetians deserves our full approval. 
 
 To nominate ministers of state, they appoint some members of the council by 10�37 and when these have nominated in due order the candidates for office, every patrician votes for or against the candidate by secret ballot, with the result that it is not known thereafter who voted one way or the other. 
 
 Through this procedure not only do all patricians stand on equal terms in making decisions and business is speedily dispatched, but also each is absolutely free to cast his vote without incurring unpopularity, which is of first importance in councils. 
 
-[28] In the council of syndics, too, and in other councils the same procedure is to be followed; that is, voting must be by secret ballot. 
+
+<sup>28</sup> In the council of syndics, too, and in other councils the same procedure is to be followed; that is, voting must be by secret ballot. 
 
 But the right to summon the council of syndics and to set its agenda ought to belong to their president, who should sit every day with ten or more other syndics to hear complaints and secret accusations'8 by the commons against ministers,39 to take into custody the accused if circumstances so require, and to summon the council even before its appointed time if any one of them considers that there is danger in delay. 
 
@@ -58,8 +59,7 @@ Therefore, the senate's decisions on war and peace, to be valid, must be confirm
 
 Finally, among the senators there should be quite a number who have ga ined a reputation for wisdom and virtue. 
 
-To secure all these objectives, no more effective means can be devised than this: It should be ordained by law that no one below the age of fifty may be admitted to senatorial rank and that 400- that is, about a twelfth part of
-the patricians-should be appointed for a year, and when this term has expired they should be eligible for reappointment after an interval of two years.42 
+To secure all these objectives, no more effective means can be devised than this: It should be ordained by law that no one below the age of fifty may be admitted to senatorial rank and that 400- that is, about a twelfth part of the patricians-should be appointed for a year, and when this term has expired they should be eligible for reappointment after an interval of two years.42 
 
 In this way there will always be about a quarter4' of the patricians serving as senators, with only short intervals between their periods of service; and this number, together with the number of syndics, is unlikely to be much less than the number of patricians who have reached their fiftieth year. 
 
@@ -78,13 +78,19 @@ the Venetian Senate.]
 43 [With Wernham, 1 read quarta for duodecima.-S.S 1  -->
 
 
-[31] The remuneration of senators must be of such a kind that they derive more advantage from peace than from war '4 So they should be assigned a 1-2% duty on imports and exports; for we cannot doubt that they will then safeguard peace as vigorously as they can and will never seek to prolong a war. 
+<sup>31</sup> The remuneration of senators should give them more advantage from peace than from war.
 
-Nor should even senators, if some of them are merchants, be exempt from paying this duty; for such exemptions cannot be granted without great loss to commerce, as I think is generally realised. On the other hand, it should be ordained by law that
-no senator or ex-senator may fill any mil itary post;
+So they should be assigned a 1-2% duty on imports and exports.
 
-No one whose father or grandfather is a senator, or has held senatorial office within the previous 2 years, may be appointed commander in chief or colonel, officers who, as we said in Section 9 of this Chapter, are to be appointed only in time of war. We cannot doubt that those patricians who are not members of the senate will uphold these laws with all their might, with the result that senators will always have more to ga in from peace than from war and will therefore never advocate war unless
-pressed to do so by the state's most urgent need. 
+They will then safeguard peace as vigorously as they can and will never seek to prolong a war. 
+
+Nor should even senators, if some of them are merchants, be exempt from paying this duty; for such exemptions cannot be granted without great loss to commerce, as I think is generally realised. 
+
+On the other hand, it should be ordained by law that no senator or ex-senator may fill any mil itary post;
+
+No one whose father or grandfather is a senator, or has held senatorial office within the previous 2 years, may be appointed commander in chief or colonel, officers who, as we said in Section 9 of this Chapter, are to be appointed only in time of war. 
+
+Those patricians who are not members of the senate will uphold these laws with all their might, with the result that senators will always have more to ga in from peace than from war and will therefore never advocate war unless pressed to do so by the state's most urgent need. 
 
 It may be objected that by this arrangement, i.e., the assigning of such considerable payments to syndics and senators, an aristocracy will be no less burdensome to subjects than any monarchy. 
 
@@ -95,7 +101,7 @@ First, everything that in a monarchy is conferred on one man or a few men is her
 Next, kings and their ministers do not bear the burdens of the state in company with their subjects, whereas here the reverse is true; for the patricians, who are always chosen from the wealthier classes, make the greatest contribution to
 the commonwealth. 
 
-Finally, the burdens of monarchy arise not so much from royal expenditure as from its secret policy. For however great may be the state burdens imposed on its citizens for the sake of safeguarding peace and freedom, yet
+The burdens of monarchy arise not so much from royal expenditure as from its secret policy. For however great may be the state burdens imposed on its citizens for the sake of safeguarding peace and freedom, yet
 they are borne and endured for the benefits of peace. 
 
 What nation ever had to pay such heavy taxes as the Dutch? 
@@ -111,3 +117,4 @@ I here omit other points noted some time ago by that wise Dutchman V. H.47 becau
 <!-- 44 [Members oftbe Netberlands CounCil of State were forbidden to engage 10 the prOVISion of military stores, lest they should make profit from war J
 4
 S [I read Atqui for Atque -S S 1  -->
+

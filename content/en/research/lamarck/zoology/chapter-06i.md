@@ -1,112 +1,73 @@
 ---
-title: Polyps
+title: Arachnids 9th Rank
 heading: Chapter 6i
-description: 
-
+description: They have so many affinities with the crustaceans, that we are always compelled to bring them close together.
 c: "deeppink"
 date: 2025-09-16
 weight: 41
 ---
 
 
+These are animals:
+- breathing by narrow trachea
+- not undergoing any transformation
+- with articulated limbs 
+- with eyes in their heads
 
-Animals with a sub-gelatinous and regenerating body, without any special organs, other than an alimentary canal with a single opening; a terminal mouth, together with radiating tentacles or a ciliate and rotating organ.
+The ninth rank belongs to the arachnids.
 
-<!-- When we reach the polyps, we have arrived at the penultimate step of the animal scale, the penultimate class. -->
+They have so many affinities with the crustaceans, that we are always compelled to bring them close together.
 
- <!-- which it has been necessary to establish among the animals. -->
+ <!-- and to place one immediately after the other.  -->
 
-Here, the imperfection and the simplicity in the organic structure are very evident.
+Nevertheless, they are clearly different from the crustaceans.
 
-The animals at this point have hardly any more faculties and for a long time we had doubts about their animals nature.
+They display the first example of a respiratory organ inferior to gills, because we do not ever come across it in the animals which have a heart, arteries, and veins.
 
-These are gemmiparous animals:
-- with a homogeneous body
-- usually gelatinous
-- very regenerative in their parts
-- not manifesting a radiating shape (something nature began in them) except in their radiating tentacles around their mouths. 
+In fact, the arachnids breathe only by stigmata and air trachea which are respiratory organs analogous to those of insects. 
 
-They have no other special organ except an intestinal canal with a single opening and, consequently, incomplete.
+But these trachea, instead of extending themselves throughout the entire body, like those in insects, are circumscribed in a small number of vesicles. 
 
-Polyps are much more imperfect animals than those which are part of the preceding classes. 
+This fact shows that nature concludes, in the arachnids, the method of respiration which she had to use before establishing gills, just as she concluded, in the fish or in the last reptiles, what she had had to make sure of before she could form a true lung.
 
-They do not have:
-- brain
-- longitudinal marrow
-- nerves
-- special organs for respiration
-- vessels for circulation of fluids
-- ovaries for reproduction
+If the arachnids are clearly distinguished from the crustaceans, because they do not breathe at all by gills but by very narrow air trachea, they are also clearly different from the insects. 
 
-The substance of their bodies is homogenous and made up of a gelatinous and irritable cellular tissue, in which fluids move slowly. 
+It would be just as inconvenient to group them with the insects, whose classic characteristic they do not have, and from whom they differ especially in their interior organic structure as to mix up the crustaceans with the insects.
 
-All their internal organs:
-- are reduced to an imperfect alimentary canal
-- are rarely folded back on itself or furnished with appendixes
-- looki like only a long sack, always with only one single opening serving simultaneously as a mouth and anus.
+The arachnids have some important similarities to insects. 
 
-Some claim that such animals that have no nervous system, respiratory organ, muscles, etc actually:
-- have those organs dissolved in their corporeal mass and distributed in all its molecules, instead of being in particular places. 
-- could experience all sorts of sensations, muscular movement, will power, ideas, and thought.
+But they are essentially distinct because:
 
-<!-- and that therefore, every point in their bodies   -->
+1. They never undergo a metamorphosis.
 
-I think that is not probable. 
+They are born with the shape and all the parts which they must always retain and, consequently, they always have eyes in the head, articulated limbs, things arising out of the nature of their interior organic structure. 
 
-<!-- That would be a totally gratuitous assumption, without basis and probability.  -->
+In this they are very different from the organic structure of insects.
 
-With such an assumption, one could say that the hydra has in all the points of its body, all the organs of perfect animals.
-- The polyp could thus see, hear, smell, taste, etc. and have ideas, forms judgments, and thinks and reasons. 
+2. In the arachnids of the first order (pedipalp-arachnids) we begin to notice the traces of a system of circulation (3).
 
-<!-- Each molecule of the body of the hydra or of every other polyp would be by itself a perfect animal, and the hydra itself would be an even more perfect animal than human beings, because each of its molecules would be of equivalent value, in the complement of its organic structure and faculties, to a complete individual of the human race. -->
+3. Their respiratory system is very different from those of insects.
 
-<!-- There is no reason to refuse to extend the same reasoning to the monad, the most imperfect of known animals and then to stop the application of this reasoning to the plants themselves, which also enjoy life. 
+Their trachea is limited to a few vesicles. They are not made up of very numerous canals to the air extending throughout the animals' bodies, as we see with the trachea of insects.
 
-Then one would attribute to each molecule of a plant all the faculties which I have just cited, but held within the limits relative to the nature of the living body of which that molecule is a part.
-
-That is certainly not the point to which the results of the study of nature lead. 
-
-This study teaches us, by contrast, that or in which the eyes have been destroyed -->
-
-In reality, everywhere where an organ ceases to exist, the faculties which depend on it also cease. 
-
-Every animal which has no eyes sees nothing. 
-
-And although in the last analysis the different senses derive their source from touch, which is only variously modified in each of them, every animal which lacks nerves, the special organ of feeling, will not be able to experience any sort of sensation. 
-
-For it does not have the intimate sense of its existence, it does not have the chamber to which sensation must be conveyed, and consequently it would not be able to feel.
-
-Thus, the sense of touch, the basis of the other senses, which is spread out into almost all parts of the bodies of those animals with nerves, does not exist any more in those which, like the polyps, lack nerves. 
-
-In the latter, the parts are only simply irritable, and are so to a very high degree. But they have no feeling, and as a result, no type of sensation. 
-
-In fact, in order for a sensation to take place, there must first be an organ to receive it (nerves) and then there must be some chamber or other (a brain or a longitudinal marrow with ganglia) where this sensation can be carried.
-
-A sensation is always the consequence of a received impression which is carried immediately to an interior chamber where this sensation is formed.
+4. The arachnids reproduce several times in the course of their lives, an ability which the insects lack.
 
 
-If you interrupt the communication between the organ which receives the impression and the chamber where the sensation is formed, all feeling immediately ceases in this place. One will never be able to contradict this principle.
+This is why it is wrong to combine arachnids and insects in the same class.
 
-No polyp can really be oviparous. 
+Their authors only focused on:
+- the limbs 
+- the crustaceous skin covering them
 
-For no polyp has a special organ for reproduction. 
+This would happen if we took the scaly teguments of the reptiles and fish and thus combined them in the same class.
 
-Besides, to prepare real eggs, it is not only necessary that the animal has an ovary, but in addition it must have (or another individual of its species must have) a special organ for fertilization, and no one can demonstrate that the polyps are furnished with such organs. By contrast, we understand very well the buds which several of them develop for reproducing themselves. 
+As for the general degradation in organic structure which we are looking into as we move through the entire animal scale, that is very clearly evident in the arachnids. 
 
-By paying a little attention to them, we perceive that these buds themselves are only fissions more isolated from the body of the animal, fissions less simple than those which nature uses to multiply the animalcules which make up the last class of the animal kingdom.
+Arachnids breathe through an organ less well developed with respect to structural improvements than the lung and even gills and have only the preliminary traces of a circulation which does not yet appear complete, they confirm, on their part, the continuing degradation in question.
 
-The polyps are very irritable, move only with external stimulations foreign to them. All their movements are the necessary results of impressions received, and are generally carried out without acts of free will, because they do not know how to produce them, since they cannot have free will.
+This degradation is noticed even in the series of species brought together in this class. For the arachnids with antennae or of the second order are very different from others, are very inferior to them in the development of their organic structure and are very close to insects. 
 
-The light forces them constantly and always in the same manner to direct themselves its way, as it does with respect to branches and leaves or the flowers of plants, although more slowly. 
+Nonetheless, they differ from insects in that they do not undergo any transformation. 
 
-No polyp moves after its prey or seeks for it with its tentacles. But when some foreign body touches these same tentacles, they seize it, take it into the mouth, and the polyp swallows it without making any distinction about its appropriate nature or about its utility. It digests it and feeds on it, if this body is capable of being digested. It rejects it entirely, if it is preserved intact for some time in the alimentary canal. Finally it returns any remains which it cannot break down any more. But in all that, the action is a necessary one, without ever the possibility of a choice which permits the action to vary.
+Since they never fly up into the air, it is very probable that their trachea do not generally extend to all parts of their bodies.
 
-As to the distinction between the polyps and the radiates, it is very large and marked. We do not find in the interior of the polyps any distinct part having a radiating arrangement. Their tentacles alone have this arrangement, that is to say, the same as the arrangement of the arms of the cephalid mollusks, which we will surely not mix up with the radiates. Moreover, the polyps have a terminal superior mouth, while the mouth of the radiates is arranged differently.
-
-It is not at all convenient to call polyps zoophytes, which is to say, animal-plants, because they are uniquely and completely animals, in that they have faculties generally not found in plants, that of being truly irritable and, generally, that of digesting. Finally their essential nature does not tend toward that of plants.
-
-The only interrelationships between polyps and plants are as follows: (1) the rather similar simplification in their organic structure, (2) the faculty which many polyps possess of adhering to one another, to communicating together by their alimentary canal, and to form composite animals, (3) finally, the exterior shape of the masses which these combined polyps form. This shape for a long time made people take these masses for real plants, because often they are branched out in almost the same way.
-
-Whether the polyps have a single or several mouths, it is always the case, with respect to them, that they lead to a single alimentary canal and, consequently, to one digestive organ, which all the plants lack.
-
-If the degradation in the organic structure which we have noticed in all the classes from the mammals on is anywhere evident, it is surely among the polyps, whose organic structure is reduced to an extreme simplicity.

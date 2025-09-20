@@ -1,8 +1,8 @@
 ---
-heading: Chapter 1
+heading: Chapter 1d
 title: "The Fundamental Difference In Structure"
 weight: 10
-c: "steelblue"
+c: "firebrick"
 description: "How can the events in space and time which take place within the spatial boundary of a living organism be accounted for by physics and chemistry?"
 icon: "Schrodinger"
 writer:

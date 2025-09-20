@@ -10,15 +10,14 @@ weight: 33
 ---
 
 
-
-[38] With regard to the number of judges, however, a consideration of this kind of constitution does not demand any special figure; but, as in the case of monarchy, it is of prime importance to see that the judges are too numerous to be corrupted by a private person. 
+<sup>38</sup> With regard to the number of judges, however, a consideration of this kind of constitution does not demand any special figure; but, as in the case of monarchy, it is of prime importance to see that the judges are too numerous to be corrupted by a private person. 
 
 For their duty is simply to ensure that no private person does wrong to another, and so to settle disputes between private persons, patricians as well as commoners, and to exact punishment from offenders, even from patricians, syndics, and senators insofar as these have offended against the laws by which all are bound. As for disputes which may arise between cities within
 the state, these are to be decided in the supreme council.
 
-[ 39] Furthermore, the consideration that regulates the term of their appointment is the same in every state, as is also the requirement that a certain proportion should retire every year. 
+<sup>39</sup> The term of their appointment is the same in every state as is also the requirement that a certain proportion should retire every year. 
 
-Finally, although there is no need for each of them to come from a different clan, yet it is necessary that no two near kinsmen should sit on the bench together. 
+There is no need for each of them to come from a different clan, yet it is necessary that no two near kinsmen should sit on the bench together. 
 
 This rule should apply to all other councils except for the supreme council, where it is enough if only it is provided by law that no one may nominate a kinsman at elections or vote in his case ifhe is nominated by another, and also that no two kinsmen may draw lots for any minister of state to be nominated. 51 
 
@@ -32,11 +31,15 @@ Its absurdity is manifest, for the enactment of such a law by the patricians wou
 
 This would be in flat contradiction with our conclusions in Sections 5 and 6 of this Chapter. But the constitutional law52 requiring that a constant ratio be maintained between the number of patricians and people has for its main object to preserve the right and power of the patricians, ensuring that they are not too few to be capable of governing the people. 
 
-[40] However, judges are to be appointed by the supreme council from the patricians, that is (by Section 17 of this Chapter), from the lawmakers themselves.
+
+<sup>40</sup> However, judges are to be appointed by the supreme council from the patricians, that is (by Section 17 of this Chapter), from the lawmakers themselves.
 
 Their judgments in both civil and criminal cases shall be valid if pronounced in proper order and without partiality. On th is subject the syndics shall be authorised by law to make enquiry, to judge, and to reach decisions. 53
 
-[41] The remuneration of judges should be the same as stated in Section 29, Chapter 6, namely, that for every judgment they make in civil cases they should receive from the losing party a certain proportion of the total sum involved. With regard to judgments made in criminal cases, the only difference here should be that goods confiscated and fines exacted for minor offences should be assigned to them alone. But there should be this condition, that they are never allowed to exact confession by torture. 
+
+<sup>41</sup> The remuneration of judges should be the same as stated in Section 29, Chapter 6, namely, that for every judgment they make in civil cases they should receive from the losing party a certain proportion of the total sum involved. 
+
+With regard to judgments made in criminal cases, the only difference here should be that goods confiscated and fines exacted for minor offences should be assigned to them alone. But there should be this condition, that they are never allowed to exact confession by torture. 
 
 In this way they will be sufficiently deterred from treating the commons unfairly and from showing too much favour to patricians through fear. For avarice is quite enough to hold in check their fear, especially when avarice is cloaked under the specious title of justice. 
 
@@ -58,9 +61,7 @@ B [Judges in Venice were appointed by the Grand Counctl.]
 though the syndiCS' powers are greater 1 
 Chapter 8 739 -->
 
-
-
-[42] Those who are sent as governors to cities or provinces should be of senatorial rank.
+<sup>42</sup> Those who are sent as governors to cities or provinces should be of senatorial rank.
 
 This is because it is the duty of senators to exercise supervision over the fortification of cities, the treasury, the armed forces, etc. 
 
@@ -79,10 +80,10 @@ Of these, 3-5 must be appointed every year to serve on the senate and one to ser
 Those who are senators are to be sent, together with the syndic, as govemors of the city from which they were appointed.
 
 
-[43] The judges to be appointed in each city should also be drawn from the patricians of the same city. But since these matters do not have reference to the fundamental laws of this state in particular, I do not think it necessary to discuss them at greater length.
+<sup>43</sup> The judges to be appointed in each city should also be drawn from the patricians of the same city. But since these matters do not have reference to the fundamental laws of this state in particular, I do not think it necessary to discuss them at greater length.
 
 
-[44] The secretaries and similar officials in any councils, since they do not have the right to vote, should be appointed from the commons. 
+<sup>44</sup> The secretaries and similar officials in any councils, since they do not have the right to vote, should be appointed from the commons. 
 
 But since, through their long experience of handling affairs, these men are thoroughly conversant with the way business is transacted, it is often the case that more deference than is proper is shown to their advice and that the condition of the entire state depends largely on their guidance, which has been the ruin of the Dutch.55 
 
@@ -90,16 +91,20 @@ For this situation is bound to arouse much jealousy among many of the nobles. An
 
 However, a state will be exposed to this evil to a greater or lesser degree according as it has been well- or ill-founded.
 
-For if the freedom of a state is not based on a sufficiently secure foundation, it is never defended without danger; and to avoid incurring this risk, patricians choose as ministers ambitious men from the commons who, when the situation later takes a different tum, are slaughtered like sacrificial animals to appease the wrath of those who are enemies to freedom % But where freedom has a sufficiently secure foundation, patricians are eager to claim for themselves the glory of safeguarding it, and they are anxious to ensure that good policy in the conduct of affairs derives only from their advice. In laying the foundations of the state it is these two rules that we have particularly followed, namely, that the commons should be debarred both from giving advice and from voting (see Sections 3 and 4 of this Chapter); and so sovereignty should be vested in the whole body of patricians,57 authority in the syndics and the senate, and the right to summon the senate, to bring forward, discuss, and deal with matters pertaining to the public welfare should lie with consuls appointed from the senate. And if it is also ordained that the secretary to the senate or to the other councils be appointed for four or five years at the most, with the addition of an assistant secretary appointed for the same period to lighten his load, or alternatively that there should be not one but several secretaries to the senate employed in different departments, it will never come about that the influence58 of officials could be of any importance.
+For if the freedom of a state is not based on a sufficiently secure foundation, it is never defended without danger; and to avoid incurring this risk, patricians choose as ministers ambitious men from the commons who, when the situation later takes a different tum, are slaughtered like sacrificial animals to appease the wrath of those who are enemies to freedom % But where freedom has a sufficiently secure foundation, patricians are eager to claim for themselves the glory of safeguarding it, and they are anxious to ensure that good policy in the conduct of affairs derives only from their advice. 
+
+In laying the foundations of the state it is these two rules that we have particularly followed, namely, that the commons should be debarred both from giving advice and from voting (see Sections 3 and 4 of this Chapter); and so sovereignty should be vested in the whole body of patricians,57 authority in the syndics and the senate, and the right to summon the senate, to bring forward, discuss, and deal with matters pertaining to the public welfare should lie with consuls appointed from the senate.
+
+If it is also ordained that the secretary to the senate or to the other councils be appointed for four or five years at the most, with the addition of an assistant secretary appointed for the same period to lighten his load, or alternatively that there should be not one but several secretaries to the senate employed in different departments, it will never come about that the influence58 of officials could be of any importance.
 
 <!-- 5 [In 1672. Spmoza IS thinkmg prinCipally here of Oldenbarneveldt and de Witt.]
 56 [Oldenbarneveldt was executed by the stadtholder Maunce 10 1619. De WItt was lTIJrdered by
 supportern of the Prince of Orange in the Hague In 1672 J  -->
 
 
-[45] Treasurers are likewise to be appointed from the commons, to be accountable not only to the senate but also to the syndics.
+<sup>45</sup> Treasurers are likewise to be appointed from the commons, to be accountable not only to the senate but also to the syndics.
 
-[46] With regard to religion , we have set forth our views at sufficient length in the Tractatus theologico-politicus. 
+<sup>46</sup> With regard to religion , we have set forth our views at sufficient length in the Tractatus theologico-politicus. 
 
 However, we omitted some points, the discussion of which was not there appropriate, to wit, that all patricians should be of the same religion, a very simple religion of a most universal nature as described in that treatise. 59 
 
@@ -131,3 +136,4 @@ For he who swears by God puts at stake a private good of which he alone knows th
 [49] Academies founded at public expense are established not so much to encourage natural talents as to restrain them. 
 
 But in a free commonwealth, arts and sciences will be best fostered if anyone who asks leave is allowed to teach publicly at his own expense and with his own reputation at risk 6! But these and similar topics I reserve for another occasion, for my intention here has been to confine myself to matters relating only to aristocratic government.
+

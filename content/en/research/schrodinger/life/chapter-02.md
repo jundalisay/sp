@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "The Hereditary Mechanism"
 weight: 12
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

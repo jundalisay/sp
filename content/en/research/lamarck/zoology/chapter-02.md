@@ -2,7 +2,6 @@
 title: The Importance of Considering Affinities
 heading: Chapter 2
 description: Among living bodies, 'affinity' is the similarity of traits of the the most essential parts of 2 things being compared.
-
 c: "deeppink"
 date: 2025-09-16
 weight: 8

@@ -2,7 +2,7 @@
 heading: Chapter 3d
 title: "2 Laws of Mutation"
 weight: 30
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

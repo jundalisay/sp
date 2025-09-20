@@ -67,11 +67,24 @@ In their fits of anger (which are frequent, above all among the males), their in
 
 In this matter of habits, it is remarkable to observe the result in the peculiar form and height of the giraffe (camelo-pardalis).  
 
-We know that this animal, the largest of the mammals, lives in the interior of Africa and dwells in those places where the earth, almost always arid and without grass, requires the animal to browse on the foliage of trees and constantly to try hard to reach that foliage.  As a result of this habit, maintained for a long time in all the individuals of its race, the animal's front limbs have become longer than those at the back, and its neck has grown longer to such an extent that the giraffe, without rearing up on its hind legs, lifts its head and reaches up to six metres in height (close to twenty feet).
+<!-- We know that this animal, the largest of the mammals,  -->
 
-Among the birds, the ostriches, lacking the capacity to fly and elevated on very high limbs, probably owe their remarkable form to analogous circumstances.
+It lives in the interior of Africa where it is always arid and without grass.
 
-The result of habits is just as noteworthy in the carnivorous mammals as it is in the herbivores.  But it manifests effects of a different sort.
+This requires it to browse on the foliage of trees and constantly to try hard to reach that foliage.
+
+As a result of this habit, maintained for a long time in **all** the individuals of its race:
+- its front limbs have become longer than those at the back
+- its neck has grown longer
+
+This allows the giraffe, without rearing up on its hind legs, to lift its head and reach up to 6 metres in height.
+
+Among the birds, the ostriches lack the capacity to fly.
+- They are elevated on very high limbs due to analogous circumstances.
+
+The result of habits is just as noteworthy in the carnivorous mammals as it is in the herbivores.  
+
+But it manifests effects of a different sort.
 
 In fact, among these mammals those who are accustomed, along with their race,  to climb, to scratch away in order to dig a hole in the ground, or to rip apart other animals which they attack and kill for prey have a need to use the digits on their feet.  Now, this custom has favored the separation of their digits and has formed the claws with which we see them equipped.
 

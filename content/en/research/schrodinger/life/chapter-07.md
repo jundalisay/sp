@@ -2,7 +2,7 @@
 heading: Chapter 7
 title: "Is Life Based on the Laws of Physics?"
 weight: 54
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

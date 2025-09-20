@@ -10,7 +10,7 @@ weight: 32
 ---
 
 
-[32] Some of the syndics, appointed by the supreme council, are to:
+<sup>32</sup> Some of the syndics, appointed by the supreme council, are to:
 - sit on the senate but without the right to vote
 - see whether the laws concerning that council are duly observed
 - summon the supreme council when any matter has to be referred from the senate to the supreme council. 
@@ -22,13 +22,20 @@ But before a vote is taken on matters like this, the president of the senate at 
 Thereafter the vote should be taken in the usual way.
 
 
-[33] The entire senate should not meet everyday, but, like all councils of considerable size, should assemble at certain fixed times '8 
+<sup>33</sup> The entire senate should not meet everyday, but, like all councils of considerable size, should assemble at certain fixed times '8 
 
 However, since in the meantime state business has to be dealt with, a certa in number of senators need to be chosen to act on behalf of the senate when it is not sitting. 
 
-Their duties should be to summon the senate when there is need, to carry out its decisions on public business, to read letters addressed to the senate and the supreme council, and, finally, to discuss what matters are to be brought before the senate. But in order that all these things and the organisation of the council as a whole may be more easily grasped, I shall give a more detailed account of the en tire matter.
+Their duties should be to summon the senate when there is need, to carry out its decisions on public business, to read letters addressed to the senate and the supreme council, and, finally, to discuss what matters are to be brought before the senate. 
 
-[34] The senators, who, as we have sa id, must be appointed for a year, should be divided into four or six sections.49 The first of these should preside over the senate for the first two or three months. When this time has expired, the second
+But in order that all these things and the organisation of the council as a whole may be more easily grasped, I shall give a more detailed account of the en tire matter.
+
+
+<sup>34</sup> The senators must be appointed for a year.
+
+They would be divided into four or six sections.49 
+
+The first of these should preside over the senate for the first two or three months. When this time has expired, the second
 section should take the place of the first, and so on , each section taking first position in its turn at regular intervals, so that the section taking first position in the first period takes last position in the second period. 
 
 Furthermore, for each section there should be appointed a president, together with a vice president to take his
@@ -50,8 +57,7 @@ For the reason we gave in Section 29 of th is Chapter does not apply here, and m
 49 [Spinoza's explanation of the functIOns of these secbonsseems to rely upon the prachces ofthe prytaneis of the anCient Atheman boule 1  -->
 
 
-
-[35] As to their number, I cannot be quite precise, but they must certainly be sufficiently numerous as to make it difficult to corrupt them. 
+<sup>35</sup> As to their number, I cannot be quite precise, but they must certainly be sufficiently numerous as to make it difficult to corrupt them. 
 
 For although they do not by themselves make any decisions on matters of state, yet they can defer the proceedings of the senate or, worst of all, lead the senate astray by bringing forward matters of no importance while holding back matters of greater importance; not to mention that if they were too few in number, the absence of one or two could bring public business to a halt. 
 
@@ -61,9 +67,9 @@ to public business, a middle way must be sought, and the inadequacy of their num
 This is why I suggested that their successors should never be appointed until the very time when they take over the duties of their predecessors.
 
 
-[36] Their duty is to summon the senate when any number of them, however few, think it necessary to put before it matters for its decision, to adjourn the senate, and to carry out its decisions on public business. 
+<sup>36</sup> Their duty is to summon the senate when any number of them, however few, think it necessary to put before it matters for its decision, to adjourn the senate, and to carry out its decisions on public business. 
 
-How this is to be done in good order so as not to hold up business by useless discussions, I shall now briefly explain. 
+<!-- How this is to be done in good order so as not to hold up business by useless discussions, I shall now briefly explain.  -->
 
 The consuls should consider the matter to be put before the senate and the action that needs to be taken, and if they are all of one mind, they should summon the senate and, after duly explaining the poin t at issue, declare their own view and put it to the vote in the usual way without waiting for any other view. 
 
@@ -86,7 +92,7 @@ Doge was president for hfe 1  -->
 
 
 
-[37] As for the court of justice or tribunal, it cannot rest on the same foundations as the one under a monarchy, as described in Chapter 6, Sections 26 and following. For (Section 14 of this Chapter) it does not accord with the fundamental
+<sup>37</sup> As for the court of justice or tribunal, it cannot rest on the same foundations as the one under a monarchy, as described in Chapter 6, Sections 26 and following. For (Section 14 of this Chapter) it does not accord with the fundamental
 laws of this kind of state to take any account of families or clans. 
 
 There is this further consideration, that judges appointed solely by patricians might indeed be restrained by fear of their patrician successors from pronouncing an unjust verdict on one of their own class and perhaps might not even have the hardihood to punish him as he deserved; but, on the other hand, aga inst the commons their audacity would know no bounds, and the rich would every day fall prey to their rapacity.
@@ -97,4 +103,3 @@ I am therefore convinced that here, too, the Genoese have had regard to their na
 character rather than to the real nature of this kind of state. 
 
 So we, considering this question in principle, must devise means best suited to this form of government.
-

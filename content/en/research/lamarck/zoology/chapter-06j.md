@@ -1,7 +1,7 @@
 ---
-title: Infusorians
+title: Insects
 heading: Chapter 6j
-description: 
+description: These are animals undergoing transformations of form with 2 eyes and 2 antennae on the head, 6 limbs, and 2 trachea extending throughout the entire body
 c: "deeppink"
 date: 2025-09-16
 weight: 43
@@ -9,95 +9,141 @@ weight: 43
 
 
 
-These are infinitely small animals, with gelatinous transparent bodies, homogenous and very contractile; 
+These are imperfect animals:
+- undergoing transformations of form with 2 eyes and 2 antennae on the head, 6 limbs, and 2 trachea extending throughout the entire body.
+- do not have arteries, no veins
+- breathe by air through a trachea which are not limited
+- born in a state less perfect than that in which they reproduce, consequently undergo metamorphosis.
 
-They have no specially distinct interior organ, but often with oviform gemmules.
+They come after the arachnids.
 
-They show on the outside no radiating tentacles nor rotary organs.
+Once they reach their perfect condition, all the insects, without exception, have 6 articulated limbs, 2 antennae and 2 eyes on the head, and most of them then have wings.
 
-This is the last class in the animal kingdom.
+According to the order we are following, the insects of necessity take up the tenth rank in the animal kingdom. 
 
-This is of the most imperfect animals in all respects.
+For they are inferior in improvements to their organic structure to the arachnids, because they are not, like the latter, born in their perfect condition and they reproduce only once during the course of their lives.
 
-Their organic structure is the simplest.
+Particularly among the insects we begin to notice that the organs essential to maintain life are distributed almost equally and most of them are situated throughout the extent of the body, rather than being isolated in particular places, as was the case in the most improved animals. 
 
-They have the fewest faculties.
+This consideration gradually loses its exceptions and becomes more and more striking in the animals in the later classes.
 
-They are only sketches of animal nature.
+Nowhere, up to this point, is the general degradation in organic structure more manifest than in the insects, where that structure is inferior in improvements to that of the animals in all the preceding classes. 
 
-Up to now, I have combined these small animals as polyps, in the order as 'amorphous polyps'.
+This degradation even shows up between the different orders which naturally divide the insects. For those in the three first orders (Coleoptera, Orthoptera, and Neuroptera) have mandibles and jaws in their mouths. 
 
-They have no constant shape which is unique to all. 
+Those of the fourth order (Hymenoptera) begin to possess a sort of proboscis; finally those of the four last orders (Lepidopteres, Hemiptera, Diptera and Aptera) really have only a proboscis. 
 
-But I recognized the necessity of separating them to create a special class. This does nothing to change the rank which I had assigned to them. All that results from this change is limited to a line of separation which the greatest simplification in their organic structure and their lack of radiating tentacles and rotary organs seem to require.
+Paired jaws do not turn up anywhere in the animal kingdom after the insects of the three first orders. With respect to wings, the insects of the six first orders have four of them, of which all or two alone serve for flight. Those of the seventh and eighth orders have only two wings, or their wings are aborted. The larvae of insects of the two final orders do have limbs and resemble worms.
 
-The organic structure of infusorians becomes increasingly simple.
+It appears that insects are the last animals which display a clearly distinct sexual reproduction and which are truly oviparous.
 
-This last of the genera is the limit of animal nature. 
-
-At least, the animals display the limit which we can reach. 
-
-Particularly in the animals of the second order of this class, it is certain that all traces of the intestinal canal and mouth have disappeared entirely, that there are no organs at all, in a word, that they no longer carry out digestion.
-
-The infusorians are:
-- very small gelatinous bodies, transparent, contractile and homogenous
-- made up of cell tissue almost without any consistency, yet nevertheless irritable at all points. 
-
-These small bodies, which appear only animated or moving points, nourish themselves by absorption and a constant water intake. 
-
-Undoubtedly they are animated through the influence of subtle ambient fluids, like heat and electricity, which simulate in them the movements which make up their lives.
-
-In considering such animals, if we were still to assume that they possessed all the organs which we know about in other animals but that these organs are based in all the points of their bodies, how vain would such an assumption be!
-
-In fact, the extremely weak (almost nonexistent) consistency of the parts of these small gelatinous bodies indicates that such organs must not exist, because it would be impossible for them to carry out their functions. 
-
-In order for any organs to have the power to react upon fluids and to exert their appropriate functions, their parts must have the consistency and the tenacity which can give them force; now, this is precisely what cannot be assumed in connection with the frail animals under discussion.
-
-Only among the animals of this class does nature appear to create spontaneous or direct generations, which she renews continually whenever circumstances are favorable for that. 
-
-We will try to show that by spontaneous generations nature has acquired a way to create indirectly, after the passage of an enormous time, all the other races of animals which we know about.
-
-What justifies our thinking that the infusorians or the majority of these animals owe their existence purely to spontaneous generations is that these frail animals all perish in the low temperatures brought on by the bad weather seasons. 
-
-Surely we will not assume that such delicate bodies can leave any bud with sufficient consistency to preserve itself and to reproduce in warm seasons.
-
-We find the infusorians in stagnant waters, in the infusions of plant or animal substances, and even in the reproductive liquid of the most improved animals. 
-
-We find them exactly alike in all parts of the world, but only under circumstances where they could be created.
-
-Thus, by considering successively the different systems of organic structures in animals, from the most complex right to the simplest, we have witnessed the degradation in that structure start in the very class which includes the most improved animals, then later progressively advance from class to class, although with anomalies produced by various sorts of circumstances, and finally, end in the infusorians. 
-
-These last are the most imperfect animals, the simplest in organic structure, and those in which the degradation which we have followed has reached its limit, by reducing the animal's organic structure so that it consists of a simple body, homogenous, gelatinous, almost without consistency, without special organs, and uniquely formed from a very delicate cellular tissue, hardly sketched out, which appears to be brought to life by subtle ambient fluids which penetrate it and move out again constantly.
-
-We have seen the successive process by which each particular organ, even the most essential, gets degraded little by little and finally goes away and disappears entirely long before reaching the other end of the order which we are following. And we have noticed that it is principally in the invertebrate animals that we see particular organs done away with.
-
-To be sure, even before leaving the vertebrate division, we already perceive great changes in the improved condition of the organs, and some of them, like the urinary bladder, diaphragm, vocal organ, eyelids, and so on, even disappear totally. In fact, the lung, the most improved organ for respiration, begins to be degraded in the reptiles and ceases to exist in the fish, never to reappear in any invertebrate animal.
-
-Finally, the skeleton, the basis for the four extremities or limbs which the majority of vertebrate animals possess, begins to deteriorate, mainly in the reptiles, and is completely finished in the fish.
-
-But it is in the division of invertebrate animals that we see the disappearance of the heart, brain, gills, conglomerate glands, the vessels appropriate for circulation, the organs for hearing, sight, sexual generation and even of feeling, as well as those for movement.
-
-As I have already stated, it would be vain for us to seek out in a polyp, for example in a hydra, or in the majority of animals of this class, the least vestiges of nerves (organs of feeling) or muscles (organs of movement). Only irritability, with which every polyp is very clearly endowed replaces in it both the faculty of feeling which it cannot possess (because it does have any organ essential for that) and the faculty of voluntary movement (because all voluntary action is an act of the organ of intelligence and this animal totally lacks any organ like that). All its movements are the necessary results of impressions received in its irritable parts, exterior stimuli, and are carried out without any possibility of choice.
-
-Put a hydra in a glass of water and place this glass in a room which does not receive light except through a window (hence, from a single side). When the hydra is established on a point of the sides of the glass, turn the glass in such a manner that the daylight strikes another point opposite to the one where the animal is located. You will always see the hydra go in a slow movement to take up a position in the place where the light strikes and stay there for as long as you do not change the point. In doing this, the hydra follows what we see in the parts of plants which arrange themselves, without any act of will power, towards the quarter from which light comes.
-
-Undoubtedly, wherever a particular organ no longer exists, the faculty which it gives rise to also ceases to exist. But, in addition, we see clearly that to the extent that an organ deteriorates and gets smaller, the faculty deriving from it becomes proportionally more obscure and imperfect. Thus, as we descend from the most complex toward the simplest animals, the insects are the last animals in which one finds eyes. But we have every reason to believe that they see very obscurely and make little use of their sight.
-
-Thus, in moving through the animal chain from the most perfect to the most imperfect and by considering successively the different systems of organic structure which we distinguish in the extent of this chain, we see that the degradation in organic structure and of each organ (right to their total disappearance) is a reliable fact whose reality we have just confirmed.
-
-This degradation is manifested even in the nature and consistency of the essential fluids and the flesh of animals. For the flesh and blood of mammals and birds are the most complex and vital materials that one can obtain from animals' soft parts. In addition, after the fish these materials progressively deteriorate to the point where in the soft radiates, polyps, and above all in the infusorians, the essential fluid has nothing any more except the consistency and colour of water, and the flesh of these animals displays only a gelatinous material, hardly animalised. The soup which one might make out of such flesh would undoubtedly prove scarcely nourishing and strengthening for the person to tried it out.
-
-Whether one acknowledges or not these interesting truths, nonetheless, those who observe facts carefully, overcome the widespread general prejudices, consult natural phenomena, and study nature's laws and constant march will always be led to them.
-
-I will try to prove that the environmental circumstances exercise a large influence on the actions of animals and that, as a result of this influence, the increased and sustained use of an organ or its lack of use are causes modifying the organic structure and shape of animals and giving rise to the anomalies which we observe in the structural progress within animal organization.
+Finally, we will see that the insects are infinitely remarkable for the details concerning what has been called their industry but that this alleged industry is not at all the product of any thinking, that is, of any combination of ideas on their part.
 
 
+### Observation
 
-<!-- Notes to Chapter Six
-(1) If birds have their lungs pierced and their hair changed into feather as a consequence of their habit of ascending into the air, people will ask me why the bats do not also have feathers and pierced lungs. I will reply that it seems to me probable that the bats have a systematic organic structure more perfect than that of the birds, and as a result a complete diaphragm which limits the enlargement of their lungs. Thus they were not able successfully to pierce their lungs nor to puff themselves up with air sufficiently so that the influence of this fluid, with effort reaching the skin, gives the horny material of the hair the faculty of branching out into feathers. In fact, in the birds, the air, once introduced right into the bulb of the hairs, changes their base into a tube and forces these very hairs to divide themselves up into feathers. This could not have happened with the bat, where the air does not penetrate beyond the lung. [Back to Text]
+Just as the fish, among the vertebrates, display in their general shape and in the anomalies relative to the progression in complexity of organic structure, the results of the influence of their environmental habitat, so the insects, among the invertebrates, display in their form, organic structure, and transformations, the clear result of the influence of the open air in which they live and up into which most of them leap and habitually stay, like the birds.
 
-(2) The Anatifa, Balanus, Coronula and Tubicinella. [Back to Text]
+If the insects had had a lung, if they had been capable of inflating themselves with air, and if the air which reaches all parts of their body had been able to rarefy itself there, like the air which goes into the bodies of birds, their hairs would have been changed, no doubt, into feathers.
 
-(3) "It is above all in the spiders that the heart is easy to observe. We see it beat through the skin of the abdomen in the non-hairy species. In lifting up this skin, we see a hollow organ, oblong, pointed at two ends, the anterior end pointing towards the thorax, on the sides of which two or three pairs of vessels can be seen leaving." Cuvier, Anatom. Comp. Vol. IV, p. 419. [Back to Text]
+Finally, if, among the invertebrate animals, it is astonishing to find so few affinities between the insects which undergo singular metamorphoses and the invertebrate animals of the other classes, one should draw attention to the fact that these are the only animals without vertebrae who leap up into the air and carry out progressive movements there. Then one will sense that quite special circumstances and habits must have produced results which are just as special.
 
- -->
+The insects are close only to the arachnids in their interrelationships. And, in fact, both of them are, in general, the only animals without vertebrae which live in the air. But no spider has the ability to fly, and no arachnid likewise undergoes transformation. In dealing with influences of habits, I will show that these animals, because they were accustomed to stay on parts of the surface of the earth and to live in hidden places, must have lost some of the ability of insects and to acquire characteristics which clearly distinguish them from insects.
+
+
+The Destruction of Several Organs Essential to the More Improved Animals
+After the insects, it appears that there is quite a considerable gap in the series, which animals we have not observed remain to fill in. For in this position in the series, several organs essential to more improved animals suddenly are missing and are really done away with, because we do not find them again in the classes which remain for us to review.
+
+
+The Disappearance of the Nervous System
+Here the nervous system (the nerves and their central connection) effectively disappears completely and does not appear any more in any of the animals of the classes which follow.
+
+In the most improved animals, this system consists of a brain which appears to serve to carry out of acts of intelligence, at the base of which is located the chamber of sensations, from which the nerves leave, as well as a dorsal spinal chord which sends other nerves out to the various parts.
+
+In the vertebrates, the brain successively diminishes, and as its volume gets smaller, the spinal column becomes larger and seems to take its place.
+
+In the mollusks, the first class of invertebrates, the brain still exists, but it does not have a spinal chord or longitudinal marrow with ganglia. Since the ganglia are rare, the nerves do not appear knotty.
+
+Finally, in the five classes which follow, the nervous system, in its last stage, is reduced to a very small brain, hardly a trace, and a longitudinal marrow which sends nerves to the parts. From that point on there is no isolated chamber for sensations, but a multitude of small places spread throughout the full length of the animal.
+
+Thus, in the insects the important system of feeling ends, that system which, at a particular stage of its development, gives rise to ideas, which in its highest perfection can produce all intelligent acts, and which, finally, is the source where muscular action gets its power and without which sexual reproduction apparently cannot exist.
+
+
+### Disappearance of the Sexual Organs
+
+Traces of sexual reproduction disappear completely.
+
+<!-- and, in fact, in the animals which are going to be listed, it is no longer possible to recognize the organs of a true fertilization. Nevertheless, we are going to find again in the animals  -->
+
+Of the 2 classes which follow, species with types of ovaries in oviform corpuscles which are taken for eggs. 
+
+But I consider these alleged eggs, which can produce without prior fertilization as buds or internal gemmules. They create the link between internal gemmiparous reproduction and oviparous sexual reproduction.
+
+The inclination of human beings for their own habits is so great that they persist, even against the evidence, to look at things always in the same manner.
+
+This is why botanists, accustomed to observe the sexual organs of a large number of plants, want all plants, without exception, to have similar organs. 
+
+Consequently, several of them have made every imaginable effort, with respect to the plants cryptogames or agames, to discover stamens and pistils. And they have preferred to attribute to the plants arbitrarily and without proof functions to those parts whose use they did not know rather than to recognize that nature knows how to reach the same goal by different means.
+
+We were persuaded that every reproductive body is a seed or an egg, that is, a body which, in order to be reproductive, needs to undergo the influence of sexual fertilization. 
+
+This made Linnaeus state: Omne vivum ex ovo [All living things are from the egg]. 
+
+But plants and animals which regenerate themselves solely by bodies which are neither seed nor eggs.
+- And so they do not need sexual fertilization.
+
+Thus, these bodies are shaped differently and develop in a different manner.
+
+<!-- Here is the principle to which we must pay attention in order to assess the method of reproduction of any living body whatever. -->
+
+Every reproductive corpuscle, whether plant or animal, which, without breaking through any enclosing material, grows longer and larger and become a plant or animal similar to the one which it came from is neither a seed nor an egg. 
+
+It does not undergo any fertilization or hatch after having started to grow. 
+
+Its formation has not required any sexual impregnation. 
+
+Thus it does not contain an embryo enclosed in layers which must be broken through, as in the seed or the egg.
+
+Now, follow attentively the developments of the reproductive corpuscles of algae, fungi, and so on, and you will see that these corpuscles only grow longer and larger so as to take on imperceptibly the form of the plant from which they issued forth. 
+
+They do no break through any enclosing material, as does the embryo of the seed or the one that contains the egg.
+
+Similarly, if you follow the gemma or bud of a polyp, like the hydra, you will be convinced that this reproductive body only grows longer and larger. It does not break through any exterior covering that it does not hatch like a chicken or a silk worm coming from an egg.
+
+Thus, all reproduction does not happen by sexual fertilization.
+
+Where there is no sexual fertilization, there is no true sexual organ.
+
+The 4 classes after the insects do not follow any organ of fertilization.
+
+At this point in the animal chain, sexual reproduction ceases.
+
+
+## Disappearance of the Eyes
+
+The eyes started to be absent in a section of the:
+- mollusks
+- cirrhipedes
+- most of the annelids.
+
+They are found again in a very imperfect condition in:
+- crustaceans
+- arachnids
+- insects
+
+ <!-- an extremely limited use (or none at all)  -->
+
+They do not reappear after the insects in any animal.
+
+At this point also, the head totally ceases to exist.
+
+<!-- , that essential body part in the most perfect animals, the seat of the brain and almost all the senses,   -->
+
+The bulge in the forward extremity of some worms, like the Taenia, is caused by the arrangement of their suckers.
+- It is neither the seat of a brain nor of organs of hearing, sight, etc.
+- All these organs are lacking in the animals of the classes which follow.
+- The swelling cannot be considered a true head.
+
+At this stage of the animal scale, the degradation in organic structure becomes extremely rapid.
+
+It makes one look ahead to the greatest simplification in the organic structure of animals.

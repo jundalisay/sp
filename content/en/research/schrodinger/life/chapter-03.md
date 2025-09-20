@@ -2,7 +2,7 @@
 heading: Chapter 3
 title: "Mutations"
 weight: 22
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

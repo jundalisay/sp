@@ -2,7 +2,7 @@
 heading: Chapter 4
 title: "The Quantum-Mechanical Evidence"
 weight: 32
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

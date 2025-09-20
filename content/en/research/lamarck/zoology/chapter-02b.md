@@ -2,16 +2,15 @@
 title: The Importance of Considering Affinities
 heading: Chapter 2b
 description: 
-
-c: "deeppink"
+  c: "deeppink"
 date: 2025-09-16
 weight: 9
 ---
 
 
+The affinities in plants are determined solely by the parts essential for reproduction. The importance of these parts are ranked as:
 
-
-If I was going to talk about plants, in which the parts essential for reproduction are the only ones which provide the main characteristics for determining their affinities, I would present these parts in their order of value or importance as follows:
+ <!-- are the only ones which provide the main characteristics for determining their , I would present these parts in their order of value or importance as follows: -->
 
 1. The embryo, its accessories (the cotyledons, the perisperm), and the seed which contains it;
 
@@ -24,35 +23,64 @@ If I was going to talk about plants, in which the parts essential for reproducti
 5. The reproductive bodies which do not need any pollination.
 
 
-These principles, for the most part recognized, give a consistency and a reliability to the natural sciences which they did not have previously. 
+These principles give a new consistency and a reliability to the natural sciences.
 
-The affinities which have been determined by conforming to such principles are not at all subject to variations of opinion. 
+ <!-- which they did not have previously.  -->
 
-Our general distributions are becoming secure, and to the extent which we perfect them with the help of these methods, they will get closer and closer to the very order of nature.
+The affinities which have been determined by conforming to such principles are not subject to variations of opinion. 
 
-After having sensed the importance of the analysis of affinities, in fact, we saw the birth of those attempts made (above all in the last few years) to establish what is being called the natural method, something which is only the sketch traced by man of the route nature follows to brings its productions into existence.
+<!-- Our general distributions are becoming secure, and to the extent which we perfect them with the help of these methods, they will get closer and closer to the very order of nature. -->
+
+After realizing the importance of affinities, people have recently created the 'natural method'.
+
+ <!-- we saw the birth of those attempts made (above all in the last few years) to establish what is being called the , something which is  -->
+
+- It is only the sketch traced by man of the route nature follows to brings its productions into existence.
 
 In France, it is no longer a question of those artificial systems based upon characteristics which jeopardize the natural affinities between the objects subjected to such systems, ones which establish division and distributions detrimental to the advancement of our knowledge about nature.
 
-So far as animals are concerned, we are now convinced, for good reasons, that we can determine the natural affinities only through their organic structures. 
 
-Consequently, zoology will derive all the insights necessary for the determination of these affinities from comparative anatomy. 
+In animals, we can determine the natural affinities only through their organic structures. 
 
-But it is important to note that it is the particular facts which we must assemble from the works of the anatomists who have set out to discover them, and not always the conclusions which they have drawn from these facts. 
+Consequently, zoology can determine these affinities from comparative anatomy. 
 
-For too often, these conclusions encourage opinions which could lead us astray and prevent us from grasping nature's laws and her true design. 
+These affinities are from the works of the anatomists, and not always the conclusions from those facts. 
 
-It appears that each time someone observes any new fact whatsoever, he is condemned to hurl himself into error through his desire to assign a cause to it; his imagination is so fecund in the production of ideas, because he neglects too much the need to guide his judgments by the totality of the collection which observations and the other assembled facts can present to him.
+For too often, these conclusions encourage opinions which lead us astray.
 
-When we work on natural affinities between objects and judge these interrelationships well, bringing together the species according to this analytical principle and assembling them in groups within certain limits, the groups make up what are called genera. 
+ <!-- and prevent us from grasping nature's laws and her true design.  -->
 
-Similarly the genera, organized according to an analysis of the affinities and combined also into groups larger than theirs, form what are called families. 
+When someone discovers any new fact, he hurls himself to assign a cause to it.
+- His imagination is so fecund in the production of ideas.
+- He does not guide his judgments by the totality of facts.
 
-When these families are combined in the same way under the same analytical principle, they form the orders. The latter by the same process first separate out the classes. Finally, these groups divide up each kingdom into its principal sections.
+ <!-- according to this analytical principle and assembling them in groups within -->
 
-Therefore, the well-determined natural affinities must guide us in forming our collections, when we establish the divisions of each kingdom into classes, each class into orders, and each order into sections or families, each family into genera, and each genus into different species, as required.
+A genera are groups of species that have certain limits based on natural affinities which are the basis for interrelationships
 
-We are perfectly justified in thinking that the total series of beings making up part of a kingdom, once that series is distributed in an order subject throughout to the analytical principle of affinities, represents the very order of nature. 
+Genera form families according to affinities.
+
+ <!-- and combined also into groups larger than theirs, form what are called families.  -->
+
+Families form orders. 
+
+Orders have classes. 
+
+<!-- When these families are combined in the same way under the same analytical principle, they form the orders. The latter by the same process first separate out the classes.  -->
+
+Finally, these groups divide up each kingdom into its principal sections.
+
+Therefore, the well-determined natural affinities must guide us in forming our collections.
+
+We divide each kingdom into classes
+- Each class into orders
+- Each order into sections or families
+- Each family into genera
+- Each genus into species
+
+The total series of beings making up a kingdom represents the order of nature.
+
+<!-- , once that series is distributed in an order subject throughout to the analytical principle of affinities,   -->
 
 However, it is important to bear in mind that the different types of divisions which we must establish in this series so that we can know the objects in it more readily are not part of nature at all and are truly artificial, although they display portions of the same order which nature has set up.
 

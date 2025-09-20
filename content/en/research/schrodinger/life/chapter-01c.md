@@ -2,7 +2,7 @@
 heading: Chapter 1c
 title: "Second Example (Brownian Movement, Diffusion)"
 weight: 8
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

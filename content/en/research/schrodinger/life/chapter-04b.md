@@ -2,7 +2,7 @@
 heading: Chapter 4b
 title: "Molecules"
 weight: 36
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

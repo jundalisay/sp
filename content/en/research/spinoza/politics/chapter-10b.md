@@ -10,9 +10,8 @@ weight: 39
 ---
 
 
-[6J I therefore conclude that those vices that are prevalent in time of peace, and which we are now discussing, should never be directly prevented but only by indirect means, that is, by laying such a foundation to the state that most menI won't say will be eager to live wisely, for that is impossible-will be guided by such feelings as will conduce to the greater good of the commonwealth. 
-
-
+<sup>6</sup> I conclude that those vices prevalent in peacetime should never be directly prevented but only by indirect means.
+- They are prevented by laying such a foundation to the state that most menI won't say will be eager to live wisely, for that is impossible-will be guided by such feelings as will conduce to the greater good of the commonwealth. 
 
 
 <!-- S [See Machiavelli, Discourses I. 3 The tribuni plebis were appomted to protect the plebeulDs agamst
@@ -31,7 +30,8 @@ So our chief objective is that the wealthy, if they cannot be thrifty, should at
 If this love of gain, which is universal and constant, is nourished by desire for glory, most men will direct their main efforts to increasing their wealth by means that are not discreditable,
 so as to gain office and avoid utter disgrace.
 
-[7] This very result follows from the fundamental laws of both kinds of aristocracy as I have explained in the last 2 chapters.
+
+<sup>7</sup> This very result follows from the fundamental laws of both kinds of aristocracy as I have explained in the last 2 chapters.
 
 For in both of them the number of rulers is so large that most of the wealthy have access to the governing body and to office of state. 
 
@@ -48,14 +48,13 @@ For this, see Sections 25 and 47 of Chapter 8. And in each state additional
 measures can be devised that conform with the nature of its territory and the character of the people, always having as their main concern that subjects should do
 their duty willingly rather than under constraint of the law.
 
-[8J For a state that looks only to govern men by fear will be one free from vice rather than endowed with virtue. Men should be governed in such a way that they
+
+<sup>8</sup> For a state that looks only to govern men by fear will be one free from vice rather than endowed with virtue. Men should be governed in such a way that they
 do not think of themselves as being governed but as living as they please and by their own free will, so that their only restraint is love of freedom, desire to increase
 their property, and hope of atta ining offices of state. 
 
 As for statues, triumphal processions, and other incentives to virtue, these are symbols of servitude rather than of freedom; 12 for it is slaves, not free men , who are assigned rewards for virtue. I
-do indeed admit that men are spurred on by such inducements, but whereas at first they were awarded to men of greatness, with the passage of time and the
-growth of jealousy they are granted to men of no accoun� exalted by their enormous wealth, to the great indignation of all good men. Then again, those who
-boast of their ancestors' triumphs and statues think they suffer injustice if they are
+do admit that men are spurred on by such inducements, but whereas at first they were awarded to men of greatness, with the passage of time and the growth of jealousy they are granted to men of no accoun� exalted by their enormous wealth, to the great indignation of all good men. Then again, those who boast of their ancestors' triumphs and statues think they suffer injustice if they are
 not granted precedence over others. 
 
 Finally, to omit other considerations, th is much is certain, that equality, the abandonment of which must entail the loss of
@@ -76,8 +75,7 @@ Chapt.r JO 751 -->
 Otherwise, if for instance laws are dependent solely on the support of reason, they are likely to be weak and easily overthrown. 13 So since we have shown that the fundamental laws of both kinds of aristocracy are in conformity with reason and with the common sen timents of men, we can therefore affirm that, if any states can be everlasting, these will necessarily be so; that is to say, they cannot be destroyed by any avoidable cause, but only by some unavoidable fatality.
 
 
-[10] But an objection can still be raised as follows, that although the constitutions set forth above may have the support of reason and the common sentiment
-of men, there are times when they can nevertheless be overthrown, for there is no emotion that is not sometimes overpowered by a stronger contrary emotion. 
+<sup>10</sup> But an objection can still be raised as follows, that although the constitutions set forth above may have the support of reason and the common sentiment of men, there are times when they can nevertheless be overthrown, for there is no emotion that is not sometimes overpowered by a stronger contrary emotion. 
 
 We often see the fear of death, for instance, overpowered by greed for another's property. 
 
@@ -100,5 +98,3 @@ stadtholder despite the Perpetual Edict of 1 667.]
 hberty.]
 17 [I read aiiorum for alios -S S J 
 752 Political Treatise -->
-
- 

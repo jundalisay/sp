@@ -22,38 +22,45 @@ in October 1956 -->
 
 The world is a construct of our sensations, perceptions, memories. 
 
-It is convenient to regard it as existing objectively on its own.
+It is convenient to regard it as existing objectively on its own.*
+
+{{< n n="Right away Schrodinger violates Berkeley and Descartes" >}}
+
 
 But it certainly does not become manifest by its mere existence. 
 
-Its becoming manifest is conditional on very special goings-on in very special parts of this very world, namely on certain events that happen in a brain. 
+Its becoming manifest depends on events that happen in a brain. 
 
-That is an inordinately peculiar kind of implication, which prompts the question: What particular properties distinguish these brain processes and enable them to produce the manifestation? 
+What properties distinguish these brain processes and enable them to produce our perceptions? 
 
-Can we guess which material processes have this power, which not? Or simpler: What kind of material process is directly associated with consciousness?
+What kind of material process is directly associated with consciousness?
 
-A rationalist answers: Consciousness is linked up with certain kinds of events in organized, living matter, namely, with certain nervous functions. 
+A rationalist answers: Consciousness is linked up with certain nervous functions. 
 
-How far back or 'down' in the animal kingdom there is still some sort of consciousness, and what it may be like in its early stages, are gratuitous speculations, questions that cannot be answered and which ought to be left to idle dreamers. 
+<!-- How far back or 'down' in the animal kingdom there is still some sort of consciousness, and what it may be like in its early stages, are gratuitous speculations, questions that cannot be answered and which ought to be left to idle dreamers. 
 
 It is still more gratuitous to indulge in thoughts about whether perhaps other events as well, events in inorganic matter, let alone all material events, are in some way or other associated with consciousness. 
 
 All this is pure fantasy, as irrefutable as it is unprovable, and thus of no value for knowledge.
 
-He who accepts this brushing aside of the question ought to be told what an uncanny gap he thereby allows to remain in his picture of the world.
+He who accepts this brushing aside of the question ought to be told what an uncanny gap he thereby allows to remain in his picture of the world. -->
 
-For the turning-up of nerve cells and brains within certain strains of organisms is a very special event whose meaning and significance is quite well under- stood. It is a special kind of mechanism by which the individual responds to alternative situations by accordingly alternating behaviour, a mechanism for adaptation to a changing surrounding. 
+The turning-up of nerve cells and brains within organisms is a special kind of mechanism by which the individual responds to alternative situations by alternating behaviour.
+- It is a mechanism for adaptation to changing surroundings. 
 
-It is the most elaborate and the most ingenious among all such mechanisms, and wherever it turns up it rapidly gains a dominating role. 
+<!-- It is the most elaborate and the most ingenious among all such mechanisms, and wherever it turns up it rapidly gains a dominating role.  -->
 
-However, it is not sui generis. Large groups of organisms, in particular the plants, achieve very similar performances in an entirely different fashion.
+However, it is not sui generis. 
 
-Are we prepared to believe that this very special turn in the development of the higher animals, a turn that might after all have failed to appear, was a necessary condition for the world to flash up to itself in the light of consciousness? Would it otherwise have remained a play before empty benches, not existing for anybody, thus quite properly speaking not existing? This would seem to me the bankruptcy of a world picture. The urge to find a way out of this impasse ought not to be damped by the fear of incurring the wise rationalists' mockery.
+Large groups of organisms like plants, do the same thing in an entirely different way.
+
+If animals did not develop nerves, would there be no consciousness?
+
+<!-- turn in the development of the higher animals, a turn that might after all have failed to appear, was a necessary condition for the world to flash up to itself in the light of  Would it otherwise have remained a play before empty benches, not existing for anybody, thus quite properly speaking not existing? This would seem to me the bankruptcy of a world picture. The urge to find a way out of this impasse ought not to be damped by the fear of incurring the wise rationalists' mockery. -->
 
 According to Spinoza, every thing or being is a modification of the infinite substance, i.e. of God. 
 
 It expresses itself by each of his attributes as:
-
 
 1. Extension*, and
 
@@ -61,131 +68,88 @@ It expresses itself by each of his attributes as:
 
 This is its bodily existence in space and time.
 
-
-
 2. Thought
 
 This is the mind. 
 
-But to Spinoza any inanimate bodily thing is at the same time also 'a thought of God'. It exists in the second attribute as well. We encounter here the bold thought of universal animation, though not for the first time, not even
-in Western philosophy. 
+But to Spinoza any inanimate bodily thing is at the same time also 'a thought of God'. 
+- It exists in the second attribute as well. 
+
+We encounter here the bold thought of universal animation, though not for the first time, not even in Western philosophy. 
 
 Two thousand years earlier the Ionian philosophers acquired from it the surname of hylozoists. 
 
 After Spinoza, the genius of Gustav Theodor Fechner did not shy at attributing a soul to a plant, to the earth as a celestial body, to
 the planetary system, etc. 
 
-I do not fall in with these fantasies, yet I should not like to have to pass judgment as to who has come nearer to the deepest truth, Fechner or the bankrupts of rationalism.
+<!-- I do not fall in with these fantasies, yet I should not like to have to pass judgment as to who has come nearer to the deepest truth, Fechner or the bankrupts of rationalism. -->
 
 
 ## A TENTATIVE ANSWER
 
-You see that all the attempts at extending the domain of
+<!-- You see that all the attempts at extending the domain of
 consciousness, asking oneself whether anything of the sort
 might be reasonably associated with other than nervous
 processes, needs must run into unproved and unprovable
 speculation. 
 
 But we tread on firmer ground when we start in
-the opposite direction. Not every nervous process, nay by no
-means every cerebral process, is accompanied by consciousness. 
+the opposite direction.  -->
 
-Many of them are not, even though physiologically and
-biologically they are very much like the 'conscious' ones, both
-in frequently consisting of afferent impulses followed by
-efferent ones, and in their biological significance of regulating
-and timing reactions partly inside the system, partly towards
-a changing environment. 
+Not every nervous process or cerebral process is accompanied by consciousness. 
 
-In the first instance we meet here
-with the reflex actions in the vertebral ganglia and in that part
-of the nervous system which they control. But also (and this
-we shall make our special study) many reflexive processes
-exist that do pass through the brain, yet do not fall into
-consciousness at all or have very nearly ceased to do so. For in
-the latter case the distinction is not sharp; intermediate
-degrees between fully conscious and completely unconscious
-occur. 
+Many of them are not, even though physiologically and biologically they are very much like the 'conscious' ones.
 
-By examining various representatives of physiologically
-very similar processes, all playing within our own body, it
-ought not to be too difficult to find out by observation and
-reasoning the distinctive characteristics we are looking for.
+They frequently consist of afferent impulses followed by efferent ones
 
-To my mind the key is to be found in the following
-well-known facts. Any succession of events in which we take
-part with sensations, perceptions and possibly with actions
-gradually drops out of the domain of consciousness when the
-same string of events repeats itself in the same way very often.
+They regulate and time reactions partly inside the system, partly towards a changing environment. 
+
+Examples are the reflex actions in the vertebral ganglia and in that part of the nervous system which they control. 
+
+But also, many reflexive processes exist that pass through the brain.
+
+Yet they do not fall into consciousness at all or have very nearly ceased to do so. 
+
+For in the latter case the distinction is not sharp; intermediate degrees between fully conscious and completely unconscious occur.
+
+By examining various representatives of physiologically very similar processes, all playing within our own body, it ought not to be too difficult to find out by observation and reasoning the distinctive characteristics we are looking for.
+
+To my mind the key is to be found in the following well-known facts. Any succession of events in which we take part with sensations, perceptions and possibly with actions gradually drops out of the domain of consciousness when the same string of events repeats itself in the same way very often.
 
 But it is immediately shot up into the conscious region, if at
 such a repetition either the occasion or the environmental
 conditions met with on its pursuit differ from what they were
 on all the previous incidences. 
 
-Even so, at first anyhow, only those modifications or 'differentials' intrude in to the conscious
-sphere that distinguish the new incidence from previous ones
-and thereby usually call for 'new considerations'. Of all this
-each of us can supply dozens of examples out of personal
-experience, so that I may forgo enumerating any at the
-moment.
+Even so, at first anyhow, only those modifications or 'differentials' intrude in to the conscious sphere that distinguish the new incidence from previous ones and thereby usually call for 'new considerations'. Of all this each of us can supply dozens of examples out of personal experience, so that I may forgo enumerating any at the moment.
 
-The gradual fading from consciousness is of outstanding
-importance to the entire structure of our mental life, which is
-wholly based on the process of acquiring practice by repeti-
-tion, a process which Richard Semon has generalized to the
-concept of Mneme, about which we shall have more to say
-later. 
+The gradual fading from consciousness is of outstanding importance to the entire structure of our mental life, which is wholly based on the process of acquiring practice by repeti- tion, a process which Richard Semon has generalized to the concept of Mneme, about which we shall have more to say later.
 
-A single experience that is never to repeat itself is
-biologically irrelevant. Biological value lies only in learning
-the suitable reaction to a situation that offers itself again and
-again, in many cases periodically, and always requires the
-same response if the organism is to hold its ground. Now from
-our own inner experience we know the following. 
+A single experience that is never to repeat itself is biologically irrelevant. Biological value lies only in learning the suitable reaction to a situation that offers itself again and again, in many cases periodically, and always requires the same response if the organism is to hold its ground. Now from our own inner experience we know the following.
 
-On the first
-few repetitions a new element turns up in the mind, the
+On the first few repetitions a new element turns up in the mind, the
 'already met with' or 'notal' as Richard Avenarius has called
 it. 
 
-On frequent repetition the whole string of events becomes
-more and more of a routine, it becomes more and more
-uninteresting, the responses become ever more reliable
-according as they fade from consciousness. The boy recites his
-poem, the girl plays her piano sonata 'well-nigh in their sleep'.
-We follow the habitual path to our workshop, cross the road at
-the customary places, turn into side-streets, etc., whilst our
-thoughts are occupied with entirely different things. But
-whenever the si tua tion exhibits a relevan t differen tial - let us
-say the road is up at the place where we used to cross it, so
-~that we have to make a detour - this differential and our
-response to it intrude into consciousness, from which, how-
-ever, they soon fade below the threshold, if the differential
-becomes a constantly repeated feature. Faced with changing
-alternatives, bifurcations develop and may be fixed in the
-same way. We branch off to the University Lecture Rooms or
-to the Physics Laboratory at the right point without much
-thinking, provided that both are frequently occurring destinations.
+On frequent repetition the whole string of events becomes more and more of a routine, it becomes more and more uninteresting, the responses become ever more reliable according as they fade from consciousness. The boy recites his poem, the girl plays her piano sonata 'well-nigh in their sleep'. We follow the habitual path to our workshop, cross the road at the customary places, turn into side-streets, etc., whilst our thoughts are occupied with entirely different things.
 
-Now in this fashion differentials, variants of response, bifur-
-cations, etc., are piled up one upon the other in unsurveyable
+But whenever the situation exhibits a relevant differential - let us say the road is up at the place where we used to cross it, so ~that we have to make a detour - this differential and our response to it intrude into consciousness, from which, how- ever, they soon fade below the threshold, if the differential becomes a constantly repeated feature. 
+
+Faced with changing alternatives, bifurcations develop and may be fixed in the same way. We branch off to the University Lecture Rooms or to the Physics Laboratory at the right point without much thinking, provided that both are frequently occurring destinations.
+
+In this fashion differentials, variants of response, bifurcations, etc., are piled up one upon the other in unsurveyable
 abundance, but only the most recent ones remain in the domain
 of consciousness, only those with regard to which the living
-substance is still in the stage of learning or practising. One
-might say, metaphorically, that consciousness is the tutor who
-supervises the education of the living substance, but leaves his
-pupil alone to deal with all those tasks for which he is already
-sufficiently trained. But I wish to underline three times in red
-ink that I mean this only as a metaphor. The fact is only this,
-that new situations and the new responses they prompt are kept
-in the light of consciousness; old and well practised ones are no
-longer so.
+substance is still in the stage of learning or practising. 
 
-Hundreds and hundreds of manipulations and performances
+One might say, metaphorically, that consciousness is the tutor who supervises the education of the living substance, but leaves his pupil alone to deal with all those tasks for which he is already sufficiently trained. But I wish to underline three times in red ink that I mean this only as a metaphor. The fact is only this, that new situations and the new responses they prompt are kept in the light of consciousness; old and well practised ones are no longer so.
+
+Hundreds of manipulations and performances
 of everyday life had all to be learnt once, and that with great
 attentiveness and painstaking care. Take for example a small
-child's first attempts in walking. They are eminently in the
+child's first attempts in walking. 
+
+They are eminently in the
 focus of consciousness; the first successes are hailed by the
 peformer with shouts of joy. When the adult laces his boots,
 switches on the light, takes off his clothes in the evening, eats
@@ -340,6 +304,8 @@ even by their very lives that more than others have they been
 torn by the pangs of inner discord. Let this be a consolation to
 him who also suffers from it. Without it nothing enduring has
 ever been begotten.
+
+
 Please do not misunderstand me. I am a scientist, not a
 teacher of morals. Do not take it that I wish to propose the idea
 of our species developing towards a higher goal as an effective
@@ -361,16 +327,21 @@ much older state-formers as the bees, ants and termites have
 given up egoism completely. However, its next stage, national
 egoism or briefly nationalism, is still in full swing with them. 
 
-A worker bee that goes astray to the wrong hive is murdered
-without hesitation.
+A worker bee that goes astray to the wrong hive is murdered without hesitation.
 
 Now in man something is, so it seems, on the way that is not
-infrequent. Above the first modification clear traces of a
+infrequent. 
+
+Above the first modification clear traces of a
 second one in similar direction are noticeable long before the
-first is even nearly achieved. Though we are still pretty
-vigorous egoists, many of us begin to see that nationalism too
-is a vice that ought to be given up. Here perhaps something
-very strange may make its appearance. The second step, the
+first is even nearly achieved. 
+
+We are still pretty vigorous egoists. Many of us begin to see that nationalism too is a vice that should be given up.
+
+<!-- Here perhaps something
+very strange may make its appearance.  -->
+
+The second step, the
 pacification of the struggle of peoples, may be facilitated by
 the fact that the first step is far from being achieved, so that
 egoistic motives still have a vigorous appeal. Each one of us is

@@ -2,7 +2,7 @@
 heading: Chapter 1b
 title: "The Working Of An Organism Requires Exact Physical Laws"
 weight: 6
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

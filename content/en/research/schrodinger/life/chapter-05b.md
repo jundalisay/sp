@@ -2,7 +2,7 @@
 heading: Chapter 5b
 title: "The Different States of Matter"
 weight: 42
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

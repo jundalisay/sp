@@ -2,7 +2,7 @@
 heading: Chapter 7c
 title: "Clockwork After All Statistical"
 weight: 58
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

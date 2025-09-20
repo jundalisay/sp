@@ -1,182 +1,94 @@
 ---
-title: Arachnids
+title: "Class 3: Radiates"
 heading: Chapter 8e
 description: 
-
 c: "deeppink"
 date: 2025-09-16
-weight: 79
+weight: 75
 ---
- 
-
-(Sixth Class of the Animal Kingdom)
-
-Oviparous animals, always having articulated limbs and eyes in the head; they do not undergo a metamorphosis and never possess wings or elytra; stigmata and limited trachaea for respiration; a rudimentary circulation system; several fertilizations in a lifetime.
-
-Observations
-
-The arachnids, which in the order which we have established come after the insects, show clear progress in the perfecting of organic structure.
-
-Sexual reproduction manifests itself with the arachnids, for the first time, with all its capabilities, since these animals couple and reproduce several times in their lives, 
-
-In the insects, the sexual organs, like those of plants, can only carry out a single fertilization. 
-
-The arachnids are the first animals in which the circulation system begins to become sketched out. 
-
-Cuvier writes that they have a heart extending from which, on the sides, are two or three pairs of vessels.
-
-The arachnids:
-- live in the air, like those insects which have reached the perfect condition
-- do not undergo any metamorphosis
-- never have wings and elytra, something which is not the result of some abortion
-- remain hidden or living by themselves, feeding on prey or by sucking blood.
-
-In the arachnids, the method of respiration is still the same as in the insects.
-
-But the method is on the point of changing. 
-
-The trachaea of arachnids:
-- are very limited (impoverished) 
-- do not extend to all the parts of the body
-
-Cuvier writes that these trachaea have been reduced to a few vesicles.
-
-After the arachnids, this method of respiration does not occur again in any of the classes of animals which follow.
-
-This class of animals needs to treated with care. Many of them are venemous, especially those which live in hot climates.
 
 
-## Table of Arachnids
+## Stage 2
+
+No longitudinal ganglionic chord, no vessels for circulation; a few special internal organs (either tubes or pores taking in water or species of ovaries) other than those for digestion.
 
 
-First Order: Arachnids Pedipalyps
+## Class 3: Radiates
 
-No antenna, only pedipalps; the head fused with the thorax; eight limbs
+These are subgemmiparous animals, free or wandering:
+- with regenerating bodies, a radiating arrangement of parts, both internal and external
+- compound organ of digestion; lower mouth, simple or multiple.  No head, no eyes, no articulated limbs; a few internal organs other than those for digestion.
 
-Mygale
-Spider
-Phrynus
-Thelyphnus
-Scorpion
------
-Pince
-Galeodes
-Faucheur
 
-Trogul
-Elais
-Trombidium
------
-Hydrachna
-Bdella
-Mite
-Nymphon
-Pycnogonum
+## Observations
 
-Second Order: Arachnids with Antenna
+<!-- Here is the third line of classic separation which it is useful to draw in the natural distribution of animals. -->
 
-Two antennae; a head distinct from the thorax
+<!-- Here we find entirely new forms which all nonetheless have affinities with a common similar type, as follows: -->
 
-Louse
-Ricinus
------
-Forbicina
-Podure
+These have a radiating arrangement of the parts, both interior and exterior.
 
------
-Scolopendre
-Scutigera
-Julus (millipede)
+These are no long animals with an elongated body, an upper terminal mouth, usually established in a polypary with a great number of them living together, each participating in a communal life.
 
-Fourth Degree of Organic Structure
+These are animals with a more complex organic structure than in the polyps, simple, always free, with a design which is unique to them, and generally orienting themselves in an inverted position.
 
-Nerves terminating in a longitudinal ganglionic chord or in a brain without a spinal chord; respiration with gills; arteries and veins for circulation.
+Almost all the radiata have tubes drawing in water which appear to be aquatic trachaea. And in a great number we find special bodies which look like ovaries.
 
-[The Crustaceans, the Annelids, the Cirripeds and the Mollusks]
+<!-- In a Memorandum which I have just heard read in the assembly of professors at the Museum, I learn than a wise observer,  -->
 
-CRUSTACEANS
+Doctor Spix, a Bavarian physician, has discovered a nervous system in star fishes and sea anemones.
 
-(Seventh Class of the Animal Kingdom)
+He says that in the red star-fish:
+- under a membrane made up of tendons (like a tent) there is suspended on the stomach a reticular structure made up of whitish nodules and threads 
+- at the origin of each ray, 2 nodules or ganglia which communicate with each other by a thread and from which other threads leave and go to parts close by; 
+- among others there are two very long threads which run through the full length of the ray and supply the tentacles.
 
-Oviparous animals, having articulated bodies and limbs, a crustaceous skin, several pairs of jaws, eyes and antennae in the head; respiration by gills; a heart and vessels for circulation.
+We see in each ray 2 nodules, a small extension of the stomach (coecum), two hepatic lobes, two ovaries and trachaeal canals.
 
-Observations
+In the sea-anemones, he observed at the base of these animals, below the stomach, a few pairs of nodules.
 
-Some significant changes in the organic structure of the animals of this class indicate that in forming the crustaceans nature has succeeded in making considerable progress in the organic structure of animals.
+These are arranged around a centre, which communicate with each other by cylindrical threads and which send out other threads to the upper parts. Moreover, he saw there four ovaries surrounding the stomach, from the base of which canals leave which, after joining up, open into a lower point of the alimentary canal.
 
-First, the method of respiration is here entirely different from that used in the arachnids and insects. And this method, made up of organs called gills, is going to continue right up to the fish. Trachaea do not appear again, and the gills themselves will disappear when nature is able to create a cellular lung.
+It is astonishing that such a complex organic apparatus has escaped the attention of all those who have examined the organic structure of these animals.
 
-Then, the circulation (which in the arachnids consists of only a simple outline) is fully established in the crustaceans, where we see a heart and arteries for sending out blood to the different parts of the body and veins which bring this fluid back to the principal organ responsible for its motion.
+If Doctor Spix was not imagining things in in what he believed he saw and if he was not wrong in attributing to these organisms a nature and functions different from what is appropriate to them (something which has happened to so many botanists who believed they saw male and female organs in almost all the cryptogram plants), then the consequences are as follows:
 
-We find again in the crustaceans the style of articulations which nature has universally used in the insects and the arachnids, to facilitate muscular movement with the help of indurations of the skin, but from this point on nature will abandon this method of setting up an organic structure which no longer will require it.
+(1) It is not in the insects that we must establish the commencement of a nervous system;
 
-The majority of crustaceans live in water, either fresh or brackish or salt. Some nonetheless remain on the earth and breathe air with their gills. All of them feed only on animal material.
+(2) This system must be considered as rudimentary in the insects, radiates, and even in the sea-anemone, the last genre of polyps;
 
-Table of Crustaceans
+(3) This is not a reason why all polyps should possess the rudiments of this system, in the same way that it does not follow that all reptiles are equipped with bills just because some have them.
 
-First Order: Sessile-Eyed Crustaceans
+(4) Finally, the nervous system is no less a special organ, not shared by all living bodies. For not only is it irrelevant in plants but it it is not even present in all the animals. 
 
-Sessile and immobile eyes
+It is impossible that the infusorians are furnished with a nervous system and assuredly polyps in general are not capable of having one. Thus, we would look for it in vain in the hydras, which nonetheless belong to the last order of polyps, the one closest to the radiates, since it includes the sea anemones.
 
-Wood-louse
-Ligia
-Asellus
-Cyamus
-Shrimp
-Caprella
------
-Cyclops
-Zoea
+Thus, whatever the basis for the facts cited above, the points which I present in this work on the successive formation of the different special organs remain valid no matter at what point in the animal scale each of these organs originates. And it is always the case that the abilities which the organs provide for the animal do not begin to operate until the organ which provides them come into existence.
 
-Cephaloculus
-Amymone
-Daphnia
-Lunceus
-Osole
-Limulus
-Coligus
-Polyphemus
 
-Second Order: Stalk Eyed Crustaceans
+## Radiate Orders
 
-Two distinct eyes raised on mobile stalks
+1. Soft Radiates -- Gelatinous body; soft skin, transparent, lacking articulated spines; no anus.
+2. Echinoderm Radiates -- Opaque skin, crustaceous or coriaceous, furnished with retractable tubercules or articulates spines on tubercules, and pierced with holes in a series.
+  - 2a: Stellerides. Skin not irritable, but mobile; no anus
+  - 2b: Echinoids. Skin not irritable, not mobile; an anus
+  - 2c: Fistulides. Elongated body, an irritable and mobile skin; an anus
 
-(1) Elongated tail, equipped with swimming blades or hooks or hairs
 
-Branchiopod
-Squilla
-Palaemon
-Galathea
-Ecrevissa
-Pagurus (hermit crab)
------
-Ranina
+## Table of Radiates
 
-Crangon
-Palinurus (rock lobster)
-Scyllarus
-Albunea
-Hippia 
-Corystes
-Porcellana
+Order | Members
+--- | ---
+1  | Stephanomia Lucernaria Physsophora Physalia Velella Porpita Pyrosoma Beroe Aequorea Rhizostoma Medusa
+2a | Ophiura Asteria
+2b | Clypeaster Cassidites Spatangus Ananchytes Galerites Nucleoites Sea urchin
+2c | Holothuria Sipunculus
 
-(2) Short tail, bare, and held against the under part of the abdomen
 
-Pinotheres
-Leocosia
-Arctopsis
-Maia
------
-Orithyia
-Podophtalmus
-Portunus
 
-Dorippe
-Plagusia
-Grapsus
-Ocypode
-Calappa
-Hepatus
-Dromia
-Cancer
+### Remarks
+
+The sipunculus are animals very close to worms. However their known affinities with the holothuria have led them to be placed among the radiates, with which they no longer share characteristics. Consequently, they must come at the end.
+
+In general, in a really natural distribution, the first and the last genera of classes are those in which the classical characteristics are less pronounced. Because they come at the limits of the class and the lines of separation are artificial, these genera must display to a lesser extent than the others the characteristics of their class.
 

@@ -2,7 +2,6 @@
 title: Classes of Animals Without Vertebrae
 heading: Chapter 5d
 description: Animals are living organic bodies, endowed with permanently irritable parts.
-
 c: "deeppink"
 date: 2025-09-16
 weight: 29
@@ -24,7 +23,7 @@ In 1807, I established among the animals without vertebrae a new 10th class, the
 Thus, in continuing to collect the facts gained through observation and through the rapid progress in comparative anatomy, I instituted successively the different classes which now make up my distribution of the animals without vertebrae. These classes, ten in number, are arranged from the most complex to the simplest, as is the custom, as follows:
 
 
-Classes of Animals Without Vertebrae
+## Classes of Animals Without Vertebrae
 
 Mollusks
 Cirrhipeds
@@ -104,3 +103,4 @@ This degradation is not nor can be finely demarcated.
 Yet it exists in the main groups so evidently and consistently.
 
 Even in the variations in the path, it depends on some general law which we should discover.
+

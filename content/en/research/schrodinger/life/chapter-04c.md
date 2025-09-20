@@ -2,7 +2,7 @@
 heading: Chapter 4c
 title: "First and Second Amendment"
 weight: 38
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

@@ -1,131 +1,93 @@
 ---
-title: Sternoptyges
-heading: Chapter 8h
-description: 
-
+title: Arachnids (6th Class)
+heading: Chapter 8e
+description:
 c: "deeppink"
 date: 2025-09-16
-weight: 89
+weight: 79
 ---
  
+These are oviparous animals with articulated limbs and eyes in the head.
+
+They:
+- do not undergo a metamorphosis and never possess wings or elytra
+- have stigmata and limited trachaea for respiration
+- have a rudimentary circulation system
+- have several fertilizations in a lifetime
 
 
-(2) An opercule over the gills but no membrane.
+## Observations
 
-STERNOPTYGES
+The arachnids, which in the order which we have established come after the insects, show clear progress in the perfecting of organic structure.
 
-31. . . . . . . . . . . . .
+Sexual reproduction manifests itself with the arachnids, for the first time, with all its capabilities, since these animals couple and reproduce several times in their lives, 
 
-Sternoptyx
+In the insects, the sexual organs, like those of plants, can only carry out a single fertilization. 
 
-(3) No opercule over the gills, but a membrane
+The arachnids are the first animals in which the circulation system begins to become sketched out. 
 
-32. . . . . . . . . . . .
+Cuvier writes that they have a heart extending from which, on the sides, are two or three pairs of vessels.
 
-Mormyrus
-Stylophorus
+The arachnids:
+- live in the air, like those insects which have reached the perfect condition
+- do not undergo any metamorphosis
+- never have wings and elytra, something which is not the result of some abortion
+- remain hidden or living by themselves, feeding on prey or by sucking blood.
 
-(4) No operculum nor membrane over the gills; no paired lower fins
+In the arachnids, the method of respiration is still the same as in the insects.
 
-OPHICHTHIANS
+But the method is on the point of changing. 
 
-33. . . . . . . . . . . 
+The trachaea of arachnids:
+- are very limited (impoverished) 
+- do not extend to all the parts of the body
 
-Unibranch aperture
-Sphagebranchus
+Cuvier writes that these trachaea have been reduced to a few vesicles.
 
-Murenophis
-Gymnomuraena
+After the arachnids, this method of respiration does not occur again in any of the classes of animals which follow.
 
-
-Since the skeleton started to form itself in the fish, those called cartilaginous are probably the least perfected fish, and consequently the most imperfect of all must be the gasterobranch which Linnaeus, under the name myxine, considered a worm.  
-
-Thus, in the order which we are following, the genus gasterobranch must be the first of the fish, because it is the least perfected.
+This class of animals needs to treated with care. Many of them are venemous, especially those which live in hot climates.
 
 
+## Table of Arachnids
 
-## REPTILES
 
-Viviparous animals, with vertebra and cold blood; breathing incompletely by a lung, at least in their later life; with a smooth skin or one covered in scales or a bony shell.
+### First Order: Arachnids Pedipalyps
 
-Observations
+No antenna, only pedipalps; the head fused with the thorax; eight limbs
 
-In the reptiles some progress in the perfectioning of organic structures is very noticeable, if we compare these animals with the fish.  For among them we find for the first time the lung, which we know is the most perfect respiratory organ, because it is the same as what is in man.  But here it is only sketchy, and several reptiles do not even have one in the early part of their lives.  In truth, they breathe only incompletely, for only a part of the blood is sent to the parts which go by the lung.
+Mygale
+Spider
+Phrynus
+Thelyphnus
+Scorpion
+-----
+Pince
+Galeodes
+Faucheur
 
-It is also among them that we see for the first time in a distinct way four limbs which are part of the design of vertebrate animals and which are appendages of (or depend upon) the skeleton.
+Trogul
+Elais
+Trombidium
+-----
+Hydrachna
+Bdella
+Mite
+Nymphon
+Pycnogonum
 
-Table of Reptiles
+Second Order: Arachnids with Antenna
 
-First ORDER: BATRACHIAN REPTILES
+Two antennae; a head distinct from the thorax
 
-Heart with one auricle; bare skin; two or four legs; gills in the first stage of life; no coupling
+Louse
+Ricinus
+-----
+Forbicina
+Podure
 
-Urodela
+-----
+Scolopendre
+Scutigera
+Julus (millipede)
 
-Siren
-Proteus
-
-Triton
-Salamander
-
-Anura
-
-Tree-frog
-Frog
-
-Pipa
-Toad
-
-SECOND  ORDER: OPHIDIAN REPTILES (SNAKES)
-
-Heart with one auricle; elongated body, narrow and without limbs or fins; no eyelids
-
-Homoderms
-
-Coecilia
-Amphisboena
-Acrochordus
-
-Ophisaurus
-Slow-worm
-Sea snake
-
-Heteroderms
-
-Crotalus
-Scytale
-Boa
-Erpeton
-
-Erix
-Viper
-Coluber
-Platurus
-
-THIRD ORDER: SAURIAN REPTILES
-
-Heart with two auricles; scaly body furnished with four limbs; claws on the digits; teeth in the jaw bones.
-
-Tereticauds
-
-Calcides
-Scincus
-Gecko
-Anolis
-Dragon
-
-Agama
-Lacerta
-Iguana
-Stellio
-Chamaeleon
-
-Planicauds
-
-Uroplates
-Tupinambis
-Basiliseus
-
-Lophura
-Dracaena
-Crocodile

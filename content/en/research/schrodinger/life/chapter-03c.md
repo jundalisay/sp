@@ -2,7 +2,7 @@
 heading: Chapter 3c
 title: "The Classical Physicist's Approach to the Subject"
 weight: 28
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

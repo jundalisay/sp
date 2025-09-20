@@ -2,7 +2,7 @@
 heading: Chapter 2d
 title: "The Outstanding Relevance Of The Reductive Division"
 weight: 20
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

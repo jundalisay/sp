@@ -2,7 +2,7 @@
 heading: Chapter 2c
 title: "Reductive Division (Meiosis) And Fertilization (Syngamy)"
 weight: 18
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

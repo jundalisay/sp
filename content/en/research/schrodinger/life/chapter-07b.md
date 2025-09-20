@@ -2,7 +2,7 @@
 heading: Chapter 7b
 title: "The Order-to-Order Principle"
 weight: 56
-c: "steelblue"
+c: "firebrick"
 description: "Each language has 5 fundamental characteristics"
 icon: "Schrodinger"
 writer:

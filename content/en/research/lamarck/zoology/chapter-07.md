@@ -3,10 +3,9 @@ title: The Influence of Circumstances
 # on the Actions and Habits of Animals
 heading: Chapter 7
 description: 
-
 c: "deeppink"
 date: 2025-09-16
-weight: 45
+weight: 52
 ---
 
 
@@ -101,10 +100,12 @@ A spring mixed with hot days and rainy days brings about in these same grasses a
 
 But if with these plants some causes perpetuate unfavourable circumstances, they will vary proportionally, at first in their bearing or their general condition, and later in several specific characteristics.
 
-For example, if a grain of some prairie grass or other is carried into a high place, onto a dry, arid, and rocky patch of land very exposed to the wind and can germinate there, the plant which can live in this place will always find itself malnourished, and if the individuals which it produces continue to exist in these poor circumstances, there will result a race truly different from the one which lives in the prairie (which is, however, the origin of the second race). 
+For example, if a grain of some prairie grass or other is carried into a high place, onto a dry, arid, and rocky patch of land very exposed to the wind and can germinate there, the plant which can live in this place will always find itself malnourished, and if the individuals which it produces continue to exist in these poor circumstances, there will result a race truly different from the one which lives in the prairie (which is, however, the origin of the second race).
 
 The individuals of this new race will be small, scrawny in their parts, and some of their organs, having undergone more development than others, will then manifest strange proportions.
 
 Those who have observed a great deal and consulted large collections have been convinced that as the conditions in the environment, exposure, climate, nourishment, way of life, and so on undergo changes, the characteristics of height, shape, proportions among the parts, colour, consistency, agility, and industry (for the animals) correspondingly change.
 
 What nature does with a great deal of time, we do every day, when on our own we suddenly change the conditions in which a living plant and all the individuals of its species are found.
+
+
