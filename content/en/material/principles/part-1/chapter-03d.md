@@ -10,6 +10,8 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 16
 icon: "Juan"
+aliases:
+  /material/principles/aethereal-relativity/
 ---
 
 

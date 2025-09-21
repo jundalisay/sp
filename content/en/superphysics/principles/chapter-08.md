@@ -9,7 +9,10 @@ writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Superphysics"
+aliases:
+  /superphysics/critical-feeling
 ---
+
 
 
 ## Feelings are Superior to Intellect
