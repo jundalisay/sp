@@ -10,8 +10,8 @@ writer:
 weight: 54
 icon: "Juan"
 toc: false
-aliases:
-  /material/principles/part-1/chapter-13c
+# aliases:
+#   /material/principles/part-1/chapter-13c
 ---
 
 
@@ -35,44 +35,68 @@ Two new mechanisms can replace fossil fuels as a reliable energy source:
 
 1. Nuclear Fusion
 
+<!-- This is already used in large UFOs -->
+
 2. Antimatter Reactors
 
+<!-- This is used in small UFOs such as the 'sport model' mentioned by Bob Lazar. -->
 
-While nuclear fusion is the future of large-scale power generation, such as those for cities, antimatter reactions are the future of small-scale power generation for large buildings to large vehicles, such as cargo ships and large airplanes. 
+
+While nuclear fusion is the future of large-scale power generation, such as those for cities, antimatter reactions are the future of small-scale power generation for buildings and vehicles, such as cargo ships, airplanes, and spaceships. 
 
 The biggest fission-fusion H-bomb, the Tsar Bomba, yielded 50 megatons of TNT using 8 tons of uranium (a finite resource), whereas an antimatter bomb can create the same with just over 1 ton of antihydrogen.
 
 In energy terms, 1 ton of antihydrogen is a much lighter and renewable battery than 8 tons of uranium. 
 
 
-### The Problem with Physics
+## The Problem with Physics
 
-The problem is that physicists don't really know how antimatter is created. They just go with Einstein's E=mc^2 and smash mass to get a zoo of particles, some of which are antimatter.
+The problem is that physicists don't really know how antimatter is created. They just go with Einstein's `E=mc^2` and smash matter to get a zoo of particles, some of which are antimatter.
 
 This leads to the current brute force approach:
 
 1. Protons are gathered into an electromagnetic beam
 2. The energy of the beam is increased through acceleration in cyclotrons from MeV to GeV
-3. The beam is then smashed into a block which is thought to receive "gluons" from the proton beam
-4. Those gluons then magically convert to quarks and antiquarks which then interact with the other quarks to produce subatomic particles, some of which are antimatter
-5. The antimatter is stored in electromagnetic decelerators
+3. The beam is then smashed into an iridium block which is thought to receive "gluons" from the proton beam
+4. Those gluons then magically convert to quarks and antiquarks which then interact with the other quarks to produce subatomic particles, some of which become antiprotons
+5. The antiprotons are stored in electromagnetic decelerators
 
 This whole approach is so inefficient and is why it will take 600,000,000 years to make 1 gram of antimatter.
 
 
-### The Aetherspace Particle Solution
+## The Aetherspace Particle Solution
 
-Cartesian-Spinoza Physics fixes this by pointing out the true binding mechanism of quarks is not the gluon, but the surrounding aetherspace particles. 
+Cartesian-Spinoza Physics fixes this by pointing out the true binding mechanism of quarks is not the gluon, but the aetherspace particles around a proton, which are 3 in number.
 
-image
+{{< youtube Z5drrFf2ZVs >}}
 
-Unlike normal spacetime which allows linear movement, the aetherspace allows probabilistic movement. This is why electrons do not orbit the proton, but rather jump around it in a cloud. A gluon field is an example of this cloud that is made up of round aetherspace particles. 
+Unlike normal space particles which allow linear movement, the aetherspace particles allow probabilistic movement. 
 
-{{< youtube 5YxtmlAK01c >}}
+This is why electrons do not orbit the proton, but rather jump around it in a cloud. 
 
-These particles surround the quarks, making them form a triangle which Physics calls gluon flux tubes. This triangle prevents internal movement and this is what makes solid bodies solid. 
+The gluon field is the center of this cloud, making up the center as the proton or neutron. 
 
-When protons are smashed, these particles cross over and break all triangles. 
+These aetherspace particles surround the quarks, making them form a triangle which Physics calls gluon flux tubes. This triangle prevents internal movement and this is what makes solid bodies solid. 
+
+When protons are smashed, these aetherspace particles break free from the triangle, converting from 'gluons' to 'mesons'. 
+
+```
+p + p → π+, π−, K+, K−, p, pˉ
+```
+
+All mesons, as pions, kaons, etc are made of particle and antiparticle pairs.
+
+High energy collisions create antiprotons. Low energy collisions just makes mesons which fizzle out. 
+
+In a way, the current method of antiproton production (for the Material Layer) is similar to splitting a photon by crystals (for the Radiant Layer).
+- The crystal creates the flipped photon by splitting the photon
+
+
+<!-- 1. Add Neutrons to an element 
+
+In a normal decay, such as `γ +N → e+ + e− + N`, the aetherspace is conserved
+
+3 + 2 = 3 -3 + 2
 
 1. An aetherspace particle breaks up into 4 free-aethers. One binds with a quark (1 aether), causing it to upgrade into a Z boson (2 aethers). This leaves 3 free aethers available. 
 2. The Z boson binds with 1 free aether, causing to upgrade into an electron (3 aethers). This leaves 2 free aethers. The "search" for that free aether is why the decay of the Z boson is not instantaneous.
@@ -85,30 +109,32 @@ It follows that antimatter, as manifestations of the free aether, is Nature's me
 
 This free aether is what Supersymmetry Theory was looking for in the large hadron collider but could never find since the aether cannot be detected by instruments.
 
-Energy from Nature is used to produce antimatter which it then gives back to Nature when it comes in contact with matter.
+Energy from Nature is used to produce antimatter which it then gives back to Nature when it comes in contact with matter. -->
 
 
-### A Non Brute Force Approach to Producing Antimatter
+## A Non Brute Force Approach to Producing Antimatter
 
-Since the mechanism for antimatter and the strong force is the aetherspace particle, then the focus should be on how to inject such particles into protons. It would be like using a sniper to get rid of a single terrorist instead of using a huge bomb to destroy his whole house, hoping that he is inside.
+Since the mechanism for antimatter is the aetherspace particle, and since antimatter is produced by reversing the spin of the aetherspace (in our analogy with the split photon), then the focus should be on how to flip the spin of the aetherspace of a proton. 
 
-Since the aetherspace is closer to the aether than to matter, then the physics of the aether should be understood. 
+This flipping is done by adding energy to a proton via the aether, and then storing it after it has flipped. 
 
-In the sniper analogy, the bullet is the free aether, the terrorist is the quark. So the key questions are:
-1. How to create a bullet
-2. How to make it go to the target
+This allows energy to be materially transportable, different from electricity which requires wires or specific conditions for wireless (Nikola Tesla) transmission.
+- Just convert proton to antiprotons at home.
+- Then pack them in antimatter storage and use them wherever you like.  
+
+This is why nuclear fusion and Tesla's global wireless energy transmission go together, just as antimatter power and UFOs do. 
+
+This is done by Gray UFOs (i.e. the sport model mentioned by Bob Lazar)
 
 
-### Connects to Simulation Theory
+## Semi-Unstable Element 115 
 
-Decartes and Spinoza define the aether as the substance of God that crosses over into physical reality. 
+The Gray UFOs use a Semi-Unstable version of Element 115, very different from the current Element 115 created by humans.  
 
-But since modern people (after the separation of Church and State) seem to be allergic to God, we will instead define it as the substance of the abstract mind, feelings, and ideas. In this way, the universe is a virtual reality similar to a video game with in-game Physics that are coded according to certain ideas and feelings.
+{{< youtube y--qXYtI_UA >}}
 
-This is Simulation Theory which is championed by founder of tech startups, most notably Elon Musk. This Simulation Theory is closely related to machine learning and artificial intelligence as the intelligence behind this simulation.    
+This means its aetherspaces of its isotopes are all nearly flipped so that the addition of a proton flips them all into antimatter which then collides with a gas to create energy. 
 
-It follows that the creation of this aether bullet, and for most things that deal with the aether, requires machine learning. Future posts can explain the rest of the process. 
+Instead of producing antiprotons by colliding protons with protons in a brute force high energy way, the better cheaper way is to use the aether to flip the aetherspace (or nearly flip them) of protons. 
 
-The key takeaway is that both antimatter and Simulation Theory, and everything in between, have the aether as their central mechanism since it is the substance of reality, as explained by Descartes and Spinoza. 
-
-The acceptance of this concept will allow more advanced realities and solutions to appear. The disbelief, on the contrary, will keep reality unchanged within the current status quo and its many problems.  
+This will make them semi-unstable which can be made fully unstable or unlocked by the addition of a proton, as explained by Bob Lazar.  

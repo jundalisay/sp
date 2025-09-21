@@ -13,17 +13,27 @@ writer:
 
 A subject is that which knows all things and is known by none.
 
-Thus it is the supporter of the world, that condition of all phenomena, of all objects which is always pre-supposed
-throughout experience; for all that exists, exists only for the
-subject. Every one finds himself to be subject, yet only in so
-far as he knows, not in so far as he is an object of knowledge.
+Thus it is:
+- the supporter of the world
+- the condition of all phenomena, of all objects which is always pre-supposed throughout experience
 
-But his body is object, and therefore from this point of view
-we call it idea. For the body is an object among objects, and is
-conditioned by the laws of objects, although it is an immediate
-object. Like all objects of perception, it lies within the universal
+For all that exists, exists only for the subject. 
+
+Every one is the subject, yet only in so far as he knows, not in so far as he is an object of knowledge.
+
+But his body is object.
+
+Therefore from this point of view, we call it idea. 
+
+For the body is:
+- an object among objects
+- conditioned by the laws of objects, although it is an immediate object. 
+
+Like all objects of perception, it lies within the universal
 forms of knowledge, time and space, which are the conditions of
-multiplicity. The subject, on the contrary, which is always the
+multiplicity. 
+
+The subject, on the contrary, which is always the
 knower, never the known, does not come under these forms, but is presupposed by them; it has therefore neither multiplicity nor
 its opposite unity. We never know it, but it is always the knower
 wherever there is knowledge.
@@ -54,7 +64,9 @@ the principle of sufficient reason is the general expression for all
 these forms of the object of which we are a priori conscious;
 and that therefore all that we know purely a priori, is merely
 the content of that principle and what follows from it; in it all
-our certain a priori knowledge is expressed. In my essay on the
+our certain a priori knowledge is expressed. 
+
+In my essay on the
 principle of sufficient reason I have shown in detail how every
 possible object comes under it; that is, stands in a necessary
 relation to other objects, on the one side as determined, on the

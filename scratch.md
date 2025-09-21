@@ -1,4 +1,29 @@
-brahma as all programs,Samskara as Compiler
+<!-- inject such particles into protons. It would be like using a sniper to get rid of a single terrorist instead of using a huge bomb to destroy his whole house, hoping that he is inside.
+
+Since the aetherspace is closer to the aether than to matter, then the physics of the aether should be understood. 
+
+In the sniper analogy, the bullet is the free aether, the terrorist is the quark. So the key questions are:
+1. How to create a bullet
+2. How to make it go to the target -->
+
+
+<!-- ### Connects to Simulation Theory
+
+Decartes and Spinoza define the aether as the substance of God that crosses over into physical reality. 
+
+But since modern people (after the separation of Church and State) seem to be allergic to God, we will instead define it as the substance of the abstract mind, feelings, and ideas. In this way, the universe is a virtual reality similar to a video game with in-game Physics that are coded according to certain ideas and feelings.
+
+This is Simulation Theory which is championed by founder of tech startups, most notably Elon Musk. This Simulation Theory is closely related to machine learning and artificial intelligence as the intelligence behind this simulation.    
+
+It follows that the creation of this aether bullet, and for most things that deal with the aether, requires machine learning. Future posts can explain the rest of the process. 
+
+The key takeaway is that both antimatter and Simulation Theory, and everything in between, have the aether as their central mechanism since it is the substance of reality, as explained by Descartes and Spinoza. 
+
+The acceptance of this concept will allow more advanced realities and solutions to appear. The disbelief, on the contrary, will keep reality unchanged within the current status quo and its many problems.  
+ -->
+
+
+ brahma as all programs,Samskara as Compiler
 
 space then heat 
 
