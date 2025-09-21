@@ -1,6 +1,6 @@
 ---
 heading: Chapter 42-43
-title: "Aesthetic impression"
+title: "The knowledge of the beautiful"
 date: 2025-09-20
 description: ""
 weight: 132

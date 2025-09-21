@@ -11,11 +11,9 @@ writer:
 ---
 
 
+The subjective part of æsthetic pleasure is that pleasure of delight in perceptive knowledge as such, in opposition to will.
 
-All these reflections are intended to bring out the
-subjective part of æsthetic pleasure; that is to say, that pleasure
-so far as it consists simply of delight in perceptive knowledge
-as such, in opposition to will. And as directly connected with
+And as directly connected with
 this, there naturally follows the explanation of that disposition or
 frame of mind which has been called the sense of the sublime.
 We have already remarked above that the transition to the

@@ -1,6 +1,6 @@
 ---
 heading: Chapter 61
-title: "The World As Idea"
+title: "Egoism"
 date: 2025-09-20
 description: ""
 weight: 204
@@ -11,8 +11,7 @@ writer:
 ---
 
 
-Book 2 wrote that in
-the whole of nature, at all the grades of the objectification of
+Book 2 wrote that in the whole of nature, at all the grades of the objectification of
 will, there was a necessary and constant conflict between the
 individuals of all species; and in this way was expressed the
 inner contradiction of the will to live with itself. At the highest
@@ -36,47 +35,24 @@ Therefore every one desires everything for himself, desires to
 possess, or at least to control, everything, and whatever opposes
 it it would like to destroy. 
 
-To this is added, in the case
-of such beings as have knowledge, that the individual is the
-supporter of the knowing subject, and the knowing subject is the supporter of the world, i.e., that the whole of Nature
-outside the knowing subject, and thus also all other individuals,
-exist only in its idea; it is only conscious of them as its idea,
-thus merely indirectly as something which is dependent on its
-own nature and existence; for with its consciousness the world
-necessarily disappears for it, i.e., its being and non-being become
-synonymous and indistinguishable. Every knowing individual is
-thus in truth, and finds itself as the whole will to live, or the
-inner being of the world itself, and also as the complemental
-condition of the world as idea, consequently as a microcosm
-which is of equal value with the macrocosm. Nature itself, which
-is everywhere and always truthful, gives him this knowledge,
-originally and independently of all reflection, with simple and
-direct certainty. Now from these two necessary properties we
-have given the fact may be explained that every individual,
-though vanishing altogether and diminished to nothing in the
-boundless world, yet makes itself the centre of the world, has
-regard for its own existence and well-being before everything
-else; indeed, from the natural standpoint, is ready to sacrifice
-everything else for this—is ready to annihilate the world in order
-to maintain its own self, this drop in the ocean, a little longer.
+To this is added, in the case of such beings as have knowledge, that the individual is the supporter of the knowing subject, and the knowing subject is the supporter of the world, i.e., that the whole of Nature outside the knowing subject, and thus also all other individuals, exist only in its idea; it is only conscious of them as its idea, thus merely indirectly as something which is dependent on its own nature and existence; for with its consciousness the world necessarily disappears for it, i.e., its being and non-being become synonymous and indistinguishable.
 
-This disposition is egoism, which is essential to everything in
-Nature. Yet it is just through egoism that the inner conflict of
-the will with itself attains to such a terrible revelation; for this
-egoism has its continuance and being in that opposition of the
-microcosm and macrocosm, or in the fact that the objectification
-of will has the principium individuationis for its form, through
-which the will manifests itself in the same way in innumerable
-individuals, and indeed entire and completely in both aspects
-(will and idea) in each. Thus, while each individual is given to
-itself directly as the whole will and the whole subject of ideas,[429]
-other individuals are only given it as ideas. Therefore its own
+Every knowing individual is thus in truth, and finds itself as the whole will to live, or the inner being of the world itself, and also as the complemental condition of the world as idea, consequently as a microcosm which is of equal value with the macrocosm. Nature itself, which is everywhere and always truthful, gives him this knowledge, originally and independently of all reflection, with simple and direct certainty.
+
+These 2 necessary properties explain that every individual, though vanishing altogether and diminished to nothing in the boundless world, yet makes itself the centre of the world, has regard for its own existence and well-being before everything else.
+
+From the natural standpoint, is ready to sacrifice everything else for this—is ready to annihilate the world in order to maintain its own self, this drop in the ocean, a little longer.
+
+This disposition is egoism, which is essential to everything in Nature. Yet it is just through egoism that the inner conflict of the will with itself attains to such a terrible revelation; for this egoism has its continuance and being in that opposition of the microcosm and macrocosm, or in the fact that the objectification of will has the principium individuationis for its form, through which the will manifests itself in the same way in innumerable individuals, and indeed entire and completely in both aspects (will and idea) in each.
+
+Thus, while each individual is given to
+itself directly as the whole will and the whole subject of ideas, other individuals are only given it as ideas. Therefore its own
 being, and the maintenance of it, is of more importance to it than
-that of all others together. Every one looks upon his own death
-427
-as upon the end of the world, while he accepts the death of his
+that of all others together. Every one looks upon his own death as upon the end of the world, while he accepts the death of his
 acquaintances as a matter of comparative indifference, if he is not
-in some way affected by it. In the consciousness that has reached
+in some way affected by it. 
+
+In the consciousness that has reached
 the highest grade, that of man, egoism, as well as knowledge,
 pain and pleasure, must have reached its highest grade also, and
 the conflict of individuals which is conditioned by it must appear

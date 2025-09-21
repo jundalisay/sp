@@ -1,6 +1,6 @@
 ---
 heading: Chapter 62
-title: "The World As Idea"
+title: "The Will to Live"
 date: 2025-09-20
 description: ""
 weight: 207
@@ -12,8 +12,7 @@ writer:
 
 
 
-The first and simplest
-assertion of the will to live is only the assertion of one's own
+The first and simplest assertion of the will to live is only the assertion of one's own
 body, i.e., the exhibition of the will through acts in time, so far as
 the body, in its form and design, exhibits the same will in space,
 and no further. 
@@ -25,12 +24,15 @@ belongs to it, because the genitals belong to the body. Therefore
 voluntary renunciation of the satisfaction of that impulse, based
 upon no motive, is already a denial of the will to live, is a voluntary
 self-suppression of it, upon the entrance of knowledge which acts
-as a quieter. Accordingly such denial of one's own body exhibits
+as a quieter. 
+
+Accordingly such denial of one's own body exhibits
 itself as a contradiction by the will of its own phenomenon. For
 although here also the body objectifies in the genitals the will to
 perpetuate the species, yet this is not willed. Just on this account,
 because it is a denial or suppression of the will to live, such a
 renunciation is a hard and painful self-conquest; but of this later.
+
 But since the will exhibits that self-assertion of one's own body in
 innumerable individuals beside each other, it very easily extends
 in one individual, on account of the egoism peculiar to them all,
@@ -66,12 +68,13 @@ abstracto, but as an obscure feeling; and this is called remorse,
 or, more accurately in this case, the feeling of wrong committed.
 Wrong, the conception of which we have thus analysed in its
 most general and abstract form, expresses itself in the concrete
-most completely, peculiarly, and palpably in cannibalism. This
+most completely, peculiarly, and palpably in cannibalism. 
+
+This
 is its most distinct and evident type, the terrible picture of the
 greatest conflict of the will with itself at the highest grade of its
 objectification, which is man. Next to this, it expresses itself
-most distinctly in murder; and therefore the committal of murder [432]
-is followed instantly and with fearful distinctness by remorse,
+most distinctly in murder; and therefore the committal of murder is followed instantly and with fearful distinctness by remorse,
 the abstract and dry significance of which we have just given,
 which inflicts a wound on our peace of mind that a lifetime
 cannot heal. For our horror at the murder committed, as also our
@@ -81,12 +84,10 @@ of the will to live, is penetrated. (We shall analyse this feeling
 which accompanies the doing of wrong and evil, in other words,
 the pangs of conscience, more fully later on, and raise its concept to distinctness.) Mutilation, or mere injury of another body,
 indeed every blow, is to be regarded as in its nature the same
-as murder, and differing from it only in degree. Further, wrong
-shows itself in the subjugation of another individual, in forcing
-him into slavery, and, finally, in the seizure of another's goods,
-which, so far as these goods are regarded as the fruit of his labour,
-is just the same thing as making him a slave, and is related to this
-as mere injury is to murder.
+as murder, and differing from it only in degree. 
+
+Wrong shows itself in the subjugation of another individual, in forcing him into slavery, and, finally, in the seizure of another's goods, which, so far as these goods are regarded as the fruit of his labour, is just the same thing as making him a slave, and is related to this as mere injury is to murder.
+
 For property, which is not taken from a man without wrong,
 can, according to our explanation of wrong, only be that which
 has been produced by his own powers. Therefore by taking this
@@ -723,9 +724,11 @@ to exhibit it as distinctly as possible. The same thing is in its
 essence contained in what Puffendorf says on the subject, “De
 Officio Hominis et Civis” (Bk. ii. chap. 12). 
 
-Hobbes also agrees
-with it, “Leviathan” (chaps. 15-28). In our own day Feurbach is
-well known to have maintained it. Indeed, it occurs even in the
+Hobbes also agrees with it, “Leviathan” (chaps. 15-28). 
+
+Feurbach maintained it. 
+
+It occurs even in the
 utterances of the ancient philosophers. Plato expresses it clearly
 in the “Protagoras” (p. 114, edit. Bip.), also in the “Gorgias”
 (p. 168), and lastly in the eleventh book of the “Laws” (p. 165).
@@ -745,16 +748,15 @@ rest of nature more and more serviceable. But as yet the state has
 always remained very far from this goal. And even if it attained
 to it, innumerable evils essential to all life would still keep it
 in suffering; and finally, if they were all removed, ennui would
-at once occupy every place they left. And besides, the strife[452]
-of individuals is never completely abolished by the state, for it
-vexes in trifles when it is prohibited in greater things. Finally,
+at once occupy every place they left. And besides, the strife of individuals is never completely abolished by the state, for it
+vexes in trifles when it is prohibited in greater things. 
+
+Finally,
 Eris, happily expelled from within, turns to what is without; as
 the conflict of individuals, she is banished by the institution of
 the state; but she reappears from without as the war of nations,
 and now demands in bulk and at once, as an accumulated debt,
-the bloody sacrifice which by wise precautions has been denied
-449
-her in the particular. And even supposing that all this were finally
+the bloody sacrifice which by wise precautions has been denied her in the particular. And even supposing that all this were finally
 overcome and removed, by wisdom founded on the experience
 of thousands of years, at the end the result would be the actual
 over-population of the whole planet, the terrible evil of which

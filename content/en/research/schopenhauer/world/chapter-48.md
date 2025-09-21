@@ -1,6 +1,6 @@
 ---
 heading: Chapter 47-48
-title: "Art and Painting"
+title: "Beauty and Grace"
 date: 2025-09-20
 description: ""
 weight: 149

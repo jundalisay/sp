@@ -1,6 +1,6 @@
 ---
 heading: Chapter 45
-title: "Aesthetic impression"
+title: "Human beauty"
 date: 2025-09-20
 description: ""
 weight: 140

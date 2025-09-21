@@ -108,10 +108,10 @@ him from without by instruction, otherwise we could transform
 him. Seneca says admirably, velle non discitur; whereby he
 preferred truth to his Stoic philosophers, who taught ¥π¥±∫ƒ∑Ω
 μπΩ±π ƒ∑Ω ±¡μƒ∑Ω (doceri posse virtutem). From without the
-will can only be affected by motives. But these can never [380]
-change the will itself; for they have power over it only under
-380 The World As Will And Idea (Vol. 1 of 3)
-the presupposition that it is precisely such as it is. All that they
+will can only be affected by motives. 
+
+But these can never
+change the will itself; for they have power over it only under the presupposition that it is precisely such as it is. All that they
 can do is thus to alter the direction of its effort, i.e., bring it
 about that it shall seek in another way than it has hitherto done
 that which it invariably seeks. Therefore instruction, improved

@@ -1,8 +1,8 @@
 ---
 heading: Chapter 55
-title: "What is Genius?"
+title: "Free will"
 date: 2025-09-20
-description: ""
+description: "Free will is from will being the thing-in-itself, the content of all phenomena. "
 weight: 170
 icon: Schopenhauer
 writer:
@@ -11,7 +11,13 @@ writer:
 ---
 
 
-That the will as such is free, follows from the fact that, according to our view, it is the thing-in-itself, the content of all phenomena. The phenomena, on the other hand, we recognise as absolutely subordinate to the principle of sufficient reason in its four forms. And since we know that necessity is throughout identical with following from given grounds, and that these are convertible conceptions, all that belongs to the phenomenon, i.e., all that is object for the knowing subject as individual, is in one aspect reason, and in another aspect consequent; and in this last capacity is determined with absolute necessity, and can, therefore, in no respect be other than it is. The whole content of Nature, the collective sum of its phenomena, is thus throughout necessary, and the necessity of every part, of every phenomenon, of every event, can always be proved, because it must be possible to find the reason from which it follows as a consequent. This admits of no exception: it follows from the unrestricted validity of the principle of sufficient reason.
+Free will is from will being the thing-in-itself, the content of all phenomena. 
+
+The phenomena is subordinate to the principle of sufficient reason in its 4 forms. 
+
+Necessity is throughout identical with following from given grounds, and that these are convertible conceptions, all that belongs to the phenomenon, i.e., all that is object for the knowing subject as individual, is in one aspect reason, and in another aspect consequent.
+
+In this last capacity is determined with absolute necessity, and can, therefore, in no respect be other than it is. The whole content of Nature, the collective sum of its phenomena, is thus throughout necessary, and the necessity of every part, of every phenomenon, of every event, can always be proved, because it must be possible to find the reason from which it follows as a consequent. This admits of no exception: it follows from the unrestricted validity of the principle of sufficient reason.
 
 In another aspect, however,
 the same world is for us, in all its phenomena, objectivity of
@@ -54,11 +60,12 @@ reveals itself, but in this again his intelligible character, the will
 in itself, whose determined phenomenon he is. But man is the
 most complete phenomenon of will, and, as we explained in the
 Second Book, he had to be enlightened with so high a degree
-of knowledge in order to maintain himself in existence, that in [371]
+of knowledge in order to maintain himself in existence, that in 
 it a perfectly adequate copy or repetition of the nature of the
 world under the form of the idea became possible: this is the
-comprehension of the Ideas, the pure mirror of the world, as we
-learnt in the Third Book. Thus in man the will can attain to
+comprehension of the Ideas, the pure mirror of the world, as we learnt in Book 3. 
+
+Thus in man the will can attain to
 full self-consciousness, to distinct and exhaustive knowledge of
 its own nature, as it mirrors itself in the whole world. We saw
 in the preceding book that art springs from the actual presence

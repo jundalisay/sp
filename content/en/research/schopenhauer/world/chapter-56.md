@@ -1,6 +1,6 @@
 ---
 heading: Chapter 56
-title: "What is Genius?"
+title: "The will to live"
 date: 2025-09-20
 description: ""
 weight: 182

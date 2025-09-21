@@ -1,6 +1,6 @@
 ---
 heading: Chapter 57
-title: "What is Genius?"
+title: "The suffering and misery of life"
 date: 2025-09-20
 description: ""
 weight: 186
@@ -28,13 +28,15 @@ entirely done with, dead, and no longer anything; and, therefore,
 it must be, as a matter of reason, indifferent to him whether the
 content of that past was pain or pleasure. 
 
-But the present is always passing through his hands into the past; the future is quite uncertain and always short. Thus his existence, even when we consider only its formal side, is a constant hurrying of the present into the dead past, a constant dying. But if we look at it from the physical side; it is clear that, as our walking is admittedly merely a constantly prevented falling, the life of our body is only a constantly prevented dying, an ever-postponed death: finally, in the same way, the activity of our mind is a constantly deferred ennui. Every breath we draw wards off the death that is[402] constantly intruding upon us. In this way we fight with it every moment, and again, at longer intervals, through every meal we eat, every sleep we take, every time we warm ourselves, &c. In the end, death must conquer, for we became subject to him through birth, and he only plays for a little while with his prey before he swallows it up. We pursue our life, however, with great interest and much solicitude as long as possible, as we blow out a soap-bubble as long and as large as possible, although we know perfectly well that it will burst.
+But the present is always passing through his hands into the past; the future is quite uncertain and always short. Thus his existence, even when we consider only its formal side, is a constant hurrying of the present into the dead past, a constant dying. But if we look at it from the physical side; it is clear that, as our walking is admittedly merely a constantly prevented falling, the life of our body is only a constantly prevented dying, an ever-postponed death: finally, in the same way, the activity of our mind is a constantly deferred ennui. Every breath we draw wards off the death that is constantly intruding upon us. In this way we fight with it every moment, and again, at longer intervals, through every meal we eat, every sleep we take, every time we warm ourselves, &c. In the end, death must conquer, for we became subject to him through birth, and he only plays for a little while with his prey before he swallows it up. We pursue our life, however, with great interest and much solicitude as long as possible, as we blow out a soap-bubble as long and as large as possible, although we know perfectly well that it will burst.
 
 We saw that the inner being of unconscious nature is a constant
 striving without end and without rest. And this appears to us
 much more distinctly when we consider the nature of brutes and
 man. Willing and striving is its whole being, which may be
-very well compared to an unquenchable thirst. But the basis
+very well compared to an unquenchable thirst. 
+
+But the basis
 of all willing is need, deficiency, and thus pain. Consequently,
 the nature of brutes and man is subject to pain originally and
 through its very being. If, on the other hand, it lacks objects
@@ -63,7 +65,9 @@ every day, occupies, as a rule, the whole of human life.
 
 To this is
 directly related the second claim, that of the propagation of the
-species. At the same time he is threatened from all sides by the
+species. 
+
+At the same time he is threatened from all sides by the
 most different kinds of dangers, from which it requires constant watchfulness to escape. With cautious steps and casting anxious
 glances round him he pursues his path, for a thousand accidents
 and a thousand enemies lie in wait for him. Thus he went while
@@ -78,7 +82,9 @@ this existence itself, with the certainty of losing it at last. But
 what enables them to endure this wearisome battle is not so
 much the love of life as the fear of death, which yet stands in
 the background as inevitable, and may come upon them at any
-moment. Life itself is a sea, full of rocks and whirlpools, which
+moment. 
+
+Life itself is a sea, full of rocks and whirlpools, which
 man avoids with the greatest care and solicitude, although he
 knows that even if he succeeds in getting through with all his
 efforts and skill, he yet by doing so comes nearer at every step
@@ -87,8 +93,7 @@ death; nay, even steers right upon it: this is the final goal of
 the laborious voyage, and worse for him than all the rocks from
 which he has escaped.
 
-Now it is well worth observing that, on the one hand,[404]
-the suffering and misery of life may easily increase to such
+The suffering and misery of life may easily increase to such
 an extent that death itself, in the flight from which the whole
 of life consists, becomes desirable, and we hasten towards it
 voluntarily; and again, on the other hand, that as soon as want

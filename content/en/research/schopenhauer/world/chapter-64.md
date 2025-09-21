@@ -1,8 +1,8 @@
 ---
 heading: Chapter 64
-title: "Temporal Justice"
+title: "Eternal Justice"
 date: 2025-09-20
-description: ""
+description: "What is the nature of that eternal justice?"
 weight: 216
 icon: Schopenhauer
 writer:
@@ -12,19 +12,27 @@ writer:
 
 
 
-From our exposition of eternal justice, which is
+<!-- From our exposition of eternal justice, which is
 not mythical but philosophical, we will now proceed to the
 kindred investigation of the ethical significance of conduct and
 of conscience, which is the merely felt knowledge of that
-significance. But first I wish at this point to draw attention
-to two peculiarities of human nature, that might help to make
-clear how the nature of that eternal justice, and the unity and
-identity of the will in all its phenomena upon which it rests, is
-known to every one, at least as an obscure feeling.
+significance.  -->
+
+
+What is the nature of that eternal justice?
+
+Human nature has 2 peculiarities that make us obscurely feel:
+- eternal justice
+- the unity and identity of the will
+
+<!--  in all its phenomena upon which it rests, is
+known to every one, at least as an . -->
+
 When a bad deed has been done, it affords satisfaction not only
 to the sufferer, who for the most part feels the desire of revenge, but also to the perfectly indifferent spectator, to see that he who
-caused another pain suffers himself a like measure of pain; and
-this quite independently of the end which we have shown the state
+caused another pain suffers himself a like measure of pain.
+
+This quite independently of the end which we have shown the state
 has in view in punishment, and which is the foundation of penal
 law. It seems to me that what expresses itself here is nothing but
 the consciousness of that eternal justice, which is, nevertheless,

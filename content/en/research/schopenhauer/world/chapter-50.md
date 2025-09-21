@@ -1,6 +1,6 @@
 ---
 heading: Chapter 50
-title: "Art and Painting"
+title: "Symbolism"
 date: 2025-09-20
 description: ""
 weight: 156
@@ -78,7 +78,8 @@ or a bas-relief, which is also the shield of Achilles. True lovers
 of art will allow neither the one nor the other. It is true that an
 allegorical picture may, because of this quality, produce a vivid
 impression upon the feelings; but when this is the case, a legend
-312 The World As Will And Idea (Vol. 1 of 3)
+
+
 would under the same circumstances produce the same effect.
 For example, if the desire of fame were firmly and lastingly[308]
 rooted in the heart of a man, because he regarded it as his rightful
@@ -96,6 +97,7 @@ affect him powerfully; but the same effect would be produced
 by the legend: “Le temps découvre la vérité.” For what really
 produces the effect here is the abstract thought, not the object of
 perception.
+
 If then, in accordance with what has been said, allegory in
 plastic and pictorial art is a mistaken effort, serving an end
 which is entirely foreign to art, it becomes quite unbearable
@@ -112,9 +114,9 @@ signified by it, founded on subsumption under the concept,
 or association of Ideas; but the signs and the things signified
 are combined in a purely conventional manner, by positive,
 accidentally introduced laws; then I call this degenerate kind of
-allegory Symbolism. Thus the rose is the symbol of secrecy, the
-313
-laurel is the symbol of fame, the palm is the symbol of peace, [309]
+allegory Symbolism. 
+
+Thus the rose is the symbol of secrecy, the laurel is the symbol of fame, the palm is the symbol of peace, [309]
 the scallop-shell is the symbol of pilgrimage, the cross is the
 symbol of the Christian religion. To this class also belongs all
 significance of mere colour, as yellow is the colour of falseness,

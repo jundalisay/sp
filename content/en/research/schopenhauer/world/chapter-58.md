@@ -1,6 +1,6 @@
 ---
 heading: Chapter 58
-title: "What is Genius?"
+title: "What is Happiness?"
 date: 2025-09-20
 description: ""
 weight: 190
@@ -12,41 +12,21 @@ writer:
 
 
 
-All satisfaction, or what is commonly called happiness,
-is always really and essentially only negative, and never positive.
-It is not an original gratification coming to us of itself, but must
-always be the satisfaction of a wish. The wish, i.e., some want,
-is the condition which precedes every pleasure. But with the
-satisfaction the wish and therefore the pleasure cease. Thus
-the satisfaction or the pleasing can never be more than the[412]
-deliverance from a pain, from a want; for such is not only
-every actual, open sorrow, but every desire, the importunity
-of which disturbs our peace, and, indeed, the deadening ennui
-also that makes life a burden to us. It is, however, so hard
-to attain or achieve anything; difficulties and troubles without
-end are opposed to every purpose, and at every step hindrances
-accumulate. But when finally everything is overcome and
-attained, nothing can ever be gained but deliverance from some
-sorrow or desire, so that we find ourselves just in the same
-position as we occupied before this sorrow or desire appeared.
+Happiness is always essentially only negative, and never positive.
 
-All that is even directly given us is merely the want, i.e., the pain.
-The satisfaction and the pleasure we can only know indirectly
-through the remembrance of the preceding suffering and want, which ceases with its appearance. Hence it arises that we are not
-properly conscious of the blessings and advantages we actually
-possess, nor do we prize them, but think of them merely as a
-matter of course, for they gratify us only negatively by restraining
-suffering. Only when we have lost them do we become sensible
-of their value; for the want, the privation, the sorrow, is the
-positive, communicating itself directly to us. Thus also we are
-pleased by the remembrance of past need, sickness, want, and
-such like, because this is the only means of enjoying the present
-blessings. And, further, it cannot be denied that in this respect,
-and from this standpoint of egoism, which is the form of the
-will to live, the sight or the description of the sufferings of
-others affords us satisfaction and pleasure in precisely the way
-Lucretius beautifully and frankly expresses it in the beginning of
-the Second Book—
+It is not an original gratification coming to us of itself, but is always the satisfaction of a wish. 
+
+The wish, i.e., some want, is the condition which precedes every pleasure. 
+
+But with the satisfaction the wish and therefore the pleasure cease.
+
+Thus the satisfaction or the pleasing can never be more than the deliverance from a pain, from a want; for such is not only every actual, open sorrow, but every desire, the importunity of which disturbs our peace, and, indeed, the deadening ennui also that makes life a burden to us. It is, however, so hard to attain or achieve anything; difficulties and troubles without end are opposed to every purpose, and at every step hindrances accumulate. But when finally everything is overcome and attained, nothing can ever be gained but deliverance from some sorrow or desire, so that we find ourselves just in the same position as we occupied before this sorrow or desire appeared.
+
+All that is even directly given us is merely the want, i.e., the pain. The satisfaction and the pleasure we can only know indirectly through the remembrance of the preceding suffering and want, which ceases with its appearance. Hence it arises that we are not properly conscious of the blessings and advantages we actually possess, nor do we prize them, but think of them merely as a matter of course, for they gratify us only negatively by restraining suffering. 
+
+Only when we have lost them do we become sensible of their value; for the want, the privation, the sorrow, is the positive, communicating itself directly to us. Thus also we are pleased by the remembrance of past need, sickness, want, and such like, because this is the only means of enjoying the present blessings. 
+
+It cannot be denied that in this respect, and from this standpoint of egoism, which is the form of the will to live, the sight or the description of the sufferings of others affords us satisfaction and pleasure in precisely the way Lucretius beautifully and frankly expresses it in the beginning of the Second Book—
 
 “Suave, mari magno, turbantibus æquora ventis,
 E terra magnum alterius spectare laborem:
@@ -56,6 +36,7 @@ Sed, quibus ipse malis careas, quia cernere suave est.”
 Yet we shall see farther on that this kind of pleasure, through [413]
 knowledge of our own well-being obtained in this way, lies very
 near the source of real, positive wickedness.
+
 That all happiness is only of a negative not a positive nature,
 that just on this account it cannot be lasting satisfaction and
 gratification, but merely delivers us from some pain or want
