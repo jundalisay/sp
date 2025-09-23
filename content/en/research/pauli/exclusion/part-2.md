@@ -36,19 +36,21 @@ strong magnetic field the general formulation of the exclusion principle became 
 
 The fundamental idea is:
 
-The complicated numbers of electrons in closed subgroups are reduced to the simple number one if the division of the groups by giving the values of the 4 quantum numbers of an electron is carried so far that every degeneracy is removed.
+The complicated numbers of electrons in closed subgroups are reduced to the simple number '1' if the division of the groups by giving the values of the 4 quantum numbers of an electron is carried so far that every degeneracy is removed.
 
-An entirely non-degenerate energy level is already « closed », if it is occupied by a single electron.
+An entirely non-degenerate energy level is already 'closed' if it is occupied by a single electron. States in contradiction with this postulate have to be excluded.
 
-States in contradiction with this postulate have to be excluded.
+<!-- general formulation of the -->
 
-The exposition of this general formulation of the exclusion principle was made in Hamburg in the spring of 1925 after I was able to verify some additional conclusions concerning the anomalous Zeeman effect of more complicated atoms during a visit to Tübingen with the help of the spectroscopic material assembled there.
+The exposition of this **exclusion principle** was made in Hamburg in the spring of 1925 after I verified some more conclusions on the anomalous Zeeman effect.
+
+ <!-- of more complicated atoms during a visit to Tübingen with the help of the spectroscopic material assembled there. -->
 
 <!-- With the exception of experts on the classification of spectral terms,  -->
 
-The physicists found it difficult to understand the exclusion principle, since no meaning in terms of a model was given to the fourth degree of freedom of the electron. 
+The physicists found it difficult to understand the exclusion principle since no meaning in terms of a model was given to the fourth degree of freedom of the electron.
 
-The gap was filled by Uhlenbeck and Goudsmit’s idea of electron spin.
+**The gap was filled by Uhlenbeck and Goudsmit’s idea of electron spin.**
 
 Through it, the anomalous Zeeman effect could be understood simply by assuming that:
 - the spin quantum number of one electron is equal to 1⁄2

@@ -1,5 +1,5 @@
 ---
-title: "Questions about Elementals and Animals"
+title: "Questions about Elementals"
 weight: 15
 image: "/photos/meta/fairy.jpg"
 description: "Bashar answers Questions about Elementals"
@@ -33,16 +33,3 @@ But now elementals are more important because of the opening the senses and reme
 
 You can connect to them without losing focus of your physical reality. 
 {{< /l >}}
-
-
-
-{{< r a="Woman" >}}
-How can we communicate with animals?
-{{< /r >}}
-
-{{< l a="Bashar" >}}
-Have a deep love for the animals that you will communicate with. Treat them as family with true bonds. 
-
-Then add imagery in your mind, think in pictures of what you want to communicate to them. 
-{{< /l >}}
-

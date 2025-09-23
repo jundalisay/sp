@@ -3,47 +3,78 @@ title: The Right to Lay Waste an Enemy's Country, and Carry Off His Effects
 heading: Chapter 5b
 weight: 18
 c: "seagreen"
-description: 
+description: "In private actions during war, individuals acquire an absolute and direct property in the things they take"
 author: "Hugo Grotius"
 icon: "Hugo Grotius"
 ---
 
+<sup>10</sup> A distinction must be made between actions in war that are:
+- public in nature, versus
+- private but occasioned by public war
 
-## Part 10
+In private actions during war, individuals acquire an absolute and direct property in the things they take.
 
-A distinction must be made between actions in war, that are really of a PUBLIC NATURE, and the acts of INDIVIDUALS, occasioned by public war. 
+In public actions, the state makes those acquisitions.
 
- by the latter, individuals acquire an absolute and direct property, in the things, which they take, and by the former, the state makes those acquisitions. Upon this principle of the law of nations Scipio treated with Masinissa, stating that as it was under the auspices of the Roman people, that Syphax was conquered and taken prisoner, himself, his wife, his kingdom, his territory, his towns, and subjects inhabiting those towns, in short, every thing belonging to him became a lawful prize to the Roman people. 
+On this principle, Scipio said regarding Masinissa that the Roman people conquered and gained, as a a lawful prize, Syphax and everything that was his:
+- himself
+- his wife
+- his kingdom and territory
+- his towns and subjects inhabiting those towns
 
-In the same way, Antiochus the Great maintained that Coelo-Syria belonged to Seleucus, and not to Ptolemy, because Seleucus had been the principal in the war, to which Ptolemy had contributed his assistance. In the fifth book of Polybius, there is an account of the matter.
+ <!-- in short, every thing belonging to him became  to .  -->
 
+In the same way, Antiochus the Great maintained that Coelo-Syria belonged to Seleucus and not to Ptolemy.
+- This was because Ptolemy had aided Seleucus who was the principal in the war
 
-## Part 11
-
-Things immoveable are generally taken by some public act, such as marching an army into the country, or placing garrisons there. So that, as Pomponius has said, "lands taken from the enemy become the property of the state, and form no part of the booty belonging to the individual captors." Thus among the Hebrews and Lacedaemonians, lands that were made a conquest, were340 divided by lot. The Romans too either retained conquered lands to let them out for rent, sometimes leaving a small portion to the ancient possessor, or divided them among colonists, whom they sent out, or made them tributary; innumerable instances of which we meet with in their histories, their laws, and treaties on the admeasurements of lands.
-
-
-## Part 12
-
-But things moveable, whether inanimate, or living, are taken either as connected or unconnected with the public service. When unconnected with the public service, they become the property of the individual captors.62
-
-Reference may here be made to the remark of Celsus, that "enemy's goods found among us do not belong to the state, but to the prior occupant." By which are meant things found among us at the breaking out of a war. For the same was observed of persons, when, under the same circumstances, they were considered as goods taken.
-
-On this subject there is a remarkable passage in Tryphoninus. "Those persons, says he, who have gone into a foreign country in time of peace, upon the sudden breaking out of war, are made slaves by those, among whom it is their misfortune to be found, being considered as enemies."
+ <!-- . In the fifth book of Polybius, there is an account of the matter. -->
 
 
-## Part 13
+<sup>11</sup>  Things immoveable are generally taken by some public act, such as:
+- marching an army into the country, or
+- placing garrisons there. 
 
-What has been said upon the law of nations, allowing individuals to acquire property by taking it from an enemy, must be understood as meaning the law of nations, prior to the regulations of civil laws upon that point. For the capture of an enemy's goods which at first appear to resemble things in common, which any one may seize, is now, like that of wild birds or beasts, subject to limitation by the laws of every state, being in some cases assigned to the sovereign, and in others, belonging to the captors. It may in some countries, indeed, be introduced as a rule of law for the whole of an enemy's goods found there to be confiscated.
+Pomponius said, "lands taken from the enemy become the property of the state, and form no part of the booty belonging to the individual captors."
+
+Thus, among the Hebrews and Spartans, conquered lands were divided by lot.
+
+The Romans too either retained conquered lands to rent out,
+
+Sometimes, they:
+- left a small portion to the ancient possessor, or
+- divided the land among colonists which they sent out
+- made them tributary
+
+ <!-- innumerable instances of which we meet with in their histories, their laws, and treaties on the admeasurements of lands. -->
 
 
-## Part 14
+<sup>12</sup> But moveable things, whether inanimate or living, are taken either as connected or unconnected with the public service. 
 
-The case is very different respecting what any one takes in actual engagements. For there every individual bears the character of his country, acting in her stead, and supporting her rights. Through the exertions of those individuals, the state acquires both property and dominion, with a power, according to the principles of civilized countries, of conferring them on whom she pleases.
+When unconnected with the public service, they become the property of the individual captors.
+
+Celsus said that "enemy's goods found among us do not belong to the state, but to the prior occupant." 
+
+This meant things found among us at the breaking out of a war. 
+
+The same was observed of persons, when, under the same circumstances, they were considered as goods taken.
+
+Tryphoninus has it written: "Those persons, says he, who have gone into a foreign country in time of peace, upon the sudden breaking out of war, are made slaves by those, among whom it is their misfortune to be found, being considered as enemies."
+
+
+<sup>13</sup> What has been said upon the law of nations, allowing individuals to acquire property by taking it from an enemy, must be understood as meaning the law of nations, prior to the regulations of civil laws upon that point. 
+
+The capture of an enemy's goods which resemble things in common, which any one may seize, is now, like that of wild birds or beasts, subject to limitation by the laws of every state, being in some cases assigned to the sovereign, and in others, belonging to the captors. 
+
+In some countries, it might be introduced as a rule of law for the whole of an enemy's goods found there to be confiscated.
+
+
+<sup>14</sup> The case is very different respecting what any one takes in actual engagements. For there every individual bears the character of his country, acting in her stead, and supporting her rights. 
+
+Through the exertions of those individuals, the state acquires both property and dominion, with a power, according to the principles of civilized countries, of conferring them on whom she pleases.
 
 This is not a practice of modern date, but one prevailing among the most free and independent nations of remote antiquity. The poets, and historians of those days, describe the hero, after the heat, the burden, and dangers of the day, carrying his spoils to the common stock, to be divided by the General among the army, after retaining his proper share to himself.
 
-## Part 13
+<!-- ## Part 13 -->
 
 It is observed by legal authorities to be a custom, which has silently gained ground, for either allies or subjects, who engage in war, without pay, and at their own risque and expence, to be rewarded with the captures that they make.
 
@@ -53,7 +84,7 @@ Quintilian, applying the same reasoning to another case, alleges that it is but 
 
 It is most likely therefore that some advantage gained from the enemy is always expected, as a compensation for the loss and risque incurred, unless there is evidence to the contrary from some antecedent treaty, in which there is an express stipulation for gratuitous assistance and services.
 
-## Part 14
+<!-- ## Part 14 -->
 
 Such claim to a share of the spoils is not equally evident, where SUBJECTS ONLY are concerned. For the state has a RIGHT TO THEIR SERVICES. Still where ALL are not engaged in arms, but only SOME, those, who give up their time to the calling of soldiers, and expose their lives to its hazards, have a right to be rewarded and supported by the body politic:—and as a compensation for this loss of time, and this personal danger, it is but reasonable they should have a share of the spoils.
 
@@ -76,17 +107,19 @@ On this point different customs prevail in different countries. In Spain sometim
 In some cases it happens that private adventurers are not allowed the whole of their captures, a certain portion of which must go to the state or to those, who have received a grant of such prizes from the state. Thus in Spain, if in time of war ships are fitted out by private persons, one part of the captures, which they make belongs to the crown, and another to the Lord High Admiral. So likewise in France, and Holland, the tenth part of a prize belonged to the Admiral, a fifth also being previously deducted for the use of the state. But by land it is customary upon the taking of towns, and in battles, for every one to keep the prizes which he takes. But in excursions, every thing taken becomes the common stock of all engaged, being afterwards divided amongst them according to their respective ranks.
 
 
-## Part 25
-
-If a people not engaged in war be made mediators in a doubtful matter respecting things captured in war, the cause must be adjudged in favour of him, who has on his side the laws and customs of the country, which he has espoused. But if no such right can be proved, the prize must be adjudged to the state, rather than to the individual captor.
+<sup>25</sup> If a people not engaged in war be made mediators in a doubtful matter respecting things captured in war, the cause must be adjudged in favour of him, who has on his side the laws and customs of the country, which he has espoused. But if no such right can be proved, the prize must be adjudged to the state, rather than to the individual captor.
 
 The maxim indeed of Quintilian can never be344 admitted, that the laws of war can never be enforced in matters, that may be decided by judicial authority; and that, on the other hand, whatever has been gained by arms can be maintained by force of arms alone.
 
 
-## Part 26
+<sup>26</sup> Things, NOT BELONGING to an enemy, cannot be taken, although found with him. 
 
-Things, NOT BELONGING to an enemy, cannot be taken, although found with him. For this is neither consonant to natural justice, nor introduced by the law of nations. But if in those things the enemy had any right connected with possession, such as the right of pledge, retention or service, that would not obstruct the power of the captors.
+This is neither consonant to natural justice, nor introduced by the law of nations. 
 
-It is a disputed point, both as to persons and things, whether they can be lawfully taken in the territory of a power at war with neither of the belligerents. In regard ONLY to the law of nations, as far as it allows us to kill an enemy wherever he is found, the PLACE has nothing to do with the question. But considering the rights of the sovereign, to whom that territory belongs, he undoubtedly has a right to forbid the seizure of persons, or the capture of things within his own dominions: and may demand satisfaction for the violation of that right. In the same manner, though beasts, that are wild by nature, become the property of those, who take them, still an owner may forbid any one to commit a trespass upon his lands in order to take them.
+But if in those things the enemy had any right connected with possession, such as the right of pledge, retention or service, that would not obstruct the power of the captors.
 
+It is a disputed point, both as to persons and things, whether they can be lawfully taken in the territory of a power at war with neither of the belligerents. 
 
+In regard ONLY to the law of nations, as far as it allows us to kill an enemy wherever he is found, the PLACE has nothing to do with the question. 
+
+But considering the rights of the sovereign, to whom that territory belongs, he undoubtedly has a right to forbid the seizure of persons, or the capture of things within his own dominions: and may demand satisfaction for the violation of that right. In the same manner, though beasts, that are wild by nature, become the property of those, who take them, still an owner may forbid any one to commit a trespass upon his lands in order to take them.

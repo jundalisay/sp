@@ -132,3 +132,11 @@ Moving the mouse to the desired choice is like focusing your imagination on one 
 - Clicking on that choice is like using your feelings to activate your selection.
 
 
+
+
+## Timelag of Physical Reality
+
+Metaphysical energy has a time lag with physical reality.
+
+So it's possible to sense something before it happens. 
+

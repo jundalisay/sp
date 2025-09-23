@@ -38,6 +38,8 @@ Chapter | Topic
  <!-- Layer Relationality of Identity as Movement and Effects -->
 
 
+## MSQ Table and Phenomena
+
 Name | Particle | Phenomena
 --- | --- | ---
 moa1 | existence space | wave as flow
@@ -46,9 +48,9 @@ moa3 | perception space | Hilbert Space, Gauge theory
 soa1 | physical existence | brahma
 soa2 | identity | spin, frequency 
 soa3 | reality | relationality
-qoa1 | subtlifying | aether drag dash
-qoa2 | transforming | ?
-qoa3 | crudifying | ?
+qoa1 | subtlifying | aether dash
+qoa2 | transforming | 
+qoa3 | crudifying | aether drag
 mos1 | timespace | subjective time operator ruled by idea
 mos2 | aetherspace | dark energy, gluon field
 mos3 | spacetime | gravity, dark matter
@@ -79,8 +81,8 @@ qoc3 | tau neutrino |
 mom1 | gas |
 mom2 | liquid |
 mom3 | solid |
-som1 |  |
-som2 | proton | Zeeman effect
+som1 | microaetherspace | Zeeman effect
+som2 | proton microaetherspace core | 
 som3 | quasi crystal |
 qom1 | up down | 
 qom2 | charm strange |

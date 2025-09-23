@@ -16,83 +16,80 @@ Perception arises through the knowledge of causality.
 
 This makes us think that the relation of subject and object is that of cause and effect. 
 
-This relation subsists only between the immediate object and objects known indirectly, thus always between objects alone.
+Cause and effect subsists only between objects 
+- It is between the immediate object and the other objects known indirectly.
 
-It is this false supposition that has given rise to the foolish
-controversy about the reality of the outer world; a controversy
-in which dogmatism and scepticism oppose each other, and the
-former appears, now as realism, now as idealism. Realism treats
-the object as cause, and the subject as its effect. The idealism
-of Fichte reduces the object to the effect of the subject. 
+Subject-object being thought of as cause-effect is the cause of errors on the reality of the outer world.
 
-Since
+These errors leads to dogmatism and scepticism which oppose each oher. 
+
+Dogmatism is now realism and idealism.
+- Realism treats the object as cause, and the subject as its effect.
+- Fichte's idealism puts the object as the effect, and the subject as its cause.   
+
+<!-- Since
 however, and this cannot be too much emphasised, there is
 absolutely no relation according to the principle of sufficient
-reason between subject and object, neither of these views could
-be proved, and therefore scepticism attacked them both with
-success. 
+reason between subject and object, neither of these views could -->
 
-Just as the law of causality precedes perception
-and experience as their condition, and therefore cannot (as Hume
-thought) be derived from them, so object and subject precede
-all knowledge, and hence the principle of sufficient reason in
-general, as its first condition; for this principle is merely the form
-of all objects, the whole nature and possibility of their existence
-as phenomena: but the object always presupposes the subject; and
-therefore between these two there can be no relation of reason[017]
-and consequent. 
+Both of these are wrong because subject-object is not a relation of causality.
 
-My essay on the principle of sufficient reason
-accomplishes just this: it explains the content of that principle as
-the essential form of every object—that is to say, as the universal
-nature of all objective existence, as something which pertains to
-the object as such; but the object as such always presupposes
-the subject as its necessary correlative; and therefore the subject
-remains always outside the province in which the principle of
+Their error allowed them to tbe successfully attacked by scepticism.
+
+The law of causality precedes perception and experience as their condition, and therefore cannot (as Hume thought) be derived from perception and experience.
+
+Likewise, object and subject precede all knowledge.
+
+Hence, the principle of sufficient reason in general, as its first condition; 
+
+This principle is merely:
+- the form of all objects 
+- the whole nature and possibility of their existence as phenomena
+
+But the object always presupposes the subject.
+
+Therefore between these two there can be no relation of reason and consequence. 
+
+<!-- My essay on the principle of sufficient reason
+accomplishes just this: it explains  -->
+
+The content of the principle of sufficient reason is the essential form of every object.
+
+It is the universal nature of all objective existence, as something which pertains to the object as such.
+
+But the object as such always presupposes the subject as its necessary correlative.
+
+Therefore the subject remains always outside the province in which the principle of
 sufficient reason is valid. 
 
-The controversy as to the reality of
-the outer world rests upon this false extension of the validity of
-the principle of sufficient reason to the subject also, and starting
-with this mistake it can never understand itself. On the one side
-realistic dogmatism, looking upon the idea as the effect of the
-object, desires to separate these two, idea and object, which are really one, and to assume a cause quite different from the idea,
-an object in itself, independent of the subject, a thing which is
-quite inconceivable; for even as object it presupposes subject,
-and so remains its idea. Opposed to this doctrine is scepticism,
-which makes the same false presupposition that in the idea we
-have only the effect, never the cause, therefore never real being;
-that we always know merely the action of the object. 
+The controversy as to the reality of the outer world rests upon this false extension of the validity of the principle of sufficient reason to the subject also, and starting with this mistake it can never understand itself. 
 
-But this
-object, it supposes, may perhaps have no resemblance whatever
-to its effect, may indeed have been quite erroneously received
-as the cause, for the law of causality is first to be gathered from
-experience, and the reality of experience is then made to rest
-upon it. 
+On the one side realistic dogmatism, looking upon the idea as the effect of the object, desires to separate these two, idea and object, which are really one, and to assume a cause quite different from the idea, an object in itself, independent of the subject, a thing which is quite inconceivable; for even as object it presupposes subject, and so remains its idea. 
 
-Thus both of these views are open to the correction,
-firstly, that object and idea are the same; secondly, that the true
-being of the object of perception is its action, that the reality of
-the thing consists in this, and the demand for an existence of the
-object outside the idea of the subject, and also for an essence
-of the actual thing different from its action, has absolutely no
-meaning, and is a contradiction: and that the knowledge of the
-nature of the effect of any perceived object, exhausts such an [018]
-object itself, so far as it is object, i.e., idea, for beyond this
-there is nothing more to be known. So far then, the perceived
-world in space and time, which makes itself known as causation
-alone, is entirely real, and is throughout simply what it appears
-to be, and it appears wholly and without reserve as idea, bound
-together according to the law of causality. This is its empirical
-reality. On the other hand, all causality is in the understanding
-alone, and for the understanding. The whole actual, that is,
-active world is determined as such through the understanding,
-and apart from it is nothing. This, however, is not the only
-reason for altogether denying such a reality of the outer world
-as is taught by the dogmatist, who explains its reality as its
-independence of the subject. We also deny it, because no object
-apart from a subject can be conceived without contradiction.
+Opposed to this doctrine is scepticism, which makes the same false presupposition that in the idea we have only the effect, never the cause, therefore never real being; that we always know merely the action of the object.
+
+But this object, it supposes, may perhaps have no resemblance whatever to its effect, may indeed have been quite erroneously received as the cause, for the law of causality is first to be gathered from experience, and the reality of experience is then made to rest upon it.
+
+Thus, both of these views are open to the correction.
+
+1. object and idea are the same
+2. the true being of the object of perception is its action, that the reality of the thing consists in this, and the demand for an existence of the object outside the idea of the subject, and also for an essence of the actual thing different from its action, has absolutely no meaning, and is a contradiction: and that the knowledge of the nature of the effect of any perceived object, exhausts such an [018] object itself, so far as it is object, i.e., idea, for beyond this there is nothing more to be known. 
+
+The perceived world in space and time, which makes itself known as causation alone, is entirely real.
+
+ and is throughout simply what it appears to be, and it appears wholly and without reserve as idea, bound together according to the law of causality. This is its empirical reality. 
+
+ On the other hand, all causality is:
+ - in the understanding alone
+ - for the understanding
+
+ The whole active world is active through the understanding.
+
+ Without the understanding, the world is nothing.
+
+ This, however, is not the only reason for altogether denying such a reality of the outer world as is taught by 
+
+ The dogmatist, who explains its reality as its independence of the subject. We also deny it, because no object apart from a subject can be conceived without contradiction.
 
 The whole world of objects is and remains idea, and therefore wholly and for ever determined by the subject; that is to say,
 it has transcendental ideality. But it is not therefore illusion

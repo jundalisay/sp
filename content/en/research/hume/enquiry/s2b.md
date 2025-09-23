@@ -24,7 +24,7 @@ All our ideas <!-- or more feeble perceptions --> are copies of our impressions.
 
 ## Proof 1
 
-when we analyze our thoughts or ideas, however compounded or sublime, we always find that they resolve themselves into such simple ideas as were copied from a precedent feeling <!-- or sentiment -->. 
+<sup>14</sup> When we analyze our thoughts or ideas, however compounded or sublime, we always find that they resolve themselves into such simple ideas as were copied from a precedent feeling <!-- or sentiment -->. 
 
 Even those ideas, which, at first view, seem the most wide of this origin, are found, upon a nearer scrutiny, to be derived from it. 
 
