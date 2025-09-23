@@ -1,10 +1,20 @@
-III. H UMAN N ATURE I N P OLITICS
+---
+heading: Chapter 21z
+title: "HUMAN NATURE IN POLITICS"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
+
 
 It remains to answer our question about the definiteness and independence
 of the voter’s will, his powers of observation and interpretation of facts, and
 his ability to draw, clearly and promptly, rational inferences from both. This
 subject belongs to a chapter of social psychology that might be entitled
-Human Nature in Politics. 7
+
+
 During the second half of the last century, the idea of the human
 personality that is a homogeneous unit and the idea of a definite will that is
 the prime mover of action have been steadily fading—even before the times
@@ -14,6 +24,7 @@ importance of the extra-rational and irrational element in our behavior has
 been receiving more and more attention, witness Pareto’s Mind and Society.
 Of the many sources of the evidence that accumulated against the hypothesis
 of rationality, I shall mention only two.
+
 The one—in spite of much more careful later work—may still be
 associated with the name of Gustave Le Bon, the founder or, at any rate, the
 6 Other instances could in fact be adduced from Napoleon’s practice. He was an autocrat
@@ -32,9 +43,11 @@ American commonwealth, professed himself “grimly” resolved to see some blue 
 midst of clouds of disillusioning facts. Why, so Graham Wallas seems to exclaim, what should
 we say of a meteorologist who insisted from the outset that he saw some blue sky? Nevertheless
 in the constructive part of his book he takes much the same ground.
-The Classical Doctrine of Democracy 257
+
 first effective exponent of the psychology of crowds (psychologie des
-foules). 8 By showing up, though overstressing, the realities of human
+foules). 
+
+8 By showing up, though overstressing, the realities of human
 behavior when under the influence of agglomeration—in particular the
 sudden disappearance, in a state of excitement, of moral restraints and
 civilized modes of thinking and feeling, the sudden eruption of primitive
@@ -476,6 +489,7 @@ wording of the Declaration of Independence and of the Constitution adopted
 these principles. A prodigious development followed that absorbed and
 satisfied most people and thereby seemed to verify the doctrine embalmed
 in the sacred documents of the nation.
+
 Oppositions rarely conquer when the groups in possession are in the
 prime of their power and success. In the first half of the nineteenth century,
 the oppositions that professed the classical creed of democracy rose and
@@ -489,6 +503,7 @@ the advent of freedom and decency, and the democratic creed meant a gospel
 of reason and betterment. To be sure, this advantage was bound to be lost
 and the gulf between the doctrine and the practice of democracy was bound
 to be discovered. But the glamour of the dawn was slow to fade.
+
 Third, it must not be forgotten that there are social patterns in which the
 classical doctrine will actually fit facts with a sufficient degree of
 approximation. As has been pointed out, this is the case with many small and
@@ -502,7 +517,9 @@ so stable that an overwhelming majority can be expected to understand them
 and to agree about them. But if we can conclude that in such cases the
 classical doctrine approximates reality we have to add immediately that it
 does so not because it describes an effective mechanism of political decision
-but only because there are no great decisions to be made. Finally, the case
+but only because there are no great decisions to be made. 
+
+Finally, the case
 of the United States may again be invoked in order to show that the classical
 doctrine sometimes appears to fit facts even in a society that is big and highly differentiated and in which there are great issues to decide provided the sting is taken out of them by favorable conditions. Until this country’s entry into
 the First World War, the public mind was concerned mainly with the business

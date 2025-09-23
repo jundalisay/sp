@@ -1,8 +1,17 @@
-II. T HE R ECORD O F S OCIALIST P ARTIES
+---
+heading: Chapter 18b
+title: "The Record Of Socialist Parties"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
 
 As soon as we turn to an examination of the records of socialist parties,
 doubts will inevitably arise about the validity of their contention that they
 have uniformly championed the democratic creed.
+
 In the first place, there is the great socialist commonwealth that is ruled
 by a party in a minority and does not offer any chance to any other. And
 the representatives of that party, assembled in their eighteenth congress,
@@ -13,16 +22,18 @@ to the party of Lenin-Stalin and to the great Leader, accept the program of
 the grand works which has been sketched in that most sublime document of
 our epoch, the report of comrade Stalin, in order to fulfill it unwaveringly”
 and that “our Bolshevik Party enters, under the leadership of the genius of
-the great Stalin, upon a new phase of development.” 3 That, and single-
+the great Stalin, upon a new phase of development.” 3 
+
+
 3 I do not know Russian. The above passages have been translated faithfully
 from the German newspaper that used to be published in Moscow and are open to
 possible objections against its translation of the Russian text, though that news
 
-
-candidate elections, complemented by demonstration trials and GPU
+That, and single-candidate elections, complemented by demonstration trials and GPU
 methods, may no doubt constitute “the most perfect democracy in the
 world,” if an appropriate meaning be assigned to that term—but it is not
 exactly what most Americans would understand by it.
+
 Yet in essence and principle at least, this commonwealth is a socialist one,
 and so were the short-lived creations of this type of which Bavaria and
 especially Hungary were the scenes. Now there are no doubt socialist groups
@@ -60,7 +71,7 @@ he would have behaved differently. In Germany where the party developed
 still better but where until 1918 the avenue to political responsibility
 paper was of course in no position to publish anything that was not fully approved
 by the authorities.
-The Setting of the Problem 239
+
 seemed to be blocked, socialists, facing a strong and hostile state and
 having to rely for protection on bourgeois sympathies and on the power
 of trade unions that were at best semi-socialistic, were still less free to
@@ -86,6 +97,7 @@ the spoils with the Centrist (Catholic) party. But the bargain was satisfactory
 to both. Presently the socialists did indeed become vociferously democratic.
 This however was when an opposition associated with an anti-democratic
 creed began to rise against them.
+
 I am not going to blame German Social Democrats for the sense of
 responsibility they displayed or even for the complacency with which they
 settled down in the comfortable armchairs of officialdom. The second is a
@@ -98,11 +110,13 @@ of a possibility of the conquest of power with the impossibility of doing so
 by democratic means. Our difficulty is well illustrated by the Austrian case,
 the importance of which is enhanced much beyond the importance of the
 country by the exceptional standing of the leading (Neo-Marxist) group. The
+
 4 These situations will be more fully discussed in Part V.
 5 We are going to confine ourselves to the attitudes of socialist parties in national politics.
 Their practice and that of trade unions concerning non-socialist or non-union workmen is of
 course still less convincing.
-Socialism and Democracy240
+
+
 Austrian socialists did adhere to democracy in 1918 and 1919 when it was
 not yet, as it soon afterwards became, a matter of self-defense. But during the
 few months when monopolization of power seemed within their reach, the
@@ -120,9 +134,10 @@ eminently reasonable. So was the inference. Ardent loyalty to democratic
 principles, however, was not conspicuous in either. Conversion came to them
 eventually. But it did not come from repentance, it came in consequence of
 the Hungarian counter-revolution.
-Please do not think that I am accusing socialists of insincerity or that I wish
-to hold them up to scorn either as bad democrats or as unprincipled schemers
-and opportunists. I fully believe, in spite of the childish Machiavellism in
+
+I am not accusing socialists of insincerity. I am not holding them up to scorn either as bad democrats or as unprincipled schemers and opportunists. 
+
+I fully believe, in spite of the childish Machiavellism in
 which some of their prophets indulge, that fundamentally most of them always
 have been as sincere in their professions as any other men. Besides, I do not
 believe in insincerity in social strife, for people always come to think what they

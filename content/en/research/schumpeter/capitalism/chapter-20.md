@@ -1,8 +1,18 @@
-IV. I N S EARCH O F A D EFINITION
+---
+heading: Chapter 20
+title: "IN SEARCH OF A DEFINITION"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
+
 We have a starting point from which to proceed with our investigation. But
 a definition that is to serve us in an attempt to analyze the relations between
 democracy and socialism is not yet in sight. A few preliminary difficulties
 still bar the outlook.
+
 It would not help us much to look up Aristotle who used the term in order
 to designate one of the deviations from his ideal of a well-ordered
 commonwealth. But some light may be shed on our difficulties by recalling
@@ -14,14 +24,16 @@ democracy as Rule by the People. Why is that not sufficiently precise?
 It is not because it covers as many meanings as there are combinations
 between all the possible definitions of the concept “people” (demos, the
 Roman populus) and all the possible definitions of the concept “to rule”
-(kratein), and because these definitions are not independent of the argument
+(kratein), and because these definitions are not independent of the argument about democracy. 
+
 9 In particular it is not true that democracy will always safeguard freedom of conscience
 better than autocracy. Witness the most famous of all trials. Pilate was from the standpoint of
 the Jews, certainly the representative of autocracy. Yet he tried to protect freedom. And he
 yielded to a democracy.
-10 See below, ch. xxiii.
-Socialism and Democracy244
-about democracy. As regards the first concept, the populus in the
+
+
+
+As regards the first concept, the populus in the
 constitutional sense may exclude slaves completely and other inhabitants
 partially; the law may recognize any number of status between slavery and
 full or even privileged citizenship. And irrespective of legal discrimination,
@@ -61,10 +73,11 @@ and the sciences; of traders, of artificers, in a word, of all who were not tyra
 those who are call’d the people.” At present “people” is likely to mean the “masses,”
 but Voltaire’s concept comes nearer to identifying that people for which the Constitution
 of this country was written.
-12 Thus the United States excludes Orientals and Germany excludes Jews from
+
+<!-- 12 Thus the United States excludes Orientals and Germany excludes Jews from
 citizenship; in the southern part of the United States Negroes are also often deprived
-of the vote.
-The Setting of the Problem 245
+of the vote. -->
+
 sex will enter into the same class with disqualifications which we all of us
 consider compatible with democracy. We may disapprove of them to be sure.
 But if we do so we should in good logic disapprove of the theories about
@@ -80,6 +93,7 @@ be discussed in the next two chapters. Meanwhile we will merely note that
 it clears much mist from the road. Among other things it reveals the fact that
 the relation between democracy and liberty must be considerably more
 complex than we are in the habit of believing.
+
 Still more serious difficulties arise with respect to the second element that
 enters into the concept of democracy, the kratein. The nature and the modus
 operandi of any “rule” are always difficult to explain. Legal powers never
@@ -104,10 +118,12 @@ structure 14 in which there is not much to disagree on, it is conceivable that
 Bolshevik party would not per se entitle us to call the Soviet Republic undemocratic. We are
 entitled to call it so only if the Bolshevik party itself is managed in an undemocratic
 manner—as obviously it is.
+
 14 Smallness of numbers and local concentration of the people are essential.
 Primitivity of civilization and simplicity of structure are less so but greatly facilitate the
 functioning of democracy.
-Socialism and Democracy246
+
+
 all the individuals who form the people as defined by the constitution
 actually participate in all the duties of legislation and administration. Certain
 difficulties may still remain even in such cases and the psychologist of
@@ -120,6 +136,7 @@ means of debates carried out in the physical presence of all, as they did, for
 instance, in the Greek polis or in the New England town meeting. The latter
 case, sometimes referred to as the case of “direct democracy,” has in fact
 served as a starting point for many a political theorist.
+
 In all other cases our problem does arise but we might dispose of it
 with comparative ease provided we are prepared to drop government by
 the people and to substitute for it government approved by the people.
@@ -138,6 +155,7 @@ is quite satisfactorily covered by the idea of government approved by the
 people. And since it is obvious that excepting the case of “direct
 democracy” the people as such can never actually rule or govern, the case
 for this definition seems to be complete.
+
 All the same we cannot accept it. Instances abound—perhaps they are the
 majority of historical cases—of autocracies, both dei gratia and dictatorial,
 of the various monarchies of non-autocratic type, of aristocratic and
@@ -148,11 +166,10 @@ securing what most of us believe the democratic method should secure.
 There is point in emphasizing this and in recognizing the large element of
 democracy—in this sense—that entered into those cases. Such an antidote
 to the cult of mere forms, of mere phraseologies even, would indeed be
-highly desirable. But this does not alter the fact that by accepting this
-The Setting of the Problem 247
-solution we should lose the phenomenon we wish to identify: democracies
+highly desirable. But this does not alter the fact that by accepting this solution we should lose the phenomenon we wish to identify: democracies
 would be merged in a much wider class of political arrangement which
 contains individuals of clearly non-democratic complexion.
+
 Our failure teaches us one thing however. Beyond “direct” democracy lies
 an infinite wealth of possible forms in which the “people” may partake in
 the business of ruling or influence or control those who actually do the
@@ -163,6 +180,7 @@ acquire such a title it can do so only by virtue of an arbitrary convention
 defining the meaning to be attached to the term “to rule.” Such a convention
 is always possible of course: the people never actually rule but they can
 always be made to do so by definition.
+
 The legal “theories” of democracy that evolved in the seventeenth
 and eighteenth centuries were precisely intended to provide such
 definitions as would link certain actual or ideal forms of government
@@ -175,6 +193,7 @@ and explanatory principle, the Will of the People or the Sovereign
 Power of the People stood out as the substitute most acceptable to a
 mentality which, while prepared to drop that particular charisma of
 ultimate authority, was not prepared to do without any.
+
 The problem being thus set, the legal mind ransacked the lumber room
 of its constructs in search for tools by which to reconcile that supreme
 postulate with existing political patterns. Fictitious contracts of subjection to
@@ -185,14 +204,15 @@ substantially what the lumber room supplied. However well such devices
 may have served certain practical purposes, they are utterly valueless for us.
 They are not even defensible from a legal standpoint.
 For in order to make sense at all the terms delegation and representation
-15 Sir Robert Filmer’s Patriarcha (published 1680) may be looked upon as the ast important
+
+<!-- 15 Sir Robert Filmer’s Patriarcha (published 1680) may be looked upon as the ast important
 exposition of the doctrine of divine right in English political philosophy.
 16 Those contracts were fictiones juris et de jure. But there was one realistic analogy for
 them, viz., the voluntary and contractual subjection of a freeholder to a medieval lord
 extensively practiced between the sixth and twelfth centuries. The freeholder accepted the
 jurisdiction of the lord and certain economic obligations. He gave up his status as a fully free
-man. In exchange he received the lord’s protection and other advantages.
-Socialism and Democracy248
+man. In exchange he received the lord’s protection and other advantages. -->
+
 must refer not to the individual citizens—that would be the doctrine of the
 medieval estates—but to the people as a whole. The people as such, then,
 would have to be conceived as delegating its power to, say, a parliament that
@@ -224,8 +244,11 @@ private as well as in the political sphere. We may just as well designate this
 sociology or social philosophy, the product of early capitalism, by the term
 introduced by John Stuart Mill, Utilitarianism. According to it, behavior
 conforming to that principle was not merely the only rational and justifiable
-but ipso facto also the “natural” one. This proposition is the bridge between
-17 Similarly, there is no legal sense in describing a public prosecution as a case of “the
+but ipso facto also the “natural” one. This proposition is the bridge between the otherwise very different theories of Bentham and Rousseau’s contrat
+social—names that may serve us for beacons in what for the rest must be
+left in darkness here.
+
+<!-- 17 Similarly, there is no legal sense in describing a public prosecution as a case of “the
 People versus So-and-so.” The prosecuting legal person is the state.
 18 This is particularly obvious in England and especially in the case of John Locke. As a
 political philosopher he simply pleaded, in the guise of general argument, against James II and
@@ -235,11 +258,10 @@ have been beneath contempt. The end of government is the good of the people and 
 consists in the protection of private property which is why men “enter into society.” For this
 purpose they meet and make an Original Contract of submission to a common authority. This
 contract is broken, property and liberty endangered and resistance justified when, to put it
-frankly. Whig aristocrats and London merchants think they are.
-The Setting of the Problem 249
-the otherwise very different theories of Bentham and Rousseau’s contrat
-social—names that may serve us for beacons in what for the rest must be
-left in darkness here.
+frankly. Whig aristocrats and London merchants think they are. -->
+
+
+
 If such desperate brevity does not prevent readers from following my
 argument, the bearing of this philosophy on the subject of democracy should
 be clear. It evidently yielded, among other things, a theory of the nature of
@@ -252,6 +274,7 @@ what looked like a rational foundation for belief in the Will of the People
 (volonté générale) and in the advice that sums up all that democracy meant
 to the group of writers who became known as Philosophical Radicals: 19
 educate the people and let them vote freely.
+
 Adverse criticism of this construction arose almost immediately as
 a part of the general reaction against the rationalism of the eighteenth
 century that set in after the revolutionary and Napoleonic Wars.
@@ -269,6 +292,7 @@ was being proved to be, the more completely it dominated official
 phraseology and the rhetoric of the politician. This is why in the next
 chapter we must turn to a discussion of what may be termed the
 Classical Doctrine of Democracy.
+
 But no institution or practice or belief stands or falls with the theory
 that is at any time offered in its support. Democracy is no exception.
 It is in fact possible to frame a theory of the democratic process that
@@ -276,6 +300,7 @@ takes account of all the realities of group-wise action and of the public
 mind. This theory will be presented in Chapter XXII and then we shall
 at last be able to say how democracy may be expected to fare in a
 socialist order of things.
-19 For general orientation see especially, Kent, The Philosophical Radical; Graham Wallas.
-The Life of Francis Place; Leslie Stephen, The English Utilitarians.
+
+<!-- 19 For general orientation see especially, Kent, The Philosophical Radical; Graham Wallas.
+The Life of Francis Place; Leslie Stephen, The English Utilitarians. -->
 

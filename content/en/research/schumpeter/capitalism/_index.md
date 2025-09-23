@@ -1,8 +1,8 @@
 ---
-title: "Science Papers"
-c: "darkslategray"
-description: Science Papers
-date: 2024-09-21
-weight: 193
+title: "Capitalism, Socialism And Democracy"
+c: "firebrick"
+description: "Capitalism, Socialism And Democracy"
+date: 2025-09-23
+weight: 4
 ---
 

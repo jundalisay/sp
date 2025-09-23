@@ -1,5 +1,12 @@
-III
-R USSIAN I MPERIALISM AND C OMMUNISM
+---
+heading: Chapter 28
+title: "Russian Imperialism And Communism"
+c: "firebrick"
+description: ""
+date: 2025-09-23
+weight: 193
+---
+
 
 The other factor that is relevant to our diagnosis is Russia’s victory over
 her allies. Unlike the economic success of the United States, this victory
@@ -16,14 +23,15 @@ her official conquests and at the same time to make it appear much smaller
 than it is—so that those sham concessions at danger points that satisfy
 escapists and appeasers never involve any real sacrifice even if they do not,
 as is sometimes the case, spell actual gain. 30 If the reader recalls the aims
-30 For instance, the granting of sham independence to countries under complete control, such
+
+<!-- 30 For instance, the granting of sham independence to countries under complete control, such
 as Poland, which we persist in treating as independent agents, adds to the votes that are at the
-The Consequences of the Second World War 399
 by which the United States Government motivated its policy since 1939—
 democracy, freedom from fear and want, small nations, etc.—he will have
 to realize that what has occurred amounts to a surrender not much less
 complete than might have been expected from a military victory of Russia
-over her two chief allies.
+over her two chief allies. -->
+
 This result first of all calls for explanation. I am afraid that those
 analysts of history who recognize nothing but impersonal factors—plus,
 perhaps, an element of chance—will not do very well at this task. The

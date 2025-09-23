@@ -1,23 +1,23 @@
 ---
 heading: Chapter 22
-title: "ANOTHER THEORY OF DEMOCRACY"
-c: "darkslategray"
-description: Science Papers
-date: 2024-09-21
+title: "Another Theory Of Democracy"
+c: "firebrick"
+description: ""
+date: 2025-09-21
 weight: 193
 ---
 
 
 
-I. C OMPETITION F OR P OLITICAL L EADERSHIP
+## 1. Competition For Political Leadership
 
-I THINK that most students of politics have by now come to accept the
-criticisms leveled at the classical doctrine of democracy in the preceding
-chapter. I also think that most of them agree, or will agree before long, in
-accepting another theory which is much truer to life and at the same time salvages much of
+Most students of politics have by accepted the criticisms on the classical doctrine of democracy in the preceding chapter.
+
+Most of them accept another theory which is much truer to life and at the same time salvages much of
 what sponsors of the democratic method really mean by this term. Like the
 classical theory, it may be put into the nutshell of a definition.
-It will be remembered that our chief troubles about the classical theory
+
+Our chief troubles about the classical theory
 centered in the proposition that “the people” hold a definite and rational
 opinion about every individual question and that they give effect to this
 opinion—in a democracy—by choosing “representatives” who will see to it
@@ -26,22 +26,27 @@ made secondary to the primary purpose of the democratic arrangement which
 is to vest the power of deciding political issues in the electorate. Suppose
 we reverse the roles of these two elements and make the deciding of issues
 by the electorate secondary to the election of the men who are to do the
-deciding. To put it differently, we now take the view that the role of the
+deciding. 
+
+To put it differently, we now take the view that the role of the
 people is to produce a government, or else an intermediate body which in
 turn will produce a national executive 1 or government. And we define: the
 democratic method is that institutional arrangement for arriving at political
 decisions in which individuals acquire the power to decide by means of a
 competitive struggle for the people’s vote.
+
 Defense and explanation of this idea will speedily show that, as to both
 plausibility of assumptions and tenability of propositions, it greatly improves
 the theory of the democratic process.
+
 First of all, we are provided with a reasonably efficient criterion by which
 to distinguish democratic governments from others. We have seen that the
 classical theory meets with difficulties on that score because both the will and
 the good of the people may be, and in many historical instances have been,
-1 The insincere word “executive” really points in the wrong direction. It ceases however to
+
+<!-- 1 The insincere word “executive” really points in the wrong direction. It ceases however to
 do so if we use it in the sense in which we speak of the “executives” of a business corporation
-who also do a great deal more than “execute” the will of stockholders.
+who also do a great deal more than “execute” the will of stockholders. -->
 
 served just as well or better by governments that cannot be described as
 democratic according to any accepted usage of the term. Now we are in a
@@ -138,6 +143,7 @@ of freedom of the press. This relation between democracy and freedom is
 not absolutely stringent and can be tampered with. But, from the standpoint
 of the intellectual, it is nevertheless very important. At the same time, it is
 all there is to that relation.
+
 Sixth, it should be observed that in making it the primary function of
 the electorate to produce a government (directly or through an intermediate
 body) I intended to include in this phrase also the function of evicting it.
@@ -152,6 +158,7 @@ Occasionally, spontaneous revulsions occur which upset a government or
 an individual minister directly or else enforce a certain course of action.
 But they are not only exceptional, they are, as we shall see, contrary to the
 spirit of the democratic method.
+
 Seventh, our theory sheds much-needed light on an old controversy.
 Whoever accepts the classical doctrine of democracy and in consequence
 believes that the democratic method is to guarantee that issues be decided
@@ -164,13 +171,13 @@ of “the people.” The latter is a mosaic that the former completely fails to
 Attempts at real solutions have however been made by the authors of the
 various plans for Proportional Representation.
 
-
 These plans have met with adverse criticism on practical grounds. It is
 in fact obvious not only that proportional representation will offer
 opportunities for all sorts of idiosyncrasies to assert themselves but also that
-6 Free, that is, in the same sense in which everyone is free to start another textile mill.
+
+<!-- 6 Free, that is, in the same sense in which everyone is free to start another textile mill.
 7 The argument against proportional representation has been ably stated by Professor
-F.A.Hermens in “The Trojan Horse of Democracy,” Social Research, November 1938.
+F.A.Hermens in “The Trojan Horse of Democracy,” Social Research, November 1938. -->
 
 
 it may prevent democracy from producing efficient governments and thus
@@ -185,4 +192,3 @@ should be handed to those who command more support than do any of the
 competing individuals or teams. And this in turn seems to assure the standing
 of the majority system within the logic of the democratic method, although
 we might still condemn it on grounds that lie outside of that logic.
-

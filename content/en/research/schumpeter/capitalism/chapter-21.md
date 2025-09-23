@@ -1,14 +1,19 @@
-CHAPTER XXI
-THE CLASSICAL DOCTRINE OF DEMOCRACY
+---
+heading: Chapter 21
+title: "The Common Good and the Will of the People"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
 
-I. T HE C OMMON G OOD A ND T HE W ILL O F T HE P EOPLE
 
-THE eighteenth-century philosophy of democracy may be couched in the
-following definition: the democratic method is that institutional
+<!-- THE CLASSICAL DOCTRINE OF DEMOCRACY -->
+
+THE 18th-century philosophy of democracy has the following definition: the democratic method is that institutional
 arrangement for arriving at political decisions which realizes the common good
 by making the people itself decide issues through the election of individuals
-who are to assemble in order to carry out its will. Let us develop the
-implications of this.
+who are to assemble in order to carry out its will. 
 
 It is held, then, that there exists a Common Good, the obvious beacon light
 of policy, which is always simple to define and which every normal person
@@ -17,7 +22,9 @@ for not seeing it and in fact no explanation for the presence of people who do
 not see it except ignorance—which can be removed—stupidity and anti-social
 interest. Moreover, this common good implies definite answers to all questions
 so that every social fact and every measure taken or to be taken can un-
-equivocally be classed as “good” or “bad.” All people having therefore to
+equivocally be classed as “good” or “bad.” 
+
+All people having therefore to
 agree, in principle at least, there is also a Common Will of the people (=will
 of all reasonable individuals) that is exactly coterminous with the common
 good or interest or welfare or happiness. The only thing, barring stupidity and
@@ -112,7 +119,9 @@ gravitate, we shall not get that particular type of “natural” volonté gén�
 The utilitarian center of gravity, on the one hand, unifies individual wills, tends
 to weld them by means of rational discussion into the will of the people and,
 on the other hand, confers upon the latter the exclusive ethical dignity claimed
-by the classic democratic creed. This creed does not consist simply in
+by the classic democratic creed.
+
+This creed does not consist simply in
 worshiping the will of the people as such but rests on certain assumptions
 about the “natural” object of that will which object is sanctioned by utilitarian
 reason. Both the existence and the dignity of this kind of volonté générale are

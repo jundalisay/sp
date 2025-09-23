@@ -1,12 +1,22 @@
-II. C ONDITIONS F OR T HE S UCCESS O F T HE D EMOCRATIC M ETHOD
+---
+heading: Chapter 27
+title: "Conditions For The Success Of The Democratic Method"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
+
 
 If a physicist observes that the same mechanism works differently at different
 times and in different places, he concludes that its functioning depends upon
-conditions extraneous to it. We cannot but arrive at the same conclusion. And
-Socialism and Democracy290
-it is as easy to see what these conditions are as it was to see what the
+conditions extraneous to it. We cannot but arrive at the same conclusion. 
+
+These conditions are as it was to see what the
 conditions were under which the classical doctrine of democracy might be
 expected to fit reality to an acceptable degree.
+
 This conclusion definitely commits us to that strictly, relativist view that
 has been indicated all along. Exactly as there is no case for or against
 socialism at all times and in all places, so there is no absolutely general
@@ -22,6 +32,7 @@ I hold must be fulfilled for the democratic method to be a success 5 —in
 societies in which it is possible for it to work at all—I shall group under
 four headings; and I shall confine myself to the great industrial nations of
 the modern type.
+
 The first condition is that the human material of politics—the people who
 man the party machines, are elected to serve in parliament, rise to cabinet
 office—should be of sufficiently high quality. This means more than that
@@ -40,7 +51,9 @@ success at anything else. For both these reasons, adequacy of material is
 particularly important for the success of democratic government. It is not true
 that in a democracy people always have the kind and quality of government
 they want or merit.
+
 There may be many ways in which politicians of sufficiently good quality
+
 5 By “success” I mean no more than that the democratic process reproduce itself steadily
 without creating situations that enforce resort to non-democratic methods and that it cope with
 current problems in a way which all interests that count politically find acceptable in the long
@@ -118,6 +131,7 @@ the laymen in the government and in the parliament are alternatingly prone
 to indulge. This is what I meant to convey by stressing the limitations upon
 the effective range of political decision—the range within which politicians
 decide in truth as well as in form.
+
 Again, the condition in question can indeed be fulfilled by a
 corresponding limitation of the activities of the state. But it would be a
 serious misunderstanding if the reader thought that such a limitation is
@@ -128,13 +142,12 @@ to the judges. Another instance is the position held by the Bank of England
 until 1914. Some of its functions were in fact of a public nature. Nevertheless
 these functions were vested with what legally was just a business corporation
 that was sufficiently independent of the political sector to have a policy of
-its own. Certain federal agencies in this country are other cases in point. The
-Interstate Commerce Commission embodies an attempt to extend the sphere
-The Inference 293
-of public authority without extending the sphere of political decision. Or, to
-present still another example, certain of our states finance state universities
+its own. Certain federal agencies in this country are other cases in point. 
+
+The Interstate Commerce Commission embodies an attempt to extend the sphere of public authority without extending the sphere of political decision. Or, to present still another example, certain of our states finance state universities
 “without any strings,” that is to say, without interfering with what in some
 cases amounts to practically complete autonomy.
+
 Thus, almost any type of human affairs may conceivably be made to enter
 the sphere of the state without becoming part of the material of the
 competitive struggle for political leadership beyond what is implied in
@@ -144,8 +157,8 @@ supervisor. It is of course true that this supervision may degenerate into
 vitiating influence. The politician’s power to appoint the personnel of non-
 political public agencies, if remorselessly used, will often suffice in itself to
 corrupt them. But that does not affect the principle in question.
-As a third condition, democratic government in modern industrial
-society must be able to command, for all purposes the sphere of public
+
+As a third condition, democratic government in modern industrial society must be able to command, for all purposes the sphere of public
 activity is to include—no matter whether this be much or little—the
 services of a well-trained bureaucracy of good standing and tradition,
 endowed with a strong sense of duty and a no less strong esprit de corps.
@@ -154,9 +167,12 @@ by amateurs. Potentially it is the only answer to the question so often heard
 in this country: democratic politics has proved itself unable to produce
 decent city government; how can we expect the nation to fare if everything,
 eventually including the whole of the productive process, is to be handed
-over to it? And finally, it is also the principal answer to the question about
+over to it?
+
+Finally, it is also the principal answer to the question about
 how our second condition can be fulfilled 6 whenever the sphere of public
 control is wide.
+
 It is not enough that the bureaucracy should be efficient in current
 administration and competent to give advice. It must also be strong enough
 to guide and, if need be, to instruct the politicians who head the ministries.
@@ -167,20 +183,23 @@ appointment, tenure and promotion must depend largely—within civil service
 rules that politicians hesitate to violate—on its own corporate opinion in spite
 of all the clamor that is sure to arise whenever politicians or the public find
 themselves crossed by it as they frequently must.
-Again, as in the case of the personnel of politics, the question of the
-6 Reference to some comments on the subject of bureaucracy in ch. xviii will convince
+
+
+
+<!-- 6 Reference to some comments on the subject of bureaucracy in ch. xviii will convince
 the reader that, in all three respects, the answer provided by bureaucracy is not held to be
 ideal in any sense. On the other hand readers should not allow themselves to be unduly
 influenced by the associations the term carries in popular parlance. In any case that answer
-is the only realistic one.
-Socialism and Democracy294
-available human material is all-important. Training though essential is
+is the only realistic one. -->
+
+Again, as in the case of the personnel of politics, the question of the available human material is all-important. Training though essential is
 quite secondary to this. And again, both requisite material and the
 traditional code necessary for the functioning of an official class of this
 kind can be most easily secured if there is a social stratum of adequate
 quality and corresponding prestige that can. be drawn upon for recruits—
-not too rich, not too poor, not too exclusive, not too accessible. The
-bureaucracies of Europe, in spite of the fact that they have drawn enough
+not too rich, not too poor, not too exclusive, not too accessible. 
+
+The bureaucracies of Europe, in spite of the fact that they have drawn enough
 hostile criticism to blur their records, ex-emplify very well what I am
 trying to convey. They are the product of a long development that started
 with the ministeriales of medieval magnates (originally serfs selected for
@@ -190,12 +209,14 @@ emerged which we behold today. It cannot be created in a hurry. It cannot
 be “hired” with money. But it grows everywhere, whatever the political
 method a nation may adopt. Its expansion is the one certain thing about
 our future.
+
 The fourth set of conditions may be summed up in the phrase Democratic
 Self-control. Everybody will of course agree that the democratic method
 cannot work smoothly unless all the groups that count in a nation are willing
 to accept any legislative measure as long as it is on the statute book and all
 executive orders issued by legally competent authorities. But democratic self-
 control implies much more than this.
+
 Above all, electorates and parliaments must be on an intellectual and
 moral level high enough to be proof against the offerings of the crook and
 the crank, or else men who are neither will be driven into the ways of both.

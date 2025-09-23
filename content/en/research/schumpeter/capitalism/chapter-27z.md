@@ -1,4 +1,13 @@
-III. D EMOCRACY I N T HE S OCIALIST O RDER
+---
+heading: Chapter 27
+title: "DEMOCRACY IN THE SOCIALIST ORDER"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
+
 
 1. In setting forth our conclusions we had better begin with the relation
 between democracy and the capitalist order of things.
@@ -13,7 +22,8 @@ though the analogy should not be pushed too far. But that autocracy did not make
 republican office of dictator except in one case, that of G.Julius Caesar. Sulla’s dictatorship
 was simply a temporary magistracy created for a definite purpose (constitutional reform). And
 there are no other but quite “regular” cases.
-The Inference 297
+
+
 connection with it. But the same holds true for democratic practice:
 democracy in the sense of our theory of competitive leadership presided over
 the process of political and institutional change by which the bourgeoisie
@@ -26,6 +36,7 @@ Whether or not democracy is one of those products of capitalism which
 are to die out with it is of course another question. And still another is how
 well or ill capitalist society qualifies for the task of working the democratic
 method it evolved.
+
 As regards the latter question, it is clear that capitalist society qualifies
 well in one respect. The bourgeoisie has a solution that is peculiar to it for
 the problem of how the sphere of political decision can be reduced to those
@@ -52,16 +63,16 @@ children). It is also important to recognize how well it stood, for some
 decades at least, the strain of uncongenial conditions and how well it
 functioned, when faced by demands that were outside of and hostile to the
 bourgeois interests.
+
 Also in another respect capitalist society in its meridian qualified well for
 the task of making democracy a success. It is easier for a class whose interests
-are best served by being left alone to practice democratic self-restraint than it
-Socialism and Democracy298
-is for classes that naturally try to live on the state. The bourgeois who is
+are best served by being left alone to practice democratic self-restraint than it is for classes that naturally try to live on the state. The bourgeois who is
 primarily absorbed in his private concerns is in general—as long as these
 concerns are not seriously threatened—much more likely to display tolerance
 of political differences and respect for opinions he does not share than any
 other type of human being. Moreover so long as bourgeois standards are
 dominant in a society this attitude will tend to spread to other classes as well.
+
 The English landed interest accepted the defeat of 1845 with relatively good
 grace; English labor fought for the removal of disabilities but until the
 beginning of the present century was slow to claim privileges. It is true that
@@ -72,6 +83,7 @@ into a struggle of pressure groups and in many cases practices that failed to
 conform to the spirit of the democratic method have become important enough
 to distort its modus operandi. That there “cannot” be true democracy in the
 capitalist order is nevertheless an obvious over-statement.8
+
 In both respects however capitalism is rapidly losing the advantages it
 used to possess. Bourgeois democracy which is wedded to that ideal of the
 state has for some time been working with increasing friction. In part this
@@ -88,6 +100,7 @@ Why this was so has been fully explained in Part II. All these facts together
 seem to suggest a pessimistic prognosis for this type of democracy. They also
 suggest an explanation of the apparent ease with which in some cases it
 surrendered to dictatorship.
+
 2. The ideology of classical socialism is the offspring of bourgeois
 ideology. In particular, it fully shares the latter’s rationalist and utilitarian
 background and many of the ideas and ideals that entered the classical
@@ -98,7 +111,7 @@ theory of democracy. From the first standpoint, the result reads that the means 
 of private interests are often used in order to thwart the will of the people. From the second
 standpoint, the result read: that those private means are often used in order to interfere with
 the working of the mechanism of competitive leadership.
-The Inference 299
+
 doctrine of democracy. So far as this goes, socialists in fact experienced no
 difficulty whatever in appropriating this part of the bourgeois inheritance and
 in making out a case for the proposition that those elements of the classical
@@ -112,6 +125,7 @@ by the doctrine of competitive leadership. And so, since we have seen that
 non-democratic socialism is perfectly possible, the real question is again how
 well or ill socialism qualifies for the task of making the democratic method
 function should it attempt to do so.
+
 The essential point to grasp is this. No responsible person can view with
 equanimity the consequences of extending the democratic method, that is to
 say the sphere of “politics,” to all economic affairs Believing that democratic
@@ -170,6 +184,7 @@ socialist managers would not have differed very much from their capitalist
 predecessors, and in many cases the same individuals would have been
 reappointed. We thus reach, by a different route, the conclusion already
 arrived at in Part III.
+
 But we are now in a position to link up this conclusion with an answer
 to the problem of democracy in socialism. In a sense, of course, the present-
 day forms and organs of democratic procedure are as much the outgrowth
@@ -206,8 +221,8 @@ not do so to an extent incompatible with efficiency. And the Minister of
 Production need not interfere more with the internal working of individual
 industries than English Ministers of Health or of War interfere with the
 internal working of their respective departments.
-3. It goes without saying that operating socialist democracy in the way
-indicated would be a perfectly hopeless task except in the case of a society
+
+3. Operating socialist democracy in the way indicated would be a perfectly hopeless task except in the case of a society
 that fulfills all the requirements of “maturity” listed in Part III, including, in
 particular, the ability to establish the socialist order in a democratic way and
 the existence of a bureaucracy of adequate standing and experience. But a
@@ -224,11 +239,9 @@ to work with increasing friction. At the stage visualized however, socialism
 may remove the rift. It may reestablish agreement as to the tectonic principles
 of the social fabric. If it does, then the remaining antagonisms will be exactly
 of the kind with which the democratic method is well able to cope.
+
 It has also been pointed out in Part III that those remaining antagonisms
-will be further decreased in number and importance by the elimination of
-Socialism and Democracy302
-clashing capitalist interests. The relations between agriculture and industry,
-small-scale and large-scale industry, steel-producing and steel-consuming
+will be further decreased in number and importance by the elimination of clashing capitalist interests. The relations between agriculture and industry, small-scale and large-scale industry, steel-producing and steel-consuming
 industries, protectionist and export industries will—or may—cease to be
 political questions to be settled by the relative weights of pressure groups
 and become technical questions to which technicians would be able to give
@@ -239,11 +252,13 @@ to disagree about, a good case may be made out for expecting that the sum
 total of controversial matter would be decreased even as compared with what
 it was in intact capitalism. There would, for instance, be no silver men.
 Political life would be purified.
+
 On the face of it, socialism has no obvious solution to offer for the
 problem solved in other forms of society by the presence of a political class
 of stable traditions. I have said before that there will be a political
 profession. There may evolve a political set, about the quality of which it
 is idle to speculate.
+
 Thus far socialism scores. It might still be argued that this score can be
 easily balanced by the importance and likelihood of possible deviations. To
 some extent we have provided for this by insisting on economic maturity

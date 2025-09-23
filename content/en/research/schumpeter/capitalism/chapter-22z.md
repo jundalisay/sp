@@ -1,8 +1,17 @@
-II. T HE P RINCIPLE A PPLIED
+---
+heading: Chapter 22
+title: "The Principle Applied"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
 
 The theory outlined in the preceding section we are now going to try out
 on some of the more important features of the structure and working of the
 political engine in democratic countries.
+
 1. In a democracy, as I have said, the primary function of the elector’s
 vote is to produce government. This may mean the election of a complete
 set of individual officers. This practice however is in the main a feature of
@@ -10,8 +19,8 @@ local government and will be neglected henceforth. 8 Considering national
 government only, we may say that producing government practically
 amounts to deciding who the leading man shall be. 9 As before, we shall call
 him Prime Minister.
-There is only one democracy in which the electorate’s vote does this
-8 This we shall do for simplicity’s sake only. The phenomenon fits perfectly into our schema.
+
+<!-- 8 This we shall do for simplicity’s sake only. The phenomenon fits perfectly into our schema.
 9 This is only approximately true. The elector’s vote does indeed put into power a group
 that in all normal cases acknowledges an individual leader but there are as a rule leaders of
 second and third rank who carry political guns in their own right and whom the leader has no
@@ -26,20 +35,21 @@ men deficient in leadership (and other qualities) and unfavorable to the establi
 strong individual positions. A party or a combination of parties hence may occasionally be
 acephalous. But everyone recognizes that this is a pathological state and one of the typical
 causes of defeat.
+
 10 We may, I take it, disregard the electoral college. In calling the President of the
 United States a prime minister I wish to stress the fundamental similarity of his position
 to that of prime ministers in other democracies. But I do not wish to minimize the
 differences, although some of them are more formal than real. The least important of them
-is that the President also fulfills those largely ceremonial functions of, say, the French
-Socialism and Democracy274
-directly, viz., the United States. 10 In all other cases the electorate’s vote does
-not directly produce government but an intermediate organ, henceforth called
+is that the President also fulfills those largely ceremonial functions of, say, the French -->
+
+There is only one democracy in which the electorate’s vote does this directly, viz., the United States. 10 In all other cases the electorate’s vote does not directly produce government but an intermediate organ, henceforth called
 parliament, 11 upon which the government-producing function devolves. It
 might seem easy to account for the adoption or rather the evolution of this
 arrangement, both on historical grounds and on grounds of expediency, and
 for the various forms it took in different social patterns. But it is not a logical
 construct; it is a natural growth the subtle meanings and results of which
 completely escape the official, let alone legal, doctrines.
+
 How does a parliament produce government? The most obvious method
 is to elect it or, more realistically, to elect the prime minister and then to vote
 the list of ministers he presents. This method is rarely used. 12 But it brings
@@ -49,6 +59,7 @@ all normal cases the one whom parliament would elect. The way in which
 he is actually appointed to office, by a monarch as in England, by a President
 as in France or by a special agency or committee as in the Prussian Free
 State of the Weimar period, is merely a matter of form.
+
 The classical English practice is this. After a general election the
 victorious party normally commands a majority of seats in Parliament and
 thus is in a position to carry a vote of want of confidence against everyone
@@ -66,18 +77,21 @@ the word “secretary” conveys in common parlance. We might say, therefore, th
 the President is not only prime minister but sole minister, unless we find an analogy
 between the functions of an English Cabinet minister and the functions of the managers
 of the administration’s forces in Congress.
+
 There is no difficulty about interpreting and explaining these and many other
 peculiarities in this or any other country that uses the democratic method. But in order to
 save space we shall mainly think of the English pattern and consider all other cases as more
 or less important “deviations” on the theory that thus far the logic of democratic
 government has worked itself out most completely in the English practice though not in
 its legal forms.
-11 It will be recalled that I have defined parliament as an organ of the state. Although
+
+<!-- 11 It will be recalled that I have defined parliament as an organ of the state. Although
 that was done simply for reasons of formal (legal) logic this definition fits in particularly
 well with our conception of the democratic method. Membership in parliament is hence
 an office.
-12 For example, it was adopted in Austria after the breakdown in 1918.
-Another Theory of Democracy 275
+
+12 For example, it was adopted in Austria after the breakdown in 1918. -->
+
 party veterans who receive what might be called complimentary office;
 secondly, the leaders of the second rank, those men on whom he counts
 for the current fighting in Parliament and who owe their preferment partly
@@ -92,6 +106,7 @@ to dissolve (“to go to the country”), the result will to some extent
 approximate the result we should expect from direct election of the cabinet
 by the electorate so long as the latter supports him. 14 This may be
 illustrated by a famous instance.
+
 2. In 1879, when the Beaconsfield (Disraeli) government, after almost
 six years of prosperous tenure of power culminating in the spectacular
 success of the Congress of Berlin, 15 was on all ordinary counts entitled to
@@ -100,7 +115,8 @@ series of addresses of unsurpassable force (Midlothian campaign) which
 played up Turkish atrocities so successfully as to place him on the crest
 of a wave of popular enthusiasm for him personally. The official party had
 nothing to do with it. Several of its leaders in fact disapproved. Gladstone
-13 To lament, as some people do, how little fitness for office counts in these arrangements
+
+<!-- 13 To lament, as some people do, how little fitness for office counts in these arrangements
 is beside the point where description is concerned; it is of the essence of democratic government
 that political values should count primarily and fitness only incidentally. See below, ch. xxiii.
 14 If, as was the case in France, the prime minister has no such power, parliamentary
@@ -108,7 +124,8 @@ coteries acquire so much independence that this parallelism between acceptance o
 by parliament and acceptance of the same man by the electorate is weakened or destroyed.
 This is the situation in which the parlor game of parliamentary politics runs riot. From our
 standpoint this is a deviation from the design of the machine. Raymond Poincaré was of
-the same opinion.
+the same opinion. -->
+
 Of course, such situations also occur in England. For the Prime Minister’s power to
 dissolve—strictly, his power to “advise” the monarch to dissolve the House of
 Commons—is inoperative either if his party’s inner circle sets its face against it or if
@@ -117,6 +134,7 @@ he may be stronger (though possibly still weak) in Parliament than he is in the 
 Such a state of things tends to develop with some regularity after a government has been
 in power for some years. But under the English system this deviation from design cannot
 last very long.
+
 15 I do not mean that the temporary settlement of the questions raised by the Russo Turkish
 War and the acquisition of the perfectly useless island of Cyprus were in themselves such
 masterpieces of statesmanship. But I do mean that from the standpoint of domestic politics they
@@ -124,23 +142,26 @@ were just the kind of showy success that would normally flatter the average citi
 and would greatly enhance the government’s prospects in an atmosphere of jingo patriotism.
 In fact it was the general opinion that Disraeli would have won if he had dissolved immediately
 on returning from Berlin.
-Socialism and Democracy276
+
 had resigned the leadership years before and tackled the country single-
 handed. But when the liberal party under this impetus had won a smashing
 victory, it was obvious to everyone that he had to be again accepted as the
 party leader—nay, that he had become the party leader by virtue of his
 national leadership and that there simply was no room for any other. He
 came into power in a halo of glory.
+
 Now this instance teaches us a lot about the working of the democratic
 method. To begin with, it must be realized that it is unique only in its
 dramatic quality, but in nothing else. It is the oversized specimen of a normal
 genus. The cases of both Pitts, Peel, Palmerston, Disraeli, Campbell
 Bannerman and others differ from it only in degree.
+
 First, as to the Prime Minister’s political leadership. 16 Our example shows
 that it is composed of three different elements which must not be confused
 and which in every case mix in different proportions, the mixture then
 determining the nature of every individual Prime Minister’s rule. On the face
 of it, he comes into office as the leading man of his party in Parliament. As
+
 16 It is characteristic of the English way of doing things that official recognition of
 the existence of the Prime Minister’s office was deferred until 1907, when it was allowed
 to appear in the official order of precedence at court. But it is as old as democratic
@@ -173,7 +194,7 @@ not only indicates the resistance new institutions usually meet with. It also in
 this institution was felt to be incompatible with the classic doctrine of democracy which
 in fact has no place for political leadership in our sense, hence no place for the realities
 of the position of a prime minister.
-Another Theory of Democracy 277
+
 soon as installed however, he becomes in a sense the leader of Parliament,
 directly of the house of which he is a member, indirectly also of the other.
 This is more than an official euphemism, more also than is implied in his
@@ -385,7 +406,7 @@ is another possibility. A man may feel so strongly about a particular question
 that he may enter the political arena merely in order to have it solved in his
 way and without harboring any wish to start in on a normal political career.
 
-22 One of the most instructive examples by which the above can be illustrated is afforded
+<!-- 22 One of the most instructive examples by which the above can be illustrated is afforded
 by the course taken by Joseph Chamberlain with respect to the Irish question in the 1880’s.
 He finally outmaneuvered Gladstone, but he started the campaign while officially an ardent
 adherent. And the case is exceptional only in the force and brilliance of the man. As every
@@ -397,19 +418,22 @@ second-rate men.
 reasons why a government and the shadow cabinet of the opposition may tacitly agree to leave
 an issue alone in spite of their realizing its potentialities are technical difficulty of handling it
 and the fear that it will cause sectional difficulties.
-Socialism and Democracy282
+ -->
 This however is so unusual that it is difficult to find instances of first-rank
 importance of it. Perhaps Richard Cobden was one. It is true that instances
 of second-rank importance are more frequent, especially instances of the
 crusader type. But nobody will hold that they are anything but deviations
 from standard practice.
+
 We may sum up as follows. In observing human societies we do not as
 a rule find it difficult to specify, at least in a rough commonsense manner,
 the various ends that the societies under study struggle to attain. These ends
 may be said to provide the rationale or meaning of corresponding
 individual activities. But it does not follow that the social meaning of a
 type of activity will necessarily provide the motive power, hence the
-explanation of the latter. If it does not, a theory that contents itself with
+explanation of the latter. 
+
+If it does not, a theory that contents itself with
 an analysis of the social end or need to be served cannot be accepted as
 an adequate account of the activities that serve it. For instance, the reason
 why there is such a thing as economic activity is of course that people want
@@ -424,6 +448,7 @@ how democratic politics serve this social end, we must start from the
 competitive struggle for power and office and realize that the social
 function is fulfilled, as it were, incidentally—in the same sense as
 production is incidental to the making of profits.
+
 6. Finally, as to the role of the electorate, only one additional point need
 be mentioned. We have seen that the wishes of the members of a parliament
 are not the ultimate data of the process that produces government. A similar

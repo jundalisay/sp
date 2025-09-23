@@ -1,14 +1,29 @@
-CHAPTER XVIII
-THE HUMAN ELEMENT
-A W ARNING
-IT IS quite likely that many opponents of socialism will accept the result
-we have just arrived at. But their assent will mostly take the following form:
+---
+heading: Chapter 18
+title: "The Human Element"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
+
+
+## A WARNING
+
+IT IS likely that many opponents of socialism will accept my result.
+
+But their assent will mostly take the following form: 
+
 “Oh well, of course, if you had demigods to direct the socialist engine and
 archangels to man it, all that might well be so. But the point is that you have
 not and that, human nature being what it is, the capitalist alternative with its
 pattern of motivations and its distribution of responsibilities and rewards after
 all offers, though not the best conceivable, yet the best practicable arrangement.”
-And there is something to this reply. On the one hand, we have now to
+
+There is something to this reply. 
+
+On the one hand, we have now to
 guard not only against the dangers that lurk in any attempt to compare a
 given reality with an idea, but also against the error or trick inherent i0n any
 comparison of a given reality with an ideal. 1 On the other hand, though I
@@ -16,7 +31,9 @@ think I have made it abundantly clear that in the nature of things there never
 can be a general case for socialism but only a case with reference to given
 social conditions and given historical stages, this relativity becomes much
 more important now than it was as long as we moved among blueprints.
-I. T HE H ISTORICAL R ELATIVITY O F T HE A RGUMENT
+
+I. The Historical Relativity Of The Argument
+
 To illustrate this point by an analogy. In feudal society, much of what all of
 us, the staunchest supporters of private property included, now think of as
 1 An idea or schema or model or blueprint also embodies an ideal, but only in the logical
@@ -35,7 +52,7 @@ will hold that these politics are the inevitable outcome of capitalist processes
 created by the way in which the capitalist engine works. Although I recognize all these
 difficulties, I do not think that they affect ray exposition which as the professional reader will
 notice, has been framed so as to avoid them.
-The Human Element 201
+
 the exclusive domain of public administration was managed by means of an
 arrangement that to us looks as if those public functions had been made the
 objects of private ownership and the sources of private gain; every knight
@@ -44,7 +61,9 @@ payment for the services he rendered in managing it. The now so-called
 public functions connected with it were but a reward for services rendered
 to some superior liege. Even this does not quite express the matter: he held
 his fief because, being a knight or lord, he was entitled to hold one whatever
-he did or did not do. This state of things people who lack the historical
+he did or did not do. 
+
+This state of things people who lack the historical
 dimension are prone to look upon as a compound of “abuses.” But that is
 nonsense. Under the circumstances of its own epoch—like every bit of
 institutional framework, feudalism survived what was truly “its” epoch—this
@@ -60,7 +79,9 @@ spelled chaos and could have been well described as an impracticable dream.
 Similarly, at the time when the English textile mill was the high spot of
 capitalist economy—up to 1850, say—socialism was not a practical
 proposition and no sensible socialist would hold now or did hold then that
-it was. The master’s eye that makes the cattle fat and turns sand to gold, the
+it was. 
+
+The master’s eye that makes the cattle fat and turns sand to gold, the
 goose that lays the golden eggs and other such homely phrases then were
 but the expression, by and for simple and slow-witted people, of an
 undeniable truth. I submit to socialist friends that there is a better way of
@@ -71,14 +92,13 @@ rightful claim of those geese within their proper historical setting and confine
 denial to other historical settings. We shall then at least face the relevant
 question—to wit, how much there is to them now—and still retain plenty of
 parking space for our disagreements.
+
 Since we must visualize a definite pattern of capitalism if comparison
 of capitalist reality with socialist chances of success is to have any
 meaning, let us choose the capitalism of our own epoch, that is to say,
 big-business capitalism in fetters. And let us observe first, that though
 this defines an epoch and a pattern it does not define any particular date,
-not even in terms of decades, because the question how far the pattern
-Can Socialism Survive?202
-of fettered capitalism has developed and stabilized its features at any
+not even in terms of decades, because the question how far the pattern of fettered capitalism has developed and stabilized its features at any
 given time, say at present, would still have to wait upon factual
 investigation; second, that for this part of our argument it becomes
 irrelevant whether those fetters, whatever they are, have been evolved by

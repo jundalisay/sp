@@ -1,15 +1,26 @@
-PART IV
-Socialism and Democracy
+---
+heading: Chapter 20a
+title: "The Setting Of The Problem"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
 
-235
-CHAPTER XX
-THE SETTING OF THE PROBLEM
-I. T HE D ICTATORSHIP O F T HE P ROLETARIAT
+
+<!-- PART IV
+Socialism and Democracy -->
+
+
+I. The Dictatorship of the Proletariat
+
 NOTHING is so treacherous as the obvious. Events during the past twenty
 or twenty-five years have taught us to see the problem that lurks behind
 the title of this part. Until about 1916 the relation between socialism and
 democracy would have seemed quite obvious to most people and to nobody
-more so than to the accredited exponents of socialist orthodoxy. It would
+more so than to the accredited exponents of socialist orthodoxy. 
+
+It would
 hardly have occurred to anyone to dispute the socialists’ claim to membership
 in the democratic club. Socialists themselves of course—except a few
 syndicalist groups—even claimed to be the only true democrats, the exclusive
@@ -26,22 +37,28 @@ one hand, that there cannot be democracy so long as that power exists—that
 mere political democracy is of necessity a sham—and, on the other hand, that
 the elimination of that power will at the same time end the “exploitation of
 man by man” and bring about the “rule of the people.”
+
 This argument is essentially Marxian of course. Precisely because it
 follows logically—tautologically in fact—from the definitions of terms in the
 Marxian schema, it will have to share the fate of the latter and in particular
 the fate of the doctrine of “exploitation of man by man.” 1 What seems to
 me a more realistic analysis of the relation between socialist groups and the
-democratic creed will presently be offered. But we also want a more realistic
+democratic creed will presently be offered. 
+
+But we also want a more realistic
 theory of the relation that may exist between socialism and democracy
-themselves, that is to say, of the relation that may exist, independently of
-1 The fact that individual and group-wise power cannot be defined in purely economic
-terms—as Marx’s theory of social classes defines it—is however a still more fundamental
-reason why this argument is inacceptable.
-Socialism and Democracy236
-wishes and slogans, between the socialist order as we have defined it and
+themselves, that is to say, of the relation that may exist, independently of wishes and slogans, between the socialist order as we have defined it and
 the modus operandi of democratic government. In order to solve this
 problem we must first inquire into the nature of democracy. Another point
 however calls for immediate clarification.
+
+<!-- 1 The fact that individual and group-wise power cannot be defined in purely economic
+terms—as Marx’s theory of social classes defines it—is however a still more fundamental
+reason why this argument is inacceptable. -->
+
+
+
+
 Socialism in being might be the very ideal of democracy. But socialists are
 not always so particular about the way in which it is to be brought into being.
 The words Revolution and Dictatorship stare us in the face from sacred texts,
@@ -70,17 +87,21 @@ and pharisees who should know the Law better than I do, and to an
 impression based upon perusal of the volumes of the Neuc Zeit, I must admit
 the possibility that, if he had had to choose, Marx might have put socialism
 above the observance of democratic procedure.
+
 In that case he would no doubt have declared, as so many have done after
 him, that he was not really deviating from the truly democratic path because
 in order to bring true democracy to life it is necessary to remove the
 poisonous fumes of capitalism that asphyxiate it. Now for the believer in
 democracy, the importance of observing democratic procedure obviously
-increases in proportion to the importance of the point at issue. Hence its
-observance never needs to be more jealously watched and more carefully
-2 In ch. xxv I shall return to the question of how the problem of democracy presented itself
-to Marx personally.
+increases in proportion to the importance of the point at issue. 
 
-safeguarded by all available guarantees than in the case of fundamental social
+
+
+<!-- 2 In ch. xxv I shall return to the question of how the problem of democracy presented itself
+to Marx personally. -->
+
+Hence its
+observance never needs to be more jealously watched and more carefully safeguarded by all available guarantees than in the case of fundamental social
 reconstruction. Whoever is prepared to relax this requirement and to accept
 either frankly undemocratic procedure or some method of securing formally
 democratic decision by undemocratic means, thereby proves conclusively
@@ -96,10 +117,10 @@ sole purpose of realizing true democracy, provided they are the only means
 of doing so. For this, even if granted, does not apply to the case of socialism
 which, as we have seen, is likely to become democratically possible precisely
 when it can be expected to be practically successful.
+
 In any case however it is obvious that any argument in favor of shelving
 democracy for the transitional period affords an excellent opportunity to
 evade all responsibility for it. Such provisional arrangements may well last
 for a century or more and means are available for a ruling group installed
 by a victorious revolution to prolong them indefinitely or to adopt the forms
 of democracy without the substance.
-

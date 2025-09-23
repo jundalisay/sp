@@ -1,7 +1,17 @@
-CHAPTER XXIII
-THE INFERENCE
-I. S OME I MPLICATIONS O F T HE P RECEDING A NALYSIS
-T HE theory of competitive leadership has proved a satisfactory
+---
+heading: Chapter 23
+title: "The Inference"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
+
+
+I. Some Implications Of The Preceding Analysis
+
+THE theory of competitive leadership has proved a satisfactory
 interpretation of the facts of the democratic process. So we shall
 naturally use it in our attempt to unravel the relation between democracy and
 a socialist order of things. As has been stated before, socialists claim not only
@@ -15,6 +25,7 @@ understand from the psychological background of the contest and from the
 natural wish of both parties to it to secure the support of a people the great
 majority of whom fervently believes in democracy. But suppose we ask:
 where lies the truth?
+
 Our analysis in this and preceding parts of this book readily yields an
 answer. Between socialism as we defined it and democracy as we defined it
 there is no necessary relation: the one can exist without the other. At the
@@ -33,7 +44,7 @@ look at some of the implications of our analysis of the democratic process.
 First of all, according to the view we have taken, democracy does not
 mean and cannot mean that the people actually rule in any obvious sense of
 the terms “people” and “rule.” Democracy means only that the people have
-The Inference 285
+
 the opportunity of accepting or refusing the men who are to rule them. But
 since they might decide this also in entirely undemocratic ways, we have had
 to narrow our definition by adding a further criterion identifying the
@@ -65,6 +76,7 @@ still in the nursery who has not absorbed, so as never to forget, the saying
 attributed to one of the most successful politicians that ever lived: “What
 businessmen do not understand is that exactly as they are dealing in oil so
 I am dealing in votes.” 3
+
 1 Illustrations abound of course. A particularly instructive class are the lawyers in the French
 chambre and sénat. Some of the outstanding political leaders were also great avocats: think
 for instance of Waldeck-Rousseau and of Poincaré. But as a rule (and if we choose to neglect
@@ -77,7 +89,7 @@ behavior of the intellectuals in ch. xiii, Section II.
 contrary, that it is frivolous or cynical to render lip service to slogans for which in private
 one has nothing but an augur’s smile. But it is just as well to point out that the view in
 question is not so derogatory to the politician as it might seem. It does not exclude ideals
-Socialism and Democracy286
+
 Let us note that there is no reason to believe that this will be either
 better or worse in a socialist organization of society. The doctor or engineer
 who means to fill the cup of his ambitions by means of success as a doctor
@@ -85,6 +97,7 @@ or engineer will still be a distinct type of man and have a distinct pattern
 of interests; the doctor or engineer who means to work or reform the
 institutions of his country will still be another type and have another
 pattern of interests.
+
 Second, students of political organization have always felt doubts
 concerning the administrative efficiency of democracy in large and complex
 societies. In particular it has been urged that, as compared with other
@@ -120,13 +133,14 @@ business life will hold for a moment that sense of duty and ideals about service
 efficiency play no role in shaping businessmen’s behavior. Yet the same economist is
 within his rights if he bases his explanation of that behavior on a schema that rests on
 the profit motive.
-The Inference 287
+
 Parliament is in session, he is lucky if he has a couple of hours in the
 morning left for thinking things over and for real work. Individual
 miscarriages and defeats of a government as a whole are not infrequently
 due to physical exhaustion of the leading man or men. 4 How could he, so
 it might well be asked, undertake to lead and supervise an administrative
 organism that is to embrace all the problems of economic life?
+
 But this wastage of governmental energy is not all. The incessant
 competitive struggle to get into office or to stay in it imparts to every
 consideration of policies and measures the bias so admirably expressed by
@@ -142,6 +156,7 @@ in danger of degenerating into domestic politics. And it makes it no less
 difficult to dose measures rationally. The dosing that a government decides
 on with an eye to its political chances is not necessarily the one that will
 produce the results most satisfactory to the nation.
+
 Thus the prime minister in a democracy might be likened to a horseman
 who is so fully engrossed in trying to keep in the saddle that he cannot plan
 his ride, or to a general so fully occupied with making sure that his army will
@@ -163,11 +178,12 @@ to avoid the war. But if this theory be considered unsatisfactory, as I think it
 we are driven back upon another: it is just possible that the gentlemen on the treasury bench
 were so absorbed in their political game that they did not wake up to the dangers of the
 international situation until it was too late.
-Socialism and Democracy288
+
 do succeed in that task. But nevertheless the weight of the criticism is
 thereby reduced to the statement that the satisfactory working of the
 democratic method is contingent upon fulfillment of certain conditions—a
 subject that will be taken up presently.
+
 Then there is the question of the alternative. These weaknesses are
 obviously not absent in non-democratic patterns. Paving one’s way to a
 leading position, say, at a court, may absorb quite as much energy and
@@ -176,6 +192,7 @@ struggle though that waste or distortion does not stand out so publicly. This
 amounts to saying that attempts at comparative appraisal of engines of
 government will have to take account of many other factors besides the
 institutional principles involved.
+
 Moreover, some of us will reply to the critic that a lower level of
 governmental efficiency may be exactly what we want. We certainly do not
 want to be the objects of dictatorial efficiency, mere material for deep games.
@@ -183,6 +200,7 @@ Such a thing as the Gosplan may at present be impossible in the United
 States. But does not this prove precisely that, just like the Russian Gosplan,
 its hypothetical analogue in this country would violate the spirit as well as
 the organic structure of the commonwealth?
+
 Finally, something can be done to reduce the pressure on the leading men
 by appropriate institutional devices. The American arrangement for instance
 shows up to advantage on this point. The American “prime minister” must
@@ -190,6 +208,7 @@ no doubt keep his eye on his political chessboard. But he need not feel
 responsible for every individual measure. And, not sitting in Congress, he
 is at least exempt from the physical strain this would involve. He has all the
 opportunity he wants to nurse his strength.
+
 Third, our analysis in the preceding chapter brings into bold relief the
 problem of the quality of the men the democratic method selects for
 positions of leadership. The well-known argument about this hardly needs
@@ -204,10 +223,9 @@ intellect and character that make a good candidate are not necessarily
 those that make a good administrator, and selection by means of success
 at the polls may work against the people who would be successes at the
 head of affairs. And even if the products of this selection prove successes
-in office these successes may well be failures for the nation. The
-The Inference 289
-politician who is a good tactician can successfully survive any number
+in office these successes may well be failures for the nation. The politician who is a good tactician can successfully survive any number
 of administrative miscarriages.
+
 Recognition of the elements of truth in all this should again be tempered
 by the recognition of the extenuating facts. In particular, the case for
 democracy stands to gain from a consideration of the alternatives: no system

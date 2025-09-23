@@ -73,7 +73,13 @@ But this object, it supposes, may perhaps have no resemblance whatever to its ef
 Thus, both of these views are open to the correction.
 
 1. object and idea are the same
-2. the true being of the object of perception is its action, that the reality of the thing consists in this, and the demand for an existence of the object outside the idea of the subject, and also for an essence of the actual thing different from its action, has absolutely no meaning, and is a contradiction: and that the knowledge of the nature of the effect of any perceived object, exhausts such an [018] object itself, so far as it is object, i.e., idea, for beyond this there is nothing more to be known. 
+2. the true being of the object of perception is its action
+
+The reality of the thing consists in this, and the demand for an existence of the object outside the idea of the subject, and also for an essence of the actual thing different from its action, has absolutely no meaning, and is a contradiction:
+
+The knowledge of the nature of the effect of any perceived object exhausts the object itself as an idea.
+
+<!-- , so far as it is object, i.e., idea, for beyond this there is nothing more to be known.  -->
 
 The perceived world in space and time, which makes itself known as causation alone, is entirely real.
 
@@ -87,12 +93,19 @@ The perceived world in space and time, which makes itself known as causation alo
 
  Without the understanding, the world is nothing.
 
- This, however, is not the only reason for altogether denying such a reality of the outer world as is taught by 
+ <!-- This, however, is not the only reason for altogether  as is taught by  -->
 
- The dogmatist, who explains its reality as its independence of the subject. We also deny it, because no object apart from a subject can be conceived without contradiction.
+The dogmatist denies the reality of the outer world in order to highlight the independence of the subject.
 
-The whole world of objects is and remains idea, and therefore wholly and for ever determined by the subject; that is to say,
-it has transcendental ideality. But it is not therefore illusion
+<!-- , who explains its reality as its  We also deny it, because no object apart from a subject can be conceived without contradiction. -->
+
+The whole world of objects is and remains idea.
+
+Therefore the world:
+- is wholly and forever determined by the subject.
+- has transcendental ideality
+
+But it is not therefore illusion
 or mere appearance; it presents itself as that which it is, idea,
 and indeed as a series of ideas of which the common bond is
 the principle of sufficient reason. It is according to its inmost

@@ -1,4 +1,14 @@
-II. A BOUT D EMIGODS A ND A RCHANGELS
+---
+heading: Chapter 18b
+title: "Demigods and Archangels"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
+
+
 Returning to our bourgeois who talked about demigods and archangels, we
 can easily dispose of the first; no demigods will be required to direct the
 socialist engine because, as we have seen before, the task to be solved will—
@@ -7,6 +17,7 @@ difficult but easier than the task that faces a captain of industry in the moder
 world. The archangels stand for the well-known proposition that the socialist
 form of existence presupposes an ethical level that men as they are cannot
 be expected to reach.
+
 Socialists have themselves to blame if arguments of this type ever carried
 weight with their opponents. They talked about the horrors of capitalist oppression
 and exploitation which had only to be removed in order to reveal human nature
@@ -16,6 +27,7 @@ they laid themselves open not only to the charge of flattering the masses to a
 ridiculous degree but also to the charge of espousing a Rousseauism which should
 be sufficiently exploded by now. But it is not at all necessary to do that. A good
 common-sense case can be made out without it.
+
 For this purpose, let us adopt a distinction that proves useful though
 psychologists may object to it. First, a given set of propensities to feel and
 to act may be altered by changes in the social environment while the
@@ -23,11 +35,12 @@ fundamental pattern underlying it (“human nature”) remains what it is. We
 will call this Change by Reconditioning. Second, still within that
 fundamental pattern, reconditioning may impinge on propensities to feel and
 to act which, though ultimately amenable to change by environmental
-2 Among Neo-Marxists the chief sinner was Max Adler (not to be confused with the two
+
+<!-- 2 Among Neo-Marxists the chief sinner was Max Adler (not to be confused with the two
 other Viennese Adlers who hold a prominent place in the history of Austrian socialism, Victor
 Adler, the great organizer and leader of the party, and his son, Fritz Adler, the murderer of Prime
-Minister Count Stürgkh).
-The Human Element 203
+Minister Count Stürgkh). -->
+
 alterations—particularly if these alterations are carried out rationally—yet
 resist for a time and create trouble as long as they do. This fact we may
 associate with the term Habits. Third, the fundamental pattern itself may be
@@ -39,6 +52,7 @@ can be usefully dealt with in the platform style by reckless assertion or
 equally reckless denial. But we need not commit ourselves either way,
 because no such fundamental reform of the human soul would now be
 necessary in order to make socialism work.
+
 Of this we can easily satisfy ourselves. We can first exclude the agrarian
 sector which could be expected to offer the most serious difficulties. Our
 socialism would still be socialism if the socialist management confined itself
@@ -52,6 +66,7 @@ substantially intact. There are other possible courses. But what matters to us
 is that there is one which could be followed with very little friction and could
 be followed indefinitely without impairing the claim of the society to being
 called socialist.
+
 Second, there is the world of the laborer and of the clerk. No reform of
 souls, no painful adaptation would be required of them. Their work would
 remain substantially what it is—and it would, with an important qualification
@@ -61,6 +76,7 @@ may denote as it pleases—he may, for instance, play proletarian football
 whereas now he is playing bourgeois football—but which would still be the
 same kind of home and the same kind of pursuits. No great difficulties need
 arise in that quarter.
+
 Third, there is the problem of the groups that not unnaturally expect to
 be the victims of the socialist arrangement—the problem, roughly
 speaking, of the upper or leading stratum. It cannot be settled according
@@ -68,9 +84,7 @@ to that hallowed doctrine which has become an article of faith much
 beyond the socialist camp, viz., the doctrine that this stratum consists of
 nothing but overfed beasts of prey whose presence in their economic and
 social positions is explicable only by luck and ruthlessness and who fill
-no other “function” than to withhold from the working masses—or the
-Can Socialism Survive?204
-consumers, as the case may be—the fruits of their toil; that these beasts
+no other “function” than to withhold from the working masses—or the consumers, as the case may be—the fruits of their toil; that these beasts
 of prey, moreover, bungle their own game by incompetence and (to add a
 more modern touch) produce depressions by their habit of hoarding the
 greater part of their loot; and that the socialist community need not bother
@@ -270,6 +284,7 @@ the sake of which he at present prizes the million a year. This argument loses
 nothing by the fact that such a practice would only revive a device which in
 the past has been widely used with excellent results. Why not? Trotsky
 himself accepted the Order of the Red Flag.
+
 As regards preferential treatment in terms of real income it should be
 observed first of all that to a certain extent it is a matter of rational
 behavior toward the existing stock of social resources quite independently
@@ -281,12 +296,13 @@ are to prevail. Of course they need not. The community may elect to give
 effect to ideals that preclude this and to refuse to look upon men as they
 would upon machines. And all that an economist is entitled to say about
 it is that the community should not act in ignorance of the fact that those
-ideals cost something. The point is of considerable importance. Many
-The Human Element 209
-incomes high enough to evoke adverse comment do not give their receivers
+ideals cost something. The point is of considerable importance. 
+
+Many incomes high enough to evoke adverse comment do not give their receivers
 more than the conditions of life and work—distance and freedom from
 minor worries included—that are sufficient to keep them fit for the kind
 of thing they are doing.
+
 So far as that point is taken account of, it will simultaneously solve,
 at least in part, the problem of providing purely economic stimuli. But
 I think that, again as a matter of rationality, the socialist community
@@ -327,7 +343,10 @@ but also by official residences staffed at the public expense, allowances for
 Can Socialism Survive?210
 provisions for service on international commissions or in the headquarters
 of an army and so on.
-IV. S AVING A ND D ISCIPLINE
+
+
+IV. SAVING AND DISCIPLINE
+
 Finally, what about the functions at present discharged by the bourgeoisie
 that the socialist regime is bound to take away from it? Under this heading
 we shall discuss Saving and Discipline.
@@ -1162,8 +1181,10 @@ indemnities could be settled on the lines suggested in our discussion of
 
 mature socialization; with modern rates of income tax and death duties this
 would not be a serious matter.
-First the banking apparatus of England is no doubt quite ripe for
-socialization. The Bank of England is little more than a treasury department,
+
+1. The banking apparatus of England is no doubt quite ripe for socialization. 
+
+The Bank of England is little more than a treasury department,
 in fact less independent than a well-ordered socialist community may well wish
 its financial organ to be. In commercial banking, concentration and
 bureaucratization seem to have done full work. The big concerns could be
@@ -1174,25 +1195,29 @@ so on without any customer becoming aware of the change except from his
 newspaper. The gain from rationalizing coordination of services might be
 substantial. From the socialist standpoint, there would also be a gain in the
 shape of an increase in the government’s influence on non-nationalized sectors.
-Second, the insurance business is an old candidate for nationalization and
-has to a large extent become mechanized by now. Integration with at least
+
+2. The insurance business is an old candidate for nationalization and has to a large extent become mechanized by now. Integration with at least
 some of the branches of social insurance may prove feasible; selling costs
 of policies could be considerably reduced and socialists might again rejoice
 in the access of power that control over the funds of insurance companies
 would give to the state.
 
-Third, few people would be disposed to make great difficulties over
+3. Few people would be disposed to make great difficulties over
 railroads or even over trucking. Inland transportation is in fact the most
 obvious field for successful state management.
-Fourth, nationalization of mining, in particular coal mining, and of the
+
+4. Nationalization of mining, in particular coal mining, and of the
 coal and tar products down to and including benzol, and also of the trade in
 coal and in those products might even result in an immediate gain in
 efficiency and prove a great success if labor problems can be dealt with
-satisfactorily. From the technological and commercial standpoint, the case
+satisfactorily. 
+
+From the technological and commercial standpoint, the case
 seems clear. But it seems equally clear that, private enterprise having been
 active in the chemical industry, no such success can with equal confidence
 be expected from an attempt to go beyond the limit indicated.
-Fifth, the nationalization of the production, transmission and distribution
+
+5. The nationalization of the production, transmission and distribution
 of electric current being substantially completed already, all that remains to
 be said under this head is that the electro-technical industry is a typical
 instance of what may still be expected from private enterprise—which shows
@@ -1203,25 +1228,21 @@ nevertheless would be an essential condition of success if the state is to
 absorb so great a part of the nation’s economic life and still fulfill all the
 tasks of the modern state.
 
-Transition 231
+6. Socialization of the iron and steel industry will be felt to be a much more controversial proposition than any made so far. But this industry has certainly sown its wild oats and can be “administered” henceforth—the administration including, of course, a huge research department. Some gains would result from coordination. And there is hardly much danger of losing the fruits of any entrepreneurial impulses.
 
-Sixth, socialization of the iron and steel industry will be felt to be a much
-more controversial proposition than any made so far. But this industry has
-certainly sown its wild oats and can be “administered” henceforth—the
-administration including, of course, a huge research department. Some gains
-would result from coordination. And there is hardly much danger of losing
-the fruits of any entrepreneurial impulses.
-
-Seventh, with the possible exception of the architects’ share in the matter,
+7. With the possible exception of the architects’ share in the matter,
 the building and building material industries could, I believe, be successfully
 run by a public body of the right kind. So much of it already is regulated,
 subsidized and controlled in one way or another that there even might be a
 gain in efficiency—more than enough, perhaps, to compensate for the
 sources of loss that might be opened up.
+
 This is not necessarily all. But any step beyond this program would have
 to justify itself by special, mostly non-economic reasons—the armament or
 key industries, movies, shipbuilding, trade in foodstuffs being possible
-instances. At any rate, those seven items are enough to digest for quite a time
+instances. 
+
+At any rate, those seven items are enough to digest for quite a time
 to come, enough also to make a responsible socialist, if he gets so much
 done, bless his work and accept the concessions that it would at the same
 time be rational to make outside of the nationalized sector. If he insists also
@@ -1237,8 +1258,9 @@ this aspect. But it seems to me essential, for the sake of clarity of political
 thought, to visualize the problem irrespective of the effects of the war. Otherwise
 its nature can never stand out as it should. Therefore I leave this chapter, both
 in form and in content, exactly as I wrote it in the summer of 1938.
-4 This is no place for airing personal preferences. Nevertheless I wish it to be understood
+
+<!-- 4 This is no place for airing personal preferences. Nevertheless I wish it to be understood
 that the above statement is made as a matter of professional duty and does not imply that I am
 in love with that proposal which, were I an Englishman, I should on the contrary oppose to
-the best of my ability.
+the best of my ability. -->
 

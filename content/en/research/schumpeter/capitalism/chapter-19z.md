@@ -1,4 +1,13 @@
-III. A M ENTAL E XPERIMENT
+---
+heading: Chapter 19z
+title: "A Mental Experiment"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
+
 Suppose that a community, in a way which satisfies the reader’s criteria
 of democracy, reached the decision to persecute religious dissent. The
 instance is not fanciful. Communities which most of us would readily
@@ -9,7 +18,7 @@ realized the risk involved in staging bolshevism in a country entirely dependent
 powers for its food and with French and Italian troops practically at its door, but that, if pressure
 from Russia via Hungary should become too great, they would not split the party but would
 try to lead the whole flock into the bolshevik camp.
-The Setting of the Problem 241
+
 repulsive to our moral standards—colonial Massachusetts may serve as an
 example. Cases of this type do not cease to be relevant if they occur in
 non-democratic states. For it is naïve to believe that the democratic process
@@ -20,6 +29,7 @@ the political pattern had been a democratic one. For instance, at least the
 earlier persecutions of the Christians were certainly approved by Roman
 public opinion and presumably would have been no milder if Rome had
 been a pure democracy. 7
+
 Witch hunting affords another example. It grew out of the very soul of
 the masses and was anything but a diabolical invention of priests and
 princes who, on the contrary, suppressed it as soon as they felt able to do
@@ -34,6 +44,7 @@ governmental prohibitions eventually prevailed. The curiously cautious way
 in which so strong a ruler as the Empress Maria Theresa went about
 prohibiting the practice clearly shows that she knew she was fighting the
 will of her people.
+
 Finally, to choose an example that has some bearing on modern issues,
 anti-Semitism has been one of the most deep-seated of all popular attitudes
 in most nations in which there was, relative to total population, any
@@ -43,6 +54,7 @@ remained of it to assure popular success to any politician who cared to appeal
 to it. Most of the anti-capitalist movements of our time other than straight
 socialism have in fact learned the lesson. In the Middle Ages however, it is
 not too much to say that the Jews owed their survival to the protection of
+
 7 An example will illustrate the kind of evidence there is for this statement. Suetonius
 in his biography of Nero (De vita Caesarum, liber VI) first relates those acts of the latter’s
 reign which he, Suetonius, considered to be partly blameless and partly even commendable
@@ -53,9 +65,10 @@ measures (afflicti suppliciis Christiani, genus hominum superstitionis novæ ac 
 There is no reason to suppose that Suetonius expressed anything but the opinion (and, by
 inference, the will) of the people. In fact it is not far-fetched to suspect that Nero’s motive
 was to please the people.
-Socialism and Democracy242
+
 the church and of the princes who sheltered them in the face of popular
 opposition and in the end emancipated them. 8
+
 Now for our experiment. Let us transport ourselves into a hypothetical
 country that, in a democratic way, practices the persecution of Christians,
 the burning of witches, and the slaughtering of Jews. We should certainly
@@ -77,9 +90,11 @@ arriving at political—legislative and administrative—decisions and hence
 incapable of being an end in itself, irrespective of what decisions it will
 produce under given historical conditions. And this must be the starting
 point of any attempt at defining it.
+
 Whatever the distinctive trait of the democratic method may be, the
 historical examples we have just glanced at teach us a few things about it
 that are important enough to warrant explicit restatement.
+
 First, these examples suffice to preclude any attempt at challenging the
 proposition just stated, viz., that, being a political method, democracy cannot, any
 more than can any other method, be an end in itself. It might be objected that as
@@ -91,12 +106,13 @@ opposed except in the way sanctioned by democratic principles. But it seems much
 more natural in such cases to speak of the rabble instead of the people and to fight
 its criminality or stupidity by all the means at one’s command.
 Second, if we agree that unconditional allegiance to democracy can be
+
 8 The protective attitude of the popes may be instanced by the bull Etsi Judæis (1120) the
 repeated confirmation of which by the successors of Calixtus II proves both the continuity of
 that policy and the resistance it met. The protective attitude of the princes will be readily
 understood if it be pointed out that expulsions or massacres of Jews meant loss of much-needed
 revenue to them.
-The Setting of the Problem 243
+
 due only to unconditional allegiance to certain interests or ideals which
 democracy is expected to serve, our examples also preclude the objection
 that though democracy may not be an absolute ideal in its own right, it is
@@ -110,9 +126,9 @@ of society in which democracy can be expected to work in ways we approve.
 Propositions about the working of democracy are meaningless without
 reference to given times, places and situations10 and so, of course, are anti-
 democratic arguments.
+
 This after all is only obvious. It should not surprise, still less shock,
 anyone. For it has nothing to do with the fervor or dignity of democratic
 conviction in any given situation. To realize the relative validity of one’s
 convictions and yet stand for them unflinchingly is what distinguishes a
 civilized man from a barbarian.
-

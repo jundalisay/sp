@@ -1,12 +1,16 @@
-II. T HE W ILL O F T HE P EOPLE A ND I NDIVIDUAL V OLITION
-Of course, however conclusively those arguments may tell against this
-particular conception of the will of the people, they do not debar us from
-2 The very meaning of “greatest happiness” is open to serious doubt. But even if this doubt
-could be removed and definite meaning could be attached to the sum total of economic
-satisfaction of a group of people, that maximum would still be relative to given situations and
-valuations which it may be impossible to alter, or compromise on, in a democratic way.
-The Classical Doctrine of Democracy 253
-trying to build up nother and more realistic one. I do not intend to question
+---
+heading: Chapter 21x
+title: "THE WILL OF THE PEOPLE and INDIVIDUAL VOLITION"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
+
+
+However conclusively those arguments may tell against this
+particular conception of the will of the people, they do not debar us from trying to build up nother and more realistic one. I do not intend to question
 either the reality or the importance of the socio-psychological facts we
 think of when speaking of the will of a nation. Their analysis is certainly
 the prerequisite for making headway with the problems of democracy. It
@@ -19,6 +23,13 @@ defenders of democracy who while accepting, under pressure of
 accumulating evidence, more and more of the facts of the democratic
 process, yet try to anoint the results that process turns out with oil taken
 from eighteenth-century jars.
+
+<!-- 2 The very meaning of “greatest happiness” is open to serious doubt. But even if this doubt
+could be removed and definite meaning could be attached to the sum total of economic
+satisfaction of a group of people, that maximum would still be relative to given situations and
+valuations which it may be impossible to alter, or compromise on, in a democratic way.
+ -->
+
 But though a common will or public opinion of some sort may still
 be said to emerge from the infinitely complex jumble of individual and
 group-wise situations, volitions, influences, actions and reactions of the
@@ -36,6 +47,7 @@ be independent of the desirability of results. As we have seen, it is not
 easy to place oneself on that standpoint. But even if we do so, the
 dropping of the utilitarian common good still leaves us with plenty of
 difficulties on our hands.
+
 In particular, we still remain under the practical necessity of attributing
 to the will of the individual an independence and a rational quality that are
 altogether unrealistic. If we are to argue that the will of the citizens per se
@@ -45,10 +57,10 @@ loosely playing about given slogans and mistaken impressions. Everyone
 would have to know definitely what he wants to stand for. This definite will
 would have to be implemented by the ability to observe and interpret
 correctly the facts that are directly accessible to everyone and to sift critically
-the information about the facts that are not. Finally, from that definite will
-and from these ascertained facts a clear and prompt conclusion as to
-Socialism and Democracy254
-particular issues would have to be derived according to the rules of logical
+the information about the facts that are not. 
+
+Finally, from that definite will
+and from these ascertained facts a clear and prompt conclusion as to particular issues would have to be derived according to the rules of logical
 inference—with so high a degree of general efficiency moreover that one
 man’s opinion could be held, without glaring absurdity, to be roughly as
 good as every other man’s. 3 And all this the modal citizen would have to
@@ -59,6 +71,7 @@ whether these conditions are fulfilled to the extent required in order to make
 democracy work should not be answered by reckless assertion or equally
 reckless denial. It can be answered only by a laborious appraisal of a maze
 of conflicting evidence.
+
 Before embarking upon this, however, I want to make quite sure that the
 reader fully appreciates another point that has been made already. I will
 therefore repeat that even if the opinions and desires of individual citizens
@@ -71,14 +84,16 @@ will of the people. It is not only conceivable but, whenever individual wills
 are much divided, very likely that the political decisions produced will not
 conform to “what people really want.” Nor can it be replied that, if not
 exactly what they want, they will get a “fair compromise.” This may be so.
-3 This accounts for the strongly equalitarian character both of the classical doctrine of
+
+<!-- 3 This accounts for the strongly equalitarian character both of the classical doctrine of
 democracy and of popular democratic beliefs. It will be pointed out later on how Equality may
 acquire the status of an ethical postulate. As a factual statement about human nature it cannot
 be true in any conceivable sense. In recognition of this the postulate itself has often been
 reformulated so as to mean “equality of opportunity.” But, disregarding even the difficulties
 inherent in the word opportunity, this reformulation does not help us much because it is actual
 and not potential equality of performance in matters of political behavior that is required if each
-man’s vote is to carry the same weight in the decision of issues.
+man’s vote is to carry the same weight in the decision of issues. -->
+
 It should be noted in passing that democratic phraseology has been instrumental in fostering
 the association of inequality of any kind with “injustice” which is so important an element in
 the psychic pattern of the unsuccessful and in the arsenal of the politician who uses him. One
@@ -94,7 +109,7 @@ the congregatio de propaganda fide. In itself therefore it does not carry any de
 and in particular it does not imply distortion of facts. One can make propaganda, for instance,
 for a scientific method. It simply means the presentation of facts and arguments with a view
 to influencing people’s actions or opinions in a definite direction.
-The Classical Doctrine of Democracy 255
+
 The chances for this to happen are greatest with those issues which are
 quantitative in nature or admit of gradation, such as the question how much
 is to be spent on unemployment relief provided everybody favors some
@@ -103,6 +118,7 @@ whether to persecute heretics or to enter upon a war, the result attained may
 well, though for different reasons, be equally distasteful to all the people
 whereas the decision imposed by a non-democratic agency might prove
 much more acceptable to them.
+
 An example will illustrate. I may, I take it, describe the rule of
 Napoleon, when First Consul, as a military dictatorship. One of the most
 pressing political needs of the moment was a religious settlement that
@@ -134,15 +150,17 @@ peasants who more than anything else wanted their priests, their churches
 and processions would have been paralyzed by the very natural fear that
 the revolutionary settlement of the land question might be endangered
 once the clergy—the bishops especially—were in the saddle again.
-5 The legislative bodies, cowed though they were, completely failed in fact to support
-Napoleon in this policy. And some of his most trusted paladins opposed it.
-Socialism and Democracy256
+
+<!-- 5 The legislative bodies, cowed though they were, completely failed in fact to support
+Napoleon in this policy. And some of his most trusted paladins opposed it. -->
+
 Deadlock or interminable struggle, engendering increasing irritation,
 would have been the most probable outcome of any attempt to settle the
 question democratically. But Napoleon was able to settle it reasonably,
 precisely because all those groups which could not yield their points of
 their own accord were at the same time able and willing to accept the
 arrangement if imposed.
+
 This instance of course is not an isolated one. 6 If results that prove in the
 long run satisfactory to the people at large are made the test of government
 for the people, then government by the people, as conceived by the classical
