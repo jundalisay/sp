@@ -18,20 +18,23 @@ philosophical clearness, and exhibiting as a branch of our central
 thought that special ethical significance of action which in life is
 with perfect understanding denoted by the words good and bad. -->
 
-I wish to trace back to their real meaning
-those conceptions of good and bad which have been treated
-by the philosophical writers of the day, very extraordinarily, as
-simple conceptions, and thus incapable of analysis; so that the
+The conceptions of good and bad are simple conceptions.
+
+Thus they are incapable of analysis.
+
+<!--  so that the
 reader may not remain involved in the senseless delusion that
 they contain more than is actually the case, and express in and
-for themselves all that is here necessary. 
+for themselves all that is here necessary.  -->
 
 I am in a position to
 do this because in ethics I am no more disposed to take refuge behind the word good than formerly behind the words beautiful
 and true, in order that by the adding a “ness,” which at the
 present day is supposed to have a special √μºΩøƒ∑¬, and therefore
 to be of assistance in various cases, and by assuming an air of
-solemnity, I might induce the belief that by uttering three such
+solemnity, 
+
+I might induce the belief that by uttering three such
 words I had done more than denote three very wide and abstract,
 and consequently empty conceptions, of very different origin
 and significance. 
@@ -45,115 +48,36 @@ they have only to utter these three words with open mouth and
 the air of an intelligent sheep, in order to have spoken the greatest
 wisdom?
 
-The explanation of the concept true has already been given in the essay on the principle of sufficient reason, chap. v. § 29 et
-seq. The content of the concept beautiful found for the first time
+The explanation of the concept true has already been given in the essay on the principle of sufficient reason, chap. v. § 29 et seq. 
+
+The content of the concept beautiful found for the first time
 its proper explanation through the whole of the Third Book of the
 present work. We now wish to discover the significance of the
 concept good, which can be done with very little trouble. 
 
-This
-concept is essentially relative, and signifies the conformity of an
-object to any definite effort of the will. Accordingly everything
-that corresponds to the will in any of its expressions and fulfils
-its end is thought through the concept good, however different
-such things may be in other respects. Thus we speak of good
-eating, good roads, good weather, good weapons, good omens,
-and so on; in short, we call everything good that is just as we
-wish it to be; and therefore that may be good in the eyes of
-one man which is just the reverse in those of another. The
-conception of the good divides itself into two sub-species—that
-of the direct and present satisfaction of any volition, and that of
-its indirect satisfaction which has reference to the future, i.e., the
-agreeable and the useful. 
+This concept is essentially relative, and signifies the conformity of an object to any definite effort of the will. Accordingly everything that corresponds to the will in any of its expressions and fulfils its end is thought through the concept good, however different such things may be in other respects.
 
-The conception of the opposite, so long as we are speaking of unconscious existence, is expressed by the
-word bad, more rarely and abstractly by the word evil, which
-thus denotes everything that does not correspond to any effort
-of the will. 
+Thus we speak of good eating, good roads, good weather, good weapons, good omens, and so on; in short, we call everything good that is just as we wish it to be; and therefore that may be good in the eyes of one man which is just the reverse in those of another. The conception of the good divides itself into two sub-species—that of the direct and present satisfaction of any volition, and that of its indirect satisfaction which has reference to the future, i.e., the agreeable and the useful.
 
-Like all other things that can come into relation to
-the will, men who are favourable to the ends which happen to
-be desired, who further and befriend them, are called good, in
-the same sense, and always with that relative limitation, which
-shows itself, for example, in the expression, “I find this good,
-but you don't.” 
+The conception of the opposite, so long as we are speaking of unconscious existence, is expressed by the word bad, more rarely and abstractly by the word evil, which thus denotes everything that does not correspond to any effort of the will. 
 
-Those, however, who are naturally disposed not
-to hinder the endeavours of others, but rather to assist them,
-and who are thus consistently helpful, benevolent, friendly, and
-charitable, are called good men, on account of this relation of
-their conduct to the will of others in general. 
+Like all other things that can come into relation to the will, men who are favourable to the ends which happen to be desired, who further and befriend them, are called good, in the same sense, and always with that relative limitation, which shows itself, for example, in the expression, “I find this good, but you don't.”
 
-In the case of
-conscious beings (brutes and men) the contrary conception is
-denoted in German, and, within the last hundred years or so,[466]
-in French also, by a different word from that which is used in
-speaking of unconscious existence; in German, böse; in French,
-méchant; while in almost all other languages this distinction does
-not exist; and ∫±∫ø¬, malus, cattivo, bad, are used of men, as
-of lifeless things, which are opposed to the ends of a definite
-individual will. Thus, having started entirely from the passive
-element in the good, the inquiry could only proceed later to the
-active element, and investigate the conduct of the man who is
-called good, no longer with reference to others, but to himself;
-specially setting itself the task of explaining both the purely
-objective respect which such conduct produces in others, and
-the peculiar contentment with himself which it clearly produces
-in the man himself, since he purchases it with sacrifices of
-another kind; and also, on the other hand, the inner pain which
-accompanies the bad disposition, whatever outward advantages
-it brings to him who entertains it. It was from this source
-that the ethical systems, both the philosophical and those which
-are supported by systems of religion, took their rise. 
+Those, however, who are naturally disposed not to hinder the endeavours of others, but rather to assist them, and who are thus consistently helpful, benevolent, friendly, and charitable, are called good men, on account of this relation of their conduct to the will of others in general.
 
-Both seek
-constantly in some way or other to connect happiness with virtue, the former either by means of the principle of contradiction or that
-of sufficient reason, and thus to make happiness either identical
-with or the consequence of virtue, always sophistically; the latter,
-by asserting the existence of other worlds than that which alone
-can be known to experience.79 In our system, on the contrary, [467]
-virtue will show itself, not as a striving after happiness, that is,
-well-being and life, but as an effort in quite an opposite direction.
-It follows from what has been said above, that the good
-is, according to its concept, ƒ…Ω ¿¡…¬ ƒπ; thus every good
-is essentially relative, for its being consists in its relation to
-a desiring will. Absolute good is, therefore, a contradiction
-in terms; highest good, summum bonum, really signifies the
-same thing—a final satisfaction of the will, after which no new
-desire could arise,—a last motive, the attainment of which would
-afford enduring satisfaction of the will. But, according to the
-investigations which have already been conducted in this Fourth
-79 Observe, in passing, that what gives every positive system of religion its
-great strength, the point of contact through which it takes possession of the
-soul, is entirely its ethical side. Not, however, the ethical side directly as such,
-but as it appears firmly united and interwoven with the element of mythical
-dogma which is present in every system of religion, and as intelligible only by
-means of this. So much is this the case, that although the ethical significance
-of action cannot be explained in accordance with the principle of sufficient
-reason, yet since every mythus follows this principle, believers regard the
-ethical significance of action as quite inseparable, and indeed as absolutely
-identical, and regard every attack upon the mythus as an attack upon right and
-virtue. 
+In the case of conscious beings (brutes and men) the contrary conception is denoted in German, and, within the last hundred years or so,[466] in French also, by a different word from that which is used in speaking of unconscious existence; in German, böse; in French, méchant; while in almost all other languages this distinction does not exist; and ∫±∫ø¬, malus, cattivo, bad, are used of men, as of lifeless things, which are opposed to the ends of a definite individual will.
 
-This goes so far that among monotheistic nations atheism or godlessness
-has become synonymous with the absence of all morality. To the priests such
-confusions of conceptions are welcome, and only in consequence of them
-could that horrible monstrosity fanaticism arise and govern, not merely single
-individuals who happen to be specially perverse and bad, but whole nations,
-and finally embody itself in the Western world as the Inquisition (to the honour
-of mankind be it said that this only happened once in their history), which,
-according to the latest and most authentic accounts, in Madrid alone (in the rest
-of Spain there were many more such ecclesiastical dens of murderers) in 300
-years put 300,000 human beings to a painful death at the stake on theological
-grounds—a fact of which every zealot ought to be reminded whenever he
+Thus, having started entirely from the passive element in the good, the inquiry could only proceed later to the active element, and investigate the conduct of the man who is called good, no longer with reference to others, but to himself; specially setting itself the task of explaining both the purely objective respect which such conduct produces in others, and the peculiar contentment with himself which it clearly produces in the man himself, since he purchases it with sacrifices of another kind; and also, on the other hand, the inner pain which accompanies the bad disposition, whatever outward advantages it brings to him who entertains it. It was from this source that the ethical systems, both the philosophical and those which are supported by systems of religion, took their rise.
 
-Book, such a consummation is not even thinkable. The will can
-just as little cease from willing altogether on account of some
-particular satisfaction, as time can end or begin; for it there is
-no such thing as a permanent fulfilment which shall completely
-and for ever satisfy its craving. It is the vessel of the Danaides;
-for it there is no highest good, no absolute good, but always
-a merely temporary good. If, however, we wish to give an
+Both seek constantly in some way or other to connect happiness with virtue, the former either by means of the principle of contradiction or that of sufficient reason, and thus to make happiness either identical with or the consequence of virtue, always sophistically; the latter, by asserting the existence of other worlds than that which alone can be known to experience.79 In our system, on the contrary, virtue will show itself, not as a striving after happiness, that is, well-being and life, but as an effort in quite an opposite direction. It follows from what has been said above, that the good is, according to its concept, ƒ…Ω ¿¡…¬ ƒπ; thus every good is essentially relative, for its being consists in its relation to a desiring will. Absolute good is, therefore, a contradiction in terms; highest good, summum bonum, really signifies the same thing—a final satisfaction of the will, after which no new desire could arise,—a last motive, the attainment of which would afford enduring satisfaction of the will.
+
+But, according to the investigations which have already been conducted in this Fourth 79 Observe, in passing, that what gives every positive system of religion its great strength, the point of contact through which it takes possession of the soul, is entirely its ethical side. Not, however, the ethical side directly as such, but as it appears firmly united and interwoven with the element of mythical dogma which is present in every system of religion, and as intelligible only by means of this. So much is this the case, that although the ethical significance of action cannot be explained in accordance with the principle of sufficient reason, yet since every mythus follows this principle, believers regard the ethical significance of action as quite inseparable, and indeed as absolutely identical, and regard every attack upon the mythus as an attack upon right and virtue.
+
+This goes so far that among monotheistic nations atheism or godlessness has become synonymous with the absence of all morality. To the priests such confusions of conceptions are welcome, and only in consequence of them could that horrible monstrosity fanaticism arise and govern, not merely single individuals who happen to be specially perverse and bad, but whole nations, and finally embody itself in the Western world as the Inquisition (to the honour of mankind be it said that this only happened once in their history), which, according to the latest and most authentic accounts, in Madrid alone (in the rest of Spain there were many more such ecclesiastical dens of murderers) in 300 years put 300,000 human beings to a painful death at the stake on theological grounds—a fact of which every zealot ought to be reminded whenever he
+
+Book, such a consummation is not even thinkable. The will can just as little cease from willing altogether on account of some particular satisfaction, as time can end or begin; for it there is no such thing as a permanent fulfilment which shall completely and for ever satisfy its craving. It is the vessel of the Danaides; for it there is no highest good, no absolute good, but always a merely temporary good.
+
+If, however, we wish to give an
 honorary position, as it were emeritus, to an old expression,
 which from custom we do not like to discard altogether, we
 may, metaphorically and figuratively, call the complete self-

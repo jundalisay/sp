@@ -12,11 +12,19 @@ writer:
 
 
 
-A theory of morals without proof, that is, mere moralising, can effect nothing, because it does not act as a motive. A theory of morals which does act as a motive can do so only by working on self-love. 
+A theory of morals without proof is mere moralising.
 
-But what springs from this source has no moral worth. It follows from this that no genuine virtue can be produced through moral theory or abstract knowledge in general, but that such virtue must spring from that intuitive knowledge which recognises in the individuality of others the same nature as in our own.
+It can effect nothing because it does not act as a motive. 
 
-For virtue certainly proceeds from knowledge, but not from the abstract knowledge that can be communicated through words. If it were so, virtue could be taught, and by here expressing in abstract language its nature and the knowledge which lies at its foundation, we should make every one who comprehends this even ethically better. But this is by no means the case.
+A theory of morals which does act as a motive can do so only by working on self-love. 
+
+But what springs from this source has no moral worth. 
+
+It follows from this that no genuine virtue can be produced through moral theory or abstract knowledge in general, but that such virtue must spring from that intuitive knowledge which recognises in the individuality of others the same nature as in our own.
+
+For virtue certainly proceeds from knowledge, but not from the abstract knowledge that can be communicated through words. If it were so, virtue could be taught, and by here expressing in abstract language its nature and the knowledge which lies at its foundation, we should make every one who comprehends this even ethically better. 
+
+But this is by no means the case.
 
 On the contrary, ethical discourses and preaching will just as little produce a virtuous man as all the systems of æsthetics from Aristotle downwards have succeeded in producing a poet.
 
