@@ -4,7 +4,7 @@ title: "Marx The Economist"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 9
 ---
 
 

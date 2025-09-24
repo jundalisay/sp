@@ -4,17 +4,15 @@ title: "MONOPOLISTIC PRACTICES"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 25
 ---
 
 
-W HAT has been said so far is really sufficient to enable the reader to
-deal with the large majority of the practical cases he is likely to meet
-and to realize the inadequacy of most of those criticisms of the profit
+What has been said so far is really sufficient to enable the reader to deal with the large majority of the practical cases he is likely to meet and to realize the inadequacy of most of those criticisms of the profit
 economy which, directly or indirectly, rely on the absence of perfect
-competition. Since, however, the bearing of our argument on some of those
-criticisms may not be obvious at a glance, it will be worth our while to
-elaborate a little in order to make a few points more explicit.
+competition. 
+
+Since, however, the bearing of our argument on some of those criticisms may not be obvious at a glance, it will be worth our while to elaborate a little in order to make a few points more explicit.
 
 1. As a fact and as a threat, the impact of new things—new technologies for instance—on the existing structure of an
 industry considerably reduces the long-run scope and importance of
@@ -63,6 +61,7 @@ economists accept as normal elements of rational management 3 are only
 special cases of a larger class comprising many others which most
 economists condemn although they do not differ fundamentally from the
 recognized ones.
+
 If for instance a war risk is insurable, nobody objects to a firm’s
 collecting the cost of this insurance from the buyers of its products. But
 that risk is no less an element in long-run costs, if there are no facilities
@@ -76,23 +75,24 @@ additional investment in order to provide excess capacity to be used only
 for aggression or defense. Again, if long-period contracts cannot be entered
 into in advance, other means may have to be devised in order to tie
 prospective customers to the investing firm.
+
 In analyzing such business strategy ex visu of a given point of time, the
 investigating economist or government agent sees price policies that seem
 to him predatory and restrictions of output that seem to him synonymous
 with loss of opportunities to produce. He does not see that restrictions of this
 type are, in the conditions of the perennial gale, incidents, often unavoidable
 incidents, of a long-run process of expansion which they protect rather than
-impede. There is no more of paradox in this than there is in saying that
-2 In particular, it is easy to show that there is no sense, and plenty of harm, in a policy that
+impede. There is no more of paradox in this than there is in saying that motorcars are traveling faster than they otherwise would because they are
+provided with brakes.
+
+<!-- 2 In particular, it is easy to show that there is no sense, and plenty of harm, in a policy that
 aims at preserving “price parities.”
 3 Some economists, however, consider that even those devices are obstructions to progress
 which, though perhaps necessary in capitalist society, would be absent in a socialist one. There
 is some truth in this. But that does not affect the proposition that the protection afforded by
 patents and so on is, in the conditions of a profit economy, on balance a propelling and not an
-inhibiting factor.
-Monopolistic Practices 89
-motorcars are traveling faster than they otherwise would because they are
-provided with brakes.
+inhibiting factor. -->
+
 2. This stands out most clearly in the case of those sectors of the economy
 which at any time happen to embody the impact of new things and methods
 on the existing industrial structure. The best way of getting a vivid and
@@ -110,6 +110,7 @@ defense, also pieces of armor other than price and quality of their product
 which, moreover, must be strategically manipulated all along so that at any
 point of time they seem to be doing nothing but restricting their output and
 keeping prices high.
+
 On the one hand, largest-scale plans could in many cases not
 materialize at all if it were not known from the outset that competition
 will be discouraged by heavy capital requirements or lack of experience,
@@ -121,7 +122,8 @@ sense of fair play—railroad rebates—move, as far as long-run effects on
 total output alone are envisaged, into a different light; 4 they may be
 methods for removing obstacles that the institution of private property
 puts in the path of progress. In a socialist society that time and space
-4 The qualification added removes, I think, any just cause for offense that the above
+
+<!-- 4 The qualification added removes, I think, any just cause for offense that the above
 proposition might conceivably cause. In case that qualification is not explicit enough, I beg
 leave to repeat that the moral aspect is in this case, as it must be in every case, entirely
 unaffected by an economic argument. For the rest, let the reader reflect that even in dealing
@@ -133,10 +135,11 @@ means, does not that prove in itself that it cannot spell social gain? A very si
 can be framed in support of this view. But it is subject to a severe ceteris paribus proviso. That
 is to say, it holds for conditions which are just about equivalent to excluding the process of
 creative destruction—capitalist reality. On reflection, it will be seen that the analogy of the
-practices under discussion with patents is sufficient to show this.
-Can Capitalism Survive?90
+practices under discussion with patents is sufficient to show this.  -->
+
 would be no less necessary. They would have to be secured by order of
 the central authority.
+
 On the other hand, enterprise would in most cases be impossible if it were
 not known from the outset that exceptionally favorable situations are likely to
 arise which if exploited by price, quality and quantity manipulation will produce
@@ -151,6 +154,7 @@ to work for nothing: in the midst of the prosperous twenties just about half of
 the business corporations in the United States were run at a loss, at zero profits,
 or at profits which, if they had been foreseen, would have been inadequate to
 call forth the effort and expenditure involved.
+
 Our argument however extends beyond the cases of new concerns,
 methods and industries. Old concerns and established industries, whether or
 not directly attacked, still live in the perennial gale. Situations emerge in the
@@ -166,6 +170,7 @@ crash and in attempting to turn a rout, which may become a center of
 cumulative depressive effects, into orderly retreat. Correspondingly there is,
 in the case of industries that have sown their wild oats but are still gaining
 and not losing ground, such a thing as orderly advance. 5
+
 5 A good example illustrative of this point—in fact of much of our general argument—is
 the postwar history of the automobile and the rayon industry. The first illustrates very well the
 nature and value of what we might call “edited” competition. The bonanza time was over by
@@ -178,7 +183,7 @@ attempt at monopolistic combination would call in new competitors. Among themsel
 three concerns behave in a way which should be called corespective rather than competitive:
 they refrain from certain aggressive devices (which, by the way, would also be absent in perfect
 competition); they keep up with each other and in doing so play for points at the frontiers. This
-Monopolistic Practices 91
+
 All this is of course nothing but the tritest common sense. But it is being
 overlooked with a persistence so stubborn as sometimes to raise the question
 of sincerity. And it follows that, within the process of creative destruction,

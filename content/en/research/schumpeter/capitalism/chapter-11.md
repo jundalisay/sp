@@ -4,7 +4,7 @@ title: "The Civilization Of Capitalism"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 35
 ---
 
 
@@ -219,8 +219,14 @@ capitalism not only, to repeat, because the capitalist process supplies the
 means and the will, but much more fundamentally because capitalist
 rationality supplied the habits of mind that evolved the methods used in these
 hospitals. And the victories, not yet completely won but in the offing, over
-cancer, syphilis and tuberculosis will be as much capitalist achievements as
-6 The Medici are not really an exception. For though their wealth helped them to acquire
+cancer, syphilis and tuberculosis will be as much capitalist achievements as motorcars or pipe lines or Bessemer steel have been. In the case of medicine,
+there is a capitalist profession behind the methods, capitalist both because
+to a large extent it works in a business spirit and because it is an emulsion
+of the industrial and commercial bourgeoisie. But even if that were not so,
+modern medicine and hygiene would still be by-products of the capitalist
+process just as is modern education.
+
+<!-- 6 The Medici are not really an exception. For though their wealth helped them to acquire
 control of the Florentine commonwealth, it was this control and not the wealth per se which
 accounts for the role played by the family. In any case they are the only merchants that ever
 rose to a footing of equality with the uppermost stratum of the feudal world. Real exceptions
@@ -228,14 +234,9 @@ we find only where capitalist evolution created an environment or completely bro
 feudal stratum—in Venice and in the Netherlands for instance.
 7 The immediate goal, because the analysis contained in the last pages will stand us in good
 stead also for other purposes. It is in fact fundamental for any serious discussion of the great
-theme of Capitalism and Socialism.
-Can Capitalism Survive?126
-motorcars or pipe lines or Bessemer steel have been. In the case of medicine,
-there is a capitalist profession behind the methods, capitalist both because
-to a large extent it works in a business spirit and because it is an emulsion
-of the industrial and commercial bourgeoisie. But even if that were not so,
-modern medicine and hygiene would still be by-products of the capitalist
-process just as is modern education.
+theme of Capitalism and Socialism. -->
+
+
 There is the capitalist art and the capitalist style of life. If we limit
 ourselves to painting as an example, both for brevity’s sake and because in
 that field my ignorance is slightly less complete than it is in others, and if
@@ -254,6 +255,7 @@ novel: “documents written up”) would illustrate still better. But that is
 obvious. The evolution of the capitalist style of life could be easily—and
 perhaps most tellingly—described in terms of the genesis of the modern
 lounge suit.
+
 There is finally all that may be grouped around the symbolic centerpiece
 of Gladstonian liberalism. The term Individualist Democracy would do just
 as well—better in fact because we want to cover some things that Gladstone
@@ -270,9 +272,7 @@ modern capitalist society; and whatever democracy there was, outside of
 peasant communities, developed historically in the wake of both modern and
 ancient capitalism. Again plenty of facts can be adduced from the past to
 make up a counterargument that will be effective but is irrelevant in a
-discussion of present condi tions and future alternatives.8 If we do decide to
-The Civilization of Capitalism 127
-embark upon historical disquisition at all, then even many of those facts
+discussion of present condi tions and future alternatives.8 If we do decide to embark upon historical disquisition at all, then even many of those facts
 which to radical critics may seem to be the most eligible ones for their
 purpose will often look differently if viewed in the light of a comparison
 with the corresponding facts of pre-capitalist experience. And it cannot be
@@ -307,13 +307,16 @@ therefore no amount of anti-feminist or anti-reformist talk or even of temporary
 opposition to any particular measure proves anything against this analysis.
 These things are the very symptoms of the tendencies they pretend to fight.
 Of this, more in the subsequent chapters.
+
+
+
+<!-- 8 Even Marx, in whose time indictments of this kind were not anything like as absurd as
+they are today, evidently thought it desirable to strengthen his case by dwelling on conditions
+that even then were either past or visibly passing. -->
+
 Also, capitalist civilization is rationalistic “and anti-heroic.” The two go
 together of course. Success in industry and commerce requires a lot of
 stamina, yet industrial and commercial activity is essentially unheroic in the
-8 Even Marx, in whose time indictments of this kind were not anything like as absurd as
-they are today, evidently thought it desirable to strengthen his case by dwelling on conditions
-that even then were either past or visibly passing.
-Can Capitalism Survive?128
 knight’s sense—no flourishing of swords about it, not much physical
 prowess, no chance to gallop the armored horse into the enemy, preferably
 a heretic or heathen—and the ideology that glorifies the idea of fighting for
@@ -328,6 +331,8 @@ of capitalist civilization, pacifism and international morality have also been
 espoused in non-capitalist environments and by precapitalist agencies, in the
 Middle Ages by the Roman Church for instance. Modern pacifism and
 modern international morality are nonetheless products of capitalism.
+
+
 In view of the fact that Marxian doctrine—especially Neo-Marxian
 doctrine and even a considerable body of non-socialist opinion—is, as we
 have seen in the first part of this book, strongly opposed to this proposition 9
@@ -354,7 +359,7 @@ is not in general very likely. As a matter of fact, the more completely
 capitalist the structure and attitude of a nation, the more pacifist—and the
 more prone to count the costs of war—we observe it to be. 
 
-9 See our discussion of the Marxian theory of imperialism, Part I, ch. iv.
+<!-- 9 See our discussion of the Marxian theory of imperialism, Part I, ch. iv. -->
 
 Owing to the complex nature of every individual pattern, this could be fully brought out
 only by detailed historical analysis. But the bourgeois attitude to the military
@@ -398,8 +403,7 @@ This is not only because the mass of people are not in a position to compare
 alternatives rationally and always accept what they are being told. There is
 a much deeper reason for it. Things economic and social move by their own
 momentum and the ensuing situations compel individuals and groups to
-behave in certain ways whatever they may wish to do—not indeed by destroying their freedom of choice but by shaping the choosing mentalities
-and by narrowing the list of possibilities from which to choose. If this is the
+behave in certain ways whatever they may wish to do—not indeed by destroying their freedom of choice but by shaping the choosing mentalities and by narrowing the list of possibilities from which to choose. If this is the
 quintessence of Marxism then we all of us have got to be Marxists. In
 consequence, capitalist performance is not even relevant for prognosis. Most
 civilizations have disappeared before they had time to fill to the full the

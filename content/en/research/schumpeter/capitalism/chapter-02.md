@@ -25,7 +25,9 @@ to the Marxian work, or the fact that every part of it, however independent
 intrinsically, has been correlated by the author with every other. Enough
 independence remains nevertheless in every province of the vast realm to
 make it possible for the student to accept the fruits of his labors in one of
-them while rejecting those in another. Much of the glamour of the faith is
+them while rejecting those in another. 
+
+Much of the glamour of the faith is
 lost in the process but something is gained by salvaging important and
 stimulating truth which is much more valuable by itself than it would be if
 tied to hopeless wreckage.
@@ -60,6 +62,7 @@ to any other interpretation but the one which proceeds from some
 philosophic principle. So they saw philosophy in the most matter-of-fact
 statements about economic experience, thereby shunting discussion on to the
 wrong track, misleading friends and foes alike.
+
 Marx the sociologist brought to bear on his task an equipment which
 consisted primarily of an extensive command over historical and
 contemporaneous fact. His knowledge of the latter was always somewhat
@@ -103,7 +106,9 @@ his most bilious wrath on the historians who took those attitudes and their
 verbalizations (the ideologies or, as Pareto would have said, derivations) at
 their face value and who tried to interpret social reality by means of them.
 But if ideas or values were not for him the prime movers of the social
-process, neither were they mere smoke. If I may use the analogy, they had
+process, neither were they mere smoke. 
+
+If I may use the analogy, they had
 in the social engine the role of transmission belts. We cannot touch upon that
 most interesting post-war development of these principles which would
 afford the best instance by which to explain this, the Sociology of
@@ -124,13 +129,14 @@ is logically compatible with any metaphysical or religious belief—exactly as
 any physical picture of the world is. Medieval theology itself supplies
 methods by which it is possible to establish this compatibility.4
 What the theory really says may be put into two propositions: (1)
-2 The above refers to Weber’s investigations into the sociology of religions and particularly
+
+<!-- 2 The above refers to Weber’s investigations into the sociology of religions and particularly
 to his famous study. Die protestantische Ethik und der Geist des Kapitalismus, republished in
 his collected works.
 3 The German word is Wissenssoziologie, and the best names to mention are those of Max
 Scheler and Karl Mannheim. The latter’s article on the subject in the German Dictionary of
-Sociology (Handwörterbuch der Soziologie) can serve as an introduction.
-The Marxian Doctrine12
+Sociology (Handwörterbuch der Soziologie) can serve as an introduction. -->
+
 The forms or conditions of production are the fundamental determinant of
 social structures which in turn breed attitudes, actions and civilizations. Marx
 illustrates his meaning by the famous statement that the “hand-mill” creates
@@ -153,6 +159,7 @@ develop and interact in such a way as to outgrow their own frame. Here,
 then, we have the propeller which is responsible first of all for economic and,
 in consequence of this, for any other social change, a propeller the action
 of which does not itself require any impetus external to it.
+
 Both propositions undoubtedly contain a large amount of truth and are,
 as we shall find at several turns of our way, invaluable working hypotheses.
 Most of the current objections completely fail, all those for instance which
@@ -164,6 +171,7 @@ arguments: of course men “choose” their course of action which is not
 directly enforced by the objective data of the environment; but they choose
 from standpoints, views and propensities that do not form another set of
 independent data but are themselves molded by the objective set.
+
 Nevertheless, the question arises whether the economic interpretation of
 history is more than a convenient approximation which must be expected to
 work less satisfactorily in some cases than it does in others. An obvious
@@ -191,6 +199,7 @@ the Marxian schema at all well and could easily be so construed as to point
 in a different direction. Facts of this nature can no doubt also be brought into
 the fold by means of auxiliary hypotheses but the necessity of inserting such
 hypotheses is usually the beginning of the end of a theory.
+
 Many other difficulties that arise in the course of attempts at historical
 interpretation by means of the Marxian schema could be met by admitting
 some measure of interaction between the sphere of production and other
@@ -208,10 +217,9 @@ Even the crippled sister of the economic interpretation of history, the
 Marxian Theory of Social Classes, moves into a more favorable light as soon
 as we bear this in mind.
 
-Again, it is in the first place an important contribution that we have to
-record. Economists have been strangely slow in recognizing the phenomenon
-of social classes. Of course they always classified the agents whose interplay
-produced the processes they dealt with. But these classes were simply sets
+Economists have been strangely slow in recognizing social classes.
+
+They always classified the agents whose interplay produced the processes they dealt with. But these classes were simply sets
 of individuals that displayed some common character: thus, some people
 <!-- 5 In his later life, Engels admitted that freely. Plekhanov went still further in this
 direction. -->
@@ -225,6 +233,7 @@ fairly open to question precisely how important the phenomenon of social
 classes is for research in the field of purely economic theory. That it is very
 important for many practical applications and for all the broader aspects of the
 social process in general is beyond doubt.
+
 Roughly speaking, we may say that the social classes made their entrance
 in the famous statement contained in the Communist Manifesto that the history
 of society is the history of class struggles. Of course, this is to put the claim
@@ -233,6 +242,7 @@ events may often be interpreted in terms of class interests and class attitudes
 and that existing class structures are always an important factor in historical
 interpretation, enough remains to entitle us to speak of a conception nearly as
 valuable as was the-economic interpretation of history itself.
+
 Clearly, success on the line of advance opened up by the principle of class
 struggle depends upon the validity of the particular theory of classes we
 make our own. Our picture of history and all our interpretations of cultural
@@ -245,21 +255,15 @@ vocational groups. Nor is the range of possible differences in analysis
 confined to the problem of the nature of classes. Whatever view we may hold
 about it, different interpretations will result from different definitions of class
 interest 6 and from different opinions about how class action manifests itself.
+
 The subject is a hot-bed of prejudice to this day, and as yet hardly in its
 scientific stage.
+
 Curiously enough, Marx has never, as far as we know, worked out
 systematically what it is plain was one of the pivots of his thought. It is
 possible that he deferred the task until it was too late, precisely because his
 thinking ran so much in terms of class concepts that he did not feel it
-necessary to bother about definitive statement at all. It is equally possible
-6 The reader will perceive that one’s views about what classes are and about what calls them
-into existence do not uniquely determine what the interests of those classes are and how each
-class will act on what “it”—its leaders for instance or the rank and file—considers or feels, in
-the long run or in the short, erroneously or correctly, to be its interest or interests. The problem
-of group interest is full of thorns and pitfalls of its own, quite irrespective of the nature of the
-groups under study.
-Marx the Sociologist 15
-that some points about it remained unsettled in his own mind, and that his
+necessary to bother about definitive statement at all. It is equally possible that some points about it remained unsettled in his own mind, and that his
 way toward a full-fledged theory of classes was barred by certain difficulties
 he had created for himself by insisting on a purely economic and over-
 simplified conception of the phenomenon. He himself and his disciples both
@@ -271,6 +275,15 @@ Marxian in its implications. Barring this we have only the sidelights and
 aperçus—some of them of striking force and brilliance—that are strewn all
 over the writings of the master, particularly in Das Kapital and the
 Communist Manifesto.
+
+<!-- 6 The reader will perceive that one’s views about what classes are and about what calls them
+into existence do not uniquely determine what the interests of those classes are and how each
+class will act on what “it”—its leaders for instance or the rank and file—considers or feels, in
+the long run or in the short, erroneously or correctly, to be its interest or interests. The problem
+of group interest is full of thorns and pitfalls of its own, quite irrespective of the nature of the
+groups under study. -->
+
+
 The task of piecing together such fragments is delicate and cannot be
 attempted here. The basic idea is clear enough, however. The stratifying
 principle consists in the ownership, or the exclusion from ownership, of
@@ -296,12 +309,14 @@ too. He also tries to show how the ownership of capital leads to further
 accumulation. But this way of arguing as well as the very definition that makes
 the ownership of something the constituent characteristic of a social class only
 serves to increase the importance of the question of “primitive accumulation,”
-7 Another example is the socialist theory of imperialism which will be noticed later on.
+
+<!-- 7 Another example is the socialist theory of imperialism which will be noticed later on.
 O.Bauer’s interesting attempt to interpret the antagonisms between the various races that
 inhabited the Austro-Hungarian Empire in terms of the class struggle between capitalists and
 workers (Die Nationalitätenfrage, 1905) also deserves to be mentioned, although the skill of
-the analyst only serves to show up the inadequacy of the tool.
-The Marxian Doctrine16
+the analyst only serves to show up the inadequacy of the tool. -->
+
+
 that is to say, of the question how capitalists came to be capitalists in the first
 instance or how they acquired that stock of goods which according to the
 Marxian doctrine was necessary in order to enable them to start exploiting. On
@@ -334,9 +349,11 @@ economic theory, therefore, Marx had a real case—though he overstated it—
 when he denied to saving the role that the classical authors attributed to it.
 Only his inference does not follow. And the guffaw is hardly more justified
 than it would be if the classical theory were correct.9
+
 The guffaw did its work, however, and helped to clear the road for Marx’s
 alternative theory of primitive accumulation. But this alternative theory is not
-8 See Das Kapital, vol. i, ch. xxvi: “The Secret of Primitive Accumulation.”
+
+<!-- 8 See Das Kapital, vol. i, ch. xxvi: “The Secret of Primitive Accumulation.”
 9 I will not stay to stress, though I must mention, that even the classical theory is not as
 wrong as Marx pretended it was. “Saving up” in the most literal sense has been, especially in
 earlier stages of capitalism, a not unimportant method of “original accumulation.” Moreover,
@@ -344,8 +361,8 @@ there was another method that was akin to it though not identical with Many a fa
 seventeenth and eighteenth centuries was just a shed that a man was able to put up by the work
 of his hands, and required only the simplest equipment to work it. In such cases the manual
 work of the prospective capitalist plus a quite small fund of savings was all that was needed—
-and brains, of course.
-Marx the Sociologist 17
+and brains, of course. -->
+
 as definite as we might wish. Force—robbery—subjugation of the masses
 facilitating their spoliation and the results of the pillage in turn facilitating
 subjugation—this was all right of course and admirably tallied with ideas
@@ -376,8 +393,8 @@ their serfs). 12 In all other cases the material available to stop the gap is
 distinctly inferior. The only frank way of expressing the situation is that from
 a Marxian standpoint there is no satisfactory explanation, that is to say, no
 explanation without resorting to non-Marxian elements suggestive of non-
-Marxian conclusions. 13
-10 Many socialist writers besides Marx have displayed that uncritical confidence in the
+
+<!-- 10 Many socialist writers besides Marx have displayed that uncritical confidence in the
 explanatory value of the element of force and of the control over the physical means with which
 to exert force. Ferdinand Lassalle, for instance, has little beyond cannons and bayonets to offer
 by way of explanation of governmental authority. It is a source of wonder to me that so many
@@ -389,8 +406,9 @@ Rodbertus.
 12 W.Sombart, in the first edition of his Theorie des modernen Kapitalismus, tried to
 make the most of those cases. But the attempt to base primitive accumu lation entirely
 on the accumulation of ground rent showed its hopelessness as Sombart himself
-eventually recognized.
-The Marxian Doctrine18
+eventually recognized. -->
+
+
 This, however, vitiates the theory at both its historical and its logical
 source. Since most of the methods of primitive accumulation also account
 for later accumulation—primitive accumulation, as it were, continues
@@ -417,23 +435,27 @@ social classes—the incessant rise and fall of individual families into and out
 of the upper strata. The facts I am alluding to are all obvious and
 indisputable. If they do not show on the Marxian canvas, the reason can only
 be in their un-Marxian implications.
+
 It is not superfluous, however, to consider the role which that theory plays
 within Marx’s structure and to ask ourselves what analytic intention—as
 distinguished from its use as a piece of equipment for the agitator—he meant
 it to serve.
+
 On the one hand, we must bear in mind that for Marx the theory of Social
 Classes and the Economic Interpretation of History were not what they are
 for us, viz., two independent doctrines. With Marx, the former implements
 the latter in a particular way and thus restricts—makes more definite—the
 modus operandi of the conditions or forms of production. These determine
 the social structure and, through the social structure, all manifestations of
-13 This holds true even if we admit robbery to the utmost extent to which it is possible to
+
+<!-- 13 This holds true even if we admit robbery to the utmost extent to which it is possible to
 do so without trespassing upon the sphere of the intellectual’s folklore. Robbery actually entered
 into the building up of commercial capital at many times and places. Phoenician as well as
 English wealth offers familiar examples. But even then the Marxian explanation is inadequate
 because in the last resort successful robbery must rest on the personal superiority of the robbers.
-And as soon as this is admitted, a very different theory of social stratification suggests itself.
-Marx the Sociologist 19
+And as soon as this is admitted, a very different theory of social stratification suggests itself. -->
+
+
 civilization and the whole march of cultural and political history. But the
 social structure is, for all non-socialist epochs, defined in terms of classes—
 those two classes—which are the true dramatis personae and at the same time
@@ -457,6 +479,7 @@ means of production. Hence there had to be just two classes, owners and
 non-owners, and hence all other principles of division, much more
 plausible ones among them, had to be severely neglected or discounted
 or else reduced to that one.
+
 The exaggeration of the definiteness and importance of the dividing line
 between the capitalist class in that sense and the proletariat was surpassed
 only by the exaggeration of the antagonism between them. To any mind not
@@ -488,7 +511,9 @@ institutional framework and at the same time create the conditions for the
 emergence of another social world. This particular theory of social classes
 is the analytic tool which, by linking the economic interpretation of history
 with the concepts of the profit economy, marshals all social facts, makes all
-phenomena confocal. It is therefore not simply a theory of an individual
+phenomena confocal. 
+
+It is therefore not simply a theory of an individual
 phenomenon which is to explain that phenomenon and nothing else. It has
 an organic function which is really much more important to the Marxian
 system than the measure of success with which it solves its immediate

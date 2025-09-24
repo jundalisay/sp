@@ -1,6 +1,14 @@
-CHAPTER XXV
+---
+heading: Chapter 25
+title: "THE SITUATION THAT MARX FACED"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 134
+---
 
-THE SITUATION THAT MARX FACED
+
+
 
 1. According to Engels, Marx in 1847 adopted the term “communist” in
 preference to the term “socialist,” because socialism had by that time

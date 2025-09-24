@@ -4,7 +4,7 @@ title: "CLEARING DECKS"
 c: "firebrick"
 description: ""
 date: 2025-09-23
-weight: 193
+weight: 58
 ---
 
 <!-- PART III Can Socialism Work? -->

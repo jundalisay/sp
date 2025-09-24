@@ -4,9 +4,8 @@ title: "Another Theory Of Democracy"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 114
 ---
-
 
 
 ## 1. Competition For Political Leadership
@@ -87,15 +86,15 @@ contrary we are now able to insert them in exactly the role they actually play.
 Such volitions do not as a rule assert themselves directly. Even if strong and
 definite they remain latent, often for decades, until they are called to life by
 some political leader who turns them into political factors. This he does, or
-else his agents do it for him, by organizing these volitions, by working them
-2 See however the fourth point below.
-Another Theory of Democracy 271
-up and by including eventually appropriate items in his competitive offering.
+else his agents do it for him, by organizing these volitions, by working them up and by including eventually appropriate items in his competitive offering.
+
 The interaction between sectional interests and public opinion and the way
 in which they produce the pattern we call the political situation appear from
 this angle in a new and much clearer light.
-Fourth, our theory is of course no more definite than is the concept of
-competition for leadership. This concept presents similar difficulties as the
+
+4. My theory is no more definite than is the concept of competition for leadership. 
+
+This concept presents similar difficulties as the
 concept of competition in the economic sphere, with which it may be
 usefully compared. In economic life competition is never completely lacking,
 but hardly ever is it perfect. 3 Similarly, in political life there is always some
@@ -116,14 +115,18 @@ there is a continuous range of variation within which the democratic method
 of government shades off into the autocratic one by imperceptible steps. But
 if we wish to understand and not to philosophize, this is as it should be. The
 value of our criterion is not seriously impaired thereby.
-Fifth, our theory seems to clarify the relation that subsists between
-democracy and individual freedom. If by the latter we mean the existence
+
+5. My theory clarifies the relation between democracy and individual freedom.
+
+ If by the latter we mean the existence
 of a sphere of individual self-government the boundaries of which are
 historically variable—no society tolerates absolute freedom even of
 conscience and of speech, no society reduces that sphere to zero—the
-question clearly becomes a matter of degree. We have seen that the
-democratic method does not necessarily guarantee a greater amount of
-3 In Part II we had examples of the problems which arise out of this.
+question clearly becomes a matter of degree. 
+
+
+
+<!-- 3 In Part II we had examples of the problems which arise out of this.
 4 It also excludes methods which should not be excluded, for instance, the acquisition of
 political leadership by the people’s tacit acceptance of it or by election quasi per inspirationem.
 The latter differs from election by voting only by a technicality. But the former is not quite
@@ -131,10 +134,12 @@ without importance even in modern politics; the sway held by a party boss within
 often based on nothing but tacit acceptance of his leadership. Comparatively speaking however
 these are details which may, I think, be neglected in a sketch like this.
 5 As in the economic field, some restrictions are implicit in the legal and moral principles
-of the community.
+of the community. -->
 
-individual freedom than another political method would permit in similar
-circumstances. It may well be the other way round. But there is still a
+The democratic method does not necessarily guarantee a greater amount of individual freedom than another political method would permit in similar
+circumstances. 
+
+It may well be the other way round. But there is still a
 relation between the two. If, on principle at least, everyone is free to compete
 for political leadership 6 by presenting himself to the electorate, this will in
 most cases though not in all mean a considerable amount of freedom of
@@ -144,32 +149,30 @@ not absolutely stringent and can be tampered with. But, from the standpoint
 of the intellectual, it is nevertheless very important. At the same time, it is
 all there is to that relation.
 
-Sixth, it should be observed that in making it the primary function of
-the electorate to produce a government (directly or through an intermediate
-body) I intended to include in this phrase also the function of evicting it.
-The one means simply the acceptance of a leader or a group of leaders,
+6. I believe the primary function of the electorate is to produce and evict a government.
+
+<!-- The one means simply the acceptance of a leader or a group of leaders,
 the other means simply the withdrawal of this acceptance. This takes care
 of an element the reader may have missed. He may have thought that the
 electorate controls as well as installs. But since electorates normally do not
 control their political leaders in any way except by refusing to reelect them
 or the parliamentary majorities that support them, it seems well to reduce
-our ideas about this control in the way indicated by our definition.
+our ideas about this control in the way indicated by our definition. -->
+
 Occasionally, spontaneous revulsions occur which upset a government or
 an individual minister directly or else enforce a certain course of action.
 But they are not only exceptional, they are, as we shall see, contrary to the
 spirit of the democratic method.
 
-Seventh, our theory sheds much-needed light on an old controversy.
+7. My theory sheds much-needed light on an old controversy.
+
 Whoever accepts the classical doctrine of democracy and in consequence
 believes that the democratic method is to guarantee that issues be decided
 and policies framed according to the will of the people must be struck by
 the fact that, even if that will were undeniably real and definite, decision by
 simple majorities would in many cases distort it rather than give effect to it.
-Evidently the will of the majority is the will of the majority and not the will
-of “the people.” The latter is a mosaic that the former completely fails to
-“represent.” To equate both by definition is not to solve the problem.
-Attempts at real solutions have however been made by the authors of the
-various plans for Proportional Representation.
+
+Evidently the will of the majority is the will of the majority and not the will of “the people.” The latter is a mosaic that the former completely fails to “represent.” To equate both by definition is not to solve the problem. Attempts at real solutions have however been made by the authors of the various plans for Proportional Representation.
 
 These plans have met with adverse criticism on practical grounds. It is
 in fact obvious not only that proportional representation will offer
@@ -181,14 +184,6 @@ F.A.Hermens in “The Trojan Horse of Democracy,” Social Research, November 19
 
 
 it may prevent democracy from producing efficient governments and thus
-prove a danger in times of stress. 7 But before concluding that democracy
-becomes unworkable it its principle is carried out consistently, it is just as
-well to ask ourselves whether this principle really implies proportional
-representation. As a matter of fact it does not. If acceptance of leadership is
-the true function of the electorate’s vote, the case for proportional
-representation collapses because its premises are no longer binding. The
-principle of democracy then merely means that the reins of government
-should be handed to those who command more support than do any of the
-competing individuals or teams. And this in turn seems to assure the standing
-of the majority system within the logic of the democratic method, although
-we might still condemn it on grounds that lie outside of that logic.
+prove a danger in times of stress. 7 
+
+But before concluding that democracy becomes unworkable it its principle is carried out consistently, it is just as well to ask ourselves whether this principle really implies proportional representation. As a matter of fact it does not. If acceptance of leadership is the true function of the electorate’s vote, the case for proportional representation collapses because its premises are no longer binding. The principle of democracy then merely means that the reins of government should be handed to those who command more support than do any of the competing individuals or teams. And this in turn seems to assure the standing of the majority system within the logic of the democratic method, although we might still condemn it on grounds that lie outside of that logic.

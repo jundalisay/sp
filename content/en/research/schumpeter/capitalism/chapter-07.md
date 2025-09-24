@@ -4,21 +4,25 @@ title: "The Process Of Creative Destruction"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 21
 ---
 
 
 
-T HE theories of monopolistic and oligopolistic competition and their
+The theories of monopolistic and oligopolistic competition and their
 popular variants may in two ways be made to serve the view that
 capitalist reality is unfavorable to maximum performance in production.
+
 One may hold that it always has been so and that all along output has been
 expanding in spite of the secular sabotage perpetrated by the managing
 bourgeoisie. Advocates of this proposition would have to produce evidence
 to the effect that the observed rate of increase can be accounted for by a
 sequence of favorable circumstances unconnected with the mechanism of
 private enterprise and strong enough to overcome the latter’s resistance.
-This is precisely the question which we shall discuss in Chapter IX.
+
+This is precisely the question which we shall discuss in Chapter 9.
+
+
 However, those who espouse this variant at least avoid the trouble about
 historical fact that the advocates of the alternative proposition have to face.
 This avers that capitalist reality once tended to favor maximum productive
@@ -43,8 +47,7 @@ in terms of the hours of labor that will buy them—i.e., each year’s money
 prices divided by each year’s hourly wage rates—we cannot fail to be struck
 by the rate of the advance which, considering the spectacular improvement
 in qualities, seems to have been greater and not smaller than it ever was
-before. If we economists were given less to wishful thinking and more to the observation of facts, doubts would immediately arise as to the realistic
-virtues of a theory that would have led us to expect a very different result.
+before. If we economists were given less to wishful thinking and more to the observation of facts, doubts would immediately arise as to the realistic virtues of a theory that would have led us to expect a very different result.
 Nor is this all. As soon as we go into details and inquire into the individual
 items in which progress was most conspicuous, the trail leads not to the
 doors of those firms that work under conditions of comparatively free
@@ -77,7 +80,9 @@ of the capitalist process is not merely due to the fact that economic life goes
 on in a social and natural environment which changes and by its change
 alters the data of economic action; this fact is important and these changes
 (wars, revolutions and so on) often condition industrial change, but they are
-not its prime movers. Nor is this evolutionary character due to a quasi-automatic increase in population and capital or to the vagaries of monetary
+not its prime movers. 
+
+Nor is this evolutionary character due to a quasi-automatic increase in population and capital or to the vagaries of monetary
 systems of which exactly the same thing holds true. The fundamental impulse that sets and keeps the capitalist engine in motion comes from the
 new consumers’ goods, the new methods of production or transportation, the
 new markets, the new forms of industrial organization that capitalist

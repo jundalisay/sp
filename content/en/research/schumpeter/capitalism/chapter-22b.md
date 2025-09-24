@@ -1,10 +1,10 @@
 ---
-heading: Chapter 22
+heading: Chapter 22b
 title: "The Principle Applied"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 118
 ---
 
 
@@ -160,9 +160,9 @@ First, as to the Prime Minister’s political leadership. 16 Our example shows
 that it is composed of three different elements which must not be confused
 and which in every case mix in different proportions, the mixture then
 determining the nature of every individual Prime Minister’s rule. On the face
-of it, he comes into office as the leading man of his party in Parliament. As
+of it, he comes into office as the leading man of his party in Parliament.
 
-16 It is characteristic of the English way of doing things that official recognition of
+<!-- 16 It is characteristic of the English way of doing things that official recognition of
 the existence of the Prime Minister’s office was deferred until 1907, when it was allowed
 to appear in the official order of precedence at court. But it is as old as democratic
 government. However, since democratic government was never introduced by a distinct
@@ -193,9 +193,9 @@ was a term of opprobrium hurled at Walpole by his enemies. This fact is signific
 not only indicates the resistance new institutions usually meet with. It also indicates that
 this institution was felt to be incompatible with the classic doctrine of democracy which
 in fact has no place for political leadership in our sense, hence no place for the realities
-of the position of a prime minister.
+of the position of a prime minister. -->
 
-soon as installed however, he becomes in a sense the leader of Parliament,
+As soon as installed however, he becomes in a sense the leader of Parliament,
 directly of the house of which he is a member, indirectly also of the other.
 This is more than an official euphemism, more also than is implied in his
 hold upon his own party. He acquires influence on, or excites the antipathy
@@ -214,6 +214,7 @@ how great the importance of such a foothold outside of both party and
 Parliament. It puts a whip into the hand of the leader the crack of which may
 bring unwilling and conspiring followers to heel, though its thong will
 sharply hit the hand that uses it unsuccessfully.
+
 This suggests an important qualification to our proposition that in a
 parliamentary system the function of producing a government devolves
 upon parliament. Parliament does normally decide who will be Prime
@@ -237,7 +238,8 @@ at this courtly attitude of the great democratic leader. But surely Queen Victor
 better discernment than did those biographers if we may judge from the strong dislike
 which she displayed for Gladstone from 1879 on and which the biographers attribute
 simply to the baleful influence of Disraeli. Is it really necessary to point out that
-Socialism and Democracy278
+
+
 3. Next, as to the nature and role of the cabinet. 18 It is a curiously
 double-faced thing, the joint product of Parliament and Prime Minister.
 The latter designates its members for appointment, as we have seen, and
@@ -263,6 +265,7 @@ distant relation, if any, with “seeing to it that the will of the people is
 carried out in each of them.” Precisely in the best instances, the people
 are presented with results they never thought of and would not have
 approved of in advance.
+
 4. Again, as to Parliament. I have both defined what seems to me to
 be its primary function and qualified that definition. But it might be
 objected that my definition fails to do justice to its other functions.
@@ -271,7 +274,8 @@ professions of deference may mean two different things? The man who treats his w
 with elaborate courtliness is not as a rule the one to accept comradeship between the
 sexes on terms of equality. As a matter of fact, the courtly attitude is precisely a method
 to evade this.
-18 Still more than the evolution of the prime minister’s office, that of the cabinet is
+
+<!-- 18 Still more than the evolution of the prime minister’s office, that of the cabinet is
 blurred by the historical continuity that covers changes in the nature of an institution.
 To this day the English cabinet is legally the operative part of the Privy Council, which
 of course was an instrument of government in decidedly pre-democratic times. But below
@@ -281,8 +285,8 @@ the case of the prime minister. Though embryonic cabinets existed in the time of
 II (the “cabal” ministry was one, and the committee of four that was formed in connection
 with Temple’s experiment was another), the Whig “junto” under William III is a fair
 candidate for first place. From the reign of Anne on only minor points of membership
-or functioning remain to disagree on.
-Another Theory of Democracy 279
+or functioning remain to disagree on. -->
+
 pulling down governments. It legislates. And it even administers. For
 although every act of a parliament, except resolutions and declarations
 of policy, makes “law” in a formal sense, there are many acts which must
@@ -292,6 +296,7 @@ country it is drawn up by Congress. Even where it is drawn up by the
 minister of finance with the approval of the cabinet, as it is in England,
 Parliament has to vote on it and by this vote it becomes an act of
 Parliament. Does not this refute our theory?
+
 When two armies operate against each other, their individual moves are
 always centered upon particular objects that are determined by their
 strategical or tactical situations. They may contend for a particular stretch
@@ -307,15 +312,18 @@ Since politicians fire off words instead of bullets and since those words are
 unavoidably supplied by the issues under debate, this may not always be as
 clear as it is in the military case. But victory over the opponent is
 nevertheless the essence of both games. 19
+
 Fundamentally, then, the current production of parliamentary decisions on
 national questions is the very method by which Parliament keeps or refuses
 to keep a government in power or by which Parliament accepts or refuses
-to accept the Prime Minister’s leadership. 20 With the exceptions to be noticed
-19 Sometimes politicians do emerge from phraseological mists. To cite an example to which
+to accept the Prime Minister’s leadership. 20 
+
+<!-- 19 Sometimes politicians do emerge from phraseological mists. To cite an example to which
 no objection can be raised on the score of frivolity: no lesser politician than Sir Robert Peel
 characterized the nature of his craft when he said after his parliamentary victory over the Whig
 government on the issue of the latter’s policy in Jamaica: “Jamaica was a good horse to start.”
 The reader should ponder over this.
+
 20 This of course applies to the pre-Vichy French and pre-Fascist Italian practice just as
 much as to the English practice. It may however be called in question in the case of the United
 States where defeat of the administration on a major issue does not entail resignation of the
@@ -327,14 +335,17 @@ leadership. For the time being this creates an abnormal situation. But whether h
 the subsequent presidential election, the conflict is then settled in a way that does not
 fundamentally differ from the way in which an English Prime Minister deals with a similar
 situation when he dissolves Parliament.
-Socialism and Democracy280
-presently, every vote is a vote of confidence or want of confidence, and the
+ -->
+
+
+With the exceptions to be noticed presently, every vote is a vote of confidence or want of confidence, and the
 votes that are technically so called merely bring out in abstracto the essential
 element that is common to all. Of this we can satisfy ourselves by observing
 that the initiative in bringing up matters for parliamentary decision as a rule
 lies with the government or else with the opposition’s shadow cabinet and
 not with private members.
-It is the Prime Minister who selects from the incessant stream of current
+
+The Prime Minister selects from the incessant stream of current
 problems those which he is going to make parliamentary issues, that is to say,
 those on which his government proposes to introduce bills or, if he is not sure
 of his ground, at least resolutions. Of course every government receives from
@@ -353,12 +364,14 @@ to the raising of a debate. Unless suggested or sanctioned by the government,
 these are symptoms of the government forces’ getting out of hand. Finally, if
 a measure is carried by inter-party agreement, this means a drawn battle or a
 battle avoided on strategical grounds.21
+
 5. The exceptions to this principle of governmental leadership in
 “representative” assemblies only serve to show how realistic it is. They are
 of two kinds.
-First, no leadership is absolute. Political leadership exerted according to the
-democratic method is even less so than are others because of that competitive
-21 Another highly significant piece of English technique may be mentioned in this
+
+First, no leadership is absolute. 
+
+<!-- 21 Another highly significant piece of English technique may be mentioned in this
 connection. A major bill is or was usually not proceeded with if the majority for it fell to a
 very low figure on the second reading. This practice first of all recognized an important
 limitation of the majority principle as actually applied in well-managed democracies: it would
@@ -370,16 +383,16 @@ a vote on the second reading of a major government measure may be said to combin
 of confidence with a vote for shelving a bill. If the contents of the bill were all that mattered
 there would hardly be any sense in voting for it if it is not to make the statute book. But if
 Parliament is primarily concerned with keeping the cabinet in office, then such tactics become
-at once understandable.
+at once understandable. -->
 
-Another Theory of Democracy 281
-element which is of the essence of democracy. Since theoretically every follower
-has the right of displacing his leader and since there are nearly always some
+Political leadership exerted according to the
+democratic method is even less so than are others because of that competitive element which is of the essence of democracy. Since theoretically every follower has the right of displacing his leader and since there are nearly always some
 followers who have a real chance of doing so, the private member and—if he
 feels that he could do with a bigger hat—the minister within and without the
 inner circle steers a middle course between an unconditional allegiance to the
 leader’s standard and an unconditional raising of a standard of his own,
 balancing risks and chances with a nicety that is sometimes truly admirable.22
+
 The leader in turn responds by steering a middle course between insisting on
 discipline and allowing himself to be thwarted. He tempers pressure with more
 or less judicious concessions, frowns with compliments, punishments with
@@ -481,7 +494,9 @@ principles or planks may be as characteristic of the party that adopts them
 and as important for its success as the brands of goods a department store
 sells are characteristic of it and important for its success. But the department
 store cannot be defined in terms of its brands and a party cannot be defined
-in terms of its principles. A party is a group whose members propose to act
+in terms of its principles. 
+
+A party is a group whose members propose to act
 in concert in the competitive struggle for political power. If that were not
 so it would be impossible for different parties to adopt exactly or almost
 exactly the same program. Yet this happens as everyone knows. Party and

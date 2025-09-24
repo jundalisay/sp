@@ -52,15 +52,14 @@ particularly important for the success of democratic government. It is not true
 that in a democracy people always have the kind and quality of government
 they want or merit.
 
-There may be many ways in which politicians of sufficiently good quality
-
-5 By “success” I mean no more than that the democratic process reproduce itself steadily
+<!-- 5 By “success” I mean no more than that the democratic process reproduce itself steadily
 without creating situations that enforce resort to non-democratic methods and that it cope with
 current problems in a way which all interests that count politically find acceptable in the long
 run. I do not mean that every observer, from his own individual standpoint, need approve of
-the results.
-The Inference 291
-can be secured. Thus far however, experience seems to suggest that the only
+the results. -->
+
+
+There may be many ways in which politicians of sufficiently good quality can be secured. Thus far however, experience seems to suggest that the only
 effective guarantee is in the existence of a social stratum, itself a product of
 a severely selective process, that takes to politics as a matter of course. If
 such a stratum be neither too exclusive nor too easily accessible for the
@@ -70,6 +69,7 @@ of stocks that have successfully passed many tests in other fields—served,
 as it were, an apprenticeship in private affairs—but it will also increase their
 fitness by endowing them with traditions that embody experience, with a
 professional code and with a common fund of views.
+
 It is hardly mere coincidence that England, which is the only country
 to fulfill our condition completely, is also the only country to have a
 political society in this sense. Still more instructive is the case of Germany
@@ -88,6 +88,7 @@ predestined career. That political system missed fire for many reasons. But
 the fact that eventually it met smashing defeat at the hands of an anti-
 democratic leader is nevertheless indicative of the lack of inspiring
 democratic leadership
+
 The second condition for the success of democracy is that the effective
 range of political decision should not be extended too far. How far it can be
 extended depends not only on the general limitations of the democratic
@@ -100,10 +101,10 @@ depends, at any given time and place, on the quality of the men who form
 that government and on the type of political machine and the pattern of
 public opinion they have to work with. From the standpoint of our theory
 of democracy it is not necessary to require, as it would be from the
-standpoint of the classical theory, that only such matters should be dealt with
-Socialism and Democracy292
-by the political apparatus which the people at large can fully understand and
-have a serious opinion about. But a less exacting requirement of the same
+standpoint of the classical theory, that only such matters should be dealt with by the political apparatus which the people at large can fully understand and
+have a serious opinion about. 
+
+But a less exacting requirement of the same
 nature still imposes itself. It calls for additional comment.
 Of course there cannot be any legal limits to what a parliament, led by
 the prime minister, might subject to its decision, if need be, by means of a
@@ -235,11 +236,10 @@ government must accept its lead and allow it to frame and act upon a
 program and that the opposition should accept the lead of the “shadow
 cabinet” at its head and allow it to keep political warfare within certain rules.
 Fulfillment of this requirement, habitual violation of which spells the
-beginning of the end of a democracy, will be seen to call for just the right
-The Inference 295
-amount—not too much, not too little—of traditionalism. To protect this
+beginning of the end of a democracy, will be seen to call for just the right amount—not too much, not too little—of traditionalism. To protect this
 traditionalism is in fact one of the purposes for which rules of parliamentary
 procedure and etiquette exist.
+
 The voters outside of parliament must respect the division of labor
 between themselves and the politicians they elect. They must not withdraw
 confidence too easily between elections and they must understand that, once
@@ -264,6 +264,7 @@ societies has invariably been hostile to political back-seat driving—to the
 point of resorting to secret diplomacy and lying about intentions and
 commitments—and that it takes a lot of self-control on the part of the
 citizen to refrain from it.
+
 Finally, effective competition for leadership requires a large measure of
 tolerance for difference of opinion. It has been pointed out before that this
 tolerance never is and never can be absolute. But it must be possible for
@@ -274,12 +275,11 @@ their most cherished ideals—or as an alternative, that the would-be leader
 who holds such views restrains himself correspondingly. Neither is possible
 without genuine respect for the opinions of one’s fellow citizens amounting
 to a willingness to subordinate one’s own opinions.
+
 Every system can stand deviating practice to a certain extent. But even
 the necessary minimum of democratic self-control evidently requires a
 national character and national habits of a certain type which have not
-everywhere had the opportunity to evolve and which the democratic
-Socialism and Democracy296
-method itself cannot be relied on to produce. And nowhere will that self-
+everywhere had the opportunity to evolve and which the democratic method itself cannot be relied on to produce. And nowhere will that self-
 control stand tests beyond a varying degree of severity. In fact the reader
 need only review our conditions in order to satisfy himself that democratic
 government will work to full advantage only if all the interests that matter
@@ -289,6 +289,8 @@ Whenever these principles are called in question and issues arise that rend
 a nation into two hostile camps, democracy works at a disadvantage. And
 it may cease to work at all as soon as interests and ideals are involved on
 which people refuse to compromise.
+
+
 This may be generalized to read that the democratic method will be at a
 disadvantage in troubled times. In fact, democracies of all types recognize
 with practical unanimity that there are situations in which it is reasonable

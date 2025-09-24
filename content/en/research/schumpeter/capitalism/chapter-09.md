@@ -4,12 +4,12 @@ title: "CLOSED SEASON"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 28
 ---
 
 
 
-I T IS for the reader to decide how far the preceding analysis has attained
+It is for the reader to decide how far the preceding analysis has attained
 its object. Economics is only an observational and interpretative science
 which implies that in questions like ours the room for difference of opinion
 can be narrowed but not reduced to zero. For the same reason the solution

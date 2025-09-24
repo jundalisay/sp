@@ -4,7 +4,7 @@ title: "The Civilization Of Capitalism"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 48
 ---
 
 II. T HE S OCIOLOGY O F T HE I NTELLECTUAL

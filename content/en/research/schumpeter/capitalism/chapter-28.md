@@ -1,7 +1,15 @@
-CHAPTER XXVIII
-THE CONSEQUENCES OF THE SECOND
-WORLD WAR
-Mundus regitur parva sapientia
+---
+heading: Chapter 28
+title: "THE CONSEQUENCES OF WORLD WAR 2"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
+
+<!-- Mundus regitur parva sapientia -->
+
 A LITTLE more can now (July, 1946) be added to what was said in the
 last section about the effects of the war on the social structure of our
 epoch and on the position and prospects of orthodox (i.e. non-Communist)
@@ -17,6 +25,7 @@ or whether all the honors were held by England and the United States. In
 the latter eventuality orthodox socialism of the German Social Democratic
 type or laborism of the English type would stand a good chance to improve
 their position on the continent of Europe.
+
 Stalin has emerged master of eastern Europe. England and the United
 States are struggling to maintain some influence in central and western
 Europe. The fortunes of socialist and communist parties reflect these
@@ -29,12 +38,14 @@ situation; second, with the possible effects of conspicuous industrial
 success in the United States; third, with the possible effects of Russia’s
 political success. Our argument thus divides up naturally into three
 parts, namely
+
 I England and Orthodox Socialism
 II Economic Possibilities in the United States
 III Russian Imperialism and Communism
 The Consequences of the Second World War 377
-I
-E NGLAND AND O RTHODOX S OCIALISM
+
+I ENGLAND AND O RTHODOX S OCIALISM
+
 Many facts go to show that, irrespective of the Russian element in the case,
 the effects of the Second World War on the social situation in Europe would
 have been similar to those of the First World War, only stronger. That is to
@@ -43,7 +54,9 @@ socialist organization of production in the sense defined in this book.
 The most important of those facts is the success of the English Labour
 party. As has been pointed out in the last chapter, this success was to be
 expected and should not have surprised anybody. Nor was it more complete
-than we should have expected. Owing to the English electoral system, the
+than we should have expected. 
+
+Owing to the English electoral system, the
 actual redistribution of seats is apt to give an exaggerated picture. There
 were about twelve million labor votes against about ten million
 conservative votes. The days of liberalism are over, of course, but even the
@@ -72,9 +85,7 @@ does, or is proposing to do, is in the spirit and on the principles of the
 program there outlined; and, second, that actual practice does not go nearly
 as far. The nationalization of the Bank of England, in particular, is a highly
 significant symbol and may therefore stand out as a historical landmark.
-But its practical importance may well be equated to zero: the bank has been
-A Historical Sketch of Socialist Parties378
-practically a department of the Treasury ever since 1914 and under modern
+But its practical importance may well be equated to zero: the bank has been practically a department of the Treasury ever since 1914 and under modern
 conditions no central bank can be anything else. And such things as the
 coal measure or full-employment legislation are hardly controversial any
 more—in England. The way in which the Labor government deals or is
@@ -102,6 +113,7 @@ of laborite governments of the future whose parliamentary majority will be
 paralleled by a majority of the electorate. This is the only hope for
 democratic socialism. Such hope as there is for it on the continent of Europe
 is, of course, somewhat strengthened by the English paradigma.
+
 Second, we have noticed in the preceding chapter that the earlier socialist
 thinkers never foresaw, and could not have been expected to foresee, a situation
 in which political power would be thrust upon labor and in which the bourgeois
@@ -120,6 +132,7 @@ it may before long occur to people that it might be better to limit incomes paid
 out to what direct taxes leave of them instead of paying out what has to be
 recovered again. In any case, however, the orange to be squeezed, and with it
 much radical rhetoric, is apt to run dry.
+
 Third, suppose that in the next election labor improves upon its present
 position and gains the support of a substantial majority of the electorate,
 what is the government to do? They may go a little further in the direction
@@ -149,16 +162,17 @@ things actually are, labor is of all things the most difficult to socialize. Not
 that the problem is insoluble. In England, the chances for successful solution
 by the political method of democracy are greater than they are anywhere
 else. But the road to solution may be tortuous and long.
+
 Except for the Russian element, the political situation on the continent of
 Europe is essentially similar. Where there is a free choice, we observe a strong
 tendency for the masses to keep or revert to their allegiance to either social-
 democratic or else to Catholic parties. The most obvious instances are the
 Scandinavian countries. But a similar trend may be discerned even in Germany,
 and it is safe to assert that if she were free and uninfluenced, something very
-like the Weimar Republic would emerge from all the present misery. Though
-the evidence to this effect is in part invalidated by the favor shown to the Social
-A Historical Sketch of Socialist Parties380
-Democrats by the English and American authorities, it is strengthened by the
+like the Weimar Republic would emerge from all the present misery. 
+
+Though
+the evidence to this effect is in part invalidated by the favor shown to the Social Democrats by the English and American authorities, it is strengthened by the
 fact that the Russian authority also permitted reconstruction of a Social
 Democratic organization in its zone. Impossible political and economic
 conditions, irrationally imposed upon the German people, will of course discredit
@@ -172,7 +186,9 @@ countries though with various qualifications: laborite régimes—in Catholic
 countries more often than not in coalition with Catholic parties—with home-
 grown and not too important communist groups to the left of them and a policy
 more advanced than was that of the twenty’s but still on the same lines, with all
-this implies, economically, politically and culturally. The little example of Austria
+this implies, economically, politically and culturally. 
+
+The little example of Austria
 is instructive. The Christian Socialists (Catholic party, comprising the
 conservative elements) came off well, the Communists did badly, the Social
 Democrats just about regained their old position, with most of their surviving
@@ -193,6 +209,7 @@ ECONOMIC P OSSIBILITIES IN THE U NITED S TATES
 4. Transitional Problems
 5. The Stagnationist Thesis
 6. Conclusion
+
 1 The Franco régime simply reproduces an institutional pattern that, from necessities that
 should be easy to understand, became well established in nineteenth-century Spain. Franco did
 and does what had been done before him by Narvaez, O’Donnell, Espartero, Serrano. The fact
@@ -225,15 +242,19 @@ in the upper-bracket budgets of personal services and of commodities that
 contain relatively much labor, the purchasing power of the upperbracket
 dollar has in the United States fallen much more than has that of the lower-
 bracket dollar. 4 Moreover, we may also repeat another observation made
-2 The reader will, of course, observe that the proposition asserts nothing about the effects
+
+<!-- 2 The reader will, of course, observe that the proposition asserts nothing about the effects
 of such a policy upon the size—and long-run rate of increase—of the national income. In
 particular, it does not exclude the possibility that labor might receive less real income, in total
 amount and in the long run, if incomes were completely equalized than it would receive if the
-whole of the Marxist surplus value accrued to the “capitalist” stratum.
-3 See the highly instructive article by I. de Vegh on Savings, Investment, and Consumption,
+whole of the Marxist surplus value accrued to the “capitalist” stratum. -->
+
+<!-- 3 See the highly instructive article by I. de Vegh on Savings, Investment, and Consumption,
 American Economic Review (Papers and Proceedings of the 53d Annual Meeting, February, 1941,
 pp. 237 et seq.). As there explained, the data from which the sums retained were calculated
-exclude income from wholly tax-exempt government securities and include capital gains.
+exclude income from wholly tax-exempt government securities and include capital gains. -->
+
+
 Moreover, these sums are, of course, not strictly comparable with the figures of total income paid
 out (Commerce estimates), which may, however, be considered as indices of the comparable
 figures. The reason why I have not simply taken the latter (from Statistics of Income) is obvious,
@@ -244,9 +265,9 @@ completely free from war influences that asserted themselves from 1939 on.
 4 Comparison between different countries is of course difficult and perhaps never quite
 convincing. But the Russian act of April 4, 1940, concerning the income tax, reveals that
 incomes as low as 1.812 rubles per year were subject to it. It also reveals the existence of
-incomes of over 300,000 rubles which were then taxed at the rate of 50 per cent. Now, let us
-A Historical Sketch of Socialist Parties382
-earlier concerning England. The pressure on the upper brackets is, of course,
+incomes of over 300,000 rubles which were then taxed at the rate of 50 per cent. 
+
+Now, let us earlier concerning England. The pressure on the upper brackets is, of course,
 not confined to “$50,000 and above.” To a diminishing degree it extends
 down to the incomes of $5,000. And there cannot, be any doubt, especially
 in the case of doctors in the middle ranges of professional success, that this

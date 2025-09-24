@@ -4,7 +4,7 @@ title: "IN SEARCH OF A DEFINITION"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 88
 ---
 
 
@@ -111,6 +111,8 @@ it obtains or for the scientific observer; to speak of monarchy as if it meant
 a definite thing spells dilettantism. But if it is the people, however defined,
 who are to do the kratein, still another problem emerges. How is it
 technically possible for “people” to rule?
+
+
 There is a class of cases in which this problem does not arise, at least not
 in an acute form. In small and primitive communities with a simple social
 structure 14 in which there is not much to disagree on, it is conceivable that

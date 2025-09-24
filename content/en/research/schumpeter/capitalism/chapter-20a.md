@@ -4,7 +4,7 @@ title: "The Setting Of The Problem"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 90
 ---
 
 
@@ -27,7 +27,9 @@ syndicalist groups—even claimed to be the only true democrats, the exclusive
 sellers of the genuine stuff, never to be confused with the bourgeois fake.
 Not only was it natural for them to try to enhance the values of their
 socialism by the values of democracy; but they had also a theory to offer that
-proved to their satisfaction that the two were indissolubly wedded. According
+proved to their satisfaction that the two were indissolubly wedded. 
+
+According
 to this theory, private control over the means of production is at the bottom
 both of the ability of the capitalist class to exploit labor and of its ability to
 impose the dictates of its class interest upon the management of the political
@@ -56,9 +58,6 @@ however calls for immediate clarification.
 terms—as Marx’s theory of social classes defines it—is however a still more fundamental
 reason why this argument is inacceptable. -->
 
-
-
-
 Socialism in being might be the very ideal of democracy. But socialists are
 not always so particular about the way in which it is to be brought into being.
 The words Revolution and Dictatorship stare us in the face from sacred texts,
@@ -66,7 +65,9 @@ and many modern socialists have still more explicitly testified to the fact that
 they have no objection to forcing the gates of the socialist paradise by violence
 and terror which are to lend their aid to more democratic means of conversion.
 Marx’s own position concerning this matter is no doubt capable of an
-interpretation that will clear him in the eyes of democrats. In Part I it was
+interpretation that will clear him in the eyes of democrats. 
+
+In Part I it was
 shown how his views on revolution and evolution may be reconciled.
 Revolution need not mean an attempt by a minority to impose its will upon a
 recalcitrant people; it may mean no more than the removal of obstructions

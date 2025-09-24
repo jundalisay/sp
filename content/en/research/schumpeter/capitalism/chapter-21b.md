@@ -4,7 +4,7 @@ title: "THE WILL OF THE PEOPLE and INDIVIDUAL VOLITION"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 97
 ---
 
 
@@ -12,12 +12,16 @@ weight: 193
 However conclusively those arguments may tell against this
 particular conception of the will of the people, they do not debar us from trying to build up nother and more realistic one. I do not intend to question
 either the reality or the importance of the socio-psychological facts we
-think of when speaking of the will of a nation. Their analysis is certainly
+think of when speaking of the will of a nation. 
+
+Their analysis is certainly
 the prerequisite for making headway with the problems of democracy. It
 would however be better not to retain the term because this tends to
 obscure the fact that as soon as we have severed the will of the people from
 its utilitarian connotation we are building not merely a different theory of
-the same thing, but a theory of a completely different thing. We have every
+the same thing, but a theory of a completely different thing. 
+
+We have every
 reason to be on our guard against the pitfalls that lie on the path of those
 defenders of democracy who while accepting, under pressure of
 accumulating evidence, more and more of the facts of the democratic
@@ -34,12 +38,16 @@ But though a common will or public opinion of some sort may still
 be said to emerge from the infinitely complex jumble of individual and
 group-wise situations, volitions, influences, actions and reactions of the
 “democratic process,” the result lacks not only rational unity but also
-rational sanction. The former means that, though from the standpoint of
+rational sanction. 
+
+The former means that, though from the standpoint of
 analysis, the democratic process is not simply chaotic—for the analyst
 nothing is chaotic that can be brought within the reach of explanatory
 principles—yet the results would not, except by chance, be meaningful
 in themselves—as for instance the realization of any definite end or ideal
-would be. The latter means, since that will is no longer congruent with
+would be. 
+
+The latter means, since that will is no longer congruent with
 any “good,” that in order to claim ethical dignity for the result it will now
 be necessary to fall back upon an unqualified confidence in democratic
 forms of government as such—a belief that in principle would have to
@@ -63,7 +71,9 @@ Finally, from that definite will
 and from these ascertained facts a clear and prompt conclusion as to particular issues would have to be derived according to the rules of logical
 inference—with so high a degree of general efficiency moreover that one
 man’s opinion could be held, without glaring absurdity, to be roughly as
-good as every other man’s. 3 And all this the modal citizen would have to
+good as every other man’s. 3 
+
+All this the modal citizen would have to
 perform for himself and independently of pressure groups and propaganda, 4
 for volitions and inferences that are imposed upon the electorate obviously
 do not qualify for ultimate data of the democratic process. The question
@@ -80,7 +90,9 @@ work with, and if everyone acted on them with ideal rationality and
 promptitude, it would not necessarily follow that the political decisions
 produced by that process from the raw material of those individual volitions
 would represent anything that could in any convincing sense be called the
-will of the people. It is not only conceivable but, whenever individual wills
+will of the people. 
+
+It is not only conceivable but, whenever individual wills
 are much divided, very likely that the political decisions produced will not
 conform to “what people really want.” Nor can it be replied that, if not
 exactly what they want, they will get a “fair compromise.” This may be so.
@@ -130,7 +142,9 @@ amount of freedom to religious worship while strongly upholding the
 authority of the state. He also reorganized and refinanced the French
 Catholic church, solved the delicate question of the “constitutional”
 clergy, and most successfully launched the new establishment with a
-minimum of friction. If ever there was any justification at all for holding
+minimum of friction. 
+
+If ever there was any justification at all for holding
 that the people actually want something definite, this arrangement affords
 one of the best instances in history. This must be obvious to anyone who
 looks at the French class structure of that time and it is amply borne out
@@ -139,14 +153,17 @@ universal popularity which the consular regime enjoyed. But it is difficult
 to see how this result could have been achieved in a democratic way.
 Anti-church sentiment had not died out and was by no means confined
 to the vanquished Jacobins. People of that persuasion, or their leaders,
-could not possibly have compromised to that extent. 5 On the other end
-of the scale, a strong wave of wrathful Catholic sentiment was steadily
-gaining momentum. People who shared that sentiment, or leaders
-dependent on their good will, could not possibly have stopped at the
+could not possibly have compromised to that extent. 5 
+
+On the other end of the scale, a strong wave of wrathful Catholic sentiment was steadily
+gaining momentum. 
+
+People who shared that sentiment, or leaders dependent on their good will, could not possibly have stopped at the
 Napoleonic limit; in particular, they could not have dealt so firmly with
 the Holy See for which moreover there would have been no motive to
-give in, seeing which way things were moving. And the will of the
-peasants who more than anything else wanted their priests, their churches
+give in, seeing which way things were moving. 
+
+The will of the peasants who more than anything else wanted their priests, their churches
 and processions would have been paralyzed by the very natural fear that
 the revolutionary settlement of the land question might be endangered
 once the clergy—the bishops especially—were in the saddle again.

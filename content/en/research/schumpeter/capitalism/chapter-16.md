@@ -4,7 +4,7 @@ title: "The Socialist Blueprint"
 c: "firebrick"
 description: ""
 date: 2025-09-23
-weight: 193
+weight: 64
 ---
 
 

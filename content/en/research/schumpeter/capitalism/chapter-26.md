@@ -4,16 +4,18 @@ title: "FROM 1875 TO 1914"
 c: "firebrick"
 description: ""
 date: 2025-09-23
-weight: 193
+weight: 138
 ---
 
 
+I. ENGLISH DEVELOPMENTS and the SPIRIT Of fABIANISM
 
-I. ENGLISH D EVELOPMENTS A ND T HE S PIRIT O F F ABIANISM
+THERE is some symbolic significance in these two dates. 
 
-THERE is some symbolic significance in these two dates. The year 1875
-saw the birth of the first purely socialist party that was powerful
-enough to count as a factor in politics. This momentous event came to pass
+1875 saw the birth of the first purely socialist party that was powerful
+enough to count as a factor in politics. 
+
+This momentous event came to pass
 through the merger of the two German groups—Lassalle’s group and
 another founded by Bebel and Liebknecht in 1869—into the Social
 Democratic Party which, though at the time (Gotha program) it made
@@ -119,7 +121,9 @@ Marxists—and an element of petty-bourgeois resentment against everything
 aristocratic, including beauty.
 At first there was nothing behind the Fabians. They set out to persuade
 whoever would, listen. They lectured to working-class and to bourgeois crowds.
-They pamphleteered ably and extensively. They recommended or fought
+They pamphleteered ably and extensively. 
+
+They recommended or fought
 particular policies, plans and bills. The most important of all their avenues to
 influence however was their contact with individual “keymen,” or rather with
 individuals in the entourage of political, industrial and labor leaders. Their

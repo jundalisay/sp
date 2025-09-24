@@ -4,7 +4,7 @@ title: "A Mental Experiment"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 84
 ---
 
 

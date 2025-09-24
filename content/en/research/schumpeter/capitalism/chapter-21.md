@@ -4,7 +4,7 @@ title: "The Common Good and the Will of the People"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 95
 ---
 
 
@@ -43,10 +43,7 @@ specialists simply act in order to carry out the will of the people exactly as
 a doctor acts in order to carry out the will of the patient to get well. It is
 also true that in a community of any size, especially if it displays the
 phenomenon of division of labor, it would be highly inconvenient for every
-individual citizen to have to get into contact with all the other citizens on
-The Classical Doctrine of Democracy 251
-
-every issue in order to do his part in ruling or governing. It will be more
+individual citizen to have to get into contact with all the other citizens on every issue in order to do his part in ruling or governing. It will be more
 convenient to reserve only the most important decisions for the individual
 citizens to pronounce upon—say by referendum—and to deal with the rest
 through a committee appointed by them—an assembly or parliament whose
@@ -80,36 +77,41 @@ different things. This fact, hidden from the utilitarian by the narrowness of hi
 outlook on the world of human valuations, will introduce rifts on questions
 of principle which cannot be reconciled by rational argument because ultimate
 values—our conceptions of what life and what society should be—are beyond
-the range of mere logic. They may be bridged by compromise in some cases
+the range of mere logic. 
+
+They may be bridged by compromise in some cases
 but not in others. Americans who say, “We want this country to arm to its teeth
 and then to fight for what we conceive to be right all over the globe” and
 Americans who say, “We want this country to work out its own problems
 which is the only way it can serve humanity” are facing irreducible differences
 of ultimate values which compromise could only maim and degrade.
-Secondly, even if a sufficiently definite common good—such as for
-1 The official theory of the functions of a cabinet minister holds in fact that he is appointed
-in order to see to it that in his department the will of the people prevails.
 
+<!-- 1 The official theory of the functions of a cabinet minister holds in fact that he is appointed
+in order to see to it that in his department the will of the people prevails. -->
 
-instance the utilitarian’s maximum of economic satisfaction 2 —proved
-acceptable to all, this would not imply equally definite answers to individual
+2. Even if a sufficiently definite common good—such as for instance the utilitarian’s maximum of economic satisfaction 2 —proved acceptable to all, this would not imply equally definite answers to individual
 issues. Opinions on these might differ to an extent important enough to
 produce most of the effects of “fundamental” dissension about ends
-themselves. The problems centering in the evaluation of present versus future
+themselves. 
+
+The problems centering in the evaluation of present versus future
 satisfactions, even the case of socialism versus capitalism, would be left still
 open, for instance, after the conversion of every individual citizen to
 utilitarianism. “Health” might be desired by all, yet people would still
 disagree on vaccination and vasectomy. And so on.
+
 The utilitarian fathers of democratic doctrine failed to see the full
 importance of this simply because none of them seriously considered any
 substantial change in the economic framework and the habits of bourgeois
 society. They saw little beyond the world of an eighteenth-century
 ironmonger.
 
-But, third, as a consequence of both preceding propositions, the particular
+3. As a consequence of both preceding propositions, the particular
 concept of the will of the people or the volonté générale that the utilitarians
 made their own vanishes into thin air. For that concept presupposes the
-existence of a uniquely determined common good discernible to all. Unlike
+existence of a uniquely determined common good discernible to all. 
+
+Unlike
 the romanticists the utilitarians had no notion of that semi-mystic entity
 endowed with a will of its own—that “soul of the people” which the historical
 school of jurisprudence made so much of. They frankly derived their will of

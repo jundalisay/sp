@@ -1,10 +1,10 @@
 ---
-heading: Chapter 18b
+heading: Chapter 19
 title: "The Record Of Socialist Parties"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 80
 ---
 
 

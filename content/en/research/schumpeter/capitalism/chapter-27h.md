@@ -136,6 +136,7 @@ not imply corresponding extension of the range of political management.
 Conceivably, the former may be extended so as to absorb a nation’s
 economic affairs while the latter still remains within the boundaries set by
 the limitations of the democratic method.
+
 It does follow however that in socialist society these limitations will raise
 a much more serious problem. For socialist society lacks the automatic
 restrictions imposed upon the political sphere by the bourgeois scheme of
@@ -154,7 +155,7 @@ even these can be much reduced by an appropriate concentration of
 responsibility on individuals and by a system of well-chosen incentives and
 penalties, of which the methods of appointment and promotion are the most
 important part.
-Socialism and Democracy300
+
 Serious socialists, when off the stump and in a responsible mood, have
 always been aware of this problem and also of the fact that “democracy”
 is no answer to it. An interesting illustration is afforded by the deliberations
@@ -185,11 +186,9 @@ predecessors, and in many cases the same individuals would have been
 reappointed. We thus reach, by a different route, the conclusion already
 arrived at in Part III.
 
-But we are now in a position to link up this conclusion with an answer
-to the problem of democracy in socialism. In a sense, of course, the present-
-day forms and organs of democratic procedure are as much the outgrowth
-of the structure and the issues of the bourgeois world as is the fundamental
-9 Industrial or Economic Democracy is a phrase that figures in so many quasiutopias
+
+
+<!-- 9 Industrial or Economic Democracy is a phrase that figures in so many quasiutopias
 that it has retained very little precise meaning. Mainly, I think, it means two things: first,
 the trade-union rule over industrial relations; second, democratization of the monarchic
 factory by workmen’s representation on boards or other devices calculated to secure them
@@ -198,9 +197,10 @@ and, of course, discipline in the plant in particular, including methods of “h
 Profit-sharing is a nostrum of a subgroup of schemes. It is safe to say that much of this
 economic democracy will vanish into thin air in a socialist regime. Nor is this so offensive
 as it may sound. For many of the interests this kind of democracy is intended to safeguard
-will then cease to exist.
-The Inference 301
-principle of democracy itself. But this is no reason why they should have to
+will then cease to exist. -->
+
+But we are now in a position to link up this conclusion with an answer
+to the problem of democracy in socialism. In a sense, of course, the present-day forms and organs of democratic procedure are as much the outgrowth of the structure and the issues of the bourgeois world as is the fundamental principle of democracy itself. But this is no reason why they should have to
 disappear along with capitalism General elections, parties, parliaments,
 cabinets and prime ministers may still prove to be the most convenient
 instruments for dealing with the agenda that the socialist order may reserve
@@ -212,6 +212,7 @@ existing rules for the distribution of the social product should be amended
 and so on. General debates about efficiency, investigation committees of the
 type of the English Royal Commissions would continue to fulfill their
 present functions.
+
 Thus the politicians in the cabinet, and in particular the politician at the
 head of the Ministry of Production, would no doubt assert, the influence of
 the political element, both by their legislative measures concerning the
@@ -226,8 +227,8 @@ internal working of their respective departments.
 that fulfills all the requirements of “maturity” listed in Part III, including, in
 particular, the ability to establish the socialist order in a democratic way and
 the existence of a bureaucracy of adequate standing and experience. But a
-society that does fulfill these requirements—I shall not deal with any other—
-would first of all command an advantage of possibly decisive importance.
+society that does fulfill these requirements—I shall not deal with any other—would first of all command an advantage of possibly decisive importance.
+
 I have emphasized that democracy cannot be expected to function
 satisfactorily unless the vast majority of the people in all classes are resolved
 to abide by the rules of the democratic game and that this in turn implies that

@@ -4,7 +4,7 @@ title: "Plausible Capitalism"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 193
+weight: 18
 ---
 
 
