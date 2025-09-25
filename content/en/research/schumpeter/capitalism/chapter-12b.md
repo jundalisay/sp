@@ -1,14 +1,12 @@
 ---
 heading: Chapter 12
-title: "CRUMBLING WALLS"
+title: "The Destruction Of The Protecting Strata"
 c: "firebrick"
 description: ""
 date: 2025-09-21
 weight: 38
 ---
 
-
-II. THE DESTRUCTION of the PROTECTING STRATA
 
 So far we have been considering the effects of the capitalist process upon
 the economic bases of the upper strata of capitalist society and upon their social position and prestige. But effects further extend to the institutional framework that protected them. In showing this we shall take the term in its
