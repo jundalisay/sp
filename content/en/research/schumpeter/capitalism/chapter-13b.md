@@ -7,7 +7,7 @@ date: 2025-09-21
 weight: 48
 ---
 
-II. T HE S OCIOLOGY O F T HE I NTELLECTUAL
+II. The SOCIOLOGY of the INTELLECTUAL
 
 Nevertheless, neither the opportunity of attack nor real or fancied grievances
 are in themselves sufficient to produce, however strongly they may favor, the

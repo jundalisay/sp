@@ -1,6 +1,6 @@
 ---
 heading: Chapter 24b
-title: "DEMOCRACY IN THE SOCIALIST ORDER"
+title: "Democracy In The Socialist Order"
 c: "firebrick"
 description: ""
 date: 2025-09-21
@@ -49,10 +49,12 @@ condemning. In trying to distance himself, the socialist not only is being ungra
 wave that carries him, but he is also courting the danger that its forces might be harnessed
 into other service. -->
 
-Third, not all of those whom Marxists include among the utopians lacked contact with mass movements. Some contact inevitably resulted from the fact
+3. Not all of those whom Marxists include among the utopians lacked contact with mass movements. Some contact inevitably resulted from the fact
 that the social and economic conditions which set in motion the intellectual’s
 pen will also set in motion some group or class of the people—peasants or
-artisans or agricultural laborers or simply the vagrants and the rabble. But
+artisans or agricultural laborers or simply the vagrants and the rabble. 
+
+But
 many of the utopians established much closer contact. The demands of the
 peasants during the revolutions of the sixteenth century were already
 formulated by intellectuals, and coordination and cooperation steadily became
@@ -107,8 +109,9 @@ that though the capitalist process slowly socializes economic life and much
 besides, this spells transformation of the whole of the social organism all
 parts of which are equally affected. The real income and the social weight
 of the working class rise in this process, and capitalist society becomes
-more and more incapable of dealing with labor difficulties. But this is a
-poor substitute for the Marxian picture of labor being goaded into the
+more and more incapable of dealing with labor difficulties. 
+
+But this is a poor substitute for the Marxian picture of labor being goaded into the
 grand revolution by increasingly intolerable suffering. If we discard this
 picture and realize that what actually increases is labor’s stake in the
 capitalist system, we shall inevitably think less of the particular call
@@ -121,11 +124,11 @@ formed by intellectuals assisted by the semicriminal rabble. And Marx’s
 ideas on the subject are nothing but “ideology”—just as utopian as any
 beliefs of the utopists.
 
-Thus, while it remains substantially true that, unlike most of his
-predecessors, Marx intended to rationalize an existing movement and not a
-dream, and also that he and his successors actually gained partial control of
-that movement, the difference is smaller than Marxists would have us
-believe. There was, as we have seen, more of realism in the thought of the
+Thus, unlike most of his predecessors, Marx intended to rationalize an existing movement and not a dream, and also that he and his successors actually gained partial control of that movement.
+
+The difference is smaller than Marxists would have us believe. 
+
+There was, as we have seen, more of realism in the thought of the
 utopists, and there was more of unrealistic dreaming in Marx’s thought than
 they admit.
 
@@ -152,4 +155,3 @@ produce that pressure. As we shall presently see, it is a fair question to ask w
 would be without the fellow traveler. It is certain that socialism (as distinguished from the labor
 movement of the trade-union type) would be nowhere without the intellectual leader of
 bourgeois extraction.
-

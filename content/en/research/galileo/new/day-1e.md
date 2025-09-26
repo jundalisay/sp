@@ -1,32 +1,59 @@
 ---
-heading: Day 1
+heading: Day 1e
 title: "Small Scale Versus Large Scale"
 # date: 2025-05-15
 weight: 36
 description: ""
-a: "Galileo"
 c: "darkgoldenrod"
 ---
 
 
-SIMP.   Here a difficulty presents itself which appears to me insoluble.  Since it is clear that we may have one line greater than another, each containing an infinite number of points, we are forced to admit that, within one and the same class, we may have something greater than infinity, because the infinity of points in the long line is greater than the infinity of points in the short line.  This assigning to an infinite quantity a value greater than infinity is quite beyond my comprehension. 
+{{< r a="Simplicio" >}}
+Here a difficulty presents itself which appears to me insoluble.  Since it is clear that we may have one line greater than another, each containing an infinite number of points, we are forced to admit that, within one and the same class, we may have something greater than infinity, because the infinity of points in the long line is greater than the infinity of points in the short line.  This assigning to an infinite quantity a value greater than infinity is quite beyond my comprehension. 
+{{< /r >}}
 
-SALV.   This is one of the difficulties which arise when we attempt, with our finite minds, to discuss the infinite, assigning to it those properties which we give to the finite and limited; but [78] this I think is wrong, for we cannot speak of infinite quantities as being the one greater or less than or equal to another.  To prove this I have in mind an argument which, for the sake of clearness, I shall put in the form of questions to Simplicio who raised this difficulty. 
+
+{{< l a="Salviati" >}}
+This is one of the difficulties which arise when we attempt, with our finite minds, to discuss the infinite, assigning to it those properties which we give to the finite and limited; but [78] this I think is wrong, for we cannot speak of infinite quantities as being the one greater or less than or equal to another.  
+
+To prove this I have in mind an argument which, for the sake of clearness, I shall put in the form of questions to Simplicio who raised this difficulty. 
 
 I take it for granted that you know which of the numbers are squares and which are not. 
+{{< /l >}}
 
-SIMP.   I am quite aware that a squared number is one which results from the multiplication of another number by itself; thus 4, 9, etc. , are squared numbers which come from multiplying 2, 3, etc. , by themselves.  (32) SALV.   Very well; and you also know that just as the products are called squares so the factors are called sides or roots; while on the other hand those numbers which do not consist of two equal factors are not squares.  Therefore if I assert that all numbers, including both squares and non-squares, are more than the squares alone, I shall speak the truth, shall I not?
 
-SIMP.   Most certainly. 
+{{< r a="Simplicio" >}}
+I am quite aware that a squared number is one which results from the multiplication of another number by itself; thus 4, 9, etc. , are squared numbers which come from multiplying 2, 3, etc. , by themselves.
+{{< /r >}}
 
-SIMP.   If I should ask further how many squares there are one might reply truly that there are as many as the corresponding number of roots, since every square has its own root and every root its own square, while no square has more than one root and no root more than one square. 
+{{< l a="Salviati" >}}
+Very well; and you also know that just as the products are called squares so the factors are called sides or roots; while on the other hand those numbers which do not consist of two equal factors are not squares.  Therefore if I assert that all numbers, including both squares and non-squares, are more than the squares alone, I shall speak the truth, shall I not?
+{{< /l >}}
 
-SIMP.   Precisely so. 
 
-SALV.   But if I inquire how many roots there are, it cannot be denied that there are as many as there are numbers because every number is a root of some square.  This being granted we must say that there are as many squares as there are numbers because they are just as numerous as their roots, and all the numbers are roots.  Yet at the outset we said there are many more numbers than squares, since the larger portion of them are not squares.  Not only so, but the proportionate number of squares diminishes as we pass to larger numbers.  Thus up to 100 we have 10 squares, that is, the squares constitute 1/10 part of all the numbers; up to 10000, we find only 1/100 [79] part to be squares; and up to a million only 1/1000 part; on the other hand in an infinite number, if one could conceive of such a thing, he would be forced to admit that there are as many squares as there are numbers all taken together. 
+{{< r a="Simplicio" >}}
+Most certainly. 
+{{< /r >}}
 
-We can only infer that the totality of all numbers is infinite, that the number of squares is infinite, and that the number of their roots is infinite; neither is the number of squares less than the totality of all numbers, nor the latter greater than the former; and finally the attributes "equal," greater," and "less," are not applicable to infinite, (33) but only to finite, quantities.  When therefore Simplicio introduces several lines of different lengths and asks me how it is possible that the longer ones do not contain more points than the shorter, I answer him that one line does not contain more or less or just as many points as another, but that each line contains an infinite number.  Or if I had replied to him that the points in one line were equal in number to the squares; in another, greater than the totality of numbers; and in the little one, as many as the number of cubes, might I not, indeed, have satisfied him by thus placing more points in one line than in another and yet maintaining an infinite number in each? So much for the first difficulty. 
 
+{{< l a="Salviati" >}}
+If I should ask further how many squares there are one might reply truly that there are as many as the corresponding number of roots, since every square has its own root and every root its own square, while no square has more than one root and no root more than one square. 
+{{< /l >}}
+
+{{< r a="Simplicio" >}}
+Precisely so. 
+{{< /r >}}
+
+
+{{< l a="Salviati" >}}
+But if I inquire how many roots there are, it cannot be denied that there are as many as there are numbers because every number is a root of some square.  
+
+This being granted we must say that there are as many squares as there are numbers because they are just as numerous as their roots, and all the numbers are roots.  Yet at the outset we said there are many more numbers than squares, since the larger portion of them are not squares.  Not only so, but the proportionate number of squares diminishes as we pass to larger numbers.  Thus up to 100 we have 10 squares, that is, the squares constitute 1/10 part of all the numbers; up to 10000, we find only 1/100 [79] part to be squares; and up to a million only 1/1000 part; on the other hand in an infinite number, if one could conceive of such a thing, he would be forced to admit that there are as many squares as there are numbers all taken together. 
+
+We can only infer that the totality of all numbers is infinite, that the number of squares is infinite, and that the number of their roots is infinite; neither is the number of squares less than the totality of all numbers, nor the latter greater than the former; and finally the attributes "equal," greater," and "less," are not applicable to infinite, (33) but only to finite, quantities.  When therefore Simplicio introduces several lines of different lengths and asks me how it is possible that the longer ones do not contain more points than the shorter, I answer him that one line does not contain more or less or just as many points as another, but that each line contains an infinite number.  Or if I had replied to him that the points in one line were equal in number to the squares; in another, greater than the totality of numbers; and in the little one, as many as the number of cubes, might I not, indeed, have satisfied him by thus placing more points in one line than in another and yet maintaining an infinite number in each?
+
+So much for the first difficulty. 
+{{< /l >}}
 
 {{< r a="Sagredo" >}}
 Pray stop a moment and let me add to what has already been said an idea which just occurs to me.  If the preceding be true, it seems to me impossible to say either that one infinite number is greater than another or even that it is greater than a finite number, because if the infinite number were greater than, say, a million it would follow that on passing from the million to higher and higher numbers we would be approaching the infinite; but this is not so; on the contrary, the larger the number to which we pass, the more we recede from [this property of] infinity, because the greater the numbers the fewer [relatively] are the squares contained in them; but the squares in infinity cannot be less than the totality of all the numbers, as we have just agreed; hence the approach to greater and greater numbers means a departure from infinity. *
@@ -87,10 +114,11 @@ Are we then to believe that substances become fluid in virtue of being resolved 
 {{< /r >}}
 
 
-
-SALV.   I am not able to find any better means of accounting for certain phenomena of which the following is one.  When I take a hard substance such as stone or metal and when I reduce it by means of a hammer or fine file to the most minute and impalpable powder, it is clear that its finest particles, although when taken one by one are, on account of their smallness, imperceptible to our sight and touch, are nevertheless finite in size, possess shape, and capability of being counted.  It is also true that when once heaped up they remain in a heap; and if an excavation be made within limits the cavity will remain and the surrounding particles will not rush in to fill it; if shaken the particles come to rest immediately after the external disturbing agent is removed; the same effects are observed in all piles of [86] larger and larger particles, of any shape, even if spherical, as is the case with piles of millet, wheat, lead shot, and every other material.  But if we attempt to discover such properties in water we do not find them; for when once heaped up it immediately flattens out unless held up by some vessel or other external retaining body; when hollowed out it quickly rushes in to fill the cavity; and when disturbed it fluctuates for a long time and sends out its waves through great distances. 
+{{< l a="Salviati" >}}
+I am not able to find any better means of accounting for certain phenomena of which the following is one.  When I take a hard substance such as stone or metal and when I reduce it by means of a hammer or fine file to the most minute and impalpable powder, it is clear that its finest particles, although when taken one by one are, on account of their smallness, imperceptible to our sight and touch, are nevertheless finite in size, possess shape, and capability of being counted.  It is also true that when once heaped up they remain in a heap; and if an excavation be made within limits the cavity will remain and the surrounding particles will not rush in to fill it; if shaken the particles come to rest immediately after the external disturbing agent is removed; the same effects are observed in all piles of [86] larger and larger particles, of any shape, even if spherical, as is the case with piles of millet, wheat, lead shot, and every other material.  But if we attempt to discover such properties in water we do not find them; for when once heaped up it immediately flattens out unless held up by some vessel or other external retaining body; when hollowed out it quickly rushes in to fill the cavity; and when disturbed it fluctuates for a long time and sends out its waves through great distances. 
 
 Seeing that water has less firmness [consistenza] than the finest of powder, in fact has no consistence whatever, we may, it seems to me, very reasonably conclude that the smallest particles into which it can be resolved are quite different from finite and divisible particles; indeed the only difference I am able to discover is that the former are indivisible.  The exquisite (41) transparency of water also favors this view; for the most transparent crystal when broken and ground and reduced to powder loses its transparency; the finer the grinding the greater the loss; but in the case of water where the attrition is of the highest degree we have extreme transparency.  Gold and silver when pulverized with acids [acque forti] more finely than is possible with any file still remain powders,* and do not become fluids until the finest particles [gl' indivisibili] of fire or of the rays of the sun dissolve them, as I think, into their ultimate, indivisible, and infinitely small components. 
+{{< /l >}}
 
 
 {{< r a="Sagredo" >}}
@@ -98,7 +126,9 @@ This phenomenon of light which you mention is one which I have many times remark
 {{< /r >}}
 
 
-SALV.   Speaking of the effects produced by the mirrors of Archimedes, it was his own books (which I had already read and studied with infinite astonishment) that rendered credible to me all the miracles described by various writers.  And if any doubt had remained the book which Father Buonaventura Cavalieri** [87] has recently published on the subject of the burning glass [specchio ustorio] and which I have read with admiration would have removed the last difficulty. 
+{{< l a="Salviati" >}}
+Speaking of the effects produced by the mirrors of Archimedes, it was his own books (which I had already read and studied with infinite astonishment) that rendered credible to me all the miracles described by various writers.  And if any doubt had remained the book which Father Buonaventura Cavalieri** [87] has recently published on the subject of the burning glass [specchio ustorio] and which I have read with admiration would have removed the last difficulty. 
+{{< /l >}}
 
 
 {{< r a="Sagredo" >}}
@@ -106,12 +136,11 @@ I also have seen this treatise and have read it with (42) pleasure and astonishm
 {{< /r >}}
 
 
-SALV.   We observe that other combustions and resolutions are accompanied by motion, and that, the most rapid; note the action of lightning and of powder as used in mines and petards; note also how the charcoal flame, mixed as it is with heavy and impure vapors, increases its power to liquify metals whenever quickened by a pair of bellows.  Hence I do not understand how the action of light, although very pure, can be devoid of motion and that of the swiftest type. 
+{{< l a="Salviati" >}}
+Other combustions and resolutions are accompanied by motion, and that, the most rapid; note the action of lightning and of powder as used in mines and petards; note also how the charcoal flame, mixed as it is with heavy and impure vapors, increases its power to liquify metals whenever quickened by a pair of bellows.  Hence I do not understand how the action of light, although very pure, can be devoid of motion and that of the swiftest type. 
+{{< /l >}}
 
 
 {{< r a="Sagredo" >}}
 But of what kind and how great must we consider this speed of light to be? Is it instantaneous or momentary or does it like other motions require time? Can we not decide this by experiment?
 {{< /r >}}
-
-
-

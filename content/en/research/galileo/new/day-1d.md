@@ -1,25 +1,45 @@
 ---
-heading: Day 1
+heading: Day 1d
 title: "Small Scale Versus Large Scale"
 # date: 2025-05-15
 weight: 36
 description: ""
-a: "Galileo"
 c: "darkgoldenrod"
 ---
 
 
 
 {{< r a="Sagredo" >}}
-On what depends the resistance to breaking, other than that of the vacuum; what is the gluey or viscous substance which cements together the parts of the solid? For I cannot imagine a glue that will not burn up in a highly heated furnace in two or three months, or certainly within ten or a hundred.  For if gold, silver and glass are kept for a long while in the molten state and are removed from the furnace, their parts, on cooling, immediately reunite and bind themselves together as before.  Not only so, but whatever difficulty arises with respect to the cementation of the parts of the glass arises also with regard to the parts of the glue; in other words, what is that which holds these parts together so firmly? [66]
+On what depends the resistance to breaking, other than that of void?
+
+What is the gluey or viscous substance which cements together the parts of the solid?
+
+<!-- I cannot imagine a glue that will not burn up in a highly heated furnace in two or three months, or certainly within ten or a hundred.   -->
+
+If gold, silver and glass are kept for a long while in the molten state and are removed from the furnace, their parts, on cooling, immediately reunite and bind together as before.
+
+<!-- Not only so, but whatever difficulty arises with respect to the cementation of the parts of the glass arises also with regard to the parts of the glue; in other words,  -->
+
+What holds these parts together so firmly?
 {{< /r >}}
 
+
 {{< l a="Salviati" >}}
-A little while ago, I expressed the hope that your good angel might assist you.  I now find myself in the same straits.  Experiment leaves no doubt that the reason why two plates cannot be separated, except with violent effort, is that they are held together by the resistance of the vacuum; and the same can be said of two large pieces of a marble or bronze column.  This being so, I do not see why this same cause may not explain the coherence of smaller parts and indeed of the very smallest particles of these materials.  Now, since each effect must have one true and sufficient cause and since I find no other cement, am I not justified in trying to discover whether the vacuum is not a sufficient cause?
+The 2 plates can be separated only with violent effort.
+
+They are held together by the resistance of the void.
+
+The same can be said of 2 large pieces of a marble or bronze column.
+
+This same cause explains the coherence of the very smallest particles of these materials.
+
+<!-- w, since each effect must have one true and sufficient cause and since I find no other cement, am I not justified in trying to discover whether the vacuum is not a sufficient cause? -->
 {{< /l >}}
 
 
 SIMP.   But seeing that you have already proved that the resistance which the large vacuum offers to the separation of two large parts of a solid is really very small in comparison with that cohesive force which binds together the most minute parts, why do you hesitate to regard this latter as something very different from the former?
+
+
 
 SALV.   Sagredo has already [p.  13 above] answered this question when he remarked that each individual soldier was being (19) paid from coin collected by a general tax of pennies and farthings, while even a million of gold would not suffice to pay the entire army.  And who knows but that there may be other extremely minute vacua which affect the smallest particles so that that which binds together the contiguous parts is throughout of the same mintage? Let me tell you something which has just occurred to me and which I do not offer as an absolute fact, but rather as a passing thought, still immature and calling for more careful consideration.  
 
@@ -118,5 +138,17 @@ The demonstration is ingenious and the inferences drawn from it are remarkable. 
 {{< /r >}}
 
 
-SALV.   But I do have something special to say, and will first of all repeat what I said a little while ago, namely, that infinity and indivisibility are in their very nature incomprehensible to us; imagine then what they are when combined.  Yet if [77] we wish to build up a line out of indivisible points, we must take an infinite number of them, and are, therefore, bound to understand both the infinite and the indivisible at the same time.  Many ideas have passed through my mind concerning this subject, some of which, possibly the more important, I may not be able to recall on the spur of the moment; but in the course of our discussion it may happen that I shall awaken in you, and especially in Simplicio, objections and difficulties which in turn will bring to memory that which, without such stimulus, would have lain dormant in my mind.  Allow me therefore the customary liberty of introducing some of our human fancies, for indeed we may so call them in comparison with supernatural truth which furnishes the one true and safe recourse for decision in our discussions and which is an infallible guide in the dark and dubious paths of thought.  (31) One of the main objections urged against this building up of continuous quantities out of indivisible quantities [continuo d' indivisibili] is that the addition of one indivisible to another cannot produce a divisible, for if this were so it would render the indivisible divisible.  Thus if two indivisibles, say two points, can be united to form a quantity, say a divisible line, then an even more divisible line might be formed by the union of three, five, seven, or any other odd number of points.  Since however these lines can be cut into two equal parts, it becomes possible to cut the indivisible, which lies exactly in the middle of the line.  In answer to this and other objections of the same type we reply that a divisible magnitude cannot be constructed out of two or ten or a hundred or a thousand indivisibles, but requires an infinite number of them. 
 
+SALV.   The infinity and indivisibility are in their very nature incomprehensible to us.
+
+Imagine then what they are when combined.  Yet if we wish to build up a line out of indivisible points, we must take an infinite number of them.
+
+We are bound to understand both the infinite and the indivisible at the same time.  Many ideas have passed through my mind concerning this subject, some of which, possibly the more important, I may not be able to recall on the spur of the moment; but in the course of our discussion it may happen that I shall awaken in you, and especially in Simplicio, objections and difficulties which in turn will bring to memory that which, without such stimulus, would have lain dormant in my mind.  
+
+Allow me therefore the customary liberty of introducing some of our human fancies, for indeed we may so call them in comparison with supernatural truth which furnishes the one true and safe recourse for decision in our discussions and which is an infallible guide in the dark and dubious paths of thought.
+
+One of the main objections urged against this building up of continuous quantities out of indivisible quantities [continuo d' indivisibili] is that the addition of one indivisible to another cannot produce a divisible, for if this were so it would render the indivisible divisible.  
+
+Thus if 2 indivisibles, say 2 points, can be united to form a quantity, say a divisible line, then an even more divisible line might be formed by the union of three, five, seven, or any other odd number of points.  
+
+Since however these lines can be cut into two equal parts, it becomes possible to cut the indivisible, which lies exactly in the middle of the line.  In answer to this and other objections of the same type we reply that a divisible magnitude cannot be constructed out of two or ten or a hundred or a thousand indivisibles, but requires an infinite number of them. 

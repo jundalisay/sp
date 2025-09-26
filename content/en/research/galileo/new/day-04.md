@@ -1,4 +1,16 @@
-Theorem III, Proposition III
+---
+heading: Day 4
+title: "Small Scale Versus Large Scale"
+# date: 2025-05-15
+weight: 36
+description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
+c: "darkgoldenrod"
+---
+
+
+
+## Theorem III, Proposition III
+
 If one and the same body, starting from rest, falls along an inclined plane and also along a vertical, each having the same height, the times of descent will be to each other as the lengths of the inclined plane and the vertical.
 
 Let AC be the inclined plane and AB the perpendicular, each having the same vertical height above the horizontal, namely, BA; then I say, the time of descent of one and the same body along the plane AC bears a ratio to the time of fall along the perpendicular AB, which is the same as the ratio of the length AC to the length AB. Let DG, EI and LF be any lines parallel to the horizontal CB; then it follows from what has preceded that a body starting from A will acquire the same speed at the point G as at D, since in each case the vertical fall is the same; in like manner the speeds at I and E will be the same; so also those at L and F. And in general the speeds at the two extremities of any parallel drawn from any point on AB to the corresponding point on AC will be equal.
@@ -52,8 +64,9 @@ e. d.
 
 The same proposition may be more easily demonstrated as follows: On the horizontal line AB draw a circle whose diameter DC is vertical. From the upper end of this diameter draw any inclined plane, DF, extending to meet the circumference; then, I say, a body will occupy the same time in falling along the plane DF as along the diameter DC. For draw FG parallel to AB and perpendicular to DC; join FC; and since the time of fall along DC is to that along DG as the mean proportional between CD and GD is to GD itself; and since also DF is a mean proportional between DC and DG, the angle DFC inscribed in a semicircle being a right-angle, and FG being perpendicular to DC, it follows that the time of fall along DC is to that along DG as the length FD is to GD. But it has already been demonstrated that the time of descent along DF is to that along DG as the length DF is to DG; hence the times of descent along DF and DC each bear to the time of fall along DG the same ratio; consequently they are equal.
 
-lf0416_figure_061.jpg
+
 Fig. 58
+
 In like manner it may be shown that if one draws the chord CE from the lower end of the diameter, also the line EH parallel to the horizon, and joins the points E and D, the time of descent along EC,will be the same as that along the diameter, DC.
 
 COROLLARY I
@@ -90,9 +103,11 @@ Take two planes of different lengths and different inclinations, AE and AB, whos
 
 q. e. d.
 
-lf0416_figure_063.jpg
+
 Fig. 60
+
 Theorem VIII, Proposition VIII
+
 The times of descent along all inclined planes which intersect one and the same vertical circle, either at its highest or lowest point, are equal to the time of fall along the vertical diameter; for those planes which fall short of this diameter the times are shorter; for planes which cut this diameter, the times are longer.
 
 Let AB be the vertical diameter of a circle which touches the horizontal plane. It has already been proven that the times of descent along planes drawn from either end, A or B, to the circumference are equal. In order to show that the time of descent along the plane DF which falls short of the diameter is shorter we may draw the plane DB which is both longer and less steeply inclined than DF; whence it follows that the time along DF is less than that along DB and consequently along AB. In like manner, it is shown that the time of descent along CO which cuts the diameter is greater: for it is both longer and less steeply inclined than CB. Hence follows the theorem.

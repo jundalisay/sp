@@ -3,8 +3,7 @@ heading: Day 1
 title: "Small Scale Versus Large Scale"
 # date: 2025-05-15
 weight: 36
-description: ""
-a: "Galileo"
+description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
 c: "darkgoldenrod"
 ---
 
@@ -40,6 +39,7 @@ He answered that this was to prevent the ship parting under its own heavy weight
 Yes. I think he is wrong.
 
 But his is the common opinion because many small devices fail when enlarged.  
+
 Mechanics is based on geometry, where mere size cuts no shape. 
 
 The properties of circles, triangles, cylinders, cones and other solid figures do not change with their size.
@@ -193,7 +193,7 @@ To solve the problems which you raise it will be necessary to make a digression 
 {{< /l >}}
 
 
-{{< r a="Sagredo" >}}
+<!-- {{< r a="Sagredo" >}}
 But if, by digressions, we can reach new truth, what harm is there in making one now, so that we may not lose this knowledge, remembering that such an opportunity, once omitted, may not return; remembering also that we are not tied down to a fixed and brief method but that we meet solely for our own entertainment? Indeed, who knows but that we may thus [56] (8) frequently discover something more interesting and beautiful than the solution originally sought? I beg of you, therefore, to grant the request of Simplicio, which is also mine; for I am no less curious and desirous than he to learn what is the binding material which holds together the parts of solids so that they can scarcely be separated.  This information is also needed to understand the coherence of the parts of fibres themselves of which some solids are built up. 
 {{< /r >}}
-
+ -->

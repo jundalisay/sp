@@ -1,6 +1,12 @@
-Prefaces and Comments
-on
-Later Developments
+---
+title: "Prefaces and Comments on Later Developments"
+c: "firebrick"
+description: "Capitalism, Socialism And Democracy"
+date: 2025-09-23
+weight: 4
+draft: true
+---
+
 
 
 THIS volume is the result of an effort to weld into a readable form the
