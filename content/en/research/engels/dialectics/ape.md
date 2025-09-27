@@ -23,9 +23,7 @@ First published in English: by Progress Publishers, Moscow, 1934; -->
 
 <!-- This article was intended to introduce a larger work which Engels planned to call Die drei Grundformen der Knechtschaft – Outline of the General Plan. Engels never finished it, nor even this intro, which breaks off at the end. It would be included in Dialectics of Nature. -->
 
-I
-
-Political economists assert that nature is the source of the materials that human labour converts into wealth.
+<sup>1</sup> Political economists assert that nature is the source of the materials that human labour converts into wealth.
 
 Labour thus is:
 - the source of all wealth. 
@@ -48,8 +46,6 @@ Charles Darwin has given us an approximate description of these ancestors of our
 
 Their hands had different functions than the feet when climbing. They began to lose the habit of using their hands to walk and adopted a more and more erect posture. 
 - This was the decisive step in the transition from ape to man.
-
-![Monkey](/graphics/meta/mirror.jpg)
 
 All extant anthropoid apes can stand erect and move about on their feet alone, but only in case of urgent need and in a very clumsy way. 
 - Their natural gait is in a half-erect posture and includes the use of the hands. 
