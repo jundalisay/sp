@@ -4,7 +4,7 @@ title: "Demigods and Archangels"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 75
+weight: 72
 ---
 
 
@@ -14,7 +14,9 @@ can easily dispose of the first; no demigods will be required to direct the
 socialist engine because, as we have seen before, the task to be solved will—
 once transitional difficulties have been disposed of—be not only no more
 difficult but easier than the task that faces a captain of industry in the modern
-world. The archangels stand for the well-known proposition that the socialist
+world. 
+
+The archangels stand for the well-known proposition that the socialist
 form of existence presupposes an ethical level that men as they are cannot
 be expected to reach.
 
@@ -22,7 +24,9 @@ Socialists have themselves to blame if arguments of this type ever carried
 weight with their opponents. They talked about the horrors of capitalist oppression
 and exploitation which had only to be removed in order to reveal human nature
 in all its beauty right away or, at all events, in order to start a process of education
-that would reform human souls so as to lead up to the ethical level required.2 Thus
+that would reform human souls so as to lead up to the ethical level required.2 
+
+Thus
 they laid themselves open not only to the charge of flattering the masses to a
 ridiculous degree but also to the charge of espousing a Rousseauism which should
 be sufficiently exploded by now. But it is not at all necessary to do that. A good
@@ -34,14 +38,7 @@ to act may be altered by changes in the social environment while the
 fundamental pattern underlying it (“human nature”) remains what it is. We
 will call this Change by Reconditioning. Second, still within that
 fundamental pattern, reconditioning may impinge on propensities to feel and
-to act which, though ultimately amenable to change by environmental
-
-<!-- 2 Among Neo-Marxists the chief sinner was Max Adler (not to be confused with the two
-other Viennese Adlers who hold a prominent place in the history of Austrian socialism, Victor
-Adler, the great organizer and leader of the party, and his son, Fritz Adler, the murderer of Prime
-Minister Count Stürgkh). -->
-
-alterations—particularly if these alterations are carried out rationally—yet
+to act which, though ultimately amenable to change by environmental alterations—particularly if these alterations are carried out rationally—yet
 resist for a time and create trouble as long as they do. This fact we may
 associate with the term Habits. Third, the fundamental pattern itself may be
 changed either within the same stock of human material or by means of
@@ -52,6 +49,13 @@ can be usefully dealt with in the platform style by reckless assertion or
 equally reckless denial. But we need not commit ourselves either way,
 because no such fundamental reform of the human soul would now be
 necessary in order to make socialism work.
+
+<!-- 2 Among Neo-Marxists the chief sinner was Max Adler (not to be confused with the two
+other Viennese Adlers who hold a prominent place in the history of Austrian socialism, Victor
+Adler, the great organizer and leader of the party, and his son, Fritz Adler, the murderer of Prime
+Minister Count Stürgkh). -->
+
+
 
 Of this we can easily satisfy ourselves. We can first exclude the agrarian
 sector which could be expected to offer the most serious difficulties. Our

@@ -1,7 +1,13 @@
+---
+heading: Day 3
+title: "CHANGE OF POSITION. [De Motu Locali]"
+date: 2025-09-25
+weight: 30
+description: ""
+c: "darkgoldenrod"
+---
 
-THIRD DAY
 
-CHANGE OF POSITION. [De Motu Locali]
 
 There is, in nature, perhaps nothing older than motion, concerning which the books written by philosophers are neither few nor small; nevertheless I have discovered by experiment some properties of it which are worth knowing and which have not hitherto been either observed or demonstrated. Some superficial observations have been made, as, for instance, that the free motion [naturalem motum] of a heavy falling body is continuously accelerated;
 *

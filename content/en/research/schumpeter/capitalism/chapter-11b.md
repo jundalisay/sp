@@ -4,7 +4,7 @@ title: "The Vanishing Of Investment Opportunity"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 32
+weight: 40
 ---
 
 

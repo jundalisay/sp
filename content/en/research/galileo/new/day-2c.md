@@ -1,4 +1,14 @@
-Proposition V
+---
+heading: Day 2c
+title: "Propositions 5"
+date: 2025-09-25
+weight: 26
+description: ""
+c: "darkgoldenrod"
+---
+
+
+### Proposition 5
 
 Prisms and cylinders which differ in both length and thickness offer resistances to fracture [i. e., can support at their ends loads] which are directly proportional to the cubes of the diameters of their bases and inversely proportional to their lengths.
 

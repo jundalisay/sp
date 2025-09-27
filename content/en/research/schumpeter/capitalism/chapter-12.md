@@ -5,7 +5,7 @@ title: The Obsolescence Of The Entrepreneurial Function
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 38
+weight: 44
 ---
 
 

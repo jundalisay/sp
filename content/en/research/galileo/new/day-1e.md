@@ -1,15 +1,21 @@
 ---
 heading: Day 1e
-title: "Small Scale Versus Large Scale"
+title: "The Infinite"
 # date: 2025-05-15
-weight: 36
+weight: 12
 description: ""
 c: "darkgoldenrod"
 ---
 
 
 {{< r a="Simplicio" >}}
-Here a difficulty presents itself which appears to me insoluble.  Since it is clear that we may have one line greater than another, each containing an infinite number of points, we are forced to admit that, within one and the same class, we may have something greater than infinity, because the infinity of points in the long line is greater than the infinity of points in the short line.  This assigning to an infinite quantity a value greater than infinity is quite beyond my comprehension. 
+Here a difficulty presents itself which appears to me insoluble.  
+
+One line can be greater than another. Each has an infinite number of points.
+
+And so within the same class, we may have something greater than infinity, because the infinity of points in the long line is greater than the infinity of points in the short line.
+
+This assigning to an infinite quantity a value greater than infinity is quite beyond my comprehension. 
 {{< /r >}}
 
 

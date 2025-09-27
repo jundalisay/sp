@@ -1,10 +1,22 @@
-Proposition 8
+---
+heading: Day 2d
+title: "Propositions 5"
+date: 2025-09-25
+weight: 28
+description: ""
+c: "darkgoldenrod"
+---
+
+
+## Proposition 8
 
 Given a cylinder or prism of the greatest length consistent with its not breaking under its own weight; and having given a greater length, to find the diameter of another cylinder or prism of this greater length which shall be the only and largest one capable of withstanding its own weight.
 
 Let BC be the largest cylinder capable of sustaining its own weight; and let DE be a length greater than AC: the problem is to find the diameter of the cylinder which, having the length DE, shall be the largest one just able to withstand its own weight. Let I be a third proportional to the lengths DE and AC; let the diameter FD be to the diameter BA as DE is to I; draw the cylinder FE; then, among all cylinders having the same proportions, this is the largest and only one just capable of sustaining its own weight.
 
-Let M be a third proportional to DE and I: also let O be a fourth proportional to DE, I, and M; lay off FG equal to AC. Now since the diameter FD is to the diameter AB as the length DE is to I, and since O is a fourth proportional to DE, I and M, it follows that FDmacronsup3:BAmacronsup3=DE:O. But the resistance [bending strength] of the cylinder DG is to the resistance of the cylinder BC as the cube of FD is to the cube of BA: hence the resistance of the cylinder DG is to that of cylinder BC as the length DE is to O. And since the moment of the cylinder BC is held in equilibrium by [è equale alla] its resistance, we shall accomplish our end (which is to prove that the moment of the cylinder FE is equal to the resistance located at FD), if we show that the moment of the cylinder FE is to the moment of the cylinder BC as the resistance DF is to the resistance BA, that is, as the cube of FD is to the cube of BA, or as the length DE is to O. The moment of the cylinder FE is to the moment of the cylinder DG as the square of DE is to the square of AC, that is, as the length DE is to I; but the moment of the cylinder DG is to the moment of the cylinder BC, as the square of DF is to the square of BA, that is, as the square of DE is to the square of I, or as the square of I is to the square of M, or, as I is to O. Therefore by equating ratios, it results that the moment of the cylinder FE is to the moment of the cylinder BC as the length DE is to O, that is, as the cube of DF is to the cube of BA, or as the resistance of the base DF is to the resistance of the base BA; which was to be proven.
+Let M be a third proportional to DE and I: also let O be a fourth proportional to DE, I, and M; lay off FG equal to AC. Now since the diameter FD is to the diameter AB as the length DE is to I, and since O is a fourth proportional to DE, I and M, it follows that FDmacronsup3:BAmacronsup3=DE:O. But the resistance [bending strength] of the cylinder DG is to the resistance of the cylinder BC as the cube of FD is to the cube of BA: hence the resistance of the cylinder DG is to that of cylinder BC as the length DE is to O. 
+
+And since the moment of the cylinder BC is held in equilibrium by [è equale alla] its resistance, we shall accomplish our end (which is to prove that the moment of the cylinder FE is equal to the resistance located at FD), if we show that the moment of the cylinder FE is to the moment of the cylinder BC as the resistance DF is to the resistance BA, that is, as the cube of FD is to the cube of BA, or as the length DE is to O. The moment of the cylinder FE is to the moment of the cylinder DG as the square of DE is to the square of AC, that is, as the length DE is to I; but the moment of the cylinder DG is to the moment of the cylinder BC, as the square of DF is to the square of BA, that is, as the square of DE is to the square of I, or as the square of I is to the square of M, or, as I is to O. Therefore by equating ratios, it results that the moment of the cylinder FE is to the moment of the cylinder BC as the length DE is to O, that is, as the cube of DF is to the cube of BA, or as the resistance of the base DF is to the resistance of the base BA; which was to be proven.
 
 
 Fig. 25

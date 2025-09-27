@@ -1,15 +1,17 @@
 ---
-heading: Chapter 12
+heading: Chapter 12b
 title: "The Destruction Of The Protecting Strata"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 38
+weight: 46
 ---
 
 
 So far we have been considering the effects of the capitalist process upon
-the economic bases of the upper strata of capitalist society and upon their social position and prestige. But effects further extend to the institutional framework that protected them. In showing this we shall take the term in its
+the economic bases of the upper strata of capitalist society and upon their social position and prestige. 
+
+But effects further extend to the institutional framework that protected them. In showing this we shall take the term in its
 widest acceptance so as to include not only legal institutions but also
 attitudes of the public mind and policies.
 
@@ -181,34 +183,6 @@ amounts to saying that it needs a master. -->
 
 <!-- 3 This line of reasoning will he taken up again in Part IV. -->
 
-But the capitalist process, both by its economic mechanics and by its
-psycho-sociological effects, did away with this protecting master or, as in
-this country, never gave him, or a substitute for him, a chance to develop.
-The implications of this are strengthened by another consequence of the
-same process. Capitalist evolution eliminates not only the king Dei Gratia
-but also the political entrenchments that, had they proved tenable, would
-have been formed by the village and the craft guild. Of course, neither
-organization was tenable in the precise shape in which capitalism found it.
-But capitalist policies wrought destruction much beyond what was
-unavoidable. They attacked the artisan in reservations in which he could have
-survived for an indefinite time. They forced upon the peasant all the
-blessings of early liberalism—the free and unsheltered holding and all the
-individualist rope he needed in order to hang himself.
+But the capitalist process, both by its economic mechanics and by its psycho-sociological effects, did away with this protecting master or, as in this country, never gave him, or a substitute for him, a chance to develop. The implications of this are strengthened by another consequence of the same process. Capitalist evolution eliminates not only the king Dei Gratia but also the political entrenchments that, had they proved tenable, would have been formed by the village and the craft guild. Of course, neither organization was tenable in the precise shape in which capitalism found it. But capitalist policies wrought destruction much beyond what was unavoidable. They attacked the artisan in reservations in which he could have survived for an indefinite time. They forced upon the peasant all the blessings of early liberalism—the free and unsheltered holding and all the individualist rope he needed in order to hang himself.
 
-In breaking down the pre-capitalist framework of society, capitalism
-thus broke not only barriers that impeded its progress but also flying
-buttresses that prevented its collapse. That process, impressive in its
-relentless necessity, was not merely a matter of removing institutional
-deadwood, but of removing partners of the capitalist stratum, symbiosis
-with whom was an essential element of the capitalist schema. Having
-discovered this fact which so many slogans obscure, we might well wonder
-whether it is quite correct to look upon capitalism as a social form sui
-generis or, in fact, as anything else but the last stage of the decomposition
-of what we have called feudalism. On the whole, I am inclined to believe
-that its peculiarities suffice to make a type and to accept that symbiosis of
-classes which owe their existence to different epochs and processes as the
-rule rather than as an exception—at least it has been the rule these 6000
-years, i.e., ever since primitive tillers of the soil became the subjects of
-mounted nomads. But there is no great objection that I can see against the
-opposite view alluded to.
-
+In breaking down the pre-capitalist framework of society, capitalism thus broke not only barriers that impeded its progress but also flying buttresses that prevented its collapse. That process, impressive in its relentless necessity, was not merely a matter of removing institutional deadwood, but of removing partners of the capitalist stratum, symbiosis with whom was an essential element of the capitalist schema. Having discovered this fact which so many slogans obscure, we might well wonder whether it is quite correct to look upon capitalism as a social form sui generis or, in fact, as anything else but the last stage of the decomposition of what we have called feudalism. On the whole, I am inclined to believe that its peculiarities suffice to make a type and to accept that symbiosis of classes which owe their existence to different epochs and processes as the rule rather than as an exception—at least it has been the rule these 6000 years, i.e., ever since primitive tillers of the soil became the subjects of mounted nomads. But there is no great objection that I can see against the opposite view alluded to.

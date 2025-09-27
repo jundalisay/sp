@@ -2,7 +2,7 @@
 heading: Day 1c
 title: "Gauge Block Wringing"
 # date: 2025-05-15
-weight: 36
+weight: 8
 description: "Question 1: How are fibres 3 cubits long so tightly bound together in a rope 100 cubits long that great force is required to break it?"
 c: "darkgoldenrod"
 ---

@@ -2,7 +2,7 @@
 heading: Day 1f
 title: "The Speed of Light"
 # date: 2025-05-15
-weight: 36
+weight: 14
 description: ""
 c: "darkgoldenrod"
 ---

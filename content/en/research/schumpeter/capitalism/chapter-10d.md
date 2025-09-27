@@ -4,7 +4,7 @@ title: "The Vanishing Of Investment Opportunity"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 32
+weight: 37
 ---
 
 
@@ -56,3 +56,4 @@ In fact, it is not far from the truth to say that almost any new process that is
 5. Finally, since the subject is usually dealt with by economists who aim at impressing upon the public the necessity of governmental deficit spending, another point never fails to turn up, viz., that such opportunities for investment as remain are more suited for public than they are for private enterprise. This is true to some extent. First, with increasing wealth certain lines of expenditure are likely to gain ground which do not naturally enter into any cost-profit calculation, such as expenditure on the beautification of cities, on public health and so on. Second, an ever-widening sector of industrial activity tends to enter the sphere of public management, such as means of communication, docks, power production, insurance and so on, simply because these industries become increasingly amenable to the methods of public administration. National and municipal investment could thus be expected to expand, absolutely and relatively, even in a thoroughly capitalist society, just as other forms of public planning would.
 
 But that is all. In order to recognize it we need not make any hypothesis about the course of things in the private sector of industrial activity. Moreover, for the purpose in hand it is immaterial whether in the future investment and the incident expansion of output will to a greater or a lesser extent be financed and managed by public rather than by private agencies unless it be held in addition that public financing will impose itself because private business would not be able to face the deficits to be expected in the future from any investment. This however has been dealt with before.
+

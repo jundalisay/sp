@@ -1,9 +1,9 @@
 ---
 title: "Capitalism, Socialism And Democracy"
 c: "firebrick"
-description: Science Papers
+description:
 date: 2024-09-21
-weight: 4
+weight: 2
 ---
 
 

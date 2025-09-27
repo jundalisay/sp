@@ -1,8 +1,17 @@
+---
+heading: Day 1i
+title: "Small Scale Versus Large Scale"
+# date: 2025-05-15
+weight: 20
+description: ""
+c: "darkgoldenrod"
+---
 
 
-Sagr.
-
+{{< r a="Sagredo" >}}
 With regard to this question I have found many convincing arguments in a treatise by our Academician; but there is one great difficulty of which I have not been able to rid myself, namely, if there be no tenacity or coherence between the particles of water how is it possible for those large drops of water to stand out in relief upon cabbage leaves without scattering or spreading out?
+{{< /r >}}
+
 
 Salv.
 
@@ -62,8 +71,10 @@ But if we find that air has levity instead of gravity what then shall we say of 
 Salv.
 I should say that it was empty, vain, and trifling. But can you doubt that air has weight when you have the clear testimony of Aristotle affirming that all the elements have weight including air, and excepting only fire? As evidence of this he cites the fact that a leather bottle weighs more when inflated than when collapsed.
 
-Simp.
-I am inclined to believe that the increase of weight observed in the inflated leather bottle or bladder arises, not from the gravity of the air, but from the many thick vapors mingled with it in these lower regions. To this I would attribute the increase of weight in the leather bottle.
+{{< r a="Simplicio" >}}
+I believe that the increase of weight observed in the inflated leather bottle or bladder arises, not from the gravity of the air, but from the many thick vapors mingled with it in these lower regions. To this I would attribute the increase of weight in the leather bottle.
+{{< /r >}}
+
 
 Salv.
 I would not have you say this, and much less attribute it to Aristotle; because, if speaking of the elements, he wished to persuade me by experiment that air has weight and were to say to me: “Take a leather bottle, fill it with heavy vapors and observe how its weight increases,” I would reply that the bottle would weigh still more if filled with bran; and would then add that this merely proves that bran and thick vapors are heavy, but in regard to air I should still remain in the same doubt as before. However, the experiment of Aristotle is good and the proposition is true. But I cannot say as much of a certain other consideration, taken at face value; this consideration was offered by a philosopher whose name slips me; but I know I have read his argument which is that air exhibits greater gravity than levity, because it carries heavy bodies downward more easily than it does light ones upward.
@@ -100,8 +111,11 @@ When therefore we force a quantity of water into a vessel which already contains
 
 Now record the weight of the entire vessel and then allow the compressed air to escape; weigh the remainder; the difference of these two weights will be the weight of the compressed air which, in volume, is equal to that of the water. Next find the weight of the water alone and add to it that of the compressed air; we shall then have the water alone in vacuo. To find the weight of the water we shall have to remove it from the vessel and weigh the vessel alone; subtract this weight from that of the vessel and water together. It is clear that the remainder will be the weight of the water alone in air.]
 
-Simp.
+
+{{< r a="Simplicio" >}}
 The previous experiments, in my opinion, left something to be desired: but now I am fully satisfied.
+{{< /r >}}
+
 
 Salv.
 The facts set forth by me up to this point and, in particular, the one which shows that difference of weight, even when very great, is without effect in changing the speed of falling bodies, so that as far as weight is concerned they all fall with equal speed: this idea is, I say, so new, and at first glance so remote from fact, that if we do not have the means of making it just as clear as sunlight, it had better not be mentioned; but having once allowed it to pass my lips I must neglect no experiment or argument to establish it.
@@ -128,8 +142,10 @@ I hesitate to admit the conclusiveness of this argument because of the confusion
 Sagr.
 Allow me, if you please, Salviati, to say just a few words. Now tell me, Simplicio, whether you admit that one can say with certainty that the speeds of the cork and the lead are equal whenever both, starting from rest at the same moment and descending the same slopes, always traverse equal spaces in equal times?
 
-Simp.
+{{< r a="Simplicio" >}}
 This can neither be doubted nor gainsaid.
+{{< /r >}}
+
 
 Sagr.
 In the case of the pendulums, that each of them traverses now an arc of sixty degrees, now one of fifty, or thirty or ten or eight or four or two, etc.; and when they both swing through an arc of sixty degrees they do so in equal intervals of time; the same thing happens when the arc is fifty degrees or thirty or ten or any other number; and therefore we conclude that the speed of the lead in an arc of sixty degrees is equal to the speed of the cork when the latter also swings through an arc of sixty degrees; in the case of a fifty-degree arc these speeds are also equal to each other; so also in the case of other arcs. But this is not saying that the speed which occurs in an arc of sixty is the same as that which occurs in an arc of fifty; nor is the speed in an arc of fifty equal to that in one of thirty, etc.; but the smaller the arcs, the smaller the speeds; the fact observed is that one and the same moving body requires the same time for traversing a large arc of sixty degrees as for a small arc of fifty or even a very small arc of ten; all these arcs, indeed, are covered in the same interval of time. It is true therefore that the lead and the cork each diminish their speed [moto] in proportion as their arcs diminish; but this does not contradict the fact that they maintain equal speeds in equal arcs.

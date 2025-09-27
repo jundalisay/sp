@@ -4,35 +4,51 @@ title: "Marx The Sociologist"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 6
+weight: 9
 ---
 
 
-The task of piecing together such fragments is delicate and cannot be
-attempted here. The basic idea is clear enough, however. The stratifying
-principle consists in the ownership, or the exclusion from ownership, of
-means of production such as factory buildings, machinery, raw materials and
-the consumers’ goods that enter into the workman’s budget. We have thus,
-fundamentally, two and only two classes, those owners, the capitalists, and
-those have-nots who are compelled to sell their labor, the laboring class or
-proletariat. The existence of intermediate groups, such as are formed by
-farmers or artisans who employ labor but also do manual work, by clerks
+<!-- The task of piecing together such fragments is delicate and cannot be
+attempted here. The basic idea is clear enough, however.  -->
+
+The stratifying principle consists in the ownership, or the exclusion from ownership, of means of production such as factory buildings, machinery, raw materials and the consumers’ goods that enter into the workman’s budget. 
+
+There are thus only 2 classes:
+
+1. The owners, the capitalists
+2. The have-nots as the laboring class or proletariat
+
+The have-nots are compelled to sell their labor. 
+
+The existence of intermediate groups, such as are formed by farmers or artisans who employ labor but also do manual work, by clerks
 and by the professions is of course not denied; but they are treated as
-anomalies which tend to disappear in the course of the capitalist process. The
+anomalies which tend to disappear in the course of the capitalist process. 
+
+The
 two fundamental classes are, by virtue of the logic of their position and quite
 independently of any individual volition, essentially antagonistic to each
-other. Rifts within each class and collisions between subgroups occur and
+other. 
+
+Rifts within each class and collisions between subgroups occur and
 may even have historically decisive importance. But in the last analysis, such
 rifts or collisions are incidental. The one antagonism that is not incidental
 but inherent in the basic design of capitalist society is founded upon the
 private control over the means to produce: the very nature of the relation
 between the capitalist class and the proletariat is strife—class war.
-As we shall see presently, Marx tries to show how in that class war
-capitalists destroy each other and eventually will destroy the capitalist system
-too. He also tries to show how the ownership of capital leads to further
-accumulation. But this way of arguing as well as the very definition that makes
-the ownership of something the constituent characteristic of a social class only
+
+Marx shows how in that class war capitalists destroy each other and eventually will destroy the capitalist system too.*
+
+{{< n n="This was proven by the 1997 Asian Crisis and the 2008 Financial Crisis" >}}
+
+
+He also tries to show how the ownership of capital leads to further accumulation. 
+
+But this way of arguing as well as the very definition that makes the ownership of something the constituent characteristic of a social class only
 serves to increase the importance of the question of “primitive accumulation,”
+that is to say, of the question how capitalists came to be capitalists in the first
+instance or how they acquired that stock of goods which according to the
+Marxian doctrine was necessary in order to enable them to start exploiting. On
+this question Marx is much less explicit. 8 
 
 <!-- 7 Another example is the socialist theory of imperialism which will be noticed later on.
 O.Bauer’s interesting attempt to interpret the antagonisms between the various races that
@@ -41,31 +57,36 @@ workers (Die Nationalitätenfrage, 1905) also deserves to be mentioned, although
 the analyst only serves to show up the inadequacy of the tool. -->
 
 
-that is to say, of the question how capitalists came to be capitalists in the first
-instance or how they acquired that stock of goods which according to the
-Marxian doctrine was necessary in order to enable them to start exploiting. On
-this question Marx is much less explicit. 8 He contemptuously rejects the
+He contemptuously rejects the
 bourgeois nursery tale (Kinderfibel) that some people rather than others
 became, and are still becoming every day, capitalists by superior intelligence
-and energy in working and saving. Now he was well advised to sneer at that
+and energy in working and saving. 
+
+He was well advised to sneer at that
 story about the good boys. For to call for a guffaw is no doubt an excellent
 method of disposing of an uncomfortable truth, as every politician knows to
 his profit. Nobody who looks at historical and contemporaneous fact with
 anything like an unbiased mind can fail to observe that this children’s tale,
-while far from telling the whole truth, yet tells a good deal of it. Supernormal
+while far from telling the whole truth, yet tells a good deal of it. 
+
+Supernormal
 intelligence and energy account for industrial success and in particular for the
 founding of industrial positions in nine cases out of ten. And precisely in the
 initial stages of capitalism and of every individual industrial career, saving was
 and is an important element in the process though not quite as explained in
 classic economics. It is true that one does not ordinarily attain the status of
 capitalist (industrial employer) by saving from a wage or salary in order to
-equip one’s factory by means of the fund thus assembled. The bulk of
+equip one’s factory by means of the fund thus assembled. 
+
+The bulk of
 accumulation comes from profits and hence presupposes profits—this is in fact
 the sound reason for distinguishing saving from accumulating. The means
 required in order to start enterprise are typically provided by borrowing other
 people’s savings, the presence of which in many small puddles is easy to
 explain or the deposits which banks create for the use of the would-be
-entrepreneur. Nevertheless, the latter does save as a rule: the function of his
+entrepreneur. 
+
+Nevertheless, the latter does save as a rule: the function of his
 saving is to raise him above the necessity of submitting to daily drudgery for
 the sake of his daily bread and to give him breathing space in order to look
 around, to develop his plans and to secure cooperation. As a matter of
@@ -76,6 +97,22 @@ than it would be if the classical theory were correct.9
 
 The guffaw did its work, however, and helped to clear the road for Marx’s
 alternative theory of primitive accumulation. But this alternative theory is not
+as definite as we might wish. 
+
+Force—robbery—subjugation of the masses
+facilitating their spoliation and the results of the pillage in turn facilitating
+subjugation—this was all right of course and admirably tallied with ideas
+common among intellectuals of all types, in our day still more than in the
+day of Marx. But evidently it does not solve the problem, which is to explain
+how some people acquired the power to subjugate and to rob. 
+
+Popular
+literature does not worry about it. I should not think of addressing the
+question to the writings of John Reed. But we are dealing with Marx.
+Now at least the semblance of a solution is afforded by the historical
+quality of all the major theories of Marx. For him, it is essential for the logic
+of capitalism, and not only a matter of fact, that it grew out of a feudal state
+of society. 
 
 <!-- 8 See Das Kapital, vol. i, ch. xxvi: “The Secret of Primitive Accumulation.”
 9 I will not stay to stress, though I must mention, that even the classical theory is not as
@@ -87,26 +124,20 @@ of his hands, and required only the simplest equipment to work it. In such cases
 work of the prospective capitalist plus a quite small fund of savings was all that was needed—
 and brains, of course. -->
 
-as definite as we might wish. Force—robbery—subjugation of the masses
-facilitating their spoliation and the results of the pillage in turn facilitating
-subjugation—this was all right of course and admirably tallied with ideas
-common among intellectuals of all types, in our day still more than in the
-day of Marx. But evidently it does not solve the problem, which is to explain
-how some people acquired the power to subjugate and to rob. Popular
-literature does not worry about it. I should not think of addressing the
-question to the writings of John Reed. But we are dealing with Marx.
-Now at least the semblance of a solution is afforded by the historical
-quality of all the major theories of Marx. For him, it is essential for the logic
-of capitalism, and not only a matter of fact, that it grew out of a feudal state
-of society. Of course the same question about the causes and the mechanism
+
+Of course the same question about the causes and the mechanism
 of social stratification arises also in this case, but Marx substantially accepted
 the bourgeois view that feudalism was a reign of force 10 in which subjugation
-and exploitation of the masses were already accomplished facts. The class
+and exploitation of the masses were already accomplished facts. 
+
+The class
 theory devised primarily for the conditions of capitalist society was extended
 to its feudal predecessor—as was much of the conceptual apparatus of the
 economic theory of capitalism 11 —and some of the most thorny problems
 were stowed away in the feudal compound to reappear in a settled state, in
-the form of data, in the analysis of the capitalist pattern. The feudal exploiter
+the form of data, in the analysis of the capitalist pattern. 
+
+The feudal exploiter
 was simply replaced by the capitalist exploiter. In those cases in which feudal
 lords actually turned into industrialists, this alone would solve what is thus
 left of the problem. Historical evidence lends a certain amount of support
@@ -141,14 +172,18 @@ social classes is all right except for the difficulties about processes in a dis
 past. But it is perhaps superfluous to insist on the shortcomings of a theory
 which not even in the most favorable instances goes anywhere near the heart
 of the phenomenon it undertakes to explain, and which never should have
-been taken seriously. These instances are to be found mainly in that epoch
+been taken seriously. 
+
+These instances are to be found mainly in that epoch
 of capitalist evolution which derived its character from the prevalence of the
 medium-sized owner-managed firm. Beyond the range of that type, class
 positions, though in most cases reflected in more or less corresponding
 economic positions, are more often the cause than the consequence of the
 latter: business achievement is obviously not everywhere the only avenue to
 social eminence and only where it is can ownership of means of production
-causally determine a group’s position in the social structure. Even then,
+causally determine a group’s position in the social structure. 
+
+Even then,
 however, it is as reasonable to make that ownership the defining element as
 it would be to define a soldier as a man who happens to have a gun. The
 water-tight division between people who (together with their descendants)
@@ -160,14 +195,15 @@ of the upper strata. The facts I am alluding to are all obvious and
 indisputable. If they do not show on the Marxian canvas, the reason can only
 be in their un-Marxian implications.
 
-It is not superfluous, however, to consider the role which that theory plays
-within Marx’s structure and to ask ourselves what analytic intention—as
-distinguished from its use as a piece of equipment for the agitator—he meant
-it to serve.
+What is the role which that theory plays within Marx’s structure?
 
-On the one hand, we must bear in mind that for Marx the theory of Social
-Classes and the Economic Interpretation of History were not what they are
-for us, viz., two independent doctrines. With Marx, the former implements
+What analytic intention—as distinguished from its use as a piece of equipment for the agitator—he meant
+it to serve?
+
+For Marx, the theory of Social Classes and the Economic Interpretation of History were not what they are
+for us, viz., two independent doctrines. 
+
+With Marx, the former implements
 the latter in a particular way and thus restricts—makes more definite—the
 modus operandi of the conditions or forms of production. These determine
 the social structure and, through the social structure, all manifestations of

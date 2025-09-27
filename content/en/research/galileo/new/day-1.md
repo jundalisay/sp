@@ -2,7 +2,7 @@
 heading: Day 1
 title: "Small Scale Versus Large Scale"
 # date: 2025-05-15
-weight: 36
+weight: 4
 description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
 c: "darkgoldenrod"
 ---

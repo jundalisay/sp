@@ -1,10 +1,10 @@
 ---
 heading: Chapter 12
-title: "THE DESTRUCTION Of THE INSTITUTIONAL FRAMEWORK of CAPITALIST SOCIETY"
+title: "The Destruction Of The Institutional Framework Of Capitalist Society"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 42
+weight: 48
 ---
 
 

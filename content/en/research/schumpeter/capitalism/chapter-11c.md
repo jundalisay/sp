@@ -4,12 +4,16 @@ title: "The Civilization Of Capitalism"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 35
+weight: 42
 ---
 
 
 
-There is finally all that may be grouped around the symbolic centerpiece of Gladstonian liberalism. The term Individualist Democracy would do just as well—better in fact because we want to cover some things that Gladstone would not have approved and a moral and spiritual attitude which, dwelling in the citadel of faith, he actually hated. At that I could leave this point if radical liturgy did not consist largely in picturesque denials of what I mean to convey. Radicals may insist that the masses are crying for salvation from intolerable sufferings and rattling their chains in darkness and despair, but of course there never was so much personal freedom of mind and body for all, never so much readiness to bear with and even to finance the mortal enemies of the leading class, never so much active sympathy with real and faked sufferings, never so much readiness to accept burdens, as there is in modern capitalist society; and whatever democracy there was, outside of peasant communities, developed historically in the wake of both modern and ancient capitalism. Again plenty of facts can be adduced from the past to make up a counterargument that will be effective but is irrelevant in a discussion of present condi tions and future alternatives.8 If we do decide to embark upon historical disquisition at all, then even many of those facts which to radical critics may seem to be the most eligible ones for their purpose will often look differently if viewed in the light of a comparison with the corresponding facts of pre-capitalist experience. And it cannot be replied that “those were different times.” For it is precisely the capi talist process that made the difference.
+There is finally all that may be grouped around the symbolic centerpiece of Gladstonian liberalism. The term Individualist Democracy would do just as well—better in fact because we want to cover some things that Gladstone would not have approved and a moral and spiritual attitude which, dwelling in the citadel of faith, he actually hated. 
+
+At that I could leave this point if radical liturgy did not consist largely in picturesque denials of what I mean to convey. Radicals may insist that the masses are crying for salvation from intolerable sufferings and rattling their chains in darkness and despair, but of course there never was so much personal freedom of mind and body for all, never so much readiness to bear with and even to finance the mortal enemies of the leading class, never so much active sympathy with real and faked sufferings, never so much readiness to accept burdens, as there is in modern capitalist society; and whatever democracy there was, outside of peasant communities, developed historically in the wake of both modern and ancient capitalism. Again plenty of facts can be adduced from the past to make up a counterargument that will be effective but is irrelevant in a discussion of present conditions and future alternatives.8 
+
+If we do decide to embark upon historical disquisition at all, then even many of those facts which to radical critics may seem to be the most eligible ones for their purpose will often look differently if viewed in the light of a comparison with the corresponding facts of pre-capitalist experience. And it cannot be replied that “those were different times.” For it is precisely the capi talist process that made the difference.
 
 Two points in particular must be mentioned. I have pointed out before that
 social legislation or, more generally, institutional change for the benefit of the
@@ -18,7 +22,9 @@ by an ineluctable necessity to alleviate the ever-deepening misery of the poor
 but that, besides raising the standard of living of the masses by virtue of its
 automatic effects, the capitalist process also provided for that legislation the
 means “and the will.” The words in quotes require further explanation that is
-to be found in the principle of spreading rationality. The capitalist process
+to be found in the principle of spreading rationality. 
+
+The capitalist process
 rationalizes behavior and ideas and by so doing chases from our minds, along
 with metaphysical belief, mystic and romantic ideas of all sorts. Thus it
 reshapes not only our methods of attaining our ends but also these ultimate
@@ -75,8 +81,10 @@ purely bourgeois commonwealths were often aggressive when it seemed to
 pay—like the Athenian or the Venetian commonwealths—or that no
 bourgeoisie ever disliked war profits and advantages to trade accruing from
 conquest or refused to be trained in warlike nationalism by its feudal masters
-or leaders or by the propaganda of some specially interested group. All I hold
-is, first, that such instances of capitalist combativeness are not, as Marxism
+or leaders or by the propaganda of some specially interested group. 
+
+
+Such instances of capitalist combativeness are not, as Marxism
 has it, to be explained—exclusively or primarily—in terms of class interests
 or class situations that systematically engender capitalist wars of conquest;
 second, that there is a difference between doing that which you consider your

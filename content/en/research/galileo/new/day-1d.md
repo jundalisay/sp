@@ -1,9 +1,9 @@
 ---
 heading: Day 1d
-title: "Small Scale Versus Large Scale"
+title: "The Void"
 # date: 2025-05-15
-weight: 36
-description: ""
+weight: 9
+description: "On what depends the resistance to breaking, other than that of void?"
 c: "darkgoldenrod"
 ---
 

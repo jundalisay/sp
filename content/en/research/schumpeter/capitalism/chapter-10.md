@@ -4,7 +4,7 @@ title: "The Vanishing Of Investment Opportunity"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 32
+weight: 34
 ---
 
 
@@ -114,4 +114,3 @@ holding that opportunities for private enterprise and investment are vanishing
 are these: saturation, population, new lands, technological possibilities, and
 the circumstance that many existing investment opportunities belong to the
 sphere of public rather than of private investment.
-

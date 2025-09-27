@@ -4,9 +4,8 @@ title: "Marx The Economist"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 9
+weight: 10
 ---
-
 
 
 AS AN economic theorist, Marx was a very learned man.

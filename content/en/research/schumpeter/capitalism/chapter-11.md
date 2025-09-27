@@ -4,7 +4,7 @@ title: "The Civilization Of Capitalism"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 35
+weight: 38
 ---
 
 
@@ -18,7 +18,9 @@ be conveyed as follows.
 50,000 years ago man confronted the dangers and opportunities
 of his environment in a way which some “prehistorians,” sociologists and
 ethnologists agree was roughly equivalent to the attitude of modern
-primitives.1 Two elements of this attitude are particularly important for us:
+primitives.1 
+
+Two elements of this attitude are particularly important for us:
 the “collective” and “affective” nature of the primitive mental process and,
 partly overlapping, the role of what, not quite correctly, I shall here call
 magic. By the first I designate the fact that in small and undifferentiated or

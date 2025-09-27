@@ -4,8 +4,9 @@ title: "The Vanishing Of Investment Opportunity"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 32
+weight: 35
 ---
+
 
 
 1. For every given state of human wants and of technology (in the widest
@@ -14,8 +15,7 @@ definite amount of fixed and circulating capital that will spell saturation. If
 wants and methods of production had been frozen for good at their state in
 1800, such a point would have been reached long ago. 
 
-But is it not
-conceivable that wants may some day be so completely satisfied as to
+But is it not conceivable that wants may some day be so completely satisfied as to
 become frozen forever after? Some implications of this case will presently
 be developed, but so long as we deal with what may happen during the next
 forty years we evidently need not trouble ourselves about this possibility.

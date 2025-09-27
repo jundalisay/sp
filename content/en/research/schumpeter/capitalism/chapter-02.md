@@ -124,14 +124,15 @@ While we are about it, we may as well defend Marx against another
 misunderstanding: the economic interpretation of history has often been
 called the materialistic interpretation. It has been called so by Marx himself.
 This phrase greatly increased its popularity with some, and its unpopularity
-with other people. But it is entirely meaningless. Marx’s philosophy is no
-more materialistic than is Hegel’s, and his theory of history is not more
+with other people. But it is entirely meaningless. 
+
+Marx’s philosophy is no more materialistic than is Hegel’s, and his theory of history is not more
 materialistic than is any other attempt to account for the historic process by
 the means at the command of empirical science. It should be clear that this
 is logically compatible with any metaphysical or religious belief—exactly as
 any physical picture of the world is. Medieval theology itself supplies
 methods by which it is possible to establish this compatibility.4
-What the theory really says may be put into two propositions: (1)
+
 
 <!-- 2 The above refers to Weber’s investigations into the sociology of religions and particularly
 to his famous study. Die protestantische Ethik und der Geist des Kapitalismus, republished in
