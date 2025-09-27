@@ -21,77 +21,112 @@ Let the larger of the two unequal speeds be indicated by A; the smaller, by B; a
 
 q. e. d.
 
-lf0416_figure_044.jpg
+
 Fig. 41
-Theorem IV, Proposition IV
-If two particles are carried with uniform motion, but each with a different speed, the distances covered by them during unequal intervals of time bear to each other the compound ratio of the speeds and time intervals.
+
+
+## Theorem IV, Proposition IV
+
+If 2 particles are carried with uniform motion, but each with a different speed, the distances covered by them during unequal intervals of time bear to each other the compound ratio of the speeds and time intervals.
 
 Let the two particles which are carried with uniform motion be E and F and let the ratio of the speed of the body E be to that of the body F as A is to B; but let the ratio of the time consumed by the motion of E be to the time consumed by the motion of F as C is to D. Then, I say, that the distance covered by E, with speed A in time C, bears to the space traversed by F with speed B in time D a ratio which is the product of the ratio of the speed A to the speed B by the ratio of the time C to the time D. For if G is the distance traversed by E at speed A during the time-interval C, and if G is to I as the speed A is to the speed B; and if also the time-interval C is to the time-interval D as I is to L, then it follows that I is the distance traversed by F in the same time that G is traversed by E since G is to I in the same ratio as the speed A to the speed B. And since I is to L in the same ratio as the time-intervals C and D, if I is the distance traversed by F during the interval C, then L will be the distance traversed by F during the interval D at the speed B.
 
-lf0416_figure_045.jpg
+
 Fig. 42
+
 But the ratio of G to L is the product of the ratios G to I and I to L, that is, of the ratios of the speed A to the speed B and of the time-interval C to the time-interval D.
 
 q. e. d.
 
-Theorem V, Proposition V
-If two particles are moved at a uniform rate, but with unequal speeds, through unequal distances, then the ratio of the time-intervals occupied will be the product of the ratio of the distances by the inverse ratio of the speeds.
+
+## Theorem 5, Proposition 5
+
+If 2 particles are moved at a uniform rate, but with unequal speeds, through unequal distances, then the ratio of the time-intervals occupied will be the product of the ratio of the distances by the inverse ratio of the speeds.
 
 Let the two moving particles be denoted by A and B, and let the speed of A be to the speed of B in the ratio of V to T; in like manner let the distances traversed be in the ratio of S to R; then I say that the ratio of the time-interval during which the motion of A occurs to the time-interval occupied by the motion of B is the product of the ratio of the speed T to the speed V by the ratio of the distance S to the distance R.
 
-lf0416_figure_046.jpg
+
 Fig. 43
+
 Let C be the time-interval occupied by the motion of A, and let the time-interval C bear to a time-interval E the same ratio as the speed T to the speed V.
 
-And since C is the time-interval during which A, with speed V, traverses the distance S and since T, the speed of B, is to the speed V, as the time-interval C is to the time-interval E, then E will be the time required by the particle B to traverse the distance S. If now we let the time-interval E be to the time-interval G as the distance S is to the distance R, then it follows that G is the time required by B to traverse the space R. Since the ratio of C to G is the product of the ratios C to E and E to G (while also the ratio of C to E is the inverse ratio of the speeds of A and B respectively, i. e., the ratio of T to V); and since the ratio of E to G is the same as that of the distances S and R respectively, the proposition is proved.
+Since C is the time-interval during which A, with speed V, traverses the distance S and since T, the speed of B, is to the speed V, as the time-interval C is to the time-interval E, then E will be the time required by the particle B to traverse the distance S. If now we let the time-interval E be to the time-interval G as the distance S is to the distance R, then it follows that G is the time required by B to traverse the space R. 
 
-Theorem VI, Proposition VI
-If two particles are carried at a uniform rate, the ratio of their speeds will be the product of the ratio of the distances traversed by the inverse ratio of the time-intervals occupied.
+Since the ratio of C to G is the product of the ratios C to E and E to G (while also the ratio of C to E is the inverse ratio of the speeds of A and B respectively, i. e., the ratio of T to V); and since the ratio of E to G is the same as that of the distances S and R respectively, the proposition is proved.
 
-Let A and B be the two particles which move at a uniform rate; and let the respective distances traversed by them have the ratio of V to T, but let the time-intervals be as S to R. Then I say the speed of A will bear to the speed of B a ratio which is the product of the ratio of the distance V to the distance T and the time-interval R to the time-interval S.
 
+## Theorem 6, Proposition 6
+
+If 2 particles are carried at a uniform rate, the ratio of their speeds will be the product of the ratio of the distances traversed by the inverse ratio of the time-intervals occupied.
+
+Let A and B be the two particles which move at a uniform rate; and let the respective distances traversed by them have the ratio of V to T, but let the time-intervals be as S to R. 
+
+Then I say the speed of A will bear to the speed of B a ratio which is the product of the ratio of the distance V to the distance T and the time-interval R to the time-interval S.
 
 Fig. 44
 
 Let C be the speed at which A traverses the distance V during the time-interval S; and let the speed C bear the same ratio to another speed E as V bears to T; then E will be the speed at which B traverses the distance T during the time-interval S. If now the speed E is to another speed G as the time-interval R is to the time-interval S, then G will be the speed at which the particle B traverses the distance T during the time-interval R. Thus we have the speed C at which the particle A covers the distance V during the time S and also the speed G at which the particle B traverses the distance T during the time R. The ratio of C to G is the product of the ratio C to E and E to G; the ratio of C to E is by definition the same as the ratio of the distance V to distance T; and the ratio of E to G is the same as the ratio of R to S. Hence follows the proposition.
 
-Salv.
+{{< l a="Salviati" >}}
 The preceding is what our Author has written concerning uniform motion. We pass now to a new and more discriminating consideration of naturally accelerated motion, such as that generally experienced by heavy falling bodies; following is the title and introduction.
+{{< /l >}}
 
 
-## NATURALLY ACCELERATED MOTION
+## Naturally Accelerated Motion
 
 The properties belonging to uniform motion have been discussed in the preceding section; but accelerated motion remains to be considered.
 
-And first of all it seems desirable to find and explain a definition best fitting natural phenomena. For anyone may invent an arbitrary type of motion and discuss its properties; thus, for instance, some have imagined helices and conchoids as described by certain motions which are not met with in nature, and have very commendably established the properties which these curves possess in virtue of their definitions; but we have decided to consider the phenomena of bodies falling with an acceleration such as actually occurs in nature and to make this definition of accelerated motion exhibit the essential features of observed accelerated motions. And this, at last, after repeated efforts we trust we have succeeded in doing. In this belief we are confirmed mainly by the consideration that experimental results are seen to agree with and exactly correspond with those properties which have been, one after another, demonstrated by us. Finally, in the investigation of naturally accelerated motion we were led, by hand as it were, in following the habit and custom of nature herself, in all her various other processes, to employ only those means which are most common, simple and easy.
+We must have a definition that best fits natural phenomena.
+
+For anyone may invent an arbitrary type of motion and discuss its properties; thus, for instance, some have imagined helices and conchoids as described by certain motions which are not met with in nature, and have very commendably established the properties which these curves possess in virtue of their definitions; 
+
+But we have decided to consider the phenomena of bodies falling with an acceleration such as actually occurs in nature and to make this definition of accelerated motion exhibit the essential features of observed accelerated motions. And this, at last, after repeated efforts we trust we have succeeded in doing. 
+
+In this belief we are confirmed mainly by the consideration that experimental results are seen to agree with and exactly correspond with those properties which have been, one after another, demonstrated by us. Finally, in the investigation of naturally accelerated motion we were led, by hand as it were, in following the habit and custom of nature herself, in all her various other processes, to employ only those means which are most common, simple and easy.
 
 For I think no one believes that swimming or flying can be accomplished in a manner simpler or easier than that instinctively employed by fishes and birds.
 
-When, therefore, I observe a stone initially at rest falling from an elevated position and continually acquiring new increments of speed, why should I not believe that such increases take place in a manner which is exceedingly simple and rather obvious to everybody? If now we examine the matter carefully we find no addition or increment more simple than that which repeats itself always in the same manner. This we readily understand when we consider the intimate relationship between time and motion; for just as uniformity of motion is defined by and conceived through equal times and equal spaces (thus we call a motion uniform when equal distances are traversed during equal time-intervals), so also we may, in a similar manner, through equal time-intervals, conceive additions of speed as taking place without complication; thus we may picture to our mind a motion as uniformly and continuously accelerated when, during any equal intervals of time whatever, equal increments of speed are given to it. Thus if any equal intervals of time whatever have elapsed, counting from the time at which the moving body left its position of rest and began to descend, the amount of speed acquired during the first two time-intervals will be double that acquired during the first time-interval alone; so the amount added during three of these time-intervals will be treble; and that in four, quadruple that of the first time-interval. To put the matter more clearly, if a body were to continue its motion with the same speed which it had acquired during the first time-interval and were to retain this same uniform speed, then its motion would be twice as slow as that which it would have if its velocity had been acquired during two time-intervals.
+When, therefore, I observe a stone initially at rest falling from an elevated position and continually acquiring new increments of speed, why should I not believe that such increases take place in a manner which is exceedingly simple and rather obvious to everybody? 
 
-And thus, it seems, we shall not be far wrong if we put the increment of speed as proportional to the increment of time; hence the definition of motion which we are about to discuss may be stated as follows: A motion is said to be uniformly accelerated, when starting from rest, it acquires, during equal time-intervals, equal increments of speed.
+If now we examine the matter carefully we find no addition or increment more simple than that which repeats itself always in the same manner. 
+
+This we readily understand when we consider the intimate relationship between time and motion; for just as uniformity of motion is defined by and conceived through equal times and equal spaces (thus we call a motion uniform when equal distances are traversed during equal time-intervals), so also we may, in a similar manner, through equal time-intervals, conceive additions of speed as taking place without complication; thus we may picture to our mind a motion as uniformly and continuously accelerated when, during any equal intervals of time whatever, equal increments of speed are given to it. 
+
+Thus if any equal intervals of time whatever have elapsed, counting from the time at which the moving body left its position of rest and began to descend, the amount of speed acquired during the first two time-intervals will be double that acquired during the first time-interval alone; so the amount added during three of these time-intervals will be treble; and that in four, quadruple that of the first time-interval. To put the matter more clearly, if a body were to continue its motion with the same speed which it had acquired during the first time-interval and were to retain this same uniform speed, then its motion would be twice as slow as that which it would have if its velocity had been acquired during two time-intervals.
+
+Thus, we shall not be far wrong if we put the increment of speed as proportional to the increment of time; hence the definition of motion which we are about to discuss may be stated as follows: A motion is said to be uniformly accelerated, when starting from rest, it acquires, during equal time-intervals, equal increments of speed.
+
 
 Sagr.
 Although I can offer no rational objection to this or indeed to any other definition, devised by any author whomsoever, since all definitions are arbitrary, I may nevertheless without offense be allowed to doubt whether such a definition as the above, established in an abstract manner, corresponds to and describes that kind of accelerated motion which we meet in nature in the case of freely falling bodies. And since the Author apparently maintains that the motion described in his definition is that of freely falling bodies, I would like to clear my mind of certain difficulties in order that I may later apply myself more earnestly to the propositions and their demonstrations.
 
-Salv.
-It is well that you and Simplicio raise these difficulties. They are, I imagine, the same which occurred to me when I first saw this treatise, and which were removed either by discussion with the Author himself, or by turning the matter over in my own mind.
-
-Sagr.
 When I think of a heavy body falling from rest, that is, starting with zero speed and gaining speed in proportion to the time from the beginning of the motion; such a motion as would, for instance, in eight beats of the pulse acquire eight degrees of speed; having at the end of the fourth beat acquired four degrees; at the end of the second, two; at the end of the first, one: and since time is divisible without limit, it follows from all these considerations that if the earlier speed of a body is less than its present speed in a constant ratio, then there is no degree of speed however small (or, one may say, no degree of slowness however great) with which we may not find this body travelling after starting from infinite slowness, i. e., from rest. So that if that speed which it had at the end of the fourth beat was such that, if kept uniform, the body would traverse two miles in an hour, and if keeping the speed which it had at the end of the second beat, it would traverse one mile an hour, we must infer that, as the instant of starting is more and more nearly approached, the body moves so slowly that, if it kept on moving at this rate, it would not traverse a mile in an hour, or in a day, or in a year or in a thousand years; indeed, it would not traverse a span in an even greater time; a phenomenon which baffles the imagination, while our senses show us that a heavy falling body suddenly acquires great speed.
 
-Salv.
-This is one of the difficulties which I also at the beginning, experienced, but which I shortly afterwards removed; and the removal was effected by the very experiment which creates the difficulty for you. You say the experiment appears to show that immediately after a heavy body starts from rest it acquires a very considerable speed: and I say that the same experiment makes clear the fact that the initial motions of a falling body, no matter how heavy, are very slow and gentle. Place a heavy body upon a yielding material, and leave it there without any pressure except that owing to its own weight; it is clear that if one lifts this body a cubit or two and allows it to fall upon the same material, it will, with this impulse, exert a new and greater pressure than that caused by its mere weight; and this effect is brought about by the [weight of the] falling body together with the velocity acquired during the fall, an effect which will be greater and greater according to the height of the fall, that is according as the velocity of the falling body becomes greater. From the quality and intensity of the blow we are thus enabled to accurately estimate the speed of a falling body. But tell me, gentlemen, is it not true that if a block be allowed to fall upon a stake from a height of four cubits and drives it into the earth, say, four finger-breadths, that coming from a height of two cubits it will drive the stake a much less distance, and from the height of one cubit a still less distance; and finally if the block be lifted only one finger-breadth how much more will it accomplish than if merely laid on top of the stake without percussion? Certainly very little. If it be lifted only the thickness of a leaf, the effect will be altogether imperceptible. And since the effect of the blow depends upon the velocity of this striking body, can any one doubt the motion is very slow and the speed more than small whenever the effect [of the blow] is imperceptible? See now the power of truth; the same experiment which at first glance seemed to show one thing, when more carefully examined, assures us of the contrary.
+
+
+{{< l a="Salviati" >}}
+This is one of the difficulties which I also at the beginning, experienced, but which I shortly afterwards removed; and the removal was effected by the very experiment which creates the difficulty for you. 
+
+You say the experiment appears to show that immediately after a heavy body starts from rest it acquires a very considerable speed: and I say that the same experiment makes clear the fact that the initial motions of a falling body, no matter how heavy, are very slow and gentle. Place a heavy body upon a yielding material, and leave it there without any pressure except that owing to its own weight; it is clear that if one lifts this body a cubit or two and allows it to fall upon the same material, it will, with this impulse, exert a new and greater pressure than that caused by its mere weight; and this effect is brought about by the [weight of the] falling body together with the velocity acquired during the fall, an effect which will be greater and greater according to the height of the fall, that is according as the velocity of the falling body becomes greater. 
+
+From the quality and intensity of the blow we are thus enabled to accurately estimate the speed of a falling body. But tell me, gentlemen, is it not true that if a block be allowed to fall upon a stake from a height of four cubits and drives it into the earth, say, four finger-breadths, that coming from a height of two cubits it will drive the stake a much less distance, and from the height of one cubit a still less distance; and finally if the block be lifted only one finger-breadth how much more will it accomplish than if merely laid on top of the stake without percussion? 
+
+Certainly very little. If it be lifted only the thickness of a leaf, the effect will be altogether imperceptible. And since the effect of the blow depends upon the velocity of this striking body, can any one doubt the motion is very slow and the speed more than small whenever the effect [of the blow] is imperceptible? See now the power of truth; the same experiment which at first glance seemed to show one thing, when more carefully examined, assures us of the contrary.
 
 But without depending upon the above experiment, which is doubtless very conclusive, it seems to me that it ought not to be difficult to establish such a fact by reasoning alone. Imagine a heavy stone held in the air at rest; the support is removed and the stone set free; then since it is heavier than the air it begins to fall, and not with uniform motion but slowly at the beginning and with a continuously accelerated motion. Now since velocity can be increased and diminished without limit, what reason is there to believe that such a moving body starting with infinite slowness, that is, from rest, immediately acquires a speed of ten degrees rather than one of four, or of two, or of one, or of a half, or of a hundredth; or, indeed, of any of the infinite number of small values [of speed]? Pray listen. I hardly think you will refuse to grant that the gain of speed of the stone falling from rest follows the same sequence as the diminution and loss of this same speed when, by some impelling force, the stone is thrown to its former elevation: but even if you do not grant this, I do not see how you can doubt that the ascending stone, diminishing in speed, must before coming to rest pass through every possible degree of slowness.
+{{< /l >}}
+
 
 Simp.
 But if the number of degrees of greater and greater slowness is limitless, they will never be all exhausted, therefore such an ascending heavy body will never reach rest, but will continue to move without limit always at a slower rate; but this is not the observed fact.
 
-Salv.
+
+{{< l a="Salviati" >}}
 This would happen, Simplicio, if the moving body were to maintain its speed for any length of time at each degree of velocity; but it merely passes each point without delaying more than an instant: and since each time-interval however small may be divided into an infinite number of instants, these will always be sufficient [in number] to correspond to the infinite degrees of diminished velocity.
 
 That such a heavy rising body does not remain for any length of time at any given degree of velocity is evident from the following: because if, some time-interval having been assigned, the body moves with the same speed in the last as in the first instant of that time-interval, it could from this second degree of elevation be in like manner raised through an equal height, just as it was transferred from the first elevation to the second, and by the same reasoning would pass from the second to the third and would finally continue in uniform motion forever.
+{{< /l >}}
+
 
 Sagr.
 From these considerations it appears to me that we may obtain a proper solution of the problem discussed by philosophers, namely, what causes the acceleration in the natural motion of heavy bodies? Since, as it seems to me, the force [virtù] impressed by the agent projecting the body upwards diminishes continuously, this force, so long as it was greater than the contrary force of gravitation, impelled the body upwards; when the two are in equilibrium the body ceases to rise and passes through the state of rest in which the impressed impetus [impeto] is not destroyed, but only its excess over the weight of the body has been consumed—the excess which caused the body to rise. Then as the diminution of the outside impetus [impeto] continues, and gravitation gains the upper hand, the fall begins, but slowly at first on account of the opposing impetus [virtù impressa], a large portion of which still remains in the body; but as this continues to diminish it also continues to be more and more overcome by gravity, hence the continuous acceleration of motion.
