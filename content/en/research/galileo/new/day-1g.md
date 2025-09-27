@@ -9,19 +9,33 @@ c: "darkgoldenrod"
 
 
 {{< l a="Salviati" >}}
-The original thick rod of silver and the wire drawn out to an enormous length are two cylinders of the same volume, since they are the same body of silver.  So [98] that, if I determine the ratio between the surfaces of cylinders of the same volume, the problem will be solved.  I say then,
+The original thick rod of silver and the wire drawn out to an enormous length are two cylinders of the same volume, since they are the same body of silver.  If I determine the ratio between the surfaces of cylinders of the same volume, the problem will be solved.
 
 The areas of cylinders of equal volumes, neglecting the bases, bear to each other a ratio which is the square root of the ratio of their lengths. 
 
-Take two cylinders of equal volume having the altitudes AB and CD, between which the line E is a mean proportional.  Then I claim that, omitting the bases of each cylinder, the surface of the cylinder AB is to that of the cylinder CD as the length AB (54) is to the line E, that is, as the square root of AB is to the square root of CD.  
+Take 2 cylinders of equal volume having the altitudes `AB` and `CD`, between which the line `E` is a mean proportional.  
 
-Now cut off the cylinder AB at F so that the altitude AF is equal to CD.  Then since the bases of cylinders of equal volume bear to one another the inverse ratio of their heights, it follows that the area of the circular base of the cylinder CD will be to the area of the circular base of AB as the altitude BA is to DC: moreover, since circles are to one another as the squares of their diameters, the said squares will be to each other as BA is to CD.  
+Then I claim that, omitting the bases of each cylinder, the surface of the cylinder AB is to that of the cylinder CD as the length AB (54) is to the line E, that is, as the square root of AB is to the square root of `CD`.
 
-But BA is to CD as the square of BA is to the square of E: and, therefore, these four squares will form a proportion; and likewise their sides; so the line AB is to E as the diameter of circle C is to the diameter of the circle A.  But the diameters are proportional to the circumferences and the circumferences are proportional to the areas of cylinders of equal height; hence the line AB is to E as the surface of the cylinder CD is to the surface of the cylinder AF.  Now since the height AF is to AB as the surface of AF is to the surface of AB; and since the height AB is to the line E as the surface CD is to AF, it follows, ex oequali in proportione perturbata,* that the height AF is to E as the surface CD is to the surface AB, and convertendo, the surface of the cylinder AB is to the surface of the cylinder CD as the line E is to AF, i.  e. , to CD, or as AB is to E which is the square root of the ratio of AB to CD.  Q.E.D.;
+Cut off the cylinder `AB` at `F` so that the altitude AF is equal to `CD`.
 
-If now we apply these results to the case in hand, and assume that the silver cylinder at the time of gilding had a length of only half a cubit and a thickness three or four times that of Fig 10 [99]
+Then since the bases of cylinders of equal volume bear to one another the inverse ratio of their heights, it follows that the area of the circular base of the cylinder CD will be to the area of the circular base of `AB` as the altitude BA is to DC: moreover, since circles are to one another as the squares of their diameters, the said squares will be to each other as BA is to CD.  
 
-one's thumb, we shall find that, when the wire has been reduced to the fineness of a hair and has been drawn out to a length of twenty thousand cubits (and perhaps more), the area of its surface will have been increased not less than two hundred times.  Consequently the ten leaves of gold which were laid on (55) have been extended over a surface two hundred times greater, assuring us that the thickness of the gold which now covers the surface of so many cubits of wire cannot be greater than one twentieth that of an ordinary leaf of beaten gold.  Consider now what degree of fineness it must have and whether one could conceive it to happen in any other way than by enormous expansion of parts; consider also whether this experiment does not suggest that physical bodies [materie fisiche] are composed of infinitely small indivisible particles, a view which is supported by other more striking and conclusive examples. 
+But `BA` is to `CD` as the square of BA is to the square of E: and, therefore, these four squares will form a proportion; and likewise their sides; so the line `AB` is to `E` as the diameter of circle C is to the diameter of the circle `A`.
+
+But the diameters are proportional to the circumferences and the circumferences are proportional to the areas of cylinders of equal height.
+
+Hence the line `AB` is to `E` as the surface of the cylinder `CD` is to the surface of the cylinder `AF`.
+
+Since the height AF is to AB as the surface of AF is to the surface of AB; and since the height AB is to the line E as the surface CD is to AF, it follows, ex oequali in proportione perturbata,* that the height AF is to E as the surface CD is to the surface AB, and convertendo, the surface of the cylinder AB is to the surface of the cylinder CD as the line E is to AF, i.  e. , to CD, or as AB is to E which is the square root of the ratio of AB to CD.  Q.E.D.;
+
+If now we apply these results to the case in hand, and assume that the silver cylinder at the time of gilding had a length of only half a cubit and a thickness three or four times that of Fig 10.
+
+one's thumb when the wire has been reduced to the fineness of a hair and has been drawn out to a length of twenty thousand cubits (and perhaps more), the area of its surface will have been increased not less than two hundred times.  
+
+Consequently the ten leaves of gold which were laid on (55) have been extended over a surface 200 times greater, assuring us that the thickness of the gold which now covers the surface of so many cubits of wire cannot be greater than one twentieth that of an ordinary leaf of beaten gold.  
+
+Consider now what degree of fineness it must have and whether one could conceive it to happen in any other way than by enormous expansion of parts; consider also whether this experiment does not suggest that physical bodies [materie fisiche] are composed of infinitely small indivisible particles, a view which is supported by other more striking and conclusive examples. 
 {{< /l >}}
 
 
@@ -38,10 +52,23 @@ We have seen above what relations hold between equal cylinders of different heig
 
 The volumes of right cylinders having equal curved surfaces are inversely proportional to their altitudes. 
 
-Let the surfaces of the two cylinders, AE and CF, be equal but let the height of the latter, CD, be greater than that of the former, AB: then I say that the volume of the cylinder AE is to that of the cylinder CF as the height CD is to AB.  Now since the surface of CF is equal to the surface of AE, it follows that the volume of CF is less than that of AE; for, if they were equal, the surface of CF would, by the preceding proposition, exceed that of AE, and the excess would be so much the greater if the volume of the cylinder CF were greater than that [100] of AE.  Let us now take a cylinder ID having a volume equal to that of AE; then, according to the preceding theorem, the surface of the cylinder ID is to the surface of AE as the altitude (56) IF is to the mean proportional between IF and AB.  But since one datum of the problem is that the surface of AE is equal to that of CF, and since the surface ID is to the surface CF as the altitude IF is to the altitude CD, it follows that CD is a mean proportional between IF and AB.  Not only so, but since the volume of the cylinder ID is equal to that of AE, each will bear the same ratio to the volume of the cylinder CF; but the volume ID is to the volume CF as the altitude IF is to the altitude CD; hence the volume of AE is to the volume of CF as the length IF is to the length CD, that is, as the length CD is to the length AB.  Q.E.D. 
+Let the surfaces of the two cylinders, AE and CF, be equal but let the height of the latter, CD, be greater than that of the former, AB: then I say that the volume of the cylinder AE is to that of the cylinder CF as the height CD is to AB.  
+
+Since the surface of CF is equal to the surface of AE, it follows that the volume of CF is less than that of AE; for, if they were equal, the surface of CF would, by the preceding proposition, exceed that of AE, and the excess would be so much the greater if the volume of the cylinder CF were greater than that of AE.
+
+Take a cylinder ID having a volume equal to that of AE; then, according to the preceding theorem, the surface of the cylinder ID is to the surface of AE as the altitude (56) IF is to the mean proportional between IF and AB.  But since one datum of the problem is that the surface of AE is equal to that of CF, and since the surface ID is to the surface CF as the altitude IF is to the altitude CD, it follows that CD is a mean proportional between IF and AB.  
+
+Not only so, but since the volume of the cylinder ID is equal to that of AE, each will bear the same ratio to the volume of the cylinder CF; but the volume ID is to the volume CF as the altitude IF is to the altitude CD; hence the volume of AE is to the volume of CF as the length IF is to the length CD, that is, as the length CD is to the length AB.  Q.E.D. 
+
 Fig 11
 
-This explains a phenomenon upon which the common people always look with wonder, namely, if we have a piece of stuff which has one side longer than the other, we can make from it a cornsack, using the customary wooden base, which will hold more when the short side of the cloth is used for the height of the sack and the long side is wrapped around the wooden base, than with the alternative arrangement.  So that, for instance, from a piece of cloth which is six cubits on one side and twelve on the other, a sack can be made which will hold more when the side of twelve cubits is wrapped around the wooden base, leaving the sack six cubits high than when the six cubit side is put around the base making the sack twelve cubits high.  From what has been proven above we learn not only the general fact that one sack holds more than the other, but we also get specific and particular information as to how much more, namely, just in proportion as the altitude of the sack diminishes the contents increase and vice versa.  Thus if we use the figures given which make the cloth twice as long as wide and if we use the long side for the seam, the volume of the sack will be just one-half as great as with the opposite arrangement.  Likewise (57) [101] if we have a piece of matting which measures 7 x 25 cubits and make from it a basket, the contents of the basket will, when the seam is lengthwise, be seven as compared with twenty-five when the seam runs endwise. 
+This explains a phenomenon upon which the common people always look with wonder, namely, if we have a piece of stuff which has one side longer than the other, we can make from it a cornsack, using the customary wooden base, which will hold more when the short side of the cloth is used for the height of the sack and the long side is wrapped around the wooden base, than with the alternative arrangement.  
+
+So that, for instance, from a piece of cloth which is six cubits on one side and twelve on the other, a sack can be made which will hold more when the side of twelve cubits is wrapped around the wooden base, leaving the sack six cubits high than when the six cubit side is put around the base making the sack twelve cubits high.  
+
+From what has been proven above we learn not only the general fact that one sack holds more than the other, but we also get specific and particular information as to how much more, namely, just in proportion as the altitude of the sack diminishes the contents increase and vice versa.  
+
+Thus if we use the figures given which make the cloth twice as long as wide and if we use the long side for the seam, the volume of the sack will be just one-half as great as with the opposite arrangement.  Likewise (57) [101] if we have a piece of matting which measures 7 x 25 cubits and make from it a basket, the contents of the basket will, when the seam is lengthwise, be seven as compared with twenty-five when the seam runs endwise. 
 {{< /l >}}
 
 
@@ -71,17 +98,32 @@ Being exceedingly fond of choice and uncommon propositions, I beseech you to let
 {{< l a="Salviati" >}}
 I can do this in a few words by proving the following theorem:
 
-The area of a circle is a mean proportional between any (58) two regular and similar polygons of which one circumscribes it and the other is isoperimetric with it.  In addition, the area of the circle is less than that of any circumscribed polygon and greater than that of any isoperimetric polygon.  And further, of these circumscribed polygons, the one which has the greater number of sides is smaller than the one which has a less number; but, on the other hand, that isoperimetric polygon which has the greater number of sides is the larger. 
+The area of a circle is a mean proportional between any (58) two regular and similar polygons of which one circumscribes it and the other is isoperimetric with it.  
 
-Let A and B be two similar polygons of which A circumscribes the given circle and B is isoperimetric with it.  The area of the circle will then be a mean proportional between the areas of the polygons.  For if we indicate the radius of the circle by AC and if we remember that the area of the circle is equal to that of a right-angled triangle in which one of the sides about the right angle is equal to the radius, AC, and the other to the circumference; and if likewise we remember that the area of the polygon A is equal to the area of a right-angled triangle one of [103] whose sides about the right angle has the same length as AC and the other is equal to the perimeter of the polygon itself; it is then manifest that the circumscribed polygon bears to the circle the same ratio which its perimeter bears to the circumference of the circle, or to the perimeter of the polygon B which is, by hypothesis, equal to the circumference of the circle.  
+In addition, the area of the circle is less than that of any circumscribed polygon and greater than that of any isoperimetric polygon.  
+
+Of these circumscribed polygons, the one which has the greater number of sides is smaller than the one which has a less number; but, on the other hand, that isoperimetric polygon which has the greater number of sides is the larger. 
+
+Let A and B be two similar polygons of which A circumscribes the given circle and B is isoperimetric with it.  
+
+The area of the circle will then be a mean proportional between the areas of the polygons.  
+
+If we indicate the radius of the circle by AC and if we remember that the area of the circle is equal to that of a right-angled triangle in which one of the sides about the right angle is equal to the radius, AC, and the other to the circumference; and if likewise we remember that the area of the polygon A is equal to the area of a right-angled triangle one of [103] whose sides about the right angle has the same length as AC and the other is equal to the perimeter of the polygon itself; it is then manifest that the circumscribed polygon bears to the circle the same ratio which its perimeter bears to the circumference of the circle, or to the perimeter of the polygon B which is, by hypothesis, equal to the circumference of the circle.  
 
 But since the polygons A and B are similar their areas are to each other as the squares of their perimeters; hence the area of the circle A is a Fig 12 (59) mean proportional between the areas of the two polygons A and B.  And since the area of the polygon A is greater than that of the circle A, it is clear that the area of the circle A is greater than that of the isoperimetric polygon B, and is therefore the greatest of all regular polygons having the same perimeter as the circle. 
 
-We now demonstrate the remaining portion of the theorem, which is to prove that, in the case of polygons circumscribing a given circle, the one having the smaller number of sides has a larger area than one having a greater number of sides; but that on the other hand, in the case of isoperimetric polygons, the one having the more sides has a larger area than the one with less sides.  To the circle which has O for center and OA for radius draw the tangent AD; and on this tangent lay off, say, AD which shall represent one-half of the side of a circumscribed pentagon and AC which shall represent one-half of the side of a heptagon; draw the straight lines OGC and OFD; then with O as a center and OC as radius draw the arc ECI.  Now since the triangle DOC is greater than the sector EOC and since the sector COI is greater than the triangle COA, it follows that the triangle DOC bears to the triangle COA a greater ratio than the sector EOC bears to the sector COI, that is, than the sector FOG bears to the sector GOA.  Hence, componendo et permutando, the triangle DOA bears to the sector FOA a greater ratio than that which the triangle COA to the sector GOA, and also 10 such triangles DOA bear to 10 such sectors FOA a greater ratio than 14 such triangles COA bear to 14 such sectors GOA, that is to say, the circumscribed pentagon bears to the circle a greater ratio than does the heptagon.  Hence the pentagon exceeds the heptagon in area. 
+We now demonstrate the remaining portion of the theorem, which is to prove that, in the case of polygons circumscribing a given circle, the one having the smaller number of sides has a larger area than one having a greater number of sides; but that on the other hand, in the case of isoperimetric polygons, the one having the more sides has a larger area than the one with less sides.  
 
-But now let us assume that both the heptagon and the pentagon have the same perimeter as that of a given circle.  Then I say the heptagon will contain a larger area than the pentagon.  For since the area of the circle is a mean proportional between areas of the circumscribed and of the isoperimetric pentagons, [104] and since likewise it is a mean proportional between the circumscribed (60) and isoperimetric heptagons, and since also we have proved that the circumscribed pentagon is larger than the circumscribed heptagon, it follows that this circumscribed pentagon bears to the circle a larger ratio than does the heptagon, that is, the circle will bear to its isoperimetric pentagon a greater ratio than to its isoperimetric heptagon.  Hence the pentagon is smaller than its isoperimetric heptagon.  Q.E.D.
+To the circle which has O for center and OA for radius draw the tangent AD; and on this tangent lay off, say, AD which shall represent one-half of the side of a circumscribed pentagon and AC which shall represent one-half of the side of a heptagon; draw the straight lines OGC and OFD; then with O as a center and OC as radius draw the arc ECI.
+
+Since the triangle DOC is greater than the sector EOC and since the sector COI is greater than the triangle COA, it follows that the triangle DOC bears to the triangle COA a greater ratio than the sector EOC bears to the sector COI, that is, than the sector FOG bears to the sector GOA.  Hence, componendo et permutando, the triangle DOA bears to the sector FOA a greater ratio than that which the triangle COA to the sector GOA, and also 10 such triangles DOA bear to 10 such sectors FOA a greater ratio than 14 such triangles COA bear to 14 such sectors GOA, that is to say, the circumscribed pentagon bears to the circle a greater ratio than does the heptagon.  Hence the pentagon exceeds the heptagon in area. 
+
+But now let us assume that both the heptagon and the pentagon have the same perimeter as that of a given circle.  Then I say the heptagon will contain a larger area than the pentagon.
+
+For since the area of the circle is a mean proportional between areas of the circumscribed and of the isoperimetric pentagons, and since likewise it is a mean proportional between the circumscribed (60) and isoperimetric heptagons, and since also we have proved that the circumscribed pentagon is larger than the circumscribed heptagon, it follows that this circumscribed pentagon bears to the circle a larger ratio than does the heptagon, that is, the circle will bear to its isoperimetric pentagon a greater ratio than to its isoperimetric heptagon.  
+
+Hence the pentagon is smaller than its isoperimetric heptagon.  Q.E.D.
 {{< /l >}}
-
 
 
 {{< r a="Sagredo" >}}
@@ -143,30 +185,26 @@ One and the same body moving in a single medium has a fixed velocity which is de
 
 
 {{< l a="Salviati" >}}
-If then we take two bodies whose natural speeds are different, it is clear that on uniting the two, the more rapid one will be partly retarded by the slower, and the slower will be somewhat hastened by the swifter. Do you not agree with me in this opinion?
+If then we take two bodies whose natural speeds are different, it is clear that on uniting the two, the more rapid one will be partly retarded by the slower, and the slower will be somewhat hastened by the swifter.
+
+But if this is true, and if a large stone moves with a speed of, say, eight while a smaller moves with a speed of four, then when they are united, the system will move with a speed less than 8.
+
+But the two stones when tied together make a stone larger than that which before moved with a speed of eight. 
+
+Hence, the heavier body moves with less speed than the lighter; an effect which is contrary to your supposition. Thus you see how, from your assumption that the heavier body moves more rapidly than the lighter one, I infer that the heavier body moves more slowly.
 {{< /l >}}
 
 
-Simp.
-You are unquestionably right.
-
-
-
-{{< l a="Salviati" >}}
-But if this is true, and if a large stone moves with a speed of, say, eight while a smaller moves with a speed of four, then when they are united, the system will move with a speed less than eight; but the two stones when tied together make a stone larger than that which before moved with a speed of eight. 
-
-Hence the heavier body moves with less speed than the lighter; an effect which is contrary to your supposition. Thus you see how, from your assumption that the heavier body moves more rapidly than the lighter one, I infer that the heavier body moves more slowly.
-{{< /l >}}
-
-
-Simp.
+{{< r a="Simplicio" >}}
 I am all at sea because it appears to me that the smaller stone when added to the larger increases its weight and by adding weight I do not see how it can fail to increase its speed or, at least, not to diminish it.
+{{< /r >}}
+
 
 {{< l a="Salviati" >}}
 Here again you are in error, Simplicio, because it is not true that the smaller stone adds weight to the larger.
 {{< /l >}}
 
-
-Simp.
+<!-- Simp.
 This is, indeed, quite beyond my comprehension.
 
+ -->

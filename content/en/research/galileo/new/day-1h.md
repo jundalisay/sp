@@ -9,7 +9,7 @@ c: "darkgoldenrod"
 
 
 {{< l a="Salviati" >}}
-You are wrong. It is necessary to distinguish between heavy bodies in motion and the same bodies at rest.
+We should distinguish between heavy bodies in motion and the same bodies at rest.
 
 A large stone placed in a balance not only acquires additional weight by having another stone placed upon it, but even by the addition of a handful of hemp its weight is augmented 6-10 ounces according to the quantity of hemp. 
 
@@ -177,4 +177,3 @@ To illustrate the precision of this experiment and also to clearly demonstrate t
 
 Now you can see how mistaken are those philosophers who ascribe to water viscosity or some other coherence of parts which offers resistance to separation of parts and to penetration.
 {{< /l >}}
-
