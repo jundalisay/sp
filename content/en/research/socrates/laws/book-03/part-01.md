@@ -1,6 +1,6 @@
 ---
-title: "The Laws by Plato Simplified"
-weight: 2
+title: "What is the origin of government"
+weight: 4
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
@@ -10,7 +10,7 @@ description: "Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zen
 
 
 
-ATHENIAN: Enough of this. And what, then, is to be regarded as the origin of government? Will not a man be able to judge of it best from a point of view in which he may behold the progress of states and their transitions to good or evil?
+ATHENIAN: What is the origin of government? Will not a man be able to judge of it best from a point of view in which he may behold the progress of states and their transitions to good or evil?
 
 CLEINIAS: What do you mean?
 

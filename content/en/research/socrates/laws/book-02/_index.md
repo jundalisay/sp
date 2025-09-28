@@ -1,6 +1,7 @@
 ---
-title: "The Laws by Plato Simplified"
-weight: 2
+heading: "Book 2"
+title: "Education"
+weight: 4
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

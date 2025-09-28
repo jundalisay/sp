@@ -1,4 +1,5 @@
 ---
+heading: "Book 10"
 title: "The Laws by Plato Simplified"
 weight: 2
 writer:

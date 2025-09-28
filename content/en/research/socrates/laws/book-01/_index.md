@@ -1,4 +1,5 @@
 ---
+heading: "Book 1"
 title: "The Athenian"
 weight: 2
 writer:

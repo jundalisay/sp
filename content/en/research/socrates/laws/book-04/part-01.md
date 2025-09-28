@@ -1,5 +1,6 @@
 ---
-title: "The Laws by Plato Simplified"
+heading: "Part 1"
+title: "Economics"
 weight: 2
 writer:
   name: Plato

@@ -1,4 +1,5 @@
 ---
+heading: "Book 9"
 title: "The Laws by Plato Simplified"
 weight: 2
 writer:

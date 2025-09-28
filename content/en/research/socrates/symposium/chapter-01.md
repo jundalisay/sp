@@ -16,61 +16,64 @@ icon: "Socrates"
 
 PERSONS OF THE DIALOGUE: 
 
-- Apollodorus, who repeats to his companion the dialogue which he had heard from Aristodemus, and had already once narrated to Glaucon.
-- Phaedrus
-- Pausanias
-- Eryximachus
-- Aristophanes
-- Agathon
-- Socrates
-- Alcibiades
-- A Troop of Revellers
+Name | Photo
+--- | ---
+Apollodorus | ![Apollodorus](/icons/Apollodorus.jpg)
+Phaedrus |
+Pausanias |
+Eryximachus |
+Aristophanes |
+Agathon | 
+Socrates | ![Socrates](/icons/Socrates.jpg)
+Alcibiades | 
+A Troop of Revellers | 
 
+
+Apollodorus repeats to his companion the dialogue which he had heard from Aristodemus, and had already once narrated to Glaucon.
 
 SCENE: The House of Agathon.
 
 <!-- Concerning the things about which you ask to be informed I believe that I am not ill-prepared with an answer. For  -->
 
-{{< q a="Apollodorus" >}}
-
-The day before yesterday I was coming from my own home at Phalerum to the city.
-
-An acquaintance called out playfully in the distance and said: 
-{{< /q >}}
+{{< l a="Apollodorus" >}}
+The day before yesterday I was coming from my own home at Phalerum to the city. An acquaintance called out playfully in the distance and said: 
+{{< /l >}}
 
 <!-- , O thou Phalerian (Probably a play of words on (Greek), 'bald-headed.') man, -->
 
 
-{{< q a="Companion" >}}
-Bald Apollodorus, halt! 
-
-I want to ask you about the speeches in praise of love, which were delivered by Socrates, Alcibiades, and others, at Agathon's supper. 
+{{< r a="Companion" >}}
+Bald Apollodorus, halt! I want to ask you about the speeches in praise of love, which were delivered by Socrates, Alcibiades, and others, at Agathon's supper. 
 
 Phoenix, the son of Philip, told another person who told me of them; his narrative was very indistinct, but he said that you knew, and I wish that you would give me an account of them. Who, if not you, should be the reporter of the words of your friend? And first tell me, he said, were you present at this meeting?
-{{< /q >}}
+{{< /r >}}
 
 
-{{< q a="Apollodorus" >}}
+{{< l a="Apollodorus" >}}
 Your informant, Glaucon must have been very indistinct if you imagine that the occasion was recent; or that I was part of it. 
 
 For many years, Agathon has not resided at Athens. Not three have elapsed since I became acquainted with Socrates, and have made it my daily business to know all that he says and does.
 
 There was a time when I was running about the world, fancying myself to be well employed, but I was really a most wretched being, no better than you are now. I thought that I ought to do anything rather than be a philosopher.
-{{< /q >}}
+{{< /l >}}
 
 
-{{< q a="Companion" >}}
+{{< r a="Companion" >}}
 Well, jesting apart, tell me when the meeting occurred.
-{{< /q >}}
+{{< /r >}}
 
 
-In our boyhood, I replied, when Agathon won the prize with his first tragedy, on the day after that on which he and his chorus offered the sacrifice of victory.
+{{< l a="Apollodorus" >}}
+In our boyhood, when Agathon won the prize with his first tragedy, on the day after that on which he and his chorus offered the sacrifice of victory.
+{{< /l >}}
 
-{{< q a="Companion" >}}
+
+{{< r a="Companion" >}}
 Then it must have been a long while ago. Who told you—did Socrates?
-{{< /q >}}
+{{< /r >}}
 
 
+{{< l a="Apollodorus" >}}
 No, but the same person who told Phoenix;—he was a little fellow, who never wore any shoes, Aristodemus, of the deme of Cydathenaeum.
 
 He had been at Agathon's feast; and I think that in those days there was no one who was a more devoted admirer of Socrates. 
@@ -84,21 +87,28 @@ And so we walked, and talked of the discourses on love; and therefore, as I said
 For to speak or to hear others speak of philosophy always gives me the greatest pleasure, to say nothing of the profit. But when I hear another strain, especially that of you rich men and traders, such conversation displeases me; and I pity you who are my companions, because you think that you are doing something when in reality you are doing nothing. 
 
 You pity me in return, whom you regard as an unhappy creature, and very probably you are right. But I certainly know of you what you only think of me—there is the difference.
+{{< /l >}}
 
 
-{{< q a="Companion" >}}
-I see, Apollodorus, that you are just the same—always speaking evil of yourself, and of others.
+{{< r a="Companion" >}}
+I see that you are just the same—always speaking evil of yourself, and of others.
 
 I do believe that you pity all mankind, with the exception of Socrates, yourself first of all, true in this to your old name, which, however deserved, I know not how you acquired, of Apollodorus the madman; for you are always raging against yourself and everybody but Socrates.
-{{< /q >}}
+{{< /r >}}
 
 
+{{< l a="Apollodorus" >}}
+Yes. I am said to be mad and out of my wits just because I have these notions of myself and you; no other evidence is required.
+{{< /l >}}
 
-APOLLODORUS: Yes, friend, and the reason why I am said to be mad, and out of my wits, is just because I have these notions of myself and you; no other evidence is required.
 
 COMPANION: No more of that, Apollodorus; but let me renew my request that you would repeat the conversation.
 
-APOLLODORUS: Well, the tale of love was on this wise:—But perhaps I had better begin at the beginning, and endeavour to give you the exact words of Aristodemus:
+
+{{< l a="Apollodorus" >}}
+Well, the tale of love was on this wise:—But perhaps I had better begin at the beginning, and endeavour to give you the exact words of Aristodemus:
+{{< /l >}}
+
 
 He said that he met Socrates fresh from the bath and sandalled; and as the sight of the sandals was unusual, he asked him whither he was going that he had been converted into such a beau:—
 

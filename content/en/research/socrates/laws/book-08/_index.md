@@ -1,4 +1,5 @@
 ---
+heading: "Book 8"
 title: "The Laws by Plato Simplified"
 weight: 2
 writer:
