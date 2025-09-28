@@ -3,12 +3,12 @@ title: "Adam Smith's Mistakes in the Wealth of Nations"
 heading: "Trusting the Merchants too much"
 linkTitle: Smith's Mistakes
 date: 2015-01-01
-image: /covers/smith.jpg
+a: "Adam Smith"
 description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-# icon: "Supereconomics"
+icon: "Juan"
 ---
 
 
@@ -18,18 +18,18 @@ Some shallow-minded economists, such as Ricardo and Malthus point to Smith's cor
 
 They think that Smith meant that grain-prices would affect prices of commodities similar to how oil affects most commodities nowadays:
 
-{{< q a="Malthus" >}}
+{{< r a="Malthus" >}}
 Smith's doctrine, that the price of corn immediately and entirely regulates the prices of labour and of all other commodities, is so directly contrary to all experience. It itself cannot possibly be true.
-{{< /q >}}
+{{< /r >}}
 
 
-{{< q a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 Adam Smith also created another standard measure of value. Sometimes he speaks of corn, at other times of labour, as a standard measure, as if labour and corn were equivalent expressions.
 
 He assumes that when a man's labour becomes doubly efficient, he could produce twice the quantity of a commodity. He would then receive twice in exchange as before.  If this were true, if the labourer's reward were always proportional to what he produced, and if his commodity would purchase the equal amount of corn then yes, labour or corn might accurately measure the variations of other things.
 
 **But they are not equal.** Labour is an invariable standard correctly indicating the variations of other things. Corn is subject to as many fluctuations as the commodities compared with it. 
-{{< /q >}}
+{{< /l >}}
 
 
 None of the later economists realized that Smith's perspective was abstract and metaphysical:

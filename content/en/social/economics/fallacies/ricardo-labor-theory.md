@@ -8,7 +8,7 @@ description : "We expose the differences between Ricardo's Labor Theory of Value
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 toc: false 
 ---
 
@@ -18,7 +18,7 @@ In his [Principles of Political Economy and Taxation](https://en.wikipedia.org/w
 By looking at his work, we can see that he never understood the metaphysics behind Smith's labor theory of value in the first place. We go through his reasoning below. 
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 Adam Smith said that the value of all things was relative to the amount of labour bestowed on their production. He sometimes used wheat, sometimes labour, as a standard measure.
 {{< /l >}}
 
@@ -29,7 +29,7 @@ Smith uses wheat and labour for real value, and precious metals for nominal valu
 {{< /r >}}
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 If it were true that worker's reward was always proportional to what he produced, then he could buy other things of equal value. But they are not equal. The measure of value is an invariable standard, whereas the price of commodities varies. Adam Smith, said that the value of gold and silver varies, so he chose wheat or labour as an invariable medium.
 {{< /l >}}
 
@@ -41,7 +41,7 @@ Here it is so obvious that Ricardo misunderstands Smith. Although he correctly m
 {{< /r >}}
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 Gold and silver are subject to fluctuations, but why is wheat exempted?
 {{< /l >}}
 
@@ -59,7 +59,7 @@ Human wealth and population therefore is ultimately determined by the productivi
 {{< /r >}}
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 Double the work may be required to produce food and necessaries at one time, than another time, but the worker's reward could be reduced. 
 
 If the worker's prior wages were in food and necessaries, he probably could not have subsisted if that amount was reduced. 
@@ -75,7 +75,7 @@ This actually happens during hyperinflation wherein nominal prices even of wages
 {{< /r >}}
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 The same is true between countries. In America and Poland, a year's labour will produce much more wheat than in England. But the amount of wheat awarded to the worker is not proportional to the produce in each country.
 {{< /l >}}
 
@@ -87,7 +87,7 @@ Both the real and nominal reward for Polish wheat is less than England because t
 {{< /r >}}
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 If the worker's shoes and clothing could be produced at 25% of the cost in labour, they would probably fall 75%. But it is not true that:
 - the worker would be able to permanently consume four coats, or four shoes instead of one
 - his wages would not change because of competition
@@ -105,7 +105,7 @@ This is because their wages are nominal and not measured in rice or wheat or whe
 {{< /r >}}
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 Adam Smith is therefore wrong  in saying:
 - "that as labour may sometimes buy a varying amount of goods, it is their value which varies, not the value of the labour which buys them"
 - "that labour alone never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared"
@@ -119,7 +119,7 @@ No, Smith is not wrong, it is Ricardo's understanding that is wrong. This quote 
 {{< /r >}}
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 But he is correct in saying "that the proportion between the amounts of labour needed to acquire objects provides the rules for exchange"
 
 In other words, it is the comparative amount of commodities produced by labour which that determines their relative value, and not the comparative amounts of commodities given to the labourer in exchange for his labour.
@@ -137,7 +137,7 @@ In reality, life and the universe is totally subjective. This subjectivity is wh
 {{< /r >}}
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 The value of `Thing A` and `Thing B` was the same in the past [100], but is different now. 
 
 `Thing A` has the same value as `Thing X + Thing Y + Thing Z` [50 + 30 + 20], then and now. 
@@ -156,7 +156,7 @@ Here, Ricardo is talking about nominal value in production.
 
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 If an ounce of gold exchanges for fewer commodities, the cause of the change in the value of gold relative to other commodities, was its abundant production, or the fewer labour needed to obtain it.
 {{< /l >}}
 
@@ -169,7 +169,7 @@ This is nominal inflation
 
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 Similarly, if labour fell in value because of an abundance of labour caused by cheaper wheat and basic goods, then wheat and basic goods have 'fallen' in value because fewer labour was needed to produce them.
 {{< /l >}}
 
@@ -182,7 +182,7 @@ This is the reduction of nominal/real wages.
 {{< /r >}}
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 Smith and Malthus say no. 
 
 In the case of the gold, the variation is a fall of its value, because wheat and labour had not changed. As gold commanded fewer of them then all things had remained stationary, and only gold changed. 
@@ -202,7 +202,7 @@ Even if an oversupply of workers causes a reduction in nominal wages, their real
 {{< /r >}}
 
 
-{{< l a="Ricardo" >}}
+{{< l a="David Ricardo" >}}
 I protest this. 
 
 The cause of the variation between wheat and other things, is the fewer labour needed to produce it. 
@@ -228,7 +228,7 @@ Unfortunately, businessmen, merchants, and academics always want it to be object
 {{< /r >}}
 
 
-{{< r a="Ricardo" >}}
+{{< r a="David Ricardo" >}}
 Suppose:
 
 - a labourer was paid a bushel of wheat for a week's work if the price of wheat is 80 shillings per quarter [640 shillings per bushel]

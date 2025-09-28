@@ -8,7 +8,6 @@ c: "darkgoldenrod"
 ---
 
 
-
 {{< l a="Salviati" >}}
 Question 1: How are fibres 3 cubits long so tightly bound together in a rope 100 cubits long that great force is required to break it?
 
@@ -110,7 +109,15 @@ This experiment shows the aversion of nature for empty space, even during the br
 {{< i s="/photos/physics/gauge.jpg" a="Gauge Blocks" >}}
 
 
-It is also observed that if two plates are not thoroughly polished, their contact is imperfect so that when you attempt to separate them slowly the only resistance offered is that of weight; if, however, the pull be sudden, then the lower plate rises, but quickly falls back, having followed the upper plate only for that very short interval of time required for the expansion of the small amount of air remaining between the plates, in consequence of their not fitting, and for the entrance of the surrounding air.  This resistance which is exhibited between the two (12) plates is doubtless likewise present between the parts of a solid, and enters, at least in part, as a concomitant cause of their coherence.  [60]
+If 2 plates are not thoroughly polished, their contact is imperfect. If you separate them slowly, the only resistance offered is that of weight.
+
+But if you pull them apart suddenly, the lower plate rises but quickly falls back.
+- It follows the upper plate only for that very short time required to expand the small amount of air remaining between the plates.
+- This air is the consequence of them not fitting and the outside air entering.
+
+This resistance exhibited between the 2 plates:
+- is likewise present between the parts of a solid
+- enters partly as a concomitant cause of their coherence.
 {{< /l >}}
 
 

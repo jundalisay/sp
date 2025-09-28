@@ -60,7 +60,7 @@ Some intelligent people maintain this same opinion. But they cut loose from geom
 <!-- even those which are great enough to invalidate the clearest mathematical proof, -->
 Imperfections in the material cannot explain the deviations between machines in the concrete and in the abstract.
 
-Even if imperfections did not exist, the mere fact that it is matter makes the larger machine, built of the same material and in the same proportion as the smaller, correspond with exactness to the smaller in every respect except that it will not be so strong or so resistant against violent treatment; 
+Even if imperfections did not exist, the mere fact that it is matter makes the larger machine, built of the same material and in the same proportion as the smaller, correspond with exactness to the smaller in every respect except that it will not be so strong or so resistant against violent treatment.
 
 The larger the machine, the greater its weakness.
 
@@ -68,13 +68,15 @@ I assume matter to be unchangeable and always the same.
 
 So we are no less able to treat this constant and invariable property in a rigid manner than if it belonged to simple and pure mathematics.
 
-You and the students of mechanics have a wrong opinion on the ability of machines and structures to resist external disturbances. 
+You and the students of mechanics have a wrong opinion on:
+- the ability of machines
+- structures to resist external disturbances. 
 
-They think that when they are built of the same material and maintain the same ratio between parts, they are able equally, or rather proportionally, to resist or yield to such external disturbances and blows.
+They think that when they are built of the same material and maintain the same ratio between parts, they are able proportionally to resist or yield to external blows.
 
-We can demonstrate by geometry that the large machine is not proportionately stronger than the small.
+Geometry shows that the large machine is not proportionately stronger than the small.
 
-Every machine and structure, whether artificial or natural, has a limit beyond which neither art nor nature can pass.
+**Every machine and structure, whether artificial or natural, has a limit beyond which neither art nor nature can pass.**
 
  <!-- it is here understood, of course, that the material is the same and the proportion preserved.  -->
 {{< /l >}}
@@ -85,7 +87,6 @@ It is impossible to build 2 similar structures of:
 - the same material
 - different sizes
 - the same proportional strength
-
 
 It is impossible to find 2 poles made of the same wood which are alike in strength and resistance but unlike in size.
 {{< /r >}}
@@ -120,7 +121,13 @@ Thus, for example, a small obelisk or column or other solid figure can certainly
 
 <!-- And here I must relate a circumstance which is worthy of your attention as indeed are all events which happen contrary to expectation, especially when a precautionary measure turns out to be a cause of disaster.   -->
 
-A large marble column was laid out so that its two ends rested each upon a piece of beam; a little later it occurred to a mechanic that, in order to be doubly sure of its not breaking in the middle by its own weight, it would be wise to lay a third support midway; this seemed to all an excellent idea; but the sequel showed that it was quite the opposite, for not many months passed before the column was found cracked and broken exactly above the new middle support. 
+A large marble column was laid out so that its 2 ends rested each on a piece of beam.
+
+A little later it occurred to a mechanic that, in order to be doubly sure of its not breaking in the middle by its own weight, it would be wise to lay a third support midway.
+
+This seemed to all an excellent idea.
+
+But the sequel showed that it was quite the opposite, for not many months passed before the column was found cracked and broken exactly above the new middle support. 
 {{< /l >}}
 
 
@@ -130,45 +137,48 @@ A very remarkable and thoroughly unexpected accident, especially if caused by pl
 
 
 {{< l a="Salviati" >}}
-Surely this is the explanation, and the moment the cause is known our surprise vanishes; for when the two pieces of the column were placed on level ground it was observed that one of the end beams had, after a long while, become decayed and sunken, but that the middle one remained hard and strong, thus causing one half of the column to project in the air without any support.
+<!-- Surely this is the explanation, and the moment the cause is known our surprise vanishes; for  -->
+When the 2 pieces of the column were placed on level ground, it was observed that one of the end beams had, after a long while, become decayed and sunken.
 
-Under these circumstances the body therefore behaved differently from what it would have done if suppported only upon the first beams; because no matter how much they might have sunken the column would have gone with them.  
+But the middle one remained hard and strong.
 
-This is an accident which could not possibly have happened to a small column, even though made of the same stone and having a length corresponding to its thickness, i.e.;, preserving the ratio between thickness and length found in the large pillar.
+This caused half of the column to project in the air without any support.
+
+The body therefore behaved differently from what it would have done if suppported only upon the first beams.
+
+This is because no matter how much they might have sunken, the column would have gone with them.  
+
+This is an accident which could not possibly have happened to a small column, even though made of the same stone and having a length corresponding to its thickness, i.e. preserving the ratio between thickness and length found in the large pillar.
 {{< /l >}}
 
 
 {{< r a="Sagredo" >}}
 I do not understand why the strength and resistance are not multiplied in the same proportion as the material. 
 
-I am the more (6) puzzled because, on the contrary, I have noticed in other cases that the strength and resistance against breaking increase in a larger ratio than the amount of material.
+In other cases, the strength and resistance against breaking increase in a larger ratio than the amount of material.
 
-Thus, for instance, if two nails be driven into a wall, the one which is twice as big as the other will support not only twice as much weight as the other, but three or four times as much. 
+Thus, if 2 nails are driven into a wall, the one which is twice as big can support 3-4 times as much weight as the other. 
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-You will not be far wrong if you say eight times as much; nor does this phenomenon contradict the other even though in appearance they seem so different. 
-{{< /l >}}
+It's actually 8 times as much. This phenomenon is the same as the other, even if they seem so different. 
 
+Galileo had:
+- thought much on this subject
+- demonstrated everything by geometrical methods so that one might fairly call this a new science.  
 
-{{< r a="Sagredo" >}}
-Will you not then, Salviati, remove these difficulties and clear away these obscurities if possible: for I imagine that this problem of resistance opens up a field of beautiful and useful ideas; and if you are pleased to make this the subject of today's discourse you will place Simplicio and me under many obligations. 
-{{< /r >}}
+Some of his conclusions had been reached by others, first of all by Aristotle. But those others did not prove them in a rigid manner from fundamental principles.  
 
+<!-- Since I wish to convince you by demonstrative reasoning rather than to persuade you by mere probabilities, I shall suppose that you are familiar with present-day mechanics so far as it is needed in our discussion.   -->
 
-{{< l a="Salviati" >}}
-I am at your service if only I can call to mind what I learned from our Academician * who had thought much upon this subject and according to his custom had demonstrated everything by geometrical methods so that one might fairly call this a new science.  
+What happens when a piece of wood or any other solid which coheres firmly is broken for this is the fundamental fact, involving the first and simple principle which we must take for granted as well known. 
 
-For, although some of his conclusions had been reached by others, first of all by Aristotle, these are not the most beautiful and, what is more important, they had not been proven in a rigid manner from fundamental principles.  
+Imagine a wooden cylinder `AB`.
+- Fasten the upper end `A` so that the cylinder hangs vertically.
+- To the lower end, B, attach the weight C.  
 
-Since I wish to convince you by demonstrative reasoning rather than to persuade you by mere probabilities, I shall suppose that you are familiar with present-day mechanics so far as it is needed in our discussion.  
-
-First of all it is necessary to consider what happens when a piece of wood or any other solid which coheres firmly is broken; for this is the fundamental fact, involving the first and simple principle which we must take for granted as well known. 
-
-To grasp this more clearly, imagine a cylinder or prism, AB, made of wood or other solid coherent material.  Fasten the upper end, A, so that the cylinder hangs vertically.  To the lower end, B, attach the weight C.  
-
-However great they may be, the tenacity and coherence between the parts of this solid, so long as they are not infinite, can be overcome by the pull of the weight C, a weight which can be increased indefinitely until finally the solid breaks like a rope.  
+However great they may be, the tenacity and coherence between the parts of this solid, so long as they are not infinite, can be overcome by the pull of the weight `C`, a weight which can be increased indefinitely until finally the solid breaks like a rope.  
 
 And as in the case of the rope whose strength we know to be derived from a multitude of hemp threads which compose it, so in the case of the wood, we observe its fibres and filaments run lengthwise and render it much stronger than a hemp rope of the same thickness.  
 

@@ -8,13 +8,18 @@ c: "darkgoldenrod"
 ---
 
 
-Theorem II, Proposition II, 
+## Theorem 2, Proposition 2
 
 If a moving particle traverses two distances in equal intervals of time, these distances will bear to each other the same ratio as the speeds. And conversely if the distances are as the speeds then the times are equal.
 
-Referring to Fig. 40, let AB and BC represent the two distances traversed in equal time-intervals, the distance AB for instance with the velocity DE, and the distance BC with the velocity EF. Then, I say, the distance AB is to the distance BC as the velocity DE is to the velocity EF. For if equal multiples of both distances and speeds be taken, as above, namely, GB and IE of AB and DE respectively, and in like manner HB and KE of BC and EF, then one may infer, in the same manner as above, that the multiples GB and IE are either less than, equal to, or greater than equal multiples of BH and EK. Hence the theorem is established.
+Referring to Fig. 40, let AB and BC represent the two distances traversed in equal time-intervals, the distance AB for instance with the velocity DE, and the distance BC with the velocity EF. 
 
-Theorem III, Proposition III
+Then the distance `AB` is to the distance BC as the velocity DE is to the velocity EF. For if equal multiples of both distances and speeds be taken, as above, namely, `GB` and `IE` of `AB` and DE respectively, and in like manner HB and KE of BC and EF, then one may infer, in the same manner as above, that the multiples GB and IE are either less than, equal to, or greater than equal multiples of BH and EK. Hence the theorem is established.
+
+
+
+## Theorem 3, Proposition 3
+
 In the case of unequal speeds, the time-intervals required to traverse a given space are to each other inversely as the speeds.
 
 Let the larger of the two unequal speeds be indicated by A; the smaller, by B; and let the motion corresponding to both traverse the given space CD. Then I say the time required to traverse the distance CD at speed A is to the time required to traverse the same distance at speed B, as the speed B is to the speed A. For let CD be to CE as A is to B; then, from the preceding, it follows that the time required to complete the distance CD at speed A is the same as the time necessary to complete CE at speed B; but the time needed to traverse the distance CE at speed B is to the time required to traverse the distance CD at the same speed as CE is to CD; therefore the time in which CD is covered at speed A is to the time in which CD is covered at speed B as CE is to CD, that is, as speed B is to speed A.

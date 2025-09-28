@@ -10,13 +10,35 @@ c: "darkgoldenrod"
 
 
 {{< r a="Sagredo" >}}
-I see how the lower plate follows the upper one and how rapidly it is lifted, I feel sure that, contrary to the opinion of many philosophers, including perhaps even Aristotle himself, motion in a vacuum is not instantaneous.  
+The lower plate follows the upper one and lifts it rapidly.
 
-If this were so the two plates mentioned above would separate without any resistance whatever, seeing that the same instant of time would suffice for their separation and for the surrounding medium to rush in and fill the vacuum between them.  
+Contrary to the opinion of many philosophers including Aristotle, motion in a void is not instantaneous.  
 
-The fact that the lower plate follows the upper one allows us to infer, not only that motion in a vacuum is not instantaneous, but also that, between the two plates, a vacuum really exists, at least for a very short time, sufficient to allow the surrounding medium to rush in and fill the vacuum; for if there were no vacuum there would be no need of any motion in the medium.  One must admit then that a vacuum is sometimes produced by violent motion [violenza] or contrary to the laws of nature, (although in my opinion nothing occurs contrary to nature except the impossible, and that never occurs). 
+If the motion were instant then the 2 plates would separate without any resistance.
 
-But here another difficulty arises.  While experiment convinces me of the correctness of this conclusion, my mind is not entirely satisfied as to the cause to which this effect is to be attributed.  
+This is because the same instant of time would suffice for:
+- their separation and
+- the surrounding medium to rush in and fill the void between them.  
+
+But the lower plate follows the upper one.
+
+Thus means that:
+- motion in a vacuum is not instantaneous
+- between the 2 plates, a void really exists at least for a very short time
+
+This void is enough to allow the surrounding medium to rush in and fill that void.
+
+If there were no void, there would be no need of any motion in the medium.
+
+Thus, a void is sometimes produced by violent motion or is contrary to the laws of nature.
+
+<!-- , (although in my opinion nothing occurs contrary to nature except the impossible, and that never occurs).  -->
+
+<!-- But here another difficulty arises.  While experiment convinces me of the correctness of this conclusion, my mind is -->
+
+But I am not entirely satisfied with this explanation.
+
+<!-- as to the cause to which this effect is to be attributed.   -->
 
 For the separation of the plates precedes the formation of the vacuum which is produced as a consequence of this separation; and since it appears to me that, in the order of nature, the cause must precede the effect, even though it appears to follow in point of time, and since every positive effect must have a positive cause, I do not see how the adhesion of two plates and their resistance to separation -- actual facts -- can be referred to a vacuum as cause when this vacuum is yet to follow.  According to the infallible maxim of the Philosopher, the non-existent can produce no effect.  (13)
 {{< /r >}}

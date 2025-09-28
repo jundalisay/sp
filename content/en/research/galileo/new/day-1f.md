@@ -25,7 +25,9 @@ It does not tell me whether that light is instantaneous or not.
 
 
 {{< l a="Salviati" >}}
-The small conclusiveness of these and other similar observations once led me to devise a method by which one might accurately ascertain whether illumination, i.  e. , the propagation of light, is really instantaneous.  The fact that the speed of (43) [88] sound is as high as it is, assures us that the motion of light cannot fail to be extraordinarily swift.  The experiment which I devised was as follows:
+Is the speed of light really instantaneous?
+
+The fact that the speed of (43) [88] sound is as high as it is, assures us that the motion of light cannot fail to be extraordinarily swift.  The experiment which I devised was as follows:
 
 Let each of two persons take a light contained in a lantern, or other receptacle, such that by the interposition of the hand, the one can shut off or admit the light to the vision of the other.  
 
