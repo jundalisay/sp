@@ -1,22 +1,24 @@
 ---
 heading: Day 3
-title: "CHANGE OF POSITION. [De Motu Locali]"
+title: "Change Of Position. [De Motu Locali]"
 date: 2025-09-25
-weight: 30
+weight: 68
 description: ""
 c: "darkgoldenrod"
 ---
 
 
 
-There is, in nature, perhaps nothing older than motion, concerning which the books written by philosophers are neither few nor small; nevertheless I have discovered by experiment some properties of it which are worth knowing and which have not hitherto been either observed or demonstrated. Some superficial observations have been made, as, for instance, that the free motion [naturalem motum] of a heavy falling body is continuously accelerated;
-*
-but to just what extent this acceleration occurs has not yet been announced; for so far as I know, no one has yet pointed out that the distances traversed, during equal intervals of time, by a body falling from rest, stand to one another in the same ratio as the odd numbers beginning with unity.
+In nature, the oldest topic is motion.
 
+I have noted that the free motion [naturalem motum] of a heavy falling body is continuously accelerated.
+
+But to just what extent this acceleration occurs has not yet been announced.
+
+No one has yet pointed out that the distances traversed, during equal intervals of time, by a body falling from rest, stand to one another in the same ratio as the odd numbers beginning with unity.
 
 Missiles and projectiles follow a curved path.
-
-However, no one has pointed out that this path is a parabola. 
+- However, no one has pointed out that this path is a parabola. 
 
 I have proven this among others. 
 
@@ -33,7 +35,7 @@ This discussion is divided into 3 parts
 3. Violent motions and with projectiles.
 
 
-## UNIFORM MOTION
+## Uniform Motion
 
 In dealing with steady or uniform motion, we need a single definition which I give as follows:
 
@@ -43,21 +45,27 @@ By steady or uniform motion, I mean one in which the distances traversed by the 
 
 Caution
 
-We must add to the old definition (which defined steady motion simply as one in which equal distances are traversed in equal times) the word “any,” meaning by this, all equal intervals of time; for it may happen that the moving body will traverse equal distances during some equal intervals of time and yet the distances traversed during some small portion of these time-intervals may not be equal, even though the time-intervals be equal.
+The old definition defined steady motion simply as one in which equal distances are traversed in equal times. I add the word “any” that means all equal intervals of time.
+
+For it may happen that the moving body will traverse equal distances during some equal intervals of time and yet the distances traversed during some small portion of these time-intervals may not be equal, even though the time-intervals be equal.
 
 From the above definition, four axioms follow, namely:
+
 
 ### Axiom 1
 
 In the case of one and the same uniform motion, the distance traversed during a longer interval of time is greater than the distance traversed during a shorter interval of time.
 
 ### Axiom 2
+
 In the case of one and the same uniform motion, the time required to traverse a greater distance is longer than the time required for a less distance.
 
 ### Axiom 3
+
 In one and the same interval of time, the distance traversed at a greater speed is larger than the distance traversed at a less speed.
 
 ### Axiom 4
+
 The speed required to traverse a longer distance is greater than that required to traverse a shorter distance during the same time-interval.
 
 
@@ -90,5 +98,4 @@ The time IE and the distance GB are arbitrary multiples of the first and the thi
 But it has been proved that both of these latter quantities are either equal to, greater than, or less than the time EK and the space BH, which are arbitrary multiples of the second and the fourth. Therefore the first is to the second, namely the distance AB is to the distance BC, as the third is to the fourth, namely the time DE is to the time EF.
 
 q. e. d.
-
 

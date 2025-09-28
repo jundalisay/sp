@@ -1,6 +1,6 @@
 ---
 heading: Day 1e
-title: "The Infinite"
+title: "The Cause of Solidity"
 # date: 2025-05-15
 weight: 12
 description: ""
@@ -8,145 +8,110 @@ c: "darkgoldenrod"
 ---
 
 
-{{< r a="Simplicio" >}}
-Here a difficulty presents itself which appears to me insoluble.  
 
-One line can be greater than another. Each has an infinite number of points.
 
-And so within the same class, we may have something greater than infinity, because the infinity of points in the long line is greater than the infinity of points in the short line.
+{{< r a="Sagredo" >}}
+On what depends the resistance to breaking, other than that of void?
 
-This assigning to an infinite quantity a value greater than infinity is quite beyond my comprehension. 
+What is the gluey or viscous substance which cements together the parts of the solid?
+
+<!-- I cannot imagine a glue that will not burn up in a highly heated furnace in two or three months, or certainly within ten or a hundred.   -->
+
+If gold, silver and glass are kept for a long while in the molten state and are removed from the furnace, their parts, on cooling, immediately reunite and bind together as before.
+
+<!-- Not only so, but whatever difficulty arises with respect to the cementation of the parts of the glass arises also with regard to the parts of the glue; in other words,  -->
+
+What holds these parts together so firmly?
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-This is one of the difficulties which arise when we attempt, with our finite minds, to discuss the infinite, assigning to it those properties which we give to the finite and limited; but [78] this I think is wrong, for we cannot speak of infinite quantities as being the one greater or less than or equal to another.  
+The 2 plates can be separated only with violent effort.
 
-To prove this I have in mind an argument which, for the sake of clearness, I shall put in the form of questions to Simplicio who raised this difficulty. 
+They are held together by the resistance of the void.
 
-I take it for granted that you know which of the numbers are squares and which are not. 
+The same can be said of 2 large pieces of a marble or bronze column.
+
+This same cause explains the coherence of the very smallest particles of these materials.
+
+<!-- w, since each effect must have one true and sufficient cause and since I find no other cement, am I not justified in trying to discover whether the vacuum is not a sufficient cause? -->
 {{< /l >}}
 
-
-{{< r a="Simplicio" >}}
-I am quite aware that a squared number is one which results from the multiplication of another number by itself; thus 4, 9, etc. , are squared numbers which come from multiplying 2, 3, etc. , by themselves.
-{{< /r >}}
-
-{{< l a="Salviati" >}}
-Very well; and you also know that just as the products are called squares so the factors are called sides or roots; while on the other hand those numbers which do not consist of two equal factors are not squares.  Therefore if I assert that all numbers, including both squares and non-squares, are more than the squares alone, I shall speak the truth, shall I not?
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-Most certainly. 
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-If I should ask further how many squares there are one might reply truly that there are as many as the corresponding number of roots, since every square has its own root and every root its own square, while no square has more than one root and no root more than one square. 
-{{< /l >}}
 
 {{< r a="Simplicio" >}}
-Precisely so. 
+You have already proved that a large vacuum prevents the separation of 2 large parts of a solid is very small compared to the cohesive force which binds together the most minute parts.*
+
+Why do you not regard the cohesive force as something very different from the preventive force?
 {{< /r >}}
 
 
+{{< n n="This is now known as gravity being weaker than the strong force" >}}
+
+
 {{< l a="Salviati" >}}
-But if I inquire how many roots there are, it cannot be denied that there are as many as there are numbers because every number is a root of some square.  
-
-This being granted we must say that there are as many squares as there are numbers because they are just as numerous as their roots, and all the numbers are roots.  Yet at the outset we said there are many more numbers than squares, since the larger portion of them are not squares.  Not only so, but the proportionate number of squares diminishes as we pass to larger numbers.  Thus up to 100 we have 10 squares, that is, the squares constitute 1/10 part of all the numbers; up to 10000, we find only 1/100 [79] part to be squares; and up to a million only 1/1000 part; on the other hand in an infinite number, if one could conceive of such a thing, he would be forced to admit that there are as many squares as there are numbers all taken together. 
-
-We can only infer that the totality of all numbers is infinite, that the number of squares is infinite, and that the number of their roots is infinite; neither is the number of squares less than the totality of all numbers, nor the latter greater than the former; and finally the attributes "equal," greater," and "less," are not applicable to infinite, (33) but only to finite, quantities.  When therefore Simplicio introduces several lines of different lengths and asks me how it is possible that the longer ones do not contain more points than the shorter, I answer him that one line does not contain more or less or just as many points as another, but that each line contains an infinite number.  Or if I had replied to him that the points in one line were equal in number to the squares; in another, greater than the totality of numbers; and in the little one, as many as the number of cubes, might I not, indeed, have satisfied him by thus placing more points in one line than in another and yet maintaining an infinite number in each?
-
-So much for the first difficulty. 
+Sagredo has already answered this question when he remarked that each soldier was being paid from coin collected by a general tax of pennies and farthings even if 1 million of gold would not suffice to pay the entire army.*
 {{< /l >}}
 
-{{< r a="Sagredo" >}}
-Pray stop a moment and let me add to what has already been said an idea which just occurs to me.  If the preceding be true, it seems to me impossible to say either that one infinite number is greater than another or even that it is greater than a finite number, because if the infinite number were greater than, say, a million it would follow that on passing from the million to higher and higher numbers we would be approaching the infinite; but this is not so; on the contrary, the larger the number to which we pass, the more we recede from [this property of] infinity, because the greater the numbers the fewer [relatively] are the squares contained in them; but the squares in infinity cannot be less than the totality of all the numbers, as we have just agreed; hence the approach to greater and greater numbers means a departure from infinity. *
-{{< /r >}}
-
-
-SALV.   And thus from your ingenious argument we are led to [80] conclude that the attributes "larger," "smaller," and "equal" have no place either in comparing infinite quantities with each other or in comparing infinite with finite quantities.  I pass now to another consideration.  Since lines and all continuous quantities are divisible into parts which are themselves divisible without end, I do not see how it is possible (34) to avoid the conclusion that these lines are built up of an infinite number of indivisible quantities because a division and a subdivision which can be carried on indefinitely presupposes that the parts are infinite in number, otherwise the subdivision would reach an end; and if the parts are infinite in number, we must conclude that they are not finite in size, because an infinite number of finite quantities would give an infinite magnitude.  And thus we have a continuous quantity built up of an infinite number of indivisibles. 
-
-SIMP.   But if we can carry on indefinitely the division into finite parts what necessity is there then for the introduction of non-finite parts?
-
-SALV.   The very fact that one is able to continue, without end, the division into finite parts [in parti quante] makes it necessary to regard the quantity as composed of an infinite number of immeasurably small elements [di infiniti non quanti].  Now in order to settle this matter I shall ask you to tell me whether, in your opinion, a continuum is made up of a finite or of an infinite number of finite parts [parti quante]. 
-
-SIMP.   My answer is that their number is both infinite and finite; potentially infinite but actually finite [infinite, in potenza; e finite, in atto]; that is to say, potentially infinite before division and actually finite after division; because parts cannot be said to exist in a body which is not yet divided or at least marked out; if this is not done we say that they exist potentially. 
-
-SALV.   So that a line which is, for instance, twenty spans long is not said to contain actually twenty lines each one span in length except after division into twenty equal parts; before division it is said to contain them only potentially.  Suppose the facts are as you say; tell me then whether, when the division is once made, the size of the original quantity is thereby increased, diminished, or unaffected. 
-
-SIMP.   It neither increases nor diminishes. 
-
-SALV.   That is my opinion also.  Therefore the finite parts [parti quante] in a continuum, whether actually or potentially present, do not make the quantity either larger or smaller; but it is perfectly clear that, if the number of finite parts actually (35) contained in the whole is infinite in number, they will make the magnitude infinite.  Hence the number of finite parts, although existing only potentially, cannot be infinite unless the magnitude containing them be infinite; and conversely if the magnitude is [81] finite it cannot contain an infinite number of finite parts either actually or potentially. 
-
-
-{{< r a="Sagredo" >}}
-How then is it possible to divide a continuum without limit into parts which are themselves always capable of subdivision?
-{{< /r >}}
-
-
-SALV This distinction of yours between actual and potential appears to render easy by one method what would be impossible by another.  But I shall endeavor to reconcile these matters in another way; and as to the query whether the finite parts of a limited continuum [continuo terminato] are finite or infinite in number I will, contrary to the opinion of Simplicio, answer that they are neither finite nor infinite. 
-
-SIMP.   This answer would never have occurred to me since I did not think that there existed any intermediate step between the finite and the infinite, so that the classification or distinction which assumes that a thing must be either finite or infinite is faulty and defective. 
-
-SALV.   So it seems to me.  And if we consider discrete quantities I think there is, between finite and infinite quantities, a third intermediate term which corresponds to every assigned number; so that if asked, as in the present case, whether the finite parts of a continuum are finite or infinite in number the best reply is that they are neither finite nor infinite but correspond to every assigned number.  In order that this may be possible, it is necessary that those parts should not be included within a limited number, for in that case they would not correspond to a number which is greater; nor can they be infinite in number since no assigned number is infinite; and thus at the pleasure of the questioner we may, to any given line, assign a hundred finite parts, a thousand, a hundred thousand, or indeed any number we may please so long as it be not infinite.  I grant, therefore, to the philosophers, that the continuum contains as (36) many finite parts as they please and I concede also that it contains them, either actually or potentially, as they may like; but I must add that just as a line ten fathoms [canne] in length contains ten lines each of one fathom and forty lines each of one cubit [braccia] and eighty lines each of half a cubit, etc. , so it contains an infinite number of points; call them actual or potential, as you like, for as to this detail, Simplicio, I defer to your opinion and to your judgment.  [82]
-
-SIMP.   I cannot help admiring your discussion; but I fear that this parallelism between the points and the finite parts contained in a line will not prove satisfactory, and that you will not find it so easy to divide a given line into an infinite number of points as the philosophers do to cut it into ten fathoms or forty cubits; not only so, but such a division is quite impossible to realize in practice, so that this will be one of those potentialities which cannot be reduced to actuality. 
-
-SALV.   The fact that something can be done only with effort or diligence or with great expenditure of time does not render it impossible; for I think that you yourself could not easily divide a line into a thousand parts, and much less if the number of parts were 937 or any other large prime number.  But if I were to accomplish this division which you deem impossible as readily as another person would divide the line into forty parts would you then be more willing, in our discussion, to concede the possibility of such a division?
-
-SIMP.   In general I enjoy greatly your method; and replying to your query, I answer that it would be more than sufficient if it prove not more difficult to resolve a line into points than to divide it into a thousand parts. 
-
-SALV.   I will now say something which may perhaps astonish you; it refers to the possibility of dividing a line into its infinitely small elements by following the same order which one employs in dividing the same line into forty, sixty, or a hundred parts, that is, by dividing it into two, four, etc.  He who thinks that, by following this method, he can reach an infinite number of points is greatly mistaken; for if this process were followed to (37) eternity there would still remain finite parts which were undivided. 
-
-Indeed by such a method one is very far from reaching the goal of indivisibility; on the contrary he recedes from it and while he thinks that, by continuing this division and by multiplying the multitude of parts, he will approach infinity, he is, in my opinion, getting farther and farther away from it.  My reason is this.  In the preceding discussion we concluded that, in an infinite number, it is necessary that the squares and cubes should be as numerous as the totality of the natural numbers [tutti i numeri], because both of these are as numerous as their roots which constitute the totality of the natural numbers.  Next we saw that the larger the numbers taken the more sparsely distributed were the squares, and still more sparsely the cubes; therefore it is clear that the larger the numbers to which we pass the farther we recede from the infinite number; hence it follows [83] that, since this process carries us farther and farther from the end sought, if on turning back we shall find that any number can be said to be infinite, it must be unity.  Here indeed are satisfied all those conditions which are requisite for an infinite number; I mean that unity contains in itself as many squares as there are cubes and natural numbers [tutti i numeri]. 
-
-SIMP.   I do not quite grasp the meaning of this. 
-
-SALV.   There is no difficulty in the matter because unity is at once a square, a cube, a square of a square and all the other powers [dignità]; nor is there any essential peculiarity in squares or cubes which does not belong to unity; as, for example, the property of two square numbers that they have between them a mean proportional; take any square number you please as the first term and unity for the other, then you will always find a number which is a mean proportional.  Consider the two square numbers, 9 and 4; then 3 is the mean proportional between 9 and 1; while 2 is a mean proportional between 4 and 1; between 9 and 4 we have 6 as a mean proportional.  A property of cubes is that they must have between them two mean proportional numbers; take 8 and 27; between them lie 12 and 18; while (38) between 1 and 8 we have 2 and 4 intervening; and between 1 and 27 there lie 3 and 9.  Therefore we conclude that unity is the only infinite number.  These are some of the marvels which our imagination cannot grasp and which should warn us against the serious error of those who attempt to discuss the infinite by assigning to it the same properties which we employ for the finite, the natures of the two having nothing in common. 
-
-With regard to this subject I must tell you of a remarkable property which just now occurs to me and which will explain the vast alteration and change of character which a finite quantity would undergo in passing to infinity.  Let us draw the straight line AB of arbitrary length and let the point C divide it into two unequal parts; then I say that, if pairs of lines be drawn, one from each of the terminal points A and B, and if the ratio between the lengths of these lines is the same as that between AC and CB, their points of intersection will all lie upon the circumference of one and the same circle.  Thus, for example, [84] AL and BL drawn from A and B, meeting at the point L, bearing to one another the same ratio as AC to BC, and the pair AK and BK meeting at K also bearing to one another the same ratio, and likewise the pairs AI, BI, AH, BH, AG, BG, AF, BF, AE, BE, have their points of intersection L, K, I, H, G, F, E, all lying upon the circumference of one and the same circle.  Accordingly if we imagine the point C to move continuously in such a manner that the lines drawn from it to the fixed terminal points, A and B, always maintain the same ratio between their lengths as exists between the original parts, AC and CB, then the point C will, as I shall presently prove, describe a circle.  And the circle thus described will Fig 7 (39)
-
-increase in size without limit as the point C approaches the middle point which we may call O; but it will diminish in size as C approaches the end B.  So that the infinite number of points located in the line OB will, if the motion be as explained above, describe circles of every size, some smaller than the pupil of the eye of a flea, others larger than the celestial equator.  Now if we move any of the points lying between the two ends O and B they will all describe circles, those nearest O, immense circles; but if we move the point O itself, and continue to move it according to the aforesaid law, namely, that the lines drawn from O to the terminal points, A and B, maintain the same ratio as the original lines AO and OB, what kind of a line will be produced? A circle will be drawn larger than the largest of the others, a circle which is therefore infinite.  
-
-But from the point O a straight line will also be drawn perpendicular to BA and extending to infinity without ever turning, as did the others, to join its last end with its first; for the point C, with its limited motion, having described [85] the upper semi-circle, CHE, proceeds to describe the lower semicircle EMC, thus returning to the starting point.  But the point O having started to describe its circle, as did all the other points in the line AB, (for the points in the other portion OA describe their circles also, the largest being those nearest the point O) is unable to return to its starting point because the circle it describes, being the largest of all, is infinite; in fact, it describes an infinite straight line as circumference of its infinite circle.  
-
-Think now what a difference there is between a finite and an infinite circle since the latter changes character in such a manner that it loses not only its existence but also its possibility of existence; indeed, we already clearly understand that there can be no such thing as an infinite circle; similarly there can be no infinite sphere, no infinite body, and no infinite surface of any shape.  Now what shall we say concerning this metamorphosis in the transition from finite to infinite? And why should we feel greater repugnance, seeing that, in our search after the infinite among numbers we found it in unity? Having broken up a solid into many parts, having reduced it to the finest of (40) powder and having resolved it into its infinitely small indivisible atoms why may we not say that this solid has been reduced to a single continuum [un solo continuo] perhaps a fluid like water or mercury or even a liquefied metal? And do we not see stones melt into glass and the glass itself under strong heat become more fluid than water?
-
-
-{{< r a="Sagredo" >}}
-Are we then to believe that substances become fluid in virtue of being resolved into their infinitely small indivisible components?
-{{< /r >}}
+{{< n n="In Cartesian Physics, the coin is the space particle, while the gold is the aetherspace" >}}
 
 
 {{< l a="Salviati" >}}
-I am not able to find any better means of accounting for certain phenomena of which the following is one.  When I take a hard substance such as stone or metal and when I reduce it by means of a hammer or fine file to the most minute and impalpable powder, it is clear that its finest particles, although when taken one by one are, on account of their smallness, imperceptible to our sight and touch, are nevertheless finite in size, possess shape, and capability of being counted.  It is also true that when once heaped up they remain in a heap; and if an excavation be made within limits the cavity will remain and the surrounding particles will not rush in to fill it; if shaken the particles come to rest immediately after the external disturbing agent is removed; the same effects are observed in all piles of [86] larger and larger particles, of any shape, even if spherical, as is the case with piles of millet, wheat, lead shot, and every other material.  But if we attempt to discover such properties in water we do not find them; for when once heaped up it immediately flattens out unless held up by some vessel or other external retaining body; when hollowed out it quickly rushes in to fill the cavity; and when disturbed it fluctuates for a long time and sends out its waves through great distances. 
+There may be other extremely minute vacua which affect the smallest particles.
+- That which binds together the contiguous parts might be of the same mintage. 
 
-Seeing that water has less firmness [consistenza] than the finest of powder, in fact has no consistence whatever, we may, it seems to me, very reasonably conclude that the smallest particles into which it can be resolved are quite different from finite and divisible particles; indeed the only difference I am able to discover is that the former are indivisible.  The exquisite (41) transparency of water also favors this view; for the most transparent crystal when broken and ground and reduced to powder loses its transparency; the finer the grinding the greater the loss; but in the case of water where the attrition is of the highest degree we have extreme transparency.  Gold and silver when pulverized with acids [acque forti] more finely than is possible with any file still remain powders,* and do not become fluids until the finest particles [gl' indivisibili] of fire or of the rays of the sun dissolve them, as I think, into their ultimate, indivisible, and infinitely small components. 
+<!-- Let me tell you something which has just occurred to me and which I do not offer as an absolute fact, but rather as a passing thought, still immature and calling for more careful consideration.   -->
+
+Fire winds its way in between the most minute particles of metal.
+
+Even though these are solidly cemented together, fire tears them apart and separates them.
+
+After removing the fire, these particles reunite with the same tenacity as at first.
+- They keep the same quantity in the case of gold and with little loss in the case of other metals.
+- This is even though these parts have been separated for a long while
+
+My reason is that the extremely fine particles of fire penetrates the slender pores of the metal.
+- These pores are too small to admit even the finest particles of air or fluids.
+- The fire would fill the small intervening vacua and would set free these small particles from the attraction.
+
+These same vacua exert on them and which prevents their separation.
+
+Thus the particles are able to move freely so that the mass becomes fluid.
+- It remains fluid as long as the particles of fire remain inside.
+- But if they depart and leave the former vacua then the original attraction returns and the parts are again cemented together. 
+
+Each particular vacuum is exceedingly minute and therefore easily overcome.
+
+Yet their number is so extraordinarily great that their combined resistance is multiplied almost without limit.
+
+The nature and the amount of force which results from adding together an immense number of small forces [debolissimi momenti] is illustrated by the fact that a 1 million pound weight suspended by great cables is overcome and lifted when the south wind carries innumerable atoms of water.
+
+These atoms are suspended in thin mist which moves through the air and penetrate between the fibres of the tense ropes in spite of the tremendous force of the hanging weight.  
+
+When these particles enter the narrow pores they swell the ropes, thereby shorten them, and perforce lift the heavy mass [mole]. 
 {{< /l >}}
 
 
 {{< r a="Sagredo" >}}
-This phenomenon of light which you mention is one which I have many times remarked with astonishment.  I have, for instance, seen lead melted instantly by means of a concave mirror only three hands [palmi] in diameter.  Hence I think that if the mirror were very large, well-polished and of a parabolic figure, it would just as readily and quickly melt any other metal, seeing that the small mirror, which was not well polished and had only a spherical shape, was able so energetically to melt lead and burn every combustible substance.  Such effects as these render credible to me the marvels accomplished by the mirrors of Archimedes. 
+Any resistance, so long as it is not infinite, may be overcome by a multitude of minute forces.
+
+Thus, a vast number of ants might carry ashore a ship laden with grain. 
+
+One ant can easily carry one grain. The number of grains in the ship is not infinite, but falls below a certain limit.  
+
+If you take another number 6 times as great, and if you set to work a corresponding number of ants they will carry the grain ashore and the boat also.  
+
+This will call for many ants. But I think this is precisely the case with the vacua which bind together the least particles of a metal.
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-Speaking of the effects produced by the mirrors of Archimedes, it was his own books (which I had already read and studied with infinite astonishment) that rendered credible to me all the miracles described by various writers.  And if any doubt had remained the book which Father Buonaventura Cavalieri** [87] has recently published on the subject of the burning glass [specchio ustorio] and which I have read with admiration would have removed the last difficulty. 
+But even if this demanded an infinite number would you still think it impossible?
 {{< /l >}}
 
 
 {{< r a="Sagredo" >}}
-I also have seen this treatise and have read it with (42) pleasure and astonishment; and knowing the author I was confirmed in the opinion which I had already formed of him that he was destined to become one of the leading mathematicians of our age.  But now, with regard to the surprising effect of solar rays in melting metals, must we believe that such a furious action is devoid of motion or that it is accompanied by the most rapid of motions?
+Not if the mass [mole] of metal were infinite; otherwise.
 {{< /r >}}
 
 
-{{< l a="Salviati" >}}
-Other combustions and resolutions are accompanied by motion, and that, the most rapid; note the action of lightning and of powder as used in mines and petards; note also how the charcoal flame, mixed as it is with heavy and impure vapors, increases its power to liquify metals whenever quickened by a pair of bellows.  Hence I do not understand how the action of light, although very pure, can be devoid of motion and that of the swiftest type. 
-{{< /l >}}
 
-
-{{< r a="Sagredo" >}}
-But of what kind and how great must we consider this speed of light to be? Is it instantaneous or momentary or does it like other motions require time? Can we not decide this by experiment?
-{{< /r >}}

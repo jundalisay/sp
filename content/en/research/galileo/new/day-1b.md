@@ -56,6 +56,10 @@ This is accomplished by wrapping the thread around the solid in the way of a spi
 
 Let `AB` and `CD` be 2 cylinders between which is stretched the cord `EF`.
 
+
+{{< i s="/graphics/g/s002.jpg" a="Figure 2" >}}
+
+
 If these 2 cylinders are pressed strongly together, the cord `EF`, when drawn by the end `F`, will stand a considerable pull before it slips between the 2 compressing solids.
 
 But if we remove the cord from one of these cylinders, they will slip freely though remaining in contact with the other.
@@ -80,44 +84,3 @@ By turning the windlass, this same axle, by mere friction of the rope around it,
 
 <!-- The other fact has to do with a simple but clever device, invented by a young kinsman of mine, for the purpose of descending from a window by means of a rope without lacerating the palms of his hands, as had happened to him shortly before and greatly to his discomfort.  A small sketch will make this clear.  He took a wooden cylinder, AB, about as thick as a walking stick and about one span long: on this he cut a spiral channel of about one turn and a half, and large enough to just receive the rope which he wished to use.  Having introduced the rope at the end A and led it out again at the end B, he enclosed both the cylinder and the rope in a case of wood or tin, hinged along the side so that it could be easily opened and closed.  After he had fastened the rope to a firm support above, he could, on grasping and squeezing the case with both hands, hang by his arms.  The pressure on the rope, lying between the case and the cylinder, was such that he could, at will, either grasp the case Fig 3 (11) more tightly and hold himself from slipping, or slacken his hold and descend as slowly as he wished.  [59] -->
 {{< /r >}}
-
-
-{{< l a="Salviati" >}}
-<!-- A truly ingenious device! I feel, however, that for a complete explanation other considerations might well enter; yet I must not now digress upon this particular topic since you are waiting to hear what I think  -->
-
-I will talk about the breaking strength of other materials which, unlike ropes and most woods, do not have a filamentous structure.
-
-I think that the coherence of these bodies is produced by 2 other causes:
-
-1. The repugnance of nature against a void.
-
-But this repugnance is not sufficient. And so I create cause 2.
-
-<!-- it is necessary to introduce another cause in the form of a gluey or viscous substance which binds firmly together the component parts of the body.  -->
-
-<!-- First I shall speak of the vacuum, demonstrating by definite experiment the quality and quantity of its force [virtù].   -->
-
-If you take 2 highly polished and smooth plates of marble, metal, or glass and place them face to face, one will slide over the other with the greatest ease.
-- This shows that there is nothing of a viscous nature between them.  
-
-But when you try to separate them, the plates exhibit such a repugnance to separation.
-
-The upper one will carry the lower one with it and keep it lifted indefinitely, even when the latter is big and heavy. 
-
-This experiment shows the aversion of nature for empty space, even during the brief moment required for the outside air to rush in and fill up the region between the 2 plates.
-
-{{< i s="/photos/physics/gauge.jpg" a="Gauge Blocks" >}}
-
-
-If 2 plates are not thoroughly polished, their contact is imperfect. If you separate them slowly, the only resistance offered is that of weight.
-
-But if you pull them apart suddenly, the lower plate rises but quickly falls back.
-- It follows the upper plate only for that very short time required to expand the small amount of air remaining between the plates.
-- This air is the consequence of them not fitting and the outside air entering.
-
-This resistance exhibited between the 2 plates:
-- is likewise present between the parts of a solid
-- enters partly as a concomitant cause of their coherence.
-{{< /l >}}
-
-

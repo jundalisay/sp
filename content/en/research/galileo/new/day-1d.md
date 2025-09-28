@@ -1,6 +1,6 @@
 ---
 heading: Day 1d
-title: "The Void"
+title: "Water Pressure"
 # date: 2025-05-15
 weight: 9
 description: "On what depends the resistance to breaking, other than that of void?"
@@ -9,146 +9,101 @@ c: "darkgoldenrod"
 
 
 
-{{< r a="Sagredo" >}}
-On what depends the resistance to breaking, other than that of void?
 
-What is the gluey or viscous substance which cements together the parts of the solid?
+{{< l a="Salviati" >}}
+I will tell you:
+- how to separate the force of the vacuum from the others
+- how to measure it
 
-<!-- I cannot imagine a glue that will not burn up in a highly heated furnace in two or three months, or certainly within ten or a hundred.   -->
+Water is a continuous substance whose parts allow separation except the separation from a void.
 
-If gold, silver and glass are kept for a long while in the molten state and are removed from the furnace, their parts, on cooling, immediately reunite and bind together as before.
+Whenever a cylinder of water is subjected to a pull. It offers a resistance to the separation of its parts because of the resistance of the void.  
 
-<!-- Not only so, but whatever difficulty arises with respect to the cementation of the parts of the glass arises also with regard to the parts of the glue; in other words,  -->
+Let `CABD` be the cross section of a glass cylinder. Into this is introduced a perfectly fitting cylinder of wood, represented in cross section by `EGHF`, and capable of up-and-down motion.
 
-What holds these parts together so firmly?
+Through the middle of this cylinder is bored a hole to receive an iron wire, carrying a hook at the end `K`, while the upper end of the wire, `I`, is provided with a conical head.  
+
+The wooden cylinder is countersunk at the top so as to receive, with a perfect fit, the conical head I of the wire, `IK`, when pulled down by the end `K`.
+{{< /l >}}
+
+
+
+{{< i s="/graphics/g/s004.jpg" a="Figure 4" >}}
+
+
+{{< l a="Salviati" >}}
+Insert the wooden cylinder `EH` in the hollow cylinder `AD`, so as not to touch the upper end of the latter but to leave free a space of 2 or 3 finger-breadths.
+
+This space is to be filled with water by holding the vessel with the mouth `CD` upwards, pushing down on the stopper `EH` at the same time, keeping the conical head of the wire `I` away from the hollow portion of the wooden cylinder.  
+
+The air is thus allowed to escape alongside the iron wire (which does not make a close fit) as soon as one presses down on the wooden stopper.  
+
+The air was allowed to escape. 
+
+The iron wire was drawn back so that it fits snugly against the conical depression in the wood, invert the vessel, bringing it mouth downwards, and hang on the hook `K` a vessel which can be filled with sand or any heavy material in quantity sufficient to finally separate the upper surface of the stopper, EF, from the lower surface of the water to which it was attached only by the resistance of the vacuum.  
+
+Next, weigh the stopper and wire together with the attached vessel and its contents. We shall then have the force of the vacuum [forza del vacuo]. 
+
+Attach to a glass cylinder a weight which, together with the weight of the marble or glass itself, is just equal to the sum of the weights before mentioned.
+
+If breaking occurs, then the vacuum alone holds the parts of the glass together.
+
+But if this weight does not suffice and if breaking occurs only after adding 4 times this weight, then the void furnishes only 1/5 of the total resistance. 
+{{< /l >}}
+
+
+{{< r a="Simplicio" >}}
+I doubt its reliability. The air might creep in between the glass and stopper even if it is well packed with tow or other yielding material.
+
+Will oiling with wax or turpentine be enoughy to make the cone `I` fit snugly on its seat?
+
+Besides, the water might expand and dilate. 
+
+Why may not the air or exhalations or some other more subtile substances penetrate the pores of the wood, or even of the glass itself?
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-The 2 plates can be separated only with violent effort.
+<!-- Simplicio has even partly suggested how to prevent the air from penetrating the wood or passing between the wood and the glass. -->
 
-They are held together by the resistance of the void.
+Water is by nature expansible, although only under severe treatment, we shall see the stopper descend.
 
-The same can be said of 2 large pieces of a marble or bronze column.
+If we put a small excavation in the upper part of the glass vessel, such as indicated by `V`, then the air or any other tenuous and gaseous substance, which might penetrate the pores of glass or wood, would pass through the water and collect in this receptacle `V`.
 
-This same cause explains the coherence of the very smallest particles of these materials.
+But if these things do not happen, our experiment has been performed with proper caution.
 
-<!-- w, since each effect must have one true and sufficient cause and since I find no other cement, am I not justified in trying to discover whether the vacuum is not a sufficient cause? -->
+We shall discover that water does not dilate and that glass does not allow any material, however tenuous, to penetrate it.
 {{< /l >}}
 
 
-SIMP.   But seeing that you have already proved that the resistance which the large vacuum offers to the separation of two large parts of a solid is really very small in comparison with that cohesive force which binds together the most minute parts, why do you hesitate to regard this latter as something very different from the former?
-
-
-
-SALV.   Sagredo has already [p.  13 above] answered this question when he remarked that each individual soldier was being (19) paid from coin collected by a general tax of pennies and farthings, while even a million of gold would not suffice to pay the entire army.  And who knows but that there may be other extremely minute vacua which affect the smallest particles so that that which binds together the contiguous parts is throughout of the same mintage? Let me tell you something which has just occurred to me and which I do not offer as an absolute fact, but rather as a passing thought, still immature and calling for more careful consideration.  
-
-You may take of it what you like; and judge the rest as you see fit.  Sometimes when I have observed how fire winds its way in between the most minute particles of this or that metal and, even though these are solidly cemented together, tears them apart and separates them, and when I have observed that, on removing the fire, these particles reunite with the same tenacity as at first, without any loss of quantity in the case of gold and with little loss in the case of other metals, even though these parts have been separated for a long while, I have thought that the explanation might lie in the fact that the extremely fine particles of fire, penetrating the slender pores of the metal (too small to admit even the finest particles of air or of many other fluids), would fill the small intervening vacua and would set free these small particles from the attraction.  which these same vacua exert upon them and which prevents their separation.  Thus the particles are able to [67] move freely so that the mass [massa] becomes fluid and remains so as long as the particles of fire remain inside; but if they depart and leave the former vacua then the original attraction [attrazzione] returns and the parts are again cemented together. 
-
-In reply to the question raised by Simplicio, one may say that although each particular vacuum is exceedingly minute and therefore easily overcome, yet their number is so extraordinarily great that their combined resistance is, so to speak, multiplied almost without limit.  The nature and the amount of force [forza] which results [risulta] from adding together an immense number of small forces [debolissimi momenti] is clearly illustrated by the fact that a weight of millions of pounds, suspended (20) by great cables, is overcome and lifted, when the south wind carries innumerable atoms of water, suspended in thin mist, which moving through the air penetrate between the fibres of the tense ropes in spite of the tremendous force of the hanging weight.  When these particles enter the narrow pores they swell the ropes, thereby shorten them, and perforce lift the heavy mass [mole]. 
-
-
 {{< r a="Sagredo" >}}
-Any resistance, so long as it is not infinite, may be overcome by a multitude of minute forces.  Thus a vast number of ants might carry ashore a ship laden with grain.  And since experience shows us daily that one ant can easily carry one grain, it is clear that the number of grains in the ship is not infinite, but falls below a certain limit.  If you take another number four or six times as great, and if you set to work a corresponding number of ants they will carry the grain ashore and the boat also.  It is true that this will call for a prodigious number of ants, but in my opinion this is precisely the case with the vacua which bind together the least particles of a metal. 
+I once saw a cistern which had been provided with a pump under the mistaken impression that the water might thus be drawn with less effort or in greater quantity than by means of the ordinary bucket.
+
+The stock of the pump carried [64] its sucker and valve in the upper part so that the water was lifted by attraction and not by a push as is the case with pumps in which the sucker is placed lower down.  This pump worked perfectly so long as the water in the cistern stood above a certain level.
+
+But below this level the pump failed to work.
+
+When I first noticed this phenomenon I thought the machine was out of order; but the workman whom I called in to repair it told me the defect was not in the pump but in the water which had fallen too low to be raised through such a height; 
+
+He added that it was not possible, either by a pump or by any other machine working on the principle of attraction, to lift water a hair's breadth above 18 cubits; whether the pump be large or small this is the extreme limit of the lift.  Up to this time I had been so thoughtless that, although I knew a rope, or rod of wood, or of iron, if sufficiently long, would break by its own weight when held by the upper end, it never occurred to me (17) that the same thing would happen, only much more easily, to a column of water.  And really is not that thing which is attracted in the pump a column of water attached at the upper end and stretched more and more until finally a point is reached where it breaks, like a rope, on account of its excessive weight?
 {{< /r >}}
 
 
-SALV.   But even if this demanded an infinite number would you still think it impossible?
+{{< l a="Salviati" >}}
+That is how it works.
 
+This fixed elevation of eighteen cubits is true for any quantity of water whatever, be the pump large or small or even as fine as a straw.  We may therefore say that, on weighing the water contained in a tube eighteen cubits long, no matter what the diameter, we shall obtain the value of the resistance of the vacuum in a cylinder of any solid material having a bore of this same diameter.  
 
-{{< r a="Sagredo" >}}
-Not if the mass [mole] of metal were infinite; otherwise.
-{{< /r >}}
+And having gone so far, let us see how easy it is to find to what length cylinders of metal, stone, wood, glass, etc. , of any diameter can be elongated without breaking by their own weight.
 
+Take for instance a copper wire of any length and thickness; fix the upper end and to the other end attach a greater and greater load until finally the wire breaks.
 
-SALV.   Otherwise what? Now since we have arrived at paradoxes let us see if we cannot prove that within a finite extent it is possible to discover an infinite number of vacua.  At the same time we shall at least reach a solution of the most remarkable of all that list of problems which Aristotle himself calls wonderful; I refer to his Questions in Mechanics.  This solution may be no less clear and conclusive than that which be himself gives and quite different also from that so cleverly expounded by the most learned Monsignor di Guevara. *
+Let the maximum load be, say, fifty pounds.  Then it is clear that if fifty pounds of copper, in addition to the weight of the wire itself which may be, say, 1/8 ounce, is drawn out into wire of this same size we shall have the greatest length of this kind of wire which can sustain its own weight.
 
-First it is necessary to consider a proposition, not treated by others, but upon which depends the solution of the problem and from which, if I mistake not, we shall derive other new and remarkable facts.  For the sake of clearness let us draw an (21) accurate figure.  About G as a center describe an equiangular and equilateral polygon of any number of sides, say the hexagon ABCDEF.  Similar to this and concentric with it, describe another smaller one which we shall call HIKLMN.  Prolong the side AB, of the larger hexagon, indefinitely toward S; in like manner prolong the corresponding side HI of the smaller hexagon, in the same direction, so that the line HT is parallel to AS; and through the center draw the line GV parallel to the other two.  
+Suppose the wire which breaks to be one cubit in length and 1/8 ounce in weight; then since it supports 50 lbs. in addition to its own weight, i.  e. , 4800 eighths-of-an ounce, it follows that all copper wires, independent of size, can sustain themselves up to a length of 4801 cubits and no more.  Since then a copper rod can sustain its own weight up to a length of 4801 cubits it follows that that part of the breaking strength [resistenza] which depends upon the vacuum, comparing it with the remaining factors of resistance, is equal to the weight of a rod of water, eighteen cubits long and as thick as the copper rod.  
 
-This done, imagine the larger polygon to roll upon  the line AS, carrying with it the smaller polygon.  It is evident that, if the point B, the end of the side AB, remains fixed at the beginning of the rotation, the point A will rise and the point C will fall describing the arc CQ until the side BC coincides with the line BQ, equal to BC.  But during this rotation the point I, on the smaller polygon, will rise above the line IT because IB is oblique to AS; and it will not again return to the line IT until the point C shall have reached the position Q.  The point I, having described the arc IO above the line HT, will reach the position (22) O at the same time the side IK assumes the position OP; but in the meantime the center G has traversed a path above GV and does not return to it until it has completed the arc GC.  
+If, for example, copper is nine times as heavy as water, the breaking strength [resistenza allo strapparsi] of any copper rod, in so far as it depends upon the vacuum, is equal to the weight of two cubits of this same rod.  
 
-This step having been taken, the larger polygon has been brought to rest with its side BC coinciding with the line BQ while the side IK of the smaller polygon has been made to coincide with the line OP, having passed over the portion IO without touching it; also the center G will have reached the position C after having traversed all its course above the parallel line GV.  And finally the entire figure will assume a position similar to the first, so that if we continue the rotation and come to the next step, the side DC of the larger polygon will coincide with the portion QX and the side KL of the smaller polygon, having first skipped the arc PY, will fall on YZ, while the center still keeping above the line GV will return to it at R after having jumped the interval CR.  At the end of one complete rotation the larger polygon will have traced upon the line AS, without break, six lines together equal to its perimeter; the lesser polygon will likewise have imprinted six lines equal to its perimeter, but separated by the interposition of five arcs, whose chords represent the parts of HT not touched by the polygon: the center G never reaches the line GV except at six points.  From this it is clear that the space traversed by the smaller polygon is almost equal to that traversed by the larger, that is, the line HT approximates the line AS, differing from it only by the length of one chord of one of these arcs, provided we understand the line HT to include the five skipped arcs. 
+By a similar method one can (18) find the maximum length of wire or rod of any material which will just sustain its own weight, and can at the same time discover the part which the vacuum plays in its breaking strength. 
+{{< /l >}}
 
-Fig 5 [69]
-
-This exposition which I have given in the case of these hexagons must be understood to be applicable to all other polygons, whatever the number of sides, provided only they are [70]similar, concentric, and rigidly connected, so that when the greater one rotates the lesser will also turn however small it may be.  You must also understand that the lines described by these two are nearly equal provided we include in the space traversed by the smaller one the intervals which are not touched by any part of the perimeter of this smaller polygon.  (23) Let a large polygon of, say, one thousand sides make one complete rotation and thus lay off a line equal to its perimeter; at the same time the small one will pass over an approximately equal distance, made up of a thousand small portions, each equal to one of its sides, but interrupted by a thousand spaces which, in contrast with the portions that coincide with the sides of the polygon, we may call empty.  So far the matter is free from difficulty or doubt. 
-
-But now suppose that about any center, say A, we describe two concentric and rigidly connected circles; and suppose that from the points C and B, on their radii, there are drawn the tangents CE and BF and that through the center A the line AD is drawn parallel to them, then if the large circle makes one complete rotation along the line BF, equal not only to its circumference but also to the other two lines CE and AD, tell me what the smaller circle will do and also what the center will do.  As to the center it will certainly traverse and touch the entire line AD while the circumference of the smaller circle will have measured off by its points of contact the entire line CE, just as was done by the above mentioned polygons.  The only difference is that the line HT was not at every point in contact with the perimeter of the smaller polygon, but there were left untouched as many vacant spaces as there were spaces coinciding with the sides.  But here in the case of the circles the circumference of the smaller one never leaves the line CE, so that no part of the latter is left untouched, nor is there ever a time when some point on the circle is not in contact with the straight line.  How now can the smaller circle traverse a length greater than its circumference unless it go by jumps?
-
-
-{{< r a="Sagredo" >}}
-The center of the circle, by itself, carried along the line AD is constantly in contact with it, although it is only a single point. 
-
-Likewise the points on the circumference of the smaller circle, carried along by the motion of the larger circle, would slide over some small parts of the line CE.  [71]
-{{< /r >}}
-
-
-SALV.   There are two reasons why this cannot happen.  First (24) because there is no ground for thinking that one point of contact, such as that at C, rather than another, should slip over certain portions of the line CE.  But if such slidings along CE did occur they would be infinite in number since the points of contact (being mere points) are infinite in number: an infinite number of finite slips will however make an infinitely long line, while as a matter of fact the line CE is finite. 
-
-The other reason is that as the greater circle, in its rotation, changes its point of contact continuously the lesser circle must do the same because B is the only point from which a straight line can be drawn to A and pass through C.  Accordingly the small circle must change its point of contact whenever the large one changes: no point of the small circle touches the straight line CE in more than one point.  Not only so, but even in the rotation of the polygons there was no point on the perimeter of the smaller which coincided with more than one point on the line traversed by that perimeter; this is at once clear when you remember that the line IK is parallel to BC and that therefore IK will remain above IP until BC coincides with BQ, and that IK will not lie upon IP except at the very instant when BC occupies the position BQ; at this instant the entire line IK coincides with OP and immediately afterwards rises above it. 
-
-In the case of polygons with 100000 sides, the line traversed by the perimeter of the greater, i.  e. , the line laid down by its 100000 sides one after another, is equal to the line traced out by the 100000 sides of the smaller, provided we include the 100000 vacant spaces interspersed.  So in the case of the circles, polygons having an infinitude of sides, the line traversed by the continuously distributed [cantinuamente disposti] infinitude of sides is in the greater circle equal to the line laid down by the infinitude of sides in the smaller circle but with the exception that these latter alternate with empty spaces; and since the sides are not finite in number, but infinite, so also are the intervening (25) empty spaces not finite but infinite.  The line traversed by the larger circle consists then of an infinite number of points which completely fill it; while that which is traced by the smaller circle consists of an infinite number of points which leave empty spaces and only partly fill the line.  And here I wish you to observe that after dividing and resolving a line into a finite number of parts, that is, into a number which can be counted.  it [72] is not possible to arrange them again into a greater length than that which they occupied when they formed a continuum [continuate] and were connected without the interposition of as many empty spaces.  But if we consider the line resolved into an infinite number of infinitely small and indivisible parts, we shall be able to conceive the line extended indefinitely by the interposition, not of a finite, but of an infinite number of infinitely small indivisible empty spaces. 
-
-Now this which has been said concerning simple lines must be understood to hold also in the case of surfaces and solid bodies, it being assumed that they are made up of an infinite, not a finite, number of atoms.  Such a body once divided into a finite number of parts it is impossible to reassemble them so as to occupy more space than before unless we interpose a finite number of empty spaces, that is to say, spaces free from the substance of which the solid is made.  But if we imagine the body, by some extreme and final analysis, resolved into its primary elements, infinite in number, then we shall be able to think of them as indefinitely extended in space, not by the interposition of a finite, but of an infinite number of empty spaces.  Thus one can easily imagine a small ball of gold expanded into a very large space without the introduction of a finite number of empty spaces, always provided the gold is made up of an infinite number of indivisible parts. 
-
-SIMP.   It seems to me that you are travelling along toward those vacua advocated by a certain ancient philosopher. 
-
-SALV.   But you have failed to add, "who denied Divine Providence," an inapt remark made on a similar occasion by a certain antagonist of our Academician.  (26)
-
-SIMP.   I noticed, and not without indignation, the rancor of this ill-natured opponent; further references to these affairs I omit, not only as a matter of good form, but also because I know how unpleasant they are to the good tempered and well ordered mind of one so religious and pious, so orthodox and God-fearing as you. 
-
-But to return to our subject, your previous discourse leaves with me many difficulties which I am unable to solve.  First among these is that, if the circumferences of the two circles are equal to the two straight lines, CE and BF, the latter considered as a continuum, the former as interrupted with an infinity of empty points, I do not see how it is possible to say that the line AD described by the center, and made up of an infinity of points, is equal to this center which is a single point.  Besides, this building up of lines out of points, divisibles out of indivisibles, and finites out of infinites, offers me an obstacle difficult to avoid; and the necessity of introducing a vacuum, so conclusively refuted by Aristotle, presents the same difficulty. 
-
-SALV.   These difficulties are real; and they are not the only ones.  But let us remember that we are dealing with infinities and indivisibles, both of which transcend our finite understanding, the former on account of their magnitude, the latter because of their smallness.  In spite of this, men cannot refrain from discussing them, even though it must be done in a roundabout way. 
-
-Therefore I also should like to take the liberty to present some of my ideas which, though not necessarily convincing, would, on account of their novelty, at least, prove somewhat startling.  But such a diversion might perhaps carry us too far away from the subject under discussion and might therefore appear to you inopportune and not very pleasing. 
-
-
-{{< r a="Sagredo" >}}
-Pray let us enjoy the advantages and privileges which come from conversation between friends, especially upon subjects freely chosen and not forced upon us, a matter vastly different from dealing with dead books which give rise to many doubts but remove none.  Share with us, therefore, the thoughts (27) which our discussion has suggested to you; for since we are free from urgent business there will be abundant time to pursue the topics already mentioned; and in particular the objections raised by Simplicio ought not in any wise to be neglected. 
-{{< /r >}}
-
-
-SALV.   Granted, since you so desire.  The first question was, How can a single point be equal to a line? Since I cannot do more at present I shall attempt to remove, or at least diminish, one improbability by introducing a similar or a greater one, just as sometimes a wonder is diminished by a miracle. *
-
-And this I shall do by showing you two equal surfaces, together with two equal solids located upon these same surfaces as bases, all four of which diminish continuously and uniformly in such a way that their remainders always preserve equality among themselves, and finally both the surfaces and the solids terminate their previous constant equality by degenerating, the one solid and the one surface into a very long line, the other solid and the other surface into a single point; that is, the latter to one point, the former to an infinite number of points.  [74]
-
-
-{{< r a="Sagredo" >}}
-This proposition appears to me wonderful, indeed; but let us hear the explanation and demonstration. 
-{{< /r >}}
-
-
-
-SALV.   Since the proof is purely geometrical we shall need a figure.  Let AFB be a semicircle with center at C; about it describe the rectangle ADEB and from the center draw the straight lines CD and CE to the points D and E.  Imagine the radius CF to be drawn perpendicular to either of the lines AB or DE, and the entire figure to rotate about this radius as an axis.  It is clear that the rectangle ADEB will thus describe a cylinder, the semicircle AFB a hemisphere, and the triangle CDE, a cone.  Next let us remove the hemisphere but leave the cone and the rest of the cylinder, which, on account of its shape, we will call a "bowl. " First we shall prove that the bowl and the cone are equal; then we shall show that a plane drawn parallel to the circle which forms the base of the bowl and which has the line DE for diameter and F for a center -- a plane whose trace is GN -- cuts the bowl in the points G, I, O, N, and the cone in the points H, L, so that the part of the cone indicated by CHL is always equal to (28) the part of the bowl whose profile is represented by the triangles GAI and BON.  Besides this we shall prove that the base of the cone, i.  e. , the circle whose diameter is HL, is equal to the circular surface which forms the base of this portion of the bowl, or as one might say, equal to a ribbon whose width is GI.  (Note by the way the nature of mathematical definitions which consist merely in the imposition of names or, if you prefer, abbreviations of speech established and introduced in order to avoid the tedious drudgery which you and I now experience simply because we have not agreed to call this surface a "circular band" and that sharp solid portion of the bowl a "round razor. ") Now call them by Fig 6 [75]
-
-what name you please, it suffices to understand that the plane, drawn at any height whatever, so long as it is parallel to the base, i.  e. , to the circle whose diameter is DE, always cuts the two solids so that the portion CHL of the cone is equal to the upper portion of the bowl; likewise the two areas which are the bases of these solids Y namely the band and the circle HL, are also equal.  Here we have the miracle mentioned above; as the cutting plane approaches the line AB the portions of the solids cut off are always equal, so also the areas of their bases.  And as the cutting plane comes near the top, the two solids (always equal) as well as their bases (areas which are also equal) finally vanish, one pair of them degenerating into the circumference of a circle, the other into a single point, namely, the upper edge of the bowl and the apex of the cone.  Now, since as these solids diminish equality is maintained between them up to the very last, we are justified in saying that, at the extreme and final end of this diminution, they are still equal and that one is not infinitely greater than the other.  It appears therefore that we may equate the circumference of a large circle to a single point.  And this which is true of the solids is true also of the surfaces which (29) form their bases; for these also preserve equality between themselves throughout their diminution and in the end vanish, the one into the circumference of a circle, the other into a single point.  Shall we not then call them equal seeing that they are the last traces and remnants of equal magnitudes? Note also that, even if these vessels were large enough to contain immense celestial hemispheres, both their upper edges and the apexes of the cones therein contained would always remain equal and would vanish, the former into circles having the dimensions of the largest celestial orbits, the latter into single points.  Hence in conformity with the preceding we may say that all circumferences of circles, however different, are equal to each other, and are each equal to a single point. 
-
-
-{{< r a="Sagredo" >}}
-This presentation strikes me as so clever and novel that, even if I were able, I would not be willing to oppose it; for to deface so beautiful a structure by a blunt pedantic attack would be nothing short of sinful.  But for our complete satisfaction [76] pray give us this geometrical proof that there is always equality between these solids and between their bases; for it cannot, I think, fail to be very ingenious, seeing how subtle is the philosophical argument based upon this result. 
-{{< /r >}}
-
-
-SALV.   The demonstration is both short and easy.  Referring to the preceding figure, since IPC is a right angle the square of the radius IC is equal to the sum of the squares on the two sides IP, PC; but the radius IC is equal to AC and also to GP, while CP is equal to PH.  Hence the square of the line GP is equal to the sum of the square(26s of IP and PH, or multiplying through by 4, we have the square of the diameter GN equal to the sum of the squares on IO and HL.  And, since the areas of circles are to each other as the squares of their diameters, it follows that the area of the circle whose diameter is GN is equal to the sum of the areas of circles having diameters IO and HL, so that if we remove the common area of the circle having IO for diameter the remaining area of the circle GN will be equal to the area of the circle whose diameter is HL.  So much for the first part.  As for the other part, we leave its demonstration for the present, partly (30) because those who wish to follow it will find it in the twelfth proposition of the second book of De centro gravitatis solidorum by the Archimedes of our age, Luca Valerio,* who made use of it for a different object, and partly because, for our purpose, it suffices to have seen that the above-mentioned surfaces are always equal and that, as they keep on diminishing uniformly, they degenerate, the one into a single point, the other into the circumference of a circle larger than any assignable; in this fact lies our miracle. **
-
-
-{{< r a="Sagredo" >}}
-The demonstration is ingenious and the inferences drawn from it are remarkable.  And now let us hear something concerning the other difficulty raised by Simplicio, if you have anything special to say, which, however, seems to me hardly possible, since the matter has already been so thoroughly discussed. 
-{{< /r >}}
-
-
-
-SALV.   The infinity and indivisibility are in their very nature incomprehensible to us.
-
-Imagine then what they are when combined.  Yet if we wish to build up a line out of indivisible points, we must take an infinite number of them.
-
-We are bound to understand both the infinite and the indivisible at the same time.  Many ideas have passed through my mind concerning this subject, some of which, possibly the more important, I may not be able to recall on the spur of the moment; but in the course of our discussion it may happen that I shall awaken in you, and especially in Simplicio, objections and difficulties which in turn will bring to memory that which, without such stimulus, would have lain dormant in my mind.  
-
-Allow me therefore the customary liberty of introducing some of our human fancies, for indeed we may so call them in comparison with supernatural truth which furnishes the one true and safe recourse for decision in our discussions and which is an infallible guide in the dark and dubious paths of thought.
-
-One of the main objections urged against this building up of continuous quantities out of indivisible quantities [continuo d' indivisibili] is that the addition of one indivisible to another cannot produce a divisible, for if this were so it would render the indivisible divisible.  
-
-Thus if 2 indivisibles, say 2 points, can be united to form a quantity, say a divisible line, then an even more divisible line might be formed by the union of three, five, seven, or any other odd number of points.  
-
-Since however these lines can be cut into two equal parts, it becomes possible to cut the indivisible, which lies exactly in the middle of the line.  In answer to this and other objections of the same type we reply that a divisible magnitude cannot be constructed out of two or ten or a hundred or a thousand indivisibles, but requires an infinite number of them. 

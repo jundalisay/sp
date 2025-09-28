@@ -7,7 +7,7 @@ description : "Economics uses money both as a store of value and tool of trade. 
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: "Supereconomics"
+icon: "Lam"
 toc: false
 ---
 

@@ -3,6 +3,7 @@ title: "Simple Say's Law"
 heading: "Why the Production Motive is bad"
 date: 2015-05-18
 a: "Say"
+c: "firebrick"
 description : "Say's Law depends on barter which still happened in the 19th century. This is why it is not applicable to the modern economic system"
 writer:
   name: Juan

@@ -1,20 +1,28 @@
 ---
-heading: Day 2c
+heading: Day 2d
 title: "Propositions 5"
 date: 2025-09-25
-weight: 26
+weight: 58
 description: ""
 c: "darkgoldenrod"
 ---
 
 
-### Proposition 5
+## Proposition 5
 
 Prisms and cylinders which differ in both length and thickness offer resistances to fracture [i. e., can support at their ends loads] which are directly proportional to the cubes of the diameters of their bases and inversely proportional to their lengths.
 
-Let ABC and DEF be two such cylinders; then the resistance [bending strength] of the cylinder AC bears to the resistance of the cylinder DF a ratio which is the product of the cube of the diameter AB divided by the cube of the diameter DE, and of the length EF divided by the length BC. Make EG equal to BC: let H be a third proportional to the lines AB and DE; let I be a fourth proportional, [AB/DE=H/I]: and let I:S=EF:BC.
+Let `ABC` and `DEF` be 2 such cylinders.
 
-Now since the resistance of the cylinder AC is to that of the cylinder DG as the cube of AB is to the cube of DE, that is, as the length AB is to the length I; and since the resistance of the cylinder DG is to that of the cylinder DF as the length FE is to EG, that is, as I is to S, it follows that the length AB is to S as the resistance of the cylinder AC is to that of the cylinder DF. But the line AB bears to S a ratio which is the product of AB/I and I/S. Hence the resistance [bending strength] of the cylinder AC bears to the resistance of the cylinder DF a ratio which is the product of AB/I (that is, AB3/DE3) and of I/S (that is, EF/BC): which is what I meant to prove.
+The resistance [bending strength] of the cylinder `AC` bears to the resistance of the cylinder DF a ratio which is the product of the cube of the diameter AB divided by the cube of the diameter DE, and of the length EF divided by the length BC. 
+
+Make `EG` equal to `BC`: let `H` be a third proportional to the lines `AB` and `DE`.
+
+Let `I` be a fourth proportional, [AB/DE=H/I]: and let I:S=EF:BC.
+
+Since the resistance of the cylinder AC is to that of the cylinder DG as the cube of AB is to the cube of DE, that is, as the length AB is to the length `I`.
+
+Since the resistance of the cylinder DG is to that of the cylinder DF as the length FE is to EG, that is, as I is to S, it follows that the length AB is to S as the resistance of the cylinder AC is to that of the cylinder DF. But the line AB bears to S a ratio which is the product of AB/I and I/S. Hence the resistance [bending strength] of the cylinder AC bears to the resistance of the cylinder DF a ratio which is the product of AB/I (that is, AB3/DE3) and of I/S (that is, EF/BC): which is what I meant to prove.
 
 
 Fig. 22
@@ -22,7 +30,7 @@ Fig. 22
 This proposition having been demonstrated, let us next consider the case of prisms and cylinders which are similar. Concerning these we shall show that,
 
 
-### Proposition 6
+## Proposition 6
 
 In the case of similar cylinders and prisms, the moments [stretching forces] which result from multiplying together their weight and length [i. e., from the moments produced by their own weight and length], which latter acts as a lever-arm, bear to each other a ratio which is the sesquialteral of the ratio between the resistances of their bases.
 
@@ -74,10 +82,9 @@ Fig. 24
 
 
 {{< r a="Sagredo" >}}
-The demonstration is short and clear; while the proposition which, at first glance, appeared improbable is now seen to be both true and inevitable. In order therefore to bring this prism into that limiting condition which separates breaking from not breaking, it would be necessary to change the ratio between thickness and length either by increasing the thickness or by diminishing the length. An investigation of this limiting state will, I believe, demand equal ingenuity.
+In order to bring this prism into that limiting condition which separates breaking from not breaking, it would be necessary to change the ratio between thickness and length either by increasing the thickness or by diminishing the length. An investigation of this limiting state will, I believe, demand equal ingenuity.
 {{< /r >}}
 
 
 Salv.
 Nay, even more; for the question is more difficult; this I know because I spent no small amount of time in its discovery which I now wish to share with you.
-

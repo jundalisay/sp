@@ -186,7 +186,7 @@ But in the case of a stone or metallic cylinder where the coherence seems to be 
 {{< /l >}}
 
 
-Fig 1
+{{< i s="/graphics/g/s001.jpg" a="Figure 1" >}}
 
 
 {{< r a="Simplicio" >}}

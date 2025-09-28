@@ -1,6 +1,6 @@
 ---
 heading: Day 1h
-title: "Rest Versus Motion"
+title: "Infinity and Indivisibility"
 # date: 2025-05-15
 weight: 18
 description: ""
@@ -8,172 +8,98 @@ c: "darkgoldenrod"
 ---
 
 
-{{< l a="Salviati" >}}
-We should distinguish between heavy bodies in motion and the same bodies at rest.
 
-A large stone placed in a balance not only acquires additional weight by having another stone placed upon it, but even by the addition of a handful of hemp its weight is augmented 6-10 ounces according to the quantity of hemp. 
-
-But if you tie the hemp to the stone and allow them to fall freely from some height, do you believe that the hemp will press down upon the stone and thus accelerate its motion or do you think the motion will be retarded by a partial upward pressure? 
-
-One always feels the pressure upon his shoulders when he prevents the motion of a load resting upon him; but if one descends just as rapidly as the load would fall how can it gravitate or press upon him? Do you not see that this would be the same as trying to strike a man with a lance when he is running away from you with a speed which is equal to, or even greater, than that with which you are following him? 
-
-You must therefore conclude that, during free and natural fall, the small stone does not press upon the larger and consequently does not increase its weight as it does when at rest.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-But what if we should place the larger stone upon the smaller?
+{{< r a="Sagredo" >}}
+Give us this geometrical proof that there is always equality between these solids and between their bases.
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-Its weight would be increased if the larger stone moved more rapidly; but we have already concluded that when the small stone moves more slowly it retards to some extent the speed of the larger, so that the combination of the two, which is a heavier body than the larger of the two stones, would move less rapidly, a conclusion which is contrary to your hypothesis. We infer therefore that large and small bodies move with the same speed provided they are of the same specific gravity.
-{{< /l >}}
+`IPC` is a right angle. The square of the radius `IC` is equal to the sum of the squares on the 2 sides `IP`, `PC`.
 
+But the radius `IC` is equal to `AC` and also to `GP`, while `CP` is equal to `PH`.
 
-{{< r a="Simplicio" >}}
-Your discussion is really admirable; yet I do not find it easy to believe that a bird-shot falls as swiftly as a cannon ball.
-{{< /r >}}
+Hence, the square of the line `GP` is equal to the sum of the square (26s of IP and PH, or multiplying through by 4, we have the square of the diameter GN equal to the sum of the squares on IO and HL.
 
+Since the areas of circles are to each other as the squares of their diameters, it follows that the area of the circle whose diameter is GN is equal to the sum of the areas of circles having diameters IO and HL, so that if we remove the common area of the circle having IO for diameter the remaining area of the circle GN will be equal to the area of the circle whose diameter is HL.
 
-{{< l a="Salviati" >}}
-Why not say a grain of sand as rapidly as a grindstone? 
-
-But, Simplicio, I trust you will not follow the example of many others who divert the discussion from its main intent and fasten upon some statement of mine which lacks a hair’s-breadth of the truth and, under this hair, hide the fault of another which is as big as a ship’s cable. 
-
-Aristotle says that “an iron ball of one hundred pounds falling from a height of one hundred cubits reaches the ground before a one-pound ball has fallen a single cubit.” 
-
-I say that they arrive at the same time. 
-
-The larger outstrips the smaller by 2 finger-breadths. When the larger has reached the ground, the other is short of it by two finger-breadths.
-
-Now you would not hide behind these two fingers the ninety-nine cubits of Aristotle, nor would you mention my small error and at the same time pass over in silence his very large one. 
-
-Aristotle declares that bodies of different weights, in the same medium, travel (in so far as their motion depends upon gravity) with speeds which are proportional to their weights; this he illustrates by use of bodies in which it is possible to perceive the pure and unadulterated effect of gravity, eliminating other considerations, for example, figure as being of small importance [minimi momenti], influences which are greatly dependent upon the medium which modifies the single effect of gravity alone. Thus we observe that gold, the densest of all substances, when beaten out into a very thin leaf, goes floating through the air; the same thing happens with stone when ground into a very fine powder. 
-
-But if you wish to maintain the general proposition you will have to show that the same ratio of speeds is preserved in the case of all heavy bodies, and that a stone of twenty pounds moves ten times as rapidly as one of two; but I claim that this is false and that, if they fall from a height of fifty or a hundred cubits, they will reach the earth at the same moment.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-The result would be different if the fall took place not from a few cubits but from some thousands of cubits.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-If this were what Aristotle meant you would burden him with another error which would amount to a falsehood; because, since there is no such sheer height available on earth, it is clear that Aristotle could not have made the experiment; yet he wishes to give us the impression of his having performed it when he speaks of such an effect as one which we see.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-In fact, Aristotle does not employ this principle, but uses the other one which is not, I believe, subject to these same difficulties.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-But the one is as false as the other; and I am surprised that you yourself do not see the fallacy and that you do not perceive that if it were true that, in media of different densities and different resistances, such as water and air, one and the same body moved in air more rapidly than in water, in proportion as the density of water is greater than that of air, then it would follow that any body which falls through air ought also to fall through water. But this conclusion is false inasmuch as many bodies which descend in air not only do not descend in water, but actually rise.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-I do not understand the necessity of your inference; and in addition I will say that Aristotle discusses only those bodies which fall in both media, not those which fall in air but rise in water.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-The arguments which you advance for the Philosopher are such as he himself would have certainly avoided so as not to aggravate his first mistake. But tell me now whether the density [corpulenza] of the water, or whatever it may be that retards the motion, bears a definite ratio to the density of air which is less retardative; and if so fix a value for it at your pleasure.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-Such a ratio does exist; let us assume it to be ten; then, for a body which falls in both these media, the speed in water will be ten times slower than in air.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-I shall now take one of those bodies which fall in air but not in water, say a wooden ball, and I shall ask you to assign to it any speed you please for its descent through air.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-Let us suppose it moves with a speed of 20.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-This speed bears to some smaller speed the same ratio as the density of water bears to that of air; and the value of this smaller speed is two. So that really if we follow exactly the assumption of Aristotle we ought to infer that the wooden ball which falls in air, a substance ten times less-resisting than water, with a speed of twenty would fall in water with a speed of two, instead of coming to the surface from the bottom as it does; unless perhaps you wish to reply, which I do not believe you will, that the rising of the wood through the water is the same as its falling with a speed of two. 
-
-But since the wooden ball does not go to the bottom, I think you will agree with me that we can find a ball of another material, not wood, which does fall in water with a speed of two.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-Undoubtedly we can; but it must be of a substance considerably heavier than wood.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-That is it exactly. But if this second ball falls in water with a speed of two, what will be its speed of descent in air? If you hold to the rule of Aristotle you must reply that it will move at the rate of twenty; but twenty is the speed which you yourself have already assigned to the wooden ball; hence this and the other heavier ball will each move through air with the same speed. But now how does the Philosopher harmonize this result with his other, namely, that bodies of different weight move through the same medium with different speeds—speeds which are proportional to their weights? 
-
-But without going into the matter more deeply, how have these common and obvious properties escaped your notice? Have you not observed that two bodies which fall in water, one with a speed a hundred times as great as that of the other, will fall in air with speeds so nearly equal that one will not surpass the other by as much as one hundredth part? Thus, for example, an egg made of marble will descend in water one hundred times more rapidly than a hen’s egg, while in air falling from a height of twenty cubits the one will fall short of the other by less than 4 finger-breadths. 
-
-In short, a heavy body which sinks through ten cubits of water in three hours will traverse ten cubits of air in one or two pulse-beats; and if the heavy body be a ball of lead it will easily traverse the ten cubits of water in less than double the time required for ten cubits of air. And here, I am sure, Simplicio, you find no ground for difference or objection. We conclude, therefore, that the argument does not bear against the existence of a vacuum; but if it did, it would only do away with vacua of considerable size which neither I nor, in my opinion, the ancients ever believed to exist in nature, although they might possibly be produced by force [violenza] as may be gathered from various experiments whose description would here occupy too much time.
+As for the other part, we leave its demonstration for the present, partly (30) because those who wish to follow it will find it in the twelfth proposition of the second book of De centro gravitatis solidorum by the Archimedes of our age, Luca Valerio,* who made use of it for a different object, and partly because, for our purpose, it suffices to have seen that the above-mentioned surfaces are always equal and that, as they keep on diminishing uniformly, they degenerate, the one into a single point, the other into the circumference of a circle larger than any assignable; in this fact lies our miracle. **
 {{< /l >}}
 
 
 {{< r a="Sagredo" >}}
-Seeing that Simplicio is silent, I will take the opportunity of saying something. 
-
-Since you have clearly demonstrated that bodies of different weights do not move in one and the same medium with velocities proportional to their weights, but that they all move with the same speed, understanding of course that they are of the same substance or at least of the same specific gravity; certainly not of different specific gravities, for I hardly think you would have us believe a ball of cork moves with the same speed as one of lead; and again since you have clearly demonstrated that one and the same body moving through differently resisting media does not acquire speeds which are inversely proportional to the resistances, I am curious to learn what are the ratios actually observed in these cases.
+What about the other difficulty raised by Simplicio?
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-These are interesting questions and I have thought much concerning them. I will give you the method of approach and the result which I finally reached. 
+The infinity and indivisibility are in their very nature incomprehensible to us.
 
-Having once established the falsity of the proposition that one and the same body moving through differently resisting media acquires speeds which are inversely proportional to the resistances of these media, and having also disproved the statement that in the same medium bodies of different weight acquire velocities proportional to their weights (understanding that this applies also to bodies which differ merely in specific gravity), I then began to combine these two facts and to consider what would happen if bodies of different weight were placed in media of different resistances.
+Imagine then what they are when combined.  Yet if we wish to build up a line out of indivisible points, we must take an infinite number of them.
 
-I found that the differences in speed were greater in those media which were more resistant, that is, less yielding.
+We are bound to understand both the infinite and the indivisible at the same time.  Many ideas have passed through my mind concerning this subject, some of which, possibly the more important, I may not be able to recall on the spur of the moment; but in the course of our discussion it may happen that I shall awaken in you, and especially in Simplicio, objections and difficulties which in turn will bring to memory that which, without such stimulus, would have lain dormant in my mind.  
 
-This difference was such that two bodies which differed scarcely at all in their speed through air would, in water, fall the one with a speed ten times as great as that of the other. 
+Allow me therefore the customary liberty of introducing some of our human fancies, for indeed we may so call them in comparison with supernatural truth which furnishes the one true and safe recourse for decision in our discussions and which is an infallible guide in the dark and dubious paths of thought.
 
-Further, there are bodies which will fall rapidly in air, whereas if placed in water not only will not sink but will remain at rest or will even rise to the top: for it is possible to find some kinds of wood, such as knots and roots, which remain at rest in water but fall rapidly in air.
+One of the main objections urged against this building up of continuous quantities out of indivisible quantities [continuo d' indivisibili] is that the addition of one indivisible to another cannot produce a divisible, for if this were so it would render the indivisible divisible.  
+
+Thus if 2 indivisibles, say 2 points, can be united to form a quantity, say a divisible line, then an even more divisible line might be formed by the union of three, five, seven, or any other odd number of points.  
+
+Since however these lines can be cut into two equal parts, it becomes possible to cut the indivisible, which lies exactly in the middle of the line.  In answer to this and other objections of the same type we reply that a divisible magnitude cannot be constructed out of two or ten or a hundred or a thousand indivisibles, but requires an infinite number of them. 
 {{< /l >}}
 
 
-{{< r a="Sagredo" >}}
-I have often tried with the utmost patience to add grains of sand to a ball of wax until it should acquire the same specific gravity as water and would therefore remain at rest in this medium. 
+{{< r a="Simplicio" >}}
+Here a difficulty presents itself which appears to me insoluble.  
 
-But with all my care I was never able to accomplish this. Indeed, I do not know whether there is any solid substance whose specific gravity is, by nature, so nearly equal to that of water that if placed anywhere in water it will remain at rest.
+One line can be greater than another. Each has an infinite number of points.
+
+And so within the same class, we may have something greater than infinity, because the infinity of points in the long line is greater than the infinity of points in the short line.
+
+This assigning to an infinite quantity a value greater than infinity is quite beyond my comprehension. 
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-In this, as in a thousand other operations, men are surpassed by animals. 
+This is one of the difficulties which arise when we attempt, with our finite minds, to discuss the infinite, assigning to it those properties which we give to the finite and limited; but [78] this I think is wrong, for we cannot speak of infinite quantities as being the one greater or less than or equal to another.  
 
-In this problem of yours one may learn much from the fish which are very skillful in maintaining their equilibrium not only in one kind of water, but also in waters which are notably different either by their own nature or by some accidental muddiness or through salinity, each of which produces a marked change. So perfectly indeed can fish keep their equilibrium that they are able to remain motionless in any position. 
+To prove this I have in mind an argument which, for the sake of clearness, I shall put in the form of questions to Simplicio who raised this difficulty. 
 
-This they accomplish by means of an apparatus especially provided by nature, namely, a bladder located in the body and communicating with the mouth by means of a narrow tube through which they are able, at will, to expel a portion of the air contained in the bladder: by rising to the surface they can take in more air; thus they make themselves heavier or lighter than water at will and maintain equilibrium.
+I take it for granted that you know which of the numbers are squares and which are not. 
 {{< /l >}}
 
 
-{{< r a="Sagredo" >}}
-By means of another device I was able to deceive some friends to whom I had boasted that I could make up a ball of wax that would be in equilibrium in water. 
-
-In the bottom of a vessel I placed some salt water and upon this some fresh water; then I showed them that the ball stopped in the middle of the water, and that, when pushed to the bottom or lifted to the top, would not remain in either of these places but would return to the middle.
+{{< r a="Simplicio" >}}
+I am quite aware that a squared number is one which results from the multiplication of another number by itself; thus 4, 9, etc. , are squared numbers which come from multiplying 2, 3, etc. , by themselves.
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-This experiment is useful. 
+The products are called squares and the factors are called sides or roots.
 
-When physicians are testing the various qualities of waters, especially their specific gravities, they employ a ball of this kind so adjusted that, in certain water, it will neither rise nor fall. 
+On the other hand, those numbers which do not consist of two equal factors are not squares.
 
-Then in testing another water, differing ever so slightly in specific gravity [peso], the ball will sink if this water be lighter and rise if it be heavier. 
+Therefore if I assert that all numbers, including both squares and non-squares, are more than the squares alone,  then I am speaking the truth.
 
-And so exact is this experiment that the addition of two grains of salt to six pounds of water is sufficient to make the ball rise to the surface from the bottom to which it had fallen. 
+How many squares there are? One might reply that there are as many as the corresponding number of roots, since every square has its own root and every root its own square, while no square has more than one root and no root more than one square. 
 
-To illustrate the precision of this experiment and also to clearly demonstrate the non-resistance of water to division, I wish to add that this notable difference in specific gravity can be produced not only by solution of some heavier substance, but also by merely heating or cooling; and so sensitive is water to this process that by simply adding four drops of another water which is slightly warmer or cooler than the six pounds one can cause the ball to sink or rise; it will sink when the warm water is poured in and will rise upon the addition of cold water. 
+But if I inquire how many roots there are, it cannot be denied that there are as many as there are numbers because every number is a root of some square.  
 
-Now you can see how mistaken are those philosophers who ascribe to water viscosity or some other coherence of parts which offers resistance to separation of parts and to penetration.
+Then there are as many squares as there are numbers because they are just as numerous as their roots, and all the numbers are roots.  
+
+Yet at the outset we said there are many more numbers than squares, since the larger portion of them are not squares.  
+
+Not only so, but the proportionate number of squares diminishes as we pass to larger numbers.  
+
+Thus up to 100 we have 10 squares, that is, the squares constitute 1/10 part of all the numbers; up to 10000, we find only 1/100 [79] part to be squares; and up to a million only 1/1000 part; on the other hand in an infinite number, if one could conceive of such a thing, he would be forced to admit that there are as many squares as there are numbers all taken together. 
+
+We can only infer that the totality of all numbers is infinite, that the number of squares is infinite, and that the number of their roots is infinite; neither is the number of squares less than the totality of all numbers, nor the latter greater than the former; and finally the attributes "equal," greater," and "less," are not applicable to infinite, (33) but only to finite, quantities.
+
+When therefore Simplicio introduces several lines of different lengths and asks me how it is possible that the longer ones do not contain more points than the shorter, I answer him that one line does not contain more or less or just as many points as another, but that each line contains an infinite number.
+
+Or if I had replied to him that the points in one line were equal in number to the squares; in another, greater than the totality of numbers; and in the little one, as many as the number of cubes, might I not, indeed, have satisfied him by thus placing more points in one line than in another and yet maintaining an infinite number in each?
+
+So much for the first difficulty. 
 {{< /l >}}
+
+

@@ -2,7 +2,8 @@
 title: "Smith = Hume = Socrates"
 heading: "Updated Jan 2021 to add Socrates"
 date: 2015-08-15
-image: "/covers/smith.jpg"
+c: "teal"
+a: "Socrates"
 description: "In both The Wealth of Nations and The Theory of Moral Sentiments, David Hume stands out as the one consistently admired by Smith, aside from Quesnay and Hutcheson"
 writer:
   name: Juan

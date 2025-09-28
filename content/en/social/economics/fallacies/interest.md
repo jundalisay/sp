@@ -7,7 +7,7 @@ description: We explain the different notions of interest of Ricardo, Marshall, 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 ---
 
 

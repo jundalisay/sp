@@ -1,6 +1,6 @@
 ---
 heading: Day 1i
-title: "Small Scale Versus Large Scale"
+title: "Equivalence Principle"
 # date: 2025-05-15
 weight: 20
 description: ""
@@ -8,269 +8,114 @@ c: "darkgoldenrod"
 ---
 
 
+
 {{< r a="Sagredo" >}}
-With regard to this question I have found many convincing arguments in a treatise by our Academician; but there is one great difficulty of which I have not been able to rid myself, namely, if there be no tenacity or coherence between the particles of water how is it possible for those large drops of water to stand out in relief upon cabbage leaves without scattering or spreading out?
+If the preceding be true, it seems to me impossible that an infinite number is greater than another infinite.
+
+ <!-- or even that it is greater than a finite number,  -->
+
+<!-- because if the infinite number were greater than, say, a million it would follow that on passing from the million to higher and higher numbers we would be approaching the infinite; 
+
+but this is not so;  -->
+
+On the contrary, the larger the number we reach, the more we recede from this property of infinity.
+
+This is because the greater the numbers, the fewer [relatively] are the squares contained in them.
+
+But the squares in infinity cannot be less than the totality of all the numbers. Hence, the approach to greater and greater numbers means a departure from infinity.
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-I do not understand how these large globules of water stand out and hold themselves up. But I know that it is not due to any internal tenacity acting between the particles of water. 
+Thus from your ingenious argument we are led to conclude that the attributes "larger," "smaller," and "equal" have no place either in:
+- comparing infinite quantities with each other
+- comparing infinite with finite quantities
 
-It follows that the cause is external.
+Lines and all continuous quantities are divisible into parts which are themselves divisible without end.
 
-Beside the experiments already shown to prove that the cause is not internal, I can offer another which is very convincing. 
+These lines are built up of an infinite number of indivisible quantities. This is because a division and a subdivision which can be carried on indefinitely presupposes that the parts are infinite in number. 
 
-If the particles of water which sustain themselves in a heap, while surrounded by air, did so in virtue of an internal cause then they would sustain themselves much more easily when surrounded by a medium in which they exhibit less tendency to fall than they do in air; such a medium would be any fluid heavier than air, as, for instance, wine: and therefore if some wine be poured about such a drop of water, the wine might rise until the drop was entirely covered, without the particles of water, held together by this internal coherence, ever parting company. 
+Otherwise, the subdivision would reach an end.
 
-But this is not the fact; for as soon as the wine touches the water, the latter without waiting to be covered scatters and spreads out underneath the wine if it be red. 
+If the parts are infinite in number, then they are not finite in size. This is because an infinite number of finite quantities would give an infinite magnitude.
 
-The cause of this effect is therefore external and is possibly to be found in the surrounding air. Indeed there appears to be a considerable antagonism between air and water as I have observed in the following experiment. 
+Thus we have a continuous quantity built up of an infinite number of indivisibles. 
+{{< /l >}}
 
-Having taken a glass globe which had a mouth of about the same diameter as a straw, I filled it with water and turned it mouth downwards; nevertheless, the water, although quite heavy and prone to descend, and the air, which is very light and disposed to rise through the water, refused, the one to descend and the other to ascend through the opening, but both remained stubborn and defiant. 
 
-On the other hand, as soon as I apply to this opening a glass of red wine, which is almost inappreciably lighter than water, red streaks are immediately observed to ascend slowly through the water while the water with equal slowness descends through the wine without mixing, until finally the globe is completely filled with wine and the water has all gone down into the vessel below. What then can we say except that there exists, between water and air, a certain incompatibility which I do not understand, but perhaps. . . .
+
+{{< r a="Simplicio" >}}
+But if we can carry on indefinitely the division into finite parts what necessity is there then for the introduction of non-finite parts?
+{{< /r >}}
+
+
+
+{{< l a="Salviati" >}}
+We are able to continue, without end, the division into finite parts [in parti quante].
+
+This is why quantity is composed of an infinite number of immeasurably small elements [di infiniti non quanti].  
+
+In order to settle this, is a continuum is made up of a finite or of an infinite number of finite parts [parti quante]?
 {{< /l >}}
 
 
 {{< r a="Simplicio" >}}
-I feel like laughing at the great antipathy which Salviati exhibits against the use of the word antipathy; and yet it is excellently adapted to explain the difficulty.
+Their number is potentially infinite but actually finite. It is:
+- potentially infinite before division
+- actually finite after division
+
+This is because parts cannot exist in a body which is not yet divided or at least marked out.*
+
+If this is not done we say that they exist potentially. 
 {{< /r >}}
+
+{{< n n="This is consistent with our 4 properties of waves applied to math operators" >}}
 
 
 {{< l a="Salviati" >}}
-Let 'antipathy' be the solution of our difficulty. 
+A line which is 20 spans long is not said to contain actually 20 lines each one span in length except after division into 20 equal parts.
 
-Returning from this digression, let us again take up our problem. We have already seen that the difference of speed between bodies of different specific gravities is most marked in those media which are the most resistant: thus, in a medium of quicksilver, gold not merely sinks to the bottom more rapidly than lead but it is the only substance that will descend at all; all other metals and stones rise to the surface and float. 
+Before division, it contains them only potentially.  
 
-On the other hand the variation of speed in air between balls of gold, lead, copper, porphyry, and other heavy materials is so slight that in a fall of 100 cubits a ball of gold would surely not outstrip one of copper by as much as four fingers. Having observed this I came to the conclusion that in a medium totally devoid of resistance all bodies would fall with the same speed.
+When the division is once made, is the size of the original quantity increased, diminished, or unaffected?
 {{< /l >}}
 
 
 {{< r a="Simplicio" >}}
-This is a remarkable statement, Salviati. But I shall never believe that even in a vacuum, if motion in such a place were possible, a lock of wool and a bit of lead can fall with the same velocity.
+It neither increases nor diminishes. 
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-Our problem is to find out what happens to bodies of different weight moving in a medium devoid of resistance, so that the only difference in speed is that which arises from inequality of weight. 
+I think so too.
 
-Since no medium except one entirely free from air and other bodies, be it ever so tenuous and yielding, can furnish our senses with the evidence we are looking for, and since such a medium is not available, we shall observe what happens in the rarest and least resistant media as compared with what happens in denser and more resistant media. 
+Therefore the finite parts [parti quante] in a continuum, whether actually or potentially present, do not make the quantity either larger or smaller.
 
-Because if we find as a fact that the variation of speed among bodies of different specific gravities is less and less according as the medium becomes more and more yielding, and if finally in a medium of extreme tenuity, though not a perfect vacuum, we find that, in spite of great diversity of specific gravity [peso], the difference in speed is very small and almost inappreciable, then we are justified in believing it highly probable that in a vacuum all bodies would fall with the same speed. 
+But if the number of finite parts actually contained in the whole is infinite in number, they will make the magnitude infinite.  
 
-What takes place in air? Imagine an inflated bladder. 
+Hence, the number of finite parts, although existing only potentially, cannot be infinite unless the magnitude containing them be infinite.
 
-The air in this bladder when surrounded by air will weigh little or nothing, since it can be only slightly compressed.
-
-Its weight then is small being merely that of the skin which does not amount to the thousandth part of a mass of lead having the same size as the inflated bladder.
-
-If we allow these two bodies to fall from a height of four or six cubits, by what distance do you imagine the lead will anticipate the bladder? 
-
-You may be sure that the lead will not travel three times, or even twice, as swiftly as the bladder, although vou would have made it move a thousand times as rapidly.
+Conversely, if the magnitude is finite it cannot contain an infinite number of finite parts either actually or potentially. 
 {{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-It may be during the first 4-6 cubits of the fall. But after the motion has continued a long while, I believe that the lead will have left the bladder behind not only six out of twelve parts of the distance but even 8-10.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-I agree with you. In very long distances, the lead might cover 100 miles while the bladder was traversing one; but, my dear Simplicio, this phenomenon which you adduce against my proposition is precisely the one which confirms it. 
-
-Let me once more explain that the variation of speed observed in bodies of different specific gravities is not caused by the difference of specific gravity but depends upon external circumstances and, in particular, upon the resistance of the medium, so that if this is removed all bodies would fall with the same velocity; and this result I deduce mainly from the fact which you have just admitted and which is very true, namely, that, in the case of bodies which differ widely in weight, their velocities differ more and more as the spaces traversed increase, something which would not occur if the effect depended upon differences of specific gravity. For since these specific gravities remain constant, the ratio between the distances traversed ought to remain constant whereas the fact is that this ratio keeps on increasing as the motion continues. 
-
-Thus a very heavy body in a fall of one cubit will not anticipate a very light one by so much as the tenth part of this space; but in a fall of 12 cubits the heavy body would outstrip the other by one-third, and in a fall of one hundred cubits by 90/100, etc.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-Very well. But, following your own line of argument, if differences of weight in bodies of different specific gravities cannot produce a change in the ratio of their speeds, on the ground that their specific gravities do not change, how is it possible for the medium, which also we suppose to remain constant, to bring about any change in the ratio of these velocities?
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-This objection with which you oppose my statement is clever; and I must meet it. I begin by saying that a heavy body has an inherent tendency to move with a constantly and uniformly accelerated motion toward the common center of gravity, that is, toward the center of our earth, so that during equal intervals of time it receives equal increments of momentum and velocity. This, you must understand, holds whenever all external and accidental hindrances have been removed; but of these there is one which we can never remove, namely, the medium which must be penetrated and thrust aside by the falling body. This quiet, yielding, fluid medium opposes motion through it with a resistance which is proportional to the rapidity with which the medium must give way to the passage of the body; which body, as I have said, is by nature continuously accelerated so that it meets with more and more resistance in the medium and hence a diminution in its rate of gain of speed until finally the speed reaches such a point and the resistance of the medium becomes so great that, balancing each other, they prevent any further acceleration and reduce the motion of the body to one which is uniform and which will thereafter maintain a constant value. There is, therefore, an increase in the resistance of the medium, not on account of any change in its essential properties, but on account of the change in rapidity with which it must yield and give way laterally to the passage of the falling body which is being constantly accelerated.
-
-Now seeing how great is the resistance which the air offers to the slight momentum [momento] of the bladder and how small that which it offers to the large weight [peso] of the lead, I am convinced that, if the medium were entirely removed, the advantage received by the bladder would be so great and that coming to the lead so small that their speeds would be equalized. Assuming this principle, that all falling bodies acquire equal speeds in a medium which, on account of a vacuum or something else, offers no resistance to the speed of the motion, we shall be able accordingly to determine the ratios of the speeds of both similar and dissimilar bodies moving either through one and the same medium or through different space-filling, and therefore resistant, media. This result we may obtain by observing how much the weight of the medium detracts from the weight of the moving body, which weight is the means employed by the falling body to open a path for itself and to push aside the parts of the medium, something which does not happen in a vacuum where, therefore, no difference [of speed] is to be expected from a difference of specific gravity. And since it is known that the effect of the medium is to diminish the weight of the body by the weight of the medium displaced, we may accomplish our purpose by diminishing in just this proportion the speeds of the falling bodies, which in a non-resisting medium we have assumed to be equal.
-
-Thus, for example, imagine lead to be ten thousand times as heavy as air while ebony is only one thousand times as heavy. Here we have two substances whose speeds of fall in a medium devoid of resistance are equal: but, when air is the medium, it will subtract from the speed of the lead one part in ten thousand, and from the speed of the ebony one part in one thousand, i. e. ten parts in ten thousand. While therefore lead and ebony would fall from any given height in the same interval of time, provided the retarding effect of the air were removed, the lead will, in air, lose in speed one part in ten thousand; and the ebony, ten parts in ten thousand. In other words, if the elevation from which the bodies start be divided into ten thousand parts, the lead will reach the ground leaving the ebony behind by as much as ten, or at least nine, of these parts. Is it not clear then that a leaden ball allowed to fall from a tower two hundred cubits high will outstrip an ebony ball by less than four inches? Now ebony weighs a thousand times as much as air but this inflated bladder only four times as much; therefore air diminishes the inherent and natural speed of ebony by one part in a thousand; while that of the bladder which, if free from hindrance, would be the same, experiences a diminution in air amounting to one part in four. So that when the ebony ball, falling from the tower, has reached the earth, the bladder will have traversed only three-quarters of this distance. Lead is twelve times as heavy as water; but ivory is only twice as heavy. The speeds of these two substances which, when entirely unhindered, are equal will be diminished in water, that of lead by one part in twelve, that of ivory by half. Accordingly when the lead has fallen through eleven cubits of water the ivory will have fallen through only six. Employing this principle we shall, I believe, find a much closer agreement of experiment with our computation than with that of Aristotle.
-
-In a similar manner we may find the ratio of the speeds of one and the same body in different fluid media, not by comparing the different resistances of the media, but by considering the excess of the specific gravity of the body above those of the media. Thus, for example, tin is one thousand times heavier than air and ten times heavier than water; hence, if we divide its unhindered speed into 1000 parts, air will rob it of one of these parts so that it will fall with a speed of 999, while in water its speed will be 900, seeing that water diminishes its weight by one part in ten while air by only one part in a thousand.
-
-Again take a solid a little heavier than water, such as oak, a ball of which will weigh let us say 1000 drachms; suppose an equal volume of water to weigh 950, and an equal volume of air, 2; then it is clear that if the unhindered speed of the ball is 1000, its speed in air will be 998, but in water only 50, seeing that the water removes 950 of the 1000 parts which the body weighs, leaving only 50.
-
-Such a solid would therefore move almost twenty times as fast in air as in water, since its specific gravity exceeds that of water by one part in twenty. And here we must consider the fact that only those substances which have a specific gravity greater than water can fall through it—substances which must, therefore, be hundreds of times heavier than air; hence when we try to obtain the ratio of the speed in air to that in water, we may, without appreciable error, assume that air does not, to any considerable extent, diminish the free weight [assoluta gravità], and consequently the unhindered speed [assoluta velocità] of such substances. Having thus easily found the excess of the weight of these substances over that of water, we can say that their speed in air is to their speed in water as their free weight [totale gravità] is to the excess of this weight over that of water. For example, a ball of ivory weighs 20 ounces; an equal volume of water weighs 17 ounces; hence the speed of ivory in air bears to its speed in water the approximate ratio of 20:3.
-{{< /l >}}
-
-
-Sagr.
-I have made a great step forward in this truly interesting subject upon which I have long labored in vain. In order to put these theories into practice we need only discover a method of determining the specific gravity of air with reference to water and hence with reference to other heavy substances.
-
-{{< r a="Simplicio" >}}
-But if we find that air has levity instead of gravity what then shall we say of the foregoing discussion which, in other respects, is very clever?
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-It was empty, vain, and trifling. 
-
-But can you doubt that air has weight when you have the clear testimony of Aristotle affirming that all the elements have weight including air, and excepting only fire? As evidence of this he cites the fact that a leather bottle weighs more when inflated than when collapsed.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-I believe that the increase of weight observed in the inflated leather bottle or bladder arises, not from the gravity of the air, but from the many thick vapors mingled with it in these lower regions. To this I would attribute the increase of weight in the leather bottle.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-I would not have you say this, and much less attribute it to Aristotle; because, if speaking of the elements, he wished to persuade me by experiment that air has weight and were to say to me: “Take a leather bottle, fill it with heavy vapors and observe how its weight increases,” I would reply that the bottle would weigh still more if filled with bran; and would then add that this merely proves that bran and thick vapors are heavy, but in regard to air I should still remain in the same doubt as before. However, the experiment of Aristotle is good and the proposition is true. But I cannot say as much of a certain other consideration, taken at face value; this consideration was offered by a philosopher whose name slips me; but I know I have read his argument which is that air exhibits greater gravity than levity, because it carries heavy bodies downward more easily than it does light ones upward.
-{{< /l >}}
-
-
-Sagr.
-Fine indeed! So according to this theory air is much heavier than water, since all heavy bodies are carried downward more easily through air than through water, and all light bodies buoyed up more easily through water than through air; further there is an infinite number of heavy bodies which fall through air but ascend in water and there is an infinite number of substances which rise in water and fall in air. But, Simplicio, the question as to whether the weight of the leather bottle is owing to thick vapors or to pure air does not affect our problem which is to discover how bodies move through this vapor-laden atmosphere of ours. Returning now to the question which interests me more, I should like, for the sake of more complete and thorough knowledge of this matter, not only to be strengthened in my belief that air has weight but also to learn, if possible, how great its specific gravity is. Therefore, Salviati, if you can satisfy my curiosity on this point pray do so.
-
-
-{{< l a="Salviati" >}}
-The experiment with the inflated leather bottle of Aristotle proves conclusively that air possesses positive gravity and not, as some have believed, levity, a property possessed possibly by no substance whatever; for if air did possess this quality of absolute and positive levity, it should on compression exhibit greater levity and, hence, a greater tendency to rise; but experiment shows precisely the opposite.
-
-As to the other question, namely, how to determine the specific gravity of air, I have employed the following method. I took a rather large glass bottle with a narrow neck and attached to it a leather cover, binding it tightly about the neck of the bottle: in the top of this cover I inserted and firmly fastened the valve of a leather bottle, through which I forced into the glass bottle, by means of a syringe, a large quantity of air. And since air is easily condensed one can pump into the bottle two or three times its own volume of air. After this I took an accurate balance and weighed this bottle of compressed air with the utmost precision, adjusting the weight with fine sand. I next opened the valve and allowed the compressed air to escape; then replaced the flask upon the balance and found it perceptibly lighter: from the sand which had been used as a counterweight I now removed and laid aside as much as was necessary to again secure balance. Under these conditions there can be no doubt but that the weight of the sand thus laid aside represents the weight of the air which had been forced into the flask and had afterwards escaped. But after all this experiment tells me merely that the weight of the compressed air is the same as that of the sand removed from the balance; when however it comes to knowing certainly and definitely the weight of air as compared with that of water or any other heavy substance this I cannot hope to do without first measuring the volume [quantità] of compressed air; for this measurement I have devised the two following methods.
-
-According to the first method one takes a bottle with a narrow neck similar to the previous one; over the mouth of this bottle is slipped a leather tube which is bound tightly about the neck of the flask; the other end of this tube embraces the valve attached to the first flask and is tightly bound about it. This second flask is provided with a hole in the bottom through which an iron rod can be placed so as to open, at will, the valve above mentioned and thus permit the surplus air of the first to escape after it has once been weighed: but his second bottle must be filled with water. Having prepared everything in the manner above described, open the valve with the rod; the air will rush into the flask containing the water and will drive it through the hole at the bottom, it being clear that the volume [quantità] of water thus displaced is equal to the volume [mole e quantità] of air escaped from the other vessel. Having set aside this displaced water, weigh the vessel from which the air has escaped (which is supposed to have been weighed previously while containing the compressed air), and remove the surplus of sand as described above; it is then manifest that the weight of this sand is precisely the weight of a volume [mole] of air equal to the volume of water displaced and set aside; this water we can weigh and find how many times its weight contains the weight of the removed sand, thus determining definitely how many times heavier water is than air; and we shall find, contrary to the opinion of Aristotle, that this is not 10 times, but, as our experiment shows, more nearly 400 times.
-
-The second method is more expeditious and can be carried out with a single vessel fitted up as the first was. Here no air is added to that which the vessel naturally contains but water is forced into it without allowing any air to escape; the water thus introduced necessarily compresses the air. Having forced into the vessel as much water as possible, filling it, say, three-fourths full, which does not require any extraordinary effort, place it upon the balance and weigh it accurately; next hold the vessel mouth up, open the valve, and allow the air to escape; the volume of the air thus escaping is precisely equal to the volume of water contained in the flask. Again weigh the vessel which will have diminished in weight on account of the escaped air; this loss in weight represents the weight of a volume of air equal to the volume of water contained in the vessel.
-{{< /l >}}
-
-
-Simp.
-No one can deny the cleverness and ingenuity of your devices; but while they appear to give complete intellectual satisfaction they confuse me in another direction. For since it is undoubtedly true that the elements when in their proper places have neither weight nor levity, I cannot understand how it is possible for that portion of air, which appeared to weigh, say, 4 drachms of sand, should really have such a weight in air as the sand which counterbalances it. It seems to me, therefore, that the experiment should be carried out, not in air, but in a medium in which the air could exhibit its property of weight if such it really has.
-
-
-
-{{< l a="Salviati" >}}
-The objection of Simplicio is certainly to the point and must therefore either be unanswerable or demand an equally clear solution. 
-
-It is perfectly evident that that air which, under compression, weighed as much as the sand, loses this weight when once allowed to escape into its own element, while, indeed, the sand retains its weight. 
-
-Hence for this experiment it becomes necessary to select a place where air as well as sand can gravitate; because, as has been often remarked, the medium diminishes the weight of any substance immersed in it by an amount equal to the weight of the displaced medium; so that air in air loses all its weight. 
-
-If therefore this experiment is to be made with accuracy it should be performed in a vacuum where every heavy body exhibits its momentum without the slightest diminution. If then, Simplicio, we were to weigh a portion of air in a vacuum would you then be satisfied and assured of the fact?
-{{< /l >}}
-
-
-Simp.
-Yes truly: but this is to wish or ask the impossible.
-
-
-{{< l a="Salviati" >}}
-Your obligation will then be very great if, for your sake, I accomplish the impossible. But I do not want to sell you something which I have already given you; for in the previous experiment we weighed the air in vacuum and not in air or other medium. 
-
-The fact that any fluid medium diminishes the weight of a mass immersed in it, is due, Simplicio, to the resistance which this medium offers to its being opened up, driven aside, and finally lifted up. The evidence for this is seen in the readiness with which the fluid rushes to fill up any space formerly occupied by the mass; if the medium were not affected by such an immersion then it would not react against the immersed body. Tell me now, when you have a flask, in air, filled with its natural amount of air and then proceed to pump into the vessel more air, does this extra charge in any way separate or divide or change the circumambient air? Does the vessel perhaps expand so that the surrounding medium is displaced in order to give more room? 
-
-Certainly not. Therefore one is able to say that this extra charge of air is not immersed in the surrounding medium for it occupies no space in it, but is, as it were, in a vacuum.
-
-It is really in a vacuum; for it diffuses into the vacuities which are not completely filled by the original and uncondensed air. 
-
-In fact I do not see any difference between the enclosed and the surrounding media: for the surrounding medium does not press upon the enclosed medium and, vice versa, the enclosed medium exerts no pressure against the surrounding one; this same relationship exists in the case of any matter in a vacuum, as well as in the case of the extra charge of air compressed into the flask. 
-
-The weight of this condensed air is therefore the same as that which it would have if set free in a vacuum. It is true of course that the weight of the sand used as a counterpoise would be a little greater in vacuo than in free air. We must, then, say that the air is slightly lighter than the sand required to counterbalance it, that is to say, by an amount equal to the weight in vacuo of a volume of air equal to the volume of the sand.
-
-At this point in an annotated copy of the original edition the following note by Galileo is found.
-{{< /l >}}
-
-
-[Sagr. A very clever discussion, solving a wonderful problem, because it demonstrates briefly and concisely the manner in which one may find the weight of a body in vacuo by simply weighing it in air. The explanation is as follows: when a heavy body is immersed in air it loses in weight an amount equal to the weight of a volume [mole] of air equivalent to the volume [mole] of the body itself. Hence if one adds to a body, without expanding it, a quantity of air equal to that which it displaces and weighs it, he will obtain its absolute weight in vacuo, since, without increasing it in size, he has increased its weight by just the amount which it lost through immersion in air.
-
-When therefore we force a quantity of water into a vessel which already contains its normal amount of air, without allowing any of this air to escape it is clear that this normal quantity of air will be compressed and condensed into a smaller space in order to make room for the water which is forced in: it is also clear that the volume of air thus compressed is equal to the volume of water added. If now the vessel be weighed in air in this condition, it is manifest that the weight of the water will be increased by that of an equal volume of air; the total weight of water and air thus obtained is equal to the weight of the water alone in vacuo.
-
-Now record the weight of the entire vessel and then allow the compressed air to escape; weigh the remainder; the difference of these two weights will be the weight of the compressed air which, in volume, is equal to that of the water. Next find the weight of the water alone and add to it that of the compressed air; we shall then have the water alone in vacuo. To find the weight of the water we shall have to remove it from the vessel and weigh the vessel alone; subtract this weight from that of the vessel and water together. It is clear that the remainder will be the weight of the water alone in air.]
-
-
-{{< r a="Simplicio" >}}
-The previous experiments, in my opinion, left something to be desired: but now I am fully satisfied.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-The facts set forth by me up to this point and, in particular, the one which shows that difference of weight, even when very great, is without effect in changing the speed of falling bodies, so that as far as weight is concerned they all fall with equal speed: this idea is, I say, so new, and at first glance so remote from fact, that if we do not have the means of making it just as clear as sunlight, it had better not be mentioned; but having once allowed it to pass my lips I must neglect no experiment or argument to establish it.
-{{< /l >}}
-
-
-Sagr.
-Not only this but also many other of your views are so far removed from the commonly accepted opinions and doctrines that if you were to publish them you would stir up a large number of antagonists; for human nature is such that men do not look with favor upon discoveries—either of truth or fallacy—in their own field, when made by others than themselves. They call him an innovator of doctrine, an unpleasant title, by which they hope to cut those knots which they cannot untie, and by subterranean mines they seek to destroy structures which patient artisans have built with customary tools. But as for ourselves who have no such thoughts, the experiments and arguments which you have thus far adduced are fully satisfactory; however if you have any experiments which are more direct or any arguments which are more convincing we will hear them with pleasure.
-
-
-
-{{< l a="Salviati" >}}
-The experiment made to ascertain whether two bodies, differing greatly in weight will fall from a given height with the same speed offers some difficulty; because, if the height is considerable, the retarding effect of the medium, which must be penetrated and thrust aside by the falling body, will be greater in the case of the small momentum of the very light body than in the case of the great force [violenza] of the heavy body; so that, in a long distance, the light body will be left behind; if the height be small, one may well doubt whether there is any difference; and if there be a difference it will be inappreciable.
-
-It occurred to me therefore to repeat many times the fall through a small height in such a way that I might accumulate all those small intervals of time that elapse between the arrival of the heavy and light bodies respectively at their common terminus, so that this sum makes an interval of time which is not only observable, but easily observable. In order to employ the slowest speeds possible and thus reduce the change which the resisting medium produces upon the simple effect of gravity it occurred to me to allow the bodies to fall along a plane slightly inclined to the horizontal. 
-
-For in such a plane, just as well as in a vertical plane, one may discover how bodies of different weight behave: and besides this, I also wished to rid myself of the resistance which might arise from contact of the moving body with the aforesaid inclined plane. 
-
-Accordingly I took two balls, one of lead and one of cork, the former more than a hundred times heavier than the latter, and suspended them by means of 2 equal fine threads, each four or five cubits long. Pulling each ball aside from the perpendicular, I let them go at the same instant, and they, falling along the circumferences of circles having these equal strings for semi-diameters, passed beyond the perpendicular and returned along the same path. 
-
-This free vibration [per lor medesime le andate e le tornate] repeated a hundred times showed clearly that the heavy body maintains so nearly the period of the light body that neither in a hundred swings nor even in a thousand will the former anticipate the latter by as much as a single moment [minimo momento], so perfectly do they keep step. 
-
-We can also observe the effect of the medium which, by the resistance which it offers to motion, diminishes the vibration of the cork more than that of the lead, but without altering the frequency of either; even when the arc traversed by the cork did not exceed five or six degrees while that of the lead was fifty or 60, the swings were performed in equal times.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-If this be so, why is not the speed of the lead greater than that of the cork, seeing that the former traverses 60 degrees in the same interval in which the latter covers scarcely six?
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-But if both covered their paths in the same time when the cork, drawn aside through thirty degrees, traverses an arc of 60, while the lead pulled aside only two degrees traverses an arc of four? 
-
-Would not then the cork be proportionately swifter? And yet such is the experimental fact. 
-
-Having pulled aside the pendulum of lead, say through an arc of fifty degrees, and set it free, it swings beyond the perpendicular almost fifty degrees, thus describing an arc of nearly one hundred degrees; on the return swing it describes a little smaller arc; 
-
-After a large number of such vibrations it finally comes to rest. Each vibration, whether of ninety, fifty, twenty, ten, or four degrees occupies the same time: accordingly the speed of the moving body keeps on diminishing since in equal intervals of time, it traverses arcs which grow smaller and smaller.
-
-Precisely the same things happen with the pendulum of cork, suspended by a string of equal length, except that a smaller number of vibrations is required to bring it to rest, since on account of its lightness it is less able to overcome the resistance of the air; 
-
-Nevertheless the vibrations, whether large or small, are all performed in time-intervals which are not only equal among themselves, but also equal to the period of the lead pendulum. 
-
-Hence if while the lead is traversing an arc of fifty degrees the cork covers one of only ten, the cork moves more slowly than the lead; but on the other hand it is also true that the cork may cover an arc of fifty while the lead passes over one of only ten or six; thus, at different times, we have now the cork, now the lead, moving more rapidly. But if these same bodies traverse equal arcs in equal times we may rest assured that their speeds are equal.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-I hesitate to admit the conclusiveness of this argument because of the confusion which arises from your making both bodies move now rapidly, now slowly and now very slowly, which leaves me in doubt as to whether their velocities are always equal.
-{{< /r >}}
 
 
 {{< r a="Sagredo" >}}
-Allow me, if you please, Salviati, to say just a few words. Now tell me, Simplicio, whether you admit that one can say with certainty that the speeds of the cork and the lead are equal whenever both, starting from rest at the same moment and descending the same slopes, always traverse equal spaces in equal times?
+How then is it possible to divide a continuum without limit into parts which are themselves always capable of subdivision?
 {{< /r >}}
+
+
+{{< l a="Salviati" >}}
+This distinction of yours between actual and potential appears to render easy by one method what would be impossible by another.  
+
+But I shall reconcile these matters in another way.
+
+ and as to the query whether the finite parts of a limited continuum [continuo terminato] are finite or infinite in number I will, contrary to the opinion of Simplicio, answer that they are neither finite nor infinite. 
+{{< /l >}}
+
 
 
 {{< r a="Simplicio" >}}
-This can neither be doubted nor gainsaid.
+This answer would never have occurred to me since I did not think that there existed any intermediate step between the finite and the infinite, so that the classification or distinction which assumes that a thing must be either finite or infinite is faulty and defective. 
 {{< /r >}}
 
 
-{{< r a="Sagredo" >}}
-In the case of the pendulums, that each of them traverses now an arc of 60 degrees, now one of fifty, or thirty or ten or eight or four or two, etc.
-
-When they both swing through an arc of 60 degrees they do so in equal intervals of time.
-
-The same thing happens when the arc is fifty degrees or thirty or ten or any other number; and therefore we conclude that the speed of the lead in an arc of 60 degrees is equal to the speed of the cork when the latter also swings through an arc of 60 degrees; in the case of a fifty-degree arc these speeds are also equal to each other; so also in the case of other arcs. 
-
-But this is not saying that the speed which occurs in an arc of 60 is the same as that which occurs in an arc of fifty; nor is the speed in an arc of fifty equal to that in one of thirty, etc.; but the smaller the arcs, the smaller the speeds.
-
-The fact observed is that one and the same moving body requires the same time for traversing a large arc of 60 degrees as for a small arc of fifty or even a very small arc of ten; all these arcs, , are covered in the same interval of time. It is true therefore that the lead and the cork each diminish their speed [moto] in proportion as their arcs diminish; but this does not contradict the fact that they maintain equal speeds in equal arcs.
-
-I thought Simplicio had any need of a clearer explanation than that given by Salviati which like everything else of his is extremely lucid, so lucid, indeed, that when he solves questions which are difficult not merely in appearance, but in reality and in fact, he does so with reasons, observations and experiments which are common and familiar to everyone.
-
-In this manner he has, as I have learned from various sources, given occasion to a highly esteemed professor for undervaluing his discoveries on the ground that they are commonplace, and established upon a mean and vulgar basis; as if it were not a most admirable and praiseworthy feature of demonstrative science that it springs from and grows out of principles well-known, understood and conceded by all.
-
-But let us continue with this light diet; and if Simplicio is satisfied to understand and admit that the gravity inherent [interna gravità] in various falling bodies has nothing to do with the difference of speed observed among them, and that all bodies, in so far as their speeds depend upon it, would move with the same velocity, pray tell us, Salviati, how you explain the appreciable and evident inequality of motion; please reply also to the objection urged by Simplicio—an objection in which I concur—namely, that a cannon ball falls more rapidly than a bird-shot. 
-
-From my point of view, one might expect the difference of speed to be small in the case of bodies of the same substance moving through any single medium, whereas the larger ones will descend, during a single pulse-beat, a distance which the smaller ones will not traverse in an hour, or in four, or even in twenty hours; as for instance in the case of stones and fine sand and especially that very fine sand which produces muddy water and which in many hours will not fall through as much as two cubits, a distance which stones not much larger will traverse in a single pulse-beat.
-{{< /r >}}

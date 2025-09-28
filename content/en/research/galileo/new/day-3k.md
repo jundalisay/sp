@@ -2,7 +2,7 @@
 heading: Day 4c
 title: "Small Scale Versus Large Scale"
 # date: 2025-05-15
-weight: 40
+weight: 99
 description: "You Venetians display constant activity in your famous arsenal. It is a great way to learn about mechanics."
 c: "darkgoldenrod"
 ---
@@ -11,14 +11,32 @@ c: "darkgoldenrod"
 
 ## LEMMA
 
-Let ACIB be the quadrant of a circle; from B draw BE parallel to AC; about any point in the line BE describe a circle BOES, touching AB at B and intersecting the circumference of the quadrant at I. Join the points C and B; draw the line CI, prolonging it to S. Then, I say, the line CI is always less than CO. 
+Let `ACIB` be the quadrant of a circle. From `B` draw `BE` parallel to `AC`.
 
-Draw the line AI touching the circle BOE. Then, if the line DI be drawn, it will be equal to DB; but, since DB touches the quadrant, DI will also be tangent to it and will be at right angles to AI; thus AI touches the circle BOE at I. And since the angle AIC is greater than the angle ABC, subtending as it does a larger arc, it follows that the angle SIN is also greater than the angle ABC. Wherefore the arc IES is greater than the arc BO, and the line CS, being nearer the center, is longer than CB. Consequently CO is greater than CI, since SC:CB=OC:CI.
+Around any point in the line `BE` draw a circle `BOES`, touching `AB` at `B` and intersecting the circumference of the quadrant at `I`.
+
+Join the points `C` and `B`. Draw the line `CI`, prolonging it to `S`.
+
+Then the line `CI` is always less than `CO`. 
+
+Draw the line `AI` touching the circle `BOE`.
+
+Then, if the line `DI` is drawn, it will be equal to `DB`.
+
+But, since `DB` touches the quadrant, `DI` will also be tangent to it and will be at right angles to AI.
+
+Thus `AI` touches the circle BOE at `I`. 
+
+Since the angle AIC is greater than the angle ABC, subtending as it does a larger arc, it follows that the angle SIN is also greater than the angle ABC.
+
+Wherefore the arc IES is greater than the arc BO, and the line CS, being nearer the center, is longer than CB. Consequently CO is greater than CI, since SC:CB=OC:CI.
 
 
 Fig. 101
 
-This result would be all the more marked if, as in the second figure, the arc BIC were less than a quadrant. For the perpendicular DB would then cut the circle CIB; and so also would DI which is equal to BD; the angle DIA would be obtuse and therefore the line AIN would cut the circle BIE. Since the angle ABC is less than the angle AIC, which is equal to SIN, and still less than the angle which the tangent at I would make with the line SI, it follows that the arc SEI is far greater than the arc BO; whence, etc.
+This result would be all the more marked if, as in the second figure, the arc BIC were less than a quadrant. For the perpendicular DB would then cut the circle CIB.
+
+And so also would DI which is equal to BD; the angle DIA would be obtuse and therefore the line AIN would cut the circle BIE. Since the angle ABC is less than the angle AIC, which is equal to SIN, and still less than the angle which the tangent at I would make with the line SI, it follows that the arc SEI is far greater than the arc BO; whence, etc.
 
 q. e. d.
 
@@ -89,7 +107,7 @@ Fig. 104
 From this it is clear that the distance sought is bounded at each end by portions of the inclined plane which are traversed in equal times.
 
 
-## Problem 16, Proposition 38\
+## Problem 16, Proposition 38
 
 Given 2 horizontal planes cut by a vertical line, it is required to find a point on the upper part of the vertical line from which bodies may fall to the horizontal planes and there, having their motion deflected into a horizontal direction, will, during an interval equal to the time of fall, traverse distances which bear to each other any assigned ratio of a smaller quantity to a larger.
 
@@ -106,20 +124,25 @@ q. e. f.
 
 Fig. 105
 
-Sagr.
 
-I think we may concede to our Academician, without flattery, his claim that in the principle [principio, i. e., accelerated motion] laid down in this treatise he has established a new science dealing with a very old subject. Observing with what ease and clearness he deduces from a single principle the proofs of so many theorems, I wonder not a little how such a question escaped the attention of Archimedes, Apollonius, Euclid and so many other mathematicians and illustrious philosophers, especially since so many ponderous tomes have been devoted to the subject of motion.
+{{< r a="Sagredo" >}}
+I think we may concede to our Academician, without flattery, his claim that in the principle [principio, i. e., accelerated motion] laid down in this treatise he has established a new science dealing with a very old subject. 
+
+Observing with what ease and clearness he deduces from a single principle the proofs of so many theorems, I wonder not a little how such a question escaped the attention of Archimedes, Apollonius, Euclid and so many other mathematicians and illustrious philosophers, especially since so many ponderous tomes have been devoted to the subject of motion.
+{{< /r >}}
 
 
-Salv.
-
+{{< l a="Salviati" >}}
 There is a fragment of Euclid which treats of motion, but in it there is no indication that he ever began to investigate the property of acceleration and the manner in which it varies with slope. So that we may say the door is now opened, for the first time, to a new method fraught with numerous and wonderful results which in future years will command the attention of other minds.
+{{< /l >}}
 
-Sagr.
+{{< r a="Sagredo" >}}
+The few properties of the circle proven by Euclid in Elements Book 3 lead to many others more recondite, so the principles which are set forth in this little treatise will, when taken up by speculative minds, lead to many another more remarkable result.
 
-I really believe that just as, for instance, the few properties of the circle proven by Euclid in the Third Book of his Elements lead to many others more recondite, so the principles which are set forth in this little treatise will, when taken up by speculative minds, lead to many another more remarkable result; and it is to be believed that it will be so on account of the nobility of the subject, which is superior to any other in nature.
+and it is to be believed that it will be so on account of the nobility of the subject, which is superior to any other in nature.
 
 During this long and laborious day, I have enjoyed these simple theorems more than their proofs, many of which, for their complete comprehension, would require more than an hour each; this study, if you will be good enough to leave the book in my hands, is one which I mean to take up at my leisure after we have read the remaining portion which deals with the motion of projectiles; and this if agreeable to you we shall take up tomorrow.
+{{< /r >}}
+
 
 end of the third day.
-

@@ -1,118 +1,135 @@
 ---
-heading: Day 1j
-title: "Small Scale Versus Large Scale"
+heading: Day 1k
+title: "Rest Versus Motion"
 # date: 2025-05-15
-weight: 18
+weight: 24
 description: ""
 c: "darkgoldenrod"
 ---
 
 
-{{< l a="Salviati" >}}
-The action of the medium in producing a greater retardation upon those bodies which have a less specific gravity has already been explained by showing that they experience a diminution of weight. But to explain how one and the same medium produces such different retardations in bodies which are made of the same material and have the same shape, but differ only in size, requires a discussion more clever than that by which one explains how a more expanded shape or an opposing motion of the medium retards the speed of the moving body. The solution of the present problem lies, I think, in the roughness and porosity which are generally and almost necessarily found in the surfaces of solid bodies. When the body is in motion these rough places strike the air or other ambient medium. The evidence for this is found in the humming which accompanies the rapid motion of a body through air, even when that body is as round as possible. One hears not only humming, but also hissing and whistling, whenever there is any appreciable cavity or elevation upon the body. We observe also that a round solid body rotating in a lathe produces a current of air. But what more do we need? When a top spins on the ground at its greatest speed do we not hear a distinct buzzing of high pitch? This sibilant note diminishes in pitch as the speed of rotation slackens, which is evidence that these small rugosities on the surface meet resistance in the air. There can be no doubt, therefore, that in the motion of falling bodies these rugosities strike the surrounding fluid and retard the speed; and this they do so much the more in proportion as the surface is larger, which is the case of small bodies as compared with greater.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-Stop a moment please, I am getting confused. For although I understand and admit that friction of the medium upon the surface of the body retards its motion and that, if other things are the same, the larger surface suffers greater retardation, I do not see on what ground you say that the surface of the smaller body is larger.
-
-Besides if, as you say, the larger surface suffers greater retardation the larger solid should move more slowly, which is not the fact. But this objection can be easily met by saying that, although the larger body has a larger surface, it has also a greater weight, in comparison with which the resistance of the larger surface is no more than the resistance of the small surface in comparison with its smaller weight; so that the speed of the larger solid does not become less. I therefore see no reason for expecting any difference of speed so long as the driving weight [gravità movente] diminishes in the same proportion as the retarding power [facoltà ritardante] of the surface.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-I shall answer all your objections at once. You will admit, of course, Simplicio, that if one takes two equal bodies, of the same material and same figure, bodies which would therefore fall with equal speeds, and if he diminishes the weight of one of them in the same proportion as its surface (maintaining the similarity of shape) he would not thereby diminish the speed of this body.
-{{< /l >}}
-
-
-
-{{< r a="Simplicio" >}}
-This inference seems to be in harmony with your theory which states that the weight of a body has no effect in either accelerating or retarding its motion.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-I agree. If the weight of a body is diminished in greater proportion than its surface, the motion is retarded to a certain extent; and this retardation is greater and greater in proportion as the diminution of weight exceeds that of the surface.
-{{< /l >}}
-
-{{< r a="Simplicio" >}}
-This I admit without hesitation.
-{{< /r >}}
-
-
-{{< l a="Salviati" >}}
-It is not possible to diminish the surface of a solid body in the same ratio as the weight, and at the same time maintain similarity of figure. For since it is clear that in the case of a diminishing solid the weight grows less in proportion to the volume, and since the volume always diminishes more rapidly than the surface, when the same shape is maintained, the weight must therefore diminish more rapidly than the surface. But geometry teaches us that, in the case of similar solids, the ratio of two volumes is greater than the ratio of their surfaces; which, for the sake of better understanding, I shall illustrate by a particular case.
-
-Take, for example, a cube two inches on a side so that each face has an area of four square inches and the total area, i. e., the sum of the six faces, amounts to twenty-four square inches; now imagine this cube to be sawed through three times so as to divide it into eight smaller cubes, each one inch on the side, each face one inch square, and the total surface of each cube six square inches instead of twenty-four as in the case of the larger cube. It is evident therefore that the surface of the little cube is only one-fourth that of the larger, namely, the ratio of six to twenty-four; but the volume of the solid cube itself is only one-eighth; the volume, and hence also the weight, diminishes therefore much more rapidly than the surface. If we again divide the little cube into eight others we shall have, for the total surface of one of these, one and one-half square inches, which is one-sixteenth of the surface of the original cube; but its volume is only one-sixty-fourth part. Thus, by two divisions, you see that the volume is diminished four times as much as the surface. And, if the subdivision be continued until the original solid be reduced to a fine powder, we shall find that the weight of one of these smallest particles has diminished hundreds and hundreds of times as much as its surface. And this which I have illustrated in the case of cubes holds also in the case of all similar solids, where the volumes stand in sesquialteral ratio to their surfaces. Observe then how much greater the resistance, arising from contact of the surface of the moving body with the medium, in the case of small bodies than in the case of large; and when one considers that the rugosities on the very small surfaces of fine dust particles are perhaps no smaller than those on the surfaces of larger solids which have been carefully polished, he will see how important it is that the medium should be very fluid and offer no resistance to being thrust aside, easily yielding to a small force. You see, therefore, Simplicio, that I was not mistaken when, not long ago, I said that the surface of a small solid is comparatively greater than that of a large one.
-{{< /l >}}
-
-
-{{< r a="Simplicio" >}}
-I am convinced. If I were again beginning my studies, I would follow Plato's advice and start with mathematics, a science which proceeds very cautiously and admits nothing as established until it has been rigidly demonstrated.
-{{< /r >}}
-
-
-Sagr.
-This discussion has afforded me great pleasure; but before proceeding further I should like to hear the explanation of a phrase of yours which is new to me, namely, that similar solids are to each other in the sesquialteral ratio of their surfaces; for although I have seen and understood the proposition in which it is demonstrated that the surfaces of similar solids are in the duplicate ratio of their sides and also the proposition which proves that the volumes are in the triplicate ratio of their sides, yet I have not so much as heard mentioned the ratio of the volume of a solid to its surface.
-
-
-{{< l a="Salviati" >}}
-You yourself have suggested the answer to your question and have removed every doubt. For if one quantity is the cube of something of which another quantity is the square does it not follow that the cube is the sesquialteral of the square? Surely. 
-
-Now if the surface varies as the square of its linear dimensions while the volume varies as the cube of these dimensions may we not say that the volume stands in sesquialteral ratio to the surface?
-{{< /l >}}
-
-
 
 {{< r a="Sagredo" >}}
-Quite so. Our main topic is the properties found in the resistance which solid bodies offer to fracture.
-{{< /r >}}
-
-
-Salv.
-Very well; but the questions which we have already considered are so numerous and so varied, and have taken up so much time that there is not much of this day left to spend upon our main topic which abounds in geometrical demonstrations calling for careful consideration. May I, therefore, suggest that we postpone the meeting until to-morrow, not only for the reason just mentioned but also in order that I may bring with me some papers in which I have set down in an orderly way the theorems and propositions dealing with the various phases of this subject, matters which, from memory alone, I could not present in the proper order.
-
-
-{{< r a="Sagredo" >}}
-I fully concur in your opinion and all the more willingly because this will leave time to-day to take up some of my difficulties with the subject which we have just been discussing. One question is whether we are to consider the resistance of the medium as sufficient to destroy the acceleration of a body of very heavy material, very large volume, and spherical figure. I say spherical in order to select a volume which is contained within a minimum surface and therefore less subject to retardation.
-
-Another question deals with the vibrations of pendulums which may be regarded from several viewpoints; the first is whether all vibrations, large, medium, and small, are performed in exactly and precisely equal times: another is to find the ratio of the times of vibration of pendulums supported by threads of unequal length.
-{{< /r >}}
-
-
-Salv.
-These are interesting questions: but I fear that here, as in the case of all other facts, if we take up for discussion any one of them, it will carry in its wake so many other facts and curious consequences that time will not remain to-day for the discussion of all.
-
-
-{{< r a="Sagredo" >}}
-If these are as full of interest as the foregoing, I would gladly spend as many days as there remain hours between now and nightfall; and I dare say that Simplicio would not be wearied by these discussions.
-{{< /r >}}
-
-
-{{< r a="Simplicio" >}}
-Certainly not; especially when the questions pertain to natural science and have not been treated by other philosophers.
+Do substances become fluid by being resolved into their infinitely small indivisible components?
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-I assert that there is no sphere so large, or composed of material so dense but that the resistance of the medium, although very slight, would check its acceleration and would, in time reduce its motion to uniformity; a statement which is strongly supported by experiment. For if a falling body, as time goes on, were to acquire a speed as great as you please, no such speed, impressed by external forces [motore esterno], can be so great but that the body will first acquire it and then, owing to the resisting medium, lose it. 
+<!-- I am not able to find any better means of accounting for certain phenomena of which the following is one.   -->
 
-Thus, for instance, if a cannon ball, having fallen a distance of four cubits through the air and having acquired a speed of, say, ten units [gradi] were to strike the surface of the water, and if the resistance of the water were not able to check the momentum [impeto] of the shot, it would either increase in speed or maintain a uniform motion until the bottom were reached: but such is not the observed fact; on the contrary, the water when only a few cubits deep hinders and diminishes the motion in such a way that the shot delivers to the bed of the river or lake a very slight impulse. 
+I take a hard substance such as stone. Then I reduce it through a hammer into powder which are still:
+- finite in size
+- have shape
+- can be counted
 
-If a short fall through the water is sufficient to deprive a cannon ball of its speed, this speed cannot be regained by a fall of even a thousand cubits. 
+Once heaped up, they remain in a heap.
 
-How could a body acquire, in a fall of a thousand cubits, that which it loses in a fall of four? But what more is needed? Do we not observe that the enormous momentum, delivered to a shot by a cannon, is so deadened by passing through a few cubits of water that the ball, so far from injuring the ship, barely strikes it? Even the air, although a very yielding medium, can also diminish the speed of a falling body, as may be easily understood from similar experiments. For if a gun be fired downwards from the top of a very high tower the shot will make a smaller impression upon the ground than if the gun had been fired from an elevation of only four or six cubits; this is clear evidence that the momentum of the ball, fired from the top of the tower, diminishes continually from the instant it leaves the barrel until it reaches the ground. 
+If an excavation be made within limits the cavity will remain and the surrounding particles will not rush in to fill it; if shaken the particles come to rest immediately after the external disturbing agent is removed; 
 
-Therefore a fall from ever so great an altitude will not suffice to give to a body that momentum which it has once lost through the resistance of the air, no matter how it was originally acquired. In like manner, the destructive effect produced upon a wall by a shot fired from a gun at a distance of twenty cubits cannot be duplicated by the fall of the same shot from any altitude however great. My opinion is, therefore, that under the circumstances which occur in nature, the acceleration of any body falling from rest reaches an end and that the resistance of the medium finally reduces its speed to a constant value which is thereafter maintained.
+The same effects are observed in all piles of larger and larger particles, of any shape, even if spherical, as is the case with piles of millet, wheat, lead shot, and every other material.  
+
+But if we attempt to discover such properties in water we do not find them; for when once heaped up it immediately flattens out unless held up by some vessel or other external retaining body; when hollowed out it quickly rushes in to fill the cavity; and when disturbed it fluctuates for a long time and sends out its waves through great distances. 
+
+Seeing that water has less firmness than the finest of powder, in fact has no consistence whatever, we may, it seems to me, very reasonably conclude that the smallest particles into which it can be resolved are quite different from finite and divisible particles; indeed the only difference I am able to discover is that the former are indivisible.  
+
+The exquisite transparency of water also favors this view; for the most transparent crystal when broken and ground and reduced to powder loses its transparency; 
+
+The finer the grinding the greater the loss; but in the case of water where the attrition is of the highest degree we have extreme transparency.  
+
+Gold and silver when pulverized with acids [acque forti] more finely than is possible with any file still remain powders,* and do not become fluids until the finest particles [gl' indivisibili] of fire or of the rays of the sun dissolve them, as I think, into their ultimate, indivisible, and infinitely small components. 
 {{< /l >}}
 
 
 {{< r a="Sagredo" >}}
-These experiments are in my opinion much to the purpose; the only question is whether an opponent might not make bold to deny the fact in the case of bodies [moli] which are very large and heavy or to assert that a cannon ball, falling from the distance of the moon or from the upper regions of the atmosphere, would deliver a heavier blow than if just leaving the muzzle of the gun.
+I have seen lead melted instantly through a concave mirror only 3 hands [palmi] in diameter.
+
+Hence if the mirror were very large, well-polished and of a parabolic figure, it would just as readily and quickly melt any other metal.
+
+<!-- , seeing that the small mirror, which was not well polished and had only a spherical shape, was able so energetically to melt lead and burn every combustible substance.   -->
+
+Such effects as these render credible to me the marvels accomplished by the mirrors of Archimedes. 
 {{< /r >}}
 
 
 {{< l a="Salviati" >}}
-Many objections may be raised not all of which can be refuted by experiment: however in this particular case the following consideration must be taken into account, namely, that it is very likely that a heavy body falling from a height will, on reaching the ground, have acquired just as much momentum as was necessary to carry it to that height; as may be clearly seen in the case of a rather heavy pendulum which, when pulled aside fifty or sixty degrees from the vertical, will acquire precisely that speed and force which are sufficient to carry it to an equal elevation save only that small portion which it loses through friction on the air. In order to place a cannon ball at such a height as might suffice to give it just that momentum which the powder imparted to it on leaving the gun we need only fire it vertically upwards from the same gun; and we can then observe whether on falling back it delivers a blow equal to that of the gun fired at close range; in my opinion it would be much weaker. The resistance of the air would, therefore, I think, prevent the muzzle velocity from being equalled by a natural fall from rest at any height whatsoever.
+Archimedes' books rendered credible to me all the miracles described by various writers. 
+
+And if any doubt had remained the book which Father Buonaventura Cavalieri** [87] has recently published on the subject of the burning glass [specchio ustorio] and which I have read with admiration would have removed the last difficulty. 
 {{< /l >}}
 
+
+{{< r a="Sagredo" >}}
+With solar rays in melting metals, must we believe that such a furious action is devoid of motion or that it is accompanied by the most rapid of motions?
+{{< /r >}}
+
+
+{{< l a="Salviati" >}}
+Other combustions and resolutions are accompanied by motion, and that, the most rapid; 
+
+Note the action of lightning and of powder as used in mines and petards; note also how the charcoal flame, mixed as it is with heavy and impure vapors, increases its power to liquify metals whenever quickened by a pair of bellows.  
+
+Hence I do not understand how the action of light, although very pure, can be devoid of the fastest motion.
+ <!-- and that of the swiftest type.  -->
+{{< /l >}}
+
+
+{{< r a="Sagredo" >}}
+But what kind and what is the speed of light? Is it instantaneous or momentary or does it like other motions require time? Can we not decide this by experiment?
+{{< /r >}}
+
+
+{{< r a="Simplicio" >}}
+Everyday experience shows that the propagation of light is instantaneous.
+
+When artillery is fired at great distance, the flash reaches our eyes instantly. But the sound reaches the ear only after an interval. 
+{{< /r >}}
+
+
+{{< r a="Sagredo" >}}
+The only thing I am able to infer from this familiar bit of experience is that sound, in reaching our ear, travels more slowly than light.
+
+It does not tell me whether that light is instantaneous or not.
+
+ <!-- An observation of this kind tells us nothing more than one in which it is claimed that "As soon as the sun reaches the horizon its light reaches our eyes "; but who will assure me that these rays had not reached this limit earlier than they reached our vision? -->
+{{< /r >}}
+
+
+{{< l a="Salviati" >}}
+Is the speed of light really instantaneous?
+
+This can be tested by experiment.
+
+Two persons take a lantern. Blocking its light by the hand will block the light seen by the other.  
+
+Let them stand opposite each other at a distance of a few cubits and practice until they acquire such skill in uncovering and occulting their lights that the instant one sees the light of his companion he will uncover his own.
+
+After a few trials the response will be so prompt that without sensible error [svario] the uncovering of one light is immediately followed by the uncovering of the other, so that as soon as one exposes his light he will instantly see that of the other.  
+
+Having acquired skill at this short distance let the 2 experimenters, equipped as before, take up positions separated by a distance of 3 miles.
+
+Let them perform the same experiment at night, noting carefully whether the exposures and occultations occur in the same manner as at short distances.
+
+If they do, then the propagation of light is instantaneous.
+
+But if time is required at a distance of 3 miles which, considering the going of one light and the coming of the other, really amounts to 6, then the delay should be easily observable.  
+
+Telescopes may be used for experiments at still greater distances of 10 miles.
+
+Each observer adjusts one for himself at the place where he is to make the experiment at night.
+
+The lights are not large and are therefore invisible to the eye at so great a distance. But this is solved by a telescope.
+
+I have tried the experiment for 1 mile.
+
+I was not able to determine whether light was instantaneous or not.
+
+If it is not instantaneous, I would say it is as fast as the lightning flash between clouds 10 miles from us.  
+
+We see the beginning of this light -- I might say its head and source -- located at a particular place among the clouds; 
+
+But it immediately spreads to the surrounding ones, which seems to be an argument that at least some time is required for propagation; 
+
+For if the illumination were instantaneous and not gradual, we should not be able to distinguish its origin -- its center, so to speak -- from its outlying portions.  
+
+What a sea we are gradually slipping into without knowing it! With vacua and infinities and indivisibles and instantaneous motions, shall we ever be able, even by means of a thousand discussions, to reach dry land?
+{{< /l >}}
