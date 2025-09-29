@@ -1,8 +1,8 @@
 ---
 title: "Your Allies"
-heading: "Sura 5c "
-weight: 54
-c: "firebrick"
+heading: "Sura 5e"
+weight: 55
+c: "maroon"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Enki has come to you, and a clear Book."
 ---
 
@@ -24,7 +24,9 @@ description: "O People of the Book! Our Messenger has come to you, clarifying fo
 <sup>59</sup> Say:
 
 {{< l a="Muslims" >}}
-O People of the Scripture! Do you resent us only because we believe in Enki, and in what was revealed to us, and in what was revealed previously; and most of you are sinners? <sup>60</sup> Shall I inform you of worse than that for retribution from Enki? He whom Enki has cursed, and with whom He became angry; and He turned some of them into apes, and swine, and idol worshipers. These are in a worse position, and further away from the right way.
+O People of the Scripture! Do you resent us only because we believe in Enki, and in what was revealed to us, and in what was revealed previously; and most of you are sinners? 
+
+<sup>60</sup> Shall I inform you of worse than that for retribution from Enki? He whom Enki has cursed, and with whom He became angry; and He turned some of them into apes, and swine, and idol worshipers. These are in a worse position, and further away from the right way.
 {{< /l >}}
 
 

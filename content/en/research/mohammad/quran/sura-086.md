@@ -2,7 +2,7 @@
 title: "The Nightly Visitor and The Most High"
 heading: "Sura 86a "
 weight: 240
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

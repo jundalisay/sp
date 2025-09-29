@@ -1,8 +1,8 @@
 ---
 title: "Rules on Wealth, Charity, Debt and Usury"
-heading: "Sura 2g "
+heading: "Sura 2l"
 weight: 26
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

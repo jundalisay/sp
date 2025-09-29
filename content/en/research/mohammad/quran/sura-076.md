@@ -2,7 +2,7 @@
 title: "Man (al-Insan)"
 heading: "Sura 76a "
 weight: 224
-c: "firebrick"
+c: "maroon"
 description: "We created man from a liquid mixture, to test him. We made him hearing and seeing."
 ---
 

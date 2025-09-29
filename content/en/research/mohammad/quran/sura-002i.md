@@ -1,8 +1,8 @@
 ---
 title: "Rules on Intoxicants, Menstruation, and Sex"
-heading: "Sura 2e "
+heading: "Sura 2i"
 weight: 20
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

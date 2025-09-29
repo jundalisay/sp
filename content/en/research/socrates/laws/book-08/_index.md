@@ -1,7 +1,7 @@
 ---
 heading: "Book 8"
 title: "The Laws by Plato Simplified"
-weight: 2
+weight: 22
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

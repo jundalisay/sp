@@ -1,8 +1,8 @@
 ---
 title: "More Rules on Food, Etc"
-heading: "Sura 5c"
-weight: 52
-c: "firebrick"
+heading: "Sura 5d"
+weight: 54
+c: "maroon"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden."
 ---
 

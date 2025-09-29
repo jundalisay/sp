@@ -1,8 +1,8 @@
 ---
 title: "The Creation"
 heading: "Sura 6c"
-weight: 60
-c: "firebrick"
+weight: 62
+c: "maroon"
 description: "Abraham said to his father Azar :Do you take idols for gods? I see that you and your people are in evident error."
 ---
 

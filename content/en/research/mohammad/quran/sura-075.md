@@ -2,7 +2,7 @@
 title: "Resurrection (al-Qiyamah)"
 heading: "Sura 75a "
 weight: 222
-c: "firebrick"
+c: "maroon"
 description: "Does man think that We will not reassemble his bones?"
 ---
 

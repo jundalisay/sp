@@ -2,7 +2,7 @@
 title: "Jews and Christians Versus the Muslims"
 heading: "Sura 3c "
 weight: 32
-c: "firebrick"
+c: "maroon"
 description: "The Prophet Mohammad describes the differences of his beliefs with those of Jews and Christians"
 ---
 

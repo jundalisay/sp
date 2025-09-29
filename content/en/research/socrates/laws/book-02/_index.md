@@ -1,6 +1,6 @@
 ---
 heading: "Book 2"
-title: "Education"
+title: "Educational Policies"
 weight: 4
 writer:
   name: Plato

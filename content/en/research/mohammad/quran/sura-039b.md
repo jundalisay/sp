@@ -1,37 +1,37 @@
 ---
 title: "The Quran"
 heading: "Sura 39b "
-weight: 4
-c: "firebrick"
+weight: 155
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
 
-27. We have cited in this Quran for mankind every ideal, that they may take heed.
+<sup>27</sup> We have cited in this Quran for mankind every ideal, that they may take heed.
 
-28. An Arabic Quran, without any defect, so they may become righteous.
+<sup>28</sup> An Arabic Quran, without any defect, so they may become righteous.
 
-29. Enki cites the example of a man shared by partners at odds, and a man belonging exclu-
+<sup>29</sup> Enki cites the example of a man shared by partners at odds, and a man belonging exclu-
 sively to one man. Are they equal in status?
 
 <!-- Praise be to Enki, but most of them do not
 know. -->
 
-30. You will die, and they will die.
+<sup>30</sup> You will die, and they will die.
 
-31. On the Day of Resurrection, you will be quarrelling before your Lord.
+<sup>31</sup> On the Day of Resurrection, you will be quarrelling before your Lord.
 
-32. Who is more evil than he who lies about Enki, and denies the truth when it has come to him? Is there not in Hell room for the un-
+<sup>32</sup> Who is more evil than he who lies about Enki, and denies the truth when it has come to him? Is there not in Hell room for the un-
 grateful? 
 
-33. But he who promotes the truth, and testifies to it—these are the righteous. 
+<sup>33</sup> But he who promotes the truth, and testifies to it—these are the righteous. 
 
-34. They will have whatever they please with their Lord. Such is the reward for the virtuous.
+<sup>34</sup> They will have whatever they please with their Lord. Such is the reward for the virtuous.
 
-35. Enki will acquit them of the worst of their deeds, and will reward them according to the
+<sup>35</sup> Enki will acquit them of the worst of their deeds, and will reward them according to the
 best of what they used to do.
 
-36. Is Enki not enough for His servant? 
+<sup>36</sup> Is Enki not enough for His servant? 
 
 They frighten you with those besides Him.
 

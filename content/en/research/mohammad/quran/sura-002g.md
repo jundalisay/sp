@@ -2,7 +2,7 @@
 title: "Rules on Food, Fasting, Gambling, and Revenge"
 heading: "Sura 2g"
 weight: 16
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

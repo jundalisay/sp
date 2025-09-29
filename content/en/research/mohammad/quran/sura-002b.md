@@ -2,7 +2,7 @@
 title: "Adam and the Jews"
 heading: "Sura 2b "
 weight: 6
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

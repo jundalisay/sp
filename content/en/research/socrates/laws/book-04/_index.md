@@ -1,7 +1,7 @@
 ---
 heading: "Book 4"
-title: "The Laws by Plato Simplified"
-weight: 2
+title: "The Policies of the State"
+weight: 12
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

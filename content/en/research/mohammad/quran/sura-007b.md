@@ -3,18 +3,28 @@
 title: Noah Pleads to the People
 heading: "Sura 7b"
 weight: 66
-c: "firebrick"
+c: "maroon"
 description: "We sent Noah to his people"
 ---
 
 
-{{< s v="48" >}} The dwellers of the Purgatory will call to men they recognize by their features, saying, “Your hoardings did not avail you, nor did your arrogance.”
+{{< s v="48" >}} The dwellers of the Purgatory will call to men they recognize by their features, saying:
+
+“Your hoardings did not avail you, nor did your arrogance.”
 
 <sup>49</sup> Are these the ones you swore Enki will not touch with mercy?” “Enter the Garden; you have nothing to fear, and you will not grieve.
 
-<sup>50</sup> The inmates of the Fire will call on the inhabitants of the Garden, “Pour some water over us, or some of what Enki has provided for you.” 
 
-They will say, “Enki has forbidden them for the disbelievers.”
+<sup>50</sup> The inmates of the Fire will call on the inhabitants of the Garden:
+
+{{< r a="Disbelievers" >}}
+Pour some water over us, or some of what Enki has provided for you. 
+{{< /r >}}
+
+{{< l a="Muslims" >}}
+Enki has forbidden them for the disbelievers.
+{{< /l >}}
+
 
 <sup>51</sup> Those who took their religion lightly, andin jest, and whom the worldly life deceived. 
 
@@ -102,30 +112,41 @@ The elite of his people who disbelieved said:
 <sup>73</sup> And to Thamood, their brother Saleh said:
 
 {{< l a="Saleh" >}}
-O my people! Worship Enki; you have no god other than Him. Clarification has come to you from your Lord. This she-camel of Enki is a sign for you. So leave her to graze on Enki’s earth, and do her no harm, lest a painful penalty seizes you. <sup>74</sup> Remember how He made you successors after Aad, and settled you in the land. You make for yourselves mansions on its plains, and carve out dwellings in the mountains. So remember Enki’s benefits, and do not roam the earth corruptingly.
+O my people! Worship Enki; you have no god other than Him. Clarification has come to you from your Lord. This she-camel of Enki is a sign for you. So leave her to graze on Enki’s earth, and do her no harm, lest a painful penalty seizes you. <sup>74</sup> Remember how He made you successors after Aad, and settled you in the land. 
+
+You make for yourselves mansions on its plains, and carve out dwellings in the mountains. So remember Enki’s benefits, and do not roam the earth corruptingly.
 {{< /l >}}
 
 75. The elite of his people, who were arrogant, said to the common people who had believed:
 
-{{< l a="People" >}}
+{{< r a="People" >}}
 Do you know that Saleh is sent from his Lord? We reject what you believe in.
-{{< /l >}}
+{{< /r >}}
 
-<sup>77</sup> So they hamstrung the she-camel, and defied the command of their Lord, and said, 
+<sup>77</sup> So they hamstrung the she-camel, and defied the command of their Lord, and said:
 
-“O Saleh, bring upon us what you threaten us with, if you are one of the messengers.”
+
+{{< r a="People" >}}
+O Saleh, bring upon us what you threaten us with, if you are one of the messengers.
+{{< /r >}}
 
 <sup>78</sup> Whereupon the quake overtook them, and they became lifeless bodies in their homes.
 
 <sup>79</sup> Then he turned away from them, and said:
 
-“O my people, I have delivered to you the message of my Lord, and I have advised you, but you do not like those who give advice.”
+{{< l a="Saleh" >}}
+O my people, I have delivered to you the message of my Lord, and I have advised you, but you do not like those who give advice.
+{{< /l >}}
 
-<sup>80</sup> Lot said to his people: “Do you commit lewdness no people anywhere have ever committed before you? <sup>81</sup> You lust after men rather than women. You are an excessive people.”
+<sup>80</sup> Lot said to his people: 
 
-<sup>82</sup> His people's only answer was to say:
+{{< l a="Lot" >}}
+Do you commit lewdness no people anywhere have ever committed before you? <sup>81</sup> You lust after men rather than women. You are an excessive people.
+{{< /l >}}
 
-“Expel them from your town; they are purist people.”
+{{< r a="People" >}}
+<sup>82</sup> Expel them from your town; they are purist people.
+{{< /r >}}
 
 <sup>83</sup> But We saved him and his family, except for his wife. She was of those who lagged behind.
 

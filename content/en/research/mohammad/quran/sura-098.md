@@ -2,7 +2,7 @@
 title: "Clear Evidence (al-bayyinah) And The Quake (az-Zalzalah)"
 heading: "Sura 98 "
 weight: 252
-c: "firebrick"
+c: "maroon"
 description: "The Prophet Mohammad tries to connect the historical Imran family to his Islam."
 ---
 

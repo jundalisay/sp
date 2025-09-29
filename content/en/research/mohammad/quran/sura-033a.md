@@ -2,7 +2,7 @@
 title: "The Confederates (al-Ahzab)"
 heading: "Sura 33 "
 weight: 142
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

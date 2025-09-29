@@ -1,7 +1,7 @@
 ---
 heading: "Book 6"
-title: "The Laws by Plato Simplified"
-weight: 2
+title: "Human Nature"
+weight: 16
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

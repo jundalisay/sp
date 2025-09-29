@@ -2,7 +2,7 @@
 title: "The 12 Tribes of Israel"
 heading: "Sura 7d "
 weight: 70
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -17,36 +17,47 @@ Whereupon 12 springs gushed from it. Each group recognized its drinking-place.
 
 We:
 - shaded them with clouds
-- sent down on them manna and quails: “Eat of the good things We have provided for you.” 
+- sent down on them manna and quails
+
+
+{{< l a="Enki" >}}
+Eat of the good things We have provided for you.
 <!-- They did not wrong Us, but they used to wrong their own selves. -->
 
-<sup>161</sup> We said to them:
-- “Settle this town, 
+<sup>161</sup> Settle this town 
 - eat therein whatever you wish
 - speak modestly
-- enter the gate in humility—We will forgive your sins, and will promote the righteous."
+- enter the gate in humility—We will forgive your sins, and will promote the righteous.
+{{< /l >}}
 
 
 <sup>162</sup> But the wicked among them substituted other words. So We sent down on them a plague from the sky. 
 
-163. Ask them about the town by the sea, when they violated the Sabbath. When they observed the Sabbath, their fish would come to them abundantly. 
+<sup>163</sup> Ask them about the town by the sea, when they violated the Sabbath. 
+
+When they observed the Sabbath, their fish would come to them abundantly. 
 
 But when they violated the Sabbath, their fish would not come to them.
 Thus We tried them because they disobeyed.
 
-164. And when a group of them said:
 
-“Why do you counsel a people whom Enki will annihilate, or punish with a severe punishment?”
+<sup>164</sup> A group of them said:
 
-They said:
+{{< r a="People" >}}
+Why do you counsel a people whom Enki will annihilate, or punish with a severe punishment?
 
-“As an excuse to your Lord, and so that they may become righteous.”
+As an excuse to your Lord, and so that they may become righteous.
+{{< /r >}}
 
-165. Then, when they neglected what they were reminded of, We saved those who prohibited
-evil, and We seized those who did wrong with a terrible punishment, because of their sinfulness.
 
-166. Then, when they rebelled against the commands to refrain, We said to them, “Be des-
-picable apes.”
+
+<sup>165</sup> Then, when they neglected what they were reminded of, We saved those who prohibited evil, and We seized those who did wrong with a terrible punishment, because of their sinfulness.
+
+<sup>166</sup> Then, when they rebelled against the commands to refrain, We said to them:
+
+{{< l a="Enki" >}}
+Be despicable apes.
+{{< /l >}}
 
 167. Your Lord has announced that, He would send against them, until the Day of Resurrection, those who would inflict terrible suffering upon them. Your Lord is swift in retribution, yet He is Forgiving and Merciful.
 

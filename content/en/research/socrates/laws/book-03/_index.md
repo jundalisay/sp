@@ -1,6 +1,6 @@
 ---
 heading: "Book 3"
-title: "Government"
+title: "The Government"
 weight: 6
 writer:
   name: Plato

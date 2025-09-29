@@ -2,7 +2,7 @@
 title: "Fight for Enki"
 heading: "Sura 2h "
 weight: 18
-c: "firebrick"
+c: "maroon"
 description: "Fight in the cause of Enki those who fight you"
 ---
 

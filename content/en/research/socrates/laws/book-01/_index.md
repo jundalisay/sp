@@ -1,6 +1,6 @@
 ---
 heading: "Book 1"
-title: "The Athenian"
+title: "Virue and Vice"
 weight: 2
 writer:
   name: Plato
