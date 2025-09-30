@@ -41,53 +41,79 @@ They repel one another also with a greater velocity than when pole is put opposi
 
 But in proximity they raise enmities. But if one part of the stone is turned round, so that C faces D and F faces E, then A pursues B within its orbe until they are united.
 
-The Southern parts of the stone avoid the Southern parts, and the Northern parts the Northern. Nevertheless, if by force you move up the Southern cusp of a piece of iron too near the Southern part of the stone, the cusp is seized and both are linked together in friendly embraces: because it immediately reverses the implanted verticity of the iron, and it is changed by the presence of the more powerful stone, which is more constant in its forces than the iron. For they come together according to their nature, if by reversal and mutation true conformity is produced, and just coition, as also regular direction. Loadstones of the same shape, size, and vigour, attract one another mutually with like efficacy, and in the opposite position repel one another mutually with a like vigour.
+The Southern parts of the stone avoid the Southern parts, and the Northern parts the Northern. 
 
-Iron rods not touched, though alike and equal, do yet often act *upon one another with different forces; because as the reasons of their acquired verticity, also of their stability and vigour, are different, so the more strongly they are excited, the more vigorously do they incite.
+Nevertheless, if by force you move up the Southern cusp of a piece of iron too near the Southern part of the stone, the cusp is seized and both are linked together in friendly embraces.
 
-Pieces of iron excited by one and the same pole mutually repel *one another by those ends at which they were excited; then also the opposite ends to those in these iron pieces raise enmities one to another.
+This is because it immediately reverses the implanted verticity of the iron, and it is changed by the presence of the more powerful stone, which is more constant in its forces than the iron. 
 
-In versoria whose cusps have been rubbed, but not their cross-ends, *the crosses mutually repel one another, but weakly and in proportion to their length.
+For they come together according to their nature, if by reversal and mutation true conformity is produced, and just coition, as also regular direction. 
 
-In like versoria the cusps, having been touched by the same *pole of the loadstone, attract the cross-ends with equal strength.
+Loadstones of the same shape, size, and vigour, attract one another mutually with like efficacy, and in the opposite position repel one another mutually with a like vigour.
 
-In a somewhat long versorium the cross-end is attracted rather *weakly by the cusp of a shorter iron versorium; the cross of the shorter more strongly by the cusp of the longer, because the cross of the longer versorium has a weak verticity, but the cusp has a stronger.
+Iron rods not touched, though alike and equal, do yet often act upon one another with different forces; because as the reasons of their acquired verticity, also of their stability and vigour, are different, so the more strongly they are excited, the more vigorously do they incite.
 
-The cusp of a longer versorium drives away the cusp of a *shorter one more vehemently than the cusp of the shorter the cusp of the longer, if the one is free upon a pin, and the other is held in the hand; for though both were equally excited by the same loadstone, yet the longer one is stronger at its cusp on account of its greater mass.
+Pieces of iron excited by one and the same pole mutually repel one another by those ends at which they were excited; then also the opposite ends to those in these iron pieces raise enmities one to another.
 
-The Southern end of an iron rod which is not excited attracts *the Northern, and the Northern the Southern; moreover, also the Southern parts repel the Southern, and the Northern the Northern.
+In versoria whose cusps have been rubbed, but not their cross-ends, the crosses mutually repel one another, but weakly and in proportion to their length.
+
+In like versoria the cusps, having been touched by the same pole of the loadstone, attract the cross-ends with equal strength.
+
+In a somewhat long versorium the cross-end is attracted rather weakly by the cusp of a shorter iron versorium; the cross of the shorter more strongly by the cusp of the longer, because the cross of the longer versorium has a weak verticity, but the cusp has a stronger.
+
+The cusp of a longer versorium drives away the cusp of a shorter one more vehemently than the cusp of the shorter the cusp of the longer, if the one is free upon a pin, and the other is held in the hand.
+
+For though both were equally excited by the same loadstone, yet the longer one is stronger at its cusp on account of its greater mass.
+
+The Southern end of an iron rod which is not excited attracts the Northern, and the Northern the Southern; moreover, also the Southern parts repel the Southern, and the Northern the Northern.
 
 If magnetick substances are divided or in any way broken in pieces, each part has a Northern and a Southern end.
 
-{102}
+A versorium is moved as far off by a loadstone when an obstacle is put in the way, as through air and an open medium.
 
-A versorium is moved as far off by a loadstone when an obstacle *is put in the way, as through air and an open medium.
+Rods rubbed upon the pole of a stone strive after the same pole and follow it. Therefore Baptista Porta errs when he says, chapter 40:
 
-Rods rubbed upon the pole of a stone strive after the same pole *and follow it. Therefore Baptista Porta errs when he says, chapter 40[182], "If you put that part to it from which it received its force, it will not endure it, but drives it from it, and draws to it the contrary and opposite part."
+{{< q a="Baptista Porta" >}}
+If you put that part to it from which it received its force, it will not endure it, but drives it from it, and draws to it the contrary and opposite part.
+{{< /q >}}
+
 
 The principles of turning round and inclining are the same in the case of loadstone to loadstone, of loadstone to iron, of iron also to iron.
 
 When magnetick substances which have been separated by force and dissected into parts flow together into a true union and are suitably connected, the body becomes one, and one united virtue, nor have they diverse ends.
 
-The separate parts assume two opposite poles, if the division has *not been made along a parallel: if the division has been made along a parallel, they are able to retain one pole in the same site as before.
+The separate parts assume two opposite poles, if the division has not been made along a parallel: if the division has been made along a parallel, they are able to retain one pole in the same site as before.
+
 
 Pieces of iron which have been rubbed and excited by a loadstone are more surely and swiftly seized by a loadstone at fitting ends than such as have not been rubbed.
 
-If a spike is set up on the pole of a loadstone, a spike or style *of iron placed on the upper end is strongly cemented to it, and draws away the erect spike from the terrella when motion is made.
+If a spike is set up on the pole of a loadstone, a spike or style of iron placed on the upper end is strongly cemented to it, and draws away the erect spike from the terrella when motion is made.
 
-If to the lower end of the erect spike the end of another spike *is applied, it does not cohære with it, nor do they unite together.
+If to the lower end of the erect spike the end of another spike is applied, it does not cohære with it, nor do they unite together.
 
 As a rod of iron draws away a piece of iron from a terrella, so is it also with a minute loadstone and a lesser terrella, though weaker in strength.
 
 Iron cleaves to terrella.
 
-The piece of iron C comes into conjunction with the terrella A, and the vigour in it is magnetically exalted and excited, both in the adjoining end and in the other also which is turned away through {103}its conjunction with the terrella. 
+The piece of iron C comes into conjunction with the terrella `A`, and the vigour in it is magnetically exalted and excited, both in the adjoining end and in the other also which is turned away through its conjunction with the terrella. 
 
-The end that is turned away also conceives vigour from the loadstone B; likewise the pole D of that loadstone is powerful on account of its suitable aspect and the nearness of the pole E of the terrella. Several causes therefore concur why the piece of iron C should cleave to the terrella B, to which it is joined more firmly than to the terrella A; the vigour excited in the rod, the vigour also excited in the stone B, and the strength implanted in B concur; therefore D is more firmly cemented magnetically with C than E with C.
+The end that is turned away also conceives vigour from the loadstone `B`.
+
+Likewise the pole `D` of that loadstone is powerful on account of its suitable aspect and the nearness of the pole `E` of the terrella. 
+
+Several causes therefore concur why the piece of iron `C` should cleave to the terrella B, to which it is joined more firmly than to the terrella A; the vigour excited in the rod, the vigour also excited in the stone `B`.
+
+The strength implanted in B concur; therefore D is more firmly cemented magnetically with `C` than `E` with `C`.
 
 But if you were to turn the vertex F round to the iron C, C would not adhære to F as formerly to D; for stones so arranged being within the orbe of virtue are placed contrary to natural order; wherefore F does not receive power from E.
 
-Two loadstones or excited pieces of iron, duly cohæring, fly *asunder on the approach of another more powerful loadstone or magnetized piece of iron. Because the new-comer repels the other with its opposing face, and dominates it, and ends the relationship of the two which were formerly joined. So the forces of the other are lessened and succumb; but if it conveniently could, being diverted of its association with the weaker, and rolling round, it would turn about to the stronger. 
+Two loadstones or excited pieces of iron, duly cohæring, fly *asunder on the approach of another more powerful loadstone or magnetized piece of iron. 
+
+Because the new-comer repels the other with its opposing face, and dominates it, and ends the relationship of the two which were formerly joined. 
+
+So the forces of the other are lessened and succumb; but if it conveniently could, being diverted of its association with the weaker, and rolling round, it would turn about to the stronger. 
 
 
-Wherefore also magnetick bodies suspended in the air fall when a loadstone is brought near them with an opposing face, not (as Baptista Porta teaches) because the faculty of both those which were joined before grows faint and torpid, for no face can be hostile to both the ends which cohære, but to one only; and when the stronger loadstone, coming fresh with opposing face, impels this further from it, it is put to flight by the friendly reception of the former.
+Wherefore also magnetick bodies suspended in the air fall when a loadstone is brought near them with an opposing face, not (as Baptista Porta teaches) because the faculty of both those which were joined before grows faint and torpid, for no face can be hostile to both the ends which cohære, but to one only.
+
+When the stronger loadstone, coming fresh with opposing face, impels this further from it, it is put to flight by the friendly reception of the former.

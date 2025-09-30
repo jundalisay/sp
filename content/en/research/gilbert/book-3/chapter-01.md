@@ -8,6 +8,7 @@ writer:
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
 icon: "William Gilbert"
 c: "darkgoldenrod"
+weight: 3
 ---
 
 
@@ -24,7 +25,9 @@ All their petty reasons are rejected by the more prudent as useless, uncertain, 
 
 This is why magnetick science, being all the more neglected and not understood, has been in exile. 
 
-The true austral pole of a loadstone, not the boreal (as all before us used to think), *if the loadstone is placed in its boat on the surface of water, turns to the North; in the case of a piece of iron also, whether it has been excited by a loadstone or not, the southern end moves toward the North. An oblong piece of iron of three or four digits' length[196], when skilfully rubbed with a loadstone, quickly turns north and south. 
+The true austral pole of a loadstone, not the boreal (as all before us used to think), if the loadstone is placed in its boat on the surface of water, turns to the North; in the case of a piece of iron also, whether it has been excited by a loadstone or not, the southern end moves toward the North. 
+
+An oblong piece of iron of 4 digits' length when skilfully rubbed with a loadstone, quickly turns north and south. 
 
 Wherefore mechanicians, taking a piece of iron prepared in this way, balance it on a pin in a box, and fit it up with the requisites of a sun-dial; or they prepare the versorium out of two curved pieces of iron with their ends touching one another, so that the motion may be more constant. 
 
@@ -52,7 +55,9 @@ In this way the mariners' versorium is arranged, which is an instrument benefici
 
  The causes of the precession of the æquinoxes and the progression of the fixed stars, and of the change, moreover, in the declinations of the sun and of the tropicks, must be sought from magnetick influences; so that neither that absurd motion of trepidation of Thebit Bencora[197], which is at great variance with observations, nor the monstrous superstructures of other heavens, are any longer needed. 
 
- A versatory iron turns to the position of the earth, and if disturbed ever so often returns always to the same points. For in the far regions of the north, in a latitude of 70 or 80 degrees (to which at the milder seasons of the year our sailors are accustomed to penetrate without injury from the cold); in the regions halfway between the poles; on the æquator in the torrid zone; and again in all the maritime places and lands of the south, in the highest latitude which has thus far been reached, always the iron magnetick finds its way, and points to the poles in the same manner (excepting for the difference of variation); on this side of the æquator (where we live), and on the other side to the south, less well known, but yet in some measure explored by sailors: and always the lily of the compass points toward the North. 
+A versatory iron turns to the position of the earth, and if disturbed ever so often returns always to the same points. For in the far regions of the north, in a latitude of 70 or 80 degrees (to which at the milder seasons of the year our sailors are accustomed to penetrate without injury from the cold); in the regions halfway between the poles.
+
+Oon the æquator in the torrid zone; and again in all the maritime places and lands of the south, in the highest latitude which has thus far been reached, always the iron magnetick finds its way, and points to the poles in the same manner (excepting for the difference of variation); on this side of the æquator (where we live), and on the other side to the south, less well known, but yet in some measure explored by sailors: and always the lily of the compass points toward the North. 
 
  This we have had confirmed by the most eminent captains, and also by very many of the more intelligent sailors. 
 
@@ -64,9 +69,9 @@ In this way the mariners' versorium is arranged, which is an instrument benefici
 
  An iron wire CD, which is placed upon the stone, always points directly along the meridian toward the poles AB, whether the centre of the wire is on the central line or æquator of the stone, or on any other part situated between the æquator and the poles, as at H, G, F, E. 
 
- So the cusp of a versorium on this side of the æquator points toward the north; *on the other side the cross is always directed toward the south; but the cusp or lily[198] does not, as some one has thought, turn toward the south beyond the æquator. 
+So the cusp of a versorium on this side of the æquator points toward the north; *on the other side the cross is always directed toward the south; but the cusp or lily does not, as some one has thought, turn toward the south beyond the æquator. 
 
- Some inexperienced people in distant parts beyond the æquator have seen the versorium sometimes become slower. 
+Some inexperienced people in distant parts beyond the æquator have seen the versorium sometimes become slower. 
 
 They thought that the distance from the Arctic pole or from the magnetick rocks caused this. 
 
@@ -74,10 +79,18 @@ But they are very much mistaken; for it is as powerful[199], and adjusts itself 
 
 Yet sometimes the motion appears slower, when the supporting pin by lapse of time and long voyaging has become somewhat blunt, or the magnetick iron parts have lost, by age or rust, some of their acquired vigour. 
 
-This may also be shown experimentally by the versatory iron of a small sun-dial placed on a very short pin set perpendicular to the surface of the stone, for the iron when touched by a loadstone points toward the poles of the stone and leaves the poles of the earth; for the general and remoter cause is overcome by the particular and powerful cause which is so near at hand. Magnetick bodies have of themselves an inclination toward the position of the earth and are influenced by a terrella. Two equal stones of equal strength adjust themselves to a terrella in accordance with magnetick laws. T
+This may also be shown experimentally by the versatory iron of a small sun-dial placed on a very short pin set perpendicular to the surface of the stone, for the iron when touched by a loadstone points toward the poles of the stone and leaves the poles of the earth; for the general and remoter cause is overcome by the particular and powerful cause which is so near at hand.
 
-he iron conceives vigour from the loadstone and is influenced by the magnetical motions. Wherefore true direction is the motion of a magnetick body in regard to the verticity of the earth, the natures of both agreeing and working together toward a natural position and unity. 
+Magnetick bodies have of themselves an inclination toward the position of the earth and are influenced by a terrella. 
 
-We have found out by many experiments that there is a disposing nature, moving them together by reason of their various positions by one form that is common {119}to both, and that in all magnetick substances there is attraction and repulsion. 
+Two equal stones of equal strength adjust themselves to a terrella in accordance with magnetick laws. 
 
-For both the stone[200] and the magnetick iron arrange themselves by inclination and declination, according to the common position of their nature and the earth. And the force of the earth by the virtue of the whole, by attracting toward the poles, and repelling, arranges all magneticks which are unfixed and loose. For in all cases all magneticks conform themselves to the globe of the earth in the same ways and by the same laws by which another loadstone or any magneticks do to a terrella.[201]
+The iron conceives vigour from the loadstone and is influenced by the magnetical motions. Wherefore true direction is the motion of a magnetick body in regard to the verticity of the earth, the natures of both agreeing and working together toward a natural position and unity. 
+
+There is a disposing nature, moving them together by reason of their various positions by one form that is common to both, and that in all magnetick substances there is attraction and repulsion. 
+
+For both the stone and the magnetick iron arrange themselves by inclination and declination, according to the common position of their nature and the earth. 
+
+The force of the earth by the virtue of the whole, by attracting toward the poles, and repelling, arranges all magneticks which are unfixed and loose. 
+
+For in all cases all magneticks conform themselves to the globe of the earth in the same ways and by the same laws by which another loadstone or any magneticks do to a terrella.

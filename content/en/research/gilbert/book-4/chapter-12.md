@@ -1,8 +1,8 @@
 ---
 heading: Chapter 12
-title: "The finding of the amount of variation"
+title: "How to Find the amount of variation"
 date: 2024-02-20
-description: "The construction of the common mariners' compass, and the diversity of the compasses of different nations."
+description: "How great is the arc of the Horizon from its arctick or antarctick intersection of the meridian, to the point respective of the magnetick needle?"
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)

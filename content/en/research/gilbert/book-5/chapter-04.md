@@ -25,24 +25,27 @@ Just so magneticks or iron bodies on the surface of a terrella ought not to have
 
 
 
-## CHAP. 5. Declination does not arise from the attraction of the loadstone, but from a disposing and rotating influence.
+## Chapter 5. Declination does not arise from the attraction of the loadstone, but from a disposing and rotating influence.
 
-In the universe of nature that marvellous provision of its Maker should be noticed, whereby the principal bodies are restrained within certain habitations and fenced in, as it were (nature controlling them). For this reason the stars, though they move and advance, are not thrown into confusion. Magnetical rotations also arise from a disposing influence, whether in greater and dominating quantity, or in a smaller, and compliant quantity, even though it be very small. 
+In the universe of nature that marvellous provision of its Maker should be noticed, whereby the principal bodies are restrained within certain habitations and fenced in, as it were (nature controlling them). For this reason the stars, though they move and advance, are not thrown into confusion. 
+
+Magnetical rotations also arise from a disposing influence, whether in greater and dominating quantity, or in a smaller, and compliant quantity, even though it be very small. 
 
 For the work is not accomplished by attraction, but by an incitation of each substance, by a motion of agreement toward fixed bounds, beyond which no advance is made. For if the versorium dipped by reason of an attractive force, then a terrella made from a very strong magnetick stone would cause the versorium to turn toward itself more than one made out of an average stone, and a piece of iron touched with a vigorous loadstone would dip more. This, however, never happens. 
 
-Moreover, an iron snout placed on a meridian in any latitude does not raise a spike more toward the perpendicular than the stone itself, alone and unarmed; although when thus equipped, it plucks up and raises many greater weights[234]. But if a loadstone be sharper toward one pole, toward the other blunter, the sharp end or pole allures a magnetick needle more strongly, the blunt, thick end makes it rotate more strongly; but an orbicular stone *makes it rotate strongly and truly, in accordance with magnetick rules and its globular form. 
+Moreover, an iron snout placed on a meridian in any latitude does not raise a spike more toward the perpendicular than the stone itself, alone and unarmed; although when thus equipped, it plucks up and raises many greater weights.
+
+But if a loadstone be sharper toward one pole, toward the other blunter, the sharp end or pole allures a magnetick needle more strongly, the blunt, thick end makes it rotate more strongly; but an orbicular stone makes it rotate strongly and truly, in accordance with magnetick rules and its globular form. 
 
 
 A long stone, on the other hand, extended from pole to pole, moves a versorium toward it irregularly; for in this case the pole of the versorium always looks down on the pole itself. Similarly also, if the loadstone have been made in the shape of a circle, and its poles are on the circumference, whilst the body of it is plane, not globular, if the plane be brought near a versorium, the versorium does not move with the regular magnetick rotation, as on a terrella; but it turns looking always toward the pole of the loadstone, which has its seat on the circumference of the plane. 
 
 Moreover, if the stone caused the versorium to rotate by attracting it, then in the first degrees of latitude, it would attract the end of a short versorium toward the body itself of the terrella; yet it does not so attract it that they are brought into contact and unite; but the versorium rotates just so far as nature demands, as is clear from this example. {196}
 
-Dipping of a versorium.*For the cusp of a versorium placed in a low latitude does not touch the stone or unite with it, but only inclines toward it. 
+Dipping of a versorium.
+
+For the cusp of a versorium placed in a low latitude does not touch the stone or unite with it, but only inclines toward it. 
 
 Moreover, when a magnetick body rotates in dipping, the pole of the versorium is not stayed or detained by the pole of the earth or terrella; but it rotates regularly, and does not stop at any point or bound, nor point straight to the pole toward which the centre of the versorium is advancing, unless on the pole itself, and once only between the pole and the æquator; but it dips as it advances, according as the change of position of its centre gives a reason for its inclination in accordance with rules magnetical. 
 
 The declination of a magnetick needle in water also, as demonstrated in the following pages, is a fixed quantity[235]; the magnetick needle does not descend to the bottom of the vessel, but remains steady in the middle, rotated on its centre according to its due amount of declination. This would not happen, if the earth or its poles by their attraction drew down the end of the magnetick needle, so that it dipped in this way.
-
-
-
