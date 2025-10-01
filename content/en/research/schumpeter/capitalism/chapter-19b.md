@@ -1,5 +1,5 @@
 ---
-heading: Chapter 19z
+heading: Chapter 19b
 title: "A Mental Experiment"
 c: "firebrick"
 description: ""

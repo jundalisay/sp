@@ -176,7 +176,9 @@ He becomes a primitive again. His thinking becomes associative and
 affective. 16 And this entails two further consequences of ominous significance.
 First, even if there were no political groups trying to influence him, the
 typical citizen would in political matters tend to yield to extrarational or
-irrational prejudice and impulse. The weakness of the rational processes he
+irrational prejudice and impulse. 
+
+The weakness of the rational processes he
 applies to politics and the absence of effective logical control over the results
 he arrives at would in themselves suffice to account for that. Moreover,
 simply because he is not “all there,” he will relax his usual moral standards

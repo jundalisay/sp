@@ -1,6 +1,6 @@
 ---
 heading: Chapter 27c
-title: "COMMUNISM and the RUSSIAN ELEMENT"
+title: "Communism And The Russian Element"
 c: "firebrick"
 description: ""
 date: 2025-09-21
@@ -9,15 +9,9 @@ weight: 193
 
 
 
-1. Meanwhile, communist parties were rapidly developing. In itself this
-is only what we should have expected. Nor was it dangerous. Any party
-that experiences the sobering influence of responsibility will unavoidably
-have to leave room for groups further to the left (or right) to develop in,
-and such room is not likely to remain unoccupied for long. Provided
-defection can be kept within bounds, this need not be more than a
-nuisance—it may even be preferable to keeping unruly elements in the
-fold. Socialist parties had always had trouble with hyper-radical wings. 10
-That such “leftist” groups should gain ground in the troubled days that
+1. Socialist parties had always had trouble with hyper-radical wings. 10
+
+<!-- That such “leftist” groups should gain ground in the troubled days that
 followed upon the war and that they should seize the opportunity to
 acquire the status of distinct parties is no more surprising than that they
 should follow classical usage and call themselves “communist” or that
@@ -31,103 +25,75 @@ Russian element became a factor in shaping the fortunes of both socialism
 and communism all over the world—in fact, in shaping the social and
 political history of our time—it is essential to restate how it developed and
 to appraise its nature and importance. For this purpose we shall divide its
-development into three stages.
+development into three stages. -->
 
-2. At first—that is to say, until the bolsheviks seized power in 1917—
-there was nothing particularly Russian about the development of the
-communist groups except that the strongest man happened to be a Russian
-and that a streak of Mongol despotism was present in his scheme of
-thought. When at the outbreak of the war the Second International
-suspended itself via facti, and when Lenin declared that it was dead and
-that the hour had struck for more effective methods, it was natural for those
-who felt as he did to get together. Opportunity presented itself at the two
-conventions that were held in Switzerland, at Zimmerwald (1915) and at
+2. Until the bolsheviks seized power in 1917, there was nothing Russian about the development of the communist groups except that the strongest man was a Russian with Mongol despotism
+
+At the outbreak of the war:
+- the Second International suspended itself via facti
+- Lenin declared that:
+  - it was dead
+  - the time had come for more effective methods
+
+It was natural for those who felt as he did to get together. 
+
+Opportunity presented itself at the 2 conventions that were held in Switzerland, at Zimmerwald (1915) and at
 Kienthal (1916).
 
-Since practically all of those who had espoused the causes
-of their nations stayed away, the attending militants found little difficulty
-10 The splits that occurred in England and Germany over the war issue were of course
-a different matter and of only temporary importance. Even the German Spartacus League,
-founded in 1916 by Karl Liebknecht and Rosa Luxemburg, though it went much further in
-its opposition to war than the Independents approved, took time to develop a definitely
-hostile attitude and even then did not go, officially at least, beyond insisting on the letter
-of the old Erfurt program. So far as I know, neither Liebknecht nor Mrs. Luxemburg ever
-completely severed contact with the party. The latter was one of the most relentless critics
-of bolshevist practice.
+<!-- 10 The splits that occurred in England and Germany over the war issue were of course a different matter and of only temporary importance. Even the German Spartacus League, founded in 1916 by Karl Liebknecht and Rosa Luxemburg, though it went much further in its opposition to war than the Independents approved, took time to develop a definitely hostile attitude and even then did not go, officially at least, beyond insisting on the letter of the old Erfurt program. So far as I know, neither Liebknecht nor Mrs. Luxemburg ever completely severed contact with the party. The latter was one of the most relentless critics of bolshevist practice. -->
 
-in—more or less—rallying to Lenin’s program of converting the imperialist
-war into an international revolution. There was more in this than a mere
-profession of faith in pristine Marxism and its Messianic promise. There
-was, with some of them, also the clear perception of the truth, to which
-the bourgeois of all countries were so completely blind, that the fabric of
-bourgeois society is unequal to the strains and stresses of prolonged “total”
-warfare and that breakdowns would occur at least in some countries.
-Beyond that however Lenin’s leadership was not accepted. Most of those
-who were present thought of convincing, bullying and using existing
-socialist parties rather than of destroying them. Moreover—and in this
-Lenin agreed—the international revolution was to be brought about by the
-individual actions of the national proletariats, and in the “advanced”
-countries first.
 
-The second stage I date from 1917 to 1927, that is to say, from the rise
-of the bolsheviks to power in Russia to Trotsky’s expulsion from the Central
-Committee of the Bolshevik party (October 1927). That decade witnessed
-the emergence of communist parties and of a Communist (the “Third”)
-International. It also witnessed the (for the time being) definitive break with
-the socialist and laborite parties which, in the case of Germany, was
-embittered beyond remedy by the severely repressive measures adopted by
-the Social Democrats in power during the winter of 1918 to 1919. And
-finally it witnessed the forging of the Russian chain.
+<!-- Since practically all of those who had espoused the causes
+of their nations stayed away,  -->
 
-But during the whole of that decade, the chain neither galled nor
-distorted. It must be remembered that the bolshevik conquest of the rule
-over the most backward of all the great nations was nothing but a fluke. 11
-To a certain extent Lenin himself recognized this. He repeated over and
-over again that final victory would be won only by the action of the
-revolutionary forces in more advanced countries and that this action was
-the really important thing. Of course he dictated to communists as he had
-done before, and he insisted on a strictly centralist organization of the
-Communist International—whose bureau took power to prescribe every
-move of the individual parties—but he did so in his role of communist
-leader and not in his role of Russian despot. That made all the difference.
-The headquarters of the International were in Moscow, the actual leader
-was Russian, but policy was directed in a thoroughly internationalist
-spirit, without any particular reference to Russian national interests and
-on principles with which the communists of all countries substantially
-agreed. Though the personal relation between the Bureau of the
-International and the Political Bureau of the Soviet power 12 was then
-much closer than it was later on, the two were nevertheless much more
-nearly distinct agencies. Thus the International itself and the individual
-parties did not behave differently than they would have behaved in the
-absence of the link with Russia.
+The militants found it easy to rally to Lenin’s program of converting the imperialist war into an international revolution. 
+
+<!-- There was more in this than a mere profession of faith in pristine Marxism and its Messianic promise. 
+
+There was, with some of them, also the clear perception of the truth, to which the bourgeois of all countries were so completely blind, that the fabric of bourgeois society is unequal to the strains and stresses of prolonged “total” warfare and that breakdowns would occur at least in some countries. 
+
+Beyond that however Lenin’s leadership was not accepted. 
+
+Most of those who were present thought of convincing, bullying and using existing socialist parties rather than of destroying them.  -->
+
+Lenin agreed that the international revolution was to be brought about by the individual actions of the national proletariats, and in the “advanced” countries first.
+
+The second stage is from 1917 to 1927 from the rise of the bolsheviks to power in Russia to Trotsky’s expulsion from the Central Committee of the Bolshevik party (October 1927). 
+
+That decade witnessed the emergence of communist parties and of a Communist (the “Third”) International. 
+
+It also witnessed the (for the time being) definitive break with the socialist and laborite parties which, in the case of Germany, was embittered beyond remedy by the severely repressive measures adopted by the Social Democrats in power during the winter of 1918 to 1919. 
+
+It witnessed the forging of the Russian chain.
+
+But during the whole of that decade, the chain neither galled nor distorted. It must be remembered that the bolshevik conquest of the rule over the most backward of all the great nations was nothing but a fluke. 11 
+
+To a certain extent Lenin himself recognized this. He repeated over and over again that final victory would be won only by the action of the revolutionary forces in more advanced countries and that this action was the really important thing. Of course he dictated to communists as he had done before, and he insisted on a strictly centralist organization of the Communist International—whose bureau took power to prescribe every move of the individual parties—but he did so in his role of communist leader and not in his role of Russian despot. 
+
+That made all the difference. The headquarters of the International were in Moscow, the actual leader was Russian, but policy was directed in a thoroughly internationalist spirit, without any particular reference to Russian national interests and on principles with which the communists of all countries substantially agreed. Though the personal relation between the Bureau of the International and the Political Bureau of the Soviet power 12 was then much closer than it was later on, the two were nevertheless much more nearly distinct agencies. Thus the International itself and the individual parties did not behave differently than they would have behaved in the absence of the link with Russia.
 
 <!-- 11 For this fluke, bolshevism was possibly indebted to the German general staff, by whose
 orders Lenin was transported to Russia. If this should be thought an exaggeration of his personal
 share in the events of 1917, there were enough other chance factors in the situation to teach us
 the freakishness of this piece of history. -->
 
-During that decade, therefore, the importance of the Russian
-connection, though great, did not amount to more than this. First of all,
-there was the weighty fact that however insignificant in quality and
-quantity of membership a communist group might be and however little
-claim to being taken seriously it might have, it could bask in the glory
-reflected by that other group which had conquered an empire, and it
-could derive encouragement from such a backing. Second, bolshevist
-reality notwithstanding—the terror, the misery, the confession of failure
-implied in the adoption of the New Economic Policy after the Kronstadt
-revolt—it was henceforth possible to point to a socialist system that
-“worked.” The bolsheviks proved themselves masters in the art of
-exploiting the fact that public opinion in England and the United States
-will swallow anything provided it is served up in the garb of familiar
-slogans. This of course also redounded to the advantage of the other
-communist parties. Third, so long as communists of all countries (Lenin
-himself included) believed in the imminence of a world revolution, the
-Russian army meant as much to them as the army of Tsar Nicholas I had
-meant to the reactionary groups during the second quarter of the
-nineteenth century. 13 In 1919 such hopes were less unreasonable and
-nearer to fulfillment than people are now prepared to believe. It is true
-that communist republics were actually established only in Bavaria and
-in Hungary. 14 
+During that decade, therefore, the importance of the Russian connection, though great, did not amount to more than this. 
+
+1. A communist group would have low quality and quantity of membership. But it had backing from the Russian Empire. 
+
+<!-- might be and however little claim to being taken seriously it might have, it could bask in the glory reflected by that other group which had conquered an empire, and it could derive encouragement from such a backing.  -->
+
+2. Bolshevist reality notwithstanding—the terror, the misery, the confession of failure implied in the adoption of the New Economic Policy after the Kronstadt revolt—it was henceforth possible to point to a socialist system that “worked.” 
+
+The bolsheviks were masters in exploiting the fact that public opinion in England and the United States will swallow anything provided it is served up in the garb of familiar slogans. 
+
+This of course also redounded to the advantage of the other communist parties. 
+
+3. Communists believed in the imminence of a world revolution.
+
+<!-- The Russian army meant as much to them as the army of Tsar Nicholas I had meant to the reactionary groups during the second quarter of the nineteenth century. 13 
+
+In 1919 such hopes were less unreasonable and nearer to fulfillment than people are now prepared to believe. It is true that communist republics were actually established only in Bavaria and in Hungary. 14 -->
 
 <!-- 12 In Lenin’s time, administrative authority was wielded by the Political Bureau, run by
 Lenin himself, by the Military Council, Trotsky’s domain, and by the Cheka, then managed by
@@ -146,9 +112,9 @@ sufficient. They were allowed to stage their opera and might have gone on for an
 if the Allies had not permitted (or ordered) the Rumanian army to eject them.
  -->
 
-But in Germany, Austria and Italy the social structure was perilously near toppling and there-is no saying what would have happened in those countries and possibly farther west if Trotsky’s war
-machine had been in working order at that time and not engaged in the
-civil and the Polish wars. 15 It should not be forgotten that the Communist
+But in Germany, Austria and Italy the social structure was perilously near toppling and there-is no saying what would have happened in those countries and possibly farther west if Trotsky’s war machine had been in working order at that time and not engaged in the civil and the Polish wars. 15
+
+The Communist
 International was founded in that atmosphere of impending life and death
 struggle. Many things which acquired a different meaning afterwards—
 such as the centralized management that has unlimited power over the

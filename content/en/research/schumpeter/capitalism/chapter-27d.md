@@ -1,3 +1,14 @@
+---
+heading: Chapter 4
+title: "Marx The Teacher"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 12
+---
+
+
+
 IV. A DMINISTERING C APITALISM?
 
 
@@ -8,7 +19,9 @@ in Sweden for instance—socialists merely continued to consolidate a power
 they had acquired before; in others, power had come naturally to them
 without having to be conquered by revolutionary action; in all countries,
 they seemed to be much more in a position to grapple with the great
-problems of the time than was any other party. As I have put it before, they
+problems of the time than was any other party. 
+
+As I have put it before, they
 almost seemed to monopolize the essential conditions for success.
 Moreover, though most of them had not had any previous experience in
 office, they had acquired plenty of experience of a most useful sort in

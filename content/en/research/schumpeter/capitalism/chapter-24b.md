@@ -1,6 +1,6 @@
 ---
 heading: Chapter 24b
-title: "DEMOCRACY IN THE SOCIALIST ORDER"
+title: "Democracy In The Socialist Order"
 c: "firebrick"
 description: ""
 date: 2025-09-21
@@ -49,7 +49,7 @@ condemning. In trying to distance himself, the socialist not only is being ungra
 wave that carries him, but he is also courting the danger that its forces might be harnessed
 into other service. -->
 
-Third, not all of those whom Marxists include among the utopians lacked contact with mass movements. Some contact inevitably resulted from the fact
+3. Not all of those whom Marxists include among the utopians lacked contact with mass movements. Some contact inevitably resulted from the fact
 that the social and economic conditions which set in motion the intellectual’s
 pen will also set in motion some group or class of the people—peasants or
 artisans or agricultural laborers or simply the vagrants and the rabble. But
@@ -59,7 +59,9 @@ formulated by intellectuals, and coordination and cooperation steadily became
 closer as the centuries rolled on. “Gracchus” Babeuf, the leading spirit of the
 only purely socialist movement within the French Revolution, was considered
 of sufficient importance for the government to pay him the compliment of
-executing him in 1797. Again England best illustrates this development. We
+executing him in 1797. 
+
+England best illustrates this development. We
 need only compare, from this angle, the history of the Leveller movement in
 the seventeenth and the Chartist movement in the nineteenth centuries. In the
 first case, Winstanley joined and led as an individual; in the second case,
@@ -105,7 +107,9 @@ movement is not essentially socialist, just as socialism is not necessarily
 laborite or proletarian. Nor is this surprising. For we have seen in Part II
 that though the capitalist process slowly socializes economic life and much
 besides, this spells transformation of the whole of the social organism all
-parts of which are equally affected. The real income and the social weight
+parts of which are equally affected. 
+
+The real income and the social weight
 of the working class rise in this process, and capitalist society becomes
 more and more incapable of dealing with labor difficulties. But this is a
 poor substitute for the Marxian picture of labor being goaded into the
@@ -141,12 +145,16 @@ of social motive power thus produced a special case which, though
 practically the most important, yet stands logically on a par with others that
 are frauds and heresies to the orthodox.
 
-4 See ch. xxvi. Marxists will naturally reply that those phenomena are mere derivates of
+<!-- 4 See ch. xxvi.  -->
+
+Marxists will naturally reply that those phenomena are mere derivates of
 the genuine one, mere effects of the forward march of the proletariat. This is true if it means
 that the latter is one of the factors in the situation which produced and is producing the former.
 But taken in this sense, this proposition does not constitute an objection. If it means that there
 is a one-way or purely cause-effect relation between proletarian and state socialism, then it does
-constitute an objection but it is wrong. The socio-psychological process described in Part II will,
+constitute an objection but it is wrong. 
+
+The socio-psychological process described in Part II will,
 without any pressure from below, produce state and Fabian socialism which will even help to
 produce that pressure. As we shall presently see, it is a fair question to ask where socialism
 would be without the fellow traveler. It is certain that socialism (as distinguished from the labor

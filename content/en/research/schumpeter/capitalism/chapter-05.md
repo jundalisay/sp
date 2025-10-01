@@ -24,6 +24,8 @@ never tell us what will happen to the pattern but only what would happen if
 they continued to act as they have been acting in the time interval covered
 by our observation and if no other factors intruded. “Inevitability” or
 “necessity” can never mean more than this.
+
+
 What follows must be read with that proviso. But there are other
 limitations to our results and their reliability. The process of social life is
 a function of so many variables many of which are not amenable to
@@ -59,9 +61,9 @@ breakdown.
 
 
 
-CHAPTER V
-THE RATE OF INCREASE OF TOTAL OUTPUT
-T HE atmosphere of hostility to capitalism which we shall have to explain
+## CHAPTER 5: THE RATE OF INCREASE OF TOTAL OUTPUT
+
+The atmosphere of hostility to capitalism which we shall have to explain
 presently makes it much more difficult than it otherwise would be to
 form a rational opinion about its economic and cultural performance. The
 public mind has by now so thoroughly grown out of humor with it as to
@@ -78,6 +80,7 @@ task: in 300 A.D. it would not have been easy to expound the achievements
 of ancient civilization to a fervent believer in Christianity. On the one hand,
 the most obvious truths are simply put out of court a limine;1 on the other
 hand, the most obvious misstatements are borne with or applauded.
+
 A first test of economic performance is total output, the total of all the
 commodities and services produced in a unit of time—a year or a quarter
 of a year or a month. Economists try to measure variations in this quantity
@@ -88,15 +91,16 @@ not only the material and the technique of constructing such an index, but
 the very concept of a total output of different commodities produced in ever-
 changing proportions, is a highly doubtful matter. 3 Nevertheless, I believe
 that this device is sufficiently reliable to give us a general idea.
-1 There is however another method of dealing with obvious though uncomfortable truth, viz.,
+
+<!-- 1 There is however another method of dealing with obvious though uncomfortable truth, viz.,
 the method of sneering at its triviality. Such a sneer will serve as well as a refutation would,
 for the average audience is as a rule perfectly unaware of the fact that it often covers the
 impossibility of denial—a pretty specimen of social psychology.
 2 A.F.Burns, Production Trends in the United States Since 1870, p. 262.
 3 We cannot enter into this problem here. A little will, however, be said about it when
 we meet it again in the next chapter. For a fuller treatment see my book on Business
-Cycles, ch. ix.
-Can Capitalism Survive?64
+Cycles, ch. ix. -->
+
 For the United States, individual series good and numerous enough to
 warrant construction of such an index of output are available since the Civil
 War. Choosing what is known as the Day-Persons index of total production 4
@@ -109,6 +113,7 @@ consumption cannot have increased at the same rate as total production. We
 must allow for that. But I believe that an allowance of 1.7 per cent is ample; 5
 thus we arrive at a rate of increase in “available output” of 2 per cent
 (compound interest) per year.
+
 Now suppose that the capitalist engine keeps on producing at that rate of
 increase for another half century starting from 1928. To this assumption there
 are various objections which will have to be noticed later on, but it cannot
@@ -125,6 +130,7 @@ difficulties incident to the adaptation to a new fiscal policy, new labor
 legislation and a general change in the attitude of government to private
 enterprise all of which can, in a sense to be defined later, be distinguished
 from the working of the productive apparatus as such.
+
 Since misunderstandings at this point would be especially undesirable, I
 wish to emphasize that the last sentence does not in itself imply either an
 adverse criticism of the New Deal policies or the proposition—which I do
@@ -134,11 +140,13 @@ system of private enterprise. All I now mean to imply is that so extensive
 and rapid a change of the social scene naturally affects productive
 performance for a time, and so much the most ardent New Dealer must and
 also can admit. I for one do not see how it would otherwise be possible to
-4 See W.M.Persons, Forecasting Business Cycles, ch. xi.
+
+<!-- 4 See W.M.Persons, Forecasting Business Cycles, ch. xi.
 5 That allowance is in fact absurdly large. See also Professor F.C.Mill’s estimate of 3.1 per
 cent for the period 1901–1913, and of 3.8 per cent for the period 1922–1929 (construction
-excluded; Economic Tendencies in the United States, 1932).
-The Rate of Increse of Total Output 65
+excluded; Economic Tendencies in the United States, 1932). -->
+
+
 account for the fact that this country which had the best chance of recovering
 quickly was precisely the one to experience the most unsatisfactory recovery.
 The only somewhat similar case, that of France, supports the same inference.
@@ -146,6 +154,7 @@ It follows that the course of events during the decade from 1929 to 1939 does
 not per se constitute a valid reason for refusing to listen to the argument in
 hand which, moreover, may in any case serve to illustrate the meaning of
 past performance.
+
 Well, if from 1928 on available production under the conditions of the
 capitalist order continued to develop as it did before, i.e., at a long-run
 average rate of increase of 2 per cent per year, it would after fifty years,
@@ -160,6 +169,7 @@ Sloane’s estimate, which gives 160 millions for 1978. Average income per
 head during those fifty years would therefore increase to a little more than
 double its 1928 amount, which was about $650, or to about $1300 of 1928
 purchasing power. 7
+
 Perhaps some readers feel that a proviso should be added about the
 distribution of the total monetary income. Until about forty years ago,
 many economists besides Marx believed that the capitalist process tended
@@ -170,9 +180,11 @@ such tendency. Whatever may be thought of the statistical measures
 devised for the purpose, this much is certain: that the structure of the
 pyramid of incomes, expressed in terms of money, has not greatly
 changed during the period covered by our material—which for England
-6 “Consumption” includes the acquisition of durable consumers’ goods such as motor cars,
+
+<!-- 6 “Consumption” includes the acquisition of durable consumers’ goods such as motor cars,
 refrigerators and homes. We do not distinguish between transient consumers’ goods and what
 is sometimes referred to as “consumers’ capital.”
+
 7 That is to say, average real income per head would increase at a compound interest rate
 of 1? per cent. It so happens that in England, during the century preceding the First World War,
 real income per head of population increased at almost exactly that rate (see Lord Stamp in
@@ -181,14 +193,15 @@ think it serves to show that our little calculation is not wildly absurd. In Num
 National Industrial Conference Board Studies, Table I, pp. 6 and 7, we find that “per capita
 realized national income” adjusted by the Federal Reserve Bank of New York and the National
 Industrial Conference Board cost of living index, was in 1929 a little over four times the 1829
-figure—a similar result, though open to still more serious doubts as to reliability.
-Can Capitalism Survive?66
+figure—a similar result, though open to still more serious doubts as to reliability. -->
+
 includes the whole of the nineteenth century 8 —and that the relative share
 of wages plus salaries has also been substantially constant over time.
 There is, so long as we are discussing what the capitalist engine might
 do if left to itself, no reason to believe that the distribution of incomes
 or the dispersion about our average would in 1978 be significantly
 different from what it was in 1928.
+
 One way of expressing our result is that, if capitalism repeated its past
 performance for another half century starting with 1928, this would do away
 with anything that according to present standards could be called poverty,
@@ -202,7 +215,9 @@ improvements in quality almost completely fail to assert themselves
 although they constitute, in many lines, the core of the progress
 achieved—there is no way of expressing adequately the difference
 between a motorcar of 1940 and a motorcar of 1900 or the extent to
-which the price of motorcars per unit of utility has fallen. It would be
+which the price of motorcars per unit of utility has fallen. 
+
+It would be
 more nearly possible to estimate the rate at which given quantities of
 raw materials or semi-finished products are made to go further than
 they used to—a steel ingot or a ton of coal, though they may be
@@ -224,13 +239,12 @@ is sufficient statistical information, if we clear the latter of the disturbing 
 of various span that are covered by the available material. The measure of income distribution
 (or of inequality of incomes) devised by Vilfredo Pareto is open to objection. But the fact itself
 is independent of its shortcomings.
-The Rate of Increse of Total Output 67
+
 capitalist production, the reason why we are interested in the index of
 production and the pounds and gallons that enter into it and would
 hardly be worth while in themselves.
-But let us keep to our 2 per cent. There is one more point that is
-important for a correct appraisal of that figure. I have stated above that,
-broadly speaking, relative shares in national income have remained
+
+Relative shares in national income have remained
 substantially constant over the last hundred years. This, however, is true
 only if we measure them in money. Measured in real terms, relative shares
 have substantially changed in favor of the lower income groups. This
@@ -240,6 +254,7 @@ masses, whereas, climbing upward in the scale of individual incomes, we
 find that an increasing proportion is being spent on personal services and
 on handmade commodities, the prices of which are largely a function of
 wage rates.
+
 Verification is easy. There are no doubt some things available to the
 modern workman that Louis XIV himself would have been delighted to
 have yet was unable to have—modern dentistry for instance. On the whole,
@@ -255,6 +270,7 @@ Elizabeth owned silk stockings. The capitalist achievement does not
 typically consist in providing more silk stockings for queens but in
 bringing them within the reach of factory girls in return for steadily
 decreasing amounts of effort.
+
 The same fact stands out still better if we glance at those long waves in
 economic activity, analysis of which reveals the nature and mechanism of
 the capitalist process better than anything else. Each of them consists of an
@@ -265,10 +281,9 @@ wave toward the end of the 1780’s, its culmination around 1800, its
 downward sweep and then a sort of recovery ending at the beginning of the
 1840’s. This was the Industrial Revolution dear to the heart of textbook
 writers. Upon its heels, however, came another such revolution producing
-another long wave that rose in the forties, culminated just before 1857 and
-Can Capitalism Survive?68
-ebbed away to 1897, to be followed in turn by the one that reached its peak
+another long wave that rose in the forties, culminated just before 1857 and ebbed away to 1897, to be followed in turn by the one that reached its peak
 about 1911 and is now in the act of ebbing away. 9
+
 These revolutions periodically reshape the existing structure of industry
 by introducing new methods of production—the mechanized factory, the
 electrified factory, chemical synthesis and the like; new commodities, such
@@ -303,16 +318,18 @@ And still this is not all. Appraisal of an economic order would be
 incomplete—and incidentally un-Marxian—if it stopped at the output which
 the corresponding economic conveyor hands to the various groups of society
 and left out of account all those things that the conveyor does not serve
-9 These are the “long waves” which, in business cycle literature, are primarily associated
+
+<!-- 9 These are the “long waves” which, in business cycle literature, are primarily associated
 with the name of N.D.Kondratieff.
 10 This of course also applies to agricultural commodities, the cheap mass production of
 which was entirely the work of large-scale capitalist enterprise (railroads, shipping, agricultural
-machinery, fertilizers).
-The Rate of Increse of Total Output 69
+machinery, fertilizers). -->
+
 directly but for which it provides the means as well as the political volition,
 and all those cultural achievements that are induced by the mentality it
 generates. Deferring consideration of the latter (Chapter XI), we shall now
 turn to some aspects of the former.
+
 The technique and atmosphere of the struggle for social legislation
 obscures the otherwise obvious facts that, on the one hand, part of this
 legislation presupposes previous capitalist success (in other words, wealth
@@ -335,6 +352,7 @@ average number of 16 million unemployed including dependents (10 per
 cent of the population) would not in itself be a serious matter with an
 available national income of the order of magnitude of 200 billion dollars
 (purchasing power of 1928).
+
 May I call the reader’s attention to the reason why unemployment which
 everyone agrees must be one of the most important issues in any discussion
 of capitalism—with some critics so much so that they base their indictment
@@ -350,7 +368,7 @@ members. It is a typically cyclical series and displays no trend (or a
 Fluctuations or my Business Cycles. For every country there seems to be an irreducible
 minimum and, superimposed on that, a cyclical movement, the strongest component of which
 has a period of about nine to ten years.
-Can Capitalism Survive?70
+
 horizontal one). 11 Since this is theoretically understandable—there is no
 theoretical reason to call the evidence in question—those two propositions
 seem established for the prewar time to 1913 inclusive. In the postwar time
@@ -372,6 +390,7 @@ that swelled the statistical figure, in England and Germany fiscal policies
 are no doubt symptoms of an “atmosphere” in which capitalism will work
 with decreasing efficiency. That however is another matter which will
 engage our attention later on.
+
 But whether lasting or temporary, getting worse or not, unemployment
 undoubtedly is and always has been a scourge. In the next part of this book
 we shall have to list its possible elimination among the claims of the
@@ -391,9 +410,7 @@ indictment would in that case enter the limbo filled by the sorry specters
 of child labor and sixteen-hour working days and five persons living in one
 room which it is quite proper to emphasize when we are talking about the
 past social costs of capitalist achievement but which are not necessarily
-relevant to the balance of alternatives for the future. Our own time is
-The Rate of Increse of Total Output 71
-somewhere between the disabilities of earlier stages in capitalist evolution
+relevant to the balance of alternatives for the future. Our own time is somewhere between the disabilities of earlier stages in capitalist evolution
 and the abilities of the system in full maturity. In this country at least, the
 better part of the task could even now be accomplished without undue
 strain on the system. The difficulties do not seem to consist so much in
@@ -404,6 +421,7 @@ in the thirties and, on the other hand, in the fact that public opinion as soon
 as it becomes at all alive to the duty in question, immediately insists on
 economically irrational methods of financing relief and on lax and wasteful
 methods of administering it.
+
 Much the same argument applies to the future—and to a great extent the
 present—possibilities held out by capitalist evolution for the care of the aged
 and sick, for education and hygiene and so on. Also, an increasing number

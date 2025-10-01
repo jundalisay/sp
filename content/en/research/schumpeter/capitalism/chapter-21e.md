@@ -93,6 +93,7 @@ brotherliness, will be in a position also to accept, in all sincerity, almost an
 amount of deviations from them that his own behavior or position may involve.
 That is not even illogical. Mere distance from fact is no argument against an
 ethical maxim or a mystical hope.
+
 Second, there is the fact that the forms and phrases of classical democracy
 are for many nations associated with events and developments in their history
 which are enthusiastically approved by large majorities. Any opposition to

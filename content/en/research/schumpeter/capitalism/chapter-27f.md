@@ -1,20 +1,32 @@
-V. T HE P RESENT W AR A ND T HE F UTURE O F S OCIALIST P ARTIES
+---
+heading: Chapter 27b
+title: "Conditions For The Success Of The Democratic Method"
+c: "firebrick"
+description: ""
+date: 2025-09-21
+weight: 193
+---
+
+
+## 5. The Present War And The Future Of Socialist Parties
 
 How the present war will affect the fortunes of existing socialist groups of
-course depends on its duration and outcome. For our purpose, I do not see
-any point in speculating about this. Let us however, by way of example,
-consider two cases out of a great many possible ones.
+course depends on its duration and outcome.
 
-Even now (July 1942) many observers seem to expect that Russia will
-emerge from the war with a great access of power and prestige, in fact that
-Stalin will emerge as the true victor. If this should be so, it does not
+Now July 1942, people expect that:
+- Russia will emerge from the war with great power and prestige.
+- Stalin will emerge as the true victor
+
+If this should be so, it does not
 necessarily follow that a communist world revolution will be the
 consequence or even that there will be “Russification” of continental Europe
 accompanied by an extermination of the upper strata and a settlement of
 accounts with non-communist socialist (and Trotskyite) groups. For even
 barring a possible Anglo-American resistance to the expansion of Russian
 power, it is not certain that the self-interest of Russian autocracy will lie in
-that direction. But it is certain that the chances for such a consummation—
+that direction. 
+
+But it is certain that the chances for such a consummation—
 realization of the full Lenin program—would be immeasurably increased.
 However this world revolution might differ from the Marxian idea, it would
 for those who are willing to accept it as a substitute doubtless cease to be a
@@ -40,8 +52,9 @@ of this kind in which the interests and ambitions of other nations would
 count only as far as understood and approved by England and the United
 States can be established only by military force and upheld only by
 permanent readiness to use military force. It is perhaps unnecessary to
-explain why, in the political and economic conditions of our time, this would mean for these two countries a social organization that is best
-described as Militarist Socialism. But it is clear that the task of controlling
+explain why, in the political and economic conditions of our time, this would mean for these two countries a social organization that is best described as Militarist Socialism. 
+
+But it is clear that the task of controlling
 and policing the world would be much facilitated, on the one hand, by the
 re-creation and new creation of small and inefficient states in Europe and,
 on the other hand, by installing governments of the laborite or Social
@@ -60,6 +73,7 @@ mean another great stride toward the socialist order. An appeal to our
 experience of the effects of the First World War on the social fabric of
 Europe suffices to establish this prognosis. This time however the stride will
 be taken also in the United States.
+
 But that experience, though a valuable guide, is an inadequate one. A
 quarter of a century has elapsed. This is no negligible span even as regards
 the secular forces that make for socialism in the sense explained in Part II.
@@ -95,10 +109,13 @@ only practicable alternative to deadlocks and incessant friction.
 Details and phrases will of course differ in different countries. So will
 political tactics and economic results. 
 
-English developments are comparatively
-easy to foresee. The labor men entered the Churchill government in response
-to the call of emergency. But, as has been pointed out before, they were then
+English developments are comparatively easy to foresee. 
+
+The labor men entered the Churchill government in response to the call of emergency. 
+
+But, as has been pointed out before, they were then
 well advanced on the road to office and power irrespective of any emergency.
+
 Therefore they will quite naturally be in a position to manage postwar
 reconstruction alone or—which may prove to be the most effective method—
 in a coalition they would control. The war economy will have realized some
@@ -107,12 +124,17 @@ what they have got already. Further advance toward the socialist goal can be
 expected to be relatively easy in conditions in which there is not much left
 for capitalists to fight for. And it may prove possible to be quite frank about
 it and to carry out socialization soberly, in an orderly way, and largely by
-consent. For many reasons, but principally because of the weakness of the
+consent. 
+
+For many reasons, but principally because of the weakness of the
 official socialist party, prognosis is less easy in the case of this country. But
 ultimate results are not likely to be different, though slogans are almost sure
 to be—and costs in terms of both welfare and cultural values.
+
 Once more: it is only socialism in the sense defined in this book that is
-so predictable. Nothing else is. In particular there is little reason to believe
+so predictable. 
+
+Nothing else is. In particular there is little reason to believe
 that this socialism will mean the advent of the civilization of which orthodox
 socialists dream. It is much more likely to present fascist features. That
 would be a strange answer to Marx’s prayer. But history sometimes indulges

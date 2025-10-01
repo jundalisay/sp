@@ -49,9 +49,8 @@ run of political practitioners. Also they command sources of strength which mere
 practitioners will never be able to understand.
 <!-- 1 One of these points has been dealt with elsewhere. See ch. xx. -->
 
-CHAPTER XXIV
 
-THE NONAGE
+## CHAPTER 24: THE NONAGE
 
 SOCIALIST doctrines, in some of their roots presumably as old as
 articulate thought, were dreams, beautiful or hateful—impotent longings
@@ -65,7 +64,9 @@ This is the gist of Marx’s criticism of most of the socialists who preceded
 him or in his day offered competitive teaching, and the reason why he called
 them Utopian. The point was not so much that many of their schemes were
 obviously freaks or otherwise below par intellectually, but that those schemes
-were essentially unimplemented and unimplementable. A few examples will
+were essentially unimplemented and unimplementable. 
+
+A few examples will
 illustrate this and will stand instead of a survey of a large body of literature.
 Also they will suffice to show how far Marx’s judgment was wrong.
 Sir Thomas More’s (1478–1535) Utopia, read, admired and even
@@ -76,7 +77,9 @@ ideal may be but the literary form of social criticism. Perhaps we need
 not accept it for a presentation of More’s opinion about the aims of
 practical social planning. However, if it be understood in the latter
 sense—and so it was—the trouble with it does not lie in its
-impracticability. In some respects it is less impracticable than are certain
+impracticability. 
+
+In some respects it is less impracticable than are certain
 present-day forms of idyllic socialism. For instance, it faces the question
 of authority and it frankly accepts the prospect—exalted no doubt into a
 virtue—of a modest standard of life. The real trouble is that there is no

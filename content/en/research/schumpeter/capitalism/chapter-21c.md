@@ -18,7 +18,9 @@ subject belongs to a chapter of social psychology that might be entitled
 During the second half of the last century, the idea of the human
 personality that is a homogeneous unit and the idea of a definite will that is
 the prime mover of action have been steadily fading—even before the times
-of Théodule Ribot and of Sigmund Freud. In particular, these ideas have
+of Théodule Ribot and of Sigmund Freud. 
+
+In particular, these ideas have
 been increasingly discounted in the field of social sciences where the
 importance of the extra-rational and irrational element in our behavior has
 been receiving more and more attention, witness Pareto’s Mind and Society.
@@ -29,14 +31,18 @@ The one—in spite of much more careful later work—may still be
 associated with the name of Gustave Le Bon, the founder or, at any rate, the
 6 Other instances could in fact be adduced from Napoleon’s practice. He was an autocrat
 who, whenever his dynastic interests and his foreign policy were not concerned, simply strove
-to do what he conceived the people wanted or needed. This is what the advice amounted to
+to do what he conceived the people wanted or needed. 
+
+This is what the advice amounted to
 which he gave to Eugène Beauharnais concerning the latter’s administration of northern Italy.
 7 This is the title of the frank and charming book by one of the most lovable English radicals
 who ever lived, Graham Wallas. In spite of all that has since been written on the subject and
 especially in spite of all the detailed case studies that now make it possible to see so much
 more clearly, that book may still be recommended as the best introduction to political
 psychology. Yet, after having stated with admirable honesty the case against the uncritical
-acceptance of the classical doctrine, the author fails to draw the obvious conclusion. This is
+acceptance of the classical doctrine, the author fails to draw the obvious conclusion. 
+
+This is
 all the more remarkable because he rightly insists on the necessity of a scientific attitude of
 mind and because he does not fail to take Lord Bryce to task for having, in his book on the
 American commonwealth, professed himself “grimly” resolved to see some blue sky in the
@@ -57,7 +63,9 @@ serious blow to the picture of man’s nature which underlies the classical
 doctrine of democracy and democratic folklore about revolutions. No doubt
 there is much to be said about the narrowness of the factual basis of Le
 Bon’s inferences which, for instance, do not fit at all well the normal
-behavior of an English or Anglo-American crowd. Critics, especially those
+behavior of an English or Anglo-American crowd. 
+
+Critics, especially those
 to whom the implications of this branch of social psychology were
 uncongenial, did not fail to make the most of its vulnerable points. But on
 the other hand it must not be forgotten that the phenomena of crowd

@@ -26,10 +26,10 @@ between all the possible definitions of the concept “people” (demos, the
 Roman populus) and all the possible definitions of the concept “to rule”
 (kratein), and because these definitions are not independent of the argument about democracy. 
 
-9 In particular it is not true that democracy will always safeguard freedom of conscience
+<!-- 9 In particular it is not true that democracy will always safeguard freedom of conscience
 better than autocracy. Witness the most famous of all trials. Pilate was from the standpoint of
 the Jews, certainly the representative of autocracy. Yet he tried to protect freedom. And he
-yielded to a democracy.
+yielded to a democracy. -->
 
 
 
@@ -51,7 +51,9 @@ not allowed to vote, we cannot call a nation undemocratic that for the same
 or analogous reasons excludes other people as well. Observe: it is not
 relevant whether we, the observers, admit the validity of those reasons or of
 the practical rules by which they are made to exclude portions of the
-population; all that matters is that the society in question admits it. Nor
+population; all that matters is that the society in question admits it. 
+
+Nor
 should it be objected that, while this may apply to exclusions on grounds of
 personal unfitness (e.g., “age of discretion”), it does not apply to wholesale
 exclusion on grounds that have nothing to do with the ability to make an
@@ -60,7 +62,9 @@ degree. Its presence must be established by some set of rules. Without
 absurdity or insincerity it is possible to hold that fitness is measured by one’s
 ability to support oneself. In a commonwealth of strong religious conviction
 it may be held—again without any absurdity or insincerity—that dissent
-disqualifies or, in an anti-feminist commonwealth, sex. A race-conscious
+disqualifies or, in an anti-feminist commonwealth, sex. 
+
+A race-conscious
 nation may associate fitness with racial considerations. 12 And so on. The
 salient point, to repeat, is not what we think about any or all of these possible
 disabilities. The salient point is that, given appropriate views on those and
@@ -82,7 +86,9 @@ sex will enter into the same class with disqualifications which we all of us
 consider compatible with democracy. We may disapprove of them to be sure.
 But if we do so we should in good logic disapprove of the theories about
 the importance of property, religion, sex, race and so on, rather than call such
-societies undemocratic. Religious fervor for instance is certainly compatible
+societies undemocratic. 
+
+Religious fervor for instance is certainly compatible
 with democracy however we define the latter. There is a type of religious
 attitude to which a heretic seems worse than a madman. Does it not follow
 that the heretic should be barred from participation in political decisions as
@@ -121,9 +127,9 @@ Bolshevik party would not per se entitle us to call the Soviet Republic undemocr
 entitled to call it so only if the Bolshevik party itself is managed in an undemocratic
 manner—as obviously it is.
 
-14 Smallness of numbers and local concentration of the people are essential.
+<!-- 14 Smallness of numbers and local concentration of the people are essential.
 Primitivity of civilization and simplicity of structure are less so but greatly facilitate the
-functioning of democracy.
+functioning of democracy. -->
 
 
 all the individuals who form the people as defined by the constitution
@@ -229,13 +235,16 @@ meaning. 17 What, then, is a parliament? The answer is not far to seek: it is
 an organ of the state exactly as the government or a court of justice is. If a
 parliament represents the people at all, it must do so in another sense which
 we have still to discover.
+
 However, these “theories” about the sovereignty of the people and about
 delegation and representation reflect something more than an ideological
 postulate and a few pieces of legal technique. They complement a sociology
 or social philosophy of the body politic that, partly under the influence of
 the revival of Greek speculations on the subject, partly under the influence
 of the events of the time, 18 took shape and reached its apogee toward the end
-of the eighteenth century and actually tried to solve the problem. Though
+of the eighteenth century and actually tried to solve the problem. 
+
+Though
 such general terms are never adequate or strictly correct, I will risk
 describing it—in the usual way—as fundamentally rationalist, hedonist and
 individualist: the happiness, defined in hedonic terms, of individuals

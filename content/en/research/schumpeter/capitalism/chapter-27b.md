@@ -1,5 +1,5 @@
 ---
-heading: Chapter 27
+heading: Chapter 27b
 title: "Conditions For The Success Of The Democratic Method"
 c: "firebrick"
 description: ""
@@ -107,7 +107,9 @@ some of them, a party that was the enemy of what France and England had
 convinced themselves was their enemy; on the other hand, it realized that
 German Social Democracy need not be feared on other counts—however
 conservative a government might be, there was no need for it to object to
-German as it did object to Russian socialism. In the long run this was a
+German as it did object to Russian socialism. 
+
+In the long run this was a
 weakness. It had much to do with the dilatory treatment dealt out to German
 grievances, for it induced the foreign offices of England and France to
 believe that Germany would remain indefinitely the meek petitioner who
@@ -136,9 +138,9 @@ meanwhile (see below) exerted an attraction that proved a serious obstacle
 to unity among the laborite and socialist parties of the world. And several
 important groups that were in no mind to throw in their lot with the
 communists still wanted something more up to date than the Second
-International. T
+International. 
 
-his situation was met successfully by a clever tactical
+This situation was met successfully by a clever tactical
 device. On the initiative of the Austrian Socialists who were joined by the
 German Independents and the English Independent Labor Party, a new
 organization, the Workers’ International Union of Socialist Parties (the so-

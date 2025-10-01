@@ -1,6 +1,6 @@
 ---
 heading: Chapter 27
-title: "FROM THE FIRST TO THE SECOND WORLD WAR"
+title: "From The First To The Second World War"
 c: "firebrick"
 description: ""
 date: 2025-09-21
@@ -8,13 +8,17 @@ weight: 193
 ---
 
 
-I. THE “GRAN RIFIUTO”
+## 1. The “Gran Rifiuto”
 
-AS MEMBERS of their international organization, the socialist parties
+<!-- AS MEMBERS of their international organization, the socialist parties
 had done all they could to avert the war. But when nevertheless it broke
 out, they rallied to their national causes with a readiness that was truly
-astounding. The German Marxists hesitated even less than the English
-laborites. 1 Of course it must be borne in mind that every belligerent nation
+astounding.  -->
+
+During the war, the German Marxists hesitated even less than the English
+laborites. 1 
+
+Every belligerent nation
 was fully convinced that it was waging a purely defensive war—every war
 is defensive or at least “preventive” in the eyes of the nations that wage it. 2
 Still, if we reflect that the socialist parties had an indubitable constitutional

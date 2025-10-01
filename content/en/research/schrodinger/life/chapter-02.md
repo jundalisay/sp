@@ -44,12 +44,7 @@ rather a familiar truism.
 
 For, naturally, not only the body of
 an adult individual of any higher species, but every single cell
-composing it contains a 'cosmical' number of single atoms of
-
-<!-- I Being is eternal; for laws there are to conserve the treasures of life on which the
-Universe draws for beauty. -->
-
-every kind. And every particular physiological process that we
+composing it contains a 'cosmical' number of single atoms of every kind. And every particular physiological process that we
 observe, either within the cell or in its interaction with the
 environment, appears - or appeared thirty years ago - to
 involve such enormous numbers of single atoms and single
@@ -57,6 +52,9 @@ atomic processes that all the relevant laws of physics and
 physical chemistry would be safeguarded even under the very
 exacting demands of statistical physics in respect of 'large
 numbers'; this demand I illustratedjust now by the Yn rule.
+
+<!-- I Being is eternal; for laws there are to conserve the treasures of life on which the
+Universe draws for beauty. -->
 
 Today, we know that this is wrong.
 

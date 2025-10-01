@@ -57,7 +57,9 @@ impaired by our inability to measure them statistically. The marriage rate
 proves nothing because the term Marriage covers as many sociological
 meanings as does the term Property, and the kind of alliance that used to be
 formed by the marriage contract may completely die out without any change
-in the legal construction or in the frequency of the contract. Nor is the
+in the legal construction or in the frequency of the contract. 
+
+Nor is the
 divorce rate more significant. It does not matter how many marriages are
 dissolved by judicial decree—what matters is how many lack the content
 essential to the old pattern. If in our statistical age readers insist on a
@@ -135,7 +137,9 @@ a matter of course.
 Now, on the one hand, the amenities of the bourgeois home are becoming
 less obvious than are its burdens. To the critical eye of a critical age it is likely
 to appear primarily as a source of trouble and expense which frequently fail
-to justify themselves. This would be so even independently of modern taxation and wages and of the attitude of modern household personnel, all of which
+to justify themselves. 
+
+This would be so even independently of modern taxation and wages and of the attitude of modern household personnel, all of which
 are typical results of the capitalist process and of course greatly strengthen the
 case against what in the near future will be almost universally recognized as
 an outmoded and uneconomical way of life. In this respect as in others we are

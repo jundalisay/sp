@@ -20,7 +20,9 @@ Our chief troubles about the classical theory
 centered in the proposition that “the people” hold a definite and rational
 opinion about every individual question and that they give effect to this
 opinion—in a democracy—by choosing “representatives” who will see to it
-that that opinion is carried out. Thus the selection of the representatives is
+that that opinion is carried out. 
+
+Thus the selection of the representatives is
 made secondary to the primary purpose of the democratic arrangement which
 is to vest the power of deciding political issues in the electorate. Suppose
 we reverse the roles of these two elements and make the deciding of issues
@@ -79,6 +81,7 @@ execution of a volonté générale but will go some way toward showing how it
 emerges or how it is substituted or faked. What we have termed Manufactured
 Will is no longer outside the theory, an aberration for the absence of which
 we piously pray; it enters on the ground floor as it should.
+
 Third, however, so far as there are genuine group-wise volitions at all—
 for instance the will of the unemployed to receive unemployment benefit or
 the will of other groups to help—our theory does not neglect them. On the

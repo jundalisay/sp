@@ -9,24 +9,22 @@ weight: 193
 
 
 
-If a physicist observes that the same mechanism works differently at different
-times and in different places, he concludes that its functioning depends upon
-conditions extraneous to it. We cannot but arrive at the same conclusion. 
+If a physicist observes that the same mechanism works differently at different times and places, he concludes that its functioning depends on extraneous conditions.
 
-These conditions are as it was to see what the
-conditions were under which the classical doctrine of democracy might be
-expected to fit reality to an acceptable degree.
+These conditions are as it was to see what the conditions were under which the classical doctrine of democracy might be expected to fit reality to an acceptable degree.
 
 This conclusion definitely commits us to that strictly, relativist view that
-has been indicated all along. Exactly as there is no case for or against
+has been indicated all along. 
+
+Exactly as there is no case for or against
 socialism at all times and in all places, so there is no absolutely general
 case for or against the democratic method. And exactly as with socialism,
 this makes it difficult to argue by means of a ceteris paribus clause, for
 “other things” cannot be equal as between situations in which democracy
 is a workable, or the only workable, arrangement and situations in which
-it is not. Democracy thrives in social patterns that display certain
-characteristics and it might well be doubted whether there is any sense in
-asking how it would fare in others that lack those characteristics—or how
+it is not. 
+
+Democracy thrives in social patterns that display certain characteristics and it might well be doubted whether there is any sense in asking how it would fare in others that lack those characteristics—or how
 the people in those other patterns would fare with it. The conditions which
 I hold must be fulfilled for the democratic method to be a success 5 —in
 societies in which it is possible for it to work at all—I shall group under

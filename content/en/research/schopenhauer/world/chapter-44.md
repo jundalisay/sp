@@ -13,25 +13,18 @@ writer:
 
 
 
-What the two arts we have spoken of accomplish for
-these lowest grades of the objectivity of will, is performed for
-the higher grades of vegetable nature by artistic horticulture. The
-landscape beauty of a scene consists, for the most part, in the
-multiplicity of natural objects which are present in it, and then in
-the fact that they are clearly separated, appear distinctly, and yet
-exhibit a fitting connection and alternation. These two conditions
-are assisted and promoted by landscape-gardening, but it has
-by no means such a mastery over its material as architecture,
-and therefore its effect is limited. The beauty with which it is
-concerned belongs almost exclusively to nature; it has done little
-for it; and, on the other hand, it can do little against unfavourable
-nature, and when nature works, not for it, but against it, its
-achievements are small.
+What the two arts we have spoken of accomplish for these lowest grades of the objectivity of will, is performed for the higher grades of vegetable nature by artistic horticulture. 
+
+The landscape beauty of a scene consists, for the most part, in the multiplicity of natural objects which are present in it, and then in the fact that they are clearly separated, appear distinctly, and yet exhibit a fitting connection and alternation. These two conditions are assisted and promoted by landscape-gardening, but it has by no means such a mastery over its material as architecture, and therefore its effect is limited. The beauty with which it is concerned belongs almost exclusively to nature; it has done little for it; and, on the other hand, it can do little against unfavourable nature, and when nature works, not for it, but against it, its achievements are small.
 
 The vegetable world offers itself everywhere for æsthetic
-enjoyment without the medium of art; but so far as it is an
+enjoyment without the medium of art.
+
+ but so far as it is an
 object of art, it belongs principally to landscape-painting; to the province of which all the rest of unconscious nature also
-belongs. In paintings of still life, and of mere architecture, ruins,
+belongs. 
+
+In paintings of still life, and of mere architecture, ruins,
 interiors of churches, &c., the subjective side of æsthetic pleasure
 is predominant, i.e., our satisfaction does not lie principally in
 the direct comprehension of the represented Ideas, but rather in
@@ -58,6 +51,8 @@ boar, howling wolves, the lions in the arsenal at Venice, also
 in the Vatican a whole room almost filled with ancient animals,
 &c. In these representations the objective side of æsthetic
 pleasure obtains a marked predominance over the subjective.
+
+
 The peace of the subject which knows these Ideas, which has
 silenced its own will, is indeed present, as it is in all æsthetic
 contemplation; but its effect is not felt, for we are occupied
@@ -93,6 +88,7 @@ explanation of their inner nature, it would be best to make use of
 that Sanscrit formula which occurs so often in the sacred books
 of the Hindoos, and is called Mahavakya, i.e., the great word:
 “Tat twam asi,” which means, “this living thing art thou.”
+
 53 Jakob Böhm in his book, “de Signatura Rerum,” ch. i., § 13-15, says, “There
 is nothing in nature that does not manifest its internal form externally; for the
 internal continually labours to manifest itself.... Everything has its language
