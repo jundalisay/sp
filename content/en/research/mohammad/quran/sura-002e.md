@@ -3,7 +3,7 @@ title: "The Lord Tests Abraham"
 heading: "Sura 2e"
 weight: 12
 description: "Enki makes Abraham the leader of humanity after testing him."
-c: "firebrick"
+c: "maroon"
 ---
 
 

@@ -17,9 +17,9 @@ Socrates, the narrator | ![Socrates avatar](/icons/Socrates.jpg)
 Glaucon | ![Glaucon avatar](/icons/Glaucon.jpg)
 Adeimantus | ![Adeimmantus avatar](/icons/Adeimantus.jpg)
 Polemarchus | ![Polemarchus avatar](/icons/Polemarchus.jpg)
-Cephalus | ![Cephalus avatar](/icons/g08.png) 
-Thrasymachus | ![Thrasymachus avatar](/icons/g10.png) 
-Cleitophon | ![Cleitophon avatar](/icons/g09.png) 
+Cephalus | ![Cephalus avatar](/icons/Cephalus.jpg) 
+Thrasymachus | ![Thrasymachus avatar](/icons/Thrasymachus.jpg) 
+Cleitophon | ![Cleitophon avatar](/icons/Cleitophon.jpg) 
 
 
 

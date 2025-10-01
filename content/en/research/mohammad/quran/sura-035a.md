@@ -2,7 +2,7 @@
 title: "Originator (Fatir)"
 heading: "Sura 35 "
 weight: 146
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

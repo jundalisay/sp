@@ -1,6 +1,7 @@
 ---
-title: "The Laws by Plato Simplified"
-weight: 2
+heading: "Book 7"
+title: "Educational Institutions"
+weight: 20
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

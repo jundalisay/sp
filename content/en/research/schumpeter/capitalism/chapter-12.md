@@ -1,26 +1,25 @@
 ---
 heading: Chapter 12
-title: "CRUMBLING WALLS"
+# title: "CRUMBLING WALLS"
+title: The Obsolescence Of The Entrepreneurial Function
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 38
+weight: 44
 ---
 
 
 
-I. THE OBSOLESCENCE of the ENTREPRENEURIAL FUNCTION
-
-
-IN OUR discussion of the theory of vanishing investment opportunity, a
-reservation was made in favor of the possibility that the economic wants
+IN my theory of vanishing investment opportunity, a reservation was made in favor of the possibility that the economic wants
 of humanity might some day be so completely satisfied that little motive
 would be left to push productive effort still further ahead. Such a state of
 satiety is no doubt very far off even if we keep within the present scheme
 of wants; and if we take account of the fact that, as higher standards of
 life are attained, these wants automatically expand and new wants emerge
 or are created, 1 satiety becomes a flying goal, particularly if we include
-leisure among consumers’ goods. However, let us glance at that possibility,
+leisure among consumers’ goods. 
+
+However, let us glance at that possibility,
 assuming, still more unrealistically, that methods of production have
 reached a state of perfection which does not admit of further improvement
 A more or less stationary state would ensue. Capitalism, being essentially
@@ -132,8 +131,8 @@ of the capitalist entrepreneur. His role, though less glamorous than that of
 medieval warlords, great or small, also is or was just another form of
 individual leadership acting by virtue of personal force and personal
 responsibility for success. His position, like that of warrior classes, is
-threatened as soon as this function in the social process loses its importance, and no less if this is due to the cessation of the social needs it served than
-if those needs are being served by other, more impersonal, methods.
+threatened as soon as this function in the social process loses its importance, and no less if this is due to the cessation of the social needs it served than if those needs are being served by other, more impersonal, methods.
+
 But this affects the position of the entire bourgeois stratum. Although
 entrepreneurs are not necessarily or even typically elements of that stratum from
 the outset, they nevertheless enter it in case of success. Thus, though
@@ -152,21 +151,23 @@ the bourgeoisie therefore depends on the entrepreneur and, as a class, lives and
 will die with him, though a more or less prolonged transitional stage—eventually
 a stage in which it may feel equally unable to die and to live—is quite likely to
 occur, as in fact it did occur in the case of the feudal civilization.
-To sum up this part of our argument: if capitalist evolution—“progress”—
-either ceases or becomes completely automatic, the economic basis of the
+
+If capitalist evolution—“progress”— either ceases or becomes completely automatic, the economic basis of the
 industrial bourgeoisie will be reduced eventually to wages such as are paid
 for current administrative work excepting remnants of quasi-rents and
 monopoloid gains that may be expected to linger on for some time. Since
 capitalist enterprise, by its very achievements, tends to automatize progress,
 we conclude that it tends to make itself superfluous—to break to pieces
-under the pressure of its own success. The perfectly bureaucratized giant
-industrial unit not only ousts the small or medium-sized firm and
+under the pressure of its own success. 
+
+The perfectly bureaucratized giant industrial unit not only ousts the small or medium-sized firm and
 “expropriates” its owners, but in the end it also ousts the entrepreneur and
 expropriates the bourgeoisie as a class which in the process stands to lose
 not only its income but also what is infinitely more important, its function.
 The true pacemakers of socialism were not the intellectuals or agitators who
-preached it but the Vanderbilts, Carnegies and Rockefellers. This result may
+preached it but the Vanderbilts, Carnegies and Rockefellers. 
+
+This result may
 not in every respect be to the taste of Marxian socialists, still less to the taste
 of socialists of a more popular (Marx would have said, vulgar) description.
 But so far as prognosis goes, it does not differ from theirs.
-

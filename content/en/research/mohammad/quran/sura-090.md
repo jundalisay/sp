@@ -2,7 +2,7 @@
 title: "The City, The Sun"
 heading: "Sura 90"
 weight: 244
-c: "firebrick"
+c: "maroon"
 description: "I swear by this city of Makkah"
 ---
 

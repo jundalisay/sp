@@ -2,7 +2,7 @@
 title: "Jesus Son of Mary"
 heading: "Sura 5d "
 weight: 56
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -70,19 +70,19 @@ They said, `We have believed, so bear witness that We have submitted.'“
 
 {{< s v='112-114' >}} The disciples asked: 
 
-{{< r a='Disciples' >}}
+{{< r a="Disciples" >}}
 'O Jesus son of Mary, is your Lord able to bring down for us a feast from heaven?' 
 {{< /r >}}
 
-{{< l a='Jesus' >}}
+{{< l a="Jesus" >}}
 Fear Enki, if you are believers.
 {{< /l >}}
 
-{{< r a='Disciples' >}}
+{{< r a="Disciples" >}}
 We want to eat from it, so that our hearts may be reassured, and know that you have told us the truth, and be among those who witness it.
 {{< /r >}}
 
-{{< l a='Jesus' >}}
+{{< l a="Jesus" >}}
 O Enki, our Lord, send down for us a table from heaven, to be a festival for us, for the first of us, and the last
 {{< /l >}}
 

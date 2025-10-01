@@ -1,8 +1,8 @@
 ---
 title: "Livestock (al-An’am)"
 heading: "Sura 6a "
-weight: 58
-c: "firebrick"
+weight: 59
+c: "maroon"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much."
 ---
 

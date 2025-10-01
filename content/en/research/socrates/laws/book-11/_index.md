@@ -1,6 +1,7 @@
 ---
+heading: "Book 11"
 title: "The Laws by Plato Simplified"
-weight: 2
+weight: 29
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

@@ -12,13 +12,11 @@ weight: 24
 ---
 
 
-In the more elaborate diagram a circle of rotations and a circle of declinations are adjusted to the body of the earth or terrella, with a first, a last, and a middle arc of rotation and declination. Now from each fifth division of the arc which limits all the arcs of rotation (and which are understood[238] as divided into 90 equal parts) arcs are drawn to the pole, and from every fifth degree of the arc limiting the quadrants of declination, quadrants are drawn to the centre; and at the same time a spiral line is drawn, indicating (by the help of a movable quadrant) the declination in every latitude. Straight lines showing the direction of the needle are drawn from those degrees which are marked on the meridian of the earth or a terrella to their proper arcs and the corresponding points on those arcs.
+In the more elaborate diagram a circle of rotations and a circle of declinations are adjusted to the body of the earth or terrella, with a first, a last, and a middle arc of rotation and declination. 
 
-To ascertain the elevation of the pole or the latitude of a place anywhere
-in the world, by means of the following diagram, turned into
-a magnetick instrument, without the help of the cœlestial
-bodies, sun, planets, or fixed stars, in fog
-and darkness.
+From each fifth division of the arc which limits all the arcs of rotation (and which are understood as divided into 90 equal parts) arcs are drawn to the pole, and from every fifth degree of the arc limiting the quadrants of declination, quadrants are drawn to the centre; and at the same time a spiral line is drawn, indicating (by the help of a movable quadrant) the declination in every latitude. Straight lines showing the direction of the needle are drawn from those degrees which are marked on the meridian of the earth or a terrella to their proper arcs and the corresponding points on those arcs.
+
+To ascertain the elevation of the pole or the latitude of a place anywhere in the world, by means of the following diagram, turned into a magnetick instrument, without the help of the cœlestial bodies, sun, planets, or fixed stars, in fog and darkness.
 
 More elaborate diagram.
 
@@ -26,8 +24,11 @@ We may see how far from unproductive magnetick philosophy is, how agreeable, how
 
 With a declination instrument the degree of declination of the magnetick needle below the horizon is observed; that degree is noted on the inner arc of the quadrant, and the quadrant is turned round about the centre of the instrument until that degree on the quadrant touches the spiral line; then in the open space B at the centre of the quadrant the latitude of the region on {201}the circumference of the globe is discerned by means of the fiducial line A B. 
 
-Let the diagram be fixed on a suitable flat board, and let the centre of the corner A of the quadrant be fastened to the centre of it, so that the quadrant may rotate on that centre. But it must be understood that there is also in certain places a variation in the declination on account of causes already mentioned (though not a large one), which it will be an assistance also to allow for on a likely estimate; and it will be especially helpful to observe this variation in various places, as it seems to present greater difficulty than the variation in direction; but it is easily learnt with a declination instrument, when it dips more or less than the line in the diagram.
+Let the diagram be fixed on a suitable flat board, and let the centre of the corner A of the quadrant be fastened to the centre of it, so that the quadrant may rotate on that centre. 
 
+But there is also in certain places a variation in the declination on account of causes already mentioned (though not a large one), which it will be an assistance also to allow for on a likely estimate.
+
+It will be especially helpful to observe this variation in various places, as it seems to present greater difficulty than the variation in direction; but it is easily learnt with a declination instrument, when it dips more or less than the line in the diagram.
 
 Quadrant.
 
@@ -39,5 +40,8 @@ In a declination instrument the magnetick needle, which
 in a meridional position dips, if turned
 along a parallel hangs perpendicularly.
 
-In a proper position a magnetick needle, while by its rotatory nature conformed to the earth, dips to some certain degree below the horizon on an oblique sphere. But when the plane of the instrument is moved out of the plane of the meridian, the magnetick needle (which tends toward the pole) no longer remains at the degree of its own declination, but inclines more toward the centre; for the force of direction is stronger than that of declination, and all power of declination is taken away, if the plane of the instrument is on a parallel. For then the magnetick needle, because it cannot maintain its due position on account of the axis being placed transversely, faces down perpendicularly to the earth; and it remains only on its own meridian, or on that which is commonly called the magnetick meridian.
+In a proper position a magnetick needle, while by its rotatory nature conformed to the earth, dips to some certain degree below the horizon on an oblique sphere. 
 
+But when the plane of the instrument is moved out of the plane of the meridian, the magnetick needle (which tends toward the pole) no longer remains at the degree of its own declination, but inclines more toward the centre; for the force of direction is stronger than that of declination, and all power of declination is taken away, if the plane of the instrument is on a parallel. 
+
+For then the magnetick needle, because it cannot maintain its due position on account of the axis being placed transversely, faces down perpendicularly to the earth; and it remains only on its own meridian, or on that which is commonly called the magnetick meridian.

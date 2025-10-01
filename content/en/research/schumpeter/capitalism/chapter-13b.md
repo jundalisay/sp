@@ -4,15 +4,15 @@ title: "The Civilization Of Capitalism"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 48
+weight: 50
 ---
 
 
-II. THE SOCIOLOGY OF THE INTELLECTUAL
+## 2. The Sociology Of The Intellectual
 
-Nevertheless, neither the opportunity of attack nor real or fancied grievances
-are in themselves sufficient to produce, however strongly they may favor, the
-emergence of active hostility against a social order. For such an atmosphere
+Nevertheless, neither the opportunity of attack nor real or fancied grievances are in themselves sufficient to produce, however strongly they may favor, the emergence of active hostility against a social order.
+
+For such an atmosphere
 to develop it is necessary that there be groups to whose interest it is to work
 up and organize resentment, to nurse it, to voice it and to lead it. As will be
 shown in Part IV, the mass of people never develops definite opinions on its
@@ -97,13 +97,7 @@ all of the same genus—of the fifth and fourth centuries B.C. illustrate ideall
 what I mean. That practically all of them were teachers does not destroy the
 value of the illustration.
 
-2. When analyzing the rationalist nature of capitalist civilization (Chapter
-XI) I pointed out that the development of rational thought of course precedes
-the rise of the capitalist order by thousands of years; all that capitalism did
-was to give a new impulse and a particular bend to the process. Similarly—
-leaving aside the Graeco-Roman world—we find intellectuals in thoroughly
-pre-capitalist conditions, for instance in the Kingdom of the Franks and in
-the countries into which it dissolved. 
+2. When analyzing the rationalist nature of capitalist civilization (Chapter XI) I pointed out that the development of rational thought of course precedes the rise of the capitalist order by thousands of years; all that capitalism did was to give a new impulse and a particular bend to the process. Similarly— leaving aside the Graeco-Roman world—we find intellectuals in thoroughly pre-capitalist conditions, for instance in the Kingdom of the Franks and in the countries into which it dissolved.
 
 But they were few in number; they
 were clergy-men, mostly monks; and their written performance was
@@ -152,20 +146,6 @@ drastic methods. He did not display resentment. On the contrary he even
 went out of his way to honor the man. Obviously he wanted more than
 silence and, as a matter of fact, he received full value for his gifts.
 
-3. In a sense, therefore, the Aretino’s pen was indeed stronger than the
-sword. But, perhaps through ignorance, I do not know of comparable
-instances of that type for the next hundred and fifty years, 6 during which
-intellectuals do not seem to have played any great role outside and
-independently of the established professions, mainly the law and the church.
-Now this setback roughly coincides with the setback in capitalist evolution
-which in most countries of continental Europe occurred in that troubled
-period. And the subsequent recovery of capitalist enterprise was similarly
-shared by the intellectuals. The cheaper book, the cheap newspaper or
-pamphlet, together with the widening of the public that was in part their
-
-<!-- 5 Pietro Aretino, 1492–1556.
-6 In England, however, the scope and importance of pamphleteering increased greatly in the
-seventeenth century. -->
 
 product but partly an independent phenomenon due to the access of wealth
 and weight which came to the industrial bourgeoisie and to the incident
@@ -226,6 +206,7 @@ the reins—about the middle sixties.
 In central and southern Europe this period
 also lasted about as long, and in England analogous conditions prevailed from
 the beginning of the revolutionary wars to Canning’s accession to power.
+
 4. How impossible it is to stem the tide within the framework of
 capitalist society is shown by the failure of the attempts—some of them
 prolonged and determined—made during that period by practically all
@@ -308,5 +289,4 @@ short-run aspect—and the group’s recollection of past conditions—are what 
 intellectual’s mind and what determines the colors of the picture of slavery and martyrdom he
 draws for the public. In reality, it should be a picture of conquest. Conquest and victory are in
 this, as in so many other cases, a mosaic composed of defeats. -->
-
 

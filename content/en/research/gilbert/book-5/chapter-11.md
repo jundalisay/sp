@@ -13,7 +13,7 @@ weight: 34
 
 
 
-Discourse hath often been held concerning the *poles of the earth and of the stone, and concerning the æquinoctial zone; whilst lately we have been speaking about the declining of magneticks toward the earth and toward the terrella, and the causes of it.
+Discourse hath often been held concerning the poles of the earth and of the stone, and concerning the æquinoctial zone; whilst lately we have been speaking about the declining of magneticks toward the earth and toward the terrella, and the causes of it.
 
 
 But while by various and complicated devices we have laboured long and hard to arrive at the cause of this declination, we have by good fortune found out a new and admirable (beyond the marvels of all virtues magnetical) science of the orbes themselves. For such is the power of magnetick globes, that it is diffused and extended into orbes outside the body itself, the form being carried beyond the limits of the corporeal substance; and a mind diligently versed in this study of nature will find the definite causes of the motions and revolutions. 
@@ -28,7 +28,8 @@ Yet we do not mean that the magnetick forms and orbes exist in air or water or i
 
 Diagram of motions in magnetick orbes.
 
-motions in magnetick orbes.
+<!-- motions in magnetick orbes. -->
+
 A B is the axis of the terrella and of the orbes, C D the æquator. On all the orbes, as on the terrella, at the equator the versorium arranges itself along the plane of the horizon; on the axis it everywhere looks perpendicularly toward the centre; in the intermediate spaces E looks toward D; and G looks toward H, not toward F, as the versorium L does on the surface of the terrella. But as is the relation of L to F on the surface of the terella, so is that of G to H on its orbe and of E to D on its orbe; also all the rotations on {207}the orbes toward the termini of the orbes are such as they are on the surface of the terrella, or toward the termini of its surface. But if in the more remote orbes this fails somewhat at times, it happens on account of the sluggishness of the stone, or on account of the feebler forces due to the too great distance of the orbes from the terrella.
 
 Demonstration.
@@ -38,3 +39,4 @@ Set upon the instrumental diagram described farther back [chap. 3] a plate or st
 While some assign occult and hidden virtues of substances, others a property of matter, as the causes of the wonderful magnetical effects; we have discovered the primary substantive form of globes, not from a conjectural shadow of the truth of reasons variously controverted; but we have laid hold of the true efficient cause, as from many other demonstrations, so also from this most certain diagram of magnetick forces effused by the form. 
 
 Though this (the form) has not been brought under any of our senses, and on that account is the less perceived by the intellect, it now appears manifest and conspicuous even to the eyes through this essential activity which proceeds from it as light from a lamp. And here it must be noted that a magnetick needle, moved on the top of the earth or of a terrella or of the effused orbes, makes two complete rotations in one circuit of its centre, like some epicycle about its orbit.
+

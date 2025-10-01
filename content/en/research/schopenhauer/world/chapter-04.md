@@ -72,36 +72,26 @@ Again, that which is acted upon is always matter, and thus the whole being and e
 The existence of matter is therefore entirely relative.
 - It is based on a relation which is valid only within its limits, as in the case of time and space.
 
-But time and space, each for itself, can be mentally presented apart from matter.
+But time and space can be mentally presented apart from matter.
 
 But matter cannot be so presented without time and space.
 
-The form which is inseparable from it presupposes space, and the action in which its very
-existence consists, always imports some change, in other words
-a determination in time. 
+The form of space is inseparable from it.
 
-But space and time are not only, each for itself, presupposed by matter, but a union of the two constitutes
-its essence, for this, as we have seen, consists in action, i.e.,
-in causation. 
 
-All the innumerable conceivable phenomena and conditions of things, might be coexistent in boundless space,[011]
-without limiting each other, or might be successive in endless time
-without interfering with each other: thus a necessary relation of
-these phenomena to each other, and a law which should regulate
-them according to such a relation, is by no means needful, would
-not, indeed, be applicable: it therefore follows that in the case of all co-existence in space and change in time, so long as each
-of these forms preserves for itself its condition and its course
-without any connection with the other, there can be no causation,
-and since causation constitutes the essential nature of matter,
-there can be no matter. 
+The existence of matter always involves change as action in time. 
 
-But the law of causation receives its
-meaning and necessity only from this, that the essence of change
-does not consist simply in the mere variation of things, but
-rather in the fact that at the same part of space there is now one
-thing and then another, and at one and the same point of time
-there is here one thing and there another: only this reciprocal
-limitation of space and time by each other gives meaning, and
-at the same time necessity, to a law, according to which change
-must take place. 
+Space and time are separately presupposed by matter.
 
+But a union of space and time constitutes the essence of matter.
+
+This consists in causation. 
+
+All the conceivable phenomena and conditions of things might:
+- coexist in boundless space without limiting each other, or
+- be successive in endless time
+without interfering with each other.
+
+Thus a necessary relation of these phenomena to each other, and a law which should regulate them according to such a relation, is by no means needful, would not, indeed, be applicable: it therefore follows that in the case of all co-existence in space and change in time, so long as each of these forms preserves for itself its condition and its course without any connection with the other, there can be no causation, and since causation constitutes the essential nature of matter, there can be no matter.
+
+But the law of causation receives its meaning and necessity only from this, that the essence of change does not consist simply in the mere variation of things, but rather in the fact that at the same part of space there is now one thing and then another, and at one and the same point of time there is here one thing and there another: only this reciprocal limitation of space and time by each other gives meaning, and at the same time necessity, to a law, according to which change must take place.

@@ -1,6 +1,7 @@
 ---
-title: "The Laws by Plato Simplified"
-weight: 2
+heading: "Book 5"
+title: "Rules for The Soul"
+weight: 14
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

@@ -4,7 +4,7 @@ title: "The Process Of Creative Destruction"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 21
+weight: 25
 ---
 
 

@@ -2,7 +2,7 @@
 title: "The Spreaders (Adh-Dhariyat)"
 heading: "Sura 51 "
 weight: 178
-c: "firebrick"
+c: "maroon"
 description: "Judgment will take place."
 ---
 

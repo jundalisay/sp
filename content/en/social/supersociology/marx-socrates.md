@@ -1,12 +1,13 @@
 ---
 title: "Marx Versus Socrates"
 date: 2024-10-06
-image: "/covers/marx.jpg"
 description: "The common definition of socialism nowadays came from the 19th century from Marx who mixed up socialism with communism"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
+c: "firebrick"
+a: "Karl Marx"
 ---
 
 

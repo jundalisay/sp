@@ -7,7 +7,7 @@ description: We explain the different notions of interest of Ricardo, Marshall, 
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 ---
 
 
@@ -73,7 +73,7 @@ Among the Mongols and shepherd nations who are ignorant of the use of money, cat
 
 This is even supported by Ricardo, which was actually praised by Keynes:
 
-{{< q a="Ricardo" c="Principles of Political Economy (p.511)" >}}
+{{< q a="David Ricardo" c="Principles of Political Economy (p.511)" >}}
 The interest of money is not regulated by the rate at which the Bank will lend, whether it be whatever percent, but by the rate of profit which can be made by the employment of capital. This is totally independent of the quantity or of the value of money.
 {{< /q >}}
 
@@ -127,3 +127,4 @@ This can be done by bringing back the ideas of Classical Economics:
 - Removing fiat by letting the central banks agree on a gold standard. Instead of open market operations, the main tool for growing the economy will be allowing many new banks to open, with smaller capital. The money supply will be grown by numerous lending operations using smaller fractional reserves. This is the opposite of the current system where banks merge and conslidate in order to have a bigger pool of fiat cash to lend. In this Classical system, the credit worthiness of the borrower will be the main focus, instead of the interest rates.
 - Enforcing anti-trust and banning mergers and acquisitions to prevent capital from pooling and leveraging. Ideally, only the government should be capable of pooling huge amounts of capital
 - Removing the concepts of profit maximization and de-emphasizing ROI. Instead, the focus is on current prices and currently-available investments in order to address current needs. 
+

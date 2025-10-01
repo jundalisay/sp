@@ -2,7 +2,7 @@
 title: "Domestic Rules"
 heading: "Sura 17a "
 weight: 100
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

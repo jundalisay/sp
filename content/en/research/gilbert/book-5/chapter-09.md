@@ -17,7 +17,8 @@ Demonstration of direction, or of variation from the true direction with declina
 
 Floating versorium shows both motions.
 
-Fix a slender iron wire of three digits length through *a round cork, so that the cork may support the iron in water. Let this water be in a good-sized glass vase or bowl. Pare the round cork little by little with a very sharp knife (so that it may remain round), until it will stay motionless one or two digits below the face of the water; and let the wire be evenly balanced. {203}[239]
+Fix a slender iron wire of three digits length through a round cork, so that the cork may support the iron in water. Let this water be in a good-sized glass vase or bowl. Pare the round cork little by little with a very sharp knife (so that it may remain round), until it will stay motionless one or two digits below the face of the water; and let the wire be evenly balanced.
+
 
 Rub one end of the wire thus prepared on the boreal end of a loadstone and the other on the southern part of the stone (very skilfully, so that the cork may not be moved ever so little from its place) and again place it in the water; then the wire will dip with a circular motion on its own centre below the plane of the horizon, in proportion to the latitude of the region; and, even while dipping, will also show the point of variation (the true direction being perturbed). 
 
@@ -40,4 +41,3 @@ For as, on account of terrestrial elevations, magnetick bodies are drawn away fr
 Sometimes, also, when there is no variation of direction in the horizontal, there may nevertheless be variation of the declination; namely, either when more vigorous parts of the earth crop out exactly meridionally, i.e. under the very meridian; or when those parts are less powerful than nature in general requires; or when the virtue is too much intensified in one part, or weakened in another, just as one may observe in the vast ocean. 
 
 This discrepant nature and varying effect may be easily seen in certain parts of almost any round loadstone. Inæquality of power is recognized in any part of a terrella by trial of the demonstration in chap. 2 of this book. But the effect is clearly demonstrated by the instrument for showing declination in chap. 3 of this book.
-

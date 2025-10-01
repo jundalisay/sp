@@ -1,6 +1,7 @@
 ---
 title: "Schopenhauer, Arthur"
 description: ""
+c: "firebrick"
 a: Schopenhauer
 writer:
   name: Schopenhauer

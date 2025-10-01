@@ -1,8 +1,8 @@
 ---
 title: "Abraham and the Moon"
 heading: "Sura 6b "
-weight: 60
-c: "firebrick"
+weight: 61
+c: "maroon"
 description: "Abraham said to his father Azar :Do you take idols for gods? I see that you and your people are in evident error."
 ---
 
@@ -19,16 +19,22 @@ But remind him, lest his soul becomes damned because of it. His soul has no help
 
 These are the ones who are delivered to perdition by their actions. They will have a drink of scalding water, and a painful punishment, because they used to disbelieve.
 
-<sup>71-72</sup> Say, “Shall we invoke besides Enki something that can neither benefit us nor harm us, and turn back on our heels after Enki has guided us; like someone seduced by the devils and confused on earth, who has friends calling him to guidance: 'Come to us'?” 
+<sup>71-72</sup> Say:
 
-Say, “The guidance of Enki is the guidance, and we are commanded to:
+{{< l a="Muslims" >}}
+Shall we invoke besides Enki something that can neither benefit us nor harm us, and turn back on our heels after Enki has guided us; like someone seduced by the devils and confused on earth, who has friends calling him to guidance: 'Come to us'?” 
+
+The guidance of Enki is the guidance, and we are commanded to:
 - surrender to the Lord of the Universe.
 - perform the prayers
-- revere Him; it is to Him that you will be gathered.”
+- revere Him; it is to Him that you will be gathered.
+{{< /l >}}
+
 
 <sup>73</sup> It is He who created the heavens and the earth in truth. On the Day when He says: “Be,” it will be. 
 
 His saying is the truth, and His is the sovereignty on the Day when the trumpet is blown. 
+
 The Knower of secrets and declarations. He is the Wise, the Expert.
 
 <sup>74</sup> Abraham said to his father Azar:
@@ -97,8 +103,7 @@ Zechariah, John, Jesus, and Elias were upright.
 
 We favored Ishmael, Elijah, Jonah, and Lot over all other people.
 
-And of their ancestors, and their descendants, and their siblings—We chose them, and
-guided them to a straight path.
+Of their ancestors, and their descendants, and their siblings—We chose them, and guided them to a straight path.
 
 <!-- 88. Such is Enki’s guidance. He guides with it
 whomever He wills of His servants. Had they
@@ -109,14 +114,24 @@ We gave the Book, wisdom, and prophethood to them. If they reject them, We have 
 
 The righteous are in no way accountable for them; it is only a reminder, that they may be careful.
 
-<sup>90.</sup> Enki has guided them, so follow their guidance. 
+<sup>90.</sup> Enki has guided them, so follow their guidance. Say:
 
-Say, “I ask of you no compensation for it; it is just a reminder for all mankind.”
+{{< l a="Muslims" >}}
+I ask of you no compensation for it; it is just a reminder for all mankind.
+{{< /l >}}
+
 
 
 <sup>91.</sup> They do not value Enki as He should be valued, when they say, “Enki did not reveal anything to any human being.”
 
-Say, “Who revealed the Scripture which Moses brought—a light and guidance for humanity?” You put it on scrolls, displaying them, yet concealing much.
+Say:
+
+{{< l a="Muslims" >}}
+Who revealed the Scripture which Moses brought—a light and guidance for humanity?
+{{< /l >}}
+
+
+You put it on scrolls, displaying them, yet concealing much.
 
 You were taught what you did not know—neither you, nor your ancestors. Say, “Enki;” then leave them toying away in their speculation.
 
@@ -128,7 +143,12 @@ You were taught what you did not know—neither you, nor your ancestors. Say, �
 
 If only you could see the wrongdoers in the floods of death, as the angels with arms outstretched: 
 
-“Give up your souls. Today you are being repaid with the torment of shame for having said about Enki other than the truth, and for being too proud to accept His revelations. <sup>94</sup> You have come to Us individually, just as We created you the first time, leaving behind you everything We gave you. We do not see with you your intercessors—those you claimed were your partners. The link between you is cut, and what you had asserted has failed you.”
+{{< l a="Enki-Agents" >}}
+Give up your souls. Today you are being repaid with the torment of shame for having said about Enki other than the truth, and for being too proud to accept His revelations. 
+
+<sup>94</sup> You have come to Us individually, just as We created you the first time, leaving behind you everything We gave you. We do not see with you your intercessors—those you claimed were your partners. The link between you is cut, and what you had asserted has failed you.”
+{{< /l >}}
+
 
 <!-- 95. It is Enki Who splits the grain and the seed. He brings the living from the dead, and
 He brings the dead from the living. Such is Enki. So how could you deviate?

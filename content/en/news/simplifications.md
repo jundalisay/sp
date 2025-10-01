@@ -14,6 +14,9 @@ May 1 | Simplified Guru Granth Sahib of the Sikhs
 --- | ---
 April 5 | Simplified Malthus' works to compare it to Trump's trade war policies
 Mar 24 | Simplified Euler's Mechanica in preparation to build Material Superphysics
+Aug 1 | Simplified Treatise of Human Nature by Hume
+Sep 21 | Simplified Schumpeter's Capitalism.. and Friedman's Capitalism..
+Sep 25 | Simplified Galileo's 2 New Sciences to match with Descartes' 4 Rules of Motion
 {{< /d >}}
 
 

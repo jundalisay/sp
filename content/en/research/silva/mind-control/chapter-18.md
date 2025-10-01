@@ -8,7 +8,7 @@ contributors: ['Silva']
 ---
 
 
-{{< q a="Carol-Lawrence" c="Chicago Tribune, November 14, 1975" >}}
+{{< q a="Carol Lawrence" c="Chicago Tribune, November 14, 1975" >}}
 We waste too much of our time dragging ourselves under. If we spent 1/2 of it just researching in our mind how to deal with life, we'd find we're so much stronger than we think
 {{< /q >}}
 

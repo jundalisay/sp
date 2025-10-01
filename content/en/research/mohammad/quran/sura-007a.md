@@ -2,7 +2,7 @@
 title: "Purgatory (al-A’raf)"
 heading: "Sura 7a "
 weight: 64
-c: "firebrick"
+c: "maroon"
 description: "How many towns have We destroyed? "
 ---
 

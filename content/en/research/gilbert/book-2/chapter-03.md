@@ -50,7 +50,7 @@ Galen does not know why Plato should have seen fit to select the theory of circu
 
 Nor indeed is either the air or anything else circumpelled; and the bodies themselves which are attracted are carried towards the attracting substance not confusedly, or in an orbe. Lucretius, the poet of the Epicurean sect, sang his opinion of it thus:
 
-[149]First, then, know, Ceaseless effluvia from the magnet flow,—Effluvia, whose superior powers expel
+Ceaseless effluvia from the magnet flow,—Effluvia, whose superior powers expel
 The air that lies between the stone and steel.
 
 A vacuum formed, the steely atoms fly
@@ -58,7 +58,6 @@ In a link'd train, and all the void supply;
 While the whole ring to which the train is join'd
 The influence owns, and follows close behind. &c.
 
-{62}
 
 Such a reason Plutarch also alleges in the Quæstiones Platonicæ: That that stone gives off heavy exhalations, whereby the adjacent air, being impelled along, condenses that which is in front of it; and that air, being driven round in an orbe and reverting to the place it had vacated, drags the iron forcibly along with it. 
 
@@ -94,9 +93,7 @@ For what can temperament do in magnetical motions, which must be compared with t
 
 
 {{< q a="Baptista Porta" >}}
-"But I think" (he says) "the Loadstone is a mixture of stone and iron, as an iron stone, or a stone of iron. Yet do not think the stone is so changed into iron, as to lose its own Nature, nor that the iron is so drowned in the stone, but it preserves itself; and whilst one labours to get the victory of the other, the attraction is made by the combat between them. 
-
-In that body there is more of the stone than of iron; and therefore the iron, that it may not be subdued by the stone, desires the force and company of iron; that being not able to resist alone, it may be able by more help to defend itself.... The Loadstone draws not stones, because it wants them not, for there is stone enough in the body of it; and if one Loadstone draw another, it is not for the stone, but for the iron that is in it." 
+I think the Loadstone is a mixture of stone and iron, as an iron stone, or a stone of iron. Yet do not think the stone is so changed into iron, as to lose its own Nature, nor that the iron is so drowned in the stone, but it preserves itself; and whilst one labours to get the victory of the other, the attraction is made by the combat between them. In that body there is more of the stone than of iron; and therefore the iron, that it may not be subdued by the stone, desires the force and company of iron; that being not able to resist alone, it may be able by more help to defend itself.... The Loadstone draws not stones, because it wants them not, for there is stone enough in the body of it; and if one Loadstone draw another, it is not for the stone, but for the iron that is in it. 
 {{< /q >}}
 
 
@@ -118,8 +115,8 @@ More eruditely does Scaliger[154] say that the iron moves toward the loadstone a
 The Divine Thomas[155] does not differ much from him, when in the 7th book of his Physica he discusses the reasons of motions. 
 
 
-{{< q a="Thomas-Aquinas" >}}
-"In another way," he says, "it may be said to attract a thing, because it moves it to itself by altering it in some way, from which alteration it happens that when altered it moves according to its position, and in this manner the loadstone is said to attract iron. For as the parent moves things whether heavy or light, in as far as it gives them a form, by means of which they are moved to their place; so also the loadstone gives a certain quality to the iron, in accordance with which it moves towards it." 
+{{< q a="Thomas Aquinas" >}}
+In another way," he says, "it may be said to attract a thing, because it moves it to itself by altering it in some way, from which alteration it happens that when altered it moves according to its position, and in this manner the loadstone is said to attract iron. For as the parent moves things whether heavy or light, in as far as it gives them a form, by means of which they are moved to their place; so also the loadstone gives a certain quality to the iron, in accordance with which it moves towards it." 
 {{< /q >}}
 
 This by no means ill-conceived opinion this most learned man shortly afterwards endeavoured to confirm by things which had obtained little credence respecting the loadstone and the adverse forces of garlick. Cardinal Cusan[156] also is not to be despised.
@@ -127,8 +124,4 @@ This by no means ill-conceived opinion this most learned man shortly afterwards 
 "Iron has," he says, "in the loadstone a certain principle of its own effluence; and whilst the loadstone by its own presence excites the heavy and ponderous iron, the iron is borne by a wonderful yearning, even above the motion of nature (by which in accordance with its weight it ought to tend downwards) and moves upwards, in uniting itself with its own principle. 
 
 For if there were not in the iron a certain natural foretaste of the loadstone itself, it would not move to the loadstone any more than to any other stone; and unless there were in the stone a greater inclination for iron than for copper, there would not be that attraction." Such are the opinions expressed about the loadstone attracting (or the general sense of each), all dubious and untrustworthy. But those causes of the magnetical motions, which in the schools of the Philosophers are referred to the four elements and the prime qualities, we relinquish to the moths and the worms.
-
-
-
-{65}
 

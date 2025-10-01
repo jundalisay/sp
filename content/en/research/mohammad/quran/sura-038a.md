@@ -2,7 +2,7 @@
 title: "Saad"
 heading: "Sura 38a "
 weight: 152
-c: "firebrick"
+c: "maroon"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Enki has come to you, and a clear Book."
 ---
 

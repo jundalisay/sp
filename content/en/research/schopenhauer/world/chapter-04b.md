@@ -3,7 +3,7 @@ heading: Chapter 4b
 title: "The law of causality"
 date: 2025-09-20
 description: ""
-weight: 12
+weight: 13
 icon: Schopenhauer
 writer:
   name: Schopenhauer
@@ -22,13 +22,21 @@ It implies always a determined part of space and a determined part of time toget
 
 Thus, causality unites space with time. 
 
-But we found that the whole essence of matter consisted in action, i.e., in causation, consequently space and time must also be united in matter, that is to say, matter must take to itself at once the distinguishing qualities both of space and time, however much these may be opposed to each other, and must unite in itself what is impossible for each of these independently, that is, the fleeting course of time, with the rigid unchangeable perduration of space: infinite divisibility it receives from both.
+The whole essence of matter is action, i.e., in causation.
+
+Consequently, space and time must also be united in matter.
+
+Matter must take to itself at once the distinguishing qualities both of space and time, however much these may be opposed to each other, and must unite in itself what is impossible for each of these independently, that is, the fleeting course of time, with the rigid unchangeable perduration of space: infinite divisibility it receives from both.
 
 This is why co-existence, which could neither be in time alone, for time has no contiguity, nor in space alone, for space has no before, after, or now, is first established through matter. 
 
 But the co-existence of many things constitutes, in fact, the essence of reality, for through it permanence first becomes possible; for permanence is only knowable in the change of something which is present along with what is permanent, while on the other hand it is only because something permanent is present along with what changes, that the latter gains the special character of change, i.e., the mutation of quality and form in the permanence of substance, that is to say, in matter.
 
-If the world were in space alone, it would be rigid and immovable, without succession, without change, without action; but we know that with action, the idea of matter first appears. Again, if the world were in time alone, all would be fleeting, without persistence, without contiguity, hence without co-existence, and consequently without permanence; so that in this case also there would be no matter. Only through the union of space and time do we reach matter, and matter is the possibility of co-existence, and, through that, of permanence; through permanence again matter is the possibility of the persistence of substance in the change of its states.8 As matter consists in the union of space and time, it bears throughout the stamp of both.
+If the world were in space alone, it would be rigid and immovable, without succession, without change, without action; but we know that with action, the idea of matter first appears. 
+
+If the world were in time alone, all would be fleeting, without persistence, without contiguity, hence without co-existence, and consequently without permanence; so that in this case also there would be no matter. 
+
+Only through the union of space and time do we reach matter, and matter is the possibility of co-existence, and, through that, of permanence; through permanence again matter is the possibility of the persistence of substance in the change of its states.8 As matter consists in the union of space and time, it bears throughout the stamp of both.
 
 It manifests its origin in space, partly through the form which is inseparable from it, but especially through its persistence (substance), the a priori certainty of which is therefore wholly deducible from that of space9 (for variation belongs to time alone, but in it alone and for itself nothing is persistent). Matter shows that it springs from time by quality (accidents), without which it never exists,[013] and which is plainly always causality, action upon other matter, and therefore change (a time concept).
 

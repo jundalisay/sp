@@ -2,12 +2,13 @@
 title: "Why Quantitative Easing Failed"
 heading: "Keynes Liquidity Preference Mistake and Our Alternative GR Model"
 date: 2020-09-24
-image: /covers/keynes.jpg
+a: "Keynes"
+c: "firebrick"
 description: "QE failed because profit maximization prevents money from going to not-so-profitable activities and employment even if it would energize the economy"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 toc: false  
 ---
 

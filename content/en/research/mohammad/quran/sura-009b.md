@@ -2,7 +2,7 @@
 title: "Abraham's Submission to the Lord"
 heading: "Sura 9b "
 weight: 76
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

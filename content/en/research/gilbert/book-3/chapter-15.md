@@ -1,8 +1,9 @@
 ---
 heading: Chapter 15
-title: "The Poles, Æquator, Centre in an entire Loadstone remain and continue steady; by diminution and separation of some part they vary and acquire other positions"
+title: "The Poles, Æquator, Centre in an entire Loadstone remain and continue steady"
+# ; by diminution and separation of some part they vary and acquire other positions"
 date: 2024-02-20
-description: "A loadstone is a stone commonly called a Magnet"
+description: "Suppose `A B` to be a terrella, whose centre is `E`, and whose diameter (as also its æquinoctial circle) is D F."
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)
@@ -12,15 +13,25 @@ weight: 22
 ---
 
 
- Terrella divided at the arctic circle.*
+Terrella divided at the arctic circle.*
 
-Suppose A B to be a terrella, whose centre is E, and whose diameter (as also its æquinoctial circle) is D F. If you cut off a portion (through the arctic circle, for example), G H, it is demonstrable that the pole which was at A now has a position at I. But the centre and the æquinoctial recede toward B {145}merely so that they are always in the middle of the mass that is left between the plane of the arctick circle G I H and the antarctick pole B. 
+Suppose `A B` to be a terrella, whose centre is `E`, and whose diameter (as also its æquinoctial circle) is D F. 
 
-Therefore the segment of the terrella comprised between the plane of the former æquinoctial (that, of course, which was the æquator before cutting that part away) D E F and the newly acquired æquator M L N will always be equal to the half of that part which was cut off, G I H A. Terrella divided at the side.*But if the portions have been taken away from the side C D, the poles and axis will not be in the line A B, but in E F, and the axis would be changed in the same proportion as the æquator in the former figure. 
+If you cut off a portion (through the arctic circle, for example), G H, it is demonstrable that the pole which was at A now has a position at I. 
 
-For those positions of forces and virtues, or rather limits of the virtues, which are derived from the whole form, are moved forward by change of quantity and shape; since all these limits arise from the conspiring together of the whole and of all {146}the parts united; and the verticity or the pole is not a virtue innate in one part, or in some definite limit, or fixed in the substance; but it is an inclination of the virtue to that part. 
+But the centre and the æquinoctial recede toward B {145}merely so that they are always in the middle of the mass that is left between the plane of the arctick circle G I H and the antarctick pole B. 
 
-And just as a terrella separated from the earth has no longer the earth's poles and æquator, but individual ones of its own; so also if it again be divided, those limits and distinctions of the qualities and virtues pass on to other parts. But if a loadstone be divided in any way, either along a parallel, or meridionally, so that by the change of shape either the poles or the æquator move to other positions, if the part cut off be merely applied in its natural position and joined to the whole, even without any agglutination or cementing together, the determining points of the virtues return again to their former sites, as if no part of the body had been cut off. When a body is entire, its form remains entire; but when the body is lessened, a new whole is made, and there arises a new entirety, determined for every loadstone, however small, even for magnetick gravel, and for the finest sand.
+Therefore the segment of the terrella comprised between the plane of the former æquinoctial (that, of course, which was the æquator before cutting that part away) D E F and the newly acquired æquator M L N will always be equal to the half of that part which was cut off, G I H A. Terrella divided at the side.
+
+But if the portions have been taken away from the side C D, the poles and axis will not be in the line A B, but in E F, and the axis would be changed in the same proportion as the æquator in the former figure. 
+
+For those positions of forces and virtues, or rather limits of the virtues, which are derived from the whole form, are moved forward by change of quantity and shape; since all these limits arise from the conspiring together of the whole and of all the parts united.
+
+The verticity or the pole is not a virtue innate in one part, or in some definite limit, or fixed in the substance; but it is an inclination of the virtue to that part. 
+
+A terrella separated from the earth has no longer the earth's poles and æquator, but individual ones of its own.
+
+Likewise, if it again were divided, those limits and distinctions of the qualities and virtues pass on to other parts. But if a loadstone be divided in any way, either along a parallel, or meridionally, so that by the change of shape either the poles or the æquator move to other positions, if the part cut off be merely applied in its natural position and joined to the whole, even without any agglutination or cementing together, the determining points of the virtues return again to their former sites, as if no part of the body had been cut off. When a body is entire, its form remains entire; but when the body is lessened, a new whole is made, and there arises a new entirety, determined for every loadstone, however small, even for magnetick gravel, and for the finest sand.
 
 
 

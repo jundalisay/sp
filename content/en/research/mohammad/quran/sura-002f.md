@@ -1,8 +1,8 @@
 ---
 title: "Rules for the Direction of Prayer (Qiblah)"
-heading: "Sura 2e "
+heading: "Sura 2f"
 weight: 14
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

@@ -2,7 +2,7 @@
 title: "The Pen (al-Qalam)"
 heading: "Sura 68a "
 weight: 208
-c: "firebrick"
+c: "maroon"
 description: "Mohammad, you are not insane"
 ---
 

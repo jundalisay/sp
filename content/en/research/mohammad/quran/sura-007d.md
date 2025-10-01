@@ -2,7 +2,7 @@
 title: "Moses and the Calf"
 heading: "Sura 7d"
 weight: 69
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
@@ -10,21 +10,35 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 <sup>130</sup> We afflicted the people of Pharaoh with famine years, and with shortage of crops, that they may take heed.
 
-<sup>131</sup> When something good came their way, they said: “This is ours.” 
+<sup>131</sup> When something good came their way, they said: 
+
+
+{{< r a="Pharaoh" >}}
+This is ours
+{{< /r >}}
 
 When something bad happened to them, they ascribed the evil omen to Moses and those with him.
+
 In fact, their omen is with Enki, but most of them do not know.
 
 
-<sup>132</sup> They said: “No matter what sign you bring us, to bewitch us with, we will not believe in you.”
+<sup>132</sup> They said: 
+
+{{< r a="Pharaoh" >}}
+No matter what sign you bring us, to bewitch us with, we will not believe in you.
+{{< /r >}}
+
 
 <sup>133</sup> So We let loose upon them the flood, and the locusts, and the lice, and the frogs, and blood—all explicit signs—but they were too arrogant. 
 
 They were a sinful people.
 
 
-<sup>134</sup> Whenever a plague befell them, they would say, “O Moses, pray to your Lord for
-us, according to the covenant He made with you. If you lift the plague from us, we will believe in you, and let the Jews go with you.”
+<sup>134</sup> Whenever a plague befell them, they would say:
+
+{{< r a="Pharaoh" >}}
+O Moses, pray to your Lord for us, according to the covenant He made with you. If you lift the plague from us, we will believe in you, and let the Jews go with you.
+{{< /r >}}
 
 <sup>135</sup> But when We lifted the plague from them, for a term they were to fulfill, they broke their promise.
 
@@ -36,18 +50,31 @@ Thus the fair promise of your Lord to the Jews was fulfilled, because of their e
 
 We destroyed what Pharaoh and his people had built, and what they had harvested.
 
-<sup>138</sup> We delivered the Jews across the sea. And when they came upon a
-people who were devoted to some statues of theirs, they said, “O Moses, make for us a god, as they have gods.” He said, “You are truly an ignorant people.”
+<sup>138</sup> We delivered the Jews across the sea. 
 
-<sup>139M</sup> “What these people are concerned with is perdition, and their deeds are based on falsehoods.”
+When they came upon a people who were devoted to some statues of theirs, they said:
 
-<sup>140</sup> He said: “Shall I seek for you a god other than Enki, when He has favored you over all other people?”
+{{< r a="Moses" >}}
+O Moses, make for us a god, as they have gods.
+{{< /r >}}
 
-<sup>141</sup> Remember how We saved you from Pharaoh’s people, who subjected you to the worst of sufferings—killing your sons and sparing your women. In that was a tremendous trial
-from your Lord. 
 
-<sup>142</sup> We appointed to Moses 30 nights, and completed them with ten; and thus the
-time appointed by his Lord was 40 nights.
+{{< l a="Moses" >}}
+You are truly an ignorant people.
+
+<sup>139</sup> What these people are concerned with is perdition, and their deeds are based on falsehoods.
+
+<sup>140</sup> Shall I seek for you a god other than Enki, when He has favored you over all other people?
+{{< /l >}}
+
+
+<sup>141</sup> Remember how We saved you from Pharaoh’s people, who subjected you to the worst of sufferings—killing your sons and sparing your women. 
+
+In that was a tremendous trial from your Lord. 
+
+<sup>142</sup> We appointed to Moses 30 nights, and completed them with ten.
+
+Thus the time appointed by his Lord was 40 nights.
 
 Moses said to his brother Aaron: 
 
@@ -94,11 +121,16 @@ come to nothing. Will they be repaid except according to what they used to do?
 
 <sup>148</sup> The people of Moses made, after [his departure], from their ornaments a calf – an image having a lowing sound.*
 
-((< n n="The calf is a symbol of Enlil and in Hindiusm and Atlantis before they had a civil war with Enki" >))
+{{< n n="The calf is a symbol of Enlil and in Hindiusm and Atlantis before they had a civil war with Enki" >}}
 
 Did they not see that it could neither speak to them nor guide them to a way? They took it [for worship], and they were wrongdoers.
 
-<sup>149</sup> When regret overcame them and they saw that they had gone astray, they said, "If our Lord does not have mercy upon us and forgive us, we will surely be among the losers."
+<sup>149</sup> When regret overcame them and they saw that they had gone astray, they said:
+
+{{< r a="People" >}}
+If our Lord does not have mercy upon us and forgive us, we will surely be among the losers.
+{{< /r >}}
+
 
 <sup>150</sup> Moses returned to his people, angry and grieved, he said:
 
@@ -108,11 +140,15 @@ How wretched is that by which you have replaced me after [my departure]. Were yo
 
 He threw down the tablets and seized his brother by [the hair of] his head, pulling him toward him. 
 
-[Aaron] said, "The people oppressed me and were about to kill me, so let not the enemies rejoice over me and do not place me among the wrongdoing people."
+{{< r a="Aaron" >}}
+The people oppressed me and were about to kill me, so let not the enemies rejoice over me and do not place me among the wrongdoing people.
+{{< /r >}}
+
 
 {{< r a="Moses" >}}
 <sup>151</sup> My Lord, forgive me and my brother and admit us into Your mercy, for You are the most merciful of the merciful.
 {{< /r >}}
+
 
 <sup>152</sup> Those who took the calf [for worship] will obtain anger from their Lord and humiliation in the life of this world, and thus do We recompense the inventors [of falsehood].
 

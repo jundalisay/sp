@@ -2,7 +2,7 @@
 title: "THE MOUNT (at-Tur)"
 heading: "Sura 52 "
 weight: 180
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

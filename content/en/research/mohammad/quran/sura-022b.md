@@ -2,7 +2,7 @@
 title: "The Pilgrimage (al-Hajj) 2"
 heading: "Sura 22b"
 weight: 123
-c: "firebrick"
+c: "maroon"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 

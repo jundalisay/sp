@@ -4,7 +4,7 @@ title: "Marx The Teacher"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 15
+weight: 19
 ---
 
 
@@ -140,6 +140,7 @@ system of private enterprise. All I now mean to imply is that so extensive
 and rapid a change of the social scene naturally affects productive
 performance for a time, and so much the most ardent New Dealer must and
 also can admit. I for one do not see how it would otherwise be possible to
+<<<<<<< HEAD
 
 <!-- 4 See W.M.Persons, Forecasting Business Cycles, ch. xi.
 5 That allowance is in fact absurdly large. See also Professor F.C.Mill’s estimate of 3.1 per
@@ -147,6 +148,8 @@ cent for the period 1901–1913, and of 3.8 per cent for the period 1922–1929 
 excluded; Economic Tendencies in the United States, 1932). -->
 
 
+=======
+>>>>>>> b19c1bcc4b186bb880f5d917dca1116cb886ee4e
 account for the fact that this country which had the best chance of recovering
 quickly was precisely the one to experience the most unsatisfactory recovery.
 The only somewhat similar case, that of France, supports the same inference.
@@ -155,6 +158,16 @@ not per se constitute a valid reason for refusing to listen to the argument in
 hand which, moreover, may in any case serve to illustrate the meaning of
 past performance.
 
+<<<<<<< HEAD
+=======
+<!-- 4 See W.M.Persons, Forecasting Business Cycles, ch. xi.
+5 That allowance is in fact absurdly large. See also Professor F.C.Mill’s estimate of 3.1 per
+cent for the period 1901–1913, and of 3.8 per cent for the period 1922–1929 (construction
+excluded; Economic Tendencies in the United States, 1932). -->
+
+
+
+>>>>>>> b19c1bcc4b186bb880f5d917dca1116cb886ee4e
 Well, if from 1928 on available production under the conditions of the
 capitalist order continued to develop as it did before, i.e., at a long-run
 average rate of increase of 2 per cent per year, it would after fifty years,
@@ -169,6 +182,7 @@ Sloane’s estimate, which gives 160 millions for 1978. Average income per
 head during those fifty years would therefore increase to a little more than
 double its 1928 amount, which was about $650, or to about $1300 of 1928
 purchasing power. 7
+<<<<<<< HEAD
 
 Perhaps some readers feel that a proviso should be added about the
 distribution of the total monetary income. Until about forty years ago,
@@ -432,4 +446,6 @@ either by arrangements between public agencies and producing concerns or
 by nationalization or municipalization, gradual progress with which would
 of course be a feature of the future development even of an otherwise
 unfettered capitalism.
+=======
+>>>>>>> b19c1bcc4b186bb880f5d917dca1116cb886ee4e
 

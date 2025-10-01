@@ -1,0 +1,66 @@
+PROPOSITION V, PROBLEM
+
+Having given a parabola, find the point, in its axis extended upwards, from which a particle must fall in order to describe this same parabola. 
+
+Let ab be the given parabola, hb its amplitude, and he its axis extended.  The problem is to find the point e from which a body must fall in order that, after the momentum which it acquires at a has been diverted into a horizontal direction, it will describe the parabola ab.  Draw the horizontal ag, parallel to bh, and having laid off af equal to ah, draw the straight line bf which will be a tangent to the parabola at b, and will intersect the horizontal ag at g: choose e such that ag will be a mean proportional between af and ae.  Now I say that e is the point above sought.  That is, if a body falls from rest at this point e, and if the momentum acquired at the point a be diverted into a horizontal direction, and compounded with the momentum acquired at h in falling from rest at a, then the body will describe the parabola ab.  For if we understand ea to be the measure of the time of fall from e to a, and also of the momentum acquired at a, then ag (which is a mean proportional between ea and af) will represent the time and momentum of fall from f to a or, what is the same thing, from a to h; and since a body falling from e, during the time ea, will, owing to the momentum acquired at a, traverse at uniform speed a horizontal distance which is twice ea, it follows that, the body will if impelled by the same momentum, during the time-interval ag traverse a distance equal to twice ag which is the half of bh.  This is true because, Fig 116(273) in the case of uniform motion, the spaces traversed vary directly as the times.  And likewise if the motion be vertical and start from rest, the body will describe the distance ah in the [294] time ag.  Hence the amplitude bh and the altitude ah are traversed by a body in the same time.  Therefore the parabola ab will be described by a body falling from the sublimity of e.  Q.E.F. 
+
+COROLLARY
+
+Hence it follows that half the base, or amplitude, of the semi-parabola (which is one-quarter of the entire amplitude) is a mean proportional between its altitude and the sublimity from which a falling body will describe this same parabola. 
+
+PROPOSITION VI, PROBLEM
+
+Given the sublimity and the altitude of a parabola, to find its amplitude. 
+
+Let the line ac, in which lie the given altitude cb and sublimity ab, be perpendicular to the horizontal line cd.  The problem is to find the amplitude, along the horizontal cd, of the semi-parabola which is described with the sublimity ba and altitude bc.  Lay off cd equal to twice the mean proportional between cb and ba.  Then cd will be the amplitude sought, as is evident from the preceding proposition. 
+
+Fig 117
+THEOREM.  PROPOSITION VII
+
+If projectiles describe semi-parabolas of the same amplitude, the momentum required to describe that one whose amplitude is double its altitude is less than that required for any other. 
+
+(274)
+Let bd be a semi-parabola whose amplitude cd is double its altitude cb; on its axis extended upwards lay off ba equal to its altitude bc.  Draw the line ad which will be a tangent to the parabola at d and will cut the horizontal line be at the point e, making be equal to bc and also to ba.  It is evident that this parabola will be described by a projectile whose uniform horizontal momentum is that which it would acquire at b in falling from rest at a and whose naturally accelerated vertical momentum is that of the body falling to c, from rest at b.  From this it follows that the momentum at the terminal point d, compounded of these two, is represented by the diagonal ae, whose square is equal to the sum of the squares of the two components.  Now let gd be any other parabola whatever having the same amplitude cd, but whose altitude cg is either greater or less than the altitude bc.  Let hd be the tangent cutting the horizontal Fig 118[295] through g at k.  Select a point l such that hg:gk =gk:gl.  Then from a preceding proposition [V], it follows that gl will be the (275) height from which a body must fall in order to describe the parabola gd. 
+
+Let gm be a mean proportional between ab and gl; then gm will [Prop.  IV] represent the time and momentum acquired at g by a fall from l; for ab has been assumed as a measure of both time and momentum.  Again let gn be a mean proportional between bc and cg; it will then represent the time and momentum which the body acquires at c in falling from g.  If now we join m and n, this line mn will represent the momentum at d of the projectile traversing the parabola dg, which momentum is, I say, greater than that of the projectile travelling along the parabola bd whose measure was given by ae.  For since gn has been taken as a mean proportional between bc and gc; and since bc is equal to be and also to kg (each of them being the half of dc) it follows that cg:gn = gn:gk, and as cg or (hg) is to gk so is ng2 to gk2: but by construction hg:gk = gk:gl.  Hence ng2:gk2 = gk:gl.  But gk:gl = gk2:gm2, since gm is a mean proportional between kg and gl.  Therefore the three squares ng, kg, mg form a continued proportion, gn2:gk2 = gk2:gm2.  And the sum of the two extremes which is equal to the square of mn is greater than twice the square of gk; but the square of ae is double the square of gk.  Hence the square of mn is greater than the square of ae and the length mn is greater than the length ae.  Q. E. D.  [296]
+
+COROLLARY
+
+Conversely it is evident that less momentum will be required to send a projectile from the terminal point d along the parabola bd than along any other parabola having an elevation greater or less than that of the parabola bd, for which the tangent at d makes an angle of 45° with the horizontal.  From which it follows that if projectiles are fired from the terminal point d, all having the same speed, but each having a different elevation, the maximum range, i.e., amplitude of the semi-parabola or of the entire parabola, will be obtained when the elevation is 45°: the (276) other shots, fired at angles greater or less will have a shorter range. 
+
+SAGR.   The force of rigid demonstrations such as occur only in mathematics fills me with wonder and delight.  From accounts given by gunners, I was already aware of the fact that in the use of cannon and mortars, the maximum range, that is the one in which the shot goes farthest, is obtained when the elevation is 45° or, as they say, at the sixth point of the quadrant; but to understand why this happens far outweighs the mere information obtained by the testimony of others or even by repeated experiment. 
+
+SALV.   What you say is very true.  The knowledge of a single fact acquired through a discovery of its causes prepares the mind to understand and ascertain other facts without need of recourse to experiment, precisely as in the present case, where by argumentation alone the Author proves with certainty that the maximum range occurs when the elevation is 45°.  He thus demonstrates what has perhaps never been observed in experience, namely, that of other shots those which exceed or fall short of 45° by equal amounts have equal ranges; so that if the balls have been fired one at an elevation of 7 points, the other at 5, they will strike the level at the same distance: the same is true if the shots are fired at 8 and at 4 points, at 9 and at 3, etc.  Now let us hear the demonstration of this.  [297]
+
+THEOREM.  PROPOSITION VIII
+
+The amplitudes of two parabolas described by projectiles fired with the same speed, but at angles of elevation which exceed and fall short of 45° by equal amounts, are equal to each other. 
+
+In the triangle mcb let the horizontal side bc and the vertical cm, which form a right angle at c, be equal to each other; then the angle mbc will be a semi-right angle; let the line cm be prolonged to d, such a point that the two angles at b, namely mbe an mbd, one above and the other below the diagonal mb, shall be equal.  It is now to be proved that in the case of two parabolas (277) described by two projectiles fired from b with the same speed, one at the angle of ebc, the other at the angle of dbc, their amplitudes will be equal.  Now since the external angle bmc is equal to the sum of the internal angles mdb and dbm we may also equate to them the angle mbc; but if we replace the angle dbm by mbe, then this same angle mbc is equal to the two mbe and bdc: and if we subtract from each side of this equation the angle mbe, we have the remainder bdc equal to the remainder ebc.  Hence the two triangles dcb and bce are similar.  Bisect the straight lines dc and ec in the points h and f: and draw the lines hi and fg parallel to the horizontal cb, and choose l such that dh:hi = ih:hl.  Then the triangle ihl will be similar to ihd, and also to the egf; and since ih and gf are equal, each being half of bc, it follows that hl is equal to fe and also to fc; and if we add to each of these the common part fh, it will be seen that ch is equal to fl. 
+
+Fig 119
+Let us now imagine a parabola described through the points h and b whose altitude is hc and sublimity hl.  Its amplitude will be cb which is double the length hi since hi is a mean proportional between dh (or ch) and hl.  The line db is tangent to the parabola at b, since ch is equal to hd.  If again we imagine a parabola described through the points f and b, with a sublimity fl and altitude fc, of which the mean proportional is fg, or one-half of cb, then, as before, will cb be the amplitude and the line eb a tangent at b; for ef and fc are equal.  [298] But the two angles dbc and ebc, the angles of elevation, differ by equal amounts from a 45° angle.  Hence follows the proposition. 
+
+THEOREM.  PROPOSITION IX
+
+The amplitudes of two parabolas are equal when their altitudes and sublimities are inversely proportional.  (278)
+
+Let the altitude gf of the parabola fh bear to the altitude cb of the parabola bd the same ratio which the sublimity ba bears to the sublimity fe, then I say the amplitude hg is equal to the amplitude dc.  For since the first of these quantities, gf, bears to the second cb the same ratio which the third, ba, bears to the fourth fe, it follows that the area of the rectangle gf. fe is equal to that of the rectangle cb. ba; therefore squares which are equal to these rectangles are equal to each other.  But [by Proposition VI] the square of half of gh is equal to the rectangle gf. fe; and the square of half of cd is equal to the rectangle cb. ba.  Therefore these squares and their sides and the doubles of their sides are equal.  But these last are the amplitudes gh and cd.  Hence follows the proposition. 
+
+Fig 120
+LEMMA FOR THE FOLLOWING PROPOSITION
+
+If a straight line be cut at any point whatever and mean proportionals between this line and each of its parts be taken, the sum of the squares of these mean proportionals is equal to the square of the entire line. 
+
+Let the line ab be cut at c.  Then I say that the square of the mean proportional between ab and ac plus the square of the mean proportional between ab and cb is equal to the square of the whole line ab.  This is evident as soon as we describe a semicircle upon the entire line ab, erect a perpendicular cd at c, and draw da and db.  For da is a mean proportional between ab and ac while Fig 121[299] db is a mean proportional between ab and bc: and since the angle adb, inscribed in a semicircle, is a right angle the sum of (279) the squares of the lines da and db is equal to the square of the entire line ab.  Hence follows the proposition. 
+
+THEOREM.  PROPOSITION X
+
+The momentum [impetus seu momentum] acquired by a particle at the terminal point of any semi-parabola is equal to that which it would acquire in falling through a vertical distance equal to the sum of the sublimity and the altitude of the semi-parabola. *
+
+Let ab be a semi-parabola having a sublimity da and an altitude ac, the sum of which is the perpendicular dc.  Now I say the momentum of the particle at b is the same as that which it would acquire in falling freely from d to c.  Let us take the length of dc itself as a measure of time and momentum, and lay off cf equal to the mean proportional between cd and da; also lay off ce a mean proportional between cd and ca.  Now cf is the measure of the time and of the momentum acquired by fall, from rest at d, through the distance da; while ce is the time and momentum of fall, from rest at a, through the distance ca; also the diagonal, ef will represent a momentum which is the resultant of these two, and is therefore the momentum at the terminal point of the parabola, b. 
+
+Fig 122
+And since dc has been cut at some point a and since cf and ce are mean proportionals between the whole of cd and its parts, da and ac, it follows, from the preceding lemma, that the sum of the squares of these mean proportionals is equal to the square of the whole: but the square of ef is also equal to the sum of these same squares; whence it follows that the line ef is equal to dc. 
+
+Accordingly the momentum acquired at c by a particle in falling from d is the same as that acquired at b by a particle traversing the parabola ab.  Q. E. D. 

@@ -2,7 +2,7 @@
 heading: Chapters 12
 title: "In what way Verticity exists in any Iron that has been smelted though not excited by a lodestone"
 date: 2024-02-20
-description: "A loadstone is a stone commonly called a Magnet"
+description: "What are the causes of magnetick virtues in smelted iron that has not been excited by a stone?"
 writer:
   name: Gilbert
   url: https://en.wikipedia.org/wiki/William_Gilbert_(physicist)

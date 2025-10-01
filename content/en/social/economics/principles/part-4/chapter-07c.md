@@ -3,12 +3,12 @@ heading: "Chapter 7c"
 title: "Interest Rates"
 date: 2021-01-15
 weight: 50
-image: /covers/keynes.jpg
+image: /photos/objects/card.jpg
 description: We explain the different notions of interest of Ricardo, Marshall, Pigou, Von Mises, and Keynes
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 ---
 
 
@@ -48,7 +48,7 @@ The judicious operations of banking can increase a country’s industry, not by 
 This is opposite the notion of Keynes that interest rates, set by banks, are the key to growing an economy:
 
 
-{{< q a="Keynes" c="General Theory Simplified, Chapter 14 Appendix" >}}
+{{< q a="John Maynard Keynes" c="General Theory Simplified, Chapter 14 Appendix" >}}
 The interest rate policy of the central bank can alter the money supply. This makes it a real determinant of the economic scheme.
 {{< /q >}}
 
@@ -102,7 +102,7 @@ Among the Mongols and shepherd nations who are ignorant of the use of money, cat
 
 This is even supported by Ricardo, which was actually praised by Keynes:
 
-{{< q a="Ricardo" c="Principles of Political Economy (p.511)" >}}
+{{< q a="David Ricardo" c="Principles of Political Economy (p.511)" >}}
 The interest of money is not regulated by the rate at which the Bank will lend, whether it be whatever percent, but by the rate of profit which can be made by the employment of capital. This is totally independent of the quantity or of the value of money.
 {{< /q >}}
 

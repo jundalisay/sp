@@ -1,6 +1,7 @@
 ---
-title: "The Laws by Plato Simplified"
-weight: 2
+heading: "Book 9"
+title: "The Justice System"
+weight: 25
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

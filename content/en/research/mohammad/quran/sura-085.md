@@ -2,7 +2,7 @@
 title: "The Constellations (al-Buruj)"
 heading: "Sura 85 "
 weight: 238
-c: "firebrick"
+c: "maroon"
 description: "The People of the Trench were destroyed"
 ---
 

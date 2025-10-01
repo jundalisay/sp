@@ -8,8 +8,6 @@ weight: 134
 ---
 
 
-
-
 According to Engels, Marx in 1847 adopted the term “communist” over “socialist” because socialism had by that time acquired a flavor of bourgeois respectability. 
 
 <!-- However that may have been
@@ -19,14 +17,9 @@ bourgeois mentality—there cannot be any doubt that  -->
 
 But Marx and Engels themselves were bourgeois intellectuals. 
 
-Exiles of bourgeois
-extraction and tradition—this formula accounts for a lot both in Marx’s
-thought and in the policies and political tactics he recommended. The
-astounding thing is the extent to which his ideas prevailed.
+1. The intellectual was uprooted by experience of 1848 which cast off his own class. 
 
-1. The uprooted intellectual, with the formative experience of 1848 forever impressed upon his whole soul, cast off his own class and was cast off by it. 
-
-Similarly uprooted intellectuals and, at one remove, the proletarian masses were henceforth all that was accessible to him and all he had to put his trust in. This explains the doctrine which, as we have seen in the preceding chapter, does stand in need of explanation, viz., that workers would “emancipate themselves.”
+<!-- Similarly uprooted intellectuals and, at one remove, the proletarian masses were henceforth all that was accessible to him and all he had to put his trust in. This explains the doctrine which, as we have seen in the preceding chapter, does stand in need of explanation, viz., that workers would “emancipate themselves.” -->
 
 2. The same uprooted intellectual naturally became internationalist in feeling. 
 
@@ -34,13 +27,40 @@ This meant more than that the problems and vicissitudes of any particular countr
 
 It meant that it was so much easier for him to create the hypernational socialist religion and to conceive of an international proletariat the component parts of which were, in principle at least, much more closely wedded to each other than each of them was to its own co-nationals of a different class. 
 
-
 Anyone could in cold logic have framed this obviously unrealistic conception and all that it implies for the interpretation of past history and for the views of Marxist parties on foreign policy. But then it would have had to contend with all the affective influences exerted by the national environments and could never have been passionately embraced by a man tied to a country by innumerable bonds. No such bonds existed for Marx. Having no country himself he readily convinced himself that the proletariat had none.
 
 We shall presently see why—and how far—this teaching survived and
-what, under varying circumstances, it was made to mean. Marx himself accepted its non-interventionist and pacifist implications. 
+what, under varying circumstances, it was made to mean. Marx himself accepted its non-interventionist and pacifist implications.
 
 He certainly
+=======
+First of all, the uprooted intellectual, with the formative experience of
+1848 forever impressed upon his whole soul, cast off his own class and was
+cast off by it. Similarly uprooted intellectuals and, at one remove, the
+proletarian masses were henceforth all that was accessible to him and all he
+had to put his trust in. This explains the doctrine which, as we have seen in
+the preceding chapter, does stand in need of explanation, viz., that workers
+would “emancipate themselves.”
+
+2. The same uprooted intellectual naturally became internationalist in feeling. This meant more than that the problems and vicissitudes of any
+particular country—even of individual national proletariats—did not primarily
+concern him and always remained on the periphery of his interests. It meant
+that it was so much easier for him to create the hypernational socialist religion
+and to conceive of an international proletariat the component parts of which
+were, in principle at least, much more closely wedded to each other than each
+of them was to its own co-nationals of a different class. Anyone could in cold
+logic have framed this obviously unrealistic conception and all that it implies
+for the interpretation of past history and for the views of Marxist parties on
+foreign policy. But then it would have had to contend with all the affective
+influences exerted by the national environments and could never have been
+passionately embraced by a man tied to a country by innumerable bonds. No
+such bonds existed for Marx. Having no country himself he readily convinced
+himself that the proletariat had none.
+
+We shall presently see why—and how far—this teaching survived and
+what, under varying circumstances, it was made to mean. Marx accepted its non-interventionist and pacifist implications. He certainly
+
+>>>>>>> b19c1bcc4b186bb880f5d917dca1116cb886ee4e
 thought not only that “capitalist wars” were of no concern to the proletariat
 but also that they were the means of subjugating it still more completely. The
 concession he may be held to have made, i.e., that participation in the
@@ -59,6 +79,7 @@ comfort at all events, in any environment professing other than democratic
 principles as then understood. Save in very exceptional cases, every opposition
 must stand for freedom—which for him meant democracy—and throw itself
 on the mercy of “the people.” Of course this element was and in some
+<<<<<<< HEAD
 countries is even now very important. 
 
 This is precisely, as I have pointed out, why democratic professions by socialist parties do not mean much until their political power becomes great enough to give them a choice of an alternative, and why they do not, in particular, avail to establish any fundamental relation between the logic of socialism and the logic of democracy. But it nevertheless seems safe to say that for Marx democracy was above discussion and any other political pattern below it. This much must be granted to the revolutionary of the 1848 type. 2 Of course it was out of the question for him to accept so important an article of the bourgeois faith as it stood. That would have uncovered a most inconveniently large expanse of common ground. But we have seen in the preceding part that he knew how to meet this difficulty by boldly claiming that only socialist democracy was true democracy and that bourgeois democracy was no democracy at all.
@@ -68,6 +89,28 @@ This is precisely, as I have pointed out, why democratic professions by socialis
 No need to emphasize that it was totally different from the aprioris of the average English socialist not only of his own but of any time—so different as to render mutual sympathy and even full mutual understanding almost impossible, quite irrespective of Hegelianism and other doctrinal barriers. The same difference will stand out still better if we compare Marx to another German intellectual of very similar background, Ferdinand Lassalle (1825–1864). 
 
 The scion of the same race, the product of the same stratum, molded by a closely similar cultural tradition, similarly conditioned by the experiences of 1848 and by the ideology of bourgeois democracy, Lassalle yet differs from Marx in a manner that cannot be explained wholly by the personal equation. Much more vital than this was the fact that Marx was an exile and Lassalle was not. Lassalle never cut himself off from his country or from classes other than the proletariat. He never was an internationalist like Marx. By proletariat he meant primarily the German proletariat. He had no objection to cooperation with the state that was. He did not object to personal contact with Bismarck or with the king of Bavaria. Such things are important, more important perhaps than the most profound doctrinal differences, important enough to produce different kinds of socialism and irreconcilable antagonisms. Let us now take our stand on Marx’s apriori and survey the political data that confronted him.
+=======
+countries is even now very important. This is precisely, as I have pointed out,
+why democratic professions by socialist parties do not mean much until their
+political power becomes great enough to give them a choice of an alternative,
+and why they do not, in particular, avail to establish any fundamental relation
+between the logic of socialism and the logic of democracy. But it nevertheless
+seems safe to say that for Marx democracy was above discussion and any other
+political pattern below it. This much must be granted to the revolutionary of
+the 1848 type. 2 Of course it was out of the question for him to accept so
+important an article of the bourgeois faith as it stood. That would have
+uncovered a most inconveniently large expanse of common ground. But we
+have seen in the preceding part that he knew how to meet this difficulty by
+boldly claiming that only socialist democracy was true democracy and that
+bourgeois democracy was no democracy at all.
+
+2. Such then was Marx’s political apriori. 3 
+
+No need to emphasize that it was totally different from the aprioris of the average English socialist not
+only of his own but of any time—so different as to render mutual sympathy
+and even full mutual understanding almost impossible, quite irrespective of
+Hegelianism and other doctrinal barriers. The same difference will stand out
+>>>>>>> b19c1bcc4b186bb880f5d917dca1116cb886ee4e
 
 <!-- 1 See ch. xx and xxiii.
 2 The emotional attitude acquired in 1848 also made it quite impossible for him to
@@ -77,6 +120,26 @@ was in this case quite beyond his range.
 3 No language that I know officially admits this word as a noun. To make it one is however
 a very convenient solecism. -->
 
+<<<<<<< HEAD
+=======
+still better if we compare Marx to another German intellectual of very similar
+background, Ferdinand Lassalle (1825–1864). The scion of the same race,
+the product of the same stratum, molded by a closely similar cultural
+tradition, similarly conditioned by the experiences of 1848 and by the
+ideology of bourgeois democracy, Lassalle yet differs from Marx in a manner
+that cannot be explained wholly by the personal equation. Much more vital
+than this was the fact that Marx was an exile and Lassalle was not. Lassalle
+never cut himself off from his country or from classes other than the
+proletariat. He never was an internationalist like Marx. By proletariat he
+meant primarily the German proletariat. He had no objection to cooperation
+with the state that was. He did not object to personal contact with Bismarck
+or with the king of Bavaria. Such things are important, more important
+perhaps than the most profound doctrinal differences, important enough to
+produce different kinds of socialism and irreconcilable antagonisms.
+Let us now take our stand on Marx’s apriori and survey the political data
+that confronted him.
+
+>>>>>>> b19c1bcc4b186bb880f5d917dca1116cb886ee4e
 At first, the huge industrial masses of which Marx wrote and thought
 existed nowhere except in England. Even there, the chartist movement having
 petered out by the time he had found his bearings, the working class was
@@ -93,6 +156,7 @@ they were bound to look upon revolutionary ideas or activities as a nuisance
 and as a stupid or frivolous sabotage of labor’s serious business. Also, they
 concerned themselves with the upper stratum of the working class; for the
 lower, they harbored feelings that were akin to contempt.
+<<<<<<< HEAD
 
 In any case however, Marx and Engels, circumstanced as they were and being the types they were, could never have thought of going forth in order to organize the industrial proletariat, or any particular group of it, according to ideas of their own. All they could hope for was contact with leaders and with the union bureaucracy. Beholding, on the one hand, that attitude of the “respectable” workman and, on the other hand, the attitude of the (then) unorganizable mob of the big cities with which they hardly wished to act, 4 they faced a disagreeable dilemma. 
 
@@ -160,6 +224,8 @@ enfranchisement of urban workers. -->
 
 
 Marx was from the first aware of the possibilities and of the dangers inherent in that caravanserai which held intellectuals of doubtful standing alongside of labor men obviously determined to use the Association or to disown it according to circumstances. They were the possibilities for which, and the dangers against which, he had always fought. The first task was to keep the organization together, the second to impart to it the Marxian slant, both to be solved in the face of the facts, that his personal followers were always a minority and that his influence on the other members was much smaller than might be inferred from his being drafted—or rather allowed—to make the program address. In consequence, this address contained concessions to un Marxian views similar to those which Marx himself was shocked to find in the Gotha program of the German Social Democratic party (1875). Similarly, judicious maneuvering and compromise were much in evidence ever after—the sort of thing that once made Marx exclaim in semi-humorous despair: “Je ne suis pas Marxiste.” But the meaning of compromise depends upon the man by whom, and the spirit in which, it is made. He who cares only for the trend may put up with many deviations. Evidently Marx trusted himelf to keep his trend steadily in view and to find his way back to it after each deviation. But we shall understand that he felt misgivings when he saw others playing the same game. There was thus more than mere egotism both in his tactical shuffling and in his venomous denunciations of other people’s shuffling.
+=======
+
 
 Of course both the tactics and the principle of what has ever since remained the classical policy of orthodox socialism are open to criticism. The tactical example set by Marx left followers free to justify practically any course of action or inaction by some move or dictum of the master. The principle has been denounced for pointing a way that led nowhere. All the more important is it to realize its rationale. Marx believed in the proletarian revolution. He also believed—though his own doctrine should have made him doubt this—that the right moment for it was not far off, just as most early Christians believed that the day of judgment was at hand. Therefore, his political method was indeed founded upon an error of diagnosis. Those intellectuals who extol his political acumen 6 fail entirely to see the amount of wishful thinking that entered into his practical judgment. But the facts within his horizon and his inferences from them being taken for granted, that method does follow as do his views on the subject of immediate results and on the table fellowship with bourgeois reformers. To found a homogeneous party based upon the organized proletariat of all countries that would march toward the goal without losing its revolutionary faith and getting its powder wet on the road was from that standpoint indeed the task of paramount importance compared with which everything else was nugatory.
 

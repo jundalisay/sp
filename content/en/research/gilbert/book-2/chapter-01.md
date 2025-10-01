@@ -13,32 +13,69 @@ weight: 4
 
 
 
-Diverse things concerning opinions about the magnet-stone, and its variety, concerning its poles and its known faculties, concerning iron, concerning the properties of iron, concerning a magnetick substance common to both of these and to the earth itself, have been spoken briefly by us in the former book. 
+In Book 1, I talked about:
+- the magnet-stone and its variety
+- its poles and its known faculties
+- the properties of iron
+- a magnetick substance common to iron and the earth
 
-There remain the magnetical motions, and their fuller philosophy, shown and demonstrated. These motions are incitements of homogeneal parts either among themselves or toward the primary conformation of the whole earth. 
+Here I explain magnetical motions, and their fuller philosophy.
 
-Aristotle admits only two simple motions of his elements, from the centre and toward the centre; of light ones upward, heavy ones downward; so that in the earth there exists one motion only of all its parts towards the centre of the world,—a rude and inert precipitation. But what of it is light, and how wrongly it is inferred by the Peripateticks from the simple motion of the elements, and also what is its heavy part, we will discuss elsewhere. 
+These motions are incitements of homogeneal parts either among themselves or toward the primary conformation of the whole earth. 
 
-But now our inquiry must be into the causes of other motions, depending on its true form, which we have plainly seen in our magnetick bodies; and these we have seen to be present in the earth and in all its homogenic parts also. We have noticed that they harmonize with the earth, and are bound up with its forces.
+Aristotle admits only 2 simple motions of his elements, from the centre and toward the centre.
 
-Five movements[106] or differences of motions are then observed by us: Coition (commonly called attraction), the {46}incitement to magnetick union;
+Lightweight ones upward, heavy ones downward.
 
-Direction towards the poles of the earth, and the verticity and continuance of the earth towards the determinate poles of the world; Variation, a deflexion from the meridian, which we call a perverted movement; Declination, a descent of the magnetick pole below the horizon; and circular motion, or Revolution.
+In the earth, there exists one motion only of all its parts towards the centre of the world,—a rude and inert precipitation.
 
-Concerning all these we shall discuss separately, and how they all proceed from a nature tending to aggregation, either by verticity or by volubility. 
+But what of it is light, and how wrongly it is inferred by the Peripateticks from the simple motion of the elements, and also what is its heavy part, we will discuss elsewhere. 
 
-Jofrancus Offusius[107] makes out different magnetick motions:
+<!-- But now our inquiry must be into the causes of other motions, depending on its true form, which we have plainly seen in our -->
+
+The motions of magnetick bodies is different. 
+
+These are present in the earth and in all its homogenic parts also.
+
+They harmonize with the earth, and are bound up with its forces.
+
+I observe 5 movements:
+
+1. Coition (commonly called attraction), the incitement to magnetick union
+
+2. Direction towards the poles of the earth, and the verticity and continuance of the earth towards the determinate poles of the world.
+
+3. Variation
+
+This is a deflexion from the meridian, which I call a perverted movement.
+
+4. Declination
+
+This is a descent of the magnetick pole below the horizon.
+
+5. Revolution or circular motion
+
+<!-- Concerning all these we shall discuss separately, and how they all proceed from a nature tending to aggregation, either by verticity or by volubility.  -->
+
+Jofrancus Offusius makes out different magnetick motions:
 
 1. Towards a centre
-2. Towards a pole at 77 degrees
-3. Towards iron
-4. Towards loadstone
 
 The first is not always to a centre, but exists only at the poles in a straight course toward the centre, if the motion is magnetick.
 
-Otherwise it is only motion of matter toward its own mass and toward the globe. The second toward a pole at 77 degrees is no motion, but is direction with respect to the pole of the earth, or variation. 
+Otherwise it is only motion of matter toward its own mass and toward the globe. 
 
-The third and fourth are magnetick and are the same. So he truly recognizes no magnetick motion except the Coition toward iron or loadstone, commonly called attraction. There is another motion in the whole earth, which does not exist towards the terrella or towards its parts; videlicet, a motion of aggregation, and that movement of matter, which is called by philosophers a right motion, of which elsewhere.
+2. Towards a pole at 77 degrees
+
+The second toward a pole at 77 degrees is no motion, but is direction with respect to the pole of the earth, or variation. 
+
+3. Towards iron
 
 
+4. Towards loadstone
 
+The third and fourth are magnetick and are the same. 
+
+So he truly recognizes no magnetick motion except the Coition toward iron or loadstone, commonly called attraction. 
+
+There is another motion in the whole earth, which does not exist towards the terrella or towards its parts; videlicet, a motion of aggregation, and that movement of matter, which is called by philosophers a right motion, of which elsewhere.

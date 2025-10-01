@@ -2,7 +2,7 @@
 title: "The Story of Noah and Moses"
 heading: "Sura 10b "
 weight: 80
-c: "firebrick"
+c: "maroon"
 description: "Do not let the disbelievers dishearten you."
 ---
 

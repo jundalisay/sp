@@ -1,14 +1,13 @@
 ---
 title: "The Crucifixion of Jesus According to Social Cycles"
 date: 2023-04-03
-# weight: 
-a: "Jesus.jpg"
+a: "Jesus"
 c: "seagreen"
 description: "Historical facts will reveal that the crucifixion of Jesus had little to do with spirituality, but everything to do with politics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
 ---
 
 

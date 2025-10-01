@@ -4,9 +4,8 @@ title: "CLOSED SEASON"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 28
+weight: 33
 ---
-
 
 
 It is for the reader to decide how far the preceding analysis has attained
@@ -23,7 +22,9 @@ depicted, for the epoch of intact or relatively unfettered capitalism, by the
 index of total output. My affirmative answer to this question was based upon
 an analysis that ran on lines approved by most economists up to the point
 at which what is usually referred to as the modern tendency toward
-monopolistic control entered the scene. After that my analysis deviated from
+monopolistic control entered the scene. 
+
+After that my analysis deviated from
 the usual lines in an attempt to show that what practically everyone concedes
 to the capitalism of perfect competition (whether a theoretical construction,
 or, at some time or other, a historical reality) must also to even a greater

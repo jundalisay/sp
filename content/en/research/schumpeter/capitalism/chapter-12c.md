@@ -1,21 +1,19 @@
 ---
 heading: Chapter 12
-title: "CRUMBLING WALLS"
+title: "The Destruction Of The Institutional Framework Of Capitalist Society"
 c: "firebrick"
 description: ""
 date: 2025-09-21
-weight: 42
+weight: 48
 ---
 
-
-
-III. THE DESTRUCTION O F T HE I NSTITUTIONAL F RAMEWORK of CAPITALIST SOCIETY
 
 
 We return from our digression with a load of ominous facts. They are almost,
 though not quite, sufficient to establish our next point, viz., that the capitalist
 process in much the same way in which it destroyed the institutional
 framework of feudal society also undermines its own.
+
 It has been pointed out above that the very success of capitalist enterprise
 paradoxically tends to impair the prestige or social weight of the class
 primarily associated with it and that the giant unit of control tends to oust
