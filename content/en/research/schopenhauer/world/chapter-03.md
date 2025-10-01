@@ -1,6 +1,6 @@
 ---
 heading: Chapter 3
-title: "The World as a Dream"
+title: "Abstract Space and Time"
 date: 2025-09-20
 description: "Kant made the important discovery of them that these ideas of perception"
 weight: 8
@@ -11,45 +11,56 @@ writer:
 ---
 
 
-The chief distinction among our ideas is that between:
+Our ideas are either:
 
-1. abstract ideas
+1. Abstract
 
-These abstract ideas form concepts. 
+These form a class of ideas called concepts. 
 
-Concepts are a class of ideas which only man has.
-
-The capacity for concepts is 'reason'.5 
+Only humans have concepts through the ability of reason which separates us from animals. 
 
 
-2. ideas of perception
+2. Perception
 
-These comprehend the whole visible world, or all of experience, with the conditions of its possibility.
+These comprehend the whole visible world, or all of possible experience.
 
-Kant made the important discovery of them that these ideas of perception:
-- are absolutely universal
-- have space and time as their common property
-- can be thought in the abstract yet also be directly perceived
+Kant made the important discovery that the universal element of perception is space and time.
 
- time, even when taken by themselves and apart from their content, can, not only ; and that 
+Space and time can be perceived:
+- in the abstract and
+- in reality
 
- This perception or intuition is independent of experience.
+This perception of space and time 
 
- Experience is dependent on perception. 
+The qualities of abstract space and time are:
+- entirely independent of experience
+- valid for all possible experience.
 
-<!--  not some kind of phantasm arising from constant recurrence in experience, but is so entirely 
-
-  that we must rather regard the latter as dependent on it, inasmuch as 
-, as they are known in a priori perception or intuition, are -->
-
-Thia makes the qualities of [abstract] space and time valid for all possible experience, as rules to which it must invariably conform.
+It means that experience is dependent on space and time. 
 
 
-<!-- 5 Kant is the only writer who has confused this idea of reason, and in this
-connection I refer the reader to the Appendix, and also to my “Grundprobleme
-der Ethik”: Grundl. dd. Moral. § 6, pp. 148-154, first and second editions.  -->
+My principle of sufficient reason deals with space and time because space and time are perceived as pure and empty of content, as a special and independent class of ideas. 
 
-<!-- my essay on the principle of sufficient reason -->
+Kant discovered the abstract space-and-time quality of the universal forms of intuition.
+
+Abstract space-and-time is the basis of mathematics.
+
+<!-- , that they may be perceived in themselves and apart from
+experience, and that they may be known as exhibiting those laws
+on which is founded the infallible science of , is
+certainly very important.  -->
+
+<!-- My principle of sufficient reason conditions:
+- experience as the law of causation and of motive
+- thought as the law of the basis of judgment
+
+appears here in quite a special form, to which I have given the name of  -->
+
+I call "ground of being" the movement in time and movement in space. 
+
+<!-- In time, this is the succession of its moments, and in space the position of its parts, which
+reciprocally determine each other ad infinitum. -->
+
 
 I wrote that space and time are perceived as pure and empty of content, as a special and independent class of ideas. 
 
@@ -80,53 +91,33 @@ I call experience as the 'ground of being'.
 - In space, this ground of being is the position of its parts
   - These parts reciprocally determine each other infinitely.
 
-<!-- Any one who has fully understood from the introductory essay
-the complete identity of the content of the principle of sufficient
-reason in all its different forms, must also be convinced of the
-importance of the knowledge of the simplest of these forms, as
+
+<!-- the importance of the knowledge of the simplest of these forms, as
 affording him insight into his own inmost nature.  -->
 
-This simplest form of my principle of sufficient reason is time. 
+This simplest form of the flow of cognition is time. 
 
-In time, each instant is a generator of the next one just as it is quickly effaced.
+In the idea of time, each instant is a generator of time, to be itself in turn as quickly effaced.
 
-<!-- , only in so far as it has effaced the preceding one, its
-generator, to be itself in turn as  The past and the
-future (considered apart from the consequences of their content)
-are empty as a dream, and the present is only the indivisible
-and unenduring boundary between them.  -->
+The abstract past time and future time are empty as a dream.
 
-The other forms of the principle of sufficient reason have the same emptiness.
+The present is only the indivisible and unenduring boundary between them. 
 
-Both , and 
+All the other forms of the flow of cognition [principle of sufficient reason] has the same emptiness.
+- abstract time
+- abstract space
+- the whole abstract content of both of them
+  - All that comes from causes and motives has a relative existence and does not last
 
-The whole content of time and space:
-- is made up of effects from causes and motives.
-- has a merely relative existence
-- are not more enduring
+The substance of this doctrine is old.
 
-<!-- is only through and
-for another like to itself, i.e.,  -->
-
-The substance of this doctrine is old: it appears in 
-
-Heraclitus had this idea when he laments the eternal flux of things
-
-Plato had this idea when he degrades the object to that which is ever becoming, but never being.
-
-Spinoza had this idea as the doctrine of the mere accidents of the one substance which is and endures.
+It appears in:
+- Heraclitus when he laments the eternal flux of things
+- Plato when he degrades the object to that which is ever becoming, but never being
+- Spinoza as the doctrine of the mere accidents of the one substance which is and endures.
 
 Kant opposes what is thus known as the mere phenomenon to the thing in itself. 
 
 The Indian philosophers declares “It is Mâyâ which blinds mortals and makes them behold a world that either exists or not. It is like a dream."
 
-<!-- ; it is like the sunshine on the sand
-which the traveller takes from afar for water, or the stray piece
-of rope he mistakes for a snake.”  -->
-
-<!-- (These similes are repeated in innumerable passages of the Vedas and the Puranas.) But what
-all these mean, and that of which they all speak, is nothing more
-than what we have just considered— -->
-
-
-They all refer to the the world being an idea subject to the principle of sufficient reason.
+They all refer to the the world being an idea subject to the flow of cognition [the principle of sufficient reason].

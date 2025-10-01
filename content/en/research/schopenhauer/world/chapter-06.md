@@ -12,6 +12,64 @@ writer:
 
 
 
+
+In this Book 1, I consider everything as idea, as object for the subject.
+
+Our own body is:
+- the starting-point for our perception of the world.
+- also an idea
+
+
+The consciousness of every one is opposed to:
+- these objects as mere ideas
+- our own bodies
+
+ for the thing in itself is known
+to each of us immediately in so far as it appears as our own
+body; but in so far as it objectifies itself in the other objects of
+perception, it is known only indirectly. But 
+
+this abstraction, this
+one-sided treatment, this forcible separation of what is essentially
+and necessarily united, is only adopted to meet the demands of
+our argument;
+
+Therefore the disinclination to it must, in the
+meantime, be suppressed and silenced by the expectation that
+the subsequent treatment will correct the one-sidedness of the
+present one, and complete our knowledge of the nature of the
+world.
+
+
+Just for discussion, I make the body as our immediate object.
+
+ [024]
+that is to say, that idea which forms the starting-point of the
+subject's knowledge; because the body, with its immediately
+known changes, precedes the application of the law of causality,
+and thus supplies it with its first data. 
+
+The whole nature of matter consists in its causal action.
+
+But cause and effect exist only for the [mind] understanding which is merely their subjective correlative. 
+
+The understanding, however, could never come into operation if there were not something else from which
+it starts. This is simple sensation—the immediate consciousness
+of the changes of the body, by virtue of which it is immediate
+object. Thus the possibility of knowing the world of perception
+depends upon two conditions; the first, objectively expressed, is
+the power of material things to act upon each other, to produce
+changes in each other, without which common quality of all
+bodies no perception would be possible, even by means of the
+sensibility of the animal body. And if we wish to express this
+condition subjectively we say: The understanding first makes
+perception possible; for the law of causality, the possibility of
+effect and cause, springs only from the understanding, and is
+valid only for it, and therefore the world of perception exists
+only through and for it. The second condition is the sensibility
+of animal bodies, or the quality of being immediate objects of
+
+
 Here I consider everything merely as idea, as object for the subject. 
 
 Our own body is the starting-point for each of us in our perception
@@ -289,7 +347,9 @@ off, thus treating them as earthly objects, according to the laws
 of atmospheric perspective, and therefore it takes the moon to be
 much larger at the horizon than at the zenith, and also regards
 the vault of heaven as more extended or flattened out at the
-horizon. The same false application of the laws of atmospheric
+horizon. 
+
+The same false application of the laws of atmospheric
 perspective leads us to suppose that very high mountains, whose
 summits alone are visible in pure transparent air, are much nearer
 than they really are, and therefore not so high as they are; for
@@ -306,4 +366,3 @@ of man, irrational, and is completely and sharply distinguished
 from the reason, which is a faculty of knowledge that belongs to
 man alone. The reason can only know; perception remains free
 from its influence and belongs to the understanding alone.
-
