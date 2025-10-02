@@ -3,7 +3,7 @@ heading: "Chapter 7"
 title: "Supermath and Qualimath: The Maths for Superphysics"
 # Math for Qualities and Ratios" more than Quantities and Equalities"
 date: 2020-12-27
-weight: 34
+weight: 600
 image: "/graphics/physics/math.jpg" 
 description: "Qualimath is Math for operating on Qualities instead of Quantities"
 icon: "Superphysics"

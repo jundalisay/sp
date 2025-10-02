@@ -2,7 +2,7 @@
 heading: "Chapter 10b"
 title: "Critical Thinking and Critical Feeling"
 date: 2023-12-08
-weight: 60
+weight: 702
 c: "steelblue"
 a: "David Hume"
 description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"

@@ -32,11 +32,11 @@
     {{/* Figcaption remains the same */}}
     <div class="flex items-center justify-center" style="margin-top: -3rem;">
         {{ if $img }}
-          <img class="w-12 h-12 rounded-full shadow-lg pr-2" src="{{ $img.Permalink }}" alt="{{ $a }}">
+          <img class="w-12 h-12 rounded-full shadow-lg"  src="{{ $img.Permalink }}" alt="{{ $a }}">
         {{ else }}
           <img class="w-12 h-12 rounded-full shadow-lg pr-2" src="/icons/blank.jpg" alt="Blank">
         {{ end }}
-        <div class="flex items-center">
+        <div class="pl-2 flex items-center">
             <p class="pr-3 font-medium text-gray-900 dark:text-white">{{ $a }}</p>
             <p class="pl-2 text-sm border-l border-gray-500 dark:border-gray-400 text-gray-500 dark:text-gray-400">{{ $c }}</p>
         </div>

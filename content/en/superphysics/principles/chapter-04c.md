@@ -2,7 +2,7 @@
 title: "The Connection of Ideas"
 heading: "Chapter 4c"
 date: 2024-02-24
-weight: 23
+weight: 450
 image: /graphics/meta/ideas.jpg
 description: "We explain the rules of Bullet-Style Writing"
 icon: "Superphysics"

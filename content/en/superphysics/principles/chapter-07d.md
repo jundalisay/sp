@@ -3,7 +3,7 @@ heading: "Chapter 7d"
 linkTitle: Eagle
 title: "The Equation for Everything: The Eagle"
 date: 2020-12-26
-weight: 40
+weight: 608
 # date: 2021-06-23
 image: "/graphics/super/egl.jpg"
 description: "The Eagle is our Equation for the movement of Everything in the physical dimension"

@@ -2,7 +2,7 @@
 heading: "Chapter 5"
 title: "The Law of Conservation of Idea and the Theory of Dynamism"
 date: 2020-12-29
-weight: 24
+weight: 500
 image: "/photos/objects/apples.jpg"
 description: "Why you only have 1 idea at a time"
 icon: "Superphysics"

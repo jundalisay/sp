@@ -3,7 +3,7 @@ heading: "Chapter 9"
 title: "Life and The Nature of Mind"
 # date: 2020-01-01
 date: 2020-12-10
-weight: 50
+weight: 680
 image: /graphics/meta/mind.png
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:

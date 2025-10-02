@@ -2,7 +2,7 @@
 heading: "Chapter 7e"
 title: "The Theory of Universal Relationality"
 date: 2020-12-26
-weight: 41
+weight: 610
 # date: 2021-06-23
 image: "/graphics/physics/relationality.jpg"
 description: "The Eagle is our Equation for the movement of Everything in the physical dimension"

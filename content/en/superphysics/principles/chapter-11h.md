@@ -3,7 +3,7 @@
 title: "The Academy of Sages"
 date: 2025-01-18
 # date: 2020-11-20
-weight: 36
+weight: 790
 image: /photos/medieval/spartan.jpg
 description: "Academy of Sages is an institution for advancing true knowledge"
 writer:

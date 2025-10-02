@@ -2,7 +2,7 @@
 title: "Ideas are Static Particles, Feelings are Dynamic Waves"
 heading: "Chapter 4b"
 date: 2024-01-24
-weight: 22
+weight: 440
 image: /graphics/flip.jpg
 description: "Our reality is made up of independent 'pages' or planes of reality that flow, or are connected by our minds in order to create one consistent reality"
 icon: "Superphysics"

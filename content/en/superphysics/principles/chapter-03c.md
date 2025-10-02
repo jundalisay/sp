@@ -4,7 +4,7 @@ title: "The 2 Forces: Positive and Negative"
 # Desire and the Two Forces
 #, Propelled by Feelings
 date: 2020-01-02
-weight: 15
+weight: 360
 image: /photos/meta/yinyang.jpg
 description: "Everything in existence is created by the two forces"
 icon: "Superphysics"

@@ -2,7 +2,7 @@
 heading: "Chapter 3e"
 title: "The Geometry of Ideas"
 date: 2020-01-02
-weight: 18
+weight: 380
 image: "/graphics/super/direction.jpg"  
 description: "Ideas have a geometry"
 icon: "Superphysics"

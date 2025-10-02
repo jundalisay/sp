@@ -5,7 +5,7 @@ heading: Chapter 7f
 # orig date: 2015-09-09
 # date: 2020-11-05
 date: 2024-07-29
-weight: 42
+weight: 630
 image: /photos/physics/ai.jpg
 description: "In reality, AI is not really artificial, but is a very limited version of natural intelligence"
 icon: "Supereconomics"

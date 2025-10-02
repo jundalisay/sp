@@ -3,7 +3,7 @@ heading: "Chapter 7b"
 title: "Qualimath Decon Notation: Solving the Measurement Problem"
 # Math for Qualities and Ratios" more than Quantities and Equalities"
 date: 2020-12-27
-weight: 36
+weight: 602
 image: "/graphics/movement.png"
 description: "Decon Notation helps make ratios understandable"
 icon: "Superphysics"

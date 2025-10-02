@@ -4,7 +4,7 @@ title: "The 5 Layers for Goal-Setting"
 # date: 2015-09-09
 date: 2023-03-19
 # 2020-01-04
-weight: 12
+weight: 290
 image: /graphics/meta/ngu.jpg
 description: "We use the 5 Layers for Goal-Setting as an alternative to SMART"
 writer:

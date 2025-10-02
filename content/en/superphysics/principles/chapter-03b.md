@@ -4,7 +4,7 @@ title: "Existence-Consciousness"
 # Desire and the Two Forces
 #, Propelled by Feelings
 date: 2020-01-02
-weight: 14
+weight: 350
 image: /photos/meta/buddhism.jpg
 description: "Everything in existence is created by the two forces"
 icon: "Superphysics"

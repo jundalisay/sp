@@ -2,7 +2,7 @@
 heading: "Chapter 5b"
 title: "Our Theory of Dynamism: State and State-Change"
 date: 2024-05-20
-weight: 25
+weight: 530
 image: "/photos/tech/phone.jpg"
 description: "Our principles are therefore derived from the perceived changes in state."
 icon: "Superphysics"

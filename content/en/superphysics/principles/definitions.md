@@ -6,7 +6,7 @@ description : "Superphysics relies on precise defintions which can be eventually
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-weight: 100
+weight: 900
 aliases:
   /superphysics/principles/appendix
 ---
@@ -73,6 +73,7 @@ Personality Structure | Determines the DNA patterns of the body in order to rein
 Physics | The study of the Supreme Entity in its physical forms. This includes the 5 Layers or Elements. This absorbs the word 'science'
 Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
+Reality | Metaphysical structure that forms from the waves emanated by nodes or vortices with each other  
 Religion | a ideology that is centered around God (as Enki or Enlil for Judeo-Christian Religions) or gods (as more advanced beings)
 Riches | the power of acquiring the property of what pleases (David Hume, Treatise Book 2)
 Self | The perception of identity by the same perceiver

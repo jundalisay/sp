@@ -2,7 +2,7 @@
 heading: Chapter 2c
 title: "Non-Localism: The Independence of Spacetime Slices"
 date: 2025-03-02
-weight: 10
+weight: 270
 image: "/photos/objects/clock.jpg"
 description: "We introduce the concept of true motion'"
 writer:

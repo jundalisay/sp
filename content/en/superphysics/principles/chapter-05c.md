@@ -2,7 +2,7 @@
 heading: "Chapter 5c"
 title: "The Elastic Theory of Gravity"
 date: 2023-02-20
-weight: 26
+weight: 540
 image: "/graphics/physics/bands.jpg"
 description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
 icon: "Superphysics"

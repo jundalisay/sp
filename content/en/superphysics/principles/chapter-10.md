@@ -4,7 +4,7 @@ title: "Omnitheism: The Absolute And The Supreme"
 # date: 2015-09-09
 date: 2020-11-30
 # 2020-01-04
-weight: 52
+weight: 700
 image: /photos/objects/hand.jpg
 description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
 writer:

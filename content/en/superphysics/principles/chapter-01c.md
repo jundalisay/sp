@@ -1,12 +1,11 @@
 ---
 heading: "Chapter 1c"
-title: "The Cartesian View and Euclid's Elements"
-# date: 2015-09-09
-date: 2023-03-19
+title: "Vortices and Ideas"
+date: 2024-12-28
 # 2020-01-04
-weight: 4
-image: /graphics/super/cartesian.png
-description: "The Cartesian View plots the movement in the physical and metaphysical domains"
+weight: 150
+image: /graphics/meta/divisions.jpg
+description: "Reality has 3 Operational Divisions"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,92 +13,156 @@ icon: "Superphysics"
 ---
 
 
-{{< dc t="Principles (click to expand)" >}}
-Principles | Assertions
---- | ---
-There are 2 Domains in Reality | The Cartesian View has both Planes 
-{{< /dc >}}
+The previous section explained how gaps between crude waves are filled with subtler waves in order to eliminate and Voids in Nature.
+
+In some areas, many waves intersect from various angles to create nodes. These acquire characteristics that are different from waves and become ideas.
+- Waves are feelings and forces or 'bosons'
+- Nodes are ideas and particles or 'fermions'
+
+{{< i s="/graphics/super/waves.jpg" a="Waves and Nodes" >}}
+
+
+Simple ideas have a few intersecting waves, whereas complex ideas have a lot especially if those waves come from diverse angles. 
+
+This is why diversity is the law of Nature. 
+
+{{< q a="PR Sarkar" c="Ananda Sutram" >}}
+Diversity is the inherent tendency of the Supreme Operative Principle.
+{{< /q >}}
+
+The collapse of Communism, and the decline of Japan and South Korea which are against foreign immigrants, show plainly the violation of diversity.  
+
+We attribute the chaos in ethnically diverse countries such as India to the violation of the hierarchy the 5 elements, where the crude material element is made to dominate the subtle aether element. This happens when materialism through the lower chakras gains dominance over spirituality (aether) and intellect (radiant stratum) of the upper chakras.
+
+
+## Life and Perception
+
+Nodes made up of crude waves become crude ideas which eventually become physical things. 
+
+As a physical thing becomes more complex, it naturally becomes larger and develops gaps.
+- These gaps need to be filled by the subtler waves until they form a subtle node in a larger crude node.
+
+This becomes a simple mind in a physical organism as a living thing. 
+
+Therefore:
+- a physical thing is a large node made up of crude waves
+- a living mind is a large node made up of subtle waves 
+
+Perception occurs when these nodes of minds interact with each other and with other nodes as ideas or things. 
+
+A crude node gets perceptions as proven by its subsequent reactions to stimuli.
+- For example, a rock reacts to light to reflect it so that it can be seen.
+
+But since the crude node has no flexible subtle waves, it is very limited in its expressive ability. 
+- The rock can only express the light it encounters by bouncing it off as a specific color.
+
+A living node, as a physical organism, on the other hand, can express more since it has subtler and more flexible waves.  
+- For example, a bacteria can react to light by moving away from it, aside from reflecting it.
+
+<!-- Life begins at a material node that gets more and more complex. This opens up gaps in it that needs  -->
+
+<!-- A perceiving mind within that Supreme Mind is also a disturbance, as a node, that encounters other disturbances.  -->
 
 
 
-{{< youtube 9k6t42MYZ2Y >}}
+Cartesian Physics calls nodes as vortices. 
 
-
-Previously, we divided reality into 2 domains:
-
-1. The Metaphysical
-2. The Physical
-
-
-Operationally, reality is divided into 3:
-
-1. Causal
-2. Subtle 
-3. Crude
-
-
-The current sciences ignore the metaphysical domain, as well as the causal and subtle parts of reality. Instead, they focus solely on the crude physical domain. 
-
-
-To explain metaphysical phenomena, humans have invented philosophy, religion, and mysticism. These have been disregarded by science as imaginary. 
-
-Science brands their explanations as pseudo-science, as if science and the physical domain (where matter resides) were superior to the metaphysical (where spirit and the aether reside).
-
-
-{{< q a="Rene Descartes" c="Principles of Philosophy, Part 2, Article 9" >}}
-People who distinguish substance from size or number actually do not know what incorporeal substance means. They think that substance is physical. 
-
-They thus think that a corporeal substance has a [metaphysical] size [when it really is a monad or point-particle]. And so they express something quite different from what they comprehend in their mind.
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 3" >}}
+The Earth and the other planets are carried along by a common vortex, with the Sun at its center and move in the motion of the vortex.
 {{< /q >}}
 
 
-We cure this materialistic view by creating the a metaphysics-first perspective which we call the Cartesian View which has 2 parts:
-
-1. The Aethereal Cartesian Plane for the Identity Space
-
-2. The Material Cartesian Plane for the Perception Space
-
-
-This view takes:
-- the metaphysical domain as the cause (via the Aethereal Cartesian Plane)
-- the physical domain as effect (via the Cartesian Plane)
-
-Currently, science has only the 'Cartesian plane' which is used to plot movements on paper.
-
-It is a 2-dimensional space that has quality in one axis relative to time in another axis. The movement through time makes the 2D space infinitely long.
-
-Here, the `y` axis represents a quality in different magnitudes of variations. 
-
-{{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" cap="The Cartesian Plane (left) plots the changes of an identity through time or relative to time (temporal changes) based on certain quality. The Aethereal Cartesian Plane (right), on the other hand, plots the changes of qualities relative to each other. The latter shows the how different each self is the previous and future self. " >}}
+In a metaphysical view, everything is a vortex:
+- The vortices in cells are the DNA
+- The vortices in galaxies are their singularity
+- The vortices in stars and planets are their core
+- The vortices in matter are the gluon field in the proton
 
 
-{{< img src="/graphics/super/det.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
+## Reality as a Metaphysical Structure that Collapses into Physicality
+
+Each node is made up of waves that interact with the waves that make up other nodes. 
+
+- Crude waves affect crude waves
+- Subtle waves affect both crude and subtle waves
+
+The different mix of crude and subtle in each node dictate which nodes they will react to, or what they will perceive
+
+- Crude nodes perceive crude nodes
+- Subtle nodes perceive subtle nodes by default, but can choose to perceive crude nodes due to the superiority of the subtle. 
+
+The perception-relation between crude-crude and subtle-subtle leads to a relational structure that we call a reality. 
+
+It means that a reality is a match of waves in the Perception Space mentioned in the previous section. 
+
+So we define reality as **a metaphysical structure that forms from the waves emanated by nodes or vortices impacting each other**.
+
+This metaphysical structure collapses into physical reality when converted by the Physical Domain. This is consistent with Quantum Mechanics. 
+
+It follows that there is more than one reality, since a node or vortex is made up of so many waves with varying qualities. 
 
 
-We add the **Aethereal Cartesian Plane** which is has the identity as its origin and has multiple axes representing the qualities of that identity that change over time.
-
-{{< img src="/graphics/super/viz.jpg" alt="Aethereal Cartesian planes" cap="" >}}
-
-The Aethereal Cartesian Plane reveals more data which can be interpreted as new information which we call the dynamics of the identity. These dynamics are then based on its gravitational signature or dharma. 
+{{< i s="/graphics/meta/er.jpg" a="ER Diagram" c="A reality is a the metaphysical structure created by the relations between entities. This is consistent with our description of Existence as a virtual reality system" >}}
 
 
-## There is Only Euclidean Geometry
 
-Modern Physics thinks that Euclid's book, The Elements, is about shapes on a 2D surface. 
+### Alternate Realities and the Multiverse
 
-In reality, it is about the dynamics of the 5 Elements (which we call the 5 Layers), and is why Euclid named it as such.
+This leads to the concept of alternate realities within the Perception Space.
 
-When used with the Cartesian View, Euclid's geometry can describe 3-dimensional surfaces and patterns. 
+A universe is a structure that extends actual reality into a potential reality 
 
-The main difference with Physics is that Euclid's Geometry does not focus on the paths that an object would take. 
+```
+Reality = Node 1 : Node 2
 
-This is because sequential paths only happen in the 3 Elements (Electromagnetism or 1st, Weak or 4th, and Strong or 3rd Elements). The aether (5th Element) and the aetherspace (2nd Element) are non linear and non sequential. 
+Universe = Actual Reality + Potential Reality
+```
 
-Instead, it focuses on the start and end of that path. This is useful for teleportation where paths are unnecessary.   
+Note how this definition of reality and universe are perception-based which ultimately is mind-based. 
 
-{{< img src="/graphics/physics/geo.jpg" alt="Aethereal Cartesian View of a Geodesic" cap="" >}}
+Crude minds cannot perceive subtle minds, but subtle minds can perceive both subtle and crude minds. 
+
+This allows alternate realities and other universes -- we only perceive our own universe because the nodes in this universe match our own mental waves.
+
+```
+Reality A = Node 1A : Node 2A
+Reality B = Node 1B : Node 2B
+Reality C = Node 1C : Node 2C
+
+Universe A = Node 1Aa : Node 2Aa
+Universe B = Node 1Ab : Node 2Ab
+Universe C = Node 1Ac : Node 2Ac
+```
+
+An alternate reality needs a slight modification in wave quality, but a diferent universe needs a more drasttic modificiation. 
+
+Alternate realities are in the same universe. But different universes are in a single Existence, as Existence Space.
 
 
-Teleportation and other aether-based technologies require knowledge and dynamics of the gravitational signature. This signature is visualized or revealed by the Aethereal Cartesian Plane like how a Fourier Transform makes a wave easier to understand.  
+## A Richer Reality Has More Diversity; The Goal of Existence
 
-<!-- The movement of a country can be physical or aethereal. The left physical Cartesian plane for example can be made to represent the movement of a country from a population of 1 million to 4 million at year 4. The right aethereal Cartesian plane plots movement of the soul of the same society from tyranny or neoconservatism (tetrahedron) into aristocracy or conservatism (octahedron) based on the Socrates' social cycles. Alternately, the left plane can represent Covid infections from 1,000 to 4,000 at the Day 4. The right plane can plot the evolution of the variants that emerge. Lastly, the left plane can represent a ball at [1,1] rolling to [4,4]. The right plane will then plot the changes in the ball's changing gravitational signature at each point [1,1] [2,2] [3,3] [4,4], as three time intervals. This will then be useful for levitating the ball (forceless movement) -->
+The previous section explained that the base of Existence is the possibility of having disturbances. 
+
+We can say that reality is when those disturbances actually occur and perceived by us. 
+
+A richer reality-perception therefore is made up of multiple waves of disturbance hitting a disturbance that is also more complex than others. 
+
+
+{{< i s="/graphics/super/reality.svg" a="Waves" c="" >}}
+
+Having no perception is perceiving no disturbance and therefore no mind, rather the mind is in potential form. 
+
+Empty space has no nodes or few disturbances, while a rich galaxy has a lot of them. 
+
+The purpose of Existence is to go back to pure Existence where there we no disturbances by getting a flat wave. This means finding the flatness from all the disturbance.
+- The Abolute Entity is flat Existence. 
+- The Supreme Entity is disturbed Existence. 
+
+Our experience of reality is a small portion of all the disturbances in the aether. Physical reality is a crudified version of this aether. 
+
+The distubances are caused by 2 Forces of Positive and Negative. Free will and spirit is associated with the Positive. Determinism and force is associated with the Negative. 
+
+Life is an effect of the Positive Force and is real. It is physical reality that is an illusion. 
+
+
+

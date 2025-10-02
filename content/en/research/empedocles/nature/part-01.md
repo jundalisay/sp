@@ -117,29 +117,32 @@ For there 'twill be forever where 'tis set.
 
 ##  The Plenum
 
-13. The All hath neither Void nor Overflow.
+13. The All has neither Void nor Overflow.
 
-14. But with the All there is no Void, so whence could aught of more come nigh?
+14. But with the All there is no Void, so where could anything greater come from?
 
 
 ## Our Elements Immortal.
 
-15. No wise man dreams such folly in his heart, that only whilst we live what men call life 
+15. No wise man believes such foolishness, that:
+- our existence lasts only while we live
+- we feel joy and sorrow only in [physical] life
+- before we were born we were nothing
+- when we die we will be nothing again
 
-We have our being and take our good and ill,
+<!-- No wise man dreams such folly in his heart, that only whilst we live what men call life 
+
+We have our being and take our good and bad
 
 And ere as mortals we compacted be,
 
 When as mortals we be loosed apart,
 
-We are as nothing.
+We are as nothing. -->
 
 
 ## Love and Hate, the Everlasting.
 
-16. Love and Hate were strong of yore.
+16. Love and Hate were powerful in the past, and they will exist in the future. 
 
-They shall have their hereafter.
-
-Shall endless Age not be emptied of these Two.
-
+Eternity will always have them.
