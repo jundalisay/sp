@@ -45,11 +45,15 @@ While the radiant layer is the basis of electricity, optics, and electronics, an
 In terms of creation, this is the fourth layer that processes energies and matter into other kinds.
 
 
-### Definition of the Convertible Layer
+## Definition of the Convertible Layer
 
-This layer creates the **diversity** in the material universe. This has both dynamic and static parts. 
+This layer creates the **diversity** in the material universe arising from the inherent instability of the convertible layer because of its position in the 5 Elements hierarchy which gives it 2 aether particles in our Law of Conservation of Aether or Substance.  
 
-Its particles are made up of 2 aether particles. This makes it very unstable. This inherent instability lets it convert other particles, both radiant and material.
+This is because 3 is the minimum number for stability in the logic of Aristotle, Socirates, and Vedas (i.e. there are 3 gunas).
+
+This instability has both dynamic (very unstable) and static (least unstable) parts. 
+
+This lets it convert other particles, both radiant and material.
 
 This layer was traditionally associated with water and liquids because they are always moving and can switch between gas, liquid, and solid. 
 
@@ -57,6 +61,8 @@ The importance of liquids in Conversion is seen in convertible quanta, as neutri
 
 The conversion layer leads to chemistry, and bio-chemisty and organic chemisty when merged with Bio Superphysics.
 
+The ability of this layer to facilitate between the static material layer and the dynamic radiant layer makes it very useful for reactions.
+
+This is seen in gunpowder (which Taoist science attributed to the water element) and in Element 115 which according to Bob Lazar converts to Element 116 which then converts into antimatter for portable energy.  
+
 <!-- This layer is also the least known by Physics because, like spacetime, it is dynamic and hard to detect.  -->
-
-

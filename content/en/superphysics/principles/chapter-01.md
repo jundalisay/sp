@@ -53,13 +53,11 @@ This means that the mug exists in two domains of reality:
 
 
 {{< q a="Francis Bacon" c="Nova Organum, Book 2" >}}
-Let the investigation of forms, which are eternal and immutable, constitute metaphysics. 
-
-Let the investigation of the efficient cause of matter, constitute physics.
+Let the investigation of forms, which are eternal and immutable, constitute metaphysics. Let the investigation of the efficient cause of matter, constitute physics.
 {{< /q >}}
 
 
-{{< img src="/graphics/super/domains.svg" alt="The 2 Domains" cap="The Physical Domain extends from the material layer up to the mid-spatial layer. The Metaphysical Domain extends from the mid-spatial layer up to the aethereal layer. ">}}
+{{< img src="/graphics/super/domains.svg" alt="The 2 Domains" cap="The Physical Domain extends from the material element up to the mid-spatial layer. The Metaphysical Domain extends from the mid-spatial element up to the aethereal layer. ">}}
 
 
 
@@ -128,9 +126,10 @@ If Person A were to go from the lower to the middle region, he would imagine tha
 If Person A goes back down, Person B would imagine that he was descending. This would arise out of his ignorance of the true upper, middle, and lower regions.
 {{< /q >}}
 
-We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This will be explained later when we explain our Five Layer Model. 
+We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This will be explained later when we explain our Five Elements Model. 
 
-{{< i s="/graphics/super/meta.svg" a="Venn" >}}
+{{< i s="/graphics/super/cycle.svg" a="Venn Diagram" c="The metaphysical domain is much much larger than the physical domain despite having no physical size" >}}
+
 
 {{< q a="Timaeus" c="Timaeus by Plato Simplifed">}}
 These causes generate an inequality which is always maintained, and is continually creating a perpetual motion of the elements... The brightest part is called the aether. The most turbid sort is mist and darkness.
@@ -143,12 +142,14 @@ These 3 regions of metaphysical domain, physical domain, and current perception 
 
 - The blue upward triangle reprsents the metaphysical domain going upwards
 - The green downward triangle represents the physical domain going 'down to earth'
-- The yellow circle represents the focus of the mind as the here and now, as a combination of both. 
+- The yellow circle represents the focus of the mind as the here and now, as a combination of both. This includes reality or the universe, depending on context
 
 The balance of the triangles represents the balance between the abstract and the concrete. We can't focus on useless theory all the time. Nor can we go around doing physical actions without thinking of their causes and effects. 
 
 Inaction leads to nothing. But haste, on the contrary, also makes waste. 
 
-Human minds have limited abilities and so our focus must be relevant in order to maximize and concentrate what little we have. For example, as a species, it would be better to focus on solutions to global warming than to think of how to make more money, create a new cryptocurrency, or predict the stock market. The latter ideas are really based on selfish-interest instead of the common-interest.
+Human minds have limited abilities and so our focus must be relevant in order to maximize and concentrate what little we have. 
+
+For example, as a species, it would be better to focus on solutions to global warming than to think of how to make more money, create a new cryptocurrency, or predict the stock market. The latter ideas are really based on selfish-interest instead of the common-interest.
 
 <!-- The next chapter will explain the nature of ideas, which are the main objects in the metaphysical domain.  -->

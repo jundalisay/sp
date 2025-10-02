@@ -19,17 +19,14 @@ Our own body is:
 - the starting-point for our perception of the world.
 - also an idea
 
-
 The consciousness of every one is opposed to:
 - these objects as mere ideas
 - our own bodies
 
- for the thing in itself is known
+<!--  for the thing in itself is known
 to each of us immediately in so far as it appears as our own
 body; but in so far as it objectifies itself in the other objects of
-perception, it is known only indirectly. But 
-
-this abstraction, this
+perception, it is known only indirectly. But this abstraction, this
 one-sided treatment, this forcible separation of what is essentially
 and necessarily united, is only adopted to meet the demands of
 our argument;
@@ -38,36 +35,204 @@ Therefore the disinclination to it must, in the
 meantime, be suppressed and silenced by the expectation that
 the subsequent treatment will correct the one-sidedness of the
 present one, and complete our knowledge of the nature of the
-world.
+world. -->
 
 
 Just for discussion, I make the body as our immediate object.
 
- [024]
-that is to say, that idea which forms the starting-point of the
-subject's knowledge; because the body, with its immediately
-known changes, precedes the application of the law of causality,
-and thus supplies it with its first data. 
+This is because the body precedes the application of cause and effect and thus supplies it with its first data. 
 
 The whole nature of matter consists in its causal action.
 
 But cause and effect exist only for the [mind] understanding which is merely their subjective correlative. 
 
-The understanding, however, could never come into operation if there were not something else from which
-it starts. This is simple sensation—the immediate consciousness
-of the changes of the body, by virtue of which it is immediate
-object. Thus the possibility of knowing the world of perception
-depends upon two conditions; the first, objectively expressed, is
-the power of material things to act upon each other, to produce
-changes in each other, without which common quality of all
-bodies no perception would be possible, even by means of the
-sensibility of the animal body. And if we wish to express this
-condition subjectively we say: The understanding first makes
-perception possible; for the law of causality, the possibility of
-effect and cause, springs only from the understanding, and is
+The understanding could come into operation if it had the immediate consciousness of the changes of the body, by virtue of which it is immediate
+object. 
+
+Thus the knowing of perception depends on 2 conditions:
+
+1. The power of material things to act on each other, to produce changes in each other.
+
+This is objectively expressed.
+
+Without this common quality of all bodies, no perception would be possible, even by means of the
+sensibility of the animal body. 
+
+Subjectively we say: The [mind] understanding first makes perception possible because cause and effect springs only from the [mind] understanding.
+
+<!--  and is
 valid only for it, and therefore the world of perception exists
-only through and for it. The second condition is the sensibility
-of animal bodies, or the quality of being immediate objects of
+only through and for it. The second condition is -->
+
+2. The sensibility of animal bodies
+
+<!-- This is the quality of being immediate objects of the subject which certain bodies possess. -->
+
+The sense organs:
+- are changed by the outside through their specific affections
+- may here be called ideas
+
+
+The affections that produce neither pain nor pleasure have no immediate significance for the willpower, yet perceived.
+- And so they exist only for knowledge. 
+
+<!-- Thus far, then, I say that the body
+is immediately known, is immediate object. But the conception
+of object is not to be taken here in its fullest sense, for through
+this immediate knowledge of the body, which precedes the
+operation of the understanding, and is mere sensation, our own
+[025] body does not exist specifically as object, but first the material
+things which affect it: for  -->
+
+
+All knowledge of an object proper, of an idea perceived in space, exists only through and for the
+understanding.
+
+Therefore not before, but only subsequently to its
+operation. Therefore the body as object proper, that is, as an
+idea perceived in space, is first known indirectly, like all other
+objects, through the application of the law of causality to the
+action of one of its parts upon another, as, for example, when the
+eye sees the body or the hand touches it. Consequently the form
+of our body does not become known to us through mere feeling,
+but only through knowledge, only in idea; that is to say, only in
+the brain does our own body first come to appear as extended,
+articulate, organic. A man born blind receives this idea only little
+by little from the data afforded by touch. A blind man without
+hands could never come to know his own form; or at the most
+could infer and construct it little by little from the effects of other
+bodies upon him. If, then, we call the body an immediate object,
+we are to be understood with these reservations.
+In other respects, then, according to what has been said, all
+animal bodies are immediate objects; that is, starting-points for
+the subject which always knows and therefore is never known
+in its perception of the world. Thus the distinctive characteristic
+of animal life is knowledge, with movement following on
+motives, which are determined by knowledge, just as movement
+47
+following on stimuli is the distinctive characteristic of plant-life.
+Unorganised matter, however, has no movement except such as
+is produced by causes properly so called, using the term in its
+narrowest sense. All this I have thoroughly discussed in my essay
+on the principle of sufficient reason, § 20, in the “Ethics,” first
+essay, iii., and in my work on Sight and Colour, § 1, to which I
+therefore refer.
+It follows from what has been said, that all animals, even the [026]
+least developed, have understanding; for they all know objects,
+and this knowledge determines their movements as motive.
+Understanding is the same in all animals and in all men; it
+has everywhere the same simple form; knowledge of causality,
+transition from effect to cause, and from cause to effect, nothing
+more; but the degree of its acuteness, and the extension of the
+sphere of its knowledge varies enormously, with innumerable
+gradations from the lowest form, which is only conscious of
+the causal connection between the immediate object and objects
+affecting it—that is to say, perceives a cause as an object in
+space by passing to it from the affection which the body feels, to
+the higher grades of knowledge of the causal connection among
+objects known indirectly, which extends to the understanding
+of the most complicated system of cause and effect in nature.
+For even this high degree of knowledge is still the work of
+the understanding, not of the reason. The abstract concepts of
+the reason can only serve to take up the objective connections
+which are immediately known by the understanding, to make
+them permanent for thought, and to relate them to each other; but
+reason never gives us immediate knowledge. Every force and law
+of nature, every example of such forces and laws, must first be
+immediately known by the understanding, must be apprehended
+through perception before it can pass into abstract consciousness
+for reason. Hooke's discovery of the law of gravitation, and the
+reference of so many important phenomena to this one law, was
+the work of immediate apprehension by the understanding; and
+48 The World As Will And Idea (Vol. 1 of 3)
+such also was the proof of Newton's calculations, and Lavoisier's
+discovery of acids and their important function in nature, and also
+Goethe's discovery of the origin of physical colours. All these
+discoveries are nothing more than a correct immediate passage
+from the effect to the cause, which is at once followed by the
+recognition of the ideality of the force of nature which expresses
+[027] itself in all causes of the same kind; and this complete insight
+is just an example of that single function of the understanding,
+by which an animal perceives as an object in space the cause
+which affects its body, and differs from such a perception only
+in degree. Every one of these great discoveries is therefore, just
+like perception, an operation of the understanding, an immediate
+intuition, and as such the work of an instant, an apperçu, a
+flash of insight. They are not the result of a process of abstract
+reasoning, which only serves to make the immediate knowledge
+of the understanding permanent for thought by bringing it under
+abstract concepts, i.e., it makes knowledge distinct, it puts us in
+a position to impart it and explain it to others. The keenness of
+the understanding in apprehending the causal relations of objects
+which are known indirectly, does not find its only application in
+the sphere of natural science (though all the discoveries in that
+sphere are due to it), but it also appears in practical life. It is
+then called good sense or prudence, as in its other application it
+is better called acuteness, penetration, sagacity. More exactly,
+good sense or prudence signifies exclusively understanding at
+the command of the will. But the limits of these conceptions
+must not be too sharply defined, for it is always that one function
+of the understanding by means of which all animals perceive
+objects in space, which, in its keenest form, appears now in the
+phenomena of nature, correctly inferring the unknown causes
+from the given effects, and providing the material from which
+the reason frames general rules as laws of nature; now inventing
+complicated and ingenious machines by adapting known causes
+to desired effects; now in the sphere of motives, seeing through
+49
+and frustrating intrigues and machinations, or fitly disposing
+the motives and the men who are susceptible to them, setting
+them in motion, as machines are moved by levers and wheels,
+and directing them at will to the accomplishment of its ends.
+Deficiency of understanding is called stupidity. It is just dulness [028]
+in applying the law of causality, incapacity for the immediate
+apprehension of the concatenations of causes and effects, motives
+and actions. A stupid person has no insight into the connection
+of natural phenomena, either when they follow their own course,
+or when they are intentionally combined, i.e., are applied to
+machinery. Such a man readily believes in magic and miracles.
+A stupid man does not observe that persons, who apparently
+act independently of each other, are really in collusion; he is
+therefore easily mystified, and outwitted; he does not discern the
+hidden motives of proffered advice or expressions of opinion,
+&c. But it is always just one thing that he lacks—keenness,
+rapidity, ease in applying the law of causality, i.e., power of
+understanding. The greatest, and, in this reference, the most
+instructive example of stupidity I ever met with, was the case
+of a totally imbecile boy of about eleven years of age, in an
+asylum. He had reason, because he spoke and comprehended,
+but in respect of understanding he was inferior to many of the
+lower animals. Whenever I visited him he noticed an eye-glass
+which I wore round my neck, and in which the window of the
+room and the tops of the trees beyond were reflected: on every
+occasion he was greatly surprised and delighted with this, and
+was never tired of looking at it with astonishment, because he
+did not understand the immediate causation of reflection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Here I consider everything merely as idea, as object for the subject. 

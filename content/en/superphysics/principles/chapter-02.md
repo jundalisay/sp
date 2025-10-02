@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2"
-title: "The Five Layers of Reality"
+title: "The Five Elements of Reality"
 # date: 2015-09-09
 date: 2020-12-03
 # 2020-01-04
@@ -16,7 +16,11 @@ icon: "Superphysics"
 <!-- The Microlayers are the quantum subdivisions within the aethereal layer -->
 
 
-Chapter 1 explained that reality is divided into the Physical and Metaphysical Domains. We therefore expand the word “reality”, which comes from the Latin word “res” meaning “things”, to include both physical and metaphysical phenomena. 
+Chapter 1 explained that reality is divided into the Physical and Metaphysical Domains. 
+
+We therefore expand the word “reality”, which comes from the Latin word “res” meaning “things”, to include both physical and metaphysical phenomena. 
+
+
 
 The ancients observed all natural phenomena and categorized them under 5 Elements which they called:
 

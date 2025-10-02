@@ -1,0 +1,51 @@
+---
+heading: "Chapter 1b"
+title: "The 5 Strata of the Metaphysical Body"
+date: 2024-07-11
+image: "/photos/meta/kindness.jpg"
+description: "The 10 virtues are based on Yama and Niyama"
+writer:
+  name: Lam
+  url: https://www.linkedin.com/in/baolamnguyen/
+icon: /icons/spi.png
+weight: 4
+draft: true
+---
+
+
+
+Spiritual Superphysics uses 'strata' instead of 'elements' for the 5 factors in the spiritual field.
+
+This is because spirituality is purely mental or metaphysical and has no physical components. 
+
+In contrast:
+- the 5 layers are for physical phenomena
+- the 5 elements are for semi-physical, semi-mental phenomena
+
+
+Strata | Manifestations
+--- | ---
+Aethereal | Soul, Oversoul, Idea
+Spatial | Chi/Prana/Animal Spirits, Chakras
+Radiant | Elementals
+Convertible | Feelings 
+Material | Thoughts
+
+
+
+<!--  divides reality into the Physical and Metaphysical Domain. This is known to the West as Cartesian duality or mind-body. From the perspective of the Supreme Entity, the Body of the Supreme is made up of physical layers, while His Mind is made up of metaphysical strata:
+
+Aspect | Example
+--- | ---
+Mind | Life and Living Energy
+Body | Matter and Non-living Energy
+
+In other words:
+- the physical universe is the collective body of the Supreme
+- the living minds in that universe is the collective mind of the Supreme 
+
+While Material Superphysics deals with matter and non-living energy, Bio Superphysics deals with life and living energy which we call chi, prana, or animal spirits. 
+
+
+We call the Supreme's Mind aspect as the Metaphysical Domain which we subdivide into 5 Strata which is in line with the 5 Layers discussed in Material Superphysics -->
+

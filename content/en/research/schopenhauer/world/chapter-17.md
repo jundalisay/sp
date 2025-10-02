@@ -12,46 +12,39 @@ writer:
 
 
 
-Second Book. The World As Will.
+<!-- Second Book. The World As Will.
 First Aspect. The Objectification Of The
-Will.
+Will. -->
 
 <!-- Nos habitat, non tartara, sed nec sidera coeli:
 Spiritus, in nobis qui viget, illa facit. -->
 
 Book 1 considered the idea in its general form.
 
-It is true that as
-far as the abstract idea, the concept, is concerned, we obtained
-a knowledge of it in respect of its content also, because it has
-content and meaning only in relation to the idea of perception,
-without which it would be worthless and empty. 
+We know about an abstract idea or concept because it has content and meaning only in relation to the idea of perception.
+- Without this content, it would be worthless and empty. 
 
-Accordingly,
-directing our attention exclusively to the idea of perception, we
-shall now endeavour to arrive at a knowledge of its content, its
-more exact definition, and the forms which it presents to us. And
-it will specially interest us to find an explanation of its peculiar
-significance, that significance which is otherwise merely felt, but
-on account of which it is that these pictures do not pass by us
-entirely strange and meaningless, as they must otherwise do, but
-speak to us directly, are understood, and obtain an interest which
-concerns our whole nature.
+How do we know the content of an idea and the forms it presents to us? 
 
-We direct our attention to mathematics, natural science, and
-philosophy, for each of these holds out the hope that it will afford
-us a part of the explanation we desire. Now, taking philosophy first, we find that it is like a monster with many heads, each of
-which speaks a different language. They are not, indeed, all at
+I answer this through mathematics, natural science, and philosophy.
+
+## Philosophy
+
+Philosophy is like a monster with many heads, each speaking a different language.
+
+They are not, indeed, all at
 variance on the point we are here considering, the significance
 of the idea of perception. For, with the exception of the Sceptics
 and the Idealists, the others, for the most part, speak very much in
 the same way of an object which constitutes the basis of the idea,
-and which is indeed different in its whole being and nature from
+and which is different in its whole being and nature from
 the idea, but yet is in all points as like it as one egg is to another.
 
 But this does not help us, for we are quite unable to distinguish
 such an object from the idea; we find that they are one and the
-same; for every object always and for ever presupposes a subject,
+same; for 
+
+Every object always and for ever presupposes a subject,
 and therefore remains idea, so that we recognised objectivity
 as belonging to the most universal form of the idea, which is
 the division into subject and object. Further, the principle of
@@ -60,8 +53,8 @@ is for us merely the form of the idea, the orderly combination
 of one idea with another, but not the combination of the whole
 finite or infinite series of ideas with something which is not idea
 at all, and which cannot therefore be presented in perception.
-Of the Sceptics and Idealists we spoke above, in examining the
-controversy about the reality of the outer world.
+
+
 
 If we turn to mathematics to look for the fuller knowledge
 we desire of the idea of perception, which we have, as yet,
@@ -74,18 +67,27 @@ one idea with others, and a comparison only in the one respect
 of quantity, this also is not the information we are principally in
 search of.
 
-Lastly, if we turn to the wide province of natural science, which
-is divided into many fields, we may, in the first place, make a
-general division of it into two parts. It is either the description of forms, which I call Morphology, or the explanation of changes,
-which I call Etiology. The first treats of the permanent forms,
-the second of the changing matter, according to the laws of
-its transition from one form to another. 
+### Natural science
+
+This is divided into 2:
+
+1. Morphology
+
+This is the description of permanent forms, as natural history.
+
+
+2. Etiology
+
+This is the explanation of changing matter.
+
 
 The first is the whole
-extent of what is generally called natural history. It teaches us,
+extent of what is generally called . It teaches us,
 especially in the sciences of botany and zoology, the various[125]
 permanent, organised, and therefore definitely determined forms
-in the constant change of individuals; and these forms constitute
+in the constant change of individuals.
+
+These forms constitute
 a great part of the content of the idea of perception. In natural
 history they are classified, separated, united, arranged according
 to natural and artificial systems, and brought under concepts
@@ -100,7 +102,9 @@ The passage of matter into these forms, that is to say,
 the origin of individuals, is not a special part of natural science,
 for every individual springs from its like by generation, which is
 everywhere equally mysterious, and has as yet evaded definite
-knowledge. The little that is known on the subject finds its place
+knowledge. 
+
+The little that is known on the subject finds its place
 in physiology, which belongs to that part of natural science I have
 called etiology. Mineralogy also, especially where it becomes
 geology, inclines towards etiology, though it principally belongs
@@ -148,8 +152,7 @@ stone falls to the ground or one body repels another is, in its inner
 nature, not less strange and mysterious than that which produces
 the movements and the growth of an animal. 
 
-The science
-of mechanics presupposes matter, weight, impenetrability, the possibility of communicating motion by impact, inertia and so
+The science of mechanics presupposes matter, weight, impenetrability, the possibility of communicating motion by impact, inertia and so
 forth as ultimate facts, calls them forces of nature, and their
 necessary and orderly appearance under certain conditions a[127]
 law of nature. Only after this does its explanation begin, and

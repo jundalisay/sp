@@ -12,12 +12,11 @@ writer:
 
 
 
-Rational knowledge (wissen) is then all abstract
-knowledge,—that is, the knowledge which is peculiar to the
-reason as distinguished from the understanding. 
+Rational knowledge (wissen) is then all abstract knowledge.
 
-Its contradictory
-opposite has just been explained to be the concept “feeling.”
+It is the knowledge which is peculiar to the reason as distinguished from the understanding. 
+
+Its contradictory opposite has just been explained to be the concept “feeling.”
 
 Now, as reason only reproduces, for knowledge, what has
 been received in another way, it does not actually extend our

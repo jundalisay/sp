@@ -1,6 +1,7 @@
 ---
-heading: "Chapter 1c"
-title: "The 3 Operational Divisions of Reality"
+heading: "Chapter 1b"
+title: "Waves and the 3 Abstract Spaces"
+# Operational Divisions of Reality"
 date: 2024-12-28
 # 2020-01-04
 weight: 3
@@ -13,37 +14,71 @@ icon: "Superphysics"
 ---
 
 
-## The Abstract Spaces
+
+The previous section explained the 2 domains of reality as the physical and metaphysical.
 
 Reality is an effect of perception. 
 
-Perception is a disturbance in a line in the aether or akasha, which is the substance for existence. This is because existence exists as a thought-projection of the Supreme Mind as the Brahman. 
+Perception is a disturbance in a line in the aether or akasha, which is the substance for existence. This is because existence exists as a thought-projection of the Supreme Mind as the Brahman which we call the Supreme Entity.
 
-The resulting existence is called Brahma. 
+The resulting existence is called Brahma including visible, invisible, and physical, metaphysical.
+
+{{< i s="/graphics/super/absolute.svg" a="The Absolute" c="The metaphysical domain is much much larger than the physical domain despite having no physical size" >}}
 
 For those who are allergic to religion and think that Brahma is a religious word, we can use the layman term **Totality of Existence**, or Existence with a capital 'e', instead. 
 
-To isolate these ideas, we create 3 kinds of abstract spaces:
 
-1. Existence Space 
 
-This is the Brahman as a single collective of all identities in Existence. This is how the Supreme sees Itself.
+To know Itself, the Absolute Entity expresses ideas and feelings which then converts Itself into the Supreme Entity with an abstract space for that expression.  
 
-2. Identity Space.
+
+## The Abstract Spaces
+
+These abstract spaces are of 3 kinds:
+
+1. **Existence Space**
+
+This is the Supreme as a single collective of all identities in Existence. This is how the Supreme sees Itself.
+
+This is called:
+- Mahat in Hinduism
+- Viñana in Buddhism
+
+{{< youtube A2t6u6RHX0I >}}
+
+
+2. **Identity Space**
 
 This is each thought or identity of the Supreme within Existence. This is how the Supreme sees each Identity in isolation.
 
-3. Perception Space
+This is called:
+- Manas in Buddhism
+- Aham in Hinduism
+
+{{< youtube wJ-FjkzCI3o >}}
+
+
+3. **Perception Space**
 
 This is the space that results from the perception of the identities within Existence. This is how the identities see each other, without regard for the Supreme.
+
+This is called Citta in Buddhism and Hinduism.
+
+{{< youtube Nx9P2e2JVUc >}}
 
 
 
 ## Waves and Void
 
-The disturbances in the Supreme Mind manifests as waves. 
+The expresions of the Supreme Entity manifest as disturbances as waves in Its Own abstract Mind. 
 
-These disturbances are caused by the interaction of the 2 Forces of Positive and Negative, called Yang and Yin in Taoism, and Shiva and Shakti in Hinduism. Again, for those who are allergic to religion, we use Positive and Negative instead. 
+These disturbances are caused by the interaction of the 2 Forces of Positive and Negative, called:
+- Yang and Yin in Taoism
+- Shiva and Shakti in Hinduism
+- Love and Strife in 
+
+
+ Again, for those who are allergic to religion, we use Positive and Negative instead. 
 
 These waves create Existence.
 
