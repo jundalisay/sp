@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1d"
+heading: "Chapter 1e"
 title: "The Cartesian View and Euclid's Elements"
 # date: 2015-09-09
 date: 2023-03-19
@@ -47,9 +47,7 @@ Science brands their explanations as pseudo-science, as if science and the physi
 
 
 {{< q a="Rene Descartes" c="Principles of Philosophy, Part 2, Article 9" >}}
-People who distinguish substance from size or number actually do not know what incorporeal substance means. They think that substance is physical. 
-
-They thus think that a corporeal substance has a [metaphysical] size [when it really is a monad or point-particle]. And so they express something quite different from what they comprehend in their mind.
+People who distinguish substance from size or number actually do not know what incorporeal substance means. They think that substance is physical. They thus think that a corporeal substance has a [metaphysical] size [when it really is a monad or point-particle]. And so they express something quite different from what they comprehend in their mind.
 {{< /q >}}
 
 

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1f"
+heading: "Chapter 1g"
 title: "A Perceiving Universe"
 date: 2022-06-22
 image: "/graphics/physics/aetherspaceall.jpg"

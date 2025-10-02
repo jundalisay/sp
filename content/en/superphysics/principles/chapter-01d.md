@@ -4,7 +4,7 @@ title: "The 3 Operational Divisions of Reality"
 date: 2024-12-28
 # 2020-01-04
 weight: 150
-image: /graphics/meta/divisions.jpg
+image: /graphics/super/operative.svg
 description: "Reality has 3 Operational Divisions"
 writer:
   name: Juan
@@ -82,7 +82,7 @@ Crude | 5 Layers
 - The 5 parts of the subtle subdivision is called the 5 Elements, with reference to the Asian 5 Elements
 - The 5 parts of the crude subdivision is called the 5 Layers
 
-{{< i s="/graphics/meta/layerstrata.jpg" a="3 Operational Divisions" c="">}}
+{{< i s="/graphics/super/operative.svg" a="3 Operational Divisions" c="">}}
 
 These phenomena and subdivisions will be studied by the different branches of Superphysics.
 

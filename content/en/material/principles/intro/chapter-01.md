@@ -129,4 +129,4 @@ The category of the physical elements an object belongs to is determined by the 
 {{< /q >}}
 
 
-{{< i s="/graphics/meta/layerstrata.jpg" alt="Five layers of Superphysics" c="The 5 Layers have slightly different properties depending on the influence of the positive and negative forces" >}}
+{{< i s="/graphics/super/operative.svg" alt="Five layers of Superphysics" c="The 5 Layers have slightly different properties depending on the influence of the positive and negative forces" >}}

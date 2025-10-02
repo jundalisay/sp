@@ -32,7 +32,7 @@ Physical perceptions are made possible by physical existence. Conversely, physic
 
 Superphysics allows 2 domains, a metaphysical and a physical. 
 
-{{< i s="/graphics/meta/layerstrata.jpg" a="Strata" >}}
+{{< i s="/graphics/super/operative.svg" a="Strata" >}}
 
 The Physical Domain is where the Negative Force dominates. This results in the limited expressiveness that we see in non-living things. 
 

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1e"
+heading: "Chapter 1f"
 title: "Spacetime Slices and the 8 Dimensions"
 date: 2022-06-22
 image: "/graphics/physics/aetherspaceall.jpg"

@@ -33,6 +33,27 @@ Material | Thoughts
 
 
 
+<!-- Level of Mind | Behavior | Layer | Chakra
+--- | --- | --- | --- 
+10. Unstable goatish mind | driven by instincts | Material | Root
+9. Foolish abstinent mind | strives to be moral | Convertible | Sex
+8. Childlike fearless mind | seeks to believe in an eternally unchanging god | Convertible | Sex
+7. Mind of selfless aggregates | seeks personal liberation | Radiant | Navel 
+6. Mind free of karmic seeds | understands the process of conditioning | Spatial | Heart
+5. Compassionate mahayana mind | has great compassion as it sees the consciousness in nature | Spatial | Heart
+4. Mind awakened to the Unborn | realizes the void nature | Aethereal | Throat
+3. Mind of the single way | realizes that all worlds are contained in a single thought within mind | Aethereal | Ajna
+2. Mind of ultimate no-self-nature | penetrates all things but still dualistic | Aethereal | Ajna
+1. Secret sublime mind | breaks through duality | Aethereal | Top
+
+wood / air - spacetime  - benevolence - liver??
+water / aether - the most yin. Its motion is downward and inward, and its energy is stillness and conserving. wisdom
+earth / water - patience stability 
+metal / earth - yang
+ -->
+
+
+
 <!--  divides reality into the Physical and Metaphysical Domain. This is known to the West as Cartesian duality or mind-body. From the perspective of the Supreme Entity, the Body of the Supreme is made up of physical layers, while His Mind is made up of metaphysical strata:
 
 Aspect | Example

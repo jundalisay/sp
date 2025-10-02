@@ -1,65 +1,46 @@
 ---
-heading: Chapter 2c
-title: "Non-Localism: The Independence of Spacetime Slices"
-date: 2025-03-02
-weight: 270
-image: "/photos/objects/clock.jpg"
-description: "We introduce the concept of true motion'"
+heading: "Chapter 2c"
+title: "The Air Element"
+# date: 2015-09-09
+date: 2020-12-03
+# 2020-01-04
+weight: 203
+image: /graphics/physics/galaxy.jpg
+description: "The air element is space and time"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
 ---
 
 
-The Wave-Nature of Reality means that one timespan or moment is connected to another timespan. 
+<!-- ## The Spatial Layer (Spacetime and Timespace) -->
 
-The connection of these lead to the concept of time. 
+<!-- gives the properties of time and space to ideas and feelings. This is represented by the Heart Chakra. -->
 
-But each of these timespans is really caused by 2 perceptions. The gap between these 2 perceptions is what we call timespan.
+The Air Element facilitates the functioning of space and time in reality. Its job is to separate perceptions, identities, objects, ideas, and feelings from each other. 
 
-This means that timespan and time are effects of perception. 
+This is why it is the Element for the Forces such as gravity, magnetism, and material cohesion. 
 
-But perception is merely a disturbance in the pure aether substance which is totally independent of other disturbances. 
+This is why, in love relationships, space as proximity is very important and why long distance relationships are not usually strong, just as magnetism is strong but has a short range, and gravity is weak but has a longer range.  
 
-This means that each perception is independent. 
+Without space and time, all perceptions would be in one experience and be very messy. 
 
-Therefore time and timespan are dependent on the current perception. 
+Spacetime is also the key to understanding the aether which is above it.
 
-The error is that people think that the current perception is dependent on the past, just as the future is dependent on the present. 
+This is why only long-running civilizations, such as the ancient Egyptians, Hindus, and Chinese, have a chance at unlocking the aether. 
 
-
-## Monty Hall Fallacy
-
-The same fallacy of treating events as not independent (as if there were a true starting point) afflicts the Monty Hall Problem.
-
-<!-- is a fallacy of false motion or locality.  -->
-
-The Monty Hall problem says that there are 3 doors. 
-- One door has a prize.
-- Two doors have nothing. 
-- You choose door 1.
-- The host removes Door 2 which has nothing. 
-
-{{< i s="/graphics/meta/monty.jpg" a="Monty Hall Problem" >}}
+{{< img src="/graphics/physics/galaxy.jpg" alt="Multiverses" cap="The Spatial Layer splits space into independent slices" >}}
 
 
-'Smart' people say to choose the other door because the odds have risen from 1/3 to 2/3.
+A small part of the Air Element is metaphysical. This is why Modern Physics is unable to discover the cause of gravity and is why there is currently still no true anti-gravity technologies. 
 
-This is because they see reality as one continuity, instead of being independent of each other.
 
-They then defend their logic by expanding the scenario to 9 doors. 
-- After you choose a door, the host opens the 8 other doors to leave only 2 doors unopened: your current choice and another door. 
-- And so you must choose that other door since that rises to 89% chance of having the prize
-
-{{< i s="/graphics/meta/monty9.jpg" a="Monty Hall expanded Problem" >}}
-
-{{< i s="/graphics/meta/monty9after.jpg" a="Monty Hall expanded Problem after" >}}
-
-But the error is in the 
-In reality, the odds in the 3 door scenario ended up as 50-50. 
-
-To extend this to 300 doors, the proper way is for the host to open 100 contiguous doors. This leaves 2 groups of doors of 100 each. The host would then ask whether you want to choose the other 100 doors over your current group. So the probability is still 50-50 and not 2/3.
-
+Subscience | Name | Use of the Spatial Layer
+--- | --- | ---
+Material Superhysics | Spatial Layer | The start of physicality by providing the physical arena for the ideas as light, matter, objects, etc.  
+Bio Superphysics | Air Element | This facilitates the chi or animal spirits and chakras (as organic spatial vortices) that lead to different emotions
+Spiritual Superphysics | Spatial Stratum | This facilitates spiritual feelings
+ <!-- dynamics of the Heart Chakra -->
 
 
