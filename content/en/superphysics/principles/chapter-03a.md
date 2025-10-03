@@ -12,6 +12,7 @@ icon: "Superphysics"
 ---
 
 
+
 The Wave-Nature of Reality means that one timespan or moment is connected to another timespan. 
 
 The connection of these lead to the concept of time. 

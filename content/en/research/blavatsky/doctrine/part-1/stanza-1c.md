@@ -1,5 +1,5 @@
 ---
-heading: Section 2c
+heading: Section 1c
 title: "Lines 8-9"
 weight: 8
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."

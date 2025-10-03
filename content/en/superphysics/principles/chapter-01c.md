@@ -13,6 +13,7 @@ icon: "Superphysics"
 ---
 
 
+
 The previous section explained how gaps between crude waves are filled with subtler waves in order to eliminate and Voids in Nature.
 
 In some areas, many waves intersect from various angles to create nodes. These acquire characteristics that are different from waves and become ideas.

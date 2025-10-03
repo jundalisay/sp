@@ -1,6 +1,8 @@
 ---
-heading: Section 2
-title: "Commentaries On The 7 Stanzas And Their Terms"
+heading: Stanza 1b
+title: "Lines 5-7"
+#heading: Section 2
+# title: "Commentaries On The 7 Stanzas And Their Terms"
 weight: 7
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 c: "indigo"
@@ -57,13 +59,19 @@ In the cosmico-physical sense, it is the Universe, the Planetary Chain and the E
 
 > The Universe, the Son of Necessity, was immersed In Paranishpanna,62 (b)
 
+(a) The “Seven Sublime Lords” are the Seven Creative Spirits, the Dhyân Chohans, who correspond to the Hebrew Elohim. It is the same Hierarchy of Archangels to which St. Michael, St. Gabriel, and others belong, in Christian Theogony. 
 
+Only while St. Michael, for instance, is allowed in dogmatic Latin Theology to watch over all the promontories and gulfs, in the Esoteric System the Dhyânis watch successively over one of the Rounds and the great Root-Races of our Planetary Chain. They are, moreover, said to send their Bodhisattvas, the human correspondents of the Dhyâni-Buddhas during every Round and Race. 
 
-(a) The “Seven Sublime Lords” are the Seven Creative Spirits, the Dhyân Chohans, who correspond to the Hebrew Elohim. It is the same Hierarchy of Archangels to which St. Michael, St. Gabriel, and others belong, in Christian Theogony. Only while St. Michael, for instance, is allowed in dogmatic Latin Theology to watch over all the promontories and gulfs, in the Esoteric System the Dhyânis watch successively over one of the Rounds and the great Root-Races of our Planetary Chain. They are, moreover, said to send their Bodhisattvas, the human correspondents of the Dhyâni-Buddhas during every Round and Race. Out of the “Seven Truths” and Revelations, or rather revealed secrets, four only have been handed to us, as we are still in the Fourth Round, and the world also has had only four Buddhas, so far. This is a very complicated question, and will receive more ample treatment later on.
+Out of the “Seven Truths” and Revelations, or rather revealed secrets, four only have been handed to us, as we are still in the Fourth Round, and the world also has had only four Buddhas, so far. This is a very complicated question, and will receive more ample treatment later on.
 
 So far “there are only Four Truths, and Four Vedas”—say the [pg 074]Buddhists and Hindûs. For a similar reason Irenæus insisted on the necessity of Four Gospels. But as every new Root-Race at the head of a Round must have its revelation and revealers, the next Round will bring the Fifth, the following the Sixth, and so on.
 
-(b) “Paranishpanna” is the Absolute Perfection to which all Existences attain at the close of a great period of activity, or Mahâmanvantara, and in which they rest during the succeeding period of repose. In Tibetan it is called “Yong-Grub.” Up to the day of the Yogâchârya School the true nature of Paranirvâna was taught publicly, but since then it has become entirely esoteric; hence so many contradictory interpretations of it. It is only a true Idealist who can understand it. Everything has to be viewed as ideal, with the exception of Paranirvâna, by him who would comprehend that state, and acquire a knowledge of how Non-Ego, Voidness, and Darkness are Three in One, and alone self-existent and perfect. It is absolute, however, only in a relative sense, for it must give room to still further absolute perfection, according to a higher standard of excellence in the following period of activity—just as a perfect flower must cease to be a perfect flower and die, in order to grow into a perfect fruit, if such a mode of expression may be permitted.
+(b) “Paranishpanna” is the Absolute Perfection to which all Existences attain at the close of a great period of activity, or Mahâmanvantara, and in which they rest during the succeeding period of repose. In Tibetan it is called “Yong-Grub.” 
+
+Up to the day of the Yogâchârya School the true nature of Paranirvâna was taught publicly, but since then it has become entirely esoteric; hence so many contradictory interpretations of it. It is only a true Idealist who can understand it. 
+
+Everything has to be viewed as ideal, with the exception of Paranirvâna, by him who would comprehend that state, and acquire a knowledge of how Non-Ego, Voidness, and Darkness are Three in One, and alone self-existent and perfect. It is absolute, however, only in a relative sense, for it must give room to still further absolute perfection, according to a higher standard of excellence in the following period of activity—just as a perfect flower must cease to be a perfect flower and die, in order to grow into a perfect fruit, if such a mode of expression may be permitted.
 
 The Secret Doctrine teaches the progressive development of everything, worlds as well as atoms; and this stupendous development has neither conceivable beginning nor imaginable end. Our “Universe” is only one of an infinite number of Universes, all of them “Sons of Necessity,” because links in the great cosmic chain of Universes, each one standing in the relation of an effect as regards its predecessor, and of a cause as regards its successor.
 

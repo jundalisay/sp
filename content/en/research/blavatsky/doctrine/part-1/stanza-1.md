@@ -1,6 +1,6 @@
 ---
 heading: Stanza 1
-title: "Lines "
+title: "Lines 1-4"
 weight: 6
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 c: "indigo"
@@ -9,7 +9,7 @@ c: "indigo"
 
 <!-- Commentaries On The 7 Stanzas And Their Terms, According To Their Numeration, In Stanzas And Shlokas. -->
 
-### Stanza 1.
+## Stanza 1.
 
 1. The Eternal Parent, wrapped in her Ever-invisible Robes, had slumbered once again for Seven Eternities.
 

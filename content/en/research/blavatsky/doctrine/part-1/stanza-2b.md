@@ -1,6 +1,6 @@
 ---
-heading: Section 3b
-title: "Lines 3-6 of Stanza 2"
+heading: Section 2b
+title: "Lines 3-6"
 weight: 12
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 c: "indigo"
@@ -44,17 +44,33 @@ For one has but to read the Kabalah and study its numerical methods of interpret
 
 It is called the “Man even Jehovah” Measure, and this is obtained in this way, viz.: 113 x 5 = 565, and the value 565 can be placed under the form of expression 56.5 x 10 = 565. Here the Man-number 113 becomes a factor of 56.5 x 10, and the [pg 090](Kabalistic) reading of this last numbered expression is Jod, He, Vau, He, or Jehovah.... The expansion of 565 into 56·5 x 10 is purposed to show the emanation of the male (Jod) from the female (Eva) principle; or, so to speak, the birth of a male element from an immaculate source, in other words, an immaculate conception.
 
-Thus is repeated on earth the mystery enacted, according to the Seers, on the divine plane. The Son of the Immaculate Celestial Virgin (or the Undifferentiated Cosmic Protyle, Matter in its infinitude) is born again on earth as the Son of the terrestrial Eve, our mother Earth, and becomes Humanity as a total—past, present, and future—for Jehovah, or Jod-Hé-Vau-Hé, is androgyne, or both male and female. Above, the Son is the whole Kosmos; below, he is Mankind. The Triad or Triangle becomes Tetraktys, the sacred Pythagorean number, the perfect Square, and a six-faced Cube on earth. The Macroprosopus (the Great Face) is now Microprosopus (the Lesser Face); or, as the Kabbalists have it, the Ancient of Days, descending on Adam Kadmon whom he uses as his vehicle to manifest through, gets transformed into Tetragrammaton. It is now in the “Lap of Mâyâ,” the Great Illusion, and between itself and the Reality has the Astral Light, the Great Deceiver of man's limited senses, unless Knowledge through Paramârthasatya comes to the rescue.
+Thus is repeated on earth the mystery enacted, according to the Seers, on the divine plane. 
 
-5. The Seven92 were not yet born from the Web of Light, Darkness alone was Father-Mother, Svabhâvat; and Svabhâvat was in Darkness.
+The Son of the Immaculate Celestial Virgin (or the Undifferentiated Cosmic Protyle, Matter in its infinitude) is born again on earth as the Son of the terrestrial Eve, our mother Earth, and becomes Humanity as a total—past, present, and future—for Jehovah, or Jod-Hé-Vau-Hé, is androgyne, or both male and female. 
+
+Above, the Son is the whole Kosmos; below, he is Mankind. 
+
+The Triad or Triangle becomes Tetraktys, the sacred Pythagorean number, the perfect Square, and a six-faced Cube on earth. 
+
+The Macroprosopus (the Great Face) is now Microprosopus (the Lesser Face); or, as the Kabbalists have it, the Ancient of Days, descending on Adam Kadmon whom he uses as his vehicle to manifest through, gets transformed into Tetragrammaton. It is now in the “Lap of Mâyâ,” the Great Illusion, and between itself and the Reality has the Astral Light, the Great Deceiver of man's limited senses, unless Knowledge through Paramârthasatya comes to the rescue.
+
+
+5. The Seven were not yet born from the Web of Light, Darkness alone was Father-Mother, Svabhâvat; and Svabhâvat was in Darkness.
 
 The Secret Doctrine, in the Stanzas here given, occupies itself chiefly, if not entirely, with our Solar System, and especially with our Planetary Chain. The “Seven Sons,” therefore, are the creators of the latter. This teaching will be explained more fully hereafter.
 
-Svabhâvat, the “Plastic Essence” that fills the Universe, is the root of all things. Svabhâvat is, so to say, the Buddhistic concrete aspect of the abstraction called in Hindû philosophy Mûlaprakriti. It is the body of the Soul, and that which Ether would be to Âkâsha, the latter being the informing principle of the former. Chinese mystics have made of it the synonym of “Being.” In the Chinese translation of the Ekashloka-Shâstra of Nâgârjuna (the Lung-shu of China), called the Yih-shu-lu-kia-lun, it is said that the term “Being,” or “Subhâva,” [pg 091](Yeu in Chinese) means “the Substance giving substance to itself”; it is also explained by him as meaning “without action and with action,” “the nature which has no nature of its own.” Subhâva, from which Svabhâvat, is composed of two words: su fair, handsome, good; sva, self, and bhâva, being or states of being.
+Svabhâvat, the “Plastic Essence” that fills the Universe, is the root of all things. 
+
+Svabhâvat is, so to say, the Buddhistic concrete aspect of the abstraction called in Hindû philosophy Mûlaprakriti. It is the body of the Soul, and that which Ether would be to Âkâsha, the latter being the informing principle of the former. 
+
+Chinese mystics have made of it the synonym of “Being.” In the Chinese translation of the Ekashloka-Shâstra of Nâgârjuna (the Lung-shu of China), called the Yih-shu-lu-kia-lun, it is said that the term “Being,” or “Subhâva,” (Yeu in Chinese) means “the Substance giving substance to itself”; it is also explained by him as meaning “without action and with action,” “the nature which has no nature of its own.” Subhâva, from which Svabhâvat, is composed of two words: su fair, handsome, good; sva, self, and bhâva, being or states of being.
 
 6. These Two are the Germ, and the Germ is One. The Universe was still concealed in the Divine Thought and the Divine Bosom.
 
-The “Divine Thought” does not imply the idea of a Divine Thinker. The Universe, not only past, present and future—a human and finite idea expressed by finite thought—but in its totality, the Sat (an untranslateable term), Absolute Being, with the Past and Future crystallized in an eternal Present, is that Thought itself reflected in a secondary or manifested cause. Brahman (neuter), as the Mysterium Magnum of Paracelsus, is an absolute mystery to the human mind. Brahmâ, the male-female, the aspect and anthropomorphic reflection of Brahman, is conceivable to the perceptions of blind faith, though rejected by human intellect when it attains its majority.
+The “Divine Thought” does not imply the idea of a Divine Thinker. 
+
+The Universe, not only past, present and future—a human and finite idea expressed by finite thought—but in its totality, the Sat (an untranslateable term), Absolute Being, with the Past and Future crystallized in an eternal Present, is that Thought itself reflected in a secondary or manifested cause. 
+
+Brahman (neuter), as the Mysterium Magnum of Paracelsus, is an absolute mystery to the human mind. Brahmâ, the male-female, the aspect and anthropomorphic reflection of Brahman, is conceivable to the perceptions of blind faith, though rejected by human intellect when it attains its majority.
 
 Hence the statement that during the prologue, so to say, of the drama of creation, or the beginning of cosmic evolution, the Universe, or the Son, lies still concealed “in the Divine Thought,” which had not yet penetrated into the “Divine Bosom.” This idea, note well, is at the root, and forms the origin, of all the allegories about the “Sons of God” born of immaculate virgins.
-
