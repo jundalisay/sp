@@ -5,14 +5,13 @@ title: "The Water Element"
 date: 2020-12-03
 # 2020-01-04
 weight: 206
-image: /photos/city.jpg
+image: /photos/balancerock.jpg
 description: "The Water Element."
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Juan"
 ---
-
 
 
 <!-- ## The Convertible Layer -->

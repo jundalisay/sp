@@ -153,3 +153,17 @@ Human minds have limited abilities and so our focus must be relevant in order to
 For example, as a species, it would be better to focus on solutions to global warming than to think of how to make more money, create a new cryptocurrency, or predict the stock market. The latter ideas are really based on selfish-interest instead of the common-interest.
 
 <!-- The next chapter will explain the nature of ideas, which are the main objects in the metaphysical domain.  -->
+
+
+
+## Concepts Emerging from the 2 Domains
+
+The concept of the 2 Domains leads to the following concepts:
+
+1. Reality 
+2. Abstract Spaces of Reality
+3. Vortices and Ideas within Reality
+4. Operational Divisions of Reality
+5. The 5 Elements of Reality
+
+

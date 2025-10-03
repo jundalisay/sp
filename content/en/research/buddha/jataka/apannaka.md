@@ -1,6 +1,6 @@
 ---
 # heading: Very Enlightened
-title: "APAṆṆAKA-JĀTAKA"
+title: "Apaṇṇaka-Jātaka"
 weight: 4
 description: "Siddhartha Gautama was a prince turned ascetic. Here are discourses from the Tipitaka and other sutras"
 c: "indigo"

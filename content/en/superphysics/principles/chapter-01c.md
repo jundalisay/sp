@@ -33,7 +33,9 @@ Diversity is the inherent tendency of the Supreme Operative Principle.
 
 The collapse of Communism, and the decline of Japan and South Korea which are against foreign immigrants, show plainly the violation of diversity.  
 
-We attribute the chaos in ethnically diverse countries such as India to the violation of the hierarchy the 5 elements, where the crude material element is made to dominate the subtle aether element. This happens when materialism through the lower chakras gains dominance over spirituality (aether) and intellect (radiant stratum) of the upper chakras.
+We attribute the chaos in ethnically diverse countries such as India to the violation of the hierarchy the 5 elements, where the crude material element is made to dominate the subtle aether element. 
+
+This happens when materialism through the lower chakras gains dominance over spirituality (aether) and intellect (radiant stratum) of the upper chakras.
 
 
 ## Life and Perception
