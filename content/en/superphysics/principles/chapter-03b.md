@@ -1,10 +1,8 @@
 ---
 heading: "Chapter 3b"
 title: "Existence-Consciousness"
-# Desire and the Two Forces
-#, Propelled by Feelings
 date: 2020-01-02
-weight: 305
+weight: 120
 image: /graphics/physics/exist.jpg
 description: "Everything in existence is created by the two forces"
 icon: "Superphysics"
@@ -87,12 +85,11 @@ And so we say that Existence-Consciousness always was, is, and will be* and ther
 {{< f f="There are some theoretical physicists who imagine that the universe will get destroyed through a thermal death or through false vacuum decay into a true vacuum. We assert that such things are impossible based on our principles of the 5 Layers and 2 Forces." >}}
 
 We usually take consciousness and mind for granted because our consciousness and mind is so common to us.
-
-And so we say 'existence' without mentioning the 'consciousness' that is always needed to verify that existence. 
-
-Or we say 'reality' without mentioning the 'mind' that creates that reality. 
+- And so we say 'existence' without mentioning the 'consciousness' that is always needed to verify that existence. 
+- Or we say 'reality' without mentioning the 'mind' that creates that reality. 
 
 And so we normally are unable to realize the association and the dynamics of that association, which we call 'relationality',
+
 
 
 ## Concepts Emerging from Existence-Consciousness 

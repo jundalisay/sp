@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6b"
+heading: "Chapter 8e"
 title: "Ease and Unease, Peace and Agitation"
 date: 2024-02-15
 weight: 480

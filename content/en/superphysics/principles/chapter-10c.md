@@ -1,10 +1,10 @@
 ---
-heading: "Chapter 12b"
+heading: "Chapter 10c"
 title: "The Superphysics Direction"
 date: 2022-01-22
 image: "/photos/psych/hall.jpg"
 description: "Superphysics opens up a new course for the future that is impossible with the current science"
-weight: 810
+weight: 610
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -1,10 +1,10 @@
 ---
-heading: "Chapter 1e"
+heading: "Chapter 4d"
 title: "The Cartesian View and Euclid's Elements"
 # date: 2015-09-09
 date: 2023-03-19
 # 2020-01-04
-weight: 160
+weight: 209
 image: /graphics/super/cartesian.png
 description: "The Cartesian View plots the movement in the physical and metaphysical domains"
 writer:
@@ -31,7 +31,7 @@ Previously, we divided reality into 2 domains:
 2. The Physical
 
 
-Operationally, reality is divided into 3:
+Then we introduces the 3 operational division of the 2 domains:
 
 1. Causal
 2. Subtle 
@@ -39,7 +39,6 @@ Operationally, reality is divided into 3:
 
 
 The current sciences ignore the metaphysical domain, as well as the causal and subtle parts of reality. Instead, they focus solely on the crude physical domain. 
-
 
 To explain metaphysical phenomena, humans have invented philosophy, religion, and mysticism. These have been disregarded by science as imaginary. 
 

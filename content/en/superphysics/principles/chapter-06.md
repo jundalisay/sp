@@ -1,12 +1,13 @@
 ---
 heading: "Chapter 6"
-title: "Karma, Samskara, and the Loop of Cause and Effect"
-date: 2020-04-12
-weight: 550
-image: /graphics/meta/morals.png
-description: The Sanskrit word karma implies a complete loop from cause and effect
-# description: "Moral Consequentialism is the effect of actions that are made obscure by fleeting human memory because of the passage of time"
-icon: "Superphysics"
+linkTitle: Eagle
+title: "The Equation for Everything: The Eagle"
+date: 2020-12-26
+weight: 400
+# date: 2021-06-23
+image: "/graphics/super/egl.jpg"
+description: "The Eagle is our Equation for the movement of Everything in the physical dimension"
+icon: "Supereconomics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -17,205 +18,153 @@ writer:
 {{< dc t="Principles (click to expand)" >}}
 Principles | Assertions
 --- | ---
-Each Idea is Unique | Ideas and Movement Lead to a Loop of Cause and Effect 
+Each Idea is Unique | The Uniqueness is Denoted by a Gravitational Signature
 {{< /dc >}}
 
 
-Chapter 3 explained that all motion in the universe is sourced from the the Law of Conservation of Idea. This law mandates the persistence and uniqueness of each identity. 
-- This uniqueness manifests as its dharma or gravitational signature. 
-- This persistence lets it last 'forever' in Existence, technically since its identity lives in the Aethereal Layer which is above the Spacetime Layer. This will be explained in Chapter 8. 
+
+The Law of Conservation of Idea explained that:
+- all ideas are unique
+- all movement comes from the idea repelling or attracting others due to its inherent dharma or true nature
 
 
-The dynamics of this movement or change is explained by our **Elastic Theory** in Chapter 5. 
-- In Material Superphysics, this is applied on physical movement
-- In Medical and Social Superphysics, this is applied to:
-  - The evolution of a person from health to disease, happiness to sadness
-  - The metaphysical movement of a society from peace to war, or from prosperity to poverty  
+## The Gravitational Signature
 
-This evolution is divided into the perceptions of cause and effect, just as movement is divided into starting location and ending location. 
+We notate this inherent dharma as `G` which stands for a **gravitational signature**. This signature causes a thing to "gravitate" towards to, or away from, another thing. 
 
+{{< q a="Paracelsus" >}}
+What is the Signature of things? Things are signed by whom? Who is the Signator? How many things are signed?
 
-'Action and reaction' is a simpler way to view cause and effect. The interaction between ideas and the dharma of those ideas create a reaction which arises when ideas are brought near, made to interact, or are added or introduced to each other. 
-
-This reaction manifests as:
-- 'movement' from the perspective of space
-- 'change' or 'evolution' from the perspective of time
-
-
-There is always some reaction in the universe because Existence is 'filled' with ideas from the Supreme. This is known to the ancients as the universe not having any void.
-
-{{< q a="Rene Descartes" c="La Dioptrique Simplified" >}}
-Almost all philosophers admit that there is no void in nature.
+The signs of Physiognomy are from the stars.
 {{< /q >}}
 
 
+This means that everything in existence has a `G`, whether it be a rock, a car, a virus, an opinion, a soul, a belief, a civilization, etc.  This `G` dictates its movement, as kinetic energy, and its pre-movement, as potential energy. 
+- We call the kinetic energy as `F` or force 
+<!-- or `O` effort -->
+- We call the potential energy as `E` or inherent energy
 
-## Cause and Effect
+Superphysics divides reality into 5 layers, as <sub>*`l`*</sub>, where all gravitational signatures exist in. This means that all `G` takes place in a layer or <sub>*`l`*</sub>.
 
-Chapter 3 explained how the action of bringing ideas near, introducing, or adding to others leads to reaction.
-- The former is called "cause".
-- The latter is called "effect".
+<!-- A [previous post](/material/fallacies/general-relativity) explained how the error in Einstien's E = mc^2 led to the universal equation of Superphysics. 
 
+By fixing Einstein's error, the speed of light no longer becomes a constant. Without this constant, the principles of motion no longer gets a sequential or linear speed limit. They can now extend onto the metaphysical dimension where motion manifests as the movement of minds and feelings which are never constant nor strictly linear by nature. 
 
-The Sanskrit word *karma* implies a complete loop from cause and effect. 
-
-{{< img src="/graphics/meta/morals.png" alt="Karma" cap="Science only has action and reaction. Superphysics has action, reaction, and samskara or the pending reaction which is withheld by the time factor" >}}
-<!-- ![Karma]() -->
-
-Existence is thus made up of unending loops of cause and effect, as idea and experience:
-- An idea leads to action
-- An action leads to an experience
-- An experience leads to an idea 
+At this minute, you might feel happy. But in the next minute, you might remember something that would suddenly make you sad, or teleport your mind nonlinearly into a state of sadness.  -->
 
 
-The difference between Physics and Superphysics is that the latter has the Sanskrit concept of *samskara* which has has its own properties and dynamics. 
+<!-- This potential linear or nonlinear movement is responsible for the shifting of public opinion, market prices, policy changes, health and disease, the rise and fall of civilizations, etc. and can be simplified as --> 
 
-Science is aware of physical action and physical reaction. However, there are often many cases wherein such action and reaction are made up of a long chain of intervening-actions and intervening-reactions that might escape the immediate observation of the mind.
-
-For example, the floodings from global warming is made up of a long chain of cause and effect*:
-1. The burning of fossil fuels adds carbon dioxide in the air -- This is the action
-2. The carbon dioxide traps the heat from the sun - This is an intermediate reaction which also becomes an action
-3. The trapped heat causes warmer temperatures 
-4. The warmer temperatures cause more evaporation of ocean water
-5. The increased evaporation causes more water in the air
-6. The increased water in the air falls down as severe floods -- This is the final reaction
-
-{{< f f="This is an example of a Table by Francis Bacon" >}}
+We notate this as E = G<sub>*`l`*</sub>. In Qualimath, this is E :: G<sub>*`l`*</sub>
 
 
-This chain has 6 points, connected by 5 'jumps' or chain-links of logic.
-- We call the burning of fossil fuels as karma or action, that leads to severe floods, as *karma* or reaction.
-- We call the formation of carbon dioxide and water in the air as *samskara* or pending reaction to the final effect of flooding. 
-
-Treating humans as individuals, we can say that:
-- samskara exists in the metaphysical domain since the intervening actions-reactions are outside of the scope of our perception
-- karma exists in the physical domain since our actions and resulting experiences are physical 
+{{< img src="/graphics/super/egl.jpg" alt="E = Gl" >}}
 
 
-<!-- This is similar to 'force' being a physical action that leads to a known reaction as movement. 
+- `E` is inherent energy and represents potentiality
+- `G` is the gravitational signature or dharma of the thing. This represents the Positivity or Shiva or Yang
+- <sub>*`l`*</sub> is the physical layer where the thing exists in. This represents the confinement by Negativity, or Shakti or Yin, on Shiva or Yang
 
-In the case of karma, an action, such as a policy to allow gun ownership, creates a known reaction such as a mass shooting.  -->
+We can call this equation as "eagle" as it is written with the letters `E G` <sub>*`l`*</sub>. 
 
-The knowledge of the principles of samskara will allow people to:
-- lessen the coming 'bad' karma, usually manifesting as 'bad luck', by reducing or 'burning' the bad samskara 
-- increase the coming 'good' karma ('good luck'), by accumulating the good samskara 
+It predicts the movement of anything by knowing its `G` or [dharma or true nature](/social/economics/invisible-hand) relative to other `G`'s within the same layer and/or the immediate layer above it.
+
 
 
 {{< box >}}
-### Luck vs Karma
+#### The Eagle Standard
 
-According to Eastern Philosoophy, there is no such thing as good or bad luck. Instead, everything is based on karma or action and reaction.
-
-- If you plant good deeds, then you get good rewards and a good feeling from such rewards. 
-- If you plant bad or selfish deeds, then you get bad consequences and a bad feeling from such consequences.
-
-The problem is that such reactions do not happen in a fixed nor predictable time period. A good action today might create a reaction that will be experienced 10 days from now, 10 years from now, or 10 lifetimes from now (since Asian philosophy believes in reincarnation).
-
-So if you plant a good action now and experience the good effects 10 lifetimes from now, then your future self will regard it as good luck. This is because your future self will have no memory of the good deed you performed 10 lifetimes ago.
-
-Likewise, the 'bad luck' that we experience today could come from our bad actions 10 days ago, 10 years ago, or 10 lifetimes ago.
-
-This is why Asian philosophies have certain policy suggestions:
-
-1. Do good deeds as much as you can and avoid doing bad. 
-
-According to Hindus and Buddhists, this is to deposit good karma into your existential bank account <!-- of consequences --> so you have a lot of good karma to withdraw in the future.
-
-However, according to Superphysics, this is not 100% technically correct. Instead, the act of consistently doing good deeds makes the 'wave' of your soul attain a certain shape. This shape then will let it fit in its proper reality, just as a classical violin fits into an orchestra and not in a death-metal band or a gangsta rap group.
-
-Doing good deeds as much as you can therefore continually hammers your soul into a good shape that it can retain more easily. 
+<!-- img src="/photos/objects/aquila.jpg" alt="Aquila on a staff" -->
 
 
-2. Learn the techniques to burn karma faster, whether good or bad.
+The idea for the eagle came from the eagle standard of the Roman legions.
 
-This is akin to making your karmic bank account more liquid. In this way, bad karma doesn't occur in one go, which might overwhelm your mind. Likewise, good karma doesn't all fall on you in one package, as this might bloat your ego.  Instead, karma is taken in manageable pieces, just like a loan that gets easy payment terms.
+Historians wrote how the legions would rally around their eagle symbol and protect it with all their might. Our eagle equation is centered on G which represents Socrates' true nature or dharma, which is a central belief in Buddhism, Hinduism, and Taoism.
 
-This is done by going out of your natural way, and artificially doing the corrective action. For example, you and your friend have had a disagreement which destroyed your friendship. Normally, you are fine not talking to your ex-friend. This is your natural state. 
+Buddhists are urged to keep the wheel of dharma turning at all costs, just as Socrates' guardians are supposed to keep up their mastery of true philosophy. This is because if dharma or true philosophy stops, then society would likely degrade into selfish animal behavior and the love for matter (materialism) filled with vices, gambling, destruction, wars*, crises, etc. instead of love for the Aether (the material of mind of God)
 
-But this policy 1 and 2 says that you should go to your friend and apologize so that both of your waves can be fixed and harmonized. This is really hard to do because of human ego, which is from the Negative Force. 
+Update Jan 2024: The increase in wars in Ukraine, Israel, Middle East, and the threats from China and North Korea are proof that dharma has lost its momentum. 
 
+
+This is why Superphysics is totally against Albert Einstein who not only reduced the aether to nothing, but also pushed for nuclear weapons which could lead to nuclear war. We place his intellectual 'evil'* on the same rank as the political evil of the other German, named Adolf Hilter. 
+
+
+{{< f f="*Our definition of evil is based on the strength of the ego" >}}
+
+
+- If the dharma of societies stop, then they go to war and destroy each other.
+- If the dharma of your car stops, then it breaks down, leaving you in the middle of nowhere. 
+- If the dharma of your body stops, then you get sick unable to do anything useful.
+
+Rallying around the dharma and making an effort to keep it up would be similar to how the legions worked hard to secure their eagle from their barbarian enemies.
+- In machines, this would be preventive maintenance. 
+- In healthcare, it would be maintaining a healthy lifestyle, as 'prevention is better than cure'.
+
+Dharma then leads to related concepts like sustainability, harmony, long happy lives, and making the idea of wars and crisis obsolete.
 {{< /box >}}
 
 
-The knowledge of the principles of samskara can also allow a prediction of when such reactions are likely to occur so that they can be avoided or prevented.
-- This is how scientists predict sea-level rise and the increase of natural disasters from the increase use of fossil fuels
-- This is how we were able to [predict the global stagflation of 2022](/social/supersociology/precrisis-years) from the quantitative easing done from 2009.
-
-This is also why Superphysics is against liberalism, libertarianism, or any belief that advocates the freedom to do anything or say anything that you want, even if it is within the law. This is because:
-- humans have a natural limited cognition of samskara
-- the law itself is made by humans who have limited cognition of samskara
-
-These limitations prevent the 'actioner' from knowing the results of his action. 
-
-For example, the United States allows people to say whatever they want even if it is hurtful to others. 
-- This leads to a samskara of negative feelings within the population
-- The negative feelings accumulate in the hearts and minds of the people  
-- This explodes into the karma of hate and violence that manifests as mass shootings, race riots, local terrorism, etc. 
-
-And so the best policy to end mass shootings is to restrain people from saying whatever they want. East Asians have such control and so mass shootings are rare in Japan, Korea, and China.
-
-The next post will explain how we notate the chain of cause and effect, as Qualimath. 
+<!-- <br><br>If G is neglected in the metaphysical dimension, then selfish-interest will slowly creep in, manifesting as blind belief, oligrachy, liberalism (or libertarianism), and then tyranny.<br> If G is neglected in the physical dimension, then inferior theories and technologies will dominate. An example is rocketry which dangerous, expensive, and is unable to allow travel to other galaxies.  -->
 
 
-<!-- ## Moral Consequentialism
+The job of knowing or discovering this `G` and predicting its movement-results is done by specific sciences:
 
-Our proposed moral system, derived from Adam Smith, David Hume, and Socrates, is based on a clear definition of morality as happiness for the most entities possible for the longest time possible.
-
-The "most entities possible" encompasses moral space, while "for the longest time possible" encompasses moral time. The end goal of maximizing moral space and time, by specifying "most" and "longest", is the attainment of the state of peace. This ultimate state then answers the purpose of creation and closes the loop of existence. In eastern philosophy, this state is attained in an experience called samadhi, which cancels out both the ego and mind in order to remove the illusion imposed by Nature.
-
-With the goal defined, the next step is to explain the mechanism that our moral system uses to attain that goal. Since we want an effect of maximum long term happiness for all, then we can apply dialectics to trace the different root causes of such happiness, and even the causes of unhappiness in order to avoid them. We follow the advice of Socrates to start with the big picture, then drill down to the individual implementations or cases. We will logically find that all suffering and unhappiness is caused by excessive ego or the feeling of the self:
-
-The holocaust was caused by Nazi ego, not feeling for the Jews
-The Mongol conquest and the resulting Black Death was caused by the ego of the Mongols
-World War I was caused by German ego
-The conquest by Japan in World War II was caused by the ego of the Japanese imperial government
+Science | Eagle Manifestation
+--- | ---
+Material Layer Physics | `w = mg`
+Convertible Layer Physics | Feynman Diagrams
+Radiant Layer Physics | `E = mc{{< s v="2" >}}`
+Spatial Layer Physics | `E = G{{< sub v="AB">}}`
 
 
-
-In our proposed paradigm of Superphyscis, karma is action-reaction.
-
-Past karma is really samskara (potential reaction). 
-
-Samskara is neither good nor bad just as reaction is not good or bad. 
-
-Actions done in physicality take time to manifest their reactions.
-
-For example:
-- pumping lots of CO2 into the atmosphere takes time to produce supertyphoons  
-- depositing $1 a day to a bank account takes a thousand days to produce $1,000 
-- if you insult your classmate at 12 years old, it takes many years for him to exact revenge at you when you, as an adult, start to apply for your dream job where he, unknown to you, is the hiring staff. 
-
-These samskaras are really energy (whether physical or metaphysical) from the first action that did not have time to express itself immediately due to the nature of things. 
-
-So it is pent up energy that is waiting to be expressed, or explode (if the energy is a lot). 
-
-We can physically relieve the pent up energy for the actions mentioned through counter-actions (counterkarma):
-- sequester CO2 from the atmosphere to reduce supertyphoons
-- withdrawing your bank balance so you can use the money now
-- saying sorry to your classmate and treating him out to prove your sincerity
-
-Humans are limited and we cannot keep track of all our actions that have potential side effects. 
-
-So the general metapyhsical solution is to raise your frequency so that:
-
-1. The reaction comes earlier. We can call this a medium-level upgrade that affects spacetime
-
-- In the typhoon analogy, it would be making the typhoon come before it becomes a supertyphoon. 
-- In the deposit analogy, it would be closing the bank account after 500 days instead of 1,000. 
-- In the insult analogy, it would be your 12 year old classmate getting revenge at 17 in a party instead of at 24 at your dream job application.  
-
-2. The reaction becomes irrelevant. We can call this a high-level upgrade that affects the aether
-
-- In the typhoon analogy, it would be moving to a safe place away from the supertyphoon.
-- In the deposit analogy, it would be getting the $1,000 and then having some bills out of nowhere that needs that $1,000. 
-- In the insult analogy, it would be being rejected by your classmate for your dream job that then allowed you to find a better dream job in another company (because of the positive mentality from the upgrade).
+{{< img src="/graphics/physics/layers.png" alt="The five layers" >}}
 
 
-The metaphysical upgrades are done by mental techniques such as meditation and ideation. 
+The eagle also extends into metaphysical movement, such as the movement of minds. This makes it applicable even to the Medical and Social Sciences.
 
-Meditation is the quieting of the lower or physical mind so that the higher mind can be accessed. 
-- To make meditation more effective, there are techniques such as moral rules for mental purity, diet control, hygiene, sense-withdrawal, yoga poses, etc. 
+<!-- `E :: G{{< sub v="l" >}}` -->
 
-Ideation is the higher mind imposing an idea on the lower mind, making that lower mind change its shape or mentality to match that idea. 
-- To make ideation more effective, there are techniques such as study of spiritual (high-minded works), concentration, repetition of mantras, etc. 
- -->
+Science | Eagle Manifestation
+--- | ---
+Sociology and Politics (Social Layer) | The l becomes the 4 Cycles
+Economics (Economic Layer) | The l becomes the 4 Laws of Value
+Medicine (Medical Layer) | The l becomes the 5 paradigms of Western medicine, Naturopathy, Ayurveda, Chinese Medicine, Homeopathy
+Agriculture (Plant Layer) | The l becomes the plant layer
+
+- In the social layer, it manifests as the potential shifts in public opinion according to social cycles by Socrates (aristocrat, oligarch, democrat, tyrant). This leads to changes in policies, ruling parties, cultural norms, morals, and religious beliefs. This is to be discovered by [Social Superphysics](/social)
+
+- In the economic layer, it manifests as the potential movement of prices according to [the labor theory of value](/social/economics/principles/part-2/chapter-01b/) instead of marginal pricing. 
+
+
+{{< f f="This is how we predicted the current crisis and why we predict it to be a long one. Its goal is to know the real price of everything, in order to prevent inflation, bubbles, recessions, and economic crises. This is to be discovered by [Supereconomics](/social/economics) which is a subset of Social Superphysics" >}}
+
+
+- In the medical layer, it manifests as the potential movement or risk of a person from health to disease and is discovered by applying data science to the five medical sciences of Western medicine, ayurveda, chinese medicine, homeopathy, and naturopathy.
+
+
+{{< f f="This is discovered by [Medical Superphysics](/bio/principles/part-04/chapter-03/)" >}}
+ 
+
+<!-- As none of our team has a medical background, and since medicine is highly regulated and fiercly protected by doctors and medical interests*, this would likely be developed last. -->
+
+- In the agricultural layer, it manifest as the potential movement of a crop towards a good harvest. This is discovered by Agricultural Superphysics. 
+
+<!-- > *The worst thing that can happen by denouncing Einstein and Samuelson by advancing alternative theories is to bashed as either as an idiot or as an arrogant know-it-all by dogmatic physicists and economists. But to advance alternative theories for medicine is to be fined, sued for endangering public health, and even to go to jail! -->
+
+
+## The `G` of Human Nature
+
+According to Socrates, the discovery of the `G` or true nature of everything is extremely laborious. This is why we start in the economic layer so that a success here can give us the resources to help us extend our searches to all the other layers and fiels of metaphysics and physics. 
+
+David Hume, who was an economist aside from being a metaphysician, agrees to this targetting of the human first, instead of his external environment:
+<!-- , who is our other reference, will agree to this as he is also an :  -->
+
+{{< q a="David Hume" c="Treatise of Human Nature, Advertisement" >}}
+Here, the only expedient for success in our philosophical researches is to.. march up directly to the capital or center of these sciences, to human nature itself. Once we master human nature, we may hope for an easy victory everywhere else. From here, we may extend our conquests over all those sciences.. We may hope to establish… a science which will not be inferior in certainty, and will be much superior in utility. The science of man is the only solid foundation for the other sciences. 
+{{< /q >}}
+
+This true nature is called by Francis Bacon as the "true form":
+
+{{< q a="Francis Bacon" c="Nova Organum" >}}
+Our genuine and perfect rule of practice is that **it should be certain, free and preparatory, or having relation to practice**. This is the same thing as the discovery of a true form. For the form of any nature is such, that when it is assigned, the particular nature infallibly follows. Form, therefore is always present when that nature is present, universally attests such presence, and, is inherent in the whole of it.
+{{< /q >}}

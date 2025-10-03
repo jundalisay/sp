@@ -7,8 +7,8 @@ description: "The German Corruption of Dialectics came from their tendency to ov
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 710
-icon: "Superphysics"
+weight: 510
+icon: "Juan"
 ---
 
 

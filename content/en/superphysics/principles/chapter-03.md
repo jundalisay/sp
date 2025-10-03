@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "Pre-Existence and the Formless Absolute Entity"
 # Desire and the Two Force Propelled by Feelings
 date: 2020-01-02
-weight: 300
+weight: 100
 image: /graphics/super/existence.jpg
 description: "Everything in existence is created by the two forces"
 icon: "Superphysics"
@@ -80,7 +80,7 @@ We will thus never enter disputes about the infinite. This is because we are fin
 {{< /q >}}
 
 
-## What came before pre-existence?
+## What Came Before Pre-Existence?
 
 The concept of pre-existence absorbs all ideas. 
 
@@ -94,3 +94,15 @@ It could be a sign that:
 - he has too much time on his hands
 - he has no control of his thoughts or desires, or 
 - his Luna mount on his palm is too strong, etc. 
+
+
+
+## Concepts Emerging from Existence and Pre-Existence
+
+The concept of Existence and Pre-Existence leads to the following concepts:
+
+1. Existence-Consciousness
+2. 2 Forces
+3. Cycle of Creation
+4. Operational Divisions of Reality
+5. The 5 Elements of Reality

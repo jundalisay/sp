@@ -11,7 +11,7 @@ Chapter organization
 2 5 Elements
 3 Supreme 
 4 2 Forces Polarity Feelings
-5 Ideas
+5   Ideas
 6	Conservation (Unity), Signature or Spin (Identity)
 7	Action (Relationality or Division of Labor, Territory)
 8	Force or Change or Phenomena (Value Creation)

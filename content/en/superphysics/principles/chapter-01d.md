@@ -3,7 +3,7 @@ heading: "Chapter 1d"
 title: "The 3 Operational Divisions of Reality"
 date: 2024-12-28
 # 2020-01-04
-weight: 150
+weight: 15
 image: /graphics/super/operative.svg
 description: "Reality has 3 Operational Divisions"
 writer:
@@ -20,28 +20,58 @@ The first section explained how the 2 domains are static divisions of Existence,
 
 Section 1c explained that reality is the part of Existence which is made up of waves that are never static.
 
-So how come our reality has static non-moving forms as rocks and metals? 
+These waves are caused by the fight between the Positive and Negative Forces.
+
+- 0 forces do not disturb the line of cognition
+- 1 force creates a disturbance as a curve
+- 2 forces creates a disturbance as a wave
+
+{{< i s="/graphics/super/curves.jpg" a="Curves" c="" >}}
 
 
 ## Causal, Subtle, Crude within Physical and Metaphysical
 
+The clash between of the 2 equal Forces creates a middle point each time they interact. This creates 3 parts within the interaction:
+
+1. Positive Dominant
+2. Neutral or Balanced
+3. Negative Dominant 
+
+{{< i s="/graphics/super/trio.jpg" a="Gunas" c="" >}}
+
+It can be easily noticed how the balance part has the most number of instances compared to either dominant parts. This is why the Middle Path is advocated by Buddhism and Taoism.
+
+This is opposed to:
+- the extreme renunciation of Hinduism
+- the extreme materialism of Capitalism and Communism (as Dialectical Materialism)
+
+
+<!-- So how come our reality has static non-moving forms as rocks and metals?  -->
+
 <!-- To have a basis for the actual phenomena that is sequential or made up of successive perceptions, -->
 
-To explain static objects in a dynamic Existence, we create the 3 operational divisions of reality as:
+These 3 parts lead to the 3 operational divisions of reality as:
 
 1. Causal
+
+Here, the Positive Force dominates
+
 2. Subtle
+
+Here, the 2 Forces are in Balance
+
 3. Crude
 
+Here, the Negative Force dominates
 
 {{< i s="/graphics/meta/divisions.jpg" a="3 Operational Divisions" c="">}}
 
 
 {{< q a="Ibn Khaldun" c="Muqaddimah" >}}
 The ability to think has several degrees.
-1. The first degree.. mostly consists of perceptions. 
+1. The speculative intellect 
 2. The experimental intellect
-3. The speculative intellect 
+3. The first degree.. mostly consists of perceptions. 
 {{< /q >}}
 
 
@@ -93,4 +123,8 @@ Subdivision |  Phenomena | Superphysics Branch
 5 Elements | Living | Bio
 5 Layers | Non-Living | Material
 
+
+## Basis for the 3 Gunas or Subelements
+
+These 3 divisions also manifest as the basis for the 3 Gunas of subelements within each Element, to be explained in the next Chapter.
 

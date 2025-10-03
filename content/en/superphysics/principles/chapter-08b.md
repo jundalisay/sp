@@ -4,7 +4,7 @@ title: "The Two Operations of Thinking and Feeling"
 date: 2020-12-06
 image: /photos/psych/self.jpg
 # date: 2020-12-10
-weight: 730
+weight: 604
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
   name: Juan

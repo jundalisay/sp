@@ -4,7 +4,7 @@ title: "Waves and the 3 Abstract Spaces"
 # Operational Divisions of Reality"
 date: 2024-12-28
 # 2020-01-04
-weight: 140
+weight: 9
 image: /graphics/super/absolute.svg
 description: "Reality has 3 Operational Divisions"
 writer:

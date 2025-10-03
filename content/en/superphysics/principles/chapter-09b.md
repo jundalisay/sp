@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 11"
+heading: "Chapter 9b"
 title: "What is Socratic Dialectics?"
 date: 2019-01-02
-weight: 705
-a: "Socrates.jpg"
+weight: 505
+a: "Socrates"
 c: "steelblue"
 description: "The Dialectics of Socrates unifies metaphysics and science into a single body of understanding"
 writer:

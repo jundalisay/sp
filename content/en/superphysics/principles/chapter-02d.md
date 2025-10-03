@@ -4,7 +4,7 @@ title: "The Fire Element"
 # date: 2015-09-09
 date: 2020-12-03
 # 2020-01-04
-weight: 204
+weight: 64
 image: /photos/physics/nuke.jpg
 description: "The fire element is electromagnetism in Physics"
 writer:

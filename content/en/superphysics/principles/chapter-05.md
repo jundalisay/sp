@@ -1,94 +1,134 @@
 ---
+title: "Everything is an Idea"
 heading: "Chapter 5"
-title: "The Law of Conservation of Idea and the Theory of Dynamism"
-date: 2020-12-29
-weight: 500
-image: "/photos/objects/apples.jpg"
-description: "Why you only have 1 idea at a time"
+date: 2020-01-02
+weight: 300
+image: /photos/idea.jpg
+description: "Everything is an idea of the Creator of that existence"
 icon: "Superphysics"
+tags: ['Lao Tzu', 'Yin Yang']
+toc: false
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
-{{< dc t="Principles (click to expand)" >}}
+{{< dc t="Principles (click to expand)">}}
 Principles | Assertions
 --- | ---
-Each Idea is Unique | Movement Comes from the Objects Preserving their Uniqueness
-{{< /dc >}}
+There are 2 Domains in Reality | The Metaphysical is Superior to the Physical
+. | The Objects in the Metaphysical Domain are called Ideas
+{{< /dc  >}}
 
-
-
-The previous chapter explained how everything in Existence begins as either an idea or feeling in the metaphysical domain which then crosses over onto the physical domain as physical reality. 
-
-Everything in the physical domain has a metaphysical counterpart as its origin. We can say that the physical is the effect of the metaphysical. This is also why the metaphysical is superior to the physical. 
-
-All of Physics is dominated by:
-- the Law of Conservation of Mass
-- the Law of Conservation of Energy.
-
-These state that:
-- mass and energy cannot be created nor destroyed, and
-- all processes are transformations of mass and energy.  
-
-<!-- Antoine Lavoisier 1789.  -->
-
-Likewise, all of Superphysics is dominated by what we call **The Law of Conservation of Idea**. This states that all ideas:
-- already pre-exist
-- cannot be created nor destroyed, and
-- are unique.
-
-This uniqueness means that **each idea has its own properties** as imbued by its Creator.
-- These inherent properties are called its *dharma* or true nature. <!-- Unlike nature which si -->
-- The inherent property of a unique idea or object is called **svadharma**
-
-This law explains the principles in various sciences, such as:
-- The mind having only one thought at a time in Psychology 
-- The Pauli Exclusion Principle in Physics
-- A territory having only one state in Politics
 
 
 {{< box >}}
-### Why Must Identities Be Unique?
-
-Chapter 3 explained that Existence-Consciousness is really 1 unit entity called the Supreme Entity. As a single unit, it means that all its parts affect all its other parts. 
-
-Having a duplicate part will create an imperfection or excess in the unit, just as 1.0000001 is an imperfection of 1. 
-
-Therefore, everything is unique so that 1 stays as 1.  
+The Chapter on Qualimath has been moved [here](/superphysics/principles/chapter-07)
 {{< /box >}}
 
 
-## Uniqueness Leads to All Movement in Existence
+Chapter 3 explained that the downward flow of ideas from imagination into reality is facilitated by the Negative Force. 
 
-This property of uniqueness creates all of the dynamism in both physical and metaphysical domains. This dynamism is what we call change, movement, and evolution.
+This is matched by the upward climb of understanding from the Positive.
 
-For example, suppose you have a tray that can only hold 10 apples. 
+In other words, a thing can travel from idea downwards to matter, just as matter can travel upwards to idea.
 
-{{< img src="/photos/objects/apples.jpg" alt="Apples" >}}
+For instance, we sometimes perceive something totally new. When Covid first struck in December 2019 in Wuhan, doctors had no metaphysical idea of it, even if they could see the physical disease.
+
+{{< img src="/photos/med/covid.jpg" alt="Covid in water" cap="The idea of Covid is started to exist in the physical domain when the physical perception of the new virus began. Its evolution from 'Novel Coronavirus Disease' to 'Covid-19' is an example a metaphysical 'aether drag'" >}}
+
+In this case, the physical disease started to exist through the senses of the Wuhan doctors. But the complete idea of it did not exist in human minds until scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19.
+
+<!-- It means that the complete metaphysical idea existed in Nature, before humans could completely recreate it in their minds. -->
+
+A materialist will say that this example is proof that ideas are created by material perceptions. 
+
+We reply that the physicality of Covid came from the Supreme’s idea for Covid, and that our idea for Covid is a closing of that great loop from Consciouness to Existence and back to consciousness. 
+
+The continuation of this loop includes the evolution of its idea from ‘Novel Coronavirus Disease’ to ‘Covid-19’ as an example of metaphysical ‘aether drag’ which will be in Material Superphysics.
 
 
-Adding more apples will either:
-- make those additional apples fall off if the tray is strong, or
-- make the apples in the tray burst out if the tray is weak. 
 
-Either way, the mere addition of apples causes movement, as a reaction to those new additions.
+<!-- In this case, the physical disease started to exist through the senses of the Wuhan doctors. But the complete idea of it did not exist in human minds until scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19.  -->
 
-The tray represents the mind of the universe which holds its ideas. The addition of new ideas creates reactions from the already-existing ideas. 
 
-This leads to movement for those new and old ideas inside the universe-container. This movement affects all ideas just as the addition of the apple affects all apples already in the tray -- the more ideas, the more the dynamism and energy.
+## The Superiority of the Metaphysical Over the Physical
 
- <!-- dynamism that is far more energetic than the original addition-action.   -->
+This strengthens the fact that:
+- physical things are perceivable through our 5 senses
+- metaphysical things are perceivable through our intellect and feelings (the 6th sense).
+- every physical thing or perception has a corresponding metaphysical idea or feeling
+- every idea or feeling exists before its physical version does.
 
-From here it follows that:
-- the universe is inherently dynamic
-- there is an inherent potential dynamism in each object 
-- an object's dynamism can be tapped by letting it interact with the proper objects other than itself
-- the dynamism of objects depend on their relations with each other
+<!-- - physical things are tangible and perceivable through our five senses
+- metaphysical things are perceivable through our intellect and feelings (the 6th sense). -->
 
-This is the foundation of our **Theory of Dynamism**. 
+{{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics" >}}
 
-This theory aims to know the causes and effects of all movements, whether physical or metaphysical. This is to harness such movement and dynamism in order to reach our goals, such as to solve problems that are unsolved by Physics and Science.  
+The mug only existed after the maker of mugs had the idea of a mug, as to be able to create a physical mug. 
 
-In the metaphysical domain, these movements take the form of reflection (as the 'bouncing back' mentioned in Chapter 1),  deflection, dissipation, merging, etc. **These are the dynamics of waves.** Thus, we say that **the metaphysical domain has a wave-like nature**.   
+It follows that Covid-19 existed after Nature had the idea for it, and that its solution already exists in Nature*.
+
+
+{{< dc t="Update Dec 14, 2021 (click to expand)" >}}
+*This is why our proposed solution to end Covid is to end the war against the Amazon rainforest, just as the Spanish flu ended after the peace of World War I. Vaccines are just a workaround that is supposed to buy time to implement that real solution. Unfortunately, science thinks that vaccines are the solution. The error in this is proven by the rise in the recent Covid hospitalizations in Europe despite their high vaccination rates. Superphysics is pro-vaccination just like we are ok with paracetamol for headaches. But both are just workarounds to buy time to find the root cause of the virus and the headache. 
+{{< /dc >}}
+
+
+<!-- {{< me date="August 1, 2022" >}}
+*Environmental destruction hasn't stopped yet, and so Nature just throws another virus as monkeypox to show who's boss. 
+{{< /me >}}
+ -->
+
+Thus:
+- every physical thing or perception has a corresponding metaphysical idea or feeling
+- every idea or feeling exists before its physical version does.
+
+For example, before a novel about a cat is written in a physical form, the idea for the novel must exist first. 
+
+Therefore, the metaphysical aethereal idea is superior and prior to its physical material form.  
+- The material form is easy and obvious.
+- The aethereal idea is abstract and hard to grasp.  
+
+**To dull and unthinking minds, this makes the material version of the idea as seemingly superior, even if it is actually just the effect.**
+
+The dull-minded people and the sharp-minded ones then argue on **which came first**, and **which is superior**. 
+
+Did the physical version come first? Or did the aethereal or idea-version come first?
+
+- The pro-metaphysical camp would say that ideas, spirit, and Plato's forms came first. This is the chicken.
+  - An example is the Hindu belief that the universe was created from the thought of Brahma 
+- The pro-physicality camp would say that matter, material evidence, and Aristotle's material substance came first. This is the egg
+  - An example is the Big Bang, wherein the universe came from a material singularity that had all the mass of the universe. 
+
+The aetherealist-materialist rivalry exists in civilized cultures:
+
+Culture | Aetherealist | Materialist
+--- | --- | ---
+India | Vedanta, Buddhism |  Kali (idol-worship), Carvaka
+China | Taoism | Confucianism
+Islam | Sufism | Sunni policies such as Sharia (e.g. the Quran has geocentric physics inherited from Aristotle)
+Europe | Religion, Philosophy | Science
+
+
+<!--   - In Hindu philosophy, this manifests as sects of Shaivism and 
+  - In Chinese philosophy, this manifests as , saving face, and showing how prosperous you are as a physical proof of your happiness
+  - In Islamic philosophy, this manifests as the    -->
+
+
+In the West, the rivalry manifests as philosophy versus science. 
+
+_ | Philosophy | Science
+--- | --- | --- 
+Emphasis | Spirit and ideas | Sensory proofs and material evidence
+Consciousness is.. | ..the metaphysical soul | ..the physical brain
+
+Superphysics is in between both abstract philosophy and material science.
+- It is grounded on the metaphysical, but can quickly extend down to sensory evidence and practicality. 
+- It sees the physical brain and its hormones as the effect of the metaphysical soul and its feelings. 
+
+Unlike science which manipulates the brain and hopes that it changes the soul or mind, Superphysics works directly on the soul in order to resolve its physical issues with the brain.
+
+
+<!-- ## Tap into your feelings, the deeper the better -->

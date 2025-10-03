@@ -4,11 +4,11 @@ title: Parts of a Logical System
 date: 2024-02-20
 image: "/graphics/meta/logicparts.jpg"
 description: "We visualize the parts of a logical system as a house"
-weight: 720
+weight: 520
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
 ---
 
 

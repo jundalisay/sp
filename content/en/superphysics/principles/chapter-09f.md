@@ -2,9 +2,10 @@
 heading: "Chapter 11f"
 title: "Data Science as Socratic Dialectics"
 date: 2024-08-21
-image: /covers/socrates.jpg
+image: /photos/tech/mac.jpg
 # date: 2020-12-10
-weight: 750
+a: Socrates
+weight: 550
 description: "Socratic Dialectics relies on all six senses and requires the ego to be lowered"
 writer:
   name: Juan

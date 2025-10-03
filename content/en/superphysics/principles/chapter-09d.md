@@ -7,7 +7,7 @@ description: "Cartesian Relationality is a key concept in Superphysics which foc
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 715
+weight: 515
 icon: "Superphysics"
 ---
 

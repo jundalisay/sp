@@ -3,7 +3,7 @@ title: "The Two Domains"
 # title: "We're in a Matrix!"
 heading: "Chapter 1"
 date: 2019-01-01
-weight: 120
+weight: 5
 image: /photos/tech/mac.jpg
 description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
 icon: "Superphysics"

@@ -14,7 +14,7 @@ icon: "David Hume"
 
 ## All Simple Ideas Initially Come from Simple Impressions as Sensory Perceptions and Feelings
 
-All our perceptions are either impressions or ideas
+All our perceptions are either impressions or ideas.
 
 Their difference is in how their force strikes the mind.
 

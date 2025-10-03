@@ -1,11 +1,10 @@
 ---
 title: "What is Automated Natural Intelligence (ANI)?"
 heading: Chapter 7f
-# heading: "Impartial Spectator Automated Intelligence Aggregation Host"
 # orig date: 2015-09-09
 # date: 2020-11-05
 date: 2024-07-29
-weight: 630
+weight: 530
 image: /photos/physics/ai.jpg
 description: "In reality, AI is not really artificial, but is a very limited version of natural intelligence"
 icon: "Supereconomics"

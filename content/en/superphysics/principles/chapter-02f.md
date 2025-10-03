@@ -4,7 +4,7 @@ title: "The Earth Element"
 date: 2024-06-22
 image: "/photos/physics/neutrino.jpg"
 description: "The 8 Densities are based on the aether "
-weight: 208
+weight: 68
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

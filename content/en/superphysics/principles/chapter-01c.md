@@ -3,7 +3,7 @@ heading: "Chapter 1c"
 title: "Vortices and Ideas"
 date: 2024-12-28
 # 2020-01-04
-weight: 145
+weight: 14
 image: /graphics/super/waves.jpg
 description: "Reality has 3 Operational Divisions"
 writer:
