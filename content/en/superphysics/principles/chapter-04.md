@@ -30,6 +30,11 @@ This operation is similar to your screen being made up of pixels that are separa
 {{< i s="/graphics/tech/pitch.jpg" a="Pixel Pitch" c="The gap between metaphysical objects is like the gap between pixels" >}}
 
 
+{{< q a="Timaeus" c="Timaeus by Plato Simplified, Chapter 4" >}}
+The Creator rejoiced when He saw his creation moving and living..The nature of the creation's Idea-being was everlasting. But it is impossible to make creation everlasting. So He resolved to have a moving image of eternity. When He set the order of the heaven, He made this image eternal but moving according to number, while eternity itself rests in unity. This image is what we call time.
+{{< /q >}}
+
+
 In Modern Physics, this gap is called the Planck length which is a very small distance: 1.616255 × 10−35 meters 
 
 
@@ -51,6 +56,10 @@ These are then stitched together by the Positive Force that incluences that mind
 In other words, each of our perceptions is in a cognition-slice called spacetime. These slices are glued together by the flow of our minds, creating our fluid reality. 
 
 **This means that only the present perception is the basis or anchor for all our other perceptions.** 
+
+{{< i s="/graphics/flipbook.gif" a="Flipbook about a cat" c="Reality is made of independent slices like an animation" >}}
+
+
 
 This was best explained by Rene Descartes:
 

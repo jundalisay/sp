@@ -20,6 +20,7 @@ Most people comment that we are crackpots and our posts are pseudoscience even i
 
 So we dissect the Crackpot Index that Redditors claim is the basis for such brandings. Basically it gives points for each statement that does not align with the current dogma of the religion of Physics, just as Galileo did not align with Catholic dogma.
 
+
 {{< i s="/photos/physics/priest.jpg" a="Priest" c="A common pattern with Physics-defenders is their blind admiration for Einstein even if he was the one who caused Physics to get stuck in the first place with his Simultaneity of Time scam" >}}
 
 <!-- ![Einstein Priest](/photos/physics/priest.jpg) -->
@@ -101,5 +102,7 @@ It took over 40 years for Newton's Physics to replace Descartes.
 So we assume that it will also take that around that time for people to actually read up on Cartesian Science (which unites Classical Physics with Quantum Mechanics and Medicine, at least).
 
 Only a severe event such as a nuclear war or an asteroid impact would rush the adoption of a new Physics and the discarding of the current scam-based one that has Einstein as its Jesus.
+
+{{< i s="/photos/objects/asteroid.jpg" a="Asteroid" c="We actually need an asteroid to threaten life on Earth to expose how useless the Physics of Newton and Einstein are, and how only the true Physics of Descartes, Spinoza, Hindusim, Buddhism, and Taoism can deal with it through an anti-gravity 'net' as explained in the Sumerian texts of how the Anunnaki weaponized asteroids via anti-gravity technology to wipe out planetary life" >}}
 
 Only then will humans free their minds from being told that nothing travels faster than light. When they get rid of this limiting imposition then the reality of the teleportation of masses will be more realizable.

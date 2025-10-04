@@ -14,7 +14,6 @@ icon: "Superphysics"
 ---
 
 
-
 The previous section explained the 2 domains of reality as the physical and metaphysical.
 
 Reality is an effect of perception. 
@@ -102,6 +101,13 @@ These have to be filled for Existence to have no holes or 'bugs' or errors. Thes
   - This is the foundation of getting inspirtation anytime and anywhere through mentality change
 
 
+
+{{< q a="PR Sarkar" c="Idea and Ideology, Chapter 3" >}}
+A wave can move freely only when it is in harmony with previous waves and their curvatures.
+It can pass through an object where there is no physical obstruction from a subtler wave, that is, subtler waves can pass through cruder waves. Under such circumstances, there is always an adjustment of wavelengths. This results in the creation of physical diversities
+{{< /q >}}
+
+
 {{< q a="Rene Descartes" c="Dioptrique" >}}
 Almost all philosophers admit that there is no void in nature. All the bodies which we perceive around us have several pores which are necessarily filled with some very subtle and very fluid matter, which I call the 1st Element. This matter extends without interruption from the stars to us.
 {{< /q >}}
@@ -135,7 +141,7 @@ These external ideas and causes are made of substance. A substance is a thing ca
 
 
 
-## The Superiority of the Metaphysical over the Physical
+## The Superiority of the Metaphysical over the Physical, as Positive over the Negative
 
 The subtle waves wrap around and penetrate the cruder waves in order to fill the void. In other words, metaphysical subtle waves can pass through physical crude waves. 
 
@@ -143,8 +149,26 @@ But physical waves cannot pass through subtle ones. This is why speed in our phy
 
 This is why the subtle metaphysical domain is superior to the physical. 
 
-Huge amounts of energy is not needed to breach the physical barrier. Subtletly is needed. 
+Since the metaphysical is where the Positive Force dominates and since the physial is where the Negative dominates, it follows that the Positive is superior to the Negative.
+
+This is why huge amounts of energy is not needed to breach the physical barrier. Instead, subtletly is needed. 
 
 In some places in the aether, there arises a concentration of waves, as nodes. 
 - The cruder nodes become ideas. 
 - The subtler nodes become minds. 
+
+However, our assertion of the superiority of the Positive seems to be false when see that Negative evil seems to dominate over Positive goodness as seen in:
+- Capitalism consistently creating environmental destruction
+- North Korea enslaving its own people
+- Nuclear weapons having more importance over world peace
+
+We answer that the victory of the Positive still wins in the very long term.
+
+For example:
+- the extinction of the dinosaurs might seem as the triumph of the Negative
+  - But this is countered if we think that beautiful birds are the end result of that extinction event, which ended up as a positive
+- the rapid victories of the Nazis in World War 2 might be seen as a Negative victory
+  - But it ended up in the creation of the Positive EU 
+
+Likewise, the coming war between the West and China might seem as a Negative. 
+- But we assert that it will lead to a Positive harmonization of West and Eastern cultures. 

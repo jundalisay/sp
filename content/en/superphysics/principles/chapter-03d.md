@@ -3,9 +3,9 @@ heading: "Chapter 3d"
 title: "The Great Loop from Desire to Experience"
 date: 2020-01-02
 weight: 130
-image: /graphics/psych/horse.jpg
-description: "Everything in existence is created by the two forces"
-icon: "Superphysics"
+image: /graphics/super/cycle.svg
+description: "The Supreme Entity begins the existence of something by having an idea of it"
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

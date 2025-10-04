@@ -1,6 +1,6 @@
 ---
 title: "The 4 Causes of our Errors"
-heading: Articles 71-
+heading: Articles 71-76
 weight: 32
 description: "The Prejudices of Childhood and our Memory of these Prejudices"
 writer:

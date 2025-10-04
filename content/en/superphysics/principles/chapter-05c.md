@@ -20,6 +20,11 @@ Everything is an Idea | Complex Ideas are made of Simple Ideas
 {{< /dc >}}
 
 
+Chapter 1 explained that waves become nodes when they are concentrated together.  We then call these nodes as ideas. 
+
+Since these nodes are really waves, they easily show wave-properties. One of these properties is the connection of ideas.  
+
+
 ## Compound Ideas are Made up of Simple Ideas
 
 Since ideas are static, it is the mind, powered by desire, that connects them together, in a chain. This leads to the creation of compound ideas from many simple ones.
@@ -37,26 +42,24 @@ The order and connection of ideas is the same as the order and connection of thi
 
 
 
-While the 5 Layers show the vertical hierarchy of reality, the connection of ideas, and integration of simple into complex, show its lateral organization.
+While the 5 Elements show the vertical hierarchy of reality, the connection of ideas, and integration of simple into complex, show its lateral organization, creating a pyramid of ideas.
 
-{{< img src="/graphics/meta/compound.jpg" alt="Compound Ideas" cap="" >}}
+{{< i s="/graphics/meta/compound.jpg" a="Compound Ideas" >}}
+
+When applied to living minds, this leads to the oversoul with many individual souls, each with many selves. 
+
+- Each soul has many selves in each alternate reality which is created from spacetime slices. This is essential in Bio-Superphysics.
+- Individual souls taken together make up the soul of society, which we call the metaphysical society-organism. This is essential in Social Superphysics
+
+<!-- The concept of the dharma of ideas, combined with their inherent ability to be connected to, and fused with, each other (as to create ideas within ideas), is the foundation of our concept of the oversoul wherein:
+- a soul, as an idea of the Supreme, has many selves as its sub-ideas.  -->
 
 
-
-
-
-The concept of the dharma of ideas, combined with their inherent ability to be connected to, and fused with, each other (as to create ideas within ideas), is the foundation of our concept of the oversoul wherein:
-- a soul, as an idea of the Supreme, has many selves as its sub-ideas. This is essential in Bio-Superphysics.
-- individual souls taken together make up the soul of society, which we call the metapyhsical society-organism. This is essential in Social Superphysics
-
-{{< i s="/graphics/meta/ideas.jpg" a="Main Ideas" c="Ideas can be thought of as clouds that connect to each other, split up, or combine" >}}
-
+{{< i s="/graphics/meta/ideas.jpg" a="Main Ideas" c="Ideas can be thought of as clouds that connect to each other, split up, or combine, just as selves are connected to souls which are connected to oversouls or grouped together as society-organisms" >}}
 
 
 {{< q a="David Hume" c="A Treatise of Human Nature, Book 1, Part 4, Section 6" >}}
-I can only compare the soul to a republic with several members united by the reciprocal ties of government and subordination. This gives rise to other persons who propagate the same republic through constant change. The same republic may change its members, laws, and constitutions. 
-
-Similarly, a person may vary his character, disposition, impressions and ideas, without losing his identity. Whatever changes he endures, his parts are still connected by causation.
+The soul is like a republic with members united by the reciprocal ties of government and subordination. This gives rise to other persons who propagate the same republic through constant change. The same republic may change its members, laws, and constitutions. Similarly, a person may vary his character, disposition, impressions and ideas, without losing his identity. Whatever changes he endures, his parts are still connected by causation.
 {{< /q >}}
 
 
@@ -64,39 +67,41 @@ To save itself energy, the mind usually connects those ideas that are resembling
 
 For example, a wife might notice that her husband comes home late from work often. Her mind connects facts and, without effort, jumps to the conclusion that he is cheating on her. 
 
-This can be avoided by critical thinking and critical feeling which “catches” the thoughts and feelings, to be explained in Chapter 10.
+{{< i s="/photos/psych/wife.jpg" alt="Wife" >}}
+
+This can be avoided by critical thinking and critical feeling which “catches” the thoughts and feelings, to be explained in Chapter 8.
 
 
 ## Beliefs
 
 Compound ideas can be connected to other compound ones that impart a similar vibration or feeling in order to reinforce each other. 
 
-These are called beliefs. These beliefs can be:
+These are called beliefs which can be:
 - positive, such as the belief in a Savior, in better days ahead, etc. or
-- negative, such as the belief that Friday the 13 th is bad luck, that an
-Apocalypse will happen, etc
+- negative, such as the belief that Friday the 13 th is bad luck, that an Apocalypse will happen, etc
 
 Many beliefs are imposed on us by our parents and by society during our childhood. These can be religious, cultural, scientific, philopsophical, etc. 
 
-Since beliefs can be positive or negative then there not all beliefs are good. The most dangerous are dogmas that limit the capabilities of the mind.
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 1, Article 71" >}}
+The chief cause of our errors is in the prejudices of our childhood.
+{{< /q >}}
+
+
+Since beliefs can be positive or negative then it follows that not all beliefs are good. The most dangerous are dogmas that limit the capabilities of the mind.
 
 {{< q a="PR Sarkar" c="Discourse on Sin, Crime and Law" >}}
 The human mind becomes inert and dormant in society due to old dogmas, weaknesses, and lack of proper education. Mental stagnancy is a kind of disease. It is motionlessness. People should not be allowed to rely on the dogmas of their ancestors as it obstructs their own mental pursuit.
 {{< /q >}}
 
 
-Even science has dogmas:
+Even science has dogmas which Superphysics corrects:
 
-- Physicists require evidence to be perceived by the 5 senses, ignoring the 6th sense of intiutional feeling. Our alternative to this is Material Superphysics which uses intuition.
-- Economists believe that money is the only way to exchange goods and services, ignoring barter. Our alternative to this is
-Supereconomics which is based on dharma instead of money.
-- Doctors require medicines to pass clinical trials that do not take into account the mentality and personality type of the patients. Our Medical Superphysics takes into account mentality and personality.
-
-<!-- We use his principle in creating a style of writing that complex ideas easier to understand. We first used this in 2012 to simplify the ideas of Adam Smith in The Wealth of Nations and the Theory of Moral Sentiments. 
-
-The main problem was that Smith wrote in very long sentences, trying to be artistic and poetic in the process. But this made his work difficult to understand. 
-
-So we simplified his sentences by cutting them up into simpler ones, and then putting them under the core idea in that long sentence.
-
- -->
-
+Field of Study | Dogma | Problems Caused | Superphysics Solution
+--- | --- | --- | ---
+Science | Evidence must be from 5 Senses | Ignores metaphysical perception as intuitional feeling, limiting the sciences | 2 Domains and Intuition
+Economics | Money and Profit Maximization | Economic crises, Poverty, Inequality | Moneyless system
+Physics | Gravity comes from Matter | No anti gravity, teleportation, free energy | Gravity comes from the Aether 
+Western Medicine | Treating Symptom or Effect instead of Cause | Diseases recur and side effects created | 5 Element Medical Paradigm
+Sociology | Differences in Culture, Language | War, Nationalism, Terrorism, Disputes | Society Organism
+Evolution Theory | Survival of the Fittest | Nazism, Racism, Exploitation of the Weak | Evolution by Will 
+Psychology | Consciousness Comes From Brain | Ineffective Treatments that cause side effects | Consciousness Comes From Soul

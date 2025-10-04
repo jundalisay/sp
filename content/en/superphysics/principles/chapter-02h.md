@@ -1,12 +1,12 @@
 ---
 heading: "Chapter 2h"
-title: "The 5 Layers for Goal-Setting"
+title: "The 5 Elements for Goal-Setting"
 # date: 2015-09-09
 date: 2023-03-19
 # 2020-01-04
 weight: 80
 image: /graphics/meta/ngu.jpg
-description: "We use the 5 Layers for Goal-Setting as an alternative to SMART"
+description: "We use the 5 Elements for Goal-Setting as an alternative to SMART"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
@@ -25,7 +25,7 @@ It can be immedately used as a proper goal-setting framework that aligns with th
 - Realistic
 - Time-bound
 
-{{< img src="/graphics/meta/ngu.jpg" alt="The 5 Layer model" >}}
+{{< img src="/graphics/meta/ngu.jpg" alt="The 5 Elements model" >}}
 
 
 If we put SMART Under our Five Elements Model, we see that it overly emphasizes the Earth Element (matter-based) through the 4 criteria of being specific, measurable, achievable, and realistic. 
@@ -36,7 +36,7 @@ Only the 'Time-bound' criterion is 'immaterial' by being in the Air Element rela
 
 The problem is that success is really achieved by alignment with the Aethereal Element as the cause, of which the Earth Element is just an effect.  
 
-Giving too much emphasis on specifics, measurements, and attainability neuters the mind too much and disconnects it from the infinite possibilities granted by the higher layers. 
+Giving too much emphasis on specifics, measurements, and attainability neuters the mind too much and disconnects it from the infinite possibilities granted by the higher elements. 
 
 
 Although SMART improves goal-setting by adding the 2 Elements of Earth and Air, as opposed to not having any system at all, it also sabotages success by ignoring the other 3 Elements. This will give less success than if all the 5 Elements were used. 

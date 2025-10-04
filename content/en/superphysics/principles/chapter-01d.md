@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 1d"
-title: "The 3 Operational Divisions of Reality"
+title: "Vortices and Ideas"
 date: 2024-12-28
 # 2020-01-04
 weight: 15
-image: /graphics/super/operative.svg
+image: /graphics/super/waves.jpg
 description: "Reality has 3 Operational Divisions"
 writer:
   name: Juan
@@ -14,117 +14,166 @@ icon: "Superphysics"
 
 
 
-The first section explained how the 2 domains are static divisions of Existence, based on immediate perception as physical or metaphysical.
+Chapter 1b explained how gaps between crude waves are filled with subtler waves in order to eliminate and Voids in Nature.
 
-<!-- Section 1b explained that Existence is made up of waves that are never static. -->
+In some areas, many waves intersect from various angles to create nodes. These acquire characteristics that are different from waves and become ideas.
+- Waves are feelings and forces or 'bosons'
+- Nodes are ideas and particles or 'fermions'
 
-Section 1c explained that reality is the part of Existence which is made up of waves that are never static.
-
-These waves are caused by the fight between the Positive and Negative Forces.
-
-- 0 forces do not disturb the line of cognition
-- 1 force creates a disturbance as a curve
-- 2 forces creates a disturbance as a wave
-
-{{< i s="/graphics/super/curves.jpg" a="Curves" c="" >}}
+{{< i s="/graphics/super/waves.jpg" a="Waves and Nodes" >}}
 
 
-## Causal, Subtle, Crude within Physical and Metaphysical
+Simple ideas have a few intersecting waves, whereas complex ideas have a lot especially if those waves come from diverse angles. 
 
-The clash between of the 2 equal Forces creates a middle point each time they interact. This creates 3 parts within the interaction:
+This is why diversity is the law of Nature. 
 
-1. Positive Dominant
-2. Neutral or Balanced
-3. Negative Dominant 
+{{< q a="PR Sarkar" c="Ananda Sutram" >}}
+Diversity is the inherent tendency of the Supreme Operative Principle.
+{{< /q >}}
 
-{{< i s="/graphics/super/trio.jpg" a="Gunas" c="" >}}
+The collapse of Communism, and the decline of Japan and South Korea which are against foreign immigrants, show plainly the violation of diversity.  
 
-It can be easily noticed how the balance part has the most number of instances compared to either dominant parts. This is why the Middle Path is advocated by Buddhism and Taoism.
+We attribute the chaos in ethnically diverse countries such as India to the violation of the hierarchy the 5 elements, where the crude material element is made to dominate the subtle aether element. 
 
-This is opposed to:
-- the extreme renunciation of Hinduism
-- the extreme materialism of Capitalism and Communism (as Dialectical Materialism)
+This happens when materialism through the lower chakras gains dominance over spirituality (aether) and intellect (radiant stratum) of the upper chakras.
 
 
-<!-- So how come our reality has static non-moving forms as rocks and metals?  -->
+## Life and Perception
 
-<!-- To have a basis for the actual phenomena that is sequential or made up of successive perceptions, -->
+Nodes made up of crude waves become crude ideas which eventually become physical things. 
 
-These 3 parts lead to the 3 operational divisions of reality as:
+As a physical thing becomes more complex, it naturally becomes larger and develops gaps.
+- These gaps need to be filled by the subtler waves until they form a subtle node in a larger crude node.
 
-1. Causal
+This becomes a simple mind in a physical organism as a living thing. 
 
-Here, the Positive Force dominates
+Therefore:
+- a physical thing is a large node made up of crude waves
+- a living mind is a large node made up of subtle waves 
 
-2. Subtle
+Perception occurs when these nodes of minds interact with each other and with other nodes as ideas or things. 
 
-Here, the 2 Forces are in Balance
+A crude node gets perceptions as proven by its subsequent reactions to stimuli.
+- For example, a rock reacts to light to reflect it so that it can be seen.
 
-3. Crude
+But since the crude node has no flexible subtle waves, it is very limited in its expressive ability. 
+- The rock can only express the light it encounters by bouncing it off as a specific color.
 
-Here, the Negative Force dominates
+A living node, as a physical organism, on the other hand, can express more since it has subtler and more flexible waves.  
+- For example, a bacteria can react to light by moving away from it, aside from reflecting it.
 
-{{< i s="/graphics/meta/divisions.jpg" a="3 Operational Divisions" c="">}}
+<!-- Life begins at a material node that gets more and more complex. This opens up gaps in it that needs  -->
+
+<!-- A perceiving mind within that Supreme Mind is also a disturbance, as a node, that encounters other disturbances.  -->
 
 
-{{< q a="Ibn Khaldun" c="Muqaddimah" >}}
-The ability to think has several degrees.
-1. The speculative intellect 
-2. The experimental intellect
-3. The first degree.. mostly consists of perceptions. 
+
+Cartesian Physics calls nodes as spinning vortices. 
+
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 3" >}}
+The Earth and the other planets are carried along by a common vortex, with the Sun at its center and move in the motion of the vortex.
 {{< /q >}}
 
 
-This is similar to the Freudian divisions of the mind as:
-
-- Unconscious
-- Subconscious
-- Conscious
-
-However, our difference is that the basis for the divisions are not awareness, but the properties of the 2 Forces of Positive and Negative. 
-- This is the same basis of the 2 domains. 
-
-The interaction of different phenomena take place in 3 divisions based on their affinity with either the Positive or Negative Forces.
-
-A static non-moving solid object get its staticity from the dominance of the Negative Force.
-- This principle is the basis for freezing photons to be used for light-based computing to bypass Moore's law in transistors
+In a metaphysical view, everything is a vortex:
+- The vortices in cells are the DNA
+- The vortices in galaxies are their singularity
+- The vortices in stars and planets are their core
+- The vortices in matter are the gluon field in the proton
 
 
-### Basis for the Groupings of Phenomena
+This is consistent with Plato's description of mind:
 
-These divisions are the basis for different groups of phenomena:
-
-Division | Phenomena 
---- | --- 
-Causal | Abstract
-Subtle | Living
-Crude | Non-Living 
-
-Each of these divisions have its own subdivisions made up of 5 parts.
-
-Division | Subdivision 
---- | --- 
-Causal | 5 Strata
-Subtle | 5 Elements
-Crude | 5 Layers 
-
-- The 5 parts of the causal subdivision is called the 5 Strata
-- The 5 parts of the subtle subdivision is called the 5 Elements, with reference to the Asian 5 Elements
-- The 5 parts of the crude subdivision is called the 5 Layers
-
-{{< i s="/graphics/super/operative.svg" a="3 Operational Divisions" c="">}}
-
-These phenomena and subdivisions will be studied by the different branches of Superphysics.
+{{< q a="Athenian" c="The Laws by Plato, Book 10" >}}
+The thing that moves in one place moves around a centre like globes made in a lathe. **This is most entirely akin to the circular movement of mind.** The motion of the mind is like the motion of a globe. It does not move in a linear way. 
+{{< /q >}}
 
 
-Subdivision |  Phenomena | Superphysics Branch 
---- | --- | ---
-5 Strata | Abstract | Social and Spiritual 
-5 Elements | Living | Bio
-5 Layers | Non-Living | Material
+
+## Reality as a Metaphysical Structure that Collapses into Physicality
+
+Each node is made up of waves that interact with the waves that make up other nodes. 
+
+- Crude waves affect crude waves
+- Subtle waves affect both crude and subtle waves
+
+The different mix of crude and subtle in each node dictate which nodes they will react to, or what they will perceive
+
+- Crude nodes perceive crude nodes
+- Subtle nodes perceive subtle nodes by default, but can choose to perceive crude nodes due to the superiority of the subtle. 
+
+The perception-relation between crude-crude and subtle-subtle leads to a relational structure that we call a reality. 
+
+It means that a reality is a match of waves in the Perception Space mentioned in the previous section. 
+
+So we define reality as **a metaphysical structure that forms from the waves emanated by nodes or vortices impacting each other**.
+
+This metaphysical structure collapses into physical reality when converted by the Physical Domain. This is consistent with Quantum Mechanics. 
+
+It follows that there is more than one reality, since a node or vortex is made up of so many waves with varying qualities. 
 
 
-## Basis for the 3 Gunas or Subelements
+{{< i s="/graphics/meta/er.jpg" a="ER Diagram" c="A reality is a the metaphysical structure created by the relations between entities. This is consistent with our description of Existence as a virtual reality system" >}}
 
-These 3 divisions also manifest as the basis for the 3 Gunas of subelements within each Element, to be explained in the next Chapter.
+
+
+### Alternate Realities and the Multiverse
+
+This leads to the concept of alternate realities within the Perception Space.
+
+A universe is a structure that extends actual reality into a potential reality 
+
+```
+Reality = Node 1 : Node 2
+
+Universe = Actual Reality + Potential Reality
+```
+
+Note how this definition of reality and universe are perception-based which ultimately is mind-based. 
+
+Crude minds cannot perceive subtle minds, but subtle minds can perceive both subtle and crude minds. 
+
+This allows alternate realities and other universes -- we only perceive our own universe because the nodes in this universe match our own mental waves.
+
+```
+Reality A = Node 1A : Node 2A
+Reality B = Node 1B : Node 2B
+Reality C = Node 1C : Node 2C
+
+Universe A = Node 1Aa : Node 2Aa
+Universe B = Node 1Ab : Node 2Ab
+Universe C = Node 1Ac : Node 2Ac
+```
+
+An alternate reality needs a slight modification in wave quality, but a diferent universe needs a more drasttic modificiation. 
+
+Alternate realities are in the same universe. But different universes are in a single Existence, as Existence Space.
+
+
+## A Richer Reality Has More Diversity; The Goal of Existence
+
+The previous section explained that the base of Existence is the possibility of having disturbances. 
+
+We can say that reality is when those disturbances actually occur and perceived by us. 
+
+A richer reality-perception therefore is made up of multiple waves of disturbance hitting a disturbance that is also more complex than others. 
+
+
+{{< i s="/graphics/super/reality.svg" a="Waves" c="" >}}
+
+Having no perception is perceiving no disturbance and therefore no mind, rather the mind is in potential form. 
+
+Empty space has no nodes or few disturbances, while a rich galaxy has a lot of them. 
+
+The purpose of Existence is to go back to pure Existence where there we no disturbances by getting a flat wave. This means finding the flatness from all the disturbance.
+- The Abolute Entity is flat Existence. 
+- The Supreme Entity is disturbed Existence. 
+
+Our experience of reality is a small portion of all the disturbances in the aether. Physical reality is a crudified version of this aether. 
+
+The distubances are caused by 2 Forces of Positive and Negative. Free will and spirit is associated with the Positive. Determinism and force is associated with the Negative. 
+
+Life is an effect of the Positive Force and is real. It is physical reality that is an illusion. 
+
+
 

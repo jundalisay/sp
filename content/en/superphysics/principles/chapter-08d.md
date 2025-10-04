@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 10b"
+heading: "Chapter 8d"
 title: "Critical Thinking and Critical Feeling"
 date: 2023-12-08
 weight: 702

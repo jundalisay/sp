@@ -1,171 +1,219 @@
 ---
 heading: "Chapter 1c"
-title: "Vortices and Ideas"
-date: 2024-12-28
-# 2020-01-04
-weight: 14
-image: /graphics/super/waves.jpg
+title: "Four Wave Properties: Commonality, Density, Strength, Speed"
+date: 2025-10-04
+weight: 13
+image: /graphics/super/waveprops.jpg
 description: "Reality has 3 Operational Divisions"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
 ---
 
 
+The previous section explained how Existence is formed from waves in abstract spaces. This creates the current universe that is wave-based, as proven by:
+- electromagnetic waves
+- gravitational waves
+- gluon field in matter moving like waves
+- baryonic acoustic oscillations 
+- people with the same personality (mental vibration) being friends
+- etc
 
-The previous section explained how gaps between crude waves are filled with subtler waves in order to eliminate and Voids in Nature.
 
-In some areas, many waves intersect from various angles to create nodes. These acquire characteristics that are different from waves and become ideas.
-- Waves are feelings and forces or 'bosons'
-- Nodes are ideas and particles or 'fermions'
+The laws of Nature, from thermodynamics, the stages of life, and social cycles all show the wave properties of Existence which we can distill into 4:
 
-{{< i s="/graphics/super/waves.jpg" a="Waves and Nodes" >}}
+1. Continuous Commonality
 
+A metaphysical wave stretches is continuously like a line. This is different from a dot which is finite. 
 
-Simple ideas have a few intersecting waves, whereas complex ideas have a lot especially if those waves come from diverse angles. 
+This is why we say that the universe had no beginning and therefore no end.  
 
-This is why diversity is the law of Nature. 
 
-{{< q a="PR Sarkar" c="Ananda Sutram" >}}
-Diversity is the inherent tendency of the Supreme Operative Principle.
-{{< /q >}}
+2. Frequency or Density
 
-The collapse of Communism, and the decline of Japan and South Korea which are against foreign immigrants, show plainly the violation of diversity.  
+There are many waves in Nature. These can be bunched up creating more density and a richer Existence, or loosely spaced creating a blank Existence. 
 
-We attribute the chaos in ethnically diverse countries such as India to the violation of the hierarchy the 5 elements, where the crude material element is made to dominate the subtle aether element. 
 
-This happens when materialism through the lower chakras gains dominance over spirituality (aether) and intellect (radiant stratum) of the upper chakras.
+3. Strength or Amplitude
 
+A wave can have high amplitude as being loud and energetic, or a low amplitude as quiet and low energy. 
 
-## Life and Perception
 
-Nodes made up of crude waves become crude ideas which eventually become physical things. 
+4. Forward movement 
 
-As a physical thing becomes more complex, it naturally becomes larger and develops gaps.
-- These gaps need to be filled by the subtler waves until they form a subtle node in a larger crude node.
+A wave is a disturbance in a line that can travel fast or slow depending on its energy relative to external energies or other waves. 
 
-This becomes a simple mind in a physical organism as a living thing. 
 
-Therefore:
-- a physical thing is a large node made up of crude waves
-- a living mind is a large node made up of subtle waves 
+These 4 properties manifest as the laws and rules in Nature which we can distill as: commonality, density, strength, and speed.
 
-Perception occurs when these nodes of minds interact with each other and with other nodes as ideas or things. 
 
-A crude node gets perceptions as proven by its subsequent reactions to stimuli.
-- For example, a rock reacts to light to reflect it so that it can be seen.
+{{< i s="/graphics/super/waveprops.jpg" a="4 properties" >}}
 
-But since the crude node has no flexible subtle waves, it is very limited in its expressive ability. 
-- The rock can only express the light it encounters by bouncing it off as a specific color.
 
-A living node, as a physical organism, on the other hand, can express more since it has subtler and more flexible waves.  
-- For example, a bacteria can react to light by moving away from it, aside from reflecting it.
+## The 4 Rules of Motion in all Sciences
 
-<!-- Life begins at a material node that gets more and more complex. This opens up gaps in it that needs  -->
+Movement in physical space comes from space particles of the Air Element which Material Superphysics calls the Spatial Layer. Since space is made up of waves, as seen in gravitational waves, then the 4 properties of waves manifest as the 4 Rules of Motion as explained by Descartes and Spinoza.
 
-<!-- A perceiving mind within that Supreme Mind is also a disturbance, as a node, that encounters other disturbances.  -->
+### Rule 1: No Void
 
+> No identity moves into the place of another body unless at the same time that other body moves into the place of another identity.
 
+This is the most important rule as it also manifests in Biology.
 
-Cartesian Physics calls nodes as vortices. 
 
-{{< q a="Rene Descartes" c="Principia Philosophia, Part 3" >}}
-The Earth and the other planets are carried along by a common vortex, with the Sun at its center and move in the motion of the vortex.
-{{< /q >}}
+### Rule 2: Straight or Circular 
 
+> Every moving identity moves in a straight line when alone, and in a curve or a circle when moving with others. When in a circle, it moves away from the center.
 
-In a metaphysical view, everything is a vortex:
-- The vortices in cells are the DNA
-- The vortices in galaxies are their singularity
-- The vortices in stars and planets are their core
-- The vortices in matter are the gluon field in the proton
+### Rule 3: Collisions
 
+> When a weaker identity hits a stronger, it will be deflected. When a stronger hits a weaker, it will transfer some of its force to the weaker
 
-## Reality as a Metaphysical Structure that Collapses into Physicality
+### Rule 4: State Continuity
 
-Each node is made up of waves that interact with the waves that make up other nodes. 
+Each identity remains as much as it can always in the same state. It is never changed except by external causes.
 
-- Crude waves affect crude waves
-- Subtle waves affect both crude and subtle waves
 
-The different mix of crude and subtle in each node dictate which nodes they will react to, or what they will perceive
 
-- Crude nodes perceive crude nodes
-- Subtle nodes perceive subtle nodes by default, but can choose to perceive crude nodes due to the superiority of the subtle. 
+## The 4 Laws of Thermodynamics 
 
-The perception-relation between crude-crude and subtle-subtle leads to a relational structure that we call a reality. 
+We rearrange the law of thermodynamics to match the 4 properties of waves
 
-It means that a reality is a match of waves in the Perception Space mentioned in the previous section. 
+### 1. Temperature (0th Law): Common Thermal Equilibrium
 
-So we define reality as **a metaphysical structure that forms from the waves emanated by nodes or vortices impacting each other**.
+### 2. Conservation (1st Law): Energy changes forms
 
-This metaphysical structure collapses into physical reality when converted by the Physical Domain. This is consistent with Quantum Mechanics. 
+### 3. Absolute Zero (3rd Law): No radiation at absolute zero
 
-It follows that there is more than one reality, since a node or vortex is made up of so many waves with varying qualities. 
+### 4. Entropy (2nd Law): Hot radiates to Cold
 
+This will be explained in Material Superphysics
 
-{{< i s="/graphics/meta/er.jpg" a="ER Diagram" c="A reality is a the metaphysical structure created by the relations between entities. This is consistent with our description of Existence as a virtual reality system" >}}
 
+## The 4 Stages of Life 
 
+This is called Ashrama Dharma in Hinduism which we apply to all organic life and will be explained in Bio Superphysics.
 
-### Alternate Realities and the Multiverse
+### 1. Childhood
 
-This leads to the concept of alternate realities within the Perception Space.
+This is the lag phase for organisms, as seen in bacteria, as they adjust to their new environment
 
-A universe is a structure that extends actual reality into a potential reality 
 
-```
-Reality = Node 1 : Node 2
+### 2. Adolescence
 
-Universe = Actual Reality + Potential Reality
-```
+This is the rapid growth stage after the organisms after they adjust to their environment
 
-Note how this definition of reality and universe are perception-based which ultimately is mind-based. 
+### 3. Adulthood
 
-Crude minds cannot perceive subtle minds, but subtle minds can perceive both subtle and crude minds. 
+Growth slows down
 
-This allows alternate realities and other universes -- we only perceive our own universe because the nodes in this universe match our own mental waves.
+### 4. Old age
 
-```
-Reality A = Node 1A : Node 2A
-Reality B = Node 1B : Node 2B
-Reality C = Node 1C : Node 2C
+Organism declines as its spirit moves on
 
-Universe A = Node 1Aa : Node 2Aa
-Universe B = Node 1Ab : Node 2Ab
-Universe C = Node 1Ac : Node 2Ac
-```
 
-An alternate reality needs a slight modification in wave quality, but a diferent universe needs a more drasttic modificiation. 
+## The 4 Social Cycles of Socrates
 
-Alternate realities are in the same universe. But different universes are in a single Existence, as Existence Space.
+This is the same as the Varnashrama system in the Vedas except that they are dynamic and not static. 
 
+### 1. Worker (Democrat or Liberal)
 
-## A Richer Reality Has More Diversity; The Goal of Existence
+The society starts, requiring hard work
 
-The previous section explained that the base of Existence is the possibility of having disturbances. 
 
-We can say that reality is when those disturbances actually occur and perceived by us. 
+### 2. Warrior (Tyrant or Military)
 
-A richer reality-perception therefore is made up of multiple waves of disturbance hitting a disturbance that is also more complex than others. 
+The society gets strong leadership and stabilizes.
 
 
-{{< i s="/graphics/super/reality.svg" a="Waves" c="" >}}
+### 3. Thinker (Aristocracy or Intellecuals)
 
-Having no perception is perceiving no disturbance and therefore no mind, rather the mind is in potential form. 
+The society develops its civilized culture and philosophies.
 
-Empty space has no nodes or few disturbances, while a rich galaxy has a lot of them. 
+### 4. Trader (Oligarchy or Merchants)
 
-The purpose of Existence is to go back to pure Existence where there we no disturbances by getting a flat wave. This means finding the flatness from all the disturbance.
-- The Abolute Entity is flat Existence. 
-- The Supreme Entity is disturbed Existence. 
+The society gets rich through trade and soon degenerates.
 
-Our experience of reality is a small portion of all the disturbances in the aether. Physical reality is a crudified version of this aether. 
+These will be explained by Social Superphysics.
 
-The distubances are caused by 2 Forces of Positive and Negative. Free will and spirit is associated with the Positive. Determinism and force is associated with the Negative. 
 
-Life is an effect of the Positive Force and is real. It is physical reality that is an illusion. 
 
+## The 4 Laws of Value of Supereconomics 
 
+These are based on Book 4 of Adam Smith's Wealth of Nations where he explains the sustainable flow of capital and wealth.
 
+### 1. Everything has Value (Worker)
+
+Violations of this law lead to the Poverty Cycle, inequality, unemployment
+
+### 2. Value is Created to Remove Lack
+
+Violations of this law lead to Asset price bubbles and job-skill mismatch
+
+### 3. There must be balance in the creation and spread of value
+
+Violations of this law lead to moral hazard and excess capacity 
+
+### 4. Value is transferred through fair exchange
+
+Violations of this law lead to inflation or recessions.
+
+These will be explained by Supereconomics.
+
+
+
+
+## The 4 Laws Branches of Government  
+
+These are from the 4 cycles of Socrates which we establish as the 4 branches of government, as an upgrade to the current systems which only have 3 branches. These will be explained by Supersociology.
+
+### 1. Legislative (Father)
+
+This handles the creation of the laws according to the Constitution
+
+### 2. Executive (Father)
+
+This handles the execution of the laws
+
+### 3. Judicial (Mother)
+
+This is settles the interpretion of the laws. 
+
+### 4. Resource (Mother)
+
+This is handles the budget and allocation of resources.
+
+
+
+## The 4 Spiritual Paths
+
+These are the 4 ways towards the Absolute Entity via the Supreme Entity. These will be explained by Spiritual Superphysics.
+
+### 1. Karma (Action)
+
+This is experiencing the Supreme through action and reaction 
+
+### 2. Raja (Discipline)
+
+This is experiencing the Supreme through rigid discipline and austerity
+
+### 3. Jnana (Intellect)
+
+This is experiencing the Supreme through intellect, research, and reasoning
+
+### 4. Bhakti (Devotion or Love)
+
+This is experiencing the Supreme through devotion and love.
+
+
+
+We can summarize these as follows:
+
+
+**Property** | Motion | Heat | Life | Economy | Govt | Spirit
+--- | --- | --- | --- | --- | --- | --- 
+**Commonality** | No Void | Temperature | Child | Nominal | Legislative | Action
+**Density** | Spin | Conservation | Adolescent | Real | Executive |Discipline 
+**Strength** | Collision | Zero | Adult | Natural | Judiciary | Intellect
+**Speed** | Inertia | Entropy | Elderly | Market | Resources | Love

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2"
-title: "The Five Elements of Reality"
+title: "The 5 Elements of Reality"
 # date: 2015-09-09
 date: 2020-12-03
 # 2020-01-04
