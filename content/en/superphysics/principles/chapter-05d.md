@@ -9,9 +9,19 @@ icon: "Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /superphysics/principles/idea  
 ---
+
+
+Chapter 5b explained how ideas are nodes created by the intersection of various waves which are thought-projections of the Supreme Entity. 
+
+Richer nodes have waves coming from different directions. 
+
+When bunched up together, this mass of waves ceates a regular pattern that we call a shape. 
+
+For example, 3 waves intersect creates a spatial hexagon or a linear triangle.
+
+{{< i s="/graphics/super/hex.jpg" a="Hex" >}}
+
 
 
 Some Taoist schools say that it does not matter whether the Yin-Yang symbol is shown in a clockwise or counter-clockwise direction. We say that it *does* matter. The symbol should always be in a **counterclockwise or Positive direction**. 
