@@ -120,8 +120,9 @@ The differences in the nature of idea and feeling, as nodes versus waves, leads 
 1. The connection of ideas as simple thoughts and compound beliefs
 2. The geometry of ideas
 3. Mental configuration as personality
-4. Samskara that batters the mind into a personality
-5. Truth checking as dharma
+4. The Conservation of Idea
+5. Samskara that batters the mind into a personality
+6. Truth checking as dharma
 
 
 <!-- These ideas and feelings are all made up of the positive and negative aspects. This is similar to:

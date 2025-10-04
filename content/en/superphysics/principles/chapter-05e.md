@@ -19,20 +19,36 @@ Each Idea is Unique | Movement Comes from the Objects Preserving their Uniquenes
 {{< /dc >}}
 
 
+Chapter 1 explained the Existence began when the Absolute Entity destabilized Itself to create waves of ideas which transformed It into the Supreme Entity. 
 
-The previous chapter explained how everything in Existence begins as either an idea or feeling in the metaphysical domain which then crosses over onto the physical domain as physical reality. 
+This Existence Itself is an idea of the Consciousness of the Absolute, leading to Existence-Consciousness or the Supreme Entity.
 
-Everything in the physical domain has a metaphysical counterpart as its origin. We can say that the physical is the effect of the metaphysical. This is also why the metaphysical is superior to the physical. 
+This Existence-Idea has subideas within It as universes, dimensions, densities, etc. according to the pyramid or tetrahedral structure of the compound ideas and simple ideas. 
 
-All of Physics is dominated by:
-- the Law of Conservation of Mass
-- the Law of Conservation of Energy.
 
-These state that:
-- mass and energy cannot be created nor destroyed, and
-- all processes are transformations of mass and energy.  
 
-<!-- Antoine Lavoisier 1789.  -->
+## Unity Leading to Conservation Leading to Constants
+
+Since there is no Void within the idea of Existence, one change in a part of Existence will necessarily affect the other parts. 
+
+This is similar to Brownian motion where a change in one particle affects all others next to it, and then those particles affect those next to them. 
+
+{{< i s="/graphics/physics/brown.gif" a="Brownian Motion" >}}
+
+This one particle affecting others is now known as the Law of Conservation of Momentum which is a conservation law.
+
+Rene Descartes first proposed conservation as preservation by Nature, leading to the Laws of Nature:
+
+
+{{< q a="Rene Descartes" c="The World, Chapter 7" >}}
+"Nature" here means the aether itself, assuming that God continues to preserve it in the same way that He created it. There are many changes in the aethereal particles that are not caused by the action of God. This means that those changes are from nature as the aether itself. 
+- It follows that God continues to preserve the aether. 
+- The rules on how the changes in the aether take place I call the "Laws of Nature"
+{{< /q >}}
+
+
+{{< youtube z6POnNI22ks >}}
+
 
 Likewise, all of Superphysics is dominated by what we call **The Law of Conservation of Idea**. This states that all ideas:
 - already pre-exist

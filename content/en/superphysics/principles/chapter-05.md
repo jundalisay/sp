@@ -29,6 +29,12 @@ This is matched by the upward climb of understanding from the Positive, creating
 
 In other words, a thing can travel from idea downwards to matter, just as matter can travel upwards back to idea as the cycle of creation.
 
+
+{{< q a="Schopenhauer" c="The World As Will And Idea, Article 52" >}}
+Our world is nothing but the manifestation of the Ideas in multiplicity.
+{{< /q >}}
+
+
 For instance, we sometimes perceive something totally new. 
 
 When Covid first struck in December 2019 in Wuhan, doctors had no metaphysical idea of it, even if they could see the physical disease.
