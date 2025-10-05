@@ -13,24 +13,54 @@ description: "Book 3 of The Heavens by Aristotle Simplified"
 
 What bodies are subject to generation, and why?
 
-Since in every case knowledge depends on what is primary, and the elements are the primary constituents of bodies, we must ask which of such bodies are elements, and why.
+Knowledge depends on what is primary.
 
-After that what is their number and character. The answer will be plain if we first explain what kind of substance an element is.
+The elements are the primary constituents of bodies.
 
-An element, we take it, is a body into which other bodies may be analysed, present in them potentially or in actuality (which of these, is still disputable), and not itself divisible into bodies different in form. 
+Which of such bodies are elements, and why?
 
-That, or something like it, is what all men in every case mean by element. Now if what we have described is an element, clearly there must be such bodies. 
+What is their number and character?
 
-For flesh and wood and all other similar bodies contain potentially fire and earth, since one sees these elements exuded from them; and, on the other hand, neither in potentiality nor in actuality does fire contain flesh or wood, or it would exude them.
+ <!-- The answer will be plain if we first explain what kind of substance an element is. -->
 
-Similarly, even if there were only one elementary body, it would not contain them. For though it will be either flesh or bone or something else, that does not at once show that it contained these in potentiality: the further question remains, in what manner it becomes them.
+An element is a body which is:
+- use to analyze other bodies
+- present in other bodies potentially or in actuality
+- not divisible into bodies different in form. 
 
-Now Anaxagoras opposes Empedocles' view of the elements. Empedocles says that fire and earth and the related bodies are elementary bodies of which all things are composed; but this Anaxagoras denies. 
+Flesh and wood and all other similar bodies contain potentially fire and earth.
 
-His elements are the homoeomerous things, viz. flesh, bone, and the like. Earth and fire are mixtures, composed of them and all the other seeds, each consisting of a collection of all the homoeomerous bodies, separately invisible; and that explains why from these two bodies all others are generated. 
+We see these elements exuded from those bodies.
 
-(To him fire and aither are the same thing.) But since every natural body has it proper movement, and movements are either simple or mixed, mixed in mixed bodies and simple in simple, there must obviously be simple bodies; for there are simple movements. It is plain, then, that there are elements, and why.
+Neither in potentiality nor in actuality does fire contain flesh or wood, or it would exude them.
 
+Even if there were only one elementary body, it would not contain them. 
+
+For though it will be either flesh or bone or something else, that does not at once show that it contained these in potentiality.
+
+How does the one element become bodies?
+
+Anaxagoras opposes Empedocles' view of the elements. 
+
+Empedocles says that fire and earth are elementary bodies that makes up all things.
+
+Anaxagoras rejects this. 
+
+His elements are the homoeomerous things, viz. flesh, bone, and the like. 
+
+Earth and fire are mixtures, composed of them and all the other seeds.
+
+Each consisting of a collection of all the homoeomerous bodies, separately invisible.
+
+This is why all others are generated from fire and earth. 
+
+To him, fire and aether are the same thing.
+
+But since every natural body has it proper movement, and movements are either simple or mixed, mixed in mixed bodies and simple in simple, there must obviously be simple bodies.
+
+For there are simple movements. 
+
+<!-- It is plain, then, that there are elements, and why. -->
 
 
 ## Part 4
@@ -83,9 +113,13 @@ The exposition is not clear, but this is its real meaning. And further, they say
 
 But they have never explained in detail the shapes of the various elements, except so far to allot the sphere to fire. Air, water, and the rest they distinguished by the relative size of the atom, assuming that the atomic substance was a sort of master-seed for each and every element. 
 
-Now, in the first place, they make the mistake already noticed. The principles which they assume are not limited in number, though such limitation would necessitate no other alteration in their theory. 
+They make the mistake already noticed. 
 
-Further, if the differences of bodies are not infinite, plainly the elements will not be an infinity. Besides, a view which asserts atomic bodies must needs come into conflict with the mathematical sciences, in addition to invalidating many common opinions and apparent data of sense perception. But of these things we have already spoken in our discussion of time and movement.
+The principles which they assume are not limited in number, though such limitation would necessitate no other alteration in their theory. 
+
+If the differences of bodies are not infinite, plainly the elements will not be an infinity. 
+
+Besides, a view which asserts atomic bodies must needs come into conflict with the mathematical sciences, in addition to invalidating many common opinions and apparent data of sense perception. But of these things we have already spoken in our discussion of time and movement.
 
 They are also bound to contradict themselves. For if the elements are atomic, air, earth, and water cannot be differentiated by the relative sizes of their atoms, since then they could not be generated out of one another. 
 
@@ -93,4 +127,5 @@ The extrusion of the largest atoms is a process that will in time exhaust the su
 
 The atoms differ in figure, and all figures are composed of pyramids, rectilinear the case of rectilinear figures, while the sphere has eight pyramidal parts. The figures must have their principles, and, whether these are one or two or more, the simple bodies must be the same in number as they.
 
-Again, if every element has its proper movement, and a simple body has a simple movement, and the number of simple movements is not infinite, because the simple motions are only two and the number of places is not infinite, on these grounds also we should have to deny that the number of elements is infinite.
+If every element has its proper movement, and a simple body has a simple movement, and the number of simple movements is not infinite, because the simple motions are only two and the number of places is not infinite, on these grounds also we should have to deny that the number of elements is infinite.
+

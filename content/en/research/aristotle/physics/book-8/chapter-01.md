@@ -110,7 +110,11 @@ So if the motion was not always in process, it is clear that they must have been
 
 It follows then, that there will be a process of change previous to the first.
 
-Further, how can there be any ‘before’ and ‘after’ without the existence of time? Or how can there be any time without the existence of motion? If, then, time is the number of motion or itself a kind of motion, it follows that, if there is always time, motion must also be eternal. But so far as time is concerned we see that all with one exception are in agreement in saying that it is uncreated: in fact, it is just this that enables Democritus to show that all things cannot have had a becoming: for time, he says, is uncreated. Plato alone asserts the creation of time, saying that it had a becoming together with the universe, the universe according to him having had a becoming.
+Further, how can there be any ‘before’ and ‘after’ without the existence of time? Or how can there be any time without the existence of motion? If, then, time is the number of motion or itself a kind of motion, it follows that, if there is always time, motion must also be eternal. 
+
+But so far as time is concerned we see that all with one exception are in agreement in saying that it is uncreated: in fact, it is just this that enables Democritus to show that all things cannot have had a becoming: for time, he says, is uncreated. 
+
+Plato alone asserts the creation of time, saying that it had a becoming together with the universe, the universe according to him having had a becoming.
 
 Since time cannot exist and is unthinkable apart from the moment, and the moment a kind of middle-point, uniting as it does in itself both a beginning and an end, a beginning of future time and an end of past time, it follows that there must always be time: for the extremity of the last period of time that we take must be found in some moment, since time contains no point of contact for us except the moment. Therefore, since the moment is both a beginning and an end, there must always be time on both sides of it. But if this is true of time, it is evident that it must also be true of motion, time being a kind of affection of motion.
 

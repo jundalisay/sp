@@ -28,39 +28,28 @@ been excluded from our consideration, and had to be excluded,
 for in the systematic connection of our exposition there was no
 fitting place for it—I mean music.  -->
 
-Music stands alone, quite cut off
-from all the other arts. In it we do not recognise the copy or
-repetition of any Idea of existence in the world. Yet it is such a
-great and exceedingly noble art, its effect on the inmost nature of
-man is so powerful, and it is so entirely and deeply understood
-by him in his inmost consciousness as a perfectly universal
-language, the distinctness of which surpasses even that of the
-perceptible world itself, that we certainly have more to look[331]
-for in it than an exercitum arithmeticæ occultum nescientis se
-numerare animi,62 which Leibnitz called it. Yet he was perfectly
-right, as he considered only its immediate external significance,
-its form. But if it were nothing more, the satisfaction which it
-affords would be like that which we feel when a sum in arithmetic
-comes out right, and could not be that intense pleasure with which
-we see the deepest recesses of our nature find utterance. From
-our standpoint, therefore, at which the æsthetic effect is the
-criterion, we must attribute to music a far more serious and
-deep significance, connected with the inmost nature of the world
-and our own self, and in reference to which the arithmetical
-proportions, to which it may be reduced, are related, not as the
-thing signified, but merely as the sign. That in some sense music
+Music stands alone cut off from all the other arts. 
+
+In music, we do not recognise the copy or repetition of any Idea of existence in the world. 
+
+Yet it is such a great and exceedingly noble art, its effect on the inmost nature of man is so powerful, and it is so entirely and deeply understood by him in his inmost consciousness as a perfectly universal language, the distinctness of which surpasses even that of the perceptible world itself, that we certainly have more to look for in it than an exercitum arithmeticæ occultum nescientis se numerare animi,62 which Leibnitz called it.
+
+Yet he was perfectly right, as he considered only its immediate external significance, its form. But if it were nothing more, the satisfaction which it affords would be like that which we feel when a sum in arithmetic comes out right, and could not be that intense pleasure with which we see the deepest recesses of our nature find utterance.
+
+From our standpoint, therefore, at which the æsthetic effect is the criterion, we must attribute to music a far more serious and deep significance, connected with the inmost nature of the world and our own self, and in reference to which the arithmetical proportions, to which it may be reduced, are related, not as the thing signified, but merely as the sign.
+
+That in some sense music
 must be related to the world as the representation to the thing
 represented, as the copy to the original, we may conclude from
 the analogy of the other arts, all of which possess this character,
 and affect us on the whole in the same way as it does, only
 that the effect of music is stronger, quicker, more necessary and
-infallible. Further, its representative relation to the world must
+infallible. 
+
+Its representative relation to the world must
 be very deep, absolutely true, and strikingly accurate, because it
 is instantly understood by every one, and has the appearance of a
-certain infallibility, because its form may be reduced to perfectly
-62 Leibnitii epistolæ, collectio Kortholti, ep. 154.
-335
-definite rules expressed in numbers, from which it cannot free
+certain infallibility, because its form may be reduced to perfectly definite rules expressed in numbers, from which it cannot free
 itself without entirely ceasing to be music. Yet the point of
 comparison between music and the world, the respect in which
 it stands to the world in the relation of a copy or repetition,
@@ -68,6 +57,7 @@ is very obscure. Men have practised music in all ages without
 being able to account for this; content to understand it directly,
 they renounce all claim to an abstract conception of this direct
 understanding itself.
+
 I gave my mind entirely up to the impression of music in all its [332]
 forms, and then returned to reflection and the system of thought
 expressed in the present work, and thus I arrived at an explanation
@@ -76,7 +66,9 @@ relation to the world—which from analogy had necessarily to
 be presupposed—an explanation which is quite sufficient for
 myself, and satisfactory to my investigation, and which will
 doubtless be equally evident to any one who has followed me
-thus far and has agreed with my view of the world. Yet I
+thus far and has agreed with my view of the world. 
+
+Yet I
 recognise the fact that it is essentially impossible to prove this
 explanation, for it assumes and establishes a relation of music, as
 idea, to that which from its nature can never be idea, and music
@@ -88,7 +80,9 @@ the explanation of the marvellous art of music which satisfies
 myself, and I must leave the acceptance or denial of my view
 to the effect produced upon each of my readers both by music
 itself and by the whole system of thought communicated in this
-work. Moreover, I regard it as necessary, in order to be able to
+work. 
+
+I regard it as necessary, in order to be able to
 assent with full conviction to the exposition of the significance
 of music I am about to give, that one should often listen to music
 with constant reflection upon my theory concerning it, and for
@@ -96,15 +90,10 @@ this again it is necessary to be very familiar with the whole of
 my system of thought.
 
 The (Platonic) Ideas are the adequate objectification of will.
-To excite or suggest the knowledge of these by means of the
-representation of particular things (for works of art themselves
-are always representations of particular things) is the end of all
-the other arts, which can only be attained by a corresponding
-change in the knowing subject. Thus all these arts objectify the
-will indirectly only by means of the Ideas; and since our world is
-nothing but the manifestation of the Ideas in multiplicity, though[333]
-their entrance into the principium individuationis (the form of
-the knowledge possible for the individual as such), music also,
+
+To excite or suggest the knowledge of these by means of the representation of particular things (for works of art themselves are always representations of particular things) is the end of all the other arts, which can only be attained by a corresponding change in the knowing subject. Thus all these arts objectify the will indirectly only by means of the Ideas;
+
+Since our world is nothing but the manifestation of the Ideas in multiplicity, though their entrance into the principium individuationis (the form of the knowledge possible for the individual as such), music also,
 since it passes over the Ideas, is entirely independent of the
 phenomenal world, ignores it altogether, could to a certain extent
 exist if there was no world at all, which cannot be said of the other

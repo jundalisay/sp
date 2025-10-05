@@ -155,6 +155,16 @@ For example, as a species, it would be better to focus on solutions to global wa
 <!-- The next chapter will explain the nature of ideas, which are the main objects in the metaphysical domain.  -->
 
 
+## So what's the use of the 2 domains?
+
+The 2 domains frees up the limitation of beliefs which includes:
+- materialist sciences as belief in physical evidence, by allowing metaphysical evidence
+- religion by replacing the definition of (Anunnaki) God into the (metaphysical) Supreme Entity which is far more permissive
+- philosophy by establishing critical thinking and critical feeling
+- mysticism by enshrining the superiority of the metaphysical domain   
+- politics and social change and freeing up people from the rigid patterns of tyranny, capitalism or communism
+- life events by freeing up the heart from the impositions from parents, society, employment, etc.  
+
 
 ## Concepts Emerging from the 2 Domains
 
