@@ -12,18 +12,23 @@ writer:
 ---
 
 
-When Karl Marx, the most consistent translator of the altruist morality
-into practical action and political theory, advocated a society where all would be
-sacrificed to all, starting with the immediate immolation of the able, the
-intelligent, the successful and the wealthy—whatever opposition he did
-encounter, nobody opposed him on moral grounds. Predominantly, he was
-granted the status of a noble, but impractical, idealist.
+Karl Marx was the most consistent translator of the altruist morality into practical action and political theory.
+
+He advocated a society where all would be sacrificed to all through the immediate immolation of the able, the intelligent, the successful and the wealthy.
+
+<!-- —whatever opposition he did
+encounter, nobody opposed him on moral grounds.  -->
+
+He was granted the status of a noble, but impractical, idealist.
+
 The great treason of the philosophers was that they, the thinkers, defaulted on
 the responsibility of providing a rational society with a code of rational morality.
+
 They, whose job it was to discover and define man’s moral values, stared at the
 brilliant torrent of man’s released energy and had nothing better to offer for its
 guidance than the Witch Doctor’s morality of human sacrifices—of self-denial,
 self-abasement, self-immolation—of suffering, guilt and death.
+
 The failure of philosophers to challenge the Witch Doctor’s morality, has cost
 them their kingdom: philosophy. The relationship of reason and morality is
 reciprocal: the man who accepts the role of a sacrificial animal, will not achieve

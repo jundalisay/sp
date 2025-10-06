@@ -103,9 +103,9 @@ It will not occur to them, or to anyone, so long as the concept “rational” i
 
 Objectivist ethics proudly advocates and upholds rational selfishness. 
 
-Rational selfishness is made up of:
-- the values required for man’s survival qua man.
-- the values required for human survival
+Rational selfishness is made up of the values required for human survival.
+<!-- - the values required for man’s survival qua man. -->
+ 
 
 Irrational brutes:
 - have never outgrown the primordial practice of human sacrifices

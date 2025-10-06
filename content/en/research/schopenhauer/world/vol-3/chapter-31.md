@@ -1,37 +1,42 @@
-Chapter XXXI.11 On Genius.
+---
+heading: Chapter 31
+title: "Genius"
+description: ""
+weight: 8
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
 
-11 This chapter is connected with § 36 of the first volume.
 
-What is properly denoted by the name genius is the predominat-
-ing capacity for that kind of knowledge which has been described
-in the two preceding chapters, the knowledge from which all gen-
-uine works of art and poetry, and even of philosophy, proceed.
-Accordingly, since this has for its objects the Platonic Ideas, and
-these are not comprehended in the abstract, but only perceptibly,
-the essence of genius must lie in the perfection and energy of
-the knowledge of perception. Corresponding to this, the works
-which we hear most decidedly designated works of genius are
-those which start immediately from perception and devote them-
-selves to perception; thus those of plastic and pictorial art, and
-then those of poetry, which gets its perceptions by the assistance
-of the imagination. The difference between genius and mere
-talent makes itself noticeable even here. For talent is an excel-
-lence which lies rather in the greater versatility and acuteness of
-discursive than of intuitive knowledge. He who is endowed with
-talent thinks more quickly and more correctly than others; but
-the genius beholds another world from them all, although only
-because he has a more profound perception of the world which
-lies before them also, in that it presents itself in his mind more
-objectively, and consequently in greater purity and distinctness. [139]
-The intellect is, according to its destination, merely the medi-
-um of motives; and in accordance with this it originally com-
-prehends nothing in things but their relations to the will, the
-direct, the indirect, and the possible. In the case of the brutes,
-where it is almost entirely confined to the direct relations, the
-matter is just on that account most apparent: what has no relation
-to their will does not exist for them. Therefore we sometimes
-see with surprise that even clever animals do not observe at
-all something conspicuous to them; for example, they show no surprise at obvious alterations in our person and surroundings.
+This chapter is connected with Chapter 36 of Volume 1.
+
+Genius is the predominating capacity for knowledge that generates genuine:
+
+1. art, poetry
+2. philosophy
+
+This has the Platonic Ideas for its objects.
+
+These are not comprehended in the abstract, but only perceptibly.
+
+The essence of genius is in the perfection and energy of the knowledge of perception.
+
+The works of genius are those which start immediately from perception and devote themselves to perception.
+
+Thus those of plastic and pictorial art, and then those of poetry, which gets its perceptions by the assistance
+of the imagination. 
+
+The difference between genius and mere talent makes itself noticeable even here. 
+
+For talent is an excellence which lies rather in the greater versatility and acuteness of discursive than of intuitive knowledge. 
+
+He who is endowed with talent thinks more quickly and more correctly than others; but the genius beholds another world from them all, although only because he has a more profound perception of the world which lies before them also, in that it presents itself in his mind more objectively, and consequently in greater purity and distinctness.
+
+The intellect is, according to its destination, merely the medium of motives.
+
+It originally comprehends nothing in things but their relations to the will, the direct, the indirect, and the possible. In the case of the brutes, where it is almost entirely confined to the direct relations, the matter is just on that account most apparent: what has no relation to their will does not exist for them. Therefore we sometimes see with surprise that even clever animals do not observe at all something conspicuous to them; for example, they show no surprise at obvious alterations in our person and surroundings.
 
 In the case of normal men the indirect, and even the possible,
 relations to the will are added, the sum of which make up the

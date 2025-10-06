@@ -21,39 +21,157 @@ This is best explained by Karl Marx.
 The mode of production of material life conditions the process of social, political and intellectual life. It is not the consciousness of men that determines their existence, but their social existence that determines their consciousness. 
 {{< /q >}}
 
+
 This makes the physical domain superior to the metaphysical, which is opposite of the actual order of Nature. 
 
-We call this the materialist perspective, as the opposite of the spiritual which correctly regards the metaphysical as superior. 
+We call this the materialist perspective, as the opposite of the spiritual which correctly regards the metaphysical as superior.
 
-This is echoed by Democritus
-
-
-
-This wrong order is caused by the dominance of the Negatrive Force, which is common among Westerners. 
-
-Both materaial
-Westerm civilization is 
-
-
-
-Consciousness comes from the brain
+- The materialist is rigidly objective. He wants everyone to adhere to a strict and precise system just as Physics is very strict and precise. 
+- The spiritual or natural is flexibly subjective. He wants everyone to be themselves and adjust to each other's quirks just as how plants and animals must adapt to each other and to the changing weather. 
 
 
 
 ## The Materialist Mentality
 
+The materialist mirrors the qualities of the Negative Force as being forceful, rigid, static, and selfish.
 
-The NEgative Force is 
+This is beceause the main duty of the Negative is to divide and isolate in order to focus perceptions into a single point of Existence that preserves **itself**, just as the Positive is subtle, expansive, dynamic, unifying, and all-embracing to spread perception to all of Existence to preserve **all**. This will be explained in Chapter 3.
 
-they have to revert to God's will or Mystery
+In other words:
+- materialists are selfish and specialization or thinking in silos
+- the spiritual are selfless and holistic thinking or interdisciplinary
 
 
-{{< i s="/graphics/physics/bigbang.jpg" a="Big Bang" c="" >}}
+This materialist selfishness is echoed by Ayn Rand, the Objectivist:
 
-{{< i s="/graphics/physics/bootup.jpg" a="Big Bang" c="" >}}
+{{< q a="Ayn Rand" c="Critique of Political Economy, Preface" >}}
+Objectivist ethics proudly advocates and upholds rational selfishness. Rational selfishness is made up of the values required for human survival.
+{{< /q >}}
 
-## So what's the use of exposing the materialist view?
 
-Many people have been  indoctrinated by the Western education system into 
+This materialist-selfish-objectivism is most obvious in Economics as the fight between materialist Capitalism versus materialist Communism (Marxism is dialectical materialism). 
 
-Materialist beliefs will help them  
+However, the Negative materialist thinking also infests the other sciences:
+
+Science | Negativity
+--- | ---
+Physics | Shut up and calculate (ignore metaphysical causes)
+Medicine | Material Pharmaceuticals with side effects (ignore bio-metaphysical causes)
+Politics | Get numerical votes (ignore socio-metaphysical causes)
+Biology | Darwinism Survival of the Fittest (ignore metaphysical symbiosis)
+Psychology | Consciousness from the material brain (ignore metaphysical symbiosis)
+
+
+
+## The Negative Leads to Microscope Thinking 
+
+The Negative force focuses on extracting information from a single point or small part of Existence to the exclusion of the rest of Existence. This is like microscope or telescope thinking. 
+
+{{< i s="/photos/objects/zoom.jpg" a="Zoom" c="The Positive looks at the whole picture, like the view on the left. The Negative looks only at details, like the view on the right" >}}
+
+
+This microsope thinking discards the information around and beyond the focus. This is why it is ignorant of what is happening around the focus.
+
+- In Economics, this manifests as the focus on sheer GDP increase, ignoring other socio-economic metrics
+- In Business, this manifests as focusing on sheer profitability, ignoring the unprofitable inputs or factors that indirectly supports that profitability
+- In Physics, this manifests as focusing on theories that sound good on paper, but are useless in reality
+- In Medicine, this manifests as harmful medicine that gets rids of symptoms but creates a guaranteed health decline 
+
+Blind focus or too rigid thinking often leads to failure.  
+
+
+## Materialist Pegs Causes to Chance or to Mystery 
+
+If the focus is the effect, then the materialist-microscope thinking stays ignorant of the causes around it. 
+
+This ignorance of causes is why materialists peg the root causes:
+- to blind chance or pronbability (to make it sound scientific) if they are non religious
+- to a mysterious God if they are religious
+
+
+In Physics this is best seen in the Heisenberg Uncertainty Principle. 
+
+{{< q a="Werner Heisenberg" c="Physics and Philosophy, Chapter 3" >}}
+This deficiency of knowledge is expressed in the probability function.
+{{< /q >}}
+
+This ignorance of root causes fills Physics the most as ignorance-words, just as the ignorance in Economics leads to crisis-effects.
+
+Word | Implies
+--- | ---
+Singularity | Ignorance on what exactly is at the center of the Big Bang or black holes
+Dark Energy | Ignorance on what exactly is expanding the universe
+Dark Matter | Ignorance on what exactly keeps galaxies together
+Graviton | Ignorance on what exactly causes gravity as to allow anti gravity
+
+
+## The Fallacy of the Big Bang 
+
+This ignorance is best seen in the Big Bang which includes such ignorance-words like singularity, dark energy, and dark matter. 
+
+{{< i s="/graphics/physics/bigbang.jpg" a="Big Bang" c="The materialist view is full of void and makes the metaphysical as imaginary and insignificant" >}}
+
+The error of this paradigm is that it assigns a material start, as a material primeval atom, and end, as a material heat death, as if ideas have a start and end in metaphysicality.
+
+The fallacy of the Big Bang is abundantly proven by the recent findings:
+
+Finding | Source
+--- | ---
+Hubble Tension | Planck Satellite and James Webb Space Telescope
+Massive 'Early' Galaxies | James Webb Space Telescope
+Cosmological lithium problem in 'Older' Stars | Very Large Telescope Chile
+
+
+
+## The Correct Natural View of the Universe
+
+The correct natural holistic view of the universe is to think of it as infinite and eternal. 
+
+
+{{< q a="Aristotle" c="The Heavens, Book 1, Chapter 10" >}}
+The universe cannot be at once eternal and generated. To say that the universe alternately combines and dissolves is no more paradoxical than to make it eternal but varying in shape.
+{{< /q >}}
+
+
+The universe and reality are based on perception as the unit mind being within the Supreme Mind. This leads to:
+- the malleability of space as teleportation
+- the malleability of time as time travel
+- customization of reality as alternate realities
+
+{{< i s="/graphics/physics/bootup.jpg" a="Big Bootup" c="The natural view has no void or existential gaps in perception" >}}
+
+
+The materialist view of the universe belittles the metaphysical domain and treats it as insignificant, while enshrining the physical domain of physical sensations. 
+
+The natural or spiritual view of the universe, on the other hand:
+- downplays physicality, calling it as an illusion
+- give suprme emphasis on the metaphysical domain, specifically on the Supreme Entity that generates Existence
+
+
+
+## So What's the Use of Exposing the Materialist View?
+
+The materialist view is currently being pushed by the Western education system that focuses on thinking instead of feeling.
+
+For example, critical thinking is taught, but no one has ever heard of criitical feeling. 
+
+This is why the Western Civilization has consistently collapsed, as seen in the Fall of Rome, or declined, as seen in the current decline of the West under the rise of China and India. 
+
+Identifying materialism in beliefs lets people pinpoint the components that might endanger the sustainability of things.
+
+For example:
+- money problems often cause the breakup of relationships or marriages or families
+- conflicting material territorial claims can lead to real conflict instead of harmony
+- overfocus on rigid goals instead of looking at the big picture can cause conflict or decline in organizations 
+
+
+Identifying materialism in the sciences lets people think outside the box for better and more natural solutions.
+
+Science | Metaphysical Upgrade
+--- | ---
+Physics | Adopt the aether to allow anti-gravity, and relationality to downplay Heisenberg's Uncertainty Principle
+Medicine | Adopt the aether to allow Ayurveda, Chinese Medicine, Naturopathy for more diverse cures
+Politics | Adopt the aether to harmonize minds and political parties based on core idea
+Biology | Adopt the aether as Lamarckism willpower as the cause for change and evolution (i.e. we can will a harmonized world)
+Psychology | Adopt the aether, as Descartes animal spirits or Taoist chi, as the cause of behavior to better create behavior change
+

@@ -14,40 +14,64 @@ icon: "Einstein"
 
 ### 1. Definition of Simultaneity
 
-Let us take a system of co-ordinates in which the equations of Newtonian mechanics hold good.2 
+Let us take a system of co-ordinates, as a "stationary system" in which the equations of Newtonian mechanics hold good.2 
 
-In order to render our presentation more precise and to distinguish this system of co-ordinates verbally from others which will be introduced hereafter, we call it the “stationary system.” 
+<!-- In order to render our presentation more precise and to distinguish this system of co-ordinates verbally from others which will be introduced hereafter, we call it the “.”  -->
 
-If a material point is at rest relatively to this system of co-ordinates, its position can be defined relatively thereto by the employment of rigid standards of measurement and the methods of Euclidean geometry, and can be expressed in Cartesian co-ordinates.
+A material point is at rest relatively to this system of coordinates.
 
-If we wish to describe the motion of a material point, we give the values of its co-ordinates as functions of the time.
+Its position can be defined relatively through:
+- rigid standards of measurement and
+- the methods of Euclidean geometry
 
-A mathematical description of this kind has no physical meaning unless we are quite clear as to what we understand by “time.”
+This can be expressed in Cartesian co-ordinates.
 
-We have to take into account that all our judgments in which time plays a part are always judgments of simultaneous events.
+We describe the motion of a material point as the values of its co-ordinates as functions of the time.
 
-If, for instance, I say, “That train arrives here at 7 o’clock,” I mean something like this: “The pointing of the small hand of my watch to 7 and the arrival of the train are simultaneous events.”3 It might appear possible to overcome all the difficulties attending the defini- tion of “time” by substituting “the position of the small hand of my watch” for “time.” And in fact such a definition is satisfactory when we are concerned with defining a time exclusively for the place where the watch is located; but it is no longer satisfactory when we have to connect in time series of events occurring at different places, or—what comes to the same thing—to evaluate the times of events occurring at places remote from the watch.
+A mathematical description of this kind has no physical meaning unless we define “time.”
 
-We might, of course, content ourselves with time values determined by an observer stationed together with the watch at the origin of the co-ordinates, and co-ordinating the corresponding positions of the hands with light signals, given out by every event to be timed, and reaching him through empty space. But this co-ordination has the disadvantage that it is not independent of the standpoint of the observer with the watch or clock, as we know from experience. 2 i.e. to the first approximation.
+All our judgments concerning time are judgments of simultaneous events.
 
-3 We shall not here discuss the inexactitude which lurks in the concept of simultaneity of
+“That train arrives here at 7:00” means: "My watch showing 7:00 and the arrival of the train are simultaneous events".
+
+<!-- “The pointing of the small hand of my watch to 7 and the .”3 It might appear possible to overcome all the difficulties attending the defini- tion of “time” by  -->
+
+<!-- “the position of the small hand of my watch” -->
+
+I replace my watch showing 7:00 with “time.” 
+
+This definition is satisfactory for time exclusively for the place where the watch is.
+
+But it is not satisfactory when we have to:
+- connect in time a series of events at different places.
+- evaluate the times of events at places far from the watch.
+
+An observer with the watch at the origin could coordinate the positions of the hands with light signals, given out by every event to be timed, and reaching him through empty space. 
+
+But this coordination has the disadvantage that it is dependent on the observer with the watch.
+
+ <!-- or clock, as we know from experience. 2 i.e. to the first approximation. -->
+
+<!-- 3 We shall not here discuss the inexactitude which lurks in the concept of simultaneity of
 two events at approximately the same place, which can only be removed by an abstraction.
 2We arrive at a much more practical determination along the following line of
-thought.
+thought. -->
 
-If at the point A of space there is a clock, an observer at A can determine the
-time values of events in the immediate proximity of A by finding the positions
-of the hands which are simultaneous with these events. If there is at the point B
-of space another clock in all respects resembling the one at A, it is possible for
-an observer at B to determine the time values of events in the immediate neigh-
-bourhood of B. But it is not possible without further assumption to compare,
+An observer at point A with a watch can determine the time values of events near A by finding the watch time which is simultaneous with those events. 
+
+Likewise, an observer at point B with the same watch can determine the time values of events near B by finding the watch time which is simultaneous with those events. 
+
+But Event A will take Time A, and Event B will take Time B. 
+
+<!--  it is not possible without further assumption to compare,
 in respect of time, an event at A with an event at B. We have so far defined
-only an “A time” and a “B time.” We have not defined a common “time” for
-A and B, for the latter cannot be defined at all unless we establish by definition
-that the “time” required by light to travel from A to B equals the “time” it
-requires to travel from B to A. Let a ray of light start at the “A time” tA from
-A towards B, let it at the “B time” tB be reflected at B in the direction of A,
-and arrive again at A at the “A time” t0A .
+only an “A time” and a “B time.”  -->
+
+How can we define a common “time” for A and B?
+
+This can be done by defining “time” as the time required by light to travel from A to B being equal to the “time” that it requires to travel from B to A. 
+
+Let a ray of light start at the “A time” tA from A towards B, let it at the “B time” tB be reflected at B in the direction of A, and arrive again at A at the “A time” t0A .
 
 In accordance with definition the two clocks synchronize if
 tB − tA = t0A − tB .
