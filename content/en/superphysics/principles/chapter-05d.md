@@ -69,8 +69,8 @@ In vortices, this middle part manifests as the center, called singularity by Phy
 
 
 Taoism on the other hand emphasizes the 2 Forces called:
-- Dark Yin for the Negative
-- White Yang for the Positive  
+- Dark Yin (with a tiny Yang spot) for the Negative
+- White Yang (with a tiny Yin spot) for the Positive  
 
 Some Taoist schools say that it does not matter whether the Yin-Yang symbol is shown in a clockwise or counter-clockwise direction. We say that it *does* matter. The symbol should always be in a **counterclockwise or Positive direction**. 
 
@@ -78,18 +78,22 @@ Some Taoist schools say that it does not matter whether the Yin-Yang symbol is s
 
 This is proven by most of the planets in our solar system rotating in counterclockwise direction. Venus was once habitable when it rotated counterclockwise. We hypothesize that it became hell when it flipped into a clockwise direction.
 
-Moreover, Yang should always be on top as implied by the Tao-te-Ching. This is because aethereal ideas have a shape which implies a proper orientation (right-side up). 
+Moreover, the Positive white Yang should always be on top as implied by the Tao-te-Ching. This is because aethereal ideas have a shape which implies a proper orientation (right-side up). 
 
 An idea can be learned, or a problem can be solved, faster by approaching the idea or problem **at the right angle that matches its orientation.** This is similar to a spaceshuttle re-entering earth at a proper angle to avoid burning up. 
 
 This angle and shape are consequences of the Negative force which surrounds each idea or identity in order to separate it from other identities.
 
-Without the knowledge of this shape, the only alternative is to approach a big problem from all possible angles, leading to a waste of time and effort.
+Without the knowledge of this shape, the only alternative is to approach a big problem from all possible angles, leading to a waste of time and effort as trial and error.
 
 
 ## Machine Learning and the Platonic Shapes 
 
-Some problems are so complex that the proper angle is hard to achieve with the hit-or-miss approach. This is why Superphysics will be able to solve problems, even the complex ones, faster than Science which has no concept of the geometry of ideas.
+Some problems are so complex that the proper angle is hard to achieve with the hit-or-miss approach. 
+
+This is why Superphysics will be able to solve problems, even the complex ones, faster than Science which has no concept of the geometry of ideas which is really caused by the relationality of ideas (to be explained in Chapter 6).
+
+
 <!-- , as shown in the ba-gua -->
 
 Plato alludes to this through the 5 Platonic shapes. 
@@ -106,21 +110,14 @@ Plato alludes to this through the 5 Platonic shapes.
 
 Superphysics visualizes these through the Aethereal Cartesian plane which will be done by machine learning, since it's too complicated for a human.
 
-We actually use this technique to come up with solutions to economic crises and social crises faster than Economists or Sociologists. The problem is in implementing those solutions in the physical real world because of the static 'aether-drag' in human minds.
+As we are still researching this relationality-shapes, this will be explained in the future.
 
+For example, we use:
+- Supereconomic ratios to expose the relationality between different prices which will then expose the inefficiencies in economic systems
+- Social Cycles ratios to expose the relational harmony or conflict between countries
 
+We plan to apply this to chemical and electron reactions in Physics in order to create new technologies in the future.  
 
-<!-- date: 2024-05-10 -->
+<!-- We actually use this technique to come up with solutions to economic crises and social crises faster than Economists or Sociologists. 
 
-<!-- ## Positive and Negative Direction
-
-
-Closely related to the geometry of ideas is the idea of directions. 
-
-In the Asian sciences of Hinduism, Buddhism, and Taoism:
-- Yang or Shiva, as the Positive Force, moves in a counterclockwise direction
-- Yin or Shakti, as the Negative Force, moves in a clockwise direction.
-
-This is seen in:
-- the Taoist Yin-Yang symbol
-- the Hindu swastika -->
+The problem is in implementing those solutions in the physical real world because of the static 'aether-drag' in human minds. -->

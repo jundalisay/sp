@@ -90,21 +90,27 @@ We must have a method to follow if we wanted to induce:
 - vegetation on a substance that does not have vegetation
 <!-- which is not vegetable -->
 
-1. We want some method that will neither fail in effect nor deceive us in the trial of it
-2. The prescribed method should not restrict him and tie him down to peculiar means, and certain particular methods of acting
+<!-- 1. We want some method that will neither fail in effect nor deceive us in the trial of it -->
+
+2. The method to discover the nature of a body should be flexible.
+
+<!-- not restrict him and tie him down to peculiar means, and certain methods of acting -->
 
  <!-- for he will, perhaps, be at loss, and without the power or opportunity of collecting and procuring such means.  -->
 
-If there were other methods to discover such a nature, we must be capable of them. 
+<!-- If there were other methods to discover such a nature, we must be capable of them. 
 
-Yet by the confined limits of the method, we cannot reap any advantage from them.
+Yet by the confined limits of the method, we cannot reap any advantage from them. -->
 
 
 3. We will be anxious to be shown something not so difficult as the required effect itself, but approaching more nearly to practice.
 
-**Our rule of practice is that it should be certain, free and preparatory, or having relation to practice.** 
+Our rule for a method to discover the nature of a body is that it should be certain, free and preparatory, or having relation to practice. This is the same as the discovery of a true form. This is because when a true form is assigned, the corresponding nature infallibly follows.
+
+
+<!-- **Our rule of practice is that it should be certain, free and preparatory, or having relation to practice.** 
 - This is the same thing as the discovery of a true form
-- For the form of any nature is such, that when it is assigned the particular nature infallibly follows. 
+- For the form of any nature is such, that when it is assigned the particular nature infallibly follows.  -->
 
 Form, therefore:
 - is always present when that nature is present

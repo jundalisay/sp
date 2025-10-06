@@ -50,12 +50,13 @@ An observer with the watch at the origin could coordinate the positions of the h
 
 But this coordination has the disadvantage that it is dependent on the observer with the watch.
 
- <!-- or clock, as we know from experience. 2 i.e. to the first approximation. -->
+<!-- or clock, as we know from experience. 2 i.e. to the first approximation. -->
 
 <!-- 3 We shall not here discuss the inexactitude which lurks in the concept of simultaneity of
 two events at approximately the same place, which can only be removed by an abstraction.
 2We arrive at a much more practical determination along the following line of
 thought. -->
+
 
 An observer at point A with a watch can determine the time values of events near A by finding the watch time which is simultaneous with those events. 
 

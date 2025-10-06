@@ -1,58 +1,87 @@
 ---
-heading: Chapter 6c
-title: "Choice and Reasonable Versus Unreasonable"
-linkTitle: Choice
-date: 2020-05-26
-weight: 440
-image: "https://sorasystem.sirv.com/graphics/datascience.png"
-description: "The Enlightenment was a period where reason dominated. Afterwards, people became more egotistic and materialistic"
-draft: true
-icon: "Superphysics"
+heading: "Chapter 6c"
+title: "Spin"
+date: 2025-10-05
+weight: 410
+image: "/photos/tech/phone.jpg"
+description: "Spin energy comes from outside"
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
-past and present change depending on the now
-for every decision there is more than one reason 
+The previous section explained how spin in space is the mechanism for relational action.  
 
-Why did you eat eggs for breakfast?
-- It was easy to cook
-- I love the taste of eggs
-- It has nutrients that I need 
-- It goes well with the bread that I bought
-These waves one is more the dominance varies relative to other feelings in other times. 
+Does it mean that 100% of the spin comes from the spinning identity?
 
 
-## Reasonable Versus Unreasonable
 
-The Enlightenment was said to be a period where reason dominated. So it follows that before and after that period, people were unreasonable or less reasonable. 
 
-The word "reason" comes fron Latin *ratus* which is to reckon, think, or judge. 
+## Spin Energy Comes From Outside, Configuration comes from Within
 
-This is similar yet different from the word "intellect" which comes from intelligo or to understand. 
+Spin is just the physicalized version of wave frequency or density in space. 
 
-The problem is that these definitions only account for logic or the connection of ideas, and not the feeling that powers those connections. <!--  do not  current definition of reason does not take into account the feelings.  -->
+The waveness of a wave does not come from one small part of section of the wave. Instead, it comes from the whole wave, as the 1st property of waves, explained in Chapter 1d.
 
-- A terrorist might find it reasonable for him to bomb a market in order to send a signal to foreign occupiers to leave. 
-- A dictator might find it reasonable to supress a protest forcibly in order to deter further protests and insatbility 
+The major difference between waves is their:
+- frequency as Property 2
+- amplitude as Property 3
+- speed as Property 4 
 
-![Taliban fighters](/countries/af/taliban.jpg)
+Similarly, the energy of a spinning identity does not come from the identity itself, but from the relational action of the aether and other identities. This is because there is no Void in Nature (1st Property of Waves).
 
-Anti-terrorists and anti-dictators would then blame them as unreasonable and thus be subject to punishments. This is similar to how you punish your pet dogs and cats if they won't obey your commands.  
+It follows that **it is the configuration of the identities that make them different from each other**. These differences are:
+- spin speed as Property 2
+- spin strength as Property 3
+- spin forward speed as Property 4 
 
-Thus, when someone says 'be reasonable' it really means:
+Therefore, relational action action mostly comes from the identity's configuration. 
 
-{{< q >}}
-<p>Please have a desire to project your consicousness onto a mental thought-experiment of the future where the bad consequences of your current improper actions will lead to the suffering of either yourself or others, or both, and then feel that suffering and then decide if that future suffering is worth whatever you imagine to gain from your current improper action.</p>
-{{< /q >}}
+{{< i s="/graphics/physics/exist.jpg" a="Spin" c="The configuration of an identity determines what can flow through it" >}}
 
-This requires:
-- the desire of the person to feel about consequences or to even think about it
-- the mental ability and energy to project his mind onto those consequences 
-- the emtional ability to feel the suffering as bad enough to stop the immoral action
 
-For example, a divorce would be immoral under most circumstances as it would deprive the child of love and support. But if the spouse is suffering too much as to die, such as being beaten, then it would be more moral to have a divorce. In this case, the chronic, constant suffering is worse than the future suffering of the child. 
+This is because the outside forces actually power the spin, but that power can only flow through it if it is configured to receive that flow. 
 
-However, if a divorce was thought of just because the spouse fell in love with another person, then it might be immoral to have a divorce because the interests of the children outweigh the romance of the spouse. 
+An example is a claw machine that has so many toys under it. The claw can grab (receive) a toy if it can match the shape of the toy (match its spatial nature) as to be able to lift it to the hole.  
+
+{{< i s="/photos/objects/claw.jpg" a="Claw machine" c="The claw needs to match the toy" >}}
+
+Unfortunately, the claw is limited to a certain range of movements, making it incapable of matching the spatial nature of most toys. 
+
+
+## So What's The Use of Spin?
+
+Spin is very important in Material Superphysics in manipulating the Fire, Air, and Earth Elements, called Electromagnetism, Weak, and Strong Forces in Physics. 
+
+It is most essential in tapping free energy from space called zero point energy. The free energy is like prizes floating freely in space, with humans not having the special claw needed to harness them due to the backward, materialist nature of Physics.  
+
+Bio Superphysics uses it for proper growth and health.
+
+Social Superphysics uses it to match people with each other, as student-course, business-customer, jobseeker-employer, husband-wife, candidate-politicalparty, etc.
+
+This is most useful in finding romantic partners since male and female are already predisposed to be attracted to each other. All that is needed is to find the matching spins that would create lasting or specific-use partnerships.   
+
+Spiritual Superphysics uses it to recommend the proper philosophy or religion to each person depending on their mental spin or mentality. 
+
+
+<!-- Our Theory of Dynamism: State and State-Change
+
+Unlike Physics which makes its equations and principles from the motion of bodies, Superphysics bases its principles on the changes in the perceived identities. 
+
+Motion, or change in location, is just one of such changes. Another change is from small to large, like a seed turning into a plant, or a change from poverty to prosperity, as in a society.
+
+Our principles are therefore derived from the perceived changes in state. From here it follows that:
+- the universe is inherently dynamic
+- there is an inherent potential dynamism in each object
+- an object’s dynamism can be tapped by letting it interact with the proper objects other than itself
+- the dynamism of objects depend on their relations with each other 
+
+This is the foundation of our Theory of Dynamism. 
+
+This theory aims to know the causes and effects of all change and movement, whether physical or metaphysical. 
+
+This is to harness such movement and dynamism in order to reach our goals, such as to solve problems that are unsolved by Physics and Science. -->
+
+

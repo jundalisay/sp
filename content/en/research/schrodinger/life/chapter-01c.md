@@ -66,21 +66,18 @@ particular direction, and so . -->
 
 All the permanganate molecules, has this random walk.
 
-the
+<!-- the
 same for all of them, should yet produce a regular flow
 towards the smaller concentration and ultimately make for
 uniformity of distribution, is at first sight perplexing - but
-only at first sight. 
+only at first sight.  -->
 
 If you contemplate in Fig. 4 thin slices of
 approximately constant concentration, the permanganate
 molecules which in a given moment are contained in a
-particular slice will, by their random walk, it is true, be
-carried with equal probability to the right or to the left. 
+particular slice will, by their random walk be carried with equal probability to the right or to the left. 
 
-But
-precisely in consequence of this, a plane separating two
-neighbouring slices will be crossed by more molecules coming
+But precisely in consequence of this, a plane separating 2 neighbouring slices will be crossed by more molecules coming
 from the left than in the opposite direction, simply because to
 the left there are more molecules engaged in random walk
 than there are to the right. 

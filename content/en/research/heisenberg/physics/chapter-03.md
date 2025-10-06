@@ -9,6 +9,7 @@ c: "firebrick"
 ---
 
 
+
 This starts from a paradox. 
 
 Any physics experiment is described in the terms of classical physics.
@@ -55,12 +56,9 @@ The function assigns at the initial time the probability unity (i.e., complete c
 
 `observed' means observed within the accuracy of the experiment. 
 
-It represents our knowledge in so far as another observer could perhaps know the
-position of the electron more accurately. The error in the experiment does – at least to some
-extent – not represent a property of the electron but a deficiency in our knowledge of the
-electron. 
+It represents our knowledge in so far as another observer could perhaps know the position of the electron more accurately. The error in the experiment does – at least to some extent – not represent a property of the electron but a deficiency in our knowledge of the electron. 
 
-Also this deficiency of knowledge is expressed in the probability function.
+This deficiency of knowledge is expressed in the probability function.
 
 In classical physics one should in a careful investigation also consider the error of the
 observation. 

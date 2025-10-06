@@ -64,7 +64,7 @@ These are impressions and ideas that are distinct and cannot be separated.
 
 These can be separated into parts.
 
-![Apples](/photos/objects/apples.jpg)
+![Apples](/photos/objects/apples2.jpg)
 
 This apple has colour, taste, and smell.
 - These 3 are distinguishable from each other.

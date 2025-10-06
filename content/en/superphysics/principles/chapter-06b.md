@@ -1,90 +1,105 @@
 ---
 heading: "Chapter 6b"
-title: "Gravitational Territories"
-date: 2023-11-26
-image: "/graphics/physics/territories.jpg"
-description: "Gravitational Territories are the area of a gravitational signature"
+title: "Action"
+date: 2025-10-05
+weight: 405
+image: "/photos/meta/kindness.jpg"
+description: "Action is the effect of Relational Spin"
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 402
-icon: "Juan"
 ---
 
 
-The interaction between gravitational signatures naturally lead to gravitational territories which represent the space of an identity, as a particle, thing, person, place, etc.
+## Space Leads to Exclusion
 
-<!-- Chapter 4c explained the concept of Gravitational Signatures which represent the inherent true nature of an identity -->
+This property of uniqueness manifests as unique frequency in a wave-based Existence. When imagined in the physical domain, this wave-frequency becomes a spin. 
 
-<!-- That signature is a purely metaphysical concept and has no direct physical manifestation. No one will be able to see or hear it. 
+This is because the Air Element creates discrete space and time. The identity in question matches this discreteness by converting frequency, which is not easily perceptible, into spin, which is more easily perceived.
 
-Its dynamics in the real world creates the idea of a gravitational territory which is the area where the gravitational signature can express itself and detect or interact with other signatures. -->
+Identities in space preserve their uniqueness by preventing other identites from occupying their space. We call such exclusion space as the aetherspace which will be explained by Material Superphysics.
 
+This exclusion space is known in Physics as the Exclusion Principle. 
 
-Rene Descartes described these signatures as spinning vortices, each with its own strength and direction. 
-
-{{< q a="Rene Descartes" c="The World, Chapter 8" >}}
-When the pure aether began to be divided, its division began in one part and spread out to all its parts as equally as it could. However, this equality of division could not be perfect because the division could not spread in a straight line since there was no void. Instead, each division happened as circular motions with different centers. This is because God gave each particle a different motion.
+{{< q a="Wolfgang Pauli" c="Exclusion Principle and Quantum Mechanics" >}}
+An entirely non-degenerate energy level is already 'closed' if it is occupied by a single electron. States in contradiction with this are excluded.
 {{< /q >}}
 
 
-{{< f f="Quantum physics uses fields because it arose from electromagnetism which has magnetic fields. This is not useful in Superphysics because the aether is the most superior layer and we never think that feelings or minds have fields. Instead feelings and minds have layers -- there are deep and shallow minds, feelings, and ideas. Moreover, identities have territories or personal space, i.e. We say 'this is mine'." >}}
+## Uniqueness Leads to Relational Action and a Dynamic Universe
+
+The differences in the spin of identities leads to various degrees of cohesion or repulsion just like gears that go together or grind against each other.
+
+{{< i s="/graphics/physics/gears.gif" a="Gears" c="Opposing gears work together, similar gears clash" >}}
 
 
-Each territory has parts, each with different properties:
+Thus, the inherent frequency of each identity leads to a physical spin in space as its inherent action. 
 
-1. Inner
-2. Middle
-3. Outer
-4. Edge
+When these actions hit, impact, or contact the actions of other identities, these become **relational actions**.
 
+Therefore, the relational actions are caused by the inherent natural differences between identities. 
 
-{{< img alt="Gravitational Territories" src="/graphics/physics/territories.jpg" cap="" >}}
+Since all identities are unique, then there is always movement in the universe -- Existence, as the Supreme Entity, is always in inherent motion. 
 
-
-## The Inner Area
-
-This is the safe zone for the identity.
+Only the Absolute Entity has zero motion because it is One, and has nothing else to relate to. 
 
 
-## The Middle Area
+This inherent dynamism is what we call change, movement, and evolution.
 
-This is the protective zone that helps nurture the safe zone.
+For example, suppose you have a tray that can only hold 10 apples. 
+
+{{< img src="/photos/objects/apples2.jpg" alt="Apples" >}}
+
+Adding more apples will either:
+- make those additional apples fall off if the tray is strong, or
+- make the apples in the tray burst out if the tray is weak. 
+
+Either way, the mere addition of apples causes movement, as a reaction to those new additions.
+
+The tray represents the mind of the universe or reality which holds its ideas. The addition of new ideas, from other universes or realities, creates reactions from the already-existing ideas. 
+
+This leads to movement for those new and old ideas inside the container of the universe or reality.
+
+This movement affects all ideas in that universe or reality, just as the addition of the apple affects all apples already in the tray -- the more ideas, the more the dynamism and energy.
+
+ <!-- dynamism that is far more energetic than the original addition-action.   -->
+
+From here it follows that:
+- the universe is inherently dynamic
+- there is an inherent potential dynamism in each object 
+- an object's dynamism can be tapped by letting it interact with the proper objects other than itself
+- the dynamism of objects depend on their relations with each other
+
+<!-- This is the foundation of our **Theory of Dynamism**.  -->
+
+This dynamism is inherent in the Aether Element which is closest to the Absolute. It manifests in the Physical Domain through the Air Element (Space and Time) which serves as the agent of the aether. 
+
+This is why Superphysics shallowly interchanges the word 'aether' with the medium of space, time, and forces. 
+
+This is similar to Physics using 'electroweak' as the unity of the weak interaction and electromagnetism.
 
 
-## The Outer Area
+## So What's The Use of Inherent Action and Relational Action?
 
-This is the zone with a lot of clash from other identities.
-
-
-## The Edge
-
-This is the zone which has direct contact with other territories. 
+In its basic form, inherent action explains where things get their energy from, whether from the Aether, Air, Fire, Water, or Earth Elements. 
 
 
+This can then be used to cancel physical and metaphysical staticity, lack of power, idleness, boredom.
 
-These have different manifestations depending on the type of identity. 
+For example:
 
-Identity | Inner | Middle | Outer | Edge | Science
---- |  --- | --- | --- | --- | --- 
-Star | Goldilocks Zone | Large Planets Zone | Oort Cloud | Stellar Halo | Material Superphysics
-Person | Unconscious | Subconscious | Conscious | Interactions | Bio Superphysics
-Society | Religion / Philosophy | Politics | Economy | Interactions | Social Superphysics
+The theory of dynamism can be applied in the different sciences as follows.
+
+Science | Effect of theory of dynamism
+--- | ---
+Physics | Empty space is full of energy, leading to free energy.
+Psychology | Inspiration is everywhere in space, leading to free inspiration energy to continue one's endeavours and movements
+Biology | Evolution is movement to adapt to the environment, sourced from willpower
+Medicine | Movement from disease to health
+Politics | Movement from war to peace
+Economics | Movement from poverty to prosperity
 
 
-In human life, this territory is the aethereal aura that radiates from people.   
-
-Some people radiate a strong aura which manifest as a strong personality or X-factor, just as a large star or galaxy has a large gravitational field or influence.
-
-In Physics, a comet or asterod that enters a star's gravitational field will get a tendency to be attracted towards that star. 
-
-Likewise, when we see or come close to a person, we might get a tendency to talk to that person if we feel a curiosity or common interest with that person.
-
-Seeing or being that person is therefore being within that person's gravitational territory just as a body is attracted to a  bigger body that enters its gravitational field.
-
-<!-- This is explained in detail in Material Superphysics.  -->
-
-In other words, the quality of a vortex and its territory leads to attraction or repulsion movement, as explained by our Theory of Dynamism.
-
-This movement is the foundation of the Elastic Theory of Gravity, to be explained next. 
+At least, in theory, dynamism makes suicide obsolete since Negative static energy can changed into Positive dynamic energy for continuing life. Entities that are meant to end physical life prematurely before old age will naturally die by external accidents according to karma to be explained next.
 

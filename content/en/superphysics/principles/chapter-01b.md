@@ -153,7 +153,7 @@ The natural or spiritual view of the universe, on the other hand:
 
 The materialist view is currently being pushed by the Western education system that focuses on thinking instead of feeling.
 
-For example, critical thinking is taught, but no one has ever heard of criitical feeling. 
+For example, critical thinking is taught, but no one has ever heard of critical feeling. 
 
 This is why the Western Civilization has consistently collapsed, as seen in the Fall of Rome, or declined, as seen in the current decline of the West under the rise of China and India. 
 
@@ -174,4 +174,3 @@ Medicine | Adopt the aether to allow Ayurveda, Chinese Medicine, Naturopathy for
 Politics | Adopt the aether to harmonize minds and political parties based on core idea
 Biology | Adopt the aether as Lamarckism willpower as the cause for change and evolution (i.e. we can will a harmonized world)
 Psychology | Adopt the aether, as Descartes animal spirits or Taoist chi, as the cause of behavior to better create behavior change
-

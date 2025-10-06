@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1d"
+heading: "Chapter 1e"
 title: "Vortices and Ideas"
 date: 2024-12-28
 # 2020-01-04

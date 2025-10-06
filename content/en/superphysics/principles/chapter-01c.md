@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1b"
+heading: "Chapter 1c"
 title: "Waves and the 3 Abstract Spaces"
 date: 2024-12-28
 # 2020-01-04

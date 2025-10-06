@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 5e"
-title: "The Law of Conservation of Idea and the Theory of Dynamism"
+title: "The Law of Conservation of Idea"
 date: 2020-12-29
 weight: 360
-image: "/photos/objects/apples.jpg"
+image: "/photos/objects/apples2.jpg"
 description: "Why you only have 1 idea at a time"
 icon: "Superphysics"
 writer:
@@ -29,7 +29,9 @@ This Existence-Idea has subideas within It as universes, dimensions, densities, 
 
 ## Unity Leading to Conservation Leading to Constants
 
-Since there is no Void within the idea of Existence, one change in a part of Existence will necessarily affect the other parts. 
+The active form of Existence uses wave dynamics. Chapter 1e explained that the first property of which is conmonality or continuity. 
+
+This manifests as the "No Void" rule of motion. This means that a change in one part of Existence will necessarily affect the other parts.
 
 This is similar to Brownian motion where a change in one particle affects all others next to it, and then those particles affect those next to them. 
 
@@ -38,7 +40,6 @@ This is similar to Brownian motion where a change in one particle affects all ot
 This one particle affecting others is now known as the Law of Conservation of Momentum which is a conservation law.
 
 Rene Descartes first proposed conservation as preservation by Nature, leading to the Laws of Nature:
-
 
 {{< q a="Rene Descartes" c="The World, Chapter 7" >}}
 "Nature" here means the aether itself, assuming that God continues to preserve it in the same way that He created it. There are many changes in the aethereal particles that are not caused by the action of God. This means that those changes are from nature as the aether itself. 
@@ -49,11 +50,15 @@ Rene Descartes first proposed conservation as preservation by Nature, leading to
 
 {{< youtube z6POnNI22ks >}}
 
+The many conservations laws in Physics are just different versions of the unity of Existence as a single unit we call the Supreme Entity. 
 
-Likewise, all of Superphysics is dominated by what we call **The Law of Conservation of Idea**. This states that all ideas:
-- already pre-exist
-- cannot be created nor destroyed, and
-- are unique.
+We call the highest conservation law as **The Law of Conservation of Idea**. This states that all ideas:
+- already pre-exist or had no beginning*
+- cannot be created nor destroyed, as having no end, and
+- are unique
+
+{{< n n="Chapter 1b already debunked concept of the start and end of the universe, as an effect of Materialist thinking which is an effect of the Negative Force" >}}
+
 
 This uniqueness means that **each idea has its own properties** as imbued by its Creator.
 - These inherent properties are called its *dharma* or true nature. <!-- Unlike nature which si -->
@@ -65,46 +70,30 @@ This law explains the principles in various sciences, such as:
 - A territory having only one state in Politics
 
 
-{{< box >}}
-### Why Must Identities Be Unique?
+## Why Must Identities Be Unique?
 
-Chapter 3 explained that Existence-Consciousness is really 1 unit entity called the Supreme Entity. As a single unit, it means that all its parts affect all its other parts. 
+Chapter 1 explained that the purpose of Existence is to expose, realize, or appreciate the value of the Absolute Entity. 
 
-Having a duplicate part will create an imperfection or excess in the unit, just as 1.0000001 is an imperfection of 1. 
+This perfect value already pre-exists, but the appreciation of that value does not exist immediately. 
 
-Therefore, everything is unique so that 1 stays as 1.  
-{{< /box >}}
+And so the Absolute splits Itself up using Its own Negative Force and then enjoys Its Split-up Selves through the Positive Force that unites those Selves. 
+
+And so having a duplicate of any part would mean that there was another Absolute Entity. This would then logically go against the definition of "Absolute". 
+
+This is similar to asking what existed before existence, which we solve by **creating** the concept of "Pre-Existence". 
+
+Likewise, we solve the illogical question of second Absolute Entity by **rejecting** the possibility of totally-identical parts in Existence.
+
+{{< q a="Leibniz" c="Monadology, Article 9" >}}
+In Nature, there are never 2 beings which are perfectly similar to each other, with no internal difference.
+{{< /q >}}
+
+Note that this principle of uniqueness is far more subtle, profound, and useful than the concept of Pre-Existence which really just acts as a sink for overthinking. 
 
 
-## Uniqueness Leads to All Movement in Existence
 
-This property of uniqueness creates all of the dynamism in both physical and metaphysical domains. This dynamism is what we call change, movement, and evolution.
+## So What's the Use of the Law of Conservation of Idea?
 
-For example, suppose you have a tray that can only hold 10 apples. 
-
-{{< img src="/photos/objects/apples.jpg" alt="Apples" >}}
-
-
-Adding more apples will either:
-- make those additional apples fall off if the tray is strong, or
-- make the apples in the tray burst out if the tray is weak. 
-
-Either way, the mere addition of apples causes movement, as a reaction to those new additions.
-
-The tray represents the mind of the universe which holds its ideas. The addition of new ideas creates reactions from the already-existing ideas. 
-
-This leads to movement for those new and old ideas inside the universe-container. This movement affects all ideas just as the addition of the apple affects all apples already in the tray -- the more ideas, the more the dynamism and energy.
-
- <!-- dynamism that is far more energetic than the original addition-action.   -->
-
-From here it follows that:
-- the universe is inherently dynamic
-- there is an inherent potential dynamism in each object 
-- an object's dynamism can be tapped by letting it interact with the proper objects other than itself
-- the dynamism of objects depend on their relations with each other
-
-This is the foundation of our **Theory of Dynamism**. 
-
-This theory aims to know the causes and effects of all movements, whether physical or metaphysical. This is to harness such movement and dynamism in order to reach our goals, such as to solve problems that are unsolved by Physics and Science.  
-
-In the metaphysical domain, these movements take the form of reflection (as the 'bouncing back' mentioned in Chapter 1),  deflection, dissipation, merging, etc. **These are the dynamics of waves.** Thus, we say that **the metaphysical domain has a wave-like nature**.   
+The Law of Conservation of Idea leads to:
+- svadharma and gravitational signatures which lead to action which leads to relationality
+- constants and relationality
