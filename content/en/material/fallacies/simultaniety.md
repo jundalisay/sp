@@ -14,12 +14,69 @@ toc: false
 
 
 
-Physics has become backward because of the failure of gravity research.
+Physics has become backward because of the failure of gravity research which was caused by one guy named Einstein who created the [scam theory of Relativity](/material/fallacies/scam).
+
+The root of the scam is Einstein making time, which is a mental object, into a physical object through 2 sophistries or half truths. 
 
 
-### The Einstein Trap
 
-The cause is Einstein pegging the simultaneity of time to the speed of light as Special Relativity simply because light, as c, is constant and invariant in empty space.
+## Fallacy 1: The Simultaneity of Time
+
+This fallacy converts mental (metaphysical) time into a physical object through the simultaneity of 2 physical events.
+
+
+{{< q a="Einstein" a="On The Electrodynamics Of Moving Bodies" >}}
+An observer at point A with a watch can determine the time values of events near A by finding the watch time which is simultaneous with those events. 
+{{< /q >}}
+
+
+This fallacy is quite common in everday life that it not so harmless. 
+
+For example, a 60 year old man is "older" than a 30 year old because he has gone through more physical revolutions of the Earth than the younger one. 
+
+But if the 60 year old man has youthful energy and takes care of his health, enjoys time with friends, and exercises and is destined to live up to 90 years old, then he is metaphysically younger (more dynamic) than the 30 year old who will soon die of heart attack from overwork.
+
+So here, the physical age is a useless metric in comparing lifespan since age is really in the mind.
+
+<!-- Or if freelancer A can finish the work at 50 hours while freelancer B can finish it at 100 hours then -->
+
+ <!-- just because their times were measured physically through the number of revolutions of the Earth around the sun.  -->
+
+The correct measure of their elapsed time is to compare their aether content. 
+
+The volume of the Positive aether of the 60 year old man is more than the 30 year old man and so the 30 year old man is will end his physical life sooner.  
+
+
+<!-- 2. Using the invariant nature of light as a common measure of those subjective simultaneity-events  -->
+
+## Fallacy 2: Using Light to Connect Subjective Simultaneity-events 
+
+This fallacy is unique to Einstein's Relativity because it equates time with distance by capitalizing on the invariant (subjective) nature of light. 
+
+This fallacy is harmful because it makes:
+- distant galaxies older even if they are really just farther
+- the light from the sun 8 minutes old as if light were a living organism that ages
+
+The second fallacy wastes away research funding into trying to figure out the Hubble Tension or dark energy and look for dark matter when it should have been used to manipulate the aether to improve human lifespan (time aspect) or levitate things to get us off this planet (space aspect).
+
+
+
+## The Einstein Trap
+
+We call these 2 Fallacies the trap that creates violations of Nature:
+
+1. Using light as the measure of speed unifies space and time as one entity even if time is a superior aethereal object than space
+
+2. It makes time a product of electromagnetism instead of the aether and the aethereal mind -- it gives life to photons, with absurd statements like "photons do experience time"
+
+3. Since the aether is the real cause of gravity and space, Relativity eliminates the possibility of antigravity technologies already seen in UFOs and is essential for fusion
+
+<!-- wrongly assigned the properties of space and time into has stifled the real development of  -->
+
+
+<!-- The cause is Einstein pegging the simultaneity of time to the speed of light as Special Relativity simply because light, as c, is constant and invariant in empty space. -->
+
+
 
 To a shallow mind, this constancy and invariance makes it an ideal measuring rod or timer. 
 
@@ -169,12 +226,35 @@ None of these will ever exist because, from the perspective of Nature, the oppos
 - matter comes from gravity (spatial layer) 
 - gravity comes from [the aether](/material/principles/part-1/chapter-01) (aethereal layer), as the medium of space
 - from the perspective of Creation, the speed of light comes from the perception of that light (as Newton's first law). Both light and time are the effects of perception. From the perspective of Creator, the speed of light comes from the aether acting against it (as Newton's third law).  
+-->
 
 
-![Science vs Superphysics](/graphics/meta/science.png)
+## Absurd Concepts from Relativity
 
-{{< cap >}}
-Physicists believe that reality is dictated by matter. Metaphysicians believe the opposite, that reality is dictated by the aethereal mind.
-{{< /cap >}}
+The fallacy of Relativity leads to absurd concepts that have been disproven or are not realizable:
 
-  -->
+1. Worm holes and white holes that have never been detected 
+
+Relativity uses electromagnetism, as light, which travels in fields. This leads to the fabric of spacetime analogy instead of an all-pervading liquid aether. 
+
+This fabric goes through vortices which then is supposed to  lead to other dimensions. 
+
+This won't work because vortices are aethereal. Going into a vortex will just let you bounce off if you are of a low vibration. 
+
+
+2. Star Gates
+
+These are artificial wormholes that of course will never work. 
+
+
+3. Alcubierre Warp Drives
+
+
+
+
+
+
+The invariance 
+Worm holes 
+
+

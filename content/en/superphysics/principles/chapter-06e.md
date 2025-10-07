@@ -14,16 +14,64 @@ writer:
 
 
 
-The qualitative ratio between identities represents our Theory of Universal Relationality* within the Theory of Dynamism. 
+Chapter 6b introduced the concepts of:
 
-This states that all ideas are connected and therefore everything in the universe is connected. The ratio sign signifies this connection.
+1. Inherent Action
 
-{{< n n="*We use Relationality instead of Relativity in order to rank better in search engines, since Relativity is already connected to Einsten instead of Descartes." >}}
+This is action done by oneself when totally isolated.
 
+2. Relational Action
+
+This is action done in reality where there is no void either in the Physical or Metaphysical Domain
+
+
+
+By itself an action of an entity will not do anything as it produces no reaction, as counter-action. 
+
+It only becomes known when other entities experience it through contact. 
+
+This contact creates a bridge between identities, allowing the actions of each identity to go into another identity as an exchange. 
+
+This exchange creates a relation that converts inherent action into relational action. 
+
+
+## Identity Space
+
+To better visualize this relation, we create the abstract identity space, mentioned in Chapter 1c. 
+
+This puts the a polar grid around the identity to show the possible range of their action.
+
+For example, the action of starlight can travel for millions of light years whereas the action of a knife can only create impact at zero distance.
+- the action of starlight can be blocked by an opaque fabric
+- the action of the knife cannot be blocked by the same fabric
+
+{{< i s="/graphics/physics/reality.jpg" a="Reality" c="Reality is formed from the relations between identities. Relations are formed from the affinity of signatures" >}}
+
+In the above:
+- Entity 1 is related to Entity 2 directly 
+- Entity 2 is related to Entity 3 directly
+- Entity 1 is related to Entity 3 indirectly
+
+This is notated in Qualimath as: 
+
+```
+Entity 1 : Entity 2 : Entity 3
+```
+
+We use the word 'relationality' to:
+- associate it with relational data in databases
+- avoid assocation with the scam theory of relativity of Einstein
+
+
+Relationality explains how everything in Existence is connected to each other spatially indirectly, but directly through the aether which bypasses space and time. 
+
+This is because the connection of everything is from the aethereal wave-nature of everythig.
+
+The ratio sign signifies this connection.
 
 This is a combination of the ideas from:
 - The Asian sciences of Hinduism, Buddhism, and Taoism which say that everything is one
-- Socratic philosophy which explains about the One and the Other
+- Parmenides who explained how the One is related to the Other
 - Descartes' theory of gravity which says that gravity is a relation between bodies
 - Poincare's Law of Relativity which is based on changing states of bodies in a system
 
@@ -51,24 +99,40 @@ When God compares two simple substances, he finds reasons in them to accommodate
 {{< /q >}}
 
 
+## The Realities Create a Universe Matrix
 
-In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect.
+The identities create relations. 
 
-The lower dimensions like ours has more rigid ratios that lead to discrete and ‘hardened’ identities, while higher dimensions have more flexible ratios that lead to more malleable ones. 
+The relations create realities.
+
+The realities create a universe. 
+
+Relationality interprets the universe as an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect.
+
+This facilitates the infinite loop of cause and effect mentioned in Chapter 6c. 
+
+
+The lower dimensions like ours has more rigid ratios and relations that lead to discrete and ‘hardened’ identities, while higher dimensions have more flexible ratios that lead to more malleable ones. 
 
 Since the lower dimensions are more stubborn, they require more effort and energy to change than the upper dimensions.
 
-An example of the “hardness” of this dimension is the hardness of will of Russia in invading Ukraine, and in Ukraine stubbornly not giving up. Both do not care about the chain-reaction that their fight causes to other nations and the planet. 
+An example of the “hardness” of this dimension is the hardness of the will of:
+- Russia in invading Ukraine and
+- Ukraine stubbornly not giving up
 
-In a better universe (with qualimath as the norm), Russia, Ukraine, and NATO will “soften” their minds and egos (less strong force, more gravitational force) as to harmonize with each other, being more sensible how their actions affect the planet.
+Both do not care about the chain-reaction that their fight causes to other nations and the planet. 
+
+In a better universe (with Relationality as the norm), Russia, Ukraine, and NATO will “soften” their minds and egos (less strong force, more gravitational force) as to harmonize with each other, being more sensible how their actions affect the planet.
 
 In this universe, such a softening can be encouraged by emphasizing the abstract, flexible aether, over rigid and hard solid matter. 
 
-Because of this, Qualimath also creates moral effects. It conditions minds to respect the identity and natures of all sides (other egos), instead of bulldozing over them with arbitrary notations and movement towards one side as what Westerners tend to do. 
+Because of this, Relationality also creates moral effects. 
 
-Qualimath uses Poincare’s Law of Relativity which uses state-change instead of Einstein’s Relativity which uses tensors:
+It conditions minds to respect the identity and natures of all sides (other egos), instead of bulldozing over them with arbitrary notations and movement towards one side as what Westerners tend to do. 
+
+Relationality uses Poincare’s Law of Relativity which uses state-change, which is really changes in the properties of spin, instead of Einstein’s Relativity which uses tensors:
 
 
-{{< q a="Poincare" c="Science and Hypothesis, Chapter 5" >}}
+{{< q a="Henri Poincare" c="Science and Hypothesis, Chapter 5" >}}
 The state of bodies and their mutual distances at any given moment, as well as the velocities with which those distances are changing at that moment, will depend only on the state of those bodies, on their mutual distances at the initial moment, and on the velocities with which those distances were changing at the initial moment. But they will not depend on the absolute initial position of the system nor on its absolute orientation, nor on the velocities with which that absolute position and orientation were changing at the initial moment.
 {{< /q >}}

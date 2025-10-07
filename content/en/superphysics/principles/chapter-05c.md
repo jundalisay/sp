@@ -5,8 +5,8 @@ date: 2024-02-24
 weight: 310
 image: /graphics/meta/ideas.jpg
 description: "We explain the rules of Bullet-Style Writing"
-icon: "Superphysics"
 toc: false
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -22,7 +22,7 @@ Everything is an Idea | Complex Ideas are made of Simple Ideas
 
 Chapter 1 explained that waves become nodes when they are concentrated together.  We then call these nodes as ideas. 
 
-Since these nodes are really waves, they easily show wave-properties. One of these properties is the connection of ideas.  
+Since these nodes are really waves, they easily show wave-properties. One of these properties is the connection of ideas, as Property 1 explained in Chapter 1d. 
 
 
 ## Compound Ideas are Made up of Simple Ideas

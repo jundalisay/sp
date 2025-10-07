@@ -1,58 +1,63 @@
 ---
-heading: Chapter 6c
-title: "Choice and Reasonable Versus Unreasonable"
-linkTitle: Choice
-date: 2020-05-26
+heading: Chapter 6f
+title: "Constants"
+date: 2025-10-05
 weight: 430
-image: "https://sorasystem.sirv.com/graphics/datascience.png"
-description: "The Enlightenment was a period where reason dominated. Afterwards, people became more egotistic and materialistic"
-draft: true
-icon: "Superphysics"
+image: "/photos/balancerock.jpg"
+description: "Constants show the relationality between and within Elements"
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
-past and present change depending on the now
-for every decision there is more than one reason 
 
-Why did you eat eggs for breakfast?
-- It was easy to cook
-- I love the taste of eggs
-- It has nutrients that I need 
-- It goes well with the bread that I bought
-These waves one is more the dominance varies relative to other feelings in other times. 
+The Law of Conservation of Idea showed that Existence is a single Entity. 
+
+A change in one part of the entity creates a change in another part. 
+
+This leads to a relation between parts. We call this relationality. 
+
+There are 5 fixed Elements in Nature and so there are fixed relations in every universe. 
+
+Physics calls these fixed relations between and within the 5 Elements as physical "constants". 
 
 
-## Reasonable Versus Unreasonable
+Constant | Relationality
+--- | ---
+Newton’s G | Aetherspace : Spacetime
+Speed of Light | Light : Space
+Planck’s Constant | Light : Aetherspace
+Coulomb Charge | Electron : Virtual Photon
+Boltzmann’s Constant | Heat : Aetherspace
+Vacuum Permittivity | Space : Electron
+Vacuum Permeability | Space : Virtual Photon
+Fine-Structure Constant | Electron : Aetherspace
 
-The Enlightenment was said to be a period where reason dominated. So it follows that before and after that period, people were unreasonable or less reasonable. 
 
-The word "reason" comes fron Latin *ratus* which is to reckon, think, or judge. 
+## Einstein
 
-This is similar yet different from the word "intellect" which comes from intelligo or to understand. 
+For example, Einstein's `E = mc^2` has `c` which represents the constant speed of light as a ratio between space and light: 1 unit of light substance is 300,000 kilometer-units of space substance. 
 
-The problem is that these definitions only account for logic or the connection of ideas, and not the feeling that powers those connections. <!--  do not  current definition of reason does not take into account the feelings.  -->
+This makes `c` the conversion factor converting radiance to space as porential force. 
 
-- A terrorist might find it reasonable for him to bomb a market in order to send a signal to foreign occupiers to leave. 
-- A dictator might find it reasonable to supress a protest forcibly in order to deter further protests and insatbility 
+Superphysics interprets it as "The potential radiant volume of radioactive matter is equal to its destabilized aetherspace volume activated by radiance as to occupy space." 
 
-![Taliban fighters](/countries/af/taliban.jpg)
 
-Anti-terrorists and anti-dictators would then blame them as unreasonable and thus be subject to punishments. This is similar to how you punish your pet dogs and cats if they won't obey your commands.  
+## Newton
 
-Thus, when someone says 'be reasonable' it really means:
+Newton's Universal Law of Gravitation `F = (Gm1 Gn2) / r` uses the constant `G` which is the ratio of aetherspace particles to space particles. 
 
-{{< q >}}
-<p>Please have a desire to project your consicousness onto a mental thought-experiment of the future where the bad consequences of your current improper actions will lead to the suffering of either yourself or others, or both, and then feel that suffering and then decide if that future suffering is worth whatever you imagine to gain from your current improper action.</p>
-{{< /q >}}
+This translates to: "The volume of space particles between 2 masses is obtained by converting 2 aetherspace-mass-volumes into space particles spread over the distance between them"
 
-This requires:
-- the desire of the person to feel about consequences or to even think about it
-- the mental ability and energy to project his mind onto those consequences 
-- the emtional ability to feel the suffering as bad enough to stop the immoral action
 
-For example, a divorce would be immoral under most circumstances as it would deprive the child of love and support. But if the spouse is suffering too much as to die, such as being beaten, then it would be more moral to have a divorce. In this case, the chronic, constant suffering is worse than the future suffering of the child. 
+## Maxwell
 
-However, if a divorce was thought of just because the spouse fell in love with another person, then it might be immoral to have a divorce because the interests of the children outweigh the romance of the spouse. 
+Maxwell's `c = 1 / √ u0 e0` is full of constants, saying: the consumption of space by light is equal to what is unconsumed by the root of the volume of virtual photons and electrons in a volume of space.
+
+
+## Planck
+
+Planck's equation `E = hf` is the Effort (spin speed) per timespan of light being based on the qualitatve aetherspace being converted into time i.e. effort is the qualitative aetherspace.  
+

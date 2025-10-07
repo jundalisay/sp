@@ -57,6 +57,7 @@ two events at approximately the same place, which can only be removed by an abst
 2We arrive at a much more practical determination along the following line of
 thought. -->
 
+## (Simultaneity)
 
 An observer at point A with a watch can determine the time values of events near A by finding the watch time which is simultaneous with those events. 
 
@@ -68,6 +69,9 @@ But Event A will take Time A, and Event B will take Time B.
 in respect of time, an event at A with an event at B. We have so far defined
 only an “A time” and a “B time.”  -->
 
+
+## (Relativity)
+
 How can we define a common “time” for A and B?
 
 This can be done by defining “time” as the time required by light to travel from A to B being equal to the “time” that it requires to travel from B to A. 
@@ -76,23 +80,21 @@ Let a ray of light start at the “A time” tA from A towards B, let it at the 
 
 In accordance with definition the two clocks synchronize if
 tB − tA = t0A − tB .
-We assume that this definition of synchronism is free from contradictions,
-and possible for any number of points; and that the following relations are
-universally valid:—
 
-1. If the clock at B synchronizes with the clock at A, the clock at A syn-
-chronizes with the clock at B.
+We assume that this definition of synchronism is free from contradictions, and possible for any number of points; and that the following relations are universally valid:
 
-2. If the clock at A synchronizes with the clock at B and also with the clock
-at C, the clocks at B and C also synchronize with each other.
+1. If the clock at B synchronizes with the clock at A, the clock at A synchronizes with the clock at B.
 
-Thus with the help of certain imaginary physical experiments we have set-
-tled what is to be understood by synchronous stationary clocks located at dif-
-ferent places, and have evidently obtained a definition of “simultaneous,” or
-“synchronous,” and of “time.” The “time” of an event is that which is given
+2. If the clock at A synchronizes with the clock at B and also with the clock at C, the clocks at B and C also synchronize with each other.
+
+Thus with the help of certain imaginary physical experiments we have settled what is to be understood by synchronous stationary clocks located at different places, and have evidently obtained a definition of “simultaneous,” or
+“synchronous,” and of “time.” 
+
+The “time” of an event is that which is given
 simultaneously with the event by a stationary clock located at the place of
 the event, this clock being synchronous, and indeed synchronous for all time
 determinations, with a specified stationary clock.
+
 In agreement with experience we further assume the quantity
 
 2AB

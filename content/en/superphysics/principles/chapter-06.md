@@ -104,13 +104,14 @@ There are 2 ways to probe this `G`:
 
 This uses the lower Elements (matter, light) to indirectly unlock the `G` which resides in the invisible or virtual aether. 
 
-Sciences use this approach.
+The sciences use this approach. We will explain this in the chapter on Socratic Dialectics.
+
 
 2. Intuitional
 
 This uses the upper Elements (aether, space and time) to directly unlock the `G`. 
 
-Philosophy and spirituality use this approach.
+Philosophy and spirituality use this approach and so will be explained by Spiritual Superphysics.
 
 
 <!-- ## The `G` of Human Nature

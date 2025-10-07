@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6c"
+heading: "Chapter 6d"
 title: "Spin"
 date: 2025-10-05
 weight: 410
@@ -15,8 +15,6 @@ writer:
 The previous section explained how spin in space is the mechanism for relational action.  
 
 Does it mean that 100% of the spin comes from the spinning identity?
-
-
 
 
 ## Spin Energy Comes From Outside, Configuration comes from Within

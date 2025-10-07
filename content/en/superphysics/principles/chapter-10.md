@@ -3,7 +3,7 @@ heading: "Chapter 10"
 title: "The Academy of Sages"
 date: 2025-01-18
 # date: 2020-11-20
-weight: 590
+weight: 730
 image: /photos/medieval/spartan.jpg
 description: "Academy of Sages is an institution for advancing true knowledge"
 writer:

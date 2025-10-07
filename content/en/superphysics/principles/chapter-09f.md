@@ -5,7 +5,7 @@ date: 2024-08-21
 image: /photos/tech/mac.jpg
 # date: 2020-12-10
 a: Socrates
-weight: 550
+weight: 700
 description: "Socratic Dialectics relies on all six senses and requires the ego to be lowered"
 writer:
   name: Juan

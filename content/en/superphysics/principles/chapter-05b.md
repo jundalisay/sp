@@ -86,6 +86,29 @@ This is consistent with our interpretation of reality as spatial slices glued to
 {{< img src="/graphics/flip.jpg" size="" alt="Slices of Reality" cap="Our reality is really made up of many slices of waves sown together by our abstract minds, in our abstract minds" >}}
 
 
+## Identity Versus Entity
+
+We define "identity" as a discrete resultant perception separate from other perceptions or a mass of perceptions.
+
+This discreteness comes from the separation created by the Negative Force on the parts of the Supreme Entity. 
+
+"Entity" is anything that has identity and other properties.
+
+In contrast, the word "identity" emphasizes only the property of separation or discreteness. 
+
+So love and hate are identities as love-idea and hate-idea. But they are not entities unless love and hate have other properties like size, structure, energy, etc. 
+
+
+### Identity-Relationship Versus Entity-Relationship
+
+An identity-relationship is the relation between identities. An example is the relation of numbers 1, 2, 3, 4..
+
+An entity-relationship is the relation between entities (that have other qualities). Examples are the relation between:
+- father and son
+- table and chair
+- flag and country
+
+
 ## Feelings Versus Ideas 
 
 This is opposite of most of Western philosophy which puts emphasis on ideas over feelings. This is why the West emphasizes criticial thinking, but has no concept of critical feeling.

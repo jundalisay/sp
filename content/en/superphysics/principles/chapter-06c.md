@@ -27,14 +27,45 @@ This law mandates the persistence and uniqueness of each identity.
 - This uniqueness manifests as its dharma which we call the "gravitational signature". 
 - This persistence lets it last 'forever' in Existence, technically since its identity lives in the Aether Element which is above the Air (Space) Element.
 
-The interaction between these unique identities leads to action and reaction. 
+
+## The Infinite Loop of Cause and Effect
+
+<!-- Flow of Action and Reaction -->
+
+All Forces in Existence come from Positive and Negative Forces, as Yang and Yin.
+
+These clash with each other to create various waves which become feelings and ideas. 
+
+Each idea is unique. It crosses over as an entity with a spin in the physical domain.
+
+This spin manifests as inherent effort which results in relational action when coming into contact with other entities. 
+
+This action is called karma in Sanskrit. When imposed on the other entities as contact or impact, those other entities perceive it as a force.
+
+This force then triggers their own spins, causing a counteraction or reaction.
+
+Before this reaction impacts the original entity that did the original action, it is called "pending reaction" or "samskara" in Sanskrit. 
+
+{{< img src="/graphics/super/reaction.jpg" alt="Karma" cap="Science only has action and reaction. Superphysics has action, reaction, and samskara or the pending reaction which is withheld by the time factor" >}}
+
+We call this loop of action, impact, force, counteraction, pending reaction, and reaction as the loop of cause and effect.  
 
 
-'Action and reaction' is a simpler way to view cause and effect. The interaction between ideas and the dharma of those ideas create a reaction which arises when ideas are brought near, made to interact, or are added or introduced to each other. 
+{{< q a="David Hume" c="Treatise on Human Nature, Book 1, Part 1, Section 4" >}}
+Two objects are connected by cause and effect when Object A produces an action in Object B.
+{{< /q >}}
+
+
+
+This is consistent with a dynamic universe, ultimately arising from the uniqueness of everything.  
+
+<!-- The interaction between ideas and their respective dharma create a reaction, as counteraction, when ideas impact or contact each other. 
 
 This reaction manifests as:
 - 'movement' from the perspective of space
-- 'change' or 'evolution' from the perspective of time
+- 'change' or 'evolution' from the perspective of time -->
+
+{{< i s="/photos/objects/balls.jpg" a="Balls" c="A movement of a ball makes the other around it move in response as their counter-action" >}}
 
 
 There is always some reaction in the universe because Existence is 'filled' with ideas from the Supreme. This is known to the ancients as the universe not having any void.
@@ -44,18 +75,23 @@ Almost all philosophers admit that there is no void in nature.
 {{< /q >}}
 
 
+In Newton's system, action and reaction is makes up the 3rd Law of Motion. 
 
-## Cause and Effect
+However, in Superphysics, which is based on Cartesian Physics, action-and-reaction is replaced with collisions as the 3rd rule of motion explained in Chapter 1. 
+
+
+
+<!-- ## Cause and Effect
 
 Chapter 3 explained how the action of bringing ideas near, introducing, or adding to others leads to reaction.
 - The former is called "cause".
 - The latter is called "effect".
 
+The Sanskrit word *karma* implies a complete loop from cause and effect.  -->
 
-The Sanskrit word *karma* implies a complete loop from cause and effect. 
 
-{{< img src="/graphics/meta/morals.png" alt="Karma" cap="Science only has action and reaction. Superphysics has action, reaction, and samskara or the pending reaction which is withheld by the time factor" >}}
 <!-- ![Karma]() -->
+
 
 Existence is thus made up of unending loops of cause and effect, as idea and experience:
 - An idea leads to action
@@ -63,9 +99,14 @@ Existence is thus made up of unending loops of cause and effect, as idea and exp
 - An experience leads to an idea 
 
 
-The difference between Physics and Superphysics is that the latter has the Sanskrit concept of *samskara* which has has its own properties and dynamics. 
 
-Science is aware of physical action and physical reaction. However, there are often many cases wherein such action and reaction are made up of a long chain of intervening-actions and intervening-reactions that might escape the immediate observation of the mind.
+## Samskara or Pending Reaction that Persists is Missing in Western Philosophy
+
+The difference between Physics and Superphysics is that the latter has the Sanskrit concept of *samskara* which has has its own properties and dynamics.
+
+Science is aware of physical action and physical reaction. 
+
+However, there are often many cases wherein such action and reaction are made up of a long chain of intervening-actions and intervening-reactions that might escape the immediate observation of the mind.
 
 For example, the floodings from global warming is made up of a long chain of cause and effect*:
 1. The burning of fossil fuels adds carbon dioxide in the air -- This is the action
@@ -96,8 +137,7 @@ The knowledge of the principles of samskara will allow people to:
 - increase the coming 'good' karma ('good luck'), by accumulating the good samskara 
 
 
-{{< box >}}
-### Luck vs Karma
+## Luck vs Karma
 
 According to Eastern Philosoophy, there is no such thing as good or bad luck. Instead, everything is based on karma or action and reaction.
 
@@ -129,10 +169,16 @@ This is done by going out of your natural way, and artificially doing the correc
 
 But this policy 1 and 2 says that you should go to your friend and apologize so that both of your waves can be fixed and harmonized. This is really hard to do because of human ego, which is from the Negative Force. 
 
-{{< /box >}}
 
 
-The knowledge of the principles of samskara can also allow a prediction of when such reactions are likely to occur so that they can be avoided or prevented.
+
+## So What's the Use of Cause and Effect, and Samskara?
+
+Cause and Effect are already known very well in Western Philosophy and Science. 
+
+But samskara is not. The saying "what goes around comes around" is really action-reaction, without a concept of pending reaction that persists.
+
+The knowledge of the principles of samskara can allow a prediction of reactions are likely to occur so that they can be avoided or prevented.
 - This is how scientists predict sea-level rise and the increase of natural disasters from the increase use of fossil fuels
 - This is how we were able to [predict the global stagflation of 2022](/social/supersociology/precrisis-years) from the quantitative easing done from 2009.
 
@@ -149,7 +195,7 @@ For example, the United States allows people to say whatever they want even if i
 
 And so the best policy to end mass shootings is to restrain people from saying whatever they want. East Asians have such control and so mass shootings are rare in Japan, Korea, and China.
 
-The next post will explain how we notate the chain of cause and effect, as Qualimath. 
+<!-- The next post will explain how we notate the chain of cause and effect, as Qualimath.  -->
 
 
 <!-- ## Moral Consequentialism

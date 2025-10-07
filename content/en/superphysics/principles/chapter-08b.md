@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 11e"
+heading: "Chapter 8e"
 title: "The Two Operations of Thinking and Feeling"
 date: 2020-12-06
 image: /photos/psych/self.jpg

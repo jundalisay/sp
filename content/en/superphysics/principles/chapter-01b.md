@@ -88,6 +88,9 @@ This ignorance of causes is why materialists peg the root causes:
 - to blind chance or pronbability (to make it sound scientific) if they are non religious
 - to a mysterious God if they are religious
 
+{{< i s="/photos/meta/adam.jpg" a="Adam" c="Some materialists, like Isaac Newton revert to God and religion as a sink for mysteries that they cannot explain" >}}
+
+
 
 In Physics this is best seen in the Heisenberg Uncertainty Principle. 
 
@@ -123,37 +126,18 @@ Cosmological lithium problem in 'Older' Stars | Very Large Telescope Chile
 
 
 
-## The Correct Natural View of the Universe
-
-The correct natural holistic view of the universe is to think of it as infinite and eternal. 
-
-
-{{< q a="Aristotle" c="The Heavens, Book 1, Chapter 10" >}}
-The universe cannot be at once eternal and generated. To say that the universe alternately combines and dissolves is no more paradoxical than to make it eternal but varying in shape.
-{{< /q >}}
-
-
-The universe and reality are based on perception as the unit mind being within the Supreme Mind. This leads to:
-- the malleability of space as teleportation
-- the malleability of time as time travel
-- customization of reality as alternate realities
-
-{{< i s="/graphics/physics/bootup.jpg" a="Big Bootup" c="The natural view has no void or existential gaps in perception" >}}
-
-
-The materialist view of the universe belittles the metaphysical domain and treats it as insignificant, while enshrining the physical domain of physical sensations. 
-
-The natural or spiritual view of the universe, on the other hand:
-- downplays physicality, calling it as an illusion
-- give suprme emphasis on the metaphysical domain, specifically on the Supreme Entity that generates Existence
-
-
-
 ## So What's the Use of Exposing the Materialist View?
+
+Materialism creates limition in order to increase focus on a small part of Existence. This is usually done for ease and convenience.
+
+This is easily seen in executives who resort to reducing their employees into quantitative dollar value instead qualitative subjective value so that:
+- quicker decisions can be made  
+- information overload can be avoided
+
 
 The materialist view is currently being pushed by the Western education system that focuses on thinking instead of feeling.
 
-For example, critical thinking is taught, but no one has ever heard of critical feeling. 
+For example, critical thinking is taught, but no one has ever heard of **critical feeling**. 
 
 This is why the Western Civilization has consistently collapsed, as seen in the Fall of Rome, or declined, as seen in the current decline of the West under the rise of China and India. 
 
@@ -165,12 +149,4 @@ For example:
 - overfocus on rigid goals instead of looking at the big picture can cause conflict or decline in organizations 
 
 
-Identifying materialism in the sciences lets people think outside the box for better and more natural solutions.
-
-Science | Metaphysical Upgrade
---- | ---
-Physics | Adopt the aether to allow anti-gravity, and relationality to downplay Heisenberg's Uncertainty Principle
-Medicine | Adopt the aether to allow Ayurveda, Chinese Medicine, Naturopathy for more diverse cures
-Politics | Adopt the aether to harmonize minds and political parties based on core idea
-Biology | Adopt the aether as Lamarckism willpower as the cause for change and evolution (i.e. we can will a harmonized world)
-Psychology | Adopt the aether, as Descartes animal spirits or Taoist chi, as the cause of behavior to better create behavior change
+Identifying materialism in the sciences lets people think outside the box for better and more natural solutions which we will discuss in the next section as the natural view.

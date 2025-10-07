@@ -1,9 +1,30 @@
-Karl Marx: Critique of Political Economy
-
+---
+heading: Chapter 3
+title: "Money"
+weight: 5
+date: 2025-10-05
+description: ""
+c: "firebrick"
+writer:
+  name: Karl Marx
+  url: https://en.wikipedia.org/wiki/Karl_Marx
+icon: "Karl Marx"
+---
  
 
 b. Means of Payment
-Up to now two forms of money which differ from the medium of circulation have been considered, namely suspended coin and hoard. The first form, the temporary transformation of coins into money, reflects the fact that in a certain sphere of circulation, the second term of C—M—C, that is M—C the purchase, must break up into a series of successive purchases. Hoarding, however, is either simply due to the separation of the transaction C—M which does not proceed to M—C, or it is merely an independent development of the first metamorphosis of commodities, money, or the alienated form of existence of all commodities as distinct from means of circulation, which represents the always saleable form of the commodity. Coin held in reserve and hoards constitute money only as non-means of circulation, and are non-means of circulation merely because they do not circulate. The distinctive form of money which we now consider circulates or enters circulation, but does not function as means of circulation. Money as means of circulation was always means of purchase, but now it does not serve in that capacity.
+
+Non circulating money are:
+
+1. Suspended coin
+
+This is the temporary transformation of coins into money, reflects the fact that in a certain sphere of circulation, the second term of C—M—C, that is M—C the purchase, must break up into a series of successive purchases. 
+
+2. Hoard
+
+Hoarding, however, is either simply due to the separation of the transaction C—M which does not proceed to M—C, or it is merely an independent development of the first metamorphosis of commodities, money, or the alienated form of existence of all commodities as distinct from means of circulation, which represents the always saleable form of the commodity. 
+
+Coin held in reserve and hoards constitute money only as non-means of circulation, and are non-means of circulation merely because they do not circulate. The distinctive form of money which we now consider circulates or enters circulation, but does not function as means of circulation. Money as means of circulation was always means of purchase, but now it does not serve in that capacity.
 
 When as a result of hoarding money becomes the embodiment of abstract social wealth and the material representative of physical wealth, this aspect of money acquires specific functions within the process of circulation. When money circulates simply as a means of circulation and hence as a means of purchase, this presupposes that commodity and money confront each other simultaneously; in other words, that the same value is available twice, as a commodity in the hands of the seller at one pole, and as money in the hands of the buyer at the other pole. The simultaneous existence of the two equivalents at opposite poles and their simultaneous change of place, or their mutual alienation, presupposes in its turn that seller and buyer enter into relation with each other only as owners of actually existing commodities. But the metamorphosis of commodities, in the course of which the various distinct forms of money are evolved, transforms the commodity-owners as well, and alters the social role they play in relation to one another. In the course of the metamorphosis of commodities the keeper of commodities changes his skin as often as the commodity undergoes a change or as money appears in a new form. Commodity-owners thus faced each other originally simply as commodity-owners; then one of them became a seller, the other a buyer; then each became alternately buyer and seller; then they became hoarders and finally rich men. Commodity-owners emerging from the process of circulation are accordingly different from those entering the process. The different forms which money assumes in the process of circulation are in fact only crystallisations of the transformation of commodities, a transformation which is in its turn only the objective expression of the changing social relations in which commodity-owners conduct their exchange. New relations of intercourse arise in the process of circulation, and commodity-owners, who represent these changed relations, acquire new economic characteristics. In the same way as within the sphere of internal circulation money becomes nominal, and a mere piece of paper representing gold is able to function as money, so a buyer or seller who comes forward as a mere representative of money or commodities, namely one who represents future money or future commodities, is enabled by the same process to operate as a real buyer or seller.
 
