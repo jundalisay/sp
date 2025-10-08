@@ -3,9 +3,9 @@ heading: "Chapter 3e"
 title: "The Cycle of Creation"
 date: 2024-06-02
 weight: 140
-image: "/graphics/super/waves.jpg" 
+image: "/graphics/super/cycle.jpg"
 description: "The cycle of creation follows Positive Direction"
-icon: "Superphysics"
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

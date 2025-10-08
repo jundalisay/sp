@@ -71,19 +71,21 @@ The whole body is balanced on this cakra [plexus]. It has 4 propensities:
 
 This is situated on the spinal cord directly behind the root of the genital organ. It has 6 propensities:
 
-1. Avajiṋá [belittlement of others]
+1. Avajñā अवज्ञा (Avajiṋá) [disrespect, contempt, neglect, belittlement of others]
 2. Múrcchá [psychic stupor, lack of common sense]
-3. Prashraya [indulgence]
-4. Avishvása [lack of confidence]
-5. Sarvanásha [thought of sure annihilation]
-6. Kruratá [cruelty]
+3. Prashraya [respect, courtesy]
+ <!-- [indulgence] -->
+4. Avishvása  [distrust]
+<!-- [lack of confidence] -->
+5. Sarvanásha [thought of sure annihilation or total destruction]
+6. Krurata [cruelty]
 
 
 ### Mańipura cakra
 
 This is located at the navel. It controls 10 propensities:
 
-1. Lajjá [shyness, shame]
+1. Lajja [shyness, shame]
 2. pishunatá [sadistic tendency]
 3. Iirśá [envy]
 4. Suśupti [staticity, sleepiness]
@@ -111,6 +113,7 @@ This is situated in the centre of the chest. It controls 12 propensities:
 10. Kapat́atá [hypocrisy]
 11. Vitarka [argumentativeness to point of wild exaggeration]
 12. Anutápa [repentance]
+
 
 ### Vishuddha cakra
 

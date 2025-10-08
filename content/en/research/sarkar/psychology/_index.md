@@ -1,6 +1,7 @@
 ---
-title: "Discourses on Psychology"
+# Discourses on 
+title: "Psychology"
 description: "Psychology"
 c: "steelblue"
-weight: 72
+weight: 50
 ---

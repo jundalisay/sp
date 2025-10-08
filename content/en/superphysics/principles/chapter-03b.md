@@ -92,6 +92,37 @@ And so we normally are unable to realize the association and the dynamics of tha
 
 
 
+## Difference of "God" and "Nature" 
+
+The Supreme Entity encompasses the abstract concept of God and Nature.
+
+- The abstract "God" refers to the Higher Mind of the Supreme
+- Abstract "Nature", as the system of forces or laws that sustain Existence, refers to the Lower Mind of the Supreme
+
+It is the lower mind of the Supreme that facilitates observable natural phenomena that we attribute to Nature.
+
+It is the higher mind of the Supreme that facilitates the unobserved phenomena like how the souls of dead people reincarnate, how karma floats as samskara or pending reaction, how solution-ideas exist in potentiality waiting to be grasped by the physical (lower) mind. 
+
+We say that the lower mind is a bit obvious and the higher mind is mysterious.
+
+
+This hard-to-observe property of the higher mind is why people even ask "Does God exist?"
+- It proves that the Higher Mind is difficult to perceive
+
+This is also why people often respond: "I don't know, but I believe in a Higher Power".
+- This is because the power of Nature is far more obvious and so people use that obvious perception to infer the existence of something Higher that is not so obvious or describable.   
+
+
+<!-- The physical universe is therefore the most obvious means of Its expression just as we are less obvious and more complicated ones.  
+The question 'Does God exist?' can be answered by 'Can you perceive Existence?'. 
+ -->
+
+
+This will be explained in Chapter 8b. 
+
+
+
+
 ## Concepts Emerging from Existence-Consciousness 
 
 The concept of Existence-Consciousness leads to the following concepts:

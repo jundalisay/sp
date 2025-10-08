@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 10c"
+heading: "Chapter 12b"
 title: "The Superphysics Direction"
 date: 2022-01-22
 image: "/photos/psych/hall.jpg"

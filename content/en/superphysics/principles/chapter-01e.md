@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1d"
+heading: "Chapter 1e"
 title: "Four Wave Properties: Commonality, Density, Strength, Speed"
 date: 2025-10-04
 weight: 13

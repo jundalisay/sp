@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1e"
+heading: "Chapter 1f"
 title: "Vortices and Ideas"
 date: 2024-12-28
 # 2020-01-04
@@ -67,7 +67,6 @@ A living node, as a physical organism, on the other hand, can express more since
 <!-- A perceiving mind within that Supreme Mind is also a disturbance, as a node, that encounters other disturbances.  -->
 
 
-
 Cartesian Physics calls nodes as spinning vortices. 
 
 {{< q a="Rene Descartes" c="Principia Philosophia, Part 3" >}}
@@ -81,6 +80,8 @@ In a metaphysical view, everything is a vortex:
 - The vortices in stars and planets are their core
 - The vortices in matter are the gluon field in the proton
 
+
+{{< i s="/graphics/physics/exist.jpg" a="Vortex" c="A consciouness 'hole' becomes a 'vortex' when Existence is activated and ideas flow" >}}
 
 This is consistent with Plato's description of mind:
 

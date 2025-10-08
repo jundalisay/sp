@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.75903494"
-     inkscape:cx="911.02526"
-     inkscape:cy="508.54049"
+     inkscape:zoom="0.89819277"
+     inkscape:cx="830"
+     inkscape:cy="405.25822"
      inkscape:window-width="2160"
      inkscape:window-height="1404"
      inkscape:window-x="0"
@@ -148,226 +148,286 @@
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path13-1" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="marker13-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path13-8" />
+    </marker>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#000000;stroke:#ffffff;stroke-width:2.501;fill-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:2.501"
        id="rect2"
        width="1714.0186"
        height="841.85846"
-       x="-17.127012"
-       y="-10.5397" />
+       x="19.761934"
+       y="-9.2222376" />
     <rect
        style="fill:#566fea;fill-opacity:1;stroke:#9f00d3;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
        id="rect1"
        width="283.85397"
        height="59.885357"
-       x="232.89108"
-       y="111.68452" />
+       x="269.78003"
+       y="113.00198" />
     <rect
        style="fill:#087932;fill-opacity:1;stroke:#9f00d3;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
        id="rect1-06"
        width="283.85397"
        height="59.885357"
-       x="252.31158"
-       y="170.43874" />
+       x="289.20053"
+       y="171.7562" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#9f00d3;stroke-width:7.20852;stroke-dasharray:none;stroke-opacity:1"
        id="rect1-0"
        width="1084.988"
        height="307.68524"
-       x="204.20587"
-       y="112.3643" />
+       x="241.09482"
+       y="113.68176" />
     <text
        xml:space="preserve"
        style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
-       x="-186.04053"
-       y="159.47342"
+       x="-187.39697"
+       y="196.36095"
        id="text2-0"
        transform="rotate(-90.060549)"
        inkscape:transform-center-x="-191.03205"
        inkscape:transform-center-y="96.174756"><tspan
          sodipodi:role="line"
          id="tspan2-6"
-         x="-186.04053"
-         y="159.47342"
+         x="-187.39697"
+         y="196.36095"
          style="font-size:37.3333px;fill:#db98ff;fill-opacity:1;stroke:none">POSITIVE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
-       x="-591.48889"
-       y="1467.0466"
+       x="-595.46631"
+       y="1490.7568"
        id="text2-0-0"
        transform="rotate(-90.060549)"
        inkscape:transform-center-x="-191.03205"
        inkscape:transform-center-y="96.174756"><tspan
          sodipodi:role="line"
          id="tspan2-6-2"
-         x="-591.48889"
-         y="1467.0466"
+         x="-595.46631"
+         y="1490.7568"
          style="font-size:37.3333px;fill:#ff6099;fill-opacity:1;stroke:none">NEGATIVE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="-275.4299"
-       y="91.860413"
+       x="-287.32281"
+       y="1618.7552"
        id="text4"
        transform="rotate(-90.347394)"><tspan
          sodipodi:role="line"
          id="tspan4"
-         x="-275.4299"
-         y="91.860413"
+         x="-287.32281"
+         y="1618.7552"
          style="font-size:24px;fill:#ffffff;fill-opacity:1;stroke:none">Metaphysical Domain</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="-407.68576"
-       y="1584.5347"
+       x="-408.79553"
+       y="1550.2733"
        id="text4-2"
        transform="rotate(-90.347394)"><tspan
          sodipodi:role="line"
          id="tspan4-9"
-         x="-407.68576"
-         y="1584.5347"
+         x="-408.79553"
+         y="1550.2733"
          style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">Self-Perspective</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="810.38568"
-       y="746.63678"
+       x="847.28357"
+       y="747.67432"
        id="text4-2-8"
        transform="rotate(0.43469962)"><tspan
          sodipodi:role="line"
          id="tspan4-9-8"
-         x="810.38568"
-         y="746.63678"
+         x="847.28357"
+         y="747.67432"
          style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">Universe-Perspective</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="384.75299"
-       y="70.858932"
+       x="421.65088"
+       y="71.896484"
        id="text4-2-8-4"
        transform="rotate(0.43469962)"><tspan
          sodipodi:role="line"
          id="tspan4-9-8-4"
-         x="384.75299"
-         y="70.858932"
+         x="421.65088"
+         y="71.896484"
          style="font-size:37.3333px;fill:#edc5ff;fill-opacity:1;stroke:none">Strata</tspan></text>
     <text
        xml:space="preserve"
+       style="font-size:32px;line-height:0.9;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="65.240768"
+       y="49.943375"
+       id="text4-2-8-4-5"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-3"
+         x="65.240768"
+         y="49.943375"
+         style="font-size:32px;line-height:0.9;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none">Perception </tspan><tspan
+         sodipodi:role="line"
+         x="65.240768"
+         y="78.743378"
+         style="font-size:32px;line-height:0.9;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="tspan1">Density</tspan></text>
+    <text
+       xml:space="preserve"
        style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="750.37695"
-       y="66.717545"
+       x="91.659348"
+       y="152.98726"
+       id="text4-2-8-4-5-9"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-3-1"
+         x="91.659348"
+         y="152.98726"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="89.283066"
+       y="211.7198"
+       id="text4-2-8-4-5-9-0"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-3-1-2"
+         x="89.283066"
+         y="211.7198"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="787.27484"
+       y="67.755096"
        id="text4-2-8-4-1"
        transform="rotate(0.43469962)"><tspan
          sodipodi:role="line"
          id="tspan4-9-8-4-7"
-         x="750.37695"
-         y="66.717545"
+         x="787.27484"
+         y="67.755096"
          style="font-size:37.3333px;fill:#c5e4ff;fill-opacity:1;stroke:none">Elements</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="1186.9078"
-       y="61.818199"
+       x="1223.8057"
+       y="62.855751"
        id="text4-2-8-4-2"
        transform="rotate(0.43469962)"><tspan
          sodipodi:role="line"
          id="tspan4-9-8-4-1"
-         x="1186.9078"
-         y="61.818199"
+         x="1223.8057"
+         y="62.855751"
          style="font-size:37.3333px;fill:#ff93a7;fill-opacity:1;stroke:none">Layers</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="-577.41943"
-       y="87.237595"
+       x="-584.05853"
+       y="1616.7993"
        id="text4-7"
        transform="rotate(-90.347394)"><tspan
          sodipodi:role="line"
          id="tspan4-3"
-         x="-577.41943"
-         y="87.237595"
+         x="-584.05853"
+         y="1616.7993"
          style="font-size:24px;fill:#ffffff;fill-opacity:1;stroke:none">Physical Domain</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="668.97034"
-       y="155.22316"
+       x="705.84302"
+       y="156.93591"
        id="text4-7-1"
        transform="rotate(-0.61409858)"><tspan
          sodipodi:role="line"
          id="tspan4-3-5"
-         x="668.97034"
-         y="155.22316"
+         x="705.84302"
+         y="156.93591"
          style="font-size:24px;fill:#fac2ff;fill-opacity:1;stroke:none">Positive-Positive</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="1303.0369"
-       y="314.41891"
+       x="1088.2887"
+       y="313.43469"
        id="text4-7-1-6"
        transform="rotate(-0.61409858)"><tspan
          sodipodi:role="line"
          id="tspan4-3-5-7"
-         x="1303.0369"
-         y="314.41891"
+         x="1088.2887"
+         y="313.43469"
          style="font-size:24px;text-align:start;text-anchor:start;fill:#ff89c0;fill-opacity:1;stroke:none">Negative-Negative </tspan><tspan
          sodipodi:role="line"
-         x="1303.0369"
-         y="344.41891"
+         x="1088.2887"
+         y="343.43469"
          style="font-size:24px;text-align:start;text-anchor:start;fill:#ff89c0;fill-opacity:1;stroke:none"
          id="tspan7">Non-Living Things</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="662.81512"
-       y="633.71698"
+       x="699.68781"
+       y="635.42975"
        id="text4-7-1-6-6"
        transform="rotate(-0.61409858)"
        inkscape:transform-center-x="-922.22369"
        inkscape:transform-center-y="-343.85769"><tspan
          sodipodi:role="line"
          id="tspan4-3-5-7-3"
-         x="662.81512"
-         y="633.71698"
+         x="699.68781"
+         y="635.42975"
          style="font-size:24px;text-align:end;text-anchor:end;fill:#89b4ff;fill-opacity:1;stroke:none">Positive-Negative</tspan><tspan
          sodipodi:role="line"
-         x="662.81512"
-         y="663.71698"
+         x="699.68781"
+         y="665.42975"
          style="font-size:24px;text-align:end;text-anchor:end;fill:#89b4ff;fill-opacity:1;stroke:none"
          id="tspan7-9">Living Things</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="747.77985"
-       y="-23.810745"
+       x="782.36206"
+       y="-36.718113"
        id="text4-7-5"
        transform="rotate(22.512851)"><tspan
          sodipodi:role="line"
          id="tspan4-3-9"
-         x="747.77985"
-         y="-23.810745"
+         x="782.36206"
+         y="-36.718113"
          style="font-size:32px;fill:#ffffff;fill-opacity:1;stroke:none">realization</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff7dab;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
-       x="663.5636"
-       y="280.45499"
+       x="699.40234"
+       y="271.61673"
        id="text4-7-5-9"
        transform="rotate(15.898803)"><tspan
          sodipodi:role="line"
          id="tspan4-3-9-1"
-         x="663.5636"
-         y="280.45499"
+         x="699.40234"
+         y="271.61673"
          style="font-size:32px;fill:#ff7dab;fill-opacity:1;stroke:none">creation</tspan></text>
     <g
        id="g5"
-       transform="translate(88.269982,18.444474)">
+       transform="translate(125.15893,19.761936)">
       <rect
          style="fill:#8d0900;fill-opacity:1;stroke:#9f00d3;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
          id="rect1-06-6"
@@ -399,7 +459,7 @@
            id="tspan2"
            x="285.88931"
            y="142.28593"
-           style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Aethereal</tspan></text>
+           style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Causal</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
@@ -410,10 +470,10 @@
            id="tspan2-1"
            x="305.21042"
            y="201.17851"
-           style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Spatial</tspan></text>
+           style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Essential</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
+         style="font-size:42.6667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
          x="327.70203"
          y="259.14658"
          id="text2-8"><tspan
@@ -421,7 +481,7 @@
            id="tspan2-4"
            x="327.70203"
            y="259.14658"
-           style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Radiant</tspan></text>
+           style="font-size:42.6667px;fill:#ffffff;fill-opacity:1;stroke:none">Supramental</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
@@ -432,7 +492,7 @@
            id="tspan2-3"
            x="358.13208"
            y="323.3703"
-           style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Convertible</tspan></text>
+           style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Subtle</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:48px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#6982ff;stroke:#6b8cff;stroke-width:28.18"
@@ -444,11 +504,11 @@
            id="tspan2-10"
            x="378.70218"
            y="383.08344"
-           style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Material</tspan></text>
+           style="font-size:48px;fill:#ffffff;fill-opacity:1;stroke:none">Crude</tspan></text>
     </g>
     <g
        id="g4"
-       transform="translate(256.90517,-221.33369)">
+       transform="translate(293.79412,-220.01623)">
       <rect
          style="fill:#8d0900;fill-opacity:1;stroke:#0042d3;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
          id="rect1-06-6-4"
@@ -543,7 +603,7 @@
     </g>
     <g
        id="g6"
-       transform="translate(837.90609,-216.06384)">
+       transform="translate(874.79504,-214.74638)">
       <rect
          style="fill:#8d0900;fill-opacity:1;stroke:#d30072;stroke-width:4.84553;stroke-dasharray:none;stroke-opacity:1"
          id="rect1-06-6-9"
@@ -641,44 +701,85 @@
        id="rect1-0-8"
        width="1065.2013"
        height="315.56519"
-       x="326.63297"
-       y="360.76028" />
+       x="363.52191"
+       y="362.07776" />
     <path
        style="fill:#800000;fill-opacity:1;stroke:#f1b4ff;stroke-width:4.999;stroke-dasharray:14.997, 14.997;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle)"
-       d="M 1389.9229,516.44526 206.8416,140.96847"
+       d="M 1426.8118,517.76272 243.73055,142.28593"
        id="path6"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#800000;fill-opacity:1;stroke:#ff91a8;stroke-width:5.001;stroke-dasharray:15.003, 15.003;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle-2)"
-       d="M 202.73236,289.21477 1367.0304,662.87286"
+       d="M 239.62131,290.53223 1403.9193,664.19032"
        id="path6-1"
        inkscape:transform-center-x="-3.1973549"
        inkscape:transform-center-y="376.47624"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.001;stroke-dasharray:10.002, 30.006;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1928.765,446.61976 -85.635057,442.66737"
+       d="M 1965.6539,447.93722 -48.74611,443.98483"
        id="path7"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#89b4ff;fill-opacity:1;stroke:#ffffff;stroke-width:2.501;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker9)"
-       d="m 1007.8588,741.73134 386.0164,-2.63493"
+       d="m 1044.7477,743.0488 386.0164,-2.63493"
        id="path8"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#89b4ff;fill-opacity:1;stroke:#ffffff;stroke-width:2.501;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker9-9)"
-       d="M 596.26596,738.00084 210.24605,735.94337"
+       d="M 633.15491,739.3183 247.135,737.26083"
        id="path8-8"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#89b4ff;fill-opacity:1;stroke:#ffffff;stroke-width:2.501;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker13)"
-       d="M 1574.3676,234.5083 V 119.88908"
+       d="M 1544.0659,237.14322 V 122.524"
        id="path10"
        sodipodi:nodetypes="cc" />
     <path
+       style="fill:#89b4ff;fill-opacity:1;stroke:#ffffff;stroke-width:3.70337;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Triangle);marker-end:url(#marker13-4)"
+       d="M 159.46725,638.73386 V 387.4157"
+       id="path10-0"
+       sodipodi:nodetypes="cc" />
+    <path
        style="fill:#89b4ff;fill-opacity:1;stroke:#ffffff;stroke-width:2.501;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker13-8)"
-       d="m 1575.7154,547.99631 0.5217,114.61804"
+       d="m 1544.0963,550.63123 0.5217,114.61804"
        id="path10-3"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="89.624512"
+       y="269.98245"
+       id="text4-2-8-4-5-9-9"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-3-1-22"
+         x="89.624512"
+         y="269.98245"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="89.463631"
+       y="334.08615"
+       id="text4-2-8-4-5-9-3"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-3-1-6"
+         x="89.463631"
+         y="334.08615"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff6099;fill-opacity:1;stroke:#d3005f;stroke-width:9.399;stroke-dasharray:none;stroke-opacity:1"
+       x="95.021019"
+       y="529.65271"
+       id="text4-2-8-4-5-9-3-8-1"
+       transform="rotate(0.43469962)"><tspan
+         sodipodi:role="line"
+         id="tspan4-9-8-4-3-1-6-5-5"
+         x="95.021019"
+         y="529.65271"
+         style="font-size:37.3333px;fill:#ffffff;fill-opacity:1;stroke:none">3-1</tspan></text>
   </g>
 </svg>

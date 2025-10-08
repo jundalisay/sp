@@ -1,8 +1,8 @@
 ---
-heading: "Chapter 8"
+heading: "Chapter 9"
 title: "The Nature of Feelings and Emotions"
 date: 2020-12-15
-weight: 600
+weight: 640
 image: /graphics/psych/feelings.jpg
 description: "Desire is a fundamental kind of feeling which we sense through our hearts"
 writer:
@@ -19,9 +19,6 @@ Chapter 1f explained that:
 - the universe has a wave-nature
 - waves manifest as feelings
 - nodes of waves manifest as ideas
-
-
-
 
 
 ## Feelings are Superior to Intellect

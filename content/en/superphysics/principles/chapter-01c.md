@@ -1,9 +1,9 @@
 ---
+heading: "Chapter 1c"
 title: "The Correct Natural View of Reality"
-heading: "Chapter 1b"
 date: 2025-10-04
 weight: 8
-image: /graphics/physics/bigbang.jpg
+image: /graphics/super/natural.jpg
 description: "The current prevailing belief among humans is that material phenomena is the cause of mental phenomena"
 icon: "Juan"
 writer:

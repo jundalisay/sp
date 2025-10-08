@@ -1,11 +1,10 @@
 ---
 heading: "Chapter 10"
-title: "The Academy of Sages"
-date: 2025-01-18
-# date: 2020-11-20
-weight: 730
-image: /photos/medieval/spartan.jpg
-description: "Academy of Sages is an institution for advancing true knowledge"
+title: "The Society Organism"
+date: 2025-10-07
+weight: 650
+image: /photos/objects/hand.jpg
+description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,27 +12,13 @@ icon: "Superphysics"
 ---
 
 
-In the Republic of Plato, Socrates explains his concept of Guardians. 
 
-These are strong warriors who are also philosophers. This is taken from the Spartans who known for their military skill as well as wisdom. 
+Chapter 5c explained how nodes, as ideas, have an inherent ability to connect to each other because they are really made up of flowing waves. 
 
-Technically, this combines the Thinking and Warrior Classes.  
+This leads to a natural pyramid structure for complex ideas where the essence or core idea is at the center or top, and the sub-ideas are below and farther from the center. 
 
-We can call them sages to emphasize the requirement of wisdom which we defined as an intellect that is in line with the dharma of the causes and effects in question.
+{{< i s="/graphics/meta/compound.jpg" a="Connection of ideas" c="The ">}}
 
-Sages are the detectors of the abstract and subtle phenomena. They can process what they detected and also implement them in the real world. 
-
-
-This means that they have 3 competencies:
-
-Quality | Skill 
---- | ---
-Spirituality | Ability to Detect Subtle Phenomena
-Intellect | Ability to connect phenomena with Principles
-Action | Ability to implement solutions or measures 
-
-
-
-<!-- The world values the James Webb Space Telescope for giving better images than the Hubble Space Telescope.   -->
+This  
 
 

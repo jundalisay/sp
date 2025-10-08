@@ -1,164 +1,83 @@
 ---
-heading: "Chapter 8e"
-title: "The Two Operations of Thinking and Feeling"
-date: 2020-12-06
-image: /photos/psych/self.jpg
-# date: 2020-12-10
-weight: 604
+heading: "Chapter 8b"
+title: "The Higher and Lower Mind and the 5 Strata"
+# date: 2020-01-01
+date: 2020-12-10
+weight: 602
+image: /photos/physics/balloon.jpg
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
 ---
 
 
-The previous chapters explained that:
-- Existence is in the mind for the purpose of being experienced by the perceiver or consciousness
-- A mind can only be active or inactive, just as consciousness can only be be `on` or `off`
-- Desire, as a type of feeling and effect of the Two Forces, is the engine for the creation of anything in existence 
-- All Existence is then made up of ideas and feelings molded by the Two Forces
-  - Ideas are sensed by the mind's intellect 
-  - Feelings are sensed by the mind's heart 
+
+Our definition of life is based on the metaphysical expression by nodes which manipulate the waves flowing through it to match its own configuration. 
+
+This means that expression is based on subtlety which is caused by the flexibility of waves. 
+
+This flexibility comes from the Positive Force.
+
+And so we say that:
+- life and spirituality comes from the Positive Force
+- matter and selfishness comes from the Negative Force 
 
 
-We also said that the mind is like an arena or theater where ideas and feelings are perceived. With this analogy, we can group the different abilities or operations of the mind into 4: 
+In spirituality, the physical domain is discarded.
 
-1. Thinking: This is similar to the manipulating the actors and props
+So does this mean that metaphysical entities have all the same level of intelligence and subtlety?
 
-2. Remembering: This is similar to props being stored and retrieved backstage 
+The Positive and Negative still work in the same way in the metaphysical domain as in the physical. The only difference is that in the physical domain, the Negative is very dominant. 
 
-3. Learning: This is similar to the improvement of the theater in the way it manipulates (thinks) and stores and retrieves its props (remembers) 
+Moreover, the Asian scriptures, particularly the Buddhist texts, assert that even metaphysical beings, called devas and elementals, have hierarchies between them. 
 
-4. Expanding or Contracting: This is similar to the expansion of a theater in order to have better shows
+It follows that the 2 domains and 5 Elements stratification is still in force, but with slight differences. 
 
-
-
-## Thinking
-
-The main job of the intellectual mind is to think about its ideas.
-- The act of thinking is the perception and connection of ideas  
-
-The main job of the emotional mind is to discern its feelings.
-- The act of feeling is the perception and immersion of feelings
-
-{{< i s="/photos/psych/self.jpg" a="Thinking" >}}
-
-We then group this thinking operation into 2 categories:
-
-<!-- From here, we can say that all of the activities or operations of the mind's intellect can be broadly categorized into two: -->
-
-1. Adding or Combinative
-2. Subtracting or Separative
-
-We also group this feeling operation into 2 categories:
-<!-- The activities or operations mind's heart can also be broadly categorized into two: -->
-
-1. Attraction
-2. Repulsion
-
-Attraction has a combinative net effect just as repulsion has a separative one. 
-
-Therefore the active mind, which thinks and feels, has 2 kinds of operations:
-- Combination
-  - This comes from the Positive Force
-- Separation
-  - This comes from the Negative Force
-
-<!-- Note that memory is a quality of the mind, and not an operation. Remembering is part of the operations of consciousness, just as perception is.  -->
-
-![Yin and Yang](/photos/meta/yinyang.jpg)
+In the metaphysical domain, we call:
+- the upper domain as the higher mind 
+- the lower domain as the lower mind
+- the 5 Elements as the 5 Strata
 
 
-## The Operations of Thinking 
-<!-- the Intellect -->
+## Higher Mind and Lower Mind
 
-"Adding" or "combination" is the integration of one identity to another to create a new third identity. This is an effect of the Positive Force (Yang or Shiva)
+Physical Existence is within 2 domains: physical and metaphysical.
 
-For example, we:
-- add `1 + 1` to make `2` 
-- put more rice grains in a bag to make it reach 1 kilogram for purchase
-- step in an empty bus so it can get passengers and start its journey
+Metaphysical existence is within 2 domains: higher and lower mind. 
 
 
-"Subtracting" or "separation" is the removal of one part of an identity in order to create a new identity. This is an effect of the Negative Force (Yin or Shakti or Prakrti)
+1. Higher Mind
 
-For example, we:
-- subtract `3 - 1` to make `2`
-- remove things from our luggage so that it will meet the limit of 15 kilograms 
-- step out of an overloaded bus so that it can run safely
+This is the subtler mind that occupies the higher parts of the metaphysical domain, and is called the soul. Philosophers call this the spiritual mind or subjective mind.
 
-
-Related operations of thinking spring from these 2 broad operations:
-
-Combination Category:
-- Multiplication
-- Exponents
-- Memory or Remembering
-- etc
-
-Separation Category:
-- Division and Fractions
-- Square roots
-- Ignorance or Forgetting
-- etc
-<!-- - Factorials and Multiples -->
+The higher mind is more alive than the lower mind. 
 
 
+2. A physical mind 
 
-## The Operations of Feeling
-<!-- the Heart -->
-
-Attraction is the tendency to move towards an object. 
-
-Its related oprations are:
-- Love
-- Friendship
-- Cooperation
-- Society
-- Buying
-- Arriving
-- Marriage or Being a couple
-- etc
+This is the mind that occupies the lower part of the metaphysical domain, making it contiguous to the physical domain. This is what scientists believe in. Philosophers call this the crude mind or objective mind.
 
 
-Repulsion is the tendency to move away an object. 
-
-- Hate
-- Animosity
-- War
-- Isolation
-- Selling
-- Leaving
-- Divorce or Breaking up
-- etc
-
-{{< i s="/photos/psych/freedom.jpg" a="Feeling" >}}
+{{< q a="William Benham" c="The Laws of Scientific Hand Reading, Part 2, Chapter 1" >}}
+Recent experiments by scientists have demonstrated that the human being is possessed of a double consciousness or mind. One part operates in our material existence.. The other part operates on the plane of our spiritual existence
+{{< /q >}}
 
 
-### Usefulness of Combinative and Separative
+## The 5 Strata
 
-All the operations of thinking and feeling<!-- mind, through the intellect and feelings, --> thus fall into those 2 categories. This categorization is very useful for understanding the root cause of mental problems. 
+We can discard the names of Air, Fire, Water, Earth in the metaphysical domain as those names denote physical phenomena. 
 
-For example, Modern psychology detaches the intellect from the heart when dealing with memory problems such as dementia or Alzheimer's. This makes its cause unknown. 
+Instead, we use the abstract descriptive names as follows:
 
-However, with our combined model, we point out that intellectual memory loss is separative action of the mind, as forgetting. The solution is to counteract this intellectual separative action with a combinative feeling action (since feelings are superior to intellect).
-
-This manifests as people having better social bonds. This is why positive social interaction is essential to avoid Alzheimer's and other mental diseases.     
-
-This categorization system also works for Physics as artificial intelligence or AI. 
-
-For example, Physicists are unable to create real AI because they neglect the feeling aspect. We solve this by adding social interaction data as part of the training data for our proposed Artificial Sentience system called ISAIAH.
-
-<!-- The separation of memory from remembering is useful in:
-- Bio Superphysics for memory problems, dementia, and
-- Material Superphysics for the creation of artificial sentience. -->
-
-<!-- For example, the interplay of desire, mind-memory, and consciousness explains why  -->
+Stratum | Sanskrit Equivalent | Essassani Equivalent
+--- | --- | ---
+Causal | Hiranmaya | Oversoul (7th density)
+Essential | Vijinanamaya | Soul
+Supramental | Atimanasa | Higher Mind
+Subtle | Manomaya | Template Reality
+Crude | Kamamaya | Collective Automatic Mind
 
 
-## Remembering, Learning, and Expanding
-
-The other abilities of the mind can be explained in Bio Superphysics. 
-
-The next chapter will explain the layers of the mind, as the layers of the universe. 
+{{< i s="/graphics/super/operative.svg" a="5 Strata" >}}

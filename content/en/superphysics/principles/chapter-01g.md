@@ -124,7 +124,7 @@ Subdivision |  Phenomena | Superphysics Branch
 5 Layers | Non-Living | Material
 
 
-## Basis for the 3 Gunas or Subelements
+## Basis for the 3 Gunas or Sub-elements
 
 These 3 divisions also manifest as the basis for the 3 Gunas of subelements within each Element, to be explained in the next Chapter.
 

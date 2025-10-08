@@ -22,7 +22,7 @@ This book describes the 4 kinds of spirit-men:
 
 Included among these 4 kinds are the giants, the melusines, the Venusberg and what is similar to them. 
 
-We consider them to be men, although not from Adam, These are creatures different from man and all other animals. They live among us and bear children although not of their own kind, but of our kind. 
+We consider them to be men, although not from Adam. These are creatures different from man and all other animals. They live among us and bear children although not of their own kind, but of our kind. 
 
 I have organized the topics in the following order:
 

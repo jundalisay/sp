@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2b"
-title: "The Aether Element"
+title: "The Aether Element: Substance"
 # date: 2015-09-09
 date: 2020-12-03
 # 2020-01-04
@@ -50,6 +50,32 @@ Each virtual reality in the Matrix is its own universe. Thus, our universe is ju
 Unlike Science and New Age philosophy that puts emphasis on consciousness as to put all existential mysteries in it, Superphysics puts all the mysteries in the aethereal mind. 
 
 This is because consciousness is just 'on' or 'off' just as existence either "exists" or "doesn't exist".  
+
+
+## Substance, Aether, Consciousness    
+
+To elucidate these concepts, we use our wave paradigm. 
+
+Substance is the thing that makes up potential Existence. In Buddhism and Vedic Philosophy, substance is known as *citta* or mind-stuff.
+
+This substance is then cut up by the Negative Force and deployed into actual Existence as the 5 Elements. 
+
+
+{{< q a="Aristotle" c="The Metaphysics by Aristotle Simplifed, Book 7, Part 13" >}}
+Of which individual then will this be the substance?  Either of all or of none. But it cannot be the substance of all. If it is to be the substance of one, this one will be the others also.
+{{< /q >}}
+
+
+The aether is the Element that is closes to the original Substance and so they are interchangeable just as Existence can mean:
+- potential or theoretical Existence
+- actual or real Existence
+
+Consciousness is the subtlest Substance, closest to Void, that is able to 'measure' or perceive all other Substances.
+- This is like a millimeter ruler being able to assign millimeter-values to millimeter sized things
+- A meter or kilometer ruler cannot give any values for such small things because it was designed to measure meters and kilometers
+
+So Consciousness is the Substance that perceives all. Beyond consciousness, there is only Void and therefore no Existence.
+
 
 Subscience | Name | Use of the Aetheral Layer
 --- | --- | ---

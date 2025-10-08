@@ -88,7 +88,7 @@ We then list the 5 Elements according to rank in Nature.
 
 
 
-### The 5 Elements is an Atheist Belief 
+### The 5 Elements is an Atheist or Pantheist Belief 
 
 Bacon and Descartes clearly did not believe in a dominating personal God, as proven by Bacon's own essay: 
 

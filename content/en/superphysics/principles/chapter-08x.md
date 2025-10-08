@@ -2,7 +2,7 @@
 heading: "Chapter 8e"
 title: "Ease and Unease, Peace and Agitation"
 date: 2024-02-15
-weight: 630
+weight: 1630
 image: /graphics/psych/feelings.jpg
 description: "Desire is a fundamental kind of feeling which we sense through our hearts"
 writer:
