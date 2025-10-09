@@ -1,42 +1,82 @@
 ---
 heading: "Chapter 8"
-title: "Life: Living Things as Expressive Minds"
-# date: 2020-01-01
-date: 2020-12-10
-weight: 600
-image: /graphics/meta/mind.png
+title: "The 4 Operations of Thinking"
+date: 2020-12-06
+image: /photos/psych/self.jpg
+weight: 480
 description: "Everything in existence is an idea of the Creator of that existence"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
 ---
 
 
-{{< q a="Kybalion" >}}
-"Then," you ask, "do you mean to tell us that THE ALL is LIFE and MIND?" Yes! and No! is our answer.
-{{< /q >}}
+Everything already pre-exists in Existence as the Supreme Entity.
+
+Therefore, everything is already known and all problems are already solved from the viewpoint of the Supreme as the perfected agent of the Absolute Entity.
+- We call this the state of omniscience.
+
+However, this perfected state is also worthless. 
+
+This is why:
+- the Negative Force keeps on disturbing the perfection
+- the Positive Force keeps on realizing the value of that perfection
 
 
-Chapter 1f explained that all discrete things in the universe are nodes of bunched-up waves. 
+## Thinking Versus Knowing
 
-- The nodes that are made up of mostly subtle waves become subtle nodes.
-- The nodes that are made up of mostly crude waves become crude nodes.
-- Subtle waves are more flexible because subtlety comes from the Positive Force which is tasked with uniting things together. 
-- Crude waves are more rigid because rigidity comes from the Negative Force which is tasked with breaking things apart. 
+Existence is made up of disturbances as waves and nodes. 
 
-{{< i s="/graphics/super/waves.jpg" a="Waves and Nodes" >}}
+The integration of these nodes leads more and more to the state of Omniscience where all nodes are united as One.
+
+Therefore:
+- **thinking** is the process of integrating external idea-nodes within the mind-node -- this is an action of the higher mind
+- **knowing** is the actual of integration of these idea-nodes -- this is an effect of the higher mind
+- **thoughts** are the products of the thinking process as it grabs and processes ideas 
+- **knowledge** is the product of the integration of these idea-nodes.
+
+Genius is a mind that has enough subtlety to access the higher mind easily.
+
+Stupidity is a mind that has no access to the higher mind and is confined to the lower mind. For example, a stupid mind would answer `1 + 1 = 11` because it has no access to a new idea of `2`. 
 
 
-## Nodes as Minds: Reaction, Learning, and Expression
+In terms of feeling-waves:
+- **expression and feedback** is the process of integrating external and internal feeling-waves to create harmony
+  - Expression is the Negative
+  - Feedback and assimilation is the Positive
+- **peace** is the actual integration of these feeling-waves to create harmony between the internal and external waves
+ 
 
-These nodes are persistent concentrations of individual waves within the single wave of Existence.
+<!-- Force is tasked with the return trip towards the origin, as a wave that has 4 properties: -->
 
-These interact with unconcentrated waves which we physically call as "forces", but we metaphysically call as "feelings".   
+<!-- The previous chapters explained that:
+- Existence is in the mind for the purpose of being experienced by the perceiver or consciousness
+- A mind can only be active or inactive, just as consciousness can only be be `on` or `off`
+- Desire, as a type of feeling and effect of the Two Forces, is the engine for the creation of anything in existence 
+- All Existence is then made up of ideas and feelings molded by the Two Forces
+  - Ideas are sensed by the mind's intellect 
+  - Feelings are sensed by the mind's heart  -->
 
-Larger nodes can absorb and let smaller nodes and waves pass through and have the following outcomes:
 
-1. React
+In thinking, the mind-node adjusts its own configuration in order to match the structure or pattern of the nodes that flow through it.
+
+This is because nodes are just bunched-up waves. And so they can recur just like waves do.  
+
+
+## Thinking, Intuition, Learning, Memory
+
+Thinking is the process of integrating external idea-nodes within the mind-node.
+
+Intuition is the gettomg that actual integration with weak Positive aethereal energy.
+
+Intuition is the gettomg that actual integration with weak Positive aethereal energy.
+
+ process of integrating external idea-nodes within the mind-node.
+
+{{< i s="/graphics/psych/think.jpg" a="Thinking" c="" >}}
+
+<!-- 1. React
 
 A crude node will react to the incoming node or wave by adjusting itself externally. This is seen in balls bouncing off the wall as they react to the crude contact force from that wall.  
 
@@ -46,122 +86,91 @@ A subtle node will "learn" from the incoming nodes by adjusting itself internall
 
 This is seen in the adaptations of living organisms.
 
-3. Express
-
-A very subtle node has the ability of not only reacting and learning, but also of expressing by tapping the flowing waves (since there is no Void in Nature) and adjusting them to express its idea.
-
-This is seen in animals that make sounds or give of light and electricity such as fireflies and electric eels. 
-
-
-## Living Versus Non-living Things
-
-We classify things based on our perception. We perceive that living things have a self-expressive ability, while non-living things do not.
-
-When we throw a ball, we see that it has absolutely no action done by itself and its trajectory follows the route we had in mind.
-
-When throw a bird, we see that it does actions by itself and its trajectory does not follow what the one that we want. Instead, its trajectory is less certain to us, but more certain to it. 
-
-{{< i s="/photos/psych/free.jpg" a="Freedom" >}}
-
-And so we say that the ball has is not alive, but the bird is alive. 
-
-The bird moving at its own trajectory is a physical manifestation of it expressing a desire to go a different way from that followed by the ball.
-
-This is why we define life as **the state where a node or mind has the ability to express itself, independently of the physical aspects of the universe.**
-
-- This independence comes from the Negative Force isolating nodes from each other
-- The expressiveness comes from the Positive Force making the contents of the node flexible
-
-The uncertainty of Existence is proof that the universe as a unit is alive, though it has parts that are not alive. 
-
-Since the universe is alive, then it means that this expression is based in the metaphysical domain, which is independent of the physical domain. 
-
-{{< img src="/graphics/meta/mind.png" alt="Living and non-living mind" cap="A living thing has a mind that can accept external feelings and ideas and likewise express them. A non-living thing cannot, due to the confinement by the Negative Force" >}}
-
-
-This is why the metaphysical is superior to the physical, as mind over matter. 
-
-The materialists reject this and insist that the physical rules over the metaphysical, as matter over mind. This prevalent wrong belief is why human life has so many problems and why humans are still stuck on Earth. We fully address this in Chapter 1b.
-
-
-## Life is Independent Expression from Self-Desire
-
-<!-- ## The Mind as a Tube for Ideas and Feelings
-
-Chapter 1 explained that nodes allow waves and smaller nodes to pass through them. 
-
-{{< i s="/graphics/physics/exist.jpg" a="Vortex" c="A consciouness 'hole' becomes a 'vortex' when Existence is activated and ideas flow" >}} -->
-
-
-<!-- Nodes that have 
-
-- Subtle nodes in the metaphysical domain are dynamic minds that manifest in the physial domain as living things.
-- Crude nodes in the metaphysical domain are static minds that manifest in the physial domain as nonliving things.   -->
-
-'Life' is the state of a mind being expressive within a physical body, yet independently of physicality.
-
-For example, a metal rod reacts to heat by turning red, as its means of expression. 
-
-But we do not regard it as alive **because its expressiveness is not independent of the Nature around it**. 
-
-This manifests as its identity *not* having its own willpower -- its destiny is **totally dependent** on its surrounding environment. 
-
-This means that even though the metal rod is not alive, the physical universe, which it is a part of, is the one that is alive and is making it turn red through the Fire Element. 
-
-<!-- The physical events inside the universe depend on chance. **This chance is really the will of the physical universe being perceived by living entities such as bacteria, plants and animals.**  -->
-
-
-If the physical universe were one living body, then the metal rod would be one of its tiny body parts just as our toenail, which seems not alive, is part of our living body.  
-
-Thus, the living nature of the physical universe is seen in:
-- the reaction of chemicals 
-- the expansion and contraction of matter
-- the fact that material things do not go through each other
-- etc.
-
-A totally dead universe will have no heat, no change, no evolution.
+3. Express -->
 
 
 
-## Mind, Soul, Spirit, Essence
+1. Thinking
 
-A mind is a colection of waves that persist together as a node. 
+This is similar to the manipulating the actors and props
 
-A living mind is a node that has more subtle waves that allow independent expression. 
+2. Remembering: This is similar to props being stored and retrieved backstage 
 
-A non-living mind is a node that has more crude waves that prevent independent expression.
+3. Learning: This is similar to the improvement of the theater in the way it manipulates (thinks) and stores and retrieves its props (remembers) 
 
-A soul is a mind that is regarded without its crude parts. This is called atman in Sanskrit.
-
-A spirit is a mind in active form with waves of forces and feelings flowing through it. 
-
-This is why we say a man is "spirited" if he is active, but "full of soul" if he is deep.
-
-'Evil" really comes from the effects or properties of the Negative Force. So evil spirit or evil person is possible, but evil soul or evil atman is not.  
-
-Essence is the core waves that make up the node and are most persistent to it. 
-
-{{< q a="Socrates" c="Phaedo by Plato Simplified, Chapter 2" >}}
-Absolute greatness, health, strength, and the true nature of everything. These cannot be perceived by our bodily organs. The closest we can get to knowing their several natures is through our intellectual vision. This will give us the most exact conception of the  essence of each thing.
-{{< /q >}}
-
-If those core waves change or are replaced, then the identity gets a new essence. This manifests itself the most in Biology as the evolution of species. 
-- Humans evolved from apes as the primate essence
-- Primates evolved from plesiadapiforms as a shrew essence
-
-The changing of essence is not by chance but by the interaction between core waves which have 4 properties.  
-
-In theory, knowing all the waves in system will allow a prediction of how essences will change. What is really lackiing is the ability to know all such waves due to the pressure of the Negative Force.
+4. Expanding or Contracting: This is similar to the expansion of a theater in order to have better shows
 
 
-<!-- Morality is Always Relational
 
-morality, or the perception of good and bad, depends on two things:
+## Thinking
 
-- the nature of object
-- the nature of the experiencers of the object 
+The main job of the intellectual mind is to think about its ideas.
+- The act of thinking is the perception and connection of ideas  
 
-This is why morality is always relative and changing. One society might feel that it is moral to be liberal, while another will feel that liberality is immoral and that conservatism is moral. 
- -->
-<!-- Our solution to differences in moral standards is to get as many feelings as possible and then get the lowest-common-denominator-feeling that can serve as the base of a universal moral system. 
- -->
+The main job of the emotional mind is to discern its feelings.
+- The act of feeling is the perception and immersion of feelings
+
+{{< i s="/photos/psych/self.jpg" a="Thinking" >}}
+
+We then group this thinking operation into 2 categories:
+
+<!-- From here, we can say that all of the activities or operations of the mind's intellect can be broadly categorized into two: -->
+
+1. Adding or Combinative
+2. Subtracting or Separative
+
+We also group this feeling operation into 2 categories:
+<!-- The activities or operations mind's heart can also be broadly categorized into two: -->
+
+1. Attraction
+2. Repulsion
+
+Attraction has a combinative net effect just as repulsion has a separative one. 
+
+Therefore the active mind, which thinks and feels, has 2 kinds of operations:
+- Combination
+  - This comes from the Positive Force
+- Separation
+  - This comes from the Negative Force
+
+<!-- Note that memory is a quality of the mind, and not an operation. Remembering is part of the operations of consciousness, just as perception is.  -->
+
+![Yin and Yang](/photos/meta/yinyang.jpg)
+
+
+<!-- ## The Operations of Thinking  -->
+<!-- the Intellect -->
+
+<!-- "Adding" or "combination" is the integration of one identity to another to create a new third identity. This is an effect of the Positive Force (Yang or Shiva)
+
+For example, we:
+- add `1 + 1` to make `2` 
+- put more rice grains in a bag to make it reach 1 kilogram for purchase
+- step in an empty bus so it can get passengers and start its journey
+
+
+"Subtracting" or "separation" is the removal of one part of an identity in order to create a new identity. This is an effect of the Negative Force (Yin or Shakti or Prakrti)
+
+For example, we:
+- subtract `3 - 1` to make `2`
+- remove things from our luggage so that it will meet the limit of 15 kilograms 
+- step out of an overloaded bus so that it can run safely
+
+
+Related operations of thinking spring from these 2 broad operations:
+
+Combination Category:
+- Multiplication
+- Exponents
+- Memory or Remembering
+- etc
+
+Separation Category:
+- Division and Fractions
+- Square roots
+- Ignorance or Forgetting
+- etc -->
+<!-- - Factorials and Multiples -->
+
+
+

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2c"
-title: "The Air Element"
+title: "The Air Element: Space and Time"
 # date: 2015-09-09
 date: 2020-12-03
 # 2020-01-04
@@ -13,8 +13,6 @@ writer:
 icon: "Juan"
 ---
 
-
-<!-- ## The Spatial Layer (Spacetime and Timespace) -->
 
 <!-- gives the properties of time and space to ideas and feelings. This is represented by the Heart Chakra. -->
 

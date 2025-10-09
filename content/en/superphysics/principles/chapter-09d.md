@@ -2,13 +2,13 @@
 heading: "Chapter 9d"
 title: "The Personality Structure"
 date: 2020-12-15
-weight: 640
-image: /graphics/psych/feelings.jpg
+weight: 660
+image: /photos/psych/schizo.jpg
 description: "Desire is a fundamental kind of feeling which we sense through our hearts"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
 ---
 
 

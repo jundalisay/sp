@@ -174,7 +174,17 @@ Our experience of reality is a small portion of all the disturbances in the aeth
 
 The distubances are caused by 2 Forces of Positive and Negative. Free will and spirit is associated with the Positive. Determinism and force is associated with the Negative. 
 
-Life is an effect of the Positive Force and is real. It is physical reality that is an illusion. 
+<!-- Life is an effect of the Positive Force and is real. It is physical reality that is an illusion.  -->
 
 
+## Defintions: Idea, Reality, Alternate Reality, Life, Perception
 
+An idea is a discrete metaphyiscal object, as a node in the aether.
+
+Reality is the structure of perception-relations between nodes.
+
+Alternate Reality is the parallel structure of perception-relations between nodes that coexists with the current reality.
+
+Life is the state where a mind can express independently of the physical aspects of the universe, by having more subtle waves from the Positive Force.
+
+Perception is the reaction of a node through its configuration which has some affinity to the incoming wave-feeling or idea-object.

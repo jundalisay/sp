@@ -8,7 +8,6 @@ weight: 37
 ---
 
 
-
 These animals:
 - breathe through gills,
 - have a smooth skin or covered with scales
@@ -58,18 +57,34 @@ On the other hand, we cannot avoid the recognition that, if the improvements in 
 
 ### Disappearance of the Vertebral Column
 
-At this point of the animal ladder, we find the vertebral column completely done away with. Since this column is the basis for all true skeletons and since this framework of bone constitutes an important part of the organic structure of the most perfect animals, all the invertebrate animals we are going to examine in succession thus have an organic structure even more degraded than it is in the four classes which we have just reviewed. Also from now on, the supports for muscular action will not be placed any more on interior parts.
+At this point of the animal ladder, the vertebral column completely disappears.
 
-Moreover, none of the invertebrate animals breathes by lungs with chambers or has a voice (and thus an organ for this faculty). Finally, they appear, for the most part, to lack real blood, that is, the essentially red fluid in the vertebrates which derives its colour only from the intensity of its animalisation and, above all, which establishes a real circulation. Surely it would be an abuse of language to give the word blood to the colourless thin fluid which moves slowly in the cellular substance of polyps? Will it then be necessary to assign a similar name to the sap in plants?
+This column is:
+- the basis for all true skeletons
+- an important part of the organic structure of the most perfect animals
+
+This is why all the next invertebrate animals have an organic structure even more degraded than the previous 4 classes.
+
+From here, the supports for muscular action will not be placed any more on interior parts.
+
+Moreover, none of the invertebrate animals breathes by lungs with chambers or has a voice (and thus an organ for this faculty).
+
+Finally, they appear, for the most part, to lack real blood, that is, the essentially red fluid in the vertebrates which derives its colour only from the intensity of its animalisation and, above all, which establishes a real circulation. 
+
+Surely it would be an abuse of language to give the word blood to the colourless thin fluid which moves slowly in the cellular substance of polyps? 
+
+Will it then be necessary to assign a similar name to the sap in plants?
 
 In addition to the vertebral column, in invertebrates is also lost the iris, which characterizes the eyes of the most perfect animals. For, among the invertebrate animals, those with eyes do not have them clearly equipped with irises.
 
 Similarly, the kidneys are found only in the vertebrate animals, fish being the last ones in which we still encounter this organ. From here on, there is no more spinal marrow, no more large sympathetic nerve system.
 
-Finally, a very important observation to note is that in the vertebrates, and mainly towards the end of the animal scale which displays the most perfect animals, all the essential organs are isolated, or each one has an isolated location in as many particular spots. We will soon see that the reverse of this has taken place, as we move towards the other end of the same scale.
+In the vertebrates, and mainly towards the end of the animal scale which displays the most perfect animals, all the essential organs are isolated, or each one has an isolated location in as many particular spots.
 
-It is thus evident that the invertebrate animals all have a less perfect organic structure than those which possess a vertebral column; the organic structure of mammals displays a vertebral column, a feature which indicates the most perfect animals with respect to all the affinities, and is, without dispute, the true pattern of the most perfect organic structure.
+The reverse happens as we move towards the other end of the same scale.
 
-Let us see now if the classes and the large families which are part of the numerous series of invertebrate animals display also, in a comparison of their groups, an increasing degradation in the complexity and the perfection of the organic structure in the animals which constitute them.
+Thus, the invertebrate animals all have a less perfect organic structure than those which possess a vertebral column.
 
+The organic structure of mammals displays a vertebral column, a feature which indicates the most perfect animals with respect to all the affinities, and is, without dispute, the true pattern of the most perfect organic structure.
 
+<!-- Let us see now if the classes and the large families which are part of the numerous series of invertebrate animals display also, in a comparison of their groups, an increasing degradation in the complexity and the perfection of the organic structure in the animals which constitute them. -->

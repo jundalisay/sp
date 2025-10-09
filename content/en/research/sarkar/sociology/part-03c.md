@@ -138,7 +138,9 @@ They will knock down the prisons and build reform schools, rectification camps. 
 
 Regarding those who commit crimes out of poverty, their poverty must be removed.
 
-The significance of society lies in moving together. If in the course of the journey anybody lags behind, if in the darkness of night a gust of wind blows out anyone’s lamp, we should not just go ahead and leave them in the lurch. We should extend a hand to help them up, and rekindle their lamps with the flames of our lamps.
+The significance of society lies in moving together. 
+
+If in the course of the journey anybody lags behind, if in the darkness of night a gust of wind blows out anyone’s lamp, we should not just go ahead and leave them in the lurch. We should extend a hand to help them up, and rekindle their lamps with the flames of our lamps.
 
 Vartiká laiyá háte calechila ek sáthe
 Pathe nibe geche álo pare áche tái

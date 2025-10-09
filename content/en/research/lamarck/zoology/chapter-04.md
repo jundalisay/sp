@@ -9,19 +9,29 @@ weight: 19
 ---
  
 
-Animals include living beings truly remarkable for faculties unique to them and at the same time worthy of our admiration and study. 
+<!-- Animals include living beings truly remarkable for faculties unique to them and at the same time worthy of our admiration and study. 
 
-These beings, infinitely diversified in their forms, organic structures, and faculties, are capable of movement or of moving certain parts without the impetus of any communicated movement but by a cause which stimulates their irritability, a cause which, in some, is produced from within and, in others, is entirely outside them. For the most part, animals enjoy the ability to change their location, and they all possess eminently irritable parts.
+These beings, infinitely diversified in their forms, organic structures, and faculties, are capable of movement or of moving certain parts without the impetus of any communicated movement but by a cause which stimulates their irritability, a cause which, in some, is produced from within and, in others, is entirely outside them. For the most part, animals enjoy the ability to change their location, and they all possess eminently irritable parts. -->
 
-We observe that in moving about some animals crawl, march, run, or jump, while others fly, raising themselves in the air and travelling through different spaces. Others, living in the depths of the waters, swim and transport themselves to different areas in the expanse of the surroundings waters.
 
-The animals are not, like the plants, in a situation where they find within range right next to them the material on which they feed. Among animals, even those which live by seizing prey must go seek it out, follow it, and finally seize it. Thus, they must have a faculty of motion and even of moving around so as to be able to obtain the nourishment which they require.
 
-Moreover, those animals which multiply by sexual reproduction do not offer sufficiently perfect hermaphrodites to enable them to meet their needs, and thus it is again necessary that they can move around to put themselves in a situation where they can reproduce. For those animals which, like the oysters, cannot change their positions, the environmental surroundings must provide means for such movement.
+Some animals crawl, march, run, or jump, while others fly, raising themselves in the air and travelling through different spaces. 
+
+Others, living in the depths of the waters, swim and transport themselves to different areas in the expanse of the surroundings waters.
+
+The animals are not, like the plants, in a situation where they find within range right next to them the material on which they feed. 
+
+Among animals, even those which live by seizing prey must go seek it out, follow it, and finally seize it. Thus, they must have a faculty of motion and even of moving around so as to be able to obtain the nourishment which they require.
+
+Moreover, those animals which multiply by sexual reproduction do not offer sufficiently perfect hermaphrodites to enable them to meet their needs.
+
+Thus, it is again necessary that they can move around to put themselves in a situation where they can reproduce. 
+
+For those animals which, like the oysters, cannot change their positions, the environmental surroundings must provide means for such movement.
 
 Thus, these needs have the capacity to provide the faculty which the animals possess of moving parts of their bodies and of carrying out movements advantageous to their own conservation and that of their race.
 
-In the second part we will look into the source of this astonishing faculty, as well as the cause of the most remarkable which we find among them. 
+In Part 2, we will look into the source of this astonishing faculty, as well as the cause of the most remarkable which we find among them. 
 
 With regards to animals:
 
@@ -33,7 +43,9 @@ But they do not experience any feeling and cannot have any sort of will power. T
 
 But they act only through an interior impulse by a tendency which draws them to some object or other, so that their will power is always dependent and led on.
 
-3. Still other animals not only experience movements in some parts as a result of their stimulated irritabilty, are susceptible to receiving sensations, and enjoy an inner feeling of their existence, but, in addition, have the ability to form ideas for themselves, although confused, and to act by a determining will power, which is nevertheless subject to tendencies which carry them, once again, exclusively towards certain particular objects.
+3. Still other animals not only experience movements in some parts as a result of their stimulated irritabilty, are susceptible to receiving sensations, and enjoy an inner feeling of their existence, 
+
+In addition, they have the ability to form ideas for themselves, although confused, and to act by a determining will power, which is nevertheless subject to tendencies which carry them, once again, exclusively towards certain particular objects.
 
 4. Some other animals, the most perfect, possess to a high degree all the abilities of the preceding ones and enjoy, in addition, the power of forming for themselves clear or precise ideas of objects which have affected their sense and drawn their attention, of comparing and combining these ideas up to a certain point, and deriving from them judgments and complex ideas. 
 

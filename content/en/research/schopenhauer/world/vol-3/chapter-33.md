@@ -1,5 +1,16 @@
-Chapter XXXIII.17 Isolated Remarks On
-Natural Beauty.
+---
+heading: Chapter 33
+title: "Isolated Remarks On Natural Beauty"
+description: ""
+weight: 8
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
+
+
+
 What contributes among other things to make the sight of a
 beautiful landscape so exceedingly delightful is the perfect truth
 and consistency of nature. Certainly nature does not follow
@@ -14,7 +25,9 @@ upon the eye, unerringly given and accurately taken account of:
 the Indian proverb, “Every corn of rice casts its shadow,” finds
 here its confirmation. Therefore here everything shows itself
 so consistent, accurately regular, connected, and scrupulously
-right; here there are no evasions. If now we consider the sight
+right; here there are no evasions. 
+
+If now we consider the sight
 of a beautiful view, merely as a brain-phenomenon, it is the only
 one among the complicated brain-phenomena which is always
 absolutely regular, blameless, and perfect; all the rest, especially
@@ -48,9 +61,8 @@ I would like to know why it is that while for the human
 form and countenance light from above is altogether the most
 advantageous, and light from below the most unfavourable, with
 regard to landscape nature exactly the converse holds good.
-Yet how æsthetic is nature! Every spot that is entirely unculti-
-vated and wild, i.e., left free to itself, however small it may be, if
-only the hand of man remains absent, it decorates at once in the
+
+Yet how æsthetic is nature! Every spot that is entirely uncultivated and wild, i.e., left free to itself, however small it may be, if only the hand of man remains absent, it decorates at once in the
 most tasteful manner, clothes it with plants, flowers, and shrubs,
 whose unforced nature, natural grace, and tasteful grouping bears
 witness that they have not grown up under the rod of correction
@@ -66,7 +78,7 @@ external ends, but only immediately by the soil, climate, and a
 mysterious third influence on account of which so many plants
 which have originally sprung up in the same soil and climate yet
 show such different forms and characters.
-172 The World as Will and Idea (Vol. 3 of 3)
+
 The great difference between the English, or more correctly
 the Chinese, garden and the old French, which is now always be-
 coming more rare, yet still exists in a few magnificent examples,

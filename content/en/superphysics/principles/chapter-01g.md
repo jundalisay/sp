@@ -124,7 +124,12 @@ Subdivision |  Phenomena | Superphysics Branch
 5 Layers | Non-Living | Material
 
 
-## Basis for the 3 Gunas or Sub-elements
+## Static is 3, Dynamic if 4 
+
+The 3 divisions arises from the static view of a symmetric thing: it will have  a center and 2 extremes.
+- These 2 extremes are represened by the Negative and Positive Forces.
 
 These 3 divisions also manifest as the basis for the 3 Gunas of subelements within each Element, to be explained in the next Chapter.
+
+The 4 divisions, as explained in the 4 properties of waves, arises from the dynamic nature of those 2 Forces, as high-low going to low-high and vice versa.
 

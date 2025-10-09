@@ -36,7 +36,7 @@ But how does the Creator create ideas from nothing?
 And how did It push those ideas down to turn them into physical reality? -->
 
 
-## Pre-Existence and the Absolute Entity as Void
+## Pre-Existence and the Absolute Entity
 
 The only way to think what came before actual Existence is to create the idea of potential Existence, which we call Pre-Existence. 
 
@@ -78,6 +78,8 @@ Therefore, our concept of Pre-Existence serves as an instant “sink” that wil
 {{< q a="Rene Descartes" c="Principia Philosophia Part 1, Article 26" >}}
 We will thus never enter disputes about the infinite. This is because we are finite. It would be absurd for us to try to determine the infinite.
 {{< /q >}}
+
+
 
 
 ## What Came Before Pre-Existence?

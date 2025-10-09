@@ -1,3 +1,14 @@
+# ROUTES
+
+/qualimath
+/ani
+/eagle
+/critical-feeling
+/natural-price
+/effort-theory
+/grain-value
+/balance
+
 <!-- inject such particles into protons. It would be like using a sniper to get rid of a single terrorist instead of using a huge bomb to destroy his whole house, hoping that he is inside.
 
 Since the aetherspace is closer to the aether than to matter, then the physics of the aether should be understood. 

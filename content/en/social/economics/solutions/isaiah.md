@@ -41,7 +41,7 @@ As you can see, our system liberates the economy from being bound only to money,
 
 ## Based on Ratios, Not Equalities
 
-Instead of equilibrium or the equals sign, this system is based on **ratios** or the ratio sign. This is in line with our proposed [Qualimath](/superphysics/principles/chapter-07/)
+Instead of equilibrium or the equals sign, this system is based on **ratios** or the ratio sign. This is in line with our proposed [Qualimath](/qualimath/)
 
 This is useful for poor people and even for corporations during financial crises where money is tight or unavailable. In addition, it will lower the cost of buying and selling since it will use the already-existing telecoms system, instead of the financial system with its expensive bankers and financiers*.
 

@@ -1,197 +1,261 @@
 ---
 heading: "Chapter 8c"
-title: "How Life Begins From Matter"
-date: 2025-10-06
-image: /photos/physics/comet.jpg
-weight: 604
-description: "Everything in existence is an idea of the Creator of that existence"
+title: "Qualimath Decon Notation: Solving the Measurement Problem"
+# Math for Qualities and Ratios" more than Quantities and Equalities"
+date: 2020-12-27
+weight: 502
+image: "/graphics/movement.png"
+description: "Decon Notation helps make ratios understandable"
+icon: "Superphysics"
+math: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
 ---
 
 
 
-## The Positive Force Creates Life By Adding Subtlety
+The root cause in the limitations in Physics (and consequently, in the technologies that humans can develop) is the limited ability of humans to perceive beyond the Radiant Layer (electromagnetism and light). 
 
-Nodes made up of crude waves become crude ideas which eventually become physical things because of the Negative Force. 
+<!-- The real cause of the absurdity is the scientific decree to make things measurable.  -->
 
-As a physical thing becomes more complex through heat, weathering, compression, mixtures, etc, it naturally becomes larger and develops gaps.
-- These gaps need to be filled by the subtler waves until they form a subtle node in a larger crude node.
+Objective measurements are based on light giving our natural light-detectors (eyes) objective information. 
 
-This becomes a simple mind in a physical organism as a living thing. 
+Beyond the Radiant Layer are the Spacetime and Aether layers where the measurements are naturally subjective. For example:
+- The distance from House A to House B can be denoted in meters, yards, feet, etc.
+- An idea can be important to some, but not important to others.  
 
+We say that such measurements are subjective and heterogenous and thus are more qualitative instead of quantitative or homogenous. 
 
-{{< q a="PR Sarkar" c="Idea and Ideology, Chapter 2" >}}
-Mind arises as a chemical reaction of physical clash within the unit structure. This is because its physical body itself is a creation of the Cosmic Mindstuff. This Cosmic Mindstuff keeps the subtler Identity and the Ego as its dormant aspects. The first stages of the creation of mind is thus from natural physical chemical reactions where vital energy is present. These first minds are made up of mere mindstuff, without ego. But without ego, the blind vital energy cannot cause the physical structure to act. Most of the minds of undeveloped creatures and plants are made of mindstuff. Further psychic evolution leads to the expression of ego that creates identity. The active-identity leads to the intellect. 
-The pure identity leads to supra-physicality.
+{{< q a="PR Sarkar" c="Idea and Ideology, Chapter 3" >}}
+Hence, tanmátras [quantum-perceptions] are the waves produced by the objects as a result of reflection of the subtler bhúta [element or factor] on the cruder ones. Quantum-perceptions in the mathematical sense are **heterogeneous**, not homogeneous
 {{< /q >}}
 
 
-Therefore:
-- a physical thing is a large node made up of crude waves
-- a living mind is a large node that has subtle waves persisting in it 
+We can say that: 
+- Materiality and Electromagnetism focus on quantitative particles
+- Space, time, and feelings focus on qualitative waves
+
+<!--  wich c as the ghighest kind of ruler. The wohole big giat problem is that the aetehr is above spacetime whtih itselfis above lectromagentism. So The aether is not measurebale by sight or electronic eqiupement fof the electomagneic layer and is onlyindirectly measurable by the spacetime layer. 
+
+This neesd a whole new math which we call qualimath which measures chanigng aetereal qualities instead of discrete material quantities.  -->
+
+<!-- We can further simplify math by  -->
+
+We thus assign qualities to our deconstructed equations. 
+
+<!-- This is also because waves are more qualitative than quantitative in nature.    -->
+
+<!-- To get around this shortage, we will use *the qualitative aspects of waves* that combines its qualities such as amplitude, oscillation, vector, wavelength, etc.  -->
+
+For example, in `Wave 1 + Wave 2 = Wave 3`, we assign qualities instead of numbers and processes so we can arrive at the general outcome faster. 
+
+The `+` and `=` represent the natural actions of the human mind. The minds of less advanced species, such as penguins, might be capable of `+` and `-`, but are not capable of `*` or `/`. 
+
+Likewise, human minds seem to be limited to `=` and do not dwell so much on `:` which reqresents the hidden connection between things.*
+
+{{< n n="*Bio Superphysics explains this to be caused by humans eating crude food such as meat which then crudifies the thinking process." >}}
 
 
-So the key to life are:
-- the volume of subtle waves that can persist in the crude node and be part of it
-- the crude nodes allowing such residence of subtle waves in them
-  - Such crude node are called organic matter.
+<!-- Since it deals with qualities instead of quantities, we can call it **Decon Notation** and its underlying system as **Quali-math**.  -->
+
+This solves measurement problems by allowing anyone to create a *subjective* measure. For example, assuming a predefined intuitive range of qualitative* values which *focus* on looks:
 
 
-### A Positive Unifying Environment is Necessary for Life, a Negative Crude Environment Kills Life
+``` elixir
+abominable, hideous, very ugly, ugly, unattractive, soso, pretty, beautiful, very beautiful, gorgeous, drop-dead gorgeous
+```
 
-Therefore, an environment with a lot of Positive Force, as positive energy, is essential for life. 
-
-Consequently, the introduction of a lot of Negative Force, as negative energy, kills life.
-
-This is easily seen in:
-- rainforests that have a lot of life
-- polluted industrial zones leading to health risks and deaths in the native species
-- crime-infested cities having a lot of death and suicide
+{{< f f="*Qualities are subjective" >}}
 
 
-{{< i s="/graphics/bio/forest.jpg" a="Forest" c="Forest" >}}
+Then we can create equations:
+
+``` elixir
+pretty + pretty = beautiful
+beautiful + 2(ugly) = ugly
+hideous + beautiful = ugly
+```
+
+This can then be “translated” into any language*:
+
+``` elixir
+maganda + maganda = sobrang ganda
+kaakit-akit + kadiri = napaka-pangit
+dep + dep = rat dep
+```
+
+{{< n n="*This is important because Superphysics uses many non-English words like aether, monad, jiva, atman, bhuta, guna, chi, wu-xing, etc. In fact, we propose an overhaul of English, as Lish, to make it more intuitive. For example, add 's' to pluralize nouns so that oxs, datas, childs would be correct. But that is a totally different topic.*This is important because Superphysics uses many non-English words like aether, monad, jiva, atman, bhuta, guna, chi, wu-xing, etc. In fact, we propose an overhaul of English, as Lish, to make it more intuitive. For example, add 's' to pluralize nouns so that oxs, datas, childs would be correct. But that is a totally different topic." >}}
+
+
+<!-- In a future post, we will expand this into chemical compounds computation, and in linear algebra to produce general qualitative outcomes instead of exact quantitative answers.  -->
+
+A sample implementation is our use of [male and female charges](/material/principles/part-3/chapter-04/) for particles instead of the "positive and negative" used by Benjamin Franklin. In theory, this would lead to new chemical compounds that are unthinkable in Physics, since it is more intuitive to combine different kinds of males with different kinds of females. 
+
+This quali-math will make the most sense when you think of a spaceship using quantum teleportation that not only will use 2D space as in a car on Earth or a 3D space like an aircraft, but a space with 4 or 5 dimensions as time-multiverses and alternative universes, where normal math breaks down.
+
+For example, `1 + 1 = 2` might be true for this universe, but it might not be true for a different universe where `1 + 1 = 1` or where the conception of two ideas automatically merges them into one idea. In such a universe, it is the mind that splits itself into different perception-units in order to create the idea of numbers. This is the opposite in our universe, where the perceiving entity is one, and the it is the observed entities that are multiples and discrete. 
+
+
+## The Double Colon as Mirror
+
+To account for this mind-splitting behavior, <!--  make ratios and relationality permanent, --> we propose a new notation using flexible colons instead of the rigid equals sign. The former represents the flexible nature of the universe as opposed to its strict rigidity as the latter.
+
+{{< img src="/graphics/physics/math.jpg" alt="Mathematics" >}}
+
+- The single colon is like a flexible ratio. You can think of this as a hazy mirror that lets the other side look a bit different 
+- The double colon is like a rigid equals sign. This is a clearer mirror but still not a perfect reflection.
+- The triple colon is a strict equality that involves the kinds of data*. This is a perfect mirror. 
+
+
+{{< n n="*In programming this is similar to =, ==, and ===. Notice how we are coercing math to follow computer programming" >}}
 
 
 
-## Testing for Life or Non-Life
+{{< box >}}
+### The Theory of Universal Relationality
 
-Perception occurs when these living node-minds interact with:
-- forces or waves as non-nodes
-- other living node-minds and
-- other non-living nodes as things
+This ratio represents our theory of "universal relationality*" which is represented in reality by [gravitational relationality](/material/principles/part-2/chapter-04), among others.
 
-We know that a crude node gets perceptions when it reacts.
- <!-- as proven by its subsequent reactions to stimuli. -->
-- For example, a rock reacts to light by reflecting it so that it can be seen.
+All philosophers say that everything is connected, even the sophistical pseudo-philosopher John Stuart Mill. 
 
+The ratio sign signifies this connection. 
 
-But since the crude node has no flexible subtle waves, it is very limited in its expressive ability. 
-- The rock can only express the light it encounters by bouncing it off as a specific color.
+In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect. This is because in Cartesian Physics, which is one basis of Superphysics, there is no void in Nature (i.e. God is everywhere in Spinoza-speak). 
 
-A living node, as a physical organism, on the other hand, can express more since it has subtler and more flexible waves.  
-- For example, a bacteria can react to light by moving away from it, aside from reflecting it.
+The lower dimensions like ours has more rigid ratios that lead to discrete and 'hardened' identities, while higher dimensions have more flexible ratios that lead to more malleable ones.
+
+Since the lower dimensions are more stubborn, they require more effort and energy to change than the upper dimensions. So it makes sense for enlightened entities to spend their energy going into the higher dimensions instead of wasting energy in the lower dimensions trying to convince crude-minded materialists that God exists or that the universe is conscious. 
 
 
+#### Update March 10, 2022
 
-## Elementals or Nature Spirits, Aliens, Spirits, Ghosts 
+An example of the "hardness" of this dimension is the hardness of will of Russia in invading Ukraine and in Ukraine stubbornly not giving up, not caring about the chain-reaction that it causes to other nations and the planet. 
 
-Not all minds have to be attached so dependently to the physical domain. 
+In a better universe (with qualimath as the norm), Russia, Ukraine, and NATO will "soften" their minds and egos (less strong force, more gravitational force) as to harmonize with each other, being more sensible how their actions affect the planet.
 
-There are some minds that exist above the physical domain. These can crudify themselves to manifest in physicality just as we can go deep inside caves or dive underwater to experience different kinds of natural environments. 
-
-We call these minds as Elementals or Nature Spirits. In Sanskrit, these are deva 
-
-The fact that they are described consitently by so many cultures who don't talk to each other proves that they are a real phenomenon instead of just being imaginary isolated cases.
-
-What is lacking is the explanation of their mechanics or natures. 
-
-A common historical mistake is to associate them with aliens such as the Anunnaki who were well-written by the Sumerians, Babylonians, Egyptians, and Mayans. 
-
-We have defined:
-- "soul" as a metaphysical mind without its crude parts.
-- "spirit" as a metaphysical mind in active form with waves of forces and feelings flowing through it
-
-Souls and spirits are immortal since they are in the metaphysical domain above the spatial element. However, they can transition, evolve, and reincarnate just like all souls whether human or non human do.  
+In this universe, such a softening can be encouraged by emphasizing the abstract, flexible aether, over rigid and hard solid matter.
+{{< /box >}}
 
 
-An alien is a physical entity that did not evolve naturally on Earth. These can be more advanced or less advanced than humans.
-- The more advanced ones are called "devas" in Asian cosmology.
+## The State Limiter
 
-A ghost is a spirit that has become visible in the physical domain without a physical body.
+In `1 + 1 = 2`, the mind sweeps from the left to the right. But in `(1 + 1) :: 2`, the mind splits itself into the left and the right. It becomes an impartial spectator* of both sides or states.
 
-A nature spirit therefore is a spirit that is associated with specific waveform or vibration. They are usually associated with spatial waves as spatial vortices. These are called devayoniis.
+{{< f f="*This idea was developed by Adam Smith who criticized the sophistical math of the mercantile system. Such sophistry now manifests as the strict demand for GDP growth by Economics which is currently causing mass exctinction and conflicts. Economics enshrines growth because it has imposed money-only as the means of transaction. The problem is that money is an inert and static thing that gets its value from being exchanged. This mindless, self-destructive, constant exchange gives movement, growth, and consequently value." >}}
 
-{{< q a="Paracelsus" c="Book on Nymphs, Sylphs, Pygmies, Etc, Part 2" >}}
-They walk through solid walls, through rocks and stones, like a spirit. 
+
+In this way, the formula of economist John Maynard Keynes for money supply `M` as being affected by liquidity preference `L` and interest rate `r` 
+
+```elixir
+M = Lr
+```
+
+becomes:
+
+
+```elixir
+M :: (L : r)
+```
+
+when deconstructed:
+
+```elixir
+money_supply :: (liquidity_preference : interest-rate)
+```
+
+This translates to "the money supply is totally dependent on the love of cash and the profits in lending (or cost of borrowing) cash"
+
+
+
+Likewise, Newton's gravity changes from 
+
+```elixir
+F = (Gm1m2)/r^2
+```
+
+into
+
+
+```elixir
+F :: (G (m1/r^2 : m2/r^2))
+```
+
+
+Notice how this isolates Newton's `G` away from the two masses being compared. 
+
+We then deconstruct it in Cartesian Physics further:
+
+<!-- `gravity between objects :: Gravitational_limiter (Mass1 / distance_between_them ^ 2 : Mass2 / distance_between_them ^ 2)` -->
+<!-- material-layer-gravitational-signature -->
+
+```elixir
+gravity_between :: (material_layer_limiter (matter_amount_in_identity1 / distance_between^2 : matter_amount_in_identity2 / distance_between^2)
+```
+
+This translates as "the pushing force of spacetime between 2 material identities depends on the quantity and quality of matter in them and their distance from each other."
+
+In future posts, we can apply the same technique to Maxwell's equations to show how the spacetime, radiant, and material layers work together to create Electromagnetism.  
+
+
+
+
+In price equations, this will allow us to more easily remove the influence of interest rates (of the financial system) and taxes (of the government) in order to reveal the natural price ratios from their own perspective. 
+
+The gravity, interest rates, and taxes enter their own abstraction called a *limiter*. Notice how this system does not require PEMDAS because of the allowance for mind-splitting behavior.
+
+
+## Math with a Practical and Moral Purpose Inspired by Al-Khwarizmi and Descartes
+
+
+The above decontstructed equation "`gravity_between`" gives us 2 benefits:
+
+1. Practical: It helps us *code* the equation more easily into procedures and algorithms
+2. Moral: It makes us think of `Mass1` and `Mass2` independently, and separate from its limiter
+
+Quali-math is inspired by **Al-Khwarizmi** who invented algebra from his work on "Calculation by Completion and Balancing". 
+
+The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*.
+
+{{< img cap="Automated Natural Intelligence is best used in space-time-ships, just as it is best applied currently in Tesla's self-driving cars" src="/photos/physics/phoenix.jpg" >}}
+
+
+{{< n n="*The original purpose of Algebra (Al-Jebra or 'the repair or healing') was to divide an estate and compute the inheritance due to each heir. <!-- The Europeans seemed to have used it for warmaking --> This matches the problem-solving nature of Superphysics. This is opposite of Einstein's math as sophistical tensors coming from his wild imagination which creates more problems. It is also different from Newton's Calculus which originated from plotting curvilinear motion. Superphysics allows teleportation which totally negates curvilinear motion." >}}
+   
+
+An algorithm is an implementation or processing of a model. This processing is automated by computers as machine learning, which is the automation of natural intelligence, which is wrongly called artificial intelligence. We call it properly as [Automated Natural Intelligence](/superphysics/solutions/isaiah) (ANI) and is one of the goals of Superphysics.
+
+
+Qualimath will allow an AI-driven* ship that teleports into another universe, which has different physics, to transpose its logic and definitions more easily to match that universe. This is because it uses quality instead of quantity.
+
+{{< n n="*The mind-splitting behavior in Qualimath can be implemented with computers with multiple independent cores (Update 2024: This is now done by GPUs which have multiple cores). In humans, this is naturally done in families and societies. The family mind is split between the father, mother and children. The society's mind is split between the different classes represented by political parties and special-interest groups. This is why we can readily apply Qualimath to Social Superphysics to make predictions in economics and politics." >}}
+
+  
+ 
+
+A qualitative definition in one’s mind retains itself even if its mind moves into another universe. *This is because that defintion is always anchored in the ego (feeling of the self) of that mind.* This was implied by Adam Smith:
+
+{{< q a="Adam Smith" c="Theory of Moral Sentiments" >}}
+I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can survey both at equal distances, and judge their real proportions.
 {{< /q >}}
 
-
-Elementals are associated with specific locations such as a mountain, a forest, a hill, etc. This is because such places have vortices which connect to the natural reality of those elementals. 
-
-Unlike the Supreme Entity or Brahma, these devas and devayoniis are not worshipped. Instead, they are befriended for energy exchange. This manifests as people giving food, money or fruits to idols or statues that represent those Elementals. 
-
-The Elementals then get the energy, not from the offerings, but from the **mental state or flow** of the person doing the offering. This is because the 'worship' state adjusts the configuration or spin of the person, allowing energy to flow to the Elemental.
-
-As these are living organisms, we classify them into the 5 Elements of Bio Superphysics.
-
-Name | Example
---- | ---
-Aether | Siddha 
-Air | Garuda
-Fire | Yaksa, Kinnara
-Water | Naga, Cernunnos (winter spirit)
-Earth | Virus
-
-Cernunnos
-
-
-Cernunnos, Santa Claus, 
-
-<!-- We classify elementals according to the 5 strata of Spiritual Superphysics, combined with 2 of the 5 layers of Material Supeprhysics.
-
-Name | Example
---- | ---
-Material | Virus 
-Radiant | Naga
-Crude | Yaksa
-Subtle | Kinnara
-Supramental | Ghandarva
-Essential | Garuda  
-Causal | Siddha -->
-
-
-## Viruses are the Material Version of Elementals and Spread Life to the Universe
-
-Biology does not regard viruses as alive because they fail the criteria of cellular structure, metabolizing ATP, and independent reproduction.
-
-However, Bio Superhysics regards them as alive as they are capable of independent expression. 
-
-Moreover, their gravitational signature is obvious in their RNA or DNA.
-
-They are not only alive, but they also spread life to other planets through comets, as panspermia. 
-
-
-{{< q a="PR Sarkar" c="Microvita in a Nutshell, Chapter 1" >}}
-These microvita are the carriers of life in different stars, planets and satellites – not carbon atoms or carbon molecules
-{{< /q >}}
-
-
-{{< i s="/photos/physics/comet.jpg" a="Comet" c="Comets spread life through elementals as viruses" >}}
-
-
-Unlike normal animals or plants that can express directly onto space, viruses need to infest a living organism to transmit that expression to that organism.
-
-This is the same mechanism used by elementals for their expressions to be perceived in physical reality. 
-
-A person who detects elementals raises his gravitational signature to be close to the frequency of those elementals.
-
-This means that people who can detect elementals are subtle and not crude.
+{{< img src="/graphics/movement.png" alt="Superphysics Movement" cap="Qualimath uses Poincare's Law of Relativity which uses aethereal state-change instead of Einstein's Relativity which uses tensors" >}}
 
 
 
+Because of this, Qualimath also creates moral effects. It conditions minds to respect the identity and natures of all sides (other egos), instead of bulldozing over them with arbitrary notations and movement towards one side as what Westerners tend to do. 
 
-## Alternative to Excessive Capitalism
-
-
-This requirement of subtlety by elementals is the main reason why we are pushing for the science of elementals which is included in Bio Superphysics. 
-
-The interaction with Elementals is like a symbiosis between animals or a barter deal between economic actors. It is not a master-slave or god-worshipper relationship that is used in religions. 
-
-We give them energy, and they are expected to fulfill our requests. 
-
-This is why, aside from pushing a moneyless economic system we are also pushing for the revival of native practices on Elemental as an alternative to Capitalist materialism. 
-
-In this way, people have more subtle ways to get their needs met aside from being enslaved by material money and numberical bank accounts.  
+While the practical aspect is based on [Al-Khwarizmi](/research/musa/algebra/chapter-01), this moral aspect is based on Rene Descartes who invented exponents and the Cartesian plane, among others, from his realizations on how the mind works*, as well as David Hume from whom Adam Smith got his ideas.
 
 
+<!-- This is in line with the Hindus inventing zero to represent the existence of nothingness. Rather, zero implies that space is empty *but is actually meant by Nature to be filled* (since Nature abhors a vacuum). The Romans and the ancient Chinese did not have such an advanced metaphysical concept. Aristotle had, but did not seem to deploy it into reality.
 
-<!-- Buddhist devas are not immortal.[14] Their lives as devas began some time in the past when they died and were reborn. They live for very long but finite periods of time, ranging from thousands to (at least) billions of years.[9]
-Buddhist devas do not create or shape the world.[15] They come into existence based upon their past karmas and they are as much subject to the natural laws of cause and effect as any other being in the universe. They also have no role in the periodic dissolutions of worlds.
-Buddhist devas are not incarnations of a few archetypal deities or manifestations of a god; nor are they merely symbols. They are considered to be, like humans, distinct individuals with their own personalities and paths in life.[16]
-Buddhist devas are not omniscient nor omnipotent. Their powers tend to be limited to their own worlds, and they rarely intervene in human affairs. When they do, it is generally by way of quiet advice rather than by physical intervention.
-Buddhist devas are not morally perfect. The devas of the worlds of the Rūpadhātu do lack human passions and desires, but some of them are capable of ignorance, arrogance and pride. The devas of the lower worlds of the Kāmadhātu experience the same kind of passions that humans do, including (in the lowest of these worlds) lust, jealousy, and anger. It is, indeed, their imperfections in the mental and moral realms that allegedly cause them to be reborn in these worlds.
-Buddhist devas are not to be considered as equal to a Buddhist refuge. While some individuals among the devas may be beings of great moral authority and prestige and thus deserving of a high degree of respect and veneration (in some cases, even being enlightened practitioners of the Dharma), no deva can ultimately be taken as the way of escape from saṃsāra or control one's rebirth. The highest honors are reserved to the Three Jewels: Buddha, Dharma, and Saṅgha -->
+Qualimath also bridges modern math, which 'prefers' single integers or the small picture or 'micro', with ancient Egyptian math, which 'prefers' the large view or 'macro'. Thus, it harmonizes the different ways of looking at existence, making it more flexible and dynamic:
+
+- Modern math from the micro going macro
+- Ancient Egyptian math from the macro going micro
+- Hindu (Vedic) math grouping and scaling identities via zero 
+ -->
+
+ {{< n n="*We extend the Cartesian plane into two: [a physical one and a metaphysical one](/material/solutions/cartesian-view)" >}}
 

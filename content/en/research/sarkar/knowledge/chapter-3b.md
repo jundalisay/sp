@@ -8,6 +8,7 @@ icon: "PR Sarkar"
 ---
 
 
+## Defects of the Objectivated Mind
 
 Psychic disease and brain disease are not the same thing. They are quite different. 
 

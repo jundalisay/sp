@@ -10,7 +10,7 @@ icon: "PR Sarkar"
 
 The second chamber of knowledge is the objective mind.
 
-The third chamber or factor  is the subjective mind. 
+The third chamber or factor is the subjective mind. 
 - The fundamental entity behind this faculty of knowledge is the Supreme Subject. 
 
 This entity is the noumenal factor behind each and every action.

@@ -21,6 +21,4 @@ Crude aether or the lower qoa is the key to antimatter.
 
 ### Artificial Natural Intelligence
 
-The main technology developed from qoas is [artificial sentience](/superphysics/principles/chapter-07e). 
-
-<!-- Currently,  -->
+The main technology developed from qoas is [artificial sentience](/ani). 

@@ -1,39 +1,30 @@
 ---
-heading: "Chapter 10"
-title: "The Academy of Sages"
-date: 2025-01-18
-# date: 2020-11-20
-weight: 730
-image: /photos/medieval/spartan.jpg
-description: "Academy of Sages is an institution for advancing true knowledge"
+title: "Using Intuition, Passion Plotting a Course"
+heading: "Consciousness is Binary as the Other Side of Existence"
+date: "2019-07-21"
+weight: 52
+image: /photos/physics/ai.jpg
+description: "Consciousness is the perception of ideas and feelings"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+draft: true
 icon: "Superphysics"
 ---
 
+plotting a course
 
-In the Republic of Plato, Socrates explains his concept of Guardians. 
+form a broad general goal 
 
-These are strong warriors who are also philosophers. This is taken from the Spartans who known for their military skill as well as wisdom. 
+move towards that goal
 
-Technically, this combines the Thinking and Warrior Classes.  
+choose avenues 
 
-We can call them sages to emphasize the requirement of wisdom which we defined as an intellect that is in line with the dharma of the causes and effects in question.
+if avenue prevents you then take a step back and find a nother avenue
 
-Sages are the detectors of the abstract and subtle phenomena. They can process what they detected and also implement them in the real world. 
+if avenue is good then choose a subavenues from it. Do not be afraid to take a step back, since not all decisions are correct the first time 
 
+get experience from . choose future possibilities thatyou want
 
-This means that they have 3 competencies:
-
-Quality | Skill 
---- | ---
-Spirituality | Ability to Detect Subtle Phenomena
-Intellect | Ability to connect phenomena with Principles
-Action | Ability to implement solutions or measures 
-
-
-
-<!-- The world values the James Webb Space Telescope for giving better images than the Hubble Space Telescope.   -->
-
+experience will let you gain a hang of patterns or how the Aether moves. So you can just move forward faster using more and more of intuitin and less of intellect. 
 

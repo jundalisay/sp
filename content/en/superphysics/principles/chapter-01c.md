@@ -52,9 +52,6 @@ Since perception is subjective, it follows that the universe is subjective. This
 
 
 
-
-
-
 The materialist view of the universe belittles the metaphysical domain and treats it as insignificant, while enshrining the physical domain of physical sensations.
 
 The natural or spiritual view of the universe, on the other hand:
@@ -63,6 +60,7 @@ The natural or spiritual view of the universe, on the other hand:
 
 <!-- However, the natural or spiritual view without the proper goal leads to  -->
 
+{{< i s="/graphics/super/free.jpg" a="Natural" c="The natural view frees the mind from limitation so that it can solve problems more conclusively" >}}
 
 
 ## So What's the Use of the Natural View of the Univese?

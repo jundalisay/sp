@@ -66,6 +66,11 @@ Of which individual then will this be the substance?  Either of all or of none. 
 {{< /q >}}
 
 
+{{< q a="Aristotle" c="The Metaphysics by Aristotle Simplifed, Book 1, Part 8" >}}
+The believers of The One say that The One is the cause of substance. 
+{{< /q >}}
+
+
 The aether is the Element that is closes to the original Substance and so they are interchangeable just as Existence can mean:
 - potential or theoretical Existence
 - actual or real Existence

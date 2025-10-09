@@ -3,7 +3,7 @@ heading: "Chapter 4d"
 title: "Spatial Vortices: Black Holes and Portals"
 date: 2024-12-28
 # 2020-01-04
-weight: 15
+weight: 208
 image: /photos/physics/quasar.jpg
 description: "Black Holes"
 writer:

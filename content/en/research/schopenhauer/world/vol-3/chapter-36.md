@@ -1,8 +1,18 @@
+---
+heading: Chapter 36
+title: "Isolated Remarks On The Æsthetics Of The Plastic And Pictorial Arts."
+description: ""
+weight: 8
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
 
 
 
+20 This chapter is connected with §§ 44-50 of the first volume.
 
-Chapter XXXVI.20 Isolated Remarks On The Æsthetics Of The Plastic And Pictorial Arts.
 
 In sculpture beauty and grace are the principal things; but in
 painting expression, passion, and character predominate; there-
@@ -30,8 +40,9 @@ that I have yet to bring out clearly the fact that this anticipation
 nevertheless requires experience, by which it may be stirred up;
 analogous to the instinct of the brutes, which, although guiding
 the action a priori, yet requires determination by motives in the
-details of it. Experience and reality present to the intellect of the artist human forms, which, in one part or another, are more or less
-true to nature, as if it were asking for his judgment concerning
+details of it.
+
+Experience and reality present to the intellect of the artist human forms, which, in one part or another, are more or less true to nature, as if it were asking for his judgment concerning
 them, and thus, after the Socratic method, call forth from that
 obscure anticipation the distinct and definite knowledge of the
 ideal. Therefore it assisted the Greek sculptors very much that
@@ -193,8 +204,7 @@ so to present this not-shrieking as to make it plausible to us that a
 man in such a position should not shriek. He solves this problem
 by representing the bite of the snake, not as having already taken
 place, nor yet as still threatening, but as just happening now in
-the side; for thereby the lower part of the body is contracted, and shrieking made impossible. This immediate but only subordinate
-reason was correctly discovered by Goethe, and is expounded
+the side; for thereby the lower part of the body is contracted, and shrieking made impossible. This immediate but only subordinate reason was correctly discovered by Goethe, and is expounded
 at the end of the eleventh book of his autobiography, and also
 in the paper on Laocoon in the first part of the Propylæa; but
 the ultimate, primary reason, which conditions this one, is that
@@ -204,8 +214,7 @@ theory of colours. In the collection of the Duke of Aremberg at
 Brussels there is an antique head of Laocoon which was found
 later. However, the head in the world-renowned group is not a
 restored one which follows from Goethe's special table of all the
-restorations of this group, which is given at the end of the first volume of the Propylæa, and is also confirmed by the fact that
-the head which was found later resembles that of the group very
+restorations of this group, which is given at the end of the first volume of the Propylæa, and is also confirmed by the fact that the head which was found later resembles that of the group very
 much. Thus we must assume that another antique repetition of
 the group has existed to which the Aremberg head belonged. In
 my opinion the latter excels both in beauty and expression that

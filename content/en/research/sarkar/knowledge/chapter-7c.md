@@ -73,35 +73,37 @@ This movement for yoga, for the unification of the unit with the Supreme, the fi
 The human physical and psychic structure is most suitable for this purpose. 
 
 Animals and plants act according to their inborn instincts. 
-
-They are mentally undeveloped.
-
-Because of this, their brain is also undeveloped. 
-
-The cranium is very small and the conscious portion of the mind is sufficient for them.
+- They are mentally undeveloped.
+- Because of this, their brain is also undeveloped. 
+- The cranium is very small
+- The conscious portion of the mind is sufficient for them.
 
 There is no necessity or little necessity for the sub-conscious or unconscious strata of the mind. 
 
 A plant gets pleasure or pain when its inborn instincts are either encouraged or discouraged. 
 
 When the inborn instincts of a plant or an animal are:
-- encouraged, it gets pleasure.
-- discouraged, suppressed or depressed, it gets pain. 
+- encouraged, it gets pleasure
+- discouraged, suppressed or depressed, it gets pain
 
 This is how the brain or the mind of plants and animals functions. 
 
-But in the case of human psychology, human psycho-spiritual movement cannot be suppressed, cannot be checked. 
+
+But in the case of human psychology, **human psycho-spiritual movement cannot be suppressed, cannot be checked.** 
 
 There lies the speciality of human existence.
 
 Yoga is the most developed and most valuable expression of human wonts.
 
-So it is in the first phase of yoga that one expresses oneself through so many arts and sciences. 
+So the first phase of yoga is in expressing oneself through so many arts and sciences. 
 
-The final point of all artistic movement and the final point of all branches of sciences is the supreme source, the perennial source of all energies, the supreme seat of all energies.
+The final point of all artistic movement and the final point of all branches of sciences is the supreme source.
+
+<!-- , the perennial source of all energies, the supreme seat of all energies. -->
 
 <!-- It is Parama Puruśa, the Supreme Entity, who is the Father of all, the Causal Matrix of all created beings in this universe, both animate and inanimate. 
 
 That is why for all people, whether they are intelligent or illiterate, thin or fat, educated or uneducated, the Supreme Entity must be the goal of life. That is, the Supreme Entity is the culminating point, the desideratum of all human expressions. When human beings are lacking in this spirit of movement, they degrade themselves from the human status. All you boys and girls, you should remember this supreme expression of veracity. -->
+
 
 14 September 1979, Istanbul

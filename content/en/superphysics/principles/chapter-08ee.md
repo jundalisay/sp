@@ -7,7 +7,7 @@ description: "We explain the meaning of common fallacies by removing the jargon"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 710
+weight: 670
 icon: "Juan"
 aliases:
   /superphysics/fallacies/red-herring

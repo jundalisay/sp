@@ -1,5 +1,15 @@
-Chapter XXXV.19 On The Æsthetics Of
-Architecture.
+---
+heading: Chapter 35
+title: "The Aesthetics Of Architecture"
+description: ""
+weight: 8
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
+
+
 
 19 This chapter is connected with § 43 of the first volume.
 
@@ -11,7 +21,9 @@ burden, and its fundamental law is that no burden shall be with-
 out sufficient support, and no support without a suitable burden;
 consequently that the relation of these two shall be exactly the
 fitting one. The purest example of the carrying out of this theme
-is the column and entablature. Therefore the order or columnar
+is the column and entablature. 
+
+Therefore the order or columnar
 arrangement has become, as it were, the thorough bass of the
 whole of architecture. In column and entablature the support and
 the burden are completely separated; whereby the reciprocal ac-
@@ -31,8 +43,9 @@ also consoles and supports of various kinds, realise more that
 pure separation of support and burden which is striven after
 throughout by architecture. In this respect, next to the column
 with the entablature, but as a special construction not imitating
-it, stands the vault with the pillar. The latter certainly is far from attaining to the æsthetic effect of the former, because here the
-support and the burden are not purely separated, but are fused,
+it, stands the vault with the pillar. 
+
+The latter certainly is far from attaining to the æsthetic effect of the former, because here the support and the burden are not purely separated, but are fused,
 passing over into each other. In the vault itself every stone is
 at once burden and support, and even the pillars, especially in
 groined vaulting, are, at least apparently, held in position by
@@ -66,7 +79,8 @@ bear. A glaring example of burden without support is presented
 to the eye by the balconies at the corners of many houses built in
 the elegant style of the present day. We do not see what supports
 them; they seem to hang suspended, and disturb the mind.
-Chapter XXXV. On The Æsthetics Of Architecture. 181
+
+
 That in Italy even the simplest and most unornamented build-
 ings make an æsthetic impression, while in Germany this is not
 the case, depends principally upon the fact that in Italy the roofs
@@ -338,6 +352,4 @@ so diligently finishes the Gothic churches left incomplete by the
 believing Middle Ages, it looks to me as if it were desired to
 embalm a dead Christianity.
 
-
-20 This chapter is connected with §§ 44-50 of the first volume.
 

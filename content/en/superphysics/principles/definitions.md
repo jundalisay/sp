@@ -28,6 +28,7 @@ Adharmic | not being in line with one's dharma or the nature of things. This rep
 Atheism | a belief system that negates the existence of a Supreme Entity
 Attribute | a part of Substance.
 Belief | a set of ideas that the ego attaches itself to
+Belief System | a logical collection of related ideas that the ego can adopt and attach itself to
 Conscience | the intuition or feeling for the dharma or true nature
 Consciousness | the other half of Existence that lets Existence exist; the subtlest Substance, closest to Void, that is able to 'measure' or perceive all other Substances; the Substance that perceives all
 Critical Feeling | the expansion of one's feelings onto other entities other than the self, by exerting extra effort or energy
@@ -36,6 +37,7 @@ Death | The state where a mind loses the ability to express independently of the
 Dharma | The inherent, metaphysical nature of any discrete identity with reference to the creator of that identity 
 Dharmic | Being in line with one's dharma or the nature of things. This replaces the concept of 'good' which is based on the limited ego.
 Distance | the gap within identities
+Domain | a territory owned or controlled by a ruler
 Eagle | the equation for everything, according to Superphysics
 Effort | the inherent capability of an identity for action
 Ego | the feeling of the self 
@@ -50,7 +52,6 @@ gods | entities that represent beings more advanced than humans with correspondi
 Gravitational Signature | the unique code or idea that is the basis for the discrete entity. In a living body, this manifests as its DNA
 Humor | Ability to make connections from seemingly unconnected things (Bashar)
 Idea | a node created by metaphysical waves that bunch up and persist together (from the netaphysical point of view)
- <!-- An original metaphysical object created by the Supreme that is accessed by abstract minds; a product of Ideation (accessing pre-existing ideas) -->
 Ideology | a system of beliefs built around a centeral idea
 Identity | A discrete resultant perception separate from other perceptions or a mass of perceptions
 Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable. Also generally adharmic since Existence is Positive.
@@ -58,7 +59,7 @@ Instant | The minimum moment of time (Descartes, Principles of Philosophy)
 Instinct | A feeling from the subsidiary (lower) glands. (Sarkar)
 Intuition | Instant knowledge or connection derived from the aether, which is above spacetime
 Karma | Action and Reaction, or Cause and Effect. Technically, the 7th kind of philosophical relation according to David Hume.
-Knowledge | The assimilation of perceptions with, or into, the abstract mind via ideas. Also, jiṋána as the subjectivization of objects (Sarkar)
+Knowledge | the actual integration of idea-nodes; the assimilation of perceptions with, or into, the abstract mind via ideas. Also, jiṋána as the subjectivization of objects (Sarkar)
 Length Contraction | Decrease of distance within space
 Life | The state where a mind has the ability to express independently of the physical aspects of the universe, by having more subtle waves 
 Locality | object or movement is relative to or influenced by its immediate surroundings (Quantum mechanics violates local causality) 
@@ -72,13 +73,14 @@ Negative Force | the force from the desire of Existence that leads to separation
 Non-Locality | Action at a Distance (Einstein); True motion (Descartes)
 Omnitheism | a paradigm that views all Supreme Entities as different versions of one Supreme Entity 
 Passive Observation | Observing the object without doing anything to it.
+Peace | the actual integration of the relevant feeling-waves in Existence
 Personality | A collaborated composition of the physical, mental, spiritual body (Sarkar-effect)
 Personality Structure | Determines the DNA patterns of the body in order to reinforce the belief system [samskara] (Bashar-causal)
 Physics | The study of the Supreme Entity in its physical forms. This includes the 5 Layers or Elements. This absorbs the word 'science'
 Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
 Reality | Metaphysical structure that forms from the waves emanated by nodes or vortices with each other  
-Religion | a ideology that is centered around God (as Enki or Enlil for Judeo-Christian Religions) or gods (as more advanced beings)
+Religion | an organized metaphysical belief system based on limitation due to the ignorance of how Nature works
 Riches | the power of acquiring the property of what pleases (David Hume, Treatise Book 2)
 Self | The perception of identity by the same perceiver
 Shiva | “witnessing consciousness”
@@ -93,6 +95,7 @@ Substance | a thing which exists in such a way that it needs nothing beyond itse
 Supreme Entity | The Absolute Entity in active form in order to gain reality and be perceived
 Tao | the dharma in active flowing form
 Theism | a belief system that is based on the idea of the existence of a Supreme Entity
+Thinking | the process of integration of external idea-nodes within the mind-node
 Thought | A physicalized version of a metaphysical Idea, as a result of thinking
 Time | Gap between perceptions in general 
 Time Dilation | The increase of timespan within time 
@@ -101,9 +104,9 @@ Vice | A specific feeling that is adharmic
 Virtue | A specific feeling that is dharmic
 Yoga | Union created by the Positive Force
 <!-- natural flow of the evolution or mechanics of a discrete identity -->
+<!-- a ideology that is centered around God (as Enki or Enlil for Judeo-Christian Religions) or gods (as more advanced beings) -->
 
-
-
+ <!-- An original metaphysical object created by the Supreme that is accessed by abstract minds; a product of Ideation (accessing pre-existing ideas) -->
 
 ## Mind, Soul, Spirit, Essence
 
@@ -210,6 +213,7 @@ Civilization | Refinement in the expression of a society-organism
 Culture | Expression of a society-organism
 Dogmisn | a blind belief perpetuated by the mind of a certain person
 Ideology Matrix | a 3D chart that classifies all ideas
+Society | a metaphysical organism made up of individual souls connected and united together; a group of people who move together (Sarkar) 
 Socratic Liberal | the Democrat caste made up of workers and ordinary people. This is the most numerous in any society
 Socratic Neocon | the Tyrant caste made up of warriors, generals, and leaders. This is commonly the monarchy. 
 Socratic Conservative | the Aristocrat caste made up of philosophers, scientists, and researchers. This manifests as the Enlightenment, Theocracy, Religion, or Shariah

@@ -12,7 +12,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 toc: false
 aliases:
-  /social/economics/principles/invisible-hand/
+  /effort-theory
 ---
 
 

@@ -105,7 +105,6 @@ It is the higher mind of the Supreme that facilitates the unobserved phenomena l
 
 We say that the lower mind is a bit obvious and the higher mind is mysterious.
 
-
 This hard-to-observe property of the higher mind is why people even ask "Does God exist?"
 - It proves that the Higher Mind is difficult to perceive
 
@@ -117,8 +116,17 @@ This is also why people often respond: "I don't know, but I believe in a Higher 
 The question 'Does God exist?' can be answered by 'Can you perceive Existence?'. 
  -->
 
-
 This will be explained in Chapter 8b. 
+
+
+Paradigm | Pre-Existence | Existence
+--- | --- | ---
+Superphysics | Absolute Entity | Supreme Entity
+Ancient Greek | The One | The Whole or The Other
+Hindus | Nirguna Brahma | Saguna Brahma
+Buddhists | Sunya | Brahma 
+Taoism | Tao | tao 
+Essassani | The One | All There Is
 
 
 

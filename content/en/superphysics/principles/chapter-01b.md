@@ -128,6 +128,25 @@ Massive 'Early' Galaxies | James Webb Space Telescope
 Cosmological lithium problem in 'Older' Stars | Very Large Telescope Chile
 
 
+## How to Know if a Person is a Materialist
+
+The easiest way to know whether a person is a materialist is to mention to them the following concepts which you establish as fact or cosnsitently observed throughout history by civilizations that don't talk to each other:
+
+- souls, spirits, and reincarnation
+- nature spirits or elementals 
+- advanced aliens
+- life-force, chi, or prana
+- chakras or aethereal vortices (Descartes) 
+
+The more negative or hostile they react to these natural concepts, the more materialist they are.
+
+
+
+## Definition
+
+A materialist is a mind that is stuck to the Crude Stratum.
+
+
 
 ## So What's the Use of Exposing the Materialist View?
 
@@ -153,3 +172,4 @@ For example:
 
 
 Identifying materialism in the sciences lets people think outside the box for better and more natural solutions which we will discuss in the next section as the natural view.
+

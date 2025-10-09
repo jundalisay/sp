@@ -1,6 +1,20 @@
-Chapter XXXII.14 On Madness.
+---
+heading: Chapter 32
+title: "Madness"
+description: ""
+weight: 8
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
+
+
+14 This chapter is connected with the second half of § 36 of the first volume.
+
 
 The health of the mind properly consists in perfect recollection.
+
 Of course this is not to be understood as meaning that our mem-
 ory preserves everything. For the past course of our life shrinks
 up in time, as the path of the wanderer looking back shrinks up in
@@ -16,6 +30,7 @@ healthy. In the text I have explained madness as the broken
 thread of this memory, which still runs on regularly, although
 in constantly decreasing fulness and distinctness. The following
 considerations may serve to confirm this.
+
 The memory of a healthy man affords a certainty as to an event
 he has witnessed, which is regarded as just as firm and sure as his
 present apprehension of things; therefore, if sworn to by him, this
@@ -29,11 +44,9 @@ mere dream. If another doubts the reality of an event, related by
 me as an eye-witness, without mistrusting my honesty, then he
 regards me as insane. Whoever comes at last, through constantly
 recounting an event which originally was fabricated by him, to
-believe in it himself is, in this one point, really insane. We may
-14 This chapter is connected with the second half of § 36 of the first volume.
-166 The World as Will and Idea (Vol. 3 of 3)
-ascribe to an insane person flashes of wit, single clever thoughts,
-even correct judgments, but his testimony as to past events no
+believe in it himself is, in this one point, really insane. 
+
+We may ascribe to an insane person flashes of wit, single clever thoughts, even correct judgments, but his testimony as to past events no
 man will consider valid. In the Lalita-vistara, well known to
 be the history of Buddha Sakya-Muni, it is related that at the
 moment of his birth all the sick became well, all the blind saw,
@@ -47,6 +60,7 @@ are entirely without connection, nay, are in contradiction and
 contrast with each other, and every evening the actor strives to
 forget himself entirely and be some quite different person. This
 kind of thing paves the way for madness.
+
 The exposition of the origin of madness given in the text will
 become more comprehensible if it is remembered how unwill-
 ingly we think of things which powerfully injure our interests,
@@ -81,6 +95,7 @@ worth noticing. Carlo Gozzi, in the “Monstro turchino,” act i.
 scene 2, presents to us a person who has drunk a magic potion
 which produces forgetfulness, and this person appears exactly
 like a madman.
+
 In accordance with the above exposition one may thus regard
 the origin of madness as a violent “casting out of the mind” of
 anything, which, however, is only possible by “taking into the [170]
@@ -116,6 +131,7 @@ external occasion alone, but a certain physical discomfort lies at
 its foundation; and according to the degree which this attains to
 a greater or less external occasion is required; only in the case
 of the very highest degree is no external occasion at all required.
+
 Therefore there is no misfortune so great that it would influence
 every one to suicide, and none so small that one like it has not
 already led to it. I have shown the psychical origin of madness[171]
@@ -126,16 +142,15 @@ disappointment will be sufficient to induce it. For example, I
 remember a man in a madhouse who had been a soldier, and
 had gone out of his mind because his officer had addressed him
 as Er.16 In the case of decided physical disposition no occasion
-at all is required when this has come to maturity. The madness
+at all is required when this has come to maturity. 
+
+The madness
 which has sprung from purely psychical causes may, perhaps,
-by the violent perversion of the course of thought which has
-
-16 In German inferiors are sometimes addressed as Er instead of Sie.—Trs.
-
-produced it, also introduce a kind of paralysis or other depravity
+by the violent perversion of the course of thought which has produced it, also introduce a kind of paralysis or other depravity
 of some part of the brain, which, if not soon done away with,
 becomes permanent. Therefore madness is only curable at first,
 and not after a longer time.
+
 Pinel taught that there is a mania sine delirio, frenzy without
 insanity. This was controverted by Esquirol, and since then much
 has been said for and against it. The question can only be decided

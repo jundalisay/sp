@@ -1,18 +1,22 @@
 ---
 heading: "Chapter 11"
-title: "The Path to the Supreme"
+title: "Yoga Versus Dogma"
 date: 2025-10-07
-weight: 650
+weight: 710
 image: /photos/objects/hand.jpg
 description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
 ---
 
 
+
 Chapter 1 explained that Existence was generated to reflect the value of the Absolute onto Itself.  
+
+
+## Yoga Versus the Dogma in Eastern and Western Religions
 
 In Physics, reflection is the light-wave going back to be absorbed by the source of that light. 
 
@@ -27,52 +31,57 @@ However, since the problem is caused by the Negative Force and suicide is a nega
 
 This adds crude waves that funnels the soul into a worse physical reality. 
 
+
+### Dogma in Buddhism and Hinduism
+
 If so why do some Buddhist monks and Hindu sadhus commit suicide by burning or starving themselves?
 
 {{< i s="/photos/social/burn.jpg" a="Burn" >}}
   
 We answer that religious dogma creates cultural problems that prevents the mind from flowing in a natural course. 
 
-In the Buddhist case, the imposition of blind non-violence robs the mind of ways to fight back against oppressive policies.
-- This makes the monk's mind flow into the idea of suicide as a vent or workaround
-
-In the Hindu case, the imposition of renunciation of the material world robs the mind of ways to realize the Supreme through materialism. 
-- This makes the sadhu's mind flow into the idea of starvation which is consistent with Hindu belief.
+- In the Buddhist case, the imposition of blind non-violence robs the mind of ways to fight back against oppressive policies. This makes the monk's mind flow into the idea of suicide as a vent or workaround
+- In the Hindu case, the imposition of renunciation of the material world robs the mind of ways to realize the Supreme through materialism. This makes the sadhu's mind flow into the idea of starvation which is consistent with Hindu belief.
 
 The self-immolation protests in Vietnam in the 1960s and those in Tibet in the 2010s did not lead to the betterment of their social or religious situation.
 - The Buddhist self-immolation protests in Vietnam against Catholic policies created to instability which allowed Communist victory which reduced Buddhism in Vietnam 
 - The Buddhist self-immolation protests in Tibet against Chinese policies did not change Communist policy suppressing Buddhism
 
 
-As such, we cannot say that such forms of Buddhist and Hindu interpretation are valid natural ways to realize the Supreme. 
-
-Instead, of specific religions, we come up with 4 paths to yoga which is consistent with the 4 paths in the Bhagavad Gita. 
+As such, we cannot say that such forms of Buddhist and Hindu interpretation are valid natural ways to realize the Supreme. What about the Western and Middle Eastern religions?
 
 
+### Dogma in Christianity and Islam
+
+The solution of Christanity to existential problems is to accept Jesus, with the belief that doing so will magically end the problem and bring one's soul to heaven after death.
+
+{{< q a="John" c="The Bible, John 3:16" >}}
+For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
+{{< /q >}}
+
+The effects of Christianity has been colonization, which uses religion to make the colonies subservient to the colonizer. This is because the Christianity is an invention of the Roman Empire. 
+
+{{< q a="Antonio de Morga" c="Events in the Philippine Islands, Chapter 6" >}}
+Our pilot, Francisco de Sanda, had shown Ximonojo the sea-chart of all the countries discovered by Spain. Ximonojo asked him how those distant kingdoms were gained. The pilot replied that the religious had entered first and preached their religion. Then the soldiers had followed and subdued them. So Ximonojo told the Taiko [Toyotomi Hideyoshi] that the Spaniards conquered by first sending their religious to the kingdoms then entering after with their arms. They would do this with Japan.. All this angered the Taiko thoroughly.
+{{< /q >}}
 
 
-Paradigm | Pre-Existence (Probability) | Existence (Matrix or Mind)
---- | --- | ---
-Superphysics | Absolute Entity | Supreme Entity
-Ancient Greek | The One | The Whole or The Other
-Hindus | Nirguna Brahma | Saguna Brahma
-Buddhists | Sunya | Brahma 
-Taoism | Tao | tao 
-Essassani | The One | All There Is
+
+The solution of Islam to existential problems is to submit to Allah and Islamic law, with the belief that doing so will give them ease in this life and rewards in the afterlife.
+
+{{< q a="Mohammad" c="Quran, Surah At-Talaq 65:3" >}}
+Whoever relies on Allah, then He is sufficient for him. Allah will accomplish His purpose. Allah has already set for everything a decreed extent.
+{{< /q >}}
 
 
-
-Notice how our classification is existence-based, being divided into:
-
-1. The Probability of Existence
-2. Actual Existence 
+The effects of Islam are very inconsistent, with Arabian countries prospering with oil wealth, while Gaza and Yemen are suffering with genocide and civil war. Moreover, the harsh policies of Islam have been associated with terrorism. 
 
 
-This is very different from the Judeo-Christian God, Yahweh, Allah, and even the Polythesist Tara, Quan Yin, Kali, Ganesh, etc who are classified according to the feelings of the people who invented them:
+<!-- This is very different from the Judeo-Christian God, Yahweh, Allah, and even the Polythesist Tara, Quan Yin, Kali, Ganesh, etc who are classified according to the feelings of the people who invented them:
 
 - The Jewish Yahweh is very cruel. This mirrors the cruel environment experienced by the Jews during their journey through the desert
 - The Christian God is very forgiving and generous. This mirrors the feelings of Jews under the wealthy Romans 
-- The Islamic Allah is very commanding. This mirrors the feelings of Arabs rallying the tribes against the Byzantines and Persians.
+- The Islamic Allah is very commanding. This mirrors the feelings of Arabs rallying the tribes against the Byzantines and Persians. -->
 
 
 ## God as the Anunnaki
@@ -105,33 +114,4 @@ Hindu Brahma | :heavy_check_mark: | |
 Hindu Nirguna Brahma |  | | :heavy_check_mark: 
 Hindu Shiva, Narayana, Ganesha | :heavy_check_mark: | | 
 Hindu Shakti, Kali, Durga | | :heavy_check_mark: |
-
-
-
-## The Absolute Entity
-
-We create the concept of the **Absolute Entity** in order to explain the nature of Probability of Existence. 
-
-We can think of the Absolute Entity as the **Supreme Entity** in passive or pre-existing form. 
-<!-- It is the only entity that does not move is the entity that created the ideas, minds, and feelings in the Universe. -->
-- The Ancient Greeks call it *The One*
-- Hindus call it *Nirguna Brahma*
-- Buddhists call it *Sunya* or *Void*
-
-{{< q a="Aristotle" c="The Metaphysics by Aristotle Simplifed, Book 1, Part 8" >}}
-The believers of The One say that The One is the cause of substance [aether]. 
-{{< /q >}}
-
-
-## The Supreme Entity
-
-The Supreme is biased towards creation. This bias comes in the form of the *Positive Force* slightly dominating the Negative Force in the long run.
-
-- The Positive (Yang in Taoism) keeps our universe in Existence. If the Positive had no Negative, then existence would be static and unchanging. 
-- The Negative (Yin in Taoism) keeps that Existence dynamic. If the Negative had no Positive, then there would be no persistence in existence. 
-
- <!-- which then leads to the constant existence and dynamism of our universe.      -->
-
-The Absolute is beyond the Positive or Negative and consequently does not care or is not affected by them. It is the Supreme that 'cares' for Existence or Itself.
-
 

@@ -1,4 +1,17 @@
-Chapter XXXIV.18 On The Inner Nature Of Art
+---
+heading: Chapter 34
+title: "The Inner Nature Of Art"
+description: ""
+weight: 8
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
+
+
+
+18 This chapter is connected with § 49 of the first volume.
 
 Not merely philosophy but also the fine arts work at bottom
 towards the solution of the problem of existence. For in every
@@ -28,10 +41,7 @@ this is life.” Their answer, however correct it may be, will yet
 always afford merely a temporary, not a complete and final,
 satisfaction. For they always give merely a fragment, an example
 instead of the rule, not the whole, which can only be given in
-the universality of the conception. For this, therefore, thus for
-18 This chapter is connected with § 49 of the first volume.
-174 The World as Will and Idea (Vol. 3 of 3)
-reflection and in the abstract, to give an answer which just on that
+the universality of the conception. For this, therefore, thus for reflection and in the abstract, to give an answer which just on that
 account shall be permanent and suffice for always, is the task of
 philosophy. However, we see here upon what the relationship of
 philosophy to the fine arts rests, and can conclude from that to

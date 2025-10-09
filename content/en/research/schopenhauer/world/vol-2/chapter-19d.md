@@ -1,3 +1,12 @@
+---
+heading: Chapter 30
+title: "The Primacy Of The Will In Self-Consciousness"
+description: ""
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
 
 
 

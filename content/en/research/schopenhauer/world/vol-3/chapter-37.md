@@ -1,23 +1,35 @@
+---
+heading: Chapter 37
+title: "The Æsthetics Of Poetry"
+description: ""
+weight: 8
+date: 2025-10-05
+writer:
+  name: Schopenhauer
+  url: https://en.wikipedia.org/wiki/Arthur_Schopenhauer
+---
 
 
 
-Chapter XXXVII. The Æsthetics Of Poetry
+21 This chapter is connected with § 51 of the first volume.
 
-I might give it as the simplest and most correct definition of
-poetry, that it is the art of bringing the imagination into play by
-means of words. How it brings this to pass I have shown in
-the first volume, § 51. A special confirmation of what is said
-there is afforded by the following passage in a letter of Wieland's
-to Merck, which has since then been published: “I have spent
-two days and a half upon a single stanza, in which the whole
-thing ultimately depended upon a single word which I wanted
+
+Poetry is the art of bringing the imagination into play through words.
+
+How it brings this to pass I have shown in the first volume, § 51. 
+
+This is confirmed by Wieland to Merck: 
+
+“I have spent 2.5 days on a single stanza, in which the whole thing ultimately depended upon a single word which I wanted
 and could not find. I revolved and turned about the thing and
 my brain in all directions, because naturally, where a picture was
 in question, I desired to bring the same definite vision, which
 floated before my own mind into the mind of my reader also,
 and for this all often depends, ut nosti, upon a single touch
 or suggestion or reflex” (Briefe an Merck, edited by Wagner,
-1835, p. 193). From the fact that the imagination of the reader
+1835, p. 193). 
+
+From the fact that the imagination of the reader
 is the material in which poetry exhibits its pictures, it has the
 advantage that the fuller development of these pictures and their
 finer touches, take place in the imagination of every one just as is
@@ -31,10 +43,8 @@ inefficient addition; although always less so the more objective,
 i.e., the more of a genius, the artist is. This, to some extent,
 explains why works of poetry exercise a much stronger, deeper,
 and more universal effect than pictures and statues; the latter,
-for the most part, leave the common people quite cold; and, in
-21 This chapter is connected with § 51 of the first volume.
-198 The World as Will and Idea (Vol. 3 of 3)
-general, the plastic arts are those which have the weakest effect.
+for the most part, leave the common people quite cold; and, in general, the plastic arts are those which have the weakest effect. 
+
 A remarkable proof of this is afforded by the frequent discovery
 and disclosure of pictures by great masters in private houses and
 all kinds of localities, where they have been hanging for many
@@ -581,14 +591,13 @@ is, however, a small German piece called “Duty for Duty's Sake”
 (a title which sounds as if it had been taken from the Critique of
 Practical Reason), which has only three characters, and yet all
 the three are of most transcendent magnanimity.
+
 The Greeks have taken for their heroes only royal persons; and
 so also for the most part have the moderns. Certainly not because
 the rank gives more worth to him who is acting or suffering; and
 since the whole thing is just to set human passions in play, the
 relative value of the objects by which this happens is indifferent,
-and peasant huts achieve as much as kingdoms. Moreover, civic
-214 The World as Will and Idea (Vol. 3 of 3)
-tragedy is by no means to be unconditionally rejected. Persons
+and peasant huts achieve as much as kingdoms. Moreover, civic tragedy is by no means to be unconditionally rejected. Persons
 of great power and consideration are yet the best adapted for
 tragedy on this account, that the misfortune in which we ought to
 recognise the fate of humanity must have a sufficient magnitude
@@ -617,13 +626,14 @@ eral mingled with success, victory, and hopes, which in the end
 preponderate; moreover, it brings out the inexhaustible material
 for laughter of which life, and even its adversities themselves are
 filled, and which under all circumstances ought to keep us in a
-good humour. Thus it declares, in the result, that life as a whole
+good humour. 
+
+Thus it declares, in the result, that life as a whole
 is thoroughly good, and especially is always amusing. Certainly
 it must hasten to drop the curtain at the moment of joy, so that
 we may not see what comes after; while the tragedy, as a rule,
 so ends that nothing can come after. And moreover, if once we
-contemplate this burlesque side of life somewhat seriously, as it shows itself in the naïve utterances and gestures which trifling
-embarrassment, personal fear, momentary anger, secret envy,
+contemplate this burlesque side of life somewhat seriously, as it shows itself in the naïve utterances and gestures which trifling embarrassment, personal fear, momentary anger, secret envy,
 and many similar emotions force upon the forms of the real life
 that mirrors itself here, forms which deviate considerably from [219]
 the type of beauty, then from this side also, thus in an unexpected

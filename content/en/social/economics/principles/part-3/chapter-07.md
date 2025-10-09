@@ -1,16 +1,17 @@
 ---
 heading: "Chapter 7"
-title: "The Demand, Capital, Industry, and Trade Tool (DCIT)"
+title: "The Demand, Supply, Industry, and Trade Tool (DSIT)"
 date: 2021-06-26
 weight: 30
 image: "/graphics/econ/dcit.png"
-description: "The Demand Capital Trade Industry Tool is for Troubleshooting Economies according to the Fourth Law of Value"
+description: "The Demand Supply Trade Industry Tool is for Troubleshooting Economies according to the Fourth Law of Value"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Supereconomics"
+aliases:
+  /dsit
 ---
-
 
 
 According to Adam Smith, a crisis begins when a country's industry does not match its capital. This is similar to an inexperienced entrepreneur launching a business out of sheer speculation.

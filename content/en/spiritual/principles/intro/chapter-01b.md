@@ -7,7 +7,7 @@ description: "The 10 virtues are based on Yama and Niyama"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /icons/spi.png
+icon: "Lam"
 weight: 4
 draft: true
 ---

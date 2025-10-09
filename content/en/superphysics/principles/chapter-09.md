@@ -10,7 +10,7 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 icon: "Superphysics"
 aliases:
-  /superphysics/critical-feeling
+  /critical-feeling
 ---
 
 
@@ -21,9 +21,33 @@ Chapter 1f explained that:
 - nodes of waves manifest as ideas
 
 
+Feelings manifest as:
+- forces when interacting with crude nodes
+- emotions when interacting with subtle nodes
+
+{{< img src="/photos/psych/freedom.jpg" alt="Freedom woman" >}}
+
+We cannot quantify forces at first sight unlike objects. For example, we see 3 apples and can declare the number 3. But we cannot easily say their weight by just our hands.
+
+Material Superphysics explains that:
+- the sight of the apples is from their aetherspace which is static
+- the feeling of the weight of the apples is from the space particles which are constantly flowing
+
+
+Thus, feelings and forces are hard to quantify and to objectively standardize since they are dynamics waves. 
+
+Ideas, on the other hand, are easy to define and quantify and standardize into belief systems
+
+
+
 ## Feelings are Superior to Intellect
 
-The perception of idea and experience are both done by the intellect. 
+This makes the control of the intellect easier to develop, than the control of the feelings.
+
+- The intellect or brain is our detector and manager for our ideas
+- The heart is our detector and manager for our feelings
+
+<!-- The perception of idea and experience are both done by the intellect. 
 
 However, the movement from idea to experience are powered by desire. Without desire, idea and experience would never meet and loops will never close. This would be like being ignorant or staring at blankness forever. 
 
@@ -36,44 +60,52 @@ Ideas can be represented by accurately physical objects. For example, the idea o
 However, feelings cannot be universally represented by objects. For example, the feeling of freedom has been represented by:
 - a flying bird, 
 - broken chains, or
-- a person with open arms. 
-
-{{< img src="/photos/psych/freedom.jpg" alt="Freedom woman" cap="Feelings are hard to quantify and to objectively standardize" >}}
+- a person with open arms.  -->
 
 
-We can say that feelings are primarily metaphysical. Thus:
-- the intellect is our built-in sensor for the physical domain 
-- the heart is our built-in sensor for the metaphysical domain
+## Inward Feelings Versus Outward Emotions
 
+The word "feeling" comes from the Old English "felan" which means "to touch or have a sensory experience of something". 
+- Since feelings are aethereal waves, then feelings are waves going inwards to the mind. 
 
-## Feelings Versus Emotions
+The Latin word "emovere" which is a combination of "e-" (variant of ex- ) meaning "out" and "movere", meaning "move". 
+- This implies an outward movement or expression. 
 
-The word "feeling" comes from the Old English "felan" which means "to touch or have a sensory experience of something". Since feelings are aethereal waves (Chapter 3), then feelings are waves going inwards to the mind. 
-
-Latin word "emovere" which is a combination of "e-" (variant of ex- ) meaning "out" and "movere", meaning "move". This implies an outward movement or expression. 
-
-We can think of emotions as feelings that have been processed by the perceiver according to his gravitational signature. Emotions are therefore subjectivized feelings just as knowledge is subjectified information and thoughts. 
+We can think of emotions as feelings that have been processed by the perceiver according to his gravitational signature or personality configuration.
+- Emotions are therefore subjectivized feelings just as knowledge is subjectified thoughts. 
 
 
 {{< img src="/graphics/psych/feelings.jpg" alt="Feelings into Emotion" cap="Feelings turn into personal emotion due to one's gravitational signature" >}}
 
-Emotions are more commonly seen in the items that we personalize, such as our clothes, computer desktop, office workspace, bedroom, personal vehicles, etc. These customizations express our gravitational signature to the outside world and validates our living existence. 
+Emotions are more commonly seen in the items that we personalize, such as our clothes, computer desktop, office workspace, bedroom, personal vehicles, etc. 
+
+These customizations express our gravitational signature to the outside world and validates our personality structure.
 
 
-Feelings pervade existence and are also 'felt' by non-living things, such as rocks and ice. A rock might turn redder when it meets a high amount of heat, while ice might melt and evaporate. We can say that the red color and the evaporation are the expressed emotions of the rock and ice, respectively. This will be explained more in Chapter 7.    
 
+## The Emotions of Matter
+
+Feelings pervade existence and are also 'felt' by non-living things, such as rocks and ice. 
+
+A high amount of heat makes:
+- a rock turn redder
+- ice might melt and evaporate
+
+We can say that the red color and the evaporation are the expressed emotions of the rock and ice, respectively. This is consistent with the assertion in Chapter 8a that the physical universe is alive.
+
+<!-- This will be explained more in Chapter 7.     -->
 
 {{< img src="/graphics/psych/feelings2.jpg" alt="Feelings into Emotion for Rocks and Water" cap="Feelings are expressed by non living objects in very limited ways. A rock shows its emotions on perceiving heat by turning more red, while water shows it by turning into steam" >}}
 
 
-Chapter 2 explained that the metapyhsical domain is superior to the physical domain. Therefore the heart is superior to the brain. 
+<!-- Chapter 2 explained that the metapyhsical domain is superior to the physical domain. Therefore the heart is superior to the brain. 
 - This is proven by successful people having more (metaphysical) grit than people who had high grades in school. 
 - World leaders, such as Donald Trump and Kim Jong Un, are known for grit but not for intellect. 
 
 The intellect is just the connection of ideas. But it is the feelings that powers the desire, not only to connect ideas, but to expand the scope of the intellect.  
 
 Superphysics asserts that while non-living things do not show intellect, they do show emotion by the way they react to physical phenomena. Unlike living beings that use the heart to process emotions, non-living things use the Radiant Layer directly, as ELectromagnetism. THe most obvious feelings that non-living things react to are those of heat and cold. 
-
+ -->
 
 
 
@@ -135,3 +167,61 @@ Is the plan of the universe in line with what we feel?
 This is answered by our intuition and conscience. 
 - Intuition is the detection of the aether
 - Conscience is the intuition or feeling for the dharma or true nature
+
+
+
+## The Operations of Feeling
+
+Attraction is the tendency to move towards an object. 
+
+Its related oprations are:
+- Love
+- Friendship
+- Cooperation
+- Society
+- Buying
+- Arriving
+- Marriage or Being a couple
+- etc
+
+
+Repulsion is the tendency to move away an object. 
+
+- Hate
+- Animosity
+- War
+- Isolation
+- Selling
+- Leaving
+- Divorce or Breaking up
+- etc
+
+{{< i s="/photos/psych/freedom.jpg" a="Feeling" >}}
+
+
+### Usefulness of Combinative and Separative
+
+All the operations of thinking and feeling<!-- mind, through the intellect and feelings, --> thus fall into those 2 categories. This categorization is very useful for understanding the root cause of mental problems. 
+
+For example, Modern psychology detaches the intellect from the heart when dealing with memory problems such as dementia or Alzheimer's. This makes its cause unknown. 
+
+However, with our combined model, we point out that intellectual memory loss is separative action of the mind, as forgetting. The solution is to counteract this intellectual separative action with a combinative feeling action (since feelings are superior to intellect).
+
+This manifests as people having better social bonds. This is why positive social interaction is essential to avoid Alzheimer's and other mental diseases.     
+
+This categorization system also works for Physics as artificial intelligence or AI. 
+
+For example, Physicists are unable to create real AI because they neglect the feeling aspect. We solve this by adding social interaction data as part of the training data for our proposed Artificial Sentience system called ISAIAH.
+
+<!-- The separation of memory from remembering is useful in:
+- Bio Superphysics for memory problems, dementia, and
+- Material Superphysics for the creation of artificial sentience. -->
+
+<!-- For example, the interplay of desire, mind-memory, and consciousness explains why  -->
+
+
+## Remembering, Learning, and Expanding
+
+The other abilities of the mind can be explained in Bio Superphysics. 
+
+The next chapter will explain the layers of the mind, as the layers of the universe. 

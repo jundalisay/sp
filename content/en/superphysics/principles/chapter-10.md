@@ -2,13 +2,13 @@
 heading: "Chapter 10"
 title: "The Society Organism"
 date: 2025-10-07
-weight: 650
-image: /photos/objects/hand.jpg
-description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
+weight: 680
+image: /photos/social/team.jpg
+description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
+icon: "Juan"
 ---
 
 
