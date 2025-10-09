@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 4d"
+heading: "Chapter 4e"
 title: "The Cartesian View and Euclid's Elements"
 # date: 2015-09-09
 date: 2023-03-19

@@ -6,44 +6,41 @@ description: "Here we simplify the texts from Babylonian Sources"
 ---
 
 
-[a1] Ea made ready to speak, and said to the gods, his brothers:
+[a1] Enki said to the gods, his brothers:
 
-"What calumny do we lay to their charge? Their forced labor was heavy, their misery too much!
+{{< l a="Enki" >}}
+What calumny do we lay to their charge? Their forced labor was heavy, their misery too much!
 
-[a5] Every day ...
-the outcry was loud, we could hear the clamor.
+[a5] Every day ... the outcry was loud, we could hear the clamor.
 
-There is ...
-Belet-ili, the midwife, is present.note
-Let her create, then, a human, a man,
-
+There is ... Belet-ili, the midwife, is present. Let her create, then, a human, a man,
 
 [a10] Let him bear the yoke!
-Let man assume the drudgery of the god."
+Let man assume the drudgery of the god.
+{{< /l >}}
+
+
 Belet-ili, the midwife, is present.
 
-[190] Let the midwife create a human being!
-Let man assume the drudgery of the god."
+[190] Let the midwife create a human being! Let man assume the drudgery of the god."
 
-They summoned and asked the goddess the midwife of the gods, wise Mami:note
+They summoned and asked the goddess the midwife of the gods, wise Mami:
+
+{{< l a="Enki" >}}
 "Will you be the birth goddess, creatress of mankind?
 
-
 [195] Create a human being, that he bear the yoke, let him bear the yoke, the task of Enlil, let man assume the drudgery of the god." 
-
-Nintu made ready to speak,note and said to the great gods:
-
-
-[200] "It is not for me to do it, the task is Enki's.
-
-He it is that cleanses all, let him provide me the clay so I can do the making."
-
-Enki made ready to speak,
+{{< /l >}}
 
 
-[205] and said to the great gods:
+Nintu replied to the great gods:
 
-"On the first, seventh, and fifteenth days of the month, let me establish a purification, a bath. Let one god be slaughtered, then let the gods be cleansed by immersion.
+{{< r a="Ninti" >}}
+[200] "It is not for me to do it, the task is Enki's. He it is that cleanses all, let him provide me the clay so I can do the making."
+{{< /r >}}
+
+{{< l a="Enki" >}}
+[205] "On the first, seventh, and fifteenth days of the month, let me establish a purification, a bath. Let one god be slaughtered, then let the gods be cleansed by immersion.
 
 [210] Let Nintu mix clay with his flesh and blood.
 
@@ -52,9 +49,10 @@ Let us hear the drum for the rest of the time.
 
 [215] From the flesh of the god let a spirit remain, let it make the living know its sign,
 lest he be allowed to be forgotten, let the spirit remain."
+{{< /l >}}
 
-The great Anunna-gods, who administer destinies,
-[220] answered "yes!" in the assembly.
+
+The great Anunna-gods, who administer destinies, [220] answered "yes!" in the assembly.
 
 
 ### The Creation of Man
@@ -74,43 +72,47 @@ It would make the living know its sign.
 After she had mixed the clay, she summoned the Anunna, the great gods. The Igigi, the great gods, spat upon the clay.
 
 
-[235] Mami made rady to speak, and said to the great gods:
+[235] Mami said to the great gods:
 
-"You ordered me the task and I have completed it! You have slaughtered the god, along with his inspiration.
+{{< r a="Mami" >}}
+"You ordered me the task and I have completed it! You have slaughtered the god, along with his inspiration. [240] I have done away with your heavy forced labor, I have imposed your drudgery on man. You have bestowed clamor upon mankind. I have released the yoke, I have made restoration." 
+{{< /r >}}
 
-[240] I have done away with your heavy forced labor, I have imposed your drudgery on man. You have bestowed clamor upon mankind.
 
-I have released the yoke, I have made restoration." 
 
-They heard this speech of hers,
+They heard this speech of hers, [245] they ran, free of care, and kissed her feet, saying:
 
-[245] they ran, free of care, and kissed her feet, saying:
-
-"Formerly we used to call you Mami, now let your name be Belet-kala-ili:"note
+{{< l a="Enki" >}}
+"Formerly we used to call you Mami, now let your name be Belet-kala-ili:"
+{{< /l >}}
 
 [The human population increases and their noise disturbs the gods, who decide to wipe out mankind. The god Enki, however, sends a dream to Atrahasis. When the text resumes, Enki is still speaking.]
 
 
 ### Enki explains Atraḥasis' dream
 
-[i.b35] "Enlil committed an evil deed against the people."
 
-[i.c11] Atraḥasis made ready to speak, and said to his lord:
+{{< l a="Enki" >}}
+[i.b35] Enlil committed an evil deed against the people.
+{{< /l >}}
 
-"Make me know the meaning of the dream. let me know, that I may look out for its consequence."
 
-[i.c15] Enki made ready to speak, and said to his servant:
+<!-- Atraḥasis replied to his lord: -->
+{{< r a="Atrahasis" >}}
+[i.c11] What is the meaning of the dream? Let me know so I may look out for its consequence.
+{{< /r >}}
 
-"You might say, 'Am I to be looking out while in the bedroom?' Do you pay attention to message that I speak for your:
+
+{{< l a="Enki" >}}
+[i.c15] You might say 'Am I to be looking out while in the bedroom?' 
+
+Do you pay attention to message that I speak for you.
 
 [i.c20] 'Wall, listen to me! Reed wall, pay attention to all my words!
 
 Flee the house, build a boat, forsake possessions, and save life.
 
-[i.c25] The boat which you build
-... be equal ...
-Roof her over like the depth,
-
+[i.c25] The boat which you build ... be equal ... Roof her over like the depth..
 
 [i.c30] so that the sun shall not see inside her.
 
@@ -121,9 +123,7 @@ The gear should be very strong, the pitch should be firm, and so give the boat s
 I will shower down on you later
 
 [i.c35] a windfall of birds, a spate of fishes.'"
-
-He opened the water clock and filled it,
-
-he told it of the coming of the seven-day deluge.
+{{< /l >}}
 
 
+He opened the water clock and filled it, and told it of the coming of the seven-day deluge.

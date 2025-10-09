@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 4b"
-title: "The 8 Densities"
+title: "The 8 Perception Densities"
 date: 2024-06-22
 image: "/photos/physics/neutrino.jpg"
 description: "The 8 Densities are based on the aether "
@@ -47,8 +47,8 @@ Void |  8 | Non-Existential | Void
 
 
 
-Currently, humans are on the early stages of the 4th density. 
-- We have long had the concept of the malleability or subjectivity of time since the time of the Vedas, Gita, Parmenides and the Stoics.
+Currently, humans are on the early stages of the 4th perception density. 
+- We have long had the perception of the malleability or subjectivity of time since the time of the Vedas, Gita, Parmenides and the Stoics.
 - We have knowledge of abstract philosophy which proves a belief in the metaphysical domain. 
 - Yet there is no consensus of what the “physics” of the metaphysical domain is. 
 
@@ -57,7 +57,7 @@ This is what Superphysics aims to provide in order to help advance the human spe
 
 ## Connects to the Chakras
 
-Of these 8 densities, 7 matches the 7 chakras in yoga since the 8th density is only theoretical. 
+Of these 8 perception densities, 7 matches the 7 aethereal chakras in yoga since the 8th density is only theoretical. 
 
 Physically, the dimensions will be useful in Material Superphysics.
 
@@ -78,3 +78,4 @@ More importantly, these dimensions and densities give the soul a direction in li
 <!-- *The desire and formless realms are in the metaphysical domain while the
 form realm is in the physical domain. Desire makes up the 2 Forces which
 will be explained in Chapter 3. -->
+

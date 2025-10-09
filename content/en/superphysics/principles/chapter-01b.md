@@ -91,6 +91,8 @@ This ignorance of causes is why materialists peg the root causes:
 {{< i s="/photos/meta/adam.jpg" a="Adam" c="Some materialists, like Isaac Newton revert to God and religion as a sink for mysteries that they cannot explain" >}}
 
 
+We call this limitation as "Materialist Disease".
+
 
 In Physics this is best seen in the Heisenberg Uncertainty Principle. 
 
@@ -99,6 +101,7 @@ This deficiency of knowledge is expressed in the probability function.
 {{< /q >}}
 
 This ignorance of root causes fills Physics the most as ignorance-words, just as the ignorance in Economics leads to crisis-effects.
+
 
 Word | Implies
 --- | ---

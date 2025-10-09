@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 1e"
-title: "Four Wave Properties: Commonality, Density, Strength, Speed"
+title: "Four Wave Properties: Commonality, Density, Strength, Spread"
 date: 2025-10-04
 weight: 13
 image: /graphics/super/waveprops.jpg
@@ -40,7 +40,7 @@ There are many waves in Nature. These can be bunched up creating more density an
 A wave can have high amplitude as being loud and energetic, or a low amplitude as quiet and low energy. 
 
 
-4. Forward movement 
+4. Spread or Forward movement 
 
 A wave is a disturbance in a line that can travel fast or slow depending on its energy relative to external energies or other waves. 
 
@@ -54,6 +54,7 @@ These 4 properties manifest as the laws and rules in Nature which we can distill
 ## The 4 Rules of Motion in all Sciences
 
 Movement in physical space comes from space particles of the Air Element which Material Superphysics calls the Spatial Layer. Since space is made up of waves, as seen in gravitational waves, then the 4 properties of waves manifest as the 4 Rules of Motion as explained by Descartes and Spinoza.
+
 
 ### Rule 1: No Void
 
@@ -167,6 +168,23 @@ Growth slows down
 Organism declines as its spirit moves on
 
 
+## The 4 Races
+
+1. African
+2. Aryan
+3. Mongolian
+4. Austric
+
+
+{{< q a="Kiche People" c="Popol Vu, Part 3, Chapter 2">}}
+These are the names of the first men created:
+1. Balam-Quitzé
+2. Balam-Acab
+3. Mahucutah
+4. Iqui-Balam
+{{< /q >}}
+
+
 ## The 4 Social Cycles of Socrates
 
 This is the same as the Varnashrama system in the Vedas except that they are dynamic and not static. 
@@ -265,9 +283,9 @@ This is experiencing the Supreme through devotion and love.
 We can summarize these as follows:
 
 
-**Property** | Motion | Heat | Life | Economy | Govt | Spirit
---- | --- | --- | --- | --- | --- | --- 
-**Commonality** | No Void | Temperature | Child | Nominal | Legislative | Action
-**Density** | Spin | Conservation | Adolescent | Real | Executive |Discipline 
-**Strength** | Collision | Zero | Adult | Natural | Judiciary | Intellect
-**Speed** | Inertia | Entropy | Elderly | Market | Resources | Love
+**Property** | Motion | Heat | Life | Economy | Govt | Spirit | Races
+--- | --- | --- | --- | --- | --- | --- | ---
+**Commonality** | No Void | Temperature | Child | Nominal | Legislative | Action | African
+**Density** | Spin | Conservation | Adolescent | Real | Executive |Discipline | Aryan
+**Strength** | Collision | Zero | Adult | Natural | Judiciary | Intellect | Mongolian
+**Spread** | Inertia | Entropy | Elderly | Market | Resources | Love | Austric

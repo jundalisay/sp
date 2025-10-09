@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1f"
+heading: "Chapter 1g"
 title: "The 3 Operational Divisions of Reality"
 date: 2024-12-28
 # 2020-01-04

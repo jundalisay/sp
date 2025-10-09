@@ -88,31 +88,99 @@ As they were constantly engaged in warfare with the Aryans, they became much mor
 
 In the accounts of major battles fought between the Aryans and the non-Aryans, as depicted in the Sanskrit books written in the subsequent period,(2) the non-Aryans display no less competence than the Aryans.
 
-Aryan life was full of noisy revelry and pomp. 
+**Aryan life was full of noisy revelry and pomp.** 
 
 The non-Aryan life was simple and unostentatious, although it was the non-Aryans who had access to more materials of enjoyment. 
 
-But when the non-Aryans came in contact with the Aryans, they became tempted to enjoy pomp and splendour. Such a lifestyle proved more harmful to the comparatively inactive non-Aryans, inhabitants of a tropical country, than to the active and hardy Aryans.
+But when the non-Aryans came in contact with the Aryans, they became tempted to enjoy pomp and splendour. 
+
+Such a lifestyle proved more harmful to the comparatively inactive non-Aryans, inhabitants of a tropical country, than to the active and hardy Aryans.
 
 The Aryans outside India had no well-structured social system nor any clearly-defined marital discipline. “Might is right” was the order of society. 
 
-Nevertheless there was a predisposition in them to mould a society. The non-Aryans had happy families. They were characterized by a well-knit social structure and strong conjugal relationships. Even those nature-worshipping ethnic groups forming part of the Austric population of non-Aryan society, though comparatively backward, had very strong family relationships. So when the Aryans came in contact with these non-Aryans, they found new light for the formation of a society.
+Nevertheless, there was a predisposition in them to mould a society. 
 
-With the exception of a few munis and rśis, the militant (kśatriya-predominant) Aryans used to view the world with an extoversial outlook. After major battles they would kill the men of the conquered community, employ their children as servants, and either marry the women or employ them as maid-servants. For that reason there was a large number of male and female slaves in their society.
+The non-Aryans had happy families. They were characterized by a well-knit social structure and strong conjugal relationships.
 
-War-loving races are generally careful to honour the rules and laws of war, and frame new laws to suit the convenience of warring armies. Thus, the Aryans displayed a commendable sense of discipline during war. Being a war-loving race, it was but natural for them to do so. 
+Even those nature-worshipping ethnic groups forming part of the Austric population of non-Aryan society, though comparatively backward, had very strong family relationships. 
 
-The non-Aryans, however, were backward in this regard. During their battles with the Aryans they did not respect the rules and laws of war (such as not to strike at the defenceless, not to employ more than one fighter against another, not to kill a retreating or surrendering soldier or a soldier begging for mercy). 
+So when the Aryans came in contact with these non-Aryans, they found new light for the formation of a society.
 
-Not only was this highly irritating to the Aryans; the lack of a disciplined military mentality was actually one of the main reasons for the non-Aryans’ defeat.
+With the exception of a few munis and rśis, the militant (kśatriya-predominant) Aryans used to view the world with an extoversial outlook. 
 
-Usually the non-Aryans were content with little. What was developed in them was their introspective nature, which not only made them devotees of God, but infused in them a surging love for spiritual philosophy. The religious practices of the Aryans, however, entailed performing certain sacrifices in order to attain certain materialistic gains. That is, their religious observances were mainly ritualistic. 
+After major battles, they would:
+- kill the men of the conquered community
+- employ their children as servants
+- marry the women or employ them as maid-servants
 
-On the whole, the non-Aryans were followers of Tantra, or subjective sádhaná. Of course the non-Aryans, depending on their different degrees of intellectual development, ranged all the way from animists to Brahma sádhakas [intuitional practitioners whose goal is the Absolute]; but in general, individual sádhaná ranked very high. 
+This is why there were many male and female slaves in their society.
 
-The religion of the Vedic Aryans was, as a rule, one of prayer. It did not include even the subtlest hint of any intuitional meditation. And here lies the difference between the Brahmaváda of the Vedas and the Upanishads on the one hand, and that of Tantra on the other.
+War-loving races are generally careful to:
+- honour the rules and laws of war
+- frame new laws to suit the convenience of warring armies
 
-As previously mentioned, by “non-Aryans” no particular ethnic group was meant. When the Aryans first migrated to India, the non-Aryans were, on the whole, divided into three populations. Of these, the Negro-Austric Dravidians were the most developed intellectually and spiritually. Their Tantra sádhaná bore a predominance of jiṋána and bhakti. The next groups deserving mention are those of the Mongolian population. In their Tantra sádhaná, karma and bhakti were predominant. 
+Thus, the Aryans displayed a commendable sense of discipline during war.
 
-The groups which constituted the Austric population were almost equal to the Aryans intellectually, but in the practical and spiritual spheres they gradually lagged behind due to the comparative lack of dynamism of their society. This Austric society was content to practise the extroversial aspects of Tantra (witchcraft, invultuation, magic, magical incantation for evil purposes, hypnotism, etc.)
+Being a war-loving race, it was but natural for them to do so. 
 
+Their rules of war were:
+- not to strike at the defenceless
+- not to employ more than one fighter against another
+- not to kill a retreating or surrendering soldier, or a soldier begging for mercy
+
+The non-Aryans, however, were backward in this regard.
+
+During their battles with the Aryans, they did not respect these rules.
+
+This was highly irritating to the Aryans.
+
+**The lack of a disciplined military mentality was actually one of the main reasons for the non-Aryans’ defeat.**
+
+Usually the non-Aryans were content with little. 
+
+But they were developed in their introspective nature which:
+- made them devotees of God
+- infused in them a surging love for spiritual philosophy
+
+The religious practices of the Aryans, however, entailed performing certain sacrifices in order to attain certain materialistic gains. 
+- Their religious observances were mainly ritualistic. 
+
+On the whole, the non-Aryans were followers of Tantra, or subjective sádhaná. 
+
+Of course, the non-Aryans, depending on their different degrees of intellectual development, ranged all the way from animists to Brahma sádhakas [intuitional practitioners whose goal is the Absolute].
+
+But in general, individual sádhaná ranked very high. 
+
+The religion of the Vedic Aryans was prayer.
+
+It did not include even the subtlest hint of any intuitional meditation.
+
+Here lies the difference between:
+- the Brahmaváda of the Vedas and the Upanishads, versus
+- Tantra
+
+“Non-Aryans” does not refer to any particular ethnic group.
+
+When the Aryans first migrated to India, the non-Aryans were of 3 populations.
+
+1. Negro-Austric Dravidians
+
+These were the most developed intellectually and spiritually.
+
+Their Tantra sádhaná bore a predominance of jiṋána and bhakti. 
+
+2. Mongolians
+
+<!-- The next groups deserving mention are those of the  population.  -->
+
+In their Tantra sádhaná, karma and bhakti were predominant. 
+
+3. Austric 
+
+These were almost equal to the Aryans intellectually.
+
+ <!-- groups which constituted the Austric population were  -->
+
+But in the practical and spiritual spheres, they gradually lagged behind due to the comparative lack of dynamism of their society. 
+
+This Austric society was content to practise the extroversial aspects of Tantra (witchcraft, invultuation, magic, magical incantation for evil purposes, hypnotism, etc.)

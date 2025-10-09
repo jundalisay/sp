@@ -27,9 +27,20 @@ The reason for the prevalence of the wrong materialist belief is that the prevai
 Instead, it enshrines materialism and the physical domain, such as through physical comfort, physical pleasures, etc. 
 
 
-The natural view is that the universe and reality are based on perception as the unit mind being within the Supreme Mind.
+The natural view is that the universe and reality are based on metaphysical perception as the unit mind being within the Supreme Mind.
 
 {{< i s="/graphics/super/natural.jpg" a="Materialist vs Natural" c="The natural view puts the physical universe inside the the abstract mind of the Supreme" >}}
+
+Our perceptions are either of physical objects like rocks or metaphysical objects like the idea of rocks. This leads to the 2 domains which are studied by Physics and Metaphysics.
+
+{{< q a="Francis Bacon" c="The Proficience And Advancement Of Learning Simplified, Book 2 Part 7" >}}
+Natural science or theory is divided into physic and metaphysic.
+- Physic should contemplate that which is inherent in matter, and therefore transitory.
+- Metaphysic should contemplate that which is abstracted and fixed.
+- Physic should handle that which supposeth in nature only a being and moving.
+- Metaphysic should handle that which supposeth further in nature a reason, understanding, and platform.
+{{< /q >}}
+
 
 
 Since perception is subjective, it follows that the universe is subjective. This leads to:
@@ -40,11 +51,18 @@ Since perception is subjective, it follows that the universe is subjective. This
 {{< i s="/graphics/physics/bootup.jpg" a="Big Bootup" c="Instead of a Big Bang being inside a void, the universe, as part of a multiverse, is inside the aethereal mind of the Supreme Entity" >}}
 
 
+
+
+
+
 The materialist view of the universe belittles the metaphysical domain and treats it as insignificant, while enshrining the physical domain of physical sensations.
 
 The natural or spiritual view of the universe, on the other hand:
 - downplays physicality, calling it as an illusion or at least, something very crude and insignificant
 - give supreme emphasis on the metaphysical domain, specifically on the Supreme Entity that generates Existence
+
+<!-- However, the natural or spiritual view without the proper goal leads to  -->
+
 
 
 ## So What's the Use of the Natural View of the Univese?

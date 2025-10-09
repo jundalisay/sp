@@ -19,6 +19,14 @@ This leads to a natural pyramid structure for complex ideas where the essence or
 
 {{< i s="/graphics/meta/compound.jpg" a="Connection of ideas" c="The ">}}
 
-This  
+
+This is explained by Parmenides and by Eastern Philosophy as the .
+
+{{< q a="Parmenides" c="Parmenides by Plato, Chapter 2" >}}
+The One itself, then, having been broken up into parts by being, is many and infinite. This means that not only the One which has being is many, but the One itself, distributed by being, must also be many
+{{< /q >}}
 
 
+{{< q a="Sarkar" c="Idea and Ideology, Chapter 1" >}}
+Since the mind exists, the mental plate exists, and the reflection of Paramatman must remain. The Átman, therefore, remains associated with the jiivátman. The ultimate knowership, doership and base of existence lie in the átman.
+{{< /q >}}

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 1f"
-title: "Vortices and Ideas"
+title: "Vortices, Ideas, and Reality"
 date: 2024-12-28
 # 2020-01-04
 weight: 15
