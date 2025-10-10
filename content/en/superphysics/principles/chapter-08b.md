@@ -32,36 +32,76 @@ All simple ideas may be separated and united by the imagination as it pleases. T
 We thus establish the flowing nature of the thinking process. But what directions does it take?
 
 
-{{< i s="/photos/psych/self.jpg" a="Thinking" >}}
+<!-- {{< i s="/photos/psych/self.jpg" a="Thinking" >}} -->
 
-We then group this thinking operation into 2 categories:
+Since the actions of the mind are from the 3 Gunas or Influences, and since thinking is a flow, then it follows that thinking has 4 Properties which we can most easily see in arithmetical operations.
 
-<!-- From here, we can say that all of the activities or operations of the mind's intellect can be broadly categorized into two: -->
 
-1. Adding or Combinative
-2. Subtracting or Separative
+## The Four Operations of Arithmetic on Instances
 
-We also group this feeling operation into 2 categories:
-<!-- The activities or operations mind's heart can also be broadly categorized into two: -->
+Arithmetic is the basic core of mathematics that uses 4 operations from the flow which matches the 4 properties of waves:
 
-1. Attraction
-2. Repulsion
+1. Addition as 1st Property of Waves
 
-Attraction has a combinative net effect just as repulsion has a separative one. 
+The 1st Property of Waves is "no void". This is fulfilled by addition which adds onto the instances. This is like making a line move forward.
 
-Therefore the active mind, which thinks and feels, has 2 kinds of operations:
-- Combination
-  - This comes from the Positive Force
-- Separation
-  - This comes from the Negative Force
+2. Division is the 2nd Property of Waves
+
+The 2nd Property of Waves is frequency. A sound can be divided into smaller parts.  
+
+3. Subtraction as the 3rd Property of Waves 
+
+The 3rd Property of Waves is amplitude. A wave can have positive and negative values as it goes up and down.
+
+4. Multiplication as the 4th Property of Waves 
+
+The 4th Property of Waves is forward movement. Multiplication expands just as division contracts. 
+
+Addition and Subtraction can start from zero just as a wave can shave an origin or middle point.
+
+Division and Multiplication need a pre-existing instance, just as a frequency needs an existing wave, and expansion needs something to expand.  
+
+
+## David Hume's Relations 
+
+We then match these with Hume's 7 Relations to distill them into 4.
+
+<!-- 1. Resemblance 2
+2. Identity 1
+3. Space and Time 4
+4. Quantity and number 5. Quality 3 -->
+
+
+1. Identity 
+
+This is Property 1 of waves as commonality. This is the mechanism that quantizes or packages ideas into thoughts. 
+
+<!-- Adding or Combinative -->
+
+
+2. Resemblance
+
+ <!-- Subtracting or Separative -->
+
+This is Property 2 of waves as frequency or vibration. This is the affinity or discord between ideas to those in the personality.
+
+This decides whether the idea will be detected in the first place. This is why some people get good ideas but others do not.  
+
+
+3. Quantity and Quality
+
+This is Property 3 as strength. This manifests as the ego which has a configuration called a personality. This actually processes the thought. 
+
+
+4. Space and Time
+
+This is Property 4 as spread. This makes the mind connect to other ideas automatically. 
+
+
+{{< i s="/graphics/psych/think.jpg" a="Thinking" c="The different relative directions and energies of the Positive Force explain the differences in the actions of the mind" >}}
+
 
 <!-- Note that memory is a quality of the mind, and not an operation. Remembering is part of the operations of consciousness, just as perception is.  -->
-
-![Yin and Yang](/photos/meta/yinyang.jpg)
-
-
-<!-- ## The Operations of Thinking  -->
-<!-- the Intellect -->
 
 <!-- "Adding" or "combination" is the integration of one identity to another to create a new third identity. This is an effect of the Positive Force (Yang or Shiva)
 
@@ -70,14 +110,12 @@ For example, we:
 - put more rice grains in a bag to make it reach 1 kilogram for purchase
 - step in an empty bus so it can get passengers and start its journey
 
-
 "Subtracting" or "separation" is the removal of one part of an identity in order to create a new identity. This is an effect of the Negative Force (Yin or Shakti or Prakrti)
 
 For example, we:
 - subtract `3 - 1` to make `2`
 - remove things from our luggage so that it will meet the limit of 15 kilograms 
 - step out of an overloaded bus so that it can run safely
-
 
 Related operations of thinking spring from these 2 broad operations:
 

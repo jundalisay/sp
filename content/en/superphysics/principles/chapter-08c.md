@@ -29,17 +29,18 @@ Each Idea is Unique | Cause and Effect are in Relation to each other
 
 Chapter 6 explained that reality is made up of perception-relations between identities. 
 
-These then allow long chains of cause and effects, called by the Hindus as ''karma-samskara-karma'. 
+These then allow long chains of causes and effects, called by the Hindus as ''karma-samskara-karma'. 
 
-A long series of chains gains the dynamics of a wave. This wave we can split into 3 states:
+A long series of chains gains the dynamics of a wave. This wave we can split into 3 states, matching the 3 Gunas or Influences:
 
-1. Karma-Action State 1
-2. Samskara-Pending Pseudo-State
-3. Karma-Reaction State 2
+1. Karma-Action, as State 1
+2. Samskara-Pending, as Pseudo-State
+3. Karma-Reaction, as State 2
 
 We can extend this wave to have more states.
 
 {{< img src="/graphics/super/wave.jpg" alt="Wave" cap="A wave is made up of many different states which reveal a hidden focus or dharma which we call a 'gravitational signature' to make it sound scientific" >}}
+
 
 We can know why State 4 is the way it is if we look at all its states from 1 to 4. We can then use this knowledge to predict its future states. We can write this as:
 
@@ -66,7 +67,6 @@ This is a combination of the ideas from:
 - Poincare's Law of Relativity which is based on changing states of bodies in a system
 
 
-
 {{< q a="Rene Descartes" c="Principia Philosophia Part 4, Article 202" >}}
 I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
 {{< /q >}}
@@ -74,7 +74,7 @@ I deny the existence of gravity inside any body. Gravity is a quality that depen
 
 {{< i s="/graphics/physics/relationality.jpg" a="Relationality" >}}
 
-We call this Cartesian **relationality**, which depends on point of view:
+We call this Cartesian [relationality](/relationality), which depends on point of view:
 
 {{< q a="Rene Descartes" c="Principia Philosophia Part 3, Article 13" >}}
 Imagine a ship being carried out to sea. A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these. On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another. If the earth moves from west to east exactly as the ship moves from east to west, we again say that the person at the stern does not change his place. This is because his place will be determined by certain immovable points in the heavens. 

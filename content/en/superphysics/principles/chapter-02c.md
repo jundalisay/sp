@@ -42,3 +42,9 @@ Spiritual Superphysics | Spatial Stratum | This facilitates spiritual feelings
  <!-- dynamics of the Heart Chakra -->
 
 
+{{< q a="Rene Descartes" c="Principia Philosophia Part 4, Article 202" >}}
+I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
+{{< /q >}}
+
+
+{{< i s="/graphics/physics/relationality.jpg" a="Relationality" >}}
