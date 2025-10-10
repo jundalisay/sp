@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 8b"
+heading: "Chapter 8c"
 title: "Supermath and Qualimath: The Maths for Superphysics"
 # Math for Qualities and Ratios" more than Quantities and Equalities"
 date: 2020-12-27
-weight: 500
+weight: 490
 image: "/graphics/physics/math.jpg" 
 description: "Qualimath is Math for operating on Qualities instead of Quantities"
 icon: "Juan"

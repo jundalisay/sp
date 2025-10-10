@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8e"
+heading: "Chapter 8f"
 title: "Data Science as Socratic Dialectics"
 date: 2024-08-21
 image: /photos/tech/mac.jpg

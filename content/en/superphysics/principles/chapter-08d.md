@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8c"
+heading: "Chapter 8d"
 title: "Qualimath Decon Notation: Solving the Measurement Problem"
 # Math for Qualities and Ratios" more than Quantities and Equalities"
 date: 2020-12-27
