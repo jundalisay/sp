@@ -14,6 +14,13 @@ aliases:
 ---
 
 
+<!--  main job of the intellectual mind is to think about its ideas.
+- The act of thinking is the perception and connection of ideas  
+
+The main job of the emotional mind is to discern its feelings.
+- The act of feeling is the perception and immersion of feelings -->
+
+
 
 Chapter 1f explained that:
 - the universe has a wave-nature

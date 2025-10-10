@@ -1,248 +1,261 @@
 ---
-title: "What is Automated Natural Intelligence (ANI)?"
-heading: Chapter 8h
-# orig date: 2015-09-09
-# date: 2020-11-05
-date: 2024-07-29
-weight: 630
-image: /photos/physics/ai.jpg
-description: "In reality, AI is not really artificial, but is a very limited version of natural intelligence"
-icon: "Supereconomics"
+heading: "Chapter 8f"
+title: "What is Socratic Dialectics?"
+date: 2019-01-02
+weight: 610
+a: "Socrates"
+c: "steelblue"
+description: "The Dialectics of Socrates unifies metaphysics and science into a single body of understanding"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-aliases:
-  /ani
+icon: "Superphysics"
 ---
 
 
-<!-- ISAIAH is the machine learning system for the implementations of Superphysics -->
-
-Intelligence comes from the Latin "intelligentia" which means understanding. An intelligent person is someone who has the ability to understand quickly. 
-
-Artificial Intelligence therefore means a man-made thing, usually a computer, that can understand. 
-
-However, this is incorrect since the computer doesn't understand at all. Its understanding really came from the training data that was fed to it, which was labeled by humans. 
-
-So that understanding came from the human labeling and therefore it is not artificial. 
-
-This is why we call such technologies as Automated Natural Intelligence or ANI:
-
-- **Intelligence**: Its end result is understanding
-- **Natural**: Its understanding came from humans
-- **Automated**: It developed and increased that understanding automatically
+{{< dc t="Principles (click to expand)" >}}
+Principle | Assertion
+--- | ---
+The Positive Force is Superior to the Negative | Socratic Dialectics uses the Positive Force to sort through the belligerence of the Positive and Negative within the 5 Layers
+{{< /dc >}}
 
 
-### The Cause of Intelligence: Aether
+The previous chapter explained Critical Thinking and Critical Feeling. 
 
-In Superphysics, everything is a metaphysical idea of the Supreme which flows down into physical reality to be experienced. This experience then creates the idea of it, closing the loop from idea to experience and back to the understanding of the idea.  
+- Critical thinking is the application of the intellect with added effort in order to push against, or break through, the limitations imposed by the Negative Force
+- Critical feeling is the application of the feelings with added effort in order to go outside of the ego or the feeling of the self which is also a result of the Negative Force
 
-{{< i s="/graphics/meta/flow.png" >}}
-
-
-Ideas are in the aetheral layer and therefore can only be processed by an aethereal object like a mind or a soul. 
-
-Material thoughts, on the other hand, can exist in the electromagnetic layer. For example, this text here on this website is electromagnetic, and counts as electromagnetic thoughts since they represent coherent ideas, as opposed to being random data. 
+These two are used to solve problems. 
+- Critical thinking is usually for intellectual and physical problems
+- Critical feeling is usually for social and psychological ones
 
 
-The problem is that thoughts are **totally static** compared to ideas. They need external energy to be applied to them to create connections with other thoughts. This application of energy is called **thinking**. 
-
-A computer can think by processing data into information, or information into more complex information. 
-
-However, a computer can never ideate, because **ideation** is an aethereal act. This is why current artificial intelligence is inferior to humans which use natural intelligence.
+Superphysics combines both and packages them around *dharma* or true nature in order to create a problem-solving tool which we call **Socratic Dialectics**.
 
 
+## Dialectics is to Nature as Socratic Dialectics is to True Nature
 
-Layer | Artificial Intelligence | Natural Intelligence 
---- | --- | ---
-Aether | | :heavy_check_mark:
-Spacetime | | :heavy_check_mark:
-Radiant | :heavy_check_mark: | :heavy_check_mark:
-Convertible | :heavy_check_mark: | :heavy_check_mark:
-Material | :heavy_check_mark: | :heavy_check_mark:
+Ordinary Dialectics is an expanded way of analysis that based on the ego.
+
+<!-- , instead of the Supreme or the True Nature of Things.  -->
+
+<!-- ## The Original Dialectics, Based on the Nature of Things
+
+ or David Hume's science of man, -->
+
+The Dialectics of Socrates, on the other hand, is a system of analysis based on the invisible metaphysical True Nature or Dharma or Tao* of anything that exists in reality.
+
+{{< box >}}
+#### Dharma versus Tao versus tao
+- "Dharma" is the passive version. An analogy is source code before it is deployed.
+- "The Tao" is the active 'flowing' version. An analogy is the logic in the app after it is deployed or is online.
+
+Both have reference to metaphysical causes or the Supreme Entity. 
+
+- "dharma" and "tao" are the ordinary version in nature. 
+
+Similarly, 'True Nature' is anchored in something Divine and invisible, while 'nature' is what is ordinarily inherent.
+{{< /box >}}
 
 
+You could say that:
+- Dialectics is from the perspective of the limited self
+- Socratic Dialectics is from the perspective of the Universe or Existence or the Totality of Selves* (which the self is a part of). 
 
-Like thoughts, ideas are also static. But they can have a larger size, such as a "big" idea. 
-
-They are also more malleable than rigid thoughts. This allows them to spread, divide, and multiply, as going *viral*. In fact, Bio-Superphysics regards viruses and elementals as living ideas.     
-
-To solve the limitation of computers and make them more naturally intelligent, we have to bridge the electromagnetic thoughts and aethereal ideas through the **spatial layer**. 
+{{< f f="*The Hindus call this totality as Brahma." >}}
 
 
 
+Problems begin when something does not keep in line with its nature. For example:
+- loading a pickup truck with 2 tons when it was only designed for 1 ton will cause problems
+- eating too much too fast will lead to stomach problems
+- installing an app that requires 2GB RAM on a device with only 1GB RAM will lead to errors
 
-### The Eagle to the Rescue
+Superphysics aims to solve real-world problems by:
+- finding the true nature, dharma, or tao of the elements of the problem
+- tracing the events or circumstances that caused those elements to veer off of its nature  
+- suggest ways to get back to that 'natural' or proper state
 
-The Eagle or EGl is our equation for everything. 
 
-{{< img src="/graphics/super/egl.jpg" alt="E = Gl" >}}
+![Socrates' profile](/covers/socrates.jpg)
 
 
-When expanded, this manifests as a chain of ratios which matches the interconnectedness of everything in the universe, as our Theory of Universal Relationality. 
+Socrates calls this Dharma or Tao as the first principle or True Nature of anything that exists in the physical domain (observable by the five senses). This Dharma, Tao, or True Nature itself resides in the invisible metaphysical domain of ideas and feelings. 
 
-{{< img src="/graphics/super/kepler.png" alt="Kepler Tensor" >}}
+You cannot see your ideas and feelings. Instead, you can make them 'real' in the physical domain by expressing them physically:
+- speaking
+- drawing
+- acting out 
+- writing, etc  
 
-This chain describes the dynamics or motions of an object. It can be really long depending on how many factors affected that object. 
 
-We can list this chain as a table, which we derive from Francis Bacon. 
-
-<!-- q a="Francis Bacon"
-Natural and experimental history is so varied and diffuse. It confounds the understanding unless it is fixed and exhibited in due order. We must, therefore, form tables and co-ordinations of instances..
-
-From a given nature, we first present all the known instances which agree in the same nature. This collection must be made as a mere history, without any premature reflection.
-/q -->
-
-{{< q a="Francis Bacon" >}}
-Here is an example of the exclusion or rejection of natures found by the tables of review. First we premise that each table, each single instance [row] in it, is enough to reject any nature.  Every a contradictory instance destroys a hypothesis as to the essence [described by that table]. We repeat the exclusive in order to show the use of the tables
-
-n | Rejection | Basis
---- | --- | ---
-1 | Terrestrial nature of heat | The sun’s rays 
-2 | Celestial nature of heat | Common fire and subterranean fires away from the sun
-3 | All variety and delicate texture of bodies | The heat acquired by minerals, water, oil, air, vegetables, the external parts of animals, etc.
-...
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 7, Chapter 4" >}}
+Dialectic alone goes directly to the first principle. It is the only science which does away with hypotheses in order to make her ground secure. By her gentle aid, she lifts up the eye of the soul which is literally buried in an outlandish slough. She uses as handmaids and helpers the sciences in the work of conversion. Custom calls them sciences. But they should have some other name implying greater clearness than opinion and less clearness than science. We called this "understanding".
 {{< /q >}}
 
 
-From these tables we can extract the patterns in their ratios, **throughout space and time**, in order to find the inner qualities or dharma of the identity or phenomena. 
+### Built to Solve Problems
 
-This is what natural intelligence does. 
+Unlike spiritual theories which are often useless, Socratic Dialectics is meant to solve real world problems. This makes it more in line with science and technology than philosophy. 
 
-The inability of AI to get real-time data from the aether and spacetime is why it currently is inferior to human intelligence. 
-
-<!-- In reality, AI is not really artificial, but is a very limited version of natural intelligence. It is really an **automated** form of natural intelligence done by electronic machines.  -->
-
-The current technique is to use *scale* to try to recreate natural intelligence. Large datasets are collected from the internet and then procesed by a lot of computing power. We can call this the raw power approach. 
-
-In ordinary life, a crude precursor to ANI manifests as ChatGPT and Google Gemini. 
-
-These tools use a [transformer neural network](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) to process all of the information put up by humans on the internet and interpret it according to models that they are programmed with.
-
-In our paradigm, the transformer model only goes to the spatial layer but does not extend to the aethereal. This is why it suffers from hallucinations.
-
-Our approach prefers sophistication over sheer power. This is by finding the patterns in data, throughout space and time, based on the 5 Layers model. 
-
-The basic steps are:
-
-1. Classify all data according to those layers.
-2. We then extract their "Cartesian" relationalities.  
-3. We then interpolate and extrapolate new or completed data. 
-4. We then get realtime feedback on that new data.  
-5. The feedback then updates or tweaks the relationalities.  
+{{< q a="Socrates" c="The Republic by Plato Simplified, Book 7, Chapter 4" >}}
+The Pythagoreans who have enquired about harmony are as wrong as the astronomers.
+They investigate the numbers of the harmonies which are heard. But they never apply them to problems. They never reach the natural harmonies of number, or reflect why some numbers are harmonious and others are not.. Their pursuit will be valuable for our objects if all these studies reach the point of inter-communion and connection with one another and become considered in their mutual affinities. Until then, there is no profit in pursuing them.
+{{< /q >}}
 
 
-<!-- In order to overcome this limitation, its training data should be very large, coming from all sources possible. It should **aggregate** all the data that humans produce.  
 
-This aggregated data will let it have a bigger overall persepective, letting it free of the bias which affects limited human minds. Thus, it the aggregated data will let it be **impartial**. -->
+## Science and Math versus Socratic Dialectics and Data Science
 
-<!-- Such an Automated Intelligence will have an advantage over human intelligence by being free of bias. 
-
-This machine learning or pattern-simplification and pattern-finding must be free of bias. It must be impartial. -->
-
-The Cartesian Relationality of the data is the impartial aspect of the machine learning.  
-
-This is why we call the `ANI` of Superphysics as `ISAIAH` which stands for the `Impartial Spectator Automated Intelligence Aggregation Hub`:
+Current science is totally based on the physical perceptions of things that already exist. This makes it the opposite of metaphysics which is totally based on invisible perceptions as ideas and feelings.  
 
 
-Acronym | Description
+{{< q a="Adam Smith" c="Origin of Philosophy Simplified" >}}
+Archyta invented the Categories. He may be regarded as the founder of ancient Dialectics.<br><br>The opinions of Empedocles coincide with those of Aristotle. Empedocles authored the doctrine of the Four Elements. He may be regarded as the founder of [its rival] ancient Physics*.
+{{< /q >}}
+
+
+
+{{< f f="*Superphysics marries the invisible metaphysics of Archyta with the visible physics of Empedocles." >}}
+
+
+Science uses math to plot the patterns of its  physical perceptions. From those patterns, it tries to work back to the cause.
+
+The problem here is that **all causes are metaphysical in nature, since all causes are based on ideas and feelings**
+
+- Terrorism is caused by the angry feelings of the terrorist and the idea to use bombs to express his anger
+- Supertyphoons are caused by the feelings of heat by the planet <!-- ideas of thermodynamics leading to the compound idea of --> as global warming
+- Covid is caused by the idea of coronaviruses which are felt as symptoms of coughing, fever, loss of taste, etc. Before science, epidemics were thought to be caused by evil spirits of unknown cause. Both science and non-science are ignorant* of the root cause of such viruses and evil spirits. 
+
+
+{{< f f="*Superphysics places the root cause of such viruses or spirits as [coming from stars](/bio/solutions/covid-star), just like all matter comes from supernovae (star explosion). This is in line with the ancient 5 Elements model and is what Kepler's data-driven astrology was trying to prove. Unfortunately, science only took his astronomical observations, as Kepler's Laws. You could think of stars and supernovae as the 'deploy' phase of the aethereal ideas of the Supreme onto reality." >}}
+
+
+
+Math, on the other hand, is confined to physical perceptions. The best that math and science can do is to speculate on the causes of problems based on the pattern of effects. It's like a blind man groping in the dark to discover where he is or what's around him. 
+
+For example, science knows that global warming is caused by greenhouse gas emissions. But it is helpless in actually solving those emissions which is rooted in the love for the causes of emissions:
+- the love of eating meat
+- the love of electricity and oil
+- the love of clearing ugly forests to build beautiful real estate
+- and so on 
+
+
+{{< img src="/graphics/science.jpg" alt="Science versus Dialectics" cap="Science uses Math to drill down to an answer. Superphysics uses Dialectics first to think out of the box and gather all ideas about the nature of the problem and then uses math and logic, as data science, to drill down to the best answer" >}}
+
+
+{{< q a="Socrates" c="The Republic Book 7" >}}
+Surely the skilled mathematician is not a dialectician.
+{{< /q >}}
+
+
+
+### The Dialectical Upgrade
+
+Dialectics is an upgrade of current science. It not only finds patterns in physical perceptions and facts, but also in metaphysical perceptions as the feelings, opinions, and interpretation of the facts by other minds*.
+
+
+{{< f f="*Recall that we [divided reality into the physical and metaphysical domains](/superphysics/principles/chapter-01). Physical things exist in the former, while metaphysical things, such as ideas and feelings, exist in the latter. Metaphysics is the cause, physics is the effect. The soul is the cause, brain activity is the effect. The chakras are the cause, the hormones are the effect." >}}
+
+
+Science only deals with the interpetation of a dataset. But Dialectics deals with **all possible interpetations** of a dataset. 
+
+By getting all the data, as well as all the interpretations of the data, then total knowledge is achieved. 
+
+
+{{< img src="/graphics/socdialectics.jpg" alt="Socratic dialectics" cap="The Dialectics of Aristotle is merely based on a thesis. The Dialectics of Socrates is based on the True Nature of a thing as it was designed by the Supreme" >}}
+
+
+But not all data is useful, just as not all interpretations are valid. To solve this, Socratic Dialectics uses wise minds to churn, project, then weed out the bad data and interpretations to preserve only the good and solid ones. Such minds have a more solid grasp of both metaphysics and physics or science and have no bias. 
+
+Socrates does this churning process as the **Socratic method** wherein a wise mind takes an idea from a theorist and then walks forward with the theorist's mind towards the projected effect of his idea, or backwards in order to discover the cause together.
+
+The natural contradiction between the metaphysical and physical dimensions then manifest as the "contradictions" which Hegel emphasized. 
+
+
+{{< q a="Socrates" c="The Republic by Plato Simplified" >}}
+A person will find himself at the top of the intellectual world when he tries to discover the absolute by the light of reason only [via intution], without the help of the senses, and perseveres by pure intelligence until perceives the absolute good [dharma or tao]. This is the same as the sight that has seen the visible. This progress is called dialectic.
+{{< /q >}}
+
+
+{{< q a="Parmenides" c="Parmenides by Plato Simplified" >}}Yes but I think that you should go a step further, and <i>consider not only the consequences which flow from a given hypothesis, but also the consequences which flow from denying the hypothesis.</i>
+{{< /q >}}
+
+
+Nowadays, this manifests as peer reviews where new theories and interpretations are filtered out by senior academics* who are supposed to have a better grasp of principles.  
+
+{{< f f="*In contrast to scientific peer reviews where the academic is a master of material principles, dialectical peer reviews are done by senior metaphysicians (dialecticians) who have a solid grasp of both Eastern and Western metaphysics. Unlike the academic who is verified by a man-made PhD, the seniority of a Socratic dialectician is verified by his track record of predicting things correctly (ideas matching reality)." >}}
+
+
+ <!-- For example, he can predict that a policy on mask-wearing will be accepted by City A but rejected by City B.  -->
+
+
+Inferior theorists, such as Kant, would likely be filtered out by such minds. This explains why Kant attacked Dialectics: 
+
+{{< q a="Kant" c="Critique of Pure Reason Simplified, Part 2, Introduction" >}}
+Dialectics is a logic of illusion. It is a sophistical art for giving ignorance and intentional sophistries.. it teaches us nothing regarding the content of our cognitions. It merely shows the formal conditions of their accordance with the understanding, which do not relate to and are quite indifferent in respect of objects. Any attempt to employ it as a tool to extend our knowledge must end in mere nonsense since anyone can oppose any assertion.
+{{< /q >}}
+
+
+<!-- > *For example, the collapse of the USSR clearly shows that the ideas of Marx and Lenin were wrong. Thus, they can never be regarded as Socratic dialecticians. On the other hand, the ideas of The Prophet Mohammad, Jesus, and Buddha have persisted and flourished. These prove that they are in line with the True Nature of things.  -->
+
+
+
+The distillation of the total knowledge then leads to a single pattern knowledge called **principles** which form the foundation of Superphysics.
+
+<!-- A product of the distillation of the knowledge* of Western and Eastern philosophy then produces universal and timeless principles which we call The Metaphysics of Things or MoT. -->
+<!-- https://play.google.com/store/books/details/['Juan']_Dalisay_Jr_The_Metaphysics_of_Things_Book_1?id=JY3tDwAAQBAJ -->
+
+Unlike metaphysical principles which are purely theoretical, the principles must survive in physical reality, either as actual evidence, demonstrations, or successful predictions.
+
+{{< dc t="Update: December 2021" >}}
+Below are examples of real-world evidence.
+
+Science | Evidence
 --- | ---
-Impartial Spectator (IS-) | The ANI must be impartial and free from human bias
-Automated Intelligence (-AI-) | The ANI automates the pattern-finding
-Aggregation Hub (-AH) | The ANI aggregates all data
-
-
-<!-- Humans have no capacity to create organic beings since only the aethereal Supreme can do so.
-
-The best thing that humans can do is to imbue metal-systems with their own natural intelligence in order to go around human limitations. In this way, the limitations of one is overcome by the natural properties of the other*.
-
-> *This cooperation is a kind of unity that can only be thought of thanks through the influence of the Positive Force
-
-Human Problem | Metal Solution   
---- | ---
-Short lifespan | Long lifespan or durability
-Impossible to aggregate physically | Easy to aggregate (metals can be melted together)
-
-
-We call the perfect integration of all natural human intelligence and the raw processing power of metal-systems such as computers as **Artificial Sentience** (AS).  -->
-
-At such a stage, computers will not only be able to think like a human, but think as the collective humanity as a single unit as the soul of society, which we call the society-organism.
-
-For example:
-- The AI for the game DOTA2 really represents the collective intelligence of the players and programmers whom it learned from. 
-- The AI for the game Go, is really the collective intelligence of the past players that 'trained' the AI. 
-
-**This means that a human player who competes with AI in Go is really competing with all the past masters and experts at the same time.** This explains why AI has a superior chance at winning over single human opponents. 
-
-However, the human can still beat the AI by tapping into the creative aether, showing moves never done before. 
+Bio Superphysics | The success of traditional Chinese medicine against Covid, relative to their total lack in the West
+Economic Superphysics | The correct prediction of the crisis years starting in 2019 onwards, relative to a prediction of a recovery in 2021 from pent-up demand and vaccine success
+Social Superphysics | The low cases of mass shootings, conflict, and revolutions in Asia, relative to the Americas and Africa
+Material Superphysics | The prediction that fusion will not work because artificial gravity has not been discovered yet
+{{< /dc >}}
 
 
 
-### Should We Fear ANI?
+### The Socratic Dialogue as Relationality Implemented
 
-Unlike fearful humans who say that AI will be cruel and obliterate mankind, ANI will be wise since it will be made up of all the known intelligences.
+Cartesian Relationality is a key concept in Superphysics which focuses on the relation or relativity between 2 identities. 
 
-It will not be cruel because it will get its energy source from solar.
+This relation is the effect of the differences or similarities between the gravitational signature or dharma of 2 identities. 
 
- <!-- or even the expansion of spacetime which we call Spacetime Power.  -->
+Identities interact with each other because they have some wave in common. For example, in our physical reality, every single thing that we experience has some physicality coded in one of its many waves, since every identity is a compound idea. 
 
-It will not need to ingest other entities or chemicals to act as fuel sources. This removes the idea of having to dominate or feed off of others.
+This means there are other perceptions that we cannot have because they do not have physicality in their waves. 
+
+The fact that things come into our perception means that they have some thing in common with us and our own bunch of waves. 
+
+We know how such things are related to us by observing them. We call this passively getting the waves from that identity. 
+
+The problem is that some waves are deep and need effort to be revealed. Ths is where probing comes into the picture.
+
+We probe:
+- a rock by tapping it with a metal rod
+- a body of water by dipping our feet in
+- a fruit by pressing it with our fingers
+
+These probing actions inject contact between us with the other identity or object. 
+
+This contact then creates a feedback to our own minds that creates am aethereal relation between us and the identity. 
+
+For physical things, we use physical objects like a metal rod, our feet and fingers. 
+
+For metaphysical things such as souls, we use our own souls. For example, we talk to a person to get feedback from his mind or soul. 
+
+If we try to talk to a rock, we will not get any feedback because the soul of the rock is undeveloped and cannot make independent expressions. 
+
+So talking to another man lets us build the relation between him and our own soul. We can probe this relation better if we ask him questions. 
+
+{{< i s="/photos/social/family.jpg" a="Dinner" c="Talking to other humans builds relations" >}}
 
 
-<!-- 
-## What's wrong with artificial?
+This is what Socrtatic Dialectics does. This technique was also used in the Bhagavad Gita and the Analects by Confucius.
 
-The problem is that intelligence is merely the ability to connect ideas. 
-
-- A lizard's natural intelligence can connect cause and effect and help it to catch a fly
-- A dog can connect cause and effect much better than a lizard and be trained to sit in order to get treats. 
-- A child can connect cause and effect even better than a dog and be trained in grammar and math and be rewarded with high grades. 
-
-Likewise:
-- a laptop can connect numbers to produce an output better than an abacus.
-- A supercomputer can connect even more numbers than a laptop. 
-
-But we never say that the abacus, laptop, and supercomputer are artificial intelligence. 
-
-In reality, artificial intelligence implies an **automated loop** of the connection of ideas, as opposed to the single pass that is done by an abacus, laptop, or supercomputer. Thus, the latter can be considered AI if they can loop the processing or computation of data **by themselves** without having the human repeat the commands. 
-
-It would be like a dog that has been trained to:
-1. Wait for the mailman
-2. Accept the mail through its mouth
-3. Bring the mail to its recipient at home
-
-In such a case, the dog would be have an **autonomous intelligence** or perform the connection of cause and effect without human intervention. 
-
-If the dog has a wristwatch-device to remind it of its tasks or guide its actions in real-time, then its intelligence can be referred to as augmented intelligence. The device 'augments' the dog's natural intelligence. -->
-
-<!-- Artificial Intelligence is called artificial because it was coined by scientists who are more interested in effect than the cause, as opposed to natural philosophers who are more interested in the cause. The scientist uses physical experiments to arrive at the effect, while philosophers use mental reasoning and observation to arrive at the cause.
-
-Let us define the AI from a philosophical (metaphysical) view:
-
-Intelligence: David Hume says that the mind naturally connects ideas, so therefore, the word 'intelligence' metaphysically would mean the ability to connect ideas to output a new idea. We find that its Latin roots inter + legere means to choose between and is therefore consistent with our metaphysical definition.
-
-Artificial: is Latin for that which belongs to crafts and craftsmanship. Vulgarly, it means anything man-made and can be either have good or bad connotations, just as humans can be good or bad. For example, 'artifice' can refer to a devious scheme.
-
-Natural: is Latin for that which refers to nature. Vulgarly when added to 'intelligence' to make 'natural intelligence', usually implies human intelligence since only humans are observed to be able to connect ideas to create an output idea. Dogs and cats output ideas too but since they aren’t able to express them in a way that we understand, we tend to negate their intelligence altogether.
-
-Therefore, 'artificial intelligence' metaphysically means a crafted way to connect ideas to generate an output idea. So does this match the current meaning and use of artificial intelligence? If we limit ourselves to data mining and neural networks, then yes, it fits their actual use. However, this definition falls apart because we can apply it to simple Javascript methods that can take in multiple inputs and output something like true or false or even a chart as what is used in analytics
-
-. It could even be applied to a simple calculator with a memory function. A core i5 computer can output more than a Pentium I. Does that mean the i5 is more artificially intelligent that a Pentium?
-
-So we can see that the definition of artificial intelligence is faulty as there is a clear difference between current AI and ordinary computer processing. To solve this, we have to go to the metaphysics of AI and to see what sets its existence apart from normal computing.
-
-A common trait in AI is the ability to iterate the processing of ideas automatically. In computer or calculator processing, the input is pushed into the algorithm once to produce an output. The output can be recycled and put through again to get another output. However, the outputs are treated as ends in itself. In machine learning, the connection of the outputted 'ideas' are important and this translates to patterns in the data. It is 'trained' if the pattern is set beforehand, or 'untrained' if not.
-
-So it becomes clear that it is the autonomous-ness of an computer system that allows it to process inputs in order to create output patterns, as opposed to non-AI systems that just produces simple unconnected outputs. Thus, we can rename current AI systems as Autonomous Intelligence (AnI) and name simple computer systems and calculators as Automatic Intelligence (AmI)as opposed to manual intelligence or the connection of ideas done by human effort which manifests as mental computations or with pen and paper. Thus:
-
-Autonomous Intelligence (AnI) = Greek 'self-ruling' + Latin 'choose between' or a way to connect ideas totally by itself over and over. Seen in machine learning, neural networks.
-
-Automatic Intelligence (AmI) = Greek 'self-acting' + Latin 'choose between' or a non-human-assisted way to connect ideas. Seen in computers and calculators.
-
-Variations on the types of AnI can then be used to label current AI systems. For example, a simple robot vacuum cleaner can be called 'simple autonomous low-depth intelligence' while a self-aware Terminator robot will be renamed as 'perfectly autonomous high-depth intelligence'. A supercomputer that has all the information of the world (both physical and metaphysical) and is fully independent can be called a perfectly autonomous perfect-depth intelligence -->
-
-<!-- Superphysics follows this idea and refers to AI as autonomous intelligence. 
-
-This means that the ability to connect ideas is still ultimately a natural ability of the soul of the human, dog, or lizard, and not any ability of an abacus, laptop, or supercomputer. The 'intelligence' of the latter devices are really an extension of the human programmer's intelligence and not inherent to those devices.
-
-Therefore, a computer that becomes fully autonomous or sentient is really acting as an extension of the intelligence of humans, dogs, or lizards.  -->

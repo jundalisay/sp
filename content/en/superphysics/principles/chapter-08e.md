@@ -1,64 +1,90 @@
 ---
-heading: "Chapter 8e"
-title: "Data Science as Socratic Dialectics"
-date: 2024-08-21
-image: /photos/tech/mac.jpg
-# date: 2020-12-10
-a: Socrates
-weight: 510
-description: "Socratic Dialectics relies on all six senses and requires the ego to be lowered"
+heading: "Chapter 8d"
+title: "The Eagle"
+date: 2020-12-27
+weight: 506
+image: "/graphics/movement.png"
+description: "Decon Notation helps make ratios understandable"
+icon: "Superphysics"
+draft: true
+aliases:
+  /eagle
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
 ---
 
 
+causes a thing to "gravitate" towards to, or away from, another thing. 
+
+This means that everything in existence has a `G`, whether it be a rock, a car, a virus, an opinion, a soul, a belief, a civilization, etc.  
+
+This `G` dictates its relational (relative):
+- movement, as kinetic energy, and
+- pre-movement, as potential energy
 
 
-Socratic Dialectics relies on all six senses and requires the ego to be lowered. This is why Socrates called it more laborious than the sciences causing it to be rarely developed. 
-
-For example, an alternative cancer cure that works for Mr. X might not work for Mr. Y. This would make it unacceptable to 'scientific' modern medicine which throws away such useful cures. 
-
-Superphysics solves this by finding out the pattern of differences between Mr. X and Y so that that the cure can work for all Mr. X-types. It then finds the cures that fit Y-types, Z-types, etc. 
-
-This method is unthinkable in science because the ego wants to think of itself as unique and does not want itself to be classified or branded.
-
-A common example of classification is how the Japanese believe that human behavior can be categorized according to four blood types, which was pseudo-science [until Covid came](https://www.tmc.edu/news/2020/06/blood-type-may-affect-covid-19-outcomes-study-shows/). 
+- We call the kinetic energy as `F` or force 
+<!-- or `O` effort -->
+- We call the potential energy as `E` or inherent energy
 
 
-<!-- The goal is to solve problems by going outside of the box imposed by science. Superphysics adds that quality control to determine which is good pseudo-science and which is quack pseudo-science or those with zero or random replicability, in order to fill in the gaps in human knowledge and finally solve those unsolved by science. 
- -->
+We notate this as E = G<sub>*`l`*</sub>. In Qualimath, this is E :: G<sub>*`l`*</sub>
 
 
-### Data Science as the Main Tool of Superphysics
-
-Data Science* is really good at classification and in finding patterns and so it will be the primary tool of the Superphysicist, Superphysician, and Supersociologist who are upgraded from ordinary physicists, physicians, and sociologists. 
-
-The discovery of patterns in scientific data makes Superphysics the bridge or missing link between physics and metaphysics, or science and philosophy.
+{{< img src="/graphics/super/egl.jpg" alt="E = Gl" >}}
 
 
-{{< q a="Francis Bacon" c="Nova Organum Simplified, Book 1, Chapter 5" >}}
-Are we perfecting natural philosophy alone according to our method? Or the other sciences also, such as logic, ethics, politics?
+- `E` is inherent energy and represents potentiality
+- `G` is the gravitational signature or dharma of the thing. This represents the Positivity or Shiva or Yang
+- <sub>*`l`*</sub> is the physical layer where the thing exists in. This represents the confinement by Negativity, or Shakti or Yin, on Shiva or Yang
 
-**We certainly intend to comprehend them all.**
-{{< /q >}}
+We can call this equation as "eagle" as it is written with the letters `E G` <sub>*`l`*</sub>. 
+
+It predicts the movement of anything by knowing its `G` or [dharma or true nature](/social/economics/invisible-hand) relative to other `G`'s within the same layer and/or the immediate layer above it.
 
 
-{{< q a="David Hume" c="Treatise of Human Nature Simplified, Advertisement" >}}
-All the sciences have a relation to human nature. No matter how far any science runs away from human nature, it still returns by one way or another. In pretending to explain the principles of human nature, we in effect propose a complete system of the sciences. This system is built on an almost entirely new foundation. This foundation is the only one on which the sciences can be secured. The science of man is the only solid foundation for the other sciences.
-{{< /q >}}
 
 {{< box >}}
-### Data Science is More of an Art than a Science
+#### The Eagle Standard
 
-Data Science cooks up useful predictions and interpretations of raw data using statistical techniques and activation functions, just as a chef cooks up dishes from raw ingredients using steaming, frying, marinating, etc.
+<!-- img src="/photos/objects/aquila.jpg" alt="Aquila on a staff" -->
 
-This is because data are really products of human perception, while math is the system of processes that human minds are capable of. 
 
-Animals can also perceive data but their math is very limited. For example, penguins can add rocks to each other but not divide them. 
+The idea for the eagle came from the eagle standard of the Roman legions.
 
-Humans that require mathematical proof are therefore really asking to have the mental processes of a learned person transplanted into their own minds. The problem is that the higher (aethereal) principles are very complex and ever-changing and so it would useless to put them in a fixed equation or mathematical proof. 
+Historians wrote how the legions would rally around their eagle symbol and protect it with all their might. Our eagle equation is centered on G which represents Socrates' true nature or dharma, which is a central belief in Buddhism, Hinduism, and Taoism.
 
-Instead, our solution is to code them into the AI directly and let the AI show the calculated proofs dynamically.
+Buddhists are urged to keep the wheel of dharma turning at all costs, just as Socrates' guardians are supposed to keep up their mastery of true philosophy. This is because if dharma or true philosophy stops, then society would likely degrade into selfish animal behavior and the love for matter (materialism) filled with vices, gambling, destruction, wars*, crises, etc. instead of love for the Aether (the material of mind of God)
+
+Update Jan 2024: The increase in wars in Ukraine, Israel, Middle East, and the threats from China and North Korea are proof that dharma has lost its momentum. 
+
+
+This is why Superphysics is totally against Albert Einstein who not only reduced the aether to nothing, but also pushed for nuclear weapons which could lead to nuclear war. We place his intellectual 'evil'* on the same rank as the political evil of the other German, named Adolf Hilter. 
+
+
+{{< f f="*Our definition of evil is based on the strength of the ego" >}}
+
+
+
+Rallying around the dharma and making an effort to keep it up would be similar to how the legions worked hard to secure their eagle from their barbarian enemies.
+- In machines, this would be preventive maintenance. 
+- In healthcare, it would be maintaining a healthy lifestyle, as 'prevention is better than cure'.
+
+Dharma then leads to related concepts like sustainability, harmony, long happy lives, and making the idea of wars and crisis obsolete.
 {{< /box >}}
+
+
+
+
+How to probe G
+
+The job of knowing or discovering this `G` and predicting its movement-results is done by specific sciences:
+
+
+
+{{< img src="/graphics/physics/layers.png" alt="The five layers" >}}
+
+
+
+<!-- > *The worst thing that can happen by denouncing Einstein and Samuelson by advancing alternative theories is to bashed as either as an idiot or as an arrogant know-it-all by dogmatic physicists and economists. But to advance alternative theories for medicine is to be fined, sued for endangering public health, and even to go to jail! -->

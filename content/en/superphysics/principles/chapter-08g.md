@@ -1,230 +1,179 @@
 ---
-heading: Chapter 8g
-title: "The Corruption of Dialectics"
-date: 2015-08-17
-image: "/photos/psych/fail.jpg"
-description: "The German Corruption of Dialectics came from their tendency to over intellectualize everything"
+heading: Chapter 9g
+title: "The Meaning of Red Herring, Ad Hominem, etc"
+date: 2020-09-29
+image: /graphics/logic/truth.jpg
+description: "We explain the meaning of common fallacies by removing the jargon"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 620
+weight: 670
 icon: "Juan"
+aliases:
+  /superphysics/fallacies/red-herring
 ---
 
 
-Chapter 11 explained that mathematics is based on notating effects quantitatively. And so it is totally impotent in finding true causes of phenomena. 
+
+People sometimes use strange jargon like “red herring” or ‘Occam’s razor” when they try to disprove arguments that they don’t like. Such words then force the other side to do research on what those jargon mean. This can potentially waste a lot of time since there are a lot of fallacies. 
+
+These fallacies were merely created by academics for the sake of creating something, just as mathematicians create paradoxes, and theoretical physicists create useless theories because thinking is part of their job.
+
+Socrates was aware of such useless thinking and so he classified the output of all logic into either truth, falsehood, or sophistry. I combined this with David Hume’s definitions to visualize them.
 
 
-### The German Corruption of Dialectics
+## Truth vs Fallacy
 
-The Germans were good at math and so they corrupted dialectics into a system that deals with effects instead of the cause. For example, Hegel* focused on the fight between negative and positive in dialectics:
+{{< img src="/graphics/logic/truth.jpg" alt="Fallacy diagram" cap="A fallacy is something that cannot be perceived by anyone in either the physical or metaphysical domains" >}}
 
-{{< q a="Hegel" c="Science of Logic, Introduction" >}}
-[The Platonic Dialectic in Parmenides] is based in mere conceit as a subjective itch for unsettling what is fixed.
+<!-- ![](https://sorasystem.sirv.com/graphics/f-truth.jpg) -->
+
+<!-- https://sorasystem.sirv.com/graphics/f-actualmisdirection.jpg
+https://sorasystem.sirv.com/graphics/f-attack.jpg
+https://sorasystem.sirv.com/graphics/f-circ.jpg
+https://sorasystem.sirv.com/graphics/f-circr.jpg
+https://sorasystem.sirv.com/graphics/f-cut.jpg -->
+
+A truth is a direct relation and equivalence of a metaphysical idea to a physical reality or manifestation. 
+
+A fallacy is a non-equivalence. “Unicorns exist” is true if they are perceivable by all and false if not perceivable.
+
+A truthful logic leads to an idea that everyone can perceive or exist in reality. 
+
+A false logic directly leads to an idea that does not exist or cannot persist (just as some subatomic particles exist only for a few nanoseconds). These are called “formal fallacies”
+
+{{< img src="/graphics/logic/sophistry.jpg" alt="Sophistry diagram" cap="A sophistry is a logic that is true only to some people from a limited perspective. It is not true universally or all the time even if it is believed to be universal and constant" >}}
+
+
+A sophistry is a train of ideas that leads to a fallacy. An example is: “The economy will grow fastest if capital gains taxes are abolished.” Sophistries are now called “informal fallacies”
+
+Fallacies are easy to detect because there is no long train of ideas to confuse the mind. But sophistries are harder because of the long logic. In order to simplify them, common English words can be used instead of jargon below.
+
+<!-- > Solution: Give a real-world example that refutes the fallacy -->
+
+
+### “Misdirection” instead of “Red Herring”
+
+![Red-herring diagram](/graphics/logic/misdirection.jpg)
+
+A misdirection uses the natural relation of two related ideas to misdirect the logic onto a fallacy. An example is: “Children are our future, so we must raise taxes for a better future.”
+
+> Solution: Crush the misdirecwtion
+
+
+### “Specific Misdirection” instead of “Straw Man”
+
+{{< img src="/graphics/logic/sophistry.jpg" alt="Specific Misdirection" >}}
+
+<!-- ![Straw man diagram](/graphics/lgoichttps://sorasystem.sirv.com/graphics/f-actualmisdirection.jpg) -->
+
+A specific misdirection is a misdirection that resolves into a specific idea. Examples are: 
+- Children are our future, so we must raise taxes to fund all children’s programs.
+
+> Solution: Same as above
+
+
+### “Fake Dilemma” instead of “False Dichotomy"
+
+{{< img src="/graphics/logic/dilemma.jpg" alt="Fake dilemma”" >}}
+
+A fake dilemma forks away from the truth. Examples are: 
+- "Children are our future. Either we give them everything they need or give them nothing at all." 
+- "You can either get married or be alone for the rest of your life"
+
+<!-- tu quoque --> 
+
+> Solution: Mention a third option
+
+
+### “Personal Attack” instead of “Ad hominem”
+
+{{< img src="/graphics/logic/attack.jpg" alt="Personal Attack" >}}
+
+A personal attack goes outside of the ideas in the logic and goes to the other party instead, as an idea in itself. An example is: 
+- “You’ve never had children so your advocacy against children’s programs is wrong.”
+
+> Solution: Re-divert back to the topic
+
+
+### “Circular Answer” instead of “Begging the Question”
+
+{{< img src="/graphics/logic/circle.jpg" alt="Circular Answer" >}}
+
+A circular answer answers itself. An example is: 
+- “Children are the future because children are the future.” 
+
+The real answer is arbitrary depending on the person’s mind.
+
+> Solution: Ask why he feels that way
+
+
+### Circular Reasoning
+
+{{< img src="/graphics/logic/circular.jpg" alt="Circular Reasoning" >}}
+
+A circular reasoning is a circular answer that goes through other ideas before coming back to itself. This is similar to how a specific misdirection is a long version of a misdirection. 
+
+An example is:
+- “Children are the future because we ourselves were children in the past”
+
+> Solution: Same as circular answer
+
+
+### “Cutting to the Chase” instead of “Occam’s Razor”
+
+{{< img src="/graphics/logic/cut.jpg" alt="Cutting to the Chase" >}}
+
+Cutting to the chase goes direct to the cause and effect by disregarding superfluous ideas. All reasoning is based on feelings and so cutting to the chase goes to the more direct relation of cause and effect by taking into account the feeling of the other person.
+
+> Solution: Simplify his reasoning
+
+
+### “Doesn't Follow" instead of “Non-sequitir”
+
+{{< img src="/graphics/logic/follow.png" alt="“Doesn't Follow" >}}
+
+Something is unconnected to an idea if it doesn't naturally follow it. Unlike misdirection, the premise was not built up. Instead an idea is connected immediately to another idea.
+
+An example is:
+- "The influx of Mexican immmigrants influenced the mask mandates of the federal government.“ 
+
+> Solution: Give real-world examples
+
+
+## An Easy Way to Prevent Errors 
+
+An easy way to prevent errors is to withhold judgement or conclusions until all the relevent information is obtained. This is explained best by Descartes.
+
+{{< q a="Rene Descartes" >}}
+Whenever I do not perceive the truth clearly, I simply suspend judgment in order to avoid error.
 {{< /q >}}
 
-<!-- Fichte was the one to first use thesis-antithesis-synthesis, then  -->
-
-Chalybaus then misinterpreted this fight in Hegel's dialectic and used it to emphasize thesis-antithesis-synthesis in historical events.
-
-<!-- churning of data which he represented with historical events. -->
-<!-- Instead of focusing on the metaphysical aspects of dialectics, .  -->
-
-<!-- > *We merely criticize what Hegel emphasized, but are not against his system.  -->
+For example, if your spouse or partner does not reply to your messages or answer your calls, do not let your mind jump to a false conclusion that he or she is cheating on you. Instead, calm your feelings down and get more information. 
 
 
+## How to Counter Sophistry
 
-<!-- Fichte was the one to first use thesis-antithesis-synthesis, then Chalybaus misinterpreted Hegel's dialectic and used Fichte's terms in that misinterpretation. -->
+All of these then imply that all sophistries and fallacies are caused by humans having different or uncontrolled feelings.
+- “He advocates children’s programs because he loves children.”
+- “Einstein created hidden variables theory because he felt that God shouldn’t play dice with the world.”
 
+Since all sophistries arise from the natural variation in feelings among all humans, does this mean that more and more arguments, and subsequently more and more chaos will arise as time passes? If people feel the desire for chaos, then it will. An example of growing chaos is the Seven Years’ War leading to the Napoleonic wars, which led to World War I and then World War II, each with more deaths than the war that came before.
 
-Engels and Marx then fully corrupted this churning of thesis-antithesis-synthesis by saying that it was caused by physical conditions, under materialism. A better churn would result if the material conditions were mastered. 
+But if people feel the need for peace and order, then they can create a solution to sophistry, perpetual arguments, and chaos. Socrates' solution is called dialectics — a system of logic that has a goal that everyone agrees to. With dialectics, the parties don’t push their own egos and argue endlessly. 
 
-The dialectical materialism of Marx resulted in evil, suffering, and death, which are the opposite of what the dialectics of Plato and Socrates aimed for.
+In the non-dialectic system of debate, people just push their own egos without coming to any synthesis of ideas. But with dialectics, they agree to surrender their egos from the very beginning in order to eventually synhesize their minds and come up with a real solution.
 
-Since then, the metaphysical and dharmic nature of Socratic dialetics have been forgotten. Dialectics nowadays refers to the German dialectics that lack the concept of True Nature or Dharma.
-<!-- do not have any metaphysics nor even any mysticism*. -->
-
-
-<!-- > *The Republic clearly talks about reincarnation and chakras in [the Story of Er](/research/socrates/simple-republic/book-10/chapter-3). This adds to our dialectical dataset which also includes those from Hinduism and Buddhism. These then lead to principles in Bio Superphysics that mirror Ayurveda, Chinese Medicine, and Homeopathy -->
-
-{{< img alt="Kant and Marx" src="https://sorasystem.sirv.com/graphics/kantmarxcrop.jpg" >}}
-
-<!-- 
- totally different from the corrupted German dialectics espoused by Hegel, Engels, and Marx. Socrates' dialectics is purely metaphysical and so the German "dialect materialism" is an inherent contradiction similar to "good evil". 
- -->
-
-Materialism, from both the German and British philosophers of the 19th century, extinguished the Enlightenment and led to World Wars, Communist Revolution, and the spread of Panics and Crashes. 
-<!-- profit maximization from Modern Economics which caused the 1929 crash and many financial crises. -->
-
-These problems exist until today as terrorism, inequality, and global warming disasters. This is because the same materialistic root was never removed. 
-
-Materialistic science will not be able to solve the problems created by materialism. Only Socratic dialetics, with its metaphysical base, can go out of the box and see the problem with new eyes. 
-
-
-## The Re-Enlightenment
-
-If the scientific revolution upgraded the natural philosopher into a scientist, then the dialectical revolution will upgrade the scientist into a superscientist (or dialectical scientist), with the upgrade representing a 'level-up' in human understanding. 
-
-This upgrade manifests as the huge amounts of data and information absorbed and processed by the dialectician from all sources anywhere in the world in all of human history which the scientist neglects or refuses. For example, scientists refuse to regard myths and metaphysical works as information. They immediately refuse ideas from Ayurveda, Feng Shui, Reiki, souls, aliens, other dimensions, etc.
-
-True dialectics is unbiased and so it can take this mass of ideas to be churned in order to extract common patterns that can lead to more solid principles.
-
-For example, it takes the observations on the levitation of Buddhist monks and the zipping of UFOs to add new possibilities of movement and propulsion to benefit space travel. These observations are then put into the black box of dialectical principles in order to create new ones. 
-
-For example, we run [Einstein's General Relativity](/material/fallacies/general-relativity/) through Socrates' principles or black box to reveal its fatal flaws.
-
-We run it again through Descartes' principles to fix it and come up with The Elastic Theory of Gravity that matches Quantum Mechanics.
-
-This Socratic dialectical system of collecting all possible data and then churning them with principles in order to come up with solutions is the main process for **Superphysics**, with the core mechanism being the dharma or true nature of things, removed from the illusion.
-
-- The trigger for the original dialectics of Socrates was the prevalence of writing and literature among the Greeks. 
-- The trigger for Superphysics is the internet and all the content loaded in it. 
-
-Science cannot solve things conclusively because it is based on effect, relying solely on material perceptions. 
-
-<!-- relies on evidence, which is the effect. This is why it always lags and is behind the curve.  -->
-
-Superphysics, on the other hand, is based on cause, as the principles of how Nature works. It then tests these principles through material perceptions. 
-
- <!-- which is the cause, and can go ahead of the curve via predictions. A scientist only knows science, but a dialectician must know not only science AND metaphysics, but also the science and metaphysics of the West AND the East.  -->
-
-
-In the evolution of human understanding, Superphysics is the next and last stage after science. 
-
-Author | Natural Principles | Method | System | Technological Trigger
---- | --- | --- | --- | --- 
-Socrates | True nature | Dialectics | Science of Harmonics | Writing & Literacy
-Hume | Treatise of Human Nature | Critical Thinking | Science of Man | Printing Press
-Our version | 6-Sense Metaphysics  | Data science + Dialectics | Superphysics | Internet
-Future version | 6-Sense Universal Metaphysics | Universal Dialectics | Universal Superphysics | Intergalactic Communication
+{{< img src="/graphics/logic/dialectics.jpg" alt="Debate vs Dialectics" cap="Diffcult disagreements (caused by conflicting aethereal ideas) can be easily resolved by tapping into the spacetime layer (giving it time)" >}}
 
 
 
-### How We Apply Socratic Dialectics
+So if you’re arguing with someone endlessly without any compromise, it simply means that his ego only feels for himself and his own ideas and has no desire to reduce itself. Normally, this is solved by disconnecting from that person in order to avoid his toxic ego. 
 
-We use the Socratic dialectical approach and the scientific approach to solve Covid symptoms:
+But if that person is your boss or the president of your country, then without any system of dialectics, the only choices are to stay and accept the problem or leave to find a new boss or country. Therefore, it would make sense for stability-loving people to advocate dialectics as early as possible. 
 
-| Scientific Approach | Dialectical Approach |
-| --- | --- |
-| 1. Note down the symptoms | 1. Note down the symptoms |
-| 2. Test the drugs or treatments suggested by Western Medicine | 2. Test the drugs or treatmens suggested by Western Medicine |
-|  | 3. Test the drugs or treatments suggested by Naturopathy |
-|  | 4. Test the drugs or treatments suggested by Ayurveda |
-|  | 5. Test the drugs or treatments suggested by Traditional Chinese Medicine |
-|  | 6. Test the drugs or treatments suggested by Homeopathy |
-|  | 7. Know the principles of each medical paradigm and find patterns to find out which paradigm deals best with Covid 19  |
+Socrates suggests it be taught to people 30 years old and above:
 
-
-{{< q a="Socrates" c="The Republic Simplified, Book 7, Chapter 4" >}}
-The science of harmony, is a laborious study and this is why we should learn it. It will tell us whether there are any other applications of these sciences. At the same time, we must not lose sight of our own higher object.
+{{< q a="Socrates" c="Republic Book 7" >}}
+Therefore, that your feelings may not be moved to pity about our citizens who are now thirty years of age, every care must be taken in introducing them to dialectic. 
 {{< /q >}}
-
-
-Notice how the Socratic dialectical approach is more laborious and lengthy than the scientific approach. This is evident in Socratic dialogues which are made very long by the dialectician expounding on every minor topic in order to reveal its true nature, which will in turn reveal the true nature of the bigger picture.
-
-
-This laborious method produces a huge dataset that is similar to the "table of existence and presence" described by Francis Bacon:
-
-{{< q a="Francis Bacon" >}}
-The investigation of forms proceeds thus from a given nature, we first present to the understanding all the known instances which agree in the same nature, even if the subject matter is considerably diversified. This collection must be made as a mere history, without any premature reflection.
-{{< /q >}}
-
-
-{{< q a="Francis Bacon" >}}
-For instance, take the investigation of the form of heat. Instances agreeing in the Form of Heat:
-1. The rays of the sun, particularly in summer, and at noon.
-2. The same reflected and condensed, as between mountains, or along walls, and particularly in burning mirrors.
-3. Ignited meteors.
-4. Burning lightning.
-5. Eruptions of flames from the cavities of mountains, etc.
-6. Flame of every kind.
-
-...
-
-28. Other instances.
-
-This is a **table of existence and presence**
-{{< /q >}}
-
-To make dialectics less laborious, we apply machine learning algorithms in order to extract new ideas which will then lead into a new table with the 'noise' removed. That new table will then lead to better ideas which will form a better table. That table is ran through the algorithm again until the effect matches the principles. 
-
-This collection of tables, when constantly compared with new perceptions, will lead to a dynamic thinking process which we call **Artificial Sentience**. This is different from Aritifical Intelligence which is limited to a closed set of data. 
-
-To explain artificial sentience, we must first explain how dialectical truths are different from scientific truths. This will be done in the next subchapter. 
-
- <!-- artificial intelligence first. This will be done in the next chapter. -->
-
-
-
-
-<!-- Adam Smith and David Hume are considered as 'enlightened' writers from a period called the Scottish Enlightenment. Latter writers are not enlightened Samuelson
-
-Hume countered Locke and Spinoza, while Smith countered Mun and Mandeville. However, it seemed no one was able to carry on the Enlightenment to counter the erroneous beliefs popping up during the 19th century, such as
-
-For example, instead of countering Say's utility, Mill supports it and uses it as a basis for his utilitarianism philosophy which then becomes a fundamental idea in modern economics.
- -->
-
-<!-- The word 'science' replaced natural philosophy in the mid 19th century with . Smith has already asserted, after studying the history of the systems of learning, that all learning can be grouped into three, Natural Philosophy, Moral Philosophy, and Logic.
-
-The ancient Greek philosophy was divided into three great branches:
-
-Physics or natural philosophy
-Ethics or moral philosophy
-Logic
-
-“This general division seems perfectly agreeable to the nature of things.”
-
-Is this still correct today? Can we reign in and simplify today's complicated and ultra-specialized systems of learning to match Smith's organization? Firstly, we answer this by using Hume's method of breaking compound ideas down to basic ones, we get the basic ideas from each branch:
-
-Physics or natural philosophy (The external objective world)
-Ethics or moral philosophy (The internal subjective world)
-Logic (The tools connecting and making sense of the internal and external world)
-
-
-
-The limitations of modern physics and the unsustainability of economics can be attributed to the fact both are unenlightened sciences, or that they focus on the effect instead of the cause.
-
-
-
-
-In fact, the endeavor to create a new economic system necessarily creates two enlightenment-level sciences to serve as its ideological or philosophical foundation: Socioeconomics and Metaphysics.
-
-
-
-
-We define enlightenment as the state of having:
-
-penetrated the deception inherent in existence (according to Western Philosophy)
-included in this is the realization of the nature of existence (effect) and the mind that perceives it (cause)
-overcome Maya or the illusion of duality (according to Eastern Philosophy)
-included in this is the realization of the cause of Maya, which is the non-dualistic, unqualified (nirguna) Absolute or Supreme Being
-
-Both definitions ultimately end up with a Supreme Being as the cause and the universe, anything in it,  as the effect. -->
-
-
-<!-- 
-In Treatise, Hume explained that government and justice are artificial inventions to create peace and security. However, government and justice system nowadays are used not for peace and security, but for pleasure.
-
-
-Darkness:
-Say removed morality
-
-Mill advocated utility
-
-Marginalists based economics on Math and Profit Maximization
-
-Fischer Further Developed Monetary and Finance
-
-Crash and World War 2
-
-Keynes Put Government Spending Overturning Smith Leading to Budget Deficits
-
-Samuelson Set All These In Stone
-
-Sustainability = Morality
-
-Premarital Sex, Teenage Pregnancy or Illegitemate Children Which Might Cause Stress
-
-Too Much Alcohol, We Get Drunk And Might Die
-
-Happy Existence -->

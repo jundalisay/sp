@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 8"
-title: "The 4 Operations of Thinking"
+title: "The 3 Actions of the Mind and the 4 Operations of Thinking"
 date: 2020-12-06
 image: /photos/psych/self.jpg
 weight: 480
@@ -23,18 +23,114 @@ This is why:
 - the Negative Force keeps on disturbing the perfection
 - the Positive Force keeps on realizing the value of that perfection
 
+The Imperfect state is called Existence, as the Supreme Mind, which is made up of disturbances as waves and nodes. 
 
-## Thinking Versus Knowing
+How the Supreme Mind realize Its own Value?
 
-Existence is made up of disturbances as waves and nodes. 
+{{< q a="David Hume" c="Enquiry, Section 1" >}}
+The operations of the mind are most intimately present to us. Yet, whenever we reflect on them, they seem obscure. Therefore,  science should:
+- know the different operations of the mind
+- separate them from each other
+- class them under their proper heads
+- correct all their disorder when they are inquired into
+{{< /q >}}
 
-The integration of these nodes leads more and more to the state of Omniscience where all nodes are united as One.
 
-Therefore:
-- **thinking** is the process of integrating external idea-nodes within the mind-node -- this is an action of the higher mind
-- **knowing** is the actual of integration of these idea-nodes -- this is an effect of the higher mind
-- **thoughts** are the products of the thinking process as it grabs and processes ideas 
-- **knowledge** is the product of the integration of these idea-nodes.
+
+## The 3 Operations of Mind
+
+This Mind has 3 actions due to the 2 Forces. This matches the 3 Gunas or Influences:
+
+1. Flow (association, expansion)
+
+This is the most natural action showing the "All-ness" of Existence. The flow includes logic or how the waves of the mind naturally jumps from one idea or node to another, even without thinking.
+
+Thinking makes the jumping more forceful, which is really just adding to the flow
+
+2. Force (attraction / repulsion)
+
+Quantification or digitization or digitalization are effects of the repulsion to the continuous analog flow.
+
+Quantification creates instances that are notated as numbers.
+
+This arises from counting discrete identities as instances.
+
+This makes each instance or number a unique identity itself, each with its own quality that is revealed when they are processed with other identities.
+
+3. Memory or storage
+
+This takes the form of notation.
+
+We call these 3 the operations of the mind.
+
+
+## The Flow and Force of Thinking Versus Knowing
+
+The integration of these node-ideas leads more and more to the state of Omniscience where all nodes are united as One.
+
+We are ignorant of a thing that we cannot associate with anything.
+
+For example, when someone asks you what a "gnomon" is, you cannot answer. 
+
+The gnomon-idea object enters your mind. But since you have nothing to connect it to, you reply in null.
+
+Someone will tell you that the gnomon is the pointer of a sundial that casts a shadow. 
+
+Your mind gets new idea-objects as "pointer", "sundial", "cast a shadow". 
+
+If your mind does not know what a sundial is then it still cannot associate it to anything coherent. 
+
+But if you know, from memory, what it is then your mind will associate "gnomon" with "pointer of sundial". 
+
+{{< i s="/photos/objects/clock.jpg" a="Sundial" >}}
+
+
+- The thinking proces was your mind trying to find associations for gnomon. 
+- The learning process was your mind storing "gnomon" = "pointer of sundial" into memory.
+- The memorization process is to store the spelling or sound of "gnomon" as is
+
+These actions show the actios of flow, force, and memory to lead to knowledge.
+
+Knowledge in turn validates the manifested idea. This completes the loop from the Supreme having an idea for a gnomon which pre-existed and actually became realized and validated upon the invention and use of an actual gnomon. The fact that it has a name means that it has value enough to be assigned a unique name. 
+
+This is similar to the idea of Covid being validated by getting a name Covid-19, and further validated in the invention of vaccines against Covid-19. 
+
+<!-- as `g-n-o-m-o-n` without any learning of how those letters or sounds -->
+
+
+## Thinking, Thought, Cognition, Intuition, Learning, Memory, Cognition
+
+Therefore, **thinking** is the process of integrating external idea-nodes within the Lower mind (node) to the actual pre-existing idea in the Higher Mind.
+- This is the job of the Lower Mind
+
+**Knowing** is the actual of integration of these idea-nodes.
+- This is courtesy of the Higher Mind
+
+<!-- **Thoughts** are the products of the thinking process as it grabs and processes ideas. -->
+
+**Knowledge** is the product of the integration of these idea-nodes.
+
+**Thought** is the packaging an idea-node as it goes through that thinking process. 
+- This is like putting a kilo of rice in a flimsy plastic bag into a rigid wooden box to standardize it with other rice to make its shipment or storage more efficient.  
+- In Physics, this is like the quantization of waves into packets. 
+
+**Cognition** is the result of many thoughts together as one network or structure of thought-objects. 
+- This is why "cognize" isn't used often.
+- Recognize is to affirm the thought-structure already existing
+
+**Intuition** is the getting of that actual integration through a weak Positive aethereal energy.
+
+**Realization** is the getting of that integration through a strong Positive aethereal energy.
+
+**Memorizing** is the storage of the idea-nodes as memory. All memory first goes into the aethereal memory of the Higher Mind. This is like cloud storage in cloud computing. 
+- Then it is stored physically in the brain as local storage.
+- This aethereal memory is called akashic records. 
+
+**Learning** is the storage of the idea-nodes after they have been integrated by the Higher Mind. 
+
+
+{{< i s="/graphics/psych/think.jpg" a="Thinking" c="The different relative directions and energies of the Positive Force explain the differences in the actions of the mind" >}}
+
 
 Genius is a mind that has enough subtlety to access the higher mind easily.
 
@@ -63,19 +159,6 @@ In thinking, the mind-node adjusts its own configuration in order to match the s
 
 This is because nodes are just bunched-up waves. And so they can recur just like waves do.  
 
-
-## Thinking, Intuition, Learning, Memory
-
-Thinking is the process of integrating external idea-nodes within the mind-node.
-
-Intuition is the gettomg that actual integration with weak Positive aethereal energy.
-
-Intuition is the gettomg that actual integration with weak Positive aethereal energy.
-
- process of integrating external idea-nodes within the mind-node.
-
-{{< i s="/graphics/psych/think.jpg" a="Thinking" c="" >}}
-
 <!-- 1. React
 
 A crude node will react to the incoming node or wave by adjusting itself externally. This is seen in balls bouncing off the wall as they react to the crude contact force from that wall.  
@@ -88,9 +171,7 @@ This is seen in the adaptations of living organisms.
 
 3. Express -->
 
-
-
-1. Thinking
+<!-- 1. Thinking
 
 This is similar to the manipulating the actors and props
 
@@ -98,79 +179,6 @@ This is similar to the manipulating the actors and props
 
 3. Learning: This is similar to the improvement of the theater in the way it manipulates (thinks) and stores and retrieves its props (remembers) 
 
-4. Expanding or Contracting: This is similar to the expansion of a theater in order to have better shows
-
-
-
-## Thinking
-
-The main job of the intellectual mind is to think about its ideas.
-- The act of thinking is the perception and connection of ideas  
-
-The main job of the emotional mind is to discern its feelings.
-- The act of feeling is the perception and immersion of feelings
-
-{{< i s="/photos/psych/self.jpg" a="Thinking" >}}
-
-We then group this thinking operation into 2 categories:
-
-<!-- From here, we can say that all of the activities or operations of the mind's intellect can be broadly categorized into two: -->
-
-1. Adding or Combinative
-2. Subtracting or Separative
-
-We also group this feeling operation into 2 categories:
-<!-- The activities or operations mind's heart can also be broadly categorized into two: -->
-
-1. Attraction
-2. Repulsion
-
-Attraction has a combinative net effect just as repulsion has a separative one. 
-
-Therefore the active mind, which thinks and feels, has 2 kinds of operations:
-- Combination
-  - This comes from the Positive Force
-- Separation
-  - This comes from the Negative Force
-
-<!-- Note that memory is a quality of the mind, and not an operation. Remembering is part of the operations of consciousness, just as perception is.  -->
-
-![Yin and Yang](/photos/meta/yinyang.jpg)
-
-
-<!-- ## The Operations of Thinking  -->
-<!-- the Intellect -->
-
-<!-- "Adding" or "combination" is the integration of one identity to another to create a new third identity. This is an effect of the Positive Force (Yang or Shiva)
-
-For example, we:
-- add `1 + 1` to make `2` 
-- put more rice grains in a bag to make it reach 1 kilogram for purchase
-- step in an empty bus so it can get passengers and start its journey
-
-
-"Subtracting" or "separation" is the removal of one part of an identity in order to create a new identity. This is an effect of the Negative Force (Yin or Shakti or Prakrti)
-
-For example, we:
-- subtract `3 - 1` to make `2`
-- remove things from our luggage so that it will meet the limit of 15 kilograms 
-- step out of an overloaded bus so that it can run safely
-
-
-Related operations of thinking spring from these 2 broad operations:
-
-Combination Category:
-- Multiplication
-- Exponents
-- Memory or Remembering
-- etc
-
-Separation Category:
-- Division and Fractions
-- Square roots
-- Ignorance or Forgetting
-- etc -->
-<!-- - Factorials and Multiples -->
-
+4. Expanding or Contracting: This is similar to the expansion of a theater in order to have better shows -->
 
 
