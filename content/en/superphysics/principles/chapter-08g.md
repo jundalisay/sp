@@ -14,7 +14,6 @@ icon: "Juan"
 ---
 
 
-
 People sometimes use strange jargon like “red herring” or ‘Occam’s razor” when they try to disprove arguments that they don’t like. Such words then force the other side to do research on what those jargon mean. This can potentially waste a lot of time since there are a lot of fallacies. 
 
 These fallacies were merely created by academics for the sake of creating something, just as mathematicians create paradoxes, and theoretical physicists create useless theories because thinking is part of their job.
