@@ -8,10 +8,9 @@ description : "Supereconomics uses 2 measures combined to replace GDP as a measu
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Supereconomics"
+icon: "Juan"
 aliases:
-  /social/economics/solutions/gdp
-  /social/economics/principles/part-4/chapter-07d
+  /mdp
 ---
 
 

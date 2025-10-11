@@ -1,6 +1,6 @@
 ---
-title: "Dream, Telepathic Vision and Clairvoyance"
-heading: "Chapter 7"
+title: "The Two Human Approaches"
+heading: "Chapter 7b"
 weight: 14
 c: "indigo"
 description: "The nervous system is the crude receptacle of the kámamaya kośa [crude layer] and the mind. It becomes unsteady and restless"
@@ -8,7 +8,6 @@ icon: "PR Sarkar"
 ---
 
 
-## The Two Human Approaches
 
 What is this? What is this? 
 
@@ -60,7 +59,7 @@ Human approaches are of 2 kinds:
 2. Intro-external
 
 
-### Extro-internal
+## Extro-internal
 
 Extro-internal means created outside but going within.
 
@@ -79,7 +78,7 @@ It is something external.
 
 
 
-### Intro-external
+## Intro-external
 
 Intro-external movement is created within the mind and sent outside. 
 
@@ -154,6 +153,7 @@ Have you heard the name Huang Ho? What happens when it comes in contact with the
 
 When a person comes in contact with Parama Puruśa, one does not remain a person. One becomes absorbed, just like the Huang Ho.
 
+
 2. He cannot hate anyone.
 
 If you dislike a person, you will say:
@@ -167,8 +167,7 @@ Suppose you have created a bad drunkard in your mind. You cannot hate that man b
 If Parama Puruśa hated you. He cannot tell you to go away since He is everywhere.
 
 
-
- <!-- and yet you order me to get out. Where will I go?”  -->
+<!-- and yet you order me to get out. Where will I go?”  -->
 
 <!-- Then Parama Puruśa will have to say, “Go outside my area.” 
 
@@ -215,7 +214,7 @@ Those who are established in actional faculties will be engaged in action.
 
 **Action is relative change of place.** 
 
-When there is a change of place, you will say that an action is being done. 
+When there is a change of place, we say that an action is being done. 
 
 It is a relative change of place and not an absolute one. 
 
@@ -225,15 +224,26 @@ But Parama Puruśa is beyond the periphery of time, space and person.
 
 So, by dint of one’s actional faculties, one cannot get Him.
 
-Then who can get Him? They say it is very, very easy. What to do? 
+Then who can get Him? They say it is very, very easy. Say:
 
 “O Lord, I am Your creation. I am Yours, I am at Your disposal. This body is a machine. Utilize it.” 
 
-But you are to do one thing. What? Is there any want in Parama Puruśa? There are two imperfections. He cannot create another Parama Puruśa and cannot hate anybody, but is there any want in Him? 
+But you are to do one thing. 
 
-There is no want – name, fame, money, etc. – because the entire universe is within His mind, so all the properties of the universe are His. He has no want.
+Parama Puruśa has 2 imperfections:
 
-But the true devotee says, “Oh Parama Puruśa, there are so many great devotees, and I am only an ordinary devotee, the worst devotee. But Lord, those who are your big devotees have done one thing. They have stolen Your mind.” 
+1. He cannot create another Parama Puruśa
+2. He cannot hate anybody
+
+But is there any want in Him? 
+
+There is no want – name, fame, money, etc. – because the entire universe is within His mind, so all the properties of the universe are His. 
+
+He has no want.
+
+But the true devotee says: 
+
+“Oh Parama Puruśa, there are so many great devotees, and I am only an ordinary devotee, the worst devotee. But Lord, those who are your big devotees have done one thing. They have stolen Your mind.” 
 
 Because Parama Puruśa loves His devotees very much, His mind has been stolen by them. 
 
@@ -241,7 +251,8 @@ Parama Puruśa’s mind has been stolen by His devotees, so He has got one want
 
 His mind has been taken by His devotees. 
 
-“Oh Lord, your devotees have stolen your mind, so You have got one want. You have lost your mind. Do one thing, Lord, take my mind. Let there be no want in You. I offer my mind to You. Accept it.”
+“Oh Lord, your devotees have stolen your mind, so You have got one want. You have lost your mind. Do one thing, Lord, take my mind. Let there be no want in You. **I offer my mind to You**. Accept it.”
+
 
 So the devotees are very intelligent. They are more intelligent than:
 - intellectuals, and
@@ -249,4 +260,3 @@ So the devotees are very intelligent. They are more intelligent than:
 
 
 24 August 1979, Taipei
-

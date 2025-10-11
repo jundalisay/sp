@@ -6,7 +6,7 @@ description: "Life is the Shiva part of the 2 Forces"
 # date: "2020-10-15"
 date: 2020-01-25
 weight: 8
-image: "/graphics/meta/mind.png"
+image: "/graphics/super/node.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -50,7 +50,7 @@ Since the expression of consciousness comes from the Positive Force, then it fol
 
 everything in the universe has mind and consciousness from the Positive Force. However, their expression is limited by the Negative Force which makes them appear as lifeless. We call this a non-living thing.    -->
 
-{{< img src="/graphics/meta/mind.png" cap="" >}}
+{{< img src="/graphics/super/node.jpg" cap="" >}}
 
 A non-living thing therefore is non-living because the Negative Force constricts its mind to limited modes of expression such as expansion and simple movement.
 

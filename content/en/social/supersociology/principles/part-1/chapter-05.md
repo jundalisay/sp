@@ -97,7 +97,7 @@ Society must therefore have its infancy, youth, manhood, and old age, similar to
 
 ## Theory of Universal Relationality
 
-We plug in this model into our [equation-for-everything](/superphysics/principles/chapter-07)* to come up with something for machine learning to work on:
+We plug in this model into our [equation-for-everything](/eagle)* to come up with something for machine learning to work on:
 
 ![Universal Relativity](/graphics/social/cycle.png)
 

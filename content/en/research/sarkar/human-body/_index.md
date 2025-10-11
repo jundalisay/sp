@@ -1,5 +1,5 @@
 ---
-title: "The Human Body"
+title: "Human Body"
 c: "deeppink"
-weight: 16
+weight: 21
 ---

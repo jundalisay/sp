@@ -1,7 +1,7 @@
 ---
-title: "Book 1"
+title: "Ideas"
 heading: Part 1
-description: "Research on David Hume"
+description: "All our perceptions are either impressions or ideas."
 c: "steelblue"
 weight: 4
 writer:

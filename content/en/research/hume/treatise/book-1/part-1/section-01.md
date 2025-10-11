@@ -14,7 +14,7 @@ icon: "David Hume"
 
 ## All Simple Ideas Initially Come from Simple Impressions as Sensory Perceptions and Feelings
 
-All our perceptions are either impressions or ideas
+All our perceptions are either impressions or ideas.
 
 Their difference is in how their force strikes the mind.
 
@@ -64,7 +64,7 @@ These are impressions and ideas that are distinct and cannot be separated.
 
 These can be separated into parts.
 
-![Apples](/photos/objects/apples.jpg)
+![Apples](/photos/objects/apples2.jpg)
 
 This apple has colour, taste, and smell.
 - These 3 are distinguishable from each other.

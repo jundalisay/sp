@@ -38,9 +38,13 @@ Fire People | Vulcani
 
 Their regions are divided into their parts. The water people have no intercourse with the mountain people, nor the mountain people with them, nor the salamanders. 
 
-Each has his special abode, but they appear to man so that he may recognize and see how marvellous God is in his works, that he does not leave any element void and empty, without having great wonders in them.
+Each has his special abode.
 
-And now follow the four regions, which explains the difference of abode, also of person, essence and kind, how far they differ from each, yet more similar to man than to each other, and yet all men, as was explained in the first treatise.
+But they appear to man so that he may recognize and see how marvellous God is in his works, that he does not leave any element void and empty, without having great wonders in them.
+
+The four regions explain:
+- the difference of abode, person, essence and kind
+- how far they differ from each, yet more similar to man than to each other, and yet all men, as was explained in the first treatise.
 
 <!-- You know that there are four elements: air, water, earth and fire; and you also know that w -->
 
@@ -53,7 +57,17 @@ From this example you understand that the undinae have their abode in water, and
 
 The same applies to the gnomi in the mountains: the earth is their air and is their chaos. For everything lives in chaos, that is: everything has its abode in chaos, walks and stands therein. Now, the earth is not more than mere chaos to the mountain manikins. 
 
-For they walk through solid walls, through rocks and stones, like a spirit; this is why these things are all mere chaos to them, that is, nothing. That amounts to: as little as we are hampered by the air, as little are they hampered by the mountain, by earth and rocks. And as it is easy for us to walk through air and air cannot stop us, so rocks and cliffs are easy to them. And so, things are all chaos to them which are not chaos to us. For a wall, a partition, stops us so that we cannot go through, but to them it is a chaos. That is why they walk through it; to them it is their air in which they live and walk, as man does in the air that is between heaven and earth. 
+They walk through solid walls, through rocks and stones, like a spirit.
+
+This is why these things are all mere chaos to them, that is, nothing. 
+
+That amounts to: as little as we are hampered by the air, as little are they hampered by the mountain, by earth and rocks. 
+
+And as it is easy for us to walk through air and air cannot stop us, so rocks and cliffs are easy to them. And so, things are all chaos to them which are not chaos to us. 
+
+A wall stops us so that we cannot go through. But to them it is a chaos.
+
+That is why they walk through it; to them it is their air in which they live and walk, as man does in the air that is between heaven and earth. 
 
 The coarser the chaos, the more subtile is the creature; and the more subtile the chaos the coarser the creature. The mountain people have a coarse chaos; therefore, they must be the more subtile; and man has a subtile chaos; therefore, he is all the coarser. And thus there are different kinds of chaos, and the inhabitants are adapted in nature and quality to live in them.
 

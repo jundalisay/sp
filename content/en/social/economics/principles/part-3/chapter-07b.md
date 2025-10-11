@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 7b"
-title: "Two DCIT Scenarios"
+title: "Two DSIT Scenarios"
 # date: 2021-06-28
 date: 2021-12-25
 weight: 32

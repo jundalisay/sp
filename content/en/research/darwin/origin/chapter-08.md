@@ -14,19 +14,28 @@ Causes of the sterility of first crosses and of hybrids -- Parallelism between t
 conditions of life and crossing -- Fertility of varieties when crossed and of their mongrel offspring
 not universal -- Hybrids and mongrels compared independently of their fertility -- Summary. -->
 
-Naturalists believe that species, when intercrossed, have been specially endowed with sterility, in order to prevent the confusion of all organic forms. This
-view certainly seems at first probable, for species within the same country could hardly have kept
-distinct had they been capable of crossing freely.
+Naturalists believe that species, when intercrossed, have been specially endowed with sterility, in order to prevent the confusion of all organic forms. 
 
-The importance of the fact that hybrids are very generally sterile, has, I think, been much underrated by some late writers. On the theory of natural selection the case is especially important, inasmuch as the sterility of hybrids could not possibly be
-of any advantage to them, and therefore could not have been acquired by the continued preservationof successive profitable degrees of sterility. I hope, however, to be able to show that sterility is not
-a specially acquired or endowed quality, but is incidental on other acquired differences.
-In treating this subject, two classes of facts, to a large extent fundamentally different, have
-generally been confounded together; namely, the sterility of two species when first crossed, and the
-sterility of the hybrids produced from them.
+This view seems probable since species within the same country could hardly have kept distinct had they been capable of crossing freely.
+
+Hybrids are very generally sterile.
+- This has no advantage to them
+- Therefore it could not have been acquired by the continued preservation of successive profitable degrees of sterility. 
+
+ <!-- has, I think, been much underrated by some late writers. On the theory of natural selection the case is especially important, inasmuch as the sterility of hybrids could not possibly be of any advantage to them, and  -->
+
+Sterility is not a specially acquired or endowed quality.
+- It is incidental on other acquired differences.
+
+These have been confounded together:
+
+1. The sterility of two species when first crossed
+2. The sterility of the hybrids produced from them
 
 Pure species have of course their organs of reproduction in a perfect condition, yet when
-intercrossed they produce either few or no offspring. Hybrids, on the other hand, have their
+intercrossed they produce either few or no offspring. 
+
+Hybrids, on the other hand, have their
 reproductive organs functionally impotent, as may be clearly seen in the state of the male element
 in both plants and animals; though the organs themselves are perfect in structure, as far as the
 microscope reveals. In the first case the two sexual elements which go to form the embryo are

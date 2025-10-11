@@ -88,7 +88,6 @@ Similarly, in the higher intellectual realm research work on these microvita is 
 **These microvita are a creation in the internal phase, rather in the returning phase of cosmic expression.** *
 
 
-
 Phase | Description
 --- | ---
 Extrovert / First | Subtle into crude
@@ -118,3 +117,4 @@ The power of conception will also develop. This will help us know all the secret
 
 
 31 December 1986 RU, Calcutta
+

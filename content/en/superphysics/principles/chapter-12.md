@@ -3,7 +3,7 @@ heading: "Chapter 12"
 title: "What is Superphysics?"
 # date: 2021-07-19
 date: 2023-12-08
-weight: 70
+weight: 740
 image: /graphics/super/spmodel.jpg
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
 writer:

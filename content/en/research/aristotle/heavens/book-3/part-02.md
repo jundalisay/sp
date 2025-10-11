@@ -77,5 +77,15 @@ From what has been said earlier it is plain that there cannot be generation eith
 
 It is impossible that everything should be generated, unless an extra-corporeal void is possible. For, assuming generation, the place which is to be occupied by that which is coming to be, must have been previously occupied by void in which no body was. 
 
-Now it is quite possible for one body to be generated out of another, air for instance out of fire, but in the absence of any pre-existing mass generation is impossible. That which is potentially a certain kind of body may, it is true, become such in actuality, But if the potential body was not already in actuality some other kind of body, the existence of an extra-corporeal void must be admitted.
+It is possible for one body to be generated out of another.
+
+Air for instance is generated out of fire.
+
+But in the absence of any pre-existing mass, generation is impossible. 
+
+That which is potentially a body may become such in actuality. 
+
+But if the potential body was not already in actuality then some other kind of body, as a void must exist.
+
+ <!-- the existence of an extra-corporeal void must be admitted. -->
 

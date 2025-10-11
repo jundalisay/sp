@@ -9,7 +9,8 @@ writer:
 c: "firebrick"
 ---
 
-### The Iron law of Nature
+
+## The Iron law of Nature
 
 <!-- THERE ARE certain truths which stand out so openly on the roadsides of life, as it
 were, that every passer-by may see them. Yet, because of their very obviousness, the

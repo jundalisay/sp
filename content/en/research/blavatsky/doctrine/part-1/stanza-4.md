@@ -14,11 +14,21 @@ c: "indigo"
 
 (a) The terms, the “Sons of the Fire,” the “Sons of the Fire-Mist,” and the like, require explanation. They are connected with a great primordial and universal mystery, and it is not easy to make it clear. There is a passage in the Bhagavadgîtâ, wherein Krishna, speaking symbolically and esoterically, says:
 
-I will state the times [conditions] ... at which devotees departing [from this life] do so never to return [be reborn], or to return [to incarnate again]. The fire, the flame, the day, the bright [lucky] fortnight, the six months of the northern solstice, departing [dying] ... in these, those who know the Brahman [Yogîs] go to the Brahman. Smoke, night, the dark [unlucky] fortnight, the six months of the southern solstice, (dying) in these, the devotee goes to the lunar light [or mansion, the Astral Light also] and returns [is reborn]. These two paths, bright and dark, are said to be eternal in this world [or Great Kalpa (Age)]. By the one (a man) goes never to return, by the other he comes back.148
+I will state the times [conditions] ... at which devotees departing [from this life] do so never to return [be reborn], or to return [to incarnate again]. 
 
-Now these terms “fire,” “flame,” “day,” the “bright fortnight,” etc., “smoke,” “night,” and so on, leading only to the end of the Lunar Path, are incomprehensible without a knowledge of Esotericism. These are all names of various deities which preside over the cosmo-psychic Powers. We often speak of the Hierarchy of “Flames,” of the “Sons of Fire,” etc. Shankarâchârya, the greatest of the Esoteric Masters of India, says that Fire means a deity which presides over Time (Kâla). The able translator of the Bhagavadgîtâ, Kâshinâth Trimbak Telang, M.A., of Bombay, confesses he has “no clear notion of the meaning of these verses.” It seems quite clear, on the contrary, to him who knows the Occult doctrine. With these verses the mystic sense of the solar and lunar symbols are connected. 
+The fire, the flame, the day, the bright [lucky] fortnight, the six months of the northern solstice, departing [dying] ... in these, those who know the Brahman [Yogîs] go to the Brahman. 
 
-The Pitris are Lunar Deities and our Ancestors, because they created the physical man. The Agnishvatta, the Kumâras (the Seven Mystic Sages), are Solar Deities, though they are Pitris also; and these are the “Fashioners of the Inner Man.” They are “The Sons of Fire,” because they are the first Beings, called “Minds,” in the Secret Doctrine, evolved from Primordial Fire.
+Smoke, night, the dark [unlucky] fortnight, the six months of the southern solstice, (dying) in these, the devotee goes to the lunar light [or mansion, the Astral Light also] and returns [is reborn]. These two paths, bright and dark, are said to be eternal in this world [or Great Kalpa (Age)]. By the one (a man) goes never to return, by the other he comes back.148
+
+“Fire,” “flame,” “day,” the “bright fortnight,” etc., “smoke,” “night,” and so on, leading only to the end of the Lunar Path, are incomprehensible without a knowledge of Esotericism. 
+
+These are all names of various deities which preside over the cosmo-psychic Powers. We often speak of the Hierarchy of “Flames,” of the “Sons of Fire,” etc. Shankarâchârya, the greatest of the Esoteric Masters of India, says that Fire means a deity which presides over Time (Kâla). 
+
+The able translator of the Bhagavadgîtâ, Kâshinâth Trimbak Telang, M.A., of Bombay, confesses he has “no clear notion of the meaning of these verses.” 
+
+The Pitris are Lunar Deities and our Ancestors, because they created the physical man. 
+
+The Agnishvatta, the Kumâras (the Seven Mystic Sages), are Solar Deities, though they are Pitris also; and these are the “Fashioners of the Inner Man.” They are “The Sons of Fire,” because they are the first Beings, called “Minds,” in the Secret Doctrine, evolved from Primordial Fire.
 
 “The Lord ... is a consuming fire.”149 “The Lord shall be revealed ... with his mighty angels in flaming fire.”150 The Holy Ghost descended on the Apostles as “cloven tongues like as of fire”;151 Vishnu will return on Kalkî, the White Horse, as the last Avatâra, amid fire and flames; and Sosiosh will also descend on a White Horse in a “tornado of fire.” 
 

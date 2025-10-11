@@ -101,19 +101,33 @@ The same here: they are not men because they are made after his image, but remai
 
 Thus he wants every creature to remain at the place where it has been created. 
 
-As man cannot boast that he is God, but a creation of God, thus made by God, and God wants it thus-in the same way these people cannot boast that they have a soul like man, although they look like him. Just as man cannot boast that he is God although he is made after him and exists. 
+Man is not God, but a creation of God, 
 
-Thus man lacks that he is not God. And the wild people lack the soul. Therefore they cannot say that they are men. And so the one lacks God, the other the soul. Thus God alone is God, and man alone is man.
+Likewise, these people do not have a soul like man, although they look like man.
+
+<!-- Thus man lacks that he is not God. And the wild people lack the soul.  -->
+
+Therefore they are not men. 
+
+And so, man lacks God, the other the soul.
+
+Thus God alone is God, and man alone is man.
 
 And so they are men and people, die with the beasts, walk with the spirits, eat and drink with men. 
 
-Like the beasts they die, so that nothing is left; and neither water nor fire harms them, like the spirits, and nobody can lock them up, like the spirits, but they reproduce like men and therewith share his nature. They have man's diseases and his health but their medicine is not from the earth from which man is made, but from the element in which they live. 
+Like the beasts they die, so that nothing is left; and neither water nor fire harms them, like the spirits, and nobody can lock them up, like the spirits, but they reproduce like men and therewith share his nature. 
+
+They have man's diseases and his health but their medicine is not from the earth from which man is made, but from the element in which they live.
 
 They die like men, but are dead like the beasts. 
 
 Their flesh rots like other flesh and their bones like other men's bones and nothing remains of it. Their customs and behaviour are human, as is their way of talking, with all virtues, better and coarser, more subtile and rougher. 
 
-The same applies to their figures: they are very differ- ent, like men. In food they are like men, eat and enjoy the product of their labor, spin and weave their own clothing. They know how to make use of things, have wisdom to govern, justice to preserve and protect. For although they are beasts, they have all the reason of man, except the soul. Therefore, they have not the judgment to serve God, to walk in his path, for they have not the soul. 
+The same applies to their figures: they are very different, like men. 
+
+In food they are like men, eat and enjoy the product of their labor, spin and weave their own clothing. They know how to make use of things, have wisdom to govern, justice to preserve and protect. 
+
+For although they are beasts, they have all the reason of man, except the soul. Therefore, they have not the judgment to serve God, to walk in his path, for they have not the soul. 
 
 The beast from inborn nature seeks a just course toward itself, and so do they, but they have the highest reason, above all other animals. 
 

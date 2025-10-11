@@ -1,74 +1,94 @@
 ---
 heading: "Chapter 7e"
-title: "The Theory of Universal Relationality"
-date: 2020-12-26
-weight: 41
-# date: 2021-06-23
-image: "/graphics/physics/relationality.jpg"
-description: "The Eagle is our Equation for the movement of Everything in the physical dimension"
-icon: "Supereconomics"
+title: "Desire-based Evolution"
+date: 2025-10-06
+weight: 467
+image: /photos/bio/flatfish.jpg
+description: "Superphysics sources evolution from the will or desire"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+icon: Juan
 ---
 
 
+The previous section explained how advanced aliens have been documented consistently by ancient civilizations who did not talk to each other. 
 
-The qualitative ratio between identities represents our Theory of Universal Relationality* within the Theory of Dynamism. 
+The most detailed of these are from the Sumerian texts who call them the Anunnaki who created humans to work for them.
 
-This states that all ideas are connected and therefore everything in the universe is connected. The ratio sign signifies this connection.
-
-{{< n n="*We use Relationality instead of Relativity in order to rank better in search engines, since Relativity is already connected to Einsten instead of Descartes." >}}
-
-
-This is a combination of the ideas from:
-- The Asian sciences of Hinduism, Buddhism, and Taoism which say that everything is one
-- Socratic philosophy which explains about the One and the Other
-- Descartes' theory of gravity which says that gravity is a relation between bodies
-- Poincare's Law of Relativity which is based on changing states of bodies in a system
-
-
-
-{{< q a="Rene Descartes" c="Principia Philosophia Part 4, Article 202" >}}
-I deny the existence of gravity inside any body. Gravity is a quality that depends on the relations of situation and motion of several bodies on each other.
+{{< q a="Enki" c="Epic of Atrahasis" >}}
+Create a human being, that he bear the yoke. Let him bear the yoke, the task of Enlil. Let man assume the drudgery of the god.
 {{< /q >}}
 
 
-{{< i s="/graphics/physics/relationality.jpg" a="Relationality" >}}
+We call as the Anunnaki Hypothesis the idea that humans were created by the Anunnaki through genetic manipulation. 
+- The Anunnaki dynamics will be studied by Social Superphysics
+- Genetic manipulation will be studied by Bio Superphyiscs where the DNA are vortices created by the "spin" of the pineal gland or 7th chakra
 
-This relation depends on point of view:
+This leads to the 4 races of humans:
 
-{{< q a="Rene Descartes" c="Principia Philosophia Part 3, Article 13" >}}
-Imagine a ship being carried out to sea. A person sitting at the stern might always remain in one place if we look at the parts of the ship, since he preserves the same location with respect to these. On the other hand, if we look at the neighbouring shores, the same person will seem to be perpetually changing place. We see him constantly receding from one shore and approaching another. If the earth moves from west to east exactly as the ship moves from east to west, we again say that the person at the stern does not change his place. This is because his place will be determined by certain immovable points in the heavens. 
+1. African
+2. Aryan
+3. Mongolian
+4. Austric
+
+{{< q a="Kiche People" c="Popol Vu, Part 3, Chapter 2">}}
+These are the names of the first men created:
+1. Balam-Quitzé
+2. Balam-Acab
+3. Mahucutah
+4. Iqui-Balam
 {{< /q >}}
 
 
+This matches the 4 properties of waves, since evolution is driven by the wave of desire.
 
-{{< q a="Leibniz" c="The Monadology, Article 52" >}}
-When God compares two simple substances, he finds reasons in them to accommodate the one to the other. Consequently, what is active in certain respects is passive from a different point of view. A created being is:
-- active in so far as what is known distinctly in it provides the reason for what happens in another created substance.
-- passive in so far as the reason for what happens in it is found in what is known distinctly in another.
+
+
+## The Oversoul and the Law of Diversity
+
+There are currently 3 theories of evolution that matches either textual or genetic evidence:
+
+1. Genetic Creationism
+
+This was done by the Anunnaki on breed humans to do certain jobs, just as our animal and plant breeders breed their creations via "artificial selection". 
+
+2. Darwinism
+
+This believes that organisms evolve in order to survive via "natural selection"
+
+3. Lamarckism 
+
+This believes that organisms evolve by their will. This will creates changes in their physical structure. If both male and female have this will, then their offspring will have some of these changes. 
+
+Lamarckism implies that successful evolution requires a desire by the oversoul of a species. This concept solves the main objection to Darwinism which is sterile worker ants. 
+
+The oversoul (Chapter 5c) and the Law of Diversity (Chapter 1f) explain why hybrids and the interbreeding of brother and sister results in sterile offspring.
+
+This supports the policy of racial intermarriages, most obviously seen in Eurasians, as producing healthier offspring due to:
+- the reduction of genetic diseases
+- increased diversity of the immune system
+
+This goes against theories that support racial supremacy, such as the one from Adolf Hitler.
+
+{{< q a="Adolf Hitler" c="Mein Kampf, Volume 1, Chapter 11" >}}
+Nature does not wish that weaker individuals should mate with the stronger. She wishes even less that a superior race intermingles with an inferior one.
 {{< /q >}}
 
 
+## Evolution is by Desire
 
-In this way, we can say that the universe is an unending chain of multiple layered ratios, as a matrix, where a change in one part causes a change in the whole universe as a chain-effect.
+These theories, matched by reality, lead to evolution being a product of desire or willpower which has 2 kinds:
 
-The lower dimensions like ours has more rigid ratios that lead to discrete and ‘hardened’ identities, while higher dimensions have more flexible ratios that lead to more malleable ones. 
+1. Evolution by the Will of the self or 1st person
 
-Since the lower dimensions are more stubborn, they require more effort and energy to change than the upper dimensions.
+2. Evolution by the Will of a 3rd person
 
-An example of the “hardness” of this dimension is the hardness of will of Russia in invading Ukraine, and in Ukraine stubbornly not giving up. Both do not care about the chain-reaction that their fight causes to other nations and the planet. 
+These match the principle that desire is the cause of creation, as explained in Chapter 3c.
 
-In a better universe (with qualimath as the norm), Russia, Ukraine, and NATO will “soften” their minds and egos (less strong force, more gravitational force) as to harmonize with each other, being more sensible how their actions affect the planet.
+We call:
+- Darwinism as the will from the Negative Force, focusing on survival
+- Lamarckism as the will from the Positive Force, focusing on desire
 
-In this universe, such a softening can be encouraged by emphasizing the abstract, flexible aether, over rigid and hard solid matter. 
+{{< i s="/graphics/bio/evolve.jpg" a="Lamarck vs Darwin" c="Lamarckian Evolution is Positive, Darwinist Evolution is Negative" >}}
 
-Because of this, Qualimath also creates moral effects. It conditions minds to respect the identity and natures of all sides (other egos), instead of bulldozing over them with arbitrary notations and movement towards one side as what Westerners tend to do. 
-
-Qualimath uses Poincare’s Law of Relativity which uses state-change instead of Einstein’s Relativity which uses tensors:
-
-
-{{< q a="Poincare" c="Science and Hypothesis, Chapter 5" >}}
-The state of bodies and their mutual distances at any given moment, as well as the velocities with which those distances are changing at that moment, will depend only on the state of those bodies, on their mutual distances at the initial moment, and on the velocities with which those distances were changing at the initial moment. But they will not depend on the absolute initial position of the system nor on its absolute orientation, nor on the velocities with which that absolute position and orientation were changing at the initial moment.
-{{< /q >}}

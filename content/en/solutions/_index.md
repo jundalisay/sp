@@ -20,7 +20,7 @@ proofs:
   #   color: "darkblue"
     
   - url : "/material/solutions/foundry"
-    img : "/photos/objects/gauge.jpg"
+    img : "/photos/physics/gauge.jpg"
     title : "Aether-based Foundry and Fabrication"
     sub : "Manufacturing that adds aether emissions to align Descartes' material 'pores' (year 2060s)"
     cat: "Material Superphysics"

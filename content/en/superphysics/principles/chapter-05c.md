@@ -1,51 +1,141 @@
 ---
+title: "The Connection of Ideas"
 heading: "Chapter 5c"
-title: "The Elastic Theory of Gravity"
-date: 2023-02-20
-weight: 26
-image: "/graphics/physics/bands.jpg"
-description: "The Theory of Elastic Gravitational Bands is part of the details of the Theory Dynamism"
-icon: "Superphysics"
+date: 2024-02-24
+weight: 310
+image: /graphics/meta/ideas.jpg
+description: "We explain the rules of Bullet-Style Writing"
+toc: false
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
-{{< n n="We have replaced the bands with virtual space particles of Descartes. We use the bands where relationality is needed, but use virtual space particles when precision is needed since it can take the form of Newton's F easily." >}}
+{{< dc t="Principles (click to expand)" >}}
+Principles | Assertions
+--- | ---
+Everything is an Idea | Complex Ideas are made of Simple Ideas
+{{< /dc >}}
+
+
+Chapter 1 explained that waves become nodes when they are concentrated together.  We then call these nodes as ideas. 
+
+Since these nodes are really waves, they easily show wave-properties. One of these properties is the connection of ideas, as Property 1 explained in Chapter 1d. 
+
+
+## Compound Ideas are Made up of Simple Ideas
+
+Since ideas are static, it is the mind, powered by desire, that connects them together, in a chain. This leads to the creation of compound ideas from many simple ones.
+
+{{< q a="David Hume" c="Enquiry on Human Understanding, Section 5" >}}
+These principles of connection or association are resemblance, contiguity and causation. These are the
+only bonds that unite our thoughts together, and beget that regular train of reflection or discourse.”
+{{< /q >}}
+
+Spinoza earlier had a similar idea, though linking the connection of ideas to God. 
+
+{{< q a="Spinoza" c="The Ethics Simplified, Part 2, Proposition 7" >}}
+The order and connection of ideas is the same as the order and connection of things.
+{{< /q >}}
 
 
 
-Chapter 3 explained how the Law of Conservation of Idea gives every identity a unique dharma. This uniqueness gives it the property of movement and dynamism as it tries to preserve that uniqueness in the sea of creation. 
+While the 5 Elements show the vertical hierarchy of reality, the connection of ideas, and integration of simple into complex, show its lateral organization, creating a pyramid of ideas.
 
-Chapter 4c explained the concept of gravitational signatures as notations of that dharma.
+{{< i s="/graphics/meta/compound.jpg" a="Compound Ideas" >}}
 
-Chapter 5 explained how the Two Forces create attraction and repulsion between identities as examples of such movement. 
+When applied to living minds, this leads to the oversoul with many individual souls, each with many selves. 
 
-Chapter 5b explained the concept of Gravitational Territories. 
+- Each soul has many selves in each alternate reality which is created from spacetime slices. This is essential in Bio-Superphysics.
+- Individual souls taken together make up the soul of society, which we call the metaphysical society-organism. This is essential in Social Superphysics
 
-Combining these gives us 'The Elastic Theory' or the Theory of Elastic Gravitational Bands which is a consolidation of the theories from:
-- Socrates, as the relativity of the motions in the heavens
-- Kepler, as the links of kinship between planetary bodies
-- Descartes, as the aether powering all movement
-
-This theory explains the aethereal link that forms between two identites.  
+<!-- The concept of the dharma of ideas, combined with their inherent ability to be connected to, and fused with, each other (as to create ideas within ideas), is the foundation of our concept of the oversoul wherein:
+- a soul, as an idea of the Supreme, has many selves as its sub-ideas.  -->
 
 
-It is applicable in many areas such as:
-- Economics as price movements
-- Sociology as international relations and cultural interaction
-- Relationships as marriage and divorce 
-- Physics as gravitation and magnetism
-- Medicine as disease and wellness
+{{< i s="/graphics/meta/ideas.jpg" a="Main Ideas" c="Ideas can be thought of as clouds that connect to each other, split up, or combine, just as selves are connected to souls which are connected to oversouls or grouped together as society-organisms" >}}
 
 
-<!-- which is the cause of all movement and change in the universe.
-
-All of this movement is caused by the creation or existence of other ideas, which manifest as entities in the physical domain. The rule on uniqueness makes those entities move away from each other. This leads to our Theory of Dynamism.  -->
-
-
-{{< youtube IMOftV0yfso >}}
+{{< q a="David Hume" c="A Treatise of Human Nature, Book 1, Part 4, Section 6" >}}
+The soul is like a republic with members united by the reciprocal ties of government and subordination. This gives rise to other persons who propagate the same republic through constant change. The same republic may change its members, laws, and constitutions. Similarly, a person may vary his character, disposition, impressions and ideas, without losing his identity. Whatever changes he endures, his parts are still connected by causation.
+{{< /q >}}
 
 
-This is further explained in [Material Superphysics](/material/principles/part-2/chapter-04).
+To save itself energy, the mind usually connects those ideas that are resembling, contiguous, or those that are easily linked by cause and effect. This leads to shallow analysis and conclusions.
+
+For example, a wife might notice that her husband comes home late from work often. Her mind connects facts and, without effort, jumps to the conclusion that he is cheating on her. 
+
+{{< i s="/photos/psych/wife.jpg" alt="Wife" >}}
+
+This can be avoided by critical thinking and critical feeling which “catches” the thoughts and feelings, to be explained in Chapter 8.
+
+
+## Beliefs
+
+Compound ideas can be connected to other compound ones that impart a similar vibration or feeling in order to reinforce each other. 
+
+These are called beliefs which can be:
+- positive, such as the belief in a Savior, in better days ahead, etc. or
+- negative, such as the belief that Friday the 13 th is bad luck, that an Apocalypse will happen, etc
+
+Many beliefs are imposed on us by our parents and by society during our childhood. These can be religious, cultural, scientific, philopsophical, etc. 
+
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 1, Article 71" >}}
+The chief cause of our errors is in the prejudices of our childhood.
+{{< /q >}}
+
+
+Since beliefs can be positive or negative then it follows that not all beliefs are good. The most dangerous are dogmas that limit the capabilities of the mind.
+
+{{< q a="PR Sarkar" c="Discourse on Sin, Crime and Law" >}}
+The human mind becomes inert and dormant in society due to old dogmas, weaknesses, and lack of proper education. Mental stagnancy is a kind of disease. It is motionlessness. People should not be allowed to rely on the dogmas of their ancestors as it obstructs their own mental pursuit.
+{{< /q >}}
+
+
+Even science has dogmas which Superphysics corrects:
+
+Field of Study | Dogma | Problems Caused | Superphysics Solution
+--- | --- | --- | ---
+Science | Evidence must be from 5 Senses | Ignores metaphysical perception as intuitional feeling, limiting the sciences | 2 Domains and Intuition
+Economics | Money and Profit Maximization | Economic crises, Poverty, Inequality | Moneyless system
+Physics | Gravity comes from Matter | No anti gravity, teleportation, free energy | Gravity comes from the Aether 
+Western Medicine | Treating Symptom or Effect instead of Cause | Diseases recur and side effects created | 5 Element Medical Paradigm
+Sociology | Differences in Culture, Language | War, Nationalism, Terrorism, Disputes | Society Organism
+Evolution Theory | Survival of the Fittest | Nazism, Racism, Exploitation of the Weak | Evolution by Will 
+Psychology | Consciousness Comes From Brain | Ineffective Treatments that cause side effects | Consciousness Comes From Soul
+
+
+## Belief Systems and Religions
+
+Beliefs can be organized into a belief system, as a logical collection of related ideas that the ego can adopt and attach itself to.
+
+This belief system is an expression of culture, as an expression of a society, just as personality is the expression of a person.
+- A society is a metaphysical organism made up of individual souls connected and united together
+
+Most belief system are unorganized. 
+
+An organized belief system has the following components:
+
+1. A founder
+2. Scripture or text from the founder
+3. An organization with rules
+
+A religion has all these components, with the difference that religions deal with metaphysics. 
+
+This is why we call Modern Physics as a religion whenever it deals with the cause of Existence. 
+
+Belief System | Founder | Text | Organization
+--- | --- | --- | --- | 
+Catholicism | Jesus | Bible | Catholic Church
+Islam | Mohammad | Quran | Local Mosque Organization 
+Buddhism | Buddha | Tipataka | Local Sangha
+Communism | Marx | Communist Manifesto | Communist Party
+Nazism | Hitler | Mein Kampf | Nazi Party
+Modern Capitalism | Samuelson | Economics | Liberal Party
+Classical Physics | Newton | Principia Mathematica | Royal Society
+Modern Physics | Einstein | Annus mirabilis papers | CERN
+
+From this table, we can see that belief systems contain the vibration of the founder and the culture of the society that established them. 
+

@@ -35,11 +35,11 @@ Whenever an action of knowing takes place within the mind*:
 
 The mind is divided into 2 chambers: 
 
-1. The objective chamber 
+1. The objective chamber [lower mind]
 
 This is formed from almost all the ectoplasmic stuff.
 
-2. The subjective chamber
+2. The subjective chamber [higher mind]
 
 This is formed from that portion which is the knowing self.
 
@@ -158,4 +158,3 @@ Objective knowledge is to know that external fact.
 <!-- Is there any other aspect to the faculty of knowledge? Yes, indeed there is. -->
 
 Various psychic diseases may arise if there is any defect in the process of the objectivization of mind.
-

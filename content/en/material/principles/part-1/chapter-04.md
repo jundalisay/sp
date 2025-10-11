@@ -45,7 +45,7 @@ The idea of the totality of Physical Existence is highest part of the 5 Layers m
 - Therefore, it is the end of Material Superphysics and the start of Spiritual Superhysics (since we associate the paranormal with spirits).
 - This links laterally with the 5 Strata of the living domain of Bio Superphysics. 
 
-{{< i s="/graphics/meta/layerstrata.jpg" a="" >}}
+{{< i s="/graphics/super/operative.svg" a="" >}}
 
 The connection of this sublayer to the metaphysical domain allows it the possibility of different ideas of universes, leading to the concept of the multiverse.  Rather, the multiverse is the material part of the Supreme Entity or Brahma or the Totality of Existence (which includes the immaterial parts).
 

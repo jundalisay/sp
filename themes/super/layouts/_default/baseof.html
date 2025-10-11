@@ -94,6 +94,21 @@ var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
   s1.setAttribute('crossorigin','*');
   s0.parentNode.insertBefore(s1,s0);
 })();
+
+
+    // Fade-in on scroll
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('animate-fadeIn', 'opacity-100');
+          observer.unobserve(entry.target); // only once
+        }
+      });
+    }, { threshold: 0.2 });
+
+    document.querySelectorAll('.fade-in-section').forEach(el => observer.observe(el));
+  
+
   
 </script>
   </body>

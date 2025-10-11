@@ -3,7 +3,7 @@ title: "The Two Domains"
 # title: "We're in a Matrix!"
 heading: "Chapter 1"
 date: 2019-01-01
-weight: 2
+weight: 5
 image: /photos/tech/mac.jpg
 description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
 icon: "Superphysics"
@@ -53,13 +53,11 @@ This means that the mug exists in two domains of reality:
 
 
 {{< q a="Francis Bacon" c="Nova Organum, Book 2" >}}
-Let the investigation of forms, which are eternal and immutable, constitute metaphysics. 
-
-Let the investigation of the efficient cause of matter, constitute physics.
+Let the investigation of forms, which are eternal and immutable, constitute metaphysics. Let the investigation of the efficient cause of matter, constitute physics.
 {{< /q >}}
 
 
-{{< img src="/graphics/super/domains.svg" alt="The 2 Domains" cap="The Physical Domain extends from the material layer up to the mid-spatial layer. The Metaphysical Domain extends from the mid-spatial layer up to the aethereal layer. ">}}
+{{< img src="/graphics/super/domains.svg" alt="The 2 Domains" cap="The Physical Domain extends from the material element up to the mid-spatial layer. The Metaphysical Domain extends from the mid-spatial element up to the aethereal layer. ">}}
 
 
 
@@ -128,9 +126,10 @@ If Person A were to go from the lower to the middle region, he would imagine tha
 If Person A goes back down, Person B would imagine that he was descending. This would arise out of his ignorance of the true upper, middle, and lower regions.
 {{< /q >}}
 
-We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This will be explained later when we explain our Five Layer Model. 
+We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This will be explained later when we explain our Five Elements Model. 
 
-{{< i s="/graphics/super/meta.svg" a="Venn" >}}
+{{< i s="/graphics/super/cycle.svg" a="Venn Diagram" c="The metaphysical domain is much much larger than the physical domain despite having no physical size" >}}
+
 
 {{< q a="Timaeus" c="Timaeus by Plato Simplifed">}}
 These causes generate an inequality which is always maintained, and is continually creating a perpetual motion of the elements... The brightest part is called the aether. The most turbid sort is mist and darkness.
@@ -143,12 +142,45 @@ These 3 regions of metaphysical domain, physical domain, and current perception 
 
 - The blue upward triangle reprsents the metaphysical domain going upwards
 - The green downward triangle represents the physical domain going 'down to earth'
-- The yellow circle represents the focus of the mind as the here and now, as a combination of both. 
+- The yellow circle represents the focus of the mind as the here and now, as a combination of both. This includes reality or the universe, depending on context
 
 The balance of the triangles represents the balance between the abstract and the concrete. We can't focus on useless theory all the time. Nor can we go around doing physical actions without thinking of their causes and effects. 
 
 Inaction leads to nothing. But haste, on the contrary, also makes waste. 
 
-Human minds have limited abilities and so our focus must be relevant in order to maximize and concentrate what little we have. For example, as a species, it would be better to focus on solutions to global warming than to think of how to make more money, create a new cryptocurrency, or predict the stock market. The latter ideas are really based on selfish-interest instead of the common-interest.
+Human minds have limited abilities and so our focus must be relevant in order to maximize and concentrate what little we have. 
+
+For example, as a species, it would be better to focus on solutions to global warming than to think of how to make more money, create a new cryptocurrency, or predict the stock market. The latter ideas are really based on selfish-interest instead of the common-interest.
 
 <!-- The next chapter will explain the nature of ideas, which are the main objects in the metaphysical domain.  -->
+
+
+## So what's the use of the 2 domains?
+
+The 2 domains frees up the limitation of beliefs which includes:
+- materialist sciences as belief in physical evidence, by allowing metaphysical evidence
+- religion by replacing the definition of (Anunnaki) God into the (metaphysical) Supreme Entity which is far more permissive
+- philosophy by establishing critical thinking and critical feeling
+- mysticism by enshrining the superiority of the metaphysical domain   
+- politics and social change and freeing up people from the rigid patterns of tyranny, capitalism or communism
+- life events by freeing up the heart from the impositions from parents, society, employment, etc.  
+
+
+## Definitions
+
+Physical is the nature of being detectable by the bodily senses. Technically being part of the lower Elements such as the (Lower) Fire , Water, and Earth Elements, and the (Lower) Spatial, Convertible, and Material Layers. 
+
+Metaphysical is the nature of being detectable by the abstract mind without the direct support of the bodily senses. Technically being part of the upper Elements such as the (upper) Fire, Air, and Aether Elements, and the (Upper) Spatial, and Aethereal Layers.
+
+
+## Concepts Emerging from the 2 Domains
+
+The concept of the 2 Domains leads to the following concepts:
+
+1. Reality 
+2. Abstract Spaces of Reality
+3. Vortices and Ideas within Reality
+4. Operational Divisions of Reality
+5. The 5 Elements of Reality
+
+

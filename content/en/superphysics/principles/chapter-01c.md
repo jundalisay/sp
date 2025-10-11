@@ -1,105 +1,81 @@
 ---
 heading: "Chapter 1c"
-title: "The Cartesian View and Euclid's Elements"
-# date: 2015-09-09
-date: 2023-03-19
-# 2020-01-04
-weight: 4
-image: /graphics/super/cartesian.png
-description: "The Cartesian View plots the movement in the physical and metaphysical domains"
+title: "The Correct Natural View of Reality"
+date: 2025-10-04
+weight: 8
+image: /graphics/super/natural.jpg
+description: "The current prevailing belief among humans is that material phenomena is the cause of mental phenomena"
+icon: "Juan"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "Superphysics"
 ---
 
 
-{{< dc t="Principles (click to expand)" >}}
-Principles | Assertions
---- | ---
-There are 2 Domains in Reality | The Cartesian View has both Planes 
-{{< /dc >}}
 
+The previous section exposed the materialist view as the dominant, but wrong view of reality and how the universe works. 
 
+We correct this with a  natural holistic view of the universe as something that is infinite and eternal. 
 
-{{< youtube 9k6t42MYZ2Y >}}
-
-
-Previously, we divided reality into 2 domains:
-
-1. The Metaphysical
-2. The Physical
-
-
-Operationally, reality is divided into 3:
-
-1. Causal
-2. Subtle 
-3. Crude
-
-
-The current sciences ignore the metaphysical domain, as well as the causal and subtle parts of reality. Instead, they focus solely on the crude physical domain. 
-
-
-To explain metaphysical phenomena, humans have invented philosophy, religion, and mysticism. These have been disregarded by science as imaginary. 
-
-Science brands their explanations as pseudo-science, as if science and the physical domain (where matter resides) were superior to the metaphysical (where spirit and the aether reside).
-
-
-{{< q a="Rene Descartes" c="Principles of Philosophy, Part 2, Article 9" >}}
-People who distinguish substance from size or number actually do not know what incorporeal substance means. They think that substance is physical. 
-
-They thus think that a corporeal substance has a [metaphysical] size [when it really is a monad or point-particle]. And so they express something quite different from what they comprehend in their mind.
+{{< q a="Aristotle" c="The Heavens, Book 1, Chapter 10" >}}
+The universe cannot be at once eternal and generated. To say that the universe alternately combines and dissolves is no more paradoxical than to make it eternal but varying in shape.
 {{< /q >}}
 
 
-We cure this materialistic view by creating the a metaphysics-first perspective which we call the Cartesian View which has 2 parts:
+The reason for the prevalence of the wrong materialist belief is that the prevailing mentality downplays the imagination and the metaphysical domain. 
 
-1. The Aethereal Cartesian Plane for the Identity Space
-
-2. The Material Cartesian Plane for the Perception Space
+Instead, it enshrines materialism and the physical domain, such as through physical comfort, physical pleasures, etc. 
 
 
-This view takes:
-- the metaphysical domain as the cause (via the Aethereal Cartesian Plane)
-- the physical domain as effect (via the Cartesian Plane)
+The natural view is that the universe and reality are based on metaphysical perception as the unit mind being within the Supreme Mind.
 
-Currently, science has only the 'Cartesian plane' which is used to plot movements on paper.
+{{< i s="/graphics/super/natural.jpg" a="Materialist vs Natural" c="The natural view puts the physical universe inside the the abstract mind of the Supreme" >}}
 
-It is a 2-dimensional space that has quality in one axis relative to time in another axis. The movement through time makes the 2D space infinitely long.
+Our perceptions are either of physical objects like rocks or metaphysical objects like the idea of rocks. This leads to the 2 domains which are studied by Physics and Metaphysics.
 
-Here, the `y` axis represents a quality in different magnitudes of variations. 
-
-{{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" cap="The Cartesian Plane (left) plots the changes of an identity through time or relative to time (temporal changes) based on certain quality. The Aethereal Cartesian Plane (right), on the other hand, plots the changes of qualities relative to each other. The latter shows the how different each self is the previous and future self. " >}}
-
-
-{{< img src="/graphics/super/det.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
-
-
-We add the **Aethereal Cartesian Plane** which is has the identity as its origin and has multiple axes representing the qualities of that identity that change over time.
-
-{{< img src="/graphics/super/viz.jpg" alt="Aethereal Cartesian planes" cap="" >}}
-
-The Aethereal Cartesian Plane reveals more data which can be interpreted as new information which we call the dynamics of the identity. These dynamics are then based on its gravitational signature or dharma. 
+{{< q a="Francis Bacon" c="The Proficience And Advancement Of Learning Simplified, Book 2 Part 7" >}}
+Natural science or theory is divided into physic and metaphysic.
+- Physic should contemplate that which is inherent in matter, and therefore transitory.
+- Metaphysic should contemplate that which is abstracted and fixed.
+- Physic should handle that which supposeth in nature only a being and moving.
+- Metaphysic should handle that which supposeth further in nature a reason, understanding, and platform.
+{{< /q >}}
 
 
-## There is Only Euclidean Geometry
 
-Modern Physics thinks that Euclid's book, The Elements, is about shapes on a 2D surface. 
+Since perception is subjective, it follows that the universe is subjective. This leads to:
+- the malleability of space as teleportation
+- the malleability of time as time travel
+- customization of reality as alternate realities
 
-In reality, it is about the dynamics of the 5 Elements (which we call the 5 Layers), and is why Euclid named it as such.
-
-When used with the Cartesian View, Euclid's geometry can describe 3-dimensional surfaces and patterns. 
-
-The main difference with Physics is that Euclid's Geometry does not focus on the paths that an object would take. 
-
-This is because sequential paths only happen in the 3 Elements (Electromagnetism or 1st, Weak or 4th, and Strong or 3rd Elements). The aether (5th Element) and the aetherspace (2nd Element) are non linear and non sequential. 
-
-Instead, it focuses on the start and end of that path. This is useful for teleportation where paths are unnecessary.   
-
-{{< img src="/graphics/physics/geo.jpg" alt="Aethereal Cartesian View of a Geodesic" cap="" >}}
+{{< i s="/graphics/physics/bootup.jpg" a="Big Bootup" c="Instead of a Big Bang being inside a void, the universe, as part of a multiverse, is inside the aethereal mind of the Supreme Entity" >}}
 
 
-Teleportation and other aether-based technologies require knowledge and dynamics of the gravitational signature. This signature is visualized or revealed by the Aethereal Cartesian Plane like how a Fourier Transform makes a wave easier to understand.  
 
-<!-- The movement of a country can be physical or aethereal. The left physical Cartesian plane for example can be made to represent the movement of a country from a population of 1 million to 4 million at year 4. The right aethereal Cartesian plane plots movement of the soul of the same society from tyranny or neoconservatism (tetrahedron) into aristocracy or conservatism (octahedron) based on the Socrates' social cycles. Alternately, the left plane can represent Covid infections from 1,000 to 4,000 at the Day 4. The right plane can plot the evolution of the variants that emerge. Lastly, the left plane can represent a ball at [1,1] rolling to [4,4]. The right plane will then plot the changes in the ball's changing gravitational signature at each point [1,1] [2,2] [3,3] [4,4], as three time intervals. This will then be useful for levitating the ball (forceless movement) -->
+The materialist view of the universe belittles the metaphysical domain and treats it as insignificant, while enshrining the physical domain of physical sensations.
+
+The natural or spiritual view of the universe, on the other hand:
+- downplays physicality, calling it as an illusion or at least, something very crude and insignificant
+- give supreme emphasis on the metaphysical domain, specifically on the Supreme Entity that generates Existence
+
+<!-- However, the natural or spiritual view without the proper goal leads to  -->
+
+{{< i s="/graphics/super/free.jpg" a="Natural" c="The natural view frees the mind from limitation so that it can solve problems more conclusively" >}}
+
+
+## So What's the Use of the Natural View of the Univese?
+
+The natural view gets rid of the limitations imposed by the materialist view and expands mentality into the invisible aether. 
+
+This leads to solutions that are impossible to materialist science as they are seen as "pseudo-science"
+
+
+Science | Metaphysical Upgrade
+--- | ---
+Physics | Adopt the aether to allow anti-gravity, and relationality to downplay Heisenberg's Uncertainty Principle
+Medicine | Adopt the aether to allow Ayurveda, Chinese Medicine, Naturopathy for more diverse cures
+Politics | Adopt the aether to harmonize minds and political parties based on core idea
+Biology | Adopt the aether as Lamarckism willpower as the cause for change and evolution (i.e. we can will a harmonized world)
+Psychology | Adopt the aether, as Descartes animal spirits or Taoist chi, as the cause of behavior to better create behavior change
+
+

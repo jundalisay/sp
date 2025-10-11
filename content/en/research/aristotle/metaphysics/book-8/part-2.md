@@ -68,4 +68,3 @@ What is a calm?
 Smoothness of sea; the material substratum is the sea, and the actuality or shape is smoothness. 
 
 Thus, sensible substance is and how it exists-one kind of it as matter, another as form or actuality, are obvious. The third kind is that which is composed of these two.
-

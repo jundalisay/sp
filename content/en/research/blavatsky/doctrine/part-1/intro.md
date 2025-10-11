@@ -7,39 +7,29 @@ c: "indigo"
 ---
 
 
-Nor Aught nor Nought existed; yon bright sky
-Was not, nor heaven's broad roof outstretched above.
-What covered all? What sheltered? What concealed?
-Was it the water's fathomless abyss?
-There was no death—yet there was nought immortal,
-There was no confine betwixt day and night;
-The only One breathed breathless by Itself,
-Other than It there nothing since has been.
-Darkness there was, and all at first was veiled
-In gloom profound—an ocean without light.
-The germ that still lay covered in the husk
-Burst forth, one nature, from the fervent heat.
-Who knows the secret? Who proclaimed it here?
-Whence, whence this manifold creation sprang?
-The Gods themselves came later into being—
-Who knows from whence this great creation sprang?
-That, whence all this great creation came,
-Whether Its will created or was mute,
-The Most High Seer that is in highest heaven,
-He knows it—or perchance even he knows not.
-Gazing into eternity
-Ere the foundations of the earth were laid.
-Thou wert. And when the subterranean flame
-Shall burst its prison and devour the frame,
-Thou shalt be still as thou wert before
-And know no change, when time shall be no more.
-O, endless thought, divine Eternity.
-Rig Veda (Colebrooke).
+{{< l a="Rig Veda" >}}
+THEN was not non-existent nor existent: there was no realm of air, no sky beyond it.
+What covered in, and where? and what gave shelter? Was water there, unfathomed depth of water?
+Death was not then, nor was there aught immortal: no sign was there, the day's and night's divider.
+That One Thing, breathless, breathed by its own nature: apart from it was nothing whatsoever.
+Darkness there was: at first concealed in darkness this All was indiscriminate chaos.
+All that existed then was void and formless: by the great power of Warmth was born that Unit.
+Thereafter rose Desire in the beginning, Desire, the primal seed and germ of Spirit.
+Sages who searched with their heart's thought discovered the existent's kinship in the non-existent.
+Transversely was their severing line extended: what was above it then, and what below it?
+There were begetters, there were mighty forces, free action here and energy up yonder
+Who verily knows and who can here declare it, whence it was born and whence comes this creation?
+The Gods are later than this world's production. Who knows then whence it first came into being?
+He, the first origin of this creation, whether he formed it all or did not form it,
+Whose eye controls this world in highest heaven, he verily knows it, or perhaps he knows not.
+(Book 10 Verse 129)
+{{< /l >}}
 
 
-Seven Stanzas From The “Book Of Dzyan”
+## Seven Stanzas From The “Book Of Dzyan”
 
-Stanza I.
+### Stanza 1
+
 1. The Eternal Parent, wrapped in her Ever-Invisible Robes, had slumbered once again for Seven Eternities.
 
 2. Time was not, for it lay asleep in the Infinite Bosom of Duration.
@@ -50,7 +40,6 @@ Stanza I.
 
 5. Darkness alone filled the Boundless All, for Father, Mother and Son were once more one, and the Son had not yet awakened for the new Wheel and his Pilgrimage thereon.
 
-
 6. The Seven Sublime Lords and the Seven Truths had ceased to be, and the Universe, the Son of Necessity, was immersed in Paranishpanna, to be outbreathed by that which is, and yet is not. Naught was.
 
 7. The Causes of Existence had been done away with; the Visible that was, and the Invisible that is, rested in Eternal Non-Being—the One Being.
@@ -59,7 +48,8 @@ Stanza I.
 
 9. But where was Dangma when the Âlaya of the Universe was in Paramârtha, and the Great Wheel was Anupâdaka?
 
-Stanza II.
+
+### Stanza 2
 
 1. ... Where were the Builders, the Luminous Sons of Manvantaric Dawn?... In the Unknown Darkness in their Ah-hi Paranishpanna. The Producers of Form from No-Form—the Root of the World—the Devamâtri and Svabhâvat, rested in the Bliss of Non-Being.
 
@@ -73,7 +63,8 @@ Stanza II.
 
 6. These Two are the Germ, and the Germ is One. The Universe was still concealed in the Divine Thought and the Divine Bosom.
 
-Stanza III.
+
+### Stanza 3
 
 1. ... The last Vibration of the Seventh Eternity thrills through Infinitude. The Mother swells, expanding from within without, like the Bud of the Lotus.
 
@@ -116,7 +107,7 @@ Then the Three, the One, the Four, the One, the Five—the Twice Seven, the Sum 
 
 From the Divine Man emanated the Forms, the Sparks, the Sacred Animals, and the Messengers of the Sacred Fathers within the Holy Four.
 
-4. This was the Army of the Voice, the Divine Mother of the Seven. The Sparks of the Seven are subject to, and the servants of, the First, the Second, the Third, the Fourth, the [pg 061]Fifth, the Sixth, and the Seventh of the Seven. These are called Spheres, Triangles, Cubes, Lines and Modellers; for thus stands the Eternal Nidâna—the Oi-Ha-Hou.
+4. This was the Army of the Voice, the Divine Mother of the Seven. The Sparks of the Seven are subject to, and the servants of, the First, the Second, the Third, the Fourth, the Fifth, the Sixth, and the Seventh of the Seven. These are called Spheres, Triangles, Cubes, Lines and Modellers; for thus stands the Eternal Nidâna—the Oi-Ha-Hou.
 
 5. The Oi-Ha-Hou, which is Darkness, the Boundless, or the No-Number, Âdi-Nidâna Svabhâvat, the [circle]:
 
@@ -126,11 +117,14 @@ II. The Voice of the Word, Svabhâvat, the Numbers, for he is One and Nine.
 
 III. The “Formless Square.”
 
-And these Three, enclosed within the [circle], are the Sacred Four; and the Ten are the Arûpa Universe. Then come the Sons, the Seven Fighters, the One, the Eighth left out, and his Breath which is the Light-Maker.
+These Three, enclosed within the [circle], are the Sacred Four.
+
+The Ten are the Arûpa Universe. Then come the Sons, the Seven Fighters, the One, the Eighth left out, and his Breath which is the Light-Maker.
 
 6. ... Then the Second Seven, who are the Lipika, produced by the Three. The Rejected Son is One. The “Son-Suns” are countless.
 
-Stanza V.
+### Stanza 5
+
 1. The Primordial Seven, the First Seven Breaths of the Dragon of Wisdom, produce in their turn from their Holy Circumgyrating Breaths the Fiery Whirlwind.
 
 2. They make of him the Messenger of their Will. The Dzyu becomes Fohat: the swift Son of the Divine Sons, whose [pg 062]Sons are the Lipika, runs circular errands. Fohat is the Steed, and the Thought is the Rider. He passes like lightning through the fiery clouds; takes Three, and Five, and Seven Strides through the Seven Regions above, and the Seven below. He lifts his Voice, and calls the innumerable Sparks, and joins them together.
@@ -143,7 +137,9 @@ Stanza V.
 
 6. The Lipika circumscribe the Triangle, the First One, the Cube, the Second One, and the Pentacle within the Egg. It [pg 063]is the Ring called “Pass Not” for those who descend and ascend; who during the Kalpa are progressing towards the Great Day “Be With Us.”... Thus were formed the Arûpa and the Rûpa: from One Light, Seven Lights; from each of the Seven, seven times Seven Lights. The Wheels watch the Ring....
 
-Stanza VI.
+
+### Stanza 6
+
 1. By the power of the Mother of Mercy and Knowledge, Kwan-Yin—the Triple of Kwan-Shai-Yin, residing in Kwan-Yin-Tien—Fohat, the Breath of their Progeny, the Son of the Sons, having called forth, from the lower Abyss, the Illusive Form of Sien-Tchan and the Seven Elements.
 
 2. The Swift and the Radiant One produces the seven Laya Centres, against which none will prevail to the Great Day “Be With Us”; and seats the Universe on these Eternal Foundations, surrounding Sien-Tchan with the Elementary Germs.
@@ -152,7 +148,9 @@ Stanza VI.
 
 4. He builds them in the likeness of older Wheels, placing them on the Imperishable Centres.
 
-How does Fohat build them? He collects the Fiery-Dust. He makes Balls of Fire, runs through them, and round them, infusing life thereïnto, then sets them into motion; some one way, some the other way. They are cold, he makes them hot. They are dry, he makes them moist. They shine, he fans and cools them. Thus acts Fohat from one Twilight to the other, during Seven Eternities.
+How does Fohat build them? He collects the Fiery-Dust. He makes Balls of Fire, runs through them, and round them, infusing life thereïnto, then sets them into motion; some one way, some the other way. 
+
+They are cold, he makes them hot. They are dry, he makes them moist. They shine, he fans and cools them. Thus acts Fohat from one Twilight to the other, during Seven Eternities.
 
 5. At the Fourth, the Sons are told to create their Images. One-Third refuses. Two obey.
 
@@ -162,10 +160,19 @@ The Curse is pronounced. They will be born in the Fourth, suffer and cause suffe
 
 7. Make thy calculations, O Lanoo, if thou wouldst learn the correct age of thy Small Wheel. Its Fourth Spoke is our Mother. Reach the Fourth Fruit of the Fourth Path of Knowledge [pg 065]that leads to Nirvana, and thou shalt comprehend, for thou shalt see....
 
-Stanza VII.
+### Stanza 7
+
 1. Behold the beginning of sentient formless Life.
 
-First, the Divine, the One from the Mother-Spirit; then, the Spiritual; the Three from the One, the Four from the One, and the Five, from which the Three, the Five and the Seven. These are the Three-fold and the Four-fold downward; the Mind-born Sons of the First Lord, the Shining Seven. It is they who are thou, I, he, O Lanoo; they who watch over thee and thy mother, Bhûmî.
+First, the Divine, the One from the Mother-Spirit. 
+
+Then, the Spiritual; the Three from the One, the Four from the One, and the Five, from which the Three, the Five and the Seven. 
+
+These are the Three-fold and the Four-fold downward; the Mind-born Sons of the First Lord, the Shining Seven. 
+
+It is they who are you, I, he, O Lanoo.
+
+They who watch over thee and thy mother, Bhûmî.
 
 2. The One Ray multiplies the smaller Rays. Life precedes Form, and Life survives the last atom. Through the countless Rays the Life-Ray, the One, like a Thread through many Beads.
 
@@ -173,13 +180,18 @@ First, the Divine, the One from the Mother-Spirit; then, the Spiritual; the Thre
 
 4. It is the Root that never dies; the Three-tongued Flame of the Four Wicks. The Wicks are the Sparks, that draw from the Three-tongued Flame shot out by the Seven—their Flame—the Beams and Sparks of one Moon reflected in the running Waves of all the Rivers of Earth.
 
-[pg 066]
-5. The Spark hangs from the Flame by the finest thread of Fohat. It journeys through the Seven Worlds of Mâyâ. It stops in the First, and is a Metal and a Stone; it passes into the Second, and behold—a Plant; the Plant whirls through seven changes and becomes a Sacred Animal. From the combined attributes of these, Manu, the Thinker, is formed. Who forms him? The Seven Lives and the One Life. Who completes him? The Fivefold Lha. And who perfects the last Body? Fish, Sin, and Soma....
+5. The Spark hangs from the Flame by the finest thread of Fohat. 
+
+It journeys through the Seven Worlds of Mâyâ. It stops in the First, and is a Metal and a Stone; it passes into the Second, and behold—a Plant; the Plant whirls through seven changes and becomes a Sacred Animal. 
+
+From the combined attributes of these, Manu, the Thinker, is formed. Who forms him? The Seven Lives and the One Life. Who completes him? The Fivefold Lha. 
+
+Who perfects the last Body? Fish, Sin, and Soma....
 
 6. From the First-born the Thread between the Silent Watcher and his Shadow becomes more strong and radiant with every Change. The morning Sunlight has changed into noon-day glory....
 
-7. “This is thy present Wheel,” said the Flame to the Spark. “Thou art myself, my image and my shadow. I have clothed myself in thee, and thou art my Vâhan to the Day ‘Be With Us,’ when thou shalt re-become myself and others, thyself and me.” Then the Builders, having donned their first Clothing, descend on radiant Earth and reign over Men—who are themselves....
+7. “This is thy present Wheel,” said the Flame to the Spark. 
+
+“Thou art myself, my image and my shadow. I have clothed myself in thee, and thou art my Vâhan to the Day ‘Be With Us,’ when thou shalt re-become myself and others, thyself and me.” Then the Builders, having donned their first Clothing, descend on radiant Earth and reign over Men—who are themselves....
 
 [Thus ends this portion of the archaic narrative, dark, confused, almost incomprehensible. An attempt will now be made to throw light into this darkness, to make sense out of this apparent non-sense.]
-
-

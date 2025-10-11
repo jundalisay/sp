@@ -6,6 +6,28 @@ description: "All that we perceive is in the universe which is a matrix of the i
 ---
 
 
+Chapter organization
+1 2 Domains
+2 5 Elements
+3 Supreme 
+4 2 Forces Polarity Feelings
+5   Ideas
+6	Conservation (Unity), Signature or Spin (Identity)
+7	Action (Relationality or Division of Labor, Territory)
+8	Force or Change or Phenomena (Value Creation)
+
+
+Chapter	Topic
+1	Basic Info
+2	Polarity and Sublayers
+3	Medium
+4	Substance
+5	Quantum
+6	Conservation (Unity), Signature or Spin (Identity)
+7	Action (Relationality or Division of Labor, Territory)
+8	Force or Change or Phenomena (Value Creation)
+
+
 We know the existence of thing through our perceptions of it. Each perception has 2 aspects:
 
 1. Physical

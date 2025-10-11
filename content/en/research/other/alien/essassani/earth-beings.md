@@ -63,6 +63,9 @@ Then add imagery in your mind, think in pictures of what you want to communicate
 {{< /l >}}
 
 
+Animals think using pictures, different from humans who think in words. 
+
+Communicate to animals by sending them pictures. 
 
 Orcas are the samurai of the sea.
 

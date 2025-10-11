@@ -35,7 +35,7 @@ icon: "Buddha"
 
 
 
-### Chapter 3: Cittavagga: The Mind
+## Chapter 3: Cittavagga: The Mind
 
 33. Just as a fletcher straightens an arrow shaft, even so the discerning man straightens his mind — so fickle and unsteady, so difficult to guard.
 

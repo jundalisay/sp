@@ -25,7 +25,7 @@ proofs:
     
   - cat: "Material Superphysics"
     color: "darkgoldenrod"
-    img: "/photos/objects/gauge.jpg"
+    img: "/photos/physics/gauge.jpg"
     title: "Gauge Block Bonding (Wringing)"
     sub: "Gauge Block bond because they are pushed by virtual space particles"
     url: "/material/principles/part-2/chapter-03i"

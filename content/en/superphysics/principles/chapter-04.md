@@ -1,135 +1,175 @@
 ---
-title: "Everything is an Idea"
-#, Propelled by Feelings
 heading: "Chapter 4"
-date: 2020-01-02
-weight: 21
-image: /photos/idea.jpg
-description: "Everything is an idea of the Creator of that existence"
-icon: "Superphysics"
-tags: ['Lao Tzu', 'Yin Yang']
-toc: false
+title: "Spacetime Slices and the 8 Dimensions"
+date: 2022-06-22
+image: "/graphics/physics/aetherspaceall.jpg"
+description: "The separation of nodes leads to Spacetime Slices and the 8 Dimensions"
+weight: 200
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+icon: "Superphysics"
 ---
 
 
-{{< dc t="Principles (click to expand)">}}
-Principles | Assertions
---- | ---
-There are 2 Domains in Reality | The Metaphysical is Superior to the Physical
-. | The Objects in the Metaphysical Domain are called Ideas
-{{< /dc  >}}
+## Planck Length as the Gap Between Perceptions
+
+Chapter 1 explained that identities, ideas, and minds are nodes formed from concentrations of both subtle and crude waves which come from the Aether Element.
+
+These are created by the Negative Force as it cuts up the Supreme Entity into parts. 
+
+But at the same time, the Positive stitches those parts together. 
+
+These makes the nodes separated by perception gaps which we call timespan.
+- This is from the Negative Force which is imparted by the Air Element, which facilitates space and time.
+- The Positive Force glues these nodes together to create a single consistent experience.
+
+This operation is similar to your screen being made up of pixels that are separated by a distance called a pixel pitch.
+- The smallness of the gaps makes them imperceptible
+
+{{< i s="/graphics/tech/pitch.jpg" a="Pixel Pitch" c="The gap between metaphysical objects is like the gap between pixels" >}}
+
+
+{{< q a="Timaeus" c="Timaeus by Plato Simplified, Chapter 4" >}}
+The Creator rejoiced when He saw his creation moving and living..The nature of the creation's Idea-being was everlasting. But it is impossible to make creation everlasting. So He resolved to have a moving image of eternity. When He set the order of the heaven, He made this image eternal but moving according to number, while eternity itself rests in unity. This image is what we call time.
+{{< /q >}}
+
+
+In Modern Physics, this gap is called the Planck length which is a very small distance: 1.616255 × 10−35 meters 
+
+
+## Spacetime Slices
+
+We plug these gaps into our wave model of nodes, vortices, and ideas to create the concept of spacetime slices. 
+
+<!-- Chapter 2 explained that the role of the Air Element is to separate objects. This is why all physical and biological forces are sourced from it.  -->
+
+Each spacetime slice is a collection or group of waves that have a common quality either in frequency, strength, speed,  or thickness (subtle versus crude). 
+
+Their affinity with the observing mind, which is also a node but more subtle, makes them perceivable. 
+
+These are then stitched together by the Positive Force that incluences that mind to create the structure of reality for that mind. 
+
+{{< i s="/graphics/super/nodes.svg" a="Slices" >}}
+
+
+In other words, each of our perceptions is in a cognition-slice called spacetime. These slices are glued together by the flow of our minds, creating our fluid reality. 
+
+**This means that only the present perception is the basis or anchor for all our other perceptions.** 
+
+{{< i s="/graphics/flipbook.gif" a="Flipbook about a cat" c="Reality is made of independent slices like an animation" >}}
 
 
 
-{{< box >}}
-The Chapter on Qualimath has been moved [here](/superphysics/principles/chapter-07)
-{{< /box >}}
+This was best explained by Rene Descartes:
 
 
-Chapter 3 explained that the downward flow of ideas from imagination into reality is facilitated by the Negative Force. 
+{{< q a="Rene Descartes" c="Principia Philosophia, Part 1, Article 21" >}}
+The parts of timespan are not mutually dependent and are never co-existent. We exist now. But it does not follow that we will exist in the next moment unless the cause of our existence keeps on sustaining us. We know that:
+- we have no inherent power to keep our existence persisting in every moment
+- another being has so much power to keep our existence out of himself
 
-This is matched by the upward climb of understanding from the Positive.
-
-In other words, a thing can travel from idea downwards to matter, just as matter can travel upwards to idea.
-
-For instance, we sometimes perceive something totally new. When Covid first struck in December 2019 in Wuhan, doctors had no metaphysical idea of it, even if they could see the physical disease.
-
-{{< img src="/photos/med/covid.jpg" alt="Covid in water" cap="The idea of Covid is started to exist in the physical domain when the physical perception of the new virus began. Its evolution from 'Novel Coronavirus Disease' to 'Covid-19' is an example a metaphysical 'aether drag'" >}}
-
-In this case, the physical disease started to exist through the senses of the Wuhan doctors. But the complete idea of it did not exist in human minds until scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19.
-
-<!-- It means that the complete metaphysical idea existed in Nature, before humans could completely recreate it in their minds. -->
-
-A materialist will say that this example is proof that ideas are created by material perceptions. 
-
-We reply that the physicality of Covid came from the Supreme’s idea for Covid, and that our idea for Covid is a closing of that great loop from Consciouness to Existence and back to consciousness. 
-
-The continuation of this loop includes the evolution of its idea from ‘Novel Coronavirus Disease’ to ‘Covid-19’ as an example of metaphysical ‘aether drag’ which will be in Material Superphysics.
+This means that that being, as God, preserves himself.
+{{< /q >}}
 
 
+And by David Hume:
 
-<!-- In this case, the physical disease started to exist through the senses of the Wuhan doctors. But the complete idea of it did not exist in human minds until scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19.  -->
-
-
-## The Superiority of the Metaphysical Over the Physical
-
-This strengthens the fact that:
-- physical things are perceivable through our 5 senses
-- metaphysical things are perceivable through our intellect and feelings (the 6th sense).
-- every physical thing or perception has a corresponding metaphysical idea or feeling
-- every idea or feeling exists before its physical version does.
-
-<!-- - physical things are tangible and perceivable through our five senses
-- metaphysical things are perceivable through our intellect and feelings (the 6th sense). -->
-
-{{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics" >}}
-
-The mug only existed after the maker of mugs had the idea of a mug, as to be able to create a physical mug. 
-
-It follows that Covid-19 existed after Nature had the idea for it, and that its solution already exists in Nature*.
+{{< q a="David Hume" c="Treatise of Human Nature, Book 1, Part 1, Section 3" >}}
+If you wheel around a burning coal rapidly, it will appear as an image of a circle of fire. There will seem no gap of time between its revolutions because our perceptions cannot succeed each other as fast as its rotation. Wherever we have no successive perceptions, we have no notion of time, even though there is a real succession in the objects.
+{{< /q >}}
 
 
-{{< dc t="Update Dec 14, 2021 (click to expand)" >}}
-*This is why our proposed solution to end Covid is to end the war against the Amazon rainforest, just as the Spanish flu ended after the peace of World War I. Vaccines are just a workaround that is supposed to buy time to implement that real solution. Unfortunately, science thinks that vaccines are the solution. The error in this is proven by the rise in the recent Covid hospitalizations in Europe despite their high vaccination rates. Superphysics is pro-vaccination just like we are ok with paracetamol for headaches. But both are just workarounds to buy time to find the root cause of the virus and the headache. 
-{{< /dc >}}
+The common fallacy is to believe that our perceptions happen within space and time. In reality, it is the other way around.
+
+Space and time are merely effects of our successive perceptions which in turn caused by the fact that waves are continuous and recurring. 
 
 
-<!-- {{< me date="August 1, 2022" >}}
-*Environmental destruction hasn't stopped yet, and so Nature just throws another virus as monkeypox to show who's boss. 
-{{< /me >}}
- -->
+{{< i s="/graphics/super/time.jpg" a="Spacetime slices" c="In Superphysics, time and space are effects of perception. This allows objects and minds to go back in time" >}}
 
-Thus:
-- every physical thing or perception has a corresponding metaphysical idea or feeling
-- every idea or feeling exists before its physical version does.
 
-For example, before a novel about a cat is written in a physical form, the idea for the novel must exist first. 
 
-Therefore, the metaphysical aethereal idea is superior and prior to its physical material form.  
-- The material form is easy and obvious.
-- The aethereal idea is abstract and hard to grasp.  
+### The Slices are the Basis for Dimensions
 
-**To dull and unthinking minds, this makes the material version of the idea as seemingly superior, even if it is actually just the effect.**
+Past, present, and future are therefore the arrangement of the spacetime slices according to the flow of cognition. 
 
-The dull-minded people and the sharp-minded ones then argue on **which came first**, and **which is superior**. 
+- Space is regarded as the 3rd dimension, which is really 2 dimensions stitched together by the same flow of cognition. 
+- Time is regarded as the 4th dimension when the 3rd dimension is stitched together according to the changes in itself. 
 
-Did the physical version come first? Or did the aethereal or idea-version come first?
+{{< i s="/graphics/physics/aetherspaceall.jpg" a="Dimensions" c="The 6th dimension is a universe as the collective of the 5th dimension as alternate realities" >}}
 
-- The pro-metaphysical camp would say that ideas, spirit, and Plato's forms came first. This is the chicken.
-  - An example is the Hindu belief that the universe was created from the thought of Brahma 
-- The pro-physicality camp would say that matter, material evidence, and Aristotle's material substance came first. This is the egg
-  - An example is the Big Bang, wherein the universe came from a material singularity that had all the mass of the universe. 
 
-The aetherealist-materialist rivalry exists in civilized cultures:
+From this we can say that:
 
-Culture | Aetherealist | Materialist
+- The 5th dimension is the 4th dimension stitched with probabilities, as alternate realities
+- The 6th dimension is the 5th dimension stitched with different laws, as different universes
+- The 7th dimension is the 6th dimension stitched with a total perspective, as the total reality
+- The 8th dimension is the 7th dimension as one object, as perfection or void
+
+{{< youtube ANmq24cJFc0 >}}
+
+{{< q a="Kepler" c="The Harmony of the World, Introduction" >}}
+By doubling the sides of the first Tetractys, another Pythagorean Tetractys is constructed, of the number 36, the most famous and in all respects the most useful which they possessed, that is the triangle of numbers of which the
+base is the Eightfold.
+{{< /q >}}
+
+
+## The Upgrade of the Dimensions from the Upgrade of the Human Mind
+
+The universe that we see is just a limited 4th dimension version of our 6th dimension universe.
+
+{{< i s="/graphics/super/density.jpg" a="Density" c="The expansion of the universe mirrors the expansion of human cognition" >}}
+
+When human cognition was at a caveman level, the universe was static, with the Earth at the center of a 3-dimensional universe. 
+
+This was revised into a heliocentric universe when cognition expanded beyond the Earth. 
+
+This was further expanded when humans decided to build large telescopes leading to the cognition of the 4th dimension as time.
+- This led to galaxy clusters, as a cosmic web.  
+
+This was expanded further with quantum mechanics with light showing wave-particle duality which proved a 5th dimension as alternate realities superimposed on each other.
+
+The 6th dimension is a combination of the 5th dimension being compared to each other. This can be achieved when humans reach other star systems through teleportation. 
+
+
+We summarize the 8 dimensions below:
+
+Dimension | Name | Manifestation
 --- | --- | ---
-India | Vedanta, Buddhism |  Kali (idol-worship), Carvaka
-China | Taoism | Confucianism
-Islam | Sufism | Sunni policies such as Sharia (e.g. the Quran has geocentric physics inherited from Aristotle)
-Europe | Religion, Philosophy | Science
+1 | Existential | Identity
+2 | Planar | 2-dimensional space
+3 | Spatial | 3-dimensional space
+4 | Temporal | Time
+5 | Lateral | Alternate Realities
+6 | Multiversal | Universes in the Multiverse
+7 | Causal | Ultimate Cause
+8 | Void | Void
 
 
-<!--   - In Hindu philosophy, this manifests as sects of Shaivism and 
-  - In Chinese philosophy, this manifests as , saving face, and showing how prosperous you are as a physical proof of your happiness
-  - In Islamic philosophy, this manifests as the    -->
+## Non-Locality from the Independence of the Spacetime Slices
 
+The slices are independent of each other, just as a node is its own thing and not an effect of the previous nodes. 
 
-In the West, the rivalry manifests as philosophy versus science. 
+However, they are usually related to each other just as the crest of a wave is related to its trough.
 
-_ | Philosophy | Science
---- | --- | --- 
-Emphasis | Spirit and ideas | Sensory proofs and material evidence
-Consciousness is.. | ..the metaphysical soul | ..the physical brain
+Similarly, a universe is independent of other universes. 
 
-Superphysics is in between both abstract philosophy and material science.
-- It is grounded on the metaphysical, but can quickly extend down to sensory evidence and practicality. 
-- It sees the physical brain and its hormones as the effect of the metaphysical soul and its feelings. 
+However, what happens in another universe has a relation to other universes and can affect others.  
 
-Unlike science which manipulates the brain and hopes that it changes the soul or mind, Superphysics works directly on the soul in order to resolve its physical issues with the brain.
+This independence leads to the concept of non-locality in Quantum Mechanics. 
 
+<!-- The relation leads to the colllapse  -->
 
-<!-- ## Tap into your feelings, the deeper the better -->
+<!-- The 8 dimensions are based on the spacetime where ideas and experiences are generated. 
+
+This includes the sequence of perceptions. For example, in the Existential, Planar, and Spatial dimensions, the concept of time is just of one moment, as there is no change or gaps in perceptions yet.
+
+Linear time really begins in the Temporal dimension where changes take place. 
+
+Nonlinear time begins in the Lateral dimension where alternate realities take place. In that dimension, switching between
+realities is possible and time becomes less linear. 
+
+An example is a  dream wherein experiences, as scenes, can jump from on to the other randomly. 
+
+In the Multiversal dimension, multiple universes and therefore multiple spacetime exist.
+ -->

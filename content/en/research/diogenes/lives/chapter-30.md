@@ -25,12 +25,25 @@ Phavorinus, in his Universal History, says that Democritus said of Anaxagoras, t
 
 He used also to pull to pieces his assertions about the composition of the world, and about mind, as he was hostile to him, because he had declined to admit him as a pupil.
 
-How then can he have been a pupil of his, as some assert? And[391] Demetrius in his treatise on People of the same Name, and Antisthenes in his Successions, both affirm that he travelled to Egypt to see the priests there, and to learn mathematics of them; and that he proceeded further to the Chaldæans, and penetrated into Persia, and went as far as the Persian Gulf. Some also say that he made acquaintance with the Gymnosophists in India, and that he went to Æthiopia.
+How then can he have been a pupil of his, as some assert? 
+
+<!-- in his treatise on People of the same Name, in his Successions-->
+Demetrius and Antisthenes affirm that Democritus:
+- travelled to Egypt to learn mathematics from the priests there
+- went next to the Chaldæans, then into Persia as far the Persian Gulf
+
+Some say he made acquaintance with the Gymnosophists in India, and that he went to Ethiopia.
 
 
-<sup>3</sup> He was one of three brothers who divided their patrimony among them; and the most common story is, that he took the smaller portion, as it was in money, because he required money for the purpose of travelling; though his brothers suspected him of entertaining some treacherous design.
+<sup>3</sup> He was one of 3 brothers who divided their patrimony among them.
 
-Demetrius says, that his share amounted to more than a hundred talents, and that he spent the whole of it.
+The most common story is, that he took the smaller portion, as it was in money, because he required money for travelling.
+
+Though his brothers suspected him of entertaining some treacherous design.
+
+Demetrius says that:
+- his share was more than 100 talents
+- he spent the whole of it.
 
 
 <sup>4</sup> Demetrius also says that Democritus was so industrious that he cut off for himself a small portion of the garden which surrounded his house, in which there was a small cottage, and shut himself up in it.
@@ -60,13 +73,24 @@ At all events, Glaucus, of Rhegium, who was a contemporary of his, affirms that 
 Apollodorus, of Cyzicus, says that he was intimate with Philolaus; “He used to practise himself,” says Antisthenes, “in testing perceptions in various manners; sometimes retiring into solitary places, and spending his time even among tombs.”
 
 
-<sup>7</sup> When he returned from his travels, he lived in a most humble manner; like a man who had spent all his property, and that on account of his poverty, he was supported by his brother Damasus. 
+<sup>7</sup> When he returned from his travels, he lived in a most humble manner; like a man who had spent all his property.
+
+Because of his poverty, he was supported by his brother Damasus. 
 
 But when he had foretold some future event, which happened as he had predicted, and had in consequence become famous, he was for all the rest of his life thought worthy of almost divine honours by the generality of people. 
 
-And as there was a law, that a man who had squandered the whole of his patrimony, should not be allowed funeral rites in his country, Antisthenes says, that he, being aware of this law, and not wishing to be exposed to the calumnies of those who envied him, and would be glad to accuse him, recited to the people his work called the Great World, which is far superior to all his other writings, and that as a reward for it he was presented with five hundred talents; and not only that, but he also had some brazen statues erected in his honour.
+There was a law that a man who had squandered his whole patrimony should not be allowed funeral rites in his country.
 
-When he died, he was buried at the public expense; after having attained the age of more than a hundred years. But Demetrius says, that it was his relations who read the Great World, and that they were presented with a hundred talents only; and Hippobotus coincides in this statement.
+Antisthenes says that he:
+- recited to the people his work called "the Great World" which is superior to all his other writings
+- was givem 500 talents as reward
+- had some brazen statues erected in his honour.
+
+<!-- , being aware of this law, and not wishing to be exposed to the calumnies of those who envied him, and would be glad to accuse him,  -->
+
+When he died at the age of over 100 years, he was buried at the public expense.
+
+But Demetrius says, that it was his relations who read the Great World, and that they were presented with a hundred talents only; and Hippobotus coincides in this statement.
 
 
 
@@ -106,6 +130,3 @@ What man was e’er so wise, who ever did
 So great a deed as this Democritus?
 Who kept off death, though present for three days,
 And entertained him with hot steam of bread.
-
-
-

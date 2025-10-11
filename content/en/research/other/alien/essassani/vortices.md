@@ -6,6 +6,7 @@ description: ""
 ---
 
 
+
 {{< r a="Woman" >}}
 Are there vortices in Australia?
 {{< /r >}}

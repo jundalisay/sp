@@ -8,7 +8,7 @@ writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
 weight: 6
-icon: /icons/spi.png
+icon: "Lam"
 ---
 
 

@@ -14,7 +14,7 @@ Among these seven types of devayoni, the siddha is the best.
 
 Siddhas perform their sádhaná, but sádhaná remaining just at the half-way point. And whenever there is an assemblage of singers or dancers, what happens? 
 
-Gandharvas, with their mental bodies, their reactive momenta and non-cerebral memories, assemble. Wherever there is any programme of music, there they assemble, but invisible. Sometimes, though, they become visible. I will explain.
+Gandharvas, with their mental bodies, their reactive momenta and non-cerebral memories, assemble. Wherever there is any programme of music, there they assemble, but invisible. Sometimes, though, they become visible.
 
 Wherever there is any spiritual gathering, siddhas come. And during a musical function, whenever the mind of a particular artist becomes concentrated, they will see the luminous bodies of gandharvas. 
 
@@ -23,33 +23,55 @@ Similarly, during meditation, or particularly during kiirtana, when a spiritual 
 In Jamalpur, in the area of the tiger’s grave, there were assemblages of large numbers of siddhas. One of our senior grhii ácáryas [married spiritual teachers] used to see them.
 
 
-I will narrate a very short story. A few years back, two of our kápálika sádhakas(1) came to a river. That river is not a big one, but the depth is there. 
+A few years back, 2 of our kápálika sádhakas(1) came to a small but deep river.
 
-They were at a loss to decide how to cross the river. Just on the other side of the river there was a burial ground, a cremation ground. They were thinking hard, at midnight.
+They were at a loss to decide how to cross the river at midnight. 
 
-All of a sudden, they saw a luminous body just in front of them. The luminous body began moving, and these two boys followed it. Coming to a particular point, that luminous body started crossing the river, and these two boys followed him. 
+Just on the other side there was a burial ground, a cremation ground.
 
-That particular portion of the river was very shallow, knee-deep. They easily crossed the river and reached the other side.
+<!-- They were thinking hard, . -->
 
-Just on the other bank there was a tree. From there they went two different ways to do their night practice. 
+All of a sudden, a luminous body appeared just in front of them.
+
+It began moving, and so they followed it. 
+
+At a particular point, it started crossing the river. So they followed him. 
+
+That portion of the river was very shallow, knee-deep. 
+
+They easily crossed the river and reached the other side.
+
+Just on the other bank there was a tree. 
+
+From there, they went 2 different ways to do their night practice. 
 
 After night practice they came back to the tree. They again saw that luminous body and again followed it and crossed the river.
 
-After coming to the original bank, the junior boy addressed the senior man, “Oh Dádá, let us request that luminous body to bless us.” As soon as he said this, the luminous body disappeared. What was that luminous body? A siddha.
+After coming to the original bank, the junior boy addressed the senior man, “Oh Dada, let us request that luminous body to bless us.” 
 
-What happens when a person sees some unnatural picture or unnatural image or unnatural being? 
+As soon as he said this, the luminous body disappeared. 
 
-One possibility I have already explained – it may be that a Tantric, with the help of his or her ectoplasmic structure, has created a body for a disembodied mind just to terrorize others. 
+It was siddha.
 
-A Vidyá Tantric will not do these things, but an Avidyá Tantric may do so just to terrorize others, as they used to do in the past. After getting some money they would stop the practice.
+What happens when a person sees some unnatural picture or unnatural image or being? 
 
-Suppose that some time you go to a particular house which people say is haunted. There are some haunted houses in every town, and I have already told you that if you find any haunted house, you just purchase it and use it. 
+It may be that a Tantric, with the help of his or her ectoplasmic structure, has created a body for a disembodied mind just to terrorize others. 
 
-Ghosts won’t terrorize Ananda Margis, because every Ananda Margi is a ghost. [laughter] “They are the followers of Shiva.”(2) Ghosts will not terrorize ghosts.
+A Vidya Tantric will not do these things. But an Avidya Tantric may do so just to terrorize others, as they used to do in the past. After getting some money they would stop the practice.
 
-What happens there? Due to terror, due to pre-imposed terror, a person’s mind gets concentrated. Due to fear the mind gets concentrated, and due to concentration, what happens?
+Suppose that some time you go to a haunted house.
 
-A certain portion of the person’s own ectoplasmic stuff goes to help a detached mind in creating a body, an ectoplasmic body. 
+If you find any haunted house, you just purchase it and use it. 
+
+Ghosts won’t terrorize Ananda Margis, because every Ananda Margi is a ghost. [laughter] 
+
+“They are the followers of Shiva.”(2) 
+
+Ghosts will not terrorize ghosts.
+
+Due to pre-imposed terror, a person’s mind gets concentrated. 
+
+Due to fear, the mind gets concentrated. Due to concentration, a certain portion of the person’s own ectoplasmic stuff goes to help a detached mind in creating a body, an ectoplasmic body. 
 
 So you see your own creation. The creation has been made out of your own ectoplasmic stuff. But that detached mind was also there. It was not a ghost. 
 
@@ -59,31 +81,36 @@ Your ectoplasmic stuff is transferred to that detached mind due to your mental c
 
 This type of concentration takes place under 5 types of circumstance:
 
-1. kśipta
-2. múd́ha
-3. vikśipta
-4. ekágra
-5. nirodha
+1. Ksipta
 
-Kśipta is when the mind is very perturbed, full of worries and anxieties.
+Kśipta is when the mind is very perturbed, full of worries and anxieties. At that time, due to sudden, short concentration, such a thing may happen. 
 
-At that time, due to sudden, short concentration, such a thing may happen. 
+
+2. Múd́ha
 
 Múd́ha is when your brain fails to decide what to do or what not to do – you are at a loss for what to do.
 
 This is called múd́ha – múh plus kta. 
 
-Vikśipta – you are not concentrating on a particular point, but finally your mind becomes tired and, in that state, you see those things.
+
+3. Viksipta
+
+You are not concentrating on a particular point, but finally your mind becomes tired and, in that state, you see those things.
 
 You know by lullabies we make the minds of children vikśipta and they fall asleep. 
 
 (Lullabies, you know? – poems recited in the ears to put children into deep slumber, not ordinary sleep.) 
 
-Ekágra is when your mind gets pointed.
 
-The fifth is nirodha, when you suspend all the expressions of your propensities. 
+4. Ekagra
 
-In these five conditions you may see those things and you may, knowingly or unknowingly, consciously or unconsciously, transfer certain portions of your ectoplasmic body to a detached mind and create a positive hallucination of this kind.
+Ekagra is when your mind gets pointed.
+
+5. Nirodha
+
+This is when you suspend all the expressions of your propensities. 
+
+In these 5 conditions you may see those things and you may, knowingly or unknowingly, consciously or unconsciously, transfer certain portions of your ectoplasmic body to a detached mind and create a positive hallucination of this kind.
 
 
 19 October 1978, Patna

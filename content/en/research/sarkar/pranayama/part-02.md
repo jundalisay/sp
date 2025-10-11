@@ -171,7 +171,7 @@ Muladhara | Lam
 Svadhisthana | Vam
 Manipura | Ram
 Anahata | Yam
-VVishuddha | Ham
+Vishuddha | Ham
 Ajina | T'ham
 
 Since then it have been known as Yudhisthira Vidya.

@@ -10,7 +10,10 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 weight: 4
 toc: false
+aliases:
+  /real-price
 ---
+
 
 <!-- ### The Third Law of Value: The Invisible Hand of Dharma as Real Prices -->
 

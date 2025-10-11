@@ -1,5 +1,5 @@
 ---
-title: "Discourses on the Mahabharata"
+title: "Mahabharata"
 c: "indigo"
 description: "PR Sarkar explains the Mahabharata"
 author: "PR Sarkar"

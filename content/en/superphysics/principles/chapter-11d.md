@@ -1,10 +1,11 @@
 ---
-heading: Chapter 11d
-title: Parts of a Logical System
-date: 2024-02-20
-image: "/graphics/meta/logicparts.jpg"
-description: "We visualize the parts of a logical system as a house"
-weight: 65
+heading: "Chapter 11d"
+title: "The Academy of Sages"
+date: 2025-01-18
+# date: 2020-11-20
+weight: 730
+image: /photos/medieval/spartan.jpg
+description: "Academy of Sages is an institution for advancing true knowledge"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -12,37 +13,27 @@ icon: "Superphysics"
 ---
 
 
-{{< n n="This will be in the appendix instead" >}}
+In the Republic of Plato, Socrates explains his concept of Guardians. 
+
+These are strong warriors who are also philosophers. This is taken from the Spartans who known for their military skill as well as wisdom. 
+
+Technically, this combines the Thinking and Warrior Classes.  
+
+We can call them sages to emphasize the requirement of wisdom which we defined as an intellect that is in line with the dharma of the causes and effects in question.
+
+Sages are the detectors of the abstract and subtle phenomena. They can process what they detected and also implement them in the real world. 
 
 
-While going through Newton's Principia, Spninoza's Ethics, and Euclid's Elements, we found an arrangement of chapters that turned out to be commmon among mathematicians. 
+This means that they have 3 competencies:
 
-These used the following words, which we defined as:
-
-Word | Meaning
+Quality | Skill 
 --- | ---
-Axiom | A self-evident fundamental statement considered true by definition. It serves as a starting point for other statements.
-Corollary | A resulting statement that directly follows from a theorem
-Definition | A statement that gives the properties of a new idea
-Lemma | A resultant statement proven true, used to prove another, more important theorem
-Postulate | An axiom with a specific scope
-Proposition | A statement that can be either true or false
-Theorem | A resultant statement proven true through other statements
-Truth | the equality of perceptions from different perceiving identitites
+Spirituality | Ability to Detect Subtle Phenomena
+Intellect | Ability to connect phenomena with Principles
+Action | Ability to implement solutions or measures 
 
 
-To make these easy to understand, we visualize it as a house. 
 
-{{< img src="/graphics/meta/logicparts.jpg" alt="Parts of a Logical System" cap="" >}}
+<!-- The world values the James Webb Space Telescope for giving better images than the Hubble Space Telescope.   -->
 
-
-Word | House Part
---- | ---
-Axioms | The foundation, accepted as true without question.
-Definitions | The material type that define the building's components.
-Propositions | Individual materials that contribute to the structure.
-Theorems | Major structural elements based on the foundation.
-Postulates | Additional supporting beams.
-Corollaries | Smaller structures built directly on a larger theorem.
-Lemmas | Scaffolding, for new theorems, later removed.
 

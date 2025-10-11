@@ -7,7 +7,7 @@ description: "Vegetarian Diets are important for health and spirituality"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
-icon: /icons/spi.png
+icon: "Lam"
 weight: 12
 ---
 

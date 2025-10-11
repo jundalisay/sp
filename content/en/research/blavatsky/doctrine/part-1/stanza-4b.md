@@ -7,9 +7,19 @@ c: "indigo"
 ---
 
 
-4. This was the Army of the Voice, the Divine Mother of the Seven. The Sparks of the Seven are subject to, and the servants of, the First, the Second, the Third, the Fourth, the Fifth, the Sixth, and the Seventh of the Seven (a). These162 are called Spheres, Triangles, Cubes, Lines and Modellers; for thus stands the Eternal Nidâna—the Oi-Ha-Hou (b).163
+4. This was the Army of the Voice, the Divine Mother of the Seven. 
 
-(a) This Shloka gives again a brief analysis of the Hierarchies of the Dhyân Chohans, called Devas (Gods) in India, or the Conscious Intelligent Powers in Nature. To this Hierarchy correspond the actual types into which Humanity may be divided; for Humanity, as a whole, is in reality a materialized, though as yet imperfect, expression thereof. The “Army of the Voice” is a term closely connected with the mystery of Sound and Speech, as an effect and corollary of the Cause—Divine Thought. As beautifully expressed by P. Christian, the learned author of Histoire de la Magie and L'Homme Rouge des Tuileries, the words spoken by, as well as the name of, every individual largely determine his future fate. Why? Because:
+The Sparks of the Seven are subject to, and the servants of, the First, the Second, the Third, the Fourth, the Fifth, the Sixth, and the Seventh of the Seven (a). 
+
+These are called Spheres, Triangles, Cubes, Lines and Modellers; for thus stands the Eternal Nidâna—the Oi-Ha-Hou (b).
+
+(a) This Shloka gives again a brief analysis of the Hierarchies of the Dhyân Chohans, called Devas (Gods) in India, or the Conscious Intelligent Powers in Nature. 
+
+To this Hierarchy correspond the actual types into which Humanity may be divided; for Humanity, as a whole, is in reality a materialized, though as yet imperfect, expression thereof. 
+
+The “Army of the Voice” is a term closely connected with the mystery of Sound and Speech, as an effect and corollary of the Cause—Divine Thought. 
+
+As beautifully expressed by P. Christian, the learned author of Histoire de la Magie and L'Homme Rouge des Tuileries, the words spoken by, as well as the name of, every individual largely determine his future fate. Why? Because:
 
 When our soul [mind] creates or evokes a thought, the representative sign of that thought is self-engraved upon the astral fluid, which is the receptacle and, so to say, the mirror of all the manifestations of being.
 

@@ -1,21 +1,27 @@
-
 logistics 
 disruption forecasting
 predictive maintenance
 crew 
 
 
-
-
 ego 
 what he thinks he wants 
 what he really wants
 
-epolar payment gateway
-
-Our team uses Claude in hackathons. But what is Cursor?
+epolar payment gateway?
 
 https://www.linkedin.com/pulse/vietnam-bright-spot-tumultuous-trade-war-lam-nguyen-6dkac
+
+# ROUTES
+
+/qualimath
+/ani
+/eagle
+/critical-feeling
+/natural-price
+/effort-theory
+/grain-value
+/balance
 
 
 <!-- inject such particles into protons. It would be like using a sniper to get rid of a single terrorist instead of using a huge bomb to destroy his whole house, hoping that he is inside.
@@ -41,7 +47,6 @@ The key takeaway is that both antimatter and Simulation Theory, and everything i
 
 The acceptance of this concept will allow more advanced realities and solutions to appear. The disbelief, on the contrary, will keep reality unchanged within the current status quo and its many problems.  
  -->
-
 
  brahma as all programs,Samskara as Compiler
 
@@ -177,11 +182,6 @@ This is because:
 - the air-aether that goes around the Earth also unifies the air, water, and Earth into a single body.
   - This is because its air-aether travels much faster than the air-aether that is in the gaps within the physical air, water, and other material bodies on Earth.
 - the air-aether within the unified earth-body flows away from `T` in straight lines. 
-
-
-
-
-
 
 
 .fly-in {
